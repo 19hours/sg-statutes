@@ -88,11 +88,7 @@
 
 - [35 Duties of qualified person](#Duties-of-qualified-person)
 
-- [36 Register of plumbers](#Register-of-plumbers)
-
 - [36 (Repealed)](#Repealed)
-
-- [37 Works to be performed by registered plumber](#Works-to-be-performed-by-registered-plumber)
 
 - [37 (Repealed)](#Repealed)
 
@@ -259,8 +255,6 @@ PRELIMINARY
 (d) sewers constructed on any private property and maintained by the Board;
 
 “qualified person”, in relation to any sewerage or drainage works, means a qualified person appointed under section 6(3) or 9(1) (b) of the Building Control Act (Cap. 29) in respect of works which include the sewerage or drainage works, and whose qualification is appropriate to the nature of those works;
-
-“registered plumber” means a plumber whose name is entered in the register of plumbers maintained under section 36;
 
 “Registrar of Deeds” means the Registrar of Deeds appointed under the Registration of Deeds Act (Cap. 269);
 
@@ -492,7 +486,7 @@ SEWERAGE
 
 ### Sewerage systems, etc., not to be constructed or altered without Board’s certificate or approval
 
-11\.—(1) Except as otherwise provided in section 37, no person shall construct, alter, discontinue or close up any sewerage system or sanitary facilities without obtaining, in respect of those works, a clearance certificate or the approval of the Board under section 33.
+11\.—(1) No person shall construct, alter, discontinue or close up any sewerage system or sanitary facilities without obtaining, in respect of those works, a clearance certificate or the approval of the Board under section 33.
 
 [8/2001]
 
@@ -511,6 +505,10 @@ SEWERAGE
 (4) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000.
 
 [12
+
+(5) This section shall not apply to the repair, replacement or removal of, or any addition to, sanitary facilities or sanitary appliances in a building.
+
+[9/2002 wef 01/08/2002]
 
 ### Buildings without adequate sanitary facilities
 
@@ -546,7 +544,7 @@ within such time as may be specified in the notice.
 
 ### Building, etc., not to be erected over, across or adjacent to any sewer or sewerage system without Board’s certificate or approval
 
-14\.—(1) Except as otherwise provided in section 37, no person shall erect or cause or permit to be erected any building or structure over, across or adjacent to any sewer or sewerage system without obtaining, in respect of those works, a clearance certificate or the approval of the Board under section 33.
+14\.—(1) No person shall erect or cause or permit to be erected any building or structure over, across or adjacent to any sewer or sewerage system without obtaining, in respect of those works, a clearance certificate or the approval of the Board under section 33.
 
 [8/2001]
 
@@ -992,9 +990,9 @@ REGISTRATION, CODES OF PRACTICE AND CERTIFICATES OR APPROVAL FOR WORKS
 
 [8/2001]
 
-(7) In issuing a clearance certificate or granting its approval under subsection (5), the Board may impose such conditions as it thinks fit, including a condition that any sewerage works or works for the construction or alteration of sanitary facilities to which the application relates must be carried out by a registered plumber and that only sanitary appliances, pipes and fittings of a type approved by the Board shall be used.
+(7) In issuing a clearance certificate or granting its approval under subsection (5), the Board may impose such conditions as it thinks fit, including a condition that only sanitary appliances, pipes and fittings of a type approved by the Board shall be used.
 
-[8/2001]
+[9/2002 wef 01/08/2002]
 
 (8) Any person for whom any works, in respect of which a clearance certificate has been issued under subsection (5), have been carried out and completed shall apply in such form and manner as the Board may require for a compliance certificate.
 
@@ -1064,59 +1062,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [8/2001]
 
-### Register of plumbers
-
-36\.—(1) The Board may maintain a register of plumbers who satisfy the Board that they have the necessary qualifications and skills to carry out works for the construction and alteration of sanitary facilities.
-
-[8/2001]
-
-(2) A plumber shall pay such registration and annual fees as may be prescribed for his name to be entered and kept in the register of plumbers.
-
-(3) For the purposes of subsection (1), the Board may conduct such examinations or tests as he thinks fit.
-
-[8/2001]
-
-(4) The Board may suspend or remove from the register of plumbers, the name of a plumber for a breach or contravention of any provision of this Act or any code of practice issued by the Board from time to time.
-
-[8/2001]
-
-(5) Any person who is aggrieved by any decision of the Board under this section may, within 14 days of being notified in writing of the decision, appeal to the Minister whose decision shall be final.
-
-[8/2001]
-
-(6) Any person whose name has been removed from the register of plumbers under subsection (4) shall, if his appeal to the Minister is allowed, have his name reinstated as soon as possible.
-
-[37
-
 36\. [Deleted by Act 9/2002 wef 01/08/2002]
-
-### Works to be performed by registered plumber
-
-37\.—(1) No person except a registered plumber shall perform any act which may, under this Act or under any condition imposed by the Board in issuing a clearance certificate or approval under section 33, only be performed by a registered plumber.
-
-[8/2001]
-
-(2) Notwithstanding sections 11 and 14, a registered plumber may, subject to subsection (3) —
-
-(a) repair, alter, replace, remove or add to existing sanitary facilities or sanitary appliances in any existing building, temporary building or construction site; or
-
-(b) divert or demolish any existing sewage treatment plant.
-
-(3) Every registered plumber shall notify the Board in such form and manner and within such time as the Board may require —
-
-(a) before commencing or carrying out any works referred to in subsection (2); and
-
-(b) after the completion of those works.
-
-[8/2001]
-
-(4) Subsection (3) shall not apply if the Board has issued a clearance certificate or granted his approval under section 33 in respect of those works.
-
-[8/2001]
-
-(5) Any person who contravenes subsection (1) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
-
-[38
 
 37\. [Deleted by Act 9/2002 wef 01/08/2002]
 
@@ -1308,9 +1254,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (a) a notice or declaration under section 9 or 22;
 
-(b) an authorisation under section 27;
-
-(c) a decision under section 36; or
+(b) an authorisation under section 27; or
 
 (d) a notice under section 4(5) or (6), 6, 10, 11, 12, 14, 15, 20, 23, 24, 25, 26, or 30.
 
@@ -1717,17 +1661,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (b) regulate the discharge of trade effluent into sewers;
 
-(c) prohibit the discharge of silt or debris into storm water drainage systems; and
-
-(d) in relation to registered plumbers prescribe —
-
-(i) the class or classes of registered plumbers, the terms and conditions upon, and the circumstances in, which plumbers may be registered;
-
-(ii) the qualifications and other requirements for persons who wish to have their names entered in the register of plumbers; and
-
-(iii) the duties and responsibilities of registered plumbers.
-
-[8/2001]
+(c) prohibit the discharge of silt or debris into storm water drainage systems.
 
 (2) Any regulations made under this Act shall be presented to Parliament as soon as possible after publication in theGazette.
 
@@ -1758,6 +1692,11 @@ This Legislative History is provided for the convenience of users of the Sewerag
 ||Date of commencement|1 April 2001|
 |4.|**2001 Revised Edition—Sewerage and Drainage Act**|
 ||Date of operation|31 December 2001|
+|5.|**Act 9 of 2002—Sewerage and Drainage (Amendment) Act 2002**|
+||Date of First Reading|3 May 2002|
+|||(Bill No. 14/2002 published on 4 May 2002)|
+||Date of Second and Third Readings|8 July 2002|
+||Date of commencement|1 August 2002|
 ## COMPARATIVE TABLE
 
 Sewerage and Drainage Act
