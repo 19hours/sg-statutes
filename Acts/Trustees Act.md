@@ -204,8 +204,6 @@
 
 [**Part VIII GENERAL PROVISIONS**](#Part-VIII)
 
-- [88 Trust estates not affected by trustee becoming a convict](#Trust-estates-not-affected-by-trustee-becoming-a-convict)
-
 - [89 Indemnity](#Indemnity)
 
 [**FIRST SCHEDULE Manner of Investment**](#FIRST-SCHEDULE-Manner-of-Investment)
@@ -1262,12 +1260,6 @@ the Minister may serve on the manager and on the trustee under the scheme a writ
 
 GENERAL PROVISIONS
 
-### Trust estates not affected by trustee becoming a convict
-
-88\. Property vested in any person on any trust or by way of mortgage shall not, in case of that person becoming a convict within the meaning of the Forfeiture Act 1870 vest in any such administrator as may be appointed under that Act, but shall remain in the trustee or mortgagee, or pass to his co-trustee in right of survivorship or devolve on his personal representative as if he had not become a convict:
-
-Provided that this Act shall not affect the title to the property so far as relates to any beneficial interest therein of any such trustee or mortgagee.
-
 ### Indemnity
 
 89\. This Act and every order purporting to be made under this Act shall be a complete indemnity to all persons for any acts done pursuant thereto, and it shall not be necessary for any person to inquire concerning the propriety of the order, or whether the court by which the order was made had jurisdiction to make it.
@@ -1487,3 +1479,8 @@ This Legislative History is provided for the convenience of users of the Trustee
 ||Date of commencement|26 June 1992|
 |13.|**G. N. No. S 231/1996—Trustees Act (Amendment of First Schedule) Order 1996**|
 ||Date of commencement|15 May 1996|
+|14.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
+||Date of First Reading|11 July 1997|
+|||(Bill No. 6/97 published on 12 July 1997)|
+||Date of Second and Third Readings|25 August 1997|
+||Date of commencement|1 October 1997 (except section 3)|
