@@ -548,7 +548,7 @@ Provided that —
 
 (a) by his direction or with his assent it is in the custody of some other person who holds it on behalf of and to the order of the authorised depositary; and
 
-(b) the certificate is not deposited with that other person in a locked or sealed receptacle from which he is not entitled to remove it without the authority of a person other than himself,
+(b) the certificate is not deposited with that other person in a locked or sealed receptable from which he is not entitled to remove it without the authority of a person other than himself,
 
 and where a certificate of title is by virtue of this subsection deemed to be in the custody of an authorised depositary, references in this Part to the depositary parting with the certificate or a coupon belonging thereto shall be construed as references to his permitting the person having the actual custody thereof to part with it otherwise than to the depositary, and references to his destroying the certificate or such a coupon shall be construed as references to his permitting it to be destroyed.
 
@@ -616,9 +616,11 @@ Provided that the Authority may direct that, in cases to which the direction app
 
 (4) Any reference in this section to the destination of any goods includes a reference to the ultimate destination thereof.
 
-(5) In this section, “making entry of the goods for export” means furnishing to the Trade Development Board established under the Trade Development Board Act [Cap. 330] any such document as may be required by rules made under section 3(2)(a)(i) of the Registration of Imports and Exports Act [Cap. 270] and “entry” shall be construed accordingly.
+(5) In this section, “making entry of the goods for export” means furnishing to the Trade Development Board established under the Trade Development Board Act any such document as may be required by regulations made under section 3(2)(b)(i) of the Regulation of Imports and Exports Act 1995 and “entry” shall be construed accordingly.
 
 [26
+
+[Cap. 330. Act 24/95 wef 01/12/1995 vide S 529/95]
 
 ## PART VI
 
@@ -1328,19 +1330,25 @@ Provided that no woman shall be searched in pursuance of this paragraph except b
 
 (2) An authorised officer may, in order to prevent the possibility of an offence being committed under this Act, detain anything so prohibited to be imported or exported which is in the possession of any such person, and, if he detains any such thing, shall give a receipt therefor to the person and shall return the thing to the person when he is satisfied that such possibility no longer exists.
 
-5. The Control of Imports and Exports Act [Cap. 56], the Prohibition of Imports Order 1950 [S 556/50\*], the Prohibition of Exports Order 1950 [S 557/50*], or any order in substitution therefor made under that Act, shall, subject to such modifications (if any) as may be prescribed to adapt that Act to this Act, apply in relation to anything prohibited to be imported or exported by any of the provisions of Part V of this Act except with the permission of the Authority as that Act applies in relation to goods prohibited to be imported or exported by or under that Act, and any reference in that Act to goods shall be construed as including a reference to anything prohibited to be imported or exported by any of the provisions of that Part except with the permission of the Authority.
+5. The Regulation of Imports and Exports Act 1995, the Control of Imports and Exports (General) Order, or any regulations in substitution therefor made under that Act, shall, subject to such modifications (if any) as may be prescribed to adapt that Act to this Act, apply in relation to anything prohibited to be imported or exported by any of the provisions of Part V of this Act except with the permission of the Authority as that Act applies in relation to goods prohibited to be imported or exported by or under that Act, and any reference in that Act to goods shall be construed as including a reference to anything prohibited to be imported or exported by any of the provisions of that Part except with the permission of the Authority.
 
-\*Substituted by the Control of Imports, Exports and Transhipments Order 1974 —seeG.N. S 201/74.
+[Act 24/95 wef 01/12/1995]
 
-6\. Any declaration required to be made or given under Part V of this Act shall, for the purposes of the Control of Imports and Exports Act, be deemed to be a declaration required to be made by virtue of that Act.
+6. Any declaration required to be made or given under Part V of this Act shall, for the purposes of the Regulation of Imports and Exports Act 1995, be deemed to be a declaration required to be made by virtue of that Act.
 
-7\. If anything prohibited to be exported by any provision of Part V of this Act is exported in contravention thereof, or is brought to a quay, airport or other place, or water or air-borne, for the purpose of being so exported, the exporter or his agent shall be liable to the same penalty as that to which a person is liable for an offence to which the Prohibition of Exports Order 1950, or any order in substitution therefor made under the Control of Imports and Exports Act 1995, applies.
+[Act 24/95 wef 01/12/1995]
+
+7. If anything prohibited to be exported by any provision of Part V of this Act is exported in contravention thereof, or is brought to a quay, airport or other place, or water or air-borne, for the purpose of being so exported, the exporter or his agent shall be liable to the same penalty as that to which a person is liable for an offence to which the Prohibition of Exports Order 1950, or any regulations in substitution therefor made under the Control of Imports and Exports Act 1995, applies.
+
+[Act 24/95 wef 01/12/1995]
 
 8\. An authorised officer may examine any postal article within the meaning of the Telecommunication Authority of Singapore Act [Cap. 323], addressed to any person in or outside Singapore for the purpose of securing compliance with or detecting evasion of this Act.
 
 9\. Paragraphs 3, 4 and 5 of Part II shall apply also to offences punishable by virtue of this Part.
 
-10\. In this Part, “authorised officer” means any officer of customs as defined in the Customs Act [Cap. 70. Cap. 235], any police officer as defined in the Police Force Act, and any officer or person authorised by the Authority to exercise the powers and perform the duties of an authorised officer under this Part.
+10. In this Part, “authorised officer” means any officer of customs as defined in the Customs Act [Cap. 70. Cap. 235], any police officer as defined in the Police Force Act, and any officer or person authorised by the Authority to exercise the powers and perform the duties of an authorised officer under this Part.
+
+[]
 
 ## LEGISLATIVE HISTORY
 
@@ -1395,3 +1403,9 @@ This Legislative History is provided for the convenience of users of the Exchang
 |||(Bill No. 16/1994 published on 29 July 1994)|
 ||Date of Second Reading|25 August 1994|
 ||Date of commencement|15 July 1995|
+|19.|**Act 24 of 1995—Regulation of Imports and Exports Act 1995**|
+||(Consequential amendments made by)||
+||Date of First Reading|25 May 1995|
+|||(Bill No. 19/1995 published on 26 May 1995)|
+||Date of Second and Third Readings|7 July 1995|
+||Date of commencement|1 December 1995|
