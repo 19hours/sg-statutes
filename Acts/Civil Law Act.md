@@ -22,6 +22,10 @@
 
 - [6B Trusts respecting immovable property and disposition of equitable interest](#Trusts-respecting-immovable-property-and-disposition-of-equitable-interest)
 
+- [6C Abolition of rule in Bain v Fothergill](#Abolition-of-rule-in-Bain-v-Fothergill)
+
+- [6D Continuity of contracts on European Economic and Monetary Union](#Continuity-of-contracts-on-European-Economic-and-Monetary-Union)
+
 - [7 Effect of death on certain causes of action](#Effect-of-death-on-certain-causes-of-action)
 
 - [8 Abolition of right to damages for loss of expectation of life](#Abolition-of-right-to-damages-for-loss-of-expectation-of-life)
@@ -32,7 +36,15 @@
 
 - [10 Abolition of husband’s liability for wife’s torts and antenuptial contracts, debts and obligations](#Abolition-of-husband’s-liability-for-wife’s-torts-and-antenuptial-contracts-debts-and-obligations)
 
-- [11 Proceedings against, and contribution between, joint and several tortfeasors](#Proceedings-against-and-contribution-between-joint-and-several-tortfeasors)
+- [11 Entitlement to contribution](#Entitlement-to-contribution)
+
+- [11A Assessment of contribution](#Assessment-of-contribution)
+
+- [11B Proceedings against persons jointly liable for same debt or damage](#Proceedings-against-persons-jointly-liable-for-same-debt-or-damage)
+
+- [11C Successive actions against liability (jointly or otherwise) for same damage](#Successive-actions-against-liability-jointly-or-otherwise-for-same-damage)
+
+- [11D Interpretation and application of sections 11 to 11C](#Interpretation-and-application-of-sections-11-to-11C)
 
 - [12 Right of action for wrongful act causing death](#Right-of-action-for-wrongful-act-causing-death)
 
@@ -190,9 +202,31 @@ Court to grant all such remedies as any of the parties are entitled to in respec
 
 [2/79]
 
-(4) For the avoidance of doubt, where any contract for the future delivery of any commodity is entered into in any exchange or market, the fact that the contract is entered into by one or both parties with no intention of actual delivery of the commodity but with the intention of realising a profit arising out of differences in the price of the commodity shall not affect the validity or enforceability of the contract.
+(4) For the avoidance of doubt, this section shall not affect the validity or enforceability of any contract or agreement entered into by either or each party by way of business and the making or performance of which by any party constitutes an investment activity.
 
-[2/79]
+[45/98 wef 01/01/1999]
+
+(4A) For the purposes of subsection (4), "investment activity" means any of the following activities:
+
+(a) a transaction in relation to a contract or an option for the future delivery of any securities, commodity, currency or financial instrument, whether or not there is any intention of actual delivery of such securities, commodity, currency or instrument;
+
+(b) a transaction in relation to a contract or an option which is entered into with the intention of settlement of differences in the prices or values of any securities, commodity, currency or financial instrument, whether or not there is any intention of actual delivery of such securities, commodity, currency or instrument;
+
+(c) a transaction involving the exchange or grant of an option for the exchange of any securities, commodity, currency or financial instrument;
+
+(d) a transaction in securities, commodity, currency or financial instrument;
+
+(e) a transaction involving the grant of a right or an option relating to an obligation to pay interest or the exchange or grant of an option for the exchange of obligations to pay interest;
+
+(f) a transaction in relation to a contract or an option to pay the difference between a pre-agreed interest rate and the rate prevailing as at specified intervals;
+
+(g) a transaction in relation to any securities, futures contract or derivative which is listed or traded on any stock exchange, futures exchange or commodities exchange in any country outside Singapore;
+
+(h) a transaction in relation to any other derivative including but not limited to any swap, cap, collar, floor and any combination thereof; or
+
+(i) such other activity as the Minister may by notification prescribe.
+
+[45/98 wef 01/01/1999]
 
 ### Promises to repay sums paid under such contracts to be null and void
 
@@ -233,6 +267,64 @@ unless the promise or agreement upon which such action is brought, or some memor
 [Law of Property Act 1925, s. 53.]
 
 [35/93]
+
+### Abolition of rule in Bain v Fothergill
+
+6C\. The rule of law known as the rule inBain v Fothergillis abolished in relation to contracts made on or after the commencement of the Civil Law (Amendment) Act 1998.
+
+[45/98 wef 01/01/1999]
+
+### Continuity of contracts on European Economic and Monetary Union
+
+6D\.—(1) It is declared for the avoidance of doubt that —
+
+(a) if a subject or medium of payment of a contract, agreement, deed, security or other instrument is a currency that has been substituted or replaced by the euro, the euro shall be a commercially reasonable substitute and substantial equivalent that may be —
+
+(i) used in determining the value of such currency; or
+
+(ii) tendered, in each case at the conversion rate specified in, and otherwise calculated in accordance with, the applicable regulations adopted by the Council of the EU;
+
+(b) if a subject or medium of payment of a contract, agreement, deed, security or instrument is the Ecu, the euro shall be a commercially reasonable substitute and substantial equivalent that may be —
+
+(i) used in determining the value of the Ecu; or
+
+(ii) tendered, in each case at the conversion rate specified in, and otherwise calculated in accordance with, the applicable regulations adopted by the Council of the EU.
+
+(2) It is declared for the avoidance of doubt that to the extent the performance of any of the obligations set out in subsection (1) may, apart from the introduction of the euro, be made in the currency or currencies originally designated in such contract, agreement, deed, security or other instrument, such performance may be made in such currency or currencies (so long as such currency or currencies remain legal tender) or in euro, but not in any other currency, whether or not such other currency —
+
+(a) has been substituted or replaced by the euro; or
+
+(b) is a currency that is considered a denomination of the euro and has a fixed conversion rate with respect to the euro.
+
+(3) It is declared for the avoidance of doubt that none of the following events shall have the effect of discharging or excusing performance under any contract, agreement, deed, security or instrument, or give a party the right to unilaterally alter or terminate any contract, agreement, deed, security or instrument:
+
+(a) the introduction of the euro;
+
+(b) the tendering of euros in connection with any obligation in compliance with paragraph (a) or (b) of subsection (1);
+
+(c) the determining of the value of any obligation in compliance with paragraph (a) or (b) of subsection (1); or
+
+(d) the calculating or determining of the subject or medium of payment of a contract, agreement, deed, security or instrument with reference to interest rate or other basis that has been substituted or replaced due to the introduction of the euro and that is a reasonable substitute and substantial equivalent.
+
+(4) The provisions of this section shall be subject to any agreement between parties with specific reference to or agreement regarding the introduction of the euro.
+
+(5) Nothing in this section shall be construed so as to affect the validity or enforceability of any contract, agreement, deed, security or other instrument denominated in whole or in part in a currency affected by alteration in circumstances other than the introduction of the euro.
+
+(6) For the purposes of this section —
+
+(a) “euro” means the currency of participating member states of the EU that adopt a single currency in accordance with the treaty on EU signed on 7th February 1992;
+
+(b) “introduction of the euro” means the implementation from time to time of economic and monetary union in member states of the EU in accordance with the treaty on EU signed on 7th February 1992;
+
+(c) “EU” means the European Union;
+
+(d) “Ecu” or “European Currency Unit” means the currency basket that is from time to time used as the unit of account of the European Community as defined in European Council Regulation No. 3320/94;
+
+(e) when the euro first becomes the monetary unit of participating member states of the EU, references to the Ecu in a contract, agreement, deed, security or other instrument that also refers to such definition of the Ecu shall be replaced by references to the euro at a rate of one euro to one Ecu;
+
+(f) references to the Ecu in a contract, agreement, deed, security or other instrument without such a definition of the Ecu shall be presumed, unless it is shown that the parties intended otherwise, to be references to the currency basket that is from time to time used as the unit of account of the European Community.
+
+[45/98 wef 01/01/1999]
 
 ### Effect of death on certain causes of action
 
@@ -306,33 +398,79 @@ Provided that nothing in this section —
 
 (d) prevents the exercise of any joint power given to a husband and wife.
 
-### Proceedings against, and contribution between, joint and several tortfeasors
+### Entitlement to contribution
 
-11\.—(1) Where damage is suffered by any person as a result of a tort (whether a crime or not) —
+11\.—(1) Subject to subsections (2) to (5), any person liable in respect of any damage suffered by another person may recover contribution from any other person liable in respect of the same damage (whether jointly with him or otherwise).
 
-(a) judgment recovered against any tortfeasor liable in respect of that damage shall not be a bar to an action against any other person who would, if sued, have been liable as a joint tortfeasor in respect of the same damage;
+(2) A person shall be entitled to recover contribution by virtue of subsection (1) notwithstanding that he has ceased to be liable in respect of the damage in question since the time when the damage occurred, provided that he was so liable immediately before he made or was ordered or agreed to make the payment in respect of which the contribution is sought.
 
-(b) if more than one action is brought in respect of that damage by or on behalf of the person by whom it was suffered or for the benefit of the estate, or of the wife, husband, parent or child, of that person, against the tortfeasor liable in respect of the damage (whether as joint tortfeasors or otherwise) the sums recoverable under the judgments given in those actions by way of damages shall not in the aggregate exceed the amount of the damages awarded by the judgment first given; and in any of those actions, other than that in which judgment is first given, the plaintiff shall not be entitled to costs unless the court is of opinion that there was reasonable ground for bringing the action;
+(3) A person shall be liable to make contribution by virtue of subsection (1) notwithstanding that he has ceased to be liable in respect of the damage in question since the time when the damage occurred, unless he ceased to be liable by virtue of the expiry of a period of limitation or prescriptions which extinguished the right on which the claim against him in respect of the damage was based.
 
-(c) any tortfeasor liable in respect of that damage may recover contribution from any other tortfeasor who is, or would if sued have been, liable in respect of the same damage, whether as a joint tortfeasor or otherwise, so however, that no person shall be entitled to recover contribution under this section from any person entitled to be indemnified by him in respect of the liability in respect of which the contribution is sought.
+(4) A person who has made or agreed to make any payment in bona fide settlement or compromise of any claim made against him in respect of any damage (including a payment into court which has been accepted) shall be entitled to recover contribution in accordance with this section without regard to whether or not he himself is or ever was liable in respect of the damage, provided, however, that he would have been liable assuming that the factual basis of the claim against him could be established.
 
-(2) In any proceedings for contribution under this section the amount of the contribution recoverable from any person shall be such as may be found by the court to be just and equitable having regard to the extent of that person’s responsibility for the damage; and the court shall have power to exempt any person from liability to make contribution, or to direct that the contribution to be recovered from any person shall amount to a complete indemnity.
+(5) A judgment given in any action brought in Singapore by or on behalf of the person who suffered the damage in question against any person from whom contribution is sought under this section shall be conclusive in the proceedings for contribution in favour of the person from whom the contribution is sought, provided that the judgment in his favour rested on a determination of the merits of the claim against him in respect of the damage.
 
-(3) For the purposes of this section —
+(6) References in this section to a person’s liability in respect of any damage are references to any such liability which has been or could be established in an action brought against him in Singapore by or on behalf of the person who suffered the damage; but it is immaterial whether any issues arising in any such action was or would be determined (in accordance with the rules of private international law) by reference to the law of a country outside Singapore.
 
-(a) “parent” and “child” have the same meanings as they have for the purposes of section 12; and
+[45/98 wef 01/01/1999]
 
-(b) the reference in this section to “the judgment first given” shall, in a case where that judgment is reversed on appeal, be construed as a reference to the judgment first given which is not so reversed and, in a case where a judgment is varied on appeal, be construed as a reference to that judgment as so varied.
+### Assessment of contribution
 
-(4) Nothing in this section shall —
+11A\.—(1) Subject to subsection (3), in any proceedings for contribution under section 11, the amount of the contribution recoverable from any person shall be such as may be found by the court to be just and equitable having regard to the extent of that person’s responsibility for the damage in question.
 
-(a) affect any criminal proceedings against any person in respect of any wrongful act; or
+(2) Subject to subsection (3), the court shall have power in any such proceedings to exempt any person from liability to make contribution, or to direct that the contribution to be recovered from any person shall amount to a complete indemnity.
 
-(b) render enforceable any agreement for indemnity which would not have been enforceable if this section had not been enacted.
+(3) Where the amount of the damages which have or might have been awarded in respect of the damage in question in any action brought in Singapore by or on behalf of the person who suffered it against the person from whom the contribution is sought was or would have been subject to —
 
-### Construction
+(a) any limit imposed by or under any written law or by any agreement made before the damage occurred;
 
-(5) Subsections (1) to (4) are for the removal of doubt and nothing therein shall be taken to repeal by implication or in any way to derogate from section 5.
+(b) any reduction by virtue of section 3 of the Contributory Negligence and Personal Injuries Act (Cap.54); or
+
+(c) any corresponding limit or reduction under the law of a country outside Singapore,
+
+the person from whom the contribution is sought shall not, by virtue of any contribution awarded under section 11, be required to pay in respect of the damage a greater amount than the amount of those damages as so limited or reduced.
+
+[45/98 wef 01/01/1999]
+
+### Proceedings against persons jointly liable for same debt or damage
+
+11B\. Judgment recovered against any person liable in respect of any debt or damage shall not be a bar to an action, or to the continuance of an action, against any other person who is (apart from any such bar) jointly liable with him in respect of the same debt or damage.
+
+[45/98 wef 01/01/1999]
+
+### Successive actions against liability (jointly or otherwise) for same damage
+
+11C\. If more than one action is brought in respect of any damage by or on behalf of the person by whom it was suffered against persons liable in respect of the damage (whether jointly or otherwise) the plaintiff shall not be entitled to costs in any of those actions, other than that in which judgment is first given, unless the court is of the opinion that there was reasonable ground for bringing the action.
+
+[45/98 wef 01/01/1999]
+
+### Interpretation and application of sections 11 to 11C
+
+11D\.—(1) A person is liable in respect of any damage for the purposes of sections 11 to 11C if the person who suffered it (or anyone representing his estate or dependants) is entitled to recover compensation from him in respect of that damage (whatever the legal basis of this liability), whether tort, breach of contract, breach of trust or otherwise).
+
+(2) References in sections 11 to 11C to an action brought by or on behalf of the person who suffered any damage include references to an action brought for the benefit of his estate or dependants.
+
+(3) In sections 11 to 11C —
+
+(a) “dependants” has the same meaning as in section 12; and
+
+(b) except in section 11(5), “action” means an action brought in Singapore.
+
+(4) Nothing in sections 11 to 11C shall affect any case where the debt in question became due or, as the case may be, the damage in question occurred before the appointed day.
+
+(5) A person shall not be entitled to recover contribution or be liable to make contribution in accordance with section 11 by reference to any liability based on breach of any obligation assumed by him before the appointed day.
+
+(6) The right to recover contribution in accordance with section 11 supersedes any right, other than an express contractual right, to recover contribution (as distinct from indemnity) otherwise than under sections 11 to 11C in corresponding circumstances; but nothing in sections 11 to 11C shall affect —
+
+(a) any express or implied contractual or other right to indemnity; or
+
+(b) any express contractual provision regulating or excluding contribution,
+
+which would be enforceable apart from sections 11 to 11C (or render enforceable any agreement for indemnity or contribution which would not be enforceable apart from sections 11 to 11C).
+
+(7) For the purposes of this section, “appointed day” means the date of commencement of the Civil Law (Amendment) Act 1998.
+
+[45/98 wef 01/01/1999]
 
 ### Right of action for wrongful act causing death
 
@@ -688,3 +826,8 @@ This Legislative History is provided for the convenience of users of the Civil L
 |||(Bill No. 6/97 published on 12 July 1997)|
 ||Date of Second and Third Readings|25 August 1997|
 ||Date of commencement|1 October 1997 (except section 3)|
+|31.|**Act 45 of 1998—Civil Law (Amendment) Act 1998**|
+||Date of First Reading|12 October 1998|
+|||(Bill No. 41/98 published on 13 October 1998)|
+||Date of Second and Third Readings|26 November 1998|
+||Date of commencement|1 January 1999|
