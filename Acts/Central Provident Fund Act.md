@@ -76,6 +76,8 @@
 
 - [21A Registration of charge on immovable property to secure repayment of withdrawals from Fund before 1st June 1981](#Registration-of-charge-on-immovable-property-to-secure-repayment-of-withdrawals-from-Fund-before-1st-June-1981)
 
+- [21B Charge on HDB flats to secure repayment of withdrawals from Fund](#Charge-on-HDB-flats-to-secure-repayment-of-withdrawals-from-Fund)
+
 - [22 Withdrawals for payment of tuition fees at approved tertiary institution](#Withdrawals-for-payment-of-tuition-fees-at-approved-tertiary-institution)
 
 - [23 Regulations for purposes of section 22](#Regulations-for-purposes-of-section-22)
@@ -672,15 +674,25 @@ CONTRIBUTIONS TO FUND
 
 ### Voluntary contributions
 
-13B\. Notwithstanding anything in this Act but subject to any regulations made under section 77 —
+13B\.—(1) Notwithstanding anything in this Act but subject to any regulations made under section 77 —
 
-(a) a person in respect of whom no contribution is required to be paid under this Act may contribute voluntarily to the Fund in such manner and at such rate as the Minister may direct; and
+(a) a person who is a citizen or permanent resident of Singapore in respect of whom no contribution is required to be paid under this Act may contribute voluntarily to the Fund in such manner and at such rate as the Minister may direct; and
 
 [36/2002 wef 01/01/2003]
 
 (b) the Board shall credit every contribution received under paragraph (a) into an ordinary account, a medisave account or a special account, for the purposes specified in section 13(1), in such manner as the Minister may direct, and the Minister may give different directions in respect of different classes of members.
 
 [30/98]
+
+[36/2002 wef 01/01/2003]
+
+(2) The amount which a person may contribute voluntarily under subsection (1) or section 7(4) shall not exceed the sum of $28,800 in any year or such other sum as the Minister may, from time to time, prescribe by notification in theGazette.
+
+[36/2002 wef 01/01/2003]
+
+(3) For the purpose of computing the sum referred to in subsection (2) in any year, the amount contributed by the person which is obligatory under this Act and any voluntary contribution paid by his employer under section 7(4)(c) in that year shall be included, and any contribution made in that year under sections 73 and 79 shall not be included.
+
+[36/2002 wef 01/01/2003]
 
 ### Payment of cash grant by Government into Fund
 
@@ -778,7 +790,7 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 [18/2009 wef 01/03/2010]
 
-(3) Subject to subsection (6), a member of the Fund who has withdrawn any money from the Fund on the ground that he has attained the age of 55 years shall be entitled to make one further withdrawal of the sum standing to his credit in the Fund on or after every third anniversary of his date of birth after he has attained the age of 55 years.
+(3) Subject to subsection (6), a member of the Fund who has withdrawn any money from the Fund on the ground that he has attained the age of 55 years shall be entitled to make one further withdrawal of the sum standing to his credit in the Fund on or after every first anniversary of his date of birth after he has attained the age of 55 years or such other period as the Minister may direct.
 
 [36/2002 wef 01/01/2003]
 
@@ -908,7 +920,7 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 [5/87]
 
-(12) No moneys deposited in an account with an approved bank or in a retirement account under subsection (6C) and no withdrawals made by a member from that account with an approved bank or from a retirement account and no payments received by a member from an approved annuity purchased with the minimum sum shall be liable to be attached, sequestered or levied upon for or in respect of any debt or claim.
+(12) No moneys deposited in an account with an approved bank or in a retirement account under subsection (6C) and no withdrawals made by a member from that account with an approved bank or from a retirement account and no payments received by a member from an approved annuity purchased with the minimum sum shall be liable to be attached, sequestered or levied upon for or in respect of any debt or claim, or be subject to any right of set-off by the approved bank for any debt owing by the member to the approved bank.
 
 [36/2002 wef 01/01/2003]
 
@@ -1192,7 +1204,7 @@ there shall be a charge on the member’s estate or interest in the immovable pr
 
 [19/83]
 
-(12) In this section and sections 15and 21A —
+(12) In this section and sections 15, 21A and 21B —
 
 “public authority” means the Government, the Collector of Land Revenue, the Comptroller of Property Tax, and any other person, corporation or body, authorised or empowered by any written law to attach, sell or acquire land compulsorily;
 
@@ -1292,6 +1304,110 @@ the Board may register or notify, in the appropriate register maintained by the 
 
 [27/95]
 
+### Charge on HDB flats to secure repayment of withdrawals from Fund
+
+21B\.—(1) Where in accordance with any regulations made under section 77, a member of the Fund had or has before, on or after 1st January 2003 withdrawn any money standing to his credit in the Fund —
+
+(a) to make full or partial payment towards the purchase of an HDB flat;
+
+[57/2007 wef 01/01/2008]
+
+(b) to repay or to make periodic payments towards the repayment of any loan taken by the member to finance or re-finance the purchase of an HDB flat;
+
+[57/2007 wef 01/01/2008]
+
+(c) to pay any improvement contribution due to the Housing and Development Board in respect of upgrading works carried out on an HDB flat under Part IVA of the Housing and Development Act (Cap. 129) including the payment of costs, fees or other incidental expenses arising from such works; or
+
+[23/2005 wef 15/08/2005]
+
+(d) to pay any costs, fees or other expenses incurred —
+
+(i) for the purchase of an HDB flat;
+
+[57/2007 wef 01/01/2008]
+
+(ii) for obtaining a loan to finance or re-finance such purchase ; and
+
+[57/2007 wef 01/01/2008]
+
+(iii) in connection with withdrawals of any money from the Fund,
+
+there shall, immediately upon any such withdrawal, be a charge constituted on that HDB flat to secure the repayment of the money withdrawn from the Fund including the interest that would have accrued thereto if the withdrawal had not been made and to secure the payment of the minimum sum into the member’s retirement account.
+
+[57/2007 wef 01/01/2008]
+
+(2) Upon the constitution of the charge on an HDB flat under subsection (1), the Board shall have the power of sale and all other powers relating or incidental thereto to sell and effectually transfer the title to the HDB flat to any purchaser as if the Board were a registered mortgagee notwithstanding that the charge is not registered under the Land Titles Act (Cap. 157).
+
+(3) Any charge constituted on an HDB flat under subsection (1) shall be —
+
+(a) subject to all statutory rights and charges of any public authority over the HDB flat;
+
+(b) subject to any resale levy imposed by the Housing and Development Board in respect of the HDB flat except where the person on whom the resale levy is imposed has obtained a loan, whether redeemed or not, from any person other than the Housing and Development Board to finance the purchase of the HDB flat;
+
+[57/2007 wef 01/01/2008]
+
+(c) subject to, in the absence of any agreement giving priority to the Board, all encumbrances registered or notified prior to the date of the constitution of the charge; and
+
+(d) subject to, rank in priority to, or rank equally without preference with, such other encumbrances as may be specified in regulations made under section 77.
+
+(4) The repayment of the minimum sum to the Board, if it is secured by a charge on the HDB flat under subsection (1), shall rank after the claims of a mortgagee or chargee other than the Board before the date the member is required to deposit a prescribed sum under section 15(6).
+
+(5) If —
+
+(a) moneys secured by any charge constituted on an HDB flat under subsection (1) become due and payable to the Board under any regulations made under section 77; and
+
+(b) such moneys or any part thereof is not paid on the expiry of the period of 60 days from the date they become due and payable,
+
+the Board may, with the prior written approval of the Housing and Development Board, by notice of sale (to be served or published in the manner to be specified in regulations made under section 77) declare its intention of selling the HDB flat.
+
+(6) If, on the expiry of the period of 90 days from the date of the notice of sale, the moneys secured by the charge or any part thereof has not been paid to the Board, the Board may sell the HDB flat.
+
+(7) Where the Board has sold any HDB flat under subsection (6), neither the purchaser of the HDB flat nor the Registrar shall be concerned to inquire into the regularity or validity of the sale or transfer.
+
+(8) For the purpose of registration of a transfer of any HDB flat sold under subsection (6), the Registrar may dispense with the production of the duplicate lease of the HDB flat or the duplicate subsidiary certificate of title in respect of the HDB flat, as the case may be.
+
+(9) The moneys received by the Board in exercise of its power of sale under subsection (6) shall be held by the Board in trust to be applied —
+
+(a) firstly, to discharge any right or charge specified in subsection (3)(a);
+
+(b) secondly, to pay any resale levy specified in subsection (3)(b);
+
+(c) thirdly, to discharge any encumbrance specified in subsection (3)(c);
+
+(d) fourthly, in payment of all costs and expenses properly incurred by the Board as incident to the sale or attempted sale, or otherwise;
+
+(e) fifthly, in payment to the Board of all moneys secured by the charge and in payment to any other party of all moneys to discharge any encumbrance specified in regulations made under section 77 for the purpose of subsection (3)(d), in the order of priority specified in the regulations; and
+
+(f) finally, in payment of moneys in the order of priority specified in regulations made under section 77.
+
+(10) Notwithstanding section 80 of the Land Titles Act (Cap. 157), where further withdrawals from the Fund are authorised by the Board when a charge constituted on an HDB flat under subsection (1) is subsisting, all such withdrawals shall rank in priority to any other claims over the HDB flat as if the withdrawals were made at the date of the constitution of that charge.
+
+(11) Any charge constituted under subsection (1) shall continue in force until —
+
+(a) all moneys secured by the charge have been repaid or are no longer required by any regulations made under section 77 to be repaid to the Fund; or
+
+(b) the Board is satisfied of the occurrence of any of the events mentioned in section 15(15)(e).
+
+(12) This section shall not apply to —
+
+(a) any HDB flat in respect of which a charge in favour of the Board has been registered or notified in the appropriate register maintained by the Registrar under the Land Titles Act (Cap. 157);
+
+(b) any HDB flat designated by the Housing and Development Board as an HUDC Phase III or IV flat; or
+
+(c) any HDB flat or class of HDB flats which the Minister may, by notification in theGazette, specify.
+
+(13) Sections 21 and 21A shall not apply to any HDB flat to which this section applies.
+
+(14) In this section —
+
+“HDB flat” means any flat, house or other building sold under Part IV of the Housing and Development Act (Cap. 129) which has been acquired by the present owner thereof whether directly from the Housing and Development Board or otherwise;
+
+[29/2005 wef 15/09/2005]
+
+“Housing and Development Board” means the Housing and Development Board constituted under the Housing and Development Act.
+
+[36/2002 wef 01/01/2003]
+
 ### Withdrawals for payment of tuition fees at approved tertiary institution
 
 22\.—(1) The Board may, subject to such terms and conditions as it may impose, permit a member of the Fund to withdraw such portion of the sum standing to his credit in the Fund as may be prescribed for the payment of tuition fees payable by that member, his child or such other relative as may be approved by the Board, for a course of study at an approved tertiary institution.
@@ -1354,9 +1470,11 @@ for the repayment to the Board to the account of that member in the Fund from wh
 
 24\.—(1) Except as may be provided for in any regulations made under section 77, no withdrawals made by the authority of the Board from the Fund under section 15 nor the rights of any member of the Fund acquired thereunder shall be assignable or transferable or liable to be attached, sequestered or levied upon for or in respect of any debt or claim.
 
-(2) Precious metals and securities purchased by a member under any scheme in accordance with any regulations made under section 77 which allow members to withdraw their moneys in the Fund for the purposes of investment and the proceeds from the sale of such precious metals and securities which a member is obliged to repay into the Fund shall not be liable to be attached, sequestered or levied upon for or in respect of any debt or claim.
+(2) Precious metals and securities purchased by a member and the proceeds from the sale of such precious metals and securities and any moneys in any fixed deposit account maintained by a member with a bank, under any scheme in accordance with any regulations made under section 77 which allow the member to withdraw his moneys in the Fund, for the purposes of investment and which the member is obliged to repay into the Fund shall not be attached, sequestered, levied upon for or in respect of any debt or claim or be subject to any right of set-off by the bank for any debt owing by the member to the bank.
 
-(3) Such precious metals, securitiesor proceeds shall not pass to the Official Assignee on the bankruptcy of such member, and if such member is adjudicated a bankrupt or is declared insolvent by a court, such precious metals, securitiesor proceeds shall be deemed not to form part of the property of the member.
+[36/2002 wef 01/01/2003]
+
+(3) Such precious metals, securities, proceeds or moneys shall not pass to the Official Assignee on the bankruptcy of such member, and if such member is adjudicated a bankrupt or is declared insolvent by a court, such precious metals, securities, proceeds or moneys shall be deemed not to form part of the property of the member.
 
 [36/2002 wef 01/01/2003]
 
@@ -2190,7 +2308,11 @@ he shall be guilty of an offence.
 
 ### Certificate of authorised officer to be evidence
 
-66\. In any legal proceedings, a copy of an entry in the accounts of the Fund duly certified under the hand of such officer of the Board as is prescribed by the Board shall be prima facie evidence of the entry having been made and of the truth of the contents thereof.
+66\. In any legal proceedings, a copy of an entry in the accounts of the Fund, the Home Protection Fund, the Dependants’ Protection Insurance Fund or the MediShield Fund, as the case may be, duly certified under the hand of such officer of the Board as it may authorise shall be prima facie evidence of the entry having been made and of the truth of the contents thereof.
+
+[36/2002 wef 01/01/2003]
+
+[24/2005 wef 17/09/2005]
 
 ### Certificate of Board on non-payment of contributions
 
@@ -2408,7 +2530,7 @@ the amount paid in error shall not be refunded but shall be deemed to have been 
 
 77\.—(1) The Minister may, after consulting with the Board, make regulations —
 
-(a) to provide for the manner of payment, collection and refund of contributions and any matters incidental thereto;
+(a) to provide for the manner of payment, collection and refund of contributions and any matters incidental thereto, including by electronic or other means;
 
 [36/2002 wef 01/01/2003]
 
@@ -2442,7 +2564,7 @@ the amount paid in error shall not be refunded but shall be deemed to have been 
 
 (m) to provide for members of the Fund to apply, assign or withdraw all or part of the contributions and interest standing to their credit in the Fund for the purpose of purchasing the stocks and shares of the Singapore Bus Service (1978) Limited, a company incorporated under the provisions of the Companies Act (Cap. 50), subject to such conditions as the Minister may impose;
 
-(n) to provide for members of the Fund to apply, assign or withdraw all or part of the contributions and interest standing to their credit in the Fund for the purpose of investing in such precious metals and securities as may be approved by the Minister, or for the reimbursement of the cost of the making of any such investments, including the payment of any fees, charges or incidental expenses incurred for such investments;
+(n) to provide for members of the Fund to apply, assign or withdraw all or part of the contributions and interest standing to their credit in the Fund for the purpose of investing in such precious metals and securities, and depositing in such fixed deposit accounts, as may be approved by the Minister, or for the reimbursement of the cost of the making of any such investments, including the payment of any fees, charges or incidental expenses incurred for such investments;
 
 [36/2002 wef 01/01/2003]
 
@@ -2455,6 +2577,10 @@ the amount paid in error shall not be refunded but shall be deemed to have been 
 (p) to prescribe for the purposes of section 15B the manner of application to set aside the additional sum, the conditions on which the additional sum may be set aside, the time at which the additional sum may be set aside, and the amount of and the manner in which the additional sum may be withdrawn;
 
 (q) to provide for rates of contributions, other than those specified in the First Schedule, in respect of such categories, classes or descriptions of employees as the Minister may specify;
+
+(qa) to prescribe the fees and charges that may be levied by the Board for the purposes of this Act;
+
+[36/2002 wef 01/01/2003]
 
 (r) to provide for members of the Fund to apply or withdraw all or part of the contributions and interest standing to their credit in the Fund for the payment of improvement contributions due to the Housing and Development Board constituted under the Housing and Development Act (Cap. 129) in respect of upgrading works carried out under Part IVA of that Act including the payment of costs, fees or other incidental expenses arising from such works; and
 
@@ -2539,8 +2665,6 @@ Sections 7, 8, 70, 75 and 77
 Rates of Contribution
 
 1. Subject to paragraphs 2 to 7, with effect from 1st October 2002, the contributions payable by the employer and the amount recoverable from the employee’s wages are as follows:
-
-[S 524/2002 wef 01/10/2002]
 
 1A. Subject to paragraphs 1E to 7, with effect from 1st March 2011, the contributions payable by the employer (at graduated rates) and the amount recoverable from the employee’s wages (at graduated rates) during the period beginning on the date the employee becomes a permanent resident and ending on the last day of the first anniversary month, are as follows:
 
@@ -4090,8 +4214,6 @@ then the agreed rates of the contribution shall continue to apply in relation to
 
 (67) Urban Redevelopment Authority
 
-[S 524/2002 wef 01/10/2002]
-
 7. Contributions shall be payable for and recoverable from the wages of such employees who are —
 
 (a) pensionable employees at the rates prescribed for pensionable employees of the Government;
@@ -4100,11 +4222,7 @@ then the agreed rates of the contribution shall continue to apply in relation to
 
 (c) employees of a statutory body or persons employed in an aided school by the manager of the school at the rates prescribed in the Central Provident Fund (Statutory Bodies and Aided Schools — Employees) Regulations 2002 (G.N. No. S 520/2002); and
 
-[S 524/2002 wef 01/10/2002]
-
 (d) employees who are permanent residents and who do not fall under sub-paragraph (a), (b) or (c), at the rates prescribed in the Central Provident Fund (Permanent Residents — Employees) Regulations 2002 (G.N. No. S 521/2002).
-
-[S 524/2002 wef 01/10/2002]
 
 SECOND SCHEDULE
 
@@ -4239,9 +4357,7 @@ Self-employed Persons
 
 35\. Secondhand Dealers Act (Cap. 288).
 
-36. Securities and Futures Act 2001
-
-[42/2001 wef 01/10/2002]
+36\. Securities and Futures Act 2001
 
 37\. Sewerage and Drainage Act (Cap. 294).
 
@@ -4712,6 +4828,11 @@ This Legislative History is provided for the convenience of users of the Central
 |||(Bill No. 33/2001 published on 26 September 2001)|
 ||Date of Second and Third Readings|5 October 2001|
 ||Date of commencement|1 October 2002 (Item (2) of the Fourth Schedule — Amendment of Central Provident Fund Act)|
+|128.|**Act 36 of 2002—Central Provident Fund (Amendment) Act 2002**|
+||Date of First Reading|1 October 2002|
+|||(Bill No. 34/2002 published on 2 October 2002)|
+||Date of Second and Third Readings|31 October 2002|
+||Dates of commencement|1 January 2003 (except sections 2 and 3)|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
