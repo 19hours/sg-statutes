@@ -584,7 +584,15 @@ PRELIMINARY
 
 “national serviceman” has the same meaning as in the Enlistment Act [Cap. 93];
 
+“non-uniformed serviceman” means a regular serviceman who is not required under his terms of service to wear military uniform;
+
+[Act 20 of 1994 wef 01/12/1994]
+
 “officer” means a person appointed by the President of Singapore or the proper authority to hold the rank of officer in the Singapore Armed Forces and includes any person commissioned as an officer under any written law that is repealed by this Act;
+
+“operationally ready national serviceman” means a person liable to render operationally ready national service under the Enlistment Act (Cap. 93);
+
+[Act 20 of 1994 wef 01/12/1994]
 
 “proper authority” has the same meaning as in the Enlistment Act;
 
@@ -594,7 +602,7 @@ PRELIMINARY
 
 “regular serviceman” has the same meaning as in the Enlistment Act;
 
-“reservist” means a person liable to render reserve service under the Enlistment Act;
+[Deleted by Act 20 of 1994 wef 01/12/1994]
 
 “sentence” means a punishment imposed on a convicted person;
 
@@ -646,11 +654,13 @@ PRELIMINARY
 
 ### Application
 
-3\. The following persons shall be persons subject to military law and this Act shall apply to them:
+3\. The following persons shall be persons subject to military law and this Act shall, subject to such exclusions or variations in relation to non-uniformed servicemen as may be prescribed, apply to them:
 
 (a) regular servicemen and full-time national servicemen in the Singapore Armed Forces from the time their liability to report for enlistment or service arises until such time as they are lawfully discharged or released;
 
-(b) reservists from the time that they are ordered to report for enlistment or service, whether they have complied with such order or not, and while in uniform or performing service in the Singapore Armed Forces or the People’s Defence Force pursuant to section 14 of the Enlistment Act [Cap. 93], and while called out for mobilised service pursuant to sections 16 and 17 of that Act or when called out to duty in aid of the civil power;
+(b) operationally ready national servicemen from the time that they are ordered to report for enlistment or service, whether they have complied with such order or not, and while in uniform or performing service in the Singapore Armed Forces or the People’s Defence Force pursuant to section 14 of the Enlistment Act [Cap. 93], and while called out for mobilised service pursuant to sections 16 and 17 of that Act or when called out to duty in aid of the civil power;
+
+[Act 20 of 1994 wef 01/12/1994]
 
 (c) all civilians who are in the service of the Singapore Armed Forces when engaged on active service;
 
@@ -666,6 +676,8 @@ PRELIMINARY
 
 [Act 1 of 1991 wef 01/04/1991]
 
+[Act 20 of 1994 wef 01/12/1994]
+
 ### Liability for military offences
 
 4\. All persons subject to military law by virtue of section 3 shall be liable to be tried by subordinate military courts for all the military offences in this Act and by a disciplinary officer for the offences specified in the Schedule.
@@ -674,13 +686,17 @@ PRELIMINARY
 
 5\.—(1) A person, who was subject to military law under section 3(a) or (b) and —
 
-(a) who is liable to render reserve service as a person subject to the Enlistment Act [Cap. 93]; or
+(a) who is liable to render operationally ready national service as a person subject to the Enlistment Act [Cap. 93]; or
 
-(b) who is exempted from liability to render reserve service under section 28 of that Act, but comes within the definition of a person subject to the Enlistment Act in section 2 of that Act,
+[Act 20 of 1994 wef 01/12/1994]
+
+(b) who is exempted from liability to render operationally ready national service under section 28 of that Act, but comes within the definition of a person subject to the Enlistment Act in section 2 of that Act,
 
 shall be regarded as continuing to be subject to military law and, where such person was a member of the Singapore Armed Forces, be regarded as continuing to be a member of the Singapore Armed Forces, for the purposes of proceedings for such offence under the Emergency (Essential Powers) Act [Cap. 90] as may be prescribed under subsection (5), notwithstanding that he has been discharged or released from the Singapore Armed Forces or has otherwise ceased to be subject to military law at the time of the commission of the offence.
 
 [17/78]
+
+[Act 20 of 1994 wef 01/12/1994]
 
 (2) Subject to section 111(1), where such offence under the Emergency (Essential Powers) Act as may be prescribed under subsection (5) has been committed or is reasonably suspected of having been committed by a person who was, at the time of the commission of the offence, subject to military law under subsection (1), such person shall —
 
@@ -696,9 +712,13 @@ notwithstanding that he has been discharged or released from the Singapore Armed
 
 (a) where he was a regular serviceman, be regarded as having the rank that he held on the day of his discharge or release as a regular serviceman;
 
-(b) where he was a full-time national serviceman or reservist, be regarded as having the rank that he held on the day of his release as a full-time national serviceman or as a reservist, if he is no more liable for full-time or reserve service, as the case may be, under the Enlistment Act [Cap. 93]; or
+(b) where he was a full-time national serviceman or operationally ready national serviceman, be regarded as having the rank that he held on the day of his release as a full-time national serviceman or as an operationally ready national serviceman, if he is no more liable for full-time or reserve service, as the case may be, under the Enlistment Act [Cap. 93]; or
 
-(c) where he remains liable to render reserve service under the Enlistment Act, be regarded as having the rank that he holds as a reservist in the Singapore Armed Forces or the People’s Defence Force at the date of the trial for such offence.
+[Act 20 of 1994 wef 01/12/1994]
+
+(c) where he remains liable to render reserve service under the Enlistment Act, be regarded as having the rank that he holds as an operationally ready national serviceman in the Singapore Armed Forces or the People’s Defence Force at the date of the trial for such offence.
+
+[Act 20 of 1994 wef 01/12/1994]
 
 (5) For the purposes of this section, the Minister may, by order\*published in theGazette, prescribe the offences under the Emergency (Essential Powers) Act, for which a person, who commits any of those offences, may be tried and punished under this Act.
 
@@ -980,13 +1000,17 @@ shall be guilty of the offence of looting and shall be liable on conviction by a
 
 19\. Every person subject to military law who —
 
-(a) strikes or otherwise uses violence to, or offers violence to, a person superior in rank; or
+(a) strikes or otherwise uses violence to, or offers violence to, a person superior in rank or appointment; or
 
-(b) uses threatening or insubordinate language or gestures to, or behaves with contempt to a person superior in rank,
+[Act 20 of 1994 wef 01/12/1994]
 
-shall be guilty of an offence and shall be liable on conviction by a subordinate military court to imprisonment for a term not exceeding 2 years and if the offence is committed during active service, for a term not exceeding 5 years or any less punishment authorised by this Act except that it shall be a defence for any person charged under this section to prove that he neither knew nor had reasonable cause to believe that the person in relation to whom the offence is alleged to have been committed was a person superior in rank.
+(b) uses threatening or insubordinate language or gestures to, or behaves with contempt to a person superior in rank or appointment,
+
+shall be guilty of an offence and shall be liable on conviction by a subordinate military court to imprisonment for a term not exceeding 2 years and if the offence is committed during active service, for a term not exceeding 5 years or any less punishment authorised by this Act except that it shall be a defence for any person charged under this section to prove that he neither knew nor had reasonable cause to believe that the person in relation to whom the offence is alleged to have been committed was a person superior in rank or appointment.
 
 [18
+
+[Act 20 of 1994 wef 01/12/1994]
 
 ### Obstruction of military policemen
 
@@ -1790,7 +1814,9 @@ and such detention shall take effect from such date as the disciplinary officer 
 
 (a) if he has been released or discharged within 6 months after the commission of the offence, after the expiry of 3 years from the date of the commission of the offence;
 
-(b) if he is a reservist at the time of the commission of the offence, after the expiry of 3 years from that time;
+(b) if he is a operationally ready national servicemen at the time of the commission of the offence, after the expiry of 3 years from that time;
+
+[Act 20 of 1994 wef 01/12/1994]
 
 (c) in any other case, after the expiry of 6 months from the date of the commission of the offence.
 
@@ -1822,9 +1848,15 @@ and in this Act when these courts are collectively referred to they are called s
 
 ### Constitution of a general court martial
 
-81\.—(1) Every general court martial shall have jurisdiction to try any person subject to military law for any offence under this Act and to award for any such offence any punishment authorised by this Act.
+81\.—(1) Subject to subsection (2A), every general court martial shall have jurisdiction to try any person subject to military law for any offence under this Act and to award for any such offence any punishment authorised by this Act.
+
+[Act 20 of 1994 wef 01/12/1994]
 
 (2) Every general court martial shall consist of not less than 3 officers, or any other uneven number of officers of whom not less than two shall be of a rank not below that of captain; and the minimum number mentioned in this subsection shall be the legal minimum for a general court martial.
+
+(2A) A general court martial constituted for the trial of a non-uniformed serviceman may include, in place of the corresponding number of officers, not more than two non-uniformed servicemen in officer grades.
+
+[Act 20 of 1994 wef 01/12/1994]
 
 (3) The president of a general court martial shall be an officer of or above the rank of major and shall be appointed by the convening authority.
 
@@ -1994,7 +2026,9 @@ Provided that a Judge of the Supreme Court acting as president of a subordinate 
 
 (6) An accused charged before a subordinate military court, with desertion may be found guilty of being absent without leave.
 
-(7) An accused charged before a subordinate military court, with striking an officer superior in rank may be found guilty of using or offering violence to his superior officer.
+(7) An accused charged before a subordinate military court, with striking an officer superior in rank or appointment may be found guilty of using or offering violence to his superior officer.
+
+[Act 20 of 1994 wef 01/12/1994]
 
 (8) An accused charged before a subordinate military court, with using violence may be found guilty of offering violence.
 
@@ -2509,11 +2543,15 @@ and any such fine may, if the court orders, be paid by instalment to be deducted
 
 [20/75]
 
-(16) Notwithstanding anything in this Act where a reservist has been convicted of an offence under section 17, 19, 25 or 26 the court, if it is satisfied on the facts of the particular offence that the reservist by his behaviour, conduct or deportment has shown himself during the period of reserve service referred to in section 14(b) of the Enlistment Act [Cap. 93] that he is not responsive or amenable to military discipline, may, in lieu of awarding the punishment prescribed by the section upon which he has been convicted or any less punishment authorised by this Act, require the reservist, in addition to his liability under section 14 of the Enlistment Act, to serve for such further period or periods of reserve service not exceeding 12 months in the aggregate as it may, in the circumstances of each particular case, decide.
+(16) Notwithstanding anything in this Act where operationally ready national servicemen has been convicted of an offence under section 17, 19, 25 or 26 the court, if it is satisfied on the facts of the particular offence that the operationally ready national serviceman by his behaviour, conduct or deportment has shown himself during the period of operationally ready national service referred to in section 14(1)(b) of the Enlistment Act [Cap. 93] that he is not responsive or amenable to military discipline, may, in lieu of awarding the punishment prescribed by the section upon which he has been convicted or any less punishment authorised by this Act, require the operationally ready national serviceman, in addition to his liability under section 14 of the Enlistment Act, to serve for such further period or periods of operationally ready national service not exceeding 12 months in the aggregate as it may, in the circumstances of each particular case, decide.
 
 [20/75]
 
-(17) The court shall award the punishment referred to in subsection (16) only where it is satisfied that the reservist is fit for reserve service and considers that it is in the best interests of the Singapore Armed Forces that the reservist should render a further period of reserve service.
+[Act 20 of 1994 wef 01/12/1994]
+
+(17) The court shall award the punishment referred to in subsection (16) only where it is satisfied that the operationally ready national serviceman is fit for operationally ready national service and considers that it is in the best interests of the Singapore Armed Forces that the operationally ready national serviceman should render a further period of operationally ready national service.
+
+[Act 20 of 1994 wef 01/12/1994]
 
 (18) For the purposes of this Part, the punishment specified in subsection (16) shall be treated as a less punishment than that specified in subsection (1)(e) and shall be treated as a sentence imposed by a court for purposes of review and appeal under this Act.
 
@@ -3731,6 +3769,10 @@ MISCELLANEOUS
 
 (b) ranks of servicemen;
 
+(ba) service grades of regular servicemen in the non-uniformed service (NUSAF), including the designation of grades as officer grades;
+
+[Act 20 of 1994 wef 01/12/1994]
+
 (c) powers of commanders;
 
 (d) powers of disciplinary officers;
@@ -3774,6 +3816,14 @@ MISCELLANEOUS
 (ta) the appointment, release, discharge and terms and conditions of service of volunteers;
 
 [Act 1 of 1991 wef 01/04/1991]
+
+(tb) the exclusion or variation of the operation of the provisions of the Act in relation to non-uniformed servicemen;
+
+[Act 20 of 1994 wef 01/12/1994]
+
+(tc) in relation to any rank referred to in any provision of the Act, the designation of a corresponding service grade in the non-uniformed service for the purpose of that provision;
+
+[Act 20 of 1994 wef 01/12/1994]
 
 (u) all other matters which the Armed Forces Council considers necessary or expedient for the purposes of this Act.
 
@@ -3871,3 +3921,8 @@ This Legislative History is provided for the convenience of users of the Singapo
 ||Date of Second and Third Readings|23 February 1994|
 ||Date of commencement|1 May 1994 (except sections 28 and 29 (e))|
 |||14 October 1994 (sections 28 and 29 (e))|
+|7.|**Act 20 of 1994—Singapore Armed Forces (Amendment No. 2) Act 1994**|
+||Date of First Reading|25 July 1994|
+|||(Bill No. 22/1994 published on 29 July 1994)|
+||Date of Second and Third Readings|31 October 1994|
+||Date of commencement|1 December 1994|
