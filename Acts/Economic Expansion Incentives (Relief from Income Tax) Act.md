@@ -2590,6 +2590,11 @@ This Legislative History is provided for the convenience of users of the Economi
 |||(Bill No. 7/2004 published on 28 February 2004)|
 ||Date of Second and Third Readings|20 April 2004|
 ||Date of commencement|28 April 2004|
+|33.|**Act 14 of 2007—Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2007**|
+||Date of First Reading|22 January 2007|
+|||(Bill No. 2/2007 published on 23 January 2007)|
+||Date of Second and Third Readings|12 February 2007|
+||Date of commencement|9 September 2004|
 ## COMPARATIVE TABLE
 
 Economic Expansion Incentives (Relief from Income Tax) Act
