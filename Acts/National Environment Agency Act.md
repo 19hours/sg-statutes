@@ -156,7 +156,7 @@ President.
 
 Date of Commencement: 1st July 2002
 
-An Act to establish and incorporate the National Environment Agency, to provide for its functions and powers, and for matters connected therewith.
+An Act to establish and incorporate the National Environment Agency, to provide for its functions and powers, and for matters connected therewith; and to make consequential and related amendments to certain other written laws.
 
 Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
 
@@ -278,7 +278,9 @@ FUNCTIONS, duties AND POWERS OF AGENCY
 
 11\.—(1) Subject to the provisions of this Act, the functions and duties of the Agency shall be —
 
-(a) to identify, undertake research into, and conduct investigations and surveillance of infectious diseases, their vectors, and environmental health concerns generally, and to develop strategies for their prevention and control;
+(a) to identify, undertake research into, and conduct investigations and surveillance of environmental health concerns and vectors of infectious agents, and to develop strategies of prevention and control in connection with such matters;
+
+[5/2003 wef 01/04/2003]
 
 (b) to undertake licensing, provision of consultancy services, and promotion of professionalism in relation to matters concerning food hygiene in the food retail industry, and in relation to the pest control, environmental and other related industries;
 
