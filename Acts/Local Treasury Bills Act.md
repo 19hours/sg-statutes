@@ -62,6 +62,10 @@ An Act to provide for the borrowing of money by the issue of Treasury Bills in S
 
 “depositor” means any person in whose name an account is established and maintained on the records of the Authority;
 
+“Government Securities Fund” means the Government Securities Fund established under Part II of the Government Securities Act [Cap. 121A];
+
+[Act 6/96 wef 01/04/1996 vide S 90/96]
+
 “pledge” includes a pledge of, or any security interest in, a book-entry Treasury Bill as collateral for loans or advances, or to secure deposits of public moneys or the performance of an obligation;
 
 “security interest” means an interest, not being an interest arising from a trust, in property which secures the payment of a debt or performance of an obligation;
@@ -72,7 +76,9 @@ An Act to provide for the borrowing of money by the issue of Treasury Bills in S
 
 ### Power to borrow by issue of Treasury Bills
 
-3\.—(1) The Minister whenever authorised thereto by a resolution of Parliament may borrow, by the issue of Treasury Bills in Singapore, sums not exceeding the amount specified in the resolution; and the Minister may also borrow from time to time, by the issue of such Treasury Bills, such sums as may be required to pay off at maturity Treasury Bills already lawfully issued and outstanding.
+3\.—(1) Where Parliament by resolution authorises the borrowing of moneys under this Act and the President has given his concurrence under Article 144(1)(a) of the Constitution for such borrowing, the Minister may borrow, by the issue of Treasury Bills in Singapore, sums not exceeding the amount specified in the resolution; and the Minister may also borrow from time to time, by the issue of such Treasury Bills, such sums as may be required to pay off at maturity Treasury Bills already lawfully issued and outstanding.
+
+[Act 11/91 wef 30/11/1991 vide S 527/91]
 
 (2) The Authority may, on behalf of the Minister, undertake the issue and management of Treasury Bills issued under this Act.
 
@@ -100,43 +106,47 @@ An Act to provide for the borrowing of money by the issue of Treasury Bills in S
 
 ### Principal of Bills
 
-4\. The principal moneys represented by the Treasury Bills issued under this Act are hereby charged upon and shall be payable out of the Consolidated Fund.
+4\. The principal moneys represented by the Treasury Bills issued under this Act are hereby charged upon and shall be payable out of the Government Securities Fund.
 
 [3
 
+[Act 6/96 wef 01/04/1996]
+
 ### Proceeds of Bills
 
-5\. The proceeds of the issue of such Treasury Bills shall be paid into the Consolidated Fund.
+5\. The proceeds of the issue of such Treasury Bills shall be paid into the Government Securities Fund.
 
 [4
 
+[Act 6/96 wef 01/04/1996]
+
 ### Amounts and period of currency of Bills
 
-6\. Every Treasury Bill issued under this Act shall be for the sum of $10,000 or a multiple of $10,000, and shall be payable at par at such time or times as the Minister shall, before the issue of such Treasury Bills, fix and determine, but not later than one year from the date of issue.
+6\. Every Treasury Bill issued under this Act shall be for the sum of $10,000 or a multiple of $10,000 , and shall be payable at par at such time or times as the Minister shall, before the issue of such Treasury Bills, fix and determine, but not later than one year from the date of issue.
 
 [5
 
 ### Repayment of Bills
 
-7\. The Minister shall appropriate out of the Consolidated Fund the necessary sum to pay the principal represented by the Treasury Bills when they fall due.
+7\. The Minister shall appropriate out of the Government Securities Fund the necessary sum to pay the principal represented by the Treasury Bills when they fall due.
 
 [6
+
+[Act 6/96 wef 01/04/1996]
 
 ### Cancellation of repaid Bills
 
 8\.—(1) Upon repayment of the principal moneys represented by the Treasury Bills, the Bills shall be delivered up to the Authority to be cancelled by the Authority.
 
-[10/87]
-
 (2) Subsection (1) shall not apply to book-entry Treasury Bills.
 
 [7
 
+[10/87]
+
 ### Transfers and pledges effected by Authority under book-entry clearing system
 
 9\.—(1) A transfer or a pledge of any book-entry Treasury Bill to the Authority or to the Government or to any transferee or pledgee eligible to maintain an appropriate account in its name with the Authority shall be effected, notwithstanding any written law to the contrary, by the Authority making an appropriate entry in its records of the book-entry Treasury Bill transferred or pledged.
-
-[10/87]
 
 (2) The making of an entry in the records of the Authority under subsection (1) shall —
 
@@ -152,11 +162,11 @@ An Act to provide for the borrowing of money by the issue of Treasury Bills in S
 
 [8
 
+[10/87]
+
 ### Transfers and pledges effected by other means
 
 10\.—(1) Notwithstanding section 9, a transfer or a pledge of a book-entry Treasury Bill, or any interest therein, which is maintained by the Authority in an account may be effected by any means that would be effective to effect a transfer or pledge of a book-entry Treasury Bill, or any interest therein, if the Bill was issued by the Authority in the form of engraved or printed certificates.
-
-[10/87]
 
 (2) The Authority shall be deemed not to be —
 
@@ -172,23 +182,25 @@ An Act to provide for the borrowing of money by the issue of Treasury Bills in S
 
 [9
 
+[10/87]
+
 ### Authority to be discharged by action on instructions
 
 11\.—(1) The Authority shall not be liable for conversion or for participation in any breach of fiduciary duty where the Authority has, in respect of book-entry Treasury Bills maintained in the accounts of the Authority, effected pledges or made entries regarding the book-entry Treasury Bills, or transferred or delivered the book-entry Treasury Bills, according to the instructions of the depositor notwithstanding that the depositor had no right to dispose of or take any other action in respect of the book-entry Treasury Bills.
-
-[10/87]
 
 (2) The Authority shall be fully discharged of its obligations under this Act by the transfer or delivery of book-entry Treasury Bills upon the instructions of the depositor.
 
 [10
 
+[10/87]
+
 ### Confirmation of transaction
 
 12\. The Authority shall issue to each depositor following any transaction affecting book-entry Treasury Bills maintained for such depositor under this Act a confirmation thereof in the form of an advice (serially numbered or otherwise) which shall specify the amount and description of the book-entry Treasury Bills and any other pertinent transaction data.
 
-[11
-
 [10/87]
+
+[11
 
 ## LEGISLATIVE HISTORY
 
@@ -234,3 +246,9 @@ This Legislative History is provided for the convenience of users of the Local T
 ||Date of commencement|10 April 1987|
 |11.|**1988 Revised Edition—Local Treasury Bills Act**|
 ||Date of operation|30 April 1988|
+|12.|**Act 11 of 1991—Statutes (Miscellaneous Amendments) Act 1991**|
+||(Consequential amendments made by)||
+||Date of First Reading|3 January 1991|
+|||(Bill No. 4/1991 published on 4 January 1991)|
+||Date of Second and Third Readings|14 January 1991|
+||Date of commencement|30 November 1991|
