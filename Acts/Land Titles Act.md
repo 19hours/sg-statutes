@@ -244,7 +244,7 @@
 
 - [98 Implied easements for passage of water, electricity, drainage, gas and sewerage for development](#Implied-easements-for-passage-of-water-electricity-drainage-gas-and-sewerage-for-development)
 
-- [99 Implied easements for right of way and other rights shown inan approved subdivision plan](#Implied-easements-for-right-of-way-and-other-rights-shown-inan-approved-subdivision-plan)
+- [99 Implied easements for right of way and other rights shown in subdivision plan](#Implied-easements-for-right-of-way-and-other-rights-shown-in-subdivision-plan)
 
 - [100 Extinguishment by union of tenements](#Extinguishment-by-union-of-tenements)
 
@@ -2428,11 +2428,17 @@ EASEMENTS
 
 [30/2003]
 
-### Implied easements for right of way and other rights shown inan approved subdivision plan
+### Implied easements for right of way and other rights shown in subdivision plan
 
-99\.—(1) Where the competent authority has approved the development and subdivision of any land comprised in an estate before or after 1st March 1994, there shall be implied in respect of each lot of the estate which is used or intended to be used as a separate tenement (referred to hereinafter as the lot) in favour of the registered proprietor of the lot and as appurtenant thereto, all such easements of way and drainage and for party wall purposes and for the supply of water, gas, electricity, sewerage and telephone and other services to the lot on, over or under the lands appropriated or set apart for those purposes respectively on the approved subdivision plan relating to the estate as may be necessary for the reasonable enjoyment of the lot and of any building or part of a building at any time thereon.
+99\.—(1) Where the competent authority has approved the development and subdivision of any land comprised in an estate before or after 1st March 1994 and the subdivision plan has been submitted to the competent authority, there shall be implied, in respect of each lot of the estate which is used or intended to be used as a separate tenement, in favour of the registered proprietor of the lot and as appurtenant thereto, all the easements referred to in subsection (1A).
 
-(2) All ancillary rights and obligations reasonably necessary to make the easements referred to in subsection (1) effective shall be implied.
+[37/2004 wef 31/03/2005]
+
+(1A) The easements which shall be implied under subsection (1) are all such easements of way and drainage, for party wall purposes and for the supply of water, gas, electricity, sewerage and telephone and other services to the lot on, over or under the lands appropriated or set apart for those purposes respectively on the subdivision plan submitted to the competent authority relating to the estate, as may be necessary for the reasonable enjoyment of the lot and of any building or part of a building at any time thereon.
+
+[37/2004 wef 31/03/2005]
+
+(2) All ancillary rights and obligations reasonably necessary to make the easements referred to in subsection (1A) effective shall be implied.
 
 (3) In respect of all the easements implied by this section, there shall also be implied a covenant binding all registered proprietors enjoying the benefit of such easements to contribute to the cost of maintenance or repair of the subject of the easements as if the easements and the covenant to contribute had been created by an instrument registered under this Act and so long as such easements subsist the covenant to contribute shall bind any successor in title enjoying the benefit of the easements except that in the case of the right to erect and maintain party walls, the implied covenant provided in this subsection shall bind only the registered proprietors of the lots on which party walls have been erected.
 
@@ -2446,9 +2452,15 @@ EASEMENTS
 
 (8) In this section —
 
-“estate” means land which has been subdivided into lots under the Planning Act (Cap. 232) where those lots include land intended for use as easements to be made appurtenant to other lots within the same estate as shown in the subdivision plan approved by the competent authority, a copy of which is deposited with the Registrar; and may include undeveloped lots in the course of erection which are shown in the first subdivision plan approved by the competent authority and is capable of being subdivided as shown in one or more approved subsequent subdivision plans as and when issued by the competent authority and copies of the subdivision plans have been delivered to the Registrar;
+“estate” means any land which has been subdivided into lots under the Planning Act (Cap. 232), and includes —
 
-“lot” means a parcel of land forming part of an estate to which the Chief Surveyor has allotted a Government survey lot number and also described as a “plot” in a subdivision plan approved by the competent authority.
+(a) land intended for use as easements to be made appurtenant to other lots within the same estate as shown in the subdivision plan submitted to the competent authority; and
+
+(b) undeveloped lots, if any, which are shown in the first subdivision plan submitted to the competent authority, each of which is capable of being subdivided as shown in one or more subsequent subdivision plans as and when submitted to or issued by the competent authority;
+
+[37/2004 wef 31/03/2005]
+
+“lot” means a parcel of land forming part of an estate to which the Chief Surveyor has allotted a Government survey lot number and also described as a “plot” in a subdivision plan submitted to the competent authority.
 
 [3/98]
 
@@ -3054,9 +3066,9 @@ RESTRICTIVE COVENANTS
 
 (b) the expiry of 5 years from the date of entry of a notification thereof on the land-register; or
 
-(c) the expiry of 24 months from 20th August 20012,
+(c) the expiry of 24 months from 20th August 2001\*,
 
-2Date of commencement of section 28 of the Land Titles (Amendment) Act 2001 (Act 25 of 2001).
+\*Date of commencement of section 28 of the Land Titles (Amendment) Act 2001 (Act 25 of 2001).
 
 [25/2001]
 
@@ -3436,11 +3448,9 @@ MISCELLANEOUS
 
 ### Subdivision of registered land
 
-165\.—(1) Except as provided in this section, the Registrar shall not register any instrument affecting part of the land in a folio until he is satisfied that —
+165\.—(1) Except as provided in this section, the Registrar shall not register any instrument affecting part of the land in a folio until he is satisfied that the boundaries and dimensions of part of the land in a folio described in an instrument are in accordance with the final boundaries and dimensions shown in the plan lodged with and approved by the Chief Surveyor under the Boundaries and Survey Maps Act (Cap. 25).
 
-(a) the authority for the time being charged with the duty of controlling or supervising the subdivision of the land has certified that the lawful requirements of that authority relating to subdivision have been complied with; and
-
-(b) the boundaries and dimensions of part of the land in a folio described in an instrument are in accordance with the final boundaries and dimensions shown in the plan lodged with and approved by the Chief Surveyor.
+[37/2004 wef 31/03/2005]
 
 (2) Where the Registrar has created a new folio pursuant to a registration of part of the land which is not conclusive as to boundaries and dimensions, he shall enter thereon a caution to that effect, and he shall cancel that caution when the boundaries and dimensions have been shown on the plan lodged with and approved by the Chief Surveyor.
 
@@ -3682,6 +3692,11 @@ This Legislative History is provided for the convenience of users of the Land Ti
 ||Date of commencement|10 December 2003 (section 6)|
 |9.|**2004 Revised Edition—Land Titles Act**|
 ||Date of operation|31 July 2004|
+|10.|**Act 37 of 2004—Land Surveyors (Amendment) Act 2004**|
+||Date of First Reading|1 September 2004|
+|||(Bill No. 36/2004 published on 2 September 2004)|
+||Date of Second and Third Readings|21 September 2004|
+||Date of commencement|31 March 2005|
 ## COMPARATIVE TABLE
 
 Land Titles Act
