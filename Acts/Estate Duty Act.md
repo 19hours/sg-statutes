@@ -158,8 +158,6 @@
 
 [**EIGHTH SCHEDULE Rates of Remission of Estate Duty in the Case of Persons Dying on or After 1ST April 1977 and Before 1ST April 1984**](#EIGHTH-SCHEDULE-Rates-of-Remission-of-Estate-Duty-in-the-Case-of-Persons-Dying-on-or-After-1ST-April-1977-and-Before-1ST-April-1984)
 
-[**NINTH SCHEDULE Exemptions**](#NINTH-SCHEDULE-Exemptions)
-
 [**Legislative History**](#Legislative-History)
 
 # Estate Duty Act
@@ -300,7 +298,7 @@ C is the amount of the estate duty to be remitted.
 
 (i) in the case of any gift inter vivos made for public or charitable purposes, the words “5 years” in this paragraph shall be read as “12 months”;
 
-(ii) nothing in this paragraph shall apply to gifts inter vivos which are made in consideration of marriage, or which are proved to the satisfaction of the Commissioner to have been part of the normal expenditure of the deceased and to have been reasonable having regard to the amount of his income or to the circumstances, or which in the case of any donee do not exceed in the aggregate $1,000 in value or amount;
+(ii) nothing in this paragraph shall apply to gifts inter vivos which are made in consideration of marriage, or which are made to the Government or any institution of a public character within the meaning of section 37(9) of the Income Tax Act (Cap. 134), or which are proved to the satisfaction of the Commissioner to have been part of the normal expenditure of the deceased and to have been reasonable having regard to the amount of his income or to the circumstances, or which in the case of any donee do not exceed in the aggregate $1,000 in value or amount;
 
 (d) property which the deceased, having been absolutely entitled thereto, has caused to be transferred to or vested in himself and any other person jointly, whether by disposition or otherwise, including also any purchase or investment effected by the deceased alone or in concert or by arrangement with any other person, so that the beneficial interest therein or in some part thereof passes or accrues by survivorship on his death to such other person;
 
@@ -382,13 +380,11 @@ where the purchase was made, or the lease or annuity granted, for full considera
 
 ### Bequests to institutions
 
-13\.—(1) No estate duty shall be payable in respect of the amount of a bequest to any institution specified in the Ninth Schedule and the value of the property passing on the death of the donor of the bequest shall be deemed not to include the amount thereof for the purpose of assessing the rate of estate duty.
+13\.—(1) No estate duty shall be payable in respect of the amount of a bequest to the Government or any institution of a public character within the meaning of section 37(9) of the Income Tax Act (Cap. 134) and the value of the property passing on the death of the donor of the bequest shall be deemed not to include the amount thereof for the purpose of assessing the rate of estate duty.
 
 [12/78]
 
 (2) No estate duty shall be payable in respect of any monument that is the subject of a preservation order made under section 8 of the Preservation of Monuments Act (Cap. 239).
-
-(3) The Minister may, by order published in theGazette, amend, add to or revoke the whole or part of the Ninth Schedule.
 
 ### Gifts to National Museum
 
@@ -940,11 +936,19 @@ COLLECTION OF ESTATE DUTY
 
 (b) that those shares or that sum are not liable to estate duty.
 
+(5) Subsection (1) shall not apply to —
+
+(a) shares standing in the name of a deceased person in his securities account with the Central Depository (Pte) Limited where the aggregate market value of the shares, as at the date of his death, does not exceed $50,000; or
+
+(b) shares standing in the name of a deceased person in his CPF Investment Account under the Central Provident Fund Act (Cap. 36) where the aggregate market value of the shares, as at the date of his death, does not exceed $50,000.
+
+[42/98 wef 01/01/1999]
+
 ### Penalties for delay and intermeddling
 
 45\.—(1) An accountable person who wilfully fails to comply with section 35(1) or (4) shall be liable to pay to the Government double the amount of the estate duty for which he is accountable.
 
-(2) If any person takes possession of or in any way administers any part of an estate of a deceased person in respect of which estate duty is leviable or of the income of any part of that estate without obtaining probate or letters of administration of that estate within 6 months after the death of the deceased or within 2 months after the termination of any action or proceeding respecting the will or the right to letters of administration, if there is any such action or proceeding which has not ended within 4 months after such death, he shall forfeit to the Government the sum of $1,000 and shall also be liable to pay to the Government double the amount of duty leviable.
+(2) Except as provided under section 44(5), if any person takes possession of or in any way administers any part of an estate of a deceased person in respect of which estate duty is leviable or of the income of any part of that estate without obtaining probate or letters of administration of that estate within 6 months after the death of the deceased or within 2 months after the termination of any action or proceeding respecting the will or the right to letters of administration, if there is any such action or proceeding which has not ended within 4 months after such death, he shall forfeit to the Government the sum of $1,000 and shall also be liable to pay to the Government double the amount of duty leviable.
 
 ### Return of duty overpaid
 
@@ -1356,23 +1360,25 @@ Rates of Interest
 
 Period
 
-Rate of interest
+Rate of Interest
 
 1. From the date of death to the date of payment of the estate duty or the expiration of 6 months from the date of death, whichever first occurs
 
-3% per year on the amount of the unpaid estate duty.
+3% per year on the amount of the unpaid estate duty except that the Commissioner shall reduce the rate to zero if he is satisfied that the estate duty affidavit received within 6 months after the date of death is complete and without omission of assets.
 
 2. If any part of the estate duty is not paid within 6 months from the date of death, from the expiration of those 6 months to the date of payment of that part of the estate duty or the expiration of 18 months from the date of death, whichever first occurs
 
-6% per year on the amount of the unpaid estate duty.
+6% per year on the amount of the unpaid estate duty except that the Commissioner shall reduce the rate to 3% per year if he is satisfied that there was reasonable cause for the delay in payment or furnishing information to the Commissioner.
 
 3. If any part of the estate duty is not paid within 18 months from the date of death, from the expiration of those 18 months to the date of payment of that part of the estate duty
 
-12% per year on the amount of the unpaid estate duty except that the Commissioner shall, unless he is satisfied that there was no reasonable cause for the delay in payment, reduce the rate to 6% per year.
+12% per year on the amount of the unpaid estate duty except that the Commissioner shall reduce the rate to 6% per year if he is satisfied that there was reasonable cause for the delay in payment or furnishing information to the Commissioner.
 
 4. Where the death occurred before 1st January 1965, from the date of death to the date of payment of the estate duty
 
 4% per year on the amount of the unpaid estate duty.
+
+[42/98 wef 01/01/1999]
 
 SEVENTH SCHEDULE
 
@@ -1467,28 +1473,6 @@ For every dollar of the next $20,000
 10%
 
 [12/78]
-
-NINTH SCHEDULE
-
-Section 13
-
-Exemptions
-
-Institutions
-
-(1) The Board of Legal Education\.
-
-(2) The Institute of Certified Public Accountants of Singapore\.
-
-(3) The Law Society of Singapore\.
-
-(4) The Nanyang Technological University\.
-
-(5) The National Heritage Board\.
-
-(6) The National University of Singapore.
-
-[12/78; S 8/96; S 460/96]
 
 ## LEGISLATIVE HISTORY
 
@@ -1633,3 +1617,4 @@ This Legislative History is provided for the convenience of users of the Estate 
 |||(Bill No. 44/98 published on 13 October 1998)|
 ||Date of Second and Third Readings|26 November 1998|
 ||Date of commencement|10 January 1998|
+|||1 January 1999|
