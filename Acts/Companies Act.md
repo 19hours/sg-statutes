@@ -128,49 +128,13 @@
 
 [**Part IV SHARES, DEBENTURES AND CHARGES**](#Part-IV)
 
-[**Division 1  Prospectuses**](#Division-1--Prospectuses)
-
-- [43 Requirement to issue form of application for shares or debentures with a prospectus](#Requirement-to-issue-form-of-application-for-shares-or-debentures-with-a-prospectus)
-
-- [44 As to invitations to the public to lend money to or to deposit money with a corporation](#As-to-invitations-to-the-public-to-lend-money-to-or-to-deposit-money-with-a-corporation)
-
-- [45 Contents of prospectuses](#Contents-of-prospectuses)
-
-- [45A Profile statement](#Profile-statement)
-
-- [46 Exemption from requirements as to form or content of prospectus or profile statement](#Exemption-from-requirements-as-to-form-or-content-of-prospectus-or-profile-statement)
-
-- [47 Abridged prospectus for renounceable rights issues](#Abridged-prospectus-for-renounceable-rights-issues)
-
-- [48 Restrictions on advertisements, etc.](#Restrictions-on-advertisements-etc)
-
-- [49 As to retention of over-subscriptions in debenture issues](#As-to-retention-of-over-subscriptions-in-debenture-issues)
-
-- [50 Registration of prospectus](#Registration-of-prospectus)
-
-- [50A Lodging supplementary document or replacement document](#Lodging-supplementary-document-or-replacement-document)
-
-- [51 Exemption for certain governmental and international corporations as regards the signing of a copy of prospectus by all directors](#Exemption-for-certain-governmental-and-international-corporations-as-regards-the-signing-of-a-copy-of-prospectus-by-all-directors)
-
-- [52 Document containing offer of shares for sale deemed prospectus](#Document-containing-offer-of-shares-for-sale-deemed-prospectus)
-
-- [53 Allotment of shares and debentures where prospectus indicates application to list on stock exchange](#Allotment-of-shares-and-debentures-where-prospectus-indicates-application-to-list-on-stock-exchange)
-
-- [54 Expert’s consent to issue of prospectus containing statement by him](#Expert’s-consent-to-issue-of-prospectus-containing-statement-by-him)
-
-- [55 Civil liability for false or misleading statements and omissions](#Civil-liability-for-false-or-misleading-statements-and-omissions)
-
-- [55A Persons liable to inform person making offer or invitation about certain deficiencies](#Persons-liable-to-inform-person-making-offer-or-invitation-about-certain-deficiencies)
-
-- [55B Defences](#Defences)
-
-- [56 Criminal liability for false or misleading statements and omissions](#Criminal-liability-for-false-or-misleading-statements-and-omissions)
+[**Division 1  Repealed**](#Division-1--Repealed)
 
 [**Division 2  Restrictions on allotment and commencement of business**](#Division-2--Restrictions-on-allotment-and-commencement-of-business)
 
-- [57 Prohibition of allotment unless minimum subscription received](#Prohibition-of-allotment-unless-minimum-subscription-received)
+- [57 (Repealed)](#Repealed)
 
-- [58 Application and moneys to be held by the company in trust in a separate bank account until allotment](#Application-and-moneys-to-be-held-by-the-company-in-trust-in-a-separate-bank-account-until-allotment)
+- [58 (Repealed)](#Repealed)
 
 - [59 Restriction on allotment in certain cases](#Restriction-on-allotment-in-certain-cases)
 
@@ -282,83 +246,25 @@
 
 - [96 Reissue of redeemed debentures](#Reissue-of-redeemed-debentures)
 
-- [97 Qualifications of trustee for debenture holders](#Qualifications-of-trustee-for-debenture-holders)
+- [97 (Repealed)](#Repealed)
 
-- [98 Retirement of trustees](#Retirement-of-trustees)
+- [98 (Repealed)](#Repealed)
 
-- [99 Contents of trust deed](#Contents-of-trust-deed)
+- [99 (Repealed)](#Repealed)
 
 - [100 Power of Court in relation to certain irredeemable debentures](#Power-of-Court-in-relation-to-certain-irredeemable-debentures)
 
-- [101 Duties of trustees](#Duties-of-trustees)
+- [101 (Repealed)](#Repealed)
 
-- [102 Powers of trustee to apply to Court for directions, etc.](#Powers-of-trustee-to-apply-to-Court-for-directions-etc)
+- [102 (Repealed)](#Repealed)
 
-- [103 Obligations of borrowing corporation](#Obligations-of-borrowing-corporation)
+- [103 (Repealed)](#Repealed)
 
-- [104 Obligation of guarantor corporation to furnish information](#Obligation-of-guarantor-corporation-to-furnish-information)
+- [104 (Repealed)](#Repealed)
 
-- [105 Loans and deposits to be immediately repayable on certain events](#Loans-and-deposits-to-be-immediately-repayable-on-certain-events)
+- [105 (Repealed)](#Repealed)
 
-- [106 Liability of trustees for debenture holders](#Liability-of-trustees-for-debenture-holders)
-
-[**Division 5A  Exemptions from Divisions 1 and 5 in relation to Prospectus Requirements**](#Division-5A--Exemptions-from-Divisions-1-and-5-in-relation-to-Prospectus-Requirements)
-
-- [106A Interpretation](#Interpretation)
-
-- [106B Offer made by or to certain persons or under certain circumstances](#Offer-made-by-or-to-certain-persons-or-under-certain-circumstances)
-
-- [106C Offer made to certain institutions or persons](#Offer-made-to-certain-institutions-or-persons)
-
-- [106D Offer to sophisticated investors](#Offer-to-sophisticated-investors)
-
-- [106E Circumstances in which a prospectus is not required on first sale of shares or debentures acquired pursuant to exemptions in section 106C or 106D](#Circumstances-in-which-a-prospectus-is-not-required-on-first-sale-of-shares-or-debentures-acquired-pursuant-to-exemptions-in-section-106C-or-106D)
-
-- [106F Stock exchange offer](#Stock-exchange-offer)
-
-- [106G Offer of international debentures](#Offer-of-international-debentures)
-
-- [106H Offer of debentures made by the Government or international financial institutions](#Offer-of-debentures-made-by-the-Government-or-international-financial-institutions)
-
-- [106I Reporting requirements](#Reporting-requirements)
-
-- [106J Revocation of exemption](#Revocation-of-exemption)
-
-- [106K Power to conduct investigations](#Power-to-conduct-investigations)
-
-- [106L Transactions under exempted offers subjects to Division II of Part XII of this Act and Part IX of Securities Industry Act](#Transactions-under-exempted-offers-subjects-to-Division-II-of-Part-XII-of-this-Act-and-Part-IX-of-Securities-Industry-Act)
-
-[**Division 6  Interests other than shares, debentures, etc.**](#Division-6--Interests-other-than-shares-debentures-etc)
-
-- [107 Interpretation of this Division](#Interpretation-of-this-Division)
-
-- [108 Approved deeds](#Approved-deeds)
-
-- [109 Approval of deeds](#Approval-of-deeds)
-
-- [110 Approval of trustees](#Approval-of-trustees)
-
-- [111 Covenants to be included in deeds](#Covenants-to-be-included-in-deeds)
-
-- [112 Interests to be issued by companies only](#Interests-to-be-issued-by-companies-only)
-
-- [113 Statement to be issued](#Statement-to-be-issued)
-
-- [113A Restriction on issue, etc., of interest to public](#Restriction-on-issue-etc-of-interest-to-public)
-
-- [114 No issue without approved deed](#No-issue-without-approved-deed)
-
-- [115 Register of interest holders](#Register-of-interest-holders)
-
-- [116 Returns, information, etc., relating to interests](#Returns-information-etc-relating-to-interests)
-
-- [117 Penalty for contravention of Division, etc.](#Penalty-for-contravention-of-Division-etc)
-
-- [118 Winding up of schemes, etc.](#Winding-up-of-schemes-etc)
-
-- [119 Power to exempt from compliance with Division and non-application of Division in certain circumstances](#Power-to-exempt-from-compliance-with-Division-and-non-application-of-Division-in-certain-circumstances)
-
-- [120 Liability of trustees](#Liability-of-trustees)
+- [106 (Repealed)](#Repealed)
 
 [**Division 7  Title and transfers**](#Division-7--Title-and-transfers)
 
@@ -408,7 +314,7 @@
 
 - [130L Non-application of certain provisions in bankruptcy and company liquidation law](#Non-application-of-certain-provisions-in-bankruptcy-and-company-liquidation-law)
 
-- [130M Non-application of certain provisions in sections 21, 76A and 106E](#Non-application-of-certain-provisions-in-sections-21-76A-and-106E)
+- [130M Non-application of certain provisions in sections 21 and 76A](#Non-application-of-certain-provisions-in-sections-21-and-76A)
 
 - [130N Security interest](#Security-interest)
 
@@ -616,7 +522,7 @@
 
 - [209B Application of amendments made to sections 201 to 204 and 207 and new sections 201A and 209A](#Application-of-amendments-made-to-sections-201-to-204-and-207-and-new-sections-201A-and-209A)
 
-[**Part VII ARRANGEMENTS, RECONSTRUCTIONS AND TAKE-OVERS**](#Part-VII)
+[**Part VII ARRANGEMENTS AND RECONSTRUCTIONS**](#Part-VII)
 
 - [210 Power to compromise with creditors and members](#Power-to-compromise-with-creditors-and-members)
 
@@ -624,9 +530,9 @@
 
 - [212 Provisions for facilitating reconstruction and amalgamation of companies](#Provisions-for-facilitating-reconstruction-and-amalgamation-of-companies)
 
-- [213 Take-over offers](#Take-over-offers)
+- [213 (Repealed)](#Repealed)
 
-- [214 Variation of take-over offers](#Variation-of-take-over-offers)
+- [214 (Repealed)](#Repealed)
 
 - [215 Power to acquire shares of shareholders dissenting from scheme or contract approved by 90% majority](#Power-to-acquire-shares-of-shareholders-dissenting-from-scheme-or-contract-approved-by-90%-majority)
 
@@ -1052,7 +958,7 @@
 
 [**Division 2  Offences**](#Division-2--Offences)
 
-- [400 Restriction on offering shares, debentures, etc., for subscription or purchase](#Restriction-on-offering-shares-debentures-etc-for-subscription-or-purchase)
+- [400 (Repealed)](#Repealed)
 
 - [401 False and misleading statement](#False-and-misleading-statement)
 
@@ -1090,17 +996,17 @@
 
 [**FOURTH SCHEDULE Table A**](#FOURTH-SCHEDULE-Table-A)
 
-[**FIFTH SCHEDULE Prospectus**](#FIFTH-SCHEDULE-Prospectus)
+[**FIFTH SCHEDULE**](#FIFTH-SCHEDULE)
 
 [**SIXTH SCHEDULE Statement in Lieu of Prospectus**](#SIXTH-SCHEDULE-Statement-in-Lieu-of-Prospectus)
 
-[**SEVENTH SCHEDULE Statement Required Pursuant to Division 6 of Part Iv**](#SEVENTH-SCHEDULE)
+[**SEVENTH SCHEDULE**](#SEVENTH-SCHEDULE)
 
 [**EIGHTH SCHEDULE Annual Return of A Company Having A Share Capital**](#EIGHTH-SCHEDULE-Annual-Return-of-A-Company-Having-A-Share-Capital)
 
 [**NINTH SCHEDULE Accounts and Consolidated Accounts**](#NINTH-SCHEDULE-Accounts-and-Consolidated-Accounts)
 
-[**TENTH SCHEDULE Take-over Offers**](#TENTH-SCHEDULE-Take-over-Offers)
+[**TENTH SCHEDULE**](#TENTH-SCHEDULE)
 
 [**ELEVENTH SCHEDULE Powers of Judicial Manager**](#ELEVENTH-SCHEDULE-Powers-of-Judicial-Manager)
 
@@ -1447,7 +1353,7 @@ and includes any document accompanying the return;
 
 “manager”, in relation to a company, means the principal executive officer of the company for the time being by whatever name called and whether or not he is a director;
 
-“marketable securities” means debentures, funds, stocks, shares or bonds of any government or of any local authority or of any corporation or society and includes any right or option in respect of shares in any corporation and any interest as defined in section 107;
+“marketable securities” means debentures, funds, stocks, shares or bonds of any government or of any local authority or of any corporation or society and includes any right or option in respect of shares in any corporation and units in a collective investment scheme within the meaning of section 2 of the Securities and Futures Act 2001;
 
 “members’ voluntary winding up” means a winding up under Division 3 of Part X, where a declaration has been made and lodged in pursuance of section 293;
 
@@ -1501,17 +1407,21 @@ but does not include —
 
 being a company which has not ceased to be a private company under section 31 or 32;
 
-“profile statement” means a profile statement referred to in section 45A;
-
-[36/2000 wef 22/01/2001]
-
 “profit and loss account” includes income and expenditure account, revenue account or any other account showing the results of the business of a corporation for a period;
 
-“promoter”, in relation to a prospectus issued by or in connection with a corporation, means a promoter of the corporation who was a party to the preparation of the prospectus or of any relevant portion thereof, but does not include any person by reason only of his acting in a professional capacity;
+“prospectus” means any prospectus, notice, circular, material, advertisement, publication or other document —
 
-“prospectus” means any prospectus (including an abridged prospectus registered pursuant to section 47), notice, circular, advertisement or invitation inviting applications or offers from the public to subscribe for or purchase or offering to the public for subscription or purchase any shares in or debentures of or any units of shares in or units of debentures of a corporation or proposed corporation;
+(a) inviting applications or offers from the public to subscribe for or purchase; or
 
-[13/87]
+(b) offering to the public for subscription or purchase,
+
+any shares in or debentures of, or any units of shares in or debentures of, a corporation or proposed corporation, and includes any document deemed to be a prospectus under section 256 or 257 of the Securities and Futures Act 2001, but does not include —
+
+(i) a profile statement; or
+
+(ii) any material, advertisement or publication which is authorised by section 251 (other than subsection (5)) of that Act;
+
+[42/2001 wef 01/07/2002]
 
 “public company” means a company other than a private company;
 
@@ -1525,10 +1435,6 @@ being a company which has not ceased to be a private company under section 31 or
 
 “repealed written laws” means the written laws repealed by this Act;
 
-“replacement document” means a replacement prospectus or a replacement profile statement referred to in section 50A(1), as the case may be;
-
-[36/2000 wef 22/01/2001]
-
 “resolution for voluntary winding up” means the resolution referred to in section 290;
 
 “Rules” means Rules of Court;
@@ -1541,19 +1447,7 @@ being a company which has not ceased to be a private company under section 31 or
 
 “statutory report” means the report referred to in section 174;
 
-“supplementary document” means a supplementary prospectus or a supplementary profile statement referred to in section 50A(1), as the case may be;
-
-[36/2000 wef 22/01/2001]
-
 “Table A” means Table A in the Fourth Schedule;
-
-“trustee corporation” means —
-
-(a) a company registered as a trust company under the Trust Companies Act [Cap. 336]; or
-
-(b) a corporation, other than a trust company referred to in paragraph (a), that is a public company under this Act or under the laws of any other country which has been declared by the Minister to be a trustee corporation for the purposes of this Act;
-
-[13/87]
 
 “unit”, in relation to a share, debenture or other interest, means any right or interest, whether legal or equitable, in the share, debenture or other interest, by whatever name called and includes any option to acquire any such right or interest in the share, debenture or other interest;
 
@@ -1585,37 +1479,29 @@ being a company which has not ceased to be a private company under section 31 or
 
 ### When statement untrue
 
-(3) For the purposes of this Act, a statement included in a prospectus or statement in lieu of prospectus shall be deemed to be untrue if it is misleading in the form and context in which it is included.
+(3) For the purposes of this Act, a statement included in a statement in lieu of prospectus shall be deemed to be untrue if it is misleading in the form and context in which it is included.
 
-### When statement included in prospectus
+### When statement included in statement in lieu of prospectus
 
-(4) For the purposes of this Act, a statement shall be deemed to be included in a prospectus or statement in lieu of prospectus if it is contained in any report or memorandum appearing on the face thereof or by reference incorporated therein or issued therewith.
+(4) For the purposes of this Act, a statement shall be deemed to be included in a statement in lieu of prospectus if it is contained in any report or memorandum appearing on the face thereof or by reference incorporated therein or issued therewith.
 
 ### Invitation to lend money deemed invitation to purchase debentures
 
-(5) For the purposes of this Act, any invitation to the public to deposit money with or to lend money to a corporation shall be deemed to be an invitation to subscribe for or purchase debentures of the corporation and any document that is issued or intended or required to be issued by a corporation acknowledging or evidencing or constituting an acknowledgment of the indebtedness of the corporation in respect of any money that is or may be deposited with or lent to the corporation in response to such an invitation shall be deemed to be a debenture, but an invitation to the public by a prescribed corporation as defined in section 44(7) shall be deemed not to be an invitation to the public to subscribe for or purchase debentures of the corporation or an offer to the public of debentures of the corporation for subscription or purchase for the purposes of the provisions in Division 5 of Part IV which are related to offers of debentures to the public.
+(5)
 
 [40/89]
 
-(5)
+(5) For the purposes of this Act, any invitation to the public to deposit money with or lend money to a corporation (other than a prescribed corporation referred to in section 239(4) of the Securities and Futures Act 2001) shall be deemed to be an invitation to subscribe for or purchase debentures of the corporation.
+
+[42/2001 wef 01/07/2002]
+
+(5A) For the purposes of this Act, any document that is issued or intended or required to be issued by a corporation acknowledging or evidencing or constituting an acknowledgment of the indebtedness of the corporation in respect of any money that is or may be deposited with or lent to the corporation in response to such an invitation shall be deemed to be a debenture.
+
+[42/2001 wef 01/07/2002]
 
 As to what constitutes an offer to the public
 
 (6)
-
-(6) Any reference in this Act to offering shares or debentures, or units of shares or debentures, to the public or to issuing an invitation to the public in respect of shares or debentures, or units of shares or debentures, shall, unless the contrary intention appears, include a reference to offering shares or debentures, or units of shares or debentures, to any section of the public or to issuing an invitation to any section of the public, as the case may be, whether selected as clients of the person making the offer or issuing the invitation or in any other manner, but does not include the following:
-
-(a) an offer or invitation to enter into an underwriting agreement, whether or not relating to shares or debentures, or units of shares or debentures, that have been previously issued;
-
-(b) an offer or invitation made to existing members or debenture holders of a corporation which —
-
-(i) relates to shares in or debentures of that corporation, or to units of such shares or debentures; and
-
-(ii) is not an offer or invitation to which section 47 applies; and
-
-(c) an offer made to existing members of a company under section 306 which relates to shares, or units of shares, in the company.
-
-[36/2000 wef 22/01/2001]
 
 (7) Unless the contrary intention appears any reference in this Act to a person being or becoming bankrupt or to a person assigning his estate for the benefit of his creditors or making an arrangement with his creditors under any written law relating to bankruptcy or to a person being an undischarged bankrupt or to any status, condition, act, matter or thing under or in relation to the law of bankruptcy shall be construed as including a reference to a person being or becoming bankrupt or insolvent or to a person making any such assignment or arrangement or to a person being an undischarged bankrupt or insolvent or to the corresponding status, condition, act, matter or thing (as the case requires) under any written law relating to bankruptcy or insolvency.
 
@@ -1749,15 +1635,15 @@ that first-mentioned corporation and that other corporation shall for the purpos
 
 (2) Where the property subject to a trust consists of or includes shares and a person knows or has reasonable grounds for believing that he has an interest under the trust and the property subject to the trust consists of or includes those shares, he shall be deemed to have an interest in those shares.
 
-(3) Where a right (being a right or an interest described in the definition of “interest” in section 107) —
+(3) A unit in a collective investment scheme within the meaning of section 2 of the Securities and Futures Act 2001 —
 
-(a) was issued or offered to the public for subscription or purchase, or where the public was invited to subscribe for or purchase such a right, and the right was so subscribed for or purchased; or
+(a) that is issued or offered to the public for subscription or purchase, or for which the public is invited to subscribe for or purchase, and that has been so subscribed or purchased; or
 
-(b) was issued for the purpose of an offer to the public by and is held by the management company within the meaning of that section,
+(b) that is issued for the purpose of an offer to the public by and is held by the manager concerned within the meaning of section 283 of that Act,
 
-that right does not constitute an interest in a share.
+does not constitute an interest in a share.
 
-[62/70]
+[42/2001 wef 01/07/2002]
 
 (4) Where a body corporate has, or is by the provisions of this section deemed to have, an interest in a share and —
 
@@ -3037,729 +2923,9 @@ and any contract so made shall be effectual in law and shall bind the corporatio
 
 SHARES, DEBENTURES AND CHARGES
 
-Division 1 —
+Division 1
 
-Prospectuses
-
-### Requirement to issue form of application for shares or debentures with a prospectus
-
-43\.—(1) No person shall make an offer or invitation to the public in respect of shares in or debentures of, or units of shares in or debentures of, a corporation unless —
-
-(a) a prospectus prepared in accordance with section 45 in respect of such shares or debentures, or such units of shares or debentures, has been lodged with and registered by the Registrar; and
-
-(b) such offer or invitation is made in or accompanied by a profile statement lodged with and registered by the Registrar under section 45A, if not made in or accompanied by a prospectus referred to in paragraph (a).
-
-[36/2000 wef 22/01/2001]
-
-(2) No person shall make an offer or invitation to the public in respect of shares in or debentures of, or units of shares in or debentures of, a corporation which has not been formed or does not exist.
-
-[36/2000 wef 22/01/2001]
-
-(2A) Subsection (1) shall not apply to an offer made or invitation issued to the public in respect of shares or debentures, or units of shares or debentures, that is exempted under Division 5A of this Part.
-
-[36/2000 wef 22/01/2001]
-
-(3) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years.
-
-[15/84]
-
-[U.K.s.38(3),(5).]
-
-[Aust. s. 37.]
-
-### As to invitations to the public to lend money to or to deposit money with a corporation
-
-44\.—(1) An invitation to the public to deposit money with or lend money to a corporation shall not be issued, circulated or distributed by the corporation or by any other person unless —
-
-(a) a prospectus in relation to the invitation has been registered by the Registrar;
-
-(b) the prospectus contains an undertaking by the corporation that it will, within two months after the acceptance of any money as a deposit or loan from any person in response to the invitation, issue to that person a document which acknowledges or evidences or constitutes an acknowledgment of the indebtedness of the corporation in respect of that deposit or loan; and
-
-(c) the document is described or referred to in the prospectus and in any other document whether constituting or relating to the invitation in any of the following forms of debt obligation, in accordance with this section:
-
-(i) unsecured loan stock, unsecured note, unsecured deposit note, unsecured debenture or certificate of unsecured debenture stock, bonds (including bearer and Eurobonds) short or medium term notes (including Euronotes) or convertible loan stock;
-
-(ii) mortgage bonds, mortgage debenture or certificate of mortgage debenture stock;
-
-(iii) a secured debenture or certificate of debenture stock; or
-
-(iv) such other form as the Registrar may approve as having effect for the purposes of this section but subject to such conditions as he may impose,
-
-in accordance with this section.
-
-(2) Where pursuant to an invitation referred to in subsection (1) a corporation has accepted from any person any money as a deposit or loan the corporation shall within two months after the acceptance of the money issue to that person a document which —
-
-(a) acknowledges or evidences or constitutes an acknowledgment of the indebtedness of the corporation in respect of that deposit or loan; and
-
-(b) complies with the other requirements of this section.
-
-(3) The document shall be described or referred to in the prospectus and in any other document whether constituting or relating to the invitation and in the document itself in the form described in subsection (1)(c)(i) or approved under subsection (1)(c)(iv) unless pursuant to subsection (4) or (5) it is and may be otherwise described.
-
-[40/89]
-
-(4) The document may be described or referred to in the prospectus or in such other document or in the document itself in the form described in subsection (1)(c)(ii) if, and only if, there is included in the prospectus the statements and the valuation referred to in paragraph 32 of the Fifth Schedule.
-
-[40/89]
-
-(5) The document may be described or referred to in the prospectus or in such other document or in the document itself in the form described in subsection (1)(c)(iii) if, and only if —
-
-(a) pursuant to subsection (4) it may be (but is not) described or referred to in that prospectus or document as in the form described in subsection (1)(c)(ii); or
-
-(b) there is included in the prospectus the statement and the summary referred to in paragraph 33 of the Fifth Schedule.
-
-[40/89]
-
-(6) Nothing in this section shall apply to a prescribed corporation and nothing in this Act shall require a prospectus to be issued in connection with any invitation to the public to deposit money with or lend money to a prescribed corporation.
-
-(7) In subsection (6), “prescribed corporation” means —
-
-(a) a banking corporation; or
-
-(b) a corporation or a corporation of a class which has been declared by the Minister by notification in theGazetteto be a prescribed corporation for the purposes of this section.
-
-(8) The Minister may, by notification in theGazette—
-
-(a) specify terms and conditions subject to which subsection (6) shall have effect in relation to a corporation specified in subsection (7)(b); or
-
-(b) vary or revoke any declaration or specification made under this section.
-
-(9) Every corporation or other person that contravenes or fails to comply with any of the provisions of this section and every officer of a corporation who is in default shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years.
-
-[15/84]
-
-(10)(Deleted by Act 40/89.)
-
-(11) For the purposes of this section, a certificate issued by a borrowing corporation certifying, in respect of any deposit with or a loan to the corporation, that the registered holder (or in the case of a bearer instrument, the bearer) of a specified number or value of the debt obligations described or approved under subsection (1)(c), issued by the corporation upon or subject to the terms and conditions contained in a trust deed referred to or identified in the certificate, shall be deemed to be a document evidencing the indebtedness of that corporation in respect of that deposit or loan.
-
-[40/89]
-
-[Aust.s.38.]
-
-[13/87]
-
-[40/89]
-
-### Contents of prospectuses
-
-45\.—(1) A prospectus for an offer or invitation to the public in respect of shares in or debentures of, or units of shares in or debentures of, a corporation shall contain —
-
-(a) all the information that investors and their professional advisers would reasonably require to make an informed assessment of the matters specified in subsection (3); and
-
-(b) the matters specified in the Fifth Schedule.
-
-(2) The prospectus shall, with respect to subsection (1)(a), contain such information —
-
-(a) only to the extent to which it is reasonable for investors and their professional advisers to expect to find in the prospectus; and
-
-(b) only to the extent that a person whose knowledge is relevant —
-
-(i) actually knows the information; or
-
-(ii) in the circumstances ought reasonably to have obtained the information by making enquiries.
-
-(3) The matters referred to in subsection (1)(a) shall relate to —
-
-(a) the rights and liabilities attaching to the shares or debentures, or units of shares or debentures;
-
-(b) the assets and liabilities, profits and losses, financial position and performance, and prospects of the corporation that is to issue or has issued the shares or debentures, or units of shares or debentures;
-
-(c) in the case of options over shares or debentures, the capacity of the person making the offer or invitation to issue or deliver the relevant shares or debentures; and
-
-(d) if the person making the offer or invitation is one who controls the corporation whose shares or debentures underlie the offer or invitation, the assets and liabilities, profits and losses, financial position and performance, and prospects of the corporation.
-
-(4) In deciding what information shall be included under subsection (1)(a), regard shall be had to —
-
-(a) the nature of the shares or debentures, or units of shares or debentures, and the nature of the corporation concerned;
-
-(b) the matters that likely investors may reasonably be expected to know; and
-
-(c) the fact that certain matters may reasonably be expected to be known to the professional advisers of such investors.
-
-(5) For the purposes of subsection (2), a person’s knowledge is relevant only if he is one of the following persons:
-
-(a) the person making the offer or invitation in respect of the shares or debentures, or units of shares or debentures;
-
-(b) if the person making the offer or invitation in respect of the shares or debentures, or units of shares or debentures, is a corporation, a director of the corporation;
-
-(c) a proposed director of the corporation whose shares or debentures, or units of shares or debentures, will be issued under the offer or invitation;
-
-(d) a person named in the prospectus as an underwriter of the issue or sale;
-
-(e) a person named in the prospectus as a stockbroker to the issue or sale if he participates in any way in the preparation of the prospectus;
-
-(f) a person named in the prospectus with his consent as having made a statement —
-
-(i) that is included in the prospectus; or
-
-(ii) on which a statement made in the prospectus is based;
-
-(g) a person named in the prospectus with his consent as having performed a particular professional or advisory function.
-
-(6) A condition requiring or binding an applicant for shares in or debentures of, or units of shares in or debentures of, a corporation to waive compliance with any requirement of this section, or purporting to affect him with notice of any contract, document or matter not specifically referred to in the prospectus, shall be void.
-
-(7) This section shall not affect any liability that a person has under any other law.
-
-(8) The Minister may, by notification in theGazette, add to, vary or amend the Fifth Schedule.
-
-[36/2000 wef 22/01/2001]
-
-### Profile statement
-
-45A\.—(1) Subject to this section, nothing in this Act shall be construed as preventing any person from issuing, circulating or distributing an extract from, or an abridged version of, the prospectus (referred to in this section as the profile statement) if —
-
-(a) a copy of the profile statement and the prospectus have been lodged with and registered by the Registrar; and
-
-(b) sufficient copies of the prospectus are made available free of charge for collection at the times and places specified in the profile statement.
-
-(2) The directors of the corporation concerned shall ensure that the profile statement shall contain at least —
-
-(a) the following particulars:
-
-(i) identification of the corporation and the nature of the shares or debentures, or units of shares or debentures, to which the prospectus relates;
-
-(ii) the nature of the risks involved in investing in the shares or debentures, or units of shares or debentures; and
-
-(iii) details of all amounts payable in respect of the shares or debentures, or units of shares or debentures (including any amount by way of fee, commission or charge);
-
-(b) a statement that copies of the prospectus are available free of charge for collection at the times and places specified in the profile statement; and
-
-(c) a statement that the directors are satisfied that the profile statement contains a fair summary of the key information set out in the prospectus.
-
-(3) A profile statement shall not contain —
-
-(a) any statement or matter that is false or misleading in the form and context in which it is included;
-
-(b) any material information that is not contained in the prospectus; and
-
-(c) any material information that differs in any material particular from that set out in the prospectus.
-
-(4) The Registrar may refuse to register a copy of any profile statement if —
-
-(a) it is not in compliance with subsection (2) or (3);
-
-(b) the copy, signed by every director and by every person who is named therein as a proposed director of the corporation or by his agent authorised in writing, is not lodged with the Registrar on or before the date of its issue;
-
-(c) the prospectus has not been registered or is not to be registered at the same time; or
-
-(d) it appears to the Registrar that it is not in the public interest to do so.
-
-(5) Sections 50(2A), (2B) and (2C) and 54 shall apply in relation to a profile statement as they apply in relation to a prospectus.
-
-(6) If a profile statement is issued, circulated or distributed without a copy thereof having been registered by the Registrar, the corporation and every person who is knowingly a party to the issue, circulation or distribution of the profile statement shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
-
-[36/2000 wef 22/01/2001]
-
-### Exemption from requirements as to form or content of prospectus or profile statement
-
-46\.—(1) A person may apply to the Registrar in writing for an order of exemption from any requirement of this Act relating to the form or content of a prospectus or a profile statement, and the Registrar may make such an order either unconditionally or subject to such conditions as he may think fit to impose.
-
-(2) The Registrar shall not make an order under subsection (1) unless he is of the opinion that compliance with the requirements in respect of which exemption has been applied for would be unduly burdensome.
-
-(3) The Registrar may, by order published in theGazette, exempt any class or description of prospectuses or profile statements from such requirement of this Act relating to the form or content of a prospectus or a profile statement, as the case may be, as may be specified in the order.
-
-(4) An exemption referred to in subsection (3) may be subject to such conditions as may be specified in the order.
-
-(5) Any person who contravenes or fails to comply with any of the conditions specified in the order made under subsection (1) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
-
-(6) A prospectus or a profile statement shall be deemed to be in compliance with all the requirements of this Act relating to the form and content of a prospectus or a profile statement, as the case may be, if it is issued in compliance with an order made under subsection (1) or (3).
-
-[36/2000 wef 22/01/2001]
-
-### Abridged prospectus for renounceable rights issues
-
-47\.—(1) Any offer or invitation with respect to shares or debentures, or units of shares or debentures, of a company shall be deemed to be an offer to the public if it is an offer or invitation by means of a rights issue which is renounceable in favour of persons other than existing members or debenture holders of that company and an application has been or will be made for permission to deal with or quote such shares or debentures, or units of such shares or debentures, on any stock exchange.
-
-(2) Where subsection (1) applies to any offer or invitation with respect to shares or debentures, or units of shares or debentures, of a company, an abridged prospectus shall be registered containing the particulars set out in Part V of the Fifth Schedule.
-
-(3) Any abridged prospectus registered pursuant to subsection (2) shall be deemed to be a prospectus for the purposes of this Act and all written law and rules of law as to contents of prospectuses (to the extent that may be applicable) and as to liability in respect of statements in and omissions from prospectuses or otherwise relating to prospectuses shall apply to an abridged prospectus and have effect accordingly.
-
-(4) Nothing in this section shall be construed as preventing a full prospectus being registered containing the particulars set out in the Fifth Schedule (other than Part V thereof) in respect of an offer or invitation referred to in subsection (1).
-
-[15/84]
-
-[13/87]
-
-### Restrictions on advertisements, etc.
-
-48\.—(1) A person shall not —
-
-(a) advertise; or
-
-(b) publish a statement that directly or indirectly refers to,
-
-an offer or intended offer of shares or debentures, or units of shares or debentures, to the public for subscription or purchase that would need a prospectus or a profile statement.
-
-(2) If an offer or intended offer of shares or debentures, or units of shares or debentures, to the public for subscription or purchase needs a prospectus or a profile statement, a person shall not —
-
-(a) advertise the offer or intended offer; or
-
-(b) publish a statement that —
-
-(i) directly or indirectly refers to the offer or intended offer; or
-
-(ii) is reasonably likely to induce people to subscribe or purchase the shares or debentures, or units of shares or debentures,
-
-unless the advertisement or publication is authorised by subsection (4), (5), (7) or (8).
-
-(3) In deciding whether a statement —
-
-(a) indirectly refers to an offer or intended offer of shares or debentures, or units of shares or debentures; or
-
-(b) is reasonably likely to induce people to apply for or purchase the shares or debentures, or units of shares or debentures,
-
-regard shall be had to whether the statement —
-
-(i) forms part of the normal advertising of a corporation’s products or services and is genuinely directed at maintaining its existing customers, or attracting new customers, for those products or services;
-
-(ii) communicates information that materially deals with the affairs of the corporation; and
-
-(iii) is likely to encourage investment decisions being made on the basis of the statement rather than on the basis of information contained in a prospectus or a profile statement.
-
-(4) For the avoidance of doubt, a person may disseminate a prospectus or a profile statement that has been registered by the Registrar without contravening subsection (1).
-
-(5) Before a prospectus or a profile statement is registered by the Registrar, an advertisement or publication does not contravene subsection (1) if it contains the following but nothing more:
-
-(a) a statement that identifies the offeror and the shares or debentures, or units of shares or debentures;
-
-(b) a statement that a prospectus or a profile statement for the offer will be made available when the shares or debentures, or units of shares or debentures, are offered;
-
-(c) a statement that anyone who wants to acquire the shares or debentures, or units of shares or debentures, will need to make an application in the manner set out in the prospectus or the profile statement; and
-
-(d) a statement on how to arrange to receive a copy of the prospectus or the profile statement.
-
-(6) To satisfy subsection (5), the advertisement or publication shall include all of the statements referred to in paragraphs (a), (b) and (c) of that subsection, and may include the statement referred to in paragraph (d).
-
-(7) After the prospectus or the profile statement is registered by the Registrar, an advertisement or publication does not contravene subsection (1) if it includes a statement to the effect that —
-
-(a) the offer of the shares or debentures, or units of shares or debentures, will be made in, or accompanied by, a copy of the prospectus or the profile statement; and
-
-(b) anyone wishing to acquire the shares or debentures, or units of shares or debentures, will need to make an application in the manner set out in the prospectus or the profile statement.
-
-(8) An advertisement or publication does not contravene subsection (1) if it —
-
-(a) consists of a notice or report by the corporation or one of its officers about its affairs to a stock exchange;
-
-(b) consists solely of a notice or report by the corporation or one of its officers of a general meeting;
-
-(c) consists solely of a report about the corporation that is published by the corporation or one of its officers and —
-
-(i) does not contain information that materially affects affairs of the corporation other than information previously made available in a prospectus that has been registered by the Registrar, an annual report or a report referred to in paragraph (a) or (b); and
-
-(ii) does not refer (whether directly or indirectly) to the offer;
-
-(d) is a news report or a genuine comment, in a newspaper, periodical or magazine or on radio or television, or any other means of broadcasting or communication, relating to —
-
-(i) a prospectus or a profile statement that has been registered by the Registrar or information contained in such a prospectus or a profile statement; or
-
-(ii) a notice or report covered by paragraph (a), (b) or (c);
-
-(e) is a report about the shares in or debentures of, or units of the shares in or debentures of, the corporation published by someone who is not —
-
-(i) the corporation;
-
-(ii) acting at the instigation of, or by arrangement with, the corporation;
-
-(iii) a director of the corporation; or
-
-(iv) a person who has an interest in the success of the issue or sale of the shares or debentures, or units of shares or debentures; or
-
-(f) is published in the ordinary course of a business of —
-
-(i) publishing a newspaper, periodical or magazine; or
-
-(ii) broadcasting by radio, television or any other means of broadcasting or communication,
-
-and the person who published the advertisement or statement did not know and had no reason to suspect that its publication would amount to a contravention of subsection (1).
-
-(9) Subsection (8)(d) and (e) shall not apply if any person gives consideration or any other benefit for the publication of the report or comment, as the case may be.
-
-(10) Any person who contravenes or fails to comply with subsection (1), and every officer of the corporation concerned, or other person, who knowingly authorised or permitted the publication or dissemination, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months.
-
-(11) This section shall not affect any liability that a person has under any other law.
-
-(12) The Minister may, by order published in theGazette, exempt any person or class of persons from this section, subject to such conditions as may be specified in the order.
-
-(13) For the purposes of this section, “offer” or “intended offer” of shares or debentures, or units of shares or debentures, includes an invitation to the public in respect thereof.
-
-[36/2000 wef 22/01/2001]
-
-### As to retention of over-subscriptions in debenture issues
-
-49\.—(1) A corporation shall not accept or retain subscriptions to a debenture issue in excess of the amount of the issue as disclosed in the prospectus unless the corporation has specified in the prospectus —
-
-(a) that it expressly reserves the right to accept or retain over-subscriptions; and
-
-(b) a limit expressed as a specific sum of money on the amount of over-subscriptions that may be accepted or retained being an amount not more than 25% in excess of the amount of the issue as disclosed in the prospectus.
-
-### As to statement of asset-backing
-
-(2) Subject to the provisions of the Fifth Schedule, where a corporation specifies in a prospectus relating to a debenture issue that it reserves the right to accept or retain over-subscriptions —
-
-(a) the corporation shall not make, authorise or permit any statement of or reference as to the asset-backing for the issue to be made or contained in any prospectus relating to the issue, other than a statement or reference to the total tangible assets and the total liabilities of the corporation and of its guarantor corporations; and
-
-(b) the prospectus shall contain a statement or reference as to what the total assets and total liabilities of the corporation would be if over-subscriptions to the limit specified in the prospectus were accepted or retained.
-
-(3) Every corporation or other person that contravenes or fails to comply with any of the provisions of subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years.
-
-[15/84]
-
-[Aust.s.41.]
-
-### Registration of prospectus
-
-50\.—(1) A prospectus shall not be issued, circulated or distributed by any person unless a copy thereof has first been registered by the Registrar.
-
-(2) The Registrar shall refuse to register a copy of any prospectus if —
-
-(a) it contains any statement or matter which, in his opinion, is misleading in the form and context in which it is included;
-
-(b) the copy signed by every director and by every person who is named therein as a proposed director of the corporation or by his agent authorised in writing, is not lodged with the Registrar on or before the date of its issue;
-
-(c) the prospectus does not appear to comply with the requirements of this Act;
-
-(d) there are not also lodged with the Registrar copies verified as prescribed of any consent required by section 54 to the issue of the prospectus; or
-
-[22/93]
-
-(e) it appears to him that it is not in the public interest to do so.
-
-[40/89]
-
-(2A) The Registrar shall not refuse to register a copy of the prospectus under subsection (2) without giving the person or company who or which filed the prospectus an opportunity of being heard.
-
-[40/89]
-
-(2B) Any person who is aggrieved by the refusal of the Registrar to register a copy of the prospectus may within 28 days of his refusal appeal to the Minister whose decision shall be final and shall be given effect to by the Registrar.
-
-[40/89]
-
-(2C) No suit or other legal proceeding shall lie against the Registrar or any officer or employee of the Registry for any act done in good faith in the performance or intended performance of his duty or in the exercise or the intended exercise of any power under this section or any other section under this Act or regulations made thereunder or for any neglect or default in the performance or exercise in good faith of such duty or power.
-
-[40/89]
-
-(3) If a prospectus is issued without a copy thereof having been so registered, the corporation and every person who is knowingly a party to the issue of the prospectus shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
-
-[15/84]
-
-### Copy of contracts, etc., to be kept for inspection at registered office
-
-(4) Every corporation shall cause a true copy of every document referred to in subsection (2)(d) to be deposited within 7 days after registration of the prospectus at the registered office of the corporation in Singapore and, if it has no registered office in Singapore, at the address in Singapore specified in the prospectus for that purpose and shall keep each such copy, for a period of at least 6 months after the registration of the prospectus, for the inspection of the members and creditors of the corporation without fee.
-
-[U.K.s.41.]
-
-[Aust. s. 42.]
-
-[13/87]
-
-### Lodging supplementary document or replacement document
-
-50A\.—(1) If the person making an offer or invitation to the public in respect of shares in or debentures of, or units of shares in or debentures of, a corporation becomes aware of —
-
-(a) a false or misleading statement in the prospectus or the profile statement;
-
-(b) an omission, from the prospectus or the profile statement, of information required by section 45 or 45A, as the case may be; or
-
-(c) a new circumstance that —
-
-(i) has arisen since the prospectus or the profile statement was registered by the Registrar; and
-
-(ii) would have been required by section 45 or the Fifth Schedule to be included in the prospectus, or by section 45A to be included in the profile statement, if it had arisen before the prospectus or the profile statement was registered,
-
-that is materially adverse from the point of view of an investor, the person may lodge a supplementary or replacement prospectus or a supplementary or replacement profile statement (referred to in this section as a supplementary or replacement document, as the case may be) with the Registrar.
-
-(2) At the beginning of a supplementary document, there shall be —
-
-(a) a statement that it is a supplementary prospectus or a supplementary profile statement, as the case may be;
-
-(b) an identification of the prospectus or the profile statement it supplements;
-
-(c) an identification of any previous supplementary document lodged with the Registrar in relation to the offer or invitation; and
-
-(d) a statement that it is to be read together with the prospectus or the profile statement it supplements and any previous supplementary document.
-
-(3) At the beginning of a replacement document, there shall be —
-
-(a) a statement that it is a replacement prospectus or a replacement profile statement, as the case may be; and
-
-(b) an identification of the prospectus or the profile statement it replaces.
-
-(4) The supplementary document and the replacement document must be dated with the date on which they are lodged with the Registrar.
-
-(5) The person who lodges a supplementary document or the corporation concerned shall take reasonable steps to inform investors of such lodgment and make available the supplementary document free of charge to them, whereupon, for the purposes of the application of this Part to events that occur after the lodgment of the supplementary document —
-
-(a) where the supplementary document is a supplementary prospectus, the prospectus shall be taken to be the prospectus together with the supplementary prospectus; and
-
-(b) where the supplementary document is a supplementary profile statement, the profile statement shall be taken to be the profile statement together with the supplementary profile statement.
-
-(6) The person who lodges a replacement document or the corporation concerned shall take reasonable steps to inform investors of such lodgment and make available the replacement document free of charge to them, whereupon, for the purposes of the application of this Part to events that occur after the lodgment of the replacement document —
-
-(a) where the replacement document is a replacement prospectus, the prospectus shall be taken to be the prospectus together with the replacement prospectus; and
-
-(b) where the replacement document is a replacement profile statement, the profile statement shall be taken to be the profile statement together with the replacement profile statement.
-
-[36/2000 wef 22/01/2001]
-
-### Exemption for certain governmental and international corporations as regards the signing of a copy of prospectus by all directors
-
-51\.—(1) This section shall apply only to corporations that are both of a governmental and international character.
-
-(2) A corporation to which this section applies may apply in writing to the Registrar for an exemption from the requirements of section 50(2)(b) and the Registrar may, if he considers those requirements unduly burdensome on the corporation, exempt such corporation from complying therewith subject to the Registrar requiring such minimum number of directors who are resident in Singapore signing the copy of the prospectus as the Registrar, in any particular case, may decide and, in the event that no directors are resident in Singapore, the Registrar may permit a duly authorised agent to sign the prospectus so long as such authorisation is supported by a resolution of the board of the corporation though the Registrar, if he is satisfied that a particular corporation cannot comply with any of these requirements, may grant the exemption applied for.
-
-(3) Any prospectus that complies with the terms of exemption granted by the Registrar shall be deemed to be a prospectus for the purposes of this Act and a copy of such prospectus shall be registered by the Registrar.
-
-[15/84]
-
-### Document containing offer of shares for sale deemed prospectus
-
-52\.—(1) Where a corporation allots or agrees to allot to any person any shares in or debentures of, or units of shares in or debentures of, the corporation with a view to all or any of them being offered for sale to the public, any document by which the offer for sale to the public is made shall for all purposes be deemed to be a prospectus issued by the corporation, and all written laws and rules of law as to the contents of prospectuses and to liability in respect of statements and non-disclosures in prospectuses, or otherwise relating to prospectuses, shall apply and have effect accordingly as if the shares or debentures, or units of shares or debentures, had been offered to the public and as if persons accepting the offer in respect of any shares or debentures, or units of any shares or debentures, were subscribers therefor but without prejudice to the liability, if any, of the persons by whom the offer is made, in respect of statements or non-disclosures in the document or otherwise.
-
-(2) For the purposes of this Act, it shall, unless the contrary is proved, be evidence that an allotment of, or an agreement to allot, shares or debentures, or units of shares or debentures, was made with a view to the shares or debentures, or units of shares or debentures, being offered for sale to the public if it is shown —
-
-(a) that an offer of the shares or debentures, or units of shares or debentures, or of any of them for sale to the public was made within 6 months after the allotment or agreement to allot; or
-
-(b) that at the date when the offer was made the whole consideration to be received by the corporation in respect of the shares or debentures, or units of shares or debentures, had not been so received.
-
-(3) The requirements of this Division as to prospectuses shall have effect as though the persons making an offer to which this section relates were persons named in a prospectus as directors of a corporation.
-
-(4) In addition to complying with the other requirements of this Division the document making the offer shall state —
-
-(a) the net amount of the consideration received or to be received by the corporation in respect of shares or debentures, or units of shares or debentures, to which the offer relates; and
-
-(b) the place and time at which a copy of the contract under which the shares or debentures, or units of shares or debentures, have been or are to be allotted may be inspected.
-
-(5) Where an offer to which this section relates is made by a corporation or a firm, it shall be sufficient if the document referred to in subsection (1) is signed on behalf of the corporation or firm by two directors of the corporation or not less than half of the members of the firm, as the case may be, and any such director or member may sign by his agent authorised in writing.
-
-[U.K.s.45.]
-
-[Aust. s. 43.]
-
-### Allotment of shares and debentures where prospectus indicates application to list on stock exchange
-
-53\.—(1) Where a prospectus states or implies that application has been or will be made for permission for the shares or debentures, or units of shares or debentures, offered thereby to be listed for quotation on the official list of any stock exchange, any allotment made on an application in pursuance of the prospectus shall, subject to subsection (3), whenever made, be void if —
-
-(a) the permission is not applied for in the form for the time being required by the stock exchange before the third day on which the stock exchange is open after the date of issue of the prospectus; or
-
-(b) the permission is not granted before the expiration of 6 weeks from the date of the issue of the prospectus or such longer period not exceeding 12 weeks from the date of the issue as is, within those 6 weeks, notified to the applicant by or on behalf of the stock exchange.
-
-(2) Where the permission has not been applied for, or has not been granted as aforesaid, the corporation shall, subject to subsection (3), forthwith repay without interest all money received from applicants in pursuance of the prospectus, and if any such money is not repaid within 14 days after the corporation so becomes liable to repay it then in addition to the liability of the corporation the directors of the corporation shall be jointly and severally liable to repay that money with interest at the rate of 10% per annum from the expiration of such 14 days.
-
-(3) Where in relation to any shares or debentures, or units of any shares or debentures —
-
-(a) permission is not applied for as specified in subsection (1)(a); or
-
-(b) permission is not granted as specified in subsection (1)(b),
-
-the Minister may by notification in theGazetteon the application of the corporation, made before any share or debenture , or unit of any share or debenture, is purported to be allotted, exempt the allotment of the shares or debentures from the provisions of this section.
-
-(4) A director shall not be liable under subsection (2) if he proves that the default in the repayment of the money was not due to any misconduct or negligence on his part.
-
-(5) Any condition requiring or binding any applicant for shares or debentures to waive compliance with any requirement of this section or purporting to do so shall be void.
-
-(6) Without limiting the application of any of its provisions, this section shall have effect —
-
-(a) in relation to any shares or debentures, or units of any shares or debentures, agreed to be taken by a person underwriting an offer thereof contained in a prospectus as if he had applied therefor in pursuance of the prospectus; and
-
-(b) in relation to a prospectus offering shares or units of shares for sale as if —
-
-(i) a reference to sale were substituted for a reference to allotment;
-
-(ii) the persons by whom the offer is made, and not the corporation were liable under subsection (2) to repay money received from applicants, and references to the corporation’s liability under that subsection were construed accordingly; and
-
-(iii) for the reference in subsection (7) to the corporation and every officer of the corporation who is in default there were substituted a reference to any person by or through whom the offer is made and who knowingly and wilfully authorises or permits the default.
-
-(7) All money received as aforesaid shall be kept in a separate bank account so long as the corporation may become liable to repay it under subsection (2); and if default is made in complying with this subsection, the corporation and every officer of the corporation who is in default shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year.
-
-[15/84]
-
-(8) Where the stock exchange has within the time specified in subsection (1)(b) granted permission subject to compliance with any requirements specified by the stock exchange, permission will be deemed to have been granted by the stock exchange if the directors have given to the stock exchange an undertaking in writing to comply with the requirements of the stock exchange, but if any such undertaking is not complied with each director who is in default shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year.
-
-[15/84]
-
-(9) A person shall not issue a prospectus inviting persons to subscribe for shares in or debentures of a corporation if it includes —
-
-(a) an untrue statement that permission has been granted for those shares or debentures to be dealt in or quoted on any stock exchange; or
-
-(b) any statement in any way referring to any such permission or to any application or intended application for any such permission, or to dealing in or quoting the shares or debentures on any stock exchange, or to any requirements of a stock exchange unless that statement is or is to the effect that permission has been granted or that application has been or will be made to the stock exchange within 3 days of the issue of the prospectus or the statement has been approved by the Registrar for inclusion in the prospectus.
-
-(10) Any person who contravenes or fails to comply with any of the provisions of subsection (9) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year.
-
-[15/84]
-
-(11) Where a prospectus contains a statement to the effect that the memorandum and articles of the corporation comply or have been drawn so as to comply with the requirements of any stock exchange, the prospectus shall, unless the contrary intention appears from the prospectus, be deemed for the purposes of this section to imply that application has been, or will be, made for permission for the shares or debentures offered by the prospectus to be listed for quotation on the official list of the stock exchange.
-
-[U.K.s.51.]
-
-[Aust. s. 44.]
-
-### Expert’s consent to issue of prospectus containing statement by him
-
-54\.—(1) A prospectus inviting subscription for or purchase of shares in or debentures of, or units of shares in or debentures of, a corporation and including a statement purporting to be made by an expert or to be based on a statement made by an expert shall not be issued unless —
-
-(a) he has given, and has not before delivery of a copy of the prospectus for registration withdrawn, his written consent to the issue thereof with the statement included in the form and context in which it is included; and
-
-(b) there appears in the prospectus a statement that he has given and has not withdrawn his consent.
-
-(2) If any prospectus is issued in contravention of this section the corporation and every person who is knowingly a party to the issue thereof shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year.
-
-[15/84]
-
-[U.K.s.40.]
-
-[Aust. s. 45.]
-
-### Civil liability for false or misleading statements and omissions
-
-55\.—(1) Where an offer or invitation in respect of shares or debentures, or units of shares or debentures, is made under a prospectus or a profile statement and —
-
-(a) a false or misleading statement is contained in —
-
-(i) the prospectus or the profile statement; or
-
-(ii) any application form that is in or accompanies the prospectus or the profile statement;
-
-(b) there is an omission to state any information required to be disclosed under section 45 in respect of the prospectus, or under section 45A in respect of the profile statement; or
-
-(c) there is an omission to state a new circumstance that —
-
-(i) has arisen since the prospectus or the profile statement was registered by the Registrar; and
-
-(ii) would have been required by section 45 to be included in the prospectus, or by section 45A to be included in the profile statement, if it had arisen before the prospectus or the profile statement was registered,
-
-the persons referred to in subsection (3) shall be liable to compensate any person who suffers loss or damage as a result of the false or misleading statement in or omission from the prospectus or the profile statement, even if such persons were not involved in the making of the false or misleading statement or the omission.
-
-(2) For the purposes of subsection (1), a false or misleading statement about a future matter (including the doing of, or the refusal to do, an act) is taken to have been made if a person makes the statement without having reasonable grounds for making the statement.
-
-(3) The persons liable are —
-
-(a) the person making the offer or invitation to the public;
-
-(b) if the offer or invitation is made by a corporation, each director of the corporation;
-
-(c) a person named in the prospectus or the profile statement with his consent as a proposed director of the corporation;
-
-(d) an underwriter (but not a sub-underwriter) to the issue or sale of the shares or debentures, or units of shares or debentures, named in the prospectus or the profile statement with his consent;
-
-(e) a person named in the prospectus or the profile statement with his consent as having made a statement —
-
-(i) that is included in the prospectus or the profile statement; or
-
-(ii) on which a statement made in the prospectus or the profile statement is based,
-
-but only in respect of the inclusion of that statement; and
-
-(f) a person who made the false or misleading statement, or omitted to state the information or circumstance, as the case may be.
-
-(4) A person who acquires shares or debentures, or units of shares or debentures, as a result of an offer or invitation that was made in or accompanied by a profile statement is taken to have acquired the shares or debentures, or units of shares or debentures, in reliance on both the profile statement and the prospectus for the offer.
-
-(5) An action under subsection (1) may begin at any time within 6 years after the day on which the cause of action arose.
-
-(6) This section shall not affect any liability that a person has under any other law.
-
-[36/2000 wef 22/01/2001]
-
-### Persons liable to inform person making offer or invitation about certain deficiencies
-
-55A\.—(1) A person referred to in section 55(3) shall notify in writing the person making an offer or invitation in respect of shares or debentures, or units of shares or debentures, as soon as practicable, if he becomes aware during the application period that —
-
-(a) a material statement in the prospectus or the profile statement is false or misleading;
-
-(b) there is a material omission from the prospectus of material required by section 45, or from the profile statement of material required by section 45A; or
-
-(c) a material new circumstance —
-
-(i) has arisen since the prospectus or the profile statement was registered by the Registrar; and
-
-(ii) would have been required by section 45 to be included in the prospectus, or by section 45A to be included in the profile statement, as the case may be, if it had arisen before the prospectus or the profile statement was registered.
-
-(2) Any person who fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
-
-[36/2000 wef 22/01/2001]
-
-### Defences
-
-55B\.—(1) A person is not liable under section 55(1) only because of a false or misleading statement in a prospectus or a profile statement if the person proves that he —
-
-(a) made all inquiries (if any) that were reasonable in the circumstances; and
-
-(b) after doing so, believed on reasonable grounds that the statement was not false or misleading.
-
-(2) A person is not liable under section 55(1) only because of an omission from a prospectus or a profile statement in relation to a particular matter if the person proves that he —
-
-(a) made all inquiries (if any) that were reasonable in the circumstances; and
-
-(b) after doing so, believed on reasonable grounds that there was no omission from the prospectus or the profile statement in relation to that matter.
-
-(3) A person is not liable under section 55(1) only because of a false or misleading statement in, or an omission from, a prospectus or a profile statement if the person proves that he placed reasonable reliance on information given to him by —
-
-(a) if the person is a corporation, someone other than a director, an employee or agent of the corporation; or
-
-(b) if the person is an individual, someone other than an employee or agent of the individual.
-
-(4) For the purposes of subsection (3), a person is not the agent of a corporation or an individual merely because he performs a particular professional or advisory function for the corporation or individual.
-
-(5) A person who is named in a prospectus or a profile statement as —
-
-(a) being a proposed director or underwriter;
-
-(b) making a statement included in the prospectus or the profile statement; or
-
-(c) making a statement on the basis of which a statement is included in the prospectus or the profile statement,
-
-is not liable under section 55(1) only because of a false or misleading statement in, or an omission from, the prospectus or the profile statement if the person proves that he publicly withdrew his consent to being named in the prospectus or the profile statement in that way.
-
-(6) A person is not liable under section 55(1) only because of a new circumstance that has arisen since the prospectus or the profile statement was registered if the person proves that he was not aware of the matter.
-
-[36/2000 wef 22/01/2001]
-
-### Criminal liability for false or misleading statements and omissions
-
-56\.—(1) Where an offer or invitation in respect of shares or debentures, or units of shares or debentures, is made under a prospectus or a profile statement and —
-
-(a) a false or misleading statement is contained in —
-
-(i) the prospectus or the profile statement; or
-
-(ii) any application form that is in or accompanies the prospectus or the profile statement;
-
-(b) there is an omission to state any information required to be disclosed under section 45 in respect of the prospectus, or under section 45A in respect of the profile statement; or
-
-(c) there is an omission to state a new circumstance that —
-
-(i) has arisen since the prospectus or the profile statement was registered by the Registrar; and
-
-(ii) would have been required by section 45 to be included in the prospectus, or by section 45A to be included in the profile statement, if it had arisen before the prospectus or the profile statement was registered,
-
-the persons referred to in subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
-
-(2) The persons guilty of the offence are —
-
-(a) the person making the offer or invitation to the public;
-
-(b) if the offer or invitation is made by a corporation, each director of the corporation;
-
-(c) a person named in the prospectus or the profile statement with his consent as a proposed director of the corporation;
-
-(d) an underwriter (but not a sub-underwriter) to the issue or sale of the shares or debentures, or units of shares or debentures, named in the prospectus or the profile statement with his consent;
-
-(e) a person named in the prospectus or the profile statement with his consent as having made a statement —
-
-(i) that is included in the prospectus or the profile statement; or
-
-(ii) on which a statement made in the prospectus or the profile statement is based,
-
-but only in respect of the inclusion of that statement; and
-
-(f) a person who made the false or misleading statement, or omitted to state the information or circumstance, as the case may be.
-
-(3) A person shall not be taken to have contravened subsection (1) if the false or misleading statement, or omission, or new circumstance that is omitted from disclosure, is not materially adverse from the point of view of the investor.
-
-(4) For the purposes of subsection (1), a false or misleading statement about a future matter (including the doing of, or the refusal to do, an act) is taken to have been made if a person makes the statement without having reasonable grounds for making the statement.
-
-(5) Where a prospectus relating to any shares or debentures, or any unit of shares or debentures, in a corporation is issued and the prospectus omits to state any matter required to be stated as specified in the Fifth Schedule, each director of the corporation and other person responsible for the prospectus shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years.
-
-(6) The defences specified in section 55B shall, with the necessary modifications, be available to any person who is liable for an offence under this section.
-
-[36/2000 wef 22/01/2001]
+[Repealed by S 236/2002 wef 01/07/2002]
 
 Division 2 —
 
@@ -3770,53 +2936,9 @@ Restrictions on allotment and
 
 commencement of business
 
-### Prohibition of allotment unless minimum subscription received
+57\. [Repealed by S 236/2002 wef 01/07/2002]
 
-57\.—(1) No allotment shall be made of any shares of a company offered to the public unless —
-
-(a) the minimum subscription has been subscribed; and
-
-(b) the sum payable on application for the shares so subscribed has been received by the company,
-
-but if a cheque for the sum payable has been received by the company, the sum shall be deemed not to have been received by the company until the cheque is paid by the bank on which it is drawn.
-
-(2) The minimum subscription shall be —
-
-(a) calculated on the nominal value of each share, and where the shares are issued at a premium, on the nominal value of, and the amount of the premium payable on, each share; and
-
-(b) reckoned exclusively of any amount payable otherwise than in cash.
-
-(3) The amount payable on application on each share offered to the public shall not be less than 5% of the nominal amount of the share.
-
-(4) If the conditions referred to in subsection (1)(a) and (b) have not been satisfied on the expiration of 4 months after the first issue of the prospectus, all money received from applicants for shares shall be forthwith repaid to them without interest, and, if any such money is not so repaid within 5 months after the issue of the prospectus, the directors of the company shall be jointly and severally liable to repay that money with interest at the rate of 10% per annum from the expiration of the period of 5 months but a director shall not be so liable if he proves that the default in the repayment of the money was not due to any misconduct or negligence on his part.
-
-(5) An allotment made by a company to an applicant in contravention of this section or section 59(1) shall be voidable at the option of the applicant which option may be exercised by written notice served on the company within one month after the holding of the statutory meeting of the company and not later, or, in any case where the company is not required to hold a statutory meeting, or where the allotment is made after the holding of the statutory meeting within one month after the date of the allotment, and not later, and the allotment shall be so voidable notwithstanding that the company is in course of being wound up.
-
-(6) Every director of a company who knowingly contravenes or permits or authorises the contravention of any of the provisions of this section or section 59(1) shall be guilty of an offence and shall be liable in addition to the penalty or punishment for the offence to compensate the company and the allottee respectively for any loss, damages or costs which the company or the allottee has sustained or incurred thereby but no proceedings for the recovery of any such compensation shall be commenced after the expiration of two years from the date of the allotment.
-
-(7) Any condition requiring or binding any applicant for shares to waive compliance with any requirement of this section shall be void.
-
-(8) No company shall allot, and no officer or promoter of a company or a proposed company shall authorise or permit to be allotted, shares or debentures to the public on the basis of a prospectus after the expiration of 6 months from the issue of the prospectus.
-
-(9) If default is made in complying with subsection (8) the company and every officer or promoter of the company or proposed company shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year.
-
-[15/84]
-
-(10) Where an allotment of shares or debentures is made on the basis of a prospectus after the expiration of 6 months from the issue of the prospectus, such allotment shall not, by reason only of that fact, be voidable or void.
-
-[U.K.ss.47,49.]
-
-[Aust. s. 48.]
-
-### Application and moneys to be held by the company in trust in a separate bank account until allotment
-
-58\.—(1) All application and other moneys paid prior to allotment by any applicant on account of shares or debentures offered to the public shall, until the allotment of the shares or debentures, be held by the company upon trust for the applicant in a separate bank account, being a bank account that is established and kept by the company solely for the purpose of depositing the application and other moneys that are paid by applicants for those shares or debentures but there shall be no obligation or duty on any bank with whom any such moneys have been deposited to enquire into or see to the proper application of those moneys so long as the bank acts in good faith.
-
-[40/89]
-
-(2) If default is made in complying with this section every officer of the company in default shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years.
-
-[40/89]
+58\. [Repealed by S 236/2002 wef 01/07/2002]
 
 ### Restriction on allotment in certain cases
 
@@ -3829,6 +2951,18 @@ but if a cheque for the sum payable has been received by the company, the sum sh
 [U.K.s.48.]
 
 [Aust. s. 50.]
+
+(3) Every director of a company who knowingly contravenes or permits or authorises the contravention of subsection (1) shall —
+
+(a) be guilty of an offence; and
+
+(b) be liable in addition to the penalty or punishment for the offence to compensate the company and allottee respectively for any loss, damages or costs which the company or allottee has sustained or incurred thereby.
+
+[42/2001 wef 01/07/2002]
+
+(4) No proceedings for the recovery of any compensation referred to in subsection (3)(b) shall be commenced after the expiration of 2 years from the date of the allotment.
+
+[42/2001 wef 01/07/2002]
 
 ### Requirements as to statements in lieu of prospectus
 
@@ -5286,127 +4420,11 @@ the company shall have and shall be deemed always to have had power to reissue t
 
 [S 258/67]
 
-### Qualifications of trustee for debenture holders
+97\. [Repealed by S 236/2002 wef 01/07/2002]
 
-97\.—(1) Subject to this section, every corporation which offers debentures to the public for subscription or purchase in Singapore after 29th December 1967 shall make provision in those debentures or in a trust deed relating to those debentures for the appointment of a trustee corporation as trustee for the holders of the debentures.
+98\. [Repealed by S 236/2002 wef 01/07/2002]
 
-(2) Where a borrowing corporation is required to appoint a trustee for the holders of any debentures in accordance with subsection (1) it shall not allot any of those debentures until the appointment has been made and the trustee corporation has consented to act as trustee.
-
-(3) Without leave of the Court, a trustee corporation shall not be appointed, hold office or act as trustee for the holders of debentures of a borrowing corporation if that trustee corporation is —
-
-(a) a shareholder who beneficially holds shares in the borrowing corporation;
-
-(b) beneficially entitled to moneys owed by the borrowing corporation to it;
-
-(c) a corporation that has entered into a guarantee in respect of the principal debt secured by those debentures or in respect of interest thereon; or
-
-(d) a corporation that is by virtue of section 6 deemed to be related to —
-
-(i) any corporation of a kind referred to in paragraphs (a) to (c); or
-
-(ii) the borrowing corporation.
-
-(4) Notwithstanding anything in subsection (3), that subsection shall not prevent a trustee corporation from being appointed, holding office or acting as trustee for the holders of debentures of a borrowing corporation by reason only that —
-
-(a) the borrowing corporation owes to the trustee corporation or to a corporation that is deemed by virtue of section 6 to be related to the trustee corporation any moneys so long as such moneys are —
-
-(i) moneys that (not taking into account any moneys referred to in sub-paragraphs (ii) and (iii)) do not, at the time of the appointment or at any time within a period of 3 months after the debentures are first offered to the public, exceed 10% of the amount of the debentures proposed to be offered to the public within that period and do not, at any time after the expiration of that period, exceed 10% of the amount owed by the borrowing corporation to the holders of the debentures;
-
-(ii) moneys that are secured by, and only by, a first mortgage over land of the borrowing corporation, or by any debentures issued by the borrowing corporation to the public or by any debentures not issued to the public which are issued pursuant to the same trust deed as that creating other debentures issued at any time by the borrowing corporation to the public or by any debentures to which the trustee corporation, or a corporation that is by virtue of section 6 deemed to be related to the trustee corporation, is not beneficially entitled; or
-
-(iii) moneys to which the trustee corporation, or a corporation that is by virtue of section 6 deemed to be related to the trustee corporation, is entitled as trustee for holders of any debentures of the borrowing corporation in accordance with the terms of the debentures or of the relevant trust deed; or
-
-(b) the trustee corporation, or a corporation that is deemed by virtue of section 6 to be related to the trustee corporation, is a shareholder of the borrowing corporation in respect of shares that it beneficially holds, so long as the shares in the borrowing corporation beneficially held by the trustee corporation and by all other corporations that are deemed by virtue of section 6 to be related to it, do not carry the right to exercise more than 5% of the voting power at any general meeting of the borrowing corporation.
-
-(5) Nothing in subsection (3) shall —
-
-(a) affect the operation of any debentures or trust deed issued or executed before 29th December 1967; or
-
-[S 258/67]
-
-(b) apply to or in relation to the trustee for the holders of any such debentures,
-
-unless pursuant to any such debentures or trust deed a further offer of debentures is made to the public after that date.
-
-(6) Nothing in this Division shall apply to a prescribed corporation, and a prescribed corporation which offers debentures to the public for subscription or purchase in Singapore shall not be required to make provision in those debentures or in a trust deed relating to those debentures for the appointment of a trustee corporation as trustee for the holders of the debentures.
-
-[39/75]
-
-[15/84]
-
-(7) Where a prescribed corporation, which offers debentures to the public for subscription or purchase in Singapore, makes provision in those debentures or in a trust deed relating to those debentures for the appointment of a trustee (whether or not a trustee corporation) for the holders of the debentures, nothing in this Division shall apply to those debentures, the trust deed and the trustee.
-
-[15/84]
-
-(8) In subsections (6) and (7), “prescribed corporation” means —
-
-(a) a banking corporation; or
-
-(b) a corporation or class of corporation which has been declared by the Minister by notification in theGazetteto be a prescribed corporation for the purposes of this section.
-
-[40/89]
-
-(9) The Minister may by notification in theGazette—
-
-(a) specify terms and conditions subject to which subsection (6) shall have effect in relation to a prescribed corporation; or
-
-(b) vary or revoke any declaration or specification made under this section.
-
-[39/75]
-
-(10) If default is made in complying with this section, the corporation and every officer of the corporation who is in default shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $4,000 and also to a default penalty.
-
-[15/84]
-
-### Retirement of trustees
-
-98\.—(1) Notwithstanding anything in any Act or in the relevant debentures or trust deed but subject to section 97(6) and (7), a trustee for the holders of debentures shall not cease to be the trustee until a corporation qualified pursuant to section 97 for appointment as trustee for the holders of the debentures has been appointed to be the trustee for the holders of the debentures and has taken office as such.
-
-(2) Where provision has been made in the debentures or in the relevant trust deed for the appointment of a successor to a trustee for the holders of the debentures upon retirement or otherwise, the successor may, subject to section 97, be appointed in accordance with such provision.
-
-(3) Where no provision has been made in the debentures or in the relevant trust deed for the appointment of a successor to a retiring trustee the borrowing corporation may appoint a successor which is qualified for appointment pursuant to section 97.
-
-(4) Notwithstanding anything in this Act or in any debentures or trust deed, a borrowing corporation may, with the consent of an existing trustee for the holders of the debentures, appoint as successor to the existing trustee any corporation which is qualified for appointment pursuant to section 97 and which is deemed by virtue of section 6 to be related to the existing trustee.
-
-(5) Where the trustee for the holders of the debentures has ceased to exist or to be qualified under section 97 or fails or refuses to act or is disqualified under that section, the Court may, on the application of the borrowing corporation or the trustee for the holders of the debentures or the holder of any of the debentures or the Minister, appoint any corporation qualified pursuant to section 97 to be the trustee for the holders of the debentures in place of the trustee which has ceased to exist or to be qualified or which has failed or refused to act as trustee or is disqualified as aforesaid.
-
-(6) Where a successor is appointed to be a trustee in place of any trustee the successor shall within one month after the appointment lodge with the Registrar notice in the prescribed form of the appointment.
-
-(7) Any person who fails to comply with subsection (6) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and also to a default penalty.
-
-[15/84]
-
-[Aust.s.74A.]
-
-[40/89]
-
-### Contents of trust deed
-
-99\.—(1) Where a corporation offers debentures to the public for subscription in Singapore, the debentures or the relevant trust deed shall contain a limitation on the amount that the borrowing corporation may pursuant to those debentures or that deed borrow and shall contain covenants by the borrowing corporation, or if the debentures do not or the trust deed does not expressly contain those covenants they or it shall be deemed to contain covenants by the borrowing corporation, to the following effect:
-
-(a) that the borrowing corporation will use its best endeavours to carry on and conduct its business in a proper and efficient manner;
-
-(b) that, to the same extent as if the trustee for the holders of the debentures or any approved company auditor appointed by the trustee were a director of the corporation, the borrowing corporation will —
-
-(i) make available for its or his inspection the whole of the accounting or other records of the borrowing corporation; and
-
-(ii) give to it or him such information as it or he requires with respect to all matters relating to the accounting or other records of the borrowing corporation; and
-
-(c) that the borrowing corporation will, on the application of persons holding not less than 10% in nominal value of the issued debentures to which the covenant relates delivered to its registered office, by giving notice —
-
-(i) to each of the holders of those debentures (other than debentures payable to bearer) at his address as specified in the register of debentures; and
-
-(ii) by an advertisement in at least 4 local daily newspapers, one each published in the English, Malay, Chinese and Tamil languages addressed to all holders of those debentures,
-
-summon a meeting of the holders of those debentures to consider the accounts and balance-sheet which were last lodged with the trustee for the holders of the debentures by the borrowing corporation and to give to the trustee directions in relation to the exercise of the trustee’s powers, such meeting to be held at a time and place specified in the notice and advertisement under the chairmanship of a person nominated by the trustee or such other person as is appointed in that behalf by the holders of those debentures present at the meeting.
-
-(2) Where, after 29th December 1967, any debenture (other than a debenture lawfully issued pursuant to a trust deed executed before that date) is issued and neither the debenture nor the trust deed relating to the issue of the debenture expressly contains the limitation on the amount that the borrowing corporation may borrow and the covenants referred to in subsection (1), the corporation that issued the debenture and every officer of the corporation who is in default shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
-
-[15/84]
-
-[S 258/67]
-
-[Aust.s.74b.]
+99\. [Repealed by S 236/2002 wef 01/07/2002]
 
 ### Power of Court in relation to certain irredeemable debentures
 
@@ -5422,855 +4440,21 @@ summon a meeting of the holders of those debentures to consider the accounts and
 
 [Aust.s.74c.]
 
-### Duties of trustees
+(3) Subsection (1) shall not apply in relation to any debenture that is offered to the public for subscription or purchase.
 
-101\.—(1) A trustee for the holders of debentures —
+[42/2001 wef 01/07/2002]
 
-(a) shall exercise reasonable diligence to ascertain whether or not the assets of the borrowing corporation and of each of its guarantor corporations which are or may be available whether by way of security or otherwise are sufficient or are likely to be or become sufficient to discharge the principal debt as and when it becomes due;
+101\. [Repealed by S 236/2002 wef 01/07/2002]
 
-(b) shall satisfy itself that each prospectus relating to the debentures does not contain any matter which is inconsistent with the terms of the debentures or with the relevant trust deed;
+102\. [Repealed by S 236/2002 wef 01/07/2002]
 
-(c) shall ensure that the borrowing corporation complies with Division 8 of this Part so far as it relates to the debentures and is applicable;
+103\. [Repealed by S 236/2002 wef 01/07/2002]
 
-(d) shall exercise reasonable diligence to ascertain whether or not the borrowing corporation and each of its guarantor corporations have committed any breach of the covenants, terms and provisions of the debentures or the trust deed;
+104\. [Repealed by S 236/2002 wef 01/07/2002]
 
-(e) except where it is satisfied that the breach will not materially prejudice the security, if any, for the debentures or the interests of the holders of the debentures shall take all steps and do all such things as it is empowered to do to cause the borrowing corporation and any of its guarantor corporations to remedy any breach of those covenants, terms and provisions;
+105\. [Repealed by S 236/2002 wef 01/07/2002]
 
-(f) where the borrowing corporation or any of its guarantor corporations fails when so required by the trustee to remedy any breach of the covenants, terms and provisions of the debentures or the trust deed, may place the matter before a meeting of holders of the debentures, submit such proposals for the protection of their investment as the trustee considers necessary or appropriate and obtain the directions of the holders in relation thereto; and
-
-(g) where the borrowing corporation submits to those holders a compromise or arrangement, shall give to them a statement explaining the effect of the compromise or arrangement and, if it thinks fit, recommend to them an appropriate course of action to be taken by them in relation thereto.
-
-[Aust.s.74d.]
-
-(2) Where, after due inquiry, the trustee for the holders of the debentures at any time is of the opinion that the assets of the borrowing corporation and of any of its guarantor corporations which are or should be available whether by way of security or otherwise, are insufficient, or likely to become insufficient, to discharge the principal debt as and when it becomes due, the trustee may apply to the Minister for an order under this subsection and the Minister may, on such application, after giving the borrowing corporation an opportunity of making representations in relation to that application, by order in writing served on the corporation at its registered office in Singapore, impose such restrictions on the activities of the corporation, including restrictions on advertising for deposits or loans and on borrowing by the corporation as the Minister thinks necessary for the protection of the interests of the holders of the debentures or the Minister may, and if the borrowing corporation so requires, shall, direct the trustee to apply to the Court for an order under subsection (4) and the trustee shall apply accordingly.
-
-(3) Where —
-
-(a) after due inquiry, the trustee at any time is of the opinion that the assets of the borrowing corporation and of any of its guarantor corporations which are or should be available, whether by way of security or otherwise, are insufficient or likely to become insufficient, to discharge the principal debt as and when it becomes due; or
-
-(b) the corporation has contravened or failed to comply with an order made by the Minister under subsection (2),
-
-the trustee may, and where the borrowing corporation has requested the trustee to do so, the trustee shall apply to the Court for an order under subsection (4).
-
-(4) Where an application is made to the Court under subsection (2) or (3), the Court may, after giving the borrowing corporation an opportunity of being heard, by order, do all or any of the following things:
-
-(a) direct the trustee to convene a meeting of the holders of the debentures for the purpose of placing before them such information relating to their interests and such proposals for the protection of their interests as the trustee considers necessary or appropriate, and of obtaining their directions in relation thereto and give such directions in relation to the conduct of the meeting as the Court thinks fit;
-
-(b) stay all or any actions or proceedings before any Court by or against the borrowing corporation;
-
-(c) restrain the payment of any moneys by the borrowing corporation to the holders of debentures of the corporation or to any class of such holders;
-
-(d) appoint a receiver of such of the property as constitutes the security, if any, for the debentures;
-
-(e) give such further directions from time to time as may be necessary to protect the interests of the holders of the debentures, the members of the borrowing corporation or any of its guarantor corporations or the public,
-
-but in making any such order the Court shall have regard to the rights of all creditors of the borrowing corporation.
-
-(5) The Court may vary or rescind any order made under subsection (4) as the Court thinks fit.
-
-(6) A trustee in making any application to the Minister or to the Court shall have regard to the nature and kind of the security given when the debentures were offered to the public, and if no security was given shall have regard to the position of the holders of the debentures as unsecured creditors of the borrowing corporation.
-
-(7) A trustee may rely upon any certificate or report given or statement made by any solicitor, auditor or officer of the borrowing corporation or guarantor corporation if it has reasonable grounds for believing that such solicitor, auditor or officer was competent to give or make the certificate, report or statement.
-
-### Powers of trustee to apply to Court for directions, etc.
-
-102\.—(1) The trustee for the holders of debentures may apply to the Court —
-
-(a) for directions in relation to any matter arising in connection with the performance of the functions of the trustee; or
-
-(b) to determine any question in relation to the interests of the holders of debentures,
-
-and the Court may —
-
-(c) give such directions to the trustee as the Court thinks fit; and
-
-(d) if satisfied that the determination of the question will be just and beneficial, accede wholly or partially to any such application on such terms and conditions as the Court thinks fit or make such other order on the application as the Court thinks just.
-
-(2) The Court may, on an application under this section, order a meeting of all or any of the holders of debentures to be called to consider any matters in which they are concerned and to advise the trustee thereon and may give such ancillary or consequential directions as the Court thinks fit.
-
-(3) The meeting shall be held and conducted in such manner as the Court directs, under the chairmanship of a person nominated by the trustee or such other person as the meeting appoints.
-
-[Aust.s.74e.]
-
-### Obligations of borrowing corporation
-
-103\.—(1) Where there is a trustee for the holders of any debentures of a borrowing corporation the directors of the borrowing corporation shall —
-
-(a) at the end of a period not exceeding 3 months ending on a day (not later than 6 months after 29th December 1967 or after the date of the relevant prospectus, whichever is the later) which the trustee is hereby required to notify to the borrowing corporation in writing; and
-
-[S 258/67]
-
-(b) at the end of each succeeding period thereafter, being a period of 3 months or such shorter time as the trustee may, in any special circumstances allow,
-
-prepare a report that relates to that period and complies with the requirements of subsection (2) and within one month after the end of each such period lodge a copy of the report relating to that period with the Registrar and with the trustee.
-
-(2) The report referred to in subsection (1) shall be signed by not less than two of the directors on behalf of all of them and shall set out in detail any matters adversely affecting the security or the interests of the holders of the debentures and, without affecting the generality of subsection (1), shall state —
-
-(a) whether or not the limitations on the amount that the corporation may borrow have been exceeded;
-
-(b) whether or not the borrowing corporation and each of its guarantor corporations have observed and performed all the covenants and provisions binding upon them respectively by or pursuant to the debentures or any trust deed;
-
-(c) whether or not any event has happened which has caused or could cause the debentures or any provision of the relevant trust deed to become enforceable and, if so, particulars of that event;
-
-(d) whether or not any circumstances affecting the borrowing corporation, its subsidiaries or its guarantor corporations or any of them have occurred which materially affect any security or charge included in or created by the debentures or any trust deed and, if so, particulars of those circumstances;
-
-(e) whether or not there has been any substantial change in the nature of the business of the borrowing corporation or any of its subsidiaries or any of its guarantor corporations since the debentures were first issued to the public which has not previously been reported upon as required by this section and, if so, particulars of that change; and
-
-(f) where the borrowing corporation has deposited money with or lent money to or assumed any liability of a corporation which pursuant to section 6 is deemed to be related to the borrowing corporation, particulars of —
-
-(i) the total amounts so deposited or loaned and the extent of any liability so assumed during the period covered by the report; and
-
-(ii) the total amounts owing to the borrowing corporation in respect of money so deposited or loaned and the extent of any liability so assumed as at the end of the period covered by the report,
-
-distinguishing between deposits loans and assumptions of liabilities which are secured and those which are unsecured, but not including any deposit with or loan to or any liability assumed on behalf of a corporation if that corporation has guaranteed the repayment of the debentures of the borrowing corporation and has secured the guarantee by a charge over its assets in favour of the trustee for the holders of the debentures of the borrowing corporation.
-
-(3) Any person who fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $4,000 and also to a default penalty of $1,000.
-
-[15/84]
-
-(4) Where there is a trustee for the holders of any debentures issued by a borrowing corporation, the borrowing corporation and each of its guarantor corporations which has guaranteed the repayment of the moneys raised by the issue of those debentures shall (within 21 days after the creation of the charge) in writing furnish the trustee for the holders of the debentures, whether or not any demand therefor has been made, with particulars of any charge created by the corporation or the guarantor corporation, as the case requires, and when the amount to be advanced on the security of the charge is indeterminate (within 7 days after the advance) with particulars of the amount or amounts in fact advanced but where any such advances are merged in a current account with bankers or trade creditors it shall be sufficient for particulars of the net amount outstanding in respect of any such advances to be furnished every 3 months.
-
-(5) The directors of every borrowing corporation and of every guarantor corporation shall, at some date not later than 9 months after the expiration of each financial year of the corporation, cause to be made out and lodged with the Registrar and with the trustee for the holders of the debentures, if any, a profit and loss account for the period from the end of that financial year until the expiration of 6 months after the end of that financial year and a balance-sheet as at the end of the period to which the profit and loss account relates.
-
-(6) Any person who fails to comply with subsection (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and also to a default penalty.
-
-[15/84]
-
-(7) Section 201(4) to (7) and (11) to (16) and section 207(1), (2) and (7), shall with such adaptations as are necessary be applicable to every profit and loss account and balance-sheet made out and lodged pursuant to subsection (5) as if that profit and loss account and balance-sheet were a profit and loss account and balance-sheet referred to in those sections.
-
-(8) Where the directors of a borrowing corporation do not lodge with the trustee for the holders of debentures a report as required by subsection (1) or where the directors of a borrowing corporation or the directors of a guarantor corporation do not lodge with the trustee the balance-sheets and profit and loss accounts as required by subsection (5) within the time prescribed the trustee shall forthwith lodge notice of that fact with the Registrar.
-
-(9)(a) Notwithstanding anything in subsection (7), a profit and loss account and balance-sheet of a borrowing corporation or its guarantor corporation required to be made out and lodged in accordance with subsection (5) need not be audited or the audit thereof may be of a limited nature or extent if the trustee for the holders of the debentures of the borrowing corporation has, by notice in writing, consented to the audit being dispensed with or being of a limited nature or extent, as the case may be.
-
-(b)
-
-Where the trustee has, by notice in writing, so consented, the directors of the corporation in respect of whose profit and loss account and balance-sheet the notice was given, shall lodge with the Registrar a copy of the notice at the time when the profit and loss account and balance-sheet to which the notice relates are lodged with the Registrar.
-
-(c)
-
-Notwithstanding anything in this section, a profit and loss account and balance-sheet of a borrowing corporation or its guarantor corporation required to be made out and lodged in accordance with subsection (5) may, unless the trustee for the holders of the debentures of the borrowing corporation otherwise requires in writing, be based upon the value of the stock in trade of the borrowing corporation or the guarantor corporation, as the case may be, as reasonably estimated by the directors thereof on the basis of the values of such stock in trade as adopted for the purpose of the profit and loss account and balance-sheet of that corporation laid before the corporation at its last preceding annual general meeting and certified in writing by the directors as such.
-
-[Aust.s.74f.]
-
-### Obligation of guarantor corporation to furnish information
-
-104\.—(1) For the purpose of the preparation of a report that, by this Act, is required to be signed by or on behalf of the directors of a borrowing corporation or any of them, that corporation may, by notice in writing, require any of its guarantor corporations to furnish it with any information relating to that guarantor corporation which is, by this Act, required to be contained in that report, and that guarantor corporation shall furnish the borrowing corporation with that information before such date, being a date not earlier than 14 days after the notice is given, as may be specified in that behalf in the notice.
-
-(2) A guarantor corporation which fails to comply with a requirement contained in a notice given pursuant to subsection (1) and every officer of that corporation who is in default shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $4,000 and also to a default penalty.
-
-[15/84]
-
-[Aust.s.74g.]
-
-### Loans and deposits to be immediately repayable on certain events
-
-105\.—(1) Where in any prospectus issued in connection with an invitation to the public to subscribe for or to purchase debentures of a corporation there is a statement as to any particular purpose or project for which the moneys received by the corporation in response to the invitation are to be applied the corporation shall from time to time make reports to the trustee for the holders of those debentures as to the progress that has been made towards achieving such purpose or completing such project.
-
-(2) Each such report shall be included in the report required to be furnished to the trustee for the holders of the debentures under section 103(1).
-
-(3) When it appears to the trustee for the holders of the debentures that such purpose or project has not been achieved or completed within the time stated in the prospectus within which the purpose or project is to be achieved or completed or, where no such time was stated, within a reasonable time, the trustee may and, if in his opinion it is necessary for the protection of the interests of the holders of the debentures, shall give notice in writing to the corporation requiring it to repay the moneys so received by the corporation and, within one month after such notice is given, lodge with the Registrar a copy thereof.
-
-(4) The trustee shall not give notice pursuant to subsection (3) if he is satisfied —
-
-(a) that the purpose or project has been substantially achieved or completed;
-
-(b) that the interests of the holders of debentures have not been materially prejudiced by the failure to achieve or complete the purpose or project within the time stated in the prospectus or within a reasonable time; or
-
-(c) that the failure to achieve the purpose or project was due to circumstances beyond the control of the corporation that could not reasonably have been foreseen by the corporation at the time that the prospectus was issued.
-
-(5) Upon receipt by the corporation of a notice referred to in subsection (3), the corporation shall be liable to repay, and on demand in writing by any person entitled thereto shall immediately repay to him any moneys owing to him as the result of a loan or deposit made in response to the invitation unless —
-
-(a) before the moneys were accepted by the corporation the corporation had given notice in writing to the persons from whom the moneys were received specifying the purpose or project for which the moneys would in fact be used and the moneys were accepted by the corporation accordingly; or
-
-(b) the corporation by notice in writing served on the holders of the debentures —
-
-(i) had specified the purpose or project for which the moneys would in fact be applied by the corporation; and
-
-(ii) had offered to repay the moneys to the holders of the debentures, and that person had not within 14 days after the receipt of the notice, or such longer time as was specified in the notice, in writing demanded from the corporation repayment of the money.
-
-(6) Where the corporation has given a notice in writing as provided in subsection (5), specifying the purpose or project for which the moneys will in fact be applied by the corporation, this section shall apply and have effect as if the purpose or project so specified in the notice was the particular purpose or project specified in the prospectus as the purpose or project for which the moneys were to be applied.
-
-[Aust.s.74h.]
-
-### Liability of trustees for debenture holders
-
-106\.—(1) Subject to this section, any provision contained in a trust deed relating to or securing an issue of debentures, or in any contract with the holders of debentures secured by a trust deed, shall be void in so far as it would have the effect of exempting a trustee thereof from or indemnifying him against liability for breach of trust where he fails to show the degree of care and diligence required of him as trustee.
-
-(2) Subsection (1) shall not invalidate —
-
-(a) any release otherwise validly given in respect of anything done or omitted to be done by a trustee before the giving of the release; or
-
-(b) any provision enabling such a release to be given —
-
-(i) on the agreement thereto of a majority of not less than three-fourths in nominal value of the debenture holders present and voting in person or, where proxies are permitted, by proxy at a meeting summoned for the purpose; and
-
-(ii) either with respect to specific acts or omissions or on the dissolution of the trustee or on his ceasing to act.
-
-(3) Subsection (1) shall not operate —
-
-(a) to invalidate any provision in force on 29th December 1967 so long as any trustee then entitled to the benefit of that provision remains a trustee of the deed in question; or
-
-[S 258/67]
-
-(b) to deprive any trustee of any exemption or right to be indemnified in respect of anything done or omitted to be done by the trustee while any such provision was in force.
-
-[U.K.s.88.]
-
-[Aust. s. 75.]
-
-Division 5A —
-
-Exemptions from
-
-
-
-
-Divisions 1 and 5 in relation to
-
-
-
-
-Prospectus Requirements
-
-### Interpretation
-
-106A\. In this Part —
-
-(a) a reference to an offer of shares or debentures, or units of shares or debentures, to the public shall be deemed to include a reference to an offer that is made pursuant to an invitation to the public in relation to shares or debentures, or units of shares or debentures;
-
-(b) a reference to Divisions 1 and 5 not applying to an offer of shares or debentures, or units of shares or debentures, is a reference to those sections only in those Divisions which are related to an offer of shares or debentures , or units of shares or debentures, to the public; and
-
-(c) a reference to issuer is a reference to a corporation which issues or proposes to issue shares or debentures, or units of shares or debentures.
-
-[40/89]
-
-### Offer made by or to certain persons or under certain circumstances
-
-106B\.—(1) Divisions 1 and 5 of this Part shall not apply to an offer or invitation to the public in respect of shares or debentures, or units of shares or debentures, if it is —
-
-(a) made in connection with a take-over scheme which is in compliance with the provisions of this Act applicable to such schemes;
-
-(b) made —
-
-(i) in the case of an offer or invitation in respect of shares or debentures, in relation to shares or debentures; or
-
-(ii) in the case of an offer or invitation in respect of units of shares or debentures, in relation to units of shares or debentures,
-
-that have been previously issued and that are of a class that are quoted or listed for quotation on a stock exchange in Singapore approved under the Securities Industry Act (Cap. 289);
-
-(c) made, whether or not in relation to shares or debentures, or units of shares or debentures, that have been previously issued, by a corporation to employees of the corporation or its related corporation, where the shares or debentures, or units of shares or debentures, are to be held by or for the benefit of the employees in accordance with an employee share investment offer or scheme (including a share option offer or scheme) for the time being in force, if —
-
-(i) the employees are not induced to purchase the shares or debentures, or units of shares or debentures, by an expectation of employment or continued employment; and
-
-(ii) no selling or promotional expenses are paid or incurred in connection with the offer or scheme, other than those incurred for administrative or professional services or incurred by way of commission or fee for services rendered by —
-
-(A) a dealer or investment adviser licensed under the Securities Industry Act (Cap. 289);
-
-(B) an exempt dealer under section 40(d) of that Act; or
-
-(C) an exempt dealer within the meaning of section 40 of that Act whose carrying on of the business of advising others concerning securities is solely incidental to the conduct of his business in dealing in securities.
-
-[36/2000 wef 22/01/2001]
-
-(1A) For the avoidance of doubt, nothing in subsection (1)(c) shall be construed to make an offer by a corporation to employees of the corporation or its related corporation of any of its shares or debentures, or units of shares or debentures, an offer to the public by reason only that such offer is made to the employees of the corporation or its related corporation.
-
-[36/2000 wef 22/01/2001]
-
-(2)(a) Divisions 1 and 5 of this Part shall not apply to any person making an offer of shares or debentures, or units of shares or debentures, to the public where, on the application of any person interested, the Minister declares, by order, that circumstances exist whereby —
-
-(i) the cost of providing a prospectus outweighs the resulting protection to investors; or
-
-(ii) otherwise, it would not be prejudicial to the public interest if a prospectus were dispensed with.
-
-(b)
-
-In the circumstances described in subsection (2)(a), the Minister, on making the order, may impose such conditions on the offer as he considers appropriate.
-
-(c)
-
-An order made under this subsection shall be final and shall not be challenged in any court.
-
-[40/89]
-
-[22/93]
-
-### Offer made to certain institutions or persons
-
-106C\. Divisions 1 and 5 of this Part shall not apply to an offer of shares or debentures , or units of shares or debentures, to the public, whether or not they have been previously issued, made to —
-
-(a) a bank that is licensed under the Banking Act [Cap. 19] or a merchant bank that is approved under section 28 of the Monetary Authority of Singapore Act [Cap. 186];
-
-(b) an insurance company that is registered under the Insurance Act [Cap. 142] or a trust company registered under the Trust Companies Act [Cap. 336];
-
-(c) the Government or a statutory board;
-
-(ca) a person who is licensed as a dealer under the Securities Industry Act (Cap. 289), or a person exempted under that Act or any subsidiary legislation made thereunder from obtaining a dealer’s licence;
-
-[36/2000 wef 22/01/2001]
-
-(d) any person licensed as an investment adviser under the Securities Industry Act;
-
-(e) a pension fund or unit trust;
-
-(f) an investment company as defined in section 355(1), or any person exempted under the Securities Industry Act (Cap. 289) or any subsidiary legislation made thereunder from obtaining an investment adviser’s licence; and
-
-[36/2000 wef 22/01/2001]
-
-(g) such other persons as the Minister may, by order published in theGazette, declare to be exempt purchasers,
-
-who or which, pursuant to the offer, acquires the shares or debentures, or units of shares or debentures, as principal or as a trustee for accounts fully managed by it who, for the purposes of this section, shall be deemed to be dealing as principal.
-
-[40/89]
-
-### Offer to sophisticated investors
-
-106D\.—(1) Divisions 1 and 5 of this Part shall not apply to an offer of shares or debentures , or units of shares or debentures, to the public, whether or not they have been previously issued, where the offer is made to a sophisticated investor, if —
-
-(a) the offer of the shares or debentures, or units of shares or debentures, is not accompanied by an advertisement offering or calling attention to the offer or intended offer; and
-
-(b) no selling or promotional expenses are paid or incurred in connection with the offer other than those incurred for administrative or professional services or incurred by way of commission or fee for services rendered by a dealer or investment adviser.
-
-(2) For the purposes of this section —
-
-“advertisement” means —
-
-(a) a written or printed communication;
-
-(b) a communication by radio, television or other communication medium; or
-
-(c) a communication by means of a recorded telephone message,
-
-that is published in connection with an offer of shares or debentures, or units of shares or debentures, but does not include an information memorandum or an announcement made by a company listed on a stock exchange in Singapore or a recognised stock exchange pursuant to any requirement of that stock exchange or an advertisement which contains only such information as is permitted by section 48;
-
-“information memorandum” means a document lodged with the Registrar as purporting to describe the business and affairs of the person making the offer and as having been prepared for delivery and review by sophisticated investors so as to assist them in making an investment decision in respect of shares or debentures, or units of shares or debentures, that are being offered;
-
-“dealer” has the same meaning as is assigned to that expression in section 2 of the Securities Industry Act;
-
-“investment adviser” means —
-
-(a) a person who is licensed under the Securities Industry Act; or
-
-(b) an exempt dealer under section 40(d) of that Act whose carrying on the business of advising others concerning securities is solely incidental to the conduct of his business of dealing in securities;
-
-“sophisticated investor” means —
-
-(a) a person who acquires the shares or debentures, or units of shares or debentures, pursuant to the offer, as principal if the aggregate consideration for the acquisition is not less than $200,000 (or its equivalent in foreign currencies) for each transaction whether such amount is paid for in cash, by exchange of shares or other assets; or
-
-(b) a person who acquires the shares or debentures, or units of shares or debentures, pursuant to the offer as principal and —
-
-(i) whose total net personal assets exceed S$2 million or its equivalent in foreign currencies or whose income in the preceding 12 months is not less than S$300,000 or its equivalent in foreign-currencies at the time of the acquisition; or
-
-(ii) in the case of a corporation, whose total net assets exceed S$10 million in value or its equivalent in foreign currencies as determined by the last audited balance-sheet of the corporation; or
-
-(c) an officer of the person making the offer or a spouse, parent, brother, sister, son or daughter of that officer or of the person making the offer, if he is a natural person.
-
-(3) Nothing in section 40(a) and (d)(iv) of the Securities Industry Act (which, in effect, requires an exempt dealer to acquire shares or debentures, or units of shares or debentures, only through the holder of a dealer’s licence) shall apply to any of the persons or bodies specified in section 106C or this section who or which acquire shares or debentures, or units of shares or debentures, under either of these sections as principals and who or which are classified as exempt dealers under section 40(a) and (d)(iv) of the Securities Industry Act with the result that an exempt dealer who so acquires shares or debentures , or units of shares or debentures, under section 106C or this section shall not be regarded as contravening any provision in the Securities Industry Act.
-
-(4) The Minister may, by order published in theGazette, specify an amount in substitution of any amount specified in paragraph (a) or (b) of the definition of “sophisticated investor” in subsection (2).
-
-[36/2000 wef 22/01/2001]
-
-### Circumstances in which a prospectus is not required on first sale of shares or debentures acquired pursuant to exemptions in section 106C or 106D
-
-106E\.—(1) Where shares or debentures, or units of shares or debentures, initially acquired pursuant to an exemption in section 106C or 106D, are first sold to any of the persons specified in the sections —
-
-(a) the offer for sale to any of those persons shall not be regarded as an offer to the public for which a prospectus is required; and
-
-(b) any subsequent offer for sale to any of those persons shall not be regarded as an offer to the public for which a prospectus is required.
-
-[36/2000 wef 22/01/2001]
-
-(2) Where shares or debentures, or units of shares or debentures, initially acquired pursuant to an exemption in section 106C or 106D, are first sold to any person other than those specified in the sections, the offer for sale shall be regarded as an offer to the public for which a prospectus is required, unless —
-
-(a) the shares or debentures, or units of shares or debentures, to which the offer relates are listed or quoted on a stock exchange in Singapore or a recognised stock exchange, and at least 6 months have elapsed from the date that they were initially acquired pursuant to the exemption under section 106C or 106D; or
-
-(b) where the shares or debentures, or units of shares or debentures, to which the offer relates are not listed or quoted on a stock exchange in Singapore or a recognised stock exchange, the following conditions are satisfied:
-
-(i) the seller gives a notice in writing to the purchaser at the time of the sale that —
-
-(A) he is buying the shares or debentures, or units of shares or debentures, acquired by the seller pursuant to an exemption under section 106C or 106D; and
-
-(B) the shares or debentures, or units of shares or debentures, shall not be sold, transferred or assigned by the purchaser to any person, other than to any of the persons specified in section 106C or 106D, for at least 6 months from the date that the shares or debentures, or units of shares or debentures, are initially acquired pursuant to the exemption under section 106C or 106D;
-
-(ii) the seller gives a notice in writing, within 3 days of the sale to the person from whom he initially acquired the shares or debentures, or units of shares or debentures, containing particulars of the sale in such form as may be prescribed; and
-
-(iii) the offer of the shares or debentures, or units of shares or debentures, is not accompanied by an advertisement offering or calling attention to the offer and no selling or promotional expenses are paid or incurred in connection with the offer except for administrative or professional services or services performed by a dealer or investment adviser licensed under the Securities Industry Act (Cap. 289).
-
-[36/2000 wef 22/01/2001]
-
-(3) A contract of sale of shares or debentures, or units of shares or debentures, made or entered into in contravention of the condition in subsection (2)(b) shall be void.
-
-(4) The Court, on being satisfied that a contract of sale is void under subsection (3), may, on the application of the Registrar or any other person, make such order or orders as it thinks just and equitable including, without limiting the generality of the foregoing, the following orders:
-
-(a) an order directing the seller to refund the purchase moneys to the purchaser and directing the purchaser to return the shares or debentures , or units of shares or debentures, to the seller;
-
-(b) an order directing the seller to indemnify the purchaser for any loss or damage that he may have suffered as a result of the contract being void.
-
-(5) In a case to which subsection (2)(a) applies, any subsequent offer for sale of the listed or quoted shares or debentures, or units of shares or debentures, after the expiration of the 6-month period shall not require a prospectus.
-
-[36/2000 wef 22/01/2001]
-
-(6) In subsection (2) —
-
-(a) “advertisement” means —
-
-(i) a written or printed communication;
-
-(ii) a communication by radio, television or other communication medium; or
-
-(iii) a communication by means of a recorded telephone message that is published in connection with an offer of shares or debentures, or units of shares or debentures; and
-
-(b) “recognised stock exchange” has the same meaning as is assigned to that expression in section 106G.
-
-[40/89]
-
-### Stock exchange offer
-
-106F\.—(1) Divisions 1 and 5 of this Part shall not apply to an offer of shares of debentures , or units of shares or debentures, to the public, that have not been previously issued, in a case where the shares or debentures, or units of shares or debentures, to be offered are, or are to be, uniform in all respects with shares or debentures, or units of shares or debentures, previously issued and listed for quotation on a stock exchange if a statement of material facts, which complies as to form and content with Part VI of the Fifth Schedule, is lodged with, and accepted by, the Registrar and the stock exchange.
-
-(2) For the purposes of this section —
-
-(a) shares are uniform in all respects with shares previously issued notwithstanding that they do not carry the same rights to dividends as the latter during the 12 months immediately following the issue; and
-
-(b) a statement of material facts referred to in subsection (1) shall be deemed to be a prospectus for the purposes of sections 55 and 56.
-
-[22/93]
-
-[40/89]
-
-### Offer of international debentures
-
-106G\.—(1) Divisions 1 and 5 of this Part shall not apply to an offer to the public of debentures or units of debentures by a body incorporated in a country outside Singapore where the offer is made by a recognised dealer to such institutional, professional or business investors as the Minister may, by notification in theGazette, specify, being persons or bodies that appear to him sufficiently expert to understand any risk involved in buying or selling those debentures or units of debentures (whether as principal or agent) and the offer complies with the conditions set forth in subsection (2).
-
-(2) The conditions referred to in subsection (1) are that —
-
-(a) the debentures or units of debentures are denominated in a currency, other than the Singapore dollar, that is equivalent in value to at least US$5,000; and
-
-(b) the shares of the issuing body corporate are listed on a recognised stock exchange or the offer is guaranteed by a corporation whose shares are listed on a recognised stock exchange.
-
-(3) For the purposes of this section —
-
-“recognised dealer” means a person who —
-
-(a) holds a dealer’s licence under the Securities Industry Act; or
-
-(b) is an exempt dealer under section 40(c) or (d) of that Act;
-
-“recognised stock exchange” means a body corporate declared by the Minister, by notification in theGazette, to be a recognised stock exchange.
-
-(4) The Minister may by notification in theGazetteadd to, vary or amend the conditions specified in subsection (2).
-
-[40/89]
-
-### Offer of debentures made by the Government or international financial institutions
-
-106H\. Divisions 1 and 5 of this Part shall not apply to an offer to the public of debentures or units of debentures made by or guaranteed by —
-
-(a) the Government; or
-
-(b) an international financial institution of which Singapore is a member.
-
-[40/89]
-
-### Reporting requirements
-
-106I\.—(1) Where an issuer intends to invoke an exemption under this Division other than an exemption under sections 106B(1), 106E and 106F, he shall lodge with the Registrar a report of his intention to issue the shares or debentures, or units of shares or debentures, in such form as may be prescribed at or before the time of invoking the exemption.
-
-[22/93]
-
-(2) The issuer, if incorporated in Singapore, shall maintain a register in the prescribed form of the shares or debentures, or units of shares or debentures, issued under subsection (1).
-
-[22/93]
-
-(3) Particulars of the issue of the shares or debentures, or units of shares or debentures, shall be entered in the register within 3 days of the sale.
-
-[22/93]
-
-(4) Upon the request of the Registrar, the issuer shall produce for inspection the register maintained under subsection (2) and the Registrar may make extracts from the register.
-
-(5) The Registrar may supply a copy of an extract from a register to any person who, in his opinion, should, in the public interest, be informed of the issue of the shares or debentures, or units of shares or debentures, disclosed in the register.
-
-[22/93]
-
-[40/89]
-
-### Revocation of exemption
-
-106J\.—(1) Where the Minister considers that it is necessary in the public interest or for the protection of investors, he may, by order, revoke any exemption under this Division, subject to such conditions as he thinks fit.
-
-(2) The Minister may make an order, under subsection (1), without giving the person affected by the order an opportunity of being heard but he shall provide an opportunity for such a hearing within 14 days of the making of the order and the order shall remain in effect until the hearing is completed.
-
-(3) An order made under this section shall be final and conclusive and there shall be no appeal therefrom.
-
-[40/89]
-
-### Power to conduct investigations
-
-106K\. Where the Minister has reason to suspect that a person has committed an offence under this Act or the regulations or has been guilty of fraud or dishonesty in relation to any exempted offer to which this Division applies, he may direct such investigation as he thinks expedient for the due administration of this Act and for this purpose may invoke all powers conferred upon him by this Act in respect of investigations, whether under Part IX or otherwise, or by the Securities Industry Act in respect of any dealing in, or trading in, securities.
-
-[40/89]
-
-### Transactions under exempted offers subjects to Division II of Part XII of this Act and Part IX of Securities Industry Act
-
-106L\. For the removal of doubts, it is hereby declared that in relation to any transaction carried out under an exempted offer under this Part, nothing in this Part shall limit or diminish any liability which any person may incur in respect of any relevant offence under Division II of Part XII of this Act or Part IX of the Securities Industry Act or any penalty, award of compensation or punishment in respect of any such offence.
-
-[40/89]
-
-Division 6 —
-
-Interests other than shares, debentures, etc.
-
-### Interpretation of this Division
-
-107\.—(1) In this Division and in the Seventh Schedule, unless inconsistent with the context or subject-matter —
-
-“company” means a public company, and includes a corporation that is a public company under the law of a proclaimed country and is registered as a foreign company in Singapore;
-
-“financial year”, in relation to a deed, means the period of 12 months ending on 31st December or on such other date as is specified in lieu thereof in the deed;
-
-“franchise” means a written agreement or arrangement between 2 or more persons by which —
-
-(a) a party to the agreement or arrangement (referred to in this definition as the franchisor) authorises or permits another party (referred to in this definition as the franchisee), or a person associated with the franchisee, to exercise the right to engage in the business of offering, selling or distributing goods or services in Singapore under a plan or system controlled by the franchisor or a person associated with the franchisor;
-
-(b) the business carried on by the franchisee or the person associated with the franchisee, as the case may be, is capable of being identified by the public as being substantially associated with a trade or service mark, logo, symbol or name identifying, commonly connected with or controlled by the franchisor or a person associated with the franchisor;
-
-(c) the franchisor exerts, or has authority to exert, a significant degree of control over the method or manner of operation of the franchisee’s business;
-
-(d) the franchisee or a person associated with the franchisee is required under the agreement or arrangement to make payment or give some other form of consideration to the franchisor or a person associated with the franchisor;
-
-(e) the franchisor agrees to communicate to the franchisee or a person associated with the franchisee, knowledge, experience, expertise, know-how, trade secrets or other information whether or not it is proprietary or confidential; and
-
-(f) the agreement or arrangement referred to in paragraph (a) is not a unit trust scheme as defined in the Securities Industry Act (Cap.289) or an investment contract;
-
-[38/98 wef 18/11/1998]
-
-“interest” means any right to participate or interest, whether enforceable or not and whether actual, prospective or contingent —
-
-(a) in any profits, assets or realisation of any financial or business undertaking or scheme whether in Singapore or elsewhere;
-
-(b) in any common enterprise whether in Singapore or elsewhere in which the holder of the right or interest is led to expect profits, rent or interest from the efforts of the promoter of the enterprise or a third party; or
-
-(c) in any investment contract,
-
-whether or not the right or interest is evidenced by a formal document and whether or not the right or interest relates to a physical asset, but does not include —
-
-(d) any share in or debenture of a corporation;
-
-(e) any interest in or arising out of a policy of life insurance; or
-
-(f) any franchise;
-
-[38/98 wef 18/11/1998]
-
-“investment contract” means any contract, scheme or arrangement which in substance and irrespective of the form thereof involves the investment of money in or under such circumstances that the investor acquires or may acquire an interest in or right in respect of property which under or in accordance with the terms of investment will, or may at the option of the investor, be used or employed in common with any other interest in or right in respect of property acquired in or under like circumstances;
-
-“management company”, in relation to any interests issued or proposed to be issued or any deed that relates to any interests issued or proposed to be issued, means a company by or on behalf of which the interests have been or are proposed to be issued and includes any person for the time being exercising the functions of the management company;
-
-“proclaimed country” means a country which the Minister has, by notification in theGazette, declared to be a proclaimed country for the purposes of this Division.
-
-(2) A reference in this Division to a deed shall be read as including a reference to any instrument amending or affecting the deed.
-
-[Aust.s.76. 62/70]
-
-### Approved deeds
-
-108\. For the purposes of this Division, a deed shall be an approved deed if —
-
-(a) the Registrar has granted his approval to the deed under this Division; and
-
-(b) the Minister has granted his approval under this Division to the trustee or representative appointed for the purposes of the deed acting as trustee or representative and that approval has not been revoked and the trustee or representative has not ceased to hold office.
-
-[Aust.s.77.]
-
-### Approval of deeds
-
-109\.—(1) Where a deed makes provision for the appointment of a company as trustee for or representative of the holders of interests issued or proposed to be issued by a company the Registrar may, subject to this section, grant his approval to the deed.
-
-(2) The Registrar shall not grant his approval to a deed unless the deed —
-
-(a) complies with the requirements of this Division; and
-
-(b) makes provision for such other matters and things as are required by the regulations to be included in the deed and if regulations have been made prescribing the charges that may be made by a management company, unless the deed provides —
-
-(i) that the charges to be made by the management company do not exceed such percentages or amounts as are prescribed; and
-
-(ii) that the price at which the interests to which the deed relates are to be sold or purchased by the management company are consistent with the regulations relating to such prices.
-
-(3) Within 7 days after a deed has been approved under this section, the management company shall lodge in the office of the Registrar the deed, or a copy of the deed verified by statutory declaration, and the copy shall for all purposes, in the absence of proof that it is not a true copy, be regarded as an original.
-
-[Aust.s.78.]
-
-### Approval of trustees
-
-110\.—(1) The Minister may, subject to such terms and conditions as he thinks fit, grant his approval to a company acting as trustee or representative for the purposes of a deed.
-
-(2) The Minister may, at any time, by reason of a breach of a term or condition subject to which the approval was granted or for any other reason, revoke an approval granted by him under this section.
-
-[Aust.s.79.]
-
-### Covenants to be included in deeds
-
-111\.—(1) A deed shall, for the purposes of section 109(2)(a), contain covenants to the following effect:
-
-(a) a covenant binding the management company that it will use its best endeavours to carry on and conduct its business in a proper and efficient manner and to ensure that any undertaking, scheme or enterprise to which the deed relates is carried on and conducted in a proper and efficient manner;
-
-(b) covenants binding the management company —
-
-(i) that the management company will pay to the trustee or representative, within 30 days after their receipt by the company, any moneys that, under the deed, are payable by the company to the trustee or representative;
-
-(ii) that the management company will not sell any interest to which the deed relates otherwise than at a price calculated in accordance with the provisions of the deed;
-
-(iii) that the management company will, at the request of the holder of an interest, purchase that interest from the holder and that the purchase price will be a price calculated in accordance with the provisions of the deed; and
-
-(iv) that the management company will not, without the approval of the trustee or representative, publish or cause to be published any advertisement, circular or other document containing any statement with respect to the sale price of interests to which the deed relates or the yield therefrom or containing any invitation to buy interests;
-
-(c) covenants binding the trustee or representative that he will —
-
-(i) exercise all due diligence and vigilance in carrying out his functions and duties and in watching the rights and interests of the holders of the interests to which the deed relates;
-
-(ii) keep or cause to be kept proper books of account in relation to those interests;
-
-(iii) cause those accounts to be audited at the end of each financial year by an approved company auditor; and
-
-(iv) send or cause to be sent by post a statement of the accounts with the report of the auditor thereon within two months of the end of the financial year, to each of the holders of those interests;
-
-(d) a covenant binding the management company and the trustee or representative, respectively, that no moneys available for investment under the deed will be invested in or lent to the management company, or to the trustee or representative, or to any company (other than a prescribed corporation within the meaning of section 44(6)) which is by virtue of section 6 deemed to be related to the management company or to the trustee or representative;
-
-(e) a covenant binding the management company that, to the same extent as if the trustee or representative were a director of the company, the company will —
-
-(i) make available to the trustee or representative, or to any approved company auditor appointed by it, for inspection the whole of the books of the company whether kept at the registered office or elsewhere; and
-
-(ii) give to the trustee or representative or to any such auditor such oral or written information as the trustee or representative requires with respect to all matters relating to the undertaking, scheme or enterprise of the company or any property (whether acquired before or after the date of the deed) of the company or otherwise relating to the affairs thereof;
-
-(f) a covenant binding the management company that the management company will make available, or ensure that there is made available, to the trustee or representative such details as the trustee or representative requires with respect to all matters relating to the undertaking, scheme or enterprise to which the deed relates;
-
-(g) as from a day to be fixed by the Minister by notification in theGazette, covenants binding the management company and the trustee or representative, respectively, that the management company or the trustee or representative, as the case may be, will not exercise the right to vote in respect of any shares relating to the interests to which the deed relates held by the management company, trustee or representative at any election for directors of a corporation whose shares are so held, without the consent of the majority of the holders of the interests to which the deed relates present in person and voting given at a meeting of those holders summoned in the manner provided for in paragraph (h)(i) and (ii) for the purpose of authorising the exercise of the right at the next election; and
-
-(h) a covenant binding the management company that the management company will within 21 days after an application is delivered to the company at its registered office, being an application by not less than 50, or 10% in number, whichever is the less, of the holders of the interests to which the deed relates —
-
-(i) by sending notice by post of the proposed meeting at least 7 days before the proposed meeting to each of those holders at his last known address or in the case of joint holders to the joint holder whose name stands first in the company’s records; and
-
-(ii) by publishing at least 14 days before the proposed meeting an advertisement giving notice of the meeting in a newspaper circulating generally in Singapore,
-
-summon a meeting of the holders for the purpose of laying before the meeting the accounts and balance-sheet which were laid before the last preceding annual general meeting of the management company or the last audited statement of accounts of the trustee or representative, and for the purpose of giving to the trustee or representative such directions as the meeting thinks proper.
-
-(1A) In addition to the covenants referred to in subsection (1), the deed shall contain such covenant as the Minister may by regulations prescribe and such regulations may provide for different covenants to apply to different classes of interests.
-
-[38/98 wef 18/11/1998]
-
-(2) A meeting summoned for the purposes of a covenant contained in a deed in pursuance of subsection (1)(g) or (h) shall be held at the time and place specified in the notice and advertisement, being a time not later than two months after the giving of the notice, under the chairmanship of —
-
-(a) such person as is appointed in that behalf by the holders of the interests to which the deed relates present at the meeting; or
-
-(b) where no such appointment is made, a nominee of the trustee or representative approved by the Registrar,
-
-and shall be conducted in accordance with the provisions of the deed or, in so far as the deed makes no provision, as directed by the chairman of the meeting.
-
-(3) Notwithstanding anything to the contrary in an approved deed, the undertaking, scheme, enterprise, contract or arrangement to which the deed relates may be continued in operation or existence if it appears to be in the interests of the holders of the interests to which the deed relates during such period as is or such periods as are agreed upon by the trustee or representative and the management company.
-
-(4) Where a direction is given to the trustee or representative at a meeting summoned pursuant to a covenant complying with subsection (1)(h), the trustee or representative —
-
-(a) shall comply with the direction unless it is inconsistent with the deed or this Act; and
-
-(b) shall not be liable for anything done or omitted to be done by it by reason only of its following that direction.
-
-(5) Where the trustee or representative is of the opinion that any direction so given is inconsistent with the deed or this Act or is otherwise objectionable, the trustee or representative may apply to the Court for an order confirming, setting aside or varying the direction and the Court may make such order as it thinks fit.
-
-[Aust.s.80.]
-
-### Interests to be issued by companies only
-
-112\. No person, except a company or an agent of a company authorised in that behalf under the seal of the company, shall issue or offer to the public for subscription or purchase or shall invite the public to subscribe for or purchase any interest.
-
-[Aust.s.81.]
-
-### Statement to be issued
-
-113\.—(1) Before a company or an agent of a company issues or offers to the public for subscription or purchase or invites the public to subscribe for or purchase any interest the company shall issue or cause to be issued a statement in writing in connection therewith which statement shall for all purposes be deemed to be a prospectus issued by a company, and, subject to subsection (2), all provisions of this Act, other than section 57(8), (9) and (10) and rules of law relating to prospectuses or to the offering or to an intended offering of shares for subscription or purchase to the public shall with such adaptations as are necessary apply and have effect accordingly as if the interest were shares offered or intended to be offered to the public for subscription or purchase and as if persons accepting any offer or invitation in respect of or subscribing for or purchasing any such interest were subscribers for shares.
-
-(2) Subject to subsection (3), the statement shall set out —
-
-(a) the matters and reports specified in the Seventh Schedule; and
-
-(b) such other matters as are required by the regulations to be set out in the statement,
-
-with such adaptations as the circumstances of each case require and the Registrar approves.
-
-(3) A matter or report referred to in subsection (2) may be omitted from a statement if having regard to the nature of the interest the Registrar is of the opinion that the matter or report is not appropriate for inclusion in the statement and has by writing under his hand approved the omission.
-
-[Aust.s.82.]
-
-### Restriction on issue, etc., of interest to public
-
-113A\.—(1) No company or agent of a company shall —
-
-(a) issue or offer to the public for subscription or purchase; or
-
-(b) invite the public to subscribe for or purchase,
-
-any interest on the basis of a statement referred to in section 113 after the expiration of 6 months from the issue of the statement except for a designated interest referred to in subsection (2).
-
-(2) No company or agent of a company shall —
-
-(a) issue or offer to the public for subscription or purchase; or
-
-(b) invite the public to subscribe for or purchase,
-
-any designated interest on the basis of a statement referred to in section 113 after the expiration of 12 months from the issue of the statement.
-
-(3) A purchase of or subscription for any interest made on the basis of the statement after the expiration of —
-
-(a) 6 months, in the case of an interest other than a designated interest; or
-
-(b) 12 months, in the case of a designated interest,
-
-shall not, by reason of that fact, be voidable or void.
-
-(4) For the purposes of this section, “designated interest” means such interest or class of interests as the Minister may, by notification in theGazette, designate for the purposes of this section.
-
-[38/98 wef 18/11/1998]
-
-### No issue without approved deed
-
-114\.—(1) A person shall not issue or offer to the public for subscription or purchase or invite the public to subscribe for or purchase any interest unless, at the time of the issue, offer or invitation, there is in force, in relation to the interest, a deed that is an approved deed.
-
-(2) A person shall not in any deed, prospectus, statement, advertisement or other document relating to any interest make any reference to an approval of a deed or of a trustee or representative granted under this Division.
-
-(3) Where —
-
-(a) an interest issued by a corporation before 29th December 1967 is in existence immediately before that date;
-
-[S 258/67]
-
-(b) this Division would have applied in relation to the issue of the interest if the interest had been issued on or after that date;
-
-(c) there is not, at the expiration of 3 months after that date, a deed that is an approved deed in force in relation to the interest; and
-
-(d) the corporation did not, within a period of one month after that date, apply for approval under this Division of a deed in relation to the interest or, if it did so apply, approval was refused,
-
-the corporation shall, within 14 days after the expiration of the period referred to in paragraph (c), give to the holder of the interest and to the Registrar notice in writing that there is not in force in relation to that interest a deed that is an approved deed and, if this subsection is not complied with, each director of the corporation shall, in addition to the corporation, be deemed to have failed to comply with this subsection.
-
-(4) The Minister may modify the application to a corporation of subsection (3) by extending any period referred to in that subsection or may exempt any corporation from compliance with that subsection.
-
-(5) Nothing in subsection (3) shall be construed as authorising the Registrar to grant his approval to a deed that relates to an interest issued by a corporation that is not a company for the purposes of this Division.
-
-[Aust.s.83.]
-
-### Register of interest holders
-
-115\.—(1) The management company shall in respect of each deed with which the company is concerned keep a register of the holders of interests under the deed and enter therein —
-
-(a) the names and addresses of the holders;
-
-(b) the extent of the holding of each holder and, if his interest consists of a specific interest in any property, a description of the property and its location sufficient to identify it;
-
-(c) the date at which the name of each person was entered in the register as a holder; and
-
-(d) the date at which any person ceased to be a holder.
-
-(2) Division 4 of Part V shall so far as is applicable and with such adaptations as are necessary apply to and in relation to the register.
-
-(3) A management company which —
-
-(a) keeps a register of holders of interests as required by subsection (1); and
-
-[13/87]
-
-(b) provides reasonable accommodation and facilities for persons to inspect and take copies of its list of interest holders,
-
-need not comply with section 116(1)(a) in relation to the deed under which the interests are held unless the Minister by notification in theGazetteotherwise directs.
-
-[Aust.s.84.]
-
-### Returns, information, etc., relating to interests
-
-116\.—(1) Where a deed is or has at any time been an approved deed, the management company shall, so long as the deed or any deed in substitution in whole or in part for the deed, remains in force, lodge with the Registrar, within two months after the end of each financial year applicable to the deed —
-
-(a) a return containing a list of all persons who, at the end of the financial year, were holders of the interests to which the deed relates, showing the name and address of each holder and the extent of his holding and, if his interest consists of a specific interest in any property, a description of the property and its location sufficient to identify it;
-
-(b) a summary of —
-
-(i) all purchases and sales of land and marketable securities affecting the interests of the holders during the financial year; and
-
-(ii) all other investments affecting the interests of the holders made during the financial year, showing the descriptions and quantities of those investments;
-
-(c) a statement of the total amount of brokerage affecting the interests of the holders paid or charged by the management company during the financial year and the proportion thereof paid to any stock or share broker, or any partner, employee or nominee of any stock or share broker, who is an officer of the company and the proportion retained by the company;
-
-(d) a list of all parcels of land and marketable securities, and other investments, held by the trustee or representative in relation to the deed, as at the end of the financial year, showing the value of the land, securities or other investments and the basis of the valuations; and
-
-(e) such other statements and particulars, if any, as may be prescribed.
-
-(2) Any document required to be lodged with the Registrar by the management company under subsection (1) shall be signed by at least one director of the management company.
-
-(3) A company to which subsection (1) applies shall, if so requested by any holder of an interest to which the deed relates within a period of one month after the end of the financial year, send by post or cause to be sent by post to the holder, within two months after the end of the financial year, a copy of the documents which the company is required to lodge with the Registrar by virtue of subsection (1)(b) to (e).
-
-[Aust.s.85.]
-
-### Penalty for contravention of Division, etc.
-
-117\.—(1) Any person who —
-
-(a) contravenes or fails to comply with a provision of this Division; or
-
-(b) fails to comply with a covenant contained or deemed to be contained in any deed that is or at any time has been an approved deed,
-
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months.
-
-(2) A person shall not be relieved from any liability to any holder of an interest by reason of any contravention of, or failure to comply with, a provision of this Division.
-
-[Aust.s.86.]
-
-[15/84]
-
-### Winding up of schemes, etc.
-
-118\.—(1) Where the management company under a deed is in liquidation or where, in the opinion of the trustee or representative, the management company has ceased to carry on business or has, to the prejudice of holders of interests to which the deed relates, failed to comply with any provision of the deed, the trustee or representative shall summon a meeting of the holders.
-
-(2) A meeting under subsection (1) shall be summoned —
-
-(a) by sending by post notice of the proposed meeting at least 21 days before the proposed meeting to each holder at his last known address or, in the case of joint holders, to the joint holder whose name stands first in the company’s records; and
-
-(b) by publishing, at least 21 days before the proposed meeting, an advertisement giving notice of the meeting in at least 4 local daily newspapers, one each published in the English, Malay, Chinese and Tamil languages.
-
-(3) Section 111(2) shall apply to such a meeting as if the meeting were a meeting referred to in that section.
-
-(4) If at any such meeting a resolution is passed by a majority in number representing three-fourths in value of the holders of the interests present and voting either in person or by proxy at the meeting that the undertaking, scheme, enterprise, contract or arrangement to which the deed relates be wound up, the trustee or representative shall apply to the Court for an order confirming the resolution.
-
-(5) On an application by the trustee or representative the Court may, if it is satisfied that it is in the interest of the holders of the interests, confirm the resolution and may make such orders as it thinks necessary or expedient for the effective winding up of the undertaking, scheme, enterprise, contract or arrangement.
-
-[Aust.s.87.]
-
-### Power to exempt from compliance with Division and non-application of Division in certain circumstances
-
-119\.—(1) The Minister may, by notification in theGazette, exempt any person or class of persons, subject to such terms and conditions as are specified in the notification, from complying with all or any of the provisions of this Division in relation to any interest, or class of interests, specified in the notification, and may, by notification in theGazette, revoke such a notification or vary it in such manner as he thinks fit.
-
-(1A) Any person who contravenes or fails to comply with any of the conditions specified in the notification shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
-
-[36/2000 wef 22/01/2001]
-
-### Non-application of Division to personal representatives, etc.
-
-(2) This Division shall not apply in the case of the sale of any interest by a personal representative, liquidator, receiver or trustee in bankruptcy in the normal course of realisation of assets.
-
-[Aust.s.88.]
-
-### Liability of trustees
-
-120\.—(1) Subject to this section, any provision in a deed that is or at any time has been an approved deed, or in any contract with the holders of interests to which such a deed relates, shall be void in so far as it would have the effect of exempting a trustee or representative under the deed from, or indemnifying a trustee or representative against, liability for breach of trust where the trustee or representative fails to show the degree of care and diligence required of a trustee or representative.
-
-(2) Subsection (1) shall not invalidate —
-
-(a) any release otherwise validly given in respect of anything done or omitted to be done by a trustee or representative before the giving of the release; or
-
-(b) any provision enabling such a release to be given —
-
-(i) on the agreement thereto of a majority of not less than three-fourths of the holders of interests voting in person or by proxy at a meeting summoned for the purpose; and
-
-(ii) either with respect to specific acts or omissions or on the trustee or representative ceasing to act.
-
-[U.K.s.88.]
-
-[Aust. s. 89.]
+106\. [Repealed by S 236/2002 wef 01/07/2002]
 
 Division 7 —
 
@@ -6458,13 +4642,13 @@ for the transfer of listed securities
 
 (b) which are transferable by way of book-entry in the Depository Register and not by way of an instrument of transfer;
 
-“Depository” means the Central Depository (Pte) Limited established by Stock Exchange, or any other corporation approved by the Minister as a depository company or corporation for the purposes of this Act, which as a bare trustee operates the Central Depository System for the holding and transfer of book-entry securities;
+“Depository” means the Central Depository (Pte) Limited or any other corporation approved by the Minister as a depository company or corporation for the purposes of this Act, which as a bare trustee operates the Central Depository System for the holding and transfer of book-entry securities;
 
 “Depository Register” means a register maintained by the Depository in respect of book-entry securities;
 
 “depositor” means an account holder or a depository agent but does not include a sub-account holder;
 
-“depository agent” means a member company of the stock Exchange, a trust company (registered under the Trust Companies Act [Cap. 336]), a banking corporation or merchant bank (approved by the Monetary Authority of Singapore under the Monetary of Singapore Act) or any other person or body approved by the Depository who or which —
+“depository agent” means a member company of the Securities Exchange, a trust company (registered under the Trust Companies Act [Cap. 336]), a banking corporation or merchant bank (approved by the Monetary Authority of Singapore under the Monetary of Singapore Act) or any other person or body approved by the Depository who or which —
 
 (a) performs services as a depository agent for sub-account holders in accordance with the terms of a depository agent agreement entered into between the Depository and the depository agent;
 
@@ -6484,13 +4668,15 @@ for the transfer of listed securities
 
 “instrument” includes a deed or any other instrument in writing;
 
-“listed securities” means securities of a corporation that are listed on the and have not been delisted or had its quotation removed;
+“listed securities” means securities of a corporation that are listed on the Securities Exchange and have not been delisted or had its quotation removed;
 
 “rules” means the rules made by the Depository in relation to the operation of the Central Depository System and includes the Central Depository Rules and Procedures made by the Depository pursuant to its Articles of Association (as the same may be amended from time to time) and any rule with regard to payment of fees to the Depository;
 
-“securities”, in relation to the Depository, means debentures, stocks or shares, issued by a government, a body corporate or unincorporate, or international body or any right in respect of any such debentures, stocks or shares or any derivative instrument each of which is listed on the Stock Exchange and which has been designated by the Stock Exchange as eligible for deposit with the depository and for clearance and book-entry settlement of transactions on the Stock Exchange ;
+“securities”, in relation to the Depository, means debentures, stocks or shares, issued by a government, a body corporate or unincorporate, or international body or any right in respect of any such debentures, stocks or shares or any derivative instrument each of which is listed on the Securities Exchange and which has been designated by the Securities Exchange as eligible for deposit with the depository and for clearance and book-entry settlement of transactions on the Securities Exchange;
 
-“Stock Exchange” means the Stock Exchange of Singapore Limited;
+“Securities Exchange” means the Singapore Exchange Securities Trading Limited;
+
+[42/2001 wef 01/07/2002]
 
 “sub-account holder” means a holder of an account maintained with a depository agent.
 
@@ -6624,15 +4810,11 @@ those provisions shall not apply to any disposition of book-entry securities; bu
 
 [22/93]
 
-### Non-application of certain provisions in sections 21, 76A and 106E
+### Non-application of certain provisions in sections 21 and 76A
 
-130M\. Sections 21, 76A and 106E, insofar as these sections provide that a transfer or contract of sale of shares or debentures in contravention of either section shall be void, shall not apply to any disposition of book-entry securities; but a Court, on being satisfied that a disposition of book-entry securities would in the absence of this section be void, may, on the application of the Registrar or any other person, make the following order:
+130M\. Sections 21 and 76A, insofar as those sections provide that a transfer or contract of sale of shares or debentures in contravention of either section shall be void, shall not apply to any disposition of book-entry securities; but a Court, on being satisfied that a disposition of book-entry securities would in the absence of this section be void may, on the application of the Registrar or any other person, order the transfer of the shares acquired in contravention of either of those sections.
 
-(a) in the case of a contravention of section 21 or 76A, order the transfer of the share acquired in contravention of those sections; or
-
-(b) in the case of a contravention of section 106E, order the purchaser referred to in that section to transfer the shares or debentures, as the case may be, to the seller and may award damages to the purchaser.
-
-[22/93]
+[42/2001 wef 01/07/2002]
 
 ### Security interest
 
@@ -6702,7 +4884,7 @@ The provisions of sections 130I, 130J, 130L and 130M shall apply, mutatis mutand
 
 (22) Any security interest on book-entry securities created before 12th November 1993 and subsisting or in force on that date shall continue to have effect as if that Act had not been enacted.
 
-(23) In this section, “off-market transaction” means a transaction effected outside the Stock Exchange .
+(23) In this section, “off-market transaction” means a transaction effected outside the Securities Exchange.
 
 [22/93]
 
@@ -7682,7 +5864,7 @@ if a director or directors of the first-mentioned company is or together are int
 
 (13) In this section —
 
-(a) a reference to a participatory interest is a reference to an interest within the meaning of section 107; and
+(a) a reference to a participatory interest is a reference to a unit in a collective investment scheme within the meaning of section 2 of the Securities and Futures Act 2001; and
 
 (b) a reference to a person who holds or acquires shares, debentures or participatory interests or an interest in shares, debentures or participatory interests includes a reference to a person who under an option holds or acquires a right to acquire or dispose of a share, debenture or participatory interest or an interest in a share, debenture or participatory interest.
 
@@ -7784,7 +5966,9 @@ whichever last occurs;
 
 (6) In this section —
 
-(a) a reference to a participatory interest is a reference to an interest within the meaning of section 107; and
+(a) a reference to a participatory interest is a reference to a unit in a collective investment scheme within the meaning of section 2 of the Securities and Futures Act 2001; and
+
+[42/2001 wef 01/07/2002]
 
 (b) a reference to a person who holds or acquires shares, debentures or participatory interests or an interest in shares, debentures or participatory interests includes a reference to a person who under an option holds or acquires a right to acquire a share, debenture, or participatory interest or an interest in a share, debenture or participatory interest.
 
@@ -7830,7 +6014,7 @@ whichever last occurs;
 
 unless particulars with respect to the proposed payment, including the amount thereof, have been disclosed to the members of the company and the proposal has been approved by the company in general meeting and when any such payment has been unlawfully made the amount received by the director shall be deemed to have been received by him in trust for the company.
 
-(2) Where such a payment is to be made to a director in connection with the transfer to any person, as a result of an offer made to shareholders, of all or any of the shares in the company, that director shall take all reasonable steps to secure that particulars with respect to the proposed payment, including the amount thereof, shall be included in or sent with any notice of the offer made for their shares which is given to any shareholders, unless those particulars are furnished to the shareholders by virtue of section 213.
+(2) Where such a payment is to be made to a director in connection with the transfer to any person, as a result of an offer made to shareholders, of all or any of the shares in the company, that director shall take all reasonable steps to secure that particulars with respect to the proposed payment, including the amount thereof, shall be included in or sent with any notice of the offer made for their shares which is given to any shareholders, unless those particulars are furnished to the shareholders by virtue of any requirement of law relating to take-over offers or any requirement of the Take-over Code referred to in section 139 of the Securities and Futures Act 2001.
 
 (3) A director who fails to comply with subsection (2) and a person who has been properly required by a director to include in or send with any notice under this section the particulars required by that subsection and who fails to do so shall be guilty of an offence, and if the requirements of that subsection are not complied with any sum received by the director on account of the payment shall be deemed to have been received by him in trust for any person who has sold his shares as a result of the offer made.
 
@@ -9316,7 +7500,7 @@ he shall forthwith report the matter in writing to the Registrar.
 
 ## PART VII
 
-ARRANGEMENTS, RECONSTRUCTIONS AND TAKE-OVERS
+ARRANGEMENTS AND RECONSTRUCTIONS
 
 ### Power to compromise with creditors and members
 
@@ -9426,201 +7610,9 @@ and every company which makes default in complying with this section and every o
 
 [Aust. s. 183.]
 
-### Take-over offers
+213\. [Repealed by S 675/2001 wef 01/01/2002]
 
-213\.—(1) This section, section 214 and the Tenth Schedule apply to and in relation to all natural persons, whether resident in Singapore or not and whether citizens of Singapore or not, and to all bodies corporate or unincorporate, whether incorporated or carrying on business in Singapore or not, and extend to acts done or omitted to be done outside Singapore, and any reference to an offeror corporation or a corporation in this section, section 214 and in the Tenth Schedule shall be construed, with such modifications and qualifications as may be necessary, so as to include a reference to a natural person.
-
-(2) In this section, section 214 and in the Tenth Schedule —
-
-“offeree company”, in relation to a take-over scheme or a take-over offer, means a public company to shares in which the scheme or offer relates;
-
-“offeror corporation”, in relation to a take-over scheme or a take-over offer, means the corporation by or on behalf of which any take-over offer under the scheme, or the take-over offer, is made or to be made;
-
-“take-over offer” means an offer for the acquisition of shares under a take-over scheme;
-
-“take-over scheme” means a scheme involving the making of offers for the acquisition by or on behalf of a corporation —
-
-(a) of all the shares in another company or of all the shares of a particular class in another company; or
-
-(b) of any shares in another company which results in the first-mentioned corporation acquiring effective control of that other company.
-
-[15/84]
-
-(3) For the purposes of this section, acquiring effective control means the acquiring of shares in an offeree company which (together with shares, if any, already held by the offeror corporation or by any other corporation that is deemed by virtue of section 6 to be related to that corporation) carry the right to exercise, or control the exercise of not less than 25% of the votes attached to the voting shares of that company.
-
-[15/84]
-
-[13/87]
-
-(4) A take-over offer shall not be made unless —
-
-(a) the offeror corporation has, not earlier than 28 days and not later than 14 days, before the offer is made, given or caused to be given to the offeree company notice in writing of the take-over scheme containing particulars of the terms of the take-over offers to be made under the scheme, together with a statement that complies with the requirements set out in Part B of the Tenth Schedule; and
-
-(b) the offer complies with the requirements set out in Part A of that Schedule and there is attached to the offer —
-
-(i) a copy of the statement given or caused to be given by the offeror corporation to the offeree company in pursuance of paragraph (a); and
-
-(ii) if the offeree company gives or causes to be given to the offeror corporation a statement in pursuance of subsection (5)(a) — a copy of that statement.
-
-[15/84]
-
-(5) Where an offeree company receives a notice and statement given in pursuance of subsection (4), the offeree company shall either —
-
-(a) give or cause to be given to the offeror corporation, within 14 days after the receipt of the notice and statement, a statement in writing that complies with the requirements set out in Part C of the Tenth Schedule; or
-
-(b) give or cause to be given to each holder of shares in the offeree company to which the take-over scheme relates, within 14 days after take-over offers are first made to shareholders under the take-over scheme, such a statement in writing.
-
-[15/84]
-
-(6) A statement, given or caused to be given by an offeree company in pursuance of subsection (5), may contain such information in addition to that required by Part C of the Tenth Schedule as the directors of the offeree company think fit.
-
-(7) Where take-over offers are made under a take-over scheme, the offeror corporation shall forthwith give notice in writing to the offeree company that offers have been made under the scheme and of the date of the offers.
-
-(8)(a)
-
-(i) The offeror corporation shall, on the same day that it gives or causes to be given to the offeree company a notice in writing pursuant to subsection (4) or section 214(4) and on the same day that it despatches the take-over offer, lodge a copy of that notice and take-over offer with the Registrar and with a stock exchange, if the offeree company is quoted on the stock exchange.
-
-(ii) The offeree company shall on the same day that it gives or causes to be given a statement in writing pursuant to subsection (5)(a) lodge a copy of that statement with the Registrar and with a stock exchange, if the offeree company is quoted on the stock exchange.
-
-(b)
-
-The Registrar shall, on the application of the offeror corporation or the offeree company, as the case may be, have power to permit the offeror corporation or the offeree company at any time prior to the offer being made —
-
-(i) to amend any such notice or statement in writing lodged with him pursuant to paragraph (a); or
-
-(ii) to substitute a fresh notice or statement in writing for an earlier notice or statement lodged with him pursuant to paragraph (a),
-
-in such manner and subject to such terms as he considers are justified by the circumstances of the case but in any such event time shall begin to run from the date of the first notice or statement in writing.
-
-[15/84]
-
-(9)(a) A corporation which has no real intention to make an offer in the nature of a take-over offer shall not give notice or publicly announce that it intends to make a take-over offer whether under this Act or otherwise.
-
-[15/84]
-
-(b)
-
-A corporation shall not make a take-over offer or give notice or publicly announce that it intends to make such an offer if it has no reasonable or probable grounds for believing that it will be able to perform its obligations if the offer is accepted.
-
-(c)
-
-Every corporation which has a firm intention to make a take-over offer shall make a public announcement of that intention in the newspapers giving the terms of the offer and the identity of the offeror and shall take steps to give or cause to be given the notice in writing of the take-over scheme referred to in subsection (4)(a) to the offeree company so that the notice is given as soon as practicable after the public announcement is made and in any event within 14 days of such announcement unless the Registrar agrees to an extension beyond this period in the special circumstances of any particular case.
-
-In this paragraph, a corporation shall be conclusively presumed to have a firm intention to make a take-over offer from the date that it acquires effective control of an offeree company.
-
-(d)
-
-Where the offeror corporation has stated in a public announcement that the making of the take-over offer is subject to the fulfilment of certain conditions which are specified in the announcement, the offeror corporation shall notwithstanding paragraph (c), give or cause to be given a notice in writing of the scheme referred to in subsection (4)(a) to the offeree company within 14 days of the fulfilment of those conditions.
-
-[13/87]
-
-[13/87]
-
-(10) If a take-over offer under a take-over scheme is withdrawn, a contract arising from the acceptance of any other take-over offer under the take-over scheme is voidable at the option of a shareholder of an offeree company who has accepted that other take-over offer by notice in writing given to the offeror corporation not later than one month after the first-mentioned take-over offer is withdrawn.
-
-[15/84]
-
-(10A) Nothing in this section and the Tenth Schedule shall be construed as placing an obligation upon an offeror corporation —
-
-(a) to extend a take-over offer to the holders of any class of share capital in the offeree company which carries votes; and
-
-(b) to comply with this section and the Tenth Schedule where the offeror corporation (together with any corporation that is deemed by section 6 to be related to the offeror corporation) holds shares carrying more than 50% of the voting rights attributable to the share capital of the offeree company before the take-over offer is made.
-
-[13/87]
-
-(11) Notwithstanding anything in the articles of an offeree company or in the document by which an offeree company is constituted, the directors of the offeree company are entitled to have refunded to them by the company any expenses reasonably incurred by them in the interests of the members of the company as a whole in relation to a take-over scheme involving the acquisition of the shares in the company.
-
-[15/84]
-
-(12)(a) Where a take-over offer is made in contravention of this section or an offeror corporation fails to comply with subsections (7), (8) and (9), the offeror corporation and every officer of the corporation who is in default shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 5 years.
-
-(b)
-
-Where an offeree company fails to comply with subsection (5), the offeree company, and every officer of that company who is in default shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 5 years.
-
-[15/84]
-
-(13) Sections 55 and 56 shall apply to and in relation to a statement given by an offeror corporation to an offeree company in pursuance of subsection (4)(a), and to any copy of such a statement, as if —
-
-(a) each reference in those sections to a prospectus were a reference to such a statement or a copy of such a statement;
-
-(b) the reference in section 55(1) to persons who subscribe for or purchase any shares or debentures were a reference to a person who accepts a take-over offer; and
-
-(c) each reference in those sections to the allotment or sale of shares or debentures were a reference to the acceptance of a take-over offer.
-
-(14) Regulations may be made varying the requirements set out in any part of the Tenth Schedule either by omitting or altering any such requirement or by adding additional requirements and any reference in this section to the requirements of a part of the Tenth Schedule shall be read as a reference to those requirements as so varied from time to time.
-
-(15) The Minister may, by order, exempt a corporation or an individual, as specified in the order and subject to such terms and conditions, if any, as are specified in the order, from compliance with all or any of the provisions of this section or of the requirements set out in the Tenth Schedule where, in any particular case, he is satisfied that compliance therewith is inappropriate or would impose an unreasonable burden on the corporation or individual or is not in the public interest.
-
-[15/84]
-
-(16) Regulations may be made requiring the lodging with the Registrar or a stock exchange, or the body, panel or committee that is specified in the notice referred to in subsection (17), or all of them of —
-
-(a) copies of any notice or statement given in pursuance of this section; or
-
-(b) notice in the prescribed form and containing such particulars as are prescribed of the giving of or of the intention to give such a notice or statement.
-
-[49/73]
-
-(17) For the more effective administration, supervision and control of take-overs and mergers the Minister may if he thinks it necessary in the public interest or for the protection of investors by notice direct, from such date as may be specified in the notice, that —
-
-(a) all parties concerned in a take-over or merger transaction shall, in addition to complying with this section and the Tenth Schedule, be bound to abide by such general principles and rules of a non-statutory nature as he may specify in the notice; and
-
-(b) such body, panel or committee as the Minister may designate in the notice shall administer and enforce those general principles and rules.
-
-[49/73]
-
-(18)(a) The Minister, pursuant to a notice made under subsection (17), has specified that a non-statutory code known as the Singapore Code on Take-Overs and Mergers (referred to in this section as the Code) shall have effect in relation to take-over and merger transactions and the Code shall be administered and enforced by a body known as the Securities Industry Council.
-
-(b)
-
-The Minister, on the advice of the Securities Industry Council, may from time to time revise the Code by varying, amending or adding to the provisions thereof and any revision thereof shall be published in theGazette.
-
-(c)
-
-The Securities Industry Council may from time to time issue rulings on the interpretation of the general principles and rules in the Code and lay down the practice to be followed by parties concerned in a take-over or merger transaction and such rulings or practice shall be final and not be capable of being challenged in any court.
-
-(d)
-
-A failure of any party concerned in a take-over or merger transaction to observe any of the provisions of the Code shall not of itself render that party liable to criminal proceedings but any such failure may, in any proceedings whether civil or criminal, be relied upon by any party to the proceedings as tending to establish or to negative any liability which is in question in the proceedings.
-
-(e)
-
-Nothing in paragraph (d) shall be construed as preventing the Securities Industry Council from invoking such sanctions (including public censure) as it may decide in relation to breaches of the Code by parties to a take-over or merger transaction.
-
-(f)
-
-Where the Securities Industry Council has reason to believe that any party to a take-over or merger transaction or any financial adviser who is concerned in the take-over or merger is in breach of the provisions of the Code or is otherwise believed to have committed acts of misconduct in relation to or connected with a take-over or merger transaction, the Securities Industry Council shall have power to enquire into the suspected breach or misconduct and for this purpose may summon any person to give evidence on oath or affirmation, which it is hereby authorised to administer, or produce any document or material necessary for the purpose of the enquiry.
-
-(g)
-
-The Securities Industry Council shall not in the absence of malice on its part be liable to any action for defamation at the suit of any person in respect of any statements made in the discharge of its functions under the Code whether the statements are made orally or in writing. This paragraph does not restrict or affect any other right or privilege or immunity that the Securities Industry Council has as a defendant in an action for defamation.
-
-[10/74]
-
-[15/84]
-
-[49/73]
-
-[15/84]
-
-[13/87]
-
-### Variation of take-over offers
-
-214\.—(1) An offeror corporation may vary a take-over offer by increasing the consideration offered either in relation to the whole or part thereof.
-
-(2) An offeror corporation may vary a take-over offer by extending the period during which it remains open for acceptance and where an offeror corporation so varies a take-over offer which is conditional upon acceptances being received in respect of a minimum percentage of shares it may vary the date specified in the take-over for declaring the take-over offer to be unconditional as required by paragraph 4(a) of Part A of the Tenth Schedule (so long as such varied date is not later than 60 days from the date of despatch of the offer, unless the Registrar in a competitive situation agrees to an extension beyond this period) and it may vary the further period during which the take-over offer is, in accordance with paragraph 4(b), open for acceptance after the take-over offer is declared unconditional (provided such further period is not less than 14 days after the varied date on which the offer would otherwise have expired).
-
-(3) Where the consideration offered for the shares proposed to be acquired under the take-over offer is varied under subsection (1), each person whose shares are acquired before or after the variation under a like take-over offer is entitled to receive consideration as varied accordingly.
-
-(4) Where an offeror corporation varies a take-over offer, it shall forthwith give to the offeree company and to each shareholder of the offeree company to whom a like take-over offer has been made a notice in writing in accordance with subsection (5) and shall forthwith lodge with the Registrar and a stock exchange (if such corporation is a corporation that is quoted on that stock exchange) a copy of that notice.
-
-(5) The notice shall set out in an appropriate form particulars of such modifications of the Part B statement given under section 213(4)(a) as are necessary having regard to the variations.
-
-(6) For the avoidance of doubt, it is hereby declared that when a take-over offer is varied in accordance with this section, it shall not be necessary for the offeror corporation to give or cause to be given to the offeree company a fresh notice in writing of the take-over scheme pursuant to section 213(4) and the take-over as varied shall be deemed to be part of the take-over scheme.
-
-[15/84]
+214\. [Repealed by S 675/2001 wef 01/01/2002]
 
 ### Power to acquire shares of shareholders dissenting from scheme or contract approved by 90% majority
 
@@ -13120,47 +11112,7 @@ Division 2 —
 
 Offences
 
-### Restriction on offering shares, debentures, etc., for subscription or purchase
-
-400\.—(1) A person shall not, whether by appointment or otherwise, go from place to place —
-
-(a) offering shares for subscription or purchase to the public or any member of the public; or
-
-(b) seeking or receiving offers to subscribe for or to purchase shares from the public or from any member of the public.
-
-(2) The Minister may, by order published in theGazette, exempt —
-
-(a) any person or class of persons; or
-
-(b) any class or description of shares,
-
-from compliance with subsection (1), subject to such conditions as may be specified in the order.
-
-[36/2000 wef 22/01/2001]
-
-(3) (Deleted by Act 40/89).
-
-(4) (Deleted by Act 40/89).
-
-(5) Every person who acts, incites, causes or procures any person to act in contravention of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and in the case of a second or subsequent offence to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.
-
-[15/84]
-
-(6) Where a person convicted of an offence under this section is a corporation, every officer concerned in the management of the corporation shall be guilty of the like offence unless he proves that the act constituting the offence took place without his knowledge or consent.
-
-(7) Where any person is convicted of having made an offer in contravention of this section, the court before which he is convicted may order that any contract made as a result of the offer shall be void and may give such consequential directions as it thinks proper for the repayment of any money or the retransfer of any shares; and an appeal against the order and any consequential directions shall lie to the Court.
-
-(8) (Deleted by Act 40/89).
-
-(9) In this section, shares means shares of a corporation whether a corporation in existence or to be formed and includes debentures and units and (without affecting the generality of the expression debentures) all such documents (including those referred to as bonds) as confer or purport to confer on the holder thereof any claim against a corporation, whether such claim is present or future or certain or contingent or ascertained or sounding only in damages and also includes any interest to which Division 6 of Part IV applies.
-
-(10) In this section, a reference to an offer or offering of shares for subscription or purchase shall be construed as including an offer of shares by way of barter or exchange.
-
-[40/89]
-
-(11) For the purposes of subsection (1), a person shall not in relation to a corporation be regarded as not being a member of the public by reason only that he is a holder of shares in the corporation or a purchaser of goods from the corporation.
-
-[Aust.s.374.]
+400\. [Repealed by S 236/2002 wef 01/07/2002]
 
 ### False and misleading statement
 
@@ -13426,8 +11378,6 @@ Miscellaneous
 
 (b) all matters connected with or arising out of the judicial management of a company by a judicial manager including the appointment of the judicial manager;
 
-(ba) any offer to the public of shares or debentures that is exempted from the prospectus requirements under Division 5A of Part IV;
-
 (c) the lodging or registration of documents and the time and manner of submission of documents for lodging or registration;
 
 (d) prescribing forms for the purposes of this Act;
@@ -13484,27 +11434,15 @@ Fees to be Paid to the Registrar
 
 By a Company having a Share Capita1
 
-1. For registration of a company whose nominal share capital does not exceed $100,000
-
-$1,200
-
-S 279/91.
-
-2. For registration of a company whose nominal share capital exceeds $100,000, in addition to the fee of $1,200 in item 1, the following fees:
-
-(a) For every $100,000 of nominal share capital or part of $100,000 after the first $100.000 up to $1,000,000
-
-$400
-
-(b) For every $1,000,000 of nominal share capital or part of $1,000,000 after the first $1,000,000
+1. For the incorporation of a local company with share capital and the issue of a certificate of incorporation by the Registrar
 
 $300
 
 S 279/91.
 
-3. On lodging notice of increase of share capital - an amount equal to the difference (if any) between the amount which would have been payable under the Act on first registration by reference to its capital as increased and the amount which would have been payable under the Act by reference to its capital immediately before the increase:
+2.Deleted by S 28/2002, wef 15/01/2002.
 
-Provided that no company shall be liable to pay in respect of nominal share capital on registration or thereafter any greater amount of fees than $35,000 taking into account in the case of fees payable on an increase of share capital after registration the fees paid on registration.
+3.Deleted by S 28/2002, wef 15/01/2002.
 
 4. For registration of a company not having a share capital
 
@@ -13518,29 +11456,27 @@ S 279/91
 
 Other Fees
 
-7. For every application for consent of the Minister to use of a name by a corporation
+7. For every application for consent of the Minister to use of a name by a corporation and order of the Minister granting consent to use of a name by a corporation
 
-$25
+$100
 
-8. For every order of the Minister granting consent to use of a name by a corporation
+8. On submitting any other application to the Minister under the Act
 
-$50
+$100
 
 9. For every approval of the Registrar to the change of the name of a company (otherwise than a change of name directed by the Registrar pursuant to section 28(3) or a change of name pursuant to section 29(2)
 
 $50
 
-10. For perusing memorandum or articles of a company in connection with an application for a licence under section 29
+10. For perusal of the memorandum or articles of a company in connection with an application for a licence under section 29, and the granting of a licence by the Minister to dispense with the word “Berhad” or “Limited” in the name of a company
 
 $100
 
-11. For every licence of the Minister to dispense with the word Berhad or Limited in the name of a company
-
-$100
+11.Deleted by S 28/2002, wef 15/01/2002.
 
 12. For an approval of the Minister to alter the memorandum or articles of a company
 
-$10
+$100
 
 13. On lodgment of request to the Official Receiver to exercise the powers conferred by section 345 or 347*
 
@@ -13566,17 +11502,29 @@ $100
 
 The Registrar, if satisfied that just cause existed for the late lodgment may waive in whole or in part the additional fee.
 
-17. For the registration of a foreign company —
+17. For registration of a foreign company —
 
-(a) subject to paragraph (b), the appropriate fee prescribed in respect of a company registered or incorporated under Part III of the Act; and
-
-(b) where the fee prescribed in paragraph (a) is not applicable
+(a) where the company has a share capital which does not exceed $100,000
 
 $1,200
 
-S 279/91
+(b) where the company has a share capital which exceeds $100,000, in addition to the fee of $1,200 in paragraph (a), the following fees:
 
-18. On lodging by a foreign company of notice of increase in share capital or in the case of a foreign company not having a share capital on the lodging of notice of increase in number of members beyond its registered number — one-half of the prescribed fee payable on the increase in share capital or on the increase in the number of members of a company incorporated or registered under Part III of the Act
+(i) for every $100,000 of nominal share capital or part of $100,000 after the first $100,000 up to $1,000,000
+
+$400
+
+(ii) for every $1,000,000 of nominal share capital or part of $1,000,000 after the first $1,000,000
+
+$300
+
+(c) where the fees prescribed in paragraphs (a) and (b) are not applicable
+
+$1,200
+
+18. On lodging by a foreign company of notice of increase in share capital — one half of the amount equal to the difference (if any) between the amount which would have been payable under the Act on first registration by reference to its capital as increased and the amount which would have been payable under the Act by reference to its capital immediately before the increase:
+
+except that no foreign company shall be liable to pay in respect of nominal share capital on registration or thereafter any amount of fees greater than $35,000 taking into account in the case of fees payable on an increase of share capital after registration the fees paid on registration.";
 
 19. For registering particulars of each series of debentures where more than one issue in the series
 
@@ -13586,9 +11534,17 @@ $10
 
 $15
 
+20A. On an application submitted electronically for the approval and reservation of names
+
+$ 15 for each name approved
+
+20B. On an application for appeal on the approval and reservation of names submitted electronically
+
+$15 for each name applied
+
 21. For granting extension of time for the reservation of a name for a further period after the first reservation
 
-$5
+$10
 
 22. On lodging articles of association of a company
 
@@ -13598,29 +11554,11 @@ $10
 
 $10
 
-24. On lodging any deed or copy of a deed under section 109 or on lodging any prospectus or statement in lieu of prospectus or statements required under section 113
+24. On lodging a statement in lieu of prospectus
 
 $25
 
-25.—(1) For perusal of any prospectus, abridged or otherwise, any financial statement or accounts furnished in connection with any application for declaration as a prescribed corporation under section 44(7)(b), any take-over document (excluding Part C statement in the Tenth Schedule) or any statement required pursuant to Division 6 of Part IV including any trust deed
-
-$1,200
-
-(2) For perusal of any statement required pursuant to Division 6 of Part IV in respect of each subsequent issue or of any subsequent trust deed substituting or supplementing a subsisting trust deed made under Division 6 of Part IV
-
-$305
-
-(3) For perusal of any Statement of Material Facts required pursuant to section 106F
-
-$420
-
-(4) For perusal of any profile statement required under section 45A
-
-$600
-
-(5) For perusal of any supplementary or replacement document required under section 50A
-
-$1,200
+25.Deleted by Act 42/2001, wef 01/07/2002.
 
 26. For registering any charge created by a corporation
 
@@ -13638,9 +11576,7 @@ $10
 
 Government rates chargeable
 
-30. On lodging any application under section 53 or section 400
-
-$25
+30. Deleted by S 239/2002, wef 01/07/2002.
 
 31. On lodging any application to the Registrar under section 200
 
@@ -13650,9 +11586,9 @@ $50
 
 $50
 
-33. On lodging any other application
+33. On lodging any other application to the Registrar, excluding an application under section 23(2), 200 or 202
 
-$5
+$30
 
 33A. For every application to the Minister under section 23(2) for a licence to hold land
 
@@ -13662,7 +11598,7 @@ S 119/95 wef 1.4.95.
 
 33B. For every application for consent of the Minister to sell, mortgage or transfer any part of the land stated in the Minister’s licence to hold land under section 23(2)
 
-$50
+$100
 
 S 119/95 wef 1.4.95.
 
@@ -13684,13 +11620,9 @@ $25
 
 S 119/95 wef 1.4.95.
 
-33F For every application to the Registrar under section 46 or pursuant to any order made under section 46
+33FDeleted by Act 42/2001, wef 01/07/2002.
 
-$50
-
-33G For every application to the Minister under section 48 or 106B(2)(a)
-
-$100
+33GDeleted by Act 42/2001, wef 01/07/2002.
 
 34. For every certificate issued by the Registrar under the Act or any other Act
 
@@ -13831,14 +11763,6 @@ $0.80 per prescribed particular of a company.
 [S 61/97 wef 15/02/1997]
 
 [S 387/2000 wef 29/08/2000]
-
-[]
-
-[S 29/2001 wef 22/01/2001]
-
-[]
-
-[]
 
 THIRD SCHEDULE
 
@@ -14314,491 +12238,7 @@ Indemnity
 
 FIFTH SCHEDULE
 
-Sections 44(4), (5), 45(1), (2), (6), (8), 49(2). U.K. 4th Schedule. Aust. 5th Schedule. 15/84.
-
-Prospectus
-
-Part I
-
-Form of prospectus
-
-The prospectus shall be printed in type of a size no smaller than the type known as 8 point Times unless the Registrar, before the issuing, advertising, circulating or distributing of the prospectus in Singapore, certifies in writing, that the type and size of the printed letters are legible.
-
-Matters to be stated
-
-1\. The number of founders or management or deferred shares, if any, and the nature and extent of the interest of the holders of those shares in the property and profits of the company.
-
-2\. The number of shares, if any, fixed by the articles as the qualification of a director, and any provision in the articles as to the remuneration of the directors.
-
-3\. The names, descriptions, and addresses of all the directors or proposed directors except in the case of the directors of an issuing corporation that is a prescribed corporation under section 97(8), only the city or locality of the residence of the directors need be given.
-
-3A. The date of the prospectus.
-
-[36/2000 wef 22/01/2001]
-
-3B. A statement that a copy of the prospectus has been lodged with and registered by the Registrar and, immediately after that statement, another statement that the Registrar takes no responsibility as to the contents of the prospectus.
-
-[36/2000 wef 22/01/2001]
-
-3C. Where the persons making any report specified in Part II of this Schedule have made therein or have, without giving reasons, indicated therein any such adjustments as are mentioned in paragraph 31, a statement which is to be endorsed thereon or attached thereto by those persons, setting out the adjustments and giving the reasons for the adjustments.
-
-[36/2000 wef 22/01/2001]
-
-3D. A statement that no shares or debentures, or units of shares or debentures, as the case may be, shall be allotted on the basis of the prospectus later than 6 months after the date of the issue of the prospectus.
-
-[36/2000 wef 22/01/2001]
-
-3E. Where the prospectus contains any statement made by an expert or contains what purports to be a copy of or extract from a report, memorandum or valuation of an expert, the date on which the statement, report, memorandum or valuation was made and whether or not it was prepared by the expert for the purpose of incorporation in the prospectus.
-
-[36/2000 wef 22/01/2001]
-
-3F. The name of any person as a trustee for debenture holders, or as an auditor, a banker, a solicitor, a stock broker or share broker of the corporation or proposed corporation or for or in relation to the issue or proposed issue of shares or debentures, or units of shares or debentures, if, but only if —
-
-(a) that person has consented in writing before the issue of the prospectus to act in that capacity in relation to the prospectus; and
-
-(b) in the case of a company or proposed company, a copy, verified as prescribed, of the consent has been lodged with the Registrar.
-
-[36/2000 wef 22/01/2001]
-
-3G.—(1) Where the prospectus relates to shares in or debentures of, or units of shares in or debentures of, a foreign company that has been incorporated or is to be incorporated, the prospectus shall also contain particulars with respect to —
-
-(a) the instrument constituting, or defining the constitution of, the foreign company;
-
-(b) the enactments or provisions having the force of an enactment by or under which the incorporation of the company was effected or is to be effected;
-
-(c) an address in Singapore where such instrument, enactments or provisions or certified copies thereof may be inspected;
-
-(d) the date on which and the place where the company was or is to be incorporated; and
-
-(e) whether the company has established a place of business in Singapore and, if so, the address of its principal office in Singapore.
-
-(2) Sub-paragraph (1)(a), (b) and (c) shall not apply in the case of a prospectus issued more than 2 years after the date on which the company is entitled to commence business.
-
-(3) For the purposes of this paragraph, in the application of this Part to a foreign company, paragraph 2 of this Part shall have effect as if a reference to the constitution of the company were substituted for the reference to the articles.
-
-[36/2000 wef 22/01/2001]
-
-4. Where the prospectus relates to shares particulars as to —
-
-(a) the minimum amount which, in the opinion of the directors, must be raised by the issue of those shares in order to provide the sums, or, if any part thereof is to be defrayed in any other manner, the balance of the sums, required to be provided in respect of each of —
-
-(i) the purchase price of any property purchased or to be purchased which is to be defrayed in whole or in part out of the proceeds of the issue;
-
-(ii) any preliminary expenses payable by the company, and any commission so payable to any person in consideration of his agreeing to subscribe for, or of his procuring or agreeing to procure subscriptions for, any shares in the company;
-
-(iii) the repayment of any money borrowed by the company in respect of any of the foregoing matters; and
-
-(iv) working capital; and
-
-(b) the amounts to be provided in respect of the matters aforesaid otherwise than out of the proceeds of the issue and the sources out of which those amounts are to be provided.
-
-5\. The nature of the company’s business and the names of all corporations which are by virtue of section 6 of the Act deemed to be related to the company.
-
-6\. The time of the opening of the subscription lists.
-
-7\. The amount payable on application and allotment on each share or where such amount may vary during the currency of the offer, the basis of calculation of the amount so payable and, in the case of a second or subsequent offer of shares, the number, description and amount offered for subscription on each previous allotment made within the two preceding years, the number actually allotted, and the amount, if any, paid on the shares so allotted.
-
-8. The number, description, and amount of any shares in or debentures of the company which any person has, or is entitled to be given, an option to subscribe for, together with the following particulars of the option:
-
-(a) the period during which it is exercisable;
-
-(b) the price to be paid for shares or debentures subscribed for under it;
-
-(c) the consideration, if any, given or to be given for it or for the right to it;
-
-(d) the names and addresses of the persons to whom it or the right to it was given or, if given to existing shareholders or debenture holders as such, the relevant shares or debentures.
-
-9\. The number and amount of shares and debentures which within the two preceding years have been issued, or agreed to be issued, as fully or partly paid up otherwise than in cash, and in the latter case the extent to which they are so paid up, and in either case the consideration for which those shares or debentures have been issued or are proposed or intended to be issued.
-
-10.—(1) With respect to any property to which this paragraph applies —
-
-(a) the names and addresses of the vendors;
-
-(b) the amount payable in cash, shares, or debentures to the vendor and, where there is more than one separate vendor, or the corporation is a sub-purchaser, the amount so payable to each vendor;
-
-(c) short particulars of any transaction relating to the property completed within the two preceding years in which any vendor of the property to the corporation or any person who is, or was at the time of the transaction, a promoter or a director or proposed director of the corporation had any interest direct or indirect.
-
-(2) The property to which this paragraph applies is property purchased or acquired by the corporation or by any subsidiary of the corporation or proposed so to be purchased or acquired, which is to be paid for wholly or partly out of the proceeds of the issue offered for subscription by the prospectus or the purchase or acquisition of which has not been completed at the date of the issue of the prospectus, other than property the contract for the purchase or acquisition whereof was entered into in the ordinary course of the corporation’s or the subsidiary’s business, the contract not being made in contemplation of the issue nor the issue in consequence of the contract.
-
-11\. The amount, if any, paid or payable as purchase money in cash, shares, or debentures for any property to which paragraph 10 applies, specifying the amount, if any, payable for goodwill.
-
-12\. The amount, if any, paid within the two preceding years, or payable, as commission (but not including commission to sub-underwriters) for subscribing or agreeing to subscribe, or procuring or agreeing to procure subscriptions, for any shares in or debentures of the corporation, or the rate of any such commission, and the names of any directors or promoters or experts or proposed directors who are entitled to receive any such commission and the amount or rate thereof.
-
-13\. The amount or estimated amount of preliminary expenses and the persons by whom any of these expenses have been paid or are payable, and the amount or estimated amount of the expenses of the issue and the persons by whom any of those expenses have been paid or are payable.
-
-14\. Any amount or benefit paid or given within the two preceding years or intended to be paid or given to any promoter, and the consideration for the payment or the giving of the benefit.
-
-15\. The date of, parties to, and general nature of every material contract, not being a contract entered into in the ordinary course of the business carried on or intended to be carried on by the corporation or a contract entered into more than two years before the date of issue of the prospectus.
-
-16\. The names and addresses of the auditors of the corporation.
-
-17\. Full particulars of the nature and extent of the interest, direct or indirect, if any, of every director and of every expert in the promotion of, or in the property proposed to be acquired by, the corporation, or, where the interest of such a director or such an expert consists in being a partner in a firm or a holder of shares or debentures in a corporation the nature and extent of the interest of the firm, or corporation and where the interest of such a director or such an expert consists in a holding of shares or debentures in a corporation a statement of the nature and extent of the interest of the director or expert in the corporation, with a statement of all sums paid or agreed to be paid to him or to the firm in cash or shares or otherwise by any person in the case of a director either to induce him to become, or to qualify him as, a director, or otherwise for services rendered by him or by the firm or corporation in connection with the promotion or formation of the corporation or (in the case of an expert) for services rendered by him or the firm or corporation in connection with the promotion or formation of the corporation. For the purposes of this paragraph, a director or expert shall be deemed to have an indirect interest in a corporation if he has any beneficial interest in shares or debentures of a corporation which has an interest in the promotion of, or in the property proposed to be acquired by the corporation or if he has any beneficial interest in shares or debentures in a corporation which is by virtue of section 6 deemed to be related to that first-mentioned corporation.
-
-18\. Where the prospectus relates to shares, if the share capital of the corporation is divided into different classes of shares, the right of voting at meetings of the corporation conferred by, and the rights in respect of capital and dividends attached to, the several classes of shares respectively.
-
-19\. In the case of a corporation which has been carrying on business, or of a business which has been carried on, for less than 3 years, the length of time during which the business of the corporation or the business to be acquired, as the case may be, has been carried on.
-
-Part II
-
-Reports to be set out
-
-20.—(1) A report by an approved company auditor, who shall be named in the prospectus with respect to —
-
-(a) profits and losses and assets and liabilities of the corporation and of any guarantor corporation referred to in the prospectus, in accordance with sub-paragraph (2) or (3), as the case requires; and
-
-(b) the rates of the dividends, if any, paid by the corporation in respect of each class of shares in respect of each of the 3 financial years immediately preceding the issue of the prospectus, giving particulars of each such class of shares on which such dividends have been paid and particulars of the cases in which no dividends have been paid in respect of any class of shares in respect of any of those years,
-
-and, if no accounts have been made up in respect of any part of the period of 3 years ending on a date 3 months before the issue of the prospectus, containing a statement of that fact.
-
-(2) If the corporation or the guarantor corporations have no subsidiaries, the report shall —
-
-(a) so far as regards profits and losses, deal with the profits or losses of the corporation and of the guarantor corporations referred to in the prospectus in respect of each of the 3 financial years immediately preceding the last date to which the accounts of the corporation or the guarantor corporations were made up;
-
-(b) so far as regards assets and liabilities, deal with the assets and liabilities of the corporation and of the guarantor corporations referred to in the prospectus at the last date to which the accounts of the corporation and the guarantor corporations were made up,
-
-which date shall in no case be more than 9 months (or if the Registrar having regard to the circumstances of any particular case consents thereto in writing, 12 months) before the issue of the prospectus.
-
-(3) If the corporation or the guarantor corporations have subsidiaries, the report shall —
-
-(a) so far as regards profits and losses —
-
-(i) deal as aforesaid separately with the corporation’s and the guarantor corporations’ (other than subsidiaries) profits or losses as provided by sub-paragraph (2) and in addition deal as aforesaid either —
-
-(A) as a whole with the combined profits or losses of their subsidiaries; or
-
-(B) individually with the profits or losses of each subsidiary; or
-
-(ii) deal as aforesaid as a whole with the profits or losses of the corporation and of the guarantor corporations and with the combined profits or losses of their subsidiaries; and
-
-(b) so far as regards assets and liabilities, deal as aforesaid separately with the corporation’s and the guarantor corporations’ (other than subsidiaries) assets and liabilities as provided by sub-paragraph (2) and in addition deal as aforesaid either —
-
-(i) as a whole with the combined assets and liabilities of its or their subsidiaries, with or without the corporation’s assets and liabilities; or
-
-(ii) individually with the assets and liabilities of each subsidiary,
-
-and shall indicate as respects the profits or losses and assets and liabilities of the subsidiaries the allowance to be made for persons other than members of the corporation.
-
-(4) If the prospectus relates to shares in or debentures of the borrowing corporation the report shall state separately estimates of the amounts of moneys owing and payable to the corporation and the amounts of all liabilities payable by the borrowing corporation —
-
-(a) not later than two years;
-
-(b) later than two years but not later than 5 years; and
-
-(c) later than 5 years,
-
-calculated from the last date to which the accounts of the borrowing corporation were made up.
-
-21. If the proceeds, or any part of the proceeds, of the issue of the shares or debentures are to be applied directly or indirectly in the purchase of any business, a report by an approved company auditor (who shall be named in the prospectus) with respect to —
-
-(a) the profits or losses of the business in respect of each of the 3 financial years immediately preceding the last date to which the accounts of the business were made up; and
-
-(b) the assets and liabilities of the business at the last date to which the accounts of the business were made up,
-
-which date shall in no case be more than 6 months before the issue of the prospectus.
-
-22.—(1) If —
-
-(a) the proceeds, or any part of the proceeds, of the issue of the shares or debentures are to be applied directly or indirectly in any manner resulting in the acquisition by the corporation of shares in any other corporation; and
-
-(b) by reason of that acquisition or anything to be done in consequence thereof or in connection therewith that corporation will become a subsidiary of the corporation,
-
-a report by an approved company auditor (who shall be named in the prospectus) with respect to —
-
-(c) the profits or losses of the other corporation in respect of each of the 3 financial years immediately preceding the last date to which the accounts of the corporation were made up; and
-
-(d) the assets and liabilities of the other corporation at the last date to which the accounts of the corporation were made up,
-
-which date shall in no case be more than 6 months before the issue of the prospectus.
-
-(2) The report shall —
-
-(a) indicate how the profits or losses of the other corporation dealt with by the report would, in respect of the shares to be acquired, have concerned members of the corporation and what allowance would have fallen to be made, in relation to assets and liabilities so dealt with, for holders of other shares, if the corporation had at all material times held the shares to be acquired; and
-
-(b) where the other corporation has subsidiaries, deal with the profits or losses and the assets and liabilities of the corporation and its subsidiaries in the manner provided by paragraph 20(3) in relation to the corporation and its subsidiaries.
-
-23. A report by the directors as to whether after due inquiry by them in relation to the interval between the date to which the last accounts have been made up and a date not earlier than 14 days before the issue of the prospectus —
-
-(a) the business of the corporation and its subsidiaries has in their opinion been satisfactorily maintained;
-
-(b) there have in their opinion arisen since the last annual general meeting of the corporation any circumstances adversely affecting the trading or the value of the assets of the corporation or any of its subsidiaries;
-
-(c) the current assets of the corporation and of its subsidiaries appear in the books at values which are believed to be realisable in the ordinary course of business;
-
-(d) there are any contingent liabilities by reason of any guarantees given by the corporation or any of its subsidiaries; or
-
-(e) there are, since the last annual report, any changes in published reserves or any unusual factors affecting the profit of the corporation and its subsidiaries,
-
-and where any report is required pursuant to this paragraph it shall contain full details of all matters required to be dealt with in the report.
-
-Part III
-
-Provisions applying to Parts I and II of this Schedule
-
-24\. Paragraphs 2, 13 (so far as they relate to preliminary expenses), and 17 shall not apply in the case of a prospectus issued more than two years after the date at which the company is entitled to commence business.
-
-25. Every person shall, for the purposes of this Schedule, be deemed to be a vendor who has entered into any contract, absolute or conditional, for the sale or purchase, or for any option of purchase, of any property to be acquired by the corporation in any case where —
-
-(a) the purchase money is not fully paid at the date of the issue of the prospectus;
-
-(b) the purchase money is to be paid or satisfied wholly or in part out of the proceeds of the issue offered for subscription by the prospectus; or
-
-(c) the contract depends for its validity or fulfilment on the result of that issue.
-
-26\. Where any property to be acquired by the corporation is to be taken on lease this Schedule shall have effect as if the expression vendor included the lessor, and the expression purchase money included the consideration for the lease, and the expression sub-purchaser included a sub-lessee.
-
-27\. References in paragraph 8 to an option to subscribe for shares or debentures shall include an option to acquire them from a person to whom they have been allotted or agreed to be allotted with a view to his offering them for sale, but shall not include an option to subscribe for or acquire shares pursuant to a bona fide underwriting or sub-underwriting agreement.
-
-28\. For the purposes of paragraph 10 where the vendors or any of them are a firm, the members of the firm shall not be treated as separate vendors.
-
-29\. If in the case of a corporation which has been carrying on business, or of a business which has been carried on, for less than 3 years, the accounts of the corporation or business have only been made up to 2 years or one year, Part II of this Schedule shall have effect as if references to 2 years or one year, as the case may be, were substituted for references to 3 years.
-
-29.
-
-[S 99/2001 wef 22/02/2001]
-
-30\. The expression financial year in Part II of this Schedule means the year in respect of which the accounts of the corporation or of the business, as the case may be, are made up, and where by reason of any alteration of the date on which the financial year of the corporation or business terminates the accounts of the corporation or business have been made up for a period greater or less than a year, that greater or less period shall for the purposes of that Part of this Schedule be deemed to be a financial year.
-
-31\. Any report required by Part II of this Schedule shall either indicate by way of note any adjustments as respects the figures of any profits or losses or assets and liabilities dealt with by the report which appear to the persons making the report necessary or shall make those adjustments and indicate that adjustments have been made.
-
-Part IV
-
-Additional matters to be included in prospectus relating to invitation to the public to deposit money with or lend money to a corporation
-
-32. Where section 44(4) of the Act applies there shall be included —
-
-(a) a statement to the effect that the repayment of all moneys that have been or may be deposited with or lent to the corporation in response to the invitation is secured by a first charge given to the trustee for the holders of the debentures to be issued in relation to the deposit or loan over land vested in the corporation or in any of its guarantor corporations and that the charge has been duly registered, or is a registrable mortgage which has been lodged for registration, in accordance with the law relating to the registration of land charges in the place where the land is situated and that the aggregate amount of such moneys and of all other liabilities, if any, secured by the charge over that land ranking pari passu with the liability to repay such moneys does not exceed 60% of the value of the corporation’s interest in that land as shown in the valuation included in the prospectus; and
-
-(b) a copy of a written valuation of the corporation’s interest in the land, so mortgaged, showing the nature and extent of the corporation’s interest made not more than 6 months before the date of the prospectus by a person competent and qualified to make the valuation in the place where the land is situated who is not an officer or employee of the corporation or of any of its guarantor corporations or of any corporation that by virtue of section 6 of the Act is deemed to be related to either the first-mentioned corporation or any of its guarantor corporations.
-
-33.—(1) Where section 44(5) of the Act applies there shall be included —
-
-(a) a statement to the effect —
-
-(i) that the repayment of all moneys that have been or may be deposited with or lent to the corporation in response to the invitation has been secured by a charge in favour of the trustee for the holders of the debentures over the whole or any part of the tangible assets of the corporation and of its guarantor corporations or of any of them; and
-
-(ii) that having regard to the particulars in the summary made in accordance with sub-paragraph (1)(b) the tangible assets secured by the charge are sufficient and are reasonably likely to be sufficient to meet the liability for the repayment of all such moneys and all other liabilities ranking in priority thereto or pari passu therewith that have been or may be incurred; and
-
-(b) a summary made by the approved company auditor who has made for inclusion in the prospectus the report required by Part II of this Schedule with respect to the assets and liabilities of the borrowing corporation showing in tabular form the aggregate values (based upon the amounts as disclosed in the statements of the assets and liabilities of the borrowing corporation and its guarantor corporations which have been prepared for the purposes of paragraphs 20 and 31) of the tangible assets of the borrowing corporation and of its guarantor corporations which have been charged to secure the repayment of all moneys referred to in sub-paragraph (1)(a) (i), after making such adjustments as are proper to give a true and fair view of the tangible assets available as security for the charge and, in particular, after making adjustments —
-
-(i) to exclude from those aggregate values such part of the value of any shares in or advances to a corporation as is reflected in or depends upon the tangible assets of that corporation which are otherwise included in the summary;
-
-(ii) to exclude from those aggregate values such part of the value of any shares in a corporation which is by virtue of section 6 of the Act deemed to be related to the borrowing corporation or its guarantor corporations, as the case requires, as is properly attributable to intangible assets of that first-mentioned corporation; and
-
-(iii) to add to those aggregate values the amount to be raised under the prospectus including the maximum amount of over-subscriptions which the prospectus in accordance with section 49 of the Act specifies may be retained.
-
-(2) In such summary the approved company auditor —
-
-(a) shall show the amounts outstanding out of the aggregate amounts borrowed respectively by the borrowing corporation and by its guarantor corporations distinguishing between those which will rank for repayment in priority to the proposed issue and those which will rank pari passu with that proposed issue;
-
-(b) shall state by way of note or otherwise the total amount of the values of intangible assets excluded in making the adjustments required under sub-paragraph (1)(b) (ii);
-
-(c) may, where a corporation has given a charge over its assets to secure a liability the amount of which may vary from time to time, take into account the actual amount of the liability as at the date at which the summary is made up but (in that event) shall show by way of note the further amount which may be advanced under that charge;
-
-(d) may explain or qualify by way of note or otherwise any of the matters set out in the summary;
-
-(e) shall disclose by way of note or otherwise the amount of advances by the borrowing corporation to any corporation which is by virtue of section 6 of the Act deemed to be related to the borrowing corporation distinguishing between advances which are secured and advances which are unsecured.
-
-34. In every prospectus which relates to debentures there shall be included —
-
-(a) particulars of the limitations on the amount that the corporation may borrow;
-
-(b) a statement as to the amount of subscriptions that are being sought;
-
-(c) a statement as to whether or not the corporation reserves the right to accept or retain over-subscriptions and, if the corporation reserves such a right, the limit on the right so reserved expressed as a sum of money;
-
-(d) where applicable, a statement as to whether or not the corporation has any right to create additional charges over any of the assets charged to secure the repayment of the deposits or loans which will rank in priority to or pari passu with that charge and if there is such a right particulars of its nature and extent.
-
-Part V
-
-Particulars to be included in an abridged prospectus relating to a renounceable rights issue where an application is being made for the shares in or debentures of a corporation to be quoted on or dealt in on any stock exchange
-
-Section 47
-
-1\. The date of the prospectus.
-
-2. The following statements shall be made by the corporation:
-
-“
-
-THIS DOCUMENT IS IMPORTANT" (to be in bold or coloured print).
-
-If you are in any doubt as to the action you should take, you should consult your stockbroker, bank manager, solicitor, accountant, or other professional adviser immediately." (to be in bold or coloured print).
-
-Copies of this document, together with copies of the provisional allotment letter and excess share application form, have been lodged with and registered by the Registrar in Singapore who takes no responsibility for the contents of the documents."
-
-Approval in principle has been obtained from the stock exchange for this rights issue and to deal in and for quotation for all the new securities arising from this issue and such new securities will be admitted to the official list of the stock exchange and official quotation will commence after all stock certificates have been issued."
-
-All the documentation relating to this issue has been seen and approved by the directors of the corporation and they collectively and individually accept full responsibility for the accuracy of the information given and confirm that after making all reasonable enquiries to the best of their knowledge and belief there are no other factors the omission of which would make any statement in these documents misleading.
-
-”.
-
-3\. Name of the corporation and its country of incorporation.
-
-4\. Particulars of the rights issue.
-
-5\. Names of the underwriters to the issue.
-
-Note: PARAGRAPHS 1 TO 6 MUST BE INCORPORATED IN THE FRONT PAGE OF THE ABRIDGED PROSPECTUS.
-
-6.—(a) The last day and time for splitting;
-
-(b)
-
-The last day and time for acceptance and payment;
-
-(c)
-
-The last day and time for renunciation and payment.
-
-7\. The registered office of the corporation.
-
-8\. The full name, address and occupation of all the directors.
-
-9\. The names and addresses of the bankers, solicitors, auditors and registrars.
-
-10. Terms and conditions of the issue — where listing is sought for shares which will not be identical with shares already listed —
-
-(a) a statement of the rights as regards dividends, capital redemption and voting attached to such shares and as to the right of the corporation to create or issue further shares to rank in priority to or rank pari passu therewith; and
-
-(b) a summary of the consents necessary for the creation of such rights.
-
-11\. Reasons and purpose of the issue — this should include a statement or an estimate of the net proceeds of the issue and a statement as to how the proceeds are intended to be applied.
-
-12. The profits, prospects and dividends of the group — there should be disclosed, subject to paragraph 29 of Part III, the following:
-
-(a) a tabulation for each of the last 3 financial years in the following format:
-
-Year ended
-
-Profit before tax
-
-Profit after tax
-
-Exceptional items
-
-Gross earnings per share
-
-Gross rate of dividend
-
-(b) a statement as to the financial and trading prospects of the corporation or group, together with any material information which will be relevant thereto, including all special trade factors or risks (if any) which are not mentioned elsewhere in the prospectus and which are unlikely to be known or anticipated by the general public and which could materially affect the profits; and
-
-(c) a statement by the directors that in their opinion the working capital available is sufficient, or, if not, how it is proposed to provide the additional working capital thought by the directors to be necessary.
-
-13.—(1) Where the date of registration of the prospectus for a rights issue is within 6 months of the last audited accounts, the last audited accounts shall be disclosed in the prospectus.
-
-(2) Where the date of registration of the prospectus for a rights issue is more than 6 months, but less than 12 months of the last audited accounts, the last audited accounts, together with the half-year interim unaudited profits, shall be included in the prospectus.
-
-(3) No prospectus shall contain audited accounts made up to a date which is more than 12 months to the date of registration of the prospectus.
-
-14. A table or statement indicating —
-
-(a) the net asset backing per share of the corporation and the group as at the date of the last audited accounts; and
-
-(b) the effect of the rights issue on the net asset backing per share.
-
-15. A statement that no shares or debentures, shares and debentures, units of shares or debentures, or units of shares and debentures, as the case may be, shall be allotted on the basis of the prospectus later than 6 months after the date of the issue of the prospectus.
-
-[36/2000 wef 22/01/2001]
-
-16. Where the prospectus contains any statement made by an expert or contains what purports to be a copy of or extract from a report, memorandum or valuation of an expert, the date on which the statement, report, memorandum or valuation was made and whether or not it was prepared by the expert for the purpose of incorporation in the prospectus.
-
-[36/2000 wef 22/01/2001]
-
-17. The name of any person as a trustee for debenture holders, or as an auditor, a banker, a solicitor, a stock broker or share broker of the corporation or proposed corporation or for or in relation to the issue or proposed issue of shares or debentures, or units of shares or debentures, if, and only if —
-
-(a) that person has consented in writing before the issue of the prospectus to act in that capacity in relation to the prospectus; and
-
-(b) in the case of a company or proposed company, a copy, verified as prescribed, of the consent has been lodged with the Registrar.
-
-[36/2000 wef 22/01/2001]
-
-Part VI
-
-Section 106F 40/89
-
-Statement of Material Facts
-
-____________________________________________________________________________
-
-Copies of this document have been lodged with the Registrar and the Stock Exchange of Singapore Ltd. who or which takes no responsibility for the contents of the document. Neither has the Registrar nor the Stock Exchange in any way considered the merits of the *shares/debentures as an investment.
-
-____________________________________________________________________________
-
-................................................
-
-
-
-
-(full name of issuer)
-
-..............................................................................
-
-
-
-
-(address of registered office of issuer)
-
-1. State the business carried on and to be carried on by the issuer and its subsidiary and the general development of the business within the preceding 3 years and indicate any material changes in the affairs of the issuer since the last annual report.
-
-2. Set out the description, designation and number of *shares/debentures being offered by the issuer.
-
-*Delete where inapplicable.
-
-3. Set out the offering price, underwriting discounts or commissions and the estimated net proceeds to the issuer on an aggregate basis. If it is not possible to state the offering price or the underwriting discount or commissions, the method by which they are to be determined shall be explained. Give the range of the market price during the previous 90 days.
-
-4. State the principal purposes for which the estimated net proceeds to be derived by the issuer from the sale of the *shares/debentures to be offered are intended to be used and the approximate amount intended to be used for each such purpose. If any material amounts of other funds are to be used in conjunction with the proceeds state the amounts and sources of such other funds.
-
-*Delete where inapplicable.
-
-5. State the place where issuer was incorporated and the date of incorporation.
-
-6. Give names and addresses of the directors of the issuer.
-
-7. State the share and loan capital of the issuer showing in the case of the share capital the authorised share capital and the issued and the paid up capital and in the case of loan capital state the total amount of the debentures issued and outstanding at the date of the statement together with rate of interest payable thereon.
-
-8. Outline briefly the manner in which the *shares/debentures offered are to be distributed, giving particulars of any outstanding or proposed underwriting, including the name and address of each underwriter
-
-*Delete where inapplicable.
-
-9. Give the profits, prospects and dividends of the issuer and provide the following:
-
-(a) a tabulation for each of the last 3 financial years immediately preceding the offer in the following format:
-
-Year ended
-
-Profit before tax
-
-Profit after tax
-
-Exceptional items
-
-Gross earnings per share
-
-Gross rate of dividend
-
-(b) a statement as to the financial and trading prospects of the corporation or group, together with any material information which will be relevant thereto, including all special trade factors or risks (if any) which are unlikely to be known or anticipated by the general public and which could materially affect the profits; and
-
-(c) a statement by the directors that in their opinion the working capital available is sufficient, or, if not, how it is proposed to provide the additional working capital thought by the directors to be necessary.
-
-10. Give the number of shares of the issuer owned by each substantial shareholder as defined in section 81 of the Act.
-
-11. Give a brief statement of any material legal proceedings to which the issuer or any of its subsidiaries is a party or of which any of their property is the subject. Make a similar statement as to any such proceedings known to be contemplated.
-
-12. State the prices at which *shares/debentures of the issuer have been issued for cash or traded within the 12 months immediately preceding the date of this statement. For shares which have been traded, give price ranges and volume traded for each of those months and for *shares/debentures which have been issued during those months, state the number of *shares/debentures issued at each price. If any *shares/debentures have been issued for services, state the nature and value of the services and give the name and address of the person who received the *shares/debentures.
-
-*Delete where inapplicable
-
-13. Give the dates and parties to and the general nature of every material contract entered into by the issuer not being a contract entered into in the ordinary course of business carried on or intended to be carried on by the issuer or a contract entered into more than two years before the date of the issue of this statement.
-
-14. Give particulars of any other material facts relating to the shares or debentures proposed to be offered and not disclosed pursuant to items 1 to 13.
-
-15. Give the last audited balance-sheet of the issuer.
-
-16. Give a table or statement indicating —
-
-(a) the net asset backing per share of the issuer as at the date of the last audited accounts; and
-
-(b) the effect of the issue on the net asset backing per share.
+(Repealed by S 236/2002, wef 01/07/2002).
 
 SIXTH SCHEDULE
 
@@ -15027,109 +12467,7 @@ Provisions applying to Parts I and II of this Schedule
 
 SEVENTH SCHEDULE
 
-Sections 107(1), 113(2). Aust. 7th Schedule.
-
-Statement Required Pursuant to Division 6 of Part Iv
-
-Part I
-
-Matters required to be stated in statement
-
-1\. The date of the statement.
-
-2\. The date of and parties to the deed referred to in section 114 of the Act.
-
-3\. The date of and parties to any deed or instrument by which any of the provisions of the approved deed relating to the interest has been amended or abrogated.
-
-4\. The name of the trustee or representative under any such deed and the address of the trustee’s or representative’s registered office.
-
-5\. A summary of the provisions of the deed regulating the retirement, removal and replacement of the trustee or representative.
-
-6\. The name of the management company and the address of its registered office.
-
-7\. The names, descriptions, and addresses of all the directors of the management company.
-
-8\. A summary of the provisions of the deed regulating the retirement, removal and replacement of the management company.
-
-9\. The name and address of the auditor of the accounts relating to interests under the deed.
-
-10\. A summary of the provisions of the deed regulating the appointment, retirement, removal and replacement of such auditor.
-
-11\. The duration, if ascertainable, of the undertaking, scheme, enterprise or investment contract to which the deed relates or if the duration is not ascertainable, that fact.
-
-12\. Full particulars with respect to the termination or winding up of the undertaking, scheme, enterprise or investment contract.
-
-13\. Such particulars as are sufficient to disclose the true nature of the undertaking, scheme, enterprise or investment contract in respect of which the interest is to be issued or offered to the public for subscription or purchase and the general nature of the property to which the interest relates.
-
-14\. The nature of the interest to be so issued or offered and of any units or sub-units into which the interest is divided and the rights in relation thereto of the persons who become the holders thereof.
-
-15\. The address where the register of interest holders is or will be kept and the days on and the hours during which it is or will be accessible to the public.
-
-16\. The method of calculation provided by the deed of the price at which the management company may sell the interest or any right in respect thereof or any unit or sub-unit of the interest.
-
-17\. Such particulars as are sufficient to describe the duties and obligations imposed on the trustee or representative appointed by the deed relating to the interest.
-
-18\. The name and address of each person or corporation with whom or with which a holder of the interest is required, obliged or entitled, in connection with the undertaking, scheme, enterprise or investment contract, to enter into any contract whether by way of lease or otherwise.
-
-19\. The full names, description and residential addresses of the directors of each corporation referred to in paragraph 18.
-
-20\. Whether any property to which the interest relates is or will become vested in the trustee or representative, the nature and description of such property and the conditions or circumstances under which it is or will become so vested.
-
-21\. Where the interest consists of rights or interests in or arising out of an investment relating to property that ordinarily depreciates in value through use or effluxion of time, such particulars as are sufficient to disclose the true particulars of the provisions made for the replacement of such property and the source or sources from which such replacement is to be made or from which the cost of such replacement is to be met.
-
-22\. Except where the interest relates only to marketable securities which were purchased or acquired at not more than the ruling market prices, the full names and residential addresses of the vendors of any property to which the interest relates, whether such property was purchased or acquired by the management company or by any person or corporation referred to in paragraph 18 or is proposed to be so purchased or acquired, a full and true description of such property and the amount paid or to be paid therefor to each vendor.
-
-23\. Such particulars as are sufficient to disclose the true nature and extent of the interest, if any, of each director of the management company, whether as a director, direct or indirect shareholder, partner or otherwise, in the business of each such vendor and in such property.
-
-24\. The obligations imposed upon the management company or any other person to purchase from any holder thereof the interest or any rights in respect thereof or the units or sub-units of the interest for which he has subscribed or which he has purchased, and a statement of the method provided by the deed for the calculation of the purchase price thereof.
-
-25\. A summary of the rights and obligations of the management company and of the trustee or representative governing the valuation of any investment made or property held in relation to the interest.
-
-26\. A summary of the provisions of the deed whereby investments or other property comprising or forming part of the interest to which the deed relates may be varied.
-
-27\. Full information regarding the remuneration of the trustee or representative and the management company respectively, the manner in which under the provisions of the deed such remuneration is provided for, and the charges (if any) that will be made by way of such remuneration upon the sale or purchase of any such interest and upon the distribution of income and capital or otherwise in connection with the relevant undertaking, scheme, enterprise or investment contract.
-
-28\. Whether the interest or any rights in respect thereof or any units or sub-units of the interest are transferable by the holders thereof and, if so, a summary of the provisions of the deed regulating such transfer.
-
-29\. A summary of the provisions of the deed relating to the distribution to the holders of the interest or of units or sub-units of the interest of the income derived from the undertaking, scheme, enterprise or investment contract.
-
-30\. Full information as to whether and to what extent any factor other than cash receipts by way of dividend, interest or bonus has been or will be taken into account in calculating the amount of income that will be payable to an interest holder.
-
-31\. If any reference is made to the yield of income obtained or likely to be obtained by the holders of the interest or of units or sub-units of the interest, a statement as to whether and to what extent anything other than cash receipts by way of dividends, interest or bonuses has been taken into account in calculating the yield.
-
-32\. A summary of the provisions of the Act and of the deed regulating the convening of meetings of holders of the interest or of units or sub-units of the interest.
-
-33\. The name and description and the date of commencement of operation of every other undertaking, scheme, enterprise or investment contract involving the issue of interests to the public conducted by the management company within the 5 years immediately preceding the date of the statement.
-
-34. A declaration —
-
-(a) that no units or sub-units of interests issued pursuant to the statement shall be allotted later than 6 months or 12 months in the case of a designated interest referred to in section 113A after the date appearing in the statement pursuant to paragraph 1; and
-
-(b) unless the conditions of issue of the units or sub-units expressly provide that certificates be not issued, those certificates shall be issued by the trustee or representative to purchasers of or subscribers for units or sub-units of interests purchased or subscribed for pursuant to the statement not more than two months after the allotment of the units or sub-units.
-
-35. A summary of the provisions of the deed with respect to the undertakings —
-
-(a) by or on behalf of the management company relating to the allotment of interests and of units or sub-units of interests to which the deed relates; and
-
-(b) by or on behalf of the trustee or representative relating to the issue to holders of interests and of units or sub-units of interests of certificates of title thereto.
-
-Part II
-
-Reports to be set out in statement
-
-36. A report or reports by a person who at the time of making the report or reports was an approved company auditor, and whose name must appear as such in the statement, setting out —
-
-(a) such information as sufficiently discloses the number of distributions (if any) of income to holders of interests or of units or sub-units of interests to which the deed relates in each of the 5 years immediately preceding the date of the statement during which those interests had been in existence, the amount of each distribution and the extent to which each distribution consisted of any component other than dividends, interest and bonuses, and where it consisted of any component other than dividends, interest and bonuses, the nature and value of each of those components;
-
-(b) such information, as sufficiently discloses the selling price and the purchase price, respectively, of those interests, units or sub-units on the date upon which each distribution was made;
-
-(c) such information as sufficiently discloses the selling price and purchase price, respectively, of those interests, units or sub-units on such date, being a date within a period of 14 days immediately preceding the date of the statement as is specified in the relevant report;
-
-(d) in respect of every issue of interests relating to any other undertaking, scheme, enterprise or investment contract conducted or entered into by the management company within the period of 5 years immediately preceding the date of the statement, similar information to that required under sub-paragraphs (a), (b) and (c); and
-
-(e) the profits or losses of the management company (and of every corporation with which a holder of the interest is required, obliged or entitled, pursuant to the undertaking, scheme; enterprise or investment contract, to enter into any contract) in respect of each of the 5 years during which the company and corporation, respectively, were carrying on business immediately preceding the date of the statement, and the rates of dividend (if any) paid by that company and that corporation in respect of each of those years, and the assets and liabilities of that company and of that corporation as at the last date to which its accounts were made up.
-
-37\. If in the case of a company which has been carrying on business, or of a business which has been carried on, for less than 5 years, the accounts of the company or business have only been made up in respect of 4 years, 3 years, 2 years or one year, this Schedule shall have effect as if references to 4 years, 3 years, 2 years or one year, as the case may be, were substituted for references to 5 years.
+Repealed by S 236/2002, wef 01/07/2002.
 
 EIGHTH SCHEDULE
 
@@ -15571,123 +12909,7 @@ and where the respective financial years are not equal in length, the periods co
 
 TENTH SCHEDULE
 
-Section 213. Aust. 10th Schedule. 49/73 15/84.
-
-Take-over Offers
-
-Part A
-
-Requirements with which take-over offers to comply
-
-1\. The offer shall be dated and shall be despatched to the offeree within 3 days of its date and shall state that, except insofar as it and all other take-over offers made under the take-over scheme may be totally withdrawn and every person released from any obligation incurred thereunder, it will remain open for acceptance by the offeree for at least 21 days from the date of despatch.
-
-2\. The offer shall not be conditional upon the offeree approving or consenting to any payment or other benefit being made or given to any director of the offeree company or any corporation which is deemed by virtue of section 6 of the Act to be related to that company as compensation for loss of office or as consideration for, or in connection with, his retirement from office.
-
-3. The offer shall state —
-
-(a) whether or not the offer is conditional upon acceptance of offers made under the take-over scheme being received in respect of a minimum percentage of shares and, if so, that percentage;
-
-(b) if the shares are to be acquired in whole or in part for cash, the period within which payment will be made and the method of payment; and
-
-(c) if the shares are to be acquired for a consideration other than cash, the period within which the offeree will receive that consideration.
-
-4. Where the offer is conditional upon acceptances in respect of a minimum percentage of shares being received, the offer shall specify —
-
-(a) a date not being a date later than 60 days after the date of the despatch of the offer or such later date as the Registrar may in a competitive situation or in special circumstances allow as the latest date on which the offeror corporation can declare the offer to have become free from that condition; and
-
-(b) a further period of not less than 14 days from the date on which the offer would otherwise have expired during which the offer will remain open for acceptance after it has been declared unconditional.
-
-Where the offer becomes or is declared unconditional as to acceptances on or by an expiry date and the offeror corporation has given at least 14 days’ notice in writing to the shareholders of the offeree company that the offer will not be open for acceptance beyond that date, the offer need not remain open for acceptance for the further period specified in sub-paragraph (b). No such notice may be given between the time when a competing offer has been announced and the resultant competitive situation has ended.
-
-5. Every offer document shall contain the following words which are to be displayed prominently in that document:
-
-“
-
-If you are in any doubt about this offer you should consult your stockbroker, bank manager, solicitor or other professional adviser.
-
-”.
-
-Part B
-
-Requirements with which statement given by offer or corporation to comply
-
-1. The statement shall —
-
-(a) specify the names, descriptions and addresses of all the directors of the offeror corporation;
-
-(b) contain a summary of the principal activities of the offer or corporation;
-
-(c) specify the number and description and amount of marketable securities in the offeree company held by or on behalf of the offeror corporation, or if none are so held contain a statement to that effect;
-
-(d) if the shares are to be acquired for a consideration which consists of shares or debentures in the offeror corporation or in a corporation which is by virtue of section 6 of the Act deemed to be related to the offeror corporation —
-
-(i) set out the reports which, if the statement were a prospectus issued on the date on which notice of the take-over scheme is given to the offeree company, would be required to be set out in it under paragraphs 20 and 23 in Part II of the Fifth Schedule; and
-
-(ii) specify details of any alterations in the capital structure of the offeror corporation or of any subsidiary of that corporation during the period of 5 years immediately preceding the date on which notice of the take-over scheme is given to the offeree company and particulars of the source of any increase in capital;
-
-(e) if the shares are to be acquired for a consideration other than wholly in cash or other than for a consideration such as is referred to in sub-paragraph (d) contain such information and details as to the consideration as the Registrar requires.
-
-2\. The statement shall contain particulars of any restriction on the right to transfer the shares to which the take-over scheme relates contained in the memorandum or articles or other instrument constituting or defining the constitution of the offeree company which has the effect of requiring the holders of the shares, before transferring them, to offer them for purchase to members of the offeree company or to any other person and, if there is any such restriction, the arrangements, if any, being made to enable the shares to be transferred in pursuance of the take-over scheme.
-
-3\. If the consideration for the acquisition of shares under the take-over scheme is to be satisfied in whole or in part by the payment of cash, the statement shall contain details of the arrangements that have been, or will be, made to secure payment of the cash consideration and, if no such arrangements have been or will be made, shall contain a statement to that effect.
-
-4. The statement shall set out —
-
-(a) whether or not it is proposed in connection with the take-over scheme that any payment or other benefit shall be made or given to any director of the offeree company or of any corporation which is by section 6 of the Act deemed to be related to that company as compensation for loss of office or as consideration for, or in connection with, his retirement from office and if so, particulars of the proposed payment or benefit in respect of each such director;
-
-(b) whether or not there is any other agreement or arrangement made between the offeror corporation and any of the directors of the offeree company in connection with or conditional upon the outcome of the scheme, and, if so, particulars of any such agreement or arrangement;
-
-(c) whether or not there has been within the knowledge of the offeror corporation any material change in the financial position or prospects of the offeree company since the date of the last balance-sheet laid before the company in general meeting, and, if so, particulars of any such change; and
-
-(d) whether or not there is any agreement or arrangement whereby any shares acquired by the offeror corporation in pursuance of the scheme will or may be transferred to any other person, and, if so —
-
-(i) the names of the persons who are a party to the agreement or arrangement and the number, description and amount of the shares which will or may be so transferred; and
-
-(ii) the number, if any, and description and amount of shares of the offeree company held by or on behalf of each of these persons, or if no such shares are so held, a statement to that effect.
-
-5\. Paragraphs 6 to 8 of this Part apply only where the consideration to be offered in exchange for shares of the offeree company consists in whole or in part of marketable securities issued or to be issued by the offeror corporation or by any other corporation.
-
-6. Where the marketable securities are quoted or dealt in on a stock exchange, the statement shall state this fact and specify the stock exchanges concerned and specify —
-
-(a) the latest available market sale price prior to the date on which notice of the take-over scheme is given to the offeree company;
-
-(b) the highest and lowest market sale price during the 3 months immediately preceding that date and the respective dates of the relevant sales; and
-
-(c) where the take-over scheme has been the subject of a public announcement in newspapers or by any other means, the latest market sale price immediately prior to the public announcement.
-
-7\. Where the securities are quoted or dealt in on more than one stock exchange, it is sufficient compliance with paragraph 6(a) of this Part if information with respect to the securities is given in relation to the stock exchange at which there have been the greatest number of recorded dealings in the securities in the 3 months immediately preceding the date on which notice of the take-over scheme is given to the offeree company.
-
-8\. Where the take-over scheme relates to securities which are not quoted or dealt in on a stock exchange, the statement shall contain all the information which the offeror corporation may have as to the number, amount and price at which the securities have been sold in the 3 months immediately preceding the date on which notice of the scheme is given to the offeree company and, if the offeror corporation has no such information, a statement to that effect.
-
-Part C
-
-Requirements with which statement given by offeree company to comply
-
-1. The statement shall indicate whether or not the board of directors of the offeree company recommends to shareholders the acceptance of take-over offers made, or to be made, by the offeror corporation under the take-over scheme.
-
-[15/84]
-
-2. The statement shall set out —
-
-(a) the number, description and amount of marketable securities in the offeree company held by or on behalf of each director of that company or, in the case of a director where none are so held, that fact;
-
-(b) in respect of each such director of the offeree company by whom, or on whose behalf, shares to which the take-over scheme relates are held —
-
-(i) whether or not the present intention of the director is to accept any take-over offer that may be made in pursuance of the take-over scheme in respect of those shares; or
-
-(ii) that the director has not decided whether he will accept such a take-over offer;
-
-(c) whether or not any marketable securities of the offeror corporation are held by, or on behalf of, any director of the offeree company and, if so, the number, description and amount of the marketable securities so held;
-
-(d) whether or not it is proposed in connection with the take-over scheme that any payment or other benefit shall be made or given to any director of the offeree company or of any other corporation which is by virtue of section 6 of the Act deemed to be related to that company as compensation for loss of office or as consideration for, or in connection with, his retirement from office and, if so, particulars of the proposed payment or benefit;
-
-(e) whether or not there is any other agreement or arrangement made between any director of the offeree company and any other person in connection with or conditional upon the outcome of the take-over scheme and, if so, particulars of any such agreement or arrangement;
-
-(f) whether or not any director of the offeree company has any direct or indirect interest in any contract entered into by the offeror corporation and, if so, particulars of the nature and extent of such interest;
-
-(g) if the shares to which the scheme relates are not quoted or dealt in on a stock exchange all the information which the offeree company may have as to the number, amount and price at which any such shares have been sold in the 6 months preceding the date on which notice of the take-over scheme was given to the offeree company; and
-
-(h) whether or not there has been any material change in the financial position of the offeree company since the date of the last balance-sheet laid before the company in general meeting and, if so, particulars of such change.
+Deleted by S 675/2001 wef 01/01/2002.
 
 ELEVENTH SCHEDULE
 
@@ -15954,3 +13176,13 @@ This Legislative History is provided for the convenience of users of the Compani
 ||Date of commencement|1 January 2002|
 |55.|**G. N. No. S 28/2002—Companies Act (Amendment of Second Schedule) Notification 2002**|
 ||Date of commencement|15 January 2002|
+|56.|**Act 42 of 2001—Securities and Futures Act 2001**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|25 September 2001|
+|||(Bill No. 33/2001 published on 26 September 2001)|
+||Date of Second and Third Readings|5 October 2001|
+||Date of commencement|1 July 2002 (Parts XIII and XIV, and items (1)(a), (3)(a), (4)(a)(i), (iii) to (ix), (b), (c), (f), (g), (h), (i), (l), (m), (t) and (u), (7)(b), (12) and (13) of Fourth Schedule)|
+|57.|**G. N. No. S 236/2002—Securities and Futures (Repeal of Provisions) Notification 2002**|
+||Date of commencement|1 July 2002|
+|58.|**G. N. No. S 239/2002—Companies Act (Amendment of Second Schedule) (No. 2) Notification 2002**|
+||Date of commencement|1 July 2002|
