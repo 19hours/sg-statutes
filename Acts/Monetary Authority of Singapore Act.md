@@ -172,9 +172,13 @@ ESTABLISHMENT, CAPITAL AND ADMINISTRATION OF AUTHORITY
 
 (a) to act as banker to, and financial agent of, the Government;
 
-(b) to promote, within the context of the general economic policy of the Government, monetary stability and credit and exchange conditions conducive to the growth of the economy; and
+(b) to promote, within the context of the general economic policy of the Government, monetary stability and credit and exchange conditions conducive to the growth of the economy;
 
-(c) to exercise the powers and to perform the duties and functions that are transferred to the Authority under section 21.
+(c) to foster a sound and progressive financial services sector; and
+
+[Act 28/98]
+
+(d) to exercise the powers and to perform the duties and functions that are transferred to the Authority under section 21.
 
 ### Authorised capital
 
@@ -214,7 +218,7 @@ ESTABLISHMENT, CAPITAL AND ADMINISTRATION OF AUTHORITY
 
 [Act 11/91 wef 30/11/1991 vide S527/91]
 
-(b) six other directors, one of whom shall be the deputy chairman, appointed in accordance with sections 8 and 9.
+(b) not less than 4 and not more than 9 other directors, one of whom shall be the deputy chairman, appointed in accordance with sections 8 and 9.
 
 [26/84]
 
@@ -250,7 +254,7 @@ ESTABLISHMENT, CAPITAL AND ADMINISTRATION OF AUTHORITY
 
 ### Disqualification of directors
 
-10\.—(1) No person may be appointed as or remain a director of the Authority who is a director or salaried official of any bank licensed under the Banking Act.
+10\.—(1) No person may be appointed as or remain a director of the Authority who is a director or salaried official of any financial institution licensed or approved by the Authority under any written law.
 
 (2) The President may terminate the appointment of any director appointed under section 8(1) if he —
 
@@ -282,7 +286,7 @@ ESTABLISHMENT, CAPITAL AND ADMINISTRATION OF AUTHORITY
 
 12\.—(1) The chairman of the board shall summon meetings as often as may be required but not less frequently than once in 3 months.
 
-(2) At every meeting of the board, a quorum shall consist of 4 directors, and decisions shall be adopted by a simple majority of the votes of the directors present and voting except that in the case of an equality of votes the chairman shall have a casting vote.
+(2) At every meeting of the board, a quorum shall consist of 4 directors or a simple majority of the directors, whichever is the larger, and decisions shall be adopted by a simple majority of the votes of the directors present and voting except that in the case of an equality of votes the chairman shall have a casting vote.
 
 ### Director’s interest in contract to be made known
 
@@ -766,3 +770,8 @@ This Legislative History is provided for the convenience of users of the Monetar
 |||(Bill No. 4/91 published on 4 January 1991)|
 ||Date of Second and Third Readings|14 January 1991|
 ||Date of commencement|30 November 1991|
+|8.|**Act 28 of 1998—Monetary Authority of Singapore (Amendment) Act 1998**|
+||Date of First Reading|1 June 1998|
+|||(Bill No. 19/98 published on 2 June 1998)|
+||Date of Second and Third Readings|29 June 1998|
+||Date of commencement|10 July 1998|
