@@ -46,7 +46,7 @@
 
 - [20 Rules](#Rules)
 
-[**THE SCHEDULE Poisons list**](#THE-SCHEDULE)
+[**THE SCHEDULE Poisons List**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -390,7 +390,7 @@ but every such exemption shall be subject to such instructions and conditions as
 
 Section 2.
 
-Poisons list
+Poisons List
 
 In the construction of this List, unless the contrary intention appears —
 
@@ -1798,11 +1798,7 @@ Mequitazine
 
 Mercaptopurine; its salts; derivatives of mercaptopurine; their salts
 
-Mercury, oxides of; mercuruos chloride; organic compounds of mercury which contain a methyl (CH
-
-3
-
-) group directly linked to the mercury atom; which are intended for the treatment of human ailments
+Mercury, oxides of; mercuruos chloride; organic compounds of mercury which contain a methyl (CH3) group directly linked to the mercury atom; which are intended for the treatment of human ailments
 
 Mescaline, and other derivatives of phenethylamine formed by substitution in the aromatic ring; their salts
 
@@ -2550,7 +2546,7 @@ Sodium apolate
 
 Sodium cromoglycate
 
-Sodium fluoride; which are intended for the treatment of human ailments
+Sodium flouride; which are intended for the treatment of human ailments
 
 Sodium valproate
 
@@ -2826,7 +2822,7 @@ Trimeprazine; its salts
 
 Trimetaphan; its salts
 
-Trimetazidine; its salts
+Trimetadizine; its salts
 
 Trimethoprim
 
@@ -2876,7 +2872,7 @@ Vasopressins, natural and synthetic
 
 Verapamil; its salts
 
-Veratrum, alkaloids of; its quarternary compounds, their salts
+Veratrum; alkaloids of; its quarternary compounds, their salts
 
 Vidarabine
 
@@ -2906,7 +2902,7 @@ Zoxazolamine; its salts
 
 Part II
 
-Acetic Acid
+Acetic acid
 
 Acrolein
 
@@ -2948,9 +2944,11 @@ Sodium arsenites
 
 Sodium thioarsenates
 
+Asbestos in the form of crocidolite, amosite, chrysotile and amphiboles and products containing these forms of asbestos
+
 Benzene
 
-Boric acid; sodium borate; which are not in medicinal preparations, cosmetics, toilet preparations and substances being preparations intended for human consumption
+Boric acid; sodium borate; which are not in medicinal peparations, cosmetics, toilet preparations and substances being preparations intended for human consumption
 
 Boron trichloride
 
@@ -3124,7 +3122,7 @@ Hydrazine anhydrous; hydrazine aqueous solutions
 
 Hydrochloric acid
 
-Hydrofluoric acid; alkali metal bifluorides; ammonium bifluoride; potassium fluoride; potassium silicofluoride; silicofluoric acid; sodium fluoride; sodium silicofluoride
+Hydrofluoric acid; alkali metal bifluorides; ammonium bifluoride; potassium fluoride; potassium silicofluoride; silicofluric acid; sodium fluoride; sodium silicofluoride
 
 Hydrogen chloride, all forms
 
@@ -3138,7 +3136,7 @@ Isocyanates
 
 Lead tetra-ethyl and similar lead containing compounds
 
-Mercuric chloride; mercuric iodide; organic compounds of mercury
+Mercuric chloride; mercuric iodide; organic compounds of mecury
 
 Metanil yellow (sodium salt of metanilylazo-diphenylamine)
 
@@ -3261,6 +3259,8 @@ Sulphur tetrafluoride
 Thallium, salts of
 
 Vinyl chloride monomer
+
+[S 361/89 wef 01/10/1989]
 
 ## LEGISLATIVE HISTORY
 
@@ -3398,3 +3398,5 @@ This Legislative History is provided for the convenience of users of the Poisons
 ||Date of commencement|13 January 1989|
 |50.|**1989 Revised Edition—Poisons Act**|
 ||Date of operation|15 March 1989|
+|51.|**G. N. No. S 361/1989—Poisons Act (Amendment of Schedule) (No. 2) Notification 1989**|
+||Date of commencement|1 October 1989|
