@@ -236,29 +236,41 @@ Government Companies
 
 10\. Singapore Telecommunications Limited.
 
-11. Singapore Power Pte. Ltd.
+11\. Singapore Power Ltd.
 
-[S 565/1995 wef 22/12/1995]
+11. 
 
-12. Power Supply Pte. Ltd.
+[S 446/1996 wef 04/10/1996]
 
-[S 565/1995 wef 22/12/1995]
+12\. Power Supply Ltd.
 
-13. PowerGrid Pte. Ltd.
+12. 
 
-[S 565/1995 wef 22/12/1995]
+[S 446/1996 wef 04/10/1996]
 
-14. PowerGas Pte. Ltd.
+13\. PowerGrid Ltd.
 
-[S 565/1995 wef 22/12/1995]
+13. 
 
-15. PowerGen (Seraya) Pte. Ltd.
+[S 446/1996 wef 04/10/1996]
 
-[S 565/1995 wef 22/12/1995]
+14\. PowerGas Ltd.
 
-16. PowerGen (Senoko) Pte. Ltd.
+14. 
 
-[S 565/1995 wef 22/12/1995]
+[S 446/1996 wef 04/10/1996]
+
+15\. PowerGen (Seraya) Ltd.
+
+15. 
+
+[S 446/1996 wef 04/10/1996]
+
+16\. PowerGen (Senoko) Ltd.
+
+16. 
+
+[S 446/1996 wef 04/10/1996]
 
 17. Tuas Power Pte. Ltd.
 
@@ -325,3 +337,5 @@ This Legislative History is provided for the convenience of users of the Statuto
 |||(Bill No. 38/1995 published on 2 November 1995)|
 ||Date of Second and Third Readings|5 December 1995|
 ||Date of commencement|1 April 1996|
+|19.|**G. N. No. S 446/1996—Statutory Bodies and Government Companies (Protection of Secrecy) Act (Amendment of Schedule) Notification 1996**|
+||Date of commencement|4 October 1996|
