@@ -66,7 +66,13 @@
 
 - [26 Publicity of orders](#Publicity-of-orders)
 
-- [27 Registration of persons arrested or convicted](#Registration-of-persons-arrested-or-convicted)
+- [27 Interpretation of sections 27A, 27B and 27C](#Interpretation-of-sections-27A-27B-and-27C)
+
+- [27A Taking of photographs, finger impressions, body samples, etc., from person arrested, detained or subject to police supervision](#Taking-of-photographs-finger-impressions-body-samples-etc-from-person-arrested-detained-or-subject-to-police-supervision)
+
+- [27B Further provisions for taking of body samples](#Further-provisions-for-taking-of-body-samples)
+
+- [27C Retention of photographs, finger impressions, particulars and body samples taken](#Retention-of-photographs-finger-impressions-particulars-and-body-samples-taken)
 
 - [28 Power to amend Schedules](#Power-to-amend-Schedules)
 
@@ -88,7 +94,7 @@
 
 - [36 Loitering by person subject to supervision in public place, etc.](#Loitering-by-person-subject-to-supervision-in-public-place-etc)
 
-- [37 Taking of photographs and finger impressions](#Taking-of-photographs-and-finger-impressions)
+- [37 (Repealed)](#Repealed)
 
 - [38 Extension of orders](#Extension-of-orders)
 
@@ -146,7 +152,11 @@ PRELIMINARY
 
 1\.—(1) This Act may be cited as the Criminal Law (Temporary Provisions) Act.
 
-(2) This Act shall continue in force for a period of 5 years from 21st October 1999.
+(2) This Act shall continue in force for a period of 5 years from 21st October 2004.
+
+[32/2004 wef 21/10/2004]
+
+[17/99]
 
 (3) The expiry of this Act shall not affect the operation thereof as respects things previously done or omitted to be done.
 
@@ -428,11 +438,163 @@ GENERAL
 
 (2) Any order or declaration made or direction given under subsection (1) shall have effect as soon as notice under that subsection has been given, without publication in theGazette.
 
-### Registration of persons arrested or convicted
+### Interpretation of sections 27A, 27B and 27C
 
-27\.—(1) The provisions of the Registration of Criminals Act (Cap. 268) relating to the taking of finger impressions and photographs of persons under arrest and accused of any crime shall apply to persons arrested under this Act as if they were persons accused of any crime within the meaning of that Act.
+27\.—(1) In sections 27A, 27B and 27C —
 
-(2) The Registration of Criminals Act shall apply to persons convicted of an offence under this Act as if the offence were a crime included in the First Schedule to that Act.
+“appropriate consent” means —
+
+(a) for a person aged 16 years and above, the written consent of that person;
+
+(b) for a person aged 14 years and above but below the age of 16 years, the written consent of both that person and of his parent or guardian; and
+
+(c) for a person below the age of 14 years, the written consent of his parent or guardian,
+
+given to a police officer or officer of the Central Narcotics Bureau in charge of the case after that officer has informed the person concerned, his parent or guardian or both, as the case may be, of the purpose for which a body sample is required from such person and the manner by which such body sample is to be taken from him;
+
+“authorised analyst” means a person appointed by the Commissioner of Police to be an analyst;
+
+“body sample” means —
+
+(a) a sample of blood;
+
+(b) a sample of head hair, including the roots thereof;
+
+(c) a swab taken from a person’s mouth; or
+
+(d) such other sample as may be prescribed under subsection (2);
+
+“DNA” means deoxyribonucleic acid;
+
+“DNA information” means genetic information derived from the forensic DNA analysis of a body sample;
+
+“finger impression” includes thumb impression and palmar impression;
+
+“intimate sample” means any body sample that is obtained by means of any invasive procedure, but does not include any sample described in subsection (3);
+
+“other particulars”, in relation to a person, means any particulars, information or description of that person, other than his registrable particulars, that may be relevant or useful in the identification of that person;
+
+“photograph”, in relation to a person, includes the photograph of any distinguishing feature or mark on the body of that person;
+
+“registered medical practitioner” has the same meaning as in the Medical Registration Act (Cap. 174) and includes a dentist registered under the Dentists Act (Cap. 76);
+
+“registrable particulars” means the particulars of any detention or supervision order made under section 30, 32 or 38 and any name, description, photograph or finger impression of, or document relating to, any person so detained or placed under supervision, as the case may be.
+
+(2) Subject to subsection (3), the Minister may prescribe additional types of body samples that may be taken under section 27A.
+
+(3) The additional types of body samples that may be prescribed under subsection (2) shall not include samples to be obtained from —
+
+(a) the genital or anal area of a person’s body;
+
+(b) a person’s body orifice other than the mouth; or
+
+(c) the breasts of a woman.
+
+[32/2004 wef 21/10/2004]
+
+### Taking of photographs, finger impressions, body samples, etc., from person arrested, detained or subject to police supervision
+
+27A\.—(1) A police officer or officer of the Central Narcotics Bureau may exercise all or any of the following powers in respect of any person referred to in subsection (2):
+
+(a) take or cause to be taken photographs and finger impressions of such person;
+
+(b) make or cause to be made a record of the registrable particulars and any other particulars of such person;
+
+(c) cause body samples of such person to be taken by a person authorised under section 27B(1);
+
+(d) send any photograph, finger impression, record of particulars or body sample so taken or made to the Commissioner of Police for identification and report.
+
+(2) The powers referred to in subsection (1) may be exercised in respect of any of the following persons:
+
+(a) a person who, on 21st October 2004, is under arrest and detained under section 44 or 45;
+
+(b) a person who, on 21st October 2004, is under detention or subject to supervision under section 30, 32 or 38;
+
+(c) a person who, on or after 21st October 2004, is arrested, detained or placed under police supervision under any of the provisions of this Act.
+
+(3) Every person mentioned in subsection (2) shall —
+
+(a) submit to the taking of his photographs and finger impressions under subsection (1);
+
+(b) provide such registrable particulars and other particulars as may be required under subsection (1); and
+
+(c) subject to subsection (5), submit to the taking of his body samples by a person authorised under section 27B(1).
+
+(4) Where any person mentioned in subsection (2) fails, without reasonable excuse, to comply with subsection (3) —
+
+(a) that person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding one month or to both; and
+
+(b) a police officer or officer of the Central Narcotics Bureau may use such force as is reasonably necessary to take or cause to be taken the photographs, finger impressions and body samples of that person.
+
+(5) No —
+
+(a) sample of blood; or
+
+(b) intimate sample, which may be prescribed under section 27(2),
+
+shall be taken from any person unless the appropriate consent is given for the taking of the sample.
+
+(6) All photographs, finger impressions and particulars of a person taken before 21st October 2004 under section 27 or 37 in force before that date shall be deemed to have been taken under this section.
+
+[32/2004 wef 21/10/2004]
+
+### Further provisions for taking of body samples
+
+27B\.—(1) For the purposes of section 27A(1)(c), a body sample may only be taken by —
+
+(a) a registered medical practitioner;
+
+(b) a police officer or officer of the Central Narcotics Bureau who has received training for the purpose; or
+
+(c) any other suitably qualified or trained person who is duly appointed in writing by the Commissioner of Police as an authorised person for the purpose.
+
+(2) Before taking any body sample, the person authorised by subsection (1) to take the sample must satisfy himself that the taking of the sample does not endanger the person from whom the sample is to be taken.
+
+(3) The fact that a body sample has been taken for the purposes of section 27A shall be recorded by the person who took the sample in such form or manner as may be required by the Commissioner of Police.
+
+(4) Every body sample taken for the purposes of section 27A shall be sent to an authorised analyst for forensic DNA analysis.
+
+[32/2004 wef 21/10/2004]
+
+### Retention of photographs, finger impressions, particulars and body samples taken
+
+27C\.—(1) The Commissioner of Police shall cause to be maintained —
+
+(a) a register (whether in a computerised form or otherwise) in which shall be stored all photographs, finger impressions, registrable particulars and other particulars of a person taken or deemed to be taken under section 27A; and
+
+(b) a DNA database (whether in a computerised form or otherwise) in which shall be stored all DNA information derived from a body sample taken from a person under section 27A.
+
+(2) Any information stored in the register and the DNA database under subsection (1) may be used for all or any of the following purposes:
+
+(a) for comparison with any other information or any other DNA information, as the case may be, obtained in the course of an investigation of an offence conducted by a police officer or officer of the Central Narcotics Bureau;
+
+(b) for comparison with information in the register established under section 4 of the Registration of Criminals Act (Cap. 268) or with DNA information in the DNA Database established under section 13F of that Act, as the case may be;
+
+(c) for any proceedings for any offence;
+
+(d) for administering the register and DNA database for the purposes of this Act;
+
+(e) for such other purposes as may be prescribed.
+
+(3) Where any photograph, finger impression, record of particulars or body sample has been taken under section 27A from an arrested person and that person is subsequently released, without being —
+
+(a) convicted of any offence under this Act; or
+
+(b) placed on detention or supervision under this Act,
+
+the Commissioner of Police shall cause all such photographs, finger impressions, records of particulars and body samples taken from that person to be removed from the register and DNA database maintained under subsection (1).
+
+(4) For the purposes of subsection (2)(c) —
+
+(a) any photograph, finger impression, registrable particulars or other particulars stored in the register under subsection (1)(a);
+
+(b) any DNA information stored in the DNA database under subsection (1)(b); and
+
+(c) any certificate or report purporting to have been compiled or made from information stored in the register or DNA database maintained under subsection (1),
+
+shall, if produced from proper custody and authenticated by the signature of the Commissioner of Police , be admissible in evidence in any proceedings, without proof of signature; and, until the contrary is proved, shall be proof of all matters contained therein or appearing thereon.
+
+[32/2004 wef 21/10/2004]
 
 ### Power to amend Schedules
 
@@ -518,13 +680,7 @@ DETENTION
 
 and who is unable satisfactorily to account for his presence at that place or time or in that company shall be guilty of an offence and shall be liable on conviction to imprisonment for a term of not less than one year and not more than 3 years.
 
-### Taking of photographs and finger impressions
-
-37\.—(1) A police officer may take or cause to be taken the photographs and finger impressions of any person subject to supervision under this Act.
-
-(2) Every such person shall be legally bound to submit to the taking of his photographs and finger impressions, and may be compelled thereto by the use of force, if necessary.
-
-(3) Any person who being legally bound under subsection (2) to submit to the taking of his photographs and finger impressions refuses or fails to submit thereto on demand shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 or to imprisonment for a term not exceeding 6 months or to both.
+37\. [Deleted by Act 32/2004 wef 21/10/2004]
 
 ### Extension of orders
 
@@ -991,6 +1147,11 @@ This Legislative History is provided for the convenience of users of the Crimina
 ||Date of Second and Third Readings|21 March 2003|
 ||Date of commencement|1 April 2003|
 |||(item (7) in the Schedule)|
+|46.|**Act 32 of 2004—Criminal Law (Temporary Provisions) (Amendment) Act 2004**|
+||Date of First Reading|20 July 2004|
+|||(Bill No. 30/2004 published on 21 July 2004)|
+||Date of Second and Third Readings|1 September 2004|
+||Date of commencement|21 October 2004|
 ## COMPARATIVE TABLE
 
 Criminal Law (Temporary Provisions) Act
