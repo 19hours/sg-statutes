@@ -48,6 +48,10 @@
 
 - [19 Provision of information to licensing authority](#Provision-of-information-to-licensing-authority)
 
+- [19A Protection of confidential supporting information about innovative medicinal product](#Protection-of-confidential-supporting-information-about-innovative-medicinal-product)
+
+- [19B Circumstances where protection under section 19A does not apply](#Circumstances-where-protection-under-section-19A-does-not-apply)
+
 - [20 Offences under this Part](#Offences-under-this-Part)
 
 - [21 Special defences under section 20](#Special-defences-under-section-20)
@@ -188,7 +192,7 @@ REVISED EDITION 1985
 
 (30th March 1987)
 
-An Act to make provisions with respect to medicinal products and medical advertisements and matters connected therewith; and to make consequential amendments to the Poisons Act [Chapter 234].
+An Act to make provisions with respect to medicinal products and medical advertisements and matters connected therewith; and to make consequential amendments to the Poisons Act (Chapter 234).
 
 [24th June 1977: Parts I and II ;
 
@@ -200,7 +204,9 @@ An Act to make provisions with respect to medicinal products and medical adverti
 
 15th November 1977: Part VI;
 
-16th January 1981: Part IV]
+16th January 1981: Part IV;
+
+3rd May 1993: Part III,Except sections 30, 31, 34 and 35 (vide S 156/93) ]
 
 ## PART I
 
@@ -594,6 +600,94 @@ and for any matter ancillary or incidental thereto.
 
 (2) The licensing authority may serve on the holder of a licence under this Part, a notice requiring him, within such time as may be specified in the notice, to furnish to the licensing authority information of any description specified in the notice.
 
+### Protection of confidential supporting information about innovative medicinal product
+
+19A\.—(1) Where the licensing authority receives, or has received not more than 5 years before the commencement of the Medicines (Amendment) Act 1998, an innovative medicinal product application and confidential supporting information, the licensing authority, during the protected period in relation to that confidential supporting information —
+
+(a) shall take reasonable steps to ensure that that confidential supporting information is kept confidential to the licensing authority; and
+
+(b) shall not use that confidential supporting information for the purposes of determining whether to grant any other application.
+
+(2) For the purposes of this section and section 19B, unless the context otherwise requires —
+
+“application” means an application for a product licence;
+
+“confidential information” includes —
+
+(a) trade secrets; and
+
+(b) information that has commercial value that would be, or would be likely to be, diminished by disclosure;
+
+“confidential supporting information” means confidential information given —
+
+(a) in, or in relation to, an innovative medicinal product application; and
+
+(b) about the medicinal product that is or was, as the case may be, the subject of that application;
+
+“innovative medicinal product application” means —
+
+(a) in relation to an application made after the commencement of the Medicines (Amendment) Act 1998, an application that refers to a substance —
+
+(i) that is an ingredient in the manufacture or preparation of the medicinal product to which the application relates; and
+
+(ii) that has not, before that application is received by the licensing authority, been referred to in any other application as an ingredient in the manufacture or preparation of the medicinal product; and
+
+(b) in relation to an application made before the commencement of the Medicines (Amendment) Act 1998, an application that referred to a substance —
+
+(i) that is or was, as the case may be, an ingredient in the manufacture or preparation of the medicinal product to which the application related; and
+
+(ii) that had not, before that application was received by the licensing authority, been referred to in any other application as an ingredient in the manufacture or preparation of the medicinal product;
+
+“licensing authority” includes any officer designated by the licensing authority under section 4(2) to determine an application for a product licence;
+
+“protected period”, in relation to confidential supporting information relating to an innovative medicinal product application received by the licensing authority, means a period of 5 years from the date the innovative medicinal product application is or was, as the case may be, received by the licensing authority.
+
+[7/98 wef 16/04/1998]
+
+### Circumstances where protection under section 19A does not apply
+
+19B\.—(1) Notwithstanding section 19A, the licensing authority may, during the protected period in relation to confidential supporting information —
+
+(a) disclose that confidential supporting information, or use that confidential supporting information for the purposes of determining whether to grant any application other than the application to which it relates or related, as the case may be —
+
+(i) with the consent of the applicant who made the application to which the confidential supporting information relates or related; or
+
+(ii) if that disclosure or use is, in the opinion of the licensing authority, necessary to protect the health or safety of members of the public;
+
+(b) disclose that confidential supporting information to —
+
+(i) a Government department or statutory body for the purposes of the Government department or statutory body; or
+
+(ii) any adviser engaged by the licensing authority to advise on any aspect of the medicinal product to which the confidential supporting information relates or is related,
+
+if, in the opinion of the licensing authority, the Government department, statutory body or adviser, as the case may be, will take reasonable steps to ensure the confidential supporting information is kept confidential; or
+
+(c) disclose that confidential supporting information to any one or more of the following:
+
+(i) the World Health Organisation;
+
+(ii) the Food and Agriculture Organisation;
+
+(iii) any regulatory agency of a WTO Country;
+
+(iv) any advisory committee established under section 73;
+
+(v) any person or organisation, or a person or organisation within a class or classes of persons or organisations, approved by regulations made under this Act, if the disclosure is in accordance with such conditions as may be specified in the regulations.
+
+(2) The power to grant consent under subsection (1)(a)(i) may be exercised by a person other than the applicant referred to in that subsection if —
+
+(a) that applicant —
+
+(i) has notified the licensing authority in writing that that other person may grant that consent; and
+
+(ii) has not notified the licensing authority in writing that that person’s authority to grant that consent has been withdrawn; or
+
+(b) that applicant’s rights in respect of the relevant confidential supporting information have been transferred to that person and the applicant or that other person has notified the licensing authority in writing of the transfer.
+
+(3) For the purposes of this section, “WTO Country” means a country that is a party to the Agreement establishing the World Trade Organisation adopted at Marrakesh on 15th April 1994.
+
+[7/98 wef 16/04/1998]
+
 ### Offences under this Part
 
 20\.—(1) Subject to section 21, any person who contravenes any of the provisions of sections 5 and 6, or who is in possession of any medicinal product for the purpose of selling, supplying or exporting it in contravention of any of those sections, shall be guilty of an offence.
@@ -640,7 +734,7 @@ FURTHER PROVISIONS RELATING TO DEALINGS WITH MEDICINAL PRODUCTS
 
 (2) In this Act any reference to a medicinal product on a general sale list is a reference to a medicinal product of a description, or falling within a class, specified in an order under this section which is for the time being in force.
 
-1wef 3.5.93 vide S 156/93
+1wef 3.5.93 vide S156/93
 
 ### Sale or supply of medicinal products not on general sale list
 
@@ -650,19 +744,19 @@ FURTHER PROVISIONS RELATING TO DEALINGS WITH MEDICINAL PRODUCTS
 
 (b) that person is or acts under the personal supervision of a pharmacist.
 
-2wef 3.5.93 vide S 156/93
+2wef 3.5.93 vide S156/93
 
 ### Sale or supply of medicinal products on general sale list
 
 25\. 3Nothing in this Act shall prevent any person from selling by retail or supplying in circumstances corresponding to retail sale any medicinal product on a general sale list subject to such conditions as may be prescribed for the purposes of this section.
 
-3wef 3.5.93 vide S 156/93
+3wef 3.5.93 vide S156/93
 
 ### Prohibition of sale of medicinal products from automatic machines
 
 26\. 4On and after the appointed day a medicinal product shall not be sold by means of an automatic machine unless it is a medicinal product in the automatic machine section of a general sale list and complies with such conditions as may be prescribed.
 
-4wef 3.5.93 vide S 156/93
+4wef 3.5.93 vide S156/93
 
 ### Exemptions for doctors, dentists and veterinary surgeons and in respect of herbal remedies
 
@@ -676,7 +770,7 @@ FURTHER PROVISIONS RELATING TO DEALINGS WITH MEDICINAL PRODUCTS
 
 (3) The restrictions imposed by that section shall not apply to anything done at premises of which the person carrying on the business in question is the occupier and which he is able to close so as to exclude the public, and which consists of the sale or the supply in circumstances corresponding to retail sale of a herbal remedy where the processes to which the plant or plants are subjected consist of drying, crushing or comminuting, with or without diluting with water, but not any other process.
 
-5wef 3.5.93 vide S 156/93
+5wef 3.5.93 vide S156/93
 
 ### Power to extend or modify exemptions
 
@@ -686,7 +780,7 @@ FURTHER PROVISIONS RELATING TO DEALINGS WITH MEDICINAL PRODUCTS
 
 (3) The Minister may by order provide that section 27 shall have effect subject to such exceptions or modifications as may be specified in the order.
 
-6wef 3.5.93 vide S 156/93
+6wef 3.5.93 vide S156/93
 
 ### Medicinal products on prescription only
 
@@ -712,7 +806,7 @@ FURTHER PROVISIONS RELATING TO DEALINGS WITH MEDICINAL PRODUCTS
 
 (4) Any exemption conferred by an order in accordance with subsection (3)(a) may be conferred subject to such conditions or limitations as may be specified in the order.
 
-7wef 3.5.93 vide S 156/93
+7wef 3.5.93 vide S156/93
 
 ### Prohibition of sale, supply or importation of medicinal products of specified description or of animal feeding stuffs incorporating such products
 
@@ -752,7 +846,7 @@ FURTHER PROVISIONS RELATING TO DEALINGS WITH MEDICINAL PRODUCTS
 
 (b) in subsection (1), for the words “demanded by the purchaser”, there were substituted the words “specified in the prescription”.
 
-8wef 3.5.93 vide S 156/93
+8wef 3.5.93 vide S156/93
 
 ### Compliance with standards specified in monographs in certain publications
 
@@ -796,7 +890,7 @@ and any monograph in an edition of a publication shall be construed in accordanc
 
 (7) The Minister may by order amend subsections (4), (5) and (6).
 
-9wef 3.5.93 vide S 156/93
+9wef 3.5.93 vide S156/93
 
 ### Further powers to regulate dealings with medicinal products
 
@@ -1346,7 +1440,7 @@ where it is proved that the medicinal product in question was found on a vehicle
 
 (2) The Poisons Act [Cap. 234] is amended in the manner set out in the Second Schedule.
 
-10This section was not in operation when this Revised Edition was brought into force..
+10This section was not in operation when this Revised Edition was brought into force.
 
 FIRST SCHEDULE
 
@@ -1432,7 +1526,7 @@ Amendments to the Poisons Act (Chapter 234)
 
 Non-application of this Act to medicinal product or substance
 
-22. Nothing in this Act shall apply to any poison which is incorporated in a medicinal product or used as a substance for a medicinal purpose and which is regulated by the provisions of the Medicines Act [Cap. 176].
+22. Nothing in this Act shall apply to any poison which is incorporated in a medicinal product or used as a substance for a medicinal purpose and which is regulated by the provisions of the Medicines Act [Cap. 176] [Cap. 176].
 
 ”.
 
@@ -1460,3 +1554,8 @@ This Legislative History is provided for the convenience of users of the Medicin
 |||(Bill No. 12/1975 published on 7 March 1975)|
 ||Date of Second Reading|27 March 1975|
 ||Date of commencement|3 May 1993|
+|4.|**Act 7 of 1998—Medicines (Amendment) Act 1998**|
+||Date of First Reading|14 January 1998|
+|||(Bill No. 5/1998 published on 15 January 1998)|
+||Date of Second and Third Readings|19 February 1998|
+||Date of commencement|16 April 1998|
