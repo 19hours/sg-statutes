@@ -423,3 +423,8 @@ This Legislative History is provided for the convenience of users of the Governm
 ||Date of commencement|6 March 1992|
 |2.|**1993 Revised Edition—Government Securities Act (Chapter 121A)**|
 ||Date of operation|15 March 1993|
+|3.|**Act 9 of 1996—Government Securities (Amendment) Act 1996**|
+||Date of First Reading|5 December 1995|
+|||(Bill No. 44/95 published on 6 December 1995)|
+||Date of Second and Third Readings|18 January 1996|
+||Date of commencement|1 April 1996|
