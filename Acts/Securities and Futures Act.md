@@ -620,7 +620,7 @@
 
 - [255 Defences](#Defences)
 
-- [256 Offer information statement for renounceable rights issues](#Offer-information-statement-for-renounceable-rights-issues)
+- [256 Abridged prospectus for renounceable rights issues](#Abridged-prospectus-for-renounceable-rights-issues)
 
 - [257 Document containing offer of shares or debentures for sale deemed prospectus](#Document-containing-offer-of-shares-or-debentures-for-sale-deemed-prospectus)
 
@@ -784,7 +784,7 @@
 
 - [322 Power of Authority to publish information](#Power-of-Authority-to-publish-information)
 
-- [323 Immunity of Authority and its employees, etc.](#Immunity-of-Authority-and-its-employees-etc)
+- [323 (Repealed)](#Repealed)
 
 - [324 Power of court to prohibit payment or transfer of moneys, securities, etc.](#Power-of-court-to-prohibit-payment-or-transfer-of-moneys-securities-etc)
 
@@ -7136,45 +7136,17 @@ is not liable under section 253(1) or 254(1) only because of a false or misleadi
 
 (6) A person is not liable under section 253(1) or 254(1) only because of a new circumstance that has arisen since the prospectus or the profile statement was lodged with the Authority if the person proves that he was not aware of the matter.
 
-### Offer information statement for renounceable rights issues
+### Abridged prospectus for renounceable rights issues
 
 256\.—(1) An offer of shares in or debentures of, or units of shares in or debentures of, a company for subscription or purchase, or an invitation to subscribe for or purchase shares in or debentures of, or units of shares in or debentures of, a company shall be deemed to be an offer to the public if —
 
 (a) it is an offer or invitation by means of a rights issue which is renounceable in favour of persons other than existing members or debenture holders of that company; and
 
-(b) an application has been or will be made for permission for the shares or debentures, or units of shares or debentures, to be listed for quotation on any securities exchange.
+(2) Where subsection (1) applies to any offer or invitation in respect of shares in or debentures of, or units of shares in or debentures of, a company, an abridged prospectus shall be lodged with the Authority containing the prescribed particulars.
 
-[16/2003 wef 22/12/2003]
+(3) Any abridged prospectus lodged under subsection (2) shall be deemed to be a prospectus for the purposes of this Division and all written law and rules of law as to contents of prospectuses (to the extent that may be applicable) and as to liability in respect of statements in and omissions from prospectuses or otherwise relating to prospectuses shall apply to an abridged prospectus and have effect accordingly.
 
-(2) Where subsection (1) applies to any offer or invitation, an offer information statement which complies with such form and content as may be prescribed by the Authority shall be lodged with the Authority.
-
-[16/2003 wef 22/12/2003]
-
-(3) Notwithstanding anything in section 240, that section need not be complied with in relation to an offer or invitation to which subsection (1) applies if subsection (2) has been complied with.
-
-[16/2003 wef 22/12/2003]
-
-(4) The Authority may, on the application of a company affected by this section, modify the prescribed form and content of the offer information statement in such manner as is appropriate, subject to such conditions or restrictions as may be determined by the Authority.
-
-[16/2003 wef 22/12/2003]
-
-(5) Sections 249, 250, 253, 254 and 255 shall, with the necessary modifications, apply in relation to an offer information statement referred to in subsection (2) as they apply in relation to a prospectus.
-
-[16/2003 wef 22/12/2003]
-
-(6) For the purposes of subsection (5) —
-
-(a) a reference in section 249 to the delivery of a copy of the prospectus for registration shall be read as a reference to the delivery of a copy of the offer information statement for lodgment;
-
-(b) a reference in section 250 to the date of registration of a prospectus shall be read as a reference to the date of lodgment of the offer information statement; and
-
-(c) a reference in section 253 or 254 to any information or new circumstance required to be included in a prospectus under section 243 shall be read as a reference to any information prescribed under subsection (2).
-
-[16/2003 wef 22/12/2003]
-
-(7) Where the written consent of an expert to the issue of an offer information statement is required to be given under section 249 (as applied in relation to that statement under subsection (5)), that written consent shall be lodged with the Authority at the same time as the lodgment of the statement.
-
-[16/2003 wef 22/12/2003]
+(4) Nothing in this section shall be construed as preventing a full prospectus being registered containing the particulars as prescribed by the Authority in respect of an offer or invitation referred to in subsection (1).
 
 ### Document containing offer of shares or debentures for sale deemed prospectus
 
@@ -7236,9 +7208,7 @@ then —
 
 (b) permission is not granted as specified in subsection (1)(b),
 
-the Authority may, on the application of the corporation made before any share or debenture, or unit of share or debenture, is purported to be allotted, exempt the allotment of the shares or debentures, or units of shares or debentures, from the provisions of this section; and the Authority shall give notice of such exemption in theGazette.
-
-[16/2003 wef 22/12/2003]
+the Authority may, on the application of the corporation made before any share or debenture, or unit of share or debenture, is purported to be allotted, exempt the allotment of the shares or debentures, or units of shares or debentures, from the provisions of this section.
 
 (4) A director shall not be liable under subsection (2) if he proves that the default in the repayment of the money was not due to any misconduct or negligence on his part.
 
@@ -7248,7 +7218,7 @@ the Authority may, on the application of the corporation made before any share o
 
 (a) in relation to any shares or debentures , or units of shares or debentures agreed to be taken by a person underwriting an offer thereof contained in a prospectus as if he had applied therefor in pursuance of the prospectus; and
 
-(b) in relation to a prospectus offering shares or debentures, or units of shares or debentures for sale as if —
+(b) in relation to a prospectus offering shares or units of shares for sale as if —
 
 (i) a reference to sale were substituted for a reference to allotment;
 
@@ -7256,11 +7226,7 @@ the Authority may, on the application of the corporation made before any share o
 
 (iii) for the reference in subsection (7) to the corporation and every officer of the corporation who is in default there were substituted a reference to any person by or through whom the offer is made and who knowingly and wilfully authorises or permits the default.
 
-[16/2003 wef 22/12/2003]
-
-(7) All moneys received from applicants in pursuance of the prospectus shall be kept in a separate bank account so long as the corporation may become liable to repay it under subsection (2).
-
-[16/2003 wef 22/12/2003]
+(7) All moneys received under this section shall be kept in a separate bank account so long as the corporation may become liable to repay it under subsection (2).
 
 (8) If default is made in complying with subsection (7), the corporation and every officer of the corporation who is in default shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
 
@@ -7270,13 +7236,9 @@ the Authority may, on the application of the corporation made before any share o
 
 (11) A person shall not issue a prospectus inviting persons to subscribe for shares in or debentures of, or units of shares in or debentures of, a corporation if it includes —
 
-(a) a false or misleading statement that permission has been granted for those shares or debentures, or units of shares or debentures, to be listed for quotation on the official list of, dealt in or quoted on any securities exchange; or
+(a) a false or misleading statement that permission has been granted for those shares or debentures, or units of shares or debentures, to be dealt in or quoted on any securities exchange; or
 
-[16/2003 wef 22/12/2003]
-
-(b) any statement in any way referring to any such permission or to any application or intended application for any such permission, or to listing for quotation on the official list of, dealing in or quoting the shares or debentures, or units of shares or debentures on, any securities exchange, or to any requirements of a securities exchange unless that statement is or is to the effect that permission has been granted or that application has been or will be made to the securities exchange within 3 days from the date of the issue of the prospectus or the statement has been approved by the Authority for inclusion in the prospectus.
-
-[16/2003 wef 22/12/2003]
+(b) any statement in any way referring to any such permission or to any application or intended application for any such permission, or to dealing in or quoting the shares or debentures, or units of shares or debentures, on any securities exchange, or to any requirements of a securities exchange unless that statement is or is to the effect that permission has been granted or that application has been or will be made to the securities exchange within 3 days from the date of the issue of the prospectus or the statement has been approved by the Authority for inclusion in the prospectus.
 
 (12) Any person who contravenes subsection (11) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
 
@@ -9202,17 +9164,7 @@ the Authority may refuse to register or receive the record and request that the 
 
 (h) any other action as may have been taken by the Minister, the Authority, a securities exchange, a futures exchange or a clearing house against any person referred to in subsection (1).
 
-### Immunity of Authority and its employees, etc.
-
-323\. No suit or other legal proceedings shall lie against the Authority or any officer or employee of the Authority or any person acting under the direction of the Authority —
-
-(a) for any act done in good faith —
-
-(i) in the performance, or intended performance, of any function or duty; or
-
-(ii) in the exercise, or intended exercise, of any power under this Act; or
-
-(b) for any neglect or default in the performance or exercise in good faith of such function, duty or power.
+323\. [Repealed by Act 24 of 2003 wef 01/01/2004]
 
 ### Power of court to prohibit payment or transfer of moneys, securities, etc.
 
@@ -9982,6 +9934,12 @@ This Legislative History is provided for the convenience of users of the Securit
 |||(Bill No. 15/2003 published on 15 August 2003)|
 ||Date of Second and Third Readings|2 September 2003|
 ||Date of commencement|22 December 2003|
+|6.|**Act 24 of 2003—Monetary Authority of Singapore (Amendment) Act 2003**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|16 October 2003|
+|||(Bill No. 21/2003 published on 17 October 2003)|
+||Date of Second and Third Readings|10 November 2003|
+||Date of commencement|1 January 2004|
 ## COMPARATIVE TABLE
 
 Securities and Futures Act
