@@ -50,7 +50,9 @@ An Act to authorise the raising of loans outside Singapore, to provide sums requ
 
 Provided that if the moneys so raised for the repayment or amortisation of any loan exceed the amounts required for that purpose after the application thereto of any amounts available in a sinking fund relating to the loan, then the excess shall be applied and is hereby appropriated to the redemption, at such times and in such manner as the Minister may determine, of securities of Singapore.
 
-(3) Any moneys raised under this Act shall not in the aggregate exceed such sum or sums as the President, acting on the recommendation of the Minister, may, from time to time, authorise by order under this Act.
+(3) Any moneys raised under this Act shall not in the aggregate exceed such sum or sums as the President, acting in his discretion, if he concurs with the recommendation of the Minister, may, from time to time, authorise by order under this Act.
+
+[Act 11/91 wef 30/11/1991 vide S 527/91]
 
 (4) In applying subsection (3), any moneys raised in a currency other than Singapore dollars shall be converted into Singapore dollars as at the day when the amount to be raised is determined and by the use of such rate of exchange as the Chairman of the Board of Commissioners of Currency, Singapore, may certify to be then appropriate.
 
@@ -131,3 +133,8 @@ This Legislative History is provided for the convenience of users of the Externa
 ||Date of operation|1 April 1971|
 |3.|**1985 Revised Edition—External Loans Act**|
 ||Date of operation|30 March 1987|
+|4.|**Act 11 of 1991—Statutes (Miscellaneous Amendments) Act 1991**|
+||Date of First Reading|3 January 1991|
+|||(Bill No. 4/1991)|
+||Date of Second and Third Readings|14 January 1991|
+||Date of commencement|30 November 1991|
