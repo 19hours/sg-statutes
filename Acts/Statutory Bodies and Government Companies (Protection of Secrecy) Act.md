@@ -178,9 +178,9 @@ Singapore Broadcasting Authority Act (Chapter 297).
 
 17.
 
-Singapore Institute of Standards and Industrial Research
+Singapore Productivity and Standards Board
 
-Singapore Institute of Standards and Industrial Research Act (Chapter 301)
+Singapore Productivity and Standards Board Act 1995
 
 18.
 
@@ -209,6 +209,8 @@ Urban Redevelopment Authority Act (Chapter 340).
 [29/1995 wef 01/09/1995]
 
 [7/1996 wef 02/01/1996]
+
+[1/1996 wef 01/04/1996]
 
 Part II
 
@@ -317,3 +319,9 @@ This Legislative History is provided for the convenience of users of the Statuto
 |||(Bill No. 41/1995 published on 6 December 1995)|
 ||Date of Second and Third Readings|18 January 1996|
 ||Date of commencement|2 February 1996|
+|18.|**Act 1 of 1996—Singapore Productivity and Standards Board Act 1995**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|1 November 1995|
+|||(Bill No. 38/1995 published on 2 November 1995)|
+||Date of Second and Third Readings|5 December 1995|
+||Date of commencement|1 April 1996|
