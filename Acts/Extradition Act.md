@@ -14,17 +14,17 @@
 
 [**Part II EXTRADITION TO FOREIGN STATES**](#Part-II)
 
-- [3 Application of Part in relation to foreign States to which Extradition Acts 1870 to 1935 applied](#Application-of-Part-in-relation-to-foreign-States-to-which-Extradition-Acts-1870-to-1935-applied)
+- [3 Application of this Part in relation to foreign States to which Extradition Acts 1870 to 1935 applied](#Application-of-this-Part-in-relation-to-foreign-States-to-which-Extradition-Acts-1870-to-1935-applied)
 
 - [4 Part may be applied in relation to foreign State byGazettenotification](#Part-may-be-applied-in-relation-to-foreign-State-byGazettenotification)
 
-- [5 Effect of applying Part in relation to foreign State byGazettenotification](#Effect-of-applying-Part-in-relation-to-foreign-State-byGazettenotification)
+- [5 Effect of applying this Part in relation to foreign State byGazettenotification](#Effect-of-applying-this-Part-in-relation-to-foreign-State-byGazettenotification)
 
 - [6 Liability of fugitive to be surrendered](#Liability-of-fugitive-to-be-surrendered)
 
 - [7 Restrictions on surrender of persons to foreign States](#Restrictions-on-surrender-of-persons-to-foreign-States)
 
-- [8 Restriction on power of Minister to authorise the apprehension, or order the surrender, of a fugitive](#Restriction-on-power-of-Minister-to-authorise-the-apprehension-or-order-the-surrender-of-a-fugitive)
+- [8 Restriction on power of Minister to authorise apprehension, or order surrender, of a fugitive](#Restriction-on-power-of-Minister-to-authorise-apprehension-or-order-surrender-of-a-fugitive)
 
 - [9 Notice by Minister](#Notice-by-Minister)
 
@@ -34,13 +34,13 @@
 
 - [12 Surrender of fugitive to foreign State](#Surrender-of-fugitive-to-foreign-State)
 
-- [13 Discharge of fugitive who is not conveyed out of Singapore within two months](#Discharge-of-fugitive-who-is-not-conveyed-out-of-Singapore-within-two-months)
+- [13 Discharge of fugitive who is not conveyed out of Singapore within 2 months](#Discharge-of-fugitive-who-is-not-conveyed-out-of-Singapore-within-2-months)
 
 [**Part III EXTRADITION FROM FOREIGN STATES**](#Part-III)
 
-- [14 Interpretation](#Interpretation)
+- [14 Interpretation of this Part](#Interpretation-of-this-Part)
 
-- [15 Requisition to foreign State for surrender of persons to be made by Minister](#Requisition-to-foreign-State-for-surrender-of-persons-to-be-made-by-Minister)
+- [15 Requisition to foreign State for surrender of person to be made by Minister](#Requisition-to-foreign-State-for-surrender-of-person-to-be-made-by-Minister)
 
 - [16 Person surrendered may be brought into Singapore](#Person-surrendered-may-be-brought-into-Singapore)
 
@@ -48,27 +48,27 @@
 
 [**Part IV EXTRADITION TO AND FROM DECLARED COMMONWEALTH COUNTRIES**](#Part-IV)
 
-- [18 Application of Part in relation to Commonwealth countries](#Application-of-Part-in-relation-to-Commonwealth-countries)
+- [18 Interpretation of this Part](#Interpretation-of-this-Part)
 
-- [19 Liability of fugitive to be surrendered](#Liability-of-fugitive-to-be-surrendered)
+- [19 Application of this Part in relation to Commonwealth countries](#Application-of-this-Part-in-relation-to-Commonwealth-countries)
 
-- [20 Restrictions on surrender of persons to Commonwealth countries](#Restrictions-on-surrender-of-persons-to-Commonwealth-countries)
+- [20 Liability of fugitive to be surrendered](#Liability-of-fugitive-to-be-surrendered)
 
-- [21 Restrictions on power of Minister to authorise the apprehension, or order the surrender, of a fugitive](#Restrictions-on-power-of-Minister-to-authorise-the-apprehension-or-order-the-surrender-of-a-fugitive)
+- [21 Restrictions on surrender of persons to Commonwealth countries](#Restrictions-on-surrender-of-persons-to-Commonwealth-countries)
 
-- [22 Notices by Minister](#Notices-by-Minister)
+- [22 Restrictions on power of Minister to authorise apprehension, or order surrender, of a fugitive](#Restrictions-on-power-of-Minister-to-authorise-apprehension-or-order-surrender-of-a-fugitive)
 
-- [23 Issue of warrants](#Issue-of-warrants)
+- [23 Notice by Minister](#Notice-by-Minister)
 
-- [24 Proceedings after apprehension of person](#Proceedings-after-apprehension-of-person)
+- [24 Issue of warrants](#Issue-of-warrants)
 
-- [25 Power of Magistrate or court to release, or postpone surrender of, person](#Power-of-Magistrate-or-court-to-release-or-postpone-surrender-of-person)
+- [25 Proceedings after apprehension of person](#Proceedings-after-apprehension-of-person)
 
-- [26 Surrender of fugitive to Commonwealth country](#Surrender-of-fugitive-to-Commonwealth-country)
+- [26 Power of Magistrate or court to release, or postpone surrender of, person](#Power-of-Magistrate-or-court-to-release-or-postpone-surrender-of-person)
 
-- [27 Discharge of fugitive who is not conveyed out of Singapore within two months](#Discharge-of-fugitive-who-is-not-conveyed-out-of-Singapore-within-two-months)
+- [27 Surrender of fugitive to Commonwealth country](#Surrender-of-fugitive-to-Commonwealth-country)
 
-- [28 Interpretation](#Interpretation)
+- [28 Discharge of fugitive who is not conveyed out of Singapore within 2 months](#Discharge-of-fugitive-who-is-not-conveyed-out-of-Singapore-within-2-months)
 
 - [29 Requisition to Commonwealth country for surrender of person to be made by Minister](#Requisition-to-Commonwealth-country-for-surrender-of-person-to-be-made-by-Minister)
 
@@ -102,13 +102,11 @@
 
 - [42 Overseas documents may be admitted in evidence if duly authenticated](#Overseas-documents-may-be-admitted-in-evidence-if-duly-authenticated)
 
-- [43 (Repealed)](#Repealed)
+- [43 Power to amend and vary Schedules](#Power-to-amend-and-vary-Schedules)
 
 - [44 Power to make rules](#Power-to-make-rules)
 
-- [45 Power to amend and vary Schedules](#Power-to-amend-and-vary-Schedules)
-
-[**FIRST SCHEDULE Description of returnable offences**](#FIRST-SCHEDULE-Description-of-returnable-offences)
+[**FIRST SCHEDULE**](#FIRST-SCHEDULE)
 
 [**SECOND SCHEDULE**](#SECOND-SCHEDULE)
 
@@ -116,15 +114,17 @@
 
 [**Legislative History**](#Legislative-History)
 
+[**Comparative Table**](#Comparative-Table)
+
 # Extradition Act
 
 (CHAPTER 103)
 
 (Original Enactment: Act 14 of 1968)
 
-REVISED EDITION 1985
+REVISED EDITION 2000
 
-(30th March 1987)
+(30th December 2000)
 
 An Act to provide for the extradition of fugitives to and from Commonwealth countries and foreign States and for matters connected therewith.
 
@@ -170,17 +170,17 @@ PRELIMINARY
 
 between which and Singapore an extradition treaty is in force;
 
-[16/98 wef 11/06/1998]
-
 “foreign warrant” means a judicial or other document issued under the law of, or of a part of, a foreign State and authorising the apprehension of a person;
 
-“fugitive” means a person who is accused of an extradition crime that is alleged to have been committed, or convicted of an extradition crime that was committed at a place within the jurisdiction of a declared Commonwealth country or a foreign State or of a part of such country or State and is, or is suspected to be, in Singapore;
+“fugitive” means a person who is accused of an extradition crime that is alleged to have been committed, or convicted of an extradition crime that was committed at a place within the jurisdiction of a foreign State or a declared Commonwealth country or of a part of such State or country and is, or is suspected to be, in Singapore;
 
 “overseas warrant” means a judicial or other document issued under the law of, or of a part of, a declared Commonwealth country and authorising the apprehension of a person;
 
-“prison” includes a gaol, lock-up or other place of detention.
+“prison” includes a jail, lock-up or other place of detention.
 
-(2) A reference in this Act to a fugitive from a foreign State or declared Commonwealth country shall be read as a reference to a fugitive accused of an extradition crime that is alleged to have been committed, or convicted of an extradition crime that was committed, at a place in that foreign State or declared Commonwealth country or within the jurisdiction of, or of a part of, that State or country.
+[16/98]
+
+(2) A reference in this Act to a fugitive from a foreign State or declared Commonwealth country shall be read as a reference to a fugitive accused of an extradition crime that is alleged to have been committed, or convicted of an extradition crime that was committed, at a place in that State or country or within the jurisdiction of, or of a part of, that State or country.
 
 (3) For the purposes of this Act, a person shall be deemed not to have been convicted of an offence against the law of, or of a part of, a foreign State or declared Commonwealth country where the conviction is, under that law, a conviction for contumacy, but a person so convicted for contumacy shall be deemed to be accused of an offence against that law.
 
@@ -198,15 +198,19 @@ shall, unless the contrary intention appears, each be deemed to be within the ju
 
 (6) For the purposes of this Act, a person convicted of an offence in his absence shall be treated as a person accused of that offence.
 
-(7) Without prejudice to any powers or jurisdiction conferred upon a District Judge by the Criminal Procedure Code, a District Judge shall in the exercise of his jurisdiction have all the powers that are conferred upon and exercised by a Magistrate under this Act; and accordingly every reference to a Magistrate in this Act shall be read as including a reference to a District Judge.
+(6A) Every District Judge and Magistrate shall have the jurisdiction to hear a case and commit a fugitive to prison to await his return under this Act.
+
+[15/2010 wef 02/01/2011]
+
+(7) Without prejudice to any powers or jurisdiction conferred upon a District Judge by the Criminal Procedure Code (Cap. 68), a District Judge shall in the exercise of his jurisdiction have all the powers that are conferred upon and exercised by a Magistrate under this Act; and accordingly every reference to a Magistrate in this Act shall be read as including a reference to a District Judge.
 
 ## PART II
 
 EXTRADITION TO FOREIGN STATES
 
-### Application of Part in relation to foreign States to which Extradition Acts 1870 to 1935 applied
+### Application of this Part in relation to foreign States to which Extradition Acts 1870 to 1935 applied
 
-3\.—(1) Where, immediately before the commencement of this Act —
+3\.—(1) Where, immediately before 1st August 1968 —
 
 (a) under an Order in Council in force under the Imperial Acts known as the Extradition Acts 1870 to 1935, those Acts applied in the case of a foreign State specified in the Order; and
 
@@ -222,7 +226,7 @@ this Part applies in relation to that State.
 
 ### Part may be applied in relation to foreign State byGazettenotification
 
-4\.—(1) Where, after the commencement of this Act, an extradition treaty (including an extradition treaty that affects or amends an earlier extradition treaty) comes into force between Singapore and a foreign State —
+4\.—(1) Where, after 1st August 1968, an extradition treaty (including an extradition treaty that affects or amends an earlier extradition treaty) comes into force between Singapore and a foreign State —
 
 (a) if this Part applies in relation to the foreign State at the time of the coming into force of that treaty — the Minister may by notification in theGazettedirect that this Part applies in relation to that State after that time subject to such limitations, conditions, exceptions or qualifications as are necessary or desirable to give effect to that treaty and are specified in the notification; or
 
@@ -230,7 +234,7 @@ this Part applies in relation to that State.
 
 (2) The limitations, conditions, exceptions or qualifications referred to in subsection (1) may, in relation to a foreign State, be expressed in the form that this Part applies in relation to that State subject to the extradition treaty referred to in that subsection.
 
-### Effect of applying Part in relation to foreign State byGazettenotification
+### Effect of applying this Part in relation to foreign State byGazettenotification
 
 5\.—(1) Subject to subsection (2) where the notification for the time being in force provides that this Part applies in relation to a foreign State, this Part applies in relation to that State.
 
@@ -238,7 +242,9 @@ this Part applies in relation to that State.
 
 ### Liability of fugitive to be surrendered
 
-6\. Where this Part applies in relation to a foreign State, every fugitive from that State shall be liable, subject to this Part and to any limitations, conditions, exceptions or qualifications to which the application of this Part in relation to that State is subject, to be apprehended and surrendered to that State as provided by this Part and shall be so liable whether the offence to which the requisition for the surrender of the fugitive relates is alleged to have been committed, or was committed, before or after the date of the coming into operation of this Part or before or after the date when this Part commenced to apply in relation to that State.
+6\.—(1) Where this Part applies in relation to a foreign State, every fugitive from that State shall be liable, subject to this Part and to any limitations, conditions, exceptions or qualifications to which the application of this Part in relation to that State is subject, to be apprehended and surrendered to that State as provided by this Part.
+
+(2) Every such fugitive shall be liable under subsection (1) whether the offence to which the requisition for the surrender of the fugitive relates is alleged to have been committed, or was committed, before or after the date of the coming into operation of this Part or before or after the date when this Part commenced to apply in relation to that State.
 
 ### Restrictions on surrender of persons to foreign States
 
@@ -254,7 +260,7 @@ this Part applies in relation to that State.
 
 (4) A person shall not be liable to be surrendered to a foreign State in respect of an offence if he has been acquitted or pardoned by a competent tribunal or authority in any country, or has undergone the punishment provided by the law of, or of a part of, any country, in respect of that offence or of another offence constituted by the same act or omission as that offence.
 
-### Restriction on power of Minister to authorise the apprehension, or order the surrender, of a fugitive
+### Restriction on power of Minister to authorise apprehension, or order surrender, of a fugitive
 
 8\. The Minister shall not give a notice under section 9(1), or issue a warrant under section 12(2), in respect of a fugitive from a foreign State, if the Minister has substantial grounds for believing that —
 
@@ -296,9 +302,9 @@ if the act or omission constituting the extradition crime had taken place in, or
 
 (b) where the testimony was given orally —
 
-(i) if the testimony has been reduced to writing — the Magistrate sends to the Minister that writing certified by him to be a true record of the testimony; or
+(i) if the testimony has been reduced to writing, the Magistrate sends to the Minister that writing certified by him to be a true record of the testimony; or
 
-(ii) if the testimony has not been reduced to writing — the Magistrate sends to the Minister the notes made by the Magistrate in respect of the testimony and certified by him to be a true summary of the testimony.
+(ii) if the testimony has not been reduced to writing, the Magistrate sends to the Minister the notes made by the Magistrate in respect of the testimony and certified by him to be a true summary of the testimony.
 
 (4) Where the Minister —
 
@@ -312,25 +318,27 @@ he may, if he thinks fit, by order in writing, direct that the warrant be cancel
 
 (a) if the person is held in custody, the person holding him in custody shall, upon receipt of the order, cause him to be released; or
 
-(b) if he has been admitted to bail, the recognizances upon which he was admitted to bail are, by force of this subsection, discharged.
+(b) if he has been admitted to bail, the recognizances upon which he was admitted to bail shall, under this subsection, be discharged.
 
 ### Proceedings after apprehension of person
 
-11\.—(1) A person who is apprehended under a warrant issued in pursuance of section 10 shall, unless he is sooner released, be brought as soon as practicable before a Magistrate.
+11\.—(1) A person who is apprehended under a warrant issued under section 10 shall, unless he is sooner released, be brought as soon as practicable before a Magistrate.
 
-(2) The Magistrate may remand a person brought before him under this section, either in custody or on bail, for a period or periods not exceeding 7 days at any one time and, where a Magistrate remands a person for such a period, the person may, at the expiration of the period, be brought before that Magistrate or before any other Magistrate.
+(2) The Magistrate may remand a person brought before him under this section, either in custody or on bail, for a period or periods not exceeding 7 days at any one time.
 
-(3) In the application of subsections (4) to (8) in relation to a person who has been apprehended under a warrant issued in pursuance of section 10, “Magistrate” means the Magistrate before whom the person is brought after he was apprehended or at the expiration of a period for which he has been remanded under this section, as the case may be.
+(3) Where a Magistrate remands a person for such a period, the person may, at the expiration of the period, be brought before the Magistrate or before any other Magistrate.
 
-(4) If the person was apprehended under a warrant issued otherwise than in pursuance of an authority by the Minister in a notice under section 9(1)(a), the Magistrate shall remand the person in accordance with subsection (2) until the Magistrate receives a notice under section 9(1)(b) from the Minister informing the Magistrate that a requisition for the surrender of the person has been made to the Minister by a foreign State.
+(4) In the application of subsections (5) to (10) in relation to a person who has been apprehended under a warrant issued under section 10, “Magistrate” means the Magistrate before whom the person is brought after he was apprehended or at the expiration of a period for which he has been remanded under this section, as the case may be.
 
-(5) Where the Magistrate does not receive such a notice within such time as is reasonable having regard to all the circumstances, the Magistrate shall —
+(5) If the person was apprehended under a warrant issued otherwise than in pursuance of an authority by the Minister in a notice under section 9(1)(a), the Magistrate shall remand the person in accordance with subsections (2) and (3) until the Magistrate receives a notice under section 9(1)(b) from the Minister informing the Magistrate that a requisition for the surrender of the person has been made to the Minister by a foreign State.
 
-(a) if the person apprehended is held in custody — order that he be released; or
+(6) Where the Magistrate does not receive such a notice within such time as is reasonable having regard to all the circumstances, the Magistrate shall —
 
-(b) if he has been admitted to bail — make an order discharging the recognizances upon which he was admitted to bail.
+(a) if the person apprehended is held in custody, order that he be released; or
 
-(6) If the person was apprehended under a warrant issued in pursuance of an authority by the Minister in a notice under section 9(1)(a) or the Magistrate receives a notice from the Minister under section 9(1)(b) and —
+(b) if he has been admitted to bail, make an order discharging the recognizances upon which he was admitted to bail.
+
+(7) If the person was apprehended under a warrant issued in pursuance of an authority by the Minister in a notice under section 9(1)(a) or the Magistrate receives a notice from the Minister under section 9(1)(b) and —
 
 (a) there is produced to the Magistrate a duly authenticated foreign warrant in respect of the person issued in the foreign State that made the requisition for the surrender of the person;
 
@@ -344,13 +352,15 @@ he may, if he thinks fit, by order in writing, direct that the warrant be cancel
 
 the Magistrate shall, by warrant in accordance with Form 5 in the Second Schedule, commit the person to prison to await the warrant of the Minister for his surrender but otherwise shall order that the person be released.
 
-(7) Where the Magistrate is of the opinion that it would be dangerous to the life or prejudicial to the health of the person to commit him to prison, he may, in lieu of committing him to prison, by warrant, order that he be held in custody at the place where he is for the time being, or at any other place to which the Magistrate considers that he can be removed without danger to his life or prejudice to his health, until such time as he can without such danger or prejudice be committed to prison or he is surrendered and, in such a case, the warrant shall be in accordance with Form 5 in the Second Schedule with such variations as are necessary to meet the circumstances of the case.
+(8) Where the Magistrate is of the opinion that it would be dangerous to the life or prejudicial to the health of the person to commit him to prison, he may, in lieu of committing him to prison, by warrant, order that he be held in custody at the place where he is for the time being, or at any other place to which the Magistrate considers that he can be removed without danger to his life or prejudice to his health, until such time as he can without such danger or prejudice be committed to prison or he is surrendered.
 
-(8) Where, in pursuance of this section, a Magistrate commits a person to prison or otherwise orders that he be held in custody, he shall forthwith send to the Minister a certificate to that effect and such report (if any) relating to the proceedings as he thinks fit.
+(9) In the case referred to in subsection (8), the warrant shall be in accordance with Form 5 in the Second Schedule with such variations as are necessary to meet the circumstances of the case.
+
+(10) Where, under this section, a Magistrate commits a person to prison or otherwise orders that he be held in custody, he shall forthwith send to the Minister a certificate to that effect and such report (if any) relating to the proceedings as he thinks fit.
 
 ### Surrender of fugitive to foreign State
 
-12\.—(1) When, in pursuance of this Part, a Magistrate commits a person (referred to in this section as the prisoner) to prison, or otherwise orders that he be held in custody, to await the warrant of the Minister for his surrender to a foreign State, the Magistrate shall inform the prisoner that he will not be surrendered until after the expiration of the period of 15 days from the date of the committal or order and that, if he asserts that his detention is unlawful, he may apply to a court of competent jurisdiction for a writ of habeas corpus.
+12\.—(1) When, under this Part, a Magistrate commits a person (referred to in this section as the prisoner) to prison, or otherwise orders that he be held in custody, to await the warrant of the Minister for his surrender to a foreign State, the Magistrate shall inform the prisoner that he will not be surrendered until after the expiration of the period of 15 days from the date of the committal or order and that, if he asserts that his detention is unlawful, he may apply to a court of competent jurisdiction for a writ of habeas corpus.
 
 (2) After —
 
@@ -360,15 +370,15 @@ the Magistrate shall, by warrant in accordance with Form 5 in the Second Schedul
 
 whichever is the later, the Minister may, in his discretion, if he is satisfied that the prisoner is liable to be surrendered to the foreign State, by warrant in accordance with Form 6 in the Second Schedule or, where the prisoner is held in custody otherwise than at a prison, in accordance with that Form with such variations as are necessary to meet the circumstances of the case, order that the prisoner be delivered into the custody of a person specified in the warrant and be conveyed by that person to a place in the foreign State or within the jurisdiction of, or of a part of, the foreign State and there surrendered to some person appointed by the foreign State to receive him.
 
-(3) A warrant issued in pursuance of subsection (2) may be executed according to its tenor.
+(3) A warrant issued under subsection (2) may be executed according to its tenor.
 
 (4) If the prisoner escapes from the custody of the person executing the warrant, he may be retaken in the same manner as a person accused of an offence against the law in force in Singapore may be taken upon an escape from lawful custody.
 
 (5) Any property in the possession of the prisoner at the time of his apprehension that may be material as evidence in proving the offence to which the requisition for his surrender relates shall, if the Minister so directs, be delivered up with the prisoner on his surrender.
 
-### Discharge of fugitive who is not conveyed out of Singapore within two months
+### Discharge of fugitive who is not conveyed out of Singapore within 2 months
 
-13\. Where a person who, in pursuance of this Part, has been committed to prison, or otherwise ordered to be held in custody, is in custody in Singapore at the expiration of two months after —
+13\. Where a person who, under this Part, has been committed to prison, or otherwise ordered to be held in custody, is in custody in Singapore at the expiration of 2 months after —
 
 (a) the date of the committal or order; or
 
@@ -380,7 +390,7 @@ whichever is the later, the High Court, upon application made to it by the perso
 
 EXTRADITION FROM FOREIGN STATES
 
-### Interpretation
+### Interpretation of this Part
 
 14\. In this Part, “extraditable crime” means an offence (wherever committed) against the law in force in Singapore, being an offence that —
 
@@ -388,13 +398,13 @@ EXTRADITION FROM FOREIGN STATES
 
 (b) would be so described if the description concerned contained a reference to any intent or state of mind on the part of the person committing the offence, or to any circumstance of aggravation, necessary to constitute the offence.
 
-### Requisition to foreign State for surrender of persons to be made by Minister
+### Requisition to foreign State for surrender of person to be made by Minister
 
 15\. Where a person accused or convicted of an extraditable crime is, or is suspected of being, in a foreign State or within the jurisdiction of, or of a part of, a foreign State, the Minister may make a requisition to that State for the surrender of the person.
 
 ### Person surrendered may be brought into Singapore
 
-16\. Where a person accused or convicted of an extraditable crime is surrendered by a foreign State, the person may be brought into Singapore and delivered to the proper authorities to be dealt with according to law.
+16\. Where a person accused or convicted of an extraditable crime is surrendered by a foreign State, the person may be brought to Singapore and delivered to the proper authorities to be dealt with according to law.
 
 ### Person surrendered by foreign State in respect of an offence not to be prosecuted or detained for other offences
 
@@ -408,27 +418,45 @@ EXTRADITION FROM FOREIGN STATES
 
 EXTRADITION TO AND FROM DECLARED COMMONWEALTH COUNTRIES
 
-### Application of Part in relation to Commonwealth countries
+### Interpretation of this Part
 
-18\.—(1) The Minister may declare a country to be a Commonwealth country in relation to which this Part applies and, subject to subsection (2), where there is such a declaration for the time being in force, this Part shall apply in relation to that country.
+18\. In this Part, “extraditable crime” means an offence (wherever committed) against the law in force in Singapore the maximum penalty for which is death or imprisonment for a period of not less than 12 months, being an offence that —
+
+(a) is described in the First Schedule; or
+
+(b) would be so described if the description concerned contained a reference to any intent or state of mind on the part of the person committing the offence, or to any circumstance of aggravation, necessary to constitute the offence.
+
+[28
+
+### Application of this Part in relation to Commonwealth countries
+
+19\.—(1) The Minister may declare a country to be a Commonwealth country in relation to which this Part applies and, subject to subsection (2), where there is such a declaration for the time being in force, this Part shall apply in relation to that country.
 
 (2) The Minister may provide that this Part shall apply in relation to a declared Commonwealth country subject to such limitations, conditions, exceptions or qualifications as are prescribed and, where the declaration for the time being in force so provides, this Part shall apply in relation to that country subject to those limitations, conditions, exceptions or qualifications.
 
+[18
+
 ### Liability of fugitive to be surrendered
 
-19\. Every fugitive from a declared Commonwealth country shall be liable, subject to this Part and to any limitations, conditions, exceptions or qualifications to which the application of this Part in relation to that country is subject, to be apprehended and surrendered to that country as provided by this Part and shall be so liable whether the offence to which the requisition for the surrender of the fugitive relates is alleged to have been committed, or was committed, before or after the commencement of this Act or before or after the time when that country became a declared Commonwealth country.
+20\.—(1) Every fugitive from a declared Commonwealth country shall be liable, subject to this Part and to any limitations, conditions, exceptions or qualifications to which the application of this Part in relation to that country is subject, to be apprehended and surrendered to that country as provided by this Part.
+
+(2) Every such fugitive shall be liable under subsection (1) whether the offence to which the requisition for the surrender of the fugitive relates is alleged to have been committed, or was committed, before or after 1st August 1968 or before or after the time when that country became a declared Commonwealth country.
+
+[19
 
 ### Restrictions on surrender of persons to Commonwealth countries
 
-20\.—(1) A person shall not be liable to be surrendered to a declared Commonwealth country if the offence to which the requisition for his surrender relates is, or is by reason of the circumstances in which it is alleged to have been committed or was committed, an offence of a political character.
+21\.—(1) A person shall not be liable to be surrendered to a declared Commonwealth country if the offence to which the requisition for his surrender relates is, or is by reason of the circumstances in which it is alleged to have been committed or was committed, an offence of a political character.
 
 (2) A person who is held in custody, or has been admitted to bail, in Singapore in respect of an offence that is alleged to have been committed in Singapore, or is undergoing a sentence of imprisonment for a conviction in Singapore, shall not be liable to be surrendered to a declared Commonwealth country until he has been discharged from custody, or the recognizances upon which he was admitted to bail have been discharged, as the case may be, whether as a result of his acquittal, on the expiration of his sentence or otherwise.
 
 (3) A person shall not be liable to be surrendered to a declared Commonwealth country in respect of an offence if he has been acquitted or pardoned by a competent tribunal or authority in any country, or has undergone the punishment provided by the law of, or of a part of, any country, in respect of that offence or of another offence constituted by the same act or omission as that offence.
 
-### Restrictions on power of Minister to authorise the apprehension, or order the surrender, of a fugitive
+[20
 
-21\.—(1) The Minister shall not give a notice under section 22(1), or issue a warrant under section 26(2), in respect of a fugitive from a declared Commonwealth country if the Minister has substantial grounds for believing that —
+### Restrictions on power of Minister to authorise apprehension, or order surrender, of a fugitive
+
+22\.—(1) The Minister shall not give a notice under section 23(1), or issue a warrant under section 27(2), in respect of a fugitive from a declared Commonwealth country if the Minister has substantial grounds for believing that —
 
 (a) the requisition for the surrender of the fugitive, although purporting to have been made in respect of an offence for which, but for this section, he would be liable to be surrendered to that country, was made for the purpose of prosecuting or punishing him on account of his race, religion, nationality or political opinions; or
 
@@ -442,9 +470,9 @@ EXTRADITION TO AND FROM DECLARED COMMONWEALTH COUNTRIES
 
 (c) the passage of time since the offence is alleged to have been committed or was committed,
 
-and having regard to the circumstances under which the offence is alleged to have been committed or was committed it would be unjust, oppressive or too severe a punishment to surrender the fugitive, or to surrender him before the expiration of a particular period, the Minister shall not issue a warrant under section 26(2) in respect of the fugitive, or shall not issue such a warrant before the expiration of that period, as the case may be.
+and having regard to the circumstances under which the offence is alleged to have been committed or was committed, it would be unjust, oppressive or too severe a punishment to surrender the fugitive, or to surrender him before the expiration of a particular period, the Minister shall not issue a warrant under section 27(2) in respect of the fugitive, or shall not issue such a warrant before the expiration of that period, as the case may be.
 
-(3) The Minister shall not issue a warrant under section 26(2) in respect of a fugitive from a declared Commonwealth country unless provision is made by the law of that country, or that country has entered into an agreement with, or given an undertaking to, Singapore, by virtue of which the fugitive will not, unless he has been returned, or has had an opportunity of returning, to Singapore —
+(3) The Minister shall not issue a warrant under section 27(2) in respect of a fugitive from a declared Commonwealth country unless provision is made by the law of that country, or that country has entered into an agreement with, or given an undertaking to, Singapore, by virtue of which the fugitive will not, unless he has been returned, or has had an opportunity of returning, to Singapore —
 
 (a) be detained or tried in that country for any offence that is alleged to have been committed, or was committed, before his surrender other than —
 
@@ -458,21 +486,25 @@ and having regard to the circumstances under which the offence is alleged to hav
 
 (ii) any other offence in respect of which the Minister could issue a warrant under this Part for his surrender to that other country and in respect of which the Minister consents to his being so detained.
 
-### Notices by Minister
+[21
 
-22\.—(1) Subject to subsection (2), where a requisition for the surrender of a fugitive who is, or is suspected of being, in or on his way to Singapore is made to the Minister by a declared Commonwealth country, the Minister shall —
+### Notice by Minister
 
-(a) if a warrant for the apprehension of the fugitive has not been issued under section 23 — by notice in writing in accordance with Form 1 in the Second Schedule and directed to a Magistrate, inform the Magistrate that the requisition has been made and authorise him to issue a warrant for the apprehension of the fugitive; or
+23\.—(1) Subject to subsection (2), where a requisition for the surrender of a fugitive who is, or is suspected of being, in or on his way to Singapore is made to the Minister by a declared Commonwealth country, the Minister shall —
 
-(b) if a warrant for the apprehension of the fugitive has been issued under section 23 and a person has been apprehended under the warrant — by notice in writing in accordance with Form 2 in the Second Schedule and directed to a Magistrate before whom the person may be brought, inform the Magistrate that the requisition has been made.
+(a) if a warrant for the apprehension of the fugitive has not been issued under section 24 — by notice in writing in accordance with Form 1 in the Second Schedule and directed to a Magistrate, inform the Magistrate that the requisition has been made and authorise him to issue a warrant for the apprehension of the fugitive; or
+
+(b) if a warrant for the apprehension of the fugitive has been issued under section 24 and a person has been apprehended under the warrant — by notice in writing in accordance with Form 2 in the Second Schedule and directed to a Magistrate before whom the person may be brought, inform the Magistrate that the requisition has been made.
 
 (2) If the Minister is of the opinion that the fugitive is not liable to be surrendered to the country, he shall not give a notice under subsection (1) in respect of the fugitive.
 
+[22
+
 ### Issue of warrants
 
-23\.—(1) Where —
+24\.—(1) Where —
 
-(a) a Magistrate is authorised by the Minister by a notice under section 22(1)(a) to issue a warrant for the apprehension of a fugitive; or
+(a) a Magistrate is authorised by the Minister by a notice under section 23(1)(a) to issue a warrant for the apprehension of a fugitive; or
 
 (b) an application is made as prescribed to a Magistrate for the issue of a warrant for the apprehension of a fugitive who is, or is suspected of being, in or on his way to Singapore,
 
@@ -484,7 +516,7 @@ and there is produced to the Magistrate such evidence as would, in his opinion, 
 
 if the act or omission constituting the extradition crime had taken place in, or within the jurisdiction of Singapore, the Magistrate shall issue a warrant for the apprehension of the fugitive in accordance with Form 3 or 4, as the case may be, in the Second Schedule.
 
-(2) Where a Magistrate issues a warrant under this section without having been authorised by the Minister by a notice under section 22(1)(a) to issue the warrant, the Magistrate shall forthwith send to the Minister a report stating that he has issued the warrant and the evidence produced to him on the application for the warrant.
+(2) Where a Magistrate issues a warrant under this section without having been authorised by the Minister by a notice under section 23(1)(a) to issue the warrant, the Magistrate shall forthwith send to the Minister a report stating that he has issued the warrant and the evidence produced to him on the application for the warrant.
 
 (3) It shall be a sufficient compliance with subsection (2) in relation to any evidence consisting of testimony given on oath, or declared or affirmed to be true, by a person if —
 
@@ -508,25 +540,29 @@ he may, if he thinks fit, by order in writing, direct that the warrant be cancel
 
 (a) if the person is held in custody, the person holding him in custody shall, upon receipt of the order, cause him to be released; or
 
-(b) if he has been admitted to bail, the recognizances upon which he was admitted to bail shall, by virtue of this subsection, be discharged.
+(b) if he has been admitted to bail, the recognizances upon which he was admitted to bail shall, under this subsection, be discharged.
+
+[23
 
 ### Proceedings after apprehension of person
 
-24\.—(1) A person who is apprehended under a warrant issued in pursuance of section 23 shall, unless he is sooner released, be brought as soon as practicable before a Magistrate in Singapore.
+25\.—(1) A person who is apprehended under a warrant issued under section 24 shall, unless he is sooner released, be brought as soon as practicable before a Magistrate.
 
-(2) A Magistrate may remand a person brought before him under this section, either in custody or on bail, for a period or periods not exceeding 7 days at any one time and, where a Magistrate remands a person for such a period, the person may, at the expiration of the period, be brought before the Magistrate or before any other Magistrate.
+(2) A Magistrate may remand a person brought before him under this section, either in custody or on bail, for a period or periods not exceeding 7 days at any one time.
 
-(3) In the application of subsections (4) to (8) in relation to a person who has been apprehended under a warrant issued in pursuance of section 23, “Magistrate” means the Magistrate before whom the person is brought after he was apprehended or at the expiration of a period for which he has been remanded under this section, as the case may be.
+(3) Where a Magistrate remands a person for such a period, the person may, at the expiration of the period, be brought before the Magistrate or before any other Magistrate.
 
-(4) If the person was apprehended under a warrant issued otherwise than in pursuance of an authority by the Minister in a notice under section 22(1)(a), the Magistrate shall remand the person in accordance with subsection (2) until the Magistrate receives a notice under section 22(1)(b) from the Minister informing the Magistrate that a requisition for the surrender of the person has been made to the Minister by a declared Commonwealth country.
+(4) In the application of subsections (5) to (10) in relation to a person who has been apprehended under a warrant issued under section 24, “Magistrate” means the Magistrate before whom the person is brought after he was apprehended or at the expiration of a period for which he has been remanded under this section, as the case may be.
 
-(5) Where the Magistrate does not receive such a notice within such time as is reasonable having regard to all the circumstances, the Magistrate shall —
+(5) If the person was apprehended under a warrant issued otherwise than in pursuance of an authority by the Minister in a notice under section 23(1)(a), the Magistrate shall remand the person in accordance with subsections (2) and (3) until the Magistrate receives a notice under section 23(1)(b) from the Minister informing the Magistrate that a requisition for the surrender of the person has been made to the Minister by a declared Commonwealth country.
+
+(6) Where the Magistrate does not receive such a notice within such time as is reasonable having regard to all the circumstances, the Magistrate shall —
 
 (a) if the person apprehended is held in custody, order that he be released; or
 
 (b) if he has been admitted to bail, make an order discharging the recognizances upon which he was admitted to bail.
 
-(6) If the person was apprehended under a warrant issued in pursuance of an authority by the Minister in a notice under section 22(1)(a) or the Magistrate receives a notice by the Minister under section 22(1)(b) and —
+(7) If the person was apprehended under a warrant issued in pursuance of an authority by the Minister in a notice under section 23(1)(a) or the Magistrate receives a notice by the Minister under section 23(1)(b) and —
 
 (a) there is produced to the Magistrate a duly authenticated overseas warrant in respect of the person issued in the declared Commonwealth country that made the requisition for the surrender of the person;
 
@@ -540,13 +576,17 @@ he may, if he thinks fit, by order in writing, direct that the warrant be cancel
 
 the Magistrate shall, by warrant in accordance with Form 5 in the Second Schedule, commit the person to prison to await the warrant of the Minister for his surrender but otherwise shall order that the person be released.
 
-(7) Where the Magistrate is of the opinion that it would be dangerous to the life or prejudicial to the health of the person to commit him to prison, he may, in lieu of committing him to prison, by warrant, order that he be held in custody at the place where he is for the time being, or at any other place to which the Magistrate considers that he can be removed without danger to his life or prejudice to his health, until such time as he can without such danger or prejudice be committed to prison or he is surrendered and, in such a case, the warrant shall be in accordance with Form 5 in the Second Schedule with such variations as are necessary to meet the circumstances of the case.
+(8) Where the Magistrate is of the opinion that it would be dangerous to the life or prejudicial to the health of the person to commit him to prison, he may, in lieu of committing him to prison, by warrant, order that he be held in custody at the place where he is for the time being, or at any other place to which the Magistrate considers that he can be removed without danger to his life or prejudice to his health, until such time as he can without such danger or prejudice be committed to prison or he is surrendered.
 
-(8) Where, in pursuance of this section, a Magistrate commits a person to prison or otherwise orders that he be held in custody, he shall forthwith send to the Minister a certificate to that effect and such report (if any) relating to the proceedings as he thinks fit.
+(9) In the case referred to in subsection (8), the warrant shall be in accordance with Form 5 in the Second Schedule with such variations as are necessary to meet the circumstances of the case.
+
+(10) Where, under this section, a Magistrate commits a person to prison or otherwise orders that he be held in custody, he shall forthwith send to the Minister a certificate to that effect and such report (if any) relating to the proceedings as he thinks fit.
+
+[24
 
 ### Power of Magistrate or court to release, or postpone surrender of, person
 
-25\. If a Magistrate before whom a person is brought in pursuance of section 24, or a court to which the person has applied for a writ of habeas corpus, is satisfied that, by reason of —
+26\. If a Magistrate before whom a person is brought in pursuance of section 25, or a court to which the person has applied for a writ of habeas corpus, is satisfied that, by reason of —
 
 (a) the trivial nature of the offence that the person is alleged to have committed or has committed;
 
@@ -562,9 +602,11 @@ and having regard to the circumstances under which the offence is alleged to hav
 
 (iii) make such other order as he or it thinks just.
 
+[25
+
 ### Surrender of fugitive to Commonwealth country
 
-26\.—(1) When, in pursuance of this Part, a Magistrate commits a person (referred to in this section as the prisoner) to prison, or otherwise orders that he be held in custody, to await the warrant of the Minister for his surrender to a declared Commonwealth country, the Magistrate shall inform the prisoner that he will not be surrendered until after the expiration of the period of 15 days from the date of the committal or order and that, if he asserts that his detention is unlawful, he may apply to a court of competent jurisdiction for a writ of habeas corpus.
+27\.—(1) When, under this Part, a Magistrate commits a person (referred to in this section as the prisoner) to prison, or otherwise orders that he be held in custody, to await the warrant of the Minister for his surrender to a declared Commonwealth country, the Magistrate shall inform the prisoner that he will not be surrendered until after the expiration of the period of 15 days from the date of the committal or order and that, if he asserts that his detention is unlawful, he may apply to a court of competent jurisdiction for a writ of habeas corpus.
 
 (2) After —
 
@@ -574,13 +616,15 @@ and having regard to the circumstances under which the offence is alleged to hav
 
 whichever is the later, the Minister shall, if he is satisfied that the prisoner is liable to be surrendered to the declared Commonwealth country, by warrant in accordance with Form 6 in the Second Schedule or, where the prisoner is held in custody otherwise than at a prison, in accordance with that Form with such variations as are necessary to meet the circumstances of the case, order that the prisoner be delivered into the custody of a person specified in the warrant and be conveyed by that person to a place in that country or within the jurisdiction of, or of a part of, that country and there surrendered to some person appointed by that country to receive him.
 
-(3) A warrant issued in pursuance of subsection (2) may be executed according to its tenor.
+(3) A warrant issued under subsection (2) may be executed according to its tenor.
 
 (4) Any property in the possession of the prisoner at the time of his apprehension that may be material as evidence in proving the offence to which the requisition for his surrender relates shall, if the Minister so directs in writing, be delivered up with the prisoner on his surrender.
 
-### Discharge of fugitive who is not conveyed out of Singapore within two months
+[26
 
-27\. Where a person who, in pursuance of this Part, has been committed to prison, or otherwise ordered to be held in custody, is in custody in Singapore at the expiration of two months after —
+### Discharge of fugitive who is not conveyed out of Singapore within 2 months
+
+28\. Where a person who, under this Part, has been committed to prison, or otherwise ordered to be held in custody, is in custody in Singapore at the expiration of 2 months after —
 
 (a) the date of the committal or order; or
 
@@ -588,13 +632,7 @@ whichever is the later, the Minister shall, if he is satisfied that the prisoner
 
 whichever is the later, the High Court, upon application made to it by the person and upon proof that reasonable notice of the intention to make the application has been given to the Minister, shall, unless reasonable cause is shown for the delay, order that the person be released.
 
-### Interpretation
-
-28\. In this Part, “extraditable crime” means an offence (wherever committed) against the law in force in Singapore the maximum penalty for which is death or imprisonment for a period of not less than 12 months, being an offence that —
-
-(a) is described in the First Schedule; or
-
-(b) would be so described if the description concerned contained a reference to any intent or state of mind on the part of the person committing the offence, or to any circumstance of aggravation, necessary to constitute the offence.
+[27
 
 ### Requisition to Commonwealth country for surrender of person to be made by Minister
 
@@ -642,33 +680,37 @@ EXTRADITION TO AND FROM MALAYSIA
 
 ### Proceedings after apprehension of person
 
-35\.—(1) A person who is apprehended under a warrant referred to in section 33 or under a warrant issued in pursuance of section 34 shall be brought as soon as practicable before a Magistrate.
+35\.—(1) A person who is apprehended under a warrant referred to in section 33 or under a warrant issued under section 34 shall be brought as soon as practicable before a Magistrate.
 
-(2) A Magistrate may remand a person brought before him under this section, either in custody or on bail, for a period or periods not exceeding 7 days at any one time and, where a Magistrate remands a person for such a period, the person may, at the expiration of the period, be brought before that Magistrate or before any other Magistrate.
+(2) A Magistrate may remand a person brought before him under this section, either in custody or on bail, for a period or periods not exceeding 7 days at any one time.
 
-(3) In the application of subsections (4) to (9) in relation to a person who has been apprehended under a warrant referred to in section 33 or under a warrant issued in pursuance of section 34, “Magistrate” means the Magistrate before whom the person is brought after he was apprehended or at the expiration of a period for which he has been remanded under this section, as the case may be.
+(3) Where a Magistrate remands a person for such a period, the person may, at the expiration of the period, be brought before the Magistrate or before any other Magistrate.
 
-(4) Where the person was apprehended under a warrant issued in pursuance of section 34 and the warrant referred to in section 33 authorising the apprehension of the person has not been endorsed, the Magistrate may, and shall if a reasonable time has elapsed for the endorsement of the warrant —
+(4) In the application of subsections (5) to (11) in relation to a person who has been apprehended under a warrant referred to in section 33 or under a warrant issued under section 34, “Magistrate” means the Magistrate before whom the person is brought after he was apprehended or at the expiration of a period for which he has been remanded under this section, as the case may be.
 
-(a) if the person apprehended is held in custody — order that he be released; or
+(5) Where the person was apprehended under a warrant issued under section 34 and the warrant referred to in section 33 authorising the apprehension of the person has not been endorsed, the Magistrate may, and shall if a reasonable time has elapsed for the endorsement of the warrant —
 
-(b) if he has been admitted to bail — make an order discharging the recognisances upon which he was admitted to bail.
+(a) if the person apprehended is held in custody, order that he be released; or
 
-(5) Where —
+(b) if he has been admitted to bail, make an order discharging the recognizances upon which he was admitted to bail.
+
+(6) Where —
 
 (a) the person was apprehended under a warrant referred to in section 33; or
 
-(b) the person was apprehended under a warrant issued in pursuance of section 34 and the warrant referred to in section 33 authorising the apprehension of the person has been endorsed,
+(b) the person was apprehended under a warrant issued under section 34 and the warrant referred to in section 33 authorising the apprehension of the person has been endorsed,
 
 the Magistrate shall, subject to section 36, by warrant in accordance with Form 9 in the Second Schedule, order the person to be surrendered to Malaysia and, for that purpose, to be delivered into the custody of the person bringing that warrant or of any other person to whom that warrant was directed.
 
-(6) Where the Magistrate is of the opinion that it would be dangerous to the life or prejudicial to the health of the person to surrender him to the country referred to in subsection (5), he may, in lieu of ordering that he be surrendered to Malaysia, by warrant, order that he be held in custody at the place where he is for the time being, or at any other place to which the Magistrate considers that he can be removed without danger to his life or prejudice to his health, until such time as he can without such danger or prejudice be surrendered to Malaysia and, in such a case, the warrant shall be in accordance with Form 9 in the Second Schedule with such variations as are necessary to meet the circumstances of the case.
+(7) Where the Magistrate is of the opinion that it would be dangerous to the life or prejudicial to the health of the person to surrender him to the country referred to in subsection (6), he may, in lieu of ordering that he be surrendered to Malaysia, by warrant, order that he be held in custody at the place where he is for the time being, or at any other place to which the Magistrate considers that he can be removed without danger to his life or prejudice to his health, until such time as he can without such danger or prejudice be surrendered to Malaysia.
 
-(7) A warrant issued in pursuance of subsection (5) or (6) may be executed according to its tenor.
+(8) In the case referred to in subsection (7), the warrant shall be in accordance with Form 9 in the Second Schedule with such variations as are necessary to meet the circumstances of the case.
 
-(8) If the person so ordered to be surrendered escapes from the custody of the person executing the warrant, he may be retaken in the same manner as a person accused of an offence against the law in force in Singapore may be retaken upon an escape from lawful custody.
+(9) A warrant issued under subsection (6) or (7) may be executed according to its tenor.
 
-(9) Any property in the possession of the person so ordered to be surrendered at the time of his apprehension that may be material as evidence in proving the offence for which he is being surrendered shall, if the Magistrate so directs, be delivered up with the person on his surrender.
+(10) If the person so ordered to be surrendered escapes from the custody of the person executing the warrant, he may be retaken in the same manner as a person accused of an offence against the law in force in Singapore may be retaken upon an escape from lawful custody.
+
+(11) Any property in the possession of the person so ordered to be surrendered at the time of his apprehension that may be material as evidence in proving the offence for which he is being surrendered shall, if the Magistrate so directs, be delivered up with the person on his surrender.
 
 ### Restriction on power of Magistrate to order surrender of person
 
@@ -692,13 +734,13 @@ and having regard to the circumstances under which the offence is alleged to hav
 
 37\.—(1) Where —
 
-(a) a person apprehended is dissatisfied with an order made under section 35(5) or (6) or under section 36; or
+(a) a person apprehended is dissatisfied with an order made under section 35(6) or (7) or under section 36; or
 
-(b) a Magistrate has made, under section 35(6) or under section 36, an order for the release of an apprehended person, or an order for the surrender or admittance to bail of such a person under the terms of which the person is not, or may not be, required to be surrendered to Malaysia within 3 months after the date of the order,
+(b) a Magistrate has made, under section 35(7) or under section 36, an order for the release of an apprehended person, or an order for the surrender or admittance to bail of such a person under the terms of which the person is not, or may not be, required to be surrendered to Malaysia within 3 months after the date of the order,
 
 the apprehended person or the person bringing the warrant, as the case requires, may apply to the High Court for a review of the order, and the Court may review the order.
 
-(2) The Court to which an application is made for the review of an order may —
+(2) The High Court to which an application is made for the review of an order may —
 
 (a) order the release on bail of the apprehended person on such terms and conditions as the Court thinks fit; or
 
@@ -708,17 +750,17 @@ the apprehended person or the person bringing the warrant, as the case requires,
 
 (4) For the purposes of a review under this section, a copy of a public document or of a document filed in a department or office of the Government, certified to be a true copy of the document by the person purporting by the certificate to have charge of the document, is admissible as evidence of the facts stated in the copy.
 
-(5) Upon the review of an order, the Court may confirm or vary the order, or quash the order and substitute a new order in its stead.
+(5) Upon the review of an order, the High Court may confirm or vary the order, or quash the order and substitute a new order in its stead.
 
 (6) The order as confirmed or varied, or the substituted order, shall be executed according to its tenor as if it had been made by the Magistrate.
 
 ### Discharge of person who is not conveyed out of Singapore within one month
 
-38\. Where a person who, in pursuance of this Part, has been ordered to be surrendered to Malaysia is in custody in Singapore at the expiration of one month after —
+38\. Where a person who, under this Part, has been ordered to be surrendered to Malaysia is in custody in Singapore at the expiration of one month after —
 
 (a) the date of the order; or
 
-(b) if the order was made by a Magistrate and an application for a review of the order has been made — the date of the decision of the Court on the review or, where an appeal has been brought from that decision to another court, the date of the decision of the other court,
+(b) if the order was made by a Magistrate and an application for a review of the order has been made — the date of the decision of the High Court on the review or, where an appeal has been brought from that decision to another court, the date of the decision of the other court,
 
 whichever is the later, the High Court, upon application made to it by the person and upon proof that reasonable notice of the intention to make the application has been given to the person holding him in custody, shall, unless reasonable cause is shown for the delay, order that the person so held in custody be released.
 
@@ -750,35 +792,45 @@ MISCELLANEOUS
 
 42\.—(1) In any proceedings under this Act —
 
-(a) a document, duly authenticated, that purports to set out testimony given on oath, or declared or affirmed to be true, by a person in a proceeding in a declared Commonwealth country or foreign State shall be admissible as evidence of the matters stated in the testimony;
+(a) a document, duly authenticated, that purports to set out testimony given on oath, or declared or affirmed to be true, by a person in a proceeding in a foreign State or declared Commonwealth country shall be admissible as evidence of the matters stated in the testimony;
 
-(b) a document, duly authenticated, that purports to have been received in evidence, or to be a copy of a document that has been received in evidence, in a proceeding in a declared Commonwealth country or foreign State shall be admissible in evidence;
+(b) a document, duly authenticated, that purports to have been received in evidence, or to be a copy of a document that has been received in evidence, in a proceeding in a foreign State or declared Commonwealth country shall be admissible in evidence;
 
-(c) a document, duly authenticated, that certifies that a person was convicted on a date specified in the document of an offence against the law of, or of a part of, a declared Commonwealth country or foreign State shall be admissible as evidence of the fact and date of the conviction; and
+(c) a document, duly authenticated, that certifies that a person was convicted on a date specified in the document of an offence against the law of, or of a part of, a foreign State or declared Commonwealth country shall be admissible as evidence of the fact and date of the conviction; and
 
 (d) a document, duly authenticated, that purports to be an overseas warrant or a foreign warrant shall be admissible in evidence.
 
 (2) A document shall be deemed to be duly authenticated for the purpose of being admitted in evidence in a proceeding under this Act if —
 
-(a) in the case of a document that purports to set out testimony given, declared or affirmed by a person in a proceeding in a declared Commonwealth country or foreign State — the document purports to be certified by a Judge, Magistrate or officer in or of that country or State to be the original document containing or recording that testimony or a true copy of that original document;
+(a) in the case of a document that purports to set out testimony given, declared or affirmed by a person in a proceeding in a foreign State or declared Commonwealth country — the document purports to be certified by a Judge, Magistrate or officer in or of that State or country to be the original document containing or recording that testimony or a true copy of that original document;
 
-(b) in the case of a document that purports to have been received in evidence, or to be a copy of a document that has been received in evidence, in a proceeding in a declared Commonwealth country or foreign State — the document purports to be certified by a Judge, Magistrate or officer in or of that country or State to have been, or to be a true copy of a document that has been, so received in evidence;
+(b) in the case of a document that purports to have been received in evidence, or to be a copy of a document that has been received in evidence, in a proceeding in a foreign State or declared Commonwealth country — the document purports to be certified by a Judge, Magistrate or officer in or of that State or country to have been, or to be a true copy of a document that has been, so received in evidence;
 
-(c) in the case of a document that certifies that a person has been convicted in a declared Commonwealth country or foreign State of an offence — the document purports to be certified by a Judge, Magistrate or officer in or of that country or State; or
+(c) in the case of a document that certifies that a person has been convicted in a foreign State or declared Commonwealth country of an offence — the document purports to be certified by a Judge, Magistrate or officer in or of that State or country; or
 
-(d) in the case of a document that purports to be an overseas warrant or a foreign warrant — the documents purports to be signed by a Judge, Magistrate or officer in or of the country or State in which the document was issued,
+(d) in the case of a document that purports to be an overseas warrant or a foreign warrant — the documents purports to be signed by a Judge, Magistrate or officer in or of the State or country in which the document was issued,
 
 and the document purports to be authenticated by the oath of a witness or to be sealed with the official seal of a Minister in or of that country.
 
 (3) Nothing in this section shall prevent the proof of any matter, or the admission in evidence of any document, in accordance with any other law of Singapore.
 
-43\. [Repealed by Act 12/2000 wef 01/04/2000]
+### Power to amend and vary Schedules
+
+43\. The Minister may —
+
+(a) from time to time, by notification published in theGazette, vary the First and Second Schedules; and
+
+(b) by order published in theGazetteamend, add to or vary the Third Schedule when an extradition treaty between any territory and Singapore has come into force or has ceased to be in force, as the case may be.
+
+[45
+
+[16/98]
 
 ### Power to make rules
 
 44\.—(1) The Minister may make rules to carry out the purposes of this Act.
 
-(2) In particular, and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters:
+(2) In particular, and without prejudice to the generality of subsection (1), such rules may provide for all or any of the following matters:
 
 (a) the removal of fugitives accused or in custody under this Act and their control and maintenance until such time as they are handed over to the persons named in the warrant as entitled to receive them;
 
@@ -790,23 +842,13 @@ and the document purports to be authenticated by the oath of a witness or to be 
 
 (3) All rules made under this section shall be published in theGazetteand shall be presented to Parliament as soon as possible after publication.
 
-### Power to amend and vary Schedules
-
-45\. The Minister may —
-
-(a) from time to time, by notification published in theGazette, vary the First and Second Schedules; and
-
-(b) by order published in theGazetteamend, add to or vary the Third Schedule when an extradition treaty between any territory and Singapore has come into force or has ceased to be in force, as the case may be.
-
-[16/98 wef 11/06/1998]
-
 FIRST SCHEDULE
 
-Sections 2(1), 14 and 28.
+Sections 2(1), 14 and 18
 
-Description of returnable offences
+Part I
 
-A\.—1. Murder of any degree.
+1\. Murder of any degree.
 
 2\. Manslaughter or culpable homicide.
 
@@ -856,23 +898,253 @@ A\.—1. Murder of any degree.
 
 25\. An offence against the law relating to psychotropic substances, dangerous drugs or narcotics.
 
-25A. An offence against the law relating to benefits derived from corruption, drug trafficking and other serious crimes.
+26\. An offence against the law relating to benefits derived from corruption, drug trafficking and other serious crimes.
 
-[20/98 wef 20/07/1998]
+27\. Piracy.
 
-26\. Piracy.
+28\. Revolt against the authority of the master of a ship or the commander of an aircraft.
 
-27\. Revolt against the authority of the master of a ship or the commander of an aircraft.
+29\. Contravention of import or export prohibitions relating to precious stones, gold and other precious metals.
 
-28\. Contravention of import or export prohibitions relating to precious stones, gold and other precious metals.
+30\. Hijacking and other acts endangering safety of aircraft and acts endangering safety of an international airport.
 
-29. Hijacking and other acts endangering safety of aircraft and acts endangering safety of an international airport.
+Part II
 
-[Act 32/96 wef 01/11/1996]
-
-B\. Aiding and abetting, or counselling or procuring the commission of, or being an accessory before or after the fact to, or attempting or conspiring to commit, any of the offences listed in paragraph A.
+Aiding and abetting, or counselling or procuring the commission of, or being an accessory before or after the fact to, or attempting or conspiring to commit, any of the offences listed in Part I.
 
 SECOND SCHEDULE
+
+FORM 1
+
+Sections 9 and 23
+
+Extradition Act
+
+
+
+
+(Chapter 103)
+
+Notice by the Minister
+
+To , a District Judge [or Magistrate] of Singapore.
+
+Whereas a requisition has been made to me, the Minister for by , a declared Commonwealth country for the purposes of the extradition act [orforeign State in relation to which the Extradition Act applies] for the surrender of (referred to in this Notice as the fugitive), who is accused [orhas been convicted] of the offence alleged to have been committed [orcommitted] in [orwithin the jurisdiction of] and is, or is suspected of being, in or on his way to Singapore:
+
+Now therefore I, the Minister for , do hereby inform you that the said requisition has been made and authorise you to issue a warrant for the apprehension of the fugitive provided that the provisions of the extradition act relating to the issue of such a warrant have, in your opinion, been complied with.
+
+Given under my hand at Singapore this day of .
+
+……………………………………….
+Minister for
+
+FORM 2
+
+Sections 9 and 23
+
+Extradition Act
+
+
+
+
+(Chapter 103)
+
+Notice by Minister
+
+To , a District Judge [or Magistrate] of Singapore.
+
+I, the Minister for , do hereby inform you that a requisition has been made to me by , a declared Commonwealth country for the purposes of the Extradition Act [ora foreign State in relation to which the Extradition Act applies] for the surrender of , who is accused [orhas been convicted] of the offence of alleged to have been committed [orcommitted] in [orwithin the jurisdiction of].
+
+Given under my hand at Singapore this day of .
+
+……………………………………….
+Minister for
+
+FORM 3
+
+Sections 10 and 24
+
+Extradition Act
+
+
+
+
+(Chapter 103)
+
+Warrant of Apprehension
+
+To all members of the Singapore Police Force.
+
+Whereas the Minister for has notified me, a District Judge [orMagistrate] of Singapore, that a requisition has been made to him for the surrender of (referred to in this Warrant as the fugitive), who is accused [orhas been convicted] of the offence of alleged to have been committed [orcommitted] in [orwithin the jurisdiction of] and is, or is suspected of being, in or on his way to Singapore:
+
+This is therefore to authorise and command you forthwith to find the fugitive in Singapore and, having found him, to apprehend him and, if he is apprehended, to bring him before any District Judge or Magistrate to show cause why he should not be surrendered to in pursuance of the Extradition Act.
+
+Given under my hand at Singapore this day of .
+
+……………………………………….
+District Judge/Magistrate
+
+FORM 4
+
+Sections 10 and 24
+
+Extradition Act
+
+
+
+
+(Chapter 103)
+
+Warrant of Apprehension
+
+To all members of the Singapore Police Force.
+
+Whereas it has been shown to me, a District Judge [orMagistrate] of Singapore, that (referred to in this Warrant as the fugitive) is accused [orhas been convicted] of the offence of alleged to have been committed [orcommitted] in [orwithin the jurisdiction of] and the said fugitive is, or is suspected of being, in or on his way to Singapore.
+
+This is therefore to authorise and command you forthwith to find the fugitive in Singapore and, having found him, to apprehend him and, if he is apprehended, to bring him before any District Judge or Magistrate to be further dealt with according to law.
+
+Given under my hand at Singapore this day of .
+
+……………………………………….
+District Judge/Magistrate
+
+FORM 5
+
+Sections 11 and 25
+
+Extradition Act
+
+
+
+
+(Chapter 103)
+
+Warrant of Commitment
+
+To all members of the Singapore Police Force and to the Director of Prisons.
+
+Whereas on this day of , (referred to in this Warrant as the fugitive) has been brought before me, a District Judge [orMagistrate] to show cause why he should not be surrendered in pursuance of the Extradition Act on the ground of his being accused [orhaving been convicted] of the offence of alleged to have been committed [orcommitted] in [orwithin the jurisdiction of] :
+
+And Whereas no sufficient cause has been shown to me why the fugitive should not be surrendered in pursuance of the Extradition Act:
+
+This is therefore to authorise and command —
+
+(a) you, members of the Singapore Police Force, to convey the fugitive to the prison at and deliver him there to the Director of Prisons together with this Warrant; and
+
+(b) you, the said Director, to receive the fugitive into your custody in the said prison and there safely to keep him until he is delivered therefrom in accordance with law.
+
+Given under my hand at Singapore this day of .
+
+……………………………………….
+District Judge/Magistrate
+
+FORM 6
+
+Sections 12 and 27
+
+Extradition Act
+
+
+
+
+(Chapter 103)
+
+Warrant of Surrender of Fugitive
+
+To the Director of Prisons and to
+
+Whereas (referred to in this Warrant as the fugitive) who is accused [orhas been convicted] of the offence of alleged to have been committed [orcommitted] in [orwithin the jurisdiction of] was delivered into custody of you, the Director of Prisons, by Warrant dated the day of , in pursuance of the Extradition Act:
+
+Now therefore I, the Minister for , in pursuance of the Extradition Act, hereby order —
+
+(a)
+
+you, the Director of Prisons, to deliver the fugitive into the custody of the said ; and
+
+(b)
+
+you, the said , to receive the fugitive into your custody and to convey him to a place in or within the jurisdiction of and there surrender himto some person appointed to receive him.
+
+……………………………………….
+Minister for
+
+FORM 7
+
+Section 33
+
+Extradition Act
+
+
+
+
+(Chapter 103)
+
+Endorsement on Warrant
+
+Whereas I, a District Judge [or Magistrate] of Singapore, am satisfied that the within Warrant is duly authenticated for the purposes of the Extradition Act:
+
+This is therefore to authorise and command who brings me this Warrant, all other persons to whom this Warrant is directed and all members of the Singapore Police Force to find the said in Singapore and, having found him, to apprehend him and, if he is apprehended to bring him before any District Judge or Magistrate in Singapore to be further dealt with according to law.
+
+Given under my hand at Singapore this day of .
+
+……………………………………….
+District Judge/Magistrate
+
+FORM 8
+
+Section 34
+
+Extradition Act
+
+
+
+
+(Chapter 103)
+
+Warrant of Apprehension
+
+To all members of the Singapore Police Force.
+
+Whereas [here specify the information and circumstances justifying the issue of the Warrant]:
+
+This is, therefore, to authorise and command you forthwith to find in Singapore and, having found him, to apprehend him and, if he is apprehended to bring him before any District Judge or Magistrate in Singapore to be further dealt with according to law.
+
+Given under my hand at Singapore this day of .
+
+……………………………………….
+District Judge/Magistrate
+
+FORM 9
+
+Section 35
+
+Extradition Act
+
+
+
+
+(Chapter 103)
+
+Warrant for Surrender of Person
+
+To
+
+Whereas has been apprehended under a Warrant endorsed in pursuance of section 33 of the Extradition Act for an offence alleged to have been committed [orcommitted] against the law of :
+
+or
+
+Whereas has been apprehended under a Warrant issued in pursuance of section 34 of the Extradition Act and a Warrant for his apprehension for an offence against the law of has been endorsed in pursuance of section 33 of the Extradition Act:
+
+Now therefore I, a District Judge [or Magistrate] of Singapore, order that be surrendered to and, for that purpose, be delivered into the custody of you the said
+
+or
+
+Now therefore I, a District Judge [or Magistrate] of Singapore, order that be surrendered to and, for that purpose, be delivered into the custody of you the said
+
+Given under my hand at Singapore this day of .
+
+……………………………………….
+District Judge/Magistrate
 
 THIRD SCHEDULE
 
@@ -882,7 +1154,7 @@ Territories between which and Singapore an extradition treaty is in force
 
 Hong Kong Special Administrative Region of the People’s Republic of China.
 
-[16/98 wef 11/06/1998]
+[16/1998 wef 11/06/1998]
 
 ## LEGISLATIVE HISTORY
 
@@ -942,3 +1214,123 @@ This Legislative History is provided for the convenience of users of the Extradi
 |||(Bill No. 3/2000 published on 18 January 2000)|
 ||Date of Second and Third Readings|22 February 2000|
 ||Date of commencement|1 April 2000|
+|11.|**2000 Revised Edition—Extradition Act**|
+||Date of operation|30 December 2000|
+## COMPARATIVE TABLE
+
+Extradition Act
+
+(CHAPTER 103)
+
+The following provisions in the 1985 Revised Edition of the Extradition Act have been renumbered by the Law Revision Commissioners in this 2000 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Extradition Act.
+
+2000 Ed\. 
+
+1985 Ed\. 
+
+6 — (1) and (2)
+
+6 
+
+11 — (2) and (3)
+
+11 — (2)
+
+(4) to (7)
+
+(3) to (6)
+
+(8) and (9)
+
+(7)
+
+(10)
+
+(8)
+
+18 
+
+28 
+
+19 
+
+18 
+
+20 — (1) and (2)
+
+19 
+
+21 
+
+20 
+
+22 
+
+21 
+
+23 
+
+22 
+
+24 
+
+23 
+
+25 — (1)
+
+24 — (1)
+
+(2) and (3)
+
+(2)
+
+(4) to (7)
+
+(3) to (6)
+
+(8) and (9)
+
+(7)
+
+(10)
+
+(8)
+
+26 
+
+25 
+
+27 
+
+26 
+
+28 
+
+27 
+
+35 — (2) and (3)
+
+35 — (2)
+
+(4) to (6)
+
+(3) to (5)
+
+(7) and (8)
+
+(6)
+
+(9) to (11)
+
+(7) to (9)
+
+—
+
+43 (Repealed by Act 12/2000)
+
+43 
+
+45 
+
