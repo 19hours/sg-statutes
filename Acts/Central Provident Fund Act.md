@@ -3033,6 +3033,8 @@ This Legislative History is provided for the convenience of users of the Central
 |||(Bill No. 1/2000 published on 18 January 2000)|
 ||Date of Second and Third Readings|21 February 2000|
 ||Date of commencement|15 March 2000|
+|110.|**G.N. No. S 156/2000—Central Provident Fund Act (Amendment of First Schedule) Notification 2000**|
+||Date of commencement|1 April 2000|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
