@@ -116,7 +116,9 @@ An Act to regulate the sales of separate units of commercial properties in a com
 
 (b) applied for the grant of written permission for the relevant strata subdivision under section 9(3) of the Planning Act [Cap. 232] or complied with the requirements of the competent authority necessary for the purpose of obtaining written permission for such strata subdivision;
 
-(c) employed any registered surveyor to carry out the necessary surveys and prepare the necessary plans for submission to the Chief Surveyor to enable a subsidiary strata certificate of title to be issued for the commercial property, or has failed to cause amendments to these plans to be made as required by the Chief Surveyor;
+(c) employed any registered surveyor who has in force a practising certificate to carry out the necessary surveys and prepare the necessary plans for submission to the Chief Surveyor to enable a subsidiary strata certificate of title to be issued for the commercial property, or has failed to cause amendments to these plans to be made as required by the Chief Surveyor;
+
+[Act 24/91 wef 30/08/1991]
 
 (d) in the case where the Registrar of Titles has directed under section 16 of the Land Titles Act that the land on which the commercial property is built be brought under the provisions of the Land Titles Act, obtained a subsidiary strata certificate of title for the property under the provisions of the Land Titles (Strata) Act [Cap. 158];
 
@@ -226,3 +228,9 @@ This Legislative History is provided for the convenience of users of the Sale of
 ||Date of commencement|4 December 1980|
 |3.|**1985 Revised Edition—Sale of Commercial Properties Act**|
 ||Date of operation|30 March 1987|
+|4.|**Act 24 of 1991—Land Surveyors Act 1991**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|27 February 1991|
+|||(Bill No. 11/1991 published on 28 February 1991)|
+||Date of Second and Third Readings|28 June 1991|
+||Date of commencement|30 August 1991|
