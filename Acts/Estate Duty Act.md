@@ -98,7 +98,7 @@
 
 - [39 Powers of Commissioner](#Powers-of-Commissioner)
 
-- [40 Commissioner’s certificates](#Commissioner’s-certificates)
+- [40 (Repealed)](#Repealed)
 
 - [41 Release of estate on which duty is paid](#Release-of-estate-on-which-duty-is-paid)
 
@@ -200,13 +200,13 @@ PRELIMINARY
 
 “estate duty” means estate duty leviable under this Act;
 
-“estate duty affidavit” means the affidavit, together with the accounts annexed thereto, prescribed under section 35;
+“estate duty affidavit” means the affidavit, together with the accounts annexed thereto, determined under section 35;
 
 “executor” means the executor or administrator of a deceased person, and includes, as regards any obligation under this Act, any person who takes possession of or intermeddles with the property of a deceased person and any person who has applied or is entitled to apply to any court for the grant or resealing of probate or letters of administration in respect of the estate of a deceased person;
 
 “interest in expectancy” includes an estate in remainder or reversion and every other future interest whether vested or contingent, but does not include reversions expectant upon the determination of leases;
 
-“notice of assessment” means a notice prescribed under section 37;
+“notice of assessment” means a notice determined under section 37;
 
 “property” includes movable and immovable property of any kind situate or being in Singapore and the proceeds of sale thereof respectively, and any money or investment for the time being representing the proceeds of sale; and, in the case of a deceased person who was at the time of his death domiciled in Singapore, includes movable property wherever it may be;
 
@@ -816,11 +816,11 @@ COLLECTION OF ESTATE DUTY
 
 35\.—(1) The executor of every deceased person shall, within 6 months after the date of the death of the deceased, specify to the best of his knowledge and belief, in appropriate accounts annexed to an estate duty affidavit to be delivered to the Commissioner, a full and true statement of particulars relating to all the property of the deceased, including the value thereof, in respect of which estate duty is payable upon the death of the deceased; and together with such estate duty affidavit he shall deliver to the Commissioner a certified copy of the will, if any, of the deceased.
 
-(2) The estate duty affidavit shall extend to the verification of the accounts annexed thereto and shall be in a form to be prescribed by the Minister.
+(2) The estate duty affidavit shall extend to the verification of the accounts annexed thereto and shall be in a form to be determined by the Commissioner.
 
 (3) The accounts annexed to the estate duty affidavit shall include all income accrued upon the property included therein down to and outstanding at the date of the death of the deceased.
 
-(4) Where the executor is not accountable for estate duty in respect of any property passing on the death of the deceased, the person accountable shall, within 6 months after the date of the death of the deceased, deliver to the Commissioner an account in a form to be prescribed by the Minister containing a full and true statement of the particulars relating to that property, including the value thereof, verified to the best of his knowledge and belief.
+(4) Where the executor is not accountable for estate duty in respect of any property passing on the death of the deceased, the person accountable shall, within 6 months after the date of the death of the deceased, deliver to the Commissioner an account in a form to be determined by the Commissioner containing a full and true statement of the particulars relating to that property, including the value thereof, verified to the best of his knowledge and belief.
 
 (5) The Commissioner may require any estate duty affidavit or any such account to be delivered to him in duplicate.
 
@@ -848,7 +848,7 @@ COLLECTION OF ESTATE DUTY
 
 ### Commissioner may make assessment
 
-37\. The Commissioner may at any time, whether an estate duty affidavit required to be delivered under section 35 has been delivered or not, assess the estate duty payable in respect of the estate of a deceased person and shall issue to the person or persons whom he considers liable to pay such estate duty a notice of the assessment in a form to be prescribed by the Minister.
+37\. The Commissioner may at any time, whether an estate duty affidavit required to be delivered under section 35 has been delivered or not, assess the estate duty payable in respect of the estate of a deceased person and shall issue to the person or persons whom he considers liable to pay such estate duty a notice of the assessment in a form to be determined by the Commissioner.
 
 ### Recovery of estate duty
 
@@ -888,11 +888,7 @@ COLLECTION OF ESTATE DUTY
 
 (11) The Commissioner shall pay to any person complying with any reasonable requirement under subsection (8) his reasonable costs of so doing, and if any question arises as to the amount to be paid as costs, the question shall be referred to and determined by the Registrar of the Supreme Court.
 
-### Commissioner’s certificates
-
-40\.—(1) When the Commissioner has ascertained the amount of the duty and interest payable on an estate duty affidavit or account, he shall certify the same in writing on the affidavit or account, as the case may be.
-
-(2) When the amount payable on an estate duty affidavit or account has been paid, the Commissioner shall certify such payment in writing on the affidavit or account, as the case may be.
+40\. [Deleted by Act 42/98 wef 10/01/1998]
 
 ### Release of estate on which duty is paid
 
@@ -966,11 +962,11 @@ COLLECTION OF ESTATE DUTY
 
 (2) If any person, who ought to deliver a further affidavit or account as mentioned in subsection (1), neglects to do so within the prescribed period, he shall forfeit to the Government the sum of $1,000 and shall also be liable to pay to the Government double the amount of additional duty leviable.
 
-(3) If an application has been made under section 48(1) in respect of a certificate of the Commissioner under section 40(1), no claim shall be made for the return of excess duty or for the payment of additional duty except on the ground that the particulars of the property passing on the death of the deceased, or the general expenses, debts or encumbrances for which allowance was made, were not correctly stated in the affidavit or account.
+(3) If an application has been made under section 48(1) in respect of a notice of assessment, no claim shall be made for the return of excess duty or for the payment of additional duty except on the ground that the particulars of the property passing on the death of the deceased, or the general expenses, debts or encumbrances for which allowance was made, were not correctly stated in the affidavit or account.
 
 ### Application to court
 
-48\.—(1) An executor or other accountable person aggrieved by the certificate of the Commissioner under section 40(1), or byany claim by a notice of assessment by the Commissioner for payment of estate duty or interest thereon, or by the refusal of the Commissioner to return any estate duty or interest thereon alleged to have been overpaid, may, on payment of, or giving security as hereinafter mentioned for, the amount claimed by the Commissioner or such portion of it as is then payable by him, apply to the High Court within 3 months from the date of thecertificate, claim or refusal, as the case may be.
+48\.—(1) An executor or other accountable person aggrieved by any claim by a notice of assessment by the Commissioner for payment of estate duty or interest thereon, or by the refusal of the Commissioner to return any estate duty or interest thereon alleged to have been overpaid, may, on payment of, or giving security as hereinafter mentioned for, the amount claimed by the Commissioner or such portion of it as is then payable by him, apply to the High Court within 3 months from the date of the claim or refusal, as the case may be.
 
 (2) The amount of the duty and interest shall be determined by the High Court, and if the duty and interest as determined is less than that paid to the Commissioner the excess shall be repaid.
 
@@ -1632,3 +1628,8 @@ This Legislative History is provided for the convenience of users of the Estate 
 ||Date of commencement|1 October 1997 (except section 3)|
 |30.|**1997 Revised Edition—Estate Duty Act**|
 ||Date of operation|20 December 1997|
+|31.|**Act 42 of 1998—Estate Duty (Amendment) Act 1998**|
+||Date of First Reading|12 October 1998|
+|||(Bill No. 44/98 published on 13 October 1998)|
+||Date of Second and Third Readings|26 November 1998|
+||Date of commencement|10 January 1998|
