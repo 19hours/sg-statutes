@@ -984,7 +984,7 @@ Registrar
 
 ### Powers and duties of Registrar, Deputy Registrar and Assistant Registrars
 
-62\.—(1) The Registrar, the Deputy Registrar and the Assistant Registrars shall, subject to the provisions of this Act or any other written law, have the same jurisdiction, powers and duties as the masters of the Supreme Court, clerks or criminal courts, registrars and like officers in the Supreme Court of Judicature in England and, in addition, such further jurisdiction, powers and duties as may be prescribed by Rules of Court.
+62\.—(1) The Registrar, the Deputy Registrar and the Assistant Registrars shall, subject to the provisions of this Act or any other written law, have such jurisdiction, powers and duties as may be prescribed by Rules of Court.
 
 (2) Subject to Rules of Court, all the powers and duties conferred and imposed on the Registrar may be exercised or performed by the Deputy Registrar or the Assistant Registrars.
 
@@ -1436,3 +1436,8 @@ This Legislative History is provided for the convenience of users of the Supreme
 ||Date of commencement|1 March 1986|
 |6.|**1985 Revised Edition—Supreme Court of Judicature Act (Chapter 322)**|
 ||Date of operation|30 March 1987|
+|7.|**Act 16 of 1993—Supreme Court of Judicature (Amendment) Act 1993**|
+||Date of First Reading|26 February 1993|
+|||(Bill No. 12/93)|
+||Date of Second and Third Readings|12 April 1993|
+||Date of commencement|1 July 1993|
