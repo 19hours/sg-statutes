@@ -314,6 +314,8 @@
 
 - [130 Regulations](#Regulations)
 
+- [131 Regulations made by, and fees to be paid to, Authority](#Regulations-made-by-and-fees-to-be-paid-to-Authority)
+
 [**FIRST SCHEDULE By-laws**](#FIRST-SCHEDULE-By-laws)
 
 [**SECOND SCHEDULE Proceedings of Council of Management Corporation**](#SECOND-SCHEDULE-Proceedings-of-Council-of-Management-Corporation)
@@ -359,6 +361,10 @@ PRELIMINARY
 “accessory lot” means a lot intended for separate proprietorship and use with any other specified lot or lots for any purpose;
 
 “assurance” includes any transfer, lease, charge, mortgage, transmission application or any other application for vesting made under this Act;
+
+“Authority” means the Singapore Land Authority established under the Singapore Land Authority Act 2001;
+
+[17/2001 wef 01/06/2001]
 
 “Board” means a Strata Titles Board constituted under section 86;
 
@@ -406,9 +412,13 @@ PRELIMINARY
 
 (a) the surface of any defined parcel of the earth, all substances thereunder and so much of the column of airspace above the surface whether or not held apart from the surface as is reasonably necessary for the proprietor’s use and enjoyment, and includes any estate or interest therein and all vegetation growing thereon and structures affixed thereto; or
 
-(b) any parcel of airspace or any subterranean space held apart from the surface of the earth and described with certainty by reference to a plan approved by the Chief Surveyor and filed in the Survey Department, and includes any estate or interest therein and all vegetation growing thereon and structures affixed thereto,
+(b) any parcel of airspace or any subterranean space held apart from the surface of the earth and described with certainty by reference to a plan approved by the Chief Surveyor and filed with the Authority, and includes any estate or interest therein and all vegetation growing thereon and structures affixed thereto,
 
 and where the context so permits, the proprietorship of land includes natural rights to air, light, water and support and the right of access to any highway on which the land abuts;
+
+“Land Titles Registry” means the Land Titles Registry of the Authority;
+
+[17/2001 wef 01/06/2001]
 
 “lot” means a stratum which is shown as a lot on a strata title plan, and includes a lot specified as an accessory lot on any such plan;
 
@@ -680,7 +690,7 @@ before the legal completion of the transfer for the lot, flat or land, as the ca
 
 (i) a certificate of a surveyor who is registered under the Land Surveyors Act (Cap. 156) and has in force a practising certificate issued under that Act that all buildings and all lots shown in the strata title plan in relation to the external surface boundaries of the parcel are within the parcel and are in compliance with building plans (if any) and subdivision plans issued by the relevant authority; and
 
-(ii) the certificate of the Chief Surveyor or any other officer duly appointed to approve strata title plans on his behalf that such strata title plan has been approved by or on behalf of the Chief Surveyor and a copy thereof has been lodged in the Survey Department
+(ii) the certificate of the Chief Surveyor or any other officer duly appointed to approve strata title plans on his behalf that such strata title plan has been approved by or on behalf of the Chief Surveyor and a copy thereof has been lodged with the Authority;
 
 (b) the plan is accompanied by a copy of the relevant strata subdivision plan approved by the relevant authority; and
 
@@ -3612,9 +3622,9 @@ MISCELLANEOUS
 
 ### Regulations
 
-130\.—(1) The Minister may make regulations not inconsistent with this Act for giving effect to the provisions of this Act.
+130\.—(1) Subject to section 131, the Authority, with the approval of the Minister, may make regulations not inconsistent with this Act for giving effect to the provisions of this Act.
 
-(2) Without prejudice to the generality of subsection (1), the Minister may make regulations with respect to —
+(2) Without prejudice to the generality of subsection (1), the Authority, with the approval of the Minister, may make regulations with respect to —
 
 (a) the fees to be paid to a management corporation for anything to be done under this Act;
 
@@ -3626,10 +3636,6 @@ MISCELLANEOUS
 
 (e) the provision of parking places for the exclusive use of residents of lots in subdivided buildings used for both residential and commercial purposes;
 
-(f) the preparation of plans and documents for the purposes of this Act;
-
-(g) the lodgment and registration of plans under this Act;
-
 (h) the fees to be paid in respect of lodgment and registration of plans and documents under this Act;
 
 (i) the practice and procedure of the Board; and
@@ -3637,6 +3643,18 @@ MISCELLANEOUS
 (j) any matter which by this Act is required or permitted to be prescribed or is necessary or convenient to be prescribed for carrying out or giving effect to any provision of this Act.
 
 [16/87]
+
+### Regulations made by, and fees to be paid to, Authority
+
+131\.—(1) The Authority may make regulations on any of the following matters:
+
+(a) the preparation of plans and documents for the purposes of this Act; and
+
+(b) the lodgment and registration of plans under this Act.
+
+(2) All prescribed fees collected under or in connection with any service provided by the Registrar under this Act shall be paid into the funds of the Authority.
+
+[17/2001 wef 01/06/2001]
 
 FIRST SCHEDULE
 
@@ -4171,6 +4189,12 @@ This Legislative History is provided for the convenience of users of the Land Ti
 ||Date of commencement|11 October 1999|
 |14.|**1999 Revised Edition—Land Titles (Strata) Act**|
 ||Date of operation|30 December 1999|
+|15.|**Act 17 of 2001—Singapore Land Authority Act 2001**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|5 March 2001|
+|||(Bill No. 17/2001 published on 7 March 2001)|
+||Date of Second and Third Readings|19 April 2001|
+||Date of commencement|1 June 2001|
 ## COMPARATIVE TABLE
 
 Land Titles (Strata) Act
