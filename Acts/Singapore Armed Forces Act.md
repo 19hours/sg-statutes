@@ -154,7 +154,9 @@
 
 - [65 Powers of superior commander when dealing with charge](#Powers-of-superior-commander-when-dealing-with-charge)
 
-- [65A Powers of Chief of Defence Force when dealing with charge](#Powers-of-Chief-of-Defence-Force-when-dealing-with-charge)
+- [65A Powers of Service Chief when dealing with charge](#Powers-of-Service-Chief-when-dealing-with-charge)
+
+- [65B Powers of Chief of Defence Force when dealing with charge](#Powers-of-Chief-of-Defence-Force-when-dealing-with-charge)
 
 - [66 Restrictions on power to dismiss charge](#Restrictions-on-power-to-dismiss-charge)
 
@@ -166,7 +168,9 @@
 
 - [70 Powers of punishment of superior commander](#Powers-of-punishment-of-superior-commander)
 
-- [70A Powers of punishment of Chief of Defence Force](#Powers-of-punishment-of-Chief-of-Defence-Force)
+- [70A Powers of punishment of Service Chief](#Powers-of-punishment-of-Service-Chief)
+
+- [70B Powers of punishment of Chief of Defence Force](#Powers-of-punishment-of-Chief-of-Defence-Force)
 
 - [71 Detention in default of fine](#Detention-in-default-of-fine)
 
@@ -520,7 +524,7 @@
 
 (CHAPTER 295)
 
-(Original Enactment: 7 of 1972)
+(Original Enactment: Act 7 of 1972)
 
 REVISED EDITION 1995
 
@@ -568,7 +572,7 @@ PRELIMINARY
 
 “disciplinary barrack” means any premises or place set apart by the Armed Forces Council for the purposes of persons serving sentences of special detention in a disciplinary barrack;
 
-“disciplinary officer” means a junior disciplinary officer, a senior disciplinary officer and a superior commander each being qualified to be such or being designated as such pursuant to the provisions of Part IV and includes the Chief of Defence Force;
+“disciplinary officer” means a junior disciplinary officer, a senior disciplinary officer and a superior commander each being qualified to be such or being designated as such pursuant to the provisions of Part IV and includes a Service Chief and the Chief of Defence Force;
 
 “enemy” includes persons engaged in violent operations against the Singapore Armed Forces, armed mutineers, armed rebels, armed rioters or pirates;
 
@@ -603,6 +607,10 @@ PRELIMINARY
 “regular serviceman” has the same meaning as in the Enlistment Act [Cap. 93];
 
 “sentence” means a punishment imposed on a convicted person;
+
+“Service Chief” means the Chief of Air Force, the Chief of Army or the Chief of Navy;
+
+[10/2000 wef 31/03/2000]
 
 “serviceman” means an officer or a soldier of the Singapore Armed Forces and includes a servicewoman;
 
@@ -1360,9 +1368,13 @@ SUMMARY TRIAL BY DISCIPLINARY OFFICERS
 
 62\.—(1) Before an allegation against any person subject to military law (referred to in this Act as the accused) that he has committed an offence under this Act is further proceeded with, the allegation shall be reported in the form of a charge to a disciplinary officer and dealt with in accordance with the provisions of this Part.
 
-(2) If the accused is an officer of the rank of lieutenant-colonel , the charge shall, within such time as may be specified in regulations made under this Act, be brought before the Chief of Defence Force.
+(2) If the accused is an officer of the rank of colonel, the charge shall, within such time as may be specified in regulations made under this Act, be brought before the Chief of Defence Force.
 
 [1/94]
+
+(2A) If the accused is an officer of the rank of lieutenant-colonel, the charge shall, within such time as may be specified in the regulations made under this Act, be brought before a Service Chief.
+
+[10/2000 wef 31/03/2000]
 
 (3) If the accused is an officer below the rank of lieutenant-colonel, the charge shall, within such time as may be specified in regulations made under this Act, be brought before a superior commander at least two ranks above him.
 
@@ -1370,7 +1382,7 @@ SUMMARY TRIAL BY DISCIPLINARY OFFICERS
 
 (5) If the accused is a soldier below the rank of warrant officer the charge shall, within such time as may be specified in such regulations, be brought before a junior disciplinary officer.
 
-(6) A disciplinary officer other than the Chief of Defence Force may try an accused only when —
+(6) A disciplinary officer other than a Service Chief or the Chief of Defence Force may try an accused only when —
 
 (a) the accused and the disciplinary officer belong to the same detachment, unit, formation or command; or
 
@@ -1418,17 +1430,33 @@ SUMMARY TRIAL BY DISCIPLINARY OFFICERS
 
 (c) if he is of the opinion that the charge should not be dealt with by him refer the charge to the person appointed under section 82(5)(a).
 
-### Powers of Chief of Defence Force when dealing with charge
+### Powers of Service Chief when dealing with charge
 
-65A\. The Chief of Defence Force when dealing with a charge brought before him under section 62(2) may —
+65A\.—(1) A Service Chief when dealing with a charge brought before him under section 62(2A) may —
 
 (a) dismiss the charge if he is of the opinion that it ought not to be proceeded with;
 
 (b) try the accused summarily; or
 
-(c) if he is of the opinion that the charge should not be dealt with by him, refer the charge to the person appointed under section 82(5) (a).
+(c) if he is of the opinion that the charge should not be dealt with by him, refer the charge to the person appointed under section 82(5)(a).
 
-[1/94]
+(2) A Service Chief shall try the accused summarily where a charge is referred to him under section 67(b)(ii) or 75(4)(a)(i).
+
+[10/2000 wef 31/03/2000]
+
+### Powers of Chief of Defence Force when dealing with charge
+
+65B\.—(1) The Chief of Defence Force when dealing with a charge brought before him under section 62(2) may —
+
+(a) dismiss the charge if he is of the opinion that it ought not to be proceeded with;
+
+(b) try the accused summarily; or
+
+(c) if he is of the opinion that the charge should not be dealt with by him, refer the charge to the person appointed under section 82(5)(a).
+
+(2) The Chief of Defence Force shall try the accused summarily where a charge is referred to him under section 67(b)(iii) or 75(4)(a)(i) or (ii).
+
+[10/2000 wef 31/03/2000]
 
 ### Restrictions on power to dismiss charge
 
@@ -1442,15 +1470,21 @@ SUMMARY TRIAL BY DISCIPLINARY OFFICERS
 
 ### Remission of case for trial or otherwise
 
-67\. Where a superior commander or the Chief of Defence Force has referred a charge to the person appointed under section 82(5)(a), that person may —
+67\. Where a superior commander, a Service Chief or the Chief of Defence Force has referred a charge to the person appointed under section 82(5)(a), that person may —
 
 (a) direct that a charge-sheet be submitted to the convening authority;
 
 (b) with the approval of the Armed Forces Council, direct that the charge be tried by —
 
-(i) in the case of a charge referred to him by a superior commander, the superior commander, the senior disciplinary officer or any other superior commander or senior disciplinary officer; and
+(i) in the case of a charge referred to him by a superior commander, the superior commander, the senior disciplinary officer or any other superior commander or senior disciplinary officer;
 
-(ii) in the case of a charge referred to him by the Chief of Defence Force, the Chief of Defence Force; or
+(ii) in the case of a charge referred to him by a Service Chief, the Service Chief, any other Service Chief or the Chief of Defence Force; and
+
+[10/2000 wef 31/03/2000]
+
+(iii) in the case of a charge referred to him by the Chief of Defence Force, the Chief of Defence Force; or
+
+[10/2000 wef 31/03/2000]
 
 (c) with the approval of the Armed Forces Council, direct that no action be taken against the accused either by way of summary trial or by a subordinate military court.
 
@@ -1522,19 +1556,33 @@ SUMMARY TRIAL BY DISCIPLINARY OFFICERS
 
 [1/94]
 
-### Powers of punishment of Chief of Defence Force
+### Powers of punishment of Service Chief
 
-70A\.—(1) The Chief of Defence Force may, upon conviction of an accused of the rank of lieutenant-colonel, impose any one or all of the following punishments:
+70A\.—(1) A Service Chief may, upon the conviction of an accused of the rank of lieutenant-colonel, impose any one or all of the following punishments:
 
-(a) forfeiture of seniority of rank and forfeiture of all or any part of service for purposes of promotion;
+(a) forfeiture of seniority of rank and forfeiture of all or any part of service for the purposes of promotion;
 
 (b) a fine not exceeding a sum of $1,500; or
 
 (c) reprimand.
 
-(2) In addition to or in lieu of any other punishment the Chief of Defence Force may order that the accused shall suffer any deduction from his ordinary pay authorised by this Act.
+(2) In addition to or in lieu of any other punishment, a Service Chief may order that the accused shall suffer any deduction from his ordinary pay authorised by this Act.
 
-[1/94]
+[10/2000 wef 31/03/2000]
+
+### Powers of punishment of Chief of Defence Force
+
+70B\.—(1) The Chief of Defence Force may, upon the conviction of an accused of the rank of lieutenant-colonel or colonel, impose any one or all of the following punishments:
+
+(a) forfeiture of seniority of rank and forfeiture of all or any part of service for the purposes of promotion;
+
+(b) a fine not exceeding a sum of $1,500; or
+
+(c) reprimand.
+
+(2) In addition to or in lieu of any other punishment, the Chief of Defence Force may order that the accused shall suffer any deduction from his ordinary pay authorised by this Act.
+
+[10/2000 wef 31/03/2000]
 
 ### Detention in default of fine
 
@@ -1556,9 +1604,9 @@ and such detention shall take effect from such date as the disciplinary officer 
 
 ### Power of Senior Disciplinary Committee
 
-72\.—(1) A charge against an officer of or above the rank of colonel may be dealt with summarily by a Senior Disciplinary Committee appointed by the Chairman of the Armed Forces Council for that purpose.
+72\.—(1) A charge against an officer of or above the rank of brigadier-general may be dealt with summarily by a Senior Disciplinary Committee appointed by the Chairman of the Armed Forces Council for that purpose.
 
-(2) Notwithstanding subsection (1), a Senior Disciplinary Committee shall have the power to deal with a charge against an officer of the rank of lieutenant-colonel in any case referred to it by the Armed Forces Council under section 75(4)(a)(i) .
+(2) Notwithstanding subsection (1), a Senior Disciplinary Committee shall have the power to deal with a charge against an officer of the rank of colonel in any case referred to it by the Armed Forces Council under section 75(4)(a)(ii).
 
 [1/94]
 
@@ -1606,7 +1654,7 @@ and such detention shall take effect from such date as the disciplinary officer 
 
 [1/94]
 
-(2) The amount of compensation that may be ordered by a junior disciplinary officer shall not exceed a sum of $50 and the amount of compensation ordered by a senior disciplinary officer, a superior commander, the Chief of Defence Force or a Senior Disciplinary Committee shall not exceed a sum of $100.
+(2) The amount of compensation that may be ordered by a junior disciplinary officer shall not exceed a sum of $50 and the amount of compensation ordered by a senior disciplinary officer, a superior commander, a Service Chief, the Chief of Defence Force or a Senior Disciplinary Committee shall not exceed a sum of $100.
 
 [1/94]
 
@@ -1628,7 +1676,7 @@ and such detention shall take effect from such date as the disciplinary officer 
 
 (3) In the case where servicemen are serving outside Singapore, the powers under subsection (1) shall be exercised —
 
-(a) in relation to any finding, sentence, order of dismissal of a charge or award of compensation of the Chief of Defence Force, by the Armed Forces Council, except that where the person for the time being holding the appointment of the Chief of Defence Force is the person who made the finding, sentence, order or award, he shall not sit as a member of the Armed Forces Council for the purposes of this paragraph; and
+(a) in relation to any finding, sentence, order of dismissal of a charge or award of compensation of a Service Chief or the Chief of Defence Force, by the Armed Forces Council, except that where the person for the time being holding the appointment of a Service Chief or the Chief of Defence Force is the person who made the finding, sentence, order or award, he shall not sit as a member of the Armed Forces Council for the purposes of this paragraph; and
 
 (b) in any other case, by an officer appointed by the Armed Forces Council.
 
@@ -1638,13 +1686,15 @@ and such detention shall take effect from such date as the disciplinary officer 
 
 (a) refer the case to be retried —
 
-(iii) where the disciplinary officer is the Chief of Defence Force, by the Chief of Defence Force or, if the Council is of the opinion that the case should not be retried by the Chief of Defence Force, by a Senior Disciplinary Committee; and
+(i) where the disciplinary officer is a Service Chief, by the Service Chief or, if the Council is of the opinion that the case should not be retried by the Service Chief, any other Service Chief or the Chief of Defence Force;
 
-(iiiii) in any other case, by the same or another disciplinary officer; or
+[10/2000 wef 31/03/2000]
+
+(ii) where the disciplinary officer is the Chief of Defence Force, by the Chief of Defence Force or, if the Council is of the opinion that the case should not be retried by the Chief of Defence Force, by a Senior Disciplinary Committee; and
+
+(iii) in any other case, by the same or another disciplinary officer; or
 
 (b) if the Council is of the opinion that the case should be retried by a subordinate military court, refer the charge to the person appointed under section 82(5)(a).
-
-[1/94]
 
 (5) The Armed Forces Council may at any time suspend the execution of any sentence passed by a disciplinary officer for such period as the Council thinks fit.
 
@@ -3262,7 +3312,7 @@ Provided that —
 
 (a) where during or at the conclusion of a trial by a disciplinary officer, Senior Disciplinary Committee or subordinate military court, the disciplinary officer, Senior Disciplinary Committee or subordinate military court —
 
-(i) makes an order under section 69(2), 70(2), 70A(2), 72(6) or 118(1)(j), as the case may be, for a deduction of the pay of a serviceman to be made as or towards compensation for part of any loss or deficiency of property which was caused by the offence for which the trial is being held;
+(i) makes an order under section 69(2), 70(2), 70A(2), 70B (2), 72 (6) or 118(1)(j), as the case may be, for a deduction of the pay of a serviceman to be made as or towards compensation for part of any loss or deficiency of property which was caused by the offence for which the trial is being held;
 
 (ii) makes an order under section 73 or 118(13), as the case may be, for the payment of such compensation; or
 
@@ -3432,89 +3482,99 @@ MISCELLANEOUS
 
 ### SAVER Plan
 
-205A\.—(1) The Armed Forces Council may also make regulations for the establishment of a Savings and Employee Retirement Plan (referred to in this Act as the SAVER Plan) for the payment of —
+205A\.—(1) The Armed Forces Council may also make regulations for the establishment of 2 savings and employee retirement plans (referred to in this Act as the SAVER Plan and the Premium Plan, respectively) for the payment of —
 
 (a) any gratuity, allowance, superannuation or other like benefit to such servicemen or classes of servicemen as may be prescribed, or to their legal personal representatives or dependants, on the death or the retirement or resignation from the Singapore Armed Forces of such servicemen;
 
 (b) any pension, allowance, gratuity, compensation or other benefit in respect of the death of or injuries received by any such serviceman in and which are attributable to service;
 
-(c) any subsidy, rebate or other benefit in respect of medical services rendered to such servicemen; and
+(c) any subsidy, rebate or other benefit in respect of medical services rendered to such servicemen;
 
-(d) any allowance, subsidy or other benefit to such former servicemen after their retirement from the Singapore Armed Forces.
+(d) any allowance, subsidy or other benefit to such former servicemen after their retirement from the Singapore Armed Forces; and
 
-(2) The following provisions shall apply to the SAVER Plan established under this section:
+(e) any loan or other benefit to such servicemen or classes of servicemen as may be prescribed.
 
-(a) no payments, allowance or other benefit payable under the SAVER Plan (whether on death, retirement or resignation of a serviceman or otherwise), and no contribution by the Government made under the SAVER Plan and no interest thereon shall be assignable or transferable, or liable to be garnished, attached, sequestered or levied upon for or in respect of any debt or claim whatsoever, other than —
+[10/2000 wef 31/03/2000]
+
+(2) The following provisions shall apply to the SAVER Plan and the Premium Plan established under this section:
+
+(a) no payments, allowance or other benefit payable under the SAVER Plan or the Premium Plan (whether on death, retirement or resignation of a serviceman or otherwise), and no contribution by the Government made under the SAVER Plan or the Premium Plan and no interest thereon shall be assignable or transferable, or liable to be garnished, attached, sequestered or levied upon for or in respect of any debt or claim whatsoever, other than —
 
 (i) a debt due to the Government; or
 
 (ii) an order of court for the payment of periodical sums of money towards the maintenance of the wife or former wife or minor child (whether legitimate or not) of the serviceman to whom the payment, allowance or other benefit has been granted;
 
-(b) no contribution by the Government made under the SAVER Plan and no interest thereon shall be subject to the debts of a serviceman, nor shall such contributions and interest pass to the Official Assignee on the bankruptcy of the serviceman, but if the serviceman is adjudicated a bankrupt or is declared insolvent by a court of law, such contribution and interest shall be deemed excluded from the property of the bankrupt for the purposes of the Bankruptcy Act (Cap.20); and
+(b) no contribution by the Government made under the SAVER Plan or the Premium Plan and no interest thereon shall be subject to the debts of a serviceman, nor shall such contributions and interest pass to the Official Assignee on the bankruptcy of the serviceman, but if the serviceman is adjudicated a bankrupt or is declared insolvent by a court of law, such contribution and interest shall be deemed excluded from the property of the bankrupt for the purposes of the Bankruptcy Act (Cap.20); and
 
-(c) subject to the provisions of any regulations made under this section, all moneys paid or payable under the SAVER Plan on the death of a serviceman shall be deemed to be subject to a trust in favour of the persons entitled thereto under the will or intestacy of such deceased serviceman and shall not be deemed to form part of his estate or be subject to the payment of his debts but shall be deemed to be property passing on his death for the purposes of the Estate Duty Act (Cap.96).
+(c) subject to the provisions of any regulations made under this section, all moneys paid or payable under the SAVER Plan or the Premium Plan on the death of a serviceman shall be deemed to be subject to a trust in favour of the persons entitled thereto under the will or intestacy of such deceased serviceman and shall not be deemed to form part of his estate or be subject to the payment of his debts but shall be deemed to be property passing on his death for the purposes of the Estate Duty Act (Cap.96).
 
 (3) The Armed Forces Council shall, in making any regulations under this section, provide —
 
-(a) for servicemen who, immediately prior to 1st January 1998, are eligible for any pension, gratuity or other allowance under any regulations made under section 205 to opt to join the SAVER Plan and for the terms and conditions of such an option; and
+(a) for officers who, immediately prior to 1st January 1998, are eligible for any pension, gratuity or other allowance under any regulations made under section 205 to opt to join the SAVER Plan and for the terms and conditions of such an option;
 
-(b) that any such serviceman who opts to join the SAVER Plan shall remain eligible to benefits not less in value than the amount of any pension, gratuity or other allowance for which he would have been granted under the regulations made under section 205 if he retired or ceased contract service on medical grounds not due to causes within his control on the date immediately prior to his joining the SAVER Plan.
+(b) for soldiers who, immediately prior to 1st January 2000, are eligible for any pension, gratuity or other allowance under any regulations made under section 205 to opt to join the Premium Plan and for the terms and conditions of such an option; and
 
-(4) Any option exercised by any serviceman before the commencement of the Singapore Armed Forces (Amendment) Act 1998 to join or not to join the SAVER Plan shall be deemed to be exercised in accordance with the regulations made under subsection (3).
+(c) that any such officer who opts to join the SAVER Plan or any such soldier who opts to join the Premium Plan, shall remain eligible to benefits not less in value than the amount of any pension, gratuity or other allowance for which he would have been granted under the regulations made under section 205 if he retired or ceased contract service on medical grounds not due to causes within his control on the date immediately prior to his joining the SAVER Plan or the Premium Plan, as the case may be.
+
+[10/2000 wef 31/03/2000]
+
+(4) Any option exercised by any officer before 1st April 1998 to join or not to join the SAVER Plan and any option exercised by any soldier before the date of commencement of the Singapore Armed Forces (Amendment) Act 2000 to join or not to join the Premium Plan, shall be deemed to be exercised in accordance with the regulations made under subsection (3).
+
+[10/2000 wef 31/03/2000]
 
 [12/98 wef 01/04/1998]
 
 ### SAVER Fund
 
-205B\.—(1) There shall be a fund to be called the Savings and Employee Retirement Plan Fund (referred to in this Act as the SAVER Fund) which shall be held, managed and administered as a Government fund separate from other Government funds.
+205B\.—(1) There shall be a fund to be called the Savings and Employee Retirement and Premium Fund (referred to in this Act as the SAVER-Premium Fund) which shall be held, managed and administered as a Government fund separate from other Government funds.
 
-(2) All payments and other benefits payable to servicemen under the SAVER Plan , and all expenses incurred in the administration of the SAVER Plan and the investment of moneys in the SAVER Fundshall be charged on and paid out of the SAVER Fund, and no other moneys shall be withdrawn from the SAVER Fund unless authorised to be withdrawn under this Act.
+(2) All payments and other benefits payable to servicemen under the SAVER Plan or the Premium Plan, and all expenses incurred in the administration of the SAVER Plan or the Premium Plan and the investment of moneys in the SAVER-Premium Fund shall be charged on and paid out of the SAVER-Premium Fund, and no other moneys shall be withdrawn from the SAVER-Premium Fund unless authorised to be withdrawn under this Act.
 
-(3) There shall be paid into the SAVER Fund —
+(3) There shall be paid into the SAVER-Premium Fund —
 
-(a) such sums appropriated from time to time from the Consolidated Fund and authorised to be paid in the SAVER Fund by any written law to enable the SAVER Fundto meet its liabilities;
+(a) such sums appropriated from time to time from the Consolidated Fund and authorised to be paid in the SAVER-Premium Fund by any written law to enable the SAVER-Premium Fund to meet its liabilities;
 
-(b) all revenues of Singapore allocated by any written law to the SAVER Fund ; and
+(b) all revenues of Singapore allocated by any written law to the SAVER-Premium Fund; and
 
-(c) the net income from investments of moneys in the SAVER Fundauthorised to be made by this Act or any other written law.
+(c) the net income from investments of moneys in the SAVER-Premium Fund authorised to be made by this Act or any other written law.
 
-(4) There shall also be paid into the SAVER Fundsuch sum from the Pension Fund established by the Pension Fund Act (Cap.224A) as the Minister for Finance may determine as the value of that part of the Pension Fund relating to all those servicemen exercising an option in favour of joining the SAVER Plan in accordance with the regulations made under section 205A.
+(4) There shall also be paid into the SAVER-Premium Fund such sum from the Pension Fund established by the Pension Fund Act (Cap.224A) as the Minister for Finance may determine as the value of that part of the Pension Fund relating to all those servicemen exercising an option in favour of joining the SAVER Plan or the Premium Plan in accordance with the regulations made under section 205A.
 
-(5) The moneys referred to in subsection (3)(a) and (b) and subsection (4) shall be paid into the SAVER Fundas capital money, and shall not be used to meet payments of dividends under the SAVER Plan .
+(5) The moneys referred to in subsection (3)(a) and (b) and subsection (4) shall be paid into the SAVER-Premium Fund as capital money, and shall not be used to meet payments of dividends under the SAVER Plan or the Premium Plan.
 
-(6) The income from the investment of capital moneys of the SAVER Fundshall be paid into an account for the Fund to be called the SAVER Income Account.
+(6) The income from the investment of capital moneys of the SAVER-Premium Fund shall be paid into an account for the Fund to be called the SAVER-Premium Income Account.
 
-(7) Except as otherwise expressly provided in this Act, the Financial Procedure Act (Cap.109) and the regulations made thereunder shall apply to the SAVER Fund.
+(7) Except as otherwise expressly provided in this Act, the Financial Procedure Act (Cap.109) and the regulations made thereunder shall apply to the SAVER-Premium Fund.
 
 [Act 12/98]
 
 ### Administration of SAVER Fund
 
-205C\.—(1) The SAVER Fundshall, subject to the direction and control of the Armed Forces Council, be managed and administered by a Board of Trustees consisting of not more than 13 members, all of whom shall be appointed by the Armed Forces Council.
+205C\.—(1) The SAVER-Premium Fund shall, subject to the direction and control of the Armed Forces Council, be managed and administered by a Board of Trustees consisting of not more than 13 members, all of whom shall be appointed by the Armed Forces Council.
 
-(2) The moneys in the SAVER Fundmay be invested in —
+(2) The moneys in the SAVER-Premium Fund may be invested in —
 
 (a) any investments authorised under section 7 of the Financial Procedure Act; and
 
 (b) such other investments as the Board of Trustees thinks fit, not being any stock, bond, fund or security issued by the Government.
 
-(3) The Armed Forces Council may authorise the transfer to the Consolidated Fund any moneys in the SAVER Fundwhich, in the opinion of the Minister and the Minister for Finance, are not required to meet the liabilities of the SAVER Fund.
+(3) The Armed Forces Council may authorise the transfer to the Consolidated Fund any moneys in the SAVER-Premium Fund which, in the opinion of the Minister and the Minister for Finance, are not required to meet the liabilities of the SAVER-Premium Fund.
 
-(4) The Armed Forces Council shall cause to be kept proper accounts and records of all transactions and affairs relating to the SAVER Fund and shall ensure that payments out of the Fund are correctly made and properly authorised and that adequate control is maintained over the assets and receipts of the Fund.
+(4) The Armed Forces Council shall cause to be kept proper accounts and records of all transactions and affairs relating to the SAVER-Premium Fund and shall ensure that payments out of the Fund are correctly made and properly authorised and that adequate control is maintained over the assets and receipts of the Fund.
 
-(5) The accounts and annual financial statements of the SAVER Fundshall be audited by the Auditor-General who shall report to the Minister on any matter arising out of the performance of his audit.
+(5) The accounts and annual financial statements of the SAVER-Premium Fund shall be audited by the Auditor-General who shall report to the Minister on any matter arising out of the performance of his audit.
 
-(6) The Minister shall cause a copy of the audited financial statements of the SAVER Fundand the auditor’s report to be presented to Parliament.
+(6) The Minister shall cause a copy of the audited financial statements of the SAVER-Premium Fund and the auditor’s report to be presented to Parliament.
 
-(7) For successive periods of such duration, not exceeding 5 years, as the Minister may determine in each case, an examination of the SAVER Fundshall be made with a view to determining the state of the SAVER Fundhaving regard to its prospective liabilities and the probable annual provisions required by the SAVER Fundto meet those liabilities.
+(7) For successive periods of such duration, not exceeding 5 years, as the Minister may determine in each case, an examination of the SAVER-Premium Fund shall be made with a view to determining the state of the SAVER-Premium Fund having regard to its prospective liabilities and the probable annual provisions required by the SAVER-Premium Fund to meet those liabilities.
 
-(8) The Armed Forces Council may make regulations for the proper control and management of the SAVER Fundand, in particular, regulations —
+(8) The Armed Forces Council may make regulations for the proper control and management of the SAVER-Premium Fund and, in particular, regulations —
 
 (a) providing for the appointment of the members of the Board of Trustees, including their tenure and remuneration;
 
 (b) prescribing the procedure to be followed by the Board of Trustees in the exercise of its functions; and
 
-(c) relating to the accounting, reporting, auditing and periodic examination of the SAVER Fund.
+(c) relating to the accounting, reporting, auditing and periodic examination of the SAVER-Premium Fund.
 
 [Act 12/98]
 
@@ -3802,3 +3862,8 @@ This Legislative History is provided for the convenience of users of the Singapo
 |||(Bill No. 10/1998 published on 20 February 1998)|
 ||Date of Second and Third Readings|20 March 1998|
 ||Date of commencement|1 April 1998|
+|11.|**Act 10 of 2000—Singapore Armed Forces (Amendment) Act 2000**|
+||Date of First Reading|17 January 2000|
+|||(Bill No. 2/2000 published on 18 January 2000)|
+||Date of Second and Third Readings|22 February 2000|
+||Date of commencement|31 March 2000|
