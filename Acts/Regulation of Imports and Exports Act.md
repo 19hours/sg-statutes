@@ -643,6 +643,10 @@ except where it is necessary for the purposes of —
 
 (i) the Minister has given his consent in writing to the publication, communication or disclosure.
 
+(5) In this section, “foreign country” means any country or territory outside Singapore.
+
+[2/99 wef 25/02/1999]
+
 ### Abetment and attempts
 
 32\. Any person who abets, within the meaning of the Penal Code (Cap. 224), and any person who attempts to commit any offence, shall be guilty of an offence and shall be liable on conviction to the same punishment as that provided for the offence so abetted or attempted.
@@ -764,3 +768,9 @@ This Legislative History is provided for the convenience of users of the Regulat
 |||(Bill No. 5/1997)|
 ||Date of Second and Third Readings|25 August 1997|
 ||Date of commencement|1 October 1997 (Section 15(3))|
+|5.|**Act 2 of 1999—Probate and Administration (Amendment) Act 1999**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|23 November 1998|
+|||(Bill No. 48/1998 published on 24 November 1996)|
+||Date of Second and Third Readings|20 January 1999|
+||Date of commencement|25 February 1999 (Section 6 – Amendment of Regulation of Imports and Exports Act)|
