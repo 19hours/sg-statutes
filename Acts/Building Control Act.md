@@ -176,9 +176,11 @@ PRELIMINARY
 
 (d) a culvert, crossing, bridge, underpass or tunnel;
 
-(e) a sewage treatment plant, sewer, drain, swimming pool or any non-proprietary type of concrete tank for the storage of any solid, liquid or gaseous product; and
+(e) a sewage treatment plant, sewer, drain, swimming pool or any non-proprietary type of concrete tank for the storage of any solid, liquid or gaseous product;
 
-such other erection or structure (whether permanent or temporary) as the Minister may, by order published in theGazette, declare to be a building;
+(f) a shelter provided under the Civil Defence Shelter Act 1997; and
+
+(g) such other erection or structure (whether permanent or temporary) as the Minister may, by order published in theGazette, declare to be a building;
 
 [Subst. by Act 18/95 wef 01/09/1995 vide S 370/95]
 
@@ -223,8 +225,6 @@ and includes site formation works and any other kind of building operation conne
 (b) in relation to premises to which the Control of Rent Act applies, includes the tenant of the premises;
 
 [Cap. 58. Act 18/95 wef 01/09/1995 vide S 370/95]
-
-[]
 
 (c) in relation to the common property of any subdivided building, includes the management corporation established under the Land Titles (Strata) Act [Cap. 158, 1988 Ed] having control of the building or the person receiving any rent or charge for the maintenance of that common property or any body corporate constituted under an order made by the Minister pursuant to section 3 of the HUDC Housing Estates Act [Cap. 131];
 
@@ -1482,3 +1482,9 @@ This Legislative History is provided for the convenience of users of the Buildin
 |||(Bill No. 18/97 published on 20.11.97)|
 ||Date of Second and Third Readings|14.1.98|
 ||Date of commencement|1 April 1998|
+|12.|**Act 12 of 1997—Civil Defence Shelter Act 1997**|
+||(Consequential amendments made by)||
+||Date of First Reading|25.8.97|
+|||(Bill No. 12/97 published on 26.8.97)|
+||Date of Second and Third Readings|7.10.97|
+||Date of commencement|1 May 1998 (except Parts IV and V)|
