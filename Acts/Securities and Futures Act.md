@@ -878,7 +878,9 @@ PRELIMINARY
 
 “advocate and solicitor” means an advocate and solicitor of the Supreme Court or a foreign lawyer as defined in section 130A of the Legal Profession Act (Cap. 161);
 
-“auditor” means an approved company auditor as defined in section 4(1) of the Companies Act (Cap. 50);
+“auditor” means a public accountant within the meaning of the Companies Act (Cap. 50);
+
+[5/2004 wef 11/04/2005]
 
 “Authority” means the Monetary Authority of Singapore established under the Monetary Authority of Singapore Act (Cap. 186);
 
@@ -9940,6 +9942,12 @@ This Legislative History is provided for the convenience of users of the Securit
 |||(Bill No. 21/2003 published on 17 October 2003)|
 ||Date of Second and Third Readings|10 November 2003|
 ||Date of commencement|1 January 2004|
+|7.|**Act 5 of 2004—Companies (Amendment) Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|5 January 2004|
+|||(Bill No. 3/2004 published on 6 January 2004)|
+||Date of Second and Third Readings|6 February 2004|
+||Date of commencement|1 April 2004|
 ## COMPARATIVE TABLE
 
 Securities and Futures Act
