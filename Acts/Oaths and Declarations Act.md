@@ -1,16 +1,14 @@
-**Oaths and Declarations Act 2000**
+**Oaths and Declarations Act**
 
-**(No. 38 of 2000)**
+**(CHAPTER 211)**
 
 **Table of Contents**
 
 [**Long Title**](#Oaths-and-Declarations-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -54,57 +52,37 @@
 
 - [18 Power to amend Schedules](#Power-to-amend-Schedules)
 
-- [19 Repeal](#Repeal)
-
-- [20 Consequential amendments](#Consequential-amendments)
-
-- [21 Savings provision](#Savings-provision)
+- [19 Savings provision](#Savings-provision)
 
 [**FIRST SCHEDULE Statutory Declaration**](#FIRST-SCHEDULE-Statutory-Declaration)
 
 [**SECOND SCHEDULE**](#SECOND-SCHEDULE)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+[**Comparative Table**](#Comparative-Table)
 
-ACTS SUPPLEMENT
+# Oaths and Declarations Act
 
-Published by Authority
+(CHAPTER 211)
 
-NO. 38]
+(Original Enactment: Act 38 of 2000)
 
-Friday, December 22
+REVISED EDITION 2001
 
-[2000
+(31st December 2001)
 
-The following Act was passed by Parliament on 13th November 2000 and assented to by the President on 2nd December 2000:—
+An Act to amend and consolidate the law relating to oaths and statutory declarations.
 
-Oaths and Declarations Act 2000
-
-(No. 38 of 2000)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-2nd December 2000.
-
-Date of Commencement: 1st January 2001
-
-An Act to amend and consolidate the law relating to oaths and statutory declarations, and to repeal certain statutes, and to make consequential amendments to certain written laws.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st January 2001]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Oaths and Declarations Act 2000 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Oaths and Declarations Act.
 
 ### Interpretation
 
@@ -124,9 +102,9 @@ OATHS
 
 ### Power to administer oaths, etc.
 
-3\.—(1) A court or person acting judicially may administer, or may empower an officer to administer, an oath, affirmation or caution.
+3\.—(1) A court or person acting judicially may administer, or may empower an officer to administer, any oath, affirmation or caution.
 
-(2) Subsection (1) is without prejudice to the provisions of any other written law conferring on any person the power to administer an oath, affirmation or caution.
+(2) Subsection (1) is without prejudice to the provisions of any other written law conferring on any person the power to administer any oath, affirmation or caution.
 
 ### Oaths to be taken by witnesses and interpreters
 
@@ -180,7 +158,7 @@ STATUTORY DECLARATIONS
 
 ### Where law requires or authorises persons to make statutory declarations
 
-10\. Where by any written law (whether made before, on or after the commencement of this Act) any person is authorised or required to make a statutory declaration, that statutory declaration shall be made in the manner provided in section 11 or 12, as the case may be.
+10\. Where by any written law (whether made before, on or after 1st January 2001) any person is authorised or required to make a statutory declaration, that statutory declaration shall be made in the manner provided in section 11 or 12, as the case may be.
 
 ### Manner of making statutory declarations in Singapore
 
@@ -262,33 +240,19 @@ GENERAL PROVISIONS
 
 18\. The Minister may, by notification in theGazette, amend any Schedule.
 
-### Repeal
-
-19\. The following Acts are repealed:
-
-(a) Oaths Act (Cap. 211);
-
-(b) Oaths of Office and Allegiance Act (Cap. 212); and
-
-(c) Statutory Declarations Act (Cap. 320).
-
-### Consequential amendments
-
-20\.—(1) In any written law and in any document, any reference to the repealed Oaths Act, the repealed Oaths of Office and Allegiance Act or the repealed Statutory Declarations Act shall be treated as a reference to the Act.
-
-(2) Section 129(1) of the Criminal Procedure Code (Cap. 68) is amended by inserting, immediately after the words “Penal Code,” in paragraph (b), the words “or section 14 of the Oaths and Declarations Act 2000,”.
-
 ### Savings provision
 
-21\. Every —
+19\. Every —
 
-(a) oath taken, affirmation made or caution administered under the repealed Oaths Act;
+(a) oath taken, affirmation made or caution administered under the repealed Oaths Act (Cap. 211, 1985 Ed.);
 
-(b) oath taken under the repealed Oaths of Office and Allegiance Act; and
+(b) oath taken under the repealed Oaths of Office and Allegiance Act (Cap. 212, 1985 Ed.); and
 
-(c) statutory declaration made under the repealed Statutory Declarations Act,
+(c) statutory declaration made under the repealed Statutory Declarations Act (Cap. 320, 1985 Ed.),
 
 shall continue and have effect as if it had been taken, made or administered, as the case may be, under the provisions of this Act.
+
+[21
 
 FIRST SCHEDULE
 
@@ -317,4 +281,47 @@ Part III
 Form of Judicial Oath
 
 “I, .........................................................., do swear that I will well and truly serve the Republic of Singapore in the office of .......................................... and I will do right to all manner of people after the laws and usages of Singapore without fear or favour, affection or ill-will. So help me God.”
+
+## LEGISLATIVE HISTORY
+
+Oaths and Declarations Act
+
+(CHAPTER 211)
+
+This Legislative History is provided for the convenience of users of the Oaths and Declarations Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 38 of 2000—Oaths and Declarations Act 2000**|
+||Date of First Reading|9 October 2000|
+|||(Bill No. 24/2000 published on 10 October 2000)|
+||Date of Second and Third Readings|13 November 2000|
+||Date of commencement|1 January 2001|
+|2.|**2001 Revised Edition—Oaths and Declarations Act**|
+||Date of operation|31 December 2001|
+## COMPARATIVE TABLE
+
+Oaths and Declarations Act
+
+(CHAPTER 211)
+
+The following provisions in the Oaths and Declarations Act 2000 (Act 38 of 2000) have been renumbered by the Law Revision Commissioners in this 2001 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Oaths and Declarations Act.
+
+2001 Ed .
+
+Act 38 of 2000 
+
+Omitted
+
+19 
+
+Omitted
+
+20 
+
+19 
+
+21 
 
