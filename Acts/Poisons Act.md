@@ -566,6 +566,8 @@ p-Aminosalicylic acid; its salts
 
 Amiodarone; its salts
 
+Amisulpride
+
 Amitriptyline; its salts
 
 Amlodipine; its salts
@@ -784,6 +786,8 @@ Bezafibrate
 
 Bezitramide; its salts
 
+Bicalutamide
+
 Bifonazole
 
 Biperiden; its salts
@@ -799,6 +803,8 @@ Bopindolol
 Boric acid; sodium borate
 
 Bretylium; its salts
+
+Brimonidine; its salts
 
 Bromazepam
 
@@ -949,6 +955,8 @@ Cefaclor; its salts
 Cefadroxil; its salts
 
 Cefatrizine; its salts
+
+Cefdinir
 
 Cefixime; its salts
 
@@ -1127,6 +1135,8 @@ Clonitazene; its salts
 Clopamide
 
 Clopenthixol; its salts
+
+Clopidogrel; its salts
 
 Cloprostenol; its salts
 
@@ -1467,6 +1477,8 @@ Dobutamine; its salts
 Docetaxel
 
 Domperidone
+
+Donepezil; its salts
 
 Dopamine; its salts
 
@@ -1875,6 +1887,8 @@ Goserelin; its salts; its esters; their salts
 Gramicidins; its salts; its esters; their salts
 
 Granisetron; its salts
+
+Grepafloxacin; its salts
 
 Griseofulvin; its salts; its esters; their salts
 
@@ -2454,6 +2468,8 @@ Mometasone; its salts; its esters; their salts
 
 Monofluoroacetic acid; its salts
 
+Montelukast; its salts
+
 Morazone; its salts
 
 Morinamide; its salts
@@ -2507,6 +2523,8 @@ Nandrolone; its salts; its esters and ethers; their salts
 Naphazoline; its salts; when contained in eye preparations
 
 Naproxen; its salts
+
+Naratriptan; its salts
 
 Natamycin; its salts; its esters; their salts
 
@@ -2663,6 +2681,8 @@ Orphenadrine; its salts
 Orthocaine; its salts
 
 Ouabain
+
+Oxaliplatin
 
 Oxamniquine
 
@@ -2916,6 +2936,8 @@ Pirenoxine; its salts
 
 Pirenzepine; its salts
 
+Piribedil
+
 Piritramide; its salts
 
 Piroxicam
@@ -3088,6 +3110,8 @@ Quebracho alkaloids of, except the alkaloids of red quebracho; its quarternary c
 
 Quinagolide; its salts
 
+Quetiapine; its salts
+
 Quinalbarbitone; its salts
 
 Quinapril; its salts
@@ -3122,6 +3146,8 @@ Rauwolfia, alkaloids of; their quarternary compounds; derivatives of alkaloids o
 
 Razoxane
 
+Reboxetine, its salts; its esters; their salts
+
 Remifentanil; its salts
 
 Rescinnamine
@@ -3155,6 +3181,8 @@ Ristocetin; its salts; its esters; their salts
 Ritodrine; its salts
 
 Ritonavir
+
+Rituximab
 
 Rocuronium; its salts
 
@@ -3400,6 +3428,8 @@ Terconazole
 
 Terfenadine
 
+Terlipressin; its salts
+
 Tertatolol; its salts
 
 Testosterone; its salts; its esters and ethers; their salts
@@ -3531,6 +3561,8 @@ Toloxatone
 Tolperisone; its salts
 
 Tolpropamine; its salts
+
+Tolterodine; its salts
 
 Topiramate
 
@@ -3700,6 +3732,8 @@ Zidovudine
 
 Zipeprol; its salts
 
+Zolmitriptan
+
 Zolpidem; its salts
 
 Zopiclone
@@ -3707,6 +3741,8 @@ Zopiclone
 Zoxazolamine; its salts
 
 Zuclopenthixol; its salts; its esters; their salts.
+
+[S 190/1995, S 227/1996, S 456/1998]]
 
 Part II
 
@@ -4765,3 +4801,5 @@ This Legislative History is provided for the convenience of users of the Poisons
 ||Date of commencement|1 July 1996|
 |70.|**G. N. No. S 511/1997—Poisons Act (Amendment of Schedule) Notification 1997**|
 ||Date of commencement|1 December 1997|
+|71.|**G. N. No. S 456/1998—Poisons Act (Amendment of Schedule) Notification 1998**|
+||Date of commencement|28 August 1998|
