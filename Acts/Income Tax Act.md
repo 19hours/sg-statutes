@@ -1544,7 +1544,7 @@ more than 2 years but not more than 3 years prior to the disposal of the shares;
 
 [Act 24/2000, wef Y/A 2001 & Sub. Ys/A:2000-ACT-24]
 
-(5) Where any payment made by a company to any shareholder for a buyback is not deemed to be a dividend received by the shareholder under subsection (3)(b) or (3A) (b), no set-off under section 46 shall be allowed to the shareholder in respect of the payment.
+(5) Where any payment made by a company to any shareholder for a buyback is not deemed to be a dividend received by the shareholder under subsection (3)(b) or (3A)(b), no set-off under section 46 shall be allowed to the shareholder in respect of the payment.
 
 [32/99]
 
@@ -1734,7 +1734,9 @@ EXEMPTION FROM INCOME TAX
 
 (ii) any co-operative society registered under the Co-operative Societies Act (Cap. 62);
 
-(g) subject to subsection (3), the income of any charitable institution or of any body of persons or trust established for charitable purposes only;
+(g) such income derived by the Singapore Exchange Derivatives Clearing Limited from the commencement of its business to 31st December 2003 as may be prescribed;
+
+[24/2001 wef 01/10/2000]
 
 (h) any sum received by way of commutation of pensions granted under any written law relating to pensions in Singapore or, in the case of any other pension scheme, any sum received by way of commutation of pensions by an individual under such a scheme to the extent of such sum as the Comptroller may determine relating to the period of employment of that individual with the employer before 1st January 1993;
 
@@ -2850,6 +2852,8 @@ is the total investment income (whether chargeable to tax or not) for that basis
 
 [1/98; 32/99]
 
+(5A) [Deleted by Act 24/2000 wef Y/A 2000 & Sub. Ys/A]
+
 (5B) Subsections (4)(a) and (b) and (5)(a) shall not apply to any qualifying finance company.
 
 [32/99]
@@ -3814,7 +3818,7 @@ which has been certified by the Singapore Productivity and Standards Board or th
 
 (i) is registered within one month before, or within 6 months after, the deregistration of the existing vehicle; and
 
-(ii) bears an index mark which is the same as that of the index mark of the existing vehicle.
+(ii) bears an index mark which is the same as that of the index mark of the existing vehicle, and for this purpose, where the new goods vehicle and the existing vehicle have a maximum laden weight exceeding 3.0 metric tons but not exceeding 3.5 metric tons, the new goods vehicle shall be deemed to bear an index mark which is the same as that of the existing vehicle.
 
 [15/83; 13/84; 7/85; 1/90; 28/96; 31/98; 32/99]
 
@@ -5062,7 +5066,7 @@ against the tax payable by that individual; but where more than one individual i
 
 (a) every company, tax at the rate of 25.5% on every dollar of the chargeable income thereof;
 
-(b) every person (other than a company) not resident in Singapore, trustee (other than the trustee of an incapacitated person), and executor, tax at the rate of 26% on every dollar of the chargeable income thereof.
+(b) every person (other than a company) not resident in Singapore, trustee (other than the trustee of an incapacitated person), and executor, tax at the rate of 25.5% on every dollar of the chargeable income thereof.
 
 [31/86; 1/90; 20/91; 28/92; 26/93; 28/96]
 
@@ -5566,7 +5570,7 @@ a charge equal to the amount of such excess shall be paid to the Comptroller wit
 
 (a) if he thinks fit, allow any bank or financial institution to give notice of the deduction of tax and make payment of the amount so deducted within such other period and subject to such conditions as the Comptroller may determine;
 
-(b) by notice in writing require any person who pays such interest to deduct and account for tax at a higher or lower rate than 26% or the rate specified in section 43(1B), as the case may be, on every dollar of such interest or permit such interest to be paid without deduction of tax.
+(b) by notice in writing require any person who pays such interest to deduct and account for tax at a higher or lower rate than 25.5% or the rate specified in section 43(1B), as the case may be, on every dollar of such interest or permit such interest to be paid without deduction of tax.
 
 [1/90; 20/91; 28/92; 26/93; 28/96]
 
@@ -8342,6 +8346,11 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 20/2000 published on 1 July 2000)|
 ||Date of Second and Third Readings|25 August 2000|
 ||Date of commencement|7 September 2000|
+|142.|**Act 24 of 2001—Income Tax (Amendment) Act 2001**|
+||Date of First Reading|11 July 2001|
+|||(Bill No. 25/2001 published on 12 July 2001)|
+||Date of Second and Third Readings|25 July 2001|
+||Date of commencement|1 October 2000 (Section 8(b))|
 ## COMPARATIVE TABLE
 
 Income Tax Act
