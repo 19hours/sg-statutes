@@ -24,11 +24,9 @@
 
 - [6 Charge of property tax](#Charge-of-property-tax)
 
-- [6A Valuation by gross receipts](#Valuation-by-gross-receipts)
+- [7 Valuation by gross receipts](#Valuation-by-gross-receipts)
 
-- [7 Refund on unoccupied buildings](#Refund-on-unoccupied-buildings)
-
-- [8 (Repealed)](#Repealed)
+- [8 Refund on unoccupied buildings](#Refund-on-unoccupied-buildings)
 
 - [9 Rates of tax](#Rates-of-tax)
 
@@ -124,55 +122,59 @@
 
 - [49 Street and Building Names Board](#Street-and-Building-Names-Board)
 
-- [49A Name of building, estate or street](#Name-of-building-estate-or-street)
+- [50 Name of building, estate or street](#Name-of-building-estate-or-street)
 
-- [50 Numbers on properties](#Numbers-on-properties)
+- [51 Numbers on properties](#Numbers-on-properties)
 
-- [50A Penalty for numbering or naming property, estate or street without authority of Comptroller](#Penalty-for-numbering-or-naming-property-estate-or-street-without-authority-of-Comptroller)
+- [52 Penalty for numbering or naming property, estate or street without authority of Comptroller](#Penalty-for-numbering-or-naming-property-estate-or-street-without-authority-of-Comptroller)
 
-- [51 Penalty for destroying name or number](#Penalty-for-destroying-name-or-number)
+- [53 Penalty for destroying name or number](#Penalty-for-destroying-name-or-number)
 
-- [52 Disputed expenses to be determined by Magistrate’s Court](#Disputed-expenses-to-be-determined-by-Magistrate’s-Court)
+- [54 Disputed expenses to be determined by Magistrate’s Court](#Disputed-expenses-to-be-determined-by-Magistrate’s-Court)
 
-- [53 Recovery of expenses and costs payable by owners](#Recovery-of-expenses-and-costs-payable-by-owners)
+- [55 Recovery of expenses and costs payable by owners](#Recovery-of-expenses-and-costs-payable-by-owners)
 
-[**Part VII GENERAL**](#Part-VII)
+[**Part VII OFFENCES AND PENALTIES**](#Part-VII)
 
-- [54 Power to enter upon lands for purposes of this Act](#Power-to-enter-upon-lands-for-purposes-of-this-Act)
+- [56 Penalty for obstructing Comptroller, etc., in carrying out his duties](#Penalty-for-obstructing-Comptroller-etc-in-carrying-out-his-duties)
 
-- [55 Penalty for obstructing Comptroller, etc., in carrying out his duties](#Penalty-for-obstructing-Comptroller-etc-in-carrying-out-his-duties)
+- [57 Offence to furnish false information](#Offence-to-furnish-false-information)
 
-- [55A Offence to furnish false information](#Offence-to-furnish-false-information)
+- [58 Comptroller, etc., may direct prosecution](#Comptroller-etc-may-direct-prosecution)
 
-- [56 Receipts and notices may be given by authorised officer](#Receipts-and-notices-may-be-given-by-authorised-officer)
+- [59 Property tax officer may demand names and addresses in certain cases](#Property-tax-officer-may-demand-names-and-addresses-in-certain-cases)
 
-- [56A Electronic service](#Electronic-service)
+- [60 Saving of prosecutions under other laws](#Saving-of-prosecutions-under-other-laws)
 
-- [57 Service of notices](#Service-of-notices)
+- [61 General penalties](#General-penalties)
 
-- [57A Service of summons](#Service-of-summons)
-
-- [58 Court for trial of offences under this Act](#Court-for-trial-of-offences-under-this-Act)
-
-- [59 Comptroller, etc., may direct prosecution](#Comptroller-etc-may-direct-prosecution)
-
-- [60 Property tax officer may demand names and addresses in certain cases](#Property-tax-officer-may-demand-names-and-addresses-in-certain-cases)
-
-- [61 Saving of prosecutions under other laws](#Saving-of-prosecutions-under-other-laws)
-
-- [62 General penalties](#General-penalties)
+- [62 Jurisdiction of court](#Jurisdiction-of-court)
 
 - [63 Composition of offences](#Composition-of-offences)
 
-- [64 Tax remission](#Tax-remission)
+[**Part VIII MISCELLANEOUS PROVISIONS**](#Part-VIII)
 
-- [65 Inaccuracies in documents](#Inaccuracies-in-documents)
+- [64 Power to enter upon lands for purposes of this Act](#Power-to-enter-upon-lands-for-purposes-of-this-Act)
 
-- [66 Evidence](#Evidence)
+- [65 Receipts, notices, etc., may be given by authorised officer](#Receipts-notices-etc-may-be-given-by-authorised-officer)
 
-- [67 Regulations](#Regulations)
+- [66 Electronic service](#Electronic-service)
+
+- [67 Service of notices](#Service-of-notices)
+
+- [68 Service of summons](#Service-of-summons)
+
+- [69 Tax remission](#Tax-remission)
+
+- [70 Inaccuracies in documents](#Inaccuracies-in-documents)
+
+- [71 Evidence](#Evidence)
+
+- [72 Regulations](#Regulations)
 
 [**Legislative History**](#Legislative-History)
+
+[**Comparative Table**](#Comparative-Table)
 
 # Property Tax Act
 
@@ -180,15 +182,13 @@
 
 (Original Enactment: Ordinance 72 of 1960)
 
-REVISED EDITION 1997
+REVISED EDITION 2005
 
-(30th May 1997)
+(31st March 2005)
 
 An Act to provide for the levy of a tax on immovable properties and to regulate the collection thereof.
 
-[1st January 1961: section 2;
-
-1st January 1964: sections 3 to 14 ]
+[1st January 1961]
 
 ## PART I
 
@@ -204,8 +204,6 @@ PRELIMINARY
 
 “account with the electronic service”, in relation to any person, means a computer account within the electronic service which is assigned by the Comptroller to that person for the storage and retrieval of electronic records relating to that person;
 
-[59/2004 wef 08/12/2004]
-
 “annual value” —
 
 (a) in relation to a house or building or land or tenement, not being a wharf, pier, jetty or landing-stage, means the gross amount at which the same can reasonably be expected to be let from year to year, the landlord paying the expenses of repair, insurance, maintenance or upkeep and all taxes (other than goods and services tax); and
@@ -214,7 +212,7 @@ PRELIMINARY
 
 “authentication code”, in relation to any person, means an identification or identifying code, a password or any other authentication method or procedure which is assigned to that person for the purposes of identifying and authenticating the access to and use of the electronic service by that person;
 
-[59/2004 wef 08/12/2004]
+“Board” means the Valuation Review Board constituted under section 23;
 
 “building” means any structure erected on land and includes any house, hut, shed or similar roofed enclosure, whether used for the purposes of human habitation or otherwise, any slip, dock, wharf, pier, jetty, landing-stage, underground or overground tank for the storage of solids, liquids or gases, and any oil refinery;
 
@@ -226,11 +224,7 @@ PRELIMINARY
 
 “electronic record” has the same meaning as in the Electronic Transactions Act (Cap. 88);
 
-[59/2004 wef 08/12/2004]
-
-“electronic service” means the electronic service provided by the Comptroller under section 56A(1);
-
-[59/2004 wef 08/12/2004]
+“electronic service” means the electronic service provided by the Comptroller under section 66(1);
 
 “industrial premises” means premises, not being freight-transport premises, occupied and used for the purpose of private gain, as a mine or as a factory or workshop, but does not include premises occupied and used as a factory or workshop if such premises are primarily occupied and used for the following purposes or for any combination of such purposes:
 
@@ -244,7 +238,7 @@ PRELIMINARY
 
 (e) the purposes of a public supply undertaking;
 
-(f) any other purposes, whether or not similar to any of the foregoing, which are not those of a factory or workshop;
+(f) any other purposes, whether or not similar to any of the purposes set out in paragraphs (a) to (e), which are not those of a factory or workshop;
 
 “occupier” means the person in occupation of the premises in respect of which the word is used or having the charge, management or control thereof either on his own account or as agent of another person, but does not include a lodger;
 
@@ -254,17 +248,15 @@ PRELIMINARY
 
 “property” includes houses, buildings, lands and tenements;
 
-“public authority” means such public authority as may be prescribed* for the purposes of this Act by the Minister;
+“public authority” means such public authority as may be prescribed1for the purposes of this Act by the Minister;
 
-*See Cap. 254, N 1.
+1SeeCap. 254, N 1.
 
 “tax” means the property tax imposed by this Act;
 
-“Valuation List” means the Valuation List prepared under section 10;
+“Valuation List” means the Valuation List prepared under section 10.
 
-“Valuation Review Board” means the Valuation Review Board constituted under section 23.
-
-[24/65; 19/68]
+[24/65; 19/68; 33/2002; 59/2004]
 
 (2) In assessing the annual value of any premises in or upon which there is any machinery used for any of the following purposes:
 
@@ -290,11 +282,15 @@ the enhanced value given to the premises by the presence of such machinery shall
 
 [24/65]
 
-(5) Where land is occupied as appurtenant to any house or building, but is in excess of the area fixed by the Comptroller with the sanction of the Minister, the excess land shall be deemed to be vacant land and the annual value shall be separately assessed at a sum which is equivalent to the annual interest at 5% on the estimated value of the land; except that where the land is occupied or capable of being developed for building purposes, any money expended with the object of developing that land for building purposes shall be deducted from the estimated improved value of that land for a period of 5 years after such expenditure.
+(5) Subject to subsection (6), where land is occupied as appurtenant to any house or building, but is in excess of the area fixed by the Comptroller with the sanction of the Minister, the excess land shall be deemed to be vacant land and the annual value shall be separately assessed at a sum which is equivalent to the annual interest at 5% on the estimated value of the land.
 
 [24/65]
 
-(6) In assessing the annual value of any property which comprises a lot the title of which is issued under the Land Titles (Strata) Act (Cap. 158) —
+(6) Where the land referred to in subsection (5) is occupied or capable of being developed for building purposes, any money expended with the object of developing that land for building purposes shall be deducted from the estimated improved value of that land for a period of 5 years after such expenditure.
+
+[24/65]
+
+(7) In assessing the annual value of any property which comprises a lot the title of which is issued under the Land Titles (Strata) Act (Cap. 158) —
 
 (a) the subsidiary proprietor of the lot shall be deemed to be the owner thereof;
 
@@ -304,7 +300,7 @@ the enhanced value given to the premises by the presence of such machinery shall
 
 [19/68]
 
-(7) In assessing the annual value of any property comprised in a statutory land grant or lease of State land or a lease of property by a public authority for a period exceeding 3 years —
+(8) In assessing the annual value of any property comprised in a statutory land grant or lease of State land or a lease of property by a public authority for a period exceeding 3 years —
 
 (a) the grantee or lessee of the property shall be deemed to be the owner thereof;
 
@@ -314,7 +310,7 @@ the enhanced value given to the premises by the presence of such machinery shall
 
 [19/68]
 
-(8) In assessing the annual value of any property required to be assessed on the basis of gross receipts by any order made under section 6A, the Chief Assessor shall determine the annual value of the property in the manner specified in the order and the amount so determined shall be deemed to be the annual value of the property.
+(9) In assessing the annual value of any property required to be assessed on the basis of gross receipts by any order made under section 7, the Chief Assessor shall determine the annual value of the property in the manner specified in the order and the amount so determined shall be deemed to be the annual value of the property.
 
 [4/87]
 
@@ -348,23 +344,25 @@ IMPOSITION OF PROPERTY TAX
 
 6\.—(1) As from 1st January 1961, a property tax shall, subject to the provisions of this Act, be payable at the rate or rates specified in this Act for each year upon the annual value of all houses, buildings, lands and tenements whatsoever included in the Valuation List and amended from time to time in accordance with the provisions of this Act.
 
+[33/2002]
+
 (2) The tax shall be payable by the owner of such property —
 
 (a) in the case of tax payable under subsection (1), yearly in advance without demand, in the month of January; and
 
 (b) without prejudice to paragraph (a), where the Comptroller has served a notice for payment of the tax under this Act, within one month of the service of that notice.
 
-[33/2002 wef 01/01/2003]
+[33/2002]
 
-(2A) The Comptroller may, in his discretion, extend the period for payment referred to in subsection (2) within which payment of the tax is to be made.
+(3) The Comptroller may, in his discretion, extend the period for payment referred to in subsection (2) within which payment of the tax is to be made.
 
-[33/2002 wef 01/01/2003]
+[33/2002]
 
-(3) The tax shall be a first charge on the property concerned and, if not paid within the prescribed time, shall be recoverable in the manner provided in this Act.
+(4) The tax shall be a first charge on the property concerned and, if not paid within the prescribed time, shall be recoverable in the manner provided in this Act.
 
-(4) No tax shall be payable on any house, land, building or tenement the annual value of which is $18 or less.
+(5) No tax shall be payable on any house, land, building or tenement the annual value of which is $18 or less.
 
-(5) All buildings or parts of buildings used exclusively —
+(6) All buildings or parts of buildings used exclusively —
 
 (a) as places for public religious worship;
 
@@ -376,19 +374,19 @@ IMPOSITION OF PROPERTY TAX
 
 shall be exempted from payment of the tax.
 
-(5A) The Minister may exempt, subject to such conditions as he may think fit, any premises or part thereof from the payment of the tax.
+(7) The Minister may exempt, subject to such conditions as he thinks fit, any premises or part thereof from the payment of the tax.
 
-(5B) The Minister may, by order published in theGazette, remit or exempt wholly or in part the tax payable in respect of such category of properties for such period and subject to such conditions as he may specify in the order.
+(8) The Minister may, by order published in theGazette, remit or exempt wholly or in part the tax payable in respect of such category of properties for such period and subject to such conditions as he may specify in the order.
 
 [4/87]
 
-(6) Where premises are held subject to the payment by the owner thereof of any rent, rentcharge, annuity or other like payment, the owner having paid the tax for the time being payable on the premises shall be entitled, notwithstanding any stipulation to the contrary, to deduct from the rent, rentcharge, annuity or other payment a sum which shall bear the same proportion to the tax so paid by him as the amount of that rent, rentcharge, annuity or other payment bears to the annual value of the premises.
+(9) Where premises are held subject to the payment by the owner thereof of any rent, rentcharge, annuity or other like payment, the owner having paid the tax for the time being payable on the premises shall be entitled, notwithstanding any stipulation to the contrary, to deduct from the rent, rentcharge, annuity or other payment a sum which shall bear the same proportion to the tax so paid by him as the amount of that rent, rentcharge, annuity or other payment bears to the annual value of the premises.
 
-(6A) No such deduction under subsection (6) shall be made from any rent payable to the Government or to a public authority.
+(10) No such deduction under subsection (9) shall be made from any rent payable to the Government or to a public authority.
 
 [19/68]
 
-(7) Notwithstanding any other provision in this Act, the Minister may, in respect of any public authority or body corporate constituted under any written law, order that in lieu of the tax payable under this Act, the public authority or body corporate shall —
+(11) Notwithstanding any other provision in this Act, the Minister may, in respect of any public authority or body corporate constituted under any written law, order that in lieu of the tax payable under this Act, the public authority or body corporate shall —
 
 (a) in a case equivalent to the payment of tax under subsection (1), yearly in advance without demand, in the month of January; and
 
@@ -396,31 +394,33 @@ shall be exempted from payment of the tax.
 
 pay to the Government the sum of which is to be calculated on such basis as may be deemed equitable by the Minister.
 
-[33/2002 wef 01/01/2003]
+[33/2002]
 
-(7A) If such sum remains due and unpaid at the expiration of 3 weeks from the end of January in each year or from the end of one month from the date of the service of a notice for payment of the tax, as the case may be, it shall be deemed to be arrears of tax payable and may be recovered in the manner provided in this Act together with interest at the prevailing bank rate.
+(12) If such sum remains due and unpaid at the expiration of 3 weeks from the end of January in each year or from the end of one month from the date of the service of a notice for payment of the tax, as the case may be, it shall be deemed to be arrears of tax payable and may be recovered in the manner provided in this Act together with interest at the prevailing bank rate.
 
-[19/68]
+[19/68; 33/2002]
 
-(8) If it is proved to the satisfaction of the Comptroller that any tax has been paid in excess of the amount with which any property is properly chargeable, the owner of the property shall be entitled to have the amount so paid in excess refunded.
+(13) If it is proved to the satisfaction of the Comptroller that any tax has been paid in excess of the amount with which any property is properly chargeable, the owner of the property shall be entitled to have the amount so paid in excess refunded.
 
-(8A) Every claim for such refund under subsection (8) shall be made within 6 years of such excess payment.
+(14) Every claim for such refund under subsection (13) shall be made within 6 years of such excess payment.
 
-(8B) The Comptroller shall certify the amount to be refunded and shall cause payment to be made forthwith.
+(15) The Comptroller shall certify the amount to be refunded and shall cause payment to be made immediately.
 
-(9) Where any amount has been erroneously refunded under subsection (8B), the owner shall, notwithstanding the certification by the Comptroller of such refund, repay that amount within a period of 15 days of his receiving a demand therefor from the Comptroller.
+(16) Where any amount has been erroneously refunded under subsection (15), the owner shall, notwithstanding the certification by the Comptroller of such refund, repay that amount within a period of 15 days of his receiving a demand therefor from the Comptroller.
 
-(10) If that amount remains due and unpaid at the expiration of that period mentioned in subsection (9), it shall be deemed to be arrears of tax payable in respect of the property concerned and may be recovered in the manner provided in this Act.
+(17) If that amount remains due and unpaid at the expiration of that period mentioned in subsection (16), it shall be deemed to be arrears of tax payable in respect of the property concerned and may be recovered in the manner provided in this Act.
 
 ### Valuation by gross receipts
 
-6A\. The Minister may, by order published in theGazette, require the annual value of any property or part thereof falling within such category as may be prescribed to be assessed on the basis of the gross receipts (whether in the preceding or current year) arising from the use of that property for the purposes of any trade or business and such assessment shall be determined in such manner as specified in the order.
+7\. The Minister may, by order published in theGazette, require the annual value of any property or part thereof falling within such category as may be prescribed to be assessed on the basis of the gross receipts (whether in the preceding or current year) arising from the use of that property for the purposes of any trade or business and such assessment shall be determined in such manner as specified in the order.
+
+[6A
 
 [4/87]
 
 ### Refund on unoccupied buildings
 
-7\.—(1) Where tax has been paid under the provisions of this Act in respect of any building, the Comptroller shall, subject to this section, refund a part of the tax proportionate to any period during which the building is unoccupied except that no refund shall be allowed in respect of any unbroken period of less than 30 days or a calendar month.
+8\.—(1) Where tax has been paid under the provisions of this Act in respect of any building, the Comptroller shall, subject to this section, refund a part of the tax proportionate to any period during which the building is unoccupied except that no refund shall be allowed in respect of any unbroken period of less than 30 days or a calendar month.
 
 [25/63; 24/73]
 
@@ -434,7 +434,7 @@ pay to the Government the sum of which is to be calculated on such basis as may 
 
 (b) part of the continuous period of 30 days falls before 1st November in any year and another part of that period falls on or after that date.
 
-[46/96]
+[46/96; 33/2002]
 
 (4) No refund shall be allowed in respect of any building unless the owner satisfies the Comptroller —
 
@@ -448,17 +448,17 @@ pay to the Government the sum of which is to be calculated on such basis as may 
 
 (5) Where a refund is claimed in respect of a period during which the building has been undergoing repairs for the purposes of rendering it fit for occupation, it shall not be necessary to prove in respect of the claim, the matters specified in subsection (4)(a), (b) and (c).
 
-[25/63]
+[7
 
-8\. [Deleted by Act 59/2004 wef 08/12/2004]
+[25/63]
 
 ### Rates of tax
 
-9\.—(1) The tax payable in respect of each year shall be at the rate of 36%* upon the annual value of every property included in the Valuation List.
+9\.—(1) The tax payable in respect of each year shall be at the rate of 36%\*upon the annual value of every property included in the Valuation List.
 
-*12% from 1.7.96 —SeeG.N. No. S 114/96.
+\*12% from 1st July 1996 —seeProperty Tax (Rates) Order (O 9, 1996 Ed.) (G.N. No. S 114/96).
 
-*10% from 1.7.2001 —SeeG.N. No. S 205/2001.
+* 10% from 1st July 2001 —seeProperty Tax (Rates) Order (O 9, 2003 Ed.) (G.N. No. S 205/2001).
 
 (2) The Minister may, by order published in theGazette, direct that the tax payable in respect of properties within any area or areas shall be at such a rate or rates being less than the rate prescribed by this section for such period or periods as may seem equitable to the Minister.
 
@@ -474,9 +474,9 @@ occupied as such by the person whose name appears in the Valuation List as the o
 
 10\.—(1) The Chief Assessor shall cause to be prepared a list, which shall be known as the Valuation List, of all houses, buildings, lands and tenements.
 
-(1A) The inclusion in the Valuation List of any house or building which has been erected in contravention of any written law shall not prevent the person who has contravened that law from being liable to the penalty provided under that law, or such unauthorised house or building from being demolished under the provisions of that law.
+(2) The inclusion in the Valuation List of any house or building which has been erected in contravention of any written law shall not prevent the person who has contravened that law from being liable to the penalty provided under that law, or such unauthorised house or building from being demolished under the provisions of that law.
 
-(2) The Valuation List shall contain in respect of all houses, buildings, lands and tenements —
+(3) The Valuation List shall contain in respect of all houses, buildings, lands and tenements —
 
 (a) a description or designation sufficient for identification;
 
@@ -486,15 +486,15 @@ occupied as such by the person whose name appears in the Valuation List as the o
 
 (d) such other particulars as the Chief Assessor may from time to time consider necessary.
 
-(3) Each part of a building divided laterally or horizontally into parts in such a manner that the owner, either solely or jointly with other owners, of one part is not also the owner either solely or jointly with the other owners respectively of any other part, shall for the purpose of this Part be deemed to be a building.
+(4) Each part of a building divided laterally or horizontally into parts in such a manner that the owner, either solely or jointly with other owners, of one part is not also the owner either solely or jointly with the other owners respectively of any other part, shall for the purpose of this Part be deemed to be a building.
 
-(4) Each part of a partially completed building divided laterally or horizontally into parts shall for the purposes of this Part be deemed to be a building if it is used for human habitation or otherwise.
+(5) Each part of a partially completed building divided laterally or horizontally into parts shall for the purposes of this Part be deemed to be a building if it is used for human habitation or otherwise.
 
 [24/73]
 
-(5) When the name of the owner is not known, it shall be sufficient to designate him in the Valuation List and in any proceedings to recover any tax or arrears thereof as “the owner” of that house, building, land or tenement, as the case may be, without further description.
+(6) When the name of the owner is not known, it shall be sufficient to designate him in the Valuation List and in any proceedings to recover any tax or arrears thereof as “the owner” of that house, building, land or tenement, as the case may be, without further description.
 
-(6) The Valuation List may be prepared and kept in electronic form in a computer or on any magnetic, optical, chemical or other medium as may be determined by the Chief Assessor.
+(7) The Valuation List may be prepared and kept in electronic form in a computer or on any magnetic, optical, chemical or other medium as may be determined by the Chief Assessor.
 
 [46/96]
 
@@ -502,13 +502,21 @@ occupied as such by the person whose name appears in the Valuation List as the o
 
 11\. It shall be in the discretion of the Chief Assessor either to cause to be prepared a new Valuation List every year or to adopt the Valuation List then in force, with such alterations and amendments as may have been made from time to time in accordance with the provisions of this Act.
 
-12\. [Deleted by Act 33/2002 wef 01/01/2003]
+Notice of Valuation List to be published
 
-13\. [Deleted by Act 33/2002 wef 01/01/2003]
+12\. [Repealed by Act 33/2002]
 
-14\. [Deleted by Act 33/2002 wef 01/01/2003]
+Payment to account of tax
 
-15\. [Deleted by Act 33/2002 wef 01/01/2003]
+13\. [Repealed by Act 33/2002]
+
+Notice of objection to Valuation List
+
+14\. [Repealed by Act 33/2002]
+
+Authentication of Valuation List
+
+15\. [Repealed by Act 33/2002]
 
 ### Returns to be made by owners
 
@@ -568,7 +576,7 @@ occupied as such by the person whose name appears in the Valuation List as the o
 
 (b) notwithstanding that the Valuation List has not been amended, be liable to pay the tax in respect of that property from the date of demolition or removal of the building, as the case may be, on the basis of any revised annual value which may be ascribed to that property in a subsequent amended Valuation List.
 
-[19/68]
+[19/68; 33/2002]
 
 (9) Where any property is let and the rent charged therefor, or any sum charged for the use of furniture, fixtures, fittings and other furnishings therein, or for the maintenance of the property and the grounds thereof, or for services provided in connection with the property, is increased, the owner of the property shall, within 15 days of the increase, give notice thereof in writing to the Chief Assessor.
 
@@ -606,6 +614,8 @@ occupied as such by the person whose name appears in the Valuation List as the o
 
 the Chief Assessor may, in the year referred to in paragraph (a), if he considers it desirable that an amendment should be made to the Valuation List, give notice thereof to the owner of the property concerned stating the amendment that is considered desirable and the date from which it is proposed the amendment shall take effect, and the amendment shall be made in the Valuation List from that date.
 
+[33/2002]
+
 (2) For the purposes of this section, the Valuation List shall be deemed to be inaccurate in a material particular where —
 
 (a) the Chief Assessor is of the opinion that the annual value of a property included in the Valuation List does not correctly represent the annual value evidenced by —
@@ -620,23 +630,33 @@ the Chief Assessor may, in the year referred to in paragraph (a), if he consider
 
 (c) any new building is erected or any building is rebuilt, enlarged, altered, improved or demolished;
 
-(d) any property, not exempted from the provisions of this Act, has not been included in the Valuation List; or
+(d) any property , not exempted from the provisions of this Act, has not been included in the Valuation List; or
 
-(e) the Chief Assessor is of the opinion that the annual value of any property or part thereof in the Valuation List required to be assessed on the basis of gross receipts by any order made under section 6A does not correctly represent the annual value as evidenced by the gross receipts arising from the use of that property for the purposes of any trade or business and determined in the manner specified in the order.
+(e) the Chief Assessor is of the opinion that the annual value of any property or part thereof in the Valuation List required to be assessed on the basis of gross receipts by any order made under section 7 does not correctly represent the annual value as evidenced by the gross receipts arising from the use of that property for the purposes of any trade or business and determined in the manner specified in the order.
 
-(3) The Chief Assessor may, in his discretion, cancel any notice given under subsection (1) which is inaccurate in any particular and may replace it with another notice.
+[33/2002]
 
-(4) Any alteration to a Valuation List required for the purpose of correcting any of the matters referred to in section 10 (2) (a), (b) and (d) or for the correction of any clerical or arithmetical error therein shall not in itself constitute an amendment and may be made at any time.
+(3) The Chief Assessor may, in his discretion, cancel any notice given under subsection (1) which is inaccurate in any material particular and may replace it with another notice.
+
+[33/2002]
+
+(4) Any alteration to a Valuation List required for the purpose of correcting any of the matters referred to in section 10 (3) (a), (b) and (d) or for the correction of any clerical or arithmetical error therein shall not in itself constitute an amendment and may be made at any time.
+
+[33/2002]
 
 (5) In this section, “land-owning company” means a company the main object or one of the main objects of which is the development of property by the construction of houses or buildings thereon for the purpose of sale or rent.
 
-[33/2002 wef 01/01/2003]
+[33/2002]
 
 ### Objection to Valuation List
 
 20A\.—(1) Any owner aggrieved by the inclusion of any property in the Valuation List or by the annual value ascribed thereto in the Valuation List in any year may, at any time in that year, make an objection to the Chief Assessor by written notice in such form as the Chief Assessor may determine, stating precisely the grounds on which the objection is made and the desired amendments to the Valuation List.
 
+[33/2002]
+
 (2) Notwithstanding subsection (1), any owner who desires to object to an amendment made to the Valuation List under section 20 shall do so within 21 days of the service of the notice referred to in section 20(1).
+
+[33/2002]
 
 (3) The Chief Assessor shall consider an objection under subsection (1) or (2) and may —
 
@@ -648,15 +668,27 @@ the Chief Assessor may, in the year referred to in paragraph (a), if he consider
 
 (d) allow the objection in a manner agreed between the Chief Assessor and the owner.
 
+[33/2002]
+
 (4) The Chief Assessor shall serve the owner by post or otherwise with a written notice of his decision.
+
+[33/2002]
 
 (5) Where the Chief Assessor allows an objection under subsection (3)(b), (c) or (d), the Chief Assessor may specify any date in the year in which the objection is made from which the amendment shall have effect, and the amendment shall be made in the Valuation List immediately.
 
-(6) The Chief Assessor may, in his discretion, cancel any notice served under subsection (4) which is inaccurate in any particular and may replace it with another notice.
+[33/2002]
 
-(7) Any owner dissatisfied with the decision made by the Chief Assessor under subsection (3)(a) or (c) may, within 21 days of the service of the notice under subsection (4), appeal to the Valuation Review Board in the manner provided in section 29.
+(6) The Chief Assessor may, in his discretion, cancel any notice served under subsection (4) which is inaccurate in any material particular and may replace it with another notice .
 
-(8) Where the Valuation Review Board varies any annual value in the Valuation List under an appeal to the Board, the Chief Assessor shall cause the Valuation List to be amended in accordance with the decision of the Board.
+[33/2002]
+
+(7) Any owner dissatisfied with the decision made by the Chief Assessor under subsection (3)(a) or (c) may, within 21 days of the service of the notice under subsection (4), appeal to the Board in the manner provided in section 29.
+
+[33/2002]
+
+(8) Where the Board varies any annual value in the Valuation List under an appeal to the Board, the Chief Assessor shall cause the Valuation List to be amended in accordance with the decision of the Board.
+
+[33/2002]
 
 (9) Unless the Chief Assessor in his discretion determines otherwise —
 
@@ -666,67 +698,65 @@ the Chief Assessor may, in the year referred to in paragraph (a), if he consider
 
 (ii) the date of written notice under subsection (4), where a previous objection in respect of that property had been made in the year to which the Valuation List relates; and
 
-(b) no objection under this section shall be made within the period during which the Chief Assessor’s decision under subsection (3) regarding any previous objection in respect of the same property is pending.
+(b) no objection under this section shall be made within the period during which the decision of the Chief Assessor under subsection (3) regarding any previous objection in respect of the same property is pending.
 
-(10) Any notice of objection which had been given under section 14(1) or 20(3) in force immediately before the date of commencement of the Property Tax (Amendment) Act 2002 and for which the objector has not received written notice of the Chief Assessor’s decision on the objection by that date shall be deemed to be a notice of objection made under this section.
-
-[33/2002 wef 01/01/2003]
+[33/2002]
 
 ### Tax on new buildings, etc.
 
-21\.—(1) Subject to subsection (2), where any new building is erected and no action is taken in respect thereof for any reason whatsoever to amend the Valuation List for the year in which the work of erecting the building was completed, the tax in respect of the building shall, notwithstanding that the Valuation List has not been duly amended under section 20, be payable from the date of completion of the work of erecting the building.
+21\.—(1) Subject to subsection (3), where any new building is erected and no action is taken in respect thereof for any reason whatsoever to amend the Valuation List for the year in which the work of erecting the building was completed, the tax in respect of the building shall, notwithstanding that the Valuation List has not been duly amended under section 20, be payable from the date of completion of the work of erecting the building .
 
 [24/73]
 
-(1A) The tax payable under subsection (1) shall be calculated on the basis of the annual value or revised annual value, as the case may be, subsequently ascribed to the building in a subsequent Valuation List.
+(2) The tax payable under subsection (1) shall be calculated on the basis of the annual value or revised annual value, as the case may be, subsequently ascribed to the building in a subsequent Valuation List.
 
 [24/73]
 
-(2) Where any part of the building which is under construction (whether divided laterally or horizontally) is used for the purpose of human habitation or otherwise before the work of erecting the building is completed and no action is taken in respect thereof for any reason whatsoever to amend the Valuation List for the year in which that part of the building was used, the tax in respect of that part of the building shall, notwithstanding that the Valuation List has not been duly amended under section 20, be payable from the date of use of that part of the building.
+(3) Where any part of the building which is under construction (whether divided laterally or horizontally) is used for the purpose of human habitation or otherwise before the work of erecting the building is completed and no action is taken in respect thereof for any reason whatsoever to amend the Valuation List for the year in which that part of the building was used, the tax in respect of that part of the building shall, notwithstanding that the Valuation List has not been duly amended under section 20, be payable from the date of use of that part of the building .
 
 [24/73]
 
-(2A) The tax payable under subsection (2) shall be calculated on the basis of the annual value or revised annual value, as the case may be, subsequently ascribed to that part of the building in a subsequent Valuation List.
+(4) The tax payable under subsection (3) shall be calculated on the basis of the annual value or revised annual value, as the case may be, subsequently ascribed to that part of the building in a subsequent Valuation List.
 
 [24/73]
 
-(3) Where any building is rebuilt, enlarged, altered or improved and no action is taken in respect thereof for any reason whatsoever to amend the Valuation List for the year in which the work of rebuilding, enlarging, altering or improving the building was completed, the tax in respect of the building shall, notwithstanding that the Valuation List has not been duly amended under section 20, be payable from the date of completion of the work of rebuilding, enlarging, altering or improving the building.
+(5) Where any building is rebuilt, enlarged, altered or improved and no action is taken in respect thereof for any reason whatsoever to amend the Valuation List for the year in which the work of rebuilding, enlarging, altering or improving the building was completed, the tax in respect of the building shall, notwithstanding that the Valuation List has not been duly amended under section 20, be payable from the date of completion of the work of rebuilding, enlarging, altering or improving the building .
 
 [24/73]
 
-(3A) The tax payable under subsection (3) shall be calculated on the basis of the annual value or revised annual value, as the case may be, subsequently ascribed to the building in a subsequent Valuation List.
+(6) The tax payable under subsection (5) shall be calculated on the basis of the annual value or revised annual value, as the case may be, subsequently ascribed to the building in a subsequent Valuation List.
 
 [24/73]
 
-(4) Where any property is included for the first time in a Valuation List for any year, the tax in respect of the property shall, notwithstanding that the property has not previously been included in any Valuation List authenticated under this Act, be payable in the case of a building from the date of completion of the building and in the case of land from such date as may be determined by the Comptroller, but in none of these cases shall the tax be payable for more than 6 years prior to such inclusion; and such tax shall be calculated on the basis of the annual value ascribed to the property in the Valuation List.
+(7) Where any property is included for the first time in a Valuation List for any year, the tax in respect of the property shall, notwithstanding that the property has not previously been included in any Valuation List, be payable in the case of a building from the date of completion of the building and in the case of land from such date as may be determined by the Comptroller, but in none of these cases shall the tax be payable for more than 6 years prior to such inclusion; and such tax shall be calculated on the basis of the annual value ascribed to the property in the Valuation List.
 
 [24/73]
 
-(5) Where any building ceases to be vacant or to be occupied by the owner thereof and is let to a tenant or where the rent of any building is increased, directly or indirectly, and no action is taken in respect thereof for any reason whatsoever to amend the Valuation List for the year in which the letting or increase of rent occurs, the tax in respect of the building shall, notwithstanding that the Valuation List has not been duly amended under section 20, be payable from the date of the letting or increase of rent, as the case may be, on the basis of any revised annual value which may be ascribed to the building in a subsequent Valuation List.
+(8) Where any building ceases to be vacant or to be occupied by the owner thereof and is let to a tenant or where the rent of any building is increased, directly or indirectly, and no action is taken in respect thereof for any reason whatsoever to amend the Valuation List for the year in which the letting or increase of rent occurs, the tax in respect of the building shall, notwithstanding that the Valuation List has not been duly amended under section 20, be payable from the date of the letting or increase of rent, as the case may be, on the basis of any revised annual value which may be ascribed to the building in a subsequent Valuation List.
 
 [24/73; 46/96]
 
-(6) The Comptroller may, at any time and as often as he thinks necessary, serve on any person a notice requiring him to make, within 21 days from the date of the notice, a return in such form as may be prescribed by the Comptroller, containing such particulars as may be required for the purpose of determining the tax payable in accordance with this section.
+(9) The Comptroller may, at any time and as often as he thinks necessary, serve on any person a notice requiring him to make, within 21 days from the date of the notice, a return in such form as may be prescribed by the Comptroller, containing such particulars as may be required for the purpose of determining the tax payable in accordance with this section.
 
 [24/73]
 
-(7) Any person on whom such a notice has been served who fails to comply with the terms of the notice shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
+(10) Any person on whom such a notice has been served who fails to comply with the terms of the notice shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
 
 [24/73; 46/96]
 
-(8) Any person who in a return made under this section makes any statement which is false in any material particular shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both.
+(11) Any person who in a return made under this section makes any statement which is false in any material particular shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both.
 
 [24/73; 46/96]
 
 ### Collection of taxes under section 21
 
-22\.—(1) Where it appears to the Comptroller that any tax is payable in respect of any property pursuant to section 21, the Comptroller shall give notice thereof to the owner of the property concerned stating the amount of the tax due and the period for which the tax is payable.
+22\.—(1) Where it appears to the Comptroller that any tax is payable in respect of any property under section 21, the Comptroller shall give notice thereof to the owner of the property concerned stating the amount of the tax due and the period for which the tax is payable.
 
 [24/73]
 
 (2) Any owner who objects to any demand made by the Comptroller under subsection (1) may, within 21 days of the service of such notice, give to the Comptroller notice of objection in such form as the Comptroller may determine stating precisely the grounds of his objection.
 
-[24/73]
+[24/73; 33/2002]
 
 (3) The Comptroller shall consider the objection and may —
 
@@ -740,17 +770,15 @@ the Chief Assessor may, in the year referred to in paragraph (a), if he consider
 
 and shall serve the owner by post or otherwise with a written notice of his decision.
 
-[33/2002 wef 01/01/2003]
+[33/2002]
 
-(3A) The Comptroller may, in his discretion, cancel any notice given under subsection (1) or (3) and replace it with another notice.
+(4) The Comptroller may, in his discretion, cancel any notice given under subsection (1) or (3) and replace it with another notice .
 
-[33/2002 wef 01/01/2003]
+[33/2002]
 
-(4) Any owner dissatisfied with the decision made by the Comptroller under subsection (3)(a) or (c) may, within 21 days after such service, appeal to the Valuation Review Board in the manner provided in section 29.
+(5) Any owner dissatisfied with the decision made by the Comptroller under subsection (3)(a) or (c) may, within 21 days after such service, appeal to the Board in the manner provided in section 29.
 
-[24/73]
-
-(5) [Deleted by Act 33/2002 wef 01/01/2003]
+[24/73; 33/2002]
 
 ## PART IV
 
@@ -758,9 +786,9 @@ APPEALS
 
 ### Valuation Review Board
 
-23\.—(1) For the purpose of hearing appeals from the decisions of the Chief Assessor of which notice has been given under section 20A, or of the Comptroller of which notice has been given under section 22 or 38, in the manner provided in this Act, there shall be a Valuation Review Board (referred to in this Act as the Board) consisting of not more than 15 members appointed from time to time by the Minister.
+23\.—(1) For the purpose of hearing appeals from the decisions of the Chief Assessor of which notice has been given under section 20A, or of the Comptroller of which notice has been given under section 22 or 38, in the manner provided in this Act, there shall be a Valuation Review Board consisting of not more than 15 members appointed from time to time by the Minister.
 
-[25/63; 24/73; 4/87; 46/96]
+[25/63; 24/73; 4/87; 46/96; 33/2002; 59/2004]
 
 (2) No person shall be eligible to be appointed or to remain a member of the Board who —
 
@@ -776,11 +804,11 @@ APPEALS
 
 (3) The members of the Board shall hold office for such period as may be determined by the Minister and shall be eligible for re-appointment.
 
-[59/2004 wef 08/12/2004]
+[59/2004]
 
 (4) The Minister may at any time remove any member of the Board from office without assigning any reason.
 
-[59/2004 wef 08/12/2004]
+[59/2004]
 
 (5) The Minister may appoint from amongst the members of the Board —
 
@@ -788,7 +816,7 @@ APPEALS
 
 (b) such number of Deputy Chairmen of the Board as the Minister thinks fit.
 
-[59/2004 wef 08/12/2004]
+[59/2004]
 
 (6) The office of a member of the Board shall become vacant —
 
@@ -804,7 +832,7 @@ APPEALS
 
 (7) On the death, disqualification, bankruptcy, resignation or revocation of the appointment of the Chairman, any Deputy Chairman or any member of the Board, the Minister may appoint a new Chairman, Deputy Chairman or member, as the case may be, who shall hold office for so long as the Chairman, Deputy Chairman or member in whose place he is appointed would have held office.
 
-[59/2004 wef 08/12/2004]
+[59/2004]
 
 (8) Every member of the Board shall be deemed to be a public servant within the meaning of the Penal Code (Cap. 224).
 
@@ -814,6 +842,8 @@ APPEALS
 
 24\. There shall be paid to the Chairman, Deputy Chairmen and other members of the Board such salaries, fees and allowances as the Minister may determine.
 
+[59/2004]
+
 ### Clerk to Board
 
 25\. The Minister may appoint a clerk or clerks to the Board and such other officers and employees of the Board as may be necessary.
@@ -822,15 +852,15 @@ APPEALS
 
 26\.—(1) All the powers, functions and duties of the Board may be exercised, discharged and performed by any committee of the Board consisting of not less than 3 members of the Board, at least one of whom shall be the Chairman or a Deputy Chairman of the Board.
 
-[59/2004 wef 08/12/2004]
+[59/2004]
 
-(1A) Any act, finding or decision of any such committee shall be deemed to be the act, finding or decision of the Board.
+(2) Any act, finding or decision of any such committee shall be deemed to be the act, finding or decision of the Board.
 
-[59/2004 wef 08/12/2004]
+[59/2004]
 
-(2) The clerk shall, from time to time, summon such members of the Board as may be nominated by the Chairman to constitute a committee of the Board for the purposes of giving effect to the provisions of this Part and it shall be the duty of such members to attend at the times and places specified in the summons.
+(3) The clerk shall, from time to time, summon such members of the Board as may be nominated by the Chairman to constitute a committee of the Board for the purposes of giving effect to the provisions of this Part and it shall be the duty of such members to attend at the times and places specified in the summons.
 
-(3) Meetings of a committee shall be presided by —
+(4) Meetings of a committee shall be presided by —
 
 (a) where the Chairman of the Board is a member of the committee, the Chairman; and
 
@@ -840,9 +870,9 @@ APPEALS
 
 (ii) there is more than one Deputy Chairman of the Board on the committee, such Deputy Chairman as the Chairman may determine.
 
-[59/2004 wef 08/12/2004]
+[59/2004]
 
-(4) Where the Chairman or any Deputy Chairman of the Board, as the case may be, is absent from any meeting of a committee at which he ought under subsection (3) to be presiding, the meeting shall be presided by —
+(5) Where the Chairman or any Deputy Chairman of the Board, as the case may be, is absent from any meeting of a committee at which he ought under subsection (4) to be presiding, the meeting shall be presided by —
 
 (a) where there is only one Deputy Chairman who is a member of the committee present, the Deputy Chairman;
 
@@ -850,7 +880,7 @@ APPEALS
 
 (c) where there is no Deputy Chairman who is a member of the committee present, such member as may be chosen by the members present.
 
-[59/2004 wef 08/12/2004]
+[59/2004]
 
 ### Person presiding at meetings of Board
 
@@ -866,19 +896,19 @@ APPEALS
 
 (c) where neither the Chairman of the Board nor any Deputy Chairman of the Board is present, such member of the Board as may be chosen by the members present.
 
-[59/2004 wef 08/12/2004]
+[59/2004]
 
 ### Casting vote
 
 28\. All matters coming before the Board or a committee of the Board at any meeting shall be decided by a majority of votes of the members present and, in the event of an equality of votes, the Chairman of the Board, the Deputy Chairman of the Board or such other member as may be presiding, as the case may be, shall have a second or casting vote.
 
-[59/2004 wef 08/12/2004]
+[59/2004]
 
 ### Notice of appeal
 
-29\.—(1) Any owner who desires to appeal pursuant to section 20A or 22 shall lodge with the clerk to the Board, within the time allowed therefor, a written notice of appeal in duplicate in the prescribed form.
+29\.—(1) Any owner who desires to appeal under section 20A or 22 shall lodge with the clerk to the Board, within the time allowed therefor, a written notice of appeal in duplicate in the prescribed form.
 
-[25/63; 24/73]
+[25/63; 24/73; 33/2002]
 
 (2) Every such notice of appeal shall state —
 
@@ -896,23 +926,27 @@ APPEALS
 
 (4) The Chairman may, in his discretion and on such terms as he thinks fit, permit any person to proceed with an appeal notwithstanding that the notice of appeal was not lodged within the time allowed therefor, if it is proved to the satisfaction of the Chairman that the person was prevented from lodging the notice in due time owing to absence from Singapore, sickness or other reasonable cause, and that there has been no unreasonable delay on his part.
 
-[33/2002 wef 01/01/2003]
+[33/2002]
 
 ### Copy of notice to be sent to Chief Assessor, etc.
 
 30\.—(1) On receipt of a notice of appeal, the clerk shall immediately forward one copy thereof to the Chief Assessor or the Comptroller, as the case may be.
 
+[33/2002]
+
 (2) On receipt of the copy of the notice of appeal, the Chief Assessor or the Comptroller may require the owner giving the notice of appeal to furnish such particulars in respect of the property concerned as the Chief Assessor or the Comptroller, as the case may be, may consider necessary.
 
-[33/2002 wef 01/01/2003]
+[33/2002]
 
-31\. [Deleted by Act 33/2002 wef 01/01/2003]
+Chief Assessor or Comptroller to submit report
+
+31\. [Repealed by Act 33/2002]
 
 ### Time and place for hearing of appeals
 
-32\.—(1) On receipt of the notice of appeal, the clerk shall, as soon as may be thereafter, appoint a time and place for the hearing of the appeal and shall give 14 days’ notice thereof both to the appellant and the Chief Assessor or the Comptroller, as the case may be.
+32\.—(1) On receipt of the notice of appeal, the clerk shall, as soon as may be thereafter, appoint a time and place for the hearing of the appeal and shall give 14 days notice thereof both to the appellant and the Chief Assessor or the Comptroller, as the case may be.
 
-[24/73]
+[24/73; 33/2002]
 
 (2) The appellant or an agent authorised by him in writing and the Chief Assessor or his representative, or the Comptroller or his representative, as the case may be, shall attend at such times and places as may be appointed for the hearing of the appeal.
 
@@ -920,7 +954,7 @@ APPEALS
 
 (3) Where it is proved to the satisfaction of the Board that, owing to absence from Singapore, sickness or other reasonable cause, any person is prevented from so attending, the Board may postpone the hearing of the appeal for such reasonable time as it thinks necessary.
 
-(4) Upon such day or days as are appointed pursuant to subsection (1), the Board shall hear such representations as may then be made and record the evidence given both by the appellant or his authorised agent and by the Chief Assessor or his representative, or the Comptroller or his representative, as the case may be, at such hearing.
+(4) Upon such day or days as are appointed under subsection (1), the Board shall hear such representations as may then be made and record the evidence given both by the appellant or his authorised agent and by the Chief Assessor or his representative, or the Comptroller or his representative, as the case may be, at such hearing.
 
 [24/73]
 
@@ -928,13 +962,13 @@ APPEALS
 
 33\.—(1) The Board, after hearing an appeal, may —
 
-(a) in the case of an appeal made pursuant to section 20A, dismiss the appeal or direct that such amendments as it thinks proper shall be made to the Valuation List for the year in respect of which the appeal was made and for the ensuing years; and
+(a) in the case of an appeal made under section 20A, dismiss the appeal or direct that such amendments as it thinks proper shall be made to the Valuation List for the year in respect of which the appeal was made and for the ensuing years; and
 
-(b) in the case of an appeal made pursuant to section 22, confirm, vary or rescind the Comptroller’s proposal.
+(b) in the case of an appeal made under section 22, confirm, vary or rescind the proposal of the Comptroller.
 
-[24/73]
+[24/73; 33/2002]
 
-(2) The costs of an appeal to the Board under this Act shall be in the discretion of the Board and shall either be fixed by the Board or, on the order of the Board, be taxed by the Registrar, Deputy Registrar or an Assistant Registrar of the Supreme Court or the Subordinate Courts in accordance with the regulations made under section 67(1).
+(2) The costs of an appeal to the Board under this Act shall be in the discretion of the Board and shall either be fixed by the Board or, on the order of the Board, be taxed by the Registrar, Deputy Registrar or an Assistant Registrar of the Supreme Court or the Subordinate Courts in accordance with the regulations made under section 72(1).
 
 [46/96]
 
@@ -942,7 +976,7 @@ APPEALS
 
 [46/96]
 
-(4) Where under subsection (1) the Board directs such amendments as it thinks proper to be made to the Valuation List and the tax in respect of the property concerned is less than the amount paid by the appellant to account of tax in respect of that property, the Board may order the Comptroller to pay interest at the rate of 6% per annum on the difference between the amount paid to account of tax and the tax payable in respect of that property.
+(4) Where under subsection (1) the Board directs such amendments as it thinks proper to be made to the Valuation List and the tax in respect of the property concerned is less than the amount paid by the appellant to account of tax in respect of that property, the Board may order the Comptroller to pay interestat the rate of 6% per annum on the difference between the amount paid to account of tax and the tax payable in respect of that property.
 
 [24/73]
 
@@ -956,29 +990,27 @@ APPEALS
 
 [25/63]
 
-(1A) An appeal under subsection (1) shall be by way of rehearing.
+(2) An appeal under subsection (1) shall be by way of rehearing.
 
 [25/63]
 
-(2) The Chief Assessor or the Comptroller, as the case may be, may, within 21 days of the date of the decision of the Board, appeal to the High Court from the decision of the Board upon any question of law or of mixed law and fact.
+(3) The Chief Assessor or the Comptroller, as the case may be, may, within 21 days of the date of the decision of the Board, appeal to the High Court from the decision of the Board upon any question of law or of mixed law and fact.
 
 [25/63; 24/73]
 
-(3) Until such appeal has been determined by the High Court, the tax in respect of the property concerned shall be payable and continue to be payable and recoverable in the manner provided in this Act.
+(4) Until such appeal has been determined by the High Court, the tax in respect of the property concerned shall be payable and continue to be payable and recoverable in the manner provided in this Act.
 
 [25/63]
 
-(4) Such appeal shall be brought in the manner provided by the Rules of Court.
+(5) Such appeal shall be brought in the manner provided by the Rules of Court.
 
-(5) The High Court, after hearing an appeal, may —
+(6) The High Court, after hearing an appeal, may —
 
 (a) dismiss the appeal or direct that such amendments as it thinks proper shall be made to the Valuation List; and
 
 (b) confirm, vary or rescind any order made by the Board.
 
 [24/73]
-
-(6) [Deleted by Act 33/2002 wef 01/01/2003]
 
 ## PART V
 
@@ -988,33 +1020,37 @@ COLLECTION AND RECOVERY OF TAX
 
 35A\.—(1) There shall be payable to account of tax in respect of a property a sum of money calculated at the prescribed rate of tax on the basis of the annual value in the Valuation List proposed or amended under the provisions of this Act notwithstanding that —
 
-(a) an application for remission or exemption has been made under section 6(5A) or (5B);
+(a) an application for remission or exemption has been made under section 6(7) or (8);
 
-(b) a claim has been submitted under section 7(2);
+(b) a claim has been submitted under section 8(2);
 
 (c) a claim for reduction has been made under section 9; or
 
 (d) an objection or appeal has been made under section 20A or 22.
 
+[33/2002]
+
 (2) The sum under subsection (1) shall be payable and recoverable in the same manner in which taxes are payable and recoverable under this Act.
 
-[33/2002 wef 01/01/2003]
+[33/2002]
 
 ### Penalty for non-payment of tax and enforcement of payment
 
 36\.—(1) If any tax, whether in whole or in part, remains unpaid at the expiration of the prescribed time, a sum not exceeding 5% of the amount of outstanding tax shall be added thereto, and the provisions of this Act relating to the collection and recovery of tax shall apply to the collection and recovery of such sum.
 
+[33/2002]
+
 (2) Subsection (1) shall also apply to any tax in respect of any period before 1st January 2003, whether in whole or in part, which remains due and unpaid as at that date.
+
+[33/2002]
 
 (3) The Comptroller may, where good cause is shown, remit the whole or any part of the penalty due under subsection (1).
 
-[33/2002 wef 01/01/2003]
+[33/2002]
 
 ### Tax may be paid by instalments
 
 37\. The Comptroller may, in his discretion, permit any tax payable in respect of any property under the provisions of this Act to be paid by way of instalments and may, in his discretion, charge interest at a rate which shall not exceed 10% per annum.
-
-[38
 
 [24/73]
 
@@ -1034,7 +1070,7 @@ and in default of such payment the tax shall be recoverable from him in the mann
 
 [46/96]
 
-(3) For the purposes of subsection (2) and section 38A, “tax due” includes any arrears of tax or interest imposed under this Act or any subsidiary legislation made thereunder.
+(3) For the purposes of subsection (2) and section 38A, “tax due” includes any arrears of tax or interest imposed under this Act.
 
 [46/96]
 
@@ -1048,11 +1084,11 @@ and in default of such payment the tax shall be recoverable from him in the mann
 
 (6) The Comptroller shall examine the objection and may cancel, vary or confirm the declaration, and notify the objector accordingly.
 
-[46/96]
+[46/96; 33/2002]
 
-(7) Where the objector is aggrieved by the decision of the Comptroller under subsection (6), the objector may appeal against such decision to the Valuation Review Board within 21 days of the Comptroller notifying him of the decision under subsection (6) and the provisions of Part IV shall apply with the necessary modifications.
+(7) Where the objector is aggrieved by the decision of the Comptroller under subsection (6), the objector may appeal against such decision to the Board within 21 days of the Comptroller notifying him of the decision under subsection (6) and the provisions of Part IV shall apply with the necessary modifications.
 
-[46/96]
+[46/96; 33/2002]
 
 (8) For the purposes of payment of any tax due from any moneys referred to in subsection (2) in a joint account at any bank or from the proceeds of sale of any immovable property owned by 2 or more persons as joint owners, the following provisions shall apply:
 
@@ -1074,17 +1110,15 @@ and in default of such payment the tax shall be recoverable from him in the mann
 
 (e) the Comptroller shall consider the objection and shall, by notice in writing, inform the person declared to be the agent of his decision and the agent shall, notwithstanding any appeal under paragraph (f), pay over any tax due from the share of moneys decided by the Comptroller as the amount, not exceeding the amount presumed under paragraph (b) to be the share of the person by whom the tax is payable, held by him for or due by him to the person; and
 
-(f) any owner of such moneys aggrieved by the decision of the Comptroller under paragraph (e) may appeal against the decision to the Valuation Review Board within 21 days of such decision and the provisions of Part IV shall apply, with the necessary modifications, to the appeal.
+(f) any owner of such moneys aggrieved by the decision of the Comptroller under paragraph (e) may appeal against the decision to the Board within 21 days of such decision and the provisions of Part IV shall apply, with the necessary modifications, to the appeal.
 
-[46/96]
+[46/96; 33/2002]
 
 (9) In subsection (8), “joint account” means any account in the names of 2 or more persons but excludes any partnership account, trust account and any account where a minor is one of the joint account holders.
 
 [46/96]
 
 (10) Notwithstanding the provisions of any other written law, contract or agreement, any person who has complied with the provisions of this section and made any payment shall be deemed to have acted under the authority of the person by whom the tax was payable and is hereby indemnified in respect of payment against all civil proceedings.
-
-[38A
 
 [46/96]
 
@@ -1104,8 +1138,6 @@ and in default of such payment the tax shall be recoverable from him in the mann
 
 (4) In any suit under subsection (1) or (2), the production of a certificate signed by the Comptroller giving the name and address of the defendant and the amount of tax due from him shall be sufficient evidence of the amount so due and sufficient authority for the court to give judgment for that amount.
 
-[38B
-
 [46/96]
 
 ### Proceedings for recovery of arrears
@@ -1116,27 +1148,25 @@ and in default of such payment the tax shall be recoverable from him in the mann
 
 (b) the Comptroller may, by notice of sale to be served or published in the prescribed manner, declare his intention of selling, at the expiration of 3 months from the date of the notice of sale, the premises in respect of which the arrears are due and, if, at the expiration of that period, the arrears have not been paid or satisfied, the Comptroller may sell by public auction, in lots or otherwise, the whole of such premises or such portion thereof or such interest therein as he considers sufficient for the recovery of the arrears and costs.
 
-(1A) The Comptroller shall not proceed under subsection (1)(b) to sell the premises in respect of which the arrears are due, or any portion thereof or interest therein, where there is or are upon the premises and liable to be seized and sold under subsection (1)(a) movable property or crops belonging to the owner of a value estimated by the Comptroller to be sufficient to realise the sum required to satisfy the arrears and costs.
+(2) The Comptroller shall not proceed under subsection (1)(b) to sell the premises in respect of which the arrears are due, or any portion thereof or interest therein, where there is or are upon the premises and liable to be seized and sold under subsection (1)(a) movable property or crops belonging to the owner of a value estimated by the Comptroller to be sufficient to realise the sum required to satisfy the arrears and costs.
 
-(2) Any tenant, sub-tenant or occupier who, in order to avoid the seizure or sale of his property for non-payment of arrears payable by the owner of the premises, pays the arrears and costs may thereafter, in the absence of any written agreement to the contrary, deduct the amount so paid by him from the rent due or to become due by him to his immediate landlord on account of the premises or such part thereof as is held or occupied by him, and may retain possession thereof until that amount has been fully reimbursed to him whether by deduction from the rent or otherwise.
+(3) Any tenant, sub-tenant or occupier who, in order to avoid the seizure or sale of his property for non-payment of arrears payable by the owner of the premises, pays the arrears and costs may thereafter, in the absence of any written agreement to the contrary, deduct the amount so paid by him from the rent due or to become due by him to his immediate landlord on account of the premises or such part thereof as is held or occupied by him, and may retain possession thereof until that amount has been fully reimbursed to him whether by deduction from the rent or otherwise.
 
-(2A) Any tenant or sub-tenant who has reimbursed, whether by allowing a deduction from his rent or otherwise, any sub-tenant or occupier holding or occupying under him the amount so paid by the sub-tenant or occupier shall have a similar right to deduct that amount from the rent due or to become due to his immediate landlord and to retain possession until similarly reimbursed.
+(4) Any tenant or sub-tenant who has reimbursed, whether by allowing a deduction from his rent or otherwise, any sub-tenant or occupier holding or occupying under him the amount so paid by the sub-tenant or occupier shall have a similar right to deduct that amount from the rent due or to become due to his immediate landlord and to retain possession until similarly reimbursed.
 
-(3) The receipt of the Comptroller or of any duly authorised officer of his department for any amount so paid by any such tenant, sub-tenant or occupier shall be deemed an acquittance in full for the like amount of rent.
+(5) The receipt of the Comptroller or of any duly authorised officer of his department for any amount so paid by any such tenant, sub-tenant or occupier shall be deemed an acquittance in full for the like amount of rent.
 
-(4) If any premises in respect of which arrears are due, or any such movable property or crops as are mentioned in subsection (1) or the proceeds of sale thereof are already in the custody of the law under any process of execution whereby the Comptroller is unable to exercise the powers under this section, the Comptroller may notify the Sheriff or the bailiff of the court concerned of the amount of the arrears, and shall be entitled without obtaining a judgment to be paid such amount out of the proceeds of sale of that premises or property in priority to the judgment debtor and to the judgment creditor and to any other creditor, except the Government.
+(6) If any premises in respect of which arrears are due, or any such movable property or crops as are mentioned in subsection (1) or the proceeds of sale thereof are already in the custody of the law under any process of execution whereby the Comptroller is unable to exercise the powers under this section, the Comptroller may notify the Sheriff or the bailiff of the court concerned of the amount of the arrears, and shall be entitled without obtaining a judgment to be paid such amount out of the proceeds of sale of that premises or property in priority to the judgment debtor and to the judgment creditor and to any other creditor, except the Government.
 
-(4A) A certificate from the Comptroller shall, unless it is disputed by the judgment debtor, be conclusive evidence of the amount of the arrears, and in case of dispute, the amount shall be summarily determined by the court concerned.
+(7) A certificate from the Comptroller shall, unless it is disputed by the judgment debtor, be conclusive evidence of the amount of the arrears, and in case of dispute, the amount shall be summarily determined by the court concerned.
 
-(5) Where premises are sold pursuant to subsection (1)(b), the Comptroller shall have power to execute the conveyance and the purchaser of the premises shall not be concerned to inquire whether the provisions of this Act relating to the sale and the conveyance have been complied with nor otherwise to inquire into the regularity or validity of the sale and conveyance.
+(8) Where premises are sold under subsection (1)(b), the Comptroller shall have power to execute the conveyance and the purchaser of the premises shall not be concerned to inquire whether the provisions of this Act relating to the sale and the conveyance have been complied with nor otherwise to inquire into the regularity or validity of the sale and conveyance.
 
 [24/73]
 
-(6) Subsection (5) shall —
+(9) Subsection (8) shall —
 
 (a) be deemed to apply to all conveyances executed by the Comptroller before 17th August 1973, and all such conveyances so executed shall accordingly be deemed always to have been or to be validly executed; and
-
-[24/73]
 
 (b) not affect the application of section 144 of the Land Titles Act (Cap. 157) in relation to registered land.
 
@@ -1190,7 +1220,7 @@ and in default of such payment the tax shall be recoverable from him in the mann
 
 ### Assessment, etc., not to be impeached for want of form
 
-48\.—(1) If the provisions of this Act or any subsidiary legislation made thereunder are in substance and effect complied with, no assessment or valuation, no charge or demand of any tax and no seizure or sale under the authority of this Act shall be impeached or affected by reason of any mistake in —
+48\.—(1) If the provisions of this Act are in substance and effect complied with, no assessment or valuation, no charge or demand of any tax and no seizure or sale under the authority of this Act shall be impeached or affected by reason of any mistake in —
 
 (a) the name of any person liable to pay the tax;
 
@@ -1210,41 +1240,59 @@ NAMES AND NUMBERS OF BUILDINGS, ESTATES OR STREETS
 
 49\.—(1) There shall be established a Street and Building Names Board (referred to in this Part as the SBNB) consisting of a Chairman and not less than 2 other members all of whom shall be appointed by the Minister.
 
+[33/2002]
+
 (2) It shall be the function and duty of the SBNB to determine the name by which any building, estate or street shall be known, or to alter the name of any building, estate or street.
 
-(3) The Chairman and the other members of the SBNB shall hold office for such period as may be determined by the Minister and shall be eligible for re-appointment.
+[33/2002]
+
+(3) The Chairman and the other members of the SBNB shall hold office for such period as may be determined by the Minister and shall be eligible for reappointment.
+
+[33/2002]
 
 (4) The Minister may, without assigning any reason, remove from office any member of the SBNB.
 
+[33/2002]
+
 (5) All matters coming before the SBNB at any meeting shall be decided by a majority of votes of the members present, and in the event of an equality of votes, the Chairman shall have a casting vote.
+
+[33/2002]
 
 (6) Any person aggrieved by any decision of the SBNB may, within 21 days of the date of the written notice of the decision, apply in writing to the SBNB to review the decision, stating the grounds on which his application is based.
 
+[33/2002]
+
 (7) Any person who is dissatisfied with the decision of the SBNB after a review under subsection (6) may, within 21 days of the date of the written notice of the decision, appeal in writing to the Minister stating the grounds on which his appeal is based.
 
-(8) The Minister may confirm, vary or rescind the decision referred to him under subsection (7) and the Minister’s decision shall be final.
+[33/2002]
 
-[33/2002 wef 01/01/2003]
+(8) The Minister may confirm, vary or rescind the decision referred to him under subsection (7) and the decision of the Minister shall be final.
+
+[33/2002]
 
 ### Name of building, estate or street
 
-49A\. The Comptroller may cause the name of any building, estate or street to be painted, or otherwise marked, in a conspicuous position on any house, building or erection in or near that building, estate or street, and from time to time alter or renew the name.
+50\. The Comptroller may cause the name of any building, estate or street to be painted, or otherwise marked, in a conspicuous position on any house, building or erection in or near that building, estate or street, and from time to time alter or renew the name.
 
-[33/2002 wef 01/01/2003]
+[49A
+
+[33/2002]
 
 ### Numbers on properties
 
-50\.—(1) The Comptroller may allot a number to or alter the number of any property and may require the owner of the property to fix the number in a conspicuous place on the outside of the property or at the entrance of the enclosure of the property, or change, replace or refix the number within a prescribed time.
+51\.—(1) The Comptroller may allot a number to or alter the number of any property and may require the owner of the property to fix the number in a conspicuous place on the outside of the property or at the entrance of the enclosure of the property, or change, replace or refix the number within a prescribed time.
 
 [6/82; 46/96]
 
 (2) The Comptroller may, if he thinks fit, undertake the fixing, changing, replacing or refixing of the number of the property and the expense of such fixing, changing, replacing or refixing shall be determined by the Comptroller and paid by the owner of the property.
 
+[50
+
 [6/82]
 
 ### Penalty for numbering or naming property, estate or street without authority of Comptroller
 
-50A\.—(1) The allotting or fixing of a number or the giving or fixing of a name to or on any building which has been erected in contravention of any written law shall not prevent the person who has contravened such law from being prosecuted thereunder and from being liable to the penalty under that law, or the unauthorised building from being demolished under that law.
+52\.—(1) The allotting or fixing of a number or the giving or fixing of a name to or on any building which has been erected in contravention of any written law shall not prevent the person who has contravened such law from being prosecuted thereunder and from being liable to the penalty under that law, or the unauthorised building from being demolished under that law.
 
 [46/96]
 
@@ -1278,11 +1326,13 @@ shall, until the contrary is proved, be presumed to have been done —
 
 (5) Any person who fails to comply with an order under subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $50 for every day during which the offence continues after conviction.
 
+[50A
+
 [46/96]
 
 ### Penalty for destroying name or number
 
-51\.—(1) Any person who destroys, pulls down, defaces, covers or conceals any inscription of the name of a building, an estate or a street which has lawfully been set up or sets up on any house, building, structure or post in or near that building, estate or street any other name different from the name lawfully given to the building, estate or street, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
+53\.—(1) Any person who destroys, pulls down, defaces, covers or conceals any inscription of the name of a building, an estate or a street which has lawfully been set up or sets up on any house, building, structure or post in or near that building, estate or street any other name different from the name lawfully given to the building, estate or street, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
 
 [46/96]
 
@@ -1296,47 +1346,129 @@ shall, until the contrary is proved, be presumed to have been done —
 
 (4) The expense of replacing or refixing any such number which has been destroyed, pulled down, defaced, covered or concealed shall be paid by the person convicted of destroying, pulling down, defacing, covering or concealing the number, as the case may be.
 
+[51
+
 ### Disputed expenses to be determined by Magistrate’s Court
 
-52\.—(1) The amount of expenses payable pursuant to section 51 shall, in case of dispute, be summarily ascertained and determined by a Magistrate’s Court.
+54\.—(1) The amount of expenses payable under section 53 shall, in case of dispute, be summarily ascertained and determined by a Magistrate’s Court.
 
 (2) If the amount of such expenses is not paid by the party liable to pay them within 7 days after demand, the default may be reported to a Magistrate’s Court and the amount recovered in the same way as if it were a fine imposed by a Magistrate’s Court.
 
 (3) An appeal shall lie to the High Court from any decision of a Magistrate’s Court under this section, and the provisions of the Criminal Procedure Code (Cap. 68) shall apply, with the necessary modifications, to all such appeals.
 
+[52
+
 ### Recovery of expenses and costs payable by owners
 
-53\.—(1) The sum payable by an owner in respect of expenses under section 50(2) shall be a first charge on the premises in respect of which the expenses or costs have been incurred.
+55\.—(1) The sum payable by an owner in respect of expenses under section 51(2) shall be a first charge on the premises in respect of which the expenses or costs have been incurred.
 
 (2) Such sum may be recovered by the same means and in like manner as if it were a sum payable in respect of a tax remaining unpaid at the expiration of the prescribed time within the meaning of section 36.
 
 (3) The charge hereinbefore mentioned shall attach, and the powers and remedies hereinbefore conferred shall become exercisable as from the date of completion of the work, and thereafter the powers and remedies may be exercised against the premises or against any movable property or crops for the time being found thereon, notwithstanding any change or changes in the ownership or occupation of the premises subsequent to that date.
 
+[53
+
 ## PART VII
 
-GENERAL
-
-### Power to enter upon lands for purposes of this Act
-
-54\.—(1) The Comptroller or the Chief Assessor or any officer authorised by either of them in that behalf may, for the purposes of this Act, enter at all reasonable hours in the daytime into and upon any building or land without being liable to any legal proceedings or molestation whatsoever on account of such entry.
-
-(2) The Comptroller or the Chief Assessor or any such authorised officer shall not enter into any dwelling-house in actual occupation, unless with the consent of the occupier thereof, without 6 hours’previous notice to the occupier.
+OFFENCES AND PENALTIES
 
 ### Penalty for obstructing Comptroller, etc., in carrying out his duties
 
-55\. Any person who at any time hinders, obstructs or molests the Comptroller or the Chief Assessor or any other officer in the performance and execution of his duty or of anything which he is empowered or required to do by virtue of or in consequence of this Act, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both.
+56\. Any person who at any time hinders, obstructs or molests the Comptroller or the Chief Assessor or any other officer in the performance and execution of his duty or of anything which he is empowered or required to do by virtue of or in consequence of this Act, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both.
+
+[55
 
 [46/96]
 
 ### Offence to furnish false information
 
-55A\. Any person who furnishes information which he knows or believes to be false in any application made under this Act or any subsidiary legislation made thereunder shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+57\. Any person who furnishes information which he knows or believes to be false in any application made under this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[55A
 
 [46/96]
 
-### Receipts and notices may be given by authorised officer
+### Comptroller, etc., may direct prosecution
 
-56\.—(1) All notices, orders, receipts, warrants and other documents of whatsoever nature which the Comptroller or the Chief Assessor is empowered to give by this Act or under any subsidiary legislation made thereunder may be given by any employee authorised thereunto by the Comptroller or the Chief Assessor.
+58\.—(1) The Comptroller or the Chief Assessor or such other officer as may be authorised by the Comptroller or the Chief Assessor in that behalf may direct any prosecution for any offence under this Act and may authorise the incurring of such expense as may be necessary to the prosecution.
+
+[46/96]
+
+(2) Any officer employed in the administration of this Act may conduct such prosecution on behalf of the Comptroller.
+
+[59
+
+### Property tax officer may demand names and addresses in certain cases
+
+59\.—(1) Any person who is charged by any officer employed in the administration of this Act with any offence under this Act shall give his name and address to that officer if so required.
+
+[46/96]
+
+(2) Any person who contravenes against this section or mis-states his name and address shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
+
+[60
+
+[46/96]
+
+### Saving of prosecutions under other laws
+
+60\. Nothing in this Act shall prevent any person from being prosecuted under any other law for any act or omission which constitutes an offence under this Act or from being liable under that other law to any other or higher punishment or penalty than that provided by this Act, except that no person shall be punished twice for the same offence.
+
+[61
+
+[46/96]
+
+### General penalties
+
+61\. Any person guilty of an offence under this Act for which no penalty is expressly provided shall be liable on conviction to a fine not exceeding $5,000.
+
+[62
+
+[24/73; 46/96]
+
+### Jurisdiction of court
+
+62\.—(1) A District Court or a Magistrate’s Court shall have jurisdiction to hear and determine all offences under this Act and, notwithstanding anything to the contrary in the Criminal Procedure Code (Cap. 68), shall have power to impose the full penalty or punishment in respect of the offence.
+
+[46/96]
+
+(2) All fines imposed for any offence under this Act shall be paid into the Consolidated Fund.
+
+[58
+
+[46/96]
+
+### Composition of offences
+
+63\.—(1) The Comptroller may compound any offence under this Act by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $5,000.
+
+(2) The Comptroller before making any offer of composition under subsection (1) shall take into consideration the nature of the offence and the circumstances under which the offence was committed.
+
+[24/73]
+
+(3) On payment of such sum of money, no further proceedings shall be taken against that person in respect of the offence.
+
+[24/73]
+
+(4) All sums collected under this section shall be paid into the Consolidated Fund.
+
+[24/73]
+
+## PART VIII
+
+MISCELLANEOUS PROVISIONS
+
+### Power to enter upon lands for purposes of this Act
+
+64\.—(1) The Comptroller or the Chief Assessor or any officer authorised by either of them in that behalf may, for the purposes of this Act, enter at all reasonable hours in the daytime into and upon any building or land without being liable to any legal proceedings or molestation whatsoever on account of such entry.
+
+(2) The Comptroller or the Chief Assessor or any such authorised officer shall not enter into any dwelling-house in actual occupation, unless with the consent of the occupier thereof, without 6 hours’ previous notice to the occupier.
+
+[54
+
+### Receipts, notices, etc., may be given by authorised officer
+
+65\.—(1) All notices, orders, receipts, warrants and other documents of whatsoever nature which the Comptroller or the Chief Assessor is empowered to give by this Act may be given by any employee authorised thereunto by the Comptroller or the Chief Assessor.
 
 [46/96]
 
@@ -1344,11 +1476,13 @@ GENERAL
 
 (3) Where any person has given his consent for any notice, order or document to be served on him through the electronic service, that notice, order or document shall be deemed to be sufficiently authenticated if it is served on him by the transmission of an electronic record of it to his account with the electronic service.
 
-[59/2004 wef 08/12/2004]
+[56
+
+[59/2004]
 
 ### Electronic service
 
-56A\.—(1) The Comptroller may provide an electronic service for —
+66\.—(1) The Comptroller may provide an electronic service for —
 
 (a) the filing or submission of any return or document;
 
@@ -1356,15 +1490,23 @@ GENERAL
 
 (c) the making of such applications as the Comptroller may determine.
 
+[59/2004]
+
 (2) For the purposes of the electronic service, the Comptroller may assign to any person —
 
 (a) an authentication code; and
 
 (b) an account with the electronic service.
 
+[59/2004]
+
 (3) Any person who is required to file or submit any return or document may do so through the electronic service.
 
+[59/2004]
+
 (4) Any agent who is authorised by his principal in the prescribed manner may file or submit any return or document on behalf of his principal through the electronic service.
+
+[59/2004]
 
 (5) Where any return or document is filed or submitted on behalf of any person under subsection (4) —
 
@@ -1372,13 +1514,19 @@ GENERAL
 
 (b) that person shall be deemed to be cognizant of all matters therein.
 
+[59/2004]
+
 (6) Where any return or document is filed or submitted through the electronic service using the authentication code assigned to any person before that person has requested, in the prescribed manner, for the cancellation of the authentication code —
 
 (a) the return or document shall, for the purposes of this Act, be presumed to have been filed or submitted by that person unless he adduces evidence to the contrary; and
 
 (b) where that person alleges that he did not file or submit the return or document, the burden shall be on him to adduce evidence of that fact.
 
+[59/2004]
+
 (7) Where any person has given his consent for any notice, order or document to be served on him through the electronic service, the Comptroller may serve that notice, order or document on that person by transmitting an electronic record of that notice, order or document to that person’s account with the electronic service.
+
+[59/2004]
 
 (8) Notwithstanding any other written law, in any proceedings under this Act —
 
@@ -1392,6 +1540,8 @@ shall be admissible as evidence of the facts stated or contained therein if that
 
 (ii) is duly authenticated in the manner specified in subsection (10) or is otherwise authenticated in the manner provided in the Evidence Act (Cap. 97) for the authentication of computer output.
 
+[59/2004]
+
 (9) For the avoidance of doubt —
 
 (a) an electronic record of any return or document that was filed or submitted, or any notice, order or document that was served, through the electronic service; or
@@ -1399,6 +1549,8 @@ shall be admissible as evidence of the facts stated or contained therein if that
 (b) any copy or print-out of that electronic record,
 
 shall not be inadmissible in evidence merely because the return or document was filed or submitted, or the notice, order or document was served, without the delivery of any equivalent document or counterpart in paper form.
+
+[59/2004]
 
 (10) For the purposes of this section, a certificate —
 
@@ -1414,9 +1566,15 @@ shall not be inadmissible in evidence merely because the return or document was 
 
 shall be sufficient evidence that the electronic record, copy or print-out has been duly authenticated, unless the court, in its discretion, calls for further evidence on this issue.
 
+[59/2004]
+
 (11) Where the electronic record of any return, notice, order or document, or a copy or print-out of that electronic record, is admissible under subsection (8), it shall be presumed, until the contrary is proved, that the electronic record, copy or print-out accurately reproduces the contents of that return, notice, order or document.
 
+[59/2004]
+
 (12) The Comptroller may, for the purposes of the electronic service, approve the use of any symbol, code, abbreviation or notation to represent any particulars or information required under this Act.
+
+[59/2004]
 
 (13) The Minister may make regulations which are necessary or expedient for carrying out the purposes of this section, including regulations prescribing —
 
@@ -1430,55 +1588,57 @@ shall be sufficient evidence that the electronic record, copy or print-out has b
 
 (e) anything which may be prescribed under this section.
 
-[59/2004 wef 08/12/2004]
+[56A
+
+[59/2004]
 
 ### Service of notices
 
-57\.—(1) Every notice, order or document required or authorised by this Act or any subsidiary legislation made thereunder to be served on any person may be served —
+67\.—(1) Every notice, order or document required or authorised by this Act to be served on any person may be served —
 
 (a) by delivering it to that person or to some adult member or employee of his family at his last known place of residence;
 
 (b) by leaving it at his usual or last known place of residence or business in an envelope addressed to him;
 
-(c) by sending it by ordinary post addressed to the person at his usual or last known place of residence or business ; or
-
-[46/96]
+(c) by sending it by ordinary post addressed to the person at his usual or last known place of residence or business; or
 
 (d) where the person has given his consent for it to be served on him through the electronic service, by transmitting an electronic record of it to his account with the electronic service.
 
-[59/2004 wef 08/12/2004]
+[46/96; 59/2004]
 
-(1A) Where a person has given his consent for a notice, an order or any other document to be served on him through the electronic service, that notice, order or document shall be deemed to have been served at the time when an electronic record of that notice, order or document enters his account with the electronic service.
+(2) Where a person has given his consent for a notice, an order or any other document to be served on him through the electronic service, that notice, order or document shall be deemed to have been served at the time when an electronic record of that notice, order or document enters his account with the electronic service.
 
-[59/2004 wef 08/12/2004]
+[59/2004]
 
-(1B) Notwithstanding subsections (1) and (1A), no person shall be liable to prosecution for an offence —
+(3) Notwithstanding subsections (1) and (2), no person shall be liable to prosecution for an offence —
 
-(a) under section 16(2) or 21(7) in respect of failure to comply with the terms of a notice;
+(a) under section 16(2) or 21(10) in respect of failure to comply with the terms of a notice;
 
 (b) under section 18(3) in respect of failure or neglect to furnish a return required to be made pursuant to a notice under section 18(2); or
 
-(c) under section 50A(5) in respect of failure to comply with an order in writing under section 50A(4),
+(c) under section 52(5) in respect of failure to comply with an order in writing under section 52(4),
 
 unless the notice or order, as the case may be, has been served on him personally or by registered post.
 
-[59/2004 wef 08/12/2004]
+[59/2004]
 
-(2) Any notice, order or document required or authorised by this Act or any subsidiary legislation made thereunder to be served on the owner or occupier of any premises shall be deemed to be properly addressed if addressed by the description of the “owner” or “occupier” of the premises without further name or description.
-
-[46/96]
-
-(3) Any notice, order or document required or authorised by this Act or any subsidiary legislation made thereunder to be served on the owner or occupier of any premises may be served by delivering the same or a true copy thereof to some adult person on the premises or, if there is no such person on the premises to whom the same can with reasonable diligence be delivered, by affixing the notice, order or document to some conspicuous part of the premises.
+(4) Any notice, order or document required or authorised by this Act to be served on the owner or occupier of any premises shall be deemed to be properly addressed if addressed by the description of the “owner” or “occupier” of the premises without further name or description.
 
 [46/96]
 
-(4) Where any premises is owned by more than one person, any notice, order or document required or authorised by this Act or any subsidiary legislation made thereunder to be served on the owner of such premises shall be deemed to be sufficiently served if it is served on any one of the owners, except that where any such owner has notified the Chief Assessor in the prescribed form, he shall be served a copy of such notice, order or document.
+(5) Any notice, order or document required or authorised by this Act to be served on the owner or occupier of any premises may be served by delivering the same or a true copy thereof to some adult person on the premises or, if there is no such person on the premises to whom the same can with reasonable diligence be delivered, by affixing the notice, order or document to some conspicuous part of the premises.
+
+[46/96]
+
+(6) Where any premises is owned by more than one person, any notice, order or document required or authorised by this Act to be served on the owner of such premises shall be deemed to be sufficiently served if it is served on any one of the owners, except that where any such owner has notified the Chief Assessor in the prescribed form, he shall be served a copy of such notice, order or document.
+
+[57
 
 [46/96]
 
 ### Service of summons
 
-57A\.—(1) Every summons issued by a court against any person in connection with any offence under this Act or any subsidiary legislation made thereunder, may be served on the person —
+68\.—(1) Every summons issued by a court against any person in connection with any offence under this Act, may be served on the person —
 
 (a) by delivering the summons to the person or to some adult member of his family at his last known place of residence;
 
@@ -1496,91 +1656,43 @@ unless the notice or order, as the case may be, has been served on him personall
 
 (2) Any summons sent by registered post in accordance with subsection (1) shall be deemed to be duly served on the person to whom the letter is addressed at the time when the letter would, in the ordinary course of post, be delivered and in proving service of the summons, it shall be sufficient to prove that the envelope containing the summons was properly addressed, stamped and posted by registered post.
 
-[46/96]
-
-### Court for trial of offences under this Act
-
-58\.—(1) A District Court or a Magistrate’s Court shall have jurisdiction to hear and determine all offences under this Act and, notwithstanding anything to the contrary in the Criminal Procedure Code (Cap. 68), shall have power to impose the full penalty or punishment in respect of any offence under this Act.
+[57A
 
 [46/96]
-
-(2) All fines imposed for any offence under this Act or any subsidiary legislation made thereunder shall be paid into the Consolidated Fund.
-
-[46/96]
-
-### Comptroller, etc., may direct prosecution
-
-59\.—(1) The Comptroller or the Chief Assessor or such other officer as may be authorised by the Comptroller or the Chief Assessor in that behalf may direct any prosecution for any offence under this Act or any subsidiary legislation made thereunder and may authorise the incurring of such expense as may be necessary to the prosecution.
-
-[46/96]
-
-(2) Any officer employed in the administration of this Act may conduct such prosecution on behalf of the Comptroller.
-
-### Property tax officer may demand names and addresses in certain cases
-
-60\.—(1) Any person who is charged by any officer employed in the administration of this Act with any offence under this Act or any subsidiary legislation made thereunder shall give his name and address to that officer if so required.
-
-[46/96]
-
-(2) Any person who contravenes against this section or mis-states his name and address shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
-
-[46/96]
-
-### Saving of prosecutions under other laws
-
-61\. Nothing in this Act shall prevent any person from being prosecuted under any other law for any act or omission which constitutes an offence under this Act or any subsidiary legislation made thereunder or from being liable under that other law to any other or higher punishment or penalty than that provided by this Act or any subsidiary legislation made thereunder, except that no person shall be punished twice for the same offence.
-
-[46/96]
-
-### General penalties
-
-62\. Any person guilty of an offence under this Act or any subsidiary legislation made thereunder for which no penalty is expressly provided shall be liable on conviction to a fine not exceeding $5,000.
-
-[24/73; 46/96]
-
-### Composition of offences
-
-63\.—(1) The Comptroller may compound any offence under this Act by accepting from the person reasonably suspected of having committed the offence a sum of money not exceeding $5,000.
-
-(2) The Comptroller before making any offer of composition under subsection (1) shall take into consideration the nature of the offence and the circumstances under which the offence was committed.
-
-[24/73]
-
-(3) On payment of such sum of money, no further proceedings shall be taken against that person in respect of such offence.
-
-[24/73]
-
-(4) All sums received for the composition of offences under this section shall be paid into the Consolidated Fund.
-
-[24/73]
 
 ### Tax remission
 
-64\. The Minister may, in his discretion, remit wholly or in part, the tax payable by any person —
+69\. The Minister may, in his discretion, remit wholly or in part, the tax payable by any person —
 
 (a) on the ground of poverty; or
 
 (b) if he is satisfied that it is just and equitable to do so.
 
+[64
+
 [24/73]
 
 ### Inaccuracies in documents
 
-65\. No misnomer or inaccurate description of any person, premises, building, holding, street or place named or described in any document prepared, issued or served under, by virtue of or for the purposes of this Act or any subsidiary legislation made thereunder shall in any way affect the operation of this Act or any such subsidiary legislation as respects that person or place if that person or place is so designated in the document as to be identifiable, and no proceedings taken by virtue of this Act or any such subsidiary legislation shall be invalid for want of form.
+70\. No misnomer or inaccurate description of any person, premises, building, holding, street or place named or described in any document prepared, issued or served under, by virtue of or for the purposes of this Act shall in any way affect the operation of this Act as respects that person or place if that person or place is so designated in the document as to be identifiable, and no proceedings taken by virtue of this Act shall be invalid for want of form.
+
+[65
 
 [46/96]
 
 ### Evidence
 
-66\.—(1) The contents of any document prepared, issued or served under or for the purposes of this Act shall, until the contrary is proved, be presumed to be correct and the production of any book purporting to contain any tax, valuation or assessment made by virtue of this Act shall, without any other evidence whatever, be received as prima facie evidence of the making and validity of the tax, valuation or assessment mentioned therein.
+71\.—(1) The contents of any document prepared, issued or served under or for the purposes of this Act shall, until the contrary is proved, be presumed to be correct and the production of any book purporting to contain any tax, valuation or assessment made by virtue of this Act shall, without any other evidence whatever, be received as prima facie evidence of the making and validity of the tax, valuation or assessment mentioned therein.
 
-(2) All records, registers and other documents required by this Act or any subsidiary legislation made thereunder to be kept by the Comptroller or the Chief Assessor or any officer employed in the administration of this Act shall be deemed to be public documents and copies or extracts certified by the Comptroller or the Chief Assessor or by an officer responsible for the custody thereof to be true copies or extracts, as the case may be, subscribed by the Comptroller or the Chief Assessor or such officer with his name and his official title shall be admissible in evidence as proof of the contents of that document or extract thereof.
+(2) All records, registers and other documents required by this Act to be kept by the Comptroller or the Chief Assessor or any officer employed in the administration of this Act shall be deemed to be public documents and copies or extracts certified by the Comptroller or the Chief Assessor or by an officer responsible for the custody thereof to be true copies or extracts, as the case may be, subscribed by the Comptroller or the Chief Assessor or such officer with his name and his official title shall be admissible in evidence as proof of the contents of that document or extract thereof.
+
+[66
 
 [46/96]
 
 ### Regulations
 
-67\.—(1) The Minister may make regulations —
+72\.—(1) The Minister may make regulations —
 
 (a) prescribing the manner in which appeals shall be made to the Board;
 
@@ -1594,19 +1706,15 @@ unless the notice or order, as the case may be, has been served on him personall
 
 (f) prescribing the forms or any other matter which by this Act is required to be or may be prescribed;
 
-(fa) providing for the procedure of, and other matter relating to, the Street and Building Names Board constituted under section 49;
+(g) providing for the procedure of, and other matter relating to, the Street and Building Names Board constituted under section 49;
 
-[33/2002 wef 01/01/2003]
+(h) prescribing the time and manner in which an owner of a property shall mark or display the number allotted to such property and the penalties for non-compliance; and
 
-(g) prescribing the time and manner in which an owner of a property shall mark or display the number allotted to such property and the penalties for non-compliance; and
+(i) generally for the better carrying out of the provisions of this Act.
 
-(h) generally for the better carrying out of the provisions of this Act.
-
-[6/82; 46/96]
+[6/82; 46/96; 33/2002]
 
 (2) The Minister may, in lieu of making any regulations prescribing the forms which by this Act are required to be or may be prescribed, authorise the Comptroller to prescribe such forms as the Comptroller thinks fit.
-
-[68
 
 ## LEGISLATIVE HISTORY
 
@@ -1693,3 +1801,359 @@ This Legislative History is provided for the convenience of users of the Propert
 |||(Bill No. 62/2004 published on 20 October 2004)|
 ||Date of Second and Third Readings|17 November 2004|
 ||Date of commencement|8 December 2004|
+|17.|**2005 Revised Edition—Property Tax Act**|
+||Date of operation|31 March 2005|
+## COMPARATIVE TABLE
+
+Property Tax Act
+
+(CHAPTER 254)
+
+The following provisions in the 1997 Revised Edition of the Property Tax Act have been renumbered by the Law Revision Commissioners in this 2005 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Property Tax Act.
+
+2005 Ed\. 
+
+1997 Ed\. 
+
+PART II — PRELIMINARY
+
+PART II — PRELIMINARY
+
+2 —(1) to (5)
+
+2 —(1) to (5)
+
+(6)
+
+(5A)
+
+(7)
+
+(6)
+
+(8)
+
+(7)
+
+(9)
+
+(8)
+
+PART III — IMPOSITION OF PROPERTY TAX
+
+PART III — IMPOSITION OF PROPERTY TAX
+
+6 —(1) and (2)
+
+6 —(1) and (2)
+
+(3)
+
+(2A)
+
+(4), (5) and (6)
+
+(3), (4) and (5)
+
+(7) and (8)
+
+(5A) and (5B)
+
+(9)
+
+(6)
+
+(10)
+
+(6A)
+
+(11)
+
+(7)
+
+(12)
+
+(7A)
+
+(13)
+
+(8)
+
+(14) and (15)
+
+(8A) and (8B)
+
+(16) and (17)
+
+(9) and (10)
+
+7 
+
+6A 
+
+8 
+
+7 
+
+—
+
+8 (Repealed by Act 59/2004)
+
+10 —(1)
+
+10 —(1)
+
+(2)
+
+(1A)
+
+(3), (4), (5), (6) and (7)
+
+(2), (3), (4), (5) and (6)
+
+—
+
+12 (Repealed by Act 33/2002)
+
+—
+
+13 (Repealed by Act 33/2002)
+
+—
+
+14 (Repealed by Act 33/2002)
+
+—
+
+15 (Repealed by Act 33/2002)
+
+Omitted — spent
+
+20A —(10)
+
+21 —(1)
+
+21 —(1)
+
+(2)
+
+(1A)
+
+(3)
+
+(2)
+
+(4)
+
+(2A)
+
+(5)
+
+(3)
+
+(6)
+
+(3A)
+
+(7), (8), (9), (10) and (11)
+
+(4), (5), (6), (7) and (8)
+
+22 —(1) to (3)
+
+22 —(1) to (3)
+
+(4)
+
+(3A)
+
+(5)
+
+(4)
+
+—
+
+(5) (Deleted by Act 33/2002)
+
+PART IV — APPEALS
+
+PART IV — APPEALS
+
+26 —(1)
+
+26 —(1)
+
+(2)
+
+(1A)
+
+(3), (4) and (5)
+
+(2), (3) and (4)
+
+—
+
+31 (Repealed by Act 33/2002)
+
+35—(1)
+
+35 —(1)
+
+(2)
+
+(1A)
+
+(3), (4), (5) and (6)
+
+(2), (3), (4) and (5)
+
+—
+
+(6) (Deleted by Act 33/2002)
+
+PART V — COLLECTION AND RECOVERY OF TAX
+
+PART V — COLLECTION AND RECOVERY OF TAX
+
+39 —(1)
+
+39 —(1)
+
+(2)
+
+(1A)
+
+(3)
+
+(2)
+
+(4)
+
+(2A)
+
+(5) and (6)
+
+(3) and (4)
+
+(7)
+
+(4A)
+
+(8) and (9)
+
+(5) and (6)
+
+PART VI — NAMES AND NUMBERS OF BUILDINGS, ESTATES OR STREET
+
+PART VI — NAMES AND NUMBERS OF BUILDINGS, ESTATES OR STREET
+
+50 
+
+49A 
+
+51 
+
+50 
+
+52 
+
+50A 
+
+53 
+
+51 
+
+54 
+
+52 
+
+55 
+
+53 
+
+PART VII — OFFENCES AND PENALTIES
+
+PART VII — GENERAL
+
+56 
+
+55 
+
+57 
+
+55A 
+
+58 
+
+59 
+
+59 
+
+60 
+
+60 
+
+61 
+
+61 
+
+62 
+
+62 
+
+58 
+
+PART VIII — MISCELLANEOUS PROVISIONS
+
+—
+
+64 
+
+54 
+
+65 
+
+56 
+
+66 
+
+56A 
+
+67 —(1)
+
+57 —(1)
+
+(2)
+
+(1A)
+
+(3)
+
+(1B)
+
+(4), (5) and (6)
+
+(2), (3) and (4)
+
+68 
+
+57A 
+
+69 
+
+64 
+
+70 
+
+65 
+
+71 
+
+66 
+
+72 
+
+67 
+
