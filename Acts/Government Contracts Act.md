@@ -83,3 +83,8 @@ This Legislative History is provided for the convenience of users of the Governm
 ||Date of operation|1 March 1971|
 |3.|**1985 Revised Edition—Government Contracts Act (Chapter 118)**|
 ||Date of operation|30 March 1987|
+|4.|**Act 11 of 1991—Statutes (Miscellaneous Amendments) Act 1991**|
+||Date of First Reading|3 January 1991|
+|||(Bill No. 4/91 published on 4 January 1991)|
+||Date of Second and Third Readings|14 January 1991|
+||Date of commencement|30 November 1991 (Item (11) of the Schedule –– Amendment of Government Contracts Act)|
