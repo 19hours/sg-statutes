@@ -8,19 +8,15 @@
 
 - [1 Short title](#Short-title)
 
-- [2 Application of Hague Rules as amended](#Application-of-Hague-Rules-as-amended)
+- [2 Definition](#Definition)
 
 - [3 Application of Rules](#Application-of-Rules)
 
-- [4 Absolute warranty seaworthiness not to be implied in contracts to which Rules apply](#Absolute-warranty-seaworthiness-not-to-be-implied-in-contracts-to-which-Rules-apply)
+- [4 Absolute warranty of seaworthiness not to be implied in contracts to which Rules apply](#Absolute-warranty-of-seaworthiness-not-to-be-implied-in-contracts-to-which-Rules-apply)
 
-- [5 (Repealed)](#Repealed)
+- [5 Modification of paragraphs 4 and 5 of Article III of Rules in relation to bulk cargoes](#Modification-of-paragraphs-4-and-5-of-Article-III-of-Rules-in-relation-to-bulk-cargoes)
 
-- [6 (Repealed)](#Repealed)
-
-- [7 Modification of paragraphs 4 and 5 of Article III of Rules in relation to bulk cargoes](#Modification-of-paragraphs-4-and-5-of-Article-III-of-Rules-in-relation-to-bulk-cargoes)
-
-- [8 Saving and operation](#Saving-and-operation)
+- [6 Saving and operation of other written law](#Saving-and-operation-of-other-written-law)
 
 [**THE SCHEDULE The Hague Rules as amended by the Brussels Protocol 1968**](#THE-SCHEDULE)
 
@@ -32,9 +28,9 @@
 
 (Original Enactment: Act 30 of 1972)
 
-REVISED EDITION 1985
+REVISED EDITION 1998
 
-(30th March 1987)
+(30th May 1998)
 
 An Act to make further provision with respect to the carriage of goods by sea.
 
@@ -44,17 +40,23 @@ An Act to make further provision with respect to the carriage of goods by sea.
 
 1\. This Act may be cited as the Carriage of Goods by Sea Act.
 
-### Application of Hague Rules as amended
+### Definition
 
-2\. In this Act, “Rules” means the International Convention for the unification of certain rules of law relating to bills of lading made at Brussels on 25th August 1924, as amended by the Protocol made at Brussels on 23rd February 1968, and which are set out in the Schedule.
+2\. In this Act, “Rules” means the International Convention for the unification of certain rules of law relating to bills of lading made at Brussels on 25th August 1924, as amended by the Protocol made at Brussels on 23rd February 1968, and as set out in the Schedule.
 
 ### Application of Rules
 
 3\.—(1) The provisions of the Rules, as set out in the Schedule to this Act, shall have the force of law.
 
-(2) Without prejudice to subsection (1), the provisions of the Rules shall also have effect (and have the force of law) in relation to and in connection with the carriage of goods by sea in ships where the port of shipment is a port in Singapore, whether or not the carriage is between ports in two different States within the meaning of Article X of the Rules.
+[6/95]
+
+(2) Without prejudice to subsection (1), the provisions of the Rules shall also have effect (and have the force of law) in relation to and in connection with the carriage of goods by sea in ships where the port of shipment is a port in Singapore, whether or not the carriage is between ports in 2 different States within the meaning of Article X of the Rules.
+
+[6/95]
 
 (3) Subject to subsection (4), nothing in this section shall be construed as applying anything in the Rules to any contract for the carriage of goods by sea, unless the contract expressly or by implication provides for the issue of a bill of lading or any similar document of title.
+
+[6/95]
 
 (4) Without prejudice to paragraph (c) of Article X of the Rules, the Rules shall have the force of law in relation to —
 
@@ -68,37 +70,50 @@ An Act to make further provision with respect to the carriage of goods by sea.
 
 (b) subject to any necessary modifications and in particular with the omission of the second sentence of paragraph 4 and of paragraph 7 in Article III of the Rules.
 
+[6/95]
+
 (6) If and so far as the contract contained in or evidenced by a bill of lading or receipt referred to in paragraph (a) or (b) of subsection (4) applies to deck cargo or live animals, the Rules as given the force of law by that subsection shall have effect as if Article I (c) did not exclude deck cargo and live animals.
+
+[6/95]
 
 (7) In subsection (6), “deck cargo” means cargo which by the contract of carriage is stated as being carried on deck and is so carried.
 
+[6/95]
+
 (8) The Minister may, from time to time by order published in theGazette, specify the respective amounts which, for the purposes of paragraph 5 of Article IV and of Article IV bis of the Rules, are to be taken as equivalent to the sums expressed in francs which are mentioned in paragraph 5(a) of Article IV.
 
-[Act 6/95 wef 31/03/1995 vide S 140/95]
+[6/95]
 
-### Absolute warranty seaworthiness not to be implied in contracts to which Rules apply
+### Absolute warranty of seaworthiness not to be implied in contracts to which Rules apply
 
 4\. There shall not be implied in any contract for the carriage of goods by sea to which the Rules apply any absolute undertaking by the carrier of the goods to provide a seaworthy ship.
 
-Statement as to application of Rules to be included in bills of lading
-
-5\. [Repealed by Act 6/95 wef 31/03/1995 vide S 140/95]
-
-Modification of Article VI of Rules in relation to local trade
-
-6\. [Repealed by Act 6/95 wef 31/03/1995 vide S 140/95]
-
 ### Modification of paragraphs 4 and 5 of Article III of Rules in relation to bulk cargoes
 
-7\. Where under the custom of any trade the weight of any bulk cargo inserted in the bill of lading is a weight ascertained or accepted by a third party other than the carrier or the shipper and the fact that the weight is so ascertained or accepted is stated in the bill of lading, then, notwithstanding anything in the Rules, the bill of lading shall not be deemed to be prima facie evidence against the carrier of the receipt of goods of the weight so inserted in the bill of lading, and the accuracy thereof at the time of shipment shall not be deemed to have been guaranteed by the shipper.
+\*5\. Where under the custom of any trade the weight of any bulk cargo inserted in the bill of lading is a weight ascertained or accepted by a third party other than the carrier or the shipper and the fact that the weight is so ascertained or accepted is stated in the bill of lading, then, notwithstanding anything in the Rules, the bill of lading shall not be deemed to be prima facie evidence against the carrier of the receipt of goods of the weight so inserted in the bill of lading, and the accuracy thereof at the time of shipment shall not be deemed to have been guaranteed by the shipper.
 
-### Saving and operation
+[7
 
-8\. Nothing in this Act shall affect the operation of sections 293 and 294 of the Merchant Shipping Act [Cap. 179] as amended by any subsequent Act, or the operation of any other enactment for the time being in force limiting the liability of the owners of sea-going vessels.
+\*The former sections 5 and 6 were repealed by Act 6/95.
+
+### Saving and operation of other written law
+
+\*6\. Nothing in this Act shall affect the operation of sections 135 and 136 of the Merchant Shipping Act (Cap. 179) as amended by any subsequent Act, or the operation of any other enactment for the time being in force limiting the liability of the owners of sea-going vessels.
+
+[8
+
+\*The former sections 5 and 6 were repealed by Act 6/95.
 
 ## THE SCHEDULE
 
-The Hague Rules as amended by the Brussels Protocol 1968
+Sections 2 and 3(1)
+
+The Hague Rules as amended by
+
+
+
+
+the Brussels Protocol 1968
 
 Article I
 
@@ -144,15 +159,15 @@ Provided that no carrier, master or agent of the carrier shall be bound to state
 
 5\. The shipper shall be deemed to have guaranteed to the carrier the accuracy at the time of shipment of the marks, number, quantity and weight, as furnished by him, and the shipper shall indemnify the carrier against all loss, damages and expenses arising or resulting from inaccuracies in such particulars. The right of the carrier to such indemnity shall in no way limit his responsibility and liability under the contract of carriage to any person other than the shipper.
 
-6\. Unless notice of loss or damage and the general nature of such loss or damage be given in writing to the carrier or his agent at the port of discharge before or at the time of the removal of the goods into the custody of the person entitled to delivery thereof under the contract of carriage, or, if the loss or damage be not apparent, within 3 days, such removal shall be prima facie evidence of the delivery by the carrier of the goods as described in the bill of lading.
+6. Unless notice of loss or damage and the general nature of such loss or damage be given in writing to the carrier or his agent at the port of discharge before or at the time of the removal of the goods into the custody of the person entitled to delivery thereof under the contract of carriage, or, if the loss or damage be not apparent, within 3 days, such removal shall be prima facie evidence of the delivery by the carrier of the goods as described in the bill of lading.
 
 The notice in writing need not be given if the state of the goods has, at the time of their receipt, been the subject of joint survey or inspection.
 
-Subject to paragraph6bisthe carrier and the ship shall in any event be discharged from all liability whatsoever in respect of the goods, unless suit is brought within one year of their delivery or of the date when they should have been delivered. This period may, however, be extended if the parties so agree after the cause of action has risen.
+Subject to paragraph 6bisthe carrier and the ship shall in any event be discharged from all liability whatsoever in respect of the goods, unless suit is brought within one year of their delivery or of the date when they should have been delivered. This period may, however, be extended if the parties so agree after the cause of action has risen.
 
 In the case of any actual or apprehended loss or damage the carrier and the receiver shall give all reasonable facilities to each other for inspecting and tallying the goods.
 
-6bis. An action for idemnity against a third person may be brought even after the expiration of the year provided for in the preceding paragraph if brought within the time allowed by the law of the Court seized of the case. However, the time allowed shall be not less than 3 months, commencing from the day when the person bringing such action for indemnity has settled the claim or has been served with process in the action against himself.
+6bis. An action for indemnity against a third person may be brought even after the expiration of the year provided for in the preceding paragraph if brought within the time allowed by the law of the Court seized of the case. However, the time allowed shall be not less than 3 months, commencing from the day when the person bringing such action for indemnity has settled the claim or has been served with process in the action against himself.
 
 7\. After the goods are loaded the bill of lading to be issued by the carrier, master, or agent of the carrier, to the shipper shall, if the shipper so demands, be a “shipped” bill of lading, provided that if the shipper shall have previously taken up any document of title to such goods, he shall surrender the same as against the issue of the “shipped” bill of lading, but at the option of the carrier such document of title may be noted at the port of shipment by the carrier, master, or agent with the name or names of the ship or ships upon which the goods have been shipped and the date or dates of shipment, and when so noted, if it shows the particulars mentioned in paragraph 3 of Article III, shall for the purpose of this article be deemed to constitute a “shipped” bill of lading.
 
@@ -258,7 +273,7 @@ These Rules shall not affect the provisions of any international Convention or n
 
 Article X
 
-The provisions of these Rules shall apply to every bill of lading relating to the carriage of goods between ports in two different States if:
+The provisions of these Rules shall apply to every bill of lading relating to the carriage of goods between ports in 2 different States if:
 
 (a) the bill of lading is issued in a contracting State, or
 
@@ -306,3 +321,5 @@ This Legislative History is provided for the convenience of users of the Carriag
 |||(Bill No. 4/1995)|
 ||Date of Second and Third Readings|1 March 1995|
 ||Date of commencement|31 March 1995|
+|9.|**1998 Revised Edition—Carriage of Goods by Sea Act**|
+||Date of operation|30 May 1998|
