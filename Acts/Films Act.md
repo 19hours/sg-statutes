@@ -62,7 +62,17 @@
 
 - [28 Disposal of unclaimed films](#Disposal-of-unclaimed-films)
 
-- [29 Penalty for possession, distribution or exhibition of obscene or lewd film](#Penalty-for-possession-distribution-or-exhibition-of-obscene-or-lewd-film)
+- [29 Offences involving dealings in obscene films](#Offences-involving-dealings-in-obscene-films)
+
+- [29A Possession of obscene films](#Possession-of-obscene-films)
+
+- [29B Advertising obscene films](#Advertising-obscene-films)
+
+- [29C Aggravated offences involving children and young persons](#Aggravated-offences-involving-children-and-young-persons)
+
+- [29D Making, distribution and exhibition of party political films](#Making-distribution-and-exhibition-of-party-political-films)
+
+- [29E Search and seizure of unlawful films](#Search-and-seizure-of-unlawful-films)
 
 - [30 Minister may prohibit the possession or distribution of any film](#Minister-may-prohibit-the-possession-or-distribution-of-any-film)
 
@@ -100,7 +110,7 @@ An Act relating to the possession, distribution and exhibition of films.
 
 ### Interpretation
 
-2\. In this Act, unless the context otherwise requires —
+2\.—(1) In this Act, unless the context otherwise requires —
 
 “approved warehouse” means any warehouse approved by the Board for the purposes of sections 12 and 13;
 
@@ -110,21 +120,107 @@ An Act relating to the possession, distribution and exhibition of films.
 
 “Chairman” means the Chairman of the Board;
 
+“child” means a person who is below the age of 14 years;
+
+[9/98 wef 01/04/1998]
+
 “distribute” means to sell, hire out and supply and “distribution” shall be construed accordingly;
+
+“election” means an election under the Parliamentary Elections Act (Cap. 218) or the Presidential Elections Act (Cap. 240A);
+
+[10/98 wef 01/04/1998]
+
+“electronic transmission” includes facsimile transmission, electronic mail or other similar kinds of communication but excludes broadcasting;
+
+[10/98 wef 01/04/1998]
 
 “exhibition” includes the production of any music, speech, noise, or other sound which accompanies the projection of a film and “exhibit” shall be construed accordingly;
 
-“film” means a cinematograph film and includes a videotape and any record, however made, of a sequence of visual image, which is a record capable of being used as a means of showing that sequence as a moving picture; and also includes any part of any such film and any copy or part of a copy of the whole or any part of a film;
+“film” means —
+
+(a) any cinematograph film;
+
+(b) any video recording, including a video recording that is designed for use wholly or principally as a game;
+
+(c) any other material record or thing on which is recorded or stored for immediate or future retrieval any information that, by the use of any computer or electronic device, is capable of being reproduced or displayed as wholly or partly visual moving pictures,
+
+and includes any part of a film, and any copy or part of a copy of the whole or any part of a film;
+
+[10/98 wef 01/04/1998]
 
 “licence” means a licence granted under section 7;
 
 “Licensing Officer” means the officer appointed by the Minister under section 3(3) and includes an Assistant Licensing Officer;
 
+“obscene”, in relation to a film, means a film the effect of which or (where the film comprises 2 or more distinct parts or items) the effect of any one of its parts or items is, if taken as a whole, such as to tend to deprave or corrupt persons who are likely, having regard to all relevant circumstances, to see or hear the film;
+
+[10/98 wef 01/04/1998]
+
 “owner” or “owner of a film” means any person who is for the time being entitled, either as owner or agent for the owner, or otherwise, to the possession of a film, but does not include a bank through which a film is bona fide consigned for the sole purpose of collecting a trade debt;
+
+“party political film” means a film —
+
+(a) which is an advertisement made by or on behalf of any political party in Singapore or any body whose objects relate wholly or mainly to politics in Singapore, or any branch of such party or body; or
+
+(b) which is made by any person and directed towards any political end in Singapore;
+
+[10/98 wef 01/04/1998]
 
 “place” means any building or part thereof, enclosure, ground or open-air space and includes a ship, boat or other vessel and any vehicle;
 
-“Secretary” means the Secretary of the Board .
+“Secretary” means the Secretary of the Board;
+
+“supply”, in relation to a film, includes —
+
+(a) supply not only in its physical form but also by means of the electronic transmission of the contents of the film;
+
+(b) supply by way of exchange or loan; or
+
+(c) in relation to a film comprising a material record or thing on which is recorded or stored any information for immediate or future retrieval by the use of any computer or other electronic device, transferring or reproducing or enabling another to transfer or reproduce by electronic transmission the whole or part of the contents of the film onto another such material record or thing for immediate or future retrieval by such similar means;
+
+[10/98 wef 01/04/1998]
+
+“video recording” means any disc, magnetic tape or solid state recording device containing information by the use of which one or more series of visual images may be produced electronically and shown as a moving picture;
+
+[10/98 wef 01/04/1998]
+
+“young person” means a person who is 14 years of age or above and below the age of 16 years.
+
+[10/98 wef 01/04/1998]
+
+[Act 10/98]
+
+(2) For the purposes of this Act, a film is directed towards a political end in Singapore if the film —
+
+(a) contains wholly or partly any matter which is intended or likely to affect voting in any election or national referendum in Singapore; or
+
+(b) contains wholly or partly either partisan or biased references to or comments on any political matter, including but not limited to any of the following:
+
+(i) an election or a national referendum in Singapore;
+
+(ii) a candidate or group of candidates in an election;
+
+(iii) an issue submitted or otherwise before electors in an election or a national referendum in Singapore;
+
+(iv) the Government or a previous Government or the opposition to the Government or previous Government;
+
+(v) a Member of Parliament;
+
+(vi) a current policy of the Government or an issue of public controversy in Singapore; or
+
+(vii) a political party in Singapore or any body whose objects relate wholly or mainly to politics in Singapore, or any branch of such party or body.
+
+[10/98 wef 01/04/1998]
+
+(3) For the avoidance of doubt, any film which is made solely for the purpose of —
+
+(a) reporting of current events; or
+
+(b) informing or educating persons on the procedures and polling times for any election or national referendum in Singapore,
+
+is not a party political film.
+
+[10/98 wef 01/04/1998]
 
 ### Board and appointment of officers
 
@@ -166,7 +262,7 @@ An Act relating to the possession, distribution and exhibition of films.
 
 (b) being the owner or occupier of any place shall allow the place to be used by, or let the place or otherwise make the place available to, any person who is not the holder of a valid licence for the purpose of carrying on the business of importing, making, distributing or exhibiting films.
 
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine of not less than $5,000 but not exceeding $20,000 or to imprisonment for a term not exceeding 6 months or to both.
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine of not less than $10,000 but not exceeding $40,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 ### Application for licence
 
@@ -232,9 +328,9 @@ An Act relating to the possession, distribution and exhibition of films.
 
 (2) During the course of censorship the Board may in its discretion exclude any person from the place where the film is being exhibited.
 
-(3) The owner may at any time, with the approval in writing of the Board, which shall not be unreasonably withheld, remove any film (other than a videotape or video disc) from any approved warehouse for the purpose of making excisions to it or of reconstructing it, or of obtaining the approval of the Board for its exhibition or of exhibiting exclusively to buyers or exhibitors or their agents.
+(3) The owner may at any time, with the approval in writing of the Board, which shall not be unreasonably withheld, remove any cinematograph film from any approved warehouse for the purpose of making excisions to it or of reconstructing it, or of obtaining the approval of the Board for its exhibition or of exhibiting exclusively to buyers or exhibitors or their agents.
 
-(4) Any film removed from an approved warehouse under subsection (3) shall be returned to that warehouse within 48 hours of the time of its removal therefrom and any excised parts, if excision has been made, shall within 48 hours be delivered to the Board.
+(4) Any cinematograph film removed from an approved warehouse under subsection (3) shall be returned to that warehouse within 48 hours of the time of its removal therefrom and any excised parts, if excision has been made, shall within 48 hours be delivered to the Board.
 
 (5) Any owner who fails to comply with subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
@@ -259,6 +355,14 @@ An Act relating to the possession, distribution and exhibition of films.
 16\.—(1) The Board may, when approving the exhibition of any film under section 15, classify the film in such manner as it may think fit and the Minister may approve the classifications under which films may be classified.
 
 (2) Where any film is classified under subsection (1), the Board shall specify the classification of the film in the certificate issued in respect of that film and may impose such conditions as it thinks fit.
+
+(2A) The Board may require the owner of a film to deposit such security as may be prescribed for the due performance by the owner of all or any of the conditions imposed under subsection (2) in relation to the classification of the film.
+
+[10/98 wef 01/04/1998]
+
+(2B) Without prejudice to subsection (3), any security deposited under subsection (2A) may be forfeited in whole or in part at the discretion of the Board if any condition imposed under subsection (2) is contravened or not complied with.
+
+[10/98 wef 01/04/1998]
 
 (3) Any person who contravenes or fails to comply with any of the conditions imposed under subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
@@ -290,15 +394,21 @@ An Act relating to the possession, distribution and exhibition of films.
 
 21\.—(1) Any person who —
 
-(a) has in his possession; or
+(a) has in his possession;
 
-(b) exhibits or distributes ,
+(b) exhibits or distributes ; or
+
+(c) reproduces,
+
+[10/98 wef 01/04/1998]
 
 any film without a valid certificate approving the exhibition of the film shall be guilty of an offence and shall be liable on conviction —
 
 (i) in respect of an offence under paragraph (a), to a fine of not less than $100 for each such film that he had in his possession (but not to exceed in the aggregate $20,000); and
 
-(ii) in respect of an offence under paragraph (b), to a fine of not less than $100 for each such film that he had exhibited or distributed (but not to exceed in the aggregate $20,000) or to imprisonment for a term not exceeding 6 months or to both.
+(ii) in respect of an offence under paragraph (b) or (c), to a fine of not less than $500 for each such film he had exhibited, distributed or reproduced, as the case may be (but not to exceed in the aggregate $40,000) or to imprisonment for a term not exceeding 6 months or to both.
+
+[10/98 wef 01/04/1998]
 
 (2) Any Censor and any Deputy or Assistant Censor and any Inspector of Films may at all reasonable times enter any place in which any film is kept or is being or is about to be exhibited and may examine the film, and if on such examination he has reasonable grounds for believing that an offence under this section has been or is about to be committed in respect of the film he may seize the film and any equipment used in the commission of the offence.
 
@@ -314,7 +424,7 @@ any film without a valid certificate approving the exhibition of the film shall 
 
 ### Search for unauthorised films and arrest of persons concerned
 
-23\.—(1) Whenever a Deputy or Assistant Commissioner of Police is satisfied upon written information and after any further inquiry which he may think necessary that any film —
+23\.—(1) Whenever a Deputy or Assistant Commissioner of Police or an Assistant Superintendent of Police is satisfied upon written information and after any further inquiry which he may think necessary that any film —
 
 (a) which has not been —
 
@@ -330,7 +440,7 @@ any film without a valid certificate approving the exhibition of the film shall 
 
 has been or is being exhibited or kept in any place he may issue a warrant directed to any police officer to enter and search that place and seize the film and to take into custody any person reasonably believed to be guilty of an offence by reason of failure to deposit or to return the film or by reason of such possession or exhibition.
 
-(2) A Deputy or Assistant Commissioner of Police may without warrant, with such assistance and by such force as is necessary, by night or by day, himself do what he may authorise any police officer to do under subsection (1) in either of the following cases:
+(2) A Deputy or Assistant Commissioner of Police or an Assistant Superintendent of Police may without warrant, with such assistance and by such force as is necessary, by night or by day, himself do what he may authorise any police officer to do under subsection (1) in either of the following cases:
 
 (a) if he has personal knowledge of such facts as satisfy him that there are sufficient grounds for a search; or
 
@@ -348,9 +458,9 @@ has been or is being exhibited or kept in any place he may issue a warrant direc
 
 ### Committee of Appeal
 
-25\.—(1) For the purposes of this Act there shall be a Committee of Appeal consisting of 9 members to be appointed by the Minister.
+25\.—(1) For the purposes of this Act there shall be a Committee of Appeal consisting of 15 members to be appointed by the Minister.
 
-(2) A member of the Committee of Appeal shall, unless he earlier resigns, hold office for one year from the date of his appointment.
+(2) A member of the Committee of Appeal shall, unless he earlier resigns, hold office for 3 years from the date of his appointment.
 
 (3) A member of the Committee of Appeal may at any time, by letter addressed to the Minister, resign his membership thereof.
 
@@ -390,25 +500,115 @@ has been or is being exhibited or kept in any place he may issue a warrant direc
 
 ### Disposal of unclaimed films
 
-28\. Any film which has been deposited in any approved warehouse for two years and the owner thereof is unknown or has failed during that period to obtain the approval of the Board or having obtained it has failed to remove the film from the possession of the Board, and any film retained by the Board under section 18 and not claimed by the owner within two years of the date upon which approval for exhibition was refused or, if there is any appeal, from the date of the decision of the Committee of Appeal, may be destroyed or otherwise disposed of as the Board thinks fit.
+28\. Any film which has been deposited in any approved warehouse for 6 months and the owner thereof is unknown or has failed during that period to obtain the approval of the Board or having obtained it has failed to remove the film from the possession of the Board, and any film retained by the Board under section 18 and not claimed by the owner within 6 months of the date upon which approval for exhibition was refused or, if there is any appeal, from the date of the decision of the Committee of Appeal, may be destroyed or otherwise disposed of as the Board thinks fit.
 
-### Penalty for possession, distribution or exhibition of obscene or lewd film
+### Offences involving dealings in obscene films
 
-29\.—(1) Any person who —
+29\.—(1) Any person who makes or reproduces any obscene film (whether or not for the purposes of exhibition or distribution to any other person), knowing or having reasonable cause to believe the film to be obscene shall be guilty of an offence and shall be liable on conviction —
 
-(a) has in his possession; or
+(a) to a fine of not less than $20,000 but not more than $40,000 or to imprisonment for a term not exceeding 2 years or to both; and
 
-(b) exhibits or distributes,
+(b) in the case of a second or subsequent conviction, to a fine of not less than $40,000 but not more than $100,000 or to imprisonment for a term not exceeding 2 years or to both.
 
-any obscene or lewd films shall be guilty of an offence and shall be liable on conviction —
+(2) Any person who imports any obscene film knowing or having reasonable cause to believe the film to be obscene shall be guilty of an offence and shall be liable on conviction —
 
-(i) in respect of an offence under paragraph (a), to a fine of not less than $500 for each such film he had in his possession (but not to exceed in the aggregate $20,000) or to imprisonment for a term not exceeding 6 months or to both; and
+(a) to a fine of not less than $1,000 for each such film imported (but not to exceed in the aggregate $40,000) or to imprisonment for a term not exceeding 12 months or to both; and
 
-(ii) in respect of an offence under paragraph (b), to a fine of not less than $1,000 for each such film he had exhibited or distributed (but not to exceed in the aggregate $40,000) or to imprisonment for a term not exceeding 2 years or to both.
+(b) in the case of a second or subsequent conviction, to a fine of not less than $2,000 for each such film imported (but not to exceed in the aggregate $100,000) or to imprisonment for a term not exceeding 2 years or to both.
 
-(2) A Deputy or Assistant Commissioner of Police or any Censor, Deputy or Assistant Censor or Inspector of Films if satisfied upon written information and after such further inquiry as he thinks necessary that any person has in his possession any obscene or lewd film, may without warrant, with such assistance and by such force as is necessary, by night or by day, enter and search any place where he has reason to believe the film is kept, seize the film and any equipment used in the exhibition or making of the film and take into custody any person reasonably believed to be in possession thereof.
+(3) Any person who distributes, or has in his possession for the purposes of distributing, to any other person an obscene film knowing or having reasonable cause to believe the film to be obscene shall be guilty of an offence and shall be liable on conviction —
 
-(3) Any film and equipment used in the exhibition or making of the film in respect of which any person has been convicted under this section shall be forfeited and shall be destroyed or otherwise disposed of in such manner as the Minister may direct.
+(a) to a fine of not less than $2,000 for each such film he had distributed or in his possession (but not to exceed in the aggregate $80,000) or to imprisonment for a term not exceeding 2 years or to both; and
+
+(b) in the case of a second or subsequent conviction, to a fine of not less than $4,000 for each such film he had distributed or in his possession (but not to exceed in the aggregate $100,000) or to imprisonment for a term not exceeding 2 years or to both.
+
+(4) Any person who exhibits or has in his possession for the purposes of exhibiting to any other person an obscene film knowing or having reasonable cause to believe the film to be obscene shall be guilty of an offence and shall be liable on conviction —
+
+(a) to a fine of not less than $10,000 but not more than $40,000 or to imprisonment for a term not exceeding 2 years; and
+
+(b) in the case of a second or subsequent conviction, to a fine of not less than $20,000 but not more than $100,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+[10/98 wef 01/04/1998]
+
+### Possession of obscene films
+
+29A\.—(1) Any person who has in his possession any obscene film shall be guilty of an offence and shall be liable on conviction to a fine of not less than $500 for each such film he had in his possession (but not to exceed in the aggregate $20,000) or to imprisonment for a term not exceeding 6 months or to both.
+
+(2) Any person who has in his possession any obscene film knowing or having reasonable cause to believe the film to be obscene shall be guilty of an offence and shall be liable on conviction —
+
+(a) to a fine of $1,000 for each such film in his possession (but not to exceed in the aggregate $40,000) or to imprisonment for a term not exceeding 12 months or to both; and
+
+(b) in the case of a second or subsequent conviction, to a fine of not less than $2,000 for each such film in his possession (but not to exceed in the aggregate $80,000) or to imprisonment for a term not exceeding 2 years or to both.
+
+[10/98 wef 01/04/1998]
+
+### Advertising obscene films
+
+29B\.—(1) Any person who, for the purposes of distributing or exhibiting any obscene film to any other person, advertises the film by any means shall be guilty of an offence and shall be liable on conviction to a fine of not less than $2,000 but not more than $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+(2) Any person who, for the purposes of distributing or exhibiting any obscene film to any other person, advertises the film by any means knowing or having reasonable cause to believe the film to be obscene shall be guilty of an offence and shall be liable on conviction —
+
+(a) to a fine of not less than $10,000 but not more than $50,000 or to imprisonment for a term not exceeding 12 months or to both; and
+
+(b) in the case of a second or subsequent conviction, to a fine of not less than $20,000 but not more than $100,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+(3) In this section —
+
+“advertise”, in relation to a film, includes —
+
+(a) publicly exhibiting, displaying or supplying any advertising poster relating to the film;
+
+(b) announcing orally or by any means (including electronic transmission, facsimile transmission, electronic mail or other similar means of communication) other than by broadcasting any offer to sell or supply the film; or
+
+(c) distributing or circulating any advertisement relating to the film;
+
+“advertisement” includes any advertising poster, circular, catalogue or price list;
+
+“advertising poster” means any poster, placard, video slick, photograph or other printed pictorial matter that is intended for use in the advertising or exhibition of a film to the public and includes a miniature representation or enlarged representation of the whole or part of any such poster.
+
+(4) For the purposes of this section, an advertisement shall be deemed to be an advertisement publicly displayed if it is displayed in or so as to be visible from —
+
+(a) any public road; or
+
+(b) any place to which the public have or are permitted to have access (whether on payment or otherwise).
+
+[10/98 wef 01/04/1998]
+
+### Aggravated offences involving children and young persons
+
+29C\.—(1) Any person who causes or procures any child or young person or, having custody, charge or care of a child or young person, allows that child or young person to commit or abet in the commission of any offence mentioned in section 29, 29A or 29B shall be guilty of an offence and shall be liable on conviction —
+
+(a) to a fine of not less than $20,000 but not more than $80,000 or to imprisonment for a term not exceeding 12 months or to both; and
+
+(b) in the case of a second or subsequent conviction, to a fine of not less than $20,000 but not more than $100,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+(2) If it is proved that a child or young person has committed or abetted in the commission of any offence mentioned in section 29A(1) or 29B(1), the person having the custody, charge or care of the child at the time the offence was committed shall be presumed, until the contrary is proved, to have allowed the child to commit or abet in the commission of the offence.
+
+[10/98 wef 01/04/1998]
+
+### Making, distribution and exhibition of party political films
+
+29D\. Any person who —
+
+(a) imports any party political film;
+
+(b) makes or reproduces any party political film;
+
+(c) distributes, or has in his possession for the purposes of distributing, to any other person any party political film; or
+
+(d) exhibits, or has in his possession for the purposes of exhibiting, to any other person any party political film,
+
+knowing or having reasonable cause to believe the film to be a party political film shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 2 years.
+
+[10/98 wef 01/04/1998]
+
+### Search and seizure of unlawful films
+
+29E\.—(1) Any Deputy or Assistant Commissioner of Police, Assistant Superintendent of Police or any Censor, Deputy or Assistant Censor or Inspector of Films, if satisfied upon written information and after such further inquiry as he thinks necessary that any person has in his possession any obscene film or party political film, may without warrant, with such assistance and by such force as is necessary, by night or by day, enter and search any place where he has reason to believe the film is kept, seize the film and any equipment used in the exhibition, making or reproduction of the film and take into custody any person reasonably believed to be in possession thereof.
+
+(2) Any film, and any equipment used in the exhibition, making or reproduction of the film, in respect of which any person has been convicted under section 29, 29A, 29B or 29D shall be forfeited and shall be destroyed or otherwise disposed of in such manner as the Minister may direct.
+
+[10/98 wef 01/04/1998]
 
 ### Minister may prohibit the possession or distribution of any film
 
@@ -438,7 +638,7 @@ any obscene or lewd films shall be guilty of an offence and shall be liable on c
 
 (a) any film sponsored by the Government;
 
-(b) any film, not being obscene or lewd or any feature, commercial, documentary or overseas television serial film, which is made by an individual and is not intended for distribution or public exhibition; and
+(b) any film, not being an obscene film or a party political film or any feature, commercial, documentary or overseas television serial film, which is made by an individual and is not intended for distribution or public exhibition; and
 
 (c) any film reproduced from local television programmes and is not intended for distribution or public exhibition.
 
@@ -485,3 +685,8 @@ This Legislative History is provided for the convenience of users of the Films A
 |||(Bill No. 5/97 published on 12 July 1997)|
 ||Date of Second and Third Readings|25 August 1997|
 ||Date of commencement|1 October 1997|
+|4.|**Act 10 of 1998—Films (Amendment) Act 1998**|
+||Date of First Reading|14 January 1998|
+|||(Bill No. 2/98 published on 15 January 1998)|
+||Date of Second and Third Readings|27 February 1998|
+||Date of commencement|1 April 1998|
