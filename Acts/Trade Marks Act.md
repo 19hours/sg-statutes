@@ -1728,7 +1728,9 @@ Border enforcement measures
 
 “conveyance” has the same meaning as in the Regulation of Imports and Exports Act (Cap. 272A);
 
-“Director-General” means the Director-General of Customs and Excise appointed under section 4(1) of the Customs Act;
+“Director-General” means the Director-General of Customs appointed under section 4(1) of the Customs Act;
+
+[4/2003 wef 01/04/2003]
 
 “goods in transit” means goods imported, whether or not landed or transhipped within Singapore, which are to be carried to another country either by the same or another conveyance;
 
@@ -2604,3 +2606,8 @@ This Legislative History is provided for the convenience of users of the Trade M
 |||(Bill No. 1/2001 published on 13 January 2001)|
 ||Date of Second and Third Readings|22 February 2001|
 ||Date of commencement|1 April 2001|
+|9.|**Act 4 of 2003—Customs (Amendment) Act 2003**|
+||Date of First Reading|10 March 2003|
+|||(Bill No. 6/2003 published on 11 March 2003)|
+||Date of Second and Third Readings|21 March 2003|
+||Date of commencement|1 April 2003|
