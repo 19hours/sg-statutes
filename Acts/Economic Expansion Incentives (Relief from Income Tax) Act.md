@@ -898,7 +898,7 @@ DEVELOPMENT AND EXPANSION INCENTIVE
 
 [36/96]
 
-(5) Notwithstanding section 43 of the Income Tax Act (Cap. 134), tax at such concessionary rate, not being less than 10% as the Minister may specify, shall be levied and paid for each year of assessment upon the expansion income derived by a development and expansion company during its tax relief period from its qualifying activities.
+(5) Notwithstanding section 43 of the Income Tax Act (Cap. 134), tax at such concessionary rate, not being less than 5% as the Minister may specify, shall be levied and paid for each year of assessment upon the expansion income derived by a development and expansion company during its tax relief period from its qualifying activities.
 
 [36/96]
 
@@ -3065,6 +3065,11 @@ This Legislative History is provided for the convenience of users of the Economi
 ||Date of commencement|1 June 2001|
 |20.|**2001 Revised Edition—Economic Expansion Incentives (Relief from Income Tax) Act**|
 ||Date of operation|31 July 2001|
+|21.|**Act 44 of 2002—Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2002**|
+||Date of First Reading|25 November 2002|
+|||(Bill No. 46/2002 published on 26 November 2002)|
+||Date of Second and Third Readings|5 December 2002|
+||Date of commencement|3 May 2002|
 ## COMPARATIVE TABLE
 
 Economic Expansion Incentives (Relief from Income Tax) Act
