@@ -134,7 +134,7 @@
 
 - [47 Period of cover](#Period-of-cover)
 
-- [48 Cover of insured person where contribution to his account in Fund is not paid](#Cover-of-insured-person-where-contribution-to-his-account-in-Fund-is-not-paid)
+- [48 (Repealed)](#Repealed)
 
 - [49 Amount payable on death or incapacity of insured person](#Amount-payable-on-death-or-incapacity-of-insured-person)
 
@@ -192,9 +192,9 @@
 
 - [69 Power to exempt](#Power-to-exempt)
 
-- [70 Approved employees’ schemes](#Approved-employees’-schemes)
+- [70 (Repealed)](#Repealed)
 
-- [71 Transfers between approved employees’ schemes and Fund](#Transfers-between-approved-employees’-schemes-and-Fund)
+- [71 (Repealed)](#Repealed)
 
 - [72 Refund of contributions to Government](#Refund-of-contributions-to-Government)
 
@@ -522,17 +522,15 @@ CONTRIBUTIONS TO FUND
 
 [27/92]
 
-(7) Notwithstanding subsection (6), where wages are payable at intervals of less than one month, if in any month it appears to the employer that the wages of any employee for that month are likely to exceed $200, the employer —
+(7) Notwithstanding subsection (6), where wages are payable at intervals of less than one month, if in any month it appears to the employer that the wages of any employee for that month are likely to exceed $500, the employer —
 
 (a) may deduct from the employee’s wages at the time of each payment in the month the appropriate proportion of such sum as would be recoverable from the employee in accordance with the First Schedule in respect of the wages if paid at the same rate throughout the month; and
 
-(b) shall make such adjustment as may be necessary on the occasion of the last payment in that month, but if the wages do not actually exceed $200 for that month, he shall forthwith refund to the employee the amount of the deductions.
+(b) shall make such adjustment as may be necessary on the occasion of the last payment in that month, but if the wages do not actually exceed $500 for that month, he shall forthwith refund to the employee the amount of the deductions.
 
 [31/2003 wef 01/01/2004]
 
 [27/92]
-
-[31/2003 wef 01/01/2004]
 
 (8) The Minister may, by notification in theGazette, amend the First Schedule and may prescribe in the First Schedule —
 
@@ -684,7 +682,27 @@ CONTRIBUTIONS TO FUND
 
 (2) The amount which a person may contribute voluntarily under subsection (1) or section 7(4) shall not exceed the sum of $28,800 in any year or such other sum as the Minister may, from time to time, prescribe by notification in theGazette.
 
-(3) For the purpose of computing the sum referred to in subsection (2) in any year, the amount contributed by the person which is obligatory under this Act and any voluntary contribution paid by his employer under section 7(4)(c) in that year shall be included, and any contribution made in that year under sections 73 and 79 shall not be included.
+(3) For the purpose of computing the sum referred to in subsection (2) in any year —
+
+(a) the following amounts shall be included:
+
+(i) the amount contributed by a person in that year which is obligatory under this Act; and
+
+[40/2007 wef 01/01/2008]
+
+[25/2008 wef 01/11/2008]
+
+(ii) subject to paragraph (b)(ii), any voluntary contribution paid by the employer of that person under section 7(4)(c) in that year; and
+
+(b) the following amounts shall be excluded:
+
+(i) any contribution made by a person in that year under sections 73 and 79; and
+
+(ii) any voluntary contribution made in that year by the employer of that person under section 7(4)(c) specifically for the purposes of that person’s medisave account, where such voluntary contribution does not exceed $1,500.
+
+[40/2007 wef 01/10/2007]
+
+[31/2003 wef 01/01/2004]
 
 ### Payment of cash grant by Government into Fund
 
@@ -796,9 +814,15 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 [15/2006 wef 01/07/2006]
 
-(6) Subject to subsections (6A) and (8), a member of the Fund who is entitled to withdraw the sum standing to his credit in the Fund under subsection (2)(a) shall at the time of the withdrawal set aside or top-up a prescribed sum (referred to in this Act as the minimum sum) in accordance with any regulations made under this Act.
+(6) Subject to subsections (6A) and (8), a member of the Fund who is entitled under subsection (2)(a), (3) or (4) to withdraw the sum standing to his credit in the Fund shall, at the time of withdrawal and in accordance with any regulations made under this Act —
 
-[10/94]
+(a) set aside or top-up a prescribed sum (referred to in this Act as the minimum sum); and
+
+(b) unless the Board otherwise allows, set aside or top-up in his medisave account a sum of up to $2,500 or such other amount as may be specified under subsection (6D) in respect of any class of persons.
+
+[31/2003 wef 01/01/2004]
+
+[15/2006 wef 01/07/2006]
 
 (6A) Where a member and his spouse desire to set aside jointly an amount equal to one and a half times the minimum sum, the Board may permit them to set aside that amount if they have each executed a memorandum under section 25(1) nominating each other to receive the amount of the minimum sum belonging to either party on the death of the other party.
 
@@ -811,6 +835,14 @@ WITHDRAWAL OF CONTRIBUTIONS
 (6C) The minimum sum may be deposited with an approved bank or in a retirement account with the Board or used to purchase an approved annuity from an insurer.
 
 [10/94]
+
+(6D) The Minister may, by order published in theGazette—
+
+(a) substitute the amount of $2,500 in subsection (6)(b) with such other amount as he thinks fit; and
+
+(b) specify any other amount as he thinks fit in respect of any class of persons for the purposes of subsection (6)(b).
+
+[31/2003 wef 01/01/2004]
 
 (7) A member who has attained the age of 60 years or such other age as the Minister may prescribe shall be entitled to withdraw from the minimum sum deposited with an approved bank or in a retirement account and any interest accruing thereon in accordance with any regulations made under this Act.
 
@@ -1460,13 +1492,19 @@ for the repayment to the Board to the account of that member in the Fund from wh
 
 24\.—(1) Except as may be provided for in any regulations made under section 77, no withdrawals made by the authority of the Board from the Fund under section 15 nor the rights of any member of the Fund acquired thereunder shall be assignable or transferable or liable to be attached, sequestered or levied upon for or in respect of any debt or claim.
 
-(2) Precious metals and securities purchased by a member and the proceeds from the sale of such precious metals and securities and any moneys in any fixed deposit account maintained by a member with a bank, under any scheme in accordance with any regulations made under section 77 which allow the member to withdraw his moneys in the Fund, for the purposes of investment and which the member is obliged to repay into the Fund shall not be attached, sequestered, levied upon for or in respect of any debt or claim or be subject to any right of set-off by the bank for any debt owing by the member to the bank.
+(2) The following investments made by a member under any scheme in accordance with any regulations made under section 77(1)(n) shall not be attached, sequestered, levied upon for or in respect of any debt or claim, or be subject to any right of set-off by any bank for any debt owing by the member to the bank:
 
-(3) Such precious metals, securities, proceeds or moneys shall not pass to the Official Assignee on the bankruptcy of such member, and if such member is adjudicated a bankrupt or is declared insolvent by a court, such precious metals, securities, proceeds or moneys shall be deemed not to form part of the property of the member.
+(a) precious metals, insurance policies and securities purchased by the member;
 
-[36/2002 wef 01/01/2003]
+(b) the proceeds from the sale of such precious metals and securities and the benefits of such insurance policies; and
 
-[16/86]
+(c) any moneys in any fixed deposit account maintained by the member with a bank.
+
+[31/2003 wef 01/01/2004]
+
+(3) Such precious metals, insurance policies, securities, proceeds, benefits or moneys shall not pass to the Official Assignee on the bankruptcy of such member, and if such member is adjudicated a bankrupt or is declared insolvent by a court, such precious metals, insurance policies, securities, proceeds, benefits or moneys shall be deemed not to form part of the property of the member.
+
+[31/2003 wef 01/01/2004]
 
 (3A) All moneys paid out of the Fund on the death of any member of the Fund shall be deemed to be impressed with a trust in favour of —
 
@@ -1497,6 +1535,10 @@ but shall, without prejudice to the operation of the Estate Duty Act (Cap. 96), 
 [22/2010 wef 01/10/2010]
 
 (6) The bankruptcy of an employee shall not affect the payment of contributions from the wages of the employee in accordance with the provisions of this Act, but that payment shall continue to be made notwithstanding the provisions of any written law and the portion of wages so paid shall be deemed not to form part of his after-acquired property.
+
+(7) In this section, “insurance policies” includes investment-linked insurance policies.
+
+[31/2003 wef 01/01/2004]
 
 ### Moneys payable on death of member
 
@@ -1562,15 +1604,19 @@ but shall, without prejudice to the operation of the Estate Duty Act (Cap. 96), 
 
 [15/90]
 
-(2) The Board may, in its discretion but only after the Board is satisfied that all repayments of any loan given to the member by the Government under an approved loan scheme within the meaning of section 14A, together with all interest and other charges which the member is liable to pay to the Government under the terms and conditions of that loan, have been paid, allow a member who is an undischarged bankrupt to withdraw from the amount standing to his credit in the Fund if he satisfies any of the grounds for withdrawals specified in section 15(2)(a), (d) or (e).
+(2) The Board may, in its discretion but only after the Board is satisfied that all repayments of any loan given to the member by the Government under an approved loan scheme within the meaning of section 14A, together with all interest and other charges which the member is liable to pay to the Government under the terms and conditions of that loan, have been paid, allow a member who is an undischarged bankrupt to withdraw from the amount standing to his credit in the Fund if —
 
-[12/99]
+(a) he satisfies any of the grounds for withdrawals specified in section 15(2)(a), (d) or (e); and
+
+[15/2006 wef 01/07/2006]
+
+(b) he satisfies such conditions as may be specified by the Minister from time to time.
+
+[31/2003 wef 01/01/2004]
 
 (2A) Any moneys paid out of the Fund to that member shall be deemed not to form part of his after-acquired property and shall not be liable to be attached, sequestered or levied upon for or in respect of any debt or claim.
 
 (3) Where withdrawals are made by a member who is an undischarged bankrupt under subsection (2), the Board may impose such condition (including condition as to the amounts that may be withdrawn by the undischarged bankrupt) as it may think fit.
-
-(4) The Board shall not authorise the withdrawal of the total amount standing to the credit of a member who is an undischarged bankrupt under subsection (2) without the approval of the Minister.
 
 (5) All applications for withdrawals under this section shall be in such form and shall be supported by such evidence as the Board may reasonably require.
 
@@ -1956,15 +2002,7 @@ DEPENDANTS’ PROTECTION INSURANCE SCHEME
 
 [23/89]
 
-### Cover of insured person where contribution to his account in Fund is not paid
-
-48\. Where any contribution to the Fund in respect of an insured person is not paid for whatever reason, the insured person shall not be covered under the Scheme at the expiration of 3 years from the date of payment of the last contribution to the Fund for the insured person unless before the expiration of the 3-year period —
-
-(a) further contribution to the Fund in respect of the insured person is paid; or
-
-(b) the insured person has lodged a written notice with the Board stating that he wishes to continue to be covered under the Scheme after the expiration of that period.
-
-[23/89]
+48\. [Deleted by Act 31/2003 wef 01/01/2004]
 
 ### Amount payable on death or incapacity of insured person
 
@@ -2362,79 +2400,9 @@ the proceeds of the sale shall not be paid to any creditor other than to the Gov
 
 69\. The Minister may from time to time by order exempt any person or class of persons from all or any of the provisions of this Act.
 
-### Approved employees’ schemes
+70\. [Deleted by Act 31/2003 wef 01/01/2004]
 
-70\.—(1) If the Board is satisfied that an employer has established a welfare scheme which provides for the payment to his employees of pensions, gratuities or other pecuniary or welfare benefits (referred to in this Act as an approved employees’ scheme), the Board shall certify to that effect.
-
-(2) Upon such certification, the amount which such employer shall be liable to contribute to the Fund in respect of any of his employees who has agreed to join such approved employees’ scheme shall be in accordance with such reduced rates as may be prescribed by the Minister for employers who have established approved employees’ schemes and not the rates specified in the First Schedule.
-
-[19/83; 27/92]
-
-(3) The Board may at any time revoke any certificate issued under subsection (1) but without prejudice to anything previously done or omitted to be done by virtue thereof.
-
-[19/83]
-
-(4) An employer who has established a scheme which has been certified as an approved employees’ scheme under subsection (1) shall —
-
-(a) furnish to the Board such accounts in respect of the scheme, duly audited by an auditor who has been approved as a company auditor under section 9(2) of the Companies Act (Cap. 50) as the Board may require;
-
-(b) comply with the rules of the scheme and pay such contributions in accordance with such scheme within such periods as the rules of the scheme require;
-
-(c) obtain the prior permission of the Board to the making of any amendment to the rules of the scheme; and
-
-(d) furnish such returns to the Board as the Board may prescribe concerning employees who are members of or who have ceased to contribute to the scheme.
-
-[19/83]
-
-(5) Any amendment to the rules of any approved employees’ scheme made without the prior permission of the Board shall, for the purposes of this Act, be void and of no effect.
-
-[19/83]
-
-(6) Section 24(1) and (3A) shall apply —
-
-(a) to withdrawals or payments of moneys from any approved employees’ scheme;
-
-(b) to the rights of any member acquired under the rules of any approved employees’ scheme;
-
-(c) to moneys paid out of any approved employees’ scheme on the death of a member as that section applies to withdrawals from the Fund;
-
-(d) to rights acquired under this Act; and
-
-(e) to moneys paid out on the death of a member of the Fund.
-
-[19/83]
-
-(7) Section 24(4) and (6) shall apply —
-
-(a) to contributions to any approved employees’ scheme and to interest thereon;
-
-(b) to portions of wages paid as contributions to any approved employees’ scheme as that section applies to contributions to the Fund;
-
-(c) to interest thereon; and
-
-(d) to portions of wages paid as contributions to the Fund.
-
-[19/83]
-
-(8) Any person who fails to comply with subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
-
-(9) The court before which any person is convicted for failing to pay contributions into any approved employees’ scheme within such period as the rules of the approved employees’ scheme require may, in addition to such fine, order him to pay the amount of any contributions and any interest due thereon certified by an officer appointed by the Board in that behalf to be due from such person at the date of such conviction.
-
-(10) The amount referred to in subsection (9) may be recovered according to the law for the time being in force for the recovery of fines.
-
-[19/83]
-
-### Transfers between approved employees’ schemes and Fund
-
-71\.—(1) On the death of any employee who was a member of an approved employees’ scheme, the employer concerned shall pay to the Board any moneys (if any) which such employee is entitled to under the approved employees’ scheme.
-
-(2) Any moneys paid to the Board by the employer shall be disposed of by the Board as if such amount were contributions standing to the credit of the member in the Fund at his death.
-
-[19/83]
-
-(3) Where an employee who is a member of an approved employees’ scheme leaves the service of his employer before attaining the age of 55 years, the employer concerned shall pay to the Board to be placed to the credit of the employee in the Fund the money (if any) payable to such employee under the approved employees’ scheme on the termination of his employment.
-
-[19/83]
+71\. [Deleted by Act 31/2003 wef 01/01/2004]
 
 ### Refund of contributions to Government
 
@@ -2546,7 +2514,7 @@ the amount paid in error shall not be refunded but shall be deemed to have been 
 
 (m) to provide for members of the Fund to apply, assign or withdraw all or part of the contributions and interest standing to their credit in the Fund for the purpose of purchasing the stocks and shares of the Singapore Bus Service (1978) Limited, a company incorporated under the provisions of the Companies Act (Cap. 50), subject to such conditions as the Minister may impose;
 
-(n) to provide for members of the Fund to apply, assign or withdraw all or part of the contributions and interest standing to their credit in the Fund for the purpose of investing in such precious metals and securities, and depositing in such fixed deposit accounts, as may be approved by the Minister, or for the reimbursement of the cost of the making of any such investments, including the payment of any fees, charges or incidental expenses incurred for such investments;
+(n) to provide for members of the Fund to apply, assign or withdraw all or part of the contributions and interest standing to their credit in the Fund for the purpose of investing in such precious metals, insurance policies (including investment-linked insurance policies) and securities, and depositing in such fixed deposit accounts, as may be approved by the Minister, or for the reimbursement of the cost of the making of any such investments, including the payment of any fees, charges or incidental expenses incurred for such investments;
 
 [36/2002 wef 01/01/2003]
 
@@ -2644,7 +2612,7 @@ Sections 7, 8, 70, 75 and 77
 
 Rates of Contribution
 
-1. Subject to paragraphs 2 to 7, with effect from 1st October 2003, the contributions payable by the employer and the amount recoverable from the employee’s wages are as follows:
+1. Subject to paragraphs 2 to 7, with effect from 1st January 2004, the contributions payable by the employer and the amount recoverable from the employee’s wages are as follows:
 
 1A. Subject to paragraphs 1E to 7, with effect from 1st March 2011, the contributions payable by the employer (at graduated rates) and the amount recoverable from the employee’s wages (at graduated rates) during the period beginning on the date the employee becomes a permanent resident and ending on the last day of the first anniversary month, are as follows:
 
@@ -4022,19 +3990,23 @@ until the employee leaves the employment of the employer or the agreement expire
 
 then the agreed rates of the contribution shall continue to apply in relation to that employee until the employee leaves the employment of the employer, or the agreement expires or is lawfully terminated, whichever is the earlier.
 
-2. In respect of an employee whose total wages from an employer for the preceding year exceed $100,000, no contributions shall be payable by that employer on the additional wages which are in excess of the following:
+2\. No contributions shall be payable by an employer on the additional wages in a year which are in excess of $93,500 less the amount of ordinary wages for that year.
 
-(a) if his ordinary wages for the preceding year do not exceed $72,000 — $100,000 less his ordinary wages for the preceding year and less his additional wages already paid in the current year; or
+3. Where the additional wages of an employee are paid at any time before the relevant time and before the amount of his ordinary wages for that year is computed, no contributions shall be payable by an employer on the additional wages which are in excess of an amount computed as follows: $93,500 less —
 
-(b) if his ordinary wages for the preceding year exceed $72,000 — 40% of his ordinary wages for the preceding year, less his additional wages already paid in the current year.
+(a) the ordinary wages of the employee for the preceding year; and
 
-3.—(1) Where the total wages of an employee from an employer for any year do not exceed $100,000 and the amount of contributions on his additional wages in that year had been subject to the limit in paragraph 2, such amount shall, at the end of that year or in the last month of his employment with that employer, be recomputed as if paragraph 2 does not apply.
+(b) the additional wages of the employee already paid for the current year.
 
-(2) Where the total wages of an employee from an employer for any year exceed $100,000, such amount shall, at the end of that year or in the last month of his employment with that employer, be recomputed subject to the limit in paragraph 2 as if the reference to “preceding year” in that paragraph is a reference to “current year”.
+4.—(1) Where the contributions on additional wages for any year have been paid at any time before the relevant time and before the amount of ordinary wages for that year is computed, the amount of contributions payable on the additional wages for that year shall be recomputed at the relevant time, subject to the limit in paragraph 2.
 
-4.—(1) Where the contributions computed in accordance with paragraph 3 exceed the contributions already paid on additional wages, the employer shall contribute the difference to the Fund at the end of the year or in the last month of the employee’s employment with him.
+(2) Where the contributions on additional wages recomputed under sub-paragraph (1) exceed the contributions already paid on additional wages for that year, the employer shall contribute the difference to the Fund at the relevant time, subject to the limit in paragraph 2.
 
-(2) Where the employer is required to make additional contributions under sub-paragraph (1), he shall be entitled to recover from the employee’s wages, at the rate of recovery for additional wages applicable to the employee, the difference between the amount of additional wages on which contributions are payable under sub-paragraph (1) and the amount of additional wages on which contributions have already been paid.
+(3) Where the employer is required to make additional contributions under sub-paragraph (2), he shall be entitled to recover from the employee’s wages, at the rate of recovery for additional wages applicable to the employee, the amount of additional contributions paid by the employer under that sub-paragraph.
+
+[S 657/2003 wef 01/01/2004]
+
+4A\. In computing the amount of ordinary wages for a year or a preceding year for the purposes of paragraphs 2, 3 and 4, the amount of ordinary wages which is in excess of $5,500 for any month shall be disregarded.
 
 5. For the purpose of this Schedule —
 
@@ -4052,9 +4024,11 @@ then the agreed rates of the contribution shall continue to apply in relation to
 
 (e) “ordinary wages for the month” means the amount of remuneration due or granted wholly or exclusively in respect of employment during that month and payable before the due date for the payment of contribution for that month;
 
-(f) “total amount of employee’s wages for the calendar month” means the total amount of the employee’s ordinary wages for the month and additional wages payable to him in that month;
+(ea) “relevant time” means the end of the current year or the last month of the employee’s employment with that employer, as the case may be;
 
-(g) “total wages for the year” means the total of the employee’s ordinary wages for the year and additional wages payable to him in that year;
+[S 657/2003 wef 01/01/2004]
+
+(f) “total amount of employee’s wages for the calendar month” means the total amount of the employee’s ordinary wages for the month and additional wages payable to him in that month;
 
 (h) “year” means the period beginning on 1st January and ending on 31st December.
 
@@ -4826,6 +4800,13 @@ This Legislative History is provided for the convenience of users of the Central
 ||Date of commencement|1 October 2003|
 |131.|**G. N. No. S 457/2004—Central Provident Fund Act (Amendment of Third Schedule) Notification 2004**|
 ||Date of commencement|22 December 2003|
+|132.|**Act 31 of 2003—Central Provident Fund (Amendment) Act 2003**|
+||Date of First Reading|16 October 2003|
+|||(Bill No. 30/2003 published on 17 October 2003)|
+||Date of Second and Third Readings|11 November 2003|
+||Dates of commencement|1 January 2004 (except sections 3, 6 and 10(a))|
+|133.|**G.N. No. S 657/2003—Central Provident Fund Act (Amendment of First Schedule) (No. 2) Notification 2003**|
+||Date of commencement|1 January 2004|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
