@@ -38,6 +38,8 @@
 
 - [10A Appointment of Chiefs of Defence Force, Army, Air Force and Navy](#Appointment-of-Chiefs-of-Defence-Force-Army-Air-Force-and-Navy)
 
+- [10B Appointment of warrant officers](#Appointment-of-warrant-officers)
+
 [**Part III MILITARY OFFENCES**](#Part-III)
 
 - [11 Misconduct in action](#Misconduct-in-action)
@@ -152,6 +154,8 @@
 
 - [65 Powers of a superior commander when dealing with charge](#Powers-of-a-superior-commander-when-dealing-with-charge)
 
+- [65A Powers of Chief of Defence Force when dealing with charge](#Powers-of-Chief-of-Defence-Force-when-dealing-with-charge)
+
 - [66 Restrictions on power to dismiss a charge](#Restrictions-on-power-to-dismiss-a-charge)
 
 - [67 Remission of case for trial or otherwise](#Remission-of-case-for-trial-or-otherwise)
@@ -162,9 +166,11 @@
 
 - [70 Powers of punishment of a superior commander](#Powers-of-punishment-of-a-superior-commander)
 
+- [70A Powers of punishment of Chief of Defence Force](#Powers-of-punishment-of-Chief-of-Defence-Force)
+
 - [71 Detention in default of fine](#Detention-in-default-of-fine)
 
-- [72 Power of Armed Forces Council to deal summarily with charges against lieutenant-colonel and above](#Power-of-Armed-Forces-Council-to-deal-summarily-with-charges-against-lieutenant-colonel-and-above)
+- [72 Power of Senior Disciplinary Committee](#Power-of-Senior-Disciplinary-Committee)
 
 - [73 Compensation](#Compensation)
 
@@ -296,7 +302,7 @@
 
 - [129 Notice and petition of appeal](#Notice-and-petition-of-appeal)
 
-- [130 Bail](#Bail)
+- [130 BailBail pending appeal](#BailBail-pending-appeal)
 
 - [131 Delivery of notice of appeal](#Delivery-of-notice-of-appeal)
 
@@ -532,7 +538,9 @@ PRELIMINARY
 
 “disciplinary barrack” means any premises or place set apart by the Armed Forces Council for the purposes of persons serving sentences of special detention in a disciplinary barrack;
 
-“disciplinary officer” means a junior disciplinary officer, a senior disciplinary officer and a superior commander each being qualified to be such or being designated as such pursuant to the provisions of Part IV;
+“disciplinary officer” means a junior disciplinary officer, a senior disciplinary officer and a superior commander each being qualified to be such or being designated as such pursuant to the provisions of Part IV and includes the Chief of Defence Force;
+
+[Act 1 of 1994 wef 01/05/1994]
 
 “enemy” includes persons engaged in violent operations against the Singapore Armed Forces, armed mutineers, armed rebels, armed rioters or pirates;
 
@@ -552,15 +560,7 @@ PRELIMINARY
 
 “national serviceman” has the same meaning as in the Enlistment Act [Cap. 93];
 
-“non-uniformed serviceman” means a regular serviceman who is not required under his terms of service to wear military uniform;
-
-[Act 20 of 1994 wef 01/12/1994]
-
 “officer” means a person appointed by the President of Singapore or the proper authority to hold the rank of officer in the Singapore Armed Forces and includes any person commissioned as an officer under any written law that is repealed by this Act;
-
-“operationally ready national serviceman” means a person liable to render operationally ready national service under the Enlistment Act (Cap. 93);
-
-[Act 20 of 1994 wef 01/12/1994]
 
 “proper authority” has the same meaning as in the Enlistment Act;
 
@@ -570,7 +570,7 @@ PRELIMINARY
 
 “regular serviceman” has the same meaning as in the Enlistment Act;
 
-[Deleted by Act 20 of 1994 wef 01/12/1994]
+“reservist” means a person liable to render reserve service under the Enlistment Act;
 
 “sentence” means a punishment imposed on a convicted person;
 
@@ -590,9 +590,15 @@ PRELIMINARY
 
 “vessel” includes a hovercraft;
 
-“volunteer” means a person accepted by the proper authority as a volunteer in the Singapore Armed Forces.
+“volunteer” means a person accepted by the proper authority as a volunteer in the Singapore Armed Forces;
+
+[Act 1 of 1994 wef 01/05/1994]
+
+“warrant officer” means a person appointed by the Armed Forces Council or the proper authority to hold the rank of warrant officer in the Singapore Armed Forces.
 
 [Act 1 of 1991 wef 01/04/1991]
+
+[Act 1 of 1994 wef 01/05/1994]
 
 [20/75]
 
@@ -606,7 +612,9 @@ PRELIMINARY
 
 (d) all references to “an officer” or to “a person holding a commission in the armed forces” shall be construed as references to an officer under this Act; and
 
-(e) all references to “a soldier, sailor, seaman or airman” or to “a non-commissioned officer” shall be construed as references to a serviceman under this Act.
+(e) all references to “a soldier, enlisted personnel, sailor, seaman, rating or airman” shall be construed as references to a serviceman under this Act.
+
+[Act 1 of 1994 wef 01/05/1994]
 
 (3) For the purposes of this Act, if not inconsistent with the context, the expression “on active service” as applied to a person subject to military law means whenever he is attached to or forms part of a force which is engaged in operations against the enemy or is engaged in military operations in a country or place wholly or partly occupied by an enemy, or is in military occupation of any foreign country.
 
@@ -614,13 +622,11 @@ PRELIMINARY
 
 ### Application
 
-3\. The following persons shall be persons subject to military law and this Act shall, subject to such exclusions or variations in relation to non-uniformed servicemen as may be prescribed, apply to them:
+3\. The following persons shall be persons subject to military law and this Act shall apply to them:
 
 (a) regular servicemen and full-time national servicemen in the Singapore Armed Forces from the time their liability to report for enlistment or service arises until such time as they are lawfully discharged or released;
 
-(b) operationally ready national servicemen from the time that they are ordered to report for enlistment or service, whether they have complied with such order or not, and while in uniform or performing service in the Singapore Armed Forces or the People’s Defence Force pursuant to section 14 of the Enlistment Act [Cap. 93], and while called out for mobilised service pursuant to sections 16 and 17 of that Act or when called out to duty in aid of the civil power;
-
-[Act 20 of 1994 wef 01/12/1994]
+(b) reservists from the time that they are ordered to report for enlistment or service, whether they have complied with such order or not, and while in uniform or performing service in the Singapore Armed Forces or the People’s Defence Force pursuant to section 14 of the Enlistment Act [Cap. 93], and while called out for mobilised service pursuant to sections 16 and 17 of that Act or when called out to duty in aid of the civil power;
 
 (c) all civilians who are in the service of the Singapore Armed Forces when engaged on active service;
 
@@ -636,8 +642,6 @@ PRELIMINARY
 
 [Act 1 of 1991 wef 01/04/1991]
 
-[Act 20 of 1994 wef 01/12/1994]
-
 ### Liability for military offences
 
 4\. All persons subject to military law by virtue of section 3 shall be liable to be tried by subordinate military courts for all the military offences in this Act and by a disciplinary officer for the offences specified in the Schedule.
@@ -646,17 +650,13 @@ PRELIMINARY
 
 5\.—(1) A person, who was subject to military law under section 3(a) or (b) and —
 
-(a) who is liable to render operationally ready national service as a person subject to the Enlistment Act [Cap. 93]; or
+(a) who is liable to render reserve service as a person subject to the Enlistment Act [Cap. 93]; or
 
-[Act 20 of 1994 wef 01/12/1994]
-
-(b) who is exempted from liability to render operationally ready national service under section 28 of that Act, but comes within the definition of a person subject to the Enlistment Act in section 2 of that Act,
+(b) who is exempted from liability to render reserve service under section 28 of that Act, but comes within the definition of a person subject to the Enlistment Act in section 2 of that Act,
 
 shall be regarded as continuing to be subject to military law and, where such person was a member of the Singapore Armed Forces, be regarded as continuing to be a member of the Singapore Armed Forces, for the purposes of proceedings for such offence under the Emergency (Essential Powers) Act [Cap. 90] as may be prescribed under subsection (5), notwithstanding that he has been discharged or released from the Singapore Armed Forces or has otherwise ceased to be subject to military law at the time of the commission of the offence.
 
 [17/78]
-
-[Act 20 of 1994 wef 01/12/1994]
 
 (2) Subject to section 111(1), where such offence under the Emergency (Essential Powers) Act as may be prescribed under subsection (5) has been committed or is reasonably suspected of having been committed by a person who was, at the time of the commission of the offence, subject to military law under subsection (1), such person shall —
 
@@ -672,13 +672,9 @@ notwithstanding that he has been discharged or released from the Singapore Armed
 
 (a) where he was a regular serviceman, be regarded as having the rank that he held on the day of his discharge or release as a regular serviceman;
 
-(b) where he was a full-time national serviceman or operationally ready national serviceman, be regarded as having the rank that he held on the day of his release as a full-time national serviceman or as an operationally ready national serviceman, if he is no more liable for full-time or reserve service, as the case may be, under the Enlistment Act [Cap. 93]; or
+(b) where he was a full-time national serviceman or reservist, be regarded as having the rank that he held on the day of his release as a full-time national serviceman or as a reservist, if he is no more liable for full-time or reserve service, as the case may be, under the Enlistment Act [Cap. 93]; or
 
-[Act 20 of 1994 wef 01/12/1994]
-
-(c) where he remains liable to render operationally ready national service under the Enlistment Act, be regarded as having the rank that he holds as an operationally ready national serviceman in the Singapore Armed Forces or the People’s Defence Force at the date of the trial for such offence.
-
-[Act 20 of 1994 wef 01/12/1994]
+(c) where he remains liable to render reserve service under the Enlistment Act, be regarded as having the rank that he holds as a reservist in the Singapore Armed Forces or the People’s Defence Force at the date of the trial for such offence.
 
 (5) For the purposes of this section, the Minister may, by order\*published in theGazette, prescribe the offences under the Emergency (Essential Powers) Act, for which a person, who commits any of those offences, may be tried and punished under this Act.
 
@@ -818,6 +814,22 @@ ORGANISATION OF SINGAPORE ARMED FORCES
 
 [Act 1 of 1991 wef 01/04/1991]
 
+### Appointment of warrant officers
+
+10B\.—(1) Warrant officers of the Singapore Armed Forces shall be appointed by the Armed Forces Council or by the proper authority which may, without assigning any reason, cancel any such appointment.
+
+(2) An appointment made under subsection (1) shall be in the prescribed form.
+
+(3) Warrant officers appointed under subsection (1) shall be deemed to be warrant officers of the Singapore Armed Forces from the date specified in their appointments.
+
+(4) Warrant officers may from time to time be promoted or advanced in rank by the proper authority.
+
+(5) Any warrant officer who has been appointed by the proper authority to hold the rank of warrant officer and who has held that rank immediately before 1st July 1992 shall for all purposes be deemed to have been appointed as a warrant officer.
+
+(6) Every warrant officer appointed before 1st July 1992 shall be deemed to be appointed under subsection (1).
+
+[Act 1 of 1994 wef 01/05/1994]
+
 ## PART III
 
 MILITARY OFFENCES
@@ -944,17 +956,13 @@ shall be guilty of the offence of looting and shall be liable on conviction by a
 
 19\. Every person subject to military law who —
 
-(a) strikes or otherwise uses violence to, or offers violence to, a person superior in rank or appointment; or
+(a) strikes or otherwise uses violence to, or offers violence to, a person superior in rank; or
 
-[Act 20 of 1994 wef 01/12/1994]
+(b) uses threatening or insubordinate language or gestures to, or behaves with contempt to a person superior in rank,
 
-(b) uses threatening or insubordinate language or gestures to, or behaves with contempt to a person superior in rank or appointment,
-
-shall be guilty of an offence and shall be liable on conviction by a subordinate military court to imprisonment for a term not exceeding 2 years and if the offence is committed during active service, for a term not exceeding 5 years or any less punishment authorised by this Act except that it shall be a defence for any person charged under this section to prove that he neither knew nor had reasonable cause to believe that the person in relation to whom the offence is alleged to have been committed was a person superior in rank or appointment.
+shall be guilty of an offence and shall be liable on conviction by a subordinate military court to imprisonment for a term not exceeding 2 years and if the offence is committed during active service, for a term not exceeding 5 years or any less punishment authorised by this Act except that it shall be a defence for any person charged under this section to prove that he neither knew nor had reasonable cause to believe that the person in relation to whom the offence is alleged to have been committed was a person superior in rank.
 
 [18
-
-[Act 20 of 1994 wef 01/12/1994]
 
 ### Obstruction of military policemen
 
@@ -1130,7 +1138,7 @@ shall be guilty of an offence and shall be liable on conviction to imprisonment 
 
 ### Offences in relation to an officer in a ship convoying and protecting a vessel
 
-39\. Every officer who while serving in a ship of the Singapore Armed Forces involved in the convoying and protection of a vessel —
+39\. Every officer or warrant officer who while serving in a ship of the Singapore Armed Forces involved in the convoying and protection of a vessel —
 
 (a) fails to defend a vessel or goods in his convoy;
 
@@ -1139,6 +1147,8 @@ shall be guilty of an offence and shall be liable on conviction to imprisonment 
 (c) cowardly abandons or exposes a vessel in his convoy to hazards,
 
 shall be guilty of an offence and shall be liable on conviction by a subordinate military court to suffer death or any less punishment authorised by this Act.
+
+[Act 1 of 1994 wef 01/05/1994]
 
 [38
 
@@ -1370,11 +1380,17 @@ SUMMARY TRIAL BY DISCIPLINARY OFFICERS
 
 [Act 1 of 1991 wef 01/04/1991]
 
-“junior disciplinary officer” means, except where otherwise expressly provided, an officer commanding a squadron, battery, company or equivalent sub-unit or any other officer in whom a senior disciplinary officer has vested the powers of a junior disciplinary officer for the purposes of discipline;
+“junior disciplinary officer” means, except where otherwise expressly provided, an officer or a warrant officer commanding a squadron, battery, company or equivalent sub-unit or any other officer in whom a senior disciplinary officer has vested the powers of a junior disciplinary officer for the purposes of discipline;
+
+[Act 1 of 1994 wef 01/05/1994]
 
 “private” includes an officer cadet for the purposes of this Act;
 
 “reversion in rank” means reverting a soldier from a temporary rank to the next substantive rank;
+
+“Senior Disciplinary Committee” means a Senior Disciplinary Committee appointed under section 72;
+
+[Act 1 of 1994 wef 01/05/1994]
 
 “senior disciplinary officer” means —
 
@@ -1384,7 +1400,7 @@ SUMMARY TRIAL BY DISCIPLINARY OFFICERS
 
 (c) any other officer designated as a senior disciplinary officer for the purposes of discipline by the Armed Forces Council;
 
-“a soldier below the rank of warrant officer” includes a temporary warrant officer;
+[Deleted by Act 1 of 1994 wef 01/05/1994]
 
 “superior commander” means —
 
@@ -1412,17 +1428,23 @@ SUMMARY TRIAL BY DISCIPLINARY OFFICERS
 
 62\.—(1) Before an allegation against any person subject to military law (referred to in this Act as the accused) that he has committed an offence under this Act is further proceeded with, the allegation shall be reported in the form of a charge to a disciplinary officer and dealt with in accordance with the provisions of this Part.
 
+(1A) If the accused is an officer of the rank of lieutenant-colonel, the charge shall, within such time as may be specified in regulations made under this Act, be brought before the Chief of Defence Force.
+
+[Act 1 of 1994 wef 01/05/1994]
+
 (2) If the accused is an officer below the rank of lieutenant-colonel, the charge shall, within such time as may be specified in regulations made under this Act, be brought before a superior commander at least two ranks above him.
 
 (3) If the accused is a warrant officer the charge shall within such time as may be specified in such regulations be brought before a superior commander.
 
 (4) If the accused is a soldier below the rank of warrant officer the charge shall within such time as may be specified in such regulations be brought before a junior disciplinary officer.
 
-(5) A disciplinary officer may try an accused only when —
+(5) A disciplinary officer other than the Chief of Defence Force may try an accused only when —
 
 (a) the accused and the disciplinary officer belong to the same detachment, unit, formation or command; or
 
 (b) the Armed Forces Council has vested him with the powers of a senior disciplinary officer or a superior commander or a senior disciplinary officer has vested him with the powers of a junior disciplinary officer in respect of the accused.
+
+[Act 1 of 1994 wef 01/05/1994]
 
 [61
 
@@ -1472,6 +1494,18 @@ SUMMARY TRIAL BY DISCIPLINARY OFFICERS
 
 [64
 
+### Powers of Chief of Defence Force when dealing with charge
+
+65A\. The Chief of Defence Force when dealing with a charge brought before him under section 62(1A) may —
+
+(a) dismiss the charge if he is of the opinion that it ought not to be proceeded with;
+
+(b) try the accused summarily; or
+
+(c) if he is of the opinion that the charge should not be dealt with by him, refer the charge to the person appointed under section 82(5)(a).
+
+[Act 1 of 1994 wef 01/05/1994]
+
 ### Restrictions on power to dismiss a charge
 
 66\.—(1) A disciplinary officer shall not dismiss a charge unless he is satisfied —
@@ -1486,15 +1520,23 @@ SUMMARY TRIAL BY DISCIPLINARY OFFICERS
 
 ### Remission of case for trial or otherwise
 
-67\. Where a superior commander has referred a charge to the person appointed under section 82(5)(a) that person may —
+67\. Where a superior commander or the Chief of Defence Force has referred a charge to the person appointed under section 82(5)(a) that person may —
 
 (a) direct that a charge-sheet be submitted to the convening authority;
 
-(b) with the approval of the Armed Forces Council, direct that the charge be tried by the senior disciplinary officer or a superior commander who has referred the charge to him or by any other senior disciplinary officer or superior commander; or
+(b) with the approval of the Armed Forces Council, direct that the charge be tried by —
+
+(i) in the case of a charge referred to him by a superior commander, the superior commander, the senior disciplinary officer or any other superior commander or senior disciplinary officer; and
+
+(ii) in the case of a charge referred to him by the Chief of Defence Force, the Chief of Defence Force; or
+
+[Act 1 of 1994 wef 01/05/1994]
 
 (c) with the approval of the Armed Forces Council direct that no action be taken against the accused either by way of summary trial or by a subordinate military court.
 
 [66
+
+[Act 1 of 1994 wef 01/05/1994]
 
 ### Powers of punishment of a junior disciplinary officer
 
@@ -1504,13 +1546,17 @@ SUMMARY TRIAL BY DISCIPLINARY OFFICERS
 
 (b) a fine not exceeding —
 
-(i) in the case of soldiers above the rank of corporal (first class), a sum of $300; and
+(i) in the case of soldiers above the rank of third sergeant, a sum of $300; and
 
 [Act 1 of 1991 wef 01/04/1991]
 
-(ii) in the case of soldiers of the rank of corporal (first class) and below, a sum not exceeding $100;
+[Act 1 of 1994 wef 01/05/1994]
+
+(ii) in the case of soldiers of the rank of third sergeant and below, a sum not exceeding $100;
 
 [Act 1 of 1991 wef 01/04/1991]
+
+[Act 1 of 1994 wef 01/05/1994]
 
 (c) reprimand; or
 
@@ -1530,13 +1576,17 @@ SUMMARY TRIAL BY DISCIPLINARY OFFICERS
 
 (d) a fine not exceeding —
 
-(i) in the case of soldiers above the rank of corporal (first class), a sum of $500; and
+(i) in the case of soldiers above the rank of third sergeant, a sum of $500; and
 
 [Act 1 of 1991 wef 01/04/1991]
 
-(ii) in the case of soldiers of the rank of corporal (first class) and below, a sum not exceeding $150;
+[Act 1 of 1994 wef 01/05/1994]
+
+(ii) in the case of soldiers of the rank of third sergeant and below, a sum not exceeding $150;
 
 [Act 1 of 1991 wef 01/04/1991]
+
+[Act 1 of 1994 wef 01/05/1994]
 
 (e) reprimand; or
 
@@ -1550,7 +1600,7 @@ SUMMARY TRIAL BY DISCIPLINARY OFFICERS
 
 70\.—(1) A superior commander may upon conviction of an accused who is an officer below the rank of lieutenant-colonel or a warrant officer impose any one of the following punishments:
 
-(a) in the case of a warrant officer detention for a period not exceeding 40 days;
+(a) [Deleted by Act 1 of 1994 wef 01/05/1994]
 
 (b) forfeiture of seniority of rank and forfeiture of all or any part of his service for purposes of promotion;
 
@@ -1567,6 +1617,20 @@ SUMMARY TRIAL BY DISCIPLINARY OFFICERS
 (2) In addition to or in lieu of any other punishment, the superior commander may order that the accused shall suffer any deduction from his ordinary pay authorised by this Act.
 
 [69
+
+### Powers of punishment of Chief of Defence Force
+
+70A\.—(1) The Chief of Defence Force may, upon conviction of an accused of the rank of lieutenant-colonel, impose any one or all of the following punishments:
+
+(a) forfeiture of seniority of rank and forfeiture of all or any part of service for purposes of promotion;
+
+(b) a fine not exceeding a sum of $1,500; or
+
+(c) reprimand.
+
+(2) In addition to or in lieu of any other punishment the Chief of Defence Force may order that the accused shall suffer any deduction from his ordinary pay authorised by this Act.
+
+[Act 1 of 1994 wef 01/05/1994]
 
 ### Detention in default of fine
 
@@ -1588,29 +1652,47 @@ and such detention shall take effect from such date as the disciplinary officer 
 
 [69A
 
-### Power of Armed Forces Council to deal summarily with charges against lieutenant-colonel and above
+### Power of Senior Disciplinary Committee
 
-72\.—(1) A charge against an officer of or above the rank of lieutenant-colonel may be dealt with summarily by the Armed Forces Council.
+72\.—(1) A charge against an officer of or above the rank of colonel may be dealt with summarily by a Senior Disciplinary Committee appointed by the Chairman of the Armed Forces Council for that purpose.
 
-[20/75]
+(2) Notwithstanding subsection (1), a Senior Disciplinary Committee shall have the power to deal with a charge against an officer of the rank of lieutenant-colonel in any case referred to it by the Armed Forces Council under section 75(4)(a)(i).
 
-(2) The Armed Forces Council may dismiss the charge if it, in its discretion, thinks that it ought not to be proceeded with or may deal with the case summarily and upon conviction of the accused impose either or both of the following punishments:
+(3) The Senior Disciplinary Committee shall consist of not less than 3 members of the Armed Forces Council or any other uneven number, the majority of whom shall be members of the Singapore Armed Forces.
 
-(a) forfeiture of seniority of rank and forfeiture of all or any part of service for purposes of promotion;
+(4) The members of the Senior Disciplinary Committee shall be of or above the rank of the accused or shall each be holding an appointment of or above that held by the accused. The seniority of such appointments shall be determined by the Chairman of the Armed Forces Council.
 
-(b) reprimand.
+(5) The Senior Disciplinary Committee may —
 
-(3) Where the Armed Forces Council has proceeded to deal with a case summarily under this section and is satisfied on the evidence as to the guilt of the accused it shall, before proceeding to conviction and punishment other than a reprimand, afford the accused an opportunity of electing to be tried by a subordinate military court and if the accused so elects, the Council shall refer the charge to the person appointed under section 82(5)(a) who shall direct that a charge be submitted to the convening authority.
+(a) dismiss the charge if it is of the opinion that the charge ought not to be proceeded with; or
 
-(4) Where the Armed Forces Council considers under this section that the accused should be tried by a subordinate military court it shall refer the charge to the person appointed under section 82(5)(a).
+(b) deal with the case summarily and upon conviction of the accused, impose any one or all of the following punishments:
 
-[70
+(i) forfeiture of seniority of rank and forfeiture of all or part of service for purposes of promotion;
+
+(ii) a fine not exceeding a sum of $1,500; or
+
+(iii) reprimand.
+
+(6) In addition to or in lieu of any other punishment, the Senior Disciplinary Committee may order that the accused shall suffer any deduction from his ordinary pay authorised by this Act.
+
+(7) Where the Senior Disciplinary Committee considers under this section that the accused should be tried by a subordinate military court, it shall refer the charge to the person appointed under section 82(5)(a).
+
+(8) Where the Senior Disciplinary Committee has proceeded to deal with a case summarily under this section and is satisfied on the evidence as to the guilt of the accused, it shall, before proceeding to conviction and punishment other than a reprimand, afford the accused an opportunity of electing to be tried by a subordinate military court and if the accused so elects, the Senior Disciplinary Committee shall refer the charge to the person appointed under section 82(5)(a) who shall direct that a charge be submitted to the convening authority.
+
+(9) Every decision of the Senior Disciplinary Committee shall be in accordance with the opinion of the majority of the members dealing with the case.
+
+[Act 1 of 1994 wef 01/05/1994]
 
 ### Compensation
 
-73\.—(1) Where an accused is convicted by a disciplinary officer that officer may, in addition to any other punishment but subject to subsection (2), order the accused to pay compensation to the party who suffered damage or loss by reason of the offence.
+73\.—(1) Where an accused is convicted by a disciplinary officer or a Senior Disciplinary Committee, the disciplinary officer or Senior Disciplinary Committee may, in addition to any other punishment but subject to subsection (2), order the accused to pay compensation to the party who suffered damage or loss by reason of the offence.
 
-(2) The amount of compensation that may be ordered by a junior disciplinary officer shall not exceed a sum of $50 and the amount of compensation ordered by a senior disciplinary officer or a superior commander shall not exceed a sum of $100.
+[Act 1 of 1994 wef 01/05/1994]
+
+(2) The amount of compensation that may be ordered by a junior disciplinary officer shall not exceed a sum of $50 and the amount of compensation ordered by a senior disciplinary officer, a superior commander, the Chief of Defence Force or a Senior Disciplinary Committee shall not exceed a sum of $100.
+
+[Act 1 of 1994 wef 01/05/1994]
 
 [71
 
@@ -1632,11 +1714,25 @@ and such detention shall take effect from such date as the disciplinary officer 
 
 (2) Any substituted finding or sentence under subsection (1) shall be treated for all purposes as a finding or sentence of the disciplinary officer.
 
-(3) When servicemen are serving outside Singapore the powers under subsection (1) shall be exercised by an officer appointed by the Armed Forces Council.
+(3) In the case where servicemen are serving outside Singapore, the powers under subsection (1) shall be exercised —
 
-(4) When the Armed Forces Council has in any case quashed the finding, sentence, order of dismissal of a charge or award of compensation of a disciplinary officer under subsection (1)(a) it may refer the case to be retried by the same or another disciplinary officer.
+(a) in relation to any finding, sentence, order of dismissal of a charge or award of compensation of the Chief of Defence Force, by the Armed Forces Council, except that where the person for the time being holding the appointment of the Chief of Defence Force is the person who made the finding, sentence, order or award, he shall not sit as a member of the Armed Forces Council for the purposes of this paragraph; and
 
-[20/75]
+(b) in any other case, by an officer appointed by the Armed Forces Council.
+
+[Act 1 of 1994 wef 01/05/1994]
+
+(4) Where the Armed Forces Council has in any case quashed the finding, sentence, order of dismissal of a charge or award of compensation of a disciplinary officer under subsection (1)(a), it may —
+
+(a) refer the case to be retried —
+
+(i) where the disciplinary officer is the Chief of Defence Force, by the Chief of Defence Force or, if it is of the opinion that the case should not be retried by the Chief of Defence Force, by a Senior Disciplinary Committee; and
+
+(ii) in any other case, by the same or another disciplinary officer; or
+
+(b) if it is of the opinion that the case should be retried by a subordinate military court, refer the charge to the person appointed under section 82(5)(a).
+
+[Act 1 of 1994 wef 01/05/1994]
 
 (5) The Armed Forces Council may at any time suspend the execution of any sentence passed by a disciplinary officer for such period as it thinks fit.
 
@@ -1646,7 +1742,9 @@ and such detention shall take effect from such date as the disciplinary officer 
 
 ### Inapplicability of law of evidence
 
-76\. A disciplinary officer shall not be bound by the laws of evidence and shall act in such manner as seems to him most expedient for the disposal of the charge.
+76\. A disciplinary officer or a Senior Disciplinary Committee shall not be bound by the laws of evidence and shall act in such manner as seems to him or it most expedient for the disposal of the charge.
+
+[Act 1 of 1994 wef 01/05/1994]
 
 [74
 
@@ -1668,9 +1766,7 @@ and such detention shall take effect from such date as the disciplinary officer 
 
 (a) if he has been released or discharged within 6 months after the commission of the offence, after the expiry of 3 years from the date of the commission of the offence;
 
-(b) if he is an operationally ready national serviceman at the time of the commission of the offence, after the expiry of 3 years from that time;
-
-[Act 20 of 1994 wef 01/12/1994]
+(b) if he is a reservist at the time of the commission of the offence, after the expiry of 3 years from that time;
 
 (c) in any other case, after the expiry of 6 months from the date of the commission of the offence.
 
@@ -1702,15 +1798,9 @@ and in this Act when these courts are collectively referred to they are called s
 
 ### Constitution of a general court martial
 
-81\.—(1) Subject to subsection (2A), every general court martial shall have jurisdiction to try any person subject to military law for any offence under this Act and to award for any such offence any punishment authorised by this Act.
-
-[Act 20 of 1994 wef 01/12/1994]
+81\.—(1) Every general court martial shall have jurisdiction to try any person subject to military law for any offence under this Act and to award for any such offence any punishment authorised by this Act.
 
 (2) Every general court martial shall consist of not less than 3 officers, or any other uneven number of officers of whom not less than two shall be of a rank not below that of captain; and the minimum number mentioned in this subsection shall be the legal minimum for a general court martial.
-
-(2A) A general court martial constituted for the trial of a non-uniformed serviceman may include, in place of the corresponding number of officers, not more than two non-uniformed servicemen in officer grades.
-
-[Act 20 of 1994 wef 01/12/1994]
 
 (3) The president of a general court martial shall be an officer of or above the rank of major and shall be appointed by the convening authority.
 
@@ -1740,7 +1830,9 @@ and in this Act when these courts are collectively referred to they are called s
 
 (5) The Armed Forces Council may appoint —
 
-(a) a qualified person to be responsible for legal matters in the Singapore Armed Forces who shall be called the Head of Legal Services of the Singapore Armed Forces;
+(a) a qualified person to be responsible for legal matters in the Singapore Armed Forces who shall be called the Director, Legal Services of the Singapore Armed Forces;
+
+[Act 1 of 1994 wef 01/05/1994]
 
 (b) military prosecutors who shall wherever practicable be qualified persons; and
 
@@ -1878,9 +1970,7 @@ Provided that a Judge of the Supreme Court acting as president of a subordinate 
 
 (6) An accused charged before a subordinate military court, with desertion may be found guilty of being absent without leave.
 
-(7) An accused charged before a subordinate military court, with striking an officer superior in rank or appointment may be found guilty of using or offering violence to his superior officer.
-
-[Act 20 of 1994 wef 01/12/1994]
+(7) An accused charged before a subordinate military court, with striking an officer superior in rank may be found guilty of using or offering violence to his superior officer.
 
 (8) An accused charged before a subordinate military court, with using violence may be found guilty of offering violence.
 
@@ -1944,7 +2034,9 @@ Provided that a Judge of the Supreme Court acting as president of a subordinate 
 
 ### Application of the Criminal Procedure Code
 
-94\.—(1) Without prejudice to section 93 of this Act, sections 158 to 178, 224 (other than paragraph (d) thereof), 225, 227 to 230, 232, 233, 239, 240, 307 to 319, 331 to 333, 350 to 362, 364, 366 to 388, 390 to 396, 398 and 399 to 403 of the Criminal Procedure Code [Cap. 68] shall, in so far as they are not inconsistent with the provisions of this Act, or any regulations made thereunder, apply mutatis mutandis to proceedings before and punishments awarded by subordinate military courts.
+94\.—(1) Without prejudice to section 93 of this Act, sections 158 to 178, 224 (other than paragraph (d) thereof), 225, 227 to 230, 232, 233, 239, 240, 307 to 319, 331 to 333, 364, 366 to 388, 390 to 396, 398 and 399 to 403 of the Criminal Procedure Code [Cap. 68] shall, in so far as they are not inconsistent with the provisions of this Act, or any regulations made thereunder, apply mutatis mutandis to proceedings before and punishments awarded by subordinate military courts.
+
+[Act 1 of 1994 wef 01/05/1994]
 
 [20/75]
 
@@ -1978,7 +2070,7 @@ Provided that a Judge of the Supreme Court acting as president of a subordinate 
 
 ### Military documents as evidence
 
-98\.—(1) Any document, purporting to be signed by an officer in the course of his duty and containing particulars regarding the matters enumerated below, shall be prima facie evidence of such particulars —
+98\.—(1) Any document, purporting to be signed by an officer or a warrant officer in the course of his duty and containing particulars regarding the matters enumerated below, shall be prima facie evidence of such particulars —
 
 (a) service in the Singapore Armed Forces, including dates of enlistment and discharge;
 
@@ -1997,6 +2089,8 @@ Provided that a Judge of the Supreme Court acting as president of a subordinate 
 (h) matters relating to custody, including time, date and place;
 
 (i) the service of a summons or convening order.
+
+[Act 1 of 1994 wef 01/05/1994]
 
 (2) A copy of general orders or of any official publication, document, certificate or form certified by the Armed Forces Council as general orders, official publication, document, certificate or form for the purpose of this section, shall be conclusive evidence of its contents.
 
@@ -2136,13 +2230,23 @@ Supplementary provisions as to trial
 
 ### Limitation of time for trial of offences
 
-111\.—(1) A person shall not in pursuance of this Act be tried or punished for any offence triable under this Act committed more than 3 years before the date at which his trial begins, except in the case of the offence of misconduct in action, assisting the enemy, mutiny, absence without leave or desertion; but this section shall not affect the jurisdiction of a civil court in the case of any offence triable by such court.
+111\.—(1) Subject to subsection (2), no person shall in pursuance of this Act be tried for any offence triable under this Act unless the trial is begun within 3 years after —
 
-[Act 1 of 1991 wef 01/04/1991]
+(a) the date on which the offence was committed; or
 
-(2) Where a serviceman has served continuously in an exemplary manner for not less than 3 years in the Singapore Armed Forces he shall not be tried for the offence of desertion (other than desertion on active service), if that offence was committed before the commencement of the 3 years referred to in subsection (1).
+(b) the date on which information relating to the commission of that offence was reported to a disciplinary officer having jurisdiction over the accused or to a military policeman,
 
-[107
+whichever date is the later.
+
+(2) This section shall not apply to a trial for the offence of misconduct in action, assisting the enemy, mutiny, absence without leave or desertion.
+
+(3) For the purpose of this section, the trial of any person by a subordinate military court for any offence shall begin when he appears or is brought before a subordinate military court for the first time in connection with the offence, notwithstanding the fact that the subordinate military court before which he appears or is brought for the first time may for any reason, adjourn or postpone the trial, and another subordinate military court is convened to try him for the offence.
+
+(4) Where a serviceman has served continuously in an exemplary manner for not less the 3 years in the Singapore Armed Forces, he shall not be tried for the offence of desertion (other than desertion on active service), if that offence was committed more than 3 years before the trial is begun.
+
+(5) Nothing in this section shall affect the jurisdiction of a civil court in the case of any offence triable by such court.
+
+[Act 1 of 1994 wef 01/05/1994]
 
 ### Trial of civil offences
 
@@ -2216,13 +2320,17 @@ the president of the subordinate military court may certify the offence of that 
 
 ### Evidence of civil conviction or acquittal
 
-114\. Whenever any person subject to military law has been tried by any civil court, the Registrar or clerk of the court or his deputy, or other officer having the custody of the records of that court, shall, if required by the commanding officer of such person, or by any other officer, transmit to him a certificate setting forth the offence for which the person was tried, together with the judgment or order of the court thereon, or if he was acquitted, the acquittal. Any such certificate shall be sufficient evidence of the conviction and sentence or of the order of the court or of the acquittal of the prisoner, as the case may be.
+114\. Whenever any person subject to military law has been tried by any civil court, the Registrar or clerk of the court or his deputy, or other officer or warrant officer having the custody of the records of that court, shall, if required by the commanding officer of such person, or by any other officer, transmit to him a certificate setting forth the offence for which the person was tried, together with the judgment or order of the court thereon, or if he was acquitted, the acquittal. Any such certificate shall be sufficient evidence of the conviction and sentence or of the order of the court or of the acquittal of the prisoner, as the case may be.
+
+[Act 1 of 1994 wef 01/05/1994]
 
 [110
 
 ### Evidence of conviction of subordinate military court
 
-115\. The original proceedings of a subordinate military court purporting to be signed by the president thereof and being in the custody of an officer thereof shall be deemed to be of such a public nature as to be admissible in evidence on their mere production from such custody; and any copy purporting to be certified by the officer to be a true copy of such proceedings or of any part thereof, shall be admissible in evidence without proof of the signature of the president of the subordinate military court.
+115\. The original proceedings of a subordinate military court purporting to be signed by the president thereof and being in the custody of an officer thereof or the Registrar shall be deemed to be of such a public nature as to be admissible in evidence on their mere production from such custody; and any copy purporting to be certified by an officer, a warrant officer or the Registrar to be a true copy of such proceedings or of any part thereof, shall be admissible in evidence without proof of the signature of the president of the subordinate military court.
+
+[Act 1 of 1994 wef 01/05/1994]
 
 [111
 
@@ -2307,7 +2415,9 @@ Punishments
 
 (f) detention for a term not exceeding 2 years;
 
-(g) reduction in rank except that an officer shall not be reduced below the rank of second lieutenant;
+(g) reduction in rank except that an officer shall not be reduced below the rank of second lieutenant and a warrant officer shall not be reduced below the rank of second warrant officer;
+
+[Act 1 of 1994 wef 01/05/1994]
 
 (h) forfeiture of seniority of rank and forfeiture of all or any part of his service for purposes of promotion;
 
@@ -2327,11 +2437,15 @@ and references in this Act to any punishment provided by this Act are, subject t
 
 (3) A person sentenced to death by a subordinate military court shall also be sentenced to discharge with ignominy.
 
-(4) (a) An officer sentenced by a subordinate military court to imprisonment or special detention in a disciplinary barrack or detention shall also be sentenced to discharge with ignominy but if the subordinate military court fails to give effect to this subsection the sentence shall not be invalid but shall be deemed to include a sentence of discharge with ignominy from the Singapore Armed Forces.
+(4) (a) An officer or a warrant officer sentenced by a subordinate military court to imprisonment or special detention in a disciplinary barrack or detention shall also be sentenced to discharge with ignominy but if the subordinate military court fails to give effect to this subsection the sentence shall not be invalid but shall be deemed to include a sentence of discharge with ignominy from the Singapore Armed Forces.
+
+[Act 1 of 1994 wef 01/05/1994]
 
 [20/75]
 
-(b) A soldier sentenced by a subordinate military court to imprisonment or special detention in a disciplinary barrack or detention may also be sentenced to discharge with ignominy.
+(b) A soldier other than a warrant officer sentenced by a subordinate military court to imprisonment or special detention in a disciplinary barrack or detention may also be sentenced to discharge with ignominy.
+
+[Act 1 of 1994 wef 01/05/1994]
 
 (5) A discharge with ignominy under this section shall not affect the liability of any person to perform national service under the Enlistment Act [Cap. 93].
 
@@ -2371,15 +2485,11 @@ and any such fine may, if the court orders, be paid by instalment to be deducted
 
 [20/75]
 
-(16) Notwithstanding anything in this Act where an operationally ready national serviceman has been convicted of an offence under section 17, 19, 25 or 26 the court, if it is satisfied on the facts of the particular offence that the operationally ready national serviceman by his behaviour, conduct or deportment has shown himself during the period of operationally ready national service referred to in section 14(1)(b) of the Enlistment Act [Cap. 93] that he is not responsive or amenable to military discipline, may, in lieu of awarding the punishment prescribed by the section upon which he has been convicted or any less punishment authorised by this Act, require the operationally ready national serviceman, in addition to his liability under section 14 of the Enlistment Act, to serve for such further period or periods of operationally ready national service not exceeding 12 months in the aggregate as it may, in the circumstances of each particular case, decide.
+(16) Notwithstanding anything in this Act where a reservist has been convicted of an offence under section 17, 19, 25 or 26 the court, if it is satisfied on the facts of the particular offence that the reservist by his behaviour, conduct or deportment has shown himself during the period of reserve service referred to in section 14(b) of the Enlistment Act [Cap. 93] that he is not responsive or amenable to military discipline, may, in lieu of awarding the punishment prescribed by the section upon which he has been convicted or any less punishment authorised by this Act, require the reservist, in addition to his liability under section 14 of the Enlistment Act, to serve for such further period or periods of reserve service not exceeding 12 months in the aggregate as it may, in the circumstances of each particular case, decide.
 
 [20/75]
 
-[Act 20 of 1994 wef 01/12/1994]
-
-(17) The court shall award the punishment referred to in subsection (16) only where it is satisfied that the operationally ready national serviceman is fit for operationally ready national service and considers that it is in the best interests of the Singapore Armed Forces that the operationally ready national serviceman should render a further period of operationally ready national service.
-
-[Act 20 of 1994 wef 01/12/1994]
+(17) The court shall award the punishment referred to in subsection (16) only where it is satisfied that the reservist is fit for reserve service and considers that it is in the best interests of the Singapore Armed Forces that the reservist should render a further period of reserve service.
 
 (18) For the purposes of this Part, the punishment specified in subsection (16) shall be treated as a less punishment than that specified in subsection (1)(e) and shall be treated as a sentence imposed by a court for purposes of review and appeal under this Act.
 
@@ -2591,13 +2701,15 @@ Provided that the Military Court of Appeal may, on the application of any party 
 
 [123
 
-### Bail
+### Bail pending appeal
 
-130\. A subordinate military court may grant bail to any person who has lodged a notice of appeal against his conviction in accordance with section 129.
+130\. A subordinate military court may grant bail to any person who has lodged a notice of appeal against his conviction or sentence in accordance with section 129.
 
 [124
 
 [20/75]
+
+[Act 1 of 1994 wef 01/05/1994]
 
 ### Delivery of notice of appeal
 
@@ -3075,7 +3187,9 @@ Investigations
 
 177\. The following persons may, subject to section 178, serve as investigating officers:
 
-(a) any officer appointed in writing by a senior disciplinary officer or a superior commander to investigate a military offence; and
+(a) any officer or warrant officer appointed in writing by a senior disciplinary officer or a superior commander to investigate a military offence; and
+
+[Act 1 of 1994 wef 01/05/1994]
 
 (b) any military policeman.
 
@@ -3083,7 +3197,13 @@ Investigations
 
 ### Restriction on powers of investigating officers
 
-178\.—(1) An investigating officer appointed under section 177(a) may only conduct an investigation where there is reason to believe that a military offence specified in the Schedule has been committed.
+178\.—(1) An officer appointed as an investigating officer under section 177(a) may only conduct an investigation where there is reason to believe that a military offence specified in the Schedule has been committed.
+
+[Act 1 of 1994 wef 01/05/1994]
+
+(1A) A warrant officer appointed as an investigating officer under section 177(a) may only conduct an investigation where there is reason to believe that a military offence specified in the Schedule has been committed by a soldier who is below the rank of warrant officer.
+
+[Act 1 of 1994 wef 01/05/1994]
 
 (2) A military policeman may conduct an investigation where there is reason to believe that any offence involving persons subject to military law has been committed.
 
@@ -3109,7 +3229,9 @@ Investigations
 
 (2) Where an investigation into an offence involving persons subject to military law, that is not committed on active service, is completed the investigating officer —
 
-(a) if he is an officer appointed under section 177(a) shall forward the investigation material obtained pursuant to the exercise of his powers under subsection (1) to the senior disciplinary officer or superior commander who appointed him to investigate the offence who shall thereupon cause the matter to be dealt with in accordance with the provisions of Part IV;
+(a) if he is an officer or a warrant officer appointed under section 177(a) shall forward the investigation material obtained pursuant to the exercise of his powers under subsection (1) to the senior disciplinary officer or superior commander who appointed him to investigate the offence who shall thereupon cause the matter to be dealt with in accordance with the provisions of Part IV;
+
+[Act 1 of 1994 wef 01/05/1994]
 
 (b) if he is a military policeman shall forward the investigation material obtained pursuant to the exercise of his powers under subsection (1) to the person appointed under section 82(5)(a) who shall, if he is of the opinion that the investigation material discloses sufficient evidence to connect a person subject to military law with the commission of an offence, direct a military prosecutor to frame a charge and submit the charge to a disciplinary officer for summary trial under Part IV or to the convening authority for trial by a subordinate military court.
 
@@ -3273,17 +3395,25 @@ PAY
 
 (ii) for every day of imprisonment, corrective training, preventive detention, reformative training or detention of any other description, to which he is liable in consequence of an order or sentence of a civil court or order of the civil power;
 
-(iii) for every day of imprisonment, special detention in a disciplinary barrack, detention or field punishment awarded by a subordinate military court or detention awarded by a disciplinary officer and for every day while a serviceman is under close arrest or civil custody on a charge for an offence of which he is afterwards convicted by a subordinate military court or a civil court, or by a disciplinary officer or the Armed Forces Council;
+(iii) for every day of imprisonment, special detention in a disciplinary barrack, detention or field punishment awarded by a subordinate military court or detention awarded by a disciplinary officer and for every day while a serviceman is under close arrest or civil custody on a charge for an offence of which he is afterwards convicted by a subordinate military court or a civil court, or by a disciplinary officer or the Senior Disciplinary Committee;
+
+[Act 1 of 1994 wef 01/05/1994]
 
 (b) all ordinary pay for every day on which he is in hospital on account of sickness certified by the proper medical officer attending on him at the hospital to have been caused by an offence under this Act committed by him;
 
-(c) the sum required to make good such compensation for any expenses, loss, damage or destruction occasioned by the commission of any offence as may be awarded by a subordinate military court by whom he is convicted of such offence or by a disciplinary officer dealing summarily with a charge under this Act;
+(c) the sum required to make good such compensation for any expenses, loss, damage or destruction occasioned by the commission of any offence as may be awarded by a subordinate military court by whom he is convicted of such offence or by a disciplinary officer or Senior Disciplinary Committee dealing summarily with a charge under this Act;
 
-(d) the sum required to make good such compensation for any expenses caused by him, or for any loss of or damage or destruction done by him to any arms, equipment, clothing, instruments, or regimental necessaries or military decoration, or to any buildings or property, as may be awarded by the disciplinary officer dealing summarily with a charge under this Act or, in case he requires to be tried by a subordinate military court, by that court;
+[Act 1 of 1994 wef 01/05/1994]
+
+(d) the sum required to make good such compensation for any expenses caused by him, or for any loss of or damage or destruction done by him to any arms, equipment, clothing, instruments, or regimental necessaries or military decoration, or to any buildings or property, as may be awarded by the disciplinary officer or Senior Disciplinary Committee dealing summarily with a charge under this Act or, in case he requires to be tried by a subordinate military court, by that court;
+
+[Act 1 of 1994 wef 01/05/1994]
 
 (e) the share he is required to contribute as belonging to a unit towards compensation for barrack damage which after due investigation, to be held in the manner provided by regulations made under this Act, appears to have been occasioned by the wilful act or negligence of a person or persons who cannot be identified, belonging to the unit, during the period while such unit was in occupation; for the purposes of this paragraph, “barrack damage” means damage to or loss or destruction of any premises in which servicemen are quartered or billeted, or any appurtenances, fixtures, furniture or effects therein or appertaining thereto, and “unit” includes any part of a unit;
 
-(f) the sum required to pay a fine awarded by a subordinate military court or by a disciplinary officer, or any fine, penalty, damages, compensation, or costs which a civil court before which he has been charged with an offence has ordered him to pay; and
+(f) the sum required to pay a fine awarded by a disciplinary officer, a Senior Disciplinary Committee, a subordinate military court or the Military Court of Appeal, or any fine, penalty, damages, compensation, or costs which a civil court before which he has been charged with an offence has ordered him to pay;
+
+[Act 1 of 1994 wef 01/05/1994]
 
 (g) the sum required to pay for the maintenance of his wife or child, or of any illegitimate child, or towards the cost of any relief given by way of loan to his wife or child:
 
@@ -3345,15 +3475,21 @@ Provided that —
 
 197\.—(1) Without prejudice to section 19 of the Financial Procedure Act [Cap. 109] —
 
-(a) where during or at the conclusion of a trial by a disciplinary officer or subordinate military court, the disciplinary officer or subordinate military court —
+(a) where during or at the conclusion of a trial by a disciplinary officer, Senior Disciplinary Committee or subordinate military court, the disciplinary officer, Senior Disciplinary Committee or subordinate military court —
 
-(i) makes an order under section 69(2), 70(2) or 118(1)(j), as the case may be, for a deduction of the pay of a serviceman to be made as or towards compensation for part of any loss or deficiency of property which was caused by the offence for which the trial is being held;
+(i) makes an order under section 69(2), 70 (2), 70A (2), 72 (6) or 118 (1)(j), as the case may be, for a deduction of the pay of a serviceman to be made as or towards compensation for part of any loss or deficiency of property which was caused by the offence for which the trial is being held;
+
+[Act 1 of 1994 wef 01/05/1994]
 
 (ii) makes an order under section 73 or 118(13), as the case may be, for the payment of such compensation; or
 
 (iii) does not make any order for such deduction to be made as or towards compensation for such loss or deficiency of property or part thereof or for the payment of such compensation;
 
-(b) where there is any loss or deficiency of property which was caused by the commission of an offence disclosed in a charge which has been dealt with by the Armed Forces Council under section 72;
+[Act 1 of 1994 wef 01/05/1994]
+
+(b) where there is any loss or deficiency of property which was caused by the commission of an offence disclosed in a charge which has been dealt with by a Senior Disciplinary Committee under section 72;
+
+[Act 1 of 1994 wef 01/05/1994]
 
 (c) where upon the determination of an appeal, the Military Court of Appeal —
 
@@ -3389,13 +3525,15 @@ the Armed Forces Council may write off the loss or deficiency or such part there
 
 “property” means public money or other public property in the possession or under the charge of the Singapore Armed Forces.
 
-(5) Where the Armed Forces Council has, pursuant to section 8(3), appointed a committee to exercise the powers conferred upon it —
+(5) Where the Armed Forces Council has, pursuant to section 8C(1), appointed a committee to exercise the powers conferred upon it —
 
-(a) by section 72 in relation to an officer of or above the rank of lieutenant-colonel, a reference to a charge dealt with by the Armed Forces Council in subsection (1)(b) shall be construed as a reference to a charge dealt with by the committee;
+(a) [Deleted by Act 1 of 1994 wef 01/05/1994]
 
 (b) by section 75(1) in relation to a serviceman, who is serving in Singapore, a reference to an order made or quashed by the Armed Forces Council in subsection (1)(d) in respect of that serviceman shall be construed as a reference to an order made or quashed by the committee; or
 
 (c) by section 193(2) in relation to a serviceman, a reference to an order made by the Armed Forces Council in subsection (1)(e) in respect of that serviceman shall be construed as a reference to an order made by the committee.
+
+[Act 1 of 1994 wef 01/05/1994]
 
 (6) Where the Armed Forces Council has —
 
@@ -3469,10 +3607,6 @@ MISCELLANEOUS
 
 (b) ranks of servicemen;
 
-(ba) service grades of regular servicemen in the non-uniformed service (NUSAF), including the designation of grades as officer grades;
-
-[Act 20 of 1994 wef 01/12/1994]
-
 (c) powers of commanders;
 
 (d) powers of disciplinary officers;
@@ -3516,14 +3650,6 @@ MISCELLANEOUS
 (ta) the appointment, release, discharge and terms and conditions of service of volunteers;
 
 [Act 1 of 1991 wef 01/04/1991]
-
-(tb) the exclusion or variation of the operation of the provisions of the Act in relation to non-uniformed servicemen;
-
-[Act 20 of 1994 wef 01/12/1994]
-
-(tc) in relation to any rank referred to in any provision of the Act, the designation of a corresponding service grade in the non-uniformed service for the purpose of that provision;
-
-[Act 20 of 1994 wef 01/12/1994]
 
 (u) all other matters which the Armed Forces Council considers necessary or expedient for the purposes of this Act.
 
@@ -3615,3 +3741,8 @@ This Legislative History is provided for the convenience of users of the Singapo
 |||(Bill No. 2/1991 published on 4 January 1991)|
 ||Date of Second and Third Readings|14 January 1991|
 ||Date of commencement|1 April 1991|
+|6.|**Act 1 of 1994—Singapore Armed Forces (Amendment) Act 1994**|
+||Date of First Reading|13 January 1994|
+|||(Bill No. 1/1994 published on 14 January 1994)|
+||Date of Second and Third Readings|23 February 1994|
+||Date of commencement|1 May 1994 (except sections 28 and 29 (e))|
