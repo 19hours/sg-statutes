@@ -2294,7 +2294,15 @@ Specified Acts Relating to Self-employed Persons
 
 34\. Telecommunication Authority of Singapore Act (Cap. 323).
 
-35\. Water Pollution Control and Drainage Act (Cap. 348).
+35\. Environmental Pollution Control Act 1999 (Act 9/99).
+
+35.
+
+[S 520/99 wef 29/11/1999]
+
+36. Sewerage and Drainage Act 1999 (Act 10/99).
+
+[S 520/99 wef 29/11/1999]
 
 ## LEGISLATIVE HISTORY
 
@@ -2649,3 +2657,9 @@ This Legislative History is provided for the convenience of users of the Central
 |||(Bill No. 4/99 published on 21 January 1999)|
 ||Date of Second and Third Readings|11 February 1999|
 ||Date of commencement|1 March 1999|
+|103.|**Act 4 of 1999—Building and Construction Authority Act 1999**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|23 November 1998|
+|||(Bill No. 51/98 published on 24 November 1998)|
+||Date of Second and Third Readings|20 January 1999|
+||Date of commencement|1 April 1999|
