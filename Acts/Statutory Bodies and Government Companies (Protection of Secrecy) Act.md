@@ -114,6 +114,10 @@ Info-communications Development Authority of Singapore Act 1999.
 
 Inland Revenue Authority of Singapore Act (Chapter 138A)
 
+8A. Intellectual Property Office of Singapore
+
+Intellectual Property Office of Singapore Act 2001.
+
 9. Jurong Town Corporation
 
 Jurong Town Corporation Act (Chapter 150)
@@ -165,6 +169,8 @@ Urban Redevelopment Authority Act (Chapter 340)
 [9/2000 wef 15/03/2000]
 
 [41/99 wef 01/12/1999]
+
+[3/2001 wef 01/04/2001]
 
 Part II
 
@@ -299,3 +305,15 @@ This Legislative History is provided for the convenience of users of the Statuto
 |||(Bill No. 1/2000 published on 18 January 2000)|
 ||Date of Second and Third Readings|21 February 2000|
 ||Date of commencement|15 March 2000|
+|26.|**Act 3 of 2001—Intellectual Property Office of Singapore Act 2001**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|12 January 2001|
+|||(Bill No. 1/2001 published on 13 January 2001)|
+||Date of Second and Third Readings|22 February 2001|
+||Date of commencement|1 April 2001|
+|27.|**Act 8 of 2001—Public Utilities Act 2001**|
+||(Referential amendments made to Act by)||
+||Date of First Reading|22 February 2001|
+|||(Bill No. 7/2001 published on 23 February 2001)|
+||Date of Second and Third Readings|16 March 2001|
+||Date of commencement|1 April 2001|
