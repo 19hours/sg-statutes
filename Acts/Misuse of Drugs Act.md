@@ -1975,3 +1975,5 @@ This Legislative History is provided for the convenience of users of the Misuse 
 ||Date of commencement|15 February 1990|
 |17.|**G. N. No. S 564/1991—Misuse of Drugs (Amendment of First Schedule) Order 1991**|
 ||Date of commencement|2 January 1992|
+|18.|**G. N. No. S 66/1992—Misuse of Drugs Act (Amendment of First Schedule) Order 1992**|
+||Date of commencement|1 March 1992|
