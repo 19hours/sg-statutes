@@ -244,8 +244,6 @@ PRELIMINARY
 
 (d) the conversion or transfer, by a person, of any property referred to in paragraph (c) or the removal of such property from the jurisdiction;
 
-“customs officer” has the same meaning as in the Customs Act (Cap. 70);
-
 “dealing with property” is to be construed in accordance with section 16(7);
 
 “defendant” means a person against whom proceedings have been instituted for a drug trafficking offence or a serious offence, as the case may be, or offences whether or not he has been convicted thereof;
@@ -292,11 +290,7 @@ PRELIMINARY
 
 (d) the holder of a capital markets services licence under the Securities and Futures Act 2001;
 
-[42/2001 wef 01/10/2002]
-
 (e) a licensed financial adviser under the Financial Advisers Act 2001;
-
-[42/2001 wef 01/10/2002]
 
 (f) a company or society registered under the Insurance Act (Cap. 142) as a direct insurer carrying on life business;
 
@@ -323,6 +317,10 @@ but excludes a money-changer licensed to conduct money-changing business and a r
 “material” includes any book, document or other record in any form, and any container or article relating thereto;
 
 “Monetary Authority of Singapore” means the Monetary Authority of Singapore established under section 3 of the Monetary Authority of Singapore Act (Cap. 186);
+
+“officer of customs” has the same meaning as in the Customs Act (Cap. 70);
+
+[4/2003 wef 01/04/2003]
 
 “officer of the Bureau” means the Director or any officer of the Central Narcotics Bureau appointed under section 3 of the Misuse of Drugs Act (Cap. 185);
 
@@ -2210,7 +2208,7 @@ giving the substance and effect of the charge and of the conviction or acquittal
 
 ### Powers of arrest and investigations
 
-55\.—(1) An authorised officer or a customs officer may arrest without warrant any person whom he reasonably believes has committed an offence under this Act or the regulations made thereunder.
+55\.—(1) An authorised officer or an officer of customs may arrest without warrant any person whom he reasonably believes has committed an offence under this Act or the regulations made thereunder.
 
 [4/2003 wef 01/04/2003]
 
@@ -3143,6 +3141,12 @@ This Legislative History is provided for the convenience of users of the Corrupt
 |||(Bill No. 33/2001 published on 26 September 2001)|
 ||Date of Second and Third Readings|5 October 2001|
 ||Dates of commencement|1 October 2002 (item (5) of the Fourth Schedule)|
+|11.|**Act 4 of 2003—Customs (Amendment) Act 2003**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|10 March 2003|
+|||(Bill No. 6/2003 published on 11 March 2003)|
+||Date of Second and Third Readings|21 March 2003|
+||Date of commencement|1 April 2003|
 ## COMPARATIVE TABLE
 
 Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act
