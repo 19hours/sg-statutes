@@ -18,7 +18,7 @@
 
 - [6 Contingencies Fund](#Contingencies-Fund)
 
-[**THE SCHEDULE Purposes to which Development Fund may be applied**](#THE-SCHEDULE)
+[**THE SCHEDULE Purposes to Which the Development Fund May be Applied**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -92,9 +92,9 @@ An Act to define the purposes of and to regulate the Development Fund and to pro
 
 ## THE SCHEDULE
 
-Section 3
+Section 3.
 
-Purposes to which Development Fund may be applied
+Purposes to Which the Development Fund May be Applied
 
 1\. The construction, improvement, extension, enlargement and replacement of buildings and works and the provision, acquisition, improvement and replacement of other capital assets (including vehicles, vessels, aircraft, rolling-stock, machinery, instruments and equipment) required in respect of or in connection with the economic development or general welfare of Singapore.
 
@@ -106,7 +106,7 @@ Purposes to which Development Fund may be applied
 
 5\. The payment of any charges or expenses incidental to or arising out of depreciation or losses on investments of moneys in the Development Fund.
 
-6\. Grants and loans to, or other investment in, any public authority, or any other corporation or body, for any one or more of the purposes referred to in paragraphs 1 to 4.
+6\. Grants and loans to any public authority, or any other corporation or body, for any one or more of the purposes referred to in paragraphs 1 to 4.
 
 ## LEGISLATIVE HISTORY
 
@@ -137,5 +137,10 @@ This Legislative History is provided for the convenience of users of the Develop
 |||(Bill No. 4/91 published on 4 January 1991)|
 ||Date of Second and Third Readings|14 January 1991|
 ||Date of commencement|30 November 1991|
-|6.|**1995 Revised Edition—Development Fund Act**|
+|6.|**1995 Revised Edition—Development Fund Act (Chapter 80)**|
 ||Date of operation|15 March 1995|
+|7.|**Act 6 of 2000—Developmental Investment Fund Act 2000**|
+||Date of First Reading|17 January 2000|
+|||(Bill No. 4/2000 published on 18 January 2000)|
+||Date of Second and Third Readings|22 February 2000|
+||Date of commencement|1 April 2000|
