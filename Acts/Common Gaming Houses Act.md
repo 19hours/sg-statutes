@@ -46,7 +46,7 @@
 
 - [20 Examination of offenders](#Examination-of-offenders)
 
-- [21 Professional gamblers not being citizens of Singapore may be banished by order of President](#Professional-gamblers-not-being-citizens-of-Singapore-may-be-banished-by-order-of-President)
+- [21 Professional gamblers not being citizens of Singapore may be banished by order of Minister](#Professional-gamblers-not-being-citizens-of-Singapore-may-be-banished-by-order-of-Minister)
 
 - [22 Jurisdiction of courts](#Jurisdiction-of-courts)
 
@@ -326,11 +326,13 @@ Provided that the name and address of the person giving the information are know
 
 [19
 
-### Professional gamblers not being citizens of Singapore may be banished by order of President
+### Professional gamblers not being citizens of Singapore may be banished by order of Minister
 
-21\. If at any time it appears to the President that any person not being a citizen of Singapore is a professional gambler or is engaged in the promotion of public gaming, he may issue an order banishing that person from Singapore for such period and generally in such manner as to the President seems expedient, and upon the issuing of the order the like consequences shall ensue in all respects as though the order had been issued under the powers conferred by the Banishment Act [Cap. 18].
+21\. If at any time it appears to the Minister that any person not being a citizen of Singapore is a professional gambler or is engaged in the promotion of public gaming, he may issue an order banishing that person from Singapore for such period and generally in such manner as to the Minister seems expedient, and upon the issuing of the order the like consequences shall ensue in all respects as though the order had been issued under the powers conferred by the Banishment Act [Cap. 18].
 
 [20
+
+[7/1997 wef 01/10/1997]
 
 ### Jurisdiction of courts
 
@@ -388,3 +390,8 @@ This Legislative History is provided for the convenience of users of the Common 
 ||Date of commencement|25 February 1986|
 |6.|**1985 Revised Edition—Common Gaming Houses Act**|
 ||Date of operation|30 March 1987|
+|7.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
+||Date of First Reading|11 July 1997|
+|||(Bill No. 6/1997 published on 12 July 1997)|
+||Date of Second and Third Readings|25 August 1997|
+||Date of commencement|1 October 1997|
