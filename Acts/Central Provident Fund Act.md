@@ -2492,17 +2492,9 @@ An amount equal to the sum of —
 
 (8A) Energy Market Authority of Singapore.
 
-[S 313/2001 wef 01/04/2001]
-
 (8A8B) Health Promotion Board.
 
-[S 167/2001 wef 01/04/2001]
-
-[S 313/2001 wef 01/04/2001]
-
 (8C) Health Sciences Authority.
-
-[S 313/2001 wef 01/04/2001]
 
 (9) Housing and Development Board.
 
@@ -2515,8 +2507,6 @@ An amount equal to the sum of —
 (13) Institute of Technical Education, Singapore.
 
 (13A) Intellectual Property Office of Singapore.
-
-[3/2001 wef 01/04/2001]
 
 (14) Jurong Town Corporation.
 
@@ -2559,6 +2549,10 @@ An amount equal to the sum of —
 (33) Singapore Broadcasting Authority.
 
 (34) Singapore Corporation of Rehabilitative Enterprises.
+
+(34A) Singapore Land Authority.
+
+[17/2001 wef 01/06/2001]
 
 (35) Singapore Productivity and Standards Board.
 
@@ -3144,6 +3138,12 @@ This Legislative History is provided for the convenience of users of the Central
 ||Date of commencement|1 April 2001|
 |118.|**G.N. No. S 313/2001—Central Provident Fund Act (Amendment of First Schedule) (No. 2) Notification 2001**|
 ||Date of commencement|1 April 2001|
+|119.|**Act 17 of 2001—Singapore Land Authority Act 2001**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|5 March 2001|
+|||(Bill No. 17/2001 published on 7 March 2001)|
+||Date of Second and Third Readings|19 April 2001|
+||Date of commencement|1 June 2001|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
