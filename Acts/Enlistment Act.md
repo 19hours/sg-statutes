@@ -396,7 +396,7 @@ DUTY OF EMPLOYER
 
 (a) to report for or actually perform full-time service, operationally ready national service or mobilised service; or
 
-(b) to report for mobilised service under section 65 of the Police Force Act (Cap. 235),
+(b) to report for mobilised service under section 73 or 97 of the Police Force Act 2004,
 
 shall reinstate that person in his employment at the termination of such service.
 
@@ -422,7 +422,7 @@ shall reinstate that person in his employment at the termination of such service
 
 (a) service under this Act;
 
-(b) mobilised service under section 65 of the Police Force Act (Cap. 235); or
+(b) mobilised service under section 73 of the Police Force Act 2004; or
 
 (c) voluntary service in the division of the Singapore Armed Forces known as the People’s Defence Force under the Singapore Armed Forces Act (Cap. 295) or in the Special Constabulary under the Police Force Act,
 
@@ -448,7 +448,7 @@ unless that person —
 
 (a) national service;
 
-(b) mobilised service under section 65 of the Police Force Act; or
+(b) mobilised service under section 73 of the Police Force Act 2004; or
 
 (c) voluntary service in the division of the Singapore Armed Forces known as the People’s Defence Force under the Singapore Armed Forces Act (Cap. 295) or in the Special Constabulary under the Police Force Act (Cap. 235),
 
@@ -534,7 +534,7 @@ but does not include ex gratia payments or allowances paid to reimburse the pers
 
 “designated authority” means any person designated by the Minister for the purposes of this Act;
 
-“mobilised service” includes mobilised service under section 65 of the Police Force Act (Cap. 235);
+“mobilised service” includes mobilised service under section 73 or 97 of the Police Force Act 2004;
 
 “relevant service” means —
 
@@ -937,6 +937,12 @@ This Legislative History is provided for the convenience of users of the Enlistm
 |||(Bill No. 11/2003 published on 1 July 2003)|
 ||Date of Second and Third Readings|14 August 2003|
 ||Date of commencement|26 September 2003|
+|18.|**Act 24 of 2004—Police Force Act 2004**|
+||(Consequential amendments made by)||
+||Date of First Reading|19 May 2004|
+|||(Bill No. 22/2004 published on 20 May 2004)|
+||Date of Second and Third Readings|15 June 2004|
+||Date of commencement|12 October 2004|
 ## COMPARATIVE TABLE
 
 Enlistment Act
