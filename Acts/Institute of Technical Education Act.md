@@ -76,7 +76,7 @@
 
 - [28A Issue of shares, etc.](#Issue-of-shares-etc)
 
-- [29 Investment of funds](#Investment-of-funds)
+- [29 Power of investment](#Power-of-investment)
 
 - [30 Accounts to be kept](#Accounts-to-be-kept)
 
@@ -420,11 +420,11 @@ FINANCIAL PROVISIONS
 
 28A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Institute under this Act, or of any capital injection or other investment by the Government in the Institute in accordance with any written law, the Institute shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
 
-[5/2002 wef 15/07/2002]
+### Power of investment
 
-### Investment of funds
+29\. The Institute may invest its moneys in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
 
-29\. Moneys belonging to the Institute may, from time to time, be invested in securities in which trust funds may, by any written law for the time being in force relating to trustees, be invested.
+[45/2004 wef 15/12/2004]
 
 ### Accounts to be kept
 
@@ -595,3 +595,9 @@ This Legislative History is provided for the convenience of users of the Institu
 |||(Bill No. 7/2002 published on 4 May 2002)|
 ||Date of Second and Third Readings|24 May 2002|
 ||Dates of commencement|15 July 2002|
+|4.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 September 2004|
+|||(Bill No. 43/2004 published on 22 September 2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|15 December 2004|
