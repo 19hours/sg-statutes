@@ -12,7 +12,9 @@
 
 - [3 Appointment of Registrar and Assistant Registrars](#Appointment-of-Registrar-and-Assistant-Registrars)
 
-- [4 Registration of societies and refusal to register](#Registration-of-societies-and-refusal-to-register)
+- [4 Registration of specified societies and refusal to register](#Registration-of-specified-societies-and-refusal-to-register)
+
+- [4A Registration of societies not specified in Schedule](#Registration-of-societies-not-specified-in-Schedule)
 
 - [5 Annual registers to be published](#Annual-registers-to-be-published)
 
@@ -28,9 +30,11 @@
 
 - [11 Change of name, place of business and rules of society](#Change-of-name-place-of-business-and-rules-of-society)
 
+- [11A Registrar may order change of name or rules of society registered under section 4A](#Registrar-may-order-change-of-name-or-rules-of-society-registered-under-section-4A)
+
 - [12 Persons who shall not act as officers of a society](#Persons-who-shall-not-act-as-officers-of-a-society)
 
-- [13 Use of symbol flag, etc.](#Use-of-symbol-flag-etc)
+- [13 Use of symbol, flag, etc.](#Use-of-symbol-flag-etc)
 
 - [14 Unlawful societies](#Unlawful-societies)
 
@@ -72,6 +76,8 @@
 
 - [33 Service of summons, etc.](#Service-of-summons-etc)
 
+- [33A Amendment of Schedule](#Amendment-of-Schedule)
+
 - [34 Regulations](#Regulations)
 
 - [35 Provisions applicable to registered societies](#Provisions-applicable-to-registered-societies)
@@ -81,6 +87,8 @@
 - [37 Power to exempt](#Power-to-exempt)
 
 - [38 Transitional provision](#Transitional-provision)
+
+[**THE SCHEDULE Specified Societies**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -112,7 +120,11 @@ An Act relating to societies.
 
 “place of business” means the place where the records and books of account of a society are kept;
 
-“political association” includes any society which the President may by order declare to be a political association;
+“political association” includes any society which the Minister may by order declare to be a political association;
+
+“registered society” means a society registered or deemed to be registered under this Act;
+
+[15/2004 wef 01/09/2004]
 
 “Registrar” means the Registrar of Societies appointed under section 3;
 
@@ -140,39 +152,79 @@ An Act relating to societies.
 
 3\. The Minister may appoint by name or office a Registrar of Societies and such Assistant Registrars as may be necessary.
 
-### Registration of societies and refusal to register
+### Registration of specified societies and refusal to register
 
-4\.—(1) Subject to this section the Registrar shall upon application by any society and on payment of the prescribed fee register the society.
+4\.—(1) Subject to this section the Registrar shall upon application by any society specified in the Schedule (referred to in this Act as a specified society) and on payment of the prescribed fee register the society.
 
-(2) The Registrar shall refuse to register a society if he is satisfied that —
+[15/2004 wef 01/09/2004]
 
-(a) the rules of the society are insufficient to provide for its proper management and control;
+(2) The Registrar shall refuse to register a specified society if he is satisfied that —
 
-(b) the society is likely to be used for unlawful purposes or for purposes prejudicial to public peace, welfare or good order in Singapore;
+(a) the rules of the specified society are insufficient to provide for its proper management and control;
+
+(b) the specified society is likely to be used for unlawful purposes or for purposes prejudicial to public peace, welfare or good order in Singapore;
 
 (c) the application for registration does not comply with the provisions of this Act or any regulations made thereunder;
 
-(d) it would be contrary to the national interest for the society to be registered; or
+(d) it would be contrary to the national interest for the specified society to be registered; or
 
-(e) in the case of any society which is a political association, its rules do not provide for its membership to be confined to citizens of Singapore or it has such affiliation or connection with any organisation outside Singapore as is considered by the Registrar to be contrary to the national interest.
+(e) in the case of any specified society which is a political association, its rules do not provide for its membership to be confined to citizens of Singapore or it has such affiliation or connection with any organisation outside Singapore as is considered by the Registrar to be contrary to the national interest.
 
-(3) The Registrar may refuse to register a society if —
+[15/2004 wef 01/09/2004]
 
-(a) he is satisfied that the society is a branch of or is affiliated to or connected with any society which has been dissolved under section 24 or under any previous written law relating to societies or which has been previously refused registration;
+(3) The Registrar may refuse to register a specified society if —
 
-(b) a dispute exists among the members of the society as to the persons who are to be officers or to hold or to administer any property of the society; or
+(a) he is satisfied that the specified society is a branch of or is affiliated to or connected with any society which has been dissolved under section 24 or under any previous written law relating to societies or which has been previously refused registration;
 
-(c) it appears to him that the name under which the society is to be registered —
+(b) a dispute exists among the members of the specified society as to the persons who are to be officers or to hold or to administer any property of the specified society; or
 
-(i) is likely to mislead members of the public as to the true character or purpose of the society or so nearly resembles the name of some other society as is likely to deceive the members of the public or members of either society;
+(c) it appears to him that the name under which the specified society is to be registered —
+
+(i) is likely to mislead members of the public as to the true character or purpose of the specified society or so nearly resembles the name of some other society as is likely to deceive the members of the public or members of either society;
 
 (ii) is identical to that of any other existing society; or
 
 (iii) is in the opinion of the Registrar undesirable.
 
+[15/2004 wef 01/09/2004]
+
 (4) Any person aggrieved by the decision of the Registrar under this section may within 30 days from the date of the decision appeal to the Minister whose decision shall be final.
 
-(5) Every registration effected in accordance with this section shall be notified in theGazette.
+(5) The Registrar shall, by notification in theGazette, publish such particulars as he thinks fit in respect of every specified society registered under this section.
+
+[15/2004 wef 01/09/2004]
+
+### Registration of societies not specified in Schedule
+
+4A\.—(1) A society may apply to be registered under this section if it is not a specified society.
+
+(2) An application for registration under this section shall be accompanied by —
+
+(a) the prescribed fee for the purposes of registration under this section;
+
+(b) a copy of the proposed rules of the society;
+
+(c) a declaration in such form as the Registrar may require as to the object, purpose or activity of the society; and
+
+(d) such other documents and duly completed forms as the Registrar may require.
+
+(3) The Registrar shall, on the basis of an application under subsection (2) in respect of a society and without making any further inquiry —
+
+(a) register the society on the date he receives the application; and
+
+(b) inform the applicant that he has received the application and registered the society.
+
+(4) The Registrar shall, by notification in theGazette, publish such particulars as he thinks fit in respect of every society registered under this section.
+
+(5) Notwithstanding subsection (3)(a), where it appears to the Registrar that any society registered under that subsection ought not to have been so registered by reason that it is a specified society —
+
+(a) the Registrar shall recover from that society as a debt due to the Government any difference in the amount of the prescribed fee for the purposes of registration under this section and section 4; and
+
+(b) that society shall, by virtue of this subsection, be deemed to be registered under section 4 on the date of its registration.
+
+(6) Nothing in subsection (5) shall be construed as preventing the Minister from exercising any of his powers under section 24 in respect of any society referred to in that subsection.
+
+[15/2004 wef 01/09/2004]
 
 ### Annual registers to be published
 
@@ -218,9 +270,13 @@ An Act relating to societies.
 
 (2) The obligations imposed upon a registered society by subsection (1) shall be binding upon every officer, and upon every person managing or assisting in the management, of that society in Singapore.
 
-(3) If any registered society fails to comply with the whole or part of any order given under this section, each of the persons mentioned in subsection (2) who has been served with the aforesaid order shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 unless he establishes to the satisfaction of the court that he has exercised due diligence and has failed to comply with the order for reasons beyond his control.
+(3) If any registered society fails to comply with the whole or part of any order given under this section, each of the persons mentioned in subsection (2) who has been served with the aforesaid order shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 unless he establishes to the satisfaction of the court that he has exercised due diligence and has failed to comply with the order for reasons beyond his control.
 
-(4) If any information supplied to the Registrar or an Assistant Registrar in compliance with an order given under this section is false, incorrect or incomplete in any material particular, the person who supplied the information shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 unless he establishes to the satisfaction of the court that he had good reason to believe that the information was true, correct and complete.
+[15/2004 wef 01/09/2004]
+
+(4) If any information supplied to the Registrar or an Assistant Registrar in compliance with an order given under this section is false, incorrect or incomplete in any material particular, the person who supplied the information shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 unless he establishes to the satisfaction of the court that he had good reason to believe that the information was true, correct and complete.
+
+[15/2004 wef 01/09/2004]
 
 ### Change of name, place of business and rules of society
 
@@ -232,7 +288,9 @@ An Act relating to societies.
 
 without the prior approval in writing of the Registrar or an Assistant Registrar.
 
-(2) If a registered society fails to comply with the requirement of subsection (1), the society and every officer of the society shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
+(2) If a registered society fails to comply with the requirement of subsection (1), the society and every officer of the society shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $3,000.
+
+[15/2004 wef 01/09/2004]
 
 (3) For the purposes of this section —
 
@@ -242,6 +300,32 @@ without the prior approval in writing of the Registrar or an Assistant Registrar
 
 (4) Any person aggrieved by the refusal of the Registrar or an Assistant Registrar to approve the change of name or place of business of a registered society or to amend its rules may within 30 days from the date of the decision appeal to the Minister whose decision shall be final.
 
+### Registrar may order change of name or rules of society registered under section 4A
+
+11A\.—(1) If the Registrar is of the opinion that the name of any society registered under section 4A —
+
+(a) is likely to mislead members of the public as to the true character or purpose of the society or so nearly resembles the name of some other society as is likely to deceive members of the public or members of either society;
+
+(b) is undesirable or offensive;
+
+(c) is identical to that of any existing society; or
+
+(d) is likely to give the impression that the society is connected in some way with the Government or any public authority, or with any other body of persons or any individual, when it is not so connected,
+
+the Registrar may, at any time, by notice under his hand, order the society to change its name, within such time as is specified in the notice, to such other name as he may approve.
+
+(2) The Registrar may, at any time, by notice under his hand, order any society registered under section 4A to amend its rules, within such time as is specified in the notice, in such manner as he may direct, if he is of the opinion that the rules of the society, if unchanged, would be contrary to national interest or prejudicial to the public peace, welfare or good order in Singapore.
+
+(3) A society registered under section 4A and every officer of that society shall comply with any notice given under this section.
+
+(4) If a society registered under section 4A fails to comply with any notice given under this section, the society and every officer of that society shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $3,000.
+
+(5) If an officer of a society registered under section 4A is charged with an offence under subsection (4), it shall be a defence for him to establish to the satisfaction of the court that he has exercised due diligence and has failed to comply with the notice for reasons beyond his control.
+
+(6) In this section, “amend” and “rules” have the same meanings as in section 11(3).
+
+[15/2004 wef 01/09/2004]
+
 ### Persons who shall not act as officers of a society
 
 12\.—(1) No person shall act as an officer of a registered society or a branch thereof if —
@@ -250,9 +334,11 @@ without the prior approval in writing of the Registrar or an Assistant Registrar
 
 (b) he has been declared, in writing, by the Minister to be unfit to act as an officer of a society by reason of any conviction for a criminal offence other than that specified in paragraph (a), unless the written permission of the Minister to so act is first obtained.
 
-(2) Any person who acts in contravention of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 or to imprisonment for a term not exceeding 6 months or to both.
+(2) Any person who acts in contravention of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $3,000 or to imprisonment for a term not exceeding 6 months or to both.
 
-### Use of symbol flag, etc.
+[15/2004 wef 01/09/2004]
+
+### Use of symbol, flag, etc.
 
 13\.—(1) No registered society shall use any flag, symbol, emblem, badge or other insignia without the consent in writing of the Registrar or an Assistant Registrar.
 
@@ -264,7 +350,9 @@ without the prior approval in writing of the Registrar or an Assistant Registrar
 
 (b) all persons managing or assisting in the management of the society,
 
-shall be deemed to be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding one year or to both.
+shall be deemed to be guilty of an offence and shall be liable on conviction to a fine not exceeding $3,000 or to imprisonment for a term not exceeding one year or to both.
+
+[15/2004 wef 01/09/2004]
 
 ### Unlawful societies
 
@@ -278,29 +366,41 @@ Provided that no society shall be deemed to be unlawful under this section if an
 
 (2) Any person who manages or assists in the management of any unlawful society shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 5 years.
 
-(3) Any person who is or acts as a member of an unlawful society, or attends a meeting of an unlawful society, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $3,000 or to imprisonment for a term not exceeding 3 years or to both.
+(3) Any person who is or acts as a member of an unlawful society, or attends a meeting of an unlawful society, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both.
 
-(4) Every offence under subsection (3) shall be deemed to be a non-bailable offence and a seizable case within the meaning of the Criminal Procedure Code [Cap. 68].
+[15/2004 wef 01/09/2004]
+
+(4) Every offence under subsection (3) shall be deemed to be a non-bailable offence and a seizable case within the meaning of the Criminal Procedure Code (Cap. 68).
 
 ### Persons allowing unlawful assembly in their premises
 
-15\.—(1) Any person who knowingly allows a meeting of an unlawful society, or of members of an unlawful society to be held in any house, building or place belonging to or occupied by him, or over which he has control, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $3,000 or to imprisonment for a term not exceeding 3 years or to both.
+15\.—(1) Any person who knowingly allows a meeting of an unlawful society, or of members of an unlawful society to be held in any house, building or place belonging to or occupied by him, or over which he has control, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both.
 
-(2) Every offence under subsection (1) shall be deemed to be a non-bailable offence and a seizable case within the meaning of the Criminal Procedure Code [Cap. 68].
+[15/2004 wef 01/09/2004]
+
+(2) Every offence under subsection (1) shall be deemed to be a non-bailable offence and a seizable case within the meaning of the Criminal Procedure Code .
 
 ### Penalty for inciting, etc., a person to become a member of unlawful society
 
-16\.—(1) Any person who incites, induces or invites another person to become a member of, or to assist in the management of, an unlawful society shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $3,000 or to imprisonment for a term not exceeding 3 years or to both.
+16\.—(1) Any person who incites, induces or invites another person to become a member of, or to assist in the management of, an unlawful society shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both.
 
-(2) Any person who uses any violence, threat or intimidation towards any person in order to induce him to become a member of, or to assist in the management of, an unlawful society shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $4,000 or to imprisonment for a term not exceeding 4 years or to both.
+[15/2004 wef 01/09/2004]
+
+(2) Any person who uses any violence, threat or intimidation towards any person in order to induce him to become a member of, or to assist in the management of, an unlawful society shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 4 years or to both.
+
+[15/2004 wef 01/09 2004]
 
 ### Penalty for procuring subscription or aid for unlawful society
 
-17\. Any person who procures or attempts to procure from any other person any subscription or aid for the purposes of an unlawful society shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 2 years or to both.
+17\. Any person who procures or attempts to procure from any other person any subscription or aid for the purposes of an unlawful society shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+[15/2004 wef 01/09/2004]
 
 ### Publishing etc., propaganda of unlawful society
 
-18\. Any person who prints, publishes, displays, sells or exposes for sale, or transmits through the post or who, without lawful authority or excuse, has in his possession any placard, newspaper, book, circular, pictorial representation or any other document or writing whatsoever which is issued or appears to be issued by or on behalf of or in the interests of an unlawful society shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 2 years or to both, and any book, periodical, pamphlet, poster, proclamation, newspaper, letter or any other document or writing in respect of which the person is convicted shall be forfeited.
+18\. Any person who prints, publishes, displays, sells or exposes for sale, or transmits through the post or who, without lawful authority or excuse, has in his possession any placard, newspaper, book, circular, pictorial representation or any other document or writing whatsoever which is issued or appears to be issued by or on behalf of or in the interests of an unlawful society shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 2 years or to both, and any book, periodical, pamphlet, poster, proclamation, newspaper, letter or any other document or writing in respect of which the person is convicted shall be forfeited.
+
+[15/2004 wef 01/09/2004]
 
 ### Penalty for misuse of money or property of a registered society
 
@@ -308,13 +408,17 @@ Provided that no society shall be deemed to be unlawful under this section if an
 
 (2) A complaint made under subsection (1) other than a complaint made by Registrar shall not be entertained unless the Court is satisfied that the complainant is, on the date of the complaint, a member of the registered society in respect of whose property the complaint is so made.
 
-(3) Any person bound by an order made under subsection (1) who fails to comply with the terms thereof and the directions given therein within a time to be specified in the order shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
+(3) Any person bound by an order made under subsection (1) who fails to comply with the terms thereof and the directions given therein within a time to be specified in the order shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+
+[15/2004 wef 01/09/2004]
 
 (4) An order made under subsection (1) shall not affect or prevent a prosecution of, or civil proceedings against, any such officer or member.
 
 ### Punishment of fraud, false declaration and misappropriation
 
-20\. Any person who with intent to mislead or defraud any other person gives to the other person a copy of any rules, regulations or other documents, other than the rules of a registered society, on the pretence that they are the existing rules of the society or that there are no other rules of the society or gives to the other person a copy of any rules on the pretence that those rules are the rules of a registered society when the society is not registered, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
+20\. Any person who with intent to mislead or defraud any other person gives to the other person a copy of any rules, regulations or other documents, other than the rules of a registered society, on the pretence that they are the existing rules of the society or that there are no other rules of the society or gives to the other person a copy of any rules on the pretence that those rules are the rules of a registered society when the society is not registered, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[15/2004 wef 01/09/2004]
 
 ### Presumptive proof of existence of a society
 
@@ -344,15 +448,21 @@ Provided that no society shall be deemed to be unlawful under this section if an
 
 23\.—(1) Every society, whether it is registered or not, which uses a triad ritual shall be deemed to be an unlawful society.
 
-(2) Any person found in possession of or having the custody or control of any books, accounts, writings, seals, banners or insignia of or relating to any triad society or branch of a triad society, whether the society or branch is established in Singapore or not, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $3,000 or to imprisonment for a term not exceeding 3 years or to both.
+(2) Any person found in possession of or having the custody or control of any books, accounts, writings, seals, banners or insignia of or relating to any triad society or branch of a triad society, whether the society or branch is established in Singapore or not, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both.
 
-(3) Every offence under subsection (2) shall be deemed to be a non-bailable offence and a seizable case within the meaning of the Criminal Procedure Code [Cap. 68].
+[15/2004 wef 01/09/2004]
+
+(3) Every offence under subsection (2) shall be deemed to be a non-bailable offence and a seizable case within the meaning of the Criminal Procedure Code (Cap. 68).
 
 ### Minister may order dissolution of any society
 
 24\.—(1) Whenever it appears to the Minister that —
 
 (a) any registered society is being used for unlawful purposes or for purposes prejudicial to public peace, welfare or good order in Singapore;
+
+(aa) the registration of any society has been procured by fraud or misrepresentation;
+
+[15/2004 wef 01/09/2004]
 
 (b) any registered society is being used for purposes incompatible with the objects and rules of the society;
 
@@ -372,7 +482,9 @@ the Minister may order that the society shall be dissolved.
 
 (4) Where an order of dissolution has been made against any society every person who on the date on which the order was made was an officer of that society shall, during the period of 3 years from the date on which the order was made, be ineligible, except with the written permission of the Minister, to act or be elected as an officer of any other society.
 
-(5) Any person who acts without the written permission of the Minister as an officer of a society while he is ineligible under subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding one year or to both.
+(5) Any person who acts without the written permission of the Minister as an officer of a society while he is ineligible under subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year or to both.
+
+[15/2004 wef 01/09/2004]
 
 (6) The fact that a political association uses a name or symbol which is the same as that of an organisation outside Singapore shall be deemed to be sufficient evidence that the political association has an affiliation or connection with that organisation.
 
@@ -422,7 +534,9 @@ the Minister may order that the society shall be dissolved.
 
 (5) If that person refuses to comply with such an order, he may be arrested and detained in custody until he can conveniently be brought before a District Court or Magistrate’s Court to be dealt with according to law.
 
-(6) Any person who fails to comply with any such order shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200.
+(6) Any person who fails to comply with any such order shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
+
+[15/2004 wef 01/09/2004]
 
 ### Charges
 
@@ -443,6 +557,12 @@ the Minister may order that the society shall be dissolved.
 ### Service of summons, etc.
 
 33\. Every summons, notice or other document issued under this Act, or under any regulations made thereunder, shall be deemed to have been validly and effectually served, if served in the manner prescribed by the Criminal Procedure Code (Cap. 68) for the service of summonses under that Code.
+
+### Amendment of Schedule
+
+33A\. The Minister may, by notification in theGazette, amend the Schedule.
+
+[15/2004 wef 01/09/2004]
 
 ### Regulations
 
@@ -520,6 +640,58 @@ shall be jointly and severally liable for any part of the costs awarded against 
 
 [37
 
+## THE SCHEDULE
+
+Sections 4(1) and 33A
+
+Specified Societies
+
+1. Any society whose object, purpose or activity, whether primary or otherwise, is to —
+
+(a) represent;
+
+(b) promote any cause or interest of; or
+
+(c) discuss any issue relating to,
+
+any religion, ethnic group, clan, nationality or a class of persons defined by reference to their gender or sexual orientation.
+
+2\. Any political association.
+
+3\. Any society which uses the word “National” or “Singapore” in its name, except where the word “Singapore” or any abbreviation thereof is used to indicate the society’s place of registration.
+
+4. Any society whose object, purpose or activity, whether primary or otherwise, is to —
+
+(a) represent persons who advocate;
+
+(b) promote; or
+
+(c) discuss any issue relating to,
+
+any civil or political right (including human rights, environmental rights and animal rights).
+
+5\. Any society whose object, purpose or activity, whether primary or otherwise, is to discuss any matter relating to the governance of the Singapore society.
+
+6\. Any society whose object, purpose or activity, whether primary or otherwise, is to promote or discuss the use or status of any language.
+
+7\. Any society which is formed under the instruction of a foreign government or an organisation affiliated to a foreign government.
+
+8\. Any society which is formed under the instruction of a foreign organisation or is affiliated to a foreign organisation or whose major source of funding is from outside Singapore, but does not include the Rotaract Club, the Rotary Club, the Toastmaster’s Club and the Lions Club.
+
+9\. Any alumni of an educational institution that is not established in Singapore.
+
+10. Any society which has an office bearer who —
+
+(a) was previously holding office in a society that was dissolved under section 24 and the order for dissolution was made less than 3 years ago;
+
+(b) while being a member of any society, was convicted for an offence involving the unlawful expenditure of the funds of the society; or
+
+(c) has been previously declared in writing by the Minister to be unfit to act as an officer of a society.
+
+11. Any society whose object, purpose or activity, whether primary or otherwise, is to promote, discuss any issue relating to, or to provide training in any form of pugilistic or martial arts.
+
+[15/2004 wef 01/09/2004]
+
 ## LEGISLATIVE HISTORY
 
 Societies Act
@@ -559,3 +731,8 @@ The Societies Act 1966 repealed and re-enacted with amendments the Societies Act
 |||(Bill No. 7/2003 published on 21 March 2003)|
 ||Date of Second and Third Readings|24 April 2003|
 ||Date of commencement|16 May 2003|
+|7.|**Act 15 of 2004—Societies (Amendment) Act 2004**|
+||Date of First Reading|19 April 2004|
+|||(Bill No. 14/2004 published on 20 August 2004)|
+||Date of Second and Third Readings|19 May 2004|
+||Date of commencement|1 September 2004|
