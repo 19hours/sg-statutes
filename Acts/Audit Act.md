@@ -14,7 +14,7 @@
 
 [**Part II AUDITOR-GENERAL**](#Part-II)
 
-- [3 Auditor-General](#Auditor-General)
+- [3 (Repealed)](#Repealed)
 
 - [4 Powers and duties of Auditor-General](#Powers-and-duties-of-Auditor-General)
 
@@ -70,33 +70,7 @@ PRELIMINARY
 
 AUDITOR-GENERAL
 
-### Auditor-General
-
-3\.—(1) There shall be an Auditor-General who shall be appointed by the President in accordance with the advice of the Prime Minister after the Prime Minister has consulted with the Chairman of the Public Service Commission.
-
-(2) The Auditor-General shall be deemed to be a public officer and save as otherwise provided in this Act, the law for the time being in force relating to the public service of Singapore and to members thereof shall apply to him.
-
-(3) A person who has held the office of Auditor-General shall not be eligible for any other appointment as a public officer but shall be eligible for reappointment as Auditor-General.
-
-(4) The Auditor-General shall be paid such remuneration and allowances as may from time to time be determined by Parliament and such remuneration and allowances shall be charged on and paid out of the Consolidated Fund.
-
-(5) The terms of service of the Auditor-General shall not be altered to his disadvantage during his continuance in office.
-
-(6) For the purposes of subsection (5), in so far as the terms of service of the Auditor-General depend upon his option, any terms for which he opts shall be taken to be more advantageous to him than any for which he might have opted.
-
-(7) Subject to subsection (9), the Auditor-General shall hold office until he attains the age of 55 years:
-
-Provided that —
-
-(a) he may at any time resign his office by writing under his hand addressed to the President; and
-
-(b) the President, acting in accordance with the advice of the Prime Minister, may permit an Auditor-General who has attained the age of 55 years to remain in office for such fixed period as may have been agreed between the Auditor-General and the Government.
-
-(8) Nothing done by the Auditor-General shall be invalid by reason only that he has attained the age at which he is required by this section to vacate his office.
-
-(9) If the Prime Minister, or the Chairman of the Public Service Commission after consulting the Prime Minister, represents to the President that the Auditor-General ought to be removed from office for inability to discharge the functions thereof (whether arising from infirmity of body or mind or any other cause) or for misbehaviour, the President shall refer the representation to a tribunal consisting of the Chief Justice and two other Judges of the Supreme Court nominated specially or generally for that purpose by the Chief Justice, and shall, if that tribunal so recommends, remove the Auditor-General from office.
-
-(10) The tribunal constituted under subsection (9) shall regulate its own procedure and may make rules for that purpose.
+3\. [Repealed by Act 11 of 1991 wef 30/11/1991]
 
 ### Powers and duties of Auditor-General
 
@@ -206,3 +180,8 @@ This Legislative History is provided for the convenience of users of the Audit A
 ||Date of operation|1 April 1971|
 |4.|**1985 Revised Edition—Audit Act (Chapter 17)**|
 ||Date of operation|30 March 1987|
+|5.|**Act 11 of 1991—Statutes (Miscellaneous Amendments) Act 1991**|
+||Date of First Reading|3 January 1991|
+|||(Bill No. 4/91 published on 4 January 1991)|
+||Date of Second and Third Readings|14 January 1991|
+||Date of commencement|30 November 1991|
