@@ -462,17 +462,23 @@ At any meeting mentioned in this section, a declaration by the chairman that the
 
 31\.—(1) Upon the cancellation of the registration of any organisation —
 
-(a) the property of the organisation within Singapore shall forthwith vest either in the Official Assignee or in such other officer as may be appointed for the purpose of winding up by the Minister;
+(a) the property of the organisation within Singapore shall forthwith vest either in the Official Receiver or in such other officer as may be appointed for the purpose of winding up by the Minister;
 
-(b) the Official Assignee or that other officer shall proceed to wind up the affairs of the organisation and after satisfying and providing for all debts and liabilities of the organisation and the costs of winding up, shall divide the surplus assets, if any, of the organisation amongst the members of the organisation according to the rules of the organisation, if any, or if there are no such rules applicable to such a case, then equally, but if by reason of the great number of members, or the difficulty of ascertaining the persons entitled to the assets or if from any other cause such a division is, in the opinion of the Official Assignee or that other officer, impracticable, he shall prepare and submit to a Judge of the High Court for his approval a scheme for the application of the surplus assets to purposes for the benefit of that portion of the public to which the members of the organisation more particularly belonged or of the public generally;
+(b) the Official Receiver or that other officer shall proceed to wind up the affairs of the organisation and after satisfying and providing for all debts and liabilities of the organisation and the costs of winding up, shall divide the surplus assets, if any, of the organisation amongst the members of the organisation according to the rules of the organisation, if any, or if there are no such rules applicable to such a case, then equally, but if by reason of the great number of members, or the difficulty of ascertaining the persons entitled to the assets or if from any other cause such a division is, in the opinion of the Official Receiver or that other officer, impracticable, he shall prepare and submit to a Judge of the High Court for his approval a scheme for the application of the surplus assets to purposes for the benefit of that portion of the public to which the members of the organisation more particularly belonged or of the public generally;
 
-[Act 16/93 wef 01/07/1993]
+[16/93 wef 01/07/1993]
+
+[9/2003 wef 16/05/2003]
 
 (c) such a scheme, when submitted for approval, may be amended by the Judge in such a way as he thinks proper under the circumstances of the case;
 
-(d) the approval of the Judge of such a scheme or amended scheme shall be denoted by the endorsement thereon of a memorandum of the approval signed by the Registrar of the Supreme Court and by the memorandum being sealed with the seal of the Court and upon this being done, the surplus assets, the subject of the scheme, shall be held and applied by the Official Assignee or that other officer upon the terms and to the purposes thereby prescribed; and
+(d) the approval of the Judge of such a scheme or amended scheme shall be denoted by the endorsement thereon of a memorandum of the approval signed by the Registrar of the Supreme Court and by the memorandum being sealed with the seal of the Court and upon this being done, the surplus assets, the subject of the scheme, shall be held and applied by the Official Receiver or that other officer upon the terms and to the purposes thereby prescribed; and
 
-(e) for the purpose of winding up the affairs of an organisation the Official Assignee or such other officer shall have all the powers vested in the Official Assignee or Official Receiver under the Bankruptcy Act [Cap. 20] or under the Companies Act [Cap. 50] for the purpose of discovery of the property of a debtor, the realisation thereof and the winding up of a company, and the provisions of those Acts shall apply mutatis mutandis to the winding up of the affairs of a mutual benefit organisation under this Act.
+[9/2003 wef 16/05/2003]
+
+(e) for the purpose of winding up the affairs of an organisation the Official Receiver or such other officer shall have all the powers vested in the Official Receiver under the Companies Act [Cap. 50] for the purpose of discovery of the property of a debtor, the realisation thereof and the winding up of a company, and the provisions of those Acts shall apply mutatis mutandis to the winding up of the affairs of a mutual benefit organisation under this Act.
+
+[9/2003 wef 16/05/2003]
 
 (2) For the purpose of enabling an organisation to wind up its own affairs, the Minister may by notification in theGazettesuspend the operation of subsection (1) for such period as to him seems expedient.
 
@@ -726,7 +732,7 @@ Mutual Benefit Organisations Act
 
 (CHAPTER 191)
 
-This Legislative History is provided for the convenience of users of the Mutual Benefit Organisations Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Mutual Benefit Organisations Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -755,3 +761,8 @@ This Legislative History is provided for the convenience of users of the Mutual 
 |||(Bill No. 34/1998 published on 1 August 1998)|
 ||Date of Second and Third Readings|12 October 1998|
 ||Dates of commencement|16 November 1998|
+|8.|**Act 9 of 2003—Statutes (Miscellaneous Amendments) Act 2003**|
+||Date of First Reading|20 March 2003|
+|||(Bill No. 7/2003 published on 21 March 2003)|
+||Date of Second and Third Readings|24 April 2003|
+||Date of commencement|16 May 2003|
