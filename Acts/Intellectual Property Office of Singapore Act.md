@@ -1,22 +1,20 @@
-**Intellectual Property Office of Singapore Act 2001**
+**Intellectual Property Office of Singapore Act**
 
-**(No. 3 of 2001)**
+**(CHAPTER 140)**
 
 **Table of Contents**
 
 [**Long Title**](#Intellectual-Property-Office-of-Singapore-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
 [**Part II ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF OFFICE**](#Part-II)
 
-- [3 Establishment and incorporation of Office](#Establishment-and-incorporation-of-Office)
+- [3 Establishment and incorporation of Intellectual Property Office of Singapore](#Establishment-and-incorporation-of-Intellectual-Property-Office-of-Singapore)
 
 - [4 Common seal](#Common-seal)
 
@@ -60,7 +58,7 @@
 
 - [20 Other financial provisions](#Other-financial-provisions)
 
-[**Part VI TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES**](#Part-VI)
+[**Part VI TRANSFER OF PROPERTY, ASSETS, LIABILITIES AND EMPLOYEES**](#Part-VI)
 
 - [21 Transfer to Office of property, assets and liabilities](#Transfer-to-Office-of-property-assets-and-liabilities)
 
@@ -80,13 +78,13 @@
 
 - [28 Annual report](#Annual-report)
 
-- [29 Office’s symbol](#Office’s-symbol)
+- [29 Symbol or representation of Office](#Symbol-or-representation-of-Office)
 
 - [30 Powers of enforcement](#Powers-of-enforcement)
 
 - [31 Offences committed by bodies corporate, etc.](#Offences-committed-by-bodies-corporate-etc)
 
-- [32 Jurisdiction of Courts](#Jurisdiction-of-Courts)
+- [32 Jurisdiction of court](#Jurisdiction-of-court)
 
 - [33 Composition of offences](#Composition-of-offences)
 
@@ -106,58 +104,33 @@
 
 [**THIRD SCHEDULE Offences under Written Law**](#THIRD-SCHEDULE-Offences-under-Written-Law)
 
-[**FOURTH SCHEDULE Consequential Amendments**](#FOURTH-SCHEDULE-Consequential-Amendments)
+[**Legislative History**](#Legislative-History)
 
-REPUBLIC OF SINGAPORE
+# Intellectual Property Office of Singapore Act
 
-GOVERNMENT GAZETTE
+(CHAPTER 140)
 
-ACTS SUPPLEMENT
+(Original Enactment: Act 3 of 2001)
 
-Published by Authority
+REVISED EDITION 2002
 
-NO. 5]
+(31st July 2002)
 
-Thursday, March 30
+An Act to establish and incorporate the Intellectual Property Office of Singapore, to provide for its functions and powers, and for matters connected therewith.
 
-[2000
-
-The following Act was passed by Parliament on 22nd February 2001 and assented to by the President on 12th March 2001:—
-
-Intellectual Property Office of Singapore Act 2001
-
-(No. 3 of 2001)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-
-
-
-12th March 2001.
-
-Date of Commencement: 1st April 2001
-
-An Act to establish and incorporate the Intellectual Property Office of Singapore, to provide for its functions and powers, and for matters connected therewith; and to make consequential amendments to certain other written laws.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st April 2001]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Intellectual Property Office of Singapore Act 2001 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Intellectual Property Office of Singapore Act.
 
 ### Interpretation
 
 2\. In this Act, unless the context otherwise requires —
-
-“appointed day” means the date of commencement of this Act;
 
 “Chairman” means the Chairman of the Office and includes any temporary Chairman of the Office;
 
@@ -177,7 +150,7 @@ PRELIMINARY
 
 (b) in connection with the registration of a trade mark or any procedure relating to a registered trade mark under the Trade Marks Act (Cap. 332); or
 
-(c) in connection with the registration of a design or any procedure relating to a registered design under the Registered Designs Act 2000 (Act 25 of 2000);
+(c) in connection with the registration of a design or any procedure relating to a registered design under the Registered Designs Act (Cap. 266);
 
 “member” means a member of the Office;
 
@@ -191,7 +164,7 @@ PRELIMINARY
 
 ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF OFFICE
 
-### Establishment and incorporation of Office
+### Establishment and incorporation of Intellectual Property Office of Singapore
 
 3\. There is hereby established a body to be known as the Intellectual Property Office of Singapore which shall be a body corporate with perpetual succession and a common seal and shall, by that name, be capable of —
 
@@ -229,31 +202,31 @@ FUNCTIONS, DUTIES AND POWERS OF OFFICE
 
 ### Functions and duties of Office
 
-6\.—(1) Subject to the provisions of this Act, it shall be the function and duty of the Office to —
+6\.—(1) Subject to the provisions of this Act, it shall be the function and duty of the Office —
 
-(a) administer the systems in Singapore for the protection of intellectual property;
+(a) to administer the systems in Singapore for the protection of intellectual property;
 
-(b) provide administrative support services to the Copyright Tribunal in the performance of the Tribunal’s functions under the Copyright Act (Cap. 63);
+(b) to provide administrative support services to the Copyright Tribunal in the performance of the Tribunal’s functions under the Copyright Act (Cap. 63);
 
-(c) maintain and provide access by the public to documents and information relating to any intellectual property kept or maintained by the Office;
+(c) to maintain and provide access by the public to documents and information relating to any intellectual property kept or maintained by the Office;
 
-(d) promote public awareness and effective use of intellectual property rights;
+(d) to promote public awareness and effective use of intellectual property rights;
 
-(e) represent the Government internationally on matters related to intellectual property;
+(e) to represent the Government internationally on matters related to intellectual property;
 
-(f) advise and make recommendations to the Government on matters related to intellectual property;
+(f) to advise and make recommendations to the Government on matters related to intellectual property;
 
-(g) advise and make recommendations to the Government on the recognition, accreditation and conduct of persons acting as intellectual property agents or intellectual property advisers, and exercise any regulatory functions over them;
+(g) to advise and make recommendations to the Government on the recognition, accreditation and conduct of persons acting as intellectual property agents or intellectual property advisers, and exercise any regulatory functions over them;
 
-(h) promote or assist in the development of the profession of intellectual property agents and intellectual property advisers in Singapore;
+(h) to promote or assist in the development of the profession of intellectual property agents and intellectual property advisers in Singapore;
 
-(i) promote and facilitate the training of persons desiring to be intellectual property agents in Singapore;
+(i) to promote and facilitate the training of persons desiring to be intellectual property agents in Singapore;
 
-(j) manage technical co-operation and exchange in the area of intellectual property with other persons and organisations, including foreign intellectual property offices and international inter-governmental organisations, on its own behalf or on behalf of the Government;
+(j) to manage technical co-operation and exchange in the area of intellectual property with other persons and organisations, including foreign intellectual property offices and international inter-governmental organisations, on its own behalf or on behalf of the Government;
 
-(k) provide advice, training and assistance in relation to intellectual property to any Government department or statutory board, or to authorities of other countries and territories which administer intellectual property laws; and
+(k) to provide advice, training and assistance in relation to intellectual property to any Government department or statutory board, or to authorities of other countries and territories which administer intellectual property laws; and
 
-(l) exercise any other functions and duties conferred on the Office by or under this Act or any other written law.
+(l) to exercise any other functions and duties conferred on the Office by or under this Act or any other written law.
 
 (2) The Office may undertake such other functions as the Minister may assign to the Office and in so doing, the Office shall be deemed to be fulfilling the purposes of this Act, and the provisions of this Act shall apply to the Office in respect of such functions.
 
@@ -333,7 +306,7 @@ PROVISIONS RELATING TO STAFF
 
 (3) If the Chief Executive is unable to perform his duties for any period by reason of absence from Singapore, illness or for any other reason, another person may be appointed by the Office to act in the place of the Chief Executive during such period.
 
-(4) The Office may from time to time appoint and employ on such terms and conditions as the Office may determine such other employees, consultants and agents as may be necessary for the effective performance of its functions.
+(4) The Office may from time to time appoint or employ, on such terms and conditions as the Office may determine, such other employees, consultants and agents as may be necessary for the effective performance of its functions.
 
 ### Protection from liability
 
@@ -415,9 +388,11 @@ FINANCIAL PROVISIONS
 
 ### Issue of shares, etc.
 
-19A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Office under this Act, or of any capital injection or other investment by the Government in the Office in accordance with any written law, the Office shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
+119A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Office under this Act, or of any capital injection or other investment by the Government in the Office in accordance with any written law, the Office shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
 
-[5/2002 wef 15/07/2002]
+[5/2002 wef 29/07/2002]
+
+1This section was not in operation as at 30th June 2002.
 
 ### Other financial provisions
 
@@ -425,11 +400,11 @@ FINANCIAL PROVISIONS
 
 ## PART VI
 
-TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES
+TRANSFER OF PROPERTY, ASSETS, LIABILITIES AND EMPLOYEES
 
 ### Transfer to Office of property, assets and liabilities
 
-21\.—(1) As from the appointed day, such movable and immovable property vested in the Government as may be determined by the Minister for Finance and used or managed by the Government department known as the Intellectual Property Office of Singapore or the Copyright Tribunal, and all assets, interests, rights, privileges, liabilities and obligations of the Government relating to that department and the Copyright Tribunal shall be transferred to and shall vest in the Office without further assurance, act or deed.
+21\.—(1) As from 1st April 2001, such movable and immovable property vested in the Government as may be determined by the Minister for Finance and used or managed by the Government department known as the Intellectual Property Office of Singapore or the Copyright Tribunal, and all assets, interests, rights, privileges, liabilities and obligations of the Government relating to that department and the Copyright Tribunal shall be transferred to and shall vest in the Office without further assurance, act or deed.
 
 (2) If any question arises as to whether any particular property, asset, interest, right, privilege, liability or obligation has been transferred to or vested in the Office under subsection (1), a certificate under the hand of the Minister for Finance shall be conclusive evidence that the property, asset, interest, right, privilege, liability or obligation was or was not so transferred or vested.
 
@@ -437,7 +412,7 @@ TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES
 
 ### Transfer of employees
 
-22\.—(1) As from the appointed day, such persons or categories of persons as the Minister may determine who, immediately before that day, were employed by the Government in the Government department known as the Intellectual Property Office of Singapore or the Copyright Tribunal shall be transferred to the service of the Office on terms no less favourable than those enjoyed by them immediately prior to their transfer.
+22\.—(1) As from 1st April 2001, such persons or categories of persons as the Minister may determine who, immediately before that date, were employed by the Government in the Government department known as the Intellectual Property Office of Singapore or the Copyright Tribunal shall be transferred to the service of the Office on terms no less favourable than those enjoyed by them immediately prior to their transfer.
 
 (2) If any question arises as to whether any person or any category of persons has been transferred to the service of the Office under subsection (1), a certificate under the hand of the Minister shall be conclusive evidence that the person or category of persons was or was not so transferred.
 
@@ -459,23 +434,23 @@ TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES
 
 ### Existing contracts
 
-24\. All deeds, bonds, agreements, instruments and arrangements subsisting immediately before the appointed day to which the Government is a party and relating to the Government department known as the Intellectual Property Office of Singapore or to the Copyright Tribunal or to any person transferred to the service of the Office under section 22 shall continue in force on or after that day and shall be enforceable by or against the Office as if the Office had been named therein or had been a party thereto instead of the Government.
+24\. All deeds, bonds, agreements, instruments and arrangements subsisting immediately before 1st April 2001 to which the Government is a party and relating to the Government department known as the Intellectual Property Office of Singapore or to the Copyright Tribunal or to any person transferred to the service of the Office under section 22 shall continue in force on or after that date and shall be enforceable by or against the Office as if the Office had been named therein or had been a party thereto instead of the Government.
 
 ### Pending proceedings
 
-25\. Any proceedings or cause of action relating to the portion of the property, assets, interests, rights, privileges, liabilities and obligations transferred to the Office under section 21 or to any person transferred to the service of the Office under section 22 pending or existing immediately before the appointed day by or against the Government, or any person acting on its behalf, may be continued and shall be enforced by or against the Office.
+25\. Any proceedings or cause of action relating to the portion of the property, assets, interests, rights, privileges, liabilities and obligations transferred to the Office under section 21 or to any person transferred to the service of the Office under section 22 pending or existing immediately before 1st April 2001 by or against the Government, or any person acting on its behalf, may be continued and shall be enforced by or against the Office.
 
 ### Continuation and completion of disciplinary proceedings
 
-26\.—(1) Where on the appointed day any disciplinary proceedings were pending against any person transferred to the service of the Office under section 22, the proceedings shall be carried on and completed by the Office.
+26\.—(1) Where on 1st April 2001 any disciplinary proceedings were pending against any person transferred to the service of the Office under section 22, the proceedings shall be carried on and completed by the Office.
 
-(2) Where on the appointed day any matter was in the course of being heard or investigated or had been heard or investigated by a committee acting under due authority but no order or decision had been rendered thereon, the committee shall complete the hearing or investigation and make such order, ruling or direction as it could have made under the authority vested in it before that day.
+(2) Where on 1st April 2001 any matter was in the course of being heard or investigated or had been heard or investigated by a committee acting under due authority but no order, ruling or decision had been made thereon, the committee shall complete the hearing or investigation and shall make such order, ruling or direction as it could have made under the authority vested in it before that date.
 
-(3) Any order, ruling or direction made or given by a committee pursuant to this section shall be treated as an order, ruling or direction of the Office and have the same force or effect as if it had been made or given by the Office pursuant to the authority vested in the Office under this Act.
+(3) Any order, ruling or direction made by a committee pursuant to this section shall be treated as an order, a ruling or a direction of the Office and have the same force or effect as if it had been made by the Office pursuant to the authority vested in the Office under this Act.
 
 ### Misconduct or neglect of duty by employee before transfer
 
-27\. The Office may reprimand, reduce in rank, retire, dismiss or punish in some other manner a person transferred to the service of the Office under section 22 for any misconduct or neglect of duty, committed prior to the appointed day whilst he was in the employment of the Government which would have rendered him liable to be reprimanded, reduced in rank, retired, dismissed or punished in some other manner if he had continued to be in the employment of the Government and if this Act had not been enacted.
+27\. The Office may reprimand, reduce in rank, retire, dismiss or punish in some other manner a person transferred to the service of the Office under section 22 for any misconduct or neglect of duty, committed prior to 1st April 2001 whilst he was in the employment of the Government which would have rendered him liable to be reprimanded, reduced in rank, retired, dismissed or punished in some other manner if he had continued to be in the employment of the Government and if this Act had not been enacted.
 
 ## PART VII
 
@@ -487,15 +462,15 @@ MISCELLANEOUS
 
 (2) The Minister shall, as soon as practicable, cause a copy of every such report to be presented to Parliament.
 
-### Office’s symbol
+### Symbol or representation of Office
 
-29\.—(1) The Office shall have the exclusive right to the use of such symbol or representation as it may select or devise and thereafter display or exhibit in connection with its activities or affairs.
+29\.—(1) The Office shall have the exclusive right to the use of such symbol or representation as it may select or devise and thereafter display or exhibit such symbol or representation in connection with its activities or affairs.
 
 (2) Any person who uses a symbol or representation identical with that of the Office or which so resembles the Office’s symbol or representation as to deceive or cause confusion, or to be likely to deceive or cause confusion, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.
 
 ### Powers of enforcement
 
-30\.—(1) In addition to the powers conferred on him by this Act or any other written law, an officer or employee of the Office may, in relation to any offence under this Act or any rules made thereunder or any written law set out in the Third Schedule, on declaration of his office and production to the person against whom he is acting such identification card as the Chief Executive may direct to be carried by officers or employees of the Office —
+30\.—(1) In addition to the powers conferred on him by this Act or any other written law, an officer or employee of the Office may, in relation to any offence under this Act or any written law set out in the Third Schedule, on declaration of his office and production to the person against whom he is acting such identification card as the Chief Executive may direct to be carried by officers or employees of the Office —
 
 (a) require any person whom he reasonably believes to have committed that offence to furnish evidence of the person’s identity;
 
@@ -515,29 +490,29 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Offences committed by bodies corporate, etc.
 
-31\.—(1) Where an offence under this Act or any rules made thereunder which has been committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a director, manager, secretary or any similar officer of the body corporate, or any person who was purporting to act in any such capacity, he, as well as the body corporate, shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+31\.—(1) Where an offence under this Act which has been committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a director, manager, secretary or any similar officer of the body corporate, or any person who was purporting to act in any such capacity, he, as well as the body corporate, shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
 
 (2) Where the affairs of a body corporate are managed by its members, subsection (1) shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
 
-(3) Proceedings for an offence under this Act or any rules made thereunder alleged to have been committed by a partnership shall be brought in the name of the partnership and not in that of the partners; but without prejudice to any liability of the partners under subsection (5).
+(3) Proceedings for an offence under this Act alleged to have been committed by a partnership shall be brought in the name of the partnership and not in that of the partners; but without prejudice to any liability of the partners under subsection (5).
 
 (4) A fine imposed on a partnership on its conviction in such proceedings shall be paid out of the partnership assets.
 
-(5) Where a partnership is guilty of an offence under this Act or any rules made thereunder, every partner, other than a partner who is proved to have been ignorant of or to have attempted to prevent the commission of the offence, shall also be also guilty of the offence and liable to be proceeded against and punished accordingly.
+(5) Where a partnership is guilty of an offence under this Act, every partner, other than a partner who is proved to have been ignorant of or to have attempted to prevent the commission of the offence, shall also be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
 
-### Jurisdiction of Courts
+### Jurisdiction of court
 
-32\. Notwithstanding anything to the contrary contained in the Criminal Procedure Code (Cap. 68), a District Court or a Magistrate’s Court shall have the jurisdiction to try any offence under this Act or any rules made thereunder and to impose the full penalty or punishment in respect of any such offence.
+32\. Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court and a Magistrate’s Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of any offence under this Act.
 
 ### Composition of offences
 
-33\.—(1) The Chief Executive or any officer authorised by him may, in his discretion, compound any offence under this Act or any rules made thereunder which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum of money not exceeding $1,000.
+33\.—(1) The Chief Executive or any officer authorised by him may, in his discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum of money not exceeding $1,000.
 
 (2) On payment of such sum of money, no further proceedings shall be taken against such person in respect of the offence.
 
 ### Proceedings conducted by officers of Office
 
-34\.—(1) Proceedings in respect of an offence under this Act or any rules made thereunder or under any written law set out in the Third Schedule may be conducted by an officer of the Office who is authorised in writing in that behalf by the Chief Executive.
+34\.—(1) Proceedings in respect of an offence under this Act or under any written law set out in the Third Schedule may be conducted by an officer of the Office who is authorised in writing in that behalf by the Chief Executive.
 
 (2) Notwithstanding the provisions of any written law, a legal officer of the Office who has been admitted as an advocate and solicitor under the Legal Profession Act (Cap. 161) may —
 
@@ -545,7 +520,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (b) make and do all acts and applications in respect of such proceedings on behalf of the Office or any Registrar.
 
-(3) For the purposes of this section, "Registrar" means the Registrar of Designs referred to in section 49 of the Registered Designs Act 2000 (Act 25 of 2000), the Registrar of Patents referred to in section 4 of the Patents Act (Cap. 221), the Registrar of Trade Marks referred to in section 62 of the Trade Marks Act (Cap. 332), or the principal officer administering the system for the protection of any other intellectual property under any other written law.
+(3) For the purposes of this section, “Registrar” means the Registrar of Designs referred to in section 49 of the Registered Designs Act (Cap. 266), the Registrar of Patents referred to in section 4 of the Patents Act (Cap. 221), the Registrar of Trade Marks referred to in section 62 of the Trade Marks Act (Cap. 332), or the principal officer administering the system for the protection of any other intellectual property under any other written law.
 
 ### Power of Minister to amend Third Schedule
 
@@ -573,9 +548,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Consequential amendments to other written laws
 
-38\.—(1) The provisions of the Acts specified in the first column of the Fourth Schedule are amended in the manner set out in the second column thereof.
-
-(2) The Minister may, by order published in theGazette, repeal or amend any written law which appears to him unnecessary having regard to the provisions of this Act or to be inconsistent with any provision of this Act.
+38\. The Minister may, by order published in theGazette, repeal or amend any written law which appears to him unnecessary having regard to the provisions of this Act or to be inconsistent with any provision of this Act.
 
 FIRST SCHEDULE
 
@@ -625,7 +598,7 @@ Vacation of office
 
 (a) if he becomes in any manner disqualified from membership of the Office;
 
-(b) if he, without sufficient cause (the sufficiency thereof to be decided by the Office), fails to attend 3 consecutive meetings of the Office;
+(b) if he fails to attend 3 consecutive meetings of the Office without sufficient cause (the sufficiency thereof to be decided by the Office);
 
 (c) if he resigns from his office; or
 
@@ -657,7 +630,7 @@ Disclosure of interest by members
 
 (3) No notice under sub-paragraph (2) shall be of effect unless either it is given at a meeting of the Office or the member takes reasonable steps to ensure that it is brought up and read at the next meeting of the Office after it is given.
 
-(4) For the purpose of this paragraph, a pecuniary interest of a spouse, parent, son or adopted son, or daughter or adopted daughter, of a member shall be presumed to be a pecuniary interest of the member.
+(4) For the purpose of this paragraph, a pecuniary interest of any spouse, parent, son or adopted son, or daughter or adopted daughter, of a member shall be presumed to be a pecuniary interest of the member.
 
 (5) For the purpose of determining whether there is a quorum, a member shall be treated as being present notwithstanding that, under this paragraph, he cannot vote or has withdrawn from the meeting.
 
@@ -687,17 +660,31 @@ Section 20
 
 Financial Provisions
 
-1\. The financial year of the Office shall begin on 1st April of each year and end on 31st March of the succeeding year, except that the first financial year of the Office shall begin on the appointed day and end on 31st March of the succeeding year.
+Financial year
+
+1\. The financial year of the Office shall begin on 1st April of each year and end on 31st March of the succeeding year.
+
+Accounts of Board
 
 2\. The Office shall keep proper accounts and records of its transactions and affairs and shall do all things necessary to ensure that all payments out of its moneys are correctly made and properly authorised and that adequate control is maintained over the assets of, or in the custody of, the Office and over the expenditure incurred by the Office.
 
+Auditor
+
 3\. The accounts of the Office shall be audited by the Auditor-General or by an auditor appointed annually by the Minister in consultation with the Auditor-General.
+
+Appointment of auditor
 
 4\. A person shall not be qualified for appointment as an auditor under paragraph 3 unless he is an approved company auditor under the Companies Act (Cap. 50).
 
+Remuneration of auditor
+
 5\. The remuneration of the auditor shall be paid out of the funds of the Office.
 
+Annual financial statements
+
 6\. The Office shall, as soon as practicable after the close of the financial year, prepare and submit the financial statements in respect of that year to the auditor who shall audit and report on them.
+
+Duties of auditor
 
 7. The auditor shall in his report state —
 
@@ -709,21 +696,33 @@ Financial Provisions
 
 (d) such other matters arising from the audit as he considers should be reported.
 
+Auditor’s report
+
 8\. The auditor shall, as soon as practicable after the accounts have been submitted for audit, send a report of his audit to the Office, and shall also submit such periodical and special reports to the Office as may appear necessary or as the Minister or the Office may require.
 
-9\. The auditor or any person authorised by him is entitled at any reasonable time to full and free access to all accounting and other records relating, directly or indirectly, to the financial transactions of the Office.
+Powers of auditor
 
-10\. The auditor or any person authorised by him may make copies of, or take extracts from, any such accounting and other records.
+9.—(1) The auditor or any person authorised by him is entitled at any reasonable time to full and free access to all accounting and other records relating, directly or indirectly, to the financial transactions of the Office.
 
-11\. The auditor or any person authorised by him may require any person to furnish him with such information in the possession of that person or to which that person has access as the auditor or any duly authorised person considers necessary for the purposes of his functions under this Act.
+(2) The auditor or any person authorised by him may make copies of, or take extracts from, any such accounting and other records.
 
-12\. Any person who fails, without reasonable cause, to comply with any requirement of the auditor or any person authorised by him under paragraph 11 or who otherwise hinders, obstructs or delays the auditor or person authorised by him in the performance of his functions under this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part thereof during which the offence continues after conviction.
+(3) The auditor or any person authorised by him may require any person to furnish him with such information in the possession of that person or to which that person has access as the auditor or any duly authorised person considers necessary for the purposes of his functions under this Act.
 
-13\. As soon as the accounts of the Office and the financial statements have been audited in accordance with this Act, a copy of the audited financial statements signed by the Chairman, together with a copy of any report made by the auditor, shall be submitted to the Minister.
+Penalty for obstructing auditor
 
-14\. Where the Auditor-General is not appointed as the auditor, a copy of the audited financial statements and any report made by the auditor shall be forwarded to the Auditor-General at the same time they are submitted to the Office.
+10\. Any person who fails, without reasonable cause, to comply with any requirement of the auditor or any person authorised by him under paragraph 9 or who otherwise hinders, obstructs or delays the auditor or person authorised by him in the performance of his functions under this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part thereof during which the offence continues after conviction.
 
-15\. The Minister shall as soon as practicable cause a copy of the audited financial statements and any report made by the auditor to be presented to Parliament.
+Presentation of audited financial statements and auditor’s report
+
+11\. As soon as the accounts of the Office and the financial statements have been audited in accordance with this Act, a copy of the audited financial statements signed by the Chairman, together with a copy of any report made by the auditor, shall be submitted to the Minister.
+
+Copy of auditor’s report for Auditor-General
+
+12\. Where the Auditor-General is not appointed as the auditor, a copy of the audited financial statements and any report made by the auditor shall be forwarded to the Auditor-General at the same time they are submitted to the Office.
+
+Presentation to Parliament
+
+13\. The Minister shall as soon as practicable cause a copy of the audited financial statements and any report made by the auditor to be presented to Parliament.
 
 THIRD SCHEDULE
 
@@ -731,317 +730,39 @@ Sections 30(1), 34(1) and 35
 
 Offences under Written Law
 
-1\. Sections 9, 10, 33, 34, 100, 101 and 102 of the Patents Act (Cap. 221); and rules made under section 104 of that Act.
+1\. Sections 9, 10, 33, 34, 99, 100 and 101 of the Patents Act (Cap. 221); and rules made under section 104 of that Act.
 
 2\. Sections 51, 72 and 73 of the Trade Marks Act (Cap. 332).
 
-3. Sections 29, 59, 60 and 66 of the Registered Designs Act 2000 (Act 25 of 2000).
-
-[Act 26 of 2001 wef 01/09/2001]
-
-FOURTH SCHEDULE
-
-Section 38(1)
-
-Consequential Amendments
-
-First column
-
-Second column
-
-(1)
-
-Central Provident Fund Act
-
-
-
-
-(Cap. 36)
-
-First Schedule
-
-Paragraph 6
-
-Insert, immediately after item 13, the following item:
-
-“(13A)
-
-Intellectual Property Office of Singapore.”.
-
-(2)
-
-Copyright Act
-
-
-
-
-(Cap. 63)
-
-(a)
-
-Section 7(1)
-
-Insert, immediately after the definition of “non-profit organisation”, the following definition:
-
-“ “Office” means the Intellectual Property Office of Singapore incorporated under the Intellectual Property Office of Singapore Act 2001;”.
-
-(b)
-
-Section 151(5)
-
-Delete and substitute the following paragraphs:
-
-“(5) The remuneration and allowances of the members of the Tribunal and such other expenses of the Tribunal as the Minister may determine shall be paid out of moneys provided by Parliament.
-
-(6) The remuneration of the officers and employees appointed under subsection (4) shall be paid out of the funds of the Office.”.
-
-(3)
-
-Evidence Act
-
-
-
-
-(Cap. 97)
-
-The Schedule
-
-New item 8A
-
-Insert, immediately after item 8, the following item:
-
-“8A.
-
-Intellectual Property Office of Singapore
-
-Intellectual Property Office of Singapore Act 2001.”.
-
-(4)
-
-Income Tax Act
-
-
-
-
-(Cap. 134)
-
-First Schedule
-
-Paragraph A
-
-Insert, immediately after item 21, the following item:
-
-“21A.
-
-Intellectual Property Office of Singapore”.
-
-(5)
-
-Patents Act (Cap. 221)
-
-(a)
-
-Section 2(1)
-
-Insert, immediately after the definition of “mortgage”, the following definition:
-
-“ “Office” means the Intellectual Property Office of Singapore incorporated under the Intellectual Property Office of Singapore Act 2001;”.
-
-(b)
-
-New section 103A
-
-Insert, immediately after section 103, the following section:
-
-“Composition of offences 
-
-103A\. —(1) The Registrar or any person authorised by him in writing may, in his discretion, compound any offence under this Act or any rules made thereunder which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum of money not exceeding $2,000.
-
-(2) The Office may, with the approval of the Minister, make regulations to prescribe the offences which may be compounded.
-
-(3) On payment of such sum of money, no further proceedings shall be taken against such person in respect of the offence.
-
-(4) All sums collected under this section shall be paid into the funds of the Office.”.
-
-(c)
-
-Section 106 (1st line) (including marginal note)
-
-Delete the word “Government” wherever it appears and substitute in each case the word “Office”.
-
-(d)
-
-Sections 110(1) (1st line) and 115(1) (1st line)
-
-Insert, immediately after the words “Minister may” wherever they appear, the words “, after consulting with the Office,”.
-
-(e)
-
-New section 115A
-
-Insert, immediately after section 115, the following section:
-
-“Fees to be paid to Office 
-
-115A\. —(1) All fees collected in connection with any proceedings or other matter before the Registrar or the Registry, or in connection with the provision of any service by the Registry, shall be paid into the funds of the Office.
-
-(2) Subsection (1) shall not apply to fees paid under section 85 which are to be forwarded to the International Bureau.”.
-
-(6)
-
-Statutory Bodies and Government Companies (Protection of Secrecy) Act
-
-
-
-
-(Cap. 319)
-
-The Schedule
-
-Part I
-
-Insert, immediately after item 8, the following item:
-
-“8A.
-
-Intellectual Property Office of Singapore
-
-Intellectual Property Office of Singapore Act 2001”.
-
-(7)
-
-Trade Marks Act
-
-
-
-
-(Cap. 332)
-
-(a)
-
-Section 2(1)
-
-Insert, immediately after the definition of “international trade mark (Singapore)”, the following definition:
-
-“ “Office” means the Intellectual Property Office of Singapore incorporated under the Intellectual Property Office of Singapore Act 2001;”.
-
-(b)
-
-Section 74
-
-(i)
-
-Delete the word “Registrar” in subsection (1) and substitute the words “Office and the Registrar”.
-
-(ii)
-
-Delete the words “The Registrar is not” in subsection (2) and substitute the words “Neither the Office nor the Registrar is”.
-
-(iii)
-
-Delete the word “Registrar” wherever it appears in subsection (3) and substitute in each case the words “Office or the Registrar”.
-
-(c)
-
-Section 77
-
-Insert, immediately after subsection (2), the following subsections:
-
-“(3) All fees collected shall be paid into the funds of the Office.
-
-(4) Subsection (3) shall not apply to fees prescribed in rules made under section 54(2)(g) which are to be forwarded to the International Bureau.”.
-
-(d)
-
-New section 105A
-
-Insert, immediately after section 105, the following section:
-
-“Composition of offences 
-
-105A\. —(1) The Registrar or any person authorised by him in writing may, in his discretion, compound any offence under this Act or any rules made thereunder which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum of money not exceeding $2,000.
-
-(2) The Office may, with the approval of the Minister, make regulations to prescribe the offences which may be compounded.
-
-(3) On payment of such sum of money, no further proceedings shall be taken against such person in respect of the offence.
-
-(4) All sums collected under this section shall be paid into the funds of the Office.”.
-
-(e)
-
-Section 108(1)
-
-Insert, immediately after the words “Minister may” in the 1st line, the words “, after consulting with the Office,”.
-
-(8)
-
-Registered Designs
-
-
-
-
-Act 2000
-
-
-
-
-(Act 25 of 2000)
-
-(a)
-
-Section 2(1)
-
-Insert, immediately after the definition of “exclusive licence”, the following definition:
-
-“ “Office” means the Intellectual Property Office of Singapore incorporated under the Intellectual Property Office of Singapore Act 2001;”.
-
-(b)
-
-Section 8(1)(d)
-
-Insert, immediately after the words “Government department” wherever they appear, the words “or the Office”.
-
-(c)
-
-Section 61
-
-(i)
-
-Insert, immediately after the word “Neither” in the 1st line, the words “the Office nor”.
-
-(ii)
-
-Insert, immediately after the word “of” in the section heading, the words “Office and”.
-
-(d)
-
-New section 67A
-
-Insert, immediately after section 67, the following section:
-
-“Composition of offences 
-
-67A\. —(1) The Registrar or any person authorised by him in writing may, in his discretion, compound any offence under this Act or any rules made thereunder which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum of money not exceeding $2,000.
-
-(2) The Office may, with the approval of the Minister, make regulations to prescribe the offences which may be compounded.
-
-(3) On payment of such sum of money, no further proceedings shall be taken against such person in respect of the offence.
-
-(4) All sums collected under this section shall be paid into the funds of the Office.”.
-
-(e)
-
-Section 72(1)
-
-Insert, immediately after the words “Minister may” in the 1st line, the words “, after consulting with the Office,”.
-
-(f)
-
-New section 73A
-
-Insert, immediately after section 73, the following section:
-
-“Fees to be paid to Office 
-
-73A\. All fees collected in connection with any proceedings or other matter before the Registrar or the Registry, or in connection with the provision of any service by the Registry, shall be paid into the funds of the Office.”.
-
+3. Sections 29, 59, 60 and 66 of the Registered Designs Act (Cap. 266).
+
+[26/2001]
+
+## LEGISLATIVE HISTORY
+
+Intellectual Property Office of Singapore Act
+
+(CHAPTER 140)
+
+This Legislative History is provided for the convenience of users of the Intellectual Property Office of Singapore Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 3 of 2001—Intellectual Property Office of Singapore Act 2001**|
+||Date of First Reading|12 January 2001|
+|||(Bill No. 1/2001 published on 13 January 2001)|
+||Date of Second and Third Readings|22 February 2001|
+||Date of commencement|1 April 2001|
+|2.|**Act 26 of 2001—Statutes (Miscellaneous Amendments and Repeal) Act 2001**|
+||Date of First Reading|11 July 2001|
+|||(Bill No. 24/2001 published on 12 July 2001)|
+||Date of Second and Third Readings|25 July 2001|
+||Date of commencement|1 September 2001|
+|3.|**Act 5 of 2002—Statutory Corporations (Capital Contribution) Act 2002**|
+||(Consequential amendments made by)||
+||Date of First Reading|3 May 2002|
+|||(Bill No. 7/2002 published on 4 May 2002)|
+||Date of Second and Third Readings|24 May 2002|
+||Date of commencement|15 July 2002|
+|4.|**2002 Revised Edition—Intellectual Property Office of Singapore Act**|
+||Date of operation|31 July 2002|
