@@ -248,6 +248,10 @@ but no further steps in the proceedings in relation to the offence shall be take
 
 (2) Where no extradition treaty is in force between Singapore and a State which is a party to the Convention, a notification in theGazetteunder section 4 of the Extradition Act may be made applying that Act as if the Convention were an extradition treaty between Singapore and that State; but where the Extradition Act is so applied, it shall have effect as if the only extradition crimes within the meaning of that Act were offences under this Act and attempts to commit such offences.
 
+(2A) Subsection (2) is without prejudice to any other notification made under section 4 of the Extradition Act.
+
+[26/2003 wef 03/05/2004]
+
 (3) For the purposes of the Extradition Act, any act, wherever committed, which —
 
 (a) is an offence under this Act or an attempt to commit such an offence, or would be such an offence or attempt but for section 3(2), 5(4), 6(5) or 6(6); and
@@ -268,7 +272,7 @@ Hijacking of Aircraft and Protection of Aircraft and International Airports Act
 
 (CHAPTER 124)
 
-This Legislative History is provided for the convenience of users of the Hijacking of Aircraft and Protection of Aircraft and International Airports Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Hijacking of Aircraft and Protection of Aircraft and International Airports Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -286,3 +290,8 @@ This Legislative History is provided for the convenience of users of the Hijacki
 ||Date of commencement|1 November 1996|
 |4.|**1997 Revised Edition—Hijacking of Aircraft and Protection of Aircraft and International Airports Act**|
 ||Date of operation|20 December 1997|
+|5.|**Act 26 of 2003—Maritime Offences Act 2003**|
+||Date of First Reading|16 October 2003|
+|||(Bill No. 23/2003 published on 17 October 2003)|
+||Date of Second and Third Readings|10 November 2003|
+||Date of commencement|3 May 2004|
