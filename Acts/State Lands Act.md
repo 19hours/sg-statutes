@@ -18,6 +18,8 @@
 
 - [2C Access to lands, buildings, etc.](#Access-to-lands-buildings-etc)
 
+- [2D Commissioner of Lands](#Commissioner-of-Lands)
+
 - [3 Power to make rules for disposal of available lands](#Power-to-make-rules-for-disposal-of-available-lands)
 
 - [4 Form of grant](#Form-of-grant)
@@ -58,6 +60,8 @@
 
 - [19 Power to make rules](#Power-to-make-rules)
 
+- [19A Fees to be paid to Authority](#Fees-to-be-paid-to-Authority)
+
 - [20 Erection and repair of boundary marks](#Erection-and-repair-of-boundary-marks)
 
 [**Legislative History**](#Legislative-History)
@@ -86,7 +90,19 @@ STATUTORY GRANTS AND LEASES
 
 ### Interpretation
 
-2\. In this Act, “grant” means a grant in perpetuity and “grantee” means the owner of a grant in perpetuity.
+2\. In this Act, unless the context otherwise requires —
+
+“Authority” means the Singapore Land Authority established under the Singapore Land Authority Act 2001;
+
+“Collector” has the same meaning as in the Land Revenue Collection Act (Cap. 155);
+
+“Commissioner of Lands” means such person as the Minister may appoint as the Commissioner of Lands under section 2D;
+
+“grant” means a grant in perpetuity;
+
+“grantee” means the owner of a grant.
+
+[17/2001 wef 01/06/2001]
 
 ### Appointment of Chief Valuer
 
@@ -110,9 +126,7 @@ STATUTORY GRANTS AND LEASES
 
 ### Access to lands, buildings, etc.
 
-2C\. 
-
-(1) The Chief Valuer or any officer authorised by him may —
+2C\.—(1) The Chief Valuer or any officer authorised by him may —
 
 (a) where reasonably necessary for the purposes of any work undertaken by the Chief Valuer in the performance of his functions, enter at all reasonable hours into and upon and inspect any land, building or premises without liability for trespass;
 
@@ -121,6 +135,18 @@ STATUTORY GRANTS AND LEASES
 (c) inspect any books, documents or papers in the charge of any public officer for the purposes of such work and take extracts from those books, documents or papers without any charge.
 
 [ 17/98 wef 05/06/1998]
+
+### Commissioner of Lands
+
+2D\.—(1) There shall be a Commissioner of Lands who shall be appointed by the Minister for the general administration of this Act.
+
+(2) The Minister may also appoint from among officers of the Authority such number of Deputy Commissioners and Assistant Commissioners of Lands as may be necessary for the carrying out of the provisions of this Act and any rules made thereunder.
+
+(3) A Deputy Commissioner and any Assistant Commissioner of Lands may, subject to any special or general directions of the Commissioner, exercise any of the powers conferred on the Commissioner by or under this Act or any other written law.
+
+(4) Any person who, immediately before the date of commencement of the Singapore Land Authority Act 2001, holds office as a Commissioner of Lands, Deputy Commissioner of Lands or Assistant Commissioner of Lands shall continue to hold such office as if he had been appointed under this Act until his appointment is revoked.
+
+[17/2001 wef 01/06/2001]
 
 ### Power to make rules for disposal of available lands
 
@@ -378,6 +404,14 @@ GENERAL
 
 [35/80]
 
+### Fees to be paid to Authority
+
+19A\.—(1) All fees collected in connection with any service provided by the Commissioner or Collector under this Act or any rules made thereunder shall be paid into the funds of the Authority.
+
+(2) Subsection (1) shall not apply to any premium, rents or any other consideration paid to the Commissioner or Collector in exchange for any rights or interest in land which shall be paid into the Consolidated Fund.
+
+[17/2001 wef 01/06/2001]
+
 ### Erection and repair of boundary marks
 
 20\.—(1) Every owner or occupier of land abutting on State land shall define and keep defined the boundary between the land so owned or occupied by him and the adjoining State land by some wall, bank, ditch, fence, posts, marked trees, stones, road or path, or other sufficient means so as to show the boundary in its whole extent.
@@ -525,3 +559,9 @@ This Legislative History is provided for the convenience of users of the State L
 |||(Bill No. 12/1998 published on 20 February 1998)|
 ||Date of Second and Third Readings|20 April 1998|
 ||Date of commencement|5 June 1998|
+|31.|**Act 17 of 2001—Singapore Land Authority Act 2001**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|5 March 2001|
+|||(Bill No. 17/2001 published on 6 March 2001)|
+||Date of Second and Third Readings|19 April 2001|
+||Date of commencement|1 June 2001|
