@@ -50,7 +50,7 @@
 
 - [16 Bank accounts and application of revenue](#Bank-accounts-and-application-of-revenue)
 
-- [17 Investment](#Investment)
+- [17 Power of investment](#Power-of-investment)
 
 - [18 Other financial provisions](#Other-financial-provisions)
 
@@ -460,9 +460,13 @@ the payment of which shall be met from funds provided by the Minister for Financ
 
 (2) The moneys of the Authority shall be applied only in payment or discharge of the expenses, obligations and liabilities of the Authority and in making any payments that the Authority is authorised or required to make.
 
-### Investment
+### Power of investment
 
-17\. The Authority may invest any of its funds available for investment in accordance with the provisions of the Trustees Act [Cap. 337] as to the investment of trust funds or, with the approval of the Minister, in any other manner.
+17\. The Authority may invest its funds in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
+
+[45/2004 wef 15/12/2004]
+
+[21/2010 wef 13/09/2010]
 
 ### Other financial provisions
 
@@ -1303,8 +1307,14 @@ This Legislative History is provided for the convenience of users of the Land Tr
 ||Date of commencement|15 July 2002|
 |6.|**Act 6 of 2004—Statutes (Miscellaneous Amendments) Act 2004**|
 ||Date of First Reading|5 January 2004|
-|||(Bill No. 4/2004 published on 27 February 2004)|
+|||(Bill No. 4/2004 published on 6 January 2004)|
 ||Date of Second and Third Readings|6 February 2004|
 ||Dates of commencement|8 March 2004|
 |7.|**G. N. No. S 590/2004—Land Transport Authority of Singapore Act (Amendment of Fifth Schedule) Order 2004**|
 ||Date of commencement|24 September 2004|
+|8.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 September 2004|
+|||(Bill No. 43/2004 published on 22 September 2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|15 December 2004|
