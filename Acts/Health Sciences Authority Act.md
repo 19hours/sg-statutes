@@ -62,6 +62,8 @@
 
 - [22 Borrowing powers](#Borrowing-powers)
 
+- [22A Issue of shares, etc.](#Issue-of-shares-etc)
+
 - [23 Bank accounts](#Bank-accounts)
 
 - [24 Application of funds](#Application-of-funds)
@@ -421,6 +423,12 @@ FINANCIAL PROVISIONS
 ### Borrowing powers
 
 22\. The Authority may, from time to time, for the purposes of this Act raise loans from the Government or, with the consent of the Minister, from any other source.
+
+### Issue of shares, etc.
+
+22A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Authority under this Act, or of any capital injection or other investment by the Government in the Authority in accordance with any written law, the Authority shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
+
+[5/2002 wef 15/07/2002]
 
 ### Bank accounts
 
