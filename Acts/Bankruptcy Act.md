@@ -1162,7 +1162,7 @@ Bankruptcy petitions and bankruptcy orders
 
 61\.—(1) No bankruptcy petition shall be presented to the court in respect of any debt or debts unless at the time the petition is presented —
 
-(a) the amount of the debt, or the aggregate amount of the debts, is not less than $2,000;
+(a) the amount of the debt, or the aggregate amount of the debts, is not less than $10,000;
 
 (b) the debt or each of the debts is for a liquidated sum payable to the petitioning creditor immediately;
 
@@ -2923,3 +2923,5 @@ This Legislative History is provided for the convenience of users of the Bankrup
 ||Date of commencement|15 September 1997|
 |4.|**G. N. No. S 126/1999—Bankruptcy (Variation of Sum of Debts under section 125(2)(b)) Rules 1999**|
 ||Date of commencement|1 May 1999|
+|5.|**G. N. No. S 301/1999—Bankruptcy (Variation of Minimum Amount of Debt for Petition for Bankruptcy) Order 1999**|
+||Date of commencement|3 July 1999|
