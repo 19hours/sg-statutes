@@ -44,11 +44,15 @@
 
 - [19 Rules](#Rules)
 
+- [19A Power to amend sums specified in certain provisions](#Power-to-amend-sums-specified-in-certain-provisions)
+
 - [20 Application of this Act to securities](#Application-of-this-Act-to-securities)
 
 - [21 Penalty](#Penalty)
 
 - [22 Power to exempt](#Power-to-exempt)
+
+[**THE SCHEDULE Territory**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -92,7 +96,15 @@ An Act to provide against third-party risks arising out of the use of motor vehi
 
 ### Users of motor vehicles to be insured against third-party risks
 
-3\.—(1) Subject to the provisions of this Act, it shall not be lawful for any person to use or to cause or permit any other person to use a motor vehicle unless there is in force in relation to the use of the motor vehicle by that person or that other person, as the case may be, such a policy of insurance or such a security in respect of third-party risks as complies with the requirements of this Act.
+3\.—(1) Subject to the provisions of this Act, it shall not be lawful for any person to use or to cause or permit any other person to use —
+
+(a) a motor vehicle in Singapore; or
+
+(b) a motor vehicle which is registered in Singapore in any territory specified in the Schedule,
+
+unless there is in force in relation to the use of the motor vehicle by that person or that other person, as the case may be, such a policy of insurance or such a security in respect of third-party risks as complies with the requirements of this Act.
+
+[23/98 wef 21/10/1998]
 
 (2) If a person acts in contravention of this section, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 3 months or to both and a person convicted of an offence under this section shall (unless the court for special reasons thinks fit to order otherwise and without prejudice to the power of the court to order a longer period of disqualification) be disqualified for holding or obtaining a driving licence under the Road Traffic Act [Cap. 276] for a period of 12 months from the date of the conviction:
 
@@ -124,13 +136,35 @@ whichever period is the longer.
 
 (6) This section shall not extend to invalid carriages.
 
+(7) The Minister may, by order published in theGazette, amend the Schedule.
+
+[23/98 wef 21/10/1998]
+
 ### Requirements in respect of policies and securities
 
 4\.—(1) In order to comply with the requirements of this Act, a policy of insurance must, subject to subsection (2), be a policy which —
 
 (a) is issued by an insurer who at the time the policy is issued is lawfully carrying on motor insurance business in Singapore; and
 
-(b) insures such person, persons or classes of persons as may be specified in the policy in respect of any liability which may be incurred by him or them in respect of the death of or bodily injury to any person caused by or arising out of the use of the motor vehicle.
+(b) insures such person, persons or classes of persons as may be specified in the policy in respect of any liability which may be incurred by him or them in respect of the death of or bodily injury to any person caused by or arising out of the use of the motor vehicle in Singapore and in any territory specified in the Schedule.
+
+(1A) It is hereby declared that a policy of insurance —
+
+(a) which was issued on or before the commencement of the Motor Vehicles (Third-Party Risks and Compensation) (Amendment) Act 1998 by an insurer who at the time the policy was issued was lawfully carrying on motor insurance business in Singapore; and
+
+(b) which insures such person, persons or classes of persons as may be specified in the policy in respect of any liability which may be incurred by him or them in respect of the death of or bodily injury to any person caused by or arising out of the use of a motor vehicle in any territory specified in the Schedule,
+
+shall be deemed always to have been a policy of insurance —
+
+(i) issued for the purposes of this Act; and
+
+(ii) under which third parties are conferred rights by sections 9, 11, 13 and 14.
+
+[23/98 wef 21/10/1998]
+
+(1B) Nothing in subsection (1A) shall affect the rights of any person under any judgment given by any court of law before the commencement of the Motor Vehicles (Third-Party Risks and Compensation) (Amendment) Act 1998 in respect of any claim arising under a policy of insurance which falls within the description of that subsection.
+
+[23/98 wef 21/10/1998]
 
 (2) The policy shall not, by virtue of subsection (1)(b), be required to cover —
 
@@ -146,7 +180,7 @@ whichever period is the longer.
 
 (c) the owner of a motor vehicle who has made a deposit under section 3,
 
-in respect of the death of or bodily injury to any person arising out of the use of a motor vehicle on a road , and the person who has so died or been bodily injured has, to the knowledge of the approved insurer or the owner, as the case may be, received treatment at a hospital, whether as an inpatient, or as an out-patient, in respect of the injury so arising, there shall also be paid by the approved insurer or the owner to the hospital the expenses reasonably incurred by the hospital in affording that treatment, after deducting from those expenses any moneys actually received by the hospital in payment of a specific charge for that treatment:
+in respect of the death of or bodily injury to any person arising out of the use of a motor vehicle on a road in Singapore or in any territory specified in the Schedule, and the person who has so died or been bodily injured has, to the knowledge of the approved insurer or the owner, as the case may be, received treatment at a hospital, whether as an inpatient, or as an out-patient, in respect of the injury so arising, there shall also be paid by the approved insurer or the owner to the hospital the expenses reasonably incurred by the hospital in affording that treatment, after deducting from those expenses any moneys actually received by the hospital in payment of a specific charge for that treatment:
 
 Provided that the amount to be paid by the approved insurer or the owner shall not exceed $400 for each person so treated as an in-patient or $40 for each person so treated as an out-patient.
 
@@ -178,7 +212,7 @@ Provided that in respect of a Government hospital which admits paying patients, 
 
 ### Exclusion of liability in respect of passengers to be of no effect
 
-5\.—(1) Where after 1st March 1981 a person uses a motor vehicle in circumstances such that under section 3 there is required to be in force in relation to his use of it such a policy of insurance or security as is mentioned in section 3(1), then, if any other person is carried in or upon the motor vehicle while the user is so using it, any antecedent agreement or understanding between them (whether intended to be legally binding or not) shall be of no effect so far as it purports or might be held —
+5\.—(1) Where a person uses a motor vehicle in circumstances such that under section 3 there is required to be in force in relation to his use of it such a policy of insurance or security as is mentioned in section 3(1), then, if any other person is carried in or upon the motor vehicle while the user is so using it, any antecedent agreement or understanding between them (whether intended to be legally binding or not) shall be of no effect so far as it purports or might be held —
 
 (a) to negative or restrict any such liability of the user in respect of persons carried in or upon the motor vehicle as is required by section 4 to be covered by a policy of insurance; or
 
@@ -194,9 +228,9 @@ and the fact that a person so carried has willingly accepted as his the risk of 
 
 ### Payment of compensation
 
-6\.—(1) Where any payment exceeding $5,000, other than a liquidated sum specified in a policy of insurance, is made by way of compensation by an approved insurer or the owner of a motor vehicle in respect of the death or bodily injury to any person arising out of the use of a motor vehicle on a road , that payment shall be made to the Public Trustee as trustee for the persons entitled to the benefit thereof.
+6\.—(1) Where any payment exceeding $5,000, other than a liquidated sum specified in a policy of insurance, is made by way of compensation by an approved insurer or the owner of a motor vehicle in respect of the death or bodily injury to any person arising out of the use of a motor vehicle on a road in Singapore or in any territory specified in the Schedule, that payment shall be made to the Public Trustee as trustee for the persons entitled to the benefit thereof.
 
-[Act 26/1994 wef 01/02/1995]
+[Act 26/94 wef 01/02/1995 vide S32/95]
 
 (2) The Public Trustee may where he considers that any payment made to him under subsection (1) is manifestly inadequate require the parties to obtain the approval of the court before accepting payment.
 
@@ -240,11 +274,17 @@ Provided that nothing in this section shall require an insurer to pay any sum in
 
 ### Duty of insurers to satisfy judgments against persons insured in respect of third-party risks
 
-9\.—(1) If after a certificate of insurance has been issued under section 4(5) to the person by whom a policy has been effected judgment for a sum exceeding $5,000 in respect of any such liability as is required to be covered by a policy under section 4(1)(b) (being a liability covered by the terms of the policy) is obtained against any person insured by the policy then, notwithstanding that the insurer may be entitled to avoid or cancel or may have avoided or cancelled the policy, the insurer shall, subject to this section, pay to the Public Trustee as trustee for the persons entitled thereto any sum payable thereunder in respect of the liability including any amount payable in respect of costs and any sum payable in respect of interest on that sum by virtue of any written law relating to interest on judgments.
+9\.—(1) If after a certificate of insurance has been issued under section 4(5) to the person by whom a policy has been effected judgment in respect of any such liability as is required to be covered by a policy under section 4(1)(b) (being a liability covered by the terms of the policy) is obtained against any person insured by the policy then, notwithstanding that the insurer may be entitled to avoid or cancel or may have avoided or cancelled the policy, the insurer shall, subject to this section, pay to the Public Trustee as trustee for the persons entitled thereto any sum payable thereunder in respect of the liability including any amount payable in respect of costs and any sum payable in respect of interest on that sum by virtue of any written law relating to interest on judgments.
 
-[Act 26/1994 wef 01/02/1995]
+[Act 26/94]
 
-(2) Notwithstanding subsection (1) providing for the payment to the Public Trustee, the right of action thereby created shall vest in the persons entitled to the benefit of the judgment payable thereunder.
+(2) Notwithstanding subsection (1) providing for the payment to the Public Trustee —
+
+(a) where the judgment is for a sum not exceeding $5,000 , the insurer may pay the sum to the person or persons entitled to the benefit of the judgment; and
+
+(b) the right of action thereby created shall vest in the person or persons entitled to the benefit of the judgment payable thereunder.
+
+[23/98 wef 21/10/1998]
 
 (3) No sum shall be payable by an insurer under subsections (1) and (2) —
 
@@ -276,7 +316,7 @@ Provided that an insurer who has obtained such a declaration in an action shall 
 
 (8) Every judgment for a sum exceeding $5,000 in respect of any such liability as is required to be covered by a policy under section 4(1)(b) shall provide that the sums payable under the judgment shall be paid to the Public Trustee as trustee for the persons entitled to the benefit of the judgment.
 
-[Act 26/1994 wef 01/02/1995]
+[Act 26/94 wef 01/02/1995]
 
 (9) The moneys received by the Public Trustee under a judgment in accordance with subsection (1) shall be distributed by him, after payment of all costs and fees, directly to the persons entitled in accordance with the judgment of the court and with any rules made under this Act.
 
@@ -292,13 +332,13 @@ Provided that an insurer who has obtained such a declaration in an action shall 
 
 if either before or after that event any such liability as aforesaid is incurred by the insured his rights against the insurer under the policy in respect of the liability shall, notwithstanding anything in any written law to the contrary, be transferred to and vest in the third party to whom the liability was so incurred.
 
-(2) Where an order is made under section 148 of the Bankruptcy Act 1994 for the administration in bankruptcy of the estate of a deceased debtor then if any debt provable in bankruptcy is owing by the deceased in respect of a liability against which he was insured under a policy issued for the purposes of this Act as being a liability to a third party the deceased debtor’s rights against the insurer under the policy in respect of that liability shall notwithstanding anything in the Bankruptcy Act be transferred to and vest in the person to whom the debt is owing.
+(2) Where an order is made under section 148 of the Bankruptcy Act 1995 for the administration in bankruptcy of the estate of a deceased debtor then if any debt provable in bankruptcy is owing by the deceased in respect of a liability against which he was insured under a policy issued for the purposes of this Act as being a liability to a third party the deceased debtor’s rights against the insurer under the policy in respect of that liability shall notwithstanding anything in the Bankruptcy Act be transferred to and vest in the person to whom the debt is owing.
 
-[Act 15/1995 wef 15/07/1995]
+[Act 15/95]
 
-(3) Any condition in a policy issued for the purposes of this Act purporting directly or indirectly to avoid the policy or to alter the rights of the party thereunder upon the happening to the insured of any of the events specified in subsection (1)(a) or (b) or upon the making of an order under section 148 of the Bankruptcy Act 1994 in respect of his estate shall be of no effect.
+(3) Any condition in a policy issued for the purposes of this Act purporting directly or indirectly to avoid the policy or to alter the rights of the party thereunder upon the happening to the insured of any of the events specified in subsection (1)(a) or (b) or upon the making of an order under section 148 of the Bankruptcy Act 1995 in respect of his estate shall be of no effect.
 
-[Act 15/1995 wef 15/07/1995]
+[Act 15/95 wef 15/07/1995]
 
 (4) Upon a transfer under subsection (1) or (2), the insurer shall, subject to section 12, be under the same liability to the third party as he would have been under to the insured but —
 
@@ -322,9 +362,9 @@ if either before or after that event any such liability as aforesaid is incurred
 
 (2) In the event of —
 
-(a) any person becoming bankrupt or making a composition or arrangement with his creditors or in the event of an order being made under section 148 of the Bankruptcy Act 1994 in respect of the estate of any person; or
+(a) any person becoming bankrupt or making a composition or arrangement with his creditors or in the event of an order being made under section 148 of the Bankruptcy Act 1995 in respect of the estate of any person; or
 
-[Act 15/1995 wef 15/07/1995]
+[Act 15/95 wef 15/07/1995]
 
 (b) a winding-up order being made or a resolution for a voluntary winding up being passed with respect to any company or a receiver or manager of the company’s business or undertaking being duly appointed or possession being taken by or on behalf of the holders of any debentures secured by a floating charge of any property comprised in or subject to the charge,
 
@@ -394,7 +434,7 @@ Provided that a person shall not be convicted of an offence under this subsectio
 
 (3) Notwithstanding the provisions of any other written law, any costs payable to a public officer or an advocate and solicitor acting in respect of the matters referred to in subsection (2), except in respect of a judgment or settlement for a sum not exceeding $5,000, shall be taxed and the public officer or advocate and solicitor shall not receive or accept any payment of money for so acting other than the taxed costs.
 
-[Act 26/1994 wef 01/02/1995]
+[Act 26/94 wef 01/02/1995]
 
 (4) Any person who contravenes this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding one year or to both.
 
@@ -418,13 +458,21 @@ Provided that a person shall not be convicted of an offence under this subsectio
 
 (e) as to the custody, production, cancellation and surrender of any such certificates or other documents;
 
-(f) for providing that any provisions of this Act shall, in relation to motor vehicles brought into Singapore from a place outside Malaysia by persons making only a temporary stay in Singapore, have effect subject to such modifications and adaptations as may be prescribed;
+(f) for providing that any provisions of this Act shall, in relation to motor vehicles brought into Singapore from a place outside Singapore by persons making only a temporary stay in Singapore, have effect subject to such modifications and adaptations as may be prescribed;
 
 (g) with respect to the payment of deposits under this Act and the investment thereof or dealing therewith, the deposit of stocks or other securities in lieu of money, the payment of the interest or dividends from time to time accruing due on any securities in which deposits are for the time being invested and the withdrawal and transfer of deposits.
 
 (2) All rules made under this Act shall be published in theGazetteand shall be presented to Parliament as soon as possible after publication and if a resolution is passed pursuant to a motion notice whereof has been given for a sitting day not later than the first available sitting day of Parliament next after the expiry of one month from the date when the rules are so presented annulling the rules or any part thereof as from a specified date, the rules or such part thereof as the case may be shall thereupon become void as from that date but without prejudice to the validity of anything previously done thereunder or to the making of new rules.
 
 [18
+
+### Power to amend sums specified in certain provisions
+
+19A\. The Minister may, by order published in theGazette, amend the following provisions of this Act by substituting a different sum for any sum for the time being specified therein:
+
+Sections 3(5)(b), 4(3) and (6)(b), 6(1), 9(2)(a) and (8) and 18(3).
+
+[23/98 wef 21/10/1998]
 
 ### Application of this Act to securities
 
@@ -445,6 +493,16 @@ Provided that a person shall not be convicted of an offence under this subsectio
 22\. The Minister may, by notification in theGazettefrom time to time and either generally or for any period stated in the notification and subject to such conditions as may in the notification be stated, exempt from any provision of this Act or of any rules made thereunder any person or class or description of persons or any vehicle or class or description of vehicles.
 
 [21
+
+## THE SCHEDULE
+
+Sections 3(1) and (7), 4(1)(b), (1A), (1B) and (3) and 6(1)
+
+Territory
+
+West Malaysia.
+
+[23/98 wef 21/10/1998]
 
 ## LEGISLATIVE HISTORY
 
@@ -495,3 +553,8 @@ This Legislative History is provided for the convenience of users of the Motor V
 ||Date Committed to Select Committee|Parl. 1 of 1995 presented to Parliament on 7 March 1995|
 ||Date of Third Reading|23 March 1995|
 ||Date of commencement|15 July 1995|
+|10.|**Act 23 of 1998—Motor Vehicles (Third-Party Risks and Compensation) (Amendment) Act 1998**|
+||Date of First Reading|1 June 1998|
+|||(Bill No. 27/98 published on 2 June 1998)|
+||Date of Second and Third Readings|29 June 1998|
+||Date of commencement|21 October 1998|
