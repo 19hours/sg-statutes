@@ -62,6 +62,8 @@
 
 - [22 Borrowing powers](#Borrowing-powers)
 
+- [22A Issue of shares, etc.](#Issue-of-shares-etc)
+
 - [23 Bank accounts](#Bank-accounts)
 
 - [24 Application of funds](#Application-of-funds)
@@ -416,6 +418,12 @@ FINANCIAL PROVISIONS
 
 22\. The Board may, from time to time, for the purposes of this Act raise loans from the Government or, with the consent of the Minister, from any other source.
 
+### Issue of shares, etc.
+
+22A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Board under this Act, or of any capital injection or other investment by the Government in the Board in accordance with any written law, the Board shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
+
+[5/2002 wef 15/07/2002]
+
 ### Bank accounts
 
 23\. The Board shall open and maintain one or more accounts with such bank or banks as the Board thinks fit and every such account shall be operated by such person or persons as may, from time to time, be authorised in that behalf by the Board.
@@ -688,7 +696,7 @@ Departments
 
 5\. Health Promotion Division Administration.
 
-var printViewUrl = 'https://sso.agc.gov.sg/Act/HPBA2001/Historical/20010401?DocDate=20010330&ValidDate=20010401'; var printViewFilter = {"DocType":"Act","DocNo":"HPBA2001","QueryDate1":"20010401","DocStatus":"Historical","ValidDate":"20010401","ValidDt":null,"TransactionDate":null,"DocDate":"20010330","ViewType":"Print","CompareDate":null,"ShowDiff":"","PrintType":"html","ProvIds":"all-.,toc-.","PageIndex":0,"PageSize":0,"SortBy":null,"SortOrder":null,"Timeline":null,"MyCollection":null,"CollectionId":null,"CollectionName":null,"In":null,"GetPartialView":null,"Phrase":null,"Exact":null,"Any":null,"Without":null,"WiAl":null,"WiPr":null,"WiLT":null,"WiSc":null,"WiDT":null,"WiDH":null,"WiES":null,"WiPH":null,"RefinePhrase":[""],"RefineWithin":[""],"CustomSearchId":null}; var ajaxToken = 'CMfchazJKsIYrgUCQw3X2gApdEAoU8giiyqh4gBbvIjCU7keo9RZBFbD+fJfZrbJ+X7USV7uakfMocOKqvWhZbvL/ehqw2NMNpq6bfut/mfzi4ps4jYRmqBoO8cCmxYbk8rkEjl9YVmRj3addo6hvK6adDstWVckoLptEc3ufeJo7BaCQavGHG8znBDWPyYcEleRrXGCq9ZpZBc02tqDiw==';
+var printViewUrl = 'https://sso.agc.gov.sg/Act/HPBA2001/Historical/20020715?DocDate=20020731&ValidDate=20020715'; var printViewFilter = {"DocType":"Act","DocNo":"HPBA2001","QueryDate1":"20020715","DocStatus":"Historical","ValidDate":"20020715","ValidDt":null,"TransactionDate":null,"DocDate":"20020731","ViewType":"Print","CompareDate":null,"ShowDiff":"","PrintType":"html","ProvIds":"all-.,toc-.","PageIndex":0,"PageSize":0,"SortBy":null,"SortOrder":null,"Timeline":null,"MyCollection":null,"CollectionId":null,"CollectionName":null,"In":null,"GetPartialView":null,"Phrase":null,"Exact":null,"Any":null,"Without":null,"WiAl":null,"WiPr":null,"WiLT":null,"WiSc":null,"WiDT":null,"WiDH":null,"WiES":null,"WiPH":null,"RefinePhrase":[""],"RefineWithin":[""],"CustomSearchId":null}; var ajaxToken = 'CMfchazJKsIYrgUCQw3X2nwIX7ZOBqAWjEUkWHgFJG0V84blR/iaHBpAD+5RlYX0hS+QRrE3nTaqhGrNOAEmJk/KVsMbKlb/7QczeTUiN7tVABNAP71F5i0F7pe4i2H1pa2eq/zuSBpgOhCYTg6qNHtXJ3rv97CHlhn2teq0p9exolhBylOXRfv3AOVQVKIZkH1ihw0CqbHm2p3f+e0F2A==';
 
 $(function () { initPrintView(); });
 
