@@ -38,11 +38,11 @@
 
 - [13 Power of Minister to exempt](#Power-of-Minister-to-exempt)
 
-- [14 Reimposition of customs duty](#Reimposition-of-customs-duty)
+- [14 Reimposition of customs duty or excise duty](#Reimposition-of-customs-duty-or-excise-duty)
 
 - [15 Relief from duty on Singapore-made goods reimported](#Relief-from-duty-on-Singapore-made-goods-reimported)
 
-- [16 Remission of customs duty on goods lost, damaged or destroyed before removal from customs control](#Remission-of-customs-duty-on-goods-lost-damaged-or-destroyed-before-removal-from-customs-control)
+- [16 Remission of customs duty or excise duty on goods lost, damaged or destroyed before removal from customs control](#Remission-of-customs-duty-or-excise-duty-on-goods-lost-damaged-or-destroyed-before-removal-from-customs-control)
 
 - [16A Rebate for motor cars](#Rebate-for-motor-cars)
 
@@ -56,9 +56,9 @@
 
 - [21 Calculation of duty](#Calculation-of-duty)
 
-- [22 Value of imported goods other than motor spirit](#Value-of-imported-goods-other-than-motor-spirit)
+- [22 Value of imported or locally-manufactured goods, other than motor spirit, for excise duty](#Value-of-imported-or-locally-manufactured-goods-other-than-motor-spirit-for-excise-duty)
 
-- [22A Value of imported goods for import duty](#Value-of-imported-goods-for-import-duty)
+- [22A Value of imported goods, other than motor spirit, for customs duty](#Value-of-imported-goods-other-than-motor-spirit-for-customs-duty)
 
 - [22B Objection and appeal on valuation](#Objection-and-appeal-on-valuation)
 
@@ -224,6 +224,8 @@
 
 - [90D Information not to be published or disclosed](#Information-not-to-be-published-or-disclosed)
 
+- [90E Retention of trade documents](#Retention-of-trade-documents)
+
 - [91 Persons bound to give information or produce documents](#Persons-bound-to-give-information-or-produce-documents)
 
 - [92 Service of notices](#Service-of-notices)
@@ -360,7 +362,7 @@ REVISED EDITION 1997
 
 (20th December 1997)
 
-An Act relating to customs.
+An Act relating to customs and excise.
 
 [26th September 1960]
 
@@ -408,7 +410,9 @@ PRELIMINARY
 
 “customs airport” means any place which has been designated as a customs airport;
 
-“customs duty” means any import or excise duty imposed by or under this Act;
+“customs duty” means duty on goods imported into Singapore, excluding any excise duty;
+
+[33/2000 wef 01/01/2001]
 
 “customs territory” means Singapore and the territorial waters thereof but excluding any free trade zone;
 
@@ -428,11 +432,13 @@ as certified by the Director of Scientific Services ;
 
 “Director of Scientific Services” includes the Deputy Director of Scientific Services, the Principal Scientific Officer, the Senior Scientific Officer and the Scientific Officer of the Department of Scientific Services;
 
-“dutiable goods” means any goods subject to the payment of customs duty on entry into customs territory or manufactured in Singapore (including any free trade zone) and on which customs duty has not been paid and includes goods manufactured in a free trade zone from materials of a class dutiable on entry into customs territory for consumption within the customs territory;
+“dutiable goods” means any goods subject to the payment of customs duty or excise duty on entry into customs territory or manufactured in Singapore (including any free trade zone) and on which customs duty or excise duty has not been paid and includes goods manufactured in a free trade zone from materials of a class dutiable on entry into customs territory for consumption within the customs territory;
 
 “electronic notice” has the meaning assigned to it in section 90A(1);
 
-“excise duty” means duty on goods manufactured in or imported into Singapore;
+“excise duty” means duty on goods whether manufactured in Singapore or elsewhere;
+
+[33/2000 wef 01/01/2001]
 
 “export”, with its grammatical variations and cognate expressions, means to take or cause to be taken out of the customs territory by any means or to place goods in any form of conveyance for the purpose of taking the goods out of the customs territory by any means to any place including a free trade zone; except that goods bona fide in transit, including goods which have been transhipped, shall not be deemed to be exported unless they are or become uncustomed goods;
 
@@ -446,9 +452,7 @@ as certified by the Director of Scientific Services ;
 
 “heavy oil or diesel oil” includes any liquid, other than petroleum, which is or may be used as a fuel in the engine of a traction engine or motor vehicle;
 
-“import duty” means duty on goods imported into Singapore;
-
-“import”, with its grammatical variations and cognate expressions, means to bring or cause to be brought into the customs territory by any means from any place including a free trade zone; except that goods bona fide in transit, including goods which have been taken into any free trade zone from outside the customs territory or transhipped, shall not, for the purpose of the levy of customs duties , be deemed to be imported unless they are or become uncustomed goods;
+“import”, with its grammatical variations and cognate expressions, means to bring or cause to be brought into the customs territory by any means from any place including a free trade zone; except that goods bona fide in transit, including goods which have been taken into any free trade zone from outside the customs territory or transhipped, shall not, for the purpose of the levy of customs duties or excise duties, be deemed to be imported unless they are or become uncustomed goods;
 
 “importer” includes and applies to any owner or other person for the time being possessed of or beneficially interested in any goods at and from the time of importation thereof until the goods are duly removed from customs control;
 
@@ -460,7 +464,7 @@ as certified by the Director of Scientific Services ;
 
 “in transit” means taken out or sent from any country and brought into Singapore by land, sea or air (whether or not landed or transhipped in Singapore) for the sole purpose of being carried to another country either by the same or another conveyance;
 
-“licensed factory warehouse” means any place or premises licensed under section 50 for the warehousing of dutiable goods, which goods may be removed by a licensee for the purpose of manufacture of goods for export or otherwise before payment of the customs duty payable thereon, and also for the warehousing of finished and semi-finished products, partly or wholly manufactured from dutiable raw materials;
+“licensed factory warehouse” means any place or premises licensed under section 50 for the warehousing of dutiable goods, which goods may be removed by a licensee for the purpose of manufacture of goods for export or otherwise before payment of the customs duty or excise duty payable thereon, and also for the warehousing of finished and semi-finished products, partly or wholly manufactured from dutiable raw materials;
 
 “licensed warehouse” means a warehouse or other place licensed for the warehousing of dutiable goods under section 51(1);
 
@@ -618,11 +622,15 @@ LEVYING OF DUTY AND TAX
 
 ### Levying of duties
 
-10\.—(1) There shall be charged, levied and paid to the Director-General such customs duties including import and excise duties on any goods imported into the customs territory or manufactured in Singapore as may be prescribed by the Minister by order published in theGazette.
+10\.—(1) There shall be charged, levied and paid to the Director-General such customs duties and excise duties on any goods imported into the customs territory or manufactured in Singapore as may be prescribed by the Minister by order published in theGazette.
 
 [23/93]
 
-(2) Without prejudice to any other remedy, any customs duty including import or excise duty or any tax, fee or other charge payable under this Act may be recovered by the Minister as a civil debt due to the Government.
+(1A) Any excise duty imposed by or under this Act on any goods shall be imposed on a non-discriminatory basis regardless of the place of origin or manufacture of the goods.
+
+[33/2000 wef 01/01/2001]
+
+(2) Without prejudice to any other remedy, any customs duty or excise duty or any tax, fee or other charge payable under this Act may be recovered by the Minister as a civil debt due to the Government.
 
 [23/93]
 
@@ -634,53 +642,53 @@ LEVYING OF DUTY AND TAX
 
 ### Measuring and testing by proper officers of customs
 
-12\.—(1) The proper officer of customs may value, weigh, measure, test or otherwise examine, or may cause to be weighed, measured, tested or otherwise examined, any dutiable or uncustomed goods for the purpose of ascertaining the customs duty leviable thereon.
+12\.—(1) The proper officer of customs may value, weigh, measure, test or otherwise examine, or may cause to be weighed, measured, tested or otherwise examined, any dutiable or uncustomed goods for the purpose of ascertaining the customs duty or excise duty leviable thereon.
 
 (2) When a valuation of any goods has been made by the proper officer of customs, the valuation shall be presumed to be correct until the contrary is proved.
 
 ### Power of Minister to exempt
 
-13\.—(1) The Minister may, by order, exempt, subject to such conditions as he may consider fit to impose, any class of goods or persons from the payment of the whole or any part of any customs duties, taxes, fees or other charges which may be payable.
+13\.—(1) The Minister may, by order, exempt, subject to such conditions as he may consider fit to impose, any class of goods or persons from the payment of the whole or any part of any customs duties, excise duties, taxes, fees or other charges which may be payable.
 
 (2) The Minister may in any particular case —
 
-(a) exempt any person from the payment of the whole or any part of the customs duties , taxes, fees or other charges which may be payable by that person; or
+(a) exempt any person from the payment of the whole or any part of the customs duties , excise duties, taxes, fees or other charges which may be payable by that person; or
 
-(b) direct the refund to any person of the whole or any part of the customs duties, taxes, fees or other charges which have been paid by that person.
+(b) direct the refund to any person of the whole or any part of the customs duties, excise duties, taxes, fees or other charges which have been paid by that person.
 
 (3) In granting an exemption or directing a refund, the Minister may impose such conditions as he may consider fit.
 
-(4) Any goods in respect of which an exemption from the payment of customs duties, taxes, fees or other charges has been granted under subsection (1) or (2) shall be —
+(4) Any goods in respect of which an exemption from the payment of customs duties, excise duties, taxes, fees or other charges has been granted under subsection (1) or (2) shall be —
 
-(a) deemed to be dutiable goods until the conditions, if any, subject to which the exemption from duties, taxes, fees or other charges was granted are fulfilled; and
+(a) deemed to be dutiable goods until the conditions, if any, subject to which the exemption from customs duties, excise duties, taxes, fees or other charges was granted are fulfilled; and
 
-(b) liable to all other charges, not being customs duties, taxes, fees or other charges, to which they would be subject if no such exemption had been granted.
+(b) liable to all other charges, not being customs duties, excise duties, taxes, fees or other charges, to which they would be subject if no such exemption had been granted.
 
-### Reimposition of customs duty
+### Reimposition of customs duty or excise duty
 
-14\.—(1) If any goods, on which customs duty has not been paid by reason of an exemption granted under section 13, cease to comply with the conditions subject to which the exemption was granted or cease to be kept or used by the person or for the purposes qualifying them for the exemption, those goods shall, upon such cesser, become liable to the customs duty to which they would have been liable if they had not been the subject of an exemption.
+14\.—(1) If any goods, on which customs duty or excise duty has not been paid by reason of an exemption granted under section 13, cease to comply with the conditions subject to which the exemption was granted or cease to be kept or used by the person or for the purposes qualifying them for the exemption, those goods shall, upon such cesser, become liable to the customs duty or excise duty to which they would have been liable if they had not been the subject of an exemption.
 
-(2) The person to whom the exemption was granted and any person found in possession of those goods shall be jointly and severally liable to pay the customs duty .
+(2) The person to whom the exemption was granted and any person found in possession of those goods shall be jointly and severally liable to pay the customs duty or excise duty.
 
-(3) If any goods, which are liable to customs duty under subsection (1) and on which customs duty has not been paid, are found in the possession or on the premises of any person other than the person authorised to possess them under the terms of the exemption, those goods shall, until the contrary is proved, be deemed to be uncustomed goods.
+(3) If any goods, which are liable to customs duty or excise duty under subsection (1) and on which customs duty or excise duty has not been paid, are found in the possession or on the premises of any person other than the person authorised to possess them under the terms of the exemption, those goods shall, until the contrary is proved, be deemed to be uncustomed goods.
 
 ### Relief from duty on Singapore-made goods reimported
 
-15\. Goods manufactured, assembled or produced in Singapore which are not subject to excise duties and which have been exported may be imported or brought back into Singapore without payment of import dutyif it is shown to the satisfaction of the Director-General —
+15\. Goods manufactured, assembled or produced in Singapore which are not subject to excise duties and which have been exported may be imported or brought back into Singapore without payment of customs duty if it is shown to the satisfaction of the Director-General —
 
 (a) that the goods were manufactured, assembled or produced in Singapore; and
 
 (b) that the goods have not undergone any processing or manipulation outside Singapore since their exportation.
 
-### Remission of customs duty on goods lost, damaged or destroyed before removal from customs control
+### Remission of customs duty or excise duty on goods lost, damaged or destroyed before removal from customs control
 
-16\.—(1) If any dutiable goods are by unavoidable accident lost, damaged or destroyed or are lost through theft or through evaporation at any time before removal from customs control, the Director-General may remit the whole or any part of the customs duty payable thereon.
+16\.—(1) If any dutiable goods are by unavoidable accident lost, damaged or destroyed or are lost through theft or through evaporation at any time before removal from customs control, the Director-General may remit the whole or any part of the customs duty or excise duty payable thereon.
 
-(2) After removal of any goods from customs control, no abatement of customs duties shall be allowed on any such goods on account of loss or damage, or on account of any claim —
+(2) After removal of any goods from customs control, no abatement of customs duties or excise duties shall be allowed on any such goods on account of loss or damage, or on account of any claim —
 
-(a) to pay customs duty at a preferential rate; or
+(a) to pay customs duty or excise duty at a preferential rate; or
 
-(b) that the weight, measure, volume or value as determined by the proper officer of customs for the purpose of ascertaining the customs duty on such goods, or any other factor affecting the goods, is incorrect,
+(b) that the weight, measure, volume or value as determined by the proper officer of customs for the purpose of ascertaining the customs duty or excise duty on such goods, or any other factor affecting the goods, is incorrect,
 
 unless notice in writing of the claim has been given at or before the time of the removal.
 
@@ -688,7 +696,7 @@ unless notice in writing of the claim has been given at or before the time of th
 
 16A\. The Minister may, by order —
 
-(a) grant, subject to such conditions as he may consider fit to impose, a rebate on any customs dutiespaid in respect of a motor car; and
+(a) grant, subject to such conditions as he may consider fit to impose, a rebate on any excise duty paid in respect of a motor car; and
 
 (b) direct that the rebate shall not be refunded but shall only be used to set off any specified tax, levy or fee payable in respect of that motor car under the Road Traffic Act (Cap. 276).
 
@@ -760,13 +768,13 @@ unless notice in writing of the claim has been given at or before the time of th
 
 ### Return of duties, taxes, fees or other charges overpaid or erroneously paid
 
-19\.—(1) It shall be lawful for the Director-General, if it is proved to his satisfaction that any money has been overpaid or erroneously paid as customs duties, taxes, fees or other charges, or that any money was erroneously collected for the composition of offences under this Act, to order the refund of the money so overpaid or erroneously paid.
+19\.—(1) It shall be lawful for the Director-General, if it is proved to his satisfaction that any money has been overpaid or erroneously paid as customs duties, excise duties, taxes, fees or other charges, or that any money was erroneously collected for the composition of offences under this Act, to order the refund of the money so overpaid or erroneously paid.
 
 (2) No such refund shall be allowed unless a claim in respect thereof is made in writing within one year after the overpayment or erroneous payment was made.
 
 ### Payment of duty, etc., short levied or erroneously refunded
 
-20\.—(1) Whenever any customs duty, tax, fee or other charge under this Act has been short levied or erroneously refunded for any reason or owing to any cause, the person who should have paid the amount short levied or to whom the refund has erroneously been made shall pay the deficiency or repay the amount erroneously refunded to him on demand being made within one year from the date of the short levy or refund, and without prejudice to any other remedy for the recovery of the amount due, any dutiable goods belonging to that person which may be in customs control may be detained until the deficiency is paid or the refund is repaid, as the case may be.
+20\.—(1) Whenever any customs duty, excise duty, tax, fee or other charge under this Act has been short levied or erroneously refunded for any reason or owing to any cause, the person who should have paid the amount short levied or to whom the refund has erroneously been made shall pay the deficiency or repay the amount erroneously refunded to him on demand being made within one year from the date of the short levy or refund, and without prejudice to any other remedy for the recovery of the amount due, any dutiable goods belonging to that person which may be in customs control may be detained until the deficiency is paid or the refund is repaid, as the case may be.
 
 (2) Where the short levy or erroneous refund does not exceed $20 or such other amount as the Minister may by order prescribe in any one case, the Director-General may waive the recovery of the short levy or erroneous refund.
 
@@ -774,21 +782,21 @@ unless notice in writing of the claim has been given at or before the time of th
 
 ### Calculation of duty
 
-21\. The rate of customs duty and the valuation, if any, applicable to any goods shall be —
+21\. The rate of customs duty or excise duty and the valuation, if any, applicable to any goods shall be —
 
 (a) in the case of goods lawfully imported or manufactured in Singapore —
 
 (i) if the goods are in a Government warehouse, licensed factory warehouse or licensed warehouse, the rate and valuation in force at the time when those goods are removed from the Government warehouse, licensed factory warehouse or licensed warehouse, as the case may be;
 
-(ii) if the goods are imported by post, the rate and valuation in force at the time when customs duty is assessed by the proper officer of customs; and
+(ii) if the goods are imported by post, the rate and valuation in force at the time when customs duty or excise duty is assessed by the proper officer of customs; and
 
 (iii) in any other case, the rate and valuation in force at the time when the goods are released by the proper officer of customs; and
 
 (b) in the case of uncustomed goods, the rate and valuation in force at the time when the goods became uncustomed goods, if known, or the rate and valuation in force at the time of seizure, whichever is the higher.
 
-### Value of imported goods other than motor spirit
+### Value of imported or locally-manufactured goods, other than motor spirit, for excise duty
 
-22\.—(1) For the purposes of levying excise duty under this Act, the value of any imported goods other than motor spirit shall be taken to be the normal price, that is to say, the price which they would fetch at the time when the duty becomes payable on a sale in the open market between the buyer and the seller independent of each other.
+22\.—(1) For the purposes of levying excise duty under this Act, the value of any imported or locally-manufactured goods other than motor spirit shall be taken to be the normal price, that is to say, the price which they would fetch at the time when the duty becomes payable on a sale in the open market between the buyer and the seller independent of each other.
 
 [24/81; 11/97]
 
@@ -812,7 +820,7 @@ unless notice in writing of the claim has been given at or before the time of th
 
 (a) are manufactured in accordance with any patented invention or are goods to which any registered design has been applied; or
 
-(b) are imported under a foreign trade mark or trade name, or are imported for sale (whether or not after further manufacture) under a foreign trade mark or trade name,
+(b) are imported or locally-manufactured under a foreign trade mark or trade name, or are imported or locally-manufactured for sale (whether or not after further manufacture) under a foreign trade mark or trade name,
 
 the price shall be determined on the assumption that the price covers the right to use the patent, design, trade mark or trade name in respect of the goods.
 
@@ -826,13 +834,13 @@ the price shall be determined on the assumption that the price covers the right 
 
 (6) Two persons shall be deemed to be associated in business with one another if, directly or indirectly, either of them has any interest in any business or property of the other, or both have a common interest in any business or property, or some third person has an interest in the business or property of both of them.
 
-(7) In the case of goods imported under a contract of sale and about to be removed from customs control for use in Singapore, excise duty shall be deemed to have been paid on their value, if, before the goods are delivered from a Government warehouse, licensed factory warehouse or licensed warehouse for home use, excise duty is tendered, accepted and paid on a declared value based on the contract price.
+(7) In the case of goods imported or locally-manufactured under a contract of sale and about to be removed from customs control for use in Singapore, excise duty shall be deemed to have been paid on their value, if, before the goods are delivered from a Government warehouse, licensed factory warehouse or licensed warehouse for home use, excise duty is tendered, accepted and paid on a declared value based on the contract price.
 
 [11/97]
 
 (8) For the purpose of subsection (7) —
 
-(a) the declared value of any goods shall be their value as declared by or on behalf of the importer in making the goods available for home use;
+(a) the declared value of any goods shall be their value as declared by or on behalf of the importer or local manufacturer in making the goods available for home use;
 
 (b) that value shall be deemed to be based on the contract price if, but only if, it represents the price properly adjusted to take account of circumstances differentiating the contract from such a contract of sale as is contemplated by subsections (1) to (6); and
 
@@ -840,9 +848,9 @@ the price shall be determined on the assumption that the price covers the right 
 
 [11/97]
 
-### Value of imported goods for import duty
+### Value of imported goods, other than motor spirit, for customs duty
 
-22A\.—(1) For the purposes of levying import dutyunder this Act, the value of any imported goods shall be determined according to the regulations made by the Minister for the purposes of this section.
+22A\.—(1) For the purposes of levying customs duty under this Act, the value of any imported goods shall be determined according to the regulations made by the Minister for the purposes of this section.
 
 [11/97]
 
@@ -884,25 +892,25 @@ the price shall be determined on the assumption that the price covers the right 
 
 [11/97]
 
-(8) Notwithstanding anything to the contrary in this section, where, in the course of determining any appeal, it becomes necessary to delay the final determination of the appeal, the importer shall be given delivery of his goods from customs control subject to the Director-General receiving such security as he thinks sufficient to cover the full amount of customs duty on the goods.
+(8) Notwithstanding anything to the contrary in this section, where, in the course of determining any appeal, it becomes necessary to delay the final determination of the appeal, the importer shall be given delivery of his goods from customs control subject to the Director-General receiving such security as he thinks sufficient to cover the full amount of customs duty or excise duty on the goods.
 
 [11/97]
 
 ### Value of imported and locally-manufactured motor spirit
 
-23\. For the purposes of this Act, the value of any grade of imported or locally-manufactured motor spirit with a trade name or trade mark shall be taken to be the price inclusive of customs dutybut excluding goods and services tax charged thereon for that grade with that trade name or trade mark prevailing in Singapore at retailers’ motor spirit pumps at the time when customs duty becomes payable.
+23\. For the purposes of this Act, the value of any grade of imported or locally-manufactured motor spirit with a trade name or trade mark shall be taken to be the price inclusive of excise duty but excluding goods and services tax charged thereon for that grade with that trade name or trade mark prevailing in Singapore at retailers’ motor spirit pumps at the time when excise duty becomes payable.
 
 [24/81; 31/93]
 
 ### Value of motor spirit where variation in price
 
-24\. For the purpose of section 23, if there is any difference in the price of a grade of motor spirit with the same trade name or trade mark, the highest price inclusive of customs duty but excluding goods and services tax charged thereon for that grade with that trade name or trade mark shall be taken to be the value of that grade of motor spirit.
+24\. For the purpose of section 23, if there is any difference in the price of a grade of motor spirit with the same trade name or trade mark, the highest price inclusive of excise duty but excluding goods and services tax charged thereon for that grade with that trade name or trade mark shall be taken to be the value of that grade of motor spirit.
 
 [24/81; 31/93]
 
 ### Value of motor spirit which is uncustomed, not retailed in Singapore under a trade name or where retailers’ pump price is not available
 
-25\. Notwithstanding sections 23 and 24, the value of any grade of motor spirit which is uncustomed or which is not being retailed in Singapore under a trade name or trade mark or which is being retailed in Singapore under a trade name or trade mark but the retailers’ motor spirit pump price is not available, shall be the highest price inclusive of customs dutybut excluding goods and services tax charged thereon for that grade regardless of trade names or trade marks prevailing in Singapore at the retailers’ motor spirit pumps.
+25\. Notwithstanding sections 23 and 24, the value of any grade of motor spirit which is uncustomed or which is not being retailed in Singapore under a trade name or trade mark or which is being retailed in Singapore under a trade name or trade mark but the retailers’ motor spirit pump price is not available, shall be the highest price inclusive of excise duty but excluding goods and services tax charged thereon for that grade regardless of trade names or trade marks prevailing in Singapore at the retailers’ motor spirit pumps.
 
 [24/81; 31/93]
 
@@ -916,7 +924,7 @@ the price shall be determined on the assumption that the price covers the right 
 
 27\.—(1) No dutiable goods shall be removed from customs control except —
 
-(a) after payment of the customs duty payable thereon;
+(a) after payment of the customs duty or excise duty payable thereon;
 
 (b) under such conditions as the Director-General may impose for deposit in a Government warehouse, licensed factory warehouse or licensed warehouse; or
 
@@ -924,11 +932,11 @@ the price shall be determined on the assumption that the price covers the right 
 
 (2) In no case shall any goods be removed from a Government warehouse until all warehouse rent and other charges due in respect thereof have been paid.
 
-(3) The Director-General may allow dutiable goods in a licensed warehouse to be removed therefrom before payment of the customs duty but before doing so the Director-General may, in his discretion, require that security be lodged to his satisfaction to guarantee the payment of the customs duty within such time as he may allow.
+(3) The Director-General may allow dutiable goods in a licensed warehouse to be removed therefrom before payment of the customs duty or excise duty but before doing so the Director-General may, in his discretion, require that security be lodged to his satisfaction to guarantee the payment of the customs duty or excise duty within such time as he may allow.
 
 ### Time of importation when duty is imposed
 
-28\. When, by virtue of an order made under section 10(1), a customs duty is fixed on any goods which previously were not dutiable goods or any customs duty on goods is abolished or when the importation or exportation of any goods is prohibited or any such prohibition abolished by a notification made under section 38 and it becomes necessary for the purpose of this Act to determine the time at which an importation or exportation of any goods made and completed shall be deemed to have had effect, such importation or exportation shall, notwithstanding anything in this Act, be deemed to be —
+28\. When, by virtue of an order made under section 10(1), a customs duty or excise duty is fixed on any goods which previously were not dutiable goods or any customs duty or excise duty on goods is abolished or when the importation or exportation of any goods is prohibited or any such prohibition abolished by a notification made under section 38 and it becomes necessary for the purpose of this Act to determine the time at which an importation or exportation of any goods made and completed shall be deemed to have had effect, such importation or exportation shall, notwithstanding anything in this Act, be deemed to be —
 
 (a) in the case of importation by sea, the time at which the vessel importing the goods had actually come within the limits of the port of Singapore to which the goods are consigned;
 
@@ -954,7 +962,7 @@ the price shall be determined on the assumption that the price covers the right 
 
 ### Import of trade samples
 
-30\.—(1) Where dutiable goods are declared at the time of their importation to be bona fide trade samples, the Director-General may allow such goods to be imported without payment of customs duty subject to such conditions as he considers fit to impose.
+30\.—(1) Where dutiable goods are declared at the time of their importation to be bona fide trade samples, the Director-General may allow such goods to be imported without payment of customs duty or excise duty subject to such conditions as he considers fit to impose.
 
 (2) For the purpose of this section, “trade samples” means articles which are imported solely —
 
@@ -1148,7 +1156,7 @@ be at the risk of the master, owner or agent of the vessel or the pilot, owner o
 
 (4) For the purpose of subsection (1) and section 45 —
 
-(a) the value of any grade of motor spirit which is not being retailed in Singapore under a trade name or trade mark shall be the highest price inclusive of customs dutybut excluding goods and services tax charged thereon for that grade regardless of trade names or trade marks prevailing in Singapore at retailers’ motor spirit pumps; and
+(a) the value of any grade of motor spirit which is not being retailed in Singapore under a trade name or trade mark shall be the highest price inclusive of excise duty but excluding goods and services tax charged thereon for that grade regardless of trade names or trade marks prevailing in Singapore at retailers’ motor spirit pumps; and
 
 (b) the value of any grade of motor spirit which is being retailed in Singapore under a trade name or trade mark shall be determined in accordance with section 23.
 
@@ -1172,7 +1180,7 @@ GENERAL PROVISIONS AFFECTING AIRCRAFT AND VESSELS IN TERRITORIAL WATERS
 
 (a) unless the contrary is proved, be deemed to have illegally removed those goods and landed them in Singapore; and
 
-(b) without prejudice to any proceedings under this Act, be liable to pay forthwith to the proper officer of customs the duty leviable on the goods found deficient or missing and the vessel, aircraft or train may be detained by the proper officer of customs until the customs duty has been paid.
+(b) without prejudice to any proceedings under this Act, be liable to pay forthwith to the proper officer of customs the duty leviable on the goods found deficient or missing and the vessel, aircraft or train may be detained by the proper officer of customs until the customs duty or excise duty has been paid.
 
 [23/93]
 
@@ -1408,6 +1416,10 @@ SALE OF INTOXICATING LIQUORS
 
 (3) No licence under this section shall be required in respect of the sale by retail by a person registered as a pharmacist under the Pharmacists Registration Act (Cap. 230) of alcohol exempted from payment of duty in accordance with an order made under section 13, and in accordance with the terms of the exemption.
 
+(3A) The Minister may, by order published in theGazette, exempt any person from subsection (1), subject to such conditions as the Minister may consider fit to impose.
+
+[33/2000 wef 01/01/2001]
+
 (4) Subject to section 72(2), the delivery of intoxicating liquors in quantities of 30 litres or less shall, in any proceedings under this Act, be taken to be prima facie evidence of sale by retail and that money or other consideration was given for the same.
 
 ### Sale by wholesale to be licensed
@@ -1460,19 +1472,13 @@ SALE OF INTOXICATING LIQUORS
 
 ### Duties of licensee
 
-75\.—(1) Subject to this section, every person licensed under this Part shall —
+75\. Every person licensed under this Part shall —
 
-(a) exhibit his licence at all times in a conspicuous place on the licensed premises;
+(a) permit, at any time at which he is authorised by his licence to sell intoxicating liquors, any member of the Board or the Secretary of the Board or the proper officer of customs, to enter his licensed premises and inspect the premises and any intoxicating liquors therein and all accounts kept in connection therewith and to take such copies thereof or extracts therefrom as the member of the Board or the Secretary of the Board or the proper officer of customs may think fit; and
 
-(b) maintain over the principal entrance to the licensed premises and in the case of a beer house (outdoor beer stall) in a conspicuous place specified by a senior officer of customs a board in a form approved by the Board stating in Malay, Chinese, Tamil and English his name and the nature of the business which he is licensed to transact and such other matters as may be required by the Board;
+(b) comply with such duties and requirements as may be prescribed.
 
-(c) maintain at all entrances to the licensed premises and in the case of a beer house (outdoor beer stall) in a conspicuous place or a place specified for that purpose by a senior officer of customs, a board in a form approved by the Board stating in Malay, Chinese, Tamil and English that no person below the age of 18 years is allowed to buy or consume intoxicating liquors at those premises or at that stall;
-
-(d) keep in English such books of account in which shall be set out detailed particulars of all his purchases and sales of intoxicating liquors other than beer as may be prescribed; and
-
-(e) permit, at any time at which he is authorised by his licence to sell intoxicating liquors, any member of the Board or the Secretary of the Board or the proper officer of customs, to enter his licensed premises and inspect the premises and any intoxicating liquors therein and all accounts kept in connection therewith and to take such copies of or extracts therefrom as the member of the Board or the Secretary of the Board or proper officer of customs may think fit.
-
-(2) The Director-General may, in his discretion, exempt any person to whom a temporary licence has been issued from compliance with subsection (1)(b) and (c).
+[33/2000 wef 01/01/2001]
 
 ### Prohibition on licensee
 
@@ -1498,7 +1504,7 @@ DRAWBACK
 
 (c) such tobacco has been imported by the manufacturer or purchased by him before removal from customs control;
 
-(d) such tobacco is re-exported within 6 months from the date upon which customs dutywas paid; and
+(d) such tobacco is re-exported within 6 months from the date upon which excise duty was paid; and
 
 (e) the prescribed monthly supplementary licence fee has been paid before the removal into the factory of the tobacco as it is intended to re-export after manufacture.
 
@@ -1512,13 +1518,13 @@ DRAWBACK
 
 (b) by section 16 or 28.
 
-(3) When any goods, referred to in subsection (1), upon which customs duty has been paid and not drawn back are re-exported, the whole or such proportion of the duty paid as the Minister may prescribe calculated in accordance with subsection (4) may, in the discretion of the Director-General, be repaid as drawback, if —
+(3) When any goods, referred to in subsection (1), upon which customs duty or excise duty has been paid and not drawn back are re-exported, the whole or such proportion of the duty paid as the Minister may prescribe calculated in accordance with subsection (4) may, in the discretion of the Director-General, be repaid as drawback, if —
 
 (a) the goods are identified to the satisfaction of a senior officer of customs at the Port of Singapore or any customs airport at which goods are shipped or loaded for re-export, or at the place of re-export;
 
 (b) the drawback claimed in respect of any one consignment of re-exported goods is not less than $100;
 
-(c) the goods are re-exported within 6 months of the date upon which the customs duty was paid;
+(c) the goods are re-exported within 6 months of the date upon which the customs duty or excise duty was paid;
 
 (d) payment of drawback upon goods of a class to which the goods to be re-exported belong has not been prohibited by any subsidiary legislation made under this Act;
 
@@ -1528,7 +1534,7 @@ DRAWBACK
 
 (g) a declaration has been made by the person entitled to drawback that the conditions on which drawback is payable have been fulfilled.
 
-(4) The amount of drawback allowed shall be calculated at the rate of customs duty levied at the time of import or at the rate of import dutyleviable on goods of a like description at the time of re-export of the goods, whichever is the lower.
+(4) The amount of drawback allowed shall be calculated at the rate of customs duty or excise duty levied at the time of import or at the rate of customs duty leviable on goods of a like description at the time of re-export of the goods, whichever is the lower.
 
 ### Declaration by claimant
 
@@ -1538,7 +1544,7 @@ DRAWBACK
 
 ### Drawback on goods used in manufacture
 
-81\. Where any goods are prescribed to be goods in respect of which drawback may be allowed on exportation as part or ingredient of any goods manufactured in Singapore and the prescribed goods are so exported by the manufacturer as part or ingredient of any goods manufactured in Singapore, then if customs duty has been paid on the prescribed goods and not drawn back the Director-General may, on such exportation, allow to the manufacturer a drawback of the duty so paid at such rates as may be prescribed, if —
+81\. Where any goods are prescribed to be goods in respect of which drawback may be allowed on exportation as part or ingredient of any goods manufactured in Singapore and the prescribed goods are so exported by the manufacturer as part or ingredient of any goods manufactured in Singapore, then if customs duty or excise duty has been paid on the prescribed goods and not drawn back the Director-General may, on such exportation, allow to the manufacturer a drawback of the duty so paid at such rates as may be prescribed, if —
 
 (a) the goods exported have been manufactured on premises approved by the Director-General;
 
@@ -1546,7 +1552,7 @@ DRAWBACK
 
 (c) such books of account are kept as the Director-General may require for the purpose of ascertaining the quantity of the prescribed goods used in the manufacture;
 
-(d) such prescribed goods are exported within 12 months from the date upon which customs duty was paid or within such further period as may be approved by the Director-General; and
+(d) such prescribed goods are exported within 12 months from the date upon which customs duty or excise duty was paid or within such further period as may be approved by the Director-General; and
 
 (e) a declaration has been made by the person entitled to drawback that the conditions on which drawback is payable have been fulfilled.
 
@@ -1764,7 +1770,7 @@ shall be sufficient evidence that the electronic notice or copy thereof has been
 
 (b) the books, documents or records may be interfered with or destroyed unless possession is taken; or
 
-(c) the books, documents or records may be required as evidence in proceedings for an offence under this Act or in proceedings for the recovery of customs duty, tax or penalty, or in proceedings by way of an appeal against an assessment of customs duty or tax.
+(c) the books, documents or records may be required as evidence in proceedings for an offence under this Act or in proceedings for the recovery of customs duty, excise duty, tax or penalty, or in proceedings by way of an appeal against an assessment of customs duty, excise duty or tax.
 
 [24/96]
 
@@ -1810,6 +1816,34 @@ except where it is necessary for the purposes of —
 
 [24/96]
 
+### Retention of trade documents
+
+90E\.—(1) Notwithstanding section 90B, every importer or exporter of dutiable goods or his agent shall keep the following documents and records relating to the goods:
+
+(a) invoices;
+
+(b) books of accounts;
+
+(c) bills of lading;
+
+(d) packing lists;
+
+(e) certificates of origin;
+
+(f) certificates of analysis;
+
+(g) certificates of insurance;
+
+(h) any document or record on the terms of trade relating to the purchase, importation, sale or exportation of the goods by the importer or exporter or his agent; and
+
+(i) such other documents or records as may be prescribed.
+
+(2) The documents and records referred to in subsection (1) shall be retained for a period of not less than 7 years.
+
+(3) Any person who fails, without reasonable excuse, to comply with this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+[33/2000 wef 01/01/2001]
+
 ### Persons bound to give information or produce documents
 
 91\.—(1) Every person required by the proper officer of customs to give information or to produce any travel document or any document on any subject into which it is the officer’s duty to inquire under this Act and which it is in that person’s power to give or produce shall be bound to give such information or to produce such document for inspection.
@@ -1848,7 +1882,7 @@ except where it is necessary for the purposes of —
 
 ### Baggage of passengers
 
-93\.—(1) Notwithstanding anything in this Act, every passenger or other person arriving in Singapore shall proceed to the Red Channel to declare all dutiable goods which exceed his duty free allowance, or any goods for which no duty free allowance is granted in his possession, either on his person or in any baggage or in any vehicle, to the proper officer of customs, and shall pay the customs duty leviable thereon before he proceeds and if he fails to do so those goods shall be deemed to be uncustomed goods.
+93\.—(1) Notwithstanding anything in this Act, every passenger or other person arriving in Singapore shall proceed to the Red Channel to declare all dutiable goods which exceed his duty free allowance, or any goods for which no duty free allowance is granted in his possession, either on his person or in any baggage or in any vehicle, to the proper officer of customs, and shall pay the customs duty or excise duty leviable thereon before he proceeds and if he fails to do so those goods shall be deemed to be uncustomed goods.
 
 [24/96]
 
@@ -1860,7 +1894,7 @@ except where it is necessary for the purposes of —
 
 ### Proper officer of customs may take samples
 
-94\.—(1) The proper officer of customs may at any time, if his duties so require, take samples of any goods to ascertain whether they are goods of a description liable to any customs duty , or to ascertain the customs duty payable on the goods or for such other purposes as the proper officer of customs may consider necessary.
+94\.—(1) The proper officer of customs may at any time, if his duties so require, take samples of any goods to ascertain whether they are goods of a description liable to any customs duty or excise duty, or to ascertain the customs duty or excise duty payable on the goods or for such other purposes as the proper officer of customs may consider necessary.
 
 (2) The samples may be disposed of in such manner as the Director-General shall direct.
 
@@ -1868,9 +1902,9 @@ except where it is necessary for the purposes of —
 
 ### Addition or deduction of new or altered duties in the case of contract
 
-95\.—(1) Where any new customs duty is imposed or where any customs duty is increased, and any goods in respect of which the customs duty is payable are delivered on or after the day on which the new or increased customs duty takes effect in pursuance of a contract made before that day, the seller of the goods may, in the absence of agreement to the contrary, recover from the purchaser as an addition to the contract price, a sum equal to any amount paid by him in respect of the goods on account of the new customs duty or the increase of the customs duty , as the case may be.
+95\.—(1) Where any new customs duty or excise duty is imposed or where any customs duty or excise duty is increased, and any goods in respect of which the customs duty or excise duty is payable are delivered on or after the day on which the new or increased customs duty or excise duty takes effect in pursuance of a contract made before that day, the seller of the goods may, in the absence of agreement to the contrary, recover from the purchaser as an addition to the contract price, a sum equal to any amount paid by him in respect of the goods on account of the new customs duty or excise duty, or the increase of the customs duty or excise duty, as the case may be.
 
-(2) Where any customs duty is decreased or abolished, and any goods affected by the customs duty are delivered on or after the day on which the decrease or abolition takes effect in pursuance of a contract made before that day, the purchaser of the goods, in the absence of any agreement to the contrary, may, if the seller has had in respect of those goods the benefit of the decrease or abolition of the customs duty , deduct from the contract price a sum equal to the amount of the decrease of customs duty or the customs duty , as the case may be.
+(2) Where any customs duty or excise duty is decreased or abolished, and any goods affected by the customs duty or excise duty are delivered on or after the day on which the decrease or abolition takes effect in pursuance of a contract made before that day, the purchaser of the goods, in the absence of any agreement to the contrary, may, if the seller has had in respect of those goods the benefit of the decrease or abolition of the customs duty or excise duty, deduct from the contract price a sum equal to the amount of the decrease of customs duty or excise duty, or the customs duty or excise duty, as the case may be.
 
 ### Declarations to give a full and true account
 
@@ -2136,7 +2170,7 @@ PROVISIONS AS TO TRIALS AND PROCEEDINGS
 
 ### Burden of proof
 
-115\. If, in any prosecutions in respect of any goods seized for non-payment of customs duties or for any other cause of forfeiture or for the recovery of any penalty or penalties under this Act or any subsidiary legislation made thereunder, any dispute arises whether the customs duties have been paid in respect of those goods, or whether they have been lawfully imported or lawfully landed, or lawfully manufactured, or whether any goods are exempt from customs duty under section 13, or concerning the place from where those goods were brought, or whether drawback has been lawfully claimed, then and in every such case the burden of proof thereof shall lie on the defendant in such prosecution.
+115\. If, in any prosecutions in respect of any goods seized for non-payment of customs duties or excise duties or for any other cause of forfeiture or for the recovery of any penalty or penalties under this Act or any subsidiary legislation made thereunder, any dispute arises whether the customs duties or excise duties have been paid in respect of those goods, or whether they have been lawfully imported or lawfully landed, or lawfully manufactured, or whether any goods are exempt from customs duty or excise duty under section 13, or concerning the place from where those goods were brought, or whether drawback has been lawfully claimed, then and in every such case the burden of proof thereof shall lie on the defendant in such prosecution.
 
 [23/93; 24/96]
 
@@ -2286,7 +2320,7 @@ OFFENCES AND PENALTIES
 
 (c) counterfeits or falsifies, or uses, when counterfeited or falsified, any document which is or may be required under this Act or any subsidiary legislation made thereunder or any document used in the transaction of any business or matter relating to customs;
 
-(d) being required by this Act or any subsidiary legislation made thereunder to make a declaration of the value of dutiable goods imported into or manufactured in Singapore for the purpose of assessment of customs duty , fails to make the declaration as required or makes such declaration which is untrue or incorrect in any particular or which is incomplete by omitting any material particular therefrom;
+(d) being required by this Act or any subsidiary legislation made thereunder to make a declaration of the value of dutiable goods imported into or manufactured in Singapore for the purpose of assessment of customs duty or excise duty, fails to make the declaration as required or makes such declaration which is untrue or incorrect in any particular or which is incomplete by omitting any material particular therefrom;
 
 (e) fraudulently alters any document, or counterfeits the seal, signature, initials or other mark of, or used by, any officer of customs for the verification of any such document or for the security of any goods or any other purpose in the conduct of business relating to customs;
 
@@ -2294,7 +2328,7 @@ OFFENCES AND PENALTIES
 
 (g) fails or refuses to produce to a proper officer of customs any document required to be produced under section 90,
 
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or the equivalent of the exact amount of customs duty or tax payable, whichever is the greater, or to imprisonment for a term not exceeding 12 months or to both.
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or the equivalent of the exact amount of customs duty, excise duty or tax payable, whichever is the greater, or to imprisonment for a term not exceeding 12 months or to both.
 
 [23/93; 24/96]
 
@@ -2338,11 +2372,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (c) stores, keeps or has in his possession any dutiable or prohibited goods except under customs control, or stores, keeps or has in his possession any uncustomed goods;
 
-(d) is in any way concerned in conveying, removing, depositing or dealing with any dutiable, uncustomed or prohibited goods with intent to defraud the Government of any customs duties thereon, or to evade any of the provisions of this Act or any subsidiary legislation made thereunder;
+(d) is in any way concerned in conveying, removing, depositing or dealing with any dutiable, uncustomed or prohibited goods with intent to defraud the Government of any customs duty or excise duty thereon, or to evade any of the provisions of this Act or any subsidiary legislation made thereunder;
 
 (e) being a passenger or other person, is found to have any dutiable or prohibited goods in his baggage or upon his person or otherwise in his possession, after having denied that he has any dutiable or prohibited goods in his baggage or upon his person or otherwise in his possession;
 
-(f) is in any way concerned in any fraudulent evasion or attempt at fraudulent evasion of any customs duty ;
+(f) is in any way concerned in any fraudulent evasion or attempt at fraudulent evasion of any customs duty or excise duty;
 
 (g) is in any way concerned in distilling, fermenting or otherwise manufacturing any dutiable or prohibited goods or manufacturing any tobacco in contravention of section 63;
 
@@ -2354,13 +2388,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 shall be guilty of an offence and shall be liable —
 
-(i) on the first conviction to a fine of not less than 10 times the amount of the customs dutyor tax or $5,000 whichever is the lesser amount, and of not more than 20 times the amount of the customs duty or tax or $5,000 whichever is the greater amount, except that where the amount of customs duty cannot be ascertained the penalty may amount to a fine not exceeding $5,000;
+(i) on the first conviction to a fine of not less than 10 times the amount of the customs duty, excise duty or tax or $5,000 whichever is the lesser amount, and of not more than 20 times the amount of the customs duty, excise duty or tax or $5,000 whichever is the greater amount, except that where the amount of customs duty or excise duty cannot be ascertained the penalty may amount to a fine not exceeding $5,000;
 
 (ii) on the second or subsequent conviction to such fine or to imprisonment for a term not exceeding 2 years or to both;
 
-(iii) where the goods consist wholly or partly of tobacco products and such tobacco products exceed 2 kilogrammes in weight — on the first conviction to both a fine of not less than 15 times the amount of the customs dutyor tax and not more than 20 times the amount of the customs duty or tax or $10,000, whichever is the greater, or to imprisonment for a term not exceeding 3 years or to both; and
+(iii) where the goods consist wholly or partly of tobacco products and such tobacco products exceed 2 kilogrammes in weight — on the first conviction to both a fine of not less than 15 times the amount of the customs duty, excise duty or tax and not more than 20 times the amount of the customs duty, excise duty or tax or $10,000, whichever is the greater, or to imprisonment for a term not exceeding 3 years or to both; and
 
-(iv) where he has been convicted on a previous occasion of an offence under this section involving goods consisting wholly or partly of tobacco products and such tobacco products exceed 2 kilogrammes in weight, and he is again convicted of such offence — to a fine of not less than 30 times the amount of the customs dutyor tax and not more than 40 times the amount of the customs dutyor tax or $20,000, whichever is the greater, or to imprisonment for a term not exceeding 6 years or to both.
+(iv) where he has been convicted on a previous occasion of an offence under this section involving goods consisting wholly or partly of tobacco products and such tobacco products exceed 2 kilogrammes in weight, and he is again convicted of such offence — to a fine of not less than 30 times the amount of the customs duty, excise duty or tax and not more than 40 times the amount of the customs duty, excise duty or tax or $20,000, whichever is the greater, or to imprisonment for a term not exceeding 6 years or to both.
 
 [23/93; 24/96; 11/97]
 
@@ -2388,9 +2422,9 @@ shall be guilty of an offence and shall be liable —
 
 (c) otherwise uses a computer,
 
-the purpose or effect of which is to reduce, avoid or evade any liability to customs dutyor tax imposed or which would otherwise have been imposed by this Act, or to defeat any provision of this Act or any subsidiary legislation made thereunder, shall be guilty of an offence and shall be liable —
+the purpose or effect of which is to reduce, avoid or evade any liability to customs duty, excise duty or tax imposed or which would otherwise have been imposed by this Act, or to defeat any provision of this Act or any subsidiary legislation made thereunder, shall be guilty of an offence and shall be liable —
 
-(i) on the first conviction to a fine of not less than 10 times the amount of the customs duty or tax or $5,000 whichever is the lesser amount, and of not more than 20 times the amount of the customs duty or tax or $5,000 whichever is the greater and where the amount of customs duty cannot be ascertained, the penalty shall be a fine not exceeding $5,000; and
+(i) on the first conviction to a fine of not less than 10 times the amount of the customs duty, excise duty or tax or $5,000 whichever is the lesser amount, and of not more than 20 times the amount of the customs duty, excise duty or tax or $5,000 whichever is the greater and where the amount of customs duty or excise duty cannot be ascertained, the penalty shall be a fine not exceeding $5,000; and
 
 (ii) on the second or subsequent conviction to the fine mentioned in sub-paragraph (i) or to imprisonment for a term not exceeding 2 years or to both.
 
@@ -2725,3 +2759,8 @@ This Legislative History is provided for the convenience of users of the Customs
 |||(Bill No. 21/98 published on 2 June 1998)|
 ||Date of Second and Third Readings|29 June 1998|
 ||Date of commencement|1 August 1998|
+|25.|**Act 33 of 2000—Customs (Amendment) Act 2000**|
+||Date of First Reading|13 November 2000|
+|||(Bill No. 33/2000 published on 13 November 2000)|
+||Date of Second and Third Readings|22 November 2000|
+||Date of commencement|1 January 2001|
