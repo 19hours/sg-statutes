@@ -466,6 +466,8 @@ Alclometasone; its salts; its esters; their salts
 
 Alcuronium; its salts
 
+Aldesleukin
+
 Aldosterone
 
 Alendronic acid; its salts
@@ -697,6 +699,10 @@ Bamipine; its salts
 Barbitone; its salts
 
 Barbituric acid; its salts; derivatives of barbituric acid; their salts; compounds of barbituric acid, its salts; its derivatives, their salts, with any other substance
+
+Basiliximab
+
+Becaplermin
 
 Beclamide
 
@@ -1003,6 +1009,8 @@ Cephaloxin
 Cephazolin
 
 Cephradine
+
+Cerivastatin; its salts
 
 Cetirizine; its salts
 
@@ -1712,6 +1720,8 @@ Flavoxate; its salts
 
 Flecainide; its salts
 
+Floxuridine
+
 Fluanisone
 
 Fluclorolone; its salts
@@ -1998,9 +2008,13 @@ Ifenprodil; its salts
 
 Ifosfamide
 
+Imidapril; its salts
+
 Imipenem
 
 Imipramine; its salts
+
+Imiquimod
 
 Indapamide; its salts
 
@@ -2524,7 +2538,7 @@ Naphazoline; its salts; when contained in eye preparations
 
 Naproxen; its salts
 
-Naratriptan; its salts
+Naratripton; its salts
 
 Natamycin; its salts; its esters; their salts
 
@@ -2536,6 +2550,8 @@ Nefazodone; its salts
 
 Nefopam; its salts
 
+Nelfinavir; its salts; its esters; their salts
+
 Neoarsphenamine; its salts
 
 Neomycin; its salts; its esters; their salts
@@ -2543,6 +2559,8 @@ Neomycin; its salts; its esters; their salts
 Neostigmine; its salts
 
 Netilmicin; its salts; its esters; their salts
+
+Nevirapine; its salts
 
 Nialamide; its salts
 
@@ -2601,6 +2619,8 @@ Nitroxoline
 Nizatidine
 
 Nomegestrol; its salts; its esters; their salts
+
+Nometasone; its salts; its esters; their salts
 
 Nomifensine; its salts
 
@@ -2661,6 +2681,8 @@ Ofloxacin; its salts; its isomers; their salts
 Olanzapine
 
 Oleandomycin; its salts; its esters; their salts
+
+Olopatadine
 
 Olsalazine; its salts
 
@@ -3183,6 +3205,8 @@ Ritodrine; its salts
 Ritonavir
 
 Rituximab
+
+Rivastigmine; its salts; its esters; their salts
 
 Rocuronium; its salts
 
@@ -3726,6 +3750,8 @@ Xylometazoline; its salts; when contained in eye preparations
 
 Yohimba, alkaloids of; its quarternary compounds; their salts
 
+Zafirlukast
+
 Zalcitabine
 
 Zidovudine
@@ -3742,7 +3768,7 @@ Zoxazolamine; its salts
 
 Zuclopenthixol; its salts; its esters; their salts.
 
-[S 190/1995, S 227/1996, S 456/1998]]
+[S 190/1995, S 227/1996, S 456/1998, S 633/1998]
 
 Part II
 
@@ -3811,6 +3837,8 @@ Bromotrifluoromethane (Halon 1301, CF
 Br) in fire protection systems with building plans approved after 17th June 1991 and installed after 31st December 1991
 
 Cadmium-containing silver brazing alloy
+
+Captafol
 
 Carbamates, excepting —
 
@@ -3902,6 +3930,8 @@ Allied chlorinated hydrocarbon compounds used as pesticides (insecticides, acari
 
 Chlorine
 
+Chlorine trifluoride
+
 Chlorobenzenes, the following:
 
 Monochlorobenzene
@@ -3915,6 +3945,8 @@ Trichlorobenzene
 Tetrachlorobenzene
 
 Pentachlorobenzene
+
+Hexachlorobenzene
 
 Chlorofluorocarbons, the following:
 
@@ -4032,6 +4064,8 @@ Dinoseb; its compounds with a metal or a base
 
 Diquat; its salts
 
+Disilane
+
 Drazoxolon; its salts
 
 Endothal; its salts
@@ -4051,6 +4085,8 @@ Ethyl mercaptan
 Ferric chloride
 
 Fluorine
+
+Fluoroacetamide
 
 Formaldehyde
 
@@ -4582,7 +4618,11 @@ Phosphorus pentafluoride
 
 Phosphorus trichloride
 
+Polybrominated biphenyls
+
 Polychlorinated biphenyls
+
+Polychlorinated terphenyls
 
 Potassium chlorate
 
@@ -4618,11 +4658,13 @@ Thallium, salts of
 
 Titanium tetrachloride
 
+Tris (2,3-dibromo-1-propyl) phosphate
+
 Vinyl bromide
 
 Vinyl chloride monomer
 
-[S 361/1989; S 55/1990; S 51/1991; S 475/1991; S 541/1991; S 9/1993; S 172/1993; S 12/1994; S 147/1994; S 399/1994; S 449/1994; S 465/1994; S 10/1995; S 132/1995; S 267/1995; S 416/1995; S 236/1996]
+[S 361/1989; S 55/1990; S 51/1991; S 475/1991; S 541/1991; S 9/1993; S 172/1993; S 12/1994; S 147/1994; S 399/1994; S 449/1994; S 465/1994; S 10/1995; S 132/1995; S 267/1995; S 416/1995; S 236/1996; S 547/1998]
 
 ## LEGISLATIVE HISTORY
 
@@ -4803,3 +4845,7 @@ This Legislative History is provided for the convenience of users of the Poisons
 ||Date of commencement|1 December 1997|
 |71.|**G. N. No. S 456/1998—Poisons Act (Amendment of Schedule) Notification 1998**|
 ||Date of commencement|28 August 1998|
+|72.|**G. N. No. S 547/1998—Poisons Act (Amendment of Schedule) (No. 2) Notification 1998**|
+||Date of commencement|1 January 1999|
+|73.|**G. N. No. S 633/1998—Poisons Act (Amendment of Schedule) (No. 3) Notification 1998**|
+||Date of commencement|1 January 1999|
