@@ -575,3 +575,5 @@ This Legislative History is provided for the convenience of users of the Departm
 ||Date of commencement|16 April 1987|
 |12.|**1985 Revised Edition—Departmental Titles (Alteration) Act**|
 ||Date of operation|30 March 1987|
+|13.|**G. N. No. S 154/1989—Departmental Titles (Alteration) Act (Resolution)**|
+||Date of commencement|14 April 1989|
