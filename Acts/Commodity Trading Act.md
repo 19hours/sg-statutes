@@ -160,7 +160,7 @@
 
 [**Legislative History**](#Legislative-History)
 
-# COMMODITY TRADING ACT
+# Commodity Trading Act
 
 (CHAPTER 48A)
 
@@ -172,7 +172,7 @@ REVISED EDITION 1993
 
 An Act for the regulation of trading in certain commodity futures and certain types of commodity trading, and for matters connected therewith.
 
-[22/2001wef 27/06/2011]
+[22/2001 wef 27/06/2001]
 
 [27th May 1992]
 
@@ -184,7 +184,7 @@ PRELIMINARY
 
 1\. This Act may be cited as the Commodity Trading Act.
 
-[22/2001 wef 27/06/2011]
+[22/2001 wef 27/06/2001]
 
 ### Interpretation
 
@@ -192,7 +192,9 @@ PRELIMINARY
 
 “auditor” means an approved company auditor as defined in section 4 of the Companies Act [Cap. 50];
 
-“Board” means the Trade Development Board established under the Trade Development Board Act [Cap. 330];
+“Board” means the International Enterprise Singapore Board established under section 3 of the International Enterprise Singapore Board Act;
+
+[17/2002 wef 01/04/2002]
 
 “business rules”, in relation to a body corporate that maintains or proposes to maintain a commodity futures market, means the rules, regulations and by-laws, by whatever name called, governing the activities and conduct of —
 
@@ -550,7 +552,7 @@ COMMODITY MARKET, COMMODITY FUTURES EXCHANGE AND CLEARING HOUSE
 
 ### Establishment of clearing house
 
-8\.—(1) No person shall establish, maintain or provide or assist in establishing, maintaining or providing, or hold himself out as maintaining or providing a clearing house for a commodity market a commodity futures market of a Commodity Futures Exchange unless the person is a body corporate approved as a clearing house under section 9.
+8\.—(1) No person shall establish, maintain or provide or assist in establishing, maintaining or providing, or hold himself out as maintaining or providing a clearing house for a commodity market or a commodity futures market of a Commodity Futures Exchange unless the person is a body corporate approved as a clearing house under section 9.
 
 [22/2001 wef 27/06/2001]
 
@@ -670,11 +672,11 @@ unless he is the holder of a licence granted under this Part that authorises him
 
 (6) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction —
 
-(a) for an offence under subsection (1) (b), (d), (g) or (i) to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 3 years or to both;
+(a) for an offence under subsection (1)(b), (d), (g) or (i) to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 3 years or to both;
 
 [22/2001 wef 27/06/2001]
 
-(b) for an offence under subsection (1) (a), (c), (e), (f), (h) or (j) to a fine not exceeding $50,000 or to imprisonment for a term not exceeding one year or to both.
+(b) for an offence under subsection (1)(a), (c), (e), (f), (h) or (j) to a fine not exceeding $50,000 or to imprisonment for a term not exceeding one year or to both.
 
 [22/2001 wef 27/06/2001]
 
@@ -998,7 +1000,7 @@ the Board may, without prejudice to its powers under section 28, if it is satisf
 
 [22/2001 wef 27/06/2001]
 
-(c) require an auditor appointed by the commodity broker or commodity futures broker to produce any books, accounts and records held by him relating to the business of the commodity brokeror commodity futures broker;
+(c) require an auditor appointed by the commodity broker or commodity futures broker to produce any books, accounts and records held by him relating to the business of the commodity broker or commodity futures broker;
 
 [22/2001 wef 27/06/2001]
 
@@ -1083,6 +1085,8 @@ he shall be presumed until the contrary is proved, that in so doing he did not a
 (a) itself appoint an auditor under this Part; and
 
 (b) impose all or any of the following duties on an auditor of a commodity marketor a Commodity Futures Exchange, a clearing house, a commodity broker, a commodity futures broker, a commodity trading adviser, a commodity futures trading adviser, a commodity pool operator or a commodity futures pool operator, as the case may be:
+
+[22/2001 wef 27/06/2001]
 
 (i) a duty to submit such additional information in relation to his audit as the Board considers necessary;
 
@@ -1248,7 +1252,7 @@ POWERS OF BOARD
 
 (i) requiring additional margins for any contracts; and
 
-(j) modifying or suspending any of the business rules of a commodity marketor Commodity Futures Exchange,
+(j) modifying or suspending any of the business rules of a commodity market or Commodity Futures Exchange,
 
 [22/2001 wef 27/06/2001]
 
@@ -1648,7 +1652,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [22/2001 wef 27/06/2001]
 
-(b) prescribing the conditions for the conduct of business on a commodity marketor Commodity Futures Exchange;
+(b) prescribing the conditions for the conduct of business on a commodity market or Commodity Futures Exchange;
 
 [22/2001 wef 27/06/2001]
 
@@ -1772,3 +1776,8 @@ Note:
 
 The Commodity Futures Act was renamed as the Commodity Trading Act vide Commodity Futures (Amendment) Act 2001.
 
+|5.|**Act 17 of 2002—Trade Development Board (Amendment) Act 2002**|
+||Date of First Reading|3 May 2002|
+|||(Bill No. 9/2002 published on 4 May 2002)|
+||Date of Second and Third Readings|8 July 2002|
+||Date of commencement|1 April 2002 (except sections 8 and 9)|
