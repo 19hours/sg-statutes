@@ -1,16 +1,14 @@
-**Postal Services Act 1999**
+**Postal Services Act**
 
-**(No. 42 of 1999)**
+**(CHAPTER 237A)**
 
 **Table of Contents**
 
 [**Long Title**](#Postal-Services-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -112,7 +110,7 @@
 
 [**Part VII ENFORCEMENT POWERS AND PROCEDURES**](#Part-VII)
 
-- [46 Furnishing of information](#Furnishing-of-information)
+- [46 Power to require information, etc.](#Power-to-require-information-etc)
 
 - [47 Powers of arrest and search in respect of seizable offences](#Powers-of-arrest-and-search-in-respect-of-seizable-offences)
 
@@ -148,55 +146,35 @@
 
 - [62 Savings and transitional provisions](#Savings-and-transitional-provisions)
 
-- [63 Consequential amendments](#Consequential-amendments)
+[**Legislative History**](#Legislative-History)
 
-REPUBLIC OF SINGAPORE
+[**Comparative Table**](#Comparative-Table)
 
-GOVERNMENT GAZETTE
+# Postal Services Act
 
-ACTS SUPPLEMENT
+(CHAPTER 237A)
 
-Published by Authority
+(Original Enactment: Act 42 of 1999)
 
-NO. 39]
+REVISED EDITION 2000
 
-Friday, December 3
+(30th December 2000)
 
-[1999
+An Act to provide for the operation and provision of postal systems and services in Singapore and for matters connected therewith.
 
-The following Act was passed by Parliament on 23rd November 1999 and assented to by the President on 30th November 1999:—
-
-Postal Services Act 1999
-
-(No. 42 of 1999)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-30th November 1999.
-
-Date of Commencement: 1st December 1999
-
-An Act to provide for the operation and provision of postal systems and services in Singapore and for matters connected therewith, and to make consequential amendments to certain other written laws.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st December 1999]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Postal Services Act 1999 and shall come into operation on such date as the Minister may, by notification in theGazette,appoint.
+1\. This Act may be cited as the Postal Services Act.
 
 ### Interpretation
 
 2\.—(1) In this Act, unless the context otherwise requires —
-
-“appointed day” means the date of commencement of this Act;
 
 “code of practice” and “standard of performance” mean, respectively, a code of practice and a standard of performance issued or approved under section 24;
 
@@ -207,8 +185,6 @@ PRELIMINARY
 “letter” includes any communication in the nature of current and personal correspondence;
 
 “mail bag” means any bag, container, envelope or covering in which postal articles are conveyed;
-
-“master”, in relation to a vessel or an aircraft, means any person for the time being in charge or in command of the vessel or aircraft but does not include a sea pilot;
 
 “parcel” means a postal article which is posted at a post office in Singapore as a parcel in accordance with the provisions of this Act or is received at a post office in Singapore by parcel post;
 
@@ -236,7 +212,7 @@ PRELIMINARY
 
 “public postal licensee’s installation or plant” means any installation or plant used for posts belonging to or used by a public postal licensee;
 
-“repealed Act” means the Telecommunication Authority of Singapore Act (Cap. 323) repealed by the Info-communications Development Authority of Singapore Act 1999;
+“repealed Act” means the Telecommunication Authority of Singapore Act (Cap. 323, 1993 Ed.) repealed by the Info-communications Development Authority of Singapore Act (Cap. 137A);
 
 “TAS” means the Telecommunication Authority of Singapore reconstituted under the repealed Act;
 
@@ -254,7 +230,7 @@ PRELIMINARY
 
 ### Postal Authority
 
-3\.—(1) The Minister may, by notification in theGazette, appoint such person to be the Postal Authority responsible for the administration of this Act.
+3\.—(1) The Minister may, by notification in the Gazette, appoint such person to be the Postal Authority responsible for the administration of this Act.
 
 (2) Subject to the provisions of this Act, the functions conferred on the Postal Authority by this Act may be performed by any officer of or any person who is in the employment of the Postal Authority who has been generally or specially authorised by name or office by the Postal Authority, and subject to its direction and control.
 
@@ -264,7 +240,7 @@ EXCLUSIVE PRIVILEGE AND LICENSING, ETC., OF POSTAL SERVICES
 
 ### Exclusive privilege with respect to conveyance, etc., of letters
 
-4\.—(1) As from the appointed day and subject to this Act, the Postal Authority shall have the exclusive privilege of conveying from one place to another letters and postcards and performing all incidental services of receiving, collecting, sending, despatching and delivering letters and postcards.
+4\.—(1) As from 1st December 1999 and subject to this Act, the Postal Authority shall have the exclusive privilege of conveying from one place to another lettersand postcards and performing all incidental services of receiving, collecting, sending, despatching and delivering lettersand postcards.
 
 (2) No letter or postcard shall, unless exempt by this Act or any other written law, be conveyed into or out of Singapore, from or to any place between which and Singapore posts or postal communications are established, or from one place to another, or be delivered or distributed in Singapore otherwise than by or through the post.
 
@@ -272,11 +248,11 @@ EXCLUSIVE PRIVILEGE AND LICENSING, ETC., OF POSTAL SERVICES
 
 5\. The privilege conferred by section 4 shall not be infringed by —
 
-(a) letters or postcards or both not exceeding 3 in number sent by a person for delivery by the person to another without hire, reward or other profit for receiving, carrying or delivering the letters or postcards;
+(a) letters or postcards or both not exceeding 3 in number sent by a person for delivery by the person to another without hire, reward or other profit for receiving, carrying or delivering the lettersor postcards;
 
 (b) any letter or postcard solely concerning the affairs of the sender or receiver thereof, sent by a messenger employed for that purpose; and
 
-(c) any letter or postcard solely concerning any goods or other property which is to be delivered with the letter or postcard, without hire, reward or other profit for receiving, carrying or delivering the letter or postcard, if the letter or postcard is open to inspection and has thereon the words “Consignee’s letter” or other words to the same effect.
+(c) any letter or postcard solely concerning any goods or other property which is to be delivered with the letteror postcard, without hire, reward or other profit for receiving, carrying or delivering the letteror postcard, if the letteror postcard is open to inspection and has thereon the words “Consignee’s letter” or other words to the same effect.
 
 ### Power to license conveyance of letters, etc.
 
@@ -322,7 +298,7 @@ on such terms and conditions as may be agreed to by the licensee and such other 
 
 (2) Before making modifications to the conditions of a licence of a public postal licensee under this section, the Postal Authority shall give notice to the licensee —
 
-(a) stating that it proposes to make the modifications in the manner as specified in the notice and the compensation payable for any damage caused thereby; and
+(a) stating that it proposes to make the modifications in the manner as specified in the noticeand the compensation payable for any damage caused thereby; and
 
 (b) specifying the time (not being less than 28 days from the date of service of notice on such licensee) within which written representations with respect to the proposed modifications may be made.
 
@@ -358,19 +334,19 @@ the Authority may, by notice in writing, do either or both of the following:
 
 (i) issue such written order to the person as it considers requisite for the purpose of securing compliance thereof;
 
-(ii) require the payment, within a specified period, of a financial penalty of such amount not exceeding $10,000 as it thinks fit,
+(ii) require the payment, within a specified period, of a financial penalty of such amount not exceeding $10,000 as it thinks fit.
 
-except that where the Authority is satisfied that the person is again likely to so contravene, whether by act or omission, the Authority may (in lieu of an order or financial penalty under paragraph (i) or (ii) or both) by notice in writing and without any compensation, do all or any of the following:
+(2) Where the Authority is satisfied that the person mentioned in subsection (1) is again likely to so contravene, whether by act or omission, the Authority may (in lieu of an order or financial penalty under subsection (1)(i) or (ii) or both) by notice in writing and without any compensation, do all or any of the following:
 
-(A) cancel the licence or part thereof;
+(a) cancel the licence or part thereof;
 
-(B) suspend the licence or part thereof for such period as it thinks fit;
+(b) suspend the licence or part thereof for such period as it thinks fit;
 
-(C) reduce the period for which the licence is to be in force.
+(c) reduce the period for which the licence is to be in force.
 
-(2) Any person who is aggrieved by any decision of the Authority under subsection (1) may, within 14 days after such person has been given the notice in writing referred to in subsection (1), appeal to the Minister whose decision shall be final.
+(3) Any person who is aggrieved by any decision of the Authority under subsection (1) or (2) may, within 14 days after such person has been given the notice in writing referred to in subsection (1) or (2), appeal to the Minister whose decision shall be final.
 
-(3) An order under subsection (1)(i) —
+(4) An order under subsection (1)(i) —
 
 (a) shall require the person concerned (according to the circumstances of the case) to do, or not to do, such things as are specified in the order or are of a description so specified therein;
 
@@ -378,11 +354,11 @@ except that where the Authority is satisfied that the person is again likely to 
 
 (c) may be revoked at any time by the Authority.
 
-(4) Any person who fails to comply with any order under subsection (1)(i) shall be guilty of an offence.
+(5) Any person who fails to comply with any order under subsection (1)(i) shall be guilty of an offence .
 
-(5) In any proceedings brought against any person for an offence under subsection (4), it shall be a defence for him to prove that he took all reasonable steps and exercised all due diligence to avoid contravening the order.
+(6) In any proceedings brought against any person for an offence under subsection (5), it shall be a defence for him to prove that he took all reasonable steps and exercised all due diligence to avoid contravening the order.
 
-(6) Any financial penalty payable by any person by virtue of subsection (1) shall be recoverable by the Postal Authority as a debt due to the Postal Authority from that person; and the person’s liability to pay shall not be affected by his licence ceasing (for any reason) to be in force.
+(7) Any financial penalty payable by any person by virtue of subsection (1) shall be recoverable by the Postal Authority as a debt due to the Postal Authority from that person; and the person’s liability to pay shall not be affected by his licence ceasing (for any reason) to be in force.
 
 ### Residual power of Postal Authority to provide postal services
 
@@ -442,7 +418,7 @@ shall be guilty of an offence.
 
 ### Delivery of postal articles
 
-17\.—(1) The Postal Authority shall publish the specifications relating to the number, place, dimensions and other characteristics of letter boxes and may approve the installation and use of such other mail delivery systems or arrangements as it may consider fit.
+17\.—(1) The Postal Authority shall publish the specifications relating to the number, place, dimensions and other characteristics of letter boxes and may approve the installation and use of such other mail delivery systems or arrangements as the Postal Authority may consider fit.
 
 (2) A developer of any residential, commercial or industrial building shall —
 
@@ -458,7 +434,7 @@ shall be guilty of an offence.
 
 ### Posting boxes and postal label vending machines
 
-18\. A public postal licensee may, with the approval of the Postal Authority, erect, relocate and remove any posting box and postal label vending machine in any public road, street or highway, or in any other public place.
+18\. A Authority may, with the approval of the Postal Authority, erect, relocate and remove any posting box and postal label vending machine in any public road, street or highway, or in any other public place.
 
 ### Provision of postage stamps
 
@@ -496,7 +472,7 @@ shall be guilty of an offence.
 
 ### Power to deal with postal articles sent in contravention of this Act
 
-23\.—(1) Any postal article sent by post which is suspected to be sent in contravention of this Act or any regulations made thereunder may be detained and opened by a public postal licensee.
+23\.—(1) Any postal article sent by post which is suspected to be sent in contravention of this Act or any regulations made thereunder may be detained and opened by a public postal licensee .
 
 (2) The detention of a postal article under subsection (1) shall not exempt the sender from any proceedings which might have been taken if the postal article had been delivered in due course of post.
 
@@ -584,11 +560,11 @@ shall be guilty of an offence.
 
 (a) to prevent or obstruct the transmission or delivery of any postal article;
 
-(b) to intercept or to acquaint himself with the contents of any letter; or
+(b) to intercept or to acquaint himself with the contents of anyletter; or
 
 (c) to commit mischief,
 
-damages, removes, tampers with or touches any installation or plant or any part thereof used for posts belonging to a public postal licensee shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
+damages, removes, tampers with or touches any installation or plant or any part thereof used for posts belonging to a public postal licensee shall be guilty of an offenceand shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
 
 ### Protection of installation or plant used for posts
 
@@ -600,13 +576,15 @@ damages, removes, tampers with or touches any installation or plant or any part 
 
 (2) Any approval under subsection (1) may be refused by the Postal Authority or granted by the Postal Authority on such terms and conditions as it may determine.
 
-(3) Where the commission by any person of an offence under subsection (1) is due to the act or default of some other person, that other person shall be guilty of the offence; and a person may be charged with and convicted of the offence by virtue of this subsection whether or not proceedings are taken against the first-mentioned person.
+(3) Where the commission by any person of an offence under subsection (1) is due to the act or default of some other person, that other person shall be guilty of the offence.
 
-(4) In any proceedings for an offence under subsection (1), it shall, subject to subsection (5), be a defence for the person charged to prove that he took all reasonable steps and exercised all due diligence to avoid committing the offence.
+(4) A person may be charged with and convicted of the offence by virtue of subsection (3) whether or not proceedings are taken against the first-mentioned person.
 
-(5) Where the defence provided by subsection (4) involves an allegation that the commission of the offence was due to the act or default of another person, the person charged shall not, without leave of the court, be entitled to rely on that defence unless, within a period ending 7 clear days before the hearing, he has served on the prosecutor a notice in writing giving such information identifying or assisting in the identification of that other person as was then in his possession.
+(5) In any proceedings for an offence under subsection (1), it shall, subject to subsection (6), be a defence for the person charged to prove that he took all reasonable steps and exercised all due diligence to avoid committing the offence.
 
-(6) Any person who contravenes or fails to comply with subsection (1) shall be guilty of an offence and shall, in addition to the forfeiture of any equipment seized, be liable on conviction to a fine not exceeding $10,000 and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part thereof during which the offence continues after conviction.
+(6) Where the defence provided by subsection (5) involves an allegation that the commission of the offence was due to the act or default of another person, the person charged shall not, without leave of the court, be entitled to rely on that defence unless, within a period ending 7 clear days before the hearing, he has served on the prosecutor a notice in writing giving such information identifying or assisting in the identification of that other person as was then in his possession.
+
+(7) Any person who contravenes or fails to comply with subsection (1) shall be guilty of an offence and shall, in addition to the forfeiture of any equipment seized, be liable on conviction to a fine not exceeding $10,000 and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part thereof during which the offence continues after conviction.
 
 ### Prohibition of false notice relating to public postal licensees’ installation or plant
 
@@ -618,21 +596,23 @@ damages, removes, tampers with or touches any installation or plant or any part 
 
 ### Compensation for damage caused to public postal licensees’ installation or plant
 
-32\.—(1) Any person who removes, destroys or damages, whether wilfully, negligently, accidentally or otherwise, the installation or plant which belongs to a public postal licensee and is used for posts shall, in addition to any penalty for which he is liable for an offence under this Act, be liable to pay compensation for the damage he has done and the compensation shall be recoverable by civil action or suit before any court of competent jurisdiction.
+32\.—(1) Any person who removes, destroys or damages, whether wilfully, negligently, accidentally or otherwise, the installation or plant which belongs to a public postal licensee and is used for posts shall, in addition to any penalty for which he is liable for an offence under this Act, be liable to pay compensation for the damage he has done.
 
-(2) Subject to subsection (1), any court before which a person is charged with an offence under this Act may assess the compensation payable under this section and may make an order for the payment of the same.
+(2) The compensation shall be recoverable by civil action or suit before any court of competent jurisdiction.
 
-(3) Any order under subsection (2) may be enforced as if it were a judgment in a civil action or suit.
+(3) Subject to subsection (1), any court before which a person is charged with an offence under this Act may assess the compensation payable under this section and may make an order for the payment of the same.
+
+(4) Any order under subsection (3) may be enforced as if it were a judgment in a civil action or suit.
 
 ### Unlawful operation of postal services
 
 33\. Subject to section 5, any person who —
 
-(a) conveys any letter or postcard or performs any service incidental to such conveyance without a licence granted under section 6;
+(a) conveys any letteror postcard or performs any service incidental to such conveyance without a licence granted under section 6;
 
-(b) collects, sends, tenders or delivers in order to be sent a letter or postcard without a licence granted under section 6; or
+(b) collects, sends, tenders or delivers in order to be sent a letteror postcard without a licence granted under section 6; or
 
-(c) makes a collection of letters or postcards for transmission or distribution to or from any place through a public postal licensee without a licence granted under section 6,
+(c) makes a collection of lettersor postcards for transmission or distribution to or from any place through a public postal licensee without a licence granted under section 6,
 
 shall be guilty of an offence.
 
@@ -662,7 +642,7 @@ shall be guilty of an offence and shall be liable on conviction for —
 
 ### Fraudulent sending of postal article
 
-35\. Any person who sends any postal article bearing any facsimile, imitation or representation of postage stamps or purporting to be prepaid with any postage stamp which has previously been used to prepay any other postal article or which has otherwise been previously used shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
+35\. Any person who sends any postal article bearing any facsimile, imitation or representation of postage stamps or purporting to be prepaid with any postage stamp which has previously been used to prepay any other postal article or which has otherwise been previously used shall be guilty of an offenceand shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
 
 ### Fraudulent retention of postal article
 
@@ -672,7 +652,7 @@ shall be guilty of an offence and shall be liable on conviction for —
 
 (b) except in accordance with this Act or unless authorised by a public postal licensee, wilfully opens or causes to be opened any letter which ought to have been delivered, or does any act whereby the due delivery of a letter to any person is prevented or impeded,
 
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
+shall be guilty of an offenceand shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
 
 (2) Nothing in subsection (1)(b) shall apply to a person who does any act to which that subsection applies where he is a parent, or in the position of a parent or guardian, of the person to whom the letter is addressed and the addressee is a minor or his ward.
 
@@ -682,11 +662,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (a) any indecent or obscene article or any postal article having any words, marks or designs of an indecent, obscene, seditious, scurrilous, threatening or grossly offensive character;
 
-(b) anything which is likely to damage any postal article in the course of transmission by post or any postal equipment or injure any employee or agent of a public postal licensee; or
+(b) anything which is likely to damage any postal article in the course of transmission by post or any postal equipment or injure any employee or agent of apublic postal licensee; or
 
-(c) except as otherwise provided by any regulations made under this Act, any explosive, inflammable, dangerous, filthy, noxious or deleterious substance, any sharp instrument not properly protected or any living creature which is noxious or likely to damage any postal article in the course of transmission by post or any postal equipment or to injure any employee or agent of a public postal licensee,
+(c) except as otherwise provided by any regulations made under this Act, any explosive, inflammable, dangerous, filthy, noxious or deleterious substance, any sharp instrument not properly protected or any living creature which is noxious or likely to damage any postal article in the course of transmission by post or any postal equipment or to injure any employee or agent of a public postal licensee ,
 
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
+shall be guilty of an offenceand shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
 
 ### Penalty for making any facsimile, imitation or representation of any postage stamp, etc.
 
@@ -704,13 +684,13 @@ any facsimile, imitation or representation of any postage stamp or any document 
 
 (2) No person shall make, issue or send by post any stamped or embossed envelope, wrapper, card, form or paper in imitation of one issued by a public postal licensee.
 
-(3) Any person who contravenes or fails to comply with subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
+(3) Any person who contravenes or fails to comply with subsection (1) or (2) shall be guilty of an offenceand shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
 
 (4) Any stamp, die, plate, instrument or material found in the possession of any person who has contravened or failed to comply with subsection (1) or (2) may be seized by any employee of the public postal licensee and forfeited by a Magistrate’s Court, and shall be dealt with as the Court directs.
 
 ### Penalty for erasure of mark denoting used postage stamp
 
-39\. Any person who, with fraudulent intent, erases or removes from a postage stamp any mark put or impressed upon the postage stamp denoting that the same has been used, or sells or uses any such postage stamp for postal purposes shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
+39\. Any person who, with fraudulent intent, erases or removes from a postage stamp any mark put or impressed upon the postage stamp denoting that the same has been used, or sells or uses any such postage stamp for postal purposes shall be guilty of an offenceand shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
 
 ## PART VI
 
@@ -718,11 +698,19 @@ INTERNATIONAL OBLIGATIONS AND NATIONAL INTERESTS
 
 ### Right to conduct international business dealings
 
-40\. For the purposes of the conduct of any international postal service by a public postal licensee, and subject to this Act, the licensee may enter into direct communication, arrangement and agreement with the lawfully constituted postal authority of any country or with any duly authorised international agency or organisation concerned with postal matters for the purpose of providing facilities, fixing rates, arranging terms of payment or accounting, for operational, engineering or administrative purposes or for any other purpose necessary for the proper fulfilment of its functions.
+40\. For the purposes of the conduct of any international postal service by a public postal licensee, and subject to this Act, the licensee may enter into direct communication, arrangement and agreement with the lawfully constituted postal authority of any country or with any duly authorised international agency or organisation concerned with postal matters —
+
+(a) for the purpose of providing facilities, fixing rates, arranging terms of payment or accounting;
+
+(b) for operational, engineering or administrative purposes; or
+
+(c) for any other purpose necessary for the proper fulfilment of its functions.
 
 ### Government’s overriding international rights
 
-41\. Nothing in section 40 shall be deemed to abrogate the right of the Government at any time to determine its relations with any country or with any international agency or organisation and a public postal licensee shall so discharge its responsibilities and conduct its business as to comply with and fulfil all international agreements, conventions or undertakings relating to postal matters to which Singapore is a party.
+41\.—(1) Nothing in section 40 shall be deemed to abrogate the right of the Government at any time to determine its relations with any country or with any international agency or organisation.
+
+(2) A public postal licensee shall so discharge its responsibilities and conduct its business as to comply with and fulfil all international agreements, conventions or undertakings relating to postal matters to which Singapore is a party.
 
 ### Liability for international financial obligations
 
@@ -734,7 +722,9 @@ INTERNATIONAL OBLIGATIONS AND NATIONAL INTERESTS
 
 ### Provision of postal services for governmental, etc., purposes
 
-44\. The Minister may direct a public postal licensee to undertake and provide such postal services and facilities as may be necessary for aeronautical, maritime, meteorological, governmental, defence or other purposes and upon being so directed, the licensee shall so provide the services or facilities and shall be entitled to fair and proper payment therefor.
+44\.—(1) The Minister may direct a public postal licensee to undertake and provide such postal services and facilities as may be necessary for aeronautical, maritime, meteorological, governmental, defence or other purposes.
+
+(2) Upon being so directed by the Minister, the public postal licensee shall so provide the postal services or facilities referred to in subsection (1) and shall be entitled to fair and proper payment therefor.
 
 ### Directions by Minister
 
@@ -774,7 +764,7 @@ the Minister may, after consultation with the Postal Authority or a public posta
 
 ENFORCEMENT POWERS AND PROCEDURES
 
-### Furnishing of information
+### Power to require information, etc.
 
 46\.—(1) The Postal Authority or any officer of the Postal Authority authorised in that behalf may, for the purpose of discharging its functions under this Act, by order —
 
@@ -830,7 +820,7 @@ and may search any person so arrested, except that no female shall be searched e
 
 (a) stop and examine the vessel, aircraft or vehicle or enter the premises and there search for and take possession of any article and of any book or document which is reasonably believed to have a bearing on the case; and
 
-(b) arrest any person being in the vessel, aircraft or vehicle or premises in whose possession the article may be found or whom the police officer or the officer or employee of the Postal Authority may reasonably suspect to have concealed or deposited the article and may search any person so arrested, except that no female shall be searched except by a female.
+(b) arrest any person being in the vessel, aircraft or vehicle or premises in whose possession the article may be found or whom the police officer or the officer of the Postal Authority may reasonably suspect to have concealed or deposited the article and may search any person so arrested, except that no female shall be searched except by a female.
 
 (2) Every person so arrested shall, together with any such article, be taken to a police station.
 
@@ -852,11 +842,13 @@ and may search any person so arrested, except that no female shall be searched e
 
 ### General penalties
 
-52\. Any person guilty of an offence under this Act or any regulations made thereunder for which no penalty is expressly provided shall, in addition to the forfeiture of any article seized, be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
+52\. Any person guilty of an offence under this Act or any regulations made thereunder for which no penalty is expressly provided shall, in addition to the forfeiture of any article seized, be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both .
 
 ### Saving of prosecutions under other written laws
 
-53\. Nothing in this Act shall prevent any person from being prosecuted under any other written law for any act or omission which constitutes an offence under this Act or any regulations made thereunder, or from being liable under that other written law to any punishment or penalty higher or other than that provided by this Act or the regulations, but no person shall be punished twice for the same offence.
+53\.—(1) Nothing in this Act shall prevent any person from being prosecuted under any other written law for any act or omission which constitutes an offence under this Act or any regulations made thereunder, or from being liable under that other written law to any punishment or penalty higher or other than that provided by this Act or the regulations.
+
+(2) No person shall be punished twice for the same offence.
 
 ### Jurisdiction of Courts
 
@@ -864,7 +856,11 @@ and may search any person so arrested, except that no female shall be searched e
 
 ### Offences by bodies of persons
 
-55\. Where an offence under this Act or any regulations made thereunder has been committed by a company, firm, society or other body of persons, any person who at the time of the commission of the offence was a director, manager, secretary or other similar officer or a partner of the company, firm, society or other body of persons or was purporting to act in such capacity shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly unless he proves that the offence was committed without his consent or connivance and that he exercised all such diligence to prevent the commission of the offence as he ought to have exercised, having regard to the nature of his functions in that capacity and to all the circumstances.
+55\. Where an offence under this Act or any regulations made thereunder has been committed by a company, firm, society or other body of persons, any person who at the time of the commission of the offence was a director, manager, secretary or other similar officer or a partner of the company, firm, society or other body of persons or was purporting to act in such capacity shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly unless he proves that —
+
+(a) the offence was committed without his consent or connivance; and
+
+(b) he exercised all such diligence to prevent the commission of the offence as he ought to have exercised, having regard to the nature of his functions in that capacity and to all the circumstances.
 
 ## PART VIII
 
@@ -962,21 +958,88 @@ which is due to the act or default of another person, or an accident or some oth
 
 ### Savings and transitional provisions
 
-62\.—(1) Any scheme, contract, document, licence, permission or resolution prepared, made, granted or approved by the TAS under the repealed Act in relation to postal matters shall, so far as it is not inconsistent with the provisions of this Act and except as otherwise expressly provided in this Act or in any other written law, continue and be deemed to have been prepared, made, granted or approved by the Postal Authority under the corresponding provisions of this Act.
+62\. Any scheme, contract, document, licence, permission or resolution prepared, made, granted or approved by the TAS under the repealed Act in relation to postal matters shall, so far as it is not inconsistent with the provisions of this Act and except as otherwise expressly provided in this Act or in any other written law, continue and be deemed to have been prepared, made, granted or approved by the Postal Authority under the corresponding provisions of this Act.
 
-(2) Any subsidiary legislation made under the repealed Act or any other written law relating to postal matters and in force immediately before the appointed day shall, so far as it is not inconsistent with the provisions of this Act, continue in force as if made under this Act until it is revoked or repealed by subsidiary legislation made under this Act.
+## LEGISLATIVE HISTORY
 
-### Consequential amendments
+Postal Services Act
 
-63\.—(1) Section 115 of the Bankruptcy Act (Cap. 20) is amended —
+(CHAPTER 237A)
 
-(a) by deleting the words “Telecommunication Authority of Singapore Act” and substituting the words “Postal Services Act 1999”; and
+This Legislative History is provided for the convenience of users of the Postal Services Act. It is not part of this Act.
 
-(b) by deleting the marginal reference “Cap. 323”.
+||||
+|:-|:-|:-|
+|1.|**Act 42 of 1999—Postal Services Act 1999**|
+||Date of First Reading|11.10.99|
+|||(Bill No. 34/99 published on 12.10.99)|
+||Date of Second and Third Readings|23.11.99|
+||Date of commencement|1.12.99|
+|2.|**2000 Revised Edition—Postal Services Act**|
+||Date of operation|30 December 2000|
+## COMPARATIVE TABLE
 
-(2) Part III of the Fifth Schedule to the Exchange Control Act (Cap.99) is amended by deleting the words “Telecommunication Authority of Singapore Act” in paragraph 8 and substituting the words “Postal Services Act 1999”.
+Postal Services Act
 
-(3) The Goods and Services Tax Act (Cap. 117A) is amended by deleting the words “Telecommunication Authority of Singapore Act (Cap. 323)” wherever they appear in section 26(3)(b) and paragraph 7 in the Third Schedule and substituting in each case the words “Postal Services Act 1999”.
+(CHAPTER 237A)
 
-(4) Section 10(2) of the Kidnapping Act (Cap. 151) is amended by deleting the words “Telecommunication Authority of Singapore Act (Cap. 323)” and substituting the words “Postal Services Act 1999 and the Telecommunications Act 1999, respectively”.
+The following provisions in the Postal Services Act 1999 (Act 42 of 1999) have been renumbered by the Law Revision Commissioners in this 2000 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Postal Services Act.
+
+2000 Ed\. 
+
+Act 42 of 1999 
+
+9 — (1) and (2)
+
+9 — (1)
+
+(3) to (7)
+
+(2) to (6)
+
+29 — (3) and (4)
+
+29 — (3)
+
+(5)
+
+(4)
+
+(6)
+
+(5)
+
+(7)
+
+(6)
+
+32 — (1) and (2)
+
+32 — (1)
+
+(3)
+
+(2)
+
+(4)
+
+(3)
+
+41 — (1) and (2
+
+41 
+
+44 — (1) and (2)
+
+44 
+
+53 — (1) and (2)
+
+53
+
+Omitted
+
+62 — (2)
 
