@@ -1,16 +1,14 @@
-**Health Promotion Board Act 2001**
+**Health Promotion Board Act**
 
-**(No. 5 of 2001)**
+**(CHAPTER 122B)**
 
 **Table of Contents**
 
 [**Long Title**](#Health-Promotion-Board-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -32,7 +30,7 @@
 
 - [10 Disclosure of interest of members](#Disclosure-of-interest-of-members)
 
-[**Part III FUNCTIONS AND POWERS OF BOARD**](#Part-III)
+[**Part III FUNCTIONS, OBJECTS, DUTIES AND POWERS OF BOARD**](#Part-III)
 
 - [11 Functions, objects and duties of Board](#Functions-objects-and-duties-of-Board)
 
@@ -48,7 +46,7 @@
 
 - [16 Protection from personal liability](#Protection-from-personal-liability)
 
-- [17 Public servants for purposes of Penal Code](#Public-servants-for-purposes-of-Penal-Code)
+- [17 Public servants](#Public-servants)
 
 [**Part V FINANCIAL PROVISIONS**](#Part-V)
 
@@ -78,7 +76,7 @@
 
 - [29 Presentation of financial statements and auditor’s report to Parliament](#Presentation-of-financial-statements-and-auditor’s-report-to-Parliament)
 
-[**Part VI TRANSFER OF PROPERTY, LIABILITIES AND EMPLOYEES**](#Part-VI)
+[**Part VI TRANSFER OF PROPERTY, ASSETS, LIABILITIES AND EMPLOYEES**](#Part-VI)
 
 - [30 Transfer to Board of property, assets and liabilities](#Transfer-to-Board-of-property-assets-and-liabilities)
 
@@ -98,7 +96,7 @@
 
 - [37 Annual report](#Annual-report)
 
-- [38 Board’s symbol](#Board’s-symbol)
+- [38 Symbol or representation of Board](#Symbol-or-representation-of-Board)
 
 - [39 Preservation of secrecy](#Preservation-of-secrecy)
 
@@ -106,59 +104,39 @@
 
 - [41 Regulations](#Regulations)
 
-- [42 Consequential amendments](#Consequential-amendments)
-
-- [43 Savings](#Savings)
+- [42 Savings](#Savings)
 
 [**THE SCHEDULE Departments**](#THE-SCHEDULE)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+[**Comparative Table**](#Comparative-Table)
 
-ACTS SUPPLEMENT
+# Health Promotion Board Act
 
-Published by Authority
+(CHAPTER 122B)
 
-NO. 7]
+(Original Enactment: Act 5 of 2001)
 
-Friday, March 30
+REVISED EDITION 2002
 
-[2001
+(31st July 2002)
 
-The following Act was passed by Parliament on 22nd February 2001 and assented to by the President on 12th March 2001:—
+An Act to establish the Health Promotion Board, to provide for its functions and powers, and for matters connected therewith.
 
-Health Promotion Board Act 2001
-
-(No. 5 of 2001)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-12th March 2001.
-
-Date of Commencement: 1st April 2001
-
-An Act to establish the Health Promotion Board, to provide for its functions and powers, and for matters connected therewith; and to make consequential amendments to the Dentists Act (Chapter 76 of the 2000 Revised Edition) and the Infectious Diseases Act (Chapter 137 of the 1999 Revised Edition).
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st April 2001]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Health Promotion Board Act 2001 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Health Promotion Board Act.
 
 ### Interpretation
 
 2\. In this Act, unless the context otherwise requires —
-
-“appointed day” means the date of commencement of this Act;
 
 “Board” means the Health Promotion Board established under section 3;
 
@@ -250,11 +228,11 @@ all of whom shall be appointed by the Minister.
 
 (3) For the purpose of determining whether there is a quorum, a member shall be treated as being present at a meeting notwithstanding that under subsection (2) he cannot vote or has withdrawn from the meeting.
 
-(4) For the purposes of this section, an interest of a spouse, parent, son or an adopted son, or daughter or an adopted daughter, of a member shall be treated as an interest of the member.
+(4) For the purposes of this section, an interest of any spouse, parent, son or adopted son, or daughter or adopted daughter, of a member shall be treated as an interest of the member.
 
 ## PART III
 
-FUNCTIONS AND POWERS OF BOARD
+FUNCTIONS, OBJECTS, DUTIES AND POWERS OF BOARD
 
 ### Functions, objects and duties of Board
 
@@ -318,7 +296,7 @@ FUNCTIONS AND POWERS OF BOARD
 
 (h) charge fees or commissions for services rendered by the Board or for the use of any of its facilities;
 
-(i) carry out promotional activities or publicity in any form;
+(i) carry out promotional or publicity activities in any form;
 
 (j) receive donations, grants, gifts, subsidies or contributions from any source, and raise funds by all lawful means;
 
@@ -334,7 +312,7 @@ FUNCTIONS AND POWERS OF BOARD
 
 13\.—(1) The Board may, from time to time, appoint committees consisting of one or more persons (whether members of the Board or not) and define or vary the terms of reference of those committees.
 
-(2) Subject to this Act and any regulations made thereunder and to the control of the Board, each committee appointed under this section may regulate its procedure in such manner as the committee thinks fit.
+(2) Subject to this Act and to the control of the Board, each committee appointed under this section may regulate its procedure in such manner as the committee thinks fit.
 
 ### Delegation of powers
 
@@ -370,9 +348,9 @@ PROVISIONS RELATING TO STAFF
 
 (2) Where the Board provides a service to the public whereby information is supplied to the public, neither the Board nor any of its employees involved in the supply of such information shall be liable for any loss or damage suffered by any member of the public by reason of any error or omission of whatever nature appearing therein or however caused if made in good faith and in the ordinary course of the discharge of the duties of such employees.
 
-### Public servants for purposes of Penal Code
+### Public servants
 
-17\. The members, officers and employees of the Board shall be deemed to be public servants within the meaning of the Penal Code (Cap. 224).
+17\. The members, officers and employees of the Board shall be deemed to be public servants for the purposes of the Penal Code (Cap. 224).
 
 ## PART V
 
@@ -380,7 +358,7 @@ FINANCIAL PROVISIONS
 
 ### Financial year
 
-18\. The financial year of the Board shall begin on 1st April of each year and end on 31st March of the succeeding year, except that the first financial year of the Board shall begin on the appointed day and end on 31st March of the succeeding year.
+18\. The financial year of the Board shall begin on 1st April of each year and end on 31st March of the succeeding year.
 
 ### Estimates
 
@@ -420,9 +398,11 @@ FINANCIAL PROVISIONS
 
 ### Issue of shares, etc.
 
-22A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Board under this Act, or of any capital injection or other investment by the Government in the Board in accordance with any written law, the Board shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
+\*22A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Board under this Act, or of any capital injection or other investment by the Government in the Board in accordance with any written law, the Board shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
 
-[5/2002 wef 15/07/2002]
+[5 /2002]
+
+\*This section came into operation on 15 July 2002videG.N. No. S 342/2002.
 
 ### Bank accounts
 
@@ -498,11 +478,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ## PART VI
 
-TRANSFER OF PROPERTY, LIABILITIES AND EMPLOYEES
+TRANSFER OF PROPERTY, ASSETS, LIABILITIES AND EMPLOYEES
 
 ### Transfer to Board of property, assets and liabilities
 
-30\.—(1) As from the appointed day, such movable and immovable property vested in the Government as may be determined by the Minister for Finance and used or managed by any of the departments as specified in the Schedule and all assets, interests, rights, privileges, liabilities and obligations of the Government relating to any such department shall be transferred to and shall vest in the Board without further assurance, act or deed.
+30\.—(1) As from 1st April 2001, such movable and immovable property vested in the Government as may be determined by the Minister for Finance and used or managed by any of the departments as specified in the Schedule and all assets, interests, rights, privileges, liabilities and obligations of the Government relating to any such department shall be transferred to and shall vest in the Board without further assurance, act or deed.
 
 (2) If any question arises as to whether any particular property, or whether any particular asset, interest, right, privilege, liability or obligation has been transferred to or vested in the Board under subsection (1), a certificate under the hand of the Minister for Finance shall be conclusive evidence that the property, asset, interest, right, privilege, liability or obligation was or was not so transferred or vested.
 
@@ -510,7 +490,7 @@ TRANSFER OF PROPERTY, LIABILITIES AND EMPLOYEES
 
 ### Transfer of employees
 
-31\.—(1) As from the appointed day, all persons who immediately before that day were employed by the Government in any of the departments as specified in the Schedule shall be transferred to the service of the Board on terms no less favourable than those enjoyed by them immediately prior to their transfer.
+31\.—(1) As from 1st April 2001, all persons who immediately before that date were employed by the Government in any of the departments as specified in the Schedule shall be transferred to the service of the Board on terms no less favourable than those enjoyed by them immediately prior to their transfer.
 
 (2) Until such time as terms and conditions of service are drawn up by the Board, the scheme and terms and conditions of the Government shall continue to apply to every person transferred to the service of the Board under subsection (1) as if he were still in the employment of the Government.
 
@@ -522,7 +502,7 @@ TRANSFER OF PROPERTY, LIABILITIES AND EMPLOYEES
 
 (3) Nothing in the terms and conditions to be drawn up by the Board shall adversely affect the conditions that would have been applicable to persons transferred to the service of the Board as regards any pension, gratuity or allowance payable under the Pensions Act (Cap. 225).
 
-(4) Where a person has been transferred to the service of the Board under section 31, the Government shall be liable to pay to the Board such portion of any gratuity, pension or allowance payable to the person on his retirement as the same shall bear to the proportion which the aggregate amount of his pensionable emoluments during his service with the Government bears to the aggregate amount of his pensionable emoluments during his service under both the Government and the Board.
+(4) Where a person has been transferred to the service of the Board under section 31, the Government shall be liable to pay to the Board such portion of any pension, gratuity or allowance payable to the person on his retirement as the same shall bear to the proportion which the aggregate amount of his pensionable emoluments during his service with the Government bears to the aggregate amount of his pensionable emoluments during his service under both the Government and the Board.
 
 (5) Where any person in the service of the Board, whose case does not fall within the scope of any pension or other schemes established under this section, retires or dies in the service of the Board or is discharged from such service, the Board may grant to him or to such other person or persons wholly or partly dependent on him, as the Board thinks fit, such allowance or gratuity as the Board may determine.
 
@@ -532,17 +512,17 @@ TRANSFER OF PROPERTY, LIABILITIES AND EMPLOYEES
 
 ### Existing contracts
 
-34\. All deeds, contracts, schemes, bonds, agreements, instruments and arrangements, subsisting immediately before the appointed day to which the Government is a party and relating to any of the departments as specified in the Schedule or to any person transferred to the service of the Board under section 31 shall continue in force on and after that day and shall be enforceable by or against the Board as if the Board had been named therein or had been a party thereto instead of the Government.
+34\. All deeds, contracts, schemes, bonds, agreements, instruments and arrangements, subsisting immediately before 1st April 2001 to which the Government is a party and relating to any of the departments as specified in the Schedule or to any person transferred to the service of the Board under section 31 shall continue in force on and after that date and shall be enforceable by or against the Board as if the Board had been named therein or had been a party thereto instead of the Government.
 
 ### Continuation and completion of disciplinary and other legal proceedings
 
-35\.—(1) Where on the appointed day, any disciplinary proceedings were pending against any employee of the Government transferred to the service of the Board, the proceedings shall be carried on and completed by the Board.
+35\.—(1) Where on 1st April 2001, any disciplinary proceedings were pending against any employee of the Government transferred to the service of the Board, the proceedings shall be carried on and completed by the Board.
 
-(2) Where on the appointed day, any matter was in the course of being heard or investigated or had been heard or investigated by a committee acting under due authority but no order or decision had been rendered thereon, the committee shall complete the hearing or investigation and make such order, ruling or direction as it could have made under the authority vested in it before that day.
+(2) Where on 1st April 2001, any matter was in the course of being heard or investigated or had been heard or investigated by a committee acting under due authority but no order, ruling or decision had been made thereon, the committee shall complete the hearing or investigation and shall make such order, ruling or direction as it could have made under the authority vested in it before that date.
 
-(3) Any order, ruling or direction made or given by a committee pursuant to this section shall be treated as an order, a ruling or a direction of the Board and have the same force or effect as if it had been made or given by the Board pursuant to the authority vested in the Board under this Act.
+(3) Any order, ruling or direction made by a committee pursuant to this section shall be treated as an order, a ruling or a direction of the Board and have the same force or effect as if it had been made by the Board pursuant to the authority vested in the Board under this Act.
 
-(4) All proceedings or causes of action pending or existing immediately before the appointed day by or against the Government in respect of any of the departments specified in the Schedule may be continued, completed and enforced by or against the Board.
+(4) All proceedings or causes of action pending or existing immediately before 1st April 2001 by or against the Government in respect of any of the departments specified in the Schedule may be continued, completed and enforced by or against the Board.
 
 ### Misconduct or neglect of duty by employee before transfer
 
@@ -558,9 +538,9 @@ MISCELLANEOUS
 
 (2) The Minister shall, as soon as practicable, cause a copy of every such report to be presented to Parliament.
 
-### Board’s symbol
+### Symbol or representation of Board
 
-38\.—(1) The Board shall have the exclusive right to the use of such symbol or representation as it may select or devise and thereafter display or exhibit in connection with its activities or affairs.
+38\.—(1) The Board shall have the exclusive right to the use of such symbol or representation as it may select or devise and thereafter display or exhibit such symbol or representation in connection with its activities or affairs.
 
 (2) Any person who uses a symbol or representation identical with that of the Board, or which so resembles the Board’s symbol or representation as to deceive or cause confusion, or to be likely to deceive or to cause confusion, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.
 
@@ -572,7 +552,7 @@ MISCELLANEOUS
 
 ### Composition of offences
 
-40\.—(1) The Chief Executive or any officer authorised by him may, in his discretion, compound any offence under this Act or any regulations made thereunder which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum of money not exceeding $1,000.
+40\.—(1) The Chief Executive or any officer authorised by him may, in his discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum of money not exceeding $1,000.
 
 (2) On payment of such sum of money, no further proceedings shall be taken against such person in respect of the offence.
 
@@ -584,105 +564,15 @@ MISCELLANEOUS
 
 (b) providing for or prescribing any matters which are necessary or convenient to be provided for or prescribed for carrying out or giving effect to the provisions of this Act.
 
-### Consequential amendments
-
-42\.—(1) The Dentists Act (Cap. 76) is amended —
-
-(a) by inserting, immediately before the definition of “certificate of registration” in section 2, the following definition:
-
-“
-
-“Board” means the Health Promotion Board established under the Health Promotion Board Act 2001;
-
-”;
-
-(b) by deleting the words “a public officer” in section 12(1) and substituting the words “a registered dentist”;
-
-(c) by inserting, immediately after the words “any public officer” in the last line of section 33(1), the words “or officer of the Board”;
-
-(d) by repealing section 50 and substituting the following section:
-
-“
-
-Where Council member is in public service or is officer of Board
-
-50\. A member of the Council who is in the public service or who is an officer of the Board shall not be disqualified from being the chairman or a member of a Complaints Committee or a member of a Disciplinary Committee or the Health Committee by reason only that he, or the person who made the complaint or gave the information leading to the proceeding in question, is in the public service or is an officer of the Board.
-
-”;
-
-(e)
-
-by inserting, immediately after the words “one or more public officers” in section 56(1), the words “or officers of the Board”;
-
-(f)
-
-by deleting paragraph (a) of section 59(1) and substituting the following paragraph:
-
-“
-
-(a) the carrying out of any act which comes within the practice of dentistry by a person who is in the public service or who is an officer of the Board if the act is carried out —
-
-(i) in the course of the person’s duties in the public service or as an officer of the Board; and
-
-(ii) under the supervision of a registered dentist whose name appears in the first division of the register; or
-
-”; and
-
-(g)
-
-by deleting the section heading to section 59 and substituting the following section heading:
-
-“
-
-Exemption in respect of persons in public service or employed by Board or prescribed companies or organisations
-
-”.
-
-(2) The Infectious Diseases Act (Cap. 137) is amended —
-
-(a) by inserting, immediately after the definition of “baggage” in section 2, the following definition:
-
-“
-
-“Board” means the Health Promotion Board established under the Health Promotion Board Act 2001;
-
-”;
-
-(b) by deleting the words “the Government” in section 48(1) and substituting the words “the Board”;
-
-(c) by deleting paragraph (b) of section 48(2) and substituting the following paragraph:
-
-“
-
-(b) within 7 days of a vaccination make a notification thereof in the prescribed form to —
-
-(i) the Director; or
-
-(ii) any officer of the Board who is designated by the Director for the purpose,
-
-and deliver the duplicate copy of the notification to the person on whom the vaccination or intradermal test was carried out or, if such person is a child, to the parent or guardian of such child.
-
-”;
-
-(d) by inserting, immediately after the word “Director” in section 49, the words “or any officer of the Board who is designated by the Director for the purpose”;
-
-(e) by deleting subsection (4) of section 50 and substituting the following subsection:
-
-“
-
-(4) Any medical practitioner who issues an exemption certificate under this section shall immediately send a copy thereof to the Director or to an officer of the Board who is designated by the Director for the purpose.
-
-”; and
-
-(f) by inserting, immediately after the words “public officer” in the 2nd line of section 63(1), the words “or officer of the Board”.
-
 ### Savings
 
-43\. In so far as it is necessary to preserve the effect of any document issued by or relating to any of the departments specified in the Schedule, any reference in such document to any such department shall be construed as a reference to the Board.
+42\. In so far as it is necessary to preserve the effect of any document issued by or relating to any of the departments specified in the Schedule, any reference in such document to any such department shall be construed as a reference to the Board.
 
-THE SCHEDULE
+[43
 
-Sections 30(1), 31(1), 34, 35(4) and 43
+## THE SCHEDULE
+
+Sections 30(1), 31(1), 34, 35(4) and 42
 
 Departments
 
@@ -696,7 +586,48 @@ Departments
 
 5\. Health Promotion Division Administration.
 
-var printViewUrl = 'https://sso.agc.gov.sg/Act/HPBA2001/Historical/20020715?DocDate=20020731&ValidDate=20020715'; var printViewFilter = {"DocType":"Act","DocNo":"HPBA2001","QueryDate1":"20020715","DocStatus":"Historical","ValidDate":"20020715","ValidDt":null,"TransactionDate":null,"DocDate":"20020731","ViewType":"Print","CompareDate":null,"ShowDiff":"","PrintType":"html","ProvIds":"all-.,toc-.","PageIndex":0,"PageSize":0,"SortBy":null,"SortOrder":null,"Timeline":null,"MyCollection":null,"CollectionId":null,"CollectionName":null,"In":null,"GetPartialView":null,"Phrase":null,"Exact":null,"Any":null,"Without":null,"WiAl":null,"WiPr":null,"WiLT":null,"WiSc":null,"WiDT":null,"WiDH":null,"WiES":null,"WiPH":null,"RefinePhrase":[""],"RefineWithin":[""],"CustomSearchId":null}; var ajaxToken = 'CMfchazJKsIYrgUCQw3X2nwIX7ZOBqAWjEUkWHgFJG0V84blR/iaHBpAD+5RlYX0hS+QRrE3nTaqhGrNOAEmJk/KVsMbKlb/7QczeTUiN7tVABNAP71F5i0F7pe4i2H1pa2eq/zuSBpgOhCYTg6qNHtXJ3rv97CHlhn2teq0p9exolhBylOXRfv3AOVQVKIZkH1ihw0CqbHm2p3f+e0F2A==';
+## LEGISLATIVE HISTORY
 
-$(function () { initPrintView(); });
+Health Promotion Board Act
+
+(CHAPTER 122B)
+
+This Legislative History is provided for the convenience of users of the Health Promotion Board Act. It is not part of the Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 5 of 2001—Health Promotion Board Act 2001**|
+||Date of First Reading|12 January 2001|
+|||(Bill No. 2/2001 published on 13 January 2001)|
+||Date of Second and Third Readings|22 February 2001|
+||Date of commencement|1 April 2001|
+|2.|**Act 5 of 2002—Statutory Corporations (Capital Contribution) Act 2002**|
+||(Consequential amendments made by)||
+||Date of First Reading|3 May 2002|
+|||(Bill No. 7/2002 published on 4 May 2002)|
+||Date of Second and Third Readings|24 May 2002|
+||Date of commencement|15 July 2002|
+|3.|**2002 Revised Edition—Health Promotion Board Act**|
+||Date of operation|31 July 2002|
+## COMPARATIVE TABLE
+
+Health Promotion Board Act
+
+(CHAPTER 122B)
+
+The following provisions in the Health Promotion Board Act 2001 (Act 5 of 2001) have been renumbered by the Law Revision Commissioners in this 2002 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Health Promotion Board.
+
+2002 Ed\. 
+
+Act 5 of 2001 
+
+Omitted
+
+42 
+
+42 
+
+43 
 
