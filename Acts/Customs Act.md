@@ -2047,7 +2047,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Motor vehicle leaving Singapore without more than half a tank of motor spirit
 
-136A\.—(1) Except with the written permission of the Director-General, any person, being in charge of a motor vehicle registered under the Road Traffic Act (Cap. 276), who leaves or attempts to leave Singapore in that motor vehicle without more than half of the total capacity of its fuel supply tank filled with motor spirit shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500.
+136A\.—(1) Except with the written permission of the Director-General, any person, being in charge of a motor vehicle registered under the Road Traffic Act (Cap. 276), who leaves or attempts to leave Singapore in that motor vehicle without such minimum amount of motor spirit in its fuel supply tank as the Minister may by order prescribe shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500.
+
+[Act 12 of 1991 wef 04/02/1991]
 
 (2) For the purposes of subsection (1) —
 
@@ -2274,3 +2276,8 @@ This Legislative History is provided for the convenience of users of the Customs
 |||(Bill No. 20/89 published on 14 March 1989)|
 ||Date of Second and Third Readings|7 April 1989|
 ||Date of commencement|17 April 1989|
+|19.|**Act 12 of 1991—Customs (Amendment) Act 1991**|
+||Date of First Reading|3 January 1991|
+|||(Bill No. 5/91 published on 5 January 1991)|
+||Date of Second and Third Readings|15 January 1991|
+||Date of commencement|4 February 1991|
