@@ -808,9 +808,9 @@ the Authority may direct that the sum payable or to be credited shall be paid or
 
 Provided that this subsection shall not apply in so far as it is shown to be inconsistent with the intention of the parties that it should apply, whether by reason of their having contemplated the performance of that term despite the provisions of this Act or for any other reason.
 
-(2) Notwithstanding anything in the Bills of Exchange Act 1882 of the United Kingdom, or in the Bills of Exchange Act [Cap. 23], neither the provisions of this Act, nor any condition, whether express or to be implied having regard to those provisions, that any payment shall not be made without the permission of the Authority under this Act, shall be deemed to prevent any instrument being a bill of exchange or promissory note.
+(2) Notwithstanding anything in the Bills of Exchange Act [Cap. 23], neither the provisions of this Act, nor any condition, whether express or to be implied having regard to those provisions, that any payment shall not be made without the permission of the Authority under this Act, shall be deemed to prevent any instrument being a bill of exchange or promissory note.
 
-[U.K. 1882 c. 61. .]
+[Act 7/97 wef 01/10/1997]
 
 (3) The provisions of the Fourth Schedule shall have effect with respect to legal proceedings, arbitrations, bankruptcy proceedings, the administration of the estates of deceased persons, the winding up of companies, and proceedings under deeds of arrangement or trust deeds for the benefit of creditors.
 
@@ -1346,9 +1346,7 @@ Provided that no woman shall be searched in pursuance of this paragraph except b
 
 9\. Paragraphs 3, 4 and 5 of Part II shall apply also to offences punishable by virtue of this Part.
 
-10. In this Part, “authorised officer” means any officer of customs as defined in the Customs Act [Cap. 70. Cap. 235], any police officer as defined in the Police Force Act, and any officer or person authorised by the Authority to exercise the powers and perform the duties of an authorised officer under this Part.
-
-[]
+10\. In this Part, “authorised officer” means any officer of customs as defined in the Customs Act [Cap. 70. Cap. 235], any police officer as defined in the Police Force Act, and any officer or person authorised by the Authority to exercise the powers and perform the duties of an authorised officer under this Part.
 
 ## LEGISLATIVE HISTORY
 
@@ -1409,3 +1407,9 @@ This Legislative History is provided for the convenience of users of the Exchang
 |||(Bill No. 19/1995 published on 26 May 1995)|
 ||Date of Second and Third Readings|7 July 1995|
 ||Date of commencement|1 December 1995|
+|20.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
+||(Consequential amendments made by)||
+||Date of First Reading|11 July 1997|
+|||(Bill No. 6/1997 published on 12 July 1997)|
+||Date of Second and Third Readings|25 August 1997|
+||Date of commencement|1 October 1997 (except section 3)|
