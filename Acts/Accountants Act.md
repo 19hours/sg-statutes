@@ -502,7 +502,9 @@ shall be entitled, on payment of the prescribed fee, to be registered as a publi
 
 ### Renewal of registration
 
-13\.—(1) A public accountant who desires to renew his certificate of registration upon the expiry thereof may, within one month of the date of the expiry, make an application for the renewal in the prescribed form.
+13\.—(1) Unless the Oversight Committee or the Registrar allows otherwise, a public accountant who desires to renew his certificate of registration upon its expiry shall, not less than one month before the date of the expiry, submit his application for the renewal to the Oversight Committee in such form or manner as the Oversight Committee may require.
+
+[28/2004 wef 01/09/2004]
 
 (2) An application under subsection (1) shall be accompanied by —
 
@@ -534,7 +536,9 @@ shall be entitled, on payment of the prescribed fee, to be registered as a publi
 
 (c) who has been adjudged a bankrupt;
 
-(d) who has failed to renew his certificate of registration within one month of the date of the expiry thereof;
+(d) who, without reasonable excuse, has failed to renew his certificate of registration after one month from the date of the expiry thereof;
+
+[28/2004 wef 01/09/2004]
 
 (e) whose registration has been cancelled under the provisions of Part V or VI; or
 
