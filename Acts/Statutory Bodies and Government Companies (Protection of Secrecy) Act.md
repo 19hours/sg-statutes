@@ -148,6 +148,10 @@ Public Utilities Act (Chapter 261)
 
 Singapore Broadcasting Authority Act (Chapter 297)
 
+16A. Singapore Land Authority
+
+Singapore Land Authority Act 2001.
+
 17. Singapore Productivity and Standards Board
 
 Singapore Productivity and Standards Board Act (Chapter 303A)
@@ -171,6 +175,8 @@ Urban Redevelopment Authority Act (Chapter 340)
 [41/99 wef 01/12/1999]
 
 [3/2001 wef 01/04/2001]
+
+[17/2001 wef 01/06/2001]
 
 Part II
 
@@ -317,3 +323,9 @@ This Legislative History is provided for the convenience of users of the Statuto
 |||(Bill No. 7/2001 published on 23 February 2001)|
 ||Date of Second and Third Readings|16 March 2001|
 ||Date of commencement|1 April 2001|
+|28.|**Act 17 of 2001—Singapore Land Authority Act 2001**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|5 March 2001|
+|||(Bill No. 17/2001 published on 6 March 2001)|
+||Date of Second and Third Readings|19 April 2001|
+||Date of commencement|1 June 2001|
