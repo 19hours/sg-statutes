@@ -70,7 +70,7 @@ Provided that —
 
 (5) Where, in any case to which subsection (1) applies, one of the persons at fault avoids liability to any other such person or his personal representative by pleading the Limitation Act [Cap. 163] or any other written law limiting the time within which proceedings may be taken, he shall not be entitled to recover any damages or contributions from that other person or representative by virtue of that subsection.
 
-(6) Article 21 of the Convention contained in the First Schedule to the Carriage by Air Act 1932 [U.K. 1932 c. 36] as extended to Singapore by the Carriage by Air (Colonies, Protectorates and Mandated Territories) Order 1934 [S.R. & O. 1934/915] (which empowers a court to exonerate wholly or partly a carrier who proves that the damage was caused by or contributed to by the negligence of the injured person) shall have effect subject to this section.
+(6) [Deleted by 20/88 wef 16/09/1988]
 
 ### Saving for Maritime Conventions Act 1911 and past cases
 
@@ -116,3 +116,8 @@ This Legislative History is provided for the convenience of users of the Contrib
 |||(Bill No. 1/1987)|
 ||Date of Second and Third Readings|4 March 1987|
 ||Date of commencement|1 May 1987|
+|6.|**Act 20 of 1988—The Carriage by Air Act 1988**|
+||Date of First Reading|29 July 1988|
+|||(Bill No. 17/1988)|
+||Date of Second and Third Readings|11 August 1988|
+||Date of commencement|16 September 1988|
