@@ -48,7 +48,7 @@
 
 - [15 Certificate of corresponding law](#Certificate-of-corresponding-law)
 
-- [16 Certificate signed by Scientific Officer](#Certificate-signed-by-Scientific-Officer)
+- [16 Analyst’s certificate](#Analyst’s-certificate)
 
 - [17 Presumption concerning trafficking](#Presumption-concerning-trafficking)
 
@@ -207,6 +207,10 @@ Preliminary
 (a) a desire or need to continue to take that controlled drug; or
 
 (b) a psychological or physical dependence upon the effect of that controlled drug;
+
+“Health Sciences Authority” means the Health Sciences Authority established under the Health Sciences Authority Act 2001;
+
+[4/2001 wef 01/04/2001]
 
 “immigration officer” has the same meaning as in the Immigration Act (Cap. 133);
 
@@ -442,9 +446,9 @@ Evidence, Enforcement and Punishment
 
 (c) that any fact stated in the document as constituting an offence under that law does constitute such offence.
 
-### Certificate signed by Scientific Officer
+### Analyst’s certificate
 
-16\. A certificate purporting to be signed by a Scientific Officer in the Department of Scientific Services (including the Director and Deputy Director of Scientific Services) and purporting to relate to a controlled drug or controlled substance shall be admitted in evidence, in any proceedings for an offence under this Act, on its production by the prosecution without proof of signature and, until the contrary is proved, that certificate shall be prima facie evidence of all matters contained therein.
+16\. A certificate purporting to be signed by an analyst employed by the Health Sciences Authority and purporting to relate to a controlled drug or controlled substance shall be admitted in evidence, in any proceedings for an offence under this Act, on its production by the prosecution without proof of signature and, until the contrary is proved, that certificate shall be prima facie evidence of all matters contained therein.
 
 [20/98]
 
@@ -666,9 +670,9 @@ may be prohibited from entering or remaining in Singapore.
 
 [38/89]
 
-(5) A urine test shall be conducted by a Scientific Officer in the Department of Scientific Services (including the Director and Deputy Director of Scientific Services) on one part of a specimen of urine provided under this section and, at the same time or soon thereafter, a second urine test shall be conducted on the other part of the specimen of urine by another Scientific Officer in the Department of Scientific Services (including the Director and Deputy Director of Scientific Services).
+(5) A urine test shall be conducted by an analyst employed by the Health Sciences Authority on one part of a specimen of urine provided under this section and, at the same time or soon thereafter, a second urine test shall be conducted on the other part of the specimen of urine by another analyst employed by the Health Sciences Authority.
 
-[38/89; 20/98]
+[4/2001 wef 01/04/2001]
 
 ### Power of investigation of officers of Bureau
 
@@ -2571,3 +2575,9 @@ This Legislative History is provided for the convenience of users of the Misuse 
 ||Date of commencement|15 May 2000|
 |29.|**G. N. No. S 404/2000—Misuse of Drugs Act (Amendment of Third Schedule) Order 2000**|
 ||Date of commencement|11 September 2000|
+|30.|**Act 4 of 2001—Health Sciences Authority Act 2001**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|12 January 2001|
+|||(Bill No. 3/2001 published on 13 January 2001)|
+||Date of Second and Third Readings|22 February 2001|
+||Date of commencement|1 April 2001|
