@@ -88,7 +88,7 @@
 
 - [36 General penalty](#General-penalty)
 
-- [36A Compounding of offences](#Compounding-of-offences)
+- [36A Composition of offences](#Composition-of-offences)
 
 - [37 Consent of Public Prosecutor](#Consent-of-Public-Prosecutor)
 
@@ -97,6 +97,8 @@
 - [39 Regulations](#Regulations)
 
 - [40 Rules](#Rules)
+
+- [40A Fees to be paid to Authority](#Fees-to-be-paid-to-Authority)
 
 - [41 Validation of acts done and directions given by Government, etc.](#Validation-of-acts-done-and-directions-given-by-Government-etc)
 
@@ -143,6 +145,10 @@ PRELIMINARY
 (d) any person, company, society, association or other organisation or body who or which has been exempted by the Minister under section 32; or
 
 (e) any body, corporate or otherwise, declared by the Minister by notification in theGazetteto be a public authority or an instrumentality or agency of the Government;
+
+“Authority” means the Singapore Land Authority established under the Singapore Land Authority Act 2001;
+
+[Act 17 of 2001 wef 01/06/2001]
 
 “citizen” or “citizen of Singapore” means any person who, under the provisions of the Constitution of the Republic of Singapore [Vol. 1], has the status of a citizen of Singapore;
 
@@ -992,11 +998,17 @@ subject to any condition imposed by the Minister, any approved purchaser who fai
 
 (4) It shall be a defence for the individual referred to in subsection (3) if he proves that the offence was committed without his consent or connivance and that he exercised such diligence to prevent the commission of the offence as he ought to have exercised having regard to the nature of his functions and to all other circumstances.
 
-### Compounding of offences
+### Composition of offences
 
-36A\. The Controller may, in his discretion, compound any offence under this Act or any regulations or rules made thereunder which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $200.
+36A\.—(1) The Controller or any person authorised by him in writing may, in his discretion, compound any offence under this Act or any rules or regulations made thereunder which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $200 .
 
-[32/86]
+(2) The Minister may make regulations to prescribe the offences which may be compounded.
+
+(3) On payment of such sum, no further proceedings shall be taken against that person in respect of the offence.
+
+(4) All sums collected under this section shall be paid into the funds of the Authority.
+
+[Act 17 of 2001 wef 01/06/2001]
 
 ### Consent of Public Prosecutor
 
@@ -1031,6 +1043,12 @@ and in either case service shall be deemed to be made, in the case of service by
 (c) generally pertaining to the procedure or practice to be followed in any matter arising under this Act.
 
 (2) All such rules shall be published in theGazetteand shall be presented to Parliament as soon as possible after publication.
+
+### Fees to be paid to Authority
+
+40A\. All fees and charges collected under or in connection with any service provided by the Controller under this Act or any rules or regulations made thereunder shall be paid into the funds of the Authority.
+
+[Act 17 of 2001 wef 01/06/2001]
 
 ### Validation of acts done and directions given by Government, etc.
 
@@ -1368,3 +1386,9 @@ This Legislative History is provided for the convenience of users of the Residen
 |||(Bill No. 18/97 published on 20 November 1997)|
 ||Date of Second and Third Readings|14 January 1998|
 ||Date of commencement|1 April 1998|
+|8.|**Act 17 of 2001—Singapore Land Authority Act 2001**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|5 March 2001|
+|||(Bill No. 17/2001 published on 7 March 2001)|
+||Date of Second and Third Readings|19 April 2001|
+||Date of commencement|1 June 2001|
