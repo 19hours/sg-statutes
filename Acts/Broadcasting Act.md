@@ -210,7 +210,7 @@
 
 (CHAPTER 297)
 
-(Original Enactment: Act 15 of 1994)
+(Original Enactment: 15 of 1994)
 
 REVISED EDITION 1995
 
@@ -260,7 +260,7 @@ by persons having equipment appropriate for receiving, or receiving and displayi
 
 “Code of Practice” means a Code of Practice issued under this Act;
 
-“Corporation” means the Singapore Broadcasting Corporation established under the Singapore Broadcasting Corporation Act [Cap. 297, 1985 Ed.] in force immediately before 1st October 1994;
+“Corporation” means the Singapore Broadcasting Corporation established under the Singapore Broadcasting Corporation Act in force immediately before 1st October 1994;
 
 “debenture” includes debenture stock;
 
@@ -288,7 +288,7 @@ by persons having equipment appropriate for receiving, or receiving and displayi
 
 but does not include any matter that is wholly related to or connected with any private communication, that is to say —
 
-(i) any communication between 2 or more persons that is of a private or domestic nature;
+(i) any communication between two or more persons that is of a private or domestic nature;
 
 (ii) any internal communication of a business, Government agency or other organisation for the purpose of the operation of the business, agency or organisation; and
 
@@ -714,7 +714,7 @@ FREQUENCY PLANNING
 
 ### Separate licence for use of frequency not required
 
-36\. Notwithstanding anything in the Telecommunication Authority of Singapore Act or any regulations made thereunder, if a licensee is granted a broadcasting licence under this Act and the licence includes the right for the licensee to use any specified frequency in the electromagnetic spectrum or satellite orbits for the broadcast, or the transmission of one or more broadcasting services, then the licensee shall not be required to obtain any other licence under this Act or the Telecommunication Authority of Singapore Act in respect of the use of such frequency or satellite orbits for the period for which that broadcasting licence is in force and for the purposes permitted by that licence.
+36\. Notwithstanding anything in the Telecommunication Authority of SingaporeAct or any regulations made thereunder, if a licensee is granted a broadcasting licence under this Act and the licence includes the right for the licensee to use any specified frequency in the electromagnetic spectrum or satellite orbits for the broadcast, or the transmission of one or more broadcasting services, then the licensee shall not be required to obtain any other licence under this Act or the Telecommunication Authority of SingaporeAct in respect of the use of such frequency or satellite orbits for the period for which that broadcasting licence is in force and for the purposes permitted by that licence.
 
 ## PART VIII
 
@@ -996,7 +996,7 @@ TRANSFER OF UNDERTAKING
 
 55\.—(1) Until such time as contracts of service are drawn up by the broadcasting successor company or the Authority, as the case may be, the schemes and terms and conditions of service in the Corporation shall continue to apply to every person transferred to the service of a broadcasting successor company or the Authority under section 54 as if he were still in the service of the Corporation.
 
-(2) Where any person who is transferred to the service of a broadcasting successor company or the Authority under section 54 is a contributor under the Widows’ and Orphans’ Pension Act [Cap. 350], he shall for the purposes of that Act continue to make contributions under that Act as if he had not been transferred to the service of the company or the Authority and for the purposes of that Act, his service with the company or the Authority shall be deemed to be service with the Government.
+(2) Where any person who is transferred to the service of a broadcasting successor company or the Authority under section 54 is a contributor under the Widows’ and Orphans’ Pension Act, he shall for the purposes of that Act continue to make contributions under that Act as if he had not been transferred to the service of the company or the Authority and for the purposes of that Act, his service with the company or the Authority shall be deemed to be service with the Government.
 
 (3) Notwithstanding the provisions of the Pensions Act [Cap. 225], no person who is transferred to the service of a broadcasting successor company or the Authority under section 54 shall be entitled to claim any benefits under that Act on the ground that he has been retired from the service of the Government on account of abolition or reorganisation of office in consequence of the incorporation of the company or the establishment of the Authority.
 
@@ -1096,7 +1096,7 @@ and may search any person so arrested, except that no female shall be searched e
 
 ### Offence against other laws
 
-67\. Nothing in this Act shall prevent any person from being prosecuted under any other written law for any act or omission which constitutes an offence under that law, or from being liable under that other written law to any punishment or penalty higher or other than that provided by this Act or the regulations, but no person shall be punished twice for the same offence.
+67\. Nothing in this Act shall prevent any person from being prosecuted under any other written law for any act or a omission which constitutes an offence under that law, or from being liable under that other written law to any punishment or penalty higher or other than that provided by this Act or the regulations, but no person shall be punished twice for the same offence.
 
 ### Conduct of proceedings by officers
 
@@ -1192,7 +1192,7 @@ may appeal to the Minister.
 
 ### Transitional provisions
 
-80\.—(1) Any scheme, contract, document, licence, permission or resolution prepared, made, granted or approved under the repealed Singapore Broadcasting Corporation Act [Cap. 297, 1985 Ed.] or the repealed Broadcasting and Television Act [Cap. 28] shall, so far as it is not inconsistent with the provisions of this Act and except as otherwise expressly provided in this Act or in any other written law, continue and be deemed to have been prepared, made, granted or approved by the Authority under the corresponding provisions of this Act.
+80\.—(1) Any scheme, contract, document, licence, permission or resolution prepared, made, granted or approved under the repealed Singapore Broadcasting Corporation Act or the repealed Broadcasting and Television Act [Cap. 28] shall, so far as it is not inconsistent with the provisions of this Act and except as otherwise expressly provided in this Act or in any other written law, continue and be deemed to have been prepared, made, granted or approved by the Authority under the corresponding provisions of this Act.
 
 (2) Any subsidiary legislation made under the repealed Singapore Broadcasting Corporation Act or the repealed Broadcasting and Television Act and in force immediately before 1st October 1994 shall, so far as it is not inconsistent with the provisions of this Act, continue in force as if made under this Act until it is revoked by subsidiary legislation made under this Act.
 
@@ -1262,9 +1262,13 @@ Licensable Broadcasting Services
 
 18\. Video-on-demand services.
 
-19. Broadcast data services.
+19\. Broadcast data services.
+
+20. Computer on-line services.
 
 For the purposes of this Schedule, a delivery system shall not, by reason only that facilities or expertise are provided for the delivery of any broadcasting service, be deemed to be a licensable broadcasting service.
+
+[S 308/96 wef 15/07/1996]
 
 THIRD SCHEDULE
 
@@ -1308,7 +1312,7 @@ Vacation of office of member
 
 (b) has been absent, without leave of the Authority, from 3 consecutive meetings of the Authority.
 
-Filling of vacancy in office of member
+Filing of vacancy in office of member
 
 8\. If a member dies, resigns or has his appointment revoked or otherwise vacates his office before the expiry of the term for which he has been appointed, another person may be appointed by the Minister for the unexpired period of the term of office of the member in whose place he is appointed.
 
@@ -1484,11 +1488,13 @@ Section 80(3)
 
 Consequential Amendments
 
+Interpretation
+
 1\. In the Copyright Act [Cap. 63] and in the Telecommunication Authority of Singapore Act [Cap. 323], “broadcasting licence”, “broadcasting licensee” and “broadcasting service” have the same meanings as in section 2 of this Act.
 
 References to repealed Singapore Broadcasting Corporation Act
 
-2\. In any written law, any reference to the repealed Singapore Broadcasting Corporation Act [Cap. 297, 1985 Ed.] shall be read as a reference to this Act.
+2\. In any written law, any reference to the repealed Singapore Broadcasting Corporation Act shall be read as a reference to this Act.
 
 References to Singapore Broadcasting Corporation
 
@@ -1511,3 +1517,5 @@ This Legislative History is provided for the convenience of users of the Singapo
 ||Date of commencement|1 October 1994|
 |2.|**1995 Revised Edition—Singapore Broadcasting Authority Act (Chapter 297)**|
 ||Date of operation|15 March 1995|
+|3.|**G. N. No. S 308/1996—Singapore Broadcasting Authority Act (Amendment of Second Schedule) Notification 1996**|
+||Date of commencement|15 July 1996|
