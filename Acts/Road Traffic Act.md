@@ -84,6 +84,18 @@
 
 - [34 Rules for purposes of this Part](#Rules-for-purposes-of-this-Part)
 
+[**Part IA ROAD-USER CHARGES**](#Part-IA)
+
+- [34A Interpretation of this Part](#Interpretation-of-this-Part)
+
+- [34B Levying of road-user charge](#Levying-of-road-user-charge)
+
+- [34C Electronic or computerised or other charge collecting facilities](#Electronic-or-computerised-or-other-charge-collecting-facilities)
+
+- [34D Rules for purposes of this Part](#Rules-for-purposes-of-this-Part)
+
+- [34E Registrar’s power of inspection and seizure, etc.](#Registrar’s-power-of-inspection-and-seizure-etc)
+
 [**Part II LICENSING OF DRIVERS**](#Part-II)
 
 - [35 Licensing of drivers, etc.](#Licensing-of-drivers-etc)
@@ -216,7 +228,7 @@
 
 - [82 Restrictions on prosecutions under certain sections](#Restrictions-on-prosecutions-under-certain-sections)
 
-- [83 Liability of owner of vehicle for parking offence](#Liability-of-owner-of-vehicle-for-parking-offence)
+- [83 Liability of owner of vehicle for offence under Part IA or parking offence](#Liability-of-owner-of-vehicle-for-offence-under-Part-IA-or-parking-offence)
 
 [**Accidents**](#Accidents)
 
@@ -340,6 +352,8 @@
 
 - [139 Provisions as to evidence](#Provisions-as-to-evidence)
 
+- [139A Authentication of documents](#Authentication-of-documents)
+
 - [140 General provisions as to rules](#General-provisions-as-to-rules)
 
 - [141 Rules to be presented to Parliament](#Rules-to-be-presented-to-Parliament)
@@ -406,9 +420,13 @@ An Act for the regulation of road traffic and the use of vehicles and the user o
 
 “Minister” means —
 
-(a) except as provided in paragraph (b), the Minister for Communications;
+(a) except as provided in paragraphs (b) and (c), the Minister for Communications;
 
-(b) for the purposes of the whole of Parts II and III and sections 63(2) and (3), 74, 75, 76, 112 to 116, 121, 123, 132, 133(7) and 134, the Minister for Home Affairs;
+(b) for the purposes of the whole of Parts II and III and sections 63(2) and (3), 74, 75, 76, 112 to 116, 121 and 123, the Minister for Home Affairs; and
+
+(c) for the purposes of sections 132, 133(7), 134, 135(2), 140(1) and (2) and 142, the Minister for Communications or the Minister for Home Affairs, as appropriate;
+
+[5/98 wef 01/04/1998]
 
 “motor spirit” has the same meaning as in the Customs Act (Cap. 70);
 
@@ -1067,6 +1085,84 @@ and shall, unless the Registrar otherwise determines, first have effect on the f
 (r) to regulate the registration and licensing of heavy vehicles.
 
 [7/90; 16/91; 33/93]
+
+## PART IA
+
+ROAD-USER CHARGES
+
+[5/98 wef 01/04/1998]
+
+### Interpretation of this Part
+
+34A\. In this Part —
+
+“authorised officer” means any officer authorised by the Registrar;
+
+“prescribed hours” means such hours as the Minister may prescribe for the levying of a road-user charge in respect of any specified road;
+
+“road-user charge” means the charge payable for riding, driving or moving a motor vehicle on a specified road during the prescribed hours;
+
+“specified road” means any road or part thereof as may be specified in rules made under this Part;
+
+“stored value card” has the same meaning as in the Banking Act (Cap. 19).
+
+### Levying of road-user charge
+
+34B\.—(1) The Minister may prescribe road-user charges to be paid in connection with the use of any specified road.
+
+(2) All road-user charges collected under this Part shall be paid into the Consolidated Fund.
+
+### Electronic or computerised or other charge collecting facilities
+
+34C\. The Authority may install or cause to be installed on any road in respect of which a road-user charge is levied under this Part such electronic or computerised or other facilities as it thinks fit for the purpose of collecting the road-user charge and may also install or cause to be installed such ancillary facilities as the Authority thinks necessary.
+
+### Rules for purposes of this Part
+
+34D\.—(1) The Minister may make rules for the purposes of carrying this Part into effect and, in particular, may make rules —
+
+(a) specifying the roads in respect of which, and the days and hours during which, a road-user charge shall be levied;
+
+(b) prescribing the amount of road-user charge to be levied in respect of any specified road and for this purpose, road-user charges of different amounts may be prescribed in respect of —
+
+(i) different specified roads or parts thereof;
+
+(ii) different hours of the day or different days of the week; and
+
+(iii) different classes, categories or descriptions of vehicles;
+
+(c) prescribing the manner in which road-user charges shall be levied and collected, including the use of electronic or computerised or other facilities therefor, and for this purpose, the rules may —
+
+(i) require all vehicles (whether registered in Singapore or elsewhere) to be installed with such devices and appurtenances and in such manner as may be prescribed before they may be ridden, driven or moved on a specified road during the prescribed hours;
+
+(ii) provide for the issue by the Authority or its agents of stored value cards to be used with any device prescribed under sub-paragraph (i), regulate the use of such stored value cards and prohibit the issue of such stored value cards by any person not authorised by the Authority to do so;
+
+(iii) prohibit the sale, supply, installation, repair or maintenance of any device or appurtenance prescribed under sub-paragraph (i) by any person not authorised by the Registrar to do so;
+
+(iv) specify the conditions under which any device or appurtenance prescribed under sub-paragraph (i) may be removed from one vehicle and installed in another or transferred from one person to another; and
+
+(d) prescribing the records to be kept by the Registrar in connection with this Part and regulating the disclosure by the Registrar of any information in such records.
+
+(2) Where a person is convicted of an offence under the rules, the court before which such person is convicted may, in addition to the punishment prescribed for the offence, order him to pay the amount of road-user charge as may be certified by an officer appointed by the Authority in that behalf to be due from such person at the date of such conviction and such amount may be recovered according to the law for the time being in force for the recovery of fines.
+
+(3) Section 77A of the Banking Act (Cap. 19) and section 14 of the Currency Act (Cap. 69) shall not apply to a stored value card issued by the Authority or its agent in accordance with rules made under this section.
+
+### Registrar’s power of inspection and seizure, etc.
+
+34E\.—(1) The Registrar may, by notice in writing, require the owner of any vehicle in which any device or appurtenance has been installed for the purpose of this Part to produce the vehicle before the Registrar or an authorised officer at such time and place as the Registrar may appoint in order that the Registrar or authorised officer may inspect or test the device or appurtenance.
+
+(2) The Registrar or authorised officer may remove from a vehicle which has been produced before him pursuant to subsection (1) any device or appurtenance which has been installed therein for the purpose of this Part if the Registrar or authorised officer is of the opinion that the device or appurtenance cannot be properly inspected or tested without being so removed.
+
+(3) If, upon inspecting any such device or appurtenance, the Registrar or authorised officer is satisfied that there is or has been any contravention of any of the provisions of this Part or the rules made under section 34D concerning the device or appurtenance, the Registrar or authorised officer may remove the device or appurtenance from the vehicle and dispose of it in such manner as he thinks fit.
+
+(4) Any person who fails to comply with a notice issued under subsection (1) shall be guilty of an offence.
+
+(5) Where a person on whom a notice is served under subsection (1) fails to comply with the notice, the Registrar or an authorised officer may seize and detain the vehicle in order to carry out any inspection or test under subsection (1).
+
+(6) Where any vehicle is seized and detained under subsection (5), the Registrar or authorised officer shall forthwith inform the owner of the vehicle in writing of the seizure and detention and if the vehicle is not claimed by its owner within 3 months of the date of its seizure —
+
+(a) the Registrar or authorised officer may, after giving one month’s notice in theGazette, sell the vehicle by public auction or otherwise dispose of the vehicle in such manner as he thinks fit; and
+
+(b) the proceeds, if any, from the sale or disposal of the vehicle shall be applied in payment of any road-user charges which may be due in respect of the vehicle and of any charges incurred in carrying out the provisions of this section and the surplus, if any, shall be paid into the Consolidated Fund, if unclaimed by the owner within a period of 12 months.
 
 ## PART II
 
@@ -2084,17 +2180,17 @@ any medical practitioner treating such person for his injury shall, if so direct
 
 81\.—(1) Where the driver of a motor vehicle is alleged or is suspected to be guilty of an offence under this Act or the rules —
 
-(a) the owner of the motor vehicle shall give such information as he may be required by a police officer to give as to the identity and address of the person who was driving the motor vehicle at or about the time of the alleged offence, and as to the driving licence held by that person, and, if he fails to do so within 7 days of the date on which the information was required from him, he shall be guilty of an offence unless he proves, to the satisfaction of the court, that he did not know and could not with reasonable diligence have ascertained the information required; and
+(a) the owner of the motor vehicle shall give such information as he may be required by a police officer or an employee of the Authority to give as to the identity and address of the person who was driving the motor vehicle at or about the time of the alleged offence, and as to the driving licence held by that person, and, if he fails to do so within 7 days of the date on which the information was required from him, he shall be guilty of an offence unless he proves, to the satisfaction of the court, that he did not know and could not with reasonable diligence have ascertained the information required; and
 
 (b) any other person who was or should have been in charge of the motor vehicle shall, if so required as aforesaid, give any information which it is in his power to give, and which may lead to the identification of the driver, and if, within 7 days of the date on which the information was required from him, he fails to do so, he shall be guilty of an offence.
 
 (2) Any person who wilfully furnishes any false or misleading information under subsection (1) shall be guilty of an offence.
 
-(3) A police officer may require any information to be furnished under subsection (1) to be in writing signed by the person required to furnish such information.
+(3) A police officer or an employee of the Authority may require any information to be furnished under subsection (1) to be in writing signed by the person required to furnish such information.
 
 (4) Notwithstanding any other written law to the contrary, any information given under this section by any person charged with any offence under this Act or the rules or any offence in connection with the driving of a motor vehicle may be used as evidence without proof of signature at the hearing of the charge.
 
-(5) Notwithstanding any other written law to the contrary, any statement made by any person to any police officer that a motor vehicle was on a particular occasion being driven by or belonged to that person or that it belonged to a firm in which that person also stated that he was a partner or to a corporation of which that person stated that he was a director, officer or employee shall be admissible in evidence without proof of signature for the purpose of determining by whom the motor vehicle was on that occasion being driven or who was in charge of it or to whom it belonged.
+(5) Notwithstanding any other written law to the contrary, any statement made by any person to any police officer or an employee of the Authority that a motor vehicle was on a particular occasion being driven by or belonged to that person or that it belonged to a firm in which that person also stated that he was a partner or to a corporation of which that person stated that he was a director, officer or employee shall be admissible in evidence without proof of signature for the purpose of determining by whom the motor vehicle was on that occasion being driven or who was in charge of it or to whom it belonged.
 
 (6) Any person who is guilty of an offence under subsection (1) or (2) shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
 
@@ -2118,33 +2214,37 @@ any medical practitioner treating such person for his injury shall, if so direct
 
 (4) This section shall not apply in any case in which the person prosecuted was, in connection with the incident in respect of which a charge against that person is preferred, arrested either on the day on which the incident occurred or within 30 days of that date.
 
-### Liability of owner of vehicle for parking offence
+### Liability of owner of vehicle for offence under Part IA or parking offence
 
-83\.—(1) When a parking offence is committed, the person who at the time of the occurrence of the offence is the owner of the motor vehicle in respect of which the offence is committed shall, by virtue of this section, be guilty of an offence under the rule or section concerned in all respects as if he were the actual offender guilty of the parking offence unless —
+83\.—(1) When an offence under Part IA or a parking offence is committed, the person who at the time of the occurrence of the offence is the owner of the motor vehicle in respect of which the offence is committed shall, by virtue of this section, be guilty of an offence under the rule or section concerned in all respects as if he were the actual offender guilty of the offence under Part IA or the parking offence, as the case may be, unless —
 
-(a) in any case where that offence is dealt with under section 132 or 133, the owner satisfies the police officer referred to in section 132 or 133(7), as the case may be, that the vehicle was at the relevant time a stolen vehicle or a vehicle illegally taken or used; and
+(a) in any case where that offence is dealt with under section 132 or 133, the owner satisfies the police officer or employee of the Authority referred to in section 132 or 133(7), as the case may be, that the vehicle was at the relevant time a stolen vehicle or a vehicle illegally taken or used; and
 
 (b) in any other case, the court is satisfied that the vehicle was at the relevant time a stolen vehicle or a vehicle illegally taken or used.
 
 [19/74]
 
-(2) Nothing in this section shall affect the liability of the actual offender but where a penalty has been imposed on or recovered from a person in relation to any parking offence no further penalty shall be imposed on or recovered from any other person in relation thereto.
+(2) Nothing in this section shall affect the liability of the actual offender but where a penalty has been imposed on or recovered from a person in relation to any offence under Part IA or any parking offence no further penalty shall be imposed on or recovered from any other person in relation thereto.
 
-(3) Notwithstanding subsection (1), no owner of a motor vehicle shall by virtue of this section be guilty of an offence if —
+(3) Notwithstanding subsection (1), no owner of a motor vehicle shall by virtue of this section be guilty of an offence under Part IA or a parking offence if —
 
 (a) in any case where the offence is dealt with under section 132 or 133, he —
 
-(i) within 7 days after service on him of a notice under section 132 or 133 alleging that he has been guilty of such offence, furnishes by statutory declaration to the police officer referred to in section 132 or 133(7), as the case may be, the name and address of the person who was in charge of the vehicle at all relevant times relating to the parking offence concerned; or
+(i) within 7 days after service on him of a notice under section 132 or 133 alleging that he has been guilty of such offence, furnishes by statutory declaration to the police officer or employee of the Authority referred to in section 132 or 133(7), as the case may be, the name and address of the person who was in charge of the vehicle at all relevant times relating to the offence concerned; or
 
-(ii) satisfies the police officer that he did not know and could not with reasonable diligence have ascertained such name and address; and
+(ii) satisfies the police officer or employee of the Authority that he did not know and could not with reasonable diligence have ascertained such name and address; and
 
 (b) in any other case he satisfies the court that he did not know and could not with reasonable diligence have ascertained such name and address.
 
-(4) A statutory declaration made under subsection (3) if produced in any proceedings against the person named therein and in respect of the parking offence concerned shall be prima facie evidence that the person was in charge of the vehicle at all relevant times relating to that parking offence.
+(4) A statutory declaration made under subsection (3) if produced in any proceedings against the person named therein and in respect of the offence concerned shall be prima facie evidence that the person was in charge of the vehicle at all relevant times relating to that offence.
 
-(5) A statutory declaration which relates to more than one parking offence shall not be regarded as a statutory declaration under or for the purposes of subsection (3).
+(5) A statutory declaration which relates to more than one offence under Part IA or to more than one parking offence shall not be regarded as a statutory declaration under or for the purposes of subsection (3).
 
 (6) In this section —
+
+“offence under Part IA” means any offence in contravention of any of the provisions of Part IA or the rules made under section 34D;
+
+[5/98 wef 01/04/1998]
 
 “owner”, in relation to a motor vehicle, includes —
 
@@ -2974,7 +3074,7 @@ shall be liable on conviction, where no special penalty is provided in the case 
 
 (5) Where the amount of any fixed penalty for an alleged offence is paid pursuant to this section, no person shall be liable for any further proceedings for the alleged offence.
 
-(6) The Minister may make rules —
+(6) The appropriate Minister may make rules —
 
 (a) to prescribe the offences to which this section shall apply;
 
@@ -3002,23 +3102,23 @@ shall be liable on conviction, where no special penalty is provided in the case 
 
 (6) Upon a person arrested in pursuance of a warrant issued under subsection (5) being produced before it, a court shall proceed as though he were produced before it in pursuance of section 136 of the Criminal Procedure Code (Cap. 68) and shall, at the conclusion of the proceedings, call upon him to show cause why he should not be punished for failing to attend in compliance with the notice served upon him and if cause is not shown may order him to pay such fine not exceeding $2,000 as the court thinks fit or may commit him to prison for a term not exceeding 2 months.
 
-(7) A police officer not below the rank of sergeant or an employee of the Authority specially authorised by name in that behalf by the Minister by notification in theGazettemay, at any time before the date specified in the notice, cancel the notice.
+(7) A police officer not below the rank of sergeant or an employee of the Authority specially authorised by name in that behalf by the appropriate Minister by notification in theGazettemay, at any time before the date specified in the notice, cancel the notice.
 
 [7/90; 28/95]
 
 ### Minister may prescribe forms of notices
 
-134\. The Minister may prescribe such forms of notices as he may think fit for the purposes of sections 132 and 133.
+134\. The appropriate Minister may prescribe such forms of notices as he may think fit for the purposes of sections 132 and 133.
 
 ### Composition of offences
 
-135\.—(1) The Deputy Commissioner of Police, any police officer not below the rank of sergeant specially authorised by name in that behalf by the Deputy Commissioner of Police by notification in theGazetteor any employee of the Authority specially authorised by name in that behalf by the Minister for Communicationsby notification in theGazettemay, in his discretion, compound any such offence under this Act or the rules as may be prescribed as an offence which may be compounded by the Deputy Commissioner of Police or such police officer or employee of the Authority by collecting from the person reasonably suspected of having committed the offence a sum not exceeding $500.
+135\.—(1) The Deputy Commissioner of Police, any police officer not below the rank of sergeant specially authorised by name in that behalf by the Deputy Commissioner of Police by notification in theGazetteor any employee of the Authority specially authorised by name in that behalf by the Minister for Communicationsby notification in theGazettemay, in his discretion and subject to such conditions as may be prescribed, compound any such offence under this Act or the rules as may be prescribed as an offence which may be compounded by the Deputy Commissioner of Police or such police officer or employee of the Authority by collecting from the person reasonably suspected of having committed the offence a sum not exceeding $500.
 
 [28/95; 11/96]
 
-(2) The appropriate Minister may make rules to prescribe the offences which may be compounded by the officers and persons referred to in subsection (1) and the method and procedure by which those offences may be compounded under this section.
+(2) The appropriate Minister may make rules to prescribe the offences which may be compounded under this section and the conditions subject to which, and the method and procedure by which, such offences may be compounded.
 
-[28/95]
+[5/98 wef 01/04/1998]
 
 ### Payment for licences by cheque
 
@@ -3063,6 +3163,12 @@ a certificate purporting to be signed by the Registrar or the Deputy Commissione
 (7) When in any proceedings before any court it is necessary to prove that any police officer, public officer or the Registrar or the Deputy Commissioner of Police, as the case may be, has sent or served, or has received or has not received, any badge, document, licence, notice, plate or other thing, a certificate purporting to be signed by the police officer, public officer or the Registrar or the Deputy Commissioner of Police, as the case may be, and certifying the sending, service, reception or non-reception, as the case may be, of the badge, document, licence, notice, plate or thing, shall be admissible as evidence, and shall constitute prima facie proof of the facts certified in the certificate, without proof of the signature of that certificate.
 
 (8) Where in any proceedings for an offence under this Act or the rules relating to the maximum speed at which motor vehicles may be driven it is necessary to prove the speed at which the vehicle has been driven, a certificate, purporting to be signed by a police officer not below the rank of inspector who was in charge of the apparatus, instrument or appliance used to measure, at a distance from such vehicle, the speed at which the vehicle was driven and certifying that the apparatus, instrument or appliance had been examined within the previous 3 months and found to be accurate, shall be accepted by any court as prima facie proof of the facts certified in the certificate.
+
+### Authentication of documents
+
+139A\. Where any notice, order or other document required or authorised by this Act or the rules to be served on any person requires authentication, the signature of the Deputy Commissioner of Police, the Registrar, a police officer or an employee of the Authority or an official facsimile of such signature appended to such notice, order or document shall be sufficient authentication.
+
+[5/98 wef 01/04/1998]
 
 ### General provisions as to rules
 
@@ -3364,3 +3470,8 @@ This Legislative History is provided for the convenience of users of the Road Tr
 ||Date of commencement|1 October 1997|
 |39.|**1997 Revised Edition—Road Traffic Act**|
 ||Date of operation|20 December 1997|
+|40.|**Act 5 of 1998—Road Traffic (Amendment) Act 1998**|
+||Date of First Reading|14 January 1998|
+|||(Bill No. 8/98 published on 15 January 1998)|
+||Date of Second and Third Readings|19 February 1998|
+||Date of commencement|1 April 1998|
