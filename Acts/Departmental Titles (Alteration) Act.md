@@ -512,6 +512,117 @@ Assistant Officer-in-Charge of the Marine Police Division
 
 Deputy Commander of the Police Coast Guard.
 
+Head of Support and Services Division,
+
+
+
+
+Criminal Investigation Department
+
+Assistant Director CID
+
+
+
+
+(Support and Services)
+
+
+
+
+Criminal Investigation Department.
+
+Head of Major Crime Division
+
+
+
+
+Criminal Investigation Department
+
+Assistant Director CID
+
+
+
+
+(Major Crime)
+
+
+
+
+Criminal Investigation Department.
+
+Head of Specialised Crime Division,
+
+
+
+
+Criminal Investigation Department
+
+Assistant Director CID
+
+
+
+
+(Specialised Crime)
+
+
+
+
+Criminal Investigation Department.
+
+Head of Commercial Crime Division,
+
+
+
+
+Criminal Investigation Department
+
+Assistant Director CID
+
+
+
+
+(Commercial Crime)
+
+
+
+
+Criminal Investigation Department.
+
+Officer-in-Charge of Secret Societies Branch
+
+
+
+
+Criminal Investigation Department
+
+Head Secret Societies Branch
+
+
+
+
+Criminal Investigation Department.
+
+Head of Intelligence Division,
+
+
+
+
+Criminal Investigation Department
+
+Assistant Director CID
+
+
+
+
+(Intel)
+
+
+
+
+Criminal Investigation Department.
+
+[S 412/98 wef 01/02/1996]
+
 [S 139/70]
 
 [S 46/77]
@@ -581,3 +692,5 @@ This Legislative History is provided for the convenience of users of the Departm
 ||Date of commencement|12 August 1994|
 |15.|**G. N. No. S 548/1995—Departmental Titles (Alteration) Act (Resolution)**|
 ||Date of commencement|15 December 1995|
+|16.|**G. N. No. S 412/1998—Departmental Titles (Alteration) Act (Amendment of Schedule) Notification 1998**|
+||Date of commencement|1 February 1996|
