@@ -40,6 +40,8 @@
 
 - [14 Applications determined with reference to Master Plan, etc.](#Applications-determined-with-reference-to-Master-Plan-etc)
 
+- [14A Applications determined in reliance of certificate or declaration of qualified person](#Applications-determined-in-reliance-of-certificate-or-declaration-of-qualified-person)
+
 - [15 Conditional permission](#Conditional-permission)
 
 - [16 Subdivision permission: supplementary provisions](#Subdivision-permission:-supplementary-provisions)
@@ -94,7 +96,19 @@
 
 - [39 Alternative basis for determination of development charge](#Alternative-basis-for-determination-of-development-charge)
 
+- [39A Remission of development charge](#Remission-of-development-charge)
+
 - [40 Power to make rules relating to development charge](#Power-to-make-rules-relating-to-development-charge)
+
+[**Part VA TEMPORARY DEVELOPMENT LEVY**](#Part-VA)
+
+- [40A Temporary development levy](#Temporary-development-levy)
+
+- [40B Liability to pay temporary development levy](#Liability-to-pay-temporary-development-levy)
+
+- [40C Remission of temporary development levy](#Remission-of-temporary-development-levy)
+
+- [40D Power to make rules relating to temporary development levy](#Power-to-make-rules-relating-to-temporary-development-levy)
 
 [**Part VI RECOVERY OF MONEYS**](#Part-VI)
 
@@ -140,13 +154,19 @@
 
 - [60 Charges, fees and penalties to be paid into Consolidated Fund](#Charges-fees-and-penalties-to-be-paid-into-Consolidated-Fund)
 
+- [60A Amendment of Schedules](#Amendment-of-Schedules)
+
 - [61 Rules](#Rules)
 
 [**Part VIII TRANSITIONAL AND SAVING PROVISIONS**](#Part-VIII)
 
 - [62 Transitional and saving provisions](#Transitional-and-saving-provisions)
 
-[**THE SCHEDULE**](#THE-SCHEDULE)
+[**FIRST SCHEDULE Qualified Persons**](#FIRST-SCHEDULE-Qualified-Persons)
+
+[**SECOND SCHEDULE Uses**](#SECOND-SCHEDULE-Uses)
+
+[**THIRD SCHEDULE**](#THIRD-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -236,6 +256,10 @@ PRELIMINARY
 
 “purchase notice” means a notice served under section 24;
 
+“qualified person” means a person specified in the First Schedule;
+
+[30/2003 wef 10/12/2003]
+
 “repealed Act” means the repealed Planning Act (Cap. 232, 1990 Ed.);
 
 “street” includes any road, square, footway or passage, whether a thoroughfare or not, over which the public has a right of way, and also the way over any public bridge, and includes also any road, footway or passage, open court or open alley, used or intended to be used as a means of access to 2 or more holdings, whether the public has a right of way thereover or not; and all channels, drains and ditches at the side of any street shall be deemed to be part of that street;
@@ -296,9 +320,13 @@ PRELIMINARY
 
 (ii) the height of the deposit is extended and exceeds the level of the land adjoining the site;
 
-(g) subject to subsection (2)(h), the use of any building or part thereof for any purpose other than that for which the building was originally constructed involves a material change in the use of the building; and
+(g) subject to subsection (2)(h), the use of any building or part thereof for any purpose other than that for which the building was originally constructed involves a material change in the use of the building;
 
-(h) any decorative, painting, renovation or building works, whether external or internal, to or on a monument in respect of which there is in force a preservation order under the Preservation of Monuments Act (Cap. 239) shall constitute building operations.
+(h) any decorative, painting, renovation or building works, whether external or internal, to or on a monument in respect of which there is in force a preservation order under the Preservation of Monuments Act (Cap. 239) shall constitute building operations; and
+
+(i) the use and operation as 2 or more separate entities of any building or buildings or part of a building which is or are approved or authorised to be used and operated as one single entity for any of the uses specified in the Second Schedule involves a material change in the use of the building or buildings or part of the building.
+
+[30/2003 wef 10/12/2003]
 
 ### Meaning of “subdivide”
 
@@ -306,21 +334,19 @@ PRELIMINARY
 
 (2) Notwithstanding subsection (1), the following leases granted on or after 1st April 1998 shall not be regarded as a disposal of the land or part thereof:
 
-(a) in the case of any development described in Part I of the Schedule, the grant of any lease for any unit in the development for a term not exceeding an aggregate of 14 years;
+(a) in the case of any development described in Part I of the Third Schedule, the grant of any lease for any unit in the development for a term not exceeding an aggregate of 14 years;
 
-(b) in the case of any development described in Part II of the Schedule, the grant of any lease for a building or any part of a building comprised in the development for a term not exceeding an aggregate of 14 years; or
+(b) in the case of any development described in Part II of the Third Schedule, the grant of any lease for a building or any part of a building comprised in the development for a term not exceeding an aggregate of 14 years; or
 
 (c) in the case of any other land, the grant of any lease of the whole or part of the land for a term not exceeding an aggregate of 7 years.
 
-(3) The Minister may, at any time by order published in the Gazette —
+(3) The Minister may, at any time, by order published in theGazetteamend, delete or add to the list of leases in subsection (2) which shall not be regarded as a disposal of land or part thereof.
 
-(a) amend, delete or add to the list of leases in subsection (2) which shall not be regarded as a disposal of land or part thereof; or
-
-(b) amend the Schedule.
+[30/2003 wef 10/12/2003]
 
 (4) For the purposes of this section —
 
-(a) the fact that the term of a lease may be extended in pursuance of an option shall be taken into consideration in determining whether the term of the lease exceeds 14 years or 7 years, as the case may be; and
+(a) the fact that the term of a lease may be extended in pursuance of an option shall be taken into consideration in determining whether the term of the lease exceeds any of the periods specified in subsection (2); and
 
 (b) the fact that a lease for a specified period of time is determinable on the happening of an event within that time shall not be taken into consideration in determining the term of the lease.
 
@@ -408,8 +434,6 @@ MASTER PLAN AND CONSERVATION AREAS AND GUIDELINES
 
 (c) copies of the Master Plan or parts thereof to be made available for free inspection by and for sale at a reasonable cost to the public.
 
-(3) All rules made under this section shall be presented to Parliament as soon as possible after publication in the Gazette.
-
 ### Conservation guidelines
 
 11\.—(1) The competent authority may, from time to time, issue guidelines for the conservation of buildings or land within a conservation area and for the protection of their setting.
@@ -480,6 +504,44 @@ DEVELOPMENT AND SUBDIVISION OF LAND
 
 (7) Unless otherwise approved by the Minister in writing, the planning permission or conservation permission of the competent authority shall be a condition precedent to the consideration by a licensing authority of any application for the issue of a licence for any purpose involving the development of land.
 
+### Applications determined in reliance of certificate or declaration of qualified person
+
+14A\.—(1) Where, in accordance with rules made under section 61, an application for written permission is required to be accompanied by any certificate or declaration by an appropriate qualified person that to the best of his knowledge and belief —
+
+(a) the information contained in any specified document, form and plan submitted for the application is true and correct in all material particulars; and
+
+(b) every such document, form and plan submitted for the application has been completed or prepared in accordance with the provisions of this Act and all requirements as may be specified by the competent authority in respect of the application,
+
+the competent authority may, without checking the information, documents, forms or plans, determine the application on the basis of the certificate or declaration of the qualified person.
+
+[30/2003 wef 10/12/2003]
+
+(2) Notwithstanding subsection (1), the competent authority may, in his discretion, carry out random checks on any information, document, form or plan relating to any application for written permission before or after determining the application.
+
+[30/2003 wef 10/12/2003]
+
+(3) The competent authority may at any time revoke any written permission granted under subsection (1) if he is satisfied that —
+
+(a) any information contained in any document, form or plan submitted for the application is false or misleading in any material particular; or
+
+(b) any document, form or plan submitted for the application is not in compliance in any material particular with the provisions of this Act and the requirements as may be specified by the competent authority in respect of the application.
+
+[30/2003 wef 10/12/2003]
+
+(4) Where the competent authority revokes a written permission under subsection (3), any development of land, works within a conservation area or subdivision of land (as the case may be) carried out pursuant to that written permission shall be deemed to have been carried out without the requisite written permission.
+
+[30/2003 wef 10/12/2003]
+
+(5) Any qualified person who —
+
+(a) makes a certificate or declaration referred to in subsection (1) which is false or misleading in any material particular; or
+
+(b) recklessly makes such certificate or declaration which is false or misleading in any material particular,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $30,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[30/2003 wef 10/12/2003]
+
 ### Conditional permission
 
 15\.—(1) All or any of the following conditions may be imposed on the grant under section 14(4) of any planning permission or conservation permission in respect of any land:
@@ -496,23 +558,39 @@ DEVELOPMENT AND SUBDIVISION OF LAND
 
 (f) that the title of any part of the land shall be transferred free from encumbrances to the State or any public authority;
 
-(g) that not less than 30% of the floor area of any development on the land shall remain in the ownership of one person for a period of 10 years from the date of the latest grant of a temporary occupation permit in respect of the development;
-
 (h) that such connecting structures (whether or not within the land) as the competent authority considers necessary are to be provided, maintained, kept open and accessible for use by the public or any occupier or other user of the land and any other land adjoining or in the locality; and
 
 (i) that the permission shall supersede any previous permission given by the competent authority to the applicant notwithstanding anything in section 20.
 
 (2) The following conditions may also be imposed on the grant of any conservation permission under section 14(4):
 
-(a) requirements for compliance with any conservation guidelines or any other requirements relating to conservation; or
+(a) requirements for compliance with any conservation guidelines or any other requirements relating to conservation;
 
-(b) requirements for making good any damage caused to the building by any works after the works are completed.
+(b) requirements for making good any damage caused to the building by any works after the works are completed; and
+
+(c) where the approval of the Commissioner of Building Control under the Building Control Act (Cap. 29) is required to be obtained for the plans of the building works with regard to any works within a conservation area, requirements for the submission to the competent authority, within 7 days of the application for approval made to the Commissioner of Building Control, of a declaration by a qualified person that the plans submitted to the Commissioner of Building Control for the application with regard to such works are in accordance with the plans approved by the competent authority in the grant of the conservation permission.
+
+[30/2003 wef 10/12/2003]
 
 (3) Any person who fails to comply with any condition imposed on any planning permission or conservation permission shall be guilty of an offence and shall be liable on conviction —
 
 (a) to a fine not exceeding $200,000; and
 
 (b) in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
+
+(3A) Any qualified person who —
+
+(a) makes a declaration referred to in subsection (2)(c) which is false or misleading in any material particular; or
+
+(b) recklessly makes such declaration which is false or misleading in any material particular,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $30,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[30/2003 wef 10/12/2003]
+
+(3B) In subsection (2)(c), “qualified person” means a person who is registered as an architect under the Architects Act (Cap. 12) and who has in force a practising certificate issued under that Act.
+
+[30/2003 wef 10/12/2003]
 
 (4) Where any person fails to comply with any condition imposed on any planning permission or conservation permission, the competent authority may cancel the relevant permission.
 
@@ -584,7 +662,17 @@ DEVELOPMENT AND SUBDIVISION OF LAND
 
 (5) Where the competent authority intends to develop or to carry out works within a conservation area on any land belonging to him, he may be directed by the Minister to furnish to the Minister particulars relating to the development or works and the Minister may give such further directions as he considers fit in relation thereto.
 
-(6) The Minister may authorise, by notification in the Gazette, either generally or in relation to any specified area, any development of land or works within a conservation area subject to such conditions as may be specified in the notification.
+(6) The Minister may authorise, by notification in theGazette, either generally or in relation to any specified area —
+
+(a) any development of land;
+
+(b) any works within a conservation area; or
+
+(c) any subdivision of land,
+
+subject to such conditions as may be specified in the notification.
+
+[30/2003 wef 10/12/2003]
 
 ### Appeals to Minister
 
@@ -914,7 +1002,9 @@ DEVELOPMENT CHARGES
 
 ### Principles of development charge
 
-35\.—(1) Subject to the provisions of this Act, there shall be paid to the competent authority a tax known as a development charge in respect of every development of land authorised by any planning or conservation permission.
+35\.—(1) Subject to the provisions of this Act, there shall be paid to the competent authority a tax known as a development charge in respect of every development of land authorised by any planning or conservation permission, except where the planning permission or conservation permission is granted for a specified period of 10 years or less.
+
+[30/2003 wef 10/12/2003]
 
 (2) Subject to section 39, any development charge payable in respect of any development of land shall be the difference between the Development Baseline and the Development Ceiling for that land.
 
@@ -928,21 +1018,33 @@ DEVELOPMENT CHARGES
 
 (b) any development for which that land was allocated in the Master Plan as the result of any alteration or addition made under section 6(1) of the repealed Act prior to 24th April 1982; or
 
-(c) any development of that land in respect of which —
+(c) any authorised development of that land which satisfies any one or more of the following criteria:
 
-(i) development charge, where payable, has been paid;
+(i) development charge, where payable in respect of the authorised development, has been paid;
 
-(ii) no development charge is payable by reason of any exemption under this Act or the repealed Act; and
+(ii) no development charge is payable in respect of the authorised development by reason of any exemption or remission under this Act or the repealed Act;
 
-(iii) development charge is not payable under the written law in force when written permission was granted for the development of that land or any part thereof.
+(iii) development charge is not payable in respect of the authorised development under the written law in force when the development was authorised.
+
+[30/2003 wef 10/12/2003]
 
 (2) Notwithstanding subsection (1), where the value of any development referred to in subsection (1)(a) or (b) cannot be ascertained, the Development Baseline for the land concerned shall be determined without reference to any such development.
 
-(3) Notwithstanding subsection (1)(c), any development of land, being a development in respect of which no development charge is payable by reason of any exemption under this Act or the repealed Act, shall be disregarded for the purposes of determining the Development Baseline for the land if any term of the exemption —
+(3) Notwithstanding subsection (1)(c), any development of land, being a development in respect of which no development charge is payable by reason of any exemption or remission under this Act or the repealed Act, shall be disregarded for the purpose of determining the Development Baseline for the land if —
 
-(a) provides that the development must be disregarded for that purpose; or
+(a) any term of the exemption or remission provides that the development shall be disregarded for that purpose; or
 
-(b) has ceased to be or is not complied with.
+(b) any term of the exemption or remission has ceased to be or is not complied with.
+
+[30/2003 wef 10/12/2003]
+
+(3A) Notwithstanding subsection (1)(c), any development of land for use as a hotel or part of a hotel authorised by the grant of written permission by the competent authority under the repealed Act between 18th April 1968 and 31st December 1969 (both dates inclusive) on any prescribed land shall be disregarded for the purpose of determining the Development Baseline for the land if —
+
+(a) the use of the development as a hotel or part of a hotel has ceased; or
+
+(b) the application for planning permission or conservation permission being considered by the competent authority for the land is for development of the land for a use other than as a hotel.
+
+[30/2003 wef 10/12/2003]
 
 (4) In determining the Development Baseline for any land, nothing in subsection (1) shall require any development of the land before the current zoning and previous zoning of the land took effect to be regarded; and “current zoning” shall mean the most recent zoning of the land as at the material date, and “previous zoning” shall mean the zoning of the same land immediately before the current zoning took effect.
 
@@ -956,7 +1058,27 @@ DEVELOPMENT CHARGES
 
 (b) the value of the development of the land to be authorised by the written permission.
 
-(8) In this section —
+(7A) Notwithstanding anything in this Act, in determining both the Development Baseline and Development Ceiling for any land, any development of that land authorised by a written permission granted for a specified period not exceeding 10 years shall be disregarded.
+
+[30/2003 wef 10/12/2003]
+
+(7B) For the purposes of subsection (7A) —
+
+(a) the fact that the period specified for a written permission granted for a development may be extended by the competent authority shall not be taken into consideration in determining whether the written permission is granted for a specified period not exceeding 10 years; and
+
+(b) where the competent authority extends the period for which a written permission is granted for a development, the extension shall be deemed to be a separate written permission granted for the period of the extension specified by the competent authority.
+
+[30/2003 wef 10/12/2003]
+
+(8) In this section, unless the context otherwise requires —
+
+“authorised”, in relation to any development of land, means any development of that land —
+
+(a) authorised under this Act or the repealed Act; or
+
+(b) effected or carried out pursuant to any written approval granted under any written law before 1st February 1960;
+
+[30/2003 wef 10/12/2003]
 
 “material date” means the date when an application for planning permission or conservation permission is made and, in relation to subsection (4), an application to amend any such permission shall be disregarded;
 
@@ -1024,6 +1146,12 @@ he may, within 30 days of the interim order or the final order under this sectio
 
 (9) No person may appeal under subsection (7) unless he has paid the prescribed fee for the appeal.
 
+### Remission of development charge
+
+39A\. The Minister may, in his discretion and subject to such terms and conditions as he may determine, remit, wholly or in part, the development charge payable by any person if he is satisfied that it is just and equitable to do so.
+
+[30/2003 wef 10/12/2003]
+
 ### Power to make rules relating to development charge
 
 40\.—(1) The Minister may make rules for giving effect to this Part and for any matter which is required under this Part to be prescribed and, in particular, for or with respect to all or any of the following matters:
@@ -1038,7 +1166,77 @@ he may, within 30 days of the interim order or the final order under this sectio
 
 (e) the refund, wholly or in part, of the development charge paid by any person.
 
-(2) All rules made under this section shall be presented to Parliament as soon as possible after publication in the Gazette.
+## PART VA
+
+TEMPORARY DEVELOPMENT LEVY
+
+[30/2003 wef 10/12/2003]
+
+### Temporary development levy
+
+40A\.—(1) Subject to the provisions of this Part, there shall be paid to the competent authority a tax known as a temporary development levy in respect of every development of land authorised by any planning permission or conservation permission granted for a specified period of 10 years or less.
+
+(2) Subject to subsection (3), the temporary development levy shall only be payable if the Development Ceiling for the land exceeds the Development Baseline.
+
+(3) The temporary development levy payable shall be calculated in accordance with the prescribed methods and rates.
+
+(4) For the purposes of this section, where the competent authority extends the period for which a planning permission or conservation permission referred to in subsection (1) is granted, the extension shall be deemed to be a separate planning permission or conservation permission for the period of the extension specified by the competent authority.
+
+(5) In this Part —
+
+“Development Baseline” shall have the same meaning as in Part V;
+
+“Development Ceiling” shall have the same meaning as in Part V except that the development referred to in section 36(7)(b) shall, notwithstanding any provision to the contrary in section 36, be deemed to refer to the development of the land to be authorised by a temporary permission;
+
+“temporary permission” means a planning permission or conservation permission granted for a specified period of 10 years or less.
+
+### Liability to pay temporary development levy
+
+40B\.—(1) The competent authority shall determine whether a temporary development levy is payable in respect of any proposed development of land to be authorised by a temporary permission and, if payable, the amount thereof.
+
+[30/2003 wef 10/12/2003]
+
+(2) The competent authority shall issue and serve a notice requiring the payment of the amount of temporary development levy on the person liable for the payment in accordance with subsection (3).
+
+[30/2003 wef 10/12/2003]
+
+(3) The competent authority may, in his discretion, impose the temporary development levy on —
+
+(a) the owner of the land with respect to which a temporary permission is to be granted; or
+
+(b) the person who applied for the temporary permission.
+
+[30/2003 wef 10/12/2003]
+
+(4) The liability of the person on whom the temporary development levy is imposed shall continue notwithstanding any change in ownership of the land.
+
+[30/2003 wef 10/12/2003]
+
+(5) Notwithstanding section 13(2), the competent authority shall not grant any temporary permission until the temporary development levy payable under a notice under subsection (2) is paid to the competent authority.
+
+[30/2003 wef 10/12/2003]
+
+(6) Notwithstanding the provisions of any other written law relating to the registration of any interest or encumbrance over land, any outstanding amount of temporary development levy shall be secured as a first charge against the land to which the temporary permission relates and shall, subject to any other rights of the Government, prevail over all other estates and interests whenever created.
+
+### Remission of temporary development levy
+
+40C\. The Minister may, in his discretion and subject to such terms and conditions as he may determine, remit, wholly or in part, the temporary development levy payable by any person if he is satisfied that it is just and equitable to do so.
+
+[30/2003 wef 10/12/2003]
+
+### Power to make rules relating to temporary development levy
+
+40D\. The Minister may make rules to give effect to this Part and for any matter which is required under this Part to be prescribed and, in particular, for or with respect to all or any of the following matters:
+
+(a) the different rates and methods of calculation of the temporary development levy;
+
+(b) exempting any particular development or class of developments from being the subject of any temporary development levy;
+
+(c) the deferment of liability to pay any temporary development levy; and
+
+(d) the refund, wholly or in part, of the temporary development levy paid by any person.
+
+[30/2003 wef 10/12/2003]
 
 ## PART VI
 
@@ -1206,6 +1404,20 @@ shall be deemed, until the contrary is proved, to have been duly prepared, issue
 
 (2) No agreement or direction under subsection (1) shall apply to any fees, charges or other moneys which are expressly required by any provision of this Act to be paid into the Consolidated Fund.
 
+### Amendment of Schedules
+
+60A\.—(1) The Minister may at any time, by order published in theGazette, amend the Schedules.
+
+[30/2003 wef 10/12/2003]
+
+(2) The Minister may, in any order made under subsection (1), make such incidental, consequential or supplementary provisions as may be necessary or expedient.
+
+[30/2003 wef 10/12/2003]
+
+(3) Any order made under subsection (1) shall be presented to Parliament as soon as possible after publication in theGazette.
+
+[30/2003 wef 10/12/2003]
+
 ### Rules
 
 61\.—(1) The Minister may make rules generally to give effect to the provisions of this Act and for prescribing anything that is to be prescribed.
@@ -1230,13 +1442,45 @@ shall be deemed, until the contrary is proved, to have been duly prepared, issue
 
 (i) the fees or charges to be paid for any matter or thing done by the competent authority or the Minister under this Act;
 
-(j) the payment of a deposit by any person applying for planning permission, conservation permission or subdivision permission and the circumstances under which such deposit may be forfeited by the competent authority; and
+(j) the payment of a deposit by any person applying for planning permission, conservation permission or subdivision permission and the circumstances under which such deposit may be forfeited by the competent authority;
 
-(k) the manner in which appeals may be made and determined under this Act and the information to be supplied by the competent authority in connection therewith.
+[30/2003 wef 10/12/2003]
+
+(k) the manner in which appeals may be made and determined under this Act and the information to be supplied by the competent authority in connection therewith;
+
+(l) the requirements to be complied with for an application for planning permission, conservation permission or subdivision permission;
+
+[30/2003 wef 10/12/2003]
+
+(m) the types of applications for planning permission, conservation permission or subdivision permission which shall be accompanied by such certificates or declarations of an appropriate qualified person on such matters as may be specified by the competent authority in relation to the application;
+
+[30/2003 wef 10/12/2003]
+
+(n) the circumstances under which the competent authority may not accept a qualified person’s certificate or declaration for the purpose of the requirement referred to in paragraph (m);
+
+[30/2003 wef 10/12/2003]
+
+(o) the duties, responsibilities and liabilities of a qualified person in relation to the certificate or declaration referred to in paragraph (m);
+
+[30/2003 wef 10/12/2003]
+
+(p) the circumstances under which a qualified person’s certificate or declaration may not be lodged with or submitted to the competent authority as being in satisfaction of any requirement or condition specified in any notification made under section 21(6); and
+
+[30/2003 wef 10/12/2003]
+
+(q) the duties, responsibilities and liabilities of a qualified person in relation to the certificate or declaration made by him and lodged with or submitted to the competent authority in satisfaction of any requirement or condition specified in any notification made under section 21(6).
+
+[30/2003 wef 10/12/2003]
 
 (3) Rules relating to the making of applications and appeals, to the notification of decisions thereon and to the granting of written permissions may allow or require the application, appeal, notification or other information to be made and transmitted by such electronic means and in such manner as may be prescribed, and may provide for the manner in which they are to be authenticated or certified.
 
-(4) All rules made under this section shall be presented to Parliament as soon as possible after publication in theGazette.
+(3A) The Minister may, in making any rules under this Act, provide that any contravention of any rule shall be an offence and may prescribe punishment by a fine not exceeding $20,000 or imprisonment for a term not exceeding 6 months or both.
+
+[30/2003 wef 10/12/2003]
+
+(4) All rules made under this Act shall be presented to Parliament as soon as possible after publication in theGazette.
+
+[30/2003 wef 10/12/2003]
 
 ## PART VIII
 
@@ -1261,6 +1505,42 @@ TRANSITIONAL AND SAVING PROVISIONS
 (8) Any reference in any written law to the repealed Act or any provision thereof shall, as from 1st April 1998, be a reference to this Act or the corresponding provision of this Act.
 
 (9) Any reference in any written law or document to the planning functions of the Singapore Improvement Trust shall be construed as a reference to the planning functions of the competent authority.
+
+FIRST SCHEDULE
+
+Section 2
+
+Qualified Persons
+
+1\. Any person who is registered as an architect under the Architects Act (Cap. 12) and who has in force a practising certificate issued under that Act.
+
+2\. Any person who is registered as a professional engineer under the Professional Engineers Act (Cap. 253) and who has in force a practising certificate issued under that Act.
+
+3. Any person who is registered as a land surveyor under the Land Surveyors Act (Cap. 156) and who has in force a practising certificate issued under that Act.
+
+[30/2003 wef 10/12/2003]
+
+SECOND SCHEDULE
+
+Section 3(3)(i)
+
+Uses
+
+Section 3(3)(i) applies to any building or buildings or part of a building which is or are approved or authorised to be used for any of the following uses:
+
+(a) boarding house;
+
+(b) hotel;
+
+(c) serviced apartments;
+
+(d) student hostel;
+
+(e) place of worship;
+
+(f) workers’ dormitory .
+
+[30/2003 wef 10/12/2003]
 
 ## THE SCHEDULE
 
@@ -1404,3 +1684,8 @@ This Legislative History is provided for the convenience of users of the Plannin
 |||(Bill No. 17/2001 published on 6 March 2001)|
 ||Date of Second and Third Readings|19 April 2001|
 ||Date of commencement|1 June 2001|
+|22.|**Act 30 of 2003—Planning (Amendment) Act 2003**|
+||Date of First Reading|16 October 2003|
+|||(Bill No. 27/2003 published on 17 October 2003)|
+||Date of Second and Third Readings|11 November 2003|
+||Dates of commencement|10th December 2003|
