@@ -414,7 +414,9 @@ may exercise any of the functions of the Chairman.
 
 (p) to carry out experimental work and to conduct, promote and encourage the study of, and research in, matters connected with any of the Board’s purposes and functions;
 
-(q) from time to time to invest any of the funds of the Board in securities authorised for the investment of trust funds by any written law for the time being in force, and, with the approval of the Minister, in other securities, within or otherwise than within Singapore;
+(q) to invest its funds in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1);
+
+[45/2004 wef 15/12/2004]
 
 (r) with the concurrence of the Housing and Development Board, to finance or carry out or assist in carrying out any scheme in connection with urban redevelopment;
 
@@ -793,6 +795,12 @@ This Legislative History is provided for the convenience of users of the Economi
 |||(Bill No. 7/2002 published on 4 May 2002)|
 ||Date of Second and Third Readings|24 May 2002|
 ||Dates of commencement|15 July 2002 (except item 18 of the Schedule)|
+|18.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 September 2004|
+|||(Bill No. 43/2004 published on 22 September 2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|15 December 2004|
 ## COMPARATIVE TABLE
 
 Economic Development Board Act
