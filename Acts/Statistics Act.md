@@ -414,25 +414,21 @@ First column
 
 Second column
 
-1.
-
-Superintendent of Census
+1. Superintendent of Census
 
 Particulars and information obtained by the Superintendent of Census under the Census Act (Chapter 35).
 
-2.
-
-Central Provident Fund Board
+2. Central Provident Fund Board
 
 Particulars and information relating to the employment, employer and wages of Central Provident Fund members obtained by the Central Provident Fund Board under the Central Provident Fund Act (Chapter 36).
 
-3.
+3. Director-General of Customs
 
-International Enterprise Singapore Board
-
-Particulars and information obtained by the International Enterprise Singapore Board under section 3 of the Regulation of Imports and Exports Act (Cap. 272A) and any regulations made thereunder.
+Particulars and information obtained by the Director-General of Customs under section 3 of the Regulation of Imports and Exports Act (Cap. 272A) and any regulations made thereunder.
 
 [S 536/2002 wef 04/10/2002]
+
+[6/2003 wef 01/04/2003]
 
 [9/90; 24/95]
 
@@ -489,6 +485,12 @@ This Legislative History is provided for the convenience of users of the Statist
 ||Date of commencement|1 November 2000|
 |13.|**G.N. No. S 536/2002—Statistics Act (Amendment of Second and Third Schedules) Notification 2002**|
 ||Date of commencement|4 October 2002|
+|14.|**Act 6 of 2003—International Enterprise Singapore Board (Amendment) Act 2003**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|10 March 2003|
+|||(Bill No. 5/2003 published on 11 March 2003)|
+||Date of Second and Third Readings|21 March 2003|
+||Date of commencement|1 April 2003|
 ## COMPARATIVE TABLE
 
 Statistics Act
