@@ -144,7 +144,9 @@ PRELIMINARY
 
 (d) any officer or class or description of officers appointed by the Minister by notification in theGazetteto exercise the powers and perform the duties conferred and imposed on an authorised officer by this Act;
 
-“Board” means the Trade Development Board established under section 3 of the Trade Development Board Act;
+“Board” means the International Enterprise Singapore Board established under section 3 of the International Enterprise Singapore Board Act;
+
+[17/2002 wef 01/04/2002]
 
 “conveyance” includes any vessel, train, vehicle or aircraft in which persons or goods can be carried;
 
@@ -727,7 +729,7 @@ MISCELLANEOUS
 
 (2) Any subsidiary legislation made under the repealed Control of Imports and Exports Act or the repealed Registration of Imports and Exports Act and in force immediately before 1st December 1995 shall, so far as it is not inconsistent with the provisions of this Act, continue in force as if made under this Act until it is revoked or cancelled by subsidiary legislation made under this Act.
 
-(3) Any reference in any written law to the repealed Control of Imports and Exports Act (Cap. 56, 1985 Ed.) or the repealed Registration of Imports and Exports Act (Cap. 270, 1985 Ed) shall be read as a reference to this Act.
+(3) Any reference in any written law to the repealed Control of Imports and Exports Act (Cap. 56, 1985 Ed.) or the repealed Registration of Imports and Exports Act (Cap. 270, 1985 Ed.) shall be read as a reference to this Act.
 
 (4) Any proceedings or cause of action pending or existing immediately before 1st December 1995 by or against the Board or any person acting on behalf of the Board under the repealed Control of Imports and Exports Act or the repealed Registration of Imports and Exports Act may be continued and enforced by or against the Board as it might have been continued and enforced by or against the Board or such person as if this Act had not been enacted.
 
@@ -774,3 +776,9 @@ This Legislative History is provided for the convenience of users of the Regulat
 |||(Bill No. 48/1998 published on 24 November 1996)|
 ||Date of Second and Third Readings|20 January 1999|
 ||Date of commencement|25 February 1999 (Section 6 – Amendment of Regulation of Imports and Exports Act)|
+|6.|**Act 17 of 2002—Trade Development Board (Amendment) Act 2002**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|3 May 2002|
+|||(Bill No. 9/2002 published on 4 May 2002)|
+||Date of Second and Third Readings|8 July 2002|
+||Date of commencement|1 April 2002 (Section 10(1)(b))|
