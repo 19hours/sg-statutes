@@ -64,7 +64,7 @@ An Act for the licensing and control of hotels and lodging-houses.
 
 2\. In this Act, unless the context otherwise requires —
 
-“hotel” includes a boarding-house, lodging-house, guest-house and any building or premises not being a public institution and containing not less than 4 rooms or cubicles in which persons are harboured or lodged for hire or reward of any kind whatsoever and where any domestic service whatsoever is provided by the owner, lessee, tenant, occupier or manager for the person so harboured or lodged;
+“hotel” includes a boarding-house, lodging-house, guest house and any building or premises not being a public institution and containing not less than 4 rooms or cubicles in which persons are harboured or lodged for hire or reward of any kind whatsoever and where any domestic service whatsoever is provided by the owner, lessee, tenant, occupier or manager for the person so harboured or lodged;
 
 “hotel-keeper” means any person to whom a licence to keep or manage a hotel has been granted under section 7.
 
@@ -138,7 +138,7 @@ Provided that the Minister may at any time revoke any such appointment.
 
 ### Cancellation on conviction
 
-9\. Where any hotel-keeper is convicted of an offence under Part X of the Women’s Charter [Cap. 353], the Board shall cancel any licence granted to that hotel-keeper under section 7 and the certificate of registration of any hotel in respect of which the offence was committed.
+9\. Where any hotel-keeper is convicted of an offence under Part X of the Women’s Charter, the Board shall cancel any licence granted to that hotel-keeper under section 7 and the certificate of registration of any hotel in respect of which the offence was committed.
 
 ### Re-classification of hotels
 
@@ -164,7 +164,9 @@ may, within 10 days from the date of the refusal, suspension or cancellation, ap
 
 (a) lodging-houses kept or managed for the sole use of pilgrims by pilgrim brokers licensed as such under the Merchant Shipping Act [Cap. 179];
 
-(b) premises required to be licensed as seamen’s lodging-houses under the National Maritime Board Act [Cap. 198]; and
+(b) premises required to be licensed as seamen’s lodging-houses under the Maritime and Port Authority of Singapore Act 1996; and
+
+[7/1996 wef 02/02/1996]
 
 (c) any premises or class of premises exempted by regulations made under this Act.
 
@@ -272,3 +274,9 @@ This Legislative History is provided for the convenience of users of the Hotels 
 ||Date of operation|31 August 1971|
 |7.|**1985 Revised Edition—Hotels Act**|
 ||Date of operation|30 March 1987|
+|8.|**Act 7 of 1996—Maritime and Port Authority of Singapore Act 1996**|
+||(Consequential amendments made by)||
+||Date of First Reading|5 December 1995|
+|||(Bill No. 46/95 published on 6 December 1995)|
+||Date of Second and Third Readings|18 January 1996|
+||Date of commencement|2 February 1996|
