@@ -1420,3 +1420,19 @@ This Legislative History is provided for the convenience of users of the Buildin
 |||(Bill No. 31/90 published on 12.11.90)|
 ||Date of Second and Third Readings|20.12.90|
 ||Date of commencement|25 January 1991|
+|4.|**Act 22 of 1991—Architects Act 1991**|
+||(Consequential amendments made by)||
+||Date of First Reading|26.2.91|
+|||(Bill No. 9/91 published on 28.2.91)|
+||Date of Second Reading|22.3.91|
+||Referred to Select Committee|Parl 3 of 1991 presented to Parliament on 17. 6. 91|
+||Date of Third Reading|28.6.91|
+||Date of commencement|30 August 1991|
+|5.|**Act 23 of 1991—Professional Engineers Act 1991**|
+||(Consequential amendments made by)||
+||Date of First Reading|26.2.91|
+|||(Bill No. 10/91 published on 28.2.91)|
+||Date of Second Reading|22.3.91|
+||Referred to Select Committee|Parl 3 of 1991 presented to Parliament on 17.6.91|
+||Date of Third Reading|28.6.91|
+||Date of commencement|30 August 1991|
