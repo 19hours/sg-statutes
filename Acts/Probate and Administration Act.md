@@ -146,7 +146,7 @@
 
 - [46 Power of court to re-seal](#Power-of-court-to-re-seal)
 
-- [47 Application to British courts in foreign countries](#Application-to-British-courts-in-foreign-countries)
+- [47 (Repealed)](#Repealed)
 
 - [48 Provisions for estate duty](#Provisions-for-estate-duty)
 
@@ -604,19 +604,33 @@ RE-SEALING OF PROBATES AND LETTERS OF ADMINISTRATION GRANTED OUT OF SINGAPORE
 
 “court of probate” means any court or authority by whatever name designated, having jurisdiction in matters of probate;
 
-“probate” and “letters of administration” include confirmation in Scotland and any instrument having in any part of the Commonwealththe same effect which, under the law of Singapore, is given to probate or letters of administration respectively.
+“probate” and “letters of administration” include confirmation in Scotland and any instrument having in any country or territory the same effect which, under the law of Singapore, is given to probate or letters of administration respectively.
 
 ### Power of court to re-seal
 
-46\. Where a court of probate in any part of the Commonwealth has either before or after the passing of this Act granted probate or letters of administration in respect of the estate of a deceased person, the probate or letters of administration so granted, or a certified copy thereof, sealed with the seal of the court granting the same, may, on being produced to and a copy thereof deposited in the High Court, be sealed with the seal of the Supreme Court, and thereupon shall be of the like force and effect, and have the same operation in Singapore, as if granted by the High Court to the person by whom or on whose behalf the application for sealing was made:
+46\.—(1) Subject to subsections (3) and (4), where —
 
-Provided that if it appears that the deceased was not, at the time of his death, domiciled within the jurisdiction of the court from which the grant issued, the seal shall not be affixed unless the grant is such as the High Court would have made:
+(a) a court of probate in any part of the Commonwealth has, either before, on or after the date of commencement of the Probate and Administration (Amendment) Act 1999, granted probate or letters of administration in respect of the estate of a deceased person; or
 
-Provided also that before the probate or letters of administration is sealed with the seal of the Supreme Court the court may require such evidence, if any, as it thinks fit as to the domicile of the deceased person.
+(b) a court of probate in a country or territory, being a country or territory declared by the Minister under subsection (5) as a country or territory to which this subsection applies, has, on or after a date specified by the Minister in respect of that country or territory (referred to in this section as the relevant date), granted probate or letters of administration in respect of the estate of a deceased person,
 
-### Application to British courts in foreign countries
+the probate or letters of administration so granted, or a certified copy thereof, sealed with the seal of the court granting the same, may, on being produced to and a copy thereof deposited in the High Court, be sealed with the seal of the Supreme Court.
 
-47\. Any probate or letters of administration granted by a British court in a foreign country may be sealed in Singapore in the manner provided in section 46, and the provisions of this Part shall apply accordingly with the necessary modifications.
+(2) Upon sealing under subsection (1), the probate or letters of administration shall be of the like force and effect, and have the same operation in Singapore, as if granted by the High Court to the person by whom or on whose behalf the application for sealing was made.
+
+(3) Before the probate or letters of administration is sealed with the seal of the Supreme Court, the High Court may require such evidence as it thinks fit as to the domicile of the deceased person.
+
+(4) If it appears that the deceased was not, at the time of his death, domiciled within the jurisdiction of the court from which the grant issued, the seal shall not be affixed unless the grant is such as the High Court would have made.
+
+(5) For the purposes of subsection (1)(b), the Minister may, by notification in theGazette—
+
+(a) declare any country or territory, which is not a part of the Commonwealth, as a country or territory to which subsection (1) applies; and
+
+(b) specify the relevant date in respect of that country or territory which may be a date before, on or after the date of commencement of the Probate and Administration (Amendment) Act 1999.
+
+[2/99 wef 25/02/1999]
+
+47\. [Repealed by Act 2/99 wef 25/02/1999]
 
 ### Provisions for estate duty
 
@@ -948,3 +962,8 @@ This Legislative History is provided for the convenience of users of the Probate
 |||(Bill No. 6/1997 published on 12 July 1997)|
 ||Date of Second and Third Readings|25 August1997|
 ||Date of commencement|1 October 1997 (except section 3)|
+|15.|**Act 2 of 1999—Probate and Administration (Amendment) Act 1999**|
+||Date of First Reading|23 November 1998|
+|||(Bill No. 48/1998 published on 24 November 1998)|
+||Date of Second and Third Readings|20 January 1999|
+||Date of commencement|25 February 1999|
