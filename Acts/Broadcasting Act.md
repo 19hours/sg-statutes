@@ -108,6 +108,10 @@
 
 - [42 Offence of supporting proscribed foreign broadcasting services](#Offence-of-supporting-proscribed-foreign-broadcasting-services)
 
+[**Part IXA DECLARED FOREIGN BROADCASTING SERVICES**](#Part-IXA)
+
+- [42A](#)
+
 [**Part X OWNERSHIP AND CONTROL OF BROADCASTING COMPANIES**](#Part-X)
 
 - [43 Application of this Part to broadcasting company](#Application-of-this-Part-to-broadcasting-company)
@@ -186,7 +190,7 @@
 
 - [77 Service of notice, etc.](#Service-of-notice-etc)
 
-- [78 Amendment of First and Second Schedules](#Amendment-of-First-and-Second-Schedules)
+- [78 Amendment of First, Second and Seventh Schedules](#Amendment-of-First-Second-and-Seventh-Schedules)
 
 - [79 Regulations](#Regulations)
 
@@ -203,6 +207,8 @@
 [**FIFTH SCHEDULE Financial Provisions**](#FIFTH-SCHEDULE-Financial-Provisions)
 
 [**SIXTH SCHEDULE Consequential Amendments**](#SIXTH-SCHEDULE-Consequential-Amendments)
+
+[**SEVENTH SCHEDULE Relevant Licensable Broadcasting Service**](#SEVENTH-SCHEDULE-Relevant-Licensable-Broadcasting-Service)
 
 [**Legislative History**](#Legislative-History)
 
@@ -309,6 +315,8 @@ but does not include any matter that is wholly related to or connected with any 
 “subscription fee” means any form of consideration;
 
 “subsidiary” has the same meaning as in the Companies Act [Cap. 50];
+
+[Deleted by Act 41/99 wef 01/12/1999]
 
 “undertaking” means all the land, buildings and other property, movable or immovable, vested in the Corporation immediately before 1st October 1994 and all assets, powers, rights, interests, privileges, debts, liabilities and obligations connected therewith.
 
@@ -804,6 +812,48 @@ FOREIGN BROADCASTING SERVICES
 
 (5) For the purposes of this section, a person exposing decoding equipment for supply or having such equipment in his possession for supply shall be deemed to offer to supply it.
 
+## PART IXA
+
+DECLARED FOREIGN BROADCASTING SERVICES
+
+[18/2001 wef 21/05/2001]
+
+42A\.—(1) The Minister may, by order published in theGazette, declare any foreign broadcasting service rebroadcast in Singapore on any relevant licensable broadcasting service to be a foreign broadcasting service engaging in the domestic politics of Singapore.
+
+(2) No person shall, without the prior approval of the Minister, include any declared foreign broadcasting service for rebroadcast in Singapore on any relevant licensable broadcasting service.
+
+(3) The Minister may —
+
+(a) grant his approval under subsection (2) subject to such conditions as he thinks fit;
+
+(b) refuse to grant his approval; or
+
+(c) revoke his approval at any time without assigning any reason.
+
+(4) Without prejudice to the generality of subsection (3), the Minister may, in imposing conditions under that subsection, specify that —
+
+(a) the number of persons capable of receiving any declared foreign broadcasting service rebroadcast in Singapore on any relevant licensable broadcasting service shall be restricted in such manner as the Minister may, from time to time, direct; and
+
+(b) the rebroadcast of any declared foreign broadcasting service on any relevant licensable broadcasting service in Singapore shall be suspended for such period as the Minister may, from time to time, direct.
+
+(5) Any person who contravenes subsection (2) or fails to comply with any condition imposed under subsection (3)(a) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000.
+
+(6) For the purpose of this section —
+
+“foreign broadcasting service” means —
+
+(a) any broadcasting service transmitting from a place outside Singapore; or
+
+(b) any broadcasting service transmitting from a place in Singapore but which is owned, controlled or managed by or on behalf of —
+
+(i) the government of a country outside Singapore or the agent of any such government, whether resident in Singapore or otherwise;
+
+(ii) any company, association or society incorporated or constituted under any law in force outside Singapore, whether or not it has a branch office or place of business in Singapore; or
+
+(iii) any person who is not a citizen of Singapore, whether or not he is resident in Singapore;
+
+“relevant licensable broadcasting service” means a licensable broadcasting service specified in the first column of the Seventh Schedule provided by a person specified adjacent thereto in the second column of that Schedule.
+
 ## PART X
 
 OWNERSHIP AND CONTROL OF BROADCASTING COMPANIES
@@ -1178,9 +1228,9 @@ may appeal to the Minister.
 
 (2) Any notice, order, document or summons sent by registered post to any person in accordance with subsection (1) shall be deemed to be duly served on the person to whom the letter is addressed at the time when the letter would, in the ordinary course of post, be delivered and in proving service of the same it shall be sufficient to prove that the envelope containing the notice, order, document or summons was properly addressed, stamped and posted by registered post.
 
-### Amendment of First and Second Schedules
+### Amendment of First, Second and Seventh Schedules
 
-78\.—(1) The Minister may, by notification in theGazette, at any time amend the First or Second Schedule.
+78\.—(1) The Minister may, by notification in theGazette, at any time amend the First , Second or Seventh Schedule.
 
 (2) The Minister may, in any notification made under subsection (1), make such incidental, consequential or supplementary provisions as may be necessary or expedient.
 
@@ -1502,6 +1552,22 @@ References to Singapore Broadcasting Corporation
 
 3\. The references to the Singapore Broadcasting Corporation in any written law shall be read as references to the Singapore Broadcasting Authority.
 
+SEVENTH SCHEDULE
+
+Section 42A(6)
+
+Relevant Licensable Broadcasting Service
+
+First column
+
+Second column
+
+Subscription nationwide television service
+
+Singapore CableVision Pte. Ltd.
+
+[18/2001 wef 21/05/2001]
+
 ## LEGISLATIVE HISTORY
 
 Singapore Broadcasting Authority Act
@@ -1527,3 +1593,8 @@ This Legislative History is provided for the convenience of users of the Singapo
 |||(Bill No. 36/99 published on 12 October 1999)|
 ||Date of Second and Third Readings|23 November 1999|
 ||Date of commencement|1 December 1999|
+|5.|**Act 18 of 2001—Singapore Broadcasting Authority (Amendment) Act 2001**|
+||Date of First Reading|15 March 2001|
+|||(Bill No. 19/2001 published on 16 March 2001)|
+||Date of Second and Third Readings|19 April 2001|
+||Date of commencement|21 May 2001|
