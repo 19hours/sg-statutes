@@ -1,16 +1,14 @@
-**International Arbitration Act 1994**
+**International Arbitration Act**
 
-**(No. 23 of 1994)**
+**(CHAPTER 143A)**
 
 **Table of Contents**
 
 [**Long Title**](#International-Arbitration-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 [**Part II INTERNATIONAL COMMERCIAL ARBITRATION**](#Part-II)
 
@@ -86,53 +84,35 @@
 
 - [35 Rules of Court](#Rules-of-Court)
 
-- [36 Repeal of Arbitration (Foreign Awards) Act and transitional](#Repeal-of-Arbitration-Foreign-Awards-Act-and-transitional)
+- [36 Transitional](#Transitional)
 
 [**FIRST SCHEDULE Uncitral Model Law on International Commercial Arbitration**](#FIRST-SCHEDULE-Uncitral-Model-Law-on-International-Commercial-Arbitration)
 
 [**SECOND SCHEDULE Convention on the Recognition and Enforcement of Foreign Arbitral Awards Concluded At New York on 10TH June 1958**](#SECOND-SCHEDULE-Convention-on-the-Recognition-and-Enforcement-of-Foreign-Arbitral-Awards-Concluded-At-New-York-on-10TH-June-1958)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# International Arbitration Act
 
-ACTS SUPPLEMENT
+(CHAPTER 143A)
 
-Published by Authority
+(Original Enactment: Act 23 of 1994)
 
-NO. 22]
+REVISED EDITION 1995
 
-Friday, December 9
+(15th March 1995)
 
-[1994
+An Act to make provision for the conduct of international commercial arbitrations based on the Model Law on International Commercial Arbitration adopted by the United Nations Commission on International Trade Law and conciliation proceedings and to give effect to the New York Convention on the Recognition and Enforcement of Foreign Arbitral Awards and for matters connected therewith.
 
-The following Act was passed by Parliament on 31st October 1994 and assented to by the President on 25th November 1994:—
-
-International Arbitration Act 1994
-
-(No. 23 of 1994)
-
-I assent.
-
-ONG TENG CHEONG
-
-President.
-
-25th November 1994.
-
-Date of Commencement: 27th January 1995
-
-An Act to make provision for the conduct of international commercial arbitrations based on the Model Law on International Commercial Arbitration adopted by the United Nations Commission on International Trade Law and conciliation proceedings and to give effect to the New York Convention on the Recognition and Enforcement of Foreign Arbitral Awards and for matters connected therewith and to repeal the Arbitration (Foreign Awards) Act (Chapter 10A of the 1985 Revised Edition).
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[27th January 1995]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the International Arbitration Act 1994 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the International Arbitration Act.
 
 ## PART II
 
@@ -147,6 +127,8 @@ INTERNATIONAL COMMERCIAL ARBITRATION
 “arbitration agreement” means an agreement in writing referred to in Article 7 of the Model Law and includes an arbitration clause contained or incorporated by reference in a bill of lading;
 
 “award” means a decision of the arbitral tribunal on the substance of the dispute and includes any interim, interlocutory or partial award;
+
+[38/2001 wef 01/11/2001]
 
 “Model Law” means the UNCITRAL Model Law on International Commercial Arbitration adopted by the United Nations Commission on International Trade Law on 21st June 1985, the text in English of which is set out in the First Schedule;
 
@@ -174,7 +156,7 @@ INTERNATIONAL COMMERCIAL ARBITRATION
 
 relating to the Model Law.
 
-(2) Subsection (1) shall not affect the application of section 9A of the Interpretation Act (Cap. 1) for the purposes of interpreting this Act.
+(2) Subsection (1) shall not affect the application of section 9A of the Interpretation Act [Cap. 1] for the purposes of interpreting this Act.
 
 ### Application of Part II
 
@@ -198,13 +180,15 @@ relating to the Model Law.
 
 (b) if a party does not have a place of business, a reference to his place of business shall be construed as a reference to his habitual residence.
 
-(4) Notwithstanding anything to the contrary in the Arbitration Act (Cap. 10), that Act shall not apply to any arbitration to which this Part applies.
+(4) Notwithstanding anything to the contrary in the Arbitration Act [Cap. 10], that Act shall not apply to any arbitration to which this Part applies.
 
 ### Enforcement of international arbitration agreement
 
 6\.—(1) Without prejudice to Article 8 of the Model Law, where any party to an arbitration agreement to which this Act applies institutes any legal proceedings in any court in Singapore against any other party to the agreement in respect of any matter which is the subject of the agreement, any party to the agreement may, at any time after appearance and before delivering any pleadings or taking any other steps in the proceedings, apply to that court to stay the proceedings.
 
 (2) The court to which an application has been made in accordance with subsection (1) shall make an order, upon such terms or conditions as it may think fit, staying the proceedings unless it is satisfied that the arbitration agreement is null and void, inoperative or incapable of being performed.
+
+[38/2001 wef 01/11/2001]
 
 (3) Where a court makes an order under subsection (2), the court may, for the purpose of preserving the rights of parties, make such interim or supplementary orders as it may think fit in relation to any property which is the subject of the dispute to which the order under that subsection relates.
 
@@ -238,6 +222,8 @@ relating to the Model Law.
 
 11\.—(1) Any dispute which the parties have agreed to submit to arbitration under an arbitration agreement may be determined by arbitration unless the arbitration agreement is contrary to public policy.
 
+[38/2001 wef 01/11/2001]
+
 (2) The fact that any written law confers jurisdiction in respect of any matter on any court of law but does not refer to the determination of that matter by arbitration shall not, of itself, indicate that a dispute about that matter is not capable of determination by arbitration.
 
 ### Powers of arbitral tribunal
@@ -250,7 +236,9 @@ relating to the Model Law.
 
 (c) giving of evidence by affidavit;
 
-(d) the preservation, interim custody or sale of any property which is the subject-matter of the dispute;
+(d) the preservation, interim custody or sale of any property which isthe subject-matter of the dispute;
+
+[38/2001 wef 01/11/2001]
 
 (e) securing the amount in dispute;
 
@@ -284,7 +272,7 @@ relating to the Model Law.
 
 14\.—(1) The High Court or a Judge thereof may order that a writ of subpoena ad testificandum or a writ of subpoena duces tecum shall issue to compel the attendance before an arbitral tribunal of a witness wherever he may be within Singapore.
 
-(2) The High Court or a Judge thereof may also issue an order under section 27 of the Prisons Act to (Cap. 247) bring up a prisoner for examination before an arbitral tribunal.
+(2) The High Court or a Judge thereof may also issue an order under section 27 of the Prisons Act [Cap. 247] to bring up a prisoner for examination before an arbitral tribunal.
 
 ### Settlement or resolution of dispute otherwise than in accordance with Model Law
 
@@ -380,17 +368,13 @@ relating to the Model Law.
 
 ### Transitional provisions
 
-26\.—(1) This Part shall not apply in relation to an international arbitration between parties to an arbitration agreement that was commenced before the appointed day unless the parties have (whether in the agreement or in any other document in writing) otherwise agreed.
+26\.—(1) This Part shall not apply in relation to an international arbitration between parties to an arbitration agreement that was commenced before 27th January 1995 unless the parties have (whether in the agreement or in any other document in writing) otherwise agreed.
 
-(2) Subject to subsection (1), where the arbitral proceedings were commenced before the appointed day, the law governing the arbitration agreement and the arbitration shall be the law which would have applied if this Act had not been enacted.
+(2) Subject to subsection (1), where the arbitral proceedings were commenced before 27 January 1995, the law governing the arbitration agreement and the arbitration shall be the law which would have applied if this Act had not been enacted.
 
-(3) In any written law, agreement in writing or other document, a reference to arbitration under the Arbitration Act (Cap. 10) shall, so far as relevant and unless the contrary intention appears, be construed to include a reference to arbitration under this Act.
+(3) In any written law, agreement in writing or other document, a reference to arbitration under the Arbitration Act [Cap. 10] shall, so far as relevant and unless the contrary intention appears, be construed to include a reference to arbitration under this Act.
 
-(4) For the purposes of this section —
-
-(a) arbitral proceedings are to be taken as having commenced on the date of the receipt by the respondent of a request for the dispute to be referred to arbitration, or, where the parties have agreed in writing that any other date is to be taken as the date of commencement of the arbitral proceedings, then on that date; and
-
-(b) “appointed day” means the date of commencement of this Act.
+(4) For the purposes of this section, arbitral proceedings are to be taken as having commenced on the date of the receipt by the respondent of a request for the dispute to be referred to arbitration, or, where the parties have agreed in writing that any other date is to be taken as the date of commencement of the arbitral proceedings, then on that date.
 
 ## PART III
 
@@ -420,7 +404,7 @@ FOREIGN AWARDS
 
 ### Application of Part III
 
-28\.—(1) This Part shall apply to arbitration agreements made before the date of commencement of this Act as it applies to arbitration agreements made on or after that date.
+28\.—(1) This Part shall apply to arbitration agreements made before 27th January 1995 as it applies to arbitration agreements made on or after that date.
 
 (2) This Part shall not apply to foreign awards made before 19th November 1986.
 
@@ -468,7 +452,7 @@ FOREIGN AWARDS
 
 (b) enforcement of the award would be contrary to the public policy of Singapore.
 
-(5) Where, in any proceedings in which the enforcement of a foreign award is sought by virtue of this Part, the court is satisfied that an application for the setting aside or for the suspension of the award has been made to a competent authority of the country in which, or under the law of which, the award was made, the court may, if it considers it proper to do so, adjourn the proceedings or, as the case may be, so much of the proceedings as relates to the award and may, on the application of the party seeking to enforce the award, order the other party to give suitable security.
+(5) Where, in any proceedings in which the enforcement of a foreign award is sought by virtue of this Part, the court is satisfied that an application for the setting aside or for the suspension of the award has been made to a competent authority of the country in which, or under the law of which, the award was made, the court may, if the court considers it proper to do so, adjourn the proceedings or, as the case may be, so much of the proceedings as relates to the award and may, on the application of the party seeking to enforce the award, order the other party to give suitable security.
 
 ### Convention countries
 
@@ -480,9 +464,9 @@ FOREIGN AWARDS
 
 33\.—(1) Nothing in this Part shall affect the right of any person to enforce an arbitral award otherwise than as is provided for in this Part.
 
-(2) Notwithstanding section 3(5) of the Reciprocal Enforcement of Commonwealth Judgments Act (Cap. 264), where a foreign award is both enforceable under this Part and registrable as a judgment under that Act, proceedings to enforce the award under this Part may be commenced without any disentitlement to recover any costs of the proceedings, unless otherwise ordered by the court.
+(2) Notwithstanding section 3(5) of the Reciprocal Enforcement of Commonwealth Judgments Act [Cap. 264], where a foreign award is both enforceable under this Part and registrable as a judgment under that Act, proceedings to enforce the award under this Part may be commenced without any disentitlement to recover any costs of the proceedings, unless otherwise ordered by the court.
 
-(3) Notwithstanding section 7 of the Reciprocal Enforcement of Foreign Judgments Act (Cap. 265), proceedings to enforce a foreign award under this Part may be commenced where the award is both enforceable under this Part and registrable as a judgment under that Act.
+(3) Notwithstanding section 7 of the Reciprocal Enforcement of Foreign Judgments Act [Cap. 265], proceedings to enforce a foreign award under this Part may be commenced where the award is both enforceable under this Part and registrable as a judgment under that Act.
 
 ## PART IV
 
@@ -494,13 +478,11 @@ GENERAL
 
 ### Rules of Court
 
-35\. The Rules Committee constituted under section 80 of the Supreme Court of Judicature Act (Cap. 322) may make Rules of Court regulating the practice and procedure of any court in respect of any matter under this Act.
+35\. The Rules Committee constituted under section 80 of the Supreme Court of Judicature Act [Cap. 322] may make Rules of Court regulating the practice and procedure of any court in respect of any matter under this Act.
 
-### Repeal of Arbitration (Foreign Awards) Act and transitional
+### Transitional
 
-36\.—(1) The Arbitration (Foreign Awards) Act is repealed.
-
-(2) Any proceedings commenced by virtue of a provision under the repealed Arbitration (Foreign Awards) Act (Cap. 10A) shall continue as if it had commenced by virtue of the corresponding provision of this Act.
+36\. Any proceedings commenced by virtue of a provision under the repealed Arbitration (Foreign Awards) Act [Cap. 10A] shall continue as if it had commenced by virtue of the corresponding provision of this Act.
 
 FIRST SCHEDULE
 
@@ -514,13 +496,13 @@ Chapter I
 
 General Provisions
 
-Article 1
+Article 1.
 
 —
 
 Scope of application1
 
-1Article headings are for reference purposes only and are not to be used for purposes of interpretation.
+1Article headings are for reference purposes only and are not to be used for purposes of interpretation
 
 (1) This Law applies to international commercial2arbitration, subject to any agreement in force between this State and any other State or States.
 
@@ -548,7 +530,7 @@ Scope of application1
 
 (5) This Law shall not affect any other law of this State by virtue of which certain disputes may not be submitted to arbitration or may be submitted to arbitration only according to provisions other than those of this Law\.
 
-Article 2
+Article 2.
 
 —
 
@@ -568,13 +550,19 @@ For the purposes of this Law:
 
 “court” means a body or organ of the judicial system of a State;
 
-(d) where a provision of this Law, except Article 28, leaves the parties free to determine a certain issue, such freedom includes the right of the parties to authorise a third party, including an institution, to make that determination;
+(d)
 
-(e) where a provision of this Law refers to the fact that the parties have agreed or that they may agree or in any other way refers to an agreement of the parties, such agreement includes any arbitration rules referred to in that agreement;
+where a provision of this Law, except Article 28, leaves the parties free to determine a certain issue, such freedom includes the right of the parties to authorise a third party, including an institution, to make that determination;
 
-(f) where a provision of this Law, other than in Articles 25(a) and 32(2)(a), refers to a claim, it also applies to a counter-claim, and where it refers to a defence, it also applies to a defence to such counter-claim.
+(e)
 
-Article 3
+where a provision of this Law refers to the fact that the parties have agreed or that they may agree or in any other way refers to an agreement of the parties, such agreement includes any arbitration rules referred to in that agreement;
+
+(f)
+
+where a provision of this Law, other than in Articles 25(a) and 32(2)(a), refers to a claim, it also applies to a counter-claim, and where it refers to a defence, it also applies to a defence to such counter-claim.
+
+Article 3.
 
 —
 
@@ -588,7 +576,7 @@ Receipt of written communications
 
 (2) The provisions of this Article do not apply to communications in court proceedings\.
 
-Article 4
+Article 4.
 
 —
 
@@ -596,7 +584,7 @@ Waiver of right to object
 
 A party who knows that any provision of this Law from which the parties may derogate or any requirement under the arbitration agreement has not been complied with and yet proceeds with the arbitration without stating his objection to such non-compliance without undue delay or, if a time-limit is provided therefor, within such period of time, shall be deemed to have waived his right to object.
 
-Article 5
+Article 5.
 
 —
 
@@ -604,31 +592,29 @@ Extent of court intervention
 
 In matters governed by this Law, no court shall intervene except where so provided in this Law.
 
-Article 6
+Article 6.
 
 —
 
 Court or other authority for certain functions of arbitration assistance and supervision
 
-The functions referred to in Articles 11(3), 11(4), 13(3), 14, 16(3) and 34(2) shall be performed by .......... [Each State enacting this Model Law specifies the court, courts or, where referred to therein, other authority competent to perform these functions.]
+The functions referred to in Articles 11(3), 11(4), 13(3), 14, 16(3) and 34(2) shall be performed by ........... [Each State enacting this Model Law specifies the court, courts or, where referred to therein, other authority competent to perform these functions.]
 
 Chapter II
 
 Arbitration Agreement
 
-Article 7
+Article 7.
 
 —
 
 Definition and form of arbitration agreement
 
-(1)
-
-“Arbitration agreement” is an agreement by the parties to submit to arbitration all or certain disputes which have arisen or which may arise between them in respect of a defined legal relationship, whether contractual or not. An arbitration agreement may be in the form of an arbitration clause in a contract or in the form of a separate agreement.
+(1) “Arbitration agreement” is an agreement by the parties to submit to arbitration all or certain disputes which have arisen or which may arise between them in respect of a defined legal relationship, whether contractual or not\. An arbitration agreement may be in the form of an arbitration clause in a contract or in the form of a separate agreement.
 
 (2) The arbitration agreement shall be in writing\. An agreement is in writing if it is contained in a document signed by the parties or in an exchange of letters, telex, telegrams or other means of telecommunication which provide a record of the agreement, or in an exchange of statements of claim and defence in which the existence of an agreement is alleged by one party and not denied by another. The reference in a contract to a document containing an arbitration clause constitutes an arbitration agreement provided that the contract is in writing and the reference is such as to make that clause part of the contract.
 
-Article 8
+Article 8.
 
 —
 
@@ -638,7 +624,7 @@ Arbitration agreement and substantive claim before court
 
 (2) Where an action referred to in paragraph (1) of this Article has been brought, arbitral proceedings may nevertheless be commenced or continued, and an award may be made, while the issue is pending before the court\.
 
-Article 9
+Article 9.
 
 —
 
@@ -650,7 +636,7 @@ Chapter III
 
 Composition of Arbitral Tribunal
 
-Article 10
+Article 10.
 
 —
 
@@ -660,7 +646,7 @@ Number of arbitrators
 
 (2) Failing such determination, the number of arbitrators shall be three\.
 
-Article 11
+Article 11.
 
 —
 
@@ -688,7 +674,7 @@ any party may request the court or other authority specified in Article 6 to tak
 
 (5) A decision on a matter entrusted by paragraph (3) or (4) of this Article to the court or other authority specified in Article 6 shall be subject to no appeal\. The court or other authority, in appointing an arbitrator, shall have due regard to any qualifications required of the arbitrator by the agreement of the parties and to such considerations as are likely to secure the appointment of an independent and impartial arbitrator and, in the case of a sole or third arbitrator, shall take into account as well the advisability of appointing an arbitrator of a nationality other than those of the parties.
 
-Article 12
+Article 12.
 
 —
 
@@ -698,7 +684,7 @@ Grounds for challenge
 
 (2) An arbitrator may be challenged only if circumstances exist that give rise to justifiable doubts as to his impartiality or independence, or if he does not possess qualifications agreed to by the parties\. A party may challenge an arbitrator appointed by him, or in whose appointment he has participated, only for reasons of which he becomes aware after the appointment has been made.
 
-Article 13
+Article 13.
 
 —
 
@@ -710,7 +696,7 @@ Challenge procedure
 
 (3) If a challenge under any procedure agreed upon by the parties or under the procedure of paragraph (2) of this Article is not successful, the challenging party may request, within thirty days after having received notice of the decision rejecting the challenge, the court or other authority specified in Article 6 to decide on the challenge, which decision shall be subject to no appeal; while such a request is pending, the arbitral tribunal, including the challenged arbitrator, may continue the arbitral proceedings and make an award\.
 
-Article 14
+Article 14.
 
 —
 
@@ -720,7 +706,7 @@ Failure or impossibility to act
 
 (2) If, under this Article or Article 13(2), an arbitrator withdraws from his office or a party agrees to the termination of the mandate of an arbitrator, this does not imply acceptance of the validity of any ground referred to in this Article or Article 12(2)\.
 
-Article 15
+Article 15.
 
 —
 
@@ -732,7 +718,7 @@ Chapter IV
 
 Jurisdiction of Arbitral Tribunal
 
-Article 16
+Article 16.
 
 —
 
@@ -744,7 +730,7 @@ Competence of arbitral tribunal to rule on its jurisdiction
 
 (3) The arbitral tribunal may rule on a plea referred to in paragraph (2) of this Article either as a preliminary question or in an award on the merits\. If the arbitral tribunal rules as a preliminary question that it has jurisdiction, any party may request, within thirty days after having received notice of that ruling, the court specified in Article 6 to decide the matter, which decision shall be subject to no appeal; while such a request is pending, the arbitral tribunal may continue the arbitral proceedings and make an award.
 
-Article 17
+Article 17.
 
 —
 
@@ -756,7 +742,7 @@ Chapter V
 
 Conduct of Arbitral Proceedings
 
-Article 18
+Article 18.
 
 —
 
@@ -764,7 +750,7 @@ Equal treatment of parties
 
 The parties shall be treated with equality and each party shall be given a full opportunity of presenting his case.
 
-Article 19
+Article 19.
 
 —
 
@@ -774,7 +760,7 @@ Determination of rules of procedure
 
 (2) Failing such agreement, the arbitral tribunal may, subject to the provisions of this Law, conduct the arbitration in such manner as it considers appropriate\. The power conferred upon the arbitral tribunal includes the power to determine the admissibility, relevance, materiality and weight of any evidence.
 
-Article 20
+Article 20.
 
 —
 
@@ -784,7 +770,7 @@ Place of arbitration
 
 (2) Notwithstanding the provisions of paragraph (1) of this Article, the arbitral tribunal may, unless otherwise agreed by the parties, meet at any place it considers appropriate for consultation among its members, for hearing witnesses, experts or the parties, or for inspection of goods, other property or documents\.
 
-Article 21
+Article 21.
 
 —
 
@@ -792,7 +778,7 @@ Commencement of arbitral proceedings
 
 Unless otherwise agreed by the parties, the arbitral proceedings in respect of a particular dispute commence on the date on which a request for that dispute to be referred to arbitration is received by the respondent.
 
-Article 22
+Article 22.
 
 —
 
@@ -802,7 +788,7 @@ Language
 
 (2) The arbitral tribunal may order that any documentary evidence shall be accompanied by a translation into the language or languages agreed upon by the parties or determined by the arbitral tribunal\.
 
-Article 23
+Article 23.
 
 —
 
@@ -812,7 +798,7 @@ Statements of claim and defence
 
 (2) Unless otherwise agreed by the parties, either party may amend or supplement his claim or defence during the course of the arbitral proceedings, unless the arbitral tribunal considers it inappropriate to allow such amendment having regard to the delay in making it\.
 
-Article 24
+Article 24.
 
 —
 
@@ -824,7 +810,7 @@ Hearings and written proceedings
 
 (3) All statements, documents or other information supplied to the arbitral tribunal by one party shall be communicated to the other party\. Also any expert report or evidentiary document on which the arbitral tribunal may rely in making its decision shall be communicated to the parties.
 
-Article 25
+Article 25.
 
 —
 
@@ -844,7 +830,7 @@ the respondent fails to communicate his statement of defence in accordance with 
 
 any party fails to appear at a hearing or to produce documentary evidence, the arbitral tribunal may continue the proceedings and make the award on the evidence before it.
 
-Article 26
+Article 26.
 
 —
 
@@ -858,7 +844,7 @@ Expert appointed by arbitral tribunal
 
 (2) Unless otherwise agreed by the parties, if a party so requests or if the arbitral tribunal considers it necessary, the expert shall, after delivery of his written or oral report, participate in a hearing where the parties have the opportunity to put questions to him and to present expert witnesses in order to testify on the points at issue\.
 
-Article 27
+Article 27.
 
 —
 
@@ -870,7 +856,7 @@ Chapter VI
 
 Making of Award and Termination of Proceedings
 
-Article 28
+Article 28.
 
 —
 
@@ -884,7 +870,7 @@ Rules applicable to substance of dispute
 
 (4) In all cases, the arbitral tribunal shall decide in accordance with the terms of the contract and shall take into account the usages of the trade applicable to the transaction\.
 
-Article 29
+Article 29.
 
 —
 
@@ -892,7 +878,7 @@ Decision-making by panel of arbitrators
 
 In arbitral proceedings with more than one arbitrator, any decision of the arbitral tribunal shall be made, unless otherwise agreed by the parties, by a majority of all its members. However, questions of procedure may be decided by a presiding arbitrator, if so authorised by the parties or all members of the arbitral tribunal.
 
-Article 30
+Article 30.
 
 —
 
@@ -902,7 +888,7 @@ Settlement
 
 (2) An award on agreed terms shall be made in accordance with the provisions of Article 31 and shall state that it is an award\. Such an award has the same status and effect as any other award on the merits of the case.
 
-Article 31
+Article 31.
 
 —
 
@@ -916,7 +902,7 @@ Form and contents of award
 
 (4) After the award is made, a copy signed by the arbitrators in accordance with paragraph (1) of this Article shall be delivered to each party\.
 
-Article 32
+Article 32.
 
 —
 
@@ -934,7 +920,7 @@ Termination of proceedings
 
 (3) The mandate of the arbitral tribunal terminates with the termination of the arbitral proceedings, subject to the provisions of Articles 33 and 34(4)\.
 
-Article 33
+Article 33.
 
 —
 
@@ -960,7 +946,37 @@ Chapter VII
 
 Recourse Against Award
 
-Article 34
+Article 34.
+
+—
+
+Application for setting aside as exclusive recourse against arbitral award
+
+(1) Recourse to a court against an arbitral award may be made only by an application for setting aside in accordance with paragraphs (2) and (3) of this Article\.
+
+(2) An arbitral award may be set aside by the court specified in Article 6 only if:
+
+(a) the party making the application furnishes proof that:
+
+(i) a party to the arbitration agreement referred to in Article 7 was under some incapacity; or the said agreement is not valid under the law to which the parties have subjected it or, failing any indication thereon, under the law of this State; or
+
+(ii) the party making the application was not given proper notice of the appointment of an arbitrator or of the arbitral proceedings or was otherwise unable to present his case; or
+
+(iii) the award deals with a dispute not contemplated by or not falling within the terms of the submission to arbitration, or contains decisions on matters beyond the scope of the submission to arbitration, provided that, if the decisions on matters submitted to arbitration can be separated from those not so submitted, only that part of the award which contains decisions on matters not submitted to arbitration may be set aside; or
+
+(iv) the composition of the arbitral tribunal or the arbitral procedure was not in accordance with the agreement of the parties, unless such agreement was in conflict with a provision of this Law from which the parties cannot derogate, or, failing such agreement, was not in accordance with this Law; or
+
+(b) the court finds that:
+
+(i) the subject-matter of the dispute is not capable of settlement by arbitration under the law of this State; or
+
+(ii) the award is in conflict with the public policy of this State.
+
+(3) An application for setting aside may not be made after three months have elapsed from the date on which the party making that application had received the award or, if a request had been made under Article 33, from the date on which that request had been disposed of by the arbitral tribunal\.
+
+(4) The court, when asked to set aside an award, may, where appropriate and so requested by a party, suspend the setting aside proceedings for a period of time determined by it in order to give the arbitral tribunal an opportunity to resume the arbitral proceedings or to take such other action as in the arbitral tribunal’s opinion will eliminate the grounds for setting aside\.
+
+Article 34.
 
 —
 
@@ -996,7 +1012,7 @@ Recognition and Enforcement of Awards3
 
 3Chapter VIII does not have the force of law in Singapore by virtue of section 3 (1)
 
-Article 35
+Article 35.
 
 —
 
@@ -1006,9 +1022,9 @@ Recognition and enforcement
 
 (2) The party relying on an award or applying for its enforcement shall supply the duly authenticated original award or a duly certified copy thereof, and the original arbitration agreement referred to in Article 7 or a duly certified copy thereof. If the award or agreement is not made in an official language of this State, the party shall supply a duly certified translation thereof into such language.4
 
-4The conditions set forth in this paragraph are intended to set maximum standards. It would, thus, not be contrary to the harmonisation to be achieved by the model law if a State retained even less onerous conditions.
+4The conditions set forth in this paragraph are intended to set maximum standards. It would, thus, not be contrary to the harmonisation to be achieved by the Model Law if a State retained even less onerous conditions.
 
-Article 36
+Article 36.
 
 —
 
@@ -1104,7 +1120,7 @@ Article VII
 
 Article VIII
 
-1\. This Convention shall be open until 31 December 1958 for signature on behalf of any Member of the United Nations and also on behalf of any other State which is or hereafter becomes a member of any specialised agency of the United Nations, or which is or hereafter becomes a party to the Statute of the International Court of Justice, or any other State to which an invitation has been addressed by the General Assembly of the United Nations.
+1\. This Convention shall be open until 31st December 1958 for signature on behalf of any Member of the United Nations and also on behalf of any other State which is or hereafter becomes a member of any specialised agency of the United Nations, or which is or hereafter becomes a party to the Statute of the International Court of Justice, or any other State to which an invitation has been addressed by the General Assembly of the United Nations.
 
 2\. This Convention shall be ratified and the instrument of ratification shall be deposited with the Secretary-General of the United Nations.
 
@@ -1186,3 +1202,20 @@ Article XVI
 
 2\. The Secretary-General of the United Nations shall transmit a certified copy of this Convention to the States contemplated in Article VIII.
 
+## LEGISLATIVE HISTORY
+
+International Arbitration Act
+
+(CHAPTER 143A)
+
+This Legislative History is provided for the convenience of users of the International Arbitration Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 23 of 1994—International Arbitration Act 1994**|
+||Date of First Reading|25 July 1994|
+|||(Bill No. 14/94 published on 29 July 1994)|
+||Date of Second and Third Readings|31 October 1994|
+||Date of commencement|27 January 1995|
+|2.|**1995 Revised Edition—International Arbitration Act**|
+||Date of operation|15 March 1995|
