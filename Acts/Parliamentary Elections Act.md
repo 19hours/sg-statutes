@@ -318,6 +318,10 @@ PRELIMINARY
 
 “polling district” means a part of an electoral division subdivided under section 9;
 
+“principal election agent” means an election agent of a candidate in a group who has been appointed under section 62(5) as the principal election agent for that group;
+
+[18/99 wef 14/05/1999]
+
 “register” or “register of electors” means the register of electors for any particular electoral division comprising sections, each of which shall relate to a polling district of that electoral division;
 
 [Subst. by Act 42/96 wef 12/11/1996]
@@ -561,8 +565,6 @@ Provided that the correction does not affect the entitlement of any person to ha
 (3) Notwithstanding subsections (1) and (2), the Registration Officer shall, from time to time, on being informed by the Registrar of Citizens that any person has ceased to be a citizen of Singapore under the provisions of the Constitution, expunge the name of the person from any register of electors.
 
 (4) Notwithstanding anything to the contrary in this Act, the Registration Officer may —
-
-(a) before certifying any register of electors, transfer the name of any person who is no longer resident at the address shown in the register to the appropriate register, where that person has notified the Commissioner of National Registration in writing of his change of address on or before the last day for the inspection of the register of electors specified in the notice given by the Registration Officer under section 10(3); and
 
 (b) at any time after certifying any register of electors for any electoral division, except between the issue of a writ of election under section 24 and polling day appointed for election in that division, remove from the register the name of any person where the Registration Officer has reason to believe that the address of that person as shown in the register has ceased to exist or to be used as a place of residence:
 
@@ -1060,6 +1062,10 @@ Provided that where, at any polling station, more polling places than one have b
 
 (3) Each ballot paper shall have a number printed on the back and shall have attached a counterfoil with the same number printed on the face.
 
+(4) The official mark for the authentication of ballot papers shall comprise a pattern, design, watermark or logo approved by the Returning Officer which shall be affixed, stamped, overprinted or marked (by writing or otherwise), or any combination thereof, on the ballot paper in a particular manner approved by the Returning Officer.
+
+[18/99 wef 14/05/1999]
+
 ### Ballot boxes
 
 41\.—(1) Every ballot box shall be so constructed that the ballot papers can be introduced into the box after it has been sealed or locked but cannot be withdrawn from the box unless the seal or lock is broken.
@@ -1086,7 +1092,7 @@ Provided that where, at any polling station, more polling places than one have b
 
 [10/88]
 
-(2) The ballot paper shall be delivered to the voter by the presiding officer or a person acting under his authority. Immediately before the ballot paper is delivered to the voter, the paper shallbe stamped on the back or perforated with the official mark or initialled by the presiding officer; and the number, name and description of the voter, as stated in the copy of the register of electors, shall be called out, and the number of the elector shall be marked on the counterfoil, and a mark shall be placed in the register against the number of the elector to denote that he has received a ballot paper but without showing the particular ballot paper which he has received.
+(2) The ballot paper shall be delivered to the voter by the presiding officer or a person acting under his authority. Immediately before the ballot paper is delivered to the voter, the paper shall, unless it already bears the complete official mark for the authentication of ballot papers, be affixed, stamped or marked (by writing or otherwise) by the presiding officer in the approved manner with that official mark or the remaining part thereof or initialled by the presiding officer; and the number, name and description of the voter, as stated in the copy of the register of electors, shall be called out, and the number of the elector shall be marked on the counterfoil, and a mark shall be placed in the register against the number of the elector to denote that he has received a ballot paper but without showing the particular ballot paper which he has received.
 
 (3) The voter, on receiving the ballot paper, shall forthwith proceed to such place in the station as may be indicated by the presiding officer or by any person acting under that officer’s authority, and shall there secretly mark the paper as near as may be in accordance with the directions given for the guidance of voters under this Act. The voter shall then fold the paper so as to conceal his vote, and shall put the paper so folded up into the ballot box. He shall vote without undue delay and shall leave the polling station as soon as he has put his ballot paper into the ballot box.
 
@@ -1176,9 +1182,13 @@ Provided that where, at any polling station, more polling places than one have b
 
 ### Counting votes
 
-49\.—(1) Subject to subsection (2), each candidate nominated for an electoral division or his election agent may appoint only one counting agent to attend the counting of votes at each counting place specified for that division in the direction made under section 48A(1).
+49\.—(1) Subject to subsection (2), counting agents for any candidate nominated for an electoral division other than a group representation constituency may be appointed either by the candidate or his election agent only, and counting agents for any group of candidates nominated for a group representation constituency may be appointed either by the election agent of any candidate in the group or the principal election agent for that group only.
 
-(2) The principal election agent of each group of candidates nominated for a group representation constituency may, on behalf of the group, appoint only one counting agent to attend the counting of votes at each counting place specified for that constituency in the direction made under section 48A(1).
+[18/99 wef 14/05/1999]
+
+(2) Not more than one counting agent may be appointed for a candidate or group of candidates to attend the counting of votes at each counting place specified in the direction made under section 48A(1).
+
+[18/99 wef 14/05/1999]
 
 (2A) The Returning Officer shall make arrangements for the counting of votes in the presence of such of the candidates and their counting agents as attend as soon as practicable —
 
@@ -1262,7 +1272,9 @@ Provided that upon the application of any candidate or his counting agent, a rec
 
 50\.—(1) The Returning Officer shall reject as invalid the following ballot papers only, namely, any ballot paper —
 
-(a) which is not stamped or perforated with the official mark or initialled;
+(a) which does not bear the complete official mark for the authentication of ballot papers or is not initialled by the presiding officer;
+
+[18/99 wef 14/05/1999]
 
 (b) on which votes are given for more than one candidate or group of candidates;
 
@@ -1494,7 +1506,7 @@ ELECTION AGENT, ELECTION EXPENSES AND ILLEGAL PRACTICES
 
 [Act 42/96 wef 12/11/1996]
 
-(1A) In the case of a group of candidates, only the principal election agent of the group shall appoint every polling agent on behalf of the group of candidates at an election and shall inform the presiding officer at each polling station in writing of the name of the polling agent or agents appointed to act at that station before the person is admitted to the station.
+(1A) In the case of a group of candidates, either the principal election agent for the group or the election agent of any candidate in that group shall appoint every polling agent on behalf of the group of candidates at an election and shall inform the presiding officer at each polling station in writing of the name of the polling agent or agents appointed to act at that station before the person is admitted to the station.
 
 [Act 42/96 wef 12/11/1996]
 
@@ -2827,3 +2839,8 @@ This Legislative History is provided for the convenience of users of the Parliam
 |||(Bill No. 1/1998 published on 15 January 1998)|
 ||Date of Second and Third Readings|19 February 1998|
 ||Date of commencement|10 April 1998|
+|46.|**Act 18 of 1999—Parliamentary Elections (Amendment) Act 1999**|
+||Date of First Reading|18 March 1999|
+|||(Bill No. 14/1999 published on 19 March 1999)|
+||Date of Second and Third Readings|15 April 1999|
+||Date of commencement|14 May 1999|
