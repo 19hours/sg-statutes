@@ -150,7 +150,9 @@ PRELIMINARY
 
 “respondent” means any person against whom a claim is made and any person who becomes a party to the proceedings on any claim in the capacity of a respondent;
 
-“rules” means the rules made by the Rules Committee pursuant to section 69(1) of the Subordinate Courts Act [Cap. 321];
+“rules” means rules made under section 44;
+
+[Act 4 of 1996 wef 26/01/1996]
 
 “tribunal” means a Small Claims Tribunal constituted under section 4 of the Subordinate Courts Act;
 
@@ -666,13 +668,15 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Rules
 
-44\.—(1) The Rules Committee appointed by the Chief Justice under section 69(4) of the Subordinate Courts Act may make rules to —
+44\.—(1) The Rules Committee appointed under section 80(3) of the Supreme Court of Judicature Act [Cap. 322] may make rules to —
 
 (a) regulate the practice and procedure of tribunals and the enforcement of orders of the tribunals;
 
 (b) prescribe such things, including fees or costs, as are required by this Act to be prescribed; and
 
 (c) prescribe such matters as are necessary for carrying out the provisions of this Act.
+
+[Act 4 of 1996 wef 26/01/1996]
 
 (2) Without limiting the generality of subsection (1), the rules made pursuant to subsection (1) may provide for the following:
 
@@ -727,3 +731,9 @@ This Legislative History is provided for the convenience of users of the Small C
 |||(Bill No. 9/1995 published on 2 March 1995)|
 ||Date of Second and Third Readings|25 May 1995|
 ||Date of commencement|15 August 1995|
+|5.|**Act 4 of 1996—Subordinate Courts (Amendment) Act 1996**|
+||(Consequential amendments made by)||
+||Date of First Reading|1 November 1995|
+|||(Bill No. 37/1995 published on 2 November 1995)|
+||Date of Second and Third Readings|5 December 1995|
+||Date of commencement|26 January 1996|
