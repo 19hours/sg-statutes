@@ -970,6 +970,10 @@ that has as its principal function, or one of its principal functions, the provi
 
 “non-profit organisation” means an organisation or association or persons, whether corporate or unincorporate, that is not operated or conducted for profit;
 
+“Office” means the Intellectual Property Office of Singapore incorporated under the Intellectual Property Office of Singapore Act 2001;
+
+[3/2001 wef 01/04/2001]
+
 “photograph” means a product of photography or of a process similar to photography, other than an article or thing in which visual images forming part of a cinematograph film have been embodied, and includes a product of xerography, and photography shall have a corresponding meaning;
 
 “plate” includes a stereotype, stone, block, mould, matrix, transfer, negative or other similar appliance;
@@ -4106,7 +4110,13 @@ Constitution of Tribunal
 
 (4) The Minister may appoint such officers and employees of the Tribunal as the Minister may determine.
 
-(5) The remuneration and allowances of members of the Tribunal, the remuneration of any officers and employees appointed under subsection (4) and such other expenses of the Tribunal as the Minister may determine, shall be paid out of moneys provided by Parliament.
+(5) The remuneration and allowances of the members of the Tribunal and such other expenses of the Tribunal as the Minister may determine shall be paid out of moneys provided by Parliament.
+
+[3/2001 wef 01/04/2001]
+
+(6) The remuneration of the officers and employees appointed under subsection (4) shall be paid out of the funds of the Office.
+
+[3/2001 wef 01/04/2001]
 
 ### Tenure of office
 
@@ -6214,6 +6224,12 @@ This Legislative History is provided for the convenience of users of the Copyrig
 |||(Bill No. 19/2000 published on 1 July 2000)|
 ||Date of Second and Third Readings|25 August 2000|
 ||Date of commencement|13 November 2000|
+|12.|**Act 3 of 2001—Intellectual Property Office of Singapore Act 2001**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|12 January 2001|
+|||(Bill No. 1/2001 published on 13 January 2001)|
+||Date of Second and Third Readings|22 February 2001|
+||Date of commencement|1 April 2001|
 ## COMPARATIVE TABLE
 
 Copyright Act
