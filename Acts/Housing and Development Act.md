@@ -194,6 +194,8 @@
 
 - [66 Borrowing powers](#Borrowing-powers)
 
+- [66A Issue of shares, etc.](#Issue-of-shares-etc)
+
 - [67 Annual financial statement](#Annual-financial-statement)
 
 - [68 Budgets](#Budgets)
@@ -1927,6 +1929,12 @@ FINANCIAL PROVISIONS
 (4) For the purposes of this section, the power to raise loans shall include the power to make any financial agreement whereby credit facilities are granted to the Board for the purchase of goods, materials or things.
 
 [41/98 wef 20/11/1998]
+
+### Issue of shares, etc.
+
+66A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Board under this Act, or of any capital injection or other investment by the Government in the Board in accordance with any written law, the Board shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
+
+[5/2002 wef 15/07/2002]
 
 ### Annual financial statement
 
@@ -4851,3 +4859,9 @@ This Legislative History is provided for the convenience of users of the Housing
 |||(Bill No. 17/2001 published on 7 March 2001)|
 ||Date of Second and Third Readings|19 April 2001|
 ||Date of commencement|1 June 2001|
+|29.|**Act 5 of 2002—Statutory Corporations (Capital Contribution) Act 2002**|
+||(Consequential amendments made by)||
+||Date of First Reading|3 May 2002|
+|||(Bill No. 7/2002 published on 4 May 2002)|
+||Date of Second and Third Readings|24 May 2002|
+||Date of commencement|15 July 2002 (except item (18) of Schedule)|
