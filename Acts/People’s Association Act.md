@@ -356,6 +356,10 @@ Consultant Organisations
 
 8\. Chinese Theatre Circle
 
+8A. Consumers’ Association of Singapore
+
+[S 583/2000 wef 19/12/2000]
+
 9\. Er Woo Amateur Musical and Dramatic Association
 
 10\. Football Association of Singapore
@@ -660,6 +664,8 @@ This Legislative History is provided for the convenience of users of the People�
 ||Date of operation|1 July 2000|
 |45.|**G.N. No. S 475/2000—People’s Association Act (Amendment of First Schedule) (No. 2) Notification 2000**|
 ||Date of commencement|20 October 2000|
+|46.|**G.N. No. S 583/2000—People’s Association Act (Amendment of First Schedule) (No. 3) Notification 2000**|
+||Date of commencement|19 December 2000|
 ## COMPARATIVE TABLE
 
 People’s Association Act
