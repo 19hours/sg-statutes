@@ -198,6 +198,8 @@
 
 - [81 Effect of "not negotiable" crossing on holder](#Effect-of-"not-negotiable"-crossing-on-holder)
 
+- [81A Non-transferable cheques](#Non-transferable-cheques)
+
 [**Special provisions relating to indorsement, etc.**](#Special-provisions-relating-to-indorsement-etc)
 
 - [82 Protection of bankers paying unindorsed or irregularly indorsed cheques, etc.](#Protection-of-bankers-paying-unindorsed-or-irregularly-indorsed-cheques-etc)
@@ -448,7 +450,7 @@ the bill shall be due and payable on the next succeeding business day;
 
 ### Case of need
 
-15\. The drawer of a bill and any indorser may insert therein the name of a person to whom the holder may resort in case of need, that is to say, in case the bill is dishonoured by non-acceptance or non-payment. Such person is called the referee in case of need. It is in the option of the holder to resort to the referee in case of need or not, as he may think fit.
+15\. The drawer of a bill and any indoser may insert therein the name of a person to whom the holder may resort in case of need, that is to say, in case the bill is dishonoured by non-acceptance or non-payment. Such person is called the referee in case of need. It is in the option of the holder to resort to the referee in case of need or not, as he may think fit.
 
 ### Optional stipulations by drawer or indorser
 
@@ -572,7 +574,7 @@ Consideration for a bill
 
 (2) Where value has at any time been given for a bill the holder is deemed to be a holder for value as regards the acceptor and all parties to the bill who became parties prior to such time.
 
-(3) Where the holder of a bill has a lien on it arising either from contract or by implication of law, he is deemed to be a holder for value to the extent of the sum for which he has a lien.
+(3) Where the holder of a bill has a lien on it arising either from the contract or by implication of law, he is deemed to be a holder for value to the extent of the sum for which he has a lien.
 
 ### Accommodation bill or party
 
@@ -654,7 +656,7 @@ Negotiation of bills
 
 36\.—(1) Where a bill is negotiable in its origin it continues to be negotiable until it has been —
 
-(a) restrictively indorsed; or
+(a) restrictively, indorsed; or
 
 (b) discharged by payment or otherwise.
 
@@ -980,7 +982,7 @@ Liabilities of parties
 
 (iii) the expenses of noting, or, when protest is necessary, and the protest has been extended, the expenses of protest;
 
-(b) in the case of a bill which has been dishonoured abroad, in lieu of the above damages, the holder may recover from the drawer or an indorser, and the drawer or an indorser who has been compelled to pay the bill may recover from any party liable to him, the amount of the re-exchange with interest thereon until the time of payment;
+(b) [Deleted by Act 34/92 wef 18/12/1992 wef 18/12/1992 wef 18/12/1992 videS 508/92]
 
 (c) where by this Act interest may be recovered as damages, such interest may, if justice require it, be withheld wholly or in part, and where a bill is expressed to be payable with interest at a given rate, interest as damages may or may not be given at the same rate as interest proper.
 
@@ -1140,7 +1142,7 @@ Provided that where an inland bill is indorsed in a foreign country, the indorse
 
 (c) the duties of the holder with respect to presentment for acceptance or payment and the necessity for or sufficiency of a protest or notice of dishonour, or otherwise, are determined by the law of the place where the act is done or the bill is dishonoured;
 
-(d) [where the bill is drawn out of but payable in Singapore and the sum payable is not expressed in the currency of Singapore, the amount shall, in the absence of some express stipulation, be calculated according to the rate of exchange for sight drafts at the place of payment on the day the bill is payable;]
+(d) [Deleted by Act 34/92 wef 18/12/1992 wef 18/12/1992 wef 18/12/1992 videS 508/92]
 
 (e) where a bill is drawn in one country and is payable in another, the due date thereof is determined according to the law of the place where it is payable.
 
@@ -1214,11 +1216,21 @@ Provided that where a cheque is presented for payment which does not at the time
 
 ### Protection to banker and drawer where cheque is crossed
 
-80\. Where the banker, on whom a crossed cheque is drawn, in good faith and without negligence pays it, if crossed generally, to a banker, and if crossed specially, to the banker to whom it is crossed, or his agent for collection, being a banker, the banker paying the cheque, and, if the cheque has come into the hands of the payee, the drawer, shall respectively be entitled to the same rights and be placed in the same position as if payment of the cheque had been made to the true owner thereof.
+80\. Where the banker, on whom a crossed cheque (including a cheque which under section 81A or otherwise is not transferable) is drawn, in good faith and without negligence pays it, if crossed generally, to a banker, and if crossed specially, to the banker to whom it is crossed, or his agent for collection, being a banker, the banker paying the cheque, and, if the cheque has come into the hands of the payee, the drawer, shall respectively be entitled to the same rights and be placed in the same position as if payment of the cheque had been made to the true owner thereof.
+
+[Act 34/92 wef 18/12/1992 vide S 508/92]
 
 ### Effect of “not negotiable” crossing on holder
 
 81\. Where a person takes a crossed cheque which bears on it the words “not negotiable”, he shall not have and shall not be capable of giving a better title to the cheque than that which the person from whom he took it had.
+
+### Non-transferable cheques
+
+81A\.—(1) Where a cheque is crossed and bears across its face the words “account payee” or “a/c payee”, either with or without the word “only”, the cheque shall not be transferable, but shall only be valid as between the parties thereto.
+
+(2) For the purposes of section 80, a banker is not to be treated as having been negligent by reason only of his failure to concern himself with any purported indorsement of a cheque which under subsection (1) or otherwise is not transferable.
+
+[Act 34/92 wef 18/12/1992 vide S 508/92]
 
 Special provisions relating to indorsement, etc.
 
@@ -1254,7 +1266,9 @@ and the customer has no title, or a defective title, to the instrument, the bank
 
 (2) This section applies to the following instruments, namely:
 
-(a) cheques;
+(a) cheques (including cheques which under section 81A or otherwise are not transferable);
+
+[Act 34/92 wef 18/12/1992 vide S 508/92]
 
 (b) any document issued by a customer of a banker which, though not a bill of exchange, is intended to enable a person to obtain payment from that banker of the sum mentioned in the document; and
 
@@ -1418,3 +1432,8 @@ This Legislative History is provided for the convenience of users of the Bills o
 ||Date of commencement|19 June 1970|
 |4.|**1985 Revised Edition—Bills of Exchange Act**|
 ||Date of operation|30 March 1987|
+|5.|**Act 34 of 1992—Bills of Exchange (Amendment) Act 1992**|
+||Date of First Reading|14 September 1992|
+|||(Bill No. 35/92 published on 15 September 1992)|
+||Date of Second and Third Readings|16 November 1992|
+||Date of commencement|18 December 1992|
