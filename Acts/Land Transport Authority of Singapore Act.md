@@ -640,7 +640,9 @@ ASSESSMENT AND AWARD OF COMPENSATION
 
 (12) The Minister may appoint a secretary of the Compensation Board and such other officers and employees of the Board as may be necessary.
 
-(13) The persons who immediately before 1st September 1995 were appointed President and members of the Railway Compensation Board under the repealed Mass Rapid Transit Corporation Act shall continue to be President and members, respectively, of the Compensation Board under this Act as if they had been appointed under this section on the same terms and conditions for a term expiring on the day on which their respective appointments under the repealed Mass Rapid Transit Corporation Act [1988 Ed.] would expire.
+(13) The persons who immediately before 1st September 1995 were appointed President and members of the Railway Compensation Board under the repealed Mass Rapid Transit Corporation Act shall continue to be President and members, respectively, of the Compensation Board under this Act as if they had been appointed under this section on the same terms and conditions for a term expiring on the day on which their respective appointments under the repealed Mass Rapid Transit Corporation Act would expire.
+
+[1988 Ed.]
 
 ### Compensation Board to hear and determine claims
 
@@ -940,7 +942,9 @@ under the Parking Places Act [Cap. 214].
 
 4. All fees for the grant, issue, renewal or replacement of —
 
-(a) a visitor’s licence referred to in the Road Traffic (Motor Vehicles, Registration and Licensing) Rules [R 5];
+(a) a visitor’s licence referred to in the Road Traffic (Motor Vehicles, Registration and Licensing) Rules;
+
+[R 5.]
 
 (b) a general licence referred to in section 28 of the Road Traffic Act;
 
@@ -948,19 +952,27 @@ under the Parking Places Act [Cap. 214].
 
 (d) a vocational licence referred to in section 110 of the Road Traffic Act;
 
-(e) a permit authorising the carriage of passengers in or on a goods vehicle under the Road Traffic (Passengers in Goods Vehicles) (Permits and Fees) Rules [R 2]; and
+(e) a permit authorising the carriage of passengers in or on a goods vehicle under the Road Traffic (Passengers in Goods Vehicles) (Permits and Fees) Rules; and
 
-(f) a licence under the Road Traffic (Malaysian and Thai-Registered Goods and Public Service Vehicles Licensing) Rules [R 17].
+[R 2.]
+
+(f) a licence under the Road Traffic (Malaysian and Thai-Registered Goods and Public Service Vehicles Licensing) Rules.
+
+[R 17.]
 
 5\. All fees for the inspection of a vehicle under section 87 of the Road Traffic Act.
 
-6\. All fees for the assignment and sealing of identification marks on any vehicle under the Road Traffic (Motor Vehicles, Registration and Licensing) Rules [R 5].
+6. All fees for the assignment and sealing of identification marks on any vehicle under the Road Traffic (Motor Vehicles, Registration and Licensing) Rules.
+
+[R 5.]
 
 7\. All fees for the weighing of a motor vehicle on a weighbridge under the Road Traffic (Motor Vehicles, Registration and Licensing) Rules.
 
 8. The fees for the following, excluding additional transfer fees:
 
-(a) the transfer of a certificate of entitlement under the Road Traffic (Motor Vehicles, Quota System) Rules [ R 31];
+(a) the transfer of a certificate of entitlement under the Road Traffic (Motor Vehicles, Quota System) Rules;
+
+[R 31.]
 
 (b) the transfer of the residual value of any certificate of entitlement under the Road Traffic (Motor Vehicles, Quota System) Rules;
 
@@ -970,19 +982,23 @@ under the Parking Places Act [Cap. 214].
 
 9\. All conversion fees under the Road Traffic (Motor Vehicles, Registration and Licensing) Rules for registering a private motor car as an off-peak car.
 
-10\. All fees relating to an appeal under the Road Traffic (Motor Vehicles, Test) Rules [R 21] against any refusal of a test certificate.
+10. All fees relating to an appeal under the Road Traffic (Motor Vehicles, Test) Rules against any refusal of a test certificate.
+
+[R 21.]
 
 11\. All late payment fees for the issue of a licence referred to in section 21 of the Road Traffic Act or for the renewal of a certificate of entitlement.
 
 12\. All fees for the issue of a warrant under section 30 of the Road Traffic Act and all fees for the towing and transportation of vehicles seized under such warrant.
 
-13\. All fees for the replacement of a licence, permit, certificate or a registration book or card issued under those provisions of the Road Traffic Act, or any rules made thereunder, for which the Minister for Communications has been charged with responsibility.
+13\. All fees for the replacement of a licence, permit, certificate or a registration book or card issued under those provisions of the Road Traffic Act, or any rules made thereunder, for which the Minister for Communications has been charged with responsibility .
 
 14\. All fees for furnishing a copy of or an extract from a vocational licence or for conducting a search or furnishing a copy of an extract from any register relating to a motor vehicle.
 
 15\. All fees for the grant of an exemption under section 142 of the Road Traffic Act [Cap. 276].
 
-16\. All security deposits for the issue of a general licence forfeited under the Road Traffic (Motor Vehicles, Registration and Licensing) Rules [R 5].
+16. All security deposits for the issue of a general licence forfeited under the Road Traffic (Motor Vehicles, Registration and Licensing) Rules.
+
+[R 5.]
 
 17. All composition sums collected —
 
@@ -1100,11 +1116,11 @@ The person on whom the notice under section 10 of the Rapid Transit Systems Act 
 
 Before the expiration of one year from the completion of the alteration and repair.
 
-5. (a) The cost of the removal of any object or structure which was erected and maintained without the contravention of any written law.in contravention of any written law
+5. (a) The cost of the removal of any object or structure pursuant to a notice served by the Authority under section 11 of the Rapid Transit Systems Act (Cap. 263A) or section 13 of the Street Works Act (Cap. 320A) and which was erected and maintained in contravention of any written law
 
 (a) The cost incurred in moving the object or structure and making good that part of the land or building from which it is removed.
 
-(a) Any person who incurs the cost.
+(a) The person on whom the notice under section 11 of the Rapid Transit Systems Act or section 13 of the Street Works Act, as the case may be, is served.
 
 (a) Before the expiration of one year from the date of removal.
 
@@ -1112,7 +1128,7 @@ Before the expiration of one year from the completion of the alteration and repa
 
 (b) The cost incurred in so doing.
 
-(b) Any person who incurs the cost.
+(b) The person on whom the notice under section 11 of the Rapid Transit Systems Act or section 13 of the Street Works Act, as the case may be, is served.
 
 (b) Before the expiration of one year from the date of reinstatement or replacement.
 
@@ -1221,3 +1237,8 @@ This Legislative History is provided for the convenience of users of the Land Tr
 ||Date of commencement|1 September 1995|
 |3.|**1996 Revised Edition—Land Transport Authority of Singapore Act**|
 ||Date of operation|30 April 1996|
+|4.|**Act 7 of 1997—Statutes (Miscellaneous Amendment) Act 1997**|
+||Date of First Reading|11 July 1997|
+|||(Bill No. 6/1997 published on 12 July 1997)|
+||Date of Second and Third Readings|25 August 1997|
+||Date of commencement|1 October 1997|
