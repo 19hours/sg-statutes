@@ -191,14 +191,7 @@ Energy Market Authority of Singapore Act
 
 (Chapter 92B)
 
-14. Health Promotion Board
-
-Health Promotion Board Act
-
-
-
-
-(Chapter 122B)
+14. Health Promotion Board —Deleted by S 148/2005, wef 25/03/2005.
 
 15. Health Sciences Authority
 
@@ -362,6 +355,15 @@ Sentosa Development Corporation Act
 
 (Chapter 291)
 
+32A. Singapore Examinations and Assessment Board
+
+Singapore Examinations and Assessment Board Act
+
+
+
+
+(Chapter 299A)
+
 33. Singapore Labour Foundation
 
 Singapore Labour Foundation Act
@@ -461,6 +463,8 @@ Urban Redevelopment Authority Act
 
 (Chapter 340)
 
+[S 148/2005 wef 25/03/2005]
+
 [7/96; 41/99; S 414/93; S344/95; S405/96; S470/97; S518/97; S366/98; S588/2000; S220/2001; S312/2001; S143/2003; S480/2003; S410/2004]
 
 ## LEGISLATIVE HISTORY
@@ -539,3 +543,5 @@ This Legislative History is provided for the convenience of users of the Statuto
 ||Date of commencement|1 July 2004|
 |22.|**2004 Revised Edition—Statutory Corporations (Contributions to Consolidated Fund) Act**|
 ||Date of operation|31 July 2004|
+|23.|**G. N. No. S 148/2005—Statutory Corporations (Contributions to Consolidated Fund) Act (Amendment of Schedule) Order 2005**|
+||Date of commencement|25 March 2005|
