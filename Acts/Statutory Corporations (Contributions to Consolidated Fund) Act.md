@@ -18,17 +18,15 @@
 
 [**Legislative History**](#Legislative-History)
 
-[**Comparative Table**](#Comparative-Table)
-
 # Statutory Corporations (Contributions to Consolidated Fund) Act
 
 (CHAPTER 319A)
 
 (Original Enactment: Act 22 of 1989)
 
-REVISED EDITION 2000
+REVISED EDITION 2004
 
-(1st July 2000)
+(31st July 2004)
 
 An Act to provide for the payment into the Consolidated Fund of moneys from the funds of certain statutory corporations.
 
@@ -76,223 +74,43 @@ Statutory corporation
 
 Act under which established or constituted
 
-1. Deleted by Act 25/2002, wef 01/10/2002.
-
-2. Civil Aviation Authority of Singapore
-
-Civil Aviation Authority of Singapore Act (Chapter 41)
-
-3. Commercial and Industrial Security Corporation
-
-Commercial and Industrial Security Corporation Act (Chapter 47)
-
-3A. Energy Market Authority of Singapore
-
-Energy Market Authority of Singapore Act 2001
-
-
-
-
-(Act 9 of 2001)
-
-3B. Health Sciences Authority
-
-Health Sciences Authority Act 2001
-
-
-
-
-(Act 4 of 2001)
-
-4. Info-communications Development Authority of Singapore
-
-Info-communications Development Authority of Singapore Act 1999
-
-
-
-
-(Act 41 of 1999)
-
-5. Inland Revenue Authority of Singapore
-
-Inland Revenue Authority of Singapore Act
-
-
-
-
-(Chapter 138A)
-
-5A. Intellectual Property
-
-
-
-
-Office of Singapore
-
-Intellectual Property
-
-
-
-
-Office of Singapore Act 2001
-
-
-
-
-(Act 3 of 2001)
-
-6. Jurong Town Corporation
-
-Jurong Town Corporation Act
-
-
-
-
-(Chapter 150)
-
-7. Land Transport Authority of Singapore
-
-Land Transport Authority of Singapore Act
-
-
-
-
-(Chapter 158A)
-
-8. Maritime and Port Authority of Singapore
-
-Maritime and Port Authority of Singapore Act
-
-
-
-
-(Chapter 170A)
-
-9. Monetary Authority of Singapore
-
-Monetary Authority of Singapore Act
-
-
-
-
-(Chapter 186)
-
-10. Public Utilities Board
-
-Public Utilities Act
-
-
-
-
-(Chapter 261)
-
-11. Sentosa Development Corporation
-
-Sentosa Development Corporation Act
-
-
-
-
-(Chapter 291)
-
-12. Media Development Authority of Singapore
-
-Media Development Authority of Singapore Act 2002
-
-
-
-
-(Act 34 of 2002)
-
-12A. Singapore Land Authority
-
-Singapore Land Authority Act 2001
-
-
-
-
-(Act 17 of 2001)
-
-13. Singapore Tourism Board
-
-Singapore Tourism Board Act
-
-
-
-
-(Chapter 305B)
-
-14. International Enterprise Singapore Board
-
-International Enterprise Singapore Board Act
-
-
-
-
-(Chapter 143B)
-
-15. Urban Redevelopment Authority
-
-Urban Redevelopment Authority Act
-
-
-
-
-(Chapter 340)
-
-16. Central Provident Fund Board
-
-Central Provident Fund Act
-
-
-
-
-(Chapter 36)
-
-17. Defence Science and Technology Agency
-
-Defence Science and Technology Agency Act 2000
-
-
-
-
-(Act 9 of 2000)
-
-18. Economic Development Board
-
-Economic Development Board Act
-
-
-
-
-(Chapter 85)
-
-19. Singapore Totalisator Board
-
-Singapore Totalisator Board Act
-
-
-
-
-(Chapter 305A)
-
-20. Accounting and Corporate Regulatory Authority
+1. Accouting and Corporate Regulatory Authority
 
 Accounting and Corporate Regulatory Authority Act 2004
 
-21. Agency for Science, Technology and Research
 
-Agency for Science, Technology and Research Act (Chapter 5A)
 
-22. Agri-Food and Veterinary Authority
 
-Agri-Food and Veterinary Authority Act (Chapter 5)
+(Act 3 of 2004)
 
-23. Board of Architects
+2. Agency for Science, Technology and Research
 
-Architects Act (Chapter 12)
+Agency for Science, Technology and Research Act
 
-24. Building and Construction Authority
+
+
+
+(Chapter 5A)
+
+3. Agri-Food and Veterinary Authority
+
+Agri-Food and Veterinary Authority Act
+
+
+
+
+(Chapter 5)
+
+4. Board of Architects
+
+Architects Act
+
+
+
+
+(Chapter 12)
+
+5. Building and Construction Authority
 
 Building and Construction Authority Act
 
@@ -301,7 +119,25 @@ Building and Construction Authority Act
 
 (Chapter 30A)
 
-25. Civil Service College
+6. Central Provident Fund Board
+
+Central Provident Fund Act
+
+
+
+
+(Chapter 36)
+
+7. Civil Aviation Authority of Singapore
+
+Civil Aviation Authority of Singapore Act
+
+
+
+
+(Chapter 41)
+
+8. Civil Service College
 
 Civil Service College Act
 
@@ -310,32 +146,169 @@ Civil Service College Act
 
 (Chapter 45)
 
-26. Dental Council
+9. Commercial and Industrial Security Corporation
 
-Dentists Act (Chapter 76)
-
-27. Health Promotion Board
-
-Health Promotion Board Act (Chapter 122B)
-
-28. Housing and Development Board
-
-Housing and Development Act (Chapter 129)
-
-29. Singapore Medical Council
-
-Medical Registration Act
+Commercial and Industrial Security Corporation Act
 
 
 
 
-(Chapter 174)
+(Chapter 47)
 
-30. National Environment Agency
+10. Defence Science and Technology Agency
 
-National Environment Agency Act 2002 (Act 4 of 2002)
+Defence Science and Technology Agency Act Act
 
-31. National Parks Board
+
+
+
+(Chapter 75A)
+
+11. Dental Council
+
+Dentists Act
+
+
+
+
+(Chapter 76)
+
+12. Economic Development Board
+
+Economic Development Board Act
+
+
+
+
+(Chapter 85)
+
+13. Energy Market Authority of Singapore
+
+Energy Market Authority of Singapore Act
+
+
+
+
+(Chapter 92B)
+
+14. Health Promotion Board
+
+Health Promotion Board Act
+
+
+
+
+(Chapter 122B)
+
+15. Health Sciences Authority
+
+Health Sciences Authority Act
+
+
+
+
+(Chapter 122C)
+
+16. Housing and Development Board
+
+Housing and Development Act
+
+
+
+
+(Chapter 129)
+
+17. Info-communications Development Authority of Singapore
+
+Info-communications Development Authority of Singapore Act
+
+
+
+
+(Chapter 137A)
+
+18. Inland Revenue Authority of Singapore
+
+Inland Revenue Authority of Singapore Act
+
+
+
+
+(Chapter 138A)
+
+19. Intellectual Property Office of Singapore
+
+Intellectual Property Office of Singapore Act
+
+
+
+
+(Chapter 140)
+
+20. International Enterprise Singapore Board
+
+International Enterprise Singapore Board Act
+
+
+
+
+(Chapter 143B)
+
+21. Jurong Town Corporation
+
+Jurong Town Corporation Act
+
+
+
+
+(Chapter 150)
+
+22. Land Transport Authority of Singapore
+
+Land Transport Authority of Singapore Act
+
+
+
+
+(Chapter 158A)
+
+23. Maritime and Port Authority of Singapore
+
+Maritime and Port Authority of Singapore Act
+
+
+
+
+(Chapter 170A)
+
+24. Media Development Authority of Singapore
+
+Media Development Authority of Singapore Act
+
+
+
+
+(Chapter 172)
+
+25. Monetary Authority of Singapore
+
+Monetary Authority of Singapore Act
+
+
+
+
+(Chapter 186)
+
+26. National Environment Agency
+
+National Environment Agency Act
+
+
+
+
+(Chapter 195)
+
+27. National Parks Board
 
 National Parks Act
 
@@ -344,20 +317,52 @@ National Parks Act
 
 (Chapter 198A)
 
-32. Singapore Nursing Board
+28. Pharmacy Board
 
-Nurses and Midwives Act
-
-
+Pharmacists Registration Act
 
 
-(Chapter 209)
 
-33. Pharmacy Board
 
-Pharmacists Registration Act (Chapter 230)
+(Chapter 230)
 
-34. Singapore Labour Foundation
+29. Professional Engineers Board
+
+Professional Engineers Act
+
+
+
+
+(Chapter 253)
+
+30. Public Transport Council
+
+Public Transport Council Act
+
+
+
+
+(Chapter 259B)
+
+31. Public Utilities Board
+
+Public Utilities Act
+
+
+
+
+(Chapter 261)
+
+32. Sentosa Development Corporation
+
+Sentosa Development Corporation Act
+
+
+
+
+(Chapter 291)
+
+33. Singapore Labour Foundation
 
 Singapore Labour Foundation Act
 
@@ -366,15 +371,70 @@ Singapore Labour Foundation Act
 
 (Chapter 302)
 
-35. Professional Engineers Board
+34. Singapore Land Authority
 
-Professional Engineers Act (Chapter 253)
+Singapore Land Authority Act
 
-36. Public Transport Council
 
-Public Transport Council Act (Chapter 259B)
 
-37. SPRING Singapore
+
+(Chapter 301)
+
+35. Singapore Medical Council
+
+Medical Registration Act
+
+
+
+
+(Chapter 174)
+
+36. Singapore Nursing Board
+
+Nurses and Midwives Act
+
+
+
+
+(Chapter 209)
+
+37. Singapore Sports Council
+
+Singapore Sports Council Act
+
+
+
+
+(Chapter 305)
+
+38. Singapore Totalisator Board
+
+Singapore Totalisator Board Act
+
+
+
+
+(Chapter 305A)
+
+39. Singapore Tourism Board
+
+Singapore Tourism Board Act
+
+
+
+
+(Chapter 305B)
+
+40. Singapore Workforce Development Agency
+
+Singapore Workforce Development Agency Act 2003
+
+
+
+
+(Act 14 of 2003).
+
+41. Standards, Productivity and Innovation Board
 
 Standards, Productivity and Innovation Board Act
 
@@ -383,11 +443,7 @@ Standards, Productivity and Innovation Board Act
 
 (Chapter 303A)
 
-38. Singapore Sports Council
-
-Singapore Sports Council Act (Chapter 305)
-
-39. Traditional Chinese Medicine Practitioners Board
+42. Traditional Chinese Medicine Practitioners Board
 
 Traditional Chinese Medicine Practitioners Act
 
@@ -396,31 +452,16 @@ Traditional Chinese Medicine Practitioners Act
 
 (Chapter 333A)
 
-40. Singapore Workforce Development Agency
+43. Urban Redevelopment Authority
 
-Singapore Workforce Development Agency Act 2003 (Act 14 of 2003).
+Urban Redevelopment Authority Act
 
-[S 312/2001 wef 01/06/2001]
 
-[S 220/2001 wef 01/04/2001]
 
-[S 143/2003 wef 01/04/2003]
 
-[S 312/2001 wef 01/06/2001]
+(Chapter 340)
 
-[S 143/2003 wef 01/04/2003]
-
-[3/2004 wef 01/04/2004]
-
-[S 143/2003 wef 01/04/2003]
-
-[S 410/2004 wef 01/07/2004]
-
-[S 143/2003 wef 01/04/2003]
-
-[S 480/2003 wef 01/09/2003]
-
-[7/96; 41/99; S 414/93; S344/95; S405/96; S 470/97; S 518/97; S366/98]
+[7/96; 41/99; S 414/93; S344/95; S405/96; S470/97; S518/97; S366/98; S588/2000; S220/2001; S312/2001; S143/2003; S480/2003; S410/2004]
 
 ## LEGISLATIVE HISTORY
 
@@ -496,25 +537,5 @@ This Legislative History is provided for the convenience of users of the Statuto
 ||Date of commencement|1 April 2004|
 |21.|**G. N. No. S 410/2004—Statutory Corporations (Contributions to Consolidated Fund) Act (Amendment of Schedule) Order 2004**|
 ||Date of commencement|1 July 2004|
-## COMPARATIVE TABLE
-
-Statutory Corporations (Contributions to Consolidated Fund) Act
-
-(CHAPTER 319A)
-
-The following provisions in the 1990 Revised Edition of the Statutory Corporations (Contributions to Consolidated Fund) Act have been renumbered by the Law Revision Commissioners in this 2000 Revised Edition.
-
-This Comparative Table is provided for the convenience of users. It is not part of the Statutory Corporations (Contributions to Consolidated Fund) Act.
-
-2000 Ed\. 
-
-1990 Ed\. 
-
-3 
-
-3 —(1)
-
-Omitted — Spent
-
-(2)
-
+|22.|**2004 Revised Edition—Statutory Corporations (Contributions to Consolidated Fund) Act**|
+||Date of operation|31 July 2004|
