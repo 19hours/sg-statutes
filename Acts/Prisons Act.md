@@ -748,6 +748,8 @@ CUSTODY AND REMOVAL OF PRISONERS
 
 (3) So long as any prisoner who has been removed to any hospital or place under subsection (2) shall remain therein, the medical officer thereof shall, at the end of every month, transmit to the Superintendent of the prison a certificate signed by him that it is in his opinion necessary that the prisoner should remain in the hospital or place.
 
+(4) [Deleted by Act 26/2001 wef 01/09/2001]
+
 ### Return to prison
 
 46\.—(1) So soon as, in the opinion of the medical officer in charge of any hospital or place specified by the Director of Medical Services under section 8(2) of the Infectious Diseases Act (Cap. 137), it is no longer necessary that any prisoner who has been removed to the hospital or place should remain therein, the medical officer shall transmit to the Superintendent a certificate, stating that such necessity has ceased.
@@ -1416,7 +1418,9 @@ shall be guilty of an offence.
 
 (e) the kind of labour to be exacted at the different stages of their imprisonment with the manner and place of exacting the same;
 
-(f) the remission of sentences to be allowed to prisoners who duly comply with the regulations to which they are subjected, and the conditions on which such remissions are to be made;
+(f) the granting, notwithstanding anything to the contrary in any law, of remission in respect of sentences of imprisonment and imprisonment in default of payment of fine to prisoners who duly comply with the regulations that apply to them and with the conditions on which such remissions are to be made;
+
+[9/2003 wef 16/05/2003]
 
 (g) the disposal of the products of the labour of prisoners;
 
@@ -1596,6 +1600,11 @@ This Legislative History is provided for the convenience of users of the Prisons
 ||Date of Second and Third Readings|25 July 2001|
 ||Date of commencement|1 September 2001|
 |||(section 14 — Amendment of Prisons Act)|
+|19.|**Act 9 of 2003—Statutes (Miscellaneous Amendments) Act 2003**|
+||Date of First Reading|20 March 2003|
+|||(Bill No. 7/2003 published on 21 March 2003)|
+||Date of Second and Third Readings|24 April 2003|
+||Date of commencement|16 May 2003|
 ## COMPARATIVE TABLE
 
 Prisons Act
