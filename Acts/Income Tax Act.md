@@ -2841,11 +2841,11 @@ is the number of employees engaged on contracts not exceeding 2 years (other tha
 
 where X
 
-is the cost of the shares at the date of acquisition; and
+X is the cost of the shares at the date of acquisition; and
 
 Y
 
-is the total number of the original shares, bonus shares and split shares; and
+Y is the total number of the original shares, bonus shares and split shares; and
 
 (ii) where the original shares upon which the bonus shares or split shares are derived were donated on or after 1st April 2003, on the date of donation of the original shares.
 
@@ -3753,9 +3753,7 @@ whichever is the lower; and
 
 D
 
-is the remaining number of years (excluding any part of a year) of the term of the designated lease for which the upfront land premium was paid
-
-[32/99]
+is the remaining number of years (excluding any part of a year) of the term of the designated lease for which the upfront land premium was paid.
 
 (3) Subsection (2) shall apply, with the necessary modifications, to any subsequent assignment of the remaining term of the designated lease.
 
@@ -6237,11 +6235,11 @@ RATES OF TAX
 
 where A
 
-is the tax chargeable on the chargeable income of the person for the year of assessment calculated in accordance with section 43(6) as if the person is a company; and
+A is the tax chargeable on the chargeable income of the person for the year of assessment calculated in accordance with section 43(6) as if the person is a company; and
 
 B
 
-is the chargeable income of the person for the year of assessment.
+B is the chargeable income of the person for the year of assessment.
 
 (6) There shall be levied and paid for each year of assessment upon the following income derived by a body of persons at the rate of 10%:
 
@@ -6274,6 +6272,8 @@ where 50% or more of the issue of those securities is beneficially held or funde
 42A\.—(1) Where an individual resident in Singapore in the year of assessment has a legitimate second child of the family born to him on or after 1st January 1990, there shall, in respect of that child, be allowed for the year of assessment immediately following the year of birth of that child a rebate of —
 
 (a) $20,000 if at the time of birth the mother is married or widowed and is below 28 years of age;
+
+[24/2001]
 
 (b) $15,000 if at the time of birth the mother is married or widowed and is below 29 years of age;
 
@@ -8755,9 +8755,7 @@ Cap. 36.
 
 Cap. 127.
 
-10. Institute of Certified Public Accountants of Singapore
-
-Cap. 2.
+10.Deleted by Act 4/2004, wef 01/04/2004.
 
 11. Institute of Technical Education, Singapore
 
@@ -10083,6 +10081,12 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 27/2005 published on 20 September 2005)|
 ||Date of Second and Third Readings|18 October 2005|
 ||Date of commencement|27 February 2004 (Sections 13, 31(a))|
+|180.|**Act 4 of 2004—Accountants Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|5 January 2004|
+|||(Bill No. 2/2004 published on 6 January 2004)|
+||Date of Second and Third Readings|6 February 2004|
+||Date of commencement|1 April 2004|
 ## COMPARATIVE TABLE
 
 Income Tax Act
