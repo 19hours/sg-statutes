@@ -1694,3 +1694,5 @@ This Legislative History is provided for the convenience of users of the Drug Tr
 ||Referred to Select Committee|Parl 1 of 1995 presented to Parliament on 7 March 1995|
 ||Date of Third Reading|23 March 1995|
 ||Date of commencement|15 July 1995|
+|5.|**G. N. No. S 92/1997—Revised Edition of the Laws (Rectification) Order 1997**|
+||Date of commencement|14 March 1997|
