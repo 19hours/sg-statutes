@@ -20,7 +20,7 @@
 
 - [6 (Repealed)](#Repealed)
 
-- [7 Government or Director-General not liable for loss or damage](#Government-or-Director-General-not-liable-for-loss-or-damage)
+- [7 Authority not liable for loss or damage](#Authority-not-liable-for-loss-or-damage)
 
 - [8 Rules](#Rules)
 
@@ -44,7 +44,7 @@
 
 - [17 Service of summons, etc.](#Service-of-summons-etc)
 
-- [17A Obstruction of Director-General, Superintendent, etc.](#Obstruction-of-Director-General-Superintendent-etc)
+- [17A Obstruction of Authority, Superintendent, etc.](#Obstruction-of-Authority-Superintendent-etc)
 
 - [18 Payment of charges](#Payment-of-charges)
 
@@ -74,7 +74,11 @@ An Act relating to parking places.
 
 2\. In this Act, unless the context otherwise requires —
 
-“Director-General” means the Director-General of Public Works;
+“Authority” means the Land Transport Authority of Singapore established under the Land Transport Authority of Singapore Act 1995;
+
+[Act 28 of 1995 wef 01/09/1995]
+
+[Deleted by Act 28 of 1995 wef 01/09/1995]
 
 “driver” includes the person for the time being in charge or control of a vehicle, and “drive” shall be construed accordingly;
 
@@ -126,13 +130,13 @@ but does not include any parking place provided under section 3;
 
 ### Administration of this Act
 
-2A\.—(1) The Director-General shall be charged with the general administration of this Act and shall exercise the powers conferred and perform the duties imposed upon him by this Act.
+2A\.—(1) The Authority shall be responsible for the general administration of this Act.
 
-[6/91]
+(2) The Authority shall appoint one of its officers as the Superintendent of Car Parks who shall carry out such duties as may be assigned to him by the Authority under this Act and any rules made thereunder.
 
-(2) The Director-General shall appoint a public officer as the Superintendent of Car Parks who shall carry out such duties as may be assigned to him by the Director-General under this Act and any rules made thereunder.
+(3) The Authority may appoint public officers and officers employed by other statutory bodies as Deputy Superintendents and Assistant Superintendents of Car Parks for the purposes of this Act.
 
-(3) The Director-General may appoint public officers and officers employed by a statutory body as Deputy Superintendents and Assistant Superintendents of Car Parks for the purposes of this Act.
+[Act 28 of 1995 wef 01/09/1995]
 
 ### Minister may provide parking places
 
@@ -170,11 +174,11 @@ Provided that no such order shall authorise the use of any part of a road so as 
 
 6\. [Repealed by Act 6/91]
 
-### Government or Director-General not liable for loss or damage
+### Authority not liable for loss or damage
 
-7\. The exercise by the Minister of his powers under this Act with respect to the use as a parking place or otherwise of any part of a road or any other place shall not render the Government or the Director-General subject to any liability in respect of loss of or damage to any vehicle or the fittings or contents of any vehicle parked in such parking place or otherwise or to any liability in respect of any injury or death suffered by any person in such parking place or otherwise.
+7\. The exercise by the Authority of its powers under this Act with respect to the use as a parking place or otherwise of any part of a road or any other place shall not render the Government or the Authority subject to any liability in respect of loss or damage to any vehicle or the fittings or contents of any vehicle parked in such parking place or otherwise or to any liability in respect of any injury or death suffered by any person in such parking place or otherwise.
 
-[6/91]
+[Act 28 of 1995 wef 01/09/1995]
 
 ### Rules
 
@@ -183,6 +187,10 @@ Provided that no such order shall authorise the use of any part of a road so as 
 (a) as to the use of parking places and private parking places and in particular as to the vehicles or class of vehicles which are entitled to use any such parking places and private parking places and as to the conditions upon and the times during which the parking places and private parking places may be used;
 
 [Act 34 of 1993 wef 01/04/1994]
+
+(aa) as to the number of parking places and spaces therein for vehicles to park in to be provided on any class of land or buildings, the minimum dimensions and area of such parking places and spaces therein and the arrangement of such spaces, and the conditions (including the payment of moneys or giving of security to the Authority) under which a waiver of these requirements relating to parking places may be granted by the Authority;
+
+[Act 28 of 1995 wef 01/09/1995]
 
 (b) for the control, regulation or supervision by registration, licensing or otherwise of private parking places, garages and places kept or used for the housing or parking of vehicles except garages or places used in connection with private dwelling-houses for housing or parking vehicles kept for private use only; and
 
@@ -212,7 +220,9 @@ Provided that no such order shall authorise the use of any part of a road so as 
 
 ### Parking places to be indicated by traffic signs
 
-11\.—(1) When the Minister authorises the use as a parking place of any part of a road, he shall cause the parking place to be indicated by means of traffic signs.
+11\.—(1) When the Authority authorises the use as a parking place of any part of a road, it shall cause the parking place to be indicated by means of traffic signs.
+
+[Act 28 of 1995 wef 01/09/1995]
 
 (2) In this section, “traffic signs” shall have the meaning assigned to it by section 119 of the Road Traffic Act.
 
@@ -316,9 +326,13 @@ shall be guilty of an offence.
 
 (6) Where any vehicle which has been removed and detained by the Superintendent or to which an immobilisation device has been fixed in accordance with this section is not claimed by its owner within one month of the date of its detention or immobilisation, the Superintendent may, after giving one month’s notice in theGazetteof his intention to do so, sell the vehicle by public auction or otherwise dispose of it in any manner as he thinks fit.
 
-(7) Where a vehicle has been sold or otherwise disposed of under subsection (6), the proceeds of the sale or disposal of the vehicle shall be applied in payment of any expenses incurred in carrying out the provisions of this section and thereafter shall be applied in payment of all charges and fines payable under this Act and any rules made thereunder and the surplus, if any, shall be paid to the owner of the vehicle, or if not claimed by the owner of the vehicle within 12 months of the date of the sale or disposal, shall be forfeited to the Director-General.
+(7) Where a vehicle has been sold or otherwise disposed of under subsection (6), the proceeds of the sale or disposal of the vehicle shall be applied in payment of any expenses incurred in carrying out the provisions of this section and thereafter shall be applied in payment of all charges and fines payable under this Act and any rules made thereunder and the surplus, if any, shall be paid to the owner of the vehicle, or if not claimed by the owner of the vehicle within 12 months of the date of the sale or disposal, shall be forfeited to the Authority.
 
-(8) The Director-General or the Superintendent shall not be liable for any damage to or loss of the vehicle or the contents thereof not caused wilfully or negligently by the Director-General or the Superintendent or any of his employees or agents in the exercise of their powers under this section.
+[Act 28 of 1995 wef 01/09/1995]
+
+(8) The Authority or the Superintendent shall not be liable for any damage to or loss of the vehicle or the contents thereof not caused wilfully or negligently by the Authority or the Superintendent or any of its or his employees or agents in the exercise of their powers under this section.
+
+[Act 28 of 1995 wef 01/09/1995]
 
 (9) In this section, “immobilisation device” means any device or appliance designed or adapted to be fixed to any part of a vehicle for the purpose of preventing the vehicle from being driven or otherwise put in motion, being a device or appliance of a type approved by the Superintendent for use for that purpose in accordance with this section.
 
@@ -354,11 +368,13 @@ shall be guilty of an offence.
 
 (4) Where any such notice, order or document requires authentication, the signature or a facsimile thereof of the Superintendent or any officer duly authorised by the Superintendent affixed thereto shall be sufficient authentication.
 
-### Obstruction of Director-General, Superintendent, etc.
+### Obstruction of Authority, Superintendent, etc.
 
-17A\. Any person who obstructs or hinders the Director-General, the Superintendent or any person acting in the discharge of his duty under this Act or any rules made thereunder shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both.
+17A\. Any person who obstructs or hinders the Authority, the Superintendent or any person acting in the discharge of his duty under this Act or any rules made thereunder shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both.
 
 [6/91]
+
+[Act 28 of 1995 wef 01/09/1995]
 
 ### Payment of charges
 
@@ -406,3 +422,9 @@ This Legislative History is provided for the convenience of users of the Parking
 |||(Bill No. 28/93 published on 31 August 1993)|
 ||Date of Second and Third Readings|12 October 1993|
 ||Date of commencement|1 January 1994|
+|7.|**Act 28 of 1995—Land Transport Authority of Singapore Act 1995**|
+||(Amendments made to Act by)||
+||Date of First Reading|7 July 1995|
+|||(Bill No. 24/95 published on 8 July 1995)|
+||Date of Second and Third Readings|7 August 1995|
+||Date of commencement|1 September 1995|
