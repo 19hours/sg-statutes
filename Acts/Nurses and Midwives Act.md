@@ -1,16 +1,14 @@
-**Nurses and Midwives Act 1999**
+**Nurses and Midwives Act**
 
-**(No. 46 of 1999)**
+**(CHAPTER 209)**
 
 **Table of Contents**
 
 [**Long Title**](#Nurses-and-Midwives-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -108,67 +106,43 @@
 
 - [44 Power of Board to make regulations](#Power-of-Board-to-make-regulations)
 
-[**Part VII REPEAL, TRANSITIONAL PROVISIONS AND CONSEQUENTIAL AMENDMENTS**](#Part-VII)
+[**Part VII TRANSITIONAL PROVISIONS**](#Part-VII)
 
 - [45 Interpretation of this Part](#Interpretation-of-this-Part)
 
-- [46 Repeal](#Repeal)
+- [46 Persons registered and enrolled under repealed Act](#Persons-registered-and-enrolled-under-repealed-Act)
 
-- [47 Persons registered and enrolled under repealed Act](#Persons-registered-and-enrolled-under-repealed-Act)
+- [47 Saving of certificates](#Saving-of-certificates)
 
-- [48 Saving of certificates](#Saving-of-certificates)
+- [48 Pending disciplinary proceedings](#Pending-disciplinary-proceedings)
 
-- [49 Pending disciplinary proceedings](#Pending-disciplinary-proceedings)
+- [49 Further transitional provisions](#Further-transitional-provisions)
 
-- [50 Further transitional provisions](#Further-transitional-provisions)
+[**Legislative History**](#Legislative-History)
 
-- [51 Consequential amendments to other written laws](#Consequential-amendments-to-other-written-laws)
+[**Comparative Table**](#Comparative-Table)
 
-[**THE SCHEDULE**](#THE-SCHEDULE)
+# Nurses and Midwives Act
 
-REPUBLIC OF SINGAPORE
+(CHAPTER 209)
 
-GOVERNMENT GAZETTE
+(Original Enactment: Act 46 of 1999)
 
-ACTS SUPPLEMENT
+REVISED EDITION 2000
 
-Published by Authority
+(30th December 2000)
 
-NO. 42]
+An Act to establish the Singapore Nursing Board, to provide for the registration and enrolment of nurses and the registration of midwives and for matters connected therewith.
 
-Friday, December 17
-
-[1999
-
-The following Act was passed by Parliament on 24th November 1999 and assented to by the President on 30th November 1999:—
-
-Nurses and Midwives Act 1999
-
-(No. 46 of 1999)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-30th November 1999.
-
-Date of Commencement: 1st May 2000
-
-An Act to establish the Singapore Nursing Board, to provide for the registration and enrolment of nurses and the registration of midwives and for matters connected therewith, to repeal the Nurses and Midwives Act (Chapter 209 of the 1985 Revised Edition) and to make consequential amendments to certain other written laws.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st May 2000]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\.—(1) This Act may be cited as the Nurses and Midwives Act 1999 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
-
-(2) The Minister may appoint different dates for the coming into operation of the different Parts or provisions of this Act.
+1\. This Act may be cited as the Nurses and Midwives Act.
 
 ### Interpretation
 
@@ -188,7 +162,7 @@ PRELIMINARY
 
 “enrolled” means enrolled under section 14, 15 or 16, and “enrol”, “enrolling” and “enrolment” have corresponding meanings;
 
-“enrolled nurse” means a person who is enrolled as an enrolled nurse, and includes a person who is deemed to be enrolled as an enrolled nurse under section 47(2);
+“enrolled nurse” means a person who is enrolled as an enrolled nurse, and includes a person who is deemed to be enrolled as an enrolled nurse under section 46(2);
 
 “medical practitioner” means a person registered under the Medical Registration Act (Cap. 174);
 
@@ -200,9 +174,9 @@ PRELIMINARY
 
 “registered” means registered under section 14, 15 or 16, and “register”, “registering” and “registration” have corresponding meanings;
 
-“registered midwife” means a person who is registered as a registered midwife, and includes a person who is deemed to be registered as a registered midwife under section 47(3);
+“registered midwife” means a person who is registered as a registered midwife, and includes a person who is deemed to be registered as a registered midwife under section 46(3);
 
-“registered nurse” means a person who is registered as a registered nurse, and includes a person who is deemed to be registered as a registered nurse under section 47(1);
+“registered nurse” means a person who is registered as a registered nurse, and includes a person who is deemed to be registered as a registered nurse under section 46(1);
 
 “Registrar” means the Registrar of the Board appointed under section 12;
 
@@ -244,7 +218,7 @@ SINGAPORE NURSING BOARD
 
 (c) has been convicted in Singapore or elsewhere of an offence involving dishonesty, fraud or moral turpitude;
 
-(d) is unable to satisfactorily carry out the duties of his office due to a mental or physical disability; or
+(d) is unable to satisfactorily carry out the duties of his office because of a mental or physical disability; or
 
 (e) is absent without leave of the Board from 3 consecutive meetings of the Board or any of its committees.
 
@@ -298,7 +272,7 @@ SINGAPORE NURSING BOARD
 
 (iii) the institutions in Singapore offering any of these courses;
 
-(d) to regulate standards for the training and education of registered nurses, enrolled nurses and registered midwives;
+(d) to regulate standards for the training and education of registered nurses, enrolled nurses and registered midwives ;
 
 (e) to regulate the standards and scope of practice of registered nurses, enrolled nurses and registered midwives;
 
@@ -322,7 +296,7 @@ SINGAPORE NURSING BOARD
 
 (5) The Board may continue to exercise any power conferred upon it or perform any function under this Act notwithstanding the delegation of such power or function under this section.
 
-(6) This section does not apply to a Complaints Committee.
+(6) This section shall not apply to a Complaints Committee.
 
 ### Payment of members of Board and of committees
 
@@ -346,7 +320,7 @@ REGISTRATION AND ENROLMENT
 
 ### Register and Roll
 
-13\.—(1) Registrar shall keep and maintain —
+13\.—(1) The Registrar shall keep and maintain —
 
 (a) a register to be called the Register of Nurses which shall consist of such parts as the Board may determine;
 
@@ -498,7 +472,7 @@ may be registered as a registered midwife.
 
 (a) has obtained his registration or enrolment fraudulently or by an incorrect statement;
 
-(b) has contravened or failed to comply with any condition imposed on him under section 17(2) or subsection (2)(b) or (7), or to which he is subject by virtue of section 47(4);
+(b) has contravened or failed to comply with any condition imposed on him under section 17(2) or subsection (2)(b) or (7), or to which he is subject by virtue of section 46(4);
 
 (c) has had his registration or enrolment as a nurse, or his registration as a midwife, as the case may be, in a country outside Singapore suspended or cancelled;
 
@@ -546,7 +520,7 @@ the Board may take any action under this section in relation to both his registr
 
 (a) has obtained his registration or enrolment fraudulently or by an incorrect statement;
 
-(b) has contravened or failed to comply with any condition imposed on him under section 17(2) or 19(2) or (7), or to which he is subject by virtue of section 47(4);
+(b) has contravened or failed to comply with any condition imposed on him under section 17(2) or 19(2) or (7), or to which he is subject by virtue of section 46(4);
 
 (c) has been convicted of an offence in or outside Singapore which in the opinion of the Board renders him unfit to remain on the Register or the Roll;
 
@@ -808,7 +782,7 @@ MISCELLANEOUS
 
 (2) In any case relating to the commission of an offence under this Act or any regulations made thereunder, an inspector shall have the power to do all or any of the following:
 
-(a) to require any person who the inspector has reason to believe has any article, document or information relevant to the carrying out of the provisions of this Act or the regulations made thereunder, to produce any such article or document, or give such information, and to retain such article or document, or make copies of such document;
+(a) to require any person who the inspector has reason to believe has any article, document or information relevant to the carrying out of the provisions of this Act or the regulations made thereunder, to produce any such article or document, or give such information, and to retain such article or document, or make copies of such article or document;
 
 (b) to examine orally any person supposed to be acquainted with the facts and circumstances relevant to the carrying out of the provisions of this Act or the regulations made thereunder, and to reduce into writing the answer given or statement made by that person who shall be bound to state truly the facts and circumstances with which he is acquainted, and the statement made by that person shall be read over to him and shall, after correction, be signed by him;
 
@@ -832,7 +806,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (a) the conviction of a registered nurse, enrolled nurse or registered midwife of an offence which renders him unfit to remain on the Register or Roll;
 
-(b) any misconduct, or negligence, of a registered nurse, enrolled nurse or registered midwife which renders him unfit to remain on the Register or Roll;
+(b) any misconduct, or negligence, of a registered nurse, enrolled nurse or registered midwife which renders him unfit to remain on the Register or Roll; or
 
 (c) the physical or mental fitness of a registered nurse, enrolled nurse or registered midwife to perform his functions.
 
@@ -846,7 +820,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (6) A Complaints Committee shall, within 3 months from the date a complaint or matter is referred to it or such further period as the Board may grant, complete its investigation on the complaint or matter and report its findings and recommendation to the Board.
 
-(7) A member of the Board who is a member of a Complaints Committee investigating any complaint or matter against a registered nurse, enrolled nurse or registered midwife shall not take part in any deliberation by the Board under section 19.
+(7) A member of the Board who is a member of a Complaints Committee investigating any complaint or matter against a registered nurse, enrolled nurse or registered midwife shall not take part in any deliberation of the Board under section 19.
 
 ### Powers of Complaints Committees to require attendance of witnesses, etc.
 
@@ -878,9 +852,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 40\. Any notice, order or document required or authorised to be served or given under this Act or any regulations made thereunder shall be deemed to be sufficiently served or given —
 
-(a) by delivering a copy thereof personally or by leaving it with some adult person at the last known place of residence or business of the person on whom it is to be served or given; or
+(a) by delivering a copy thereof personally or by leaving it with some adult person at the last known place of residence or place of business of the person on whom it is to be served or given; or
 
-(b) by sending it by registered post addressed to the person on whom it is to be served or given at his last known place of residence or business.
+(b) by sending it by registered post addressed to the person on whom it is to be served or given at his last known place of residence or place of business.
 
 ### Where Board member is in public service
 
@@ -914,7 +888,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (c) regulate the alteration or correction of the Register and Roll;
 
-(d) regulate the renewal of registration under section 16(3);
+(d) regulate the renewal of temporary registration or enrolment under section 16(3);
 
 (e) regulate the issue of practising certificates;
 
@@ -936,45 +910,39 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ## PART VII
 
-REPEAL, TRANSITIONAL PROVISIONS AND CONSEQUENTIAL AMENDMENTS
+TRANSITIONAL PROVISIONS
 
 ### Interpretation of this Part
 
 45\. In this Part —
 
-“appointed day” means the date of commencement of this Act;
-
 “previous Board” means the Singapore Nursing Board established under section 3 of the repealed Act;
 
-“previous Regulations” means the Nurses and Midwives Regulations (Cap. 209, Rg 1);
+“previous Regulations” means the Nurses and Midwives Regulations (Cap. 209, Rg 1 (1990 Ed.));
 
 “register of midwives” means the register of midwives maintained in pursuance of the repealed Act;
 
 “register of nurses” means the register of nurses maintained in pursuance of the repealed Act;
 
-“repealed Act” means the Nurses and Midwives Act (Cap. 209) repealed by section 46;
+“repealed Act” means the Nurses and Midwives Act (Cap. 209, 1985 Ed.);
 
 “roll of nurses” means the roll of nurses maintained in pursuance of the repealed Act.
 
-### Repeal
-
-46\. The Nurses and Midwives Act (Cap. 209) is repealed.
-
 ### Persons registered and enrolled under repealed Act
 
-47\.—(1) Every person who is a registered nurse under the repealed Act immediately before the appointed day shall —
+46\.—(1) Every person who is a registered nurse under the repealed Act immediately before 1st May 2000 shall —
 
 (a) if he was admitted to the register of nurses by virtue of regulation 10 of the previous Regulations, be deemed to be registered under section 16 as a registered nurse for such period as may be determined by the Board; or
 
 (b) in any other case, be deemed to be registered under section 14 as a registered nurse.
 
-(2) Every person who is an enrolled nurse under the repealed Act immediately before the appointed day shall —
+(2) Every person who is an enrolled nurse under the repealed Act immediately before 1st May 2000 shall —
 
 (a) if he was admitted to the roll of nurses by virtue of regulation 10 of the previous Regulations, be deemed to be enrolled under section 16 as an enrolled nurse for such period as may be determined by the Board; or
 
 (b) in any other case, be deemed to be enrolled under section 14 as an enrolled nurse.
 
-(3) Every person who is a registered midwife under the repealed Act immediately before the appointed day shall —
+(3) Every person who is a registered midwife under the repealed Act immediately before 1st May 2000 shall —
 
 (a) if he was admitted to the register of midwives by virtue of regulation 10 of the previous Regulations, be deemed to be registered as a registered midwife under section 16 for such period as may be determined by the Board; or
 
@@ -994,78 +962,82 @@ REPEAL, TRANSITIONAL PROVISIONS AND CONSEQUENTIAL AMENDMENTS
 
 (7) Section 23 shall apply, with the necessary modifications, to any person whose name was removed from the register of nurses, the roll of nurses or the register of midwives.
 
+[47
+
 ### Saving of certificates
 
-48\. Any certificate granted under regulation 11 of the previous Regulations to a person upon his registration or enrolment under the repealed Act shall be deemed to be a certificate of registration or certificate of enrolment, as the case may be.
+47\. Any certificate granted under regulation 11 of the previous Regulations to a person upon his registration or enrolment under the repealed Act shall be deemed to be a certificate of registration or certificate of enrolment, as the case may be.
+
+[48
 
 ### Pending disciplinary proceedings
 
-49\.—(1) This Act and the regulations made thereunder shall not apply to any proceedings of a disciplinary nature commenced before the appointed day, and the repealed Act and the previous Regulations shall continue to apply to those proceedings.
+48\.—(1) This Act and the regulations made thereunder shall not apply to any proceedings of a disciplinary nature commenced before 1st May 2000, and the repealed Act and the previous Regulations shall continue to apply to those proceedings.
 
 (2) For the purposes of subsection (1), the previous Board shall continue to exist to complete its hearing of those proceedings and make such order or decision as it could have made under the repealed Act and the previous Regulations.
 
 (3) Any order or decision made by the previous Board under subsection (2) shall be treated as an order or decision of the Board and have the same force and effect as if it had been made by the Board under section 19.
 
+[49
+
 ### Further transitional provisions
 
-50\. The Minister may by regulations make such further transitional provisions as he may consider necessary or expedient.
+49\. The Minister may by regulations make such further transitional provisions as he may consider necessary or expedient.
 
-### Consequential amendments to other written laws
+[50
 
-51\. The provisions of the written laws specified in the first column of the Schedule are amended in the manner set out in the second column thereof.
+## LEGISLATIVE HISTORY
 
-## THE SCHEDULE
+Nurses and Midwives Act
 
-First column
+(CHAPTER 209)
 
-Second column
+This Legislative History is provided for the convenience of users of the Nurses and Midwives Act. It is not part of this Act.
 
-(1) Infectious Diseases Act
+||||
+|:-|:-|:-|
+|1.|**Act 46 of 1999—Nurses and Midwives Act 1999**|
+||Date of First Reading|11 October 1999|
+|||(Bill No. 38/1999)|
+||Date of Second and Third Readings|24 November 1999|
+||Date of commencement|1 May 2000|
+Note:
 
+The Nurses and Midwives Act 1999 repealed the Nurses and Midwives Act (Chapter 209, 1985 Revised Edition).
 
+|2.|**2000 Revised Edition—Nurses and Midwives Act (Chapter 209)**|
+||Date of operation|30 December 2000|
+## COMPARATIVE TABLE
 
+Nurses and Midwives Act
 
-(Chapter 137, 1985 Ed.)
+(CHAPTER 209)
 
-Delete the definition of “nurse” in section 2 and substitute the following definition:
+The following provisions in the Nurses and Midwives Act 1999 (Act 46 of 1999) have been renumbered by the Law Revision Commissioners in this 2000 Revised Edition.
 
-“
+This Comparative Table is provided for the convenience of users. It is not part of the Nurses and Midwives Act.
 
-“nurse” means a registered nurse or enrolled nurse within the meaning of the Nurses and Midwives Act 1999;
+2000 Ed\. 
 
-”.
+Act 46 of 1999 
 
-(2) Medicines Act
+Omitted
 
+46 
 
+46 
 
+47 
 
-(Chapter 176, 1985 Ed.)
+47 
 
-(a) Delete the definition of “midwife” in section 2(1) and substitute the following definition:
+48 
 
-“
+48 
 
-“midwife” means a registered midwife within the meaning of the Nurses and Midwives Act 1999;
+49 
 
-”.
+49 
 
-(b) Delete the definition of “nurse” in section 2(1) and substitute the following definition:
-
-“
-
-“nurse” means a registered nurse or enrolled nurse within the meaning of the Nurses and Midwives Act 1999;
-
-”.
-
-(3) Registration of Births and Deaths Act
-
-
-
-
-(Chapter 267, 1985 Ed.)
-
-(a) Delete the words “midwife registered under the Nurses and Midwives Act” in the 4th and 5th lines of section 14(a) and substitute the words “registered midwife within the meaning of the Nurses and Midwives Act 1999”.
-
-(b) Delete the marginal reference “Cap. 209.” in section 14(a).
+50 
 
