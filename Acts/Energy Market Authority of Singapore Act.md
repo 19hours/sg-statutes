@@ -38,6 +38,8 @@
 
 - [12 Power to borrow](#Power-to-borrow)
 
+- [12A Issue of shares, etc.](#Issue-of-shares-etc)
+
 - [13 Duty of Authority in financial matters](#Duty-of-Authority-in-financial-matters)
 
 - [14 Annual estimates](#Annual-estimates)
@@ -307,6 +309,12 @@ the Minister may, after consultation with the Authority, give such directions to
 ### Power to borrow
 
 12\. The Authority may, with the approval of the Minister, raise capital from banks and other financial institutions whether in Singapore or elsewhere by way of mortgage, overdraft or otherwise, with or without security, as it may require for the discharge of its functions under this Act.
+
+### Issue of shares, etc.
+
+12A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Authority under this Act, or of any capital injection or other investment by the Government in the Authority in accordance with any written law, the Authority shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
+
+[5/2002 wef 15/07/2002]
 
 ### Duty of Authority in financial matters
 
