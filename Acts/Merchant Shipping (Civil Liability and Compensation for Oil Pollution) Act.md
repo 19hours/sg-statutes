@@ -134,6 +134,8 @@ President.
 
 Date of Commencement: 18th September 1998 Parts I, II and IV
 
+Date of Commencement: 31st December 1998 Part III
+
 An Act to give effect to the International Convention on Civil Liability for Oil Pollution Damage 1992 and to the International Convention on the Establishment of an International Fund for Compensation for Oil Pollution Damage 1992, to repeal the Merchant Shipping (Oil Pollution) Act (Cap.180 of the 1985 Revised Edition) and to make consequential amendments to other written law, and to make provisions generally for matters connected therewith.
 
 Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
