@@ -472,7 +472,7 @@ Consultant Organisations
 
 84A. The Photographic Society of Singapore.
 
-84B. The Singapore Softball Association.
+84B. The Singapore Baseball and Softball Association.
 
 85. Volleyball Association of Singapore.
 
@@ -604,3 +604,5 @@ This Legislative History is provided for the convenience of users of the People�
 ||Date of commencement|14 June 1999|
 |42.|**G.N. No. S 477/99—People’s Association Act (Amendment of First Schedule) (No. 3) Notification 1999**|
 ||Date of commencement|1 November 1999|
+|43.|**G.N. No. S 240/2000—People’s Association Act (Amendment of First Schedule) Notification 2000**|
+||Date of commencement|10 May 2000|
