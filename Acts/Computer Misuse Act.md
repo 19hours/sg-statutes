@@ -1,16 +1,14 @@
-**Computer Misuse Act 1993**
+**Computer Misuse Act**
 
-**(No. 19 of 1993)**
+**(CHAPTER 50A)**
 
 **Table of Contents**
 
 [**Long Title**](#Computer-Misuse-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -18,7 +16,7 @@
 
 - [3 Unauthorised access to computer material](#Unauthorised-access-to-computer-material)
 
-- [4 Unauthorised access with intent to commit or facilitate commission of further offences](#Unauthorised-access-with-intent-to-commit-or-facilitate-commission-of-further-offences)
+- [4 Unauthorised access with intent to commit offences](#Unauthorised-access-with-intent-to-commit-offences)
 
 - [5 Unauthorised modification of computer material](#Unauthorised-modification-of-computer-material)
 
@@ -44,47 +42,29 @@
 
 - [15 Arrest by police without warrant](#Arrest-by-police-without-warrant)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Computer Misuse Act
 
-ACTS SUPPLEMENT
+(CHAPTER 50A)
 
-Published by Authority
+(Original Enactment: Act 19 of 1993)
 
-NO. 23]
+REVISED EDITION 1994
 
-Friday, August 27
-
-[1993
-
-The following Act was passed by Parliament on 28th May 1993 and assented to by the President on 9th July 1993:—
-
-Computer Misuse Act 1993
-
-(No. 19 of 1993)
-
-I assent.
-
-WEE KIM WEE
-
-President.
-
-9th July 1993.
-
-Date of Commencement: 30th August 1993
+(15th March 1994)
 
 An Act to make provision for securing computer material against unauthorised access or modification and for matters related thereto.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[30th August 1993]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Computer Misuse Act 1993 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Computer Misuse Act.
 
 ### Interpretation
 
@@ -144,7 +124,9 @@ and references to access to a program or data (and to an intent to secure such a
 
 (b) any program or data is added to its contents; or
 
-(c) any act which impairs the normal operation of any computer,
+(c) any act occurs which impairs the normal operation of any computer,
+
+[S 92/97]
 
 and any act which contributes towards causing such a modification shall be regarded as causing it.
 
@@ -162,7 +144,7 @@ OFFENCES
 
 ### Unauthorised access to computer material
 
-3\.—(1) Subject to subsection (2), any person who knowingly causes a computer to perform any function for the purpose of securing access without authority to any program or data held in any computer shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 2 years or to both.
+3\.—(1) Subject to subsection (2), any person who knowingly causes a computer to perform any function for the purpose of securing access without authority to any program or data held in any computer shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 2 years or to both .
 
 (2) If any damage caused by an offence under this section exceeds $10,000, a person convicted of the offence shall be liable to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 5 years or to both.
 
@@ -174,13 +156,15 @@ OFFENCES
 
 (c) a program or data held in any particular computer.
 
-### Unauthorised access with intent to commit or facilitate commission of further offences
+### Unauthorised access with intent to commit offences
 
 4\.—(1) Any person who causes a computer to perform any function for the purpose of securing access without authority to any program or data held in any computer with intent to commit an offence to which this section applies shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 10 years or to both.
 
 (2) This section shall apply to offences involving property, fraud, dishonesty or which causes bodily harm punishable on conviction with imprisonment for a term of 2 years or more.
 
 (3) For the purposes of this section, it is immaterial whether the offence to which this section applies is to be committed at the same time when the unauthorised access is secured or on any future occasion.
+
+[S 92/97]
 
 ### Unauthorised modification of computer material
 
@@ -242,7 +226,7 @@ MISCELLANEOUS AND GENERAL
 
 ### Jurisdiction of Courts
 
-9\. A District Court or a Magistrate’s Court shall have jurisdiction to hear and determine all offences under this Act and, notwithstanding anything to the contrary in the Criminal Procedure Code (Cap. 68), shall have power to impose the full penalty or punishment in respect of any offence under this Act.
+9\. A District Court or a Magistrate’s Court shall have jurisdiction to hear and determine all offences under this Act and, notwithstanding anything to the contrary in the Criminal Procedure Code, shall have power to impose the full penalty or punishment in respect of any offence under this Act.
 
 ### Order for payment of compensation
 
@@ -254,7 +238,7 @@ MISCELLANEOUS AND GENERAL
 
 ### Evidence from computer records
 
-11\.—(1) Notwithstanding sections 35 and 36 of the Evidence Act (Cap. 97), in any proceedings under this Act, any relevant computer output shall be admissible as evidence of any fact stated therein if it is shown —
+11\.—(1) Notwithstanding sections 35 and 36 of the Evidence Act [Cap. 97], in any proceedings under this Act, any relevant computer output shall be admissible as evidence of any fact stated therein if it is shown —
 
 (a) that there is no reasonable ground for believing that the output is inaccurate because of improper use of the computer and that no reason exists to doubt or suspect the truth or reliability of the output; or
 
@@ -296,7 +280,7 @@ shall be admitted in those proceedings as evidence of anything stated in the cer
 
 ### Proof by document or copy thereof
 
-13\. Notwithstanding the provisions of the Evidence Act (Cap. 97), where in any proceedings any computer output is admissible in evidence in accordance with section 11, it may be proved —
+13\. Notwithstanding the provisions of the Evidence Act [Cap. 97], where in any proceedings any computer output is admissible in evidence in accordance with section 11, it may be proved —
 
 (a) by the production of that computer output; or
 
@@ -306,7 +290,7 @@ authenticated in such manner as the court may approve.
 
 ### Powers of police officer to investigate and require assistance
 
-14\. In connection with the exercise of his powers of investigations under the Criminal Procedure Code (Cap. 68), a police officer —
+14\. In connection with the exercise of his powers of investigations under the Criminal Procedure Code [Cap. 68], a police officer —
 
 (a) shall be entitled at any time to have access to, and inspect and check the operation of, any computer and any associated apparatus or material which he has reasonable cause to suspect is or has been in use in connection with any offence under this Act; and
 
@@ -322,3 +306,21 @@ to provide him with such reasonable assistance as he may require for the purpose
 
 15\. Any police officer may arrest without warrant any person reasonably suspected of committing an offence under this Act.
 
+## LEGISLATIVE HISTORY
+
+Computer Misuse Act
+
+(CHAPTER 50A)
+
+This Legislative History is provided for the convenience of users of the Computer Misuse Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 19 of 1993—Computer Misuse Act 1993**|
+||Date of First Reading|18 March 1993|
+|||(Bill No. 17/93 published on 19 March 1993)|
+||Date of Second and Third Readings|28 May 1993|
+||Date of commencement|30 August 1993|
+|2.|**1994 Revised Edition—Computer Misuse Act**|
+||(G.N. No. S 92/1997 — Rectification Order)||
+||Date of operation|15 March 1994|
