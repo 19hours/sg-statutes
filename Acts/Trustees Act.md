@@ -278,7 +278,7 @@ PRELIMINARY
 
 (a) the surface of any defined parcel of the earth, all substances thereunder and so much of the column of airspace above the surface whether or not held apart from the surface as is reasonably necessary for the proprietor’s use and enjoyment, and includes any estate or interest therein and all vegetation growing thereon and structures affixed thereto; or
 
-(b) any parcel of airspace or any subterranean space held apart from the surface of the earth and described with certainty by reference to a plan approved by the Chief Surveyor and filed in the Survey Department, and includes any estate or interest therein and all vegetation growing thereon and structures affixed thereto;
+(b) any parcel of airspace or any subterranean space held apart from the surface of the earth and described with certainty by reference to a plan approved by the Chief Surveyor and filed with the Singapore Land Authority, and includes any estate or interest therein and all vegetation growing thereon and structures affixed thereto;
 
 [17/2001 wef 01/06/2001]
 
@@ -1858,6 +1858,12 @@ This Legislative History is provided for the convenience of users of the Trustee
 |||(Bill No. 17/2000 published on 23 May 2000)|
 ||Date of Second and Third Readings|3 July 2000|
 ||Date of commencement|1 August 2000|
+|21.|**Act 17 of 2001—Singapore Land Authority Act 2001**|
+||(Consequential amendments made by)||
+||Date of First Reading|5 March 2001|
+|||(Bill No. 17/2001 published on 6 March 2001)|
+||Date of Second and Third Readings|19 April 2001|
+||Date of commencement|1 June 2001|
 ## COMPARATIVE TABLE
 
 Trustees Act
