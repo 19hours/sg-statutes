@@ -44,6 +44,8 @@
 
 - [19 Powers under Criminal Procedure Code not restricted](#Powers-under-Criminal-Procedure-Code-not-restricted)
 
+[**THE SCHEDULE Specified Organisations**](#THE-SCHEDULE)
+
 [**Legislative History**](#Legislative-History)
 
 # Official Secrets Act
@@ -78,9 +80,13 @@ An Act to prevent the disclosure of official documents and information.
 
 “munitions of war” includes the whole or any part of any ship, submarine, aircraft, tank or similar engine, arms and ammunition, bomb, torpedo or mine, intended or adapted for use in war, and any other article, material or device, whether actual or proposed, intended for such use;
 
-“office under the Government” includes any office or employment in or under any department of the Government and, in the event of war, of the government of any ally of Singapore;
+“office under the Government” includes any office or employment in or under any department of the Government or any specified organisation and, in the event of war, of the government of any ally of Singapore;
+
+[27/2001 wef 11/09/2001]
 
 “officer of police” includes any person upon whom the powers of a police officer not below the rank of sergeant are conferred by the Minister under section 18;
+
+[7/97/ wef 01/10/1997]
 
 “photograph” includes a photographic or process negative and any printed or other pictorial representation or drawing produced in whole or in part by photographic means;
 
@@ -98,6 +104,12 @@ An Act to prevent the disclosure of official documents and information.
 
 (f) any area specified in any notice under any written law for the time being in force relating to military manoeuvres or any area declared by proclamation of the Minister under such written law to be a manoeuvring ground or a firing ground, which is declared by order of the Minister to be a prohibited place for the purposes of this section.
 
+[7/97 wef 01/10/1997]
+
+“specified organisation” means any organisation specified in the Schedule.
+
+[27/2001 wef 01/09/2001]
+
 (2) Expressions referring to —
 
 (a) communicating or receiving include any communicating or receiving, whether in whole or in part, and whether the photograph, drawing, plan, model, article, note, document or information itself or the substance, effect or description thereof is communicated or received;
@@ -105,6 +117,10 @@ An Act to prevent the disclosure of official documents and information.
 (b) obtaining or retaining any photograph, drawing, plan, model, article, note or document include the copying or causing to be copied the whole or any part of any photograph, drawing, plan, model, article, note or document; and
 
 (c) the communication of any photograph, drawing, plan, model, article, note or document include the transfer or transmission of the photograph, drawing, plan, model, article, note or document.
+
+(3) The President may, by notification in theGazette, amend the Schedule.
+
+[27/2001 wef 01/09/2001]
 
 ### Penalties for spying
 
@@ -160,7 +176,9 @@ Provided that it shall not be an offence under this section for any person resid
 
 (d) has been entrusted in confidence to him by any person holding office under the Government; or
 
-(e) he has obtained, or to which he has had access, owing to his position as a person who holds or has held office under the Government, or as a person who holds, or has held a contract made on behalf of the Government , or as a person who is or has been employed under a person who holds or has held such an office or contract,
+(e) he has obtained, or to which he has had access, owing to his position as a person who holds or has held office under the Government, or as a person who holds, or has held a contract made on behalf of the Government or any specified organisation, or as a person who is or has been employed under a person who holds or has held such an office or contract,
+
+[27/2001 wef 01/09/2001]
 
 does any of the following:
 
@@ -176,9 +194,13 @@ that person shall be guilty of an offence.
 
 (2) If any person receives any secret official code word, countersign, password, or any photograph, drawing, plan, model, article, note, document or information knowing, or having reasonable ground to believe, at the time when he receives it, that the code word, countersign, password, photograph, drawing, plan, model, article, note, document or information is communicated to him in contravention of this Act, he shall be guilty of an offence unless he proves that the communication to him of the code word, countersign, password, photograph, drawing, plan, model, article, note, document or information was contrary to his desire.
 
-(3) In any proceedings against a person for an offence under this section, where it is proved that that person is or has been in the employment or service of any foreign Power or government in breach of any undertaking which he has made with the Government , he shall be deemed to be in possession or control of such information or thing as is referred to in subsection (1) and to have unlawfully communicated that information to a foreign Power or to have used that information or thing in a manner prejudicial to the safety or interests of Singapore.
+(3) In any proceedings against a person for an offence under this section, where it is proved that that person is or has been in the employment or service of any foreign Power or government in breach of any undertaking which he has made with the Government or any specified organisation, he shall be deemed to be in possession or control of such information or thing as is referred to in subsection (1) and to have unlawfully communicated that information to a foreign Power or to have used that information or thing in a manner prejudicial to the safety or interests of Singapore.
 
-(4) In subsection (3), “undertaking” means any undertaking in writing which a public officer or any other person has made with the Government whereby the officer or person undertakes not to serve or be employed by any foreign Power or government within a specified period after his retirement or resignation from the public service or otherwise unless he has obtained the prior approval of the Government.
+[27/2001 wef 01/09/2001]
+
+(4) In subsection (3), “undertaking” means any undertaking in writing which a public officer or any other person has made with the Government or any specified organisation whereby the officer or person undertakes not to serve or be employed by any foreign Power or government within a specified period after his retirement or resignation from the public service or that specified organisation or otherwise unless he has obtained the prior approval of the Government or that specified organisation.
+
+[27/2001 wef 01/09/2001]
 
 ### Unauthorised use of uniforms, falsification of reports, forgery, personation and false documents
 
@@ -194,13 +216,17 @@ that person shall be guilty of an offence.
 
 (e) personates, or falsely represents himself to be, a person holding or in the employment of a person holding office under the Government, or personates, or falsely represents himself to be or not to be, a person to whom an official document or secret official code word, countersign or password has been duly issued or communicated; or
 
-(f) uses, or has in his possession or under his control, without the authority of the Government department or the authority concerned, any die, key, badge, device, seal or stamp of or belonging to, or used, made or provided by any Government department , or by any diplomatic, naval, military or air force authority appointed by or acting under the authority of the Government , or any key, badge, device, die, seal or stamp so nearly resembling any such articles as aforesaid as to be calculated to deceive, or counterfeits any such articles as aforesaid, or uses, or has in his possession, or under his control, any such counterfeited articles as aforesaid,
+(f) uses, or has in his possession or under his control, without the authority of the Government department or any specified organisation or the authority concerned, any die, key, badge, device, seal or stamp of or belonging to, or used, made or provided by any Government department or any specified organisation, or by any diplomatic, naval, military or air force authority appointed by or acting under the authority of the Government or that specified organisation, or any key, badge, device, die, seal or stamp so nearly resembling any such articles as aforesaid as to be calculated to deceive, or counterfeits any such articles as aforesaid, or uses, or has in his possession, or under his control, any such counterfeited articles as aforesaid,
 
 he shall be guilty of an offence.
 
+[27/2001 wef 01/09/2001]
+
 (2) If any person —
 
-(a) retains for any purpose prejudicial to the safety or interests of Singapore any official document, whether or not completed or issued for use, when he has no right to retain it, or when it is contrary to his duty to retain it, or fails to comply with any directions issued by any Government department or any person authorised by that department with regard to the return or disposal thereof;
+(a) retains for any purpose prejudicial to the safety or interests of Singapore any official document, whether or not completed or issued for use, when he has no right to retain it, or when it is contrary to his duty to retain it, or fails to comply with any directions issued by any Government department or any specified organisation or any person authorised by that department or specified organisation with regard to the return or disposal thereof;
+
+[27/2001 wef 01/09/2001]
 
 (b) allows any other person to have possession of any official document issued for his use alone, or communicates any secret official code word, countersign or password so issued, or, without lawful authority or excuse, has in his possession any official document or secret official code word, countersign or password issued for the use of some person other than himself, or on obtaining possession of any official document by finding or otherwise, neglects or fails to restore it to the person or authority by whom or for whose use it was issued, or to the Deputy Commissioner of Police;
 
@@ -310,7 +336,57 @@ Provided that a person charged with such an offence may be arrested, or a warran
 
 ### Powers under Criminal Procedure Code not restricted
 
-19\. Nothing in this Act shall be deemed to limit or restrict any powers conferred by the Criminal Procedure Code [Cap. 68].
+19\. Nothing in this Act shall be deemed to limit or restrict any powers conferred by the Criminal Procedure Code (Cap. 68)
+
+## THE SCHEDULE
+
+Section 2(1) and (3)
+
+Specified Organisations
+
+(1) Board of Commissioners of Currency, Singapore
+
+(2) Central Provident Fund Board
+
+(3) Civil Aviation Authority of Singapore
+
+(4) Commercial and Industrial Security Corporation
+
+(5) Defence Science and Technology Agency
+
+(6) DSO National Laboratories
+
+(7) Economic Development Board
+
+(8) Energy Market Authority of Singapore
+
+(9) Housing and Development Board
+
+(10) Info-communications Development Authority of Singapore
+
+(11) Inland Revenue Authority of Singapore
+
+(12) Jurong Town Corporation
+
+(13) Land Transport Authority of Singapore
+
+(14) Maritime and Port Authority of Singapore
+
+(15) Monetary Authority of Singapore
+
+(16) National Heritage Board
+
+(17) Public Utilities Board
+
+(18) Singapore Broadcasting Authority
+
+(19) Singapore Land Authority
+
+(20) Trade Development Board
+
+(21) Urban Redevelopment Authority.
+
+[27/2001 wef 01/09/2001]
 
 ## LEGISLATIVE HISTORY
 
@@ -318,7 +394,7 @@ Official Secrets Act
 
 (CHAPTER 213)
 
-This Legislative History is provided for the convenience of users of the Official Secrets Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Official Secrets Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -378,3 +454,8 @@ This Legislative History is provided for the convenience of users of the Officia
 |||(Bill No. 33/99 published on 12 October 1999)|
 ||Date of Second and Third Readings|23 November 1999|
 ||Date of commencement|1 December 1999|
+|16.|**Act 27 of 2001—Official Secrets (Amendment) Act 2001**|
+||Date of First Reading|11 July 2001|
+|||(Bill No. 26/2001 published on 12 July 2001)|
+||Date of Second and Third Readings|25 July 2001|
+||Date of commencement|1 September 2001|
