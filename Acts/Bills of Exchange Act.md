@@ -14,7 +14,7 @@
 
 [**Part II BILLS OF EXCHANGE**](#Part-II)
 
-[**Form and Interpretation**](#Form-and-Interpretation)
+[**Form and interpretation**](#Form-and-interpretation)
 
 - [3 Bill of exchange defined](#Bill-of-exchange-defined)
 
@@ -154,13 +154,13 @@
 
 [**Acceptance and payment for honour**](#Acceptance-and-payment-for-honour)
 
-- [65 Acceptance for honour supra protest](#Acceptance-for-honour-supra-protest)
+- [65 Acceptance for honoursupra protest](#Acceptance-for-honoursupra-protest)
 
 - [66 Liability of acceptor for honour](#Liability-of-acceptor-for-honour)
 
 - [67 Presentment to acceptor for honour](#Presentment-to-acceptor-for-honour)
 
-- [68 Payment for honour supra protest](#Payment-for-honour-supra-protest)
+- [68 Payment for honoursupra protest](#Payment-for-honoursupra-protest)
 
 [**Lost instruments**](#Lost-instruments)
 
@@ -198,67 +198,69 @@
 
 - [81 Effect of "not negotiable" crossing on holder](#Effect-of-"not-negotiable"-crossing-on-holder)
 
-- [81A Non-transferable cheques](#Non-transferable-cheques)
+- [82 Non-transferable cheques](#Non-transferable-cheques)
 
 [**Special provisions relating to indorsement, etc.**](#Special-provisions-relating-to-indorsement-etc)
 
-- [82 Protection of bankers paying unindorsed or irregularly indorsed cheques, etc.](#Protection-of-bankers-paying-unindorsed-or-irregularly-indorsed-cheques-etc)
+- [83 Protection of bankers paying unindorsed or irregularly indorsed cheques, etc.](#Protection-of-bankers-paying-unindorsed-or-irregularly-indorsed-cheques-etc)
 
-- [83 Rights of bankers collecting cheques not indorsed by holders](#Rights-of-bankers-collecting-cheques-not-indorsed-by-holders)
+- [84 Rights of bankers collecting cheques not indorsed by holders](#Rights-of-bankers-collecting-cheques-not-indorsed-by-holders)
 
-- [84 Unindorsed cheques as evidence of payment](#Unindorsed-cheques-as-evidence-of-payment)
+- [85 Unindorsed cheques as evidence of payment](#Unindorsed-cheques-as-evidence-of-payment)
 
-- [85 Protection of bankers collecting payment of cheques, or certain other instruments](#Protection-of-bankers-collecting-payment-of-cheques-or-certain-other-instruments)
+- [86 Protection of bankers collecting payment of cheques, or certain other instruments](#Protection-of-bankers-collecting-payment-of-cheques-or-certain-other-instruments)
 
-- [86 Application of certain provisions to instruments not being bills of exchange](#Application-of-certain-provisions-to-instruments-not-being-bills-of-exchange)
+- [87 Application of certain provisions to instruments not being bills of exchange](#Application-of-certain-provisions-to-instruments-not-being-bills-of-exchange)
 
-- [87 Saving](#Saving)
+- [88 Saving](#Saving)
 
 [**Special provisions relating to cheque truncation**](#Special-provisions-relating-to-cheque-truncation)
 
-- [87A Alternative means of presentment](#Alternative-means-of-presentment)
+- [89 Alternative means of presentment](#Alternative-means-of-presentment)
 
-- [87B Image return document](#Image-return-document)
+- [90 Image return document](#Image-return-document)
 
 [**Regulations relating to cheque truncation**](#Regulations-relating-to-cheque-truncation)
 
-- [87C Regulations](#Regulations)
+- [91 Regulations](#Regulations)
 
 [**Part IV PROMISSORY NOTES**](#Part-IV)
 
-- [88 Promissory note defined](#Promissory-note-defined)
+- [92 Promissory note defined](#Promissory-note-defined)
 
-- [89 Delivery necessary](#Delivery-necessary)
+- [93 Delivery necessary](#Delivery-necessary)
 
-- [90 Joint and several notes](#Joint-and-several-notes)
+- [94 Joint and several notes](#Joint-and-several-notes)
 
-- [91 Note payable on demand](#Note-payable-on-demand)
+- [95 Note payable on demand](#Note-payable-on-demand)
 
-- [92 Presentment of note for payment](#Presentment-of-note-for-payment)
+- [96 Presentment of note for payment](#Presentment-of-note-for-payment)
 
-- [93 Liability of maker](#Liability-of-maker)
+- [97 Liability of maker](#Liability-of-maker)
 
-- [94 Application of Part II to notes](#Application-of-Part-II-to-notes)
+- [98 Application of Part II to notes](#Application-of-Part-II-to-notes)
 
 [**Part V SUPPLEMENTARY**](#Part-V)
 
-- [95 Good faith](#Good-faith)
+- [99 Good faith](#Good-faith)
 
-- [96 Signature](#Signature)
+- [100 Signature](#Signature)
 
-- [97 Computation of time](#Computation-of-time)
+- [101 Computation of time](#Computation-of-time)
 
-- [98 Obligation to do acts relating to bills and notes on Sundays or public holidays](#Obligation-to-do-acts-relating-to-bills-and-notes-on-Sundays-or-public-holidays)
+- [102 Obligation to do acts relating to bills and notes on Sundays or public holidays](#Obligation-to-do-acts-relating-to-bills-and-notes-on-Sundays-or-public-holidays)
 
-- [99 When noting equivalent to protest](#When-noting-equivalent-to-protest)
+- [103 When noting equivalent to protest](#When-noting-equivalent-to-protest)
 
-- [100 Protest when notary not accessible](#Protest-when-notary-not-accessible)
+- [104 Protest when notary not accessible](#Protest-when-notary-not-accessible)
 
-- [101 Dividend warrants and banker’s draft may be crossed](#Dividend-warrants-and-banker’s-draft-may-be-crossed)
+- [105 Dividend warrants and banker’s draft may be crossed](#Dividend-warrants-and-banker’s-draft-may-be-crossed)
 
-- [102 Savings](#Savings)
+- [106 Savings](#Savings)
 
 [**Legislative History**](#Legislative-History)
+
+[**Comparative Table**](#Comparative-Table)
 
 [**Comparative Table**](#Comparative-Table)
 
@@ -266,11 +268,11 @@
 
 (CHAPTER 23)
 
-(Original Enactment: M ORDINANCE 75 of 1949)
+(Original Enactment: M Ordinance 75 of 1949)
 
-REVISED EDITION 1999
+REVISED EDITION 2004
 
-(1st August 1999)
+(31st July 2004)
 
 An Act relating to bills of exchange, cheques and promissory notes.
 
@@ -291,8 +293,6 @@ PRELIMINARY
 “acceptance” means an acceptance completed by delivery or notification;
 
 “Authority” means the Monetary Authority of Singapore established under the Monetary Authority of Singapore Act (Cap. 186);
-
-[22/2002 wef 20/09/2002]
 
 “bank holiday” and “public holiday” respectively include any day declared to be such under any written law for the time being in force and includes any day (other than a Sunday) observed as a weekly holiday;
 
@@ -320,13 +320,13 @@ PRELIMINARY
 
 “value” means valuable consideration.
 
-[11/70]
+[11/70; 22/2002]
 
 ## PART II
 
 BILLS OF EXCHANGE
 
-Form and Interpretation
+Form and interpretation
 
 ### Bill of exchange defined
 
@@ -472,7 +472,7 @@ the bill shall be due and payable on the next succeeding business day;
 
 ### Case of need
 
-15\.—(1) The drawer of a bill and any indoser may insert therein the name of a person to whom the holder may resort in case of need, that is to say, in case the bill is dishonoured by non-acceptance or non-payment.
+15\.—(1) The drawer of a bill and any indorser may insert therein the name of a person to whom the holder may resort in case of need, that is to say, in case the bill is dishonoured by non-acceptance or non-payment.
 
 (2) Such person is called the referee in case of need.
 
@@ -598,9 +598,9 @@ Consideration for a bill
 
 (a) any consideration sufficient to support a simple contract;
 
-(b) in antecedent debt or liability; and such a debt or liability is deemed valuable consideration whether the bill is payable on demand or at a future time.
+(b) an antecedent debt or liability; and such a debt or liability is deemed valuable consideration whether the bill is payable on demand or at a future time.
 
-(2) Where value has at any time been given for a bill the holder is deemed to be a holder for value as regards the acceptor and all parties to the bill who became parties prior to such time.
+(2) Where value has at any time been given for a bill, the holder is deemed to be a holder for value as regards the acceptor and all parties to the bill who became parties prior to such time.
 
 (3) Where the holder of a bill has a lien on it arising either from contract or by implication of law, he is deemed to be a holder for value to the extent of the sum for which he has a lien.
 
@@ -878,37 +878,35 @@ General duties of holder
 
 (f) the return of a dishonoured bill to the drawer or an indorser is, in point of form, deemed a sufficient notice of dishonour;
 
-(fa) where a cheque has been presented in accordance with section 87A, the presentment of an image return document, as defined under section 87B(6), to the drawer or an indorser is, in point of form, deemed a sufficient notice of dishonour;
+(g) where a cheque has been presented in accordance with section 89, the presentment of an image return document, as defined under section 90(6), to the drawer or an indorser is, in point of form, deemed a sufficient notice of dishonour;
 
-[22/2002 wef 20/09/2002]
+(h) a written notice need not be signed, and an insufficient written notice may be supplemented and validated by verbal communication; a misdescription of the bill shall not vitiate the notice unless the party to whom the notice is given is in fact misled thereby;
 
-(g) a written notice need not be signed, and an insufficient written notice may be supplemented and validated by verbal communication; a misdescription of the bill shall not vitiate the notice unless the party to whom the notice is given is in fact misled thereby;
+(i) where notice of dishonour is required to be given to any person, it may be given either to the party himself, or to his agent in that behalf;
 
-(h) where notice of dishonour is required to be given to any person, it may be given either to the party himself, or to his agent in that behalf;
+(j) where the drawer or indorser is dead, and the party giving notice knows it, the notice must be given to a personal representative if such there be, and with the exercise of reasonable diligence he can be found;
 
-(i) where the drawer or indorser is dead, and the party giving notice knows it, the notice must be given to a personal representative if such there be, and with the exercise of reasonable diligence he can be found;
+(k) where the drawer or indorser is bankrupt, notice may be given either to the party himself or to the trustee;
 
-(j) where the drawer or indorser is bankrupt, notice may be given either to the party himself or to the trustee;
+(l) where there are 2 or more drawers or indorsers who are not partners, notice must be given to each of them, unless one of them has authority to receive such notice for the others;
 
-(k) where there are 2 or more drawers or indorsers who are not partners, notice must be given to each of them, unless one of them has authority to receive such notice for the others;
-
-(l) the notice may be given as soon as the bill is dishonoured and must be given within a reasonable time thereafter; in the absence of special circumstances notice is not deemed to have been given within a reasonable time unless —
+(m) the notice may be given as soon as the bill is dishonoured and must be given within a reasonable time thereafter; in the absence of special circumstances notice is not deemed to have been given within a reasonable time unless —
 
 (i) where the person giving and the person to receive notice reside in the same place — the notice is given or sent off in time to reach the latter on the day after the dishonour of the bill;
 
 (ii) where the person giving and the person to receive notice reside in different places — the notice is sent off on the day after the dishonour of the bill, if there be a post at a convenient hour on that day, and if there be no such post on that day, then by the next post thereafter;
 
-(m) where a bill when dishonoured is in the hands of an agent, he may either himself give notice to the parties liable on the bill, or he may give notice to his principal; if he gives notice to his principal, he must do so within the same time as if he were the holder, and the principal upon receipt of such notice has himself the same time for giving notice as if the agent had been an independent holder;
+(n) where a bill when dishonoured is in the hands of an agent, he may either himself give notice to the parties liable on the bill, or he may give notice to his principal; if he gives notice to his principal, he must do so within the same time as if he were the holder, and the principal upon receipt of such notice has himself the same time for giving notice as if the agent had been an independent holder;
 
-(n) where a party to a bill receives due notice of dishonour he has, after the receipt of such notice, the same period of time for giving notice to antecedent parties that the holder has after the dishonour;
+(o) where a party to a bill receives due notice of dishonour he has, after the receipt of such notice, the same period of time for giving notice to antecedent parties that the holder has after the dishonour;
 
-(o) where a notice of dishonour is duly addressed and posted, the sender is deemed to have given due notice of dishonour notwithstanding any miscarriage by the post office.
+(p) where a notice of dishonour is duly addressed and posted, the sender is deemed to have given due notice of dishonour notwithstanding any miscarriage by the post office.
 
 ### Excuses for delay in giving notice of dishonour
 
 50\.—(1) Delay in giving notice of dishonour is excused where the delay is caused by circumstances beyond the control of the party giving notice, and not imputable to his default, misconduct or negligence.
 
-(2) When the cause of delay ceases to operate the notice must be given with reasonable diligence.
+(2) When the cause of delay ceases to operate, the notice must be given with reasonable diligence.
 
 (3) Notice of dishonour is dispensed with —
 
@@ -982,7 +980,7 @@ General duties of holder
 
 (3) In order to render the acceptor of a bill liable, it is not necessary to protest it, or that notice of dishonour should be given to him.
 
-(4) Where the holder of a bill presents it for payment, he shall exhibit the bill to the person from whom he demands payment, and when a bill is paid, the holder shall forthwith deliver it up to the party paying it.
+(4) Where the holder of a bill presents it for payment, he shall exhibit the bill to the person from whom he demands payment, and when a bill is paid, the holder shall immediately deliver it up to the party paying it.
 
 Liabilities of parties
 
@@ -1100,13 +1098,13 @@ Discharge of bill
 
 Acceptance and payment for honour
 
-### Acceptance for honour supra protest
+### Acceptance for honoursupra protest
 
-65\.—(1) Where a bill of exchange has been protested for dishonour by non-acceptance, or protested for better security, and is not overdue, any person, not being a party already liable thereon, may, with the consent of the holder, intervene and accept the bill supra protest, for the honour of any party liable thereon, or for the honour of the person for whose account the bill is drawn.
+65\.—(1) Where a bill of exchange has been protested for dishonour by non-acceptance, or protested for better security, and is not overdue, any person, not being a party already liable thereon, may, with the consent of the holder, intervene and accept the billsupra protest, for the honour of any party liable thereon, or for the honour of the person for whose account the bill is drawn.
 
 (2) A bill may be accepted for honour for part only of the sum for which it is drawn.
 
-(3) An acceptance for honour supra protest in order to be valid must —
+(3) An acceptance for honoursupra protestin order to be valid must —
 
 (a) be written on the bill, and indicate that it is an acceptance for honour; and
 
@@ -1124,7 +1122,7 @@ Acceptance and payment for honour
 
 ### Presentment to acceptor for honour
 
-67\.—(1) Where a dishonoured bill has been accepted for honour supra protest, or contains a reference in case of need, it must be protested for non-payment before it is presented for payment to the acceptor for honour, or referee in case of need.
+67\.—(1) Where a dishonoured bill has been accepted for honoursupra protest, or contains a reference in case of need, it must be protested for non-payment before it is presented for payment to the acceptor for honour, or referee in case of need.
 
 (2) Where the address of the acceptor for honour is in the same place where the bill is protested for non-payment, the bill must be presented to him not later than the day following its maturity; and where the address of the acceptor for honour is in some place other than the place where it was protested for non-payment, the bill must be forwarded not later than the day following its maturity for presentment to him.
 
@@ -1132,13 +1130,13 @@ Acceptance and payment for honour
 
 (4) When a bill of exchange is dishonoured by the acceptor for honour it must be protested for non-payment by him.
 
-### Payment for honour supra protest
+### Payment for honoursupra protest
 
-68\.—(1) Where a bill has been protested for non-payment, any person may intervene and pay it supra protest for the honour of any party liable thereon, or for the honour of the person for whose account the bill is drawn.
+68\.—(1) Where a bill has been protested for non-payment, any person may intervene and pay itsupra protestfor the honour of any party liable thereon, or for the honour of the person for whose account the bill is drawn.
 
-(2) Where two or more persons offer to pay a bill for the honour of different parties, the person whose payment will discharge most parties to the bill shall have the preference.
+(2) Where 2 or more persons offer to pay a bill for the honour of different parties, the person whose payment will discharge most parties to the bill shall have the preference.
 
-(3) Payment for honour supra protest, in order to operate as such and not as a mere voluntary payment, must be attested by a notarial act of honour which may be appended to the protest or form an extension of it.
+(3) Payment for honoursupra protest, in order to operate as such and not as a mere voluntary payment, must be attested by a notarial act of honour which may be appended to the protest or form an extension of it.
 
 (4) The notarial act of honour must be founded on a declaration made by the payer for honour, or his agent in that behalf, declaring his intention to pay the bill for honour, and for whose honour he pays.
 
@@ -1146,9 +1144,9 @@ Acceptance and payment for honour
 
 (6) The payer for honour on paying to the holder the amount of the bill and the notarial expenses incidental to its dishonour is entitled to receive both the bill itself and the protest.
 
-(7) If the holder does not on demand deliver them up he shall be liable to the payer for honour in damages.
+(7) If the holder does not on demand deliver them up, he shall be liable to the payer for honour in damages.
 
-(8) Where the holder of a bill refuses to receive payment supra protest, he shall lose his right of recourse against any party who would have been discharged by such payment.
+(8) Where the holder of a bill refuses to receive paymentsupra protest, he shall lose his right of recourse against any party who would have been discharged by such payment.
 
 Lost instruments
 
@@ -1168,9 +1166,9 @@ Bill in a set
 
 71\.—(1) Where a bill is drawn in a set, each part of the set being numbered, and containing a reference to the other parts, the whole of the parts constitute one bill.
 
-(2) Where the holder of a set indorses two or more parts to different persons, he is liable on every such part, and every indorser subsequent to him is liable on the part he has himself indorsed as if the said parts were separate bills.
+(2) Where the holder of a set indorses 2 or more parts to different persons, he is liable on every such part, and every indorser subsequent to him is liable on the part he has himself indorsed as if the said parts were separate bills.
 
-(3) Where two or more parts of a set are negotiated to different holders in due course, the holder whose title first accrues is as between such holders deemed the true owner of the bill.
+(3) Where 2 or more parts of a set are negotiated to different holders in due course, the holder whose title first accrues is as between such holders deemed the true owner of the bill.
 
 (4) Nothing in subsection (3) shall affect the rights of a person who in due course accepts or pays the part first presented to him.
 
@@ -1188,7 +1186,7 @@ Conflict of laws
 
 72\. Where a bill drawn in one country is negotiated, accepted or payable in another, the rights, duties and liabilities of the parties thereto are determined as follows:
 
-(a) the validity of a bill as regards requisites in form is determined by the law of the place of issue, and the validity as regards requisites in form of the supervening contracts, such as acceptance, or indorsement, or acceptance supra protest, is determined by the law of the place where such contract was made:
+(a) the validity of a bill as regards requisites in form is determined by the law of the place of issue, and the validity as regards requisites in form of the supervening contracts, such as acceptance, or indorsement, or acceptancesupra protest, is determined by the law of the place where such contract was made:
 
 Provided that —
 
@@ -1196,7 +1194,7 @@ Provided that —
 
 (ii) where a bill, issued out of Singapore, conforms, as regards requisites in form, to the law of Singapore, it may, for the purpose of enforcing payment thereof, be treated as valid as between all persons who negotiate, hold or become parties to it in Singapore;
 
-(b) subject to the provisions of this Act, the interpretation of the drawing, indorsement, acceptance, or acceptance supra protest of a bill, is determined by the law of the place where such contract is made:
+(b) subject to the provisions of this Act, the interpretation of the drawing, indorsement, acceptance, or acceptancesupra protestof a bill, is determined by the law of the place where such contract is made:
 
 Provided that where an inland bill is indorsed in a foreign country, the indorsement shall, as regards the payer, be interpreted according to the law of Singapore;
 
@@ -1238,9 +1236,9 @@ Crossed cheques
 
 76\.—(1) Where a cheque bears across its face an addition of —
 
-(a) the words “and company” or any abbreviation thereof between two parallel transverse lines, either with or without the words “not negotiable”; or
+(a) the words “and company” or any abbreviation thereof between 2 parallel transverse lines, either with or without the words “not negotiable”; or
 
-(b) two parallel transverse lines simply, either with or without words “not negotiable”, that addition constitutes a crossing, and the cheque is crossed generally.
+(b) 2 parallel transverse lines simply, either with or without words “not negotiable”, that addition constitutes a crossing, and the cheque is crossed generally.
 
 (2) Where a cheque bears across its face an addition of the name of a banker, either with or without the words “not negotiable”, that addition constitutes a crossing, and the cheque is crossed specially and to that banker.
 
@@ -1272,7 +1270,7 @@ Crossed cheques
 
 ### Protection to banker and drawer where cheque is crossed
 
-80\. Where the banker, on whom a crossed cheque (including a cheque which under section 81A or otherwise is not transferable) is drawn, in good faith and without negligence pays it, if crossed generally, to a banker, and if crossed specially, to the banker to whom it is crossed, or his agent for collection, being a banker, the banker paying the cheque, and, if the cheque has come into the hands of the payee, the drawer, shall respectively be entitled to the same rights and be placed in the same position as if payment of the cheque had been made to the true owner thereof.
+80\. Where the banker, on whom a crossed cheque (including a cheque which under section 82 or otherwise is not transferable) is drawn, in good faith and without negligence pays it, if crossed generally, to a banker, and if crossed specially, to the banker to whom it is crossed, or his agent for collection, being a banker, the banker paying the cheque, and, if the cheque has come into the hands of the payee, the drawer, shall respectively be entitled to the same rights and be placed in the same position as if payment of the cheque had been made to the true owner thereof.
 
 [34/92]
 
@@ -1282,17 +1280,23 @@ Crossed cheques
 
 ### Non-transferable cheques
 
-81A\.—(1) Where a cheque is crossed and bears across its face the words “account payee” or “a/c payee”, either with or without the word “only”, the cheque shall not be transferable, but shall only be valid as between the parties thereto.
+82\.—(1) Where a cheque is crossed and bears across its face the words “account payee” or “a/c payee”, either with or without the word “only”, the cheque shall not be transferable, but shall only be valid as between the parties thereto.
+
+[34/92]
 
 (2) For the purposes of section 80, a banker is not to be treated as having been negligent by reason only of his failure to concern himself with any purported indorsement of a cheque which under subsection (1) or otherwise is not transferable.
 
+[81A
+
 [34/92]
+
+[Cf. UK BEA, 1882 s. 81A]
 
 Special provisions relating to indorsement, etc.
 
 ### Protection of bankers paying unindorsed or irregularly indorsed cheques, etc.
 
-82\.—(1) Where a banker in good faith and in the ordinary course of business pays a cheque drawn on him which is not indorsed or is irregularly indorsed, he does not, in doing so, incur any liability by reason only of the absence of, or irregularity in, indorsement, and he is deemed to have paid it in due course.
+83\.—(1) Where a banker in good faith and in the ordinary course of business pays a cheque drawn on him which is not indorsed or is irregularly indorsed, he does not, in doing so, incur any liability by reason only of the absence of, or irregularity in, indorsement, and he is deemed to have paid it in due course.
 
 (2) Where a banker in good faith and in the ordinary course of business pays any such instrument as the following:
 
@@ -1302,17 +1306,29 @@ Special provisions relating to indorsement, etc.
 
 he does not, in doing so, incur any liability by reason only of the absence of, or irregularity in, indorsement, and the payment discharges the instrument.
 
+[82
+
+[Cf. UK Cheques Act, 1957 s. 1]
+
 ### Rights of bankers collecting cheques not indorsed by holders
 
-83\. A banker who gives value for, or has a lien on, a cheque payable to order which the holder delivers to him for collection without indorsing it, has such (if any) rights as he would have had if, upon delivery, the holder had indorsed it in blank.
+84\. A banker who gives value for, or has a lien on, a cheque payable to order which the holder delivers to him for collection without indorsing it, has such (if any) rights as he would have had if, upon delivery, the holder had indorsed it in blank.
+
+[83
+
+[Cf. UK Cheques Act, 1957 s. 2]
 
 ### Unindorsed cheques as evidence of payment
 
-84\. An unindorsed cheque which appears to have been paid by the banker on whom it is drawn is evidence of the receipt by the payee of the sum payable by the cheque.
+85\. An unindorsed cheque which appears to have been paid by the banker on whom it is drawn is evidence of the receipt by the payee of the sum payable by the cheque.
+
+[84
+
+[Cf. UK Cheques Act, 1957 s. 3]
 
 ### Protection of bankers collecting payment of cheques, or certain other instruments
 
-85\.—(1) Where a banker, in good faith and without negligence —
+86\.—(1) Where a banker, in good faith and without negligence —
 
 (a) receives payment for a customer of an instrument to which this section applies; or
 
@@ -1322,7 +1338,7 @@ and the customer has no title, or a defective title, to the instrument, the bank
 
 (2) This section applies to the following instruments, namely:
 
-(a) cheques (including cheques which under section 81A or otherwise are not transferable);
+(a) cheques (including cheques which under section 82 or otherwise are not transferable);
 
 (b) any document issued by a customer of a banker which, though not a bill of exchange, is intended to enable a person to obtain payment from that banker of the sum mentioned in the document; and
 
@@ -1332,41 +1348,57 @@ and the customer has no title, or a defective title, to the instrument, the bank
 
 (3) A banker is not to be treated for the purposes of this section as having been negligent by reason only of his failure to concern himself with absence of, or irregularity in, indorsement of an instrument.
 
+[85
+
+[Cf. UK Cheques Act, 1957 s. 4]
+
 ### Application of certain provisions to instruments not being bills of exchange
 
-86\. The provisions of this Act relating to crossed cheques shall, so far as applicable, have effect in relation to instruments (other than cheques) to which section 85 applies as they have effect in relation to cheques.
+87\.—(1) The provisions of this Act relating to crossed cheques shall, so far as applicable, have effect in relation to instruments (other than cheques) to which section 86 applies as they have effect in relation to cheques.
 
-(1) The provisions of this Act relating to crossed cheques shall, so far as applicable, have effect in relation to instruments (other than cheques) to which section 85 applies as they have effect in relation to cheques.
+[22/2002]
 
-[22/2002 wef 20/09/2002]
+(2) Sections 89, 90 (except subsection (5)) and 91 shall, so far as applicable, have effect in relation to an instrument referred to in section 86(2)(b) as they have effect in relation to a cheque.
 
-(2) Sections 87A, 87B (except subsection (5)) and 87C shall, so far as applicable, have effect in relation to an instrument referred to in section 85(2)(b) as they have effect in relation to a cheque.
+[22/2002]
 
-[22/2002 wef 20/09/2002]
+(3) Sections 89 and 91 shall, so far as applicable, have effect in relation to an instrument referred to in section 86(2)(c) as they have effect in relation to a cheque.
 
-(3) Sections 87A and 87C shall, so far as applicable, have effect in relation to an instrument referred to in section 85(2)(c) as they have effect in relation to a cheque.
+[86
 
-[22/2002 wef 20/09/2002]
+[22/2002]
 
 ### Saving
 
-87\. Sections 82 to 86 do not make negotiable any instrument which apart from those sections is not negotiable.
+88\. Sections 83 to 87 do not make negotiable any instrument which apart from those sections is not negotiable.
+
+[87
+
+[Cf. UK Cheques Act, 1957 s. 6]
 
 Special provisions relating to cheque truncation
 
-[22/2002 wef 20/09/2002]
-
 ### Alternative means of presentment
 
-87A\.—(1) A banker may present a cheque for payment to the banker on whom it is drawn by transmitting, by electronic means, an image and the electronic payment information of the cheque, instead of presenting the cheque itself.
+89\.—(1) A banker may present a cheque for payment to the banker on whom it is drawn by transmitting, by electronic means, an image and the electronic payment information of the cheque, instead of presenting the cheque itself.
+
+[22/2002]
+
+[Cf. UK BEA, 1882 s. 74B(1) vide S1 1996 No. 2993]
 
 (2) Notwithstanding subsection (1), if at any time before payment is made, the banker on whom a cheque is drawn requests the banker who presented the cheque to present the cheque itself —
 
 (a) the presentment under subsection (1) shall be disregarded; and
 
-(b) section 87B shall not apply.
+(b) section 90 shall not apply.
+
+[22/2002]
 
 (3) A request under subsection (2) for the presentment of a cheque shall not constitute dishonour of the cheque by non-payment.
+
+[22/2002]
+
+[Cf. UK BEA, 1882 s. 74B (4) vide S1 1996 No. 2993]
 
 (4) Section 52(4) shall not apply —
 
@@ -1374,23 +1406,41 @@ Special provisions relating to cheque truncation
 
 (b) in relation to a bill which is paid, to a cheque which is paid following presentment under subsection (1).
 
+[22/2002]
+
 (5) For the avoidance of doubt, any payment made upon presentment in accordance with this section shall not be taken to have been made outside of the ordinary course of business, in bad faith or negligently only because it is made upon transmission of an image and the electronic payment information of the cheque rather than presentment of the cheque itself.
 
+[22/2002]
+
 (6) Where presentment of a cheque is made under this section, the banker who presented the cheque and the banker on whom it is drawn shall be subject to the same duties in relation to the collection and payment of the cheque as if the cheque itself had been presented for payment.
+
+[22/2002]
+
+[Cf. UK BEA, 1882 s. 74B (5) vide S1 1996 No. 2993]
 
 (7) For the purposes of this section —
 
 (a) the image of a cheque shall comprise the front view and the back view of the cheque; and
 
-(b) the electronic payment information of a cheque shall comprise such matters as may be prescribed by the Authority under section 87C.
+(b) the electronic payment information of a cheque shall comprise such matters as may be prescribed by the Authority under section 91.
+
+[87A
+
+[22/2002]
 
 ### Image return document
 
-87B\.—(1) Where a cheque presented for payment in accordance with section 87A(1) is dishonoured by non-payment, the banker to whom the cheque was first presented by the holder (referred to in this section as the presenting banker) shall, unless the presenting banker returns the cheque itself or the holder requests the return of the cheque itself, issue to the holder an image return document.
+90\.—(1) Where a cheque presented for payment in accordance with section 89(1) is dishonoured by non-payment, the banker to whom the cheque was first presented by the holder (referred to in this section as the presenting banker) shall, unless the presenting banker returns the cheque itself or the holder requests the return of the cheque itself, issue to the holder an image return document.
+
+[22/2002]
 
 (2) Subject to subsection (4), an image return document may be presented for payment to the presenting banker by the holder to whom the image return document was issued as if that document were the cheque to which it relates.
 
+[22/2002]
+
 (3) An image return document shall be deemed to be the cheque to which it relates for the purpose of presentment under subsection (2).
+
+[22/2002]
 
 (4) An image return document may be presented under subsection (2) for payment by the holder only if —
 
@@ -1398,17 +1448,27 @@ Special provisions relating to cheque truncation
 
 (b) the presentment is made within the period for the presentment stated in that document.
 
+[22/2002]
+
 (5) Where an image return document has been lost before the expiry of the period for its presentment stated therein, the person who was the holder of the document may apply to the drawer of the cheque to which the document relates, and the drawer may be compelled, to give him another cheque of the same tenor, subject to him giving security to indemnify the drawer (if required) against all claims arising in case the document alleged to have been lost is found again.
 
-(6) In this section, “image return document” means a document issued by a presenting banker containing such particulars as may be prescribed by the Authority under section 87C.
+[22/2002]
+
+(6) In this section, “image return document” means a document issued by a presenting banker containing such particulars as may be prescribed by the Authority under section 91.
+
+[87B
+
+[22/2002]
 
 Regulations relating to cheque truncation
 
-[22/2002 wef 20/09/2002]
-
 ### Regulations
 
-87C\. The Authority may, with the approval of the Minister, make such regulations as may be necessary or expedient for giving effect to the provisions of this Act in respect of any matter or thing relating to cheque truncation.
+91\. The Authority may, with the approval of the Minister, make such regulations as may be necessary or expedient for giving effect to the provisions of this Act in respect of any matter or thing relating to cheque truncation.
+
+[87C
+
+[22/2002]
 
 ## PART IV
 
@@ -1416,7 +1476,7 @@ PROMISSORY NOTES
 
 ### Promissory note defined
 
-88\.—(1) A promissory note is an unconditional promise in writing made by one person to another signed by the maker, engaging to pay, on demand or at a fixed or determinable future time, a sum certain in money, to, or to the order of, a specified person or to bearer.
+92\.—(1) A promissory note is an unconditional promise in writing made by one person to another signed by the maker, engaging to pay, on demand or at a fixed or determinable future time, a sum certain in money, to, or to the order of, a specified person or to bearer.
 
 (2) An instrument in the form of a note payable to maker’s order is not a note within the meaning of this section unless it is indorsed by the maker.
 
@@ -1424,19 +1484,31 @@ PROMISSORY NOTES
 
 (4) A note which is, or on the face of it purports to be, both made and payable within Singapore is an inland note. Any other note is a foreign note.
 
+[88
+
+[Cf. UK BEA, 1882 s. 83]
+
 ### Delivery necessary
 
-89\. A promissory note is inchoate and incomplete until delivery thereof to the payee or bearer.
+93\. A promissory note is inchoate and incomplete until delivery thereof to the payee or bearer.
+
+[89
+
+[Cf. UK BEA, 1882 s. 84]
 
 ### Joint and several notes
 
-90\.—(1) A promissory note may be made by two or more makers, and they may be liable thereon jointly, or jointly and severally according to its tenor.
+94\.—(1) A promissory note may be made by 2 or more makers, and they may be liable thereon jointly, or jointly and severally according to its tenor.
 
-(2) Where a note runs “I promise to pay” and is signed by two or more persons it is deemed to be their joint and several note.
+(2) Where a note runs “I promise to pay” and is signed by 2 or more persons it is deemed to be their joint and several note.
+
+[90
+
+[Cf. UK BEA, 1882 s. 85]
 
 ### Note payable on demand
 
-91\.—(1) Where a note payable on demand has been indorsed, it must be presented for payment within a reasonable time of the indorsement.
+95\.—(1) Where a note payable on demand has been indorsed, it must be presented for payment within a reasonable time of the indorsement.
 
 (2) If it be not so presented, the indorser is discharged.
 
@@ -1444,9 +1516,13 @@ PROMISSORY NOTES
 
 (4) Where a note payable on demand is negotiated, it is not deemed to be overdue, for the purpose of affecting the holder with defects of title of which he had no notice, by reason that it appears that a reasonable time for presenting it for payment has elapsed since its issue.
 
+[91
+
+[Cf. UK BEA, 1882 s. 86]
+
 ### Presentment of note for payment
 
-92\.—(1) Where a promissory note is in the body of it made payable at a particular place, it must be presented for payment at that place in order to render the maker liable.
+96\.—(1) Where a promissory note is in the body of it made payable at a particular place, it must be presented for payment at that place in order to render the maker liable.
 
 (2) In any other case, presentment for payment is not necessary in order to render the maker liable.
 
@@ -1454,17 +1530,25 @@ PROMISSORY NOTES
 
 (4) Where a note is in the body of it made payable at a particular place, presentment at that place is necessary in order to render an indorser liable; but when a place of payment is indicated by way of memorandum only, presentment at that place is sufficient to render the indorser liable, but a presentment to the maker elsewhere, if sufficient in other respects, shall also suffice.
 
+[92
+
+[Cf. UK BEA, 1882 s. 87]
+
 ### Liability of maker
 
-93\. The maker of a promissory note by making it —
+97\. The maker of a promissory note by making it —
 
 (a) engages that he will pay it according to its tenor;
 
 (b) is precluded from denying to a holder in due course the existence of the payee and his then capacity to indorse.
 
+[93
+
+[Cf. UK BEA, 1882 s. 88]
+
 ### Application of Part II to notes
 
-94\.—(1) Subject to the provisions in this Part, and except as by this section provided, the provisions of this Act relating to bills of exchange apply, with the necessary modifications, to promissory notes.
+98\.—(1) Subject to the provisions in this Part, and except as by this section provided, the provisions of this Act relating to bills of exchange apply, with the necessary modifications, to promissory notes.
 
 (2) In applying those provisions the maker of a note shall be deemed to correspond with the acceptor of a bill, and the first indorser of a note shall be deemed to correspond with the drawer of an accepted bill payable to drawer’s order.
 
@@ -1474,11 +1558,15 @@ PROMISSORY NOTES
 
 (b) acceptance;
 
-(c) acceptance supra protest;
+(c) acceptancesupra protest;
 
 (d) bills in a set.
 
 (4) Where a foreign note is dishonoured, protest thereof is unnecessary.
+
+[94
+
+[Cf. UK BEA, 1882 s. 89]
 
 ## PART V
 
@@ -1486,35 +1574,47 @@ SUPPLEMENTARY
 
 ### Good faith
 
-95\. A thing is deemed to be done in good faith, within the meaning of this Act, where it is in fact done honestly, whether it is done negligently or not.
+99\. A thing is deemed to be done in good faith, within the meaning of this Act, where it is in fact done honestly, whether it is done negligently or not.
+
+[95
+
+[Cf. UK BEA, 1882 s. 90]
 
 ### Signature
 
-96\.—(1) Where, by this Act, any instrument or writing is required to be signed by any person, it is not necessary that he should sign it with his own hand, but it is sufficient if his signature is written thereon by some other person by or under his authority.
+100\.—(1) Where, by this Act, any instrument or writing is required to be signed by any person, it is not necessary that he should sign it with his own hand, but it is sufficient if his signature is written thereon by some other person by or under his authority.
 
 (2) In the case of a corporation, where, by this Act, any instrument or writing is required to be signed, it is sufficient if the instrument or writing be sealed with the corporate seal.
 
 (3) Nothing in this section shall be construed as requiring the bill or note of a corporation to be under seal.
 
+[96
+
+[Cf. UK BEA, 1882 s. 91]
+
 ### Computation of time
 
-97\.—(1) Where, by this Act, the time limited for doing any act or thing is less than 3 days, in reckoning time non-business days shall be excluded.
+101\.—(1) Where, by this Act, the time limited for doing any act or thing is less than 3 days, in reckoning time non-business days shall be excluded.
 
-(2) For the purposes of this Act, “non-business days” means —
+(2) In this Act, “non-business days” means —
 
 (a) Sundays;
 
 (b) bank or public holidays; and
 
-(c) in the case of bills other than Singapore bills or bills prescribed by the Minister under sub-paragraph (i) of the proviso to section 14 (a) — Saturday.
+(c) in the case of bills other than Singapore bills or bills prescribed by the Minister under sub-paragraph (i) of the proviso to section 14(a) — Saturday.
 
 (3) Any other day is a business day.
 
+[97
+
 [11/70]
+
+[Cf. UK BEA, 1882 s. 92]
 
 ### Obligation to do acts relating to bills and notes on Sundays or public holidays
 
-98\.—(1) Subject to section 14, all bills and notes that are due and payable on any Sunday or public holiday shall be payable, and, in the case of non-payment, may be noted and protested, on the day next following and not on the Sunday or public holiday.
+102\.—(1) Subject to section 14, all bills and notes that are due and payable on any Sunday or public holiday shall be payable, and, in the case of non-payment, may be noted and protested, on the day next following and not on the Sunday or public holiday.
 
 [8/98]
 
@@ -1532,37 +1632,41 @@ SUPPLEMENTARY
 
 (5) For the purposes of this section, the day next following a Sunday or public holiday means the next following day not being itself a Sunday or public holiday.
 
-[97A
+[98
 
 [8/98]
 
 ### When noting equivalent to protest
 
-99\. For the purposes of this Act, where a bill or note is required to be protested within a specified time or before some further proceeding is taken, it is sufficient that the bill has been noted for protest before the expiration of the specified time or the taking of the proceeding; and the formal protest may be extended at any time thereafter as of the date of the noting.
+103\. For the purposes of this Act, where a bill or note is required to be protested within a specified time or before some further proceeding is taken, it is sufficient that the bill has been noted for protest before the expiration of the specified time or the taking of the proceeding; and the formal protest may be extended at any time thereafter as of the date of the noting.
 
-[98
+[99
+
+[Cf. UK BEA, 1882 s. 93]
 
 ### Protest when notary not accessible
 
-100\.—(1) Where a dishonoured bill or note is authorised or required to be protested, and the services of a notary cannot be obtained at the place where the bill is dishonoured, any Magistrate may give a certificate signed and sealed by him, attesting the dishonour of the bill, and the certificate shall in all respects operate as if it were a formal protest of the bill.
+104\.—(1) Where a dishonoured bill or note is authorised or required to be protested, and the services of a notary cannot be obtained at the place where the bill is dishonoured, any Magistrate may give a certificate signed and sealed by him, attesting the dishonour of the bill, and the certificate shall in all respects operate as if it were a formal protest of the bill.
+
+[Cf. UK BEA, 1882 s. 94]
 
 (2) Any Magistrate acting under subsection (1) shall, as far as possible, be guided by any rules having the force of law for the time being in force which may have been promulgated for the guidance of notaries public.
 
 (3) The Minister may by notification in theGazetteprescribe the fees payable on issue of certificates under subsection (1), and may in the like manner prescribe the form of such certificates.
 
-[99
+[100
 
 [7/97]
 
 ### Dividend warrants and banker’s draft may be crossed
 
-101\. The provisions of this Act as to crossed cheques shall apply to a warrant for payment of dividend and to a banker’s draft.
+105\. The provisions of this Act as to crossed cheques shall apply to a warrant for payment of dividend and to a banker’s draft.
 
-[100
+[101
 
 ### Savings
 
-102\.—(1) The rules in bankruptcy relating to bills of exchange, promissory notes and cheques shall continue to apply thereto notwithstanding anything in this Act.
+106\.—(1) The rules in bankruptcy relating to bills of exchange, promissory notes and cheques shall continue to apply thereto notwithstanding anything in this Act.
 
 (2) Nothing in this Act shall affect —
 
@@ -1572,7 +1676,9 @@ SUPPLEMENTARY
 
 (c) the validity of any usage relating to dividend warrants, or the indorsement thereof.
 
-[101
+[102
+
+[Cf. UK BEA, 1882 s. 97]
 
 ## LEGISLATIVE HISTORY
 
@@ -1620,13 +1726,132 @@ This Legislative History is provided for the convenience of users of the Bills o
 |||(Bill No. 21/2002 published on 9 July 2002)|
 ||Date of Second and Third Readings|23 July 2002|
 ||Date of commencement|20 September 2002|
+|10.|**G. N. No. S 30/2010—Revised Edition of the Laws (Bills of Exchange Act) (Rectification) Order 2010**|
+||Date of commencement|31 July 2004|
+|11.|**2004 Revised Edition—Bills of Exchange Act**|
+||(G.N. No. S 30/2010 — Rectification Order)||
+||Date of operation|31 July 2004|
 ## COMPARATIVE TABLE
 
 Bills of Exchange Act
 
 (CHAPTER 23)
 
-The following provisions in the 1985 Revised Edition of the Bills of Exchange Act have been renumbered by the Law Revision Commissioners in this 1999 Revised Edition.
+The following provisions in the 1999 Revised Edition of the Bills of Exchange Act have been renumbered by the Law Revision Commissioners in this 2004 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Bills of Exchange Act.
+
+2004 Ed\. 
+
+1999 Ed\. 
+
+82 
+
+81A 
+
+83 
+
+82 
+
+84 
+
+83 
+
+85 
+
+84 
+
+86 
+
+85 
+
+87 
+
+86 
+
+88 
+
+87 
+
+89 
+
+87A 
+
+90 
+
+87B 
+
+91 
+
+87C 
+
+92 
+
+88 
+
+93 
+
+89 
+
+94 
+
+90 
+
+95 
+
+91 
+
+96 
+
+92 
+
+97 
+
+93 
+
+98 
+
+94 
+
+99 
+
+95 
+
+100 
+
+96 
+
+101 
+
+97 
+
+102 
+
+98 
+
+103 
+
+99 
+
+104 
+
+100 
+
+105 
+
+101 
+
+106 
+
+102 
+
+## COMPARATIVE TABLE
+
+Bills of Exchange Act
+
+(CHAPTER 23)
+
+The following provisions in the 1985 Revised Edition of the Bills of Exchange Act were renumbered by the Law Revision Commissioners in the 1999 Revised Edition.
 
 This Comparative Table is provided for the convenience of users. It is not part of the Bills of Exchange Act.
 
@@ -1690,7 +1915,7 @@ Proviso to21 —(1)
 
 (3)
 
-22 --(2)
+22 —(2)
 
 Proviso to22 —(1)
 
