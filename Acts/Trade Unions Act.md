@@ -76,6 +76,8 @@
 
 - [30 Officers of trade union](#Officers-of-trade-union)
 
+- [30A Authority of officers, etc., to bind union without ratification](#Authority-of-officers-etc-to-bind-union-without-ratification)
+
 - [31 Employees of a trade union](#Employees-of-a-trade-union)
 
 - [32 Powers of Minister in relation to sections 30 and 31](#Powers-of-Minister-in-relation-to-sections-30-and-31)
@@ -643,6 +645,14 @@ Provided that the President may, by notification in theGazette, exempt from this
 (4) Not less than two-thirds of the total number of the officers of every registered trade union shall be persons actually engaged or employed in a trade, occupation or industry with which the trade union is connected.
 
 [31
+
+### Authority of officers, etc., to bind union without ratification
+
+30A\.—(1) Notwithstanding any provision in any rules or resolution of any trade union, the officers of a trade union and any other persons duly appointed by the trade union to represent its members in negotiations with a view to a collective agreement shall have the authority to bargain collectively for and to bind all the members of the trade union by a collective agreement without the need for ratification by the members; and the decision of such officers or persons on any matter in such negotiations shall be the decision of all members of the trade union.
+
+(2) Any provision in any rules or resolution of any trade union (whether made before, on or after the date of commencement of this section) that is inconsistent with subsection (1) shall be void to the extent of that inconsistency.
+
+[14/2004 wef 05/05/2004]
 
 ### Employees of a trade union
 
@@ -1280,3 +1290,8 @@ This Legislative History is provided for the convenience of users of the Trade U
 |||(Bill No. 7/2003 published on 21 March 2003)|
 ||Date of Second and Third Readings|24 April 2003|
 ||Date of commencement|16 May 2003|
+|24.|**Act 14 of 2004—Trade Unions (Amendment) Act 2004**|
+||Date of First Reading|19 March 2004|
+|||(Bill No. 13/2004 published on 20 March 2004)|
+||Date of Second and Third Readings|20 April 2004|
+||Date of commencement|5 May 2004|
