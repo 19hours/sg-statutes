@@ -1,22 +1,20 @@
-**Children and Young Persons Act 1993**
+**Children and Young Persons Act**
 
-**(No. 1 of 1993)**
+**(CHAPTER 38)**
 
 **Table of Contents**
 
 [**Long Title**](#Children-and-Young-Persons-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
 [**Part II PROTECTION OF CHILDREN AND YOUNG PERSONS**](#Part-II)
 
-- [3 Interpretation](#Interpretation)
+- [3 Interpretation of this Part](#Interpretation-of-this-Part)
 
 [**Welfare**](#Welfare)
 
@@ -112,9 +110,7 @@
 
 - [46 Appeals](#Appeals)
 
-[**Children and Young Persons in Need of Care and Protection**](#Children-and-Young-Persons-in-Need-of-Care-and-Protection)
-
-- [47 Definition](#Definition)
+- [47 Children and Young Persons in Need of Care and Protection Definition](#Children-and-Young-Persons-in-Need-of-Care-and-Protection-Definition)
 
 - [48 Powers of Juvenile Courts in respect of children or young persons in need of care or protection](#Powers-of-Juvenile-Courts-in-respect-of-children-or-young-persons-in-need-of-care-or-protection)
 
@@ -138,11 +134,11 @@
 
 - [54 Minister may appoint approved schools and approved homes](#Minister-may-appoint-approved-schools-and-approved-homes)
 
-- [55 Manager may make regulations subject to approval of Minister](#Manager-may-make-regulations-subject-to-approval-of-Minister)
+- [55 Manager may make regulations with approval of Minister](#Manager-may-make-regulations-with-approval-of-Minister)
 
 - [56 Manager shall send monthly report to Director](#Manager-shall-send-monthly-report-to-Director)
 
-- [57 Minister may cancel his certificate](#Minister-may-cancel-his-certificate)
+- [57 Minister may cancel certificate](#Minister-may-cancel-certificate)
 
 - [58 Manager or his executor or administrator may cancel certificate](#Manager-or-his-executor-or-administrator-may-cancel-certificate)
 
@@ -202,55 +198,37 @@
 
 - [83 Powers of Juvenile Courts conferred on other courts when dealing with juvenile offenders](#Powers-of-Juvenile-Courts-conferred-on-other-courts-when-dealing-with-juvenile-offenders)
 
-- [84 Powers of Juvenile Courts conferred on Supreme Court; special power in respect of persons of 16 years of age and above and below 19 years](#Powers-of-Juvenile-Courts-conferred-on-Supreme-Court;-special-power-in-respect-of-persons-of-16-years-of-age-and-above-and-below-19-years)
+- [84 Powers of Juvenile Courts conferred on Supreme Court; special power in respect of persons of 16 to 19 years of age](#Powers-of-Juvenile-Courts-conferred-on-Supreme-Court;-special-power-in-respect-of-persons-of-16-to-19-years-of-age)
 
 - [85 Regulations](#Regulations)
 
 - [86 Rules of Court](#Rules-of-Court)
 
-- [87 Repeal and savings](#Repeal-and-savings)
+- [87 Savings](#Savings)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Children and Young Persons Act
 
-ACTS SUPPLEMENT
+(CHAPTER 38)
 
-Published by Authority
+(Original Enactment: Act 1 of 1993)
 
-NO. 2]
+REVISED EDITION 1994
 
-Friday, February 26
+(15th March 1994)
 
-[1993
+An Act to consolidate the law relating to children and young persons.
 
-The following Act was passed by Parliament on 18th January 1993 and assented to by the President on 16th February 1993:—
-
-Children And Young Persons Act 1993
-
-(No. 1 of 1993)
-
-I assent.
-
-WEE KIM WEE
-
-President.
-
-16th February 1993.
-
-Date of Commencement: 21st March 1993
-
-An Act to repeal and re-enact with amendments the Children and Young Persons Act (Chapter 38 of the 1985 Revised Edition).
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[21st March 1993]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Children and Young Persons Act 1993 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Children and Young Persons Act.
 
 ### Interpretation
 
@@ -258,7 +236,7 @@ PRELIMINARY
 
 “approved home” means any institution or part thereof appointed or established under Part VI as an approved home;
 
-“approved institution” means an institution approved under section 12 of the Probation of Offenders Act (Cap. 252) for the reception of persons who may be required to reside therein by a probation order;
+“approved institution” means an institution approved under section 12 of the Probation of Offenders Act [Cap. 252] for the reception of persons who may be required to reside therein by a probation order;
 
 “approved school” means any institution or part thereof appointed or established under Part VI as an approved school;
 
@@ -266,7 +244,7 @@ PRELIMINARY
 
 “Director” means the Director of Social Welfare and includes Deputy Directors and Assistant Directors of Social Welfare and such other person as the Minister may, by notification in theGazette, declare to be a person who may exercise the powers and perform the duties of the Director;
 
-“fit person” means a person whom the court or the protector, having regard to the character of such a person, thinks competent to provide care, protection and supervision of a child or young person;
+“fit person” means a person whom the court or the protector, having regard to the character of the person, thinks competent to provide care, protection and supervision of a child or young person;
 
 “guardian”, in relation to a child or young person, includes any person who, in the opinion of the court having cognizance of any case in relation to the child or young person, or in which the child or young person is concerned, has for the time being the charge of, or control over, the child or young person;
 
@@ -286,7 +264,7 @@ PRELIMINARY
 
 PROTECTION OF CHILDREN AND YOUNG PERSONS
 
-### Interpretation
+### Interpretation of this Part
 
 3\. In this Part, unless the context otherwise requires —
 
@@ -362,7 +340,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 the Court may issue a warrant —
 
-(i) authorising any police officer named therein to search for the child or young person and if it appears to the officer that the child or young person has been or is being so assaulted, illtreated or neglected or that any such offence has been or is being committed in respect of the child or young person, to take to and detain him in a place of safety until he can be brought before a court; or
+(i) authorising any police officer named therein to search for the child or young person and if it appears to the officer that the child or young person has been or is being so assaulted, ill-treated or neglected or that any such offence has been or is being committed in respect of the child or young person, to take to and detain him in a place of safety until he can be brought before a court; or
 
 (ii) authorising any police officer to remove the child or young person, with or without search, to a place of safety and detain him there until he can be brought before a court,
 
@@ -386,7 +364,7 @@ and the court before whom the child or young person is brought may commit him to
 
 (c) without the consent of his parent or guardian.
 
-(2) Any person who causes or procures such a child or young person, or being his parent or guardian allows him, to take part in any performance in contravention of subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding one year or to both and, if the person convicted is the holder of a licence under the Public Entertainments Act (Cap. 257), the court may also order the cancellation of the licence or its suspension for such period as the court may think fit.
+(2) Any person who causes or procures such a child or young person, or being his parent or guardian allows him, to take part in any performance in contravention of subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding one year or to both and, if the person convicted is the holder of a licence under the Public Entertainments Act [Cap. 257], the court may also order the cancellation of the licence or its suspension for such period as the court may think fit.
 
 (3) In this section —
 
@@ -442,7 +420,7 @@ he may either —
 
 ### Powers of arrest
 
-18\. A protector may, during or after any inquiry referred to in section 7, 14 or 17, arrest or cause to be arrested any person reasonably believed to have committed an offence under section 4, 5, 6, 11, 12 or 13 and may seize and detain any article or document which he may have reason to believe relates to the offence.
+18\. A protector may, during or after any inquiry referred to in section 7, 14 or 17, arrest or cause to be arrested any person reasonably believed to have committed an offence under section 4, 5, 6, 11, 12 or 13 and may seize and detain any article or document which he may have reason to believe relate to the offence
 
 General
 
@@ -554,7 +532,7 @@ shall release that person on a bond, with or without sureties, for such amount a
 
 ### Parent or guardian may be required to attend Juvenile Court
 
-31\. Where a child or young person is charged with any offence or is for any reason brought before a Juvenile Court, his parent or guardian may in any case, and shall if he can be found and resides within a reasonable distance, be required to attend at the Juvenile Court before which the case is heard or determined during all the stages of the proceedings, unless the Juvenile Court is satisfied that it would be unreasonable to require the attendance of the parent or guardian.
+31\. Where a child or young person is charged with any offence or is for any reason brought before a Juvenile Court, his parent or guardian may in any case, and shall if he can be found and resides within a reasonable distance, be required to attend at the Court before which the case is heard or determined during all the stages of the proceedings, unless the Court is satisfied that it would be unreasonable to require the attendance of the parent or guardian.
 
 ### Constitution of Juvenile Courts
 
@@ -564,7 +542,7 @@ shall release that person on a bond, with or without sureties, for such amount a
 
 (3) The presiding Magistrate, when determining the method of dealing with a child or young person in respect of whom a written report is obtained by the Juvenile Court regarding his background, family history, school record or such other matters, shall sit with two advisers from a panel of advisers nominated by the President except that where it appears that the Court cannot without adjournment be fully constituted and that an adjournment would be inexpedient in the interests of justice, he may sit with one adviser or he may sit alone.
 
-(4) Except as modified or extended by this Act (Cap. 68), the provisions of the Criminal Procedure Code shall apply to a Juvenile Court as if that Court were a Magistrate’s Court.
+(4) Except as modified or extended by this Act, the provisions of the Criminal Procedure Code [Cap. 68] shall apply to a Juvenile Court as if that Court were a Magistrate’s Court.
 
 ### Jurisdiction of Juvenile Courts
 
@@ -574,13 +552,13 @@ shall release that person on a bond, with or without sureties, for such amount a
 
 (b) a charge made jointly against a child or young person and a person who has attained the age of 16 years shall be heard by a court of appropriate jurisdiction other than a Juvenile Court; or
 
-(c) where in the course of any proceedings before any court of appropriate jurisdiction other than a Juvenile Court, it appears that the person to whom the proceedings relate is a child or young person, nothing in this section shall be construed as preventing the court, if it thinks fit to do so, from proceeding with the hearing and determination of the proceedings.
+(c) where, in the course of any proceedings before any court of appropriate jurisdiction other than a Juvenile Court, it appears that the person to whom the proceedings relate is a child or young person, nothing in this section shall be construed as preventing the court, if it thinks fit to do so, from proceeding with the hearing and determination of the proceedings.
 
 (2) A Juvenile Court shall have jurisdiction to try all offences which, but for subsection (1), would be triable only by a Magistrate’s Court or a District Court.
 
 (3) A person who has attained the age of 16 years on the date of commencement of the hearing of the charge shall not be tried for any offence by a Juvenile Court but where in the course of any trial before a Juvenile Court the child or young person to whom the trial relates attains the age of 16 years, nothing in this subsection shall prevent the Court from proceeding, if it thinks fit, with the trial.
 
-(4) Where on the commencement of this Act, a trial relating to a person who has attained the age of 16 years has commenced before a Juvenile Court, the Court may proceed, if it thinks fit, with the trial.
+(4) Where on 21st March 1993 a trial relating to a person who has attained the age of 16 years has commenced before a Juvenile Court, the Court may proceed, if it thinks fit, with the trial.
 
 ### Place of sitting and persons who may be present
 
@@ -610,7 +588,7 @@ shall release that person on a bond, with or without sureties, for such amount a
 
 37\.—(1) A child shall not be sentenced or ordered to be imprisoned for any offence or be committed to prison in default of payment of a fine or costs.
 
-(2) A young person shall not be ordered to be imprisoned for an offence, or be committed to prison in default of a fine, damages or costs, unless the court certifies that he is of so unruly a character that he cannot be detained in a place of detention or an approved school.
+(2) A young person shall not be ordered to be imprisoned for any offence, or be committed to prison in default of a fine, damages or costs, unless the court certifies that he is of so unruly a character that he cannot be detained in a place of detention or an approved school.
 
 (3) Notwithstanding the provisions of any other written law, no child or young person shall be sentenced by any court other than the High Court to corporal punishment.
 
@@ -634,7 +612,7 @@ shall release that person on a bond, with or without sureties, for such amount a
 
 (4) An order under this section may be made against a parent or guardian who, having been required to attend, has failed to do so, but, subject to subsection (1), no such order shall be made without giving the parent or guardian an opportunity to be heard.
 
-(5) Any sum imposed and ordered to be paid by the parent or guardian under this section, or on forfeiture of any such security, may be recovered from him in the manner provided by the Criminal Procedure Code (Cap. 68) in like manner as if the order had been made on the conviction of the parent or guardian of the offence with which the child or young person was charged.
+(5) Any sum imposed and ordered to be paid by the parent or guardian under this section, or on forfeiture of any such security, may be recovered from him in the manner provided by the Criminal Procedure Code [Cap. 68] in like manner as if the order had been made on the conviction of the parent or guardian of the offence with which the child or young person was charged.
 
 ### Power of other courts to remit juvenile offenders to Juvenile Courts
 
@@ -678,7 +656,7 @@ shall release that person on a bond, with or without sureties, for such amount a
 
 (c) if the child or young person or his parent or guardian having been told the substance of any part of any such report desires to produce evidence with reference thereto, the Court, if it thinks the evidence material, shall adjourn the proceedings for the production of further evidence and shall, if necessary, require the attendance at the adjourned hearing of the person who made the report.
 
-(12) If in any case the Juvenile Court considers it necessary in the interests of the child or young person, it may require the parent or guardian of the child or young person, as the case may be, to withdraw from the Court.
+(12) If in any case the Juvenile Court considers it necessary in the interests of the child or young person, the Court may require the parent or guardian of the child or young person, as the case may be, to withdraw from the Court.
 
 ### Presumption as to age
 
@@ -708,7 +686,7 @@ shall release that person on a bond, with or without sureties, for such amount a
 
 (i) where the offender is a young person, to commit the offender to a Young Offenders Section referred to in Part VIII for such length of time as could be awarded by a District Court in respect of a term of imprisonment, if in the opinion of the Court he is of so unruly a character that he cannot be detained in a place of detention or an approved school; and
 
-(j) where the offender is a male and has attained the age of 16 years and the Court is satisfied that it is expedient with a view to his reformation that he should undergo a period of training in a reformative training centre, the Court may order him to be brought before a District Court to be dealt with under section 13 of the Criminal Procedure Code (Cap. 68).
+(j) where the offender is a male and has attained the age of 16 years and the Court is satisfied that it is expedient with a view to his reformation that he should undergo a period of training in a reformative training centre, the Court may order him to be brought before a District Court to be dealt with under section 13 of the Criminal Procedure Code [Cap. 68].
 
 (2) Where a Juvenile Court is satisfied, on the representations of the manager of a place of detention, an approved school or an approved home, that a person ordered to be detained in the place of detention, approved school or approved home is of so unruly a character that he cannot be so detained, the Court may —
 
@@ -720,13 +698,13 @@ shall release that person on a bond, with or without sureties, for such amount a
 
 (d) on completion of the period of detention in a Young Offenders Section ordered under paragraph (b), order the person to be detained for a further period not exceeding 6 months if the Director of Prisons reports that his conduct, during the period of his detention, has been unsatisfactory; or
 
-(e) where the person is a male and has attained the age of 16 years and the Court is satisfied that it is expedient with a view to his reformation that he should undergo a period of training in a reformative training centre, the Court may order him to be brought before a District Court to be dealt with under section 13 of the Criminal Procedure Code (Cap. 68).
+(e) where the person is a male and has attained the age of 16 years and the Court is satisfied that it is expedient with a view to his reformation that he should undergo a period of training in a reformative training centre, the Court may order him to be brought before a District Court to be dealt with under section 13 of the Criminal Procedure Code [Cap. 68].
 
 (3) Where a person, having been transferred to, and detained in, a Young Offenders Section and sent back to a place of detention, an approved school or approved home pursuant to subsection (2)(b) and (c) is again brought before the Juvenile Court on the representation of the manager of the place of detention, approved school or approved home as being of so unruly a character as to make his detention in such place of detention, approved school or approved home undesirable, the Court may —
 
 (a) where the person is a young person, order the person to be transferred to and detained in a Young Offenders Section for the unexpired portion of the period for which he was originally sent to such place of detention, approved school or approved home; or
 
-(b) where the person is a male and has attained the age of 16 years and the Court is satisfied that it is expedient with a view to his reformation that he should undergo a period of training in a reformative training centre, the Court may order him to be brought before a District Court to be dealt with under section 13 of the Criminal Procedure Code (Cap. 68).
+(b) where the person is a male and has attained the age of 16 years and the Court is satisfied that it is expedient with a view to his reformation that he should undergo a period of training in a reformative training centre, the Court may order him to be brought before a District Court to be dealt with under section 13 of the Criminal Procedure Code [Cap. 68].
 
 ### Persons not to be detained in remand homes, etc., after age of 19 years
 
@@ -736,9 +714,7 @@ shall release that person on a bond, with or without sureties, for such amount a
 
 46\. Any child or young person or his parent or guardian who is dissatisfied with any judgment, sentence or order of a Juvenile Court may appeal to the High Court against the judgment, sentence or order in accordance with the provision of any law in force for the time being regulating appeals to the High Court from a Magistrate’s Court.
 
-Children and Young Persons in Need of Care and Protection
-
-### Definition
+### Children and Young Persons in Need of Care and Protection Definition
 
 47\.—(1) For the purposes of this Act, “a child or young person in need of care or protection” means a person who is —
 
@@ -758,7 +734,7 @@ requires care or protection.
 
 (2) For the purpose of this section, the fact that a child or young person is found destitute, or is found wandering without any settled place of abode and without visible means of subsistence, or is found begging or receiving alms (whether or not there is any pretence of singing, playing, performing or offering anything for sale), or is found loitering for the purpose of so begging or receiving alms or is found engaged in carrying out illegal lotteries, illegal hawking, gambling or other undesirable activities shall be evidence that he is exposed to moral danger.
 
-(3) For the purpose of this section, an intoxicating substance has the same meaning as in the Intoxicating Substances Act (Cap. 146A).
+(3) For the purpose of this section, an intoxicating substance has the same meaning as in the Intoxicating Substances Act [Cap. 146A].
 
 ### Powers of Juvenile Courts in respect of children or young persons in need of care or protection
 
@@ -818,7 +794,7 @@ and the certificate shall be produced to the court before which the person is br
 
 (3) Notwithstanding subsection (1), any person whilst being subject to the jurisdiction of the Juvenile Court who has attained the age of 16 years but is below the age of 19 years may be remanded at a remand home.
 
-(4) Notwithstanding subsections (1) and (2), in the case of a young person it shall not be obligatory on the court to remand or commit him in a remand home under these subsections if the court certifies that it is impracticable to do so, or that he is of so unruly a character that he cannot be safely so remanded or committed, and in that case the court may remand the young person to custody in, or may commit him to, a prison.
+(4) Notwithstanding subsections (1) and (2), in the case of a young person, it shall not be obligatory on the court to remand him in or commit him to a remand home under those subsections if the court certifies that it is impracticable to do so, or that he is of so unruly a character that he cannot be safely so remanded or committed, and in that case the court may remand the young person to custody in, or may commit him to, a prison.
 
 (5) An order of remand or committal under this section may be varied or, in the case of a young person who proves to be of so unruly a character that he cannot be safely remanded in a remand home, revoked by any court; and if it is revoked the young person may be remanded in custody in, or committed to, a prison.
 
@@ -850,7 +826,7 @@ APPROVED SCHOOLS AND APPROVED HOMES
 
 (2) Any institution appointed under subsection (1) shall, while that certificate remains in force, be an appointed approved school or approved home, as the case may be, for the purposes of this Act.
 
-### Manager may make regulations subject to approval of Minister
+### Manager may make regulations with approval of Minister
 
 55\. The manager of an appointed approved school or approved home may, with the approval of the Minister, make regulations for the regulation and management of the institution under his charge.
 
@@ -858,9 +834,9 @@ APPROVED SCHOOLS AND APPROVED HOMES
 
 56\. The manager of an appointed approved school or approved home shall send a monthly report to the Director containing such particulars as may be required by the regulations for the school or home.
 
-### Minister may cancel his certificate
+### Minister may cancel certificate
 
-57\.—(1) A report on the condition of any appointed approved school or approved home shall be made to the Minister by the Director if the latter is dissatisfied with the condition of the school or home.
+57\.—(1) A report on the condition of any appointed approved school or approved home shall be made to the Minister by the Director if the Director is dissatisfied with the condition of the school or home.
 
 (2) The Minister may, upon consideration of this report, cancel his certificate and, upon notice in writing of such cancellation having been given to the manager thereof, the school or home shall cease to be an appointed approved school or approved home, as the case may be, from such time as is specified in the notice, and such cancellation shall be notified in theGazette.
 
@@ -1030,7 +1006,7 @@ MISCELLANEOUS
 
 83\. All the powers which may be exercised under this Act by a Juvenile Court in respect of a child or young person may in like manner be exercised by any other court by or before which a child or young person is found guilty of an offence, or by or before which a person has been found guilty of any offence involving bodily injury to a child or young person.
 
-### Powers of Juvenile Courts conferred on Supreme Court; special power in respect of persons of 16 years of age and above and below 19 years
+### Powers of Juvenile Courts conferred on Supreme Court; special power in respect of persons of 16 to 19 years of age
 
 84\. Nothing in this Act shall affect the powers of the Supreme Court and all the powers which may be exercised under this Act by a Juvenile Court in respect of a child or young person may in like manner be exercised by the Supreme Court; and, in addition, the Supreme Court shall have power to order the detention in a Young Offenders Section, up to but not after his attainment of the age of 19 years, of any person who has attained the age of 16 years but has not attained the age of 19 years at the date of making the order.
 
@@ -1048,17 +1024,32 @@ MISCELLANEOUS
 
 (d) the inspection of approved schools, approved homes, remand homes, places of detention and places of safety and returns to be furnished by persons in charge of such places; and
 
-(e) the management of remand homes, places of detention and places of safety and the conduct and discipline of persons detained in such places.
+(e) the management of remand homes, places of detention and places of safety.
 
 ### Rules of Court
 
 86\. Rules of Court may be made by the Chief Justice for regulating the procedure and practice in Juvenile Courts.
 
-### Repeal and savings
+### Savings
 
-87\.—(1) The Children and Young Persons Act (Cap. 38) is repealed.
+87\.—(1) Any registration, notification, summons, warrants, appointment, report, licence or order made, issued or given under the repealed Children and Young Persons Act [Cap. 38, 1985 Ed.] shall have the same force and effect as if it had been made, issued or given under this Act.
 
-(2) Any registration, notification, summons, warrants, appointment, report, licence or order made, issued or given under the repealed Children and Young Persons Act shall have the same force and effect as if it had been made, issued or given under this Act.
+(2) A protector may, notwithstanding the repeal of the Children and Young Persons Act, make such order, ruling or direction and take such action as he could have under the repealed Children and Young Persons Act relating to transferred children and any person aggrieved by any order made by a protector under the repealed Act or the refusal of the protector to review any such order may appeal as he could have under the repealed Act.
 
-(3) A protector may, notwithstanding the repeal of the Children and Young Persons Act, make such order, ruling or direction and take such action as he could have under the repealed Children and Young Persons Act relating to transferred children and any person aggrieved by any order made by a protector under the repealed Act or the refusal of the protector to review any such order may appeal as he could have under the repealed Act.
+## LEGISLATIVE HISTORY
 
+Children and Young Persons Act
+
+(CHAPTER 38)
+
+This Legislative History is provided for the convenience of users of the Children and Young Persons Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 1 of 1993—Children and Young Persons Act 1993**|
+||Date of First Reading|16 November 1992|
+|||(Bill No. 38/1992 published on 17 November 1992)|
+||Date of Second and Third Readings|18 January 1993|
+||Date of commencement|21 March 1993|
+|2.|**1994 Revised Edition—Children and Young Persons Act**|
+||Date of operation|15 March 1994|
