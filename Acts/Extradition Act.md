@@ -904,3 +904,9 @@ This Legislative History is provided for the convenience of users of the Extradi
 |||(Bill No. 26/1993 published on 31 August 1993)|
 ||Date of Second and Third Readings|12 October 1993|
 ||Date of commencement|12 November 1993|
+|6.|**Act 32 of 1996—Hijacking and Protection of Aircraft (Amendment) Act 1996**|
+||(Consequential amendments made by)||
+||Date of First Reading|12 July 1996|
+|||(Bill No. 20/1996 published on 13 July 1996)|
+||Date of Second and Third Readings|27 August 1996|
+||Date of commencement|1 November 1996|
