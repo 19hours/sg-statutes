@@ -52,6 +52,16 @@
 
 - [20 Control of occupation](#Control-of-occupation)
 
+[**Part IIIA CONTROL OF AIDS**](#Part-IIIA)
+
+- [20A Person with AIDS to undergo counselling, etc](#Person-with-AIDS-to-undergo-counselling-etc)
+
+- [20B Sexual intercourse by person with AIDS](#Sexual-intercourse-by-person-with-AIDS)
+
+- [20C Blood donation and other acts by persons with AIDS](#Blood-donation-and-other-acts-by-persons-with-AIDS)
+
+- [20D Protection of identity of person with AIDS or other sexually transmitted disease](#Protection-of-identity-of-person-with-AIDS-or-other-sexually-transmitted-disease)
+
 [**Part IV PREVENTION OF THE INTRODUCTION OF INFECTIOUS DISEASES INTO SINGAPORE**](#Part-IV)
 
 - [21 Infected area](#Infected-area)
@@ -190,6 +200,10 @@ PRELIMINARY
 
 2\. In this Act, unless the context otherwise requires —
 
+“AIDS” means Acquired Immune Deficiency Syndrome;
+
+[5/92 wef 01/04/1992]
+
 “baggage” means the personal effects of a traveller or of a crew member of a vessel;
 
 “building” means any house, hut, shed or roofed enclosure, whether intended for the purpose of human habitation or otherwise, and any wall, gate, post, pillar, paling, frame, hoarding, slip, dock, wharf, pier, jetty, landing-stage or bridge;
@@ -294,13 +308,17 @@ CONTROL OF INFECTIOUS DISEASES WITHIN SINGAPORE
 
 ### Epidemiological surveys and investigations
 
-7\.—(1) The Director may from time to time undertake epidemiological surveys of people, animals or vectors in order to determine the existence, prevalence or incidence of any infectious disease.
+7\.—(1) The Director may from time to time undertake epidemiological surveys of people, animals or vectors in order to determine the existence, prevalence or incidence of any infectious disease or any other disease which the Minister, by notification in theGazette, declares to be a disease to which this section applies.
 
-(2) In investigating an infectious disease the Director may require —
+[5/92 wef 01/04/1992]
+
+(2) In investigating any disease the Director may require —
 
 (a) any person to furnish him as soon as practicable with such information as he may require for the purpose of the investigation; and
 
 (b) any person to submit to such medical examination as he thinks fit.
+
+[5/92 wef 01/04/1992]
 
 (3) Any person who fails without reasonable excuse to furnish any information or to submit to any medical examination required under this section shall be guilty of an offence.
 
@@ -387,6 +405,80 @@ CONTROL OF INFECTIOUS DISEASES WITHIN SINGAPORE
 (4) Any person who contravenes any order made under subsection (1) or (2) shall be guilty of an offence.
 
 [16/80]
+
+## PART IIIA
+
+CONTROL OF AIDS
+
+### Person with AIDS to undergo counselling, etc
+
+20A\.—(1) The Director may require any person who has been diagnosed as having AIDS or as having been infected with the Human Immunodeficiency Virus —
+
+(a) to undergo counselling by a registered medical practitioner; and
+
+(b) to comply with such precautions and safety measures as may be specified by the Director.
+
+(2) Any person who fails or refuses to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+[5/92 wef 01/04/1992]
+
+### Sexual intercourse by person with AIDS
+
+20B\.—(1) A person who knows that he has AIDS or that he has been infected with the Human Immunodeficiency Virus shall not have sexual intercourse with another person unless, before the sexual intercourse takes place, the other person —
+
+(a) has been informed of the risk of contracting AIDS from him or of being infected with the Human Immunodeficiency Virus; and
+
+(b) has voluntarily agreed to accept that risk.
+
+(2) For the purposes of this section, a person shall not, only by reason of age, be presumed incapable of having sexual intercourse.
+
+(3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+(4) In this section,
+
+“sexual intercourse” means —
+
+(a) sexual connection occasioned by the introduction into the vagina, anus or mouth of any person of any part of the penis of another person; or
+
+(b) cunnilingus.
+
+(5) For the purposes of this section and section 20C, a person shall be deemed to know that he has AIDS or has been infected with the Human Immunodeficiency Virus if a serological test or any other prescribed test for the purpose of ascertaining the presence of Human Immunodeficiency Virus carried out on him has given a positive result and the result was communicated to him.
+
+[5/92 wef 01/04/1992]
+
+### Blood donation and other acts by persons with AIDS
+
+20C\.—(1) Any person who knows that he has AIDS or that he has been infected with the Human Immunodeficiency Virus shall not —
+
+(a) donate blood at any blood bank in Singapore; or
+
+(b) do any act which is likely to transmit or spread AIDS to another person or cause another person to be infected with the Human Immunodeficiency Virus.
+
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+[5/92 wef 01/04/1992]
+
+### Protection of identity of person with AIDS or other sexually transmitted disease
+
+20D\.—(1) Any person who in the performance or exercise of his functions or duties under this Act is aware or has reasonable grounds for believing that another person has AIDS or is infected with the Human Immunodeficiency Virus or is suffering from a sexually transmitted disease or is a carrier of that disease shall not disclose any information which may identify the other person except —
+
+(a) with the consent of the other person;
+
+(b) when it is necessary to do so in connection with the administration or execution of anything under this Act;
+
+(c) when ordered to do so by a court;
+
+(d) to any medical practitioner or other health staff who is treating or caring for the other person;
+
+(e) to blood, organ, semen or breast milk banks that have received or will receive any blood, organ, semen or breast milk from the other person;
+
+(f) for statistical reports and epidemiological purposes if the information is used in such a way that the identity of the other person is not made known; or
+
+(g) to the victim of a sexual assault by the other person.
+
+(2) Any person who contravenes or fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both.
+
+[5/92 wef 01/04/1992]
 
 ## PART IV
 
@@ -714,7 +806,9 @@ Provided that no person so arrested shall be detained longer than is necessary f
 
 ### General penalty for offences
 
-60\. Any person who is guilty of an offence under this Act for which no penalty is otherwise prescribed shall be liable on conviction to a fine not exceeding $2,000 and in the case of a second or subsequent like offence shall be liable to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+60\. Any person who is guilty of an offence under this Act for which no penalty is otherwise prescribed shall be liable on conviction to a fine not exceeding $5,000 and in the case of a second or subsequent like offence shall be liable to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[5/92 wef 01/04/1992]
 
 ### Offences triable by Magistrate’s Court unless otherwise provided
 
@@ -900,3 +994,8 @@ This Legislative History is provided for the convenience of users of the Infecti
 ||Date of operation|30 March 1987|
 |9.|**G. N. No. S 119/1990—Infectious Diseases Act (Amendment of Schedules) Notification 1990**|
 ||Date of commencement|1 April 1990|
+|10.|**Act 5 of 1992—Infectious Diseases (Amendment) Act 1992**|
+||Date of First Reading|16 January 1992|
+|||(Bill No. 9/92 published on 17 January 1992)|
+||Date of Second and Third Readings|27 February 1992|
+||Date of commencement|1 April 1992|
