@@ -640,7 +640,7 @@ who are either directors, managers or employees of the corporation;
 
 (a) the partnership is one in which only registered surveyors, each of whom shall have in force a practising certificate, and allied professionals have a beneficial interest in the capital assets and profits of the partnership; and
 
-(b) the business of the partnership, so far as it relates to survey work in Singapore, will be under the control and management of a partner who is a registered surveyor ordinarily resident in Singapore; and has in force a practising certificate.
+(b) the business of the partnership, so far as it relates to survey work in Singapore, will be under the control and management of a partner who is a registered surveyorordinarily resident in Singapore; and has in force a practising certificate.
 
 [35/98; 34/99]
 
@@ -726,7 +726,7 @@ furnish the Board a true report in writing giving full particulars of the altera
 
 (a) comply with the prohibitions in section 162 (relating to loans to its directors) and section 163 (relating to loans to persons connected with the directors of the lending company) of the Companies Act (Cap. 50) as if it were not an exempt private company; and
 
-(b) forward annually to the Registrar of Companies, together with the annual return required by section 197 of the Companies Act, such copies of documents as are required to be included in the annual return and such certificates and particulars in accordance with Part II of the Eighth Schedule to that Act as if it were not an exempt private company.
+(b) forward annually to the Registrar of Companies, together with the annual return required by section 197 of the Companies Act, such copies of documents as are required to be included in the annual return and such certificates and particulars in accordance with the prescribed form referred to in section 197(2) of that Act as if it were not an exempt private company.
 
 (3) In this section, “exempt private company” has the same meaning as in the Companies Act.
 
@@ -1235,6 +1235,12 @@ This Legislative History is provided for the convenience of users of the Land Su
 ||Date of commencement|1 June 2001|
 |8.|**2002 Revised Edition—Land Surveyors Act (Chapter 156)**|
 ||Date of operation|31 December 2002|
+|9.|**Act 12 of 2002—Companies (Amendment) Act 2002**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|23 May 2002|
+|||(Bill No. 16/2002 published on 24 May 2002)|
+||Date of Second and Third Readings|8 July 2002|
+||Dates of commencement|13 January 2003 (sections 2(b), 3 to 35, 42 to 54, 55(a), 56 to 60, 62, 63 and 64)|
 ## COMPARATIVE TABLE
 
 Land Surveyors Act
