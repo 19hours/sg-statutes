@@ -214,7 +214,7 @@
 
 - [77 Transfer of sums from one item to another](#Transfer-of-sums-from-one-item-to-another)
 
-- [78 Investment](#Investment)
+- [78 Power of investment](#Power-of-investment)
 
 [**Part VI MISCELLANEOUS**](#Part-VI)
 
@@ -2196,15 +2196,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [11/91]
 
-### Investment
+### Power of investment
 
-78\. The Board may from time to time, with the approval of the Minister, invest moneys standing to the credit of the Board in —
+78\. The Board may invest its moneys in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
 
-(a) the shares of any private or public company; or
-
-(b) any of the securities in which trust funds may, by any written law for the time being in force relating to trustees, be invested.
-
-[28/89]
+[Act 45/2004, 15/12/2004]
 
 ## PART VI
 
@@ -4855,6 +4851,12 @@ This Legislative History is provided for the convenience of users of the Housing
 ||Date of commencement|1 August 2003|
 |32.|**2004 Revised Edition—Housing and Development Act**|
 ||Date of operation|31 July 2004|
+|33.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
+||Date of First Reading|21 September 2004|
+|||(Bill No. 43/2004 published on 22 September 2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|15 December 2004|
+|||(item (16) in the Schedule)|
 ## COMPARATIVE TABLE
 
 Housing and Development Act
