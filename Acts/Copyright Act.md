@@ -782,7 +782,7 @@ but does not include —
 
 (b) a building or model of a building, whether the building or model is of artistic quality or not; or
 
-(c) a work of artistic craftsmanship to which neither paragraph (a) nor (b) applies;
+(c) a work of artistic craftsmanship to which neither paragraph (a) nor (b) applies,
 
 but does not include a layout-design or an integrated circuit within the meaning of section 2 of the Layout-Designs of Integrated Circuits Act 1999.
 
@@ -1861,6 +1861,8 @@ and includes, in relation to a work held in electronic form, any copying by elec
 52\.—(1) Subject to this section, the copyright in an article contained in a periodical publication is not infringed by the making of copies of the whole or a part of that article, by or on behalf of the body administering an educational institution for the educational purposes of that or another educational institution.
 
 (2) Subject to this section, the copyright in a work, other than an article in a periodical publication, is not infringed by the making of copies of the whole or a part of that work, by or on behalf of the body administering an educational institution for the educational purposes of that or another educational institution.
+
+(3) [Deleted by Act 6 of 1998 wef 16/04/1998 wef 16/04/1998 wef 16/04/1998 videS 222/98]
 
 (4) Subsection (1) shall not apply in relation to copies of, or of parts of, two or more articles contained in the same periodical publication unless the articles relate to the same subject-matter.
 
@@ -5345,3 +5347,9 @@ This Legislative History is provided for the convenience of users of the Copyrig
 |||(Bill No. 27/99 published on 4 August 1999)|
 ||Date of Second and Third Readings|17 August 1999|
 ||Date of commencement|16 April 1998 (section 25)|
+|8.|**Act 3 of 1999—Layout-Designs of Integrated Circuits Act 1999**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|23 November 1998|
+|||(Bill No. 49/98 published on 24 November 1998)|
+||Date of Second and Third Readings|20 January 1999|
+||Date of commencement|15 February 1999|
