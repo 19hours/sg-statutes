@@ -68,7 +68,15 @@ REGISTRATION OF FOREIGN JUDGMENTS
 
 “appeal” includes any proceeding by way of discharging or setting aside a judgment or an application for a new trial or stay of execution;
 
+“country” includes a territory;
+
+[2/99 wef 25/02/1999]
+
 “country of the original court” means the country in which the original court is situated;
+
+“foreign country” means any country outside Singapore which is not part of the Commonwealth;
+
+[2/99 wef 25/02/1999]
 
 “judgment” means a judgment or order given or made by a court in any civil proceedings, or a judgment or order given or made by a court in any criminal proceedings for the payment of a sum of money in respect of compensation or damages to an injured party;
 
@@ -114,7 +122,7 @@ REGISTRATION OF FOREIGN JUDGMENTS
 
 (b) there is payable thereunder a sum of money, not being a sum payable in respect of taxes or other charges of a like nature or in respect of a fine or other penalty; and
 
-[S 227/1995]
+[S 227/95]
 
 (c) it is given after the coming into operation of the order directing that this Part shall extend to that foreign country.
 
@@ -122,9 +130,13 @@ REGISTRATION OF FOREIGN JUDGMENTS
 
 (4) The Minister may by a subsequent order published in theGazettevary or revoke any order previously made under this section.
 
+(5) An order directing that this Part shall extend to a foreign country may provide that the order shall come into operation on a date before, on or after the date of commencement of the Probate and Administration (Amendment) Act 1999.
+
+[2/99 wef 25/02/1999]
+
 ### Application for, and effect of, registration of foreign judgment
 
-4\.—(1) A person, being a judgment creditor under a judgment to which this Part applies, may apply to the High Court at any time within 6 years after the date of the judgment, or, where there have been proceedings by way of appeal against the judgment, after the date of the last judgment given in those proceedings, to have the judgment registered in the High Court, and on any such application the court shall, subject to proof of the prescribed matters and to the other provisions of this Act, order the judgment to be registered:
+4\.—(1) A person, being a judgment creditor under a judgment to which this Part applies, may apply to the High Court at any time within 6 years after the date of the judgment, or, where there have been proceedings by way of appeal against the judgment, after the date of the last judgment given in those proceedings, to have the judgment registered in the High Court, and on any such application the court shall, subject to proof of the prescribed matters and to the provisions of this Act, order the judgment to be registered:
 
 Provided that a judgment shall not be registered if at the date of the application —
 
@@ -146,7 +158,7 @@ as if the judgment had been a judgment originally given in the registering court
 
 Provided that execution shall not issue on the judgment so long as, under this Part and the Rules of Court made thereunder, it is competent for any party to make an application to have the registration of the judgment set aside, or, where such application is made, until after the application has been finally determined.
 
-(3) [Deleted by Act 34 of 1992 wef 18/12/1992]
+(3) Deleted by Act 34/92 wef 18.12.92 vide S 508/92.
 
 (4) If at the date of the application for registration the judgment of the original court has been partly satisfied, the judgment shall not be registered in respect of the whole sum payable under the judgment of the original court, but only in respect of the balance remaining payable at the date.
 
@@ -212,9 +224,21 @@ Provided that execution shall not issue on the judgment so long as, under this P
 
 7\. No proceedings for the recovery of a sum payable under a foreign judgment, being a judgment to which this Part applies, other than proceedings by way of registration of the judgment, shall be entertained by any court in Singapore.
 
+(1) No proceedings for the recovery of a sum payable under a foreign judgment, being a judgment to which this Part applies, other than proceedings by way of registration of the judgment, shall be entertained by any court in Singapore.
+
+[2/99 wef 25/02/1999]
+
+(2) Where the date of coming into operation of the relevant order is before the date it is published in theGazette, subsection (1) shall apply only to proceedings commenced in any court in Singapore on or after the date the relevant order is published in theGazette.
+
+[2/99 wef 25/02/1999]
+
+(3) In subsection (2), “relevant order” means the order made under section 3 by virtue of which the foreign judgment is a judgment to which this Part applies.
+
+[2/99 wef 25/02/1999]
+
 ### Rules of Court
 
-8\.—(1) The power to make Rules of Court under section 80 of the Supreme Court of Judicature Act [Cap. 322] shall, subject to this section, include power to make rules for the following purposes:
+8\.—(1) The power to make Rules of Court under section 80 of the Supreme Court of Judicature Act shall, subject to this section, include power to make rules for the following purposes:
 
 (a) for making provision with respect to the giving of security for costs by persons applying for the registration of judgments;
 
@@ -318,3 +342,9 @@ This Legislative History is provided for the convenience of users of the Recipro
 |||(Bill No. 35/92 published on 15 September 1992)|
 ||Date of Second and Third Readings|16 November 1992|
 ||Date of commencement|18 December 1992|
+|6.|**Act 2 of 1999—Probate and Administration (Amendment) Act 1999**|
+||(Consequential amendments made by)||
+||Date of First Reading|23 November 1998|
+|||(Bill No. 48/98 published on 24 November 1998)|
+||Date of Second and Third Readings|20 January 1999|
+||Date of commencement|25 February 1999|
