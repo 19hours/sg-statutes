@@ -122,7 +122,9 @@
 
 [**Part IX PROTECTION OF ESTATES PENDING GRANT**](#Part-IX)
 
-- [37 Vesting of property of an intestate](#Vesting-of-property-of-an-intestate)
+- [37 Vesting of estate in certain circumstances between death and grant of administration](#Vesting-of-estate-in-certain-circumstances-between-death-and-grant-of-administration)
+
+- [37A Transitional and savings](#Transitional-and-savings)
 
 - [38 Receiver pending grant](#Receiver-pending-grant)
 
@@ -234,7 +236,7 @@ PRELIMINARY
 
 “letters of administration with the will annexed” means a grant under the seal of the court issuing the same, authorising the person or persons therein named to administer a testator’s estate in compliance with the directions contained in his will, and in accordance with law;
 
-“official assignee” includes any officer appointed by the President to discharge the duties of official assignee in bankruptcy;
+“official assignee” includes any officer appointed by the Minister to discharge the duties of official assignee in bankruptcy;
 
 “prescribed form” means the form prescribed by rules made under any law for the time being in force relating to the courts;
 
@@ -508,13 +510,13 @@ DISTRICT COURTS
 
 ### Jurisdiction of District Courts
 
-34\.—(1) District Courts shall exercise the jurisdiction conferred on them by any written law for the time being in force relating to the courts in accordance with this Act, subject to sections 35 and 36 and to the Subordinate Courts Rules G.N. No. S 59/86.\*.
+34\.—(1) District Courts shall exercise the jurisdiction conferred on them by any written law for the time being in force relating to the courts in accordance with this Act, subject to sections 35 and 36 and to the Subordinate Courts Rules*.
 
-\*See
+*SeeG.N. No. S 59/86.
 
-(2) A District Court may, subject to the Subordinate Courts Rules G.N. No. S 59/86.\*, allow any citation issued under section 4 or under any such Rules to be served out of the jurisdiction by registered post upon any person required to be served therewith wherever he may be whether in Singapore or elsewhere.
+(2) A District Court may, subject to the Subordinate Courts Rules*, allow any citation issued under section 4 or under any such Rules to be served out of the jurisdiction by registered post upon any person required to be served therewith wherever he may be whether in Singapore or elsewhere.
 
-\*See
+SeeG.N. No. S 59/86.
 
 [7/76]
 
@@ -536,11 +538,31 @@ DISTRICT COURTS
 
 PROTECTION OF ESTATES PENDING GRANT
 
-### Vesting of property of an intestate
+### Vesting of estate in certain circumstances between death and grant of administration
 
-37\.—(1) Where a person dies intestate his movable and immovable property until administration is granted in respect thereof shall vest in the Chief Justice in the same manner and to the same extent as it vests in the Probate Judge in England.
+37\.—(1) Where a person dies intestate, his real and personal estate shall vest in the Public Trustee.
 
-(2) On the making of an order for a grant of administration by the court all such property shall vest in the administrator.
+(2) Where a testator dies and —
+
+(a) at the time of his death there is no executor with power to obtain probate of the will; or
+
+(b) at any time before probate of the will is granted there ceases to be any executor with power to obtain probate,
+
+the real and personal estate of which the testator disposes by the will shall vest in the Public Trustee with effect from the time specified in paragraph (a) or (b) in relation to each case.
+
+(3) The vesting by virtue of this section of any estate in the Public Trustee shall not, without more, confer or impose on him any power, duty, right, equity, obligation or liability in respect of the estate.
+
+(4) Any estate or part of an estate vested in the Public Trustee under subsection (1) or (2) shall cease to be so vested on the grant of administration in respect of the estate or part in question.
+
+### Transitional and savings
+
+37A\.—(1) Any estate or part of an estate of a deceased person vested in the Chief Justice under section 37 immediately before the commencement of section 4 of the Statutes (Miscellaneous Amendments) Act 1997 (referred to in this section as the appointed day) shall on the appointed day vest in the Public Trustee.
+
+(2) Subject to subsection (3), the amendment made to this Act by the Statutes (Miscellaneous Amendments) Act 1997 applies in respect of a person’s estate whether the person died before or after the appointed day.
+
+(3) Where, but for this subsection, the vesting under section 37 (as amended by the Statutes (Miscellaneous Amendments) Act 1997) of any estate of a testator would have effect from a time before the appointed day, the vesting shall have effect from that day and section 37(2) shall have effect subject to this.
+
+[7/97 wef 01/10/1997]
 
 ### Receiver pending grant
 
@@ -578,11 +600,11 @@ RE-SEALING OF PROBATES AND LETTERS OF ADMINISTRATION GRANTED OUT OF SINGAPORE
 
 45\. In this Part —
 
-“Commonwealth” shall, for the purposes of this Part, be deemed to include any country in the Commonwealth which the President may, by notification in theGazette, specify to be a country to which this Part applies;
+“Commonwealth” shall, for the purposes of this Part, be deemed to include any country in the Commonwealth which the Minister may, by notification in theGazette, specify to be a country to which this Part applies;
 
 “court of probate” means any court or authority by whatever name designated, having jurisdiction in matters of probate;
 
-“probate” and “letters of administration” include confirmation in Scotland and any instrument having in any part of the Commonwealth the same effect which, under the law of Singapore, is given to probate or letters of administration respectively.
+“probate” and “letters of administration” include confirmation in Scotland and any instrument having in any part of the Commonwealththe same effect which, under the law of Singapore, is given to probate or letters of administration respectively.
 
 ### Power of court to re-seal
 
@@ -688,7 +710,7 @@ and no person is present in Singapore at the time of his death who is rightfully
 
 ### Variation of Third Schedule
 
-60\. The President may, by notification in theGazette, add to, amend or vary the Third Schedule.
+60\. The Minister may, by notification in theGazette, add to, amend or vary the Third Schedule.
 
 ### Letters of administration granted to consular officer to pass to his successors in office
 
@@ -921,3 +943,8 @@ This Legislative History is provided for the convenience of users of the Probate
 ||Date of commencement|20 February 1987|
 |13.|**1985 Revised Edition—Probate and Administration Act**|
 ||Date of operation|30 March 1987|
+|14.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
+||Date of First Reading|11 July 1997|
+|||(Bill No. 6/1997 published on 12 July 1997)|
+||Date of Second and Third Readings|25 August1997|
+||Date of commencement|1 October 1997 (except section 3)|
