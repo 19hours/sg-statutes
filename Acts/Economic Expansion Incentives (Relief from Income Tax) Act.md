@@ -316,11 +316,11 @@
 
 - [97R Certification of income by auditor](#Certification-of-income-by-auditor)
 
-[**Part XIIIC TECHNOPRENEUR INVESTMENT INCENTIVE**](#Part-XIIIC)
+[**Part XIIIC ENTERPRISE INVESTMENT INCENTIVE**](#Part-XIIIC)
 
 - [97S Interpretation of this Part](#Interpretation-of-this-Part)
 
-- [97T Application for and issue of certificate totechnopreneur start-up company](#Application-for-and-issue-of-certificate-totechnopreneur-start-up-company)
+- [97T Application for and issue of certificate to start-up company](#Application-for-and-issue-of-certificate-to-start-up-company)
 
 - [97U Allotment of qualifying shares by company](#Allotment-of-qualifying-shares-by-company)
 
@@ -528,7 +528,7 @@ PIONEER INDUSTRIES
 
 ### Tax relief period of pioneer enterprise
 
-6\. The tax relief period of a pioneer enterprise shall commence on its production day and shall continue for such period, not exceeding 10 years, as the Minister may determine.
+6\. The tax relief period of a pioneer enterprise shall commence on its production day and shall continue for such period, not exceeding 15 years, as the Minister may determine.
 
 ### Provisions governing old and new trade or business
 
@@ -720,7 +720,7 @@ PIONEER SERVICE COMPANIES
 
 ### Tax relief period of pioneer service company
 
-18\. The tax relief period of a pioneer service company, in relation to any qualifying activity specified in any certificate issued to that company under section 17, shall commence on the commencement day and shall continue for a period of 5 years or such longer period, not exceeding 10 years, as the Minister may determine.
+18\. The tax relief period of a pioneer service company, in relation to any qualifying activity specified in any certificate issued to that company under section 17, shall commence on the commencement day and shall continue for a period of 5 years or such longer period, not exceeding 15 years, as the Minister may determine.
 
 [34/84]
 
@@ -996,9 +996,17 @@ DEVELOPMENT AND EXPANSION INCENTIVE
 
 [36/96]
 
-(8) Notwithstanding subsection (7), the Minister may, if he thinks fit, specify any amount to be the average corresponding income in substitution of the amount determined under that subsection.
+(8) Where a development and expansion company which has been granted a tax relief period of at least 10 years is granted an extension or a further extension of its tax relief period under section 19K(1)(b) or (2), the Minister shall compute the average corresponding income for each such extension or further extension in accordance with subsection (9).
 
-[36/96]
+[48/2004 wef 27/02/2004]
+
+(9) The average corresponding income for each extension or further extension referred to in subsection (8) shall be determined by taking one-third of the total of the corresponding qualifying income for the 3 years immediately preceding the date of that extension or further extension of its tax relief period, as the case may be.
+
+[48/2004 wef 27/02/2004]
+
+(10) Notwithstanding subsections (7), (8) and (9), the Minister may, if he thinks fit, specify any amount to be the average corresponding income in substitution of the amount determined under those subsections.
+
+[48/2004 wef 27/02/2004]
 
 ### Tax relief period of development and expansion company
 
@@ -1978,11 +1986,9 @@ INVESTMENT ALLOWANCES
 
 “chargeable normal income” means normal income after deducting expenses, donations, allowances or losses allowable under the Income Tax Act against the normal income;
 
-“concessionary income” means income subject to tax at the concessionary rate of tax under section 13H, 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L, 43N, 43O, 43P or 43Q of the Income Tax Act, as the case may be;
+“concessionary income” means income subject to tax at the concessionary rate of tax under section 13H, 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L, 43N, 43O, 43P, 43Q, 43R or 43S of the Income Tax Act, as the case may be;
 
-[44/2002 wef 01/06/2001]
-
-[11/2004 wef 01/01/2004]
+[48/2004 wef 27/02/2004]
 
 “concessionary investment allowance” means an investment allowance given to a company for an approved project from which the concessionary income of the company is derived;
 
@@ -3006,7 +3012,7 @@ ought not to have been exempted by reason of a direction under section 97L, havi
 
 ## PART XIIIC
 
-TECHNOPRENEUR INVESTMENT INCENTIVE
+ENTERPRISE INVESTMENT INCENTIVE
 
 [44/2002 wef 20/12/2002]
 
@@ -3014,11 +3020,11 @@ TECHNOPRENEUR INVESTMENT INCENTIVE
 
 97S\. In this Part, unless the context otherwise requires —
 
-“eligible investor”, in relation to a technopreneur start-up company, means a person who holds such qualifying shares in the company as specified in a letter issued by the company to the person under section 97U(2);
+“eligible investor”, in relation to a start-up company, means a person who holds such qualifying shares in the company as specified in a letter issued by the company to the person under section 97U(2);
 
-“technopreneur start-up company” means a company approved as a technopreneur start-up company under section 97T(2).
+“start-up company” means a company approved as a start-up company under section 97T(2).
 
-### Application for and issue of certificate totechnopreneur start-up company
+### Application for and issue of certificate to start-up company
 
 97T\.—(1) Any company which —
 
@@ -3028,15 +3034,15 @@ TECHNOPRENEUR INVESTMENT INCENTIVE
 
 (c) is solely or primarily engaged in Singapore in innovative and high growth activities with substantial developmental contents in relation to any product, process or service,
 
-may make an application to the Minister to be approved as a technopreneur start-up company.
+may make an application to the Minister to be approved as a start-up company.
 
-(2) Where the Minister is satisfied that the activities of the company are in an area of high growth potential and, if introduced in Singapore, would promote or enhance the economic or technological development of Singapore, the Minister may approve the company as a technopreneurstart-up company for a period not exceeding 5 years and issue a certificate to the company subject to such conditions as he may impose.
+(2) Where the Minister is satisfied that the activities of the company are in an area of high growth potential and, if introduced in Singapore, would promote or enhance the economic or technological development of Singapore, the Minister may approve the company as a start-up company for a period not exceeding 5 years and issue a certificate to the company subject to such conditions as he may impose.
 
 (3) No approval under subsection (2) shall be given on or after 1st September 2009.
 
 ### Allotment of qualifying shares by company
 
-97U\.—(1) A technopreneurstart-up company may, on or after 1st September 1999, allot to any person shares of the company as qualifying shares if the following conditions are satisfied:
+97U\.—(1) A start-up company may, on or after 27th February 2004, allot to any person shares of the company as qualifying shares if the following conditions are satisfied:
 
 (a) the shares are not shares of a preferential nature;
 
@@ -3050,27 +3056,27 @@ may make an application to the Minister to be approved as a technopreneur start-
 
 (f) at the time the shares are allotted to the person, the total amount paid to the company for all qualifying shares by eligible investors (including the amount paid for those shares by that person) has not in the aggregate exceeded $3 million.
 
-(2) Where a technopreneur start-up company has allotted any qualifying shares under subsection (1) to any person, the company shall issue to the person a letter for the purposes of this Part.
+(2) Where a start-up company has allotted any qualifying shares under subsection (1) to any person, the company shall issue to the person a letter for the purposes of this Part.
 
-(3) Every letter issued by a technopreneur start-up company to any person under subsection (2) shall specify —
+(3) Every letter issued by a start-up company to any person under subsection (2) shall specify —
 
 (a) the date on which the qualifying shares are allotted to the person; and
 
 (b) the number of qualifying shares allotted to the person and the purchase price of such shares.
 
-(4) A technopreneur start-up company shall keep and maintain records of the persons to whom letters under subsection (2) are issued and such other particulars as may be required by the Minister for the purposes of this section.
+(4) A start-up company shall keep and maintain records of the persons to whom letters under subsection (2) are issued and such other particulars as may be required by the Minister for the purposes of this section.
 
 (5) Any letter issued under subsection (2) shall not be transferable.
 
-(6) Where a technopreneur start-up company is listed at any time whether or not during or after the period referred to in section 97T(2) on the Singapore Exchange or elsewhere or where the certificate issued under section 97T(2) to a technopreneur start-up company is revoked under section 99, any qualifying shares allotted by the company to any person shall, as from the date of such listing or revocation, as the case may be, be deemed not to be qualifying shares and the person shall be deemed not to be an eligible investor.
+(6) Where a start-up company is listed at any time whether or not during or after the period referred to in section 97T(2) on the Singapore Exchange or elsewhere or where the certificate issued under section 97T(2) to a start-up company is revoked under section 99, any qualifying shares allotted by the company to any person shall, as from the date of such listing or revocation, as the case may be, be deemed not to be qualifying shares and the person shall be deemed not to be an eligible investor.
 
 ### Deduction of losses allowable to eligible investor
 
 97V\.—(1) Subject to this section, where, in any basis period for any year of assessment, any eligible investor has incurred any loss arising from —
 
-(a) the sale of qualifying shares held by him in a technopreneur start-up company; or
+(a) the sale of qualifying shares held by him in a start-up company; or
 
-(b) the liquidation of the technopreneur start-up company,
+(b) the liquidation of the start-up company,
 
 the loss shall be allowed as a deduction against the statutory income of the eligible investor for that year of assessment in accordance with section 37 of the Income Tax Act (Cap. 134) as if the loss were incurred from a trade or business carried on by the eligible investor.
 
@@ -3078,11 +3084,11 @@ the loss shall be allowed as a deduction against the statutory income of the eli
 
 (a) any gain made or loss incurred on the sale of any qualifying share which occurred during the period of less than one year from the date of allotment to the eligible investor of such share shall be disregarded;
 
-(b) any gain made or loss incurred on the sale of any qualifying share, or from the liquidation of the technopreneur start-up company which occurred after 6 years from the date of allotment of such share to the eligible investor shall be disregarded;
+(b) any gain made or loss incurred on the sale of any qualifying share, or from the liquidation of the start-up company which occurred after 6 years from the date of allotment of such share to the eligible investor shall be disregarded;
 
 (c) no deduction under this section shall be allowed for any year of assessment unless —
 
-(i) the total losses in respect of the sale of any qualifying share, or from the liquidation of the technopreneur start-up company up to the end of the basis period for that year of assessment exceed the total gains made in respect of the sale of any qualifying share, or from the liquidation of the technopreneur start-up company up to the end of that basis period; and
+(i) the total losses in respect of the sale of any qualifying share, or from the liquidation of the start-up company up to the end of the basis period for that year of assessment exceed the total gains made in respect of the sale of any qualifying share, or from the liquidation of the start-up company up to the end of that basis period; and
 
 (ii) the Comptroller is satisfied that the loss was not incurred for the purpose of obtaining a tax advantage;
 
@@ -3090,7 +3096,7 @@ the loss shall be allowed as a deduction against the statutory income of the eli
 
 (e) in computing the gain or loss from the sale of any qualifying share by an eligible investor, the shares allotted to him on an earlier date shall be deemed to have been sold first.
 
-(3) Where in the basis period for any year of assessment an eligible investor makes a gain from the sale of any qualifying share, or from the liquidation of a technopreneur start-up company and where any loss from the sale of any qualifying share of that technopreneur start-up company has been allowed as a deduction to the eligible investor under this section for any previous year of assessment, such gain shall, so far as it is not chargeable to tax as a revenue or trading receipt, be deemed to be income of the eligible investor chargeable to tax for that year of assessment, subject to the following provisions:
+(3) Where in the basis period for any year of assessment an eligible investor makes a gain from the sale of any qualifying share, or from the liquidation of a start-up company and where any loss from the sale of any qualifying share of that start-up company has been allowed as a deduction to the eligible investor under this section for any previous year of assessment, such gain shall, so far as it is not chargeable to tax as a revenue or trading receipt, be deemed to be income of the eligible investor chargeable to tax for that year of assessment, subject to the following provisions:
 
 (a) no gain shall be so deemed to be income unless the total amount of the losses allowed for the previous years of assessment exceed the total amount of the gains deemed to be income for previous years of assessment;
 
@@ -3098,7 +3104,7 @@ the loss shall be allowed as a deduction against the statutory income of the eli
 
 (c) the losses and gains referred to in subsection (2)(a) and (b) shall be disregarded.
 
-(4) Where in the basis period for any year of assessment an eligible investor incurs a loss from the sale of any qualifying share or from the liquidation of a technopreneur start-up company and where any gain made from the sale of any qualifying shares of that technopreneur start-up company, so far as it is not chargeable to tax as a revenue or trading receipt, has not been deemed to be income of the eligible investor chargeable to tax under this section for any previous year of assessment, such loss shall be allowed as a deduction against the statutory income of the eligible investor for that year of assessment under this section subject to the following provisions:
+(4) Where in the basis period for any year of assessment an eligible investor incurs a loss from the sale of any qualifying share or from the liquidation of a start-up company and where any gain made from the sale of any qualifying shares of that start-up company, so far as it is not chargeable to tax as a revenue or trading receipt, has not been deemed to be income of the eligible investor chargeable to tax under this section for any previous year of assessment, such loss shall be allowed as a deduction against the statutory income of the eligible investor for that year of assessment under this section subject to the following provisions:
 
 (a) the amount of deduction shall not exceed the excess of the loss over the total amount of gains not deemed to be income for previous years of assessment;
 
@@ -3108,17 +3114,17 @@ the loss shall be allowed as a deduction against the statutory income of the eli
 
 (5) For the purposes of this section, the loss shall be the excess of the purchase price of the qualifying shares —
 
-(a) over the proceeds from the sale; and where the value of net asset backing of the technopreneur start-up company as determined by the Comptroller at the date of sale of such shares is greater than the sale proceeds, that value shall be deemed to be the proceeds from the sale; or
+(a) over the proceeds from the sale; and where the value of net asset backing of the start-up company as determined by the Comptroller at the date of sale of such shares is greater than the sale proceeds, that value shall be deemed to be the proceeds from the sale; or
 
-(b) over the proceeds from the liquidation of the technopreneur start-up company,
+(b) over the proceeds from the liquidation of the start-up company,
 
 as the case may be.
 
 (6) For the purposes of this section, the gain shall be the excess of —
 
-(a) the proceeds from the sale; and where the value of net asset backing of the technopreneur start-up company as determined by the Comptroller at the date of sale of such shares is greater than the sale proceeds, that value shall be deemed to be the proceeds from the sale; or
+(a) the proceeds from the sale; and where the value of net asset backing of the start-up company as determined by the Comptroller at the date of sale of such shares is greater than the sale proceeds, that value shall be deemed to be the proceeds from the sale; or
 
-(b) the proceeds from the liquidation of the technopreneur start-up company,
+(b) the proceeds from the liquidation of the start-up company,
 
 as the case may be, over the purchase price of the shares.
 
@@ -3134,15 +3140,19 @@ as the case may be, over the purchase price of the shares.
 
 ### Prohibition of other activity
 
-97X\. A technopreneur start-up company shall not, without the written approval of the Minister, carry out any activity other than the activity to which its certificate relates.
+97X\. A start-up company shall not, without the written approval of the Minister, carry out any activity other than the activity to which its certificate relates.
 
 ### Recovery of tax
 
-97Y\. Notwithstanding anything in this Part, where it appears to the Comptroller that any deduction under section 97V ought not to have been given to an eligible investor by reason of a direction made under section 97W or the revocation under section 99 of the certificate issued under section 97T(2) to a technopreneur start-up company or the loss was incurred for the purpose of obtaining a tax advantage, the Comptroller may, subject to section 74 of the Income Tax Act (Cap. 134), make such assessment or additional assessment upon the eligible investor as may be necessary in order to recover any tax which should have been payable by the eligible investor.
+97Y\. Notwithstanding anything in this Part, where it appears to the Comptroller that any deduction under section 97V ought not to have been given to an eligible investor by reason of a direction made under section 97W or the revocation under section 99 of the certificate issued under section 97T(2) to a start-up company or the loss was incurred for the purpose of obtaining a tax advantage, the Comptroller may, subject to section 74 of the Income Tax Act (Cap. 134), make such assessment or additional assessment upon the eligible investor as may be necessary in order to recover any tax which should have been payable by the eligible investor.
 
 ### Savings provision
 
-97Z\. Any certificate issued by the Minister to a technopreneur start-up company and any letter of allotment of qualifying shares issued by a technopreneur start-up company before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2002 shall be deemed to be issued under sections 97T(2) and 97U(2), respectively.
+97Z\.—(1) Notwithstanding the amendment of sections 97S to 97V, 97X and 97Y by the Economic Expansion Incentives (Relief from Income Tax) (Amendment No. 2) Act 2004, sections 97S to 97V, 97X and 97Y in force immediately before 27th February 2004 shall continue to apply and have effect to any technopreneur start-up company approved before that date.
+
+(2) In this section, “technopreneur start-up company” means a company approved as a technopreneur start-up company under section 97T(2) in force immediately before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment No. 2) Act 2004.
+
+[48/2004 wef 27/02/2004]
 
 ## PART XIIID
 
@@ -3828,6 +3838,11 @@ This Legislative History is provided for the convenience of users of the Economi
 |||(Bill No. 7/2004 published on 28 February 2004)|
 ||Date of Second and Third Readings|20 April 2004|
 ||Date of commencement|1 January 2004|
+|31.|**Act 48 of 2004—Economic Expansion Incentives (Relief from Income Tax) (Amendment No. 2) Act 2004**|
+||Date of First Reading|19 October 2004|
+|||(Bill No. 56/2004 published on 20 October 2004)|
+||Date of Second and Third Readings|17 November 2004|
+||Date of commencement|27 February 2004|
 ## COMPARATIVE TABLE
 
 Economic Expansion Incentives (Relief from Income Tax) Act
