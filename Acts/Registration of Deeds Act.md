@@ -218,9 +218,11 @@ and where the context so permits, the proprietorship of land includes natural ri
 
 (2) Such a caveat shall contain the following particulars:
 
-(a) the name of, and the address for the service of notices under this Act on, the caveator and the caveatee;
+(a) the names of the caveator and the caveatee and their addresses for the service of notices under this Act;
 
-(b) a description of the estate or interest in the land given to or claimed by the caveator.
+(b) a description of the estate or interest in the land given to or claimed by the caveator and, if the caveator is the purchaser or sub-purchaser of the estate or interest claimed in the caveat, the amount of the purchase price and the date of the caveator’s contract or the date on which he exercised the option to purchase the interest in the land, as the case may be.
+
+[Act 27 of 1993 wef 01/03/1994]
 
 (3) Where a part of a Government survey lot is affected, the caveat shall have a plan annexed edging with sufficient identity that part of the lot affected.
 
@@ -360,9 +362,11 @@ and where the context so permits, the proprietorship of land includes natural ri
 
 15\.—(1) Notwithstanding any other provision of this Act, a prior mortgagee of land shall have the right to make further advances giving further credit or accommodation to rank in priority to subsequent mortgages —
 
-(a) if the prior mortgage expressly provides for the making of further advances, or for the giving of credit to the mortgagor on a current, revolving or continuing account; or
+(a) if the prior mortgage authorises the making of further advances, or the giving of credit in instalments or on a current, revolving or continuing account or other accommodation; or
 
-(b) if the subsequent mortgagee agrees to such further advances being made or credit or other accommodation given.
+(b) where the prior mortgage does not expressly authorise the making of such further advances, or for the giving of credit in instalments or on a current, revolving or continuing account or other accommodation, if the subsequent mortgagee agrees to such further advances being made or such credit or other accommodation being given.
+
+[Act 27/1993 wef 01/03/1994]
 
 (2) Except as provided in this section, the right to tack shall not apply to mortgages.
 
@@ -579,3 +583,9 @@ This Legislative History is provided for the convenience of users of the Registr
 |||(Bill No. 11/1991 published on 28 February 1991)|
 ||Date of Second and Third Readings|28 June 1991|
 ||Date of commencement|30 August 1991|
+|4.|**Act 27 of 1993—Land Titles Act 1993**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|16 November 1992|
+|||(Bill No. 36/1992 published on 17 November 1992)|
+||Date of Second and Third Readings|30 August 1993|
+||Date of commencement|1 March 1994|
