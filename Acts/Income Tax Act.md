@@ -146,7 +146,7 @@
 
 - [19A Allowances of 3 years write off for machinery and plant, and 100% write off for computer, prescribed office automation equipment and robot, etc.](#Allowances-of-3-years-write-off-for-machinery-and-plant-and-100%-write-off-for-computer-prescribed-office-automation-equipment-and-robot-etc)
 
-- [19B Writing-down allowances for approved intellectual property rights](#Writing-down-allowances-for-approved-intellectual-property-rights)
+- [19B Writing-down allowances for intellectual property rights](#Writing-down-allowances-for-intellectual-property-rights)
 
 - [19C Writing-down allowances for approved cost-sharing agreement for research and development activities](#Writing-down-allowances-for-approved-cost-sharing-agreement-for-research-and-development-activities)
 
@@ -198,7 +198,7 @@
 
 - [37A Restriction on deduction of trading losses against dividends](#Restriction-on-deduction-of-trading-losses-against-dividends)
 
-- [37B Adjustment of capital allowances, losses or donations between income subject to tax at different rates](#Adjustment-of-capital-allowances-losses-or-donations-between-income-subject-to-tax-at-different-rates)
+- [37B Adjustment of capital allowances and losses between income subject to tax at concessionary and normal rates of tax Adjustment of capital allowances, losses or donations between income subject to tax at different rates](#Adjustment-of-capital-allowances-and-losses-between-income-subject-to-tax-at-concessionary-and-normal-rates-of-tax-Adjustment-of-capital-allowances-losses-or-donations-between-income-subject-to-tax-at-different-rates)
 
 - [37C Group relief for Singapore companies](#Group-relief-for-Singapore-companies)
 
@@ -440,7 +440,7 @@
 
 [**SECOND SCHEDULE Rates of Tax Part A Rates of Tax on Chargeable Income of An Individual or A Hindu Joint Family**](#SECOND-SCHEDULE)
 
-[**THIRD SCHEDULE Repealed by Act 2/86**](#THIRD-SCHEDULE-Repealed-by-Act-2/86)
+[**THIRD SCHEDULE Repealed**](#THIRD-SCHEDULE-Repealed)
 
 [**FOURTH SCHEDULE Name of Bond, Securities, Stock or Fund**](#FOURTH-SCHEDULE-Name-of-Bond-Securities-Stock-or-Fund)
 
@@ -517,10 +517,6 @@ and “employer” and other cognate expressions shall be construed accordingly;
 “employment pass” means an employment pass issued by the Controller of Immigration under the Immigration Regulations (Cap. 133, Rg 1);
 
 “executor” means any executor, administrator or other person administering the estate of a deceased person;
-
-“Fund manager” or “fund manager” means a company holding a capital markets services licence under the Securities and Futures Act 2001 for fund management or that is exempted under that Act from holding such a licence;
-
-[42/2001 wef 01/10/2002]
 
 “goods” includes currency and specie;
 
@@ -774,19 +770,31 @@ IMPOSITION OF INCOME TAX
 
 (a) a Singapore ship which is owned by a shipping enterprise within the meaning of section 13A at the time the balancing charge falls to be made in respect of the Singapore ship, but only up to the amount ascertained in accordance with the formula
 
-where A is the amount of allowances under section 19 made to the enterprise in respect of the Singapore ship against any income exempt from tax under section 13A;
+where A
 
-B is the total amount of allowances under section 19 or 19A which have been made in respect of the ship during the period it is owned by the enterprise; and
+is the amount of allowances under section 19 made to the enterprise in respect of the Singapore ship against any income exempt from tax under section 13A;
 
-C is the amount of balancing charge;
+B
+
+is the total amount of allowances under section 19 or 19A which have been made in respect of the ship during the period it is owned by the enterprise; and
+
+C
+
+is the amount of balancing charge;
 
 (b) a foreign ship the income derived from the operation of which would be income of a shipping enterprise within the meaning of section 13A or income of an approved international shipping enterprise within the meaning of section 13F, as the case may be, but only up to the amount ascertained in accordance with the formula
 
-where X is the amount of allowances under section 19 or 19A made to the enterprise in respect of the foreign ship against any income exempt from tax under section 13A or 13F, as the case may be;
+where X
 
-Y is the total amount of allowances under section 19 or 19A which have been made in respect of the ship during the period it is owned by the enterprise; and
+is the amount of allowances under section 19 or 19A made to the enterprise in respect of the foreign ship against any income exempt from tax under section 13A or 13F, as the case may be;
 
-Z is the amount of balancing charge.
+Y
+
+is the total amount of allowances under section 19 or 19A which have been made in respect of the ship during the period it is owned by the enterprise; and
+
+Z
+
+is the amount of balancing charge.
 
 [2/92; 32/95; 31/98]
 
@@ -1210,9 +1218,9 @@ whichever is the less;
 
 [37/2002 wef 10/12/2002]
 
-10F\. 
+10F\. [Deleted by Act 37/2002 wef 13/10/2001]
 
-10G\. 
+10G\. [Deleted by Act 37/2002 wef 13/10/2001]
 
 ### Ascertainment of income from business of hiring out motor cars or providing driving instruction
 
@@ -1348,9 +1356,13 @@ whichever is the less;
 
 (b) the cost of any remaining share in the company held by the shareholder immediately after the sale shall be ascertained by the formula
 
-where A is the aggregate cost of all shares in the company held by the shareholder immediately preceding the buyback of his shares; and
+where A
 
-N is the number of remaining shares in the company held by the shareholder after the buyback of his shares.
+is the aggregate cost of all shares in the company held by the shareholder immediately preceding the buyback of his shares; and
+
+N
+
+is the number of remaining shares in the company held by the shareholder after the buyback of his shares.
 
 [32/99]
 
@@ -1762,11 +1774,19 @@ EXEMPTION FROM INCOME TAX
 
 13\.—(1) There shall be exempt from tax —
 
-(a) subject to subsection (2) and the prescribed conditions, the interest derived from —
+(a) subject to subsection (2) and such conditions as may be prescribed by regulations, the interest derived from —
 
-(i) any qualifying debt securities issued during the period from 28th February 1998 to 27th February 2003by any person who is not resident in Singapore and who does not have any permanent establishment in Singapore; and
+(i) any qualifying debt securities issued during the period from 28th February 1998 to 31st December 2008 by any person who is not resident in Singapore and who does not have any permanent establishment in Singapore; and
 
-(ii) any qualifying debt securities issued during the period from 27th February 1999 to 27th February 2003by any person who is not resident in Singapore and who carries on any operation in Singapore through a permanent establishment in Singapore where the funds used by that person to acquire the qualifying debt securities are not obtained from the operation;
+(ii) any qualifying debt securities issued during the period from 27th February 1999 to 31st December 2008 by any person who is not resident in Singapore and who carries on any operation in Singapore through a permanent establishment in Singapore where the funds used by that person to acquire the qualifying debt securities are not obtained from the operation;
+
+(aa) subject to subsection (2A) and such conditions as may be prescribed by regulations, the discount from any qualifying debt securities, which mature within one year from the date of issue of those securities and issued during the period from 27th February 2004 to 31st December 2008, by —
+
+(i) any person who is not resident in Singapore and who does not have any permanent establishment in Singapore; and
+
+(ii) any person who is not resident in Singapore and who carries on any operation in Singapore through a permanent establishment in Singapore where the funds used by that person to acquire the qualifying debt securities are not obtained from the operation;
+
+[49/2004 wef 27/02/2004]
 
 (b) the official emoluments of consular officers (as defined in the Consular Conventions Act (Cap. 52)) of foreign countries and of Commonwealth officers (as defined in the Diplomatic Privileges (Commonwealth Countries and Republic of Ireland) Act (Cap. 83)) and of persons employed on the staff of any such consular or Commonwealth officer who are subjects or citizens of the country which they represent, but only to the extent to which reciprocal treatment is accorded by the country which they represent to Singapore consular officers or to corresponding members of the staff of such consular officer;
 
@@ -1834,15 +1854,11 @@ EXEMPTION FROM INCOME TAX
 
 except for any payment attributable to the carriage of passengers, mails, livestock or goods from Singapore;
 
-[37/2002 wef 10/12/2002]
-
-(p) for a period of 10 years from the commencement of its business, such income of the Singapore Commodity Exchange Limited as may be prescribed;
+(p) for a period of 5 years from 1st January 2003, such income of the Singapore Commodity Exchange Limited as may be prescribed;
 
 (q) the investment income of any approved pension or provident fund or society;
 
 (r) the income derived on or after 3rd May 2002 by an individual not resident in Singapore from acting as an arbitrator, and for this purpose, “arbitrator” means an individual appointed for any arbitration which is governed by the Arbitration Act (Cap. 10) or the International Arbitration Act (Cap. 143A) or would have been governed by either of those Acts had the place of arbitration been Singapore;
-
-[37/2002 wef 10/12/2002]
 
 (s) sums payable by way of annual bounty out of the public revenue to members of such local forces as the Minister may from time to time by order declare to be a force to which this paragraph shall apply;
 
@@ -1862,23 +1878,39 @@ except for any payment attributable to the carriage of passengers, mails, livest
 
 (w) the income derived from an employment exercised on board a Singapore ship, as defined in the Merchant Shipping Act (Cap. 179), if the employment is exercised substantially outside Singapore;
 
-(x) the income derived by a person resident in Singapore from any pension granted under any written law relating to pensions in Singapore, or from any pension paid under such other pensions scheme as may be approved by the Minister by notification in the Gazette to the extent of such amount of the pension as the Comptroller may determine relating to the period of employment of that person with the employer before 1st January 1993;
+(x) the income derived by a person resident in Singapore from any pension granted under any written law relating to pensions in Singapore, or from any pension paid under such other pensions scheme as may be approved by the Minister by notification in theGazetteto the extent of such amount of the pension as the Comptroller may determine relating to the period of employment of that person with the employer before 1st January 1993;
 
 (y) such income as may be prescribed by regulations under section 43A, 43C, 43E or 43N;
 
-(z) such income derived by the Singapore Exchange Derivatives Trading Limited before 1st January 2004 as may be prescribed ; and
+(z) such income derived by the Singapore Exchange Derivatives Trading Limited before 1st January 2004 as may be prescribed;
 
-(za) any dividends accrued in or derived from Singapore on or after 1st January 2003 paid by any company from which tax is not deductible and not deducted under section 44.
+(za) any dividends accrued in or derived from Singapore on or after 1st January 2003 paid by any company from which tax is not deductible and not deducted under section 44;
 
-[Act 21/2003; 37/2002 wef 10/12/2002]
+(zb) any subsidy, allowance or benefit provided by an employer to an employee for the attendance by any child of the employee at a child care centre licensed under the Child Care Centres Act (Cap. 37A);
 
-(2) Subsection (1)(a) shall not, unless otherwise approved by the Minister or such person as he may appoint, apply to any interest derived from any qualifying debt securities issued during the period from 10th May 1999 to 27th February 2003where 50% or more of the issue of those securities is beneficially held or funded, directly or indirectly, at any time during the life of the issue by related parties of the issuer of those securities and where such interest is derived by —
+(zc) the prescribed amount of interest derived during the period 1st January 2003 to 31st December 2004 by any individual from the deposit in any standard savings, current or fixed deposit account with an approved bank or a finance company licensed under the Finance Companies Act (Cap. 108); and
+
+(zd) the interest derived on or after 1st January 2005 by any individual from the deposit in any standard savings, current or fixed deposit account with an approved bank or a finance company licensed under the Finance Companies Act.
+
+[26/73; 4/75; 5/77; 1/82; 15/83; 13/84; 3/89; 2/92; 28/92; 26/93; 11/94; 32/95; 1/98; 31/98; 37/98; 32/99; 24/2000; 24/2001; 37/2002; 21/2003]
+
+(zj) any income from any structured product offered by a financial institution derived from Singapore —
+
+(2) Subsection (1)(a) shall not, unless otherwise approved by the Minister or such person as he may appoint, apply to any interest derived from any qualifying debt securities issued during the period from 10th May 1999 to 31st December 2008 where 50% or more of the issue of those securities is beneficially held or funded, directly or indirectly, at any time during the life of the issue by related parties of the issuer of those securities and where such interest is derived by —
 
 (a) any related party of the issuer of those securities; or
 
 (b) any other person where the funds used by such person to acquire those securities are obtained, directly or indirectly, from any related party of the issuer of those securities.
 
-[32/99]
+[32/99; 21/2003]
+
+(2A) Subsection (1)(aa) shall not, unless otherwise approved by the Minister or such person as he may appoint, apply to any discount derived from any qualifying debt securities where 50% or more of the issue of those securities is beneficially held or funded, directly or indirectly, at any time during the life of the issue by related parties of the issuer of those securities and where such discount is derived by —
+
+(a) any related party of the issuer of those securities; or
+
+(b) any other person where the funds used by such person to acquire those securities are obtained, directly or indirectly, from any related party of the issuer of those securities.
+
+[49/2004 wef 27/02/2004]
 
 (3) Nothing in subsection (1) shall be construed to exempt in the hands of the recipients any dividends, interest, bonuses, salaries or wages paid wholly or in part out of income so exempted.
 
@@ -1890,11 +1922,7 @@ except for any payment attributable to the carriage of passengers, mails, livest
 
 [5/77]
 
-### Income received in Singapore by temporary residents
-
-(5) There shall be exempt from tax for any year of assessment any income arising from sources outside Singapore and received by any individual who is not resident in Singapore in that year of assessment.
-
-[13/84]
+(5) [Deleted by Act 49/2004 wef 01/01/2004]
 
 ### Income derived by short term visiting employees
 
@@ -1908,17 +1936,33 @@ except for any payment attributable to the carriage of passengers, mails, livest
 
 (b) the gains or profits of public entertainers, as defined in section 40A, whose visits are not substantially supported from public funds of the government of another country.
 
-(7A) Where the conditions specified in subsection (7B) are satisfied, there shall be exempt from tax the following income received in Singapore on or after 1st June 2003 from any territory outside Singapore by any person resident in Singapore:
+(7A) There shall be exempt from tax any income arising from sources outside Singapore and received in Singapore —
+
+(a) by any individual who is not resident in Singapore; and
+
+(b) on or after 1st January 2004 by any individual who is resident in Singapore if the Comptroller is satisfied that the tax exemption would be beneficial to the individual, but excludes such income received by him through a partnership in Singapore.
+
+[49/2004 wef 01/01/2004]
+
+(8) Where the conditions specified in subsection (9) are satisfied, there shall be exempt from tax —
 
 (a) any dividend derived from any territory outside Singapore;
 
 (b) any profit derived from any trade or business carried on by a branch in any territory outside Singapore of a company resident in Singapore; and
 
-(c) any income derived from any professional, consultancy and other services rendered in any territory outside Singapore only if the Comptroller is satisfied that the income is derived, for the purposes of this Act, from outside Singapore.
+(c) any income derived from any professional, consultancy and other services rendered in any territory outside Singapore only if the Comptroller is satisfied that the income is derived, for the purposes of this Act, from outside Singapore,
 
-[21/2003 wef 01/06/2003]
+and received in Singapore —
 
-(7B) The conditions referred to in subsection (7A) are —
+(i) on or after 1st June 2003 by any person, not being an individual, resident in Singapore;
+
+(ii) during 1st June 2003 to 31st December 2003 by any individual resident in Singapore; and
+
+(iii) on or after 1st January 2004 by any individual resident in Singapore through a partnership in Singapore.
+
+[49/2004 wef 01/01/2004]
+
+(9) The conditions referred to in subsection (8) are —
 
 (a) the income is subject to tax of a similar character to income tax (by whatever name called) under the law of the territory from which the income is received;
 
@@ -1926,21 +1970,21 @@ except for any payment attributable to the carriage of passengers, mails, livest
 
 (c) the Comptroller is satisfied that the tax exemption would be beneficial to the person resident in Singapore.
 
-[21/2003 wef 01/06/2003]
+[21/2003]
 
-(7C) Where the income referred to in subsection (7A) consists of dividends paid by a company, the tax referred to in subsection (7B)(a) shall be —
+(10) Where the income referred to in subsection (8) consists of dividends paid by a company, the tax referred to in subsection (9)(a) shall be —
 
 (a) where the company is resident in the territory from which the dividends are received, the tax paid in that territory by the company in respect of its income out of which the dividends are paid; and
 
 (b) the tax paid on the dividends in the territory from which the dividends are received.
 
-[21/2003 wef 01/06/2003]
+[21/2003]
 
-(7D) The Minister may make regulations generally to give full effect to or for carrying out the purposes of subsection (7A).
+(11) The Minister may make regulations generally to give full effect to or for carrying out the purposes of subsection (8).
 
-[21/2003 wef 01/06/2003]
+[21/2003]
 
-(8) The Minister may by order —
+(12) The Minister may by order —
 
 (a) exempt from tax wholly or in part; or
 
@@ -1948,59 +1992,75 @@ except for any payment attributable to the carriage of passengers, mails, livest
 
 the income received by a person resident in Singapore from such source in any country outside Singapore as may be specified in the order.
 
-[Act 37/2002, wef Y/A 2003 & Sub Ys/A:2002-ACT-37]
+[37/2002]
 
-(9) Any order made under subsection (8) may be either general or specific and may prescribe the conditions subject to which the income will be exempt from tax or be taxed at a concessionary rate of tax but such conditions need not be included in the order for the purpose of publication in theGazette.
+(13) Any order made under subsection (12) may be either general or specific and may prescribe the conditions subject to which the income will be exempt from tax or be taxed at a concessionary rate of tax but such conditions need not be included in the order for the purpose of publication in theGazette.
 
-[9/80]
+[9/80; 37/2002]
 
-(10) Where any income is exempt from taxunder subsection (7A), or is exempt from tax or is taxed at a concessionary rate of tax by virtue of an order made under subsection (8) and the income is received by a company which is resident in Singapore (other than income derived from Malaysia and received in Singapore on or after 1st June 2003 by a company resident in Singapore where the company in paying any dividend out of such income declares itself to be a resident of Malaysia under paragraph 3 of Article VII of the Income Tax (Singapore — Malaysia) (Avoidance of Double Taxation Agreement) Order (O 19)) —
+(14) Where any income is exempt from tax under subsection (8), or is exempt from tax or is taxed at a concessionary rate of tax by virtue of an order made under subsection (12) and the income is received by a company which is resident in Singapore (other than income derived from Malaysia and received in Singapore on or after 1st June 2003 by a company resident in Singapore where the company in paying any dividend out of such income declares itself to be a resident of Malaysia under paragraph 3 of Article VII of the Income Tax (Singapore — Malaysia) (Avoidance of Double Taxation Agreement) Order) —
 
 (a) an amount equal to the income exempt from tax or an amount equal to the net income after deduction of tax levied at the concessionary rate of tax, as the case may be, shall be credited to an account to be kept by the company for the purpose of this subsection; and
 
-(b) subsections (3) to (10) of section 13E shall apply, with the necessary modifications, to the company in respect of a distribution of dividends from the income as if the company were a company referred to in section 13E(3).
+(b) subsections (3) to (11) of section 13E shall apply, with the necessary modifications, to the company in respect of a distribution of dividends from the income as if the company were a company referred to in section 13E(3).
 
-[32/95]
+[32/95; 37/2002; 21/2003]
 
-(11) For the purposes of subsection (1)(a) —
+(15) The Minister may, at any time, by rules made under section 7, add to, vary or amend the list of commodities mentioned in subsection (1)(n).
+
+[29/65]
+
+(16) In this section —
+
+“approved bank” means a bank in Singapore approved by the Minister by order in theGazette;
 
 “approved bond intermediary” means a financial institution approved as such by the Minister or such person as he may appoint;
 
 “debt securities” has the same meaning as in section 43N;
 
+“child”, in relation to an employee, means any legitimate child, illegitimate child, step-child, child adopted in accordance with any written law relating to the adoption of children and any child whom the employee is the legal guardian;
+
+“deposit”, in relation to any standard savings, current or fixed deposit account referred to in subsection (1)(zc)and (zd), means any deposit of moneys but does not include —
+
+(a) any deposit of moneys the interest from which is determined by the performance of any securities or by the fluctuations in currency exchange rates or by any combination thereof; and
+
+(b) any other prescribed deposit;
+
 “financial institution” means an institution licensed or approved by the Monetary Authority of Singapore, and includes an institution approved as an approved Fund Manager under section 43A and an institution approved as a Finance and Treasury Centre under section 43G;
+
+“financial sector incentive (bond market) company” means a company approved as such by the Minister or such person as he may appoint;
 
 “qualifying debt securities” means —
 
-(a) Singapore Government securities issued during the period from 28th February 1998 to 27th February 2003;
+(a) Singapore Government securities issued during the period from 28th February 1998 to 31st December 2008;
 
 (b) bonds, notes, commercial papers and certificates of deposits which are arranged in accordance with regulations made for this purpose —
 
-(i) by any financial institution in Singapore and issued during the period from 28th February 1998 to 27th February 2003; or
+(i) by any financial institution in Singapore and issued during the period from 28th February 1998 to 31st December 2008;
 
-(ii) by any approved bond intermediary and issued during the period from 27th February 1999 to 27th February 2003,
+(ii) by any approved bond intermediary and issued —
+
+(A) during the period from 27th February 1999 to 31st December 2008 under any prescribed programme the arrangement of which is completed on or before 31st December 2003; or
+
+(B) during the period from 27th February 1999 to 31st December 2003 in any other case; or
+
+(iii) by any financial sector incentive (bond market) company and issued during the period from 1st January 2004 to 31st December 2008,
 
 but, unless otherwise approved by the Minister or such person as he may appoint, excludes any debt securities issued on or after 10th May 1999 which, during its primary launch —
 
-(iii) are issued to less than 4 persons; and
+(AA) are issued to less than 4 persons; and
 
-(iv) 50% or more of the issue of debt securities is beneficially held or funded, directly or indirectly, by related parties of the issuer of those securities;
+(BB) 50% or more of the issue of debt securities is beneficially held or funded, directly or indirectly, by related parties of the issuer of those securities;
 
 “related party”, in relation to a person, means any other person who, directly or indirectly, controls that person, or is controlled, directly or indirectly, by that person, or where he and that other person, directly or indirectly, are under the control of a common person;
 
+“securities lending or repurchase arrangement” has the same meaning as in section 10N(12);
+
+[49/2004 wef 01/01/2004]
+
 “Singapore Government securities” has the same meaning as in section 43N.
 
-[31/98; 32/99]
-
-(12) The Minister may, at any time, by rules made under section 7, add to, vary or amend the list of commodities mentioned in subsection (1)(n).
-
-[29/65]
-
-(13) In this section, “approved bank” means a bank in Singapore approved by the Minister by order in theGazette.
-
-[23/69; 5/77]
-
-[26/73; 4/75; 5/77; 1/82; 15/83; 13/84; 3/89; 2/92; 28/92; 26/93; 11/94; 32/95; 1/98; 31/98; 37/98; 32/99; 24/2000; 24/2001]
+[31/98; 32/99; 21/2003]
 
 ### Exemption of shipping profits
 
@@ -2208,13 +2268,17 @@ ought not to have been so taxed or exempted, as the case may be, the Comptroller
 
 (2) As soon as a tax credit has been allowed, an amount of the income computed in accordance with the formula
 
-where A is the tax credit allowed;
+where A
 
-B is the tax rate applicable to a company under section 43(1); and
+is the tax credit allowed;
 
-C is the foreign tax paid,
+B
 
-shall be credited to a special account (referred to in this section as the account) to be kept by the company for the purposes of this section.
+is the tax rate applicable to a company under section 43(1); and
+
+C
+
+is the foreign tax paid,
 
 (3) Where the account is in credit at the date on which any dividends are paid by the company out of the income which has been credited to that account, an amount equal to such dividends or to the credit in that account, whichever is the less, shall be debited to the account.
 
@@ -2644,16 +2708,6 @@ to acquire shares under a tranche of the share acquisition scheme and any gains 
 
 “50% requirement”, in relation to a company employee equity-based remuneration scheme, means in the aggregate at least 50% of the employees of the qualifying company are offered during any calendar year any rights or benefits to acquire shares in the qualifying company or in its holding company under any share acquisition scheme, as ascertained in accordance with the following formula:
 
-A
-
-_________________
-
-x
-
-100,
-
-B — C — D — E
-
 [37/2002 wef 01/01/2002]
 
 where A
@@ -2748,11 +2802,13 @@ is the number of employees engaged on contracts not exceeding 2 years (other tha
 
 (i) where the original shares upon which the bonus shares or split shares are derived were acquired on or after 1st April 2003, on the date of acquisition of the original shares; and for this purpose, the cost in respect of each share after the bonus issue or the share split shall be determined in accordance with the formula
 
-X , Y
+where X
 
-where X is the cost of the shares at the date of acquisition; and
+is the cost of the shares at the date of acquisition; and
 
- Y is the total number of the original shares, bonus shares and split shares; and
+Y
+
+is the total number of the original shares, bonus shares and split shares; and
 
 (ii) where the original shares upon which the bonus shares or split shares are derived were donated on or after 1st April 2003, on the date of donation of the original shares.
 
@@ -2824,9 +2880,13 @@ but does not include the conversion of debt securities to equity securities wher
 
 “relevant amount”, in relation to an NOR individual, means —
 
-(a) nil if A > B; or
+(a) nil if
 
-(b) B — A if A < B,
+or
+
+(b) 
+
+if
 
 where A
 
@@ -2837,16 +2897,6 @@ B
 is the amount of contribution which would have been required to be made by the employer under section 7 of the Central Provident Fund Act (Cap. 36) if the NOR individual were an employee and a citizen of Singapore;
 
 “relevant employment income”, in relation to an NOR individual, means —
-
-C
-
-—
-
-x
-
-E,
-
-D
 
 where C
 
@@ -3108,7 +3158,7 @@ ought not to have been so allowed or exempted, as the case may be, the Comptroll
 
 [32/95; 31/98]
 
-14C\. 
+14C\. [Repealed by Act 31/98]
 
 ### Expenditure on research and development
 
@@ -3160,11 +3210,17 @@ there shall be allowed to that person or research and development organisation a
 
 14F\.—(1) Subject to this section for the purpose of ascertaining the income for the basis period for any year of assessment of an approved investment company, there shall be allowed as a deduction any expenses for the management of its investments paid to any person who is a resident of or has a permanent establishment in Singapore and the amount of the deduction shall be ascertained by the formula
 
-where A is the total expenses for the management of its investments paid for that basis period;
+where A
 
-B is the total interest and dividends chargeable to tax in that basis period; and
+is the total expenses for the management of its investments paid for that basis period;
 
-C is the total investment income (whether chargeable to tax or not) for that basis period.
+B
+
+is the total interest and dividends chargeable to tax in that basis period; and
+
+C
+
+is the total investment income (whether chargeable to tax or not) for that basis period.
 
 (2) The deduction allowed under this section for any year of assessment shall not exceed the total interest and dividends chargeable to tax of the approved investment company in the basis period for that year of assessment.
 
@@ -3424,9 +3480,13 @@ has been incurred by an approved firm or company resident in Singapore and carry
 
 (5) The amount of deduction under subsection (4) for any year of assessment shall be ascertained by the formula
 
-where A is the percentage referred to in subsection (3)(c); and
+where A
 
-B is the amount of qualifying expenditure incurred.
+is the percentage referred to in subsection (3)(c); and
+
+B
+
+is the amount of qualifying expenditure incurred.
 
 (6) No deduction shall be allowed under this section in respect of —
 
@@ -3526,13 +3586,19 @@ whichever is the earliest; and
 
 (b) the amount of the capital expenditure on the provision of the machinery or plant still unallowed as at the time of the occurrence of the event shall be ascertained by the formula
 
-where C is the amount of capital expenditure incurred on the provision of the machinery or plant; and
+where C
 
-D is the number of years of assessment for which any deduction has been allowed under this section in respect of that capital expenditure; and
+is the amount of capital expenditure incurred on the provision of the machinery or plant; and
+
+D
+
+is the number of years of assessment for which any deduction has been allowed under this section in respect of that capital expenditure; and
 
 (c) notwithstanding anything in section 20(3), in no case shall the amount on which a balancing charge is made on a person exceed an amount computed in accordance with the formula
 
-where C and D have the same meanings as in paragraph (b).
+where C and D
+
+have the same meanings as in paragraph (b).
 
 [32/99]
 
@@ -3554,9 +3620,13 @@ ought not to have been so allowed or exempted, as the case may be, the Comptroll
 
 14N\.—(1) Where the Comptroller is satisfied that an upfront land premium has been paid by a lessee to a relevant body in respect of a designated lease for the construction or use of a building or structure for the purposes of carrying on any qualifying activity in that building or structure, there shall, subject to this section, be allowed to the lessee, for each year of assessment in the basis period for which the qualifying activity is carried on, a deduction of an amount of such expenditure ascertained by the formula
 
-where A is the amount of upfront land premium paid; and
+where A
 
-B is the number of years of the term of the designated lease for which the upfront land premium was paid.
+is the amount of upfront land premium paid; and
+
+B
+
+is the number of years of the term of the designated lease for which the upfront land premium was paid.
 
 (2) Where an assignee has incurred any expenditure in acquiring the remaining term of a designated lease for the construction or use of a building or structure for the purposes of carrying on any qualifying activity, there shall, subject to this section, be allowed to the assignee, for each year of assessment in the basis period for which the qualifying activity is carried on, a deduction of an amount of such expenditure ascertained by the formula
 
@@ -3964,9 +4034,13 @@ but does not include expenditure on the provision of machinery or plant or on th
 
 (d) where an election under paragraph (c) has been made by a person with respect to any asset, the annual allowance in respect of the same asset to be made to that person for any year of assessment after his tax relief period shall be computed in accordance with the formula
 
-where C is the amount of the capital expenditure still unallowed under this section in respect of that asset after the end of his tax relief period;
+where C
 
-D is the number of years of working life of the asset as specified in the Sixth Schedule reduced by the number of whole years the asset has been put into use as at the end of the basis period in which his tax relief ends and if the result is less than 1, D shall be deemed to be 1;
+is the amount of the capital expenditure still unallowed under this section in respect of that asset after the end of his tax relief period;
+
+D
+
+is the number of years of working life of the asset as specified in the Sixth Schedule reduced by the number of whole years the asset has been put into use as at the end of the basis period in which his tax relief ends and if the result is less than 1, D shall be deemed to be 1;
 
 (e) the annual allowance in respect of any asset for any year of assessment shall not exceed the amount of the capital expenditure of the asset still unallowed under this section as at the beginning of the basis period for that year of assessment;
 
@@ -4068,7 +4142,7 @@ for the purposes of a trade, business or profession carried on by him, he shall,
 
 [32/99]
 
-(lJ) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has incurred capital expenditure on the provision of a website for the purposes of a trade, business or profession carried on by him, he shall be entitled to an allowance of 100% in respect of the capital expenditure incurred on the provision of that website, and for this purpose, a website is deemed to be machinery or plant.
+(LJ) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has incurred capital expenditure on the provision of a website for the purposes of a trade, business or profession carried on by him, he shall be entitled to an allowance of 100% in respect of the capital expenditure incurred on the provision of that website, and for this purpose, a website is deemed to be machinery or plant.
 
 [37/2002 wef 03/05/2002]
 
@@ -4248,63 +4322,77 @@ which has been certified by the Singapore Productivity and Standards Board or th
 
 [15/83; 13/84; 7/85; 1/90; 28/96; 31/98; 32/99; 24/2000]
 
-### Writing-down allowances for approved intellectual property rights
+### Writing-down allowances for intellectual property rights
 
-19B\.—(1) Subject to this section, where a company carrying on a trade or business has incurred on or after 23rd February 2001 capital expenditure in acquiring any approvedintellectual property rights for use in that trade or business, writing-down allowances in respect of that expenditure shall be made to it during a writing-down period of 5 years beginning with the year of assessment relating to the basis period in which that expenditure is incurred.
-
-[24/2001]
-
-(2) The writing-down allowances to be made to a company under this section for any year of assessment shall be an amount equal to 20% of the capital expenditure incurred by it on the acquisition of the approved intellectual property rights.
+19B\.—(1) Subject to this section, where a company carrying on a trade or business has incurred on or after 1st November 2003 capital expenditure in acquiring any intellectual property rights for use in that trade or business, writing-down allowances in respect of that expenditure shall be made to it during a writing-down period of 5 years beginning with the year of assessment relating to the basis period in which that expenditure is incurred.
 
 [24/2001]
 
-(3) Any capital expenditure incurred on the acquisition of any approved intellectual property rights by a company before the commencement of its trade or business shall be treated for the purpose of this section as if it had been incurred by it on the first day it commences that trade or business.
+(2) The writing-down allowances to be made to a company under this section for any year of assessment shall be an amount equal to 20% of the capital expenditure incurred by it on the acquisition of the intellectual property rights.
 
 [24/2001]
 
-(4) Where writing-down allowances have been made to any company under this section in respect of any approved intellectual property rights and, before the end of the writing-down period, any of the following events occurs:
+(2A) The writing-down allowances to be made to a company under this section shall be allowed only if —
+
+(a) there is an undertaking by the company that it is an assignee of the intellectual property rights; and
+
+(b) the claim is made by the company in such manner and subject to such conditions as the Comptroller may require.
+
+[21/2003 wef 01/11/2003]
+
+(3) Any capital expenditure incurred on the acquisition of any intellectual property rights by a company before the commencement of its trade or business shall be treated for the purpose of this section as if it had been incurred by it on the first day it commences that trade or business.
+
+[24/2001]
+
+(4) Where writing-down allowances have been made to any company under this section in respect of any intellectual property rights and, before the end of the writing-down period, any of the following events occurs:
 
 (a) the rights come to an end without being subsequently revived;
 
 (b) the company sells, transfers or assigns all or any part of those rights;
 
-(c) the company permanently ceases to carry on the trade or business; or
-
-(d) the company breaches any condition under which the approval for those rights was granted,
+(c) the company permanently ceases to carry on the trade or business,
 
 no writing-down allowance in respect of the approved intellectual property rights shall be made to that company for the year of assessment relating to the basis period in which the event occurs or for any subsequent year of assessment, and any writing-down allowances made under subsection (1) shall be brought to charge as if the writing-down allowances were not made, and deemed as income for the year of assessment relating to the basis period in which the event occurs.
 
 [24/2001]
 
-(5) Where a company to whom writing-down allowances have been made under subsection (1) in respect of any approved intellectual property rights sells, transfers or assigns all or any part of those rights after the writing-down period, there shall be made on the company for the year of assessment relating to the basis period in which the sale, transfer or assignment occurs, a charge in an amount equal to the price which the rights were sold, transferred or assigned or in an amount equal to the capital expenditure incurred in acquiring the rights, whichever is the less.
+(5) Where a company to whom writing-down allowances have been made under subsection (1) in respect of any intellectual property rights sells, transfers or assigns all or any part of those rights after the writing-down period, there shall be made on the company for the year of assessment relating to the basis period in which the sale, transfer or assignment occurs, a charge in an amount equal to the price which the rights were sold, transferred or assigned or in an amount equal to the capital expenditure incurred in acquiring the rights, whichever is the less.
 
 [24/2001]
 
-(6) For the purposes of subsection (5), where there is more than one sale, transfer or assignment of any part of any approved intellectual property rights, the amount of the capital expenditure incurred in acquiring the approved intellectual property rights for the year of assessment relating to the basis period in which the sale, transfer or assignment of that part of the rights occurs shall be ascertained in accordance with the formula
+(6) For the purposes of subsection (5), where there is more than one sale, transfer or assignment of any part of any intellectual property rights, the amount of the capital expenditure incurred in acquiring the intellectual property rights for the year of assessment relating to the basis period in which the sale, transfer or assignment of that part of the rights occurs shall be ascertained in accordance with the formula
 
-A — B,
+where A
 
-where A is the capital expenditure incurred in acquiring the approved intellectual property rights; and
+is the capital expenditure incurred in acquiring the approved intellectual property rights; and
 
-B is the total amount of any charges made under this section in any previous years of assessment in respect of that expenditure.
+B
+
+is the total amount of any charges made under this section in any previous years of assessment in respect of that expenditure.
 
 (7) In this section —
 
-“approved” means approved by the Minister or such person as he may appoint;
-
-“capital expenditure” does not include legal fees, registration fees, stamp duty and other costs related to the acquisition of any approved intellectual property rights;
+“capital expenditure” does not include legal fees, registration fees, stamp duty and other costs related to the acquisition of any intellectual property rights;
 
 “intellectual property rights” means the right to do or authorise the doing of anything which would, but for that right, be an infringement of any patent, copyright, trademark, registered design, geographical indication, lay-out design of integrated circuit, trade secret or information that has commercial value.
 
 [24/2001]
 
-(8) For the purpose of this section, any sale, transfer or assignment of any approved intellectual property rights which occurs after the date on which the trade or business of a company permanently ceases shall be deemed to have occurred immediately before the cessation.
+(8) For the purpose of this section, any sale, transfer or assignment of any intellectual property rights which occurs after the date on which the trade or business of a company permanently ceases shall be deemed to have occurred immediately before the cessation.
 
 [24/2001]
 
 (9) Notwithstanding the repeal of section 19B by the Income Tax (Amendment) Act 2001 (Act 24 of 2001), the repealed section 19B shall continue to apply and have effect to any approved know-how or patent rights for which writing-down allowances had been made before the repeal as if that Act had not been enacted.
 
 [24/2001]
+
+(10) Notwithstanding the amendment of section 19B by the Income Tax (Amendment) Act 2003, section 19B in force immediately before 1st November 2003 shall continue to apply and have effect to any intellectual property rights approved before that date.
+
+[21/2003 wef 01/11/2003]
+
+(11) No writing-down allowance under subsection (1) shall be made for any capital expenditure incurred by any company after 31st October 2008.
+
+[21/2003 wef 01/11/2003]
 
 ### Writing-down allowances for approved cost-sharing agreement for research and development activities
 
@@ -4380,9 +4468,13 @@ an allowance or charge, to be known as a balancing allowance or a balancing char
 
 (5) Notwithstanding anything in this section, where a balancing allowance or balancing charge falls to be made under subsection (1) in respect of a motor car to which section 19(3) applies, the sum to be taken in lieu of the open-market price or sale, insurance, salvage or compensation moneys for the purpose of calculating such balancing allowance or charge shall be ascertained in accordance with the formula
 
-where A is the open-market price or sale, insurance, salvage or compensation moneys in respect of the motor car; and
+where A
 
-B is the capital expenditure incurred in respect of the motor car.
+is the open-market price or sale, insurance, salvage or compensation moneys in respect of the motor car; and
+
+B
+
+is the capital expenditure incurred in respect of the motor car.
 
 (6) Notwithstanding anything in this section, no balancing allowance shall be made in respect of a motor car within the meaning of section 19(4)(a) which is not, for any basis period after the basis period for the year of assessment 1981, registered as a business service passenger vehicle for the purposes of the Road Traffic Act (Cap. 276).
 
@@ -4498,7 +4590,7 @@ B is the capital expenditure incurred in respect of the motor car.
 
 [13/84]
 
-25\. 
+25\. [Spent]
 
 ## PART VII
 
@@ -4930,51 +5022,13 @@ ASCERTAINMENT OF ASSESSABLE INCOME
 
 [23/69]
 
-(2) There shall be deducted —
-
-(a) the amount of loss incurred by that person in any trade, business, profession or vocation, which, if it had been a profit would have been assessable under this Act, in the following order:
-
-(i) firstly, any balance of such loss which remains unabsorbed at the end of the basis period for the previous year of assessment; and
-
-(ii) secondly, the amount incurred during the basis period for the year of assessment;
-
-[37/2002 wef 10/12/2002]
-
-(b) an amount equivalent to twice the value, the value to be determined by the Minister or such person as he may appoint, of an approved donation of —
-
-(i) any artefact made by him in the year preceding the year of assessment to an approved museum; or
-
-(ii) any sculpture for public display outdoors made by him in the year preceding the year of assessment to an approved recipient not being an approved museum,
-
-and for this purpose, “approved” means approved by the Minister or such person as he may appoint;
-
-[21/2003 wef 01/04/2003]
-
-(c) an amount equivalent to twice the amount of any donation of money made by him in the year preceding the year of assessment to the Government or to any institution of a public character in Singapore approved by the Ministeron application by the institution concerned;
-
-(d) an amount equivalent to twice the value of any donation of a computer (including computer software and peripherals) approved by the Minister or such person as he may appoint and made by any company in the year preceding the year of assessment to a prescribed educational, research or other institution in Singapore; and
-
-(e) an amount equivalent to —
-
-(i) twice the value of any donation of shares in a company listed on the Singapore Exchange; or
-
-(ii) twice the value of any donation of units in unit trusts traded in Singapore ,
-
-made by an individual in the year preceding the year of assessment to any institution of a public character in Singapore approved by the Minister on the application by that institution; and
-
-[Act 37/2002, wef Y/A 2003 & Sub Ys/A:2002-ACT-37]
-
-(f) an amount equivalent to twice the value, the value to be determined by an appraiser licensed under the Appraisers and House Agents Act (Cap. 16) and approved by the Chief Valuer appointed under the State Lands Act (Cap. 314), of any donation of any immovable property made by him in the year preceding the year of assessment to any institution of a public character approved by the Minister or any Central Fund Administrator on the application by that institution.
-
-[21/2003 wef 01/04/2003]
-
 (2A) A deduction under subsection (2)(a)(i) shall be made as far as possible from the statutory income of the first year of assessment after the year in which such loss was incurred, and, so far as it cannot be so made, then from the statutory income of the next year of assessment, and so on.
 
 (2B) Where, in any year of assessment, the amount of loss incurred by any person during the year preceding the year of assessment is not fully deducted under subsection (2)(a)(ii), the balance of such loss, after deducting any amount of such loss transferred to a claimant company under section 37C, shall be available for deduction against his statutory income for subsequent year of assessment under subsection (2)(a)(i).
 
 [Act 37/2002, wef Y/A 2003 & Sub Ys/A:2002-ACT-37]
 
-(2C) The deduction allowed under subsection (2)(b), (c), (d), (e) or (f) shall be reduced to an amount equivalent to the value of the donation if it is made by any of the following persons:
+(2C) The deduction allowed under subsection (2)(b), (c), (d) or (e) shall be reduced to an amount equivalent to the value of the donation if it is made by any of the following persons:
 
 (a) if the recipient of the donation is named after an individual and the donation is made while he is alive, by —
 
@@ -5000,15 +5054,15 @@ made by an individual in the year preceding the year of assessment to any instit
 
 [Act 37/2002; Act 21/2003 wef 01/04/2003]
 
-(2D) A deduction under this section to any person in respect of any sum allowable under subsection (2)(b), (c), (d), (e) or (f) or (2C) shall only be allowed against his statutory income after the deduction under subsection (2)(a).
+(2D) A deduction under this section to any person in respect of any sum allowable under subsection (2)(b), (c), (d) or (e) or (2C) shall only be allowed against his statutory income after the deduction under subsection (2)(a).
 
 [Act 37/2002; Act 21/2003 wef 01/04/2003]
 
-(2E) Subject to subsections (2D) and (5), the deduction to any person in respect of any sum allowable under subsection (2)(b), (c), (d), (e) or (f) or (2C) shall be allowed as far as possible against his statutory income of the first year of assessment after the year in which the donation was made by him, and, so far as the deduction cannot be so allowed, after deducting any of such sum transferred to a claimant company under section 37C, then from his statutory income of the next year of assessment, and so on, except that any balance of the donation not deducted against his statutory income of the sixth year of assessment from the first year of assessment in which the donation was made shall be disregarded.
+(2E) Subject to subsections (2D) and (5), the deduction to any person in respect of any sum allowable under subsection (2)(b), (c), (d) or (e) or (2C) shall be allowed as far as possible against his statutory income of the first year of assessment after the year in which the donation was made by him, and, so far as the deduction cannot be so allowed, after deducting any of such sum transferred to a claimant company under section 37C, then from his statutory income of the next year of assessment, and so on, except that any balance of the donation not deducted against his statutory income of the sixth year of assessment from the first year of assessment in which the donation was made shall be disregarded.
 
 [Act 37/2002; Act 21/2003 wef 01/04/2003]
 
-(2F) For the purposes of subsections (2D) and (2E), any sum allowable under subsection (2)(b), (c), (d), (e) or (f) or (2C) in respect of any donation made on an earlier date shall be deemed to have been deducted first.
+(2F) For the purposes of subsections (2D) and (2E), any sum allowable under subsection (2)(b), (c), (d) or (e) or (2C) in respect of any donation made on an earlier date shall be deemed to have been deducted first.
 
 [Act 37/2002; Act 21/2003 wef 01/04/2003]
 
@@ -5016,7 +5070,7 @@ made by an individual in the year preceding the year of assessment to any instit
 
 (4) No deduction shall be allowed under this section to any person in respect of any sum which has been allowed as a deduction under this section against the income of his or her spouse chargeable in his or her own name.
 
-(5) Notwithstanding subsection (2), the amount of any loss incurred by a company in any trade or business or any sum allowable under subsection (2)(b), (c), (d), (e) or (f) or (2C) to a company in respect of any donation shall be disregarded unless the Comptroller is satisfied that the shareholders of the company on the last day of the year in which the loss was incurred or the donation was made, as the case may be, were substantially the same as the shareholders of the company on the first day of the year of assessment in which such loss or donation would otherwise be deductible under subsection (2).
+(5) Notwithstanding subsection (2), the amount of any loss incurred by a company in any trade or business or any sum allowable under subsection (2)(b), (c), (d) or (e) or (2C) to a company in respect of any donation shall be disregarded unless the Comptroller is satisfied that the shareholders of the company on the last day of the year in which the loss was incurred or the donation was made, as the case may be, were substantially the same as the shareholders of the company on the first day of the year of assessment in which such loss or donation would otherwise be deductible under subsection (2).
 
 [Act 37/2002; Act 21/2003 wef 01/04/2003]
 
@@ -5154,12 +5208,6 @@ made by an individual in the year preceding the year of assessment to any instit
 
 “adjustment factor”, in relation to any year of assessment, means the factor ascertained in accordance with the formula
 
-A
-
-,
-
-B
-
 where A
 
 is the higher rate of tax for that year of assessment; and
@@ -5194,7 +5242,9 @@ is the lower rate of tax for that year of assessment;
 
 ### Group relief for Singapore companies
 
-37C\.—(1) Subject to the provisions in this section, a transferor company may transfer any qualifying deduction for any year of assessment to a claimant company of the same group which has claimed the qualifying deduction against its assessable income for the same year of assessment.
+37C\.—(1) Subject to the provisions of this section, a transferor company may transfer any qualifying deduction for any year of assessment to a claimant company of the same group which has claimed the qualifying deduction against its assessable income for the same year of assessment.
+
+[37/2002]
 
 (2) A transfer of a qualifying deduction for any year of assessment shall be made only if the transferor company and the claimant company, for that year of assessment —
 
@@ -5204,11 +5254,15 @@ is the lower rate of tax for that year of assessment;
 
 (c) have made an election under subsection (11).
 
+[37/2002]
+
 (3) For the purposes of this section, 2 Singapore companies are members of the same group if —
 
 (a) at least 75% of the ordinary share capital in one company is beneficially held, directly or indirectly, by the other; or
 
 (b) at least 75% of the ordinary share capital in each of the 2 companies is beneficially held, directly or indirectly, by a third Singapore company.
+
+[37/2002]
 
 (4) Notwithstanding that a Singapore company beneficially holds, directly or indirectly, at least 75% of the ordinary share capital in another Singapore company, it shall not be treated to have satisfied subsection (3) unless additionally it is beneficially entitled to at least 75% of —
 
@@ -5216,13 +5270,19 @@ is the lower rate of tax for that year of assessment;
 
 (b) any residual assets of the other company available for distribution to that company’s equity holders on a winding up.
 
-(5) For the purpose of subsection (3), where a Singapore company beneficially owns, directly or indirectly, a fraction of the share capital of a second Singapore company which in turn beneficially owns, directly or indirectly, a fraction of the share capital of a third Singapore company, the Singapore company shall be deemed to have a beneficial ownership of the share capital of the third Singapore company equal to such fraction as results from the multiplication of those 2 fractions; and where the third Singapore company beneficially owns, directly or indirectly, a fraction of the share capital of a fourth Singapore company, the Singapore company shall be deemed to have a beneficial ownership of the share capital of the fourth Singapore company equal to such fraction as results from the multiplication of those 3 fractions, and so on.
+[37/2002]
+
+(5) For the purpose of subsection (3), where a Singapore company beneficially owns, directly or indirectly, a fraction of the share capital of a second Singapore company which in turn beneficially owns, directly or indirectly, a fraction of the share capital of a third Singapore company, the Singapore company shall be deemed to have a beneficial ownership of the share capital of the third Singapore company equal to such fractionas results from the multiplication of those 2 fractions; and where the third Singapore company beneficially owns, directly or indirectly, a fraction of the share capital of a fourth Singapore company, the Singapore company shall be deemed to have a beneficial ownership of the share capital of the fourth Singapore company equal to such fraction as results from the multiplication of those 3 fractions, and so on.
+
+[37/2002]
 
 (6) A transfer of qualifying deduction may be —
 
 (a) made by a transferor company to more than one claimant company, provided that the amount of qualifying deduction transferred is fully deducted against the assessable income of the first claimant company before any excess qualifying deduction is transferred and deducted against the assessable income of the second claimant company and so on; or
 
 (b) claimed by a claimant company from more than one transferor company, provided that the amount of qualifying deduction transferred from the first transferor company is fully deducted against the assessable income of the claimant company before any qualifying deduction transferred from a second transferor company is deducted against the assessable income of the claimant company and so on.
+
+[37/2002]
 
 (7) Qualifying deductions shall be transferred to a claimant company in accordance with the priority specified in the election made under subsection (11), and in the following order:
 
@@ -5232,45 +5292,29 @@ is the lower rate of tax for that year of assessment;
 
 (c) any donation specified in subsection (14)(c).
 
+[37/2002]
+
 (8) Where, in any year of assessment, a transfer of qualifying deduction cannot be effected in accordance with the order of priority specified by any transferor company or claimant company in its election made under subsection (11), the transfer shall be allowed in such manner as the Comptroller thinks reasonable and proper.
+
+[37/2002]
 
 (9) Subject to subsection (10), the amount of qualifying deduction that may be transferred to a claimant company from a transferor company for any year of assessment shall be —
 
 (a) the available assessable income of the claimant company equal to
 
-A
-
-—
-
-x
-
-C,
-
-B
-
 where A
 
-is the number of days in the continuous period ending on the last day of the basis period for that year of assessment during which the companies are members of the same group or, if the continuous periods of the transferor company and the claimant company are different, the number of days in the shorter of the continuous periods;
-
-B
-
-is the number of days in the basis period of the claimant company for that year of assessment; and
-
-C
-
-is the assessable income of the claimant company for that year of assessment; or
-
-(b) the available qualifying deduction of the transferor company equal to
-
-A
-
-—
-
-x
-
-E,
+has the same meaning as in paragraph (a);
 
 D
+
+is the number of days in the basis period of the transferor company for that year of assessment; and
+
+E
+
+is the amount of qualifying deduction of the transferor company for that year of assessment,
+
+(b) the available qualifying deduction of the transferor company equal to
 
 where A
 
@@ -5286,23 +5330,15 @@ is the amount of qualifying deduction of the transferor company for that year of
 
 whichever is the lower.
 
+[37/2002]
+
 (10) Where, for any year of assessment, there are 2 or more —
 
 (a) claims for any qualifying deduction by a claimant company, the available assessable income of the claimant company shall, for the purpose of subsection (9)(a), be
 
-A
-
-—
-
-x
-
-C — F,
-
-B
-
 where A, B and C
 
-have the same meanings as in subsection (9)(a);
+have the same meanings as in subsection (9)(a); and
 
 F
 
@@ -5310,31 +5346,27 @@ is the aggregate of the amounts of qualifying deductions previously claimed from
 
 (b) transfers of any qualifying deduction by a transferor company, the available qualifying deduction of the transferor company shall, for the purpose of subsection (9)(b), be
 
-A
-
-—
-
-x
-
-E — G,
-
-D
-
 where A, D and E
 
-have the same meanings as in subsection (9)(b);
+have the same meanings as in subsection (9)(b); and
 
 G
 
 is the aggregate of the amounts of qualifying deductions previously transferred to any other claimant company for the same year of assessment, if any.
 
+[37/2002]
+
 (11) Every transferor company and every claimant company of the same group shall, at the time of lodgment of their returns of income for any year of assessment or within such further time as the Comptroller may allow, make an irrevocable election to transfer or claim qualifying deductions, as the case may be.
+
+[37/2002]
 
 (12) An election under subsection (11) shall be accompanied by —
 
 (a) such particulars as the Comptroller may require; and
 
 (b) a list of companies, in order of priority, to which qualifying deductions would be transferred or from which such deductions would be claimed, as the case may be.
+
+[37/2002]
 
 (13) Notwithstanding subsection (11), where at the time of furnishing its return of income under section 62(1) for any year of assessment —
 
@@ -5350,23 +5382,31 @@ the Comptroller may —
 
 within such time and in such manner as the Comptroller may determine.
 
+[37/2002]
+
 (14) For the purposes of this section, subject to subsection (15) and sections 35, 37 and 37B, qualifying deductions, in relation to a transferor company, for each year of assessment, are —
 
-(a) any allowance falling to be made under section 16, 17, 18A , 19, 19A, 19B, 19Cor 20 for that year of assessment that is in excess of the transferor company’s income from all sources chargeable to tax for that year of assessment;
+(a) any allowance falling to be made under section 16, 17, 18A (repealed), 19, 19A, 19B, 19C, 19D or 20 for that year of assessment that is in excess of the transferor company’s income from all sources chargeable to tax for that year of assessment;
 
 (b) any loss incurred by the transferor company in the basis period for that year of assessment in any trade or business which, if it had been a profit would have been assessable under this Act, and which is not deducted for that year of assessment because of insufficiency of statutory income of the transferor company; and
 
-(c) any donation made by the transferor company under section 37(2)(b), (c), (d) or (f) or (2C) in the year preceding that year of assessment that is not deducted for that year of assessment because of insufficiency of statutory income of the transferor company.
+(c) any donation made by the transferor company under section 37(3)(b), (c), (d) or (f) in the year preceding that year of assessment that is not deducted for that year of assessment because of insufficiency of statutory income of the transferor company.
+
+[37/2002; 21/2003]
 
 (15) Notwithstanding subsection (14), the following companies shall not be entitled to transfer the following items of qualifying deductions:
 
 (a) any company to which section 10E applies, in respect of qualifying deductions under subsection (14)(a) and (b);
 
-(b) any company to which section 97D, 97G or 97V of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) applies, in respect of qualifying deductions under subsection (14)(a) where the loss is deemed to be a loss incurred from a trade or business for the purposes of any of those sections; and
+(b) any company to which section 97D or 97G of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) in force immediately before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004 or section 97V of the Economic Expansion Incentives (Relief from Income Tax) Act applies, in respect of qualifying deductions under subsection (14)(a) where the loss is deemed to be a loss incurred from a trade or business for the purposes of any of those sections; and (5)
 
-(c) any company, in respect of qualifying deductions under subsection (14) relating to any income that is fully exempt from tax under the provisions of this Act or the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86).
+(c) any company, in respect of qualifying deductions under subsection (14) relating to any income that is fully exempt from tax under the provisions of this Act or the Economic Expansion Incentives (Relief from Income Tax) Act.
+
+[37/2002]
 
 (16) Notwithstanding subsections (9) and (10), where the Comptroller discovers that any transfer or claim of qualifying deduction which has been made from or to any company is or has become excessive, he may make an assessment upon the company under section 74 on the amount which, in his opinion, ought to have been charged to tax.
+
+[37/2002]
 
 (17) Section 37B shall apply, with the necessary modifications, to the transfer of any qualifying deduction from a transferor company to a claimant company, where applicable, and for the purpose of such application, any reference in section 37B(2) and (3) to —
 
@@ -5378,37 +5418,43 @@ within such time and in such manner as the Comptroller may determine.
 
 (d) chargeable income of the company shall be read as a reference to chargeable income of a claimant company.
 
-(18) For the purposes of this section, the Minister may make regulations generally to give full effect to or for carrying out the purposes of this section.
+[37/2002]
+
+(18) For the purposes of this section, the Minister may make regulations to provide generally for giving full effect to or for carrying out the purposes of this section.
+
+[37/2002]
 
 (19) In this section —
 
-“assessable income”, in relation to a claimant company or transferor company, means assessable income of the company as determined under section 37 after deducting any investment allowance under Part X of the Economic Expansion Incentives (Relief from Income Tax) Act;
+“assessable income”, in relation to a claimant company or transferor company, means assessable income of the company as determined under section 37 after deducting any investment allowance under Part X of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86);
 
 “claimant company” or “transferor company” means a Singapore company that claims or transfers, respectively, any qualifying deduction under subsection (1) but shall not include a company approved as —
 
-(a) a technology company under section 94(2) of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86);
+(a) a technology company under section 94(2) of the Economic Expansion Incentives (Relief from Income Tax) Act in force immediately before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004;
 
-(b) a venture company under section 97B(2) of the Economic Expansion Incentives (Relief from Income Tax) Act;
+(b) a venture company under section 97B(2) of the Economic Expansion Incentives (Relief from Income Tax) Act in force immediately before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004;
 
-(c) a technology investment company under section 97C(2) of the Economic Expansion Incentives (Relief from Income Tax) Act;
+(c) a technology investment company under section 97C(2) of the Economic Expansion Incentives (Relief from Income Tax) Act in force immediately before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004;
 
-(d) an overseas investment company under section 97C(4) of the Economic Expansion Incentives (Relief from Income Tax) Act; or
+(d) an overseas investment company under section 97C(4) of the Economic Expansion Incentives (Relief from Income Tax) Act in force immediately before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004; or
 
-(e) a technopreneur start-up company under section 97T(2) of the Economic Expansion Incentives (Relief from Income Tax) Act;
+(e) a start-up company under section 97T(2) of the Economic Expansion Incentives (Relief from Income Tax) Act;
+
+[11/2004 wef 28/04/2004]
 
 “commercial loan” means any borrowing which entitles the creditor to any return which is of only —
 
 (a) a fixed amount or at a fixed rate per cent of the amount of the borrowing; or
 
-(b) of a fixed rate per cent of the profits of the company;
+(b) a fixed rate per cent of the profits of the company;
 
 “equity holder”, in relation to a Singapore company, means any holder of ordinary shares in the company or any creditor of the company in respect of any non-commercial loan;
 
 “non-commercial loan” means any borrowing other than a commercial loan;
 
-“ordinary share” means any share other than a share which carries only a right to any dividend which is of —
+“ordinary share” means any share other thana share which carries only a right to any dividend which is of —
 
-(a) a fixed amount or at a fixed rate per cent of the nominal value of the shares; or
+(a) a fixed amount or at a fixed rate per cent of the nominalvalue of the shares; or
 
 (b) a fixed rate per cent of the profits of the company;
 
@@ -5438,7 +5484,7 @@ and where the company has no residual profit, a notional amount of $100 is deeme
 
 “Singapore company” means any company incorporated in Singapore.
 
-[Act 37/2002, wef Y/A 2003 & Sub Ys/A:2002-ACT-37]
+[37/2002]
 
 ## PART X
 
@@ -5962,9 +6008,13 @@ RATES OF TAX
 
 (5) For the purposes of subsection (4), the effective rate of tax for companies shall be determined in accordance with the formula
 
-where A is the tax chargeable on the chargeable income of the person for the year of assessment calculated in accordance with section 43(5) as if the person is a company; and
+where A
 
-B is the chargeable income of the person for the year of assessment.
+is the tax chargeable on the chargeable income of the person for the year of assessment calculated in accordance with section 43(5) as if the person is a company; and
+
+B
+
+is the chargeable income of the person for the year of assessment.
 
 (6) There shall be levied and paid for each year of assessment upon any interest derived by a body of persons from qualifying debt securities at the rate of 10%.
 
@@ -6054,9 +6104,9 @@ subsection (3)(b) and (c) shall only apply to any second, third or fourth child,
 
 43\.—(1) Subject to section 40, there shall be levied and paid for each year of assessment upon the chargeable income of —
 
-(a) every company, tax at the rate of 22% on every dollar of the chargeable income thereof;
+(a) every company, tax at the rate of 24.5% on every dollar of the chargeable income thereof;
 
-(b) every person (other than a company) not resident in Singapore, trustee (other than the trustee of an incapacitated person), and executor, tax at the rate of 22% on every dollar of the chargeable income thereof.
+(b) every person (other than a company) not resident in Singapore, trustee (other than the trustee of an incapacitated person), and executor, tax at the rate of 24.5% on every dollar of the chargeable income thereof.
 
 [31/86; 1/90; 20/91; 28/92; 26/93; 28/96; 24/2001]
 
@@ -6071,22 +6121,6 @@ subsection (3)(b) and (c) shall only apply to any second, third or fourth child,
 accruing in or derived from Singapore on or after 28th February 1996 by a person not resident in Singapore which is not derived by the person from any trade, business, profession or vocation carried on or exercised by him in Singapore and which is not effectively connected with any permanent establishment in Singapore of the person.
 
 [28/96]
-
-(3A) Notwithstanding anything in this Act but subject to subsection (3B) and sections 13(1)(r) and 40A, tax at the rate of 15% shall be levied and paid on the gross amount of any income accruing in or derived from Singapore on or after 3rd May 2002 from any profession or vocation carried on by —
-
-(a) an individual not resident in Singapore and whose principal place of business is situated outside Singapore; or
-
-(b) a foreign firm.
-
-[37/2002 wef 10/12/2002]
-
-(3B) Any individual or foreign firm to which subsection (3A) applies may make an irrevocable option to be taxed under subsection (1)(b) within 45 days from the date of payment of the income to the individual or firm or, where such payment was made before the date of commencement of the Income Tax (Amendment) Act 2002, within 30 days after that date.
-
-[Act 37/2002; Act 21/2003 wef 01/04/2003]
-
-(3C) In subsection (3A), “foreign firm” means an unincorporated body of 2 or more persons who have entered into partnership with one another with a view to carrying on business for profit and whose principal place of business is situated outside Singapore.
-
-[37/2002 wef 10/12/2002]
 
 (4) In subsections (3) and (3A), “gross amount”, in relation to any income referred to in that subsection, means the full amount of the income without any deduction and relief being allowed against the income under the provisions of this Act.
 
@@ -6111,10 +6145,6 @@ accruing in or derived from Singapore on or after 28th February 1996 by a person
 (b) any payment to a person not resident in Singapore for the rendering of assistance or service in connection with the application or use of scientific, technical, industrial or commercial knowledge or information.
 
 [28/96]
-
-(8) The reference to 22% in subsection (1) shall, for the year of assessment 2002, be read as a reference to 24.5%.
-
-[37/2002 wef 10/12/2002]
 
 (9) Notwithstanding subsection (1)(a), the tax to be levied and paid upon such income of a life insurance company apportioned to the policyholders of the company as the Minister may by regulations specify shall be at the rate of 10% or such other prescribed rate.
 
@@ -6988,11 +7018,17 @@ RELIEF AGAINST DOUBLE TAXATION
 
 (2A) In subsection (2)(b), “effective rate of tax” means the rate of tax as ascertained in accordance with the formula
 
-where A is the tax payable before allowance of credit under any arrangements having effect under this section on B + C computed in accordance with the provisions of this Act;
+where A
 
-B is the exempt income; and
+is the tax payable before allowance of credit under any arrangements having effect under this section on B + C computed in accordance with the provisions of this Act;
 
-C is the other income.
+B
+
+is the exempt income; and
+
+C
+
+is the other income.
 
 (3) While any such arrangements are in force with any country within the Commonwealth, section 48 shall cease to have effect as respects that country except in so far as the arrangements otherwise provide.
 
@@ -8866,407 +8902,700 @@ Income Tax Act
 
 (CHAPTER 134)
 
-This Legislative History is provided for the convenience of users of the Income Tax Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Income Tax Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
 |1.|**Ordinance 39 of 1947—Income Tax Ordinance 1947**|
-||Date of First Reading|27.11.47|
-|||(Bill published on 10.11.47. No Bill number given)|
-||Date of Second Reading|27.11.47|
-||Date of Third Reading|4.12.47|
-||Date of commencement|1.1.48|
+||Date of First Reading|27 November 1947|
+|||(Bill published on 10 November 1947. No Bill number given)|
+||Date of Second Reading|27 November 1947|
+||Date of Third Reading|4 December 1947|
+||Date of commencement|1 January 1948|
 |2.|**Ordinance 20 of 1948—Income Tax (Amendment) Ordinance 1948**|
-||Date of First Reading|13.7.48|
-|||(Bill published on 2.7.48. No Bill number given)|
-||Date of Second and Third Readings|13.7.48|
-||Date of commencement|1.1.48 (except section 20)|
+||Date of First Reading|13 July 1948|
+|||(Bill published on 2 July 1948. No Bill number given)|
+||Date of Second and Third Readings|13 July 1948|
+||Date of commencement|1 January 1948 (except section 20)|
+
+|
+1 August 1948 (section 20)|
 |3.|**Ordinance 44 of 1950—Income Tax (Amendment) Ordinance 1950**|
-||Date of First Reading|13.10.50|
-|||(Bill published on 20.10.50. No Bill number given)|
-||Date Committed to Select Committee|Council Paper No. 92 of 1950 presented to Par liament on 21.11.50|
-||Date of Second and Third Readings|21.11.50|
-||Date of commencement|1.1.50 (except sections 11, 13 (a) and 4)|
+||Date of First Reading|13 October 1950|
+|||(Bill published on 20 October 1950. No Bill number given)|
+||Referred to Select Committee|Council Paper No. 92 of 1950 presented to Parliament on 21 November 1950|
+||Date of Second and Third Readings|21 November 1950|
+||Date of commencement|1 January 1950 (except sections 4, 11 and 13(a))|
+|||1 January 1948 (sections 11 and 13(a))|
+|||1 January 1949 (section 4)|
 |4.|**Ordinance 46 of 1950—Income Tax (Amendment No. 2) Ordinance 1950**|
-||Date of First Reading|19.12.50|
+||Date of First Reading|19 December 1950|
 |||(Bill not published)|
-||Date of Second and Third Readings|19.12.50|
-||Date of commencement|1.1.51|
+||Date of Second and Third Readings|19 December 1950|
+||Date of commencement|1 January 1951|
 |5.|**Ordinance 29 of 1952—Income Tax (Amendment) Ordinance 1952**|
-||Date of First Reading|15.7.52|
-|||(Bill No. 26/52 published on 18.7.52)|
-||Date of Second and Third Readings|19.8.52|
-||Date of commencement|1.1.52 (except section 3)|
+||Date of First Reading|15 July 1952|
+|||(Bill No. 26/52 published on 18 July 1952)|
+||Date of Second and Third Readings|19 August 1952|
+||Date of commencement|1 January 1952 (except section 3)|
+|||1 January 1948 (section 3)|
 |6.|**Ordinance 40 of 1953—Income Tax (Amendment) Ordinance 1953**|
-||Date of First Reading|18.8.53|
-|||(Bill No. 18/53 published on 21.8.53)|
-||Date Committed to Select Committee|Council Paper No. 73 of 1953 presented to Council on 24.11.53|
-||Date of Second and Third Readings|15.12.53|
-||Date of commencement|1.1.48 (sections 2,3,4 and 8)|
-|7.|**1948 Revised Edition—Income Tax Act**|
-||Date of operation|1 January 1948|
-|8.|**Ordinance 34 of 1954—Income Tax (Amendment) Ordinance 1954**|
-||Date of First Reading|15.6.54|
-|||(Bill No. 21/54 published on 18.6.54)|
-||Date of Second Reading|20.7.54|
-||Date of Third Reading|14.12.54|
-||Date of commencement|1.1.54|
-|9.|**Ordinance 6 of 1956—Income Tax (Amendment) Ordinance 1956**|
-||Date of First Reading|8.2.56|
-|||(Bill No. 37/56 published on 25.2.56)|
-||Date of Second and Third Readings|7.3.56|
-||Date of commencement|1.1.56|
-|10.|**Ordinance 31 of 1958—Legislative Assembly (Presentation of Subsidiary Leg­islation) Ordinance 1958**|
-||Date of First Reading|16.7.58|
-|||(Bill No. 158/58 published on 22.7.58)|
-||Date of Second Reading|13.8.58|
-||Date of Third Reading|10.9.58|
-||Date of commencement|25.9.58|
-|11.|**Ordinance 37 of 1958—Income Tax (Amendment) Ordinance 1958**|
-||Date of First Reading|10.9.58|
-|||(Bill No. 171/58 published on 17.9.58)|
-||Date of Second and Third Readings|8.10.58|
-||Date of commencement|1.1.59 (except section 3)|
-|12.|**Ordinance 49 of 1958—Income Tax (Amendment No. 2) Ordinance 1958**|
-||Date of First Reading|3.12.58|
-|||(Bill No. 189/58 published on 5.12.58)|
-||Date of Second and Third Readings|12.12.58|
-||Date of commencement|1.1.59|
-|13.|**Ordinance 71 of 1959—Transfer of Powers Ordinance 1959**|
-||Date of First Reading|22.9.59|
-|||(Bill No. 30/59 published on 30.9.59)|
-||Date of Second and Third Readings|11.11.59|
-||Date of commencement|20.11.59|
-|14.|**Ordinance 72 of 1959—Transfer of Powers (No. 2) Ordinance 1959**|
-||Date of First Reading|22.9.59|
-|||(Bill No. 31/59 published on 30.9.59)|
-||Date of Second and Third Readings|11.11.59|
-||Date of commencement|20.11.59|
-|15.|**Ordinance 36 of 1960—Income Tax (Amendment) Ordinance 1960**|
-||Date of First Reading|6.4.60|
-|||(Bill No. 71/60 published on 22.4.60)|
-||Date of Second and Third Readings|11.5.60 and 12.5.60|
-||Date of commencement|1.1.60 (sections 2 (a), 3 to 5, 7 to 23)|
-|16.|**Ordinance 60 of 1960—Transfer of Powers Ordinance 1960**|
-||Date of First Reading|20.10.60|
-|||(Bill No. 99/60 published on 28.10.60)|
-||Date of Second and Third Readings|16.11.60|
-||Date of commencement|9.12.60|
-|17.|**Ordinance 77 of 1960—Income Tax (Amendment No. 2) Ordinance 1960**|
-||Date of First Reading|13.12.60|
-|||(Bill No. 118/60 published on 19.12.60)|
-||Date of Second and Third Readings|29.12.60|
-||Date of commencement|1.1.61|
-|18.|**Ordinance 15 of 1962—Income Tax (Amendment) Ordinance 1962**|
-||Date of First Reading|14.3.62|
-|||(Bill No. 170/62 published on 16.3.62)|
-||Date of Second and Third Readings|26.3.62|
-||Date of commencement|1.1.62|
-|19.|**Malaysia Act 21 of 1964—Income Tax Act 1964**|
-||Date of First Reading|6.7.64|
-|||(Bill published on 6.7.64. No Bill number given)|
-||Date of Second and Third Readings|14.7.64|
-||Date of commencement|30.7.64|
-|20.|**Malaysia Act 2 of 1965—Finance Act 1965**|
-||Date of First Reading|24.12.64|
-|||(Bill published on 24.12.64. No Bill number given)|
-||Date of Second and Third Readings|29.12.64|
-||Date of commencement|1.1.65|
-|21.|**Malaysia Act 43 of 1965—Income Tax Laws (Singapore and the States of Ma­laya) (Amendment) Act 1965**|
-||Date of First Reading|26.5.65|
-|||(Bill published on 26.5.65. No Bill number given)|
-||Date of Second and Third Readings|5.6.65|
-||Date of commencement|30.6.65|
-|22.|**Act 29 of 1965—Income Tax (Amendment) Act 1965**|
-||Date of First Reading|13.12.65|
-|||(Bill No. 54/65 published on 20.12.65)|
-||Date of Second and Third Readings|31.12.65|
-||Date of commencement|1.1.66|
-|23.|**Act 44 of 1966—Income Tax (Amendment) Act 1966**|
-||Date of First Reading|26.10.66|
-|||(Bill No. 43/66 published on 2.11.66)|
-||Date of Second and Third Readings|5.12.66|
-||Date of commencement|16.12.66|
-|24.|**Act 33 of 1967—Income Tax (Amendment) Act 1967**|
-||Date of First Reading|31.10.67 (Bill No.30/67 published on 4.11.67)|
-||Date of Second and Third Readings|14.11.67|
-||Date of commencement|18.11.67|
-|25.|**Act 23 of 1969—Income Tax (Amendment) Act 1969**|
-||Date of First Reading|15.10.69|
-|||(Bill No. 18/69 published on 18.10.69)|
-||Date of Second and Third Readings|23.12.69|
-||Date of commencement|1.1.70|
-|26.|**Act 7 of 1970—Income Tax (Amendment) Act 1970**|
-||Date of First Reading|17.3.70|
-|||(Bill No. 8/70 published on 18.3.70)|
-||Date of Second and Third Readings|30.3.70|
-||Date of commencement|1.1.70|
-|27.|**1970 Revised Edition (Cap. 141)—Income Tax Act 1970**|
-||Date of operation|1 January 1970|
-|28.|**Act 48 of 1970—Statute Law Revision Act 1970**|
-||Date of First Reading|2.9.70|
-|||(Bill No. 36/70 published on 7.9.70)|
-||Date of Second and Third Readings|4.11.70|
-||Date of commencement|11.12.70|
-|29.|**Act 26 of 1973—Income Tax (Amendment) Act 1973**|
-||Date of First Reading|11.7.73|
-|||(Bill No. 42/73 published on 14.7.73)|
-||Date of Second and Third Readings|26.7.73|
-||Date of commencement|10.8.73|
-|30.|**Act 4 of 1975—Income Tax (Amendment) Act 1975**|
-||Date of First Reading|25.2.75|
-|||(Bill No. 8/75 published on 28.2.75)|
-||Date of Second and Third Readings|27.3.75|
-||Date of commencement|4.4.75|
-|31.|**Act 37 of 1975—Income Tax (Amendment No. 2) Act 1975**|
-||Date of First Reading|11.11.75|
-|||(Bill No. 52/75 published on 11.11.75)|
-||Date of Second and Third Readings|20.11.75|
-||Date of commencement|2.12.75 (except section 3 (a))|
-|32.|**Act 5 of 1977—Income Tax (Amendment) Act 1977**|
-||Date of First Reading|27.5.77|
-|||(Bill No. 8/77 published on 2.6.77)|
-||Date of Second and Third Readings|29.6.77|
-||Date of commencement|7.7.77|
-|33.|**Act 7 of 1979—Income Tax (Amendment) Act 1979**|
-||Date of First Reading|5.3.79|
-|||(Bill No. 9/79 published on 12.3.79)|
-||Date of Second and Third Readings|30.3.79|
-||Date of commencement|16.4.79|
-|34.|**Act 9 of 1980—Income Tax (Amendment) Act 1980**|
-||Date of First Reading|26.2.80|
-|||(Bill No. 6/80 published on 29.2.80)|
-||Date of Second and Third Readings|17.3.80|
-||Date of commencement|3.4.80|
-|35.|**Act 28 of 1980—Income Tax (Amendment No. 2) Act 1980**|
-||Date of First Reading|31.10.80|
-|||(Bill No. 25/80 published on 7.11.80)|
-||Date of Second and Third Readings|28.11.80|
-||Date of commencement|4.12.80|
-|36.|**Act 1 of 1982—Income Tax (Amendment) Act 1982**|
-||Date of First Reading|22.12.81|
-|||(Bill No. 30/81 published on 30.12.81)|
-||Date of Second and Third Readings|3.3.82|
-||Date of commencement|19.3.82|
-|37.|**Act 5 of 1983—Income Tax (Amendment) Act 1983**|
-||Date of First Reading|4.3.83|
-|||(Bill No. 1/83 published on 9.3.83)|
-||Date of Second and Third Readings|24.3.83|
-||Date of commencement|8.4.83|
-|38.|**Act 15 of 1983—Income Tax (Amendment No. 2) Act 1983**|
-||Date of First Reading|30.8.83|
-|||(Bill No. 10/83 published on 7.9.83)|
-||Date of Second and Third Readings|20.12.83|
-||Date of commencement|13.1.84|
-|39.|**Act 13 of 1984—Income Tax (Amendment) Act 1984**|
-||Date of First Reading|29.6.84|
-|||(Bill No. 20/84 published on 9.7.84)|
-||Date of Second and Third Readings|26.7.84|
-||Date of commencement|10.8.84|
-|40.|**1985 Revised Edition—Income Tax Act**|
-||Date of operation|1 January 1985|
-|41.|**Act 7 of 1985—Income Tax (Amendment) Act 1985**|
-||Date of First Reading|23.7.85|
-|||(Bill No. 10/85 published on 26.7.85)|
-||Date of Second and Third Readings|30.8.85|
-||Date of commencement|27.9.85|
-|42.|**Act 2 of 1986—Statute Law Revision Act 1986**|
-||Date of First Reading|31.10.85|
-|||(Bill No. 12/85 published on 8.11.85)|
-||Date of Second and Third Readings|10.1.86|
-||Date of commencement|31.1.86|
-|43.|**Act 31 of 1986—Income Tax (Amendment) Act 1986**|
-||Date of First Reading|27.10.86|
-|||(Bill No. 25/86 published on 31.10.86)|
-||Date of Second and Third Readings|9.12.86|
-||Date of commencement|19.12.86 (except section 14 (a))|
-|44.|**Act 1 of 1988—Income Tax (Amendment) Act 1988**|
-||Date of First Reading|9.11.87|
-|||(Bill No. 22/87 published on 11.11.87)|
-||Date of Second and Third Readings|13.1.88|
-||Date of commencement|29.1.88 and other dates|
-|45.|**Act 3 of 1989—Income Tax (Amendment) Act 1989**|
-||Date of First Reading|16.1.89|
-|||(Bill No. 1/89 published on 16.1.89)|
-||Date of Second and Third Readings|26.1.89|
-||Date of commencement|17.2.89|
-|46.|**Act 1 of 1990—Income Tax (Amendment) Act 1990**|
-||Date of First Reading|29.11.89|
-|||(Bill No. 42/89 published on 30.11.89)|
-||Date of Second and Third Readings|15.1.90|
-||Date of commencement|9.2.90 and other dates|
-|47.|**Act 23 of 1990—Income Tax (Amendment No. 2) Act 1990**|
-||Date of First Reading|4.10.90|
-|||(Bill No. 26/90 published on 5.10.90)|
-||Date of Second and Third Readings|9.11.90|
-||Date of commencement|30.11.90|
-|48.|**Act 20 of 1991—Income Tax (Amendment) Act 1991**|
-||Date of First Reading|7.5.91|
-|||(Bill No. 16/91 published on 8.5.91)|
-||Date of Second and Third Readings|28.6.91|
-||Date of commencement|19.7.91 (except sections 17 (a) and (c))|
-|49.|**1992 Revised Edition—Income Tax Act**|
-||Date of operation|1 January 1992|
-|50.|**Act 2 of 1992—Income Tax (Amendment) Act 1992**|
-||Date of First Reading|14.1.92|
-|||(Bill No. 7/92 published on 15.1.92)|
-||Date of Second and Third Readings|27.2.92|
-||Date of commencement|13.3.92 (except sections 13, 14, 16 and 18)|
-|51.|**Act 28 of 1992—Income Tax (Amendment No. 2) Act 1992**|
-||Date of First Reading|31.7.92|
-|||(Bill No. 32/92 published on 1.8.92)|
-||Date of Second and Third Readings|14.9.92|
-||Date of commencement|2.10.92 and other dates|
-|52.|**Act 26 of 1993—Income Tax (Amendment) Act 1993**|
-||Date of First Reading|30.7.93|
-|||(Bill No. 23/93 published on 31.7.93)|
-||Date of Second and Third Readings|30.8.93|
-||Date of commencement|17.9.93 and other dates|
-|53.|**Act 31 of 1993—Goods and Services Tax Act 1993**|
-||(Consequential amendments made by)||
-||Date of First Reading|26.2.93|
-|||(Bill No. 14/93 published on 27.2.93)|
-||Date of Second Reading|19.3.93|
-||Date Committed to Select Committee|Parl 4 of 1993 presented to Parliament on 7.9.93|
-||Date of Third Reading|12.10.93|
-||Date of commencement|26.11.93 (except para (3) of Fifth Schedule)|
-|54.|**1994 Revised Edition—Income Tax Act**|
-||Date of operation|1 January 1994|
-|55.|**Act 11 of 1994—Income Tax (Amendment) Act 1994**|
-||Date of First Reading|25.7.94|
-|||(Bill No. 17/94 published on 29.7.94)|
-||Date of Second and Third Readings|25.8.94|
-||Date of commencement|16.9.94 and other dates|
-|56.|**Act 19 of 1994—Enlistment (Amendment) Act 1994**|
-||(Consequential amendments made by)||
-||Date of First Reading|25.7.94|
-|||(Bill No. 21/94 published on 29.7.94)|
-||Date of Second and Third Readings|31.10.94|
-||Date of commencement|1.12.94|
-|57.|**Act 28 of 1994—National Registration (Amendment) Act 1994**|
-||(Consequential amendments made by)||
-||Date of First Reading|31.10.94|
-|||(Bill No. 30/94 published on 1.11.94)|
-||Date of Second and Third Readings|5.12.94|
-||Date of commencement|1.3.95|
-|58.|**Act 29 of 1995—Rapid Transit Systems Act 1995**|
-||(Conse quential amendments made by)||
-||Date of First Reading|7.7.95|
-|||(Bill No. 25/95 published on 8.7.95)|
-||Date of Second and Third Readings|7.8.95|
-||Date of commencement|1.9.95|
-|59.|**Act 32 of 1995—Income Tax (Amendment) Act 1995**|
-||Date of First Reading|7.8.95|
-|||(Bill No. 28/95 published on 8.8.95)|
-||Date of Second and Third Readings|27.9.95|
-||Date of commencement|13.10.95 (except sections 7 (c), 8 and 25)|
-|60.|**1996 Revised Edition—Income Tax Act**|
-||Date of operation|1 January 1996|
-|61.|**Act 1 of 1996—Singapore Productivity and Standards Board Act 1995**|
-||(Consequential amendments made by)||
-||Date of First Reading|1.11.95|
-|||(Bill No. 39/95 published on 2.11.95)|
-||Date of Second and Third Readings|5.12.95|
-||Date of commencement|1.4.96|
-|62.|**Act 7 of 1996—Maritime and Port Authority of Singapore Act 1996**|
-||(Consequential amendments made by)||
-||Date of First Reading|5.12.95|
-|||(Bill No. 46/95 published on 6.12.95)|
-||Date of Second and Third Readings|18.1.96|
-||Date of commencement|2.2.96|
-|63.|**Act 23 of 1996—Income Tax (Amendment) Act 1996**|
-||Date of First Reading|21.5.96|
-|||(Bill No. 17/96 published on 22.5.96)|
-||Date of Second and Third Readings|12.7.96|
-||Date of commencement|2.8.96|
-|64.|**Act 28 of 1996—Income Tax (Amendment No. 2) Act 1996**|
-||Date of First Reading|12.7.96|
-|||(Bill No. 23/96 published on 13.7.96)|
-||Date of Second and Third Readings|27.8.96|
-||Date of commencement|6.9.96|
-|65.|**Act 1 of 1998—Income Tax (Amendment) Act 1998**|
-||Date of First Reading|19.11.97|
-|||(Bill No. 16/97 published on 20.11.98)|
-||Date of Second and Third Readings|14.1.98|
-||Date of commencement|23.1.98|
-|66.|**Act 31 of 1998—Income Tax (Amendment No. 2) Act 1998**|
-||Date of First Reading|29.6.98|
-|||(Bill No. 29/98 published on 30.6.98)|
-||Date of Second and Third Readings|31.7.98|
-||Date of commencement|14.8.98 and other dates (see section 1 of the Act)|
-|67.|**Act 37 of 1998—Post Office Savings Bank of Singapore (Transfer of Undertakings and Dissolution) Act 1998**|
-||(Consequential amendments made by)||
-||Date of First Reading|31.7.98|
-|||(Bill No. 34/98 published on 1.8.98)|
-||Date of Second and Third Readings|12.10.98|
-||Date of commencement|16.11.98|
-|68.|**Act 32 of 1999—Income Tax (Amendment) Act 1999**|
-||Date of First Reading|6.7.99|
-|||(Bill No. 24/99 published on 7.7.99)|
-||Date of Second and Third Readings|17.8.99|
-||Date of commencement|31.8.99 and other dates (see section 1 of the Act)|
-|69.|**Act 41 of 1999—Info-communications Development Authority of Singapore Act 1999**|
-||(Consequential amendments made by)||
-||Date of First Reading|11.10.99|
-|||(Bill No. 36/99 published on 12.10.99)|
-||Date of Second and Third Readings|23.11.99|
-||Date of commencement|1.12.99|
-|70.|**1999 Revised Edition—Income Tax Act**|
+||Date of First Reading|18 August 1953|
+|||(Bill No. 18/53 published on 21 August 1953)|
+||Referred to Select Committee|Council Paper No. 73 of 1953 presented to Council on 24 November 1953|
+||Date of Second and Third Readings|15 December 1953|
+||Date of commencement|1 January 1948 (sections 2, 3, 4 and 8)|
+|||1 January 1951 (section 5(a))|
+|||1 January 1954 (sections 5(b) and 6)|
+|||1 January 1953 (sections 5(c) and 7)|
+|7.|**Ordinance 34 of 1954—Income Tax (Amendment) Ordinance 1954**|
+||Date of First Reading|15 June 1954|
+|||(Bill No. 21/54 published on 18 June 1954)|
+||Date of Second Reading|20 July 1954|
+||Date of Third Reading|14 December 1954|
+||Date of commencement|1 January 1954|
+|8.|**Ordinance 6 of 1956—Income Tax (Amendment) Ordinance 1956**|
+||Date of First Reading|8 February 1956|
+|||(Bill No. 37/56 published on 25 February 1956)|
+||Date of Second and Third Readings|7 March 1956|
+||Date of commencement|1 January 1956|
+|9.|**Ordinance 31 of 1958—Legislative Assembly (Presentation of Subsidiary Legislation) Ordinance 1958**|
+||Date of First Reading|16 July 1958|
+|||(Bill No. 158/58 published on 22 July 1958)|
+||Date of Second Reading|13 August 1958|
+||Date of Third Reading|10 September 1958|
+||Date of commencement|25 September 1958|
+|10.|**Ordinance 37 of 1958—Income Tax (Amendment) Ordinance 1958**|
+||Date of First Reading|10 September 1958|
+|||(Bill No. 171/58 published on 17 September 1958)|
+||Date of Second and Third Readings|8 October 1958|
+||Date of commencement|1 January 1959 (except section 3)|
+|||1 January 1956 (section 3)|
+|11.|**Ordinance 49 of 1958—Income Tax (Amendment No. 2) Ordinance 1958**|
+||Date of First Reading|3 December 1958|
+|||(Bill No. 189/58 published on 5 December 1958)|
+||Date of Second and Third Readings|12 December 1958|
+||Date of commencement|1 January 1959|
+|12.|**Ordinance 71 of 1959—Transfer of Powers Ordinance 1959**|
+||Date of First Reading|22 September 1959|
+|||(Bill No. 30/59 published on 30 September 1959)|
+||Date of Second and Third Readings|11 November 1959|
+||Date of commencement|20 November 1959|
+|13.|**Ordinance 72 of 1959—Transfer of Powers (No. 2) Ordinance 1959**|
+||Date of First Reading|22 September 1959|
+|||(Bill No. 31/59 published on 30 September 1959)|
+||Date of Second and Third Readings|11 November 1959|
+||Date of commencement|20 November 1959|
+|14.|**Ordinance 36 of 1960—Income Tax (Amendment) Ordinance 1960**|
+||Date of First Reading|6 April 1960|
+|||(Bill No. 71/60 published on 22 April 1960)|
+||Date of Second and Third Readings|11 May 1960 and 12 May 1960|
+||Date of commencement|1 January 1960 (sections 2(a), 3 to 5, 7 to 23)|
+|||1 January 1961 (sections 2(b) and 6)|
+|15.|**Ordinance 60 of 1960—Transfer of Powers Ordinance 1960**|
+||Date of First Reading|20 October 1960|
+|||(Bill No. 99/60 published on 28 October 1960)|
+||Date of Second and Third Readings|16 November 1960|
+||Date of commencement|9 December 1960|
+|16.|**Ordinance 77 of 1960—Income Tax (Amendment No. 2) Ordinance 1960**|
+||Date of First Reading|13 December 1960|
+|||(Bill No. 118/60 published on 19 December 1960)|
+||Date of Second and Third Readings|29 December 1960|
+||Date of commencement|1 January 1961|
+|17.|**Ordinance 15 of 1962—Income Tax (Amendment) Ordinance 1962**|
+||Date of First Reading|14 March 1962|
+|||(Bill No. 170/62 published on 16 March 1962)|
+||Date of Second and Third Readings|26 March 1962|
+||Date of commencement|1 January 1962|
+|18.|**Malaysia Act 21 of 1964—Income Tax Act 1964**|
+||Date of First Reading|6 July 1964|
+|||(Bill published on 6 July 1964. No Bill number given)|
+||Date of Second and Third Readings|14 July 1964|
+||Date of commencement|30 July 1964|
+|19.|**Malaysia Act 2 of 1965—Finance Act 1965**|
+||Date of First Reading|24 December 1964|
+|||(Bill published on 24 December 1964. No Bill number given)|
+||Date of Second and Third Readings|29 December 1964|
+||Date of commencement|1 January 1965|
+|20.|**Malaysia Act 43 of 1965—Income Tax Laws (Singapore and the States of Malaya) (Amendment) Act 1965**|
+||Date of First Reading|26 May 1965|
+|||(Bill published on 26 May 1965. No Bill number given)|
+||Date of Second and Third Readings|5 June 1965|
+||Date of commencement|30 June 1965|
+|21.|**Act 29 of 1965—Income Tax (Amendment) Act 1965**|
+||Date of First Reading|13 December 1965|
+|||(Bill No. 54/65 published on 20 December 1965)|
+||Date of Second and Third Readings|31 December 1965|
+||Date of commencement|1 January 1966|
+|22.|**Act 44 of 1966—Income Tax (Amendment) Act 1966**|
+||Date of First Reading|26 October 1966|
+|||(Bill No. 43/66 published on 2 November 1966)|
+||Date of Second and Third Readings|5 December 1966|
+||Date of commencement|16 December 1966|
+|23.|**Act 33 of 1967—Income Tax (Amendment) Act 1967**|
+||Date of First Reading|31 October 1967|
+|||(Bill No. 30/67 published on 4 November 1967)|
+||Date of Second and Third Readings|14 November 1967|
+||Date of commencement|18 November 1967|
+|24.|**Act 23 of 1969—Income Tax (Amendment) Act 1969**|
+||Date of First Reading|15 October 1969|
+|||(Bill No. 18/69 published on 18 October 1969)|
+||Date of Second and Third Readings|23 December 1969|
+||Date of commencement|1 January 1970|
+|25.|**Act 7 of 1970—Income Tax (Amendment) Act 1970**|
+||Date of First Reading|17 March 1970|
+|||(Bill No. 8/70 published on 18 March 1970)|
+||Date of Second and Third Readings|30 March 1970|
+||Date of commencement|1 January 1970|
+|26.|**G.N. No. S 169/71—Income Tax (Amendment of Fourth Schedule) Order 1971**|
+||Date of commencement|15 July 1970|
+|27.|**Act 48 of 1970—Statute Law Revision Act 1970**|
+||Date of First Reading|2 September 1970|
+|||(Bill No. 36/70 published on 7 September 1970)|
+||Date of Second and Third Readings|4 November 1970|
+||Date of commencement|11 December 1970|
+|28.|**1970 Revised Edition—Income Tax Act (Chapter 141)**|
+||Date of operation|1 March 1971|
+|29.|**G.N. No. S 84/72—Income Tax (Amendment of Fourth Schedule) Order 1972**|
+||Date of commencement|26 July 1971|
+|30.|**G.N. No. S 85/72—Income Tax (Amendment of Fourth Schedule) (No. 2) Order 1972**|
+||Date of commencement|15 October 1971|
+|31.|**G.N. No. S 168/72—Income Tax (Amendment of Fourth Schedule) (No. 3) Order 1972**|
+||Date of commencement|15 April 1972|
+|32.|**G.N. No. S 137/84—Income Tax Act (Amendment of First Schedule) Order 1984**|
+||Date of commencement|2 July 1972|
+|33.|**G.N. No. S 239/72—Income Tax (Amendment of Fourth Schedule) (No. 4) Order 1972**|
+||Date of commencement|15 July 1972|
+|34.|**G.N. No. S 176/73—Income Tax (Amendment of Fourth Schedule) (No. 2) Order 1973**|
+||Date of commencement|15 March 1973|
+|35.|**Act 26 of 1973—Income Tax (Amendment) Act 1973**|
+||Date of First Reading|11 July 1973|
+|||(Bill No. 42/73 published on 14 July 1973)|
+||Date of Second and Third Readings|26 July 1973|
+||Date of commencement|10 August 1973|
+|36.|**G.N. No. S 340/73—Income Tax (Amendment of Fourth Schedule) (No. 3) Order 1973**|
+||Date of commencement|27 August 1973|
+|37.|**G.N. No. S 38/77—Income Tax (Amendment of First Schedule) Order 1977**|
+||Date of commencement|1 October 1973 (paragraph 2(a))|
+|||1 April 1976 (paragraph 2(b))|
+|38.|**G.N. No. S 22/73—Income Tax (Amendment of Fourth Schedule) Order 1973**|
+||Date of commencement|15 November 1973|
+|39.|**G.N. No. S 238/74—Income Tax (Amendment of Fourth Schedule) Order 1974**|
+||Date of commencement|1 July 1974|
+|40.|**Act 4 of 1975—Income Tax (Amendment) Act 1975**|
+||Date of First Reading|25 February 1975|
+|||(Bill No. 8/75 published on 28 February 1975)|
+||Date of Second and Third Readings|27 March 1975|
+||Date of commencement|4 April 1975|
+|41.|**G.N. No. S 171/75—Income Tax (Amendment of Fourth Schedule) Order 1975**|
+||Date of commencement|12 June 1975|
+|42.|**G.N. No. S 238/75—Income Tax (Amendment of Fourth Schedule) (No. 2) Order 1975**|
+||Date of commencement|15 August 1975|
+|43.|**G.N. No. S 4/76—Income Tax (Amendment of Fourth Schedule) Order 1976**|
+||Date of commencement|20 November 1975|
+|44.|**Act 37 of 1975—Income Tax (Amendment No. 2) Act 1975**|
+||Date of First Reading|11 November 1975|
+|||(Bill No. 52/75 published on 11 November 1975)|
+||Date of Second and Third Readings|20 November 1975|
+||Date of commencement|2 December 1975 (except section 3(a))|
+|||1 April 1975 (section 3(a))|
+|45.|**G.N. No. S 101/76—Income Tax (Amendment of Fourth Schedule) (No. 2) Order 1976**|
+||Date of commencement|13 April 1976|
+|46.|**G.N. No. S 159/76—Income Tax (Amendment of Fourth Schedule) (No. 3) Order 1976**|
+||Date of commencement|7 July 1976|
+|47.|**G.N. No. S 148/76—Income Tax (Amendment of First Schedule) Order 1976**|
+||Date of commencement|23 July 1976|
+|48.|**First Reprint (1976)—Income Tax Act (Chapter 141)**|
+||Date of operation|1 September 1976|
+|49.|**G.N. No. S 222/76—Income Tax (Amendment of Fourth Schedule) (No. 4) Order 1976**|
+||Date of commencement|15 October 1976|
+|50.|**G.N. No. S 87/77—Income Tax (Amendment of Fourth Schedule) Order 1977**|
+||Date of commencement|15 March 1977|
+|51.|**G.N. No. S 257/77—Income Tax (Amendment of Fourth Schedule) (No. 2) Order 1977**|
+||Date of commencement|21 April 1977|
+|52.|**Act 5 of 1977—Income Tax (Amendment) Act 1977**|
+||Date of First Reading|27 May 1977|
+|||(Bill No. 8/77 published on 2 June 1977)|
+||Date of Second and Third Readings|29 June 1977|
+||Date of commencement|7 July 1977|
+|53.|**G.N. No. S 258/77—Income Tax (Amendment of Fourth Schedule) (No. 3) Order 1977**|
+||Date of commencement|14 September 1977|
+|54.|**G.N. No. S 113/78—Income Tax (Amendment of Fourth Schedule) Order 1978**|
+||Date of commencement|17 April 1978|
+|55.|**G.N. No. S 185/78—Income Tax (Amendment of Fourth Schedule) (No. 2) Order 1978**|
+||Date of commencement|24 July 1978|
+|56.|**G.N. No. S 275/78—Income Tax (Amendment of Fourth Schedule) (No. 3) Order 1978**|
+||Date of commencement|13 November 1978|
+|57.|**G.N. No. S 63/79—Income Tax (Amendment of Fourth Schedule) Order 1979**|
+||Date of commencement|26 February 1979|
+|58.|**G.N. No. S 158/82—Income Tax Act (Amendment of First Schedule) (No. 2) Order 1982**|
+||Date of commencement|2 March 1979 (paragraph 2(a))|
+|||1 May 1982 (paragraph 2(b))|
+|59.|**Act 7 of 1979—Income Tax (Amendment) Act 1979**|
+||Date of First Reading|5 March 1979|
+|||(Bill No. 9/79 published on 12 March 1979)|
+||Date of Second and Third Readings|30 March 1979|
+||Date of commencement|16 April 1979|
+|60.|**G.N. No. S 148/79—Income Tax (Amendment of Fourth Schedule) (No. 2) Order 1979**|
+||Date of commencement|11 June 1979|
+|61.|**G.N. No. S 234/79—Income Tax (Amendment of Fourth Schedule) (No. 3) Order 1979**|
+||Date of commencement|16 October 1979|
+|62.|**G.N. No. S 217/80—Income Tax Act (Amendment of First Schedule) Order 1980**|
+||Date of commencement|1 February 1980|
+|63.|**G.N. No. S 103/80—Income Tax (Amendment of Fourth Schedule) Order 1980**|
+||Date of commencement|3 March 1980|
+|64.|**Act 9 of 1980—Income Tax (Amendment) Act 1980**|
+||Date of First Reading|26 February 1980|
+|||(Bill No. 6/80 published on 29 February 1980)|
+||Date of Second and Third Readings|17 March 1980|
+||Date of commencement|3 April 1980|
+|65.|**G.N. No. S 251/80—Income Tax Act (Amendment of Fourth Schedule) (No. 2) Order 1980**|
+||Date of commencement|21 July 1980|
+|66.|**G.N. No. S 336/80—Income Tax Act (Amendment of Fourth Schedule) (No. 3) Order 1980**|
+||Date of commencement|24 November 1980|
+|67.|**Act 28 of 1980—Income Tax (Amendment No. 2) Act 1980**|
+||Date of First Reading|31 October 1980|
+|||(Bill No. 25/80 published on 7 November 1980)|
+||Date of Second and Third Readings|28 November 1980|
+||Date of commencement|4 December 1980|
+|68.|**G.N. No. S 138/84—Income Tax Act (Amendment of First Schedule) (No. 2) Order 1984**|
+||Date of commencement|15 August 1981|
+|69.|**G.N. No. S 213/84—Income Tax Act (Amendment of First Schedule) Order 1984 (Corrigendum)**|
+||Date of commencement|15 August 1981|
+|70.|**G.N. No. S 183/83—Income Tax Act (Amendment of First Schedule) Order 1983**|
+||Date of commencement|2 October 1981|
+|71.|**G.N. No. S 381/90—Income Tax Act (Amendment of First Schedule) Order 1990**|
+||Date of commencement|1 November 1981|
+|72.|**G.N. No. S 41/82—Income Tax Act (Amendment of Fourth Schedule) Order 1982**|
+||Date of commencement|19 February 1982|
+|73.|**Act 1 of 1982—Income Tax (Amendment) Act 1982**|
+||Date of First Reading|22 December 1981|
+|||(Bill No. 30/81 published on 30 December 1981)|
+||Date of Second and Third Readings|3 March 1982|
+||Date of commencement|19 March 1982|
+|74.|**G.N. No. S 129/82—Income Tax Act (Amendment of Fourth Schedule) Order 1982**|
+||Date of commencement|12 April 1982|
+|75.|**G.N. No. S 379/89—Income Tax Act (Amendment of First Schedule) Order 1989**|
+||Date of commencement|1 January 1983|
+|76.|**Act 5 of 1983—Income Tax (Amendment) Act 1983**|
+||Date of First Reading|4 March 1983|
+|||(Bill No. 1/83 published on 9 March 1983)|
+||Date of Second and Third Readings|24 March 1983|
+||Date of commencement|8 April 1983|
+|77.|**G.N. No. S 168/83—Income Tax Act (Amendment of Fourth Schedule) Order 1983**|
+||Date of commencement|23 May 1983|
+|78.|**G.N. No. S 217/84—Income Tax Act (Amendment of First Schedule) (No. 3) Order 1984**|
+||Date of commencement|14 October 1983|
+|79.|**Act 15 of 1983—Income Tax (Amendment No. 2) Act 1983**|
+||Date of First Reading|30 August 1983|
+|||(Bill No. 10/83 published on 7 September 1983)|
+||Date of Second and Third Readings|20 December 1983|
+||Date of commencement|13 January 1984|
+|80.|**Act 13 of 1984—Income Tax (Amendment) Act 1984**|
+||Date of First Reading|29 June 1984|
+|||(Bill No. 20/84 published on 9 July 1984)|
+||Date of Second and Third Readings|26 July 1984|
+||Date of commencement|10 August 1984|
+|81.|**Second Reprint (1984)—Income Tax Act (Chapter 141)**|
+||Date of operation|1 November 1984|
+|82.|**G.N. No. S 26/85—Income Tax Act (Amendment of First Schedule) Order 1985**|
+||Date of commencement|1 September 1984|
+|83.|**Act 7 of 1985—Income Tax (Amendment) Act 1985**|
+||Date of First Reading|23 July 1985|
+|||(Bill No. 10/85 published on 26 July 1985)|
+||Date of Second and Third Readings|30 August 1985|
+||Date of commencement|27 September 1985|
+|84.|**Act 2 of 1986—Statute Law Revision Act 1986**|
+||Date of First Reading|31 October 1985|
+|||(Bill No. 12/85 published on 8 November 1985)|
+||Date of Second and Third Readings|10 January 1986|
+||Date of commencement|31 January 1986|
+|85.|**Act 31 of 1986—Income Tax (Amendment) Act 1986**|
+||Date of First Reading|27 October 1986|
+|||(Bill No. 25/86 published on 31 October 1986)|
+||Date of Second and Third Readings|9 December 1986|
+||Date of commencement|19 December 1986 (except section 14(a))|
+|||1 January 1986 (section 14(a))|
+|86.|**1985 Revised Edition—Income Tax Act (Chapter 134)**|
+||Date of operation|30 March 1987|
+|87.|**G.N. No. S 380/89—Income Tax Act (Amendment of First Schedule) (No. 2) Order 1989**|
+||Date of commencement|14 August 1987|
+|88.|**G.N. No. S 79/88—Income Tax Act (Amendment of First Schedule) Order 1988**|
+||Date of commencement|9 November 1987|
+|89.|**Act 1 of 1988—Income Tax (Amendment) Act 1988**|
+||Date of First Reading|9 November 1987|
+|||(Bill No. 22/87 published on 11 November 1987)|
+||Date of Second and Third Readings|13 January 1988|
+||Date of commencement|29 January 1988 and other dates (see section 1 of the Act)|
+|90.|**Act 3 of 1989—Income Tax (Amendment) Act 1989**|
+||Date of First Reading|16 January 1989|
+|||(Bill No. 1/89 published on 16 January 1989)|
+||Date of Second and Third Readings|26 January 1989|
+||Date of commencement|17 February 1989|
+|91.|**Act 1 of 1990—Income Tax (Amendment) Act 1990**|
+||Date of First Reading|30 November 1989|
+|||(Bill No. 42/89 published on 30 November 1989)|
+||Date of Second and Third Readings|15 January 1990|
+||Date of commencement|9 February 1990|
+|||15 January 1989 (Section 16(a) and c)|
+|||17 February 1989 (Section 2 and 3(b))|
+|92.|**G.N. No. S 562/91—Income Tax Act (Amendment of First Schedule) (No. 2) Order 1991**|
+||Date of commencement|11 February 1989|
+|93.|**G.N. No. S 372/97—Income Tax Act (Amendment of First Schedule) Order 1997**|
+||Date of commencement|11 February 1989|
+|94.|**G.N. No. S 382/90—Income Tax Act (Amendment of First Schedule) (No. 2) Order 1990**|
+||Date of commencement|14 May 1989|
+|95.|**G.N. No. S 383/90—Income Tax Act (Amendment of First Schedule) (No. 3) Order 1990**|
+||Date of commencement|1 July 1990|
+|96.|**Act 23 of 1990—Income Tax (Amendment No. 2) Act 1990**|
+||Date of First Reading|4 October 1990|
+|||(Bill No. 26/90 published on 5 October 1990)|
+||Date of Second and Third Readings|9 November 1990|
+||Date of commencement|30 November 1990|
+|97.|**G.N. No. S 317/91—Income Tax Act (Amendment of First Schedule) Order 1991**|
+||Date of commencement|17 January 1991|
+|98.|**Act 20 of 1991—Income Tax (Amendment) Act 1991**|
+||Date of First Reading|7 May 1991|
+|||(Bill No. 16/91 published on 8 May 1991)|
+||Date of Second and Third Readings|28 June 1991|
+||Date of commencement|19 July 1991 (except section 17(a) and (c))|
+|||1 January 1990 (section 17(a) and (c))|
+|99.|**G.N. No. S 210/92—Income Tax Act (Amendment of First Schedule) Order 1992**|
+||Date of commencement|17 August 1991|
+|100.|**1992 Revised Edition—Income Tax Act (Chapter 134)**|
+||Date of operation|9 March 1992|
+|101.|**Act 2 of 1992—Income Tax (Amendment) Act 1992**|
+||Date of First Reading|14 January 1992|
+|||(Bill No. 7/92 published on 15 January 1992)|
+||Date of Second and Third Readings|27 February 1992|
+||Date of commencement|13 March 1992 (except sections 13, 14, 16 and 18)|
+|||1 January 1993 (sections 13, 14, 16 and 18)|
+|102.|**Act 26 of 1993—Income Tax (Amendment) Act 1993**|
+||Date of First Reading|30 July 1993|
+|||(Bill No. 23/93 published on 31 July 1993)|
+||Date of Second and Third Readings|30 August 1993|
+||Date of commencement|13 March 1992|
+|||1 January 1993 (Sections 3(b), (d), 4, 5(b), 11(a)(b), 28(a))|
+|103.|**G.N. No. S 412/92—Income Tax Act (Amendment of First Schedule) (No. 2) Order 1992**|
+||Date of commencement|1 September 1992|
+|104.|**Act 28 of 1992—Income Tax (Amendment No. 2) Act 1992**|
+||Date of First Reading|31 July 1992|
+|||(Bill No. 32/92 published on 1 August 1992)|
+||Date of Second and Third Readings|14 September 1992|
+||Date of commencement|2 October 1992|
+|||13 March 1992 (Section 4 and 5)|
+|||1 January 1992 (Section 16(a) and (d))|
+|||1 January 1993 (Section 16(b) and 19|
+|105.|**Act 31 of 1993—Goods and Services Tax Act 1993**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 February 1993|
+|||(Bill No. 14/93 published on 27 February 1993)|
+||Date of Second Reading|19 March 1993|
+||Date Committed to Select Committee|19 March 1993|
+||Date of Presentation of Select Committee Report|7 September 1993 (Parl 4 of 1993)|
+||Date of commencement|26 November 1993 (paragraph (7) of the Fifth Schedule — amendment of Income Tax Act)|
+|106.|**1994 Revised Edition—Income Tax Act (Chapter 134)**|
+||Date of operation|15 March 1994|
+|107.|**Act 11 of 1994—Income Tax (Amendment) Act 1994**|
+||Date of First Reading|25 July 1994|
+|||(Bill No. 17/94 published on 29 July 1994)|
+||Date of Second and Third Readings|25 August 1994|
+||Date of commencement|16 September 1994|
+|||1 January 1993 (Section 9)|
+|||1 January 1994 (Section 2, 19)|
+|||1 March 1994 (Section 5)|
+|||1 January 1995 (Section 18, 22)|
+|108.|**G.N. No. S 259/95—Income Tax Act (Amendment of First Schedule) Order 1995**|
+||Date of commencement|1 October 1994|
+|109.|**Act 19 of 1994—Enlistment (Amendment) Act 1994**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|25 July 1994|
+|||(Bill No. 21/94 published on 29 July 1994)|
+||Date of Second and Third Readings|31 October 1994|
+||Date of commencement|1 December 1994|
+|110.|**Act 28 of 1994—National Registration (Amendment) Act 1994**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|31 October 1994|
+|||(Bill No. 30/94 published on 1 November 1994)|
+||Date of Second and Third Readings|5 December 1994|
+||Date of commencement|1 March 1995|
+|111.|**Act 32 of 1995—Income Tax (Amendment) Act 1995**|
+||Date of First Reading|7 August 1995|
+|||(Bill No. 28/95 published on 8 August 1995)|
+||Date of Second and Third Readings|27 September 1995|
+||Date of commencement|1 March 1995 (sections 7(c), 8 and 25)|
+|||13 October 1995 (except sections 7(c), 8 and 25)|
+|112.|**Act 29 of 1995—Rapid Transit Systems Act 1995**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|7 July 1995|
+|||(Bill No. 25/95 published on 8 July 1995)|
+||Date of Second and Third Readings|7 August 1995|
+||Date of commencement|1 September 1995|
+|113.|**G.N. No. S 33/96—Income Tax Act (Amendment of First Schedule) Order 1996**|
+||Date of commencement|1 September 1995|
+|114.|**G.N. No. S 67/96—Income Tax Act (Amendment of First Schedule) (No. 2) Order 1996**|
+||Date of commencement|1 February 1996|
+|115.|**Act 7 of 1996—Maritime and Port Authority of Singapore Act 1996**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|5 December 1995|
+|||(Bill No. 46/95 published on 6 December 1995)|
+||Date of Second and Third Readings|18 January 1996|
+||Date of commencement|2 February 1996|
+|116.|**Act 1 of 1996—Singapore Productivity and Standards Board Act 1995**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|1 November 1995|
+|||(Bill No. 39/95 published on 2 November 1995)|
+||Date of Second and Third Readings|5 December 1995|
+||Date of commencement|1 April 1996|
+|117.|**1996 Revised Edition—Income Tax Act (Chapter 134)**|
+||Date of operation|30 April 1996|
+|118.|**G.N. No. S 302/96—Income Tax Act (Amendment of First Schedule) (No. 3) Order 1996**|
+||Date of commencement|1 July 1996|
+|119.|**Act 23 of 1996—Income Tax (Amendment) Act 1996**|
+||Date of First Reading|21 May 1996|
+|||(Bill No. 17/96)|
+||Date of Second and Third Readings|12 July 1996|
+||Date of commencement|2 August 1996|
+|120.|**Act 28 of 1996—Income Tax (Amendment No. 2) Act 1996**|
+||Date of First Reading|12 July 1996|
+|||(Bill No. 23/96 published on 13 July 1996)|
+||Date of Second and Third Readings|27 August 1996|
+||Date of commencement|6 September 1996|
+|121.|**G.N. No. S 372/98—Income Tax Act (Amendment of First Schedule) Order 1998**|
+||Date of commencement|1 January 1997|
+|122.|**Act 31 of 1998—Income Tax Act 1998**|
+||Date of First Reading|29 June 1998|
+|||(Bill No. 29/98 published on 30 June 1998)|
+||Date of Second and Third Readings|31 July 1998|
+||Date of commencement|1 January 1997 (Section 13(a), (e), (f)|
+|123.|**G.N. No. S 485/99—Income Tax Act (Amendment of First Schedule) (No. 2) Order 1999**|
+||Date of commencement|30 September 1997|
+|124.|**Act 1 of 1998—Income Tax (Amendment) Act 1998**|
+||Date of First Reading|19 November 1997|
+|||(Bill No. 16/97 published on 20 November 1997)|
+||Date of Second and Third Readings|14 January 1998|
+||Date of commencement|23 January 1998|
+|125.|**Act 31 of 1998—Income Tax (Amendment) Act 1998**|
+||Date of First Reading|29 June 1998|
+|||(Bill No. 29/98)|
+||Date of Second and Third Readings|31 July 1998|
+||Date of commencement|27 February 1998 (Section 7)|
+|126.|**Act 32 of 1999—Income Tax (Amendment) Act 1999**|
+||Date of First Reading|6 July 1999|
+|||(Bill No. 24/99 published on 7 July 1999)|
+||Date of Second and Third Readings|17 August 1999|
+||Date of commencement|28 February 1998 (Section 19(c))|
+|127.|**Act 31 of 1998—Income Tax (Amendment) Act 1998**|
+||Date of First Reading|29 June 1998|
+|||(Bill No. 29/98)|
+||Date of Second and Third Readings|31 July 1998|
+||Date of commencement|14 August 1998|
+|128.|**Act 37 of 1998—Post Office Savings Bank of Singapore (Transfer of Undertakings and Dissolution) Act 1998**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|31 July 1998|
+|||(Bill No. 34/98 published on 1 August 1998)|
+||Date of Second and Third Readings|12 October 1998|
+||Date of commencement|16 November 1998 (Transfer Date)|
+|129.|**Act 32 of 1999—Income Tax (Amendment) Act 1999**|
+||Date of First Reading|6 July 1999|
+|||(Bill No. 24/99 published on 7 July 1999)|
+||Date of Second and Third Readings|17 August 1999|
+||Date of commencement|18 November 1998 (Section 4(b))|
+|130.|**Act 24 of 2000—Income Tax (Amendment) Act 2000**|
+||Date of First Reading|30 June 2000|
+|||(Bill No. 20/2000 published on 1 July 2000)|
+||Date of Second and Third Readings|25 August 2000|
+||Date of commencement|28 February 1999 (Section 8)|
+|131.|**G.N. No. S 267/99—Income Tax Act (Amendment of First Schedule) Order 1999**|
+||Date of commencement|21 May 1999|
+|132.|**Act 32 of 1999—Income Tax (Amendment) Act 1999**|
+||Date of First Reading|6 July 1999|
+|||(Bill No. 24/99 published on 7 July 1999)|
+||Date of Second and Third Readings|17 August 1999|
+||Date of commencement|31 August 1999|
+|133.|**Act 34 of 2005—Income Tax (Amendment) Act 2005**|
+||Date of First Reading|19 September 2005|
+|||(Bill No. 27/2005 published on 20 September 2005)|
+||Date of Second and Third Readings|18 October 2005|
+||Date of commencement|31 August 1999 (Section 10(a))|
+|134.|**Act 32 of 1999—Income Tax (Amendment) Act 1999**|
+||Date of First Reading|6 July 1999|
+|||(Bill No. 24/99 published on 7 July 1999)|
+||Date of Second and Third Readings|17 August 1999|
+||Date of commencement|3 September 1999|
+|135.|**Act 41 of 1999—Info-communications Development Authority of Singapore Act 1999**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|11 October 1999|
+|||(Bill No. 36/99 published on 12 October 1999)|
+||Date of Second and Third Readings|23 November 1999|
+||Date of commencement|1 December 1999|
+|136.|**Act 24 of 2000—Income Tax (Amendment) Act 2000**|
+||Date of First Reading|30 June 2000|
+|||(Bill No. 20/2000 published on 1 July 2000)|
+||Date of Second and Third Readings|25 August 2000|
+||Date of commencement|1 December 1999 (Section 13)|
+|137.|**1999 Revised Edition—Income Tax Act (Chapter 134)**|
 ||Date of operation|30 December 1999|
-|71.|**Act 9 of 2000—Defence Science and Technology Agency Act 2000**|
-||(Consequential amendments made by)||
-||Date of First Reading|17.1.2000|
-|||(Bill No. 1/2000 published on 18.1.2000)|
-||Date of Second and Third Readings|21.2.2000|
-||Date of commencement|15.3.2000|
-|72.|**Act 24 of 2000—Income Tax (Amendment) Act 2000**|
-||Date of First Reading|30.6.2000|
-|||(Bill No. 20/2000 published on 1.7.2000)|
-||Date of Second and Third Readings|25.8.2000|
-||Date of commencement|7.9.2000 and other dates|
-|73.|**Act 3 of 2001—Intellectual Property Office of Singapore Act 2001**|
-||(Consequential amendments made by)||
-||Date of First Reading|12.1.2001|
-|||(Bill No. 1/2001 published on 13.1.2001)|
-||Date of Second and Third Readings|22.2.2001|
-||Date of commencement|1.4.2001|
-|74.|**Act 17 of 2001—Singapore Land Authority Act 2001**|
-||(Consequential amendments made by)||
-||Date of First Reading|5.3.2001|
-|||(Bill No. 17/2001 published on 7.3.2001)|
-||Date of Second and Third Readings|19.4.2001|
-||Date of commencement|1.6.2001|
-|75.|**Act 24 of 2001—Income Tax (Amendment) Act 2001**|
-||Date of First Reading|11.7.2001|
-|||(Bill No. 25/2001 published on 12.7.2001)|
-||Date of Second and Third Readings|25.7.2001|
-||Date of commencement|10.8.2001 and other dates|
-|76.|**2001 Revised Edition—Income Tax Act**|
+|138.|**Act 24 of 2000—Income Tax (Amendment) Act 2000**|
+||Date of First Reading|30 June 2000|
+|||(Bill No. 20/2000 published on 1 July 2000)|
+||Date of Second and Third Readings|25 August 2000|
+||Date of commencement|30 December 1999 (Section 6)|
+|139.|**Act 24 of 2000—Income Tax (Amendment) Act 2000**|
+||Date of First Reading|30 June 2000|
+|||(Bill No. 20/2000 published on 1 July 2000)|
+||Date of Second and Third Readings|25 August 2000|
+||Date of commencement|18 January 2000 (Section 4)|
+|140.|**Act 9 of 2000—Defence Science and Technology Agency Act 2000**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|17 January 2000|
+|||(Bill No. 1/2000 published on 18 January 2000)|
+||Date of Second and Third Readings|21 February 2000|
+||Date of commencement|15 March 2000|
+|141.|**Act 24 of 2000—Income Tax (Amendment) Act 2000**|
+||Date of First Reading|30 June 2000|
+|||(Bill No. 20/2000 published on 1 July 2000)|
+||Date of Second and Third Readings|25 August 2000|
+||Date of commencement|7 September 2000|
+|142.|**Act 24 of 2001—Income Tax (Amendment) Act 2001**|
+||Date of First Reading|11 July 2001|
+|||(Bill No. 25/2001 published on 12 July 2001)|
+||Date of Second and Third Readings|25 July 2001|
+||Date of commencement|1 October 2000 (Section 8(b))|
+|143.|**Act 24 of 2001—Income Tax (Amendment) Act 2001**|
+||Date of First Reading|11 July 2001|
+|||(Bill No. 25/2001 published on 12 July 2001)|
+||Date of Second and Third Readings|25 July 2001|
+||Date of commencement|31 January 2001|
+|144.|**Act 3 of 2001—Intellectual Property Office of Singapore Act 2001**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|12 January 2001|
+|||(Bill No. 1/2001 published on 13 January 2001)|
+||Date of Second and Third Readings|22 February 2001|
+||Date of commencement|1 April 2001|
+|145.|**Act 17 of 2001—Singapore Land Authority Act 2001**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|5 March 2001|
+|||(Bill No. 17/2001 published on 7 March 2001)|
+||Date of Second and Third Readings|19 April 2001|
+||Date of commencement|1 June 2001|
+|146.|**Act 37 of 2002—Income Tax (Amendment) Act 2002**|
+||Date of First Reading|31 October 2002|
+|||(Bill No. 39/2002 published on 1 November 2002)|
+||Date of Second and Third Readings|25 November 2002|
+||Date of commencement|1 June 2001 (Sections 32(c), 40(d), 44, 62(c))|
+|147.|**Act 24 of 2001—Income Tax (Amendment) Act 2001**|
+||Date of First Reading|11 July 2001|
+|||(Bill No. 25/2001 published on 12 July 2001)|
+||Date of Second and Third Readings|25 July 2001|
+||Date of commencement|10 August 2001|
+|148.|**Act 37 of 2002—Income Tax (Amendment) Act 2002**|
+||Date of First Reading|31 October 2002|
+|||(Bill No. 39/2002 published on 1 November 2002)|
+||Date of Second and Third Readings|25 November 2002|
+||Date of commencement|13 October 2001 (Sections 5, 6, 49)|
+|149.|**Act 37 of 2002—Income Tax (Amendment) Act 2002**|
+||Date of First Reading|31 October 2002|
+|||(Bill No. 39/2002 published on 1 November 2002)|
+||Date of Second and Third Readings|25 November 2002|
+||Date of commencement|23 November 2001 (Sections 3, 7, 26(b))|
+|150.|**2001 Revised Edition—Income Tax Act (Chapter 134)**|
 ||Date of operation|31 December 2001|
-|77.|**Act 42 of 2001—Securities and Futures Act 2001**|
+|151.|**Act 37 of 2002—Income Tax (Amendment) Act 2002**|
+||Date of First Reading|31 October 2002|
+|||(Bill No. 39/2002 published on 1 November 2002)|
+||Date of Second and Third Readings|25 November 2002|
+||Date of commencement|1 January 2002|
+|152.|**Act 37 of 2002—Income Tax (Amendment) Act 2002**|
+||Date of First Reading|31 October 2002|
+|||(Bill No. 39/2002 published on 1 November 2002)|
+||Date of Second and Third Readings|25 November 2002|
+||Date of commencement|3 May 2002|
+|153.|**Act 37 of 2002—Income Tax (Amendment) Act 2002**|
+||Date of First Reading|31 October 2002|
+|||(Bill No. 39/2002 published on 1 November 2002)|
+||Date of Second and Third Readings|25 November 2002|
+||Date of commencement|2 July 2002|
+|154.|**Act 42 of 2001—Securities and Futures Act 2001**|
+||(Consequential amendments made to Act by)||
 ||Date of First Reading|25 September 2001|
-|||(Bill No. 33/2001)|
+|||(Bill No. 33/2001 published on 26 September 2001)|
 ||Date of Second and Third Readings|5 October 2001|
-||Dates of commencement|Parts I, VIII, IX, X and XV (except sections 314 and 342 (1) and (3)), First Schedule, Second Schedule and items (4) (o) and (q) and (7) (c) of the Fourth Schedule shall come into operation on 1st January 2002.|
-|||Parts XIII and XIV, and items (1) (a), (3) (a), (4) (a) (i), (iii) to (ix), (b), (c), (f), (g), (h), (i), (l), (m), (t) and (u), (7) (b), (12) and (13) of the Fourth Schedule shall come into operation on 1st July 2002.|
-|||Parts II to VII, XI and XII, sections 314 and 342 (1) and (3), Third Schedule and items (1) (b), (2), (3) (b), (4) (a) (ii), (d), (e), (j), (k), (n), (p), (r), (s) and (v), (5), (6) and (7) (a) and (d) and (8) to (11) of the Fourth Schedule shall come into operation on 1st October 2002.|
-|78.|**Act 25 of 2002—Currency (Amendment) Act 2002**|
+||Date of commencement|1 October 2002 (item (9) of the Fourth Schedule — amendment of Income Tax Act)|
+|155.|**Act 25 of 2002—Currency (Amendment) Act 2002**|
+||(Consequential amendments made to Act by)||
 ||Date of First Reading|8 July 2002|
-|||(Bill No. 23/2002)|
+|||(Bill No. 23/2002 published on 9 July 2002)|
 ||Date of Second and Third Readings|23 July 2002|
 ||Date of commencement|1 October 2002|
-|79.|**Act 37 of 2002—Income Tax (Amendment) Act 2002**|
+|156.|**Act 21 of 2003—Income Tax (Amendment) Act 2003**|
+||Date of First Reading|16 October 2003|
+|||(Bill No. 28/2003 published on 17 October 2003)|
+||Date of Second and Third Readings|11 November 2003|
+||Date of commencement|10 December 2002 (Sections 4(a), 5, 6, 8, 15(b), 29)|
+|157.|**Act 7 of 2007—Income Tax (Amendment) Act 2007**|
+||Date of First Reading|8 November 2006|
+|||(Bill No. 19/2006 published on 9 November 2006)|
+||Date of Second and Third Readings|22 January 2007|
+||Date of commencement|10 December 2002 (Section 2(g))|
+|158.|**Act 37 of 2002—Income Tax (Amendment) Act 2002**|
 ||Date of First Reading|31 October 2002|
-|||(Bill No. 39/2002)|
+|||(Bill No. 39/2002 published on 1 November 2002)|
 ||Date of Second and Third Readings|25 November 2002|
-||Date of commencement|13 December 2002|
-|80.|**Act 4 of 2003—Customs (Amendment) Act 2003**|
+||Date of commencement|10 December 2002|
+|159.|**Act 24 of 2000—Income Tax (Amendment) Act 2000**|
+||Date of First Reading|30 June 2000|
+|||(Bill No. 20/2000 published on 1 July 2000)|
+||Date of Second and Third Readings|25 August 2000|
+||Date of commencement|12 December 2002|
+|160.|**Act 21 of 2003—Income Tax (Amendment) Act 2003**|
+||Date of First Reading|16 October 2003|
+|||(Bill No. 28/2003 published on 17 October 2003)|
+||Date of Second and Third Readings|11 November 2003|
+||Date of commencement|1 January 2003 (Sections 10, 42, 43)|
+|161.|**Act 49 of 2004—Income Tax (Amendment) Act 2004**|
+||Date of First Reading|19 October 2004|
+|||(Bill No. 58/2004 published on 20 October 2004)|
+||Date of Second and Third Readings|17 November 2004|
+||Date of commencement|1 January 2003 (Sections 5(a), (c), 2 (e))|
+|162.|**Act 37 of 2002—Income Tax (Amendment) Act 2002**|
+||Date of First Reading|31 October 2002|
+|||(Bill No. 39/2002 published on 1 November 2002)|
+||Date of Second and Third Readings|25 November 2002|
+||Date of commencement|1 January 2003|
+|163.|**Act 21 of 2003—Income Tax (Amendment) Act 2003**|
+||Date of First Reading|16 October 2003|
+|||(Bill No. 28/2003 published on 17 October 2003)|
+||Date of Second and Third Readings|11 November 2003|
+||Date of commencement|28 February 2003 (Section 40)|
+|164.|**Act 4 of 2003—Customs (Amendment) Act 2003**|
+||(Consequential amendments made to Act by)||
 ||Date of First Reading|10 March 2003|
-|||(Bill No. 6/2003)|
+|||(Bill No. 6/2003 published on 11 March 2003)|
 ||Date of Second and Third Readings|21 March 2003|
 ||Date of commencement|1 April 2003|
-|81.|**S 220/2003—Income Tax Act (Amendment Of First Schedule) Order 2003**|
-||Date of operation|7 May 2003|
+|165.|**Act 21 of 2003—Income Tax (Amendment) Act 2003**|
+||Date of First Reading|16 October 2003|
+|||(Bill No. 28/2003 published on 17 October 2003)|
+||Date of Second and Third Readings|11 November 2003|
+||Date of commencement|1 April 2003 (Section 9, 30(c), 31, 35, 44(a), 45|
+|166.|**G.N. No. S 220/2003—Income Tax Act (Amendment of First Schedule) Order 2003**|
+||Date of commencement|7 May 2003|
+|167.|**Act 21 of 2003—Income Tax (Amendment) Act 2003**|
+||Date of First Reading|16 October 2003|
+|||(Bill No. 28/2003 published on 17 October 2003)|
+||Date of Second and Third Readings|11 November 2003|
+||Date of commencement|1 June 2003 (Sections 3(e), (f) and 18)|
+|168.|**Act 21 of 2003—Income Tax (Amendment) Act 2003**|
+||Date of First Reading|16 October 2003|
+|||(Bill No. 28/2003 published on 17 October 2003)|
+||Date of Second and Third Readings|11 November 2003|
+||Date of commencement|1 July 2003 (Section 30)|
+|169.|**Act 49 of 2004—Income Tax (Amendment) Act 2004**|
+||Date of First Reading|19 October 2004|
+|||(Bill No. 58/2004 published on 20 October 2004)|
+||Date of Second and Third Readings|17 November 2004|
+||Date of commencement|1 October 2003 (Section 28(d))|
 ## COMPARATIVE TABLE
 
 Income Tax Act
