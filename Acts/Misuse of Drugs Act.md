@@ -1973,3 +1973,5 @@ This Legislative History is provided for the convenience of users of the Misuse 
 |||(Bill No. 39/89 published on 7 October 1989)|
 ||Date of Second and Third Readings|30 November 1989|
 ||Date of commencement|15 February 1990|
+|17.|**G. N. No. S 564/1991—Misuse of Drugs (Amendment of First Schedule) Order 1991**|
+||Date of commencement|2 January 1992|
