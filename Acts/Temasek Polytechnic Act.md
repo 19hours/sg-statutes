@@ -280,7 +280,7 @@ An Act for the establishment and incorporation of a polytechnic to be known as T
 
 ## THE SCHEDULE
 
-Section 9.
+Section 9
 
 Constitution of Temasek Polytechnic
 
@@ -396,7 +396,9 @@ Powers of Board
 
 (a) to administer and manage the finances, accounts, investments, property, business and all affairs whatsoever of the Polytechnic, and for that purpose to appoint bankers, counsel, solicitors and such officers or agents as it may be expedient to appoint;
 
-(b) to invest the moneys of the Polytechnic, including any unapplied income in investments authorised by the general law for the investment of trust moneys, and to invest such moneys in the purchase of freehold or leasehold property, and to vary any investments by sale and reinvestment or otherwise;
+(b) to invest the moneys of the Polytechnic in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1);
+
+[45/2004 wef 15/12/2004]
 
 (c) to purchase, grant, sell, convey, assign, surrender and yield up, exchange, partition, mortgage, demise, reassign, transfer and accept leases of real and personal property on behalf of the Polytechnic;
 
@@ -604,7 +606,7 @@ Temasek Polytechnic Act
 
 (CHAPTER 323A)
 
-This Legislative History is provided for the convenience of users of the Temasek Polytechnic Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Temasek Polytechnic Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -620,3 +622,9 @@ This Legislative History is provided for the convenience of users of the Temasek
 |||(Bill No. 7/2002 published on 4 May 2002)|
 ||Date of Second and Third Readings|24 May 2002|
 ||Dates of commencement|15 July 2002|
+|4.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 September 2004|
+|||(Bill No. 43/2004 published on 22 September 2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|15 December 2004|
