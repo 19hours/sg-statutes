@@ -4,8 +4,6 @@
 
 **Table of Contents**
 
-[**Long Title**](#Companies-Act)
-
 [**Part I PRELIMINARY**](#Part-I)
 
 - [1 Short title](#Short-title)
@@ -1113,12 +1111,6 @@
 (CHAPTER 50)
 
 (Original Enactment: Act 42 of 1967)
-
-REVISED EDITION 1994
-
-(15th March 1994)
-
-An Act relating to companies.
 
 [29th December 1967]
 
@@ -5762,7 +5754,7 @@ that is published in connection with an offer of shares or debentures, or units 
 
 “sophisticated investor” means —
 
-(a) a person who acquires the shares or debentures, pursuant to the offer, as principal if the aggregate consideration for the acquisition is not less than $200,000 (or its equivalent in foreign currencies) for each transaction whether such amount is paid for in cash, by exchange of shares or other assets; or
+(a) a person who acquires the shares or debentures, or units of shares or debentures, pursuant to the offer, as principal if the aggregate consideration for the acquisition is not less than $200,000 (or its equivalent in foreign currencies) for each transaction whether such amount is paid for in cash, by exchange of shares or other assets; or
 
 (b) a person who acquires the shares or debentures, or units of shares or debentures, pursuant to the offer as principal and —
 
@@ -15947,3 +15939,8 @@ This Legislative History is provided for the convenience of users of the Compani
 ||Date of commencement|22 January 2001|
 |51.|**G. N. No. S 99/2001—Companies Act (Amendment of Fifth Schedule) Notification 2001**|
 ||Date of commencement|22 February 2001|
+|52.|**Act 26 of 2001—Statutes (Miscellaneous Amendments and Repeal) Act 2001**|
+||Date of First Reading|11 July 2001|
+|||(Bill No. 24/2001 published on 12 July 2001)|
+||Date of Second and Third Readings|25 July 2001|
+||Date of commencement|1 September 2001 (section 6)|
