@@ -842,8 +842,6 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 (b) specify any other amount as he thinks fit in respect of any class of persons for the purposes of subsection (6)(b).
 
-[31/2003 wef 01/01/2004]
-
 (7) A member who has attained the age of 60 years or such other age as the Minister may prescribe shall be entitled to withdraw from the minimum sum deposited with an approved bank or in a retirement account and any interest accruing thereon in accordance with any regulations made under this Act.
 
 [25/2008 wef 01/11/2008]
@@ -1500,11 +1498,7 @@ for the repayment to the Board to the account of that member in the Fund from wh
 
 (c) any moneys in any fixed deposit account maintained by the member with a bank.
 
-[31/2003 wef 01/01/2004]
-
 (3) Such precious metals, insurance policies, securities, proceeds, benefits or moneys shall not pass to the Official Assignee on the bankruptcy of such member, and if such member is adjudicated a bankrupt or is declared insolvent by a court, such precious metals, insurance policies, securities, proceeds, benefits or moneys shall be deemed not to form part of the property of the member.
-
-[31/2003 wef 01/01/2004]
 
 (3A) All moneys paid out of the Fund on the death of any member of the Fund shall be deemed to be impressed with a trust in favour of —
 
@@ -1537,8 +1531,6 @@ but shall, without prejudice to the operation of the Estate Duty Act (Cap. 96), 
 (6) The bankruptcy of an employee shall not affect the payment of contributions from the wages of the employee in accordance with the provisions of this Act, but that payment shall continue to be made notwithstanding the provisions of any written law and the portion of wages so paid shall be deemed not to form part of his after-acquired property.
 
 (7) In this section, “insurance policies” includes investment-linked insurance policies.
-
-[31/2003 wef 01/01/2004]
 
 ### Moneys payable on death of member
 
@@ -1617,6 +1609,8 @@ but shall, without prejudice to the operation of the Estate Duty Act (Cap. 96), 
 (2A) Any moneys paid out of the Fund to that member shall be deemed not to form part of his after-acquired property and shall not be liable to be attached, sequestered or levied upon for or in respect of any debt or claim.
 
 (3) Where withdrawals are made by a member who is an undischarged bankrupt under subsection (2), the Board may impose such condition (including condition as to the amounts that may be withdrawn by the undischarged bankrupt) as it may think fit.
+
+(4) [Deleted by Act 31/2003 wef 01/01/2004]
 
 (5) All applications for withdrawals under this section shall be in such form and shall be supported by such evidence as the Board may reasonably require.
 
@@ -4004,8 +3998,6 @@ then the agreed rates of the contribution shall continue to apply in relation to
 
 (3) Where the employer is required to make additional contributions under sub-paragraph (2), he shall be entitled to recover from the employee’s wages, at the rate of recovery for additional wages applicable to the employee, the amount of additional contributions paid by the employer under that sub-paragraph.
 
-[S 657/2003 wef 01/01/2004]
-
 4A\. In computing the amount of ordinary wages for a year or a preceding year for the purposes of paragraphs 2, 3 and 4, the amount of ordinary wages which is in excess of $5,500 for any month shall be disregarded.
 
 5. For the purpose of this Schedule —
@@ -4026,9 +4018,9 @@ then the agreed rates of the contribution shall continue to apply in relation to
 
 (ea) “relevant time” means the end of the current year or the last month of the employee’s employment with that employer, as the case may be;
 
-[S 657/2003 wef 01/01/2004]
-
 (f) “total amount of employee’s wages for the calendar month” means the total amount of the employee’s ordinary wages for the month and additional wages payable to him in that month;
+
+(g) [Deleted by S 657/2003 wef 01/01/2004]
 
 (h) “year” means the period beginning on 1st January and ending on 31st December.
 
@@ -4126,7 +4118,9 @@ then the agreed rates of the contribution shall continue to apply in relation to
 
 (46) Professional Engineers Board.
 
-(47) Public Accountants Board.
+(47) Accounting and Corporate Regulatory Authority.
+
+[3/2004 wef 01/04/2004]
 
 (48) Public Transport Council.
 
@@ -4807,6 +4801,12 @@ This Legislative History is provided for the convenience of users of the Central
 ||Dates of commencement|1 January 2004 (except sections 3, 6 and 10(a))|
 |133.|**G.N. No. S 657/2003—Central Provident Fund Act (Amendment of First Schedule) (No. 2) Notification 2003**|
 ||Date of commencement|1 January 2004|
+|134.|**Act 3 of 2004—Accounting and Corporate Regulatory Authority Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|5 January 2004|
+|||(Bill No. 1/2004 published on 6 January 2004)|
+||Date of Second and Third Readings|6 February 2004|
+||Date of commencement|1 April 2004|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
