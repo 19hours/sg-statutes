@@ -3360,3 +3360,8 @@ This Legislative History is provided for the convenience of users of the Legal P
 |||(Bill No. 31/96 published on 1 October 1996)|
 ||Date of Second and Third Readings|10 October 1996|
 ||Date of commencement|1 September 1996 (section 9)|
+|24.|**Act 40 of 1996—Legal Profession (Amendment) Act 1996**|
+||Date of First Reading|1 October 1996|
+|||(Bill No. 31/96 published on 1 October 1996)|
+||Date of Second and Third Readings|10 October 1996|
+||Date of commencement|1 January 1997 (except section 9)|
