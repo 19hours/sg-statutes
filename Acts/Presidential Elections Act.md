@@ -106,7 +106,7 @@
 
 [**Chapter 3  Election Agent, Election Expenses and Illegal Practices**](#Chapter-3--Election-Agent-Election-Expenses-and-Illegal-Practices)
 
-- [43 Nomination of election agent](#Nomination-of-election-agent)
+- [43 Nomination of election agents](#Nomination-of-election-agents)
 
 - [44 Person convicted of corrupt practice not to be appointed election agent](#Person-convicted-of-corrupt-practice-not-to-be-appointed-election-agent)
 
@@ -251,6 +251,10 @@ PRELIMINARY
 “polling district” means a part of an electoral division subdivided under section 9 of the Parliamentary Elections Act;
 
 “Presidential Elections Committee” means the Presidential Elections Committee established under Article 18 of the Constitution;
+
+“principal election agent” means an election agent of a candidate who has been appointed under section 43(2A) as the principal election agent;
+
+[18/99 wef 14/05/1999]
 
 “register” or “register of electors” means the register of electors for any particular electoral division maintained under the Parliamentary Elections Act;
 
@@ -512,6 +516,10 @@ ELECTIONS
 
 (e) have attached a counterfoil with the same number printed on the face.
 
+(3) The official mark for the authentication of ballot papers shall comprise a pattern, design, watermark or logo approved by the Returning Officer which shall be affixed, stamped, overprinted or marked (by writing or otherwise), or any combination thereof, on the ballot paper in a particular manner approved by the Returning Officer.
+
+[18/99 wef 14/05/1999]
+
 ### Ballot boxes
 
 24\.—(1) Every ballot box shall be so constructed that the ballot papers can be introduced into the box after it has been sealed or locked but cannot be withdrawn from the box unless the seal or lock is broken.
@@ -536,7 +544,7 @@ ELECTIONS
 
 (2) The ballot paper shall be delivered to the voter by the presiding officer or a person acting under his authority.
 
-(3) Immediately before any ballot paper is delivered to a voter, the ballot paper shall be stamped on the back or perforated with the official mark or initialled by the presiding officer; and the number, name and description of the voter, as stated in the copy of the register of electors, shall be called out, and the number of the elector shall be marked on the counterfoil, and a mark shall be placed in the register against the number of the elector to denote that he has received a ballot paper but without showing the particular ballot paper which he has received.
+(3) Immediately before any ballot paper is delivered to a voter, the ballot paper shall , unless it already bears the complete official mark for the authentication of ballot papers, be affixed, stamped or marked (by writing or otherwise) by the presiding officer in the approved manner with that official mark or the remaining part thereof or initialled by the presiding officer; and the number, name and description of the voter, as stated in the copy of the register of electors, shall be called out, and the number of the elector shall be marked on the counterfoil, and a mark shall be placed in the register against the number of the elector to denote that he has received a ballot paper but without showing the particular ballot paper which he has received.
 
 (4) The voter shall, on receiving the ballot paper, forthwith proceed to such place in the station as may be indicated by the presiding officer or by any person acting under that officer’s authority, and shall there secretly mark the paper as near as may be in accordance with the directions given for the guidance of voters under this Act. The voter shall then fold the paper so as to conceal his vote, and shall put the paper so folded up into the ballot box.
 
@@ -620,15 +628,15 @@ ELECTIONS
 
 (b) where more than one counting place is specified under paragraph (a), that the total number of votes given to each candidate at the poll be ascertained at such other time and place (referred to in this Act as the principal counting place) as he may specify.
 
-(2) The Returning Officer shall give notice in writing of his direction under subsection (1) to each candidate or his election agent not less than two clear days before polling day.
+(2) The Returning Officer shall give notice in writing of his direction under subsection (1) to each candidate or his principal election agent not less than two clear days before polling day.
 
 [Act 12/93 wef 16/04/1993]
 
 ### Counting votes
 
-32\.—(1) Each candidate may appoint an agent (referred to in this Act as the counting agent) to attend the counting of the votes and shall give written notice of the name and address of the counting agent so appointed to the Returning Officer.
+32\.—(1) Each candidate or any of his election agents may appoint an agent (referred to in this Act as the counting agent) to attend the counting of the votes and shall give written notice of the name and address of the counting agent so appointed to the Returning Officer.
 
-(2) Each candidate may appoint not more than one counting agent to attend the counting of votes at each counting place specified in the direction made under section 31A(1).
+(2) Each candidate or any of his election agents may appoint not more than one counting agent to attend the counting of votes at each counting place specified in the direction made under section 31A(1).
 
 [Act 12/93 wef 16/04/1993]
 
@@ -682,7 +690,7 @@ ELECTIONS
 
 (a) the Returning Officer and such other officers and staff appointed by him to assist him in adding the votes cast for each candidate at the counting places and ascertaining the total number of votes given to each candidate at the poll; and
 
-(b) the candidates and their election agents,
+(b) the candidates and their principal election agents,
 
 may be present at the principal counting place during the addition of the votes.
 
@@ -712,7 +720,9 @@ may be present at the principal counting place during the addition of the votes.
 
 33\.—(1) The Returning Officer shall reject as invalid the following ballot papers only:
 
-(a) any ballot paper which is not stamped or perforated or initialled with the official mark;
+(a) any ballot paper which does not bear the complete official mark for the authentication of ballot papers or is not initialled by the presiding officer;
+
+[18/99 wef 14/05/1999]
 
 (b) any ballot paper on which votes are given for more than one candidate;
 
@@ -900,15 +910,29 @@ Chapter 3
 
 Election Agent, Election Expenses and Illegal Practices
 
-### Nomination of election agent
+### Nomination of election agents
 
-43\.—(1) On or before nomination day at an election, a person shall be named in writing by or on behalf of each candidate as his election agent for that election.
+43\.—(1) On or before nomination day at an election, not more than 20 persons shall be named in writing by or on behalf of each candidate as his election agent for that election.
 
 (2) A candidate may name himself as election agent, and thereupon shall, so far as circumstances admit, be subject to the provisions of this Act, both as a candidate and as an election agent.
 
-(3) On or before nomination day, the name and address of the election agent of each candidate shall be declared in writing by the candidate or some other person on his behalf to the Returning Officer, and the Returning Officer shall forthwith, by affixing a notice in a conspicuous place outside the office of the Returning Officer, give public notice of the name and address of every election agent so declared.
+(2A) On or before nomination day at an election, not more than one principal election agent for that election shall be appointed by the candidate from among his election agents for that election.
 
-(4) Not more than one election agent shall be appointed for each candidate but the appointment, whether the election agent appointed be any of the candidates or not, may be revoked and in the event of such revocation or of his death, whether the event is before, during or after the election, another election agent shall then forthwith be appointed, and his name and address declared in writing to the Returning Officer, who shall forthwith give public notice of the same in accordance with subsection (3).
+[18/99 wef 14/05/1999]
+
+(3) On or before nomination day, the names and addresses of the principal election agent and every election agent of each candidate shall be declared in writing by the candidate or some other person on his behalf to the Returning Officer, and the Returning Officer shall forthwith, by affixing a notice in a conspicuous place outside the office of the Returning Officer, give public notice of the names and addresses of the principal election agent and every election agent so declared.
+
+(4) The appointment of a principal election agent or election agent, whether the person so appointed be any of the candidates or not, may be revoked.
+
+[18/99 wef 14/05/1999]
+
+(5) In the event of such revocation or of the death of a principal election agent or election agent, as the case may be, whether the event is before, during or after the election, another principal election agent shall or another election agent may then forthwith be appointed.
+
+[18/99 wef 14/05/1999]
+
+(6) The name and address of the other principal election agent or election agent appointed under subsection (5) shall be declared in writing to the Returning Officer, who shall forthwith give public notice of the name and address in accordance with subsection (3).
+
+[18/99 wef 14/05/1999]
 
 ### Person convicted of corrupt practice not to be appointed election agent
 
@@ -918,15 +942,25 @@ Election Agent, Election Expenses and Illegal Practices
 
 ### Making of contracts through election agent
 
-45\.—(1) The election agent of a candidate shall appoint every polling agent, clerk and messenger employed for payment on behalf of the candidate at an election, and hire every committee-room hired on behalf of the candidate, and shall inform the presiding officer at each polling station in writing of the name of the polling agent or agents appointed to act at that polling station before the person is admitted to the polling station.
+45\.—(1) Every polling agent, clerk and messenger employed for payment on behalf of a candidate at an election shall be appointed by his principal election agent or any of his election agents.
 
-(2) A contract whereby any expenses are incurred on account of or in respect of the conduct or management of an election shall not be enforceable against a candidate at the election unless made by the candidate or his election agent.
+[18/99 wef 14/05/1999]
+
+(1A) Every committee-room hired on behalf of a candidate shall be hired by his principal election agent or any of his election agents.
+
+[18/99 wef 14/05/1999]
+
+(1B) The principal election agent or election agent, as the case may be, shall inform the presiding officer at each polling station in writing of the name of the polling agent or agents he has appointed under subsection (1) to act at that polling station before the person is admitted to the polling station.
+
+[18/99 wef 14/05/1999]
+
+(2) A contract whereby any expenses are incurred on account of or in respect of the conduct or management of an election shall not be enforceable against a candidate at the election unless made by the candidate or any of his election agents.
 
 (3) Inability under this section to enforce a contract against a candidate shall not relieve the candidate from the consequences of any corrupt or illegal practice committed by his agent.
 
 ### Payment of expenses through election agent
 
-46\.—(1) Except as permitted by or in pursuance of this Act, no payment and no advance or deposit shall be made by a candidate at an election, or by any agent on behalf of the candidate, or by any other person at any time, whether before, during, or after the election, in respect of any expenses incurred on account of or in respect of the conduct or management of the election otherwise than by or through the election agent of the candidate; and all money provided by any person other than the candidate for any expenses incurred on account of or in respect of the conduct or management of the election, whether as gift, loan, advance or deposit, shall be paid to the candidate or his election agent and not otherwise.
+46\.—(1) Except as permitted by or in pursuance of this Act, no payment and no advance or deposit shall be made by a candidate at an election, or by any agent on behalf of the candidate, or by any other person at any time, whether before, during, or after the election, in respect of any expenses incurred on account of or in respect of the conduct or management of the election otherwise than by or through any election agent of the candidate; and all money provided by any person other than the candidate for any expenses incurred on account of or in respect of the conduct or management of the election, whether as gift, loan, advance or deposit, shall be paid to the candidate or any of his election agents and not otherwise.
 
 (2) Subsection (1) shall not apply to any payment by the Returning Officer or to any sum disbursed by any person out of his own money for any small expense legally incurred by himself, if the sum is not repaid to him.
 
@@ -936,7 +970,7 @@ Election Agent, Election Expenses and Illegal Practices
 
 47\.—(1) Every payment of $10 or more made by an election agent in respect of any expenses incurred on account of or in respect of the conduct and management of an election shall, except where, from the nature of the case, such as travel by rail or postage, a receipt is not obtainable, be vouched for by a bill stating the particulars and by a receipt.
 
-(2) Every claim against a candidate at an election or his election agent in respect of any expenses incurred on account of or in respect of the conduct or management of the election, which is not sent in to the election agent within the time limited by this Act, shall be barred and shall not be paid; and subject to such exception as may be allowed in pursuance of this Act, an election agent who pays a claim in contravention of this section shall be guilty of an illegal practice.
+(2) Every claim against a candidate at an election or any of his election agents in respect of any expenses incurred on account of or in respect of the conduct or management of the election, which is not sent in to the election agent within the time limited by this Act, shall be barred and shall not be paid; and subject to such exception as may be allowed in pursuance of this Act, an election agent who pays a claim in contravention of this section shall be guilty of an illegal practice.
 
 (3) Except as otherwise provided by this Act, the time limited by this Act for sending in claims shall be 14 days after the date of publication of the result of the election in theGazetteunder section 34.
 
@@ -946,15 +980,15 @@ Election Agent, Election Expenses and Illegal Practices
 
 (6) Where it has been proved to the satisfaction of the Election Judge by a candidate that any payment made by an election agent in contravention of this section was made without the sanction or connivance of the candidate, the election of the candidate shall not be void, nor shall the candidate be subject to any incapacity under this Act by reason only of the payment having been made in contravention of this section.
 
-(7) If the election agent in the case of any claim sent in to him within the time limited by this Act disputes it, or refuses or fails to pay it within the period of 28 days, the claim shall be deemed to be a disputed claim.
+(7) If any election agent in the case of any claim sent in to him within the time limited by this Act disputes it, or refuses or fails to pay it within the period of 28 days, the claim shall be deemed to be a disputed claim.
 
-(8) The claimant may, if he thinks fit, bring an action for a disputed claim in any competent court; and any sum paid by a candidate or his election agent in pursuance of the judgment or order of that court shall be deemed to be paid within the time limited by this Act, and to be an exception from the provisions of this Act, requiring claims to be paid by the election agent.
+(8) The claimant may, if he thinks fit, bring an action for a disputed claim in any competent court; and any sum paid by a candidate or any of his election agents in pursuance of the judgment or order of that court shall be deemed to be paid within the time limited by this Act, and to be an exception from the provisions of this Act, requiring claims to be paid by any election agent.
 
-(9) On cause shown to the satisfaction of an Election Judge, the Judge, on application by the claimant or by the candidate or his election agent, may by order give leave for the payment by the candidate or his election agent of a disputed claim, or of a claim for those expenses, although the claim was sent in after the time in this section mentioned for sending in claims or was sent in to the candidates and not to the election agent.
+(9) On cause shown to the satisfaction of an Election Judge, the Judge, on application by the claimant or by the candidate or any of his election agents, may by order give leave for the payment by the candidate or any of his election agents of a disputed claim, or of a claim for those expenses, although the claim was sent in after the time in this section mentioned for sending in claims or was sent in to the candidates and not to any election agent.
 
 [Act 12/93 wef 16/04/1993 vide S 115/93]
 
-(10) Any sum specified in any order of leave under subsection (9) may be paid by the candidate or his election agent ; and when paid in pursuance of that leave shall be deemed to be paid within the time limited by this Act.
+(10) Any sum specified in any order of leave under subsection (9) may be paid by the candidate or any of his election agents; and when paid in pursuance of that leave shall be deemed to be paid within the time limited by this Act.
 
 ### Remuneration of election agent
 
@@ -962,21 +996,21 @@ Election Agent, Election Expenses and Illegal Practices
 
 ### Personal expenses of candidate and petty expenses
 
-49\.—(1) Any candidate at an election may pay any personal expenses incurred by him on account of or in connection with or incidental to the election to an amount not exceeding $1,000, but any further personal expenses so incurred by him shall be paid by his election agent.
+49\.—(1) Any candidate at an election may pay any personal expenses incurred by him on account of or in connection with or incidental to the election to an amount not exceeding $1,000, but any further personal expenses so incurred by him shall be paid by his principal election agent.
 
-(2) The candidate shall send to his election agent within the time limited by this Act for sending in claims, a written statement of the amount of personal expenses paid by the candidate.
+(2) The candidate shall send to his principal election agent within the time limited by this Act for sending in claims, a written statement of the amount of personal expenses paid by the candidate.
 
 (3) The personal expenses of a candidate shall include his reasonable travelling expenses and the reasonable expenses of his living at hotels or elsewhere for the purposes of the election.
 
-(4) Any person may, if so authorised in writing by the election agent of the candidate pay any necessary expense for stationery, postage, telegrams, and other petty expenses to a total amount not exceeding that named in the authority, but any excess above the total amount so named shall be paid by the election agent.
+(4) Any person may, if so authorised in writing by any election agent of the candidate pay any necessary expense for stationery, postage, telegrams, and other petty expenses to a total amount not exceeding that named in the authority, but any excess above the total amount so named shall be paid by the election agent.
 
-(5) A statement of the particulars of payments made by any person so authorised shall be sent to the election agent within the time limited by this Act for the sending in of claims, and shall be vouched for by a bill containing the receipt of that person.
+(5) A statement of the particulars of payments made by any person so authorised shall be sent to the principal election agent within the time limited by this Act for the sending in of claims, and shall be vouched for by a bill containing the receipt of that person.
 
 ### Expenses in excess of maximum to be illegal practice
 
-50\.—(1) Subject to such exception as may be allowed in pursuance of this Act, no sum shall be paid and no expense shall be incurred by any candidate at any election or the name and address of the election agent, whether before, during, or after an election, on account of or in respect of the conduct or management of the election, in excess of $600,000 or an amount equal to 30 cents for each elector on the registers, whichever is the greater:
+50\.—(1) Subject to such exception as may be allowed in pursuance of this Act, no sum shall be paid and no expense shall be incurred by any candidate at any election or any of his election agents, whether before, during, or after an election, on account of or in respect of the conduct or management of the election, in excess of $600,000 or an amount equal to 30 cents for each elector on the registers, whichever is the greater:
 
-Provided that there shall not be included in the amount any expenditure incurred by the candidate for his personal expenses, nor the fee, if any, paid to the election agent not exceeding $500.
+Provided that there shall not be included in the amount any expenditure incurred by the candidate for his personal expenses, nor the fee, if any, paid to any election agent not exceeding $500.
 
 (2) Any candidate or election agent who knowingly acts in contravention of this section shall be guilty of an illegal practice.
 
@@ -1006,7 +1040,7 @@ Provided that there shall not be included in the amount any expenditure incurred
 
 ### Use of motor vehicles at elections
 
-53\.—(1) Subject to this section, a person shall not let, lend, employ, hire, borrow or use any motor vehicle for the purpose of conveyance of electors or voters to or from the poll and a person knowingly acting in contravention of this section shall be guilty of an illegal practice, except that the candidate shall not be liable nor shall his election be avoided for an illegal practice under this subsection committed without his consent or connivance by any person other than his election agent.
+53\.—(1) Subject to this section, a person shall not let, lend, employ, hire, borrow or use any motor vehicle for the purpose of conveyance of electors or voters to or from the poll and a person knowingly acting in contravention of this section shall be guilty of an illegal practice, except that the candidate shall not be liable nor shall his election be avoided for an illegal practice under this subsection committed without his consent or connivance by any person other than any of his election agents.
 
 (2) Nothing in this section shall prevent any person from employing a motor vehicle for the purpose of conveying to or from the poll himself or any member of his family.
 
@@ -1030,7 +1064,9 @@ except that if the officer has reason to suspect that a name or address so ascer
 
 54\.—(1) No person shall, for the purpose of promoting or procuring the election of any candidate at any election, be engaged or employed for payment or promise of payment for any purpose or in any capacity whatever, except for the following purpose or in the following capacities:
 
-(a) one election agent and no more;
+(a) not more than 20 election agents;
+
+[18/99 wef 14/05/1999]
 
 (b) not more than one polling agent for each polling place;
 
@@ -1044,23 +1080,23 @@ except that if the officer has reason to suspect that a name or address so ascer
 
 ### Return and declaration respecting election expenses
 
-56\.—(1) Within 31 days after the date of publication of the result of an election in theGazette, the election agent of every candidate at that election shall transmit to the Returning Officer a true return (referred to in this Act as the return respecting election expenses), in the prescribed form, containing detailed statements as respects the candidate of —
+56\.—(1) Within 31 days after the date of publication of the result of an election in theGazette, the principal election agent of every candidate at that election shall transmit to the Returning Officer a true return (referred to in this Act as the return respecting election expenses), in the prescribed form, containing detailed statements as respects the candidate of —
 
-(a) all payments made by the election agenttogether with all the bills and receipts referred to in section 47(1), which bills and receipts are in this Act included in the expression “return respecting election expenses”, and the dates of payment of all sums for which no receipt is attached;
+(a) all payments made by every election agent of the candidate together with all the bills and receipts referred to in section 47(1), which bills and receipts are in this Act included in the expression “return respecting election expenses”, and the dates of payment of all sums for which no receipt is attached;
 
 (b) the amount of personal expenses, if any, paid by the candidate;
 
-(c) the disputed claims so far as the election agent is aware;
+(c) the disputed claims so far as any of the election agents of the candidate are aware;
 
-(d) all unpaid claims, if any, of which the election agent is aware in respect of which application has been made or is about to be made to an Election Judge;
+(d) all unpaid claims, if any, of which any of the election agents of the candidate are aware in respect of which application has been made or is about to be made to an Election Judge;
 
 [Act 12/93 wef 16/04/1993]
 
-(e) all moneys, securities and other valuable considerations received by or promised to the election agent from or by any candidate or any other person for the purpose of expenses incurred or to be incurred on account or in respect of the management of the election, naming every person from whom the sum may have been received or by whom the sum may have been promised, showing as to each sum whether it was received as contribution, loan, deposit or otherwise.
+(e) all moneys, securities and other valuable considerations received by or promised to the every election agent of the candidate from or by any candidate or any other person for the purpose of expenses incurred or to be incurred on account or in respect of the management of the election, naming every person from whom the sum may have been received or by whom the sum may have been promised, showing as to each sum whether it was received as contribution, loan, deposit or otherwise.
 
-(2) The return respecting election expenses shall be signed by the election agent and shall be accompanied by a statement made by the candidate and his election agent in the prescribed forms and shall be on oath before a Justice of the Peace or a commissioner for oaths.
+(2) The return respecting election expenses shall be signed by the principal election agent and shall be accompanied by a statement made by the candidate and his principal election agent in the prescribed forms and shall be on oath before a Justice of the Peace or a commissioner for oaths.
 
-(3) Any candidate or election agent who fails to comply with the requirements of subsection (1) or (2) shall be guilty of an illegal practice and the provisions of this section shall be in addition to and not in derogation of section 42.
+(3) Any candidate or principal election agent who fails to comply with the requirements of subsection (1) or (2) shall be guilty of an illegal practice and the provisions of this section shall be in addition to and not in derogation of section 42.
 
 ### Publication of receipt of return, etc.
 
@@ -1150,7 +1186,7 @@ except that if the officer has reason to suspect that a name or address so ascer
 
 (f) open or maintain, for the purpose of any activity directed towards promoting or procuring the election of a candidate at any election, any office in any room, building or any place whatsoever, whether open or enclosed, on polling day.
 
-(2) Every candidate or his election agent may open or maintain one office for each polling district, which shall not be within a radius of 200 metres of any polling station, and the address of every such office shall be registered by the candidate or his election agent with the Returning Officer before polling day.
+(2) Every candidate or any of his election agents may open or maintain one office for each polling district, which shall not be within a radius of 200 metres of any polling station, and the address of every such office shall be registered by the candidate or his principal election agent with the Returning Officer before polling day.
 
 (3) Any person who contravenes any of the provisions of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding one year.
 
@@ -1170,7 +1206,7 @@ except that if the officer has reason to suspect that a name or address so ascer
 
 shall take part in any election activity.
 
-(2) No person shall conduct any election activity unless he is in possession of a written authority in the prescribed form signed by a candidate or the election agent of the candidate and issued on or after nomination day.
+(2) No person shall conduct any election activity unless he is in possession of a written authority in the prescribed form signed by a candidate or any election agent of the candidate and issued on or after nomination day.
 
 (3) Every candidate and election agent shall supply particulars in duplicate of all written authorities issued by them under subsection (2) to the Returning Officer, who shall on receipt thereof forward a copy of those particulars to the Commissioner of Police.
 
@@ -1212,9 +1248,9 @@ Excuse for Corrupt and Illegal Practice
 
 68\. Where, upon the trial of an election petition respecting an election under this Act, the Election Judge reports that a candidate at the election has been guilty by his agents of the offence of treating or undue influence or of any illegal practice in reference to the election, and the Election Judge further reports, after giving the Public Prosecutor an opportunity of being heard, that the candidate has proved to the court —
 
-(a) that no corrupt or illegal practice was committed at the election by the candidate or his election agent and the offences mentioned in the report were committed contrary to the orders and without the sanction or connivance of the candidate or his election agent;
+(a) that no corrupt or illegal practice was committed at the election by the candidate or any of his election agents and the offences mentioned in the report were committed contrary to the orders and without the sanction or connivance of the candidate or any of his election agents;
 
-(b) that the candidate and his election agent took all reasonable means for preventing the commission of corrupt and illegal practices at the election;
+(b) that the candidate and his election agents took all reasonable means for preventing the commission of corrupt and illegal practices at the election;
 
 (c) that the offences mentioned in the said report were of a trivial, unimportant and limited character; and
 
@@ -1226,11 +1262,11 @@ then the election of the candidate shall not, by reason of the offences mentione
 
 69\. Where, on application made, it is shown to an Election Judge by such evidence as seems to the Judge sufficient —
 
-(a) that any act or omission of a candidate at any election, or of his election agent or of any other agent or person, would, by reason of being the payment of a sum or the incurring of expense in excess of any maximum amount allowed by this Act, or of being a payment, engagement, employment, or contract in contravention of this Act, or of otherwise being in contravention of any of the provisions of this Act, be but for this section an illegal practice; and
+(a) that any act or omission of a candidate at any election, or of his election agents or of any other agent or person, would, by reason of being the payment of a sum or the incurring of expense in excess of any maximum amount allowed by this Act, or of being a payment, engagement, employment, or contract in contravention of this Act, or of otherwise being in contravention of any of the provisions of this Act, be but for this section an illegal practice; and
 
 (b) that the act or omission arose from inadvertence or from accidental miscalculations or from some other reasonable cause of a like nature, and in any case did not arise from any want of good faith,
 
-and in the circumstances it seems to the Judge, after giving the candidates, the Returning Officer, and any elector within the electoral division an opportunity of being heard, to be just that the candidate in question and the election and other agent and person, or any of them, should not be subject to any of the consequences under this Act of that act or omission, the Judge may make an order allowing that act or omission to be an exception from the provisions of this Act which would otherwise make the act or omission an illegal practice, payment, employment or hiring, and thereupon the candidate, agent or person shall not be subject to any of the consequences under this Act of that act or omission.
+and in the circumstances it seems to the Judge, after giving the candidates, the Returning Officer, and any elector an opportunity of being heard, to be just that the candidate in question and the election and other agent and person, or any of them, should not be subject to any of the consequences under this Act of that act or omission, the Judge may make an order allowing that act or omission to be an exception from the provisions of this Act which would otherwise make the act or omission an illegal practice, payment, employment or hiring, and thereupon the candidate, agent or person shall not be subject to any of the consequences under this Act of that act or omission.
 
 [Act 12/93 wef 16/04/1993 vide S 115/93]
 
@@ -1238,19 +1274,19 @@ and in the circumstances it seems to the Judge, after giving the candidates, the
 
 70\.—(1) Where the return and statements respecting election expenses of a candidate at an election have not been transmitted as required by this Act, or being transmitted contain some error or false statement, then —
 
-(a) if the candidate applies to an Election Judge and shows that the failure to transmit the return and declarations, or any of them, or any part thereof, or any error or false statement therein, has arisen by reason of his illness, or of the absence, death, illness or misconduct of his election agent or of any clerk or officer of the agent, or by reason of inadvertence or of any reasonable cause of a like nature, and not by reason of any want of good faith on the part of the applicant; or
+(a) if the candidate applies to an Election Judge and shows that the failure to transmit the return and declarations, or any of them, or any part thereof, or any error or false statement therein, has arisen by reason of his illness, or of the absence, death, illness or misconduct of his principal election agent or of any election agent or any clerk or officer of the agent, or by reason of inadvertence or of any reasonable cause of a like nature, and not by reason of any want of good faith on the part of the applicant; or
 
 [Act 12/93 wef 16/04/1993 vide S 115/93]
 
-(b) if the election agent of the candidate applies to an Election Judge and shows that the failure to transmit the return and statements which he was required to transmit, or any part thereof, or any error or false statement therein, arose by reason of his illness, or of the death, illness or misconduct of any prior election agent of the candidate, or of the absence, death, illness or misconduct of any clerk, or officer of an election agent of the candidate, or by reason of inadvertence or of any reasonable cause of a like nature, and not by reason of any want of good faith on the part of the applicant,
+(b) if the principal election agent of the candidate applies to an Election Judge and shows that the failure to transmit the return and statements which he was required to transmit, or any part thereof, or any error or false statement therein, arose by reason of his illness, or of the death, illness or misconduct of any prior principal election agent of the candidate, or of the absence, death, illness or misconduct of any election agent or any clerk, or officer of an election agent of the candidate, or by reason of inadvertence or of any reasonable cause of a like nature, and not by reason of any want of good faith on the part of the applicant,
 
 [Act 12/93 wef 16/04/1993 vide S 115/93]
 
 the Judge may, after such notice of the application, and on production of such evidence of the grounds stated in the application, and of the good faith of the application, and otherwise, as to the Judge seems fit, and after giving the other candidates, the Returning Officer and any elector an opportunity of being heard, make such order for allowing an authorised excuse for the failure to transmit such return and statements, or for an error or false statement in such return and statements as to the Judge seems just.
 
-(2) Where it appears to the Judge that any person being or having been an election agent has refused or failed to make such return or supply such particulars as will enable any candidate and his election agent, respectively, to comply with the provisions of this Act as to the return and statements respecting election expenses, the Judge shall, before making an order allowing the excuse mentioned in this section, order the person to attend before the Judge, and shall, unless the person attends and shows cause to the contrary, order the person to make the return and statements, or to deliver a statement of the particulars required to be contained in the return, as to the Judge appears just, and to make or deliver them within such time and to such other person and in such manner as the Judge may direct, or may order the person to be examined with respect to those particulars, and, in default of compliance with that order, the person shall be guilty of an illegal practice.
+(2) Where it appears to the Judge that any person being or having been an election agent has refused or failed to make such return or supply such particulars as will enable any candidate and his principal election agent, respectively, to comply with the provisions of this Act as to the return and statements respecting election expenses, the Judge shall, before making an order allowing the excuse mentioned in this section, order the person to attend before the Judge, and shall, unless the person attends and shows cause to the contrary, order the person to make the return and statements, or to deliver a statement of the particulars required to be contained in the return, as to the Judge appears just, and to make or deliver them within such time and to such other person and in such manner as the Judge may direct, or may order the person to be examined with respect to those particulars, and, in default of compliance with that order, the person shall be guilty of an illegal practice.
 
-(3) The order may make the allowance conditional upon the making of the return and statements in a modified form or within an extended time, and upon the compliance with such other terms as to the Judge seems best calculated for carrying into effect the objects of this Act; and an order allowing an authorised excuse shall relieve the applicant for the order from any liability or consequences under this Act in respect of the matter excused by the order; and where it is proved by the candidate to the Judge that any act or omission of the election agent in relation to the return and statements respecting election expenses was without the sanction or connivance of the candidate, and that the candidate took all reasonable means for preventing the act or omission, the Judge shall relieve the candidate from the consequences of the act or omission on the part of his his election agent.
+(3) The order may make the allowance conditional upon the making of the return and statements in a modified form or within an extended time, and upon the compliance with such other terms as to the Judge seems best calculated for carrying into effect the objects of this Act; and an order allowing an authorised excuse shall relieve the applicant for the order from any liability or consequences under this Act in respect of the matter excused by the order; and where it is proved by the candidate to the Judge that any act or omission of the principal election agent in relation to the return and statements respecting election expenses was without the sanction or connivance of the candidate, and that the candidate took all reasonable means for preventing the act or omission, the Judge shall relieve the candidate from the consequences of the act or omission on the part of his principal election agent.
 
 (4) The date of the order or, if conditions and terms are to be complied with, the date at which the applicant fully complies with them is referred to in this Act as the date of the allowance of the excuse.
 
@@ -1340,13 +1376,13 @@ ELECTION PETITIONS
 
 77\.—(1) Subject to subsections (2) and (3), every election petition shall be presented within 21 days of the date of publication of the result of the election in theGazette.
 
-(2) An election petition questioning the return or the election upon the ground of a corrupt practice and specifically alleging a payment of money or other act to have been made or done since the date referred to in subsection (1) by the President whose election is questioned or by an agent of the President or with privity of the President or his election agent in pursuance or in furtherance of the corrupt practice may, so far as respects that corrupt practice, be presented at any time within 28 days after the date of the payment or act.
+(2) An election petition questioning the return or the election upon the ground of a corrupt practice and specifically alleging a payment of money or other act to have been made or done since the date referred to in subsection (1) by the President whose election is questioned or by an agent of the President or with privity of the President or any of his election agents in pursuance or in furtherance of the corrupt practice may, so far as respects that corrupt practice, be presented at any time within 28 days after the date of the payment or act.
 
 (3) An election petition questioning the return or the election upon an allegation of an illegal practice may, so far as respects that illegal practice, be presented within the following time:
 
 (a) at any time before the expiration of 14 days after the date of the publication in theGazetteof the notice required by section 57 as to the election expenses of the President whose election is questioned; or
 
-(b) if the election petition specifically alleges a payment of money or other act to have been made or done since that date by the President whose election is questioned or by an agent of the President or with the privity of the President or of his election agent in pursuance or in furtherance of the illegal practice alleged in the petition, the petition may be presented at any time within 28 days after the date of the payment or other act.
+(b) if the election petition specifically alleges a payment of money or other act to have been made or done since that date by the President whose election is questioned or by an agent of the President or with the privity of the President or of any of his election agents in pursuance or in furtherance of the illegal practice alleged in the petition, the petition may be presented at any time within 28 days after the date of the payment or other act.
 
 (4) An election petition presented in due time may, for the purpose of questioning the return or the election upon an allegation of a corrupt or illegal practice, be amended with the leave of an Election Judge within the time within which an election petition questioning the return or the election upon that ground may be presented.
 
@@ -1473,3 +1509,9 @@ This Legislative History is provided for the convenience of users of the Preside
 |||(Bill No. 1/1999 published on 21 January 1999)|
 ||Date of Second and Third Readings|11 February 1999|
 ||Date of commencement|1 March 1999|
+|9.|**Act 18 of 1999—Parliamentary Elections (Amendment) Act 1999**|
+||(Consequential and related amendments made to Act by)||
+||Date of First Reading|18 March 1999|
+|||(Bill No. 14/1999 published on 19 March 1999)|
+||Date of Second and Third Readings|15 April 1999|
+||Date of commencement|14 May 1999|
