@@ -32,63 +32,65 @@
 
 - [10 Prohibition on supply to persons below age of 18 years](#Prohibition-on-supply-to-persons-below-age-of-18-years)
 
-- [11 Control of smoking etc., by young persons](#Control-of-smoking-etc-by-young-persons)
+- [11 Control of smoking, etc., by young persons](#Control-of-smoking-etc-by-young-persons)
 
-- [12 Notice of prohibition](#Notice-of-prohibition)
+- [12 Number of cigarettes in package](#Number-of-cigarettes-in-package)
 
-- [13 Prohibition on sale by vending machines](#Prohibition-on-sale-by-vending-machines)
+- [13 Notice of prohibition](#Notice-of-prohibition)
 
-- [14 Prohibition on importation and sale of harmful tobacco products](#Prohibition-on-importation-and-sale-of-harmful-tobacco-products)
+- [14 Prohibition on sale by vending machines](#Prohibition-on-sale-by-vending-machines)
 
-- [15 Prohibition on sale of imitation tobacco products](#Prohibition-on-sale-of-imitation-tobacco-products)
+- [15 Prohibition on importation and sale of harmful tobacco products](#Prohibition-on-importation-and-sale-of-harmful-tobacco-products)
 
-- [16 Health warnings and labelling](#Health-warnings-and-labelling)
+- [16 Prohibition on saleof imitation tobacco products](#Prohibition-on-saleof-imitation-tobacco-products)
 
-- [17 Power to license tobacco retailers](#Power-to-license-tobacco-retailers)
+- [17 Health warnings and labelling](#Health-warnings-and-labelling)
 
-- [18 Appointment of authorised officers](#Appointment-of-authorised-officers)
+- [18 Power to license tobacco retailers](#Power-to-license-tobacco-retailers)
+
+- [19 Appointment of authorised officers](#Appointment-of-authorised-officers)
 
 [**Part IV ENFORCEMENT AND MISCELLANEOUS**](#Part-IV)
 
-- [19 Offences by bodies corporate or unincorporate](#Offences-by-bodies-corporate-or-unincorporate)
+- [20 Offences by bodies corporate or unincorporate](#Offences-by-bodies-corporate-or-unincorporate)
 
-- [20 Immunity from suit](#Immunity-from-suit)
+- [21 Immunity from suit](#Immunity-from-suit)
 
-- [21 Exemption](#Exemption)
+- [22 Exemption](#Exemption)
 
-- [22 Powers of police and authorised officers](#Powers-of-police-and-authorised-officers)
+- [23 Powers of police and authorised officers](#Powers-of-police-and-authorised-officers)
 
-- [22A Power to examine and secure attendance](#Power-to-examine-and-secure-attendance)
+- [24 Power to examine and secure attendance](#Power-to-examine-and-secure-attendance)
 
-- [23 Power of Chief Executive to require tobacco products for testing or analysis and furnishing of information](#Power-of-Chief-Executive-to-require-tobacco-products-for-testing-or-analysis-and-furnishing-of-information)
+- [25 Power to require tobacco products for testing or analysis and furnishing of information](#Power-to-require-tobacco-products-for-testing-or-analysis-and-furnishing-of-information)
 
-- [24 Power to enter premises and inspect and seize advertisements, products, machines and documents](#Power-to-enter-premises-and-inspect-and-seize-advertisements-products-machines-and-documents)
+- [26 Power to enter premises and inspect and seize advertisements, products, vending machines and documents](#Power-to-enter-premises-and-inspect-and-seize-advertisements-products-vending-machines-and-documents)
 
-- [25 Obstruction of officers](#Obstruction-of-officers)
+- [27 Obstruction of officers](#Obstruction-of-officers)
 
-- [26 Notice of test and intended prosecution](#Notice-of-test-and-intended-prosecution)
+- [28 Notice of test and intended prosecution](#Notice-of-test-and-intended-prosecution)
 
-- [27 Forfeiture](#Forfeiture)
+- [29 Forfeiture](#Forfeiture)
 
-- [28 Things seized may be delivered to owner or other person](#Things-seized-may-be-delivered-to-owner-or-other-person)
+- [30 Things seized may be delivered to owner or other person](#Things-seized-may-be-delivered-to-owner-or-other-person)
 
-- [29 Protection of officers](#Protection-of-officers)
+- [31 Protection of officers](#Protection-of-officers)
 
-- [30 Forms](#Forms)
+- [32 Forms](#Forms)
 
-- [31 Jurisdiction of courts](#Jurisdiction-of-courts)
+- [33 Jurisdiction of court](#Jurisdiction-of-court)
 
-- [32 Composition of offences](#Composition-of-offences)
+- [34 Composition of offences](#Composition-of-offences)
 
-- [32A Fees, charges, etc., collected by the Chief Executive or authorised officer to be paid to Authority](#Fees-charges-etc-collected-by-the-Chief-Executive-or-authorised-officer-to-be-paid-to-Authority)
+- [35 Fees, charges, etc., collected by Chief Executive or authorised officer to be paid to Authority](#Fees-charges-etc-collected-by-Chief-Executive-or-authorised-officer-to-be-paid-to-Authority)
 
-- [32B Service of summons, notices, etc.](#Service-of-summons-notices-etc)
+- [36 Service of summons, notices, etc.](#Service-of-summons-notices-etc)
 
-- [33 Regulations](#Regulations)
-
-- [34 Transitional](#Transitional)
+- [37 Regulations](#Regulations)
 
 [**Legislative History**](#Legislative-History)
+
+[**Comparative Table**](#Comparative-Table)
 
 # Smoking (Control of Advertisements and Sale of Tobacco) Act
 
@@ -96,9 +98,9 @@
 
 (Original Enactment: Act 10 of 1993)
 
-REVISED EDITION 1994
+REVISED EDITION 2003
 
-(15th March 1994)
+(31st July 2003)
 
 An Act to prohibit advertisements relating to smoking, to control the use of tobacco products by young persons, to control the sale, packaging and trade description of tobacco products and for matters connected therewith.
 
@@ -110,7 +112,7 @@ PRELIMINARY
 
 ### Short title
 
-1\. This Act may be cited as the Smoking (Control of Advertisements and Sale of Tobacco) Act.
+1\. This Act may be cited as the Smoking (Control of Advertisements and Sale of Tobacco) Act .
 
 ### Interpretation
 
@@ -130,31 +132,27 @@ PRELIMINARY
 
 “advertisement relating to smoking” means any advertisement referred to in section 3(1) which has not been approved under section 3(2);
 
-“authorised officer” means any officer or person, appointed under section 18;
+“authorised officer” means any officer or person appointed under section 19;
 
-“Authority” means the Health Sciences Authority established under the Health Sciences Authority Act 2001;
+“Authority” means the Health Sciences Authority established under the Health Sciences Authority Act (Cap. 122C);
 
-[4/2001 wef 01/04/2001]
+“Chief Executive” means the person appointed under section 15 of the Health Sciences Authority Act (Cap. 122C) to be the Chief Executive of the Authority;
 
-“Chief Executive” means the person appointed under section 15 of the Health Sciences Authority Act 2001 to be the Chief Executive of the Authority;
+“cigarette” means any product which consists in whole or in part of cut, shredded or manufactured tobacco, or any tobacco derivative or substitute, rolled up in paper, tobacco leaf or other material and which is in such form as to be capable of immediate usefor smoking;
 
-[4/2001 wef 01/04/2001]
-
-“cigarette” means any product which consists in whole or in part of cut, shredded or manufactured tobacco, or any tobacco derivative or substitute, rolled up in paper, tobacco leaf or other material and which is in such form as to be capable of immediate use for smoking;
-
-[35/2002 wef 01/04/2003]
-
-“imitation tobacco product” means any of the products referred to in section 15(1);
+“imitation tobacco product” means any of the products referred to in section 16(1);
 
 “newspaper” includes any magazine, journal, periodical or any other publication containing news, intelligence, information or reports of occurrences, or any remarks, observations or comments in relation either to such news, intelligence, information or occurrences or to any other matter of interest to the public or any section of the public, issued in any language at regular or irregular intervals;
 
-“publish” with its grammatical variations, in relation to an advertisement, includes issuing, showing, displaying, exhibiting or making known an advertisement in any manner whatsoever;
+“publish”, with its grammatical variations, in relation to an advertisement, includes issuing, showing, displaying, exhibiting or making known an advertisement in any manner whatsoever;
 
-“smoking” with its grammatical variations, means inhaling and expelling the smoke of any tobacco product and includes the holding of any tobacco product which is alight or emitting smoke;
+“smoking”, with its grammatical variations, means inhaling and expelling the smoke of any tobacco product and includes the holding of any tobacco product which is alight or emitting smoke;
 
-“tobacco product” means any cigarette, cigar or any other form of tobacco including any mixture containing tobacco but excludes any medicinal product registered under the Medicines Act [Cap. 176];
+“tobacco product” means any cigarette, cigar or any other form of tobacco including any mixture containing tobacco but excludes any medicinal product registered under the Medicines Act (Cap. 176);
 
 “writing” includes painting, inscription, printing, lithography, typewriting, photography and other modes of representing or reproducing words or figures in visible form.
+
+[4/2001; 35/2002]
 
 ## PART II
 
@@ -162,7 +160,7 @@ CONTROL OF ADVERTISEMENTS RELATING TO SMOKING
 
 ### Prohibition on advertisements relating to smoking
 
-3\.—(1) Except as provided in subsection (2) or section 21, any person who publishes or causes to be published or takes part in the publication of any advertisement —
+3\.—(1) Except as provided in subsection (2) or section 22, any person who publishes or causes to be published or takes part in the publication of any advertisement —
 
 (a) containing any express or implied inducement, suggestion or request to purchase or to smoke any tobacco product;
 
@@ -176,19 +174,19 @@ CONTROL OF ADVERTISEMENTS RELATING TO SMOKING
 
 (iii) any pictorial device commonly associated with a brand name of or trade mark relating to any tobacco product,
 
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding one year or to both.
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 (2) The Minister may, in his discretion, approve, for such time and upon such conditions as he may think fit, the publication of an advertisement or class of advertisements which mentions or refers to the brand name associated with or the name or trade name of a person associated or concerned with the manufacture, distribution or marketing of a tobacco product —
 
 (a) as the sponsor of an event or as congratulating another person or thing on an achievement of or event relating to such person or thing; or
 
-(b) for the purpose of promoting or identifying any goods or services unconnected with any tobacco product which are manufactured, distributed, marketed or provided by that person:
+(b) for the purpose of promoting or identifying any goods or services unconnected with any tobacco product which are manufactured, distributed, marketed or provided by that person.
 
-Provided that the advertisement shall not, directly or indirectly, lead to, induce, urge, promote or encourage the use of any tobacco product for the purpose of smoking.
+(3) Subsection (2) shall not apply to any advertisement or class of advertisements which, directly or indirectly, leads to, induces, urges, promotes or encourages the use of any tobacco productfor the purpose of smoking.
 
-(3) Where any person fails to comply with any condition imposed by the Minister under this section, the Minister may cancel the approval in relation to which that condition was imposed.
+(4) Where any person fails to comply with any condition imposed by the Minister under this section, the Minister may cancel the approval in relation to which that condition was imposed.
 
-(4) Any application for approval under subsection (2) shall be made in such form and with such particulars as may be determined by the Minister.
+(5) Any application for approval under subsection (2) shall be made in such form and with such particulars as may be determined by the Minister.
 
 ### Defence
 
@@ -196,7 +194,7 @@ Provided that the advertisement shall not, directly or indirectly, lead to, indu
 
 ### Offences by owner and occupier
 
-5\. Any person being the owner or occupier of any premises or place to which the public or any section of the public has access, on payment or otherwise, who knowingly permits or suffers such premises or place or any part thereof to be kept or used for the publication of any advertisement in contravention of section 3(1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding one year or to both.
+5\. Any person being the owner or occupier of any premisesor place to which the public or any section of the public has access, on payment or otherwise, who knowingly permits or suffers such premises or place or any part thereof to be kept or used for the publication of any advertisement in contravention of section 3(1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 ### Presumption relating to printed documents
 
@@ -212,7 +210,7 @@ Provided that the advertisement shall not, directly or indirectly, lead to, indu
 
 (b) is supplied or distributed to any purchaser or subscriber of any newspaper that is printed or published in Singapore, whether or not the first-mentioned newspaper or printed matter is supplied or distributed at the same time as, or together with, the newspaper printed or published in Singapore.
 
-(3) Any person who contravenes subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding one year or to both.
+(3) Any person who contravenes subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 ### Advertisements not exempted
 
@@ -230,13 +228,13 @@ CONTROL OF SALE OF TOBACCO PRODUCTS
 
 (b) any tobacco product with any other goods as a free gift; or
 
-(c) any tobacco product packaged or labelled together or otherwise in conjunction with any other goods.
+(c) any tobacco product packaged or labelled together or otherwise in conjunction with any other goods .
 
 (2) No person shall distribute or give or cause to be distributed or given or assist in the distribution or giving of any free sample of a tobacco product to the public or any section of the public other than to persons who are associated or concerned with the manufacture, distribution or sale of tobacco products.
 
 (3) No person shall offer or give any tobacco product as a prize in any lottery, raffle, draw, game or competition.
 
-(4) Any person who contravenes or fails to comply with subsection (1), (2) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding one year or to both.
+(4) Any person who contravenes subsection (1), (2) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 ### Prohibition on supply to persons below age of 18 years
 
@@ -252,7 +250,7 @@ shall be guilty of an offence and shall be liable on conviction for —
 
 (i) an offence under paragraph (a) to a fine not exceeding $5,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000;
 
-(ii) an offence under paragraph (b) to a fine not exceeding $2,500 and, in the case of a second or subsequent conviction, to a fine not exceeding $5,000;
+(ii) an offence under paragraph (b) to a fine not exceeding $2,500 and, in the case of a second or subsequent conviction, to a fine not exceeding $5,000; or
 
 (iii) an offence under paragraph (c) to a fine not exceeding $500 and, in the case of a second or subsequent conviction, to a fine not exceeding $1,000.
 
@@ -262,39 +260,87 @@ shall be guilty of an offence and shall be liable on conviction for —
 
 (b) had received from the person to whom the tobacco product was sold, given or furnished evidence purporting to show that that person was not below the age of 18 years, and that it was reasonable to and he did accept that evidence as correct.
 
-### Control of smoking etc., by young persons
+### Control of smoking, etc., by young persons
 
 11\.—(1) Any person who, being below the age of 18 years, smokes or chews any tobacco product in a public place or on a road, or buys or has in his possession, whether for his own use or not, any tobacco product, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $300.
 
-(2) Where a police officer or an authorised officer finds in any public place or on a road a person, whom the officer reasonably suspects as being below the age of 18 years, smoking or chewing or about to smoke or chew any tobacco product, the officer may seize any tobacco product in the possession of such person.
+[35/2002]
 
-(3) For the purposes of this section —
+(2) Where a police officer or an authorised officer finds in any public place or on a road a person, whom the officer reasonably suspects as being below the age of 18 years, moking or chewing or about to smoke or chew any tobacco product, the officer may seize any tobacco product in the possession of such person.
 
-“public place” means the premises of a school within the meaning of the Education Act [Cap. 87] or any place, premises or building or part thereof to which members of the public or a section of the public have or ordinarily would have access whether on payment of a fee or otherwise;
+(3) In this section —
 
-“road” has the same meaning as in the Road Traffic Act [Cap. 276].
+“public place” means the premises of a school within the meaning of the Education Act (Cap. 87) or any place, premises or building or part thereof to which members of the public or a section of the public have or ordinarily would have access whether on payment of a fee or otherwise;
+
+“road” has the same meaning as in the Road Traffic Act (Cap. 276).
+
+### Number of cigarettes in package
+
+112\.—(1) No person shall —
+
+(a) sell or offer for sale cigarettes by retail; or
+
+(b) permit the sale or offer for sale of cigarettes by retail,
+
+except in a package that contains not less than the prescribed number of cigarettes.
+
+[35/2002]
+
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[35/2002]
+
+(3) In subsection (1) —
+
+“package” —
+
+(a) means any box, carton or other container in which cigarettes are supplied by the manufacturer or importer of the cigarettes for the purpose of sale by retail; and
+
+(b) includes, in the case where the package is, or several packages are, contained inside one or more larger packages, the smaller package or each of the smaller packages, as the case may be;
+
+“prescribed number of cigarettes” means —
+
+(a) 20 cigarettes, where no other number of cigarettes is specified under paragraph (b); or
+
+(b) where a number of cigarettes is specified under this paragraph by the Minister for the purposes of this section by notification in theGazette, such number of cigarettes as may for the time being be so specified.
+
+[11A
+
+[35/2002]
+
+1Section 12 shall come into operation on 1st December 2003 (G.N. No. S 100/2003)
 
 ### Notice of prohibition
 
-12\.—(1) Every person who sells or offers for sale any tobacco product by retail (referred to in this section as the retailer) —
+13\.—(1) Every person who sells or offers for sale any tobacco product by retail (referred to in this section as the retailer) —
 
 (a) shall cause to be displayed suitable and sufficient number of notices of an adequate size or sizes in conspicuous positions in the premises or place where the product is sold, stating to the effect that the sale of any tobacco product to persons below the age of 18 years is prohibited by law; and
 
 (b) shall, if so directed by the Chief Executive, display such notices in such places, phrase them in such manner or cause them to be of such size, as the Chief Executive may consider fit.
 
-(2) The retailer may, subject to any direction that may be given by the Chief Executive under subsection (1)(b), in addition to such notices, adopt any means, method or device as he may think fit for bringing such prohibition to the attention of members of the public in the premises or place.
+[4/2001]
 
-(3) A retailer who contravenes or fails to comply with subsection (1) or fails to comply with any direction given by the Chief Executive under that subsection shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000.
+(2) The retailer may, subject to any direction that may be given by the Chief Executive under subsection (1)(b), in addition to such notices, adopt any means, method or device as he may think fit for bringing such prohibition to the attention of members of the public in the premisesor place.
+
+[4/2001]
+
+(3) A retailer who contravenes subsection (1) or fails to comply with any direction given by the Chief Executive under that subsection shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000.
+
+[12
+
+[4/2001]
 
 ### Prohibition on sale by vending machines
 
-13\.—(1) No person shall place or cause or knowingly permit to be placed in any premises a vending machine containing any tobacco product that may be obtained by the insertion of any note, coin, token or similar object.
+14\.—(1) No person shall place or cause or knowingly permit to be placed in any premises a vending machine containing any tobacco product that may be obtained by the insertion of any note, coin, token or similar object.
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000.
 
+[13
+
 ### Prohibition on importation and sale of harmful tobacco products
 
-14\.—(1) No person shall import, sell or offer for sale —
+15\.—(1) No person shall import, sell or offer for sale —
 
 (a) any chewing tobacco; or
 
@@ -306,7 +352,7 @@ shall be guilty of an offence and shall be liable on conviction for —
 
 (b) a yield of more than 15.0 mg (or such other minimum amount as the Minister may by order prescribe) of tar (nicotine free smoke condensate) per cigarette.
 
-(2A) Notwithstanding subsection (2), no person shall import, sell or offer for sale any tobacco product —
+(3) Notwithstanding subsection (2), no person shall import, sell or offer for sale any tobacco product —
 
 (a) that contains; or
 
@@ -314,33 +360,41 @@ shall be guilty of an offence and shall be liable on conviction for —
 
 any substance in excess of such amount as the Minister may by order prescribe for that substance.
 
-[35/2002 wef 01/04/2003]
+[35/2002]
 
-(3) Subsections (1), (2) and (2A) shall not apply to the importation of any tobacco product which is intended for re-export.
+(4) Subsections (1), (2) and (3) shall not apply to the importation of any tobacco product which is intended for re-export.
 
-(4) [Deleted by Act 35/2003 wef 01/04/2003]
+[35/2002]
 
-(5) Any person who contravenes subsection (1), (2) and (2A) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding one year or to both.
+(5) Any person who contravenes subsection (1), (2) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-(6) In subsection (2A), “emission” means any substance that is produced when a tobacco product is used.
+[35/2002]
 
-[35/2002 wef 01/04/2003]
+(6) In subsection (3), “emission” means any substance that is produced when a tobacco product is used.
 
-### Prohibition on sale of imitation tobacco products
+[14
 
-15\.—(1) No person shall import, sell or offer for sale any confectionery or other food product or any toy or other article that is designed to resemble a tobacco product or which is sold in a package designed to resemble the packaging commonly associated with tobacco products.
+[35/2002]
+
+### Prohibition on saleof imitation tobacco products
+
+16\.—(1) No person shall import, sell or offer for sale any confectionery or other food product or any toy or other article that is designed to resemble a tobacco product or which is sold in a package designed to resemble the packaging commonly associated with tobacco products.
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000.
 
+[15
+
 ### Health warnings and labelling
 
-16\.—(1) The Minister may by regulations impose requirements for securing that such tobacco products as may be specified in those regulations be marked with, labelled or accompanied by any warning relating to health, information or description as may be prescribed and control or prohibit the supply of tobacco products with respect to which such requirements are not complied with.
+17\.—(1) The Minister may by regulations impose requirements for securing that such tobacco products as may be specified in those regulations be marked with, labelled or accompanied by any warning relating to health, information or description as may be prescribed and control or prohibit the supply of tobacco products with respect to which such requirements are not complied with.
 
-(2) Any person who contravenes the requirements imposed under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding one year or to both.
+(2) Any person who contravenes the requirements imposed under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[16
 
 ### Power to license tobacco retailers
 
-17\.—(1) The Minister may by regulations require any person who —
+18\.—(1) The Minister may by regulations require any person who —
 
 (a) imports;
 
@@ -354,7 +408,7 @@ any substance in excess of such amount as the Minister may by order prescribe fo
 
 any tobacco product to be licensed by the Chief Executive.
 
-[35/2002 wef 01/07/2003]
+[35/2002]
 
 (2) Without prejudice to the generality of subsection (1), the Minister may make regulations for or with respect to any of the following matters:
 
@@ -372,13 +426,25 @@ any tobacco product to be licensed by the Chief Executive.
 
 (3) Any person who is aggrieved by a decision of the Chief Executive to refuse to grant or renew a licence or to revoke, suspend or cancel his licence may appeal against the decision to the Minister.
 
+[4/2001]
+
 (4) A person required by regulations made under subsection (1) to be licensed, who carries out any activity referred to in subsection (1)(a) to (e) without a licence in force in respect of that activity shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000.
+
+[17
+
+[35/2002]
 
 ### Appointment of authorised officers
 
-18\.—(1) The Chief Executive may appoint any officer or any person to be an authorised officer for the purposes of this Act or any regulations made thereunder.
+19\.—(1) The Chief Executive may appoint any officer or any person to be an authorised officer for the purposes of this Act.
 
-(2) In the exercise of his powers and in carrying out his duties under this Act or any regulations made thereunder, an authorised officer shall comply with such general or special directions as may, from time to time, be given to him by the Chief Executive.
+[4/2001]
+
+(2) In the exercise of his powers and in carrying out his duties under this Act, an authorised officer shall comply with such general or special directions as may, from time to time, be given to him by the Chief Executive.
+
+[18
+
+[4/2001]
 
 ## PART IV
 
@@ -386,63 +452,97 @@ ENFORCEMENT AND MISCELLANEOUS
 
 ### Offences by bodies corporate or unincorporate
 
-19\. Where an offence under this Act or any regulations made thereunder has been committed by any company or association or body of persons, corporate or unincorporate, any person who at the time of the commission of the offence was a director, manager, secretary or other similar officer thereof or was purporting to act in that capacity shall be guilty of that offence unless he satisfies the court that the offence was committed without his knowledge or consent.
+20\. Where an offence under this Act has been committed by any company or association or body of persons, corporate or unincorporate, any person who at the time of the commission of the offence was a director, manager, secretary or other similar officer thereof or was purporting to act in that capacity shall be guilty of that offence unless he satisfies the court that the offence was committed without his knowledge or consent.
+
+[19
 
 ### Immunity from suit
 
-20\. No action, suit or other proceedings shall be brought or instituted in any court against any party to a contract for failing, neglecting or refusing to publish any advertisement relating to smoking, the subject-matter of such contract, where such failure, neglect or refusal is solely attributable to, or occasioned by, the commencement of this Act or any Act amending this Act, but nothing in this section shall affect the operation of the Frustrated Contracts Act [Cap. 115].
+21\. No action, suit or other proceedings shall be brought or instituted in any court against any party to a contract for failing, neglecting or refusing to publish any advertisement relating to smoking, the subject-matter of such contract, where such failure, neglect or refusal is solely attributable to, or occasioned by, the commencement of this Act or any Act amending this Act, but nothing in this section shall affect the operation of the Frustrated Contracts Act (Cap. 115).
+
+[20
 
 ### Exemption
 
-21\. The Minister may, in his discretion, either generally or in any particular case, and either permanently or for such period or periods as he may think fit, exempt any person or class of persons, or any place or type of place, or any event or occasion or class of event or occasion, or any object or thing or type of object or thing, from all or any of the provisions of this Act or any regulations made thereunder; and in granting such exemption the Minister may impose such conditions as he may think fit.
+22\.—(1) The Minister may, in his discretion, either generally or in any particular case, and either permanently or for such period or periods as he may think fit, exempt any person or class of persons, or any place or type of place, or any event or occasion or class of event or occasion, or any object or thing or type of object or thing, from all or any of the provisions of this Act.
+
+(2) In granting any exemption under subsection (1), the Minister may impose such conditions as he may think fit.
+
+[21
 
 ### Powers of police and authorised officers
 
-22\.—(1) Any person reasonably suspected of having committed an offence under this Act may be arrested without warrant by any police officer or authorised officer and produced before a Magistrate’s Court or a District Court (referred to in this section as a Court).
+23\.—(1) Any person reasonably suspected of having committed an offence under this Act may be arrested without warrant by any police officer or authorised officer and produced before a Magistrate’s Court or a District Court (referred to in this section as a Court).
 
-(2) Notwithstanding any other written law, any police officer or authorised officer who, having effected an arrest in accordance with subsection (1), is satisfied as to the identity, name and place of residence of the person arrested may, instead of producing the person before a Court or to a police station, serve upon the person a notice in such form as may be determined under section 30 requiring the person to attend at such Court, at such time and on such date as may be specified in the notice.
+(2) Notwithstanding any other written law, any police officer or authorised officer who, having effected an arrest in accordance with subsection (1), is satisfied as to the identity, name and place of residence of the person arrested may, instead of producing the person before a Court or to a police station, serve upon the person a notice in such form as may be determined under section 32 requiring the person to attend at such Court, at such time and on such date as may be specified in the notice.
 
 (3) For the purpose of satisfying himself as to the identity of the person arrested, the police officer or authorised officer may require such evidence of identity as he may consider necessary to be furnished by the person.
 
 (4) A duplicate of the notice served under subsection (2) shall be prepared by the police officer or authorised officer, as the case may be, and produced by him to the Court if so required by the Court.
 
-(5) Where an accused person appears before a Court in accordance with a notice served under subsection (2), the Court shall take cognizance of the offence alleged and shall proceed as though he were produced before it in pursuance of subsection (1).
+(5) Where an accused person appears before a Court in accordance with a notice served under subsection (2), the Court shall take cognizance of the offence alleged and shall proceed as though he were produced before it under subsection (1).
 
 (6) If a person upon whom a notice has been served under subsection (2) fails to appear before a Court in accordance with the notice, the Court may issue a warrant for the arrest of that person.
 
-(7) Where a person arrested in pursuance of a warrant issued under subsection (6) is produced before a Court, the Court shall proceed as though he were produced before it under subsection (1) and shall, at the conclusion of such proceedings, call upon him to show cause why he should not be punished for failing to attend in compliance with the notice served under subsection (2) and, if due cause is not shown, the Court may order him to pay a penalty not exceeding $2,000 or may commit him to prison for a term not exceeding one month.
+(7) Where a person arrested in pursuance of a warrant issued under subsection (6) is produced before a Court, the Court shall —
+
+(a) proceed as though he were produced before it under subsection (1); and
+
+(b) at the conclusion of such proceedings, call upon him to show cause why he should not be punished for failing to attend in compliance with the notice served under subsection (2).
+
+(8) If due cause is not shown by the person under subsection (7), the Court may —
+
+(a) order him to pay a penalty not exceeding $2,000; or
+
+(b) commit him to prison for a term not exceeding one month.
+
+[22
 
 ### Power to examine and secure attendance
 
-22A\.—(1) For the purpose of investigating any offence under this Act or any regulations made thereunder, the Chief Executive or any authorised officer may —
+24\.—(1) For the purpose of investigating any offence under this Act, the Chief Executive or any authorised officer may —
 
 (a) examine orally any person supposed to be acquainted with the facts and circumstances of the case, and to reduce to writing any statement made by the person so examined; and
 
 (b) require by order in writing the attendance before himself of any person who, from information given or otherwise, appears to be acquainted with the facts and circumstances concerning the case and that person shall attend as so required.
 
+[35/2002]
+
 (2) The person mentioned in subsection (1)(a) shall be bound to state truly the facts and circumstances with which he is acquainted concerning the case except only that he may decline to make with regard to any fact or circumstance a statement which would have a tendency to expose him to a criminal charge or to penalty or forfeiture.
+
+[35/2002]
 
 (3) A statement made under this section by any person shall be read over to him and shall, after correction, if necessary, be signed by him.
 
+[35/2002]
+
 (4) If any person fails to attend as required by an order under subsection (1)(b), the Chief Executive or any authorised officer may report such failure to a Magistrate who may thereupon issue a warrant to secure the attendance of that person as required by the order.
 
-[35/2002 wef 01/04/2003]
+[22A
 
-### Power of Chief Executive to require tobacco products for testing or analysis and furnishing of information
+[35/2002]
 
-23\.—(1) Any person carrying on a trade or business which consists of or includes the manufacture, distribution, importation or sale of any tobacco or imitation tobacco product —
+### Power to require tobacco products for testing or analysis and furnishing of information
 
-(a) shall supply free of charge to the Chief Executive or an authorised officer samples of any tobacco product or any imitation tobacco product as the Chief Executive or authorised officer may require for the purpose of testing, analysis or investigations; and
+25\.—(1) Any person carrying on a trade or business which consists of or includes the manufacture, distribution, importation or sale of any tobacco or imitation tobacco product shall —
 
-(b) shall furnish to the Chief Executive or authorised officer such information as the Chief Executive or authorised officer may require in respect of those products.
+(a) supply free of charge to the Chief Executive or an authorised officer samples of any tobacco product or any imitation tobacco product as the Chief Executive or authorised officer may require for the purpose of testing, analysis or investigations; and
+
+(b) furnish to the Chief Executive or authorised officer such information as the Chief Executive or authorised officer may require in respect of those products.
+
+[4/2001]
 
 (2) Any person involved or concerned with the importation, distribution, sale or supply of any newspaper which is printed or published outside Singapore shall furnish to the Chief Executive or an authorised officer such information as the Chief Executive or authorised officer may require in respect of such newspapers.
 
-### Power to enter premises and inspect and seize advertisements, products, machines and documents
+[23
 
-24\.—(1) The Chief Executive or an authorised officer may, at all reasonable hours, exercise the following powers:
+[4/2001]
 
-(a) he may, for the purpose of ascertaining whether any offence under this Act has been committed, inspect any advertisement, tobacco or imitation tobacco product or vending machine and enter any business premises;
+### Power to enter premises and inspect and seize advertisements, products, vending machines and documents
+
+26\.—(1) The Chief Executive or an authorised officer may, at all reasonable hours, exercise the following powers:
+
+(a) he may, for the purpose of ascertaining whether any offence under this Act has been committed, inspect any advertisement, tobacco or imitation tobacco product or vending machine and enter any businesspremises;
 
 (b) if he has reasonable cause to suspect that an offence under this Act has been committed, he may, for the purpose of ascertaining whether it has been committed, require any person carrying on a trade or business or employed in connection with a trade or business to produce any books or documents relating to the trade or business and may take copies of, or of any entry in, any such books or documents;
 
@@ -450,89 +550,153 @@ ENFORCEMENT AND MISCELLANEOUS
 
 (d) he may seize and detain any advertisement, tobacco or imitation tobacco product, vending machine or document which he has reason to believe may be required as evidence in proceedings for an offence under this Act; and
 
-(e) he may, for the purpose of exercising his powers under this subsection to seize any advertisement, tobacco or imitation tobacco product or vending machine, but only if and to the extent that it is reasonably necessary in order to secure that the provisions of this Act and any regulations made thereunder are duly observed, require any person having authority to do so to break open any container or open any vending machine and, if that person does not comply with the requirement, he may do so himself.
+(e) he may, for the purpose of exercising his powers under this subsection to seize any advertisement, tobacco or imitation tobacco product or vending machine, but only if and to the extent that it is reasonably necessary in order to secure that the provisions of this Act are duly observed, require any person having authority to do so to break open any container or open any vending machine and, if that person does not comply with the requirement, he may do so himself.
 
-(2) The Chief Executive or an authorised officer may, if he has reasonable cause to believe that an offence under section 3(1) has been committed in respect of an advertisement relating to smoking, require the person reasonably suspected of committing the offence to remove the advertisement from the view of members of the public and if the person fails to do so, the Chief Executive or authorised officer may cause the advertisement to be so removed and the person shall be liable to pay to the Chief Executive the reasonable costs of removal and disposal of the advertisement which may be recovered as a debt due to the Government.
+[4/2001]
 
-(3) The Chief Executive or an authorised officer shall, on seizing any advertisement, tobacco or imitation tobacco product, machine or document in the exercise of his powers under this section, inform the person from whom it was seized of such seizure and, in the case of tobacco products seized from a vending machine, the person whose name and address are stated on the machine as being the proprietor or, if no name and address are so stated, the occupier of the premises on which the machine stands or to which it is affixed.
+(2) The Chief Executive or an authorised officer may, if he has reasonable cause to believe that an offence under section 3(1) has been committed in respect of an advertisement relating to smoking —
 
-(4) The Chief Executive or an authorised officer entering any premises by virtue of this section may take with him such other persons and such equipment as may appear to him necessary.
+(a) require the person reasonably suspected of committing the offence to remove the advertisement from the view of members of the public; and
+
+(b) if the person fails to do so, cause the advertisement to be so removed.
+
+[4/2001]
+
+(3) The person referred to in subsection (2) shall be liable to pay to the Chief Executive the reasonable costs of removal and disposal of the advertisement which may be recovered as a debt due to the Government.
+
+[4/2001]
+
+(4) In the exercise of his powers under this section, the Chief Executive or an authorised officer shall —
+
+(a) on seizing any advertisement, tobacco or imitation tobacco product, vending machine or document, inform the person from whom it was seized of such seizure; and
+
+(b) in the case of tobacco products seized from a vending machine, inform the person whose name and address are stated on the machine as being the proprietor or, if no name and address are so stated, the occupier of the premises on which the machine stands or to which it is affixed.
+
+[4/2001]
+
+(5) The Chief Executive or an authorised officer entering any premises by virtue of this section may take with him such other persons and such equipment as may appear to him necessary.
+
+[24
+
+[4/2001]
 
 ### Obstruction of officers
 
-25\.—(1) Any person who —
+27\.—(1) Any person who —
 
 (a) wilfully obstructs the Chief Executive or an authorised officer acting in pursuance of this Act;
 
-(b) wilfully fails to comply with any requirement under section 23 properly made to him by the Chief Executive or an authorised officer; or
+(b) wilfully fails to comply with any requirement under section 25 properly made to him by the Chief Executive or an authorised officer; or
 
 (c) without reasonable cause, fails to give the Chief Executive or an authorised officer any other assistance or information which the Chief Executive or authorised officer may reasonably require for the purpose of the performance of his functions under this Act,
 
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding one year or to both.
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-(2) If any person, in giving any such information as is mentioned in subsection (1), makes any statement which he knows to be false, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding one year or to both.
+[4/2001]
+
+(2) If any person, in giving any such information as is mentioned in subsection (1), makes any statement which he knows to be false, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[25
 
 ### Notice of test and intended prosecution
 
-26\. Where any tobacco or imitation tobacco product seized in pursuance of this Act is submitted to a test, then —
+28\. Where any tobacco or imitation tobacco product seized under this Act is submitted to a test, the Chief Executive shall —
 
-(a) if the product is seized, the Chief Executive shall inform the person mentioned in section 24(3) of the result of the test; or
+(a) if the product is seized, inform the person mentioned in section 26(4) of the result of the test;
 
-(b) if the product was purchased and the test leads to the institution of proceedings for an offence under this Act, the Chief Executive shall inform the person from whom the product was purchased or, in the case of a product sold through a vending machine, the person mentioned in section 24(3) of the result of the test,
+(b) if the product was purchased and the test leads to the institution of proceedings for an offence under this Act, inform the person from whom the product was purchased or, in the case of a product sold through a vending machine, the person mentioned in section 26(4) of the result of the test; and
 
-and shall, where as a result of the test proceedings for an offence under this Act are instituted against any person, allow him to have the product tested on his behalf if it is reasonably practicable to do so.
+(c) if as a result of the test proceedings for an offence under this Act are instituted against any person, allow the person to have the product tested on his behalf if it is reasonably practicable to do so.
+
+[26
+
+[4/2001]
 
 ### Forfeiture
 
-27\.—(1) Any advertisement, product or vending machine seized in exercise of any power conferred under this Act shall be liable to forfeiture.
+29\.—(1) Any advertisement, product or vending machine seized in exercise of any power conferred under this Act shall be liable to forfeiture.
 
-(2) An order for the forfeiture or for the release of any advertisement, product or machine seized in exercise of any power conferred by this Act shall be made by the court before which the prosecution with regard thereto has been held and an order for the forfeiture of the advertisement, product or machine shall be made if it is proved to the satisfaction of the court that an offence under this Act has been committed and that the advertisement, product or machine was the subject-matter of or was used in the commission of the offence notwithstanding that no person may have been convicted of that offence.
+(2) An order for the forfeiture or for the release of any advertisement, product or vending machine seized in exercise of any power conferred by this Act shall be made by the court before which the prosecution with regard thereto has been held.
 
-(3) In the absence of any prosecution with regard to any advertisement, product or machine seized in the exercise of any power conferred by this Act, the advertisement, product or machine shall be deemed to be forfeited at the expiration of one month from the date of the seizure unless a claim thereto is made before then in accordance with subsection (4).
+(3) An order for the forfeiture of the advertisement, product or vending machine shall be made if it is proved to the satisfaction of the court that —
 
-(4) A person asserting that he is the owner of any advertisement, product or machine seized and that the advertisement, product or machine is not liable to forfeiture may personally, or by his agent authorised in writing, make a claim by giving written notice to the Chief Executive.
+(a) an offence under this Act has been committed; and
 
-(5) On receipt of such notice, the Chief Executive may direct that the advertisement, product or machine be released or may refer the matter to a court for decision.
+(b) the advertisement, product or vending machine was the subject-matter of or was used in the commission of the offence notwithstanding that no person may have been convicted of that offence.
 
-(6) All things forfeited or deemed to be forfeited shall be delivered to the Chief Executive and shall be disposed of in accordance with the directions of the Minister.
+(4) In the absence of any prosecution with regard to any advertisement, product or vending machine seized in the exercise of any power conferred by this Act, the advertisement, product or vending machine shall be deemed to be forfeited at the expiration of one month from the date of the seizure unless a claim thereto is made before then in accordance with subsection (5).
+
+(5) A person asserting that he is the owner of any advertisement, product or vending machine seized and that the advertisement, product or vending machine is not liable to forfeiture may personally, or by his agent authorised in writing, make a claim by giving written notice to the Chief Executive.
+
+[4/2001]
+
+(6) On receipt of such notice, the Chief Executive may direct that the advertisement, product or vending machine be released or may refer the matter to a court for decision.
+
+[4/2001]
+
+(7) All things forfeited or deemed to be forfeited shall be delivered to the Chief Executive and shall be disposed of in accordance with the directions of the Minister.
+
+[27
+
+[4/2001]
 
 ### Things seized may be delivered to owner or other person
 
-28\. The Minister may, upon application made to him in writing through the Chief Executive, order any advertisement, product or machine seized in exercise of the powers conferred by this Act, whether forfeited or taken and deemed to be forfeited, to be delivered to the owner or other person entitled thereto upon such terms and conditions as the Minister may consider fit.
+30\. The Minister may, upon application made to him in writing through the Chief Executive, order any advertisement, product or vending machine seized in exercise of the powers conferred by this Act, whether forfeited or taken and deemed to be forfeited, to be delivered to the owner or other person entitled thereto upon such terms and conditions as the Minister may consider fit.
+
+[28
+
+[4/2001]
 
 ### Protection of officers
 
-29\. No person shall be personally liable in respect of any act done by him in the execution or purported execution of this Act and within the scope of his employment if he did it in the honest belief that his duty under this Act required or entitled him to do it.
+31\. No person shall be personally liable in respect of any act done by him in the execution or purported execution of this Act and within the scope of his employment if he did it in the honest belief that his duty under this Act required or entitled him to do it.
+
+[29
 
 ### Forms
 
-30\. The Chief Executive may design and utilise such forms as he may think fit for any of the purposes of this Act or any regulations made thereunder, and may require any person to complete any of the forms for any such purpose.
+32\. The Chief Executive may design and utilise such forms as he may think fit for any of the purposes of this Act, and may require any person to complete any of the forms for any such purpose.
 
-### Jurisdiction of courts
+[30
 
-31\. Any offence under this Act may be tried by a District Court or a Magistrate’s Court and that Court shall, notwithstanding any other written law, have jurisdiction to impose the maximum penalty provided for by this Act.
+[4/2001]
+
+### Jurisdiction of court
+
+33\. Any offence under this Act may be tried by a District Court or a Magistrate’s Court and that Court shall, notwithstanding any other written law, have jurisdiction to impose the maximum penalty provided for by this Act.
+
+[31
 
 ### Composition of offences
 
-32\.—(1) The Chief Executive or any person authorised by the Chief Executive in writing may, in his discretion and subject to such conditions as he considers fit to impose, compound any offence under this Act or any regulations made thereunder which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $2,000.
+34\.—(1) The Chief Executive or any person authorised by the Chief Executive in writing may, in his discretion and subject to such conditions as he considers fit to impose, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $2,000.
+
+[4/2001; 35/2002]
 
 (2) The Minister may make regulations to prescribe the offences which may be compounded.
 
-(3) Where the person reasonably suspected of having committed an offence under this Act or any regulations made thereunder was below the age of 18 years at the time of the alleged offence, a condition that may be imposed under subsection (1) in compounding the offence includes requiring the person and his parents or guardian to attend at such place as the Chief Executive may specify for the purpose of counselling.
+(3) Where the person reasonably suspected of having committed an offence under this Act was below the age of 18 years at the time of the alleged offence, a condition that may be imposed under subsection (1) in compounding the offence includes requiring the person and his parents or guardian to attend at such place as the Chief Executive may specify for the purpose of counselling.
 
-[35/2002 wef 01/05/2003]
+[32
 
-### Fees, charges, etc., collected by the Chief Executive or authorised officer to be paid to Authority
+[35/2002]
 
-32A\.—(1) All fees, charges and other moneys recovered or collected by the Chief Executive or an authorised officer under this Act or any regulations made thereunder (including sums collected for the composition of offences under section 32) shall be paid to the Authority.
+### Fees, charges, etc., collected by Chief Executive or authorised officer to be paid to Authority
 
-(2) In subsection (1), “authorised officer” includes any person authorised by the Chief Executive in writing to compound offences under section 32.
+35\.—(1) All fees, charges and other moneys recovered or collected by the Chief Executive or an authorised officer under this Act (including sums collected for the composition of offences under section 34) shall be paid to the Authority.
 
-[4/2001 wef 01/04/2001]
+[4/2001]
+
+(2) In subsection (1), “authorised officer” includes any person authorised by the Chief Executive in writing to compound offences under section 34.
+
+[32A
+
+[4/2001]
 
 ### Service of summons, notices, etc.
 
-32B\.—(1) Any notice, order, direction or document required or authorised by this Act or any regulations made thereunder to be given or served on any person, and any summons issued by a court in connection with any offence under this Act or any regulations made thereunder, may be served on the person —
+36\.—(1) Any notice, order, direction or document required or authorised by this Act to be given or served on any person, and any summons issued by a court in connection with any offence under this Act, may be served on the person —
 
 (a) by delivering it to him or to some adult member or employee of his family at his last known place of residence;
 
@@ -548,21 +712,21 @@ and shall, where as a result of the test proceedings for an offence under this A
 
 (ii) by sending it by registered post addressed to the body corporate at its registered or principal office.
 
+[35/2002]
+
 (2) Any notice, order, direction, document or summons sent by registered post to any person in accordance with subsection (1) shall be deemed to be duly served on the person at the time when the notice, order, direction, document or summons would, in the ordinary course of post, be delivered and in proving service of the notice, order, direction, document or summons, it shall be sufficient to prove that the envelope containing the same was properly addressed, stamped and posted by registered post.
 
-[35/2002 wef 01/04/2003]
+[32B
+
+[35/2002]
 
 ### Regulations
 
-33\.—(1) The Minister may make such regulations as appear to him necessary or expedient for the purpose of carrying out the provisions of this Act.
+37\.—(1) The Minister may make such regulations as appear to him necessary or expedient for the purpose of carrying out the provisions of this Act.
 
 (2) All such regulations shall be presented to Parliament as soon as possible after publication in theGazette.
 
-### Transitional
-
-34\.—(1) Any authorisation or exemption relating to any matter dealt with under this Act which was made, granted or approved under the repealed Smoking (Prohibition on Advertisements) Act shall, except where otherwise expressly provided in this Act, continue and be deemed to have been made, granted or approved under this Act.
-
-(2) Any form used for the purposes of the repealed Smoking (Prohibition on Advertisements) Act which was in force or in effect immediately before 31st May 1993 shall continue in force and have effect as though designed under this Act until new forms are so designed or determined.
+[33
 
 ## LEGISLATIVE HISTORY
 
@@ -602,3 +766,155 @@ This Legislative History is provided for the convenience of users of the Smoking
 |||(Bill No. 37/2002 published on 2 October 2002)|
 ||Date of Second and Third Readings|31 October 2002|
 ||Date of commencement|1 July 2003 (section 6)|
+|7.|**2003 Revised Edition—Smoking (Control of Advertisements and Sale of Tobacco) Act**|
+||Date of operation|31 July 2003|
+## COMPARATIVE TABLE
+
+Smoking (Control of Advertisements and Sale of Tobacco) Act
+
+(CHAPTER 309)
+
+The following provisions in the 1994 Revised Edition of the Smoking (Control of Advertisements and Sale of Tobacco) Act have been renumbered by the Law Revision Commissioners in this 2003 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Smoking (Control of Advertisements and Sale of Tobacco) Act.
+
+2003 Ed\. 
+
+1994 Ed\. 
+
+3 —(2) and (3)
+
+3 —(2)
+
+(4) and (5)
+
+(3) and (4)
+
+12 
+
+11A 
+
+13 
+
+12 
+
+14 
+
+13 
+
+15 —(1) and (2)
+
+14 —(1) and (2)
+
+(3)
+
+(2A)
+
+—
+
+(4) (Deleted by Act 35/2002)
+
+16 
+
+15 
+
+17 
+
+16 
+
+18 
+
+17 
+
+19 
+
+18 
+
+20 
+
+19 
+
+21 
+
+20 
+
+22 —(1) and (2)
+
+21 
+
+23 
+
+22 
+
+24 
+
+22A 
+
+25 
+
+23 
+
+26 —(1)
+
+24 —(1)
+
+(2) and (3)
+
+(2)
+
+(4) and (5)
+
+(3) and (4)
+
+27 
+
+25 
+
+28 
+
+26 
+
+29 —(1)
+
+27 —(1)
+
+(2) and (3)
+
+(2)
+
+(4) to (7)
+
+(3) to (6)
+
+30 
+
+28 
+
+31 
+
+29 
+
+32 
+
+30 
+
+33 
+
+31 
+
+34 
+
+32 
+
+35 
+
+32A 
+
+36 
+
+32B 
+
+37 
+
+33 
+
