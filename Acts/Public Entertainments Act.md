@@ -398,6 +398,26 @@ Meaning of Public Entertainment
 
 1. In this Schedule —
 
+“ad hoc performance” means any variety act or performance of music, singing or dancing which is provided on one or more occasions within a period not exceeding 3 months;
+
+[S 292/2002 wef 01/07/2002]
+
+“arts entertainment” means any of, or any combination of, the following:
+
+(a) any play, opera, pantomime, puppet-show, ad hoc performance or tableaux;
+
+(b) any display of set pieces, commemorative decorations or representations of real or mythical creatures;
+
+(c) any exhibition of models, reading matter, pictures, photographs or of statuary or other forms of representation of human or animal figures;
+
+(d) any display or exhibition of other still objects or art generally; or
+
+(e) any play-reading, poetry-reading or recital,
+
+in any place to which the public or any class of the public has access whether gratuitously or otherwise;
+
+[S 292/2002 wef 01/07/2002]
+
 “film” means —
 
 (a) any cinematograph film;
@@ -414,9 +434,9 @@ Meaning of Public Entertainment
 
 2. “Public entertainment” includes —
 
-(a) any play, opera, pantomime, variety act, performance of music, singing, dancing, gymnastics, acrobatics and legerdemain, tableaux, demonstration, display or parade;
+(a) any variety act, performance of music, singing, dancing, gymnastics, acrobatics and legerdemain, demonstration, display or parade (other than ad hoc performances);
 
-(b) any display of set pieces, commemorative decorations or representations of real or mythical creatures;
+[S 292/2002 wef 01/07/2002]
 
 (c) any circus or any exhibition of animals;
 
@@ -424,9 +444,7 @@ Meaning of Public Entertainment
 
 (e) any computer games centre;
 
-(f) any exhibition of models, reading matter, pictures, photographs or of statuary or other forms of representation of human or animal figures;
-
-(g) any exhibition of film, or any peep-show or puppet-show;
+(g) any exhibition of film, or any peep-show;
 
 (h) any reproduction or transmission otherwise than in association with a film, by any means other than telephony or radio telephony, of any music, song or speech;
 
@@ -438,7 +456,11 @@ Meaning of Public Entertainment
 
 (l) any organised competition at games of skill or chance;
 
-(m) any play-reading, recital, lecture, talk, address, debate or discussion; or
+(m) any lecture, talk, address, debate or discussion;
+
+(ma) any arts entertainment; or
+
+[S 292/2002 wef 01/07/2002]
 
 (n) any combination of any of the above forms of public entertainment,
 
@@ -594,6 +616,8 @@ This Legislative History is provided for the convenience of users of the Public 
 ||Date of commencement|16 November 2001|
 |10.|**G. N. No. S 671/2001—Public Entertainments and Meetings Act (Amendment of Schedule) (No. 3) Order 2001**|
 ||Date of commencement|1 January 2002|
+|11.|**G. N. No. S 292/2002—Public Entertainments and Meetings Act (Amendment of Schedule) Order 2002**|
+||Date of commencement|1 July 2002|
 ## COMPARATIVE TABLE
 
 Public Entertainments and Meetings Act
