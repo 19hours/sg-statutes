@@ -38,6 +38,10 @@
 
 - [13 Functions and duties of Board](#Functions-and-duties-of-Board)
 
+- [13A Symbol or representation of Board](#Symbol-or-representation-of-Board)
+
+- [13B Use of name, etc., of Board](#Use-of-name-etc-of-Board)
+
 - [14 Power to vary rate of interest payable under mortgage](#Power-to-vary-rate-of-interest-payable-under-mortgage)
 
 - [15 Power to incorporate private companies](#Power-to-incorporate-private-companies)
@@ -118,7 +122,7 @@
 
 - [48 Power to vary terms and conditions](#Power-to-vary-terms-and-conditions)
 
-- [48A Board to be discharged from certain restrictive covenant](#Board-to-be-discharged-from-certain-restrictive-covenant)
+- [48A Board and lessees to be discharged from certain restrictive covenant](#Board-and-lessees-to-be-discharged-from-certain-restrictive-covenant)
 
 - [48B Execution of sale and other instruments by Board on behalf of certain purchasers of flats](#Execution-of-sale-and-other-instruments-by-Board-on-behalf-of-certain-purchasers-of-flats)
 
@@ -222,7 +226,7 @@
 
 - [81 Fines to be paid to Board](#Fines-to-be-paid-to-Board)
 
-- [82 Sanction for prosecution](#Sanction-for-prosecution)
+- [82 (Repealed)](#Repealed)
 
 - [83 Conduct of prosecutions](#Conduct-of-prosecutions)
 
@@ -327,6 +331,8 @@ ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF BOARD
 (3) All deeds, documents and other instruments which relate to the sale, lease, assignment, mortgage or assurance whatsoever of any premises sold under the provisions of this Act may be sealed with the seal of the Board in the presence of any officer of the Board duly authorised by the Board to act in that behalf who shall sign every such deed, document or other instrument to which the seal is affixed, and such signing shall be sufficient evidence that the seal was duly and properly affixed and that it is the lawful seal of the Board.
 
 [13/75]
+
+(4) [Deleted by Act 41/98 wef 20/11/1998 wef 20/11/1998 videS 566/98]
 
 (5) Section 11 of the Registration of Deeds Act (Cap. 269) shall not apply to any instrument purporting to have been executed under subsection (2) or (3).
 
@@ -461,6 +467,36 @@ or any part thereof upon a mortgage of that land;
 (f) to do all such other matters and things as are necessary for the exercise or performance of all or any of the functions and duties of the Board.
 
 [30/84; 16/95]
+
+### Symbol or representation of Board
+
+13A\.—(1) The Board shall have the exclusive right to the use of such symbol or representation as the Board may select or devise and thereafter display or exhibit in connection with its activities or affairs.
+
+(2) Any person who uses a symbol or representation identical with that of the Board, or which so resembles the symbol or representation thereof as to deceive or cause confusion, or to be likely to deceive or cause confusion, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[21/2000 wef 01/07/2000]
+
+### Use of name, etc., of Board
+
+13B\.—(1) The Board may conduct its operations under its full name or under the acronym HDB.
+
+(2) A person other than the Board shall not —
+
+(a) use in connection with a business, trade, profession or occupation;
+
+(b) use as the name, or as part of the name, of any firm, body corporate or institution; or
+
+(c) use in relation to —
+
+(i) services or products; or
+
+(ii) the promotion, by any means, of the supply of services or products,
+
+the name of the Board or the acronym HDB, or a name or acronym so closely resembling the name of the Board or the acronym HDB, as to be likely to be mistaken for it.
+
+(3) Any person who contravenes or fails to comply with subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[21/2000 wef 01/07/2000]
 
 ### Power to vary rate of interest payable under mortgage
 
@@ -1026,17 +1062,27 @@ SALE OF FLATS, HOUSES OR OTHER BUILDINGS
 
 [21/86]
 
-### Board to be discharged from certain restrictive covenant
+### Board and lessees to be discharged from certain restrictive covenant
 
-48A\.—(1) Notwithstanding the provisions of any written law and any lease of a flat comprised in a designated building, the Board shall be discharged from the covenant in that lease requiring the Board to grant a lease of any other flat comprised in the designated building subject to restrictions or prohibitions as to the use of that other flat —
+48A\.—(1) Notwithstanding the provisions of any written law, every lessee of any flat comprised in any designated building and the Board shall be discharged, respectively, from the following covenant:
 
-(a) for any trade, business, manufacture or commercial purpose; or
+(a) in the case of a lessee, from any covenant in the lease —
 
-(b) which would impede the reasonable use of that other flat for any commercial purpose.
+(i) restricting or prohibiting the use of the flat for any trade, business, manufacture or commercial purpose;
 
-[19/92]
+(ii) prohibiting the erection or putting up of any signboard, advertisement, billboard or other sign on the exterior of the flat; or
 
-(2) No proceedings shall be instituted in any court by any person entitled (whether before or after 1st April 1992) to the benefit of the covenantreferred to in subsection (1) to recover any loss or disadvantage suffered by that person in consequence of the discharge of that covenant.
+(iii) which would impede the reasonable use of that flat for any commercial purpose; and
+
+(b) in the case of the Board, from any covenant in the lease requiring the Board —
+
+(i) to grant any lease of any other flat comprised in that designated building subject to any covenant referred to in paragraph (a)(i), (ii) or (iii); or
+
+(ii) to enforce any covenant referred to in paragraph (a)(i), (ii) or (iii) on behalf of any lessee of any flat comprised in that designated building.
+
+[21/2000 wef 01/07/2000]
+
+(2) No proceedings shall be instituted in any court by any person entitled (whether before or after 1st April 1992) to the benefit of any covenant referred to in subsection (1) to recover any loss or disadvantage suffered by that person in consequence of the discharge of that covenant.
 
 [19/92]
 
@@ -1426,7 +1472,7 @@ the Board shall apply to the High Court ex parte by originating summons, support
 
 ### Giving false information
 
-60\. Any person who, in relation to the purchase by such person of a flat, house or other living accommodation, makes any statement to the Board which is false, and which he either knows or believes to be false or does not believe to be true, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+60\. Any person who, in relation to the purchase, mortgage, sale or transfer by such person or any other person of a flat, house or other living accommodation, makes any statement to the Board which is false, and which he either knows or believes to be false or does not believe to be true, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
 
 [21/86]
 
@@ -1500,15 +1546,25 @@ UPGRADING WORKS IN PRECINCTS
 
 “flat” does not include such property as may be prescribed;
 
-“general upgrading works” means any upgrading works to be carried out in a precinct other than specified upgrading works ;
+“general upgrading works” means any upgrading works to be carried out in a precinct other than specified upgrading works and special upgrading works;
 
-“improvement contribution” means the costs in respect of general upgrading works or specified upgrading works recoverable by the Board from the owner of a flat or a Town Council under section 65D(2);
+“improvement contribution” means the costs in respect of general upgrading works, specified upgrading works or special upgrading works recoverable by the Board from the owner of a flat or a Town Council under section 65D(2) or (2A), as the case may be;
+
+[21/2000 wef 01/07/2000]
 
 “precinct” means a precinct declared by the Minister under section 65B;
 
 “residential flat” means a flat which is permitted to be used pursuant to the Planning Act (Cap. 232) or any other written law wholly for the purpose of human habitation, and “non-residential flat” means any flat other than a residential flat;
 
-“specified upgrading works” means such items of upgrading works as specified by the Board to be carried out in a building or part thereof within a precinct ;
+“special upgrading works” means —
+
+(a) any items of work necessary or ancillary to installing any lift or additional lift in a building or part thereof within a precinct; or
+
+(b) such other items of upgrading works prescribed by the Minister, being works to be carried out in a building comprising 2 or more storeys or part thereof (other than any part comprised in a flat) within a precinct for the erection, construction or installation of functional facilities for the convenience of residents of that building in general or a section thereof;
+
+[21/2000 wef 01/07/2000]
+
+“specified upgrading works” means such items of upgrading works as specified by the Board to be carried out in a building or part thereof within a precinct but excludes any special upgrading works;
 
 “Town Council” means a Town Council established under the Town Councils Act (Cap. 329A);
 
@@ -1536,11 +1592,15 @@ UPGRADING WORKS IN PRECINCTS
 
 65C\.—(1) Where a precinct has been declared under section 65B, the Board shall as soon as practicable —
 
-(a) make arrangements to conduct in the manner prescribed a poll of such owners of the flats within the precinct as may be prescribed with a view to establishing their opinions about the proposals to carry out general upgrading works and specified upgrading works, if any; and
+(a) make arrangements to conduct in the manner prescribed a poll of such owners of the flats within the precinct as may be prescribed with a view to establishing their opinions about the proposals to carry out general upgrading works and (if any) specified upgrading works and special upgrading works; and
 
 (b) do such other things as the Minister may direct.
 
 [19/92]
+
+(1A) A poll conducted in connection with any proposal to carry out special upgrading works in any building in a precinct shall be a poll of such owners of such flats within the building as may be prescribed, being flats the occupants of which directly benefit from the special upgrading works.
+
+[21/2000 wef 01/07/2000]
 
 (2) The Board may, with the approval of the Minister, carry out general upgrading works within a precinct if it appears from a poll conducted under subsection (1)(a) of the prescribed owners of flats within the precinct that 75% or more of the total value in votes of all prescribed owners of all flats within the precinct have been cast in favour of the proposal to carry out those upgrading works.
 
@@ -1568,6 +1628,10 @@ the Board may, with the further approval of the Minister, carry out those specif
 
 [16/95]
 
+(5A) Where it appears from a poll conducted under subsection (1A) that 75% or more of the total value in votes of such owners of flats within a building in a precinct as are referred to in that subsection have been cast in favour of any proposal to carry out special upgrading works in the building, the Board may, with the approval of the Minister, carry out those special upgrading works in that building within that precinct.
+
+[21/2000 wef 01/07/2000]
+
 (6) No poll shall be invalid by reason of any failure to comply with any provision of this Part or any rules made thereunder relating to the conduct of a poll if it appears that the poll was conducted in accordance with the principles laid down in that provision, and that the failure did not affect the result of the poll.
 
 [16/95]
@@ -1582,7 +1646,7 @@ the Board may, with the further approval of the Minister, carry out those specif
 
 ### Power to carry out upgrading works and to recover contribution
 
-65D\.—(1) As soon as practicable after the Minister has given his approval under section 65C(2) or (3), the Board shall carry out the general upgrading works and where applicable the specified upgrading works in the precinct in such manner as the Board thinks fit.
+65D\.—(1) As soon as practicable after the Minister has given his approval under section 65C(2), (3) or (5A), the Board shall carry out the general upgrading works and where applicable the specified upgrading works or special upgrading works in the precinct in such manner as the Board thinks fit.
 
 [19/92]
 
@@ -1594,7 +1658,15 @@ the Board may, with the further approval of the Minister, carry out those specif
 
 [19/92]
 
-(3) The amount of improvement contribution payable by the owner of a flat and a Town Council under subsection (2) shall be determined by the Board whose decision shall be final.
+(2A) Where the Board has completed any special upgrading works in a building in a precinct under this section, the Board may recover the costs incurred by the Board in respect of the special upgrading works from —
+
+(a) every owner of such flats in the building as are referred to in section 65C(1A); and
+
+(b) the Town Council responsible for the maintenance of the common property comprised in the building if the special upgrading works have been carried out on such common property.
+
+[21/2000 wef 01/07/2000]
+
+(3) The amount of improvement contribution payable by the owner of a flat and a Town Council under subsection (2) or (2A) shall be determined by the Board whose decision shall be final.
 
 [19/92]
 
@@ -2078,13 +2150,7 @@ to whom the Board has delegated any of its powers under section 29(4) who reason
 
 [80
 
-### Sanction for prosecution
-
-82\. No court shall take cognizance of any offence under this Act or any rules made thereunder except with the sanction of the Public Prosecutor.
-
-[81
-
-[13/75]
+82\. [Repealed by Act 21/2000 wef 01/07/2000]
 
 ### Conduct of prosecutions
 
@@ -4772,3 +4838,8 @@ This Legislative History is provided for the convenience of users of the Housing
 |||(Bill No. 39/98 published on 5 September 1998)|
 ||Date of Second and Third Readings|12 October 1998|
 ||Date of commencement|20 November 1998|
+|27.|**Act 21 of 2000—Housing and Development (Amendment) Act 2000**|
+||Date of First Reading|9 May 2000|
+|||(Bill No. 16/2000 published on 10 May 2000)|
+||Date of Second and Third Readings|23 May 2000|
+||Date of commencement|1 July 2000|
