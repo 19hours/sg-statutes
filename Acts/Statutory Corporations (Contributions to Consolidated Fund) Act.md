@@ -357,9 +357,14 @@ Nurses and Midwives Act
 
 Pharmacists Registration Act (Chapter 230)
 
-34. Preservation of Monuments Board
+34. Singapore Labour Foundation
 
-Presevation of Monuments Act (Chapter 239)
+Singapore Labour Foundation Act
+
+
+
+
+(Chapter 302)
 
 35. Professional Engineers Board
 
@@ -406,6 +411,10 @@ Singapore Workforce Development Agency Act 2003 (Act 14 of 2003).
 [S 143/2003 wef 01/04/2003]
 
 [3/2004 wef 01/04/2004]
+
+[S 143/2003 wef 01/04/2003]
+
+[S 410/2004 wef 01/07/2004]
 
 [S 143/2003 wef 01/04/2003]
 
@@ -485,6 +494,8 @@ This Legislative History is provided for the convenience of users of the Statuto
 |||(Bill No. 1/2004 published on 6 January 2004)|
 ||Date of Second and Third Readings|6 February 2004|
 ||Date of commencement|1 April 2004|
+|21.|**G. N. No. S 410/2004—Statutory Corporations (Contributions to Consolidated Fund) Act (Amendment of Schedule) Order 2004**|
+||Date of commencement|1 July 2004|
 ## COMPARATIVE TABLE
 
 Statutory Corporations (Contributions to Consolidated Fund) Act
