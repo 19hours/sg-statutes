@@ -1429,3 +1429,8 @@ This Legislative History is provided for the convenience of users of the Preside
 ||Date of commencement|29 June 1991 (published date)|
 |2.|**1992 Revised Edition—Presidential Elections Act (Chapter 240A)**|
 ||Date of operation|9 March 1992|
+|3.|**Act 27 of 1991—Presidential Elections Act 1991**|
+||Date of First Reading|28 June 1991|
+|||(Bill No. 21/1991 published on 29 June 1991)|
+||Date of Second and Third Readings|29 July 1991|
+||Date of commencement|2 November 1992|
