@@ -58,9 +58,9 @@ An Act to provide for reclamations and to validate and facilitate leases or gran
 
 “port” means any port or place declared to be a port under the Maritime and Port Authority of Singapore Act 1996, and includes all such navigable rivers and channels leading thereto as are declared to be part thereof;
 
-[7/1996 wef 02/02/1996]
-
 “works” means any of the works and things mentioned in section 4.
+
+[7/96 wef 02/02/1996]
 
 ### Restriction on construction of sea and river walls and buildings on banks of any port, river or channel
 
@@ -78,7 +78,7 @@ An Act to provide for reclamations and to validate and facilitate leases or gran
 
 (5) Any building or construction built or erected in contravention of this section may be removed by order of the Minister, and the cost of its removal shall be recoverable as a Government debt from the person building or erecting it.
 
-(6) This section shall not apply to any property held by the Port of Singapore Authority or any other statutory body as the Minister may, by notification in theGazette, appoint.
+(6) This section shall not apply to any property held by the Maritime and Port Authority of Singapore or any other statutory body as the Minister may, by notification in theGazette, appoint.
 
 [28/74]
 
@@ -156,7 +156,7 @@ Saving of rights of State
 
 10\.—(1) It shall be lawful to grant licences for the temporary occupation for any period not exceeding one year of the foreshore and sea-bed in Singapore or in any tidal river or channel therein.
 
-(2) The power to grant such licences shall be exercisable by the Commissioner of Lands or by a Collector of Land Revenue deputed by him in that behalf, and all such licences shall be in all respects subject, with the necessary verbal variations, to the rules applicable from time to time to licences granted under the provisions of the State Lands Act [Cap. 314] for the temporary occupation of State land:
+(2) The power to grant such licences shall be exercisable by the Commissioner of Lands or by a Collector of Land Revenue deputed by him in that behalf, and all such licences shall be in all respects subject, with the necessary verbal variations, to the rules applicable from time to time to licences granted under the provisions of the State Lands Act (Cap. 314) for the temporary occupation of State land:
 
 Provided that no licence granted under this section shall be renewed if it is made to appear to the Minister that the licence creates a substantial infringement of public rights.
 
@@ -255,3 +255,9 @@ This Legislative History is provided for the convenience of users of the Foresho
 |||(Bill No. 46/1995 published on 6 December 1995)|
 ||Date of Second and Third Readings|18 January 1996|
 ||Date of commencement|2 February 1996|
+|26.|**Act 6 of 1997—Port of Singapore Authority (Dissolution) Act 1997**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|11 July 1997|
+|||(Bill No. 5/1997 published on 19 September 1997)|
+||Date of Second and Third Readings|25 August 1997|
+||Date of commencement|1 October 1997|
