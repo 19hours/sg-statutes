@@ -68,7 +68,7 @@
 
 - [26 Application of moneys](#Application-of-moneys)
 
-- [27 Investment](#Investment)
+- [27 Power of investment](#Power-of-investment)
 
 - [28 Accounts](#Accounts)
 
@@ -444,13 +444,11 @@ FINANCIAL PROVISIONS
 
 26\. The moneys of the Agency shall be applied only in payment or discharge of the expenses, obligations and liabilities of the Agency and in making any payment that the Agency is authorised or required to make.
 
-### Investment
+### Power of investment
 
-27\. Moneys belonging to the Agency may, from time to time, with the approval of the Minister, be invested in —
+27\. The Agency may invest its moneys in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
 
-(a) the shares of any private or public company; or
-
-(b) any of the securities in which trust funds may, by any written law for the time being in force relating to trustees, be invested.
+[45/2004 wef 15/12/2004]
 
 ### Accounts
 
@@ -757,6 +755,12 @@ This Legislative History is provided for the convenience of users of the Nationa
 ||Date of commencement|1 April 2003|
 |3.|**2003 Revised Edition—National Environment Agency Act**|
 ||Date of operation|31 July 2003|
+|4.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 September 2004|
+|||(Bill No. 43/2004 published on 22 September 2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|15 December 2004|
 ## COMPARATIVE TABLE
 
 National Environment Agency Act
