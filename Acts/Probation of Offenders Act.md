@@ -256,7 +256,7 @@ Provided that a magistrate shall not issue such a warrant except on information 
 
 ### Supplementary provisions as to probation and discharge
 
-10\.—(1) Without prejudice to section 59(1)(d) of the Children and Young Persons Act [Cap. 38] (which enables a court to order the parent or guardian of a child or young person charged with an offence to give security for his good behaviour), any court may, on making a probation order or an order for conditional discharge under this Act, if it thinks it expedient for the purpose of the reformation of the offender, allow any person who consents to do so to give security for the good behaviour of the offender.
+10\.—(1) Without prejudice to section 44(1)(d) of the Children and Young Persons Act [Cap. 38] (which enables a court to order the parent or guardian of a child or young person charged with an offence to give security for his good behaviour), any court may, on making a probation order or an order for conditional discharge under this Act, if it thinks it expedient for the purpose of the reformation of the offender, allow any person who consents to do so to give security for the good behaviour of the offender.
 
 (2) A court, on making a probation order or an order for conditional discharge or on discharging an offender absolutely under this Act, may, without prejudice to its power of awarding costs against him, order the offender to pay such damage for injury or compensation for loss as the court thinks reasonable; but, in the case of an order made by a Magistrate’s Court, the damages and compensation together shall not exceed $500.
 
@@ -354,3 +354,9 @@ This Legislative History is provided for the convenience of users of the Probati
 |||(Bill No. 25/1993 published on 31 August 1993)|
 ||Date of Second and Third Readings|10 November 1993|
 ||Date of commencement|6 December 1993|
+|11.|**Act 20 of 2001—Children and Young Persons (Amendment) Act 2001**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|22 February 2001|
+|||(Bill No. 12/2001 published on 23 February 2001)|
+||Date of Second and Third Readings|20 April 2001|
+||Date of commencement|1 October 2001|
