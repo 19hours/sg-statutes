@@ -658,6 +658,8 @@ Aprobarbitone
 
 Aprotinin
 
+Aristolochic acids; their salts
+
 Arotinolol; its salts
 
 Arsenical substances the following, except those specified in Part II; halides of arsenic; arsenates; organic compounds of arsenic; which are intended for the treatment of human ailments
@@ -4137,6 +4139,8 @@ This Legislative History is provided for the convenience of users of the Poisons
 ||Date of commencement|1 July 2001|
 |59.|**G. N. No. S 474/2002—Poisons Act (Amendment of Schedule) Notification 2002**|
 ||Date of commencement|16 September 2002|
+|60.|**G. N. No. S 622/2003—Poisons Act (Amendment of Schedule) Notification 2003**|
+||Date of commencement|1 January 2004|
 ## COMPARATIVE TABLE
 
 Poisons Act
