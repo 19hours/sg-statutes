@@ -164,7 +164,7 @@ $1,779,000
 
 (b) Entertainment allowance
 
-$ 84,000
+$ 100,800
 
 (c) Acting President’s allowance
 
@@ -174,19 +174,19 @@ Class II
 
 Salaries of personal staff
 
-$3,378,400
+$2,404,700
 
 Class III
 
 Expenses of household
 
-$ 819,000
+$ 841,300
 
 Class IV
 
 Special services
 
-$ 226,000
+$ 17,000
 
 ## LEGISLATIVE HISTORY
 
@@ -273,3 +273,5 @@ This Legislative History is provided for the convenience of users of the Civil L
 ||Date of commencement|11 July 1997|
 |30.|**1997 Revised Edition—Civil List and Pension Act**|
 ||Date of operation|20 December 1997|
+|31.|**G. N. No. S 246/98—Parliamentary Resolution**|
+||Date of commencement|27 February 1998|
