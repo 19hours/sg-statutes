@@ -1334,7 +1334,7 @@ its tax relief period —
 
 ### Export to be in accordance with regulations and conditions
 
-36\. No export product or export produce shall be exported by an export enterprise except in accordance with such regulations as are prescribed and under such conditions as may be approved by the Comptroller or delegated by him to the Trade Development Board or the Director-General of Customs and Excise for approval.
+36\. No export product or export produce shall be exported by an export enterprise except in accordance with such regulations as are prescribed and under such conditions as may be approved by the Comptroller or delegated by him to the Trade Development Board or the Director-General of Customs for approval.
 
 ### Computation of export profits
 
@@ -3448,6 +3448,12 @@ This Legislative History is provided for the convenience of users of the Economi
 |||(Bill No. 7/2004 published on 28 February 2004)|
 ||Date of Second and Third Readings|20 April 2004|
 ||Date of commencement|1 March 2003|
+|28.|**Act 4 of 2003—Customs (Amendment) Act 2003**|
+||(Consequential amendments made by)||
+||Date of First Reading|10 March 2003|
+|||(Bill No. 6/2003 published on 11 March 2003)|
+||Date of Second and Third Readings|21 March 2003|
+||Date of commencement|1 April 2003|
 ## COMPARATIVE TABLE
 
 Economic Expansion Incentives (Relief from Income Tax) Act
