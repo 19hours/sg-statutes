@@ -1682,8 +1682,6 @@ or for either of those purposes and for other purposes, shall be deemed —
 
 (iii) to have reported a profit as mentioned in sub-paragraph (1)(d) in the financial year in which such a profit has been so reported by the other company or each of the other companies, as the case may be.
 
-[S 316/2000 wef 05/07/2000]
-
 (3) For the purposes of sub-paragraph (1)(a) and (c), the issued and paid-up share capital and the shareholders equity shall, if they are in a currency other than Singapore currency, be converted into Singapore currency at a rate of exchange certified by a bank licensed under the Banking Act (Cap. 19) to be appropriate on the day the trustee exercises his power to invest in such securities.
 
 [S 316/2000 wef 05/07/2000]
@@ -1712,7 +1710,7 @@ Part V
 
 2. In relation to the investments specified in paragraph 4 of Part II, proper advice for the purposes of section 5(2) means advice given by an appraiser who is —
 
-(a) licensed under the Auctioneer Licences Act (Cap. 16) to value or appraise land; and
+(a) licensed under the Appraisers and House Agents Act (Cap. 16) to value or appraise land; and
 
 [22/2000 wef 01/08/2000]
 
@@ -1854,6 +1852,12 @@ This Legislative History is provided for the convenience of users of the Trustee
 ||Date of operation|1 August 1999|
 |19.|**G. N. No. S 316/2000—Revised Edition of the Laws (Trustees Act) (Rectification) Order 2000**|
 ||Date of commencement|5 July 2000|
+|20.|**Act 22 of 2000—Auctioneers’ Licences (Amendment) Act 2000**|
+||(Consequential amendments made by)||
+||Date of First Reading|22 May 2000|
+|||(Bill No. 17/2000 published on 23 May 2000)|
+||Date of Second and Third Readings|3 July 2000|
+||Date of commencement|1 August 2000|
 ## COMPARATIVE TABLE
 
 Trustees Act
