@@ -34,7 +34,7 @@
 
 - [11 Employment of unregistered professional engineer prohibited](#Employment-of-unregistered-professional-engineer-prohibited)
 
-- [12 Establishment for massage deemed to be public place](#Establishment-for-massage-deemed-to-be-public-place)
+- [12 Remuneration for professional engineering services](#Remuneration-for-professional-engineering-services)
 
 - [13 Minor building works](#Minor-building-works)
 
@@ -128,7 +128,7 @@ REVISED EDITION 1992
 
 (9th March 1992)
 
-An Act for the licensing and control of establishments for massage or special treatment.
+An Act to establish the Professional Engineers Board, to provide for the registration of professional engineers, to regulate the qualifications and conduct of professional engineers and to regulate corporations which supply professional engineering services in Singapore.
 
 [30th August 1991]
 
@@ -396,11 +396,9 @@ Provided that nothing in this subsection shall apply to prevent a corporation th
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 and, in the case of a second or subsequent offence, to a fine not exceeding $5,000.
 
-### Establishment for massage deemed to be public place
+### Remuneration for professional engineering services
 
-12\. For the purposes of section 14(1) of the Liquor Control (Supply and Consumption) Act 2015, every establishment for massage shall be deemed to be a public place.
-
-[Act 5 of 2015 wef 01/04/2015]
+12\. Subject to the provisions of this Act, no person shall be entitled to recover in any court any charge, fee or remuneration for any professional engineering services rendered in Singapore unless the person rendering such services is authorised by this Act to supply those services.
 
 ### Minor building works
 
@@ -970,7 +968,7 @@ Professional Engineers Act
 
 (CHAPTER 253)
 
-This Legislative History is provided for the convenience of users of the Massage Establishments Act. It is not part of the Act.
+This Legislative History is provided for the convenience of users of the Professional Engineers Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -987,3 +985,10 @@ This Legislative History is provided for the convenience of users of the Massage
 |||(Bill No. 35/1994 published on 6 December 1994)|
 ||Date of Second and Third Readings|23 January 1995|
 ||Date of commencement|1 April 1995|
+|4.|**Act 15 of 1995—Bankruptcy Act 1995**|
+||(Consequential amendments made by)||
+||Date of First Reading|25 July 1994|
+|||(Bill No. 16/1994 published on 29 July 1994)|
+||Date of Second Reading|25 August 1994|
+||Date of Third reading|23 March 1995|
+||Date of commencement|15 July 1995|
