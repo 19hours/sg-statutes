@@ -1227,6 +1227,16 @@ University of Edinburgh
 
 University of Glasgow
 
+
+
+
+University of Oxford
+
+
+
+
+University of London —
+
 MBBChir
 
 
@@ -1239,47 +1249,30 @@ MBChB
 
 MBChB
 
-University of London —
 
-Charing Cross & Westminster Medical School
 
-MBBS
-
-King’s College School of Medicine & Dentistry
-
-MBBS
-
-The London Hospital Medical College
-
-MBBS
-
-Royal Free Hospital School of Medicine
-
-MBBS
-
-St. Bartholomew’s Hospital Medical College
-
-MBBS
-
-St. George’s Hospital Medical College
-
-MBBS
-
-St. Mary’s Hospital Medical School
-
-MBBS
-
-United Medical and Dental Schools of Guy’s & St. Thomas’s Hospitals
-
-MBBS
-
-University College London Medical School
-
-MBBS
-
-University of Oxford
 
 BMBCh
+
+(a) Imperial College School of Medicine
+
+MBBS
+
+(b) The Guy’s, King’s and St Thomas’s School of Medicine
+
+MBBS
+
+(c) St Bartholomew’s and the Royal London School of Medicine and Dentistry under the name of Queen Mary and Westfield College
+
+MBBS
+
+(d) Royal Free and University College Medical School
+
+MBBS
+
+(e) St George’s Hospital Medical College
+
+MBBS
 
 United States of America
 
@@ -1327,6 +1320,8 @@ Yale University
 
 MD
 
+[S 536/2001 wef 26/10/2001]
+
 ## LEGISLATIVE HISTORY
 
 Medical Registration Act
@@ -1349,3 +1344,5 @@ This Legislative History is provided for the convenience of users of the Medical
 |||(Bill No. 22/2000 published on 26 August 2000)|
 ||Date of Second and Third Readings|9 October 2000|
 ||Date of commencement|1 November 2000|
+|4.|**G. N. No. S 536/2001—Medical Registration Act (Amendment of Schedule) Order 2001**|
+||Date of commencement|26 October 2001|
