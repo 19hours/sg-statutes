@@ -322,11 +322,9 @@ Provided that sections 125 and 126 of the Evidence Act [Cap. 97] shall not be ap
 
 [23/86]
 
-(2) If, on the report of the select committee to which a matter has been referred under subsection (1)(b) —
+(2) If, on the report of the select committee to which a matter has been referred under subsection (1)(b), Parliament is satisfied that any person is guilty of any offence mentioned in section 20, Parliament may inflict upon such person all or any of the punishments provided in section 20 and also in the case of a Member expel him.
 
-(a) Parliament is satisfied that any person is guilty of any offence mentioned in section 20, Parliament may inflict upon such person all or any of the punishments provided in section 20 and also in the case of a Member expel him; or
-
-(b) it appears to Parliament that any person may have committed any offence mentioned in Part V, Parliament may follow the procedure prescribed in subsection (1)(c).
+[40/98 wef 01/12/1998]
 
 (3) Notwithstanding subsection (1) and the Standing Orders if it appears to the Speaker that any Member or stranger has committed any contempt in the view of Parliament or a committee, the Speaker may deal with the matter summarily and, if satisfied that the Member or stranger is guilty of the contempt, inflict all or any of the punishments provided in section 20, and such decision of the Speaker shall take immediate effect but Parliament may by resolution annul or vary the decision.
 
@@ -346,7 +344,7 @@ Provided that in the event of the prorogation or dissolution of Parliament, Parl
 
 23\.—(1) Any fine imposed by Parliament under the provisions of this Act shall be paid into the Consolidated Fund.
 
-(2) The Attorney-General may sue for and recover in any civil court of competent jurisdiction any such fine as though the fine were a debt due to the Government, and any sums recovered shall be paid into the Consolidated Fund.
+(2) The Attorney-General may recover in any civil court of competent jurisdiction any such fine as though the fine were a judgment debt due to the Government, and any sums recovered shall be paid into the Consolidated Fund.
 
 ### Power to order the attendance of offenders
 
@@ -544,3 +542,8 @@ This Legislative History is provided for the convenience of users of the Parliam
 ||Date of commencement|6 September 1986|
 |4.|**1985 Revised Edition—Parliament (Privileges, Immunities and Powers) Act**|
 ||Date of operation|30 March 1987|
+|5.|**Act 40 of 1998—Parliament (Privileges, Immunities and Powers) (Amendment) Act 1998**|
+||Date of First Reading|4 September 1998|
+|||(Bill No. 37/1998 published on 5 September 1998)|
+||Date of Second and Third Readings|12 October 1998|
+||Date of commencement|1 December 1998|
