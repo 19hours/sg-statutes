@@ -8351,6 +8351,11 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 25/2001 published on 12 July 2001)|
 ||Date of Second and Third Readings|25 July 2001|
 ||Date of commencement|1 October 2000 (Section 8(b))|
+|143.|**Act 24 of 2001—Income Tax (Amendment) Act 2001**|
+||Date of First Reading|11 July 2001|
+|||(Bill No. 25/2001 published on 12 July 2001)|
+||Date of Second and Third Readings|25 July 2001|
+||Date of commencement|31 January 2001|
 ## COMPARATIVE TABLE
 
 Income Tax Act
