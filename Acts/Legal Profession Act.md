@@ -70,9 +70,17 @@
 
 - [25 Practising certificates](#Practising-certificates)
 
+- [25A Power of Attorney-General, Registrar and Council with respect to issue of practising certificates in certain circumstances](#Power-of-Attorney-General-Registrar-and-Council-with-respect-to-issue-of-practising-certificates-in-certain-circumstances)
+
+- [25B Appeals in connection with issue of practising certificates](#Appeals-in-connection-with-issue-of-practising-certificates)
+
 - [26 Disqualification for practising certificate](#Disqualification-for-practising-certificate)
 
 - [27 Register of practitioners](#Register-of-practitioners)
+
+- [27A Imposition of conditions while practising certificates are in force](#Imposition-of-conditions-while-practising-certificates-are-in-force)
+
+- [27B Referral to Disciplinary Committee and suspension of practising certificates](#Referral-to-Disciplinary-Committee-and-suspension-of-practising-certificates)
 
 - [28 Cancellation of practising certificates](#Cancellation-of-practising-certificates)
 
@@ -144,7 +152,7 @@
 
 [**Officers**](#Officers)
 
-- [56 President and Vice-President](#President-and-Vice-President)
+- [56 President, Vice-Presidents and Treasurer](#President-Vice-Presidents-and-Treasurer)
 
 - [57 When members of Council to vacate office](#When-members-of-Council-to-vacate-office)
 
@@ -193,6 +201,12 @@
 - [75 Compensation fund](#Compensation-fund)
 
 - [75A Professional indemnity](#Professional-indemnity)
+
+- [75B Redress for inadequate professional services](#Redress-for-inadequate-professional-services)
+
+- [75C Qualification to practise as sole proprietor or in partnership](#Qualification-to-practise-as-sole-proprietor-or-in-partnership)
+
+- [75D Qualification to use title of consultant](#Qualification-to-use-title-of-consultant)
 
 - [76 Solicitors who are commissioners for oaths or notaries public](#Solicitors-who-are-commissioners-for-oaths-or-notaries-public)
 
@@ -334,7 +348,9 @@
 
 - [137 Income tax exemption](#Income-tax-exemption)
 
-[**THE SCHEDULE Intervention in solicitor’s practice**](#THE-SCHEDULE)
+[**FIRST SCHEDULE Intervention in Solicitor’s Practice**](#FIRST-SCHEDULE-Intervention-in-Solicitor’s-Practice)
+
+[**SECOND SCHEDULE Inadequate Professional Services**](#SECOND-SCHEDULE-Inadequate-Professional-Services)
 
 [**Legislative History**](#Legislative-History)
 
@@ -444,7 +460,17 @@ PRELIMINARY
 
 (e) include such incidental, supplementary or transitional provisions as may be necessary or expedient.
 
-[17/84; 30/86; 15/89; 16/93; 41/93]
+[41/93]
+
+[17/84]
+
+[30/86]
+
+[15/89]
+
+[16/93]
+
+[41/93]
 
 ## PART II
 
@@ -624,13 +650,25 @@ Qualified persons
 
 (b) with any legal officer in Singapore who is an advocate and solicitor of not less than 5 years’ standing who for 5 out of the 7 years immediately preceding the relevant date has been a legal officer or has been in active practice in Singapore or both;
 
-(c) partly with an advocate and solicitor under paragraph (a) or (c) and partly with a legal officer under paragraph (b).
+[40/96]
 
-(2) In any case where subsection (1)(b) or (c) applies, 6 months’ pupillage with a legal officer shall count as one month’s period of pupillage with an advocate and solicitor.
+(c) with an advocate and solicitor who has at any time held office as the Attorney-General or as a judge of the Supreme Court; or
+
+[40/96]
+
+(d) partly with an Advocate and solicitor under paragraph (a) or (c) and partly with a legal officer under paragraph (b).;
+
+[40/96]
+
+(2) In any case where subsection (1)(b) or (d) applies, 6 months’ pupillage with a legal officer shall count as one month’s period of pupillage with an advocate and solicitor.
 
 [41/93]
 
-(3) For the purposes of this section and section 13(4) and (5), “legal officer” includes a legal officer of the Inland Revenue Authority of Singapore.
+[40/96]
+
+(3) For the purposes of this section and section 13(4) and (5),
+
+“legal officer” includes a legal officer of the Inland Revenue Authority of Singapore.
 
 [41/93]
 
@@ -647,6 +685,8 @@ Qualified persons
 (d) has attended such course of instruction and successfully passed such examination as may be approved by the Board for the purposes of this section.
 
 [15/89]
+
+[10/91]
 
 ### Admission of Malayan practitioners
 
@@ -678,7 +718,9 @@ Qualified persons
 
 (7) Subsection (1) shall cease to have effect from 1st January 1995, and no Hong Kong practitioner shall be admitted as an advocate and solicitor under that subsection unless he has filed his petition for admission before that date.
 
-[17/84; 41/93]
+[41/93]
+
+[17/84]
 
 ### Petitions for admission under sections 11 (1) and 15 (1)
 
@@ -745,6 +787,10 @@ Qualified persons
 (b) does not ordinarily reside in Singapore or Malaysia but who has come or intends to come to Singapore for the purpose of appearing in the case; and
 
 (c) has special qualifications or experience for the purpose of the case.
+
+(1A) The court shall not admit a person under this section in any criminal case unless the court is satisfied that there is a special reason to do so.
+
+[Act 40/96 wef 01/01/1997]
 
 (2) Any person applying to be admitted under this section shall do so by originating motion verified by an affidavit of the applicant or of the advocate and solicitor instructing him stating the names of the parties and brief particulars of the case in which the applicant intends to appear and the originating motion and affidavit or affidavits shall be served on the Attorney-General, the Society and the other party or parties to the case and at the time of the service the applicant shall pay the prescribed fee to the Attorney-General and the Society for their costs incurred in the application.
 
@@ -832,19 +878,35 @@ PRACTISING CERTIFICATES
 
 (i) he is not in arrears in respect of any contribution to the Compensation Fund, subscription or levy lawfully due to the Society under the provisions of this Act;
 
-(ii) he has paid all the contributions and subscriptions payable prior to the issue of a practising certificate pursuant to sections 46 and 75; and
+(ii) he has paid all the contributions and subscriptions payable prior to the issue of a practising certificate pursuant to sections 46 and 75;
+
+[Act 40/96 wef 01/01/1997]
 
 (iii) he has complied with or is exempt from the rules relating to professional indemnity made under section 75A;
+
+(iv) if he has been ordered by the Council to pay any penalty under part VII, he has paid the penalty;
+
+[Act 40/96 wef 01/01/1997]
+
+(ba) a certificate from the Academy that he has paid all moneys, contributions and subscriptions payable by him under the Singapore Academy of Law Act and any rules made thereunder;
+
+[Act 40/96 wef 01/01/1997]
+
+[Cap 294A.]
 
 (c) an accountant’s report pursuant to section 73 or a certificate from the Council that owing to the circumstances of his case such a report is unnecessary; and
 
 (d) the prescribed fee,
 
-and the Registrar shall thereupon issue to the solicitor a practising certificate authorising him to practise as an advocate and solicitor in Singapore.
+and the Registrar shall, subject to sections 25A and 25B, thereupon issue to the solicitor a practising certificate authorising him to practise as an advocate and solicitor in Singapore.
 
-(2) Every practising certificate shall be signed by the Registrar and shall be in force from the date of issue to the end of the year:
+[Act 40/96 wef 01/01/1997]
+
+(2) Every practising certificate shall, subject to sections 26(4) and 27B, be signed by the Registrar and shall be in force from the date of issue to the end of the year:
 
 Provided that where the name of a solicitor is removed from or struck off the roll the practising certificate, if any, of that solicitor for the time being in force shall expire forthwith and the date of the expiry shall be entered by the Registrar on the register of practitioners.
+
+[Act 40/96 wef 01/01/1997]
 
 (3) Every practising certificate issued in the month of April shall be deemed to have been in force from the first day of that month.
 
@@ -856,6 +918,78 @@ Provided that where the name of a solicitor is removed from or struck off the ro
 
 [10/91]
 
+### Power of Attorney-General, Registrar and Council with respect to issue of practising certificates in certain circumstances
+
+25A\.—(1) This section shall apply to any solicitor —
+
+(a) whose suspension from practice has expired;
+
+(b) who has been discharged from bankruptcy;
+
+(c) who has been sentenced to a term of imprisonment in any civil or criminal proceedings in Singapore or elsewhere;
+
+(d) who has been convicted of an offence involving dishonesty or fraud;
+
+(e) who has been convicted of an offence in relation to his conduct in his practice of law;
+
+(f) who has been found guilty of misconduct in any other professional capacity;
+
+(g) whom the Attorney-General or the Council is satisfied is incapacitated by illness or accident to such extent as to be unable to attend to his practice; or
+
+(h) whom the Attorney-General or the Council is satisfied has failed to comply with any of the rules made under section 72.
+
+(2) Where a solicitor to whom this section applies makes an application for a practising certificate, the Attorney-General or the Council may, having regard to all the circumstances of the case, in writing request the Registrar —
+
+(a) to refuse the application for a practising certificate; or
+
+(b) to issue a practising certificate to the solicitor subject to such conditions as the Attorney-General or the Council may specify,
+
+and the Registrar may, subject to subsections (6) and (7), comply with the request and notify the solicitor in writing.
+
+(3) Without prejudice to the generality of subsection (2)(b) —
+
+(a) conditions may be imposed under that subsection for requiring the applicant to take any specified steps that will, in the opinion of the Attorney-General or the Council, be conducive to his carrying on an efficient practice as a solicitor; and
+
+(b) conditions may be so imposed (whether for the purpose mentioned in paragraph (a) or otherwise) notwithstanding that they may result in expenditure being incurred by the applicant.
+
+(4) Where the Attorney-General or the Council makes a request under subsection (2) by reason only of any such circumstances as are mentioned in paragraph (c), (d), (e), (f), (g) or (h) of subsection (1), the solicitor concerned may, upon proof of a change in the circumstances or for other good cause, inform the Attorney-General or the Council, as the case may be, of the change or good cause.
+
+(5) The Attorney-General or the Council, as the case may be, shall upon being so informed under subsection (4) re-consider the request and may in writing request the Registrar —
+
+(a) to grant the application for a practising certificate; or
+
+(b) to remove any condition imposed on the practising certificate under subsection (2)(b),
+
+and the Registrar may comply with the request and notify the solicitor in writing.
+
+(6) Where a practising certificate free of conditions is issued by the Registrar to a solicitor in relation to whom this section applies by reason of any such circumstances as are mentioned in subsection (1) then, except in the case of any circumstances of whose existence the Attorney-General or the Council is unaware at the time the certificate is issued, this section shall not thereafter apply in relation to that solicitor by reason of those circumstances.
+
+(7) The Registrar shall not refuse an application by a solicitor for a practising certificate where —
+
+(a) this section applies to the solicitor by reason only of any such circumstances as are mentioned in paragraph (a) or (b) of subsection (1); or
+
+(b) disciplinary proceedings against the solicitor under Part VII by reason of any such circumstances as are mentioned in subsection (1) have been disposed of.
+
+[Act 40/96 wef 01/01/1997]
+
+### Appeals in connection with issue of practising certificates
+
+25B\.—(1) Where the Registrar has refused to issue a practising certificate or has issued a practising certificate subject to a condition to a solicitor under section 25A, the solicitor may, within one month of being notified by the Registrar of the decision, appeal to a judge by originating summons.
+
+(2) Any appeal under subsection (1) shall be served on the Attorney-General and the Society, and the Attorney-General and the Society may appear at the hearing to make representations.
+
+(3) On such appeal, the judge may —
+
+(a) direct the Registrar not to issue a practising certificate to the solicitor;
+
+(b) direct the Registrar to issue a practising certificate to the solicitor free from conditions or subject to such conditions as the judge thinks fit; or
+
+(c) make such other order as the judge thinks fit.
+
+(4) No appeal shall lie from any order made by a judge under this section.
+
+[Act 40/96]
+
 ### Disqualification for practising certificate
 
 26\.—(1) No solicitor shall apply for a practising certificate —
@@ -866,25 +1000,103 @@ Provided that where the name of a solicitor is removed from or struck off the ro
 
 (c) if he has, for a period of 3 years or more, held office as a judge of the Supreme Court or of the Supreme Court of Malaysia or of any High Court in any part of Malaysia;
 
-(d) if he is an undischarged bankrupt or a receiving order in bankruptcy is in force against him;
+(d) if he is an undischarged bankrupt;
 
-(e) if he has entered into a composition with his creditors or a deed of arrangement for the benefit of his creditors; or
+[Act 15/95 wef 15/07/1995 vide S 268/95]
 
-(f) if he has one or more outstanding judgments against him amounting in the aggregate to $100,000 or more which he has been unable to satisfy within 6 months from the date of the earliest judgment.
+(e) if he has entered into a composition with his creditors or a deed of arrangement for the benefit of his creditors;
+
+[Act 40/96]
+
+(f) if he has one or more outstanding judgments against him amounting in the aggregate to $100,000 or more which he has been unable to satisfy within 6 months from the date of the earliest judgment; or
+
+[Act 40/96 wef 01/01/1997]
+
+(g) if he has been found under section 7 of the Mental Disorders and Treatment Act [Cap. 178] to be of unsound mind and incapable of managing himself and his affairs.; and
+
+[Act 40/96 wef 01/01/1997]
 
 (2) Notwithstanding anything in subsection (1), any solicitor who has held office as a judge of the Supreme Court for a period of 3 years or more shall on application be issued a practising certificate enabling him to practise as a solicitor, but without the right of audience in any court of justice in Singapore.
 
+[Act 10/91]
+
 (3) Subsection (1) shall not apply to a solicitor employed by the Society, any statutory board or authority or a member of the legal service if the Attorney-General issues a certificate under his hand certifying that the solicitor is so employed and specifying therein the matters in which the solicitor so employed may appear and plead in courts of law, and upon the solicitor otherwise complying with the provisions of this Act the Registrar shall issue to him a practising certificate specifying therein the matters in which he may appear and plead as contained in the Attorney-General’s certificate.
 
-(4) A practising certificate issued to a solicitor shall cease to have effect when he ceases to practise or he ceases to be employed as provided in this section.
+[Act 41/93]
 
-[10/91; 16/93; 41/93]
+(4) A practising certificate issued to a solicitor shall cease to be in force —
+
+(a) when the solicitor ceases to practise or to be employed as provided in this section; or
+
+(b) upon the solicitor becoming subject to any disqualification under subsection (1)(d), (e), (f) or (g).
+
+[Act 40/96 wef 01/01/1997]
+
+(5) For the purposes of this section,
+
+“judge” shall not include a Judicial Commissioner of the Supreme Court.
+
+[Act 40/96 wef 01/01/1997]
+
+[Act 16/93]
 
 ### Register of practitioners
 
-27\.—(1) Upon the issue of every practising certificate, the Registrar shall cause to be entered in an annual register kept for that purpose (referred to in this Act as the register of practitioners) the particulars as contained in the declaration delivered under section 25(1)(a) and any person may inspect the register of practitioners during office hours without payment.
+27\.—(1) Upon the issue of every practising certificate, the Registrar shall cause to be entered in an annual register kept for that purpose (referred to in this Act as the register of practitioners) the particulars as contained in the declaration delivered under section 25(1)(a) and any condition imposed on the practising certificate; and any person may inspect the register of practitioners during office hours without payment.
 
-(2) If there is any change with respect to any solicitor in the particulars referred to in subsection (1), that solicitor shall within one week thereafter notify the Registrar and the Council and the Registrar shall thereupon cause the entry in respect of that solicitor in the register of practitioners to be amended.
+[Act 40/96]
+
+(2) If there is any change with respect to any solicitor in the particulars referred to in subsection (1) or with respect to the status of his practising certificate, including as to whether it has ceased to be in force under section 26(4), that solicitor shall within one week thereafter notify the Registrar and the Council and the Registrar shall thereupon cause the entry in respect of that solicitor in the register of practitioners to be amended.
+
+[Act 40/96]
+
+### Imposition of conditions while practising certificates are in force
+
+27A\.—(1) Where, at any time during the currency of the practising certificate of a solicitor, section 25A would have effect in relation to him by reason of any such circumstances as are mentioned in section 25A(1) if he were to make an application for a practising certificate at that time, a judge may, upon an application by the Attorney-General or the Council made by originating summons and served upon the solicitor, direct that the current practising certificate of the solictor shall have effect subject to such conditions as the judge thinks fit.
+
+(2) Where an order under subsection (1) has been made against a solicitor by reason only of any such circumstances as are mentioned in section 25A(1)(c), (d), (e), (f), (g) or (h), the solicitor may, upon proof of a change in the circumstances or for other good cause, apply to a judge by summons for a reconsideration of the matter.
+
+(3) Any application under subsection (2) shall be served on the Attorney-General and the Society and the Attorney-General and the Society may appear at the hearing to make representations.
+
+(4) At the hearing of the application, the judge shall consider all the circumstances of the case and may make such order as he thinks fit.
+
+(5) No appeal shall lie from any order made by a judge under subsection (4).
+
+(6) Section 25A(3) shall apply for the purposes of subsection (1) as it applies for the purposes of section 25A(2)(b).
+
+[Act 40/96 wef 01/01/1997]
+
+### Referral to Disciplinary Committee and suspension of practising certificates
+
+27B\.—(1) Upon an application to a judge by the Attorney-General or the Council, or on the hearing by a judge of an application made under section 27A, the judge may, where he is satisfied that cause of sufficient gravity for disciplinary action against the solicitor exists —
+
+(a) request the Society under section 85(3)(b) to refer the matter to a Disciplinary Committee unless the matter had been or is being dealt with under Part VII or is to be dealt with under section 94A; and
+
+(b) order that the solicitor’s current practising certificate be suspended.
+
+(2) Any application by the Attorney-General or the Council under subsection (1) shall be made by originating summons which shall be served on the solicitor.
+
+(3) Where the Attorney-General or the Council makes an application under subsection (1), the judge shall have, in addition to his powers under that subsection, the powers exercisable by him under section 27A.
+
+(4) If —
+
+(a) the Disciplinary Committee determines under section 93(1)(a) that no cause of sufficient gravity for disciplinary action against the solicitor exists under section 83 or determines under section 93(1)(b) that the solicitor should be reprimanded;
+
+(b) the application under section 98(1) for an order against the solicitor to show cause is withdrawn or dismissed;
+
+(c) the application under section 98(5) to make absolute an order against the solicitor to show cause is withdrawn or discharged; or
+
+(d) the order against the solicitor to show cause has been made absolute,
+
+the suspension of the practising certificate of the solicitor shall terminate forthwith.
+
+(5) Nothing in subsection (4) shall be construed as affecting the power of the court of 3 judges of the Supreme Court to suspend a solicitor from practice on an application to make the order to show cause absolute under section 98.
+
+(6) Where the suspension of the practising certificate of a solicitor under this section has terminated by reason only of the expiry of the solicitor’s current practising certificate and not by reason of the occurrence of any of the events mentioned in subsection (4), the solicitor shall not apply for another practising certificate until any of the events mentioned in subsection (4) has occurred; and if a practising certificate has been issued to him, that certificate shall cease to be in force.
+
+(7) No appeal shall lie from any order made by a judge under this section.
+
+[Act 40/96]
 
 ### Cancellation of practising certificates
 
@@ -916,19 +1128,45 @@ PRIVILEGES OF ADVOCATES AND SOLICITORS
 
 ### Appointment of Senior Counsel
 
-30\.—(1) The Senate of the Academy may appoint an advocate and solicitor or a legal officer as Senior Counsel if they are of the opinion that by virtue of that person’s ability, standing at the Bar or special knowledge or experience in law he is deserving of such distinction.
+30\.—(1) A Selection Committee comprising the Chief Justice, the Attorney-General and the Judges of Appeal may appoint an advocate and solicitor or a legal officer as Senior Counsel if the Selecton Committee is of the opinion that, by virtue of the person’s ability, standing at the Bar or special knowledge or experience in law, he is deserving of such distinction.
+
+[Act 40/96 wef 01/09/1996]
+
+(1A) At every meeting of the Selection Committee, 3 members shall constitute a quorum and no business shall be transacted unless a quorum is present.
+
+(1B) A decision at a meeting of the Selection Committee shall be adopted by a simple majority of the members present and voting except that, in the case of an equality of votes, the Chief Justice shall have a casting vote in addition to his original vote.
+
+(1C) Subject to this section, the Selection Committee may establish its own practice and regulate its own procedure.
+
+(1D) The appointment of a Senior Counsel shall be deemed to be revoked if the Senior Council —
+
+(a) is suspended from practice or struck off the roll;
+
+(b) being a legal officer, is dismissed from the Singapore Legal Service;
+
+(c) being a member of the Faculty, is dismissed from the Faculty;
+
+(d) is convicted of an offence by a court of law in Singapore or elsewhere and sentenced to imprisonment for a term of not less than one year or to a fine of not less than $2,000 and has not received a free pardon;
+
+(e) becomes of unsound mind;
+
+(f) is an undischarged bankrupt; or
+
+(g) enters into a composition with his creditors or a deed of arrangement with his creditors.
 
 (2) No person shall be appointed as a Senior Counsel unless he has for an aggregate period of not less than 10 years been an advocate and solicitor or a legal officer or both.
 
+[Act 15/89]
+
 (3) On 21st April 1989, those persons who on the date immediately preceding that date are holding office as the Attorney-General and the Solicitor-General shall be deemed to have been appointed as Senior Counsel under this section.
 
-[15/89]
+[Act 15/89]
 
 ### Order of precedence in court
 
 31\. Senior Counsel shall rank in precedence after the Attorney-General and the Solicitor-General according to their seniority of appointment as Senior Counsel but if two or more are appointed on the same day they shall take precedence according to the date on which they were admitted as advocates and solicitors.
 
-[15/89]
+[Act 15/89]
 
 ### Qualifications to practise
 
@@ -966,13 +1204,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 shall unless he proves that the act was not done for or in expectation of any fee, gain or reward be guilty of an offence under this subsection.
 
-(3) Any unauthorised person who offers or agrees to place at the disposal of any other person the services of an advocate and solicitor shall be guilty of an offence under this subsection.
+(3) Any unauthorised person who offers or agrees to place at the disposal of any other person the services of an advocate and solicitor shall be guilty of an offence under this subsection:
 
 (4) Subsection (3) shall not apply to any person who offers or agrees to place at the disposal of any other person the services of an advocate and solicitor pursuant to a lawful contract of indemnity or insurance.
 
 (5) Every person who is convicted of an offence under subsection (2) or (3) shall be liable for a first offence to a fine not exceeding $500 or in default of payment to imprisonment for a term not exceeding 3 months and for a second or subsequent offence to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
 
-(6) Any act done by a body corporate which in the case of a person would be an offence under subsection (1), (2) or (3), or is of such a nature or is done in such a manner as to be calculated to imply that the body corporate is qualified or recognised by law as qualified to act as a solicitor shall be an offence under this section and the body corporate shall be liable on conviction for a first offence to a fine not exceeding $1,000 and for a second or subsequent offence to a fine not exceeding $3,000, and where that act is done by a director, officer or employee of the body corporate the director, officer or employee shall, without prejudice to the liability of the body corporate, be liable to the punishments provided in subsection (5).
+(6) Any act done by a body corporate which in the case of a person would be an offence under subsection (1), (2) or (3) or is of such a nature or is done in such a manner as to be calculated to imply that the body corporate is qualified or recognised by law as qualified to act as a solicitor shall be an offence under this section and the body corporate shall be liable on conviction for a first offence to a fine not exceeding $1,000 and for a second or subsequent offence to a fine not exceeding $3,000, and where that act is done by a director, officer or employee of the body corporate the director, officer or employee shall, without prejudice to the liability of the body corporate, be liable to the punishments provided in subsection (5).
 
 (7) Where any firm does an act which in the case of a person would be an offence under subsection (1), (2) or (3), every member of the firm shall be deemed to have committed that offence unless he proves that he was unaware of the commission of the act.
 
@@ -1024,7 +1262,11 @@ shall unless he proves that the act was not done for or in expectation of any fe
 
 (2) Nothing in this section shall be construed as derogating from or adversely affecting any power or right of any person to appear or act in arbitration proceedings or in connection therewith.
 
-[7/92; 41/93]
+[7/92]
+
+[7/92]
+
+[41/93]
 
 ### No costs recoverable by unauthorised person
 
@@ -1156,6 +1398,8 @@ Provided that the subscriptions payable by members admitted to membership under 
 
 (4) The total of the subscriptions payable under subsection (1), the levies payable under subsection (3) and the annual contribution payable under section 75 shall not in any calendar year exceed $500 per practitioner member without the approval of a general meeting of the Society.
 
+[17/84]
+
 (5) Within one week of the end of each month, the Society shall, out of each annual subscription received by the Society during that month, pay to the Board —
 
 (a) in the case of a subscription paid by a practitioner member of not less than 5 years’ standing, a sum of $120; and
@@ -1198,6 +1442,8 @@ The Council
 
 (4) A practitioner member may, after a period of 5 years following the date of his conviction or the date he was reinstated to the roll or the date of the expiry of his suspension, whichever is the later, with the leave of a court of 3 judges of the Supreme Court, one of whom shall be the Chief Justice, be eligible for election or appointment as a member of the Council.
 
+[41/93]
+
 (5) Where an application for leave under subsection (4) has been refused, the applicant shall not be entitled to make another application under that subsection within a period of 5 years from the date the first-mentioned application was dismissed.
 
 (6) An application for leave under subsection (4) shall be made by motion.
@@ -1226,7 +1472,7 @@ chosen by lot at the first meeting of the Council after such election shall hold
 
 (11) Every elected member of the Council shall be eligible for re-election if he is qualified to be a candidate.
 
-[30/86; 41/93]
+[30/86]
 
 Election of members of Council
 
@@ -1278,7 +1524,7 @@ and the election shall subject to section 53 take place by secret ballot on the 
 
 (a) shall be of a person qualified to be a candidate under section 49;
 
-(b) shall be in writing signed by not less than two persons qualified in a like manner under section 49 as the candidate nominated; and
+(b) shall be in writing signed by not less than two persons qualified in a like manner under section 46 as the candidate nominated; and
 
 (c) shall name only one candidate and his consent shall be endorsed thereon.
 
@@ -1304,13 +1550,23 @@ and the election shall subject to section 53 take place by secret ballot on the 
 
 Officers
 
-### President and Vice-President
+### President, Vice-Presidents and Treasurer
 
-56\.—(1) There shall be a President and a Vice-President of the Society who shall be elected by the Council from amongst its members and in the event of any casual vacancy arising in respect of the office of the President or the Vice-President of the Society, the Council shall at its next meeting or as soon as possible thereafter elect one of its members to fill the vacancy.
+56\.—(1) There shall be a President, two Vice-Presidents and a Treasurer of the Society who shall be elected by —
 
-(2) The President of the Society or in his absence the Vice-President of the Society shall be the chairman of the Council and shall preside at all meetings of the Council and of the Society.
+(a) members and members-elect of the Council taking office in either case on 1st January after an annual election under section 54(1) from amongst those council members at a meeting of the Council before that date; or
 
-(3) In the absence of both the President and the Vice-President of the Society, the Council or the Society, as the case may be, shall elect a chairman from among the respective members.
+(b) members of the Council taking office under section 54(2) from amongst those members at the first meeting of the Council.
+
+(2) The Council shall soon as practicable after the commencement of the Legal Profession (Amendment) Act 1996 elect the other Vice-President and the Treasurer of the Society from amongst its members.
+
+(3) If any casual vacancy arises in respect of the office of the President, a Vice-President or the Treasurer of the Society, the Council shall, at its next meeting or as soon as possible thereafter, elect one of its members to fill the vacancy.
+
+(4) The President of the Society or in his absence a Vice-President of the Society nominated by the President shall be the chairman of the Council and shall preside at all meetings of the Council and of the Society.
+
+(5) In the absence of the President and the Vice-Presidents of the Society, as the case may be, shall elect a chairman from among the respective members.
+
+[Act 40/96 wef 01/01/1997]
 
 ### When members of Council to vacate office
 
@@ -1320,7 +1576,9 @@ Officers
 
 (b) he becomes of unsound mind;
 
-(c) he is an undischarged bankrupt or a receiving order in bankruptcy is in force against him;
+(c) he is an undischarged bankrupt;
+
+[Act 15/95 wef 15/07/1995 vide S 268/95]
 
 (d) he has entered into a composition with his creditors or a deed of arrangement for the benefit of his creditors; or
 
@@ -1338,7 +1596,7 @@ Officers
 
 (4) Subsections (1) and (2) shall not apply to a member of the Council who has obtained the leave of the court under section 49(4) prior to his election or appointment as a member of the Council.
 
-[30/86]
+[Act 30/86]
 
 Powers of Council
 
@@ -1346,7 +1604,7 @@ Powers of Council
 
 58\.—(1) The management of the Society and of its funds shall be vested in the Council and all such powers, acts or things as are not by this Act expressly authorised, directed or required to be exercised or done by the Society in general meeting may, subject to the provisions of this Act or any rules made thereunder or any resolution passed from time to time by the Society in general meeting, be exercised or done by the Council.
 
-(2) No resolution of the Society passed under subsection (1) shall invalidate the previous exercise of any power or the previous doing of any act or thing by the Council which would have been valid if the resolution had not been passed.
+(2) No such resolution of the Society passed under subsection (1) shall invalidate the previous exercise of any power or the previous doing of any act or thing by the Council which would have been valid if the resolution had not been passed.
 
 ### Specific powers of Council
 
@@ -1377,6 +1635,10 @@ Powers of Council
 (l) to make and give receipts, releases and other discharges for moneys payable to and for claims and demands of the Society;
 
 (m) to invest and deal with any moneys of the Society from time to time in securities authorised for the investment of trust funds by any written law for the time being in force;
+
+(ma) to form or participate in the formation of any company for the purpose of carrying out all or any of the functions of the Society;
+
+[Act 40/96 wef 01/01/1997]
 
 (n) from time to time to borrow or raise money by bank overdraft or otherwise by the issue of debentures or any other securities founded or based upon all or any of the property and rights of the Society or without any such security and upon such terms as to priority or otherwise as the Council thinks fit; and
 
@@ -1436,15 +1698,19 @@ Proceedings of Council
 
 (2) Notwithstanding subsection (1), the Chief Justice or the Attorney-General may require the Council to disclose to him any matter or information relating to any complaint of misconduct or disciplinary action against any advocate and solicitor.
 
-[15/89; 41/93]
+[41/93]
+
+[15/89]
 
 General meetings of the Society
 
 ### Annual general meeting
 
-67\.—(1) (a) The Council shall each year convene an annual general meeting which shall be held in the month of October of that year.
+67\.—(1)(a) The Council shall each year convene an annual general meeting which shall be held in the month of October of that year.
 
-(b) At least 10 days’ prior notice of the annual general meeting shall be given to all members of the Society.
+(b)
+
+At least 10 days’ prior notice of the annual general meeting shall be given to all members of the Society.
 
 (2) Notwithstanding section 54, every Council that ceases to hold office on 31st December in each year shall cause to be prepared and presented to the annual general meeting —
 
@@ -1474,16 +1740,11 @@ for the year terminating on 31st December immediately preceding that general mee
 
 70\.—(1) The manner of convening general meetings of the Society and the procedure thereat shall, subject to the provisions of this Act, be regulated by bye-laws made by the Society.
 
-(2) Bye-laws made under this section shall not provide for a quorum at a general meeting other than the annual general meeting of less than 50 practitioner members personally present.
+(2) The Bye-laws made under this section shall not provide for a quorum at a general meeting other than the annual general meeting of less than 50 practitioner members personally present.
 
 ## PART VI
 
-PROFESSIONAL PRACTICE, CONDUCT AND
-
-
-
-
-DISCIPLINE OF SOLICITORS AND CLERKS
+PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS AND CLERKS
 
 ### Rules as to professional practice, etiquette, conduct and discipline
 
@@ -1559,7 +1820,9 @@ DISCIPLINE OF SOLICITORS AND CLERKS
 
 ### Intervention in solicitor’s practice
 
-74\. The powers conferred by Part II of the Schedule shall be exercisable in the circumstances specified in Part I of the Schedule.
+74\. The powers conferred by Part II of the First Schedule shall be exercisable in the circumstances specified in Part I of that Schedule.
+
+[Act 40/96 wef 01/01/1997]
 
 ### Compensation fund
 
@@ -1661,6 +1924,54 @@ Provided that a solicitor who applies for a practising certificate between 1st O
 
 [10/91]
 
+### Redress for inadequate professional services
+
+75B\.—(1) The Second Schedule shall have effect with respect to the provision by solicitors of services on or after the appointed day which are not of the quality which it is reasonable to expect of them.
+
+(2) In this section and section 75C,
+
+“appointed day” means such date as the Minister may, by notification in theGazette, appoint for the purposes of this section and section 75C; and the Minister may appoint different dates for the purposes of this section and of section 75C.
+
+[40/96]
+
+[wef 1.1.97]
+
+### Qualification to practise as sole proprietor or in partnership
+
+75C\.—(1) No solicitor, who is admitted as a solicitor on or after the appointed day, may practise as a solicitor on his own account or in partnership unless he —
+
+(a) has successfully completed such legal practice management course within such time as the Council may by rules made under section 71 prescribe; and
+
+(b) has, since being admitted as a solicitor, been employed for not less than 3 continuous years or 3 years out of a continuous period of 5 years in the practice of a solicitor in Singapore; or
+
+(c) has been employed as a legal officer for not less than 3 continuous years or 3 years out of a continuous period of 5 years.
+
+(2) The Council may, with the approval of the Minister, exempt a solicitor from subsection (1)(a) or shorten any period referred to in subsection (1)(b) and (c) if it is satisfied that the solicitor has gained substantial experience in law in Singapore or elsewhere.
+
+(3) Subsection (1) shall not apply to a solicitor who practises in partnership with any solicitor who has been in active practice in Singapore for not less than 3 continuous years or 3 years out of a continous period of 5 years.
+
+(4) Any solicitor who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+
+(5) For the purposes of this section and section 75D,
+
+“legal officer” includes a legal officer of the Inland Revenue Authority of Singapore or of such other statutory corporation as the Minister may prescribe.
+
+### Qualification to use title of consultant
+
+75D\.—(1) No solicitor shall take or use the title of consultant unless he has, for a period of not less than 10 years in the aggregate, been —
+
+(a) a solicitor in practice;
+
+(b) a legal officer;
+
+(c) a full-time member of the academic staff of the Faculty; or
+
+(d) holding any combination of occupations referred to in paragraphs (a), (b) and (c).
+
+(2) Any solicitor who, immediately before the date of commencement of the Legal Profession (Amendment) Act 1996, has taken or used the title of consultant and who does not satisfy the requirements in subsection (1) shall be exempted from that subsection for a period of one month from that date.
+
+(3) Any solicitor who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+
 ### Solicitors who are commissioners for oaths or notaries public
 
 76\. No solicitor who is a commissioner for oaths or a notary public shall do any act as such commissioner or notary, as the case may be, unless he has in force a practising certificate.
@@ -1675,7 +1986,9 @@ Provided that a solicitor who applies for a practising certificate between 1st O
 
 (4) Any unauthorised person who was enabled by a solicitor to act or practise or purport to practise as a solicitor shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding one year.
 
-(5) In this section, “unauthorised person” has the meaning assigned to it in section 32.
+(5) In this section,
+
+“unauthorised person” has the meaning assigned to it in section 32.
 
 ### Solicitors’ clerks
 
@@ -1691,11 +2004,17 @@ Provided that a solicitor who applies for a practising certificate between 1st O
 
 (e) listed as a tout under section 73 of the Supreme Court of Judicature Act [Cap. 322] or section 62 of the Subordinate Courts Act [Cap. 321];
 
-(f) a person in respect of whom an order under subsection (3) has been made; or
+(f) a person in respect of whom an order under subsection (3) has been made.
 
-(g) employed as a public officer.
+[Act 40/96]
 
-(2) Subsection (1)(g) shall not apply to any public officer who is an advocate and solicitor or a qualified person or in respect of whom the consent of the court had previously been obtained under subsection (1).
+(2) No solicitor shall in connection with his practice as such, without the consent of the Attorney-General, employ or remunerate any person who to his knowledge had been employed as a public officer.
+
+[Subts. by Act 40/96]
+
+(2A) Subsection (2) shall not apply to any public officer who is an advocate and solicitor or a qualified person or in respect of whom the consent of the court or the Attorney-General had previously been obtained under subsection (1) or (2), as the case may be.
+
+[Act 40/96 wef 01/01/1997]
 
 (3) On application made by or on behalf of the Attorney-General or the Society, the court may make an order directing that, as from a date to be specified in the order, no solicitor shall in connection with his practice as such employ or remunerate any person, the subject of the application, who —
 
@@ -1709,13 +2028,13 @@ Provided that a solicitor who applies for a practising certificate between 1st O
 
 (6) Before a solicitor employs or remunerates any person (other than an advocate and solicitor or a qualified person) in connection with his practice as such, he shall —
 
-(a) require the person to make a statutory declaration to show that he is not an undischarged bankrupt and that he does not come within the class of persons enumerated in subsection (1)(a) to (g) and that he is not a person in respect of whom an order has been made under subsection (3); and
+(a) require the person to make a statutory declaration to show that he is not an undischarged bankrupt and that he does not come within the class of persons enumerated in subsection (1)(a) to (f) and had not been employed as a public officer and that he is not a person in respect of whom an order has been made under subsection (3); and
+
+[Act 40/96 wef 01/01/1997]
 
 (b) within 14 days of commencing to employ the person deliver to the Society a certified copy of the statutory declaration so made.
 
 (7) Disciplinary proceedings may be taken against any solicitor who acts in contravention of this section.
-
-[41/93]
 
 ### Acting for housing developer and purchaser prohibited
 
@@ -1733,7 +2052,7 @@ Provided that a solicitor who applies for a practising certificate between 1st O
 
 (5) Subsection (1) shall not apply to any transaction where the contract for sale was entered into before 11th February 1967.
 
-[10/91]
+[Act 10/91 wef 01/02/1991 vide S 68/91]
 
 ### Account by solicitor
 
@@ -1763,7 +2082,7 @@ DISCIPLINARY PROCEEDINGS
 
 (4) The Supreme Court or any judge thereof may exercise the same jurisdiction in respect of advocates and solicitors as can be exercised by a superior court in England over barristers or solicitors practising before any such court.
 
-[41/93]
+[Act 41/93]
 
 ### Disciplinary proceedings against legal officers and non-practising solicitors
 
@@ -1775,7 +2094,9 @@ DISCIPLINARY PROCEEDINGS
 
 (a) has been guilty in Singapore or elsewhere of such misconduct unbefitting a legal officer or an advocate and solicitor as an officer of the Supreme Court or as a member of an honourable profession; or
 
-(b) has been adjudicated bankrupt and has been guilty of any of the acts or omissions mentioned in section 33(6)(a), (b), (c), (d), (e), (f), (h) or (i) of the Bankruptcy Act [Cap. 20].
+(b) has been adjudicated bankrupt and has been guilty of any of the acts or omissions mentioned in section 124(5)(a), (b), (c), (d), (e), (f), (h), (i), (k), (l) or (m) of the Bankruptcy Act 1995.
+
+[Act 15/95 wef 15/07/1995]
 
 (4) No application for an order to show cause under this section shall be made unless leave has been granted by the Chief Justice for an investigation to be made into the complaint of misconduct against the legal officer or non-practising solicitor concerned.
 
@@ -1789,7 +2110,7 @@ DISCIPLINARY PROCEEDINGS
 
 (9) Where the Disciplinary Committee finds that no cause of sufficient gravity for disciplinary action exists under this section against the legal officer or non-practising solicitor concerned, the Chief Justice shall dismiss the complaint.
 
-(10) Where the Disciplinary Committee finds that cause of sufficient gravity for disciplinary action exists under this section against the legal officer or non-practising solicitor concerned, the Chief Justice may appoint an advocate and solicitor or a legal officer to apply by motion in the same proceedings for an order that the legal officer or the non-practising solicitor concerned be struck off the roll, prohibited from applying for a practising certificate, censured or otherwise punished, and section 98 shall apply, mutantis mutandis, to such application.
+(10) Where the Disciplinary Committee finds that cause of sufficient gravity for disciplinary action exists under this section against the legal officer or non-practising solicitor concerned, the Chief Justice may appoint an advocate and solicitor or a legal officer to apply by motion in the same proceedings for an order that the legal officer or the non-practising solicitor concerned be struck off the roll, prohibited from applying for a practising certificate, censured or otherwise punished, and section 98 shall apply, mutatis mutandis, to such application.
 
 (11) On completion of the hearing of the application under subsection (10), the court may —
 
@@ -1805,7 +2126,9 @@ DISCIPLINARY PROCEEDINGS
 
 (12) The costs of and incidental to all proceedings under this section shall be in the discretion of the judge or of the court before whom the hearing has taken place.
 
-(13) Subject to this section, the Rules Committee may make rules for regulating and prescribing the procedure and practice to be followed in connection with proceedings under this section and in the absence of any rule or rules dealing with any point of procedure or practice, the Rules of the Supreme Court [Cap. 322, R 5.] may be followed as nearly as the circumstances permit.
+(13) Subject to this section, the Rules Committee may make rules for regulating and prescribing the procedure and practice to be followed in connection with proceedings under this section and in the absence of any rule or rules dealing with any point of procedure or practice, the Rules of the Supreme Court may be followed as nearly as the circumstances permit.
+
+[]
 
 (14) For the avoidance of doubt, nothing in this section shall prevent any legal officer from being subject to disciplinary action by the Legal Service Commission for any act or omission which constitutes a disciplinary offence under this section.
 
@@ -1821,7 +2144,9 @@ DISCIPLINARY PROCEEDINGS
 
 (b) has been guilty of fraudulent or grossly improper conduct in the discharge of his professional duty or guilty of such a breach of any usage or rule of conduct made by the Council under the provisions of this Act as amounts to improper conduct or practice as an advocate and solicitor;
 
-(c) has been adjudicated bankrupt and has been guilty of any of the acts or omissions mentioned in section 33(6)(a), (b), (c), (d), (e), (f), (h) or (i) of the Bankruptcy Act [Cap. 20];
+(c) has been adjudicated bankrupt and has been guilty of any of the acts or omissions mentioned in section 124(5)(a), (b), (c), (d), (e), (f), (h), (i), (k); (l) or (m) of the Bankruptcy Act 1995;
+
+[Act 15/95 wef 15/07/1995]
 
 (d) has tendered or given or consented to retention, out of any fee payable to him for his services, of any gratification for having procured the employment in any legal business of himself or any other advocate and solicitor;
 
@@ -1839,6 +2164,8 @@ DISCIPLINARY PROCEEDINGS
 
 (k) has been disbarred, struck off, suspended or censured in his capacity as a legal practitioner by whatever name called in any other country.
 
+[41/93]
+
 (3) Pupils shall, mutatis mutandis, be subject to the same jurisdiction as can be exercised over advocates and solicitors under this Part but in lieu of an order striking him off the roll or suspending him an order may be made prohibiting the pupil from petitioning the court for admission until after a date to be specified in the order:
 
 Provided that the jurisdiction given by this subsection shall be exercised by a single judge.
@@ -1847,7 +2174,11 @@ Provided that the jurisdiction given by this subsection shall be exercised by a 
 
 (5) In any proceedings instituted under this Part against an advocate and solicitor consequent upon his conviction for a criminal offence, an Inquiry Committee, a Disciplinary Committee appointed under section 90 and a court of 3 judges of the Supreme Court referred to in section 98 shall accept his conviction as final and conclusive.
 
-[15/89; 41/93]
+[15/89]
+
+[41/93]
+
+[41/93]
 
 ### Appointment of Inquiry Panel
 
@@ -1857,11 +2188,15 @@ Provided that the jurisdiction given by this subsection shall be exercised by a 
 
 (3) A member of the Inquiry Panel shall be appointed for a term of two years and shall be eligible for reappointment.
 
+[15/89]
+
 (4) The Chief Justice may at any time remove from office any member of the Inquiry Panel or fill any vacancy in its membership.
 
 (5) The Chief Justice shall appoint a member of the Inquiry Panel to be the Chairman.
 
-[30/86; 15/89]
+[30/86]
+
+[15/89]
 
 ### Complaints against advocates and solicitors
 
@@ -1869,15 +2204,23 @@ Provided that the jurisdiction given by this subsection shall be exercised by a 
 
 (2) The Council may on its own motion refer any information touching upon the conduct of an advocate and solicitor to the Chairman of the Inquiry Panel.
 
+[41/93]
+
 (3) The Supreme Court or any judge thereof or the Attorney-General may at any time refer to the Society any information touching upon the conduct of an advocate and solicitor and the Council shall —
 
 (a) refer the matter to the Chairman of the Inquiry Panel; or
 
 (b) where the Supreme Court or a judge thereof or the Attorney-General requests that the matter be referred to a Disciplinary Committee, apply to the Chief Justice to appoint a Disciplinary Committee.
 
+[41/93]
+
 (4) Notwithstanding subsections (1), (2) and (3), where two or more complaints or information touching upon the conduct of an advocate and solicitor have been received by the Council, including any complaint which had been referred to a Disciplinary Committee under section 89, the Council may with the leave of the court refer to the Chairman of the Inquiry Panel one or more complaints or information which in its opinion are more serious in nature first and defer the referral of the remaining complaints or information.
 
+[41/93]
+
 (5) Where any complaint or information touching upon the conduct of an advocate and solicitor is referred to the Chairman of the Inquiry Panel, the Council shall inform the advocate and solicitor concerned that it has done so.
+
+[41/93]
 
 (6) Where any complaint or information touching upon the conduct of an advocate and solicitor is referred to the Chairman of the Inquiry Panel pursuant to subsection (1), (2) or (3), he shall forthwith constitute an Inquiry Committee consisting of —
 
@@ -1891,6 +2234,8 @@ Provided that the jurisdiction given by this subsection shall be exercised by a 
 
 to inquire into the complaint or information.
 
+[41/93]
+
 (7) An Inquiry Committee may meet for the purposes of its inquiry, adjourn and otherwise regulate the conduct of its inquiry as the members may think fit.
 
 (8) The Chairman of an Inquiry Committee may at any time summon a meeting of the Inquiry Committee.
@@ -1901,7 +2246,11 @@ to inquire into the complaint or information.
 
 (11) Every complaint received by the Society shall be supported by such statutory declarations or affidavits as the Chairman of the Inquiry Panel or of an Inquiry Committee may require.
 
+[41/93]
+
 (12) An Inquiry Committee may require any person making a complaint to the Society under this Part to deposit with the Society a reasonable sum not exceeding $500 to cover necessary costs and expenses and in case the complaint is found to be frivolous or vexatious, the sum so deposited or such part thereof as the Inquiry Committee may determine shall be applied for the payment of those costs and expenses; otherwise the sum so deposited shall be returned to the person making the same.
+
+[41/93]
 
 (13) A member of an Inquiry Committee shall, notwithstanding that he has ceased to be a member of the Inquiry Panel on the expiry of his term of office, be deemed to be a member of the Inquiry Panel until such time as the Council has decided that the Inquiry Committee of which he is a member has completed its work.
 
@@ -1914,6 +2263,8 @@ to inquire into the complaint or information.
 (a) in any case where the members of the Inquiry Committee have decided not to call upon the advocate and solicitor concerned to offer any explanation or to answer the allegations made against him, not later than two months after the date of its appointment; and
 
 (b) in any other case, not later than two weeks after the last meeting of the Inquiry Committee or 3 months after the date of its appointment, whichever is earlier.
+
+[41/93]
 
 (2) Where an Inquiry Committee is of the opinion that it will not be able to report its findings to the Council within the period specified in subsection (1)(b) due to the complexity of the matter or serious difficulties encountered by the Inquiry Committee in conducting its inquiry, the Inquiry Committee may apply in writing to the Chairman of the Inquiry Panel for an extension of the time to report its findings to the Council.
 
@@ -1931,6 +2282,8 @@ to inquire into the complaint or information.
 
 and allow the time specified in the notice to elapse and shall give the advocate and solicitor concerned reasonable opportunity to be heard if he so desires and shall also give due consideration to any explanation (if any) given by him.
 
+[41/93]
+
 (7) The report of the Inquiry Committee shall, inter alia, deal with the question of the necessity or otherwise of a formal investigation by a Disciplinary Committee and, if in the view of the Inquiry Committee no formal investigation by a Disciplinary Committee is required, the Inquiry Committee shall recommend to the Council —
 
 (a) a penalty sufficient and appropriate to the misconduct committed; or
@@ -1939,11 +2292,19 @@ and allow the time specified in the notice to elapse and shall give the advocate
 
 (8) Where in the course of its inquiry an Inquiry Committee receives information touching on or evidence of the conduct of the advocate and solicitor concerned which may give rise to proceedings under this Part, the Inquiry Committee may, after giving notice to him, decide on its own motion to inquire into that matter and report its findings to the Council.
 
+[41/93]
+
 (9) Where in the course of its inquiry an Inquiry Committee receives information touching on or evidence of the conduct of the advocate and solicitor concerned which discloses an offence under any written law, the Inquiry Committee shall record the information in its report to the Council.
+
+[41/93]
 
 (10) Where the complainant withdraws his complaint before the Council has referred the complaint to an Inquiry Committee or before the conclusion of the inquiry by an Inquiry Committee, the Council may, notwithstanding such withdrawal, refer the complaint to or direct an Inquiry Committee to continue the inquiry, as the case may be, and the Inquiry Committee shall comply with the direction and all future proceedings thereon shall be taken as if the complaint had been made by the Society.
 
+[41/93]
+
 (11) Subsections (2) to (6) of section 91 shall apply, mutatis mutandis, in relation to an Inquiry Committee as they apply in relation to a Disciplinary Committee and the references in those subsections to a Disciplinary Committee shall be read as references to an Inquiry Committee.
+
+[41/93]
 
 (12) For the purposes of conducting an inquiry, an Inquiry Committee may —
 
@@ -1955,7 +2316,9 @@ and allow the time specified in the notice to elapse and shall give the advocate
 
 (13) Any advocate and solicitor and any other person who without lawful excuse refuses or fails to produce to the Inquiry Committee or to any person whom the Committee may appoint for the purposes of an inquiry any books, documents or papers required of him as aforesaid or fails to give any such information relating thereto shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
-[15/89; 41/93]
+[15/89]
+
+[41/93]
 
 ### Council’s consideration of report
 
@@ -1981,6 +2344,8 @@ and allow the time specified in the notice to elapse and shall give the advocate
 
 (b) any offence involving fraud or dishonesty by the advocate and solicitor, the Council shall forthwith refer the matter to the police for investigation.
 
+[41/93]
+
 (4) The Council shall inform the advocate and solicitor and the person who made the complaint of the manner in which it has determined the complaint and in the event of the determination being that a formal investigation is unnecessary the Council shall on the request of the person furnish him with its reasons in writing.
 
 [41/93]
@@ -2001,7 +2366,11 @@ and allow the time specified in the notice to elapse and shall give the advocate
 
 the Council shall, at the expense of the advocate and solicitor, publish in theGazettea notice of the order if the penalty payable exceeds $1,000 or the reprimand, as the case may be.
 
-(5) Any notice under subsection (4) shall contain the name of the advocate and solicitor, the nature of the misconduct committed by him and the penalty payable by him or the reprimand, as the case be.
+[41/93]
+
+(5) Any notice under subsection (4) shall contain the name of the advocate and solicitor, the nature of the misconduct committed by him and the penalty payable by him or the reprimand, as the case may be.
+
+[41/93]
 
 (6) Where an application is made to a judge by any person under section 97(1), the Council shall not publish the notice under subsection (4) until the application has been withdrawn or deemed to have been withdrawn or disposed of by the judge under section 97(3).
 
@@ -2011,9 +2380,15 @@ the Council shall, at the expense of the advocate and solicitor, publish in theG
 
 89\.—(1) Where the Council determines under section 87 that there should be a formal investigation, the Council shall forthwith apply to the Chief Justice to appoint a Disciplinary Committee which shall hear and investigate the matter.
 
+[41/93]
+
 (2) Notwithstanding subsection (1), where two or more matters are pending against an advocate and solicitor, the Council may apply for one or more matters which in its opinion are more serious in nature to be heard and investigated first and defer the hearing and investigation of the other matters.
 
+[41/93]
+
 (3) Where a Disciplinary Committee has been appointed to hear and investigate any matter against an advocate and solicitor under subsection (1) and before the commencement of the hearing of and investigation into that matter there is any other matter pending against the advocate and solicitor, the Chief Justice may, on the application of the Council, direct that Disciplinary Committee to hear and investigate the other matter or matters.
+
+[41/93]
 
 (4) Where, in the course of its investigation of any matter against an advocate and solicitor referred to it under subsection (1) or (3), a Disciplinary Committee receives information touching on or evidence of the conduct of the advocate and solicitor which may give rise to proceedings under this Part, the Disciplinary Committee may, on the application of the Council, prefer such additional charge against the advocate and solicitor as it thinks fit with respect to such misconduct and, after giving notice to him, hear and investigate such charge and section 93 shall apply to such charge accordingly.
 
@@ -2065,13 +2440,19 @@ to be known for the purposes of this Act as Disciplinary Committees.
 
 (6) In sections 172, 173, 174, 175, 177, 179, 182 and 228 of the Penal Code [Cap. 224], “public servant” shall be deemed to include a member of a Disciplinary Committee taking part in any investigation under this section, and in sections 193 and 228 of the Penal Code, “judicial proceeding” shall be deemed to include any such investigation as aforesaid.
 
-[30/86; 15/89; 41/93]
+[30/86]
+
+[15/89]
+
+[41/93]
 
 ### Person who made the complaint, etc.
 
 92\. Where the Supreme Court or a judge thereof or the Attorney-General has referred to the Society any information touching upon the conduct of an advocate and solicitor, all references in this Part to a person who made the complaint shall be construed to include a reference to the Attorney-General.
 
-[30/86; 41/93]
+[30/86]
+
+[41/93]
 
 ### Findings of Disciplinary Committee
 
@@ -2101,7 +2482,7 @@ to be known for the purposes of this Act as Disciplinary Committees.
 
 ### Society to apply to court
 
-94\.—(1) If the determination of the Disciplinary Committee under section 93 is that cause of sufficient gravity for disciplinary action exists under section 83, the Society shall without further direction or directions proceed to make an application in accordance with section 98.
+94\.—(1) If the determination of the Disciplinary Committee under section 93, is that cause of sufficient gravity for disciplinary action exists under section 83, the Society shall without further direction or directions proceed to make an application in accordance with section 98.
 
 (2) If the determination of the Disciplinary Committee under section 93 is that no cause of sufficient gravity for disciplinary action exists under section 83, it shall not be necessary for the Society to take any further action in the matter unless so directed by the court.
 
@@ -2151,6 +2532,8 @@ that person, if he is dissatisfied with the decision, may within 14 days of bein
 
 (2) Such an application shall be made by originating summons and shall be accompanied by an affidavit or affidavits of the facts constituting the basis of the complaint and by a copy of the complaint originally made to the Society together with a copy of the Council’s reasons in writing supplied to the applicant under section 87(4).
 
+[41/93]
+
 (3) The application accompanied by a copy of each of the documents referred to in subsection (2) shall be served on the Society.
 
 (4) At the hearing of the application, the judge may make an order —
@@ -2189,7 +2572,11 @@ and such order for the payment of costs as may be just.
 
 (4) If the judge makes an order under subsection (3)(b) or (c) on the application of a person other than the Council or advocate and solicitor, the applicant shall have the conduct of proceedings under section 98 and any such proceedings shall be brought in the name of the applicant.
 
-[30/86; 41/93]
+[41/93]
+
+[30/86]
+
+[41/93]
 
 ### Order to show cause
 
@@ -2197,23 +2584,35 @@ and such order for the payment of costs as may be just.
 
 (2) An application under subsection (1) may be made to a judge and shall include an application for directions as to service if the solicitor is believed to be outside Singapore.
 
-(3) If the solicitor named in the order is or is believed to be within Singapore, the provisions of the Rules of the Supreme Court [Cap. 322, R 5] for service of writs of summons shall apply to the service of the order.
+(3) If the solicitor named in the order is or is believed to be within Singapore, the provisions of the Rules of the Supreme Court for service of writs of summons shall apply to the service of the order.
+
+[]
 
 (4) If an order to show cause is made, a copy of the affidavit or affidavits upon which the order was made shall be served with the order upon the solicitor named in the order.
 
 (5) An application to make absolute an order to show cause must be made by motion in the same proceedings and, unless the judge otherwise directs, there must be at least 8 clear days between the service of the notice of the motion and the day named therein for the hearing.
 
+[41/93]
+
 (6) Any order absolute, made in cases where personal service of the order to show cause has not been effected, may be set aside on the application of the solicitor on good cause being shown.
 
 (7) The application to make absolute and the showing of cause consequent upon any order to show cause made under subsections (1) and (2) shall be heard by a court of 3 judges of the Supreme Court and from the decision of that court there shall be no appeal.
+
+[15/89]
+
+[41/9330]
+
+[/93.]
 
 (8) The judge who made the order to show cause shall not thereby be disqualified from sitting as a member of the court of 3 judges under subsection (7).
 
 (9) The Chief Justice or any other Judge of the Supreme Court shall not be a member of the court of 3 judges when the application under subsection (7) is in respect of a complaint made or information referred to the Society by him.
 
-(10) Subject to this section, the Rules Committee may make rules for regulating and prescribing the procedure and practice to be followed in connection with proceedings under this section and under sections 100 and 102 and in the absence of any rule or rules dealing with any point of procedure or practice the Rules of the Supreme Court [Cap. 322, R 5] may be followed as nearly as the circumstances permit.
+(10) Subject to this section, the Rules Committee may make rules for regulating and prescribing the procedure and practice to be followed in connection with proceedings under this section and under sections 100 and 102 and in the absence of any rule or rules dealing with any point of procedure or practice the Rules of the Supreme Court may be followed as nearly as the circumstances permit.
 
-[30/86; 15/89; 41/93]
+[]
+
+[30/86]
 
 ### Drawing up of order
 
@@ -2255,9 +2654,9 @@ and such order for the payment of costs as may be just.
 
 (2) Any application that the name of a solicitor be replaced on the roll shall be by originating motion, supported by affidavit, before a court of 3 Judges of the Supreme Court of whom the Chief Justice shall be one.
 
-(3) Notice of the motion shall be served on the Society which shall appear at the hearing of the motion and shall place before the court a report which shall include copies of the record of any proceedings as the result of which the name of the solicitor was removed from or struck off the roll and a statement of any facts which have occurred since the name of the solicitor was removed from or struck off the roll and which in the opinion of the Council or any member of it are relevant to be considered or to be investigated in connection with the application.
-
 [41/93]
+
+(3) Notice of the motion shall be served on the Society which shall appear at the hearing of the motion and shall place before the court a report which shall include copies of the record of any proceedings as the result of which the name of the solicitor was removed from or struck off the roll and a statement of any facts which have occurred since the name of the solicitor was removed from or struck off the roll and which in the opinion of the Council or any member of it are relevant to be considered or to be investigated in connection with the application.
 
 ### Costs
 
@@ -2341,7 +2740,7 @@ REMUNERATION OF SOLICITORS
 
 ### Agreements with respect to remuneration for non-contentious business
 
-109\.—(1) Whether or not any order is in force under section 108, a solicitor and his client may, either before or after or in the course of the transaction of any non- contentious business by the solicitor, make an agreement as to the remuneration of the solicitor in respect thereof.
+109\.—(1) Whether or not any order is in force under section 108, a solicitor and his client may, either before or after or in the course of the transaction of any non-contentious business by the solicitor, make an agreement as to the remuneration of the solicitor in respect thereof.
 
 (2) An agreement under subsection (1) shall not provide for costs at a scale lower than that provided by any order made under section 108.
 
@@ -2349,7 +2748,7 @@ REMUNERATION OF SOLICITORS
 
 (4) The agreement shall be in writing and signed by the person to be bound thereby or his agent in that behalf.
 
-(5) The agreement may be sued and recovered on or set aside in the like manner and on the like grounds as an agreement not relating to the remuneration of a solicitor.
+(5) The agreement may be sued and recovered on or set aside in the like manner and on the like grounds as an agreement not relating to the remuneration of a solicitor:
 
 (6) If on any taxation of costs the agreement is relied on by the solicitor and objected to by the client as unfair or unreasonable, the taxing officer may enquire into the facts and certify them to the court, and if on that certificate it appears just to the court that the agreement should be cancelled, or the amount payable thereunder reduced, the court may order the agreement to be cancelled, or the amount payable thereunder to be reduced, and may give such consequential directions as the court thinks fit.
 
@@ -2359,7 +2758,9 @@ REMUNERATION OF SOLICITORS
 
 (2) If a mortgage has been made to, or has become vested by transfer or transmission in, a solicitor, either alone or jointly with any other person, and any business is transacted or acts are done by that solicitor, or by the firm of which he is a member, in relation to that mortgage or the security thereby created or the property comprised thereunder, then he or they shall be entitled to recover from the person on whose behalf the business was transacted or the acts were done, and to charge against the security, such usual costs as he or they would have been entitled to receive if the mortgage had been made to and had remained vested in a person who was not a solicitor and that person had retained and employed him or them to transact that business and do those acts.
 
-(3) In this section, “mortgage” includes any charge on any property for securing money or money’s worth.
+(3) In this section,
+
+“mortgage” includes any charge on any property for securing money or money’s worth.
 
 Contentious business
 
@@ -2421,7 +2822,9 @@ RECOVERY AND TAXATION OF COSTS
 
 ### Definition of “solicitor” in this Part
 
-116\. In this Part, “solicitor” includes the executors, administrators and assignees of the solicitor in question.
+116\. In this Part,
+
+“solicitor” includes the executors, administrators and assignees of the solicitor in question.
 
 ### Charging orders
 
@@ -2477,7 +2880,9 @@ RECOVERY AND TAXATION OF COSTS
 
 ### Preparation of bills of costs as between solicitor and client
 
-126\. Bills of costs for taxation as between solicitor and client shall be drawn in the manner provided by the Rules of the Supreme Court [Cap. 322, R 5], and the taxation shall be governed by those Rules.
+126\. Bills of costs for taxation as between solicitor and client shall be drawn in the manner provided by the Rules of the Supreme Court, and the taxation shall be governed by those Rules.
+
+[]
 
 ### Interest in respect of disbursements and advances
 
@@ -2567,15 +2972,15 @@ MISCELLANEOUS
 
 (b) an institution of a public character approved by the Minister for the purposes of section 37(2)(c) of the Income Tax Act.
 
-## THE SCHEDULE
+FIRST SCHEDULE
 
-Section 74
+Section 74.
 
-Intervention in solicitor’s practice
+Intervention in Solicitor’s Practice
 
 Part I
 
-CIRCUMSTANCES IN WHICH SOCIETY MAY INTERVENE
+Circumstances in Which Society May Intervene
 
 1.—(1) Subject to sub-paragraph (2), the powers conferred by Part II shall be exercisable where —
 
@@ -2593,7 +2998,9 @@ in connection with that solicitor’s practice or in connection with any trust o
 
 (c) the Council is satisfied that a solicitor has failed to comply with the rules made under section 72 of the Act;
 
-(d) a solicitor has been adjudicated bankrupt, or a receiving order in bankruptcy is in force against him or he has made a composition or arrangement with his creditors;
+(d) a solicitor has been adjudicated bankrupt or he has made a composition or arrangement with his creditors;
+
+[Act 15/95 wef 15/07/1995]
 
 (e) a solicitor has one or more outstanding judgments against him amounting in the aggregate to $100,000 which he has been unable to satisfy within 6 months from the date of the earliest judgment;
 
@@ -2625,9 +3032,9 @@ in connection with that solicitor’s practice or in connection with any trust o
 
 Part II
 
-POWERS EXERCISABLE ON INTERVENTION
+Powers Exercisable on Intervention
 
-MONEY
+Money
 
 5.—(1) The High Court, on the application of the Society, may order that no payment shall be made without the leave of the Court by any person (whether or not named in the order) of any money held by him (in whatever manner and whether it was received before or after the making of the order) on behalf of the solicitor or his firm.
 
@@ -2651,7 +3058,7 @@ MONEY
 
 (4) Within 14 days of the service of a notice under sub-paragraph (3), the person on whom it was served, on giving not less than 48 hours’ notice in writing to the Society and (if the notice gives the name of the solicitor instructed by the Society) to that solicitor, may apply to the High Court for an order directing the Society to withdraw the notice.
 
-(5) If the High Court makes such an order, it shall have power also to make such other order with respect to the matter as it may think fit.
+(5) If the Court makes such an order, it shall have power also to make such other order with respect to the matter as it may think fit.
 
 (6) If any person on whom a notice has been served under sub-paragraph (3) pays out sums of money at a time when the payment is prohibited by the notice, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
@@ -2659,7 +3066,15 @@ MONEY
 
 (2) A bank at which a special account is kept shall be under no obligation to ascertain whether it is being dealt with properly.
 
-(3) Without prejudice to paragraphs 5, 6 and 7, if the High Court is satisfied, on an application by the Society, that there is reason to suspect that any person holds money on behalf of the solicitor or his firm, the Court may require that person to give the Society information as to that money and the accounts in which it is held.
+(3) Any moneys paid into a special account under sub-paragraph (1) which have not been claimed for a period of 6 years shall be paid by the Society into the Compensation Fund maintained under section 75.
+
+[Act 40/96 wef 01/01/1997]
+
+(4) If any claimant makes any demand against the Society for any amount of unclaimed moneys paid into the Compensation Fund under sub-paragraph (3), the Society may pay that amount free of interest to the claimant out of the Compensation Fund.
+
+[Act 40/96 wef 01/01/1997]
+
+(8) Without prejudice to paragraphs 5, 6 and 7, if the High Court is satisfied, on an application by the Society, that there is reason to suspect that any person holds money on behalf of the solicitor or his firm, the Court may require that person to give the Society information as to that money and the accounts in which it is held.
 
 Documents
 
@@ -2709,9 +3124,123 @@ General
 
 15\. The Society may do all things which are reasonably necessary for the purpose of facilitating the exercise of its powers under this Schedule.
 
-16. In this Schedule, “controlled trust”, in relation to a solicitor, means a trust of which he is a sole trustee or co-trustee only with one or more of his partners or employees.
+16. In this Schedule,
+
+“controlled trust”, in relation to a solicitor, means a trust of which he is a sole trustee or co-trustee only with one or more of his partners or employees.
 
 [41/93]
+
+[Act 40/96 wef 01/01/1997]
+
+SECOND SCHEDULE
+
+Section 75B.
+
+Inadequate Professional Services
+
+Circumstances in which Council’s powers may be exercised
+
+1.—(1) The Council may take any of the steps mentioned in paragraph 2 (referred to in this Schedule as the steps) with respect to a solicitor where it appears to the Council that the professional services provided by him in connection with any matter in which he or his firm has been instructed by a client have, in any respect, not been of the quality which it is reasonable to expect of him as a solicitor.
+
+(2) The Council shall not take any of the steps unless it is satisfied that, in all the circumstances of the case, it is appropriate to do so.
+
+(3) In determining in any case whether it is appropriate to take any of the steps, the Council may —
+
+(a) have regard to the existence of any remedy which it is reasonable to expect to be available to the client in civil proceedings; and
+
+(b) where proceedings seeking any such remedy have not been begun by the client, have regard to whether it is reasonable to expect the client to begin them.
+
+Directions which may be given
+
+2.—(1) The steps are —
+
+(a) determining that the costs to which the solicitor is entitled in respect of his services (referred to in this Schedule as the costs) are to be limited to such amount as may be specified in the determination and directing him to comply, or to secure compliance, with such one or more of the permitted requirements as appear to the Council to be necessary in order for effect to be given to the Council’s determination;
+
+(b) directing him to secure rectification, at his expense or at that of his firm, of any such error, omission or other deficiency arising in connection with the matter in question as the Council may specify;
+
+(c) directing him to pay such compensation to the client as the Council sees fit to specify in the direction;
+
+(d) directing him to take, at his expense or at that of his firm, such other action in the interests of the client as the Council may specify.
+
+(2) The permitted requirements referred to in sub-paragraph (1)(a) are —
+
+(a) that the whole or part of any amount already paid by or on behalf of the client in respect of the costs be refunded;
+
+(b) that the whole or part of the costs be remitted;
+
+(c) that the right to recover the costs be waived, whether wholly or to any specified extent.
+
+(3) The power of the Council to take any such steps is not confined to cases where the client may have a cause of action against the solicitor for negligence.
+
+Compensation
+
+3.—(1) The amount specified in a direction by virtue of paragraph 2(1)(c) shall not exceed S10,000.
+
+(2) The Chief Justice may, by order published in theGazette, amend sub-paragraph (1) by substituting for the sum of S10,000 such other sum as he considers appropriate.
+
+(3) Before making any such order, the Chief Justice shall consult the Society.
+
+Taxation of costs
+
+4.—(1) Where the Council has given a direction under paragraph 2(1)(a), then —
+
+(a) for the purposes of any taxation of a bill covering the costs, the amount charged by the bill in respect of them shall be deemed to be limited to the amount specified in the determination; and
+
+(b) where a bill covering the costs has not been taxed, the client shall, for the purposes of their recovery (by whatever means and notwithstanding any statutory provision or agreement) be deemed to be liable to pay in respect of them only the amount specified in the determination.
+
+(2) Where a bill covering the costs has been taxed, the direction shall, so far as it relates to the costs, cease to have effect.
+
+Failure to comply with direction
+
+5.—(1) If a solicitor fails to comply with a direction given under this Schedule, any person may make a complaint in respect of that failure to direction a judge; but no other proceedings whatever shall be brought in respect of it except pursuant to an order made under sub-paragraph (2).
+
+(2) On the hearing of such a complaint, the judge may, if he thinks fit, direct that the direction be treated, for the purpose of enforcement, as if it were contained in an order made by the High Court.
+
+Fees
+
+6.—(1) The Council may, by rules made with the concurrence of the Chief Justice, make provision for the payment, by any client with respect to whom the Council is asked to consider whether to take any of the steps, of such fee as may be prescribed.
+
+(2) The rules may provide for the exemption of such classes of client as may be prescribed.
+
+(3) Where a client pays the prescribed fee, it shall be repaid to him if the Council takes any of the steps in the matter with respect to which the fee was paid.
+
+Costs
+
+7. Where the Council takes any of the steps with respect to a solicitor, the Council may also direct him to pay to the Council —
+
+(a) the amount of the fee payable by the Council to the client under paragraph 6(3); and
+
+(b) an amount which is calculated by the Council as the cost to it of dealing with the complaint, or which in its opinion represents a reasonable contribution towards that cost.
+
+Duty of judge
+
+8. Where a judge —
+
+(a) is considering, or has considered, an application or complaint with respect to a solicitor under this Schedule; and
+
+(b) is of the opinion that the Council should consider whether to take any of the steps with respect to that solicitor,
+
+he shall inform the Council.
+
+Powers of Society to examine documents in connection with complaints
+
+9.—(1) Where the Council is satisfied that it is necessary to do so for the purpose of investigating any complaint made to the Society relating to the quality of any professional services provided by a solicitor, the Society may give notice to the solicitor or his firm requiring the production or delivery to any person appointed by the Society, at a time and place to be fixed by the Society, of all documents in the possession of the solicitor or his firm in connection with the matters to which the complaint relates (whether or not they relate also to other matters).
+
+(2) Sub-paragraphs (2) to (12) of paragraph 9 and paragraphs 11 to 15 of the First Schedule shall apply in relation to the powers conferred by sub-paragraph (1) as they apply in relation to the powers conferred by paragraph 9(1) of that Schedule and accordingly in those provisions —
+
+(a) any reference to a person appointed, or to a requirement, under that sub-paragraph shall be construed as including a reference to a person appointed, or to a requirement, under sub-paragraph (1); and
+
+(b) any reference to any such documents as are mentioned in that sub-paragraph shall be construed as including a reference to any such documents as are mentioned in sub-paragraph (1).
+
+Exercise of powers by Council
+
+10\. The powers of the Council under this Schedule are exercisable in relation to a person even though his name has been removed from, or struck off, the roll and references to a solicitor in this Schedule, so far as they relate to the exercise of those powers, shall be construed accordingly.
+
+Rules
+
+11. The Council may, with the concurrence of the Chief Justice, make rules to give full effect to or to carry out the purposes of the provisions of this Schedule.
+
+[Act 40/96 wef 01/01/1997]
 
 ## LEGISLATIVE HISTORY
 
@@ -2817,3 +3346,12 @@ This Legislative History is provided for the convenience of users of the Legal P
 ||Date of commencement|1 January 1994|
 |21.|**1994 Revised Edition—Legal Profession Act (Chapter 161)**|
 ||Date of operation|15 March 1994|
+|22.|**Act 15 of 1995—Bankruptcy Act 1995**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|25 July 1994|
+|||(Bill No. 16/94 published on 29 July 1994)|
+||Date of Second Reading|25 August 1994|
+||Date Committed to Select Committee|25 August 1994|
+||Date of Presentation of Select Committee Report|7 March 1995 (Parl 1 of 1995)|
+||Date of Third Reading|23 March 1995|
+||Date of commencement|15 July 1995|
