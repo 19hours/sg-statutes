@@ -806,7 +806,7 @@ Betaprodine.
 
 Bezitramide.
 
-Brolamfetamide.
+4-Bromo-2,5-dimethoxy-α-methylphenethylamine (also known as Brolamfetamine).
 
 4-Bromo-2,5-dimethoxyphenethylamine.
 
@@ -830,8 +830,6 @@ Codoxime.
 
 Desomorphine.
 
-Dexamphetamine.
-
 Dextromoramide.
 
 Diamorphine.
@@ -848,7 +846,7 @@ Dimenoxadole.
 
 Dimepheptanol.
 
-2, 5-dimethoxy-∝-methyphenethylamine.
+2, 5-Dimethoxy-∝-methylphenethylamine.
 
 N, ∝−διµετηψλ-3, 4-(methylenedioxy) phenethylamine.
 
@@ -866,7 +864,7 @@ Drotebanol.
 
 Ecgonine, and any derivative of ecgonine which is convertible to ecgonine or to cocaine.
 
-4-ethyl-2, 5-dimethoxy-∝-phenethylamine.
+4-Ethyl-2,5-dimethoxy-∝-methylphenethylamine.
 
 N-ethyl-∝−µετηψλ-3, 4-(methylenedioxy) phenethylamine.
 
@@ -898,10 +896,6 @@ Isomethadone.
 
 Ketobemidone.
 
-Levamphetamine.
-
-Levomethamphetamine.
-
 Levomethorphan.
 
 Levomoramide.
@@ -924,15 +918,15 @@ Methadyl acetate.
 
 Methcathinone.
 
-2-methoxy-∝−µετηψλ-4, 5-(methylenedioxy) phenethylamine.
+3-Methoxy-∝−µετηψλ-4,5-(methylenedioxy) phenethylamine.
 
 p-methoxy-∝−µετηψλπηενετηψλαµινε.
 
 4-methylaminorex.
 
-Methylamphetamine.
+Methamphetamine (also known as Methylamphetamine).
 
-Methyldesorphine.
+N-Methyl-a-ethyl-3,4-(methylenedioxy)phenethylamine.
 
 Methyldihydromorphine (6-methyldihydromorphine).
 
@@ -1000,7 +994,7 @@ Racemorphan.
 
 Rolicyclidine.
 
-Tenamfetamine.
+a-Methyl-3,4-(methylenedioxy)phenethylamine (also known as Tenamfetamine).
 
 Tenocyclidine.
 
@@ -1022,7 +1016,7 @@ N, N-Diethyltryptamine.
 
 N, N-Dimethyltryptamine.
 
-2, 5-Dimethoxy- , 4-dimethyl-phenethylamine.
+2, 5-Dimethoxy-4,a-dimethylphenethylamine.
 
 1-Hydroxy-3-pentyl-6a, 7, 10, 10a-tetra hydro-6, 6,
 
@@ -1972,3 +1966,5 @@ This Legislative History is provided for the convenience of users of the Misuse 
 ||Date of commencement|17 May 1996|
 |22.|**1997 Revised Edition—Misuse of Drugs Act (Chapter 185)**|
 ||Date of operation|30 May 1997|
+|23.|**G. N. No. S 469/1997—Misuse of Drugs Act (Amendment of First Schedule) Order 1997**|
+||Date of commencement|17 October 1997|
