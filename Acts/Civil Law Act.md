@@ -24,6 +24,8 @@
 
 - [9 Power of courts of record to award interest on debts and damages](#Power-of-courts-of-record-to-award-interest-on-debts-and-damages)
 
+- [9A Charges and mortgages over choses in action](#Charges-and-mortgages-over-choses-in-action)
+
 - [10 Abolition of husband’s liability for wife’s torts and antenuptial contracts, debts and obligations](#Abolition-of-husband’s-liability-for-wife’s-torts-and-antenuptial-contracts-debts-and-obligations)
 
 - [11 Proceedings against, and contribution between, joint and several tortfeasors](#Proceedings-against-and-contribution-between-joint-and-several-tortfeasors)
@@ -255,6 +257,12 @@ Provided that nothing in this section —
 (c) shall affect the damages recoverable for the dishonour of a bill of exchange.
 
 [8
+
+### Charges and mortgages over choses in action
+
+9A\. For the avoidance of doubt, it is hereby declared that a person (“the first person”) is able to create, and always has been able to create, in favour of another person (“the second person”) a legal or equitable charge or mortgage over all or any of the first person’s interest in a chose in action enforceable by the first person against the second person, and any charge or mortgage so created shall operate neither to merge the interest thereby created with, nor to extinguish or release, that chose in action.
+
+[Act 8 of 1993 wef 16/04/1993]
 
 ### Abolition of husband’s liability for wife’s torts and antenuptial contracts, debts and obligations
 
@@ -602,3 +610,8 @@ This Legislative History is provided for the convenience of users of the Civil L
 ||Date of commencement|1 May 1987|
 |26.|**1988 Revised Edition—Civil Law Act**|
 ||Date of operation|31 December 1987|
+|27.|**Act 8 of 1993—Civil Law (Amendment) Act 1993**|
+||Date of First Reading|18 January 1993|
+|||(Bill No. 1/93 published on 19 January 1993)|
+||Date of Second and Third Readings|26 February 1993|
+||Date of commencement|16 April 1993|
