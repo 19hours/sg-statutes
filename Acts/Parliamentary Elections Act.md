@@ -90,6 +90,8 @@
 
 - [32 Withdrawal of candidature](#Withdrawal-of-candidature)
 
+- [32A Multiple nominations](#Multiple-nominations)
+
 [**UNCONTESTED ELECTIONS**](#UNCONTESTED-ELECTIONS)
 
 - [33 Uncontested elections](#Uncontested-elections)
@@ -210,6 +212,16 @@
 
 - [78 Regulations for display of posters and banners](#Regulations-for-display-of-posters-and-banners)
 
+- [78A Regulations for other election advertising](#Regulations-for-other-election-advertising)
+
+- [78B Election advertising ban on polling day](#Election-advertising-ban-on-polling-day)
+
+- [78C Blackout period for election survey results](#Blackout-period-for-election-survey-results)
+
+- [78D Exit polls ban on polling day](#Exit-polls-ban-on-polling-day)
+
+- [78E Defence for election advertising offences](#Defence-for-election-advertising-offences)
+
 - [79 Punishment for conviction for illegal practice](#Punishment-for-conviction-for-illegal-practice)
 
 - [80 Prohibition of canvassing on polling day](#Prohibition-of-canvassing-on-polling-day)
@@ -276,6 +288,8 @@
 
 - [107 Forms](#Forms)
 
+- [108 Corporate offenders and unincorporated associations](#Corporate-offenders-and-unincorporated-associations)
+
 [**FIRST SCHEDULE**](#FIRST-SCHEDULE)
 
 [**SECOND SCHEDULE Parliamentary Elections Act (Chapter 218) Directions for Guidance of Voters in Voting**](#SECOND-SCHEDULE-Parliamentary-Elections-Act-Chapter-218-Directions-for-Guidance-of-Voters-in-Voting)
@@ -312,7 +326,7 @@ PRELIMINARY
 
 ### Interpretation
 
-2\. In this Act, unless the context otherwise requires —
+2\.—(1) In this Act, unless the context otherwise requires —
 
 “ballot box” includes a ballot container;
 
@@ -322,7 +336,7 @@ PRELIMINARY
 
 “Commissioner of National Registration” means the Commissioner of National Registration appointed under the National Registration Act (Cap. 201);
 
-“direct recording electronic voting machine” or “DRE voting machine” means any mechanical, electronic or electro-optical machine that can —
+“direct recording electronic”, “voting machine” or “DRE voting machine” means any mechanical, electronic or electro-optical machine that can —
 
 (a) be activated by a voter to mark or record his vote for any candidate or group of candidates on a ballot display on the machine;
 
@@ -337,6 +351,16 @@ and includes any computer program that is used in the operation of the machine;
 “direct recording electronic voting system” or “DRE voting system” means any voting system using DRE voting machines;
 
 “election” means an election for the purpose of electing a Member of Parliament;
+
+“election advertising” means any poster, banner, notice, circular, handbill, illustration, article, advertisement or other material that can reasonably be regarded as intended —
+
+(a) to promote or procure the electoral success at any election for one or more identifiable political parties, candidates or groups of candidates; or
+
+(b) to otherwise enhance the standing of any such political parties, candidates or groups of candidates with the electorate in connection with any election,
+
+and such material shall be election advertising even though it can reasonably be regarded as intended to achieve any other purpose as well and even though it does not expressly mention the name of any political party or candidate, but excludes any button, badge, pen, pencil, balloon and any other thing prescribed by the Minister by notification in theGazette;
+
+[31/2001 wef 14/09/2001]
 
 “elector” means a person whose name is entered in a register as an elector to vote at an election;
 
@@ -358,6 +382,10 @@ and includes any computer program that is used in the operation of the machine;
 
 “Parliament” means the Parliament of Singapore established by the Constitution;
 
+“political party” means a political party which is registered under the Societies Act (Cap. 311);
+
+[31/2001 wef 14/09/2001]
+
 “polling district” means a part of an electoral division subdivided under section 9;
 
 “polling station” means any polling station established by or under the authority of the Returning Officer under section 36A for voters to cast their votes at an election, and includes any overseas polling station;
@@ -367,6 +395,10 @@ and includes any computer program that is used in the operation of the machine;
 “principal election agent” means an election agent of a candidate in a group who has been appointed under section 62(5) as the principal election agent for that group;
 
 “public authority” means any body corporate, board or authority established by or under any written law for the performance of any public function, but excludes any Town Council constituted under the Town Councils Act (Cap. 329A);
+
+“publish” means make available to the general public, or any section thereof, in whatever form and by whatever means, including broadcasting (by wireless telegraphy or otherwise) and transmitting on what is commonly known as the Internet;
+
+[31/2001 wef 14/09/2001]
 
 “register” or “register of electors” means the register of electors for any particular electoral division comprising sections, each of which shall relate to a polling district of that electoral division;
 
@@ -379,6 +411,24 @@ and includes any computer program that is used in the operation of the machine;
 “voter” means a person who, whether his name does or does not appear in a register of electors, applies to vote or votes at an election.
 
 [10/88; 9/91; 42/96; 18/99; 19/2001]
+
+(2) For the purposes of the definition of “election advertising” in subsection (1) —
+
+(a) the reference to electoral success at any election shall be a reference —
+
+(i) in relation to any political party, to the return at any such election of candidates or groups of candidates standing in the name of the party; and
+
+(ii) in relation to candidates or groups of candidates, to their return at any such election;
+
+(b) the reference to the doing of anything mentioned in paragraph (a) or (b) of that definition shall include doing so by prejudicing the electoral prospects at the election of other political parties, candidates or groups of candidates or (as the case may be) by prejudicing the standing with the electorate of other political parties, candidates or groups of candidates; and
+
+[2/2007 wef 01/03/2007]
+
+(c) the reference to candidates or groups of candidates shall include any person or group of persons (whether or not a member of any political party) who, on or after the date of the issue of a writ for the election is declared, by himself or others, as seeking nomination as a candidate at that election.
+
+[31/2001 wef 14/09/2001]
+
+[18/2005 wef 06/06/2005]
 
 ### Appointment of officers
 
@@ -1070,7 +1120,7 @@ a certificate issued to him under section 27A(6) certifying that he is a person 
 
 [10/88]
 
-(5) Where the nomination paper of any group does not comply with this section or section 27A, or where any candidate in a group withdraws his candidature under section 32, the nomination of that group shall be deemed to be void.
+(5) Where the nomination paper of any group does not comply with this section or section 27A, or where any candidate in a group withdraws or is deemed to have withdrawn his candidature under section 32, the nomination of that group shall be deemed to be void.
 
 [31/2001 wef 14/09/2001]
 
@@ -1156,12 +1206,6 @@ the sum deposited shall be forfeited and paid into the Consolidated Fund.
 
 [10/88]
 
-(5) Notwithstanding anything in this section, where a candidate is nominated at a general election in more than one electoral division, he shall in no case recover his deposit more than once.
-
-(5A) In the case referred to in subsection (5), the deposits shall be forfeited and paid into the Consolidated Fund except, if the candidate or the group to which he belongs has for any electoral division obtained the required number of votes, such one deposit as the Returning Officer thinks fit shall be returned to the candidate.
-
-[10/88]
-
 (6) For the purposes of this section —
 
 (a) the number of votes polled shall be deemed to be the number of votes counted other than rejected votes; and
@@ -1233,6 +1277,14 @@ the sum deposited shall be forfeited and paid into the Consolidated Fund.
 [18/2005 wef 06/06/2005]
 
 (2) The Returning Officer shall forthwith cause notice of the withdrawal to be posted in a conspicuous position outside the place of nomination.
+
+### Multiple nominations
+
+32A\.—(1) A candidate who is validly nominated for more than one electoral division at a general election shall withdraw his candidature in all those electoral divisions except one before 12 noon on the day of nomination, and if he does not so withdraw he shall be deemed to have withdrawn his candidature in all the electoral divisions under section 32.
+
+(2) Subsection (1) shall also apply where 2 or more by-elections are held at the same time.
+
+[31/2001 wef 14/09/2001]
 
 UNCONTESTED ELECTIONS
 
@@ -2224,7 +2276,13 @@ shall be guilty of the offence of undue influence.
 
 (b) commits the offence of treating, undue influence or bribery;
 
-(c) prints, publishes, distributes or posts up or causes to be printed, published, distributed or posted up any advertisement, handbill, placard or poster which refers to any election and which does not bear upon its face the names and addresses of its printer and publisher;
+(c) publishes or causes to be published any election advertising during the period beginning with the day the writ of election is issued for an election and ending on the eve of polling day at the election which —
+
+(i) in the case of election advertising that is, or is contained in, a printed document, does not bear on its face or, if there is more than one side of printed matter, on the first or last page of the document, the names and addresses of its printer, its publisher and the person for whom or at whose direction the election advertising is published; or
+
+(ii) in the case of any other election advertising, does not bear in the form and manner prescribed under section 78A the names and addresses of its publisher and the person for whom or at whose direction the election advertising is published;
+
+[31/2001 wef 14/09/2001]
 
 (d) makes or publishes, before or during any election, for the purpose of affecting the return of any candidate, any false statement of fact in relation to the personal character or conduct of the candidate;
 
@@ -2245,6 +2303,24 @@ shall be guilty of a corrupt practice and shall on conviction by a District Cour
 (3) A prosecution for a corrupt practice except any corrupt practice as defined in subsection (1)(d) and (e) shall not be instituted without the sanction of the Public Prosecutor.
 
 (4) Nothing in this section shall prevent any police officer from exercising the powers conferred upon him by Chapter XIII of the Criminal Procedure Code (Cap. 68) in the case of non-seizable offences or from exercising his powers to prevent a continuance of any corrupt practice.
+
+(5) Where any election advertising is published in contravention of subsection (1)(c), the printer of the election advertising as well as the person for whom or at whose direction the election advertising is published shall each also be guilty of a corrupt practice and shall each be liable on conviction to the same punishment and incapacity under this section as the publisher thereof.
+
+[31/2001 wef 14/09/2001]
+
+(6) Subsection (1)(c) shall not apply in respect of —
+
+(a) the distribution of a book, or the promotion of the sale of a book, for not less than its commercial value, if the book was planned to be published regardless of whether there was to be an election;
+
+(b) the publication of a document directly by a person or a group of persons to their members, employees or shareholders, as the case may be;
+
+(c) the transmission by an individual to another individual, on a non-commercial basis on what is commonly known as the Internet, of his own political views;
+
+(d) the publication of any news relating to an election in a newspaper in any medium or in a radio or television broadcast; or
+
+(e) such other circumstances or activities as may be prescribed by the Minister by order in theGazette.
+
+[31/2001 wef 14/09/2001]
 
 ELECTION AGENT, ELECTION EXPENSES AND ILLEGAL PRACTICES
 
@@ -2505,6 +2581,96 @@ ELECTION AGENT, ELECTION EXPENSES AND ILLEGAL PRACTICES
 “poster” includes any label, set of colours, drawing, painting, advertisement, handbill or placard or any replica of a voting paper or of the symbol of any political party.
 
 (4) Any person who commits an offence under such regulations shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months.
+
+### Regulations for other election advertising
+
+78A\.—(1) The Minister may make regulations —
+
+(a) prescribing the form and manner in which details as to the names and addresses of the publisher of any election advertising not comprising printed matter and of the person for whom or at whose direction it is published must be included in such election advertising for the purpose of complying with section 61(1)(c)(ii); and
+
+(b) regulating election advertising and the publication thereof during an election period on what is commonly known as the Internet by political parties, candidates or their election agents and relevant persons, including prescribing the features that must or must not appear or be used in any such election advertising.
+
+(2) Any person who contravenes any regulations made under subsection (1)(b) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+(3) For the purposes of this section and any regulations made thereunder —
+
+“election period” means the period beginning with the day the writ of election is issued for an election and ending with the close of all polling stations on polling day at the election;
+
+“relevant person” means any person or group of persons in Singapore (other than a political party, a candidate or his election agent) which —
+
+(a) provides any programme on the World Wide Web through what is commonly known as the Internet under a class licence; and
+
+(b) is required under the conditions of the class licence to register with the Singapore Broadcasting Authority on account of that person or group of persons engaging in or providing any programme for the propagation, promotion or discussion of political issues relating to Singapore,
+
+[34/2002 wef 01/01/2003]
+
+and a person or a group of persons shall be regarded as required to register with the Singapore Broadcasting Authority even though the time permitted for such registration has not expired;
+
+“Singapore Broadcasting Authority” means the Singapore Broadcasting Authority constituted under the Singapore Broadcasting Authority Act (Cap. 297).
+
+[31/2001 wef 14/09/2001]
+
+### Election advertising ban on polling day
+
+78B\.—(1) Subject to subsection (2), no person shall on polling day display or publish, or cause or permit to be displayed or published, any election advertising in or among any electors in any electoral division before the close of all the polling stations in the electoral division.
+
+(2) Subsection (1) shall not apply in respect of —
+
+(a) any election advertising that was lawfully published before polling day on what is commonly known as the Internet and that was not changed after its publication;
+
+(b) the continued lawful display or posting of posters or banners;
+
+(c) the distribution of a book, or the promotion of the sale of a book, for not less than its commercial value, if the book was planned to be published regardless of whether there was to be an election;
+
+(d) the transmission by an individual to another individual, on a non-commercial basis on what is commonly known as the Internet, of his own political views;
+
+(e) the publication of any news relating to an election in a newspaper in any medium or in a radio or television broadcast; or
+
+(f) such other circumstances or activities as may be prescribed by the Minister by order in theGazette.
+
+(3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[31/2001 wef 14/09/2001]
+
+### Blackout period for election survey results
+
+78C\.—(1) No person shall publish or permit or cause to be published the results of any election survey during the period beginning with the day the writ of election is issued for an election and ending with the close of all polling stations on polling day at the election.
+
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+(3) In this section, “election survey” means an opinion survey of how electors will vote at an election or of the preferences of electors respecting any candidate or group of candidates or any political party or issue with which an identifiable candidate or group of candidates is associated at an election.
+
+[31/2001 wef 14/09/2001]
+
+### Exit polls ban on polling day
+
+78D\.—(1) No person shall publish or permit or cause to be published on polling day before the close of all polling stations on polling day —
+
+(a) any statement relating to the way in which voters have voted at the election where that statement is (or might reasonably be taken to be) based on information given by voters after they have voted; or
+
+(b) any forecast as to the result of the election which is (or might reasonably be taken to be) based on information so given.
+
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+(3) In this section —
+
+(a) “forecast” includes estimates; and
+
+(b) any reference to the result of an election is a reference to the result of an election either as a whole or so far as any particular candidate or group of candidates at the election are concerned.
+
+[31/2001 wef 14/09/2001]
+
+### Defence for election advertising offences
+
+78E\.—(1) It shall be a defence for a person charged with an offence under section 61(1) or (5), 78A(2), 78B(3), 78C(2) or 78D(2) to prove —
+
+(a) that the contravention of section 61(1)(c), (d) or (e), 78B(1), 78C(1), 78D(1) or any regulations made under section 78A(1)(b), as the case may be, arose from circumstances beyond his control; and
+
+(b) that he took all reasonable steps, and exercised all due diligence, to ensure that that contravention would not arise.
+
+(2) Nothing in subsection (1) shall limit the operation of section 10 of the Electronic Transactions Act (Cap. 88) in relation to network service providers.
+
+[31/2001 wef 14/09/2001]
 
 ### Punishment for conviction for illegal practice
 
@@ -2931,6 +3097,32 @@ GENERAL
 ### Forms
 
 107\. The forms in the First Schedule or forms substantially to the like effect, shall be sufficient in law, and may be varied, or other forms prescribed, by the Minister as circumstances require.
+
+### Corporate offenders and unincorporated associations
+
+108\.—(1) Where an offence under this Act committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of —
+
+(a) any director, manager, secretary or other similar officer of the body corporate; or
+
+(b) any person who was purporting to act in any such capacity,
+
+he, as well as the body corporate, shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+(2) Where the affairs of the body corporate are managed by its members, subsection (1) shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
+
+(3) Proceedings for an offence alleged to have been committed under this Act by an unincorporated association shall be brought against the association in its own name (and not in that of any of its members) and, for the purposes of any such proceedings, any rules of court relating to service of documents shall have effect as if the association were a corporation.
+
+(4) Where a partnership is guilty of an offence under this Act, every partner (other than a partner who is proved to have been ignorant of, or to have attempted to prevent the commission of, the offence) shall also be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+(5) Where any other unincorporated association is guilty of an offence under this Act —
+
+(a) every officer of the association who is bound to fulfil any duty of which the offence is a breach; or
+
+(b) if there is no such officer, every member of the committee or other similar governing body (other than a member who is proved to have been ignorant of, or to have attempted to prevent the commission of, the offence),
+
+shall also be guilty of an offence and shall be liable to be proceeded against and punished accordingly.
+
+[31/2001 wef 14/09/2001]
 
 FIRST SCHEDULE
 
@@ -3453,6 +3645,11 @@ This Legislative History is provided for the convenience of users of the Parliam
 ||Date of commencement|15 May 2001|
 |50.|**2001 Revised Edition—Parliamentary Elections Act**|
 ||Date of operation|31 July 2001|
+|51.|**Act 31 of 2001—Parliamentary Elections (Amendment No. 2) Act 2001**|
+||Date of First Reading|25 July 2001|
+|||(Bill No. 29/2001 published on 26 July 2001)|
+||Date of Second and Third Readings|13 August 2001|
+||Date of commencement|14 September 2001|
 ## COMPARATIVE TABLE
 
 Parliamentary Elections Act
