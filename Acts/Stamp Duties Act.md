@@ -94,7 +94,7 @@
 
 - [32 (Repealed)](#Repealed)
 
-- [33 Directions as to certain contract notes](#Directions-as-to-certain-contract-notes)
+- [33 Directions as to disposal of shares in certain circumstances](#Directions-as-to-disposal-of-shares-in-certain-circumstances)
 
 - [33A Commissioner may disregard certain transactions and dispositions](#Commissioner-may-disregard-certain-transactions-and-dispositions)
 
@@ -263,8 +263,6 @@ Sections 2 (a), 36, 37 and 39(2) of the Stamp Duties (Amendment) Act 1999 (Act 3
 2Revenue stamps were so authorised by G.N. No. S 252/70.
 
 “Commissioner” means the Commissioner of Stamp Duties appointed under this Act;
-
-“contract note” means the note sent by a broker or agent to his principal, or by any person who by way of business deals, or holds himself out as dealing, as a principal, in any stock or marketable securities, advising the principal, or the vendor or purchaser, as the case may be, of the sale or purchase of any stock or marketable security, but does not include a note sent by a broker or agent to his principal where the principal is himself acting as broker or agent for a principal and is himself a person who bona fide carries on the business of a stockbroker in Singapore;
 
 “conveyance on sale” includes every instrument and every decree or order of any court, whereby any property, or any estate or interest in any property, upon the sale thereof is transferred to or vested in a purchaser or any other person on his behalf or by his direction;
 
@@ -636,6 +634,48 @@ the claim shall be deemed to have been disallowed and an amount equal to the dut
 
 (3) Any conveyance or transfer (not being a disposition made in favour of a purchaser or incumbrancer or other person in good faith and for valuable consideration) shall, for the purposes of this section, be deemed to be a conveyance or transfer operating as a voluntary disposition inter vivos, and (except where marriage is the consideration) the consideration for any conveyance or transfer shall not for this purpose be deemed to be valuable consideration where the Commissioner is of the opinion that by reason of the inadequacy of the sum paid as consideration or other circumstances the conveyance or transfer confers a substantial benefit on the person to whom the property is conveyed or transferred.
 
+(3A) For the purpose of subsection (3) —
+
+(a) a conveyance or transfer shall be treated as a conveyance or transfer made in consideration of marriage if —
+
+(i) the transferor is a party to the marriage or is a parent, grandparent or sibling of a party to the marriage;
+
+(ii) the transferee is a party to the marriage;
+
+(iii) the property or interest in the property conveyed or transferred is the matrimonial home of the parties to the marriage;
+
+(iv) the property or interest in the property is conveyed or transferred within the specified time period; and
+
+(v) there is no other property or interest in the property conveyed or transferred to the parties on the occasion of that marriage in respect of which ad valorem duty has not been charged because marriage was the consideration; and
+
+(b) a conveyance or transfer shall not be treated as a conveyance or transfer made in consideration of marriage if —
+
+(i) the marriage is between 2 parties who had previously been married to each other; and
+
+(ii) ad valorem duty was not charged on any property or interest in the property conveyed or transferred to the parties on the occasion of the previous marriage because marriage was the consideration.
+
+[38/2002 wef 01/01/2003]
+
+(3B) In subsection (3A) —
+
+“parent”, in relation to a party to the marriage, means —
+
+(a) a natural parent of the party;
+
+(b) a person by whom the party was adopted in accordance with any written law relating to the adoption of children; or
+
+(c) a step-parent of the party,
+
+and “grandparent” shall be construed accordingly;
+
+“specified time period” means —
+
+(a) one year before or after the date of solemnization of a marriage; or
+
+(b) such other time period as may be prescribed in lieu of the time period specified in paragraph (a).
+
+[38/2002 wef 01/01/2003]
+
 (4) A conveyance or transfer made —
 
 (a) for nominal consideration for the purpose of securing the repayment of an advance or loan;
@@ -836,7 +876,7 @@ shall be treated for the purpose of this section as a conveyance on sale of resi
 
 [26/96]
 
-(3) Subject to the provisions of this Act, any instrument made on or after 15th May 1996 whereby an exchange of any property is effectedshall be treated for the purpose of this section as a conveyance on sale of residential property if residential property or any part thereof is being disposed of under the instrument by any party thereto before the expiration of 3 years from the date on which the party acquired the residential property or any part thereof.
+(3) Subject to the provisions of this Act, any instrument made on or after 15th May 1996 whereby an exchange of any property is effected or agreed to be effected shall be treated for the purpose of this section as a conveyance on sale of residential property if residential property or any part thereof is being disposed of under the instrument by any party thereto before the expiration of 3 years from the date on which the party acquired the residential property or any part thereof.
 
 [26/96]
 
@@ -1056,11 +1096,17 @@ Legal alteration in policies may be made
 
 32\. 
 
-### Directions as to certain contract notes
+### Directions as to disposal of shares in certain circumstances
 
-33\.—(1) Where a contract note is a continuation or carrying over note made for the purpose of continuing or carrying over any transaction for the sale or purchase of stock or marketable securities, the contract note, although it is made in respect of both a sale and purchase, shall be charged with duty under this section as if it related to one of those transactions only, and, if different rates of duty are chargeable in respect of those transactions, to that one of those transactions which would render the contract note chargeable at the highest rate.
+33\. Where a disposal of shares in a company by a transferor to a transferee is effected by —
 
-(2) Where a contract note advises the sale or purchase of more than one description of stock or marketable security, the note shall be deemed to be as many contract notes as there are descriptions of stocks or securities sold or purchased.
+(a) the cancellation of the shares of the transferor in the company; and
+
+(b) the issue of new shares in that company to the transferee,
+
+such disposal of shares shall be treated as a transfer of shares from the transferor directly to the transferee and ad valorem duty shall be charged on any instrument that, in the opinion of the Commissioner, effects, whether directly or indirectly and whether wholly or partially, any arrangement for the disposal of the shares.
+
+[38/2002 wef 01/01/2003]
 
 ### Commissioner may disregard certain transactions and dispositions
 
@@ -1108,17 +1154,33 @@ Obligation to give receipts
 
 36\. No duty shall be chargeable in respect of —
 
-(a) any instrument executed by or on behalf of or in favour of the Government in cases where, but for this exemption, the Government would be liableto pay the duty chargeable in respect of that instrument;
+(a) any instrument executed by or on behalf of or in favour of the Government in cases where, but for this exemption, the Government would be liable under section 34 to pay the duty chargeable in respect of that instrument;
 
 (b) any instrument for the sale, transfer, lease or other disposition, either absolutely or by way of mortgage or otherwise, of land situate outside Singapore or any share, estate or interest in land situate outside Singapore;
 
 (c) any instrument which relates exclusively to things to be done outside Singapore;
 
-(d) any instrument for the transfer on sale of any stock issued by or on behalf of any government or State, other than the Government of Singapore, or of any stock issued by or on behalf of any corporation, company, or body of persons incorporated, formed or established outside Singapore, except stock registered in a register kept in Singapore; and
+(d) any instrument for the transfer on sale of any stock issued by or on behalf of any government or State, other than the Government of Singapore, or of any stock issued by or on behalf of any corporation, company, or body of persons incorporated, formed or established outside Singapore, except stock registered in a register kept in Singapore;
 
-(e) any instrument executed by or on behalf of a society registered under the Co-operative Societies Act (Cap. 62) or executed by an officer or member of any such society and relating solely to the business of the society unless the instrument relates to any immovable property where, but for this exemption, the purchaser of the property, not being a co-operative society would, in accordance with section 34, be the person liable to pay the duty chargeable on that instrument.
+(e) any instrument executed by or on behalf of or in favour of a co-operative society registered under the Co-operative Societies Act (Cap. 62) or executed by an officer or member of any such co-operative society and relating solely to the business of the co-operative society where, but for this exemption, the co-operative society would be liable under section 34 to pay the duty chargeable on that instrument;
 
-[38/75; 4/81; 18/86; 33/99]
+[38/2002 wef 01/01/2003]
+
+(f) any instrument whereby any security is assigned, transferred or negotiated to the Monetary Authority of Singapore (whether on sale or otherwise) under the Exchange Control Act (Cap. 99);
+
+[38/2002 wef 01/01/2003]
+
+(g) any instrument made by the Collector of Land Revenue under the Land Acquisition Act (Cap. 152);
+
+[38/2002 wef 01/01/2003]
+
+(h) any deed, conveyance, assignment or other assurance which relates solely to immovable property or to any mortgage, charge or other encumbrances on, or any estate, right or interest in, any immovable property or stock or shares which are part of the estate of any bankrupt (including any debtor proceeded against under the Bankruptcy Act (Cap. 20)), and which, after the execution of the instrument, either at law or in equity, is or remains the estate of the bankrupt (including any debtor proceeded against under that Act) or of the Official Assignee, and any bond or other instrument relating solely to the property of any bankrupt; and
+
+[38/2002 wef 01/01/2003]
+
+(i) any instrument of transfer lodged under section 125 or 126 of the Land Titles (Strata) Act (Cap. 158) except where the transfer relates to any designated land as defined in section 126A of that Act.
+
+[38/2002 wef 01/01/2003]
 
 ## PART V
 
@@ -1126,13 +1188,17 @@ ADJUDICATION AS TO STAMPS
 
 ### Mode of adjudication as to proper stamp duty
 
-37\.—(1) Where any instrument, whether executed or not and whether previously stamped or not, is brought to the Commissioner and the person bringing it applies to the Commissioner as to whether the instrument is chargeable with any duty and, if so, the amount of duty chargeable, the Commissioner shall, upon payment of the relevant adjudication fee prescribed in the Fourth Schedule, adjudicate and assess the duty with which, in his judgment, the instrument is chargeable.
+37\.—(1) Where any instrument, whether executed or not and whether previously stamped or not, is brought to the Commissioner and the person bringing it applies to the Commissioner as to whether the instrument is chargeable with any duty and, if so, the amount of duty chargeable, the Commissioner shall adjudicate and assess the duty with which, in his judgment, the instrument is chargeable.
 
 [33/99]
 
 (1A) Where the person seeks the opinion of the Commissioner under subsection (1) as to the amount of duty chargeable, he shall in making the application for adjudication set forth the value upon which in his opinion duty is chargeable.
 
 [38/75]
+
+(1B) The person seeking the opinion of the Commissioner under subsection (1) as to the amount of duty chargeable shall pay the relevant adjudication fee prescribed in the Fourth Schedule at such time as the Commissioner may determine, and such fee shall remain payable notwithstanding that he subsequently withdraws his application for adjudication.
+
+[38/2002 wef 01/01/2003]
 
 (2) For the purpose of the adjudication under subsection (1), the Commissioner may require any of the following:
 
@@ -1184,7 +1250,7 @@ the Commissioner shall certify by issuing and attaching to the instrument a cert
 
 ### Notice of objection
 
-39A\.—(1) Any person who is dissatisfied with an assessment of the Commissioner under section 37 may, by written notice (referred to in this Act as a notice of objection), object to the assessment and apply to the Commissioner to review the assessment.
+39A\.—(1) Any person who is dissatisfied with an assessment of the Commissioner under any provision of this Act may, by written notice (referred to in this Act as a notice of objection), object to the assessment and apply to the Commissioner to review the assessment.
 
 [33/99]
 
@@ -1880,13 +1946,23 @@ $10 or the same duty as paragraph (a) or (c), as the case may be, whichever is t
 
 (i) the beneficial interest in the property passes
 
-The same duty as in paragraph (a) or (c), as the case may be
+The same duty as in paragraph (a), (b) or (c), as the case may be
 
 (ii) the beneficial interest in the property does not pass
 
 $10 or the same duty as in paragraph (a) or (c), as the case may be, whichever is the lesser
 
-(h ) of any property or any interest thereof not otherwise specially charged with duty
+(h) of any property or any interest thereof which is distributed in specie to a shareholder of a company by the liquidator of the company after the liabilities of the company have been satisfied —
+
+(i) where the shareholder became a shareholder of the company only after the winding up proceedings had commenced
+
+The same duty as in paragraph (a), (b) or (c), as the case may be
+
+(ii) in any other case
+
+$10
+
+( i) of any property or any interest thereof not otherwise specially charged with duty
 
 $10
 
@@ -1904,13 +1980,17 @@ DUPLICATE or COUNTERPART of any instrument chargeable with duty, and in respect 
 
 $2 or the same duty payable on the original, whichever is the lesser
 
+Exemption:
+
+The duplicate or counterpart of any instrument which has been exempted from duty or in respect of which duty has been remitted
+
 6
 
 EXCHANGE:
 
-Any instrument whereby an exchange of immovable property is effected
+Any instrument whereby immovable properties are exchanged or agreed to be exchanged
 
-The same duty as for a conveyance on sale for a consideration equal to the value of the immovable property of greater value
+The same duty as for a conveyance on sale for each of the immovable properties in the exchange
 
 7
 
@@ -2030,6 +2110,8 @@ The same duty as for a conveyance on sale for a consideration equal to the amoun
 
 $10
 
+[38/2002 wef 01/01/2003]
+
 11SECOND SCHEDULE
 
 Sections 7(1) and (6) and 8(1)
@@ -2076,29 +2158,30 @@ The lessee
 
 The lessor
 
-2
+2 CONVEYANCE
 
-CONVEYANCE — Article No. 3
+—
 
-(a) Paragraphs (a), (c) to (h)
+Article No. 3 (a), (c) to (i)
 
 The grantee, transferee or lessee
 
-(b) Paragraph (b)
+Article No. 3 (b)
 
-(i) instrument effecting exchange
+The grantor, transferor
 
-The parties in equal shares unless only one party is disposing of his property under the instrument before the expiration of 3 years from the date on which it was acquired, whereupon duty shall be paid only by that party
 
-(ii) in any other case
 
-The grantor, transferor or lessor
 
-3
+or lessor
 
-EXCHANGE — Article No. 6
+3 EXCHANGE
 
-The parties in equal shares
+—
+
+Article No. 6
+
+Same as a conveyance
 
 4
 
@@ -2123,6 +2206,8 @@ The mortgagor or obligor
 PARTITION — Article No. 10
 
 The parties thereto, in proportion to their respective shares in the whole property partitioned, unless the partition is made in execution of an order made by a civil court or arbitrator, when it shall be paid in such proportion as the court or arbitrator directs.
+
+[38/2002 wef 01/01/2003]
 
 FOURTH SCHEDULE
 
@@ -2392,6 +2477,11 @@ This Legislative History is provided for the convenience of users of the Stamp D
 ||Date of commencement|1.7.2000|
 |57.|**2000 Revised Edition—Stamp Duties Act**|
 ||Date of operation|30 December 2000|
+|58.|**Act 38 of 2002—Stamp Duties (Amendment) Act 2002**|
+||Date of First Reading|31 October 2002|
+|||(Bill No. 40/2002 published on 13 December 2002)|
+||Date of Second and Third Readings|25 November 2002|
+||Date of commencement|1 January 2003|
 ## COMPARATIVE TABLE
 
 Stamp Duties Act
