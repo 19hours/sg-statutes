@@ -216,6 +216,10 @@ PRELIMINARY
 
 (b) any other person on board any ship or aircraft registered in Singapore.
 
+(1A) Where an offence under section 8 or 26 is committed outside Singapore by a citizen of Singapore, he may be dealt with in respect of that offence as if it had been committed within Singapore.
+
+[26/2001 wef 01/09/2001]
+
 (2) Notwithstanding anything in any other written law, proceedings in respect of any offence under section 8 or 26 committed anywhere outside Singapore shall not, by virtue only of the provisions of this Act, be instituted in any court except with the consent of the Public Prosecutor.
 
 (3) Notwithstanding subsection (2), a person may be arrested, or a warrant for a person’s arrest may be issued and executed, and the person may be remanded in custody or on bail, but no further or other proceedings shall be taken until the consent of the Public Prosecutor has been obtained.
