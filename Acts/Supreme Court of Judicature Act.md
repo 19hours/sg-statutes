@@ -1455,3 +1455,8 @@ This Legislative History is provided for the convenience of users of the Supreme
 |||(Bill No. 27/95)|
 ||Date of Second and Third Readings|27 September 1995|
 ||Date of commencement|1 January 1996 (section 12 — amendment of Supreme Court of Judicature Act)|
+|11.|**Act 3 of 1996—Supreme Court of Judicature (Amendment) Act 1995**|
+||Date of First Reading|1 November 1995|
+|||(Bill No. 38/95)|
+||Date of Second and Third Readings|5 December 1995|
+||Date of commencement|26 January 1996|
