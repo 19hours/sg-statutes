@@ -98,7 +98,7 @@
 
 - [40 Record and inspection of vehicles, etc.](#Record-and-inspection-of-vehicles-etc)
 
-- [41 Service of orders, notices and requisitions](#Service-of-orders-notices-and-requisitions)
+- [41 Orders, notices and requisitions](#Orders-notices-and-requisitions)
 
 - [42 Vehicles used for the purposes of this Act](#Vehicles-used-for-the-purposes-of-this-Act)
 
@@ -230,21 +230,21 @@ ADMINISTRATION
 
 (2) It shall not be an offence for any person to refuse to comply with any request, demand, order or direction made or given by any authorised officer acting or purporting to act under this Act if the officer refuses to declare his office and produce his identification card on demand being made by that person.
 
-## PART III\*
+## PART III1
 
 REQUISITIONING OF PROPERTY AND SERVICES
 
-\*This Part was not in operation when this Revised Edition was brought into force.
+1This Part was not in operation when this Revised Edition was brought into force.
 
 ### Taking possession of land
 
-8\.—(1) A competent authority may, if it appears to that authority to be necessary or expedient for the defence of the country or for the maintenance of supplies and services essential to the life of the community, take or authorise in writing the taking of possession of any land and may give such directions as appear to be necessary for taking and maintaining possession of such land and for the eviction of any person who is, enters or remains on such land without the consent of the competent authority.
+8\.—(1) A competent authority may, if it appears to that authority to be necessary or expedient for the defence of the country or for the maintenance of supplies and services essential to the life of the community, take or authorise in writing the taking of possession of any land and may give such directions as appear to be necessary for the taking and maintaining possession of such land and for the eviction of any person who is, enters or remains on such land without the consent of the competent authority.
 
 (2) Without prejudice to the generality of subsection (1), any direction given under that subsection may authorise any authorised officer to break open, enter forcibly and remain on any land the taking of possession of which has been authorised by the competent authority and to evict forcibly from that land any persons that the competent authority may specify or any persons other than such persons as the competent authority may specify.
 
 (3) Whether or not any specified direction has been given under subsection (2), an authorised officer may take such steps and use such force as appears to him to be reasonably necessary for securing compliance with any direction given under subsection (1).
 
-(4) While any land is in the possession of a competent authority by virtue of this section, the land may, notwithstanding any restriction imposed on the use thereof (whether by any other written law or other instrument or otherwise), be used by, or under the authority of, the competent authority for the defence of the country or for the maintenance of supplies and services essential to the life of the community, and the competent authority, so far as appears to him to be necessary or expedient in connection with the taking of possession or use of the land in pursuance of this subsection, may —
+(4) While any land is in the possession of a competent authority by virtue of this section, the land may, notwithstanding any restriction imposed on the use thereof (whether by any other written law or other instrument or otherwise), be used by, or under the authority of, the competent authority for the defence of the country or for the maintenance of supplies and services essential to the life of the community, and the competent authority, so far as appears to it to be necessary or expedient in connection with the taking of possession or use of the land in pursuance of this subsection, may —
 
 (a) do, or authorise persons using the land as aforesaid to do, in relation to the land, anything which any person having an interest in the land would be entitled to do by virtue of that interest; and
 
@@ -310,7 +310,9 @@ and may give such directions as appear to the competent authority to be necessar
 
 (5) In any case in which the chattel requisitioned is a chattel other than a vehicle, vessel or aircraft, such chattel shall, as soon as possession thereof is taken in pursuance of this section, vest in the Government free from any mortgage, pledge, lien or other similar obligation.
 
-(6) Where a competent authority has issued his notice of requisition in respect of any chattel, such chattel shall be furnished by the owner and the person having the possession, custody or control thereof to the competent authority or to such persons as the competent authority shall appoint for the purpose forthwith or (if such is the case) within such period as may be mentioned in the requisition. On any refusal or neglect to furnish such chattel in the manner aforesaid, or if the competent authority has reasonable ground for believing that it is not practicable without undue delay to give any direction for the chattel requisitioned to be furnished or delivered to the competent authority, then the competent authority or any authorised officer acting on behalf of the competent authority may take possession (and if need be may enter any premises by force for the purpose) of the chattel requisitioned and may use the chattel in like manner as if it had been furnished in pursuance of the requisition. Payment for the chattel shall nevertheless be made in like manner as if the chattel had been duly furnished according to the requisition provided that the chattel specified in the requisition shall not be deemed to have been furnished except in so far as possession is taken by or by the direction of the competent authority.
+(6) Where a competent authority has issued its notice of requisition in respect of any chattel, such chattel shall be furnished by the owner and the person having the possession, custody or control thereof to the competent authority or to such persons as such authority shall appoint for the purpose forthwith or (if such is the case) within such period as may be prescribed or mentioned in the requisition. On any refusal or neglect to furnish such property in the manner aforesaid, or if the competent authority has reasonable ground for believing that it is not practicable without undue delay to give any direction for the property requisitioned to be furnished or delivered to the competent authority, then the competent authority or any authorised officer acting on behalf of such authority may take possession (and if need be may enter any premises by force for the purpose) of the property requisitioned and may use the same in like manner as if it had been furnished in pursuance of the requisition. Payment for the same shall nevertheless be made in like manner as if the property had been duly furnished according to the requisition provided that the property specified in the requisition shall not be deemed to have been furnished except in so far as possession is taken by or by the direction of the competent authority.
+
+[Act 26/1989 wef 15/06/1989]
 
 (7) Where the Accountant-General is satisfied that any vehicle in respect of which a licence to keep has been granted has, in exercise of the powers conferred by this section, been acquired before the expiration of the period of the validity of the licence, the Accountant-General may authorise the refund to the person who at the date of such acquisition was the owner of the vehicle of a proportionate part of the fee paid for the licence in respect of such part of the period of its validity as remained unexpired at that date, if a claim for the refund is made to him in writing by that person not later than 3 months after the date when the vehicle was acquired as aforesaid.
 
@@ -356,7 +358,7 @@ and may give such directions as appear to the competent authority to be necessar
 
 ### Competent authority may direct persons to carry out work in a disaster, etc.
 
-17\.—(1) A competent authority may, if it appears to him to be necessary for any works or operations to be carried out to deal or cope with a disaster, direct any person to carry out or assist in any such works or operations.
+17\.—(1) A competent authority may, if it appears to that authority to be necessary for any works or operations to be carried out to deal or cope with a disaster, direct any person to carry out or assist in any such works or operations.
 
 (2) Where a vehicle, vessel or aircraft is requisitioned by a competent authority under the provisions of this Act, the competent authority may direct the driver, operator or crew of the vehicle, vessel or aircraft to render such service as the competent authority may require.
 
@@ -614,9 +616,9 @@ COMPENSATION BOARDS TO DETERMINE DISPUTES
 
 ### Member of Compensation Board and proceedings deemed to be public servant and judicial proceedings respectively
 
-31\.—(1) Every member of a Compensation Board, when and so long as he is serving on the Compensation Board, shall be deemed to be a public servant within the meaning of the Penal Code [Cap. 224] and shall enjoy the same judicial immunity as is enjoyed by a District Judge.
+31\.—(1) Every member of a Compensation Board, when and so long as he is serving on the Compensation Board, shall be deemed to be a public servant within the meaning of the Penal Code and shall enjoy the same judicial immunity as is enjoyed by a District Judge.
 
-(2) All proceedings before the Compensation Board under this Act shall be deemed to be judicial proceedings within the meaning of the Penal Code.
+(2) All proceedings before the Compensation Board under this Act shall be deemed to be judicial proceedings within the meaning of the Penal Code [Cap. 224].
 
 ### Incidental powers of Compensation Board
 
@@ -720,29 +722,129 @@ MISCELLANEOUS AND SUPPLEMENTARY PROVISIONS
 
 (2) Without prejudice to any penalty under section 45, if any person is obstructed in the exercise of the powers of inspection conferred on him by regulations made under this section a Magistrate may, if satisfied by information on oath that the person has been obstructed, issue a search warrant authorising an authorised officer named therein, accompanied by that person, to enter the premises in respect of which the obstruction took place and to inspect any vehicles which may be found therein.
 
-### Service of orders, notices and requisitions
+### Orders, notices and requisitions
 
-41\. Orders, notices and requisitions required to be served, given or issued under this Act may be served as follows:
+41\.—(1) Orders, notices, directions and requisitions issued or made under this Act may —
 
-(a) if the person on whom service is to be effected is within Singapore, the order, notice or requisition may be delivered to him or left at his last-known address;
+(a) be of a general nature;
 
-(b) if the person on whom service is to be effected has an agent within Singapore, the order, notice or requisition may be delivered to the agent;
+(b) refer to a class of persons or to any number of persons;
 
-(c) by registered post addressed to the person on whom service is to be effected at his last-known address;
+(c) refer to an individual, a firm, company or corporation; or
 
-(d) where service is to be effected on a firm, the order, notice or requisition may be —
+(d) refer to any number of firms, companies or corporations.
 
-(i) served upon any one or more of the partners; or
+(2) An order, notice, direction or requisition required to be served or given under this Act may be served on any person, firm, company or corporation —
 
-(ii) left at the principal place of business of the firm;
+Personal delivery and telephone conversation
 
-(e) where service is to be effected on a company or corporation, the order, notice or requisition may be —
+(a) by delivering it personally, or reading the contents of the order, notice, direction or requisition over the telephone personally —
 
-(i) left at the registered office of the company or corporation;
+(i) to the person to be served if he is within Singapore;
 
-(ii) delivered to any director, manager or the secretary of the company or corporation or to any person having, on behalf of the company or corporation, powers of control or management over the business, occupation, work or matter to which the requisition relates; or
+(ii) to an agent of the person to be served if that person has an agent within Singapore;
 
-(iii) sent by registered post addressed to the company or corporation at its registered office.
+(iii) any one or more of the partners of a firm to be served;
+
+(iv) any director, manager or secretary of the company or corporation to be served; or
+
+(v) any person having, on behalf of the company or corporation to be served, powers of control or management over the business, occupation, work or matter to which the order, notice, direction or requisition relates;
+
+Publication in the newspapers andGazette
+
+(b) by publishing it in the daily newspapers circulating in Singapore in all the official languages or in theGazette;
+
+Delivery to residence, place of business or registered office
+
+(c) by leaving it —
+
+(i) at the usual or last known place of residence or business of the person to be served if he is within Singapore;
+
+(ii) at the principal place of business of the firm to be served; or
+
+(iii) at the registered office of the company or corporation to be served,
+
+with a person apparently above the age of 16 years and apparently residing at that place or, in the case of a place of business or registered office, apparently in charge of or employed at that place; or
+
+Registered post
+
+(d) by sending it by registered post addressed to —
+
+(i) the person to be served at the usual or last known place of residence or business of that person if he is within Singapore;
+
+(ii) the firm to be served at the principal place of business of that firm; or
+
+(iii) the company or corporation to be served at its registered office.
+
+(3) Without prejudice to the generality of subsection (2), a notice of requisition issued pursuant to section 12 or an order or direction issued pursuant to section 16 or 17 may be served on any person, firm, company or corporation —
+
+Broadcast over radio and television
+
+(a) by broadcasting it over the radio and television in the prescribed manner;
+
+Public-address system and siren
+
+(b) by audible signals given in the prescribed manner over a public-address system or through a siren where such signals are audible from the usual or last known place of residence or business, principal place of business or registered office of the person, firm, company or corporation to be served;
+
+Telephone conversation with member of family or household
+
+(c) by reading the contents of the notice of requisition, order or direction over the telephone to a member of the family or household of the person to be served who is apparently above the age of 16 years and apparently residing at the usual or last known place of residence of the person to be served;
+
+Telephone conversation with employee or person in charge of place of business or registered office
+
+(d) by reading the contents of the notice of requisition, order or direction over the telephone to a person apparently above the age of 16 years and apparently in charge of or is employed at the usual or last known place of business, principal place of business or registered office of the person, firm, company or corporation to be served;
+
+Pager
+
+(e) by sending it by radio-communications pager transmission in the prescribed manner to the person to be served, one or more of the partners of the firm to be served or any director, manager or secretary of the company or corporation to be served; or
+
+Facsimile transmission, telex and other means of telecommunication
+
+(f) by sending it by facsimile transmission, telex or any other prescribed means of telecommunication —
+
+(i) to the person to be served at the usual or last known place of residence or business of that person;
+
+(ii) to the firm to be served at the principal place of business of that firm; or
+
+(iii) to the company or corporation to be served at its registered office:
+
+Provided that there is an acknowledgment by electronic or any other means to the effect that the notice, order or direction has been received at the place of residence or business, principal place of business or registered office, as the case may be.
+
+### Knowledge of notice of requisition or order
+
+(4) Where a notice of requisition issued pursuant to section 12 or an order or direction issued pursuant to section 16 or 17 is served on any person, firm, company or corporation pursuant to —
+
+(a) subsection (2)(b), it shall be deemed to have been read by the person to whom it applies, all the partners of the firm and every director, manager and secretary of the company or corporation to which it applies by noon on the day following the date of publication;
+
+(b) subsection (2)(d), it shall be deemed to have been received and read by the person to whom it applies, all the partners of the firm and every director, manager and secretary of the company or corporation to which it applies on the expiry of 48 hours from the time at which it was delivered to the post office for despatch;
+
+(c) subsection (3)(a) or (b), it shall be deemed to have been seen or heard by the person to whom it applies, all the partners of the firm and every director, manager and secretary of the company or corporation to which it applies on the expiry of 6 hours from the commencement of the first broadcast, transmission or audible signal, as the case may be;
+
+(d) subsection (2)(c), (3)(c) or (3)(d), it shall be —
+
+(i) presumed, until the contrary is proved, to have been conveyed or read to the person to whom it applies, all the partners of the firm and every director, manager and secretary of the company or corporation to which it applies at the time of delivery or telephone conversation, as the case may be;
+
+(ii) deemed to have been conveyed or read to the person to whom it applies, all the partners of the firm and every director, manager and secretary of the company or corporation to which it applies on the expiry of 6 hours from the time of delivery or telephone conversation, as the case may be;
+
+(e) subsection (3)(e) or (f), it shall be —
+
+(i) presumed, until the contrary is proved, to have been received and read or heard by the person to whom it applies, all the partners of the firm and every director, manager and secretary of the company or corporation to which it is directed at the time of the first transmission;
+
+(ii) deemed to have been received and read or heard by the person to whom it applies, all the partners of the firm and every director, manager and secretary of the company or corporation to which it is directed on the expiry of 6 hours from the time of the first transmission.
+
+### Order, notice, direction or requisition to remain in force until compliance or revocation
+
+(5) An order, notice, direction or requisition issued under this Act shall remain in force until it is complied with or revoked and every person, firm, company or corporation failing to comply with such an order, notice, direction or requisition at the specified time shall be liable to comply with it as soon as possible.
+
+### Conditions and revocation
+
+(6) An order, notice, direction or requisition, issued or made under this Act, may be subject to conditions and may be revoked at any time.
+
+### Ignorance of order, notice, direction or requisition not an excuse
+
+(7) Where a person, firm, company or corporation has under subsection (4) been deemed to have knowledge of an order, notice, direction or requisition issued under this Act, ignorance of the fact that the order, notice, direction or requisition has been duly served on that person, firm, company or corporation in accordance with subsection (2) or (3) shall not be an excuse for failing to comply with that order, notice or requisition.
+
+[Act 26/1989 wef 15/06/1989]
 
 ### Vehicles used for the purposes of this Act
 
@@ -823,3 +925,8 @@ This Legislative History is provided for the convenience of users of the Requisi
 ||Date of commencement|5 October 1985|
 |2.|**1985 Revised Edition—Requisition of Resources Act**|
 ||Date of operation|30 March 1987|
+|3.|**Act 26 of 1989—Requisition of Resources (Amendment) Act 1989**|
+||Date of First Reading|7 April 1989|
+|||(Bill No. 26/1989 published on 8 April 1989)|
+||Date of Second and Third Readings|29 May 1989|
+||Date of commencement|15 June 1989|
