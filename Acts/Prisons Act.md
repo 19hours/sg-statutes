@@ -52,7 +52,7 @@
 
 [**Part IV OFFICERS**](#Part-IV)
 
-- [20 Appointment of Director and other officers](#Appointment-of-Director-and-other-officers)
+- [20 Appointment of Director, Deputy Director, Superintendents and other officers](#Appointment-of-Director-Deputy-Director-Superintendents-and-other-officers)
 
 - [21 Prison Standing Orders](#Prison-Standing-Orders)
 
@@ -62,7 +62,7 @@
 
 - [24 Duties of Superintendent](#Duties-of-Superintendent)
 
-- [25 Medical officer for prisons](#Medical-officer-for-prisons)
+- [25 Medical officers for prisons](#Medical-officers-for-prisons)
 
 - [26 Duties of medical officer](#Duties-of-medical-officer)
 
@@ -72,11 +72,11 @@
 
 - [29 Observance of laws, regulations and orders](#Observance-of-laws-regulations-and-orders)
 
-- [30 Prison officers deemed public servants](#Prison-officers-deemed-public-servants)
+- [30 Prison officers and medical officers deemed public servants](#Prison-officers-and-medical-officers-deemed-public-servants)
 
 - [31 Use of weapons](#Use-of-weapons)
 
-- [32 Superintendent and prison officer to have powers of police officer](#Superintendent-and-prison-officer-to-have-powers-of-police-officer)
+- [32 Prison officer to have powers of police officer](#Prison-officer-to-have-powers-of-police-officer)
 
 [**Part V CUSTODY AND REMOVAL OF PRISONERS**](#Part-V)
 
@@ -92,7 +92,7 @@
 
 - [38 Production of persons before court](#Production-of-persons-before-court)
 
-- [39 Powers of Minister for production of prisoner in certain cases](#Powers-of-Minister-for-production-of-prisoner-in-certain-cases)
+- [39 Powers of Director for production of prisoner in certain cases](#Powers-of-Director-for-production-of-prisoner-in-certain-cases)
 
 - [40 Powers of Superintendent for production of prisoner in interest of prisoner](#Powers-of-Superintendent-for-production-of-prisoner-in-interest-of-prisoner)
 
@@ -146,9 +146,9 @@
 
 - [63 Delivery of uniform, etc., on leaving](#Delivery-of-uniform-etc-on-leaving)
 
-- [64 Threatening or insulting superiors](#Threatening-or-insulting-superiors)
+- [64 Threatening, insulting or assaulting another prison officer](#Threatening-insulting-or-assaulting-another-prison-officer)
 
-- [65 Prison Officers Reward Fund](#Prison-Officers-Reward-Fund)
+- [65 (Repealed)](#Repealed)
 
 - [66 Articles not to be conveyed into or out of prison](#Articles-not-to-be-conveyed-into-or-out-of-prison)
 
@@ -222,15 +222,29 @@ PRELIMINARY
 
 “Corporation” means the Singapore Corporation of Rehabilitative Enterprises established under the Singapore Corporation of Rehabilitative Enterprises Act (Cap. 298);
 
+“Deputy Director” means the Deputy Director of Prisons appointed under section 20;
+
+[33/2004 wef 04/10/2004]
+
 “Director” means the Director of Prisons appointed under section 20;
 
 “lock-up prisoner” means any person, whether convicted or not, who is confined in a lock-up, or who is transported to, or from, a lock-up;
 
+“medical officer” means a medical officer appointed under section 25;
+
+[33/2004 wef 04/10/2004]
+
 “prison” means any house, building, enclosure or place, or any part thereof, declared to be a prison or reformative training centre under section 3, and includes the grounds and buildings within the prison enclosure and also the airing grounds or other grounds or buildings belonging or attached thereto and used by prisoners;
 
-“prison officer” means any prison officer appointed under section 20 but does not include the Director or any Superintendent;
+“prison officer” means any prison officer appointed under section 20 and includes the Director, Deputy Director and any Superintendent;
+
+[33/2004 wef 04/10/2004]
 
 “prisoner” means any person, whether convicted or not, under detention in any prison or reformative training centre;
+
+“registered medical practitioner” means a person registered under the Medical Registration Act (Cap. 174);
+
+[33/2004 wef 04/10/2004]
 
 “Superintendent” means a Superintendent of Prisons appointed under section 20;
 
@@ -416,7 +430,7 @@ COMMITTEE OF INQUIRY
 
 ### Persons who may be affected by findings
 
-17\.—(1) Where it appears to a committee of inquiry that the Director, any Superintendent, prison officer or witness may be adversely affected by its findings, the committee shall notify him and give him an opportunity to be present at the proceedings of the committee of inquiry or at such part thereof as the chairman may specify.
+17\.—(1) Where it appears to a committee of inquiry that any prison officer or witness may be adversely affected by its findings, the committee shall notify him and give him an opportunity to be present at the proceedings of the committee of inquiry or at such part thereof as the chairman may specify.
 
 [8/2000]
 
@@ -458,15 +472,19 @@ COMMITTEE OF INQUIRY
 
 OFFICERS
 
-### Appointment of Director and other officers
+### Appointment of Director, Deputy Director, Superintendents and other officers
 
-20\.—(1) The Minister may appoint a Director of Prisons, and, either by name or as holding any office for the time being, one or more Superintendents of Prisons, and such and so many prison officers, male or female, as may be necessary.
+20\.—(1) The Minister may appoint a Director of Prisons, a Deputy Director of Prisons and, either by name or as holding any office for the time being, one or more Superintendents of Prisons, and such and so many prison officers, male or female, as may be necessary.
 
 [7/97]
 
-(2) The appointment of the Director and of any Superintendent shall be notified in theGazette.
+(2) The appointment of the Director, Deputy Director and of any Superintendent shall be notified in theGazette.
 
 [8
+
+(3) The Deputy Director may, subject to such direction as may be given by the Director, exercise and perform all or any of the powers, duties and functions of the Director under this Act.
+
+[33/2004 wef 04/10/2004]
 
 ### Prison Standing Orders
 
@@ -496,15 +514,11 @@ OFFICERS
 
 [12
 
-### Medical officer for prisons
+### Medical officers for prisons
 
-25\.—(1) The Director of Medical Services shall, whenever the circumstances permit, appoint a medical officer for the prisons.
+25\. The Director shall appoint one or more registered medical practitioners as may be necessary to be medical officers for the prisons.
 
-(2) If circumstances do not permit the appointment of a medical officer under subsection (1) by the Director of Medical Services, the Minister may appoint any registered medical practitioner to be the medical officer for any particular prison.
-
-(3) Whenever a medical officer appointed under subsection (1) is, owing to illness or temporary absence or for other sufficient reason, unable to perform his duties, his duties shall be performed by another medical officer appointed in that behalf by the medical officer, or in default of the medical officer by the Superintendent.
-
-[13
+[33/2004 wef 04/10/2004]
 
 ### Duties of medical officer
 
@@ -520,13 +534,13 @@ OFFICERS
 
 ### Accoutrements
 
-28\. Every Superintendent and every prison officer shall be provided with such staves, arms, ammunition and other accoutrements as may be prescribed.
+28\. Every prison officer shall be provided with such staves, arms, ammunition and other accoutrements as may be prescribed.
 
 [18
 
 ### Observance of laws, regulations and orders
 
-29\. Every Superintendent and every prison officer shall —
+29\. Every prison officer shall —
 
 (a) strictly conform to all laws and regulations relating to prisons and prisoners; and
 
@@ -534,15 +548,15 @@ OFFICERS
 
 [19
 
-### Prison officers deemed public servants
+### Prison officers and medical officers deemed public servants
 
-30\. The Director and all Superintendents, medical officers and prison officers appointed under this Act or any regulations made thereunder shall be deemed to be public servants within the meaning of the Penal Code (Cap. 224).
+30\. All prison officers and medical officers appointed under this Act or any regulations made thereunder shall be deemed to be public servants within the meaning of the Penal Code (Cap. 224).
 
 [20
 
 ### Use of weapons
 
-31\.—(1) Subject to this section, a Superintendent or prison officer may use any weapon —
+31\.—(1) Subject to this section, a prison officer may use any weapon —
 
 (a) against any prisoner escaping or attempting to escape;
 
@@ -556,7 +570,7 @@ OFFICERS
 
 [8/2000]
 
-(2) A Superintendent or prison officer may use any weapon —
+(2) A prison officer may use any weapon —
 
 (a) on any prisoner engaged in any combined outbreak; and
 
@@ -570,13 +584,13 @@ and may continue to use the weapon so long as the combined outbreak or attempt i
 
 [8/2000]
 
-(3) Every Superintendent and every prison officer may use weapons against any prisoner using violence on any prison officer or other person, if the Superintendent or prison officer has reasonable ground to believe that the prison officer or other person is in danger of life or limb, or that other grievous hurt is likely to be caused to him.
+(3) Every prison officer may use weapons against any prisoner using violence on any prison officer or other person, if the prison officer has reasonable ground to believe that the prison officer or other person is in danger of life or limb, or that other grievous hurt is likely to be caused to him.
 
-(4) A Superintendent or prison officer shall not resort to the use of any weapon under subsection (1) unless he has reasonable ground to believe that he cannot otherwise prevent the escape of any prisoner .
+(4) A prison officer shall not resort to the use of any weapon under subsection (1) unless he has reasonable ground to believe that he cannot otherwise prevent the escape of any prisoner .
 
 [8/2000]
 
-(5) Before using any firearm against a prisoner or other person referred to in subsection (1), the Superintendent or prison officer shall give a warning to the prisoner or that other person, as the case may be, that he is about to fire on him.
+(5) Before using any firearm against a prisoner or other person referred to in subsection (1), the prison officer shall give a warning to the prisoner or that other person, as the case may be, that he is about to fire on him.
 
 [8/2000]
 
@@ -590,9 +604,9 @@ and may continue to use the weapon so long as the combined outbreak or attempt i
 
 [21
 
-### Superintendent and prison officer to have powers of police officer
+### Prison officer to have powers of police officer
 
-32\. Every Superintendent and every prison officer while acting as such shall by virtue of his office have all the powers, authorities, protection and privileges of a police officer.
+32\. Every prison officer while acting as such shall by virtue of his office have all the powers, authorities, protection and privileges of a police officer.
 
 [22
 
@@ -672,11 +686,11 @@ CUSTODY AND REMOVAL OF PRISONERS
 
 [27
 
-### Powers of Minister for production of prisoner in certain cases
+### Powers of Director for production of prisoner in certain cases
 
-39\.—(1) The Minister may, on proof to his satisfaction that the presence of any prisoner at any place is required in the interests of justice, or for the purpose of any public inquiry, by writing under his hand order that the prisoner be taken to that place.
+39\.—(1) The Director may, on proof to his satisfaction that the presence of any prisoner at any place is required in the interests of justice, or for the purpose of any public inquiry, by writing under his hand order that the prisoner be taken to that place.
 
-(2) A prisoner taken from a prison in pursuance of an order made under this section shall, while outside that prison, be kept in such custody as the Minister may by writing under his hand so direct, and while in that custody shall be deemed to be in legal custody.
+(2) A prisoner taken from a prison in pursuance of an order made under this section shall, while outside that prison, be kept in such custody as the Director may by writing under his hand so direct, and while in that custody shall be deemed to be in legal custody.
 
 [28
 
@@ -700,9 +714,13 @@ CUSTODY AND REMOVAL OF PRISONERS
 
 ### Occurrence of infectious disease
 
-42\.—(1) In case of a contagious or infectious disease occurring in any prison, it shall be lawful to remove any of the prisoners from the prison to another place although that place may not be a prison under this Act.
+42\.—(1) If the Director is satisfied that a case of a contagious or infectious disease has occurred or is likely to occur in any prison, the Director may order the removal of any of the prisoners from the prison to another place although that place may not be a prison under this Act.
 
-(2) The removal under subsection (1) may be made in pursuance of an order under the hand of the Minister, or, in a case of emergency, of the Superintendent or of any of the Visiting Justices of the prison.
+[33/2004 wef 04/10/2004]
+
+(2) In a case of emergency and where the Director is absent or unable to make the order for removal under subsection (1), the order may be made by the Superintendent of the prison concerned or any of the Visiting Justices of the prison.
+
+[33/2004 wef 04/10/2004]
 
 (3) Any such place shall be deemed during the continuance of any prisoner therein to be a part of the prison from which the prisoner was so removed.
 
@@ -712,13 +730,13 @@ CUSTODY AND REMOVAL OF PRISONERS
 
 ### Prisoners of unsound mind
 
-43\.—(1) Whenever a prisoner undergoing a sentence of imprisonment appears to the Minister on the certificate of a registered medical practitioner to be of unsound mind, the Minister may, by order in writing, setting forth the grounds of belief that the prisoner is of unsound mind, direct his removal from any prison to any mental hospital or other fit place of safe custody within Singapore, there to be kept and treated as the Minister directs —
+43\.—(1) Whenever a prisoner undergoing a sentence of imprisonment appears to the Director on the certificate of a registered medical practitioner to be of unsound mind, the Director may, by order in writing, setting forth the grounds of belief that the prisoner is of unsound mind, direct his removal from any prison to any mental hospital or other fit place of safe custody within Singapore, there to be kept and treated as the Director directs —
 
 (a) until the expiration of the term of imprisonment ordered by the sentence; or
 
 (b) if it is certified by a medical officer that it is necessary for the safety of the prisoner or of others that he should be detained under medical care and treatment, until he is discharged according to law.
 
-(2) When it appears to the Minister on the certificate of a registered medical practitioner that such prisoner has again become of sound mind, the Minister shall, by an order in writing, return him to the prison from where he was removed if his term of imprisonment has not expired, but if the term has expired, shall direct him to be discharged.
+(2) When it appears to the Director on the certificate of a registered medical practitioner that such prisoner has again become of sound mind, the Director shall, by an order in writing, return him to the prison from where he was removed if his term of imprisonment has not expired, but if the term has expired, shall direct him to be discharged.
 
 (3) Section 40 of the Mental Disorders and Treatment Act (Cap. 178) shall apply to every person confined in a mental hospital under this section after the expiration of the term of imprisonment to which he has been sentenced, and the time during which he is so confined shall be reckoned as part of such term.
 
@@ -742,9 +760,9 @@ CUSTODY AND REMOVAL OF PRISONERS
 
 ### Illness of prisoner
 
-45\.—(1) In case of serious illness of a prisoner (other than a prisoner referred to in subsection (2)) confined in a prison in which there is no suitable accommodation for the prisoner, any Superintendent may, on the certificate of a medical officer, make an order for his removal to a hospital.
+45\.—(1) In case of illness of a prisoner (other than a prisoner referred to in subsection (2)) confined in a prison in which there is no suitable accommodation for the prisoner, any Superintendent may, on the certificate of a medical officer, make an order for his removal to a hospital.
 
-(2) Where a prisoner confined in a prison appears to the Minister on the certificate of a registered medical practitioner to be suffering from leprosy, the Minister may, by order in writing, direct his removal to any hospital or place specified by the Director of Medical Services under section 8(2) of the Infectious Diseases Act (Cap. 137), there to be kept and treated until cured of his leprosy.
+(2) Where a prisoner confined in a prison appears to the Minister on the certificate of a registered medical practitioner to be suffering from leprosy, the Minister may, by order in writing, direct his removal to any hospital or place specified by the Director of Medical Services under section 8(1) of the Infectious Diseases Act (Cap. 137), there to be kept and treated until cured of his leprosy.
 
 (3) So long as any prisoner who has been removed to any hospital or place under subsection (2) shall remain therein, the medical officer thereof shall, at the end of every month, transmit to the Superintendent of the prison a certificate signed by him that it is in his opinion necessary that the prisoner should remain in the hospital or place.
 
@@ -752,7 +770,7 @@ CUSTODY AND REMOVAL OF PRISONERS
 
 ### Return to prison
 
-46\.—(1) So soon as, in the opinion of the medical officer in charge of any hospital or place specified by the Director of Medical Services under section 8(2) of the Infectious Diseases Act (Cap. 137), it is no longer necessary that any prisoner who has been removed to the hospital or place should remain therein, the medical officer shall transmit to the Superintendent a certificate, stating that such necessity has ceased.
+46\.—(1) So soon as, in the opinion of the medical officer in charge of any hospital or place specified by the Director of Medical Services under section 8(1) of the Infectious Diseases Act (Cap. 137), it is no longer necessary that any prisoner who has been removed to the hospital or place should remain therein, the medical officer shall transmit to the Superintendent a certificate, stating that such necessity has ceased.
 
 (2) Thereupon the Superintendent shall forthwith cause the prisoner to be brought back to the prison if he is still liable to be confined therein.
 
@@ -808,7 +826,7 @@ HOME DETENTION SCHEME
 
 ### Order for home detention
 
-52\. Subject to section 53, the Director may, if he thinks fit, by order release a prisoner who is eligible for home detention for a period not exceeding 6 months.
+52\. Subject to section 53, the Director may, if he thinks fit, by order release a prisoner who is eligible for home detention for a period not exceeding 12 months or such other period as the Minister may, by notification in theGazette, prescribe in substitution thereof.
 
 [38B
 
@@ -818,11 +836,27 @@ HOME DETENTION SCHEME
 
 53\.—(1) A prisoner is eligible to be released for home detention under section 52 if —
 
-(a) he is serving a sentence of imprisonment for a term of not less than 6 months and has served not less than half of his sentence of imprisonment; and
+(a) he is serving a sentence of imprisonment for a term of not less than 4 weeks or such other period as the Minister may, by notification in theGazette, prescribe in substitution thereof;
+
+[33/2004 wef 04/10/2004]
+
+(aa) he has served not less than 14 days of his sentence of imprisonment or such other period as the Minister may, by notification in theGazette, prescribe in substitution thereof; and
+
+[33/2004 wef 04/10/2004]
 
 (b) he is not a prisoner specified under the Schedule as being disqualified from being released for home detention under section 52.
 
 [8/2000]
+
+(1A) The disqualification of a prisoner under subsection (1)(b) may be removed by the Minister if he considers that the prisoner is deserving of home detention, having regard to the circumstances of the case, including the following factors:
+
+(a) the prisoner’s progress and response to rehabilitation in prison;
+
+(b) the prisoner’s family support; and
+
+(c) the risk of recidivism by the prisoner.
+
+[33/2004 wef 04/10/2004]
 
 (2) For the purpose of subsection (1)(a), the total consecutive periods of imprisonment of whatever nature shall be treated as one sentence.
 
@@ -952,7 +986,7 @@ DISCIPLINE AND PRISON OFFENCES
 
 ### Offences governing prison supplies
 
-60\.—(1) The Director, any Superintendent, prison officer, medical officer, member or employee of the Corporation or any other person working in a prison shall not —
+60\.—(1) No prison officer, medical officer, member or employee of the Corporation or any other person working in a prison shall —
 
 (a) sell, supply or receive, directly or indirectly, any benefit or advantage from the sale or supply of any article to or for the use of any prisoner or for the use of any prison;
 
@@ -962,7 +996,7 @@ DISCIPLINE AND PRISON OFFENCES
 
 [8/2000]
 
-(2) A prison officer, medical officer, member or employee of the Corporation or any other person working in a prison shall not hold any communication with any person on behalf of any prisoner unless authorised by the Director or the Superintendent.
+(2) A prison officer, medical officer, member or employee of the Corporation or any other person working in a prison shall not hold any communication with any person on behalf of any prisoner unless authorised by the Director, Deputy Director or the Superintendent.
 
 [8/2000]
 
@@ -994,9 +1028,9 @@ DISCIPLINE AND PRISON OFFENCES
 
 ### Delivery of uniform, etc., on leaving
 
-63\.—(1) Every person, upon ceasing to be a prison officer, shall forthwith deliver up to the Superintendent of the prison in which he is serving at the time of ceasing to be a prison officer, every article of uniform and clothing and all arms, accoutrements, ammunition, staves and other effects of every kind belonging to the Government.
+63\.—(1) Every prison officer shall, before leaving the Singapore Prison Service (whether by resignation, dismissal, discharge or otherwise), deliver up in good order (fair wear and tear excepted only) any arms, ammunition, accoutrement, uniform or other article supplied to him as a prison officer and any other property belonging to the Government which may be in his possession.
 
-[8/2000]
+[33/2004 wef 04/10/2004]
 
 (2) Any person who fails to comply with this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 3 months or to both and in addition thereto shall be liable to pay the value of any article not delivered up, which value shall be summarily ascertained by the court and shall be recoverable as if it were a fine.
 
@@ -1004,23 +1038,33 @@ DISCIPLINE AND PRISON OFFENCES
 
 [8/2000]
 
-### Threatening or insulting superiors
+### Threatening, insulting or assaulting another prison officer
 
-64\.—(1) Any prison officer who assaults, threatens or insults any officer senior to him in the prisons service when the senior officer is on duty or when the assault, threat or insult is related to or is consequent upon the discharge of duty by the officer so assaulted, threatened or insulted, shall be guilty of an offence and shall be liable on conviction before a District Court or Magistrate’s Court to a fine not exceeding $1,200 or to imprisonment for a term not exceeding 12 months.
+64\.—(1) Any prison officer who threatens or insults another prison officer of senior or equal rank —
 
-[8/2000]
+(a) when that other officer is on duty; or
+
+(b) when the threat or insult is related to or is consequent upon the discharge of duty by the officer so threatened or insulted,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[33/2004 wef 04/10/2004]
+
+(1A) Any prison officer who assaults another prison officer —
+
+(a) when that other officer is on duty; or
+
+(b) when the assault is related to or is consequent upon the discharge of duty by the officer so assaulted,
+
+shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years.
+
+[33/2004 wef 04/10/2004]
 
 (2) Any person convicted under this section may, unless the conviction is reversed on appeal, be dismissed from his office, and all arrears of pay due to him may be forfeited.
 
 [47
 
-### Prison Officers Reward Fund
-
-65\.—(1) All pay which is forfeited by and fines inflicted upon prison officers under this Act shall be paid into a fund to be called the Prison Officers Reward Fund.
-
-(2) The Fund shall be administered by the Director in accordance with regulations made under section 84.
-
-[48
+65\. [Deleted by Act 33/2004 wef 04/10/2004]
 
 ### Articles not to be conveyed into or out of prison
 
@@ -1114,7 +1158,7 @@ shall be guilty of an offence.
 
 [8/2000]
 
-(3) The Director may within 7 days of being notified by the Superintendent under subsection (2) —
+(3) The Director may within 14 days, or such longer period as may be required in exceptional cases, of being notified by the Superintendent under subsection (2) —
 
 (a) confirm any punishment imposed by the Superintendent under subsection (1); or
 
@@ -1162,7 +1206,7 @@ shall be guilty of an offence.
 
 (11) doing any act calculated to create any unnecessary alarm in the minds of the prisoners or officers;
 
-(12) leaving without permission of an officer the gang to which he is attached, or the part of the prison in which he is confined;
+(12) leaving without permission of an officer the group to which he is attached, or the part of the prison in which he is confined;
 
 (13) leaving without permission of an officer the ward, the yard, the place in file, the seat or berth assigned to him;
 
@@ -1172,7 +1216,9 @@ shall be guilty of an offence.
 
 (16) visiting the toilets without permission of an officer or remaining there longer than is necessary;
 
-(17) refusing to eat the food prescribed by the prison diet scale;
+(17) refusing to eat the meals provided;
+
+[33/2004 wef 04/10/2004]
 
 (18) eating or appropriating any food not assigned to him or taking from or adding to the portions assigned to other prisoners;
 
@@ -1260,6 +1306,10 @@ shall be guilty of an offence.
 
 (7) wilfully making a false or groundless accusation or complaint against any officer or prisoner;
 
+(7A) any act constituting a minor prison offence under section 72, committed by one or more members or associates of a secret society in connection with the activities of any secret society, whether or not all the other members of the secret society are present;
+
+[33/2004 wef 04/10/2004]
+
 (8) repetition of any minor prison offence after having been twice punished for the same minor offence;
 
 (9) failure by a prisoner subject to a home detention order under section 52 to report to such person and at such times and place as may be specified under the conditions of the order;
@@ -1306,13 +1356,25 @@ shall be guilty of an offence.
 
 77\.—(1) When any sentence of corporal punishment is passed under this Act upon any prisoner, he shall not be liable to more than one such sentence in respect of the act or acts, or omission or omissions, for which he has been sentenced.
 
-(2) In no case shall a sentence of corporal punishment be passed upon a woman.
+(2) No sentence of corporal punishment shall be passed upon —
+
+(a) a woman;
+
+(b) a man sentenced by a court to death; or
+
+(c) a man whom a medical officer considers to be more than 50 years of age.
+
+[33/2004 wef 04/10/2004]
 
 (3) In no case shall a sentence of corporal punishment in excess of 10 strokes with a light rattan be passed upon a juvenile.
 
-(4) In no case shall a sentence of dietary or corporal punishment be inflicted upon any prisoner or juvenile until a medical certificate has been given to the effect that the prisoner or juvenile is in a fit condition of health to undergo the punishment.
+(4) No sentence of corporal punishment shall be inflicted unless a medical officer is present and certifies that the prisoner is in a fit state of health to undergo the punishment.
 
-[60
+[33/2004 wef 04/10/2004]
+
+(5) If, during the execution of the sentence of corporal punishment, a medical officer certifies that the prisoner is not in a fit state of health to undergo the remainder of the sentence, the corporal punishment shall be finally stopped.
+
+[33/2004 wef 04/10/2004]
 
 ### Prosecution for offences
 
@@ -1427,8 +1489,6 @@ shall be guilty of an offence.
 (h) the establishment of prisoners aid associations and societies and for the subsidising of their work and the utilising of their services in connection with prisoners discharged on probation and convicted prisoners whose sentences have expired;
 
 (i) the supply of money, food, clothing or means of travelling to prisoners on their discharge;
-
-(j) the administration of the Prison Officers Reward Fund;
 
 (k) the proceedings and visits of the Visiting Justices;
 
@@ -1605,6 +1665,11 @@ This Legislative History is provided for the convenience of users of the Prisons
 |||(Bill No. 7/2003 published on 21 March 2003)|
 ||Date of Second and Third Readings|24 April 2003|
 ||Date of commencement|16 May 2003|
+|20.|**Act 33 of 2004—Prisons (Amendment) Act 2004**|
+||Date of First Reading|20 July 2004|
+|||(Bill No. 31/2004 published on 21 July 2004)|
+||Date of Second and Third Readings|1 September 2004|
+||Date of commencement|4 October 2004|
 ## COMPARATIVE TABLE
 
 Prisons Act
