@@ -1,16 +1,14 @@
-**National Library Board Act 1995**
+**National Library Board Act**
 
-**(No. 5 of 1995)**
+**(CHAPTER 197)**
 
 **Table of Contents**
 
 [**Long Title**](#National-Library-Board-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -32,7 +30,7 @@
 
 - [10 Deposit of library materials](#Deposit-of-library-materials)
 
-- [11 Establishment of a national union catalogue](#Establishment-of-a-national-union-catalogue)
+- [11 Establishment of national union catalogue](#Establishment-of-national-union-catalogue)
 
 - [12 Participation in interlibrary loan scheme](#Participation-in-interlibrary-loan-scheme)
 
@@ -68,7 +66,7 @@
 
 - [25 Transfer of assets and liabilities](#Transfer-of-assets-and-liabilities)
 
-- [26 Existing agreements, etc](#Existing-agreements-etc)
+- [26 Existing agreements, etc.](#Existing-agreements-etc)
 
 - [27 Pending legal proceedings](#Pending-legal-proceedings)
 
@@ -90,59 +88,39 @@
 
 - [35 Regulations](#Regulations)
 
-- [36 Repeal](#Repeal)
+- [36 Transitional provision](#Transitional-provision)
 
 [**FIRST SCHEDULE Constitution and Proceedings of Board**](#FIRST-SCHEDULE-Constitution-and-Proceedings-of-Board)
 
 [**SECOND SCHEDULE Financial Provisions**](#SECOND-SCHEDULE-Financial-Provisions)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# National Library Board Act
 
-ACTS SUPPLEMENT
+(CHAPTER 197)
 
-Published by Authority
+(Original Enactment: Act 5 of 1995)
 
-NO. 9]
+REVISED EDITION 1996
 
-Friday, March 24
+(30th April 1996)
 
-[1995
+An Act to establish and incorporate the National Library Board, to transfer to it the National Library and for matters connected therewith.
 
-The following Act was passed by Parliament on 1st March 1995 and assented to by the President on 16th March 1995:—
-
-National Library Board Act 1995
-
-(No. 5 of 1995)
-
-I assent.
-
-ONG TENG CHEONG
-
-President.
-
-16th March 1995.
-
-Date of Commencement: 1st September 1995
-
-An Act to establish and incorporate the National Library Board, to transfer to it the National Library and to repeal the National Library Act (Chapter 197 of the 1985 Revised Edition) and the Printers and Publishers Act (Chapter 246 of the 1985 Revised Edition) and for matters connected therewith.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st September 1995]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the National Library Board Act 1995 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the National Library Board Act.
 
 ### Interpretation
 
 2\. In this Act, unless the context otherwise requires —
-
-“appointed day” means the date of commencement of this Act;
 
 “Board” means the National Library Board established under section 3;
 
@@ -190,7 +168,7 @@ ESTABLISHMENT, CONSTITUTION, FUNCTIONS AND POWERS OF BOARD
 
 4\.—(1) The Board shall have a common seal which shall be kept in such custody as the Board thinks fit.
 
-(2) All deeds and other documents requiring the seal of the Board shall be sealed with the common seal of the Board and every document to which the common seal is affixed shall be signed by any two members of the Board generally or specially authorised by the Board for the purpose or by one member so authorised and the chief executive officer.
+(2) All deeds and other documents requiring the seal of the Board shall be sealed with the common seal of the Board and every document to which the common seal is affixed shall be signed by any 2 members of the Board generally or specially authorised by the Board for the purpose or by one member so authorised and the chief executive officer.
 
 (3) All courts, judges and persons acting judicially shall take judicial notice of the common seal of the Board affixed to any document and shall presume that it was duly affixed.
 
@@ -238,7 +216,7 @@ ESTABLISHMENT, CONSTITUTION, FUNCTIONS AND POWERS OF BOARD
 
 (c) to define, develop and implement the national collection policy and strategy and appoint different libraries and centres to collect library materials on different subject areas of importance and interest to Singapore;
 
-(d) to coordinate and facilitate access to library materials in all publicly-funded libraries;
+(d) to co-ordinate and facilitate access to library materials in all publicly-funded libraries;
 
 (e) to obtain and provide information on the resources and services of libraries in Singapore;
 
@@ -248,7 +226,7 @@ ESTABLISHMENT, CONSTITUTION, FUNCTIONS AND POWERS OF BOARD
 
 (h) to undertake or sponsor programmes for the training of persons in the profession and those working in libraries;
 
-(i) to arrange for or provide professional and technical services in connection with libraries, on such terms and conditions as may be approved by the Board;
+(i) to arrange for or provide professional and technical services in connection with libraries on such terms and conditions as the Board may determine;
 
 (j) to undertake and facilitate research on libraries and librarianship;
 
@@ -258,7 +236,7 @@ ESTABLISHMENT, CONSTITUTION, FUNCTIONS AND POWERS OF BOARD
 
 (m) to enter into contracts and establish trusts;
 
-(n) to enter into joint ventures with any persons or organisations, or form or participate in the formation of a company;
+(n) to enter into joint ventures with any person or organisation, or form or participate in the formation of a company;
 
 (o) to provide or undertake publicity in any form; and
 
@@ -278,7 +256,7 @@ ESTABLISHMENT, CONSTITUTION, FUNCTIONS AND POWERS OF BOARD
 
 ### Deposit of library materials
 
-10\.—(1) The publisher of every library material published in Singapore shall, at the publisher’s own expense and within 4 weeks after the date of publication, deposit two copies (except as otherwise provided by regulations) of that library material with the Board at such place as the Board may determine.
+10\.—(1) The publisher of every library material published in Singapore shall, at the publisher’s own expense and within 4 weeks after the date of publication, deposit 2 copies (except as otherwise provided by regulations) of that library material with the Board at such place as the Board may determine.
 
 (2) The Board may by regulations prescribe —
 
@@ -290,7 +268,7 @@ ESTABLISHMENT, CONSTITUTION, FUNCTIONS AND POWERS OF BOARD
 
 (4) The Board may, in its discretion, compound any offence under this section by collecting from the person reasonably suspected of having committed the offence a sum not exceeding $500.
 
-### Establishment of a national union catalogue
+### Establishment of national union catalogue
 
 11\.—(1) All publicly-funded libraries shall contribute their cataloguing and holding records, whether original or derived from other sources, towards the establishment of an up-to-date national union catalogue.
 
@@ -342,7 +320,7 @@ PROVISIONS RELATING TO STAFF
 
 ### Public servants for purposes of Penal Code
 
-17\. All members, officers and employees of the Board (including persons seconded to the Board for any period) shall be deemed to be public servants for the purposes of the Penal Code (Cap. 224).
+17\. All members, officers and employees of the Board (including persons seconded to the Board for any period) shall be deemed to be public servants for the purposes of the Penal Code [Cap. 224].
 
 ## PART IV
 
@@ -412,23 +390,23 @@ TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES
 
 ### Transfer of assets and liabilities
 
-25\.—(1) As from the appointed day, all movable property vested in the Government immediately before that day and used or managed by the National Library and all assets, rights, interests, liabilities and obligations of the Government relating to the National Library shall be transferred to and shall vest in the Board without further assurance.
+25\.—(1) As from 1st September 1995, all movable property vested in the Government immediately before that date and used or managed by the National Library and all assets, rights, interests, liabilities and obligations of the Government relating to the National Library shall be transferred to and shall vest in the Board without further assurance.
 
-(2) As from the appointed day, the Board shall control and manage all the libraries which are under the control of the National Library.
+(2) As from 1st September 1995, the Board shall control and manage all the libraries which are under the control of the National Library.
 
 (3) If any question arises as to whether any particular property, or whether any particular asset, right, interest, liability or obligation has been transferred to or vested in the Board under subsection (1), a certificate under the hand of the Minister for Finance shall be conclusive evidence that the property, asset, right, interest, liability or obligation was or was not so transferred or vested.
 
-### Existing agreements, etc
+### Existing agreements, etc.
 
-26\. All deeds, bonds, agreements, instruments and arrangements, subsisting immediately before the appointed day, affecting any of the property, rights, interests, liabilities and obligations transferred to or vested in the Board under section 25(1) shall continue in force on and after that day and shall be enforceable by or against the Board as if, instead of the Government or a person acting on behalf of the Government, the Board had been named therein or had been a party thereto.
+26\. All deeds, bonds, agreements, instruments and arrangements, subsisting immediately before 1st September 1995, affecting any of the property, rights, interests, liabilities and obligations transferred to or vested in the Board under section 25(1) shall continue in force on and after that date and shall be enforceable by or against the Board as if, instead of the Government or a person acting on behalf of the Government, the Board had been named therein or had been a party thereto.
 
 ### Pending legal proceedings
 
-27\. Any proceedings or cause of action pending or existing immediately before the appointed day by or against the Government or any person acting on behalf of the Government relating to the National Library may be continued and shall be enforced by or against the Board.
+27\. Any proceedings or cause of action pending or existing immediately before 1st September 1995 by or against the Government or any person acting on behalf of the Government relating to the National Library may be continued and shall be enforced by or against the Board.
 
 ### Transfer of employees
 
-28\.—(1) As from the appointed day, such categories of persons employed immediately before that day in the National Library as the Minister may determine shall be transferred to the service of the Board on terms no less favourable than those enjoyed by them immediately prior to their transfer.
+28\.—(1) As from 1st September 1995, such categories of persons employed immediately before that date in the National Library as the Minister may determine shall be transferred to the service of the Board on terms no less favourable than those enjoyed by them immediately prior to their transfer.
 
 (2) Until such time as terms and conditions of service are drawn up by the Board, the scheme and terms and conditions of service in the Government shall continue to apply to every person transferred to the service of the Board under subsection (1) as if he were still in the service of the Government.
 
@@ -436,23 +414,23 @@ TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES
 
 29\.—(1) The terms and conditions of service of persons transferred to the service of the Board under section 28 shall take into account the salaries and terms and conditions of service, including any accrued rights to leave, enjoyed by such persons while in the employment of the Government and any such term or condition relating to the length of service with the Board shall provide for the recognition of service under the Government by persons so transferred to be service by them under the Board.
 
-(2) Nothing in the terms and conditions of service to be drawn up by the Board shall adversely affect the conditions that would have been applicable to persons transferred to the service of the Board as regards any pension, gratuity or allowance payable under the Pensions Act (Cap. 225).
+(2) Nothing in the terms and conditions of service to be drawn up by the Board shall adversely affect the conditions that would have been applicable to persons transferred to the service of the Board as regards any pension, gratuity or allowance payable under the Pensions Act [Cap. 225].
 
 (3) In every case where a person has been transferred to the service of the Board under section 28, the Government shall be liable to pay the Board such portion of any gratuity, pension or allowance payable to such person on his retirement as the same shall bear to the proportion which the aggregate amount of his pensionable emoluments during his service with the Government bears to the aggregate amount of his pensionable emoluments during his service under both the Government and the Board.
 
 ### No benefits in respect of abolition or reorganisation of office
 
-30\. Notwithstanding the provisions of the Pensions Act, no person who is transferred to the service of the Board under section 28 shall be entitled to claim any benefit under the Pensions Act (Cap. 225) on the ground that he has been retired from the service of the Government on account of abolition or reorganisation of office in consequence of the establishment and incorporation of the Board.
+30\. Notwithstanding the provisions of the Pensions Act [Cap. 225], no person who is transferred to the service of the Board under section 28 shall be entitled to claim any benefit under the Pensions Act on the ground that he has been retired from the service of the Government on account of abolition or reorganisation of office in consequence of the establishment and incorporation of the Board.
 
 ### Continuation and completion of disciplinary proceedings
 
-31\.—(1) Where on the appointed day, any disciplinary proceedings are pending against any person transferred to the service of the Board under section 28, any committee acting under due authority to hear or investigate the matter shall continue to exist, notwithstanding this Act, for the purpose of completing the hearing or investigation and the making of an order or rendering a decision, as the case may be, and the Government or committee shall complete the hearing or investigation in accordance with the authority vested in the Government or committee immediately before that day and make such order, ruling or direction as the Government or committee could have made under the authority vested in it immediately before that day.
+31\.—(1) Where on 1st September 1995, any disciplinary proceedings are pending against any person transferred to the service of the Board under section 28, any committee acting under due authority to hear or investigate the matter shall continue to exist, notwithstanding this Act, for the purpose of completing the hearing or investigation and the making of an order or rendering a decision, as the case may be, and the Government or committee shall complete the hearing or investigation in accordance with the authority vested in the Government or committee immediately before that date and make such order, ruling or direction as the Government or committee could have made under the authority vested in it immediately before that date.
 
-(2) Any order, ruling or direction made or given by the Government or committee pursuant to this section shall be treated as an order, ruling or direction of the Board and have the same force or effect as if it had been made or given by the Board pursuant to the power vested in the Board under this Act.
+(2) Any order, ruling or direction made or given by the Government or committee pursuant to this section shall be treated as an order, a ruling or a direction of the Board and have the same force or effect as if it had been made or given by the Board pursuant to the power vested in the Board under this Act.
 
 ### Misconduct or neglect of duty by employee before transfer
 
-32\. The Board may reprimand, reduce in rank, retire, dismiss or punish in some other manner a person transferred to the service of the Board under section 28 for any misconduct or neglect of duty committed prior to the appointed day which would have rendered him liable to be reprimanded, reduced in rank, retired, dismissed or punished in some other manner if he had continued to be in the employment of the Government and if this Act had not been enacted.
+32\. The Board may reprimand, reduce in rank, retire, dismiss or punish in some other manner a person transferred to the service of the Board under section 28 for any misconduct or neglect of duty committed prior to 1st September 1995 which would have rendered him liable to be reprimanded, reduced in rank, retired, dismissed or punished in some other manner if he had continued to be in the employment of the Government and if this Act had not been enacted.
 
 ## PART VI
 
@@ -490,11 +468,9 @@ MISCELLANEOUS PROVISIONS
 
 (h) prescribe that any act or omission in contravention of the provisions of any regulations made under this Act shall be an offence and imposing penalties for those offences, which penalties shall not exceed a fine of $5,000.
 
-### Repeal
+### Transitional provision
 
-36\.—(1) The National Library Act (Cap. 197) and the Printers and Publishers Act (Cap. 246) are repealed.
-
-(2) Any scheme, contract, document, certificate, licence, permission or resolution prepared, made, granted or approved under the repealed National Library Act shall, so far as it is not inconsistent with the provisions of this Act, continue and be deemed to have been prepared, made, granted or approved under this Act.
+36\. Any scheme, contract, document, certificate, licence, permission or resolution prepared, made, granted or approved under the repealed National Library Act [Cap. 197, 1985 Ed.] shall, so far as it is not inconsistent with the provisions of this Act, continue and be deemed to have been prepared, made, granted or approved under this Act.
 
 FIRST SCHEDULE
 
@@ -564,15 +540,15 @@ Member’s interest to be disclosed
 
 Salaries, fees and allowances payable to members
 
-11\. There shall be paid to the Chairman, the Deputy Chairman and other members out of the funds of the Board such salaries, fees and allowances as the Minister may, from time to time, determine.
+11. There shall be paid to the Chairman, the Deputy Chairman and other members out of the funds of the Board such salaries, fees and allowances as the Minister may, from time to time, determine.
 
 Meetings of Board
 
 12.—(1) The Board shall meet for the despatch of business at such times and places as the Chairman may, from time to time, appoint.
 
-(2) At every meeting of the Board, one-half the total number of members shall form a quorum.
+(2) At every meeting of the Board, one-half of the total number of members shall form a quorum.
 
-(3) Decisions at meetings of the Board shall be adopted by a simple majority of the votes of the members present and voting; and in the case of an equality of votes, the Chairman or in his absence the Deputy Chairman or the member presiding shall have a casting vote in addition to his original vote.
+(3) Decisions at meetings of the Board shall be adopted by a simple majority of the votes of the members present and voting and, in the case of an equality of votes, the Chairman or in his absence the Deputy Chairman or the member presiding shall have a casting vote in addition to his original vote.
 
 (4) The Chairman or in his absence the Deputy Chairman shall preside at meetings of the Board.
 
@@ -594,7 +570,7 @@ Financial Provisions
 
 Financial year
 
-1\. The financial year of the Board shall begin on 1st April of each year and end on 31st March of the succeeding year, except that the first financial year of the Board shall begin on the appointed day and shall end on 31st March 1996.
+1\. The financial year of the Board shall begin on 1st April of each year and end on 31st March of the succeeding year.
 
 Accounts to be kept
 
@@ -608,7 +584,7 @@ Appointment of auditor
 
 4.—(1) The accounts of the Board shall be audited by the Auditor-General or such other auditor as may be appointed annually by the Minister in consultation with the Auditor-General.
 
-(2) A person shall not be qualified for appointment as an auditor under sub-paragraph (1) unless he is an approved company auditor under the Companies Act (Cap. 50).
+(2) A person shall not be qualified for appointment as an auditor under sub-paragraph (1) unless he is an approved company auditor under the Companies Act [Cap. 50].
 
 Remuneration of auditor
 
@@ -648,3 +624,20 @@ Presentation of financial statements and auditor’s report to Parliament
 
 (3) The Minister shall as soon as practicable cause a copy of the audited financial statements and of the report of the auditor to be presented to Parliament.
 
+## LEGISLATIVE HISTORY
+
+National Library Board Act
+
+(CHAPTER 197)
+
+This Legislative History is provided for the convenience of users of the National Library Board Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 5 of 1995—National Library Board Act 1995**|
+||Date of First Reading|23 January 1995|
+|||(Bill No. 5/1995 published on 24 January 1995)|
+||Date of Second and Third Readings|1 March 1995|
+||Date of commencement|1 September 1995|
+|2.|**1996 Revised Edition—National Library Board Act**|
+||Date of operation|30 April 1996|
