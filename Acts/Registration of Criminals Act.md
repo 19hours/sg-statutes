@@ -102,7 +102,9 @@ PRELIMINARY
 
 (a) a police officer;
 
-(b) an officer of the Customs and Excise Department in any case concerning an offence or alleged offence against any law or provision of law which it is the function of that Department to enforce;
+(b) an officer of customs of the Singapore Customs in any case concerning an offence or alleged offence against any law or provision of law which is the function of the Singapore Customs to enforce;
+
+[4/2003 wef 01/04/2003]
 
 (c) an immigration officer;
 
@@ -166,7 +168,9 @@ PRELIMINARY
 
 (a) a police officer;
 
-(b) an officer of the Customs and Excise Department in any case concerning an offence or alleged offence against any law or provision of law which it is the function of that Department to enforce;
+(b) an officer of customs of the Singapore Customs in any case concerning an offence or alleged offence against any law or provision of law which is the function of the Singapore Customs to enforce;
+
+[4/2003 wef 01/04/2003]
 
 (c) an immigration officer;
 
@@ -1272,6 +1276,8 @@ Trade Marks Act 1998
 
 Sections 46, 48 and 52.
 
+[]
+
 [17/80]
 
 ## LEGISLATIVE HISTORY
@@ -1365,3 +1371,9 @@ This Legislative History is provided for the convenience of users of the Registr
 |||(Bill No. 43/2002 published on 1 November 2002)|
 ||Date of Second and Third Readings|5 December 2002|
 ||Date of commencement|13 February 2003|
+|25.|**Act 4 of 2003—Customs (Amendment) Act 2003**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|10 March 2003|
+|||(Bill No. 6/2003 published on 11 March 2003)|
+||Date of Second and Third Readings|21 March 2003|
+||Date of commencement|1 April 2003|
