@@ -13962,33 +13962,15 @@ $100
 
 107.
 
-345 and 347
-
-Lodgment of request to the Official Receiver to exercise the powers conferred by sections 345 or 347*
-
-$10
-
-*To be paid to Official Receiver
+Deleted by S 57/2005, wef 01/02/2005.
 
 108.
 
-345
-
-For every act done by the Official Receiver as representing a defunct company under section 345*
-
-$25
-
-*To be paid to Official Receiver
+Deleted by S 57/2005, wef 01/02/2005.
 
 109.
 
-347
-
-For every act done by the Official Receiver as representing a defunct company under section 347*
-
-$25
-
-*To be paid to Official Receiver
+Deleted by S 57/2005, wef 01/02/2005.
 
 110.
 
@@ -15347,3 +15329,5 @@ This Legislative History is provided for the convenience of users of the Compani
 |||(Bill No. 3/2004 published on 6 January 2004)|
 ||Date of Second and Third Readings|6 February 2004|
 ||Dates of commencement|1st October 2004 (Section 28(a) and (c))|
+|77.|**G. N. No. S 57/2005—Companies Act (Amendment of Second Schedule) Notification 2005**|
+||Date of commencement|1 February 2005|
