@@ -66,19 +66,13 @@
 
 - [22 Appeals](#Appeals)
 
-[**Part III INSTALLATION AND RETROFITTING WORKS RELATING TO AIR-CONDITIONING UNITS**](#Part-III)
+[**Part III RETROFITTING OF EXTERIOR FEATURES**](#Part-III)
 
-- [22A Application of this Part](#Application-of-this-Part)
+- [22A Application and interpretation of this Part](#Application-and-interpretation-of-this-Part)
 
-- [22B Installation of air-conditioning unit](#Installation-of-air-conditioning-unit)
+- [22B Duty to retrofit exterior feature](#Duty-to-retrofit-exterior-feature)
 
-- [22C Retrofitting existing air-conditioning unit](#Retrofitting-existing-air-conditioning-unit)
-
-- [22D Air-conditioning unit installed in an unsafe manner](#Air-conditioning-unit-installed-in-an-unsafe-manner)
-
-- [22E Installation report](#Installation-report)
-
-- [22F Penalty](#Penalty)
+- [22C Retrofitting orders](#Retrofitting-orders)
 
 [**Part IV Dangerous Buildings**](#Part-IV)
 
@@ -96,7 +90,7 @@
 
 - [27 Application of this Part](#Application-of-this-Part)
 
-- [28 Periodicalinspection of buildings](#Periodicalinspection-of-buildings)
+- [28 Periodic inspection of buildings](#Periodic-inspection-of-buildings)
 
 - [29 Independence of structural engineers](#Independence-of-structural-engineers)
 
@@ -190,8 +184,6 @@ PRELIMINARY
 
 [47/2007 wef 15/02/2008]
 
-“air-conditioning unit” includes a window air-conditioning unit and any condensing equipment of an air-conditioning unit;
-
 “amendment plans” means the plans showing any deviation from, or any amendment or addition to, any plan of building works approved by the Commissioner of Building Control under section 6(2);
 
 [18/2003 wef 01/01/2004]
@@ -240,6 +232,28 @@ and includes site formation works and any other kind of building operation conne
 
 “competent authority” means the competent authority appointed under section 5 of the Planning Act (Cap. 232) in respect of the development of land;
 
+“exterior feature”, in relation to any building, means any of the following features that is permanent and is installed on, forms part of or projects outwards from the roof or exterior of the building:
+
+(a) any air-conditioning unit, including any window air-conditioning unit and any condensing equipment of an air-conditioning unit;
+
+(b) any window, with or without movable parts;
+
+(c) any grille or shutter, with or without movable parts;
+
+(d) any tile, cladding, curtain wall, siding, plaster, bracket or cornice;
+
+(e) any gutter, rainwater down-pipe, or part of the roof;
+
+(f) any awning or sun-shading device;
+
+(g) such other feature that is permanent and is installed on, forms part of or projects outwards from the roof or exterior of any building as the Minister may, by notification in theGazette, declare to be an exterior feature for the purposes of this Act;
+
+[34/2004 wef 01/10/2004]
+
+“flat” has the same meaning as in the Land Titles (Strata) Act (Cap. 158);
+
+[34/2004 wef 01/10/2004]
+
 “immediate supervision”, in relation to any building works or part thereof, means personally and directly exercising oversight, control and inspection of the carrying out of the building works or part thereof;
 
 “key structural elements” means the foundations, columns, beams, shear cores and such other parts of a building which are essential for its support and overall structural stability;
@@ -257,6 +271,26 @@ and includes site formation works and any other kind of building operation conne
 (d) the common property of residential and commercial property in any housing estate of the Housing and Development Board, means that Board; and
 
 (e) the common property of any building which is not subdivided, includes any person receiving any rent or charge for the maintenance and management of that common property;
+
+“person responsible”, in relation to an exterior feature of a building, means —
+
+(a) the owner of the premises or building which the exterior feature is installed on, forms part of or projects outwards from, except as otherwise provided by paragraph (b), (c), (d) or (e);
+
+(b) where the exterior feature (other than any window, grille or shutter) is part of the common property of any housing estate of the Housing and Development Board, either that Board or the Town Council established under the Town Councils Act (Cap. 329A) for that housing estate, as the Minister shall designate for that exterior feature;
+
+(c) where the exterior feature (other than any window, grille or shutter) is part of the common property of any other land (whether or not comprised in a strata title plan) not referred to in paragraph (b), the person who has charge of the maintenance of such common property, unless otherwise provided by paragraph (e);
+
+(d) where the exterior feature is a window, grille or shutter —
+
+(i) if the window, grille or shutter is part of a flat in any housing estate of the Housing and Development Board (whether or not it is common property), the owner of that flat as defined in the Housing and Development Act (Cap. 129);
+
+(ii) if the window, grille or shutter is part of any flat other than a flat under sub-paragraph (i) (whether or not it is common property), the owner of that flat; and
+
+(iii) in any other case, such person who ordinarily has daily charge or control over the maintenance and use of such window, grille or shutter; or
+
+(e) such other person as may be prescribed under section 22C as the person responsible for the exterior feature;
+
+[34/2004 wef 01/10/2004]
 
 “plans”, in relation to any building works —
 
@@ -276,9 +310,19 @@ and includes site formation works and any other kind of building operation conne
 
 “repealed Act” means the Building Control Act (Cap. 29, 1985 Ed.) in force immediately before 1st May 1989;
 
+“retrofit”, in relation to an exterior feature, means to modify or re-install the exterior feature as if installing the exterior feature for the first time;
+
+[34/2004 wef 01/10/2004]
+
 “short-lived materials” means any building materials which are, in the absence of special care, liable to rapid deterioration or are otherwise unsuitable for use in the construction of permanent buildings;
 
 “site supervisor” means a site supervisor of building works appointed under section 10;
+
+“structural elements” means those parts or elements of a building which resist forces and moments, and includes foundations, beams, columns, shear cores, slabs, roof trusses, staircases, load bearing walls and all other elements designed to resist forces and moments but does not include doors, windows and non-load bearing walls;
+
+[34/2004 wef 01/10/2004]
+
+[47/2007 wef 15/02/2008]
 
 “structural works” means works in relation to the structural elements of the building works;
 
@@ -289,8 +333,6 @@ and includes site formation works and any other kind of building operation conne
 “temporary occupation licence” means a temporary occupation licence issued under section 8(1) of the repealed Act;
 
 “temporary occupation permit” means a temporary occupation permit granted under section 21(2);
-
-“trained worker” means a person who holds a certificate issued by the Building and Construction Authority for installing a structural supporting system to support an air-conditioning unit;
 
 “unauthorised”, in relation to a building or building works, means any building erected, or any building works commenced or carried out, in contravention of any provision of this Act or the building regulations;
 
@@ -342,7 +384,9 @@ Control of Building Works
 
 (b) any building works specified in the Schedule; and
 
-(c) any installation or retrofitting works relating to air-conditioning units referred to in Part III.
+(c) any retrofitting of exterior features referred to in Part III.
+
+[34/2004 wef 01/10/2004]
 
 [18/95; 2/91; 36/99]
 
@@ -357,6 +401,8 @@ Control of Building Works
 (b) in the case of structural works, there is in force a permit granted by the Commissioner of Building Control under section 7 to carry out the structural works.
 
 [18/2003 wef 01/01/2004]
+
+(2) [Deleted by Act 18/2003 wef 01/01/2004]
 
 (3) Any person who contravenes or fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day during which the offence continues after conviction.
 
@@ -540,7 +586,7 @@ he may, by order, direct the person for whom those building works have been or a
 
 (a) the qualified person shall, within 14 days of his ceasing to carry out his duties, notify the Commissioner of Building Control and the builder of the building works of that fact; and
 
-(b) the builder shall cease or shall not commence the building works until the person for whom the building works are being or are to be carried out, or the builder, appoints another appropriate qualified person in respect of those building works.
+(b) the builder shall cease or shall not commence the building works until the person for whom the building works are being or are to be carried out, or the builder, appoints another appropriate qualified person in respect of those building works and this other qualified person shall be deemed to be appointed under section 6(3).
 
 [18/95; 4/99]
 
@@ -562,7 +608,7 @@ he may, by order, direct the person for whom those building works have been or a
 
 [18/2003 wef 01/01/2004]
 
-(3A) For the purpose of subsection (3)(a)
+(3A) For the purpose of subsection (3)(a) —
 
 (a) the plans of any building works that are prepared in accordance with the acceptable solutions as set out in the Approved Document issued by the Commissioner of Building Control in respect of such building works shall be deemed to comply with the objectives and performance requirements that are prescribed by the building regulations in respect of such building works; and
 
@@ -610,17 +656,17 @@ he may, by order, direct the person for whom those building works have been or a
 
 [18/2003 wef 01/01/2004]
 
-(4) Any person who contravenes or fails to comply with subsection (3C) (a) or (b) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day during which the offence continues after conviction.
+(4) Any person who contravenes or fails to comply with subsection (3C)(a) or (b) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day during which the offence continues after conviction.
 
-(5) Any qualified person who contravenes or fails to comply with subsection (3) (b) or (3C) (c), (d) or (e) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a continuing offence, to a further fine not exceeding $500 for every day during which the offence continues after conviction.
+(5) Any qualified person who contravenes or fails to comply with subsection (3)(b) or (3C)(c), (d) or (e) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a continuing offence, to a further fine not exceeding $500 for every day during which the offence continues after conviction.
 
 (5A) Any person who contravenes or fails to comply with subsection (1)(b), (3)(a), (3A)(b)(i) or (ii) or (3B) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day during which the offence continues after conviction.
 
 [18/2003 wef 01/01/2004]
 
-(6) It shall be a defence in any prosecution for a contravention or non-compliance with subsection (3) (b) or (3C) (c) for the person charged to prove to the satisfaction of the court that he did not know nor could reasonably have discovered the contravention or non-compliance referred to in the charge.
+(6) It shall be a defence in any prosecution for a contravention or non-compliance with subsection (3)(b) or (3C)(c) for the person charged to prove to the satisfaction of the court that he did not know nor could reasonably have discovered the contravention or non-compliance referred to in the charge.
 
-(7) Any qualified person or person for whom any building works are or are to be carried out or the builder, as the case may be, who, without reasonable excuse, contravenes or fails to comply with subsection (1)(a), (2), (3) (c) or (3C) (f) shall be guilty of an offence.
+(7) Any qualified person or person for whom any building works are or are to be carried out or the builder, as the case may be, who, without reasonable excuse, contravenes or fails to comply with subsection (1)(a), (2), (3)(c) or (3C)(f) shall be guilty of an offence.
 
 ### Appointment and duties of site supervisors
 
@@ -1136,6 +1182,22 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [4/99]
 
+(3) Any person who is aggrieved by a decision of the Commissioner of Building Control under subsection (1) or (2) may, within 28 days of being notified of the decision, appeal to the Minister against the decision.
+
+[34/2004 wef 01/10/2004]
+
+(4) Where an appeal is made to the Minister under subsection (3), the Minister may confirm, vary or reverse the decision of the Commissioner of Building Control, or give such directions in the matter as he thinks fit, and the decision of the Minister shall be final.
+
+[34/2004 wef 01/10/2004]
+
+(5) Every pecuniary penalty or part thereof outstanding shall be recoverable as a debt due to the Building and Construction Authority.
+
+[34/2004 wef 01/10/2004]
+
+(6) On acceptance by the Commissioner of Building Control of the pecuniary penalty imposed under this section, the unauthorised building works in respect of which the penalty is paid shall be deemed to have been carried out in accordance with section 5(1).
+
+[34/2004 wef 01/10/2004]
+
 ### Occupation of buildings
 
 21\.—(1) Except as otherwise provided in this Act, no person shall occupy, or permit or cause to be occupied, any building or any part thereof where any building works have been carried out unless the Commissioner of Building Control has issued a certificate of statutory completion in respect of that building or that part of the building.
@@ -1194,71 +1256,65 @@ is refused, or is granted by the Commissioner of Building Control subject to ter
 
 ## PART III
 
-INSTALLATION AND RETROFITTING WORKS RELATING TO AIR-CONDITIONING UNITS
+RETROFITTING OF EXTERIOR FEATURES
 
-### Application of this Part
+[34/2004 wef 01/10/2004]
 
-22A\. This Part shall apply to an air-conditioning unit that is to be installed or had been installed —
+### Application and interpretation of this Part
 
-(a) on the exterior of any premises or building; or
+22A\.—(1) This Part shall apply to all exterior features on any building except —
 
-(b) in such manner that any part of the air-conditioning unit projects outwards from any premises or building,
+(a) exterior features on any detached house, semi-detached house, terrace house or linked house, none of which are comprised in any strata title plan; and
 
-except where the air-conditioning unit is to be installed or had been installed on any part of any bungalow, semi-detached house, terraced house or linked house.
+(b) exterior features located on the lowest level of any building.
 
-[21A
+(2) In this Part, unless the context otherwise requires —
 
-[36/99]
+“applicable date”, in relation to an exterior feature, means such date as is prescribed under section 22C to be the applicable date for that exterior feature;
 
-### Installation of air-conditioning unit
+“grace period”, in relation to an exterior feature, means such period starting from the applicable date for the exterior feature and ending after such time as is prescribed under section 22C for that exterior feature;
 
-22B\.—(1) A person who desires to install an air-conditioning unit on any premises or building to which this Part applies shall employ a trained worker to carry out the installation works relating to the air-conditioning unit.
+“prescribed age”, in relation to an exterior feature, means such age as is prescribed under section 22C to be the prescribed age for that exterior feature.
 
-[36/99]
+[34/2004 wef 01/10/2004]
 
-(2) Every trained worker appointed to carry out installation works relating to an air-conditioning unit under subsection (1) shall carry out the works in such manner as may be prescribed.
+### Duty to retrofit exterior feature
 
-[21B
+22B\.—(1) Where an exterior feature of a prescribed building has been installed on, forms part of, or projects outwards from the building at any time before the applicable date prescribed for the exterior feature, the person responsible for the exterior feature shall carry out or cause to be carried out retrofitting of that exterior feature in such manner, by such person and using such material as may be prescribed in relation to that exterior feature —
 
-[36/99]
+(a) where there is no prescribed age for that exterior feature, or the exterior feature is, on that applicable date, of the prescribed age or older — within the grace period prescribed for that exterior feature; or
 
-### Retrofitting existing air-conditioning unit
+(b) where the exterior feature is, on that applicable date, less than the prescribed age — within the grace period prescribed for that exterior feature or within the period before the exterior feature attains the prescribed age, whichever period is the longer.
 
-22C\. If an air-conditioning unit had been installed on a timber-framed opening on the exterior of any premises or building to which this Part applies, the owner of such premises or building shall, within the period of one year from 1st October 1999, retrofit that air-conditioning unit or timber-framed opening or both in such manner and using such material as may be prescribed.
+(2) Any person who, without reasonable excuse, contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a continuing offence, to a further fine not exceeding $500 for every day or part thereof during which the offence continues after conviction.
 
-[21C
+(3) If a person is charged with an offence under subsection (2), it shall be a defence for him to prove that he was not the person responsible for the exterior feature at any time during that grace period or before the exterior feature attained that prescribed age, as the case may be.
 
-[36/99]
+(4) For the purposes of this Act, the age of an exterior feature of a building shall be reckoned from the date of its first installation on that building as determined in accordance with such date as is prescribed under section 22C for that exterior feature.
 
-### Air-conditioning unit installed in an unsafe manner
+(5) Nothing in this section shall be construed as —
 
-22D\.—(1) If the Commissioner of Building Control considers that any air-conditioning unit had been installed on any premises or building to which this Part applies in an unsafe manner, he shall notify the owner of the premises or building in writing.
+(a) prohibiting or preventing the Commissioner of Building Control from exercising any of his powers under any other provision of this Act or the building regulations; or
 
-(2) The owner of such premises or building shall, within such period as the Commissioner of Building Control may require, retrofit the air-conditioning unit in such manner and using such material as the Commissioner of Building Control may require.
+(b) derogating from the effect of any other provision of this Act or the building regulations or any other written law for the time being in force.
 
-[21D
+### Retrofitting orders
 
-[36/99]
+22C\.—(1) The Minister may, by order published in theGazette, prescribe any matter which is required or permitted to be prescribed by this Part.
 
-### Installation report
+(2) Without prejudice to the generality of subsection (1), the Minister may, in an order made under that subsection, prescribe —
 
-22E\.—(1) The person referred to in section 22B(1), or the owner referred to in section 22C or 22D shall, upon completion of the installation or retrofitting works carried out under section 22B(1), 22C or 22D(2), as the case may be, submit a report of the completed works to the Commissioner of Building Control.
+(a) the duties and responsibilities of any person authorised to carry out retrofitting of an exterior feature, including providing that any failure or neglect to comply with any such duty or responsibility shall be an offence;
 
-[21E
+(b) different applicable dates, prescribed ages, grace periods and persons responsible for an exterior feature in relation to different exterior features;
 
-[36/99]
+(c) different qualifications and training for persons authorised to carry out retrofitting in relation to different exterior features; and
 
-(2) The report referred to in subsection (1) shall be in such form and manner as the Commissioner of Building Control may determine.
+(d) that any contravention of any provision of the order shall be an offence punishable with a fine not exceeding $5,000 or with imprisonment for a term not exceeding 6 months or with both and, in the case of a continuing offence, with a further fine not exceeding $500 for every day or part thereof during which the offence continues after conviction.
 
-[36/99]
+(3) All orders made under this section shall be presented to Parliament as soon as possible after publication in theGazette.
 
-### Penalty
-
-22F\. Any person who contravenes or fails to comply with section 22B(1), 22C, 22D(2) or 22E(1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
-
-[21F
-
-[36/99]
+[34/2004 wef 01/10/2004]
 
 ## PART IV
 
@@ -1278,7 +1334,7 @@ Dangerous Buildings
 
 (i) to carry out or cause to be carried out such inspection of the building as he may specify;
 
-(ii) to execute such building works as may be necessary to obviate the danger;
+(ii) to execute such building works or retrofitting under Part III as may be necessary to obviate the danger;
 
 (iii) to demolish the building or any part thereof, and remove any rubbish resulting from the demolition;
 
@@ -1386,8 +1442,6 @@ INSPECTION OF BUILDINGS
 
 26\.—(1) In this Part —
 
-“building” shall not include part of a building;
-
 “owner”, in relation to —
 
 (a) a subdivided building comprising 2 or more flats, means —
@@ -1426,7 +1480,7 @@ INSPECTION OF BUILDINGS
 
 [18/95]
 
-### Periodicalinspection of buildings
+### Periodic inspection of buildings
 
 28\.—(1) Subject to subsection (2), the Commissioner of Building Control may, by notice served on the owner of a building to which this Part applies, require the building to be inspected.
 
@@ -1434,9 +1488,9 @@ INSPECTION OF BUILDINGS
 
 (2) In relation to any building to which this Part applies, a notice under subsection (1) may be made —
 
-(a) where the building (other than a special building) is used other than solely for residential purposes — after the fifth year commencing from the date the first certificate of statutory completion was issued in respect of the building and thereafter at intervals of not less than 5 years from the date of the last notice under this section; or
+(a) where the building (other than a special building) is used other than solely for residential purposes — after the fifth year commencing from the date the first temporary occupation permit or first certificate of statutory completion was issued in respect of the building, whichever was issued earlier, and thereafter at intervals of not less than 5 years from the date of the last notice under this section; or
 
-(b) where the building is a special building or is used solely for residential purposes — after the tenth year commencing from the date the first certificate of statutory completion was issued in respect of the building and thereafter at intervals of not less than 10 years from the date of the last notice under this section.
+(b) where the building is a special building or is used solely for residential purposes — after the tenth year commencing from the date the first temporary occupation permit or first certificate of statutory completion was issued in respect of the building, whichever was issued earlier, and thereafter at intervals of not less than 10 years from the date of the last notice under this section.
 
 [18/95]
 
@@ -1464,7 +1518,7 @@ INSPECTION OF BUILDINGS
 
 [18/95; 4/99]
 
-(7) Where the report of the result of the inspection of a building prepared under subsection (6)(b) contains any measure or other building works recommended by the structural engineer to be carried out to ensure the structural stability or integrity of the building, the owner of the building shall, within such periodas may be specified by the Commissioner of Building Control, carry out such measure or building works as is recommended by the structural engineer in the report.
+(7) Where the report of the result of the inspection of a building prepared under subsection (6)(b) contains any measure or other building works recommended by the structural engineer to be carried out to ensure the structural stability or integrity of the building, the owner of the building shall, within such period and subject to such conditions as may be specified by the Commissioner of Building Control, carry out such measure or building works as is recommended by the structural engineer in the report.
 
 [18/95; 4/99]
 
@@ -1794,7 +1848,7 @@ a Magistrate’s Court, upon proof thereof and upon application by the owner, ma
 
 ### Composition of offences
 
-48\.—(1) The Commissioner of Building Control may, in his discretion, compound any offence under this Act or the building regulations which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $400.
+48\.—(1) The Commissioner of Building Control may, in his discretion, compound any offence under this Act or the building regulations which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $2,000.
 
 [4/99]
 
@@ -1830,7 +1884,13 @@ a Magistrate’s Court, upon proof thereof and upon application by the owner, ma
 
 (i) the preparation of sites for building works;
 
-(ii) projections;
+(ii) exterior features;
+
+[34/2004 wef 01/10/2004]
+
+(iii) [Deleted by Act 18/2003 wef 01/01/2004]
+
+(iv) [Deleted by Act 18/2003 wef 01/01/2004]
 
 (v) the natural lighting and ventilation of buildings;
 
@@ -1848,7 +1908,9 @@ a Magistrate’s Court, upon proof thereof and upon application by the owner, ma
 
 (j) measures to improve efficiency and standardisation in the construction industry relating to design, processes, construction techniques, products and materials;
 
-(k) the regulation of installation and retrofitting works relating to air-conditioning units, including the duties and responsibilities of trained workers in carrying out such works;
+(k) the regulation of persons authorised to carry out installation or retrofitting of any exterior feature, including prescribing the qualifications and training of such persons, and their duties and responsibilities in connection with installing or retrofitting the exterior feature;
+
+[34/2004 wef 01/10/2004]
 
 (l) measures for the construction, installation and inspection of lifts and escalators;
 
@@ -2126,6 +2188,11 @@ This Legislative History is provided for the convenience of users of the Buildin
 |||(Bill No. 17/2003 published on 15 August 2003)|
 ||Date of Second and Third Readings|2 September 2003|
 ||Date of commencement|1 January 2004|
+|18.|**Act 34 of 2004—Building Control (Amendment) Act 2004**|
+||Date of First Reading|20 July 2004|
+|||(Bill No. 32/2004 published on 21 July 2004)|
+||Date of Second and Third Readings|1 September 2004|
+||Date of commencement|1 October 2004|
 ## COMPARATIVE TABLE
 
 Building Control Act
