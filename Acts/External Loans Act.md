@@ -60,7 +60,9 @@ Provided that if the moneys so raised for the repayment or amortisation of any l
 
 [Act 11/91 wef 30/11/1991 vide S 527/91]
 
-(4) In applying subsection (3), any moneys raised in a currency other than Singapore dollars shall be converted into Singapore dollars as at the day when the amount to be raised is determined and by the use of such rate of exchange as the Chairman of the Board of Commissioners of Currency, Singapore, may certify to be then appropriate.
+(4) In applying subsection (3), any moneys raised in a currency other than Singapore dollars shall be converted into Singapore dollars as at the day when the amount to be raised is determined and by the use of such rate of exchange as the Managing Director of the Monetary Authority of Singapore may certify to be then appropriate.
+
+[25/2002 wef 01/10/2002]
 
 ### Raising of loans
 
@@ -149,3 +151,8 @@ This Legislative History is provided for the convenience of users of the Externa
 |||(Bill No. 4/2000)|
 ||Date of Second and Third Readings|22 February 2000|
 ||Date of commencement|1 April 2000|
+|6.|**Act 25 of 2002—Currency (Amendment) Act 2002**|
+||Date of First Reading|8 July 2002|
+|||(Bill No. 23/2002)|
+||Date of Second and Third Readings|23 July 2002|
+||Date of commencement|1 October 2002|
