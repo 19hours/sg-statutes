@@ -352,7 +352,7 @@ and includes a trade mark in respect of which an application for registration ha
 
 “Registry” means the Registry of Trade Marks established under section 64;
 
-“repealed Act” means the Trade Marks Act (Cap. 332, 1985 Ed.) repealed by this Act;
+“repealed Act” means the Trade Marks Act (Cap. 332, 1992 Ed.) repealed by this Act;
 
 “sign” includes any letter, word, name, signature, numeral, device, brand, heading, label, ticket, shape, colour, aspect of packaging or any combination thereof;
 
@@ -2535,3 +2535,5 @@ This Legislative History is provided for the convenience of users of the Trade M
 ||Date of commencement|15 January 1999 (except section 54)|
 |4.|**1999 Revised Edition—Trade Marks Act**|
 ||Date of operation|30 December 1999|
+|5.|**G. N. No. S 2/2000—Revised Edition of the Laws (Trade Marks Act) (Rectification) Order 2000**|
+||Date of commencement|4 January 2000|
