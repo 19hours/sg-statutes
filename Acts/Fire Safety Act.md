@@ -106,31 +106,29 @@
 
 - [30D Application of this Part to Government buildings, etc.](#Application-of-this-Part-to-Government-buildings-etc)
 
-[**Part V PREMISES USED FOR DANGEROUS TRADES OR PURPOSES**](#Part-V)
-
-- [31 Licensing of dangerous trades](#Licensing-of-dangerous-trades)
-
-- [32 Conditions and renewal of licence](#Conditions-and-renewal-of-licence)
-
-- [33 Suspension and revocation of licence](#Suspension-and-revocation-of-licence)
+[**Part V (Repealed)**](#Part-V)
 
 [**Part VI CONTROL OF PETROLEUM AND FLAMMABLE MATERIALS**](#Part-VI)
 
 - [34 Interpretation of this Part](#Interpretation-of-this-Part)
 
-- [35 Transport and storage of petroleum](#Transport-and-storage-of-petroleum)
+- [35 Storage of petroleum and flammable materials](#Storage-of-petroleum-and-flammable-materials)
 
-- [36 Dispensing of petroleum](#Dispensing-of-petroleum)
+- [35A Import of petroleum and flammable materials](#Import-of-petroleum-and-flammable-materials)
 
-- [37 Offence](#Offence)
+- [35B Transport of petroleum and flammable material](#Transport-of-petroleum-and-flammable-material)
+
+- [36 Dispensing of petroleum and flammable material](#Dispensing-of-petroleum-and-flammable-material)
+
+- [37 Offences](#Offences)
 
 - [38 Powers of Commissioner](#Powers-of-Commissioner)
 
-- [39 Grant and renewal of licence](#Grant-and-renewal-of-licence)
+- [39 Grant and renewal of licence or permit](#Grant-and-renewal-of-licence-or-permit)
 
-- [40 Cancellation of licence](#Cancellation-of-licence)
+- [40 Cancellation of licence or permit](#Cancellation-of-licence-or-permit)
 
-- [41 Power of Minister to make orders](#Power-of-Minister-to-make-orders)
+- [41 (Repealed)](#Repealed)
 
 - [42 Disposal of stocks and equipment](#Disposal-of-stocks-and-equipment)
 
@@ -176,7 +174,7 @@
 
 - [62 Transitional provisions](#Transitional-provisions)
 
-[**THE SCHEDULE Dangerous Trades or Purposes**](#THE-SCHEDULE)
+[**THE SCHEDULE Flammable Materials**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -896,19 +894,13 @@ FIRE PREVENTION IN BUILDINGS
 
 20\.—(1) The Commissioner may, by notice in writing, require the owner or occupier of any building subject to this section to apply and obtain a fire certificate from the Commissioner.
 
-[7/2004 wef 10/09/2004]
-
 (1A) The following buildings shall be subject to this section:
 
 (a) any public building which has an occupant load of more than 200 persons or, if so specified, such other occupant load as the Minister may, by notification in theGazette, specify; and
 
 (b) any other particular building, or any building in any other class of buildings, designated by the Minister under subsection (1B) to be subject to this section.
 
-[7/2004 wef 10/09/2004]
-
 (1B) Where, in the opinion of the Minister, any fire within any building (whether used as a residential building or an industrial building or otherwise) is likely to be a significant source of danger to the occupants in the building, or to life or property in the vicinity of that building, the Minister may, by order published in theGazette, designate that particular building or a class of such buildings to be subject to this section.
-
-[7/2004 wef 10/09/2004]
 
 (2) No person shall occupy or use any building subject to this section or permit the building or part thereof to be occupied or used without a fire certificate authorising such occupation or use.
 
@@ -927,8 +919,6 @@ FIRE PREVENTION IN BUILDINGS
 (b) the purposes of any water, gas, telecommunication, electricity or other industrial undertaking, including research and development for any such industrial undertaking;
 
 “occupant load”, in relation to a building, means the number of persons that may safely occupy the building at any one time.
-
-[7/2004 wef 10/09/2004]
 
 ### Fire emergency plan
 
@@ -1604,43 +1594,7 @@ may, before the decision or order, as the case may be, takes effect, appeal in w
 
 ## PART V
 
-PREMISES USED FOR DANGEROUS TRADES OR PURPOSES
-
-### Licensing of dangerous trades
-
-31\.—(1) No premises shall, except in accordance with a licence granted by the Commissioner, be used by any person for any of the trades or purposes specified in the Schedule.
-
-(2) The Minister may, by notification in theGazette, amend the Schedule.
-
-(3) Any person who uses or permits to be used any premises without a licence for any of the trades or purposes specified in the Schedule or who contravenes any of the terms or conditions of a licence shall be guilty of an offence.
-
-(4) Where the Commissioner is satisfied that any premises have been or are being used in contravention of subsection (1), he may enter the premises and seize any movable property by means of or in respect of which an offence under this section has been or is being committed or which contains evidence of such an offence and which is found therein.
-
-### Conditions and renewal of licence
-
-32\.—(1) Every licence granted under section 31 shall be subject to such terms or conditions as the Commissioner thinks fit to impose.
-
-(2) Every licence granted under section 31, if it has not been revoked under section 33, may, on the application of the holder of the licence, be renewed by the Commissioner subject to such terms or conditions as he thinks fit to impose.
-
-(3) Any person who is aggrieved by a decision of the Commissioner under subsection (1) or (2) may, within one month of being notified of the decision of the Commissioner, appeal to the Minister whose decision shall be final.
-
-(4) Every licence shall, on payment of the prescribed fees, be valid for such period as the Commissioner may determine.
-
-### Suspension and revocation of licence
-
-33\.—(1) The Commissioner may by order at any time suspend or revoke any licence granted under section 31 if he considers it in the public safety to do so.
-
-(2) A licence shall not be suspended for a period exceeding 6 months.
-
-(3) The Commissioner shall, before suspending or revoking any licence under subsection (1), give to the person concerned notice in writing of his intention to do so specifying a date, not less than 21 days after the notice, upon which the suspension or revocation shall take effect and calling upon the person concerned to show cause to the Commissioner why the licence should not be suspended or revoked.
-
-(4) When the Commissioner has suspended or revoked the licence under subsection (1), he shall forthwith inform the person concerned by notice in writing of the suspension or revocation.
-
-(5) The person whose licence has been suspended or revoked may, within 14 days of the receipt of the notice referred to in subsection (4), or such extended period of time as the Minister may allow, appeal in writing against the suspension or revocation to the Minister whose decision shall be final.
-
-(6) An order of suspension or revocation shall not take effect until the expiration of a period of 14 days after the Commissioner has informed the licensee concerned of the order.
-
-(7) If within that period the licensee concerned gives due notice of appeal to the Minister, the order shall not take effect unless the order is confirmed by the Minister or the appeal is for any reason dismissed by the Minister.
+[Deleted by Act 7/2004 wef 16/02/2005]
 
 ## PART VI
 
@@ -1648,7 +1602,9 @@ CONTROL OF PETROLEUM AND FLAMMABLE MATERIALS
 
 ### Interpretation of this Part
 
-34\. In this Part, unless the context otherwise requires —
+34\. In this Part and in section 61, unless the context otherwise requires —
+
+(1) In this Part and in section 61, unless the context otherwise requires —
 
 “Class O petroleum” means liquefied petroleum gas;
 
@@ -1656,19 +1612,19 @@ CONTROL OF PETROLEUM AND FLAMMABLE MATERIALS
 
 “Class II petroleum” means any petroleum having a flashpoint of or exceeding 23º celsius but less than 61º celsius;
 
-“dispensing” means transferring any class of petroleum from one container to any other container or containers for the purpose of distribution, through hose, pipe or by any other means and includes discharging into a motor vehicle or from the tank of a road tanker;
+“dispensing” means transferring any class of petroleum or any flammable material from one container to any other container or containers for the purpose of distribution, through hose, pipe or by any other means and includes discharging into a motor vehicle or from the tank of a road tanker;
 
 [7/2004 wef 16/02/2005]
 
-“flammable materials” includes —
+“flammable material” means any substance specified in the Schedule;
 
-(a) any liquid or mixtures of liquids containing solids in solution or suspension which have a flashpoint not greater than 61º celsius when tested in accordance with such method as may be prescribed by any regulations made under this Act;
+[7/2004 wef 16/02/2005]
 
-(b) any gas that has a lower flammability limit less than 13% by volume or a flammability range greater than 12; and
+“import”, with its grammatical variations and cognate expressions, means to take or cause to be taken into Singapore by land, sea or air from any place outside Singapore, but does not include the bringing into Singapore by sea or air of any substance or product which it is proved to be intended to be taken out of Singapore on the same vessel or aircraft on which the substance or product was brought into Singapore without any landing or transhipment within Singapore;
 
-(c) any other substances that are easily combustible or which on contact with water, emit flammable gases;
+[7/2004 wef 16/02/2005]
 
-“licensed premises” means any premises licensed for the storage of any class of petroleum under this Act;
+“licensed premises” means any premises licensed for the storage of any class of petroleum or any flammable material under this Act;
 
 [7/2004 wef 16/02/2005]
 
@@ -1678,105 +1634,193 @@ CONTROL OF PETROLEUM AND FLAMMABLE MATERIALS
 
 “place” includes houses, yards and open spaces appurtenant thereto, buildings and footways and any underground space;
 
-“transport” means to remove from any place to any other place within or without Singapore.
+“road tanker” means a goods vehicle as defined in the Road Traffic Act (Cap. 276) which has a tank that is structurally attached or is an integral part of the frame of the vehicle;
 
-### Transport and storage of petroleum
+[7/2004 wef 16/02/2005]
 
-35\. No person shall —
+“transport”, in relation to any class of petroleum or any flammable material, means the carriage of such petroleum or flammable material by any vehicle on land from one place in Singapore to another place, whether within or outside Singapore, and includes —
 
-(a) transport or cause to be transported; or
+(a) the packing, loading and unloading of the goods, and the transfer of the goods to or from a vehicle;
 
-(b) store or keep or cause to be stored or kept,
+(b) the marking of packages and unit loads containing petroleum or flammable material for transport, and placarding containers and vehicles in which such petroleum or flammable material are transported; and
 
-any class of petroleum except under and in accordance with this Act or any regulations made thereunder.
+(c) any other matters incidental to their transport.
 
-### Dispensing of petroleum
+[7/2004 wef 16/02/2005]
 
-36\.—(1) No person shall dispense or cause to be dispensed any class of petroleum at any place other than at a licensed premises.
+[7/2004 wef 16/02/2005]
+
+(2) For the purposes of this Part and section 61, a person may be regarded as transporting any class of petroleum or any flammable material —
+
+(a) by his marking packages and unit loads containing such petroleum or flammable material for transport, and placarding containers and any vehicles in which such petroleum or flammable material are transported;
+
+(b) by his consigning such petroleum or flammable material for transport;
+
+(c) by his loading such petroleum or flammable material into or onto a vehicle, or into a tank container or container that is to be put on a vehicle, for transport or unloading any class of petroleum or any flammable material that has been transported;
+
+(d) by his marshalling vehicles and separating such petroleum or flammable material;
+
+(e) by his undertaking, or being responsible for, otherwise than as an employee or subcontractor, the transport of such petroleum or flammable material;
+
+(f) by his providing emergency information in relation to the transport of such petroleum or flammable material;
+
+(g) by his driving a vehicle carrying such petroleum or flammable material;
+
+(h) by being the consignee of such petroleum or flammable material that are to be transported; or
+
+(i) by being involved as a director, secretary or manager of a body corporate, or other person who takes part in the management of a body corporate, that takes part in an activity referred to above.
+
+[7/2004 wef 16/02/2005]
+
+(3) The Minister may at any time, by order published in theGazette, amend the Schedule.
+
+[7/2004 wef 16/02/2005]
+
+### Storage of petroleum and flammable materials
+
+35\. No person shall store or keep, or cause to be stored or kept, any class of petroleum or any flammable material except —
+
+(a) in or on premises licensed for the storage or keeping of such petroleum or flammable material;
+
+(b) in such quantities and in such manner and subject to such conditions as may be prescribed in relation to such petroleum or flammable material; and
+
+(c) under the authority of and in accordance with the provisions of a licence from the Commissioner and every condition specified therein.
+
+[7/2004 wef 16/02/2005]
+
+### Import of petroleum and flammable materials
+
+35A\.—(1) No person shall import any class of petroleum or any flammable material if —
+
+(a) the regulations require the person importing such petroleum or flammable material to hold a licence from the Commissioner to import such petroleum or flammable material; and
+
+(b) the person does not hold such a valid licence.
+
+(2) No person shall import any class of petroleum or any flammable material unless the importation —
+
+(a) is effected in accordance with the provisions of his licence and with every condition specified therein; and
+
+(b) is in such quantities and in such manner and subject to such conditions as may be prescribed in relation to such petroleum or flammable material.
+
+[7/2004 wef 16/02/2005]
+
+### Transport of petroleum and flammable material
+
+35B\.—(1) No person shall transport any class of petroleum or any flammable material (other than as a driver of a road vehicle) if —
+
+(a) the regulations require the person transporting such petroleum or flammable material to hold a licence from the Commissioner to transport such petroleum or flammable material; and
+
+(b) the person does not hold such a valid licence.
+
+(2) No person shall transport any class of petroleum or any flammable material (other than as a driver of a road vehicle) unless the transportation —
+
+(a) is in accordance with the provisions of his licence and with every condition specified therein; and
+
+(b) is in such quantities and in such manner and subject to such conditions as may be prescribed in relation to such petroleum or flammable material.
+
+(3) No person shall drive any vehicle transporting any class of petroleum or any flammable material by road if —
+
+(a) the regulations require the vehicle to be licensed to transport such petroleum or flammable material and the vehicle is not licensed by the Commissioner to carry such petroleum or flammable material; and
+
+(b) the regulations require the person to hold a permit from the Commissioner to drive a vehicle carrying such petroleum or flammable material and the person does not hold such a valid permit.
+
+(4) No person shall drive any vehicle transporting any class of petroleum or any flammable material by road unless he does so in such manner and subject to such conditions as may be prescribed in relation to such petroleum or flammable material, and in accordance with the provisions of his permit and every condition specified therein.
+
+(5) Nothing in this section shall apply to petroleum or any flammable material in the fuel tank of a vehicle which is used or intended to be used as fuel for that vehicle.
+
+(6) Every permit issued by the Commissioner before the date of commencement of section 16 of the Fire Safety (Amendment) Act 2004 authorising any person to drive any vehicle transporting any class of petroleum or any flammable material by road shall be deemed to have been issued under subsection (3)(b).
+
+[7/2004 wef 16/02/2005]
+
+### Dispensing of petroleum and flammable material
+
+36\.—(1) No person shall dispense or cause to be dispensed any class of petroleum or any flammable material at any place other than at a licensed premises.
 
 [7/2004 wef 16/02/2005]
 
 (2) Any licensed premises to be used for the dispensing of liquid petroleum gas into cylinders must be specifically approved for that purpose by the Commissioner who may impose additional requirements as he thinks fit.
 
-### Offence
+### Offences
 
-37\. Any person who contravenes section 35 or 36 shall be guilty of an offence.
+37\. Any person who contravenes section 35, 35A(1) or (2), 35B(1), (2), (3) or (4) or 36(1) shall be guilty of an offence.
+
+[7/2004 wef 16/02/2005]
 
 ### Powers of Commissioner
 
 38\. For the purposes of this Part, the Commissioner shall have powers to —
 
-(a) waive or modify, subject to such terms and conditions as he thinks fit, any of the requirements of any regulations made under this Act;
+(a) waive or modify, subject to such terms and conditions as he thinks fit, any of the requirements of any licence or permit issued under this Part or any regulations made thereunder;
 
 [7/2004 wef 16/02/2005]
 
-(b) stop and examine any vehicle when he has reason to believe that any class of petroleumis being transported in the vehicle in contravention of this Act or any regulations made thereunder;
+(b) stop and examine any vehicle when he has reason to believe that any class of petroleum or any flammable material is being transported in the vehicle in contravention of this Act or any regulations made thereunder;
 
 [7/2004 wef 16/02/2005]
 
-(c) inspect, examine and test all classes of petroleumstored on land and for such purposes take samples thereof;
+(c) inspect, examine and test all classes of petroleum or any flammable material stored on land and for such purposes take samples thereof;
 
 [7/2004 wef 16/02/2005]
 
-(d) enter any place where he has reason to believe that any class of petroleum is stored in contravention of this Act or any regulations made thereunder; and
+(d) enter any place where he has reason to believe that any class of petroleum or any flammable material is stored in contravention of this Act or any regulations made thereunder; and
 
 [7/2004 wef 16/02/2005]
 
-(e) seize any stock of any class of petroleum or equipment in respect of which he has reason to believe that an offence under this Act has been committed.
+(e) seize any stock of any class of petroleum, any flammable material or equipment in respect of which he has reason to believe that an offence under this Act has been committed.
 
 [7/2004 wef 16/02/2005]
 
-### Grant and renewal of licence
+### Grant and renewal of licence or permit
 
-39\.—(1) The grant of any licence under this Part shall be in the absolute discretion of the Commissioner, and any such licence shall stipulate the quantity of each class of petroleum which may be stored in any premises or transported in any vehicle, as the case may be.
-
-(2) Every licencegranted under this Part shall be subject to such conditions as the Commissioner thinks fit to impose.
+39\.—(1) The grant of any licence or permit under this Part shall be in the absolute discretion of the Commissioner.
 
 [7/2004 wef 16/02/2005]
 
-(3) Every licence granted under this Part, if it has not been cancelled under section 40, may, on the application of the holder of the licence, be renewed by the Commissioner subject to such conditions as he thinks fit to impose.
+(2) Every licence or permit granted under this Part shall be subject to such conditions as the Commissioner thinks fit to impose.
 
 [7/2004 wef 16/02/2005]
 
-(4) Every licenceshall, on payment of the prescribed fees, be valid for such period not exceeding 3 years as the Commissioner may determine.
+(3) Every licence or permit granted under this Part, if it has not been cancelled under section 40, may, on the application of the holder of the licence or permit, be renewed by the Commissioner subject to such conditions as he thinks fit to impose.
+
+[7/2004 wef 16/02/2005]
+
+(4) Every licence or permit shall, on payment of the prescribed fees, be valid for such period not exceeding 3 years as the Commissioner may determine.
 
 [7/2004 wef 16/02/2005]
 
 (5) Any person who is aggrieved by any decision of the Commissioner under this section may, within one month of being notified of the decision of the Commissioner, appeal to the Minister whose decision shall be final.
 
-(6) Any person who contravenes any of the conditions of a licencegranted under this Part shall be guilty of an offence.
+(6) Any person who contravenes any of the conditions of a licence or permit granted under this Part shall be guilty of an offence.
 
 [7/2004 wef 16/02/2005]
 
-### Cancellation of licence
+### Cancellation of licence or permit
 
-40\.—(1) If at any time it appears to the Commissioner that any premises or vehicle, in respect of which a licence has been granted, has become unfit for the purpose for which it was licensed by reason of the increase of building or of population in its neighbourhood, or that from any other cause, any licence should for the public safety be cancelled, or if the person to whom the licence was granted contravenes any of the conditions of the licence, the Commissioner may by order cancel the licence.
-
-[7/2004 wef 16/02/2005]
-
-(2) The Commissioner shall, before cancelling any licence under subsection (1), give to the person concerned notice in writing of his intention to do so specifying a date, not less than 21 days after the notice, upon which the cancellation shall take effect and calling upon the person concerned to show cause to the Commissioner why the licence should not be cancelled.
+40\.—(1) If at any time it appears to the Commissioner that any premises or vehicle, in respect of which a licence or permit has been granted, has become unfit for the purpose for which it was licensed by reason of the increase of building or of population in its neighbourhood, or that from any other cause, any licence or permit should for the public safety be cancelled, or if the person to whom the licence or permit was granted contravenes any of the conditions of the licence or permit, the Commissioner may by order cancel the licence or permit.
 
 [7/2004 wef 16/02/2005]
 
-(3) When the Commissioner has cancelled the licence under subsection (1), he shall forthwith inform the person concerned by notice in writing of such cancellation.
+(2) The Commissioner shall, before cancelling any licence or permit under subsection (1), give to the person concerned notice in writing of his intention to do so specifying a date, not less than 21 days after the notice, upon which the cancellation shall take effect and calling upon the person concerned to show cause to the Commissioner why the licence or permit should not be cancelled.
 
 [7/2004 wef 16/02/2005]
 
-(4) The person whose licence has been cancelled may, within 14 days of the receipt of the notice referred to in subsection (3), or such extended period of time as the Minister may allow, appeal in writing against the cancellation to the Minister whose decision shall be final.
+(3) When the Commissioner has cancelled the licence or permit under subsection (1), he shall forthwith inform the person concerned by notice in writing of such cancellation.
 
 [7/2004 wef 16/02/2005]
 
-(5) An order of cancellation shall not take effect until the expiration of a period of 14 days after the Commissioner has informed the licensee concerned of the order.
+(4) The person whose licence or permit has been cancelled may, within 14 days of the receipt of the notice referred to in subsection (3), or such extended period of time as the Minister may allow, appeal in writing against the cancellation to the Minister whose decision shall be final.
 
 [7/2004 wef 16/02/2005]
 
-(6) If within that period the licensee concerned gives due notice of appeal to the Minister, the order shall not take effect unless the order is confirmed by the Minister or the appeal is for any reason dismissed by the Minister.
+(5) An order of cancellation shall not take effect until the expiration of a period of 14 days after the Commissioner has informed the holder of the licence or permit in question of the order.
 
 [7/2004 wef 16/02/2005]
 
-### Power of Minister to make orders
+(6) If within that period the holder of the licence or permit in question gives due notice of appeal to the Minister, the order shall not take effect unless the order is confirmed by the Minister or the appeal is for any reason dismissed by the Minister.
 
-41\. The Minister may by order direct that this Part or any provision thereof or any regulations made under this Act shall apply to any flammable material and specifying the quantity which may be kept or stored without a licence, and thereupon this Part, the provision thereof or the regulations specified in the order shall, during the continuance of the order, apply to such flammable material.
+[7/2004 wef 16/02/2005]
+
+41\. [Deleted by Act 7/2004 wef 16/02/2005]
 
 ### Disposal of stocks and equipment
 
@@ -1940,8 +1984,6 @@ MISCELLANEOUS
 
 (e) the prescribing of the requirements of a fire emergency plan in designated premises;
 
-(f) the control, regulation and supervision by registration, licensing or otherwise of premises used for any trade or purpose specified in the Schedule;
-
 (g) the control, regulation and supervision by registration, licensing, inspection or otherwise of places to which the public has access;
 
 (h) the submission of plans and specifications of fire safety works, the authorisation of persons qualified to submit the same and their duties and responsibilities and the nature or classifications of plans or specifications which each such person may submit;
@@ -1954,25 +1996,27 @@ MISCELLANEOUS
 
 (l) the determining of the standard of any class of petroleum;
 
-(m) the licensing and management of places for storing any class of petroleum ;
+(m) the licensing and management of places for storing any class of petroleum or any flammable material;
 
 [7/2004 wef 16/02/2005]
 
-(n) the prescribing of the quantities of any class of petroleum that may be stored in any licensed premises and the method in which it is to be stored including the maximum quantity of any class of petroleum that can be stored without a licence for residential, commercial or industrial use;
+(n) the prescribing of the quantities of any class of petroleum or any flammable material that may be stored in any licensed premises and the method in which it is to be stored including the maximum quantity of any class of petroleum or any flammable material that can be stored without a licence for residential, commercial or industrial use;
 
 [7/2004 wef 16/02/2005]
 
-(o) the regulation of the dispensing of any class of petroleum;
+(o) the regulation of the dispensing of any class of petroleum or any flammable material;
 
 [7/2004 wef 16/02/2005]
 
-(p) the regulation of the transportation of any class of petroleum including specifying the time periods under which petroleum can be transported and the maximum quantity of any class of petroleum that can be transported without a licence;
-
-(q) the determining of the quantity of and the receptacles in which any class of petroleum may be carried in any vehicle;
+(p) the regulation of the transport of any class of petroleum or any flammable material, including specifying the time during which such petroleum or flammable material can be transported and the maximum quantity of any class of petroleum or any flammable material that can be transported without a licence or permit;
 
 [7/2004 wef 16/02/2005]
 
-(r) the prescribing of the standard and specification for the construction of any premises in which any class of petroleum is to be stored;
+(q) the determining of the quantity of and the receptacles in which any class of petroleum or any flammable material may be carried in any vehicle;
+
+[7/2004 wef 16/02/2005]
+
+(r) the prescribing of the standard and specification for the construction of any premises in which any class of petroleum or any flammable material is to be stored;
 
 [7/2004 wef 16/02/2005]
 
@@ -1980,17 +2024,21 @@ MISCELLANEOUS
 
 (t) the provisions for the protection of premises adjacent to licensed premises;
 
-(u) the requiring of receptacles containing petroleum to carry warning labels and to denote the class of petroleum contained therein;
-
-(v) the prescribing of fees and charges for the purposes of this Act;
-
-(w) the prescribing of the conditions to be attached to any licence and the prescribing of the requirements and conditions to be observed by persons employed at the premises to which the licence relates;
-
-(x) the regulation, control and licensing of persons and organisations engaged in the business of petroleumdistribution;
+(u) the requiring of any receptacle containing petroleum or flammable material to carry warning labels and to denote the class of petroleum or the flammable material contained therein;
 
 [7/2004 wef 16/02/2005]
 
-(y) the prescribing of forms for licencesand for other purposes for use in connection with this Act;
+(v) the prescribing of fees and charges for the purposes of this Act;
+
+(w) the prescribing of conditions to be attached to any licence or permit, and the requirements and conditions to be observed by persons at the premises or driving any vehicle to which the licence or permit relates;
+
+[7/2004 wef 16/02/2005]
+
+(x) the regulation, control and licensing of persons and organisations engaged in the business of petroleum or flammable material distribution;
+
+[7/2004 wef 16/02/2005]
+
+(y) the prescribing of forms for licences and permits and for other purposes for use in connection with this Act;
 
 [7/2004 wef 16/02/2005]
 
@@ -2020,19 +2068,485 @@ MISCELLANEOUS
 
 ## THE SCHEDULE
 
-Sections 31 and 61(1)(f)
+Section 34(1) and (3)
 
-Dangerous Trades or Purposes
+Flammable Materials
 
-1\. Storage of acetylene.
+(1) Acetal
 
-2\. Storage of calcium carbide.
+(2) Acetone
 
-3\. Storage of cellulose solutions.
+(3) Acetyl chloride
 
-4\. Storage of fireworks.
+(4) Acetylene
 
-5\. Storage of matches.
+(5) Aldehydes
+
+(6) Allyl acetate
+
+(7) Allyl bromide
+
+(8) Allyl chloride
+
+(9) Allyl formate
+
+(10) Allyl iodide
+
+(11) Aluminum alkyl halides
+
+(12) Aluminum alkyl hydrides
+
+(13) Aluminum alkyls
+
+(14) Aluminum borohydride
+
+(15) Aluminum carbide
+
+(16) Aluminum ferrosilicon powder
+
+(17) Aluminum hydride
+
+(18) Aluminum powder
+
+(19) Amines
+
+(20) 2-Amino-4,6-Dinitrophenol, wetted (with not less than 20 percent water by mass)
+
+(21) Ammonium picrate
+
+(22) Amyl chlorides
+
+(23) Amyl nitrites
+
+(24) Azodicarbonamide
+
+(25) Barium or Barium alloys
+
+(26) Barium azide, wetted (with not less than 50 percent water, by mass)
+
+(27) Benzotrifluoride
+
+(28) Boron trifluoride dimethyl etherate
+
+(29) 1-Bromobutane
+
+(30) Bromomethylpropane
+
+(31) 2-Bromopentane
+
+(32) Bromopropanes
+
+(33) 3-Bromopropyne
+
+(34) Bromotrifluoroethylene
+
+(35) Butadienes
+
+(36) Butanedione
+
+(37) Butanol
+
+(38) Butyl acetates
+
+(39) n-Butyl formate
+
+(40) tert-Butyl hypochlorite
+
+(41) Butyl nitrites
+
+(42) 1,2-Butylene oxide
+
+(43) Butyryl chloride
+
+(44) Calcium
+
+(45) Calcium carbide
+
+(46) Calcium dithionite (Calcium hydrosulfite)
+
+(47) Calcium hydride
+
+(48) Calcium or Calcium alloys
+
+(49) Calcium silicide
+
+(50) Carbon disulfide
+
+(51) Cerium
+
+(52) Cesium (Caesium)
+
+(53) Chlorobutane
+
+(54) 2-Chloropropane
+
+(55) 2-Chloropropene
+
+(56) Chlorosilanes
+
+(57) Cyclobutane
+
+(58) Cyclopropane
+
+(59) Decaborane
+
+(60) Deuterium
+
+(61) 1,2-Di-(dimethylamino)ethane
+
+(62) Diacetone alcohol
+
+(63) 1,1-Dichloroethane
+
+(64) 1,2-Dichloroethylene
+
+(65) 1,2-Dichloropropane
+
+(66) Dichloropropene
+
+(67) Diethoxymethane
+
+(68) 3,3-Diethoxypropene
+
+(69) Diethyl sulfide
+
+(70) Diethylzinc
+
+(71) 2,3-Dihydropyran
+
+(72) 1,2-Dimethoxyethane
+
+(73) 1,1-Dimethoxyethane
+
+(74) Dimethyl carbonate
+
+(75) Dimethyl disulfide
+
+(76) Dimethyl sulfide
+
+(77) 2,3-Dimethylbutane
+
+(78) Dimethylcyclohexane
+
+(79) Dimethyldiethoxysilane
+
+(80) Dimethyldioxane
+
+(81) 2,2-Dimethylpropane
+
+(82) Dimethylzinc
+
+(83) Dinitrophenol, wetted (with not less than 15 percent water, by mass)
+
+(84) Dinitrophenolates, wetted (with not less than 15 percent water, by mass)
+
+(85) Dinitroresorcinol, wetted (with not less than 15 percent water, by mass)
+
+(86) Dioxane
+
+(87) Dioxolane
+
+(88) Dipicryl sulfide
+
+(89) Esters
+
+(90) Ethane
+
+(91) Ethanol
+
+(92) Ethers
+
+(93) Ethyl acetate
+
+(94) Ethyl acrylate
+
+(95) Ethyl borate
+
+(96) Ethyl chloride
+
+(97) Ethyl crotonate
+
+(98) Ethyl formate
+
+(99) Ethyl isobutyrate
+
+(100) Ethyl methacrylate
+
+(101) Ethyl nitrite
+
+(102) Ethyl propionate
+
+(103) Ethylacetylene
+
+(104) Ethylbenzene
+
+(105) Ethyldichlorosilane
+
+(106) Ethylene
+
+(107) 1-Ethylpiperidine
+
+(108) Ferrocerium
+
+(109) Fluorobenzene
+
+(110) Fluorotoluene
+
+(111) Furan
+
+(112) Hafnium powder
+
+(113) Hexadiene
+
+(114) Hexamethyleneimine
+
+(115) Hydrogen
+
+(116) 2-Iodobutane
+
+(117) Iodomethylpropane
+
+(118) Isobutyl acetate
+
+(119) Isobutyl formate
+
+(120) Isobutyryl chloride
+
+(121) Isoprene
+
+(122) Isopropanol (Isopropyl alcohol)
+
+(123) Isopropenyl acetate
+
+(124) Isopropyl acetate
+
+(125) Isopropyl isobutyrate
+
+(126) Isopropyl nitrate
+
+(127) Isopropyl propionate
+
+(128) Lead phosphite, dibasic
+
+(129) Lithium
+
+(130) Lithium alkyls
+
+(131) Lithium aluminum hydride
+
+(132) Lithium borohydride
+
+(133) Lithium ferrosilicon
+
+(134) Lithium hydride
+
+(135) Lithium nitride
+
+(136) Lithium silicon
+
+(137) Magnesium alkyls
+
+(138) Magnesium diamide
+
+(139) Magnesium diphenyl
+
+(140) Magnesium hydride
+
+(141) Magnesium or Magnesium alloys
+
+(142) Magnesium silicide
+
+(143) Methane
+
+(144) Methanol
+
+(145) Methyl acetate
+
+(146) Methyl acetylene
+
+(147) Methyl acrylate
+
+(148) Methyl allyl chloride
+
+(149) Methyl butene
+
+(150) Methyl butyrate
+
+(151) Methyl formate
+
+(152) Methyl isovalerate
+
+(153) Methyl magnesium bromide
+
+(154) Methyl methacrylate monomer
+
+(155) Methyl propionate
+
+(156) Methylal
+
+(157) 3-Methylbutan-2-one
+
+(158) Methyldichlorosilane
+
+(159) 2-Methylfuran
+
+(160) n-methylmorpholine
+
+(161) Methylpentadiene
+
+(162) 1-Methylpiperidine
+
+(163) Methyltetrahydrofuran
+
+(164) Nitriles
+
+(165) Nitrocellulose, wetted (with not less than 25 percent water, by mass)
+
+(166) Nitroguanidine, wetted (with not less than 20 percent water, by mass)
+
+(167) Nitromethane
+
+(168) p-Nitrosodimethylaniline
+
+(169) Nitrostarch, wetted (with not less than 20 percent water, by mass)
+
+(170) Pentaborane
+
+(171) Pentanol
+
+(172) Phosphorus heptasulfide
+
+(173) Phosphorus pentasulfide
+
+(174) Phosphorus sesquisulfide
+
+(175) Phosphorus trisulfide
+
+(176) Phosphorus
+
+(177) Potassium or Potassium alloys
+
+(178) Potassium borohydride
+
+(179) Potassium dithionite (Potassium hydrosulfite)
+
+(180) Potassium sodium alloys
+
+(181) Potassium sulfide
+
+(182) Propadiene
+
+(183) Propanethiol
+
+(184) n-Propanol
+
+(185) Propionyl chloride
+
+(186) n-Propyl acetate
+
+(187) Propyl chloride
+
+(188) Propyl formates
+
+(189) n-Propyl nitrate
+
+(190) Propylene oxide
+
+(191) Propyleneimine
+
+(192) Pyridine
+
+(193) Pyrrolidine
+
+(194) Rubidium
+
+(195) Silane
+
+(196) Silver picrate
+
+(197) Sodium
+
+(198) Sodium aluminum hydride
+
+(199) Sodium borohydride
+
+(200) Sodium dinitro-o-cresolate, wetted (with not less than 15 percent water, by mass)
+
+(201) Sodium dithionite (Sodium hydrosulfite)
+
+(202) Sodium hydride
+
+(203) Sodium hydrosulfide
+
+(204) Sodium methylate
+
+(205) Sodium picramate, wetted (with not less than 20 percent water, by mass)
+
+(206) Sodium sulfide
+
+(207) Strontium
+
+(208) Tetrahydrofuran
+
+(209) 1,2,3,6-Tetrahydropyridine
+
+(210) Tetrahydrothiophene
+
+(211) Tetramethylsilane
+
+(212) Thioacetic acid
+
+(213) Thiophene
+
+(214) Thiourea dioxide
+
+(215) Titanium hydride
+
+(216) Titanium powder
+
+(217) Titanium trichloride
+
+(218) Tributylphosphane
+
+(219) Triisopropyl borate
+
+(220) Trimethyl borate
+
+(221) Trinitrobenzene, wetted (with not less than 30 percent water, by mass)
+
+(222) Trinitrobenzoic acid, wetted (with not less than 30 percent water, by mass)
+
+(223) Trinitrophenol, wetted (with not less than 30 percent water, by mass)
+
+(224) Trinitrotoluene, wetted (with not less than 30 percent water, by mass)
+
+(225) Urea nitrate, wetted (with not less than 20 percent water, by mass)
+
+(226) Vinyl Acetylene
+
+(227) Vinyl acetate
+
+(228) Vinyl bromide
+
+(229) Vinyl butyrate
+
+(230) Vinyl chloride
+
+(231) Vinyl fluoride
+
+(232) Vinylidene chloride
+
+(233) Xanthates
+
+(234) Zinc powder or Zinc dust
+
+(235) Zirconium hydride
+
+(236) Zirconium picramate, wetted (with not less than 20 percent water, by mass)
+
+(237) Zirconium powder.
+
+[7/2004 wef 16/02/2005]
 
 ## LEGISLATIVE HISTORY
 
@@ -2082,6 +2596,11 @@ This Legislative History is provided for the convenience of users of the Fire Sa
 |||(Bill No. 4/2004 published on 6 January 2004)|
 ||Date of Second and Third Readings|6 February 2004|
 ||Date of commencement|10 September 2004 (section 8)|
+|10.|**Act 7 of 2004—Fire Safety (Amendment) Act 2004**|
+||Date of First Reading|5 January 2004|
+|||(Bill No. 4/2004 published on 6 January 2004)|
+||Date of Second and Third Readings|6 February 2004|
+||Date of commencement|16 February 2005 (sections 14 to 22 and 26, paragraphs 25(a) to (g) and items (1) and (2) in the Schedule)|
 ## COMPARATIVE TABLE
 
 Fire Safety Act
