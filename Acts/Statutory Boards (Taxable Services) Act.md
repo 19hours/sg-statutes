@@ -46,6 +46,10 @@ An Act for the imposition of a tax on certain services rendered by statutory boa
 
 “services” includes the letting of any apparatus or appliance;
 
+“statutory board” includes a public telecommunication licensee referred to in the Telecommunication Authority of Singapore Act 1992.
+
+[12/1992 wef 01/04/1992]
+
 “tax” means the tax imposed under this Act;
 
 “taxable services” means the services of a statutory board specified to be taxable under section 3.
@@ -115,3 +119,9 @@ This Legislative History is provided for the convenience of users of the Statuto
 ||Date of commencement|1 February 1984|
 |5.|**1985 Revised Edition—Statutory Boards (Taxable Services) Act (Chapter 318)**|
 ||Date of operation|30 March 1987|
+|6.|**Act 12 of 1992—Telecommunications Authority of Singapore Act 1992**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|27 February 1992|
+|||(Bill No. 16/92)|
+||Date of Second and Third Readings|19 March 1992|
+||Date of commencement|1 April 1992 (paragraph 6 of the Fourth Schedule –– amendment of Statutory Boards (Taxable Services) Act)|
