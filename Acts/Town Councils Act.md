@@ -180,7 +180,7 @@ PRELIMINARY
 
 “common property”, in relation to any residential or commercial property in a housing estate of the Board, means so much of the land and all parts of any building of the Board as are not being comprised in the flats in the building and includes —
 
-(a) the columns, beams, supports, external wallsand windows, roofs and storage spaces, lobbies, corridors, stairs, stairways, fire escapes, entrances and exits;
+(a) the columns, beams, supports, external walls, roofs and storage spaces, lobbies, corridors, stairs, stairways, fire escapes, entrances and exits;
 
 (b) fire-fighting and protection system;
 
@@ -243,6 +243,8 @@ but does not include —
 “vice-chairman”, in relation to a Town Council, means a vice-chairman of the Town Council.
 
 [25/90; 37/96]
+
+[47/2004 wef 01/04/2005]
 
 (2) This Act shall not apply to —
 
@@ -566,7 +568,7 @@ FUNCTIONS AND POWERS OF TOWN COUNCIL
 
 (a) under section 21 or 22; or
 
-(b) required to be carried out by a notice served on it by any public authority or statutory board or by an order of the Commissioner of Buildings under the Buildings and Common Property (Maintenance and Management) Act (Cap. 30),
+(b) required to be carried out by a notice served on it by any public authority or statutory board or by an order of the Commissioner of Buildings under the Building Maintenance and Strata Management Act 2004,
 
 a Town Council may, by its employees or agents, enter upon any flat of the Board or any part of the housing estates within the Town for the purpose of carrying out the work, in the case of an emergency, at any time, or, in any other case, at any reasonable time after giving notice to any occupier of that flat or part of those housing estates.
 
@@ -1364,6 +1366,13 @@ This Legislative History is provided for the convenience of users of the Town Co
 |||(Bill No. 43/2004 published on 22 September 2004)|
 ||Date of Second and Third Readings|19 October 2004|
 ||Date of commencement|15 December 2004|
+|10.|**Act 47 of 2004—Building Maintenance and Strata Management Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|6 February 2004|
+|||(Bill No. 6/2004 published on 7 February 2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|1 April 2005|
+|||(item (15) in the Fifth Schedule)|
 ## COMPARATIVE TABLE
 
 Town Councils Act
