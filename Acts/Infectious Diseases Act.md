@@ -928,6 +928,10 @@ Syphilis.
 
 [S 119/90 wef 01/04/1990]
 
+(v) Human Immunodeficiency Virus Infection.
+
+[S 403/1998 wef 15/08/1998]
+
 SECOND SCHEDULE
 
 Sections 2 and 65.
@@ -1009,3 +1013,5 @@ This Legislative History is provided for the convenience of users of the Infecti
 |||(Bill No. 46/95 published on 6 December 1995)|
 ||Date of Second and Third Readings|18 January 1996|
 ||Date of commencement|2 February 1996|
+|12.|**G. N. No. S 403/1998—Infectious Diseases Act (Amendment of First Schedule) Notification 1998**|
+||Date of commencement|15 August 1998|
