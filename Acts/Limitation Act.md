@@ -88,7 +88,7 @@
 
 [**Part IV**](#Part-IV)
 
-- [30 Application of this Act and other limitation laws to arbitrations](#Application-of-this-Act-and-other-limitation-laws-to-arbitrations)
+- [30 (Repealed)](#Repealed)
 
 - [31 Provisions as to set-off or counter-claim](#Provisions-as-to-set-off-or-counter-claim)
 
@@ -231,8 +231,6 @@ the relevant date shall be the date on which the judgment is given or the date o
 (5) If, in any case not within subsection (3), the person in question makes or agrees to make any payment to one or more persons in compensation for that damage (whether he admits any liability in respect of the damage or not), the relevant date shall be the earliest date on which the amount to be paid by him is agreed between him (or his representative) and the person (or each of the persons, as the case may be) to whom the payment is to be made.
 
 (6) An action to recover contribution shall be one to which sections 24 and 29 apply, but otherwise Parts III and IV (except sections 30 and 33) shall not apply for the purposes of this section.
-
-[45/98 wef 01/01/1999]
 
 ### Limitation in case of successive conversions and extinction of title of owner of converted goods
 
@@ -576,33 +574,7 @@ the period of limitation shall not begin to run until the plaintiff has discover
 
 ## PART IV
 
-### Application of this Act and other limitation laws to arbitrations
-
-30\.—(1) This Act and any other written law relating to the limitation of actions shall apply to arbitration as they apply to actions.
-
-(2) Notwithstanding any term in an arbitration agreement to the effect that no cause of action shall accrue in respect of any matter required by the agreement to be referred until an award is made under the agreement, the cause of action shall, for the purpose of this Act and of any other such written law (whether in the application to arbitrations or to other proceedings), be deemed to have accrued in respect of any such matter at the time when it would have accrued but for that term in the agreement.
-
-(3) For the purpose of this Act and of any such written law as aforesaid, an arbitration shall be deemed to be commenced when one party to the arbitration serves on the other party or parties a notice requiring him or them to appoint an arbitrator or to agree to the appointment of an arbitrator, or, where the arbitration agreement provides that the reference shall be to a person named or designated in the agreement, requiring him or them to submit the dispute to the person so named or designated.
-
-(4) Any notice referred to in subsection (3) may be served —
-
-(a) by delivering it to the person on whom it is to be served;
-
-(b) by leaving it at the usual or last known place of residence in Singapore of that person; or
-
-(c) by sending it by post in a registered letter addressed to that person at his usual or last known place of residence in Singapore,
-
-as well as in any other manner provided in the arbitration agreement.
-
-(5) Where a notice is sent by post in a manner prescribed by subsection (4)(c), service thereof shall, unless the contrary is proved, be deemed to have been effected at the time at which the letter would have been delivered in the ordinary course of post.
-
-(6) Where the High Court orders that an award be set aside or orders, after the commencement of an arbitration, that the arbitration shall cease to have effect with respect to the dispute referred, the Court may further order that the period between the commencement of the arbitration and the date of the order of the Court shall be excluded in computing the time prescribed by this Act or any such written law as aforesaid for the commencement of proceedings (including arbitration) with respect to the dispute referred.
-
-(7) This section shall apply to an arbitration under any written law as well as to an arbitration pursuant to an arbitration agreement, and subsections (3) to (5) shall have effect, in relation to an arbitration under any written law, as if for the references to the agreement there were substituted references to such of the provisions of the law or of any order, scheme, rules, regulations or by-laws made thereunder as relate to the arbitration.
-
-(8) In this section,
-
-“arbitration”, “arbitration agreement” and “award” have the same meanings as in the Arbitration Act [Cap. 10].
+30\. [Repealed by Act 37 of 2001 wef 01/03/2002]
 
 ### Provisions as to set-off or counter-claim
 
@@ -638,7 +610,7 @@ Limitation Act
 
 (CHAPTER 163)
 
-This Legislative History is provided for the convenience of users of the Limitation Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Limitation Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -683,3 +655,9 @@ This Legislative History is provided for the convenience of users of the Limitat
 |||(Bill No. 41/1998 published on 13 October 1998)|
 ||Date of Second and Third Readings|26 November 1998|
 ||Date of commencement|1 January 1999|
+|11.|**Act 37 of 2001—Arbitration Act 2001**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|25 September 2001|
+|||(Bill No. 37/2001 published on 26 September 2001)|
+||Date of Second and Third Readings|5 October 2001|
+||Date of commencement|1 March 2002|
