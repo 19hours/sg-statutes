@@ -34,7 +34,7 @@
 
 - [10 Illegal practice](#Illegal-practice)
 
-- [11 Remuneration for services rendered](#Remuneration-for-services-rendered)
+- [11 Remuneration for architectural services](#Remuneration-for-architectural-services)
 
 - [12 Employment of unregistered architect prohibited](#Employment-of-unregistered-architect-prohibited)
 
@@ -140,7 +140,9 @@ PRELIMINARY
 
 “Board” means the Board of Architects established under section 4;
 
-“building” has the same meaning as in the Building Control Act (Cap. 29);
+“builder”, “building” and “building works” have the same meanings as in the Building Control Act (Cap. 29);
+
+[18/2003 wef 01/01/2004]
 
 “certificate of registration” means the certificate of registration issued under section 17;
 
@@ -368,9 +370,7 @@ unless the person is a registered architect who has in force a practising certif
 
 (5) Subject to the provisions of this Act, no person shall —
 
-(a) supply or offer to supply architectural services in Singapore; or
-
-(b) sell or supply for gain or reward any architectural plan, drawing, tracing, design, specification or other document drawn or prepared by any person referred to in subsection (1)(a) or (b) for use in the construction, enlargement or alteration of any building or part thereof in Singapore,
+(a) supply or offer to supply architectural services in Singapore,
 
 unless the person is —
 
@@ -382,17 +382,17 @@ unless the person is —
 
 [3/95]
 
+(5A) Notwithstanding subsection (5), a builder may supply or offer to supply architectural services in Singapore in connection with any building works which he undertakes to carry out if the architectural services are provided by a person referred to in subsection (5)(i), (ii) or (iii).
+
+[18/2003 wef 01/01/2004]
+
 (6) Any person who contravenes subsection (1), (2), (3) or (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.
 
-### Remuneration for services rendered
+### Remuneration for architectural services
 
-11\. Subject to the provisions of this Act, no person shall be entitled to recover in any court any charge, fee or remuneration for any architectural services rendered in Singapore unless the person rendering such services is —
+11\. Subject to the provisions of this Act, no person shall be entitled to recover in any court any charge, fee or remuneration for any architectural services rendered in Singapore unless the person rendering such services is authorised by this Act to supply those services.
 
-(a) a registered architect who has in force a practising certificate and practising on his own account or as a partner in a licensed partnership or a partnership consisting wholly of registered architects;
-
-(b) an allied professional and doing so only by reason of being a partner in a licensed partnership; or
-
-(c) a licensed corporation.
+[18/2003 wef 01/01/2004]
 
 ### Employment of unregistered architect prohibited
 
@@ -488,11 +488,17 @@ and the Board shall, subject to subsection (4), thereupon issue to the registere
 
 (c) the applicant does not intend to practise either on his own account or in partnership, or is not or not about to be employed by any person lawfully supplying architectural services in Singapore;
 
-(d) the declaration under subsection (3) contains a statement that to its knowledge is false in a material particular; or
+(d) the declaration under subsection (3) contains a statement that to its knowledge is false in a material particular;
 
-(e) the conduct of the applicant affords reasonable grounds for believing that he will not engage in the practice of architecture in Singapore in accordance with any written law and with honesty and integrity.or
+(e) the conduct of the applicant affords reasonable grounds for believing that he will not engage in the practice of architecture in Singapore in accordance with any written law and with honesty and integrity;or
 
 [15/95]
+
+(f) the Board is not satisfied that the applicant has complied with the prescribed requirements relating to continuing professional education .
+
+[18/2003 wef 01/01/2004]
+
+[28/2005 wef 01/12/2005]
 
 (5) Any registered architect (not being a registered architect who is applying for a practising certificate for the first time) who fails to apply for a practising certificate in the manner and within the period specified in subsection (1) may, on the making of an application in such form and on payment of such additional fee as may be prescribed, be issued a practising certificate for —
 
@@ -524,19 +530,27 @@ MULTI-DISCIPLINE AND CORPORATE PRACTICE
 
 ### Licence for multi-discipline and corporate practice
 
-20\.—(1) Subject to the provisions of this Act, the Board may grant to a corporation a licence to supply architectural services in Singapore if —
+20\.—(1) Subject to the provisions of this Act, the Board may grant to a limited corporation a licence to supply architectural services in Singapore if —
 
 (a) the memorandum of association of the corporation provides that a primary object of the corporation is to supply architectural services;
 
 (b) at least $1 million of the authorised capital of the corporation is paid up;
 
-(c) the articles of association of the corporation provide that the chairman and at least two-thirds of the directors of the corporation shall be registered architects or allied professionals;
+(c) the articles of association of the corporation provide that a prescribed number or proportion of directors shall be registered architects or allied professionals;
+
+[18/2003 wef 01/01/2004]
 
 (d) the business of the corporation, so far as it relates to the supply of architectural services, will be under the control and management of a director of the corporation who —
 
-(i) is a registered architect ordinarily resident in Singapore; and
+(i) is a registered architect who has in force a practising certificate; and
 
-(ii) has in force a practising certificate; and
+[18/2003 wef 01/01/2004]
+
+(ii) is authorised under a resolution of the board of directors of the corporation to make all final architectural decisions on behalf of the corporation with respect to the requirements of this Act, the rules or any other law relating to the supply of architectural services by the corporation; and
+
+[18/2003 wef 01/01/2004]
+
+[28/2005 wef 01/12/2005]
 
 (e) the corporation is insured against professional liability in accordance with section 24 and the rules.
 
@@ -558,19 +572,25 @@ MULTI-DISCIPLINE AND CORPORATE PRACTICE
 
 (c) the business of the corporation, so far as it relates to the supply of architectural services, will be under the control and management of a director of the corporation who —
 
-(i) is a registered architect ordinarily resident in Singapore;
+(i) is a registered architect who has in force a practising certificate;
 
-(ii) has in force a practising certificate; and
+[18/2003 wef 01/01/2004]
 
-(iii) is a member, or a registered owner of at least one share, of the corporation.
+(ii) is a member, or a registered owner of at least one share, of the corporation; and
 
-[3/95]
+[18/2003 wef 01/01/2004]
+
+(iii) is authorised under a resolution of the board of directors of the corporation to make all final architectural decisions on behalf of the corporation with respect to the requirements of this Act, the rules or any other law relating to the supply of architectural services by the corporation .
+
+[18/2003 wef 01/01/2004]
+
+[28/2005 wef 01/12/2005]
 
 (3) Subject to the provisions of this Act, the Board may grant to a partnership not consisting wholly of registered architects a licence to supply architectural services in Singapore if —
 
 (a) the partnership is one in which only registered architects, each of whom shall have in force a practising certificate, and allied professionals have a beneficial interest in the capital assets and profits of the partnership; and
 
-(b) the business of the partnership, so far as it relates to the supply of architectural services in Singapore, will be under the control and management of a partner who is a registered architect ordinarily resident in Singapore and has in force a practising certificate.
+(b) the business of the partnership, so far as it relates to the supply of architectural services in Singapore, will be under the control and management of a partner who is a registered architect and has in force a practising certificate.
 
 (4) Subject to the provisions of this Act, the Board may grant to any corporation (whether unlimited or not), or a partnership not consisting wholly of registered architects, a licence to supply architectural services in Singapore if the corporation or partnership has in force a licence granted under section 17 of the Land Surveyors Act (Cap. 156) or section 20 of the Professional Engineers Act (Cap. 253) and —
 
@@ -590,9 +610,31 @@ MULTI-DISCIPLINE AND CORPORATE PRACTICE
 
 (8) Any person whose application for a licence has been refused by the Board may, within 30 days after being notified of such refusal, appeal in the prescribed manner to the Minister whose decision shall be final.
 
+(9) In subsection (1), “prescribed number or proportion of directors” means —
+
+(a) a majority of the directors, where no number or proportion is specified under paragraph (b); or
+
+(b) where a number or proportion is specified by the Minister for the purposes of subsection (1) by notification in theGazette, such number or proportion of directors as may for the time being be so specified..
+
+[18/2003 wef 01/01/2004]
+
 ### Conditions of licence to practise
 
-21\.—(1) It shall be a condition of every licence granted to any corporation or partnership that the corporation or partnership shall supply architectural services in Singapore only under the control and management of a registered architect who —
+21\.—(1) It shall be a condition of every licence granted to any corporation or partnership that the corporation or partnership shall supply architectural services in Singapore only under the control and management of a registered architect —
+
+(a) who has in force a practising certificate; and
+
+(b) who is —
+
+(i) in the case of a corporation other than an unlimited corporation, a director or an employee of the corporation;
+
+(ii) in the case of an unlimited corporation which has a share capital, either a director or an employee of the corporation who is a registered owner of at least one share of the corporation;
+
+(iii) in the case of an unlimited corporation which does not have any share capital, either a director or an employee of the corporation who is a member of the corporation; or
+
+(iv) in the case of a partnership, a partner thereof.
+
+[18/2003 wef 01/01/2004]
 
 (2) It shall be a condition of every licence granted to any corporation, other than an unlimited corporation, that the corporation shall not supply architectural services in Singapore unless the corporation is insured against professional liability in accordance with section 24 and the rules.
 
@@ -606,9 +648,13 @@ MULTI-DISCIPLINE AND CORPORATE PRACTICE
 
 22\.—(1) Any licensed corporation shall, within 30 days of the occurrence of —
 
-(a) any alteration of its memorandum or articles of association to remove the restrictions, limitations or prohibitions of the kind specified in section 20(1), (2) or (4), whichever is applicable thereto; or
+(a) any alteration of its memorandum or articles of association to remove the restrictions, limitations or prohibitions of the kind specified in section 20(1), (2) or (4), whichever is applicable thereto;
 
-(b) any change in the composition of its board of directors, members or shareholders,
+(b) any change in the composition of its board of directors, members or shareholders; or
+
+(c) any revocation of any resolution passed by the board of directors under section 20(1)(d)(ii) or (2)(c)(iii),
+
+[18/2003 wef 01/01/2004]
 
 furnish the Board a true report in writing giving full particulars of the alteration or change.
 
@@ -928,6 +974,11 @@ This Legislative History is provided for the convenience of users of the Archite
 |||(Bill No. 16/2002 published on 24 May 2002)|
 ||Date of Second and Third Readings|8 July 2002|
 ||Date of commencement|13th January 2003 (sections 2(b), 3 to 35, 42 to 54, 55(a), 56 to 60, 62, 63 and 64)|
+|7.|**Act 18 of 2003—Building Control (Amendment) Act 2003**|
+||Date of First Reading|14 August 2003|
+|||(Bill No. 17/2003 published on 15 August 2003)|
+||Date of Second and Third Readings|2 September 2003|
+||Date of commencement|1 January 2004|
 ## COMPARATIVE TABLE
 
 Architects Act
