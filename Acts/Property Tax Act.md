@@ -36,13 +36,13 @@
 
 - [11 Adoption of Valuation List](#Adoption-of-Valuation-List)
 
-- [12 Notice of Valuation List to be published](#Notice-of-Valuation-List-to-be-published)
+- [12 (Repealed)](#Repealed)
 
-- [13 Payment to account of tax](#Payment-to-account-of-tax)
+- [13 (Repealed)](#Repealed)
 
-- [14 Notice of objection to Valuation List](#Notice-of-objection-to-Valuation-List)
+- [14 (Repealed)](#Repealed)
 
-- [15 Authentication of Valuation List](#Authentication-of-Valuation-List)
+- [15 (Repealed)](#Repealed)
 
 - [16 Returns to be made by owners](#Returns-to-be-made-by-owners)
 
@@ -53,6 +53,8 @@
 - [19 Notice of transfer of property](#Notice-of-transfer-of-property)
 
 - [20 Amendment of Valuation List](#Amendment-of-Valuation-List)
+
+- [20A Objection to Valuation List](#Objection-to-Valuation-List)
 
 - [21 Tax on new buildings, etc.](#Tax-on-new-buildings-etc)
 
@@ -76,7 +78,7 @@
 
 - [30 Copy of notice to be sent to Chief Assessor, etc.](#Copy-of-notice-to-be-sent-to-Chief-Assessor-etc)
 
-- [31 Chief Assessor or Comptroller to submit report](#Chief-Assessor-or-Comptroller-to-submit-report)
+- [31 (Repealed)](#Repealed)
 
 - [32 Time and place for hearing of appeals](#Time-and-place-for-hearing-of-appeals)
 
@@ -88,7 +90,9 @@
 
 [**Part V COLLECTION AND RECOVERY OF TAX**](#Part-V)
 
-- [36 Proceedings in default](#Proceedings-in-default)
+- [35A Tax to be paid notwithstanding objection, etc.](#Tax-to-be-paid-notwithstanding-objection-etc)
+
+- [36 Penalty for non-payment of tax and enforcement of payment](#Penalty-for-non-payment-of-tax-and-enforcement-of-payment)
 
 - [37 Tax may be paid by instalments](#Tax-may-be-paid-by-instalments)
 
@@ -118,7 +122,9 @@
 
 [**Part VI NAMES AND NUMBERS OF BUILDINGS, ESTATES OR STREETS**](#Part-VI)
 
-- [49 Names of buildings, estates or streets](#Names-of-buildings-estates-or-streets)
+- [49 Street and Building Names Board](#Street-and-Building-Names-Board)
+
+- [49A Name of building, estate or street](#Name-of-building-estate-or-street)
 
 - [50 Numbers on properties](#Numbers-on-properties)
 
@@ -236,7 +242,7 @@ PRELIMINARY
 
 “tax” means the property tax imposed by this Act;
 
-“Valuation List” means the Valuation List prepared under section 10 and authenticated under section 15;
+“Valuation List” means the Valuation List prepared under section 10;
 
 “Valuation Review Board” means the Valuation Review Board constituted under section 23.
 
@@ -322,9 +328,19 @@ IMPOSITION OF PROPERTY TAX
 
 ### Charge of property tax
 
-6\.—(1) As from 1st January 1961, a property tax shall, subject to the provisions of this Act, be payable at the rate or rates specified in this Act for each year upon the annual value of all houses, buildings, lands and tenements whatsoever included in the Valuation List authenticated under section 15 and amended from time to time in accordance with the provisions of this Act.
+6\.—(1) As from 1st January 1961, a property tax shall, subject to the provisions of this Act, be payable at the rate or rates specified in this Act for each year upon the annual value of all houses, buildings, lands and tenements whatsoever included in the Valuation List and amended from time to time in accordance with the provisions of this Act.
 
-(2) The tax shall be payable half-yearly in advance, without demand, by the owner of such property at the offices of the Comptroller or other prescribed place in the months of January and July or within such other time in each half year as is prescribed.
+(2) The tax shall be payable by the owner of such property —
+
+(a) in the case of tax payable under subsection (1), yearly in advance without demand, in the month of January; and
+
+(b) without prejudice to paragraph (a), where the Comptroller has served a notice for payment of the tax under this Act, within one month of the service of that notice.
+
+[33/2002 wef 01/01/2003]
+
+(2A) The Comptroller may, in his discretion, extend the period for payment referred to in subsection (2) within which payment of the tax is to be made.
+
+[33/2002 wef 01/01/2003]
 
 (3) The tax shall be a first charge on the property concerned and, if not paid within the prescribed time, shall be recoverable in the manner provided in this Act.
 
@@ -354,9 +370,17 @@ shall be exempted from payment of the tax.
 
 [19/68]
 
-(7) Notwithstanding any other provisions in this Act, the Minister may, in respect of any public authority or body corporate constituted by statute in Singapore, order that in lieu of the tax payable under this Act, the authority or body corporate shall pay to the Government half-yearly in advance, without demand, in the months of January and July in each year, a sum to be calculated on such basis as may be deemed equitable by the Minister.
+(7) Notwithstanding any other provision in this Act, the Minister may, in respect of any public authority or body corporate constituted under any written law, order that in lieu of the tax payable under this Act, the public authority or body corporate shall —
 
-(7A) If such sum remains due and unpaid at the expiration of 3 weeks from the end of January or July, as the case may be, in each year, it shall be deemed to be arrears of tax payable and may be recovered in the manner provided in this Act together with interest at the prevailing bank rate.
+(a) in a case equivalent to the payment of tax under subsection (1), yearly in advance without demand, in the month of January; and
+
+(b) without prejudice to paragraph (a), where the Comptroller has served a notice for payment, within one month of the service of that notice,
+
+pay to the Government the sum of which is to be calculated on such basis as may be deemed equitable by the Minister.
+
+[33/2002 wef 01/01/2003]
+
+(7A) If such sum remains due and unpaid at the expiration of 3 weeks from the end of January in each year or from the end of one month from the date of the service of a notice for payment of the tax, as the case may be, it shall be deemed to be arrears of tax payable and may be recovered in the manner provided in this Act together with interest at the prevailing bank rate.
 
 [19/68]
 
@@ -388,7 +412,7 @@ shall be exempted from payment of the tax.
 
 (3) The Comptroller may, in his discretion, make a refund under this section to the extent of the whole or any part thereof, where —
 
-(a) the person claiming the refund failed to submit his claim within the time specified in subsection (1) and the Comptroller is satisfied as to the reason for such failure; or
+(a) the person claiming the refund failed to submit his claim within the time specified in subsection (2) and the Comptroller is satisfied as to the reason for such failure; or
 
 (b) part of the continuous period of 30 days falls before 1st November in any year and another part of that period falls on or after that date.
 
@@ -476,75 +500,13 @@ occupied as such by the person whose name appears in the Valuation List as the o
 
 11\. It shall be in the discretion of the Chief Assessor either to cause to be prepared a new Valuation List every year or to adopt the Valuation List then in force, with such alterations and amendments as may have been made from time to time in accordance with the provisions of this Act.
 
-### Notice of Valuation List to be published
+12\. [Deleted by Act 33/2002 wef 01/01/2003]
 
-12\.—(1) The Chief Assessor shall, in the month of August in each year, give public notice in theGazetteand in such other manner, if any, as he shall think fit, of the place at which and of the hours between which the Valuation List for the ensuing year or a copy thereof may be inspected and that Valuation List, or copy thereof, shall be open for inspection for a period of 28 days from the date of theGazettein which the notice is given.
+13\. [Deleted by Act 33/2002 wef 01/01/2003]
 
-(2) In addition to giving public notice as provided by subsection (1), the Chief Assessor shall, within 14 days thereafter, serve on the owner of every property included therein which has not previously been included in a Valuation List authenticated under section 15 or of which the annual value as shown in the last preceding authenticated Valuation List has been increased a notice containing such particulars of the property as are mentioned in section 10(2).
+14\. [Deleted by Act 33/2002 wef 01/01/2003]
 
-(3) Where an objection has been made to the Chief Assessor or an appeal has been made to the Valuation Review Board against the inclusion in the Valuation List of any property, or the annual value ascribed thereto, or any other statement made in or omitted from the Valuation List, or a proposal to amend the Valuation List pursuant to section 20, the Chief Assessor need not include the same property in ensuing Valuation Lists until such time as the objection has been decided upon by the Chief Assessor or the appeal has been decided upon by the Valuation Review Board unless the Chief Assessor intends to increase or decrease the annual value ascribed thereto.
-
-[24/73]
-
-### Payment to account of tax
-
-13\.—(1) Where the Chief Assessor has not included any property in a Valuation List pursuant to section 12(3) and an appeal has been made to the Valuation Review Board, there shall be payable to account of tax in respect of such property for each year during which the property has been omitted from the Valuation List a sum calculated at the prescribed rate of tax on the basis of the proposed annual value.
-
-(2) Such sum shall be payable and recoverable in the manner in which the tax is payable and recoverable under this Act.
-
-[24/73]
-
-### Notice of objection to Valuation List
-
-14\.—(1) Any owner aggrieved by the inclusion in the Valuation List of any property or by the annual value ascribed thereto or by any other statement made in or by any omission from the Valuation List may, at any time within the period allowed for inspection of the Valuation List, apply to the Chief Assessor by written notice of objection in the prescribed form, to amend the Valuation List accordingly.
-
-[25/63]
-
-(2) Such application shall state precisely the grounds on which the objection is made and the amendments desired to remove the objections.
-
-[25/63]
-
-(3) The Chief Assessor shall consider the objection and may either disallow it or allow it either wholly or in part, and shall serve the owner by post or otherwise with written notice of his decision.
-
-[25/63]
-
-(4) Any owner dissatisfied with the decision made by the Chief Assessor under this section may, within 21 days after such service, appeal to the Valuation Review Board in the manner provided in section 29.
-
-[25/63]
-
-### Authentication of Valuation List
-
-15\.—(1) The Chief Assessor shall, at the end of the period allowed for inspection, cause the proposed Valuation List for the ensuing year to be amended by deleting therefrom all properties in respect of which notice of objection under section 14(1) has been given and, after such amendment has been made, shall authenticate the Valuation List, as amended, in such manner as he thinks fit.
-
-[25/63; 46/96]
-
-(2) Such Valuation List, as authenticated, shall come into operation on 1st January then next ensuing and notice of the authentication shall forthwith be published in theGazette.
-
-[25/63]
-
-(3) The authenticated Valuation List may be amended from time to time as provided in this Act and the amendment may be made retrospective to the date of the coming into operation of the Valuation List.
-
-[25/63]
-
-(4) Notwithstanding that any property has been deleted from such Valuation List pursuant to subsection (1), there shall be payable to account of tax in respect of that property for the ensuing year a sum calculated at the prescribed rate of tax on the basis of the proposed annual value thereof; and such sum shall be payable and recoverable in the manner in which taxes are payable and recoverable under this Act.
-
-[24/73]
-
-(5) Upon the determination by the Chief Assessor of any objection in respect of any of the properties deleted from the Valuation List pursuant to subsection (1) —
-
-(a) if no notice of appeal is lodged within the prescribed time, the Chief Assessor shall cause the authenticated Valuation List to be amended to include such property in accordance with his decision upon the objection;
-
-(b) if a notice of appeal is lodged within the prescribed time, the Chief Assessor shall cause the authenticated Valuation List to be amended to include that property in accordance with the direction of the Valuation Review Board.
-
-[25/63]
-
-(6) Any amendment made pursuant to subsection (4)(a) or (b) shall be authenticated in such manner as the Chief Assessor thinks fit and, whether made before or after the date of the coming into operation of the Valuation List, shall be effective from such date.
-
-[25/63; 46/96]
-
-(7) Notice of authentication of every such amendment shall forthwith be given to every owner who has given to the Chief Assessor notice of objection in accordance with section 14(1).
-
-[25/63]
+15\. [Deleted by Act 33/2002 wef 01/01/2003]
 
 ### Returns to be made by owners
 
@@ -598,7 +560,7 @@ occupied as such by the person whose name appears in the Valuation List as the o
 
 [19/68]
 
-(8) Where any building or part of a building is demolished or removed and no action has been taken to amend the Valuation List in respect thereof for any reason, the owner shall, at the option of the Comptroller and until any notice of demolition or removal is given —
+(8) Where any building or part of a building is demolished or removed and no action has been taken to amend the Valuation List in respect thereof for any reason, the owner shall, at the option of the Comptroller —
 
 (a) continue to be liable to pay the tax in respect of the building or part of the building, as if the building had not been demolished or removed; or
 
@@ -634,45 +596,15 @@ occupied as such by the person whose name appears in the Valuation List as the o
 
 ### Amendment of Valuation List
 
-20\.—(1) Where it appears that any Valuation List is or has become inaccurate in any material particular, the Chief Assessor may, on the application of any person interested, or otherwise, and in the manner hereinafter provided, amend the Valuation List accordingly.
+20\.—(1) Where it appears that any Valuation List —
 
-(2) When, in pursuance of subsection (1), the Chief Assessor considers it desirable that an amendment should be made to any Valuation List, he shall give notice thereof to the owner of the property concerned stating what amendment is considered desirable and the date from which it is proposed the amendment shall take effect.
+(a) is or has become inaccurate in any material particular in any year; or
 
-(3) Any owner who desires to object to such amendment may, within 21 days of the service of such notice, give to the Chief Assessor notice of objection in the manner provided in section 14.
+(b) is likely to become inaccurate in any material particular in the ensuing year,
 
-[25/63]
+the Chief Assessor may, in the year referred to in paragraph (a), if he considers it desirable that an amendment should be made to the Valuation List, give notice thereof to the owner of the property concerned stating the amendment that is considered desirable and the date from which it is proposed the amendment shall take effect, and the amendment shall be made in the Valuation List from that date.
 
-(3A) Notwithstanding any objection referred to in subsection (3), there shall be payable to account of tax in respect of that property a sum calculated at the prescribed rate of tax on the basis of the annual value proposed under subsection (2), or the annual value in the Valuation List as the Comptroller may, in his discretion, decide; and such sum shall be payable and recoverable in the same manner in which taxes are payable and recoverable under this Act.
-
-[46/96]
-
-(4) Any owner dissatisfied with the decision made by the Chief Assessor under this section may, within 21 days after such service, appeal to the Valuation Review Board in the manner provided in section 29.
-
-[25/63]
-
-(5) Notwithstanding that an appeal has been made to the Valuation Review Board pursuant to subsection (4), there shall be payable to account of tax in respect of the property a sum calculated at the prescribed rate of tax on the basis of the proposed annual value thereof; and such sum shall be payable and recoverable in the manner in which taxes are payable and recoverable under this Act.
-
-[24/73]
-
-(6) Where notice of proposal to amend has been given by the Chief Assessor pursuant to subsection (2) —
-
-(a) if no notice of objection is lodged within the prescribed time, the Chief Assessor shall cause the Valuation List to be amended to include the property in accordance with the notice of proposed amendment;
-
-(b) if a notice of objection is lodged within the prescribed time, the Chief Assessor shall, if no subsequent notice of appeal is lodged, cause the Valuation List to be amended to include the property in accordance with his decision upon the objection;
-
-(c) if a notice of appeal is lodged within the prescribed time, the Chief Assessor shall cause the Valuation List to be amended to include the property in accordance with the decision of the Valuation Review Board.
-
-[25/63]
-
-(7) Any amendment made pursuant to subsection (6) (a), (b) or (c) shall be authenticated in such manner as the Chief Assessor thinks fit and shall be effective from the date contained in the notice of proposal to amend.
-
-[25/63; 46/96]
-
-(8) Where notice of proposal to amend has been given by the Chief Assessor pursuant to subsection (2) after the Valuation List for the ensuing year has been closed for public inspection but before it comes into operation and if no notice of objection is lodged against the proposal within the prescribed time, the Chief Assessor may, without notice to the owner, cause the Valuation List for the ensuing year to be amended in accordance with the proposal in the notice.
-
-[6/82]
-
-(9) For the purposes of this section, the Valuation List shall be deemed to be inaccurate in a material particular where —
+(2) For the purposes of this section, the Valuation List shall be deemed to be inaccurate in a material particular where —
 
 (a) the Chief Assessor is of the opinion that the annual value of a property included in the Valuation List does not correctly represent the annual value evidenced by —
 
@@ -680,25 +612,63 @@ occupied as such by the person whose name appears in the Valuation List as the o
 
 (ii) the increased or decreased rental obtained in respect of the letting out of that or similar property; or
 
-(iii) the consideration paid or value passing on the sale or transfer directly or indirectly of any estate or interest in that or similar property, including the sale or transfer of 75% or more of the issued ordinary shares of a land-owning company, whether or not the Chief Assessor exercises the option given in section 2(3);
+(iii) the consideration paid or value passing on the sale or transfer, directly or indirectly, of any estate or interest in that or similar property, including the sale or transfer of 75% or more of the issued ordinary shares of a land-owning company, whether or not the Chief Assessor exercises the option given in section 2(3);
 
 (b) the Chief Assessor is of the opinion that the rental, if any, obtained from the tenant is lower than the gross amount at which the property could reasonably be expected to be let from year to year;
 
 (c) any new building is erected or any building is rebuilt, enlarged, altered, improved or demolished;
 
-(d) property, not exempted from the provisions of this Act, has not been included in the Valuation List; or
+(d) any property, not exempted from the provisions of this Act, has not been included in the Valuation List; or
 
 (e) the Chief Assessor is of the opinion that the annual value of any property or part thereof in the Valuation List required to be assessed on the basis of gross receipts by any order made under section 6A does not correctly represent the annual value as evidenced by the gross receipts arising from the use of that property for the purposes of any trade or business and determined in the manner specified in the order.
 
-[24/65; 4/87; 46/96]
+(3) The Chief Assessor may, in his discretion, cancel any notice given under subsection (1) which is inaccurate in any particular and may replace it with another notice.
 
-(10) Any alteration to a Valuation List required for the purpose of correcting any of the matters referred to in section 10 (2) (a), (b) and (d) or for the correction of any clerical or arithmetical error therein shall not in itself constitute an amendment and may be made at any time.
+(4) Any alteration to a Valuation List required for the purpose of correcting any of the matters referred to in section 10 (2) (a), (b) and (d) or for the correction of any clerical or arithmetical error therein shall not in itself constitute an amendment and may be made at any time.
 
-[24/65]
+(5) In this section, “land-owning company” means a company the main object or one of the main objects of which is the development of property by the construction of houses or buildings thereon for the purpose of sale or rent.
 
-(11) For the purposes of this section, a “land-owning company” means a company the main object or one of the main objects of which is the development of property by the construction of houses or buildings thereon for the purpose of sale or rent.
+[33/2002 wef 01/01/2003]
 
-[24/65]
+### Objection to Valuation List
+
+20A\.—(1) Any owner aggrieved by the inclusion of any property in the Valuation List or by the annual value ascribed thereto in the Valuation List in any year may, at any time in that year, make an objection to the Chief Assessor by written notice in such form as the Chief Assessor may determine, stating precisely the grounds on which the objection is made and the desired amendments to the Valuation List.
+
+(2) Notwithstanding subsection (1), any owner who desires to object to an amendment made to the Valuation List under section 20 shall do so within 21 days of the service of the notice referred to in section 20(1).
+
+(3) The Chief Assessor shall consider an objection under subsection (1) or (2) and may —
+
+(a) disallow the objection;
+
+(b) allow the objection in whole;
+
+(c) allow the objection in part; or
+
+(d) allow the objection in a manner agreed between the Chief Assessor and the owner.
+
+(4) The Chief Assessor shall serve the owner by post or otherwise with a written notice of his decision.
+
+(5) Where the Chief Assessor allows an objection under subsection (3)(b), (c) or (d), the Chief Assessor may specify any date in the year in which the objection is made from which the amendment shall have effect, and the amendment shall be made in the Valuation List immediately.
+
+(6) The Chief Assessor may, in his discretion, cancel any notice served under subsection (4) which is inaccurate in any particular and may replace it with another notice.
+
+(7) Any owner dissatisfied with the decision made by the Chief Assessor under subsection (3)(a) or (c) may, within 21 days of the service of the notice under subsection (4), appeal to the Valuation Review Board in the manner provided in section 29.
+
+(8) Where the Valuation Review Board varies any annual value in the Valuation List under an appeal to the Board, the Chief Assessor shall cause the Valuation List to be amended in accordance with the decision of the Board.
+
+(9) Unless the Chief Assessor in his discretion determines otherwise —
+
+(a) an objection under this section may only be made in respect of the annual value of any property in the Valuation List as from a date after —
+
+(i) the date of notice of amendment under section 20(1), where no previous objection to that notice in respect of that property had been made in the year to which the Valuation List relates; or
+
+(ii) the date of written notice under subsection (4), where a previous objection in respect of that property had been made in the year to which the Valuation List relates; and
+
+(b) no objection under this section shall be made within the period during which the Chief Assessor’s decision under subsection (3) regarding any previous objection in respect of the same property is pending.
+
+(10) Any notice of objection which had been given under section 14(1) or 20(3) in force immediately before the date of commencement of the Property Tax (Amendment) Act 2002 and for which the objector has not received written notice of the Chief Assessor’s decision on the objection by that date shall be deemed to be a notice of objection made under this section.
+
+[33/2002 wef 01/01/2003]
 
 ### Tax on new buildings, etc.
 
@@ -752,23 +722,29 @@ occupied as such by the person whose name appears in the Valuation List as the o
 
 [24/73]
 
-(2) Any owner who objects to any demand made by the Comptroller under subsection (1) may, within 21 days of the service of such notice, give to the Comptroller notice of objection in the prescribed form stating precisely the grounds of his objection.
+(2) Any owner who objects to any demand made by the Comptroller under subsection (1) may, within 21 days of the service of such notice, give to the Comptroller notice of objection in such form as the Comptroller may determine stating precisely the grounds of his objection.
 
 [24/73]
 
-(3) The Comptroller shall consider the objection and may either disallow it, or allow it either wholly or in part, and shall serve the owner by post or otherwise with a written notice of his decision.
+(3) The Comptroller shall consider the objection and may —
 
-[24/73]
+(a) disallow the objection;
 
-(3A) Notwithstanding any objection referred to in subsection (2), there shall be payable to account of tax in respect of that property a sum of money calculated at the prescribed rate of tax on the basis of the proposed annual value under section 20(2); and such sum shall be payable and recoverable in the same manner in which taxes are payable and recoverable under this Act.
+(b) allow the objection in whole;
 
-[46/96]
+(c) allow the objection in part; or
 
-(4) Any owner dissatisfied with the decision made by the Comptroller under this section may, within 21 days after such service, appeal to the Valuation Review Board in the manner provided in section 29.
+(d) allow the objection in a manner agreed between the Chief Assessor and the owner,
 
-[24/73]
+and shall serve the owner by post or otherwise with a written notice of his decision.
 
-(5) Notwithstanding that an appeal has been made to the Valuation Review Board against the Comptroller’s proposal to collect tax pursuant to section 21, there shall be payable to account of tax a sum of money calculated at the prescribed rate of tax on the basis of the proposed annual value; and such sum shall be payable and recoverable in the manner in which taxes are payable and recoverable under this Act.
+[33/2002 wef 01/01/2003]
+
+(3A) The Comptroller may, in his discretion, cancel any notice given under subsection (1) or (3) and replace it with another notice.
+
+[33/2002 wef 01/01/2003]
+
+(4) Any owner dissatisfied with the decision made by the Comptroller under subsection (3) (a) or (c) may, within 21 days after such service, appeal to the Valuation Review Board in the manner provided in section 29.
 
 [24/73]
 
@@ -778,7 +754,7 @@ APPEALS
 
 ### Valuation Review Board
 
-23\.—(1) For the purpose of hearing appeals from the decisions of the Chief Assessor of which notice has been given under section 14 or 20, or of the Comptroller of which notice has been given under section 22 or 38, in the manner provided in this Act, there shall be a Valuation Review Board (referred to in this Part as the Board) consisting of a Chairman and not more than 9 other members all of whom shall be appointed by the Minister.
+23\.—(1) For the purpose of hearing appeals from the decisions of the Chief Assessor of which notice has been given under section 20A, or of the Comptroller of which notice has been given under section 22 or 38, in the manner provided in this Act, there shall be a Valuation Review Board (referred to in this Act as the Board) consisting of a Chairman and not more than 9 other members all of whom shall be appointed by the Minister.
 
 [25/63; 24/73; 4/87; 46/96]
 
@@ -852,7 +828,7 @@ APPEALS
 
 ### Notice of appeal
 
-29\.—(1) Any owner who desires to appeal pursuant to section 14, 20 or 22 shall lodge with the clerk to the Board, within the time allowed therefor, a written notice of appeal in duplicate in the prescribed form.
+29\.—(1) Any owner who desires to appeal pursuant to section 20A or 22 shall lodge with the clerk to the Board, within the time allowed therefor, a written notice of appeal in duplicate in the prescribed form.
 
 [25/63; 24/73]
 
@@ -870,35 +846,23 @@ APPEALS
 
 [25/63]
 
+(4) The Chairman may, in his discretion and on such terms as he thinks fit, permit any person to proceed with an appeal notwithstanding that the notice of appeal was not lodged within the time allowed therefor, if it is proved to the satisfaction of the Chairman that the person was prevented from lodging the notice in due time owing to absence from Singapore, sickness or other reasonable cause, and that there has been no unreasonable delay on his part.
+
+[33/2002 wef 01/01/2003]
+
 ### Copy of notice to be sent to Chief Assessor, etc.
 
-30\. On receipt of a notice of appeal, the clerk shall forthwith forward one copy thereof —
+30\.—(1) On receipt of a notice of appeal, the clerk shall immediately forward one copy thereof to the Chief Assessor or the Comptroller, as the case may be.
 
-(a) in the case of an appeal made under section 14(4), to the Chief Assessor who shall cause the property concerned to be deleted from the Valuation List;
+(2) On receipt of the copy of the notice of appeal, the Chief Assessor or the Comptroller may require the owner giving the notice of appeal to furnish such particulars in respect of the property concerned as the Chief Assessor or the Comptroller, as the case may be, may consider necessary.
 
-(b) in the case of an appeal made under section 20(4), to the Chief Assessor who shall defer the making of the proposed amendment to the Valuation List until such time as the appeal has been decided upon by the Board; and
+[33/2002 wef 01/01/2003]
 
-(c) in the case of an appeal made under section 22(4), to the Comptroller.
-
-[24/73]
-
-### Chief Assessor or Comptroller to submit report
-
-31\.—(1) On receipt of the copy of notice of appeal, the Chief Assessor or the Comptroller, as the case may be, shall, within 3 months from the date thereof, carry out such further investigations as he thinks necessary and submit to the Board a report setting out the facts of the case together with his recommendation, if any, for revision of the annual value.
-
-[24/73]
-
-(2) The Chairman of the Board may, in his discretion, extend the time within which such report shall be submitted by the Chief Assessor or the Comptroller.
-
-[24/73]
-
-(3) For the purpose of carrying out such further investigations, the Chief Assessor or the Comptroller may require the owner giving the notice of appeal to furnish such particulars in respect of the property concerned as the Chief Assessor or the Comptroller may consider necessary.
-
-[24/73]
+31\. [Deleted by Act 33/2002 wef 01/01/2003]
 
 ### Time and place for hearing of appeals
 
-32\.—(1) On receipt of the report submitted by the Chief Assessor or the Comptroller pursuant to section 31, the clerk shall, as soon as may be thereafter, appoint a time and place for the hearing of the appeal and shall give 14 days’ notice thereof both to the appellant and the Chief Assessor or the Comptroller, as the case may be.
+32\.—(1) On receipt of the notice of appeal, the clerk shall, as soon as may be thereafter, appoint a time and place for the hearing of the appeal and shall give 14 days’ notice thereof both to the appellant and the Chief Assessor or the Comptroller, as the case may be.
 
 [24/73]
 
@@ -916,7 +880,7 @@ APPEALS
 
 33\.—(1) The Board, after hearing an appeal, may —
 
-(a) in the case of an appeal made pursuant to section 14 or 20, dismiss the appeal or direct that such amendments as it thinks proper shall be made to the Valuation List for the year in respect of which the appeal was made and for the ensuing years; and
+(a) in the case of an appeal made pursuant to section 20A, dismiss the appeal or direct that such amendments as it thinks proper shall be made to the Valuation List for the year in respect of which the appeal was made and for the ensuing years; and
 
 (b) in the case of an appeal made pursuant to section 22, confirm, vary or rescind the Comptroller’s proposal.
 
@@ -966,27 +930,35 @@ APPEALS
 
 [24/73]
 
-(6) Any amendment directed by the High Court to be made to the Valuation List shall be authenticated in the manner provided by section 15(5) or 20(6), as the case may be, and notice of the amendments shall forthwith be published in theGazette.
-
-[25/63; 6/82]
-
 ## PART V
 
 COLLECTION AND RECOVERY OF TAX
 
-### Proceedings in default
+### Tax to be paid notwithstanding objection, etc.
 
-36\.—(1) If any sum payable in respect of any tax remains unpaid at the expiration of the prescribed time, a notice shall be served upon the person or any one of the persons, if more than one, liable to pay the tax, requiring him to pay, within 15 days of the service of the notice, such sum together with a fee of such amount as may be prescribed for the cost of the notice.
+35A\.—(1) There shall be payable to account of tax in respect of a property a sum of money calculated at the prescribed rate of tax on the basis of the annual value in the Valuation List proposed or amended under the provisions of this Act notwithstanding that —
 
-(2) If no person liable to pay the tax can be found, such notice shall be deemed to have been duly served by the posting thereof at the offices of the Comptroller and by affixing a copy thereof to some conspicuous part of the premises in respect of which the tax is payable.
+(a) an application for remission or exemption has been made under section 6(5A) or (5B);
 
-(3) If any such sum or any part thereof remains due and unpaid at the expiration of that period of 15 days or such further period as may be allowed by the Comptroller, it shall be deemed to be arrears of tax and may be recovered as hereinafter provided.
+(b) a claim has been submitted under section 7(2);
 
-(4) If any tax is not paid within the period prescribed in subsection (3), the Comptroller may, in his discretion, add thereto a sum not exceeding 5% of the amount of the tax payable and the provisions of this Act relating to the collection and recovery of tax shall apply to the collection and recovery of that sum.
+(c) a claim for reduction has been made under section 9; or
 
-[37
+(d) an objection or appeal has been made under section 20A or 22.
 
-[24/73]
+(2) The sum under subsection (1) shall be payable and recoverable in the same manner in which taxes are payable and recoverable under this Act.
+
+[33/2002 wef 01/01/2003]
+
+### Penalty for non-payment of tax and enforcement of payment
+
+36\.—(1) If any tax, whether in whole or in part, remains unpaid at the expiration of the prescribed time, a sum not exceeding 5% of the amount of outstanding tax shall be added thereto, and the provisions of this Act relating to the collection and recovery of tax shall apply to the collection and recovery of such sum.
+
+(2) Subsection (1) shall also apply to any tax in respect of any period before 1st January 2003, whether in whole or in part, which remains due and unpaid as at that date.
+
+(3) The Comptroller may, where good cause is shown, remit the whole or any part of the penalty due under subsection (1).
+
+[33/2002 wef 01/01/2003]
 
 ### Tax may be paid by instalments
 
@@ -1024,11 +996,11 @@ and in default of such payment the tax shall be recoverable from him in the mann
 
 [46/96]
 
-(6) The Comptroller shall examine the objection and may cancel, vary or confirm the declaration.
+(6) The Comptroller shall examine the objection and may cancel, vary or confirm the declaration, and notify the objector accordingly.
 
 [46/96]
 
-(7) Where the objector is aggrieved by the decision of the Comptroller under subsection (6), the objector may appeal against such decision to the Valuation Review Boardand the provisions of Part IV shall apply with the necessary modifications.
+(7) Where the objector is aggrieved by the decision of the Comptroller under subsection (6), the objector may appeal against such decision to the Valuation Review Board within 21 days of the Comptroller notifying him of the decision under subsection (6) and the provisions of Part IV shall apply with the necessary modifications.
 
 [46/96]
 
@@ -1052,7 +1024,7 @@ and in default of such payment the tax shall be recoverable from him in the mann
 
 (e) the Comptroller shall consider the objection and shall, by notice in writing, inform the person declared to be the agent of his decision and the agent shall, notwithstanding any appeal under paragraph (f), pay over any tax due from the share of moneys decided by the Comptroller as the amount, not exceeding the amount presumed under paragraph (b) to be the share of the person by whom the tax is payable, held by him for or due by him to the person; and
 
-(f) any owner of such moneys aggrieved by the decision of the Comptroller under paragraph (e) may appeal against the decision to the Valuation Review Boardand the provisions of Part IV shall apply, with the necessary modifications, to the appeal.
+(f) any owner of such moneys aggrieved by the decision of the Comptroller under paragraph (e) may appeal against the decision to the Valuation Review Board within 21 days of such decision and the provisions of Part IV shall apply, with the necessary modifications, to the appeal.
 
 [46/96]
 
@@ -1184,15 +1156,31 @@ and in default of such payment the tax shall be recoverable from him in the mann
 
 NAMES AND NUMBERS OF BUILDINGS, ESTATES OR STREETS
 
-### Names of buildings, estates or streets
+### Street and Building Names Board
 
-49\.—(1) The Minister may determine the name by which any building, estate or street shall be known, and may alter the name of any building, estate or street.
+49\.—(1) There shall be established a Street and Building Names Board (referred to in this Part as the SBNB) consisting of a Chairman and not less than 2 other members all of whom shall be appointed by the Minister.
 
-[46/96]
+(2) It shall be the function and duty of the SBNB to determine the name by which any building, estate or street shall be known, or to alter the name of any building, estate or street.
 
-(2) The Comptroller may cause the name of any building, estate or street to be painted, or otherwise marked, in a conspicuous position on any house, building or erection in or near that building, estate or street, and from time to time alter or renew the name.
+(3) The Chairman and the other members of the SBNB shall hold office for such period as may be determined by the Minister and shall be eligible for re-appointment.
 
-[46/96]
+(4) The Minister may, without assigning any reason, remove from office any member of the SBNB.
+
+(5) All matters coming before the SBNB at any meeting shall be decided by a majority of votes of the members present, and in the event of an equality of votes, the Chairman shall have a casting vote.
+
+(6) Any person aggrieved by any decision of the SBNB may, within 21 days of the date of the written notice of the decision, apply in writing to the SBNB to review the decision, stating the grounds on which his application is based.
+
+(7) Any person who is dissatisfied with the decision of the SBNB after a review under subsection (6) may, within 21 days of the date of the written notice of the decision, appeal in writing to the Minister stating the grounds on which his appeal is based.
+
+(8) The Minister may confirm, vary or rescind the decision referred to him under subsection (7) and the Minister’s decision shall be final.
+
+[33/2002 wef 01/01/2003]
+
+### Name of building, estate or street
+
+49A\. The Comptroller may cause the name of any building, estate or street to be painted, or otherwise marked, in a conspicuous position on any house, building or erection in or near that building, estate or street, and from time to time alter or renew the name.
+
+[33/2002 wef 01/01/2003]
 
 ### Numbers on properties
 
@@ -1446,6 +1434,10 @@ GENERAL
 
 (f) prescribing the forms or any other matter which by this Act is required to be or may be prescribed;
 
+(fa) providing for the procedure of, and other matter relating to, the Street and Building Names Board constituted under section 49;
+
+[33/2002 wef 01/01/2003]
+
 (g) prescribing the time and manner in which an owner of a property shall mark or display the number allotted to such property and the penalties for non-compliance; and
 
 (h) generally for the better carrying out of the provisions of this Act.
@@ -1531,3 +1523,8 @@ This Legislative History is provided for the convenience of users of the Propert
 ||Date of commencement|27 December 1996|
 |14.|**1997 Revised Edition—Property Tax Act**|
 ||Date of operation|30 May 1997|
+|15.|**Act 33 of 2002—Property Tax (Amendment) Act 2002**|
+||Date of First Reading|1 October 2002|
+|||(Bill No. 31/2002 published on 2 October 2002)|
+||Date of Second and Third Readings|31 October 2002|
+||Date of commencement|1 January 2003|
