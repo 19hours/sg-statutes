@@ -530,7 +530,19 @@ in any place to which the public or any class of the public has access whether g
 
 (xxxvii) Trade Development Board;
 
-(xxxviii) Urban Redevelopment Authority.
+(xxxviii) Urban Redevelopment Authority;
+
+(xxxix) Health Promotion Board;
+
+[S 412/2001 wef 01/09/2001]
+
+(xxxx) Health Sciences Authority;
+
+[S 412/2001 wef 01/09/2001]
+
+(xxxxi) Singapore Land Authority.
+
+[S 412/2001 wef 01/09/2001]
 
 [35/2000]
 
@@ -570,6 +582,8 @@ This Legislative History is provided for the convenience of users of the Public 
 ||Date of commencement|1 March 2001|
 |7.|**2001 Revised Edition—Public Entertainments and Meetings Act**|
 ||Date of operation|31 July 2001|
+|8.|**G. N. No. S 412/2001—Public Entertainments and Meetings Act (Amendment of Schedule) Order 2001**|
+||Date of commencement|1 September 2001|
 ## COMPARATIVE TABLE
 
 Public Entertainments and Meetings Act
