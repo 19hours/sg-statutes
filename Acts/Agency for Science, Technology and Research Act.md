@@ -1,18 +1,16 @@
-**National Science and Technology Board Act 1990**
+**National Science and Technology Board Act**
 
-**(No. 24 of 1990)**
+**(CHAPTER 201A)**
 
 **Table of Contents**
 
 [**Long Title**](#Agency-for-Science-Technology-and-Research-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
-- [3 Establishment of National Science and Technology Board](#Establishment-of-National-Science-and-Technology-Board)
+- [3 Establishment of the National Science and Technology Board](#Establishment-of-the-National-Science-and-Technology-Board)
 
 - [4 Constitution of Board](#Constitution-of-Board)
 
@@ -42,71 +40,49 @@
 
 - [17 Preservation of secrecy](#Preservation-of-secrecy)
 
-- [18 Transfer of property, employees, etc](#Transfer-of-property-employees-etc)
+- [18 Transfer of property, employees, etc.](#Transfer-of-property-employees-etc)
 
 - [19 Symbol of Board](#Symbol-of-Board)
 
-- [20 Repeal](#Repeal)
+[**FIRST SCHEDULE Constitution and proceedings of the Board**](#FIRST-SCHEDULE-Constitution-and-proceedings-of-the-Board)
 
-[**FIRST SCHEDULE Constitution and Proceedings of the Board**](#FIRST-SCHEDULE-Constitution-and-Proceedings-of-the-Board)
+[**SECOND SCHEDULE Financial provisions**](#SECOND-SCHEDULE-Financial-provisions)
 
-[**SECOND SCHEDULE Financial Provisions**](#SECOND-SCHEDULE-Financial-Provisions)
+[**THIRD SCHEDULE Provisions relating to the transfer of assets, liabilities and employees**](#THIRD-SCHEDULE-Provisions-relating-to-the-transfer-of-assets-liabilities-and-employees)
 
-[**THIRD SCHEDULE Provisions Relating to the Transfer of Assets, Liabilities and Employees**](#THIRD-SCHEDULE-Provisions-Relating-to-the-Transfer-of-Assets-Liabilities-and-Employees)
+[**Legislative History**](#Legislative-History)
 
-REPUBLIC OF SINGAPORE
+# National Science and Technology Board Act
 
-GOVERNMENT GAZETTE
+(CHAPTER 201A)
 
-ACTS SUPPLEMENT
+(Original Enactment: Act 24 of 1990)
 
-Published by Authority
+REVISED EDITION 1991
 
-NO. 1]
-
-Wednesday, January 2
-
-[1991
-
-The following Act was passed by Parliament on 9th November 1990 and assented to by the President on 30th November 1990:—
-
-National Science and Technology Board Act 1990
-
-(No. 24 of 1990)
-
-I assent.
-
-WEE KIM WEE
-
-President.
-
-30th November 1990.
-
-Date of Commencement: 11th January 1991
+(1st March 1991)
 
 An Act to establish the National Science and Technology Board and for matters connected therewith.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[11th January 1991]
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the National Science and Technology Board Act 1990 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the National Science and Technology Board Act.
 
 ### Interpretation
 
 2\. In this Act, unless the context otherwise requires —
 
-“appointed day” means the date of commencement of this Act;
-
 “Board” means the Science and Technology Board established under section 3;
 
-“Council” means the Science Council of Singapore constituted under the Science Council of Singapore Act (Cap. 287);
+“Council” means the Science Council of Singapore constituted under the repealed Science Council of Singapore Act [Cap. 287];
 
 “member” means a member of the Board and includes the Chairman and the Deputy Chairman;
 
 “chief executive officer” means the chief executive officer appointed under section 14 and includes any temporary chief executive officer of the Board.
 
-### Establishment of National Science and Technology Board
+### Establishment of the National Science and Technology Board
 
 3\. There shall be established a body to be known as the National Science and Technology Board which shall be a body corporate with perpetual succession and a common seal and shall, by that name, be capable of —
 
@@ -142,7 +118,7 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 (e) undertake exchanges and joint programmes with other national and international organisations connected with science and technology; and
 
-(f) promote activities to increase public awareness of the importance of science and technology.
+(f) promote activities to increase public awareness on the importance of science and technology.
 
 ### Powers of Board
 
@@ -210,7 +186,7 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 (a) be known by such designation as the Board may determine;
 
-(b) be responsible to the Board for the proper administration and management of the functions and affairs of the Board in accordance with the policy laid down by the Board; and
+(b) be responsible to the Board for the proper administration and management of the functions and affairs of the Board in accordance with the policy laid down by the Board ; and
 
 (c) not be removed from office without the consent of the Minister.
 
@@ -224,7 +200,7 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 ### Public servants
 
-16\. All members, officers and employees of the Board shall be deemed to be public servants for the purposes of the Penal Code (Cap. 224).
+16\. All members, officers and employees of the Board shall be deemed to be public servants for the purposes of the Penal Code [Cap. 224].
 
 ### Preservation of secrecy
 
@@ -232,7 +208,7 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding one year or to both.
 
-### Transfer of property, employees, etc
+### Transfer of property, employees, etc.
 
 18\. The Third Schedule shall have effect for the purpose of the transfer to the Board of the property, employees, rights and liabilities of the Council and for other transitional purposes specified therein.
 
@@ -242,15 +218,11 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 (2) Any person who uses a symbol or representation identical with that of the Board, or which so resembles the Board’s symbol or representation as to deceive or cause confusion, or to be likely to deceive or to cause confusion, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.
 
-### Repeal
-
-20\. The Science Council of Singapore Act (Cap. 287) is repealed.
-
 FIRST SCHEDULE
 
 Section 4.
 
-Constitution and Proceedings of the Board
+Constitution and proceedings of the Board
 
 Appointment of Chairman, Deputy Chairman and other members
 
@@ -288,7 +260,7 @@ Vacation of office
 
 (a) has been absent, without leave of the Board, from 3 consecutive meetings of the Board; or
 
-(b) becomes in any manner disqualified for membership of the Board.
+(b) becomes in any manner disqualified for membership of the Board .
 
 Filling of vacancies
 
@@ -306,7 +278,7 @@ Disqualification from membership
 
 Disclosure of interest by members
 
-11.—(1) A member who is in any way, directly or indirectly, interested in a transaction or project of the Board shall disclose the nature of his interest at the first meeting of the Board at which he is present after the relevant facts have come into his knowledge; and the disclosure shall be recorded in the minutes of the Board and the member shall not take part in any deliberation of the Board with respect to that transaction or project.
+11.—(1) A member who is in any way, directly or indirectly, interested in a transaction or project of the Board shall disclose the nature of his interest at the first meeting of the Board at which he is present after the relevant facts have come to his knowledge; and the disclosure shall be recorded in the minutes of the Board and the member shall not take part in any deliberation of the Board with respect to that transaction or project.
 
 (2) For the purpose of determining whether there is a quorum, a member shall be treated as being present at a meeting notwithstanding that under sub-paragraph (1) he cannot vote or has withdrawn from the meeting.
 
@@ -340,11 +312,11 @@ SECOND SCHEDULE
 
 Section 12.
 
-Financial Provisions
+Financial provisions
 
 Board financial year
 
-1\. The financial year of the Board shall begin on 1st April of each year and end on 31st March of the succeeding year, except that the first financial year of the Board shall begin on the appointed day and shall end on 31st March 1992.
+1\. The financial year of the Board shall begin on 1st April of each year and end on 31st March of the succeeding year, except that the first financial year of the Board shall begin on 11th January 1991 and shall end on 31st March 1992.
 
 Accounts to be kept
 
@@ -354,7 +326,7 @@ Appointment and remuneration of auditor
 
 3.—(1) The accounts of the Board shall be audited by the Auditor-General or such other auditor as may be appointed annually by the Minister in consultation with the Auditor-General.
 
-(2) A person shall not be qualified for appointment as an auditor under sub-paragraph (1) unless he is an approved company auditor under the Companies Act (Cap. 50).
+(2) A person shall not be qualified for appointment as an auditor under sub-paragraph (1) unless he is an approved company auditor under the Companies Act [Cap. 50].
 
 (3) The remuneration of the auditor shall be paid out of the funds of the Board.
 
@@ -378,7 +350,7 @@ Duties of auditor
 
 (3) The auditor may at any other time report to the Minister through the Board upon any matter arising out of the performance of his audit.
 
-Powers of auditor
+Powers of the auditor
 
 6.—(1) The auditor or any person authorised by him is entitled at all reasonable times to full and free access to all accounting and other records relating, directly or indirectly, to the financial transactions of the Board.
 
@@ -392,7 +364,7 @@ Audited financial statements and report of auditor
 
 7.—(1) The Board shall, as soon as practicable after the financial statements have been audited in accordance with the provisions of this Act, send to the Minister a copy of the audited financial statements signed by the Chairman, together with a copy of the auditor’s report.
 
-(2) Where the Auditor-General is not the auditor of the Board, a copy of the audited financial statements and the auditor’s report shall be forwarded to the Auditor-General at the same time they are submitted to the Board.
+(2) Where the Auditor-General is not the auditor of the Board , a copy of the audited financial statements and the auditor’s report shall be forwarded to the Auditor-General at the same time they are submitted to the Board.
 
 (3) The Minister shall, as soon as practicable, cause a copy of the audited financial statements and of the auditor’s report to be presented to Parliament.
 
@@ -400,15 +372,15 @@ THIRD SCHEDULE
 
 Section 18.
 
-Provisions Relating to the Transfer of Assets, Liabilities and Employees
+Provisions relating to the transfer of assets, liabilities and employees
 
 Transfer to Board of assets and liabilities
 
-1\. As from the appointed day, all movable and immovable property vested in the Council immediately before that day and all assets, rights, interest, privileges, liabilities and obligations incurred by the Council in connection therewith shall be transferred to and shall vest in the Board without further assurance.
+1\. As from 11th January 1991, all movable and immovable property vested in the Council immediately before that date and all assets, rights, interest, privileges, liabilities and obligations incurred by the Council in connection therewith shall be transferred to and shall vest in the Board without further assurance.
 
 Transfer of employees
 
-2.—(1) As from the appointed day, all persons employed immediately before that day by the Council shall be transferred to the service of the Board on terms not less favourable than those enjoyed by them immediately prior to their transfer.
+2.—(1) As from 11th January 1991, all persons employed immediately before that date by the Council shall be transferred to the service of the Board on terms not less favourable than those enjoyed by them immediately prior to their transfer.
 
 (2) Until such time as terms and conditions of service are drawn up by the Board, the scheme and terms and conditions of service in the Council shall continue to apply to every person transferred to the service of the Board under sub-paragraph (1) as if he were still in the service of the Council.
 
@@ -416,15 +388,15 @@ Transfer of employees
 
 Existing contracts
 
-3\. All deeds, bonds, agreements, instruments and arrangements, subsisting immediately before the appointed day, relating to the Council or to any person transferred to the service of the Board under section 18 shall continue in force on and after that day and shall be enforceable by or against the Board as if the Board had been named therein or had been a party thereto.
+3\. All deeds, bonds, agreements, instruments and arrangements, subsisting immediately before 11th January 1991, relating to the Council or to any person transferred to the service of the Board under section 18 shall continue in force on and after that date and shall be enforceable by or against the Board as if the Board had been named therein or had been a party thereto.
 
 Pending proceedings
 
-4\. Any proceedings or cause of action pending or existing immediately before the appointed day by or against the Council or any person acting on its behalf may be continued and enforced by or against the Board.
+4\. Any proceedings or cause of action pending or existing immediately before 11th January 1991 by or against the Council or any person acting on its behalf may be continued and enforced by or against the Board.
 
 Continuation and completion of disciplinary proceedings
 
-5.—(1) Where on the appointed day any disciplinary proceedings were pending against any employee of the Council transferred to the service of the Board, the proceedings shall be carried on and completed by the Board; but where on that day any matter was in the course of being heard or investigated or had been heard or investigated by a committee acting under due authority but no order or decision had been rendered thereon, the committee shall complete the hearing or investigation and make such order, ruling or direction as it could have made under the authority vested in it before that day.
+5.—(1) Where on 11th January 1991 any disciplinary proceedings were pending against any employee of the Council transferred to the service of the Board, the proceedings shall be carried on and completed by the Board; but where on that date any matter was in the course of being heard or investigated or had been heard or investigated by a committee acting under due authority but no order or decision had been rendered thereon, the committee shall complete the hearing or investigation and make such order, ruling or direction as it could have made under the authority vested in it before that date.
 
 (2) An order, ruling or direction made or given by a committee pursuant to this section shall be treated as an order, ruling or direction of the Board and have the same force or effect as if it had been made or given by the Board pursuant to the authority vested in the Board under this Act.
 
@@ -432,3 +404,20 @@ Misconduct by employee before transfer
 
 6\. The Board may reprimand, reduce in rank, retire, dismiss or punish in some other manner a person who had, whilst he was in the employment of the Council, been guilty of any misconduct or neglect of duty which would have rendered him liable to be reprimanded, reduced in rank, retired, dismissed or punished in some other manner if he had continued to be in the employment of the Council as if this Act had not been enacted.
 
+## LEGISLATIVE HISTORY
+
+National Science and Technology Board Act
+
+(CHAPTER 201A)
+
+This Legislative History is provided for the convenience of users of the Agency for Science, Technology and Research Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 24 of 1990—National Science and Technology Board Act 1990**|
+||Date of First Reading|4 October 1990|
+|||(Bill No. 25/90 published on 5 October 1990)|
+||Date of Second and Third Readings|9 November 1990|
+||Date of commencement|11 January 1991|
+|2.|**1991 Revised Edition—National Science and Technology Board Act (Cap. 201A)**|
+||Date of operation|1 March 1991|
