@@ -1410,6 +1410,8 @@ Etryptamine.
 
 Furethidine.
 
+Gamma hydroxybutyric acid
+
 Hydrocodone.
 
 Hydromorphinol.
@@ -1449,6 +1451,8 @@ Methamphetamine (also known as Methylamphetamine).
 Methyldesorphine.
 
 Methyldihydromorphine (6-methyldihydromorphine).
+
+4-methylthioamphetamine
 
 Metopon.
 
@@ -1651,6 +1655,8 @@ Pipradrol.
 Secobarbital.
 
 Triazolam.
+
+Zolpidem
 
 2\. Any stereoisomeric form of a substance for the time being specified in paragraph 1.
 
@@ -2671,6 +2677,8 @@ This Legislative History is provided for the convenience of users of the Misuse 
 ||Date of commencement|1 April 2001|
 |31.|**2001 Revised Edition—Misuse of Drugs Act (Chapter 185)**|
 ||Date of operation|31 July 2001|
+|32.|**G. N. No. S 493/2001—Misuse of Drugs Act (Amendment of First Schedule) Order 2001**|
+||Date of commencement|8 October 2001|
 ## COMPARATIVE TABLE
 
 Misuse of Drugs Act
