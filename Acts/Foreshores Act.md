@@ -56,19 +56,21 @@ An Act to provide for reclamations and to validate and facilitate leases or gran
 
 “lands” includes messuages, lands, tenements and hereditaments of any tenure;
 
-“port” means any port or place declared to be a port under the Port of Singapore Authority Act [Cap. 236], and includes all such navigable rivers and channels leading thereto as are declared to be part thereof;
+“port” means any port or place declared to be a port under the Maritime and Port Authority of Singapore Act 1996, and includes all such navigable rivers and channels leading thereto as are declared to be part thereof;
+
+[7/1996 wef 02/02/1996]
 
 “works” means any of the works and things mentioned in section 4.
 
 ### Restriction on construction of sea and river walls and buildings on banks of any port, river or channel
 
-3\.—(1) No person shall erect or build any sea wall or river wall, or construct any revetment along the bank of any port, river or channel, or erect any permanent building or structure within 15 metres of the foreshore or of any such bank, except in accordance with plans and specifications approved by the Director-General of Public Works.
+3\.—(1) No person shall erect or build any sea wall or river wall, or construct any revetment along the bank of any port, river or channel, or erect any permanent building or structure within 15 metres of the foreshore or of any such bank, except in accordance with plans and specifications approved by the Building Authority.
 
 [S 17/75]
 
-(2) The decision of the Director-General of Public Works as to the plans and specifications with a statement of his requirements shall be delivered within one month from the date of the deposit of the plans and specifications, and if no intimation of disapproval is given by the Director-General of Public Works within that time it shall be assumed that the plans and specifications have been approved.
+(2) The decision of the Building Authority as to the plans and specifications with a statement of his requirements shall be delivered within one month from the date of the deposit of the plans and specifications, and if no intimation of disapproval is given by the Building Authority within that time it shall be assumed that the plans and specifications have been approved.
 
-(3) For the purposes of this Act the Director-General of Public Works or any officer authorised thereto by him in writing may enter upon and inspect any buildings or premises to which the plans and specifications relate.
+(3) For the purposes of this Act the Building Authority or any officer authorised thereto by him in writing may enter upon and inspect any buildings or premises to which the plans and specifications relate.
 
 ### Penalty
 
@@ -102,7 +104,7 @@ Provided that where the part of foreshore or sea-bed to be reclaimed does not ex
 
 5\.—(1) The President may, by proclamation published in theGazette, declare any lands formed by the reclamation of any part of the foreshore of Singapore, or any areas of land reclaimed from the sea to be State land, and thereupon that land shall immediately vest in the State freed and discharged from all public and private rights which may have existed or been claimed over the foreshore or the sea-bed before the same were so reclaimed.
 
-(2) All land declared to be State land under this section shall be subject to the State Lands Act [Cap. 314].
+(2) All land declared to be State land under this section shall be subject to the State Lands Act (Cap. 314).
 
 ### Except as provided, no action to be brought in respect of any damage
 
@@ -247,3 +249,9 @@ This Legislative History is provided for the convenience of users of the Foresho
 ||Date of commencement|31 January 1975|
 |24.|**1985 Revised Edition—Foreshores Act**|
 ||Date of operation|30 March 1987|
+|25.|**Act 7 of 1996—Maritime and Port Authority of Singapore Act 1996**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|5 December 1995|
+|||(Bill No. 46/1995 published on 6 December 1995)|
+||Date of Second and Third Readings|18 January 1996|
+||Date of commencement|2 February 1996|
