@@ -18,6 +18,8 @@
 
 - [6 Presumption of employment](#Presumption-of-employment)
 
+- [6A Prohibition of foreigner without work permit entering or remaining at work place](#Prohibition-of-foreigner-without-work-permit-entering-or-remaining-at-work-place)
+
 - [7 Application for work permit](#Application-for-work-permit)
 
 - [8 Register](#Register)
@@ -38,6 +40,14 @@
 
 - [16 Powers of employment inspector](#Powers-of-employment-inspector)
 
+- [16A Change of address](#Change-of-address)
+
+- [16B Service of notices](#Service-of-notices)
+
+- [16C Protection from personal liability](#Protection-from-personal-liability)
+
+- [16D Offence by body corporate](#Offence-by-body-corporate)
+
 - [17 Power to arrest without warrant](#Power-to-arrest-without-warrant)
 
 - [18 Penalties](#Penalties)
@@ -52,7 +62,7 @@
 
 - [23 Compounding of offences](#Compounding-of-offences)
 
-- [24 Effect of contravention of section 9(1)](#Effect-of-contravention-of-section-91)
+- [24 Effect of contravention of section 9 (1)](#Effect-of-contravention-of-section-9-1)
 
 - [25 Regulations](#Regulations)
 
@@ -84,13 +94,21 @@ An Act relating to the employment of foreign workers.
 
 2\. In this Act, unless the context otherwise requires —
 
-“contractor” means a person who carries out work for another person under a contract for services or who supplies workers to other persons to carry out work for them;
-
 “Controller” means the Controller of Work Permits appointed under section 3;
 
-“employer” means any person, including a contractor, employing a foreign worker and, for the purposes of an application for work permit, a person who intends to employ a foreign worker;
+“construction works” has the same meaning as in the Construction Industry Development Board Act [Cap. 51] and includes such other works or activities as the Minister may, by notification in theGazette, specify to be construction works;
+
+[Act 37/95 wef 01/03/1996 vide S 72/96]
+
+“employer” means any person employing a foreign worker and, for the purposes of an application for work permit, a person who intends to employ a foreign worker;
+
+[Act 37/95 wef 01/03/1996 vide S 72/96]
 
 “employment inspector” means the Controller and any person appointed as an employment inspector under section 3;
+
+“foreigner” means any person who is not a citizen or permanent resident of Singapore;
+
+[Act 37/95 wef 01/03/1996]
 
 “foreign worker” means —
 
@@ -104,7 +122,9 @@ An Act relating to the employment of foreign workers.
 
 (a) the person having the charge, management or control of either the whole or part of the premises either on his own account or as an agent; and
 
-(b) a contractor who is carrying out building operations or construction works at the premises on behalf of some other person;
+(b) any person who is carrying out construction or other works at the premises on behalf of some other person;
+
+[Act 37/95 wef 01/03/1996]
 
 “premises” includes any land, whether built on or not, building, structure and any vessel and vehicle;
 
@@ -116,7 +136,13 @@ An Act relating to the employment of foreign workers.
 
 (c) any sum paid to a foreign worker to defray special expenses incurred by him owing to the special, unusual or hazardous nature of his employment;
 
-(d) any contribution paid by the employer or contractor to any pension fund or provident fund; or
+(ca) any shift allowance, attendance allowance and any other allowance which is variable in nature;
+
+[Act 37/95 wef 01/03/1996]
+
+(d) any contribution paid by the employer to any pension fund or provident fund; or
+
+[Act 37/95]
 
 (e) any gratuity payable on discharge or retirement;
 
@@ -140,27 +166,91 @@ An Act relating to the employment of foreign workers.
 
 (3) No person shall employ a foreign worker otherwise than in accordance with the conditions of the work permit.
 
+(3A) In any proceedings for an offence under subsection (1), it shall not be a defence for a defendant to prove that he did not know that the worker was a foreigner unless the defendant further proves that he had exercised due diligence to ascertain the nationality of the worker.
+
+[Act 37/95 wef 01/03/1996]
+
+(3B) For the purpose of subsection (3A), a defendant shall not be deemed to have exercised due diligence unless he had checked the passport, document of identity or other travel document of the worker.
+
+[Act 37/95 wef 01/03/1996]
+
 (4) Any person who fails to comply with or contravenes subsection (1) shall be guilty of an offence and shall —
 
 (a) be liable on conviction to a fine of an amount of not less than 24 months’ levy and not more than 48 months’ levy or to imprisonment for a term not exceeding one year or to both; and
 
-(b) on a second or subsequent conviction, be punished with imprisonment for a term of not less than one month and not more than one year and shall also be liable to a fine of an amount of not less than 24 months’ levy and not more than 48 months’ levy.
+(b) on a second or subsequent conviction, be punished —
+
+(i) in the case of an individual, with imprisonment for a term of not less than one month and not more than one year and shall also be liable to a fine of an amount of not less than 24 months’ levy and not more than 48 months’ levy; and
+
+(ii) in the case of a body corporate, with a fine of an amount of not less than 48 months’ levy and not more than 96 months’ levy.
+
+[Act 37/95 wef 01/03/1996]
 
 (5) For the purpose of subsection (4) —
 
-(a) “levy” means the monthly rate of levy applicable to the foreign worker at the date when he was found to be working without a valid work permit, and a certificate issued by the Controller and tendered in court shall be prima facie evidence of such rate;
+(a) “levy” means the monthly rate of levy applicable to the foreign worker at the date when he was first employed by the defendant without a valid work permit, and a certificate issued by the Controller and tendered in court shall be prima facie evidence of such rate;
+
+[Act 37/95 wef 01/03/1996]
 
 (b) a conviction of an employer for an offence under section 8(1) of the repealed Regulation of Employment Act [Cap. 272] shall not be considered a previous conviction.
 
-(6) When any offence under subsection (1) committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate or any person purporting to act in any such capacity, he as well as the body corporate shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+(6) Deleted by Act 37/95 wef 1.3.96 vide S 72/96.
 
 (7) Any person who contravenes subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year or to both.
 
-(8) For the purpose of this section, all convictions for the contravention of subsection (1) entered against an employer at one and the same trial shall be deemed to be one conviction.
+(8) For the purpose of subsection (4)(b), all convictions against the same person for the contravention of subsection (1) at one and the same trial shall be deemed to be one conviction.
+
+[Subst. by Act 37/95 wef 01/03/1996]
+
+(9) For the purpose of this section, “employ” means to engage or use the service of any person, whether under a contract of service or otherwise, with or without salary.
+
+[Act 37/95 wef 01/03/1996]
 
 ### Presumption of employment
 
-6\. A person found working in any premises or found in possession of any tool or implement or engaged in any activity which may give rise to the inference that he is doing any work shall be presumed, until the contrary is proved, to have been employed by the occupier of the premises.
+6\. Where a foreigner is found at any premises, the occupier of the premises shall be presumed, until the contrary is proved, to have employed the foreigner.
+
+[Subst.by Act 37/95 wef 01/03/1996]
+
+### Prohibition of foreigner without work permit entering or remaining at work place
+
+6A\.—(1) No occupier of a work place who has control of access to the work place shall permit any foreigner without a valid work permit to enter or remain at the work place.
+
+(2) Where a foreigner without a valid work permit is found at any work place, it shall be presumed, until the contrary is proved, that the occupier of the work place —
+
+(a) had control of access to the work place;
+
+(b) had permitted the foreigner to enter or remain at the work place; and
+
+(c) had knowledge that the foreigner did not possess a valid work permit.
+
+(3) The presumptions provided for in subsection (2) shall not be rebutted by proof that a defendant did not know that the person was a foreigner unless the defendant further proves that he had exercised due diligence —
+
+(a) to prevent the foreigner from entering or remaining at the work place;
+
+(b) to ascertain that the person was a citizen or permanent resident of Singapore by checking his passport, document of identity or other travel documents; or
+
+(c) to ascertain that the foreigner had at the material time in his possession a valid work permit by checking his original work permit.
+
+(4) For the purposes of subsection (3)(a), a defendant shall not be deemed to have exercised due diligence unless he had taken all reasonable measures to prevent any foreigner without a valid work permit from entering or remaining at the work place, including all the measures prescribed under subsection (5) in respect of the work place.
+
+(5) For the purposes of subsection (4), the Minister may, by notification in theGazette, prescribe the measures that are required to be taken by the occupier of the work place.
+
+(6) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine of an amount of not less than 24 months’ levy and not more than 48 months’ levy or to imprisonment for a term not exceeding one year or to both, and in the case of a second or subsequent conviction, to a fine of an amount of not less than 48 months’ levy and not more than 96 months’ levy or to imprisonment for a term not exceeding 2 years or to both.
+
+(7) For the purpose of this section —
+
+“levy” means the monthly rate of levy applicable to unskilled foreign workers working at the work place at the date when the foreigner without a valid work permit was found at the work place, and a certificate issued by the Controller and tendered in court shall be prima facie evidence of such rate;
+
+“occupier”, in relation to a work place, means the principal contractor who undertakes any construction works at the work place and includes such other person as the Minister may, by notification in theGazette, specify to be the occupier of the work place;
+
+“principal contractor” means a person who has entered into a contract with an owner, a developer or a lessee of a property or his agent for the purpose of carrying out any construction works, or such other works or activities as the Minister may, by notification in theGazette, specify;
+
+“work place” means any place or premises where works are being carried out and includes any premises within the vicinity of the work place to which the occupier has control of access.
+
+(8) Nothing in this section shall prevent any person from being prosecuted under any other provision of this Act for any act or omission which constitutes an offence under that other provision, but no person shall be punished twice for the same offence.
+
+[Act 37/95 wef 01/03/1996]
 
 ### Application for work permit
 
@@ -214,6 +304,10 @@ An Act relating to the employment of foreign workers.
 
 (3) For the purpose of subsection (2), “levy” means the monthly rate of levy applicable to the person engaged in the trade, calling, occupation or other activity in contravention of subsection (1) at the date when he was found to be so engaged, and a certificate issued by the Controller and tendered in court shall be prima facie evidence of such rate.
 
+(4) For the purpose of subsection (2)(b), all convictions against the same person for the contravention of subsection (1) at one and the same trial shall be deemed to be one conviction.
+
+[Act 37/95 wef 01/03/1996 vide S 72/96]
+
 ### Levy in respect of employment of certain classes of foreign workers or other persons
 
 11\.—(1) The Minister may, by order published in theGazette, provide for the imposition of a levy of such amount as may be specified in the order on employers in respect of any foreign worker or class of foreign workers or on persons who have, pursuant to section 10(1), obtained a work permit to engage in any trade, calling, occupation or other activity for the purposes of gain.
@@ -224,7 +318,9 @@ An Act relating to the employment of foreign workers.
 
 (4) Where the amount of the levy payable by any employer or person in respect of any month is not paid within such period as may be specified in the order, the employer or person shall be liable to pay a penalty on the amount for every day the amount remains unpaid commencing from the first day of the month succeeding the month in respect of which the amount is payable and the penalty shall be calculated at the rate of 2% per month or the sum of $5 whichever is the greater, but, subject to that, the total penalty shall not exceed 30% of the amount of levy outstanding.
 
-(5) The Controller may, in any case in which he thinks fit, remit in whole or in part any penalty due under subsection (4).
+(5) The Controller may, in any case in which he thinks fit, remit or refund in whole or in part any penalty due under subsection (4).
+
+[Act 37/95 wef 01/03/1996 vide S 72/96]
 
 (6) Any levy and penalty due from and payable by any employer or person shall be recoverable by the Controller, or any person duly authorised by the Controller to act on his behalf, as a debt due to the Government.
 
@@ -266,33 +362,93 @@ An Act relating to the employment of foreign workers.
 
 16\.—(1) An employment inspector shall, for the purposes of this Act, have power to do all or any of the following things:
 
-(a) to enter and search, by day or by night, any premises or every part thereof when he has reasonable cause to believe that any person is employed therein;
+(a) to enter and search, by day or by night, any premises or every part thereof when he has reasonable cause to believe that any person is employed therein or accommodated thereat or that evidence of the commission of an offence under this Act can be found therein;
+
+[Act 37/95 wef 01/03/1996]
 
 (b) to require any person who the employment inspector has reason to believe has any document, including documents of identity and travel documents, or information relevant to the carrying out of the provisions of this Act, to produce any such document or give such information;
 
 (c) to retain any document relevant to the carrying out of the provisions of this Act;
 
-(d) to examine orally any person supposed to be acquainted with the facts and circumstances of the employment of any person, and to reduce into writing the answer given or statement made by that person; and such person shall be bound to state truly the facts and circumstances with which he is acquainted concerning the employment; and the statement made by that person shall be read over to him and shall, after correction, be signed by him;
+(d) to examine orally any person supposed to be acquainted with the facts and circumstances relevant to the carrying out of the provisions of this Act, and to reduce into writing the answer given or statement made by that person; and such person shall be bound to state truly the facts and circumstances with which he is acquainted; and the statement made by that person shall be read over to him and shall, after correction, be signed by him;
 
-(e) to require by order in writing the attendance before him of any person who from information given or otherwise, appears to be acquainted with the facts and circumstances of the employment of any person, and that person shall so attend as required and if such person fails to attend as so required, to report such failure to a Magistrate who may thereupon issue a warrant to secure the attendance of that person as required by such order;
+[Act 37/95 wef 01/03/1996]
 
-(f) to take such photographs as he thinks necessary of the premises and persons within; and
+(e) to require by order in writing the attendance before him of any person who from information given or otherwise, appears to be acquainted with the facts and circumstances relevant to the carrying out of the provision of this Act, and that person shall so attend as required and if such person fails to attend as so required, to report such failure to a Magistrate who may thereupon issue a warrant to secure the attendance of that person as required by such order;
+
+[Act 37/95 wef 01/03/1996]
+
+(f) to take such photographs as he thinks necessary of the premises and persons reasonable believed to be acquainted with the facts and circumstances relevant to the carrying out of the provisions of this Act; and
+
+[Subst. by Act 37/95 wef 01/03/1996]
 
 (g) to take in custody any article which is required for the purpose of an investigation under this Act.
 
-(2) When an employment inspector has reasonable cause to believe that any foreign worker is employed in any premises, the occupier of the premises and his agents and any contractor, employee or person found in the premises shall furnish the means required by the employment inspector as necessary for an entry, search, examination and investigation, and the taking of photographs or the taking of articles into custody or otherwise for the exercise of his powers under this Act.
+(2) An employment inspector may require the occupier of any premises and his agents and any person found in the premises to furnish such means required by the employment inspector as necessary for any entry, search, examination or investigation, and the taking of photographs or the taking of articles into custody or otherwise for the exercise of his powers under this Act.
+
+[Subst. by Act 37/95 wef 01/03/1996]
 
 (3) An employment inspector may, after concluding his investigation, hand over to an immigration officer any travel document which he has taken into custody or has been produced to him.
 
-(4) If any person intentionally offers any resistance to or wilfully delays an employment inspector in the exercise of any power under this section, or fails to comply with the requisition of an employment inspector in pursuance of this section or to produce any document which he is required by or in pursuance of this section to produce, or wilfully withholds any information as to who is the occupier of the premises or who is his employer, or conceals or prevents or attempts to conceal or prevent a person from appearing before or being examined by an employment inspector, that person shall be deemed to obstruct an employment inspector in the execution of his duties under this Act.
+(4) If any person intentionally offers any resistance to or wilfully delays an employment inspector in the exercise of any power under this section, or fails to comply with the requisition of an employment inspector in pursuance of this section or to produce any document which he is required by or in pursuance of this section to produce, or wilfully withholds any information as to who is the occupier of the premises or who is the principal contractor or who is his employer, or conceals or prevents or attempts to conceal or prevent a person from appearing before or being examined by an employment inspector, that person shall be deemed to obstruct an employment inspector in the execution of his duties under this Act.
+
+[Act 37/95 wef 01/03/1996]
 
 (5) Every employment inspector shall have authority to appear in court and conduct any prosecution in respect of any offence under this Act or any regulations made thereunder.
+
+### Change of address
+
+16A\.—(1) Every employer shall inform the Controller in writing of any change in his address within 14 days of such change.
+
+(2) Where the employer is an individual, he shall be deemed to have complied with subsection (1) if he had reported the change of his place of residence under section 8 of the National Registration Act [Cap. 201].
+
+(3) Where the employer is a body corporate incorporated under the Companies Act [Cap. 50] or a sole proprietorship or a firm registered under the Business Registration Act [Cap. 32], the employer shall be deemed to have complied with subsection (1) if he had reported the change of the address of the registered office or place of business under section 143 of the Companies Act or section 12 of the Business Registration Act, as the case may be.
+
+(4) The addresses as reported in subsection (2) or (3) shall, unless the employer informs the Controller in writing to the contrary, be deemed to be the last known address of the employer for the purpose of section 16B.
+
+[Act 37/95 wef 01/03/1996]
+
+### Service of notices
+
+16B\.—(1) Every notice, order or document required or authorised by this Act or any regulations made thereunder to be served on any person may be served —
+
+(a) by delivering it to the person or to some adult member or employee of his family at his last known place of residence;
+
+(b) by leaving it at his usual or last known place of residence or business in an envelope addressed to him; or
+
+(c) by sending it by ordinary or registered post addressed to the person at his usual or last known place of residence or business.
+
+(2) Where any notice, order or document is served by ordinary or registered post, it shall be deemed to have been duly served at the time it would have been received in the ordinary course of post if the notice, order or document is addressed —
+
+(a) in the case of a company incorporated in Singapore, to the registered office of the company;
+
+(b) in the case of a company incorporated outside Singapore, either to the individual authorised to accept service of process under the Companies Act [Cap. 50] at the address filed with the Registrar of Companies, or to the registered office of the company wherever it may be situated;
+
+(c) in the case of an individual, a partnership or a body of persons, to the last known business or private address of such individual, partnership or body of persons.
+
+(3) Where any notice, order or document is served by registered post in accordance with subsection (2), in proving service of the notice, order or document, it shall be sufficient to prove that the envelope containing the same was properly addressed, stamped and posted by registered post.
+
+(4) Every notice, order or document to be given by the Controller under this Act shall be signed by the Controller or by some person or persons from time to time authorised by the Controller in that behalf and every such notice, order or document shall be valid if the signature or an official facsimile thereof of the Controller or of such person or persons is duly printed or written thereon, except that any notice or order under this Act requiring the attendance of any person or witness before the Controller shall be signed by the Controller or by a person duly authorised by the Controller.
+
+[Act 37/95 wef 01/03/1996]
+
+### Protection from personal liability
+
+16C\. No suit or other legal proceedings shall lie against the Controller or any employment inspector or other person acting under the direction of the Controller for anything which is in good faith done or intended to be done in the execution or purported execution of this Act.
+
+[Act 37/95 wef 01/03/1996]
+
+### Offence by body corporate
+
+16D\. Where an offence under this Act or any regulations made thereunder is committed by a body corporate, and it is proved to have been committed with the consent or connivance of, or to be attributable to any act or default on the part of, any director, manager, secretary or other similar officer of the body corporate, or any person who was purporting to act in any such capacity, he, as well as the body corporate, shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+[Act 37/95 wef 01/03/1996]
 
 ### Power to arrest without warrant
 
 17\.—(1) Any police officer or employment inspector may arrest without warrant any person who he reasonably believes is employed in Singapore whilst not in possession of a valid work permit.
 
-(2) Where any person is arrested by an employment inspector under this section, the employment inspector shall comply with sections 35 and 36 of the Criminal Procedure Code [Cap. 68] as if he were a police officer.
+(2) Where any person is arrested by an employment inspector under this section, the employment inspector shall comply with sections 35 and 36 of the Criminal Procedure Code as if he were a police officer.
 
 ### Penalties
 
@@ -314,7 +470,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 19\.—(1) Any person who abets the commission of an offence under this Act shall be guilty of the offence and shall be liable on conviction to be punished with the punishment provided for that offence.
 
-(2) Where an occupier is charged for abetting his contractor who has employed a foreign worker in contravention of section 5 (1), it shall not be sufficient for him to prove in his defence that he had instructed the contractor not to, or obtained from the contractor an undertaking that he would not, so employ a foreign worker.
+(2) Where an occupier is charged for abetting another person who has employed a foreign worker in contravention of section 5(1), it shall not be sufficient for the occupier to prove in his defence that he had instructed the other person not to, or obtained from the other person an undertaking that he would not, so employ a foreign worker.
+
+[Subst. by Act 37/95 wef 01/03/1996]
 
 ### Jurisdiction of Magistrate’s Court and District Court
 
@@ -322,7 +480,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Complaint by employment inspector
 
-21\. For the purpose of section 133 of the Criminal Procedure Code [Cap. 68] and notwithstanding subsections (1) and (2) thereof, a Magistrate may take cognizance of an offence under this Act upon receiving a complaint in writing and signed by an employment inspector.
+21\. For the purpose of section 133 of the Criminal Procedure Code and notwithstanding subsections (1) and (2) thereof, a Magistrate may take cognizance of an offence under this Act upon receiving a complaint in writing and signed by an employment inspector.
 
 ### Power of person primarily liable to exempt himself from liability
 
@@ -395,3 +553,8 @@ This Legislative History is provided for the convenience of users of the Employm
 ||Date of commencement|1 January 1991|
 |2.|**1991 Revised Edition—Employment of Foreign Workers Act (Chapter 91A)**|
 ||Date of operation|1 March 1991|
+|3.|**Act 37 of 1995—Employment of Foreign Workers (Amendment) Act 1995**|
+||Date of First Reading|27 September 1995|
+|||(Bill No. 34/95 published on 28 September 1995)|
+||Date of Second and Third Readings|1 November 1995|
+||Date of commencement|1 March 1996|
