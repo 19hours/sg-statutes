@@ -8,7 +8,7 @@
 
 [**Part I**](#Part-I)
 
-[**Contracts for transfer of property in goods**](#Contracts-for-transfer-of-property-in-goods)
+[**Contracts for Transfer of Property in Goods**](#Contracts-for-Transfer-of-Property-in-Goods)
 
 - [1 The contracts concerned](#The-contracts-concerned)
 
@@ -60,9 +60,9 @@
 
 (Original Enactment: U.K. 1982, c. 29)
 
-REVISED EDITION 1994
+REVISED EDITION 1999
 
-(20th May 1994)
+(1st August 1999)
 
 An Act to amend the law with respect to the terms to be implied in certain contracts for the transfer of the property in goods and in certain contracts for the hire of goods and for connected purposes.
 
@@ -72,7 +72,7 @@ An Act to amend the law with respect to the terms to be implied in certain contr
 
 ## PART I
 
-Contracts for transfer of property in goods
+Contracts for Transfer of Property in Goods
 
 ### The contracts concerned
 
@@ -84,7 +84,7 @@ Contracts for transfer of property in goods
 
 (b) a hire-purchase agreement;
 
-(c) a transfer or agreement to transfer which is made by deed and for which there is no consideration other than the presumed consideration imported by the deed;
+(c) a transfer or agreement to transfer which is made by deed and for which there is no consideration other than the presumed consideration imported by the deed; or
 
 (d) a contract intended to operate by way of mortgage, pledge, charge or other security.
 
@@ -128,11 +128,11 @@ Contracts for transfer of property in goods
 
 (2) Where, under such a contract, the transferor transfers the property in goods in the course of a business, there is an implied condition that the goods supplied under the contract are of satisfactory quality.
 
-[44/1996 wef 01/01/1997]
+[44/96]
 
 (2A) For the purposes of this section and section 5, goods are of satisfactory quality if they meet the standard that a reasonable person would regard as satisfactory, taking account of any description of the goods, the price (if relevant) and all the other relevant circumstances.
 
-[44/1996 wef 01/01/1997]
+[44/96]
 
 (3) The condition implied by subsection (2) does not extend to any matter making the quality of goods unsatisfactory —
 
@@ -142,7 +142,7 @@ Contracts for transfer of property in goods
 
 (c) where the property in the goods is transferred by reference to a sample, which would have been apparent on a reasonable examination of the sample.
 
-[44/1996 wef 01/01/1997]
+[44/96]
 
 (4) Subsection (5) applies where, under a contract for the transfer of goods, the transferor transfers the property in goods in the course of a business and the transferee, expressly or by implication, makes known —
 
@@ -160,13 +160,13 @@ any particular purpose for which the goods are being acquired.
 
 (8) The preceding provisions of this section apply to a transfer by a person who in the course of a business is acting as agent for another as they apply to a transfer by a principal in the course of a business, except where that other is not transferring in the course of a business and either the transferee knows that fact or reasonable steps are taken to bring it to the transferee’s notice before the contract concerned is made.
 
-(9) [Deleted by Act 44/1996 wef 01/01/1997]
+(9) [Deleted by Act 44/96]
 
 ### Implied terms where transfer is by sample
 
 5\.—(1) This section applies where, under a contract for the transfer of goods, the transferor transfers or agrees to transfer the property in the goods by reference to a sample.
 
-(2) In such a case there is an implied condition —
+(2) In such a case, there is an implied condition —
 
 (a) that the bulk will correspond with the sample in quality;
 
@@ -174,9 +174,9 @@ any particular purpose for which the goods are being acquired.
 
 (c) that the goods will be free from any defect, making their quality unsatisfactory, which would not be apparent on reasonable examination of the sample.
 
-[44/1996 wef 01/01/1997]
+[44/96]
 
-(3) [Deleted by Act 44/1996 wef 01/01/1997]
+(3) [Deleted by Act 44/96]
 
 (4) For the purposes of this section, a transferor transfers or agrees to transfer the property in goods by reference to a sample where there is an express or implied term to that effect in the contract concerned.
 
@@ -184,17 +184,21 @@ any particular purpose for which the goods are being acquired.
 
 5A\.—(1) Where in the case of a contract for the transfer of goods —
 
-(a) the transferee would, apart from this subsection, have the right to treat the contract as repudiated by reason of a breach on the part of the transferor of a condition implied by section 3, 4 or 5 (2)(a) or (c); but
+(a) the transferee would, apart from this subsection, have the right to treat the contract as repudiated by reason of a breach on the part of the transferor of a condition implied by section 3, 4 or 5(2)(a) or (c); but
 
 (b) the breach is so slight that it would be unreasonable for the transferee to do so,
 
 then, if the transferee does not deal as consumer, the breach is not to be treated as a breach of condition but may be treated as a breach of warranty.
 
+[44/96]
+
 (2) This section applies unless a contrary intention appears in, or is to be implied from, the contract.
+
+[44/96]
 
 (3) It is for the transferor to show that a breach fell within subsection (1)(b).
 
-[44/1996 wef 01/01/1997]
+[44/96]
 
 Contracts for hire of goods
 
@@ -216,7 +220,7 @@ Contracts for hire of goods
 
 8\.—(1) This section applies where, under a contract for the hire of goods, the bailor bails or agrees to bail the goods by description.
 
-(2) In such a case there is an implied condition that the goods will correspond with the description.
+(2) In such a case, there is an implied condition that the goods will correspond with the description.
 
 (3) If under the contract the bailor bails or agrees to bail the goods by reference to a sample as well as a description, it is not sufficient that the bulk of the goods corresponds with the sample if the goods do not also correspond with the description.
 
@@ -228,11 +232,11 @@ Contracts for hire of goods
 
 (2) Where, under such a contract, the bailor bails goods in the course of a business, there is an implied condition that the goods supplied under the contract are of satisfactory quality.
 
-[44/1996 wef 01/01/1997]
+[44/96]
 
 (2A) For the purposes of this section and section 10, goods are of satisfactory quality if they meet the standard that a reasonable person would regard as satisfactory, taking account of any description of the goods, the consideration for the bailment (if relevant) and all the other relevant circumstances.
 
-[44/1996 wef 01/01/1997]
+[44/96]
 
 (3) The condition implied by subsection (2) does not extend to any matter making the quality of goods unsatisfactory —
 
@@ -242,7 +246,7 @@ Contracts for hire of goods
 
 (c) where the goods are bailed by reference to a sample, which would have been apparent on a reasonable examination of the sample.
 
-[44/1996 wef 01/01/1997]
+[44/96]
 
 (4) Subsection (5) applies where, under a contract for the hire of goods, the bailor bails goods in the course of a business and the bailee, expressly or by implication, makes known —
 
@@ -260,13 +264,13 @@ any particular purpose for which the goods are being bailed.
 
 (8) The preceding provisions of this section apply to a bailment by a person who in the course of a business is acting as agent for another as they apply to a bailment by a principal in the course of a business, except where that other is not bailing in the course of a business and either the bailee knows that fact or reasonable steps are taken to bring it to the bailee’s notice before the contract concerned is made.
 
-(9) [Deleted by Act 44/1996 wef 01/01/1997]
+(9) [Deleted by Act 44/96]
 
 ### Implied terms where hire is by sample
 
 10\.—(1) This section applies where, under a contract for the hire of goods, the bailor bails or agrees to bail the goods by reference to a sample.
 
-(2) In such a case there is an implied condition —
+(2) In such a case, there is an implied condition —
 
 (a) that the bulk will correspond with the sample in quality;
 
@@ -274,9 +278,7 @@ any particular purpose for which the goods are being bailed.
 
 (c) that the goods will be free from any defect, making their quality unsatisfactory, which would not be apparent on reasonable examination of the sample.
 
-[44/1996 wef 01/01/1997]
-
-(3) [Deleted by Act 44/1996 wef 01/01/1997]
+(3) [Deleted by Act 44/96]
 
 (4) For the purposes of this section, a bailor bails or agrees to bail goods by reference to a sample where there is an express or implied term to that effect in the contract concerned.
 
@@ -284,23 +286,27 @@ any particular purpose for which the goods are being bailed.
 
 10A\.—(1) Where in the case of a contract for the hire of goods —
 
-(a) the bailee would, apart from this subsection, have the right to treat the contract as repudiated by reason of a breach on the part of the bailor of a condition implied by section 8, 9 or 10 (2)(a) or (c); but
+(a) the bailee would, apart from this subsection, have the right to treat the contract as repudiated by reason of a breach on the part of the bailor of a condition implied by section 8, 9 or 10(2)(a) or (c); but
 
 (b) the breach is so slight that it would be unreasonable for the bailee to do so,
 
 then, if the bailee does not deal as consumer, the breach is not to be treated as a breach of condition but may be treated as a breach of warranty.
 
+[44/96]
+
 (2) This section applies unless a contrary intention appears in, or is to be implied from, the contract.
+
+[44/96]
 
 (3) It is for the bailor to show that a breach fell within subsection (1)(b).
 
-[44/1996 wef 01/01/1997]
+[44/96]
 
 Exclusion of implied terms, etc.
 
 ### Exclusion of implied terms, etc.
 
-11\.—(1) Where a right, duty or liability would arise under a contract for the transfer of goods or a contract for the hire of goods by implication of law, it may (subject to subsection (2) and the Unfair Contract Terms Act [Cap. 396]) be negatived or varied by express agreement, or by the course of dealing between the parties, or by such usage as binds both parties to the contract.
+11\.—(1) Where a right, duty or liability would arise under a contract for the transfer of goods or a contract for the hire of goods by implication of law, it may (subject to subsection (2) and the Unfair Contract Terms Act) (Cap. 396) be negatived or varied by express agreement, or by the course of dealing between the parties, or by such usage as binds both parties to the contract.
 
 (2) An express condition or warranty does not negative a condition or warranty implied by the preceding provisions of this Act unless inconsistent with it.
 
@@ -312,7 +318,7 @@ Exclusion of implied terms, etc.
 
 ## PART III
 
-17\. [This section, which makes minor and consequential amendments, is omitted]
+17\. [This section, which makes minor and consequential amendments, is omitted.]
 
 ### Interpretation
 
@@ -336,17 +342,17 @@ Exclusion of implied terms, etc.
 
 “enactment” means any legislation (including subsidiary legislation) of Singapore;
 
-“goods” include all personal chattels (including emblements, industrial growing crops, and things attached to or forming part of the land which are agreed to be severed before the transfer or bailment concerned or under the contract concerned) other than things in action and money;
+“goods” includes all personal chattels (including emblements, industrial growing crops, and things attached to or forming part of the land which are agreed to be severed before the transfer or bailment concerned or under the contract concerned) other than things in action and money;
 
-“hire-purchase agreement” has the same meaning as in the Hire-Purchase Act [Cap. 125];
+“hire-purchase agreement” has the same meaning as in the Hire-Purchase Act (Cap. 125);
 
 “property”, in relation to goods, means the general property in them and not merely a special property;
-
-[Deleted by Act 44/1996 wef 01/01/1997]
 
 “transferee”, in relation to a contract for the transfer of goods, means (depending on the context) a person to whom the property in the goods is transferred under the contract, or a person to whom the property is to be so transferred, or a person to whom the rights under the contract of either of those persons have passed;
 
 “transferor”, in relation to a contract for the transfer of goods, means (depending on the context) a person who transfers the property in the goods under the contract, or a person who agrees to do so, or a person to whom the duties under the contract of either of those persons have passed.
+
+[44/96]
 
 (2) In subsection (1), in the definitions of “bailee”, “bailor”, “transferee” and “transferor”, a reference to rights or duties passing is to their passing by assignment, operation of law or otherwise.
 
@@ -362,21 +368,21 @@ Exclusion of implied terms, etc.
 
 (e) durability.
 
-[44/1996 wef 01/01/1997]
+[44/96]
 
-(4) References in this Act to dealing as consumer are to be construed in accordance with Part 1 of the Unfair Contract Terms Act [Cap. 396].
+(4) References in this Act to dealing as consumer are to be construed in accordance with Part I of the Unfair Contract Terms Act (Cap. 396).
 
-[44/1996 wef 01/01/1997]
+[44/96]
 
 (5) For the purposes of this Act, it is for the transferor or bailor claiming that the transferee or bailee does not deal as consumer to show that he does not.
 
-[44/1996 wef 01/01/1997]
+[44/96]
 
 ### Short title and transitional
 
 19\.—(1) This Act may be cited as the Supply of Goods Act.
 
-(2) Nothing in this Act applies in relation to a contract made before 12th November 1993 except in so far as it was applicable by virtue of section 5 of the Civil Law Act [Cap. 43] in force before that date.
+(2) Nothing in this Act applies in relation to a contract made before 12th November 1993 except in so far as it was applicable by virtue of section 5 of the Civil Law Act (Cap. 43) in force before that date.
 
 ## LEGISLATIVE HISTORY
 
@@ -384,7 +390,7 @@ Supply of Goods Act
 
 (CHAPTER 394)
 
-This Legislative History is provided for the convenience of users of the Supply of Goods Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Supply of Goods Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -398,3 +404,5 @@ This Legislative History is provided for the convenience of users of the Supply 
 |||(Bill No. 34/96 published on 29 October 1996)|
 ||Date of Second and Third Readings|7 November 1996|
 ||Date of commencement|1 January 1997|
+|4.|**1999 Revised Edition—Supply of Goods Act**|
+||Date of operation|1 August 1999|
