@@ -336,7 +336,7 @@ Provided that a person charged with such an offence may be arrested, or a warran
 
 ### Powers under Criminal Procedure Code not restricted
 
-19\. Nothing in this Act shall be deemed to limit or restrict any powers conferred by the Criminal Procedure Code (Cap. 68)
+19\. Nothing in this Act shall be deemed to limit or restrict any powers conferred by the Criminal Procedure Code [Cap. 68].
 
 ## THE SCHEDULE
 
@@ -349,6 +349,10 @@ Specified Organisations
 (2) Central Provident Fund Board
 
 (3) Civil Aviation Authority of Singapore
+
+(3A) Civil Service College
+
+[S 573/2001 wef 23/11/2001]
 
 (4) Commercial and Industrial Security Corporation
 
@@ -459,3 +463,5 @@ This Legislative History is provided for the convenience of users of the Officia
 |||(Bill No. 26/2001 published on 12 July 2001)|
 ||Date of Second and Third Readings|25 July 2001|
 ||Date of commencement|1 September 2001|
+|17.|**G.N. No. S 573/2001—Official Secrets Act (Amendment of Schedule) Notification 2001**|
+||Date of commencement|23 November 2001|
