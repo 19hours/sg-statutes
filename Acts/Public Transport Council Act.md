@@ -54,7 +54,7 @@
 
 [**Part V BUS, TAXI AND RAPID TRANSIT SYSTEM FARES**](#Part-V)
 
-- [20 Bus, taxi and rapid transit systems fares](#Bus-taxi-and-rapid-transit-systems-fares)
+- [20 Bus, taxi and rapid transit systems fares.](#Bus-taxi-and-rapid-transit-systems-fares)
 
 - [21 Matters to be considered by Council](#Matters-to-be-considered-by-Council)
 
@@ -108,6 +108,8 @@ PRELIMINARY
 
 “rapid transit system” has the same meaning as in the Rapid Transit Systems Act 1995;
 
+[Act 29/95 wef 01/09/1995 vide S 383/95]
+
 “public service vehicle” means a vehicle used or kept for use for the carriage of passengers for hire or reward, other than a vehicle constructed for use on fixed rails or specially prepared ways;
 
 “taxi” means a public service vehicle having a seating capacity of not more than 6 persons (including the driver), which plies for hire on any road and is hired under a contract, express or implied, for the use of each such vehicle as a whole or for the use of two or more persons who pay separate fares.
@@ -132,11 +134,11 @@ PUBLIC TRANSPORT COUNCIL
 
 (b) to receive and consider applications for approval of bus, taxi and rapid transit systems fares;
 
-[Act 29 of 1995 wef 01/09/1995]
+[Act 29/95 wef 01/09/1995]
 
 (c) to regulate bus routes and bus, taxi and rapid transit systems fares; and
 
-[Act 29 of 1995 wef 01/09/1995]
+[Act 29/95 wef 01/09/1995]
 
 (d) to engage in such other activities and to perform such functions as the Minister may permit or assign to it by order published in theGazette.
 
@@ -336,13 +338,11 @@ the Council may, by notice in writing and without any compensation, do either or
 
 BUS, TAXI AND RAPID TRANSIT SYSTEM FARES
 
-[Act 29 of 1995 wef 01/09/1995]
-
-### Bus, taxi and rapid transit systems fares
+### Bus, taxi and rapid transit systems fares.
 
 20\.—(1) No person shall be entitled to demand and take any bus, taxi or rapid transit systems rate of hire or fare in excess of that approved by the Council.
 
-[Act 29 of 1995 wef 01/09/1995]
+[Act 29/95 wef 01/09/1995]
 
 (2) Subsection (1) shall not prevent any person from demanding or taking a lower rate of hire or fare than that approved by the Council.
 
@@ -352,6 +352,8 @@ BUS, TAXI AND RAPID TRANSIT SYSTEM FARES
 
 (5) Any person who refuses to pay the approved rate of hire or fare when lawfully demanded shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
 
+[Act 29/95 wef 01/09/1995]
+
 ### Matters to be considered by Council
 
 21\. In considering any application for approval of bus, taxi or rapid transit systems rate of hire or fare, the Council shall take into account —
@@ -360,7 +362,7 @@ BUS, TAXI AND RAPID TRANSIT SYSTEM FARES
 
 (b) the need for public interest to be safeguarded.
 
-[Act 29 of 1995 wef 01/09/1995]
+[Act 29/95 wef 01/09/1995]
 
 ## PART VI
 
@@ -376,7 +378,7 @@ MISCELLANEOUS PROVISIONS
 
 (c) prescribing the manner and form in which applications for bus, taxi and rapid transit systems fares shall be made; and
 
-[Act 29 of 1995 wef 01/09/1995]
+[Act 29/95 wef 01/09/1995]
 
 (d) regulating the procedure of the Council.
 
@@ -390,13 +392,15 @@ MISCELLANEOUS PROVISIONS
 
 ### Transitional provisions
 
-25\.—(1) Any licence granted under the repealed Bus Services Licensing Authority Act [1985 Ed., Cap. 31] shall be deemed to be a bus service licence granted under this Act, and shall, unless suspended or cancelled by the Council, be valid until the date of expiry specified in such licence.
+25\.—(1) Any licence granted under the repealed Bus Services Licensing Authority Act shall be deemed to be a bus service licence granted under this Act, and shall, unless suspended or cancelled by the Council, be valid until the date of expiry specified in such licence.
+
+[1985 Ed. Cap. 31]
 
 (2) Any security deposited with or bank guarantee furnished to the Bus Services Licensing Authority, established under the repealed Act, prior to 14th August 1987 shall be deemed to have been deposited with or furnished to the Accountant-General under this Act.
 
 [S 220/87]
 
-(3) Any rate of hire or fare prescribed for omnibuses and taxis under the Road Traffic Act [Cap. 276] prior to 14th August 1987 shall be deemed to be the rate of hire or fare approved for buses and taxis respectively under this Act and shall continue to apply until new rate of hire or fare is approved by the Council.
+(3) Any rate of hire or fare prescribed for omnibuses and taxis under the Road Traffic Act [Cap. 276] prior to 14th August 1987 shall be deemed to be rate of hire or fare approved for buses and taxis respectively under this Act and shall continue to apply until a new rate of hire or fare is approved by the Council.
 
 FIRST SCHEDULE
 
@@ -406,21 +410,19 @@ Constitution and Proceedings of Council
 
 Constitution of Council
 
-1. The Council shall consist of —
+1\. The Council shall consist of —
 
-(a) the chief executive officer of the Singapore Bus Service (1978) Ltd.;
+Constitution of Council
 
-(b) the chief executive officer to the Trans-Island Bus Services Ltd.;
+1.
 
-(c) the chief executive officer of every company licensed to operate a rapid transit system;
+(a) such number of representatives from public transport companies; and
 
-[Act 29 of 1995 wef 01/09/1995]
+(b) not more than 9 other members,
 
-(d) the chief executive officer of Comfort Transportation Pte Ltd; and
+to be appointed by the Minister.
 
-[S 432/1994 wef 07/03/1994]
-
-(e) not more than 9 other members appointed by the Minister.
+[S 59/98 wef 06/02/1998]
 
 Appointment of Chairman and Deputy Chairman
 
@@ -476,7 +478,7 @@ Financial Provisions
 
 Financial year of Council
 
-1. The financial year of the Council shall begin on 1st April of each year and end on 31st March of the succeeding year, except that the first financial year of the Council shall begin on 14th August 1987 and shall end on 31st March 1988.
+1. The financial year of the Council shall begin on 1st April of each year and end on 31st March of the succeeding year, except that the first financial year of the Council shall begin on 14th 1987 and shall end on 31st March 1988.
 
 [S 220/87]
 
@@ -539,3 +541,5 @@ This Legislative History is provided for the convenience of users of the Public 
 |||(Bill No. 25/95 published on 8 July 1995)|
 ||Date of Second and Third Readings|7 August 1995|
 ||Date of commencement|1 September 1995|
+|5.|**G.N. No. S 59/98—Public Transport Council Act (Amendment of First Schedule) Order 1998**|
+||Date of commencement|6 February 1998|
