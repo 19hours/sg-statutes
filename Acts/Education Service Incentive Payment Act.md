@@ -240,7 +240,9 @@ AUDIT AND ACCOUNTING
 
 16\.—(1) The accounts and annual financial statements of the Fund shall be audited by the Auditor-General or such other auditor as may be appointed annually by the Minister in consultation with the Auditor-General.
 
-(2) A person shall not be qualified for appointment as an auditor under subsection (1) unless he is an approved company auditor within the meaning of the Companies Act (Cap. 50).
+(2) A person shall not be qualified for appointment as an auditor under subsection (1) unless he is a public accountant within the meaning of the Companies Act (Cap. 50).
+
+[5/2004 wef 01/04/2004]
 
 (3) The remuneration of the auditor shall be charged upon the Fund.
 
@@ -290,7 +292,7 @@ Education Service Incentive Payment Act
 
 (CHAPTER 87B)
 
-This Legislative History is provided for the convenience of users of the Education Service Incentive Payment Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Education Service Incentive Payment Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -301,3 +303,9 @@ This Legislative History is provided for the convenience of users of the Educati
 ||Date of commencement|1 January 2002|
 |2.|**2002 Revised Edition—Education Service Incentive Payment Act**|
 ||Date of operation|31 July 2002|
+|3.|**Act 5 of 2004—Companies (Amendment) Act 2004**|
+||Date of First Reading|5 January 2004|
+|||(Bill No. 3/2004 published on 6 January 2004)|
+||Date of Second and Third Readings|6 February 2004|
+||Date of commencement|1 April 2004|
+|||(Item (4) of the Schedule — Amendment of Education Service Incentive Payment Act)|
