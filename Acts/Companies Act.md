@@ -28,7 +28,7 @@
 
 [**Part II ADMINISTRATION OF THIS ACT**](#Part-II)
 
-- [8 Registrar of Companies, etc.](#Registrar-of-Companies-etc)
+- [8 Administration of Act and appointment of Registrar of Companies, etc.](#Administration-of-Act-and-appointment-of-Registrar-of-Companies-etc)
 
 - [8A Inspection of books of corporation](#Inspection-of-books-of-corporation)
 
@@ -46,7 +46,7 @@
 
 - [8H Security of information](#Security-of-information)
 
-- [9 Company auditors and liquidators to be approved by Minister](#Company-auditors-and-liquidators-to-be-approved-by-Minister)
+- [9 Approved liquidators](#Approved-liquidators)
 
 - [10 Company auditors](#Company-auditors)
 
@@ -86,7 +86,7 @@
 
 [**Division 2  Powers**](#Division-2--Powers)
 
-- [23 Powers of a company](#Powers-of-a-company)
+- [23 Capacity and powers of company](#Capacity-and-powers-of-company)
 
 - [24 Power of company to provide for employees on cessation of business](#Power-of-company-to-provide-for-employees-on-cessation-of-business)
 
@@ -124,15 +124,17 @@
 
 - [41 Ratification by company of contracts made before incorporation](#Ratification-by-company-of-contracts-made-before-incorporation)
 
-- [42 (Repealed)](#Repealed)
+- [42 Prohibition of carrying on business with fewer than statutory minimum of members](#Prohibition-of-carrying-on-business-with-fewer-than-statutory-minimum-of-members)
 
 - [42A Company or foreign company with a charitable purpose which contravenes the Charities Act or regulations made thereunder may be wound up or struck off the register](#Company-or-foreign-company-with-a-charitable-purpose-which-contravenes-the-Charities-Act-or-regulations-made-thereunder-may-be-wound-up-or-struck-off-the-register)
 
 [**Part IV SHARES, DEBENTURES AND CHARGES**](#Part-IV)
 
-[**Division 1  Prospectuses**](#Division-1--Prospectuses)
+[**Division 2  Restrictions on allotment and commencement of business**](#Division-2--Restrictions-on-allotment-and-commencement-of-business)
 
-[**Subdivision (1) — Restrictions on allotment and commencement of business**](#Subdivision-1-—-Restrictions-on-allotment-and-commencement-of-business)
+- [57 (Repealed)](#Repealed)
+
+- [58 (Repealed)](#Repealed)
 
 - [59 Restriction on allotment in certain cases](#Restriction-on-allotment-in-certain-cases)
 
@@ -244,7 +246,25 @@
 
 - [96 Reissue of redeemed debentures](#Reissue-of-redeemed-debentures)
 
+- [97 (Repealed)](#Repealed)
+
+- [98 (Repealed)](#Repealed)
+
+- [99 (Repealed)](#Repealed)
+
 - [100 Power of Court in relation to certain irredeemable debentures](#Power-of-Court-in-relation-to-certain-irredeemable-debentures)
+
+- [101 (Repealed)](#Repealed)
+
+- [102 (Repealed)](#Repealed)
+
+- [103 (Repealed)](#Repealed)
+
+- [104 (Repealed)](#Repealed)
+
+- [105 (Repealed)](#Repealed)
+
+- [106 (Repealed)](#Repealed)
 
 [**Division 7  Title and transfers**](#Division-7--Title-and-transfers)
 
@@ -264,21 +284,23 @@
 
 - [128 Notice of refusal to register transfer](#Notice-of-refusal-to-register-transfer)
 
+- [128A Notice of transfer of shares](#Notice-of-transfer-of-shares)
+
 - [129 Certification of transfers](#Certification-of-transfers)
 
 - [130 Duties of company with respect to issue of certificates](#Duties-of-company-with-respect-to-issue-of-certificates)
 
-[**Division 7A  The Central Depository System — a book-entry or scripless system for the transfer of listed securities**](#Division-7A--The-Central-Depository-System-—-a-book-entry-or-scripless-system-for-the-transfer-of-listed-securities)
+[**Division 7A  The Central Depository System — a book-entry or scripless system for the transfer of securities**](#Division-7A--The-Central-Depository-System-—-a-book-entry-or-scripless-system-for-the-transfer-of-securities)
 
 - [130A Interpretation](#Interpretation)
 
-- [130B Application](#Application)
+- [130B Application of this Division](#Application-of-this-Division)
 
 - [130C Establishment of Central Depository System](#Establishment-of-Central-Depository-System)
 
 - [130D Depository not a member of a company and depositors deemed to be members](#Depository-not-a-member-of-a-company-and-depositors-deemed-to-be-members)
 
-- [130E Depository to certify names of depositors to company upon request](#Depository-to-certify-names-of-depositors-to-company-upon-request)
+- [130E Depository to certify names of depositors to corporation upon request](#Depository-to-certify-names-of-depositors-to-corporation-upon-request)
 
 - [130F Maintenance of accounts](#Maintenance-of-accounts)
 
@@ -334,7 +356,7 @@
 
 - [143 Office hours](#Office-hours)
 
-- [144 Publication of name](#Publication-of-name)
+- [144 Publication of name and registration number](#Publication-of-name-and-registration-number)
 
 [**Division 2  Directors and officers**](#Division-2--Directors-and-officers)
 
@@ -348,8 +370,6 @@
 
 - [149 Disqualification of unfit directors of insolvent companies](#Disqualification-of-unfit-directors-of-insolvent-companies)
 
-- [149A Disqualification of directors of companies wound up on grounds of national security or interest](#Disqualification-of-directors-of-companies-wound-up-on-grounds-of-national-security-or-interest)
-
 - [150 Appointment of directors to be voted on individually](#Appointment-of-directors-to-be-voted-on-individually)
 
 - [151 Validity of acts of directors and officers](#Validity-of-acts-of-directors-and-officers)
@@ -362,15 +382,23 @@
 
 - [155 Disqualification for persistent default in relation to delivery of documents to Registrar](#Disqualification-for-persistent-default-in-relation-to-delivery-of-documents-to-Registrar)
 
-- [156 Disclosure of interests in contracts, property, offices, etc.](#Disclosure-of-interests-in-contracts-property-offices-etc)
+- [156 Disclosure of interests in transactions, property, offices, etc.](#Disclosure-of-interests-in-transactions-property-offices-etc)
 
 - [157 As to the duty and liability of officers](#As-to-the-duty-and-liability-of-officers)
 
-- [158 (Repealed)](#Repealed)
+- [158 Disclosure of company information by certain directors](#Disclosure-of-company-information-by-certain-directors)
 
 - [159 Power of directors to have regard to interest of its employees, members and rulings of Securities Industry Council](#Power-of-directors-to-have-regard-to-interest-of-its-employees-members-and-rulings-of-Securities-Industry-Council)
 
 - [160 Approval of company required for disposal by directors of company’s undertaking or property](#Approval-of-company-required-for-disposal-by-directors-of-company’s-undertaking-or-property)
+
+- [160A (Repealed)](#Repealed)
+
+- [160B (Repealed)](#Repealed)
+
+- [160C (Repealed)](#Repealed)
+
+- [160D (Repealed)](#Repealed)
 
 - [161 Approval of company required for issue of shares by directors](#Approval-of-company-required-for-issue-of-shares-by-directors)
 
@@ -426,7 +454,7 @@
 
 - [185 Resolution requiring special notice](#Resolution-requiring-special-notice)
 
-- [186 Registration and copies of certain resolutionsand agreements](#Registration-and-copies-of-certain-resolutionsand-agreements)
+- [186 Registration and copies of certain resolutions](#Registration-and-copies-of-certain-resolutions)
 
 - [187 Resolutions at adjourned meetings](#Resolutions-at-adjourned-meetings)
 
@@ -454,6 +482,8 @@
 
 - [197 Annual return by a company having a share capital](#Annual-return-by-a-company-having-a-share-capital)
 
+- [198 (Repealed)](#Repealed)
+
 [**Part VI ACCOUNTS AND AUDIT**](#Part-VI)
 
 [**Division 1  Accounts**](#Division-1--Accounts)
@@ -466,7 +496,7 @@
 
 - [201 Accounts, consolidated accounts and directors’ report](#Accounts-consolidated-accounts-and-directors’-report)
 
-- [201A (Repealed)](#Repealed)
+- [201A Consolidated accounts not to be issued, etc., until receipt of accounts of subsidiaries](#Consolidated-accounts-not-to-be-issued-etc-until-receipt-of-accounts-of-subsidiaries)
 
 - [201B Audit committees](#Audit-committees)
 
@@ -492,9 +522,9 @@
 
 - [209A Interpretation](#Interpretation)
 
-- [209B (Repealed)](#Repealed)
+- [209B Application of amendments made to sections 201 to 204 and 207 and new sections 201A and 209A](#Application-of-amendments-made-to-sections-201-to-204-and-207-and-new-sections-201A-and-209A)
 
-[**Part VII ARRANGEMENTS, RECONSTRUCTIONS AND TAKE-OVERS**](#Part-VII)
+[**Part VII ARRANGEMENTS AND RECONSTRUCTIONS**](#Part-VII)
 
 - [210 Power to compromise with creditors and members](#Power-to-compromise-with-creditors-and-members)
 
@@ -502,9 +532,9 @@
 
 - [212 Provisions for facilitating reconstruction and amalgamation of companies](#Provisions-for-facilitating-reconstruction-and-amalgamation-of-companies)
 
-- [213 Take-over offers](#Take-over-offers)
+- [213 (Repealed)](#Repealed)
 
-- [214 Variation of take-over offers](#Variation-of-take-over-offers)
+- [214 (Repealed)](#Repealed)
 
 - [215 Power to acquire shares of shareholders dissenting from scheme or contract approved by 90% majority](#Power-to-acquire-shares-of-shareholders-dissenting-from-scheme-or-contract-approved-by-90%-majority)
 
@@ -886,28 +916,6 @@
 
 [**Part XI VARIOUS TYPES OF COMPANIES, ETC**](#Part-XI)
 
-[**Division 1  Investment Companies**](#Division-1--Investment-Companies)
-
-- [355 Interpretation of this Division](#Interpretation-of-this-Division)
-
-- [356 Restriction on borrowing by investment companies](#Restriction-on-borrowing-by-investment-companies)
-
-- [357 Restriction on investments of investment companies](#Restriction-on-investments-of-investment-companies)
-
-- [358 Restriction on underwriting by investment companies](#Restriction-on-underwriting-by-investment-companies)
-
-- [359 Special requirements as to articles and prospectus](#Special-requirements-as-to-articles-and-prospectus)
-
-- [360 Not to hold shares in other investment companies](#Not-to-hold-shares-in-other-investment-companies)
-
-- [361 Not to speculate in commodities](#Not-to-speculate-in-commodities)
-
-- [362 Balance-sheets and accounts](#Balance-sheets-and-accounts)
-
-- [363 Investment fluctuation reserve](#Investment-fluctuation-reserve)
-
-- [364 Penalties](#Penalties)
-
 [**Division 2  Foreign Companies**](#Division-2--Foreign-Companies)
 
 - [365 Foreign companies to which this Division applies](#Foreign-companies-to-which-this-Division-applies)
@@ -927,6 +935,8 @@
 - [372 Return to be filed where documents, etc., altered](#Return-to-be-filed-where-documents-etc-altered)
 
 - [373 Balance-sheets](#Balance-sheets)
+
+- [374 (Repealed)](#Repealed)
 
 - [375 Obligation to state name of foreign company, whether limited, and country where incorporated](#Obligation-to-state-name-of-foreign-company-whether-limited-and-country-where-incorporated)
 
@@ -984,6 +994,8 @@
 
 [**Division 2  Offences**](#Division-2--Offences)
 
+- [400 (Repealed)](#Repealed)
+
 - [401 False and misleading statement](#False-and-misleading-statement)
 
 - [402 False reports](#False-reports)
@@ -1004,6 +1016,8 @@
 
 - [409A Injunctions](#Injunctions)
 
+- [409B (Repealed)](#Repealed)
+
 [**Division 3  Miscellaneous**](#Division-3--Miscellaneous)
 
 - [410 Rules](#Rules)
@@ -1018,17 +1032,17 @@
 
 [**FOURTH SCHEDULE Table A**](#FOURTH-SCHEDULE-Table-A)
 
-[**FIFTH SCHEDULE Prospectus**](#FIFTH-SCHEDULE-Prospectus)
+[**FIFTH SCHEDULE**](#FIFTH-SCHEDULE)
 
 [**SIXTH SCHEDULE Statement in Lieu of Prospectus**](#SIXTH-SCHEDULE-Statement-in-Lieu-of-Prospectus)
 
-[**SEVENTH SCHEDULE Statement Required Pursuant to Division 6 of Part Iv**](#SEVENTH-SCHEDULE)
+[**SEVENTH SCHEDULE**](#SEVENTH-SCHEDULE)
 
 [**EIGHTH SCHEDULE Annual Return of A Company Having A Share Capital**](#EIGHTH-SCHEDULE-Annual-Return-of-A-Company-Having-A-Share-Capital)
 
-[**NINTH SCHEDULE Accounts and Consolidated Accounts**](#NINTH-SCHEDULE-Accounts-and-Consolidated-Accounts)
+[**NINTH SCHEDULE**](#NINTH-SCHEDULE)
 
-[**TENTH SCHEDULE Take-over Offers**](#TENTH-SCHEDULE-Take-over-Offers)
+[**TENTH SCHEDULE**](#TENTH-SCHEDULE)
 
 [**ELEVENTH SCHEDULE Powers of Judicial Manager**](#ELEVENTH-SCHEDULE-Powers-of-Judicial-Manager)
 
@@ -1256,6 +1270,10 @@ Division 3 — Miscellaneous sections 410-411.
 4\.—(1) In this Act, unless the contrary intention appears —
 
 “accounting records”, in relation to a corporation, includes such working papers and other documents as are necessary to explain the methods and calculations by which accounts of the corporation are made up;
+
+“Accounting Standards” means the Accounting Standards prescribed under section 200A(1)(a);
+
+[12/2002 wef 15/08/2002]
 
 “accounts” means profit and loss accounts and balance-sheets and includes notes (other than auditors’ reports or directors’ reports) attached or intended to be read with any of those profit and loss accounts or balance-sheets;
 
@@ -1515,10 +1533,6 @@ any shares in or debentures of, or any units of shares in or debentures of, a co
 
 ### Invitation to lend money deemed invitation to purchase debentures
 
-(5)
-
-[40/89]
-
 (5) For the purposes of this Act, any invitation to the public to deposit money with or lend money to a corporation (other than a prescribed corporation referred to in section 239(4) of the Securities and Futures Act 2001) shall be deemed to be an invitation to subscribe for or purchase debentures of the corporation.
 
 [42/2001 wef 01/07/2002]
@@ -1529,7 +1543,7 @@ any shares in or debentures of, or any units of shares in or debentures of, a co
 
 As to what constitutes an offer to the public
 
-(6)
+(6) [Deleted by Act 42/2001 wef 01/07/2002]
 
 (7) Unless the contrary intention appears any reference in this Act to a person being or becoming bankrupt or to a person assigning his estate for the benefit of his creditors or making an arrangement with his creditors under any written law relating to bankruptcy or to a person being an undischarged bankrupt or to any status, condition, act, matter or thing under or in relation to the law of bankruptcy shall be construed as including a reference to a person being or becoming bankrupt or insolvent or to a person making any such assignment or arrangement or to a person being an undischarged bankrupt or insolvent or to the corresponding status, condition, act, matter or thing (as the case requires) under any written law relating to bankruptcy or insolvency.
 
@@ -1663,15 +1677,15 @@ that first-mentioned corporation and that other corporation shall for the purpos
 
 (2) Where the property subject to a trust consists of or includes shares and a person knows or has reasonable grounds for believing that he has an interest under the trust and the property subject to the trust consists of or includes those shares, he shall be deemed to have an interest in those shares.
 
-(3) Where a right (being a right or an interest described in the definition of “interest” in section 107) —
+(3) A unit in a collective investment scheme within the meaning of section 2 of the Securities and Futures Act 2001 —
 
-(a) was issued or offered to the public for subscription or purchase, or where the public was invited to subscribe for or purchase such a right, and the right was so subscribed for or purchased; or
+(a) that is issued or offered to the public for subscription or purchase, or for which the public is invited to subscribe for or purchase, and that has been so subscribed or purchased; or
 
-(b) was issued for the purpose of an offer to the public by and is held by the management company within the meaning of that section,
+(b) that is issued for the purpose of an offer to the public by and is held by the manager concerned within the meaning of section 283 of that Act,
 
-that right does not constitute an interest in a share.
+does not constitute an interest in a share.
 
-[62/70]
+[42/2001 wef 01/07/2002]
 
 (4) Where a body corporate has, or is by the provisions of this section deemed to have, an interest in a share and —
 
@@ -1763,9 +1777,25 @@ that person shall be deemed to have an interest in that share.
 
 ADMINISTRATION OF THIS ACT
 
-### Registrar of Companies, etc.
+### Administration of Act and appointment of Registrar of Companies, etc.
 
-8\.—(1) The Minister may appoint a Registrar of Companies and such Deputy Registrars, Assistant Registrars, or such other officers and employees as he thinks necessary for the proper administration of this Act and may remove any persons so appointed.
+8\.—(1) The Authority shall be responsible for the administration of this Act, subject to the general or special directions of the Minister.
+
+[3/2004 wef 01/04/2004]
+
+(1A) The Minister may, after consultation with the Authority —
+
+(a) appoint an officer of the Authority to be the Registrar of Companies; and
+
+(b) from among the officers of the Authority, public officers and the officers of any other statutory board, appoint such number of Deputy Registrars and Assistant Registrars of Companies as he considers necessary,
+
+for the proper administration of this Act.
+
+[3/2004 wef 01/04/2004]
+
+(1B) The Authority may give to the Registrar such directions, not inconsistent with the provisions of this Act, as to the exercise of his powers, functions or duties under this Act, and the Registrar shall give effect to such directions.
+
+[3/2004 wef 01/04/2004]
 
 (2) Subject to the general direction and control of the Registrar and to such restrictions and limitations as may be prescribed, anything by this Act appointed or authorised or required to be done or signed by the Registrar may be done or signed by any such Deputy or Assistant Registrar and shall be as valid and effectual as if done or signed by the Registrar.
 
@@ -1786,6 +1816,10 @@ ADMINISTRATION OF THIS ACT
 (6) The Minister may by notification in theGazetteadd to, vary or amend the fees specified in the Second Schedule.
 
 [15/84]
+
+(6A) All fees collected by the Registrar under this Act shall be paid into the funds of the Authority.
+
+[3/2004 wef 01/04/2004]
 
 (7) The Minister may by notification in theGazetteadd to, vary or amend the Eighth Schedule in relation to the contents of the annual return of a company having a share capital.
 
@@ -1911,29 +1945,27 @@ ADMINISTRATION OF THIS ACT
 
 [13/87]
 
-### Company auditors and liquidators to be approved by Minister
+### Approved liquidators
 
-9\.—(1) Any person may apply to the Minister to be approved as a company auditor for the purposes of this Act.
+9\.—(1) The Minister may, by order published in theGazette, declare that persons within a specified class of persons shall be approved liquidators for the purposes of this Act.
 
-(2) The Minister may, if he is satisfied that the applicant is of good of character and competent to perform the duties of an auditor under this Act, upon payment of the fee set out in the Second Schedule approve such person as a company auditor for the purposes of this Act.
+(2) Any person who does not fall within a class of persons declared under subsection (1) may apply to the Minister to be approved as a liquidator for the purposes of this Act, and the Minister, if satisfied as to the experience and capacity of the applicant, may, on payment of the fee set out in the Second Schedule, approve such person as a liquidator for the purposes of this Act.
 
-(3) Any approved company auditor may apply to the Minister to be approved as a liquidator for the purposes of this Act, and the Minister, if satisfied as to the experience and capacity of the applicant, may on payment of the fee set out in the Second Schedule, approve such person as a liquidator for the purposes of this Act.
+(3) Any approval granted by the Minister under subsection (2) may be made subject to such limitations or conditions as he thinks fit and may be revoked at any time by him by the service of a written notice of revocation on the approved person.
 
-(4) Any approval granted by the Minister pursuant to this section may be made subject to such limitations or conditions as he thinks fit and may be revoked at any time by him by the service of a notice of revocation on the approved person.
+(4) Every approval under subsection (2) including a renewal of approval of a liquidator shall remain in force until 31st March in the third year following the year in which the approval was granted unless sooner revoked by the Minister.
 
-(5) Every approval under this section including a renewal of approval of a company auditor or liquidator shall be in force until 31st March in the third year following the year in which the approval was granted unless sooner revoked by the Minister.
+(5) The Minister may delegate his power under subsection (2) to any person charged with the responsibility for the registration or control of accountants in Singapore.
 
-(6) The Minister may delegate all or any of his powers under this section to any person or body of persons charged with the responsibility for the registration or control of accountants in Singapore.
+(6) Any person who is dissatisfied with the decision of any person to whom the Minister has delegated his power under subsection (2) may appeal to the Minister who may in his discretion confirm, reverse or vary such decision.
 
-(7) Any person who is dissatisfied with the decision of any person or body of persons to whom the Minister has delegated all or any of his powers under this section may appeal to the Minister who may in his discretion confirm, reverse or vary such decision.
-
-[Aust.s.8.]
+[5/2004 wef 01/04/2004]
 
 ### Company auditors
 
-10\.—(1) A person shall not knowingly consent to be appointed, and shall not knowingly act, as auditor for any company and shall not prepare, for or on behalf of a company, any report required by this Act to be prepared by an approved company auditor —
+10\.—(1) A person shall not knowingly consent to be appointed, and shall not knowingly act, as auditor for any company and shall not prepare, for or on behalf of a company, any report required by this Act to be prepared by an auditor of the company —
 
-(a) if he is not an approved company auditor;
+(a) if he is not a public accountant;
 
 (b) if he is indebted to the company or to a corporation that is deemed to be related to that company by virtue of section 6 in an amount exceeding $2,500;
 
@@ -1955,27 +1987,61 @@ ADMINISTRATION OF THIS ACT
 
 (4) For the purposes of this section, a person shall not be deemed to be an officer by reason only of his having been appointed as auditor of a corporation.
 
-(5) A firm shall not knowingly consent to be appointed, and shall not knowingly act, as auditor for any company and shall not prepare, for or on behalf of a company, any report required by this Act to be prepared by an approved company auditor unless —
-
-(a) all the partners of the firm resident in Singapore are approved company auditors and have lodged a return with the Registrar showing the full names and addresses of all the partners of the firm within one month from the beginning of a calendar year or, if there is a change of partners or their addresses during a calendar year, within one month of the date that the change occurs and, where the firm is not registered as a firm under any law for the time being in force, a return showing the full names and addresses of all the partners of the firm has been lodged with the Registrar; and
-
-(b) no partner is disqualified under subsection (1)(b), (c) or (d) from acting as the auditor of the company.
-
-[15/84]
-
 (5) An accounting firm shall not knowingly consent to be appointed, and shall not knowingly act, as auditor for any company and shall not prepare, for or on behalf of a company, any report required by this Act to be prepared by an auditor of the company if any partner of the firm (whether or not he is a public accountant) is a person described in subsection (1)(b), (c) or (d).
 
 [5/2004 wef 01/04/2004]
 
-(6) If a firm contravenes subsection (5) each partner of the firm shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
+(6) If an accounting firm contravenes subsection (5), every partner of the firm shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
 
-[15/84]
+[5/2004 wef 01/04/2004]
 
-(7) No company or person shall appoint a person as auditor of a company unless that last-mentioned person has prior to such appointment consented in writing to act as such auditor, and no company or person shall appoint a firm as auditor of a company unless the firm has prior to such appointment consented, in writing under the hand of at least one partner of the firm, to act as such auditor.
+(7) An accounting corporation shall not knowingly consent to be appointed, and shall not knowingly act, as auditor for any company and shall not prepare, for or on behalf of a company, any report required by this Act to be prepared by an auditor of the company if —
 
-(8) The appointment of a firm in the name of the firm as auditors of a company shall take effect and operate as an appointment as auditors of the company of the persons who are members of that firm at the time of the appointment.
+(a) any director of the corporation (whether or not he is a public accountant); or
 
-[Aust.s.9.]
+(b) any employee of the corporation, who is a public accountant and practising as such in that corporation,
+
+is a person described in subsection (1)(b), (c) or (d).
+
+[5/2004 wef 01/04/2004]
+
+(8) If an accounting corporation contravenes subsection (7) —
+
+(a) the corporation; and
+
+(b) the director or employee who caused the contravention,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
+
+[5/2004 wef 01/04/2004]
+
+(9) No company or person shall appoint any individual as auditor of a company unless the individual has prior to such appointment consented in writing to act as auditor of that company.
+
+[5/2004 wef 01/04/2004]
+
+(10) No company or person shall appoint any accounting firm or accounting corporation as auditor of a company unless the firm or corporation has prior to such appointment consented, in writing under the hand of at least one partner of the firm or director of the corporation, as the case may be, to act as auditor of that company.
+
+[5/2004 wef 01/04/2004]
+
+(11) Where an accounting firm is appointed as the auditor of a company in the name of the firm, such appointment shall take effect and operate as if the partners of the firm at the time of the appointment, who are public accountants at that time, have been appointed as auditors of the company.
+
+[5/2004 wef 01/04/2004]
+
+(12) Where an accounting corporation is appointed as the auditor of a company in the name of the corporation, such appointment shall take effect and operate as if the directors and employees of the corporation who are practising as public accountants in that corporation have been appointed as auditors of the company.
+
+[5/2004 wef 01/04/2004]
+
+(13) Subsection (12) shall apply to a director or an employee practising as a public accountant in an accounting corporation, even if his appointment as director or employment with the corporation commenced after the date on which the corporation was appointed as auditor of the company.
+
+[5/2004 wef 01/04/2004]
+
+(14) In this section —
+
+“accounting corporation” means a company approved or deemed to be approved as an accounting corporation under the Accountants Act 2004;
+
+“accounting firm” means a firm approved or deemed to be approved as an accounting firm under the Accountants Act 2004.
+
+[5/2004 wef 01/04/2004]
 
 ### Disqualification of liquidators
 
@@ -2043,6 +2109,10 @@ ADMINISTRATION OF THIS ACT
 
 [22/93]
 
+(2B) Notwithstanding the cancellation of any notification referred to in subsection (2A) in respect of a company, subsection (2) shall not apply to any document or certificate relating to that company that is filed or lodged with the Registrar, or issued under the Act, before the date of such cancellation, whether or not that company remains an exempt private company wholly owned by the Government, and whether or not it has been wound up.
+
+[12/2002 wef 13/01/2003]
+
 ### Evidentiary value of copies certified by Registrar
 
 (3) A copy of or extract from any document, including a copy produced by way of microfilm or electronic medium, filed or lodged at the office of the Registrar certified to be a true copy or extract under the hand and seal of the Registrar shall in any proceedings be admissible in evidence as of equal validity with the original document.
@@ -2097,21 +2167,55 @@ he may refuse to register or receive the document and request that the document 
 
 ### Filing service
 
-12A\.—(1) Where the Registry of Companies provides a service, whether before or after 15th May 1987, for the use of subscribers, whereby documents required under this Act may be filed electronically with the Registry, neither the Government nor any of its employees nor any authorised agents shall be liable for any loss or damage, suffered by any person by reason of any errors or omissions, of whatever nature or however caused, appearing in any document obtained by any person under the service if such errors or omissions are made in good faith and in the ordinary course of the discharge of the duties of these employees or authorised agents or have occurred or arisen as a result of any defect or breakdown in the service or in any of the equipment used for the service.
+12A\.—(1) Where the Registry of Companies provides a service whereby documents under this Act may be filed or lodged with or submitted to the Registrar electronically, neither the Government nor any of its employees nor any authorised agents shall be liable for any loss or damage, suffered by any person by reason of any errors or omissions, of whatever nature or however caused, appearing in any document obtained by any person under the service if such errors or omissions are made in good faith and in the ordinary course of the discharge of the duties of these employees or authorised agents or have occurred or arisen as a result of any defect or breakdown in the service or in any of the equipment used for the service.
+
+(1A) The Minister may by regulations permit or require any document —
+
+(a) to be filed or lodged with or submitted to the Registrar under this Act; or
+
+(b) to be issued by the Registrar under this Act,
+
+to be filed, lodged, submitted or issued using the service referred to in subsection (1).
+
+[12/2002 wef 13/01/2003]
+
+(1B) The regulations under subsection (1A) may —
+
+(a) permit or require such document to be lodged, filed or submitted by a prescribed person on behalf of the person concerned under specified circumstances; and
+
+(b) contain such transitional and other supplementary and incidental provisions as appear to the Minister to be appropriate.
+
+[12/2002 wef 13/01/2003]
 
 ### Evidentiary value of copies of electronically filed documents certified by Registrar
 
-(2) A copy of or extract from any document electronically filed with the Registry of Companies under subsection (1) supplied or issued by the Registrar and certified to be a true copy or extract thereof under the hand and seal of the Registrar shall in any proceedings be admissible in evidence as of equal validity with the original document.
+(2) A copy of or extract from any document electronically filed or lodged with or submitted to the Registrar under subsection (1) supplied or issued by the Registrar and certified to be a true copy or extract thereof under the hand and seal of the Registrar shall in any proceedings be admissible in evidence as of equal validity with the original document.
 
 ### Certificate in respect of documents filed electronically
 
 (3) The Registrar may require a certificate, in respect of any document to be filed electronically, from the party filing the document certifying to the effect that any stamp fee payable for the document has been duly paid and that he has witnessed the signing and execution of the document or that the document has been duly signed and executed by the person concerned and that such signing or execution has been duly witnessed by a notary public or a solicitor or approved company auditor or a person with such other qualifications as may be prescribed for the purposes of this section. The Registrar may require the production of any document that has been signed and executed under this subsection.
 
+Any information supplied by the Registrar that is certified by the Registrar under his hand and seal to be a true extract from any document filed or lodged with or submitted to the Registrar using the service referred to in subsection (1) shall in any proceedings be admissible in evidence and be presumed, unless evidence to the contrary is adduced, to be a true extract from such document.
+
+[12/2002 wef 13/01/2003]
+
+[13/87]
+
+[22/93]
+
+(4) Subsections (2) and (3) have effect notwithstanding the provisions of any other written law.
+
+[12/2002 wef 13/01/2003]
+
+(5) In this section, “document” means any application, form, report, certification, notice, confirmation, declaration or other document to be filed or lodged with or submitted to the Registrar or, as the case may be, any certificate, notice or other document to be issued by the Registrar.
+
+[12/2002 wef 13/01/2003]
+
 ### Rectification of register
 
 12B\.—(1) Where it appears to the Court, as a result of evidence adduced before it by an applicant company, that any particular recorded in a register is erroneous or defective, the Court may, by order, direct the Registrar to rectify the register on such terms and conditions as seem to the Court just and expedient, as are specified in the order and the Registrar shall, upon receipt of the order, rectify the register accordingly.
 
-(2) An order of the Court made under subsection (1) shall require that a fresh document, showing the rectification, shall be filed by the applicant company with the Registrar together with a copy of the Court order, a copy of the court application and the affidavits in support thereof .
+(2) An order of the Court made under subsection (1) may require that a fresh document, showing the rectification, shall be filed by the applicant company with the Registrar together with a copy of the Court order, and a copy of the Court application.
 
 (3) Notwithstanding subsections (1) and (2), an officer of a company may notify the Registrar in the prescribed form of any typographical or clerical error contained in any document relating to the company lodged with the Registrar.
 
@@ -2203,7 +2307,9 @@ Incorporation
 
 ### Formation of companies
 
-17\.—(1) Subject to this Act, any two or more persons associated for any lawful purpose may by subscribing their names to a memorandum and complying with the requirements as to registration form an incorporated company.
+17\.—(1) Subject to the provisions of this Act, any person may, whether alone or together with another person, by subscribing his name or their names to a memorandum and complying with the requirements as to registration, form an incorporated company.
+
+[5/2004 wef 01/04/2004]
 
 (2) A company may be —
 
@@ -2217,7 +2323,7 @@ Incorporation
 
 (3) No company, association or partnership consisting of more than 20 persons shall be formed for the purpose of carrying on any business that has for its object the acquisition of gain by the company, association or partnership, or by the individual members thereof, unless it is registered as a company under this Act, or is formed in pursuance of some other written law in Singapore or letters patent.
 
-(4) So much of subsection (3) as prohibits the formation of an association or a partnership consisting of more than 20 persons shall not apply to an association or a partnership formed for the purpose of carrying on any profession or calling which under the provisions of any written law may be exercised only by persons who possess the qualifications laid down in such written law for the purpose of carrying on that profession or calling.
+(4) So much of subsection (3) as prohibits the formation of an association or a partnership consisting of more than 20 persons shall not apply to an association or a partnership formed solely or mainly for the purpose of carrying on any profession or calling which under the provisions of any written law may be exercised only by persons who possess the qualifications laid down in such written law for the purpose of carrying on that profession or calling.
 
 [15/84]
 
@@ -2249,17 +2355,17 @@ Incorporation
 
 (a) restricts the right to transfer its shares; and
 
-(b) limits to not more than 50 the number of its members (counting joint holders of shares as one person and not counting any person in the employment of the company or of its subsidiary or any person who while previously in the employment of the company or of its subsidiary was and thereafter has continued to be a member of the company);
+(b) limits to not more than 50 the number of its members (counting joint holders of shares as one person and not counting any person in the employment of the company or of its subsidiary or any person who while previously in the employment of the company or of its subsidiary was and thereafter has continued to be a member of the company) .
 
 (c) [Deleted by Act 5/2004 wef 01/04/2004]
 
 (d) [Deleted by Act 5/2004 wef 01/04/2004]
 
-(2) Where, on 29th December 1967, neither the memorandum nor articles of a company that is a private company by virtue of paragraph (a) ofthe definition of “private company” in section 4(1) contain the restrictions and limitations required by subsection (1) to be included in the memorandum or articles of a company that may be incorporated as a private company, the articles of the company shall be deemed to include each such restriction or limitation that is not so included and a restriction on the right to transfer its shares that is so deemed to be included in its articles shall be deemed to be a restriction that prohibits the transfer of shares except to a person approved by the directors of the company.
+(2) Where, on 29th December 1967, neither the memorandum nor articles of a company that is a private company by virtue of paragraph (a) ofthe definition of “private company” in section 4(1) contain the restrictions, limitations and prohibitions required by subsection (1) to be included in the memorandum or articles of a company that may be incorporated as a private company, the articles of the company shall be deemed to include each such restriction, limitation or prohibition that is not so included and a restriction on the right to transfer its shares that is so deemed to be included in its articles shall be deemed to be a restriction that prohibits the transfer of shares except to a person approved by the directors of the company.
 
 [S 258/67]
 
-(3) Where a restriction, limitation or prohibition deemed to be included in the articles of a company under subsection (2) is inconsistent with any provision already included in the memorandum or articles of the company, that restriction or limitation shall, to the extent of the inconsistency, prevail.
+(3) Where a restriction, limitation or prohibition deemed to be included in the articles of a company under subsection (2) is inconsistent with any provision already included in the memorandum or articles of the company, that restriction, limitation or prohibition shall, to the extent of the inconsistency, prevail.
 
 (4) A private company may, by special resolution, alter any restriction on the right to transfer its shares included, or deemed to be included, in its memorandum or articles or any limitation on the number of its members included, or deemed to be included, in its memorandum or articles, but not so that the memorandum and articles of the company cease to include the limitation required by subsection (1)(b) to be included in the memorandum or articles of a company that may be incorporated as a private company.
 
@@ -2281,7 +2387,7 @@ Incorporation
 
 (2) Either —
 
-(a) an advocate and solicitor, accountant or prescribed person, engaged in the formation of the proposed company; or
+(a) a prescribed person engaged in the formation of the proposed company; or
 
 (b) a person named in the articles as a director or the secretary of the proposed company,
 
@@ -2377,6 +2483,8 @@ as the case may be, and where applicable, that it is a private company.
 
 (b) [Deleted by Act 5/2004 wef 01/04/2004]
 
+(c) unless the company is an unlimited company, the amount of share capital, if any, with which the company proposes to be registered and the division thereof into shares of a fixed amount;
+
 (d) if the company is a company limited by shares, that the liability of the members is limited;
 
 (e) if the company is a company limited by guarantee, that the liability of the members is limited and that each member undertakes to contribute to the assets of the company, in the event of its being wound up while he is a member or within one year after he ceases to be a member, for payment of the debts and liabilities of the company contracted before he ceases to be a member and of the costs, charges and expenses of winding up and for adjustment of the rights of the contributories among themselves, such amount as may be required not exceeding a specified amount;
@@ -2386,16 +2494,6 @@ as the case may be, and where applicable, that it is a private company.
 (g) the full names, addresses and occupations of the subscribers thereto; and
 
 (h) that such subscribers are desirous of being formed into a company in pursuance of the memorandum and (where the company is to have a share capital) respectively agree to take the number of shares in the capital of the company set out opposite their respective names.
-
-(1A) On the date of commencement of section 8(b) of the Companies (Amendment) Act 2005, any provision (or part thereof) then subsisting in the memorandum of any company which states —
-
-(a) the amount of share capital with which the company proposes to be or is registered; or
-
-(b) the division of the share capital of the company into shares of a fixed amount,
-
-shall, in so far as it relates to the matters referred to in either or both of paragraphs (a) and (b), be deemed to be deleted.
-
-[21/2005 wef 30/01/2006]
 
 (2) Each subscriber to the memorandum shall, if the company is to have a share capital, make a declaration to the Registrar, either by himself or through a prescribed person authorised by him, as to the number of shares (not being less than one) that he agrees to take.
 
@@ -2413,15 +2511,23 @@ Division 2 —
 
 Powers
 
-### Powers of a company
+### Capacity and powers of company
 
-23\.—(1) Subject to subsection (2), the powers of a company, whether incorporated before or after 29th December 1967, shall include —
+23\.—(1) Subject to the provisions of this Act and any other written law and its memorandum or articles of association, a company has —
 
-(a) power to make donations for patriotic or for charitable purposes;
+(a) full capacity to carry on or undertake any business or activity, do any act or enter into any transaction; and
 
-(b) power to transact any lawful business in aid of Singapore in the prosecution of any war or hostilities in which Singapore is engaged; and
+(b) for the purposes of paragraph (a), full rights, powers and privileges.
 
-(c) unless expressly excluded or modified by the memorandum or articles, the powers set forth in the Third Schedule but the powers of a company which has by the approval of the Minister pursuant to section 29 been registered without the word “Limited” or “Berhad” or pursuant to any corresponding previous written law been registered without the addition of the word “Limited” to its name shall not include any of the powers set forth in the Third Schedule unless expressly included in the memorandum or articles with the approval of the Minister.
+[5/2004 wef 01/04/2004]
+
+(1A) A company may have the objects of the company included in its memorandum.
+
+[5/2004 wef 01/04/2004]
+
+(1B) The memorandum or articles of association of a company may contain a provision restricting its capacity, rights, powers or privileges.
+
+[5/2004 wef 01/04/2004]
 
 ### Restriction as to power of certain companies to hold lands
 
@@ -2467,7 +2573,17 @@ Powers
 
 ### General provisions as to alteration of memorandum
 
-26\.—(1) The memorandum of a company may be altered to the extent and in the manner provided by this Act but not otherwise.
+26\.—(1) Unless otherwise provided in this Act, the memorandum of a company may be altered by special resolution.
+
+[5/2004 wef 01/04/2004]
+
+(1A) Subsection (1) is subject to section 26A and to any provision included in the memorandum of a company in accordance with that section.
+
+[5/2004 wef 01/04/2004]
+
+(1B) Notwithstanding subsection (1), a provision contained in the memorandum of a company immediately before the date of commencement of the Companies (Amendment) Act 2004 and which could not be altered under the provisions of this Act in force immediately before that date, may be altered only if all the members of the company agree.
+
+[5/2004 wef 01/04/2004]
 
 (2) In addition to observing and subject to any other provision of this Act requiring the lodging with the Registrar of any resolution of a company or order of the Court or other document affecting the memorandum of a company, the company shall within 14 days after the passing of any such resolution or the making of any such order lodge with the Registrar a copy of such resolution or other document or a copy of such order together with (unless the Registrar dispenses therewith) a copy of the memorandum as altered, and if default is made in complying with this subsection the company and every officer of the company who is in default shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and also to a default penalty.
 
@@ -2501,17 +2617,17 @@ Powers
 
 (d) is a name of a kind that the Minister has directed the Registrar not to accept for registration.
 
-(2) Notwithstanding anything in this section and section 28 (other than section 28(4)), where the Registrar is satisfied that the company has been registered (whether through inadvertence or otherwise and whether before, on or after the date of commencement of section 9(a) of the Companies (Amendment) Act 2005) by a name —
+(2) Notwithstanding anything in this section and section 28 (other than section 28(4)), where the Registrar is satisfied that the company has been registered (whether through inadvertence or otherwise) by a name which —
 
-(a) which is referred to in subsection (1);
+(a) is a name referred to in subsection (1)(a), (b) or (d); or
 
-(b) which so nearly resembles the name of another company or corporation or a business name as to be likely to be mistaken for it; or
+(b) so nearly resembles the name of any other company or limited liability partnership or corporation, or a business name, as to be likely to be mistaken for it,
 
-(c) the use of which has been restrained by an injunction granted under the Trade Marks Act (Cap. 332),
+[5/2005 wef 11/04/2005]
 
 the Registrar may direct the first-mentioned company to change its name, and the company shall comply with the direction within 6 weeks after the date of the direction or such longer period as the Registrar may allow, unless the direction is annulled by the Minister.
 
-[21/2005 wef 30/01/2006]
+[12/2002 wef 13/01/2003]
 
 (2A) Any person may apply, in writing, to the Registrar to give a direction to a company under subsection (2) on a ground referred to in that subsection; but the Registrar shall not consider any application to give a direction to a company on the ground referred to in subsection (2)(b) unless the Registrar receives the application within 12 months from the date of incorporation of the company.
 
@@ -2540,10 +2656,6 @@ the Registrar may direct the first-mentioned company to change its name, and the
 (5) A company aggrieved by the decision of the Registrar under subsection (2) or (2C) may within 30 days of the date of the decision appeal to the Minister whose decision shall be final.
 
 [15/84]
-
-(5A) For the avoidance of doubt, where the Registrar makes a decision under subsection (2) or the Minister makes a decision under subsection (5), he shall accept as correct any decision of the High Court to grant an injunction referred to in subsection (2)(c).
-
-[21/2005 wef 30/01/2006]
 
 (6) The Minister shall cause a direction given by him under subsection (1) to be published in theGazette.
 
@@ -2607,7 +2719,9 @@ he shall reserve the proposed name for a period of two months from the date of t
 
 (a) a name by which the company could not be registered without contravention of section 27(1); or
 
-(b) a name that so nearly resembles the name of another company or corporation or a business name as to be likely to be mistaken for it,
+(b) a name that so nearly resembles the name of any other company or limited liability partnership or corporation, or a business name, as to be likely to be mistaken for it,
+
+[5/2005 wef 11/04/2005]
 
 the company may by special resolution change its name to a name that is not a name referred to in paragraph (a) or (b) and, if the Registrar so directs, shall so change it within 6 weeks after the date of the direction or such longer period as the Registrar may allow, unless the direction is annulled by the Minister.
 
@@ -2663,7 +2777,7 @@ the Minister may grant his approval to the company to change its name to a name 
 
 (6) Any approval granted under this section may at any time be revoked by the Minister and, upon revocation, the Registrar shall enter the word “Limited” or “Berhad” at the end of the name of the company upon the register, and the company shall thereupon cease to enjoy the exemption granted by reason of the approval under this section but before the approval is so revoked the Minister shall give to the company notice in writing of his intention and shall afford it an opportunity to be heard.
 
-(7) Where the approval of the Minister under this section is revoked the memorandum or articles of the company may be altered by special resolution so as to remove any provision in or to the effect that the memorandum or articles may be altered only with the consent of the Ministerand section 23(1)(c) shall apply to the company as if it had never had such approval under this section.
+(7) Where the approval of the Minister under this section is revoked the memorandum or articles of the company may be altered by special resolution so as to remove any provision in or to the effect that the memorandum or articles may be altered only with the consent of the Minister.
 
 [U.K.s.19.]
 
@@ -2685,19 +2799,23 @@ the Minister may grant his approval to the company to change its name to a name 
 
 (b) a limited company may convert to an unlimited company if it was not previously an unlimited company that became a limited company in pursuance of paragraph (a) or any corresponding previous written law.
 
-(2) Where a company applies in writing to the Registrar for a change of status as provided by subsection (1) and, subject to section 33(8) and (9) as applied by subsection (7), lodges with the application the prescribed documents relating to the application, the Registrar shall, upon registration of such prescribed documents so lodged as are registrable under this Act, issue to the company a certificate of incorporation —
+(2) Where a company applies to the Registrar for a change of status as provided by subsection (1) and, subject to section 33(8) and (9) as applied by subsection (7), lodges with the application the prescribed documents relating to the application, the Registrar shall, upon registration of such prescribed documents so lodged as are registrable under this Act, issue to the company a notice of incorporation —
 
 (a) appropriate to the change of status applied for; and
 
-(b) specifying, in addition to the particulars prescribed in respect of a certificate of incorporation of a company of that status, that the certificate is issued in pursuance of this section,
+(b) specifying, in addition to the particulars prescribed in respect of a notice of incorporation of a company of that status, that the notice is issued in pursuance of this section,
 
-and, upon the issue of such a certificate of incorporation , the company shall be deemed to be a company having the status specified therein.
+and, upon the issue of such a notice of incorporation, the company shall be deemed to be a company having the status specified therein.
 
 (3) Where the status of a company is changed in pursuance of this section, notice of the change of status shall be published in such manner, if any, as the Registrar may direct.
 
+(3A) Upon the application of the company and payment of the prescribed fee, the Registrar shall issue to the company a certificate, under his hand and seal, confirming the incorporation of the company with the new status.
+
+[12/2002 wef 13/01/2003]
+
 (4) In subsection (2), “prescribed documents”, in relation to an application referred to in that subsection, means —
 
-(a) a printed copy of a special resolution of the company —
+(a) a copy of a special resolution of the company —
 
 (i) resolving to change the status of the company and specifying the status sought;
 
@@ -2709,17 +2827,17 @@ and, upon the issue of such a certificate of incorporation , the company shall b
 
 (v) changing the name of the company to a name by which it could be registered if it were a company of the status sought;
 
-(b) where, by a special resolution referred to in paragraph (a), the memorandum of the company is altered or the articles of the company are altered or added to, or articles are adopted by the company — a printed copy of the memorandum as altered, the articles as altered or added to, or the articles adopted, as the case may be; and
+(b) where, by a special resolution referred to in paragraph (a), the memorandum of the company is altered or the articles of the company are altered or added to, or articles are adopted by the company — a copy of the memorandum as altered, the articles as altered or added to, or the articles adopted, as the case may be; and
 
 (c) in the case of an application by a limited company to convert to an unlimited company —
 
 (i) the prescribed form of assent to the application subscribed by or on behalf of all the members of the company; and
 
-(ii) a statutory declaration by a director or secretary of the company verifying that the persons by whom or on whose behalf such a form of assent is subscribed constitute the whole membership of the company and, if a member has not subscribed the form himself, that the director or the secretary making the declaration has taken all reasonable steps to satisfy himself that each person who subscribed the form was lawfully empowered to do so.
+(ii) a declaration by or on behalf of a director or the secretary of the company, or a prescribed person authorised by the company, verifying that the persons by whom or on whose behalf such a form of assent is subscribed constitute the whole membership of the company and, if a member has not subscribed the form himself, that the director, secretary or prescribed person making the declaration has taken all reasonable steps to satisfy himself that each person who subscribed the form was lawfully empowered to do so.
 
 (5) Section 26(2) to (6) shall not apply to or in relation to an application under this section or to any prescribed documents in relation to the application.
 
-(6) A special resolution passed for the purposes of an application under this section shall take effect only upon the issue under this section of a certificate of incorporation of the company to which the resolution relates.
+(6) A special resolution passed for the purposes of an application under this section shall take effect only upon the issue under this section of a notice of incorporation of the company to which the resolution relates.
 
 (7) With such modifications as may be necessary, section 33 (except subsection (1) thereof) applies to and in respect of the proposal, passing and lodging, and the cancellation or confirmation by the Court, of a special resolution relating to a change of status as if it were a special resolution under that section.
 
@@ -2743,7 +2861,7 @@ any legal proceedings that could have been continued or commenced by or against 
 
 (a) determining to convert to a private company and specifying an appropriate alteration to its name; and
 
-(b) altering the provisions of its memorandum or articles so far as is necessary to impose the restrictions, limitations and prohibitions referred to in section 18(1).
+(b) altering the provisions of its memorandum or articles so far as is necessary to impose the restrictions and limitations referred to in section 18(1).
 
 ### Change from private to public company
 
@@ -2755,7 +2873,7 @@ any legal proceedings that could have been continued or commenced by or against 
 
 (c) a declaration in the prescribed form verifying that section 61(2) (b) has been complied with,
 
-and thereupon the restrictions, limitations and prohibitions referred to in section 18(1) as included in or deemed to be included in the memorandum or articles of such company shall cease to form part of the memorandum or articles.
+and thereupon the restrictions and limitations referred to in section 18(1) as included in or deemed to be included in the memorandum or articles of such company shall cease to form part of the memorandum or articles.
 
 (3) On compliance by a company with subsection (1) or (2) and on the issue of a notice of incorporation of the company altered accordingly the company shall be a private company or a public company (as the case requires).
 
@@ -2773,9 +2891,7 @@ and thereupon the restrictions, limitations and prohibitions referred to in sect
 
 ### Default in complying with requirements as to private companies
 
-32\. 
-
-—(1) [Deleted by Act 5/2004 wef 01/04/2004]
+32\.—(1) [Deleted by Act 5/2004]
 
 (2) Where —
 
@@ -2797,9 +2913,11 @@ the Registrar may by notice served on the company determine that, on such date a
 
 (c) the company shall, within a period of 14 days after the date of the order or the notice, lodge with the Registrar —
 
-(i) a statement in lieu of prospectus; and
+(i) a statement in lieu of prospectus;
 
-(ii) a declaration in the prescribed form verifying that section 61(2)(b) has been complied with.
+(ii) a declaration in the prescribed form verifying that section 61(2)(b) has been complied with; and
+
+(iii) where an order has been made under subsection (1) a copy of the order.
 
 (4) Where the Court is satisfied that a default or alteration referred to in subsection (2) has occurred but that it was accidental or due to inadvertence or to some other sufficient cause or that on other grounds it is just and equitable to grant relief, the Court may, on such terms and conditions as to the Court seem just and expedient, determine that the company has not ceased to be a private company.
 
@@ -2823,7 +2941,7 @@ the Registrar may by notice served on the company determine that, on such date a
 
 ### Alterations of objects in memorandum
 
-33\.—(1) Subject to this section, a company may by special resolution alter the provisions of its memorandum with respect to the objects of the company.
+33\.—(1) Subject to this section, a company may by special resolution alter the provisions of its memorandum with respect to the objects of the company, if any.
 
 (2) Where a company proposes to alter its memorandum, with respect to the objects of the company, it shall give by post 21 days’ written notice specifying the intention to propose the resolution as a special resolution and to submit it for passing to a meeting of the company to be held on a day specified in the notice.
 
@@ -2863,6 +2981,10 @@ the alteration shall not have effect except so far as it is confirmed by the Cou
 
 [Aust. s. 28.]
 
+(11) For the avoidance of doubt, a reference in this section to the alteration of any provision of the memorandum of a company or the alteration of the objects of a company includes the removal of that provision or of all or any of those objects.
+
+[5/2004 wef 01/04/2004]
+
 ### Alteration of memorandum by company to which section 14 of Residential Property Act applies
 
 34\. Notwithstanding anything in the memorandum of a company, a company to which section 14 of the Residential Property Act [Cap. 274] applies may, by virtue of the operation of section 14(3) of that Act, amend its memorandum by special resolution to remove any of the provisions referred to in section 10(1) of that Act except that any amendment so made shall be valid and take effect only to the extent that it conforms with the provisions of that Act.
@@ -2873,15 +2995,9 @@ the alteration shall not have effect except so far as it is confirmed by the Cou
 
 35\.—(1) There may in the case of a company limited by shares and there shall in the case of a company limited by guarantee or an unlimited company be registered with the memorandum, articles signed by the subscribers to the memorandum prescribing regulations for the company.
 
-(2) Articles shall be —
+(2) Articles shall comply with such requirements as may be prescribed.
 
-(a) printed;
-
-(b) divided into numbered paragraphs; and
-
-(c) signed by each subscriber to the memorandum in the presence of at least one witness (not being another subscriber) who must attest the signature and add his address and occupation.
-
-[15/84]
+[12/2002 wef 13/01/2003]
 
 (3) In the case of an unlimited company the articles, if the company has a share capital, shall state the amount of share capital with which the company proposes to be registered and the division thereof into shares of a fixed amount.
 
@@ -2889,7 +3005,9 @@ the alteration shall not have effect except so far as it is confirmed by the Cou
 
 [15/84]
 
-(5) Where a company to which subsection (4) applies increases the number of its members beyond the registered number it shall, within one month after the increase was resolved on or took place, lodge with the Registrar notice of the increase.
+(5) Where a company to which subsection (4) applies changes the number of its members so that it is different from the registered number, the company shall, within 14 days after the date on which the change was resolved or took place, lodge with the Registrar notice of the change in the prescribed form.
+
+[12/2002 wef 13/01/2003]
 
 (6) Every company which makes default in complying with subsection (5) and every officer of the company who is in default in complying with that subsection shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 and also to a default penalty.
 
@@ -2915,7 +3033,7 @@ the alteration shall not have effect except so far as it is confirmed by the Cou
 
 ### Alteration of articles
 
-37\.—(1) Subject to this Actand to any conditions in its memorandum, a company may by special resolution alter or add to its articles.
+37\.—(1) Subject to this Act (in particular section 26A and any provision included in its articles in accordance with that section) and to any conditions in its memorandum, a company may by special resolution alter or add to its articles.
 
 (2) Any alteration or addition so made in the articles shall, subject to this Act, on and from the date of the special resolution or such later date as is specified in the resolution, be as valid as if originally contained therein and be subject in like manner to alteration by special resolution.
 
@@ -3029,7 +3147,15 @@ and any contract so made shall be effectual in law and shall bind the corporatio
 
 [13/87]
 
-42\. [Deleted by Act 5/2004 wef 01/04/2004]
+### Prohibition of carrying on business with fewer than statutory minimum of members
+
+42\. If at any time the number of members of a company (other than a company the whole of the issued shares of which are held by a holding company) is reduced below two and it carries on business for more than 6 months while the number is so reduced, a person who is a member of the company during the time that it so carries on business after those 6 months and is cognizant of the fact that it is carrying on business with fewer than two members shall be liable for the payment of all the debts of the company contracted during the time that it so carries on business after those 6 months and may be sued therefor, and if the company so carries on business after those 6 months, the company and such member shall be guilty of an offence and shall each be liable on conviction to a fine not exceeding $2,000 and also to a default penalty.
+
+[U.K.s.31.]
+
+[Aust. s. 36.]
+
+[15/84]
 
 ### Company or foreign company with a charitable purpose which contravenes the Charities Act or regulations made thereunder may be wound up or struck off the register
 
@@ -3049,16 +3175,18 @@ and any contract so made shall be effectual in law and shall bind the corporatio
 
 SHARES, DEBENTURES AND CHARGES
 
-Division 1 —
+Division 2 —
 
-Prospectuses
-
-Subdivision (1) — Restrictions on allotment and
+Restrictions on allotment and
 
 
 
 
 commencement of business
+
+57\. [Repealed by S 236/2002 wef 01/07/2002]
+
+58\. [Repealed by S 236/2002 wef 01/07/2002]
 
 ### Restriction on allotment in certain cases
 
@@ -3071,6 +3199,18 @@ commencement of business
 [U.K.s.48.]
 
 [Aust. s. 50.]
+
+(3) Every director of a company who knowingly contravenes or permits or authorises the contravention of subsection (1) shall —
+
+(a) be guilty of an offence; and
+
+(b) be liable in addition to the penalty or punishment for the offence to compensate the company and allottee respectively for any loss, damages or costs which the company or allottee has sustained or incurred thereby.
+
+[42/2001 wef 01/07/2002]
+
+(4) No proceedings for the recovery of any compensation referred to in subsection (3)(b) shall be commenced after the expiration of 2 years from the date of the allotment.
+
+[42/2001 wef 01/07/2002]
 
 ### Requirements as to statements in lieu of prospectus
 
@@ -3108,7 +3248,7 @@ commencement of business
 
 (A) the secretary or one of the directors of the company; or
 
-(B) an advocate and solicitor, accountant or prescribed person, authorised by the company,
+(B) a prescribed person authorised by the company,
 
 verifying that sub-paragraphs (i) and (ii) have been complied with.
 
@@ -3124,7 +3264,7 @@ verifying that sub-paragraphs (i) and (ii) have been complied with.
 
 (i) the secretary or one of the directors of the company; or
 
-(ii) an advocate and solicitor, accountant or prescribed person, authorised by the company,
+(ii) a prescribed person authorised by the company,
 
 verifying that paragraph (b) has been complied with.
 
@@ -3188,6 +3328,8 @@ Shares
 
 [15/84]
 
+(3) [Deleted by Act 12/2002 wef 13/01/2003]
+
 (4) Where shares are allotted as fully or partly paid up otherwise than in cash and the allotment is made pursuant to a contract in writing the company shall lodge with the return the contract evidencing the entitlement of the allottee or a copy of any such contract certified as prescribed.
 
 (5) If a certified copy of a contract is lodged the original contract duly stamped shall if the Registrar so requests be produced at the same time to the Registrar.
@@ -3226,11 +3368,9 @@ the company shall lodge with the return a statement containing such particulars 
 
 (4) The Minister may, by order published in theGazette, declare that subsection (1) shall apply to all or any equity shares or any class of equity shares which have been issued before 29th December 1967 by a company to which this section applies and which is specified in the declaration and thereupon that subsection shall apply to such equity shares so issued by such company from such date as is specified in the declaration being a date not less than one year after the making of the declaration.
 
-(5) This section shall apply to —
+(5) This section shall apply to a public company having a share capital.
 
-(a) a public company having a share capital; and
-
-(b) a subsidiary of such a public company.
+[8/2003 wef 15/05/2003]
 
 (6) Any person who makes any invitation to the public in breach of subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years.
 
@@ -3464,19 +3604,21 @@ include references respectively to the acquisition of any of those shares by and
 
 70\.—(1) Subject to this section, a company having a share capital may, if so authorised by its articles, issue preference shares which are, or at the option of the company are to be, liable to be redeemed and the redemption shall be effected only on such terms and in such manner as is provided by the articles.
 
-(2) The redemption shall not be taken as reducing the amount of share capital of the company.
+(2) The redemption shall not be taken as reducing the amount of authorised share capital of the company.
 
-(3) The shares shall not be redeemed unless they are fully paid up.
+(3) The shares shall not be redeemed —
 
-[21/2005 wef 30/01/2006]
+(a) except out of profits which would otherwise be available for dividend, or out of the proceeds of a fresh issue of shares made for the purposes of the redemption; and
 
-(4) The shares shall not be redeemed out of the capital of the company unless —
+(b) unless they are fully paid up.
 
-(a) all the directors have made a solvency statement in relation to such redemption; and
+(4) The premium, if any, payable on redemption shall be provided for out of profits or the share premium account before the shares are redeemed.
 
-(b) the company has lodged a copy of the statement with the Registrar.
+(5) Where any such shares are redeemed otherwise than out of the proceeds of a fresh issue, there shall out of profits which would otherwise have been available for dividend be transferred to a reserve called the “capital redemption reserve” a sum equal to the nominal amount of the shares redeemed, and the provisions of this Act relating to the reduction of the share capital of a company shall, except as provided in this section, apply as if the capital redemption reserve were paid-up share capital of the company.
 
-[21/2005 wef 30/01/2006]
+(6) Where in pursuance of this section a company has redeemed or is about to redeem any preference shares, it may issue shares up to the nominal amount of the shares redeemed or to be redeemed as if those shares had never been issued, and accordingly the share capital of the company shall not, for the purposes of any fee under this Act, be deemed to be increased by such issue but where new shares are issued before the redemption of the old shares, the new shares shall not, so far as relates to any fee under this Act, be deemed to have been issued in pursuance of this subsection unless the old shares have been redeemed within one month after the issue of the new shares.
+
+(7) The capital redemption reserve may be applied in paying up unissued shares of the company to be issued to members of the company as fully paid bonus shares.
 
 (8) If a company redeems any redeemable preference shares it shall within 14 days after so doing give notice thereof to the Registrar specifying the shares redeemed.
 
@@ -3495,6 +3637,10 @@ include references respectively to the acquisition of any of those shares by and
 (d) subdivide its shares or any of them into shares of smaller amount than is fixed by the memorandum, so however that in the subdivision the proportion between the amount paid and the amount, if any, unpaid on each reduced share shall be the same as it was in the case of the share from which the reduced share is derived;
 
 (e) cancel shares which at the date of the passing of the resolution in that behalf have not been taken or agreed to be taken by any person or which have been forfeited and diminish the amount of its share capital by the amount of the shares so cancelled.
+
+(1A) The company may lodge with the Registrar notice of any alteration referred to in subsection (1)(b), (c), (d) or (e) in the prescribed form.
+
+[12/2002 wef 13/01/2003]
 
 ### Cancellations
 
@@ -3522,7 +3668,7 @@ include references respectively to the acquisition of any of those shares by and
 
 ### Validation of shares improperly issued
 
-72\. Where a company has purported to issue or allot shares and the creation, issue or allotment of those shares was invalid by reason of any provision of this or any other written law or of the memorandum or articles of the company or otherwise or the terms of issue or allotment were inconsistent with or unauthorised by any such provision the Court may upon application made by the company or by a holder or mortgagee of any of those shares or by a creditor of the company and upon being satisfied that in all the circumstances it is just and equitable to do so make an order validating the issue or allotment of those shares or confirming the terms of issue or allotment thereof or both and upon an office copyof the order being lodged with the Registrar those shares shall be deemed to have been validly issued or allotted upon the terms of the issue or allotment thereof.
+72\. Where a company has purported to issue or allot shares and the creation, issue or allotment of those shares was invalid by reason of any provision of this or any other written law or of the memorandum or articles of the company or otherwise or the terms of issue or allotment were inconsistent with or unauthorised by any such provision the Court may upon application made by the company or by a holder or mortgagee of any of those shares or by a creditor of the company and upon being satisfied that in all the circumstances it is just and equitable to do so make an order validating the issue or allotment of those shares or confirming the terms of issue or allotment thereof or both and upon a copy of the order being lodged with the Registrar those shares shall be deemed to have been validly issued or allotted upon the terms of the issue or allotment thereof.
 
 [Aust.s.63.]
 
@@ -3602,7 +3748,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (4) On the application the Court, after hearing the applicant and any other persons who apply to the Court to be heard and appear to the Court to be interested, may, if satisfied having regard to all the circumstances of the case that the variation or abrogation would unfairly prejudice the shareholders of the class represented by the applicant, disallow the variation or abrogation, as the case may be, and shall, if not so satisfied, confirm it and the decision of the Court shall be final.
 
-(5) The company shall, within 14 days after the making of an order by the Court on any such application, lodge an office copyof the order with the Registrar and if default is made in complying with this provision the company and every officer of the company who is in default shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 and also to a default penalty.
+(5) The company shall, within 14 days after the making of an order by the Court on any such application, lodge a copy of the order with the Registrar and if default is made in complying with this provision the company and every officer of the company who is in default shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 and also to a default penalty.
 
 [15/84]
 
@@ -3764,7 +3910,7 @@ and is accompanied by a copy of a statement made in accordance with a resolution
 
 (iii) if there are no trustees for, or for a particular class of, debenture holders of the listed corporation or of the ultimate holding company — all debenture holders or debenture holders of that class, as the case may be, of the listed corporation or of the ultimate holding company whose names are, at the time when the notice is despatched, known to the listed corporation or the ultimate holding company;
 
-(h) within 21 days after the general meeting of the company at which the resolution referred to in paragraph (a) is passed or, in a case to which paragraph (b) applies, the general meeting of the listed corporation or ultimate holding company at which the resolution referred to in that paragraph is passed, whichever is the later, a notice —
+(h) within 21 days after the date on which the resolution referred to in paragraph (a) is passed or, in a case to which paragraph (b) applies, the date on which the resolution referred to in that paragraph is passed, whichever is the later, a notice —
 
 (i) setting out the terms of the resolution referred to in paragraph (a); and
 
@@ -3783,6 +3929,16 @@ is published in a daily newspaper circulating generally in Singapore;
 (A) where the application or each of the applications has been withdrawn — the withdrawal of the application or of the last of the applications to be withdrawn; or
 
 (B) in any other case — the decision of the Court on the application or applications.
+
+(10A) If the resolution referred to in subsection (10)(a) or (b) is proposed to be passed by written means under section 184A, subsection (10)(f) or (g), as the case may be, shall be complied with at or before the time —
+
+(a) agreement to the resolution is sought in accordance with section 184C; or
+
+(b) documents referred to in section 183(3A) in respect of the resolution are served on or made accessible to members of the company in accordance with section 183(3A),
+
+as the case may be.
+
+[8/2003 wef 15/05/2003]
 
 (11) Where, on application to the Court by a company, the Court is satisfied that the provisions of subsection (10) have been substantially complied with in relation to a proposed giving by the company of financial assistance of a kind mentioned in that subsection, the Court may, by order, declare that the provisions of that subsection have been complied with in relation to the proposed giving by the company of financial assistance.
 
@@ -3996,7 +4152,7 @@ whichever is the higher, unless the Court has, at any time during the relevant p
 
 (b) providing a basis or formula for calculating the amount of the price in question without reference to any person’s discretion or opinion.
 
-(6) For the purposes of this section and section 76D , an “equal access scheme” means a scheme which satisfies all the following conditions:
+(6) For the purposes of this section and section sections 76D and 76DA, an “equal access scheme” means a scheme which satisfies all the following conditions:
 
 (a) the offers under the scheme are to be made to every person who holds shares to purchase or acquire the same percentage of their shares;
 
@@ -4029,6 +4185,20 @@ whichever is the higher, unless the Court has, at any time during the relevant p
 (b) specify the sources of funds to be used for the purchase or acquisition including the amount of financing and its impact on the company’s financial position.
 
 (4) The special resolution authorising a selective off-market purchase referred to in subsection (2) must state the expiry date referred to in subsection (3)(a).
+
+(4A) If the special resolution referred to in subsection (2) is proposed to be passed by written means under section 184A —
+
+(a) a person whose shares are proposed to be purchased or acquired or any of his associated persons shall not be regarded as a member having the right to vote on the resolution at a general meeting of the company for the purposes of section 184A;
+
+(b) subsection (7) does not apply; but all documents referred to in this section shall be given to all members having the right to vote on the resolution at a general meeting for the purposes of section 184A at or before the time —
+
+(i) agreement to the resolution is sought in accordance with section 184C; or
+
+(ii) documents referred to in section 183(3A) in respect of the resolution are served on or made accessible to them in accordance with section 183(3A),
+
+as the case may be.
+
+[8/2003 wef 15/05/2003]
 
 (5) The authority referred to in subsection (2) may, from time to time, be varied or revoked by a special resolution with no votes being cast by any person whose shares are proposed to be purchased or acquired or by his associated persons.
 
@@ -4072,7 +4242,7 @@ whichever is the higher, unless the Court has, at any time during the relevant p
 
 ### Authority for market acquisition
 
-76E\.—(1) A company shall not make a purchase or acquisition of its own shares on a stock exchange(referred to in this section as a market purchase) unless the purchase or acquisition has been authorised in advance by the company in general meeting.
+76E\.—(1) A company shall not make a purchase or acquisition of its own shares on a securities exchange (referred to in this section as a market purchase) unless the purchase or acquisition has been authorised in advance by the company in general meeting.
 
 (2) The notice specifying the intention to propose the resolution to authorise a market purchase must —
 
@@ -4206,7 +4376,7 @@ Substantial shareholdings
 
 (2) A reference to a company is a reference —
 
-(a) to a company all or any of the shares in which are listed for quotation on the official list of a stock exchange as defined in the Securities Industry Act;
+(a) to a company all or any of the shares in which are listed for quotation on the official list of a securities exchange as defined in the Securities and Futures Act 2001;
 
 (b) to a body corporate, being a body incorporated in Singapore, that is for the time being declared by the Minister, by notification in theGazette, to be a company for the purposes of this Division; or
 
@@ -4226,29 +4396,37 @@ Substantial shareholdings
 
 [62/70]
 
+(3) The Minister may, by order published in theGazette, exempt any person or any class of persons from all or any of the provisions of this Division, subject to such terms or conditions as may be prescribed.
+
+[5/2004 wef 01/04/2004]
+
 ### Substantial shareholdings and substantial shareholders
 
-81\.—(1) For the purposes of this Division, a person has a substantial shareholding in a company if —
+81\.—(1) For the purposes of this Division, a person has a substantial shareholding in a company if he has an interest or interests in one or more voting shares in the company and the nominal amount of that share, or the aggregate of the nominal amounts of those shares, is not less than 5% of the aggregate of the nominal amount of all the voting shares in the company.
 
-(a) he has an interest or interests in one or more voting shares in the company; and
+(2) For the purposes of this Division, a person has a substantial shareholding in a company, being a company the share capital of which is divided into two or more classes of shares, if he has an interest or interests in one or more voting shares included in one of those classes and the nominal amount of that share, or the aggregate of the nominal amounts of those shares, is not less than 5% of the nominal amount of all the voting shares included in that class.
 
-(b) the total votes attached to that share, or those shares, is not less than 5% of the total votes attached to all the voting shares in the company.
-
-[21/2005 wef 30/01/2006]
-
-(2) For the purposes of this Division, a person has a substantial shareholding in a company, being a company the share capital of which is divided into 2 or more classes of shares, if —
-
-(a) he has an interest or interests in one or more voting shares included in one of those classes; and
-
-(b) the total votes attached to that share, or those shares, is not less than 5% of the total votes attached to all the voting shares included in that class.
-
-[21/2005 wef 30/01/2006]
+[10/74]
 
 (3) For the purposes of this Division, a person who has a substantial shareholding in a company is a substantial shareholder in that company.
 
-(4) In this section and section 83, “voting shares” exclude treasury shares.
+(4) Every person who, on 15th November 1974 —
 
-[21/2005 wef 30/01/2006]
+(a) has an interest or interests in one or more voting shares in a company; or
+
+(b) in the case of a company the share capital of which is divided into two or more classes of shares, has an interest or interests in one or more voting shares included in one of those classes,
+
+and the nominal value of that share or the aggregate of the nominal amount of those shares is equal to 5% or more but less than 10% of the aggregate of the nominal amount of all the voting shares in the company has a substantial shareholding in the company and is a substantial shareholder of that company and shall be under an obligation to give notice in writing to the company stating full particulars of the voting shares in the company in which he has an interest or interests and the full particulars of each such interest and of the circumstances by reason of which he has that interest.
+
+[10/74]
+
+[S 318/74]
+
+(5) This Division shall apply to a substantial shareholder under subsection (4).
+
+[10/74]
+
+[62/70]
 
 ### Substantial shareholder to notify company of his interests
 
@@ -4260,7 +4438,7 @@ Substantial shareholdings
 
 [S 249/71]
 
-(b) if the person became a substantial shareholder after that date — within two days after becoming a substantial shareholder.
+(b) if the person became a substantial shareholder after that date — within 2 business days after becoming a substantial shareholder.
 
 (3) The notice shall be so given notwithstanding that the person has ceased to be a substantial shareholder before the expiration of whichever period referred to in subsection (2) is applicable.
 
@@ -4296,7 +4474,7 @@ and, if it is not a whole number, rounding that figure down to the next whole nu
 
 84\.—(1) A person who ceases to be a substantial shareholder in a company shall give notice in writing to the company stating his name and the date on which he ceased to be a substantial shareholder and full particulars of the circumstances by reason of which he ceased to be a substantial shareholder.
 
-(2) The notice shall be given within two days after the person ceased to be a substantial shareholder.
+(2) The notice shall be given within 2 business days after the person ceased to be a substantial shareholder.
 
 [62/70]
 
@@ -4454,7 +4632,7 @@ a right of a person to or in relation to a share in the company.
 
 ### Power of company to require disclosure of beneficial interest in its voting shares
 
-92\.—(1) Any company all of the shares in which are listed for quotation on the official list of a stock exchange (as defined in the Securities Industry Act) may by notice in writing require any member of the company within such reasonable time as is specified in the notice —
+92\.—(1) Any company all of the shares in which are listed for quotation on the official list of a securities exchange as defined in the Securities and Futures Act 2001 may by notice in writing require any member of the company within such reasonable time as is specified in the notice —
 
 (a) to inform it whether he holds any voting shares in the company as beneficial owner or as trustee; and
 
@@ -4556,6 +4734,12 @@ the company shall have and shall be deemed always to have had power to reissue t
 
 [S 258/67]
 
+97\. [Repealed by S 236/2002 wef 01/07/2002]
+
+98\. [Repealed by S 236/2002 wef 01/07/2002]
+
+99\. [Repealed by S 236/2002 wef 01/07/2002]
+
 ### Power of Court in relation to certain irredeemable debentures
 
 100\.—(1) Notwithstanding anything in any debenture or trust deed, the security for any debentures which are irredeemable or redeemable only on the happening of a contingency shall, if the Court so orders, be enforceable, forthwith or at such other time as the Court directs if on the application of the trustee for the holders of the debentures or (where there is no trustee) on the application of the holder of any of the debentures the Court is satisfied that —
@@ -4569,6 +4753,22 @@ the company shall have and shall be deemed always to have had power to reissue t
 (2) Subsection (1) shall not affect any power to vary rights or accept any compromise or arrangement created by the terms of the debentures or the relevant trust deed or under a compromise or arrangement between the borrowing corporation and creditors.
 
 [Aust.s.74c.]
+
+(3) Subsection (1) shall not apply in relation to any debenture that is offered to the public for subscription or purchase.
+
+[42/2001 wef 01/07/2002]
+
+101\. [Repealed by S 236/2002 wef 01/07/2002]
+
+102\. [Repealed by S 236/2002 wef 01/07/2002]
+
+103\. [Repealed by S 236/2002 wef 01/07/2002]
+
+104\. [Repealed by S 236/2002 wef 01/07/2002]
+
+105\. [Repealed by S 236/2002 wef 01/07/2002]
+
+106\. [Repealed by S 236/2002 wef 01/07/2002]
 
 Division 7 —
 
@@ -4688,6 +4888,18 @@ or may require the applicant to do both of those things.
 
 [Aust. s. 97.]
 
+### Notice of transfer of shares
+
+128A\.—(1) Where there has been a transfer of shares, a company may lodge with the Registrar notice of that transfer of shares in the prescribed form.
+
+(2) The notice must state —
+
+(a) every other transfer of shares effected prior to the date of the notice, other than a transfer that has been previously notified to the Registrar; or
+
+(b) if it has more than 50 members after the transfer, the prescribed information in relation to the shares held by each of the 50 members who hold the most number of shares in the company after the transfer.
+
+[12/2002 wef 13/01/2003]
+
 ### Certification of transfers
 
 129\.—(1) The certification by a company of any instrument of transfer of shares, debentures or other interests in the company shall be taken as a representation by the company to any person acting on the faith of the certification that there have been produced to the company such documents as on the face of them show a prima facie title to the shares, debentures or other interests in the transferor named in the instrument of transfer but not as a representation that the transferor has any title to the shares, debentures or other interests.
@@ -4740,7 +4952,7 @@ System — a book-entry or scripless system
 
 
 
-for the transfer of listed securities
+for the transfer of securities
 
 ### Interpretation
 
@@ -4756,13 +4968,13 @@ for the transfer of listed securities
 
 (b) which are transferable by way of book-entry in the Depository Register and not by way of an instrument of transfer;
 
-“Depository” means the Central Depository (Pte) Limited established by Stock Exchange, or any other corporation approved by the Minister as a depository company or corporation for the purposes of this Act, which as a bare trustee operates the Central Depository System for the holding and transfer of book-entry securities;
+“Depository” means the Central Depository (Pte) Limited or any other corporation approved by the Minister as a depository company or corporation for the purposes of this Act, which as a bare trustee operates the Central Depository System for the holding and transfer of book-entry securities;
 
 “Depository Register” means a register maintained by the Depository in respect of book-entry securities;
 
 “depositor” means an account holder or a depository agent but does not include a sub-account holder;
 
-“depository agent” means a member company of the stock Exchange, a trust company (registered under the Trust Companies Act [Cap. 336]), a banking corporation or merchant bank (approved by the Monetary Authority of Singapore under the Monetary of Singapore Act) or any other person or body approved by the Depository who or which —
+“depository agent” means a member company of the Securities Exchange, a trust company (registered under the Trust Companies Act [Cap. 336]), a banking corporation or merchant bank (approved by the Monetary Authority of Singapore under the Monetary of Singapore Act) or any other person or body approved by the Depository who or which —
 
 (a) performs services as a depository agent for sub-account holders in accordance with the terms of a depository agent agreement entered into between the Depository and the depository agent;
 
@@ -4782,29 +4994,39 @@ for the transfer of listed securities
 
 “instrument” includes a deed or any other instrument in writing;
 
-“listed securities” means securities of a corporation that are listed on the and have not been delisted or had its quotation removed;
+“listed securities” means securities of a corporation that are listed on the Securities Exchange and have not been delisted or had its quotation removed;
 
 “rules” means the rules made by the Depository in relation to the operation of the Central Depository System and includes the Central Depository Rules and Procedures made by the Depository pursuant to its Articles of Association (as the same may be amended from time to time) and any rule with regard to payment of fees to the Depository;
 
-“securities”, in relation to the Depository, means debentures, stocks or shares, issued by a government, a body corporate or unincorporate, or international body or any right in respect of any such debentures, stocks or shares or any derivative instrument each of which is listed on the Stock Exchange and which has been designated by the Stock Exchange as eligible for deposit with the depository and for clearance and book-entry settlement of transactions on the Stock Exchange ;
+“securities”, in relation to the Depository, means debentures, stocks or shares, issued by a government, a body corporate or unincorporate, or international body or any right in respect of any such debentures, stocks or shares or any derivative instrument each of which is listed on the Securities Exchange and which has been designated by the Securities Exchange as eligible for deposit with the depository and for clearance and book-entry settlement of transactions on the Securities Exchange;
 
-“Stock Exchange” means the Stock Exchange of Singapore Limited;
+“Securities Exchange” means the Singapore Exchange Securities Trading Limited;
+
+[42/2001 wef 01/07/2002]
 
 “sub-account holder” means a holder of an account maintained with a depository agent.
 
 [22/93]
 
-### Application
+### Application of this Division
 
-130B\. This Division shall apply only to book-entry securities.
+130B\.—(1) This Division shall apply only to —
 
-[22/93]
+(a) book-entry securities; and
+
+(b) designated securities, as if a reference to “book-entry securities” includes a reference to designated securities.
+
+(2) The application of this Division to designated securities under subsection (1)(b) shall be subject to such modifications as the Minister may by order prescribe, and different modifications may be prescribed for different classes of designated securities.
+
+(3) In this section, “designated securities” means such securities as may be accepted or designated by the Depository or its nominee for deposit, custody, clearing or book-entry settlement.
+
+[5/2004 wef 01/04/2004]
 
 ### Establishment of Central Depository System
 
 130C\. There is hereby established a computerised Central Depository System whereby, in accordance with the rules of the Depository —
 
-(a) documents evidencing title in respect of listed securities (with where applicable, in the case of shares or registered debentures, proper instruments of transfer duly executed) are deposited with the Depository and are registered in the name of this Depository or its nominee;
+(a) documents evidencing title in respect of securities (with where applicable, in the case of shares or registered debentures, proper instruments of transfer duly executed) are deposited with the Depository and are registered in the name of this Depository or its nominee;
 
 (b) accounts are maintained by the Depository in the names of the depositors so as to reflect the title of the depositors to the book-entry securities; and
 
@@ -4814,15 +5036,25 @@ for the transfer of listed securities
 
 ### Depository not a member of a company and depositors deemed to be members
 
-130D\.—(1) Notwithstanding anything in this Act or the memorandum or articles of association of a company, where the Depository is named in the register of members of the company —
+130D\.—(1) Notwithstanding anything in this Act or any other written law or rule of law or in any instrument or in the memorandum or articles of a corporation, where book-entry securities of the corporation are deposited with the Depository or its nominee —
 
-(a) the Depository shall be deemed not to be a member of the company; and
+(a) the Depository or its nominee (as the case may be) shall be deemed not to be a member of the corporation; and
 
 (b) the persons named as the depositors in a Depository Register shall, for such period as the book-entry securities are entered against their names in the Depository Register, be deemed to be —
 
-(i) members of the company in respect of the amount of book-entry of the amount of book-entry securities (relating to the stocks or shares issued by the company entered against their respective names in the Depository Register; or
+(i) members of the corporation in respect of the amount of book-entry securities (relating to the stocks or shares issued by the corporation) entered against their respective names in the Depository Register; or
 
-(ii) holders of the amount of the company’s book-entry securities (relating to the debentures or any derivative instruments) entered against their names in the Depository Register.
+(ii) holders of the amount of the book-entry securities (relating to the debentures or any derivative instrument) entered against their respective names in the Depository Register.
+
+[5/2004 wef 01/04/2004]
+
+(1A) Notwithstanding anything in this Act or any other written law or rule of law or in any instrument or in the memorandum or articles of a corporation, where book-entry securities relating to units in any collective investment scheme within the meaning of the Securities and Futures Act (Cap. 289) (whether or not constituted as a corporation) are deposited with the Depository or its nominee —
+
+(a) the Depository or its nominee (as the case may be) shall be deemed not to be a holder of the book-entry securities; and
+
+(b) the persons named as the depositors in a Depository Register shall, for such period as the book-entry securities are entered against their names in the Depository Register, be deemed to be holders of the amount of the book-entry securities entered against their respective names in the Depository Register.
+
+[5/2004 wef 01/04/2004]
 
 (2) Nothing in this Division shall be construed as affecting —
 
@@ -4834,19 +5066,19 @@ for the transfer of listed securities
 
 except that the company shall not be obliged to enter in such registers the names and particulars of persons who are deemed members or holders of debentures under subsection (1)(b);
 
-(b) the right of a depositor to withdraw his documents evidencing title in respect of listed securities from the Depository at any time in accordance with the rules of the Depository and to register them in his or any other name; or
+(b) the right of a depositor to withdraw his documents evidencing title in respect of securities from the Depository at any time in accordance with the rules of the Depository and to register them in his or any other name; or
 
-(c) the enjoyment of any right, power or privilege conferred by, or the imposition of any liability, duty or obligation under this Act, any rule of law or under any instrument or under the memorandum or articles of association of a company upon a depositor, as a member of a company or as a holder of debentures or any derivative instruments except to the extent provided for in this Division or prescribed by regulations made thereunder.
+(c) the enjoyment of any right, power or privilege conferred by, or the imposition of any liability, duty or obligation under this Act, any rule of law or under any instrument or under the memorandum or articles of association of a corporation upon a depositor, as a member of a corporation or as a holder of debentures or any derivative instruments except to the extent provided for in this Division or prescribed by regulations made thereunder.
 
 (3) Notwithstanding any provision in this Act, a depositor shall not be regarded as a member of a company entitled to attend any general meeting of the company and to speak and vote thereat unless his name appears on the Depository Register 48 hours before the general meeting.
 
-(4) The payment by a company to the Depository of any dividend payable to a depositor shall, to the extent of the payment made, discharge the company from any liability in respect of that payment.
+(4) The payment by a corporation to the Depository of any dividend payable to a depositor shall, to the extent of the payment made, discharge the corporation from any liability in respect of that payment.
 
 [22/93]
 
-### Depository to certify names of depositors to company upon request
+### Depository to certify names of depositors to corporation upon request
 
-130E\. The Depository shall certify the names of persons on the Depository Register to a company in accordance with the rules of the Depository upon a written request being made to it by the company.
+130E\. The Depository shall certify the names of persons on the Depository Register to a corporation in accordance with the rules of the Depository upon a written request being made to it by the corporation.
 
 [22/93]
 
@@ -4948,7 +5180,7 @@ Provided that no security interest in any book-entry securities subsequent to an
 
 (6) An assignment or a charge made in accordance with the provisions of this section, but not otherwise, shall have effect upon the Depository transferring the book-entry securities or endorsing the charge in the register of charges except that the instrument of assignment or charge shall not have any effect if on the date of receipt of such instrument, the number of book-entry securities in the account of the assignor or chargor is less than the number of book-entry securities specified in such instrument.
 
-(7) The provisions of section 130D(1)(b) and (2) shall apply to an assignment of book-entry securities made under this section.
+(7) The provisions of section 130D(1), (1A) and (2) shall apply to an assignment of book-entry securities made under this section.
 
 (8) An assignee or a registered chargee of book-entry securities shall have the following powers:
 
@@ -5002,9 +5234,9 @@ The provisions of sections 130I, 130J, 130L and 130M shall apply, mutatis mutand
 
 ### Depository rules to be regarded as rules of a securities exchange that are subject to Securities Industry Act
 
-130O\.—(1) Rules made by the Depository in relation to the operation of the Central Depository System, including any amendments made thereto from time to time, shall be regarded as having the same force and effect as if made by a securities exchange and shall likewise be subject to the provisions of the Securities Industry Act.
+130O\.—(1) Rules made by the Depository in relation to the operation of the Central Depository System, including any amendments made thereto from time to time, shall be regarded as having the same force and effect as if made by a securities exchange and shall likewise be subject to the provisions of the Securities and Futures Act 2001.
 
-(2) Without prejudice to the generality of subsection (1), section 18 (authority to approve amendments to rules) and section 20(1) (power of Court to enforce rules) of the Securities Industry Act shall apply to rules made by the depository under subsection (1) as they apply to rules made by a securities exchange.
+(2) Without prejudice to the generality of subsection (1), section 17 (Authority to be notified of amendments to business rules or listing rules) and section 18 (power of court to order observance of or enforce business rules or listing rules) of the Securities and Futures Act 2001 shall apply to rules made by the depository under subsection (1) as they apply to rules made by a securities exchange.
 
 [22/93]
 
@@ -5088,8 +5320,6 @@ Registration of charges
 
 (d) the names of the trustee, if any, for the debenture holders.
 
-[13/87]
-
 (6) For the purposes of subsection (5), where more than one issue is made of debentures in the series, there shall be lodged within 30 days after each issue particulars of the date and amount of each issue, but an omission to do so shall not affect the validity of the debentures issued.
 
 (7) Where any commission, allowance or discount has been paid or made either directly or indirectly by a company to any person in consideration of his (whether absolutely or conditionally) subscribing or agreeing to subscribe or procuring or agreeing to procure subscriptions, whether absolute or conditional, for any debentures the particulars required to be lodged under this section shall include particulars as to the amount or rate per cent of the commission, allowance or discount so paid or made, but omission to do so shall not affect the validity of the debentures issued.
@@ -5118,7 +5348,7 @@ Registration of charges
 
 ### Duty of company to register charges existing on property acquired
 
-133\.—(1) Where a company acquires any property which is subject to a charge of any such kind as would, if it had been created by the company after the acquisition of the property, have been required to be registered under this Division or, where a foreign company becomes registered in Singapore and has prior to such registration created a charge which if it had been created by the company while it was registered in Singapore would have been required to be registered under this Division or, where a foreign company becomes registered in Singapore and has prior to such registration acquired property which is subject to a charge of any such kind as would if it had been created by the company after the acquisition and while it was registered in Singapore have been required to be registered under this Division, the company shall cause a statement of the prescribed particulars and the verifying affidavit to be lodged with the Registrar for registration within 30 days after the date on which the acquisition is completed or the date of the registration of the company in Singapore, as the case may be.
+133\.—(1) Where a company acquires any property which is subject to a charge of any such kind as would, if it had been created by the company after the acquisition of the property, have been required to be registered under this Division or, where a foreign company becomes registered in Singapore and has prior to such registration created a charge which if it had been created by the company while it was registered in Singapore would have been required to be registered under this Division or, where a foreign company becomes registered in Singapore and has prior to such registration acquired property which is subject to a charge of any such kind as would if it had been created by the company after the acquisition and while it was registered in Singapore have been required to be registered under this Division, the company shall cause a statement of the prescribed particulars to be lodged with the Registrar for registration within 30 days after the date on which the acquisition is completed or the date of the registration of the company in Singapore, as the case may be.
 
 (2) If default is made in complying with this section, the company or the foreign company and every officer of the company or foreign company who is in default shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and also to a default penalty.
 
@@ -5146,7 +5376,7 @@ Registration of charges
 
 (iv) the name of the person entitled to the charge.
 
-(2) The Registrar shall issue a certificate of every registration of a charge and the certificate shall be conclusive evidence that the requirements as to registration have been complied with.
+(2) The Registrar shall issue a notice to the company concerned of the registration of a charge and the notice shall be conclusive evidence that the requirements as to registration have been complied with.
 
 [13/87]
 
@@ -5154,11 +5384,15 @@ Registration of charges
 
 [Aust. s. 103.]
 
+(3) Upon the application of the company and payment of the prescribed fee, the Registrar shall issue to the company a certificate, under his hand and seal, confirming the registration of the charge and the certificate shall be conclusive evidence that the requirements as to registration have been complied with.
+
+[12/2002 wef 13/01/2003]
+
 ### Endorsement of certificate of registration on debentures
 
 135\.—(1) The company shall cause to be endorsed on every debenture forming one of a series of debentures, or certificate of debenture stock which is issued by the company and the payment of which is secured by a charge so registered —
 
-(a) a copy of the certificate of registration; or
+(a) a copy of the notice of registration; or
 
 (b) a statement that the registration has been effected and the date of registration.
 
@@ -5180,9 +5414,9 @@ Registration of charges
 
 (b) the property or undertaking charged or any part thereof has been released from the charge or has ceased to form part of the company’s property or undertaking of the company concerned,
 
-the company may lodge with the Registrar in the prescribed form a memorandum of satisfaction in whole or in part, or of the fact that the property or undertaking or any part thereof has been released from the charge or has ceased to form part of the company’s property or undertaking, as the case may be, and the Registrar shall enter particulars of that memorandum in the register.
+the company may lodge with the Registrar in the prescribed form a statement of satisfaction in whole or in part, or of the fact that the property or undertaking or any part thereof has been released from the charge or has ceased to form part of the company’s property or undertaking, as the case may be, and the Registrar shall enter particulars of that statement in the register.
 
-(2) The memorandum shall be endorsed with a statement by the chargee of the payment, satisfaction, release or ceasing referred to in subsection (1), as the case may be, and that statement shall constitute sufficient evidence of that payment, satisfaction, release or ceasing.
+(2) The statement shall be endorsed with a statement by the chargee of the payment, satisfaction, release or ceasing referred to in subsection (1), as the case may be, and the second-mentioned statement shall constitute sufficient evidence of that payment, satisfaction, release or ceasing.
 
 [U.K.s.100.]
 
@@ -5192,7 +5426,7 @@ the company may lodge with the Registrar in the prescribed form a memorandum of 
 
 ### Extension of time and rectification of register of charges
 
-137\. The Court, on being satisfied that the omission to register a charge (whether under this or any corresponding previous written law) within the time required or that the omission or mis-statement of any particular with respect to any such charge or in a memorandum of satisfaction was accidental or due to inadvertence or to some other sufficient cause or is not of a nature to prejudice the position of creditors or shareholders or that on other grounds it is just and equitable to grant relief, may on the application of the company or any person interested and on such terms and conditions as seem to the Court just and expedient (including a term or condition that the extension or rectification is to be without prejudice to any liability already incurred by the company or any of its officers in respect of the default) order that the time for registration be extended or that the omission or mis-statement be rectified.
+137\. The Court, on being satisfied that the omission to register a charge (whether under this or any corresponding previous written law) within the time required or that the omission or mis-statement of any particular with respect to any such charge or in a statement of satisfaction was accidental or due to inadvertence or to some other sufficient cause or is not of a nature to prejudice the position of creditors or shareholders or that on other grounds it is just and equitable to grant relief, may on the application of the company or any person interested and on such terms and conditions as seem to the Court just and expedient (including a term or condition that the extension or rectification is to be without prejudice to any liability already incurred by the company or any of its officers in respect of the default) order that the time for registration be extended or that the omission or mis-statement be rectified.
 
 [U.K.s.101.]
 
@@ -5288,15 +5522,23 @@ Office and name
 
 [40/89]
 
-### Publication of name
+### Publication of name and registration number
 
-144\.—(1) The name of a company shall (whether or not it is carrying on business under a business name) appear in legible romanised letters on —
+144\.—(1) The name of a company shall appear in legible romanised letters on —
 
 (a) its seal; and
 
-(b) all business letters, statements of account, invoices, official notices, publications, bills of exchange, promissory notes, indorsements, cheques, orders, receipts and letters of credit of or purporting to be issued or signed by or on behalf of the company,
+(b) all business letters, statements of account, invoices, official notices, publications, bills of exchange, promissory notes, indorsements, cheques, orders, receipts and letters of credit of or purporting to be issued or signed by or on behalf of the company.
 
-and if default is made in complying with this subsection the company shall be guilty of an offence.
+[5/2004 wef 01/10/2004]
+
+(1A) The registration number of a company shall appear in a legible form on all business letters, statements of account, invoices, official notices and publications of or purporting to be issued or signed by or on behalf of the company.
+
+[5/2004 wef 01/10/2004]
+
+(1B) A company shall be guilty of an offence if default is made in complying with subsection (1) or (1A).
+
+[5/2004 wef 01/10/2004]
 
 (2) If an officer of a company or any person on its behalf —
 
@@ -5308,15 +5550,9 @@ and if default is made in complying with this subsection the company shall be gu
 
 he shall be guilty of an offence, and where he has signed, issued or authorised to be signed or issued on behalf of the company any bill of exchange, promissory note or other negotiable instrument or any indorsement thereon or order wherein that name is not so mentioned, he shall in addition be liable to the holder of the instrument or order for the amount due thereon unless it is paid by the company.
 
-### Name to be displayed on all offices
+Name to be displayed on all offices
 
-(3) Every company shall paint or affix and keep painted or affixed on the outside of every office or place in which its business is carried on, in a prominent position in romanised letters easily legible its name, and also, in the case of the registered office, the words “Registered Office” and if it fails to do so the company shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and also to a default penalty.
-
-[15/84]
-
-[U.K.s.108.]
-
-[Aust. s. 113.]
+(3) [Deleted by Act 5/2004 wef 01/04/2004]
 
 Division 2 —
 
@@ -5324,7 +5560,9 @@ Directors and officers
 
 ### Directors
 
-145\.—(1) Every company shall have at least two directors one of whom shall be ordinarily resident in Singapore.
+145\.—(1) Every company shall have at least one director who is ordinarily resident in Singapore and, where the company only has one member, that sole director may also be the sole member of the company.
+
+[5/2004 wef 01/04/2004]
 
 (2) No person other than a natural person of full age and capacity shall be a director of a company.
 
@@ -5334,9 +5572,9 @@ Directors and officers
 
 [S 258/67]
 
-(5) Notwithstanding anything in this Act or in the memorandum or articles of a company or in any agreement with a company, a director of a company shall not resign or vacate his office unless there are remaining in the company at least two directors, one of whom shall be ordinarily resident in Singapore and any purported resignation or vacation of office in breach of this section shall be deemed to be invalid.
+(5) Notwithstanding anything in this Act or in the memorandum or articles of the company, or in any agreement with the company, a director of a company shall not resign or vacate his office unless there is remaining in the company at least one director who is ordinarily resident in Singapore; and any purported resignation or vacation of office in breach of this subsection shall be deemed to be invalid.
 
-[15/84]
+[5/2004 wef 01/04/2004]
 
 (6) Subsection (5) shall not apply where a director of a company is required to resign or vacate his office if he has not within the period referred to in section 147(1) obtained his qualification or by virtue of his disqualification under section 148, 149, 149A, 154 or 155 of this Act or section 43(1)(b) of the Insurance Act [Cap. 142], or sections 58, 59 and 60 of the Banking Act [Cap. 19] or sections 35 and 37 of the Finance Companies Act [Cap. 108], section 57 of the Financial Advisers Act 2001, section 31, 35ZJ or 41(1)(b) of the Insurance Act (Cap.142) or section 22, 33, 44, 64 or 97 of the Securities and Futures Act 2001.
 
@@ -5347,6 +5585,34 @@ Directors and officers
 [U.K.s.176.]
 
 [Aust. s. 114.]
+
+(7) If there is a contravention of subsection (1), the Registrar may, either of his own motion or on the application of any person, direct the members of the company to appoint a director who is ordinarily resident in Singapore if he considers it to be in the interests of the company for such appointment to be made.
+
+[5/2004 wef 01/04/2004]
+
+(8) If the direction under subsection (7) is not complied with, each member in default shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part thereof during which the offence continues after conviction.
+
+[5/2004 wef 01/04/2004]
+
+(9) If there is a contravention of subsection (1) and —
+
+(a) the Registrar fails to give the direction under subsection (7); or
+
+(b) such direction has been given but is not complied with,
+
+the court may, on the application of the Registrar or any person, order the members of the company to make the appointment if it considers it to be in the interests of the company for such appointment to be made.
+
+[5/2004 wef 01/04/2004]
+
+(10) If a company carries on business without having at least one director who is ordinarily resident in Singapore for more than 6 months, a person who, for the whole or any part of the period that it so carries on business after those 6 months —
+
+(a) is a member of the company; and
+
+(b) knows that it is carrying on business in that manner,
+
+shall be liable for the payment of all the debts of the company contracted during the period or, as the case may be, that part of it, and may be sued therefor.
+
+[5/2004 wef 01/04/2004]
 
 ### Restrictions on appointment or advertisement of director
 
@@ -5368,13 +5634,13 @@ as the case may be, the person has complied with the conditions set out in subse
 
 (1A) The conditions to be complied with by a person referred to in subsection (1) are the following:
 
-(a) he has, by himself or through an advocate and solicitor, accountant ora prescribed person authorised by him, filed with the Registrar —
+(a) he has, by himself or through a prescribed person authorised by him, filed with the Registrar —
 
 (i) a declaration that he has consented to act as a director; and
 
 (ii) a statement in the prescribed form that he is not disqualified from acting as a director under this Act; and
 
-(b) he has, by himself or through an advocate and solicitor, accountant ora prescribed person authorised by him —
+(b) he has, by himself or through a prescribed person authorised by him —
 
 (i) filed with the Registrar a declaration that he has agreed to take a number of shares of the company that is not less than his qualification, if any;
 
@@ -5443,6 +5709,10 @@ as the case may be, the person has complied with the conditions set out in subse
 (2) On an application by an undischarged bankrupt under subsection (1) to the Court or the Official Assignee, as the case may be, the Court or the Official Assignee may refuse the application or approve the application subject to such condition as the Court or the Official Assignee, as the case may be, may impose.
 
 (3) The Court shall not give leave under this section unless notice of intention to apply therefor has been served on the Minister and on the Official Assignee and the Minister and the Official Assignee or either of them may be represented at the hearing of and may oppose the granting of the application.
+
+(4) Any person who has been granted leave by the Court or written permission by the Official Assignee under subsection (1) shall, within one month after the issue of the Court order or written permission, lodge a copy of the order or written permission with the Registrar.
+
+[8/2003 wef 15/05/2003]
 
 [37/1999 wef 15/09/1999]
 
@@ -5520,10 +5790,6 @@ and references in this section to a person’s conduct as a director of any comp
 
 “company” includes a corporation and a foreign company but does not include a partnership or association to which Division 5 of Part X applies;
 
-“director” in relation to a company, includes a “shadow director”;
-
-“shadow director”, in relation to a company, means a person in accordance with whose directions or instructions the directors of a company are accustomed to act except that a person shall not be deemed to be a shadow director by reason only that the directors act on advice given by him in a professional capacity.
-
 (9)(a) In the case of a person who is or has been a director of a company which has gone into liquidation and is being wound up by the Court, an application under this section shall be made by the Official Receiver but in any other case an application shall be made by the Minister.
 
 (b)
@@ -5555,30 +5821,6 @@ On a hearing of an application under this section —
 [40/89]
 
 [13/87]
-
-### Disqualification of directors of companies wound up on grounds of national security or interest
-
-149A\.—(1) Subject to subsections (2) and (3), where a company is ordered to be wound up by the Court under section 254(1)(m) on the ground that it is being used for purposes against national security or interest, the Court may, on the application of the Minister, make an order (referred to in this section as a disqualification order) disqualifying any person who is a director of that company from being a director or in any way, directly or indirectly, being concerned in, or from taking part in, the management of any company or foreign company for a period of 3 years from the date of the making of the winding up order.
-
-(2) The Court shall not make a disqualification order against any person under subsection (1) unless the Court is satisfied that the person against whom the order is sought has been given not less than 14 days’ notice of the Minister’s application for the order.
-
-(3) The Court shall not make a disqualification order against any person under subsection (1) if such person proves to the satisfaction of the Court that —
-
-(a) the company had been used for purposes against national security or interest without his consent or connivance; and
-
-(b) he had exercised such diligence to prevent the company from being so used as he ought to have exercised having regard to the nature of his function in that capacity and to all the circumstances.
-
-(4) Any person who acts in contravention of a disqualification order made under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
-
-(5) In this section —
-
-“director”, in relation to a company, includes a shadow director;
-
-“foreign company” means a foreign company to which Division 2 of Part XI applies;
-
-“shadow director”, in relation to a company, means a person in accordance with whose directions or instructions the directors of a company are accustomed to act except that a person shall not be deemed to be a shadow director by reason only that the directors act on advice given by him in a professional capacity.
-
-[36/2000 wef 22/01/2001]
 
 ### Appointment of directors to be voted on individually
 
@@ -5648,7 +5890,15 @@ and if a copy of the representations is not so sent because they were received t
 
 (5) If any such vacancy has not been filled at the meeting at which the office became vacant the office may be filled as a casual vacancy.
 
-(6) Notwithstanding anything in this section, a person of or over the age of 70 years may, by a resolution of which no shorter notice than that required to be given to the members of the company of an annual general meeting has been duly given, passed by a majority of not less than three-fourths of such members of the company as being entitled to do so, vote in person or, where proxies are allowed, by proxy, at a general meeting of that company, be appointed or reappointed as a director of that company to hold office until the next annual general meeting of the company or be authorised to continue in office as a director until the next annual general meeting of the company.
+(6) Notwithstanding anything in this section, a person of or over the age of 70 years may, by an ordinary resolution passed at an annual general meeting of a company —
+
+(a) be appointed or re-appointed as a director of the company to hold office; or
+
+(b) be authorised to continue in office as a director of the company,
+
+until the next annual general meeting of the company.
+
+[8/2003 wef 15/05/2003]
 
 (7) Section 179 relating to the demanding of a poll and the holding of a poll shall apply to a resolution under this section.
 
@@ -5722,21 +5972,29 @@ Where a disqualified person is sentenced to imprisonment, the disqualifications 
 
 [15/84]
 
-### Disclosure of interests in contracts, property, offices, etc.
+### Disclosure of interests in transactions, property, offices, etc.
 
-156\.—(1) Subject to this section, every director of a company who is in any way, whether directly or indirectly, interested in a contract or proposed contract with the company shall as soon as practicable after the relevant facts have come to his knowledge declare the nature of his interest at a meeting of the directors of the company.
+156\.—(1) Subject to this section, every director of a company who is in any way, whether directly or indirectly, interested in a transaction or proposed transaction with the company shall as soon as practicable after the relevant facts have come to his knowledge declare the nature of his interest at a meeting of the directors of the company.
 
-(2) The requirements of subsection (1) shall not apply in any case where the interest of the director consists only of being a member or creditor of a corporation which is interested in a contract or proposed contract with the first-mentioned company if the interest of the director may properly be regarded as not being a material interest.
+(2) The requirements of subsection (1) shall not apply in any case where the interest of the director consists only of being a member or creditor of a corporation which is interested in a transaction or proposed transaction with the first-mentioned company if the interest of the director may properly be regarded as not being a material interest.
 
-(3) A director of a company shall not be deemed to be interested or to have been at any time interested in any contract or proposed contract by reason only —
+(3) A director of a company shall not be deemed to be interested or to have been at any time interested in any transaction or proposed transaction by reason only —
 
-(a) in a case where the contract or proposed contract relates to any loan to the company — that he has guaranteed or joined in guaranteeing the repayment of the loan or any part of the loan; or
+(a) in a case where the transaction or proposed transaction relates to any loan to the company — that he has guaranteed or joined in guaranteeing the repayment of the loan or any part of the loan; or
 
-(b) in a case where the contract or proposed contract has been or will be made with or for the benefit of or on behalf of a corporation which by virtue of section 6 is deemed to be related to the company — that he is a director of that corporation,
+(b) in a case where the transaction or proposed transaction has been or will be made with or for the benefit of or on behalf of a corporation which by virtue of section 6 is deemed to be related to the company — that he is a director of that corporation,
 
 and this subsection shall have effect not only for the purposes of this Act but also for the purposes of any other law, but shall not affect the operation of any provision in the articles of the company.
 
-(4) For the purposes of subsection (1), a general notice given to the directors of a company by a director to the effect that he is an officer or member of a specified corporation or a member of a specified firm and is to be regarded as interested in any contract which may, after the date of the notice, be made with that corporation or firm shall be deemed to be a sufficient declaration of interest in relation to any contract so made if it specifies the nature and extent of his interest in the specified corporation or firm and his interest is not different in nature or greater in extent than the nature and extent so specified in the general notice at the time any contract is so made, but no such notice shall be of effect unless either it is given at a meeting of the directors or the director takes reasonable steps to ensure that it is brought up and read at the next meeting of the directors after it is given.
+(4) For the purposes of subsection (1), a general notice given to the directors of a company by a director to the effect that he is an officer or member of a specified corporation or a member of a specified firm or a partner or officer of a specified limited liability partnership and is to be regarded as interested in any transaction which may, after the date of the notice, be made with that corporation, firm or limited liability partnership shall be deemed to be a sufficient declaration of interest in relation to any transaction so made if —
+
+(a) it specifies the nature and extent of his interest in the specified corporation, firm or limited liability partnership;
+
+(b) his interest is not different in nature or greater in extent than the nature and extent so specified in the general notice at the time any transaction is so made; and
+
+(c) it is given at a meeting of the directors or the director takes reasonable steps to ensure that it is brought up and read at the next meeting of the directors after it is given.
+
+[5/2005 wef 11/04/2005]
 
 (5) Every director of a company who holds any office or possesses any property whereby whether directly or indirectly duties or interests might be created in conflict with his duties or interests as director shall declare at a meeting of the directors of the company the fact and the nature, character and extent of the conflict.
 
@@ -5750,11 +6008,11 @@ as the case requires.
 
 (7) The secretary of the company shall record every declaration under this section in the minutes of the meeting at which it was made.
 
-(8) For the purposes of this section, an interest of a member of a director’s family shall be treated as an interest of the director .
+(8) For the purposes of this section, an interest of a member of a director’s family shall be treated as an interest of the director and the words “member of a director’s family” shall include his spouse, son, adopted son, step-son, daughter, adopted daughter and step-daughter.
 
 [10/74]
 
-(9) Subject to subsection (3), this section shall be in addition to and not in derogation of the operation of any rule of law or any provision in the articles restricting a director from having any interest in contracts with the company or from holding offices or possessing properties involving duties or interests in conflict with his duties or interests as a director.
+(9) Subject to subsection (3), this section shall be in addition to and not in derogation of the operation of any rule of law or any provision in the articles restricting a director from having any interest in transactions with the company or from holding offices or possessing properties involving duties or interests in conflict with his duties or interests as a director.
 
 (10) Any director of a company who fails to comply with any of the provisions of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year.
 
@@ -5790,7 +6048,27 @@ as the case requires.
 
 [62/70]
 
-158\. [Repealed by Act 15/86]
+### Disclosure of company information by certain directors
+
+158\.—(1) A director of a company may disclose information which he has in his capacity as a director or an employee of a company, being information that would not otherwise be available to him, to the persons specified in subsection (2) if the conditions specified in subsection (3) are met.
+
+(2) The information referred to in subsection (1) may be disclosed to —
+
+(a) a person whose interests the director represents; or
+
+(b) a person in accordance with whose directions or instructions the director may be required or is accustomed to act in relation to the director’s powers and duties.
+
+(3) The conditions referred to in subsection (1) are —
+
+(a) the director declares at a meeting of the directors of the company the name and office or position held by the person to whom the information is to be disclosed and the particulars of such information;
+
+(b) the director is first authorised by the board of directors to make the disclosure; and
+
+(c) the disclosure will not be likely to prejudice the company.
+
+(4) The matters declared by a director under subsection (3)(a) shall be recorded in the minutes of the meeting of the directors.
+
+[8/2003 wef 15/05/2003]
 
 ### Power of directors to have regard to interest of its employees, members and rulings of Securities Industry Council
 
@@ -5813,6 +6091,14 @@ as the case requires.
 (4) This section shall not apply to proposals for disposing of the whole or substantially the whole of the company’s undertaking or property made by a receiver and manager of any part of the undertaking or property of the company appointed under a power contained in any instrument or a liquidator of a company appointed in a voluntary winding up.
 
 [10/74]
+
+160A\. [Repealed by Act 38/98]
+
+160B\. [Repealed by Act 38/98]
+
+160C\. [Repealed by Act 38/98]
+
+160D\. [Repealed by Act 38/98]
 
 ### Approval of company required for issue of shares by directors
 
@@ -5846,7 +6132,9 @@ whichever is the earlier; but any approval may be previously revoked or varied b
 
 (a) subject to subsection (2), to anything done to provide such a director with funds to meet expenditure incurred or to be incurred by him for the purposes of the company or for the purpose of enabling him properly to perform his duties as an officer of the company;
 
-(b) to anything done to provide such a director who is engaged in the full-time employment of the company or of a corporation that is deemed to be related to that company, as the case may be, with funds to meet expenditure incurred or to be incurred by him in purchasing or otherwise acquiring a home;
+(b) to provide a loan to such a director who is engaged in the full-time employment of the company or of a corporation that is deemed to be related to the company, as the case may be, for the purpose of purchasing or otherwise acquiring a home occupied or to be occupied by the director, except that not more than one such loan may be outstanding from the director at any time;
+
+[Act 8/2003, wef 15/05/003]
 
 (c) to any loan made to such a director who is engaged in the full-time employment of the company or of a corporation that is deemed to be related to that company, as the case may be, where the company has at a general meeting approved of a scheme for the making of loans to employees of the company and the loan is in accordance with that scheme; or
 
@@ -6098,7 +6386,9 @@ whichever last occurs;
 
 (6) In this section —
 
-(a) a reference to a participatory interest is a reference to an interest within the meaning of section 107; and
+(a) a reference to a participatory interest is a reference to a unit in a collective investment scheme within the meaning of section 2 of the Securities and Futures Act 2001; and
+
+[42/2001 wef 01/07/2002]
 
 (b) a reference to a person who holds or acquires shares, debentures or participatory interests or an interest in shares, debentures or participatory interests includes a reference to a person who under an option holds or acquires a right to acquire a share, debenture, or participatory interest or an interest in a share, debenture or participatory interest.
 
@@ -6122,7 +6412,7 @@ whichever last occurs;
 
 ### Duty of director to notify stock exchange of acquisition, etc., of its securities
 
-166\.—(1) Where a person is obliged by virtue of section 165 to notify a company of any matter within any period, then, if that matter relates to shares or debentures listed on a stock exchange(as defined in the Securities Industry Act) he shall also be obliged to notify the stock exchangeof that matter within the like period; and the stock exchange may publish, in such manner as it may determine, any information received by it under this subsection.
+166\.—(1) Where a person is obliged by virtue of section 165 to notify a company of any matter within any period, then, if that matter relates to shares or debentures listed on a securities exchange (as defined in the Securities and Futures Act 2001) he shall also be obliged to notify the securities exchange of that matter within the like period; and the stock exchange may publish, in such manner as it may determine, any information received by it under this subsection.
 
 (2) Any person who fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $15,000 or to imprisonment for a term not exceeding 3 years and in the case of a continuing offence to a further fine of $1,000 for every day or part thereof during which the offence continues after conviction.
 
@@ -6206,7 +6496,7 @@ unless particulars with respect to the proposed payment, including the amount th
 
 (b) for at least 3 years in the period of 5 years immediately preceding his appointment as secretary, held the office of secretary of a company;
 
-(c) is a qualified person under the Legal Profession Act (Cap. 161), an accountant registered with the Institute of Certified Public Accountants of Singapore, a member of the Singapore Association of the Institute of Chartered Secretaries and Administrators, or a member of such other professional association as may be prescribed; or
+(c) is a qualified person under the Legal Profession Act (Cap. 161), a public accountant, a member of the Singapore Association of the Institute of Chartered Secretaries and Administrators, or a member of such other professional association as may be prescribed; or
 
 (d) is, by virtue of such academic or professional qualifications as may be prescribed, capable of discharging the functions of secretary of the company.
 
@@ -6225,6 +6515,10 @@ unless particulars with respect to the proposed payment, including the amount th
 (1C) A person to whom subsection (1AA)(a) applies who, after 15th May 1987, becomes a secretary of another company and is not qualified to act as secretary under subsection subsection (1AA)(b), (c) and (d) shall not be regarded as being a person who is qualified to discharge the functions of secretary under this subsection.
 
 (1D) In this subsection and section 173, “secretary” includes an assistant or deputy secretary.
+
+(1E) Where a director is the sole director of a company, he shall not act or be appointed as the secretary of the company.
+
+[5/2004 wef 01/04/2004]
 
 (2) Subsection (1) shall not operate to prevent a corporation which was acting as the secretary of a company immediately before 29th December 1967 from continuing to act as secretary of that company for a period of 12 months after that date.
 
@@ -6252,13 +6546,13 @@ Provided that the office of secretary shall not be left vacant for more than 6 m
 
 (2) This section shall not prevent a company —
 
-(a) from purchasing and maintaining for any such officer insurance against any liability referred to in subsection (1)except where the liability arises out of conduct involving dishonesty or a wilful breach of duty; or
+(a) from purchasing and maintaining for any such officer insurance against any liability referred to in subsection (1); or
 
 (b) from indemnifying such officer or auditor against any liability incurred by him —
 
 (i) in defending any proceedings (whether civil or criminal) in which judgment is given in his favour or in which he is acquitted; or
 
-(ii) in connection with any application, in relation to such liability, in which relief is granted to him by the court.
+(ii) in connection with any application, under section 76A(13) or 391 or any other provision of this Act, in which relief is granted to him by the court.
 
 [38/98 wef 18/11/1998]
 
@@ -6270,7 +6564,7 @@ Provided that the office of secretary shall not be left vacant for more than 6 m
 
 (a) contain, with respect to each director, a signed copy of his consent to act as director under this Act together with a prescribed statement that he is not disqualified to act as a director;
 
-(b) specify his present full name, any former name, his usual residential address, his nationality and his business occupation (if any) and identification (if any); and
+(b) specify his present full name, any former name, his usual residential address, his nationality and identification (if any); and
 
 (c) contain documentary evidence (if any) of any change in his name.
 
@@ -6590,7 +6884,7 @@ the corporation shall, for the purposes of subsection (1), be deemed to be perso
 
 [8/2003 wef 15/05/2003]
 
-(3A) Where the resolution is proposed to be passed by written means under section 184A, the notice of the resolution and statement shall be given and circulated to members of the company entitled to have notice of the meeting sent to them by serving on each memberin legible form or a permitted alternative form, or by making accessible to the member in accordance with section 173A —
+(3A) Where the resolution is proposed to be passed by written means under section 184A, the notice of the resolution and statement shall be given and circulated to members of the company entitled to have notice of the meeting sent to them by serving on each member —
 
 (a) a copy of the resolution and statement; and
 
@@ -6642,11 +6936,31 @@ but if, after a copy of a requisition requiring notice of a resolution has been 
 
 [Aust. s. 143.]
 
+(8) For the purposes of this section, something is “in legible form or a permitted alternative form” if, and only if, it is sent or otherwise supplied —
+
+(a) in a form (such as a paper document) that is legible before being sent or otherwise supplied and does not change form during that process; or
+
+(b) in another form that —
+
+(i) is currently agreed between the company and the person as a form in which the thing may be sent or otherwise supplied to the company; and
+
+(ii) is such that documents sent or supplied in that form can (where particular conditions are met) be received in legible form or be made legible following receipt in non-legible form.
+
+[5/2004 wef 01/04/2004]
+
 ### Special resolutions
 
-184\.—(1) A resolution shall be a special resolution when it has been passed by a majority of not less than three-fourths of such members as, being entitled to do so, vote in person or, where proxies are allowed, by proxy, at a general meeting of which not less than 21 days’ written notice specifying the intention to propose the resolution as a special resolution has been duly given.
+184\.—(1) A resolution shall be a special resolution when it has been passed by a majority of not less than three-fourths of such members as, being entitled to do so, vote in person or, where proxies are allowed, by proxy present at a general meeting of which —
 
-(2) Notwithstanding subsection (1), if it so agreed by a majority in number of the members having the right to attend and vote at the meeting, being a majority which together holds not less than 95% in nominal value of the shares giving that right or, in the case of a company not having a share capital, together represents not less than 95% of the total voting rights that could be exercised at that meeting, a resolution may be proposed and passed as a special resolution at a meeting of which less than 21 days’ written notice has been given.
+(a) in the case of a private company, not less than 14 days’ written notice; or
+
+(b) in the case of a public company, not less than 21 days’ written notice,
+
+specifying the intention to propose the resolution as a special resolution has been duly given.
+
+[8/2003 wef 15/05/2003]
+
+(2) Notwithstanding subsection (1), if it so agreed by a majority in number of the members having the right to attend and vote at the meeting, being a majority which together holds not less than 95% in nominal value of the shares giving that right or, in the case of a company not having a share capital, together represents not less than 95% of the total voting rights that could be exercised at that meeting, a resolution may be proposed and passed as a special resolution at a meeting of which written notice of a period less than that required under subsection (1) has been given.
 
 (3) At any meeting at which a special resolution is submitted a declaration of the chairman that the resolution is carried shall unless a poll is demanded be conclusive evidence of the fact without proof of the number or proportion of the votes recorded in favour of or against the resolution.
 
@@ -6680,17 +6994,17 @@ but if, after a copy of a requisition requiring notice of a resolution has been 
 
 [Aust. s. 145.]
 
-### Registration and copies of certain resolutionsand agreements
+### Registration and copies of certain resolutions
 
 186\.—(1) A copy of —
 
 (a) every special resolution; and
 
-(b) every resolution or agreement which effectively binds any class of shareholders whether agreed to by all the members of that class or not,
+(b) every resolution which effectively binds any class of shareholders whether agreed to by all the members of that class or not,
 
 shall, except where otherwise expressly provided by this Act within one month after the passing or making thereof, be lodged by the company with the Registrar.
 
-(2) Where articles have not been registered a printed copy of every resolution or agreement to which this section applies shall be forwarded to any member at his request on payment of $1 or such less sum as the company directs.
+(2) Where articles have not been registered a printed copy of every resolution to which this section applies shall be forwarded to any member at his request on payment of $1 or such less sum as the company directs.
 
 (3) In the event of any default in complying with subsection (1) the company and every officer of the company who is in default shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and also to a default penalty.
 
@@ -6720,7 +7034,7 @@ shall, except where otherwise expressly provided by this Act within one month af
 
 (b) those minutes to be signed by the chairman of the meeting at which the proceedings were had or by the chairman of the next succeeding meeting.
 
-(2) Any minutes so entered that purports to be signed as provided in subsection (1) shall be evidence of the proceedings to which they relate.
+(2) Any minutes so entered that purports to be signed as provided in subsection (1) shall be evidence of the proceedings to which they relate, unless the contrary is proved.
 
 (3) Where minutes have been so entered and signed, then, until the contrary is proved —
 
@@ -6729,6 +7043,32 @@ shall, except where otherwise expressly provided by this Act within one month af
 (b) all proceedings had thereat shall be deemed to have been duly had; and
 
 (c) all appointments of officers or liquidators made thereat shall be deemed to be valid.
+
+(3A) Every company shall keep minute books in which it shall cause to be entered the following matters:
+
+(a) if the company has only one director —
+
+(i) the passing of resolutions by that director; and
+
+(ii) the making of declarations by that director;
+
+(b) resolutions passed by written means under section 184A,
+
+within one month of the passing or making of each resolution or declaration.
+
+[5/2004 wef 01/04/2004]
+
+(3B) The company shall ensure that minutes of the passing of a resolution referred to in subsection (3A)(b) are signed by a director within a reasonable time after the resolution is passed.
+
+[5/2004 wef 01/04/2004]
+
+(3C) The director of a company with only one director who has passed a resolution or made a declaration shall sign the minutes thereof within a reasonable time after the resolution is passed or the declaration is made.
+
+[5/2004 wef 01/04/2004]
+
+(3D) Minutes entered in accordance with subsection (3A) and purportedly signed in accordance with subsection (3B) or (3C) (as the case may be) shall be evidence of the resolution or declaration to which they relate, unless the contrary is proved.
+
+[5/2004 wef 01/04/2004]
 
 (4) If default is made in complying with this section, the company and every officer of the company who is in default shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 and also to a default penalty.
 
@@ -6740,11 +7080,15 @@ shall, except where otherwise expressly provided by this Act within one month af
 
 ### Inspection of minute books
 
-189\.—(1) The books containing the minutes of proceedings of any general meeting shall be kept by the company at the registered office or the principal place of business in Singapore of the company, and shall be open to the inspection of any member without charge.
+189\.—(1) The books referred to in section 188(1) and (3A) shall be kept by the company at the registered office or the principal place of business in Singapore of the company, and shall be open to the inspection of any member without charge.
 
-(2) Any member shall be entitled to be furnished within 14 days after he has made a request in writing in that behalf to the company with a copy of any minutes specified in at a charge not exceeding $1 for every page thereof.
+(2) Any member shall be entitled to be furnished within 14 days after he has made a request in writing in that behalf to the company with a copy of any minutes specified in section 188(1) or (3A) at a charge not exceeding $1 for every page thereof.
 
 [15/84]
+
+(2A) Subsection (1) shall not apply to books containing minutes of proceedings of meetings of a company’s directors and of its managers, or (as the case may be) books containing minutes of the passing of resolutions and the making of declarations by the director of a company that has only one director; and subsection (2) shall not apply to any of those minutes.
+
+[28/2004 wef 01/04/2004]
 
 (3) If any copy required under this section is not so furnished the company and every officer of the company who is in default shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $400 and also to a default penalty.
 
@@ -6810,7 +7154,9 @@ Register of members
 
 ### Inspection and closing of register
 
-192\.—(1) A company may, on giving not less than 14 days’ notice to the Registrar, close the register of members or any class of members for any time or times, but so that no part of the register shall be closed for more than 30 days in the aggregate in any calendar year.
+192\.—(1) A company may close the register of members or any class of members for one or more periods not exceeding 30 days in the aggregate in any calendar year.
+
+[5/2004 wef 01/04/2004]
 
 (2) The register and index shall be open to the inspection of any member without charge and of any other person on payment for each inspection of $1 or such less sum as the company requires.
 
@@ -6922,6 +7268,8 @@ Annual return
 
 [12/2002 wef 13/01/2003]
 
+(6) [Deleted by Act 12/2002 wef 13/01/2003]
+
 (7) If a company fails to comply with this section, the company and every officer of the company who is in default shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and also to a default penalty.
 
 [15/84]
@@ -6931,6 +7279,8 @@ Annual return
 [U.K.s.124.]
 
 [Aust. s. 158.]
+
+198\. [Deleted by Act 12/2002 wef 13/01/2003]
 
 ## PART VI
 
@@ -6958,7 +7308,7 @@ Accounts
 
 (4) If accounting and other records are kept by the company at a place outside Singapore there shall be sent to and kept at a place in Singapore and be at all times open to inspection by the directors such statements and returns with respect to the business dealt with in the records so kept as will enable to be prepared true and fair profit and loss accounts and balance-sheets and any documents required to be attached thereto.
 
-(5) The Court may in any particular case order that the accounting and other records of a company be open to inspection by an approved company auditor acting for a director, but only upon an undertaking in writing given to the Court that information acquired by the auditor during his inspection shall not be disclosed by him except to that director.
+(5) The Court may in any particular case order that the accounting and other records of a company be open to inspection by a public accountant acting for a director, but only upon an undertaking in writing given to the Court that information acquired by the public accountant during his inspection shall not be disclosed by him except to that director.
 
 (6) If default is made in complying with this section, the company and every officer of the company who is in default shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months and also to a default penalty.
 
@@ -6994,9 +7344,9 @@ Accounts
 
 (5) The Registrar may require the directors who make an application under this section to supply such information relating to the operation of the holding company and of any corporation that is deemed by virtue of section 6 to be related to the holding company as he thinks necessary for the purpose of determining the application.
 
-(6) The Registrar may at the expense of the holding company of which the applicants are directors request any approved company auditor to investigate and report on the application.
+(6) The Registrar may at the expense of the holding company of which the applicants are directors request any public accountant to investigate and report on the application.
 
-(7) The Registrar may rely upon any report obtained pursuant to subsection (6) from the approved company auditor.
+(7) The Registrar may rely upon any report obtained pursuant to subsection (6) from the public accountant.
 
 (8) The Registrar may make an order granting or refusing the application or granting the application subject to such limitations, terms or conditions as he thinks fit and shall serve the order on the holding company.
 
@@ -7076,9 +7426,9 @@ each of which complies with the requirements of the Accounting Standards and giv
 
 [Act 12/2002 wef 01/01/2003]
 
-(3BA) Subsection (3A) does not apply to a company which at the end of its financial year is a wholly owned subsidiary of another corporation incorporated in Singapore and, for the avoidance of doubt, subsections (1) and (3) shall apply to that company.
+(3BA) Subsection (3A) does not apply to any company in relation to which consolidated accounts are not required under the Accounting Standards, and, for the avoidance of doubt, subsections (1) and (3) shall apply to that company.
 
-[Act 12/2002 wef 01/01/2003]
+[5/2004 wef 01/04/2004]
 
 (3C) The directors shall (before the profit and loss account and balance-sheet referred to in subsections (1), (3) and (3A)(b) are made out) take reasonable steps —
 
@@ -7094,13 +7444,21 @@ each of which complies with the requirements of the Accounting Standards and giv
 
 [13/87]
 
-(4) The profit and loss account and the balance-sheet of a company and if it is a holding company for which consolidated accounts are required, the consolidated accounts shall be duly audited before they are laid before the company at its annual general meeting as required by this section and the auditor’s report required by section 207 shall be attached to or endorsed upon the accounts or the consolidated accounts.
+(4) The accounts referred to in subsection (4B) shall be duly audited before they are laid before the company at its annual general meeting as required by this section, and the auditor’s report required by section 207 shall be attached to or endorsed upon those accounts.
 
-[13/87]
+[5/2004 wef 01/04/2004]
 
-(4A) The directors of a company shall take reasonable steps to ensure that the profit and loss account and balance-sheet of the company, and if the company is a holding company for which consolidated accounts are required, the directors of the holding company shall take reasonable steps to ensure that the consolidated accounts are audited as required by this Part not less than 14 days before the annual general meeting of the company and shall cause to be attached to the accounts or to the consolidated accounts, as the case may be, the auditor’s report that is furnished to the directors under section 207(1A).
+(4A) The directors of the company shall take reasonable steps to ensure that the accounts referred to in subsection (4B) are audited as required by this Part not less than 14 days before the annual general meeting of the company and shall cause to be attached to those accounts the auditor’s report that is furnished to the directors under section 207(1A).
 
-[13/87]
+[5/2004 wef 01/04/2004]
+
+(4B) In subsections (4) and (4A), “accounts”, in relation to a company, means —
+
+(a) if the company is not one to which subsection (3A) applies, the profit and loss account and balance-sheet of the company required to be laid before the company at its annual general meeting under subsections (1) and (3); or
+
+(b) if the company is one to which subsection (3A) applies, the consolidated accounts of the company and its subsidiaries, and the balance-sheet of the company required to be laid before the company at its annual general meeting under subsection (3A).
+
+[5/2004 wef 01/04/2004]
 
 (5) The directors of a company shall cause to be attached to every balance-sheet made out under subsection (3) or (3A)(b) a report made in accordance with a resolution of the directors and signed by not less than two of the directors with respect to the profit or loss of the company for the financial year and the state of the company’s affairs as at the end of the financial year.
 
@@ -7188,7 +7546,13 @@ each of which complies with the requirements of the Accounting Standards and giv
 
 [13/87]
 
-(7) [Deleted by Act 12/2002 wef 01/01/2003]
+(7) The reports referred to in subsections (5) and (6A) shall also contain such additional information as the Minister may prescribe, being information which the Minister considers necessary to facilitate an understanding by members of the company or holding company, as the case may be, of the business of the company or group of companies of the holding company, as the case may be.
+
+[5/2004 wef 01/04/2004]
+
+(7A) For the avoidance of doubt, the additional information referred to in subsection (7) need not relate to the profit or loss or the state of affairs of the company or group of companies of the holding company referred to in subsection (5) or (6A).
+
+[5/2004 wef 01/04/2004]
 
 (8) The directors of a company shall state in the report whether since the end of the previous financial year a director of the company has received or become entitled to receive a benefit (other than a benefit included in the aggregate amount of emoluments received or due and receivable by the directors shown in the accounts or, if the company is a holding company, the consolidated accounts in accordance with the Accounting Standards or the fixed salary of a full-time employee of the company) by reason of a contract made by the company or a related corporation with the director or with a firm of which he is a member, or with a company in which he has a substantial financial interest and, if so, the general nature of the benefit.
 
@@ -7298,13 +7662,33 @@ are prepared in accordance with that Act.
 
 [13/87]
 
-201A\. [Deleted by Act 5/2004 wef 01/04/2004]
+### Consolidated accounts not to be issued, etc., until receipt of accounts of subsidiaries
+
+201A\.—(1) Subject to subsection (5), the directors of a holding company shall not cause to be made out the consolidated accounts referred to in section 201(3A) or make the report referred to in subsection (6A) of that section unless they have received from each subsidiary its audited accounts, the statements required under section 201, the directors’ report in accordance with subsection (6A) of that section and the auditor’s report in accordance with section 207.
+
+(2) Where a subsidiary of a holding company is incorporated outside Singapore it is sufficient compliance with this section if the directors of the holding company receive from the subsidiary accounts and reports corresponding to those required under this section and in accordance with the law of the place of incorporation of the subsidiary.
+
+(3) The directors of a subsidiary shall, at the request of the directors of the holding company supply all such information as is required for the preparation of consolidated accounts of the holding company and its subsidiaries, and of the report of the directors of the holding company.
+
+(4) The directors of a holding company are, unless they know or have reason to suspect that any matter in any accounts, report or information furnished by the directors of a subsidiary is false or misleading, entitled to rely on the accounts, report or information for the purpose of the preparation of the consolidated accounts and their report so far as they relate to the affairs of the subsidiary.
+
+(5) Where the directors of a holding company, having taken all such steps as are reasonably available to them, are unable to obtain from the directors of a subsidiary any accounts, report or other information required for the preparation of the consolidated accounts and the directors’ report of the group, they may cause to be made out the consolidated accounts and make the directors’ report without incorporating therein or including therewith the first-mentioned accounts, report or other information relating to the subsidiary but with such qualifications and explanations as are necessary to prevent the consolidated accounts and report from being misleading.
+
+(6) Where the directors of a holding company have caused to be made out the consolidated accounts and have made the directors’ report in accordance with subsection (5) they shall send to the shareholders of the holding company, within one month after receiving the accounts, report or other information from the directors of the subsidiary, a copy of the accounts and report or a statement embodying the other information (as the case may be) together with a statement by the directors of the holding company containing such qualifications and explanations of the consolidated accounts and of their report as are necessary having regard to the accounts, report or information received from the subsidiary.
+
+(7) The Registrar may, by order published in theGazette, exempt the directors of a holding company from compliance with subsection (6) in respect of a specified company or class of companies, whether incorporated in or outside Singapore, subject to such conditions as he may think fit.
+
+[36/2000 wef 22/01/2001]
+
+[13/87]
 
 ### Audit committees
 
-201B\.—(1) Every listed company shall, within 12 months from 23rd March 1990 or such further period as the Registrar may, in any particular case, allow, have an audit committee.
+201B\.—(1) Every listed company shall have an audit committee.
 
-(2) An audit committee shall be appointed by the directors from among their number (pursuant to a resolution of the board of directors) and shall be composed of not fewer than 3 members of whom a majority shall not be —
+[5/2004 wef 01/04/2004]
+
+(2) An audit committee shall be appointed by the directors from among their number (pursuant to a resolution of the board of directors) and shall be composed of 3 or more members of whom a majority shall not be —
 
 (a) executive directors of the company or any related corporation;
 
@@ -7344,15 +7728,19 @@ together with such other functions as may be agreed to by the audit committee an
 
 (9) Where the directors of a company or of a holding company are required to make a report under section 201(5) or section 201(6A) and the company is a listed company, the directors shall describe in the report the nature and extent of the functions performed by the audit committee pursuant to subsection (5).
 
-(10) In this section, “listed company” means a company that is incorporated in Singapore and has been admitted to the official list of a securities exchange in Singapore and has not been removed from the official list; and “non-executive director” or “a person who is not an executive director” means a director who is not an employee of and does not hold any other office of profit in, the company or in any subsidiary or associated company of the company in conjunction with his office of director and his membership of an audit committee, and executive director shall be read accordingly.
+(10) In this section, “listed company” means a company that is incorporated in Singapore and has been admitted to the official list of a securities exchange in Singapore and has not been removed from the official list.
 
-[40/89]
+[5/2004 wef 01/04/2004]
+
+(11) Any reference in this section to a director who is not an executive director of a company is a reference to a director who is not an employee of, and does not hold any other office of profit in, the company or in any related corporation of that company in conjunction with his office of director and his membership of any audit committee, and any reference to an executive director shall be read accordingly.
+
+[5/2004 wef 01/04/2004]
 
 ### Relief from requirements as to form and content of accounts and reports
 
-202\.—(1) The directors of a company may apply to the Registrar in writing for an order relieving them from any requirement of this Act relating to the form and content of accounts or consolidated accountsor to the form and content of the report required by section 201(6) and (6A) and the Registrar may make such an order either unconditionally or on condition that the directors comply with such other requirements relating to the form and content of the accounts or consolidated accounts or report as the Registrar thinks fit to impose.
+202\.—(1) The directors of a company may apply to the Registrar in writing for an order relieving them from any requirement of this Act relating to the form and content of accounts or consolidated accounts (other than a requirement of the Accounting Standards) or to the form and content of the report required by section 201(6) and (6A) and the Registrar may make such an order either unconditionally or on condition that the directors comply with such other requirements relating to the form and content of the accounts or consolidated accounts or report as the Registrar thinks fit to impose.
 
-(2) The Registrar may, where he considers it appropriate, make an order in respect of a specified class of companies relieving the directors of a company in that class from compliance with any specified requirements of this Act relating to the form and content of accounts or consolidated accounts or to the form and content of the report required by section 201(6) and (6A) and the order may be made either unconditionally or on condition that the directors of the company comply with such other requirements relating to the form and content of accounts or consolidated accounts or report as the Registrar thinks fit to impose.
+(2) The Registrar may, where he considers it appropriate, make an order in respect of a specified class of companies relieving the directors of a company in that class from compliance with any specified requirements of this Act relating to the form and content of accounts or consolidated accounts (other than a requirement of the Accounting Standards) or to the form and content of the report required by section 201(6) and (6A) and the order may be made either unconditionally or on condition that the directors of the company comply with such other requirements relating to the form and content of accounts or consolidated accounts or report as the Registrar thinks fit to impose.
 
 (3) The Registrar shall not make an order under the sub-section (1) unless he is of the opinion that compliance with the requirements of this Act would render the accounts or consolidated accounts or report, as the case may be, misleading or inappropriate to the circumstances of the company or would impose unreasonable burdens on the company or any officer of the company.
 
@@ -7364,13 +7752,47 @@ together with such other functions as may be agreed to by the audit committee an
 
 ### Members of company entitled to balance-sheet, etc.
 
-203\.—(1) A copy of every profit and loss account and balance-sheet or, if it is a holding company, a copy of the consolidated accounts and balance-sheet (including every document required by law to be attached thereto) which is to be laid before a company in general meeting accompanied by a copy of the auditor’s report thereon shall, not less than 14 days before the date of the meeting, be sent to all persons entitled to receive notice of general meetings of the company.
+203\.—(1) A copy of every profit and loss account and balance-sheet of a company or, in the case of a holding company, a copy of the consolidated accounts and balance-sheet (including every document required by law to be attached thereto), which is duly audited and which (or which, but for section 201C) is to be laid before the company in general meeting accompanied by a copy of the auditor’s report thereon shall —
+
+(a) not less than 14 days before the date of the meeting; or
+
+(b) if a resolution under section 175A is in force, not less than 28 days before the end of the period allowed for the laying of those documents,
+
+be sent to all persons entitled to receive notice of general meetings of the company.
+
+[8/2003 wef 15/05/2003]
 
 (2) Any member of a company (whether he is or is not entitled to have sent to him copies of the profit and loss accounts and balance-sheets, or consolidated accounts and balance-sheet) to whom copies have not been sent and any holder of a debenture shall, on a request being made by him to the company, be furnished by the company without charge with a copy of the last profit and loss account and balance-sheet of the company, or a copy of the consolidated accounts and balance-sheet, as the case may be (including every document required by this Act to be attached thereto) together with a copy of the auditor’s report thereon.
 
 (3) If default is made in complying with subsection (1) or (2), the company and every officer of the company who is in default shall, unless it is proved that the member or holder of a debenture in question has already made a request for and been furnished with a copy of the accounts or consolidated accounts and all documents referred to in subsection (1) or (2), be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and also to a default penalty.
 
 [15/84]
+
+(4) In a case referred to in subsection (1)(b), any member or auditor of the company may, by notice to the company not later than 28 days from the day on which the documents referred to in subsection (1) were sent out, require that a general meeting be held for the purpose of laying those documents before the company.
+
+[8/2003 wef 15/05/2003]
+
+(5) Section 175A(5) shall apply, with the necessary modifications, to the giving of a notice under subsection (4).
+
+[8/2003 wef 15/05/2003]
+
+(6) The directors of the company shall, within 21 days from the date of giving of the notice referred to in subsection (4), convene a meeting for the purpose referred to in that subsection.
+
+[8/2003 wef 15/05/2003]
+
+(7) If default is made in convening the meeting under subsection (6) —
+
+(a) each director in default shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000; and
+
+(b) the Court may, on application of the member or auditor, order a general meeting to be called.
+
+[8/2003 wef 15/05/2003]
+
+[U.K.s.158.]
+
+[Aust. s. 164.]
+
+[13/87]
 
 ### Provision of summary financial statement to shareholders
 
@@ -7392,7 +7814,7 @@ together with such other functions as may be agreed to by the audit committee an
 
 (7) If default is made in complying with this section or any regulations made under subsection (9), the company and every officer of the company who is in default shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and also to a default penalty.
 
-(8) For the purpose of subsection (1), “listed” means has been admitted to the official list of a stock exchangein Singapore and has not been removed from that list.
+(8) For the purpose of subsection (1), “listed” means has been admitted to the official list of a securities exchange in Singapore and has not been removed from that list.
 
 (9) The Minister may make regulations to give effect to this section, including making provision as to the manner in which it is to be ascertained whether a member of the company wishes to receive copies of the documents referred to in section 203(1) or does not wish to receive the summary financial statement under this section.
 
@@ -7400,15 +7822,31 @@ together with such other functions as may be agreed to by the audit committee an
 
 ### Penalty
 
-204\.—(1) If any director of a company fails to comply or to take all reasonable steps to secure compliance by the company with the foregoing provisions of this Division or has by his own wilful act been the cause of any default by the company thereunder, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years.
+204\.—(1) If any director of a company fails to comply with section 201(1A), (3), (3A) or (15), he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
+
+[5/2004 wef 01/04/2004]
+
+(1A) If any director of a company —
+
+(a) fails to comply with any provision of this Division (other than section 201(1A), (3), (3A) and (15));
+
+(b) fails to take all reasonable steps to secure compliance by the company with any such provision; or
+
+(c) has by his own wilful act been the cause of any default by the company of any such provision,
+
+he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years.
+
+[5/2004 wef 01/04/2004]
 
 (2) In any proceedings against a person for failure to take all reasonable steps to comply with, or to secure compliance with, the preceding provisions of this Division relating to the form and content to the accounts of a company or consolidated accounts of a holding company by reason of an omission from the accounts or consolidated accounts, it is a defence to prove that the omission was not intentional and that the information omitted was immaterial and did not affect the giving of a true and fair view of the matters required by section 201 to be dealt with in the accounts or consolidated accounts, as the case may be.
 
-(3) If an offence under this section is committed with intent to defraud creditors of the company or creditors of any other person or for a fraudulent purpose, the offender shall be liable on conviction to a fine not exceeding $15,000 or to imprisonment for a term not exceeding 3 years or to both.
+(3) If an offence under this section is committed with intent to defraud creditors of the company or creditors of any other person or for a fraudulent purpose, the offender shall be liable on conviction —
 
-[62/70]
+(a) in the case of an offence under subsection (1), to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 3 years or to both; or
 
-[15/84]
+(b) in the case of an offence under subsection (1A), to a fine not exceeding $15,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+[5/2004 wef 01/04/2004]
 
 (4) A person shall not be sentenced to imprisonment for any offence under this section unless in the opinion of the Court dealing with the case the offence was committed wilfully.
 
@@ -7430,7 +7868,7 @@ Audit
 
 (2) A company shall at each annual general meeting of the company appoint a person or persons to be the auditor or auditors of the company, and any auditor or auditors so appointed shall, subject to this section, hold office until the conclusion of the next annual general meeting of the company.
 
-(3) Subject to subsections (7) and (8), the directors of a company may appoint an approved company auditor to fill any casual vacancy in the office of auditor of the company, but while such a vacancy continues the surviving or continuing auditor or auditors, if any, may act.
+(3) Subject to subsections (7) and (8), the directors of a company may appoint a public accountant to fill any casual vacancy in the office of auditor of the company, but while such a vacancy continues the surviving or continuing auditor or auditors, if any, may act.
 
 (4) An auditor of a company may be removed from office by resolution of the company at a general meeting of which special notice has been given, but not otherwise.
 
@@ -7514,6 +7952,10 @@ requiring particulars of all emoluments paid to or receivable by the auditor of 
 
 (e) lay such statement before the company in general meeting.
 
+(1A) Without prejudice to subsection (1), a public company shall, under prescribed circumstances, undertake a review of the fees, expenses and emoluments of its auditor to determine whether the independence of the auditor has been compromised, and the outcome of the review shall be sent to all persons entitled to receive notice of general meetings of the company.
+
+[5/2004 wef 01/04/2004]
+
 (2) If default is made in complying with this section, the company and every director of the company who is in default shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
 [15/84]
@@ -7544,19 +7986,11 @@ requiring particulars of all emoluments paid to or receivable by the auditor of 
 
 (b) whether the accounting and other records required by this Act to be kept by the company and, if it is a holding company, by the subsidiaries other than those of which he has not acted as auditor have been, in his opinion, properly kept in accordance with this Act;
 
-(c) in the case of consolidated accounts —
-
-(i) the names of the subsidiaries, if any, of which he has not acted as auditor;
-
-(ii) whether he has considered the accounts and the auditor’s reports of all subsidiaries of which he has not acted as auditor, being accounts that are included (whether separately or consolidated with other accounts) in the consolidated accounts;
-
-(iii) whether he is satisfied that the accounts of the subsidiaries that are consolidated with other accounts are in form and content appropriate and proper for the purposes of the preparation of the consolidated accounts, and whether he has received satisfactory information and explanations as required by him for those purposes; and
-
-(iv) whether the auditor’s report on the accounts of any subsidiary was made subject to any qualification (other than a qualification that is not material in relation to the consolidated accounts), or included any comment made under subsection (3) and, if so, particulars of the qualification or comment;
+(c) [Deleted by Act 5/2004 wef 01/04/2004]
 
 (d) any defect or irregularity in the accounts or consolidated accounts and any matter not set out in the accounts or consolidated accounts without regard to which a true and fair view of the matters dealt with by the accounts or consolidated accounts would not be obtained; and
 
-(e) if he is not satisfied as to any matter referred to in paragraph (a), (aa), (b) or (c) , his reasons for not being so satisfied.
+(e) if he is not satisfied as to any matter referred to in paragraph (a), (aa) or (b), his reasons for not being so satisfied.
 
 (3) It is the duty of an auditor of a company to form an opinion as to each of the following matters:
 
@@ -7646,7 +8080,7 @@ he shall forthwith report the matter in writing to the Registrar.
 
 ### Interpretation
 
-209A\. In this Part and the Ninth Schedule, unless the contrary intention appears —
+209A\. In this Part, unless the contrary intention appears —
 
 “current liability”, in relation to accounts or consolidated accounts, means a liability that would in the ordinary course of events be payable within 12 months after the end of the financial year to which the accounts or consolidated accounts relate;
 
@@ -7654,7 +8088,7 @@ he shall forthwith report the matter in writing to the Registrar.
 
 (a) a set of consolidated accounts for the group of companies of that holding company; or
 
-(b) the accounts or consolidated accounts prepared in compliance with the Ninth Schedule;
+(b) the accounts or consolidated accounts prepared in compliance with the Accounting Standards;
 
 [22/93]
 
@@ -7676,11 +8110,19 @@ he shall forthwith report the matter in writing to the Registrar.
 
 [13/87]
 
-209B\. [Deleted by Act 5/2004 wef 01/04/2004]
+### Application of amendments made to sections 201 to 204 and 207 and new sections 201A and 209A
+
+209B\.3—(1) The amendments made to sections 201 to 204 and 207 by the Companies (Amendment) Act 1987 and the new sections 201A and 209A inserted by that Act do not apply in relation to a company to, or in respect of, the financial year of the company that began on or before 15th May 1987 and ends after that date.
+
+(2) To the extent to which by virtue of subsection (1) the amendments and additions referred to in that subsection do not apply in relation to a company, Divisions 1 and 2 of Part VI and the Ninth Schedule so apply as if the amendments had not been enacted.
+
+[13/87]
+
+3This section was section 42 of the Companies (Amendment) Act 1987 (No. 13 of 1987).
 
 ## PART VII
 
-ARRANGEMENTS, RECONSTRUCTIONS AND TAKE-OVERS
+ARRANGEMENTS AND RECONSTRUCTIONS
 
 ### Power to compromise with creditors and members
 
@@ -7692,7 +8134,7 @@ ARRANGEMENTS, RECONSTRUCTIONS AND TAKE-OVERS
 
 (4) The Court may grant its approval to a compromise or arrangement subject to such alterations or conditions as it thinks just.
 
-(5) An order under subsection (3) shall have no effect until an office copyof the order is lodged with the Registrar, and upon being so lodged, the order shall take effect on and from the date of lodgment or such earlier date as the Court may determine and as may be specified in the order.
+(5) An order under subsection (3) shall have no effect until a copy of the order is lodged with the Registrar, and upon being so lodged, the order shall take effect on and from the date of lodgment or such earlier date as the Court may determine and as may be specified in the order.
 
 (6) Subject to subsection (7), a copy of every order made under subsection (3) shall be annexed to every copy of the memorandum of the company issued after the order has been made, or, in the case of a company not having a memorandum, to every copy so issued of the instrument constituting or defining the constitution of the company.
 
@@ -7768,7 +8210,7 @@ ARRANGEMENTS, RECONSTRUCTIONS AND TAKE-OVERS
 
 (3) Where an order is made under this section, every company in relation to which the order is made shall lodge within 7 days of the making of the order —
 
-(a) an office copyof the order with the Registrar; and
+(a) a copy of the order with the Registrar; and
 
 (b) where the order relates to land, an office copy of the order with the appropriate authority concerned with the registration or recording of dealings in that land,
 
@@ -7790,209 +8232,17 @@ and every company which makes default in complying with this section and every o
 
 [Aust. s. 183.]
 
-### Take-over offers
+213\. [Repealed by S 675/2001 wef 01/01/2002]
 
-213\.—(1) This section, section 214 and the Tenth Schedule apply to and in relation to all natural persons, whether resident in Singapore or not and whether citizens of Singapore or not, and to all bodies corporate or unincorporate, whether incorporated or carrying on business in Singapore or not, and extend to acts done or omitted to be done outside Singapore, and any reference to an offeror corporation or a corporation in this section, section 214 and in the Tenth Schedule shall be construed, with such modifications and qualifications as may be necessary, so as to include a reference to a natural person.
-
-(2) In this section, section 214 and in the Tenth Schedule —
-
-“offeree company”, in relation to a take-over scheme or a take-over offer, means a public company to shares in which the scheme or offer relates;
-
-“offeror corporation”, in relation to a take-over scheme or a take-over offer, means the corporation by or on behalf of which any take-over offer under the scheme, or the take-over offer, is made or to be made;
-
-“take-over offer” means an offer for the acquisition of shares under a take-over scheme;
-
-“take-over scheme” means a scheme involving the making of offers for the acquisition by or on behalf of a corporation —
-
-(a) of all the shares in another company or of all the shares of a particular class in another company; or
-
-(b) of any shares in another company which results in the first-mentioned corporation acquiring effective control of that other company.
-
-[15/84]
-
-(3) For the purposes of this section, acquiring effective control means the acquiring of shares in an offeree company which (together with shares, if any, already held by the offeror corporation or by any other corporation that is deemed by virtue of section 6 to be related to that corporation) carry the right to exercise, or control the exercise of not less than 25% of the votes attached to the voting shares of that company.
-
-[15/84]
-
-[13/87]
-
-(4) A take-over offer shall not be made unless —
-
-(a) the offeror corporation has, not earlier than 28 days and not later than 14 days, before the offer is made, given or caused to be given to the offeree company notice in writing of the take-over scheme containing particulars of the terms of the take-over offers to be made under the scheme, together with a statement that complies with the requirements set out in Part B of the Tenth Schedule; and
-
-(b) the offer complies with the requirements set out in Part A of that Schedule and there is attached to the offer —
-
-(i) a copy of the statement given or caused to be given by the offeror corporation to the offeree company in pursuance of paragraph (a); and
-
-(ii) if the offeree company gives or causes to be given to the offeror corporation a statement in pursuance of subsection (5)(a) — a copy of that statement.
-
-[15/84]
-
-(5) Where an offeree company receives a notice and statement given in pursuance of subsection (4), the offeree company shall either —
-
-(a) give or cause to be given to the offeror corporation, within 14 days after the receipt of the notice and statement, a statement in writing that complies with the requirements set out in Part C of the Tenth Schedule; or
-
-(b) give or cause to be given to each holder of shares in the offeree company to which the take-over scheme relates, within 14 days after take-over offers are first made to shareholders under the take-over scheme, such a statement in writing.
-
-[15/84]
-
-(6) A statement, given or caused to be given by an offeree company in pursuance of subsection (5), may contain such information in addition to that required by Part C of the Tenth Schedule as the directors of the offeree company think fit.
-
-(7) Where take-over offers are made under a take-over scheme, the offeror corporation shall forthwith give notice in writing to the offeree company that offers have been made under the scheme and of the date of the offers.
-
-(8)(a)
-
-(i) The offeror corporation shall, on the same day that it gives or causes to be given to the offeree company a notice in writing pursuant to subsection (4) or section 214(4) and on the same day that it despatches the take-over offer, lodge a copy of that notice and take-over offer with the Registrar and with a stock exchange, if the offeree company is quoted on the stock exchange.
-
-(ii) The offeree company shall on the same day that it gives or causes to be given a statement in writing pursuant to subsection (5)(a) lodge a copy of that statement with the Registrar and with a stock exchange, if the offeree company is quoted on the stock exchange.
-
-(b)
-
-The Registrar shall, on the application of the offeror corporation or the offeree company, as the case may be, have power to permit the offeror corporation or the offeree company at any time prior to the offer being made —
-
-(i) to amend any such notice or statement in writing lodged with him pursuant to paragraph (a); or
-
-(ii) to substitute a fresh notice or statement in writing for an earlier notice or statement lodged with him pursuant to paragraph (a),
-
-in such manner and subject to such terms as he considers are justified by the circumstances of the case but in any such event time shall begin to run from the date of the first notice or statement in writing.
-
-[15/84]
-
-(9)(a) A corporation which has no real intention to make an offer in the nature of a take-over offer shall not give notice or publicly announce that it intends to make a take-over offer whether under this Act or otherwise.
-
-[15/84]
-
-(b)
-
-A corporation shall not make a take-over offer or give notice or publicly announce that it intends to make such an offer if it has no reasonable or probable grounds for believing that it will be able to perform its obligations if the offer is accepted.
-
-(c)
-
-Every corporation which has a firm intention to make a take-over offer shall make a public announcement of that intention in the newspapers giving the terms of the offer and the identity of the offeror and shall take steps to give or cause to be given the notice in writing of the take-over scheme referred to in subsection (4)(a) to the offeree company so that the notice is given as soon as practicable after the public announcement is made and in any event within 14 days of such announcement unless the Registrar agrees to an extension beyond this period in the special circumstances of any particular case.
-
-In this paragraph, a corporation shall be conclusively presumed to have a firm intention to make a take-over offer from the date that it acquires effective control of an offeree company.
-
-(d)
-
-Where the offeror corporation has stated in a public announcement that the making of the take-over offer is subject to the fulfilment of certain conditions which are specified in the announcement, the offeror corporation shall notwithstanding paragraph (c), give or cause to be given a notice in writing of the scheme referred to in subsection (4)(a) to the offeree company within 14 days of the fulfilment of those conditions.
-
-[13/87]
-
-[13/87]
-
-(10) If a take-over offer under a take-over scheme is withdrawn, a contract arising from the acceptance of any other take-over offer under the take-over scheme is voidable at the option of a shareholder of an offeree company who has accepted that other take-over offer by notice in writing given to the offeror corporation not later than one month after the first-mentioned take-over offer is withdrawn.
-
-[15/84]
-
-(10A) Nothing in this section and the Tenth Schedule shall be construed as placing an obligation upon an offeror corporation —
-
-(a) to extend a take-over offer to the holders of any class of share capital in the offeree company which carries votes; and
-
-(b) to comply with this section and the Tenth Schedule where the offeror corporation (together with any corporation that is deemed by section 6 to be related to the offeror corporation) holds shares carrying more than 50% of the voting rights attributable to the share capital of the offeree company before the take-over offer is made.
-
-[13/87]
-
-(11) Notwithstanding anything in the articles of an offeree company or in the document by which an offeree company is constituted, the directors of the offeree company are entitled to have refunded to them by the company any expenses reasonably incurred by them in the interests of the members of the company as a whole in relation to a take-over scheme involving the acquisition of the shares in the company.
-
-[15/84]
-
-(12)(a) Where a take-over offer is made in contravention of this section or an offeror corporation fails to comply with subsections (7), (8) and (9), the offeror corporation and every officer of the corporation who is in default shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 5 years.
-
-(b)
-
-Where an offeree company fails to comply with subsection (5), the offeree company, and every officer of that company who is in default shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 5 years.
-
-[15/84]
-
-(13) Sections 55 and 56 shall apply to and in relation to a statement given by an offeror corporation to an offeree company in pursuance of subsection (4)(a), and to any copy of such a statement, as if —
-
-(a) each reference in those sections to a prospectus were a reference to such a statement or a copy of such a statement;
-
-(b) the reference in section 55(1) to persons who subscribe for or purchase any shares or debentures were a reference to a person who accepts a take-over offer; and
-
-(c) each reference in those sections to the allotment or sale of shares or debentures were a reference to the acceptance of a take-over offer.
-
-(14) Regulations may be made varying the requirements set out in any part of the Tenth Schedule either by omitting or altering any such requirement or by adding additional requirements and any reference in this section to the requirements of a part of the Tenth Schedule shall be read as a reference to those requirements as so varied from time to time.
-
-(15) The Minister may, by order, exempt a corporation or an individual, as specified in the order and subject to such terms and conditions, if any, as are specified in the order, from compliance with all or any of the provisions of this section or of the requirements set out in the Tenth Schedule where, in any particular case, he is satisfied that compliance therewith is inappropriate or would impose an unreasonable burden on the corporation or individual or is not in the public interest.
-
-[15/84]
-
-(16) Regulations may be made requiring the lodging with the Registrar or a stock exchange, or the body, panel or committee that is specified in the notice referred to in subsection (17), or all of them of —
-
-(a) copies of any notice or statement given in pursuance of this section; or
-
-(b) notice in the prescribed form and containing such particulars as are prescribed of the giving of or of the intention to give such a notice or statement.
-
-[49/73]
-
-(17) For the more effective administration, supervision and control of take-overs and mergers the Minister may if he thinks it necessary in the public interest or for the protection of investors by notice direct, from such date as may be specified in the notice, that —
-
-(a) all parties concerned in a take-over or merger transaction shall, in addition to complying with this section and the Tenth Schedule, be bound to abide by such general principles and rules of a non-statutory nature as he may specify in the notice; and
-
-(b) such body, panel or committee as the Minister may designate in the notice shall administer and enforce those general principles and rules.
-
-[49/73]
-
-(18)(a) The Minister, pursuant to a notice made under subsection (17), has specified that a non-statutory code known as the Singapore Code on Take-Overs and Mergers (referred to in this section as the Code) shall have effect in relation to take-over and merger transactions and the Code shall be administered and enforced by a body known as the Securities Industry Council.
-
-(b)
-
-The Minister, on the advice of the Securities Industry Council, may from time to time revise the Code by varying, amending or adding to the provisions thereof and any revision thereof shall be published in theGazette.
-
-(c)
-
-The Securities Industry Council may from time to time issue rulings on the interpretation of the general principles and rules in the Code and lay down the practice to be followed by parties concerned in a take-over or merger transaction and such rulings or practice shall be final and not be capable of being challenged in any court.
-
-(d)
-
-A failure of any party concerned in a take-over or merger transaction to observe any of the provisions of the Code shall not of itself render that party liable to criminal proceedings but any such failure may, in any proceedings whether civil or criminal, be relied upon by any party to the proceedings as tending to establish or to negative any liability which is in question in the proceedings.
-
-(e)
-
-Nothing in paragraph (d) shall be construed as preventing the Securities Industry Council from invoking such sanctions (including public censure) as it may decide in relation to breaches of the Code by parties to a take-over or merger transaction.
-
-(f)
-
-Where the Securities Industry Council has reason to believe that any party to a take-over or merger transaction or any financial adviser who is concerned in the take-over or merger is in breach of the provisions of the Code or is otherwise believed to have committed acts of misconduct in relation to or connected with a take-over or merger transaction, the Securities Industry Council shall have power to enquire into the suspected breach or misconduct and for this purpose may summon any person to give evidence on oath or affirmation, which it is hereby authorised to administer, or produce any document or material necessary for the purpose of the enquiry.
-
-(g)
-
-The Securities Industry Council shall not in the absence of malice on its part be liable to any action for defamation at the suit of any person in respect of any statements made in the discharge of its functions under the Code whether the statements are made orally or in writing. This paragraph does not restrict or affect any other right or privilege or immunity that the Securities Industry Council has as a defendant in an action for defamation.
-
-[10/74]
-
-[15/84]
-
-[49/73]
-
-[15/84]
-
-[13/87]
-
-### Variation of take-over offers
-
-214\.—(1) An offeror corporation may vary a take-over offer by increasing the consideration offered either in relation to the whole or part thereof.
-
-(2) An offeror corporation may vary a take-over offer by extending the period during which it remains open for acceptance and where an offeror corporation so varies a take-over offer which is conditional upon acceptances being received in respect of a minimum percentage of shares it may vary the date specified in the take-over for declaring the take-over offer to be unconditional as required by paragraph 4(a) of Part A of the Tenth Schedule (so long as such varied date is not later than 60 days from the date of despatch of the offer, unless the Registrar in a competitive situation agrees to an extension beyond this period) and it may vary the further period during which the take-over offer is, in accordance with paragraph 4(b), open for acceptance after the take-over offer is declared unconditional (provided such further period is not less than 14 days after the varied date on which the offer would otherwise have expired).
-
-(3) Where the consideration offered for the shares proposed to be acquired under the take-over offer is varied under subsection (1), each person whose shares are acquired before or after the variation under a like take-over offer is entitled to receive consideration as varied accordingly.
-
-(4) Where an offeror corporation varies a take-over offer, it shall forthwith give to the offeree company and to each shareholder of the offeree company to whom a like take-over offer has been made a notice in writing in accordance with subsection (5) and shall forthwith lodge with the Registrar and a stock exchange (if such corporation is a corporation that is quoted on that stock exchange) a copy of that notice.
-
-(5) The notice shall set out in an appropriate form particulars of such modifications of the Part B statement given under section 213(4)(a) as are necessary having regard to the variations.
-
-(6) For the avoidance of doubt, it is hereby declared that when a take-over offer is varied in accordance with this section, it shall not be necessary for the offeror corporation to give or cause to be given to the offeree company a fresh notice in writing of the take-over scheme pursuant to section 213(4) and the take-over as varied shall be deemed to be part of the take-over scheme.
-
-[15/84]
+214\. [Repealed by S 675/2001 wef 01/01/2002]
 
 ### Power to acquire shares of shareholders dissenting from scheme or contract approved by 90% majority
 
-215\.—(1) Where a scheme or contract involving the transfer of all of the shares or all of the shares in any particular class in a company (referred to in this section as the transferor company) to another company or corporation (referred to in this section as the transferee company) has, within 4 months after the making of the offer in that behalf by the transferee company, been approved as to the shares or as to each class of shares whose transfer is involved by the holders of not less than 90% in nominal value of those shares or of the shares of that class (other than shares already held at the date of the offer by, or by a nominee for, the transferee company or its subsidiary), the transferee company may at any time within two months, after the offer has been so approved, give notice in the prescribed manner to any dissenting shareholder that it desires to acquire his shares; and when such a notice is given the transferee company shall, unless on an application made by the dissenting shareholder within one month from the date on which the notice was given or within 14 days of a statement being supplied to a dissenting shareholder pursuant to subsection (2) (whichever is the later) the Court thinks fit to order otherwise, be entitled and bound to acquire those shares on the terms which, under the scheme or contract the shares of the approving shareholders are to be transferred to the transferee company or if the offer contained two or more alternative sets of terms upon the terms which were specified in the offer as being applicable to dissenting shareholders.
+215\.—(1) Where a scheme or contract involving the transfer of all of the shares or all of the shares in any particular class in a company (referred to in this section as the transferor company) to another company or corporation (referred to in this section as the transferee company) has, within 4 months after the making of the offer in that behalf by the transferee company, been approved as to the shares or as to each class of shares whose transfer is involved by the holders of not less than 90% in nominal value of those shares or of the shares of that class (other than shares already held at the date of the offer by the transferee company), the transferee company may at any time within two months, after the offer has been so approved, give notice in the prescribed manner to any dissenting shareholder that it desires to acquire his shares; and when such a notice is given the transferee company shall, unless on an application made by the dissenting shareholder within one month from the date on which the notice was given or within 14 days of a statement being supplied to a dissenting shareholder pursuant to subsection (2) (whichever is the later) the Court thinks fit to order otherwise, be entitled and bound to acquire those shares on the terms which, under the scheme or contract the shares of the approving shareholders are to be transferred to the transferee company or if the offer contained two or more alternative sets of terms upon the terms which were specified in the offer as being applicable to dissenting shareholders.
 
 (2) Where a transferee company has given notice to any dissenting shareholder that it desires to acquire his shares, the dissenting shareholder shall be entitled to require the company by a demand in writing served on that company, within one month from the date on which the notice was given, to supply him with a statement in writing of the names and addresses of all other dissenting shareholders as shown in the register of members, and the transferee company shall not be entitled or bound to acquire the shares of the dissenting shareholders until 14 days after the posting of the statement of such names and addresses to the dissenting shareholder.
 
-(3) Where, in pursuance of any such scheme or contract, shares in a company are transferred to another company or its nominee and those shares together with any other shares in the first-mentioned company held by, or by a nominee for, the transferee company or its subsidiary at the date of the transfer comprise or include 90% in nominal value of the shares in the first-mentioned company or of any class of those shares, then —
+(3) Where, in pursuance of any such scheme or contract, shares in a company are transferred to another company or its nominee and those shares together with any other shares in the first-mentioned company held by the transferee company at the date of the transfer comprise or include 90% in nominal value of the shares in the first-mentioned company or of any class of those shares, then —
 
 (a) the transferee company shall within one month from the date of the transfer (unless on a previous transfer in pursuance of the scheme or contract it has already complied with this requirement) give notice of that fact in the prescribed manner to the holders of the remaining shares or of the remaining shares of that class who have not assented to the scheme or contract; and
 
@@ -8009,6 +8259,36 @@ and where a shareholder gives notice under paragraph (b) with respect to any sha
 (7) The Official Receiver shall sell or dispose of any consideration so received in such manner as he thinks fit and shall deal with the proceeds of such sale or disposal as if it were moneys paid to him in pursuance of section 322.
 
 (8) In this section, dissenting shareholder includes a shareholder who has not assented to the scheme or contract and any shareholder who has failed or refused to transfer his shares to the transferee company in accordance with the scheme or contract.
+
+(9) For the purposes of this section, shares held or acquired —
+
+(a) by a nominee on behalf of the transferee company; or
+
+(b) by a related corporation of the transferee company or by a nominee of that related corporation,
+
+shall be treated as held or acquired by the transferee company.
+
+[8/2003 wef 15/05/2003]
+
+(10) The reference in subsection (1) to shares already held by the transferee company includes a reference to shares which the transferee company has contracted to acquire but that shall not be construed as including shares which are the subject of a contract binding the holder thereof to accept the offer when it is made, being a contract entered into by the holder for no consideration and under seal or for no consideration other than a promise by the transferee company to make the offer.
+
+[8/2003 wef 15/05/2003]
+
+(11) Where, during the period within which an offer for the transfer of shares to the transferee company can be approved, the transferee company acquires or contracts to acquire any of the shares whose transfer is involved but otherwise than by virtue of the approval of the offer, then, if —
+
+(a) the consideration for which the shares are acquired or contracted to be acquired (referred to in this subsection as the acquisition consideration) does not at that time exceed the consideration specified in the terms of the offer; or
+
+(b) those terms are subsequently revised so that when the revision is announced the acquisition consideration, at the time referred to in paragraph (a), no longer exceeds the consideration specified in those terms,
+
+the transferee company shall be treated for the purposes of this section as having acquired or contracted to acquire those shares by virtue of the approval of the offer.
+
+[8/2003 wef 15/05/2003]
+
+[U.K.s.209.]
+
+[Aust. s. 185.]
+
+[15/84]
 
 ### Personal remedies in cases of oppression or injustice
 
@@ -8038,7 +8318,7 @@ and where a shareholder gives notice under paragraph (b) with respect to any sha
 
 (4) Where an order under this section makes any alteration in or addition to any company’s memorandum or articles, then, notwithstanding anything in any other provision of this Act, but subject to the provisions of the order, the company concerned shall not have power, without the leave of the Court, to make any further alteration in or addition to the memorandum or articles inconsistent with the provisions of the order; but subject to the foregoing provisions of this subsection the alterations or additions made by the order shall be of the same effect as if duly made by resolution of the company.
 
-(5) An office copyof any order made under this section shall be lodged by the applicant with the Registrar within 14 days after the making of the order.
+(5) A copy of any order made under this section shall be lodged by the applicant with the Registrar within 14 days after the making of the order.
 
 (6) Any person who fails to comply with subsection (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and also to a default penalty.
 
@@ -8062,7 +8342,7 @@ and where a shareholder gives notice under paragraph (b) with respect to any sha
 
 216A\.—(1) In this section and section 216B —
 
-“company” means a company other than a company that is listed on the stock exchangein Singapore;
+“company” means a company other than a company that is listed on the securities exchange in Singapore;
 
 “complainant” means —
 
@@ -8270,7 +8550,7 @@ RECEIVERS AND MANAGERS
 
 (b) before lodging such account, verify by affidavit all accounts and statements referred to therein.
 
-(2) The Registrar may, of his own motion or on the application of the company or other corporation or a creditor, cause the accounts to be audited by an approved company auditor appointed by the Registrar and for the purpose of the audit the receiver or manager shall furnish the auditor with such vouchers and information as he requires and the auditor may at any time require the production of and inspect any books of account kept by the receiver or manager or any document or other records relating thereto.
+(2) The Registrar may, of his own motion or on the application of the company or other corporation or a creditor, cause the accounts to be audited by a public accountant appointed by the Registrar and for the purpose of the audit the receiver or manager shall furnish the auditor with such vouchers and information as he requires and the auditor may at any time require the production of and inspect any books of account kept by the receiver or manager or any document or other records relating thereto.
 
 (3) Where the Registrar causes the accounts to be audited upon the request of the company or other corporation or a creditor, he may require the applicant to give security for the payment of the cost of the audit.
 
@@ -8346,7 +8626,7 @@ an application may be made to the Court under section 227B for an order that the
 
 (2) Any judicial management order made under subsection (1) shall direct that during the period in which the order is in force the affairs, business and property of the company shall be managed by a judicial manager appointed for the purpose by the Court; and such an order shall specify the purpose or purposes for whose achievement the order is made.
 
-(3)(a) In any application for a judicial management order under subsection (1), the applicant shall nominate a person who is an approved company auditor, who is not the auditor of the company, to act as a judicial manager.
+(3)(a) In any application for a judicial management order under subsection (1), the applicant shall nominate a person who is a public accountant, who is not the auditor of the company, to act as a judicial manager.
 
 (b)
 
@@ -8362,7 +8642,7 @@ Nothing in this subsection shall prevent the Minister from himself nominating a 
 
 (e)
 
-Notwithstanding paragraph (a), where a person is appointed by the Court or nominated by the Minister to act as a judicial manager that person need not be an approved company auditor.
+Notwithstanding paragraph (a), where a person is appointed by the Court or nominated by the Minister to act as a judicial manager that person need not be a public accountant.
 
 (4) When a petition is presented to the Court, notice of the petition —
 
@@ -8516,7 +8796,7 @@ would be likely to promote one or more of the purposes specified in the judicial
 
 (6) Where a condition imposed in pursuance of subsection (5) relates to two or more securities, that condition shall require the net proceeds of the disposal to be applied towards discharging the sums secured by those securities in the order of their priorities.
 
-(7)(a) An office copyof an order made under subsection (2) shall, within 14 days after the making of the order, be sent by the judicial manager to the Registrar.
+(7)(a) A copy of an order made under subsection (2) shall, within 14 days after the making of the order, be sent by the judicial manager to the Registrar.
 
 (b)
 
@@ -8568,7 +8848,7 @@ make the judicial manager personally liable for payment of rent under leases hel
 
 (2) The judicial manager of a company shall vacate office if —
 
-(a) being an approved company auditor at the time of his appointment, he ceases to be approved as such; or
+(a) being a public accountant at the time of his appointment, he ceases to be a public accountant; or
 
 (b) the judicial management order is discharged.
 
@@ -9358,7 +9638,9 @@ or of any two or more of those parties.
 
 (a) a person referred to in subsection (1)(c) may not present a petition on any of the grounds specified in section 254(1)(a), (b), (c), (e) or (i), unless —
 
-(i) the number of members of the company, not being a company the whole of the issued shares of which are held by a holding company, is reduced below two; or
+(i) the company has no member; or
+
+[28/2004 wef 01/04/2004]
 
 (ii) the shares in respect of which the contributory was a contributory or some of them were originally allotted to the contributory, or have been held by him and registered in his name for at least 6 months during the 18 months before the presentation of the petition or have devolved on him through the death or bankruptcy of a former holder;
 
@@ -9386,7 +9668,9 @@ or of any two or more of those parties.
 
 (c) the company does not commence business within a year from its incorporation or suspends its business for a whole year;
 
-(d) the number of members is reduced, in the case of a company other than a company the whole of the issued shares in which are held by a holding company, below two;
+(d) the company has no member;
+
+[28/2004 wef 01/04/2004]
 
 (e) the company is unable to pay its debts;
 
@@ -9536,7 +9820,9 @@ or of any two or more of those parties.
 
 (2) On the passing and entering of the winding up order, the petitioner shall within 7 days —
 
-(a) lodge an office copy of the order with the Registrar and with the Official Receiver;
+(a) lodge an office copy of the order with the Official Receiver and a copy of the order with the Registrar;
+
+[12/2002 wef 13/01/2003]
 
 (b) cause a copy to be served upon the secretary of the company or upon such other person or in such manner as the Court directs; and
 
@@ -9575,6 +9861,10 @@ Subdivision (2) — Liquidators
 (c) the Court may make any appointment and order required to give effect to any such determination, and, if there is a difference between the determinations of the meetings of the creditors and contributories in respect of the matter aforesaid, the Court shall decide the difference and make such order thereon as the Court may think fit;
 
 (d) in a case where a liquidator is not appointed by the Court, the Official Receiver shall be the liquidator of the company;
+
+(da) in a case where a winding up order is made under section 254(1)(m) on the ground that the company is being used for purposes against national security or interest, the Official Receiver shall be the liquidator of the company;
+
+[36/2000 wef 22/01/2001]
 
 (e) the Official Receiver shall by virtue of his office be the liquidator during any vacancy;
 
@@ -9644,7 +9934,7 @@ Subdivision (2) — Liquidators
 
 (3) Where an order is made under this section, every liquidator of a company in relation to which the order is made shall lodge within 7 days of the making of the order —
 
-(a) an office copyof the order with the Registrar; and
+(a) a copy of the order with the Registrar; and
 
 (b) where the order relates to land, an office copy of the order with the appropriate authority concerned with the registration or recording of dealings in that land,
 
@@ -9808,7 +10098,7 @@ and every liquidator who makes default in complying with this section shall be g
 
 (2) The Court —
 
-(a) may cause a report on the accounts of a liquidator, not being the Official Receiver, to be prepared by the Official Receiver or by some approved company auditor appointed by the Court;
+(a) may cause a report on the accounts of a liquidator, not being the Official Receiver, to be prepared by the Official Receiver or by a public accountant appointed by the Court;
 
 (b) on the liquidator complying with all the requirements of the Court, shall take into consideration the report and any objection which is urged by the Official Receiver, auditor or any creditor or contributory or other person interested against the release of the liquidator; and
 
@@ -9882,7 +10172,9 @@ Subdivision (4) — General powers of Court
 
 (2) On any such application the Court may, before making an order, require the liquidator to furnish a report with respect to any facts or matters which are in his opinion relevant.
 
-(3) An office copy of every order made under this section shall be lodged by the company with the Registrar and with the Official Receiver within 14 days after the making of the order.
+(3) A copy of an order made under this section and an office copy of such an order shall be lodged by the company with the Registrar and the Official Receiver, respectively, within 14 days after the making of the order.
+
+[12/2002 wef 13/01/2003]
 
 (4) Any person who fails to comply with subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and also to a default penalty.
 
@@ -9992,7 +10284,9 @@ and, in making a call, may take into consideration the probability that some of 
 
 285\.—(1) The Court may summon before it any officer of the company or person known or suspected to have in his possession any property of the company or supposed to be indebted to the company, or any person whom the Court considers capable of giving information concerning the promotion, formation, trade dealings, affairs or property of the company.
 
-(2) The Court may examine him on oath concerning the matters mentioned in subsection (1) either by word of mouth or on written interrogatories and may reduce his answers to writing and require him to sign them, and any writing so signed may be used in evidence in any legal proceedings against him.
+(2) The Court may examine him on oath concerning the matters mentioned in subsection (1) either by word of mouth or on written interrogatories and may cause to be made a record of his answers, and any such record may be used in evidence in any legal proceedings against him.
+
+[17/2005 wef 15/07/2005]
 
 (3) The Court may require him to produce any books and papers in his custody or power relating to the company, but where he claims any lien on books or papers the production shall be without prejudice to that lien, and the Court shall have jurisdiction to determine all questions relating to that lien.
 
@@ -10018,15 +10312,13 @@ and, in making a call, may take into consideration the probability that some of 
 
 (6) Where a person directed to attend before the Court under subsection (1) applies to the Court to be exculpated from any charges made or suggested against him, the liquidator shall appear on the hearing of the application and call the attention of the Court to any matters which appear to him to be relevant and if the Court, after hearing any evidence given or witnesses called by the liquidator, grants the application the Court may allow the applicant such costs as the Court in its discretion thinks fit.
 
-(7) Notes of the examination —
+(7) The record of the examination —
 
-(a) shall be reduced to writing;
+(a) may be used in evidence in any legal proceedings against the person examined; and
 
-(b) shall be read over to or by and signed by the person examined;
+(b) shall, at all reasonable times, be made available to any creditor or contributory for review at the court premises.
 
-(c) may thereafter be used in evidence in any legal proceedings against him; and
-
-(d) shall be open to the inspection of any creditor or contributory at all reasonable times.
+[17/2005 wef 15/07/2005]
 
 (8) The Court may if it thinks fit adjourn the examination from time to time.
 
@@ -10088,7 +10380,7 @@ Subdivision (1) — Introductory
 
 (2) A company shall —
 
-(a) within 7 days after the passing of a resolution for voluntary winding up, lodge a printed copy of the resolution with the Registrar; and
+(a) within 7 days after the passing of a resolution for voluntary winding up, lodge a copy of the resolution with the Registrar; and
 
 (b) within 10 days after the passing of the resolution, give notice of the resolution in one or more newspapers circulating in Singapore.
 
@@ -10102,7 +10394,7 @@ Subdivision (1) — Introductory
 
 ### Provisional liquidator
 
-291\.—(1) Where the directors of a company have made a statutory declaration in the prescribed form which has been lodged with the Registrar and with the Official Receiver —
+291\.—(1) Where the directors of a company have made a statutory declaration in the prescribed form which has been lodged with the Official Receiver and have lodged a declaration in the prescribed form with the Registrar —
 
 (a) that the company cannot by reason of its liabilities continue its business; and
 
@@ -10114,7 +10406,7 @@ the directors shall forthwith appoint an approved liquidator to be the provision
 
 (3) The appointment of a provisional liquidator under this section shall continue for one month from the date of his appointment or for such further period as the Official Receiver may allow in any particular case or until the appointment of a liquidator, whichever first occurs.
 
-(4) Notice of the appointment of a provisional liquidator under this section together with a copy of the declaration lodged with the Registrarshall be advertised within 14 days of the appointment of the provisional liquidator in at least 4 local daily newspapers, one each published in the English, Malay, Chinese and Tamil languages.
+(4) Notice of the appointment of a provisional liquidator under this section together with a copy of the declaration lodged with the Official Receiver shall be advertised within 14 days of the appointment of the provisional liquidator in at least 4 local daily newspapers, one each published in the English, Malay, Chinese and Tamil languages.
 
 (5) A provisional liquidator shall be entitled to receive such salary or remuneration by way of percentage or otherwise as is prescribed.
 
@@ -10138,7 +10430,7 @@ the directors shall forthwith appoint an approved liquidator to be the provision
 
 ### Declaration of solvency
 
-293\.—(1) Where it is proposed to wind up a company voluntarily, the directors of the company, or in the case of a company having more than two directors, the majority of the directors shall, in the case of a members’ voluntary winding up before the date on which the notices of the meeting at which the resolution for the winding up of the company is to be proposed are sent out, make a statutory declaration to the effect that they have made an inquiry into the affairs of the company, and that, at a meeting of directors, have formed the opinion that the company will be able to pay its debts in full within a period not exceeding 12 months after the commencement of the winding up.
+293\.—(1) Where it is proposed to wind up a company voluntarily, the directors of the company, or in the case of a company having more than two directors, the majority of the directors shall, in the case of a members’ voluntary winding up before the date on which the notices of the meeting at which the resolution for the winding up of the company is to be proposed are sent out, make a declaration to the effect that they have made an inquiry into the affairs of the company, and that, at a meeting of directors, have formed the opinion that the company will be able to pay its debts in full within a period not exceeding 12 months after the commencement of the winding up.
 
 (2) There shall be attached to the declaration a statement of affairs of the company showing, in the prescribed form —
 
@@ -10396,7 +10688,7 @@ Subdivision (4) — Provisions applicable to every voluntary winding up
 
 (6) Notwithstanding subsection (5), the Court may, on the application of the liquidator or of any other person who appears to the Court to be interested, make an order deferring the date at which the dissolution of the company is to take effect for such time as the Court thinks fit.
 
-(7) The person on whose application an order of the Court under this section is made shall, within 14 days after the making of the order, lodge with the Registrar and with the Official Receiver an office copy of the order and if he fails to do so he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and also to a default penalty.
+(7) The person on whose application an order of the Court under this section is made shall, within 14 days after the making of the order, lodge with the Registrar and with the Official Receiver a copy of the order and an office copy of the order, respectively, and if he fails to do so he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and also to a default penalty.
 
 [15/84]
 
@@ -10520,7 +10812,7 @@ Subdivision (1) — General
 
 [12/2002 wef 13/01/2003]
 
-(2) The Official Receiver may cause the account of any liquidation to be audited by an approved company auditor, and for the purpose of the audit the liquidator shall furnish the auditor with such vouchers and information as he requires, and the auditor may at any time require the production of and inspect any books or accounts kept by the liquidator.
+(2) The Official Receiver may cause the account of any liquidation to be audited by a public accountant, and for the purpose of the audit the liquidator shall furnish the public accountant with such vouchers and information as he requires, and the public accountant may at any time require the production of and inspect any books or accounts kept by the liquidator.
 
 (3) A copy of the account or, if audited, a copy of the audited account shall be kept by the liquidator and the copy shall be open to the inspection of any creditor or of any person interested at the office of the liquidator.
 
@@ -10566,9 +10858,9 @@ Subdivision (1) — General
 
 320\.—(1) Where a company is being wound up, all books and papers of the company and of the liquidator that are relevant to the affairs of the company at or subsequent to the commencement of the winding up of the company shall, as between the contributories of the company, be prima facie evidence of the truth of all matters purporting to be therein recorded.
 
-(2) When a company has been wound up the liquidator shall retain the books and papers referred to in subsection (1) for a period of 5 yearsfrom the date of dissolution of the company and at the expiration of that period may destroy them.
+(2) When a company has been wound up the liquidator shall retain the books and papers referred to in subsection (1) for a period of 2 years from the date of dissolution of the company and at the expiration of that period may destroy them.
 
-(3) Notwithstanding subsection (2), when a company has been wound up the books and papers referred to in subsection (1) may be destroyed within a period of 5 yearsafter the dissolution of the company —
+(3) Notwithstanding subsection (2), when a company has been wound up the books and papers referred to in subsection (1) may be destroyed within a period of 2 years after the dissolution of the company —
 
 (a) in the case of a winding up by the Court, in accordance with the directions of the Court;
 
@@ -10854,7 +11146,7 @@ the liquidator of the company, notwithstanding that he has endeavoured to sell o
 
 (5) The Court may, on the application of a person who is, as against the liquidator, entitled to the benefit or subject to the burden of a contract made with the company, make an order rescinding the contract on such terms as to payment by or to either party of damages for the non-performance of the contract, or otherwise as the Court thinks just, and any damages payable under the order to that person may be proved by him as a debt in the winding up.
 
-(6) The Court may, on the application of a person who either claims any interest in any disclaimed property or is under any liability not discharged by this Act in respect of any disclaimed property and on hearing such persons as it thinks fit, make an order for the vesting of the property in or the delivery of the property to any person entitled thereto, or to whom it seems just that the property should be delivered by way of compensation for such liability as aforesaid, or a trustee for him, and on such terms as the Court thinks just, and on any such vesting order being made and an office copy thereof being lodged with the Registrar and with the Official Receiver and if the order relates to land with the appropriate authority concerned with the recording or registration of dealings in that land, as the case requires, the property comprised therein shall vest accordingly in the person therein named in that behalf without any further conveyance, transfer or assignment.
+(6) The Court may, on the application of a person who either claims any interest in any disclaimed property or is under any liability not discharged by this Act in respect of any disclaimed property and on hearing such persons as it thinks fit, make an order for the vesting of the property in or the delivery of the property to any person entitled thereto, or to whom it seems just that the property should be delivered by way of compensation for such liability as aforesaid, or a trustee for him, and on such terms as the Court thinks just, and on any such vesting order being made and a copy thereof and an office copy thereof being lodged with the Registrar and the Official Receiver, respectively, and if the order relates to land with the appropriate authority concerned with the recording or registration of dealings in that land, as the case requires, the property comprised therein shall vest accordingly in the person therein named in that behalf without any further conveyance, transfer or assignment.
 
 (7) Notwithstanding anything in subsection (6), where the property disclaimed is of a leasehold nature, the Court shall not make a vesting order in favour of any person claiming under the company, whether as under-lessee or as mortgagee, except upon the terms of making that person —
 
@@ -11076,7 +11368,7 @@ Subdivision (5) — Dissolution
 
 343\.—(1) Where a company has been dissolved, the Court may at any time within two years after the date of dissolution, on application of the liquidator of the company or of any other person who appears to the Court to be interested, make an order upon such terms as the Court thinks fit declaring the dissolution to have been void, and thereupon such proceedings may be taken as might have been taken if the company had not been dissolved.
 
-(2) The person on whose application the order was made shall, within 7 days after the making of the order or such further time as the Court allows, lodge with the Registrar and with the Official Receiver an office copy of the order and if he fails to do so shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
+(2) The person on whose application the order was made shall, within 7 days after the making of the order or such further time as the Court allows, lodge with the Registrar and with the Official Receiver a copy of the order and an office copy of the order, respectively, and if he fails to do so shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
 
 [15/84]
 
@@ -11106,7 +11398,7 @@ he may publish in theGazetteand send to the company or the liquidator, if any, a
 
 (b) nothing in this subsection shall affect the power of the Court to wind up a company the name of which has been struck off the register.
 
-(5) If any person feels aggrieved by the name of the company having been struck off the register, the Court, on an application made by the person at any time within 15 years after the name of the company has been so struck off may, if satisfied that the company was, at the time of the striking off, carrying on business or in operation or otherwise that it is just that the name of the company be restored to the register, order the name of the company be restored to the register, and upon an office copyof the order being lodged with the Registrar the company shall be deemed to have continued in existence as if its name had not been struck off, and the Court may by the order give such directions and make such provisions as seem just for placing the company and all other persons in the same position as nearly as may be as if the name of the company had not been struck off.
+(5) If any person feels aggrieved by the name of the company having been struck off the register, the Court, on an application made by the person at any time within 15 years after the name of the company has been so struck off may, if satisfied that the company was, at the time of the striking off, carrying on business or in operation or otherwise that it is just that the name of the company be restored to the register, order the name of the company be restored to the register, and upon a copy of the order being lodged with the Registrar the company shall be deemed to have continued in existence as if its name had not been struck off, and the Court may by the order give such directions and make such provisions as seem just for placing the company and all other persons in the same position as nearly as may be as if the name of the company had not been struck off.
 
 (6) A notice to be sent under this section to a liquidator may be addressed to the liquidator at his last known place of business, and a letter or notice to be sent under this section to a company may be addressed to the company at its registered office or, if no office has been registered, to the care of some officer of the company, or, if there is no officer of the company whose name and address are known to the Registrar, may be sent to each of the persons who subscribed the memorandum of the company addressed to him at the address mentioned in the memorandum.
 
@@ -11266,148 +11558,6 @@ and every contributory shall be liable to contribute to the assets of the compan
 
 VARIOUS TYPES OF COMPANIES, ETC
 
-Division 1 —
-
-Investment Companies
-
-### Interpretation of this Division
-
-355\.—(1) In this Division, unless inconsistent with the context or subject-matter —
-
-“investment company” means a corporation (not being a private company) for the time being declared by proclamation of the Minister to be an investment company;
-
-[49/73]
-
-“net tangible assets” means tangible assets at book values less total liabilities at book values and less any aggregate amount by which the book value of the marketable securities held by the corporation exceeds their market value.
-
-### Proclamation of investment companies
-
-(2) The Minister may, by proclamation published in theGazette, declare to be an investment company any corporation which is engaged primarily in the making of investments in marketable securities for the purpose of revenue and for profit and not for the purpose of exercising control, and the Minister may, by like proclamation, revoke any proclamation declaring a corporation to be an investment company.
-
-[Aust.s.334.]
-
-### Restriction on borrowing by investment companies
-
-356\. An investment company shall not borrow an amount if that amount, or the sum of that amount and amounts previously borrowed by it and not repaid, exceeds an amount equivalent to 50% of its net tangible assets (or such larger percentage not exceeding 100% as the Registrar may, in any particular case, decide).
-
-[Aust.s.335.]
-
-[49/73]
-
-[15/84]
-
-### Restriction on investments of investment companies
-
-357\.—(1) An investment company shall not invest an amount in a corporation if that amount, or the sum of that amount and amounts previously invested by it in that corporation and still so invested, exceeds an amount equivalent to 10% of the net tangible assets of the investment company.
-
-(2) An investment company shall not invest an amount in the ordinary shares of a corporation if that amount, or the sum of that amount and amounts previously invested by it in the ordinary shares of that corporation and still so invested, exceeds an amount equivalent to 10% of the subscribed ordinary share capital of the corporation.
-
-(3) Subsection (2) shall not apply in respect of a wholly-owned subsidiary of an investment company for the purpose of carrying out nominee, underwriting, dealing or other functions incidental to the business of an investment company but the other restrictions and prohibitions in this Part shall apply to a wholly-owned subsidiary of an investment company as they apply to the investment company.
-
-[15/84]
-
-[Aust.s.336.]
-
-[49/73]
-
-### Restriction on underwriting by investment companies
-
-358\.—(1) An investment company shall not underwrite any issue of securities to an amount that, when added to the amount or amounts, if any, to which it has previously underwritten a current issue or issues of other securities (not being an amount or amounts in respect of which the underwriting obligation has been discharged), exceeds an amount equivalent to 40% of its net tangible assets.
-
-### Provisions for divesting securities taken up on underwriting
-
-(2) Where —
-
-(a) an investment company has underwritten any issue of securities and, in relation to the underwriting, has not contravened subsection (1); and
-
-(b) the investment company, as a result of the underwriting, invests in a corporation, being an investment contrary to section 357,
-
-the investment company shall be deemed not to have contravened a provision of that section by reason of so investing in the corporation if, at the expiration of 12 months after so investing —
-
-(c) the amount invested by it in the corporation does not exceed an amount equivalent to 10% of the net tangible assets of the investment company; and
-
-(d) it does not hold more than 10% of the subscribed ordinary share capital of the corporation.
-
-[49/73]
-
-(3) This section extends to and in relation to sub-underwriting as if the sub-underwriting were underwriting.
-
-[Aust.s.337.]
-
-[49/73]
-
-### Special requirements as to articles and prospectus
-
-359\. An investment company shall not issue a prospectus or permit a prospectus to be issued on its behalf unless the prospectus specifies —
-
-(a) the type of security in which it is among the objects of the company to invest; and
-
-(b) whether it is among the objects of the company to invest within Singapore or outside Singapore or both.
-
-[Aust.s.338.]
-
-[49/73]
-
-### Not to hold shares in other investment companies
-
-360\. No investment company shall purchase or after the expiration of 3 years after it is declared to be an investment company hold any shares in or debentures of —
-
-(a) any other investment company; or
-
-(b) any corporation incorporated outside Singapore which is engaged primarily in the making of investments in marketable securities for the purpose of revenue and for profit and not for the purpose of exercising control and which is specified by proclamation of the Minister.
-
-[Aust.s.339.]
-
-[49/73]
-
-### Not to speculate in commodities
-
-361\.—(1) No investment company shall for the purpose of profit buy or sell or deal in any raw materials or manufactured goods, whether in existence or not, otherwise than by investing in companies trading in such materials or goods.
-
-(2) Subsection (1) shall not apply to or in relation to —
-
-(a) any buying, selling or dealing by an investment company in pursuance of a contract entered into by the investment company before it was declared to be an investment company; or
-
-(b) the selling of or the dealing in raw materials or manufactured goods acquired by the investment company before it was so declared.
-
-[Aust.s.340.]
-
-[49/73]
-
-### Balance-sheets and accounts
-
-362\.—(1) An investment company shall attach to its balance-sheet a complete list of all the investments of the company as at the date of the balance-sheet showing the descriptions and quantities of such investments.
-
-(2) An investment company shall show separately in the profit and loss account, in addition to any other matters required to be shown therein, income from underwriting, including sub-underwriting.
-
-[Aust.s.341.]
-
-[49/73]
-
-### Investment fluctuation reserve
-
-363\.—(1) The net profits and losses of an investment company from the purchase and sale of securities shall be respectively credited and debited by the company to a reserve account to be kept by it and to be called the investment fluctuation reserve.
-
-(2) Subsection (1) shall not apply to an investment company which is approved under section 10A of the Income Tax Act [Cap. 134].
-
-[22/93]
-
-[Aust.s.342.]
-
-[49/73]
-
-### Penalties
-
-364\.—(1) If default is made by an investment company in complying with this Division, the investment company and every officer of the investment company who is in default shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years and also to a default penalty not exceeding $500.
-
-(2) No transaction entered into by the company shall be invalid by reason only of such default.
-
-[Aust.s.343.]
-
-[49/73]
-
-[15/84]
-
 Division 2 —
 
 Foreign Companies
@@ -11424,7 +11574,7 @@ Foreign Companies
 
 “agent” means the person named in a memorandum of appointment or power of attorney lodged under section 368(1)(e) or 370(6) or under any corresponding previous written law;
 
-“carrying on business” includes establishing or using a share transfer or share registration office or administering, managing or otherwise dealing with property situated in Singapore as an agent, legal personal representative, or trustee, whether by employees or agents or otherwise, and “to carry on business” has a corresponding meaning.
+“carrying on business” includes administering, managing or otherwise dealing with property situated in Singapore as an agent, legal personal representative, or trustee, whether by employees or agents or otherwise, and “to carry on business” has a corresponding meaning.
 
 (2) Notwithstanding subsection (1), a foreign company shall not be regarded as carrying on business in Singapore for the reason only that in Singapore it —
 
@@ -11446,7 +11596,7 @@ Foreign Companies
 
 (i) invests any of its funds or holds any property.; or
 
-(j) establishes a share transfer or share registration office in Singapore in order to become a listed corporation; or
+(j) establishes a share transfer or share registration office in Singapore ; or
 
 [38/98 wef 18/11/1998]
 
@@ -11479,6 +11629,8 @@ Foreign Companies
 [13/87]
 
 (f) notice of the situation of its registered office in Singapore and, unless the office is open and accessible to the public during ordinary business hours on each day (Saturdays, weekly and public holidays excepted), the days and hours during which it is open and accessible to the public,
+
+(g) [Deleted by Act 12/2002 wef 13/01/2003]
 
 and on payment of the appropriate fees and subject to this Act the Registrar shall register the company under this Division by registration of the documents.
 
@@ -11514,7 +11666,7 @@ and on payment of the appropriate fees and subject to this Act the Registrar sha
 
 (c) be personally liable to all penalties imposed on the company for any contravention of any of the provisions of this Act unless he satisfies the court hearing the matter that he should be not so liable.
 
-(3) A foreign company or its agent may lodge with the Registrar a notice in writing stating that the agent has ceased to be the agent or will cease to be the agent on a date specified in the notice.
+(3) A foreign company or its agent may lodge with the Registrar a notice in the prescribed form stating that the agent has ceased to be the agent or will cease to be the agent on a date specified in the notice.
 
 (4) The agent in respect of whom the notice has been lodged shall cease to be an agent on the expiration of a period of 21 days after the date of lodgment of the notice or on the date of the appointment of another agent the memorandum of whose appointment has been lodged in accordance with subsection (5), whichever is the earlier, but if the notice states a date on which he is to so cease and the date is later than the expiration of that period, on that date.
 
@@ -11522,7 +11674,7 @@ and on payment of the appropriate fees and subject to this Act the Registrar sha
 
 [15/84]
 
-(6) On the appointment of a new agent the company shall lodge a memorandum of the appointment and a statutory declaration in accordance with section 368(1) and, if not already lodged in pursuance of section 368(2), a copy of the deed or document or power of attorney, referred to in section 368(2), verified in accordance with that subsection.
+(6) On the appointment of a new agent the company shall lodge a memorandum of the appointment or power of attorney in accordance with section 368(1) and, if not already lodged in pursuance of section 368(2), a copy of the deed or document or power of attorney, referred to in section 368(2), verified in accordance with that subsection.
 
 [Aust.s.346(4)-(8).]
 
@@ -11574,7 +11726,7 @@ the foreign company shall, within one month or within such further period as the
 
 (2) If a foreign company increases its authorised share capital it shall within one month or within such further period as the Registrar in special circumstances allows after such increase lodge with the Registrar notice of the amount from which and of the amount to which it has been so increased.
 
-(3) If a foreign company not having a share capital changes the number of its members so that it is different from the registered number, the company shall, within one month after the date on which the change was resolved or took place, lodge with the Registrar notice of the change in the prescribed form.
+(3) If a foreign company not having a share capital changes the number of its members so that it is different from the registered number, the company shall, within one month or within such further period as the Registrar in special circumstances allows after the date on which the change was resolved or took place, lodge with the Registrar notice of the change in the prescribed form.
 
 [12/2002 wef 13/01/2003]
 
@@ -11614,7 +11766,7 @@ Provided that —
 
 (iv) it would be misleading or harmful to the business of the company or to any company which is deemed by virtue of section 6 to be related to the company.
 
-(6) A statement and profit and loss account shall be deemed to have been duly audited for the purposes of subsection (5) if it is accompanied by a report by an approved company auditor which complies, in so far as is practicable, with section 207.
+(6) A statement and profit and loss account shall be deemed to have been duly audited for the purposes of subsection (5) if it is accompanied by a report by a public accountant appointed to provide auditing services in respect of the company’s operations in Singapore which complies, in so far as is practicable, with section 207.
 
 (7) Without prejudice to the powers of the Registrar under paragraph (b) of the proviso to subsection (5), a foreign company may apply to the Registrar in writing for an order relieving the foreign company from any requirement of this section relating to the form and content of accounts or reports and the Registrar may make such an order either unconditionally or on condition that the foreign company complies with such other requirements relating to the form and content of the accounts or reports as the Registrar thinks fit to impose.
 
@@ -11635,6 +11787,8 @@ Provided that —
 (10) Without prejudice to paragraph (b) of the proviso to subsection (5) and subsection (7), the Minister may, by order published in theGazette, in respect of foreign companies of a specified class or description, substitute other accounting standards for the Accounting Standards, and the provisions of this section shall apply accordingly in respect of such foreign companies.
 
 [Act 12/2002 wef 01/01/2003]
+
+374\. [Deleted by Act 12/2002 wef 13/01/2003]
 
 ### Obligation to state name of foreign company, whether limited, and country where incorporated
 
@@ -11842,6 +11996,10 @@ Enforcement of this Act
 
 391\.—(1) If in any proceedings for negligence, default, breach of duty or breach of trust against a person to whom this section applies it appears to the court before which the proceedings are taken that he is or may be liable in respect thereof but that he has acted honestly and reasonably and that, having regard to all the circumstances of the case including those connected with his appointment, he ought fairly to be excused for the negligence, default or breach the court may relieve him either wholly or partly from his liability on such terms as the court thinks fit.
 
+(1A) For the avoidance of doubt and without prejudice to the generality of subsection (1), “liability” includes the liability of a person to whom this section applies to account for profits made or received.
+
+[8/2003 wef 15/05/2003]
+
 (2) Where any person to whom this section applies has reason to apprehend that any claim will or might be made against him in respect of any negligence, default, breach of duty or breach of trust he may apply to the Court for relief, and the Court shall have the same power to relieve him as under this section it would have had if it had been a court before which proceedings against him for negligence, default, breach of duty or breach of trust had been brought.
 
 (3) The persons to whom this section applies are —
@@ -11978,11 +12136,13 @@ Division 2 —
 
 Offences
 
+400\. [Repealed by S 236/2002 wef 01/07/2002]
+
 ### False and misleading statement
 
 401\.—(1) Every corporation which advertises, circulates or publishes any statement of the amount of its capital which is misleading or in which the amount of nominal or authorised capital is stated without the words nominal or authorised, or in which the amount of capital or authorised or subscribed capital is stated but the amount of paid-up capital or the amount of any charge on uncalled capital is not stated as prominently as the amount of authorised or subscribed capital is stated, and every officer of the corporation who knowingly authorises, directs or consents to such advertising, circulation or publication shall be guilty of an offence.
 
-(2) Every person who in any return, report, certificate, balance-sheet or other document required by or for the purposes of this Act wilfully makes or authorises the making of a statement false or misleading in any material particular knowing it to be false or misleading or wilfully omits or authorises the accession of any matter or thing without which the document is misleading in a material respect shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000or to imprisonment for a term not exceeding 2 years or to both.
+(2) Every person who in any return, report, certificate, balance-sheet or other document required by or for the purposes of this Act wilfully makes or authorises the making of a statement false or misleading in any material particular knowing it to be false or misleading or wilfully omits or authorises the accession of any matter or thing without which the document is misleading in a material respect shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
 
 [62/70]
 
@@ -11994,7 +12154,7 @@ Offences
 
 (b) authorises another person to lodge or file with or submit to the Registrar any document,
 
-knowing that document to be false or misleading in a material respect, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000or to imprisonment for a term not exceeding 2 years or to both.
+knowing that document to be false or misleading in a material respect, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
 
 [Act 12/2002 wef 13/01/2003]
 
@@ -12013,6 +12173,8 @@ knowing that document to be false or misleading in a material respect, shall be 
 (a) a director, auditor, member, debenture holder or trustee for debenture holders of the corporation; or
 
 (b) in the case of a corporation that is a subsidiary, an auditor of the holding company,
+
+(c) [Deleted by Act 42/2001 wef 01/10/2002]
 
 relating to the affairs of the corporation, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
 
@@ -12048,7 +12210,15 @@ relating to the affairs of the corporation, shall be guilty of an offence and sh
 
 ### Obtaining payment of moneys, etc., to company by false promise of director, member, etc., of company
 
-404\.—(3) Whoever, being an officer or agent of any corporation, by any deceitful means or false promise and with intent to defraud, causes or procures any money to be paid or any chattel or marketable security to be delivered to that corporation or to himself or any other person for the use or benefit or on account of that corporation shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $15,000 or to imprisonment for a term not exceeding 5 years or to both.
+404\. 
+
+—(1) [Deleted by Act 42/2001 wef 01/10/2002]
+
+Conspiracy
+
+(2) [Deleted by Act 42/2001 wef 01/10/2002]
+
+(3) Whoever, being an officer or agent of any corporation, by any deceitful means or false promise and with intent to defraud, causes or procures any money to be paid or any chattel or marketable security to be delivered to that corporation or to himself or any other person for the use or benefit or on account of that corporation shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $15,000 or to imprisonment for a term not exceeding 5 years or to both.
 
 [15/84]
 
@@ -12058,7 +12228,7 @@ relating to the affairs of the corporation, shall be guilty of an offence and sh
 
 ### Penalty for carrying on business without registering a corporation and for improper use of words Limited and Berhad
 
-405\.—(1) If any person uses any name or title or trades or carries on business under any name or title of which “Limited”, “Berhad”, “Company”, “Corporation” or “Incorporated” or any abbreviation, imitation or translation of any of those words is the final word, or in any way holds out that the business is registered or incorporated that person shall, unless at that time the business was duly incorporated under this Act or registered under the Business Registration Act, be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
+405\.—(1) If any person uses any name or title or trades or carries on business under any name or title of which “Limited”, “Berhad”, “Company”, “Corporation” or “Incorporated” or any abbreviation, imitation or translation of any of those words is the final word, or in any way holds out that the business is registered or incorporated that person shall, unless at that time the business was duly incorporated under this Act or registered under the Limited Liability Partnerships Act 2004 or the Business Registration Act, be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
 
 ### Restriction on the use of word “Private” or “Sendirian”
 
@@ -12154,11 +12324,9 @@ shall be guilty of an offence.
 
 [15/84]
 
-(6) The power conferred upon the Registrar under subsection (4) shall only be exercised where the person agrees in writing to the offence being dealt with under that subsection.
+(6) The power of the Registrar referred to in subsection (4) shall only be exercised where the person agrees, either by himself or an agent duly authorised by him, to the offence being dealt with under that subsection.
 
-[15/84]
-
-[13/87]
+[Act 12/2002 wef 13/01/2003]
 
 (7) Any punishment authorised by this Act may be imposed by a District Court, notwithstanding that it is a greater punishment than that Court is otherwise empowered to impose.
 
@@ -12210,6 +12378,8 @@ grant an injunction requiring the first-mentioned person to do that act or thing
 
 [13/87]
 
+409B\. [Repealed by Act 39/99 wef 10/01/2000]
+
 Division 3 —
 
 Miscellaneous
@@ -12235,6 +12405,8 @@ Miscellaneous
 (a) the duties and functions of the Registrar, Deputy Registrars, Assistant Registrars and other persons appointed to assist with the administration of this Act;
 
 (b) all matters connected with or arising out of the judicial management of a company by a judicial manager including the appointment of the judicial manager;
+
+(ba) [Deleted by Act 42/2001 wef 01/07/2002]
 
 (c) the lodging or registration of documents and the time and manner of submission of documents for lodging or registration;
 
@@ -12292,27 +12464,15 @@ Fees to be Paid to the Registrar
 
 By a Company having a Share Capita1
 
-1. For registration of a company whose nominal share capital does not exceed $100,000
-
-$1,200
-
-S 279/91.
-
-2. For registration of a company whose nominal share capital exceeds $100,000, in addition to the fee of $1,200 in item 1, the following fees:
-
-(a) For every $100,000 of nominal share capital or part of $100,000 after the first $100.000 up to $1,000,000
-
-$400
-
-(b) For every $1,000,000 of nominal share capital or part of $1,000,000 after the first $1,000,000
+1. For the incorporation of a local company with share capital and the issue of a certificate of incorporation by the Registrar
 
 $300
 
 S 279/91.
 
-3. On lodging notice of increase of share capital - an amount equal to the difference (if any) between the amount which would have been payable under the Act on first registration by reference to its capital as increased and the amount which would have been payable under the Act by reference to its capital immediately before the increase:
+2.Deleted by S 28/2002, wef 15/01/2002.
 
-Provided that no company shall be liable to pay in respect of nominal share capital on registration or thereafter any greater amount of fees than $35,000 taking into account in the case of fees payable on an increase of share capital after registration the fees paid on registration.
+3.Deleted by S 28/2002, wef 15/01/2002.
 
 4. For registration of a company not having a share capital
 
@@ -12326,29 +12486,27 @@ S 279/91
 
 Other Fees
 
-7. For every application for consent of the Minister to use of a name by a corporation
+7. For every application for consent of the Minister to use of a name by a corporation and order of the Minister granting consent to use of a name by a corporation
 
-$25
+$100
 
-8. For every order of the Minister granting consent to use of a name by a corporation
+8. On submitting any other application to the Minister under the Act
 
-$50
+$100
 
 9. For every approval of the Registrar to the change of the name of a company (otherwise than a change of name directed by the Registrar pursuant to section 28(3) or a change of name pursuant to section 29(2)
 
 $50
 
-10. For perusing memorandum or articles of a company in connection with an application for a licence under section 29
+10. For perusal of the memorandum or articles of a company in connection with an application for a licence under section 29, and the granting of a licence by the Minister to dispense with the word “Berhad” or “Limited” in the name of a company
 
 $100
 
-11. For every licence of the Minister to dispense with the word Berhad or Limited in the name of a company
-
-$100
+11.Deleted by S 28/2002, wef 15/01/2002.
 
 12. For an approval of the Minister to alter the memorandum or articles of a company
 
-$10
+$100
 
 13. On lodgment of request to the Official Receiver to exercise the powers conferred by section 345 or 347*
 
@@ -12374,17 +12532,29 @@ $100
 
 The Registrar, if satisfied that just cause existed for the late lodgment may waive in whole or in part the additional fee.
 
-17. For the registration of a foreign company —
+17. For registration of a foreign company —
 
-(a) subject to paragraph (b), the appropriate fee prescribed in respect of a company registered or incorporated under Part III of the Act; and
-
-(b) where the fee prescribed in paragraph (a) is not applicable
+(a) where the company has a share capital which does not exceed $100,000
 
 $1,200
 
-S 279/91
+(b) where the company has a share capital which exceeds $100,000, in addition to the fee of $1,200 in paragraph (a), the following fees:
 
-18. On lodging by a foreign company of notice of increase in share capital or in the case of a foreign company not having a share capital on the lodging of notice of increase in number of members beyond its registered number — one-half of the prescribed fee payable on the increase in share capital or on the increase in the number of members of a company incorporated or registered under Part III of the Act
+(i) for every $100,000 of nominal share capital or part of $100,000 after the first $100,000 up to $1,000,000
+
+$400
+
+(ii) for every $1,000,000 of nominal share capital or part of $1,000,000 after the first $1,000,000
+
+$300
+
+(c) where the fees prescribed in paragraphs (a) and (b) are not applicable
+
+$1,200
+
+18. On lodging by a foreign company of notice of increase in share capital — one half of the amount equal to the difference (if any) between the amount which would have been payable under the Act on first registration by reference to its capital as increased and the amount which would have been payable under the Act by reference to its capital immediately before the increase:
+
+except that no foreign company shall be liable to pay in respect of nominal share capital on registration or thereafter any amount of fees greater than $35,000 taking into account in the case of fees payable on an increase of share capital after registration the fees paid on registration.";
 
 19. For registering particulars of each series of debentures where more than one issue in the series
 
@@ -12394,9 +12564,17 @@ $10
 
 $15
 
+20A. On an application submitted electronically for the approval and reservation of names
+
+$ 15 for each name approved
+
+20B. On an application for appeal on the approval and reservation of names submitted electronically
+
+$15 for each name applied
+
 21. For granting extension of time for the reservation of a name for a further period after the first reservation
 
-$5
+$10
 
 22. On lodging articles of association of a company
 
@@ -12458,9 +12636,9 @@ $50
 
 $50
 
-33. On lodging any other application
+33. On lodging any other application to the Registrar, excluding an application under section 23(2), 200 or 202
 
-$5
+$30
 
 33A. For every application to the Minister under section 23(2) for a licence to hold land
 
@@ -12470,7 +12648,7 @@ S 119/95 wef 1.4.95.
 
 33B. For every application for consent of the Minister to sell, mortgage or transfer any part of the land stated in the Minister’s licence to hold land under section 23(2)
 
-$50
+$100
 
 S 119/95 wef 1.4.95.
 
@@ -12640,127 +12818,9 @@ $0.80 per prescribed particular of a company.
 
 [S 387/2000 wef 29/08/2000]
 
-[]
-
-[S 29/2001 wef 22/01/2001]
-
-[]
-
-[]
-
 THIRD SCHEDULE
 
-Section 23(1).
-
-Powers
-
-1\. To carry on any other business which may seem to the company capable of being conveniently carried on in connection with its business or calculated directly or indirectly to enhance the value of or render profitable any of the company’s property or rights.
-
-2\. To acquire and undertake the whole or any part of the business, property and liabilities of any person or company carrying on any business which the company is authorised to carry on, or possessed of property suitable for the purposes of the company.
-
-3\. To apply for, purchase, or otherwise acquire any patents, patent rights, copyrights, trade marks, formulas, licences, concessions, and the like, conferring any exclusive or non-exclusive or limited right to use, or any secret or other information as to, any invention which may seem capable of being used for any of the purposes of the company, or the acquisition of which may seem calculated directly or indirectly to benefit the company; and to use, exercise, develop, or grant licences in respect of, or otherwise turn to account, the property, rights, or information so acquired.
-
-4\. To amalgamate or enter into partnership or into any arrangement for sharing of profits, union of interest, co-operation, joint adventure, reciprocal concession, or otherwise, with any person or company carrying on or engaged in or about to carry on or engage in any business or transaction which the company is authorised to carry on or engage in, or any business or transaction capable of being conducted so as directly or indirectly to benefit the company.
-
-5\. To take, or otherwise acquire, and hold, shares, debentures, or other securities of any other company.
-
-6\. To enter into any arrangements with any government or authority, supreme, municipal, local, or otherwise, that may seem conducive to the company’s objects, or any of them; and to obtain from any such government or authority any rights, privileges, and concessions which the company may think it desirable to obtain; and to carry out, exercise, and comply with any such arrangements, rights, privileges, and concessions.
-
-7\. To establish and support or aid in the establishment and support of associations, institutions, funds, trusts, and conveniences calculated to benefit employees or directors or past employees or directors of the company or of its predecessors in business, or the dependants or connections of any such persons; and to grant pensions and allowances, and to make payments towards insurance; and to subscribe or guarantee money for charitable or benevolent objects, or for any exhibition, or for any public, general, or useful object.
-
-8\. To promote any other company or companies for the purpose of acquiring or taking over all or any of the property, rights, and liabilities of the company, or for any other purpose which may seem directly or indirectly calculated to benefit the company.
-
-9\. To purchase, take on lease or in exchange, hire, or otherwise acquire any movable or immovable property and any rights or privileges which the company may think necessary or convenient for the purposes of its business, and in particular any land, buildings, easements, machinery, plant, and stock in trade.
-
-10\. To construct, improve, maintain, develop, work, manage, carry out, or control any buildings, works, factories, mills, roads, ways, tramways, railways, branches or sidings, bridges, reservoirs, water-courses, wharves, warehouses, electric works, shops, stores, and other works and conveniences which may seem calculated directly or indirectly to advance the company’s interests; and to contribute to, subsidise, or otherwise assist or take part in the construction, improvement, maintenance, development, working, management, carrying out, or control thereof.
-
-11\. To invest and deal with the money of the company not immediately required in such manner as may from time to time be thought fit.
-
-12\. To lend and advance money or give credit to any person or company; to guarantee and give guarantees or indemnities for the payment of money or the performance of contracts or obligations by any person or company; to secure or undertake in any way the repayment of moneys lent or advanced to or the liabilities incurred by any person or company; and otherwise to assist any person or company.
-
-13\. To borrow or raise or secure the payment of money in such manner as the company may think fit and to secure the same or the repayment or performance of any debt, liability, contract, guarantee or other engagement incurred or to be entered into by the company in any way and in particular by the issue of debentures perpetual or otherwise, charged upon all or any of the company’s property (both present and future), including its uncalled capital; and to purchase, redeem, or pay off any such securities.
-
-14\. To remunerate any person or company for services rendered, or to be rendered, in placing or assisting to place or guaranteeing the placing of any of the shares in the company’s capital or any debentures, or other securities of the company, or in or about the organisation, formation, or promotion of the company or the conduct of its business.
-
-15\. To draw, make, accept, endorse, discount, execute, and issue promissory notes, bills of exchange, bills of lading, and other negotiable or transferable instruments.
-
-16\. To sell or dispose of the undertaking of the company or any part thereof for such consideration as the company may think fit, and in particular for shares, debentures, or securities of any other company having objects altogether or in part similar to those of the company.
-
-17\. To adopt such means of making known and advertising the business and products of the company as may seem expedient.
-
-18\. To apply for, secure, acquire by grant, legislative enactment, assignment, transfer, purchase, or otherwise, and to exercise, carry out, and enjoy any charter, licence, power, authority, franchise, concession, right or privilege, which any government or authority, or any corporation or other public body may be empowered to grant; and to pay for, aid in, and contribute towards carrying the same into effect; and to appropriate any of the company’s shares, debentures, or other securities and assets to defray the necessary costs, charges, and expenses thereof.
-
-18\. To apply for, promote, and obtain any statute, order, regulation, or other authorisation or enactment which may seem calculated directly or indirectly to benefit the company; and to oppose any bills, proceedings, or applications which may seem calculated directly or indirectly to prejudice the company’s interests.
-
-20\. To procure the company to be registered or recognised in any country or place outside Singapore.
-
-21\. To sell, improve, manage, develop, exchange, lease, dispose of, turn to account, or otherwise deal with all or any part of the property and rights of the company.
-
-22\. To issue and allot fully or partly paid shares in the capital of the company in payment or part payment of any movable or immovable property purchased or otherwise acquired by the company or any services rendered to the company.
-
-23\. To distribute any of the property of the company among the members in kind or otherwise but so that no distribution amounting to a reduction of capital shall be made without the sanction required by law.
-
-24\. To take or hold mortgages, liens, and charges to secure payment of the purchase price, or any unpaid balance of the purchase price, of any part of the company’s property of whatsoever kind sold by the company, or any money due to the company from purchasers and others.
-
-25\. To carry out all or any of the objects of the company and do all or any of the above things in any part of the world and either as principal, agent, contractor, or trustee, or otherwise, and by or through trustees or agents or otherwise, and either alone or in conjunction with others.
-
-26\. To do all such other things as are incidental or conducive to the attainment of the objects and the exercise of the powers of the company.
-
-Powers
-
-1\. To carry on any other business which may seem to the company capable of being conveniently carried on in connection with its business or calculated directly or indirectly to enhance the value of or render profitable any of the company’s property or rights.
-
-2\. To acquire and undertake the whole or any part of the business, property and liabilities of any person or company carrying on any business which the company is authorised to carry on, or possessed of property suitable for the purposes of the company.
-
-3\. To apply for, purchase, or otherwise acquire any patents, patent rights, copyrights, trade marks, formulas, licences, concessions, and the like, conferring any exclusive or non-exclusive or limited right to use, or any secret or other information as to, any invention which may seem capable of being used for any of the purposes of the company, or the acquisition of which may seem calculated directly or indirectly to benefit the company; and to use, exercise, develop, or grant licences in respect of, or otherwise turn to account, the property, rights, or information so acquired.
-
-4\. To amalgamate or enter into partnership or into any arrangement for sharing of profits, union of interest, co-operation, joint adventure, reciprocal concession, or otherwise, with any person or company carrying on or engaged in or about to carry on or engage in any business or transaction which the company is authorised to carry on or engage in, or any business or transaction capable of being conducted so as directly or indirectly to benefit the company.
-
-5\. To take, or otherwise acquire, and hold, shares, debentures, or other securities of any other company.
-
-6\. To enter into any arrangements with any government or authority, supreme, municipal, local, or otherwise, that may seem conducive to the company’s objects, or any of them; and to obtain from any such government or authority any rights, privileges, and concessions which the company may think it desirable to obtain; and to carry out, exercise, and comply with any such arrangements, rights, privileges, and concessions.
-
-7\. To establish and support or aid in the establishment and support of associations, institutions, funds, trusts, and conveniences calculated to benefit employees or directors or past employees or directors of the company or of its predecessors in business, or the dependants or connections of any such persons; and to grant pensions and allowances, and to make payments towards insurance; and to subscribe or guarantee money for charitable or benevolent objects, or for any exhibition, or for any public, general, or useful object.
-
-8\. To promote any other company or companies for the purpose of acquiring or taking over all or any of the property, rights, and liabilities of the company, or for any other purpose which may seem directly or indirectly calculated to benefit the company.
-
-9\. To purchase, take on lease or in exchange, hire, or otherwise acquire any movable or immovable property and any rights or privileges which the company may think necessary or convenient for the purposes of its business, and in particular any land, buildings, easements, machinery, plant, and stock in trade.
-
-10\. To construct, improve, maintain, develop, work, manage, carry out, or control any buildings, works, factories, mills, roads, ways, tramways, railways, branches or sidings, bridges, reservoirs, water-courses, wharves, warehouses, electric works, shops, stores, and other works and conveniences which may seem calculated directly or indirectly to advance the company’s interests; and to contribute to, subsidise, or otherwise assist or take part in the construction, improvement, maintenance, development, working, management, carrying out, or control thereof.
-
-11\. To invest and deal with the money of the company not immediately required in such manner as may from time to time be thought fit.
-
-12\. To lend and advance money or give credit to any person or company; to guarantee and give guarantees or indemnities for the payment of money or the performance of contracts or obligations by any person or company; to secure or undertake in any way the repayment of moneys lent or advanced to or the liabilities incurred by any person or company; and otherwise to assist any person or company.
-
-13\. To borrow or raise or secure the payment of money in such manner as the company may think fit and to secure the same or the repayment or performance of any debt, liability, contract, guarantee or other engagement incurred or to be entered into by the company in any way and in particular by the issue of debentures perpetual or otherwise, charged upon all or any of the company’s property (both present and future), including its uncalled capital; and to purchase, redeem, or pay off any such securities.
-
-14\. To remunerate any person or company for services rendered, or to be rendered, in placing or assisting to place or guaranteeing the placing of any of the shares in the company’s capital or any debentures, or other securities of the company, or in or about the organisation, formation, or promotion of the company or the conduct of its business.
-
-15\. To draw, make, accept, endorse, discount, execute, and issue promissory notes, bills of exchange, bills of lading, and other negotiable or transferable instruments.
-
-16\. To sell or dispose of the undertaking of the company or any part thereof for such consideration as the company may think fit, and in particular for shares, debentures, or securities of any other company having objects altogether or in part similar to those of the company.
-
-17\. To adopt such means of making known and advertising the business and products of the company as may seem expedient.
-
-18\. To apply for, secure, acquire by grant, legislative enactment, assignment, transfer, purchase, or otherwise, and to exercise, carry out, and enjoy any charter, licence, power, authority, franchise, concession, right or privilege, which any government or authority, or any corporation or other public body may be empowered to grant; and to pay for, aid in, and contribute towards carrying the same into effect; and to appropriate any of the company’s shares, debentures, or other securities and assets to defray the necessary costs, charges, and expenses thereof.
-
-18\. To apply for, promote, and obtain any statute, order, regulation, or other authorisation or enactment which may seem calculated directly or indirectly to benefit the company; and to oppose any bills, proceedings, or applications which may seem calculated directly or indirectly to prejudice the company’s interests.
-
-20\. To procure the company to be registered or recognised in any country or place outside Singapore.
-
-21\. To sell, improve, manage, develop, exchange, lease, dispose of, turn to account, or otherwise deal with all or any part of the property and rights of the company.
-
-22\. To issue and allot fully or partly paid shares in the capital of the company in payment or part payment of any movable or immovable property purchased or otherwise acquired by the company or any services rendered to the company.
-
-23\. To distribute any of the property of the company among the members in kind or otherwise but so that no distribution amounting to a reduction of capital shall be made without the sanction required by law.
-
-24\. To take or hold mortgages, liens, and charges to secure payment of the purchase price, or any unpaid balance of the purchase price, of any part of the company’s property of whatsoever kind sold by the company, or any money due to the company from purchasers and others.
-
-25\. To carry out all or any of the objects of the company and do all or any of the above things in any part of the world and either as principal, agent, contractor, or trustee, or otherwise, and by or through trustees or agents or otherwise, and either alone or in conjunction with others.
-
-26. To do all such other things as are incidental or conducive to the attainment of the objects and the exercise of the powers of the company.
-
-[Aust. 3rd Schedule.]
+Deleted by Act 5/2004, wef 01/04/2004.
 
 FOURTH SCHEDULE
 
@@ -12812,7 +12872,7 @@ Lien
 
 Calls on shares
 
-13\. The directors may from time to time make calls upon the members in respect of any money unpaid on their shares and not by the conditions of allotment thereof made payable at fixed times, provided that no call shall be payable at less than one month from the date fixed for the payment of the last preceding call, and each member shall (subject to receiving at least 14 days’ notice specifying the time or times and place of payment) pay to the company at the time or times and place so specified the amount called on his shares. A call may be revoked or postponed as the directors may determine.
+13\. The directors may from time to time make calls upon the members in respect of any money unpaid on their shares (whether on account of the nominal value of the shares or by way of premium) and not by the conditions of allotment thereof made payable at fixed times, provided that no call shall exceed 25% of the nominal value of the share or be payable at less than one month from the date fixed for the payment of the last preceding call, and each member shall (subject to receiving at least 14 days’ notice specifying the time or times and place of payment) pay to the company at the time or times and place so specified the amount called on his shares. A call may be revoked or postponed as the directors may determine.
 
 14\. A call shall be deemed to have been made at the time when the resolution of the directors authorising the call was passed and may be required to be paid by instalments.
 
@@ -12820,7 +12880,7 @@ Calls on shares
 
 16\. If a sum called in respect of a share is not paid before or on the day appointed for payment thereof, the person from whom the sum is due shall pay interest on the sum from the day appointed for payment thereof to the time of actual payment at such rate not exceeding 8% per annum as the directors may determine, but the directors shall be at liberty to waive payment of that interest wholly or in part.
 
-17\. Any sum which by the terms of issue of a share becomes payable on allotment or at any fixed date shall for the purposes of these Regulations be deemed to be a call duly made and payable on the date on which by the terms of issue the same becomes payable, and in case of non-payment all the relevant provisions of these Regulations as to payment of interest and expenses, forfeiture, or otherwise shall apply as if the sum had become payable by virtue of a call duly made and notified.
+17\. Any sum which by the terms of issue of a share becomes payable on allotment or at any fixed date, whether on account of the nominal value of the share or by way of premium, shall for the purposes of these Regulations be deemed to be a call duly made and payable on the date on which by the terms of issue the same becomes payable, and in case of non-payment all the relevant provisions of these Regulations as to payment of interest and expenses, forfeiture, or otherwise shall apply as if the sum had become payable by virtue of a call duly made and notified.
 
 18\. The directors may, on the issue of shares, differentiate between the holders as to the amount of calls to be paid and the times of payment.
 
@@ -12862,13 +12922,13 @@ Forfeiture of shares
 
 34\. The company may receive the consideration, if any, given for a forfeited share on any sale or disposition thereof and may execute a transfer of the share in favour of the person to whom the share is sold or disposed of and he shall thereupon be registered as the holder of the share, and shall not be bound to see to the application of the purchase money, if any, nor shall his title to the share be affected by any irregularity or invalidity in the proceedings in reference to the forfeiture, sale, or disposal of the share.
 
-35\. The provisions of these Regulations as to forfeiture shall apply in the case of non-payment of any sum which, by the terms of issue of a share, becomes payable at a fixed time as if the same had been payable by virtue of a call duly made and notified.
+35\. The provisions of these Regulations as to forfeiture shall apply in the case of non-payment of any sum which, by the terms of issue of a share, becomes payable at a fixed time, whether on account of the nominal value of the share or by way of premium, as if the same had been payable by virtue of a call duly made and notified.
 
 Conversion of shares into stock
 
-36\. The company may by ordinary resolution passed at a general meeting convert any paid-up shares into stock and reconvert any stock into paid-up shares.
+36\. The company may by ordinary resolution passed at a general meeting convert any paid-up shares into stock and reconvert any stock into paid-up sharesof any denomination.
 
-37\. The holders of stock may transfer the same or any part thereof in the same manner and subject to the same regulations as and subject to which the shares from which the stock arose might previously to conversion have been transferred or as near thereto as circumstances admit; but the directors may from time to time fix the minimum amount of stock transferable and restrict or forbid the transfer of fractions of that minimum.
+37\. The holders of stock may transfer the same or any part thereof in the same manner and subject to the same regulations as and subject to which the shares from which the stock arose might previously to conversion have been transferred or as near thereto as circumstances admit; but the directors may from time to time fix the minimum amount of stock transferable and restrict or forbid the transfer of fractions of that minimum, but the minimum shall not exceed the nominal amount of the shares from which the stock arose.
 
 38\. The holders of stock shall according to the amount of the stock held by them have the same rights, privileges and advantages as regards dividends voting at meetings of the company and other matters as if they held the shares from which the stock arose, but no such privilege or advantage (except participation in the dividends and profits of the company and in the assets on winding up) shall be conferred by any such aliquot part of stock which would not if existing in shares have conferred that privilege or advantage.
 
@@ -12876,27 +12936,19 @@ Conversion of shares into stock
 
 Alteration of capital
 
-40\. The company may from time to time by ordinary resolution do one or more of the following:
+40. The company may from time to time by ordinary resolution —
 
-40.—(a) increase the share capital by such sum as the resolution shall prescribe;
+(a) increase the share capital by such sum to be divided into shares of such amount as the resolution shall prescribe;
 
-(b)
+(b) consolidate and divide all or any of its share capital into shares of larger amount than its existing shares;
 
-consolidate and divide all or any of its share capital;
+(c) subdivide its shares or any of them into shares of smaller amount than is fixed by the memorandum; so however that in the subdivision the proportion between the amount paid and the amount (if any) unpaid on each reduced share shall be the same as it was in the case of the share from which the reduced share is derived;
 
-(c)
-
-subdivide its shares or any of them, so however that in the subdivision the proportion between the amount paid and the amount, if any, unpaid on each reduced share shall be the same as it was in the case of the share from which the reduced share is derived;
-
-(d)
-
-cancel the number of shares which at the date of the passing of the resolution in that behalf have not been taken or agreed to be taken by any person or which have been forfeited and diminish the amount of its share capital by the number of the shares so cancelled.
-
-[42/2005 wef 30/01/2006]
+(d) cancel shares which at the date of the passing of the resolution in that behalf have not been taken or agreed to be taken by any person or which have been forfeited and diminish the amount of its share capital by the amount of the shares so cancelled.
 
 41\. Subject to any direction to the contrary that may be given by the company in general meeting, all new shares shall, before issue, be offered to such persons as at the date of the offer are entitled to receive notices from the company of general meetings in proportion, as nearly as the circumstances admit, to the amount of the existing shares to which they are entitled. The offer shall be made by notice specifying the number of shares offered, and limiting a time within which the offer, if not accepted, will be deemed to be declined, and, after the expiration of that time, or on the receipt of an intimation from the person to whom the offer is made that he declines to accept the shares offered, the directors may dispose of those shares in such manner as they think most beneficial to the company. The directors may likewise so dispose of any new shares which (by reason of the ratio which the new shares bear to shares held by persons entitled to an offer of new shares) cannot, in the opinion of the directors, be conveniently offered under this regulation.
 
-42\. The company may by special resolution reduce its share capital in any manner and with, and subject to, any incident authorised, and consent required by law.
+42\. The company may by special resolution reduce its share capital, any capital redemption reserve fund or any share premium account in any manner and with, and subject to, any incident authorised, and consent required by law.
 
 General meeting
 
@@ -12910,7 +12962,7 @@ General meeting
 
 Proceedings at general meetings
 
-47\. No business shall be transacted at any general meeting unless a quorum of members is present at the time when the meeting proceeds to business. Except as herein otherwise provided, two members present in person shall form a quorum. For the purposes of this regulation member includes a person attending as a proxy or as representing a corporation or a limited liability partnership which is a member.
+47\. No business shall be transacted at any general meeting unless a quorum of members is present at the time when the meeting proceeds to business. Except as herein otherwise provided, two members present in person shall form a quorum. For the purposes of this regulation member includes a person attending as a proxy or as representing a corporation which is a member.
 
 48\. If within half an hour from the time appointed for the meeting a quorum is not present, the meeting, if convened upon the requisition of members, shall be dissolved; in any other case it shall stand adjourned to the same day in the next week at the same time and place, or to such other day and at such other time and place as the directors may determine.
 
@@ -12944,7 +12996,7 @@ Unless a poll is so demanded a declaration by the chairman that a resolution has
 
 58\. No objection shall be raised to the qualification of any voter except at the meeting or adjourned meeting at which the vote objected to is given or tendered, and every vote not disallowed at such meeting shall be valid for all purposes. Any such objection made in due time shall be referred to the chairman of the meeting, whose decision shall be final and conclusive.
 
-59\. The instrument appointing a proxy shall be in writing, in the common or usual form, under the hand of the appointer or of his attorney duly authorised in writing or, if the appointer is a corporation or a limited liability partnership, either under seal or under the hand of an officer or attorney duly authorised. A proxy may but need not be a member of the company. The instrument appointing a proxy shall be deemed to confer authority to demand or join in demanding a poll.
+59\. The instrument appointing a proxy shall be in writing, in the common or usual form, under the hand of the appointer or of his attorney duly authorised in writing or, if the appointer is a corporation , either under seal or under the hand of an officer or attorney duly authorised. A proxy may but need not be a member of the company. The instrument appointing a proxy shall be deemed to confer authority to demand or join in demanding a poll.
 
 60. Where it is desired to afford members an opportunity of voting for or against a resolution the instrument appointing a proxy shall be in the following form or a form as near thereto as circumstances admit:
 
@@ -12954,11 +13006,7 @@ Signed this day of 19 .
 
 This form is to be used
 
-4
-
-in favour of
-
-4Strike out whichever is not desired. [Unless otherwise instructed, the proxy may vote as he thinks fit.]
+4in favour of
 
 the resolution.
 
@@ -13014,17 +13062,13 @@ Directors: Appointment, etc.
 
 Powers and duties of directors
 
-73.—(1) The business of a company shall be managed by or under the direction of the directors.
-
-(2) The directors may exercise all the powers of a company except any power that this Act or the memorandum and articles of the company require the company to exercise in general meeting.
-
-[8/2003 wef 15/05/2003]
+73\. The business of the company shall be managed by the directors who may pay all expenses incurred in promoting and registering the company, and may exercise all such powers of the company as are not, by the Act or by these Regulations, required to be exercised by the company in general meeting, subject, nevertheless, to any of these Regulations, to the provisions of the Act, and to such regulations, being not inconsistent with the aforesaid Regulations or provisions, as may be prescribed by the company in general meeting; but no regulation made by the company in general meeting shall invalidate any prior act of the directors which would have been valid if that regulation had not been made.
 
 74\. The directors may exercise all the powers of the company to borrow money and to mortgage or charge its undertaking, property, and uncalled capital, or any part thereof, and to issue debentures and other securities whether outright or as security for any debt, liability, or obligation of the company or of any third party.
 
 75\. The directors may exercise all the powers of the company in relation to any official seal for use outside Singapore and in relation to branch registers.
 
-76\. The directors may from time to time by power of attorney appoint any corporation, firm limited liability partnership, or person or body of persons, whether nominated directly or indirectly by the directors, to be the attorney or attorneys of the company for such purposes and with such powers, authorities, and discretions (not exceeding those vested in or exercisable by the directors under these Regulations) and for such period and subject to such conditions as they may think fit, and any such powers of attorney may contain such provisions for the protection and convenience of persons dealing with any such attorney as the directors may think fit and may also authorise any such attorney to delegate all or any of the powers, authorities, and discretions vested in him.
+76\. The directors may from time to time by power of attorney appoint any corporation, firm , or person or body of persons, whether nominated directly or indirectly by the directors, to be the attorney or attorneys of the company for such purposes and with such powers, authorities, and discretions (not exceeding those vested in or exercisable by the directors under these Regulations) and for such period and subject to such conditions as they may think fit, and any such powers of attorney may contain such provisions for the protection and convenience of persons dealing with any such attorney as the directors may think fit and may also authorise any such attorney to delegate all or any of the powers, authorities, and discretions vested in him.
 
 77\. All cheques, promissory notes, drafts, bills of exchange, and other negotiable instruments, and all receipts for money paid to the company, shall be signed, drawn, accepted, endorsed, or otherwise executed, as the case may be, by any two directors or in such other manner as the directors from time to time determine.
 
@@ -13063,10 +13107,6 @@ Proceedings of directors
 89\. All acts done by any meeting of the directors or of a committee of directors or by any person acting as a director shall, notwithstanding that it is afterwards discovered that there was some defect in the appointment of any such director or person acting as aforesaid, or that they or any of them were disqualified, be as valid as if every such person had been duly appointed and was qualified to be a director.
 
 90\. A resolution in writing, signed by all the directors for the time being entitled to receive notice of a meeting of the directors, shall be as valid and effectual as if it had been passed at a meeting of the directors duly convened and held. Any such resolution may consist of several documents in like form, each signed by one or more directors.
-
-90A. Where the company has only one director, he may pass a resolution by recording it and signing the record.
-
-[5/2004 wef 01/04/2004]
 
 Managing directors
 
@@ -13110,7 +13150,7 @@ Dividends and reserves
 
 Capitalisation of profits
 
-106\. The company in general meeting may upon the recommendation of the directors resolve that it is desirable to capitalise any part of the amount for the time being standing to the credit of any of the company’s reserve accounts or to the credit of the profit and loss account or otherwise available for distribution, and accordingly that such sum be set free for distribution amongst the members who would have been entitled thereto if distributed by way of dividend and in the same proportions on condition that the same be not paid in cash but be applied either in or towards paying up any amounts for the time being unpaid on any shares held by such members respectively or paying up in full unissued shares or debentures of the company to be allotted, distributed and credited as fully paid up to and amongst such members in the proportion aforesaid, or partly in the one way and partly in the other, and the directors shall give effect to such resolution.
+106\. The company in general meeting may upon the recommendation of the directors resolve that it is desirable to capitalise any part of the amount for the time being standing to the credit of any of the company’s reserve accounts or to the credit of the profit and loss account or otherwise available for distribution, and accordingly that such sum be set free for distribution amongst the members who would have been entitled thereto if distributed by way of dividend and in the same proportions on condition that the same be not paid in cash but be applied either in or towards paying up any amounts for the time being unpaid on any shares held by such members respectively or paying up in full unissued shares or debentures of the company to be allotted, distributed and credited as fully paid up to and amongst such members in the proportion aforesaid, or partly in the one way and partly in the other, and the directors shall give effect to such resolution. A share premium account and a capital redemption reserve may, for the purposes of this regulation, be applied only in the paying up of unissued shares to be issued to members of the company as fully paid bonus shares.
 
 107\. Whenever such a resolution as aforesaid shall have been passed the directors shall make all appropriations and applications of the undivided profits resolved to be capitalised thereby, and all allotments and issues of fully paid shares or debentures, if any, and generally shall do all acts and things required to give effect thereto, with full power to the directors to make such provision by the issue of fractional certificates or by payment in cash or otherwise as they think fit for the case of shares or debentures becoming distributable in fractions, and also to authorise any person to enter on behalf of all the members entitled thereto into an agreement with the company providing for the allotment to them respectively, credited as fully paid up, of any further shares or debentures to which they may be entitled upon such capitalisation, or, as the case may require, for the payment up by the company on their behalf, by the application thereto of their respective proportions of the profits resolved to be capitalised, of the amounts or any part of the amounts remaining unpaid on their existing shares, and any agreement made under such authority shall be effective and binding on all such members.
 
@@ -13142,491 +13182,7 @@ Indemnity
 
 FIFTH SCHEDULE
 
-Sections 44(4), (5), 45(1), (2), (6), (8), 49(2). U.K. 4th Schedule. Aust. 5th Schedule. 15/84.
-
-Prospectus
-
-Part I
-
-Form of prospectus
-
-The prospectus shall be printed in type of a size no smaller than the type known as 8 point Times unless the Registrar, before the issuing, advertising, circulating or distributing of the prospectus in Singapore, certifies in writing, that the type and size of the printed letters are legible.
-
-Matters to be stated
-
-1\. The number of founders or management or deferred shares, if any, and the nature and extent of the interest of the holders of those shares in the property and profits of the company.
-
-2\. The number of shares, if any, fixed by the articles as the qualification of a director, and any provision in the articles as to the remuneration of the directors.
-
-3\. The names, descriptions, and addresses of all the directors or proposed directors except in the case of the directors of an issuing corporation that is a prescribed corporation under section 97(8), only the city or locality of the residence of the directors need be given.
-
-3A. The date of the prospectus.
-
-[36/2000 wef 22/01/2001]
-
-3B. A statement that a copy of the prospectus has been lodged with and registered by the Registrar and, immediately after that statement, another statement that the Registrar takes no responsibility as to the contents of the prospectus.
-
-[36/2000 wef 22/01/2001]
-
-3C. Where the persons making any report specified in Part II of this Schedule have made therein or have, without giving reasons, indicated therein any such adjustments as are mentioned in paragraph 31, a statement which is to be endorsed thereon or attached thereto by those persons, setting out the adjustments and giving the reasons for the adjustments.
-
-[36/2000 wef 22/01/2001]
-
-3D. A statement that no shares or debentures, or units of shares or debentures, as the case may be, shall be allotted on the basis of the prospectus later than 6 months after the date of the issue of the prospectus.
-
-[36/2000 wef 22/01/2001]
-
-3E. Where the prospectus contains any statement made by an expert or contains what purports to be a copy of or extract from a report, memorandum or valuation of an expert, the date on which the statement, report, memorandum or valuation was made and whether or not it was prepared by the expert for the purpose of incorporation in the prospectus.
-
-[36/2000 wef 22/01/2001]
-
-3F. The name of any person as a trustee for debenture holders, or as an auditor, a banker, a solicitor, a stock broker or share broker of the corporation or proposed corporation or for or in relation to the issue or proposed issue of shares or debentures, or units of shares or debentures, if, but only if —
-
-(a) that person has consented in writing before the issue of the prospectus to act in that capacity in relation to the prospectus; and
-
-(b) in the case of a company or proposed company, a copy, verified as prescribed, of the consent has been lodged with the Registrar.
-
-[36/2000 wef 22/01/2001]
-
-3G.—(1) Where the prospectus relates to shares in or debentures of, or units of shares in or debentures of, a foreign company that has been incorporated or is to be incorporated, the prospectus shall also contain particulars with respect to —
-
-(a) the instrument constituting, or defining the constitution of, the foreign company;
-
-(b) the enactments or provisions having the force of an enactment by or under which the incorporation of the company was effected or is to be effected;
-
-(c) an address in Singapore where such instrument, enactments or provisions or certified copies thereof may be inspected;
-
-(d) the date on which and the place where the company was or is to be incorporated; and
-
-(e) whether the company has established a place of business in Singapore and, if so, the address of its principal office in Singapore.
-
-(2) Sub-paragraph (1)(a), (b) and (c) shall not apply in the case of a prospectus issued more than 2 years after the date on which the company is entitled to commence business.
-
-(3) For the purposes of this paragraph, in the application of this Part to a foreign company, paragraph 2 of this Part shall have effect as if a reference to the constitution of the company were substituted for the reference to the articles.
-
-[36/2000 wef 22/01/2001]
-
-4. Where the prospectus relates to shares particulars as to —
-
-(a) the minimum amount which, in the opinion of the directors, must be raised by the issue of those shares in order to provide the sums, or, if any part thereof is to be defrayed in any other manner, the balance of the sums, required to be provided in respect of each of —
-
-(i) the purchase price of any property purchased or to be purchased which is to be defrayed in whole or in part out of the proceeds of the issue;
-
-(ii) any preliminary expenses payable by the company, and any commission so payable to any person in consideration of his agreeing to subscribe for, or of his procuring or agreeing to procure subscriptions for, any shares in the company;
-
-(iii) the repayment of any money borrowed by the company in respect of any of the foregoing matters; and
-
-(iv) working capital; and
-
-(b) the amounts to be provided in respect of the matters aforesaid otherwise than out of the proceeds of the issue and the sources out of which those amounts are to be provided.
-
-5\. The nature of the company’s business and the names of all corporations which are by virtue of section 6 of the Act deemed to be related to the company.
-
-6\. The time of the opening of the subscription lists.
-
-7\. The amount payable on application and allotment on each share or where such amount may vary during the currency of the offer, the basis of calculation of the amount so payable and, in the case of a second or subsequent offer of shares, the number, description and amount offered for subscription on each previous allotment made within the two preceding years, the number actually allotted, and the amount, if any, paid on the shares so allotted.
-
-8. The number, description, and amount of any shares in or debentures of the company which any person has, or is entitled to be given, an option to subscribe for, together with the following particulars of the option:
-
-(a) the period during which it is exercisable;
-
-(b) the price to be paid for shares or debentures subscribed for under it;
-
-(c) the consideration, if any, given or to be given for it or for the right to it;
-
-(d) the names and addresses of the persons to whom it or the right to it was given or, if given to existing shareholders or debenture holders as such, the relevant shares or debentures.
-
-9\. The number and amount of shares and debentures which within the two preceding years have been issued, or agreed to be issued, as fully or partly paid up otherwise than in cash, and in the latter case the extent to which they are so paid up, and in either case the consideration for which those shares or debentures have been issued or are proposed or intended to be issued.
-
-10.—(1) With respect to any property to which this paragraph applies —
-
-(a) the names and addresses of the vendors;
-
-(b) the amount payable in cash, shares, or debentures to the vendor and, where there is more than one separate vendor, or the corporation is a sub-purchaser, the amount so payable to each vendor;
-
-(c) short particulars of any transaction relating to the property completed within the two preceding years in which any vendor of the property to the corporation or any person who is, or was at the time of the transaction, a promoter or a director or proposed director of the corporation had any interest direct or indirect.
-
-(2) The property to which this paragraph applies is property purchased or acquired by the corporation or by any subsidiary of the corporation or proposed so to be purchased or acquired, which is to be paid for wholly or partly out of the proceeds of the issue offered for subscription by the prospectus or the purchase or acquisition of which has not been completed at the date of the issue of the prospectus, other than property the contract for the purchase or acquisition whereof was entered into in the ordinary course of the corporation’s or the subsidiary’s business, the contract not being made in contemplation of the issue nor the issue in consequence of the contract.
-
-11\. The amount, if any, paid or payable as purchase money in cash, shares, or debentures for any property to which paragraph 10 applies, specifying the amount, if any, payable for goodwill.
-
-12\. The amount, if any, paid within the two preceding years, or payable, as commission (but not including commission to sub-underwriters) for subscribing or agreeing to subscribe, or procuring or agreeing to procure subscriptions, for any shares in or debentures of the corporation, or the rate of any such commission, and the names of any directors or promoters or experts or proposed directors who are entitled to receive any such commission and the amount or rate thereof.
-
-13\. The amount or estimated amount of preliminary expenses and the persons by whom any of these expenses have been paid or are payable, and the amount or estimated amount of the expenses of the issue and the persons by whom any of those expenses have been paid or are payable.
-
-14\. Any amount or benefit paid or given within the two preceding years or intended to be paid or given to any promoter, and the consideration for the payment or the giving of the benefit.
-
-15\. The date of, parties to, and general nature of every material contract, not being a contract entered into in the ordinary course of the business carried on or intended to be carried on by the corporation or a contract entered into more than two years before the date of issue of the prospectus.
-
-16\. The names and addresses of the auditors of the corporation.
-
-17\. Full particulars of the nature and extent of the interest, direct or indirect, if any, of every director and of every expert in the promotion of, or in the property proposed to be acquired by, the corporation, or, where the interest of such a director or such an expert consists in being a partner in a firm or a holder of shares or debentures in a corporation the nature and extent of the interest of the firm, or corporation and where the interest of such a director or such an expert consists in a holding of shares or debentures in a corporation a statement of the nature and extent of the interest of the director or expert in the corporation, with a statement of all sums paid or agreed to be paid to him or to the firm in cash or shares or otherwise by any person in the case of a director either to induce him to become, or to qualify him as, a director, or otherwise for services rendered by him or by the firm or corporation in connection with the promotion or formation of the corporation or (in the case of an expert) for services rendered by him or the firm or corporation in connection with the promotion or formation of the corporation. For the purposes of this paragraph, a director or expert shall be deemed to have an indirect interest in a corporation if he has any beneficial interest in shares or debentures of a corporation which has an interest in the promotion of, or in the property proposed to be acquired by the corporation or if he has any beneficial interest in shares or debentures in a corporation which is by virtue of section 6 deemed to be related to that first-mentioned corporation.
-
-18\. Where the prospectus relates to shares, if the share capital of the corporation is divided into different classes of shares, the right of voting at meetings of the corporation conferred by, and the rights in respect of capital and dividends attached to, the several classes of shares respectively.
-
-19\. In the case of a corporation which has been carrying on business, or of a business which has been carried on, for less than 3 years, the length of time during which the business of the corporation or the business to be acquired, as the case may be, has been carried on.
-
-Part II
-
-Reports to be set out
-
-20.—(1) A report by an approved company auditor, who shall be named in the prospectus with respect to —
-
-(a) profits and losses and assets and liabilities of the corporation and of any guarantor corporation referred to in the prospectus, in accordance with sub-paragraph (2) or (3), as the case requires; and
-
-(b) the rates of the dividends, if any, paid by the corporation in respect of each class of shares in respect of each of the 3 financial years immediately preceding the issue of the prospectus, giving particulars of each such class of shares on which such dividends have been paid and particulars of the cases in which no dividends have been paid in respect of any class of shares in respect of any of those years,
-
-and, if no accounts have been made up in respect of any part of the period of 3 years ending on a date 3 months before the issue of the prospectus, containing a statement of that fact.
-
-(2) If the corporation or the guarantor corporations have no subsidiaries, the report shall —
-
-(a) so far as regards profits and losses, deal with the profits or losses of the corporation and of the guarantor corporations referred to in the prospectus in respect of each of the 3 financial years immediately preceding the last date to which the accounts of the corporation or the guarantor corporations were made up;
-
-(b) so far as regards assets and liabilities, deal with the assets and liabilities of the corporation and of the guarantor corporations referred to in the prospectus at the last date to which the accounts of the corporation and the guarantor corporations were made up,
-
-which date shall in no case be more than 9 months (or if the Registrar having regard to the circumstances of any particular case consents thereto in writing, 12 months) before the issue of the prospectus.
-
-(3) If the corporation or the guarantor corporations have subsidiaries, the report shall —
-
-(a) so far as regards profits and losses —
-
-(i) deal as aforesaid separately with the corporation’s and the guarantor corporations’ (other than subsidiaries) profits or losses as provided by sub-paragraph (2) and in addition deal as aforesaid either —
-
-(A) as a whole with the combined profits or losses of their subsidiaries; or
-
-(B) individually with the profits or losses of each subsidiary; or
-
-(ii) deal as aforesaid as a whole with the profits or losses of the corporation and of the guarantor corporations and with the combined profits or losses of their subsidiaries; and
-
-(b) so far as regards assets and liabilities, deal as aforesaid separately with the corporation’s and the guarantor corporations’ (other than subsidiaries) assets and liabilities as provided by sub-paragraph (2) and in addition deal as aforesaid either —
-
-(i) as a whole with the combined assets and liabilities of its or their subsidiaries, with or without the corporation’s assets and liabilities; or
-
-(ii) individually with the assets and liabilities of each subsidiary,
-
-and shall indicate as respects the profits or losses and assets and liabilities of the subsidiaries the allowance to be made for persons other than members of the corporation.
-
-(4) If the prospectus relates to shares in or debentures of the borrowing corporation the report shall state separately estimates of the amounts of moneys owing and payable to the corporation and the amounts of all liabilities payable by the borrowing corporation —
-
-(a) not later than two years;
-
-(b) later than two years but not later than 5 years; and
-
-(c) later than 5 years,
-
-calculated from the last date to which the accounts of the borrowing corporation were made up.
-
-21. If the proceeds, or any part of the proceeds, of the issue of the shares or debentures are to be applied directly or indirectly in the purchase of any business, a report by an approved company auditor (who shall be named in the prospectus) with respect to —
-
-(a) the profits or losses of the business in respect of each of the 3 financial years immediately preceding the last date to which the accounts of the business were made up; and
-
-(b) the assets and liabilities of the business at the last date to which the accounts of the business were made up,
-
-which date shall in no case be more than 6 months before the issue of the prospectus.
-
-22.—(1) If —
-
-(a) the proceeds, or any part of the proceeds, of the issue of the shares or debentures are to be applied directly or indirectly in any manner resulting in the acquisition by the corporation of shares in any other corporation; and
-
-(b) by reason of that acquisition or anything to be done in consequence thereof or in connection therewith that corporation will become a subsidiary of the corporation,
-
-a report by an approved company auditor (who shall be named in the prospectus) with respect to —
-
-(c) the profits or losses of the other corporation in respect of each of the 3 financial years immediately preceding the last date to which the accounts of the corporation were made up; and
-
-(d) the assets and liabilities of the other corporation at the last date to which the accounts of the corporation were made up,
-
-which date shall in no case be more than 6 months before the issue of the prospectus.
-
-(2) The report shall —
-
-(a) indicate how the profits or losses of the other corporation dealt with by the report would, in respect of the shares to be acquired, have concerned members of the corporation and what allowance would have fallen to be made, in relation to assets and liabilities so dealt with, for holders of other shares, if the corporation had at all material times held the shares to be acquired; and
-
-(b) where the other corporation has subsidiaries, deal with the profits or losses and the assets and liabilities of the corporation and its subsidiaries in the manner provided by paragraph 20(3) in relation to the corporation and its subsidiaries.
-
-23. A report by the directors as to whether after due inquiry by them in relation to the interval between the date to which the last accounts have been made up and a date not earlier than 14 days before the issue of the prospectus —
-
-(a) the business of the corporation and its subsidiaries has in their opinion been satisfactorily maintained;
-
-(b) there have in their opinion arisen since the last annual general meeting of the corporation any circumstances adversely affecting the trading or the value of the assets of the corporation or any of its subsidiaries;
-
-(c) the current assets of the corporation and of its subsidiaries appear in the books at values which are believed to be realisable in the ordinary course of business;
-
-(d) there are any contingent liabilities by reason of any guarantees given by the corporation or any of its subsidiaries; or
-
-(e) there are, since the last annual report, any changes in published reserves or any unusual factors affecting the profit of the corporation and its subsidiaries,
-
-and where any report is required pursuant to this paragraph it shall contain full details of all matters required to be dealt with in the report.
-
-Part III
-
-Provisions applying to Parts I and II of this Schedule
-
-24\. Paragraphs 2, 13 (so far as they relate to preliminary expenses), and 17 shall not apply in the case of a prospectus issued more than two years after the date at which the company is entitled to commence business.
-
-25. Every person shall, for the purposes of this Schedule, be deemed to be a vendor who has entered into any contract, absolute or conditional, for the sale or purchase, or for any option of purchase, of any property to be acquired by the corporation in any case where —
-
-(a) the purchase money is not fully paid at the date of the issue of the prospectus;
-
-(b) the purchase money is to be paid or satisfied wholly or in part out of the proceeds of the issue offered for subscription by the prospectus; or
-
-(c) the contract depends for its validity or fulfilment on the result of that issue.
-
-26\. Where any property to be acquired by the corporation is to be taken on lease this Schedule shall have effect as if the expression vendor included the lessor, and the expression purchase money included the consideration for the lease, and the expression sub-purchaser included a sub-lessee.
-
-27\. References in paragraph 8 to an option to subscribe for shares or debentures shall include an option to acquire them from a person to whom they have been allotted or agreed to be allotted with a view to his offering them for sale, but shall not include an option to subscribe for or acquire shares pursuant to a bona fide underwriting or sub-underwriting agreement.
-
-28\. For the purposes of paragraph 10 where the vendors or any of them are a firm, the members of the firm shall not be treated as separate vendors.
-
-29\. If in the case of a corporation which has been carrying on business, or of a business which has been carried on, for less than 3 years, the accounts of the corporation or business have only been made up to 2 years or one year, Part II of this Schedule shall have effect as if references to 2 years or one year, as the case may be, were substituted for references to 3 years.
-
-29.
-
-[S 99/2001 wef 22/02/2001]
-
-30\. The expression financial year in Part II of this Schedule means the year in respect of which the accounts of the corporation or of the business, as the case may be, are made up, and where by reason of any alteration of the date on which the financial year of the corporation or business terminates the accounts of the corporation or business have been made up for a period greater or less than a year, that greater or less period shall for the purposes of that Part of this Schedule be deemed to be a financial year.
-
-31\. Any report required by Part II of this Schedule shall either indicate by way of note any adjustments as respects the figures of any profits or losses or assets and liabilities dealt with by the report which appear to the persons making the report necessary or shall make those adjustments and indicate that adjustments have been made.
-
-Part IV
-
-Additional matters to be included in prospectus relating to invitation to the public to deposit money with or lend money to a corporation
-
-32. Where section 44(4) of the Act applies there shall be included —
-
-(a) a statement to the effect that the repayment of all moneys that have been or may be deposited with or lent to the corporation in response to the invitation is secured by a first charge given to the trustee for the holders of the debentures to be issued in relation to the deposit or loan over land vested in the corporation or in any of its guarantor corporations and that the charge has been duly registered, or is a registrable mortgage which has been lodged for registration, in accordance with the law relating to the registration of land charges in the place where the land is situated and that the aggregate amount of such moneys and of all other liabilities, if any, secured by the charge over that land ranking pari passu with the liability to repay such moneys does not exceed 60% of the value of the corporation’s interest in that land as shown in the valuation included in the prospectus; and
-
-(b) a copy of a written valuation of the corporation’s interest in the land, so mortgaged, showing the nature and extent of the corporation’s interest made not more than 6 months before the date of the prospectus by a person competent and qualified to make the valuation in the place where the land is situated who is not an officer or employee of the corporation or of any of its guarantor corporations or of any corporation that by virtue of section 6 of the Act is deemed to be related to either the first-mentioned corporation or any of its guarantor corporations.
-
-33.—(1) Where section 44(5) of the Act applies there shall be included —
-
-(a) a statement to the effect —
-
-(i) that the repayment of all moneys that have been or may be deposited with or lent to the corporation in response to the invitation has been secured by a charge in favour of the trustee for the holders of the debentures over the whole or any part of the tangible assets of the corporation and of its guarantor corporations or of any of them; and
-
-(ii) that having regard to the particulars in the summary made in accordance with sub-paragraph (1)(b) the tangible assets secured by the charge are sufficient and are reasonably likely to be sufficient to meet the liability for the repayment of all such moneys and all other liabilities ranking in priority thereto or pari passu therewith that have been or may be incurred; and
-
-(b) a summary made by the approved company auditor who has made for inclusion in the prospectus the report required by Part II of this Schedule with respect to the assets and liabilities of the borrowing corporation showing in tabular form the aggregate values (based upon the amounts as disclosed in the statements of the assets and liabilities of the borrowing corporation and its guarantor corporations which have been prepared for the purposes of paragraphs 20 and 31) of the tangible assets of the borrowing corporation and of its guarantor corporations which have been charged to secure the repayment of all moneys referred to in sub-paragraph (1)(a) (i), after making such adjustments as are proper to give a true and fair view of the tangible assets available as security for the charge and, in particular, after making adjustments —
-
-(i) to exclude from those aggregate values such part of the value of any shares in or advances to a corporation as is reflected in or depends upon the tangible assets of that corporation which are otherwise included in the summary;
-
-(ii) to exclude from those aggregate values such part of the value of any shares in a corporation which is by virtue of section 6 of the Act deemed to be related to the borrowing corporation or its guarantor corporations, as the case requires, as is properly attributable to intangible assets of that first-mentioned corporation; and
-
-(iii) to add to those aggregate values the amount to be raised under the prospectus including the maximum amount of over-subscriptions which the prospectus in accordance with section 49 of the Act specifies may be retained.
-
-(2) In such summary the approved company auditor —
-
-(a) shall show the amounts outstanding out of the aggregate amounts borrowed respectively by the borrowing corporation and by its guarantor corporations distinguishing between those which will rank for repayment in priority to the proposed issue and those which will rank pari passu with that proposed issue;
-
-(b) shall state by way of note or otherwise the total amount of the values of intangible assets excluded in making the adjustments required under sub-paragraph (1)(b) (ii);
-
-(c) may, where a corporation has given a charge over its assets to secure a liability the amount of which may vary from time to time, take into account the actual amount of the liability as at the date at which the summary is made up but (in that event) shall show by way of note the further amount which may be advanced under that charge;
-
-(d) may explain or qualify by way of note or otherwise any of the matters set out in the summary;
-
-(e) shall disclose by way of note or otherwise the amount of advances by the borrowing corporation to any corporation which is by virtue of section 6 of the Act deemed to be related to the borrowing corporation distinguishing between advances which are secured and advances which are unsecured.
-
-34. In every prospectus which relates to debentures there shall be included —
-
-(a) particulars of the limitations on the amount that the corporation may borrow;
-
-(b) a statement as to the amount of subscriptions that are being sought;
-
-(c) a statement as to whether or not the corporation reserves the right to accept or retain over-subscriptions and, if the corporation reserves such a right, the limit on the right so reserved expressed as a sum of money;
-
-(d) where applicable, a statement as to whether or not the corporation has any right to create additional charges over any of the assets charged to secure the repayment of the deposits or loans which will rank in priority to or pari passu with that charge and if there is such a right particulars of its nature and extent.
-
-Part V
-
-Particulars to be included in an abridged prospectus relating to a renounceable rights issue where an application is being made for the shares in or debentures of a corporation to be quoted on or dealt in on any stock exchange
-
-Section 47
-
-1\. The date of the prospectus.
-
-2. The following statements shall be made by the corporation:
-
-“
-
-THIS DOCUMENT IS IMPORTANT" (to be in bold or coloured print).
-
-If you are in any doubt as to the action you should take, you should consult your stockbroker, bank manager, solicitor, accountant, or other professional adviser immediately." (to be in bold or coloured print).
-
-Copies of this document, together with copies of the provisional allotment letter and excess share application form, have been lodged with and registered by the Registrar in Singapore who takes no responsibility for the contents of the documents."
-
-Approval in principle has been obtained from the stock exchange for this rights issue and to deal in and for quotation for all the new securities arising from this issue and such new securities will be admitted to the official list of the stock exchange and official quotation will commence after all stock certificates have been issued."
-
-All the documentation relating to this issue has been seen and approved by the directors of the corporation and they collectively and individually accept full responsibility for the accuracy of the information given and confirm that after making all reasonable enquiries to the best of their knowledge and belief there are no other factors the omission of which would make any statement in these documents misleading.
-
-”.
-
-3\. Name of the corporation and its country of incorporation.
-
-4\. Particulars of the rights issue.
-
-5\. Names of the underwriters to the issue.
-
-Note: PARAGRAPHS 1 TO 6 MUST BE INCORPORATED IN THE FRONT PAGE OF THE ABRIDGED PROSPECTUS.
-
-6.—(a) The last day and time for splitting;
-
-(b)
-
-The last day and time for acceptance and payment;
-
-(c)
-
-The last day and time for renunciation and payment.
-
-7\. The registered office of the corporation.
-
-8\. The full name, address and occupation of all the directors.
-
-9\. The names and addresses of the bankers, solicitors, auditors and registrars.
-
-10. Terms and conditions of the issue — where listing is sought for shares which will not be identical with shares already listed —
-
-(a) a statement of the rights as regards dividends, capital redemption and voting attached to such shares and as to the right of the corporation to create or issue further shares to rank in priority to or rank pari passu therewith; and
-
-(b) a summary of the consents necessary for the creation of such rights.
-
-11\. Reasons and purpose of the issue — this should include a statement or an estimate of the net proceeds of the issue and a statement as to how the proceeds are intended to be applied.
-
-12. The profits, prospects and dividends of the group — there should be disclosed, subject to paragraph 29 of Part III, the following:
-
-(a) a tabulation for each of the last 3 financial years in the following format:
-
-Year ended
-
-Profit before tax
-
-Profit after tax
-
-Exceptional items
-
-Gross earnings per share
-
-Gross rate of dividend
-
-(b) a statement as to the financial and trading prospects of the corporation or group, together with any material information which will be relevant thereto, including all special trade factors or risks (if any) which are not mentioned elsewhere in the prospectus and which are unlikely to be known or anticipated by the general public and which could materially affect the profits; and
-
-(c) a statement by the directors that in their opinion the working capital available is sufficient, or, if not, how it is proposed to provide the additional working capital thought by the directors to be necessary.
-
-13.—(1) Where the date of registration of the prospectus for a rights issue is within 6 months of the last audited accounts, the last audited accounts shall be disclosed in the prospectus.
-
-(2) Where the date of registration of the prospectus for a rights issue is more than 6 months, but less than 12 months of the last audited accounts, the last audited accounts, together with the half-year interim unaudited profits, shall be included in the prospectus.
-
-(3) No prospectus shall contain audited accounts made up to a date which is more than 12 months to the date of registration of the prospectus.
-
-14. A table or statement indicating —
-
-(a) the net asset backing per share of the corporation and the group as at the date of the last audited accounts; and
-
-(b) the effect of the rights issue on the net asset backing per share.
-
-15. A statement that no shares or debentures, shares and debentures, units of shares or debentures, or units of shares and debentures, as the case may be, shall be allotted on the basis of the prospectus later than 6 months after the date of the issue of the prospectus.
-
-[36/2000 wef 22/01/2001]
-
-16. Where the prospectus contains any statement made by an expert or contains what purports to be a copy of or extract from a report, memorandum or valuation of an expert, the date on which the statement, report, memorandum or valuation was made and whether or not it was prepared by the expert for the purpose of incorporation in the prospectus.
-
-[36/2000 wef 22/01/2001]
-
-17. The name of any person as a trustee for debenture holders, or as an auditor, a banker, a solicitor, a stock broker or share broker of the corporation or proposed corporation or for or in relation to the issue or proposed issue of shares or debentures, or units of shares or debentures, if, and only if —
-
-(a) that person has consented in writing before the issue of the prospectus to act in that capacity in relation to the prospectus; and
-
-(b) in the case of a company or proposed company, a copy, verified as prescribed, of the consent has been lodged with the Registrar.
-
-[36/2000 wef 22/01/2001]
-
-Part VI
-
-Section 106F 40/89
-
-Statement of Material Facts
-
-____________________________________________________________________________
-
-Copies of this document have been lodged with the Registrar and the Stock Exchange of Singapore Ltd. who or which takes no responsibility for the contents of the document. Neither has the Registrar nor the Stock Exchange in any way considered the merits of the *shares/debentures as an investment.
-
-____________________________________________________________________________
-
-................................................
-
-
-
-
-(full name of issuer)
-
-..............................................................................
-
-
-
-
-(address of registered office of issuer)
-
-1. State the business carried on and to be carried on by the issuer and its subsidiary and the general development of the business within the preceding 3 years and indicate any material changes in the affairs of the issuer since the last annual report.
-
-2. Set out the description, designation and number of *shares/debentures being offered by the issuer.
-
-*Delete where inapplicable.
-
-3. Set out the offering price, underwriting discounts or commissions and the estimated net proceeds to the issuer on an aggregate basis. If it is not possible to state the offering price or the underwriting discount or commissions, the method by which they are to be determined shall be explained. Give the range of the market price during the previous 90 days.
-
-4. State the principal purposes for which the estimated net proceeds to be derived by the issuer from the sale of the *shares/debentures to be offered are intended to be used and the approximate amount intended to be used for each such purpose. If any material amounts of other funds are to be used in conjunction with the proceeds state the amounts and sources of such other funds.
-
-*Delete where inapplicable.
-
-5. State the place where issuer was incorporated and the date of incorporation.
-
-6. Give names and addresses of the directors of the issuer.
-
-7. State the share and loan capital of the issuer showing in the case of the share capital the authorised share capital and the issued and the paid up capital and in the case of loan capital state the total amount of the debentures issued and outstanding at the date of the statement together with rate of interest payable thereon.
-
-8. Outline briefly the manner in which the *shares/debentures offered are to be distributed, giving particulars of any outstanding or proposed underwriting, including the name and address of each underwriter
-
-*Delete where inapplicable.
-
-9. Give the profits, prospects and dividends of the issuer and provide the following:
-
-(a) a tabulation for each of the last 3 financial years immediately preceding the offer in the following format:
-
-Year ended
-
-Profit before tax
-
-Profit after tax
-
-Exceptional items
-
-Gross earnings per share
-
-Gross rate of dividend
-
-(b) a statement as to the financial and trading prospects of the corporation or group, together with any material information which will be relevant thereto, including all special trade factors or risks (if any) which are unlikely to be known or anticipated by the general public and which could materially affect the profits; and
-
-(c) a statement by the directors that in their opinion the working capital available is sufficient, or, if not, how it is proposed to provide the additional working capital thought by the directors to be necessary.
-
-10. Give the number of shares of the issuer owned by each substantial shareholder as defined in section 81 of the Act.
-
-11. Give a brief statement of any material legal proceedings to which the issuer or any of its subsidiaries is a party or of which any of their property is the subject. Make a similar statement as to any such proceedings known to be contemplated.
-
-12. State the prices at which *shares/debentures of the issuer have been issued for cash or traded within the 12 months immediately preceding the date of this statement. For shares which have been traded, give price ranges and volume traded for each of those months and for *shares/debentures which have been issued during those months, state the number of *shares/debentures issued at each price. If any *shares/debentures have been issued for services, state the nature and value of the services and give the name and address of the person who received the *shares/debentures.
-
-*Delete where inapplicable
-
-13. Give the dates and parties to and the general nature of every material contract entered into by the issuer not being a contract entered into in the ordinary course of business carried on or intended to be carried on by the issuer or a contract entered into more than two years before the date of the issue of this statement.
-
-14. Give particulars of any other material facts relating to the shares or debentures proposed to be offered and not disclosed pursuant to items 1 to 13.
-
-15. Give the last audited balance-sheet of the issuer.
-
-16. Give a table or statement indicating —
-
-(a) the net asset backing per share of the issuer as at the date of the last audited accounts; and
-
-(b) the effect of the issue on the net asset backing per share.
+(Repealed by S 236/2002, wef 01/07/2002).
 
 SIXTH SCHEDULE
 
@@ -13640,21 +13196,29 @@ Statement in Lieu of Prospectus Lodged for Registration by
 
 [Insert name of the company]
 
-The issued share capital of the company
+The nominal share capital of the company
 
 $
 
 Shares of $
 
+each: $
+
 Divided into
 
 Shares of $
 
+each: $
+
 Shares of $
+
+each: $
 
 Amount (if any) of above capital which consists of redeemable preference shares
 
 Shares of $
+
+each: $
 
 The date on or before which these shares are, or are liable, to be redeemed
 
@@ -13793,8 +13357,6 @@ Rates of the dividends, if any, paid by the company in respect of each class of 
 
 Particulars of the cases in which no dividends have been paid in respect of any class of shares in any of these years.
 
-[21/2005 wef 30/01/2006]
-
 Part II
 
 Reports to be set out
@@ -13853,667 +13415,106 @@ Provisions applying to Parts I and II of this Schedule
 
 SEVENTH SCHEDULE
 
-Sections 107(1), 113(2). Aust. 7th Schedule.
-
-Statement Required Pursuant to Division 6 of Part Iv
-
-Part I
-
-Matters required to be stated in statement
-
-1\. The date of the statement.
-
-2\. The date of and parties to the deed referred to in section 114 of the Act.
-
-3\. The date of and parties to any deed or instrument by which any of the provisions of the approved deed relating to the interest has been amended or abrogated.
-
-4\. The name of the trustee or representative under any such deed and the address of the trustee’s or representative’s registered office.
-
-5\. A summary of the provisions of the deed regulating the retirement, removal and replacement of the trustee or representative.
-
-6\. The name of the management company and the address of its registered office.
-
-7\. The names, descriptions, and addresses of all the directors of the management company.
-
-8\. A summary of the provisions of the deed regulating the retirement, removal and replacement of the management company.
-
-9\. The name and address of the auditor of the accounts relating to interests under the deed.
-
-10\. A summary of the provisions of the deed regulating the appointment, retirement, removal and replacement of such auditor.
-
-11\. The duration, if ascertainable, of the undertaking, scheme, enterprise or investment contract to which the deed relates or if the duration is not ascertainable, that fact.
-
-12\. Full particulars with respect to the termination or winding up of the undertaking, scheme, enterprise or investment contract.
-
-13\. Such particulars as are sufficient to disclose the true nature of the undertaking, scheme, enterprise or investment contract in respect of which the interest is to be issued or offered to the public for subscription or purchase and the general nature of the property to which the interest relates.
-
-14\. The nature of the interest to be so issued or offered and of any units or sub-units into which the interest is divided and the rights in relation thereto of the persons who become the holders thereof.
-
-15\. The address where the register of interest holders is or will be kept and the days on and the hours during which it is or will be accessible to the public.
-
-16\. The method of calculation provided by the deed of the price at which the management company may sell the interest or any right in respect thereof or any unit or sub-unit of the interest.
-
-17\. Such particulars as are sufficient to describe the duties and obligations imposed on the trustee or representative appointed by the deed relating to the interest.
-
-18\. The name and address of each person or corporation with whom or with which a holder of the interest is required, obliged or entitled, in connection with the undertaking, scheme, enterprise or investment contract, to enter into any contract whether by way of lease or otherwise.
-
-19\. The full names, description and residential addresses of the directors of each corporation referred to in paragraph 18.
-
-20\. Whether any property to which the interest relates is or will become vested in the trustee or representative, the nature and description of such property and the conditions or circumstances under which it is or will become so vested.
-
-21\. Where the interest consists of rights or interests in or arising out of an investment relating to property that ordinarily depreciates in value through use or effluxion of time, such particulars as are sufficient to disclose the true particulars of the provisions made for the replacement of such property and the source or sources from which such replacement is to be made or from which the cost of such replacement is to be met.
-
-22\. Except where the interest relates only to marketable securities which were purchased or acquired at not more than the ruling market prices, the full names and residential addresses of the vendors of any property to which the interest relates, whether such property was purchased or acquired by the management company or by any person or corporation referred to in paragraph 18 or is proposed to be so purchased or acquired, a full and true description of such property and the amount paid or to be paid therefor to each vendor.
-
-23\. Such particulars as are sufficient to disclose the true nature and extent of the interest, if any, of each director of the management company, whether as a director, direct or indirect shareholder, partner or otherwise, in the business of each such vendor and in such property.
-
-24\. The obligations imposed upon the management company or any other person to purchase from any holder thereof the interest or any rights in respect thereof or the units or sub-units of the interest for which he has subscribed or which he has purchased, and a statement of the method provided by the deed for the calculation of the purchase price thereof.
-
-25\. A summary of the rights and obligations of the management company and of the trustee or representative governing the valuation of any investment made or property held in relation to the interest.
-
-26\. A summary of the provisions of the deed whereby investments or other property comprising or forming part of the interest to which the deed relates may be varied.
-
-27\. Full information regarding the remuneration of the trustee or representative and the management company respectively, the manner in which under the provisions of the deed such remuneration is provided for, and the charges (if any) that will be made by way of such remuneration upon the sale or purchase of any such interest and upon the distribution of income and capital or otherwise in connection with the relevant undertaking, scheme, enterprise or investment contract.
-
-28\. Whether the interest or any rights in respect thereof or any units or sub-units of the interest are transferable by the holders thereof and, if so, a summary of the provisions of the deed regulating such transfer.
-
-29\. A summary of the provisions of the deed relating to the distribution to the holders of the interest or of units or sub-units of the interest of the income derived from the undertaking, scheme, enterprise or investment contract.
-
-30\. Full information as to whether and to what extent any factor other than cash receipts by way of dividend, interest or bonus has been or will be taken into account in calculating the amount of income that will be payable to an interest holder.
-
-31\. If any reference is made to the yield of income obtained or likely to be obtained by the holders of the interest or of units or sub-units of the interest, a statement as to whether and to what extent anything other than cash receipts by way of dividends, interest or bonuses has been taken into account in calculating the yield.
-
-32\. A summary of the provisions of the Act and of the deed regulating the convening of meetings of holders of the interest or of units or sub-units of the interest.
-
-33\. The name and description and the date of commencement of operation of every other undertaking, scheme, enterprise or investment contract involving the issue of interests to the public conducted by the management company within the 5 years immediately preceding the date of the statement.
-
-34. A declaration —
-
-(a) that no units or sub-units of interests issued pursuant to the statement shall be allotted later than 6 months or 12 months in the case of a designated interest referred to in section 113A after the date appearing in the statement pursuant to paragraph 1; and
-
-(b) unless the conditions of issue of the units or sub-units expressly provide that certificates be not issued, those certificates shall be issued by the trustee or representative to purchasers of or subscribers for units or sub-units of interests purchased or subscribed for pursuant to the statement not more than two months after the allotment of the units or sub-units.
-
-35. A summary of the provisions of the deed with respect to the undertakings —
-
-(a) by or on behalf of the management company relating to the allotment of interests and of units or sub-units of interests to which the deed relates; and
-
-(b) by or on behalf of the trustee or representative relating to the issue to holders of interests and of units or sub-units of interests of certificates of title thereto.
-
-Part II
-
-Reports to be set out in statement
-
-36. A report or reports by a person who at the time of making the report or reports was an approved company auditor, and whose name must appear as such in the statement, setting out —
-
-(a) such information as sufficiently discloses the number of distributions (if any) of income to holders of interests or of units or sub-units of interests to which the deed relates in each of the 5 years immediately preceding the date of the statement during which those interests had been in existence, the amount of each distribution and the extent to which each distribution consisted of any component other than dividends, interest and bonuses, and where it consisted of any component other than dividends, interest and bonuses, the nature and value of each of those components;
-
-(b) such information, as sufficiently discloses the selling price and the purchase price, respectively, of those interests, units or sub-units on the date upon which each distribution was made;
-
-(c) such information as sufficiently discloses the selling price and purchase price, respectively, of those interests, units or sub-units on such date, being a date within a period of 14 days immediately preceding the date of the statement as is specified in the relevant report;
-
-(d) in respect of every issue of interests relating to any other undertaking, scheme, enterprise or investment contract conducted or entered into by the management company within the period of 5 years immediately preceding the date of the statement, similar information to that required under sub-paragraphs (a), (b) and (c); and
-
-(e) the profits or losses of the management company (and of every corporation with which a holder of the interest is required, obliged or entitled, pursuant to the undertaking, scheme; enterprise or investment contract, to enter into any contract) in respect of each of the 5 years during which the company and corporation, respectively, were carrying on business immediately preceding the date of the statement, and the rates of dividend (if any) paid by that company and that corporation in respect of each of those years, and the assets and liabilities of that company and of that corporation as at the last date to which its accounts were made up.
-
-37\. If in the case of a company which has been carrying on business, or of a business which has been carried on, for less than 5 years, the accounts of the company or business have only been made up in respect of 4 years, 3 years, 2 years or one year, this Schedule shall have effect as if references to 4 years, 3 years, 2 years or one year, as the case may be, were substituted for references to 5 years.
+Repealed by S 236/2002, wef 01/07/2002.
 
 EIGHTH SCHEDULE
 
-Sections 8(7), 197(1), (2), 198(1), (2). U.K. 6th Schedule. Aust. 8th Schedule.
+Sections 8(7) and 197(1)
 
-Annual Return of A Company Having A Share Capital
+Annual Return of A Company
 
-Part I
 
-Contents of return
 
-1. The address of the registered office of the company.
 
-[15/84]
+Having A Share Capital
 
-2\. In a case in which the register of members is kept elsewhere than at the registered office, the address of the place where it is kept.
+Contents of Annual Return
 
-3. A summary, distinguishing between shares issued for cash and shares issued as fully or partly paid up otherwise than in cash, specifying —
+1\. The annual return under section 197(1) shall consist of the summary of return and the main return.
 
-(a) the amount of the share capital of the company, and the number of the shares into which it is divided;
+2. The summary of return shall contain the following particulars:
 
-(b) the number of shares taken up from the incorporation of the company to the date of the return;
+(a) the name of the company and its registration number;
 
-(c) the amount called up on each share;
+(b) the address of the registered office of the company;
 
-(d) the total amount of calls received, including payments on application and allotment;
+(c) in a case in which the register of members is kept elsewhere than at the registered office, the address of the place where it is kept;
 
-(e) the total amount, if any, agreed to be considered as paid on shares which have been issued as fully or partly paid up otherwise than in cash;
+(d) particulars of the total amount of indebtedness of the companyin respect of all charges which are required to be registered with the Registrar;
 
-(f) the total amount of calls unpaid;
+(e) a summary of the share capital and shares of the company, specifying —
 
-(g) the total amount of the sums, if any, paid by way of commission in respect of any shares or debentures since the date of the last return;
+(i) the amount of the share capital of the company and the types of shares in which it is divided;
 
-(h) particulars of the discount allowed on the issue of any shares issued at a discount, or of so much of that discount as has not been written off at the date of the return;
+(ii) the number of shares issued subject to payment wholly in cash;
 
-(i) the total amount of the sums, if any, allowed by way of discount in respect of any debentures since the date of the last return;
+(iii) the number of shares issued as fully paid up otherwise than in cash and the total amount, if any, agreed to be considered as paid on those shares which have been deemed issued as fully paid up otherwise than in cash;
 
-(j) the total number of shares forfeited; and
+(iv) in relation to shares issued as partly paid up otherwise than in cash —
 
-(k) the total amount, if any, paid on shares forfeited.
+(A) the number of shares;
 
-4\. Particulars of the total amount of the indebtedness of the company in respect of all charges which are required to be registered with the Registrar.
+(B) the total amount, if any, agreed to be considered as paid on those shares; and
 
-5. Except in the case of a company to which section 198 of the Act applies, a list as at the date of the return or as at such other date as the Registrar authorises in the case of any company —
+(C) the amount per share;
 
-(a) containing the full names and addresses of all persons who on such date are members of the company;
+(v) the number of shares, if any, of each class issued at a discount and the total amount of discount on the issue of shares which has not been written off at the date of the summary of return;
 
-(b) stating the number of shares held by each member at the date of the list; and
+(vi) the total number of shares forfeited since the date of the last summary of return or, if none had been filed previously, the date of the last main return;
 
-(c) if the names are not arranged in alphabetical order, having annexed thereto an index sufficient to enable the name of any person in the list to be easily found.
+(vii) the number of shares bought back since the date of the last summary of return or, if none had been filed previously, the date of the last main return;
 
-6\. Where the company has converted any of its shares into stock and given notice of the conversion to the Registrar, the list must give particulars as to the amount of stock or the number of stock units instead of the amount of shares.
+(viii) additional calls paid since the date of the last return or last notice of allotment but yet to be included in “Paid-up share capital” set out in the summary of return and the total amount of calls unpaid;
 
-7. In the case of a company keeping a branch register —
+(ix) the total amount of the sums, if any, paid by way of commission in respect of shares since the date of the last summary of return or, if none had been filed previously, since the date of the last main return; and
 
-(a) references in paragraphs 5 and 6 to particulars required shall be taken as not including any such particulars contained in the branch register, insofar as copies of the entries containing those particulars are not received at the registered office of the company before the date of the list in question; and
+(x) the total amount of commission, if any, in respect of debentures issued since the date of the last summary of return or, if none had been filed previously, since the date of the last main return;
 
-(b) where an annual return or a list of members is dated between the date when any entries are made in the branch register and the date when copies of those entries are received at the registered office of the company, the particulars contained in those entries, so far as relevant to an annual return, shall be included in the next or a subsequent annual return as may be appropriate having regard to the particulars included in that return with respect to the company’s register of members.
+(f) particulars of the directors, managers, secretaries and auditors of the company as at the date of the confirmation of the summary of return by an officer of the company;
 
-8\. All such particulars with respect to the persons who at the date of the return are, or are deemed to be, directors of the company and any person who at that date is a manager or secretary of the company as are by the Act required to be contained in the register of directors, managers and secretaries.
+(g) in the case of an unlisted company, a list of shareholders and their shareholdings, except that an unlisted public company having more than 50 shareholders shall provide the particulars of the 50 shareholders holding the most number of shares;
 
-9. Name and address of the auditor of the company.
+(h) where the company has converted any of its shares into stock and given notice of the conversion to the Registrar, the list in paragraph (g) shall contain particulars as to the amount of stock or the number of stock units instead of the amount of shares, and an explanatory note shall be made in the summary of return to that effect; and
 
-[S 204/88]
+(i) in the case of a company keeping a branch register —
+
+(i) particulars in paragraph (g) need not include any particulars contained in the branch register, insofar as a copy of the entries containing those particulars is not received at the registered office of the company before the date of the list in question; and
+
+(ii) where the summary of return is made up to a date between the date when any entry is made in the branch register and the date when a copy of that entry is received at the registered office of the company, a re-confirmation by the company of the summary of return if, at the time the entry was received at the registered office, the company had not filed its main return.
+
+3. The main return shall contain the following particulars:
+
+(a) the name of the company and its registration number;
+
+(b) the date of the main return;
+
+(c) the date to which the accounts are made up;
+
+(d) the name of the audit firm or company that has audited the accounts and, if the accounts are lodged, whether the accounts are qualified; and
+
+(e) in the case of an exempt private company without an exempt private company certificate, or any company limited by shares, particulars of —
+
+(i) the principal activity or activities in the course of the financial year;
+
+(ii) turnover, sales and other operating revenues;
+
+(iii) net income (or loss) from extraordinary and non-operating items;
+
+(iv) profits or loss;
+
+(v) assets and liabilities; and
+
+(vi) shareholders’ funds.
+
+[S 20/2003 wef 13/01/2003]
 
 NINTH SCHEDULE
 
-Sections 201(14), (18), 373(5). U.K. 8th Schedule. Aust. 9th Schedule. 13/87 22/93.
-
-Accounts and Consolidated Accounts
-
-1.—(1) In this Schedule —
-
-(a) “reserve” does not include any amount written off or retained by way of providing for depreciation, renewal or diminution in value of assets or retained by way of providing for any known liability, or any amount set aside for the purpose of its being used to counter the effect of undue fluctuations in charges for taxation;
-
-(b) a reference to a financial year in relation to consolidated accounts of a holding company is — where the financial year of any one or more of the companies in the group of companies does not end on the date on which the financial year of the holding company ends — a reference to the financial year of the holding company and the financial year of each other company in the group of companies that does not end on that date;
-
-(c) “consolidated accounts”, in relation to a holding company, where it is impractical to prepare one set of consolidated accounts covering the group, or where it is otherwise preferred in the interest of the shareholders, shall also include —
-
-(i) two or more sets of consolidated accounts together covering that group;
-
-(ii) separate accounts for each corporation in that group; or
-
-(iii) combination of one or more sets of consolidated accounts and one or more separate accounts together covering the group.
-
-[22/93]
-
-(2) The term “reserve” shall not be included in any accounts or consolidated accounts to describe any amount which is excluded by sub-paragraph (1) from the meaning of that term for the purposes of this Schedule.
-
-2.—(1) There shall be shown separately in the accounts or consolidated accounts (whether by way of note or otherwise), in addition to any other matters necessary to present a true and fair view of the profit or loss of the company, or of the company and its subsidiaries —
-
-(a) the amounts of income received or due and receivable as dividends from —
-
-(i) quoted investments in subsidiaries;
-
-(ii) unquoted investments in subsidiaries;
-
-(iii) quoted equity investments in companies other than subsidiaries;
-
-(iv) unquoted equity investments in companies other than subsidiaries;
-
-(v) other quoted investments; and
-
-(vi) other unquoted investments;
-
-(b) the amounts of income received, or due and receivable, as interest on debentures, deposits, loans or advances, from —
-
-(i) the holding company;
-
-(ii) subsidiaries;
-
-(iii) other related corporations; and (iv) other persons;
-
-[22/93]
-
-(c) the amount of —
-
-(i) any profit arising from the sale of assets (other than current assets); and
-
-(ii) any profit arising from the revaluation of assets (other than current assets),
-
- and, in respect of each such profit, a statement whether it has been brought into account in determining the net amount of the profit or loss of the company or the company and its subsidiaries;
-
-(d) the amount of any other profit arising otherwise than in the ordinary course of business;
-
-(e) the amounts of interest paid, or due and payable, on debentures, deposits, loans or advances or otherwise to —
-
-(i) the holding company;
-
-(ii) subsidiaries;
-
-(iii) other related corporations; and
-
-(iv) other persons;
-
-(f) the amount of —
-
-(i) any loss arising from the sale of assets (other than current assets); and
-
-(ii) any loss arising from the revaluation of assets (other than current assets),and, in respect of each such loss, a statement whether it has been brought into account in determining the net amount of the profit or loss of the company or of the company and its subsidiaries;
-
-(g) the amount of any other loss arising otherwise than in the ordinary course of business;
-
-(h) the amount charged for, or set aside to a provision for, depreciation, diminution in value or amortisation of —
-
-(i) fixed assets;
-
-(ii) investments; and
-
-(iii) intangible assets;
-
-(i) the amount charged for, or set aside for, the renewal or replacement of fixed assets;
-
-(j) in respect of each class of debtors’ accounts shown separately in the accounts or consolidated accounts —
-
-(i) the amount of bad debts written off in the profit and loss account; and
-
-(ii) the amount of bad debts written off against any provision, reserve or other account, stating the name of the provision, reserve or account and the amount written off against it;
-
-(k) in respect of each class of debtors’ accounts shown separately in the accounts or consolidated accounts, the amount set aside to any provision for doubtful debts;
-
-(l) the total of the amount paid to the directors as remuneration for their services, inclusive of all fees, percentages, bonuses and commissions or other emoluments paid to or receivable by them by or from the company or by or from any subsidiary of the company, and inclusive of commission paid or payable for subscribing or agreeing to subscribe or procuring or agreeing to procure subscriptions for any shares in or debentures of the company or of its holding company or any subsidiary of the company:
-
- Provided that where a director or any firm of which the director is a member acts for the company in a professional capacity the amount paid to the director or to his firm for services rendered to the company in that capacity shall not be included in the aforesaid total but shall be shown separately whether by way of note or otherwise;
-
-(m) the total of the amount paid to or receivable by the auditors as remuneration for their services as auditors, inclusive of all fees, percentages or other payments or consideration given, by or from the company or by or from any subsidiary of the company;
-
-(n) any amount set aside in respect of any provision for the payment of income tax attributable to a period other than the financial year;
-
-[22/93]
-
-(o) any amount set aside to a provision (other than a provision specifically provided for in this Schedule);
-
-[22/93]
-
-(p) any amount withdrawn from any provision where the amount hdrawn was not applied for the purposes of the provision.
-
-[22/93]
-
-(2) There shall also be shown in the accounts or consolidated accounts in respect of the financial year (whether by way of note or otherwise) the amount set aside for the payment of income tax attributable to the financial year and separately the amount attributable to succeeding years.
-
-3. There shall be shown separately in the accounts or consolidated accounts (whether by way of note or otherwise) in addition to any other matters necessary to present a true and fair view of the financial position of the company or of the company and its subsidiaries —
-
-(a) the amount of unappropriated profits or accumulated losses (however described) at the beginning of the financial year;
-
-(b) the net amount of profit or loss after providing for payment of income tax attributable to the financial year;
-
-(c) (Deleted by Act 22/93).
-
-(d) any amount set aside or proposed to be set aside to any reserve stating the origin of that amount;
-
-(e) any amount withdrawn, or proposed to be withdrawn, from any reserve;
-
-(f) (Deleted by Act 22/93).
-
-(g) (Deleted by Act 22/93).
-
-(h) any amount set aside for redemption of share capital or of loans;
-
-(i) the amount of dividends paid during the financial year and the amount of dividends proposed to be paid, excluding any amount shown in a profit and loss account or balance-sheet relating to a previous financial year as an amount proposed to be paid by way of dividends;
-
-(j) the amount of any appropriation or adjustment which affects the amount of unappropriated profits or accumulated losses at the beginning of the financial year; and
-
-[22/93]
-
-(k) the amount of unappropriated profits or accumulated losses (however described) at the end of the financial year.
-
-4.—(1) There shall be shown separately in the accounts or consolidated accounts (whether by way of note or otherwise) in addition to any other matters necessary to present a true and fair view of the financial position of the company or of the company and its subsidiaries —
-
-(a) the amount and particulars of authorised and issued capital, calls in arrear and paid-up capital, a distinction being drawn in those amounts and particulars between any different classes of shares;
-
-(b) where any part of the capital consists of preference shares —
-
-(i) the rate of dividend on each class of preference shares;
-
-(ii) the amount of arrears of dividend on each class of preference shares;
-
-(iii) whether the preference shares are cumulative, non-cumulative, participating or non-participating;
-
-(iv) whether the preference shares are to be redeemed or at the option of the company are liable to be redeemed; and
-
-(v) if the preference shares are to be redeemed or at the option of the company are liable to be redeemed — the date on or before which they are to be redeemed or are liable to be redeemed, the earliest date on which the company has power to redeem them, and the amount of the premium (if any) at which they are to be redeemed or are liable to be redeemed;
-
-(c) the amount of capital which is not capable of being called up except in the event of, and for the purposes of, the winding up of the company;
-
-(d) the amount of capital upon which interest has been paid out of capital during the financial year (and the rate of interest so paid);
-
-(e) the amount of reserves of all descriptions, a separate amount being shown for each class;
-
-(f) the amount of the share premium account;
-
-(g) the amount of unappropriated profits or accumulated losses (if any) as shown under paragraph 3 (k), any accumulated losses (insofar as they have not been written off) being shown as a deduction from the amount of paid-up capital and reserves;
-
-(h) the amount and particulars of provisions, there being shown separately —
-
-(i) the amount of any provision for depreciation, diminution in value or amortisation of assets shown as deductions from the amounts of the respective assets;
-
-(ii) the amount of any provision for doubtful debts shown as deductions from the amounts of the respective debtors’ accounts to which the provision relates;
-
-(iii) the amount of provision for income tax, a distinction being drawn between the amount provided for current liability and that provided for future liability, and any amount provided for the purpose of its being used to counter the effect of undue fluctuations in liability for income tax being shown separately; and
-
-(iv) the amount and purpose of any other provision shown, if appropriate, as a deduction from the amount of the asset to which the provision relates.
-
-(2) There shall be shown in the accounts or consolidated accounts as at the end of the financial year (whether by way of note or otherwise) the amounts and descriptions of all current liabilities and non-current liabilities, under headings appropriate to the business of the company or of the company and its subsidiaries, and arranged in classes under those headings according to their nature or function in the business, the following being shown separately:
-
-(a) bank loans;
-
-(b) bank overdrafts;
-
-(c) debentures held by —
-
-(i) subsidiaries;
-
-(ii) the holding company;
-
-(iii) other related corporations; and
-
-(iv) other persons;
-
-(d) the amount due to trade creditors and on bills payable;
-
-(e) other amounts payable to —
-
-(i) subsidiaries;
-
-(ii) the holding company; and
-
-(iii) other related corporations;
-
-(f) the aggregate amount, or estimated aggregate amount, and particulars of capital expenditure contracted for, so far as the amount has not been provided for;
-
-(g) the amounts and descriptions of other liabilities and particulars of their nature.
-
-(3) There shall be shown in the accounts or consolidated accounts, if not otherwise shown, as at the end of the financial year (whether by way of note or otherwise), contingent liabilities, with a statement as to the general nature thereof and, so far as practicable, the maximum amount, or an estimate of the maximum amount, for which the company or the company and its subsidiaries could become liable in respect thereof.
-
-(4) There shall be shown separately in the accounts or consolidated accounts as at the end of the financial year (whether by way of note or otherwise) the amounts and descriptions of all fixed assets, intangible assets, current assets, investments and assets of any other kind, under headings appropriate to the business of the company or of the company and its subsidiaries, and arranged in classes under those headings according to their nature or function in the business, the following being shown separately:
-
-(a) cash at bank and in hand;
-
-(b) stock on hand;
-
-(c) work in progress;
-
-(d) government and other public debentures, stock and bonds;
-
-(e) shares in —
-
-(i) the holding company;
-
-(ii) subsidiaries;
-
-(iii) other related corporations; and
-
-(iv) other corporations;
-
-(f) debentures of —
-
-(i) the holding company;
-
-(ii) subsidiaries;
-
-(iii) other related corporations; and
-
-(iv) other corporations;
-
-(g) the amount due from trade debtors and on bills receivable;
-
-(h) other amounts receivable from —
-
-(i) the holding company;
-
-(ii) subsidiaries;
-
-(iii) other related corporations; and
-
-(iv) other persons;
-
-(i) the total amount outstanding of any loans made, guaranteed or secured by the company or by the company and its subsidiaries, being loans made to the directors of the company or of a related corporation, or loans made to any other corporation in which a director or directors of the company, or of a related corporation, owns or own a controlling interest;
-
-(j) the aggregate of the amounts of any items of goodwill and of any patents and trade marks, to the extent that they have not been written off;
-
-(k) the amounts of each of the following, to the extent that they have not been written off:
-
-(i) preliminary expenses;
-
-(ii) expenses incurred in connection with any issue of shares or debentures;
-
-(iii) sums paid by way of commission in respect of any shares or debentures;
-
-(iv) sums allowed by way of discount in respect of debentures; and
-
-(v) sums allowed by way of discount on any issue of shares; and
-
-(l) the amounts and descriptions of other assets, with particulars of their nature.
-
-(5) (Deleted by Act 22/93).
-
-5.—(1) In respect of the liabilities or contingent liabilities shown in the accounts or consolidated accounts being a liability the payment of which is secured by a charge on assets of the company or of the company and its subsidiaries, whether registered or unregistered, there shall be shown a statement that they are so secured and the extent to which they were secured, and such liabilities or contingent liabilities shall be distinguished from any other liabilities or contingent liabilities the payment of which are not so secured.
-
-(2) Current liabilities and current assets shall be clearly distinguished from other liabilities and assets.
-
-(3) Where by reason of the manner in which the records of a company were kept before 15th May 1987 it is not possible to show separately the amounts of any classes of assets or liabilities required by this Schedule to be separately shown, there shall be shown the total amount of assets or liabilities of those classes acquired or incurred before that date, and the separate amounts of assets or liabilities of those classes acquired or incurred after that date.
-
-6.—(1) In respect of all fixed assets, investments, stock on hand and work in progress shown in the balance-sheet there shall be stated the method of arriving at the amount thereof, and when more than one method is used a separate total shall be shown in respect of each of the methods used.
-
-(2) There shall be shown in respect of each class of fixed assets or investments referred to in the accounts or consolidated accounts —
-
-(a) the cost thereof, or (at the option of the directors) where they have been valued, the amount thereof as so valued, and, where the valuation applies only to part of such a class, separate totals for such of the assets as have been valued and for the remainder of the assets of that class;
-
-(b) the aggregate amount provided or written off for depreciation, diminution in value or amortisation in respect of each class or part of a class since the date of acquisition or valuation, as the case may be; and
-
-(c) the difference between the amounts shown under items (a) and (b).
-
-(3) For the purposes of sub-paragraph (2), the net amount at which any assets stood in the company’s records on 15th May 1987 (after deduction of the amounts previously provided or written off for depreciation, diminution in value or amortisation) shall, if the figures relating to the period before that date cannot be obtained without unreasonable expense or delay, be treated, until a valuation is made, as if it were the amount of a valuation of those assets made on that date, and where any of those assets are sold, that net amount (less the net amount at which the assets sold stood in the records as at that date, or if no separate amount is available, their estimated value as at that date) shall be treated as if it were the amount of a valuation of the remaining assets made on that date.
-
-(4) Sub-paragraph (2)(b) and (c) does not apply to fixed assets the replacement of which is dealt with wholly or partly —
-
-(a) by making any provision for renewal or replacement and charging the cost of renewal or replacement against that provision; or
-
-(b) by charging the cost of renewal or replacement directly against revenue,
-
-but in respect of those assets there shall be stated —
-
-(c) the method by which their renewal or replacement is dealt with; and
-
-(d) the aggregate amount of the provisions (if any) made for renewal or replacement and not used.
-
-(5) If any investments of a class for which paragraph 4(4)(d), (e) or (f) requires a separate amount to be shown are quoted on a securities exchange as defined in the Securities and Futures Act 2001 or a foreign stock exchange, a separate total shall be shown for the quoted investments of each class, and there shall also be shown the aggregate quoted market value, calculated on the official quotation of that exchange, of the quoted investments of each class.
-
-(6) Where the amount of any fixed asset or investment (other than an investment the quoted market value of which has been included in an aggregate market value in accordance with sub-paragraph (5)) is shown at a valuation or at a valuation less amounts written off, there shall be shown (whether by way of note or otherwise) the date of the valuation, and whether the valuation was made by an officer of the company or of a related corporation or by a person not being such an officer.
-
-(7) If the valuation referred to in sub-paragraph (6) was made by a person not being such an officer, the name of the person who valued it and particulars of his qualifications shall be shown in the first accounts in which reference is made to the valuation.
-
-(8) For the purposes of sub-paragraph (6), the expression “officer’s valuation” may be used to indicate a valuation made by an officer of the company or of a related corporation, and the expression “independent valuation” may be used to indicate a valuation made by a person not being such an officer.
-
-(9) In addition to any other information required to be shown, there shall be shown separately (whether by way of note or otherwise), in respect of land or interests in land acquired or held for sale or resale to the extent to which they have not been written off —
-
-(a) the total cost of acquisition (exclusive of any costs of surveys, roads and drainage and other development expenses);
-
-(b) the total of all development costs incurred to date; and
-
-(c) the total of all rates, property taxes, interest and other similar overhead expenditure capitalised.
-
-7. There shall be shown (whether by way of note or otherwise) in the balance-sheet of every company which is a borrowing corporation or a guarantor corporation a schedule setting out, separately, estimates of the amounts payable by, and the debts payable to, the company —
-
-(a) not later than two years;
-
-(b) later than two years but not later than 5 years; and
-
-(c) later than 5 years,
-
-after the end of the financial year.
-
-8.—(1) Accounts or consolidated accounts of a holding company shall state (whether by way of note or otherwise) —
-
-(a) the name and place of incorporation of each subsidiary, and if any business of the subsidiary is carried on in a country other than Singapore, the name of that country;
-
-(b) the amount of the holding company’s investment in each class of the share capital of each subsidiary;
-
-(c) the percentage of each class of the shares in each subsidiary held by the holding company; and
-
-(d) where the financial year of a subsidiary does not coincide with the financial year of the holding company, the date on which the financial year of the holding company, the date on which the financial year of the subsidiary ends.
-
-(2) Whenever it is appropriate where any consolidated accounts are to be laid before a holding company at its Annual General Meeting, transactions and balances between the corporations covered by the consolidated accounts shall be eliminated in determining any amounts to be stated in the consolidated accounts.
-
-(3) Subject to sub-paragraph (4) where separate accounts of a subsidiary are to be laid before the holding company at its Annual General Meeting as part of the consolidated accounts, the accounts of the subsidiary shall, as far as practicable, be in the same form as the accounts of the holding company.
-
-(4) In the case of a subsidiary incorporated outside Singapore (whether or not it has established a place of business in Singapore) it shall be sufficient compliance with sub-paragraph (3) if the accounts of the subsidiary —
-
-(a) are in such form;
-
-(b) are reported on by an auditor in such manner;
-
-(c) contain such particulars; and
-
-(d) include or are accompanied by such documents, if any, as is or are required by the law of its place of incorporation concerning accounts to be laid before the subsidiary in general meeting.
-
-(5) Where consolidated accounts are prepared, otherwise than as one set of consolidated accounts covering the group, the directors of the holding company shall certify on, or in a certificate attached to, the accounts —
-
-(a) that the preparation of one such set of consolidated accounts is impracticable or that it is preferable, in the interests of the shareholders, that the accounts be prepared in the form in which they are prepared (as the case may be), for reasons to be stated in the certificate; and
-
-(b) that, in the opinion of the directors, the accounts so prepared are not significantly affected by transactions and balances between the corporations covered by the accounts, except to the extent stated in any notes forming part of the accounts.
-
-(6) Where any accounts included in consolidated accounts laid before a holding company at its Annual General Meeting are presented in a form or grouping different from that in which the immediately preceding consolidated accounts (if any) were so laid, the directors shall certify on, or in a certificate attached to, the accounts the names of the corporations the accounts of which have been so presented and the reasons for presenting them in that form or grouping.
-
-(7) A certificate under sub-paragraph (5) or (6) shall be signed by not less than two directors.
-
-9\. All amounts shown in the accounts or consolidated accounts shall be expressed in Singapore currency, and where any conversion has been made otherwise than on the basis of the rate of exchange current at the end of the financial year of the company or holding company an explanation of the methods used in calculating the conversion shall be given.
-
-10. Except in the case of the first accounts after the incorporation of the company and in the case of the first consolidated accounts after the company becomes a holding company, there shall be shown —
-
-(a) in every balance-sheet and in all notes attached to that balance-sheet the corresponding amounts as at the end of the immediately preceding financial year; and
-
-(b) in every profit and loss account and in all notes attached to that profit and loss account the corresponding amounts for the corresponding period of the immediately preceding financial year,
-
-and where the respective financial years are not equal in length, the periods covered shall be clearly indicated by way of note or otherwise.
-
-11\. Where the accounts or consolidated accounts could be misleading by reason of a failure to explain the method used in dealing with, or calculating the amount of, any item or information included in or excluded from the accounts or consolidated accounts, there shall be stated (whether by way of note or otherwise) the method used to deal with, or calculate the amount of, the item or information.
+Deleted by Act 12/2002, wef 01/01/2003.
 
 TENTH SCHEDULE
 
-Section 213. Aust. 10th Schedule. 49/73 15/84.
-
-Take-over Offers
-
-Part A
-
-Requirements with which take-over offers to comply
-
-1\. The offer shall be dated and shall be despatched to the offeree within 3 days of its date and shall state that, except insofar as it and all other take-over offers made under the take-over scheme may be totally withdrawn and every person released from any obligation incurred thereunder, it will remain open for acceptance by the offeree for at least 21 days from the date of despatch.
-
-2\. The offer shall not be conditional upon the offeree approving or consenting to any payment or other benefit being made or given to any director of the offeree company or any corporation which is deemed by virtue of section 6 of the Act to be related to that company as compensation for loss of office or as consideration for, or in connection with, his retirement from office.
-
-3. The offer shall state —
-
-(a) whether or not the offer is conditional upon acceptance of offers made under the take-over scheme being received in respect of a minimum percentage of shares and, if so, that percentage;
-
-(b) if the shares are to be acquired in whole or in part for cash, the period within which payment will be made and the method of payment; and
-
-(c) if the shares are to be acquired for a consideration other than cash, the period within which the offeree will receive that consideration.
-
-4. Where the offer is conditional upon acceptances in respect of a minimum percentage of shares being received, the offer shall specify —
-
-(a) a date not being a date later than 60 days after the date of the despatch of the offer or such later date as the Registrar may in a competitive situation or in special circumstances allow as the latest date on which the offeror corporation can declare the offer to have become free from that condition; and
-
-(b) a further period of not less than 14 days from the date on which the offer would otherwise have expired during which the offer will remain open for acceptance after it has been declared unconditional.
-
-Where the offer becomes or is declared unconditional as to acceptances on or by an expiry date and the offeror corporation has given at least 14 days’ notice in writing to the shareholders of the offeree company that the offer will not be open for acceptance beyond that date, the offer need not remain open for acceptance for the further period specified in sub-paragraph (b). No such notice may be given between the time when a competing offer has been announced and the resultant competitive situation has ended.
-
-5. Every offer document shall contain the following words which are to be displayed prominently in that document:
-
-“
-
-If you are in any doubt about this offer you should consult your stockbroker, bank manager, solicitor or other professional adviser.
-
-”.
-
-Part B
-
-Requirements with which statement given by offer or corporation to comply
-
-1. The statement shall —
-
-(a) specify the names, descriptions and addresses of all the directors of the offeror corporation;
-
-(b) contain a summary of the principal activities of the offer or corporation;
-
-(c) specify the number and description and amount of marketable securities in the offeree company held by or on behalf of the offeror corporation, or if none are so held contain a statement to that effect;
-
-(d) if the shares are to be acquired for a consideration which consists of shares or debentures in the offeror corporation or in a corporation which is by virtue of section 6 of the Act deemed to be related to the offeror corporation —
-
-(i) set out the reports which, if the statement were a prospectus issued on the date on which notice of the take-over scheme is given to the offeree company, would be required to be set out in it under paragraphs 20 and 23 in Part II of the Fifth Schedule; and
-
-(ii) specify details of any alterations in the capital structure of the offeror corporation or of any subsidiary of that corporation during the period of 5 years immediately preceding the date on which notice of the take-over scheme is given to the offeree company and particulars of the source of any increase in capital;
-
-(e) if the shares are to be acquired for a consideration other than wholly in cash or other than for a consideration such as is referred to in sub-paragraph (d) contain such information and details as to the consideration as the Registrar requires.
-
-2\. The statement shall contain particulars of any restriction on the right to transfer the shares to which the take-over scheme relates contained in the memorandum or articles or other instrument constituting or defining the constitution of the offeree company which has the effect of requiring the holders of the shares, before transferring them, to offer them for purchase to members of the offeree company or to any other person and, if there is any such restriction, the arrangements, if any, being made to enable the shares to be transferred in pursuance of the take-over scheme.
-
-3\. If the consideration for the acquisition of shares under the take-over scheme is to be satisfied in whole or in part by the payment of cash, the statement shall contain details of the arrangements that have been, or will be, made to secure payment of the cash consideration and, if no such arrangements have been or will be made, shall contain a statement to that effect.
-
-4. The statement shall set out —
-
-(a) whether or not it is proposed in connection with the take-over scheme that any payment or other benefit shall be made or given to any director of the offeree company or of any corporation which is by section 6 of the Act deemed to be related to that company as compensation for loss of office or as consideration for, or in connection with, his retirement from office and if so, particulars of the proposed payment or benefit in respect of each such director;
-
-(b) whether or not there is any other agreement or arrangement made between the offeror corporation and any of the directors of the offeree company in connection with or conditional upon the outcome of the scheme, and, if so, particulars of any such agreement or arrangement;
-
-(c) whether or not there has been within the knowledge of the offeror corporation any material change in the financial position or prospects of the offeree company since the date of the last balance-sheet laid before the company in general meeting, and, if so, particulars of any such change; and
-
-(d) whether or not there is any agreement or arrangement whereby any shares acquired by the offeror corporation in pursuance of the scheme will or may be transferred to any other person, and, if so —
-
-(i) the names of the persons who are a party to the agreement or arrangement and the number, description and amount of the shares which will or may be so transferred; and
-
-(ii) the number, if any, and description and amount of shares of the offeree company held by or on behalf of each of these persons, or if no such shares are so held, a statement to that effect.
-
-5\. Paragraphs 6 to 8 of this Part apply only where the consideration to be offered in exchange for shares of the offeree company consists in whole or in part of marketable securities issued or to be issued by the offeror corporation or by any other corporation.
-
-6. Where the marketable securities are quoted or dealt in on a stock exchange, the statement shall state this fact and specify the stock exchanges concerned and specify —
-
-(a) the latest available market sale price prior to the date on which notice of the take-over scheme is given to the offeree company;
-
-(b) the highest and lowest market sale price during the 3 months immediately preceding that date and the respective dates of the relevant sales; and
-
-(c) where the take-over scheme has been the subject of a public announcement in newspapers or by any other means, the latest market sale price immediately prior to the public announcement.
-
-7\. Where the securities are quoted or dealt in on more than one stock exchange, it is sufficient compliance with paragraph 6(a) of this Part if information with respect to the securities is given in relation to the stock exchange at which there have been the greatest number of recorded dealings in the securities in the 3 months immediately preceding the date on which notice of the take-over scheme is given to the offeree company.
-
-8\. Where the take-over scheme relates to securities which are not quoted or dealt in on a stock exchange, the statement shall contain all the information which the offeror corporation may have as to the number, amount and price at which the securities have been sold in the 3 months immediately preceding the date on which notice of the scheme is given to the offeree company and, if the offeror corporation has no such information, a statement to that effect.
-
-Part C
-
-Requirements with which statement given by offeree company to comply
-
-1. The statement shall indicate whether or not the board of directors of the offeree company recommends to shareholders the acceptance of take-over offers made, or to be made, by the offeror corporation under the take-over scheme.
-
-[15/84]
-
-2. The statement shall set out —
-
-(a) the number, description and amount of marketable securities in the offeree company held by or on behalf of each director of that company or, in the case of a director where none are so held, that fact;
-
-(b) in respect of each such director of the offeree company by whom, or on whose behalf, shares to which the take-over scheme relates are held —
-
-(i) whether or not the present intention of the director is to accept any take-over offer that may be made in pursuance of the take-over scheme in respect of those shares; or
-
-(ii) that the director has not decided whether he will accept such a take-over offer;
-
-(c) whether or not any marketable securities of the offeror corporation are held by, or on behalf of, any director of the offeree company and, if so, the number, description and amount of the marketable securities so held;
-
-(d) whether or not it is proposed in connection with the take-over scheme that any payment or other benefit shall be made or given to any director of the offeree company or of any other corporation which is by virtue of section 6 of the Act deemed to be related to that company as compensation for loss of office or as consideration for, or in connection with, his retirement from office and, if so, particulars of the proposed payment or benefit;
-
-(e) whether or not there is any other agreement or arrangement made between any director of the offeree company and any other person in connection with or conditional upon the outcome of the take-over scheme and, if so, particulars of any such agreement or arrangement;
-
-(f) whether or not any director of the offeree company has any direct or indirect interest in any contract entered into by the offeror corporation and, if so, particulars of the nature and extent of such interest;
-
-(g) if the shares to which the scheme relates are not quoted or dealt in on a stock exchange all the information which the offeree company may have as to the number, amount and price at which any such shares have been sold in the 6 months preceding the date on which notice of the take-over scheme was given to the offeree company; and
-
-(h) whether or not there has been any material change in the financial position of the offeree company since the date of the last balance-sheet laid before the company in general meeting and, if so, particulars of such change.
+Deleted by S 675/2001 wef 01/01/2002.
 
 ELEVENTH SCHEDULE
 
@@ -14817,3 +13818,5 @@ This Legislative History is provided for the convenience of users of the Compani
 |||(Bill No. 16/2002 published on 24 May 2002)|
 ||Date of Second and Third Readings|8 July 2002|
 ||Dates of commencement|13 January 2003 (sections 2(b), 3 to 35, 42 to 54, 55(a), 56 to 60, 62, 63 and 64)|
+|66.|**G. N. No. S 213/2003—Companies (Accounts of Public Listed Companies) (Substitution of Period) Order 2003**|
+||Date of commencement|28 April 2003|
