@@ -1,16 +1,14 @@
-**District Cooling Act 2001**
+**District Cooling Act**
 
-**(No. 12 of 2001)**
+**(CHAPTER 84A)**
 
 **Table of Contents**
 
 [**Long Title**](#District-Cooling-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -22,7 +20,7 @@
 
 - [5 Furnishing of documents and information to Authority](#Furnishing-of-documents-and-information-to-Authority)
 
-- [6 Power of Authority to enter upon land](#Power-of-Authority-to-enter-upon-land)
+- [6 Power of Authority to enter upon any premises](#Power-of-Authority-to-enter-upon-any-premises)
 
 [**Part III SERVICE AREAS FOR DISTRICT COOLING SERVICES**](#Part-III)
 
@@ -92,7 +90,7 @@
 
 - [35 Making of false statement, etc.](#Making-of-false-statement-etc)
 
-- [36 Jurisdiction of courts](#Jurisdiction-of-courts)
+- [36 Jurisdiction of court](#Jurisdiction-of-court)
 
 - [37 Police officer or authorised officer may require evidence of identity in certain cases](#Police-officer-or-authorised-officer-may-require-evidence-of-identity-in-certain-cases)
 
@@ -114,47 +112,31 @@
 
 - [45 Regulations](#Regulations)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+[**Comparative Table**](#Comparative-Table)
 
-ACTS SUPPLEMENT
+# District Cooling Act
 
-Published by Authority
+(CHAPTER 84A)
 
-NO. 15]
+(Original Enactment: Act 12 of 2001)
 
-Friday, March 30
+REVISED EDITION 2002
 
-[2001
-
-The following Act was passed by Parliament on 16th March 2001 and assented to by the President on 26th March 2001:—
-
-District Cooling Act 2001
-
-(No. 12 of 2001)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-26th March 2001.
-
-Date of Commencement: 1st April 2001
+(31st July 2002)
 
 An Act to license and regulate the provision of district cooling services in service areas.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st April 2001]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the District Cooling Act 2001 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the District Cooling Act.
 
 ### Interpretation
 
@@ -166,7 +148,7 @@ PRELIMINARY
 
 “authorised officer” means any person authorised by the Authority under section 3(2);
 
-“Authority” means the Energy Market Authority of Singapore established under the Energy Market Authority of Singapore Act 2001;
+“Authority” means the Energy Market Authority of Singapore established under the Energy Market Authority of Singapore Act (Cap. 92B);
 
 “connection point” means a point, situated in or in immediate proximity to the premises to be provided with district cooling services, where a district cooling system is connected to an installation;
 
@@ -254,13 +236,13 @@ ADMINISTRATION
 
 shall be guilty of an offence.
 
-### Power of Authority to enter upon land
+### Power of Authority to enter upon any premises
 
 6\.—(1) The Authority may, for the purposes of this Act, by its employees, agents or contractors, enter at all reasonable hours (or at any time in the event of an emergency) into and upon any premises for the purpose of performing its duties authorised by this Act without being liable to pay any person any fee, charge or expense or being subject to any legal proceedings or molestation on account of such entry or of anything done in any part of the premises under this Act.
 
 (2) Except in the event of an emergency, such employee, agent or contractor may not enter upon any premises under this section unless —
 
-(a) not less than 6 hours’ notice of the intended entry has been given to the occupier; and
+(a) not less than 6 hours notice of the intended entry has been given to the occupier; and
 
 (b) if required to do so, he has produced evidence of his authority.
 
@@ -456,15 +438,15 @@ the Authority may, by notice in writing and without any liability for compensati
 
 ### General duties of licensee
 
-18\.—(1) It shall be the duty of a licensee to
+18\.—(1) It shall be the duty of a licensee to —
 
-(a) maintain a reliable, efficient, co-ordinated and economical district cooling system in accordance with such codes of practice or other standards of performance as may be issued or approved by the Authority under section 14(1);
+(a) maintain a reliable, efficient, co-ordinated and economical district cooling system in accordance with such codes of practice or other standards of performance as may be issued or approved by the Authority under section 14(1); and
 
-(b) ensure public safety in relation to the provision of district cooling services; and
+(b) ensure public safety in relation to the provision of district cooling services.
 
-(c) ensure that it will not do or not omit to do any act which will adversely affect, directly or indirectly, the reliability and stability of district cooling services provided to consumers.
+(2) No licensee shall do or omit to do any act which will adversely affect, directly or indirectly, the reliability and stability of district cooling services provided to consumers.
 
-(2) A contravention of subsection (1) shall be dealt with in accordance with section 13.
+(3) A contravention of subsection (1) or (2) shall be dealt with in accordance with section 13.
 
 ### Price fixed by licensee
 
@@ -552,7 +534,7 @@ MATTERS RELATING TO LICENSEES
 
 (2) Where any work referred to in subsection (1) interferes with any building, growing tree or crop, the licensee shall pay compensation to any person interested for any damage or financial loss that may be caused thereby.
 
-(3) Where the land is occupied under a licence for temporary occupation, the compensation shall be paid to the occupant under the licence.
+(3) Where the public land is occupied under a licence for temporary occupation, the compensation shall be paid to the occupant under the licence.
 
 ### Power to enter upon other land for purposes of examination of district cooling system
 
@@ -570,7 +552,7 @@ paying compensation to any person interested for any damage or financial loss th
 
 (4) A licensee shall, in the exercise of its powers under this section, be subject to the provisions of the Parks and Trees Act (Cap. 216).
 
-(5) Before entering upon any land for any of the purposes specified in subsection (1), a licensee shall give not less than 14 days’ notice stating as fully and as accurately as possible the nature and extent of the acts intended to be done.
+(5) Before entering upon any land for any of the purposes specified in subsection (1), a licensee shall give not less than 14 days notice stating as fully and as accurately as possible the nature and extent of the acts intended to be done.
 
 (6) The owner or occupier of the land may, within 14 days of the receipt of the notice referred to in subsection (5), lodge a written objection with the Authority and the Authority shall specify a date to inquire into such objection.
 
@@ -588,7 +570,7 @@ paying compensation to any person interested for any damage or financial loss th
 
 (a) affect the right of a licensee to enter into an agreement, commonly known as a wayleave agreement, with the owner or occupier of any land for the purpose of laying, placing, carrying or erecting any part of a district cooling system on the land;
 
-(b) affect any such wayleave agreement subsisting immediately before the date of commencement of this Act; or
+(b) affect any such wayleave agreement subsisting immediately before 1st April 2001; or
 
 (c) affect the right of a licensee to negotiate the use of land or facilities belonging to the State or any other person.
 
@@ -676,9 +658,9 @@ OFFENCES
 
 shall be guilty of an offence.
 
-### Jurisdiction of courts
+### Jurisdiction of court
 
-36\. Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court and a Magistrate’s Court shall have jurisdiction to try any offence under this Act and to impose the full penalty or punishment in respect of any such offence.
+36\. Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court and a Magistrate’s Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of any offence under this Act.
 
 ### Police officer or authorised officer may require evidence of identity in certain cases
 
@@ -767,4 +749,43 @@ and where the person to be served is a body corporate —
 (2) The Authority may, with the approval of the Minister, in making any regulations under this section, provide that any contravention of any regulation shall be an offence and may prescribe punishment by a fine not exceeding $5,000 or with imprisonment for a term not exceeding 6 months or with both.
 
 (3) All such regulations shall be presented to Parliament as soon as possible after publication in theGazette.
+
+## LEGISLATIVE HISTORY
+
+District Cooling Act
+
+(CHAPTER 84A)
+
+This Legislative History is provided for the convenience of users of the District Cooling Act. It is not part of the Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 12 of 2001—District Cooling Act 2001**|
+||Date of First Reading|22 February 2001|
+|||(Bill No. 11/2001 published on 23 February 2001)|
+||Date of Second and Third Readings|16 March 2001|
+||Date of commencement|1 April 2001|
+|2.|**2002 Revised Edition—District Cooling Act**|
+||Date of operation|31 July 2002|
+## COMPARATIVE TABLE
+
+District Cooling Act
+
+(CHAPTER 84A)
+
+The following provisions in the District Cooling Act 2001 (Act 12 of 2001) have been renumbered by the Law Revision Commissioners in this 2002 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the District Cooling Act.
+
+2002 Ed\. 
+
+Act 12 of 2001 
+
+18 —(2)
+
+18 —(1)(c)
+
+(3)
+
+(2)
 
