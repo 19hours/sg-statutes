@@ -789,6 +789,14 @@ The boundaries of these areas are more particularly delineated and edged green o
 
 6\. All those pieces of land situated in Mukim No. 16, Bukit Timah comprised in parts of lots 1176P, 1637A, 99478V (formerly 67-59), 99763P (formerly 24-1), 99531X (formerly 67-5) and 87A and estimated to contain areas of 365 square metres, 162,135 square metres, 11,292 square metres, 76,628 square metres, 4,702 square metres and 35,832 square metres, respectively, and lot 99762V (formerly 24-2) estimated to contain an area of 32.1 square metres, the boundaries of which are more particularly delineated on Plan No. JTC/SK 1461-1 filed in the office of the Manager, Nature Reserves of the National Parks Board.
 
+7. All those pieces of land (including foreshore) situated in Mukim No. 3, Labrador comprised in lots 99995P and 99992M and estimated to contain areas of 993 square metres and 1,552 square metres, respectively, and parts of lots 01019A, 01580X and 00492M and estimated to contain areas of 39,061 square metres, 52,992 square metres and 7,881 square metres, respectively, the boundaries of which are more particularly delineated on Plan No. NP 5.2.28 filed in the office of the Senior Manager (Parks Planning), Planning and Development Division of the National Parks Board.
+
+[S 669/2001 wef 01/01/2002]
+
+8. All those pieces of land (including foreshore) situated in Mukim No. 12, Sungei Buloh comprised in lots 00990N, 00020N, 01312V, 01311W, 01313P, 01314T, 01324M and 01325W and estimated to contain areas of 117,088 square metres, 32,775 square metres, 20,049 square metres, 25,798 square metres, 39,983 square metres, 13,967 square metres, 33,646 square metres and 11,158 square metres, respectively, and parts of lots 01255P, 00989L, 01310M, 01240V, 01255P and 01577C and estimated to contain areas of 46,286 square metres, 156,177 square metres, 54,933 square metres, 513,202 square metres, 12,902 square metres and 224,915 square metres, respectively, the boundaries of which are more particularly delineated on Plan No. NP 5.2.182 filed in the office of the Senior Manager (Parks Planning), Planning and Development Division of the National Parks Board.
+
+[S 669/2001 wef 01/01/2002]
+
 ## LEGISLATIVE HISTORY
 
 National Parks Board Act
@@ -806,3 +814,5 @@ This Legislative History is provided for the convenience of users of the Nationa
 ||Date of commencement|1 July 1996|
 |2.|**1997 Revised Edition—National Parks Act (Chapter 198A)**|
 ||Date of operation|30 May 1997|
+|3.|**G.N. No. S 669/2001—National Parks Act (Amendment of Fifth Schedule) Order 2001**|
+||Date of commencement|1 January 2002|
