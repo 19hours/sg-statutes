@@ -26,7 +26,7 @@
 
 - [8 Bank accounts and application of revenue](#Bank-accounts-and-application-of-revenue)
 
-- [9 Investments](#Investments)
+- [9 Power of investment](#Power-of-investment)
 
 - [9A Issue of shares, etc.](#Issue-of-shares-etc)
 
@@ -204,11 +204,11 @@ SINGAPORE TOTALISATOR BOARD
 
 (3) The moneys of the Board shall be applied only in payment or discharge of the expenses, obligations and liabilities of the Board and in making any payments that the Board is authorised or required to make.
 
-### Investments
+### Power of investment
 
-9\. Moneys belonging to the Board may be invested in such stocks, funds, securities or investments as may be authorised by the Minister.
+9\. The Board may invest its moneys in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
 
-[4/91]
+[45/2004 wef 15/12/2004]
 
 ### Issue of shares, etc.
 
@@ -540,6 +540,12 @@ This Legislative History is provided for the convenience of users of the Singapo
 |||(Bill No. 8/2004 published on 28 February 2004)|
 ||Date of Second and Third Readings|20 April 2004|
 ||Date of commencement|1 May 2004|
+|8.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 September 2004|
+|||(Bill No. 43/2004 published on 22 September 2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|15 December 2004|
 ## COMPARATIVE TABLE
 
 Singapore Totalisator Board Act
