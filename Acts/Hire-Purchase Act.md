@@ -734,7 +734,9 @@ shall be taken into account for the purpose of determining whether section 30 ha
 
 (e) the owner or any person acting on his behalf is authorised to enter upon any premises for the purpose of taking possession of goods comprised in a hire-purchase agreement otherwise than in accordance with the provisions of this Act or is relieved from liability for any such entry;
 
-(f) the operation of the hire-purchase agreement is determined or modified or any person is authorised to repossess any goods comprised in a hire-purchase agreement if the hirer becomes bankrupt or commits an act of bankruptcy or executes a deed of assignment or a deed of arrangement (whether all or any of those events are named); or
+(f) the operation of the hire-purchase agreement is determined or modified or any person is authorised to repossess any goods comprised in a hire-purchase agreement if the hirer becomes bankrupt or executes a deed of assignment or a deed of arrangement (whether all or any of those events are named); or
+
+[Act 15/95 wef 15/07/1995]
 
 (g) except as expressly provided by this Act, the operation of any provision of this Act is excluded, modified or restricted,
 
@@ -1175,3 +1177,19 @@ This Legislative History is provided for the convenience of users of the Hire-Pu
 ||Date of commencement|15 September 1980|
 |7.|**1985 Revised Edition—Hire-Purchase Act (Chapter 125)**|
 ||Date of operation|30 March 1987|
+|8.|**G.N. No. S 76/89—Hire Purchase Act (Substitution of First Schedule) Order 1989**|
+||Date of commencement|1 April 1989|
+|9.|**G.N. No. S 279/94—Hire-Purchase Act (Amendment of First Schedule) Order 1994**|
+||Dates of commencement|18 June 1993 (paragraph 2(c))|
+|||1 July 1994 (except paragraph 2(c))|
+|10.|**G.N. No. S 429/94—Hire-Purchase Act (Amendment of First Schedule) (No. 2) Order 1994**|
+||Date of commencement|15 July 1994|
+|11.|**Act 15 of 1995—Bankruptcy Act 1995**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|25 July 1994|
+|||(Bill No. 16/94 published on 29 July 1994)|
+||Date of Second Reading|25 August 1994|
+||Date Committed to Select Committee|25 August 1994|
+||Date of Presentation of Select Committee Report|7 March 1995 (Parl. 1 of 1995)|
+||Date of Third Reading|23 March 1995|
+||Date of commencement|15 July 1995|
