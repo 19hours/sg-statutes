@@ -32,7 +32,9 @@
 
 - [13 Power to make regulations](#Power-to-make-regulations)
 
-[**THE SCHEDULE Forms**](#THE-SCHEDULE)
+[**FIRST SCHEDULE Forms**](#FIRST-SCHEDULE-Forms)
+
+[**SECOND SCHEDULE**](#SECOND-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -86,7 +88,7 @@ shall be deemed to be a person using and exercising the business, occupation and
 
 ### Appraisers to be licensed
 
-4\. Every appraiser shall take out a licence in Form A in the Schedule.
+4\. Every appraiser shall take out a licence in Form A in the First Schedule.
 
 [7/2005 wef 01/04/2005]
 
@@ -96,7 +98,7 @@ shall be deemed to be a person using and exercising the business, occupation and
 
 ### House agents to be licensed
 
-5\. Every person, firm or company carrying on the business of a house agent shall take out a licence in Form B in the Schedule.
+5\. Every person, firm or company carrying on the business of a house agent shall take out a licence in Form B in the First Schedule.
 
 [7/2005 wef 01/04/2005]
 
@@ -162,17 +164,29 @@ to take out a licence as an appraiser under this Act.
 
 9\. This Act shall not extend to require —
 
+(1) This Act shall not extend to require —
+
 (a) any agent employed in the management of landed estates to take out a licence under this Act for that purpose;
 
-(b) any advocate and solicitor who as such has in force a practising certificate to take out in addition thereto a licence as a house agent; or
+(b) any advocate and solicitor who as such has in force a practising certificate to take out in addition thereto a licence as a house agent;
 
-(c) any appraiser having a licence in force under this Act to take out in addition thereto a licence as a house agent.
+[7/2005 wef 01/04/2005]
+
+(c) any appraiser having a licence in force under this Act to take out in addition thereto a licence as a house agent ; or
 
 [7/2005 wef 01/04/2005]
 
 [13
 
 [22/2000]
+
+(d) any appraiser of any movable property listed in the Second Schedule to take out a licence under this Act for that purpose.
+
+[7/2005 wef 01/04/2005]
+
+(2) The Minister may, by order published in theGazette, amend the Second Schedule.
+
+[7/2005 wef 01/04/2005]
 
 ### Refusal and cancellation of licences
 
@@ -230,6 +244,44 @@ Section 5
 
 [22/2000]
 
+SECOND SCHEDULE
+
+Section 9(1)(d) and (2)
+
+1\. Motor vehicles.
+
+2\. Cargo.
+
+3\. Ships.
+
+4\. Machinery of ships.
+
+5\. Bulk oil.
+
+6\. Cargo and marine insurance.
+
+7. Loss adjustment, adjustment of cargo, casualty or loss adjustment for fire, workmen’s compensation, burglary or insurance claims.
+
+[5/2008 wef 01/04/2008]
+
+8\. Plants, machinery and equipment.
+
+9\. Gems, gold and jewellery.
+
+10\. General merchandise and consumer goods.
+
+11\. Numismatic and philatelic items, works of art, collectibles and antiquities.
+
+12\. Carpets.
+
+13\. Fine and rare wines.
+
+14\. Tangible goods.
+
+15. Aeroplanes and aircraft.
+
+[7/2005 wef 01/04/2005]
+
 ## LEGISLATIVE HISTORY
 
 Appraisers and House Agents Act
@@ -285,6 +337,11 @@ This Legislative History is provided for the convenience of users of the Apprais
 ||Date of commencement|1 August 2000|
 |12.|**2000 Revised Edition—Appraisers and House Agents Act**|
 ||Date of operation|30 December 2000|
+|13.|**Act 7 of 2005—Appraisers and House Agents (Amendment) Act 2005**|
+||Date of First Reading|19 October 2004|
+|||(Bill No. 63/2004 published on 20 October 2004)|
+||Date of Second and Third Readings|25 January 2005|
+||Date of commencement|1 April 2005|
 ## COMPARATIVE TABLE
 
 Appraisers and House Agents Act
