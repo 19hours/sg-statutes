@@ -1,16 +1,14 @@
-**Wholesome Meat and Fish Act 1999**
+**Wholesome Meat and Fish Act**
 
-**(No. 5 of 1999)**
+**(CHAPTER 349A)**
 
 **Table of Contents**
 
 [**Long Title**](#Wholesome-Meat-and-Fish-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -100,53 +98,37 @@
 
 - [40 Exemption](#Exemption)
 
-- [40A Fees, etc., payable to Authority](#Fees-etc-payable-to-Authority)
+- [41 Fees, etc., payable to Authority](#Fees-etc-payable-to-Authority)
 
-- [41 Rules](#Rules)
+- [42 Rules](#Rules)
 
-- [42 Repeal and transitional provisions](#Repeal-and-transitional-provisions)
+- [43 Transitional provisions](#Transitional-provisions)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+[**Comparative Table**](#Comparative-Table)
 
-ACTS SUPPLEMENT
+# Wholesome Meat and Fish Act
 
-Published by Authority
+(CHAPTER 349A)
 
-NO. 6]
+(Original Enactment: Act 5 of 1999)
 
-Friday, February 19
+REVISED EDITION 2000
 
-[1999
+(30th December 2000)
 
-The following Act was passed by Parliament on 20th January 1999 and assented to by the President on 26th January 1999:—
+An Act to regulate the slaughtering of animals and the processing, packing, inspection, import, distribution, sale, transhipment and export of meat products and fish products and for matters connected therewith.
 
-Wholesome Meat and Fish Act 1999
-
-(No. 5 of 1999)
-
-I assent.
-
-ONG TENG CHEONG,
-
-President.
-
-26th January 1999.
-
-Date of Commencement: 10th December 1999
-
-An Act to regulate the slaughtering of animals and the processing, packing, inspection, import, distribution, sale, transhipment and export of meat products and fish products and for matters connected therewith, and to repeal the Slaughter-houses and Meat Processing Factories Act (Chapter 307 of the 1985 Revised Edition) and to make related amendments to certain provisions of the Fisheries Act (Chapter 111 of the 1985 Revised Edition).
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[10th December 1999]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Wholesome Meat and Fish Act 1999 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Wholesome Meat and Fish Act.
 
 ### Interpretation
 
@@ -158,19 +140,13 @@ PRELIMINARY
 
 “authorised officer” means any person appointed by the Director-General to be an authorised officer under section 3(2);
 
-[16/2000 wef 01/04/2000]
-
-“Authority” means the Agri-food and Veterinary Authority established under section 3 of the Agri-food and Veterinary Authority Act 2000;
-
-[16/2000 wef 01/04/2000]
+“Authority” means the Agri-food and Veterinary Authority established under section 3 of the Agri-food and Veterinary Authority Act 2000 (Act 16 of 2000);
 
 “cold store” means any chiller, freezer, cold room or other refrigerated facility used for the storage of meat products or fish products and includes any refrigerated conveyance used for transportation of meat products or fish products in the course of any trade or business;
 
 “conveyance” includes any aircraft, vessel, train, vehicle or any other artificial contrivance, whether mechanically propelled or otherwise, used or capable of being used as a means of transport on land, water or air;
 
 “Director-General” means the Director-General, Agri-food and Veterinary Services appointed under section 3(1) of the Animals and Birds Act (Cap. 7);
-
-[16/2000 wef 01/04/2000]
 
 “Director-General of Customs and Excise” means the Director-General of Customs and Excise appointed under section 4(1) of the Customs Act (Cap. 70);
 
@@ -224,7 +200,7 @@ which is intended for human consumption;
 
 “receptacle”, in relation to any meat product or fish product, means any basket, carton, bag, box, packet or article which contains the meat product or fish product and where any such receptacle is contained in another such receptacle includes the latter receptacle;
 
-“rules” means rules made under section 41;
+“rules” means rules made under section 42;
 
 “sell” means to sell by way of retail or wholesale dealing and includes barter, and also includes offering or attempting to sell, or receiving for sale, or exposing for sale, or sending or delivering for sale, or causing or allowing to be sold, offered or exposed for sale;
 
@@ -238,7 +214,9 @@ which is intended for human consumption;
 
 whether those goods are to be transferred directly between conveyances or whether they are to be landed in Singapore after they were brought into Singapore and stored, pending their being taken out of Singapore;
 
-“vehicle” means any conveyance used to carry goods by land;
+“vehicle” means any conveyance used to carry goods by land.
+
+[16/2000]
 
 (2) For the purposes of this Act, any meat product or fish product shall be deemed to be adulterated if —
 
@@ -250,25 +228,33 @@ whether those goods are to be transferred directly between conveyances or whethe
 
 3\.—(1) The Director-General shall be responsible for the administration of this Act, subject to the general or special directions of the Minister.
 
-(2) The Director-General may in writing appoint any public officer or any officer of the Authority or of any other statutory authority to be an authorised officer for the purposes of this Act and any rules made thereunder.
+[16/2000]
 
-[16/2000 wef 01/04/2000]
+(2) The Director-General may in writing appoint any public officer or any officer of the Authority or of any other statutory authority to be an authorised officer for the purposes of this Act and the rules.
+
+[16/2000]
 
 (3) The Director-General may delegate the exercise of all or any of the powers conferred or duties imposed upon him by this Act to any authorised officer.
 
-[16/2000 wef 01/04/2000]
+[16/2000]
 
 (4) All authorised officers shall be deemed to be public servants within the meaning of the Penal Code (Cap. 224).
 
-[16/2000 wef 01/04/2000]
+[16/2000]
 
 (5) The Director-General may designate any person or body of persons to carry out at any appointed place any inspection, examination and certification of any meat product or fish product under this Act.
+
+[16/2000]
 
 ### Identification card to be produced
 
 4\.—(1) Every authorised officer, when exercising any of his powers under this Act or the rules shall, if not in uniform, declare his office and shall, on demand, produce to any person affected by the exercise of such power such identification card as the Director-General, the Director-General of Customs and Excise or the Commissioner of Police may direct to be carried by an authorised officer.
 
+[16/2000]
+
 (2) It shall not be an offence for any person to refuse to comply with any request, demand or order made or given by any authorised officer if the authorised officer is not in uniform and refuses to declare his office and produce his identification card, on demand being made by the person.
+
+[16/2000]
 
 ## PART II
 
@@ -277,6 +263,8 @@ CONTROL OF IMPORT, EXPORT AND TRANSHIPMENT OF MEAT PRODUCTS AND FISH PRODUCTS
 ### Prohibition of import, export or transhipment of meat products or fish products without licence
 
 5\.—(1) No person shall import, export or tranship any meat product or fish product except under and in accordance with the conditions of a licence granted by the Director-General under this Part.
+
+[16/2000]
 
 (2) Any person who —
 
@@ -298,6 +286,8 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (d) the meat products or fish products constituting the consignment are packaged and labelled in the prescribed manner.
 
+[16/2000]
+
 (2) No licensee shall export any meat product or fish product from Singapore to any country, territory or place unless —
 
 (a) the licensee has obtained a permit from the Director-General in respect of each consignment of meat products or fish products to be exported by him and the export of each such consignment is carried out in accordance with the conditions of the permit;
@@ -314,7 +304,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (g) the meat products or fish products constituting the consignment are packaged and labelled in the prescribed manner.
 
+[16/2000]
+
 (3) No licensee shall tranship any meat product or fish product in Singapore unless the licensee has obtained a permit from the Director-General in respect of each consignment of meat products or fish products to be transhipped by him and the transhipment is carried out in accordance with the conditions of the permit.
+
+[16/2000]
 
 (4) Any licensee who contravenes or fails to comply with subsection (1), (2) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 2 years or to both.
 
@@ -338,13 +332,19 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (c) if required by the Director-General, a statutory declaration by the applicant verifying any information contained in or relating to the application.
 
+[16/2000]
+
 (2) On receipt of an application under subsection (1), the Director-General may —
 
 (a) grant the licence or permit applied for, with or without conditions; or
 
 (b) refuse to grant the licence or permit applied for.
 
+[16/2000]
+
 (3) Where the Director-General has refused to grant a licence or permit under subsection (2)(b), the Director-General shall, if requested to do so by the applicant, state in writing the reasons for his refusal.
+
+[16/2000]
 
 (4) The conditions which the Director-General may impose under subsection (2)(a) include any condition which —
 
@@ -352,7 +352,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (b) restricts or prohibits the export of any meat product or fish product from Singapore to any country, territory or place.
 
+[16/2000]
+
 (5) The Director-General may at any time vary or revoke any of the existing conditions imposed under subsection (2)(a) or impose new conditions.
+
+[16/2000]
 
 (6) Every licence or permit granted under this section —
 
@@ -361,6 +365,8 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 (b) shall be valid for the period stated therein unless it is sooner revoked under section 8; and
 
 (c) in the case of a licence, may be renewed upon its expiry.
+
+[16/2000]
 
 (7) Subsections (1) to (6) shall apply, with the necessary modifications, to an application for the renewal of a licence.
 
@@ -380,7 +386,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (c) it is in the public interest to suspend or revoke the licence or permit.
 
+[16/2000]
+
 (2) The Director-General shall, before suspending or revoking the licence or permit under subsection (1), give to the holder of the licence or permit notice in writing of his intention to do so and shall in such notice call upon the holder of the licence or permit to show cause within such time as may be specified in the notice as to why his licence or permit should not be suspended or revoked.
+
+[16/2000]
 
 (3) If the holder of the licence or permit —
 
@@ -389,6 +399,8 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 (b) fails to show sufficient cause,
 
 the Director-General shall give notice in writing to the holder of the licence or permit of the date from which the suspension or revocation of his licence or permit is to take effect.
+
+[16/2000]
 
 ### Appeals
 
@@ -402,6 +414,8 @@ the Director-General shall give notice in writing to the holder of the licence o
 
 may, within 7 days of the date of receipt of the notice informing him of the imposition of conditions, refusal, suspension or revocation, as the case may be, appeal in writing to the Minister whose decision shall be final.
 
+[16/2000]
+
 (2) Notwithstanding that any appeal under subsection (1) is pending —
 
 (a) any condition imposed by the Director-General upon granting or renewing a licence or upon granting a permit under section 7; or
@@ -410,7 +424,11 @@ may, within 7 days of the date of receipt of the notice informing him of the imp
 
 shall take effect from the date specified in the notice by the Director-General therefor, unless the Minister otherwise orders.
 
+[16/2000]
+
 (3) Upon the suspension or revocation of a licence or permit, the holder of the licence or permit shall surrender the licence or permit to the Director-General within the time specified in the notice referred to in subsection (1), failing which the holder of the licence or permit shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[16/2000]
 
 ### Inspection of meat products and fish products upon import or prior to export
 
@@ -430,6 +448,8 @@ shall take effect from the date specified in the notice by the Director-General 
 
 (4) Where a person to whom paragraph (b) of subsection (2) applies fails to comply with that paragraph, any authorised officer may take such steps as he thinks fit to secure the removal, destruction or disposal of the meat product or fish product and recover any costs and expenses reasonably incurred by him from that person.
 
+[16/2000]
+
 ## PART III
 
 LICENSING OF SLAUGHTER-HOUSES, PROCESSING ESTABLISHMENTS AND COLD STORES
@@ -442,6 +462,8 @@ LICENSING OF SLAUGHTER-HOUSES, PROCESSING ESTABLISHMENTS AND COLD STORES
 
 (b) the Director-General has granted a permit to such person allowing him to slaughter the animal on those premises for any special reason and the slaughter of the animal is carried out in accordance with the rules and the conditions of the permit.
 
+[16/2000]
+
 (2) Any person who contravenes or fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 (3) For the purpose of this section, the occupier of any premises in which any animal is slaughtered in contravention of subsection (1) shall be deemed to have slaughtered that animal, until he proves that it was slaughtered without his knowledge or consent.
@@ -449,6 +471,8 @@ LICENSING OF SLAUGHTER-HOUSES, PROCESSING ESTABLISHMENTS AND COLD STORES
 ### Processing establishments and cold stores to be licensed
 
 12\.—(1) No person shall use any premises or permit any premises to be used as a processing establishment or a cold store except under and in accordance with the conditions of a licence granted by the Director-General.
+
+[16/2000]
 
 (2) Any person who contravenes or fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
@@ -462,19 +486,27 @@ LICENSING OF SLAUGHTER-HOUSES, PROCESSING ESTABLISHMENTS AND COLD STORES
 
 (c) if required by the Director-General, a statutory declaration by the applicant verifying any information contained in or relating to the application.
 
+[16/2000]
+
 (2) On receipt of an application under subsection (1), the Director-General may —
 
 (a) grant the licence or permit applied for, with or without conditions; or
 
 (b) refuse to grant the licence or permit applied for.
 
+[16/2000]
+
 (3) Where the Director-General has refused to grant a licence or permit under subsection (2)(b), the Director-General shall, if required by the applicant, state in writing the reasons for his refusal.
+
+[16/2000]
 
 (4) In determining whether to grant or refuse to grant a licence required under section 11(1)(a) or 12(1), the Director-General shall have regard to —
 
 (a) the financial standing of the applicant and his ability to operate and maintain a slaughter-house, processing establishment or cold store, as the case may be, in accordance with the prescribed standards; and
 
 (b) the suitability of the premises to be licensed for use as a slaughter-house, processing establishment or cold store, as the case may be.
+
+[16/2000]
 
 (5) For the purpose of subsection (4), the Director-General, before granting the licence applied for, may —
 
@@ -484,7 +516,11 @@ LICENSING OF SLAUGHTER-HOUSES, PROCESSING ESTABLISHMENTS AND COLD STORES
 
 (c) require the applicant to make, at his own expense, such alteration or improvements to the premises to be licensed, or to provide, fix or install such facilities therein, as the Director-General may specify.
 
+[16/2000]
+
 (6) The Director-General may at any time vary or revoke any of the existing conditions imposed under subsection (2)(a) or impose new conditions.
+
+[16/2000]
 
 (7) Every licence or permit granted under this section —
 
@@ -493,6 +529,8 @@ LICENSING OF SLAUGHTER-HOUSES, PROCESSING ESTABLISHMENTS AND COLD STORES
 (b) shall be valid for the period stated therein unless it is sooner revoked under section 14; and
 
 (c) in the case of a licence, may be renewed upon its expiry.
+
+[16/2000]
 
 (8) Subsections (1) to (7) shall apply, with the necessary modifications, to an application for the renewal of a licence.
 
@@ -512,7 +550,11 @@ LICENSING OF SLAUGHTER-HOUSES, PROCESSING ESTABLISHMENTS AND COLD STORES
 
 (c) it is in the public interest to suspend or revoke the licence or permit.
 
+[16/2000]
+
 (2) The Director-General shall, before suspending or revoking the licence or permit under subsection (1), give to the holder of the licence or permit notice in writing of his intention to do so and shall in such notice call upon the holder of the licence or permit to show cause within such time as may be specified in the notice as to why his licence or permit should not be suspended or revoked.
+
+[16/2000]
 
 (3) If the holder of the licence or permit —
 
@@ -521,6 +563,8 @@ LICENSING OF SLAUGHTER-HOUSES, PROCESSING ESTABLISHMENTS AND COLD STORES
 (b) fails to show sufficient cause,
 
 the Director-General shall give notice in writing to the holder of the licence or permit of the date from which the suspension or revocation of his licence or permit is to take effect.
+
+[16/2000]
 
 ### Appeals
 
@@ -534,6 +578,8 @@ the Director-General shall give notice in writing to the holder of the licence o
 
 may, within 7 days of the date of receipt of the notice informing him of such imposition of conditions, refusal, suspension or revocation, as the case may be, appeal in writing to the Minister whose decision shall be final.
 
+[16/2000]
+
 (2) Notwithstanding that any appeal under subsection (1) is pending —
 
 (a) any condition imposed by the Director-General upon granting or renewing a licence or upon granting a permit under section 13; or
@@ -542,15 +588,23 @@ may, within 7 days of the date of receipt of the notice informing him of such im
 
 shall take effect from the date specified in the notice by the Director-General, unless the Minister otherwise orders.
 
+[16/2000]
+
 (3) Upon the suspension or revocation of a licence or permit, the holder of the licence or permit shall surrender the licence or permit to the Director-General within the time specified in the notice referred to in subsection (1), failing which the holder of the licence or permit shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[16/2000]
 
 ### Ante mortem and post mortem examination
 
 16\.—(1) The Director-General may in writing direct the owner or occupier of a licensed slaughter-house to subject all or any of the animals intended for slaughter at the slaughter-house to an ante mortem examination before slaughter, and to a post mortem examination after slaughter, by an authorised examiner.
 
+[16/2000]
+
 (2) The costs of and incidental to any examination referred to in subsection (1) shall be borne by the person to whom the direction under that subsection is given.
 
 (3) Any person who fails to comply with any direction given to him by the Director-General under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[16/2000]
 
 ### Owners and occupiers of licensed slaughter-houses to ensure that animals are fit for slaughter
 
@@ -572,21 +626,29 @@ shall take effect from the date specified in the notice by the Director-General,
 
 18\.—(1) Where the Director-General or an authorised officer knows or has reason to believe that any animal intended for slaughter at a licensed slaughter-house is diseased or is, for any other reason, unfit for human consumption, the Director-General or authorised officer may by order in writing —
 
-(a) prohibit the owner or occupier of the licensed slaughter-house from slaughtering that animal; and
+(a) prohibit the owner or occupier of the licensed slaughter- house from slaughtering that animal; and
 
-(b) require the owner or occupier of the licensed slaughter-house to destroy or treat such animal at his own expense in such manner as the Director-General or authorised officer thinks fit.
+(b) require the owner or occupier of the licensed slaughter- house to destroy or treat such animal at his own expense in such manner as the Director-General or authorised officer thinks fit.
+
+[16/2000]
 
 (2) Any person who fails to comply with an order given to him by the Director-General or an authorised officer under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[16/2000]
 
 ### Power to prohibit dressing of carcases
 
 19\.—(1) Where the Director-General or an authorised officer knows or has reason to believe that the carcase of any animal which has been slaughtered at a licensed slaughter-house is diseased or is, for any other reason, unfit for human consumption, the Director-General or authorised officer may by order in writing —
 
-(a) prohibit the owner or occupier of the licensed slaughter-house from dressing that carcase; and
+(a) prohibit the owner or occupier of the licensed slaughter- house from dressing that carcase; and
 
-(b) require the owner or occupier of the licensed slaughter-house to destroy or treat such carcase at his own expense in such manner as the Director-General or authorised officer thinks fit.
+(b) require the owner or occupier of the licensed slaughter- house to destroy or treat such carcase at his own expense in such manner as the Director-General or authorised officer thinks fit.
+
+[16/2000]
 
 (2) Any person who fails to comply with an order given to him by the Director-General or an authorised officer under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[16/2000]
 
 ### Marking, branding or tagging of carcases
 
@@ -600,7 +662,7 @@ shall take effect from the date specified in the notice by the Director-General,
 
 (c) makes or has in his possession any dye, plate or other instrument for the purpose of it being used or knowing or having reason to believe that it is intended to be used for the purpose of counterfeiting the mark, brand or tag of a licensed slaughter-house; or
 
-(d) sells or exposes for sale or has in his possession for sale the carcase or part of the carcase of any animal which was not slaughtered at a licensed slaughter-house but which —
+(d) sells or exposes for sale or has in his possession for sale the carcase or any part of the carcase of an animal which was not slaughtered at a licensed slaughter-house but which —
 
 (i) bears any mark, brand or tag which is intended to represent the mark, brand or tag of a licensed slaughter-house; or
 
@@ -624,9 +686,15 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (b) give directives for the immediate stoppage of any slaughtering, processing or other work until he is satisfied that the owner or occupier of the slaughter-house, processing establishment or cold store, as the case may be, has taken action to render the slaughter-house, processing establishment or cold store in a clean and hygienic condition again.
 
+[16/2000]
+
 (2) The Director-General or an authorised officer shall, as soon as possible after he has given written directives under subsection (1)(a), inform the owner or occupier of the slaughter-house, processing establishment or cold store of the reasons why the directives were given.
 
+[16/2000]
+
 (3) Any person who fails to comply with any directive given to him by the Director-General or an authorised officer under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[16/2000]
 
 ## PART IV
 
@@ -637,6 +705,8 @@ SALE OF MEAT PRODUCTS AND FISH PRODUCTS
 22\.—(1) In this section, “wholesale market” means a place where any animal, meat product, fish or fish product is sold wholesale or through auction.
 
 (2) No person shall use any premises or permit any premises to be used as a wholesale market unless he has been granted a licence by the Director-General to use those premises as such.
+
+[16/2000]
 
 (3) Any person who —
 
@@ -698,9 +768,15 @@ POWERS OF ENFORCEMENT
 
 (b) to furnish any information as the Director-General or authorised officer may reasonably require.
 
+[16/2000]
+
 (2) The Director-General or an authorised officer may record any information furnished by any person under subsection (1)(b) as a statement which shall be admissible as evidence in any proceedings in connection with any offence under this Act or the rules.
 
+[16/2000]
+
 (3) Any person who fails to comply with any requirement made by the Director-General or authorised officer under subsection (1)(a) or (b) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[16/2000]
 
 ### Powers of entry, search and seizure, etc.
 
@@ -714,15 +790,23 @@ POWERS OF ENFORCEMENT
 
 (d) seize and detain any item to which this Act applies that is found in any premises or conveyance entered into under paragraph (a) and that the Director-General or authorised officer believes on reasonable grounds is not in compliance with this Act or the rules or is otherwise connected with the commission of an offence under this Act or the rules.
 
+[16/2000]
+
 (2) For the purpose of subsection (1)(a), the Director-General or an authorised officer may —
 
 (a) require the owner or occupier of any premises or conveyance being inspected to provide all reasonable assistance to the Director-General or authorised officer for the purpose of the inspection; and
 
 (b) if the circumstances so warrant, with such assistance as he thinks necessary, break open any door, window, lock, fastener, hold, compartment, box, container, receptacle or any other thing.
 
+[16/2000]
+
 (3) Where the Director-General or an authorised officer seizes any item under subsection (1)(d), the Director-General or authorised officer shall forthwith give notice in writing of the seizure to the owner of the item seized or to the agent of such owner, if the name and address of such owner or agent thereof are known.
 
-(4) Any person aggrieved by the seizure of any item under subsection (1)(d) may, within 48 hours after the seizure, complain thereof to a Magistrate’s Court and, upon hearing such complaint, the Court may —
+[16/2000]
+
+(4) Any person aggrieved by the seizure of any item under subsection (1)(d) may, within 48 hours after the seizure, complain thereof to a Magistrate’s Court.
+
+(5) Upon hearing such complaint, the Magistrate’s Court may —
 
 (a) confirm the seizure wholly or in part;
 
@@ -732,23 +816,35 @@ POWERS OF ENFORCEMENT
 
 (d) order payment to be made to the owner of the item seized of such amount as the Court considers will compensate him for any loss or depreciation resulting from the seizure.
 
-(5) Any item seized under subsection (1)(d) may be kept or stored in the premises or conveyance where it was seized or may, at the direction of the Director-General or an authorised officer, be removed to any other place to be kept or stored thereat.
+[16/2000]
 
-(6) The Director-General or an authorised officer may mark, seal or label any item being detained under subsection (1)(d) in such manner as he thinks fit for the purpose of indicating that the item is under detention and may lock or seal the premises or conveyance in which the item is being detained.
+(6) Any item seized under subsection (1)(d) may be kept or stored in the premises or conveyance where it was seized or may, at the direction of the Director-General or an authorised officer, be removed to any other place to be kept or stored thereat.
 
-(7) Any person who fails to comply with any requirement made by the Director-General or an authorised officer under subsection (2)(a) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+[16/2000]
 
-(8) Any person who, without the authority of the Director-General or an authorised officer —
+(7) The Director-General or an authorised officer may mark, seal or label any item being detained under subsection (1)(d) in such manner as he thinks fit for the purpose of indicating that the item is under detention and may lock or seal the premises or conveyance in which the item is being detained.
 
-(a) interferes, tampers with, removes, distributes, sells, or otherwise disposes of any item seized or detained under subsection (1)(d) or alters, counterfeits, defaces, destroys, erases or removes any mark, seal or label placed by the Director-General or an authorised officer on such item under subsection (6); or
+[16/2000]
 
-(b) opens, breaks or otherwise tampers with the lock or seal placed by the Director-General or an authorised officer on any premises or conveyance or part thereof under subsection (6),
+(8) Any person who fails to comply with any requirement made by the Director-General or an authorised officer under subsection (2)(a) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[16/2000]
+
+(9) Any person who, without the authority of the Director-General or an authorised officer —
+
+(a) interferes, tampers with, removes, distributes, sells, or otherwise disposes of any item seized or detained under subsection (1)(d) or alters, counterfeits, defaces, destroys, erases or removes any mark, seal or label placed by the Director-General or an authorised officer on such item under subsection (7); or
+
+(b) opens, breaks or otherwise tampers with the lock or seal placed by the Director-General or an authorised officer on any premises or conveyance or part thereof under subsection (7),
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[16/2000]
 
 ### Power to require destruction treatment or disposal of meat products or fish products found to be diseased, etc.
 
 26\.—(1) Where the result of the examination of any sample taken from any meat product or fish product under section 25(1)(c) reveals that the meat product or fish product is diseased, adulterated or unfit for human consumption, the Director-General or an authorised officer may direct the owner of the meat product or fish product or the agent of such owner to destroy or treat or otherwise dispose of the meat product or fish product in such manner as the Director-General or authorised officer thinks fit, and the costs of an incidental thereto shall be borne by such owner or agent thereof.
+
+[16/2000]
 
 (2) If a person to whom any direction under subsection (1) is given fails to comply with the direction —
 
@@ -756,13 +852,25 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (b) any authorised officer may take such steps as he thinks fit to secure the destruction, treatment or disposal of the meat product or fish product to which the direction relates and recover any costs and expenses reasonably incurred by him from that person.
 
+[16/2000]
+
 ### Powers of arrest
 
-27\.—(1) The Director-General or any authorised officer, police officer or officer of customs may arrest without warrant any person he sees or finds committing or attempting to commit or whom he reasonably suspects of being engaged in committing or attempting to commit any offence under this Act or the rules, if the person refuses to furnish his name and address or furnishes an address out of Singapore or there are reasonable grounds for believing that he has furnished a false name or address or that he is likely to abscond.
+27\.—(1) The Director-General or any authorised officer, police officer or officer of customs may arrest without warrant any person committing or attempting to commit or whom he reasonably suspects of being engaged in committing or attempting to commit any offence under this Act or the rules, if —
+
+(a) the person refuses to furnish his name and address or furnishes an address out of Singapore; or
+
+(b) there are reasonable grounds for believing that the person has furnished a false name or address or that the person is likely to abscond.
+
+[16/2000]
 
 (2) The Director-General or any authorised officer, police officer or officer of customs making an arrest without warrant shall, subject to subsection (3), without unnecessary delay bring the person arrested before a Magistrate’s Court.
 
+[16/2000]
+
 (3) No person who has been arrested by the Director-General or any authorised officer, police officer or officer of customs shall be released, except on his own bond or on bail or on the special order in writing of the Magistrate or the Director-General.
+
+[16/2000]
 
 ## PART VI
 
@@ -772,9 +880,17 @@ MISCELLANEOUS
 
 28\. Any person who obstructs, hinders or impedes the Director-General or any authorised officer, police officer or officer of customs or any other person acting under the direction of the Director-General, in the performance or execution of his duty or anything which he is authorised, empowered or required to do under this Act or the rules shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
+[16/2000]
+
 ### Altering licence, permit or certificate
 
-29\. Any person who without lawful authority alters, forges, mutilates or defaces any licence, permit or certificate granted under this Act or the rules or knowingly makes use of any licence, permit or certificate which has been so altered, forged, mutilated or defaced shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+29\. Any person who —
+
+(a) without lawful authority alters, forges, mutilates or defaces any licence, permit or certificate granted under this Act or the rules; or
+
+(b) knowingly makes use of any licence, permit or certificate which has been so altered, forged, mutilated or defaced,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 ### Penalty for false declaration, etc.
 
@@ -788,11 +904,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Offences committed by bodies corporate and by agents and servants
 
-31\.—(1) Where an offence under this Act or the rules has been committed by a body corporate, a partnership or an unincorporated association of persons, any person who at the time of the commission of the offence was a director, manager, partner, secretary or other similar officer thereof, or was purporting to act in any such capacity shall be guilty of that offence unless he proves that —
+31\.—(1) Where an offence under this Act or the rules has been committed by a body corporate, a partnership or an unincorporated association of persons, any person who at the time of the commission of the offence was a director, manager, partner, secretary or other similar officer thereof, or was purporting to act in any such capacity shall be guilty of that offence unless he proves —
 
-(a) the offence was committed without his consent or connivance; and
+(a) that the offence was committed without his consent or connivance; and
 
-(b) he had exercised all such diligence to prevent the commission of the offence as he ought to have exercised having regard to the nature of his functions in that capacity and to all the circumstances.
+(b) that he had exercised all such diligence to prevent the commission of the offence as he ought to have exercised having regard to the nature of his functions in that capacity and to all the circumstances.
 
 (2) Where an offence under this Act or the rules is committed by any person acting as an agent or servant of another person, or being otherwise subject to the supervision or instruction of another person for the purposes of any employment in the course of which the offence was committed, that other person shall, without prejudice to the liability of the first-mentioned person, be liable under this Act or the rules in the same manner and to the same extent as if he had personally committed the offence if it is proved that the act which constituted the offence was committed with his consent or connivance or that it was attributable to any neglect on his part.
 
@@ -816,6 +932,8 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (5) In the absence of any prosecution with regard to any item which has been seized under the provisions of this Act, the Director-General shall give to the person from whom the item was seized or to the owner of the item notice in writing that the item shall, on the expiration of 7 days of the date specified in the notice, be deemed to be forfeited unless a claim thereto is made before then in accordance with subsection (6).
 
+[16/2000]
+
 (6) A person asserting —
 
 (a) that he is the owner of, or that he is entitled to, any item which has been seized under the provisions of this Act; and
@@ -824,7 +942,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 may, personally or by his agent authorised in writing, give written notice to the Director-General that he claims the item.
 
+[16/2000]
+
 (7) On receipt of a notice under subsection (6), the Director-General may direct that the item be released to the person who has given the notice or may refer the matter to a court for decision.
+
+[16/2000]
 
 (8) Where no claim is received on the expiration of 7 days of the date specified in the notice referred to in subsection (5), the item to which the notice relates shall be deemed to be forfeited.
 
@@ -832,9 +954,13 @@ may, personally or by his agent authorised in writing, give written notice to th
 
 (10) Any item forfeited or deemed to be forfeited under this section shall be delivered to an authorised officer and shall be disposed of in such manner as the Director-General thinks fit.
 
+[16/2000]
+
 ### Form and authentication of notices, orders and other documents
 
 33\.—(1) All notices, orders and other documents of whatsoever nature which the Director-General is empowered to give by this Act or the rules may be in such form as the Director-General may determine, and may be given by any authorised officer.
+
+[16/2000]
 
 (2) Where any such notice, order or document requires authentication —
 
@@ -843,6 +969,8 @@ may, personally or by his agent authorised in writing, give written notice to th
 (b) an official facsimile of such signature,
 
 appended thereto shall be sufficient authentication.
+
+[16/2000]
 
 ### Inaccuracies in documents
 
@@ -856,9 +984,9 @@ appended thereto shall be sufficient authentication.
 
 (a) by delivering it to the person or to some adult member or employee of his family or household at his last known place of residence;
 
-(b) by leaving it at his usual or last known place of residence or business in an envelope addressed to the person;
+(b) by leaving it at his usual or last known place of residence or place of business in an envelope addressed to the person;
 
-(c) by sending it by registered post addressed to the person at his usual or last known place of residence or business; or
+(c) by sending it by registered post addressed to the person at his usual or last known place of residence or place of business; or
 
 (d) in the case of an incorporated company, a partnership or a body of persons —
 
@@ -876,6 +1004,8 @@ appended thereto shall be sufficient authentication.
 
 36\. No suit or other legal proceedings shall lie against the Director-General or any authorised officer, police officer or officer of customs or any other person acting under the direction of the Director-General for anything which is in good faith done in the execution or purported execution of this Act or the rules.
 
+[16/2000]
+
 ### Jurisdiction of Courts
 
 37\. Notwithstanding anything to the contrary contained in the Criminal Procedure Code (Cap. 68), a District Court or a Magistrate’s Court shall have jurisdiction to try any offence under this Act or the rules and to impose the full penalty or punishment in respect of any such offence.
@@ -887,6 +1017,8 @@ appended thereto shall be sufficient authentication.
 (a) a document or certificate purporting to be report under the hand of the Director-General or an authorised officer upon any matter or thing in connection with the administration or enforcement of this Act or with any investigation carried out under this Act shall be admissible as evidence in any proceedings under this Act and shall be prima facie evidence of the facts stated therein; and
 
 (b) a certificate of an authorised examiner stating that he has analysed or examined any meat product or fish product and stating the result of his analysis or examination shall be admissible in evidence in any proceedings for an offence under this Act as prima facie evidence of the facts stated therein and of the correctness of the result of the analysis or examination.
+
+[16/2000]
 
 (2) For the purposes of this section, a document purporting to be a certificate referred to in subsection (1) on its production by the prosecution shall, unless the contrary is proved, be deemed to be such a certificate.
 
@@ -900,9 +1032,13 @@ not less than 10 clear days before the commencement of the proceedings.
 
 (4) Where a certificate of the Director-General, an authorised officer or an authorised examiner is admitted in evidence under subsection (1), the person charged may require the Director-General, authorised officer or authorised examiner to be called as a witness for the prosecution and be cross-examined as if he had given evidence of the matters stated in the certificate.
 
+[16/2000]
+
 ### Composition of offences
 
 39\.—(1) The Director-General or any officer authorised in writing in that behalf by the Minister may, in his discretion, compound any offence under this Act or the rules which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum of money not exceeding $1,000.
+
+[16/2000]
 
 (2) On payment of such sum of money, no further proceedings shall be taken against such person in respect of the offence.
 
@@ -910,15 +1046,19 @@ not less than 10 clear days before the commencement of the proceedings.
 
 40\. The Director-General may, in his discretion, either permanently or for such period as he may think fit, exempt any person or premises or any class of persons or premises from any of the provisions of this Act or the rules.
 
+[16/2000]
+
 ### Fees, etc., payable to Authority
 
-40A\. All fees, charges, composition fines and moneys collected under this Act or any rules made thereunder shall be paid to the Authority.
+41\. All fees, charges, composition fines and moneys collected under this Act or any rules shall be paid to the Authority.
 
-[16/2000 wef 01/04/2000]
+[40A
+
+[16/2000]
 
 ### Rules
 
-41\.—(1) The Minister may make rules for carrying out the purposes of this Act and for any matter which is required under this Act to be prescribed.
+42\.—(1) The Minister may make rules for carrying out the purposes of this Act and for any matter which is required under this Act to be prescribed.
 
 (2) Without prejudice to the generality of subsection (1), the Minister may make rules —
 
@@ -980,21 +1120,88 @@ not less than 10 clear days before the commencement of the proceedings.
 
 (x) empowering the Director-General to issue, from time to time, such directives as the Director-General may consider necessary for the proper control and management of slaughter-houses, processing establishments and cold stores or for any matter connected with the provisions of this Act.
 
+[16/2000]
+
 (3) The Minister may, in making any rules, provide that any contravention of, or failure or neglect to comply with, any provision of the rules or any directive issued by the Director-General pursuant to the rules shall be an offence and may prescribe the fine with which the offence shall be punishable, except that no such fine shall exceed for any one offence, the sum of $10,000 and, in the case of a continuing offence, the sum of $100 for every day or part thereof during which the offence continues after conviction.
+
+[16/2000]
 
 (4) All rules made under this Act shall be presented to Parliament as soon as possible after publication in theGazette.
 
-### Repeal and transitional provisions
+[41
 
-42\.—(1) The Slaughter-houses and Meat Processing Factories Act (Cap. 307) is repealed.
+### Transitional provisions
 
-(2) Section 7(2) of the Fisheries Act (Cap. 111) is amended by deleting paragraphs (n), (o) and (p).
+43\. Any licence, permit, document, application, approval, permission, order, direction, ruling or notice issued, made, given or approved by the relevant authority under —
 
-(3) Any licence, permit, document, application, approval, permission, order, direction, ruling or notice issued, made, given or approved by the relevant authority under —
-
-(a) the repealed Slaughter-houses and Meat Processing Factories Act; or
+(a) the repealed Slaughter-houses and Meat Processing Factories Act (Cap. 307, 1985 Ed.); or
 
 (b) any rules made under the repealed paragraphs (n), (o) and (p) of section 7(2) of the Fisheries Act,
 
 shall, so far as it is not inconsistent with the provisions of this Act and except as otherwise expressly provided in this Act or in any other written law, continue and be deemed to have been prepared, made, granted or approved under the corresponding provisions of this Act.
+
+[42
+
+## LEGISLATIVE HISTORY
+
+Wholesome Meat and Fish Act
+
+(CHAPTER 349A)
+
+This Legislative History is provided for the convenience of users of the Wholesome Meat and Fish Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 5 of 1999—Wholesome Meat and Fish Act 1999**|
+||Date of First Reading|23 November 1998|
+|||(Bill No. 52/98 published on 24 November 1998)|
+||Date of Second and Third Readings|20 January 1999|
+||Date of commencement|10 December 1999|
+|2.|**Act 16 of 2000—Agri-food and Veterinary Authority Act 2000**|
+||(Consequential amendments made by)||
+||Date of First Reading|21 February 2000|
+|||(Bill No. 11/2000 published on 22 February 2000)|
+||Date of Second and Third Readings|17 March 2000|
+||Date of commencement|1 April 2000|
+|3.|**2000 Revised Edition—Wholesome Meat and Fish Act**|
+||Date of operation|30 December 2000|
+## COMPARATIVE TABLE
+
+Wholesome Meat and Fish Act
+
+(CHAPTER 349A)
+
+COMPARATIVE TABLE
+
+The following provisions in the Wholesome Meat and Fish Act 1999 (Act 5 of 1999) have been renumbered by the Law Revision Commissioners in this 2000 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Wholesome Meat and Fish Act.
+
+2000 Ed .
+
+Act 5 of 1999 
+
+25 —(4) and (5)
+
+25 —(4)
+
+(6) to (9)
+
+(5) to (8)
+
+41 
+
+40A 
+
+42 
+
+41 
+
+Omitted
+
+42 —(1) and (2)
+
+43 
+
+42 —(3)
 
