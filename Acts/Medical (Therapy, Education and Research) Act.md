@@ -180,7 +180,7 @@ SUPPLEMENTARY PROVISIONS
 
 (2) No such removal or post-mortem examination shall be effected except —
 
-(a) by a registered medical practitioner, who shall have satisfied himself by personal examination of the body that life is extinct; or
+(a) by a registered medical practitioner, who shall have satisfied himself that the death of the deceased person has been determined and certified in accordance with section 2A of the Interpretation Act (Cap. 1); or
 
 (b) with the written consent of the Coroner in a case where an inquiry is to be held in respect of the death of any person.
 
@@ -235,3 +235,10 @@ This Legislative History is provided for the convenience of users of the Medical
 ||Date of commencement|25 May 1973|
 |2.|**1985 Revised Edition—Medical (Therapy, Education and Research) Act (Chapter 175)**|
 ||Date of operation|30 March 1987|
+|3.|**Act 22 of 1998—Interpretation (Amendment) Act 1998**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|19 November 1997|
+|||(Bill No. 17/97 published on 20 November 1997)|
+||Date of Second Reading|14 January 1998|
+||Date of Third Reading|30 June 1998|
+||Date of commencement|2 November 1998 (section 4 — amendment of Medical (Therapy, Education and Research) Act)|
