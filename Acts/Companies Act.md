@@ -15138,3 +15138,12 @@ This Legislative History is provided for the convenience of users of the Compani
 ||Date of commencement|1 March 1995|
 |39.|**G. N. No. S 119/1995—Companies Act (Amendment of Second Schedule) Notification 1995**|
 ||Date of commencement|1 April 1995|
+|40.|**Act 15 of 1995—Bankruptcy Act 1995**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|25 July 1994|
+|||(Bill No. 16/94 published on 29 July 1994)|
+||Date of Second Reading|25 August 1994|
+||Date Committed to Select Committee|25 August 1994|
+||Date of Presentation of Select Committee Report|7 March 1995 (Parl. 1 of 1995)|
+||Date of Third Reading|23 March 1995|
+||Date of commencement|15 July 1995|
