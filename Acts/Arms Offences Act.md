@@ -14,6 +14,8 @@
 
 - [4 Using or attempting to use arms](#Using-or-attempting-to-use-arms)
 
+- [4A Using or attempting to use arms to commit scheduled offence](#Using-or-attempting-to-use-arms-to-commit-scheduled-offence)
+
 - [5 Punishment for accomplices](#Punishment-for-accomplices)
 
 - [6 Trafficking in arms](#Trafficking-in-arms)
@@ -30,7 +32,7 @@
 
 - [12 Power to amend Schedule](#Power-to-amend-Schedule)
 
-[**THE SCHEDULE Scheduled offences**](#THE-SCHEDULE)
+[**THE SCHEDULE Scheduled Offences**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -80,7 +82,7 @@ An Act relating to the unlawful possession of arms and ammunition and the carryi
 
 ### Penalty for being in unlawful possession of arms or ammunition
 
-3\.—(1) Subject to subsection (4), any person who, after the commencement of this Act, is in unlawful possession of any arm or ammunition shall be guilty of an offence and shall on conviction be punished with imprisonment for a term of not less than 5 years and not more than 10 years and shall also be punished with caning with not less than 6 strokes.
+3\.—(1) Subject to subsection (4), any person who, after the commencement of this Act, is in unlawful possession of any arm or ammunition shall be guilty of an offence and shall on conviction be punished with imprisonment for a term of not less that 5 years and not more than 10 years and shall also be punished with caning with not less than 6 strokes.
 
 [25/84]
 
@@ -92,11 +94,25 @@ An Act relating to the unlawful possession of arms and ammunition and the carryi
 
 ### Using or attempting to use arms
 
-4\. Subject to any exception referred to in Chapter IV of the Penal Code [Cap. 224] which may be applicable, any person who uses or attempts to use any arm shall be guilty of an offence and shall on conviction be punished with death.
+4\.—(1) Subject to any exception referred to in Chapter IV of the Penal Code [Cap. 224] which may be applicable (other than section 95), any person who uses or attempts to use any arm shall be guilty of an offence and shall on conviction be punished with death.
+
+[Act 30/93 wef 01/11/1993 vide S 433/93]
+
+(2) In any proceedings for an offence under this section, any person who uses or attempts to use any arm shall, until the contrary is proved, be presumed to have used or attempted to use the arm with the intention to cause physical injury to any person or property.
+
+[Act 30/93 wef 01/11/1993 vide S 433/93]
+
+### Using or attempting to use arms to commit scheduled offence
+
+4A\. Subject to any exception referred to in Chapter IV of the Penal Code [Cap. 224] which may be applicable (other than section 95), any person who uses or attempts to use any arm at the time of his committing or attempting to commit any scheduled offence shall, whether or not he has any intention to cause physical injury to any person or property, be guilty of an offence and shall on conviction be punished with death.
+
+[Act 30/93 wef 01/11/1993]
 
 ### Punishment for accomplices
 
-5\. Where any arm is used by any person in committing or in attempting to commit any offence, each of his accomplices in respect of the last-mentioned offence present at the scene of the offence who may reasonably be presumed to have known that that person was carrying or had in his possession or under his control such arm, shall, unless he proves that he had taken all reasonable steps to prevent the use of such arm, be guilty of an offence and shall on conviction be punished with death.
+5\. Where any arm is used by any person in committing or in attempting to commit any offence or where an offence under section 4A has been committed by any person, each of his accomplices present at the scene of the offence who may reasonably be presumed to have known that that person was carrying or had in his possession or under his control such arm, shall, unless he proves that he had taken all reasonable steps to prevent the use of such arm, be guilty of an offence and shall on conviction be punished with death.
+
+[Act 30/93 wef 01/11/1993]
 
 ### Trafficking in arms
 
@@ -140,53 +156,35 @@ An Act relating to the unlawful possession of arms and ammunition and the carryi
 
 ### Power to amend Schedule
 
-12\. The President may at any time by order add to, amend or vary the Schedule.
+12\. The Minister may at any time by order add to, amend or vary the Schedule.
+
+[Act 30/93 wef 01/11/1993]
 
 ## THE SCHEDULE
 
 Sections 3(3) and (4), 8 and 12.
 
-Scheduled offences
+Scheduled Offences
 
-(1)
+(1) Being a member of an unlawful assembly under sections 143 to 145 of the Penal Code [Cap. 224].
 
-Being a member of an unlawful assembly under sections 143 to 145 of the Penal Code [Cap. 224].
+(2) Rioting under sections 147, 148 and 152 of the Penal Code.
 
-(2)
+(3) Offences against the person under sections 302, 304, 307, 324 to 327, 329, 330, 331, 332, 333, 356, 357 and 506 of the Penal Code.
 
-Rioting under sections 147, 148 and 152 of the Penal Code.
+(4) Abduction or kidnapping under sections 361, 363 to 367 of the Penal Code; and sections 3 to 5 of the Kidnapping Act [Cap. 151].
 
-(3)
+(5) Extortion under sections 384 to 389 of the Penal Code.
 
-Offences against the person under sections 302, 304, 307, 324 to 327, 329, 330, 331, 332, 333, 356, 357 and 506 of the Penal Code.
+(6) Housebreaking and house-trespass under sections 448 to 460 of the Penal Code.
 
-(4)
+(7) Robbery under sections 392 to 397, 399 and 402 of the Penal Code.
 
-Abduction or kidnapping under sections 361, 363 to 367 of the Penal Code; and sections 3 to 5 of the Kidnapping Act [Cap. 151].
+(8) Preventing or resisting arrest under sections 224 and 225 of the Penal Code.
 
-(5)
+(9) Vandalism under section 3 of the Vandalism Act [Cap. 341].
 
-Extortion under sections 384 to 389 of the Penal Code.
-
-(6)
-
-Housebreaking and house-trespass under sections 448 to 460 of the Penal Code.
-
-(7)
-
-Robbery under sections 392 to 397, 399 and 402 of the Penal Code.
-
-(8)
-
-Preventing or resisting arrest under sections 224 and 225 of the Penal Code.
-
-(9)
-
-Vandalism under section 3 of the Vandalism Act [Cap. 341].
-
-(10)
-
-Mischief under sections 435, 436, 438 and 440 of the Penal Code.
+(10) Mischief under sections 435, 436, 438 and 440 of the Penal Code.
 
 ## LEGISLATIVE HISTORY
 
@@ -215,3 +213,8 @@ This Legislative History is provided for the convenience of users of the Arms Of
 ||Date of commencement|31 August 1984|
 |4.|**1985 Revised Edition—Arms Offences Act**|
 ||Date of operation|30 March 1987|
+|5.|**Act 30 of 1993—Arms Offences (Amendment) Act 1993**|
+||Date of First Reading|30 July 1993|
+|||(Bill No. 21/93 published on 31 July 1993)|
+||Date of Second and Third Readings|30 August 1993|
+||Date of commencement|1 November 1993|
