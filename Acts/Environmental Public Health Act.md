@@ -346,6 +346,8 @@ PRELIMINARY
 
 (e) such other substance which the Minister may, by notification in theGazette, declare to be dangerous substance for the purpose of this Act;
 
+[Act 2/96 wef 02/02/1996 vide S 38/96]
+
 “disposal facility” includes a refuse disposal ground, any place used for the deposit of refuse or waste, an incinerator or any plant, machinery or apparatus used for the processing or treatment of refuse or waste;
 
 “dwelling-house” includes any building or tenement or any part thereof which is used, constructed or adapted for use for human habitation;
@@ -1832,3 +1834,8 @@ This Legislative History is provided for the convenience of users of the Environ
 |||(Bill No. 38/89 published on 7 October 1989)|
 ||Date of Second and Third Readings|30 November 1989|
 ||Date of commencement|15 January 1990|
+|4.|**Act 32 of 1992—Environmental Public Health (Amendment) Act 1992**|
+||Date of First Reading|31 July 1992|
+|||(Bill No. 31/92 published on 1 August 1992)|
+||Date of Second and Third Readings|14 September 1992|
+||Date of commencement|1 November 1992|
