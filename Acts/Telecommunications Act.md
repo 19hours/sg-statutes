@@ -20,6 +20,8 @@
 
 - [5 Power to license telecommunication systems and services](#Power-to-license-telecommunication-systems-and-services)
 
+- [5A Power to grant spectrum right](#Power-to-grant-spectrum-right)
+
 - [6 Designation of public telecommunication licensees](#Designation-of-public-telecommunication-licensees)
 
 - [7 Modification of licence conditions](#Modification-of-licence-conditions)
@@ -38,13 +40,13 @@
 
 - [13 Power to enter on State land for purposes of installation or plant](#Power-to-enter-on-State-land-for-purposes-of-installation-or-plant)
 
-- [14 Power to enter on other landfor purposes of installation or plant](#Power-to-enter-on-other-landfor-purposes-of-installation-or-plant)
+- [14 Power to enter on other land or building for purposes of installation or plant](#Power-to-enter-on-other-land-or-building-for-purposes-of-installation-or-plant)
 
 - [15 Savings of wayleave agreements](#Savings-of-wayleave-agreements)
 
 - [16 Inspection, maintenance and repair of installation or plant for telecommunications](#Inspection-maintenance-and-repair-of-installation-or-plant-for-telecommunications)
 
-- [17 Removal or alteration of installation or plant for telecommunications](#Removal-or-alteration-of-installation-or-plant-for-telecommunications)
+- [17 Alteration or relocation of public telecommunication licensee’s installation or plant](#Alteration-or-relocation-of-public-telecommunication-licensee’s-installation-or-plant)
 
 - [18 Removal of trees dangerous to or obstructing any installation or plant for telecommunications](#Removal-of-trees-dangerous-to-or-obstructing-any-installation-or-plant-for-telecommunications)
 
@@ -52,9 +54,9 @@
 
 - [20 Provision of facilities for radio-communication](#Provision-of-facilities-for-radio-communication)
 
-- [21 Provision of installation, plant or system or space or facilities by direction of Authority](#Provision-of-installation-plant-or-system-or-space-or-facilities-by-direction-of-Authority)
+- [21 Provision of space or facility or installation, plant or system by direction of Authority](#Provision-of-space-or-facility-or-installation-plant-or-system-by-direction-of-Authority)
 
-- [22 Sharing of installation, plant or system](#Sharing-of-installation-plant-or-system)
+- [22 (Repealed)](#Repealed)
 
 - [23 Disputes as to compensation](#Disputes-as-to-compensation)
 
@@ -79,6 +81,20 @@
 - [31 Licensed telecommunication cable detection workers](#Licensed-telecommunication-cable-detection-workers)
 
 - [32 Duty to enquire before excavation](#Duty-to-enquire-before-excavation)
+
+[**Part VA CONTROL OVER DESIGNATED TELECOMMUNICATION LICENSEES**](#Part-VA)
+
+- [32A Interpretation of this Part](#Interpretation-of-this-Part)
+
+- [32B Control of acquisition of designated telecommunication licensee](#Control-of-acquisition-of-designated-telecommunication-licensee)
+
+- [32C Power to issue code of practice relating to control of designated telecommunication licensees](#Power-to-issue-code-of-practice-relating-to-control-of-designated-telecommunication-licensees)
+
+- [32D Power to issue direction](#Power-to-issue-direction)
+
+- [32E Power of Authority to obtain information](#Power-of-Authority-to-obtain-information)
+
+- [32F Appointment of chief executive officer, director, etc., of designated telecommunication licensee](#Appointment-of-chief-executive-officer-director-etc-of-designated-telecommunication-licensee)
 
 [**Part VI OFFENCES AND PENALTIES**](#Part-VI)
 
@@ -160,7 +176,11 @@
 
 [**Part IX GENERAL PROVISIONS**](#Part-IX)
 
-- [69 Appeal to Minister](#Appeal-to-Minister)
+- [69 Reconsideration by Authority and appeal to Minister](#Reconsideration-by-Authority-and-appeal-to-Minister)
+
+- [69A Interest on sums unpaid](#Interest-on-sums-unpaid)
+
+- [69B Power of Minister to issue written order relating to acquisition of assets, etc., of telecommunication licensee](#Power-of-Minister-to-issue-written-order-relating-to-acquisition-of-assets-etc-of-telecommunication-licensee)
 
 - [70 Exclusion of liability of public telecommunication licensees](#Exclusion-of-liability-of-public-telecommunication-licensees)
 
@@ -205,6 +225,10 @@ PRELIMINARY
 2\. In this Act, unless the context otherwise requires —
 
 “Authority” means the Info-communications Development Authority of Singapore established under the Info-communications Development Authority of Singapore Act (Cap. 137A);
+
+“broadcasting apparatus” and “broadcasting service” have the same meanings as in the Broadcasting Act (Cap. 28);
+
+[10/2005 wef 16/02/2005]
 
 “Chief Executive” means the Chief Executive of the Authority and includes any temporary Chief Executive of the Authority appointed under section 10 of the Info-communications Development Authority of Singapore Act;
 
@@ -260,7 +284,7 @@ PRELIMINARY
 
 “telecommunication cable detection worker” means any person whose trade or occupation requires or includes the personal performance by him of telecommunication cable detection work;
 
-“telecommunication cable detection work licence” means a licence granted under section 29;
+“telecommunication cable detection work licence” means a licence granted under section 30;
 
 “telecommunication licensee” means a person to whom a licence has been granted under section 5;
 
@@ -332,9 +356,59 @@ and on such terms and conditions as may be agreed to by the licensee and such ot
 
 (5) The grant of licences under this section shall be at the discretion of the Authority.
 
-(6) Nothing in this section shall prevent the Minister from directing the Authority to grant a licence in any specific case and any person aggrieved by a refusal of the Authority to grant a licence may, within 14 days of the refusal, appeal to the Minister whose decision shall be final.
+(6) Nothing in this section shall prevent the Minister from directing the Authority to grant a licence in any specific case.
 
 (7) Anything done under and in accordance with a licence granted under subsection (1) shall not constitute an infringement of the privilege conferred by section 3.
+
+### Power to grant spectrum right
+
+5A\.—(1) The Authority may, with the consent of or in accordance with the terms of a general authority given by the Minister, grant any spectrum right —
+
+(a) unconditionally or subject to such conditions as the Authority may impose and specify in the grant of the spectrum right, including conditions on the sharing and trading of radio frequency spectrum; and
+
+(b) irrevocably or subject to revocation as specified in the grant of the spectrum right for the allocation and use of the radio frequency spectrum specified in the grant.
+
+[10/2005 wef 16/02/2005]
+
+(2) A spectrum right may be granted under subsection (1) to any person or class of persons, or to a particular person.
+
+[10/2005 wef 16/02/2005]
+
+(3) Any condition imposed under subsection (1)(a) requiring payment to be rendered to the Authority may be recovered by it in any court of competent jurisdiction as if it were a simple contract debt.
+
+[10/2005 wef 16/02/2005]
+
+(4) No person shall question whether the grant of a spectrum right under subsection (1) was, or was not, effected with the consent of or in accordance with the terms of a general authority given by the Minister, and the validity of a spectrum right granted under that subsection shall not be impugned on the ground that it was granted neither with the consent of nor in accordance with the terms of a general authority given by the Minister.
+
+[10/2005 wef 16/02/2005]
+
+(5) The grant of spectrum rights under subsection (1) shall be at the discretion of the Authority.
+
+[10/2005 wef 16/02/2005]
+
+(6) Nothing in this section shall prevent the Minister from directing the Authority to grant a spectrum right in any specific case.
+
+[10/2005 wef 16/02/2005]
+
+(7) Anything done under and in accordance with a spectrum right granted under subsection (1) shall not constitute an infringement of the privilege conferred by section 3.
+
+[10/2005 wef 16/02/2005]
+
+(8) For the purposes of giving effect to this section or any of the regulations referred to in subsection (9), the Authority may give directions to any person who has been granted a spectrum right under subsection (1) concerning the use of the spectrum right.
+
+[10/2005 wef 16/02/2005]
+
+(9) For the purposes of giving effect to this section, the Authority may by regulations made under section 74 —
+
+(a) provide for the variation of the conditions of the grant of any spectrum right;
+
+(b) provide for the resumption, by agreement or compulsorily, of any spectrum right or part of any spectrum right;
+
+(c) provide for the suspension or cancellation of the grant of any spectrum right or part of any spectrum right and the grounds therefor; and
+
+(d) impose a financial penalty not exceeding $1 million for the breach of any of the conditions of the grant of any spectrum right or of any direction issued under this section.
+
+[10/2005 wef 16/02/2005]
 
 ### Designation of public telecommunication licensees
 
@@ -358,13 +432,17 @@ and on such terms and conditions as may be agreed to by the licensee and such ot
 
 and, in either event, it shall thereupon issue a direction in writing to such licensee requiring that effect be given to the proposed modifications specified in the notice or to such modifications as subsequently amended by the Authority within a reasonable time.
 
-(4) Any public telecommunication licensee aggrieved by the decision of the Authority under subsection (3) may, within 14 days of the receipt by it of the direction, appeal to the Minister whose decision shall be final.
+(4) [Deleted by Act 10/2005 wef 16/02/2005]
 
 (5) The Authority shall not enforce its direction —
 
-(a) during the period referred to in subsection (4); and
+(a) during the period referred to in section 69(1) or (7);
 
-(b) whilst the appeal of the public telecommunication licensee is under consideration by the Minister.
+(b) whilst a reconsideration request of the public telecommunication licensee under section 69 in respect of a decision of the Authority under this section is under consideration by the Authority; or
+
+(c) whilst an appeal of the public telecommunication licensee under section 69 in respect of a decision of the Authority under this section is under consideration by the Minister.
+
+[10/2005 wef 16/02/2005]
 
 (6) If no written representation is received by the Authority within the time specified in subsection (2) or if any written representation made under subsection (2) is subsequently withdrawn, the Authority may forthwith carry out the modifications as specified in the notice given under subsection (2).
 
@@ -374,9 +452,13 @@ and, in either event, it shall thereupon issue a direction in writing to such li
 
 (a) any of the conditions of the licence or part thereof;
 
-(b) any provision of any code of practice or standard of performance; or
+(b) any provision of any code of practice or standard of performance;
 
-(c) any direction of the Authority given under section 27,
+(c) any direction of the Authority given under section 27, 32D or 32F(2); or
+
+(d) section 32B,
+
+[10/2005 wef 16/02/2005]
 
 the Authority may, by notice in writing, do either or both of the following:
 
@@ -384,15 +466,27 @@ the Authority may, by notice in writing, do either or both of the following:
 
 (ii) require the payment, within a specified period, of a financial penalty of such amount not exceeding $1 million as it thinks fit.
 
-(2) Where the Authority is satisfied that the person mentioned in subsection (1) is again likely to so contravene, whether by act or omission, the Authority may (in lieu of an order or financial penalty under subsection (1)(i) or (ii) or both) by notice in writing and without any compensation, do all or any of the following:
+(2) If the Authority is satisfied that —
 
-(a) cancel the licence or part thereof;
+(a) the person mentioned in subsection (1) is again likely to contravene, whether by act or omission, any condition, provision, direction or section referred to in that subsection;
 
-(b) suspend the licence or part thereof for such period as it thinks fit;
+(b) the person mentioned in subsection (1) has gone into liquidation other than for the purpose of amalgamation or reconstruction;
 
-(c) reduce the period for which the licence is to be in force.
+(c) the person mentioned in subsection (1) is no longer in a position to comply with this Act or the terms or conditions of his licence; or
 
-(3) Any person who is aggrieved by any decision of the Authority under subsection (1) may, within 14 days after such person has been given the notice in writing referred to in subsection (1), appeal to the Minister whose decision shall be final.
+(d) the public interest so requires,
+
+the Authority may (in lieu of an order or a financial penalty under subsection (1)(i) or (ii)) by notice in writing and without payment of any compensation, do all or any of the following:
+
+(i) cancel the licence or part thereof;
+
+(ii) suspend the licence or part thereof for such period as it thinks fit;
+
+(iii) reduce the period for which the licence is to be in force.
+
+[10/2005 wef 16/02/2005]
+
+(3) [Deleted by Act 10/2005 wef 16/02/2005]
 
 (4) An order under subsection (1)(i) —
 
@@ -402,7 +496,9 @@ the Authority may, by notice in writing, do either or both of the following:
 
 (c) may be revoked at any time by the Authority.
 
-(5) Any person who fails to comply with any order under subsection (1)(i) shall be guilty of an offence.
+(5) Any person who fails to comply with any order under subsection (1)(i) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+[10/2005 wef 16/02/2005]
 
 (6) In any proceedings brought against any person for an offence under subsection (5), it shall be a defence for him to prove that he took all reasonable steps and exercised all due diligence to avoid contravening the order.
 
@@ -474,17 +570,23 @@ ERECTION, MAINTENANCE AND REPAIR OF TELECOMMUNICATION INSTALLATIONS
 
 (a) enter upon any State land;
 
-(b) subject to the approval of the Authority and the Collector of Land Revenue, erect in or upon the State land such installation or plant used for telecommunications or excavate such trenches as may be necessary or proper for the purpose of providing the telecommunication service; and
+(b) subject to the approval of the Authority and the Singapore Land Authority, erect in or upon the State land such installation or plant used for telecommunications or excavate such trenches as may be necessary or proper for the purpose of providing the telecommunication service; and
 
 (c) carry out all necessary works in connection therewith, and may, in the course thereof, fell or lop trees, remove vegetation and do all other things necessary for that purpose.
 
+[10/2005 wef 16/02/2005]
+
 (2) Where any such work interferes with improvements, buildings, growing trees or crops, the licensee shall pay compensation for any damage or disturbance.
+
+[10/2005 wef 16/02/2005]
 
 (3) Where the land is occupied under a licence for temporary occupation, the compensation shall be paid to the occupant under the licence.
 
-### Power to enter on other landfor purposes of installation or plant
+[10/2005 wef 16/02/2005]
 
-14\.—(1) Subject to this section, whenever it is necessary to do so for the purposes of providing any telecommunication service under this Act, a public telecommunication licensee may under, upon or over any land, other than State land —
+### Power to enter on other land or building for purposes of installation or plant
+
+14\.—(1) Subject to this section, whenever it is necessary to do so for the purposes of providing any telecommunication service under this Act, a public telecommunication licensee may under, upon or over any land (other than State land) or in any building on any land —
 
 (a) lay, place or carry on and erect such installation or plant used for telecommunications as may be necessary or proper for such purposes; and
 
@@ -492,23 +594,41 @@ ERECTION, MAINTENANCE AND REPAIR OF TELECOMMUNICATION INSTALLATIONS
 
 and pay compensation to any person interested for any damage, disturbance or disability that may be caused thereby.
 
-(2) Any compensation payable under subsection (1) may include an annual payment for landor other immovable property used for the purpose of the public telecommunication licensee’s installation or plant.
+[10/2005 wef 16/02/2005]
 
-(3) A public telecommunication licensee shall not acquire any right other than that of user only in respect of any land or propertyunder, over, along, across, in or upon which the licensee places any installation or plant used for telecommunications under this section.
+(2) Any compensation payable under subsection (1) may include an annual payment for land, building or other immovable property used for the purpose of the public telecommunication licensee’s installation or plant.
 
-(4) Before entering on any landfor the purpose specified in subsection (1), a public telecommunication licensee shall give 14 days’ notice stating as fully and accurately as possible the nature and extent of the acts intended to be done.
+[10/2005 wef 16/02/2005]
 
-(5) The notice shall be given to the owner or occupier of the landin the manner provided under this Act.
+(3) A public telecommunication licensee shall not acquire any right other than that of user only in respect of any land, building or other property under, over, along, across, in or upon which the licensee places any installation or plant used for telecommunications under this section.
 
-(6) The owner or occupier of the landmay, within 14 days of the receipt of the notice referred to in subsection (4), lodge a written objection with the Authority and the Authority shall specify a date to inquire into any such objection.
+[10/2005 wef 16/02/2005]
 
-(7) If no objection is lodged within the time specified in subsection (6), the public telecommunication licensee may forthwith enter on the landand do all or any of the acts specified in the notice given under subsection (4).
+(4) Before entering on any land or building for the purpose specified in subsection (1), a public telecommunication licensee shall give 14 days’ notice stating as fully and accurately as possible the nature and extent of the acts intended to be done.
+
+[10/2005 wef 16/02/2005]
+
+(5) The notice shall be given to the owner or occupier of the land or building in the manner provided under this Act.
+
+[10/2005 wef 16/02/2005]
+
+(6) The owner or occupier of the land or building may, within 14 days of the receipt of the notice referred to in subsection (4), lodge a written objection with the Authority and the Authority shall specify a date to inquire into any such objection.
+
+[10/2005 wef 16/02/2005]
+
+(7) If no objection is lodged within the time specified in subsection (6), the public telecommunication licensee may forthwith enter on the land or enter the building and do all or any of the acts specified in the notice given under subsection (4).
+
+[10/2005 wef 16/02/2005]
 
 (8) If an objection is lodged and is not withdrawn before the date fixed for the hearing thereof, the Authority shall hold an enquiry, giving each party an opportunity to be heard.
 
-(9) Subject to subsection (10), upon the conclusion of the enquiry, the Authority may authorise, either unconditionally or subject to such terms, conditions and stipulations as it thinks fit, any of the acts mentioned in the notice given under subsection (4) to be carried out.
+[10/2005 wef 16/02/2005]
 
-(10) Any person aggrieved by any decision of the Authority under this section may, within 14 days of the conclusion of the enquiry, appeal to the Minister whose decision shall be final.
+(9) Upon the conclusion of the enquiry, the Authority may authorise, either unconditionally or subject to such terms, conditions and stipulations as it thinks fit, any of the acts mentioned in the notice given under subsection (4) to be carried out.
+
+[10/2005 wef 16/02/2005]
+
+(10) [Deleted by Act 10/2005 wef 16/02/2005]
 
 ### Savings of wayleave agreements
 
@@ -532,23 +652,19 @@ and pay compensation to any person interested for any damage, disturbance or dis
 
 and pay compensation to any person adversely affected for any damage that may be caused thereby for which compensation has not already been assessed under section 14.
 
-### Removal or alteration of installation or plant for telecommunications
+### Alteration or relocation of public telecommunication licensee’s installation or plant
 
-17\.—(1) Where a public telecommunication licensee’s installation or plant has been laid, placed, carried or erected on, under, upon or over any land under section 13 or 14, and any owner or occupier of the land or any person to or by whom the land is subsequently alienated or occupied desires to use the land in such manner as to render it necessary or convenient that such installation or plant should be removed to another part of the land, or to a higher or lower level, or altered in form, he may require that licensee to remove or alter such installation or plant accordingly.
+17\.—(1) Where a public telecommunication licensee’s installation or plant has been laid, placed, carried or erected in, on, over, under, upon, along or across any land or building under section 13 or 14, as the case may be, and the owner or occupier of the land or building desires to use the land or building in a manner which renders it necessary or convenient for such installation or plant to be altered, removed, relocated or diverted, the owner or occupier may request the public telecommunication licensee to alter, remove, relocate or divert such installation or plant accordingly.
 
-(2) If the licensee fails to comply with the requisition, the person may apply in writing to the Authority and the Authority shall, as soon as practicable, specify a date to inquire into the facts of the case.
+[10/2005 wef 16/02/2005]
 
-(3) Subject to subsection (8), upon the conclusion of the enquiry, the Authority may require, subject to such terms, conditions and stipulations as it thinks fit, the removal or alteration of such installation or plant.
+(2) The public telecommunication licensee shall, at the request of the owner or occupier of the land or building under subsection (1), alter, remove, relocate or divert the installation or plant if it is satisfied that such alteration, removal, relocation or diversion is reasonable and the owner or occupier complies with such reasonable terms and conditions as the licensee may impose.
 
-(4) Whenever a public telecommunication licensee’s installation or plant has been laid, placed, carried or erected on any State land by such licensee, and the land is subsequently alienated to any person, the owner or occupier of the land may, unless the terms of alienation expressly provide otherwise, require the removal to another part of the land, or to a higher or lower level, of such installation or plant, and subsections (1), (2) and (3) shall apply to any such requisition, and the costs of executing the removal shall be defrayed by the person making the requisition.
+[10/2005 wef 16/02/2005]
 
-(5) Where an owner of any land desires to use his land for the purposes of development and he considers it necessary that a public telecommunication licensee’s installation or plant that has been laid, placed, carried or erected on his land should be removed therefrom, he may request the licensee to remove the same from his land.
+(3) The terms and conditions a public telecommunication licensee may impose under subsection (2) may include terms and conditions relating to the payment by the owner or occupier of the land or building of all costs and expenses necessary for such alteration, removal, relocation or diversion.
 
-(6) Where a public telecommunication licensee undertakes the work of removal pursuant to the request of the owner under subsection (5), the owner shall pay compensation to the licensee.
-
-(7) Subject to subsection (8), if a public telecommunication licensee does not intend to undertake the work of removal pursuant to the request of the owner under subsection (5), that licensee shall, by notice in writing, inform the owner and the Authority of its intention and the Authority shall specify a date not less than 14 days from the date of the notice to inquire into the facts of the case.
-
-(8) Any person aggrieved by any decision of the Authority under this section may, within 14 days of the conclusion of the enquiry, appeal to the Minister whose decision shall be final.
+[10/2005 wef 16/02/2005]
 
 ### Removal of trees dangerous to or obstructing any installation or plant for telecommunications
 
@@ -588,33 +704,59 @@ and pay compensation to any person adversely affected for any damage that may be
 
 (5) For the purposes of this section and section 19, “a building” means any permanent or temporary building and includes any structure or erection of any kind (whether permanent or temporary) and any extension, modification or alteration made thereto.
 
-### Provision of installation, plant or system or space or facilities by direction of Authority
+### Provision of space or facility or installation, plant or system by direction of Authority
 
-21\.—(1) Where the Authority considers it necessary that any telecommunication service should be provided to any building, whether completed or not, or that the quality of a telecommunication service provided to any building be enhanced, the Authority may by direction —
+21\.—(1) Where the Authority considers it necessary that any telecommunication service should be provided to any land or building, whether completed or not, or that the quality of a telecommunication service provided to any land or building should be enhanced, the Authority may by direction —
 
-(a) require, in connection with paragraph (b), the developer or owner of the building or land to provide at his expense, within such period as may be specified in the direction, such space and facilities within or on the building or land, and access thereto, as the Authority may specify in the direction; and
+(a) require the developer or owner of the land or building to provide at his expense, within such period as may be specified in the direction, such space or facility within or on the land or building, and access thereto, as the Authority may specify in its direction; and
 
-(b) require any telecommunication licensee to install, within such period as may be specified in the direction, such installation, plant or system as the Authority considers necessary for the provision, or the enhancement of quality, of the telecommunication service.
+(b) require any telecommunication licensee to install, within such period as may be specified in the direction, such installation, plant or system as the Authority considers necessary for the provision, or the enhancement of quality, of the telecommunication service to the land or building.
 
-(2) Any direction under subsection (1) may include —
+[10/2005 wef 16/02/2005]
 
-(a) a requirement that the telecommunication licensee shall contribute, wholly or partly, to such costs and expenses incurred for the provision of any installation, plant or system, or space or facilities under subsection (1) as the Authority may determine; and
+(2) Where a telecommunication licensee is using any space or facility provided by the developer or owner of any land or building pursuant to any direction under subsection (1) or any code of practice issued by the Authority, and the licensee intends to use that space or facility to provide any telecommunication service or to enhance the quality of any telecommunication service provided to any other land or building, the licensee shall notify the developer or owner of the licensee’s intention.
 
-(b) such other requirements as the Authority may specify.
+[10/2005 wef 16/02/2005]
 
-(3) Any person who fails to comply with any requirement in a direction under subsection (1) shall be guilty of an offence.
+(3) Where the developer or owner objects to the use of the space or facility for a purpose referred to in subsection (2), the telecommunication licensee shall refer the matter to the Authority for determination.
 
-### Sharing of installation, plant or system
+[10/2005 wef 16/02/2005]
 
-22\.—(1) The Authority may direct any telecommunication licensee to co-ordinate and co-operate, in such manner and on such terms as the Authority may specify, with any other person, in the use or sharing of any installation, plant or system, or part thereof, used for telecommunications.
+(4) The Authority may, upon being satisfied by the telecommunication licensee that the use of the space or facility for a purpose referred to in subsection (2) would be reasonable, by direction —
 
-(2) Any person who fails to comply with any direction under subsection (1) shall be guilty of an offence.
+(a) require the developer or owner of the land or building to allow the licensee to use the space or facility; and
+
+(b) require the licensee to install and operate any installation, plant or system within the space or facility,
+
+in such manner and on such terms as the Authority may specify in the direction.
+
+[10/2005 wef 16/02/2005]
+
+(5) Any direction under subsection (1) or (4) may include —
+
+(a) a requirement that the telecommunication licensee shall contribute, wholly or partly, to such costs and expenses incurred for the provision and use of any space or facility or installation, plant or system under subsection (1) or (4) as the Authority may determine;
+
+(b) terms and conditions relating to the payment of costs and expenses necessary for any alteration, removal, relocation or diversion of the installation, plant or system that may subsequently be required; and
+
+(c) such other requirements as the Authority may specify.
+
+[10/2005 wef 16/02/2005]
+
+(6) Any direction under subsection (1) or (4) may be varied, suspended or revoked at any time by the Authority.
+
+[10/2005 wef 16/02/2005]
+
+(7) Any person who fails to comply with any requirement in a direction under this section shall be guilty of an offence.
+
+[10/2005 wef 16/02/2005]
+
+22\. [Deleted by Act 10/2005 wef 16/02/2005]
 
 ### Disputes as to compensation
 
-23\.—(1) If any dispute arises concerning the sufficiency of compensation to be paid under sections 12(2), 13(2), 14(1), 16(2), 17(6), 18(3) and 20(4), it shall, on application for that purpose by any aggrieved person to the Authority, be determined by the Authority.
+23\. If any dispute arises under sections 12(2), 13(2), 14(1), 16(2), 18(3) and 20(4), it shall, on application for that purpose by any aggrieved person to the Authority, be determined by the Authority.
 
-(2) If any aggrieved person is dissatisfied with the Authority’s determination, he may, within 14 days of the determination, appeal to the Minister whose decision shall be final.
+[10/2005 wef 16/02/2005]
 
 ### Precautions in execution of work
 
@@ -632,19 +774,57 @@ CODES OF PRACTICE AND DIRECTIONS
 
 ### Codes of practice and standards of performance
 
-26\.—(1) The Authority may issue or approve and, from time to time, review codes of practice and standards of performance in connection with —
+26\.—(1) The Authority may, by notification in theGazetteor in any other manner it considers appropriate, issue or approve one or more codes of practice and standards of performance for or in connection with —
 
 (a) the operation of telecommunication systems and equipment;
 
-(b) the provision of telecommunication services; and
+(b) the provision of telecommunication services;
 
-(c) the conduct of telecommunication licensees in the provision of telecommunication services.
+(c) the activities and conduct of telecommunication licensees in the provision of telecommunication services;
 
-(2) If any provision in any code of practice or standard of performance issued or approved by the Authority is inconsistent with any regulations made under this Act, such provision shall, to the extent of the inconsistency, either have effect subject to such regulation or, where appropriate, having regard to such regulation, shall not have effect.
+(d) competition, abuse of a dominant position in the market and fair market conduct in the telecommunication industry in Singapore;
 
-(3) The Authority may exempt, either generally or for such time as the Authority may specify, any telecommunication licensee from any provision in any code of practice or standard of performance.
+(e) the acquisitions or consolidations involving a telecommunication licensee and any other person (whether a telecommunication licensee or otherwise);
 
-(4) Every telecommunication licensee shall comply with the relevant codes of practice and standards of performance.
+(f) the provision and use of, and access to, space and facilities within or on a land or building for the operation of any installation, plant or system used for telecommunications, and the allocation of costs and expenses incurred in relation thereto; and
+
+(g) the carrying out of the purposes and provisions of this Act and for the due administration thereof.
+
+[10/2005 wef 16/02/2005]
+
+(2) A code of practice may, in particular —
+
+(a) specify the duties and obligations of any person in relation to his business operation in the telecommunication industry;
+
+(b) specify that the provision of any space or facility within or on any land or building for the operation of any installation, plant or system used for telecommunications shall be at the expense of the developer, owner or occupier of the land or building; and
+
+(c) provide for such fees or charges as may be payable to the Authority in relation to any application or request made to it.
+
+[10/2005 wef 16/02/2005]
+
+(3) If any provision in any code of practice or standard of performance issued or approved by the Authority is inconsistent with any regulations made under this Act, such provision shall, to the extent of the inconsistency, either have effect subject to such regulation or, where appropriate, having regard to such regulation, shall not have effect.
+
+[10/2005 wef 16/02/2005]
+
+(4) The Authority may at any time review, add to, vary or revoke any code of practice or standard of performance.
+
+[10/2005 wef 16/02/2005]
+
+(5) The Authority may exempt, either generally or subject to such terms or conditions as the Authority may specify, any person from all or any of the provisions in any code of practice or standard of performance.
+
+[10/2005 wef 16/02/2005]
+
+(6) An exemption granted under subsection (5) need not be published in theGazette.
+
+[10/2005 wef 16/02/2005]
+
+(7) Any person to whom a code of practice or standard of performance applies shall comply with the relevant code of practice or standard of performance.
+
+[10/2005 wef 16/02/2005]
+
+(8) Any person who fails to comply with any code of practice issued under subsection (1)(f) shall be guilty of an offence.
+
+[10/2005 wef 16/02/2005]
 
 ### Directions affecting telecommunication licensees
 
@@ -654,7 +834,11 @@ CODES OF PRACTICE AND DIRECTIONS
 
 (b) to ensure the technical compatibility and safety of operation of any equipment or telecommunication system;
 
-(c) to ensure fair and efficient market conduct by telecommunication licensees; or
+(c) to ensure fair and efficient market conduct by telecommunication licensees;
+
+(ca) to ensure the co-ordination and co-operation, on such terms as the Authority may specify, with any other person in the use or sharing of any installation, plant or system, or part thereof owned or used by the telecommunication licensee for the provision of any telecommunication or broadcasting service; or
+
+[10/2005 wef 16/02/2005]
 
 (d) in the public interest.
 
@@ -664,17 +848,19 @@ CODES OF PRACTICE AND DIRECTIONS
 
 (b) shall take effect at such time, being the earliest practicable time, as is determined by or under that direction; and
 
-(c) may be revoked at any time by the Authority.
+(c) may be varied, suspended or revoked at any time by the Authority.
 
-(3) Before giving a direction to any telecommunication licensee under subsection (1) , the Authority shall, unless the Authority in respect of any particular direction considers that it is not practicable or desirable, give notice —
+[10/2005 wef 16/02/2005]
 
-(a) stating that the Authority proposes to makethe direction and setting out its effect; and
+(3) Before giving a direction to any telecommunication licensee under subsection (1) or varying a direction under subsection (2)(c), the Authority shall, unless the Authority in respect of any particular direction considers that it is not practicable or desirable, give notice —
 
-(b) specifying the time within which representations or objections to the proposed directionmay be made,
+(a) stating that the Authority proposes to make or vary the direction and setting out its effect; and
+
+(b) specifying the time within which representations or objections to the proposed direction or variation may be made,
 
 and shall consider any representations or objections which are duly made.
 
-(4) Any telecommunication licensee who is aggrieved by any direction of the Authority under subsection (1) may, within 14 days after the licensee is served with the direction, appeal to the Minister whose decision shall be final.
+(4) [Deleted by Act 10/2005 wef 16/02/2005]
 
 (5) Every telecommunication licensee shall comply with every direction of the Authority given to the licensee under this section.
 
@@ -766,13 +952,225 @@ TELECOMMUNICATION CABLE DETECTION WORK
 
 ### Licensed telecommunication cable detection workers
 
-31\.—(1) Any person who, not being a licensed telecommunication cable detection worker, advertises or holds himself out or conducts himself in any way or by any means as a person who is a licensed telecommunication cable detection worker shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 yearsor to both.
+31\.—(1) Any person who, not being a licensed telecommunication cable detection worker, advertises or holds himself out or conducts himself in any way or by any means as a person who is a licensed telecommunication cable detection worker shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[10/2005 wef 16/02/2005]
 
 (2) No person other than a licensed telecommunication cable detection worker shall be entitled to recover in any court any charge, fee or remuneration for any telecommunication cable detection work performed or carried out by the person.
 
 ### Duty to enquire before excavation
 
-32\. Any person who digs, bores, trenches, grades, excavates or breaks any ground with any mechanical equipment or explosive or allows his employee or agent to do so without first ascertaining the location of any telecommunication cable belonging to or under the management or control of any telecommunication system licensee that may be interfered with shall be guilty of an offence.
+32\. Any person who digs, bores, trenches, grades, excavates or breaks any ground with any mechanical equipment or explosive or allows his employee or agent to do so without first ascertaining the location of any telecommunication cable belonging to or under the management or control of any telecommunication system licensee that may be interfered with shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+[10/2005 wef 16/02/2005]
+
+## PART VA
+
+CONTROL OVER DESIGNATED TELECOMMUNICATION LICENSEES
+
+[10/2005 wef 16/02/2005]
+
+### Interpretation of this Part
+
+32A\.—(1) In this Part —
+
+“consolidation” has the meaning given to it in the code of practice referred to in section 32C;
+
+“designated telecommunication licensee” means a telecommunication licensee which has been declared or which is of a class of telecommunication licensees which has been declared by the Authority, by notification in theGazette, to be a designated telecommunication licensee for the purposes of this Part;
+
+“ownership interest” has the meaning given to it in the code of practice referred to in section 32C;
+
+“voting share” has the same meaning as in section 4(1) of the Companies Act (Cap. 50).
+
+[10/2005 wef 16/02/2005]
+
+(2) In relation to a designated telecommunication licensee the whole or a portion of the share capital of which consists of stock, an interest of a person in any such stock shall be deemed to be an interest in an issued share in the designated telecommunication licensee having the same nominal amount as the amount of that stock and having attached to it the same rights as are attached to that stock.
+
+[10/2005 wef 16/02/2005]
+
+(3) The Authority may, by notification in theGazette, vary or revoke any declaration of a designated telecommunication licensee.
+
+[10/2005 wef 16/02/2005]
+
+### Control of acquisition of designated telecommunication licensee
+
+32B\.—(1) A designated telecommunication licensee shall give notice in writing, in the prescribed manner and within the prescribed period, to the Authority if any person acquires an ownership interest in the voting shares of the designated telecommunication licensee, whether by a series of transactions over a period of time or otherwise, that would result in that person holding an ownership interest of 5% or more but less than 12% of the voting shares in that designated telecommunication licensee.
+
+[10/2005 wef 16/02/2005]
+
+(2) Subject to subsection (3), no person shall, whether through a series of transactions over a period of time or otherwise, become —
+
+(a) a 12% controller; or
+
+(b) a 30% controller,
+
+of a designated telecommunication licensee without obtaining the written approval of the Authority in the prescribed manner and within the prescribed period.
+
+[10/2005 wef 16/02/2005]
+
+(3) To the extent that the acquisition by a person of an ownership interest in the voting shares in a designated telecommunication licensee under subsection (2) constitutes a consolidation with that designated telecommunication licensee, the person and the designated telecommunication licensee shall, in addition to the approval required under that subsection, obtain the written approval of the Authority in the prescribed manner and within the prescribed period.
+
+[10/2005 wef 16/02/2005]
+
+(4) No person shall acquire the business of a designated telecommunication licensee conducted pursuant to a telecommunication licence granted under section 5 as a going concern, unless the person and the designated telecommunication licensee obtain the written approval of the Authority in the prescribed manner and within the prescribed period.
+
+[10/2005 wef 16/02/2005]
+
+(5) In subsection (2) —
+
+“12% controller”, in relation to a designated telecommunication licensee, means a person, not being a 30% controller, who holds an ownership interest in the voting shares of the designated telecommunication licensee of 12% or more;
+
+“30% controller”, in relation to a designated telecommunication licensee, means a person who holds an ownership interest in the voting shares of the designated telecommunication licensee of 30% or more.
+
+[10/2005 wef 16/02/2005]
+
+### Power to issue code of practice relating to control of designated telecommunication licensees
+
+32C\.—(1) Without prejudice to the generality of section 26, the Authority may issue a code of practice under that section which specifies such matters as are generally necessary for carrying out the purposes and provisions of this Part and for the due administration thereof.
+
+[10/2005 wef 16/02/2005]
+
+(2) Without prejudice to the generality of subsection (1), the Authority may specify in the code of practice —
+
+(a) the circumstances under which a person would be considered to have an ownership interest in the voting shares of a designated telecommunication licensee;
+
+(b) the circumstances under which a person would be considered to have entered into a consolidation with a designated telecommunication licensee;
+
+(c) the circumstances under which a person would be considered to have acquired the business of a designated telecommunication licensee as a going concern;
+
+(d) the categories of persons that shall obtain the written approval of the Authority for —
+
+(i) any consolidation with a designated telecommunication licensee; or
+
+(ii) an acquisition of the business of a designated telecommunication licensee;
+
+(e) the duties and obligations of a designated telecommunication licensee and a person acquiring the business as a going concern or an ownership interest in the voting shares of a designated telecommunication licensee;
+
+(f) the rules and procedures that a designated telecommunication licensee and a person acquiring the business as a going concern or an ownership interest in the voting shares of a designated telecommunication licensee must comply with;
+
+(g) the terms and conditions which the Authority may impose in granting any approval under section 32B; and
+
+(h) the circumstances under which a person who holds voting shares in the designated telecommunication licensee would be considered to be an affiliate of the specified person under section 32D.
+
+[10/2005 wef 16/02/2005]
+
+### Power to issue direction
+
+32D\.—(1) Without prejudice to section 27, if the Authority is satisfied that a person has —
+
+(a) acquired an ownership interest in the voting shares of a designated telecommunication licensee;
+
+(b) entered into a consolidation with a designated telecommunication licensee; or
+
+(c) acquired the business of a designated telecommunication licensee as a going concern,
+
+(referred to in this section as the specified person), in contravention of section 32B(2), (3) or (4), or that the acquisition or consolidation is likely to substantially lessen competition or is against the public interest, the Authority may issue a direction under subsection (3) or (4), as the case may be.
+
+[10/2005 wef 16/02/2005]
+
+(2) The Authority may issue a direction under subsection (3) or (4) if the Authority is satisfied that —
+
+(a) any condition of approval imposed on the person has not been complied with;
+
+(b) the person has furnished false or misleading information or documents in connection with an application under section 32B to obtain the approval of the Authority; or
+
+(c) the Authority would not have granted its approval under section 32B had it been aware, at that time, of circumstances relevant to the person’s application for such approval,
+
+and the existing ownership interest in the designated telecommunication licensee held by the person is likely to substantially lessen competition or be against the public interest.
+
+[10/2005 wef 16/02/2005]
+
+(3) The Authority may, under the circumstances specified in subsection (1)(a) or (b) or (2), direct —
+
+(a) the designated telecommunication licensee to do all or any of the following:
+
+(i) to restrict the exercise of all or any of the voting rights in respect of the shares through which any specified person has an ownership interest in the designated telecommunication licensee (referred to in this section as the specified shares), unless the Authority expressly permits such rights to be exercised;
+
+(ii) to restrict the issuance or offer of shares in the designated telecommunication licensee (whether by way of rights, bonus or otherwise) in respect of the specified shares, unless the Authority expressly permits such issue or offer;
+
+(iii) except in a liquidation of the designated telecommunication licensee, to restrict the payment of any amount (whether by way of dividends or otherwise) in respect of the specified shares, unless the Authority expressly authorises such payments subject to such conditions as the Authority may specify; and
+
+(b) any specified person or an affiliate of the specified person to transfer or dispose of all or any part of the specified shares within such time and subject to such conditions as the Authority considers appropriate.
+
+[10/2005 wef 16/02/2005]
+
+(4) The Authority may, under the circumstances specified in subsection (1)(c) or (2), direct any specified person to transfer or dispose of all or any part of the business acquired from the designated telecommunication licensee within such time and subject to such conditions as the Authority considers appropriate.
+
+[10/2005 wef 16/02/2005]
+
+(5) Before issuing a direction to any person under subsection (3) or (4), the Authority shall, unless the Authority decides that it is not practicable or desirable to do so, cause to be given to that person notice in writing of the Authority’s intention to serve the direction, specifying a date by which that person may make written representations with regard to the proposed direction.
+
+[10/2005 wef 16/02/2005]
+
+(6) Upon receipt of any written representation referred to in subsection (5), the Authority shall consider it for the purpose of determining whether to issue the direction.
+
+[10/2005 wef 16/02/2005]
+
+(7) Any person to whom a direction is given under subsection (3) or (4) shall comply with the direction and the direction shall take effect notwithstanding the provisions of any other written law or anything contained in the memorandum or articles of association, or other constitution, of the designated telecommunication licensee.
+
+[10/2005 wef 16/02/2005]
+
+(8) The Authority may vary or revoke any direction issued under this section.
+
+[10/2005 wef 16/02/2005]
+
+### Power of Authority to obtain information
+
+32E\.—(1) Without prejudice to sections 27 and 59, the Authority may, by notice in writing, direct any designated telecommunication licensee to obtain from any of its shareholders and to transmit to the Authority information —
+
+(a) as to whether that shareholder holds any share in the designated telecommunication licensee as a beneficial owner or trustee; and
+
+(b) if the shareholder holds the share as a trustee, to indicate as far as he can, the person for whom he holds the share (either by name or by other particulars sufficient to enable that person to be identified) and the nature of his interest,
+
+and the designated telecommunication licensee shall comply with that direction within such time as may be specified in the notice.
+
+[10/2005 wef 16/02/2005]
+
+(2) The Authority may, by notice in writing, require any shareholder of a designated telecommunication licensee to inform the Authority whether he holds that interest as a beneficial owner or trustee, and if he holds the interest as trustee, to indicate so far as he can, the person for whom he holds the interest (either by name or by other particulars sufficient to enable that person to be identified) and the nature of his interest.
+
+[10/2005 wef 16/02/2005]
+
+(3) Any person who —
+
+(a) fails to comply with a notice under this section; or
+
+(b) in purported compliance of the notice, knowingly or recklessly, makes a statement which is false in a material particular,
+
+shall be guilty of an offence and shall be liable on conviction —
+
+(i) in the case of an individual, to a fine not exceeding $125,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $12,500 for every day or part thereof during which the offence continues after conviction; or
+
+(ii) in any other case, to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
+
+[10/2005 wef 16/02/2005]
+
+### Appointment of chief executive officer, director, etc., of designated telecommunication licensee
+
+32F\.—(1) No designated telecommunication licensee shall appoint a person as its chief executive officer, its director or the chairman of its board of directors unless it has obtained the approval of the Authority.
+
+[10/2005 wef 16/02/2005]
+
+(2) Where a person has been appointed by a designated telecommunication licensee as its chief executive officer, its director, or the chairman of its board of directors without the approval of the Authority in contravention of subsection (1), the Authority may issue a direction to the licensee to remove that person as its chief executive officer, its director or the chairman of its board of directors, as the case may be.
+
+[10/2005 wef 16/02/2005]
+
+(3) This section shall have effect notwithstanding the provisions of any other written law or of the memorandum or articles of association, or other constitution, of the designated telecommunication licensee.
+
+[10/2005 wef 16/02/2005]
+
+(4) In this section —
+
+“chief executive officer”, in relation to a designated telecommunication licensee, means any person, by whatever name described, who is —
+
+(a) in the direct employment of, or acting for or by arrangement with, the designated telecommunication licensee; and
+
+(b) principally responsible for the management and conduct of any type of business of the designated telecommunication licensee in Singapore,
+
+and includes any person for the time being performing all or any of the functions or duties of a chief executive officer;
+
+“director” has the same meaning as in section 4(1) of the Companies Act (Cap. 50).
+
+[10/2005 wef 16/02/2005]
 
 ## PART VI
 
@@ -870,17 +1268,21 @@ shall be guilty of an offence.
 
 (c) to commit mischief,
 
-damages, removes, tampers with or touches any installation or plant or any part thereof used for telecommunications belonging to a public telecommunication licensee or interferes with the radio- communication service or system of a public telecommunication licensee shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
+damages, removes, tampers with or touches any installation or plant or any part thereof used for telecommunications belonging to a public telecommunication licensee or interferes with the radio- communication service or system of a public telecommunication licensee shall be guilty of an offence.
+
+[10/2005 wef 16/02/2005]
 
 ### Offences by officer, employee or agent of public telecommunication licensees
 
 42\.—(1) Any officer, employee or agent of a public telecommunication licensee who —
 
-(a) wilfully secretes, makes away with or alters any message or record of any message; or
+(a) wilfully divulges, makes away with or alters any message or record of any message; or
 
 (b) except in obedience to an order under the hand of the Minister or the direction of a court, wilfully omits to transmit or intercepts or acquaints himself with or detains any message or part thereof or deliberately causes a call or connection to be disconnected or not to be connected,
 
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
+shall be guilty of an offence.
+
+[10/2005 wef 16/02/2005]
 
 (2) Subsection (1)(b) shall not apply to —
 
@@ -890,7 +1292,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Fraudulent use of telecommunication service
 
-43\. Any person who dishonestly uses or permits another person to use any telecommunication service provided by a telecommunication licensee with intent to avoid payment of any charge applicable to the provision of that service shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
+43\. Any person who dishonestly uses or permits another person to use any telecommunication service provided by a telecommunication licensee with intent to avoid payment of any charge applicable to the provision of that service shall be guilty of an offence.
+
+[10/2005 wef 16/02/2005]
 
 ### Possession or supply of any thing for fraudulent purpose in connection with use of telecommunication service
 
@@ -940,11 +1344,13 @@ he shall be guilty of an offence.
 
 46\. Any person who —
 
-(a) fraudulently retains or wilfully secretes, makes away with or detains a message or record of a message which ought to have been delivered to some other person; or
+(a) fraudulently retains or wilfully divulges, makes away with or detains a message or record of a message which ought to have been delivered to some other person; or
 
 (b) being required by a public telecommunication licensee to deliver up any such message or record of such message neglects or refuses to do so,
 
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
+shall be guilty of an offence.
+
+[10/2005 wef 16/02/2005]
 
 ### Protection of installation or plant used for telecommunications
 
@@ -990,7 +1396,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Penalty for removing any mark denoting used device for telephony purposes
 
-51\.—(1) Any person who, with fraudulent intent, erases or removes from any device, any mark put or impressed upon the device denoting that the same has been used, or sells or uses any such device shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
+51\.—(1) Any person who, with fraudulent intent, erases or removes from any device, any mark put or impressed upon the device denoting that the same has been used, or sells or uses any such device shall be guilty of an offence.
+
+[10/2005 wef 16/02/2005]
 
 (2) For the purpose of this section, “device” means any device provided for use by a public telecommunication licensee for accessing any telecommunication equipment of the licensee to enable the telecommunication service of the licensee to be used.
 
@@ -1046,7 +1454,9 @@ INTERNATIONAL OBLIGATIONS AND NATIONAL INTERESTS
 
 ### Directions by Minister
 
-58\.—(1) The Minister may, after consultation with the Authority or any public telecommunication licensee, give to the Authority or licensee, as the case may be, such directions as the Minister thinks fit as to the exercise by the Authority or that licensee of its functions under this Act.
+58\.—(1) The Minister may, after consultation with the Authority or any telecommunication licensee, give to the Authority or licensee, as the case may be, such directions as the Minister thinks fit as to the exercise by the Authority or that licensee of its functions under this Act.
+
+[10/2005 wef 16/02/2005]
 
 (2) Without prejudice to subsection (1), if it appears to the Minister to be requisite or expedient to do so —
 
@@ -1060,7 +1470,9 @@ INTERNATIONAL OBLIGATIONS AND NATIONAL INTERESTS
 
 (iii) to enable the Government to become a member of an international organisation or a party to an international agreement,
 
-the Minister may, after consultation with the Authority or any public telecommunication licensee, give such directions to the Authority or that licensee as are necessary in the circumstances of the case.
+the Minister may, after consultation with the Authority or any telecommunication licensee, give such directions to the Authority or that licensee as are necessary in the circumstances of the case.
+
+[10/2005 wef 16/02/2005]
 
 (3) Any direction given under subsection (1) or (2) may include —
 
@@ -1072,15 +1484,21 @@ the Minister may, after consultation with the Authority or any public telecommun
 
 (4) Nothing in any direction given under subsection (3) shall apply to the use of any telecommunications for the purpose of making or answering signals of distress.
 
-(5) The Authority and any public telecommunication licensee shall give effect to any direction given to it under subsection (1) or (2) notwithstanding any other duty imposed on the Authority or the licensee by or under this Act.
+(5) The Authority and any telecommunication licensee shall give effect to any direction given to it under subsection (1) or (2) notwithstanding any other duty imposed on the Authority or the licensee by or under this Act.
 
-(6) The Authority and any public telecommunication licensee shall not disclose any direction given to that person under subsection (1) or (2) if the Minister notifies that person that the Minister is of the opinion that the disclosure of the directions is against the public interest.
+[10/2005 wef 16/02/2005]
+
+(6) The Authority and any telecommunication licensee shall not disclose any direction given to that person under subsection (1) or (2) if the Minister notifies that person that the Minister is of the opinion that the disclosure of the directions is against the public interest.
+
+[10/2005 wef 16/02/2005]
 
 (7) The Minister may —
 
-(a) pay compensation for any damage caused to a public telecommunication licensee by reason of its compliance with the directions of the Minister under subsection (3)(b); or
+(a) pay compensation for any damage caused to a telecommunication licensee by reason of its compliance with the directions of the Minister under subsection (3)(b); or
 
-(b) make grants to public telecommunication licensees for defraying or contributing towards any losses which they may sustain by reason of their compliance with the directions of the Minister under any other provisions of this section.
+(b) make grants to telecommunication licensees for defraying or contributing towards any losses which they may sustain by reason of their compliance with the directions of the Minister under any other provisions of this section.
+
+[10/2005 wef 16/02/2005]
 
 (8) Any sums required by the Minister for paying compensation or making grants under subsection (7) shall be paid out of the Consolidated Fund.
 
@@ -1092,19 +1510,17 @@ ENFORCEMENT POWERS AND PROCEDURES
 
 ### Power to require information, etc.
 
-59\.—(1) The Authority or any officer authorised by the Authority in that behalf may, for the purpose of discharging its functions under this Act, by order —
+59\.—(1) The Authority or any officer authorised by the Authority in that behalf may, for the purposes of conducting an investigation or for discharging its functions under this Act, by order require any person to produce to the Authority any document, or to provide the Authority with any information, which the Authority considers to be related to any matter relevant to the investigation or for discharging its functions under this Act.
 
-(a) require any person to furnish the Authority with any information in his possession which relates to any telecommunication service or telecommunication system; and
+[10/2005 wef 16/02/2005]
 
-(b) require any person who has in his custody or under his control any document which relates to any telecommunication service or telecommunication system —
+(2) The Authority or the officer authorised by the Authority in that behalf shall be entitled without payment to keep any copy or extract of any document furnished to him under subsection (1).
 
-(i) to furnish the Authority with a copy of or extract from the document; or
+[10/2005 wef 16/02/2005]
 
-(ii) unless the document forms part of the records or other documents of a court or public authority, to transmit the document itself to the Authority for inspection.
+(3) The Authority or any officer authorised by the Authority in that behalf shall at all reasonable times in the day have full and free access to all buildings, places, books, documents and other papers for the purpose of conducting an investigation or discharging its functions under this Act, and may, without payment, inspect, copy or make extracts from any such books, documents or papers.
 
-(2) The Authority or the officer authorised by the Authority in that behalf shall be entitled without payment to keep any copy or extractfurnished to him under subsection (1).
-
-(3) The Authority or any officer authorised by the Authority in that behalf shall at all reasonable times in the day have full and free access to all buildings, places, books, documents and other papers for the purpose of discharging its functions under this Act, and may, without payment, inspect, copy or make extracts from any such books, documents or papers.
+[10/2005 wef 16/02/2005]
 
 (4) The Authority may take possession of any equipment, books, documents or papers where in its opinion —
 
@@ -1114,6 +1530,14 @@ ENFORCEMENT POWERS AND PROCEDURES
 
 (5) The rights conferred by this section shall, in relation to information recorded otherwise than in legible form, include the right to require the information to be made available in legible form for inspection or for a copy or extract to be made of or from it.
 
+(5A) The power under this section to require a person to produce a document includes the power —
+
+(a) if the document is produced, to require such person, or any person who is a present or past officer of his or is or was at any time employed by him, to provide an explanation of the document; or
+
+(b) if the document is not produced, to require such person to state, to the best of his knowledge and belief, where it is.
+
+[10/2005 wef 16/02/2005]
+
 (6) Any person who —
 
 (a) fails to comply with any requirement specified in any order under subsection (1);
@@ -1122,9 +1546,29 @@ ENFORCEMENT POWERS AND PROCEDURES
 
 (c) in furnishing any information required of him under any order under subsection (1), makes any statement which he knows to be false in a material particular, or recklessly makes any statement which is false in a material particular,
 
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $50 for every day or part thereof during which the offence continues after conviction.
+shall be guilty of an offence.
+
+[10/2005 wef 16/02/2005]
+
+(6A) If a person is charged with an offence under subsection (6) in respect of a requirement to produce any document or information under subsection (1), it shall be a defence for him to prove that —
+
+(a) the document was not in his possession or under his control;
+
+(b) it was not reasonably practicable for him to comply with the requirement; or
+
+(c) he had a reasonable excuse for failing to provide the information required.
+
+[10/2005 wef 16/02/2005]
 
 (7) No person shall by virtue of this section be obliged to disclose any particulars as to which he is under any statutory obligation to observe secrecy.
+
+(8) In this section and sections 61 and 63 —
+
+“document” includes any electronic record;
+
+“electronic record” has the same meaning as in the Electronic Transactions Act (Cap. 88).
+
+[10/2005 wef 16/02/2005]
 
 ### Powers of arrest and search in respect of seizable offences
 
@@ -1160,7 +1604,9 @@ and may search any person so arrested, except that no female shall be searched e
 
 ### Composition of offences
 
-64\.—(1) Any police officer not below the rank of sergeant specially authorised by name in that behalf by the Minister, or any employee of the Authority specially authorised by name in that behalf by the Chief Executive, may in his discretion compound any such offence under this Act or any regulations made thereunder as may be prescribed as being an offence which may be compounded by collecting from the person reasonably suspected of having committed the offence a sum not exceeding $1,000.
+64\.—(1) Any police officer not below the rank of sergeant specially authorised by name in that behalf by the Minister, or any employee of the Authority specially authorised by name in that behalf by the Chief Executive, may in his discretion compound any such offence under this Act or any regulations made thereunder as may be prescribed as being an offence which may be compounded by collecting from the person reasonably suspected of having committed the offence a sum not exceeding $5,000.
+
+[10/2005 wef 16/02/2005]
 
 (2) The Authority may, with the approval of the Minister, make regulations prescribing the offences which may be compounded.
 
@@ -1168,7 +1614,9 @@ and may search any person so arrested, except that no female shall be searched e
 
 ### General penalties
 
-65\. Any person guilty of an offence under this Act or any regulations made thereunder for which no penalty is expressly provided shall, in addition to the forfeiture of any article seized, be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
+65\. Any person guilty of an offence under this Act or any regulations made thereunder for which no penalty is expressly provided shall, in addition to the forfeiture of any article seized, be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part thereof during which the offence continues after conviction.
+
+[10/2005 wef 16/02/2005]
 
 ### Saving of prosecutions under other written laws
 
@@ -1192,21 +1640,163 @@ and may search any person so arrested, except that no female shall be searched e
 
 GENERAL PROVISIONS
 
-### Appeal to Minister
+### Reconsideration by Authority and appeal to Minister
 
 69\.—(1) Any telecommunication licensee aggrieved by —
 
 (a) any decision of the Authority in the exercise of any discretion vested in it by or under this Act; or
 
-(b) anything contained in any code of practice or standard of performance or in any direction of the Authority given under section 27,
+(b) anything contained in any code of practice or standard of performance or in any direction of the Authority given under section 21, 27, 32D or 32F(2),
 
-may appeal to the Minister in the prescribed manner.
+may, within 14 days of the receipt of the decision or direction of the Authority or the issue or approval of the code of practice or standard of performance, as the case may be —
 
-(2) Unless otherwise provided, where an appeal is lodged under this section, the decision, direction or other thing appealed against shall be complied with until the determination of the appeal.
+(i) make a request to the Authority to reconsider the matter; or
 
-(3) The Minister may determine an appeal under this section by confirming, varying or reversing any decision or direction of the Authority or by amending any code of practice or standard of performance.
+(ii) appeal to the Minister.
 
-(4) The decision of the Minister in any appeal shall be final.
+[10/2005 wef 16/02/2005]
+
+(2) Any person (other than a telecommunication licensee) who is aggrieved by any decision or direction of the Authority given by or under section 5(1), 5A, 8(1), 14, 21, 23, 32B or 32D may, within 14 days of the receipt of the decision or direction of the Authority —
+
+(a) make a request to the Authority to reconsider the matter; or
+
+(b) appeal to the Minister.
+
+[10/2005 wef 16/02/2005]
+
+(3) A person shall not make both a reconsideration request to the Authority and an appeal to the Minister arising from the same decision or direction of the Authority.
+
+[10/2005 wef 16/02/2005]
+
+(4) Where a reconsideration request and an appeal have been made in contravention of subsection (3), the appeal shall be deemed to be withdrawn.
+
+[10/2005 wef 16/02/2005]
+
+(5) Where —
+
+(a) a reconsideration request has been made to the Authority by any person; and
+
+(b) an appeal arising from the same decision or direction of the Authority is made or has been made to the Minister by any other person,
+
+the appeal to the Minister shall be deemed to be withdrawn.
+
+[10/2005 wef 16/02/2005]
+
+(6) The Authority may determine any reconsideration request under this section by confirming, varying or reversing any decision or direction or by amending any code of practice or standard of performance.
+
+[10/2005 wef 16/02/2005]
+
+(7) Any telecommunication licensee or person referred to in subsection (2), as the case may be, who is aggrieved by any decision of the Authority under subsection (6) may appeal to the Minister within 14 days of the receipt of the decision.
+
+[10/2005 wef 16/02/2005]
+
+(8) Any person who makes an appeal to the Minister under subsection (1), (2) or (7) shall within the period specified therein —
+
+(a) state as concisely as possible the circumstances under which the appeal arises, the issues and grounds for the appeal; and
+
+(b) submit to the Minister all relevant facts, evidence and arguments for or against the appeal, as the case may be.
+
+[10/2005 wef 16/02/2005]
+
+(9) The Minister may reject any appeal of an appellant who fails to comply with subsection (8) or (10).
+
+[10/2005 wef 16/02/2005]
+
+(10) Where an appeal has been made to the Minister under subsection (1), (2) or (7), the Minister may require any person to whom subsection (11) applies to provide him with all such information as he may require for the purpose of considering the appeal and making a determination for resolving it.
+
+[10/2005 wef 16/02/2005]
+
+(11) Subsection (10) shall apply to —
+
+(a) any party to the appeal; and
+
+(b) any person who is not a party to the appeal but appears to the Minister to have information that is relevant to the matters mentioned in that subsection.
+
+[10/2005 wef 16/02/2005]
+
+(12) Any person required to provide information under subsection (10) must provide it in such manner and within such period as may be specified by the Minister.
+
+[10/2005 wef 16/02/2005]
+
+(13) The Minister may determine an appeal under this section by confirming, varying or reversing any decision or direction of the Authority or by amending any code of practice or standard of performance.
+
+[10/2005 wef 16/02/2005]
+
+(14) Any decision of the Minister under subsection (13) shall be final.
+
+[10/2005 wef 16/02/2005]
+
+(15) Unless otherwise provided, where a reconsideration request or an appeal is made under this section, the decision, direction or other matter which requires reconsideration by the Authority or which is appealed against shall be complied with until the determination of the reconsideration request or the appeal, as the case may be.
+
+[10/2005 wef 16/02/2005]
+
+(16) The Minister may make regulations in respect of the manner in which an appeal may be made to the Minister under subsection (1), (2) or (7) and the procedure to be adopted in hearing such appeals.
+
+[10/2005 wef 16/02/2005]
+
+### Interest on sums unpaid
+
+69A\. If any sum required to be paid by a telecommunication licensee or a person granted a spectrum right under this Act or any code of practice or regulation made thereunder is not paid when it is required to be paid, that licensee or person shall be liable to pay the Authority the prescribed interest on such unpaid sums for the period such sums remain unpaid.
+
+[10/2005 wef 16/02/2005]
+
+### Power of Minister to issue written order relating to acquisition of assets, etc., of telecommunication licensee
+
+69B\.—(1) The Minister may issue a written order to any person that acquires the assets or business of, or shares in, a telecommunication licensee (referred to in this section as the relevant person), that telecommunication licensee, or both, if the Minister is satisfied that —
+
+(a) the relevant person is not a fit and proper person; and
+
+(b) it is not in the national interest to allow the relevant person to continue to own the assets or business of, or to hold the shares in, that telecommunication licensee.
+
+[10/2005 wef 16/02/2005]
+
+(2) The Minister may, in any written order issued under subsection (1), direct the relevant person, that telecommunication licensee, or both, to do all or any of the following:
+
+(a) direct the transfer or disposal of all of the assets, business and shares acquired by the relevant person in that telecommunication licensee, within such time and subject to such conditions as the Minister considers appropriate;
+
+(b) restrict the transfer or disposal of the assets, business and shares by the relevant person in that telecommunication licensee;
+
+(c) restrict the exercise of voting power in that telecommunication licensee by the relevant person;
+
+(d) require that no payment shall be made by that telecommunication licensee of any amount (whether by way of dividends) in respect of the shares acquired by the relevant person;
+
+(e) restrict the issuance or offer of shares by that telecommunication licensee (whether by way of rights, bonus or otherwise) in respect of the shares acquired by the relevant person.
+
+[10/2005 wef 16/02/2005]
+
+(3) In the case of any written order made under subsection (2)(a) or (b) relating to the shares, until a transfer or disposal is effected in accordance with the written order or until the restriction on the transfer or disposal is removed, as the case may be, notwithstanding the provisions of any written law or anything contained in the memorandum or articles of association, or other constitution, of that telecommunication licensee —
+
+(a) no voting rights shall be exercisable in respect of the shares unless the Minister expressly permits such rights to be exercised;
+
+(b) no shares of that telecommunication licensee shall be issued or offered (whether by way of rights, bonus or otherwise) in respect of the shares unless the Authority expressly permits such issue or offer; and
+
+(c) except in a liquidation of that telecommunication licensee, no payment shall be made by that telecommunication licensee of any amount (whether by way of dividends or otherwise) in respect of the shares unless the Minister expressly authorises such payment.
+
+[10/2005 wef 16/02/2005]
+
+(4) Before issuing the written order under subsection (1), the Minister shall, unless he decides that it is not practicable or desirable to do so, cause to be given to the relevant person and the telecommunication licensee, as the case may be, notice in writing of his intention to issue the written order, specifying the date by which written representations may be made to the Minister with regard to the written order.
+
+[10/2005 wef 16/02/2005]
+
+(5) Upon receipt of any written representation, the Minister shall consider it for the purpose of determining whether to issue the written order.
+
+[10/2005 wef 16/02/2005]
+
+(6) The Minister may vary or revoke any written order issued under this section.
+
+[10/2005 wef 16/02/2005]
+
+(7) Any person to whom a written order is issued under subsection (1) shall comply with the written order and the written order shall take effect notwithstanding the provisions of any other written law and anything contained in the memorandum or articles of association, or other constitution, of the designated telecommunication licensee.
+
+[10/2005 wef 16/02/2005]
+
+(8) Any person who contravenes subsection (7) shall be guilty of an offence and shall be liable on conviction —
+
+(a) in the case of an individual, to a fine not exceeding $125,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $12,500 for every day or part thereof during which the offence continues after conviction; or
+
+(b) in any other case, to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
+
+[10/2005 wef 16/02/2005]
 
 ### Exclusion of liability of public telecommunication licensees
 
@@ -1244,7 +1834,9 @@ which is due to the act or default of another person, or an accident or some oth
 
 ### Excluded matters
 
-72\. This Act shall not apply to the licensing of any broadcasting service or any broadcasting apparatus under the Singapore Broadcasting Authority Act (Cap. 297) except in respect of the regulation of any telecommunication system required for the operation of any broadcasting service or the approval of any broadcasting apparatus used in accordance with section 9.
+72\. This Act shall not apply to the licensing of any broadcasting service or any broadcasting apparatus under the Broadcasting Act (Cap. 28) except in respect of the regulation of any telecommunication system required for the operation of any broadcasting service or the approval of any broadcasting apparatus used in accordance with section 9.
+
+[10/2005 wef 16/02/2005]
 
 ### Exemption by Minister
 
@@ -1258,7 +1850,7 @@ which is due to the act or default of another person, or an accident or some oth
 
 (a) the proficiency examinations, including the syllabi and the details thereof, for the certification of competency of individuals operating telecommunication services or for the grant of any licence by the Authority;
 
-(b) the classes and the conditions for the grant of licencesby the Authority;
+(b) the classes and the conditions for the grant of licences and spectrum rights by the Authority;
 
 (c) in relation to cable detection work licences —
 
@@ -1273,6 +1865,8 @@ which is due to the act or default of another person, or an accident or some oth
 (e) the control and regulation of interference by radiowaves or electrical or other means to telecommunications in Singapore;
 
 (f) the control and regulation of installation, wiring, cabling and other types of works to be carried out on the telecommunication systems of a public telecommunication licensee.
+
+[10/2005 wef 16/02/2005]
 
 ### Savings and transitional provisions
 
@@ -1297,6 +1891,11 @@ This Legislative History is provided for the convenience of users of the Telecom
 ||Date of commencement|1 December 1999|
 |2.|**2000 Revised Edition—Telecommunications Act**|
 ||Date of operation|30 December 2000|
+|3.|**Act 10 of 2005—Telecommunications (Amendment) Act 2005**|
+||Date of First Reading|24 November 2004|
+|||(Bill No. 67/2004 published on 25 November 2004)|
+||Date of Second and Third Readings|25 January 2005|
+||Date of commencement|16 February 2005|
 ## COMPARATIVE TABLE
 
 Telecommunications Act
