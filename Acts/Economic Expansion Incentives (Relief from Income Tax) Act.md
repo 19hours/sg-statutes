@@ -1652,7 +1652,7 @@ INVESTMENT ALLOWANCES
 
 “chargeable normal income” means normal income after deducting expenses, donations, allowances or losses allowable under the Income Tax Act against the normal income;
 
-“concessionary income” means income subject to tax at the concessionary rate of tax under section 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K or 43L of the Income Tax Act, as the case may be;
+“concessionary income” means income subject to tax at the concessionary rate of tax under section 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K , 43L or 43M of the Income Tax Act, as the case may be;
 
 [4/98 wef 13/03/1998]
 
@@ -1668,7 +1668,15 @@ INVESTMENT ALLOWANCES
 
 (c) any operations which form an integral part of, or are preparatory to, or are for rendering complete the operations described in paragraph (a) or (b) including site clearance, earth-moving excavation, laying of foundations, site restoration, landscaping and the provision of drains and of roadways and other access works;
 
-“fixed capital expenditure” means capital expenditure to be incurred on an approved project by a company on factory building (excluding land) in Singapore, on the acquisition of any know-how or patent rights, and on any new productive equipment (and, subject to the approval of the Minister, on any secondhand productive equipment) to be used in Singapore, and the reference to factory building in this definition shall, in relation to a project under section 67(1)(b), (c), (d), (f) or (g), include a building or structure specially designed and used for carrying out that project;
+“fixed capital expenditure” means capital expenditure to be incurred on an approved project by a company on the following items that are used for carrying out the project —
+
+(a) factory building (excluding land) in Singapore and, in relation to any project under section 67(1)(b), (c), (d), (f) or (g), includes a building or structure specially designed for carrying out the project;
+
+(b) the acquisition of any know-how or patent rights; and
+
+(c) any new productive equipment (and, subject to the approval of the Minister, any secondhand productive equipment) to be used in Singapore and, in relation to any project under section 67(1)(h), includes any productive equipment to be used outside Singapore as approved under section 67(2A);
+
+[4/98 wef 13/03/1998]
 
 “investment day”, in relation to a company, means the date specified in its certificate as the date from which the company shall qualify for the investment allowance;
 
@@ -1686,7 +1694,11 @@ INVESTMENT ALLOWANCES
 
 [Act 36/96 wef 25/10/1996]
 
-“research and development” has the same meaning as in the Income Tax Act.
+“research and development” has the same meaning as in the Income Tax Act;
+
+[4/98 wef 13/03/1998]
+
+“space satellite” means an apparatus placed in orbit relative to the earth for any economic, scientific or technological purpose.
 
 [4/98 wef 13/03/1998]
 
@@ -1694,7 +1706,11 @@ INVESTMENT ALLOWANCES
 
 (a) in the case of any factory building or productive equipment to be constructed or installed on site, the expenditure is attributable to payment against work done in the construction of the building or the construction or installation of the productive equipment;
 
-(b) in the case of any productive equipment, other than that to be constructed or installed on site , the company has received delivery of the equipment in Singapore .
+(b) in the case of any productive equipment, other than that to which paragraph (a) or (c) applies, the company has received delivery of the equipment in Singapore ;
+
+[4/98 wef 13/03/1998]
+
+(c) in the case of any productive equipment to be used in relation to a project under section 67(1)(h), the company has received delivery of the equipment.
 
 [4/98 wef 13/03/1998]
 
@@ -1726,13 +1742,21 @@ INVESTMENT ALLOWANCES
 
 (f) in relation to any qualifying activity as defined in section 16;
 
-(g) for the promotion of the tourist industry (other than a hotel) in Singapore ,
+(g) for the promotion of the tourist industry (other than a hotel) in Singapore ;
+
+[4/98 wef 13/03/1998]
+
+(h) for the operation of any space satellite,
 
 [4/98 wef 13/03/1998]
 
 the company may apply in the prescribed form to the Minister for the approval of an investment allowance in respect of the fixed capital expenditure for the project.
 
 (2) Where the Minister considers it expedient, having regard to the economic, technical and other merits of the project, he may approve the project and issue the company with a certificate which shall qualify the company for an investment allowance as stipulated in the certificate in respect of the fixed capital expenditure for the approved project subject to such terms and conditions as he thinks fit.
+
+(2A) For the purposes of subsection (2), the Minister may approve any investment allowance in respect of the fixed capital expenditure to be incurred on any productive equipment to be used outside Singapore for any project under subsection (1)(h).
+
+[4/98 wef 13/03/1998]
 
 (3) Every certificate issued under this section shall specify a date as the investment day from which the company shall be entitled to investment allowance under this Part.
 
@@ -1842,7 +1866,7 @@ C is the rate of tax under section 43(1)(a) of the Income Tax Act [Cap. 134] for
 
 “transitional year” means any year of assessment relating to the basis period in which the income of an approved project is from the relevant date subject to tax as concessionary income instead of as normal income, or vice versa.
 
-[1/95]
+[1/95 wef Y/A 1994]
 
 (9) As from 10th February 1995 —
 
@@ -2570,15 +2594,35 @@ OVERSEAS ENTERPRISE INCENTIVE
 
 (3) So much of the amount of any dividends so debited to that account as is received by a shareholder of the overseas enterprise shall, if the Comptroller is satisfied with the entries in the account, be exempt from tax in the hands of the shareholder.
 
-(4) Notwithstanding subsections (3) and (9), where any dividend is paid on any share of a preferential nature, it shall not be so exempt in the hands of the shareholder.
+(4) Where an amount of dividends exempt from tax under subsection (3) has been received by a shareholder which is a holding company, the amount shall be credited to a designated account to be kept by the holding company for the purposes of this section.
 
-(5) The overseas enterprise shall deliver to the Comptroller a copy of that account, made up to a date specified by him, whenever called upon to do so by notice in writing sent by him to its registered office, until such time as he is satisfied that there is no further need for maintaining the account.
+[4/98 wef 13/03/1998]
+
+(4A) Where the designated account is in credit at the date on which any dividends are paid by the holding company out of the income which has been credited to the designated account, an amount equal to the dividends or to the credit in that account, whichever is the less, shall be debited to the designated account.
+
+[4/98 wef 13/03/1998]
+
+(4B) So much of the amount of any dividends debited to the designated account as is received by a shareholder of the holding company shall, if the Comptroller is satisfied with the entries in the designated account, be exempt from tax in the hands of the shareholder.
+
+[4/98 wef 13/03/1998]
+
+(4C) Where an amount of dividends exempt from tax under subsection (4B) has been received on or after 11th July 1997 by a shareholder which is a relevant holding company, any dividends paid by the relevant holding company to its shareholders, to the extent that the Comptroller is satisfied that those dividends are paid out of such amount, shall be exempt from tax in the hands of those shareholders.
+
+[4/98 wef 13/03/1998]
+
+(4D) Notwithstanding subsections (3), (4B) and (4C), no dividend paid on any share of a preferential nature shall be exempt from tax in the hands of the shareholder.
+
+[4/98 wef 13/03/1998]
+
+(5) The overseas enterprise or the holding company shall deliver to the Comptroller a statement of the account or designated account, as the case may be, made up to any date specified by him, if the Comptroller so requires by written notice.
+
+[4/98 wef 13/03/1998]
 
 (6) Notwithstanding section 97P and subsections (1) to (5), where it appears to the Comptroller that —
 
 (a) any amount of exempted income of an overseas enterprise; or
 
-(b) any dividend exempted in the hands of any shareholder, including any dividend paid by a holding company to which subsection (9) applies,
+(b) any dividend exempted in the hands of any shareholder, including any dividend paid by a holding company to which subsection (4B) applies or by a relevant holding company to which subsection (4C) applies,
 
 [4/98 wef 13/03/1998]
 
@@ -2586,7 +2630,7 @@ ought not to have been exempted by reason of a direction under section 97L, havi
 
 (i) make such assessment or additional assessment upon the overseas enterprise or any such shareholders as may appear to be necessary in order to counteract any profit or income obtained from any such amount which ought not to have been exempted; or
 
-(ii) direct the overseas enterprise to debit its account, kept in accordance with subsection (1), with such amount as the circumstances require.
+(ii) direct the overseas enterprise or any such shareholders to debit its account or designated account, as the case may be, with such amount as the circumstances require.
 
 [4/98 wef 13/03/1998]
 
@@ -2594,9 +2638,27 @@ ought not to have been exempted by reason of a direction under section 97L, havi
 
 (7) Parts XVII and XVIII of the Income Tax Act (relating to objections and appeals) and any regulations made thereunder shall apply, with the necessary modifications, to any direction given under subsection (6) as if it were a notice of assessment given under those provisions.
 
-(8) Section 44 of the Income Tax Act shall not apply in respect of any dividend or part thereof which is debited to the account required to be kept for the purposes of this section.
+(8) Section 44 of the Income Tax Act (Cap. 134) shall not apply to any dividends or part thereof which are exempt from tax under this section.
 
-(9) Where an amount has been received by way of dividend from an overseas enterprise by a shareholder and the amount is exempt from tax under subsections (1) to (8), if that shareholder is a company (referred to in this section as the holding company) which holds, at the time any dividend is declared, the beneficial interest in all the issued shares of the overseas enterprise (or in not less than such proportion of those shares as the Minister may approve), any dividends paid by the holding company to its shareholders, to the extent that the Comptroller is satisfied that those dividends are paid out of that amount, shall be exempt from tax in the hands of those shareholders; and section 44 of the Income Tax Act shall not apply in respect of any dividend or part thereof so exempt.
+[4/98 wef 13/03/1998]
+
+(9) For the purposes of this section, the Minister or such person as he may appoint may approve as a holding company any company which owns less than 50% beneficial interest in the issued share capital of the company paying the dividends at the time such dividends are received by the company.
+
+[4/98 wef 13/03/1998]
+
+(10) Subsections (4) to (8) shall apply, with the necessary modifications, to any dividends received by a relevant holding company where the Comptroller is satisfied that such dividends are paid out of any income exempt from tax under this section.
+
+[4/98 wef 13/03/1998]
+
+(11) In this section —
+
+“holding company” means a company which owns not less than 50% beneficial interest in the issued share capital of the overseas enterprise paying the dividends at the time such dividends are received by the company, and includes a company approved under subsection (9);
+
+“relevant holding company” means any holding company of another holding company.
+
+[4/98 wef 13/03/1998]
+
+[36/93 wef Y/A 1994]
 
 ### Certification of income by auditor
 
@@ -2781,3 +2843,8 @@ This Legislative History is provided for the convenience of users of the Economi
 |||(Bill No. 32/96 published on 1 October 1996)|
 ||Date of Second and Third Readings|10 October 1996|
 ||Date of commencement|25 October 1996|
+|18.|**Act 4 of 1998—Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 1998**|
+||Date of First Reading|14 January 1998|
+|||(Bill No. 7/98 published on 15 January 1998)|
+||Date of Second and Third Readings|19 February 1998|
+||Date of commencement|11 July 1997|
