@@ -940,7 +940,7 @@ Infringement Proceedings
 
 (3) In ordering an account of profits in any infringement proceedings taken by an exclusive licensee, the Court may take into consideration only the profits derived from the infringement which are attributable to the infringement of the exclusive licensee’s rights.
 
-(4) In any infringement proceedings taken by an exclusive licensee, the registered owner shall be made a partyto the proceedings, but if the registered owner is made a defendant he shall not be liable for any costs or expenses unless he takes part in the proceedings.
+(4) In any infringement proceedings taken by an exclusive licensee, the registered owner need not be made a party to the proceedings, but if the registered owner is made a defendant he shall not be liable for any costs or expenses unless he takes part in the proceedings.
 
 ### General restriction on recovery of damages or profits
 
@@ -1630,3 +1630,8 @@ This Legislative History is provided for the convenience of users of the Registe
 ||Dates of commencement|1 September 2001 (except sections 3 and 17)|
 |4.|**2001 Revised Edition—Registered Designs Act**|
 ||Date of operation|31 December 2001|
+|5.|**Act 21 of 2004—Intellectual Property (Miscellaneous Amendments) Act 2004**|
+||Date of First Reading|19 May 2004|
+|||(Bill No. 20/2004 published on 20 May 2004)|
+||Date of Second and Third Readings|15 June 2004|
+||Date of commencement|1 July 2004|
