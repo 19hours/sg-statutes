@@ -92,9 +92,9 @@ Provided that such damming does not interfere with any trade or industry and tha
 
 5\.—(1) If the amount of compensation is not settled by agreement between the Armed Forces Council and the claimant, the difference between them shall be referred to arbitration, and the sending in of a claim for compensation shall be treated as a submission to arbitration under the Arbitration Act [Cap. 10].
 
-(2) The reference shall be to two arbitrators having power to appoint an umpire under that Act.
-
 [8/83]
+
+(2) The reference shall be to two arbitrators having power to appoint an umpire under that Act.
 
 ### Offences
 
@@ -110,9 +110,9 @@ Provided that such damming does not interfere with any trade or industry and tha
 
 he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.
 
-(2) Such person may be arrested without a warrant and any animal or vehicle under his charge may be removed by any police officer or by order of any commissioned officer of the forces engaged in the manoeuvres.
-
 [8/83]
+
+(2) Such person may be arrested without a warrant and any animal or vehicle under his charge may be removed by any police officer or by order of any commissioned officer of the forces engaged in the manoeuvres.
 
 ### Manoeuvres not to be held in catchment area of waterworks
 
@@ -120,13 +120,15 @@ he shall be guilty of an offence and shall be liable on conviction to a fine not
 
 ### Manoeuvring and firing grounds
 
-8\.—(1) It shall be lawful for the President from time to time by proclamation to declare —
+8\.—(1) It shall be lawful for the Minister from time to time by proclamation to declare —
 
 (a) that any area specified in the proclamation shall be a manoeuvring ground;
 
 (b) that any area specified in the proclamation shall be a firing ground;
 
 and from time to time in the like manner to declare that any such area or part of that area shall cease to be a manoeuvring ground or a firing ground, as the case may be.
+
+[Act 7/97 wef 01/10/1997]
 
 (2) A manoeuvring ground may include any land, sea, tidal water or shore on which or over which aircraft can manoeuvre or from which they can take off or on which they can alight.
 
@@ -140,6 +142,8 @@ and from time to time in the like manner to declare that any such area or part o
 
 (b) it may exercise with respect to the performance of manoeuvres within the manoeuvring ground all the powers for the purpose of military manoeuvres as set out in section 3.
 
+[8/83]
+
 (2) All the provisions in this Act with regard to —
 
 (a) the powers exercisable for the purpose of military manoeuvres;
@@ -150,8 +154,6 @@ and from time to time in the like manner to declare that any such area or part o
 
 shall be applicable to all manoeuvres carried on in and over the manoeuvring ground.
 
-[8/83]
-
 ### Powers of Armed Forces Council in respect of firing ground
 
 10\.—(1) The Armed Forces Council shall have the following powers in respect of any firing ground so declared under this Act:
@@ -159,6 +161,8 @@ shall be applicable to all manoeuvres carried on in and over the manoeuvring gro
 (a) it may at any time cause firing exercises, either on the ground or from the air, or experiments in gunnery, or any act or practice incidental to such exercises or experiments, or bombing or torpedo practices, or any other military or air force exercises to be carried out in or over the firing ground, giving not less than 24 hours’ notice thereof to the occupiers of land in or over which such exercises, experiments, acts or practices are to take place, by the hoisting of a red flag in a conspicuous position within the firing area;
 
 (b) it may cause to be removed all or any buildings within the firing ground or any trees or other things which may hinder or interfere with the full exercise of the rights given by this Act and may prohibit the erection of any new building within the firing ground.
+
+[8/83]
 
 (2) All the provisions in this Act with regard to —
 
@@ -169,8 +173,6 @@ shall be applicable to all manoeuvres carried on in and over the manoeuvring gro
 (c) offences,
 
 shall be applicable to any military or air force exercises carried on in and over the firing ground.
-
-[8/83]
 
 ### Rules for firing grounds
 
@@ -206,19 +208,19 @@ shall be applicable to any military or air force exercises carried on in and ove
 
 13\.—(1) Such compensation, unless otherwise agreed, shall be in the form of an annual rent payable to every person entitled to the compensation so long as the land in respect of which it is paid continues to be a firing ground.
 
+[8/83]
+
 (2) The amount of such compensation shall be such as is agreed upon between the Armed Forces Council and the claimant, and if the amount of the compensation cannot be settled by agreement, the difference between the parties shall be referred to arbitration, and the sending in of a claim for compensation shall be treated as a submission to arbitration under the Arbitration Act [Cap. 10].
 
 (3) The reference shall be to two arbitrators having power to appoint an umpire under that Act.
-
-[8/83]
 
 ### Time limit for claim to compensation
 
 14\.—(1) Every claim for compensation under section 11(3) or 12 shall be made in writing to the Secretary to the Armed Forces Council, within two months after the land, sea, tidal water or shore, as the case may be, in respect of which the claim is made has been used as a firing ground for the purposes of military or air force exercises by virtue of a declaration under this Act.
 
-(2) No compensation shall be granted for any building erected or commenced after the posting of the rules as provided in section 11(2).
-
 [8/83]
+
+(2) No compensation shall be granted for any building erected or commenced after the posting of the rules as provided in section 11(2).
 
 ## LEGISLATIVE HISTORY
 
@@ -226,7 +228,7 @@ Military Manoeuvres Act
 
 (CHAPTER 182)
 
-This Legislative History is provided for the convenience of users of the Military Manoeuvres Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Military Manoeuvres Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -256,3 +258,9 @@ This Legislative History is provided for the convenience of users of the Militar
 ||Date of commencement|15 April 1983|
 |10.|**1985 Revised Edition—Military Manoeuvres Act (Chapter 182)**|
 ||Date of operation|30 March 1987|
+|11.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
+||Date of First Reading|11 July 1997|
+|||(Bill No. 6/97)|
+||Date of Second and Third Readings|25 August 1997|
+||Date of commencement|1 October 1997|
+|||(item (17) of the Second Schedule — amendment of Military Manoeuvres Act)|
