@@ -70,7 +70,9 @@ An Act to provide for the control, licensing and inspection of homes for the age
 
 2\. In this Act, unless the context otherwise requires —
 
-“Director” means the Director of Social Welfare and includes any officer authorised by him to act on his behalf;
+“Director” means the Director of Social Welfare appointed under section 2A(1) of the Children and Young Persons Act (Cap. 38) and includes any person who is authorised by him to perform any of the duties or exercise any of the powers of the Director under this Act or any regulations made thereunder;
+
+[20/2001 wef 01/10/2001]
 
 “home for the aged” means any establishment the object of which is, or is held out to be, the provision of residential accommodation with board and personal care for 5 or more old persons, whether able-bodied or disabled, but does not include —
 
@@ -295,3 +297,9 @@ This Legislative History is provided for the convenience of users of the Homes f
 ||Date of commencement|1 February 1989|
 |2.|**1989 Revised Edition—Homes for the Aged Act (Chapter 126A)**|
 ||Date of operation|15 March 1989|
+|3.|**Act 20 of 2001—Children and Young Persons (Amendment) Act 2001**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|22 February 2001|
+|||(Bill No. 12/2001 published on 23 February 2001)|
+||Date of Second and Third Readings|20 April 2001|
+||Date of commencement|1 October 2001|
