@@ -24,7 +24,7 @@
 
 - [7 Property described in ScheduleBvested in corporation](#Property-described-in-ScheduleBvested-in-corporation)
 
-- [8 Saving of Crown rights](#Saving-of-Crown-rights)
+- [8 Saving of Government rights](#Saving-of-Government-rights)
 
 [**FIRST SCHEDULE A**](#FIRST-SCHEDULE-A)
 
@@ -106,9 +106,11 @@ It is hereby enacted by the Governor of the Straits Settlements, with the advice
 
 7\. The piece of land described in ScheduleBis hereby vested in the Corporation for an estate in fee simple, but nevertheless upon the trusts contained in the said Statutory Land Grant of the sixteenth day of August, 1892.
 
-### Saving of Crown rights
+### Saving of Government rights
 
-8\. Nothing in this Ordinance shall affect the rights of Her Majesty, or of any bodies politic or corporate, or of other persons than such as are trustees of the said indenture of the fourteenth day of February, 1879, and of the said Statutory Land Grant of the sixteenth day of August, 1892.
+8\. Nothing in this Ordinance shall affect the rights of the Government, or of any bodies politic or corporate, or of other persons than such as are trustees of the said indenture of the fourteenth day of February, 1879, and of the said Statutory Land Grant of the sixteenth day of August, 1892.
+
+[7/97 wef 01/10/1997]
 
 SCHEDULE A
 
@@ -140,3 +142,9 @@ This Legislative History is provided for the convenience of users of the Treasur
 ||Date of commencement|23 August 1985|
 |5.|**1985 Revised Edition—Treasurer of Presbyterian Church, Singapore Ordinance**|
 ||Date of operation|30 March 1987|
+|6.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
+||Date of First Reading|11 July 1997|
+|||(Bill No. 6/1997 published on 12 July 1997)|
+||Date of Second and Third Readings|25 August 1997|
+||Dates of commencement|1 October 1997|
+|||(item (35) in the First Schedule)|
