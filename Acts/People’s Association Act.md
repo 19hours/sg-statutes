@@ -36,7 +36,7 @@
 
 - [15 Association’s symbol](#Association’s-symbol)
 
-[**FIRST SCHEDULE Consultant Organisations**](#FIRST-SCHEDULE-Consultant-Organisations)
+[**FIRST SCHEDULE**](#FIRST-SCHEDULE)
 
 [**SECOND SCHEDULE Association’s Symbol**](#SECOND-SCHEDULE-Association’s-Symbol)
 
@@ -338,207 +338,213 @@ FIRST SCHEDULE
 
 Section 4(1) and (5)
 
-Consultant Organisations
+CONSULTANT ORGANISATIONS
 
-1\. Alumni International Singapore
+1. Alumni International Singapore
 
-2\. Association for Gifted Children (Singapore)
+2. Association of Nanyang University Graduates
 
-3\. Association of Nanyang University Graduates
+3. Basketball Association of Singapore
 
-4\. Basketball Association of Singapore
+4. Central Council of Malay Cultural Organisations
 
-5\. Central Council of Malay Cultural Organisations (Majlis Pusat Pertubuhan-Pertubuhan Budaya Melayu)
 
-6\. Chinese Calligraphy Society of Singapore
 
-7\. Chinese Dance Artistes’ Association
 
-8\. Chinese Theatre Circle
+(Majlis Pusat Pertubuhan-Pertubuhan Budaya Melayu)
 
-8A. Consumers’ Association of Singapore
+5. Chinese Calligraphy Society of Singapore
 
-[S 583/2000 wef 19/12/2000]
+6. Chinese Dance Artistes’ Association
 
-9\. Er Woo Amateur Musical and Dramatic Association
+7. Chinese Theatre Circle
 
-10\. Football Association of Singapore
+8. Consumers’ Association of Singapore
 
-11\. Girls’ Brigade, Singapore
+9. Er Woo Amateur Musical and Dramatic Association
 
-12\. Hindi Society (Singapore)
+10. Football Association of Singapore
 
-13\. Institute of Technical Education, Singapore
+11. Girls’ Brigade, Singapore
 
-14\. Jogging Association of Singapore
+12. Hindi Society (Singapore)
 
-15\. Malay Youth Literary Association (Persatuan Persuratan Pemuda Pemudi Melayu)
+13. Institute of Technical Education, Singapore
 
-16\. Metro Philharmonic Society
+14. Malay Youth Literary Association
 
-17\. Metropolitan Young Men’s Christian Association of Singapore
 
-18\. Nanyang Academy of Fine Arts
 
-19\. Nanyang Technological University Students’ Union
 
-20\. National Council of Social Service
+(Persatuan Persuratan Pemuda Pemudi Melayu)
 
-21\. National Trades Union Congress
+15. Metro Philharmonic Society
 
-22\. National University of Singapore Society
+16. Metropolitan Young Men’s Christian Association of Singapore
 
-23\. National University of Singapore Students’ Union
+17. Nanyang Academy of Fine Arts
 
-24\. Ngee Ann Polytechnic Students’ Union
+18. Nanyang Technological University Students’ Union
 
-25\. Perinatal Society of Singapore
+19. National Council of Social Service
 
-26\. Perkumpulan Seni (Arts Group)
+20. National Trades Union Congress
 
-27\. Radio Modellers Singapore
+21. National University of Singapore Society
 
-28\. St. John Ambulance
+22. National University of Singapore Students’ Union
 
-29\. Singapore Action Group of Elders
+23. Ngee Ann Polytechnic Students’ Union
 
-30\. Singapore Amateur Athletic Association
+24. Perkumpulan Seni (Arts Group)
 
-31\. Singapore Amateur Boxing Association
+25. Radio Modellers Singapore
 
-32\. Singapore Amateur Cycling Association
+26. St. John Ambulance
 
-33\. Singapore Amateur Gymnastic Association
+27. Singapore Action Group of Elders
 
-34\. Singapore Amateur Swimming Association
+28. Singapore Amateur Cycling Association
 
-35\. Singapore Amateur Weightlifting Federation
+29. Singapore Amateur Swimming Association
 
-36\. Singapore Arts Federation
+30. Singapore Arts Federation
 
-37\. Singapore Art Society
+31. Singapore Art Society
 
-38\. Singapore Badminton Association
+32. Singapore Badminton Association
 
-39\. Singapore Ballet Academy
+33. Singapore Ballet Academy
 
-40\. Singapore Bodybuilders Federation
+34. Singapore Bodybuilders Federation
 
-41\. Singapore Canoe Federation
+35. Singapore Canoe Federation
 
-42\. Singapore Chess Federation
+36. Singapore Chess Federation
 
-43\. Singapore Chinese Teachers’ Union
+37. Singapore Chinese Teachers’ Union
 
-44\. Singapore Civil Defence Force Sports and Recreation Association
+38. Singapore Contract Bridge Association
 
-45\. Singapore Classical Guitar Society
+39. Singapore Council of Women’s Organisations
 
-46\. Singapore Contract Bridge Association
+40. Singapore Floorball Association
 
-47\. Singapore Council of Women’s Organisations
+41. Singapore Gasing Federation
 
-48\. Singapore Floorball Association
 
-49\. Singapore Gardening Society
 
-50\. Singapore Gasing Federation (Federasi Gasing Singapura)
 
-51\. Singapore Girl Guides Association
+(Federasi Gasing Singapura)
 
-52\. Singapore Hadrah and Kompang Association (PEHAKS) (Persatuan Hadrah Dan Kompang Singapura)
+42. Singapore Girl Guides Association
 
-53\. Singapore Indian Fine Arts Society
+43. Singapore Hadrah and Kompang Association (PEHAKS)
 
-54\. Singapore Judo Federation
 
-55\. Singapore Karate-Do Federation
 
-56\. Singapore Lawn Tennis Association
 
-57\. Singapore Malay Teachers’ Union (Kesatuan Guru Guru Melayu Singapura)
+(Persatuan Hadrah Dan Kompang Singapura)
 
-58\. Singapore Malay Youth Library Association (Taman Bacaan Pemuda Pemudi Melayu Singapura)
+44. Singapore Indian Fine Arts Society
 
-59\. Singapore Middle School Chinese Teachers’ Association
+45. Singapore Judo Federation
 
-60\. Singapore National Co-operative Federation Ltd
+46. Singapore Karate-Do Federation
 
-61\. Singapore National Wushu Federation
+47. Singapore Lawn Tennis Association
 
-62\. Singapore Numismatic Association
+48. Singapore Malay Teachers’ Union
 
-63\. Singapore Paediatric Society
 
-64\. Singapore Petanque And Sports Boules Federation
 
-65\. Singapore Philatelic Society
 
-66\. Singapore Phoenix Dance Troupe
+(Kesatuan Guru-Guru Melayu Singapura)
 
-67\. Singapore Polytechnic Graduates’ Guild
+49. Singapore Malay Youth Library Association
 
-68\. Singapore Polytechnic Students’ Union
 
-69\. Singapore Professional Centre
 
-70\. Singapore Red Cross Society
 
-71\. Singapore Rugby Union
+(Taman Bacaan Pemuda Pemudi Melayu Singapura)
 
-71A. Singapore Sailing Federation
+50. Singapore Middle School Chinese Teachers’ Association
 
-[S 475/2000 wef 20/10/2000]
+51. Singapore National Co-operative Federation Ltd
 
-72\. Singapore Scout Association
+52. Singapore National Wushu Federation
 
-73\. Singapore Sepaktakraw Federation
+53. Singapore Numismatic Association
 
-74\. Singapore Silat Federation (Persekutuan Silat Singapura)
+54. Singapore Petanque And Sports Boules Federation
 
-75\. Singapore Squash Rackets Association
+55. Singapore Philatelic Society
 
-76\. Singapore Stamp Club
+56. Singapore Polytechnic Graduates’ Guild
 
-77\. Singapore Table Tennis Association
+57. Singapore Polytechnic Students’ Union
 
-78\. Singapore Taekwondo Federation
+58. Singapore Professional Centre
 
-79\. Singapore Tamil Teachers’ Union
+59. Singapore Red Cross Society
 
-80\. Singapore Teachers’ Union
+60. Singapore Sailing Federation
 
-81\. Singapore Weiqi Association
+61. Singapore Scout Association
 
-82\. Singapore Xiangqi General Association
+62. Singapore Sepaktakraw Federation
 
-83\.Deleted by S 475/2000, wef 20/10/2000.
+63. Singapore Silat Federation
 
-84\. Society of Chinese Artists
 
-85\. Sriwana
 
-86\. Tamils Representative Council
 
-87\. The Boys’ Brigade in Singapore
+(Persekutuan Silat Singapura)
 
-88\. The Eurasian Association, Singapore
+64. Singapore Squash Rackets Association
 
-89\. The Photographic Society of Singapore
+65. Singapore Stamp Club
 
-90\. The Singapore Baseball and Softball Association
+66. Singapore Table Tennis Association
 
-91\. Volleyball Association of Singapore
+67. Singapore Taekwondo Federation
 
-92\. Young Men’s Christian Association of Singapore
+68. Singapore Tamil Teachers’ Union
 
-93\. Young Musicians’ Society
+69. Singapore Teachers’ Union
 
-94\. Young Women’s Christian Association of Singapore
+70. Singapore Weiqi Association
 
-95\. Young Women Muslim Association (Persatuan Pemudi Islam Singapura)
+71. Singapore Xiangqi General Association
 
-96\. Youth Flying Club
+72. Society of Chinese Artists
+
+73. Sriwana
+
+74. Tamils Representative Council
+
+75. The Boys’ Brigade in Singapore
+
+76. The Eurasian Association, Singapore
+
+77. The Photographic Society of Singapore
+
+78. Volleyball Association of Singapore
+
+79. Young Men’s Christian Association of Singapore
+
+80. Young Women’s Christian Association of Singapore
+
+81. Young Women Muslim Association
+
+
+
+
+(Persatuan Pemudi Islam Singapura)
+
+82. Youth Flying Club.
+
+[S 234/2001 wef 26/04/2001]
 
 SECOND SCHEDULE
 
@@ -666,6 +672,8 @@ This Legislative History is provided for the convenience of users of the People�
 ||Date of commencement|20 October 2000|
 |46.|**G.N. No. S 583/2000—People’s Association Act (Amendment of First Schedule) (No. 3) Notification 2000**|
 ||Date of commencement|19 December 2000|
+|47.|**G.N. No. S 234/2001—People’s Association Act (Amendment of First Schedule) Notification 2001**|
+||Date of commencement|26 April 2001|
 ## COMPARATIVE TABLE
 
 People’s Association Act
