@@ -24,7 +24,7 @@
 
 - [7 Execution of deeds, etc.](#Execution-of-deeds-etc)
 
-- [8 Saving of Crown and other rights](#Saving-of-Crown-and-other-rights)
+- [8 Saving of Government and other rights](#Saving-of-Government-and-other-rights)
 
 [**FIRST SCHEDULE A**](#FIRST-SCHEDULE-A)
 
@@ -48,9 +48,11 @@ REVISED EDITION 1985
 
 (30th March 1987)
 
-An Ordinance to incorporate the Agent of the Commission for the Administration of the Estates of the Portuguese Missions in China and Singapore. This Private Ordinance is reproduced in the form it appears in the 1955 Revised Edition.1
+An Ordinance to incorporate the Agent of the Commission for the Administration of the Estates of the Portuguese Missions in China and Singapore. This Private Ordinance is reproduced in the form it appears in the 1955 Revised Edition.\*
 
-1Note:
+\*Note:
+
+[8th April 1910]
 
 Whereas an Institution, known as the Cathedral of Pekin, was founded in the year 1690 by the Holy See of Rome through the solicitation of Dom Pedro II., then King of Portugal, and dedicated to the Blessed Virgin, and was administered by the successive bishops of Pekin until the date of the Ordinance next hereinafter named:
 
@@ -66,11 +68,9 @@ And Whereas by an indenture of assignment registered No. 116, dated the eleventh
 
 And Whereas by an indenture of assignment, registered No. 113, dated the thirteenth day of July, 1831, and made between Si Hoo Keh of the one part and Isaiah Zechariah, attorney, to and for Joaquim Jozé Leite, therein called Liete, and Nicholao Rodrigues Pereira de Borja, “Superiores” of the Cathedral of Pekin, of the other part, the land and hereditaments described in ScheduleCand comprised in the indenture of lease, No. 36, therein mentioned were assigned unto the said Isaiah Zechariah, attorney, as aforesaid nevertheless to and for the proper use and behoof of the said Joaquim Jozé Leite, therein called Liete, and Nicholao Rodrigues Pereira de Borja, “Superiores” of the Cathedral of Pekin as aforesaid, and their successors or assigns for the residue then unexpired of the term of years created by the said indenture of lease, No. 36:
 
-And Whereas by a memorandum of transfer, registered No. 114, dated the thirty-first day of October, 1828, under the hand of S. G. Bonham and endorsed on the indenture of lease referred to in ScheduleB, the said S. G. Bonham thereby made over all his right and title to the lands and hereditaments comprised in that Schedule to Isaiah Zechariah and the Reverend Padre Francisco da Silva Pinto a Maya, Sacerdote da Congregaçao da Missao:
+And Whereas by a memorandum of transfer, registered No. 114, dated the thirty-first day of October, 1828, under the hand of S. G. Bonham and endorsed on the indenture of lease referred to in ScheduleB, the said S. G. Bonham thereby made over all his right and title to the lands and hereditaments comprised in that Schedule to Isaiah Zechariah and the Reverend Padre Francisco da Silva Pinto a Maya, Sacerdote da Congregaçao da Missao: And by another memorandum of transfer, registered No. 131, dated the eighth day of April, 1829, and under the hands of the said Isaiah Zechariah and Francisco da Silva Pinto a Maya and endorsed on the said indenture of lease, the said Isaiah Zechariah and Francisco da Silva Pinto a Maya thereby made over all their right and title to the said lands and hereditaments to the Reverend Nicholao Rodrigues Pereira de Borja, Superior of the College of Saint José at Macao:
 
-And by another memorandum of transfer , registered No. 131, dated the eighth day of April, 1829, and under the hands of the said Isaiah Zechariah and Francisco da Silva Pinto a Maya and endorsed on the said indenture of lease, the said Isaiah Zechariah and Francisco da Silva Pinto a Maya thereby made over all their right and title to the said lands and hereditaments of the Reverend Nicholao Rodrigues Pereira de Borja, Superior of the College of Saint José at Macao:
-
-And Whereas by an indenture of assignment, dated the fifteenth day of July, 1845, and made between Joaquim Jozé Leite, therein called Letta, at that time residing in China, of the one part and the Reverend Joaquim Jozé Leite, Superiore and Principal of the Cathedral of Saint Jose at Pekin, of the other part, after reciting the said indenture of lease and memorandum of the thirty-first day of October, 1828, it is thereby further recited that the said Isaiah Zechariah and Reverend Padre Francisco da Silva Pinto a Maya, da Congregacao da Missao, by a certain other endorsement bearing date the eighth day of April, 1829, did assign, transfer and set over the lands and hereditaments comprised in ScheduleBunto the said Joaquim Jozé Leite, Superior of the College of Saint José, and it is witnessed that the said Joaquim Jozé Leite thereby assigned the said land and hereditaments unto the said Reverend Joaquim Jozé Leite, Superior and Principal aforesaid, for the residue then unexpired of the term of years created by the indenture of lease in such Schedule mentioned:
+And Whereas by an indenture of assignment, dated the fifteenth day of July, 1845, and made between Joaquim Jozé Leite, therein called Letta, at that time residing in China, of the one part and the Reverend Joaquim Jozé Leite, Superiore and Principal of the Cathedral of Saint José at Pekin, of the other part, after reciting the said indenture of lease and memorandum of the thirty-first day of October, 1828, it is thereby further recited that the said Isaiah Zechariah and Reverend Padre Francisco da Silva Pinto a Maya, da Congregaçao da Missao, by a certain other endorsement bearing date the eighth day of April, 1829, did assign, transfer and set over the lands and hereditaments comprised in ScheduleBunto the said Joaquim Jozé Leite, Superior of the College of Saint José, and it is witnessed that the said Joaquim Jozé Leite thereby assigned the said land and hereditaments unto the said Reverend Joaquim Jozé Leite, Superior and Principal aforesaid, for the residue then unexpired of the term of years created by the indenture of lease in such Schedule mentioned:
 
 And Whereas by a memorandum, registered No. 130, dated the eighth day of April, 1829, under the hand of the said Isaiah Zechariah and endorsed upon indenture of lease, No. 35, referred to in ScheduleC, the said Isaiah Zechariah thereby made over all his right and title to the lands and hereditaments described in ScheduleCand comprised in the said indenture of lease to the said Reverend Nicholao Rodrigues Pereira de Borja, Superior of the College of Saint José at Macao:
 
@@ -93,8 +93,6 @@ And Whereas the present Agent of the aforesaid Commission is the Reverend Antoni
 And Whereas it is expedient for conveyancing purposes and for the removal of questions as to the vesting of the said properties and for the vesting of the same in the said Commission that the said Antonio Augusto Cardozo and his successors in the office of such agent as aforesaid should be incorporated:
 
 It is hereby enacted by the Governor of the Straits Settlements, with the advice and consent of the Legislative Council thereof, as follows:
-
-[8th April 1910]
 
 ### Short title
 
@@ -124,23 +122,23 @@ It is hereby enacted by the Governor of the Straits Settlements, with the advice
 
 6\.—(1) No person other than the said Antonio Augusto Cardozo shall be deemed to be duly qualified as aforesaid unless and until he has been duly appointed to fill the office of the agent of the Commission for the Administration of the Estates of the Portuguese Missions in China at Singapore by the Bishop of Macao, as President of the aforesaid Commission, by instrument in writing, and such instrument has been produced to the Minister and the same approved by him and unless and until a notification of such approval has appeared in theGazette.
 
-(2) Such notification shall be sufficient evidence of the appointment and that the person named therein is duly qualified as by this Ordinance is required.
-
 [72/59]
+
+(2) Such notification shall be sufficient evidence of the appointment and that the person named therein is duly qualified as by this Ordinance is required.
 
 ### Execution of deeds, etc.
 
-7\.—(1) No deed, document or other instrument sealed with the seal of the corporation shall be deemed to be duly sealed unless such seal has been affixed in the presence of the said Antonio Augusto Cardozo or his attorney duly authorized by a power of attorney deposited under section 48 of the Conveyancing and Law of Property Ordinance, or in the presence of his successor for the time being in his said office of Agent of the Commission for the Administration of the Estates of the Portuguese Missions in China at Singapore, and duly qualified as aforesaid, or his attorney duly authorised as aforesaid, and unless such deed, document or other instrument is signed by the said Antonio Augusto Cardozo or his attorney as aforesaid or a successor in his said office, or the attorney of such successor authorized as aforesaid.
-
-[1955 Ed.]
+7\.—(1) No deed, document or other instrument sealed with the seal of the corporation shall be deemed to be duly sealed unless such seal has been affixed in the presence of the said Antonio Augusto Cardozo or his attorney duly authorized by a power of attorney deposited under section 48 of the Conveyancing and Law of Property Ordinance [1955 Ed., Cap. 243], or in the presence of his successor for the time being in his said office of Agent of the Commission for the Administration of the Estates of the Portuguese Missions in China at Singapore, and duly qualified as aforesaid, or his attorney duly authorised as aforesaid, and unless such deed, document or other instrument is signed by the said Antonio Augusto Cardozo or his attorney as aforesaid or a successor in his said office, or the attorney of such successor authorized as aforesaid.
 
 (2) Such signing shall be taken as sufficient evidence of the due sealing of such deed or document or other instrument.
 
-### Saving of Crown and other rights
+### Saving of Government and other rights
 
-8\. Nothing in this Ordinance shall affect the rights of Her Majesty, Her Heirs and Successors, or any bodies politic or corporate or of any other persons, except such as are mentioned in this Ordinance, and those claiming by, from and under them or any of the legal personal representatives of the said Isaiah Zechariah, Joaquim Jozé Leite, Liete or Letta, Nicholao Rodrigues Pereira de Borja or Manuel Lourenco de Gouvéa or any persons claiming by, through, from, or under them.
+8\. Nothing in this Ordinance shall affect the rights of the Government, or any bodies politic or corporate or of any other persons, except such as are mentioned in this Ordinance, and those claiming by, from and under them or any of the legal personal representatives of the said Isaiah Zechariah, Joaquim Jozé Leite, Liete or Letta, Nicholao Rodrigues Pereira de Borja or Manuel Lourenço de Gouvéa or any persons claiming by, through, from, or under them.
 
-2SCHEDULE A
+[7/97 wef 01/10/1997]
+
+\*SCHEDULE A
 
 1. All that piece of land situated in the District of Singapore Town in the Island of Singapore bounded on the North by Grant No. on the East by on the West by Grant No. 204 and on the South by High Street, as described in the plan annexed to an Indenture of Lease No. 205, dated 25th January 1827 and made between the United Company of Merchants of England trading to the East Indies of the one part and Lieutenant Philip Jackson of the other part, containing an area of 3,036.1 square meters.
 
@@ -160,9 +158,9 @@ Together with the appurtenances:
 
 Which said premises were by the said Indenture of Lease demised unto the said James Clarke for the term of 999 years from the date thereof at the annual rent of $15.50.
 
-2All the lands in ScheduleAhave been acquired by Government.
+\*All the lands in ScheduleAhave been acquired by Government.
 
-3SCHEDULE B
+\*SCHEDULE B
 
 4. All that piece of land situated in the District of Singapore Town in the Island of Singapore bounded on the North by North Bridge Road, on the East by Grant No. 207, on the West by Grant No. 209 and on the South by Beach Road, as described in the plan annexed to an Indenture of Lease, No. 208, dated 25th January 1827 made between the United Company of Merchants of England trading to the East Indies of the one part and S. G. Bonham of the other part, and containing 8,039.6 square meters.
 
@@ -170,7 +168,7 @@ Together with the appurtenances:
 
 Which said premises were by the said Indenture of Lease demised to the said S. G. Bonham for the term of 999 years from the date thereon at the annual rent of $30.
 
-3Some of the property in ScheduleBhas been acquired by the Municipality.
+\*Some of the property in ScheduleBhas been acquired by the Municipality.
 
 SCHEDULE C
 
@@ -234,3 +232,9 @@ This Legislative History is provided for the convenience of users of the Portugu
 ||Date of commencement|23 August 1985|
 |5.|**1985 Revised Edition—Portuguese Missions Ordinance**|
 ||Date of operation|30 March 1987|
+|6.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
+||Date of First Reading|11 July 1997|
+|||(Bill No. 6/1997 published on 12 July 1997)|
+||Date of Second and Third Readings|25 August 1997|
+||Date of commencement|1 October 1997|
+|||(item (27) in the First Schedule)|
