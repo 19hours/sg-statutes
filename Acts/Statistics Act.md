@@ -362,23 +362,25 @@ Subject matters
 
 SECOND SCHEDULE
 
-Sections 4, 6, 7 and 13.
+Sections 4, 6, 7 and 13
 
 Research and Statistics Units
 
-1\. Construction Economic Research Unit of the Construction Industry Development Board.
+1\. Construction Economics and Resources Unit of the Construction Industry Development Board.
 
 2\. Research and Statistics Unit of the Economic Development Board.
 
-3\. Research and Statistics Unit of the Ministry of Education.
+3\. Management Information Section of the Ministry of Education.
 
-4\. Research and Statistics Unit of the Ministry of the Environment.
+4\. Statistics Unit of the Ministry of the Environment.
 
-5\. Research and Statistics Unit of the Ministry of Health.
+5\. Information Services Department of the Ministry of Health.
 
-6\. Research and Statistics Unit of the Ministry of Labour.
+6\. Manpower Research and Statistics Department of the Ministry of Manpower.
 
-7\. Statistics Unit, Banking and Financial Institutions Department of the Monetary Authority of Singapore.
+7. Statistics Unit, Financial Supervision Group of the Monetary Authority of Singapore.
+
+[S 365/98 wef 03/07/1998]
 
 THIRD SCHEDULE
 
@@ -402,7 +404,7 @@ Particulars and information relating to the employment, employer and wages of Ce
 
 Particulars and information obtained by the Trade Development Board under section 3 of the Regulation of Imports and Exports Act 1995 and any regulations made thereunder.
 
-[Act 24/1995 wef 01/12/1995]
+[Act 24/95 wef 01/12/1995]
 
 ## LEGISLATIVE HISTORY
 
@@ -439,3 +441,5 @@ This Legislative History is provided for the convenience of users of the Statist
 |||(Bill No. 19/95 published on 26 May 1995)|
 ||Date of Second and Third Readings|7 July 1995|
 ||Date of commencement|1 December 1995|
+|7.|**G.N. No. S 365/98—Statistics Act (Amendment of Second Schedule) Notification 1998**|
+||Date of commencement|3 July 1998|
