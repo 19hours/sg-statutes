@@ -26,9 +26,9 @@
 
 (Original Enactment: Act 17 of 1983)
 
-REVISED EDITION 1995
+REVISED EDITION 1998
 
-(15th March 1995)
+(15th December 1998)
 
 An Act to protect the secrecy of information of statutory bodies and Government companies.
 
@@ -44,15 +44,15 @@ An Act to protect the secrecy of information of statutory bodies and Government 
 
 ### Protection of secrecy
 
-3\.—(1) No person who is or has been a member, officer, employee or agent of a specified organisation shall, without authority of that organisation, disclose to any other person any secret or confidential document or information which he has obtained or to which he has access by virtue of his position as such member, officer, employee or agent.
+3\.—(1) No person who is or has been a member or an officer, employee or agent of a specified organisation shall, without authority of that organisation, disclose to any other person any secret or confidential document or information which he has obtained or to which he has access by virtue of his position as such member, officer, employee or agent.
 
-(2) Subsection (1) shall not apply —
+(2) Subsection (1) shall not apply to the disclosure of any document or information —
 
-(a) to the disclosure of any document or information for the purpose of the performance of his duties or functions by a member, officer, employee or agent of a specified organisation; or
+(a) for the purpose of the performance of his duties or functions by any member, officer, employee or agent of a specified organisation; or
 
-(b) to the disclosure of any document or information which is lawfully required or authorised to be disclosed by any court or under the provisions of any written law.
+(b) which is lawfully required or authorised to be disclosed by any court or under the provisions of any written law.
 
-(3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding one year or to both.
+(3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 ### Consent for prosecution
 
@@ -60,195 +60,153 @@ An Act to protect the secrecy of information of statutory bodies and Government 
 
 ### Amendment of Schedule
 
-5\. The President may, by notification in theGazette, amend the Schedule.
+5\. The President may, by notification in the Gazette, amend the Schedule.
 
 ## THE SCHEDULE
 
 Sections 2 and 5
 
-the Schedule
-
 Part I
 
 Statutory Bodies
 
-Statutory Body
+Statutory body
 
-Act under which Established or Constituted
+Act under which established or constituted
 
 1. Board of Commissioners of Currency, Singapore
 
-Currency Act (Chapter 69).
+Currency Act (Chapter 69)
 
 2. Central Provident Fund Board
 
-Central Provident Fund Act (Chapter 36).
+Central Provident Fund Act (Chapter 36)
 
 3. Civil Aviation Authority of Singapore
 
-Civil Aviation Authority of Singapore Act (Chapter 41).
+Civil Aviation Authority of Singapore Act (Chapter 41)
 
 4. Commercial and Industrial Security Corporation
 
-Commercial and Industrial Security Corporation Act (Chapter 47).
+Commercial and Industrial Security Corporation Act (Chapter 47)
 
 5. Construction Industry Development Board
 
-Construction Industry Development Board Act (Chapter 51).
+Construction Industry Development Board Act (Chapter 51)
 
 6. Economic Development Board
 
-Economic Development Board Act (Chapter 85).
+Economic Development Board Act (Chapter 85)
 
 7. Housing and Development Board
 
-Housing and Development Act (Chapter 129).
+Housing and Development Act (Chapter 129)
 
 8. Inland Revenue Authority of Singapore
 
-Inland Revenue Authority of Singapore Act (Chapter 138A).
+Inland Revenue Authority of Singapore Act (Chapter 138A)
 
 9. Jurong Town Corporation
 
-Jurong Town Corporation Act (Chapter 150).
-
-9A. Maritime and Port Authority of Singapore
-
-Maritime and Port Authority of Singapore Act 1996.
+Jurong Town Corporation Act (Chapter 150)
 
 10. Land Transport Authority of Singapore
 
-Land Transport Authority of Singapore Act 1995.
+Land Transport Authority of Singapore Act (Chapter 158A)
 
-11. Monetary Authority of Singapore
+11. Maritime and Port Authority of Singapore
 
-Monetary Authority of Singapore Act (Chapter 186).
+Maritime and Port Authority of Singapore Act (Chapter 170A)
 
-12. National Computer Board
+12. Monetary Authority of Singapore
 
-National Computer Board Act (Chapter 195).
+Monetary Authority of Singapore Act (Chapter 186)
+
+13. National Computer Board
+
+National Computer Board Act (Chapter 195)
 
 14. Public Transport Council
 
-Public Transport Council Act (Chapter 259B).
+Public Transport Council Act (Chapter 259B)
 
 15. Public Utilities Board
 
-Public Utilities Act (Chapter 261).
+Public Utilities Act (Chapter 261)
 
 16. Singapore Broadcasting Authority
 
-Singapore Broadcasting Authority Act (Chapter 297).
+Singapore Broadcasting Authority Act (Chapter 297)
 
 17. Singapore Productivity and Standards Board
 
-Singapore Productivity and Standards Board Act 1995.
+Singapore Productivity and Standards Board Act (Chapter 303A)
 
-18. Singapore Tourist Promotion Board
+18. Singapore Tourism Board
 
-Tourist Promotion Board Act (Chapter 328).
+Singapore Tourism Board Act (Chapter 305B)
 
 19. Telecommunication Authority of Singapore
 
-Telecommunication Authority of Singapore Act (Chapter 323).
+Telecommunication Authority of Singapore Act (Chapter 323)
 
 20. Trade Development Board
 
-Trade Development Board Act (Chapter 330).
+Trade Development Board Act (Chapter 330)
 
 21. Urban Redevelopment Authority
 
-Urban Redevelopment Authority Act (Chapter 340).
+Urban Redevelopment Authority Act (Chapter 340)
 
-[Act 7/96 wef 02/02/1996 vide S 42/96]
-
-[Act 29/95 wef 01/09/1995 vide S 383/95]
-
-[Act 1/96 wef 01/04/1996 vide S 141/96]
-
-Part II1
-
-1deleted by s 92[sol ]98 wef 27[sol ]02[sol ]1998
-
-1
+Part II
 
 Government Companies
 
-1\. Government of Singapore Investment Corporation Private Limited.
+1\. Chartered Industries of Singapore (Pte.) Ltd. and its subsidiary corporations
 
-2\. Chartered Industries of Singapore (Pte.) Ltd. and its subsidiary corporations.
+2\. DSO National Laboratories
 
-3\. National Computer Systems Pte. Ltd.
+3\. Government of Singapore Investment Corporation Private Limited
 
-3A. PSA Corporation Limited and its subsidiary corporations.
+4\. National Computer Systems Pte. Ltd.
 
-[S 92/98 wef 27/02/1998]
+5\. Power Supply Ltd.
 
-4. Singapore Technologies Aerospace Ltd and its subsidiary corporations.
+6\. PowerGas Ltd.
 
-[S 430/98 wef 08/09/1997]
+7\. PowerGrid Ltd.
 
-5. SNP Corporation Ltd and its subsidiary corporations.
+8\. PowerGen (Senoko) Ltd.
 
-[S 483/96 wef 01/01/1995]
+9\. PowerGen (Seraya) Ltd.
 
-6\. Singapore Post Private Limited.
+10\. PSA Corporation Limited and its subsidiary corporations
 
-7. Singapore Technologies Marine Ltd and its subsidiary corporations.
+11\. Singapore Post Private Limited
 
-[S 430/98 wef 08/09/1997]
+12\. Singapore Power Ltd.
 
-8\. Singapore Technologies Holdings Pte. Ltd. and its subsidiary corporations.
+13\. Singapore Technologies Aerospace Ltd. and its subsidiary corporations
 
-9\. Singapore Technologies Industrial Corporation Pte. Ltd. and its subsidiary corporations.
+14\. Singapore Technologies Automotive Ltd. and its subsidiary corporations
 
-10\. Singapore Telecommunications Limited.
+15\. Singapore Technologies Electronics Ltd. and its subsidiary corporations
 
-11. Singapore Power Ltd.
+16\. Singapore Technologies Engineering Ltd. and its subsidiary corporations
 
-[S 446/96 wef 04/10/1996]
+17\. Singapore Technologies Holdings Pte. Ltd. and its subsidiary corporations
 
-12. Power Supply Ltd.
+18\. Singapore Technologies Industrial Corporation Pte. Ltd. and its subsidiary corporations
 
-[S 446/96 wef 04/10/1996]
+19\. Singapore Technologies Marine Ltd and its subsidiary corporations
 
-13. PowerGrid Ltd.
+20\. Singapore Technologies Private Limited and its subsidiary corporations
 
-[S 446/96 wef 04/10/1996]
+21\. Singapore Telecommunications Limited
 
-14. PowerGas Ltd.
+22\. SNP Corporation Ltd. and its subsidiary corporations
 
-[S 446/96 wef 04/10/1996]
-
-15. PowerGen (Seraya) Ltd.
-
-[S 446/96 wef 04/10/1996]
-
-16. PowerGen (Senoko) Ltd.
-
-[S 446/96 wef 04/10/1996]
-
-17. Tuas Power Pte. Ltd.
-
-[S 565/95 wef 22/12/1995]
-
-18\. DSO National Laboratories.
-
-19. Singapore Technologies Private Limited and its subsidiary corporations.
-
-[S 430/98 wef 08/09/1997]
-
-20. Singapore Technologies Engineering Ltd and its subsidiary corporations.
-
-[S 430/98 wef 08/09/1997]
-
-21. Singapore Technologies Automotive Ltd and its subsidiary corporations.
-
-[S 430/98 wef 08/09/1997]
-
-22. Singapore Technologies Electronics Ltd and its subsidiary corporations.
-
-[S 430/98 wef 08/09/1997]
+23\. Tuas Power Pte. Ltd.
 
 ## LEGISLATIVE HISTORY
 
@@ -319,3 +277,5 @@ This Legislative History is provided for the convenience of users of the Statuto
 ||Date of commencement|3 October 1997|
 |22.|**G. N. No. S 92/1998—Statutory Bodies and Government Companies (Protection of Secrecy) Act (Amendment of Schedule) Notification 1998**|
 ||Date of commencement|27 February 1998|
+|23.|**1998 Revised Edition—Statutory Bodies and Government Companies (Protection of Secrecy) Act**|
+||Date of operation|15 December 1998|
