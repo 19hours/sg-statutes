@@ -1485,3 +1485,5 @@ This Legislative History is provided for the convenience of users of the Trustee
 |||(Bill No. 18/92 published on 28 February 1992)|
 ||Date of Second and Third Readings|29 May 1992|
 ||Date of commencement|26 June 1992|
+|13.|**G. N. No. S 231/1996—Trustees Act (Amendment of First Schedule) Order 1996**|
+||Date of commencement|15 May 1996|
