@@ -1,14 +1,12 @@
-**Retirement Age Act 1993**
+**Retirement Age Act**
 
-**(No. 14 of 1993)**
+**(CHAPTER 274A)**
 
 **Table of Contents**
 
 [**Long Title**](#Retirement-and-Re-employment-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -32,49 +30,31 @@
 
 - [12 Savings](#Savings)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Retirement Age Act
 
-ACTS SUPPLEMENT
+(CHAPTER 274A)
 
-Published by Authority
+(Original Enactment: Act 14 of 1993)
 
-NO. 15]
+REVISED EDITION 1994
 
-Friday, May 21
-
-[1993
-
-The following Act was passed by Parliament on 12th April 1993 and assented to by the President on 28th April 1993:—
-
-Retirement Age Act 1993
-
-(No. 14 of 1993)
-
-I assent.
-
-WEE KIM WEE
-
-President.
-
-28th April 1993.
-
-Date of Commencement: 1st July 1993
+(15th March 1994)
 
 An Act to provide for a minimum retirement age for employees and for matters connected therewith.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st July 1993]
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Retirement Age Act 1993 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Retirement Age Act.
 
 ### Interpretation
 
 2\.—(1) In this Act, unless the context otherwise requires —
 
-“collective agreement” has the same meaning as in the Industrial Relations Act (Cap. 136);
+“collective agreement” has the same meaning as in the Industrial Relations Act [Cap. 136];
 
 “contract of service” means any agreement, whether in writing or oral, express or implied, whereby one person agrees to employ another as an employee and that other agrees to serve his employer as an employee;
 
@@ -114,7 +94,7 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 ### Invalidity of term of contract of service
 
-5\. Any term of a contract of service or collective agreement made before, on or after the commencement of this Act which provides for a retirement age which is less than 60 years or the prescribed retirement age shall be void to the extent that it is so less favourable.
+5\. Any term of a contract of service or collective agreement made before, on or after 1st July 1993 which provides for a retirement age which is less than 60 years or the prescribed retirement age shall be void to the extent that it is so less favourable.
 
 ### Restriction on contracting out
 
@@ -138,7 +118,7 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 and the employer shall comply with the direction of the Minister.
 
-(4) In determining the amount of compensation to be awarded under subsection (3), the Minister shall in particular have regard to —
+(4) In determining the amount of compensation to be awarded under subsection (3), the Minister shall, in particular, have regard to —
 
 (a) the loss sustained by the employee in consequence of the unlawful dismissal;
 
@@ -182,7 +162,7 @@ and the employer shall comply with the direction of the Minister.
 
 ### Compounding of offences
 
-9\.—(1) An investigating officer may in his discretion, compound any offence under this Act which is prescribed to be a compoundable offence by accepting from the person reasonably suspected of having committed the offence a sum not exceeding $500.
+9\.—(1) An investigating officer may, in his discretion, compound any offence under this Act which is prescribed to be a compoundable offence by accepting from the person reasonably suspected of having committed the offence a sum not exceeding $500.
 
 (2) The Minister may make regulations to prescribe the offences which may be compounded.
 
@@ -206,3 +186,20 @@ and the employer shall comply with the direction of the Minister.
 
 12\. Nothing in this Act shall operate to relieve any employer of any duty or liability imposed upon him by the provisions of any other written law for the time being in force.
 
+## LEGISLATIVE HISTORY
+
+Retirement Age Act
+
+(CHAPTER 274A)
+
+This Legislative History is provided for the convenience of users of the Retirement Age Act. It is not part of the Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 14 of 1993—Retirement Age Act 1993**|
+||Date of First Reading|26 February 1993|
+|||(Bill No. 8/93 published on 27 February 1993)|
+||Date of Second and Third Readings|12 April 1993|
+||Date of commencement|1 July 1993|
+|2.|**1994 Revised Edition—Retirement Age Act (Chapter 274A)**|
+||Date of operation|15 March 1994|
