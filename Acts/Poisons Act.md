@@ -400,6 +400,8 @@ Acetorphine; its salts; its esters and ethers; their salts
 
 Acetylcarbromal
 
+Acetyl-alpha-methylfentanyl
+
 Acetyl chloride
 
 Acetyl cysteine
@@ -466,6 +468,8 @@ Alphaxalone
 
 Alprazolam
 
+Alpha-methylfentanyl
+
 Alprenolol; its salts
 
 Alseroxylon
@@ -473,6 +477,8 @@ Alseroxylon
 Amantadine; its salts
 
 Ambenonium; its salts
+
+Ambroxol; its salts
 
 Ambuside
 
@@ -498,6 +504,8 @@ Aminocaproic acid
 
 2’-Amino-2’-deoxy kanamycin; its salts; its esters; their salts
 
+Aminophylline
+
 Aminopterin; its salts
 
 Aminorex; its salts
@@ -508,6 +516,8 @@ Amiodarone; its salts
 
 Amitriptyline; its salts
 
+Ammonium lactate
+
 Amoxycillin
 
 Amphetamine
@@ -517,6 +527,8 @@ Amphomycin; its salts; its esters; their salts
 Amphotericin B; its salts; its esters; their salts
 
 Ampicillin
+
+Amsacrine (M-AMSA)
 
 Amylobarbitone
 
@@ -555,6 +567,8 @@ Arsenical substances the following, except those specified in Part II; halides o
 Arsphenamine
 
 L-Asparaginase
+
+Astemizole
 
 Atenolol; its salts
 
@@ -654,6 +668,8 @@ Betamethadol; its salts
 
 Betamethasone
 
+Betaxolol; its salts
+
 Bethanechol; its salts
 
 Betaprodine; its salts
@@ -692,6 +708,8 @@ Buclizine; its salts
 
 Bufexamac
 
+Buflomedil; its salts
+
 Buformin; its salts
 
 Bufotenine; its salts; its esters and ethers; their salts
@@ -707,6 +725,8 @@ Bupivacaine
 Bupranolol; its salts
 
 Buprenorphine; its salts
+
+Buspirone; its salts
 
 Busulphan; its salts
 
@@ -868,7 +888,11 @@ Cinchocaine
 
 Cinnarizine; its salts
 
+Cisplatin
+
 Clavulanic acid; its salts
+
+Clebopride
 
 Clemastine; its salts
 
@@ -883,6 +907,8 @@ Clobazam
 Clobetasol
 
 Clobetasone
+
+Clobutinol; its salts
 
 Clofazimine
 
@@ -994,6 +1020,8 @@ Dacarbazine
 
 Danazol
 
+Danthron
+
 Dantrolene; its salts
 
 Dapsone
@@ -1056,6 +1084,8 @@ Diacetylmorphine; its salts
 
 Diacetylnalorphine; its salts
 
+Dinamines, the following: their salts phenylene diamines; tolylene diamines; other derivatives of benzene diamines
+
 Diamino-diphenylsulphones; their salts; their derivatives
 
 Diamorphine; its salts
@@ -1114,6 +1144,8 @@ Dihydrostreptomycin; its salts; its esters; their salts
 
 Diloxanide; its salts
 
+Diltiazem; its salts
+
 Dimenhydrinate; its salts
 
 Dimenoxadole; its salts
@@ -1130,7 +1162,11 @@ Dimethisterone
 
 Dimethothiazine
 
+Dimethoxanate; its salts
+
 2, 5-Dimethoxyamphetamine
+
+2, 5-Dimethoxy-4-bromoamphetamine (DOB)
 
 2, 5-Dimethoxy-4-ethylamphetamine
 
@@ -1186,6 +1222,8 @@ Disulphamide
 
 Dithienylallylamines; dithienyl-alkylallylamines; their salts
 
+Domperidone
+
 Dothiepin; its salts
 
 Doxepin; its salts
@@ -1232,6 +1270,8 @@ Emylcamate
 
 Enflurane
 
+Eperisone; its salts
+
 Ephedra, alkaloids of, its quarternary compounds; their salts
 
 Epicillin
@@ -1239,6 +1279,8 @@ Epicillin
 Epimestrol
 
 Epioestriol
+
+Epirubicin; its salts
 
 Epithiazide
 
@@ -1331,6 +1373,8 @@ Fenclofenac
 Fenetylline
 
 Fenfluramine; its salts
+
+Fenofibrate
 
 Fenoprofen; its salts
 
@@ -1442,6 +1486,8 @@ Gallamine; its salts; its quarternary compounds
 
 Gelsemium, alkaloids of, its quarternary compounds; their salts
 
+Gemfibrozil; its salts; its esters and salts of such esters
+
 Gentamycin; its salts; its esters; their salts
 
 Gestronol
@@ -1479,6 +1525,8 @@ Hachimycin; its salts; its esters; their salts
 Halcinonide
 
 Haloperidol and other 4-substituted derivatives of N-(3-p-fluorobenzoyl-propyl) piperidine
+
+Haloprogin
 
 Halothane
 
@@ -1548,6 +1596,10 @@ Ibuprofen
 
 Idoxuridine
 
+Idrocilamide
+
+Ifenprodil; its salts
+
 Imipramine; its salts
 
 Indapamide hemihydrate
@@ -1584,7 +1636,9 @@ Isopropamide; its salts
 
 Isopyrin
 
-Isothipenyl; its salts
+Isothpendyl; its salts
+
+Isoxicam
 
 Jaborandi, alkaloids of; its quarternary compounds; their salts
 
@@ -1659,6 +1713,8 @@ Lysergide and other N-alkyl derivatives of lysergamide; their salts, simple or c
 Lysergic acid diethylamide
 
 Lysergamide
+
+Lysuride; its salts; its esters
 
 Mafenide
 
@@ -1816,11 +1872,15 @@ Methyldopa
 
 Methyldopate; its salts
 
+3, 4-Methylenedioxyamphetamine (MDA)
+
 3, 4-Methylenedioxymethamphetamine
 
 Methylephedrine; its salts
 
 Methylergometrine
+
+3-Methylfentanyl and its isomeric forms
 
 2-Methyl-3-morpholino-1,1-diphenylpropane carboxylic acid; its salts; its esters; their salts
 
@@ -1835,6 +1895,8 @@ Methylphenidate; its salts
 Methylphenobarbitone
 
 1-Methyl-4-phenylpiperidine-4-carboxylic acid, esters of; their salts
+
+1-Methyl-4-Phenyl-4-piperidinol propionate (MPPP)
 
 Methylprednisolone
 
@@ -1870,6 +1932,8 @@ Miconazole; its salts
 
 Minocycline; its salts; its esters; their salts
 
+Minoxidil; its salts
+
 Mithramycin; its salts; its esters; their salts
 
 Mitobronitol
@@ -1896,11 +1960,15 @@ Morphine methobromide; morphine N-oxide and other pentavalent nitrogen morphine 
 
 Moxalactam; its salts
 
+Muromonab-CD3
+
 Mustine and any other N-substituted derivatives of di-(2-chloroethyl) amine, their salts
 
 Myrophine; its salts
 
 Nadolol
+
+Naftifine; its salts
 
 Naftidrofuryl; its salts
 
@@ -1938,11 +2006,13 @@ Nicodicodine; its salts
 
 Nicomorphine; its salts
 
-Nicotine, its quarternary compound; their salts
+Nicotine; its salts; its quarternary compounds; their salts
 
 Nicoumalone
 
 Nifedipine
+
+Nifuroxazide
 
 Nikethamide
 
@@ -1981,6 +2051,8 @@ Norethandrolone
 Norethisterone
 
 Norethynodrel
+
+Norfloxacin; its salts; its esters and salts of such esters
 
 Norgestrel
 
@@ -2039,6 +2111,8 @@ Oxedrine tartrate
 Oxethazaine; its salts
 
 Oxolinic acid
+
+Oxomemazine; its salts
 
 Oxophenarsine; its salts
 
@@ -2148,6 +2222,8 @@ Phenelzine; its salts
 
 Phenethicillin
 
+1-Phenethyl-4-phenyl-4-piperidinol acetate (PEPAP)
+
 Phenetidylphenacetin
 
 Pheneturide
@@ -2172,7 +2248,7 @@ Phenomorphan; its salts; its esters and ethers; their salts
 
 Phenoperidine; its salts; its esters and ethers; their salts
 
-Phenothiazine, derivatives of; their esters; their salts, except dimethoxanate, its salts and promethazine; its salts and its molecular compounds
+Phenothiazine, derivatives of; their esters; their salts and its molecular compounds
 
 Phenoxybenzamine; its salts
 
@@ -2256,6 +2332,8 @@ Pizotifen; its salts
 
 Podophyllum resin
 
+Poisonous venom, animal origin
+
 Poldine methylsulphate
 
 Polidexide; its salts
@@ -2293,6 +2371,8 @@ Primidone
 Prindolol
 
 Probenecid
+
+Probucol
 
 Procainamide; its salts
 
@@ -2367,6 +2447,8 @@ Psilocin; its salts; its esters and ethers; their salts
 Psilocybine
 
 Pyrantel; its salts
+
+Pyrathiazine Theoclate
 
 Pyrazinamide; its salts
 
@@ -2574,6 +2656,8 @@ Sulthiame
 
 Suprarenal gland medulla, the active principles of; their salts
 
+Suprofen; its salts
+
 Suxamethonium; its salts
 
 Suxethonium bromide
@@ -2591,6 +2675,8 @@ Teclothiazide
 Temazepam
 
 Terbutaline; its salts
+
+Terfenadine
 
 Testosterone
 
@@ -2618,6 +2704,8 @@ Thenalidine; its salts
 
 Thenyldiamine; its salts
 
+Theophylline; its salts; its derivatives; its compounds
+
 Thiacetazone
 
 Thialbarbitone
@@ -2625,6 +2713,8 @@ Thialbarbitone
 Thiambutosine
 
 Thiamphenicol; its salts; its esters; their salts
+
+Thiazinamium methylsulphate
 
 Thiethylperazine
 
@@ -2736,6 +2826,8 @@ Tripelennamine; its salts
 
 Triprolidine; its salts
 
+Tromantadine; its salts
+
 Tropicamide
 
 Troxidone
@@ -2747,6 +2839,8 @@ Tybamate
 Tylosin; its salts; its esters and their salts
 
 Tyrothricin; its salts; its esters and their salts
+
+Ubidecarenone
 
 Uramustine
 
@@ -2782,11 +2876,15 @@ Vincristine; its salts
 
 Vinpocetine
 
+Vinylbital
+
 Viomycin; its salts; its esters; their salts
 
 Virginiamycin; its salts; its esters; their salts
 
 Warfarin; its salts
+
+Xylazine; its salts
 
 Yohimba, alkaloids of; its quarternary compounds; their salts
 
@@ -2932,10 +3030,6 @@ Chlorophenols; their salts
 
 Chloropicrin
 
-Diamines, the following; their salts:
-
-phenylene diamines; tolylene diamines; other derivatives of benzene diamines
-
 Diborane
 
 Dichloro silane
@@ -2999,8 +3093,6 @@ Methyl bromide
 Methyl mercaptan
 
 Niclofolan
-
-Nicotine; its salts
 
 Nitric acid
 
@@ -3105,6 +3197,8 @@ Vinyl chloride monomer
 Zinc phosphide.
 
 [S 279/83; S 205/85; S 342/85; S 211/86]
+
+[S 40/1988 wef 26/02/1988]
 
 ## LEGISLATIVE HISTORY
 
@@ -3234,3 +3328,5 @@ This Legislative History is provided for the convenience of users of the Poisons
 |||(Bill No. 12/1987 published on 22 May 1987)|
 ||Date of Second and Third Readings|28 July 1987|
 ||Date of commencement|11 September 1987|
+|47.|**G. N. No. S 40/1988—Poisons Act (Amendment of Schedule) Notification 1988**|
+||Date of commencement|26 February 1988|
