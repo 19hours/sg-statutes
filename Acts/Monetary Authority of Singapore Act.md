@@ -32,6 +32,8 @@
 
 - [11 Vacancies in office of director](#Vacancies-in-office-of-director)
 
+- [11A Presidential concurrence](#Presidential-concurrence)
+
 - [12 Meetings and decisions of board](#Meetings-and-decisions-of-board)
 
 - [13 Director’s interest in contract to be made known](#Director’s-interest-in-contract-to-be-made-known)
@@ -42,7 +44,7 @@
 
 - [16 Public servants](#Public-servants)
 
-[**Part III PROVISIONS RELATING TO STAFF, TRANSFER OF FUNCTIONS, EMPLOYEES AND ASSETS, ETC.**](#Part-III)
+[**Part III PROVISIONS RELATING TO STAFF, TRANSFER OF FUNCTIONS, EMPLOYEES AND ASSETS, ETC**](#Part-III)
 
 - [17 Appointment of employees](#Appointment-of-employees)
 
@@ -79,6 +81,8 @@
 - [31 Statistics](#Statistics)
 
 - [32 Authority’s financial year](#Authority’s-financial-year)
+
+- [32A Budget](#Budget)
 
 - [33 Audit](#Audit)
 
@@ -206,7 +210,9 @@ ESTABLISHMENT, CAPITAL AND ADMINISTRATION OF AUTHORITY
 
 (3) The board shall consist of —
 
-(a) 
+(a) a chairman who shall be appointed by the President on the recommendation of the Cabinet; and
+
+[Act 11/91 wef 30/11/1991 vide S527/91]
 
 (b) six other directors, one of whom shall be the deputy chairman, appointed in accordance with sections 8 and 9.
 
@@ -230,7 +236,7 @@ ESTABLISHMENT, CAPITAL AND ADMINISTRATION OF AUTHORITY
 
 ### Appointment of managing director
 
-9\.—(1) The President shall, with the approval of the Public Service Commission, appoint one of the directors appointed under section 8 to be the managing director.
+9\.—(1) The President shall, if he concurs with the advice or recommendation of the Public Service Commission, appoint one of the directors appointed under section 8 to be the managing director.
 
 (2) The managing director shall be an employee of the Authority on such terms and conditions of service as the President may decide.
 
@@ -244,7 +250,7 @@ ESTABLISHMENT, CAPITAL AND ADMINISTRATION OF AUTHORITY
 
 ### Disqualification of directors
 
-10\.—(1) No person may be appointed as or remain a director of the Authority who is a director or salaried official of any bank licensed under the Banking Act [Cap. 19].
+10\.—(1) No person may be appointed as or remain a director of the Authority who is a director or salaried official of any bank licensed under the Banking Act.
 
 (2) The President may terminate the appointment of any director appointed under section 8(1) if he —
 
@@ -265,6 +271,12 @@ ESTABLISHMENT, CAPITAL AND ADMINISTRATION OF AUTHORITY
 ### Vacancies in office of director
 
 11\. If any director appointed under section 8(1) dies or resigns or otherwise vacates his office before the expiry of the term for which he has been appointed, another person may be appointed by the President for the unexpired period of the term of office of the director in whose place he is appointed.
+
+### Presidential concurrence
+
+11A\. The President, acting in his discretion, may refuse to appoint any person as chairman, duty chairman, director or managing director or to revoke any such appointment if the President does not concur with the advice or recommendation of the Minister, the Cabinet, a Minister acting under the general authority of the Cabinet or the Public Service Commission, as the case may be.
+
+[Act 11/91 wef 30/11/1991 vide S527/91]
 
 ### Meetings and decisions of board
 
@@ -288,8 +300,6 @@ ESTABLISHMENT, CAPITAL AND ADMINISTRATION OF AUTHORITY
 
 14\.—(1) Except for the purpose of the performance of his duties or the exercise of his functions or when lawfully required to do so by any court or under the provisions of any written law, no person who is or has been a director, officer or employee of the Authority shall disclose to any person any information relating to the affairs of the Authority or of any person which he has acquired in the performance of his duties or the exercise of his functions.
 
-[26/84]
-
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 3 years or to both.
 
 [26/84]
@@ -304,7 +314,7 @@ ESTABLISHMENT, CAPITAL AND ADMINISTRATION OF AUTHORITY
 
 ## PART III
 
-PROVISIONS RELATING TO STAFF, TRANSFER OF FUNCTIONS, EMPLOYEES AND ASSETS, ETC.
+PROVISIONS RELATING TO STAFF, TRANSFER OF FUNCTIONS, EMPLOYEES AND ASSETS, ETC
 
 ### Appointment of employees
 
@@ -338,7 +348,7 @@ PROVISIONS RELATING TO STAFF, TRANSFER OF FUNCTIONS, EMPLOYEES AND ASSETS, ETC.
 
 21\.—(1) Upon the commencement of this Act, there shall be transferred to the Authority —
 
-(a) all the functions, duties and powers of the Minister for Finance, the Commissioner of Banking and the Accountant-General under the Banking Act [Cap. 19];
+(a) all the functions, duties and powers of the Minister for Finance, the Commissioner of Banking and the Accountant-General under the Banking Act;
 
 (b) all the functions, duties and powers of the Minister for Finance, the Commissioner for Finance Companies and the Accountant-General under the Finance Companies Act [Cap. 108]; and
 
@@ -348,7 +358,7 @@ PROVISIONS RELATING TO STAFF, TRANSFER OF FUNCTIONS, EMPLOYEES AND ASSETS, ETC.
 
 (a) all the functions, duties and powers of the Commissioner of Insurance under the Insurance Act [Cap. 142]; and
 
-(b) all the functions, duties and powers of the Registrar of Companies and the Accountant-General under the Securities Industry Act [Cap. 289].
+(b) all the functions, duties and powers of the Registrar of Companies and the Accountant-General under the Securities Industry Act.
 
 [26/84]
 
@@ -386,7 +396,7 @@ POWERS, DUTIES AND FUNCTIONS OF AUTHORITY
 
 23\.—(1) The Authority may, in addition to the powers, duties and functions transferred to it by virtue of section 21, exercise and discharge the following powers, duties and functions:
 
-(a) accept deposits of money and pay interest on such deposits;
+(a) accepts deposits of money and pay interest on such deposits;
 
 (b) issue demand drafts and other kinds of remittances made payable at its own office or the offices of agencies or correspondents;
 
@@ -608,6 +618,14 @@ MISCELLANEOUS
 
 [27
 
+### Budget
+
+32A\.—(1) The Authority shall in every financial year prepare a budget containing estimates of income and expenditure of the Authority for the ensuing financial year and a supplementary budget (if necessary) for any financial year and present them to the President for his approval under Article 22B of the Constitution.
+
+(2) The budget and supplementary budget (if any) when approved by the President shall be published in theGazette.
+
+[Act 11/91 wef 30/11/1991 vide S 527/91]
+
 ### Audit
 
 33\. The accounts of the Authority shall be audited by the Auditor-General.
@@ -644,9 +662,9 @@ MISCELLANEOUS
 
 37\. The validity of an act or transaction of the Authority shall not be called in question in any court on the ground that any provision of this Act has not been complied with.
 
-[33\*
+[33 in the 1970 Edition was deleted by Act 35/73.1
 
-\*Section 32 in the 1970 Edition was deleted by Act 35/73.
+1Section 32
 
 ### Guarantee by Government
 
@@ -743,3 +761,8 @@ This Legislative History is provided for the convenience of users of the Monetar
 ||Date of commencement|21 September 1984|
 |6.|**1985 Revised Edition—Monetary Authority of Singapore Act (Chapter 186)**|
 ||Date of operation|30 March 1987|
+|7.|**Act 11 of 1991—Statutes (Miscellaneous Amendments) Act 1991**|
+||Date of First Reading|3 January 1991|
+|||(Bill No. 4/91 published on 4 January 1991)|
+||Date of Second and Third Readings|14 January 1991|
+||Date of commencement|30 November 1991|
