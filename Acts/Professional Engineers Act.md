@@ -1,20 +1,18 @@
-**Professional Engineers Act 1991**
+**Professional Engineers Act**
 
-**(No. 23 of 1991)**
+**(CHAPTER 253)**
 
 **Table of Contents**
 
 [**Long Title**](#Professional-Engineers-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
-- [3 Act not to apply to Government, etc](#Act-not-to-apply-to-Government-etc)
+- [3 Act not to apply to Government, etc.](#Act-not-to-apply-to-Government-etc)
 
 [**Part II PROFESSIONAL ENGINEERS BOARD**](#Part-II)
 
@@ -32,7 +30,7 @@
 
 [**Part III PRIVILEGES OF PROFESSIONAL ENGINEERS**](#Part-III)
 
-- [10](#)
+- [10 Illegal practice](#Illegal-practice)
 
 - [11 Employment of unregistered professional engineer prohibited](#Employment-of-unregistered-professional-engineer-prohibited)
 
@@ -40,7 +38,7 @@
 
 - [13 Minor building works](#Minor-building-works)
 
-- [14 Relationship with architects, etc](#Relationship-with-architects-etc)
+- [14 Relationship with architects, etc.](#Relationship-with-architects-etc)
 
 [**Part IV REGISTRATION OF PROFESSIONAL ENGINEERS**](#Part-IV)
 
@@ -62,7 +60,7 @@
 
 - [21 Conditions of licence to practise](#Conditions-of-licence-to-practise)
 
-- [22 Change in composition of board of directors, members, etc](#Change-in-composition-of-board-of-directors-members-etc)
+- [22 Change in composition of board of directors, members, etc.](#Change-in-composition-of-board-of-directors-members-etc)
 
 - [23 Application of Companies Act](#Application-of-Companies-Act)
 
@@ -88,9 +86,9 @@
 
 - [32 Application of fees, etc., received by Board](#Application-of-fees-etc-received-by-Board)
 
-- [33 Powers of Board and Investigation Committee to require attendance of witnesses, etc](#Powers-of-Board-and-Investigation-Committee-to-require-attendance-of-witnesses-etc)
+- [33 Powers of Board and Investigation Committee to require attendance of witnesses, etc.](#Powers-of-Board-and-Investigation-Committee-to-require-attendance-of-witnesses-etc)
 
-- [34 Penalty for wilful falsification of register and for wrongfully procuring registration, etc](#Penalty-for-wilful-falsification-of-register-and-for-wrongfully-procuring-registration-etc)
+- [34 Penalty for wilful falsification of register and for wrongfully procuring registration, etc.](#Penalty-for-wilful-falsification-of-register-and-for-wrongfully-procuring-registration-etc)
 
 - [35](#)
 
@@ -100,97 +98,61 @@
 
 - [38 No action in absence of bad faith or malice](#No-action-in-absence-of-bad-faith-or-malice)
 
-[**Part IX REPEAL, SAVINGS AND TRANSITIONAL PROVISIONS**](#Part-IX)
+[**Part IX SAVINGS AND TRANSITIONAL PROVISIONS**](#Part-IX)
 
-- [39 Repeal](#Repeal)
+- [39 Persons already registered](#Persons-already-registered)
 
-- [40 Persons already registered](#Persons-already-registered)
+- [40 Continuation of office of Board members, etc.](#Continuation-of-office-of-Board-members-etc)
 
-- [41 Continuation of office of Board members, etc](#Continuation-of-office-of-Board-members-etc)
+- [41 Transfer of assets and property](#Transfer-of-assets-and-property)
 
-- [42 Transfer of assets and property](#Transfer-of-assets-and-property)
+- [42 Transitional](#Transitional)
 
-- [43 Transitional](#Transitional)
+- [43 Disciplinary proceedings](#Disciplinary-proceedings)
 
-- [44 Disciplinary proceedings](#Disciplinary-proceedings)
+- [44 Certificates of registration](#Certificates-of-registration)
 
-- [45 Practising certificates](#Practising-certificates)
+- [45 References in other written laws](#References-in-other-written-laws)
 
-- [46 Certificates of registration](#Certificates-of-registration)
+[**THE SCHEDULE Exempt classes of persons**](#THE-SCHEDULE)
 
-- [47 References in other written laws and consequential amendments](#References-in-other-written-laws-and-consequential-amendments)
+[**Legislative History**](#Legislative-History)
 
-[**FIRST SCHEDULE Exempt Classes of Persons**](#FIRST-SCHEDULE-Exempt-Classes-of-Persons)
+# Professional Engineers Act
 
-[**SECOND SCHEDULE Amendments to the Building Control Act. (Chapter 29)**](#SECOND-SCHEDULE-Amendments-to-the-Building-Control-Act-Chapter-29)
+(CHAPTER 253)
 
-REPUBLIC OF SINGAPORE
+(Original Enactment: Act 23 of 1991)
 
-GOVERNMENT GAZETTE
+REVISED EDITION 1992
 
-ACTS SUPPLEMENT
+(9th March 1992)
 
-Published by Authority
+An Act to establish the Professional Engineers Board, to provide for the registration of professional engineers, to regulate the qualifications and conduct of professional engineers and to regulate corporations which supply professional engineering services in Singapore.
 
-NO. 27]
-
-Friday, August 2
-
-[1991
-
-The following Act was passed by Parliament on 28th June 1991 and assented to by the President on 24th July 1991:—
-
-Professional Engineers Act 1991
-
-(No. 23 of 1991)
-
-I assent.
-
-YONG PUNG HOW
-
-Person appointed
-
-
-
-
-to exercise
-
-
-
-
-the functions of the President.
-
-24th July 1991.
-
-Date of Commencement: 30th August 1991
-
-An Act to establish the Professional Engineers Board, to provide for the registration of professional engineers, to regulate the qualifications and conduct of professional engineers, to regulate corporations which supply professional engineering services in Singapore; and to repeal the Professional Engineers Act (Chapter 253 of the 1985 Revised Edition).
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[30th August 1991]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Professional Engineers Act 1991 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Professional Engineers Act.
 
 ### Interpretation
 
 2\. In this Act, unless the context otherwise requires —
 
-“appointed day” means the date of commencement of this Act;
-
 “allied professional” means —
 
-(a) an architect who is registered under the Architects Act 1991; or
+(a) an architect who is registered under the Architects Act [Cap. 12]; or
 
-(b) a land surveyor who is registered under the Land Surveyors Act 1991;
+(b) a land surveyor who is registered under the Land Surveyors Act [Cap. 156];
 
 “Board” means the Professional Engineers Board established under section 4;
 
-“building” has the same meaning as in the Building Control Act (Cap. 29);
+“building” has the same meaning as in the Building Control Act [Cap. 29];
 
 “building authority” means any person empowered under the provisions of the Building Control Act to approve plans of building works;
 
@@ -204,7 +166,7 @@ PRELIMINARY
 
 “manager”, in relation to a corporation or partnership, means the principal executive officer of the corporation or partnership for the time being by whatever name called and whether or not he is a director or partner thereof;
 
-“nominee”, in relation to any person, means a person who is accustomed or under an obligation (whether formal or informal) to act in accordance with directions, instructions or wishes of the first-mentioned person, except that a person shall not be regarded as a nominee of another person by reason only that he acts on the advice given by that other person in a professional capacity;
+“nominee”, in relation to any person, means a person who is accustomed or under an obligation (whether formal or informal) to act in accordance with directions, instructions or wishes of the first mentioned person, except that a person shall not be regarded as a nominee of another person by reason only that he acts on the advice given by that other person in a professional capacity;
 
 “practising certificate” means an annual certificate issued under section 18 authorising the holder thereof to engage in professional engineering work in Singapore;
 
@@ -226,13 +188,13 @@ PRELIMINARY
 
 “Registrar” means the Registrar of the Board appointed under section 9;
 
-“repealed Act” means the Professional Engineers Act (Cap. 253, 1985 Ed) repealed by this Act;
+“repealed Act” means the Professional Engineers Act [Cap. 253, 1985 Ed.] repealed by this Act;
 
 “rules” means rules made by the Board under section 36;
 
 “unlimited corporation” means a corporation formed on the principle of having no limit placed on the liability of its members.
 
-### Act not to apply to Government, etc
+### Act not to apply to Government, etc.
 
 3\.—(1) Nothing in this Act shall apply to anything done or omitted to be done by the Government or by a public officer under the authority of the Government.
 
@@ -250,7 +212,7 @@ PROFESSIONAL ENGINEERS BOARD
 
 (a) a President who shall be appointed from among the registered professional engineers;
 
-(b) 3 registered professional engineers selected from a list of not less than 4 registered professional engineers submitted by the Council of the Institution of Engineers, Singapore;
+(b) 3 registered professional engineers selected from a list of not less than 4 registered professional engineers submitted by the Council of the Institution of Engineers Singapore;
 
 (c) such other registered professional engineers, not being more than 5, as the Minister may from time to time determine; and
 
@@ -376,6 +338,8 @@ for a period not exceeding 6 months, pending the decision of the Board.
 
 PRIVILEGES OF PROFESSIONAL ENGINEERS
 
+### Illegal practice
+
 10\.—(1) Subject to the provisions of this Act, no person shall engage in any professional engineering work in Singapore or draw or prepare any plan, sketch, drawing, design, specification or other document relating to any professional engineering work in Singapore unless at the time of so doing the person is —
 
 (a) a registered professional engineer who has in force a practising certificate authorising him to engage in such professional engineering work; or
@@ -402,7 +366,7 @@ unless at the time of so doing the person is a registered professional engineer.
 
 (4) Subject to the provisions of this Act, no person shall advertise or hold himself out or conduct himself in any way or by any means as a person who is authorised to supply professional engineering services in Singapore, unless at the time of so doing the person is a registered professional engineer who has in force a practising certificate, a licensed corporation, a licensed partnership or a partnership consisting wholly of registered professional engineers:
 
-Provided that nothing in this subsection will apply to prevent a corporation that ceases to have in force a licence from carrying on any activity necessary to the winding up of the corporation.
+Provided that nothing in this subsection shall apply to prevent a corporation that ceases to have in force a licence from carrying on any activity necessary to the winding up of the corporation .
 
 (5) Subject to the provisions of this Act, no person shall supply professional engineering services in Singapore unless at the time of so doing the person is —
 
@@ -410,17 +374,17 @@ Provided that nothing in this subsection will apply to prevent a corporation tha
 
 (b) an allied professional and is doing so only by reason of being a partner in a licensed partnership; or
 
-(c) a licensed corporation.
+(c) a licensed corporation .
 
-(6) Any person who contravenes subsection (1), (2), (3), (4) or (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, for a second or subsequent offence, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.
+(6) Any person who contravenes subsection (1), (2), (3), (4) or (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a second or subsequent offence, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.
 
-(7) Nothing in this section shall be construed to permit or authorise any licensed corporation or partnership to supply any professional engineering services which it is not licensed to supply
+(7) Nothing in this section shall be construed to permit or authorise any licensed corporation or partnership to supply any professional engineering services which it is not licensed to supply.
 
 ### Employment of unregistered professional engineer prohibited
 
 11\.—(1) Subject to the provisions of this Act, no person shall employ as a professional engineer any person who neither is a registered professional engineer nor has in force a practising certificate.
 
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 and, for a second or subsequent offence, to a fine not exceeding $5,000.
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 and, in the case of a second or subsequent offence, to a fine not exceeding $5,000.
 
 ### Remuneration for professional engineering services
 
@@ -430,19 +394,19 @@ Provided that nothing in this subsection will apply to prevent a corporation tha
 
 13\. Nothing in this Act shall be construed to prohibit or prevent any person not registered under this Act from carrying out work in respect of the construction of or repairs to any building or part thereof in any case in which plans are not required by any written law to be submitted to the building authority.
 
-### Relationship with architects, etc
+### Relationship with architects, etc.
 
 14\.—(1) Nothing in this Part shall apply to prevent —
 
-(a) an architect who has in force a practising certificate issued under the Architects Act 1991 or any person under the direction or supervision of such an architect; or
+(a) an architect who has in force a practising certificate issued under the Architects Act [Cap. 12] or any person under the direction or supervision of such an architect; or
 
 (b) a corporation or partnership which is licensed under that Act to supply architectural services in Singapore,
 
 from carrying on any activity within the practice of architecture which he or it is authorised to carry out under that Act where to do so does not constitute a substantial part of services within the practice of professional engineering.
 
-(2) Nothing in this Act shall be construed to prohibit or prevent any person not registered under this Act and who is a member of any class of persons specified in the First Schedule from carrying on any activity which he is authorised to carry out under any written law.
+(2) Nothing in this Act shall be construed to prohibit or prevent any person not registered under this Act and who is a member of any class of persons specified in the Schedule from carrying on any activity which he is authorised to carry out under any written law.
 
-(3) The Minister may, by notification in the Gazette, amend the First Schedule; and every such notification shall be presented to Parliament as soon as possible after publication in theGazette.
+(3) The Minister may, by notification in theGazette, amend the Schedule; and every such notification shall be presented to Parliament as soon as possible after publication in theGazette.
 
 ## PART IV
 
@@ -478,7 +442,7 @@ REGISTRATION OF PROFESSIONAL ENGINEERS
 
 ### Application for registration
 
-16\. Every application for registration under this Act shall be made to the Board in such form or manner as may be prescribed.
+16\. Every application for registration under this Act shall be made to the Board in such form and manner as may be prescribed.
 
 ### Certificates of registration
 
@@ -508,7 +472,7 @@ PRACTISING CERTIFICATES
 
 (c) the prescribed fee,
 
-and the Board shall, subject to subsection (4), thereupon issue to the registered professional engineer a practising certificate authorising him to engage in such professional engineering work in Singapore during the year for which the certificate is issued, being professional engineering work within the branch of engineering in which he is qualified to practice.
+and the Board shall, subject to subsection (4), thereupon issue to the registered professional engineer a practising certificate authorising him to engage in such professional engineering work in Singapore during the year for which the certificate is issued, being professional engineering work within the branch of engineering in which he is qualified to practise.
 
 (4) The Board may refuse to issue a practising certificate if —
 
@@ -526,7 +490,7 @@ and the Board shall, subject to subsection (4), thereupon issue to the registere
 
 (a) the ensuing year if the application is made during the month of December of any year; or
 
-(b) the remainder of the year if the application is made on or after lst January of any year.
+(b) the remainder of the year if the application is made on or after 1st January of any year.
 
 (6) Subject to subsection (8), a practising certificate shall, unless earlier cancelled, be in force from the date of its issue until 31st December of the year in respect of which it is issued.
 
@@ -568,7 +532,7 @@ who are either directors, managers or employees of the corporation;
 
 (e) the business of the corporation, so far as it relates to such professional engineering work in Singapore, will be under the control and management of a director of the corporation who —
 
-(i) is a registered professional engineer ordinarily resident in Singapore;
+(i) is a registered professional engineer ordinarily resident in Singapore; and
 
 (ii) has in force a practising certificate authorising him to engage in such professional engineering work; and
 
@@ -584,7 +548,7 @@ who are either directors, managers or employees of the corporation;
 
 (c) the business of the corporation, so far as it relates to professional engineering work, will be under the control and management of a director of the corporation who —
 
-(i) is a registered professional engineer ordinarily resident in Singapore;
+(i) is a registered professonal engineer ordinarily resident in Singapore;
 
 (ii) has in force a practising certificate authorising him to engage in such professional engineering work; and
 
@@ -600,7 +564,7 @@ who are either directors, managers or employees of the corporation;
 
 (ii) has in force a practising certificate authorising the partner to engage in such professional engineering work.
 
-(4) Subject to the provisions of this Act, the Board may grant to any corporation or partnership a licence to supply any professional engineering services in Singapore if the corporation or partnership has in force a licence granted under section 20 of the Architects Act 1991 or section 17 of the Land Surveyors Act 1991 and —
+(4) Subject to the provisions of this Act, the Board may grant to any corporation or partnership a licence to supply any professional engineering services in Singapore if the corporation or partnership has in force a licence granted under section 20 of the Architects Act [Cap. 12] or section 17 of the Land Surveyors Act [Cap. 156] and —
 
 (a) in the case of an unlimited corporation, the corporation complies with the requirements set out in subsections (1)(c) and (2)(b) and (c);
 
@@ -638,7 +602,7 @@ who are either directors, managers or employees of the corporation;
 
 (4) Where a licence is granted by the Board to a corporation or partnership subject to conditions (other than those specified in subsections (1) and (2)), the corporation or partnership may, if aggrieved by the decision of the Board, appeal in the prescribed manner to the Minister whose decision shall be final.
 
-### Change in composition of board of directors, members, etc
+### Change in composition of board of directors, members, etc.
 
 22\.—(1) Any licensed corporation shall, within 30 days of the occurrence of —
 
@@ -652,7 +616,7 @@ furnish the Board a true report in writing giving full particulars of the altera
 
 ### Application of Companies Act
 
-23\.—(1) Sections 162, 163, 197 of and the Eighth Schedule to the Companies Act (Cap. 50) shall apply to a licensed corporation which is an exempt private company subject to the modification that any reference in those sections and that Schedule to an exempt private company shall not include a reference to the licensed corporation, and every such licensed corporation shall —
+23\.—(1) Sections 162, 163, 197 of and the Eighth Schedule to the Companies Act [Cap. 50] shall apply to a licensed corporation which is an exempt private company subject to the modification that any reference in those sections and that Schedule to an exempt private company shall not include a reference to the licensed corporation, and every such licensed corporation shall —
 
 (a) comply with the prohibitions in section 162 (relating to loans to its directors) and section 163 (relating to loans to persons connected with the directors of the lending company) of the Companies Act as if it were not an exempt private company; and
 
@@ -706,7 +670,7 @@ DISCIPLINARY PROCEEDINGS AND REVOCATION OF LICENCES
 
 (a) by order impose on the professional engineer a penalty not exceeding $10,000; or
 
-(b) by writing under the hand of the President censure the professional engineer
+(b) by writing under the hand of the President censure the professional engineer.
 
 (3) The Board shall not exercise its powers under subsection (1) or (2) unless an opportunity of being heard either personally or by counsel has been given to the professional engineer against whom the Board intends to exercise its powers.
 
@@ -760,7 +724,13 @@ DISCIPLINARY PROCEEDINGS AND REVOCATION OF LICENCES
 
 (b) the memorandum or articles of association of the corporation have been so altered that they no longer include the restrictions, limitations or prohibitions of the kind specified in section 20(1), (2) or (4), whichever is applicable;
 
-(c) a person who is neither a registered professional engineer who has in force a practising certificate nor an allied professional has a beneficial interest in the capital assets and profits of the partnership;
+(c) a person who is neither —
+
+(i) a registered professional engineer who has in force a practising certificate; nor
+
+(ii) an allied professional,
+
+has a beneficial interest in the capital assets and profits of the partnership;
 
 (d) the licence had been obtained by fraud or misrepresentation;
 
@@ -768,7 +738,7 @@ DISCIPLINARY PROCEEDINGS AND REVOCATION OF LICENCES
 
 (f) the corporation or partnership has contravened any provision of the prescribed code of professional conduct and ethics;
 
-(g) the corporation or partnership has contravened or failed to comply with section 22, 23 or 24 or has been convicted of an offence under this Act;
+(g) the corporation or partnership has contravened or failed to comply with section 22, 23 or 24, or has been convicted of an offence under this Act;
 
 (h) the conduct of any director, manager or employee of the corporation, or any partner or employee of the partnership, affords grounds for believing that the corporation or partnership, as the case may be, will not supply professional engineering services in Singapore in accordance with any written law and with honesty and integrity; or
 
@@ -788,7 +758,7 @@ DISCIPLINARY PROCEEDINGS AND REVOCATION OF LICENCES
 
 (b) the corporation or partnership concerned shall, as from the date of the notice, cease to supply professional engineering services in Singapore except as may be approved by the Board for the purpose of winding up its business.
 
-(7) Subsection (6) (b) shall not prejudice the enforcement by any person of any right or claim against the corporation or partnership or by the corporation or partnership of any right or claim against any person.
+(7) Subsection (6)(b) shall not prejudice the enforcement by any person of any right or claim against the corporation or partnership or by the corporation or partnership of any right or claim against any person.
 
 ### Appeals
 
@@ -828,7 +798,7 @@ GENERAL
 
 (7) The Board shall, as soon as practicable after the end of each accounting year but not later than 3 months from the end of that year unless the Minister otherwise authorises in writing, submit to the Minister a report of its functions, proceedings and activities during the preceding year.
 
-### Powers of Board and Investigation Committee to require attendance of witnesses, etc
+### Powers of Board and Investigation Committee to require attendance of witnesses, etc.
 
 33\.—(1) For the purposes of any investigation by an Investigation Committee or any hearing under section 27 or 29 by the Board, the Investigation Committee or the Board may —
 
@@ -840,13 +810,13 @@ GENERAL
 
 (a) to attend and give evidence when required to do so by the Investigation Committee or the Board;
 
-(b) to answer truly and fully any question put to him by a member of the Investigation Committee or the Board; or
+(b) or to answer truly and fully any question put to him by a member of the Investigation Committee or the Board; or
 
 (c) to produce to the Investigation Committee or the Board any book, document or paper required of him,
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
 
-### Penalty for wilful falsification of register and for wrongfully procuring registration, etc
+### Penalty for wilful falsification of register and for wrongfully procuring registration, etc.
 
 34\. Any person who —
 
@@ -888,7 +858,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (iii) any registered professional engineer applying for a practising certificate for the purpose of engaging in professional engineering practice on his own account;
 
-(iv) any registered professional engineer applying for a practising certificate who is employed or about to be employed by any person or body referred to in subparagraphs (i) to (iii);
+(iv) any registered professional engineer applying for a practising certificate who is employed or about to be employed by any person or body referred to in sub-paragraphs (i) to (iii);
 
 (v) any other registered professional engineer applying for a practising certificate;
 
@@ -910,88 +880,75 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ## PART IX
 
-REPEAL, SAVINGS AND TRANSITIONAL PROVISIONS
-
-### Repeal
-
-39\. The Professional Engineers Act (Cap. 253) is repealed.
+SAVINGS AND TRANSITIONAL PROVISIONS
 
 ### Persons already registered
 
-40\.—(1) Every person who is registered under the provisions of the repealed Act immediately before the appointed day shall be deemed to be a registered professional engineer under the provisions of this Act.
+39\.—(1) Every person who is registered under the provisions of the repealed Act immediately before 30th August 1991 shall be deemed to be a registered professional engineer under the provisions of this Act.
 
 (2) The Registrar shall transfer to the register of professional engineers the names of all persons on the register kept under section 6 of the repealed Act together with the dates of their respective registration and any other particulars appearing in that register.
 
-### Continuation of office of Board members, etc
+### Continuation of office of Board members, etc.
 
-41\.—(1) Notwithstanding the provisions of this Act, a person who, immediately before the appointed day, held office as a member of the previous Board shall continue to hold office from that day as if appointed under the provisions of this Act and, subject to section 4, for the residue of his term of office.
+40\.—(1) Notwithstanding the provisions of this Act, a person who, immediately before 30th August 1991, held office as a member of the previous Board shall continue to hold office from that date as if appointed under the provisions of this Act and, subject to section 4, for the residue of his term of office.
 
-(2) The first Registrar of the Board shall be the person who, immediately before the appointed day, held office as the Registrar of the previous Board, and such person shall continue to hold office as if he had been appointed under section 8.
+(2) The first Registrar of the Board shall be the person who, immediately before 30th August 1991, held office as the Registrar of the previous Board, and such person shall continue to hold office as if he had been appointed under section 8.
 
 ### Transfer of assets and property
 
-42\. On the appointed day, all assets and properties of every description and all powers, rights and privileges in connection therewith or appertaining thereto which immediately before that day were vested in the previous Board shall be transferred to and vest in the Board without further assurance.
+41\. On 30th August 1991, all assets and properties of every description and all powers, rights and privileges in connection therewith or appertaining thereto which immediately before that date were vested in the previous Board shall be transferred to and vest in the Board without further assurance.
 
 ### Transitional
 
-43\.—(1) On the appointed day, any scheme, contract, document, licence or resolution prepared, made, granted or approved by or on behalf of the previous Board shall continue and be deemed to have been prepared, made, granted or approved by the Board under this Act.
+42\.—(1) On 30th August 1991, any scheme, contract, document, licence or resolution prepared, made, granted or approved by or on behalf of the previous Board shall continue and be deemed to have been prepared, made, granted or approved by the Board under this Act.
 
-(2) All obligations and liabilities of the previous Board existing immediately before the appointed day shall as from that day be the obligations and liabilities of the Board and the Board shall have all necessary powers to discharge them.
+(2) All obligations and liabilities of the previous Board existing immediately before the 30th August 1991 shall as from that date be the obligations and liabilities of the Board and the Board shall have all necessary powers to discharge them.
 
 (3) In any written law and in any document, unless the context otherwise requires, any reference to the previous Board shall be construed as a reference to the Board.
 
-(4) Any proceedings or cause of action pending or existing immediately before the appointed day by or against the previous Board, or any person acting on its behalf, may be continued and enforced by or against the Board.
+(4) Any proceedings or cause of action pending or existing immediately before 30th August 1991 by or against the previous Board, or any person acting on its behalf, may be continued and enforced by or against the Board.
 
 ### Disciplinary proceedings
 
-44\.—(1) Where on the appointed day any disciplinary proceedings under section 12 of the repealed Act are pending against any person, the proceedings shall be carried on and completed by the Board; but where on that day any such matter was being heard or investigated or had been heard or investigated by the previous Board or any Investigation Committee appointed under the repealed Act and no order, report or decision had been rendered thereon, the previous Board or that Investigation Committee shall continue to exist to complete the hearing or investigation and make such order, report or decision as it could have under the provisions of the repealed Act.
+43\.—(1) Where on 30th August 1991 any disciplinary proceedings under section 12 of the repealed Act are pending against any person, the proceedings shall be carried on and completed by the Board; but where on that date any such matter was being heard or investigated or had been heard or investigated by the previous Board or any Investigation Committee appointed under the repealed Act and no order, report or decision had been rendered thereon, the previous Board or that Investigation Committee shall continue to exist to complete the hearing or investigation and make such order, report or decision as it could have under the provisions of the repealed Act.
 
-(2) Where pursuant to this section any order, report or decision is made by the previous Board or any Investigation Committee appointed under the repealed Act, that order report or decision shall be treated as an order, report or decision of the Board or that Investigation Committee and have the same force and effect as if it had been made by the Board or an Investigation Committee pursuant to the provisions of this Act.
-
-### Practising certificates
-
-45\. Notwithstanding the provisions of this Act, a person who is a registered professional engineer shall be entitled to do any of the acts referred to in section 10 without a practising certificate for a period of two months from and including the appointed day, except that nothing in this section shall authorise any registered professional engineer to do any of such acts during the aforesaid period if he is suspended from practice for that duration.
+(2) Where pursuant to this section any order, report or decision is made by the previous Board or any Investigation Committee appointed under the repealed Act, that order, report or decision shall be treated as an order, report or decision of the Board or that Investigation Committee and have the same force and effect as if it had been made by the Board or an Investigation Committee pursuant to the provisions of this Act.
 
 ### Certificates of registration
 
-46\. Every certificate of registration issued under the repealed Act to any registered professional engineer which is valid immediately before the appointed day shall not lapse but remain valid until the registration of the professional engineer is cancelled under this Act.
+44\. Every certificate of registration issued under the repealed Act to any registered professional engineer which is valid immediately before 30th August 1991 shall not lapse but remain valid until the registration of the professional engineer is cancelled under this Act.
 
-### References in other written laws and consequential amendments
+### References in other written laws
 
-47\.—(1) On the expiration of two months from and including the appointed day, the Building Control Act shall be amended in the manner set out in the Second Schedule.
+45\.—(1) On the expiration of two months from and including 30th August 1991, all references in any other written law to registered professional engineers, or to persons registered under the provisions of the repealed Act, shall be read as references to registered professional engineers who have in force practising certificates within the meaning of this Act.
 
-(2) On the expiration of two months from and including the appointed day, all references in any other written law to registered professional engineers, or to persons registered under the provisions of the repealed Act (Cap. 29), shall be read as references to registered professional engineers who have in force practising certificates within the meaning of this Act.
-
-FIRST SCHEDULE
+## THE SCHEDULE
 
 Section 14(2).
 
-Exempt Classes of Persons
+Exempt classes of persons
 
-1\. Certificated officers under the Merchant Shipping Act (Cap. 179).
+1\. Certificated officers under the Merchant Shipping Act [Cap. 179].
 
-2\. Holders of any certificate of competency issued under regulations made under the Factories Act (Cap. 104) for the purpose of taking charge of or operating steam boilers or internal combustion engines.
+2\. Holders of any certificate of competency issued under regulations made under the Factories Act [Cap. 104] for the purpose of taking charge of or operating steam boilers or internal combustion engines.
 
-3\. Licensed electrical workers or licensed electrical contractors under the Electrical Workers and Contractors Licensing Act (Cap. 89).
+3\. Licensed electrical workers or licensed electrical contractors under the Electrical Workers and Contractors Licensing Act [Cap. 89].
 
-SECOND SCHEDULE
+## LEGISLATIVE HISTORY
 
-Section 47(1).
+Professional Engineers Act
 
-Amendments to the Building Control Act.
+(CHAPTER 253)
 
+This Legislative History is provided for the convenience of users of the Professional Engineers Act. It is not part of this Act.
 
-
-
-(Chapter 29)
-
-1\. In section 2(1), delete the words “the Professional Engineers Act” in paragraph (b) of the definition of “qualified person” and substitute the words “the Professional Engineers Act 1991 and has in force a practising certificate issued under that Act”.
-
-2. In section 26(1), delete the definition of “structural engineer” and substitute the following definition:
-
-“
-
-“structural engineer” means a person who is registered under the Professional Engineers Act 1991 in the civil or structural engineering discipline and who has in force a practising certificate issued under that Act authorising him to engage in civil or structural engineering work;
-
-”.
-
+||||
+|:-|:-|:-|
+|1.|**Act 23 of 1991—Professional Engineers Act 1991**|
+||Date of First Reading|26 February 1991|
+|||(Bill No. 10/1991 published on 28 February 1991)|
+||Date of Second Reading|22 March 1991|
+||Date of Third Reading|28 June 1991|
+||Date of commencement|30 August 1991|
+|2.|**1992 Revised Edition—Professional Engineers Act**|
+||Date of operation|9 March 1992|
