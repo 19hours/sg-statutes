@@ -74,7 +74,9 @@ An Act for the registration of persons in Singapore, for the issue of identity c
 
 “householder” means the owner, tenant, sub-tenant or occupier of a house, shophouse, flat, apartment, hut or other dwelling place;
 
-“identity card” means an identity card issued under the provisions of this Act, and includes an identity card issued or deemed to be issued under the Registration of Persons Ordinance 1955 [Ordinance 32 of 1955];
+“identity card” means an identity card issued under the provisions of this Act, and includes an identity card issued or deemed to be issued under the Registration of Persons Ordinance 1955;
+
+[32/55]
 
 “registration officer” means the Commissioner of National Registration, the Deputy Commissioner of National Registration, any Assistant Commissioner of National Registration and any person appointed as a registration officer under section 3.
 
@@ -114,11 +116,11 @@ An Act for the registration of persons in Singapore, for the issue of identity c
 
 (2) All identity cards issued under this Act before such date shall cease to be valid on the expiration of the period within which persons in possession of such identity cards are required to be re-registered under subsection (1).
 
+[20/90]
+
 (3) Nothing in this section shall prevent the re-registration of a person who fails to re-register within the period specified in subsection (1).
 
-[28/1994 wef 01/03/1995]
-
-[20/90]
+[28/94 wef 01/03/1995]
 
 ### Issue of identity cards
 
@@ -128,7 +130,25 @@ An Act for the registration of persons in Singapore, for the issue of identity c
 
 ### Change of residence
 
-8\. Any person registered under the provisions of this Act who changes his place of residence shall, within 28 days thereof, report the change to a registration officer.
+8\.—(1) Any person registered under the provisions of this Act who changes his place of residence shall, within 28 days thereof, report the change to a registration officer.
+
+[19/2001 wef 15/05/2001]
+
+[20/90]
+
+(2) Where a person registered under the provisions of this Act has changed or changes his place of residence to a place outside Singapore, he may inform a registration officer of his contact address in Singapore, which shall be —
+
+(a) the address of any premises in Singapore which he still owns an estate or interest in and which is used or permitted under written law to be used as residence; or
+
+(b) the address of the place of residence in Singapore of —
+
+(i) his or her spouse, grandparent, parent, sibling, child or grandchild;
+
+(ii) any grandparent, parent or sibling of his or her spouse; or
+
+(iii) any sibling of any of his or her parents or his or her spouse’s parents or any child of any of his or her siblings or spouse’s siblings.
+
+[19/2001 wef 15/05/2001]
 
 ### Transmission of information of change of a person’s place of residence to Government departments, statutory authorities and public officers
 
@@ -136,9 +156,11 @@ An Act for the registration of persons in Singapore, for the issue of identity c
 
 (a) any person is required by any written law to inform any Government department, statutory authority or public officer of any change of his place of residence; and
 
-(b) it is provided by such written law that that person shall be deemed to have complied with the requirement thereunder to inform the Government department, statutory authority or public officer of any change of his place of residence if he makes a report of the change under section 8,
+(b) it is provided by such written law that that person shall be deemed to have complied with the requirement thereunder to inform the Government department, statutory authority or public officer of any change of his place of residence if he makes a report of the change under section 8(1),
 
 the Commissioner shall, upon that person making a report of a change of his place of residence under section 8, transmit to the Government department, statutory authority or public officer information of the change of that person’s place of residence as reported by him.
+
+[28/94 wef 01/03/1995]
 
 (2) Where the Commissioner has transmitted information of a change of a person’s place of residence to any Government department, statutory authority or public officer under subsection (1) —
 
@@ -146,9 +168,11 @@ the Commissioner shall, upon that person making a report of a change of his plac
 
 (b) the Government department, statutory authority or public officer to which or to whom the information has been transmitted shall not be liable for any loss or damage suffered by any person as a result of any error or omission of whatever nature appearing in the information transmitted or however caused by any registration officer or authorised person involved in the transmission of the information.
 
+[28/94 wef 01/03/1995]
+
 (3) For the purpose of this section, “public officer” shall include the holder of any statutory office.
 
-[28/1994 wef 01/03/1995]
+[28/94 wef 01/03/1995]
 
 ### Returns by householders
 
@@ -188,9 +212,11 @@ the Minister may by order require the Commissioner to cancel the registration of
 
 (b) a birth certificate without the name of the child, but supported by a statutory declaration to the effect that the birth certificate refers to the birth of the person referred to in the statutory declaration; or
 
-(c) an identity card issued or deemed to be issued under the provisions of the Registration of Persons Ordinance 1955 [Ordinance 32 of 1955], wherein the holder of the identity card is stated to have been born in Singapore,
+(c) an identity card issued or deemed to be issued under the provisions of the Registration of Persons Ordinance 1955, wherein the holder of the identity card is stated to have been born in Singapore,
 
 shall not necessarily be sufficient evidence for the purposes of subsection (1).
+
+[32/55]
 
 ### Offences and penalties
 
@@ -198,7 +224,11 @@ shall not necessarily be sufficient evidence for the purposes of subsection (1).
 
 (a) is required to register under this Act, or being registered under this Act, is required to re-register under this Act fails to register or re-register within the prescribed time or period;
 
-(b) fails to report his change of residence as required under section 8;
+(b) fails to report his change of residence as required under section 8(1);
+
+(ba) informs a registration officer of an address as a contact address that is false or is not an address described in section 8(2)(a) or (b);
+
+[19/2001 wef 15/05/2001]
 
 (c) fails to submit, or fails to submit within the time prescribed, such returns as are required to be submitted under section 9;
 
@@ -226,17 +256,17 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (3) The Commissioner may accept from any person who is reasonably suspected of having committed an offence under subsection (1)(a), (b) or (c) a sum not exceeding $200 by way of composition for the offence which may have been committed.
 
-[28/1994 wef 01/03/1995]
+[28/94 wef 01/03/1995]
 
 (4) Any person who aids or abets in the commission of any offence under this Act shall be guilty of an offence.
 
-(5) Every offence under this Act shall be deemed to be a seizable offence for the purposes of the Criminal Procedure Code.
+(5) Every offence under this Act shall be deemed to be a seizable offence for the purposes of the Criminal Procedure Code (Cap. 68).
 
 [20/90]
 
 ### Registration of persons arrested or convicted
 
-14\.—(1) The provisions of the Registration of Criminals Act [Cap. 268] relating to the taking of finger print impressions and photographs of persons under arrest and accused of any crime shall apply to persons arrested under this Act as if they were persons arrested for any crime within the meaning of that Act.
+14\.—(1) The provisions of the Registration of Criminals Act (Cap. 268) relating to the taking of finger print impressions and photographs of persons under arrest and accused of any crime shall apply to persons arrested under this Act as if they were persons arrested for any crime within the meaning of that Act.
 
 (2) The Registration of Criminals Act shall apply to persons convicted of an offence under this Act as if the offence were a crime included in the First Schedule to that Act.
 
@@ -348,7 +378,7 @@ National Registration Act
 
 (CHAPTER 201)
 
-This Legislative History is provided for the convenience of users of the National Registration Act. It is not part of the Act.
+This Legislative History is provided for the convenience of users of the National Registration Act. It is not part of this Act.
 
 ||||
 |:-|:-|:-|
@@ -378,3 +408,9 @@ This Legislative History is provided for the convenience of users of the Nationa
 |||(Bill No. 30/1994 published on 1 November 1994)|
 ||Date of Second and Third Readings|5 December 1994|
 ||Date of commencement|1 March 1995|
+|8.|**Act 19 of 2001—Parliamentary Elections (Amendment) Act 2001**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|16 March 2001|
+|||(Bill No. 20/2001 published on 17 March 2001)|
+||Date of Second and Third Readings|20 April 2001|
+||Date of commencement|15 May 2001|
