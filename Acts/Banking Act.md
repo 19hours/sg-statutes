@@ -2078,3 +2078,8 @@ This Legislative History is provided for the convenience of users of the Banking
 ||Date of commencement|8 October 1993|
 |8.|**1994 Revised Edition—Banking Act**|
 ||Date of operation|15 March 1994|
+|9.|**Act 21 of 1996—Banking (Amendment) Act 1996**|
+||Date of First Reading|2 May 1996|
+|||(Bill No. 12/96 published on 3 May 1996)|
+||Date of Second and Third Readings|21 May 1996|
+||Date of commencement|18 July 1996|
