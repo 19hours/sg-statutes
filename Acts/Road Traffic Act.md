@@ -20,6 +20,8 @@
 
 - [6 Rules as to use and construction of vehicles](#Rules-as-to-use-and-construction-of-vehicles)
 
+- [6A Alteration of fuel-measuring equipment](#Alteration-of-fuel-measuring-equipment)
+
 - [7 Savings](#Savings)
 
 - [8 Definition](#Definition)
@@ -372,6 +374,10 @@ An Act for the regulation of road traffic and the use of vehicles and the user o
 
 (b) for the purposes of the whole of Parts II and III and sections 63(2) and (3), 74, 75, 76, 112 to 116, 121, 123, 132, 133(7), 134 and 135(2), the Minister for Home Affairs;
 
+“motor spirit” has the same meaning as in the Customs Act (Cap. 70);
+
+[Act 20 of 1989 wef 17/04/1989]
+
 “motor vehicle” means a mechanically propelled vehicle intended or adapted for use on roads;
 
 “owner”, in relation to a vehicle which is the subject of a hiring agreement or hire purchase agreement, means the person in possession of the vehicle under that agreement;
@@ -492,7 +498,17 @@ Provided that the Minister may by notification in theGazetteauthorise, subject t
 
 (e) to specify the number and nature of springs and brakes on vehicles and trailers and to secure that springs, brakes, silencers and steering gear shall be efficient and kept in proper working order and for empowering any person or classes of persons named or described in such rules to test and inspect any such springs, brakes, silencers and steering gear on a road or, subject to the consent of the occupier of the premises, on any premises;
 
-(f) to regulate the appliances to be fitted for signalling the approach of a vehicle or enabling the driver of a motor vehicle to become aware of the approach of another vehicle from the rear or for intimating any intended change of speed or direction of a motor vehicle and to regulate or to prohibit the use of any such appliances and to secure that they shall be efficient and kept in proper working order;
+(f) to regulate the appliances to be fitted —
+
+(i) for signalling the approach of a vehicle or enabling the driver of a motor vehicle to become aware of the approach of another vehicle from the rear;
+
+(ii) for intimating any intended change of speed or direction of a motor vehicle; or
+
+(iii) for measuring or indicating or measuring and indicating the amount of motor spirit in the fuel tank of a motor vehicle,
+
+and to regulate or prohibit the use of any such appliance and to secure that they shall be efficient and kept in proper working order;
+
+[Act 20 of 1989 wef 17/04/1989]
 
 (g) to regulate the lights to be carried by vehicles and trailers whether in respect of the nature of such lights, the positions in which they shall be fixed and the periods during which they shall be lighted or otherwise;
 
@@ -513,6 +529,18 @@ Provided that the Minister may by notification in theGazetteauthorise, subject t
 (o) to regulate or prohibit either generally or in specified areas or roads and either at all times or between specified hours the use of horns or other warning appliances,
 
 and different rules may be made in respect of different classes or descriptions of vehicles or in respect of the same class or description of vehicles in different circumstances.
+
+### Alteration of fuel-measuring equipment
+
+6A\.—(1) No person shall alter the fuel-measuring equipment of a motor vehicle for the purpose of preventing the fuel-measuring equipment from duly measuring or indicating the quantity of motor spirit in the fuel supply tank of the motor vehicle.
+
+(2) Any person who contravenes or fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 months.
+
+(3) Where there is found any artificial or mechanical means which, either alone or in conjunction with additional artificial or mechanical means not found, could be used for altering or facilitating the alteration of the index of the fuel-measuring equipment, or which would make the fuel-measuring equipment false or unjust in measuring or indicating the quantity of motor spirit in the fuel supply tank of that motor vehicle, the person having custody or control of the motor vehicle at the time such artificial or mechanical means are found shall be presumed, until the contrary is proved, to have abetted the alteration of the fuel-measuring equipment in contravention of subsection (1).
+
+(4) In this section, “fuel-measuring equipment”, in relation to a motor vehicle, means any instrument or appliance, or a combination of instruments or appliances, capable of or constructed for measuring or indicating or measuring and indicating the quantity of motor spirit in the fuel supply tank of the motor vehicle and includes in particular any fuel gauge or fuel sensoring device.
+
+[Act 20 of 1989 wef 17/04/1989]
 
 ### Savings
 
@@ -2435,3 +2463,8 @@ This Legislative History is provided for the convenience of users of the Road Tr
 |||(Bill No. 9/87 published on 22 May 1987)|
 ||Date of Second and Third Readings|28 July 1987|
 ||Date of commencement|14 August 1987|
+|27.|**Act 20 of 1989—Road Traffic (Amendment) Act 1989**|
+||Date of First Reading|13 March 1989|
+|||(Bill No. 21/89 published on 14 March 1989)|
+||Date of Second and Third Readings|7 April 1989|
+||Date of commencement|17 April 1989|
