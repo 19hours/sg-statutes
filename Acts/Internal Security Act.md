@@ -32,6 +32,14 @@
 
 - [8 Power to order detention](#Power-to-order-detention)
 
+- [8A Interpretation](#Interpretation)
+
+- [8B Law applicable to judicial review](#Law-applicable-to-judicial-review)
+
+- [8C (Repealed)](#Repealed)
+
+- [8D Commencement provision](#Commencement-provision)
+
 - [9 Duty to inform person detained of grounds of detention, etc.](#Duty-to-inform-person-detained-of-grounds-of-detention-etc)
 
 - [10 Detention order may be suspended](#Detention-order-may-be-suspended)
@@ -435,6 +443,38 @@ and any order made under paragraph (b) shall be for such period, not exceeding t
 (4) Every person detained in pursuance of an order made under subsection (1)(a) or of a direction given under subsection (2) shall be detained in such place as the Minister may direct (hereinafter referred to as a place of detention) and in accordance with instructions issued by the Minister and any rules made under subsection (5).
 
 (5) The Minister may by rules provide for the maintenance and management of any place of detention and for the discipline of persons detained therein.
+
+### Interpretation
+
+8A\. In this Part, “judicial review” includes proceedings instituted by way of —
+
+(a) an application for any of the prerogative orders of mandamus, prohibition and certiorari;
+
+(b) an application for a declaration or an injunction;
+
+(c) any writ of habeas corpus; and
+
+(d) any other suit or action relating to or arising out of any decision made or act done in pursuance of any power conferred upon the President or the Minister by any provision of this Act.
+
+[Act 2/89 wef 30/01/1989]
+
+### Law applicable to judicial review
+
+8B\.—(1) Subject to the provisions of subsection (2), the law governing the judicial review of any decision made or act done in pursuance of any power conferred upon the President or the Minister by the provisions of this Act shall be the same as was applicable and declared in Singapore on the 13th day of July 1971; and no part of the law before, on or after that date of any other country in the Commonwealth relating to judicial review shall apply.
+
+(2) There shall be no judicial review in any court of any act done or decision made by the President or the Minister under the provisions of this Act save in regard to any question relating to compliance with any procedural requirement of this Act governing such act or decision.
+
+[Act 2/89 wef 30/01/1989]
+
+No appeals to Privy Council
+
+8C\. [Notwithstanding the provisions of any other written law, no appeal shall lie to the Judicial Committee of Her Britannic Majesty’s Privy Council in any proceedings instituted by way of judicial review in respect of any decision made or act done under this Act or in respect of any question of interpretation of the provisions of Part XII of the Constitution or any law made thereunder.][Act 2/89 wef 30/01/1989]
+
+### Commencement provision
+
+8D\. Sections 8A and 8B shall apply to any proceedings instituted by way of judicial review of any decision made or act done under the provisions of this Act, whether such proceedings have been instituted before or after the commencement of the Internal Security (Amendment) Act 1989.
+
+[Act 2/89 wef 30/01/1989]
 
 ### Duty to inform person detained of grounds of detention, etc.
 
@@ -1521,3 +1561,8 @@ This Legislative History is provided for the convenience of users of the Interna
 ||Date of commencement|6 April 1973|
 |13.|**1985 Revised Edition—Internal Security Act**|
 ||Date of operation|30 March 1987|
+|14.|**Act 2 of 1989—Internal Security (Amendment) Act 1989**|
+||Date of First Reading|16 January 1989|
+|||(Bill No. 10/1989 published on 30 January 1989)|
+||Date of Second and Third Readings|25 January 1989|
+||Date of commencement|30 January 1989|
