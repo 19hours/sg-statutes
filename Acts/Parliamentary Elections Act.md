@@ -2804,3 +2804,8 @@ This Legislative History is provided for the convenience of users of the Parliam
 |||(Bill No. 18/1991 published on 8 May 1991)|
 ||Date of Second and Third Readings|28 June 1991|
 ||Date of commencement|14 December 1991 (sections 4 and 8)|
+|40.|**Act 16 of 1993—Supreme Court of Judicature (Amendment) Act 1993**|
+||Date of First Reading|26 February 1993|
+|||(Bill No. 12/1993 published on 27 February 1993)|
+||Date of Second and Third Readings|12 April 1993|
+||Date of commencement|1 July 1993|
