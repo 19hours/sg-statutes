@@ -232,7 +232,7 @@
 
 [**SECOND SCHEDULE**](#SECOND-SCHEDULE)
 
-[**THIRD SCHEDULE**](#THIRD-SCHEDULE)
+[**THIRD SCHEDULE the Co-operative Societies Act (Chapter 62)**](#THIRD-SCHEDULE-the-Co-operative-Societies-Act-Chapter-62)
 
 [**Legislative History**](#Legislative-History)
 
@@ -290,7 +290,7 @@ PRELIMINARY
 
 “net surplus” means the remaining portion of the surplus after provisions have been made for the reserve fund, the Singapore Labour Foundation and the Central Co-operative Fund in accordance with sections 70 and 71;
 
-[13/90 wef 16/04/1990]
+[Act 13/90 wef 16/04/1990]
 
 “officer” includes a chairman, vice-chairman, director, secretary, assistant secretary, treasurer, assistant treasurer, member of committee of management, employee, internal auditor or other person empowered under this Act, the Rules or the by-laws, to give directives in regard to the business of a society or to supervise the business;
 
@@ -312,7 +312,7 @@ PRELIMINARY
 
 “Singapore Labour Foundation” means the Singapore Labour Foundation established under the Singapore Labour Foundation Act (Cap. 303);
 
-[13/90 wef 16/04/1990]
+[Act 13/90 wef 16/04/1990]
 
 “society” means a co-operative society registered under this Act and includes a primary society, secondary society and apex organisation;
 
@@ -946,7 +946,7 @@ PROPERTY AND FUNDS OF SOCIETIES
 
 69\.—(1) A society may invest or deposit its funds —
 
-(a) in the Post Office Savings Bank;
+(a) [Deleted by Act 37 of 1998 wef 16/11/1998]
 
 (b) in such investments and securities as are for the time being authorised for the investment of trust funds;
 
@@ -992,13 +992,13 @@ PROPERTY AND FUNDS OF SOCIETIES
 
 (7) The Central Co-operative Fund shall be administered as a trust fund in such manner as the Minister may prescribe in the Rules.
 
-[13/90 wef 16/04/1990]
+[Act 13/90 wef 16/04/1990]
 
 ### Distribution of net surplus
 
 72\.—(1) The net surplus may be divided among the members by way of dividend or patronage refund or by way of honoraria to officers of the society, or allocated to any other funds constituted by the society to such extent and under such conditions as may be prescribed under this Act or in the by-laws.
 
-[13/90 wef 16/04/1990]
+[Act 13/90 wef 16/04/1990]
 
 (2) No society shall pay a dividend on paid-up share capital or subscription capital exceeding a maximum rate to be determined by the Minister from time to time in the Rules.
 
@@ -1505,3 +1505,8 @@ This Legislative History is provided for the convenience of users of the Co-oper
 |||(Bill No. 8/90 published on 3 March 1990)|
 ||Date of Second and Third Readings|29 March 1990|
 ||Date of commencement|16 April 1990|
+|4.|**Act 37 of 1998—Post Office Savings Bank of Singapore (Transfer of Undertakings and Dissolution) Act 1998**|
+||Date of First Reading|31 July 1998|
+|||(Bill No. 34/98 published on 1 August 1998)|
+||Date of Second and Third Readings|12 October 1998|
+||Date of commencement|16 November 1998|
