@@ -263,3 +263,5 @@ This Legislative History is provided for the convenience of users of the Civil L
 |||(Bill No. 2/1995 published on 24 January 1995)|
 ||Date of Second and Third Readings|1 March 1995|
 ||Date of commencement|1 April 1995|
+|28.|**G. N. No. S 232/96—Parliamentary Resolution**|
+||Date of commencement|28 February 1996|
