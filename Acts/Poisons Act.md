@@ -900,6 +900,8 @@ Calcium carbimide
 
 Camazepam
 
+Candesartan; its salts; its esters; their salts
+
 Candicidin; its salts; its esters; their salts
 
 Cannabinol and its tetrahydro derivatives, prepared wholly or partly by synthesis; their 3-alkyl homologues; any ester or ether of any substance falling within this item
@@ -909,6 +911,8 @@ Cannabis, the dried flowering or fruiting tops of Cannabis Sativa, Linn; the res
 Cantharidin
 
 Cantharidates
+
+Capecitabine
 
 Capreomycin; its salts; its esters; their salts
 
@@ -1247,6 +1251,8 @@ Cyproterone; its salts
 Cytarabine; its salts
 
 Dacarbazine
+
+Daclizumab
 
 Dalteparin; its salts
 
@@ -2036,6 +2042,8 @@ Iprindole; its salts
 
 Iproniazid; its salts
 
+Irbesartan
+
 Irinotecan; its salts
 
 Isepamicin; its salts
@@ -2133,6 +2141,8 @@ Levobunolol; its salts
 Levocabastine; its salts
 
 Levodopa
+
+Levodropropizine
 
 Levomethamphetamine; its salts
 
@@ -2451,6 +2461,8 @@ Miconazole; its salts
 Micronomicin; its salts
 
 Midazolam; its salts
+
+Miglitol
 
 Milrinone; its salts
 
@@ -2779,6 +2791,8 @@ Paramethasone; its salts; its esters and ethers; their salts
 Paramethoxyamphetamine
 
 Pargyline; its salts
+
+Parnaparin; its salts
 
 Paromomycin; its salts; its esters; their salts
 
@@ -3252,6 +3266,8 @@ Sertraline; its salts
 
 Sevoflurane
 
+Sildenafil; its salts
+
 Silver sulphadiazine
 
 Simfibrate
@@ -3556,9 +3572,13 @@ Timolol; its salts
 
 Tinidazole
 
+Tinzaparin; its salts
+
 Tioconazole
 
 Tirilazad; its salts
+
+Tirofiban; its salts
 
 Tixocortol; its salts
 
@@ -3696,7 +3716,7 @@ Urokinase
 
 Ursodeoxycholic acid; its salts; its esters; their salts
 
-Vaccines, sera, toxoids, antitoxins and antigens for human parenteral use
+Vaccines, sera, toxoids, antitoxoids, immunoglobulins and antigens for human administration
 
 Valaciclovir; its salts
 
@@ -3770,7 +3790,7 @@ Zoxazolamine; its salts
 
 Zuclopenthixol; its salts; its esters; their salts.
 
-[S 190/1995; S 227/1996; S 456/1998; S 633/1998; Act 9 of 1999]
+[S 190/1995; S 227/1996; S 456/1998; S 633/1998; Act 9 of 1999; S 280/1999]
 
 ## LEGISLATIVE HISTORY
 
@@ -3963,3 +3983,5 @@ This Legislative History is provided for the convenience of users of the Poisons
 |||(Bill No. 2/1999 published on 21 January 1999)|
 ||Date of Second and Third Readings|11 February 1999|
 ||Date of commencement|1 April 1999|
+|76.|**G. N. No. S 280/1999—Poisons Act (Amendment of Schedule) (No. 2) Notification 1999**|
+||Date of commencement|10 June 1999|
