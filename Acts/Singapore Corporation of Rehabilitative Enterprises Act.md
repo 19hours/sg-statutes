@@ -28,7 +28,7 @@
 
 - [9 Powers of Minister in relation to Corporation](#Powers-of-Minister-in-relation-to-Corporation)
 
-[**Part III TRANSFER TO CORPORATION OF GOVERNMENT UNDERTAKINGS, EMPLOYEES, ETC.**](#Part-III)
+[**Part III TRANSFER TO CORPORATION OF GOVERNMENT UNDERTAKINGS, EMPLOYEES, ETC**](#Part-III)
 
 - [10 Transfer to Corporation of Government undertakings](#Transfer-to-Corporation-of-Government-undertakings)
 
@@ -130,6 +130,10 @@ PRELIMINARY
 
 “Deputy Chairman” means the Deputy Chairman of the Corporation appointed under section 4(1);
 
+“inmate” means a person who is detained in any approved institution under the Misuse of Drugs Act [Cap. 185] or in such other institution or place as may be prescribed;
+
+[23/1987 wef 01/11/1987]
+
 “member” means a member of the Corporation and includes the Chairman and the Deputy Chairman;
 
 “prison officer” means any Chief Rehabilitation Officer, Principal Rehabilitation Officer, warder or other subordinate officer;
@@ -150,15 +154,13 @@ ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF CORPORATION
 
 (a) a Chairman;
 
-(b) a Deputy Chairman who shall be the Permanent Secretary of the Ministry of Home Affairs or his representative;
+(b) a Deputy Chairman who shall be an officer from the Ministry of Home Affairs;
 
-(c) a representative of the Ministry of Finance;
+(c) the Director of Prisons or his representative; and
 
-(d) a representative of the Ministry of Labour;
+(d) not less than 2 nor more than 12 other members.
 
-(e) a representative of the Vocational and Industrial Training Board; and
-
-(f) not less than two but not more than 10 other members.
+[23/1987 wef 01/11/1987]
 
 (2) All members shall, unless the Minister otherwise directs, hold office for a period of 3 years from the date of their respective appointments and shall be eligible for reappointment.
 
@@ -216,7 +218,7 @@ ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF CORPORATION
 
 ## PART III
 
-TRANSFER TO CORPORATION OF GOVERNMENT UNDERTAKINGS, EMPLOYEES, ETC.
+TRANSFER TO CORPORATION OF GOVERNMENT UNDERTAKINGS, EMPLOYEES, ETC
 
 ### Transfer to Corporation of Government undertakings
 
@@ -264,29 +266,47 @@ FUNCTIONS AND POWERS OF CORPORATION
 
 ### Functions of Corporation
 
-15\.—(1) The functions of the Corporation shall be —
+15\. The functions of the Corporation shall be —
 
-(a) to manage and maintain the vocational or industrial training institutions transferred to the Corporation by this Act and such other institutions as the Corporation may establish under this Act for the employment, or vocational or industrial training of prisoners;
+(a) to manage and maintain the vocational or industrial training institutions transferred to the Corporation by this Act and such other institutions as the Corporation may establish under this Act for the employment, or vocational or industrial training of prisoners and inmates;
+
+[23/1987 wef 01/11/1987]
 
 (b) to provide or secure the provision of such employment or facilities for such training and to organise programmes therefor;
 
-(c) to provide technical training in skilled trades for suitable prisoners;
+(c) to provide technical training in skilled trades for suitable prisoners and inmates;
 
-(d) to promote the vocational skills of prisoners;
+[23/1987 wef 01/11/1987]
 
-(e) to require any prisoner to work pursuant to section 50 of the Prisons Act [Cap. 247]; and
+(d) to promote the vocational skills or prisoners and inmates;
 
-(f) to advise the Government on all matters relating to the provision of vocational or industrial training and technical training in trades for prisoners.
+[23/1987 wef 01/11/1987]
+
+(e) to require any prisoner to work pursuant to section 50 of the Prisons Act [Cap. 247];
+
+(f) to advise the Government on all matters relating to the provision of vocational or industrial training and technical training in trades for prisoners and inmates; and
+
+[23/1987 wef 01/11/1987]
+
+(g) to provide or secure the provision of rehabilitative and aftercare services to prisoners and inmates before and after their discharge from custody and to assist the provision by others of such services.
+
+[23/1987 wef 01/11/1987]
 
 ### Powers
 
 16\. The Corporation may do all things that are advantageous, necessary or convenient to be done for or in connection with the performance of its functions and, without prejudice to the generality of the foregoing, may —
 
-(a) provide, whether by itself or with the co-operation of other persons, such vocational or industrial training schemes for any prisoner as the Corporation thinks fit;
+(a) provide, whether by itself or with the co-operation of other persons, such vocational or industrial training schemes for any prisoner and inmate as the Corporation thinks fit;
 
-(b) carry on any trade or business whether by arrangement with other persons or by itself for the purpose of providing facilities for the training of or employment for prisoners;
+[23/1987 wef 01/11/1987]
 
-(c) pay such salaries, wages, remuneration or allowances as the Corporation thinks fit to prisoners who work for the Corporation;
+(b) carry on any trade or business whether by arrangement with other persons or by itself for the purpose of providing facilities for the training of or employment for prisoners and inmates;
+
+[23/1987 wef 01/11/1987]
+
+(c) pay such salaries, wages, remuneration or allowances as the Corporation thinks fit to prisoners and inmates who work for the Corporation;
+
+[23/1987 wef 01/11/1987]
 
 (d) acquire, hire, procure, construct, erect, manufacture, provide, operate, maintain or repair anything whatsoever required by the Corporation for the purposes of this Act;
 
@@ -294,13 +314,23 @@ FUNCTIONS AND POWERS OF CORPORATION
 
 (f) receive donations and contributions from any source and raise funds by all lawful means;
 
-(g) make loans to persons, other than prisoners, who are employed by the Corporation (including loans to assist them to acquire housing accommodation) and guarantee loans made to persons so employed (including loans made by building societies and other bodies for housing purposes);
+(g) make loans to persons, other than prisoners and inmates, who are employed by the Corporation (including loans to assist them to acquire housing accommodation) and guarantee loans made to persons so employed (including loans made by building societies and other bodies for housing purposes);
 
-(h) promote recreational activities for and activities conducive to the welfare of persons, other than prisoners, who are or have been engaged in the employment of the Corporation and assist the promotion by others of those activities;
+[23/1987 wef 01/11/1987]
+
+(h) promote recreational activities for and activities conducive to the welfare of persons, other than prisoners and inmates, who are or have been engaged in the employment of the Corporation and assist the promotion by others of those activities;
+
+[23/1987 wef 01/11/1987]
 
 (i) enter into such contracts as the Corporation considers necessary for the discharge of its functions;
 
-(j) lend money to, and enter into guarantees on behalf of, any person in matters relating to the provision of vocational or industrial training for prisoners;
+(j) make grants or lend money to, or enter into guarantees on behalf of, any person or organisation in matters relating to the provision of industrial or vocational training for, or of rehabilitative and aftercare services to, prisoners and inmates before and after their discharge from custody;
+
+[23/1987 wef 01/11/1987]
+
+(ja) make grants or lend money to, or enter into guarantees on behalf of, prisoners and inmates after their discharge from custody for the purposes of any vocation, trade or business carrying on by them;
+
+[23/1987 wef 01/11/1987]
 
 (k) with the approval of the Minister, enter into joint ventures with any person or organisation, or cause to be formed under the provisions of the Companies Act [Cap. 50] an incorporated company or companies for the purpose of carrying out any of the functions of the Corporation; and
 
@@ -322,7 +352,9 @@ PROVISIONS RELATING TO STAFF
 
 ### Chief executive officer
 
-18\.—(1) The Director of Prisons shall be the chief executive officer and he may be paid such salary, fee or allowances as the Corporation may determine.
+18\.—(1) The Corporation shall, with the approval of the Minister, appoint a chief executive officer on such terms and conditions as the Corporation may determine.
+
+[23/1987 wef 01/11/1987]
 
 (2) The chief executive officer shall —
 
@@ -360,7 +392,9 @@ FINANCIAL PROVISIONS
 
 ### Corporation’s financial year
 
-24\. The financial year of the Corporation shall begin on 1st April of each year and end on 31st March of the succeeding year.
+24\. The financial year of the Corporation shall begin on 1st January and end on 31st December of each year except that the financial year of the Corporation for 1987 shall begin on 1st April and shall end on 31st December 1987.
+
+[23/1987 wef 01/11/1987]
 
 ### Expenses
 
@@ -480,3 +514,8 @@ This Legislative History is provided for the convenience of users of the Singapo
 |||1 April 1976 (Part III)|
 |2.|**1985 Revised Edition—Singapore Corporation of Rehabilitative Enterprises Act**|
 ||Date of operation|30 March 1987|
+|3.|**Act 23 of 1987—Singapore Corporation of Rehabilitative Enterprises (Amendment) Act 1987**|
+||Date of First Reading|28 July 1987|
+|||(Bill No. 16/1987 published on 30 July 1987)|
+||Date of Second and Third Readings|31 August 1987|
+||Date of commencement|1 November 1987|
