@@ -96,7 +96,7 @@
 
 - [41 Particulars of goods exported to be furnished](#Particulars-of-goods-exported-to-be-furnished)
 
-- [42 Liability of master or agent of vessel in respect of goods unaccounted for Liability in respect of duty for goods unaccounted for](#Liability-of-master-or-agent-of-vessel-in-respect-of-goods-unaccounted-for-Liability-in-respect-of-duty-for-goods-unaccounted-for)
+- [42 Liability in respect of duty for goods unaccounted for](#Liability-in-respect-of-duty-for-goods-unaccounted-for)
 
 [**Part V GENERAL PROVISIONS AFFECTING AIRCRAFT AND VESSELS IN TERRITORIAL WATERS**](#Part-V)
 
@@ -796,27 +796,33 @@ the price shall be determined on the assumption that the price covers the right 
 
 ### Value of imported and locally-manufactured motor spirit
 
-23\. For the purposes of this Act, the value of any grade of imported or locally-manufactured motor spirit with a trade name or trade mark shall be taken to be the price inclusive of customs duty for that grade with that trade name or trade mark prevailing in Singapore at retailers’ motor spirit pumps at the time when customs duty becomes payable.
+23\. For the purposes of this Act, the value of any grade of imported or locally-manufactured motor spirit with a trade name or trade mark shall be taken to be the price inclusive of customs duty but excluding goods and services tax charged thereon for that grade with that trade name or trade mark prevailing in Singapore at retailers’ motor spirit pumps at the time when customs duty becomes payable.
 
 [22A
 
 [24/81]
 
+[Act 31 of 1993 wef 26/11/1993]
+
 ### Value of motor spirit where variation in price
 
-24\. For the purpose of section 23, if there is any difference in the price of a grade of motor spirit with the same trade name or trade mark, the highest price inclusive of customs duty for that grade with that trade name or trade mark shall be taken to be the value of that grade of motor spirit.
+24\. For the purpose of section 23, if there is any difference in the price of a grade of motor spirit with the same trade name or trade mark, the highest price inclusive of customs duty but excluding goods and services tax charged thereon for that grade with that trade name or trade mark shall be taken to be the value of that grade of motor spirit.
 
 [22B
 
 [24/81]
 
+[Act 31 of 1993 wef 26/11/1993]
+
 ### Value of motor spirit which is uncustomed, not retailed in Singapore under a trade name or where the retailers’ pump price is not available
 
-25\. Notwithstanding sections 23 and 24, the value of any grade of motor spirit which is uncustomed or which is not being retailed in Singapore under a trade name or trade mark or which is being retailed in Singapore under a trade name or trade mark but the retailer’s motor spirit pump price is not available, shall be the highest price inclusive of customs duty for that grade regardless of trade names or trade marks prevailing in Singapore at retailers’ motor spirit pumps.
+25\. Notwithstanding sections 23 and 24, the value of any grade of motor spirit which is uncustomed or which is not being retailed in Singapore under a trade name or trade mark or which is being retailed in Singapore under a trade name or trade mark but the retailer’s motor spirit pump price is not available, shall be the highest price inclusive of customs duty but excluding goods and services tax charged thereon for that grade regardless of trade names or trade marks prevailing in Singapore at retailers’ motor spirit pumps.
 
 [22C
 
 [24/81]
+
+[Act 31 of 1993 wef 26/11/1993]
 
 ### Question as to price of motor spirit to be decided by Director-General
 
@@ -1064,7 +1070,9 @@ be at the risk of the master, owner or agent of the vessel or the pilot, owner o
 
 (2) For the purpose of subsection (1) and section 45 —
 
-(a) the value of any grade of motor spirit which is not being retailed in Singapore under a trade name or trade mark shall be the highest price inclusive of customs duty for that grade regardless of trade names or trade marks prevailing in Singapore at retailers’ motor spirit pumps; and
+(a) the value of any grade of motor spirit which is not being retailed in Singapore under a trade name or trade mark shall be the highest price inclusive of customs duty but excluding goods and services tax charged thereon for that grade regardless of trade names or trade marks prevailing in Singapore at retailers’ motor spirit pumps; and
+
+[Act 31 of 1993 wef 26/11/1993]
 
 (b) the value of any grade of motor spirit which is being retailed in Singapore under a trade name or trade mark shall be determined in accordance with section 23.
 
@@ -2505,3 +2513,11 @@ This Legislative History is provided for the convenience of users of the Customs
 |||(Bill No. 20/93 published on 29 May 1993)|
 ||Date of Second and Third Readings|30 July 1993|
 ||Date of commencement|10 August 1993|
+|22.|**Act 31 of 1993—Goods and Services Tax Act 1993**|
+||(Consequential amendments made by)||
+||Date of First Reading|26 February 1993|
+|||(Bill No. 14/93 published on 27 February 1993)|
+||Date of Second Reading|19 March 1993|
+||Referred to Select Committee|Parl 4 of 1993 presented to Parliament on 7 September 1993|
+||Date of Third Reading|12 October 1993|
+||Date of commencement|26 November 1993 (except para (3) of Fifth Schedule)|
