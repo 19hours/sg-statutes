@@ -180,8 +180,6 @@ CONTROL AND MANAGEMENT OF PUBLIC FINANCES OF SINGAPORE
 
 (a) on deposit in any bank;
 
-(b) in any of the stocks, funds or securities authorised by law for the investment of trust funds;
-
 (c) in gold and other bullion;
 
 (d) in securities of, or guaranteed by, any government or international financial institution as may be determined by the President;
@@ -559,3 +557,9 @@ This Legislative History is provided for the convenience of users of the Financi
 ||Date of Second and Third Readings|11 November 2003|
 ||Dates of commencement|19 December 2003 (section 3(b) and (c) – Amendment of the Financial Procedure Act)|
 |||1 April 2004 (section 3(a) and (d) – Amendment of the Financial Procedure Act)|
+|15.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 September 2004|
+|||(Bill No. 43/2004 published on 22 September 2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|15 December 2004|
