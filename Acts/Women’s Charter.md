@@ -1,0 +1,2842 @@
+**Women’s Charter**
+
+**(CHAPTER 353)**
+
+**Table of Contents**
+
+[**Long Title**](#Women’s-Charter)
+
+[**Part I PRELIMINARY**](#Part-I)
+
+- [1 Short title](#Short-title)
+
+- [2 Interpretation](#Interpretation)
+
+- [3 Application](#Application)
+
+[**Part II MONOGAMOUS MARRIAGES**](#Part-II)
+
+- [4 Disability to contract marriages](#Disability-to-contract-marriages)
+
+- [5 Void marriages](#Void-marriages)
+
+- [6 Offence](#Offence)
+
+- [7 Continuance of marriage](#Continuance-of-marriage)
+
+[**Part III SOLEMNIZATION OF MARRIAGES**](#Part-III)
+
+- [8 Persons by whom marriages may be solemnized](#Persons-by-whom-marriages-may-be-solemnized)
+
+- [9 Avoidance of marriages where either party is under minimum age for marriage](#Avoidance-of-marriages-where-either-party-is-under-minimum-age-for-marriage)
+
+- [10 Marriages within prohibited degrees](#Marriages-within-prohibited-degrees)
+
+- [11 Avoidance of marriages by subsisting prior marriage](#Avoidance-of-marriages-by-subsisting-prior-marriage)
+
+- [12 Consents](#Consents)
+
+- [13 Notice of marriage](#Notice-of-marriage)
+
+- [14 Signature on notice by person unable to write or to understand English language](#Signature-on-notice-by-person-unable-to-write-or-to-understand-English-language)
+
+- [15 Notice to be filed and published](#Notice-to-be-filed-and-published)
+
+- [16 Registrar to issue marriage licence on proof of conditions by statutory declaration](#Registrar-to-issue-marriage-licence-on-proof-of-conditions-by-statutory-declaration)
+
+- [17 Marriage to take place within 3 months](#Marriage-to-take-place-within-3-months)
+
+- [18 Caveat](#Caveat)
+
+- [19 Proceedings if caveat entered](#Proceedings-if-caveat-entered)
+
+- [20 Special marriage licence](#Special-marriage-licence)
+
+- [21 Requirements for valid marriage](#Requirements-for-valid-marriage)
+
+- [22 Solemnization of marriages](#Solemnization-of-marriages)
+
+- [23 Religious ceremony](#Religious-ceremony)
+
+[**Part IV REGISTRATION**](#Part-IV)
+
+- [24 Registration of marriages](#Registration-of-marriages)
+
+- [25 Appointment of Registrar, Assistant Registrars and Deputy Registrars](#Appointment-of-Registrar-Assistant-Registrars-and-Deputy-Registrars)
+
+- [26 Books and registers](#Books-and-registers)
+
+- [27 Registration of marriage solemnized by the Registrar](#Registration-of-marriage-solemnized-by-the-Registrar)
+
+- [28 Registration of marriage not solemnized by the Registrar](#Registration-of-marriage-not-solemnized-by-the-Registrar)
+
+- [29 Registration where parties have not appeared within prescribed time](#Registration-where-parties-have-not-appeared-within-prescribed-time)
+
+- [30 Copy of entry to be given](#Copy-of-entry-to-be-given)
+
+- [31 Unlawful registers](#Unlawful-registers)
+
+- [32 Legal effect of registration](#Legal-effect-of-registration)
+
+[**Part V PENALTIES AND MISCELLANEOUS PROVISIONS RELATING TO SOLEMNIZATION AND REGISTRATION OF MARRIAGES**](#Part-V)
+
+- [33 Omission to appear before Deputy Registrar within prescribed time](#Omission-to-appear-before-Deputy-Registrar-within-prescribed-time)
+
+- [34 Contravention of section 31](#Contravention-of-section-31)
+
+- [35 Interference with marriage](#Interference-with-marriage)
+
+- [36 False oath, etc., for procuring marriage](#False-oath-etc-for-procuring-marriage)
+
+- [37 False allegation in caveat](#False-allegation-in-caveat)
+
+- [38 Unauthorised solemnization of marriage](#Unauthorised-solemnization-of-marriage)
+
+- [39 Offences relating to solemnization of marriages](#Offences-relating-to-solemnization-of-marriages)
+
+- [40 Destroying or falsifying register of marriages](#Destroying-or-falsifying-register-of-marriages)
+
+- [41 Sanction for prosecution](#Sanction-for-prosecution)
+
+- [42 Correction of errors](#Correction-of-errors)
+
+- [43 Inspection and search](#Inspection-and-search)
+
+- [44 Proof](#Proof)
+
+[**Part VI RIGHTS AND DUTIES OF HUSBAND AND WIFE**](#Part-VI)
+
+- [45 Rights and duties](#Rights-and-duties)
+
+- [46 Abolition of wife’s dependent domicile](#Abolition-of-wife’s-dependent-domicile)
+
+- [47 Conciliation Officers](#Conciliation-Officers)
+
+- [48 Capacity of married women](#Capacity-of-married-women)
+
+- [49 Property of a woman to be held by her as a feme sole](#Property-of-a-woman-to-be-held-by-her-as-a-feme-sole)
+
+- [50 Loans by wife to husband](#Loans-by-wife-to-husband)
+
+- [51 Money and property derived from housekeeping allowance](#Money-and-property-derived-from-housekeeping-allowance)
+
+- [52 Gifts by husband to wife](#Gifts-by-husband-to-wife)
+
+- [53 Remedies of married woman for protection and security of property](#Remedies-of-married-woman-for-protection-and-security-of-property)
+
+- [54 Wife’s antenuptial debts and liabilities](#Wife’s-antenuptial-debts-and-liabilities)
+
+- [55 Actions in tort between husband and wife](#Actions-in-tort-between-husband-and-wife)
+
+- [56 Questions between husband and wife as to property to be decided in a summary way](#Questions-between-husband-and-wife-as-to-property-to-be-decided-in-a-summary-way)
+
+- [57 Married woman as an executrix or trustee](#Married-woman-as-an-executrix-or-trustee)
+
+- [58 Saving of existing settlements and power to make future settlements](#Saving-of-existing-settlements-and-power-to-make-future-settlements)
+
+- [59 Legal representative of married woman](#Legal-representative-of-married-woman)
+
+- [60 Liability for breach of trust](#Liability-for-breach-of-trust)
+
+[**Part VII MAINTENANCE OF WIFE AND CHILDREN**](#Part-VII)
+
+- [61 Court may order maintenance of wife and children](#Court-may-order-maintenance-of-wife-and-children)
+
+- [62 Duty to maintain child accepted as member of family](#Duty-to-maintain-child-accepted-as-member-of-family)
+
+- [63 Enforcement of maintenance order](#Enforcement-of-maintenance-order)
+
+- [64 Rescission and variation of order](#Rescission-and-variation-of-order)
+
+- [65 Application of Act to orders made under Minor Offences Ordinance, etc.](#Application-of-Act-to-orders-made-under-Minor-Offences-Ordinance-etc)
+
+- [66 Power of District or Magistrate’s Court to refuse order where High Court proceeding more convenient](#Power-of-District-or-Magistrate’s-Court-to-refuse-order-where-High-Court-proceeding-more-convenient)
+
+- [67 Appeal](#Appeal)
+
+- [68 Powers of court to make orders for the protection of a party to a marriage or a child of the family](#Powers-of-court-to-make-orders-for-the-protection-of-a-party-to-a-marriage-or-a-child-of-the-family)
+
+- [69 Supplementary provisions with respect to orders under section 68](#Supplementary-provisions-with-respect-to-orders-under-section-68)
+
+- [70 Powers of arrest for breach of an order made under section 68](#Powers-of-arrest-for-breach-of-an-order-made-under-section-68)
+
+- [71 Powers of High Court](#Powers-of-High-Court)
+
+- [72 Procedure](#Procedure)
+
+[**Part VIII ENFORCEMENT OF MAINTENANCE ORDERS**](#Part-VIII)
+
+- [73 Definitions](#Definitions)
+
+- [74 Power of court to make an attachment of earnings order](#Power-of-court-to-make-an-attachment-of-earnings-order)
+
+- [75 Nature of attachment of earnings order](#Nature-of-attachment-of-earnings-order)
+
+- [76 Effect of attachment of earnings order](#Effect-of-attachment-of-earnings-order)
+
+- [77 Duty of defendant and employer to comply with attachment of earnings order](#Duty-of-defendant-and-employer-to-comply-with-attachment-of-earnings-order)
+
+- [78 Additional powers of court in attachment of earnings order proceedings](#Additional-powers-of-court-in-attachment-of-earnings-order-proceedings)
+
+- [79 Obligation of defendant and his employers to notify changes of employment and earnings](#Obligation-of-defendant-and-his-employers-to-notify-changes-of-employment-and-earnings)
+
+- [80 Power of court to determine what are earnings](#Power-of-court-to-determine-what-are-earnings)
+
+- [81 Payment of money under attachment of earnings order](#Payment-of-money-under-attachment-of-earnings-order)
+
+- [82 Where earnings paid by Government or out of Consolidated Fund](#Where-earnings-paid-by-Government-or-out-of-Consolidated-Fund)
+
+- [83 Penalties for non-compliance with attachment of earnings order and for giving false notice or statement](#Penalties-for-non-compliance-with-attachment-of-earnings-order-and-for-giving-false-notice-or-statement)
+
+[**Part IX Chapter 1 — DIVORCE**](#Part-IX)
+
+- [84 Definitions](#Definitions)
+
+- [85 Principles of law to be applied](#Principles-of-law-to-be-applied)
+
+- [86 Jurisdiction of court in matrimonial proceedings](#Jurisdiction-of-court-in-matrimonial-proceedings)
+
+- [87 Restriction on petitions for divorce during the first 3 years of marriage](#Restriction-on-petitions-for-divorce-during-the-first-3-years-of-marriage)
+
+- [88 Irretrievable breakdown of marriage to be sole ground for divorce](#Irretrievable-breakdown-of-marriage-to-be-sole-ground-for-divorce)
+
+- [89 Reconciliation](#Reconciliation)
+
+- [90 Rules to provide for agreements to be referred to court](#Rules-to-provide-for-agreements-to-be-referred-to-court)
+
+- [91 Intervention of Attorney-General](#Intervention-of-Attorney-General)
+
+- [92 Relief for respondent in divorce proceedings](#Relief-for-respondent-in-divorce-proceedings)
+
+- [93 Decree nisi and proceedings thereafter](#Decree-nisi-and-proceedings-thereafter)
+
+- [94 Proceedings for decree nisi of presumption of death and divorce](#Proceedings-for-decree-nisi-of-presumption-of-death-and-divorce)
+
+[**Chapter**](#Chapter)
+
+- [95 Judicial separation](#Judicial-separation)
+
+- [96 Judicial separation no bar to petition for divorce](#Judicial-separation-no-bar-to-petition-for-divorce)
+
+- [97 Judicially separated spouses not entitled to claim in intestacy of each other](#Judicially-separated-spouses-not-entitled-to-claim-in-intestacy-of-each-other)
+
+[**Chapter**](#Chapter)
+
+- [98 Petition for nullity of marriage](#Petition-for-nullity-of-marriage)
+
+- [99 Grounds on which a marriage is void](#Grounds-on-which-a-marriage-is-void)
+
+- [100 Grounds on which a marriage is voidable](#Grounds-on-which-a-marriage-is-voidable)
+
+- [101 Bars to relief where marriage in voidable](#Bars-to-relief-where-marriage-in-voidable)
+
+- [102 Marriage governed by foreign law](#Marriage-governed-by-foreign-law)
+
+- [103 Application of sections 91 and 93 to nullity proceedings](#Application-of-sections-91-and-93-to-nullity-proceedings)
+
+- [104 Effect of decree of nullity in case of voidable marriage](#Effect-of-decree-of-nullity-in-case-of-voidable-marriage)
+
+- [105 Legitimacy of children of annulled marriages](#Legitimacy-of-children-of-annulled-marriages)
+
+[**Chapter**](#Chapter)
+
+- [106 Power of court to order division of matrimonial assets](#Power-of-court-to-order-division-of-matrimonial-assets)
+
+- [107 Power of court to order maintenance](#Power-of-court-to-order-maintenance)
+
+- [108 Assessment of maintenance](#Assessment-of-maintenance)
+
+- [109 Power of court to order security for maintenance](#Power-of-court-to-order-security-for-maintenance)
+
+- [110 Compounding of maintenance](#Compounding-of-maintenance)
+
+- [111 Duration of orders for maintenance](#Duration-of-orders-for-maintenance)
+
+- [112 Power of court to vary orders for maintenance](#Power-of-court-to-vary-orders-for-maintenance)
+
+- [113 Power of court to vary agreements for maintenance](#Power-of-court-to-vary-agreements-for-maintenance)
+
+- [114 Maintenance payable under order of court to be inalienable](#Maintenance-payable-under-order-of-court-to-be-inalienable)
+
+- [115 Recovery of arrears of maintenance](#Recovery-of-arrears-of-maintenance)
+
+[**Chapter**](#Chapter)
+
+- [116 Meaning of "child"](#Meaning-of-"child")
+
+- [117 Arrangements for welfare of children](#Arrangements-for-welfare-of-children)
+
+- [118 Custody of children](#Custody-of-children)
+
+- [119 In making order for custody, paramount consideration to be welfare of child](#In-making-order-for-custody-paramount-consideration-to-be-welfare-of-child)
+
+- [120 Orders subject to conditions](#Orders-subject-to-conditions)
+
+- [121 Duty to maintain children](#Duty-to-maintain-children)
+
+- [122 Power of court to order maintenance for children](#Power-of-court-to-order-maintenance-for-children)
+
+- [123 Matters the court shall have regard when ordering maintenance for children](#Matters-the-court-shall-have-regard-when-ordering-maintenance-for-children)
+
+- [124 Power of court to order security for maintenance](#Power-of-court-to-order-security-for-maintenance)
+
+- [125 Duration of orders for custody and maintenance](#Duration-of-orders-for-custody-and-maintenance)
+
+- [126 Power of court to vary orders for custody or maintenance](#Power-of-court-to-vary-orders-for-custody-or-maintenance)
+
+- [127 Power of court to vary agreement for custody or maintenance](#Power-of-court-to-vary-agreement-for-custody-or-maintenance)
+
+- [128 Recovery of arrears of maintenance](#Recovery-of-arrears-of-maintenance)
+
+- [129 Court to have regard to advice of welfare officers, etc.](#Court-to-have-regard-to-advice-of-welfare-officers-etc)
+
+- [130 Power of court to restrain taking of child out of Singapore](#Power-of-court-to-restrain-taking-of-child-out-of-Singapore)
+
+- [131 Power of court to set aside and prevent dispositions intended to defeat claims to maintenance](#Power-of-court-to-set-aside-and-prevent-dispositions-intended-to-defeat-claims-to-maintenance)
+
+[**Chapter**](#Chapter)
+
+- [132 Procedure](#Procedure)
+
+- [133 Service of petition](#Service-of-petition)
+
+- [134 Evidence](#Evidence)
+
+- [135 Sittings in camera](#Sittings-in-camera)
+
+- [136 Power to rescind decree nisi in certain cases](#Power-to-rescind-decree-nisi-in-certain-cases)
+
+- [137 Appeals](#Appeals)
+
+- [138 Power to allow intervention on terms](#Power-to-allow-intervention-on-terms)
+
+- [139 Power to make rules](#Power-to-make-rules)
+
+[**Part X OFFENCES AGAINST WOMEN AND GIRLS**](#Part-X)
+
+- [140 Offences relating to prostitution](#Offences-relating-to-prostitution)
+
+- [141 Traffic in women and girls](#Traffic-in-women-and-girls)
+
+- [142 Importation of woman or girl by false pretences](#Importation-of-woman-or-girl-by-false-pretences)
+
+- [143 Permitting girl under the age of 16 to use premises for intercourse](#Permitting-girl-under-the-age-of-16-to-use-premises-for-intercourse)
+
+- [144 Permitting mental defective to use premises for intercourse](#Permitting-mental-defective-to-use-premises-for-intercourse)
+
+- [145 Causing or encouraging prostitution of, intercourse with, or indecent assault on, girl under the age of 16](#Causing-or-encouraging-prostitution-of-intercourse-with-or-indecent-assault-on-girl-under-the-age-of-16)
+
+- [146 Persons living on or trading in prostitution](#Persons-living-on-or-trading-in-prostitution)
+
+- [147 Suppression of places of assignation](#Suppression-of-places-of-assignation)
+
+- [148 Suppression of brothels](#Suppression-of-brothels)
+
+- [149 Notice to owner and occupier](#Notice-to-owner-and-occupier)
+
+- [150 Determination of tenancy of places on conviction for permitting use as a brothel, etc.](#Determination-of-tenancy-of-places-on-conviction-for-permitting-use-as-a-brothel-etc)
+
+- [151 Court to make order for demolition of structural contrivances for facilitating the running of a place of assignation or of a brothel](#Court-to-make-order-for-demolition-of-structural-contrivances-for-facilitating-the-running-of-a-place-of-assignation-or-of-a-brothel)
+
+- [152 Authority of courts to issue arrest and search warrants](#Authority-of-courts-to-issue-arrest-and-search-warrants)
+
+- [153 Trials in camera in certain cases](#Trials-in-camera-in-certain-cases)
+
+- [154 Trial of offences](#Trial-of-offences)
+
+- [155 Detention pending judicial proceedings](#Detention-pending-judicial-proceedings)
+
+- [156 Director may examine women and girls and person in charge of them](#Director-may-examine-women-and-girls-and-person-in-charge-of-them)
+
+- [157 Inspection](#Inspection)
+
+- [158 Security on departure of woman or girl from Singapore](#Security-on-departure-of-woman-or-girl-from-Singapore)
+
+- [159 Woman or girl under the age of 21 used or trained for immoral purposes, etc.](#Woman-or-girl-under-the-age-of-21-used-or-trained-for-immoral-purposes-etc)
+
+- [160 Director may order detention of woman or girl in certain cases](#Director-may-order-detention-of-woman-or-girl-in-certain-cases)
+
+- [161 Period of detention of woman or girl in a place of safety](#Period-of-detention-of-woman-or-girl-in-a-place-of-safety)
+
+- [162 Marriage not to be contracted without consent of Director](#Marriage-not-to-be-contracted-without-consent-of-Director)
+
+- [163 Women and girls in urgent need of refuge](#Women-and-girls-in-urgent-need-of-refuge)
+
+- [164 Transfer of women or girls from one place of safety to another place of safety within Singapore](#Transfer-of-women-or-girls-from-one-place-of-safety-to-another-place-of-safety-within-Singapore)
+
+- [165 Removal of women or girls to Malaysia, Brunei Darussalam or Hong Kong by order of Minister](#Removal-of-women-or-girls-to-Malaysia-Brunei-Darussalam-or-Hong-Kong-by-order-of-Minister)
+
+- [166 Appeal](#Appeal)
+
+- [167 Women and girls may be received into and detained in Singapore](#Women-and-girls-may-be-received-into-and-detained-in-Singapore)
+
+- [168 Women and girls so received to be subject to local law](#Women-and-girls-so-received-to-be-subject-to-local-law)
+
+- [169 Women and girls detained to be subject to rules](#Women-and-girls-detained-to-be-subject-to-rules)
+
+- [170 Director may cause persons to be photographed](#Director-may-cause-persons-to-be-photographed)
+
+- [171 Power to summon and examine persons in certain circumstances](#Power-to-summon-and-examine-persons-in-certain-circumstances)
+
+- [172 Record of evidence](#Record-of-evidence)
+
+- [173 Power of search](#Power-of-search)
+
+- [174 Power of arrest and seizure](#Power-of-arrest-and-seizure)
+
+- [175 Presumption arising out of warrants](#Presumption-arising-out-of-warrants)
+
+- [176 Appointment of officers](#Appointment-of-officers)
+
+- [177 Minister may establish places of safety](#Minister-may-establish-places-of-safety)
+
+- [178 Boards of Visitors](#Boards-of-Visitors)
+
+- [179 Discharge Committees](#Discharge-Committees)
+
+[**Part XI MISCELLANEOUS**](#Part-XI)
+
+- [180 Rules](#Rules)
+
+- [181 Marriages solemnized prior to commencement of this Act deemed to be registered under this Act](#Marriages-solemnized-prior-to-commencement-of-this-Act-deemed-to-be-registered-under-this-Act)
+
+- [182 Voluntary registration of marriages solemnized under religion or custom](#Voluntary-registration-of-marriages-solemnized-under-religion-or-custom)
+
+- [183 Recognition of marriages contracted in Embassies, etc., in Singapore](#Recognition-of-marriages-contracted-in-Embassies-etc-in-Singapore)
+
+- [184 Validity of customary marriages contracted on or after 15th September 1961 and before 2nd June 1967](#Validity-of-customary-marriages-contracted-on-or-after-15th-September-1961-and-before-2nd-June-1967)
+
+- [185 Saving for petitions presented before commencement of Women’s Charter (Amendment) Act 1980*](#Saving-for-petitions-presented-before-commencement-of-Women’s-Charter-Amendment-Act-1980*)
+
+[**FIRST SCHEDULE Kindred and affinity prohibited degrees of relationship**](#FIRST-SCHEDULE-Kindred-and-affinity-prohibited-degrees-of-relationship)
+
+[**SECOND SCHEDULE Consents required to the marriage of a minor**](#SECOND-SCHEDULE-Consents-required-to-the-marriage-of-a-minor)
+
+[**Legislative History**](#Legislative-History)
+
+# Women’s Charter
+
+(CHAPTER 353)
+
+(Original Enactment: Ordinance 18 of 1961)
+
+REVISED EDITION 1985
+
+(30th March 1985)
+
+An Act to provide for monogamous marriages and for the solemnization and registration of such marriages; to amend and consolidate the law relating to divorce, the rights and duties of married persons, the maintenance of wives and children and the punishment of offences against women and girls; and to provide for matters incidental thereto.
+
+[15th September 1961]
+
+## PART I
+
+PRELIMINARY
+
+### Short title
+
+1\. This Act may be cited as the Women’s Charter.
+
+### Interpretation
+
+2\. In this Act, unless the context otherwise requires —
+
+“brothel” means any place occupied or used by any two or more women or girls whether at the same time or at different times for the purpose of prostitution;
+
+“club” means any place which is used by an association of two or more persons for any purpose or object;
+
+“Conciliation Officer” means a Conciliation Officer appointed under section 47;
+
+“Deputy Registrar” means a Deputy Registrar of Marriages appointed under section 25;
+
+“Director” means the Director of Social Welfare and includes an Assistant Director of Social Welfare;
+
+“married woman” means a woman validly married under any law, religion, custom or usage;
+
+“minor” means a person who is under the age of 21 years and who is not married or a widower or widow;
+
+“occupier” of a place means the tenant, sub-tenant or lessee thereof or any person in charge of the place whether or not he is in actual occupation and whether he has or has not powers to let or sub-let;
+
+“owner” of a place means a person who, for the time being, has power or authority to let, hire, sell or convey the place to another person, or who receives the rent of the place whether on his own account or as an agent or trustee for any other person;
+
+“place” means any building, house, office, flat, room or cubicle or any part thereof, and any open or enclosed space and includes a ship, boat or any vessel, whether afloat or not, and any vehicle;
+
+“place of assignation” means any place where communication is established with any woman or girl, either directly or through an intermediary, for any immoral purpose;
+
+“place of public resort” means any place to which the public for the time being has access;
+
+“place of safety” means any place of safety established under section 177;
+
+“Po Leung Kuk Fund” means the moneys and securities originally administered by the Po Leung Kuk Society established under rules made by the Governor in Council on 8th March 1905, and includes the moneys and securities kept in banks under the name of the Po Leung Kuk Fund;
+
+“prostitution” means the act of a female offering her body for promiscuous sexual intercourse for hire, whether in money or in kind;
+
+“register of marriages” includes the State Marriage Register and any local marriage register kept under this Act;
+
+“Registrar” means the Registrar of Marriages appointed under section 25 and includes an Assistant Registrar of Marriages;
+
+“solemnization”, with its grammatical variations and cognate expressions, includes the contracting of a marriage or effecting a marriage in accordance with the law, religion, custom or usage of the parties or any of the parties thereto.
+
+### Application
+
+3\.—(1) Save as is otherwise expressly provided this Act shall apply to all persons in Singapore and shall also apply to all persons domiciled in Singapore.
+
+(2) Parts II to VI and Part IX and sections 181 and 182 shall not apply to any person who is married under, or to any marriage solemnized or registered under, the provisions of the Muslim law or of any written law in Singapore or in Malaysia providing for the registration of Muslim marriages:
+
+Provided that sections 4, 5 and 6 shall apply to any person who contracts or purports to contract any such marriage during the subsistence of a marriage registered or deemed to be registered under the provisions of this Act or which was contracted under a law providing that or in contemplation of which the marriage is monogamous.
+
+(3) No marriage both of the parties to which are Muslims shall be solemnized or registered under this Act.
+
+(4) For the purposes of this Act, a person who is a citizen of Singapore shall be deemed, until the contrary is proved, to be domiciled in Singapore.
+
+## PART II
+
+MONOGAMOUS MARRIAGES
+
+### Disability to contract marriages
+
+4\.—(1) Every person who on the commencement of this Act is lawfully married under any law, religion, custom or usage to one or more spouses shall be incapable, during the continuance of that marriage or marriages of contracting a valid marriage under any law, religion, custom or usage with any person other than such spouse or spouses.
+
+(2) Every person who on the commencement of this Act is lawfully married under any law, religion, custom or usage to one or more spouses and who subsequently ceases to be married to that spouse or all the spouses, shall, if he thereafter marries again, be incapable during the continuance of that marriage of contracting a valid marriage with any other person under any law, religion, custom or usage.
+
+(3) Every person who on the commencement of this Act is unmarried and who after that date marries under any law, religion, custom or usage shall be incapable during the continuance of that marriage of contracting a valid marriage with any other person under any law, religion, custom or usage.
+
+(4) Nothing in this section shall affect the operation of Part III in relation to marriages solemnized in Singapore after the commencement of this Act.
+
+### Void marriages
+
+5\.—(1) Every marriage contracted in Singapore or elsewhere in contravention of section 4 shall be void.
+
+(2) If any male person lawfully married under any law, religion, custom or usage shall during the continuance of that marriage contract a union with a woman, that woman shall have no right of succession or inheritance on the death intestate of such male person.
+
+(3) Nothing in this section shall affect the liability of any person to pay such maintenance as may be directed to be paid by him under any written law.
+
+### Offence
+
+6\. Any person lawfully married under any law, religion, custom or usage who during the continuance of that marriage purports to contract a marriage in Singapore or elsewhere under any law, religion, custom or usage in contravention of section 4 shall be deemed to commit the offence of marrying again during the lifetime of the husband or wife, as the case may be, within the meaning of section 494 of the Penal Code [Cap. 224].
+
+### Continuance of marriage
+
+7\. Every marriage solemnized in Singapore after the commencement of this Act other than a marriage which is void under the provisions of this Act shall continue until dissolved —
+
+(a) by the death of one of the parties;
+
+(b) by order of a court of competent jurisdiction; or
+
+(c) by a declaration made by a court of competent jurisdiction that the marriage is null and void.
+
+## PART III
+
+SOLEMNIZATION OF MARRIAGES
+
+### Persons by whom marriages may be solemnized
+
+8\.—(1) A marriage may be solemnized by the Registrar or any other person to whom a licence to solemnize marriages under this section has been granted by the Minister.
+
+(2) The Minister may grant a licence to any suitable person to solemnize marriages in Singapore.
+
+### Avoidance of marriages where either party is under minimum age for marriage
+
+9\. A marriage solemnized in Singapore or elsewhere between persons either of whom is under the age of 18 years shall be void unless the solemnization of the marriage was authorised by a special marriage licence granted by the Minister under section 20.
+
+### Marriages within prohibited degrees
+
+10\.—(1) A marriage solemnized in Singapore or elsewhere between a man and any of the persons mentioned in the first column of the First Schedule, or between a woman and any of the persons mentioned in the second column of that Schedule shall be void.
+
+(2) Notwithstanding the provisions of this section and the provisions of the First Schedule, the Minister may in his discretion grant a licence under this section for a marriage to be solemnized, notwithstanding the kindred or affinity of the parties, if he is satisfied that the marriage is valid under the law, religion, custom or usage applicable to the parties thereto and, where a marriage is solemnized under such licence, the marriage shall be deemed to be valid.
+
+### Avoidance of marriages by subsisting prior marriage
+
+11\. A marriage solemnized in Singapore or elsewhere between persons either of whom is at the date of the marriage married under any law, religion, custom or usage to any other person shall be void.
+
+### Consents
+
+12\.—(1) Subject to this section a marriage licence under section 16 or a special marriage licence under section 20 for the marriage of a minor shall not be issued or granted without the consent of a person mentioned in the Second Schedule who is authorised to give such consent:
+
+Provided that —
+
+(a) if the Registrar, or in the case of a proposed marriage by special marriage licence the Minister, is satisfied that the consent of any person whose consent is so required cannot be obtained by reason of absence or inaccessibility or by reason of his being under any disability the necessity for the consent of that person shall be dispensed with, if there is any other person whose consent is also required; and if the consent of no other person is required, the Registrar or the Minister may dispense with the necessity of obtaining any consent, or the High Court may, on application being made, consent to the marriage, and the consent of the High Court so given shall have the same effect as if it had been given by the person whose consent cannot be so obtained;
+
+(b) if any person whose consent is required refuses his consent, the High Court may, on application being made, consent to the marriage, and the consent of the High Court so given shall have the same effect as if it had been given by the person whose consent is so refused.
+
+(2) An application to the High Court under this section shall be made to a judge in chambers.
+
+(3) When an application is made to the High Court in consequence of a refusal to give consent, notice of the application shall be served upon the person who refused to give consent.
+
+(4) Notwithstanding anything to the contrary in this Part consent to the marriage of a minor shall not be necessary if the minor has been previously married.
+
+(5) There shall be no appeal from an order of a judge under this section.
+
+### Notice of marriage
+
+13\. Whenever any persons desire to marry in Singapore, one of the parties to the intended marriage shall sign and give to the Registrar a notice in the prescribed form.
+
+### Signature on notice by person unable to write or to understand English language
+
+14\. If the person giving the notice under section 13 is unable to write or is insufficiently acquainted with the English language, or both, then it shall be sufficient if he places his mark or cross thereon in the presence of some literate person who shall attest the same, which attestation shall be in the prescribed form.
+
+### Notice to be filed and published
+
+15\.—(1) Upon receipt of a notice under section 13 the Registrar shall cause the notice to be filed serially.
+
+(2) The Registrar shall also cause a copy of the notice to be posted up in a conspicuous place in his office and shall keep the same so posted up until he grants a marriage licence as hereinafter mentioned, or until 3 months shall have elapsed.
+
+### Registrar to issue marriage licence on proof of conditions by statutory declaration
+
+16\.—(1) The Registrar shall, at any time after the expiration of 21 days and before the expiration of 3 months from the date of the notice and upon payment of the prescribed fee, issue a marriage licence in the prescribed form.
+
+(2) The Registrar shall not issue a marriage licence until he has been satisfied by statutory declaration made by each of the parties to the proposed marriage —
+
+(a) that one of the parties has been resident within Singapore for at least 15 days preceding the date of the notice;
+
+(b) that —
+
+(i) each of the parties is 21 years of age or over, or, if not, is divorced or is a widower or widow or has had his or her previous marriage declared null and void, as the case may be; or
+
+(ii) if either party is a minor who has not been previously married — the consent of the appropriate person mentioned in the Second Schedule has been given in writing, or has been dispensed with, or the consent of the High Court has been given in accordance with section 12;
+
+(c) that neither party is under the age of 18 years;
+
+(d) that there is no lawful impediment to the marriage; and
+
+(e) that neither of the parties to the intended marriage is married under any law, religion, custom or usage to any person other than the person with whom such marriage is proposed to be contracted.
+
+(3) If any party giving a notice of marriage or making a statutory declaration does not understand the English language, the Registrar shall, before issuing the marriage licence, ascertain whether that party is cognizant of the purport of the notice or declaration and, if not, shall interpret or cause to be interpreted the notice or declaration to that party into some language which he understands.
+
+### Marriage to take place within 3 months
+
+17\. If the marriage does not take place within 3 months after the date of the notice, the notice and all proceedings consequent thereupon shall be void, and fresh notice shall be given before the parties can lawfully marry.
+
+### Caveat
+
+18\.—(1) Any person on payment of the prescribed fee may enter a caveat with the Registrar against the issue of a licence for the marriage of any person named in the caveat and notice of whose intended marriage has been given to the Registrar.
+
+(2) A caveat entered under this section shall contain the name and place of residence of the person entering the caveat and the grounds of objection upon which the caveat is founded and shall be signed by the person entering the caveat.
+
+### Proceedings if caveat entered
+
+19\.—(1) If a caveat is entered in accordance with section 18 the Registrar shall not issue a licence for the marriage against which the caveat has been entered unless —
+
+(a) after examining into the matter of the said objection, he is satisfied that it ought not to obstruct the issue of the licence for the marriage; or
+
+(b) the caveat is withdrawn by the person who entered it:
+
+Provided that in cases of doubt it shall be lawful for the Registrar to refer the matter of any such caveat to the High Court which shall decide upon the same.
+
+(2) Where the Registrar has refused to issue the marriage licence the person applying for the same shall have a right of appeal to the High Court which shall thereupon either confirm the refusal or direct the issue of the marriage licence.
+
+(3) The High Court may examine the allegations contained in the caveat in a summary way and may hear evidence in support of and in opposition to the objection.
+
+(4) The proceedings under this section shall be before a judge in chambers.
+
+(5) There shall be no appeal from a decision of a judge under this section.
+
+(6) If the Registrar or the High Court declares the grounds of objection to be frivolous and such as ought not to obstruct the issue of the marriage licence, the person entering the caveat shall be liable for the costs of all proceedings relating thereto and for damages to be recovered by suit by the party against whose marriage the caveat was entered.
+
+### Special marriage licence
+
+20\.—(1) The Minister, upon proof being made to him by statutory declaration that there is no lawful impediment to the proposed marriage, and upon his being satisfied that the necessary consent, if any, to the marriage has been obtained, or that the consent has been dispensed with or given under section 12 may, if he thinks fit, dispense with the giving of notice, and with the issue of a marriage licence, and may grant a special marriage licence in the prescribed form authorising the solemnization of a marriage between the parties named in that licence.
+
+(2) The Minister may, in his discretion, grant a special marriage licence under this section authorising the solemnization of a marriage although any party to the marriage is under the age of 18 years.
+
+(3) If the marriage authorised by a special marriage licence under this section is not solemnized within one month from the date of the licence, the licence shall become void.
+
+(4) The Minister may delegate his powers under this section to any person, subject to such conditions as he may think fit to impose.
+
+### Requirements for valid marriage
+
+21\.—(1) Every marriage solemnized in Singapore shall be void unless it is solemnized —
+
+(a) on the authority of a valid marriage licence issued by the Registrar or a valid special marriage licence granted by the Minister; and
+
+(b) by the Registrar or a person who has been granted a licence to solemnize marriages.
+
+(2) Every marriage shall be solemnized in the presence of at least two credible witnesses.
+
+(3) No marriage shall be solemnized unless the person solemnizing the marriage is satisfied that both the parties to the marriage freely consent to the marriage.
+
+### Solemnization of marriages
+
+22\. A marriage solemnized by the Registrar or any person licensed to solemnize marriages may be solemnized according to such form and ceremony as the Registrar or the person solemnizing the marriage sees fit to adopt and in some part of the ceremony he shall request each of the parties to the marriage to declare that he or she is willing to take the other party as his or her wedded wife or husband, as the case may be.
+
+### Religious ceremony
+
+23\.—(1) If the parties to any marriage contracted and solemnized under this Act or under any previous written law relating to Christian or civil marriages shall desire to add to the marriage so contracted and solemnized the religious ceremony ordained or used by the church or temple of which the parties or one of them are members or is a member, it shall be competent for them to present themselves for that purpose to a clergyman or minister or priest of such church or temple, having given notice to that clergyman or minister or priest of their intention to do so; and that clergyman or minister or priest, upon the production of a certified copy of the certificate of the marriage, may, if he sees fit, read or celebrate the marriage service of the church or temple to which he belongs:
+
+Provided that nothing in the reading or celebration of such service shall be held to supersede or invalidate any marriage so previously contracted and solemnized, nor shall such reading or celebration be entered as a marriage in any register of marriages kept according to the provisions of this Act.
+
+(2) Where a person is under expectation of death and desires to have a religious ceremony of marriage between himself and any person performed, it shall be lawful for the clergyman, minister or priest of the church or temple to which he belongs to read or celebrate the marriage service of that church or temple:
+
+Provided that such reading or celebration shall not be deemed to be a solemnization of marriage for the purposes of this Act and shall not be entered as a marriage in any register of marriages kept according to the provisions of this Act.
+
+## PART IV
+
+REGISTRATION
+
+### Registration of marriages
+
+24\. Every marriage solemnized in Singapore after the commencement of this Act shall be registered in accordance with the provisions of this Part.
+
+### Appointment of Registrar, Assistant Registrars and Deputy Registrars
+
+25\.—(1) The Minister may appoint any public officer either by name or office to be the Registrar of Marriages or an Assistant Registrar of Marriages for the purposes of this Act.
+
+(2) The Minister may appoint by name or office such number of Deputy Registrars as may be necessary for the purposes of this Act.
+
+(3) The Minister may appoint by name or office such other officers as may be necessary for carrying this Part into effect.
+
+(4) The Registrar and every Assistant Registrar and Deputy Registrar appointed under this section shall be deemed to be public servants within the meaning of the Penal Code [Cap. 224].
+
+### Books and registers
+
+26\.—(1) The Registrar and the Deputy Registrars shall keep such books and registers as are prescribed by this Act or the rules made thereunder.
+
+(2) The Registrar and the Deputy Registrars shall keep local marriage registers in which shall be entered particulars of marriages which are registrable under this Act.
+
+(3) The Registrar shall cause all certificates of marriage issued under this Act to be bound together to form a State Marriage Register.
+
+(4) The Registrar shall keep an index of every marriage registered in Singapore.
+
+### Registration of marriage solemnized by the Registrar
+
+27\.—(1) Every marriage solemnized by the Registrar shall immediately after the solemnization thereof be registered by the Registrar in the local marriage register and also in the certificate of marriage attached to the marriage register.
+
+(2) The entry of such marriage in both the local marriage register and the certificate of marriage shall —
+
+(a) be signed by the Registrar solemnizing the marriage, and by the persons married; and
+
+(b) be attested by two credible witnesses, other than the Registrar solemnizing the marriage, present at the solemnization.
+
+### Registration of marriage not solemnized by the Registrar
+
+28\.—(1) The parties to a marriage which is not solemnized by the Registrar shall —
+
+(a) appear before a Deputy Registrar within one month of the marriage;
+
+(b) produce to the Deputy Registrar such evidence of the marriage either oral or documentary as the Deputy Registrar may require;
+
+(c) furnish such particulars as may be required by the Deputy Registrar for the due registration of the marriage; and
+
+(d) apply in the prescribed form for the registration of the marriage to be effected.
+
+(2) The Deputy Registrar shall register a marriage by entering the particulars thereof in a local marriage register and also in the certificate of marriage attached to the marriage register.
+
+(3) The entry of the marriage in both the local marriage register and the certificate of marriage shall —
+
+(a) be signed by the Deputy Registrar who made the entry and the parties to the marriage; and
+
+(b) be attested by two credible witnesses present at the solemnization of the marriage.
+
+(4) The Deputy Registrar registering the marriage shall send the certificate of marriage within 3 days of the registration of the marriage to the Registrar.
+
+### Registration where parties have not appeared within prescribed time
+
+29\. Where the parties to a marriage have not appeared before a Deputy Registrar within the time prescribed by section 28, the marriage may, with the consent in writing of the Registrar, be registered by a Deputy Registrar on payment of such penalty as may be prescribed.
+
+### Copy of entry to be given
+
+30\. On the completion of the registration of any marriage the Registrar or the Deputy Registrar shall deliver to the bride a copy of the certificate of marriage duly signed and sealed with his seal of office.
+
+### Unlawful registers
+
+31\. No person other than the Registrar or a Deputy Registrar shall —
+
+(a) keep any book being or purporting to be a register kept in accordance with the provisions of this Act; or
+
+(b) issue to any person any document being or purporting to be a copy of a certificate of a marriage or a certificate of a marriage registered by the Registrar or a Deputy Registrar.
+
+### Legal effect of registration
+
+32\. Nothing in this Act or the rules made thereunder shall be construed to render valid or invalid merely by reason of its having been or not having been registered any marriage which otherwise is invalid or valid.
+
+## PART V
+
+PENALTIES AND MISCELLANEOUS PROVISIONS RELATING TO SOLEMNIZATION AND REGISTRATION OF MARRIAGES
+
+### Omission to appear before Deputy Registrar within prescribed time
+
+33\.—(1) Any person who, being required by section 28 to appear before a Deputy Registrar, omits to do so within the prescribed time shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding one year or to both.
+
+(2) The Registrar may, in his discretion, compound any such offence by collecting from the person reasonably suspected of having committed the same a sum of money not exceeding $400.
+
+### Contravention of section 31
+
+34\. Any person who contravenes section 31 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding one year or to both; and for a second or subsequent conviction shall be liable to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+### Interference with marriage
+
+35\. Any person who uses any force or threat —
+
+(a) to compel a person to marry against his will; or
+
+(b) to prevent a person who has attained the age of 21 years from contracting a valid marriage,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $3,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+### False oath, etc., for procuring marriage
+
+36\. Any person who for the purpose of procuring any marriage under this Act intentionally makes any false declaration or signs any false notice or certificate required by this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $3,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+### False allegation in caveat
+
+37\.—(1) Any person who enters a caveat against the issue by the Registrar of a marriage licence and makes any false representation in or in support of the caveat knowing or believing such representation to be false or not having reason to believe it to be true shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $3,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+(2) Any person who enters a caveat against the issue of a marriage licence and pretends or falsely represents himself to be a person whose consent to the marriage is required by law knowing or believing such pretence or representation to be false or not believing it to be true shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $3,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+### Unauthorised solemnization of marriage
+
+38\. Any person who, not being authorised thereto under this Act, solemnizes or purports to solemnize any marriage shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 10 years and shall also be liable to a fine not exceeding $15,000.
+
+### Offences relating to solemnization of marriages
+
+39\.—(1) Any person who knowingly and contrary to this Act solemnizes or purports to solemnize or officiates at a marriage —
+
+(a) without first receiving a marriage licence or a special marriage licence;
+
+(b) otherwise than in the presence of at least two credible witnesses other than the person solemnizing the marriage; or
+
+(c) after the expiration of 3 months from the date of the notice of marriage given under section 13,
+
+shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 3 years and shall also be liable to a fine not exceeding $5,000.
+
+(2) The Registrar and any Assistant Registrar who knowingly and contrary to this Act issues any marriage licence —
+
+(a) without publishing the notice of marriage as required by section 15;
+
+(b) when a caveat has been entered under section 18 without having first complied with section 19; or
+
+(c) contrary to section 16,
+
+shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 3 years and shall also be liable to a fine not exceeding $5,000.
+
+(3) Any person who marries or purports to marry or goes through a form of marriage with any person contrary to any of the provisions of Part III shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 3 years and shall also be liable to a fine not exceeding $5,000.
+
+### Destroying or falsifying register of marriages
+
+40\. Any person who by himself or another —
+
+(a) wilfully destroys or causes damage to any register of marriages or any certificate in that register, or any part thereof or any authenticated extract therefrom;
+
+(b) falsely makes or counterfeits any part of such register or certificate; or
+
+(c) wilfully inserts any false entry in any register or certificate or authenticated extract,
+
+shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 7 years and shall also be liable to a fine not exceeding $10,000.
+
+### Sanction for prosecution
+
+41\. No prosecution for any offence punishable under this Part shall be instituted except with the authority in writing of the Attorney-General or the Solicitor-General.
+
+### Correction of errors
+
+42\.—(1) If the Registrar is satisfied by statutory declaration or otherwise that any entry relating to a marriage is erroneous in form or substance, he may, in the presence of the persons married, or, if they are absent, in the presence of two credible witnesses, correct the error by ruling through any entry in the certificate of marriage which is erroneous and making the correct entry therein and he shall thereupon cause the entry in the local marriage register to be corrected in the same manner.
+
+(2) The Registrar or the Deputy Registrar shall sign and date the correction made in the certificate of marriage and the local marriage register.
+
+(3) Every entry made under subsection (1) shall be attested by the witnesses in whose presence it was made.
+
+### Inspection and search
+
+43\.—(1) Every marriage register and index kept by the Registrar under the provisions of this Act shall be open to inspection upon payment of the prescribed fee by any person applying to inspect the same.
+
+(2) The Registrar shall upon payment of the prescribed fee furnish to any person requiring the same a copy of any entry certified under his hand and seal of office.
+
+### Proof
+
+44\. Every marriage register kept by the Registrar or a Deputy Registrar under the provisions of this Act and any copy of any entry therein certified under his hand and seal of office to be a true copy or extract shall be prima facie evidence in all courts and tribunals in Singapore of the dates and acts contained or set out in such marriage register, copy or extract.
+
+## PART VI
+
+RIGHTS AND DUTIES OF HUSBAND AND WIFE
+
+### Rights and duties
+
+45\.—(1) Upon the solemnization of marriage, the husband and the wife shall be mutually bound to co-operate with each other in safeguarding the interests of the union and in caring and providing for the children.
+
+(2) The husband and the wife shall have the right separately to engage in any trade or profession or in social activities.
+
+(3) The wife shall have the right to use her own surname and name separately.
+
+(4) The husband and the wife shall have equal rights in the running of the matrimonial household.
+
+### Abolition of wife’s dependent domicile
+
+46\.—(1) Subject to subsection (2), the domicile of a married woman as at any time on or after 1st June 1981 shall, instead of being the same as her husband’s by virtue only of marriage, be ascertained by reference to the same factors as in the case of any other individual capable of having an independent domicile.
+
+(2) Where immediately before 1st June 1981 a woman was married and then had her husband’s domicile by dependence, she is to be treated as retaining that domicile (as a domicile of choice, if it is not also her domicile of origin) unless it is changed by acquisition or revival of another domicile either on or after that date.
+
+[45A
+
+[26/80]
+
+### Conciliation Officers
+
+47\.—(1) The Minister may appoint such public officers as he thinks fit to be Conciliation Officers for the purposes of this Act and shall from time to time publish in theGazettethe names of the officers so appointed.
+
+(2) Where there are differences between the parties to a marriage the parties or either of them may refer the differences to a Conciliation Officer for his advice and assistance.
+
+(3) A Conciliation Officer may by notice in writing require any party to a marriage to attend before him at any reasonable time and at any convenient place for the purposes of settling differences between the parties to the marriage and such person shall be legally bound to attend as required and to answer any questions relating to those differences, truthfully and to the best of his ability.
+
+[46
+
+### Capacity of married women
+
+48\. Subject to the provisions of this Act, a married woman shall —
+
+(a) be capable of acquiring, holding and disposing of, any property;
+
+(b) be capable of rendering herself, and being rendered, liable in respect of any tort, contract, debt or obligation;
+
+(c) be capable of suing and being sued in her own name either in tort or in contract or otherwise and shall be entitled to all remedies and redress for all purposes; and
+
+(d) be subject to the law relating to bankruptcy and to the enforcement of judgments and orders,
+
+in all respects as if she were a feme sole.
+
+[47
+
+### Property of a woman to be held by her as a feme sole
+
+49\.—(1) Subject to the provisions of this Act, all property which —
+
+(a) immediately before the date of commencement of this Act was the property (including the separate property) of a married woman or held for her separate use in equity;
+
+(b) belongs at the time of her marriage to a woman married after the date of commencement of this Act; or
+
+(c) after the date of commencement of this Act is acquired by or devolves upon a married woman,
+
+shall belong to her in all respects as if she were a feme sole and may be disposed of accordingly:
+
+Provided that nothing in this subsection shall —
+
+(i) be construed as affecting adversely the right of any married woman to any property which she had immediately before the date of commencement of this Act; or
+
+(ii) interfere with or render inoperative any valid restriction upon anticipation or alienation attached to the enjoyment of any property by virtue of any provision contained in any written law in force immediately before the date of commencement of this Act, or in any instrument executed before that date.
+
+(2) Any instrument executed on or after the date of commencement of this Act, shall, in so far as it purports to attach to the enjoyment of any property by a woman any restriction upon anticipation or alienation which could not have been attached to the enjoyment of that property by a man, be void.
+
+(3) For the purposes of this section relating to restrictions upon anticipation or alienation —
+
+(a) an instrument attaching such a restriction as aforesaid, executed on or after the date of commencement of this Act, in pursuance of an obligation imposed before that date to attach such a restriction, shall be deemed to have been executed before that date;
+
+(b) a provision contained in an instrument made in exercise of a special power of appointment shall be deemed to be contained in that instrument only and not in the instrument by which the power was created; and
+
+(c) the will of any testator who dies after the date of commencement of this Act, shall (notwithstanding the actual date of the execution thereof) be deemed to have been executed after that date.
+
+[48
+
+### Loans by wife to husband
+
+50\. Any money or other estate of the wife, lent or entrusted by her to her husband for the purpose of any trade or business carried on by him or otherwise, shall be treated as assets of her husband’s estate in case of his bankruptcy under reservation of the wife’s claim to a dividend as a creditor for the amount or value of such money or other estate after, but not before all claims of the other creditors of the husband for valuable consideration in money or money’s worth have been satisfied.
+
+[49
+
+### Money and property derived from housekeeping allowance
+
+51\. If any question arises as to the right of a husband or wife to money derived from any allowance made by the husband for the expenses of the matrimonial home or for similar purposes, or to any property acquired out of that money, the money or property shall, in the absence of any agreement between them to the contrary, be treated as belonging to the husband and the wife in equal shares.
+
+[50
+
+### Gifts by husband to wife
+
+52\. Nothing in this Part shall give validity, as against creditors of the husband, to any gift by a husband to his wife of any property which, after such gift, continues to be in the order and disposition or reputed ownership of the husband, or to any deposit or other investment of moneys of the husband made by or in the name of his wife in fraud of his creditors; but any moneys so deposited or invested may be followed as if this Act had not been passed.
+
+[51
+
+### Remedies of married woman for protection and security of property
+
+53\.—(1) Every married woman shall have in her own name against all persons whomsoever, including her husband, the same civil remedies and also, subject as regards her husband to subsection (3), the same remedies and redress by way of criminal proceedings for the protection and security of her own property as if that property belonged to her as a feme sole.
+
+(2) In any charge or other proceeding under this section it shall be sufficient to allege that property to be her property.
+
+(3) No criminal proceeding shall be taken against a husband or wife while they are living together as to or concerning any property claimed by her or him respectively nor while they are living apart as to or concerning any act done by the husband or wife while they were living together concerning property claimed by the wife or husband respectively unless that property has been wrongly taken by the husband or wife when leaving or deserting or about to leave or desert the wife or husband respectively.
+
+(4) In any action or proceeding by a woman or by a next friend on her behalf, the court before which that action or proceeding is pending shall have jurisdiction by judgment or order to order payment of the costs of the opposite party out of property which is subject to a restraint on anticipation, and may enforce such payment by the appointment of a receiver and the sale of the property or otherwise as is just.
+
+[52
+
+### Wife’s antenuptial debts and liabilities
+
+54\.—(1) A woman after her marriage shall continue to be liable for all debts contracted and all contracts entered into or wrongs committed by her before her marriage, including any sums for which she is liable as a contributory, either before or after she has been placed on the list of contributories under and by virtue of the Companies Act [Cap. 50].
+
+(2) A woman referred to in subsection (1) may be sued for any such debt and for any liability in damages or otherwise under any such contract or in respect of any such wrong.
+
+[53
+
+### Actions in tort between husband and wife
+
+55\.—(1) Subject to this section, each of the parties to a marriage shall have the like right of action in tort against the other as if they were not married.
+
+(2) Where an action in tort is brought by one of the parties to a marriage against the other during the subsistence of the marriage, the court may stay the action if it appears —
+
+(a) that no substantial benefit would accrue to either party from the continuation of the proceedings; or
+
+(b) that the question or questions in issue could more conveniently be disposed of on an application made under section 56,
+
+and without prejudice to paragraph (b) the court may, in such an action, either exercise any power which could be exercised on an application under section 56, or give such directions as it thinks fit for the disposal under that section of any question arising in the proceedings.
+
+[54
+
+### Questions between husband and wife as to property to be decided in a summary way
+
+56\.—(1) In any question between husband and wife as to the title to or possession of property, either party may apply by summons or otherwise in a summary way to any Judge of the Supreme Court, and the Judge may make such order with respect to the property in dispute and as to the costs of and consequent on the application as he thinks fit, or may direct the application to stand over, and any inquiry touching the matters in question to be made in such manner as he thinks fit.
+
+(2) Any order made under this section shall be subject to appeal in the same way as an order made by the same Judge in an action pending in the High Court.
+
+(3) The Judge, if either party so requires, may hear any such application in his chambers.
+
+(4) An application may be made under this section by either of the parties to a marriage notwithstanding that their marriage has been dissolved or annulled so long as the application is made within the period of 3 years beginning with the date on which the marriage was dissolved or annulled; and references in this section to a husband or a wife shall be construed accordingly.
+
+[55
+
+### Married woman as an executrix or trustee
+
+57\. A married woman who is an executrix or administratrix, alone or jointly with any other person or persons, of the estate of any deceased person, or a trustee alone or jointly as aforesaid of property subject to any trust, may sue or be sued, and may transfer or join in transferring any movable or immovable property belonging to the estate or trust without her husband as if she were a feme sole.
+
+[56
+
+### Saving of existing settlements and power to make future settlements
+
+58\.—(1) Nothing in this Part shall interfere with or affect any settlement or agreement for a settlement made or to be made, whether before or after marriage, respecting the property of any married woman, or shall interfere with or render inoperative any restriction against anticipation at present attached or to be hereafter attached to the enjoyment of any property or income by a woman under any settlement, agreement for a settlement, will or other instrument.
+
+(2) No restriction against anticipation contained in any settlement or agreement for a settlement of a woman’s own property, to be made or entered into by herself, shall have any validity against debts contracted by her before marriage, and no settlement or agreement for a settlement shall have any greater force or validity against creditors of that woman than a like settlement or agreement for a settlement made or entered into by a man would have against his creditors.
+
+[57
+
+### Legal representative of married woman
+
+59\. For the purposes of this Part, the legal personal representative of any married woman shall, in respect of her estate, have the same rights and liabilities as she would have, and be subject to the same jurisdiction as she would be, if she were living.
+
+[58
+
+### Liability for breach of trust
+
+60\. The provisions of this Part as to liabilities of married women shall extend to all liabilities by reason of any breach of trust or devastavit committed by any married woman being a trustee or executrix or administratrix either before or after her marriage, and her husband shall not be subject to those liabilities unless he has acted or intermeddled in the trust or administration.
+
+[59
+
+## PART VII
+
+MAINTENANCE OF WIFE AND CHILDREN
+
+### Court may order maintenance of wife and children
+
+61\.—(1) Any married woman whose husband neglects or refuses to provide her reasonable maintenance may apply to a District Court or Magistrate’s Court and that court on due proof thereof may order the husband to pay a monthly allowance or a lump sum for her maintenance.
+
+(2) If any person neglects or refuses to maintain his legitimate or illegitimate child who is unable to maintain himself, a District Court or Magistrate’s Court on due proof thereof may order that person to pay a monthly allowance or a lump sum for the maintenance of that child.
+
+(3) The allowance referred to in subsections (1) and (2) shall be payable from such date as the court directs.
+
+(4) The court, when ordering maintenance for a wife or child under this section, shall have regard to all the circumstances of the case including the following matters:
+
+(a) the financial needs of the wife or child;
+
+(b) the income earning capacity (if any), property and other financial resources of the wife or child;
+
+(c) any physical or mental disability of the wife or child; and
+
+(d) the standard of living enjoyed by the applicant before the husband or father neglected or refused to provide reasonable maintenance for the wife or child.
+
+(5) An application for the maintenance of a child under subsection (2) may be made by any person who is the guardian or has the actual custody of the child.
+
+(6) The court shall have the powers conferred by section 78 as regards proceedings relating to the attachment of earnings order.
+
+[60
+
+### Duty to maintain child accepted as member of family
+
+62\.—(1) Where a person has accepted a child who is not his child as a member of his family, it shall be his duty to maintain that child while he remains a child, so far as the father or the mother of the child fails to do so, and the court may make such orders as may be necessary to ensure the welfare of the child:
+
+Provided that the duty imposed by this subsection shall cease if the child is taken away by his father or mother.
+
+(2) Any sums expended by a person maintaining that child shall be recoverable as a debt from the father or mother of the child.
+
+[60A
+
+### Enforcement of maintenance order
+
+63\.—(1) If any person fails to make one or more payments required to be made under a maintenance order, the court which made the order may for every breach of the order by warrant direct the amount due to be levied in the manner by law provided for levying fines imposed by a Magistrate’s Court, or may sentence him to imprisonment for a term not exceeding one month for each month’s allowance remaining unpaid.
+
+(2) A maintenance order made by the High Court may be enforced by a District Court in accordance with subsection (1) as if that order had been made by the District Court, except that a District Court shall have no power to vary an order of the High Court.
+
+[61
+
+### Rescission and variation of order
+
+64\.—(1) On the application of any person receiving or ordered to pay a monthly allowance under this Part and on proof of a change in the circumstances of that person, his wife or child, or for other good cause being shown to the satisfaction of the court, the court by which the order was made may rescind the order or may vary it as it thinks fit.
+
+(2) Without prejudice to the extent of the discretion conferred upon the court by subsection (1), the court may, in considering any application made under this section, take into consideration any change in the general cost of living which may have occurred between the date of the making of the order sought to be varied and the date of the hearing of the application.
+
+[62
+
+### Application of Act to orders made under Minor Offences Ordinance, etc.
+
+65\.—(1) All orders made under section 37 of the repealed Minor Offences Ordinance [1936 Ed., Cap. 24] or under section 2 of the repealed Married Women and Children (Maintenance) Ordinance [1955 Ed., Cap. 44] and in force at the commencement of this Act shall be deemed to have been made under this Part by a District Court or Magistrate’s Court, as the case may be, and the provisions of this Part shall apply to the same accordingly.
+
+(2) Upon an application to vary any order made under section 37 of the repealed Minor Offences Ordinance [1936 Ed., Cap. 24] or under section 2 of the repealed Married Women and Children (Maintenance) Ordinance [1955 Ed., Cap. 44], the court may make under section 64 any order which it could have made upon an application under section 61 or under section 2 of the repealed Married Women and Children (Maintenance) Ordinance.
+
+[63
+
+### Power of District or Magistrate’s Court to refuse order where High Court proceeding more convenient
+
+66\. If in the opinion of the District Court or Magistrate’s Court the matters in question between the parties or any of them would be more conveniently dealt with by the High Court, the court may refuse to make an order and in that case there shall be no appeal from its decision:
+
+Provided that the High Court or a Judge thereof shall have power by order in any proceeding in the High Court relating to or comprising the same subject-matter as the application refused as aforesaid or any part thereof to direct the court to rehear or determine the same.
+
+[64
+
+### Appeal
+
+67\.—(1) Subject to the provisions of this Part, an appeal shall lie from any order or the refusal of any order by a District Court or Magistrate’s Court under this Part to the High Court exercising appellate civil jurisdiction under the provisions of the Supreme Court of Judicature Act [Cap. 322].
+
+(2) All appeals brought under this section shall be by way of rehearing and the High Court shall have the like powers and jurisdiction on the hearing of such appeals as the Court of Appeal has on the hearing of appeals from the High Court under the Supreme Court of Judicature Act.
+
+### Appeal not to operate as stay of execution
+
+(3) No appeal made under the provisions of this Part from any order shall operate as a stay of such order unless the High Court or the District Court or Magistrate’s Court so directs.
+
+[65
+
+### Powers of court to make orders for the protection of a party to a marriage or a child of the family
+
+68\.—(1) Either party to a marriage may, whether or not an application is made by that party for an order under section 61, apply to a District Court or Magistrate’s Court for an order under this section.
+
+(2) Where on an application for an order under this section the court is satisfied that the respondent has used, or threatened to use, violence against the person of the applicant or a child of the family and that it is necessary for the protection of the applicant or a child of the family that an order should be made under this subsection, the court may make one or both of the following orders:
+
+(a) an order that the respondent shall not use, or threaten to use, violence against the person of the applicant;
+
+(b) an order that the respondent shall not use, or threaten to use, violence against the person of a child of the family.
+
+(3) Where on an application for an order under this section the court is satisfied —
+
+(a) that the respondent has used violence against the person of the applicant or a child of the family;
+
+(b) that the respondent has threatened to use violence against the person of the applicant or a child of the family and has used violence against some other person; or
+
+(c) that the respondent has in contravention of an order made under subsection (2) threatened to use violence against the person of the applicant or a child of the family,
+
+and that the applicant or a child of the family is in danger of being physically injured by the respondent (or would be in such danger if the applicant or child were to enter the matrimonial home) the court may make one or both of the following orders:
+
+(i) an order requiring the respondent to leave the matrimonial home;
+
+(ii) an order prohibiting the respondent from entering the matrimonial home.
+
+(4) Where the court makes an order under subsection (3), the court may, if it thinks fit, make a further order requiring the respondent to permit the applicant to enter and remain in the matrimonial home.
+
+(5) Where on an application for an order under this section the court is satisfied that there is imminent danger of physical injury to the applicant or a child of the family, the court may make an order under subsection (2) notwithstanding —
+
+(a) that the summons has not been served on the respondent or has not been served on the respondent within a reasonable time before the hearing of the application; or
+
+(b) that the summons requires the respondent to appear at some other time or place,
+
+and any order made by virtue of this subsection is referred to in this section and in section 69 to as an expedited order.
+
+(6) An expedited order shall not take effect until the date on which notice of the making of the order is served on the respondent in such manner as may be prescribed or, if the court specifies a later date as the date on which the order is to take effect, that later date, and an expedited order shall cease to have effect on whichever of the following dates occurs first:
+
+(a) the date of the expiration of the period of 28 days beginning with the date of the making of the order; or
+
+(b) the date of commencement of the hearing of the application for an order under this section.
+
+(7) An order under this section may be made subject to such exceptions or conditions as may be specified in the order and, subject, in the case of an expedited order, to subsection (6), may be made for such term as may be so specified.
+
+(8) The court in making an order under subsection (2) may include provision that the respondent shall not incite or assist any other person to use, or threaten to use, violence against the person of the applicant or, as the case may be, the child of the family.
+
+[65A
+
+### Supplementary provisions with respect to orders under section 68
+
+69\.—(1) A District Court or Magistrate’s Court shall, on an application made by either party to the marriage in question, have power by order to vary or revoke any order made under section 68.
+
+(2) Rules may be made for the purpose of giving effect to section 68 and any such rules may in particular, but without prejudice to the generality of this subsection, make provision for the hearing without delay of any application for an order under section 68(3).
+
+(3) The expiry by virtue of section 68(6) of an expedited order shall not prejudice the making of a further expedited order under that section.
+
+(4) Except so far as the exercise by the respondent of a right to occupy the matrimonial home is suspended or restricted by virtue of an order made under section 68(3), an order made under that section shall not affect any estate or interest in the matrimonial home of the respondent or any other person.
+
+[65B
+
+### Powers of arrest for breach of an order made under section 68
+
+70\.—(1) Where a District Court or Magistrate’s Court makes an order under section 68 which provides that the respondent shall not —
+
+(a) use violence against the person of the applicant;
+
+(b) use violence against a child of the family; or
+
+(c) enter the matrimonial home,
+
+the court may, if it is satisfied that the respondent has physically injured the applicant or a child of the family and considers that he is likely to do so again, attach a power of arrest to the order.
+
+(2) Where by virtue of subsection (1) a power of arrest is attached to an order, a police officer may arrest without warrant a person whom he has reasonable cause for suspecting of being in breach of any such provision of the order as is mentioned in subsection (1)(a), (b) or (c) by reason of that person’s use of violence or, as the case may be, his entry into the matrimonial home.
+
+(3) Where a court has made an order under section 68 but has not attached to the order a power of arrest under subsection (1), then, if at any time the applicant for that order considers that the other party to the marriage in question has disobeyed the order, he may apply for the issue of a warrant for the arrest of that other party and a court shall not issue a warrant on such an application unless —
+
+(a) the application is substantiated on oath; and
+
+(b) the court has reasonable grounds for believing that the other party to the marriage has disobeyed that order.
+
+(4) The court before whom any person is brought by virtue of a warrant issued under subsection (3) may remand him.
+
+[65C
+
+### Powers of High Court
+
+71\. The High Court shall have the jurisdiction and powers which belong to and are exercisable by any District Court or Magistrate’s Court under this Part.
+
+[66
+
+### Procedure
+
+72\.—(1) All applications to a District Court or Magistrate’s Court under this Part shall be made and heard in the same manner and in accordance with the same procedure as applications for summonses are made and heard by such District Court or Magistrate’s Court under the provisions of the Criminal Procedure Code and an application for maintenance under this Part shall be deemed to be a complaint for the purposes of that Code.
+
+(2) The Rules of Court for the time being in force made under the provisions of the Supreme Court of Judicature Act [Cap. 322] and applicable to appeals from District Courts brought under section 21 of that Act shall apply to all appeals brought under section 67:
+
+Provided that where an appeal is so brought from a Magistrate’s Court the said Rules shall be construed and applied as far as necessary as if references to a District Court were references to a Magistrate’s Court and references to a District Judge were references to a Magistrate.
+
+[67
+
+## PART VIII
+
+ENFORCEMENT OF MAINTENANCE ORDERS
+
+### Definitions
+
+73\. In this Part, unless the context otherwise requires —
+
+“court” includes the Syariah Court constituted under the provisions of the Administration of Muslim Law Act [Cap. 3];
+
+“defendant”, in relation to a maintenance order or a related attachment of earnings order, means the person liable to make payments under the maintenance order;
+
+“earnings”, in relation to a defendant, means any sums payable to him —
+
+(a) by way of wages or salary, including any fees, bonus, commission, overtime pay or other emoluments payable in addition to wages or salary by the person paying the wages or salary or payable under a contract of service;
+
+(b) by way of pension, including an annuity in respect of past services, whether or not the services were rendered to the person paying the annuity, and including periodical payments by way of compensation for the loss, abolition or relinquishment, or any diminution in the emoluments, of any office or employment;
+
+“employer” means a person by whom, as a principal and not as an employee or agent, earnings fall to be paid to a defendant, and references to payment of earnings shall be construed accordingly;
+
+“maintenance order” means —
+
+(a) an order for the payment of a monthly allowance made or deemed to be made by a court under Part VII;
+
+(b) an order for the payment of periodical sums by way of maintenance or alimony to a wife or for the benefit of any child under Part IX;
+
+(c) an order for maintenance made by the Syariah Court under the Administration of Muslim Law Act ; and
+
+(d) a maintenance order registered or confirmed by the court under the Maintenance Order (Facilities for Enforcement) Act.\*
+
+[68
+
+\*This Act, which was formerly known as the Reciprocal Enforcement of Maintenance Orders Act (Cap. 26, 1970 Ed.), will be repealed upon the commencement of section 19(1) of the Maintenance Orders (Reciprocal Enforcement) Act (Cap. 169).
+
+### Power of court to make an attachment of earnings order
+
+74\.—(1) If any person fails to comply with any maintenance order the court which made the order may for every breach of the order make an attachment of earnings order:
+
+Provided that the court shall not, except with the consent of the defendant, make an attachment of earnings order to secure payments in accordance with a maintenance order if it appears to it that the defendant’s failure to comply with the maintenance order is not due to his wilful refusal or culpable neglect.
+
+(2) A District Court may make an attachment of earnings order to secure payments the defendant is required to make under a maintenance order made by the High Court.
+
+[69
+
+### Nature of attachment of earnings order
+
+75\.—(1) An attachment of earnings order shall require the person to whom the order in question is directed, being a person appearing to the court to be the defendant’s employer, to make out of the earnings falling to be paid to the defendant payments in satisfaction of the order.
+
+(2) The amount to be prescribed in an attachment of earnings order shall be such sum as to the court seems reasonable after taking into account the resources and needs of the defendant and the needs of persons for whom he must or reasonably should provide.
+
+(3) An attachment of earnings order shall contain, so far as they are known to the court making the order, such particulars as may be prescribed for the purpose of enabling the defendant to be identified by the person to whom the order is directed.
+
+(4) An attachment of earnings order or any variation thereof shall not come into force until the expiration of 7 days from the date when a copy of the order is served on the person to whom the order is directed.
+
+(5) An attachment of earnings order shall designate the officer to whom the payments under the order are to be made.
+
+[70
+
+### Effect of attachment of earnings order
+
+76\.—(1) When an attachment of earnings order is made, all other proceedings for the enforcement of the related maintenance order begun before the making of the attachment of earnings order shall be suspended.
+
+(2) The court by which an attachment of earnings order has been made may, if it thinks fit, on the application of the defendant or a person entitled to receive payments under the related maintenance order, make an order discharging or varying the attachment of earnings order.
+
+(3) An attachment of earnings order shall cease to have effect —
+
+(a) upon the issue of a warrant directing that the amount due under the related maintenance order shall be levied in the manner provided by law for levying fines;
+
+(b) upon the making of an order sentencing the defendant to imprisonment for failure to comply with the related maintenance order; and
+
+(c) upon the rescission of the related maintenance order,
+
+and where an attachment of earnings order ceases to have effect as aforesaid the court making the order shall give notice of the cessation to the person to whom the order was directed.
+
+[71
+
+### Duty of defendant and employer to comply with attachment of earnings order
+
+77\.—(1) A person to whom an attachment of earnings order is directed shall, notwithstanding anything in any other written law but subject to the provisions of this Part, comply with the order or, if the order is subsequently varied under section 76, with the order as so varied.
+
+(2) Where on any occasion on which earnings fall to be paid to a defendant there are in force two or more attachment of earnings orders relating to those earnings, then, for the purpose of complying with this Part, the employer shall —
+
+(a) deal with those orders according to the respective dates on which they came into force disregarding any later order until all earlier orders have been dealt with; and
+
+(b) deal with any later order as if the earnings to which it relates were the residue of the defendant’s earnings after the making of any payment under this Part in pursuance of any earlier order.
+
+(3) An employer who, in pursuance of an attachment of earnings order, makes a payment under this Part, shall give to the defendant a statement in writing specifying the amount of that payment.
+
+(4) A person to whom an attachment of earnings order is directed who, at the time when a copy of the order is served on him, has on no occasion during the period of one month immediately preceding that time been the defendant’s employer shall forthwith give notice in writing to that effect in the prescribed form to the court which made the order.
+
+[72
+
+### Additional powers of court in attachment of earnings order proceedings
+
+78\.—(1) Where proceedings relating to an attachment of earnings order are brought in any court, the court may, either before or at the hearing —
+
+(a) order the defendant to give to the court, within such period as may be specified by the order, a statement signed by him of —
+
+(i) the name and address of his employer, or of each of his employers if he has more than one;
+
+(ii) such particulars as to the defendant’s earnings as may be so specified; and
+
+(iii) such prescribed particulars as may be so specified for the purpose of enabling the defendant to be identified by any employer of his; and
+
+(b) order any person appearing to the court to be an employer of the defendant to give to the court, within such period as may be specified by the order, a statement signed by him or on his behalf of such particulars as may be specified by the order of all earnings of the defendant which fell to be paid by that person during such period as may be so specified.
+
+(2) A document purporting to be such a statement as is mentioned in subsection (1) shall, in any such proceedings as are so mentioned, be received in evidence and be deemed to be such a statement without further proof unless the contrary is shown.
+
+[73
+
+### Obligation of defendant and his employers to notify changes of employment and earnings
+
+79\. While an attachment of earnings order is in force —
+
+(a) the defendant shall from time to time notify in writing the court which made the order of every occasion on which he leaves any employment, or becomes employed or re-employed, not later (in each case) than 7 days from the date on which he did so;
+
+(b) the defendant shall, on any occasion when he becomes employed or re-employed, include in his notification under paragraph (a) particulars of his earnings and anticipated earnings from the relevant employment; and
+
+(c) any person who becomes the defendant’s employer and knows that the order is in force and by what court it was made shall, within 7 days of his becoming the defendant’s employer or of acquiring that knowledge (whichever is the later), notify that court in writing that he is the defendant’s employer, and include in his notification a statement of the defendant’s earnings and anticipated earnings.
+
+[73A
+
+### Power of court to determine what are earnings
+
+80\.—(1) The court by which an attachment of earnings order has been made shall, on the application of the person to whom the order is directed or of the defendant or of the person in whose favour the order was made, determine whether payments to the defendant of a particular class or description specified by the application are earnings for the purposes of that order; and the person to whom the order is directed shall be entitled to give effect to any determination for the time being in force under this subsection.
+
+(2) A person to whom an attachment of earnings order is directed who makes an application under subsection (1) shall not incur any liability for failing to comply with the order as regards any payments of the class or description specified by the application which are made by him to the defendant while the application, or any appeal in consequence thereof, is pending:
+
+Provided that this subsection shall not apply as regards such payments if that person subsequently withdraws the application or, as the case may be, abandons the appeal.
+
+[74
+
+### Payment of money under attachment of earnings order
+
+81\.—(1) The court to whom an employer pays any sum in pursuance of an attachment of earnings order shall pay that sum to the person entitled to receive payments under the related maintenance order as is specified by the attachment of earnings order.
+
+(2) Any sums received by virtue of an attachment of earnings order by the court shall be deemed to be payments made by the defendant, so as to discharge first any sums for the time being due and unpaid under the related maintenance order (a sum due at an earlier date being discharged before a sum due at a later date) and secondly any costs incurred in proceedings relating to the maintenance order which were payable by the defendant when the attachment of earnings order was made or last varied.
+
+[75
+
+### Where earnings paid by Government or out of Consolidated Fund
+
+82\.—(1) In relation to earnings falling to be paid by the Government or out of the Consolidated Fund the earnings shall be treated as falling to be paid by the chief officer for the time being of the department, office or other body concerned.
+
+(2) If any question arises, in connection with any proceedings relating to an attachment of earnings order, as to what department, office or other body is concerned for the purposes of this section, or as to who for those purposes is the chief officer thereof, that question shall be referred to and determined by the Minister for Finance but the Minister for Finance shall not be under any obligation to consider a reference under this subsection unless it is made by a court.
+
+(3) A document purporting to set out a determination of the Minister for Finance under subsection (2) and to be signed by an official of the Ministry of Finance shall, in any such proceedings as are mentioned in that subsection, be admissible in evidence and deemed to contain an accurate statement of such a determination unless the contrary is shown.
+
+[76
+
+### Penalties for non-compliance with attachment of earnings order and for giving false notice or statement
+
+83\.—(1) Any person who —
+
+(a) fails to comply with section 77(1) or (4) or an order of a court under section 78(1);
+
+(b) gives such a notice as is mentioned in section 77(4) or a statement in pursuance of an order of a court under section 78(1), which notice or statement he knows to be false in a material particular; or
+
+(c) recklessly gives such a notice or statement which is false in a material particular,
+
+shall, subject to subsection (2), be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding one year or to both.
+
+(2) It shall be a defence for a person charged with failing to comply with section 77(1) to prove that he took all reasonable steps to comply with the attachment of earnings order to which the failure relates.
+
+[77
+
+## PART IX
+
+Chapter 1 — DIVORCE
+
+### Definitions
+
+84\. In this Part, unless the context otherwise requires —
+
+“child of the marriage” means any child of the husband and wife; and includes any adopted child and any other child (whether or not a child of the husband or of the wife) who was a member of the family of the husband and wife at the time when they ceased to live together or at the time immediately preceding the institution of the proceedings, whichever first occurred; and for the purposes of this definition, the parties to a purported marriage that is void shall be deemed to be husband and wife;
+
+“court” means the High Court or a Judge thereof;
+
+“desertion” implies an abandonment against the wish of the person charging it.
+
+[78
+
+### Principles of law to be applied
+
+85\. Subject to the provisions of this Part, the court shall in all suits and proceedings hereunder act and give relief on principles which in the opinion of the court are, as nearly as possible, conformable to the principles on which the High Court of Justice in England acts and gives relief in matrimonial proceedings.
+
+[79
+
+### Jurisdiction of court in matrimonial proceedings
+
+86\.—(1) Subject to subsection (2), the court shall have jurisdiction to entertain proceedings for divorce, presumption of death and divorce, judicial separation or nullity of marriage only if —
+
+(a) the marriage has been registered under this Act, or is deemed to be registered under this Act, or was solemnized under a law which expressly or impliedly provides that the marriage shall be monogamous; and
+
+(b) either of the parties to the marriage is —
+
+(i) domiciled in Singapore at the commencement of the proceedings; or
+
+(ii) habitually resident in Singapore for a period of 3 years immediately preceding the commencement of the proceedings.
+
+(2) In proceedings for nullity of marriage on the ground that the marriage is void or voidable, the court may, notwithstanding the requirements in subsection (1)(b) are not fulfilled, grant the relief sought where both parties to the marriage reside in Singapore at the time of the commencement of the proceedings.
+
+(3) For the purposes of proceedings for nullity of marriage, “marriage” includes a marriage which is not valid by virtue of any of the provisions of this Act.
+
+[80
+
+### Restriction on petitions for divorce during the first 3 years of marriage
+
+87\.—(1) No petition for divorce shall be presented to the court unless at the date of the presentation of the petition 3 years have passed since the date of the marriage:
+
+Provided that the court may, upon application being made in accordance with Rules of Court, allow a petition to be presented before 3 years have passed on the ground that the case is one of exceptional hardship suffered by the petitioner or of exceptional depravity on the part of the respondent, but if it appears to the court at the hearing of the petition that the petitioner obtained leave to present the petition by any misrepresentation or concealment of the nature of the case, the court may, if it pronounces a decree nisi, do so subject to the condition that no application to make the decree absolute shall be made until after the expiration of 3 years from the date of the marriage, or may dismiss the petition without prejudice to any petition which may be brought after the expiration of the said 3 years upon the same, or substantially the same, facts as those proved in support of the petition so dismissed.
+
+(2) In determining any application under this section for leave to present a petition before the expiration of 3 years from the date of the marriage, the court shall have regard to the interests of any children of the marriage and to the question whether there is reasonable probability of a reconciliation between the parties before the expiration of the said 3 years.
+
+(3) The court may, before determining an application under this section, refer the differences between the parties to a Conciliation Officer so that a reconciliation between the parties might be effected.
+
+(4) Nothing in this section shall be deemed to prohibit the presentation of a petition based upon matters which have occurred before the expiration of 3 years from the date of the marriage.
+
+[81
+
+### Irretrievable breakdown of marriage to be sole ground for divorce
+
+88\.—(1) Either party to a marriage may petition for divorce on the ground that the marriage has irretrievably broken down.
+
+(2) The court hearing such petition shall, so far as it reasonably can, inquire into the facts alleged as causing or leading to the breakdown of the marriage and, if satisfied that the circumstances make it just and reasonable to do so, make a decree for its dissolution.
+
+(3) The court hearing a petition for divorce shall not hold the marriage to have broken down irretrievably unless the petitioner satisfies the court of one or more of the following facts:
+
+(a) that the respondent has committed adultery and the petitioner finds it intolerable to live with the respondent;
+
+(b) that the respondent has behaved in such a way that the petitioner cannot reasonably be expected to live with the respondent;
+
+(c) that the respondent has deserted the petitioner for a continuous period of at least two years immediately preceding the presentation of the petition;
+
+(d) that the parties to the marriage have lived apart for a continuous period of at least 3 years immediately preceding the presentation of the petition and the respondent consents to a decree being granted;
+
+(e) that the parties to the marriage have lived apart for a continuous period of at least 4 years immediately preceding the presentation of the petition.
+
+(4) In considering whether it would be just and reasonable to make a decree, the court shall consider all the circumstances, including the conduct of the parties and how the interests of any child or children of the marriage or of either party may be affected if the marriage is dissolved, and it may make a decree nisi subject to such terms and conditions as the court may think fit to attach; but if it should appear to the court that in all the circumstances it would be wrong to dissolve the marriage, it shall dismiss the petition.
+
+(5) Where the parties to the marriage have lived with each other for any period or periods after it became known to the petitioner that the respondent had, since the celebration of the marriage, committed adultery, then, —
+
+(a) if the length of that period or of those periods together was 6 months or less, their living with each other during that period or those periods shall be disregarded in determining for the purposes of subsection (3)(a) whether the petitioner finds it intolerable to live with the respondent; but
+
+(b) if the length of that period or of those periods together exceeded 6 months, the petitioner shall not be entitled to rely on that adultery for the purposes of subsection (3)(a).
+
+(6) Where the petitioner alleges that the respondent has behaved in such a way that the petitioner cannot reasonably be expected to live with him, but the parties to the marriage have lived with each other for a period or periods after the date of the occurrence of the final incident relied on by the petitioner and held by the court to support his allegation, that fact shall be disregarded in determining for the purposes of subsection (3)(b) whether the petitioner cannot reasonably be expected to live with the respondent if the length of that period or of those periods together was 6 months or less.
+
+(7) In considering for the purposes of subsection (3) whether the period for which the respondent has deserted the petitioner or the period for which the parties to a marriage have lived apart has been continuous, no account shall be taken of any one period (not exceeding 6 months) or of any two or more periods (not exceeding 6 months in all) during which the parties resumed living with each other, but no period during which the parties lived with each other shall count as part of the period of desertion or of the period for which the parties to the marriage lived apart, as the case may be.
+
+(8) References in this section to the parties to a marriage living with each other shall be construed as references to their living with each other in the same household.
+
+[82
+
+### Reconciliation
+
+89\.—(1) It shall be the duty of the court in which a petition for divorce or judicial separation has been instituted to give consideration, from time to time, to the possibility of a reconciliation of the parties to the marriage (unless the proceedings are of such a nature that it would not be appropriate to do so), and if at any time it appears to the Judge constituting the court, either from the nature of the case, the evidence in the proceedings or the attitude of the parties or of either of them that there is a reasonable possibility of such a reconciliation, the Judge may do all or any of the following:
+
+(a) adjourn the proceedings to afford the parties the opportunity of being reconciled or to enable anything to be done in accordance with either paragraph (b) or (c);
+
+(b) with the consent of the parties, interview them in chambers, with or without their solicitors, as the court thinks proper, with a view to effecting a reconciliation; and
+
+(c) nominate a Conciliation Officer to endeavour to effect a reconciliation.
+
+(2) If, not less than 14 days after an adjournment under subsection (1) has taken place, either of the parties to the marriage requests that the hearing be proceeded with, the Judge shall resume the hearing, or arrangements shall be made for the proceedings to be dealt with by another Judge, as the case requires, as soon as practicable.
+
+(3) Where a Judge has acted as conciliator under subsection (1)(b) but the attempt to effect a reconciliation has failed, the Judge shall not, except at the request of the parties to the proceedings, continue to hear the proceedings, or determine the proceedings, and, in the absence of such a request, arrangements shall be made for the proceedings to be dealt with by another Judge.
+
+(4) Evidence of anything said or of any admission made in the course of an endeavour to effect a reconciliation under this section shall not be admissible in any court.
+
+[83
+
+### Rules to provide for agreements to be referred to court
+
+90\. Provision may be made by Rules of Court for enabling the parties to a marriage, or either of them, on application made either before or after the presentation of a petition for divorce, to refer to the court any agreement or arrangement made or proposed to be made between them, being an agreement or arrangement which relates to, arises out of, or is connected with, the proceedings for divorce which are contemplated or, as the case may be, have begun, and for enabling the court to express an opinion, should it think it desirable to do so, as to the reasonableness of the agreement or arrangement and to give such directions, if any, in the matter as it thinks fit.
+
+[84
+
+### Intervention of Attorney-General
+
+91\.—(1) In the case of a petition for divorce —
+
+(a) the court may, if it thinks fit, direct all necessary papers to be sent to the Attorney-General and he may argue before the court any question in relation to the matter which the court considers it necessary or expedient to be fully argued; and
+
+(b) any person may at any time during the progress of the proceedings or before the decree nisi is made absolute give information to the Attorney-General on any matter material to the due decision of the case, and the Attorney-General may thereupon take such steps as he considers necessary or expedient.
+
+(2) If the Attorney-General intervenes or shows cause against a decree nisi in any proceedings for divorce, the court may order one or more of the parties to the proceedings to pay the costs of the Attorney-General.
+
+[85
+
+### Relief for respondent in divorce proceedings
+
+92\. If in any proceedings for divorce the respondent alleges and proves any such fact as is mentioned in section 88(3) (treating the respondent as the petitioner and the petitioner as the respondent for the purposes of that subsection), the court may give to the respondent the relief to which he would be entitled if he had presented a petition seeking that relief.
+
+[86
+
+### Decree nisi and proceedings thereafter
+
+93\.—(1) Every decree of divorce shall in the first instance be a decree nisi and shall not be made absolute before the expiration of 3 months from its grant unless the court by general or special order from time to time fixes a shorter period.
+
+(2) Where a decree of divorce has been granted but not made absolute, then without prejudice to section 91, any person may show cause why the decree should not be made absolute by reason of the material facts not having been brought before the court, and in such a case the court may —
+
+(a) notwithstanding subsection (1) make the decree absolute;
+
+(b) rescind the decree nisi;
+
+(c) require further inquiry; or
+
+(d) otherwise deal with the case as it thinks fit.
+
+(3) Where a decree nisi of divorce has been granted and no application for it to be made absolute has been made by the party to whom it was granted, then, at any time after the expiration of 3 months from the earliest date on which that party could have made such an application, the party against whom it was granted may make an application to the court and on that application the court may —
+
+(a) notwithstanding subsection (1), make the decree absolute;
+
+(b) rescind the decree nisi;
+
+(c) require further inquiry; or
+
+(d) otherwise deal with the case as it thinks fit.
+
+[87
+
+### Proceedings for decree nisi of presumption of death and divorce
+
+94\.—(1) Any married person who alleges that reasonable grounds exist for supposing that the other party to the marriage is dead may present a petition to the court to have it presumed that the other party is dead and to have the marriage dissolved, and the court, if satisfied that such reasonable grounds exist, may make a decree nisi of presumption of death and of divorce.
+
+(2) In any such proceedings the fact that for a period of 7 years or upwards the other party to the marriage has been continually absent from the petitioner, and the petitioner has no reason to believe that the other party has been living within that time, shall be evidence that he or she is dead until the contrary is proved.
+
+(3) Section 93 shall apply to a petition and a decree under this section as it applies to a petition for divorce and a decree of divorce respectively.
+
+[88
+
+### Judicial separation
+
+95\.—(1) A petition for judicial separation may be presented to the court by either party to a marriage on the ground and circumstances set out in section 88(3), and that section shall, with the necessary modifications, apply in relation to such a petition as they apply in relation to a petition for divorce.
+
+(2) Where a court grants a decree of judicial separation it shall no longer be obligatory for the petitioner to cohabit with the respondent.
+
+(3) The court may, on an application by petition of the spouse against whom a decree of judicial separation has been made and on being satisfied that the allegations in the petition are true, rescind the decree at any time on the ground that it was obtained in the absence of the applicant or, if desertion was the ground of the decree, that there was reasonable cause for the alleged desertion.
+
+[89
+
+### Judicial separation no bar to petition for divorce
+
+96\.—(1) A person shall not be prevented from presenting a petition for divorce, or the court from pronouncing a decree of divorce, by reason only that the petitioner or respondent has at any time been granted a judicial separation upon the same or substantially the same facts as those proved in support of the petition for divorce.
+
+(2) On any such petition for divorce, the court may treat the decree of judicial separation as sufficient proof of the adultery, desertion, or other ground on which it was granted, but the court shall not pronounce a decree of divorce without receiving evidence from the petitioner.
+
+(3) For the purposes of any such petition for divorce, a period of desertion immediately preceding the institution of proceedings for a decree of judicial separation shall, if the parties have not resumed cohabitation and the decree has been continuously in force since it was granted, be deemed immediately to precede the presentation of the petition for divorce.
+
+[90
+
+### Judicially separated spouses not entitled to claim in intestacy of each other
+
+97\. If, while a decree of judicial separation is in force and the separation is continuing, either of the parties whose marriage is the subject of the decree dies intestate after 1st June 1981, all or any of his or her movable or immovable property shall devolve as if the other party to the marriage had been then dead.
+
+[26/80]
+
+[91
+
+### Petition for nullity of marriage
+
+98\. Any husband or wife may present a petition to the court praying for a decree of nullity in respect of his or her marriage.
+
+[92
+
+### Grounds on which a marriage is void
+
+99\. A marriage which takes place after 1st June 1981 shall be void on the following grounds only:
+
+(a) that it is not a valid marriage by virtue of sections 5, 9, 10, 11 and 21; or
+
+(b) where the marriage was celebrated outside Singapore, that the marriage is invalid —
+
+(i) for lack of capacity; or
+
+(ii) by the law of the place in which it was celebrated.
+
+[93
+
+[26/80]
+
+### Grounds on which a marriage is voidable
+
+100\. A marriage which takes place after 1st June 1981 shall be voidable on the following grounds only:
+
+(a) that the marriage has not been consummated owing to the incapacity of either party to consummate it;
+
+(b) that the marriage has not been consummated owing to the wilful refusal of the respondent to consummate it;
+
+(c) that either party to the marriage did not validly consent to it, whether in consequence of duress, mistake, unsoundness of mind or otherwise;
+
+(d) that at the time of marriage either party, though capable of giving a valid consent, was suffering (whether continuously or intermittently) from mental disorder within the meaning of the Mental Disorders and Treatment Act [Cap. 178] of such a kind or to such an extent as to be unfit for marriage;
+
+(e) that at the time of the marriage the respondent was suffering from venereal disease in a communicable form;
+
+(f) that at the time of the marriage the respondent was pregnant by some person other than the petitioner.
+
+[94
+
+### Bars to relief where marriage in voidable
+
+101\.—(1) The court shall not, in proceedings instituted after 1st June 1981, grant a decree of nullity on the ground that a marriage is voidable (whether the marriage took place before or after that date) if the respondent satisfies the court —
+
+(a) that the petitioner, with knowledge that it was open to him to have the marriage avoided, so conducted himself in relation to the respondent as to lead the respondent reasonably to believe that he would not seek to do so; and
+
+(b) that it would be unjust to the respondent to grant the decree.
+
+(2) Without prejudice to subsection (1), the court shall not grant a decree of nullity on the grounds mentioned in section 100(c), (d), (e) or (f) unless it is satisfied that proceedings were instituted within 3 years from the date of the marriage.
+
+(3) Without prejudice to subsections (1) and (2), the court shall not grant a decree of nullity on the grounds mentioned in section 100(e) or (f) unless it is satisfied that the petitioner was at the time of the marriage ignorant of the facts alleged.
+
+(4) Subsection (1) replaces, in relation to the grounds mentioned in section 100, any rule of law whereby a decree may be refused by reason of approbation, ratification or lack of sincerity on the part of the petitioner or on similar grounds.
+
+[95
+
+### Marriage governed by foreign law
+
+102\. Where, apart from this Act, any matter affecting the validity of a marriage would fall to be determined (in accordance with the rules of private international law) by reference to the law of a country outside Singapore, nothing in section 98, 99 or 100 shall —
+
+(a) preclude the determination of the matter as aforesaid; or
+
+(b) require the application to the marriage of the grounds or bars to relief mentioned in those sections except so far as are applicable in accordance with those rules.
+
+[96
+
+### Application of sections 91 and 93 to nullity proceedings
+
+103\. Sections 91 and 93 shall apply in relation to proceedings for nullity of marriage as if for any reference in those provisions to divorce there were substituted a reference to nullity of marriage.
+
+[97
+
+### Effect of decree of nullity in case of voidable marriage
+
+104\.—(1) If the court finds that the petitioner’s case has been proved, it shall pronounce a decree of nullity.
+
+(2) A decree of nullity granted after 1st June 1981 on the ground that a marriage is voidable shall operate to annul the marriage only as respects any time after the decree has been made absolute, and the marriage shall, notwithstanding the decree, be treated as if it had existed up to that time.
+
+[98
+
+[26/80]
+
+### Legitimacy of children of annulled marriages
+
+105\.—(1) Where a marriage is annulled, any child who would have been the legitimate child of the parties to the marriage if it had been dissolved, instead of being annulled, at the date of the decree shall be deemed to be their legitimate child, notwithstanding the annulment.
+
+(2) The child of a void marriage born on or after 2nd May 1975 shall be deemed to be the legitimate child of his parents if at the date of such void marriage both or either of the parties reasonably believed that the marriage was valid.
+
+[99
+
+### Power of court to order division of matrimonial assets
+
+106\.—(1) The court shall have power, when granting or subsequent to the grant of a decree of divorce, judicial separation or nullity of marriage, to order the division between the parties of any assets acquired by them during the marriage by their joint efforts or the sale of any such assets and the division between the parties of the proceeds of sale.
+
+(2) In exercising the power conferred by subsection (1) the court shall have regard to —
+
+(a) the extent of the contributions made by each party in money, property or work towards the acquiring of the assets;
+
+(b) any debts owing by either party which were contracted for their joint benefit; and
+
+(c) the needs of the minor children (if any) of the marriage,
+
+and, subject to those considerations, the court shall incline towards equality of division.
+
+(3) The court shall have power, when granting a decree of divorce, judicial separation or nullity of marriage, to order the division between the parties of any assets acquired during the marriage by the sole effort of one party to the marriage or the sale of any such assets and the division between the parties of the proceeds of sale.
+
+(4) In exercising the power conferred by subsection (3) the court shall have regard to —
+
+(a) the extent of the contribution made by the other party who did not acquire the assets to the welfare of the family by looking after the home or by caring for the family; and
+
+(b) the needs of the minor children, if any, of the marriage,
+
+and, subject to those considerations, the court may divide the assets or the proceeds of sale in such proportions as the court thinks reasonable, but in any case the party by whose effort the assets were acquired shall receive a greater proportion.
+
+(5) For the purposes of this section, references to assets acquired during a marriage include assets owned before the marriage by one party which have been substantially improved during the marriage by the other party or by their joint efforts.
+
+[100
+
+### Power of court to order maintenance
+
+107\. The court may order a man to pay maintenance to his wife or former wife —
+
+(a) during the course of any matrimonial proceedings; or
+
+(b) when granting or subsequent to the grant of a decree of divorce, judicial separation or nullity of marriage.
+
+[101
+
+### Assessment of maintenance
+
+108\.—(1) In determining the amount of any maintenance to be paid by a man to his wife or former wife, the court shall have regard to all the circumstances of the case including the following matters:
+
+(a) the income, earning capacity, property and other financial resources which each of the parties to the marriage has or is likely to have in the foreseeable future;
+
+(b) the financial needs, obligations and responsibilities which each of the parties to the marriage has or is likely to have in the foreseeable future;
+
+(c) the standard of living enjoyed by the family before the breakdown of the marriage;
+
+(d) the age of each party to the marriage and the duration of the marriage;
+
+(e) any physical or mental disability of either of the parties to the marriage;
+
+(f) the contributions made by each of the parties to the welfare of the family, including any contribution made by looking after the home or caring for the family; and
+
+(g) in the case of proceedings for divorce or nullity of marriage, the value to either of the parties to the marriage of any benefit (for example, a pension) which, by reason of the dissolution or annulment of the marriage that party will lose the chance of acquiring.
+
+(2) In exercising its powers under this section, the court shall endeavour so to place the parties, so far as it is practicable and, having regard to their conduct, just to do so, in the financial position in which they would have been if the marriage had not broken down and each had properly discharged his or her financial obligations and responsibilities towards the other.
+
+[102
+
+### Power of court to order security for maintenance
+
+109\.—(1) A maintenance order may provide for the payment of a lump sum or such periodical payment as the court may determine.
+
+(2) The court may, in its discretion, when awarding maintenance, order the person liable to pay such maintenance to secure the whole or any part of it by vesting any property in trustees upon trust to pay the maintenance or part thereof out of the income from that property and, subject thereto, in trust for the settlor.
+
+[103
+
+### Compounding of maintenance
+
+110\. An agreement for the payment, in money or other property, of a capital sum in settlement of all future claims to maintenance, shall not be effective until it has been approved, or approved subject to conditions, by the court, but when so approved shall be a good defence to any claim for maintenance.
+
+[104
+
+### Duration of orders for maintenance
+
+111\. Except where an order for maintenance is expressed to be for any shorter period or where any such order has been rescinded, an order for maintenance shall expire —
+
+(a) if the maintenance was unsecured, on the death of the husband or of the wife, whichever is the earlier;
+
+(b) if the maintenance was secured, on the death of the wife.
+
+[105
+
+### Power of court to vary orders for maintenance
+
+112\. The court may at any time vary or rescind any subsisting order for maintenance, whether secured or unsecured, on the application of the person in whose favour or of the person against whom the order was made, or, in respect of secured maintenance, of the legal personal representatives of the latter, where it is satisfied that the order was based on any misrepresentation or mistake of fact or where there has been any material change in the circumstances.
+
+[106
+
+### Power of court to vary agreements for maintenance
+
+113\. Subject to section 110, the court may at any time and from time to time vary the terms of any agreement as to maintenance made between husband and wife, whether made before or after 1st June 1981, where it is satisfied that there has been any material change in the circumstances and notwithstanding any provision to the contrary in any such agreement.
+
+[26/80]
+
+[107
+
+### Maintenance payable under order of court to be inalienable
+
+114\. Maintenance payable to any person under any order of court shall not be assignable or transferable or liable to be attached, sequestered or levied upon for, or in respect of, any debt or claim whatsoever.
+
+[108
+
+### Recovery of arrears of maintenance
+
+115\.—(1) Subject to subsection (3), arrears of unsecured maintenance, whether payable by arrangement or under an order of court, shall be recoverable as a debt from the defaulter and, where they accrued due before the making of a receiving order against the defaulter, shall be provable in his bankruptcy and, where they accrued due before his death, shall be a debt due from his estate.
+
+(2) Subject to subsection (3), arrears of unsecured maintenance which accrued due before the death of the person entitled thereto shall be recoverable as a debt by the legal personal representatives of such person.
+
+(3) No amount owing as maintenance shall be recoverable in any suit if it accrued due more than 3 years before the institution of the suit.
+
+[109
+
+### Meaning of “child”
+
+116\. In this Chapter, wherever the context so requires, “child” means a child of the marriage as defined in section 84 but who is under the age of 21 years.
+
+[110
+
+### Arrangements for welfare of children
+
+117\.—(1) Subject to this section, the court shall not make absolute any decree for divorce or nullity of marriage or pronounce a decree of judicial separation unless the court is satisfied as respects every child —
+
+(a) that arrangements have been made for the welfare of the child and that those arrangements are satisfactory or are the best that can be devised in the circumstances; or
+
+(b) that it is impracticable for the party or parties appearing before the court to make any such arrangements.
+
+(2) The court may if it thinks fit proceed without observing the requirements of subsection (1) if it appears that there are circumstances making it desirable that the decree nisi be made absolute or, as the case may be, that the decree for judicial separation should be pronounced without delay, and if the court has obtained a satisfactory undertaking from either or both of the parties to bring the question of the arrangements for the child before the court within a specified time.
+
+(3) In this section and in section 118, “welfare”, in relation to a child, includes the custody and education of the child and financial provision for him.
+
+[111
+
+### Custody of children
+
+118\. In any suit for divorce, or for nullity of marriage, or for judicial separation, the court may, at any stage of the proceedings, or after a decree absolute has been pronounced, make such orders as it thinks fit with respect to the welfare of any child and may vary or discharge the said orders, and may, if it thinks fit, direct proceedings to be taken for placing the child under the protection of the court.
+
+[112
+
+### In making order for custody, paramount consideration to be welfare of child
+
+119\.—(1) The court may at any time by order place a child in the custody of his or her father or his or her mother or (where there are exceptional circumstances making it undesirable that the child be entrusted to either parent) of any other relative of the child or of any organisation or association the objects of which include child welfare, or to any other suitable person.
+
+(2) In deciding in whose custody a child should be placed, the paramount consideration shall be the welfare of the child and subject to this, the court shall have regard —
+
+(a) to the wishes of the parents of the child; and
+
+(b) to the wishes of the child, where he or she is of an age to express an independent opinion.
+
+[113
+
+### Orders subject to conditions
+
+120\.—(1) An order for custody may be made subject to such conditions as the court may think fit to impose, and subject to such conditions, if any, as may from time to time apply, shall entitle the person given custody to decide all questions relating to the upbringing and education of the child.
+
+(2) Without prejudice to the generality of subsection (1), an order for custody may —
+
+(a) contain conditions as to the place where the child is to reside, as to the manner of his or her education and as to the religion in which he or she is to be brought up;
+
+(b) provide for the child to be temporarily in the care and control of some person other than the person given custody;
+
+(c) provide for the child to visit a parent deprived of custody, or any member of the family of a parent who is dead or has been deprived of custody, at such times and for such periods as the court may consider reasonable;
+
+(d) give a parent deprived of custody or any member of the family of a parent who is dead or has been deprived of custody the right of access to the child at such times and with such frequency as the court may consider reasonable; or
+
+(e) prohibit the person given custody from taking the child out of Singapore.
+
+[114
+
+### Duty to maintain children
+
+121\. Except where an agreement or order of court otherwise provides, it shall be the duty of a parent to maintain or contribute to the maintenance of his or her children, whether they are in his or her custody or the custody of any other person, either by providing them with such accommodation, clothing, food and education as may be reasonable having regard to his or her means and station in life or by paying the cost thereof.
+
+[115
+
+### Power of court to order maintenance for children
+
+122\.—(1) During the pendency of any matrimonial proceedings the court may order a parent to pay towards the maintenance of his child.
+
+(2) When granting or at any time subsequent to the grant of a decree of divorce, judicial separation or nullity of marriage the court may order a parent to pay maintenance for the benefit of his child in any manner the court thinks fit.
+
+(3) The court shall have the corresponding power to order a woman to pay or contribute towards the maintenance of her child where it is satisfied that having regard to her means it is reasonable so to order.
+
+(4) An order under subsection (1), (2) or (3) may direct payment to the person having custody or care and control of the child or trustees for the child.
+
+[116
+
+### Matters the court shall have regard when ordering maintenance for children
+
+123\.—(1) The court, when ordering maintenance for the benefit of any child, shall have regard to all the circumstances of the case including the following matters:
+
+(a) the financial needs of the child;
+
+(b) the income, earning capacity (if any), property and other financial resources of the child;
+
+(c) any physical or mental disability of the child;
+
+(d) the standard of living enjoyed by the family before the breakdown of the marriage; and
+
+(e) the manner in which he was being and in which the parties to the marriage expected him to be educated or trained.
+
+(2) The court shall so exercise its powers under subsection (1) as to place the child, so far as it is practicable and (having regard to the income, earning capacity, financial resources and the financial needs, obligations and responsibilities of the parties to the marriage) just to do so, in the financial position in which the child would have been if the marriage had not broken down and each of those parties had properly discharged his or her financial obligations and responsibilities towards him.
+
+[117
+
+### Power of court to order security for maintenance
+
+124\. The court may, in its discretion, when ordering the payment of maintenance for the benefit of any child, order the person liable to pay the maintenance to secure the whole or any part of it by vesting any property in trustees upon trust to pay the maintenance or part thereof out of the income from the property, and subject thereto, in trust for the settlor.
+
+[118
+
+### Duration of orders for custody and maintenance
+
+125\. Except where an order for custody or maintenance of a child is expressed to be for any shorter period or where any such order has been rescinded, it shall expire —
+
+(a) on the attainment by the child of the age of 21 years;
+
+(b) upon the child obtaining gainful employment; or
+
+(c) where the child is under any physical or mental disability, on the ceasing of such disability, whichever is the later.
+
+[119
+
+### Power of court to vary orders for custody or maintenance
+
+126\. The court may at any time vary or rescind any order for the custody or maintenance of a child on the application of any interested person, where it is satisfied that the order was based on any misrepresentation or mistake of fact or where there has been any material change in the circumstances.
+
+[120
+
+### Power of court to vary agreement for custody or maintenance
+
+127\. The court may at any time and from time to time vary the terms of any agreement relating to the custody or maintenance of a child, whether made before or after 1st June 1981, notwithstanding any provision to the contrary in that agreement, where it is satisfied that it is reasonable and for the welfare of the child to do so.
+
+[121
+
+[26/80]
+
+### Recovery of arrears of maintenance
+
+128\. Section 115 shall apply, mutatis mutandis, to orders for the payment of maintenance for the benefit of any child.
+
+[122
+
+### Court to have regard to advice of welfare officers, etc.
+
+129\. When considering any question relating to the custody or maintenance of any child, the court shall, whenever it is practicable, take the advice of some person, whether or not a public officer, who is trained or experienced in child welfare but shall not be bound to follow such advice.
+
+[123
+
+### Power of court to restrain taking of child out of Singapore
+
+130\.—(1) The court may on the application of the father or mother of a child —
+
+(a) where any matrimonial proceeding is pending; or
+
+(b) where, under any agreement or order of court, one parent has custody of the child to the exclusion of the other,
+
+issue an injunction restraining the other parent from taking the child out of Singapore or may give leave for such child to be taken out of Singapore either unconditionally or subject to such conditions or such undertaking as the court may think fit.
+
+(2) The court may, on the application of any interested person, issue an injunction restraining any person, other than a person having custody of a child, from taking the child out of Singapore.
+
+(3) Failure to comply with an order made under this section shall be punishable as a contempt of court.
+
+[124
+
+### Power of court to set aside and prevent dispositions intended to defeat claims to maintenance
+
+131\.—(1) Where —
+
+(a) any matrimonial proceeding is pending;
+
+(b) an order has been made under section 106 and has not been complied with;
+
+(c) an order for maintenance has been made under section 107 or 122 and has not been rescinded; or
+
+(d) maintenance is payable under any agreement to or for the benefit of a wife or former wife or child,
+
+the court shall have power on application —
+
+(i) if it is satisfied that any disposition of property has been made by the husband or former husband or parent of the person by or on whose behalf the application is made, within the preceding 3 years, with the object on the part of the person making the disposition of reducing his or her means to pay maintenance or of depriving his wife or former wife of any rights in relation to that property, to set aside the disposition; and
+
+(ii) if it is satisfied that any disposition of property is intended to be made with any such object, to grant an injunction preventing that disposition.
+
+(2) For the purposes of this section —
+
+“disposition” includes a sale, gift, lease, mortgage or any other transaction whereby ownership or possession of the property is transferred or encumbered but does not include a disposition made for money or money’s worth to or in favour of a person acting in good faith and in ignorance of the object with which the disposition is made;
+
+“property” means property of any nature, movable or immovable, and includes money.
+
+[125
+
+### Procedure
+
+132\. Subject to the provisions of this Part, all proceedings under this Part shall be regulated by the Rules of the Supreme Court\*.
+
+\*See G.N. No. S 274/70
+
+[126
+
+### Service of petition
+
+133\.—(1) Service out of the jurisdiction of any petition under this Part may be allowed by the court and service shall be effected, as nearly as may be, in the manner in which service of a writ of summons is to be effected under the Rules of the Supreme Court\*.
+
+\*See G.N. No. S 274/70.
+
+(2) The court may dispense with such service altogether if it seems necessary or expedient to do so.
+
+[127
+
+### Evidence
+
+134\.—(1) In suits under this Part, the parties and the husbands and wives of such parties shall be competent and compellable to give evidence.
+
+(2) No witness whether a party to the suit or not shall be liable to be asked or bound to answer any question tending to show that he or she has been guilty of adultery unless such witness has already given evidence in the same suit in disproof of his or her alleged adultery.
+
+[127A
+
+### Sittings in camera
+
+135\. The whole or any part of any proceedings under this Part may be heard, if the court thinks fit, in camera.
+
+[127B
+
+### Power to rescind decree nisi in certain cases
+
+136\. Where the court on granting a decree of divorce held that the only fact mentioned in section 88(3) on which the petitioner was entitled to rely in support of his petition was that mentioned in section 88(3)(d), it may, on an application made by the respondent at any time before the decree is made absolute, rescind the decree if it is satisfied that the petitioner misled the respondent (whether intentionally or unintentionally) about any matter which the respondent took into account in deciding to consent to the grant of a decree.
+
+[127C
+
+### Appeals
+
+137\.—(1) All decrees and orders made by the court in proceedings under this Part shall be enforced, and may be appealed from, as if they were decrees or orders made by the court in the exercise of its original civil jurisdiction.
+
+(2) There shall be no appeal on the subject of costs only.
+
+(3) Subject to such rules as are made from time to time regarding appeals to the Judicial Committee of the Privy Council, any person may appeal to the Judicial Committee of the Privy Council from any decree or order under this Part made by the Court of Appeal if that Court declares that the case is a fit one for appeal.
+
+[127D
+
+### Power to allow intervention on terms
+
+138\. In any case in which any person is alleged to have committed adultery with any party to a suit, or in which the court considers, in the interest of any person not already a party to the suit, that that person should be made a party to the suit, the court may, if it thinks fit, allow that person to intervene upon such terms, if any, as the court thinks just.
+
+[127E
+
+### Power to make rules
+
+139\.—(1) The Judges of the Supreme Court, or any 3 of them, of whom the Chief Justice shall be one, may make rules to fix and regulate the fees and costs payable upon all proceedings in suits under this Part, and also rules concerning the practice and procedure under this Part as they consider expedient.
+
+(2) Rules made under subsection (1) may prescribe the forms to be used in proceedings under this Part.
+
+(3) A copy of the rules, certified under the hand of the Chief Justice, shall be transmitted by the Chief Justice to the President.
+
+(4) All such rules shall be published in theGazetteand shall be presented to Parliament as soon as possible after publication.
+
+[127F
+
+## PART X
+
+OFFENCES AGAINST WOMEN AND GIRLS
+
+### Offences relating to prostitution
+
+140\.—(1) Any person who —
+
+(a) sells, lets for hire or otherwise disposes of or buys or hires or otherwise obtains possession of any woman or girl with intent that that woman or girl shall be employed or used for the purpose of prostitution either within or without Singapore, or knowing or having reason to believe that that woman or girl will be so employed or used;
+
+(b) procures any woman or girl to have either within or without Singapore carnal connection except by way of marriage with any male person or for the purpose of prostitution either within or without Singapore;
+
+(c) by threats or intimidation procures any woman or girl to have carnal connection except by way of marriage with any male person either within or without Singapore;
+
+(d) brings into Singapore, receives or harbours any woman or girl knowing or having reason to believe that that woman or girl has been procured for the purpose of having carnal connection except by way of marriage with any male person or for the purpose of prostitution either within or without Singapore and with intent to aid such purpose;
+
+(e) knowing or having reason to believe that any woman or girl has been procured by threats or intimidation for the purpose of having carnal connection except by way of marriage with any male person, either within or without Singapore, receives or harbours that woman or girl with intent to aid such purpose;
+
+(f) knowing or having reason to believe that any woman or girl has been brought into Singapore in breach of section 142 or has been sold or purchased in breach of paragraph (a) receives or harbours that woman or girl with intent that she may be employed or used for the purpose of prostitution either within or without Singapore;
+
+(g) detains any woman or girl against her will on any premises with the intention that she shall have carnal connection except by way of marriage with any male person, or detains any woman or girl against her will in a brothel;
+
+(h) detains any woman or girl in any place against her will with intent that she may be employed or used for the purpose of prostitution or for any unlawful or immoral purpose;
+
+(i) has carnal connection with any girl under the age of 16 years except by way of marriage; or
+
+(j) attempts to do any act in contravention of this section,
+
+shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 5 years and shall also be liable to a fine not exceeding $10,000.
+
+(2) Any male person who is convicted of a second or subsequent offence under subsection (1)(a), (b), (c), (d), (e) or (f) shall in addition to any term of imprisonment awarded in respect of such offence be liable to caning.
+
+(3) For the purposes of this section, it shall be presumed until the contrary is proved that —
+
+(a) a person who takes or causes to be taken into a brothel any woman or girl has disposed of that woman or girl with the intent or knowledge mentioned in subsection (1)(a);
+
+(b) a person who receives any woman or girl into a brothel has obtained possession of that woman or girl with the intent or knowledge mentioned in subsection (1)(a);
+
+(c) a person has detained a woman or girl in any brothel or in any place against her will if, with intent to compel or induce her to remain therein, that person —
+
+(i) withholds from that woman or girl any wearing apparel or any other property belonging to her or any wearing apparel commonly or last used by her;
+
+(ii) where wearing apparel or any other property has been lent or hired out or supplied to that woman or girl, threatens that woman or girl with legal proceedings if she takes away such wearing apparel or property; or
+
+(iii) threatens that woman or girl with legal proceedings for the recovery of any debt or alleged debt or uses any other threat whatsoever.
+
+(4) Reasonable cause to believe that a girl was of or above the age of 16 years shall not be a defence to a charge of an offence under subsection (1)(i):
+
+Provided that in the case of a man of 24 years of age or under the presence of reasonable cause to believe that the girl was above the age of 16 years shall be a valid defence on the first occasion on which he is charged with such an offence.
+
+[128
+
+### Traffic in women and girls
+
+141\.—(1) Any person who buys, sells, procures, traffics in, or brings into or takes out of Singapore for the purpose of such traffic, and whether or not for the purpose of present or subsequent prostitution, any woman or girl, shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 5 years and shall also be liable to a fine not exceeding $10,000.
+
+(2) No person shall be charged with an offence under this section if he satisfies the Director that the woman or girl brought into or taken out of Singapore by him or intended to be brought into or taken out of Singapore by him was so brought into or taken out of Singapore or is intended to be so brought into or taken out of Singapore for the purpose of her marriage or adoption and that such marriage or adoption can be solemnized or made and has been or will be solemnized or made under the laws and customs for the time being in force in Singapore.
+
+[129
+
+### Importation of woman or girl by false pretences
+
+142\. Any person who by or under false pretence, false representation or fraudulent or deceitful means made or used either within or without Singapore brings into, or takes out of, or assists in bringing into, or assists in taking out of, Singapore any woman or girl —
+
+(a) with intent that that woman or girl shall be employed or used for the purpose of prostitution either within or without Singapore;
+
+(b) knowing or having reason to believe that that woman or girl will be so employed or used; or
+
+(c) whether or not for the purpose of present or future prostitution,
+
+shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 5 years and shall also be liable to a fine not exceeding $10,000.
+
+[130
+
+### Permitting girl under the age of 16 to use premises for intercourse
+
+143\. Any person who is the owner or occupier of any premises, or who has, or acts or assists in, the management or control of any premises, induces or knowingly suffers a girl under the age of 16 years to resort to or be on those premises for the purpose of having sexual intercourse except by way of marriage with any male person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+[130A
+
+### Permitting mental defective to use premises for intercourse
+
+144\.—(1) Subject to subsection (2), any person who is the owner or occupier of any premises or who has, or acts or assists in, the management or control of any premises, induces or knowingly suffers a woman who is a mental defective to resort to or be on those premises for the purpose of having sexual intercourse except by way of marriage with any male person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+(2) A person shall not be guilty of an offence under this section because he induces or knowingly suffers a mental defective to resort to or be on any premises for the purpose mentioned, if he does not know and has no reason to suspect her to be a mental defective.
+
+[130B
+
+### Causing or encouraging prostitution of, intercourse with, or indecent assault on, girl under the age of 16
+
+145\.—(1) Any person who causes or encourages the prostitution of, or the commission of unlawful sexual intercourse with, or of an indecent assault on, a girl under the age of 16 years for whom he is responsible shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+(2) Where a girl has become a prostitute, or has had unlawful sexual intercourse, or has been indecently assaulted, a person shall be deemed for the purposes of this section to have caused or encouraged it, if he knowingly allowed her to consort with or to enter or continue in the employment of, any prostitute or person of known immoral character.
+
+(3) The persons who are to be treated for the purposes of this section as responsible for a girl are (subject to subsection (4)) —
+
+(a) any person who is her parent or legal guardian;
+
+(b) any person who has actual possession or control of her, or to whose charge she has been committed by her parent or legal guardian or by a person having the custody of her; and
+
+(c) any other person who has the custody, charge or care of her.
+
+(4) In subsection (3) —
+
+“legal guardian” means, in relation to any girl, any person who is for the time being her guardian, having been appointed according to law by deed or will or by order of a court of competent jurisdiction;
+
+“parent” does not include, in relation to any girl, a person deprived of the custody of her by order of a court of competent jurisdiction but (subject to that), in the case of a girl who has been adopted under the Adoption of Children Act [Cap. 4], or any enactment thereby repealed, means her adopters and, in the case of a girl who is illegitimate (and has not been so adopted), means her mother and any person who has been adjudged to be her putative father.
+
+(5) If, on a charge of an offence against a girl under this section, the girl appears to the court to have been under the age of 16 years at the time of the offence charged, she shall be presumed for the purposes of this section to have been so, unless the contrary is proved.
+
+[130C
+
+### Persons living on or trading in prostitution
+
+146\.—(1) Any person who knowingly lives wholly or in part on the earnings of the prostitution of another person shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 5 years and shall also be liable to a fine not exceeding $10,000.
+
+(2) Any male person who is convicted of a second or subsequent offence under this section shall in addition to any term of imprisonment imposed in respect of such offence be liable to caning.
+
+(3) Where any person is proved to live with or be habitually in the company of a prostitute or prostitutes or is proved to have exercised control, direction or influence over the movements of a prostitute or prostitutes in such a manner as to show that that person is aiding, abetting or compelling her or their prostitution with any other person or generally, that person shall, in the absence of proof to the contrary, be deemed to be knowingly living on the earnings of prostitution.
+
+[131
+
+### Suppression of places of assignation
+
+147\.—(1) Any person who keeps, manages or assists in the management of a place of assignation shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $3,000 or to imprisonment for a term not exceeding 3 years or to both; and on a second or subsequent conviction shall be liable to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 5 years or to both.
+
+(2) Any person who keeps, manages or assists in the management of a club or a place of public resort which is used as a place of assignation shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 5 years or to both; and on a second or subsequent conviction shall be liable to a fine not exceeding $15,000 or to imprisonment for a term not exceeding 10 years or to both.
+
+[132
+
+### Suppression of brothels
+
+148\.—(1) Any person who keeps or manages or assists in the management of a brothel shall be guilty of an offence under this section.
+
+(2) Any person who is the tenant, lessee, occupier or person in charge of any place which is used as a brothel shall unless that person proves that he has no knowledge that the place is used as a brothel be guilty of an offence under this section.
+
+(3) Any person who being the tenant, lessee, occupier or person in charge of any place lets such place or any part thereof shall notwithstanding such letting be guilty of an offence under subsection (2) if the place or any part thereof is used as a brothel, unless he proves that he has no knowledge that the place or such part thereof is used as a brothel.
+
+(4) Any person who being the owner of any place or the agent of that owner lets the same or any part thereof with the knowledge that the place or some part thereof is to be used as a brothel or is wilfully a party to the continued use of the place or any part thereof as a brothel shall notwithstanding such letting be guilty of an offence under this section.
+
+(5) Any person who is guilty of an offence under this section shall be liable on conviction to a fine not exceeding $3,000 or to imprisonment for a term not exceeding 3 years or to both; and on a second or subsequent conviction shall be liable to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 5 years or to both.
+
+(6) In any proceedings under this Part, any evidence given by any police officer not below the rank of sergeant that any place has been used as a brothel or a place of assignation shall, until the contrary is proved, be deemed to be sufficient evidence of the fact.
+
+[133
+
+### Notice to owner and occupier
+
+149\.—(1) Where the Director has reason to believe that a place is being used as a brothel or as a place of assignation he may serve or cause to be served a notice in the prescribed form on the owner of the place, as well as the occupier thereof.
+
+(2) If the owner or occupier is not otherwise known, service shall be made on the person inscribed in the books kept under any written law for the time being in force as the owner or occupier of the place; and if the name of the owner or occupier is not inscribed in those books or if the name of the owner or occupier cannot by the exercise of due diligence be found, then the notice may be served by being affixed to the principal outer door or upon the outside of any door or window or any conspicuous part of the place.
+
+(3) Every occupier receiving a notice under this section shall forthwith inform the owner or the person from whom he rents the place of the fact of receipt of the notice who shall in like manner inform the owner or the person from whom he rents the place and so on till the notice is brought to the knowledge of the owner, each tenant being responsible for bringing the notice to the knowledge of his immediate lessor.
+
+(4) Any occupier who refuses or omits to inform the owner or the person from whom he rents the premises that a notice under this section has been received shall be liable to prosecution under section 225C of the Penal Code [Cap. 224].
+
+(5) If, in proceedings under this Part, it is proved that the notice under subsection (1) has been served on the owner or occupier of a place it shall be presumed that the place is so kept, managed or used to the knowledge or with the permission of the owner or occupier of the place.
+
+[134
+
+### Determination of tenancy of places on conviction for permitting use as a brothel, etc.
+
+150\.—(1) Upon the conviction of the occupier of any place for any offence under section 147 or 148 in respect of the place, the owner of the place shall within one month require the person so convicted to deliver up possession of the place to the owner, and in the event of the person so convicted failing within one month of being so required to deliver up possession as aforesaid, the owner of the place shall be entitled to determine the lease or contract of tenancy but without prejudice to the rights or remedies of any party to the lease or contract accrued before the date of such determination.
+
+(2) Notwithstanding the provisions of the Control of Rent Act [Cap. 58], where the owner of any place has determined the lease or contract of tenancy in accordance with subsection (1) and the occupier has not delivered up possession of the place after such determination, a Magistrate’s Court may on the application of the owner make a summary order for the delivery of possession of the place to the owner.
+
+(3) If the occupier disobeys any order made by a Magistrate’s Court under subsection (2), he shall be liable to the penalty prescribed in that behalf in section 188 of the Penal Code.
+
+[135
+
+### Court to make order for demolition of structural contrivances for facilitating the running of a place of assignation or of a brothel
+
+151\. Whenever it appears to a court, upon the trial of any offence under section 147 or 148, that the place in or in respect of which the offence is alleged to have been committed is a place of assignation or a brothel, and that the same is fitted or provided with any means or contrivances such as staircases, doors and partitions, ladders, planks, platforms, posts, palings, fences, locks, bars, bolts or any other things which appear to it to have been specially erected or constructed for the purpose of facilitating the carrying on of a place of assignation or of a brothel at the place, the court shall order the demolition of such means or contrivances.
+
+[136
+
+### Authority of courts to issue arrest and search warrants
+
+152\. If any court has reason to believe that any place is used by a woman or girl for the purpose of prostitution and that any other person residing in or frequenting the house is living wholly or in part on the immoral earnings of that woman or girl, it may issue a warrant authorising the Director or any public officer nominated by the Minister or any police officer not below the rank of sergeant to enter and search the place and to arrest such person.
+
+[137
+
+### Trials in camera in certain cases
+
+153\.—(1) When any person is charged with or convicted of having committed any offence under this Part, or under section 354 or 376, or sections 354 and 511, or sections 376 and 511 of the Penal Code [Cap. 224] in respect of any woman or girl, the court conducting a preliminary inquiry into, or trying the offence, or hearing any appeal or special case or any point reserved by a Judge of the Supreme Court in relation to the offence, may order that all proceedings before it shall be dealt with in camera.
+
+[30/96]
+
+(2) Whenever any such order is made the court shall not be deemed an open court, and the court shall order that no person shall have access to or be or remain in the court except such persons as are necessary for the purpose of the proceedings.
+
+(3) The court shall order proceedings before it to be dealt with in camera in any case where the girl in respect of whom an offence under this Part, or under section 354 or 376, or sections 354 and 511, or sections 376 and 511 of the Penal Code is alleged to have been committed has not attained the age of 16 years.
+
+(4) No newspaper report of any proceedings under this Part in any courts shall reveal —
+
+(a) the name or address or include any particulars given in the proceedings calculated to lead to the identification; or
+
+(b) the name or address of any witness, or the particulars of any evidence given by the witness in the proceedings, which may lead to the identification,
+
+of any woman or girl in respect of whom the offence is alleged to have been committed nor shall any picture be published in any newspaper as being or including the picture of the woman or girl or witness.
+
+(5) Any person who publishes any matter in contravention of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+[138
+
+### Trial of offences
+
+154\.—(1) All offences under this Part shall be cognizable by a District Court:
+
+Provided that no prosecution shall be instituted in respect of any such offence without the previous sanction of the Director or the Public Prosecutor or his deputy.
+
+(2) Any District Court may, notwithstanding anything in the Criminal Procedure Code, impose the full punishment prescribed by this Part in respect of any offence.
+
+(3) Prosecutions in respect of offences committed under this Part may be conducted by the Director or any officer of the Ministry of Community Development, authorised in writing in that behalf of the Director.
+
+[139
+
+### Detention pending judicial proceedings
+
+155\.—(1) Any court inquiring into or trying an offence punishable under this Part or under section 309, 312, 313, 317, 354, 370, 371, 372, 373, 373A, 376, 376B, 377 or 498 of the Penal Code [Cap. 224] or defined in section 321, 322, 339, 340, 350, 351, 360, 361 or 362 of the Penal Code may order any woman or girl in respect of whom the offence is alleged to have been committed to be detained temporarily until the determination of the proceedings against the person accused.
+
+(2) Where an order is made under subsection (1) the Director shall receive such woman or girl and shall put her in a place of safety and shall there detain her until the determination of the proceedings.
+
+(3) Notwithstanding the determination of the proceedings against the accused person, the Director may by warrant under his hand, order the detention in a place of safety of any woman or girl referred to in this section whom he considers to need protection, and thereupon such arrangements shall be made for her welfare as the Director considers necessary:
+
+Provided that in exercising his powers under this subsection, the Director shall not contravene section 161.
+
+[140
+
+### Director may examine women and girls and person in charge of them
+
+156\.—(1) If the Director has reasonable cause to believe that —
+
+(a) any woman or girl has been brought into Singapore either after having been purchased or by fraud, misrepresentation or any false pretence whether or not for the purpose of prostitution or of being sent from Singapore;
+
+(b) the custody of any woman or girl has been acquired either after having been purchased or by fraud, misrepresentation or any false pretence whether or not for the purpose of prostitution or of being sent from Singapore;
+
+(c) any woman or girl has been purchased either within or without Singapore for the purpose of being used, trained or disposed of as a prostitute; or
+
+(d) any woman or girl is being detained against her will for the purpose of prostitution or of being sent from Singapore for immoral purposes,
+
+the Director, or any person authorised in that behalf by him in writing, may require the woman or girl and any person who appears to have the custody or control of the woman or girl to appear before him at any reasonable time and at any convenient place and the Director may examine the woman or girl as to her reasons for entering or being in Singapore and may examine the person respecting the woman or girl and such woman or girl and such person shall be legally bound to answer such questions truthfully to the best of their ability.
+
+(2) The Director may also require any person in whose custody or under whose control the woman or girl appears to be to furnish him with copies of her and the person’s photograph and to furnish security to the satisfaction of the Director that the woman or girl will not leave Singapore without the previous consent in writing of the Director and will not be trained or disposed of as a prostitute or for immoral purposes and will not, whether by way of adoption, marriage or otherwise, be transferred to the care and custody of any other person without the previous consent in writing of the Director and that she will be produced before the Director whenever he requires it.
+
+(3) In default of such photographs and security being given the Director may by warrant under his hand order the woman or girl to be removed to a place of safety and there detained until she can be returned to the place from where she was brought or until other proper provision can be made for her welfare.
+
+(4) Where the Director has reason to believe that the woman or girl may be sent from Singapore, he may issue an order for the detention of the woman or girl in a place of safety until the determination of any inquiries or until after such arrangements have been made for her welfare as the Director considers necessary.
+
+[141
+
+### Inspection
+
+157\.—(1) The Director or any officer generally or specially authorised in that behalf in writing by the Director may at any time visit and inspect the place where any woman or girl in respect of whom security has been furnished under section 156 lives or is believed to live or to be.
+
+(2) The Director or any such officer may inquire into the condition and circumstances of the woman or girl and for the purposes of the inquiry the Director or such officer as aforesaid may require any person to answer any questions he may think proper to ask.
+
+(3) Any person who —
+
+(a) obstructs or hinders or attempts to obstruct or hinder the Director or any such officer in the exercise of the powers conferred by this section; or
+
+(b) refuses to answer to the best of his knowledge and belief any question which he is legally bound to answer and which is asked of him by any officer appointed or authorised under this Part,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 or to imprisonment for a term not exceeding 6 months or to both.
+
+[142
+
+### Security on departure of woman or girl from Singapore
+
+158\.—(1) Whenever the Director is of opinion that it is in the interests of any such woman or girl as is referred to in section 156 that the woman or girl should be permitted to leave Singapore, the Director may grant permission upon being supplied with such photograph of the woman or girl as he may require and upon security being given to his satisfaction that the person in whose custody or control the woman or girl appears to be will bring the woman or girl before such public officer within such period and at such destination as may be specified in the bond.
+
+(2) The giving of such further security shall not relieve any person who furnished the security required by section 156 from any obligation under the conditions of the bond entered into under that section, other than the condition relating to departure from Singapore, unless the public officer in the territory where such woman or girl then resides obtains fresh security conditioned in the manner specified in that section.
+
+(3) A certificate under the hand of the public officer referred to in subsection (1) that such woman or girl has not been brought before him shall in any legal proceedings be conclusive evidence to that effect, unless the court requires that officer to be called as a witness.
+
+[143
+
+### Woman or girl under the age of 21 used or trained for immoral purposes, etc.
+
+159\.—(1) If the Director has reasonable cause to believe that any woman or girl under the age of 21 years is being trained or used for immoral purposes or lives in or frequents any brothel or is habitually in the company of prostitutes or brothel keepers or procuresses or persons employed or living in brothels or persons directly interested in the business carried on in brothels or by prostitutes, he may by warrant under his hand order the woman or girl to be removed to a place of safety and there temporarily detained until an inquiry has been held by him.
+
+(2) If the Director after holding such inquiry is satisfied that the woman or girl comes within subsection (1), he may, by warrant under his hand, order the woman or girl to be detained in a place of safety.
+
+[144
+
+### Director may order detention of woman or girl in certain cases
+
+160\.—(1) Any woman or girl —
+
+(a) whose lawful guardian requests the Director in writing to detain her in a place of safety;
+
+(b) whom the Director considers to need protection and whose lawful guardian cannot be found;
+
+(c) whom the Director believes to have been ill-treated and to need protection; or
+
+(d) whom the Director considers to be in moral danger,
+
+may by warrant under the hand of the Director be ordered to be removed to a place of safety and there detained until he has held an inquiry as to the circumstances of her case.
+
+(2) Every such inquiry shall be completed within a period of one month from the date of the woman’s or girl’s admission into the place of safety.
+
+(3) If after holding such inquiry the Director is satisfied that the woman or girl is in need of protection, he may by warrant under his hand order that the woman or girl be detained in a place of safety for such period as the Director may determine.
+
+(4) Where a girl has been detained in a place of safety at the request of her lawful guardian, she may be so detained for such period as the Director has determined is necessary for her rehabilitation notwithstanding any request made by her lawful guardian for her early release.
+
+[145
+
+### Period of detention of woman or girl in a place of safety
+
+161\. A woman or girl shall not be detained under this Part, except for the purpose of an inquiry, after such arrangements have been made for her welfare as the Director considers necessary or after she attains the age of 21 years or marries.
+
+[146
+
+### Marriage not to be contracted without consent of Director
+
+162\. No woman or girl detained under the provisions of this Part or in respect of whom security has been furnished under section 156(2) shall contract any form of marriage without the previous consent in writing of the Director.
+
+[147
+
+### Women and girls in urgent need of refuge
+
+163\.—(1) Any woman or girl may on her own application be received by the Director into a place of safety if he is satisfied that the woman or girl is in urgent need of refuge.
+
+(2) Where the situation warrants it, the person in charge of any place of safety may receive into that place of safety any woman or girl who makes an application to her.
+
+(3) Where the person in charge of a place of safety receives any woman or girl into that place of safety in accordance with subsection (2), she shall, within 48 hours of the admission of the woman or girl, produce her before the Director with a full report of the circumstances.
+
+[148
+
+### Transfer of women or girls from one place of safety to another place of safety within Singapore
+
+164\. Whenever an order has been made under section 155(3), 156, 159 or 160 for the detention of a woman or girl in a place of safety and it appears to the Director to be expedient in the interests of the woman or girl that she should be transferred from such place of safety to another place of safety within Singapore, it shall be lawful for the Director to issue an order that the woman or girl shall be so transferred:
+
+Provided that no woman or girl admitted into a place of safety in Singapore on the request in writing of her lawful guardian under section 160(1)(a) shall be so transferred from such place of safety except with the approval in writing of her lawful guardian.
+
+[149
+
+### Removal of women or girls to Malaysia, Brunei Darussalam or Hong Kong by order of Minister
+
+165\.—(1) Whenever an order has been made under section 155(3), section 156, 159 or 160 for the detention of a woman or girl in a place of safety and it appears to the Minister to be expedient in the interests of the woman or girl that she should be removed from such place of safety and transferred to a place of safety established in Malaysia, Brunei Darussalam or Hong Kong under the provisions of any law for the time being in force in Malaysia, Brunei Darussalam or Hong Kong, as the case may be, for the protection of women and girls, it shall be lawful for the Minister to issue an order that the woman or girl shall be removed to such place of safety established in Malaysia, Brunei Darussalam or Hong Kong:
+
+Provided that no woman or girl admitted into a place of safety in Singapore on the request in writing of her lawful guardian under section 160(1)(a) shall be so removed from such place of safety except with the approval in writing of her lawful guardian.
+
+(2) The order for removal under this section shall be addressed to the person in charge of the place of safety in which the woman or girl is detained and shall direct such person to deliver the woman or girl to the person mentioned in that order for removal at such place in Malaysia, Brunei Darussalam or Hong Kong and in such manner as may be specified in that order for the purpose of transfer as aforesaid; and the woman or girl shall be delivered up and shall be transferred accordingly.
+
+(3) The Minister may direct that any conditions, not inconsistent with the provisions of this Part, which may be prescribed by the provisions of any law for the time being in force in Malaysia, Brunei Darussalam or Hong Kong for the reception of women and girls from Singapore into Malaysia, Brunei Darussalam or Hong Kong, and the detention therein of such women and girls shall be observed.
+
+(4) Any woman or girl removed under this Part to a place of safety in Malaysia, Brunei Darussalam or Hong Kong may, if she so desires, on being discharged from such place of safety, be returned to Singapore.
+
+[150
+
+### Appeal
+
+166\. An appeal shall lie from any order made by the Director under this Part to the Minister whose decision shall be final and shall not be questioned in any court.
+
+[151
+
+### Women and girls may be received into and detained in Singapore
+
+167\.—(1) Whenever the government of Malaysia, Brunei, Darussalam or Hong Kong makes a representation to the Minister that it is expedient that any woman or girl whose detention in a place of safety has been ordered by the authority empowered by the law of such territory should be removed to Singapore for detention in a place of safety within Singapore, and satisfies the Minister that provision will be made for the payment of all expenses that may be incurred in the reception, maintenance and detention of, or otherwise in relation to, the woman or girl, the Minister, if it appears to him that there is sufficient accommodation for the woman or girl in a place of safety within Singapore, may by warrant under his hand in the prescribed form direct the woman or girl, when brought into Singapore, to be received therein and conveyed to a place of safety specified in such warrant and to be there detained until discharged in due course of law or until further order.
+
+(2) The representation mentioned in subsection (1) shall be delivered under the hand of the Minister or the officer for the time being charged with the responsibility for making such a representation on behalf of the government concerned.
+
+(3) Every warrant purporting to be issued in pursuance of this Part and to be under the hand of the Minister shall be received in evidence in every court without further proof and shall be evidence of the facts therein stated, and all acts done in pursuance of that warrant shall be deemed to have been authorised by law.
+
+[152
+
+### Women and girls so received to be subject to local law
+
+168\. Any woman or girl received into Singapore under section 167 shall be dealt with in Singapore in like manner as if her detention in a place of safety had been ordered by the Director by warrant under his hand, and shall be subject to all laws and regulations in force in Singapore.
+
+[153
+
+### Women and girls detained to be subject to rules
+
+169\.—(1) Every woman or girl detained under this Part shall be subject to such rules as are prescribed.
+
+(2) Every woman or girl detained or ordered to be detained under this Part who leaves any place in which she is detained otherwise than in accordance with such rules may be arrested and taken back to such place by any police officer or by any officer duly authorised thereto either specially or generally by the Director.
+
+(3) Any person who —
+
+(a) induces or assists any woman or girl so detained as aforesaid to leave or escape from the place in which she is detained; or
+
+(b) receives or harbours such woman or girl knowing or having reason to believe that she has escaped from a place of safety,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[154
+
+### Director may cause persons to be photographed
+
+170\.—(1) Whenever the Director, after inquiry, has reason to believe that a breach of any of the provisions of this Part is about to be or has been committed by any person, the Director may direct that the person be photographed, and his finger impressions taken at such time and place and in such manner as the Director may think fit, and the person so directed shall submit to be photographed and to have his finger impressions taken at such time and place and in such manner as the Director may think fit and in default of so doing shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 or to imprisonment for a term not exceeding 6 months or to both.
+
+(2) Any person whose finger impressions and photograph have been taken under subsection (1) may apply on the expiry of 5 years from the date when such finger impressions and photograph were taken for the return of such finger impressions and photograph and the Director shall, unless the person has in such period of 5 years been convicted of any offence under this Part, deliver to the person the sheet upon which his finger impressions have been made together with the negative and all copies of any photograph taken of him, or, if no such application is received within 3 months from the period specified in this subsection, shall destroy such sheet and every such negative and photograph.
+
+[155
+
+### Power to summon and examine persons in certain circumstances
+
+171\.—(1) The Director may summon any person who he has reason to believe can give any information —
+
+(a) regarding any woman or girl in respect of whom he has reasonable cause to believe that an offence under this Part is or may be committed or who he has reasonable cause to believe is or may be liable to be dealt with under section 156, 159 or 160; or
+
+(b) regarding any place which he has reasonable cause to believe is being used as a brothel, a place of assignation or for the purpose of prostitution.
+
+(2) The person so summoned shall attend at the hour and place specified in the summons and shall produce all documents in his custody, possession or control relating to the woman or girl or place, as the case may be, and shall answer truthfully all questions which the Director may put to him respecting any such woman or girl or place or in any way relating to the matter being inquired into, and where the inquiry relates to any woman or girl, the person shall also, if so required by the Director, produce the woman or girl, unless the person is able to satisfy the Director that he is unable to do so.
+
+(3) The Director shall be deemed to be a public servant within the meaning of the Penal Code [Cap. 224] and may administer oaths to and examine on oath any person summoned before him for the purposes of this Part.
+
+(4) Any person summoned who fails to attend at the hour and place specified in the summons or to do any of the other acts referred to in subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 or to imprisonment for a term not exceeding 6 months or to both.
+
+(5) The Director shall not be compellable in any judicial proceeding to answer any questions as to the grounds of his decision or belief in any case dealt with by him under this Part or as to anything which came to his knowledge in any inquiry made by him as Director.
+
+(6) The Director may during or after such inquiry as is referred to in subsection (2) arrest or cause to be arrested any person whom he has reasonable cause to believe to be liable to prosecution for any offence under this Part committed in respect of such woman or girl or such place, and may seize and detain any articles or any books, documents or accounts which he may have reason to believe to relate to such offence.
+
+[156
+
+### Record of evidence
+
+172\. The Director shall at any inquiry held by him take down and record the evidence taken by him upon such inquiry and of his decision thereon and shall furnish to the High Court a copy of such notes of evidence when called upon to do so by order of a Judge of such Court suppressing in such copy the name of any person from whom information has been derived if he thinks it expedient to do so.
+
+[157
+
+### Power of search
+
+173\.—(1) The Director, or any person being either a person employed in the Ministry of Community Development, or a police officer not below the rank of sergeant or an officer of the Immigration Department, and being generally or specially authorised for that purpose in writing by the Director, may enter, and for that purpose use force if necessary, and search —
+
+(a) any place where the Director or such person or officer has reasonable cause to believe that an offence under this Part has been or is being committed; and
+
+(b) any person in that place,
+
+and may remove any woman or girl who is or may be liable to be dealt with under section 156, 159 or 160 to a place of safety to be there detained until her case is inquired into:
+
+Provided that no woman shall be searched except by a woman.
+
+(2) Any person who refuses to be searched or refuses the Director or such person or officer as aforesaid access to such place or otherwise obstructs or hinders him in effecting an entrance to such place or in removing any such woman or girl shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding one year or to both.
+
+[158
+
+### Power of arrest and seizure
+
+174\.—(1) The Director, or any person being either a person employed in the Ministry of Community Development, or a police officer not below the rank of sergeant or an officer of the Immigration Department, and being generally or specially authorised for that purpose in writing by the Director, may arrest or cause to be arrested any person reasonably believed to be liable to prosecution for an offence under section 140, 141, 142, 143, 144, 145, 146, 147 or 148 and may seize, and for that purpose use force if necessary, and detain any articles or any books, documents or accounts which he may have reason to believe to relate to such offence.
+
+(2) Where any person is arrested by the Director or by any of the persons mentioned in subsection (1), the Director or any such person making the arrest shall comply with sections 36 and 37 of the Criminal Procedure Code as if he were a police officer.
+
+(3) Any person who obstructs or hinders the Director or any of the persons mentioned in subsection (1) in the arrest of any such suspected person or in the seizure or detention of any such articles, books, documents or accounts shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding one year or to both.
+
+[159
+
+### Presumption arising out of warrants
+
+175\.—(1) Every warrant or summons purporting to be issued in pursuance of this Part and to be under the hand and seal of the Director shall be received in evidence in any court without further proof and shall be prima facie evidence of the facts therein stated.
+
+(2) All acts done in pursuance of such warrant or summons shall be deemed to have been authorised by law.
+
+[160
+
+### Appointment of officers
+
+176\. The Minister may, by notification in theGazette, appoint such officers as he may think fit for the purposes of this Part and may by that notification confer upon those officers all or any of the powers conferred and duties imposed upon the Director by this Part.
+
+[161
+
+### Minister may establish places of safety
+
+177\. The Minister may, by order published in theGazette, establish such places of safety as may be necessary for the purposes of this Part.
+
+[162
+
+### Boards of Visitors
+
+178\.—(1) The Minister may, by notification in theGazette, appoint for every place of safety a Board of Visitors to advise and make recommendations to the Director on such matters as he may refer to it.
+
+(2) A Board of Visitors may be appointed for one or more places of safety as the Minister thinks fit.
+
+(3) A Board of Visitors shall consist of 12 persons of whom at least 5 shall be women.
+
+### Discharge Committees
+
+179\.—(1) The Minister may appoint for a place of safety a Discharge Committee which shall advise and make recommendations to the Director on the discharge and aftercare of women and girls in such place of safety.
+
+(2) A Discharge Committee may be appointed in respect of one or more places of safety as the Minister thinks fit.
+
+(3) A Discharge Committee shall consist of 7 persons a majority of whom shall be women.
+
+(4) The Discharge Committee shall review all cases of women and girls when they have been detained for 6 months, and may, after such review, recommend to the Director that any woman or girl shall be discharged or released on licence.
+
+(5) The Director, on the advice of the Discharge Committee, shall have power to order the discharge or the release on licence of any woman or girl who has been detained in a place of safety for 6 months and on such conditions as may be stated by him in that order.
+
+(6) Any woman or girl released from a place of safety on licence by order of the Director, who breaks the conditions of her licence, shall be brought before the Director, who shall have power to order the return of the woman or girl to the place of safety from which she was released, to be detained there for such further period as the Director considers necessary, except where the woman or girl concerned, by reason of any act or omission committed while on licence, renders herself liable to prosecution for any offence, in which case she shall be brought before the appropriate court.
+
+[164
+
+## PART XI
+
+MISCELLANEOUS
+
+### Rules
+
+180\.—(1) Subject to section 139, the Minister may make rules generally for carrying out the provisions of this Act and without prejudice to such general powers may make rules providing for —
+
+(a) the forms to be used for the purposes of this Act;
+
+(b) the practice and procedure for the keeping of registers of marriages and certificates of marriage;
+
+(c) the supply and custody of registers and certificates;
+
+(d) the preparation and submission of returns under this Act;
+
+(e) the making of searches and the giving of certified copies;
+
+(f) the care, detention, discipline, discharge and aftercare, temporary absence, maintenance, and education of women and girls detained under Part X;
+
+(g) the manner and conditions in and under which the powers conferred by Part X shall be exercised by the persons on whom such powers are conferred;
+
+(h) the composition, duties, functions, and procedure of Boards of Visitors and Discharge Committees;
+
+(i) the administration of the Po Leung Kuk Fund;
+
+(j) the procedure for appeals to the Minister; and
+
+(k) matters required to be prescribed under this Act.
+
+(2) All rules made under this Act shall be published in theGazetteand shall be presented to Parliament as soon as possible after publication and if a resolution is passed pursuant to a motion notice whereof has been given for a sitting day not later than the first available sitting day of Parliament next after the expiry of one month from the date when such rules are so presented annulling the rules or any part thereof as from a specified date, the rules or such part thereof, as the case may be, shall thereupon become void as from that date but without prejudice to the validity of anything previously done thereunder or to the making of new rules.
+
+(3) Any person who contravenes or fails to comply with any rules made under this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 or to imprisonment for a term not exceeding 6 months or to both.
+
+[165
+
+### Marriages solemnized prior to commencement of this Act deemed to be registered under this Act
+
+181\.—(1) Nothing in this Act shall affect the validity of any marriage solemnized under any law, religion, custom or usage prior to the commencement of this Act.
+
+(2) Such marriages, if valid under the law, religion, custom or usage under which they were solemnized shall be deemed to be registered under the provisions of this Act.
+
+(3) Every such marriage, unless void under the law, religion, custom or usage under which it was solemnized, shall continue until dissolved —
+
+(a) by the death of one of the parties;
+
+(b) by order of a court of competent jurisdiction; or
+
+(c) by a declaration made by a court of competent jurisdiction that the marriage is null and void.
+
+[166
+
+### Voluntary registration of marriages solemnized under religion or custom
+
+182\.—(1) Notwithstanding section 181 the parties to a marriage which has been solemnized under any law, religion, custom or usage may, if the marriage has not been registered, apply to the Registrar in the prescribed form for the registration of the marriage.
+
+(2) The Registrar may require the parties to the marriage to appear before him and to produce such evidence of the marriage, either oral or documentary, as he may require, and to furnish such other particulars as may be required by him.
+
+(3) The Registrar may on being satisfied of the truth of the statements contained in the application register the marriage by entering the particulars thereof in the local marriage register and also in the certificate of marriage attached to the marriage register.
+
+(4) The entry of the marriage in both the local marriage register and the certificate of marriage shall be signed by the Registrar and the parties to the marriage.
+
+(5) The Registrar shall not register a marriage under this section if he is satisfied that the marriage is void under the provisions of this Act.
+
+[167
+
+### Recognition of marriages contracted in Embassies, etc., in Singapore
+
+183\.—(1) Nothing in this Act shall prevent the solemnization in Singapore of a marriage in any foreign Embassy, High Commission or Consulate in Singapore.
+
+(2) A marriage contracted in any foreign Embassy, High Commission or Consulate in Singapore shall be recognised as valid for all purposes of the law of Singapore if all the following requirements are satisfied:
+
+(a) it was contracted in a form required or permitted by the law of the country whose Embassy, High Commission or Consulate it is, or in a form permitted under this Act;
+
+(b) each of the parties had, at the time of the marriage, capacity to marry under the law of the country of his or her domicile or under the law of the country of the intended domicile of the parties after marriage; and
+
+(c) in the case where either of the parties is a citizen of or is domiciled in Singapore, both parties had capacity to marry under this Act.
+
+[167A
+
+### Validity of customary marriages contracted on or after 15th September 1961 and before 2nd June 1967
+
+184\.—(1) For the avoidance of doubt, it is hereby declared that every marriage contracted or effected on or after 15th September 1961 and before 2nd June 1967 in accordance with the law, religion, custom or usage of the parties or any of the parties thereto shall be valid if the marriage is not contracted or effected in contravention of sections 4 and 10.
+
+(2) This section shall not apply to any such marriage which has been declared to be null and void by an order of the High Court prior to 2nd May 1975.
+
+[168
+
+[8/75]
+
+### Saving for petitions presented before commencement of Women’s Charter (Amendment) Act 1980\*
+
+185\.—(1) The Women’s Charter (Amendment) Act 1980 (including the repeals and amendments made by it) shall not have effect in relation to any petition for divorce, judicial separation, for a decree of nullity or for a decree of presumption of death and dissolution of the marriage presented before the commencement of that Act\*.
+
+\*1st June 1981 vide G.N. No. S153/81.
+
+(2) Without prejudice to any provision of this Act, neither collusion nor any other conduct on the part of the petitioner which has at any time been a bar to relief in matrimonial proceedings shall constitute a bar to the grant of a decree nisi of divorce, a decree of judicial separation, a decree of nullity or a decree of presumption of death and dissolution of the marriage, whether the marriage took place, or the proceedings were instituted, before or after 1st June 1981, and the court shall not be required to dismiss an application for a decree nisi of divorce to be made absolute on the ground of collusion between the parties in connection with the presentation or prosecution of the petition for divorce or the obtaining of the decree nisi or on the ground of any conduct on the part of the petitioner.
+
+[169
+
+FIRST SCHEDULE
+
+Section 10.
+
+Kindred and affinity prohibited degrees of relationship
+
+Mother.
+
+Father.
+
+Daughter.
+
+Son.
+
+Father’s mother.
+
+Father’s father.
+
+Mother’s mother.
+
+Mother’s father.
+
+Son’s daughter.
+
+Son’s son.
+
+Daughter’s daughter.
+
+Daughter’s Son.
+
+Sister.
+
+Brother.
+
+Wife’s mother.
+
+Husband’s father.
+
+Wife’s daughter.
+
+Husband’s Son.
+
+Father’s wife.
+
+Mother’s husband.
+
+Son’s wife.
+
+Daughter’s husband.
+
+Father’s father’s wife.
+
+Father’s mother’s husband.
+
+Mother’s father’s wife.
+
+Mother’s mother’s husband.
+
+Wife’s father’s mother.
+
+Husband’s father’s father.
+
+Wife’s mother’s mother.
+
+Husband’s mother’s father.
+
+Wife’s son’s daughter.
+
+Husband’s son’s son.
+
+Wife’s daughter’s daughter.
+
+Husband’s daughter’s son.
+
+Son’s son’s wife.
+
+Son’s daughter’s husband.
+
+Daughter’s son’s wife.
+
+Daughter’s daughter’s husband.
+
+Father’s sister.
+
+Father’s brother.
+
+Mother’s sister.
+
+Mother’s brother.
+
+Brother’s daughter.
+
+Brother’s son.
+
+Sister’s daughter.
+
+Sister’s son.
+
+SECOND SCHEDULE
+
+Consents required to the marriage of a minor
+
+Part I
+
+Where the Minor Is Legitimate
+
+Circumstances
+
+Person or persons whose consent is required
+
+1.
+
+Where both parents are living:
+
+(a)
+
+if parents living together
+
+both parents;
+
+(b)
+
+if parents are divorced or separated by order of court or by agreement:
+
+the parent to whom the custody of the minor is committed by order of any court or by the agreement, or, if the custody of the minor is so committed to one parent during part of the year and to the other parent during the rest of the year, both parents;
+
+(c)
+
+if one parent has been deserted by the other:
+
+the parent who has been deserted;
+
+if both parents have been deprived of custody of minor by order of court:
+
+the person to whose custody the minor is committed by order of the court.
+
+2.
+
+Where one parent is dead:
+
+(a)
+
+if there is no other guardian:
+
+the surviving parent
+
+(b)
+
+if a guardian has been appointed by the deceased parent:
+
+the surviving parent and the guardian if acting jointly, or the surviving parent or the guardian if the parent or guardian is the sole guardian of the minor.
+
+3.
+
+Where both parents are dead:
+
+the guardians or guardian appointed by the deceased parents or by the court under the Guardianship of Infants Act [Cap. 122].
+
+Part II
+
+Where the Minor Is Illegitimate
+
+Circumstances
+
+Person or persons whose consent is required
+
+If the mother of the minor is alive:
+
+the mother or, if she has by order of the court been deprived of the custody of the minor, the person to whom the custody of the minor has been committed by order of the court.
+
+If the mother of the minor is dead
+
+the guardian appointed by the mother, or by the court.
+
+Part III
+
+Where the Minor Is A Transferred Child
+
+Circumstances
+
+Person or persons whose consent is required
+
+If the father, mother, legal guardian or guardian of the transferred child is not available or does not give his consent:
+
+the person whose particulars are registered with the protector under the Children and Young Persons Act [Cap. 38] as the person who has the care, custody or control of such transferred child.
+
+## LEGISLATIVE HISTORY
+
+Women’s Charter
+
+(CHAPTER 353)
+
+This Legislative History is provided for the convenience of users of the Women’s Charter. It is not part of the Act.
+
+||||
+|:-|:-|:-|
+|1.|**Ordinance 18 of 1961—Women’s Charter 1961**|
+||Date of First Reading|22 February 1961|
+|||(Bill No. 126/61 published on 3 March 1961)|
+||Date of Second Reading|22 March 1961|
+||Date Committed to Select Committee|22 March 1961|
+||Date of Presentation of Select Committee Report|28 April 1961 (L.A. 10 of 1961)|
+||Date of Third Reading|24 May 1961|
+||Date of commencement|15 September 1961|
+|2.|**Act 9 of 1967—Women’s Charter (Amendment) Act 1967**|
+||Date of First Reading|26 October 1966|
+|||(Bill No. 46/66 published on 8 November 1966)|
+||Date of Second Reading|5 December 1966|
+||Date Committed to Select Committee|5 December 1966|
+||Date of Presentation of Select Committee Report|21 March 1967 (Parl 7 of 1967)|
+||Date of Third Reading|24 May 1967|
+||Date of commencement|2 June 1967|
+|3.|**Act 14 of 1969—Statute Law Revision Act 1969**|
+||Date of First Reading|15 October 1969|
+|||(Bill No. 22/69 published on 20 October 1969)|
+||Date of Second and Third Readings|22 December 1969|
+||Date of commencement|2 January 1970|
+|4.|**1970 Revised Edition—Women’s Charter (Chapter 47)**|
+||Date of operation|1 March 1971|
+|5.|**Act 21 of 1973—Statutes of the Republic of Singapore (Miscellaneous Amendments) Act 1973**|
+||Date of First Reading|7 March 1973|
+|||(Bill No. 16/73 published on 9 March 1973)|
+||Date of Second and Third Readings|20 March 1973|
+||Date of commencement|6 April 1973|
+|6.|**Act 34 of 1973—Statutes of the Republic of Singapore (Miscellaneous Amendments) Act 1973**|
+||Date of First Reading|7 March 1973|
+|||(Bill No. 16/73 published on 9 March 1973)|
+||Date of Second and Third Readings|20 March 1973|
+||Date of commencement|24 August 1973|
+|7.|**Act 8 of 1975—Women’s Charter (Amendment) Act 1975**|
+||Date of First Reading|25 February 1975|
+|||(Bill No. 10/75 published on 28 February 1975)|
+||Date of Second and Third Readings|26 March 1975|
+||Date of commencement|2 May 1975|
+|8.|**Act 26 of 1980—Women’s Charter (Amendment) Act 1980**|
+||Date of First Reading|15 May 1979|
+|||(Bill No. 23/79 published on 18 May 1979)|
+||Date of Second Reading|7 September 1979|
+||Date Committed to Select Committee|7 September 1979|
+||Date of Presentation of Select Committee Report|25 February 1980 (Parl 1 of 1980)|
+||Date of Third Reading|25 June 1980|
+||Date of commencement|1 June 1981|
+|9.|**Reprint (1981)—Women’s Charter (Chapter 47)**|
+||Date of operation|15 August 1981|
+|10.|**1985 Revised Edition—Women’s Charter (Chapter 353)**|
+||Date of operation|30 March 1987|
