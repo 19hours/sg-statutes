@@ -434,7 +434,7 @@ REFERENCE TO AN APPEALS BOARD AND PROCEDURE THEREON
 
 (a) lodging with the Registrar, within 14 days of the date of the receipt of the award of the Collector, a written notice of appeal in quintuplicate;
 
-(b) depositing or authorising the deposit with the Accountant-General within 14 days of the date of the receipt of the award a sum equivalent to one-third the amount of the award or $5,000, whichever is the less; and
+(b) depositing or authorising the deposit with the Accountant-General within 14 days of the date of the receipt of the award a sum equivalent to one-third the amount of the award or $5,000, whichever is the less, unless a written waiver from the Collector has been obtained; and
 
 (c) lodging with the Registrar, within 14 days of the date on which the grounds of award of the Collector have been served upon the appellant, a petition of appeal in quintuplicate containing a statement of the grounds of appeal.
 
@@ -897,3 +897,8 @@ This Legislative History is provided for the convenience of users of the Land Ac
 |||(Bill No. 40/2002 published on 1 November 2002)|
 ||Date of Second and Third Readings|25 November 2002|
 ||Date of commencement|1 January 2003 (item (3) of the Schedule)|
+|14.|**Act 9 of 2003—Statutes (Miscellaneous Amendments) Act 2003**|
+||Date of First Reading|20 March 2003|
+|||(Bill No. 7/2003 published on 21 March 2003)|
+||Date of Second and Third Readings|24 April 2003|
+||Date of commencement|16 May 2003 (section 8)|
