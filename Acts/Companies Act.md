@@ -14144,9 +14144,13 @@ Note: PARAGRAPHS 1 TO 6 MUST BE INCORPORATED IN THE FRONT PAGE OF THE ABRIDGED P
 
 6.—(a) The last day and time for splitting;
 
-(b) The last day and time for acceptance and payment;
+(b)
 
-(c) The last day and time for renunciation and payment.
+The last day and time for acceptance and payment;
+
+(c)
+
+The last day and time for renunciation and payment.
 
 7\. The registered office of the corporation.
 
@@ -15404,3 +15408,9 @@ This Legislative History is provided for the convenience of users of the Compani
 |||(Bill No. 26/99 published on 4 August 1999)|
 ||Date of Second and Third Readings|18 August 1999|
 ||Date of commencement|15 September 1999|
+|47.|**Act 39 of 1999—Police Force (Amendment) Act 1999**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|11 October 1999|
+|||(Bill No. 32/99 published on 12 October 1999)|
+||Date of Second and Third Readings|23 November 1999|
+||Date of commencement|10 January 2000|
