@@ -1,4 +1,4 @@
-**Public Entertainments Act**
+**Public Entertainments and Meetings Act**
 
 **(CHAPTER 257)**
 
@@ -34,6 +34,8 @@
 
 - [14 Cancellation of licence](#Cancellation-of-licence)
 
+- [14A Demerit points](#Demerit-points)
+
 - [15 Exemption](#Exemption)
 
 - [16 Powers of entry and inspection](#Powers-of-entry-and-inspection)
@@ -42,13 +44,19 @@
 
 - [18 Penalties](#Penalties)
 
+- [18A Service of documents, etc.](#Service-of-documents-etc)
+
+- [18B Composition of offences](#Composition-of-offences)
+
 - [19 Onus of proof](#Onus-of-proof)
 
 - [20 Rules](#Rules)
 
+[**THE SCHEDULE**](#THE-SCHEDULE)
+
 [**Legislative History**](#Legislative-History)
 
-# Public Entertainments Act
+# Public Entertainment and Meetings Act
 
 (CHAPTER 257)
 
@@ -58,67 +66,37 @@ REVISED EDITION 1985
 
 (30th March 1987)
 
-An Act to provide for the regulation of public entertainments.
+An Act to provide for the regulation of public entertainment and meetings.
 
 [15th January 1959]
 
 ### Short title
 
-1\. This Act may be cited as the Public Entertainments Act.
+1\. This Act may be cited as the Public Entertainment and Meetings Act.
 
 ### Interpretation
 
-2\. In this Act, unless the context otherwise requires —
+2\.—(1) In this Act, unless the context otherwise requires —
 
 “approved place” means, in the case of any place required to be licensed under any regulations for the control and supervision of places that may be used for public entertainment made under the provisions of any written law, a place so licensed and in other cases a building, tent, street or place whether open or enclosed that is approved for the purposes of this Act by the Licensing Officer;
 
-“film” includes any record, however made, of a sequence of visual images, which is a record capable of being used as a means of showing that sequence as a moving picture;
-
 “Licensing Officer” means the officer appointed by the Minister under section 4 and includes an Assistant Licensing Officer;
 
-“pin-table” means any table, board or other appliance operated by hand or by coin, disc, electricity or any other means which is designed to enable the operator to play a game success in which is measured by the propulsion of one or more movable objects towards targets or goals or by the attainment of a number of points or by both and includes any table, board or other appliance which the Minister may from time to time by notification in theGazettedeclare to be a pin-table;
+“public entertainment” has the same meaning as in the Schedule.
 
-“public entertainment” includes —
+[35/2000 wef 01/03/2001]
 
-(a) plays, operas, pantomimes, variety acts, performances of music, singing, dancing, gymnastics, acrobatics and legerdemain, tableaux, demonstrations, displays and parades;
+[35/2000 wef 01/03/2001]
 
-(b) displays of fireworks, set pieces, commemorative decorations and representations of real or mythical creatures;
+(2) The Minister may at any time, by order published in theGazette, amend, add to or vary the Schedule.
 
-(c) circuses and exhibitions of animals or abnormal persons;
+[35/2000 wef 01/03/2001]
 
-(d) amusement parks and fun fairs;
+(3) Any order made under subsection (2) shall be presented to Parliament as soon as possible after publication in theGazette.
 
-(e) exhibitions of models, reading matter, pictures, photographs or of statuary or other forms of representation of human or animal figures;
+[35/2000 wef 01/03/2001]
 
-(f) exhibitions of films, peep-shows and puppet-shows;
-
-(g) reproductions or transmissions otherwise than in association with a film, by any means other than telephony or radio telephony, of any music, song or speech;
-
-(h) machines and devices by the manipulation of which chances are given of obtaining prizes in money or kind;
-
-(i) pin-tables;
-
-(j) sporting contests of any kind between any number of persons or animals other than that organised by any registered society, trade union, company or association;
-
-(k) organised competitions at games of skill or chance;
-
-(l) play-readings, recitals, lectures, talks, addresses, debates and discussions;
-
-(m) charitable distributions, auctions and sales of goods for philanthropic or charitable purposes, fêtes and garden parties;
-
-(n) trade fairs consisting in the exhibition, advertisement or sale of the products of industries or of materials; or
-
-(o) any combination of any of the above forms of public entertainment,
-
-in any place to which the public or any class of the public has access whether gratuitously or otherwise, but does not include —
-
-(i) public entertainment at gatherings and celebrations officially arranged by the official representative in Singapore of any government;
-
-(ii) public entertainment provided by or under the auspices of the Government or any department of the Government or any authority constituted under any written law relating to local government;
-
-(iii) ceremonies, rites, services and celebrations lawfully conducted by priests or ministers of religion in premises consecrated generally or specially for the conduct thereof;
-
-(iv) addresses, debates and discussions at meetings of public companies, chambers of commerce, registered trade unions, registered political associations or exempted or registered societies from which persons who are not shareholders or members, as the case may be, are excluded.
+[9/79]
 
 ### Prohibition
 
@@ -142,31 +120,75 @@ in any place to which the public or any class of the public has access whether g
 
 ### Additional information
 
-7\. On receipt of an application for a licence the Licensing Officer may require the applicant to furnish him with such additional information as he may require.
+7\. On receipt of an application for a licence the Licensing Officer may require the applicant to furnish him with such additional information or documents as he may require.
 
 ### Contents of licence
 
-8\. Every licence shall be in the prescribed form and shall set out the conditions subject to which it is issued and the date, not being more than 12 months later than the date of issue, on which it will expire.
+8\. Every licence shall be in the prescribed form and shall set out the conditions subject to which it is issued and the date on which it will expire.
 
 ### Licence not renewable as of right
 
-9\. A licence shall not be renewable as of right and an application to renew a licence shall be treated as an application for a licence.
+9\. A licence shall not be renewable as of right.
 
 ### Conditions
 
-10\. In issuing a licence the Licensing Officer may impose such conditions as he thinks fit.
+10\.—(1) In issuing a licence the Licensing Officer may impose such conditions as he thinks fit.
+
+[35/2000 wef 01/03/2001]
+
+(2) The Licensing Officer may at any time add to, vary or revoke any of the conditions of a licence imposed under subsection (1).
+
+[35/2000 wef 01/03/2001]
+
+(3) In deciding whether to add to, vary or revoke any condition of the licence under subsection (2), the Licensing Officer may take into consideration the total number of demerit points awarded against the licensee under section 14A in respect of the licence.
+
+[35/2000 wef 01/03/2001]
+
+(4) The Licensing Officer shall, before proceeding to add to, vary or revoke any condition of the licence under subsection (2) —
+
+(a) give the licensee notice in writing of his intention to do so; and
+
+(b) give the licensee an opportunity to be heard, within such time as may be specified in the notice, as to why the condition should not be added to, varied or revoked.
+
+[35/2000 wef 01/03/2001]
+
+(5) Any person who is aggrieved by the decision of the Licensing Officer under this section may, within 14 days of being notified of the decision of the Licensing Officer, appeal in writing to the Minister whose decision shall be final.
+
+[35/2000 wef 01/03/2001]
+
+[9/79]
 
 ### Security
 
-11\.—(1) In respect of such classes of entertainment as the Minister may from time to time prescribe by notification in theGazetteand subject to such limits as may be thereby prescribed, the Licensing Officer, before issuing a licence, may require the applicant, or, if there are several applicants, each applicant named by him for the purpose, to give security, either in the form of a cash deposit or by entering into a bond that the provisions of this Act and of the conditions of the licence issued will be duly observed.
+11\.—(1) In respect of such classes of public entertainment as the Minister may from time to time prescribe by notification in theGazetteand subject to such limits as may be thereby prescribed, the Licensing Officer may, before issuing a licence, require —
 
-(2) Where an applicant is required to enter into a bond, the Licensing Officer may require not more than two sureties to enter into the bond with the applicant or applicants.
+(a) the applicant; or
 
-(3) Any sum deposited or bond entered into under this section shall be liable to forfeiture in whole or in part at the discretion of the Licensing Officer on cancellation of the licence.
+(b) if there are 2 or more applicants, each applicant named by the Licensing Officer for the purpose,
 
-(4) Any person aggrieved by a forfeiture under this section may require the Licensing Officer to furnish him within 7 days the reason for the forfeiture.
+to give security in such form as the Licensing Officer may determine that the provisions of this Act, any rules made thereunder and the conditions of the licence issued will be duly observed.
 
-(5) Any person aggrieved by a forfeiture under this section may within 14 days of the furnishing to him of the reason for the forfeiture appeal in writing to the Minister whose decision shall be final.
+(2) Where a licensee has been awarded such number of demerit points as may be prescribed under section 14A(1), the Licensing Officer may require a licensee to give security in such form as the Licensing Officer may determine that the provisions of this Act, any rules made thereunder and the conditions of the licence issued will be duly observed.
+
+(3) Where any applicant is required under subsection (1), or any licensee is required under subsection (2), to enter into a bond, the Licensing Officer may require not more than 2 sureties to enter into the bond with the applicant or licensee, as the case may be.
+
+(4) Any security given under subsection (1) or (2) shall be liable to forfeiture in whole or in part at the discretion of the Licensing Officer —
+
+(a) on the cancellation of the licence;
+
+(b) where the licensee has been awarded such number of demerit points as may be prescribed under section 14A(1); or
+
+(c) where the Licensing Officer is satisfied that the public entertainment has been carried out in contravention of this Act or any rules made thereunder.
+
+(5) The Licensing Officer shall, before proceeding under subsection (4) —
+
+(a) give the licensee notice in writing of his intention to do so; and
+
+(b) give the licensee an opportunity to be heard, within such time as may be specified in the notice, as to why the security should not be forfeited.
+
+(6) Any person who is aggrieved by the decision of the Licensing Officer under subsection (4) may, within 14 days of being notified of the decision of the Licensing Officer, appeal in writing to the Minister whose decision shall be final.
+
+[35/2000 wef 01/03/2001]
 
 ### Licence to be displayed
 
@@ -174,11 +196,11 @@ in any place to which the public or any class of the public has access whether g
 
 ### Refusal of licence
 
-13\.—(1) The Licensing Officer may in his discretion refuse any application for a licence.
+13\.—(1) The Licensing Officer may in his discretion refuse to issue or renew any licence.
 
-(2) The Licensing Officer shall, if so required by the applicant, furnish him within 7 days of being so required with the grounds of such refusal in writing.
+(2) The Licensing Officer shall, if so required by the applicant or the licensee, as the case may be, furnish him within 7 days of being so required with the grounds of such refusal in writing.
 
-(3) Any applicant aggrieved by the refusal of his application by the Licensing Officer may, within 14 days of the furnishing to him of the grounds of the refusal, appeal in writing to the Minister whose decision shall be final. Where the Minister decides to grant an application for a licence, he may impose such conditions as he thinks fit.
+(3) Any applicant or licensee who is aggrieved by the refusal of the Licensing Officer may, within 14 days of the furnishing to him of the grounds of the refusal, appeal in writing to the Minister whose decision shall be final. Where the Minister decides to grant the appeal for the issue or renewal of a licence, he may impose such conditions as he thinks fit.
 
 ### Cancellation of licence
 
@@ -192,13 +214,29 @@ in any place to which the public or any class of the public has access whether g
 
 (d) has been provided or is likely to be provided otherwise than in accordance with the conditions of the licence or is contrary to the public interest.
 
-(2) Notice of such cancellation or suspension shall be served on the licensee, and shall also where the public entertainment has been held in a building or tent be affixed to the building or tent.
+(2) The Licensing Officer may, in his discretion, cancel or suspend a licence, as the case may be, if he is satisfied that the licensee is not a fit and proper person to hold such licence.
+
+[35/2000 wef 01/03/2001]
+
+(2A) The Licensing Officer shall not cancel or suspend a licence under subsection (1)(d) on the ground that the public entertainment for which it was issued has been provided otherwise than in accordance with the conditions of the licence unless the licensee has accumulated such number of demerit points as may be prescribed under section 14A(1).
+
+[35/2000 wef 01/03/2001]
 
 (3) The Licensing Officer shall, if so required by the licensee, furnish him within 7 days of being so required with the grounds in writing of the cancellation or suspension of his licence.
 
 (4) Any person aggrieved by the cancellation or suspension of his licence by the Licensing Officer may, within 14 days of the furnishing to him of the grounds of the cancellation or suspension, appeal in writing to the Minister, whose decision shall be final. Where the Minister decides to restore a licence, he may impose such conditions as he thinks fit.
 
 [9/79]
+
+### Demerit points
+
+14A\.—(1) The Minister may, for the purposes of sections 10, 11 and 14(2A), make rules to establish a system of awarding demerit points against a licensee for the commission of an offence under section 18(1)(c).
+
+(2) For the purposes of this section, demerit points may be awarded against a licensee notwithstanding that the licensee has accepted an offer by the Licensing Officer to compound the offence concerned.
+
+(3) Where a licence is cancelled under section 14, every demerit point awarded against the licensee in respect of the licence shall be cancelled.
+
+[35/2000 wef 01/03/2001]
 
 ### Exemption
 
@@ -212,11 +250,11 @@ in any place to which the public or any class of the public has access whether g
 
 17\.—(1) Any Licensing Officer or police officer may arrest without warrant any person whom he reasonably suspects of committing or attempting to commit, or abetting any person to commit, any offence under this Act and who refuses to furnish his name and address or who furnishes a name and address reasonably suspected of being false or who furnishes an address outside Singapore or who is reasonably suspected of being likely to abscond.
 
-(2) Every person so arrested shall be taken to a police station and shall thereafter be dealt with as if he had been arrested under section 33 of the Criminal Procedure Code [Cap. 68].
+(2) Every person so arrested shall be taken to a police station and shall thereafter be dealt with as if he had been arrested under section 33 of the Criminal Procedure Code.
 
 ### Penalties
 
-18\.—(1) Any person who provides or assists in providing any public entertainment not being a public entertainment exempted under section 15 —
+18\.—(1) Any person who provides or assists in providing any public entertainment —
 
 (a) without a licence issued under this Act;
 
@@ -226,11 +264,43 @@ in any place to which the public or any class of the public has access whether g
 
 (d) in contravention of this Act or any rules made thereunder,
 
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
 
 (2) For the purposes of this section no person shall be deemed to have provided or assisted in providing public entertainment merely by reason of his having taken part in the public entertainment provided.
 
 [9/79]
+
+### Service of documents, etc.
+
+18A\.—(1) Any notice, order or document required or authorised by this Act or any rules made thereunder to be served on any person may be served —
+
+(a) by delivering it to the person or to some adult member or employee of his family or household at his last known place of residence;
+
+(b) by leaving it at his usual or last known place of residence or business in an envelope addressed to the person;
+
+(c) by sending it by registered post addressed to the person at his usual or last known place of residence or business; or
+
+(d) in the case of a company, partnership or body of persons —
+
+(i) by delivering it to the secretary or other like officer of the company, partnership or body of persons at its registered office or principal place of business; or
+
+(ii) by sending it by registered post addressed to the company, partnership or body of persons at its registered office or principal place of business.
+
+(2) Any notice, order or document sent by registered post to any person in accordance with subsection (1) shall be deemed to be duly served on the person at the time when the notice, order or document, as the case may be, would in the ordinary course of post be delivered.
+
+(3) When proving service of the notice, order or document referred to in subsection (2), it shall be sufficient to prove that the envelope containing the notice, order or document, as the case may be, was properly addressed, stamped and posted by registered post.
+
+[35/2000 wef 01/03/2001]
+
+### Composition of offences
+
+18B\.—(1) The Licensing Officer may, in his discretion, compound any offence under this Act or any rules made thereunder which is prescribed as a compoundable offence by collecting from the person reasonably suspected of having committed the offence a sum not exceeding $1,000.
+
+(2) The Minister may make rules to prescribe the offences which may be compounded under this section.
+
+(3) On payment of such sum of money, no further proceedings shall be taken against such person in respect of the offence.
+
+[35/2000 wef 01/03/2001]
 
 ### Onus of proof
 
@@ -244,19 +314,163 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (b) to prescribe the form of applications for licences, of licences and of the books to be kept;
 
-(c) to prescribe the hours during which public entertainments may be provided;
+(c) to prescribe the hours during which public entertainment may be provided;
 
 (d) generally to give effect to the provisions of this Act.
 
-(2) All rules made under this section shall be published in theGazetteand shall be presented to Parliament as soon as possible after publication and if a resolution is passed pursuant to a motion notice whereof has been given for a sitting day not later than the first available sitting day of Parliament next after the expiry of one month from the date when the rules are so presented annulling the rules or any part thereof as from a specified date, the rules or such part thereof, as the case may be, shall thereupon become void as from that date but without prejudice to the validity of anything previously done thereunder or to the making of new rules.
+(2) All rules made under this Act shall be presented to Parliament as soon as possible after publication in theGazette.
+
+[35/2000 wef 01/03/2001]
+
+## THE SCHEDULE
+
+Section 2(1)
+
+1. In this Schedule —
+
+“film” means —
+
+(a) any cinematograph film;
+
+(b) any video recording;
+
+(c) any record, however made, of a sequence of visual images, which is a record capable of being used as a means of showing that sequence as a moving picture; or
+
+(d) any other material, record or thing on which is recorded or stored for immediate or future retrieval any information that, by the use of any computer or electronic device, is capable of being reproduced or displayed as wholly or partly visual moving pictures;
+
+“pin-table” means any table, board or other appliance operated by hand or by coin, disc, electricity or any other means which is designed to enable the operator to play a game, success in which is measured by the propulsion of one or more movable objects towards targets or goals or by the attainment of a number of points or by both;
+
+“video recording” means any disc, magnetic tape or solid state recording device containing information by the use of which one or more series of visual images may be produced electronically and shown as a moving picture.
+
+2. “Public entertainment” includes —
+
+(a) any play, opera, pantomime, variety act, performance of music, singing, dancing, gymnastics, acrobatics and legerdemain, tableaux, demonstration, display or parade;
+
+(b) any display of set pieces, commemorative decorations or representations of real or mythical creatures;
+
+(c) any circus or any exhibition of animals;
+
+(d) any amusement centre, amusement park or fun fair;
+
+(e) any computer games centre;
+
+(f) any exhibition of models, reading matter, pictures, photographs or of statuary or other forms of representation of human or animal figures;
+
+(g) any exhibition of film, or any peep-show or puppet-show;
+
+(h) any reproduction or transmission otherwise than in association with a film, by any means other than telephony or radio telephony, of any music, song or speech;
+
+(i) any machine or device by the manipulation of which chances are given of obtaining prizes in money or kind;
+
+(j) any pin-table;
+
+(k) any sporting contest of any kind between any number of persons or animals, other than that organised by any registered society, trade union, company or association;
+
+(l) any organised competition at games of skill or chance;
+
+(m) any play-reading, recital, lecture, talk, address, debate or discussion; or
+
+(n) any combination of any of the above forms of public entertainment,
+
+in any place to which the public or any class of the public has access whether gratuitously or otherwise.
+
+3. “Public entertainment” does not include —
+
+(a) public entertainment at gatherings and celebrations officially arranged by the official representative in Singapore of any government;
+
+(b) public entertainment provided by or under the auspices of the Government or any department of the Government or any authority constituted under any written law relating to local government;
+
+(c) ceremonies, rites, services and celebrations lawfully conducted by priests or ministers of religion in premises consecrated generally or specially for the conduct thereof;
+
+(d) addresses, debates and discussions at meetings of public companies, chambers of commerce, registered trade unions, registered political associations or exempted or registered societies from which persons who are not shareholders or members, as the case may be, are excluded; and
+
+(e) public entertainment provided by or under the auspices of the following statutory bodies:
+
+(i) Agri-food and Veterinary Authority;
+
+(ii) Board of Architects;
+
+(iii) Building and Construction Authority;
+
+(iv) Civil Aviation Authority of Singapore;
+
+(v) Commercial and Industrial Security Corporation;
+
+(vi) Defence Science and Technology Agency;
+
+(vii) Economic Development Board;
+
+(viii) Housing and Development Board;
+
+(ix) Institute of Technical Education, Singapore;
+
+(x) Institute of Southeast Asian Studies;
+
+(xi) Jurong Town Corporation;
+
+(xii) Majlis Ugama Islam, Singapura;
+
+(xiii) Maritime and Port Authority of Singapore;
+
+(xiv) Monetary Authority of Singapore;
+
+(xv) Nanyang Polytechnic;
+
+(xvi) Nanyang Technological University;
+
+(xvii) National Arts Council;
+
+(xviii) National Council of Social Service;
+
+(xix) National Heritage Board;
+
+(xx) National Library Board;
+
+(xxi) National Parks Board;
+
+(xxii) National Science and Technology Board;
+
+(xxiii) National University of Singapore;
+
+(xxiv) Ngee Ann Polytechnic;
+
+(xxv) People’s Association;
+
+(xxvi) Professional Engineers Board;
+
+(xxvii) Public Utilities Board;
+
+(xxviii) Science Centre Board;
+
+(xxix) Sentosa Development Corporation;
+
+(xxx) Singapore Broadcasting Authority;
+
+(xxxi) Singapore Corporation of Rehabilitative Enterprises;
+
+(xxxii) Singapore Polytechnic;
+
+(xxxiii) Singapore Productivity and Standards Board;
+
+(xxxiv) Singapore Sports Council;
+
+(xxxv) Singapore Tourism Board;
+
+(xxxvi) Temasek Polytechnic;
+
+(xxxvii) Trade Development Board;
+
+(xxxviii) Urban Redevelopment Authority.
+
+[35/2000 wef 01/03/2001]
 
 ## LEGISLATIVE HISTORY
 
-Public Entertainments Act
+Public Entertainments and Meetings Act
 
 (CHAPTER 257)
 
-This Legislative History is provided for the convenience of users of the Public Entertainments Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Public Entertainments and Meetings Act. It is not part of this Act.
 
 ||||
 |:-|:-|:-|
@@ -279,3 +493,8 @@ This Legislative History is provided for the convenience of users of the Public 
 ||Date of commencement|4 May 1979|
 |5.|**1985 Revised Edition—Public Entertainments and Meetings Act (Chapter 257)**|
 ||Date of operation|30 March 1987|
+|6.|**Act 35 of 2000—Public Entertainments (Amendment) Act 2000**|
+||Date of First Reading|9 October 2000|
+|||(Bill No. 29/2000 published on 10 October 2000)|
+||Date of Second and Third Readings|13 November 2000|
+||Date of commencement|1 March 2001|
