@@ -1,16 +1,14 @@
-**Public Utilities Act 1995**
+**Public Utilities Act**
 
-**(No. 8 of 2001)**
+**(CHAPTER 261)**
 
 **Table of Contents**
 
 [**Long Title**](#Public-Utilities-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -37,6 +35,8 @@
 - [12 Protection from personal liability](#Protection-from-personal-liability)
 
 - [13 Power to borrow](#Power-to-borrow)
+
+- [13A Issue of shares, etc.](#Issue-of-shares-etc)
 
 - [14 Duty of Board in financial matters](#Duty-of-Board-in-financial-matters)
 
@@ -124,7 +124,7 @@
 
 - [53 Certificate of Chief Executive to be evidence of certain facts](#Certificate-of-Chief-Executive-to-be-evidence-of-certain-facts)
 
-- [54 Jurisdiction of courts](#Jurisdiction-of-courts)
+- [54 Jurisdiction of court](#Jurisdiction-of-court)
 
 - [55 Police officer or authorised officer may require evidence of identity in certain cases](#Police-officer-or-authorised-officer-may-require-evidence-of-identity-in-certain-cases)
 
@@ -166,11 +166,9 @@
 
 - [72 Regulations](#Regulations)
 
-- [73 Repeal and transitional provisions](#Repeal-and-transitional-provisions)
+- [73 Transitional provisions](#Transitional-provisions)
 
 - [74 References in other written law](#References-in-other-written-law)
-
-- [75 Consequential amendments to Sewerage and Drainage Act](#Consequential-amendments-to-Sewerage-and-Drainage-Act)
 
 [**FIRST SCHEDULE Constitution and Proceedings of Board**](#FIRST-SCHEDULE-Constitution-and-Proceedings-of-Board)
 
@@ -178,49 +176,31 @@
 
 [**THIRD SCHEDULE Financial Provisions**](#THIRD-SCHEDULE-Financial-Provisions)
 
-[**FOURTH SCHEDULE Consequential Amendments to Sewerage and Drainage Act**](#FOURTH-SCHEDULE-Consequential-Amendments-to-Sewerage-and-Drainage-Act)
+[**Legislative History**](#Legislative-History)
 
-REPUBLIC OF SINGAPORE
+[**Comparative Table**](#Comparative-Table)
 
-GOVERNMENT GAZETTE
+# Public Utilities Act
 
-ACTS SUPPLEMENT
+(CHAPTER 261)
 
-Published by Authority
+(Original Enactment: Act 8 of 2001)
 
-NO. 26]
+REVISED EDITION 2002
 
-Friday, March 30
+(31st July 2002)
 
-[2001
+An Act to reconstitute the Public Utilities Board and for matters connected therewith.
 
-The following Act was passed by Parliament on 16th March 2001 and assented to by the President on 26th March 2001:—
-
-Public Utilities Act 2001
-
-(No. 8 of 2001)
-
-I assent.
-
-S R NATHAN
-
-President.
-
-26th March 2001.
-
-Date of Commencement: 1st April 2001
-
-An Act to reconstitute the Public Utilities Board and for matters connected therewith, to repeal the Public Utilities Act (Chapter 261 of the 1996 Revised Edition) and to make consequential amendments to the Sewerage and Drainage Act (Chapter 293A of the 2000 Revised Edition).
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st April 2001]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Public Utilities Act 2001 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Public Utilities Act.
 
 ### Interpretation
 
@@ -228,13 +208,11 @@ PRELIMINARY
 
 “apparatus” means any water apparatus, equipment or accessory and includes all apparatus, devices and fittings in which pipes are used or of which they form a part;
 
-“appointed day” means the date of commencement of this Act;
-
 “approved person” means a person given written approval under section 41 to supply piped water for human consumption;
 
 “authorised officer” means an officer of the Board authorised by the Board for the purposes of this Act;
 
-“Board” means the Public Utilities Board reconstituted under the Public Utilities Act (Cap. 261) in force before the appointed day and continued by section 3;
+“Board” means the Public Utilities Board reconstituted under the Public Utilities Act (Cap. 261, 1996 Ed.) in force before 1st April 2001 and continued by section 3;
 
 “Chairman” means the Chairman of the Board and includes any temporary Chairman of the Board;
 
@@ -258,7 +236,7 @@ PRELIMINARY
 
 “premises” includes buildings, structures, streets, lands, waters, tenements, easements of any tenure, whether State land or not, whether open or enclosed, whether built on or not, whether public or private, and whether maintained or not under statutory authority;
 
-“sewage” and “sewerage system” have the same meanings as in the Sewerage and Drainage Act (Cap. 293A);
+“sewage” and “sewerage system” have the same meanings as in the Sewerage and Drainage Act (Cap. 294);
 
 “street” includes —
 
@@ -294,7 +272,7 @@ RECONSTITUTION, FUNCTIONS, DUTIES AND POWERS OF BOARD
 
 ### Reconstitution of Board
 
-3\. As from the appointed day, the Board shall continue in existence and shall continue to be a body corporate with perpetual succession and capable of —
+3\. As from 1st April 2001, the Board shall continue in existence and shall continue to be a body corporate with perpetual succession and capable of —
 
 (a) suing and being sued in its corporate name;
 
@@ -304,7 +282,7 @@ RECONSTITUTION, FUNCTIONS, DUTIES AND POWERS OF BOARD
 
 ### Common seal
 
-4\.—(1) As from the appointed day, the Board shall continue to have a common seal and the seal may, from time to time, be broken, altered or made anew as the Board thinks fit.
+4\.—(1) As from 1st April 2001, the Board shall continue to have a common seal and the seal may, from time to time, be broken, altered or made anew as the Board thinks fit.
 
 (2) All courts, judges and persons acting judicially shall take judicial notice of the common seal of the Board affixed to any document and shall presume that it was duly affixed.
 
@@ -364,7 +342,7 @@ RECONSTITUTION, FUNCTIONS, DUTIES AND POWERS OF BOARD
 
 (3) Nothing in this section shall be construed as imposing on the Board, directly or indirectly, any form of duty or liability enforceable by proceedings before any court.
 
-(4) In this section, “public sewerage system”, “public sewers”, “storm water drainage system”, “drain” and “drainage reserve” have the same meanings as in the Sewerage and Drainage Act (Cap. 293A).
+(4) In this section, “public sewerage system”, “public sewers”, “storm water drainage system”, “drain” and “drainage reserve” have the same meanings as in the Sewerage and Drainage Act (Cap. 294).
 
 ### Powers of Board
 
@@ -442,6 +420,12 @@ shall be guilty of an offence.
 
 13\. The Board may, with the approval of the Minister, raise capital from banks and other financial institutions whether in Singapore or elsewhere by way of mortgage, overdraft or otherwise, with or without security, as it may require for the discharge of its functions under this Act.
 
+### Issue of shares, etc.
+
+13A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Board under this Act, or of any capital injection or other investment by the Government in the Board in accordance with any written law, the Board shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
+
+[5/2002]
+
 ### Duty of Board in financial matters
 
 14\. It shall be the duty of the Board so to exercise and perform its functions under this Act as to secure that the total revenues of the Board are sufficient, taking one financial year with another, to meet its total outgoings properly chargeable to revenue account, including depreciation and interest on capital and to meet a reasonable proportion of the cost of the development of the services of the Board.
@@ -474,7 +458,7 @@ shall be guilty of an offence.
 
 ### Symbol or representation of Board
 
-19\.—(1) The Board shall have the exclusive right to the use of such symbol or representation as the Board may select or devise and thereafter display or exhibit in connection with its activities or affairs.
+19\.—(1) The Board shall have the exclusive right to the use of such symbol or representation as the Board may select or devise and thereafter display or exhibit such symbol or representation in connection with its activities or affairs.
 
 (2) Any person who uses a symbol or representation identical with that of the Board, or which so resembles the Board’s symbol or representation as to deceive or cause confusion, or to be likely to deceive or to cause confusion, shall be guilty of an offence.
 
@@ -544,7 +528,7 @@ WATER UNDERTAKING OF BOARD AND WATER SERVICE WORKERS
 
 24\.—(1) The Board may, for the purposes of this Act, by its employees, agents or contractors, enter at all reasonable hours in the day time any premises for the purpose of making any survey or inspection and for the purpose of executing any work authorised by this Act to be executed by the Board without being liable to pay any person any fee, charge or expense or to any legal proceedings or molestation on account of such entry or of anything done in any part of the premises under this Act.
 
-(2) Subject to subsection (3), the Board shall not by its employees, agents or contractors enter any dwelling-house in actual occupation, except with the consent of the occupier thereof, without 6 hours’ previous notice to the occupier.
+(2) Subject to subsection (3), the Board shall not by its employees, agents or contractors enter any dwelling-house in actual occupation, except with the consent of the occupier thereof, without 6 hours previous notice to the occupier.
 
 (3) The Minister may declare that any class of premises for the control and supervision of which regulations may be made under this Act shall be liable to night inspection, and thereupon any employee, agent or contractor in that behalf duly authorised in writing by the Board may, at any time of the day or night and without notice, enter using such force as may be necessary and search or inspect any premises of the class specified in the declaration.
 
@@ -612,7 +596,7 @@ is not paid within the time allowed for such payment to be made, a notice may be
 
 ### Power to enter premises to examine pipes, etc.
 
-31\.—(1) The Board may by its employees at all reasonable hours in the day time enter any premises to which water is or has been supplied by the Board for all or any of the following purposes:
+31\.—(1) The Board may by its employees at all reasonable hours in the day enter any premises to which water is or has been supplied by the Board for all or any of the following purposes:
 
 (a) to examine and if necessary repair, renew or replace the pipes, meters, fittings, works or apparatus for the supply of water belonging to or which are supplied from mains belonging to the Board;
 
@@ -622,7 +606,7 @@ is not paid within the time allowed for such payment to be made, a notice may be
 
 (d) to repair any damage caused by such entry, inspection or removal.
 
-(2) The Board may by its employees at all reasonable hours in the day time enter upon or pass through any premises into, through, by, along or under which any of its mains, pipes or other works or any main, pipe or work connected therewith passes or is located —
+(2) The Board may by its employees at all reasonable hours in the day enter upon or pass through any premises into, through, by, along or under which any of its mains, pipes or other works or any main, pipe or work connected therewith passes or is located —
 
 (a) to inspect and, if necessary, to repair, alter, take up, relay, rearrange or otherwise deal with them as the circumstances may require; and
 
@@ -646,7 +630,7 @@ without making any previous payment, tender or deposit.
 
 (b) to the owner for the permanent damage, if any, to the premises.
 
-(3) Before the Board exercises its power under subsection (1), it shall give 7 days’ notice in writing of its intention to the owner and occupier of the premises and shall set apart by sufficient fences so much of the premises as is required to be used from the other premises adjoining thereto.
+(3) Before the Board exercises its power under subsection (1), it shall give 7 days notice in writing of its intention to the owner and occupier of the premises and shall set apart by sufficient fences so much of the premises as is required to be used from the other premises adjoining thereto.
 
 ### Removal of obstruction over existing water main or connecting pipe
 
@@ -692,7 +676,7 @@ and recover any costs reasonably incurred by it from such person.
 
 (a) for cattle or horses or for washing vehicles where the cattle, horses or vehicles are kept for sale or hire or kept by a common carrier;
 
-(b) where the supply is used substantially for watering lands or gardens or for fountains or for any ornamental purpose whatever; or
+(b) where the supply is used substantially for watering lands or gardens or for fountains or for any ornamental purpose; or
 
 (c) to any premises any part of which is used for the purpose of any trade, manufacture or business.
 
@@ -926,9 +910,9 @@ shall be guilty of an offence.
 
 53\. In any proceedings for an offence under this Act, a certificate purporting to be signed by the Chief Executive and stating that any person described in the certificate is or is not granted a licence or approval under this Act, shall be sufficient evidence of the matters stated in the certificate.
 
-### Jurisdiction of courts
+### Jurisdiction of court
 
-54\. Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court and a Magistrate’s Court shall have jurisdiction to try any offence under this Act and to impose the full penalty or punishment in respect of any such offence.
+54\. Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court and a Magistrate’s Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of any offence under this Act.
 
 ### Police officer or authorised officer may require evidence of identity in certain cases
 
@@ -970,23 +954,23 @@ TRANSFER TO BOARD OF PROPERTY, LIABILITIES AND EMPLOYEES
 
 ### Transfer to Board of property, assets and liabilities
 
-60\.—(1) As from the appointed day, such movable and immovable property vested in the Government as may be determined by the Minister for Finance and used or managed by the Sewerage Department and the Drainage Department and all assets, interests, rights, privileges, liabilities and obligations of the Government relating to the Sewerage Department and the Drainage Department shall be transferred to and shall vest in the Board without further assurance, act or deed.
+60\.—(1) As from 1st April 2001, such movable and immovable property vested in the Government as may be determined by the Minister for Finance and used or managed by the Sewerage Department and the Drainage Department and all assets, interests, rights, privileges, liabilities and obligations of the Government relating to the Sewerage Department and the Drainage Department shall be transferred to and shall vest in the Board without further assurance, act or deed.
 
 (2) If any question arises as to whether any particular property, asset, interest, right, privilege, liability or obligation has been transferred to or vested in the Board under subsection (1), a certificate under the hand of the Minister for Finance shall be conclusive evidence that the property, asset, interest, right, privilege, liability or obligation was or was not so transferred or vested.
 
 (3) Any immovable property to be transferred to and vested in the Board under subsection (1) shall be held by the Board upon such tenure and subject to such terms and conditions as the President may determine.
 
-(4) Every proceedings by or against the Government relating to the Sewerage Department or the Drainage Department which are pending on the appointed day may be continued, completed and enforced by or against the Board.
+(4) Every proceedings by or against the Government relating to the Sewerage Department or the Drainage Department which are pending on 1st April 2001 may be continued, completed and enforced by or against the Board.
 
-(5) Every agreement relating to any of the transferred properties to which the Sewerage Department or the Drainage Department was a party immediately before the appointed day, whether or not of such nature that the rights and liabilities thereunder could be assigned, shall have effect as from that day as if —
+(5) Every agreement relating to any of the transferred properties to which the Sewerage Department or the Drainage Department was a party immediately before 1st April 2001, whether or not of such nature that the rights and liabilities thereunder could be assigned, shall have effect as from that date as if —
 
 (a) the Board had been a party to such an agreement; and
 
-(b) for any reference to the Sewerage Department or the Drainage Department there were substituted in respect of anything to be done on or after the appointed day a reference to the Board.
+(b) for any reference to the Sewerage Department or the Drainage Department there were substituted in respect of anything to be done on or after 1st April 2001 a reference to the Board.
 
 ### Transfer of employees
 
-61\.—(1) As from the appointed day, all persons employed immediately before that day by the Sewerage Department and the Drainage Department shall be transferred to the service of the Board on terms no less favourable than those enjoyed by them immediately prior to their transfer.
+61\.—(1) As from 1st April 2001, all persons employed immediately before that date by the Sewerage Department and the Drainage Department shall be transferred to the service of the Board on terms no less favourable than those enjoyed by them immediately prior to their transfer.
 
 (2) Until such time as terms and conditions of service are drawn up by the Board, the scheme and terms and conditions of service of the Government shall continue to apply to every person transferred to the service of the Board under subsection (1) as if he were still in the employment of the Government.
 
@@ -998,7 +982,7 @@ TRANSFER TO BOARD OF PROPERTY, LIABILITIES AND EMPLOYEES
 
 (3) Nothing in the terms and conditions to be drawn up by the Board shall adversely affect the conditions that would have been applicable to persons transferred to the service of the Board as regards any pension, gratuity or allowance payable under the Pensions Act (Cap. 225).
 
-(4) Where a person has been transferred to the service of the Board under section 61, the Government shall be liable to pay to the Board such portion of any gratuity, pension or allowance payable to the person on his retirement as the same shall bear to the proportion which the aggregate amount of his pensionable emoluments during his service with the Government bears to the aggregate amount of his pensionable emoluments during his service under both the Government and the Board.
+(4) Where a person has been transferred to the service of the Board under section 61, the Government shall be liable to pay to the Board such portion of any pension, gratuity or allowance payable to the person on his retirement as the same shall bear to the proportion which the aggregate amount of his pensionable emoluments during his service with the Government bears to the aggregate amount of his pensionable emoluments during his service under both the Government and the Board.
 
 (5) Where any person in the service of the Board, whose case does not fall within the scope of any pension or other schemes established under this section, retires or dies in the service of the Board or is discharged from such service, the Board may grant to him or to such other person or persons wholly or partly dependent on him, as the Board thinks fit, such allowance or gratuity as the Board may determine.
 
@@ -1008,15 +992,15 @@ TRANSFER TO BOARD OF PROPERTY, LIABILITIES AND EMPLOYEES
 
 ### Existing contracts
 
-64\. All deeds, schemes, bonds, agreements, instruments and arrangements subsisting immediately before the appointed day to which the Government is a party and relating to the Sewerage Department or the Drainage Department or to any person transferred to the service of the Board under section 61 shall continue in force on and after that day and shall be enforceable by or against the Board as if the Board had been named therein or had been a party thereto instead of the Government.
+64\. All deeds, schemes, bonds, agreements, instruments and arrangements subsisting immediately before 1st April 2001 to which the Government is a party and relating to the Sewerage Department or the Drainage Department or to any person transferred to the service of the Board under section 61 shall continue in force on and after that date and shall be enforceable by or against the Board as if the Board had been named therein or had been a party thereto instead of the Government.
 
 ### Continuation and completion of disciplinary proceedings
 
-65\.—(1) Where on the appointed day any disciplinary proceedings were pending against any employee of the Government transferred to the service of the Board under section 61, the proceedings shall be carried on and completed by the Board.
+65\.—(1) Where on 1st April 2001 any disciplinary proceedings were pending against any employee of the Government transferred to the service of the Board under section 61, the proceedings shall be carried on and completed by the Board.
 
-(2) Where on the appointed day any matter was in the course of being heard or investigated or had been heard or investigated by a committee acting under due authority but no order or decision had been rendered thereon, the committee shall complete the hearing or investigation and make such order, ruling or direction as it could have made under the authority vested in it before that day.
+(2) Where on 1st April 2001 any matter was in the course of being heard or investigated or had been heard or investigated by a committee acting under due authority but no order, ruling or decision had been made thereon, the committee shall complete the hearing or investigation and shall make such order, ruling or direction as it could have made under the authority vested in it before that date.
 
-(3) Any order, ruling or direction made or given by a committee under this section shall be treated as an order, a ruling or a direction of the Board and have the same force or effect as if it had been made or given by the Board pursuant to the authority vested in the Board under this Act.
+(3) Any order, ruling or direction made by a committee under this section shall be treated as an order, a ruling or a direction of the Board and have the same force or effect as if it had been made by the Board pursuant to the authority vested in the Board under this Act.
 
 ### Misconduct or neglect of duty by employee before transfer
 
@@ -1118,43 +1102,49 @@ MISCELLANEOUS
 
 (4) All such regulations shall be presented to Parliament as soon as possible after publication in theGazette.
 
-### Repeal and transitional provisions
+### Transitional provisions
 
-73\.—(1) The Public Utilities Act (Cap. 261) is repealed.
+73\.—(1) All acts done by the Board before 1st April 2001 shall continue to remain valid and applicable as though done by the Board under this Act, until such time as invalidated, revoked, cancelled or otherwise determined by the Board.
 
-(2) All acts done by the Board before the appointed day shall continue to remain valid and applicable as though done by the Board under this Act, until such time as invalidated, revoked, cancelled or otherwise determined by the Board.
+(2) Where anything has been commenced by or on behalf of the Board before 1st April 2001, such thing may be carried on and completed by or under the authority of the Board.
 
-(3) Where anything has been commenced by or on behalf of the Board before the appointed day, such thing may be carried on and completed by or under the authority of the Board.
+(3) Subject to subsection (5), any scheme, contract, document, licence, permission or resolution prepared, made, granted or approved by the Board under the repealed Public Utilities Act (Cap. 261, 1996 Ed.) shall, so far as it is not inconsistent with the provisions of this Act, continue and be deemed to have been prepared, made, granted or approved under the corresponding provisions of this Act.
 
-(4) Subject to subsection (6), any scheme, contract, document, licence, permission or resolution prepared, made, granted or approved by the Board under the repealed Public Utilities Act shall, so far as it is not inconsistent with the provisions of this Act, continue and be deemed to have been prepared, made, granted or approved under the corresponding provisions of this Act.
+(4) Any subsidiary legislation made under the repealed Public Utilities Act and in force immediately before 1st April 2001 shall, so far as it is not inconsistent with the provisions of this Act, continue in force as if made under this Act until it is revoked or repealed by subsidiary legislation made under this Act.
 
-(5) Any subsidiary legislation made under the repealed Public Utilities Act (Cap. 261) and in force immediately before the appointed day shall, so far as it is not inconsistent with the provisions of this Act, continue in force as if made under this Act until it is revoked or repealed by subsidiary legislation made under this Act.
+(5) Notwithstanding the repeal of the Public Utilities Act, as from 1st April 2001 and for such period as the Minister for Trade and Industry may determine —
 
-(6) Notwithstanding the repeal of the Public Utilities Act, as from the appointed day —
+(a) section 2, Parts IV, V, VII, VIII, IX and X of that Act and the subsidiary legislation made under section 130 of that Act for or in relation to the supply or use of electricity and gas shall, with the necessary modifications, continue in force as if that Act has not been repealed;
 
-(a) for such period as the Minister may determine, all licences granted under section 38 and Part VIII of that Act shall continue to be valid and in force and during such period section 2, Parts IV, V, VII, VIII, IX and X of that Act, and the subsidiary legislation made under section 130 of that Act for or in relation to the supply or use of electricity and gas shall, with the necessary modifications, continue in force as if that Act has not been repealed; and
+(b) all licences granted before 1st April 2001 under section 38 and Part VIII of that Act shall continue to be valid and in force.
 
-(b) sections 62 to 65 of that Act shall continue in force and to apply to the successor companies mentioned in those sections as if that Act has not been repealed.
+(c) for the purposes of this subsection, the references to the Minister and the Board in —
 
-(7) All acts done by or on behalf of the Director of Sewerage and Drainage before the appointed day under the Sewerage and Drainage Act (Cap. 293A) in force before that day shall continue to remain valid and applicable as though done by the Board under that Act, until such time as invalidated, revoked, cancelled or otherwise determined by the Board.
+(i) section 2, Parts IV, V, VII, VIII, IX and X of that Act and the subsidiary legislation made under section 130 of that Act for or in relation to the supply or use of electricity and gas; and
 
-(8) Where anything has been commenced by or on behalf of the Director of Sewerage and Drainage before the appointed day, such thing may be carried on and completed by or under the authority of the Board.
+(ii) the licences granted before 1st April 2001 under section 38 and Part VIII of that Act,
 
-(9) Any notice, order, decision, direction, certificate or approval made or granted by the Director of Sewerage and Drainage before the appointed day under the Sewerage and Drainage Act in force before that day shall continue and be deemed to have been made or granted by the Board under that Act, until such time as invalidated, revoked, cancelled or otherwise determined by the Board.
+shall be read as references to the Minister for Trade and Industry and the Energy Market Authority of Singapore respectively; and
 
-(10) The Minister may make regulations to provide for any other transitional, incidental and consequential matters arising from the repeal of the Public Utilities Act.
+(d) for the purposes of this subsection, the Minister for Trade and Industry may make regulations to provide for any other transitional, incidental and consequential matters arising from the repeal of the Public Utilities Act.
+
+(6) Notwithstanding the repeal of the Public Utilities Act (Cap. 261, 1996 Ed.), as from 1st April 2001, sections 62 to 65 of that Act shall continue in force and to apply to the successor companies mentioned in those sections as if that Act has not been repealed.
+
+(7) All acts done by or on behalf of the Director of Sewerage and Drainage before 1st April 2001 under the Sewerage and Drainage Act (Cap. 294) in force before that date shall continue to remain valid and applicable as though done by the Board under that Act, until such time as invalidated, revoked, cancelled or otherwise determined by the Board.
+
+(8) Where anything has been commenced by or on behalf of the Director of Sewerage and Drainage before 1st April 2001, such thing may be carried on and completed by or under the authority of the Board.
+
+(9) Any notice, order, decision, direction, certificate or approval made or granted by the Director of Sewerage and Drainage before 1st April 2001 under the Sewerage and Drainage Act in force before that date shall continue and be deemed to have been made or granted by the Board under that Act, until such time as invalidated, revoked, cancelled or otherwise determined by the Board.
+
+(10) The Minister charged with the responsibility for the environment may make regulations to provide for any other transitional, incidental and consequential matters arising from the repeal of the Public Utilities Act.
 
 ### References in other written law
 
 74\. In any written law —
 
-(a) a reference to the repealed Public Utilities Act (Cap. 261) shall be read as a reference to this Act;
+(a) a reference to the repealed Public Utilities Act (Cap. 261, 1996 Ed.) shall be read as a reference to this Act;
 
 (b) a reference to the Director of Sewerage and Drainage, the Sewerage Department or the Drainage Department shall be read as a reference to the Board.
-
-### Consequential amendments to Sewerage and Drainage Act
-
-75\. The Sewerage and Drainage Act (Cap. 293A) is amended in the manner set out in the Fourth Schedule.
 
 FIRST SCHEDULE
 
@@ -1192,7 +1182,7 @@ Vacation of office
 
 (a) on his death;
 
-(b) if he, without sufficient cause (the sufficiency thereof to be decided by the Board) fails to attend 3 consecutive meetings of the Board;
+(b) if he fails to attend 3 consecutive meetings of the Board without sufficient cause (the sufficiency thereof to be decided by the Board);
 
 (c) if he becomes in any manner disqualified for membership of the Board;
 
@@ -1380,145 +1370,91 @@ Presentation to Parliament
 
 13\. The Minister shall as soon as practicable cause a copy of the audited financial statements and of the auditor’s report to be presented to Parliament.
 
-FOURTH SCHEDULE
+## LEGISLATIVE HISTORY
 
-Section 75
+Public Utilities Act
 
-Consequential Amendments to Sewerage and Drainage Act
+(CHAPTER 261)
 
-The Sewerage and Drainage Act (Cap. 293A) is amended —
+This Legislative History is provided for the convenience of users of the Public Utilities Act. It is not part of this Act.
 
-(a) by deleting the definition of “authorised officer” in section 2 and substituting the following definitions:
+||||
+|:-|:-|:-|
+|1.|**Act 26 of 1995—Public Utilities Act 1995**|
+||Date of First Reading|25 May 1995|
+|||(Bill No. 20/1995 published on 4 August 1995)|
+||Date of Second and Third Readings|7 July 1995|
+||Date of commencement|1 October 1995|
+|2.|**1996 Revised Edition—Public Utilities Act**|
+||Date of operation|30 April 1996|
+|3.|**Act 8 of 2001—Public Utilities Act 2001**|
+||Date of First Reading|22 February 2001|
+|||(Bill No. 7/2001 published on 23 February 2001)|
+||Date of Second and Third Readings|16 March 2001|
+||Date of commencement|1 April 2001|
+|4.|**Act 5 of 2002—Statutory Corporations (Capital Contribution) Act 2002**|
+||(Consequential amendments made by)||
+||Date of First Reading|3 May 2002|
+|||(Bill No. 7/2002 published on 4 May 2002)|
+||Date of Second and Third Readings|24 May 2002|
+||Date of commencement|15 July 2002|
+|5.|**2002 Revised Edition—Public Utilities Act**|
+||Date of operation|31 July 2002|
+## COMPARATIVE TABLE
 
-“
+Public Utilities Act
 
-“authorised officer” means any person appointed as an authorised officer under section 3(2);
+(CHAPTER 261)
 
-“Board” means the Public Utilities Board reconstituted under section 3 of the Public Utilities Act 2001;
+The following provisions in the Public Utilities Act 2001 (Act 8 of 2001) have been renumbered by the Law Revision Commissioners in this 2002 Revised Edition.
 
-”;
+This Comparative Table is provided for the convenience of users. It is not part of the Public Utilities Act.
 
-(b) by deleting the definition of “Director” in section 2;
+2002 Ed\. 
 
-(c) by deleting paragraphs (c) and (d) of the definition of “public sewerage system” in section 2 and substituting the following paragraphs:
+Act 8 of 2001 
 
-“
+Omitted
 
-(c) sewerage systems constructed by the Government or the Board on behalf of the Government on any private property at the expense of the Government or acquired by the Government;
+73 —(1)
 
-(d) sewerage systems constructed on any private property and maintained by the Board;
+73 —(1)
 
-”;
+(2)
 
-(d) by deleting paragraphs (c) and (d) of the definition of “public sewers” in section 2 and substituting the following paragraphs:
+(2)
 
-“
+(3)
 
-(c) sewers constructed by the Government or the Board on behalf of the Government on any private property at the expense of the Government or acquired by the Government;
+(3)
 
-(d) sewers constructed on any private property and maintained by the Board;
+(4)
 
-”;
+(4)
 
-(e) by repealing sections 3 and 4 and substituting the following section:
+(5)
 
-“
+(5)
 
-Administration of Act
+(6)
 
-3.—(1) The Board shall be responsible for the administration of this Act subject to the general and special directions of the Minister.
+(6)
 
-(2) The Board may in writing appoint any public officer or any officer of the Board or of any other statutory authority to be an authorised officer for the purposes of this Act.
+(7)
 
-(3) The functions, duties and powers which are imposed or conferred upon the Board under this Act may be performed or exercised by any authorised officer subject to the direction and control of the Board.
+(7)
 
-(4) Every authorised officer shall be deemed to be a public servant within the meaning of the Penal Code (Cap. 224).
+(8)
 
-”;
+(8)
 
-(f) by deleting the word “Director” wherever it appears in the following provisions and substituting in each case the word “Board”:
+(9)
 
-Sections 5(1), (4), (5) (1st and penultimate lines) and (6) (1st and penultimate lines), 6, 7 (1) (1st line), (2) (1st line) and (3), 8 (1) and (2) and section heading, 9 (1) (5th line), (2) (1st line), (3) and (8), 10 (1), (2), (3), (4), (5), (6) (2nd and last lines) and (7) (penultimate line), 11 (2) (1st and last lines) and (3) (1st line), 12 (1) and (2) (3rd line), 13 (1) (1st, 4th and 7th lines) and (2), 15 (1) (last line) and (2) (2nd line), 16 (1) (1st and last lines) and (2), 17 (1) (penultimate line) and (5) (penultimate line), 18 (1) (1st line), (3), (6) and (7), 19 (1) (2nd line), 20 (3) (2nd line), 21 (2), 22 (1) and section heading, 23 (1), (2), (3), (4), (5), (6) (2nd and last lines) and (7) (3rd line), 24 (1) and (2) (3rd line), 25 (1) (last line) and (2) (2nd line), 26, 27 (1) (4th line) and (2) (2nd and penultimate lines), 28 (1) (1st and last lines), (2), (3) (2nd line) and (4) (2nd and penultimate lines), 29 (1) (1st and 2nd lines) and (2), 30 (1), (2) (1st line), (3) and (8), 31 (2), 32 (1), (2), (3) and (4), 33 (1) (1st line), (2) (2nd line) and (3) (1st and 2nd lines), 34 (1) (2nd and penultimate lines), (3) (2nd, penultimate and last lines), (4) (1st and penultimate lines), (5) (2nd line), (6) (1st line), (7) (2nd and last lines), (8), (9) (2nd and penultimate lines) and (10) (1st line), 36 (1)(a) (last line), (b), (d), (e) and (f) (penultimate and last lines), (4) (2nd and 5th lines) and (5) (penultimate line), 37 (1), (3), (4) (1st and last lines) and (5), 38 (1) (3rd line), (3) (1st and 2nd lines) and (4), 40 (4) and section heading, 41 (1) (1st and 2nd lines), 42 (2) and (3) (2nd line), 43 (3) (penultimate line), (4) and (5) (1st line), 44 (1st line and section heading), 46 (2) and (3), 47 (section heading), 48 (1) (2nd line) and (3) (4th line), 49 (2)(c), 50 (1) (penultimate line), 51 (4) (3rd line), (5) and (8) (2nd line), 52 (1) (1st and 4th lines), 53 (1) (1st line), (1)(a) (1st line) and (b) (1st and 6th lines), (2) (1st and penultimate lines), (6) (4th and 5th lines), (7) and (8) (2nd line), 54 (1), 55 (2), 56 (1) (penultimate line), (2) and section heading, 58 (2nd and penultimate lines), 59 (2), 60 (2) (3rd line), 62 (1) (2nd, penultimate and last lines), 64 (b), 65 (1) (2nd and 3rd lines) and (2), 71 (1) (1st line) and (3) and 72 (1) (penultimate line), (2) (2nd line) and (4) (1st and last lines);
+(9)
 
-(g) by deleting the word “he” wherever it appears in the following provisions and substituting in each case the word “it”:
+(10)
 
-Sections 5(1)(c), 7 (1) (2nd and last lines) and (3), 8 (1), 10 (2) and (6) (3rd and penultimate lines), 13 (1) (2nd line), 16 (2), 23 (2) and (6) (3rd and penultimate lines), 26, 29 (1) and (2), 32 (3) and (4), 34 (5)(a) and (b), (6) (penultimate line), (7) (2nd line), (9) (penultimate and last lines) and (10) (3rd line), 37 (3), 43 (4) and (5) (1st line), 44 (2nd line), 46 (3), 52 (1)(b), 53 (1)(b) (penultimate line), 65 (2) and 74;
+(10)
 
-(h) by deleting the words “Director or any authorised officer” wherever they appear in the following provisions and substituting in each case the word “Board”:
-
-Sections 5(2) and (3) and 22 (2) and (4);
-
-(i) by deleting the word “Government” in the 3rd line of section 5(7) and substituting the word “Board”;
-
-(j) by deleting the word “his” wherever it appears in the following provisions and substituting in each case the word “its”:
-
-Sections 10(2), 23 (2), 34 (5)(b), (6) (2nd line) and (7) (1st line), 38 (4), 44 (penultimate line), 46 (3), 47 (section heading), 53 (1)(b) (2nd line) and 71 (1) (1st line);
-
-(k) by deleting the words “the Director or” in the following provisions:
-
-Sections 11(3) (4th and 5th lines), 18 (5) (3rd line), 39 (2) (4th line), 42 (1)(b) and 45 (2) (2nd line);
-
-(l) by deleting the word “Director’s” wherever it appears in the section heading of the following provisions and substituting in each case the word “Board’s”:
-
-Sections 12, 15, 17 and 24;
-
-(m) by deleting the words “The Director or any” in the following provisions and substituting in each case the word “Any”:
-
-Sections 14(1), 22 (3), 39 (1) (1st line), 40 (1) and 45 (1) (1st line);
-
-(n) by deleting the words “Director or any” in section 14(2);
-
-(o) by deleting the words “Public Utilities” in section 32(6);
-
-(p) by deleting the word “him” in sections 33(3), 37 (1) and 75 (1) (2nd line) and substituting in each case the word “it”;
-
-(q) by deleting the words “Director or” in the 4th line of section 39(1);
-
-(r) by deleting the word “him” in the 5th line of section 41(1) and substituting the words “the Board or officer”;
-
-(s) by deleting the words “the Director and” in the 3rd and 4th lines of section 45(4);
-
-(t) by deleting the words “The Director and any” in the 1st line of section 46(1) and substituting the word “Any”;
-
-(u) by deleting paragraph (a) of section 47 and substituting the following paragraph:
-
-“
-
-(a) hinders or obstructs the Board or any authorised officer in the performance or execution of its or his duty or of any thing which it or he is empowered or required to do under this Act; or
-
-”;
-
-(v) by deleting the word “Government” in the following provisions and substituting in each case the word “Board”:
-
-Sections 51(1) (3rd and 6th lines) and 60 (1) (3rd line);
-
-(w) by deleting the words “any public officer duly authorised in writing by the Director in that behalf” in section 53(5) and substituting the words “any authorised officer”;
-
-(x) by deleting the words “Consolidated Fund” in section 55(3) and substituting the words “funds of the Board”;
-
-(y) by deleting subsection (2) of section 62;
-
-(z) by deleting the words “The Director may, by instrument in writing under his hand, appoint persons who in his opinion” in section 67(1) and substituting the words “The Board may appoint persons who in its opinion”;
-
-(za) by inserting, immediately after the word “Government” in the 1st line of section 72(1), the words “, the Board”;
-
-(zb) by deleting the word “him” in the last line of section 72(2) and substituting the words “the Board”;
-
-(zc) by deleting the words “by the Director or” in the 1st line of section 72(3);
-
-(zd) by deleting the words “or such person” in the penultimate line of section 72(3);
-
-(ze) by deleting the words “Government, the Director” in the 3rd line of section 72(4) and substituting the word “Board”;
-
-(zf) by inserting, immediately after subsection (3) of section 73, the following subsection:
-
-“
-
-(4) All fees, charges and composition fines collected under this Act shall be paid into the funds of the Board.
-
-”; and
-
-(zg) by deleting the words “Minister may” wherever they appear in the following provisions and substituting in each case the words “Board may, with the approval of the Minister,”:
-
-Sections 73(1), 74 and 75 (1).
+(11)
 
