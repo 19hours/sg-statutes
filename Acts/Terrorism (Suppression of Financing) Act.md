@@ -130,9 +130,9 @@ President.
 
 17th July 2002.
 
-Date of Commencement: 30th September 2002 Section 39
+Date of Commencement: 30th September 2002 Section 39 shall come into operation on .
 
-Date of Commencement: 29th January 2003 Section 2 to 38
+Date of Commencement: 29th January 2003 Section 2 to 38 shall come into operation on .
 
 An Act to suppress the financing of terrorism, to give effect to the International Convention for the Suppression of the Financing of Terrorism and for matters connected therewith, and to make a related amendment to the Monetary Authority of Singapore Act (Chapter 186 of the 1999 Revised Edition).
 
