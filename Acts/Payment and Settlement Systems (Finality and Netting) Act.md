@@ -50,7 +50,7 @@
 
 - [18 Jurisdiction of District Court](#Jurisdiction-of-District-Court)
 
-- [19 Immunity of Authority and its employees, etc.](#Immunity-of-Authority-and-its-employees-etc)
+- [19 (Repealed)](#Repealed)
 
 - [20 Power to make regulations](#Power-to-make-regulations)
 
@@ -136,7 +136,7 @@ PRELIMINARY
 
 (2) A reference in this Act to the law of insolvency shall be construed as a reference to —
 
-(a) the Bankruptcy Act (Cap.20);
+(a) the Bankruptcy Act (Cap. 20);
 
 (b) Parts VIIIA, IX and X of the Companies Act (Cap. 50); and
 
@@ -170,7 +170,7 @@ PRELIMINARY
 
 (2) Subject to subsection (3), the Authority shall not revoke a designation without giving the operator of the designated system an opportunity to be heard.
 
-(3) The Authority may revoke a designation on any of the grounds described in subsection (1) (a) (iii), (iv) or (v) without giving the operator of the designated system an opportunity to be heard.
+(3) The Authority may revoke a designation on any of the grounds described in subsection (1)(a)(iii), (iv) or (v) without giving the operator of the designated system an opportunity to be heard.
 
 (4) A revocation of a designation shall not operate so as to avoid or affect any transaction cleared or settled in the designated system prior to the revocation or preclude the application, in accordance with section 5, of this Act to any such transaction.
 
@@ -368,21 +368,7 @@ in so far as the making of the order or doing of the act would be prohibited und
 
 [9/2003]
 
-### Immunity of Authority and its employees, etc.
-
-19\. No suit or other legal proceedings shall lie against the Authority or any officer or employee of the Authority or any person acting under the direction of the Authority —
-
-(a) for any act done in good faith —
-
-(i) in the performance, or intended performance, of any function or duty; or
-
-(ii) in the exercise, or intended exercise, of any power,
-
-in the capacity of the Authority as the designating authority under this Act; or
-
-(b) for any neglect or default in the performance or exercise in good faith of such function, duty or power.
-
-[17
+19\. [Repealed by Act 24/2003 wef 01/01/2004]
 
 ### Power to make regulations
 
@@ -437,6 +423,12 @@ This Legislative History is provided for the convenience of users of the Payment
 ||Date of commencement|16 May 2003|
 |3.|**2003 Revised Edition—Payment and Settlement Systems (Finality and Netting) Act**|
 ||Date of operation|31 July 2003|
+|4.|**Act 24 of 2003—Monetary Authority of Singapore (Amendment) Act 2003**|
+||(Related and consequential amendments made to Act by)||
+||Date of First Reading|16 October 2003|
+|||(Bill No. 21/2003 published on 17 October 2003)|
+||Date of Second and Third Readings|10 November 2003|
+||Date of commencement|1 January 2004|
 ## COMPARATIVE TABLE
 
 Payment and Settlement Systems (Finality and Netting) Act
