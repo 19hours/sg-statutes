@@ -1,12 +1,10 @@
-**Gas Act 2001**
+**Gas Act**
 
-**(No. 11 of 2001)**
+**(CHAPTER 116A)**
 
 **Table of Contents**
 
 [**Long Title**](#Gas-Act)
-
-[**Enacting Formula**](#Enacting-Formula)
 
 [**Part I PRELIMINARY**](#Part-I)
 
@@ -234,39 +232,27 @@
 
 - [101 Power to make regulations and issue directions, etc.](#Power-to-make-regulations-and-issue-directions-etc)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Gas Act
 
-ACTS SUPPLEMENT
+(CHAPTER 116A)
 
-Published by Authority
+(Original Enactment: Act 11 of 2001)
 
-NO. 16]
+REVISED EDITION 2002
 
-Thursday, April 12
-
-[2001
-
-The following Act was passed by Parliament on 16th March 2001 and assented to by the President on 26th March 2001:—
-
-Gas Act 2001
-
-(No. 11 of 2001)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-26th March 2001.
-
-Date of Commencement: 12th April 2001
+(31st July 2002)
 
 An Act to create a competitive market framework for the gas industry, to make provision for the safety, technical and economic regulation of the transportation and retail of gas, and for other matters connected therewith, and to make consequential amendments to certain written laws.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[23rd July 2003: Section 1 and Part XII — come into operation on ;
+
+19th December 2003: Sections 2, 3(1), (2), (3)(e) and (h), (4) and (5), 4, 5, Parts IX, X, sections 87 to 91 and 95 — come into operation on ;
+
+11th June 2007: Sections 3(3)(a), (b), (c), (d), (f) and (g) and (6), 8, 9, 10, 14 to 18, 21, 24, 27, 28, 30, 31, 36, 38, 40 to 44, 47, 48, 53, 54, 58, 59, 60, 61, 64 to 68, 86, 92, 96 and 97 — come into operation on ;
+
+14th February 2008: Sections 12, 13, 37, 45 and 46 — come into operation on ]
 
 ## PART I
 
@@ -274,11 +260,13 @@ PRELIMINARY
 
 ### Short title and commencement
 
-1\. This Act may be cited as the Gas Act 2001 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Gas Act and shall come into operation on such date as the Minister may, by notification in theGazette, appoint\*.
+
+\*Please refer to various commencement dates as indicated above.
 
 ### Interpretation
 
-2\.—(1) In this Act, unless the context otherwise requires —
+2\. In this Act, unless the context otherwise requires —
 
 “Appeal Panel” means a panel established by the Minister under section 83;
 
@@ -290,7 +278,7 @@ PRELIMINARY
 
 “authorised officer” means any person authorised by the Authority under section 3(2);
 
-“Authority” means the Energy Market Authority of Singapore established under the Energy Market Authority of Singapore Act 2001;
+“Authority” means the Energy Market Authority of Singapore established under the Energy Market Authority of Singapore Act (Cap. 92B);
 
 “check meter” means any subsidiary device used to verify the readings taken by a meter;
 
@@ -306,7 +294,7 @@ PRELIMINARY
 
 “direct access customer” means a person who has an arrangement with —
 
-(a) a gas transporter for the conveyance of gas to his premises through the gas pipeline network of that gas transporter; or
+(a) a gas transporter for the conveyance of gas to his premises through the gas pipeline network of that gas transporter ; or
 
 (b) a person other than a gas transporter for the shipping of gas to his premises and has the benefit, under the arrangement, of identifiable rights for the conveyance of gas to his premises through the gas pipeline network to which his premises are connected;
 
@@ -342,7 +330,7 @@ PRELIMINARY
 
 “gas service isolation valve” means a valve, located at or near the boundary line of any property or the apron of any building, used by a gas transporter to isolate the supply of gas to that property or building;
 
-“gas service pipe” means a pipe or any part thereof, other than a gas main, used for the purpose of conveying gas from a gas main to a gas service isolation valve, and includes any pipe owned by a gas transporter which is used for the purpose of conveying gas from the gas service isolation valve to the meter at a consumer’s premises;
+“gas service pipe” means a pipe or any part thereof, other than a gas main, used for the purpose of conveying gas from a gas main to a gas service isolation valve, and includes any pipe owned bya gas transporter which is used for the purpose of conveying gas from the gas service isolation valve to the meter at a consumer’s premises;
 
 “gas service work” means any work carried out on any gas installation or gas appliance, in whole or in part, including any design, construction, installation, commissioning, erection, testing, repair, addition, alteration or maintenance work;
 
@@ -398,7 +386,7 @@ PRELIMINARY
 
 “supply”, in relation to gas, means the physical delivery of gas to a consumer’s premises;
 
-“town gas” means any substance in a gaseous state which is conveyed in gas pipes and is manufactured from petrochemical feedstock, and has hydrogen as one of its main constituents.
+“town gas” means any substance in a gaseous state which is conveyed in gas pipes and is manufactured from petrochemical feedstock , and has hydrogen as one of its main constituents.
 
 ## PART II
 
@@ -458,13 +446,15 @@ ADMINISTRATION
 
 shall be guilty of an offence.
 
-(4) If any person fails to comply with a notice under subsection (1), the court may, on the application of the Authority, make such order as the court thinks fit to secure compliance with such notice and any such order may provide that all the costs and expenses of and incidental to the application shall be borne by such person or by any officer of a company or other association who is responsible for the failure.
+(4) If any person fails to comply with a notice under subsection (1), the court may, on the application of the Authority, make such order as the court thinks fit to secure compliance with such notice.
 
-(5) The Authority through an authorised officer may, at any time after the expiry of the period specified in the notice referred to in subsection (1), enter any building or place where the Authority has reason to believe that any information or document in respect of which it has given the notice may be found, and seize or take extracts or copies of any such information or document.
+(5) Any order referred to in subsection (4) may provide that all the costs and expenses of and incidental to the application shall be borne by such person or by any officer of a company or other association who is responsible for the failure.
 
-(6) Except in the performance of his functions or duties or when required to do so by any court or under any written law, no person who is or has been a member, an officer, an employee or an agent of the Authority or a member of a committee of the Authority shall disclose any information relating to the affairs of the Authority or of any other person which has been obtained by him in the performance of his functions or duties.
+(6) The Authority through an authorised officer may, at any time after the expiry of the period specified in the notice referred to in subsection (1), enter any building or place where the Authority has reason to believe that any information or document in respect of which it has given the notice may be found, and seize or take extracts or copies of any such information or document.
 
-(7) Any person who contravenes subsection (6) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
+(7) Except in the performance of his functions or duties or when required to do so by any court or under any written law, no person who is or has been a member, an officer, an employee or an agent of the Authority or a member of a committee of the Authority shall disclose any information relating to the affairs of the Authority or of any other person which has been obtained by him in the performance of his functions or duties.
+
+(8) Any person who contravenes subsection (7) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 ### Restriction on disclosure of confidential information
 
@@ -492,7 +482,7 @@ stating that the Authority wishes to disclose the information or contents of the
 
 (c) no appeal is made to the Minister under subsection (3) within 7 days of the date of the giving of the notice.
 
-(3) If a person wishes to appeal to the Minister in respect of a notice given by the Authority under subsection (2)(b), such appeal shall be lodged with the Minister within 7 days of the date of the giving of the notice and the Minister’s decision shall be final.
+(3) If a person wishes to appeal to the Minister in respect of a notice given by the Authority under subsection (2)(b), such appeal shall be lodged with the Minister within 7 days of the date of the giving of the notice and the decision of the Minister shall be final.
 
 (4) Subsection (2) shall not prevent the Authority —
 
@@ -584,13 +574,13 @@ unless he is authorised to do so by a gas transporter’s licence or gas retaile
 
 (a) a person who is the holder of a gas retailer’s licence; or
 
-(b) any other person, if the grant of such licence may, in the opinion of the Authority, give rise to a conflict of interest in the discharge of any duty imposed on such person under this Act, the Electricity Act 2001 or any licence issued to him under this section.
+(b) any other person, if the grant of such licence may, in the opinion of the Authority, give rise to a conflict of interest in the discharge of any duty imposed on such person under this Act, the Electricity Act (Cap. 89A) or any licence issued to him under this section.
 
 (6) A gas retailer’s licence shall not be granted to —
 
 (a) a person who is the holder of a gas transporter’s licence; or
 
-(b) any other person, if the grant of such licence may, in the opinion of the Authority, give rise to a conflict of interest in the discharge of any duty imposed on such person under this Act, the Electricity Act 2001 or any licence issued to him under this section.
+(b) any other person, if the grant of such licence may, in the opinion of the Authority, give rise to a conflict of interest in the discharge of any duty imposed on such person under this Act, the Electricity Act or any licence issued to him under this section.
 
 (7) Every licence granted or extended under this Part shall continue in force, unless it is revoked or suspended, for such period as may be specified in the licence.
 
@@ -720,7 +710,7 @@ unless he holds a valid gas service worker licence in respect of the specific cl
 
 (5) The Authority may license gas service workers under different classes for different types of gas service work.
 
-(6) Any person holding a gas service worker licence granted under section 100 of the Public Utilities Act (Cap. 261) in force immediately before the appointed day shall, unless the Authority directs otherwise, be deemed to be a licensed gas service worker under this Act.
+(6) Any person holding a gas service worker licence granted under section 100 of the Public Utilities Act (Cap. 261, 1996 Ed.) in force immediately before the appointed day shall, unless the Authority directs otherwise, be deemed to be a licensed gas service worker under this Act.
 
 ### Engagement of unlicensed gas service worker prohibited
 
@@ -896,7 +886,7 @@ the gas transporter may refuse to make or maintain the connection until such tim
 
 (5) No compensation shall be payable by a gas transporter under subsection (3) in respect of any tree or vegetation within 20 metres of the centre line of any road constructed or maintained by the Government or by any public authority unless it is proved that the tree or vegetation was in existence prior to the construction of the road.
 
-(6) Where the owner or occupier of any land fells, lops or clears any tree or vegetation adjacent to a gas transporter’s gas pipeline or gas pipeline network or gas plant, the owner or occupier shall give the gas transporter 14 days’ notice in writing of his intention to do so and shall take such reasonable precautions as the gas transporter may require for the protection of such pipeline, pipeline network or plant.
+(6) Where the owner or occupier of any land fells, lops or clears any tree or vegetation adjacent to a gas transporter’s gas pipeline or gas pipeline network or gas plant, the owner or occupier shall give the gas transporter 14 days notice in writing of his intention to do so and shall take such reasonable precautions as the gas transporter may require for the protection of such pipeline, pipeline network or plant.
 
 (7) If any such owner or occupier fails to give notice under subsection (6), or having given notice fails to take any such reasonable precautions as the gas transporter may have required, he shall be liable to pay the gas transporter the reasonable cost and expense incurred by the gas transporter for any damage caused to any such gas pipeline or gas pipeline network, pipe or plant, subject to the Authority’s approval in the case of any dispute.
 
@@ -928,7 +918,7 @@ and shall pay to any person who has suffered damage or loss of value to his prop
 
 (4) A gas transporter shall not acquire any right other than that of a user only in respect of any land or premises in, on, over, under, upon, along or across which the gas transporter places any gas pipeline, gas pipeline network or gas plant under this section.
 
-(5) Except in the case of an emergency arising from any fault in any gas main, gas service pipe or gas plant, no works referred to in subsection (1) shall be executed without the giving of 14 days’ notice to the owner or occupier of the land stating as fully and accurately as possible the nature and extent of the acts intended to be done.
+(5) Except in the case of an emergency arising from any fault in any gas main, gas service pipe or gas plant, no works referred to in subsection (1) shall be executed without the giving of 14 days notice to the owner or occupier of the land stating as fully and accurately as possible the nature and extent of the acts intended to be done.
 
 (6) The owner or occupier of the land may, within 14 days of the receipt of the notice referred to in subsection (5), lodge a written objection with the Authority and the Authority shall specify a date to inquire into any such objection.
 
@@ -1024,7 +1014,7 @@ and shall pay to any person who has suffered damage or loss of value to his prop
 
 (b) the survival of the gas transporter or the whole or part of its licensed gas business, as a going concern;
 
-(c) the transfer to another company, or (as respects different parts of the area to which the gas transporter’s licence relates, or different parts of its licensed gas business) to 2 or more different companies, as a going concern, of so much of the gas transporter’s licensed gas business as is necessary to transfer in order to ensure that the functions and duties which have been vested in the gas transporter by virtue of its licence may be properly carried out; or
+(c) the transfer to another company, or (with respect to different parts of the area to which the gas transporter’s licence relates, or different parts of its licensed gas business) to 2 or more different companies, as a going concern, of so much of the gas transporter’s licensed gas business as is necessary to transfer in order to ensure that the functions and duties which have been vested in the gas transporter by virtue of its licence may be properly carried out; or
 
 (d) the carrying out of the functions and duties which have been vested in the gas transporter pending the making of the transfer and the vesting of those functions and duties in the other company or companies.
 
@@ -1062,9 +1052,9 @@ and shall pay to any person who has suffered damage or loss of value to his prop
 
 (b) no judicial management order under Part VIIIA of the Companies Act shall be made in relation to a gas transporter;
 
-(c) no step shall be taken by any person to enforce any security over a gas transporter’s property except where that person has served 14 days’ notice of his intention to take that step on the Authority; and
+(c) no step shall be taken by any person to enforce any security over a gas transporter’s property except where that person has served 14 days notice of his intention to take that step on the Authority; and
 
-(d) no step shall be taken by any person to execute or enforce a judgment or order of court obtained against a gas transporter, except where that person has served 14 days’ notice of his intention to take that step on the Authority.
+(d) no step shall be taken by any person to execute or enforce a judgment or order of court obtained against a gas transporter, except where that person has served 14 days notice of his intention to take that step on the Authority.
 
 (7) The Authority shall be a party to any proceedings under the Companies Act relating to the winding up of the affairs of a gas transporter.
 
@@ -1100,7 +1090,7 @@ GAS RETAILERS AND GENERAL PROVISIONS
 
 38\.—(1) Subject to subsection (7), an owner of a relevant facility shall provide access to the relevant facility without undue discrimination.
 
-(2) If a person is unable to negotiate access to a relevant facility, he may, after giving the owner of the facility not less than 28 days’ notice, apply to the Authority for directions under this section in order to secure rights of access to that facility.
+(2) If a person is unable to negotiate access to a relevant facility, he may, after giving the owner of the facility not less than 28 days notice, apply to the Authority for directions under this section in order to secure rights of access to that facility.
 
 (3) Where an application is made under subsection (2), it shall be the duty of the Authority —
 
@@ -1140,7 +1130,7 @@ GAS RETAILERS AND GENERAL PROVISIONS
 
 (8) Any person who fails to comply with a direction of the Authority under this section shall be guilty of an offence.
 
-(9) For the purposes of this section —
+(9) In this section —
 
 “appropriate proportion” means a proportion which properly —
 
@@ -1254,7 +1244,7 @@ subsections (3) and (4) shall apply.
 
 subsection (3) shall apply.
 
-(3) If the gas retailer is a relevant gas retailer, it may, after giving not less than 7 days’ notice of its intention —
+(3) If the gas retailer is a relevant gas retailer, it may, after giving not less than 7 days notice of its intention —
 
 (a) discontinue the supply to the consumer’s premises or any other premises occupied by the consumer; and
 
@@ -1262,7 +1252,7 @@ subsection (3) shall apply.
 
 (4) If —
 
-(a) the gas retailer is not a relevant gas retailer but another gas retailer (the “new gas retailer”) is such a gas retailer; and
+(a) the gas retailer is not a relevant gas retailer but another gas retailer (the new gas retailer) is such a gas retailer; and
 
 (b) the gas retailer has assigned to the new gas retailer its right to recover any of the charges due to it from the consumer,
 
@@ -1438,11 +1428,11 @@ any person authorised by the gas transporter may immediately and without notice 
 
 (b) a person entering into occupation of any premises previously supplied with gas through a meter or other gas fitting so owned does not take a supply of gas through that meter or gas fitting.
 
-(2) Subject to section 60, any person authorised by the gas transporter or gas retailer may, after 7 days’ notice to the occupier of any premises, or to the owner of the premises if they are unoccupied, enter the premises for the purpose of removing the meter or other gas fitting.
+(2) Subject to section 60, any person authorised by the gas transporter or gas retailer may, after 7 days notice to the occupier of any premises, or to the owner of the premises if they are unoccupied, enter the premises for the purpose of removing the meter or other gas fitting.
 
 ### Entry for replacing, repairing or altering pipes
 
-58\.—(1) Subject to section 60, any person authorised by a gas transporter may, after 7 days’ notice to the occupier of any premises, or to the owner of the premises if they are unoccupied, enter the premises for the purpose of —
+58\.—(1) Subject to section 60, any person authorised by a gas transporter may, after 7 days notice to the occupier of any premises, or to the owner of the premises if they are unoccupied, enter the premises for the purpose of —
 
 (a) placing a new gas plant in the place of any existing gas plant which has already been lawfully placed; or
 
@@ -1452,13 +1442,13 @@ any person authorised by the gas transporter may immediately and without notice 
 
 ### Entry into premises by gas transporter for purposes of inspection
 
-59\. Subject to section 60, a person authorised by a gas transporter may, after 7 days’ notice to the occupier of any premises, or to the owner of the premises if they are unoccupied, enter upon and survey the premises for the purpose of ascertaining whether the premises would be suitable for use for any purpose connected with the carrying on of the activities which the gas transporter is authorised by its gas transporter’s licence to carry on.
+59\. Subject to section 60, a person authorised by a gas transporter may, after 7 days notice to the occupier of any premises, or to the owner of the premises if they are unoccupied, enter upon and survey the premises for the purpose of ascertaining whether the premises would be suitable for use for any purpose connected with the carrying on of the activities which the gas transporter is authorised by its gas transporter’s licence to carry on.
 
 ### Procedure for rights of entry on land
 
 60\.—(1) Except as otherwise provided in this Act and subject to the provisions of this section, a gas transporter or gas retailer authorised to enter upon any land or premises under this Act shall not do so unless —
 
-(a) it has given the required notice in accordance with this Act, or where no particular requirement is made, 14 days’ notice of the intended entry, such notice be in accordance with subsection (3) and stating as fully and accurately as possible the acts intended to be done; and
+(a) it has given the required notice in accordance with this Act, or where no particular requirement is made, 14 days notice of the intended entry, such notice be in accordance with subsection (3) and stating as fully and accurately as possible the acts intended to be done; and
 
 (b) it, or any person authorised by it, has produced a duly authenticated document as evidence of its authority.
 
@@ -1492,7 +1482,7 @@ any person authorised by the gas transporter may immediately and without notice 
 
 (a) the person so authorised or the licensed gas service worker shall ensure that the premises are left no less secure by reason of the entry; and
 
-(b) the gas transporter, gas retailer or licensed gas service worker, as the case may be, shall make good, or pay compensation in accordance with section 60, for any damage caused by such person, or by any person accompanying him in entering the premises, in taking any action therein authorised by this Part or the regulations, or in making the premises secure.
+(b) the gas transporter, gas retailer or licensed gas service worker, as the case may be, shall make good, or pay compensation in accordance with section 60(5), for any damage caused by such person, or by any person accompanying him in entering the premises, in taking any action therein authorised by this Part or the regulations, or in making the premises secure.
 
 (3) Any person authorised by a gas transporter or a gas retailer or any licensed gas service worker exercising the powers of entry conferred by this Part or the regulations may be accompanied by such persons as may be necessary or expedient for the purpose for which the entry is made, or for the purposes of subsection (2).
 
@@ -1510,7 +1500,7 @@ CODES OF PRACTICE
 
 ### Codes of practice
 
-62\.—(1) Each gas licensee shall produce and comply with all codes of practice which are required to be made and complied with pursuant to its gas licence.
+62\.—(1) Each gas licensee shall produce and comply with all codes of practice which are required to be made and complied with under its gas licence.
 
 (2) Any person who undertakes any gas service work or other work on a gas pipeline or gas pipeline network belonging to a gas transporter, and any other person designated by the Authority for the purposes of this section, shall, prior to carrying out such work, produce and comply with a code of practice approved by the Authority, setting out its methodology for complying with the regulations which relate to safety.
 
@@ -1576,7 +1566,7 @@ he shall be guilty of an offence and shall be liable on conviction to a fine not
 
 (4) In any proceedings for an offence under subsection (2)(b), it shall be a defence for the gas transporter to prove that it took all such steps to avert danger to life or property as were reasonably practicable.
 
-(5) It shall be the duty of any gas transporter or gas retailer to take all steps necessary to ensure that, if it is informed by any person (“the informant”) of an escape of gas (other than one, in the case of a gas transporter, that it is required by subsection (1) to prevent), it passes the information on, without avoidable delay —
+(5) It shall be the duty of any gas transporter or gas retailer to take all steps necessary to ensure that, if it is informed by any person (the informant) of an escape of gas (other than one, in the case of a gas transporter, that it is required by subsection (1) to prevent), it passes the information on, without avoidable delay —
 
 (a) to a responsible person, that is to say, a person appearing to it —
 
@@ -1670,7 +1660,7 @@ COMPETITION
 
 (d) making the conclusion of contracts subject to acceptance by the other parties of supplementary obligations which, by their nature or according to commercial usage, have no connection with the subject of the contracts.
 
-(3) For the purposes of this section, “dominant position” means a dominant position within Singapore.
+(3) In this section, “dominant position” means a dominant position within Singapore.
 
 ### Exemption
 
@@ -1738,7 +1728,7 @@ COMPETITION
 
 (b) if the document is not produced, to require such person to state, to the best of his knowledge and belief, where it is.
 
-(5) For the purposes of subsection (1), “specified” means —
+(5) In subsection (1), “specified” means —
 
 (a) specified, or described, in the notice; or
 
@@ -1760,7 +1750,7 @@ COMPETITION
 
 (a) to enter the premises specified in the warrant, using such force as is reasonably necessary for the purpose;
 
-(b) to search the premises and take copies of, or extracts from, any document appearing to be of a kind in respect of which the application under subsection (1) was granted (“the relevant kind”);
+(b) to search the premises and take copies of, or extracts from, any document appearing to be of a kind in respect of which the application under subsection (1) was granted (the relevant kind);
 
 (c) to take possession of any document appearing to be of the relevant kind if —
 
@@ -1794,7 +1784,7 @@ COMPETITION
 
 (8) Any document of which possession is taken under subsection (2)(c) may be retained for a period of 3 months.
 
-(9) For the purposes of this section —
+(9) In this section —
 
 “named officer” means the officer named in the warrant;
 
@@ -1848,7 +1838,7 @@ which in proceedings in a court would be protected from disclosure on grounds of
 
 (5) Any person who is aggrieved by any decision or direction of the Authority under this Part may, within 14 days after receipt of the notice referred to in section 79, appeal to the Appeal Panel under Part X.
 
-(6) For the purposes of this section —
+(6) In this section —
 
 “associated person” has the same meaning as in section 76D(14) of the Companies Act (Cap. 50);
 
@@ -1922,7 +1912,7 @@ notify the Minister that he wishes to make an appeal, providing adequate details
 
 84\.—(1) An Appeal Panel shall consist of at least 3 persons, one of whom shall be appointed by the Minister to be the chairman of the Appeal Panel.
 
-(2) The Minister may, in the direction establishing the Appeal Panel under section 83(3), provide for —
+(2) The Minister may, in the direction establishing the Appeal Panel under section 83(3) , provide for —
 
 (a) the terms and conditions of the membership of the Appeal Panel as the Minister considers appropriate;
 
@@ -1954,7 +1944,7 @@ notify the Minister that he wishes to make an appeal, providing adequate details
 
 (7) All appeals under this section shall be determined, having regard to the nature and complexity of the appeal, as soon as reasonably practicable.
 
-(8) In the case of a modification of any condition of a gas licence, the Appeal Panel may either confirm the modification or direct the Authority not to make the modification, and the Appeal Panel’s decision shall be final.
+(8) In the case of a modification of any condition of a gas licence, the Appeal Panel may either confirm the modification or direct the Authority not to make the modification, and the decision of the Appeal Panel shall be final.
 
 (9) In the case of a direction or decision of the Authority under Part IX, the Appeal Panel may either confirm, vary or reverse the direction or decision of the Authority or direct the Authority to reconsider the direction or decision, and the Appeal Panel’s decision shall be final.
 
@@ -2000,7 +1990,7 @@ MISCELLANEOUS
 
 ### Jurisdiction of court
 
-88\. Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court and a Magistrate’s Court shall have jurisdiction to try any offence under this Act and to impose the full penalty or punishment in respect of any such offence.
+88\. Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court and a Magistrate’s Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of any offence under this Act.
 
 ### Offences by body corporate
 
@@ -2134,7 +2124,7 @@ may, except in relation to a decision made under section 27(12) or where provisi
 
 (iii) the prohibition of use, sale or hire of all gas appliances, equipment and materials.
 
-(3) The Authority may in making any regulations provide that any person who contravenes the regulations shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $250 for every day or part thereof during which the offence continues after conviction.
+(3) The Authority may, in making any regulations, provide that any person who contravenes the regulations shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $250 for every day or part thereof during which the offence continues after conviction.
 
 (4) All such regulations shall be presented to Parliament as soon as possible after publication in theGazette.
 
@@ -2150,13 +2140,13 @@ may, except in relation to a decision made under section 27(12) or where provisi
 
 (a) by deleting the words “public gas licensee” and substituting the words “gas licensee”; and
 
-(b) by deleting the words “Public Utilities Act” and substituting the words “Gas Act 2001”.
+(b) by deleting the words “Public Utilities Act” and substituting the words “Gas Act (Cap. 116A)”.
 
 (2) Section 2 of the Statutory Boards (Taxable Services) Act (Cap. 318) is amended by deleting the definition of “statutory board” and substituting the following definition:
 
 “
 
-“statutory board” includes a public telecommunication licensee referred to in the Telecommunication Act (Cap. 323), a gas licensee under the Gas Act 2001 and a market support services licensee under the Electricity Act 2001;
+“statutory board” includes a public telecommunication licensee referred to in the Telecommunications Act (Cap. 323), a gas licensee under the Gas Act (Cap, 116A) and a market support services licensee under the Electricity Act (Cap. 89A);
 
 ”.
 
@@ -2166,7 +2156,7 @@ TRANSITIONAL PROVISIONS
 
 ### Transfer of property, rights, obligations and liabilities for separation of gas transporting and retailing business
 
-98\.—(1) On such date as the Minister may determine, such property (whether movable or immovable and whether tangible or intangible), rights, obligations and liabilities comprised in any gas company substantially owned by the Government specified by the Minister and agreed to by the Minister for Finance for the purposes of this section (“transferor undertaking”) shall become, by virtue of this section and without further assurance, the property, rights, obligations and liabilities of such other gas company substantially owned by the Government specified by the Minister and agreed to by the Minister for Finance for the purposes of this section (“transferee undertaking”) in such manner of distribution or allocation and on such terms as to compensation or otherwise, as determined by the Minister and agreed to by the Minister for Finance and set out in a scheme under regulations made by the Minister for the purposes of this section.
+98\.—(1) On such date as the Minister may determine, such property (whether movable or immovable and whether tangible or intangible), rights, obligations and liabilities comprised in any gas company substantially owned by the Government specified by the Minister and agreed to by the Minister for Finance for the purposes of this section (transferor undertaking) shall become, by virtue of this section and without further assurance, the property, rights, obligations and liabilities of such other gas company substantially owned by the Government specified by the Minister and agreed to by the Minister for Finance for the purposes of this section (transferee undertaking) in such manner of distribution or allocation and on such terms as to compensation or otherwise, as determined by the Minister and agreed to by the Minister for Finance and set out in a scheme under regulations made by the Minister for the purposes of this section.
 
 (2) Any immovable property to be transferred to a transferee undertaking under subsection (1) shall be held by such transferee undertaking upon such tenure and subject to such terms and conditions as the Minister may determine.
 
@@ -2208,3 +2198,20 @@ TRANSITIONAL PROVISIONS
 
 make regulations making provision for applying, omitting or modifying the application of any provision of any written law for the purposes of giving effect to this Part.
 
+## LEGISLATIVE HISTORY
+
+Gas Act
+
+(CHAPTER 116A)
+
+This Legislative History is provided for the convenience of users of the Gas Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 11 of 2001—Gas Act 2001**|
+||Date of First Reading|22 February 2001|
+|||(Bill No. 10/2001 published on 23 February 2001)|
+||Date of Second and Third Readings|16 March 2001|
+||Date of commencement|9 April 2001|
+|2.|**2002 Revised Edition—Gas Act**|
+||Date of operation|31 July 2002|
