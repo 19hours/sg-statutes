@@ -176,7 +176,11 @@
 
 - [65 Receipt in deed sufficient](#Receipt-in-deed-sufficient)
 
+- [65A Consideration expressed in instrument authority for payment to solicitor](#Consideration-expressed-in-instrument-authority-for-payment-to-solicitor)
+
 - [66 Receipt in deed or endorsed evidence for subsequent purchaser](#Receipt-in-deed-or-endorsed-evidence-for-subsequent-purchaser)
+
+- [66A Severance of tenancy in common and joint tenancy](#Severance-of-tenancy-in-common-and-joint-tenancy)
 
 [**Part XII POWERS**](#Part-XII)
 
@@ -312,11 +316,15 @@ Contracts for sale
 
 ### Recitals, etc. in deeds, Acts, etc., 20 years old to be sufficient evidence
 
-(3) Recitals, statements and descriptions of facts, matters and parties contained in deeds, instruments, Acts or statutory declarations 20 years old at the date of the contract shall, unless and except so far as they are proved to be inaccurate, be taken to be sufficient evidence of the truth of those facts, matters and descriptions.
+(3) Recitals, statements and descriptions of facts, matters and parties contained in deeds, instruments, Acts or statutory declarations 12 years old at the date of the contract shall, unless and except so far as they are proved to be inaccurate, be taken to be sufficient evidence of the truth of those facts, matters and descriptions.
+
+[Act 27/2005 wef 01/03/1994]
 
 ### Period of limitation for title to be deduced
 
-(4) A purchaser of land shall not be entitled to require a title to be deduced for a period of more than 30 years or for a period extending further back than a grant or lease by the Crown or the State, whichever period is the shorter.
+(4) A purchaser of land shall not be entitled to require a title to be deduced for a period of more than 15 years or for a period extending further back than a grant or lease by the Crown or the State, whichever period is the shorter.
+
+[Act 27/2005 wef 01/03/1994]
 
 ### Limitation upon production of deeds, etc. Assumption as to recitals, etc.
 
@@ -1121,9 +1129,13 @@ OTHER INSTRUMENTS
 
 ### Conveyance to be by deed in English language
 
-53\.—(1) A conveyance of any estate or interest in land other than a lease for a period not exceeding 3 years at a rack rent shall be void at law unless it is by deed in the English language.
+53\.—(1) A conveyance of any estate or interest in land other than a lease for a period not exceeding 7 years at a rack rent shall be void at law unless it is by deed in the English language.
 
-(2) This section shall apply only to conveyances made on or after 1st August 1886.
+[Act 27/2005 wef 01/03/1994]
+
+(2) This section shall only apply to conveyances executed on or after the commencement of the Land Titles Act 1993.
+
+[Act 27/2005 wef 01/03/1994]
 
 ### No conveyance to operate tortiously
 
@@ -1207,11 +1219,39 @@ the mortgage money, or other money or money’s worth, for the time being due to
 
 65\. A receipt for consideration money or securities in the body of a deed shall be a sufficient discharge for the same to the person paying or delivering the same, without any further receipt for the same being endorsed on the deed.
 
+### Consideration expressed in instrument authority for payment to solicitor
+
+65A\. Where a solicitor produces an instrument as defined in the Land Titles Act 1993 in which consideration is expressed and which has been executed by the person in whose favour the consideration is payable or has been paid or partly payable and partly paid, that instrument shall be sufficient authority to the person liable to pay or give the same for his paying or giving the same to the solicitor, without the solicitor producing any separate or other direction or authority in that behalf from the person who executed or signed the instrument.
+
+[Act 27/2005 wef 01/03/1994]
+
 ### Receipt in deed or endorsed evidence for subsequent purchaser
 
 66\.—(1) A receipt for consideration money or other consideration in the body of a deed or endorsed thereon shall, in favour of a subsequent purchaser not having notice that the money or other consideration thereby acknowledged to be received was not in fact paid or given, wholly or in part, be sufficient evidence of the payment or giving of the whole amount thereof.
 
 (2) This section shall apply to deeds executed before, on or after 1st August 1886.
+
+### Severance of tenancy in common and joint tenancy
+
+66A\.—(1) Tenants in common who intend to hold their estate or interest in land as joint tenants may jointly declare by a deed of declaration that they hold the estate or interest in their respective shares in the land as joint tenants of the entire estate or interest thereof.
+
+(2) Upon the making of the deed of declaration referred to in subsection (1) —
+
+(a) where all the tenants in common of the entire estate or interest in the land are the declarants — the estate or interest which they held in their respective shares as tenants in common immediately before the making of such deed shall vest in them as joint tenants; or
+
+(b) where not all the tenants in common of the entire estate or interest in the land are the declarants —
+
+(i) the estate or interest which the declarants held in their respective shares as tenants in common immediately before the making of such deed shall vest in the declarants as joint tenants; and
+
+(ii) the declarants and the other tenants in common shall continue to hold their estate or interest in their respective shares as tenants in common.
+
+(3) Without prejudice to any rule or principle of law relating to severance of a joint tenancy, a joint tenant may sever a joint tenancy of an estate or interest in land by a deed of declaration and by serving a copy of the deed of declaration personally or by registered post on the other joint tenants.
+
+(4) Upon the making of the deed of declaration and the service of the deed of declaration pursuant to subsection (3), the respective estates and interests in the land shall be held by the declarant and the remaining joint tenants as tenants in common in their respective shares.
+
+(5) Where a joint tenant holds an estate or interest in land on trust, the severance of the joint tenancy shall not affect the rights of the beneficiary of the trust or the operation of the law relating to breaches of trust.
+
+[Act 27/2005 wef 01/03/1994]
 
 ## PART XII
 
@@ -1543,3 +1583,8 @@ This Legislative History is provided for the convenience of users of the Conveya
 |||(Bill No. 26/1993 published on 12 November 1993)|
 ||Date of Second and Third Readings|12 October 1993|
 ||Date of commencement|12 November 1993|
+|23.|**Act 27 of 1993—Land Titles Act 1993**|
+||Date of First Reading|16 November 1992|
+|||(Bill No. 36/1992 published on 12 November 1993)|
+||Date of Second and Third Readings|30 August 1993|
+||Date of commencement|1 March 1994|
