@@ -106,7 +106,7 @@
 
 - [43 Authority may prohibit carrying out of certain orders by governments of, or residents in, other countries](#Authority-may-prohibit-carrying-out-of-certain-orders-by-governments-of-or-residents-in-other-countries)
 
-- [44 Exemption from stamp duty](#Exemption-from-stamp-duty)
+- [44 (Repealed)](#Repealed)
 
 - [45 Regulations](#Regulations)
 
@@ -908,17 +908,7 @@ shall comply with such directions as may be given to them respectively by the Au
 
 (2) Where any directions are given under this section with respect to any country or territory, a branch in that country or territory of any business, whether carried on by a body corporate or otherwise, shall, for the purposes of this section, be treated in all respects as if the branch were a body corporate resident in that country or territory.
 
-### Exemption from stamp duty
-
-44\.—(1) Stamp duty shall not be chargeable on any security by reason only of the assignment, transfer or negotiation thereof to the Authority and shall not be chargeable —
-
-(a) on any instrument whereby any security is assigned or transferred to the Authority (whether on sale or otherwise); or
-
-(b) on any contract note for, or relating to, any sale of securities to the Authority.
-
-(2) This section shall apply only in relation to assignments, transfers, negotiations or sales of securities effected during the continuance in force of this section whether in compliance with this Act or otherwise.
-
-(3) In this section, “contract note” means the note sent by a broker or agent to his principal, or by any person who by way of business deals, or holds himself out as dealing, as a principal in any stock or marketable securities, advising the principal, or the vendor or purchaser, as the case may be, of the sale or purchase of any stock or marketable security, but does not include a note sent by a broker or agent to his principal where the principal is himself acting as broker or agent for a principal and is himself a person who bona fide carries on the business of a stockbroker in Singapore.
+44\. [Deleted by Act 38/2002 wef 01/01/2003]
 
 ### Regulations
 
@@ -1188,7 +1178,7 @@ Section 36(1)
 
 Enforcement
 
-Part i
+Part I
 
 General provisions as to evidence and information
 
@@ -1318,7 +1308,7 @@ Import and export
 
 (3) An authorised officer may, in order to prevent the possibility of an offence being committed under this Act, detain anything so prohibited to be imported or exported which is in the possession of any such person, and, if he detains any such thing, shall give a receipt therefor to the person and shall return the thing to the person when he is satisfied that such possibility no longer exists.
 
-5.—(1) The Regulation of Imports and Exports Act (Cap. 272A), the Regulation of Imports and Exports Regulations (Cap. 272A, Rg 1), or any regulations in substitution therefor made under that Act, shall, subject to such modifications (if any) as may be prescribed to adapt that Act to this Act, apply in relation to anything prohibited to be imported or exported by any of the provisions of Part V of this Act except with the permission of the Authority as that ActdocId=1995-REVED-272A;docVerId=233ae099-6635-4cb1-9c0c-d73aa7dd5fc9;transactionDate=;provId=;fragId=;urn=http://localhost:8099/aol/search/display/view.w3p;page%3D0;query%3DCompId%3Abdb6e69c-fd81-4348-908f-76c3fa5589cc%20ValidTime%3A19960430000000;rec%3D0;validDate=;validated=valid applies in relation to goods prohibited to be imported or exported by or under that Act.
+5.—(1) The Regulation of Imports and Exports Act (Cap. 272A), the Regulation of Imports and Exports Regulations (Cap. 272A, Rg 1), or any regulations in substitution therefor made under that Act, shall, subject to such modifications (if any) as may be prescribed to adapt that Act to this Act, apply in relation to anything prohibited to be imported or exported by any of the provisions of Part V of this Act except with the permission of the Authority as that Act applies in relation to goods prohibited to be imported or exported by or under that Act.
 
 (2) Any reference in the Regulation of Imports and Exports Act to goods shall be construed as including a reference to anything prohibited to be imported or exported by any of the provisions of Part V of this Act except with the permission of the Authority.
 
@@ -1407,6 +1397,11 @@ This Legislative History is provided for the convenience of users of the Exchang
 ||Date of commencement|1 December 1999|
 |23.|**2000 Revised Edition—Exchange Control Act**|
 ||Date of operation|1 July 2000|
+|24.|**Act 38 of 2002—Stamp Duties (Amendment) Act 2002**|
+||Date of First Reading|31 October 2002|
+|||(Bill No. 40/2002 published on 1 November 2002)|
+||Date of Second and Third Readings|25 November 2002|
+||Date of commencement|1 January 2003|
 ## COMPARATIVE TABLE
 
 Exchange Control Act
