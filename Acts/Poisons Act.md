@@ -3963,3 +3963,5 @@ This Legislative History is provided for the convenience of users of the Poisons
 ||Date of commencement|1 July 1995|
 |67.|**G. N. No. S 416/1995—Poisons Act (Amendment of Schedule) (No. 5) Notification 1995**|
 ||Date of commencement|1 November 1995|
+|68.|**G. N. No. S 227/1996—Poisons Act (Amendment of Schedule) Notification 1996**|
+||Date of commencement|17 May 1996|
