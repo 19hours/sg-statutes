@@ -1,16 +1,14 @@
-**Prevention of Pollution of the Sea Act 1990**
+**Prevention of Pollution of the Sea Act**
 
-**(No. 18 of 1990)**
+**(CHAPTER 243)**
 
 **Table of Contents**
 
 [**Long Title**](#Prevention-of-Pollution-of-the-Sea-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -90,49 +88,31 @@
 
 - [35 Application to Government](#Application-to-Government)
 
-- [36 Repeal and transitional provisions](#Repeal-and-transitional-provisions)
+- [36 Transitional provisions](#Transitional-provisions)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Prevention of Pollution of the Sea Act
 
-ACTS SUPPLEMENT
+(CHAPTER 243)
 
-Published by Authority
+(Original Enactment: Act 18 of 1990)
 
-NO. 21]
+REVISED EDITION 1991
 
-Friday, October 5
+(1st March 1991)
 
-[1990
+An Act to enable effect to be given to the International Convention for the Prevention of Pollution from Ships 1973 as modified and added to by the Protocol of 1978 and to make provisions generally for preventing the pollution of Singapore waters and for matters related thereto.
 
-The following Act was passed by Parliament on 30th August 1990 and assented to by the President on 28th September 1990:—
-
-Prevention Of Pollution Of The Sea Act 1990
-
-(No. 18 of 1990)
-
-I assent.
-
-WEE KIM WEE
-
-President.
-
-28th September 1990.
-
-Date of Commencement: 1st February 1991
-
-An Act to enable effect to be given to the International Convention for the Prevention of Pollution from Ships 1973 as modified and added to by the Protocol of 1978 and to make provisions generally for preventing the pollution of Singapore waters and for matters related thereto, and to repeal the Prevention of Pollution of the Sea Act (Chapter 243 of the 1985 Revised Edition).
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st February 1991]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Prevention of Pollution of the Sea Act 1990 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Prevention of Pollution of the Sea Act.
 
 ### Interpretation
 
@@ -144,7 +124,7 @@ PRELIMINARY
 
 “Convention of 1973” means the International Convention for the Prevention of Pollution from Ships (including its protocols, annexes and appendices) which constitutes attachment 1 to the final act of the International Conference on Marine Pollution signed in London on 2nd November 1973;
 
-“Director” means the Director of Marine appointed under section 6 of the Merchant Shipping Act (Cap. 179) and includes the Deputy Director of Marine appointed under that section;
+“Director” means the Director of Marine appointed under section 6 of the Merchant Shipping Act [Cap. 179] and includes the Deputy Director of Marine appointed under that section;
 
 “discharge”, in relation to harmful substances or effluents containing such substances, means any release howsoever caused from a ship, place or thing and includes any escape, disposal, spilling, leaking, pumping, emitting or emptying but does not include —
 
@@ -182,15 +162,15 @@ PRELIMINARY
 
 “oil residues” means any waste material consisting of, or arising from, oil or an oily mixture;
 
-“oil terminal” means any place having permanent means of loading or discharging oil whether in bulk or package, into or from any ship;
+“oil terminal” means any place having permanent means of loading or discharging oil, whether in bulk or package, into or from any ship;
 
-“owner”, in relation to a ship, means the person registered as the owner of the ship or, in the absence of registration, the person owning the ship or the bareboat charterer of the ship; and in the case of a ship owned by a state and operated by a company which in that state is registered as the ship’s operator, “owner” shall include such state;
+“owner”, in relation to a ship, means the person registered as the owner of the ship or, in the absence of registration, the person owning the ship or the bareboat charterer of the ship; and, in the case of a ship owned by a state and operated by a company which in that state is registered as the ship’s operator, “owner” shall include such state;
 
 “place on land” includes anything resting on the bed or shore of the sea, or of Singapore waters, and also includes anything afloat (other than a ship) if it is anchored or attached to the bed or shore of the sea or of Singapore waters;
 
 “plastics” includes, but is not limited to, synthetic ropes, synthetic fishing nets and plastic garbage bags;
 
-“port” has the same meaning as is assigned to it in the Port of Singapore Authority Act (Cap. 236);
+“port” has the same meaning as is assigned to it in the Port of Singapore Authority Act [Cap. 236];
 
 “Port Master” means the Port Master appointed under section 30 of the Port of Singapore Authority Act and includes any Deputy Port Master appointed under that section;
 
@@ -202,7 +182,7 @@ PRELIMINARY
 
 “ship” means a vessel of any type whatsoever operating in the marine environment and includes hydrofoil boats, air cushion vehicles, submersibles, floating craft and fixed or floating platforms;
 
-“Singapore ship” means a ship registered under Part XIII of the Merchant Shipping Act (Cap. 179);
+“Singapore ship” means a ship registered under Part XIII of the Merchant Shipping Act [Cap. 179];
 
 “Singapore waters” means the following waters:
 
@@ -406,9 +386,9 @@ in order to comply, for ships which may be expected to use the port or terminal 
 
 (vii) the discharge of water from slop tanks;
 
-(viii) closing of all applicable valves or similar devices after slop tanks discharge operations;
+(viii) the closing of all applicable valves or similar devices after slop tanks discharge operations;
 
-(ix) closing of valves necessary for isolation of dedicated clean ballast tanks from cargo and stripping lines after slop tank discharge operations;
+(ix) the closing of valves necessary for isolation of dedicated clean ballast tanks from cargo and stripping lines after slop tank discharge operations;
 
 (x) the discharge of dirty ballast or cleaning water from oil fuel tanks;
 
@@ -544,13 +524,13 @@ each of the owners shall be liable, jointly and severally with the other or othe
 
 (2) Where the oil, oily mixture or noxious liquid substance is discharged from two or more ships and a liability is incurred under this section by the owner of each of them but the damage or cost of which each of the owners would be liable cannot reasonably be separated from that for which the other or others would be liable, each of the owners shall be liable, jointly and severally with the other or others, for the whole of the damage or cost for which the owners together would be liable under this section.
 
-(3) The reference in this section to the measures reasonably taken after the discharge of oil, an oily mixture or a noxious liquid substance for the purpose of preventing or reducing any damage caused by contamination resulting from the discharge shall include actions taken to remove the oil, oily mixture or substance from the water and foreshores or the taking of such other actions as may be necessary to minimise or mitigate damage to the public health or welfare, including, but not limited to fish, shellfish, wildlife, and public and private property, foreshores and beaches.
+(3) The reference in this section to the measures reasonably taken after the discharge of oil, an oily mixture or a noxious liquid substance for the purpose of preventing or reducing any damage caused by contamination resulting from the discharge shall include actions taken to remove the oil, mixture or substance from the water and foreshores or the taking of such other actions as may be necessary to minimise or mitigate damage to the public health or welfare, including, but not limited to fish, shellfish, wildlife, and public and private property, foreshores and beaches.
 
-(4) This section shall not apply in relation to any discharge of oil or an oily mixture where section 3 of the Merchant Shipping (Oil Pollution) Act (Cap. 180) applies.
+(4) This section shall not apply in relation to any discharge of oil or an oily mixture where section 3 of the Merchant Shipping (Oil Pollution) Act applies.
 
 ### Recovery of costs for removing oil and substances discharged from land or apparatus
 
-19\. If any oil, oily mixture or noxious liquid substance is discharged from any place on land or from any apparatus used for transferring the oil, mixture or substance from or to any ship (whether to or from a place on land or to or from another ship) or for any other operation, the person in charge of that apparatus or the occupier of that place, as the case may be, shall be liable to pay for the costs of any reasonable measures taken by the appointed authority after the discharge in removing or eliminating the oil, oily mixture or noxious liquid substance.
+19\. If any oil, oily mixture or noxious liquid substance is discharged from any place on land or from any apparatus used for transferring the oil, mixture or substance from or to any ship (whether to or from a place on land or to or from another ship) or for any other operation, the person in charge of that apparatus or the occupier of that place, as the case may be, shall be liable to pay for the costs of any reasonable measures taken by the appointed authority after the discharge in removing or eliminating the oil, mixture or substance.
 
 ### Recovery of costs from person responsible for the pollution
 
@@ -620,7 +600,7 @@ the Director or Port Master or any officer authorised in writing by the Director
 
 (3) The Director or Port Master may release a ship detained under subsection (2) if the owner of the ship deposits with the Government or the Port of Singapore Authority a sum of money or furnishes such security which would, in the opinion of the Director or Port Master, be adequate to meet the owner’s liability under this Act.
 
-(4) Section 3(1)(d) of the High Court (Admiralty Jurisdiction) Act (Cap. 123) shall be construed as extending to any claim in respect of a liability incurred by the owner of a ship under this Act.
+(4) Section 3(1)(d) of the High Court (Admiralty Jurisdiction) Act [Cap. 123] shall be construed as extending to any claim in respect of a liability incurred by the owner of a ship under this Act.
 
 ### Detained ship proceeding to sea
 
@@ -684,11 +664,11 @@ the Director or Port Master or any officer authorised in writing by the Director
 
 ### Court for trial of offences
 
-32\. Any offence under this Act or any regulations made thereunder may be tried by a Magistrate’s Court or a District Court and that Court shall, notwithstanding the provisions of the Criminal Procedure Code (Cap. 68) and any other written law, have jurisdiction to impose the maximum penalty provided for by this Act or any regulations made thereunder.
+32\. Any offence under this Act or any regulations made thereunder may be tried by a Magistrate’s Court or a District Court and that Court shall, notwithstanding the provisions of the Criminal Procedure Code [Cap. 68] and any other written law, have jurisdiction to impose the maximum penalty provided for by this Act or any regulations made thereunder.
 
 ### Compounding of offences
 
-33\.—(1) The Director, Port Master or any person authorised in writing by the Director or Port Master may compound any offence under this Act or any regulations made thereunder which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $2,000.
+33\.—(1) The Director, Port Master or any person authorised in writing by the Director or Port Master may compound any offence under this Act or any regulations made thereunder which is prescribed as a compoundable offence, by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $2,000.
 
 (2) The Minister may make regulations to prescribe the offences which may be compounded.
 
@@ -734,13 +714,28 @@ the Director or Port Master or any officer authorised in writing by the Director
 
 35\. This Act shall bind the Government.
 
-### Repeal and transitional provisions
+### Transitional provisions
 
-36\.—(1) The Prevention of Pollution of the Sea Act (Cap. 243) is repealed.
+36\. Notwithstanding the repeal of the Prevention of Pollution of the Sea Act [Cap. 243, 1985 Ed.], the provisions of that Act shall continue to apply in relation to —
 
-(2) Notwithstanding the repeal of the Prevention of Pollution of the Sea Act, the provisions of that Act shall continue to apply in relation to —
+(a) any discharge of oil, a mixture containing oil, substance of a dangerous or obnoxious nature, trade effluent, refuse, garbage or waste matter, within the meaning of that Act, that occurred or commenced before 1st February 1991; and
 
-(a) any discharge of oil, a mixture containing oil, substance of a dangerous or obnoxious nature, trade effluent, refuse, garbage or waste matter, within the meaning of that Act, that occurred or commenced before the commencement of this Act; and
+(b) any act or omission that occurred before that date.
 
-(b) any act or omission that occurred before the commencement of this Act.
+## LEGISLATIVE HISTORY
 
+Prevention of Pollution of the Sea Act
+
+(CHAPTER 243)
+
+This Legislative History is provided for the convenience of users of the Prevention of Pollution of the Sea Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 18 of 1990—Prevention of Pollution of the Sea Act 1990**|
+||Date of First Reading|18 July 1990|
+|||(Bill No. 17/90 published on 19 July 1990)|
+||Date of Second and Third Readings|30 August 1990|
+||Date of commencement|1 February 1991|
+|2.|**1991 Revised Edition—Prevention of Pollution of the Sea Act**|
+||Date of operation|1 March 1991|
