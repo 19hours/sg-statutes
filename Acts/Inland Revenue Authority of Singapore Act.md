@@ -42,6 +42,8 @@
 
 - [13 Power to borrow](#Power-to-borrow)
 
+- [13A Issue of shares, etc.](#Issue-of-shares-etc)
+
 - [14 Grants](#Grants)
 
 - [15 Bank accounts and application of revenue](#Bank-accounts-and-application-of-revenue)
@@ -277,6 +279,12 @@ FINANCIAL PROVISIONS
 ### Power to borrow
 
 13\. The Authority may, from time to time for the purposes of this Act, raise loans from the Government or, with the consent of the Minister, from any other source.
+
+### Issue of shares, etc.
+
+13A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Authority under this Act, or of any capital injection or other investment by the Government in the Authority in accordance with any written law, the Authority shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
+
+[5/2002 wef 15/07/2002]
 
 ### Grants
 
@@ -530,11 +538,7 @@ Sections 26(1) and 30
 
 Specified Acts
 
-1. Appraisers and House Agents Act (Cap. 16).
-
-[22/2000 wef 01/08/2000]
-
-[25/2010 wef 22/10/2010]
+1\. Appraisers and House Agents Act (Cap. 16).
 
 2\. Betting and Sweepstake Duties Act [Cap. 22].
 
@@ -546,7 +550,7 @@ Specified Acts
 
 5A. Goods and Services Tax Act 1993.
 
-[Act 31of1993.]
+[Act 31of 1993.]
 
 [S 37/94 wef 28/01/1994]
 
@@ -562,7 +566,7 @@ Specified Acts
 
 FOURTH SCHEDULE
 
-Sections 26(2) and 30
+Section 26(2) and 30
 
 Specified offices
 
@@ -586,7 +590,7 @@ Specified offices
 
 6. The Comptroller of Goods and Services Tax under the Goods and Services Tax Act 1993.
 
-[Act 31of1993.]
+[Act 31of 1993.]
 
 [S 37/94 wef 28/01/1994]
 
@@ -620,3 +624,9 @@ This Legislative History is provided for the convenience of users of the Inland 
 |||(Bill No. 17/2000 published on 23 May 2000)|
 ||Date of Second and Third Readings|3 July 2000|
 ||Date of commencement|1 August 2000|
+|6.|**Act 5 of 2002—Statutory Corporations (Capital Contribution) Act 2002**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|3 May 2002|
+|||(Bill No. 7/2002 published on 4 May 2002)|
+||Date of Second and Third Readings|24 May 2002|
+||Dates of commencement|15 July 2002 (except item (18) of Schedule)|
