@@ -16,7 +16,7 @@
 
 - [4 Appointment of Commissioner, etc.](#Appointment-of-Commissioner-etc)
 
-- [5 Taking of oath](#Taking-of-oath)
+- [5 (Repealed)](#Repealed)
 
 [**Part II ESTATE DUTY**](#Part-II)
 
@@ -158,6 +158,8 @@
 
 [**EIGHTH SCHEDULE Rates of Remission of Estate Duty in the Case of Persons Dying on or After 1ST April 1977 and Before 1ST April 1984**](#EIGHTH-SCHEDULE-Rates-of-Remission-of-Estate-Duty-in-the-Case-of-Persons-Dying-on-or-After-1ST-April-1977-and-Before-1ST-April-1984)
 
+[**NINTH SCHEDULE Repealed**](#NINTH-SCHEDULE-Repealed)
+
 [**Legislative History**](#Legislative-History)
 
 # Estate Duty Act
@@ -234,9 +236,11 @@ PRELIMINARY
 
 (3) The Commissioner shall be responsible for the recovery of all estate duty, interest and penalties payable under the provisions of this Act and shall pay all amounts collected in respect thereof into the Consolidated Fund.
 
-### Taking of oath
+(4) The Commissioner may, by notification in theGazetteor in writing, authorise any officer to perform or to assist in the performance of any duty imposed or to exercise any power conferred upon the Commissioner by this Act.
 
-5\. Any oath or affirmation required for the purposes of estate duty may be taken before the Commissioner, who is hereby authorised to administer such oath or affirmation.
+[30/2000 wef 18/12/2000]
+
+5\. [Repealed by Act 30/2000 wef 18/12/2000]
 
 ## PART II
 
@@ -386,6 +390,8 @@ where the purchase was made, or the lease or annuity granted, for full considera
 
 (2) No estate duty shall be payable in respect of any monument that is the subject of a preservation order made under section 8 of the Preservation of Monuments Act (Cap. 239).
 
+(3) [Deleted by Act 42/98 wef 01/01/1999]
+
 ### Gifts to National Museum
 
 13A\. No estate duty shall be payable in respect of any gift inter vivos made on or after 1st April 1987 to the National Museum and which, if other than a gift of money, has been approved by the Minister.
@@ -466,6 +472,14 @@ shall not qualify for the relief under subsection (1)(a), (2)(a), (3)(a) or (3A)
 
 [14/84; 27/96]
 
+(5A) In the case of a person dying on or after 25th February 2000, subsection (5)(a) shall not apply to any dwelling-house which at the time of his death was used by any person partly for the purposes of any trade, business, profession or vocation —
+
+(a) approved under the Technopreneur Home Office Scheme by the National Science and Technology Board; or
+
+(b) allowed under the small business guidelines of the Urban Redevelopment Authority or the Housing and Development Board.
+
+[30/2000 wef 18/12/2000]
+
 (6) For the purposes of this section —
 
 “amount prescribed” —
@@ -482,9 +496,9 @@ shall not qualify for the relief under subsection (1)(a), (2)(a), (3)(a) or (3A)
 
 “designated pension or provident fund” means designated pension or provident fund within the meaning of section 39(2)(e) of the Income Tax Act;
 
-“dwelling-house” includes any building or tenement, or any part thereof, which is used, constructed or adapted to be used for human habitation.
+“dwelling-house” includes any building or tenement, or any part thereof, which is used, constructed or adapted to be used for human habitation; but does not include any dwelling-house used wholly or partly as a hostel or quarters or for such other purpose as may be prescribed.
 
-[11/81; 2/83; 14/84; 27/96]
+[30/2000 wef 18/12/2000]
 
 (7) For the purposes of this section where the deceased has 2 or more dwelling-houses the value of each of which exceeds the amount prescribed, the greater value shall qualify for the relief under subsection (2)(a).
 
@@ -869,8 +883,6 @@ COLLECTION OF ESTATE DUTY
 (3) Any such person who fails without any lawful impediment or excuse, to be allowed by the Commissioner, to appear before the Commissioner at the time appointed, or refuses to answer any question lawfully put to him by the Commissioner or fails to produce any such document or other evidence as aforesaid, shall forfeit to the Government the sum of $1,000.
 
 (4) The Commissioner may apply to the High Court in a summary manner in the matter to which his inquiry relates for an order enforcing compliance with his reasonable requirements.
-
-(5) The Commissioner may administer an oath or affirmation to any person summoned before him under subsection (1) to state the truth on the subject upon which the Commissioner requires to be informed.
 
 (6) Subject to the provisions of this Act, the value of any property for the purpose of estate duty shall be ascertained by the Commissioner in such manner and by such means as he thinks fit, and if he authorises a person to inspect any property and report to him the value thereof for the purposes of this Act, the person having the custody or control of that property shall permit the person so authorised to inspect it at such reasonable times as the Commissioner considers necessary.
 
@@ -1474,6 +1486,12 @@ For every dollar of the next $20,000
 
 [12/78]
 
+NINTH SCHEDULE
+
+[EXEMPTIONS]
+
+[Deleted by Act 42/98 wef 01/01/1999 wef 01/01/1999 wef 01/01/1999]
+
 ## LEGISLATIVE HISTORY
 
 Estate Duty Act
@@ -1618,3 +1636,8 @@ This Legislative History is provided for the convenience of users of the Estate 
 ||Date of Second and Third Readings|26 November 1998|
 ||Date of commencement|10 January 1998|
 |||1 January 1999|
+|32.|**Act 30 of 2000—Estate Duty (Amendment) Act 2000**|
+||Date of First Reading|9 October 2000|
+|||(Bill No. 26/2000 published on 10 October 2000)|
+||Date of Second and Third Readings|13 November 2000|
+||Date of commencement|18 December 2000|
