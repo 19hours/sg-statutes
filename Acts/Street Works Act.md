@@ -196,7 +196,9 @@ PRELIMINARY
 
 “Chief Executive” means the Chief Executive of the Authority;
 
-“competent authority” means any competent authority appointed under section 3 of the Planning Act [Cap. 232];
+“competent authority” means any competent authority appointed under section 5 of the Planning Act 1998;
+
+[Act 3 of 1998 wef 01/04/1998]
 
 “dwelling-house” includes a building or tenement wholly or principally used, constructed or adapted for use for human habitation;
 
@@ -1335,3 +1337,9 @@ This Legislative History is provided for the convenience of users of the Street 
 |2.|**1996 Revised Edition—Street Works Act**|
 ||(G.N. No. S 92/1997 — Rectification Order)||
 ||Date of operation|30 April 1996|
+|3.|**Act 3 of 1998—Planning Act 1998**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|19 November 1997|
+|||(Bill No. 18/1997 published on 20 November 1997)|
+||Date of Second and Third Readings|14 January 1998|
+||Date of commencement|1 April 1998|
