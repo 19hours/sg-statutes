@@ -2968,6 +2968,8 @@ Br)
 
 in fire protection systems with building plans approved after 17th June 1991 and installed after 31st December 1991
 
+Cadmium-containing silver brazing alloy
+
 Carbamates, excepting —
 
 Benomyl
@@ -3080,7 +3082,7 @@ Trichlorofluoromethane (CFC 11, CFCl
 
 )
 
-Dichlorofluoromethane (CFC 12, CF
+Dichlorodifluoromethane (CFC 12, CF
 
 2
 
@@ -3128,7 +3130,7 @@ F
 
 Cl)
 
-in non-pharmaceutical aerosol products, polystyrene sheets or products; as a refrigerant for refrigeration or air-conditioning equipment that are installed on or after 1st January 1993, except air-conditioners in vehicles, refrigerators that are used for domestic purpose and refrigerators having a compressor rating not exceeding one horsepower.
+in non-pharmaceutical aerosol products, polystyrene sheets or products; as a refrigerant for refrigeration or air-conditioning equipment that are installed on or after 1st January 1993, except air-conditioners in vehicles registered before 1st January 1995, refrigerators that are used for domestic purpose and refrigerators having a compressor rating not exceeding one horsepower.
 
 Chlorophenols; the following:
 
@@ -3368,7 +3370,7 @@ Vinyl bromide
 
 Vinyl chloride monomer
 
-[S 361/1989; S 55/1990; S 51/1991; S 475/1991; S 541/1991; S 9/1993; S 172/1993; S 12/1994; S 147/1994]
+[S 361/1989; S 55/1990; S 51/1991; S 475/1991; S 541/1991;, S 9/1993; S 172/1993; S 12/1994; S 147/1994; S 399/1994; S 449/1994; S 465/1994]
 
 ## LEGISLATIVE HISTORY
 
@@ -3524,3 +3526,9 @@ This Legislative History is provided for the convenience of users of the Poisons
 ||Date of commencement|1 February 1994|
 |59.|**G. N. No. S 147/1994—Poisons Act (Amendment of Schedule) (No. 2) Notification 1994**|
 ||Date of commencement|15 April 1994|
+|60.|**G. N. No. S 399/1994—Poisons Act (Amendment of Schedule) (No. 3) Notification 1994**|
+||Date of commencement|1 January 1995|
+|61.|**G. N. No. S 449/1994—Poisons Act (Amendment of Schedule) (No. 4) Notification 1994**|
+||Date of commencement|1 January 1995|
+|62.|**G. N. No. S 465/1994—Poisons Act (Amendment of Schedule) (No. 5) Notification 1994**|
+||Date of commencement|1 January 1995|
