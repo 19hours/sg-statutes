@@ -4168,8 +4168,6 @@ Part I
 
 5\. Monetary Authority of Singapore.
 
-6\. Post Office Savings Bank of Singapore.
-
 Part II
 
 1\. Government of Singapore Investment Corporation Pte. Ltd.
@@ -4381,3 +4379,8 @@ This Legislative History is provided for the convenience of users of the Constit
 |||(Bill No. 9/98 published on 20 February 1998)|
 ||Date of Second and Third Readings|20 March 1998|
 ||Date of commencement|5 June 1998 (section 2)|
+|37.|**Act 36 of 1998—Constitution of the Republic of Singapore (Amendment No. 2) Act 1998**|
+||Date of First Reading|31 July 1998|
+|||(Bill No. 33/98 published on 1 August 1998)|
+||Date of Second and Third Readings|12 October 1998|
+||Date of commencement|21 May 1999|
