@@ -394,11 +394,11 @@ Singapore Chinese Chess General Association
 
 44. 
 
-Singapore Chinese Middle School Teachers’ Association
+Singapore Middle School Chinese Teachers’ Association
 
 45. 
 
-Singapore Chinese School Teachers’ Union
+Singapore Chinese Teachers’ Union
 
 46. 
 
@@ -538,7 +538,7 @@ Tamils Representative Council
 
 79. 
 
-Vigilante Corps Association
+Singapore Civil Defence Force Sports and Recreation Association
 
 80. 
 
@@ -566,6 +566,8 @@ Young Women Muslim Association
 (Persekutuan Pemudi Islam Singapura).
 
 [S 202/83; S 163/86]
+
+[S 135/1987 wef 22/04/1987]
 
 SECOND SCHEDULE
 
@@ -622,3 +624,5 @@ This Legislative History is provided for the convenience of users of the People�
 ||Date of commencement|4 July 1986|
 |15.|**1985 Revised Edition—People’s Association Act (Chapter 227)**|
 ||Date of operation|30 March 1987|
+|16.|**G.N. No. S 135/87—People’s Association Act (Amendment of First Schedule) Notification 1987**|
+||Date of commencement|22 April 1987|
