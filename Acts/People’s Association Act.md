@@ -338,7 +338,7 @@ Singapore Amateur Athletic Association
 
 30. 
 
-Singapore Amateur Bodybuilders’ Federation
+Singapore Bodybuilders Federation
 
 31. 
 
@@ -612,6 +612,8 @@ Young Women Muslim Association (Persatuan Pemudi Islam Singapura)
 
 [S 290/1992 wef 17/06/1992]
 
+[S 312/1992 wef 24/06/1992]
+
 SECOND SCHEDULE
 
 Section 15(1).
@@ -689,3 +691,5 @@ This Legislative History is provided for the convenience of users of the People�
 ||Date of commencement|16 March 1992|
 |26.|**G. N. No. S 290/1992—People’s Association Act (Amendment of First Schedule) (No. 3) Notification 1992**|
 ||Date of commencement|17 June 1992|
+|27.|**G.N. No. S 312/92—People’s Association Act (Amendment of First Schedule) (No. 4) Notification 1992**|
+||Date of commencement|24 June 1992|
