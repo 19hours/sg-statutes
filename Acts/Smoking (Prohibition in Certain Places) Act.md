@@ -10,9 +10,9 @@
 
 - [2 Interpretation](#Interpretation)
 
-- [3 Minister may prohibit smoking in specified places and vehicles](#Minister-may-prohibit-smoking-in-specified-places-and-vehicles)
+- [3 Prohibition of smoking in specified places and vehicles](#Prohibition-of-smoking-in-specified-places-and-vehicles)
 
-- [4 Powers of police and public health officers](#Powers-of-police-and-public-health-officers)
+- [4 Powers of police and authorised officers](#Powers-of-police-and-authorised-officers)
 
 - [5 Notices](#Notices)
 
@@ -20,11 +20,15 @@
 
 - [7 Composition of offences](#Composition-of-offences)
 
+- [7A Fees, etc., payable to Agency](#Fees-etc-payable-to-Agency)
+
 - [8 Forms](#Forms)
 
 - [9 Exemption](#Exemption)
 
 - [10 Regulations](#Regulations)
+
+- [11 Transitional provision](#Transitional-provision)
 
 [**Legislative History**](#Legislative-History)
 
@@ -50,15 +54,21 @@ An Act to prohibit smoking in specified places and vehicles, and to provide for 
 
 2\. In this Act, unless the context otherwise requires —
 
-“Commissioner” means the Commissioner of Public Health appointed under section 3 of the Environmental Public Health Act (Cap. 95), and includes a Deputy Commissioner of Public Health and an Assistant Commissioner of Public Health appointed under that section;
+“Agency” means the National Environment Agency established under the National Environment Agency Act 2002;
+
+[4/2002 wef 01/07/2002]
+
+“authorised officer” means any person appointed by the Director-General of Public Health under section 3(2) of the Environmental Public Health Act (Cap. 95);
+
+[4/2002 wef 01/07/2002]
+
+“Director-General” means the Director-General of Public Health appointed under section 3(1) of the Environmental Public Health Act;
+
+[4/2002 wef 01/07/2002]
 
 “manager” includes any owner, occupier, lessee or person who is responsible for the management of a specified building or is in charge or control thereof, and includes an assistant manager or supervisor or any person holding an appointment analogous to that of manager or assistant manager or supervisor;
 
 “operator”, in relation to a specified vehicle, means any owner, ticket or tour conductor, driver, ticket inspector or person who is in charge or control of the specified vehicle;
-
-“public health officer” has the same meaning as in the Environmental Public Health Act (Cap. 95);
-
-“public officer” includes any officer of any statutory body who is authorised in writing in that behalf by the Commissioner to carry out all or any of the powers conferred on a public officer by any of the provisions of this Act;
 
 “public service vehicle” has the same meaning as in the Road Traffic Act (Cap. 276);
 
@@ -72,9 +82,9 @@ An Act to prohibit smoking in specified places and vehicles, and to provide for 
 
 [13/94]
 
-### Minister may prohibit smoking in specified places and vehicles
+### Prohibition of smoking in specified places and vehicles
 
-3\.—(1) The Minister may, by notification in theGazetteand subject to such conditions as hemay think fit, specify —
+3\.—(1) The Agency may, with the approval of the Minister, by notification in theGazetteand subject to such conditions as the Agency may think fit, specify —
 
 (a) any premises or building or such part thereof or any class of premises or buildings or such parts thereof —
 
@@ -86,21 +96,21 @@ An Act to prohibit smoking in specified places and vehicles, and to provide for 
 
 (c) any public service vehicle or part thereof or a class of public service vehicles or parts thereof,
 
-as being a place or places or a vehicle or vehicles in which smoking shall not be permitted either permanently or during such time or for such period or periods or under such circumstances as the Minister may prescribe.
+as being a place or places or a vehicle or vehicles in which smoking shall not be permitted either permanently or during such time or for such period or periods or under such circumstances as the Agency may, with the approval of the Minister, prescribe.
 
 (2) Any person who smokes in any specified place or specified vehicle in contravention of any notification made under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
 
 [13/94]
 
-### Powers of police and public health officers
+### Powers of police and authorised officers
 
-4\.—(1) Any person reasonably suspected of having committed an offence under this Act may be arrested without warrant by any police officer or public health officer or by any public officer authorised in writing in that behalf by the Commissioner (referred to in this section as the authorised public officer) and produced before a District Court or a Magistrate’s Court.
+4\.—(1) Any person reasonably suspected of having committed an offence under this Act may be arrested without warrant by any police officer or authorised officer and produced before a District Court or a Magistrate’s Court.
 
-(2) Notwithstanding any other written law, any police officer, public health officer or authorised public officer who, having effected an arrest in accordance with subsection (1), is satisfied as to the identity, name and place of residence of the person arrested may, instead of producing such person before a District Court or a Magistrate’s Court or to a police station, serve upon such person a notice in such form as may be determined under section 9 requiring the person to attend at such Court, at such time and on such date as may be specified in the notice.
+(2) Notwithstanding any other written law, any police officer or authorised officer who, having effected an arrest in accordance with subsection (1), is satisfied as to the identity, name and place of residence of the person arrested may, instead of producing such person before a District Court or a Magistrate’s Court or to a police station, serve upon such person a notice in such form as may be determined under section 9 requiring the person to attend at such Court, at such time and on such date as may be specified in the notice.
 
 (3) For the purpose of satisfying himself as to the identity of the person arrested, the police officer, public health officer or authorised public officer may require such evidence of identity as he may consider necessary to be furnished by that person.
 
-(4) A duplicate of the notice served under subsection (2) shall be prepared by the police officer, public health officer or authorised public officer, as the case may be, and produced by him to the District Court or the Magistrate’s Court if so required by the Court.
+(4) A duplicate of the notice served under subsection (2) shall be prepared by the police officer or authorised officer and produced by him to the District Court or the Magistrate’s Court if so required by the Court.
 
 (5) Where an accused person appears before a District Court or a Magistrate’s Court in accordance with a notice served under subsection (2), the Court shall take cognizance of the offence alleged and shall proceed as though he were produced before it in pursuance of subsection (1).
 
@@ -120,11 +130,11 @@ and if due cause is not shown, the Court may order him to pay a penalty not exce
 
 (a) cause to be displayed suitable and sufficient number of notices of an adequate size or sizes in conspicuous positions therein, stating to the effect that smoking is prohibited by law; and
 
-(b) if so directed by the Commissioner, display such notices in such places, phrase them in such manner or cause them to be of such size, as the Commissioner may consider fit.
+(b) if so directed by the Director-General, display such notices in such places, phrase them in such manner or cause them to be of such size, as the Director-General may consider fit.
 
-(2) The manager or operator may, subject to any direction that may be given by the Commissioner under subsection (1)(b), in addition to such notices, adopt any means, method or device as he may think fit for bringing such prohibition to the attention of members of the public in any specified place or passengers in any specified vehicle.
+(2) The manager or operator may, subject to any direction that may be given by the Director-General under subsection (1)(b), in addition to such notices, adopt any means, method or device as he may think fit for bringing such prohibition to the attention of members of the public in any specified place or passengers in any specified vehicle.
 
-(3) A manager of any specified place or any operator of any specified vehicle who contravenes any of the provisions of subsection (1) or fails to comply with any directions given by the Commissioner under that subsection shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
+(3) A manager of any specified place or any operator of any specified vehicle who contravenes any of the provisions of subsection (1) or fails to comply with any directions given by the Director-General under that subsection shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
 
 ### Duties of managers or operators of specified places and vehicles
 
@@ -132,7 +142,7 @@ and if due cause is not shown, the Court may order him to pay a penalty not exce
 
 (2) If any such person refuses to leave the specified place or specified vehicle or to cease smoking, the manager or operator referred to in subsection (1) shall —
 
-(a) seek the assistance of any police officer, any public health officer or any public officer authorised in writing in that behalf by the Commissioner; and
+(a) seek the assistance of any police officer or authorised officer; and
 
 (b) render such assistance as is reasonable to such officer to deal with that person in the manner provided in section 4.
 
@@ -164,31 +174,43 @@ in contravention of any notification made under section 3(1), that manager or op
 
 ### Composition of offences
 
-7\.—(1) The Commissioner may, in his discretion, compound such offence under this Act or any regulations made thereunder as may be prescribed as being an offence which may be compounded by collecting from the person reasonably suspected of having committed the offence, a sum not exceeding $500.
+7\.—(1) The Director-General may, in his discretion, compound such offence under this Act or any regulations made thereunder as may be prescribed as being an offence which may be compounded by collecting from the person reasonably suspected of having committed the offence, a sum not exceeding $500.
 
 (2) On payment of such sum, no further proceedings shall be taken against the person in respect of that offence.
 
-(3) The Minister may make regulations prescribing the offences which may be compounded and the method and procedure by which such offences may be compounded under this section.
+(3) The Agency may, with the approval of the Minister, make regulations prescribing the offences which may be compounded and the method and procedure by which such offences may be compounded under this section.
+
+### Fees, etc., payable to Agency
+
+7A\. All fees, charges, composition fines and moneys collected under this Act or any regulations made thereunder shall be paid to the Agency.
+
+[4/2002 wef 01/07/2002]
 
 ### Forms
 
-8\. The Commissioner may design and utilise such forms as he may think fit for any of the purposes of this Act or any regulations made thereunder, and may require any person to complete any of the forms for any such purpose.
+8\. The Director-General may design and utilise such forms as he may think fit for any of the purposes of this Act or any regulations made thereunder, and may require any person to complete any of the forms for any such purpose.
 
 [9
 
 ### Exemption
 
-9\. The Minister may, subject to such conditions as he thinks fit, exempt any specified place or any specified vehicle from all or any of the provisions of this Act, either permanently or for such period or periods as he may determine.
+9\. The Agency may, subject to the general or special directions of the Minister, either permanently or for such period as the Agency thinks fit, exempt any specified place or specified vehicle from all or any of the provisions of this Act.
 
-[10
+[4/2002 wef 01/07/2002]
 
 ### Regulations
 
-10\.—(1) The Minister may make such regulations as seem to himnecessary or expedient for the purpose of carrying out the provisions of this Act.
+10\.—(1) The Agency may, with the approval of the Minister, make such regulations as seem to the Agency necessary or expedient for the purpose of carrying out the provisions of this Act.
 
-(2) All such regulations shall be presented to Parliament as soon as possible after publication in theGazette.
+(2) All such regulations shall be presented to Parliament as soon as possible after publication in the Gazette.
 
 [8
+
+### Transitional provision
+
+11\. Any licence, permit, document, application, approval, permission, order, direction, ruling or notice issued, made, given or approved by the Commissioner of Public Health under any provision of this Act immediately before the date of commencement of the National Environment Agency Act 2002 shall be deemed to have been issued, made, given or approved under the same provision by the Director-General.
+
+[4/2002 wef 01/07/2002]
 
 ## LEGISLATIVE HISTORY
 
@@ -228,3 +250,9 @@ This Legislative History is provided for the convenience of users of the Smoking
 ||Date of commencement|1 October 1994|
 |8.|**1998 Revised Edition—Smoking (Prohibition in Certain Places) Act (Chapter 310)**|
 ||Date of operation|15 December 1998|
+|9.|**Act 4 of 2002—National Environment Agency Act 2002**|
+||(Consequential amendments made by)||
+||Date of First Reading|3 May 2002|
+|||(Bill No. 13/2002 published on 4 May 2002)|
+||Date of Second and Third Readings|24 May 2002|
+||Date of commencement|1 July 2002|
