@@ -38,6 +38,8 @@
 
 - [12A Issue of shares, etc.](#Issue-of-shares-etc)
 
+- [12A (Repealed)](#Repealed)
+
 - [13 Financial provisions](#Financial-provisions)
 
 - [14 Annual report](#Annual-report)
@@ -120,7 +122,23 @@
 
 - [44 Special features of broadcasting company](#Special-features-of-broadcasting-company)
 
-- [45 No person to hold more than 3% ordinary shares without approval](#No-person-to-hold-more-than-3%-ordinary-shares-without-approval)
+- [45 Application and interpretation of this section and sections 45A to 45H](#Application-and-interpretation-of-this-section-and-sections-45A-to-45H)
+
+- [45A Control of substantial shareholdings in broadcasting companies](#Control-of-substantial-shareholdings-in-broadcasting-companies)
+
+- [45B Control of shareholdings and voting power in broadcasting companies](#Control-of-shareholdings-and-voting-power-in-broadcasting-companies)
+
+- [45C Approval of applications](#Approval-of-applications)
+
+- [45D Power to make further transitional provisions](#Power-to-make-further-transitional-provisions)
+
+- [45E Objection to existing control of broadcasting company](#Objection-to-existing-control-of-broadcasting-company)
+
+- [45F Power to make directions](#Power-to-make-directions)
+
+- [45G Offences, penalties and defences](#Offences-penalties-and-defences)
+
+- [45H Power to obtain information](#Power-to-obtain-information)
 
 - [46 Funds from foreign source for purposes of certain broadcasting service](#Funds-from-foreign-source-for-purposes-of-certain-broadcasting-service)
 
@@ -172,7 +190,7 @@
 
 - [68 Conduct of proceedings by officers](#Conduct-of-proceedings-by-officers)
 
-- [69 Offence by body corporate](#Offence-by-body-corporate)
+- [69 Corporate offenders and unincorporated associations](#Corporate-offenders-and-unincorporated-associations)
 
 - [70 Power to compound offences](#Power-to-compound-offences)
 
@@ -246,7 +264,7 @@ PRELIMINARY
 
 “broadcasting apparatus licence” means a licence granted under section 32 in respect of broadcasting apparatus, and “broadcasting apparatus licensee” shall be construed accordingly;
 
-“broadcasting licence” means a licence granted under section 20 or 21 for the broadcast of a licensable broadcasting service, and “broadcasting licensee” shall be construed accordingly;
+“broadcasting licence” means a licence granted under section 20 or 21 for the provision of a licensable broadcasting service, and “broadcasting licensee” shall be construed accordingly;
 
 “broadcasting service” means a service whereby signs or signals transmitted, whether or not encrypted, comprise —
 
@@ -315,8 +333,6 @@ but does not include any matter that is wholly related to or connected with any 
 “subscription broadcasting service” means a licensable broadcasting service made available to the audience for whom it is intended only upon the payment of a subscription fee;
 
 “subscription fee” means any form of consideration;
-
-“subsidiary” has the same meaning as in the Companies Act [Cap. 50];
 
 [Deleted by Act 41/99 wef 01/12/1999]
 
@@ -450,7 +466,9 @@ the Minister may, after consultation with a person to whom this section applies,
 
 12A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Authority under this Act, or of any capital injection or other investment by the Government in the Authority in accordance with any written law, the Authority shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
 
-[5/2002]
+[5/2002 wef 15/07/2002]
+
+12A\. [Deleted by Act 34/2002 wef 01/01/2003]
 
 ### Financial provisions
 
@@ -510,13 +528,13 @@ BROADCASTING SERVICES
 
 ### Licensing of broadcasting services
 
-20\.—(1) No person shall provide any licensable broadcasting service in or from Singapore without a broadcasting licence granted by the Authority under this section.
+20\.—(1) No person shall provide any licensable broadcasting service in or from Singapore without a broadcasting licence granted by the Authority under this section or granted under section 21.
 
-(2) Every broadcasting licence granted by the Authority shall be in such form and for such period and may contain such terms and conditions as the Authority may determine.
+(2) Every broadcasting licence, other than a class licence, granted by the Authority shall be in such form and for such period and may contain such terms and conditions as the Authority may determine.
 
 (3) The Authority may require any licensee to pay a fee on the grant of the licence or such periodic fees during the currency of the licence or both of such amount as the Authority may determine by or under the licence.
 
-(4) Without prejudice to the generality of subsection (2), conditions attached to a free-to-air licence may include —
+(4) Without prejudice to the generality of subsection (2), conditions attached to a free-to-air licence granted under this section may include —
 
 (a) a condition requiring the licensee to broadcast such programmes as the Authority may require and at such time, or within such period and on such broadcasting service as the Authority may specify;
 
@@ -868,11 +886,25 @@ OWNERSHIP AND CONTROL OF BROADCASTING COMPANIES
 
 ### Application of this Part to broadcasting company
 
-43\.—(1) This Part shall apply to every broadcasting company unless exempted by the Authority.
+43\.—(1) This Part shall apply to every broadcasting company unless exempted by the Minister under section 73(b).
 
 (2) For the purposes of this Part —
 
-“broadcasting company” means a broadcasting company incorporated or registered under the Companies Act [Cap. 50] which holds a relevant licence;
+“appointed day” means the date of commencement of the Singapore Broadcasting Authority (Amendment) Act 2002;
+
+[19/2002 wef 02/09/2002]
+
+“broadcasting company” means a company incorporated or registered under the Companies Act (Cap. 50) which holds a relevant licence, or a broadcasting holding company;
+
+[19/2002 wef 02/09/2002]
+
+“broadcasting holding company” means a holding company of a company incorporated or registered under the Companies Act (Cap. 50) which holds a relevant licence;
+
+[19/2002 wef 02/09/2002]
+
+“holding company” has the same meaning as in section 5 of the Companies Act;
+
+[19/2002 wef 02/09/2002]
 
 “relevant licence” means —
 
@@ -886,27 +918,285 @@ which permits broadcast which is capable of being received in 50,000 dwelling-ho
 
 ### Special features of broadcasting company
 
-44\.—(1) Subject to subsection (2), the chief executive officer of a broadcasting company and at least one-half of its directors must be citizens of Singapore.
+44\.—(1) No broadcasting company shall, on or after the appointed day, appoint a person as its chief executive officer or director, or as the chairman of its board of directors, unless it has obtained the approval of the Authority.
 
-(2) The Authority may in writing approve the appointment of any person who is not a citizen of Singapore as a director or chief executive officer of a broadcasting company.
+(2) Unless the Authority otherwise approves, the chief executive officer of a broadcasting company and at least one-half of its directors shall be citizens of Singapore.
 
-(3) This section shall have effect notwithstanding the provisions of any other written law or of the memorandum or articles of association, or other constitution, of a broadcasting company.
+(3) No chief executive officer, director, or chairman of the board of directors, of a broadcasting company who was appointed before the appointed day shall be permitted by the broadcasting company to act as such on or after the appointed day unless —
 
-### No person to hold more than 3% ordinary shares without approval
+(a) his appointment as chief executive officer, director, or chairman of the board of directors, of the broadcasting company was approved by the Authority before the appointed day; or
 
-45\.—(1) No person shall, without the prior approval of the Authority, hold, directly or indirectly through his nominees, more than 3% of the ordinary shares issued by a broadcasting company.
+(b) his appointment as chief executive officer, director, or chairman of the board of directors, of the broadcasting company is approved by the Authority on a written application by the broadcasting company made within 6 months after the appointed day or such longer period as the Authority may allow.
 
-(2) The Authority may grant its approval under subsection (1) subject to such conditions as it may think fit.
+(4) Where the Authority does not approve the appointment of a person as chief executive officer, director or chairman of the board of directors under subsection (3)(b), the broadcasting company shall immediately remove the person from such office.
 
-(3) Any person who, directly or indirectly, holds more than 3% of the ordinary shares issued by a broadcasting company without having obtained the prior approval of the Authority shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 2 years or to both, and any surplus shares held by him shall be forfeited to the Government.
+(5) Any broadcasting company which contravenes this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
 
-(4) The Authority may at any time revoke any approval given under subsection (1) without assigning any reason.
+(6) This section shall have effect notwithstanding the provisions of any other written law or of the memorandum or articles of association, or other constitution, of a broadcasting company.
 
-(5) Before the Authority revokes any approval given under subsection (1), the Authority shall give the person concerned a reasonable time to dispose of his surplus shares.
+(7) In this section —
 
-(6) Any nominee company which is registered as the holder of ordinary shares issued by a broadcasting company shall, at the request of the Authority, disclose to the Authority the names and addresses of the persons on whose behalf the company is holding those shares, and if the information is not furnished within 14 days of the request the company and every officer of the company who is in default shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 2 years or to both.
+“chief executive officer”, in relation to a broadcasting company, means any person, by whatever name described, who is —
 
-(7) In this section, “surplus shares” means all the ordinary shares of a broadcasting company held by, and on behalf of, a person in excess of the 3% limit prescribed by subsection (1).
+(a) in the direct employment of, or acting for or by arrangement with, the broadcasting company; and
+
+(b) principally responsible for the management and conduct of any type of business of the broadcasting company in Singapore,
+
+and includes any person for the time being performing all or any of the functions or duties of a chief executive officer;
+
+“director” has the same meaning as in section 4(1) of the Companies Act (Cap. 50).
+
+[19/2002 wef 02/09/2002]
+
+### Application and interpretation of this section and sections 45A to 45H
+
+45\.—(1) This section and sections 45A to 45H shall apply to, and in relation to, all individuals whether resident in Singapore or not and whether citizens of Singapore or not, and to all bodies corporate or unincorporate, whether incorporated or carrying on business in Singapore or not.
+
+(2) In sections 45A to 45H, unless the context otherwise requires —
+
+“arrangement” includes any formal or informal scheme, arrangement or understanding, and any trust whether express or implied;
+
+“share” includes stock except where a distinction between stock and shares is expressed or implied;
+
+“substantial shareholder” has the same meaning as in section 81 of the Companies Act (Cap. 50);
+
+“voting share” has the same meaning as in section 4(1) of the Companies Act.
+
+[19/2002 wef 02/09/2002]
+
+### Control of substantial shareholdings in broadcasting companies
+
+45A\.—(1) No person shall, on or after the appointed day, become a substantial shareholder of a broadcasting company without first obtaining the approval of the Minister.
+
+(2) Subject to section 45C(4), no person who, immediately before the appointed day, is a substantial shareholder of a broadcasting company shall continue to be a substantial shareholder unless he has, within 6 months after the appointed day or such longer period as the Minister may allow, applied to the Minister for approval to continue to be such a shareholder.
+
+(3) No person shall, on or after the appointed day, enter into any agreement or arrangement, whether oral or in writing and whether express or implied, to act together with any other person with respect to the acquisition, holding or disposal of, or the exercise of rights in relation to, their interests in voting shares of an aggregate of more than 5% of the nominal amount of all voting shares in a broadcasting company without first obtaining the approval of the Minister.
+
+(4) Subject to section 45C(4), no person who, at any time before the appointed day, has entered into any agreement or arrangement referred to in subsection (3) shall continue to be a party to such an agreement or arrangement unless he has, within 6 months after the appointed day or such longer period as the Minister may allow, applied to the Minister for approval to continue to be a party to such an agreement or arrangement.
+
+(5) For the purposes of this section, a person has an interest in any share if —
+
+(a) he is deemed to have an interest in that share under section 7 of the Companies Act (Cap. 50); or
+
+(b) he otherwise has a legal or an equitable interest in that share except for such interest as is to be disregarded under section 7 of the Companies Act.
+
+[19/2002 wef 02/09/2002]
+
+### Control of shareholdings and voting power in broadcasting companies
+
+45B\.—(1) No person shall, on or after the appointed day, become —
+
+(a) a 12% controller; or
+
+(b) an indirect controller,
+
+of a broadcasting company without first obtaining the approval of the Minister.
+
+(2) Subject to section 45C(4), no person who, immediately before the appointed day, is —
+
+(a) a 12% controller; or
+
+(b) an indirect controller,
+
+of a broadcasting company shall continue to be such a controller unless he has, within 6 months after the appointed day or such longer period as the Minister may allow, applied to the Minister for approval to continue to be such a controller.
+
+(3) In subsections (1)(a) and (2)(a), “12% controller” means a person who alone or together with his associates —
+
+(a) holds not less than 12% of the shares in the broadcasting company; or
+
+(b) is in a position to control voting power of not less than 12% in the broadcasting company.
+
+(4) For the purposes of subsection (3) —
+
+(a) a person holds a share if —
+
+(i) he is deemed to have an interest in that share under section 7(6) to (10) of the Companies Act (Cap. 50); or
+
+(ii) he otherwise has a legal or an equitable interest in that share except for such interest as is to be disregarded under section 7(6) to (10) of the Companies Act;
+
+(b) a reference to the control of a percentage of the voting power in a broadcasting company is a reference to the control, whether direct or indirect, of that percentage of the total number of votes that might be cast in a general meeting of the broadcasting company; and
+
+(c) a person,A, is an associate of another person,B, if —
+
+(i) Ais the spouse or a parent, step-parent or remoter lineal ancestor, or a son, step-son, daughter, step-daughter or remoter issue, or a brother or sister, ofB;
+
+(ii) Ais a corporation whose directors are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofB, or whereBis a corporation, of the directors ofB;
+
+(iii) Bis a corporation whose directors are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofA, or whereAis a corporation, of the directors ofA;
+
+(iv) Ais a person who is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofB;
+
+(v) Bis a person who is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofA;
+
+(vi) Ais a related corporation ofB;
+
+(vii) Ais a corporation in whichB, alone or together with other associates ofBas described in sub-paragraphs (ii) to (vi), is in a position to control not less than 20% of the voting power inA;
+
+(viii) Bis a corporation in whichA, alone or together with other associates ofAas described in sub-paragraphs (ii) to (vi), is in a position to control not less than 20% of the voting power inB; or
+
+(ix) Ais a person with whomBhas an agreement or arrangement, whether oral or in writing and whether express or implied, to act together with respect to the acquisition, holding or disposal of shares or other interests in, or with respect to the exercise of their voting power in relation to, the broadcasting company.
+
+(5) In subsections (1)(b) and (2)(b), “indirect controller” means any person, whether acting alone or together with any other person and whether with or without holding shares or controlling voting power in a broadcasting company —
+
+(a) in accordance with whose directions, instructions or wishes the directors of the broadcasting company are accustomed or under an obligation, whether formal or informal, to act; or
+
+(b) who is in a position to determine the policy of the broadcasting company,
+
+but does not include any person —
+
+(i) who is a director or other officer of the broadcasting company whose appointment has been approved by the Authority; or
+
+(ii) in accordance with whose directions, instructions or wishes the directors of the broadcasting company are accustomed to act by reason only that they act on advice given by the person in his professional capacity.
+
+[19/2002 wef 02/09/2002]
+
+### Approval of applications
+
+45C\.—(1) The Minister may, in his discretion, approve an application made by any person under section 45A or 45B if the Minister is satisfied that —
+
+(a) the person is a fit and proper person;
+
+(b) having regard to the person’s likely influence, the broadcasting company will or will continue to conduct its business prudently and comply with the provisions of this Act; and
+
+(c) it is in the national interest to do so.
+
+(2) Any approval under this section may be granted to any person subject to such conditions as the Minister may determine, including but not limited to any condition —
+
+(a) restricting the person’s disposal or further acquisition of shares or voting power in the broadcasting company; or
+
+(b) restricting the person’s exercise of voting power in the broadcasting company.
+
+(3) Any condition imposed under subsection (2) shall have effect notwithstanding any of the provisions of the Companies Act (Cap. 50) or anything contained in the memorandum or articles of association, or other constitution, of the broadcasting company.
+
+(4) Where the Minister does not approve an application made by any person under section 45A(2) or (4) or 45B(2), the person shall, within such time as the Minister may specify, take such steps as are necessary —
+
+(a) in the case of section 45A(2), to cease to be a substantial shareholder;
+
+(b) in the case of section 45A(4), to cease to be a party to the agreement or arrangement; or
+
+(c) in the case of section 45B(2), to cease to be —
+
+(i) a 12% controller; or
+
+(ii) an indirect controller,
+
+as the case may be.
+
+[19/2002 wef 02/09/2002]
+
+### Power to make further transitional provisions
+
+45D\. The Minister may, by order published in theGazette, make such further transitional provisions as he considers necessary or expedient for the purposes of section 45A, 45B or 45C.
+
+[19/2002 wef 02/09/2002]
+
+### Objection to existing control of broadcasting company
+
+45E\.—(1) The Minister may serve a written notice of objection on any person referred to in section 45A or 45B if the Minister is satisfied that —
+
+(a) any condition of approval imposed on the person under section 45C(2) has not been complied with;
+
+(b) the person ceases to be a fit and proper person;
+
+(c) having regard to the person’s likely influence, the broadcasting company is no longer likely to conduct its business prudently or to comply with the provisions of this Act;
+
+(d) it is no longer in the national interest to allow the person to continue to be a party to the agreement or arrangement described in section 45A(3) or (4), or to continue to be a substantial shareholder, a 12% controller or an indirect controller, as the case may be;
+
+(e) the person has furnished false or misleading information or documents in connection with an application under section 45A or 45B; or
+
+(f) he would not have granted his approval under section 45C had he been aware, at that time, of the circumstances relevant to the person’s application for such approval.
+
+(2) Before the service of a written notice of objection, the Minister shall, unless he decides that it is not practicable or desirable to do so, cause to be given to the person concerned notice in writing of his intention to serve the written notice of objection, specifying a date by which the person may make written representations with regard to the proposed written notice of objection.
+
+(3) Upon receipt of the written representations of any person referred to in subsection (2), the Minister shall consider the written representations for the purpose of determining whether to issue a written notice of objection.
+
+(4) The Minister shall, in any written notice of objection, specify a reasonable period within which the person to be served the written notice of objection shall —
+
+(a) take such steps as are necessary to ensure that he ceases to be a party to the agreement or arrangement described in section 45A(3) or (4), or ceases to be a substantial shareholder, a 12% controller or an indirect controller, as the case may be; or
+
+(b) comply with such direction or restriction as the Minister may make under section 45F.
+
+(5) Any person served with a written notice of objection under this section shall comply with the notice.
+
+[19/2002 wef 02/09/2002]
+
+### Power to make directions
+
+45F\.—(1) Without prejudice to section 45G, if the Minister is satisfied that any person has contravened section 45A, 45B, 45C(4) or 45E(5) or any condition imposed under section 45C(2), or if the Minister has served a written notice of objection under section 45E, the Minister may, by notice in writing —
+
+(a) direct the transfer or disposal of all or any of the shares in the broadcasting company held by the person or any of his associates (referred to in this section as the specified shares) within such time and subject to such conditions as the Minister considers appropriate;
+
+(b) restrict the transfer or disposal of the specified shares; or
+
+(c) make such other direction or restriction as the Minister considers appropriate.
+
+(2) Any person to whom a notice is given under subsection (1) shall comply with such direction or restriction as may be specified in the notice.
+
+(3) In the case of any direction or restriction made under subsection (1)(a) or (b), notwithstanding any of the provisions of the Companies Act (Cap. 50) or anything contained in the memorandum or articles of association, or other constitution, of the broadcasting company —
+
+(a) no voting rights shall be exercisable in respect of the specified shares unless the Minister expressly permits such rights to be exercised;
+
+(b) no shares of the broadcasting company shall be issued or offered (whether by way of rights, bonus or otherwise) in respect of the specified shares unless the Minister expressly permits such issue or offer; and
+
+(c) except in a liquidation of the broadcasting company, no payment shall be made by the broadcasting company of any amount (whether by way of dividends or otherwise) in respect of the specified shares unless the Minister expressly authorises such payment,
+
+until a transfer or disposal is effected in accordance with the direction or until the restriction on a transfer or disposal is removed, as the case may be.
+
+(4) In this section, “associate” has the same meaning as in section 45B(4)(c).
+
+[19/2002 wef 02/09/2002]
+
+### Offences, penalties and defences
+
+45G\.—(1) Any person who contravenes section 45A, 45B(1)(a) or (2)(a) or 45C(4)(a), (b) or (c)(i) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+(2) Any person who contravenes section 45B(1)(b) or (2)(b), 45C(4)(c)(ii), 45E(5) or 45F(2) or any condition imposed under section 45C(2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+(3) Where a person is charged with an offence in respect of a contravention of section 45A or 45B, it shall be a defence for the person to prove that —
+
+(a) he was not aware that he had contravened section 45A or 45B, as the case may be; and
+
+(b) he has, within 14 days of becoming aware that he had contravened section 45A or 45B, as the case may be, notified the Minister of the contravention and, within such time as may be determined by the Minister, taken such actions in relation to his shareholding or control of the voting power in the broadcasting company as the Minister may direct.
+
+(4) Where a person is charged with an offence in respect of a contravention of section 45B(1), it shall also be a defence for the person to prove that, even though he was aware of the contravention —
+
+(a) the contravention occurred as a result of an increase in the shareholding as described in section 45B(4)(a) of, or in the voting power controlled by, any of his associates described in section 45B(4)(c)(i);
+
+(b) he has no agreement or arrangement, whether oral or in writing and whether express or implied, with that associate with respect to the acquisition, holding or disposal of shares or other interests in, or under which they act together in exercising their voting power in relation to, the broadcasting company; and
+
+(c) he has, within 14 days of the date of the contravention, notified the Minister of the contravention and, within such time as may be determined by the Minister, taken such action in relation to his shareholding or control of the voting power in the broadcasting company as the Minister may direct.
+
+(5) Except as provided in subsections (3) and (4), it shall not be a defence for a person charged with an offence in respect of a contravention of section 45A or 45B to prove that he did not intend to or did not knowingly contravene section 45A or 45B, as the case may be.
+
+[19/2002 wef 02/09/2002]
+
+### Power to obtain information
+
+45H\.—(1) The Authority may, by notice in writing, direct any broadcasting company to obtain from any of its shareholders and to transmit to the Authority information —
+
+(a) as to whether that shareholder holds any share in the broadcasting company as beneficial owner or as trustee; and
+
+(b) if the shareholder holds the share as trustee, to indicate, so far as he can, the person for whom he holds the share (either by name or by other particulars sufficient to enable that person to be identified) and the nature of his interest,
+
+and the broadcasting company shall comply with that direction within such time as may be specified in the notice.
+
+(2) The Authority may, by notice in writing, require any shareholder of a broadcasting company, or any person who appears from the information provided to the Authority under subsection (1) or this subsection to have an interest in any share in a broadcasting company, to inform the Authority —
+
+(a) whether he holds that interest as beneficial owner or as trustee, and if he holds the interest as trustee, to indicate, so far as he can, the person for whom he holds the interest (either by name or by other particulars sufficient to enable that person to be identified) and the nature of his interest; or
+
+(b) whether any share or any voting right attached to the share is the subject of an agreement or arrangement described in section 45A(3) or (4) or 45B(4)(c)(ix), and if so, to give particulars of the agreement or arrangement and the parties to it,
+
+and the person shall comply with that notice within such time as may be specified therein.
+
+(3) Any person who —
+
+(a) fails to comply with a notice under this section; or
+
+(b) in purported compliance of the notice, knowingly or recklessly makes a statement which is false in a material particular,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+[19/2002 wef 02/09/2002]
 
 ### Funds from foreign source for purposes of certain broadcasting service
 
@@ -924,7 +1214,7 @@ which permits broadcast which is capable of being received in 50,000 dwelling-ho
 
 (7) Nothing in this section shall apply to any dealing by any person in the shares of a broadcasting company quoted on a stock exchange in Singapore.
 
-(8) Any person who contravenes or fails to comply with subsection (1), (3) or (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both, and the court may, in addition to any other penalty that it may impose, order the forfeiture to the Authority of any fund which is the subject of the charge.
+(8) Any person who contravenes or fails to comply with subsection (1), (3) or (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both, and the court may, in addition to any other penalty that it may impose, order the forfeiture to the Authority of any fund which is the subject of the charge.
 
 (9) For the purposes of this section and section 47 —
 
@@ -934,15 +1224,57 @@ which permits broadcast which is capable of being received in 50,000 dwelling-ho
 
 (b) any company, association or society incorporated or constituted under any law in force outside Singapore whether or not it has a branch office or place of business in Singapore;
 
-(c) any person who is not a citizen of Singapore whether or not he is resident in Singapore; or
+(c) any person who is not a citizen of Singapore whether or not he is resident in Singapore;
+
+(ca) any —
+
+(i) body corporate formed or incorporated in Singapore, one or more of whose members or directors are not citizens of Singapore, or in the case of a member being another company, where one or more of the members or directors of such company are not citizens of Singapore; or
+
+(ii) unincorporated association or body constituted under any law in force in Singapore, one or more of whose members or directors are not citizens of Singapore, or in the case of a member being another company, where one or more of the members or directors of such company are not citizens of Singapore,
+
+as the Minister may, by notification in theGazette, declare to be a foreign source; or
+
+[19/2002 wef 02/09/2002]
 
 (d) such other source outside Singapore as the Minister may, by notification in theGazette, declare to be a foreign source;
 
-“fund” means money, securities, movable or immovable property or other valuable consideration.
+“fund” means money, securities, movable or immovable property or other valuable consideration;
+
+“funds from a foreign source”, with its grammatical variations, includes funds provided by a foreign source indirectly through any agent of the foreign source.
+
+[19/2002 wef 02/09/2002]
 
 ### Broadcasting company owned by foreign source
 
-47\. No company shall, unless the Authority otherwise approves, be granted or hold a relevant licence if the Authority is satisfied that 49% or more of its issued and paid-up capital is owned by or on behalf of any foreign source or that all or a majority of the persons having the direction, control or management of the company are appointed by or on behalf of the government of a country outside Singapore or the agent of any such government.
+47\.—(1) No company shall, unless the Minister otherwise approves, be granted or hold a relevant licence if the Minister is satisfied that —
+
+(a) any foreign source, alone or together with one or more other foreign sources —
+
+(i) holds not less than 49% of the shares in the company or its holding company; or
+
+(ii) is in a position to control voting power of not less than 49% in the company or its holding company; or
+
+(b) all or a majority of the persons having the direction, control or management of the company or its holding company are —
+
+(i) appointed by; or
+
+(ii) accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of,
+
+any foreign source, whether acting alone or together with one or more other foreign sources.
+
+(2) Where the Minister does not grant his approval under subsection (1) for a company to hold a relevant licence (whether such licence is granted before, on or after the appointed day), the Authority shall, within such time and in such manner as the Minister may specify, cancel the licence by notice in writing and without any compensation.
+
+(3) For the purposes of this section —
+
+(a) a person holds a share if —
+
+(i) he is deemed to have an interest in that share under section 7(6) to (10) of the Companies Act (Cap. 50); or
+
+(ii) he otherwise has a legal or an equitable interest in that share except for such interest as is to be disregarded under section 7(6) to (10) of the Companies Act;
+
+(b) a reference to the control of a percentage of the voting power in a broadcasting company is a reference to the control, whether direct or indirect, of that percentage of the total number of votes that might be cast in a general meeting of the broadcasting company.
+
+[19/2002 wef 02/09/2002]
 
 ### Appeal under this Part
 
@@ -1164,9 +1496,31 @@ and may search any person so arrested, except that no female shall be searched e
 
 68\. Proceedings in respect of any offence under this Act or the regulations may be conducted by an officer of the Authority or an officer of the Government authorised in writing in that behalf by the Chief Executive.
 
-### Offence by body corporate
+### Corporate offenders and unincorporated associations
 
-69\. Where an offence under this Act or the regulations is committed by a body corporate, and it is proved to have been committed with the consent or connivance of, or to be attributable to any act or default on the part of, any director, manager, secretary or other similar officer of the body corporate, or any person who was purporting to act in any such capacity, he, as well as the body corporate, shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+69\.—(1) Where an offence under this Act committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, an officer of the body corporate, the officer as well as the body corporate shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+(2) Where the affairs of the body corporate are managed by its members, subsection (1) shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
+
+(3) Proceedings for an offence alleged to have been committed under this Act by an unincorporated association shall be brought against the association in its own name (and not in that of any of its members) and, for the purposes of any such proceedings, any rules of court relating to service of documents shall have effect as if the association were a corporation.
+
+(4) Where an offence under this Act committed by a partnership is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner, the partner as well as the partnership shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+(5) Where an offence under this Act committed by an unincorporated association (other than a partnership) is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, an officer of the association or a member of its governing body, the officer or member as well as the association shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+(6) Without prejudice to the generality of section 79, the Authority may make regulations to provide for the application of any provision of this section, with such modifications as the Authority considers appropriate, to a body corporate or unincorporated association formed or recognised under the law of a country or territory outside Singapore.
+
+(7) In this section —
+
+“officer” —
+
+(a) in relation to a body corporate, means a director, member of the committee of management, chief executive, manager, secretary or other similar officer of the body, or a person purporting to act in any such capacity; or
+
+(b) in relation to an unincorporated association (other than a partnership), means the president, the secretary and members of the committee of the association and includes persons holding positions analogous to those of president, secretary or member of a committee;
+
+“partner” includes a person purporting to act as a partner.
+
+[19/2002 wef 02/09/2002]
 
 ### Power to compound offences
 
@@ -1202,7 +1556,13 @@ may appeal to the Minister.
 
 ### Exemption
 
-73\. The Minister may, in his discretion, and subject to such conditions as he may think fit, exempt any person or class of persons from all or any of the provisions of this Act or the regulations.
+73\. The Minister may, subject to such terms and conditions as he may impose, by order published in theGazette, exempt —
+
+(a) any class or description of shares or interests in shares from section 45A or 45B or both; and
+
+(b) any person or class of persons from all or any of the provisions of this Act or any subsidiary legislation made thereunder.
+
+[19/2002 wef 02/09/2002]
 
 ### Equipment of licensee not subject to distress, etc.
 
@@ -1620,4 +1980,11 @@ This Legislative History is provided for the convenience of users of the Singapo
 |||(Bill No. 7/2002 published on 4 May 2002)|
 ||Date of Second and Third Readings|24 May 2002|
 ||Date of commencement|15 July 2002 (except item (18) of Schedule)|
-|||29 July 2002 (Item (18) of the Schedule)|
+
+|
+29 July 2002 (Item (18) of the Schedule)|
+|8.|**Act 19 of 2002—Singapore Broadcasting Authority (Amendment) Act 2002**|
+||Date of First Reading|23 May 2002|
+|||(Bill No. 19/2002 published on 24 May 2002)|
+||Date of Second and Third Readings|8 July 2002|
+||Date of commencement|2 September 2002|
