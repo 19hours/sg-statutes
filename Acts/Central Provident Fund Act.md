@@ -328,11 +328,7 @@ PRELIMINARY
 
 (3) All deeds, documents and other instruments requiring the common seal of the Board shall be sealed with the common seal of the Board.
 
-[36/2002 wef 01/03/2003]
-
 (3A) All instruments to which the common seal is affixed shall be signed by any 2 officers of the Board generally or specially authorised by the Board for the purpose.
-
-[36/2002 wef 01/03/2003]
 
 (4) The Board may by resolution or otherwise appoint an officer of the Board or any other agent either generally or in a particular case to execute or sign on behalf of the Board any agreement or other instrument not under seal in relation to any matter coming within the powers of the Board.
 
@@ -398,15 +394,11 @@ PRELIMINARY
 
 4A\.—(1) The Board shall, with the President’s concurrence under Article 22A(1)(b) of the Constitution, appoint a chief executive officer on such terms and conditions as the Board may determine.
 
-[36/2002 wef 01/03/2003]
-
 (1A) The chief executive officer shall be —
 
 (a) known by such designation as the Board may determine; and
 
 (b) responsible to the Board for the proper administration and management of its functions and affairs in accordance with all policies laid down by the Board.
-
-[36/2002 wef 01/03/2003]
 
 (2) The Board shall have power to engage a staff consisting of such officers and employees as are in the opinion of the Board necessary for the purpose of carrying out the provisions of this Act.
 
@@ -2652,7 +2644,7 @@ Sections 7, 8, 70, 75 and 77
 
 Rates of Contribution
 
-1. Subject to paragraphs 2 to 7, with effect from 1st October 2002, the contributions payable by the employer and the amount recoverable from the employee’s wages are as follows:
+1. Subject to paragraphs 2 to 7, with effect from 1st October 2003, the contributions payable by the employer and the amount recoverable from the employee’s wages are as follows:
 
 1A. Subject to paragraphs 1E to 7, with effect from 1st March 2011, the contributions payable by the employer (at graduated rates) and the amount recoverable from the employee’s wages (at graduated rates) during the period beginning on the date the employee becomes a permanent resident and ending on the last day of the first anniversary month, are as follows:
 
@@ -4126,81 +4118,87 @@ then the agreed rates of the contribution shall continue to apply in relation to
 
 (29) Maritime and Port Authority of Singapore.
 
-(30) Monetary Authority of Singapore.
+(30) Media Development Authority.
 
-(31) Nanyang Polytechnic.
+(31) Monetary Authority of Singapore.
 
-(32) Nanyang Technological University.
+(32) Nanyang Polytechnic.
 
-(33) National Arts Council.
+(33) Nanyang Technological University.
 
-(34) National Council of Social Service.
+(34) National Arts Council.
 
-(35) National Environment Agency.
+(35) National Council of Social Service.
 
-(36) National Heritage Board.
+(36) National Environment Agency.
 
-(37) National Institute of Education.
+(37) National Heritage Board.
 
-(38) National Library Board.
+(38) National Institute of Education.
 
-(39) National Parks Board.
+(39) National Library Board.
 
-(40) National University of Singapore.
+(40) National Parks Board.
 
-(41) Ngee Ann Polytechnic.
+(41) National University of Singapore.
 
-(42) People’s Association.
+(42) Ngee Ann Polytechnic.
 
-(43) Pharmacy Board.
+(43) People’s Association.
 
-(44) Preservation of Monuments Board.
+(44) Pharmacy Board.
 
-(45) Professional Engineers Board.
+(45) Preservation of Monuments Board.
 
-(46) Public Accountants Board.
+(46) Professional Engineers Board.
 
-(47) Public Transport Council.
+(47) Public Accountants Board.
 
-(48) Public Utilities Board.
+(48) Public Transport Council.
 
-(49) Science Centre Board.
+(49) Public Utilities Board.
 
-(50) Sentosa Development Corporation.
+(50) Republic Polytechnic.
 
-(51) Sikh Advisory Board.
+(51) Science Centre Board.
 
-(52) Singapore Broadcasting Authority.
+(52) Sentosa Development Corporation.
 
-(53) Singapore Corporation of Rehabilitative Enterprises.
+(53) Sikh Advisory Board.
 
-(54) Singapore Dental Council.
+(54) Singapore Corporation of Rehabilitative Enterprises.
 
-(55) Singapore Labour Foundation.
+(55) Singapore Dental Council.
 
-(56) Singapore Land Authority.
+(56) Singapore Labour Foundation.
 
-(57) Singapore Medical Council.
+(57) Singapore Land Authority.
 
-(58) Singapore Nursing Board.
+(58) Singapore Medical Council.
 
-(59) Singapore Polytechnic.
+(59) Singapore Nursing Board.
 
-(60) Singapore Sports Council.
+(60) Singapore Polytechnic.
 
-(61) Singapore Totalisator Board.
+(61) Singapore Sports Council.
 
-(62) Singapore Tourism Board.
+(62) Singapore Totalisator Board.
 
-(63) Specialist Accreditation Board.
+(63) Singapore Tourism Board.
 
-(64) Standards, Productivity and Innovation Board (Spring Singapore).
+(64) Singapore Workforce Development Agency
 
-(65) Traditional Chinese Medicine Practitioners Board.
+(65) Specialist Accreditation Board.
 
-(66) Temasek Polytechnic.
+(66) Standards, Productivity and Innovation Board (Spring Singapore).
 
-(67) Urban Redevelopment Authority
+(67) Temasek Polytechnic.
+
+(68) Traditional Chinese Medicine Practitioners Board.
+
+(69) Urban Redevelopment Authority.
+
+[S 468/2003 wef 01/10/2003]
 
 7. Contributions shall be payable for and recoverable from the wages of such employees who are —
 
@@ -4826,6 +4824,8 @@ This Legislative History is provided for the convenience of users of the Central
 |||(Bill No. 34/2002 published on 2 October 2002)|
 ||Date of Second and Third Readings|31 October 2002|
 ||Dates of commencement|1 March 2003 (sections 2 and 3)|
+|130.|**G.N. No. S 468/2003—Central Provident Fund Act (Amendment of First Schedule) Notification 2003**|
+||Date of commencement|1 October 2003|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
