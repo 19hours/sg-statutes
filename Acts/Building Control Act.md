@@ -128,7 +128,7 @@
 
 - [54 Transitional provisions](#Transitional-provisions)
 
-[**THE SCHEDULE Building Works Which Do Not Require Approval of Plans of Building Works or Permit to Carry Out Building Works**](#THE-SCHEDULE)
+[**THE SCHEDULE BUILDING WORKS WHICH DO NOT REQUIRE APPROVAL OF PLANS OF BUILDING WORKS OR a PERMIT TO CARRY OUT BUILDING WORKS**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -1324,79 +1324,63 @@ and such building shall be deemed unauthorised for the purposes of this Act.
 
 Section 4
 
-Building Works Which Do Not Require Approval of Plans of Building Works or Permit to Carry Out Building Works
+BUILDING WORKS WHICH DO NOT REQUIRE APPROVAL OF PLANS OF BUILDING WORKS OR a PERMIT TO CARRY OUT BUILDING WORKS
 
-1. In this Schedule —
+1. Building works carried out for or in connection with —
 
-“compartment wall” and “compartment floor” mean a wall and a floor, respectively, which is provided for the purpose of dividing a building into compartments to limit the spread of fire or to contain a fire;
+(a) any retaining wall, or earth retaining structure, with a visible height of not more than 1,000 mm;
 
-“Construction Industry Development Board” means the Construction Industry Development Board established under the Construction Industry Development Board Act (Cap. 51);
+(b) any boundary wall, boundary fence or gate;
 
-[S 96/98 wef 13/03/1998]
+(c) any awning, windowhood or cantilevered roof constructed of glazed or clay tiles, and having a projection not exceeding 1,400 mm;
 
-“non-load bearing wall” means a wall which supports no load other than its own weight;
+(d) any awning, windowhood or cantilevered roof constructed of lightweight material, and having a horizontal projection not exceeding 3,000 mm;
 
-“partition” means a temporary or easily removable vertical structure made of panel work, covered with metal, wood or plaster sheets or other material for the subdivision of spaces within a building;
+(e) any single storey trellis, pergola, shelter, gazebo and the like;
 
-“protected shaft” means a stairway, exit passageway, duct or other shaft which enables persons, things or air to pass between different compartments ;
+(f) any canal or drain not exceeding 1,500 mm in depth;
 
-“trained worker” means a person who holds a certificate issued by the Construction Industry Development Board for installing a structural supporting system to support a window air- conditioning unit or a condensing equipment of an air-conditioning unit which is installed —
+(g) any box culvert with a span not exceeding 5,000 mm and a depth not exceeding 1,500 mm;
 
-(a) on the exterior of a building; or
+(h) any stall or shed of lightweight material within any premises used for the purpose of holding a trade fair, fun fair or any exhibition;
 
-(b) in such a manner that a part of such unit or equipment projects outwards from a building.
+(i) any pipe rack or support not exceeding 2,000 mm in height;
 
-[S 96/98 wef 13/03/1998]
+(j) any height restriction gantry;
 
-2. Any building works carried out for or in connection with —
+(k) any concrete or brick vault used for housing underground tanks;
 
-(a) any retaining wall or any earth retaining structure with a visible height of not more than one metre;
+(l) any plinth, platform or other base with a visible height not exceeding 1,000 mm from the ground level and erected for the purpose of supporting any mechanical plant, tank, equipment, machinery or other components (other than a building);
 
-(b) any windowhood of less than 1.2 metres projection erected within the boundaries of any non-residential building lot;
+(m) the enclosing of a balcony, yard or terrace with windows and glass panels in residential buildings;
 
-(c) any boundary wall or fence not exceeding 1.8 metres in height provided that the wall or fence —
+(n) the creation of any opening in a non-load bearing wall or the sealing up of any wall opening; or
 
-(i) is not erected on top of any retaining wall having a visible height of more than one metre; and
+(o) the demolition, restoration or reinstatement of any non-load bearing wall.
 
-(ii) if the boundary wall fronts any street or road, has a planting strip not less than 0.3 metre wide;
+2\. Replacement or changing of windows and doors.
 
-(d) any simple awning, windowhood, open shed of lightweight construction (to the side and rear boundaries of a lot only) forming part of a bungalow, semi-detached, terraced or linked house used solely for residential purposes where —
+3\. Replacement of existing floor and wall finishes.
 
-(i) a boundary clearance of not less than 1.6 metres is maintained; and
+4\. Replacement or changing of any false ceiling with lightweight materials.
 
-(ii) the supporting columns, posts, pillars or piers are set not less than 2.3 metres away from the boundary;
+5\. One to one replacement of timber roof and roof covering.
 
-(e) pergolas forming part of a building used solely for residential purposes;
+6. Erection or alteration of —
 
-(f) any dog kennel not exceeding an area of 5 square metres forming part of any premises used solely for residential purposes;
+(a) any partition or partition wall in any bungalow, semi-detached, terrace or linked house; or
 
-(g) any aviary or aquarium not exceeding an area of 10 square metres forming part of any premises used solely for residential purposes;
+(b) any partition or partition wall constructed of lightweight material in any other building.
 
-(h) any pre-fabricated portable swimming or wading pool on the ground situated within the curtilage of a dwelling house and having an area not exceeding 10 square metres and which is above ground;
+7\. Construction of any raised floor, or the topping up of balconies, and the like, with lightweight materials.
 
-(i) any barbecue pit forming part of any premises used solely for residential purposes;
+8\. Erection of any single storey detached booth, kiosk, guardhouse, bin centre, and the like, not exceeding an area of 10 square metres.
 
-(j) any simple proprietary type playground equipment comprising standard section or modules situated on premises which are used solely for residential purposes; or
+9\. Installation of any roller shutter or grilled door.
 
-(k) any stall or shed of lightweight construction within any premises for the purpose of holding a trade fair, fun fair or any exhibition.
+10\. Erection of any single storey lean-to extension with roof covering of glazed or clay tiles, or of any lighter material, in any bungalow, semi-detached, terrace or linked house, subject to compliance with building set-back and area of coverage requirements under the Planning Act (Cap.232).
 
-3\. Replacement of fixed or adjustable louvres with sliding or casement windows which will occupy an area not exceeding the aggregate area occupied by the fixed or adjustable louvres.
-
-4\. Replacement of any existing floor and wall finishes.
-
-5\. Replacement of any false ceiling with lightweight and non-combustible materials without affecting any existing fire-protection system and the ceiling height.
-
-6\. Changing of roof covering using materials similar to those of the original roof covering or materials which are lighter in weight than the original.
-
-7\. Erection of internal lightweight partitions in any building used solely for residential purposes where the size, lighting and ventilation of the resulting rooms comply with the building regulations or the demolition of such lightweight partitions.
-
-8\. Construction of any raised floor with lightweight materials on any premises used solely for residential purposes.
-
-9\. Erection of internal lightweight partitions of non-combustible materials within the tenancy areas which do not obstruct or impede or hinder the use of any means of escape or fire fighting or protection equipment or the demolition of such internal lightweight partitions.
-
-10\. Installation of any roller shutter or grilled door in the front of any shop or warehouse unit which is not air-conditioned provided the roller shutter or grilled door is not installed at exits or protected staircases in the shop or warehouse unit.
-
-11\. Alterations to any lightweight demountable partitions of units within any commercial complex provided they do not form the building envelope or part of any compartment wall or part thereof, or effect any means of escape or fire fighting or protection system.
+11\. Erection of any single storey shed or hut not exceeding an area of 10 square metres for housing fuel tanks, mechanical or electrical equipment.
 
 12. All air-conditioning works except that in the case of any window air-conditioning unit, or any condensing equipment of an air-conditioning unit, that is installed —
 
@@ -1406,17 +1390,31 @@ Building Works Which Do Not Require Approval of Plans of Building Works or Permi
 
 the unit or equipment, as the case may be, must be supported by a structural supporting system installed on the exterior of the building by a trained worker, and the unit or equipment must be affixed to the structural supporting system by a trained worker.
 
+13\. Nothing in this Schedule shall exempt any person from complying with the requirements of any other written law.
+
+14. In this Schedule —
+
+“Construction Industry Development Board” means the Construction Industry Development Board established by the Construction Industry Development Board Act (Cap. 51);
+
+“lightweight material” means —
+
+(a) any sheet or board material such as timber board, plywood, fibreboard, plasterboard, aluminium sheet, corrugated metal sheet or polycarbonate sheet;
+
+(b) any concrete product made with lightweight aggregates such as pumice, perlite, vermiculite or other soft or light material; or
+
+(c) any hollow concrete block, hollow glass block, autoclaved aerated concrete block and the like;
+
+“non-load bearing wall” means a wall which supports no load other than its own weight;
+
+“partition” means a temporary or easily removable vertical panel of lightweight construction for the subdivision of spaces within a building;
+
+“trained worker” means a person who holds a certificate issued by the Construction Industry Development Board for installing a structural supporting system to support a window air-conditioning unit or a condensing unit that is installed —
+
+(a) on the exterior of a building; or
+
+(b) in such a manner that a part of such unit or equipment projects outwards from a building.
+
 [S 96/98 wef 13/03/1998]
-
-13\. One to one replacement of air-conditioning equipment or ductwork not affecting any compartment wall, compartment floor, protected shaft, fire protection equipment or the structural integrity of the building.
-
-14\. Alterations to ductwork which do not affect any compartment wall and floor or any fire protection equipment.
-
-15. Installation of any mechanical ventilation system not affecting —
-
-(a) any compartment wall other than for or in connection with a car park or kitchen; or
-
-(b) any smoke control system.
 
 ## LEGISLATIVE HISTORY
 
@@ -1474,3 +1472,5 @@ This Legislative History is provided for the convenience of users of the Buildin
 ||Date of commencement|1 April 1996|
 |9.|**G. N. No. S 310/1997—Building Control Act (Amendment of Schedule) Order 1997**|
 ||Date of commencement|7 July 1997|
+|10.|**G. N. No. S 96/1998—Building Control Act (Amendment of Schedule) Order 1998**|
+||Date of commencement|13 March 1998|
