@@ -2776,3 +2776,8 @@ This Legislative History is provided for the convenience of users of the Economi
 ||Date of commencement|1 December 1995|
 |16.|**1996 Revised Edition—Economic Expansion Incentives (Relief from Income Tax) Act**|
 ||Date of operation|30 April 1996|
+|17.|**Act 36 of 1996—Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 1996**|
+||Date of First Reading|1 October 1996|
+|||(Bill No. 32/96 published on 1 October 1996)|
+||Date of Second and Third Readings|10 October 1996|
+||Date of commencement|25 October 1996|
