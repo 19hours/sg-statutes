@@ -36,13 +36,13 @@
 
 - [14 Other written laws not affected](#Other-written-laws-not-affected)
 
-[**Part II Administration**](#Part-II)
+[**Part II ADMINISTRATION**](#Part-II)
 
 - [15 Appointment of Director, Deputy Director and Assistant Directors of Hazardous Waste](#Appointment-of-Director-Deputy-Director-and-Assistant-Directors-of-Hazardous-Waste)
 
 - [16 Appointment of authorised officers](#Appointment-of-authorised-officers)
 
-[**Part III Import, Export and Transit Permits**](#Part-III)
+[**Part III IMPORT, EXPORT AND TRANSIT PERMITS**](#Part-III)
 
 - [17 Regulations to give effect to Basel Convention](#Regulations-to-give-effect-to-Basel-Convention)
 
@@ -60,7 +60,7 @@
 
 - [24 Applications and notices to be accompanied by fees](#Applications-and-notices-to-be-accompanied-by-fees)
 
-[**Part IV Regulation of Import, Export and Transit of Hazardous and Other Wastes**](#Part-IV)
+[**Part IV REGULATION OF IMPORT, EXPORT AND TRANSIT OF HAZARDOUS AND OTHER WASTES**](#Part-IV)
 
 - [25 Prohibition of import](#Prohibition-of-import)
 
@@ -68,7 +68,7 @@
 
 - [27 Prohibition of bringing waste into Singapore in course of carrying out transit proposal](#Prohibition-of-bringing-waste-into-Singapore-in-course-of-carrying-out-transit-proposal)
 
-[**Part V Enforcement**](#Part-V)
+[**Part V ENFORCEMENT**](#Part-V)
 
 - [28 Injunctions](#Injunctions)
 
@@ -92,7 +92,7 @@
 
 - [38 Part does not limit power to impose permit conditions](#Part-does-not-limit-power-to-impose-permit-conditions)
 
-[**Part VI Miscellaneous**](#Part-VI)
+[**Part VI MISCELLANEOUS**](#Part-VI)
 
 - [39 Evidentiary certificate — classification of hazardous or other waste](#Evidentiary-certificate-—-classification-of-hazardous-or-other-waste)
 
@@ -101,6 +101,8 @@
 - [41 Evidence of analyst](#Evidence-of-analyst)
 
 - [42 Offences by body corporate](#Offences-by-body-corporate)
+
+- [42A Jurisdiction of District Court](#Jurisdiction-of-District-Court)
 
 - [43 Protection from personal liability](#Protection-from-personal-liability)
 
@@ -114,7 +116,7 @@
 
 - [48 Regulations](#Regulations)
 
-[**THE SCHEDULE Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and their Disposal**](#THE-SCHEDULE)
+[**THE SCHEDULE Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and their disposal**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -309,7 +311,7 @@ the territory is taken to be a party to the Basel Convention.
 
 a person or an organisation that officially represents the territory is taken to be a competent authority of the territory.
 
-(3) Subsection (2) has effect despite anything in the definition of "competent authority" in section 2(1).
+(3) Subsection (2) has effect despite anything in the definition of “competent authority” in section 2(1).
 
 ### Meaning of hazardous and other wastes
 
@@ -463,7 +465,7 @@ the holder of the permit is taken to have breached that condition at the end of 
 
 ## PART II
 
-Administration
+ADMINISTRATION
 
 ### Appointment of Director, Deputy Director and Assistant Directors of Hazardous Waste
 
@@ -491,7 +493,7 @@ for the purposes of this Act.
 
 ## PART III
 
-Import, Export and Transit Permits
+IMPORT, EXPORT AND TRANSIT PERMITS
 
 ### Regulations to give effect to Basel Convention
 
@@ -687,12 +689,12 @@ the Director shall not grant the permit unless he is satisfied that the correspo
 
 ## PART IV
 
-Regulation of Import, Export and Transit of
+REGULATION OF IMPORT, EXPORT AND TRANSIT OF
 
 
 
 
-Hazardous and Other Wastes
+HAZARDOUS AND OTHER WASTES
 
 ### Prohibition of import
 
@@ -758,7 +760,7 @@ Hazardous and Other Wastes
 
 ## PART V
 
-Enforcement
+ENFORCEMENT
 
 ### Injunctions
 
@@ -986,7 +988,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ## PART VI
 
-Miscellaneous
+MISCELLANEOUS
 
 ### Evidentiary certificate — classification of hazardous or other waste
 
@@ -1043,6 +1045,12 @@ Miscellaneous
 (ii) mitigating any such injury or damage;
 
 (e) that the body’s employees, agents and contractors have a reasonable knowledge and understanding of the requirements of this Act, in so far as those requirements affect the employees, agents or contractors concerned.
+
+### Jurisdiction of District Court
+
+42A\. Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
+
+[9/2003 wef 16/05/2003]
 
 ### Protection from personal liability
 
@@ -1117,9 +1125,11 @@ Basel Convention on the Control of Transboundary
 
 
 
-Movements of Hazardous Wastes and their Disposal
+Movements of Hazardous Wastes and their disposal
 
-Note: The following text incorporates corrections made by the Rectifications of 4 November 1992 and 16 May 1994.
+Note:
+
+The following text incorporates corrections made by the Rectifications of 4 November 1992 and 16 May 1994.
 
 Preamble
 
@@ -1157,7 +1167,7 @@ Affirmingthat States are responsible for the fulfilment of their international o
 
 Recognizingthat in the case of a material breach of the provisions of this Convention or any protocol thereto the relevant international law of treaties shall apply,
 
-Awareof the need to continue the development and implementation of environmentally sound low-waste technologies, recycling options, good house- keeping and management systems with a view to reducing to a minimum the generation of hazardous wastes and other wastes,
+Awareof the need to continue the development and implementation of environmentally sound low-waste technologies, recycling options, good house-keeping and management systems with a view to reducing to a minimum the generation of hazardous wastes and other wastes,
 
 Aware alsoof the growing international concern about the need for stringent control of transboundary movement of hazardous wastes and other wastes, and of the need as far as possible to reduce such movement to a minimum,
 
@@ -1241,7 +1251,7 @@ For the purposes of this Convention:
 
 Article 3
 
-National Definations of Hazardous Wastes
+National Definitions of Hazardous Wastes
 
 1\. Each Party shall, within six months of becoming a Party to this Convention, inform the Secretariat of the Convention of the wastes, other than those listed in Annexes I and II, considered or defined as hazardous under its national legislation and of any requirements concerning transboundary movement procedures applicable to such wastes.
 
@@ -1547,27 +1557,47 @@ Secretariat
 
 (g) To receive and convey information from and to Parties on;
 
-— sources of technical assistance and training;
+—
 
-— available technical and scientific know-how;
+sources of technical assistance and training;
 
-— sources of advice and expertise; and
+—
 
-— availability of resources
+available technical and scientific know-how;
+
+—
+
+sources of advice and expertise; and
+
+—
+
+availability of resources
 
 with a view to assisting them, upon request, in such areas as:
 
-— the handling of the notification system of this Convention;
+—
 
-— the management of hazardous wastes and other wastes;
+the handling of the notification system of this Convention;
 
-— environmentally sound technologies relating to hazardous wastes and other wastes, such as low - and non-waste technology;
+—
 
-— the assessment of disposal capabilities and sites;
+the management of hazardous wastes and other wastes;
 
-— the monitoring of hazardous wastes and other wastes; and
+—
 
-— emergency responses;
+environmentally sound technologies relating to hazardous wastes and other wastes, such as low - and non-waste technology;
+
+—
+
+the assessment of disposal capabilities and sites;
+
+—
+
+the monitoring of hazardous wastes and other wastes; and
+
+—
+
+emergency responses;
 
 (h) To provide Parties, upon request, with information on consultants or consulting firms having the necessary technical competence in the field, which can assist them to examine a notification for a transboundary movement, the concurrence of a shipment of hazardous wastes or other wastes with the relevant notification, and/or the fact that the proposed disposal facilities for hazardous wastes or other wastes are environmentally sound, when they have reason to believe that the wastes in question will not be managed in an environmentally sound manner. Any such examination would not be at the expense of the Secretariat;
 
@@ -1645,7 +1675,7 @@ This Convention shall be open for signature by States, by Namibia, represented b
 
 Article 22
 
-Ractification, Acceptance, Formal Confirmation or Approval
+Ratification, Acceptance, Formal Confirmation or Approval
 
 1\. This Convention shall be subject to ratification, acceptance or approval by States and by Namibia, represented by the United Nations Council for Namibia, and to formal confirmation or approval by political and/or economic integration organizations. Instruments of ratification, acceptance, formal confirmation, or approval shall be deposited with the Depositary.
 
@@ -1903,7 +1933,7 @@ Organohalogen compounds other than substances referred to in this Annex (eg. Y39
 
 Annex II
 
-Catergories of Wastes Requiring
+Categories of Wastes Requiring
 
 
 
@@ -2040,7 +2070,7 @@ Capable, by any means, after disposal, of yielding another material, e.g., leach
 
 * Corresponds to the hazard classification system included in the United Nations Recommendations on the Transport of Dangerous Goods (ST/SG/AC.10/1/Rev.5, United Nations, New York, 1988).
 
-Tests
+TESTS
 
 The potential hazards posed by certain types of wastes are not yet fully documented; tests to define quantitatively these hazards do not exist. Further research is necessary in order to develop means to characterise potential hazards posed to man and/or the environment by these wastes. Standardized tests have been derived with respect to pure substances and materials. Many countries have developed national tests which can be applied to materials listed in Annex I, in order to decide if these materials exhibit any of the characteristics listed in this Annex.
 
@@ -2162,7 +2192,7 @@ Land treatment resulting in benefit to agriculture or ecological improvement
 
 R11
 
-Uses of residual materials obtained from any of the operations numbered R1
+Uses of residual materials obtained from any of the operations numbered R1 — R10
 
 R12
 
@@ -2172,7 +2202,7 @@ R13
 
 Accumulation of material intended for any operation in Section B.
 
-Annex VA
+Annex v A
 
 Information to be Provided on Notification
 
@@ -2263,23 +2293,39 @@ Information transmitted (including technical description of the plant) to the ex
 
 Information concerning the contract between the exporter and disposer.
 
+________________________________________________________________
+
 Notes
 
-1\. Full name and address, telephone, telex or telefax number and the name, address, telephone, telex or telefax number of the person to be contacted.
+1. 
 
-2\. Full name and address, telephone, telex or telefax number.
+Full name and address, telephone, telex or telefax number and the name, address, telephone, telex or telefax number of the person to be contacted.
 
-3\. In the case of a general notification covering several shipments, either the expected dates of each shipment or, if this is not known, the expected frequency of the shipments will be required.
+2. 
 
-4\. Information to be provided on relevant insurance requirements and how they are met by exporter, carrier and disposer.
+Full name and address, telephone, telex or telefax number.
 
-5\. The nature and the concentration of the most hazardous components, in terms of toxicity and other dangers presented by the waste both in handling and in relation to the proposed disposal method.
+3. 
 
-6\. In the case of a general notification covering several shipments, both the estimated total quantity and the estimated quantities for each individual shipment will be required.
+In the case of a general notification covering several shipments, either the expected dates of each shipment or, if this is not known, the expected frequency of the shipments will be required.
 
-7\. Insofar as this is necessary to assess the hazard and determine the appropriateness of the proposed disposal operation.
+4. 
 
-Annex VB
+Information to be provided on relevant insurance requirements and how they are met by exporter, carrier and disposer.
+
+5. 
+
+The nature and the concentration of the most hazardous components, in terms of toxicity and other dangers presented by the waste both in handling and in relation to the proposed disposal method.
+
+6. 
+
+In the case of a general notification covering several shipments, both the estimated total quantity and the estimated quantities for each individual shipment will be required.
+
+7. 
+
+Insofar as this is necessary to assess the hazard and determine the appropriateness of the proposed disposal operation.
+
+Annex V B
 
 Information to be Provided on the
 
@@ -2343,6 +2389,8 @@ Declaration by the generator or exporter indicating no objection from the compet
 14.
 
 Certification by disposer of receipt at designated disposal facility and indication of method of disposal and of the approximate date of disposal.
+
+________________________________________________________________
 
 Notes
 
@@ -2414,7 +2462,7 @@ Hazardous Waste (Control of Export, Import and Transit) Act
 
 (CHAPTER 122A)
 
-This Legislative History is provided for the convenience of users of the Hazardous Waste (Control of Export, Import and Transit) Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Hazardous Waste (Control of Export, Import and Transit) Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -2424,3 +2472,8 @@ This Legislative History is provided for the convenience of users of the Hazardo
 ||Date of commencement|16 March 1998|
 |2.|**1998 Revised Edition—Hazardous Waste (Control of Export, Import and Transit) Act**|
 ||Date of operation|30 May 1998|
+|3.|**Act 9 of 2003—Statutes (Miscellaneous Amendments) Act 2003**|
+||Date of First Reading|20 March 2003|
+|||(Bill No. 7/2003 published on 21 March 2003)|
+||Date of Second and Third Readings|24 April 2003|
+||Date of commencement|16 May 2003|
