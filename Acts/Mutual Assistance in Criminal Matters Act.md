@@ -186,7 +186,7 @@ PRELIMINARY
 
 (b) any special investigator of the Corrupt Practices Investigation Bureau appointed under section 3(2) of the Prevention of Corruption Act (Cap. 241);
 
-(c) any Commercial Affairs Officer appointed under section 58A of the Police Force Act (Cap. 235);
+(c) any Commercial Affairs Officer appointed under section 64 of the Police Force Act 2004;
 
 (d) any police officer; or
 
@@ -1687,6 +1687,12 @@ This Legislative History is provided for the convenience of users of the Mutual 
 ||Date of commencement|1 November 2000|
 |3.|**2001 Revised Edition—Mutual Assistance in Criminal Matters Act**|
 ||Date of operation|31 December 2001|
+|4.|**Act 24 of 2004—Police Force Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|19 May 2004|
+|||(Bill No. 22/2004 published on 20 May 2004)|
+||Date of Second and Third Readings|15 June 2004|
+||Date of commencement|12 October 2004|
 ## COMPARATIVE TABLE
 
 Mutual Assistance in Criminal Matters Act
