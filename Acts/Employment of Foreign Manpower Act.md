@@ -1,14 +1,12 @@
-**Employment of Foreign Workers Act 1990**
+**Employment of Foreign Manpower Act**
 
-**(No. 21 of 1990)**
+**(CHAPTER 91A)**
 
 **Table of Contents**
 
 [**Long Title**](#Employment-of-Foreign-Manpower-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -32,9 +30,9 @@
 
 - [12 Extent of validity of work permit](#Extent-of-validity-of-work-permit)
 
-- [13 Custody of work permit, etc](#Custody-of-work-permit-etc)
+- [13 Custody of work permit, etc.](#Custody-of-work-permit-etc)
 
-- [14 Loss of work permit](#Loss-of-work-permit)
+- [14 Loss, etc., of work permit](#Loss-etc-of-work-permit)
 
 - [15 Onus of proof](#Onus-of-proof)
 
@@ -54,51 +52,33 @@
 
 - [23 Compounding of offences](#Compounding-of-offences)
 
-- [24 Effect of contravention of section 9 (1)](#Effect-of-contravention-of-section-9-1)
+- [24 Effect of contravention of section 9(1)](#Effect-of-contravention-of-section-91)
 
 - [25 Regulations](#Regulations)
 
 - [26 Forms](#Forms)
 
-- [27 Repeal and transitional provisions](#Repeal-and-transitional-provisions)
+- [27 Transitional provisions](#Transitional-provisions)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Employment of Foreign Workers Act
 
-ACTS SUPPLEMENT
+(CHAPTER 91A)
 
-Published by Authority
+(Original Enactment: Act 21 of 1990)
 
-NO. 26]
+REVISED EDITION 1991
 
-Friday, November 16
+(1st March 1991)
 
-[1990
+An Act relating to the employment of foreign workers.
 
-The following Act was passed by Parliament on 4th October 1990 and assented to by the President on 1st November 1990:—
+[1st January 1991]
 
-Employment of Foreign Workers Act 1990
+### Short title
 
-(No. 21 of 1990)
-
-I assent.
-
-WEE KIM WEE
-
-President.
-
-1st November 1990.
-
-Date of Commencement: 1st January 1991
-
-An Act to repeal and re-enact with amendments the Regulation of Employment Act (Chapter 272 of the 1985 Revised Edition) and to provide for matters connected therewith.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
-
-### Short title and commencement
-
-1\. This Act may be cited as the Employment of Foreign Workers Act 1990 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Employment of Foreign Workers Act.
 
 ### Interpretation
 
@@ -114,7 +94,7 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 “foreign worker” means —
 
-(a) any person who is not a citizen of Singapore who seeks employment with, or is offered employment by, or is, at the date of commencement of this Act, in the employment of an employer at a salary of not more than $1,500 a month or such other sum as may, from time to time, be fixed by the Minister by notification in theGazette; or
+(a) any person who is not a citizen of Singapore who seeks employment with, or is offered employment by, or is, at 1st January 1991, in the employment of, an employer at a salary of not more than $1,500 a month or such other sum as may, from time to time, be fixed by the Minister by notification in theGazette; or
 
 (b) such other person or class of persons as the Minister may, by notification in theGazette, specify.
 
@@ -170,7 +150,7 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 (a) “levy” means the monthly rate of levy applicable to the foreign worker at the date when he was found to be working without a valid work permit, and a certificate issued by the Controller and tendered in court shall be prima facie evidence of such rate;
 
-(b) a conviction of an employer for an offence under section 8(1) of the repealed Regulation of Employment Act (Cap. 272) shall not be considered a previous conviction.
+(b) a conviction of an employer for an offence under section 8(1) of the repealed Regulation of Employment Act [Cap. 272] shall not be considered a previous conviction.
 
 (6) When any offence under subsection (1) committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate or any person purporting to act in any such capacity, he as well as the body corporate shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
 
@@ -220,7 +200,7 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 (c) the subject-matter of a trade dispute or of conciliation proceedings or any method of redress whether or not under any written law; and
 
-(d) any industrial matter within the meaning of the Industrial Relations Act (Cap. 136).
+(d) any industrial matter within the meaning of the Industrial Relations Act [Cap. 136].
 
 ### Self-employed persons carrying on certain occupations to apply for work permits
 
@@ -258,7 +238,7 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 (2) A work permit shall be valid for the period specified in the work permit unless it is suspended or cancelled by the Controller.
 
-### Custody of work permit, etc
+### Custody of work permit, etc.
 
 13\.—(1) A work permit shall not be transferable.
 
@@ -266,7 +246,7 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 (3) Upon demand by an employment inspector, the work permit of a foreign worker shall be produced for inspection.
 
-### Loss of work permit
+### Loss, etc., of work permit
 
 14\.—(1) When a work permit has been lost, destroyed or defaced, the foreign worker or the employer or the self-employed person, as the case may be, shall report to the Controller within 14 days of such loss, destruction or defacement, and the Controller shall issue a duplicate work permit on payment of the prescribed fee.
 
@@ -312,7 +292,7 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 17\.—(1) Any police officer or employment inspector may arrest without warrant any person who he reasonably believes is employed in Singapore whilst not in possession of a valid work permit.
 
-(2) Where any person is arrested by an employment inspector under this section, the employment inspector shall comply with sections 35 and 36 of the Criminal Procedure Code (Cap. 68) as if he were a police officer.
+(2) Where any person is arrested by an employment inspector under this section, the employment inspector shall comply with sections 35 and 36 of the Criminal Procedure Code [Cap. 68] as if he were a police officer.
 
 ### Penalties
 
@@ -334,7 +314,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 19\.—(1) Any person who abets the commission of an offence under this Act shall be guilty of the offence and shall be liable on conviction to be punished with the punishment provided for that offence.
 
-(2) Where an occupier is charged for abetting his contractor who has employed a foreign worker in contravention of section 5(1), it shall not be sufficient for him to prove in his defence that he had instructed the contractor not to, or obtained from the contractor an undertaking that he would not, so employ a foreign worker.
+(2) Where an occupier is charged for abetting his contractor who has employed a foreign worker in contravention of section 5 (1), it shall not be sufficient for him to prove in his defence that he had instructed the contractor not to, or obtained from the contractor an undertaking that he would not, so employ a foreign worker.
 
 ### Jurisdiction of Magistrate’s Court and District Court
 
@@ -342,7 +322,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Complaint by employment inspector
 
-21\. For the purpose of section 133 of the Criminal Procedure Code (Cap. 68) and notwithstanding subsections (1) and (2) thereof, a Magistrate may take cognizance of an offence under this Act upon receiving a complaint in writing and signed by an employment inspector.
+21\. For the purpose of section 133 of the Criminal Procedure Code [Cap. 68] and notwithstanding subsections (1) and (2) thereof, a Magistrate may take cognizance of an offence under this Act upon receiving a complaint in writing and signed by an employment inspector.
 
 ### Power of person primarily liable to exempt himself from liability
 
@@ -372,7 +352,7 @@ the employment inspector shall proceed against the person whom he believes to be
 
 23\. The Controller may compound any offence under this Act or any regulations made thereunder by accepting from the person reasonably suspected of committing the offence a sum not exceeding $1,000.
 
-### Effect of contravention of section 9 (1)
+### Effect of contravention of section 9(1)
 
 24\. Where in respect of the employment of any person there has been any contravention of section 9(1), that person shall not, by reason only of such contravention, be deemed to be employed under an illegal contract of employment.
 
@@ -392,11 +372,26 @@ the employment inspector shall proceed against the person whom he believes to be
 
 26\. For the purposes of this Act, the Controller may devise and use such forms as he may consider necessary.
 
-### Repeal and transitional provisions
+### Transitional provisions
 
-27\.—(1) The Regulation of Employment Act (Cap. 272) is repealed.
+27\.—(1) Any permit, appointment, application, appeal, decision, ruling, order, discretion or notice issued, made or given under the repealed Regulation of Employment Act [Cap. 272] shall be treated as a permit, appointment, application, appeal, decision, ruling, order, direction or notice issued, made or given under this Act and shall have the same force and effect as a permit, appointment, application, appeal, decision, ruling, order, direction or notice issued, made or given under this Act.
 
-(2) Any permit, appointment, application, appeal, decision, ruling, order, discretion or notice issued, made or given under the repealed Regulation of Employment Act shall be treated as a permit, appointment, application, appeal, decision, ruling, order, direction or notice issued, made or given under this Act and shall have the same force and effect as a permit, appointment, application, appeal, decision, ruling, order, direction or notice issued, made or given under this Act.
+(2) Any form used for the purposes of the repealed Regulation of Employment Act which was in force or had effect immediately before 1st January 1991 shall continue in force and have effect as though prescribed under this Act until new forms are prescribed.
 
-(3) Any form used for the purposes of the repealed Regulation of Employment Act which was in force or effect immediately before the commencement of this Act shall continue in force and have effect as though prescribed under this Act until new forms are so prescribed.
+## LEGISLATIVE HISTORY
 
+Employment of Foreign Manpower Act
+
+(CHAPTER 91A)
+
+This Legislative History is provided for the convenience of users of the Employment of Foreign Manpower Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 21 of 1990—Employment of Foreign Workers Act 1990**|
+||Date of First Reading|30 August 1990|
+|||(Bill No. 22/90 published on 31 August 1990)|
+||Date of Second and Third Readings|4 October 1990|
+||Date of commencement|1 January 1991|
+|2.|**1991 Revised Edition—Employment of Foreign Workers Act (Chapter 91A)**|
+||Date of operation|1 March 1991|
