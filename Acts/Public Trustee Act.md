@@ -12,7 +12,7 @@
 
 [**Establishment of Public Trustee**](#Establishment-of-Public-Trustee)
 
-- [3 President to appoint Public Trustee](#President-to-appoint-Public-Trustee)
+- [3 Minister to appoint Public Trustee](#Minister-to-appoint-Public-Trustee)
 
 [**Powers and Duties of Public Trustee**](#Powers-and-Duties-of-Public-Trustee)
 
@@ -110,13 +110,17 @@ An Act to provide for the appointment of a Public Trustee.
 
 Establishment of Public Trustee
 
-### President to appoint Public Trustee
+### Minister to appoint Public Trustee
 
-3\.—(1) The President shall appoint a fit person to the office of Public Trustee, who shall hold office during his pleasure, and receive such salary or fees, and be appointed on such terms, as the President determines.
+3\.—(1) The Minister shall appoint a fit person to the office of Public Trustee, who shall hold office during his pleasure, and receive such salary or fees, and be appointed on such terms, as the Minister determines.
 
-(2) The President may appoint such fit and proper persons to be Assistant Public Trustees and other officers of the Public Trustee as he considers necessary for the purposes of this Act and the Assistant Public Trustees and other officers shall hold office upon such terms, and be remunerated at such rates and in such manner, as the President may determine.
+[Act 7/1997 wef 01/10/1997]
+
+(2) The Minister may appoint such fit and proper persons to be Assistant Public Trustees and other officers of the Public Trustee as he considers necessary for the purposes of this Act and the Assistant Public Trustees and other officers shall hold office upon such terms, and be remunerated at such rates and in such manner, as the Minister may determine.
 
 Any reference in this Act or in any other written law to officers or officer of the Public Trustee shall include an Assistant Public Trustee.
+
+[Act 7/1997 wef 01/10/1997]
 
 ### Corporation sole
 
@@ -124,7 +128,9 @@ Any reference in this Act or in any other written law to officers or officer of 
 
 ### Remuneration
 
-(4) The salary or remuneration of the Public Trustee and his officers and such other expenses of executing his office or otherwise carrying this Act into effect as are sanctioned by the President shall be paid out of the Consolidated Fund.
+(4) The salary or remuneration of the Public Trustee and his officers and such other expenses of executing his office or otherwise carrying this Act into effect as are sanctioned by the Minister shall be paid out of the Consolidated Fund.
+
+[Act 7/1997 wef 01/10/1997]
 
 (5) The Public Trustee and every officer of the Public Trustee is hereby declared to be a public servant within the meaning of the Penal Code [Cap. 224].
 
@@ -161,6 +167,8 @@ Provided that the Public Trustee may in writing authorise an Assistant Public Tr
 ### Public Trustee may represent minor in certain cases
 
 5\.—(1) The Public Trustee may, on his own application, or on the application of any other person by summons, be appointed by the court to act as next friend of any minor for the purpose of instituting any suit or proceeding in the name of the minor.
+
+[42/2005 wef 01/01/2006]
 
 (2) If in any pending suit or proceeding it becomes necessary to add any minor as co-plaintiff the court may of its own motion or on the application of the Public Trustee or any other person appoint the Public Trustee to act as next friend of the minor in the suit or proceeding.
 
@@ -471,3 +479,8 @@ This Legislative History is provided for the convenience of users of the Public 
 ||Date of operation|1 March 1971|
 |16.|**1985 Revised Edition—Public Trustee Act**|
 ||Date of operation|30 March 1987|
+|17.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
+||Date of First Reading|11 July 1997|
+|||(Bill No. 6/1997 published on 12 July 1997)|
+||Date of Second and Third Readings|25 August 1997|
+||Date of commencement|1 October 1997 (Item (26) of the Second Schedule – Amendment of Public Trustee Act)|
