@@ -44,7 +44,7 @@
 
 - [18 Annual estimates](#Annual-estimates)
 
-- [19 Investment](#Investment)
+- [19 Power of investment](#Power-of-investment)
 
 - [20 Regulations](#Regulations)
 
@@ -238,9 +238,11 @@ Provided that the approval of the Minister shall be obtained in respect of the a
 
 18\. The Board shall obtain in advance the approval of the Minister for its annual estimates of expenditure and for any supplementary estimates of its expenditure.
 
-### Investment
+### Power of investment
 
-19\. Moneys standing to the credit of the Board may from time to time be invested in any of the securities in which trust funds may, by section 4 of the Trustees Act [Cap. 337], be invested.
+19\. The Board may invest its moneys in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
+
+[45/2004 wef 15/12/2004]
 
 ### Regulations
 
@@ -274,7 +276,7 @@ Science Centre Act
 
 (CHAPTER 286)
 
-This Legislative History is provided for the convenience of users of the Science Centre Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Science Centre Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -304,3 +306,9 @@ This Legislative History is provided for the convenience of users of the Science
 |||(Bill No. 7/2002 published on 4 May 2002)|
 ||Date of Second and Third Readings|24 May 2002|
 ||Dates of commencement|15 July 2002 (except item (18) of the Schedule)|
+|7.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 September 2004|
+|||(Bill No. 43/2004 published on 22 September 2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|15 December 2004|
