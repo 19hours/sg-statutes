@@ -1108,6 +1108,10 @@ issue a general licence to the applicant either unconditionally or subject to su
 
 [28/2001 wef 10/09/2001]
 
+(10) [Deleted by Act 28/2001 wef 10/09/2001]
+
+(11) [Deleted by Act 28/2001 wef 10/09/2001]
+
 ### Special purpose licences
 
 28A\.—(1) Any person intending to keep or use any vehicle for purposes of research and development or for any other special purpose may apply to the Registrar for a licence (referred to hereinafter as a special purpose licence) allowing him so to keep or use such vehicle on a road.
@@ -1642,6 +1646,16 @@ whichever period is the longer.
 
 (8) For the purposes of this section, a person shall be deemed to have committed an offence under this Act or the rules if he pays the prescribed penalty for that offence under section 132.
 
+(9) In addition to the power conferred on the Deputy Commissioner of Police by subsection (1), if a person who holds a driving licence —
+
+(a) fails to comply with any process of court issued against him in respect of any offence committed by him under this Act or the rules or any written law specified in Part II of the First Schedule; or
+
+(b) is arrested under a warrant of court in connection with an offence under this Act or the rules or any written law specified in Part II of the First Schedule and the offence has not been tried and determined by the court,
+
+the Deputy Commissioner of Police may, as he thinks fit, suspend the driving licence held by that person until he is satisfied that that person has complied with the process of court referred to in paragraph (a) or until the offence referred to in paragraph (b) has been tried and determined by the court, as the case may be.
+
+[21/2002 wef 01/09/2002]
+
 ### Licensee may show cause why driving licence should not be suspended
 
 46\.—(1) The Deputy Commissioner of Police shall, before suspending a driving licence of a person under section 45, give the person concerned notice in writing of his intention to do so, specifying a date, not less than 14 days after the date of the notice, upon which such suspension shall be made and calling upon the person to show cause to the Deputy Commissioner of Police why such driving licence should not be suspended.
@@ -1660,7 +1674,7 @@ whichever period is the longer.
 
 (2) Any person whose driving licence has been suspended under section 45 shall forthwith surrender the driving licence to the Deputy Commissioner of Police.
 
-(3) At the end of a period of suspension, a driving licence surrendered to the Deputy Commissioner of Police under subsection (2) shall be returned to the holder thereof and the points awarded against him shall be cancelled.
+(3) At the end of a period of suspension, a driving licence surrendered to the Deputy Commissioner of Police under subsection (2) shall be returned to the holder thereof and, in the case only of a driving licence suspended under section 45(1), the points awarded against him shall be cancelled.
 
 (4) Any person whose driving licence has been suspended under section 45 shall not during the period of suspension drive a motor vehicle on a road under any other driving licence issued by any authority or otherwise.
 
@@ -1710,7 +1724,11 @@ the Deputy Commissioner of Police may, where the first mentioned person is charg
 
 [1/99 wef 01/03/1999]
 
-(2) The Deputy Commissioner of Police shall, before suspending a driving licence of a person under subsection (1) or (1A), give to the person concerned a notice in writing informing the person that his driving licence is immediately suspended until the charge has been tried and determined by a court and requiring the person forthwith to surrender his driving licence.
+(1B) Where a person drives a motor vehicle on a road or other public place and whilst so driving causes any serious injury or death to another person and thereafter fails to render any assistance as required under section 84(3), the Deputy Commissioner of Police may, where the first-mentioned person is charged for the offence under section 84(6) for failing to comply with section 84(3), suspend his driving licence from the date on which he is first charged for the offence, and the suspension shall remain in force until the offence is tried and determined by a court.
+
+[21/2002 wef 01/09/2002]
+
+(2) The Deputy Commissioner of Police shall, before suspending a driving licence of a person under subsection (1), (1A) or (1B), give to the person concerned a notice in writing informing the person that his driving licence is immediately suspended until the charge has been tried and determined by a court and requiring the person forthwith to surrender his driving licence.
 
 [7/90]
 
@@ -1944,7 +1962,7 @@ Provisions as to driving and offences in connection therewith
 
 ### Restriction on driving certain categories of heavy motor vehicles
 
-62A\.—(1) Subject to subsection (2), a person who has attained the age of 70 years shall not drive a vehicle belonging to the following categories or classes of motor vehicles:
+62A\.—(1) A person who has attained the age of 70 years shall not drive a vehicle belonging to the following categories or classes of motor vehicles:
 
 (a) heavy locomotives;
 
@@ -1953,14 +1971,6 @@ Provisions as to driving and offences in connection therewith
 (c) motor tractors; and
 
 (d) heavy motor cars.
-
-[7/90]
-
-(2) Notwithstanding subsection (1), a person who has a valid driving licence in force at 2nd April 1990 authorising him to drive any of the category or class of vehicles referred to in subsection (1) may continue to drive a vehicle belonging to the said category or class of vehicles for a period of 3 years from that date if his licence has not expired or is renewed during that period.
-
-[7/90]
-
-(3) Notwithstanding subsection (1), the Deputy Commissioner of Police may renew the driving licence of any person who has attained the age of 70 years for a period not exceeding 3 years from 2nd April 1990.
 
 [7/90]
 
@@ -2522,7 +2532,7 @@ Accidents
 
 (6) If any person fails to comply with any of the provisions of this section, he shall be guilty of an offence.
 
-(7) Any person who is guilty of an offence under subsection (3) shall, if he had in driving or attempting to drive a motor vehicle at the time of the accident referred to in that subsection caused any serious injury or death to another person, be liable on conviction —
+(7) Any person who is guilty of an offence under subsection (6) arising from his failure to comply with subsection (3) shall, if he had in driving or attempting to drive a motor vehicle at the time of the accident referred to in that subsection caused any serious injury or death to another person, be liable on conviction —
 
 (a) to a fine not exceeding $3,000 or to imprisonment for a term not exceeding 12 months; and
 
@@ -2530,15 +2540,35 @@ Accidents
 
 [11/96]
 
+(7A) Where a person is convicted of an offence under subsection (6) arising from his failure to comply with subsection (3), the court convicting him shall —
+
+(a) if satisfied that he had in driving or attempting to drive a motor vehicle at the time of the accident referred to in subsection (3) caused any serious injury or death to another person; and
+
+(b) unless the court for special reasons thinks fit to order otherwise,
+
+make an order disqualifying him from holding or obtaining a driving licence —
+
+(i) for a period of not less than 12 months from the date of his conviction or, where he is sentenced to imprisonment, from the date of his release from prison; or
+
+(ii) for such longer period as the court thinks fit.
+
+[21/2002 wef 01/09/2002]
+
 (8) Where at one trial the driver of a motor vehicle is convicted and sentenced to imprisonment for —
 
 (a) an offence involving the use of the motor vehicle by him whereby any serious injury or death is caused to another person; and
 
-(b) an offence under subsection (3),
+(b) an offence under subsection (6) arising from his failure to comply with subsection (3),
+
+[21/2002 wef 01/09/2002]
 
 the court before which he is convicted shall order that the sentences for those offences shall run consecutively.
 
 [11/96]
+
+(9) Any police officer may arrest without warrant any person who is reasonably suspected of having failed to comply with subsection (3).
+
+[21/2002 wef 01/09/2002]
 
 ### Inquiry into accident
 
@@ -3426,6 +3456,10 @@ shall be guilty of an offence.
 
 [7/90; 33/93]
 
+(3) [Deleted by Act 28/2001 wef 10/09/2001]
+
+(4) [Deleted by Act 28/2001 wef 10/09/2001]
+
 ### Service of summonses and other documents
 
 131A\.—(1) Every summons issued for an offence under this Act or the rules, and every notice, order or other document required or authorised to be given or served under this Act or the rules may be served on any person —
@@ -3640,7 +3674,7 @@ shall be guilty of an offence.
 
 [28/95]
 
-## THE SCHEDULE
+FIRST SCHEDULE
 
 Part I
 
@@ -3928,3 +3962,9 @@ This Legislative History is provided for the convenience of users of the Road Tr
 |||(Bill No. 27/2001 published on 12 July 2001)|
 ||Date of Second and Third Readings|25 July 2001|
 ||Date of commencement|10 September 2001|
+|44.|**Act 21 of 2002—Road Traffic (Amendment) Act 2002**|
+||Date of First Reading|8 July 2002|
+|||(Bill No. 24/2002 published on 9 July 2002)|
+||Date of Second and Third Readings|23 July 2002|
+||Date of commencement|1 September 2002|
+|||(except sections 2, 3 and 9)|
