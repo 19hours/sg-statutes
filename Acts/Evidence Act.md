@@ -3421,3 +3421,9 @@ This Legislative History is provided for the convenience of users of the Evidenc
 |||(Bill No. 45/95 published on 6 December 1995)|
 ||Date of Second and Third Readings|18 January 1996|
 ||Date of commencement|8 March 1996|
+|23.|**Act 1 of 1996—Singapore Productivity and Standards Board Act 1996**|
+||(Consequential amendments made by)||
+||Date of First Reading|1 November 1995|
+|||(Bill No. 39/95 published on 2 November 1995)|
+||Date of Second and Third Readings|5 December 1995|
+||Date of commencement|1 April 1996|
