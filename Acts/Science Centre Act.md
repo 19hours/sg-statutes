@@ -32,6 +32,8 @@
 
 - [13 Grants to Board](#Grants-to-Board)
 
+- [13A Issue of shares, etc.](#Issue-of-shares-etc)
+
 - [14 Science Centre Fund](#Science-Centre-Fund)
 
 - [15 Purposes of Science Centre Fund](#Purposes-of-Science-Centre-Fund)
@@ -202,6 +204,12 @@ Provided that the approval of the Minister shall be obtained in respect of the a
 
 13\. For the purpose of enabling the Board to carry out its function under this Act, the Minister may, from time to time, make grants to the Board of such sums of money as he may determine.
 
+### Issue of shares, etc.
+
+13A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Board under this Act, or of any capital injection or other investment by the Government in the Board in accordance with any written law, the Board shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
+
+[5/2002 wef 15/07/2002]
+
 ### Science Centre Fund
 
 14\. All moneys received or raised by the Board shall forthwith be paid into such bank as may from time to time be decided by the Board to the credit of a fund to be called the Science Centre Fund (referred to in this Act as the Fund) which shall be controlled and administered by the Board, subject to the directions of the Minister.
@@ -266,7 +274,7 @@ Science Centre Act
 
 (CHAPTER 286)
 
-This Legislative History is provided for the convenience of users of the Science Centre Act. It is not part of the Act.
+This Legislative History is provided for the convenience of users of the Science Centre Act. It is not part of this Act.
 
 ||||
 |:-|:-|:-|
@@ -290,3 +298,9 @@ This Legislative History is provided for the convenience of users of the Science
 |||(Bill No. 5/93 published on 27 February 1993)|
 ||Date of Second and Third Readings|13 April 1993|
 ||Date of commencement|1 August 1993|
+|6.|**Act 5 of 2002—The Statutory Corporations (Capital Contribution) Act 2002**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|3 May 2002|
+|||(Bill No. 7/2002 published on 4 May 2002)|
+||Date of Second and Third Readings|24 May 2002|
+||Dates of commencement|15 July 2002 (except item (18) of the Schedule)|
