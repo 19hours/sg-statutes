@@ -322,7 +322,9 @@ Jogging Association of Singapore.
 
 14. 
 
-Malay Youths Literary Association (Persatuan Persuratan Pemuda Pemudi Melayu).
+Malay Youth Literary Association (Persatuan Persuratan Pemuda Pemudi Melayu).
+
+[S 398/1994 wef 28/09/1994]
 
 15. 
 
@@ -338,7 +340,9 @@ Nanyang Academy of Fine Arts.
 
 18. 
 
-Nanyang Technological Institute Students’ Union.
+Nanyang Technological University Students’ Union.
+
+[S 398/1994 wef 28/09/1994]
 
 19. 
 
@@ -572,7 +576,9 @@ Singapore Table Tennis Association.
 
 75. 
 
-Singapore Tae Kwon-Do Federation.
+Singapore Taekwondo Federation.
+
+[S 398/1994 wef 28/09/1994]
 
 76. 
 
@@ -728,7 +734,9 @@ This Legislative History is provided for the convenience of users of the People�
 ||Date of commencement|12 March 1993|
 |30.|**1994 Revised Edition—People’s Association Act (Chapter 227)**|
 ||Date of operation|15 March 1994|
-|31.|**G.N. No. S 293/94—People’s Association Act (Amendment of First Schedule) Notification 1994**|
+|31.|**G.N. No. S 293/1994—People’s Association Act (Amendment of First Schedule) Notification 1994**|
 ||Date of commencement|27 June 1994|
-|32.|**G.N. No. S 361/94—People’s Association Act (Amendment of First Schedule) (No. 2) Notification 1994**|
+|32.|**G.N. No. S 361/1994—People’s Association Act (Amendment of First Schedule) (No. 2) Notification 1994**|
 ||Date of commencement|14 September 1994|
+|33.|**G. N. No. S 398/1994—People’s Association Act (Amendment of First Schedule) (No. 3) Notification 1994**|
+||Date of commencement|28 September 1994|
