@@ -12,7 +12,7 @@
 
 - [3 Power to add to or amend Schedule](#Power-to-add-to-or-amend-Schedule)
 
-[**THE SCHEDULE**](#THE-SCHEDULE)
+[**THE SCHEDULE Old and New Titles**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -22,9 +22,9 @@
 
 (Original Enactment: Ordinance 10 of 1950)
 
-REVISED EDITION 1985
+REVISED EDITION 2001
 
-(30th March 1987)
+(31st July 2001)
 
 An Act relating to departmental titles.
 
@@ -36,19 +36,21 @@ An Act relating to departmental titles.
 
 ### Amendment of titles
 
-2\. Where in any written law or in any other document whatsoever the title or name of office mentioned in the first column of the Schedule is used, there shall be substituted for that title or name of office the title or name of office mentioned opposite it in the second column of the Schedule.
+2\. Where in any written law or in any other document the title or name of office mentioned in the first column of the Schedule is used, there shall be substituted for that title or name of office the title or name of office mentioned opposite it in the second column of the Schedule.
 
 ### Power to add to or amend Schedule
 
 3\.—(1) The appropriate Minister may, by notification in theGazette, at any time add to or amend the Schedule.
 
+[20/96]
+
 (2) In this section, “appropriate Minister”, in relation to any title or name of office, means the Minister charged with the responsibility for the department to which the title or name of office relates.
 
-[Act 20/96 wef 12/07/1996 vide S 301/96]
+[20/96]
 
 ## THE SCHEDULE
 
-OLD AND NEW TITLES
+Old and New Titles
 
 Old Title or Name of Office
 
@@ -102,7 +104,7 @@ Sanitary Engineer
 
 Public Health Engineer.
 
-Senior Ophthalmic Surgeon, Physician and Lecturer in Ophthamalogy
+Senior Ophthalmic Surgeon, Physician and Lecturer in Ophthalmalogy
 
 Senior Ophthalmic Surgeon.
 
@@ -110,9 +112,9 @@ Ophthalmic Surgeon and Physician
 
 Ophthalmic Surgeon.
 
-Commissioner of Prisons.
+Commissioner of Prisons
 
-Director of Prisons
+Director of Prisons.
 
 Deputy Commissioner of Prisons
 
@@ -192,7 +194,7 @@ Senior Health Officer (Maternal and Child Health).
 
 Director of Medical Services, Federation
 
-Director of medical Services, States of Malaya.
+Director of Medical Services, States of Malaya.
 
 Head of the Department, Faculty of Medicine, University of Singapore
 
@@ -214,7 +216,11 @@ Deputy Health Officer
 
 Health Officer.
 
-Assistant Health Officer to City Council Health Officer in Rural District
+Assistant Health Officer to City Council
+
+Health Officer.
+
+Health Officer in Rural District
 
 Health Officer.
 
@@ -322,6 +328,8 @@ Senior Chemist and Senior Inspector of Dangerous Materials
 
 Principal Scientific Officer.
 
+Senior Chemist and Senior Inspector of Dangerous Materials
+
 Senior Scientific Officer.
 
 Chemist and Inspector of Dangerous Materials
@@ -362,7 +370,7 @@ Director of Customs and Excise.
 
 Principal Assistant Director of Social Welfare
 
-Welfare Officer Grade V or VI
+Welfare Officer Grade V or VI.
 
 Assistant Director of Social Welfare
 
@@ -378,7 +386,7 @@ Head of Support and Services Division, Criminal Investigation Department.
 
 Officer-in-Charge of the Traffic Investigation Branch
 
-Head of Investigations of the Traffic Investigation Branch.
+Head of Investigations of the Traffic Investigation Branch
 
 Officer-in-Charge of the Land Divisions
 
@@ -392,168 +400,33 @@ Assistant Officer-in-Charge of the Marine Police Division
 
 Deputy Commander of the Police Coast Guard.
 
-Head of Support and Services Division,
+Head of Support and Services Division, Criminal Investigation Department
 
+Assistant Director CID (Support and Services), Criminal Investigation Department.
 
+Head of Major Crime Division, Criminal Investigation Department
 
+Assistant Director CID (Major Crime), Criminal Investigation Department.
 
-Criminal Investigation Department
+Head of Specialised Crime Division, Criminal Investigation Department
 
-Assistant Director CID
+Assistant Director CID (Specialised Crime), Criminal Investigation Department.
 
+Head of Commercial Crime Division, Criminal Investigation Department
 
+Assistant Director CID (Commercial Crime), Criminal Investigation Department.
 
+Officer-in-Charge of Secret Societies Branch, Criminal Investigation Department
 
-(Support and Services)
+Head Secret Societies Branch, Criminal Investigation Department.
 
+Head of Intelligence Division, Criminal Investigation Department
 
+Assistant Director CID (Intel), Criminal Investigation Department.
 
+Assistant Director CID (Support & Services), Criminal Investigation Department
 
-Criminal Investigation Department.
-
-Head of Major Crime Division
-
-
-
-
-Criminal Investigation Department
-
-Assistant Director CID
-
-
-
-
-(Major Crime)
-
-
-
-
-Criminal Investigation Department.
-
-Head of Specialised Crime Division,
-
-
-
-
-Criminal Investigation Department
-
-Assistant Director CID
-
-
-
-
-(Specialised Crime)
-
-
-
-
-Criminal Investigation Department.
-
-Head of Commercial Crime Division,
-
-
-
-
-Criminal Investigation Department
-
-Assistant Director CID
-
-
-
-
-(Commercial Crime)
-
-
-
-
-Criminal Investigation Department.
-
-Officer-in-Charge of Secret Societies Branch
-
-
-
-
-Criminal Investigation Department
-
-Head Secret Societies Branch
-
-
-
-
-Criminal Investigation Department.
-
-Head of Intelligence Division,
-
-
-
-
-Criminal Investigation Department
-
-Assistant Director CID
-
-
-
-
-(Intel)
-
-
-
-
-Criminal Investigation Department.
-
-Assistant Director CID
-
-
-
-
-(Support & Services)
-
-
-
-
-Criminal Investigation Department
-
-Assistant Director CID
-
-
-
-
-(Investigation Support & Services)
-
-
-
-
-Criminal Investigation Department.
-
-[S 412/98 wef 01/02/1996]
-
-[S 408/99 wef 26/07/1999]
-
-[S 139/70]
-
-[S 46/77]
-
-[S 178/78]
-
-[S 83/72]
-
-[S 360/81]
-
-[S 321/85]
-
-[S 203/86]
-
-[S 154/89]
-
-[S 121/87]
-
-[S154/89]
-
-[S 315/94]
-
-[S31/94]
-
-[S 548/95]
+Assistant Director CID (Investigation Support & Services), Criminal Investigation Department.
 
 ## LEGISLATIVE HISTORY
 
@@ -611,3 +484,5 @@ This Legislative History is provided for the convenience of users of the Departm
 ||Date of commencement|26 July 1999|
 |20.|**G. N. No. S 173/2000—Departmental Titles (Alteration) Act (Amendment of Schedule) Notification 2000**|
 ||Date of commencement|1 April 2000|
+|21.|**2001 Revised Edition—Departmental Titles (Alteration) Act**|
+||Date of operation|31 July 2001|
