@@ -1,16 +1,14 @@
-**Environmental Public Health Act 1987**
+**Environmental Public Health Act**
 
-**(No. 14 of 1987)**
+**(CHAPTER 95)**
 
 **Table of Contents**
 
 [**Long Title**](#Environmental-Public-Health-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -18,7 +16,7 @@
 
 - [3 Appointment of Commissioner, Deputy Commissioners and Assistant Commissioners of Public Health](#Appointment-of-Commissioner-Deputy-Commissioners-and-Assistant-Commissioners-of-Public-Health)
 
-- [4 Public Health officers and other employees](#Public-Health-officers-and-other-employees)
+- [4 Public health officers and other employees](#Public-health-officers-and-other-employees)
 
 [**Part III PUBLIC CLEANSING**](#Part-III)
 
@@ -32,11 +30,11 @@
 
 [**Removal of Refuse and Nightsoil**](#Removal-of-Refuse-and-Nightsoil)
 
-- [8 Commissioner may apply systems for collection and removal of refuse, etc](#Commissioner-may-apply-systems-for-collection-and-removal-of-refuse-etc)
+- [8 Commissioner may apply systems for collection and removal of refuse, etc.](#Commissioner-may-apply-systems-for-collection-and-removal-of-refuse-etc)
 
-- [9 Removal of trade refuse, industrial waste, etc](#Removal-of-trade-refuse-industrial-waste-etc)
+- [9 Removal of trade refuse, industrial waste, etc.](#Removal-of-trade-refuse-industrial-waste-etc)
 
-- [10 Commissioner may require owner and occupier to provide dustbins and refuse bin, etc](#Commissioner-may-require-owner-and-occupier-to-provide-dustbins-and-refuse-bin-etc)
+- [10 Commissioner may require owner and occupier to provide dustbins and refuse bins, etc.](#Commissioner-may-require-owner-and-occupier-to-provide-dustbins-and-refuse-bins-etc)
 
 - [11 Maintenance of refuse chutes in buildings](#Maintenance-of-refuse-chutes-in-buildings)
 
@@ -46,7 +44,7 @@
 
 - [14 Prohibition on use of nightsoil as manure](#Prohibition-on-use-of-nightsoil-as-manure)
 
-- [15 Prohibition on use of nightsoil for manuring earth in pots, etc](#Prohibition-on-use-of-nightsoil-for-manuring-earth-in-pots-etc)
+- [15 Prohibition on use of nightsoil for manuring earth in pots, etc.](#Prohibition-on-use-of-nightsoil-for-manuring-earth-in-pots-etc)
 
 - [16 Prohibition of cultivation or use of manure or irrigation which is a nuisance](#Prohibition-of-cultivation-or-use-of-manure-or-irrigation-which-is-a-nuisance)
 
@@ -56,17 +54,17 @@
 
 - [18 Prohibition against throwing refuse, etc., in any public place](#Prohibition-against-throwing-refuse-etc-in-any-public-place)
 
-- [19 Building works constituting danger to life, health, etc](#Building-works-constituting-danger-to-life-health-etc)
+- [19 Building works constituting danger to life, health, etc.](#Building-works-constituting-danger-to-life-health-etc)
 
 - [20 Prohibition against dumping refuse, etc., in any public place](#Prohibition-against-dumping-refuse-etc-in-any-public-place)
 
 - [21 Notice to attend Court](#Notice-to-attend-Court)
 
-[**Disposal facilities**](#Disposal-facilities)
+[**Disposal Facilities**](#Disposal-Facilities)
 
 - [22 Provision of public disposal facilities](#Provision-of-public-disposal-facilities)
 
-- [23 No disposal facility to be constructed without permission](#No-disposal-facility-to-be-constructed-without-permission)
+- [23 No disposal facility to be constructed, etc., without licence](#No-disposal-facility-to-be-constructed-etc-without-licence)
 
 [**Disposal and Treatment of Industrial Waste**](#Disposal-and-Treatment-of-Industrial-Waste)
 
@@ -80,7 +78,7 @@
 
 - [28 Waste brought to public disposal facility to be treated or recycled](#Waste-brought-to-public-disposal-facility-to-be-treated-or-recycled)
 
-- [29 Toxic waste not to be brought to public disposal facility without permission](#Toxic-waste-not-to-be-brought-to-public-disposal-facility-without-permission)
+- [29 Dangerous substance or toxic waste not to be brought to disposal facility without permission](#Dangerous-substance-or-toxic-waste-not-to-be-brought-to-disposal-facility-without-permission)
 
 - [30 Excessive production of toxic waste](#Excessive-production-of-toxic-waste)
 
@@ -90,7 +88,7 @@
 
 - [32 Food establishments to be licensed](#Food-establishments-to-be-licensed)
 
-- [33 Licensing of hawkers operating from stalls, etc](#Licensing-of-hawkers-operating-from-stalls-etc)
+- [33 Licensing of hawkers operating from stalls, etc.](#Licensing-of-hawkers-operating-from-stalls-etc)
 
 - [34 Licensing of itinerant hawkers](#Licensing-of-itinerant-hawkers)
 
@@ -106,13 +104,13 @@
 
 - [40 Articles of food unfit for human consumption](#Articles-of-food-unfit-for-human-consumption)
 
-- [41 Cleanliness of vehicles and equipment, etc](#Cleanliness-of-vehicles-and-equipment-etc)
+- [41 Cleanliness of vehicles, equipment, etc.](#Cleanliness-of-vehicles-equipment-etc)
 
 - [42 Notice to attend Court](#Notice-to-attend-Court)
 
 [**Part V PUBLIC NUISANCES**](#Part-V)
 
-- [43 Pubic nuisances to be abated](#Pubic-nuisances-to-be-abated)
+- [43 Public nuisances to be abated](#Public-nuisances-to-be-abated)
 
 - [44 Nuisances liable to be dealt with summarily](#Nuisances-liable-to-be-dealt-with-summarily)
 
@@ -124,7 +122,7 @@
 
 - [47 Control of noise on construction sites](#Control-of-noise-on-construction-sites)
 
-- [48 Noise control notices; work premises](#Noise-control-notices;-work-premises)
+- [48 Noise control notices; work place or premises](#Noise-control-notices;-work-place-or-premises)
 
 - [49 Notice to have regard to certain provisions](#Notice-to-have-regard-to-certain-provisions)
 
@@ -134,7 +132,7 @@
 
 - [50 Premises in unwholesome state](#Premises-in-unwholesome-state)
 
-- [51 Destruction of rats, wasps, bees, etc](#Destruction-of-rats-wasps-bees-etc)
+- [51 Destruction of rats, wasps, bees, etc.](#Destruction-of-rats-wasps-bees-etc)
 
 - [52 Closing and demolition, etc., of insanitary dwellings](#Closing-and-demolition-etc-of-insanitary-dwellings)
 
@@ -148,7 +146,7 @@
 
 - [56 Repairs](#Repairs)
 
-- [57 Sanitary conveniences in work premises](#Sanitary-conveniences-in-work-premises)
+- [57 Sanitary conveniences in work premises or work place](#Sanitary-conveniences-in-work-premises-or-work-place)
 
 - [58 Care of sanitary conveniences](#Care-of-sanitary-conveniences)
 
@@ -160,11 +158,11 @@
 
 - [62 Restriction on construction of wells](#Restriction-on-construction-of-wells)
 
-[**General Health Requirements For Buildings**](#General-Health-Requirements-For-Buildings)
+[**General Health Requirements for Buildings**](#General-Health-Requirements-for-Buildings)
 
-- [63 Buildings to which the public has access to be kept clean](#Buildings-to-which-the-public-has-access-to-be-kept-clean)
+- [63 Buildings to which public has access to be kept clean](#Buildings-to-which-public-has-access-to-be-kept-clean)
 
-- [64 Commissioner may require employers to provide mess rooms, etc](#Commissioner-may-require-employers-to-provide-mess-rooms-etc)
+- [64 Commissioner may require employers to provide mess rooms, etc.](#Commissioner-may-require-employers-to-provide-mess-rooms-etc)
 
 [**Part VIII OFFENSIVE TRADES**](#Part-VIII)
 
@@ -198,11 +196,11 @@
 
 - [77 Government may provide cemeteries and crematoria](#Government-may-provide-cemeteries-and-crematoria)
 
-- [78 Places which may be used for burials, etc](#Places-which-may-be-used-for-burials-etc)
+- [78 Places which may be used for burials, etc.](#Places-which-may-be-used-for-burials-etc)
 
 - [79 Unlawful burials](#Unlawful-burials)
 
-- [80 Power to close cemeteries, etc](#Power-to-close-cemeteries-etc)
+- [80 Power to close cemeteries, etc.](#Power-to-close-cemeteries-etc)
 
 - [81 Unauthorised structure](#Unauthorised-structure)
 
@@ -220,7 +218,7 @@
 
 [**Part XII MISCELLANEOUS**](#Part-XII)
 
-- [87 Power to enter upon lands for the purposes of this Act](#Power-to-enter-upon-lands-for-the-purposes-of-this-Act)
+- [87 Power to enter upon lands for purposes of this Act](#Power-to-enter-upon-lands-for-purposes-of-this-Act)
 
 - [88 Protection from personal liability](#Protection-from-personal-liability)
 
@@ -230,7 +228,7 @@
 
 - [91 Damage to property of Government to be made good in addition to penalty](#Damage-to-property-of-Government-to-be-made-good-in-addition-to-penalty)
 
-- [92 Service of summons, notice, etc](#Service-of-summons-notice-etc)
+- [92 Service of summons, notice, etc.](#Service-of-summons-notice-etc)
 
 - [93 Appeal to Minister against notice, order or decision](#Appeal-to-Minister-against-notice-order-or-decision)
 
@@ -282,57 +280,39 @@
 
 - [117 Exemption](#Exemption)
 
-- [118 Repeal and transitional](#Repeal-and-transitional)
+- [118 Transitional provision](#Transitional-provision)
 
-[**FIRST SCHEDULE Food Establishments**](#FIRST-SCHEDULE-Food-Establishments)
+[**FIRST SCHEDULE Food establishments**](#FIRST-SCHEDULE-Food-establishments)
 
-[**SECOND SCHEDULE Offensive Trades**](#SECOND-SCHEDULE-Offensive-Trades)
+[**SECOND SCHEDULE Offensive trades**](#SECOND-SCHEDULE-Offensive-trades)
 
-[**THIRD SCHEDULE Infectious Diseases**](#THIRD-SCHEDULE-Infectious-Diseases)
+[**THIRD SCHEDULE Infectious diseases**](#THIRD-SCHEDULE-Infectious-diseases)
 
-[**FOURTH SCHEDULE Subject Matters of Regulations**](#FOURTH-SCHEDULE-Subject-Matters-of-Regulations)
+[**FOURTH SCHEDULE Subject-matters of regulations**](#FOURTH-SCHEDULE-Subject-matters-of-regulations)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Environmental Public Health Act
 
-ACTS SUPPLEMENT
+(CHAPTER 95)
 
-Published by Authority
+(Original Enactment: Act 14 of 1987)
 
-NO. 15]
+REVISED EDITION 1988
 
-Friday, June 19
+(30th April 1988)
 
-[1987
+An Act to consolidate the law relating to environmental public health and to provide for matters connected therewith.
 
-The following Act was passed by Parliament on 20th May 1987 and assented to by the President on 10th June 1987:—
-
-Environmental Public Health Act 1987
-
-(No. 14 of 1987)
-
-I assent.
-
-WEE KIM WEE
-
-President.
-
-10th June 1987.
-
-Date of Commencement: 1st July 1987
-
-An Act to repeal and re-enact with amendments the Environmental Public Health Act (Chapter 95 of the 1985 Revised Edition) and to provide for matters connected therewith.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st July 1987]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Environmental Public Health Act 1987 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Environmental Public Health Act.
 
 ### Interpretation
 
@@ -346,7 +326,7 @@ PRELIMINARY
 
 “dwelling-house” includes any building or tenement or any part thereof which is used, constructed or adapted for use for human habitation;
 
-“flat” means a horizontal stratum of any building or part thereof, whether such stratum is on one or more levels or is partially or wholly below the surface of the ground, which is used or intended to be used as a complete and separate unit for the purpose of habitation or business or for any other purpose, and which may be comprised in a “lot”, or in part of any “subdivided building” not shown in a registered “strata title plan” (the last three expressions within quotation marks having the same meaning as in the Land Titles (Strata) Act (Cap. 158));
+“flat” means a horizontal stratum of any building or part thereof, whether such stratum is on one or more levels or is partially or wholly below the surface of the ground, which is used or intended to be used as a complete and separate unit for the purpose of habitation or business or for any other purpose, and which may be comprised in a “lot”, or in part of any “subdivided building” not shown in a registered “strata title plan” (the last 3 expressions within quotation marks having the same meaning as in the Land Titles (Strata) Act);
 
 “food” includes drink, chewing gum and other products of a like nature and use, and articles and substances used as ingredients in the preparation of food or drink or of such products, but does not include —
 
@@ -366,11 +346,13 @@ PRELIMINARY
 
 “house” includes dwelling-house, warehouse, office, shop, school and any other building in which persons are employed;
 
-“industrial waste” means any waste whether solid, liquid or gaseous produced in the course of or is the waste product of any trade, business, manufacture or building construction, and includes toxic industrial waste;
+“industrial waste” means any waste whether solid, liquid or gaseous produced in the course of or is the waste product of any trade, business, manufacture or building construction, and includes toxic industrial waste and any dangerous substance;
+
+[Act 2/96]
 
 “infectious diseases” means —
 
-(a) any disease set out in the First or Second Schedule to the Infectious Diseases Act (Cap. 137); and
+(a) any disease set out in the First or Second Schedule to the Infectious Diseases Act [Cap. 137]; and
 
 (b) any skin disease which is likely to be contagious;
 
@@ -384,13 +366,13 @@ PRELIMINARY
 
 “occupier” means the person in occupation of any premises or having the charge, management or control thereof either on his own account or as agent of another person, but does not include a lodger; and, in relation to any part of any premises, different parts of which are occupied by different persons, means the person in occupation or having the charge, management or control of that part;
 
-“owner” —
+“owner”, in relation to —
 
-(a) in relation to any premises, means the person for the time being receiving the rent of the premises, whether on his own account or as agent or trustee or as receiver, or who would receive the same if the premises were let to a tenant, and includes the person whose name is entered in the valuation list authenticated under section 15 of the Property Tax Act (Cap. 254);
+(a) any premises, means the person for the time being receiving the rent of the premises, whether on his own account or as agent or trustee or as receiver, or who would receive the rent if the premises were let to a tenant, and includes the person whose name is entered in the valuation list authenticated under section 15 of the Property Tax Act [Cap. 254];
 
-(b) in relation to any premises where building works are carried out, includes the developer; and
+(b) any premises where building works are carried out, includes the developer; and
 
-(c) in relation to the common property of any building erected on land comprised in a strata subdivision plan approved by the competent authority, includes the management corporation having control of the building, and a managing agent appointed by a management corporation or by the Commissioner of Buildings under the Land Titles (Strata) Act (Cap. 158) and a liquidator appointed pursuant to that Act for that management corporation;
+(c) the common property of any building erected on land comprised in a strata subdivision plan approved by the competent authority, includes the management corporation having control of the building, and a managing agent appointed by a management corporation or by the Commissioner of Buildings under the Land Titles (Strata) Act [Cap. 158] and a liquidator appointed pursuant to that Act for that management corporation;
 
 “place of public resort” means a building or a defined or enclosed place used or constructed or adapted to be used either ordinarily or occasionally as a church, mosque, temple or other place where public worship is or religious ceremonies are performed, not being merely a dwelling-house so used, or as a cinema, theatre, public hall, or as a public place of assembly for persons admitted thereto by ticket or otherwise, or used or constructed or adapted to be used either ordinarily or occasionally for any other public purpose;
 
@@ -430,7 +412,7 @@ PRELIMINARY
 
 “toilet” means a facility for urinating and defecating which is water flushed, and which connects, directly or otherwise, with a private sewage disposal system or with the public sewage disposal system;
 
-“toxic industrial waste” means any industrial waste which owing to its nature, composition, or quantity constitutes a danger to human health or the environment or which contains or may produce pathogens of transmissible diseases;
+“toxic industrial waste” means any industrial waste which owing to its nature, composition or quantity constitutes a danger to human health or the environment or which contains or may produce pathogens of transmissible diseases;
 
 “vehicle” means any vehicle whether mechanically propelled or otherwise and includes a barrow and a cart;
 
@@ -440,7 +422,7 @@ PRELIMINARY
 
 (b) any substance or article which requires to be disposed of as being broken, worn out, contaminated or otherwise spoiled,
 
-and for the purposes of this Act any thing which is discarded or otherwise dealt with as if it were waste shall be presumed to be waste unless the contrary is proved;
+and for the purposes of this Act anything which is discarded or otherwise dealt with as if it were waste shall be presumed to be waste unless the contrary is proved;
 
 “work place” means any premises or place used for any industrial, trade, commercial or manufacturing purposes and includes all construction sites, work sites and farms.
 
@@ -454,9 +436,9 @@ ADMINISTRATION
 
 (2) The Commissioner shall have the superintendence of all matters relating to this Act subject to the general or special directions of the Minister.
 
-(3) The Deputy Commissioners of Public Health and the Assistant Commissioners of Public Health shall have and may exercise all the powers conferred on the Commissioner by or under this Act, subject to such limitations as the Commissioner may think fit to impose.
+(3) The Deputy Commissioners of Public Health and the Assistant Commissioners of Public Health shall have and may exercise all the powers conferred on the Commissioner under this Act, subject to such limitations as the Commissioner may think fit to impose.
 
-### Public Health officers and other employees
+### Public health officers and other employees
 
 4\. The Minister may appoint such number of public health officers and other employees as he may think fit for the purposes of this Act.
 
@@ -468,37 +450,37 @@ Cleaning of Streets
 
 ### Commissioner to cause public streets to be cleansed
 
-5\. The Commissioner shall cause public streets, including the footways thereof, to be properly swept and cleansed and watered so far as is reasonably practicable and refuse and filth of every sort found thereon to be collected and removed.
+5\. The Commissioner shall cause public streets, including the footways thereof, to be properly swept and cleansed and watered so far as is reasonably practicable, and refuse and filth of every sort found thereon to be collected and removed.
 
 ### Duty of owner and occupier to keep clean private streets, etc., abutting on their premises
 
-6\.—(1) The owner and occupier of any premises abutting upon any private street to which they have access or the right of access from such premises shall cause such portion of the street as fronts, adjoins or abuts on their premises and up to the centre thereof including the footways to be properly swept and cleansed and watered so far as is reasonably practicable and refuse and filth of every sort found thereon to be collected and removed.
+6\.—(1) The owner and the occupier of any premises abutting upon any private street to which they have access or the right of access from such premises shall cause such portion of the street as fronts, adjoins or abuts on their premises and up to the centre thereof including the footways to be properly swept and cleansed and watered so far as is reasonably practicable and refuse and filth of every sort found thereon to be collected and removed.
 
-(2) The owner and occupier of any premises shall cause the immediate vicinity of such premises, including the footways and backyards abutting thereon, and the airwells, courtyards and quadrangles thereof to be kept clean and free of refuse, filth or other matter or any accumulation of water.
+(2) The owner and the occupier of any premises shall cause the immediate vicinity of such premises, including the footways and backyards abutting thereon, and the airwells, courtyards and quadrangles thereof to be kept clean and free of refuse, filth or other matter or any accumulation of water.
 
 (3) The Commissioner may by notice in writing require any person upon whom any duty is cast under subsection (1) or (2) to sweep and cleanse and water such street and to collect and remove the refuse, filth and other matter found thereon at such time or times as are stated in the notice.
 
 ### Dustbins in streets
 
-7\.—(1) The Commissioner may cause any number of dustbins or other convenient receptacles wherein refuse may be temporarily deposited to be provided and placed in proper and convenient locations in public streets and private streets and in such other places as he may think fit, and may cause vehicles to go round to collect the same.
+7\.—(1) The Commissioner may cause any number of dustbins or other convenient receptacles wherein refuse may be temporarily deposited to be provided and placed in proper and convenient locations in public streets and private streets and in such other places as he may think fit, and may cause vehicles to go round to collect the refuse.
 
-(2) No person shall deposit, or cause or permit to be deposited any dung, nightsoil, human excreta, industrial waste, stable refuse or garden refuse in any such dustbin or receptacle, except that such garden refuse comprising grass, small twigs and the like as may be reasonably accommodated in such receptacles may be placed therein.
+(2) No person shall deposit, or cause or permit to be deposited any dung, nightsoil, human excreta, industrial waste, stable refuse or garden refuse in any such dustbin or receptacle, except that such garden refuse comprising grass, small twigs and the like as may be reasonably accommodated in those dustbins or receptacles may be placed therein.
 
 Removal of Refuse and Nightsoil
 
-### Commissioner may apply systems for collection and removal of refuse, etc
+### Commissioner may apply systems for collection and removal of refuse, etc.
 
-8\.—(1) The Commissioner may at any time apply to all premises within such area as he may determine any system which he thinks fit for the collection and removal of nightsoil, refuse and waste of every description from such premises.
+8\.—(1) The Commissioner may at any time apply to all premises within such area as he may determine any system which he thinks fit for the collection and removal of nightsoil, refuse and waste of every description from those premises.
 
 (2) The occupier of every premises in an area to which such system is applied shall pay a prescribed fee for the collection and removal of any nightsoil, refuse or waste from those premises.
 
-### Removal of trade refuse, industrial waste, etc
+### Removal of trade refuse, industrial waste, etc.
 
 9\.—(1) The Commissioner may, by notice in writing, require any person carrying on a trade, manufacture or business or occupying any stable, cattle-shed or place for keeping sheep, goats, swine or poultry, to remove periodically industrial waste or stable refuse to a disposal facility for disposal.
 
 (2) Any person upon whom a notice has been served under subsection (1) shall, if so required by the Commissioner, furnish evidence that he has complied with the notice.
 
-### Commissioner may require owner and occupier to provide dustbins and refuse bin, etc
+### Commissioner may require owner and occupier to provide dustbins and refuse bins, etc.
 
 10\.—(1) The Commissioner may, by notice in writing, require the owner or occupier of any premises to provide, construct or reconstruct at the expense of the owner or occupier and within such period as may be specified in the notice —
 
@@ -510,7 +492,7 @@ Removal of Refuse and Nightsoil
 
 ### Maintenance of refuse chutes in buildings
 
-11\.—(1) The owner of a building or part thereof served by a refuse lift which is wholly or partly used for the conveyance of refuse or by a refuse chute or chute chamber shall be responsible for the maintenance, repair or replacement of such lift, chute or chute chamber.
+11\.—(1) The owner of a building or part thereof served by a refuse lift which is wholly or partly used for the conveyance of refuse or by a refuse chute or chute chamber shall be responsible for the maintenance, repair or replacement of the refuse lift, refuse chute or chute chamber.
 
 (2) The Commissioner may, by notice in writing, require the owner of a building or part thereof served by a refuse lift, refuse chute and chute chamber to maintain, repair or replace the refuse lift, refuse chute or chute chamber or both, or to change the dimensions of such refuse lift, refuse chute or chute chamber as the Commissioner may consider necessary.
 
@@ -546,17 +528,17 @@ shall be guilty of an offence.
 
 (4) The Commissioner may by notice in writing require the owner or occupier of such land to remove such nightsoil or receptacles or to fill up such pits, as the case may be.
 
-### Prohibition on use of nightsoil for manuring earth in pots, etc
+### Prohibition on use of nightsoil for manuring earth in pots, etc.
 
 15\. No person shall use any nightsoil or human excreta for the purpose of manuring any earth, soil or other substance contained in any pot, box, container or other receptacle.
 
 ### Prohibition of cultivation or use of manure or irrigation which is a nuisance
 
-16\. If at any time it appears to the Commissioner that the method of cultivation of any description of crop or the use or storing or method of preparing or dealing with any kind of manure (including prawn dust, prawn shell, chicken droppings and stable refuse) or the irrigation of land in any specific manner in any premises or area is a nuisance, the Commissioner may prohibit such method of cultivation or such use or storing or method of preparing or dealing with such manure or such manner of irrigation within such premises or area or may regulate any of the aforesaid by imposing such conditions thereon as the Commissioner may think necessary for the prevention of the nuisance.
+16\. If at any time it appears to the Commissioner that the method of cultivation of any description of crop or the use or storing or method of preparing or dealing with any kind of manure (including prawn dust, prawn shell, chicken droppings and stable refuse) or the irrigation of land in any specific manner in any premises or area is a nuisance, the Commissioner may prohibit the method of cultivation or the use or storing or method of preparing or dealing with the manure or the manner of irrigation within such premises or area or may regulate any of the aforesaid by imposing such conditions thereon as the Commissioner may think necessary for the prevention of the nuisance.
 
 ### All refuse, etc., collected to be property of Government
 
-17\.—(1) All refuse, waste and filth of every sort and any matter or thing collected by the employees, contractors or agents of the Government from streets, buildings or any premises or place or brought by any person to any public disposal facility shall be the property of the Government which may sell or dispose of the same as it thinks fit.
+17\.—(1) All refuse, waste and filth of every sort and any matter or thing collected by the employees, contractors or agents of the Government from streets, buildings or any premises or place or brought by any person to any public disposal facility shall be the property of the Government which may sell or dispose of the refuse, waste and filth as it thinks fit.
 
 (2) No person shall without the written permission of the Commissioner remove any refuse, waste or filth or any other matter or thing brought into any public disposal facility for disposal or treatment.
 
@@ -584,19 +566,19 @@ Offences in respect of Uncleanliness in Public Places
 
 (3) Any person who contravenes subsection (1) or (2) shall be guilty of an offence.
 
-### Building works constituting danger to life, health, etc
+### Building works constituting danger to life, health, etc.
 
 19\. Any person who, during the erection, alteration, construction or demolition of any building or at any time whatsoever, fails to take reasonable precautions to prevent danger to the life, health or well-being of persons using any public place from flying dust or falling fragments or from any other material, thing or substance shall be guilty of an offence.
 
 ### Prohibition against dumping refuse, etc., in any public place
 
-20\.—(1) Any person who drops, scatters, spills or throws any dirt, sand, earth, gravel, clay, loam, manure, refuse, sawdust, shavings, stone, straw or any other thing or matter in any public place, whether from a moving or stationary vehicle or in any other manner shall be guilty of an offence.
+20\.—(1) Any person who drops, scatters, spills or throws any dirt, sand, earth, gravel, clay, loam, manure, refuse, sawdust, shavings, stone, straw or any other matter or thing in any public place, whether from a moving or stationary vehicle or in any other manner shall be guilty of an offence.
 
 (2) The Commissioner may, by notice in writing, require any person carrying out any construction or earth works to provide or construct any device or facilities as the Commissioner may think fit for the removal of dirt, earth, sand or other particles from any vehicle used in connection with the construction and earth works.
 
-(3) Where any vehicle is used in disposing or dumping of refuse, waste or any other article in any public place, other than a public disposal facility or a disposal facility established with the permission of the Commissioner under section 23(1), such vehicle may be seized by any police officer or any public health officer authorised in writing in that behalf by the Commissioner and removed to and detained in any police station or Government depot or other place as may be approved by the Commissioner at the risk of the owner for the purposes of proceedings under this Act.
+(3) Where any vehicle is used in disposing or dumping of refuse, waste or any other article in any public place, other than a public disposal facility or a disposal facility established with the permission of the Commissioner under section 23(1), the vehicle may be seized by any police officer or any public health officer authorised in writing in that behalf by the Commissioner and removed to and detained in any police station or Government depot or other place as may be approved by the Commissioner at the risk of the owner for the purposes of proceedings under this Act.
 
-(4) The court on convicting any person of an offence under subsection (1) shall, on the written application of the Public Prosecutor, make an order for the forfeiture of the vehicle which has been used in the commission of the offence notwithstanding that no person may have been convicted of that offence.
+(4) A court on convicting any person of an offence under subsection (1) shall, on the written application of the Public Prosecutor, make an order for the forfeiture of the vehicle which has been used in the commission of the offence notwithstanding that no person may have been convicted of that offence.
 
 (5) An order for the forfeiture or for the release of a vehicle liable to forfeiture under subsection (4) may be made by the court before which the prosecution with regard to an offence under subsection (1) has been or will be held.
 
@@ -610,19 +592,19 @@ Offences in respect of Uncleanliness in Public Places
 
 (10) For the purposes of subsection (1) —
 
-(a) where the thing or matter is dropped, scattered, spilt or thrown from a vehicle, the driver or person having charge or control of the vehicle shall be deemed to have committed the offence, unless the offence is committed by a person other than the driver or person having charge or control of the vehicle and the identity of the person who committed the offence can be established; and
+(a) where the matter or thing is dropped, scattered, spilt or thrown from a vehicle, the driver or person having charge or control of the vehicle shall be deemed to have committed the offence, unless the offence is committed by a person other than the driver or person having charge or control of the vehicle and the identity of the person who committed the offence can be established; and
 
 (b) where the driver of a motor vehicle is alleged or is suspected to be guilty of the offence —
 
-(i) the owner of the motor vehicle shall give such information as he may be required to give by a police officer, public health officer or by a public officer authorised in writing in that behalf by the Commissioner as to the identity and address of the person who was driving the motor vehicle at or about the time of the alleged offence and such other information as the police officer, public health officer or public officer may require, and if he fails to do so within 14 days of the date on which the information was required from him, he shall be guilty of an offence unless he proves to the satisfaction of the Court that he did not know and could not with reasonable diligence have ascertained the information required; and
+(i) the owner of the motor vehicle shall give such information as he may be required to give by a police officer, public health officer or by a public officer authorised in writing in that behalf by the Commissioner as to the identity and address of the person who was driving the motor vehicle at or about the time of the alleged offence and such other information as the police officer, public health officer or public officer may require, and if he fails to do so within 14 days of the date on which the information was required from him, he shall be guilty of an offence unless he proves to the satisfaction of the court that he did not know and could not with reasonable diligence have ascertained the information required; and
 
-(ii) any other person who was or should have been in charge or in control of the motor vehicle shall, if so required as aforesaid, give any information which it is in his power to give, and which may lead to the identification of the driver, and if, within 14 days of the date on which the information was required from him, he fails to do so, he shall be guilty of an offence.
+(ii) any other person who was or should have been in charge or in control of the motor vehicle shall, if so required, give any information which it is in his power to give, and which may lead to the identification of the driver, and if, within 14 days of the date on which the information was required from him, he fails to do so, he shall be guilty of an offence.
 
 ### Notice to attend Court
 
-21\.—(1) Any person who commits an offence under section 18, 19 or 20 may be arrested without warrant by any police officer, public health officer or public officer authorised in writing in that behalf by the Commissioner and taken before a Magistrate’s Court and shall be liable on conviction to a fine not exceeding $1,000, and in the case of a second or subsequent conviction to a fine not exceeding $2,000.
+21\.—(1) Any person who commits an offence under section 18, 19 or 20 may be arrested without warrant by any police officer, public health officer or public officer authorised in writing in that behalf by the Commissioner and taken before a Magistrate’s Court and shall be liable on conviction to a fine not exceeding $1,000 and in the case of a second or subsequent conviction to a fine not exceeding $2,000.
 
-(2) Notwithstanding subsection (1) or of any other written law, any police officer, public health officer or public officer who, having effected an arrest in accordance with this section, is satisfied as to the identity, name and place of residence of the person arrested, may, instead of taking such person before a Court or to a police station, serve upon such person a notice in such form as may be prescribed under section 115 requiring the person to attend at the Court described at the hour and on the date specified in the notice.
+(2) Notwithstanding subsection (1) or any other written law, any police officer, public health officer or public officer who, having effected an arrest in accordance with this section, is satisfied as to the identity, name and place of residence of the person arrested, may, instead of taking that person before a Court or to a police station, serve upon that person a notice in such form as may be prescribed under section 115 requiring the person to attend at the Court described at the hour and on the date specified in the notice.
 
 (3) For the purpose of satisfying himself as to the identity of the person arrested, the police officer, public health officer or public officer may require the person to furnish such evidence of identity as he may consider necessary.
 
@@ -634,19 +616,19 @@ Offences in respect of Uncleanliness in Public Places
 
 (7) Upon a person arrested in pursuance of a warrant of arrest issued under subsection (6) being produced before a Court, the Court shall proceed as though he were produced before it under subsection (1) and shall at the conclusion of the proceedings call upon him to show cause why he should not be punished for failing to attend in compliance with the notice served upon him and if cause is not shown may order him to pay such penalty not exceeding $2,000 as the Court thinks fit or may commit him to prison for a term not exceeding 2 months.
 
-(8) Upon the conviction of any person under subsection (1), the Commissioner may, in the manner provided in section 95, recover from such person the costs and expenses incurred by the Commissioner in cleaning the public place except that where an offence was committed by any person in the course of his employment, the Commissioner may recover the costs and expenses in the said manner from the employer of such person.
+(8) Upon the conviction of any person under subsection (1), the Commissioner may, in the manner provided in section 95, recover from the person the costs and expenses incurred by the Commissioner in cleaning the public place except that where an offence was committed by any person in the course of his employment, the Commissioner may recover the costs and expenses in the manner provided in section 95 from the employer of such person.
 
 (9) This section shall apply mutatis mutandis to any person who contravenes any regulations made under this Act in respect of public cleansing.
 
-Disposal facilities
+Disposal Facilities
 
 ### Provision of public disposal facilities
 
-22\.—(1) The Commissioner may provide, acquire, construct and maintain disposal facilities (hereinafter referred to as public disposal facilities) for the deposit, disposal and treatment of refuse or waste as he may consider necessary and may make available such facilities to any person upon payment of any fees or charges as may be prescribed.
+22\.—(1) The Commissioner may provide, acquire, construct and maintain disposal facilities (referred to in this Act as public disposal facilities) for the deposit, disposal and treatment of refuse or waste as he may consider necessary and may make available the facilities to any person upon payment of any fees or charges as may be prescribed.
 
-(2) The Commissioner may refuse to accept any refuse or waste brought to any public disposal facility without assigning any reason therefor or may accept refuse or waste of such description or kind upon such terms and conditions as he may consider necessary.
+(2) The Commissioner may refuse to accept any refuse or waste brought to any public disposal facility without assigning any reason or may accept refuse or waste of such description or kind upon such terms and conditions as he may consider necessary.
 
-### No disposal facility to be constructed without permission
+### No disposal facility to be constructed, etc., without licence
 
 23\.—(1) No person shall construct, establish, maintain or operate any disposal facility without the written permission of the Commissioner.
 
@@ -682,7 +664,7 @@ Disposal and Treatment of Industrial Waste
 
 28\. The Commissioner may, by notice in writing, require the occupier of any work place to recycle or treat any industrial waste found or produced in those premises at his own expense before it is brought to any public disposal facility for disposal.
 
-### Toxic waste not to be brought to public disposal facility without permission
+### Dangerous substance or toxic waste not to be brought to disposal facility without permission
 
 29\.—(1) No toxic industrial waste or the residue from the treatment thereof shall be brought to any public disposal facility for disposal or treatment without the written permission of the Commissioner.
 
@@ -690,13 +672,13 @@ Disposal and Treatment of Industrial Waste
 
 ### Excessive production of toxic waste
 
-30\. Where in the opinion of the Commissioner the quantity of toxic industrial waste produced in any work place is or is likely to be excessive or unduly toxic, he may by notice require the occupier of such premises to —
+30\. Where in the opinion of the Commissioner the quantity of toxic industrial waste produced in any work place is or is likely to be excessive or unduly toxic, he may by notice require the occupier of the work place to —
 
-(a) alter the method of operation or process used in such premises;
+(a) alter the method of operation or process used in the work place;
 
-(b) alter, install, repair or replace any device, equipment or plant used in such premises;
+(b) alter, install, repair or replace any device, equipment or plant used in the work place;
 
-(c) use other materials or substances other than those used in such premises; or
+(c) use other materials or substances other than those used in the work place; or
 
 (d) take such other steps as may be necessary to reduce the quantity or toxicity of such waste.
 
@@ -712,17 +694,17 @@ FOOD ESTABLISHMENTS, MARKETS AND HAWKERS
 
 ### Food establishments to be licensed
 
-32\.—(1) No person shall operate or use or knowingly permit a food establishment to be used for any of the purposes set out in the First Schedule without obtaining a licence from the Commissioner.
+32\.—(1) No person shall operate or use or knowingly permit a food establishment to be used for any of the purposes set out in the First Schedule without first obtaining a licence from the Commissioner.
 
 (2) Upon any conviction under subsection (1), the Commissioner may, by order in writing addressed to the convicted person, require that the place or premises or any part thereof where the offence took place shall no longer be operated or used as a food establishment as from such date as the Commissioner shall specify in the order; and if that person fails to comply with any such order the Commissioner may take such steps or measures as are necessary to ensure that the order is complied with and shall be entitled to recover from that person the costs and expenses incurred by the Commissioner in doing so.
 
-### Licensing of hawkers operating from stalls, etc
+### Licensing of hawkers operating from stalls, etc.
 
-33\. No person shall hawk, sell or expose for sale any food or goods of any kind or set up or use any stall, table, showboard, vehicle or receptacle for the purpose of hawking, selling or exposing for sale any food or goods of any kind in any street or part thereof or in any premises or public place without obtaining a licence from the Commissioner.
+33\. No person shall hawk, sell or expose for sale any food or goods of any kind or set up or use any stall, table, showboard, vehicle or receptacle for the purpose of hawking, selling or exposing for sale any food or goods of any kind in any street or part thereof or in any premises or public place without first obtaining a licence from the Commissioner.
 
 ### Licensing of itinerant hawkers
 
-34\.—(1) No person shall act as an itinerant hawker without obtaining a licence from the Commissioner.
+34\.—(1) No person shall act as an itinerant hawker without first obtaining a licence from the Commissioner.
 
 (2) The Commissioner may, subject to such conditions as he may think fit, permit licensed itinerant hawkers to occupy stationary positions for such period as he may think fit on such site or sites as may from time to time be approved by him for this purpose.
 
@@ -734,25 +716,25 @@ FOOD ESTABLISHMENTS, MARKETS AND HAWKERS
 
 ### Licences for private markets
 
-36\. No person shall use any building, situation or place as a private market without obtaining a licence from the Commissioner.
+36\. No person shall use any building, situation or place as a private market without first obtaining a licence from the Commissioner.
 
 ### Persons with infectious diseases not to carry on business
 
-37\.—(1) The Commissioner may require any person to whom a licence has been issued under this Part (hereinafter referred to as a licensee) or any assistant or employee thereof or any applicant for a licence under this Part to submit to medical examination and if such licensee, assistant, employee or applicant is suffering from or is suspected to be suffering from an infectious disease or is suspected to be a carrier thereof, the Commissioner may require him to undergo treatment. The Commissioner may require such treatment to be obtained at any hospital as he may think fit.
+37\.—(1) The Commissioner may require any person to whom a licence has been issued under this Part (referred to in this Act as a licensee) or any assistant or employee of the licensee or any applicant for a licence under this Part to submit to medical examination and if such licensee, assistant, employee or applicant is suffering from or is suspected to be suffering from an infectious disease or is suspected to be a carrier thereof, the Commissioner may require him to undergo treatment. The Commissioner may require that treatment to be obtained at any hospital as he may think fit.
 
-(2) The Commissioner may require any licensee or any assistant or employee thereof to submit to immunisation against any infectious disease.
+(2) The Commissioner may require any licensee or any assistant or employee of the licensee to submit to immunisation against any infectious disease.
 
 (3) Every licensee shall ensure that his assistant or any person employed by him is immunised against any infectious disease as required by the Commissioner.
 
 (4) The Commissioner may at any time revoke or suspend any licence issued under this Part if —
 
-(a) a licensee is suffering from an infectious disease;
+(a) the licensee is suffering from an infectious disease;
 
-(b) a licensee knowingly employs any person who is suffering from or is suspected to be suffering from an infectious disease;
+(b) the licensee knowingly employs any person who is suffering from or is suspected to be suffering from an infectious disease;
 
-(c) a licensee, his assistant or employee refuses to comply with any requisition made by the Commissioner under subsection (1) or (2); and
+(c) the licensee, his assistant or employee refuses to comply with any requisition made by the Commissioner under subsection (1) or (2); and
 
-(d) a licensee does not comply with subsection (3).
+(d) the licensee does not comply with subsection (3).
 
 ### Unauthorised structures
 
@@ -762,7 +744,7 @@ FOOD ESTABLISHMENTS, MARKETS AND HAWKERS
 
 ### Cleanliness of markets and stalls
 
-39\.—(1) Every licensee of a private market shall keep it in a clean and sanitary condition.
+39\.—(1) Every licensee of a private market shall keep the market in a clean and sanitary condition.
 
 (2) Every licensee of a stall shall keep his stall and the immediate vicinity thereof in a clean and sanitary condition.
 
@@ -778,25 +760,25 @@ FOOD ESTABLISHMENTS, MARKETS AND HAWKERS
 
 (i) for the sale, either wholesale or retail, of articles of food intended for human consumption; or
 
-(ii) for the preparation or storage of such articles intended for sale;
+(ii) for the preparation or storage of such articles intended for sale; and
 
 (b) search any cart or vehicle or any basket, sack, bag, parcel or receptacle which he has reasonable grounds for believing to contain articles of food intended for human consumption and may examine any such articles which are therein.
 
-(3) If it appears to the Commissioner or public health officer that any such article is unsound or unfit for human consumption, the article may be seized by the Commissioner or public health officer.
+(3) If it appears to the Commissioner or a public health officer that any such article is unsound or unfit for human consumption, the article may be seized by the Commissioner or public health officer.
 
-(4) Any article seized may be kept or stored in the place or premises where it was seized or may at the direction of the Commissioner or public health officer be removed to any other place or, where the article is likely to decay or is deleterious to health, be destroyed.
+(4) Any article seized may be kept or stored in the place or premises where it was seized or may at the direction of the Commissioner or a public health officer be removed to any other place or, where the article is likely to decay or is deleterious to health, be destroyed.
 
 (5) A certificate signed by the Commissioner shall be accepted by a Magistrate’s Court as sufficient evidence that any article seized was unsound or unfit for human consumption at the time of seizure.
 
-(6) A person claiming anything seized under this section may within 48 hours after such seizure complain thereof to a Magistrate’s Court, and such complaint may be heard and determined by the Court, which may either confirm or disallow the seizure wholly or in part, or may order any article seized to be returned to the owner and may order payment to be made to the owner of the article of such amount as the Court considers will compensate him for any loss or depreciation resulting from the seizure.
+(6) A person claiming anything seized under this section may within 48 hours after the seizure complain thereof to a Magistrate’s Court, and such complaint may be heard and determined by the Court, which may either confirm or disallow the seizure wholly or in part, or may order any article seized to be returned to the owner and may order payment to be made to the owner of the article of such amount as the Court considers will compensate him for any loss or depreciation resulting from the seizure.
 
 (7) If within 48 hours after such seizure no complaint has been made, or if such seizure is confirmed, every article seized shall become the property of the Government and shall be destroyed or otherwise disposed of so as to prevent the article from being used for human consumption.
 
 (8) No person shall obstruct the Commissioner or a public health officer in the exercise of his powers under this section or tamper with any article of food kept or stored in any place or premises under subsection (4).
 
-### Cleanliness of vehicles and equipment, etc
+### Cleanliness of vehicles, equipment, etc.
 
-41\.—(1) Any person who uses a vehicle for the transportation of food shall ensure that any surface of the vehicle with which the food is likely to come into contact is kept in a state of cleanliness, good order and condition so as to prevent any risk of contamination of the food.
+41\.—(1) Any person who uses a vehicle for the transportation of food shall ensure that the surface of the vehicle with which the food is likely to come into contact is kept in a state of cleanliness, good order and condition so as to prevent any risk of contamination of the food.
 
 (2) The Commissioner may, by notice in writing, require any person who uses a vehicle to transport food to use or install in or on the vehicle any device or equipment as he thinks fit to ensure that the food carried in or on the vehicle will not be contaminated.
 
@@ -812,11 +794,11 @@ FOOD ESTABLISHMENTS, MARKETS AND HAWKERS
 
 (5) On an accused person appearing before a Court in pursuance of such a notice, the Court shall take cognizance of the offence alleged and shall proceed as though he were produced before it in pursuance of subsection (1).
 
-(6) If a person upon whom a notice under subsection (2) has been served fails to appear before a Court in accordance therewith, the Court shall thereupon issue a warrant for the arrest of that person.
+(6) If a person upon whom a notice under subsection (2) has been served fails to appear before a Court in accordance with the notice, the Court shall thereupon issue a warrant for the arrest of that person.
 
 (7) Upon a person arrested in pursuance of a warrant issued under subsection (6) being produced before it, a Court shall proceed as though he were produced before it in pursuance of subsection (1) and shall at the conclusion of the proceedings call upon him to show cause why he should not be punished for failing to attend in compliance with the notice served upon him and if cause is not shown may order him to pay such penalty not exceeding $2,000 as the Court may think fit or may commit him to prison for a term not exceeding 2 months.
 
-(8) Any stall, together with any appliances and utensils relating thereto and the food or goods intended or exposed for sale, whether or not they appear to be abandoned, belonging or appearing to belong to or in the possession of a person appearing to be committing or to have committed an offence under this Part may be seized by any police officer, public health officer or by public officer authorised as aforesaid and removed to and detained in any police station or such other place as may be approved by the Commissioner at the risk of the owner, to abide the directions of a Magistrate’s Court.
+(8) Any stall, together with any appliances and utensils relating thereto and the food or goods intended or exposed for sale, whether or not they appear to be abandoned, belonging or appearing to belong to or in the possession of a person appearing to be committing or to have committed an offence under this Part may be seized by any police officer, public health officer or a public officer authorised as aforesaid and removed to and detained in any police station or such other place as may be approved by the Commissioner at the risk of the owner, to abide the directions of a Magistrate’s Court.
 
 (9) If any money is found, together with any food, articles, appliances or utensils seized under subsection (8), the money shall be deemed to be lawfully seized.
 
@@ -824,7 +806,7 @@ FOOD ESTABLISHMENTS, MARKETS AND HAWKERS
 
 (11) Any cooked or uncooked food or perishable articles or goods, seized and removed under subsection (8) and likely to decay may be disposed of forthwith.
 
-(12) If any abandoned articles or goods so seized and detained, other than cooked or uncooked food or perishable articles or goods already disposed of, are claimed within 48 hours after such seizure by the owner thereof, being a person licensed or otherwise lawfully entitled to set up or sell such articles or goods at the place at which the same were seized, such abandoned articles or goods shall be returned to him.
+(12) If any abandoned articles or goods so seized and detained, other than cooked or uncooked food or perishable articles or goods already disposed of, are claimed within 48 hours after the seizure by the owner thereof, being a person licensed or otherwise lawfully entitled to set up or sell the articles or goods at the place at which the articles or goods were seized, such abandoned articles or goods shall be returned to him.
 
 (13) Every seizure shall, except when the articles, goods or money have been returned to the owner, be reported to a Magistrate’s Court.
 
@@ -844,17 +826,17 @@ FOOD ESTABLISHMENTS, MARKETS AND HAWKERS
 
 PUBLIC NUISANCES
 
-### Pubic nuisances to be abated
+### Public nuisances to be abated
 
 43\. The Commissioner may take such steps as he may consider necessary to remove or abate all nuisances of a public nature and may, if he considers that the circumstances so warrant, proceed at law against any person committing any such nuisance.
 
 ### Nuisances liable to be dealt with summarily
 
-44\. For the purposes of this Act, the following shall be nuisances liable to be dealt with summarily under this Act —
+44\. For the purposes of this Act, the following shall be nuisances liable to be dealt with summarily under this Act:
 
 (a) any premises or part thereof of such a construction or in such a state as to be a nuisance or injurious or dangerous to health;
 
-(b) any pool, gutter, watercourse, sanitary conveniences, earth-closet, cesspool, sewer or drain in a foul state or so situate as to be a nuisance or injurious or dangerous to health;
+(b) any pool, gutter, watercourse, earth-closet, cesspool, sewer, drain or sanitary conveniences in a foul state or so situate as to be a nuisance or injurious or dangerous to health;
 
 (c) the keeping of any animal, bird, poultry or carcase in such place or manner or in such numbers as to be a nuisance or injurious or dangerous to health;
 
@@ -872,9 +854,9 @@ PUBLIC NUISANCES
 
 (j) any furnace, chimney, fire-place or other place from which is emitted smoke or other unconsumed combustible matter in such quantity or in such a manner as to be a nuisance or injurious or dangerous to health;
 
-(k) any brick-field, sandpit or any other kind of excavation which is injurious to health or offensive to the neighbourhood or used for any purpose likely to be injurious to health;
+(k) any brick-field, sandpit or any other kind of excavation which is injurious to health or offensive to the neighbourhood or is used for any purpose likely to be injurious to health;
 
-(l) any machinery, plant used or any method or process used in any premises which causes a nuisance or is dangerous to public health or safety;
+(l) any machinery, plant or any method or process used in any premises which causes a nuisance or is dangerous to public health or safety;
 
 (m) any place where there occurs, or from which there emanates noise or vibration as to amount to a nuisance; or
 
@@ -882,7 +864,7 @@ PUBLIC NUISANCES
 
 ### Nuisance order
 
-45\.—(1) On the receipt of any information respecting the existence of a nuisance liable to be dealt with summarily under this Act, the Commissioner may, if satisfied of the existence of a nuisance, serve a nuisance order on the person by whose act, default or sufferance the nuisance arises or continues, or if the person cannot be found, on the owner or occupier of the premises on which the nuisance arises.
+45\.—(1) On receipt of any information respecting the existence of a nuisance liable to be dealt with summarily under this Act, the Commissioner may, if satisfied of the existence of a nuisance, serve a nuisance order on the person by whose act, default or sufferance the nuisance arises or continues, or if the person cannot be found, on the owner or occupier of the premises on which the nuisance arises.
 
 (2) A nuisance order may —
 
@@ -896,7 +878,7 @@ PUBLIC NUISANCES
 
 (3) A nuisance order shall, if the Commissioner thinks it desirable, specify the works to be executed by any person under subsection (2).
 
-(4) Where the person causing the nuisance cannot be found and it is clear that the nuisance does not arise or continue by the act, default or sufferance of the occupier or the owner of the premises, the Commissioner may cause the same to be abated and may do what is necessary to prevent the recurrence of the nuisance.
+(4) Where the person causing the nuisance cannot be found and it is clear that the nuisance does not arise or continue by the act, default or sufferance of the occupier or the owner of the premises, the Commissioner may cause the nuisance to be abated and may do what is necessary to prevent the recurrence of the nuisance.
 
 (5) Where a nuisance order prohibits a dwelling-house from being used for human habitation, the Commissioner may, when satisfied that it has been rendered fit for human habitation, cancel the nuisance order.
 
@@ -912,7 +894,7 @@ may make a complaint to a Magistrate’s Court, and such Court after hearing the
 
 (7) The order may also contain a direction that the materials of the dwelling-house or any part of such materials shall be destroyed.
 
-(8) Where a nuisance order prohibits a dwelling-house from being used for human habitation, the Commissioner shall serve notice of the order on every occupier of the dwelling-house and, within such period as is specified in the order not being less than 7 days (except in case of immediate danger) after the service of the order, the order shall be obeyed by him and he and his family shall cease to inhabit the dwelling-house, and in default he shall be guilty of an offence and the Court shall, upon application by the Commissioner, make a summary order for his ejectment and the same may be carried into effect by any police officer.
+(8) Where a nuisance order prohibits a dwelling-house from being used for human habitation, the Commissioner shall serve notice of the order on every occupier of the dwelling-house and, within such period as is specified in the order not being less than 7 days (except in case of immediate danger) after the service of the order, the order shall be obeyed by him and he and his family shall cease to inhabit the dwelling-house, and in default he shall be guilty of an offence and the Court shall, upon application by the Commissioner, make a summary order for his ejectment and the order may be carried into effect by any police officer.
 
 ### Execution of order for demolition
 
@@ -928,7 +910,7 @@ NOISE CONTROL
 
 ### Control of noise on construction sites
 
-47\.—(1) Where it appears to the Commissioner that works of the following description, that is to say —
+47\.—(1) Where it appears to the Commissioner that works of the following description:
 
 (a) the erection, construction, alteration, repair or maintenance of buildings, structures or roads;
 
@@ -938,7 +920,7 @@ NOISE CONTROL
 
 (d) any other work of engineering construction,
 
-are being, or are going to be carried out on any premises, he may, by notice in writing, impose requirements as to the way in which the works are to be carried out on the person who appears to be carrying out, or going to carry out the works or on such other persons appearing to the Commissioner to be responsible for or to have control over the carrying out of such works.
+are being, or are going to be carried out on any premises, he may, by notice in writing, impose requirements as to the way in which the works are to be carried out on the person who appears to be carrying out, or going to carry out the works or on such other person appearing to the Commissioner to be responsible for or to have control over the carrying out of such works.
 
 (2) The notice may in particular specify —
 
@@ -946,33 +928,33 @@ are being, or are going to be carried out on any premises, he may, by notice in 
 
 (b) the hours during which the works may be carried out; and
 
-(c) the level of noise or vibration which may be emitted from such premises in question or at any specified part of those premises or which may be so emitted during specified hours.
+(c) the level of noise or vibration which may be emitted from the premises in question or at any specified part of those premises or which may be so emitted during specified hours.
 
-### Noise control notices; work premises
+### Noise control notices; work place or premises
 
-48\.—(1) The Commissioner may, by notice in writing served on the occupier of any work place, prohibit him from causing, permitting or allowing any specified —
+48\.—(1) The Commissioner may, by notice in writing served on the occupier of any work place or premises, prohibit him from causing, permitting or allowing any specified —
 
-(a) activity to be carried on in or on those premises; or
+(a) activity to be carried on in or on the work place or premises; or
 
-(b) plant to be used or operated in or on those premises,
+(b) plant to be used or operated in or on the work place or premises,
 
-in such a manner as to cause the emission from those premises of noise that, when measured at any specified point (whether within or outside those premises), is in excess of the specified level.
+in such a manner as to cause the emission from the work place or premises of noise that, when measured at any specified point (whether within or outside the work place or premises) is in excess of the specified level.
 
-(2) Where the Commissioner is satisfied that any noise is being or is likely to be emitted from any work place, the Commissioner may, by notice in writing served on the occupier, require the occupier to —
+(2) Where the Commissioner is satisfied that any noise is being or is likely to be emitted from any work place or premises, the Commissioner may, by notice in writing served on the occupier, require the occupier to —
 
-(a) install and operate noise control equipment in or on those premises;
+(a) install and operate noise control equipment in or on the work place or premises;
 
-(b) repair, alter or replace any noise control equipment in or on those premises;
+(b) repair, alter or replace any noise control equipment in or on the work place or premises;
 
-(c) erect a noise barrier in or on those premises;
+(c) erect a noise barrier in or on the work place or premises;
 
-(d) install plant of a specified type, where the Commissioner is satisfied that the use of that plant will result in the prevention or reduction of the emission of noise from those premises; or
+(d) install plant of a specified type, where the Commissioner is satisfied that the use of that plant will result in the prevention or reduction of the emission of noise from the work place or premises; or
 
-(e) carry out repairs or adjustments to specified plant or machinery, where the Commissioner is satisfied that the carrying out of those repairs or adjustments will result in the prevention or reduction of the emission of noise from those premises,
+(e) carry out repairs or adjustments to specified plant or machinery, where the Commissioner is satisfied that the carrying out of those repairs or adjustments will result in the prevention or reduction of the emission of noise from the work place or premises,
 
 within the specified time and in the specified manner.
 
-(3) The Commissioner may, by notice in writing served on the occupier of any work place, require the occupier to operate, in accordance with any directions contained in the notice, any noise control equipment in or on those premises.
+(3) The Commissioner may, by notice in writing served on the occupier of any work place or premises, require the occupier to operate, in accordance with any directions contained in the notice, any noise control equipment in or on the work place or premises.
 
 (4) In this section, “plant” means any plant, equipment, apparatus, device, machine or mechanism.
 
@@ -984,7 +966,7 @@ within the specified time and in the specified manner.
 
 (b) before specifying any particular methods or plant or machinery, to the desirability in the interests of any recipient of the notice in question of specifying other methods or plant or machinery which would be substantially as effective in minimising noise or vibration and more acceptable to him; or
 
-(c) to the need to protect any person in the locality in which the premises or work place in question are situated from the effects of noise or vibration.
+(c) to the need to protect any person in the locality in which the work place or premises in question are situated from the effects of noise or vibration.
 
 ## PART VII
 
@@ -994,13 +976,13 @@ Insanitary Premises
 
 ### Premises in unwholesome state
 
-50\. Where the Commissioner is of the opinion that any premises whether tenantable or otherwise or any part thereof are in an unclean, grimy, neglected, unkempt or insanitary condition, he may by an order in writing direct the owner or occupier thereof to take all or any of the following measures at the expense of that owner or occupier within a time and date to be specified in the order:
+50\. Where the Commissioner is of the opinion that any premises, whether tenantable or otherwise, or any part thereof are in an unclean, grimy, neglected, unkempt or insanitary condition, he may by an order in writing direct the owner or occupier thereof to take all or any of the following measures at the expense of that owner or occupier within a time and date to be specified in the order:
 
 (a) remove all rank or noisome vegetation, refuse or other matter within those premises or part thereof, or in the immediate vicinity of those premises, to such place or otherwise dispose of it at such place, as may be specified in the order;
 
 (b) cleanse the premises or part thereof internally or externally, or both internally and externally, and if necessary disinfect it.
 
-### Destruction of rats, wasps, bees, etc
+### Destruction of rats, wasps, bees, etc.
 
 51\.—(1) Where the Commissioner is of the opinion that —
 
@@ -1008,23 +990,23 @@ Insanitary Premises
 
 (b) there exist, in any premises, wasps, bees, hornets or other insects capable of stinging and the Commissioner is of the opinion that there is a probability, risk or danger that the persons in those premises or in the vicinity thereof may be stung by them, or if any of those persons has been stung by them,
 
-the Commissioner may, by notice in writing, require the owner or the occupier of the premises at his own expense, to take such measures as the Commissioner may consider necessary within such time and date as may be specified in the notice, for the destruction of the rats, mice, wasps, bees, hornets or other insects or vermins, for the removal of their breeding places and for preventing their reappearance.
+the Commissioner may, by notice in writing, require the owner or occupier of the premises at his own expense to take such measures as the Commissioner may consider necessary, within such time and date as may be specified in the notice, for the destruction of the rats, mice, wasps, bees, hornets or other insects or vermins, for the removal of their breeding places and for preventing their reappearance.
 
-(2) Where bees, hornets, wasps or other insects capable of stinging exist in any vacant premises and the owner cannot by the exercise of reasonable diligence be found, and the Commissioner is of the opinion that persons in the vicinity of the premises are in imminent danger of being stung by insects, or if any such persons have been stung by them, he may enter upon the premises and take such measures as he considers necessary for the destruction of the insects, for the removal of their breeding places and for preventing their reappearance, and the costs and expenses thereby incurred shall be borne by the Government.
+(2) Where wasps, bees, hornets or other insects capable of stinging exist in any vacant premises and the owner cannot by the exercise of reasonable diligence be found, and the Commissioner is of the opinion that persons in the vicinity of the premises are in imminent danger of being stung by them, or if any such persons have been stung by them, he may enter upon the premises and take such measures as he considers necessary for their destruction, for the removal of their breeding places and for preventing their reappearance, and the costs and expenses thereby incurred shall be borne by the Government.
 
 ### Closing and demolition, etc., of insanitary dwellings
 
-52\.—(1) Where the Commissioner is of the opinion that any building or part thereof or anything attached to a building used or occupied as a dwelling is unfit for human habitation and cannot be rendered fit therefor without the removal, alteration or demolition in whole or in part of any partition, compartment, loft, gallery, pent-roof, out-house or other structure or erection or without the execution of such alterations or structural operations as he may specify, the Commissioner may, by notice in writing, require the owner thereof to carry into effect all or any of the following:
+52\.—(1) Where the Commissioner is of the opinion that any building or part thereof or anything attached to a building used or occupied as a dwelling-house is unfit for human habitation and cannot be rendered fit therefor without the removal, alteration or demolition in whole or in part of any partition, compartment, loft, gallery, pent-roof, out-house or other structure or erection or without the execution of such alterations or structural operations as he may specify, the Commissioner may, by notice in writing, require the owner thereof to carry into effect all or any of the following:
 
 (a) the removal, alteration or demolition of the whole or a part of the partitions or other erections or obstructions complained of;
 
 (b) the execution of such operations or structural alterations as are necessary to render the premises fit for human habitation and to guard against danger of disease.
 
-(2) The notice shall appoint not less than 24 hours in advance for the commencement of the operation enjoined and shall specify the period within which the operation shall be completed.
+(2) The notice shall give not less than 24 hours in advance for the commencement of the operation enjoined and shall specify the period within which the operation shall be completed.
 
 (3) No person shall, without the express permission in writing of the Commissioner, replace any partition, erection or obstruction removed under subsection (1) and the Commissioner or any person authorised by him in that behalf in writing may enter upon such premises and remove such partition, erection or obstruction.
 
-(4) The Commissioner may also, by notice to be posted in a conspicuous position upon the building, require the owner or the occupier, as the case may be, to cease to inhabit the building and to remove all goods, furniture and effects from the building within 48 hours from the posting of the notice.
+(4) The Commissioner may also, by notice to be posted in a conspicuous position upon the building, require the owner or occupier, as the case may be, to cease to inhabit the building and to remove all goods, furniture and effects from the building within 48 hours from the posting of the notice.
 
 (5) The owner and every occupying tenant shall thereupon comply with the requirements of the notice.
 
@@ -1054,27 +1036,27 @@ the Commissioner shall, by notice in writing to the owner of the building, requi
 
 ### Repairs
 
-56\. If it appears to the Commissioner that any sanitary conveniences provided for or in connection with a building or part thereof are in such a state as to be defective or prejudicial to health or a nuisance, but that they can without reconstruction be put into a satisfactory condition, the Commissioner shall, by notice in writing, require the owner or the occupier of the building to execute such works or to take such steps by cleansing the sanitary conveniences or otherwise as may be necessary for that purpose.
+56\. If it appears to the Commissioner that any sanitary conveniences provided for or in connection with a building or part thereof are in such a state as to be defective or prejudicial to health or a nuisance, but that they can without reconstruction be put into a satisfactory condition, the Commissioner shall, by notice in writing, require the owner or occupier of the building to execute such works or to take such steps by cleansing the sanitary conveniences or otherwise as may be necessary for that purpose.
 
-### Sanitary conveniences in work premises
+### Sanitary conveniences in work premises or work place
 
-57\.—(1) Any premises which are used as work premises or work place shall be provided with adequate sanitary conveniences sited at such locations as the Commissioner may think fit, having regard to the number of persons employed in, or in attendance at, those premises, and where persons of both sexes are employed or in attendance, with adequate separate sanitary conveniences for persons of each sex, unless the Commissioner is satisfied that in the circumstances of any particular case the provision of such separate sanitary conveniences is unnecessary.
+57\.—(1) Any premises which are used as work premises or work place shall be provided with adequate sanitary conveniences sited at such locations as the Commissioner may think fit, having regard to the number of persons employed in, or in attendance at, the work premises or work place, and where persons of both sexes are employed or in attendance, with adequate separate sanitary conveniences for persons of each sex, unless the Commissioner is satisfied that in the circumstances of any particular case the provision of such separate sanitary conveniences is unnecessary.
 
-(2) If it appears to the Commissioner that subsection (1) has not been complied with in the case of any premises or work place or part thereof, he shall, by notice in writing, require the owner or the occupier of the premises or work place, as the case may be, to make such alterations in the existing sanitary conveniences and to provide such additional sanitary conveniences as may be necessary.
+(2) If it appears to the Commissioner that subsection (1) has not been complied with in the case of any work premises or work place, he shall, by notice in writing, require the owner or the occupier of the work premises or work place, as the case may be, to make such alterations in the existing sanitary conveniences and to provide such additional sanitary conveniences as may be necessary.
 
 ### Care of sanitary conveniences
 
 58\.—(1) The owner and the occupier of every building in or in connection with which a toilet or urinal is provided shall cause the flushing apparatus thereof to be kept supplied with water sufficient for flushing.
 
-(2) Where sanitary conveniences are used in common by the members of two or more families or by members of the public or by employees, the owner, the occupier, the chief or principal tenant or the person in charge of the premises concerned, as the case may be, shall maintain such sanitary conveniences in a clean and hygienic manner without causing any nuisance to sight or smell.
+(2) Where sanitary conveniences are used in common by the members of two or more families or by members of the public or by employees, the owner, occupier, chief or principal tenant or the person in charge of the building concerned, as the case may be, shall maintain such sanitary conveniences in a clean and hygienic manner without causing any nuisance to sight or smell.
 
 ### Inadequate bathroom facilities
 
-59\. If it appears to the Commissioner that any building or part thereof is without any bathroom or without adequate facilities for bathing, he may, by notice in writing to the owner of the building or of the part thereof, require him to provide the building or the part thereof with one or more bathrooms or with such facilities for bathing as the Commissioner may consider adequate.
+59\. If it appears to the Commissioner that any building or part thereof is without any bathroom or without adequate facilities for bathing, he may, by notice in writing to the owner of the building, require him to provide the building with one or more bathrooms or with such facilities for bathing as the Commissioner may consider adequate.
 
 ### Construction and maintenance of private drains
 
-60\.—(1) The Commissioner may, by notice in writing, require the owner of any land or the owner of adjoining lands, at the expense of such owner to —
+60\.—(1) The Commissioner may, by notice in writing, require the owner of any land or the owner of adjoining lands, at the expense of the owner to —
 
 (a) construct such drain or number of drains as the Commissioner may consider necessary in accordance with such specifications as he may think fit; and
 
@@ -1084,45 +1066,45 @@ the Commissioner shall, by notice in writing to the owner of the building, requi
 
 ### Drains, etc., to be kept in order at cost of owners
 
-61\.—(1) All drains or any appurtenance thereof shall be altered, repaired and kept in proper order at the expense of the owners of the land and buildings to which the same belong or for the use of which they are maintained.
+61\.—(1) All drains or any appurtenance thereof shall be altered, repaired and kept in proper order at the expense of the owners of the land and buildings to which the drains or appurtenance belong or for the use of which they are maintained.
 
 (2) The Commissioner may, by notice in writing, require the owner of any land or building to alter, repair or put any drain or any appurtenance thereof in good order in the manner required by him.
 
-(3) In any case where a public health officer or any public officer authorised in writing by the Commissioner in that behalf is satisfied that an emergency exists and that it is necessary immediately to alter, repair or put in good order and condition any drain or any appurtenance thereto, such public health officer or public officer may enter with such assistants and workmen as are necessary, upon any land or building and may do or cause to be done such alterations, repairs, works, acts or things as are necessary for any of the purposes aforesaid, and the expenses reasonably and necessarily incurred in so doing may be recovered from the person who is the owner of the land or building when the work is completed, and in default of agreement the amount of such expenses may be determined under section 95, and section 97 shall apply to the amount for which judgment is given.
+(3) In any case where a public health officer or any public officer authorised in writing by the Commissioner in that behalf is satisfied that an emergency exists and that it is necessary immediately to alter, repair or put in good order and condition any drain or any appurtenance thereto, the public health officer or public officer may enter with such assistants and workmen as are necessary upon any land or building and may do or cause to be done such alterations, repairs, works, acts or things as are necessary for any of the purposes aforesaid, and the expenses reasonably and necessarily incurred in so doing may be recovered from the person who is the owner of the land or building when the work is completed, and in default of agreement the amount of such expenses may be determined under section 95, and section 97 shall apply to the amount for which judgment is given.
 
 (4) Any person who constructs, rebuilds or unstops any drain or any appurtenance thereto, which has been ordered by the Commissioner to be demolished or stopped up or not to be made shall be guilty of an offence.
 
 ### Restriction on construction of wells
 
-62\.—(1) No person other than the owner or the occupier of an agricultural or horticultural holding shall, without the previous permission of the Commissioner, open, dig or otherwise construct or permit or allow to be opened, dug or otherwise constructed any well, tank or reservoir, the water in which is likely to be used for drinking, domestic or other purposes; and for the purposes of this subsection, any well within the curtilage of any dwelling-house shall be deemed to be likely to be used for drinking or domestic purposes.
+62\.—(1) No person other than the owner or occupier of an agricultural or horticultural holding shall, without the previous permission of the Commissioner, open, dig or otherwise construct or permit or allow to be opened, dug or otherwise constructed any well, tank or reservoir, the water in which is likely to be used for drinking, domestic or other purposes; and for the purposes of this subsection, any well within the curtilage of any dwelling-house shall be deemed to be likely to be used for drinking or domestic purposes.
 
-(2) If the owner or the occupier of any agricultural or horticultural holding opens, digs or otherwise constructs or permits or allows to be opened, dug or otherwise constructed any well, tank or reservoir, he shall report the opening, digging or construction of the well, tank or reservoir, as the case may be, within one month thereof to the Commissioner.
+(2) If the owner or occupier of any agricultural or horticultural holding opens, digs or otherwise constructs or permits or allows to be opened, dug or otherwise constructed any well, tank or reservoir, he shall report the opening, digging or construction of the well, tank or reservoir, as the case may be, within one month thereof to the Commissioner.
 
-(3) The Commissioner may give to the owner or the occupier of any premises notice to close any well, tank or reservoir, the water in which is likely to be used for drinking or domestic purposes and may by the notice specify any works to be executed for such purpose within a time and date to be specified in the notice, and the owner or occupier shall comply with the terms of such notice.
+(3) The Commissioner may give to the owner or occupier of any premises notice to close any well, tank or reservoir, the water in which is likely to be used for drinking or domestic purposes and may by the notice specify any works to be executed for such purpose within a time and date to be specified in the notice, and the owner or occupier shall comply with the terms of such notice.
 
-General Health Requirements For Buildings
+General Health Requirements for Buildings
 
-### Buildings to which the public has access to be kept clean
+### Buildings to which public has access to be kept clean
 
-63\.—(1) The owner, occupier or the lessee of any building or any part thereof to which the public has access shall —
+63\.—(1) The owner, occupier or lessee of any building or any part thereof to which the public has access shall —
 
-(a) regularly clean and keep clean and in good repair such building or part thereof; and
+(a) regularly clean and keep clean and in good repair the building or part thereof; and
 
-(b) keep such building or part thereof free of such conditions as may endanger the lives or health of his employees, members of the public and other users thereof.
+(b) keep the building or part thereof free of such conditions as may endanger the lives or health of his employees, members of the public and other users thereof.
 
-(2) Where, in the opinion of the Commissioner, the owner, occupier or lessee of any such building or part thereof fails to comply with subsection (1)(a) or (b), the Commissioner may, by notice in writing, require such owner, occupier or lessee within such period as may be specified therein to take such steps as the Commissioner may think fit.
+(2) Where, in the opinion of the Commissioner, the owner, occupier or lessee of any such building or part thereof fails to comply with subsection (1)(a) or (b), the Commissioner may, by notice in writing, require the owner, occupier or lessee within such period as may be specified therein to take such steps as the Commissioner may think fit.
 
 (3) In the case of an air-conditioned building or part thereof, the Commissioner may, by notice in writing —
 
 (a) prescribe temperature and humidity controls for such air-conditioned building or part thereof; and
 
-(b) require the owner, occupier or lessee of such building or part thereof —
+(b) require the owner, occupier or lessee of the building or part thereof —
 
-(i) to install automatic devices for recording the temperature and humidity level in such building or part thereof; and
+(i) to install automatic devices for recording the temperature and humidity level in the building or part thereof; and
 
 (ii) to keep such records and charts of the temperature and humidity level in such building or part thereof as the Commissioner may direct for the inspection of the Commissioner.
 
-### Commissioner may require employers to provide mess rooms, etc
+### Commissioner may require employers to provide mess rooms, etc.
 
 64\. The Commissioner may, in his discretion, by notice in writing, require any employer to provide for his employees, if in the opinion of the Commissioner the conditions or circumstances under which such employees work so warrant, suitable and sufficient facilities by way of mess rooms, rest rooms, canteens, changing rooms or pantries or to improve upon the same if the Commissioner considers the existing facilities inadequate.
 
@@ -1132,7 +1114,7 @@ OFFENSIVE TRADES
 
 ### Offensive trades not to be carried on without licence
 
-65\. No person shall establish or use any premises for any of the purposes set out in the Second Schedule without obtaining a licence from the Commissioner.
+65\. No person shall establish or use any premises for any of the purposes set out in the Second Schedule without first obtaining a licence from the Commissioner.
 
 ### Power to enter into and search premises used for offensive trades
 
@@ -1154,7 +1136,7 @@ SWIMMING POOLS
 
 ### Licensing of swimming pools
 
-69\. No person shall establish, manage, operate or run a swimming pool without obtaining a licence from the Commissioner.
+69\. No person shall establish, manage, operate or run a swimming pool without first obtaining a licence from the Commissioner.
 
 ### Closure of swimming pools
 
@@ -1166,7 +1148,7 @@ SWIMMING POOLS
 
 (2) Upon the receipt from the Commissioner of any such notice, the owner or person in charge shall close the swimming pool within such time as is specified in the notice.
 
-(3) Upon compliance by the owner or person in charge with the provisions that he has contravened as specified in such notice or upon the cessation of the infectious disease as the case may be, the Commissioner shall, by notice in writing, grant permission to the owner or person in charge for the reopening of the swimming pool.
+(3) Upon compliance by the owner or person in charge with the provisions that he has contravened as specified in such notice or upon the cessation of the infectious disease, as the case may be, the Commissioner shall, by notice in writing, grant permission to the owner or person in charge for the reopening of the swimming pool.
 
 ### Penalty
 
@@ -1182,7 +1164,7 @@ FUNERAL PARLOURS, CEMETERIES AND CREMATORIA
 
 ### Licensing of funeral parlours, cemeteries and crematoria
 
-73\. No person shall establish, use, manage, operate or run any premises as a funeral parlour, cemetery or crematoria without obtaining a licence from the Commissioner.
+73\. No person shall establish, use, manage, operate or run any premises as a funeral parlour, cemetery or crematoria without first obtaining a licence from the Commissioner.
 
 ### Corpse of person dying of infectious diseases
 
@@ -1202,7 +1184,7 @@ FUNERAL PARLOURS, CEMETERIES AND CREMATORIA
 
 77\. The Government may provide suitable places to be used as public cemeteries and crematoria and shall make proper provisions for maintaining them.
 
-### Places which may be used for burials, etc
+### Places which may be used for burials, etc.
 
 78\.—(1) No place shall be used or prepared for the burial or cremation of any corpse except cemeteries or crematoria provided by the Government or licensed by the Commissioner under section 73.
 
@@ -1220,9 +1202,9 @@ FUNERAL PARLOURS, CEMETERIES AND CREMATORIA
 
 (3) If, within 14 days, the person convicted produces to the Commissioner a licence granted under section 73, the notice may be cancelled.
 
-(4) Any person who refuses or neglects to comply with any such notice shall be guilty of an offence and the Commissioner may proceed to authorise any person to carry the notice into execution at the expense of the person so refusing or so neglecting to comply with the notice and to hire or employ proper persons for that purpose and may recover such expense in the manner provided by law for the levy of fines imposed by a Court.
+(4) Any person who refuses or neglects to comply with any such notice shall be guilty of an offence and the Commissioner may proceed to authorise any person to carry the notice into execution at the expense of the person so refusing or so neglecting to comply with the notice and to hire or employ proper persons for that purpose and may recover such expense in the manner provided by law for the levy of fines imposed by a court.
 
-### Power to close cemeteries, etc
+### Power to close cemeteries, etc.
 
 80\.—(1) If at any time it appears to the Commissioner that —
 
@@ -1230,17 +1212,17 @@ FUNERAL PARLOURS, CEMETERIES AND CREMATORIA
 
 (b) the cremation of corpses in any crematorium or any place used for the cremation of corpses should be wholly discontinued; or
 
-(c) any cemetery or place of burial, crematorium or any place used for the cremation of corpses or any part thereof is being used in contravention of any condition of the licence issued in respect of the same,
+(c) any cemetery or place of burial, crematorium or any place used for the cremation of corpses or any part thereof is being used in contravention of any condition of the licence granted in respect of the cemetery or crematorium,
 
-the Commissioner may order the same or any part thereof to be closed and may revoke or amend the licence thereof and thereafter it shall not be lawful to use the same or such part thereof, as the case may be, as a place for the burial or cremation of corpses.
+the Commissioner may order the cemetery or crematorium or any part thereof to be closed and may revoke the licence thereof and thereafter it shall not be lawful to use the cemetery or crematorium or part thereof, as the case may be, as a place for the burial or cremation of corpses.
 
-(2) No such closing, revocation or amendment shall have effect until it has been confirmed by the Minister.
+(2) No such closing, revocation shall have effect until it has been confirmed by the Minister.
 
 ### Unauthorised structure
 
 81\.—(1) No person shall construct or erect any unauthorised structure in any cemetery or crematorium.
 
-(2) The Commissioner shall, by notice in writing, require any person who constructs or erects an unauthorised structure in any cemetery or crematorium to demolish or remove the same within such period as he may specify, and if such person fails to do so within the period specified, the Commissioner may cause the structure to be removed or demolished.
+(2) The Commissioner shall, by notice in writing, require any person who constructs or erects an unauthorised structure in any cemetery or crematorium to demolish or remove the structure within such period as he may specify, and if the person fails to do so within the period specified, the Commissioner may cause the structure to be removed or demolished.
 
 ### Exhumation
 
@@ -1252,7 +1234,7 @@ the Commissioner may order the same or any part thereof to be closed and may rev
 
 (c) by written permission granted for that purpose by the Commissioner.
 
-(2) Any person who exhumes or causes to be exhumed or being the owner, the trustee or the person in charge of any burial ground permits to be exhumed any corpse in contravention of this section shall be guilty of an offence.
+(2) Any person who exhumes or causes to be exhumed or, being the owner, trustee or person in charge of any burial ground, permits to be exhumed any corpse in contravention of this section shall be guilty of an offence.
 
 ### Penalty
 
@@ -1268,33 +1250,33 @@ CONTROL OF PURITY OF WATER SUPPLIES
 
 ### Polluted or unwholesome water
 
-85\. The Commissioner may, by notice in writing, require any person or authority who or which sells or offers for sale water which is polluted or unwholesome to cease to sell or offer for sale such water to any area or premises if he is of the opinion that the quality of the water sold or offered for sale by any person or authority does not comply with any standards prescribed in any regulations made under this Act.
+85\. The Commissioner may, by notice in writing, require any person or authority who or which sells or offers for sale water which is polluted or unwholesome to cease to sell or offer for sale that water to any area or premises if he is of the opinion that the quality of the water sold or offered for sale by any person or authority does not comply with any standards prescribed in any regulations made under this Act.
 
 ### Regulations
 
-86\. The Minister may make regulations to prescribe the standards relating to the wholesomeness, purity or quality of water supplies in any area or premises.
+86\. The Minister may make regulations to prescribe the standards relating to the wholesomeness, purity or quality of water supplied in any area or premises.
 
 ## PART XII
 
 MISCELLANEOUS
 
-### Power to enter upon lands for the purposes of this Act
+### Power to enter upon lands for purposes of this Act
 
-87\.—(1) The Commissioner, any public health officer or any public officer or any person as the Commissioner may authorise in writing in that behalf may, for the purposes of this Act or any regulations made thereunder, enter between the hours of 6 a.m. and 6 p.m. into and upon any premises in order to make any survey, inspection or search or to execute any work authorised by this Act or any regulations made thereunder without being liable to any legal proceedings or molestation whatsoever on account of such entry or of anything done in any part of such premises.
+87\.—(1) The Commissioner, any public health officer or any public officer or any person as the Commissioner may authorise in writing in that behalf may, for the purposes of this Act or any regulations made thereunder, enter between the hours of 6 a.m. and 6 p.m. into and upon any premises in order to make any survey, inspection or search or to execute any work authorised by this Act or any regulations made thereunder without being liable to any legal proceedings or molestation on account of such entry or of anything done in any part of those premises.
 
 (2) No person shall, except with the consent of the occupier thereof, enter any house by virtue of the powers conferred by subsection (1) without at least 3 hours’ previous notice being given to the occupier thereof, if any.
 
-(3) Notwithstanding subsection (1), where it is necessary and expedient to make any survey, inspection or search or to execute any work authorised by this Act or any regulations made thereunder outside the hours specified in subsection (1), the Commissioner, any public health officer or any public officer or person authorised as aforesaid may enter any premises by giving at least 6 hours’ previous notice to the owner or occupier of the premises thereof.
+(3) Notwithstanding subsection (1), where it is necessary and expedient to make any survey, inspection or search or to execute any work authorised by this Act or any regulations made thereunder outside the hours specified in subsection (1), the Commissioner, any public health officer or any public officer or person so authorised may enter any premises by giving at least 6 hours’ previous notice to the owner or occupier of the premises thereof.
 
 ### Protection from personal liability
 
-88\.—(1) No matter or thing done and no contract of any kind entered into by the Minister or the Commissioner and no matter or thing done by any public health officer or any other person whomsoever employed in the administration of this Act or acting under the direction of the Minister, the Commissioner or any public health officer shall, if the matter or thing was done or the contract was entered into bona fide for the purpose of executing the provisions of this Act or any regulations made thereunder, subject them or any of them personally to any action, liability, claim or demand whatsoever.
+88\.—(1) No matter or thing done and no contract of any kind entered into by the Minister or the Commissioner and no matter or thing done by any public health officer or any other person employed in the administration of this Act or acting under the direction of the Minister, the Commissioner or any public health officer shall, if the matter or thing was done or the contract was entered into bona fide for the purpose of executing the provisions of this Act or any regulations made thereunder, subject them or any of them personally to any action, liability, claim or demand.
 
-(2) Any expense incurred by any of the aforesaid acting in accordance with subsection (1) shall be borne by the Government.
+(2) Any expense incurred by such persons acting in accordance with subsection (1) shall be borne by the Government.
 
 ### Penalty for obstruction
 
-89\. No person shall at any time hinder, obstruct or molest the Commissioner, any public health officer or other person in the performance and execution of his duty or of anything which he is respectively empowered, employed or required to do by virtue or in consequence of or under this Act, or removes any mark, line, sign or other direction drawn or set up for the purpose of this Act.
+89\. No person shall at any time hinder, obstruct or molest the Commissioner, any public health officer or other person in the performance and execution of his duty or of anything which he is respectively empowered, employed or required to do by virtue or in consequence of or under this Act, or remove any mark, line, sign or other direction drawn or set up for the purpose of this Act.
 
 ### Commissioner may act in cases of emergency
 
@@ -1304,15 +1286,15 @@ MISCELLANEOUS
 
 91\.—(1) If through any act, neglect or default on account whereof any person has incurred any penalty under this Act any damage to Government property is committed by that person, he shall be liable to make good the damage as well as to pay the penalty.
 
-(2) The amount of such damage shall, in case of dispute, be determined by the Court by which the person incurring the penalty was convicted.
+(2) The amount of such damage shall, in case of dispute, be determined by the court by which the person incurring the penalty was convicted.
 
-(3) The amount of the damage shall be recovered as if it were a fine imposed by the Court.
+(3) The amount of the damage shall be recovered as if it were a fine imposed by the court.
 
-### Service of summons, notice, etc
+### Service of summons, notice, etc.
 
 92\.—(1) Every summons, notice, order or document required or authorised by this Act or any regulations made thereunder to be served on any person may be served by —
 
-(a) delivering it to the person or by delivering it at his last known place of abode to some adult member or servant of his family;
+(a) delivering it to the person or by delivering it at his last known place of abode to some adult member or employee of his family;
 
 (b) leaving it at his usual or last known place of abode or business in a cover addressed to him; or
 
@@ -1324,83 +1306,83 @@ MISCELLANEOUS
 
 (b) sending it by registered post addressed to the company or body at its registered or principal office.
 
-(3) A summons, notice, order or document required or authorised by this Act or any regulations made thereunder to be served on the owner or the occupier of any premises may be served by delivering it or a true copy thereof to some adult person on the premises or, if there is no such person on the premises to whom the same can with reasonable diligence be delivered, by affixing the summons, notice, order or document to some conspicuous part of the premises.
+(3) A summons, notice, order or document required or authorised by this Act or any regulations made thereunder to be served on the owner or occupier of any premises may be served by delivering it or a true copy thereof to some adult person on the premises or, if there is no such person on the premises to whom it can with reasonable diligence be delivered, by affixing the summons, notice, order or document to some conspicuous part of the premises.
 
 ### Appeal to Minister against notice, order or decision
 
-93\.—(1) Any person who is aggrieved by any notice, order or decision of the Commissioner may within 7 days of such notice, order or decision appeal in writing to the Minister whereupon the execution of the notice, order or decision shall be stayed.
+93\.—(1) Any person who is aggrieved by any notice, order or decision of the Commissioner may within 7 days of the notice, order or decision appeal in writing to the Minister whereupon the execution of the notice, order or decision shall be stayed.
 
 (2) The Minister may confirm, vary or rescind the notice or order or direct that the thing shall be proceeded with, varied or abandoned, as the case may be, or make any order which the Commissioner is competent to make and the decision of the Minister shall be final.
 
 ### Default in compliance with notice
 
-94\.—(1) When any notice or order under this Act or any regulations made thereunder requires any act to be done or work to be executed by the owner or the occupier or the person in charge of any premises and default is made in complying with the requirement of such notice or order, the person in default shall, where no fine is specially provided for such default be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
+94\.—(1) When any notice or order under this Act or any regulations made thereunder requires any act to be done or work to be executed by the owner or occupier or the person in charge of any premises and default is made in complying with the requirements of the notice or order, the person in default shall, where no fine is specially provided for such default be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 .
 
-(2) When any such notice or order requires any act to be done or work to be executed for which no time is fixed by this Act or any regulations made thereunder, it shall fix a reasonable time for complying with the requirement.
+(2) When any such notice or order requires any act to be done or work to be executed for which no time is fixed by this Act or any regulations made thereunder, it shall fix a reasonable time for complying with the requirements.
 
-(3) Where any person who has been served with any notice or order fails to comply therewith, the Commissioner may without prejudice to any proceedings under subsection (1), at the expiration of the period specified in the notice or order execute the works as are specified in the notice or order and may recover from that person the expenses reasonably incurred in so doing in the manner provided in section 95.
+(3) Where any person who has been served with any notice or order fails to comply therewith, the Commissioner may, without prejudice to any proceedings under sub-section (1), at the expiration of the period specified in the notice or order execute the works as are specified in the notice or order and may recover from that person the expenses reasonably incurred in so doing in the manner provided in section 95.
 
 (4) Nothing in this section shall be deemed to prohibit the Commissioner from carrying out any works specified in any such notice or order at the request of a person who has been served with the notice or order upon an undertaking by that person to pay the costs and expenses in executing the works.
 
 ### Compensation, damages and costs to be determined by Magistrate’s or District Court
 
-95\.—(1) Except as otherwise provided in this Act in all cases when compensation, damages, fees, costs and expenses are by this Act directed to be paid, the amount and, if necessary, the apportionment of the same and any question of liability shall, in case of dispute or failure to pay, be summarily ascertained and determined by a Magistrate’s Court or, if the amount exceeds $10,000, by a District Court.
+95\.—(1) Subject to the provisions of this Act, in all cases when compensation, damages, fees, costs and expenses are by this Act directed to be paid, the amount and, if necessary, the apportionment of the same and any question of liability shall, in case of dispute or failure to pay, be summarily ascertained and determined by a Magistrate’s Court or, if the amount exceeds $10,000, by a District Court.
 
-(2) If the amount of compensation, damages, costs or expenses is not paid by the party liable to pay the same within 14 days after demand, such amount may be reported to a Magistrate’s Court and recovered in the same manner as if it were a fine imposed by a Magistrate’s Court.
+(2) If the amount of compensation, damages, costs or expenses is not paid by the party liable to pay the same within 14 days after demand, that amount may be reported to a Magistrate’s Court and recovered in the same manner as if it were a fine imposed by a Magistrate’s Court.
 
-(3) An appeal shall lie to the High Court from any decision of a Magistrate’s Court or District Court under this section, and the provisions of the Criminal Procedure Code (Cap. 68) shall, mutatis mutandis, apply to all such appeals.
+(3) An appeal shall lie to the High Court from any decision of a Magistrate’s Court or District Court under this section, and the provisions of the Criminal Procedure Code [Cap. 68] shall mutatis mutandis apply to all such appeals.
 
 ### Exemption of agent who has no funds in hand
 
-96\.—(1) No person receiving the rent of premises as receiver or agent for another person shall be liable to do anything by this Act required to be done by the owner of such premises if, after he or the actual owner has been required to do any work, such person gives notice to the Commissioner within 7 days after such requisition has been made, that he has not sufficient funds of the person on whose behalf he is receiving the rents to pay for such work.
+96\.—(1) No person receiving the rent of premises as receiver or agent for another person shall be liable to do anything by this Act required to be done by the owner of such premises if, after he or the actual owner has been required to do any work, that person gives notice to the Commissioner within 7 days after such requisition has been made, that he has not sufficient funds of the person on whose behalf he is receiving the rents to pay for such work.
 
 (2) In such case the Commissioner may himself execute the work and the expenses incurred thereby shall be charged and recoverable as provided in section 97.
 
 ### Recovery of costs and expenses payable by owners
 
-97\.—(1) If any sum payable by or recoverable from the owner or occupier in respect of costs and expenses incurred by the Government in the execution of any work which is, under this Act, recoverable from the owner or occupier of any premises is not paid by the owner or occupier within 14 days after demand such sum may be reported to a Magistrate’s Court or District Court and recovered in the same manner as if it were a fine imposed by a Magistrate’s Court or District Court, as the case may be.
+97\.—(1) If any sum payable by or recoverable from the owner or occupier in respect of costs and expenses incurred by the Government in the execution of any work which is, under this Act, recoverable from the owner or occupier of any premises is not paid by the owner or occupier within 14 days after demand that sum may be reported to a Magistrate’s Court or District Court and recovered in the same manner as if it were a fine imposed by a Magistrate’s Court or District Court, as the case may be.
 
 (2) The person liable to pay any sum under subsection (1) shall be the owner at the time when the work was completed.
 
-(3) Any occupier who, when requested by or on behalf of the Commissioner to state the name of the owner of the premises, refuses or wilfully omits to disclose or wilfully mis-states the same shall, unless he shows cause to the satisfaction of the Court for his refusal or mis-statement, be guilty of an offence and shall be liable on conviction to a fine not exceeding $500.
+(3) Any occupier who, when requested by or on behalf of the Commissioner to state the name of the owner of the premises, refuses or wilfully omits to disclose or wilfully mis-states the name of the owner shall, unless he shows cause to the satisfaction of the Court for his refusal or mis-statement, be guilty of an offence and shall be liable on conviction to a fine not exceeding $500.
 
 ### Recovery of costs and expenses by instalments
 
-98\.—(1) When the Commissioner has incurred costs and expenses in or about the execution of any work, which are, under this Act, payable by or recoverable from the owner or occupier, the Commissioner may either recover such costs and expenses in the manner hereinbefore provided or, if he thinks fit, may obtain an undertaking from such owner or occupier for the payment of such instalments as will be sufficient to defray the whole amount of such costs and expenses.
+98\.—(1) When the Commissioner has incurred costs and expenses in or about the execution of any work, which are, under this Act, payable by or recoverable from the owner or occupier, the Commissioner may either recover the costs and expenses in the manner provided in this Act or, if he thinks fit, may obtain an undertaking from the owner or occupier for the payment by such instalments as will be sufficient to defray the whole amount of the costs and expenses.
 
-(2) Upon default in payment of any instalment upon the date appointed for payment thereof by any such undertaking, the whole of the balance then outstanding of such amount shall immediately become due and payable and, notwithstanding any change in the ownership or occupation of the premises since the date of the undertaking, may be recovered by the same means and in the like manner as provided in section 97.
+(2) Upon default in payment of any instalment upon the date appointed for payment thereof by any such undertaking, the whole of the balance then outstanding of the amount shall immediately become due and payable and, notwithstanding any change in the ownership or occupation of the premises since the date of the undertaking, may be recovered by the same means and in the like manner as provided in section 97.
 
 ### Liability of transferor of property in respect of costs and expenses incurred by Commissioner
 
-99\.—(1) Where a person sells or transfers any property in respect of which costs and expenses have been incurred by the Commissioner in or about the execution of any work required to be done under this Act and the costs and expenses are recoverable under this Act from the owner thereof, such person shall continue to be liable for the payment of all such costs and expenses payable in respect of such property and for the performance of all other obligations imposed by this Act upon the owner of such property which became payable or were required to be performed prior to the transfer.
+99\.—(1) Where a person sells or transfers any property in respect of which costs and expenses have been incurred by the Commissioner in or about the execution of any work required to be done under this Act and the costs and expenses are recoverable under this Act from the owner thereof, that person shall continue to be liable for the payment of all the costs and expenses payable in respect of the property and for the performance of all other obligations imposed by this Act upon the owner of the property which became payable or were required to be performed prior to the transfer.
 
 (2) Nothing in this section shall affect the liability of the purchaser or transferee to pay the costs and expenses in respect of the property or the right of the Commissioner to recover the costs and expenses or to perform any obligations under this Act.
 
 ### Licences
 
-100\.—(1) The grant or renewal of any licence shall be in the discretion of the Commissioner and may be granted, renewed or refused without any reason for such grant, renewal or refusal being assigned therefor and may be granted or renewed subject to such restrictions and conditions as the Commissioner may think fit and shall be subject to suspension, cancellation or revocation at any time without compensation and without notice by the Commissioner upon breach of any restriction or condition subject to which it was issued or to any contravention of such of the provisions of this Act or any regulations made thereunder as affect such licence.
+100\.—(1) The grant or renewal of any licence shall be in the discretion of the Commissioner and may be granted, renewed or refused without any reason for the grant, renewal or refusal being assigned therefor and may be granted or renewed subject to such restrictions and conditions as the Commissioner may think fit and shall be subject to suspension, cancellation or revocation at any time without compensation and without notice by the Commissioner upon breach of any restriction or condition subject to which it was granted or to any contravention of such of the provisions of this Act or any regulations made thereunder as affect the licence.
 
 (2) The Commissioner may require any applicant for a licence to furnish such information and evidence as he may reasonably require for a full and proper consideration of the application and in the event of a refusal to furnish the information shall refuse to grant or renew the licence.
 
 (3) Any person who wilfully furnishes any false information in any application for a licence shall be guilty of an offence and any licence granted shall be void and of no effect.
 
-(4) Except as otherwise provided, any licence may be for such period as the Commissioner thinks fit.
+(4) Subject to the provisions of this Act, any licence may be for such period as the Commissioner thinks fit.
 
 (5) There shall be charged for the grant or renewal of any licence such fee, if any, as may be prescribed by the Minister.
 
-(6) Where a licence is issued for a period of less than 12 months, the Commissioner may charge a proportionate fee therefor; and in charging such proportionate fee, any part of a month shall be reckoned as one month.
+(6) Where a licence is granted for a period of less than 12 months, the Commissioner may charge a proportionate fee therefor; and in charging such proportionate fee, any part of a month shall be reckoned as one month.
 
 (7) No licensee shall be entitled to any refund of any fee paid by him in respect of any licence.
 
 (8) No person may in any manner transfer any licence or permit any licence to be used by any other person without the approval in writing of the Commissioner.
 
-(9) Except as otherwise provided, any person aggrieved by the refusal by the Commissioner to grant or renew a licence or by the suspension or revocation by the Commissioner of any licence may within 14 days of such refusal, suspension or revocation appeal to the Minister whose decision shall be final.
+(9) Subject to the provisions of this Act, any person aggrieved by the refusal by the Commissioner to grant or renew a licence or by the suspension or revocation by the Commissioner of any licence may within 14 days of such refusal, suspension or revocation appeal to the Minister whose decision shall be final.
 
 (10) For the purposes of this section, “licence” includes any approval, permit, permission, authority, authorisation or licence which may be granted or renewed by the Commissioner in pursuance of this Act or any regulations made thereunder.
 
 ### Receipts and notices may be given by officer authorised thereunto
 
-101\.—(1) All notices, orders, receipts, warrants and other documents of whatsoever nature which the Commissioner is empowered to give by this Act or any regulations made thereunder may be given by any officer or employee authorised thereunto by the Commissioner.
+101\.—(1) All notices, orders, receipts, warrants and other documents which the Commissioner is empowered to give by this Act or any regulations made thereunder may be given by any officer or employee authorised thereunto by the Commissioner.
 
 (2) Where any such notice, order, warrant or document requires authentication, the signature or a facsimile thereof of the Commissioner or any officer or employee authorised thereunto by the Commissioner affixed thereto shall be sufficient authentication.
 
@@ -1414,7 +1396,7 @@ MISCELLANEOUS
 
 ### Furnishing of information required by Commissioner
 
-103\. The Commissioner may, by notice in writing, require the owner or occupier of any work premises to furnish to him within 14 days or such longer period as may be specified in the notice any information required by him for the purposes of this Act or any regulations made thereunder.
+103\. The Commissioner may, by notice in writing, require the owner or occupier of any work place or work premises to furnish him within 14 days or such longer period as may be specified in the notice any information required by him for the purposes of this Act or any regulations made thereunder.
 
 ### Powers of arrest
 
@@ -1428,7 +1410,7 @@ MISCELLANEOUS
 
 (2) A person arrested under this section may be detained until his name and address are correctly ascertained.
 
-(3) No person arrested under this section shall be detained longer than is necessary for bringing him before a Court unless the order of a Court for his detention is obtained.
+(3) No person arrested under this section shall be detained longer than is necessary for bringing him before a court unless the order of a court for his detention is obtained.
 
 ### Prosecution
 
@@ -1444,15 +1426,15 @@ MISCELLANEOUS
 
 ### Penalty
 
-108\. Any person who contravenes or fails to comply with any of the provisions of this Act shall be guilty of an offence and where no penalty is expressly provided shall be liable on conviction to a fine not exceeding $2,000 and in the case of a second or subsequent conviction to a fine not exceeding $4,000 or to imprisonment for a term not exceeding 3 months or to both.
+108\. Any person who contravenes or fails to comply with any of the provisions of this Act shall be guilty of an offence and where no penalty is expressly provided shall be liable on conviction to a fine not exceeding $2,000 and in the case of a second or subsequent conviction to a fine not exceeding $4,000$ or to imprisonment for a term not exceeding 3 months or to both.
 
 ### Compounding of offences
 
-109\.—(1) The Commissioner may, in his discretion, compound any offence under this Act or any regulations made thereunder as may be prescribed as being an offence which may be compounded by collecting from a person reasonably suspected of having committed the same a sum of money not exceeding $500.
+109\.—(1) The Commissioner may, in his discretion, compound any offence under this Act or any regulations made thereunder as may be prescribed as being an offence which may be compounded by collecting from a person reasonably suspected of having committed the offence a sum of money not exceeding $500 .
 
-(2) On payment of such sum of money, no further proceedings shall be taken against such person in respect of such offence.
+(2) On payment of such sum of money, no further proceedings shall be taken against that person in respect of the offence.
 
-(3) The Minister may make rules to prescribe the offences which may be compounded and the method and procedure by which such offences may be compounded under this section.
+(3) The Minister may make rules to prescribe the offences which may be compounded and the method and procedure by which those offences may be compounded under this section.
 
 ### Authorised public officers, etc., to exercise certain powers under this Act
 
@@ -1460,17 +1442,17 @@ MISCELLANEOUS
 
 ### Inaccuracies in documents
 
-111\. No misnomer or inaccurate description of any person, premises, building, street or place named or described in any document prepared, issued or served under, by virtue of or for the purposes of this Act or any regulations made thereunder shall in any way affect the operation of this Act or any such regulations as respects that person or place if that person or place is so designated in the document as to be identifiable, and no proceedings taken under or by virtue of this Act or any such regulations shall be invalid for want of form.
+111\. No misnomer or inaccurate description of any person, premises, building, street or place named or described in any document prepared, issued or served under or for the purposes of this Act or any regulations made thereunder shall in any way affect the operation of this Act or any such regulations as respects that person or place if that person or place is so designated in the document as to be identifiable, and no proceedings taken under this Act or any such regulations shall be invalid for want of form.
 
 ### Jurisdiction of District and Magistrate’s Courts
 
-112\. Notwithstanding anything to the contrary contained in the Criminal Procedure Code (Cap. 68), a District Court or Magistrate’s Court shall have jurisdiction to try any offence under this Act or any regulations made thereunder and to impose the full penalty or punishment in respect of any such offence.
+112\. Notwithstanding anything to the contrary in the Criminal Procedure Code [Cap. 68], a District Court or Magistrate’s Court shall have jurisdiction to try any offence under this Act or any regulations made thereunder and to impose the full penalty or punishment in respect of any such offence.
 
 ### Evidence
 
-113\.—(1) The contents of any document prepared, issued or served under, by virtue of or for the purposes of this Act shall, until the contrary be proved, be presumed to be correct and the production of any book purporting to contain any apportionment made under or by virtue of this Act shall, without any other evidence whatever, be received as prima facie proof of the making and validity of the apportionment mentioned therein.
+113\.—(1) The contents of any document prepared, issued or served under or for the purposes of this Act shall, until the contrary is proved, be presumed to be correct and the production of any book purporting to contain any apportionment made under this Act shall, without any other evidence whatever, be received as prima facie proof of the making and validity of the apportionment mentioned therein.
 
-(2) All records, registers and other documents kept by the Commissioner or by any public officer for the purposes of this Act or any regulations made thereunder shall be deemed to be public documents, and copies thereof or extracts therefrom certified by the officer responsible for the custody thereof to be true copies or extracts, as the case may be, subscribed by such officer with his name and his official title shall be admissible in evidence as proof of the contents of the documents or extracts therefrom.
+(2) All records, registers and other documents kept by the Commissioner or by any public officer for the purposes of this Act or any regulations made thereunder shall be deemed to be public documents, and copies thereof or extracts therefrom certified by the officer responsible for the custody thereof to be true copies or extracts, as the case may be, and subscribed by such officer with his name and his official title shall be admissible in evidence as proof of the contents of the documents or extracts therefrom.
 
 ### Regulations
 
@@ -1478,7 +1460,7 @@ MISCELLANEOUS
 
 (2) The Minister may, in making any regulations, prescribe the circumstances in which it shall be presumed that an offence under the provisions of any such regulations was committed.
 
-(3) The Minister may, in making any regulations, provide that any contravention of, or failure or neglect to comply with any regulations shall be an offence and may prescribe the fine with which such offence shall be punishable, but so that no such fine shall exceed for any one offence the sum of $2,000 and in the case of a continuing offence, the sum of $100 for every day or part thereof during which such offence continues after conviction.
+(3) The Minister may, in making any regulations, provide that any contravention of, or failure or neglect to comply with any regulations shall be an offence and may prescribe the fine with which the offence shall be punishable, but so that no such fine shall exceed for any one offence the sum of $2,000 and in the case of a continuing offence the sum of $100 for every day or part thereof during which the offence continues after conviction.
 
 (4) All regulations made under this Act shall be published in theGazetteand shall be presented to Parliament as soon as possible after publication.
 
@@ -1494,33 +1476,33 @@ MISCELLANEOUS
 
 117\. The Commissioner may, in his discretion, either permanently or for such period as he may think fit, exempt any person or premises or any class of persons or premises from any of the provisions of this Act.
 
-### Repeal and transitional
+### Transitional provision
 
-118\.—(1) The Environmental Public Health Act (Cap. 95) is repealed.
+118\.—(1) Any appointment, document, licence, permission, resolution or scheme relating to any matter dealt with under this Act which was made, granted or approved under the repealed Environmental Public Health Act\*[1985 Ed., Cap. 95], shall, except where otherwise expressly provided in this Act or in any other written law, continue and be deemed to have been made, granted or approved, as the case may be, under this Act.
 
-(2) Any appointment, document, licence, permission, resolution or scheme relating to any matter dealt with under this Act which was made, granted or approved under the repealed legislation, shall, except where otherwise expressly provided in this Act or in any other written law, continue and be deemed to have been made, granted or approved, as the case may be, under this Act.
+\*Repealed and replaced by Act 14 of 1987, which is now Chapter 95, 1988 Edn.
 
-(3) Any form used for the purposes of the repealed legislation which was in force or effected immediately before the commencement of this Act shall continue in force and have effect as though prescribed under this Act until new forms are so prescribed.
+(2) Any form used for the purposes of the repealed Act which was in force or had effect immediately before 1st July 1987 shall, until new forms are prescribed, continue in force and have effect as though prescribed under this Act.
 
 FIRST SCHEDULE
 
 Section 32.
 
-Food Establishments
+Food establishments
 
 1\. The preparation or processing or manufacture or packing for sale of food for human consumption.
 
 2. Carrying on of the trade of:
 
-(a) an eating establishment.
+(a) eating establishment;
 
-(b) cut fruit shop.
+(b) cut fruit shop;
 
-(c) supermarket.
+(c) supermarket;
 
-(d) market-produce shop, including the sale of fish or crustacean, or meat or vegetable.
+(d) market-produce shop, including the sale of fish or crustacean, or meat or vegetable;
 
-(e) barbecue meat shop.
+(e) barbecue meat shop;
 
 (f) any other type of food shop.
 
@@ -1528,9 +1510,9 @@ Food Establishments
 
 SECOND SCHEDULE
 
-Sections 65, 66, and 67(1).
+Sections 65, 66 and 67(1)
 
-Offensive Trades
+Offensive trades
 
 1\. Making of soap and such like products.
 
@@ -1540,7 +1522,7 @@ Offensive Trades
 
 4\. Processing of rattan and feathers.
 
-5\. Business of a laundryman.
+5\. Business of a laundry man.
 
 6\. Manufacture and processing of fertiliser.
 
@@ -1550,7 +1532,7 @@ THIRD SCHEDULE
 
 Section 74(1).
 
-Infectious Diseases
+Infectious diseases
 
 1\. Anthrax.
 
@@ -1568,7 +1550,7 @@ FOURTH SCHEDULE
 
 Section 114(1).
 
-Subject Matters of Regulations
+Subject-matters of regulations
 
 1\. Public cleansing, conservancy and the depositing, collection, removal and disposal of dust, dirt, ashes, rubbish, nightsoil, dung, trade refuse, garden refuse, stable refuse, trade effluent and other filth; and matters relating to the receptacles used or provided in connection therewith.
 
@@ -1576,7 +1558,7 @@ Subject Matters of Regulations
 
 3. The control, regulation and supervision of —
 
-(a) markets and of any thing therein and of places in the vicinity thereof;
+(a) markets and of anything therein and of places in the vicinity thereof;
 
 (b) persons engaged or employed in markets; and
 
@@ -1608,3 +1590,20 @@ Subject Matters of Regulations
 
 16\. The prescribing of fees for licences and the prescribing of fees and charges for any of the purposes of this Act or any regulations made thereunder and the prescribing of any other matter which by this Act is required to be or may be prescribed.
 
+## LEGISLATIVE HISTORY
+
+Environmental Public Health Act
+
+(CHAPTER 95)
+
+This Legislative History is provided for the convenience of users of the Environmental Public Health Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 14 of 1987—Environmental Public Health Act 1987**|
+||Date of First Reading|26 January 1987|
+|||(Bill No. 2/87 published on 2 February 1987)|
+||Date of Second and Third Readings|20 May 1987|
+||Date of commencement|1 July 1987|
+|2.|**1988 Revised Edition—Environmental Public Health Act**|
+||Date of operation|30 April 1988|
