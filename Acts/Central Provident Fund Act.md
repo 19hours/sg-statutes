@@ -4198,8 +4198,6 @@ then the agreed rates of the contribution shall continue to apply in relation to
 
 (69) Urban Redevelopment Authority.
 
-[S 468/2003 wef 01/10/2003]
-
 7. Contributions shall be payable for and recoverable from the wages of such employees who are —
 
 (a) pensionable employees at the rates prescribed for pensionable employees of the Government;
@@ -4311,7 +4309,7 @@ Self-employed Persons
 
 19\. Maritime and Port Authority of Singapore Act (Cap. 170A).
 
-20\. Martial Arts Instruction Act (Cap. 171).
+20\.Deleted by S 457/2004, wef 22/12/2003.
 
 21\. Massage Establishments Act (Cap. 173).
 
@@ -4826,6 +4824,8 @@ This Legislative History is provided for the convenience of users of the Central
 ||Dates of commencement|1 March 2003 (sections 2 and 3)|
 |130.|**G.N. No. S 468/2003—Central Provident Fund Act (Amendment of First Schedule) Notification 2003**|
 ||Date of commencement|1 October 2003|
+|131.|**G. N. No. S 457/2004—Central Provident Fund Act (Amendment of Third Schedule) Notification 2004**|
+||Date of commencement|22 December 2003|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
