@@ -1,16 +1,14 @@
-**Education Service Incentive Payment Act 2001**
+**Education Service Incentive Payment Act**
 
-**(No. 36 of 2001)**
+**(CHAPTER 87B)**
 
 **Table of Contents**
 
 [**Long Title**](#Education-Service-Incentive-Payment-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -52,47 +50,29 @@
 
 - [18 Rules for administration of Fund](#Rules-for-administration-of-Fund)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Education Service Incentive Payment Act
 
-ACTS SUPPLEMENT
+(CHAPTER 87B)
 
-Published by Authority
+(Original Enactment: Act 36 of 2001)
 
-NO. 38]
+REVISED EDITION 2002
 
-Friday, October 26
-
-[2001
-
-The following Act was passed by Parliament on 5th October 2001 and assented to by the President on 17th October 2001:—
-
-Education Service Incentive Payment Act 2001
-
-(No. 36 of 2001)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-17th October 2001.
-
-Date of Commencement: 1st January 2002
+(31st July 2002)
 
 An Act to establish a scheme known as the CONNECT Plan to encourage long service by teachers under the control or management of the Government and the CONNECT Fund for the purpose of that Plan and for matters connected therewith.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st January 2002]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Education Service Incentive Payment Act 2001 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Education Service Incentive Payment Act.
 
 ### Interpretation
 
@@ -254,7 +234,7 @@ AUDIT AND ACCOUNTING
 
 (3) The Minister shall, as soon as practicable after the close of each financial year, cause to be prepared and submitted financial statements in respect of that year to the auditor referred to in section 16.
 
-(4) The financial year of the Fund shall begin on 1st April of each year and end on 31st March of the succeeding year, except that the first financial year of the Fund shall begin on the date of the commencement of section 11 of this Act and end on 31st March of the succeeding year.
+(4) The financial year of the Fund shall begin on 1st April of each year and end on 31st March of the succeeding year, except that the first financial year of the Fund shall begin on 1st January 2002 and end on 31st March 2003.
 
 ### Appointment, powers and duties of auditor
 
@@ -282,13 +262,13 @@ AUDIT AND ACCOUNTING
 
 (8) The auditor shall —
 
-(a) as soon as practicable after the accounts have been submitted for audit, send a report of his audit to the Minister; and
+(a) as soon as practicable, after the accounts have been submitted for audit, send a report of his audit to the Minister; and
 
 (b) submit such periodical and special reports to the Minister as may appear to him to be necessary or as the Minister may require.
 
 (9) Where the Auditor-General is not the auditor of the Fund, a copy of the audited financial statements and any report made by the auditor shall be forwarded to the Auditor-General when they are submitted to the Minister.
 
-(10) The Minister shall as soon as practicable cause a copy of the audited financial statements and of the report of the auditor to be presented to Parliament.
+(10) The Minister shall, as soon as practicable, cause a copy of the audited financial statements and of the report of the auditor to be presented to Parliament.
 
 ### Periodic examination of Fund
 
@@ -304,3 +284,20 @@ AUDIT AND ACCOUNTING
 
 18\. The Minister may make rules for the proper control and management of the Fund.
 
+## LEGISLATIVE HISTORY
+
+Education Service Incentive Payment Act
+
+(CHAPTER 87B)
+
+This Legislative History is provided for the convenience of users of the Education Service Incentive Payment Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 36 of 2001—Education Service Incentive Payment Act 2001**|
+||Date of First Reading|25 September 2001|
+|||(Bill No. 41/2001 published on 26 September 2001)|
+||Date of Second and Third Readings|5 October 2001|
+||Date of commencement|1 January 2002|
+|2.|**2002 Revised Edition—Education Service Incentive Payment Act**|
+||Date of operation|31 July 2002|
