@@ -278,6 +278,8 @@
 
 - [105 Burden of proving use of trade mark](#Burden-of-proving-use-of-trade-mark)
 
+- [105A Composition of offences](#Composition-of-offences)
+
 - [106 Jurisdiction of Courts](#Jurisdiction-of-Courts)
 
 - [107 Offence committed by partnership or body corporate](#Offence-committed-by-partnership-or-body-corporate)
@@ -345,6 +347,10 @@ and includes a trade mark in respect of which an application for registration ha
 “geographical indication” has the same meaning as in section 2 of the Geographical Indications Act (Cap. 117B);
 
 “international trade mark (Singapore)” has the meaning given to it under section 54;
+
+“Office” means the Intellectual Property Office of Singapore incorporated under the Intellectual Property Office of Singapore Act 2001;
+
+[3/2001 wef 01/04/2001]
 
 “Paris Convention” means the Convention for the Protection of Industrial Property signed at Paris on 20th March 1883, as revised or amended from time to time;
 
@@ -745,6 +751,8 @@ Cancellation, revocation and invalidity
 (3) The registration of a trade mark shall not be revoked on the ground mentioned in paragraph (a) or (b) of subsection (1) if such use as is referred to in that paragraph is commenced or resumed after the expiry of the 5 year period and before the application for revocation is made.
 
 (4) Any commencement or resumption of use referred to in subsection (3) after the expiry of the 5 year period but within the period of 3 months before the making of the application for revocation shall be disregarded unless preparations for the commencement or resumption began before the proprietor became aware that the application might be made.
+
+(5) [Deleted by Act 28/2000 wef 01/11/2000]
 
 (6) An application for revocation may be made by any person, and may be made either to the Registrar or to the Court, except that —
 
@@ -1640,11 +1648,11 @@ the Registrar may require the person to give security for the costs for the proc
 
 ### Exclusion of liability in respect of official acts
 
-74\.—(1) The Registrarshall not be taken to warrant the validity of the registration of a trade mark under this Act or under any treaty, convention, arrangement or engagement to which Singapore is a party.
+74\.—(1) The Office and the Registrar shall not be taken to warrant the validity of the registration of a trade mark under this Act or under any treaty, convention, arrangement or engagement to which Singapore is a party.
 
-(2) The Registrar is not subject to any liability by reason of, or in connection with, any examination required or authorised by this Act, or any such treaty, convention, arrangement or engagement, or any report or other proceedings consequent on such examination.
+(2) Neither the Office nor the Registrar is subject to any liability by reason of, or in connection with, any examination required or authorised by this Act, or any such treaty, convention, arrangement or engagement, or any report or other proceedings consequent on such examination.
 
-(3) No proceedings lie against an officer of the Registrar in respect of any matter for which, by virtue of this section, the Registrar is not liable.
+(3) No proceedings lie against an officer of the Office or the Registrar in respect of any matter for which, by virtue of this section, the Office or the Registrar is not liable.
 
 ### Appeals from Registrar
 
@@ -1673,6 +1681,14 @@ Forms, fees, hours of business and publication
 77\.—(1) There shall be paid in respect of applications and registration and other matters under this Act such fees as may be prescribed.
 
 (2) The Minister may make rules as to the remission of fees in the prescribed circumstances.
+
+(3) All fees collected shall be paid into the funds of the Office.
+
+[3/2001 wef 01/04/2001]
+
+(4) Subsection (3) shall not apply to fees prescribed in rules made under section 54(2)(g) which are to be forwarded to the International Bureau.
+
+[3/2001 wef 01/04/2001]
 
 ### Hours of business and excluded days
 
@@ -2054,6 +2070,18 @@ he is entitled to his costs as between solicitor and client unless the Court dir
 
 105\. If in any civil proceedings under this Act a question arises as to the use to which a registered trade mark has been put, it is for the proprietor to show what use has been made of it.
 
+### Composition of offences
+
+105A\.—(1) The Registrar or any person authorised by him in writing may, in his discretion, compound any offence under this Act or any rules made thereunder which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum of money not exceeding $2,000.
+
+(2) The Office may, with the approval of the Minister, make regulations to prescribe the offences which may be compounded.
+
+(3) On payment of such sum of money, no further proceedings shall be taken against such person in respect of the offence.
+
+(4) All sums collected under this section shall be paid into the funds of the Office.
+
+[3/2001 wef 01/04/2001]
+
 ### Jurisdiction of Courts
 
 106\. A District Court or a Magistrate’s Court shall have jurisdiction to hear and determine all offences under this Act and, notwithstanding anything to the contrary in the Criminal Procedure Code (Cap. 68), shall have power to impose the full penalty or punishment in respect of any such offence.
@@ -2070,7 +2098,7 @@ he is entitled to his costs as between solicitor and client unless the Court dir
 
 ### Power to make rules
 
-108\.—(1) The Minister maymake rules —
+108\.—(1) The Minister may, after consulting with the Office, make rules —
 
 (a) for any purpose for which rules are required or authorised to be made under this Act;
 
@@ -2571,3 +2599,8 @@ This Legislative History is provided for the convenience of users of the Trade M
 |||(Bill No. 22/2000 published on 26 August 2000)|
 ||Date of Second and Third Readings|9 October 2000|
 ||Date of commencement|1 November 2000|
+|8.|**Act 3 of 2001—Intellectual Property of Singapore Act 2001**|
+||Date of First Reading|12 January 2001|
+|||(Bill No. 1/2001 published on 13 January 2001)|
+||Date of Second and Third Readings|22 February 2001|
+||Date of commencement|1 April 2001|
