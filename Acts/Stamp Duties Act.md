@@ -356,9 +356,7 @@ Liability of instruments to duty
 
 (a) every instrument mentioned in that Schedule which, not having been previously executed by any person, is executed in Singapore;
 
-(b) 
-
-[Deleted by Act 26/96]
+(b) [Deleted byAct 26/96]
 
 (c) every instrument mentioned in that Schedule, which is executed outside Singapore, and relates to any property situate, or to any matter or thing done or to be done, in Singapore, and is received in Singapore.
 
@@ -1540,7 +1538,7 @@ Sections 4(1), 15(1) and 31(6)
 
 Instruments Chargeable With Stamp Duty
 
-24\. [S164/96 wef 29/02/1996]
+24\. [S 164/96 wef 29/02/1996]
 
 SECOND SCHEDULE
 
@@ -1821,3 +1819,12 @@ This Legislative History is provided for the convenience of users of the Stamp D
 ||Date of commencement|8 March 1985|
 |31.|**1985 Revised Edition—Stamp Duties Act**|
 ||Date of operation|30 March 1987|
+|32.|**Act 31 of 1993—Goods and Services Tax Act 1993**|
+||(Consequential amendments made by)||
+||Date of First Reading|26 February 1993|
+|||(Bill No. 14/93 published on 27 February 1993)|
+||Date of Second Reading|19 March 1993|
+||Date Committed to Select Committee|19 March 1993|
+||Date of Presentation of Select Committee Report|7 September 1993 (Parl 4 of 1993)|
+||Date of Third Reading|12 November 1993|
+||Date of commencement|26 November 1993 (except para (3) of Fifth Schedule)|
