@@ -220,7 +220,9 @@ An Act to establish the Singapore Polytechnic and for matters connected therewit
 
 11\.—(1) The Board may borrow at interest, on the security of any corporate land or of any funds of the Board, such moneys as it may from time to time think necessary or expedient for carrying into effect the provisions of this Act.
 
-(2) The Board may invest the funds of the Board in such manner and to such extent as it may think necessary or expedient.
+(2) The Board may invest its funds in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
+
+[45/2004 wef 15/12/2004]
 
 (3) The Board may do all or any things incidental or appertaining to a body corporate.
 
@@ -392,7 +394,7 @@ Singapore Polytechnic Act
 
 (CHAPTER 303)
 
-This Legislative History is provided for the convenience of users of the Singapore Polytechnic Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Singapore Polytechnic Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -426,3 +428,9 @@ This Legislative History is provided for the convenience of users of the Singapo
 |||(Bill No. 7/2002 published on 4 May 2002)|
 ||Date of Second and Third Readings|24 May 2002|
 ||Dates of commencement|15 July 2002|
+|10.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 September 2004|
+|||(Bill No. 43/2004 published on 22 September 2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|15 December 2004|
