@@ -170,6 +170,12 @@ PRELIMINARY
 
 “accredited checker” means a person who is registered as an accredited checker under section 16;
 
+“accredited checking organisation” means an accredited checking organisation registered as such under section 16A;
+
+[26/2000 wef 01/09/2001]
+
+[47/2007 wef 15/02/2008]
+
 “air-conditioning unit” includes a window air-conditioning unit and any condensing equipment of an air-conditioning unit;
 
 “analyst” means an analyst approved by the Commissioner of Building Control;
@@ -438,9 +444,9 @@ Control of Building Works
 
 (a) any building works except under the supervision of an appropriate qualified person;
 
-(b) the structural elements of a prescribed class of building works except under the full-time supervision of a site supervisor ; or
+(b) the structural elements of a prescribed class of building works except under the full-time supervision of a site supervisor appointed by the appropriate qualified person and working under his control and direction; or
 
-(c) concreting, piling, pre-stressing, tightening of high-friction grip bolts or other critical structural works of a prescribed class of building works except under the immediate supervision of a site supervisor or qualified person.
+(c) concreting, piling, pre-stressing, tightening of high-friction grip bolts or other critical structural works of a prescribed class of building works except under the immediate supervision of an appropriate qualified person or a site supervisor appointed by the appropriate qualified person and working under his control and direction.
 
 (2) Any person who contravenes or fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day during which the offence continues after conviction.
 
@@ -462,6 +468,10 @@ Control of Building Works
 
 (a) take all reasonable steps and exercise due diligence in supervising and inspecting the building works to ensure that the building works are being carried out in accordance with the provisions of this Act and, subject to section 14, the building regulations, with the plans approved in respect thereof by the Commissioner of Building Control and with any terms and conditions imposed by the Commissioner of Building Control;
 
+(aa) take all reasonable steps and exercise due diligence in ensuring that the structure of the building is designed in accordance with the provisions of this Act and, subject to section 14, the requirements for structural design and loads prescribed in the building regulations;
+
+[26/2000 wef 15/10/2000]
+
 (b) in the absence of a site supervisor, take all reasonable steps and exercise due diligence in giving immediate supervision to the carrying out of concreting, piling, pre-stressing, tightening of high-friction grip bolts or other critical structural works of any building works to which section 8(1)(c) applies to ensure that such critical structural works of the building works are being carried out in accordance with the provisions of this Act and, subject to section 14, the building regulations, with the plans approved in respect thereof by the Commissioner of Building Control and with any terms and conditions imposed by the Commissioner of Building Control;
 
 (c) notify the Commissioner of Building Control of any contravention of the provisions of this Act or the building regulations in connection with those building works;
@@ -480,17 +490,21 @@ Control of Building Works
 
 (5) Any qualified person who contravenes or fails to comply with subsection (3)(a), (b), (c), (d) or (e) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a continuing offence, to a further fine not exceeding $500 for every day during which the offence continues after conviction.
 
+(5A) Any qualified person who contravenes or fails to comply with subsection (3)(aa) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[26/2000 wef 15/10/2000]
+
 (6) It shall be a defence in any prosecution for a contravention or non-compliance with subsection (3)(c) for the person charged to prove to the satisfaction of the court that he did not know nor could reasonably have discovered the contravention or non-compliance referred to in the charge.
 
 (7) Any qualified person or person for whom any building works are or are to be carried out , as the case may be, who, without reasonable excuse, contravenes or fails to comply with subsection (1)(a), (2)or (3) (f) or (g) shall be guilty of an offence.
 
 ### Appointment and duties of site supervisors
 
-10\.—(1) Where the structural elements of any building works are required by section 8(1)(b) to be carried out under the full-time supervision of a site supervisor, the qualified person appointed under section 6(3) in respect of those building works shall appoint not less than one site supervisor in respect of the structural elements of those building works.
+10\.—(1) Where the structural elements of any building works are required by section 8(1)(b) to be carried out under the full-time supervision of a site supervisor, the appropriate qualified person appointed under section 6(3) in respect of those building works shall appoint not less than one site supervisor in respect of the structural elements of those building works.
 
 [18/95]
 
-(2) Where the critical structural works of any building works are required by section 8(1)(c) to be carried out under the immediate supervision of a site supervisor or qualified person, the qualified person appointed under section 6(3) in respect of those building works may appoint one or more site supervisors in respect of the critical structural works of those building works.
+(2) Where the critical structural works of any building works are required by section 8(1)(c) to be carried out under the immediate supervision of an appropriate qualified person or a site supervisor, the appropriate qualified person appointed under section 6(3) in respect of those building works may appoint one or more site supervisors in respect of the critical structural works of those building works.
 
 [18/95]
 
@@ -699,6 +713,10 @@ to ensure that the structural elements or critical structural works, as the case
 (7) The Commissioner of Building Control shall not exercise his powers under subsection (6)(b), (c), (d) or (e) unless an opportunity of being heard has been given to the accredited checker against whom the Commissioner of Building Control intends to exercise his powers.
 
 [4/99]
+
+(7) Any person who contravenes subsection (5B) or (5C) shall be guilty of an offence.
+
+[26/2000 wef 01/09/2001]
 
 (8) Where the Commissioner of Building Control cancels the registration of an accredited checker under subsection (6), he shall remove the name and particulars of the person from the register of accredited checkers and cancel any certificate of accreditation issued to the person under subsection (5).
 
@@ -1761,6 +1779,11 @@ This Legislative History is provided for the convenience of users of the Buildin
 ||Date of commencement|1 October 1999|
 |15.|**1999 Revised Edition—Building Control Act**|
 ||Date of operation|30 December 1999|
+|16.|**Act 26 of 2000—Building Control (Amendment) Act 2000**|
+||Date of First Reading|30 June 2000|
+|||(Bill No. 21/2000 published on 1 July 2000)|
+||Date of Second and Third Readings|25 August 2000|
+||Date of commencement|15 October 2000 (sections 3, 4 and 5)|
 ## COMPARATIVE TABLE
 
 Building Control Act
