@@ -40,6 +40,8 @@
 
 - [14 Loan conditions](#Loan-conditions)
 
+- [14A Issue of shares, etc.](#Issue-of-shares-etc)
+
 - [15 Budget](#Budget)
 
 - [16 Approval of budget by Minister](#Approval-of-budget-by-Minister)
@@ -408,6 +410,12 @@ PROVISIONS RELATING TO CORPORATION
 (2) The Corporation may, with the approval or direction of the Minister, fix such rates of interest and such terms, conditions and periods to secure the repayment of the sums borrowed as it thinks fit.
 
 [23/95]
+
+### Issue of shares, etc.
+
+14A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Corporation under this Act, or of any capital injection or other investment by the Government in the Corporation in accordance with any written law, the Corporation shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
+
+[5/2002 wef 15/07/2002]
 
 ### Budget
 
@@ -1272,3 +1280,9 @@ This Legislative History is provided for the convenience of users of the Jurong 
 ||Date of First Reading|12 October 1998 (Bill No. 42/98 published on 13 October 1998)|
 ||Date of Second and Third Readings|26 November 1998|
 ||Date of commencement|15 January 1999|
+|17.|**Act 5 of 2002—Statutory Corporations (Capital Contribution) Act 2002**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|3 May 2002|
+|||(Bill No. 7/2002 published on 4 May 2002)|
+||Date of Second and Third Readings|24 May 2002|
+||Dates of commencement|15 July 2002 (Item (19) of the Schedule –– Amendment of Jurong Town Corporation Act)|
