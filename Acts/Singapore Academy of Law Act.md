@@ -1,20 +1,18 @@
-**Singapore Academy of Law Act 1988**
+**Singapore Academy of Law Act**
 
-**(No. 18 of 1988)**
+**(CHAPTER 294A)**
 
 **Table of Contents**
 
 [**Long Title**](#Singapore-Academy-of-Law-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**PRELIMINARY**](#PRELIMINARY)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
-[**ESTABLISHMENT, INCORPORATION, FUNCTIONS AND POWERS OF THE SINGAPORE ACADEMY OF LAW**](#ESTABLISHMENT-INCORPORATION-FUNCTIONS-AND-POWERS-OF-THE-SINGAPORE-ACADEMY-OF-LAW)
+[**ESTABLISHMENT, INCORPORATION, FUNCTIONS AND POWERS OF SINGAPORE ACADEMY OF LAW**](#ESTABLISHMENT-INCORPORATION-FUNCTIONS-AND-POWERS-OF-SINGAPORE-ACADEMY-OF-LAW)
 
 - [3 Establishment of Singapore Academy of Law](#Establishment-of-Singapore-Academy-of-Law)
 
@@ -34,7 +32,7 @@
 
 - [10 Appointment of committees and boards](#Appointment-of-committees-and-boards)
 
-[**MEMBERSHIP OF THE ACADEMY**](#MEMBERSHIP-OF-THE-ACADEMY)
+[**MEMBERSHIP OF ACADEMY**](#MEMBERSHIP-OF-ACADEMY)
 
 - [11 Categories and rights of members](#Categories-and-rights-of-members)
 
@@ -62,55 +60,37 @@
 
 - [22 Appointment and powers of Academy’s auditor](#Appointment-and-powers-of-Academy’s-auditor)
 
-- [23 Income of Academy to be exempt from tax, etc](#Income-of-Academy-to-be-exempt-from-tax-etc)
+- [23 Income of Academy to be exempt from tax, etc.](#Income-of-Academy-to-be-exempt-from-tax-etc)
 
 [**MISCELLANEOUS**](#MISCELLANEOUS)
 
 - [24 Common seal](#Common-seal)
 
-- [25 No action can be maintained by members against Academy, etc](#No-action-can-be-maintained-by-members-against-Academy-etc)
+- [25 No action can be maintained by members against Academy, etc.](#No-action-can-be-maintained-by-members-against-Academy-etc)
 
 - [26 Power to make rules](#Power-to-make-rules)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Singapore Academy of Law Act
 
-ACTS SUPPLEMENT
+(CHAPTER 294A)
 
-Published by Authority
+(Original Enactment: Act 18 of 1988)
 
-NO. 15]
+REVISED EDITION 1989
 
-Friday, August 26
-
-[1988
-
-The following Act was passed by Parliament on 11th August 1988 and assented to by the President on 16th August 1988:—
-
-Singapore Academy of Law Act 1988
-
-(No. 18 of 1988)
-
-I assent.
-
-WEE KIM WEE
-
-President.
-
-16th August 1988.
-
-Date of Commencement: 1st November 1988
+(15th March 1989)
 
 An Act to establish the Singapore Academy of Law and for matters connected therewith.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st November 1988]
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Singapore Academy of Law Act 1988 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Singapore Academy of Law Act.
 
 ### Interpretation
 
@@ -118,7 +98,7 @@ PRELIMINARY
 
 “Academy” means the Singapore Academy of Law established under section 3;
 
-“advocate and solicitor” means an advocate and solicitor of the Supreme Court but shall not include any person admitted ad hoc under section 20 of the Legal Profession Act (Cap. 161);
+“advocate and solicitor” means an advocate and solicitor of the Supreme Court but shall not include any person admitted ad hoc under section 20 of the Legal Profession Act [Cap. 161];
 
 “Board” means the Board of Legal Education established under section 3 of the Legal Profession Act;
 
@@ -140,13 +120,13 @@ PRELIMINARY
 
 “President” means the President of the Academy;
 
-“qualified person” shall have the same meaning assigned to it by section 2 of the Legal Profession Act;
+“qualified person” shall have the meaning assigned to it by section 2 of the Legal Profession Act;
 
 “Senate” means the Senate of the Academy established under section 5;
 
 “Vice-President” means a Vice-President of the Academy.
 
-ESTABLISHMENT, INCORPORATION, FUNCTIONS AND POWERS OF THE SINGAPORE ACADEMY OF LAW
+ESTABLISHMENT, INCORPORATION, FUNCTIONS AND POWERS OF SINGAPORE ACADEMY OF LAW
 
 ### Establishment of Singapore Academy of Law
 
@@ -172,11 +152,11 @@ ESTABLISHMENT, INCORPORATION, FUNCTIONS AND POWERS OF THE SINGAPORE ACADEMY OF L
 
 (2) The Academy may for the purpose of performing its functions —
 
-(a) provide training and educational facilities for persons practising and intending to practise the profession of law;
+(a) provide such training and educational facilities for persons practising and intending to practise the profession of law;
 
 (b) establish a library and common rooms for its members;
 
-(c) grant prizes and scholarships and establish and subsidize lectureships in educational institutions in subjects of study relating to law;
+(c) grant prizes and scholarships and establish and subsidise lectureships in educational institutions in subjects of study relating to law;
 
 (d) contribute a collegiate element in the training of students and young lawyers by organising moots, lectures, talks and practical exercises;
 
@@ -222,7 +202,7 @@ CONSTITUTION AND POWERS OF THE SENATE
 
 6\.—(1) The Chief Justice shall be the President of the Academy.
 
-(2) The Senate may appoint from amongst their members such number of Vice-Presidents of the Academy as they may think fit.
+(2) The Senate may appoint from amongst its members such number of Vice-Presidents of the Academy as it may think fit.
 
 (3) The President may delegate his duties to any of the Vice-Presidents.
 
@@ -230,13 +210,13 @@ CONSTITUTION AND POWERS OF THE SENATE
 
 ### Powers of Senate
 
-7\.—(1) The Senate may exercise all such powers of the Academy as they think fit except as otherwise provided by this Act.
+7\.—(1) The Senate may exercise all such powers of the Academy as it thinks fit except as otherwise provided by this Act.
 
-(2) The Senate may on behalf of the Academy accept by way of grant, gift, testamentary disposition or otherwise, property and moneys in aid of the finances of the Academy on such conditions as they may determine.
+(2) The Senate may on behalf of the Academy accept by way of grant, gift, testamentary disposition or otherwise, property and moneys in aid of the finances of the Academy on such conditions as the Senate may determine.
 
 ### Employment of officers
 
-8\. The Academy may employ such number of officers as the Senate consider necessary and the duties and salaries of the officers shall be determined by the Senate.
+8\. The Academy may employ such number of officers as the Senate considers necessary and the duties and salaries of the officers shall be determined by the Senate.
 
 ### Meetings of Senate
 
@@ -248,13 +228,13 @@ CONSTITUTION AND POWERS OF THE SENATE
 
 (4) At any meeting of the Senate, the President or in his absence the Vice-President presiding at the meeting shall have a deliberative vote and shall, in the event of an equality of votes, have a casting vote.
 
-(5) Subject to any rules made under this Act, the Senate may regulate their own procedure and in particular the holding of meetings, the notice to be given of meetings, the proceedings thereat and the keeping of minutes and the custody, production and inspection of those minutes.
+(5) Subject to any rules made under this Act, the Senate may regulate its own procedure and in particular the holding of meetings, the notice to be given of meetings, the proceedings thereat and the keeping of minutes and the custody, production and inspection of those minutes.
 
-(6) The validity of the proceedings of the Senate shall not be affected by any vacancy amongst their members or by any irregularity in the appointment of any member.
+(6) The validity of the proceedings of the Senate shall not be affected by any vacancy amongst its members or by any irregularity in the appointment of any member.
 
 ### Appointment of committees and boards
 
-10\.—(1) The Senate may appoint one or more committees and boards for any general or special purpose which in the opinion of the Senate may be better dealt with or managed by a committee or board and the Senate may delegate to any committee or board so appointed, with or without restrictions or conditions as they think fit, the exercise of any functions exercisable by the Senate.
+10\.—(1) The Senate may appoint one or more committees and boards for any general or special purpose which in the opinion of the Senate may be better dealt with or managed by a committee or board and the Senate may delegate to any committee or board so appointed, with or without restrictions or conditions as the Senate thinks fit, the exercise of any functions exercisable by the Senate.
 
 (2) The number and term of office of the members of a committee or board appointed under this section, and the number of those members necessary to form a quorum, shall be fixed by the Senate.
 
@@ -262,7 +242,7 @@ CONSTITUTION AND POWERS OF THE SENATE
 
 (4) Every committee or board appointed under subsection (1) shall have amongst its members at least one person who is a practising advocate and solicitor and who has for an aggregate period of 7 years been a practising advocate and solicitor or a legal officer or both, nominated by the Council of the Law Society.
 
-MEMBERSHIP OF THE ACADEMY
+MEMBERSHIP OF ACADEMY
 
 ### Categories and rights of members
 
@@ -298,11 +278,11 @@ MEMBERSHIP OF THE ACADEMY
 
 (f) honorary or associate members who are elected by the Senate as Fellows for life or for such period as the Senate may in any case consider appropriate; and
 
-(g) members who have been appointed as Senior Counsel under the Legal Profession Act (Cap. 161).
+(g) members who have been appointed as Senior Counsel under the Legal Profession Act [Cap. 161].
 
 ### Honorary members
 
-13\. The Senate may elect as honorary members of the Academy such persons as they may think fit, either for life or for such period as the Senate may in any case consider appropriate.
+13\. The Senate may elect as honorary members of the Academy such persons as the Senate may think fit, either for life or for such period as the Senate may in any case consider appropriate.
 
 ### Ordinary members
 
@@ -340,7 +320,7 @@ shall become, by virtue of this section and without election, admission or appoi
 
 (3) Where a member of the Academy has been suspended from practising as an advocate and solicitor for any period his membership shall be deemed to be suspended for the duration of his suspension.
 
-(4) Where a member being an advocate and solicitor has been struck off the roll, he shall, on being re-instated to the roll, become a member of the Academy but nothing in this subsection shall affect the right of the Senate to terminate the membership of any such member pursuant to section 18.
+(4) Where a member being an advocate and solicitor has been struck off the roll, he shall on being reinstated to the roll, become a member of the Academy but nothing in this subsection shall affect the right of the Senate to terminate the membership of any such member pursuant to section 18.
 
 ### Annual subscriptions payable by members
 
@@ -348,9 +328,9 @@ shall become, by virtue of this section and without election, admission or appoi
 
 (2) In fixing the amount of annual subscription, the Senate shall be at liberty to divide members of each category into classes, and to provide that different amounts shall be paid by different classes and extend over different periods, and generally to regulate, and to vary from time to time, the subscriptions payable by members or different classes of members, as the Senate may think fit.
 
-(3) If any member fails to pay his annual subscription within 30 days of the same becoming due, he shall pay interest (if any) at the rate determined by the Senate.
+(3) If any member fails to pay his annual subscription within 30 days of the subscription becoming due, he shall pay interest (if any) at the rate determined by the Senate.
 
-(4) The Senate may in their discretion waive the subscription payable by any member of the Academy.
+(4) The Senate may in its discretion waive the subscription payable by any member of the Academy.
 
 ### Termination of membership
 
@@ -364,7 +344,7 @@ ACCOUNTS
 
 19\. The Senate shall cause proper books of accounts to be kept with respect to —
 
-(a) all sums of moneys received and expended by the Academy and the matters in respect of which the receipt and expenditure takes place; and
+(a) all sums of moneys received and expended by the Academy and the matters in respect of which the receipt and expenditure take place; and
 
 (b) all property acquired by the Academy.
 
@@ -380,7 +360,7 @@ ACCOUNTS
 
 22\.—(1) The accounts of the Academy shall be audited by an auditor appointed annually by the Senate.
 
-(2) No person shall be appointed as an auditor of the Academy unless he is an approved company auditor under the Companies Act (Cap. 50).
+(2) No person shall be appointed as an auditor of the Academy unless he is an approved company auditor under the Companies Act [Cap. 50].
 
 (3) The Academy’s auditor shall report —
 
@@ -398,15 +378,15 @@ ACCOUNTS
 
 (5) The Academy’s auditor or a person authorised by him shall be entitled to full and free access to all accounting and other records relating, directly or indirectly, to the financial transactions of the Academy and may make copies of, or extracts from, any such accounting and other records.
 
-(6) The Academy’s auditor or a person authorised by him may require any person to furnish him with such information which such person possesses or has access to as the auditor or duly authorised person considers necessary for the purposes of the functions of the auditor under this Act.
+(6) The Academy’s auditor or a person authorised by him may require any person to furnish him with such information which that person possesses or has access to as the auditor or duly authorised person considers necessary for the purposes of the functions of the auditor under this Act.
 
 (7) An officer of the Academy who refuses or fails without any reasonable cause to allow the Academy’s auditor access to any accounting and other records of the Academy in his custody or power or to give any information possessed by him as and when required or who otherwise hinders, obstructs or delays the Academy’s auditor in the performance of his duties or the exercise of his powers shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part thereof during which the offence continues after conviction.
 
-### Income of Academy to be exempt from tax, etc
+### Income of Academy to be exempt from tax, etc.
 
 23\. The Academy shall be deemed to be —
 
-(a) an institution specified in the First Schedule to, and under section 13(l)(e) of, the Income Tax Act (Cap. 134); and
+(a) an institution specified in the First Schedule to, and under section 13(1)(e) of, the Income Tax Act [Cap. 134]; and
 
 (b) an institution of a public character approved by the Minister for the purposes of section 37(2)(c) of the Income Tax Act.
 
@@ -414,21 +394,38 @@ MISCELLANEOUS
 
 ### Common seal
 
-24\.—(1) The common seal of the Academy may, from time to time, be broken, changed, altered and made anew as the Senate think fit.
+24\.—(1) The common seal of the Academy may, from time to time, be broken, changed, altered and made anew as the Senate thinks fit.
 
 (2) All deeds, documents and other instruments requiring the seal of the Academy shall be sealed with the common seal of the Academy and every instrument to which the common seal is affixed shall be signed by a member and shall be countersigned by any two members of the Senate duly authorised by the Senate for that purpose, and such signing shall be sufficient evidence that the seal was duly and properly affixed and that the seal is the lawful seal of the Academy.
 
 (3) The Senate may by resolution or otherwise appoint an officer of the Academy or any other agent, either generally or in a particular case, to execute or sign on behalf of the Academy any agreement or other instrument not under seal in relation to any matter coming within the powers of the Academy.
 
-(4) Section 12 of the Registration of Deeds Act (Cap. 269) shall not apply to any instrument purporting to have been executed under subsection (2).
+(4) Section 12 of the Registration of Deeds Act [Cap. 269] shall not apply to any instrument purporting to have been executed under subsection (2).
 
-### No action can be maintained by members against Academy, etc
+### No action can be maintained by members against Academy, etc.
 
 25\. No action shall be maintained against the Academy and the members of the Senate by an advocate and solicitor or by a member or qualified person in respect of any act done by the members of the Senate in their official capacity.
 
 ### Power to make rules
 
-26\.—(1) The Senate may from time to time make such rules as they may consider necessary or expedient to give effect to the provisions and purposes of this Act and for the due administration thereof.
+26\.—(1) The Senate may from time to time make such rules as it may consider necessary or expedient to give effect to the provisions and purposes of this Act and for the due administration thereof.
 
 (2) Rules made under this Act may make different provisions for different classes of persons and different circumstances.
 
+## LEGISLATIVE HISTORY
+
+Singapore Academy of Law Act
+
+(CHAPTER 294A)
+
+This Legislative History is provided for the convenience of users of the Singapore Academy of Law Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 18 of 1988—Singapore Academy of Law Act 1988**|
+||Date of First Reading|29 July 1988|
+|||(Bill No. 15/88 published on 1 August 1988)|
+||Date of Second and Third Readings|11 August 1988|
+||Date of commencement|1 November 1988|
+|2.|**1989 Revised Edition—Singapore Academy of Law Act**|
+||Date of operation|15 March 1989|
