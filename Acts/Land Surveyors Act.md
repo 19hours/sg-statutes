@@ -172,7 +172,7 @@ PRELIMINARY
 
 “Investigation Committee” means an Investigation Committee appointed under section 24(1);
 
-“licence” means a licence to supply title survey services in Singapore granted under section 17;
+“licence” means a licence to supply titlesurvey services in Singapore granted under section 17;
 
 “licensed”, in relation to a corporation or partnership, means a corporation or partnership which has in force a licence;
 
@@ -196,7 +196,7 @@ PRELIMINARY
 
 “Registrar” means the Registrar of the Board appointed under section 8;
 
-“repealed Act” means the Land Surveyors Act [Cap. 156, 1985 Ed.] repealed by this Act;
+“repealed Act” means the Land Surveyors Act [Cap. 156, 1985 Ed] repealed by this Act;
 
 “rules” means rules made by the Board under section 40;
 
@@ -428,7 +428,7 @@ and the Board shall, subject to subsection (4), thereupon issue to the registere
 
 (a) the applicant is an undischarged bankrupt;
 
-[Act 15/1995 wef 15/07/1995]
+[Deleted by Act 15/95 wef 15/07/1995 vide S 268/95]
 
 (b) the applicant has entered into a composition with his creditors or a deed of arrangement for the benefit of his creditors;
 
@@ -454,7 +454,7 @@ and the Board shall, subject to subsection (4), thereupon issue to the registere
 
 (9) Any person whose application for a practising certificate has been refused by the Board may, within 30 days after being notified of such refusal, appeal to the High Court whose decision shall be final.
 
-(10) This section shall not apply to a Government surveyor.
+(10) This section shall not apply to a Government surveyor .
 
 ### Cancellation of practising certificates
 
@@ -470,9 +470,9 @@ MULTI-DISCIPLINE AND CORPORATE PRACTICE
 
 ### Licence for multi-discipline and corporate practice
 
-17\.—(1) Subject to the provisions of this Act, the Board may grant a licence to a corporation to supply title survey services in Singapore if —
+17\.—(1) Subject to the provisions of this Act, the Board may grant a licence to a corporation to supply titlesurvey services in Singapore if —
 
-(a) the memorandum of association of the corporation provides that a primary object of the corporation is to supply title survey services;
+(a) the memorandum of association of the corporation provides that a primary object of the corporation is to supply titlesurvey services;
 
 (b) at least $1 million of its authorised capital is bona fide paid-up;
 
@@ -486,7 +486,7 @@ MULTI-DISCIPLINE AND CORPORATE PRACTICE
 
 who are either directors, managers or employees of the corporation;
 
-(e) the business of the corporation, so far as it relates to title survey work in Singapore, will be under the control and management of director of the corporation who —
+(e) the business of the corporation, so far as it relates to titlesurvey work in Singapore, will be under the control and management of director of the corporation who —
 
 (i) is a registered surveyor ordinarily resident in Singapore;
 
@@ -496,13 +496,13 @@ who are either directors, managers or employees of the corporation;
 
 (f) the corporation is insured against professional liability in accordance with section 21 and the rules.
 
-(2) Subject to the provisions of this Act, the Board may grant a licence to any unlimited corporation to supply title survey services in Singapore if —
+(2) Subject to the provisions of this Act, the Board may grant a licence to any unlimited corporation to supply titlesurvey services in Singapore if —
 
 (a) the requirements specified in subsection (1)(a) and (c) are complied with;
 
 (b) the articles of association of the corporation provide that any person who is neither a registered surveyor nor an allied professional or is a nominee of such a person, or is not a director, manager or employee of the corporation, shall not be registered as a member of that corporation; and
 
-(c) the business of the corporation, so far as it relates to title survey work, will be under the control and management of a director of the corporation who —
+(c) the business of the corporation, so far as it relates to titlesurvey work, will be under the control and management of a director of the corporation who —
 
 (i) is a registered surveyor ordinarily resident in Singapore;
 
@@ -510,13 +510,13 @@ who are either directors, managers or employees of the corporation;
 
 (iii) is a member, or a registered owner of at least one share, of the corporation.
 
-(3) Subject to the provisions of this Act, the Board may grant to any partnership not consisting wholly of registered surveyors a licence to supply title survey services in Singapore if —
+(3) Subject to the provisions of this Act, the Board may grant to any partnership not consisting wholly of registered surveyors a licence to supply titlesurvey services in Singapore if —
 
 (a) the partnership is one in which only registered surveyors, each of whom shall have in force a practising certificate, and allied professionals have a beneficial interest in the capital assets and profits of the partnership; and
 
-(b) the business of the partnership, so far as it relates to title survey work in Singapore, will be under the control and management of a partner who is a registered surveyor ordinarily resident in Singapore; and has in force a practising certificate.
+(b) the business of the partnership, so far as it relates to titlesurvey work in Singapore, will be under the control and management of a partner who is a registered surveyor ordinarily resident in Singapore; and has in force a practising certificate.
 
-(4) Subject to the provisions of this Act, the Board may grant to any corporation or partnership a licence to supply title survey services in Singapore if the corporation or partnership has in force a licence granted under section 20 of the Architects Act or section 20 of the Professional Engineers Act and —
+(4) Subject to the provisions of this Act, the Board may grant to any corporation or partnership a licence to supply titlesurvey services in Singapore if the corporation or partnership has in force a licence granted under section 20 of the Architects Act or section 20 of the Professional Engineers Act and —
 
 (a) in the case of an unlimited corporation, the corporation complies with the requirements set out in subsections (1)(c) and (2)(b) and (c);
 
@@ -526,7 +526,7 @@ who are either directors, managers or employees of the corporation;
 
 (5) Any application for a licence under this section shall be in such form and shall be made in such manner as may be prescribed.
 
-(6) The Board may refuse to grant a licence under this section to any corporation (whether unlimited or not) or partnership if, in the opinion of the Board, the past conduct of any director, manager or employee of the corporation, or any partner, manager or employee of the partnership, affords reasonable grounds for believing that the corporation or partnership, as the case may be, will not supply title survey services in Singapore in accordance with the written law and with honesty and integrity.
+(6) The Board may refuse to grant a licence under this section to any corporation (whether unlimited or not) or partnership if, in the opinion of the Board, the past conduct of any director, manager or employee of the corporation, or any partner, manager or employee of the partnership, affords reasonable grounds for believing that the corporation or partnership, as the case may be, will not supply titlesurvey services in Singapore in accordance with the written law and with honesty and integrity.
 
 (7) Every licence granted under this section shall, unless earlier revoked, be valid for such period as may be specified therein.
 
@@ -812,7 +812,7 @@ CONDUCT OF SURVEYS
 
 (2) No assurance plan shall be lodged in the Registry of Titles and Deeds unless the plan is signed by a registered surveyor and approved by the Chief Surveyor or other officer appointed by him to approve assurance plans on his behalf, and bears a caution to the effect that the boundaries or dimensions and areas are inconclusive.
 
-(3) The Chief Surveyor may withhold approval of any plan under this section where the written permission to subdivide as required by section 9 of the Planning Act [Cap. 232] has not been obtained or where the prescribed survey fees have not been paid.
+(3) The Chief Surveyor may withhold approval of any plan under this section where the subdivision permission as required by section 12 of the Planning Act 1998 has not been obtained or where the prescribed survey fees have not been paid.
 
 ### Duty of registered surveyor to complete title survey
 
@@ -998,3 +998,9 @@ This Legislative History is provided for the convenience of users of the Land Su
 ||Date of Presentation of Select Committee Report|7 March 1995 (Parl 1 of 1995)|
 ||Date of Third Reading|23 March 1995|
 ||Date of commencement|15 July 1995|
+|4.|**Act 3 of 1998—Planning Act 1998**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|19 November 1997|
+|||(Bill No. 18/97 published on 20 November 1997)|
+||Date of Second and Third Readings|14 January 1998|
+||Date of commencement|1 April 1998|
