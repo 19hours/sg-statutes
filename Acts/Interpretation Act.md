@@ -80,59 +80,55 @@
 
 - [32 Appointments having retrospective effect](#Appointments-having-retrospective-effect)
 
-- [33 Powers of a board, etc., not affected by vacancy, etc.](#Powers-of-a-board-etc-not-affected-by-vacancy-etc)
+- [33 Powers of board, etc., not affected by vacancy, etc.](#Powers-of-board-etc-not-affected-by-vacancy-etc)
 
 - [34 Signification of orders, etc., of President](#Signification-of-orders-etc-of-President)
 
-- [35 Signification of orders, etc., of a Minister](#Signification-of-orders-etc-of-a-Minister)
+- [35 Signification of orders, etc., of Minister](#Signification-of-orders-etc-of-Minister)
 
 - [36 Delegation of powers of Minister](#Delegation-of-powers-of-Minister)
 
 - [37 Signing of documents](#Signing-of-documents)
 
-[**Part V REPRINT OF ACTS**](#Part-V)
+[**Part V Penal Provisions**](#Part-V)
 
-- [38 (Repealed)](#Repealed)
+- [38 Attempt to commit an offence to be deemed an offence](#Attempt-to-commit-an-offence-to-be-deemed-an-offence)
 
-[**Part VI PENAL PROVISIONS**](#Part-VI)
+- [39 Imposition of penalty not a bar to civil action](#Imposition-of-penalty-not-a-bar-to-civil-action)
 
-- [39 Attempt to commit an offence to be deemed an offence](#Attempt-to-commit-an-offence-to-be-deemed-an-offence)
+- [40 Provisions as to offences under 2 or more laws](#Provisions-as-to-offences-under-2-or-more-laws)
 
-- [40 Imposition of a penalty not a bar to civil action](#Imposition-of-a-penalty-not-a-bar-to-civil-action)
+- [41 Penalties prescribed to be deemed maximum penalties](#Penalties-prescribed-to-be-deemed-maximum-penalties)
 
-- [41 Provisions as to offences under two or more laws](#Provisions-as-to-offences-under-two-or-more-laws)
+[**Part VI MISCELLANEOUS**](#Part-VI)
 
-- [42 Penalties prescribed to be deemed maximum penalties](#Penalties-prescribed-to-be-deemed-maximum-penalties)
+- [42 Powers of President, Minister or other authority to appoint public officer to serve on board and to appoint chairman](#Powers-of-President-Minister-or-other-authority-to-appoint-public-officer-to-serve-on-board-and-to-appoint-chairman)
 
-[**Part VII MISCELLANEOUS**](#Part-VII)
+- [43 Prima facie evidence of signature](#Prima-facie-evidence-of-signature)
 
-- [43 Powers of President, Minister or other authority to appoint public officer as such to serve on board and to appoint chairman](#Powers-of-President-Minister-or-other-authority-to-appoint-public-officer-as-such-to-serve-on-board-and-to-appoint-chairman)
+- [44 Public officers](#Public-officers)
 
-- [44 Prima facie evidence of signature](#Prima-facie-evidence-of-signature)
+- [45 Act for which payment is required need not be performed until payment is made](#Act-for-which-payment-is-required-need-not-be-performed-until-payment-is-made)
 
-- [45 Public officers](#Public-officers)
+- [46 Fees or charges may be prescribed and may be reduced, varied, remitted or refunded](#Fees-or-charges-may-be-prescribed-and-may-be-reduced-varied-remitted-or-refunded)
 
-- [46 Act for which payment is required need not be performed till payment be made](#Act-for-which-payment-is-required-need-not-be-performed-till-payment-be-made)
+- [47 Proceedings not to abate on death, etc., of official](#Proceedings-not-to-abate-on-death-etc-of-official)
 
-- [47 Fees or charges may be prescribed and may be reduced, varied, remitted or refunded](#Fees-or-charges-may-be-prescribed-and-may-be-reduced-varied-remitted-or-refunded)
+- [48Gazetteto be evidence of matters therein](#be-evidence-of-matters-therein)
 
-- [48 Proceedings not to abate on death, etc., of official](#Proceedings-not-to-abate-on-death-etc-of-official)
+- [49 Measurement of distance](#Measurement-of-distance)
 
-- [49Gazetteto be evidence of matters therein](#be-evidence-of-matters-therein)
+- [50 Computation of time](#Computation-of-time)
 
-- [50 Measurement of distance](#Measurement-of-distance)
+- [51 Standard time](#Standard-time)
 
-- [51 Computation of time](#Computation-of-time)
+- [52 Provision when no time prescribed](#Provision-when-no-time-prescribed)
 
-- [52 Standard time](#Standard-time)
+- [53 Construction of power of extending time](#Construction-of-power-of-extending-time)
 
-- [53 Provision when no time prescribed](#Provision-when-no-time-prescribed)
+- [54 Saving of rights of Government](#Saving-of-rights-of-Government)
 
-- [54 Construction of power of extending time](#Construction-of-power-of-extending-time)
-
-- [55 Saving of rights of Government](#Saving-of-rights-of-Government)
-
-- [56 Act to be binding on Government](#Act-to-be-binding-on-Government)
+- [55 Act to be binding on Government](#Act-to-be-binding-on-Government)
 
 [**Legislative History**](#Legislative-History)
 
@@ -142,9 +138,9 @@
 
 (Original Enactment: Act 10 of 1965)
 
-REVISED EDITION 1985
+REVISED EDITION 1997
 
-(30th March 1987)
+(30th May 1997)
 
 An Act to define certain terms and expressions used in written law and to make provision for the construction, interpretation and publication of written law and for matters connected therewith.
 
@@ -160,17 +156,17 @@ GENERAL PROVISIONS OF INTERPRETATION
 
 ### Interpretation of certain words and expressions
 
-2\.—(1) In this Act, and in every written law enacted before or after the commencement of this Act, the following words and expressions shall, without prejudice to anything done prior to the commencement of this Act, have the meanings respectively assigned to them unless there is something in the subject or context inconsistent with such construction or unless it is therein otherwise expressly provided:
+2\.—(1) In this Act, and in every written law enacted before or after 28th December 1965, the following words and expressions shall, without prejudice to anything done prior to that date, have the meanings respectively assigned to them unless there is something in the subject or context inconsistent with such construction or unless it is therein otherwise expressly provided:
 
-“abet”, with its grammatical variations and cognate expressions, has the same meaning as in the Penal Code [Cap. 224];
+“abet”, with its grammatical variations and cognate expressions, has the same meaning as in the Penal Code (Cap. 224);
 
 “Accountant-General” means the Accountant-General of Singapore;
 
 “act”, when used with reference to an offence or civil wrong, includes a series of acts, and words which refer to acts done shall be construed as extending to illegal omissions;
 
-“Act” or “Act of Parliament” means an Act of the Parliament of Singapore and includes any Ordinance or Act of Singapore or Malaysia having the force of law in Singapore; and “Act” when used in any subsidiary legislation means the Act under the authority of which the subsidiary legislation was made;
+“Act” or “Act of Parliament” means an Act of the Parliament of Singapore and includes any Ordinance or Act of Singapore or Malaysia having the force of law in Singapore; and “Act”, when used in any subsidiary legislation, means the Act under the authority of which the subsidiary legislation was made;
 
-“advocate” and “advocate” and “solicitor” mean an advocate and solicitor of the Supreme Court;
+“advocate” and “advocate and solicitor” mean an advocate and solicitor of the Supreme Court;
 
 “animal” includes bird, reptile, fish and every kind of vertebrate animal and the young thereof;
 
@@ -192,7 +188,7 @@ GENERAL PROVISIONS OF INTERPRETATION
 
 “Commonwealth” or “British Commonwealth” means collectively the Commonwealth countries and includes any colony, protectorate or protected state or any other territory administered by any Commonwealth country;
 
-“Commonwealth country” means any country recognised by the President to be a Commonwealth country and “part of the Commonwealth” means any Commonwealth country, any colony, protectorate or protected state or any other territory administered by the government of any Commonwealth country;
+“Commonwealth country” means any country recognised by the President to be a Commonwealth country, and “part of the Commonwealth” means any Commonwealth country, any colony, protectorate or protected state or any other territory administered by the government of any Commonwealth country;
 
 “Consolidated Fund” means the Consolidated Fund established by the Constitution;
 
@@ -212,7 +208,7 @@ GENERAL PROVISIONS OF INTERPRETATION
 
 “export”, with its grammatical variations and cognate expressions, means to take or cause to be taken out of Singapore by land, sea or air;
 
-“Gazette” or “GovernmentGazette” means the Gazette published by order of the Government and includes any supplement thereto and any Gazette Extraordinary so published;
+“Gazette” or “GovernmentGazette” means theGazettepublished by order of the Government and includes any supplement thereto and anyGazetteExtraordinary so published;
 
 “Government” means the Government of Singapore;
 
@@ -226,11 +222,7 @@ GENERAL PROVISIONS OF INTERPRETATION
 
 “Judge” means a Judge of the High Court and includes any person appointed to exercise the powers of a Judge;
 
-[Act 16/93 wef 01/07/1993]
-
 “Judge of the Supreme Court” includes the Chief Justice, a Judge of Appeal and a Judge of the High Court;
-
-[Act 16/93 wef 01/07/1993]
 
 “legislature”, when used with reference to any part of the Commonwealth, means the authority competent to make laws for that part of the Commonwealth;
 
@@ -254,11 +246,11 @@ GENERAL PROVISIONS OF INTERPRETATION
 
 “national language” means the Malay language;
 
-“oath” and “affidavit” in the case of persons for the time being allowed by law to affirm or declare instead of swearing, include affirmation and declaration, and “swear” in the like case includes affirm and declare;
+“oath” and “affidavit”, in the case of persons for the time being allowed by law to affirm or declare instead of swearing, include affirmation and declaration, and “swear” in the like case includes affirm and declare;
 
-“Ordinance” means any Ordinance of Singapore, and includes any Ordinance of the Colony of the Straits Settlements, any Ordinance of the Colony of Singapore or of the State of Singapore and any Proclamation having the force of law in Singapore; and “Ordinance” when used in any subsidiary legislation means the Ordinance under the authority of which such subsidiary legislation has been made;
+“Ordinance” means any Ordinance of Singapore, and includes any Ordinance of the Colony of the Straits Settlements, any Ordinance of the Colony of Singapore or of the State of Singapore and any Proclamation having the force of law in Singapore; and “Ordinance” when used in any subsidiary legislation means the Ordinance under the authority of which the subsidiary legislation was made;
 
-“Parliament” means the Parliament of the Republic of Singapore;
+“Parliament” means the Parliament of Singapore;
 
 “person” and “party” include any company or association or body of persons, corporate or unincorporate;
 
@@ -266,9 +258,7 @@ GENERAL PROVISIONS OF INTERPRETATION
 
 “prescribed” means prescribed by the Act in which the word occurs or by any subsidiary legislation made thereunder;
 
-“President” means the President of the Republic of Singapore and includes any person for the time being performing the functions of the President under the provisions of the Constitution;
-
-[Act 11/91 wef 30/11/1991 vide S 527/91]
+“President” means the President of Singapore and includes any person for the time being performing the functions of the President under the provisions of the Constitution;
 
 “public holiday” means any day which is declared to be or proclaimed as a public holiday or which under any written law is to be observed as a public holiday in Singapore;
 
@@ -292,17 +282,17 @@ GENERAL PROVISIONS OF INTERPRETATION
 
 “sign”, with its grammatical variations and cognate expressions, with reference to a person who is unable to write his name, includes “mark” with its grammatical variations and cognate expressions;
 
-“Singapore” means the Republic of Singapore and shall be deemed to include the Island of Singapore and all islands and places which on 2nd June 1959, were administered as part of Singapore and all territorial waters adjacent thereto;
+“Singapore” means the Republic of Singapore and shall be deemed to include the Island of Singapore and all islands and places which on 2nd June 1959 were administered as part of Singapore and all territorial waters adjacent thereto;
 
 “Solicitor-General” means the Solicitor-General of Singapore;
 
-“Speaker” means the Speaker of the Parliament elected in accordance with the provisions of the Constitution;
+“Speaker” means the Speaker of Parliament elected in accordance with the provisions of the Constitution;
 
 “States of Malaya” means the States of Johore, Kedah, Kelantan, Malacca, Negri Sembilan, Pahang, Penang, Perak, Perlis, Selangor and Trengganu, which constitute part of Malaysia;
 
 “statutory declaration”, if made —
 
-(a) in Singapore, means a declaration made under the Statutory Declarations Act [Cap. 320];
+(a) in Singapore, means a declaration made under the Statutory Declarations Act (Cap. 320);
 
 (b) in the United Kingdom or any part of the Commonwealth other than in Singapore, means a declaration made before a justice of the peace, notary public or other person having authority therein under any law for the time being in force to take or receive a declaration;
 
@@ -318,11 +308,7 @@ GENERAL PROVISIONS OF INTERPRETATION
 
 “vessel” includes floating craft of every description;
 
-“will” includes a codicil;
-
-words importing the masculine gender include females;
-
-words in the singular include the plural and words in the plural include the singular;
+“will” includes a codicil; words importing the masculine gender include females; words in the singular include the plural and words in the plural include the singular;
 
 “writing” and expressions referring to writing include printing, lithography, typewriting, photography and other modes of representing or reproducing words or figures in visible form;
 
@@ -332,11 +318,13 @@ words in the singular include the plural and words in the plural include the sin
 
 “year” means a year reckoned according to the Gregorian calendar.
 
-(2) In every written law enacted before the commencement of this Act —
+[14/69; 11/91; 16/93]
+
+(2) In every written law enacted before 28th December 1965 —
 
 (a) references to the Colony of the Straits Settlements, the Settlement of Singapore, the Colony of Singapore, the Colony, the State of Singapore or the State, shall be construed as references to Singapore;
 
-(b) references to the Federated Malay States shall, unless there is something repugnant in the context, be construed as references to the States of Malaya;
+(b) references to the Federated Malay States shall, unless the context otherwise requires, be construed as references to the States of Malaya;
 
 (c) references to the Governor of the Malayan Union shall be construed as references to the Yang di-Pertuan Agong;
 
@@ -346,7 +334,7 @@ words in the singular include the plural and words in the plural include the sin
 
 (f) references to any officer of, or authority or body constituted in or for, the Federated Malay States, any Malay State or the Malayan Union shall be construed as references to the corresponding officer of, or authority or body constituted in or for, Malaysia or the territories comprised therein, as the case may require;
 
-(g) references to the Assembly or the Legislative Assembly shall be construed as references to the Parliament;
+(g) references to the Assembly or the Legislat ive Assembly shall be construed as references to the Parliament;
 
 (h) references to the Yang di-Pertuan Negara shall be construed as references to the President;
 
@@ -354,19 +342,13 @@ words in the singular include the plural and words in the plural include the sin
 
 (j) references to the State Advocate-General shall be construed as references to the Attorney-General;
 
-(k) references to the High Court in Singapore shall be construed as references to the High Court of Singapore;
+(k) references to the High Court in Singapore shall be construed as references to the High Court of Singapore; and
 
 (l) references to a Judge of the High Court and the Registrar of the High Court shall be construed as references to a Judge of the Supreme Court and the Registrar of the Supreme Court, respectively.
 
-(2A) In every written law enacted before or after the commencement of the Supreme Court of Judicature (Amendment) Act 1995 and the Subordinate Courts (Amendment) Act 1995, references to the Rules of the Supreme Court, the Supreme Court Rules, the Rules of the Subordinate Courts or the Subordinate Courts Rules, shall be construed as references to the Rules of Court.
+(3) In every written law enacted before or after 26th January 1996, references to the Rules of the Supreme Court, the Supreme Court Rules, the Rules of the Subordinate Courts or the Subordinate Courts Rules, shall be construed as references to the Rules of Court.
 
-[Act 4/96 wef 26/01/1996 vide S 36/96]
-
-(3) In any Act, Ordinance or order specified in paragraphs (b), (c) and (e) of the definition of “Act” in section 38(3), references to —
-
-(a) the Yang di-Pertuan Agong shall be construed as references to the President; and
-
-(b) the Minister shall be construed as references to the appropriate Minister of Singapore.
+[4/96]
 
 (4) Where an Act authorises or requires any document to be served by post, whether the word “serve”, “give” or “send” or any other word is used, then, unless a contrary intention appears, the service shall be deemed to be effected by properly addressing, prepaying and posting a letter containing the document, and, unless the contrary is proved, shall be deemed to have been effected at the time at which the letter would be delivered in the ordinary course of post.
 
@@ -404,13 +386,15 @@ GENERAL PROVISIONS REGARDING WRITTEN LAW
 
 9\.—(1) Where in any Act there is a reference to a section, Part, Chapter or Schedule by number or letter only, and not in conjunction with the title or number of an Act, the reference shall be construed as a reference to the section, Part, Chapter or Schedule of that number or letter contained in the Act in which the reference occurs.
 
-(2) Where in any section of an Act there is a reference to a subsection, paragraph or sub-paragraph by number or letter only, the reference shall be construed as a reference to the subsection, paragraph or sub-paragraph of that number or letter contained in the section in which the reference occurs.
+(2) Where in any section of an Act there is a reference to a subsection, paragraph or sub-paragraph by number or letter only, the reference sh all be construed as a reference to the subsection, paragraph or sub-paragraph of that number or letter contained in the section in which the reference occurs.
 
 (3) This section shall, with suitable modification, apply to subsidiary legislation.
 
 ### Purposive interpretation of written law and use of extrinsic materials
 
 9A\.—(1) In the interpretation of a provision of a written law, an interpretation that would promote the purpose or object underlying the written law (whether that purpose or object is expressly stated in the written law or not) shall be preferred to an interpretation that would not promote that purpose or object.
+
+[11/93]
 
 (2) Subject to subsection (4), in the interpretation of a provision of a written law, if any material not forming part of the written law is capable of assisting in the ascertainment of the meaning of the provision, consideration may be given to that material —
 
@@ -421,6 +405,8 @@ GENERAL PROVISIONS REGARDING WRITTEN LAW
 (i) the provision is ambiguous or obscure; or
 
 (ii) the ordinary meaning conveyed by the text of the provision taking into account its context in the written law and the purpose or object underlying the written law leads to a result that is manifestly absurd or unreasonable.
+
+[11/93]
 
 (3) Without limiting the generality of subsection (2), the material that may be considered in accordance with that subsection in the interpretation of a provision of a written law shall include —
 
@@ -436,13 +422,15 @@ GENERAL PROVISIONS REGARDING WRITTEN LAW
 
 (f) any document that is declared by the written law to be a relevant document for the purposes of this section.
 
+[11/93]
+
 (4) In determining whether consideration should be given to any material in accordance with subsection (2), or in determining the weight to be given to any such material, regard shall be had, in addition to any other relevant matters, to —
 
 (a) the desirability of persons being able to rely on the ordinary meaning conveyed by the text of the provision taking into account its context in the written law and the purpose or object underlying the written law; and
 
 (b) the need to avoid prolonging legal or other proceedings without compensating advantage.
 
-[Act 11/93 wef 16/04/1993 vide S 120/93]
+[11/93]
 
 ### Time of commencement of written law
 
@@ -452,7 +440,7 @@ GENERAL PROVISIONS REGARDING WRITTEN LAW
 
 (b) where the day of its coming into operation is the date of its publication in theGazette, on the expiration of the previous day.
 
-[Subst. by Act 11/93 wef 16/04/1993]
+[11/93]
 
 ### Effect of repeal of Act on subsidiary legislation made thereunder
 
@@ -480,7 +468,7 @@ GENERAL PROVISIONS REGARDING WRITTEN LAW
 
 (b) in so far as any subsidiary legislation made or other thing done under the provision so repealed, or having effect as if so made or done, could have been made or done under the provision so re-enacted, it shall have effect as if made or done under that provision.
 
-[Subst. by Act 11/93 wef 16/04/1993 vide S 120/93]
+[11/93]
 
 ### Effect of repeal
 
@@ -496,15 +484,13 @@ GENERAL PROVISIONS REGARDING WRITTEN LAW
 
 (e) affect any investigation, legal proceeding or remedy in respect of any such right, privilege, obligation, liability, penalty, forfeiture or punishment as aforesaid; and any such investigation, legal proceeding or remedy may be instituted, continued or enforced, and any such penalty, forfeiture or punishment may be imposed, as if the repealing law had not been passed.
 
-[Act 11/93 wef 16/04/1993 vide S 120/93]
-
 (2) This section shall also apply to —
 
 (a) a repeal of a written law by implication; and
 
 (b) the expiry of a temporary Act as if it were repealed by another Act.
 
-[Act 11/93 wef 16/04/1993 vide S 120/93]
+[11/93]
 
 ### Construction of amending Act
 
@@ -520,13 +506,13 @@ SUBSIDIARY LEGISLATION
 
 ### General provisions with respect to power given to any authority to make subsidiary legislation
 
-19\. When any Act confers power on any authority to make subsidiary legislation, the following provisions shall, unless the contrary intention appears, have effect with reference to the making and operation of the subsidiary legislation:
+19\. When any Act confers powers on any authority to make subsidiary legislation, the following provisions shall, unless the contrary intention appears, have effect with reference to the making and operation of the subsidiary legislation:
 
-(a) subsidiary legislation may at any time be amended, varied, rescinded or revoked by the same authority and in the same manner by and in which it was made:
+(a) subsidiary legislation may at any time be amended, varied, rescinded or revoked by the same authority and in the same manner by and in which it was made subject to the follo wing provisions:
 
-Provided that where any Act is to come into operation on a date to be fixed by subsidiary legislation, the power to make the subsidiary legislation shall not include the power of amending, revoking or suspending the same:
+(i) where any Act is to come into operation on a date to be fixed by subsidiary legislation, the power to make the subsidiary legislation shall not include the power of amending, revoking or suspending the same; and
 
-And provided that where the authority has been replaced wholly or partially by another authority, the power conferred herein upon the original authority may be exercised by the replacing authority concerning all matters or things within its jurisdiction as if it were the original authority;
+(ii) where the authority has been replaced wholly or partially by another authority, the power conferred herein upon the original authority may be exercised by the replacing authority concerning all matters or things within its jurisdiction as if it were the original authority;
 
 (b) when any Act confers powers on any authority to make subsidiary legislation for any general purpose, and also for any special purpose incidental thereto, the enumeration of the special purposes shall not be deemed to derogate from the generality of the powers conferred with reference to the general purpose; and
 
@@ -550,21 +536,21 @@ And provided that where the authority has been replaced wholly or partially by a
 
 ### Use of defined terms in subsidiary legislation
 
-21\. Where an Act confers powers to make any subsidiary legislation, expressions used in the subsidiary legislation shall, unless the contrary intention appears, have the same respective meanings as in the Act conferring the power.
+21\. Where any Act confers powers to make any subsidiary legislation, expressions used in the subsidiary legislation shall, unless the contrary intention appears, have the same respective meanings as in the Act conferring the power.
 
 ### Anticipatory exercise of powers
 
-22\. Where an Act or any part thereof does not come into operation immediately on its passing and the Act or that part confers power to make subsidiary legislation or to make appointments or to issue notifications or to prescribe forms or to do any other thing for the purposes of the Act or that part, then, unless the contrary intention appears, the power may be exercised and any subsidiary legislation, appointment, form or thing made, issued, prescribed or done under the power may be made, issued, prescribed or done so as to take effect at any time after the passing of the Act so far as may be necessary or expedient for the purpose of —
+22\. When an Act or any part thereof does not come into operation immediately on its passing and the Act or that part confers power to make subsidiary legislation or to make appointments or to issue notifications or to prescribe forms or to do any other thing for the purposes of the Act or that part, then, unless the contrary intention appears, the power may be exercised and any subsidiary legislation, appointment, form or thing made, issued, prescribed or done under the power may be made, issued, prescribed or done so as to take effect at any time after the passing of the Act so far as may be necessary or expedient for the purpose of —
 
 (a) bringing the Act or that part into operation; or
 
 (b) giving full effect to the Act or that part on or after the day on which it comes into operation.
 
-[Subst. by Act 11/93 wef 16/04/1993 vide S 120/93]
+[11/93]
 
 ### Commencement of subsidiary legislation
 
-23\.—(1) Subsidiary legislation made under any Act or other lawful authority shall, unless it be otherwise expressly provided in any Act, be published in theGazetteand, unless it be otherwise provided in the subsidiary legislation, shall take effect and come into operation on the date of its publication.
+23\.—(1) Subsidiary legislation made under any Act or other lawful authority shall, unless it is otherwise expressly provided in any Act, be published in theGazetteand, unless it is otherwise provided in the subsidiary legislation, shall take effect and come into operation on the date of its publication.
 
 (2) Any such subsidiary legislation may be made to operate retrospectively to any date not being a date earlier than the commencement of the Act or the establishment of the authority by or under which the subsidiary legislation is made.
 
@@ -574,7 +560,7 @@ And provided that where the authority has been replaced wholly or partially by a
 
 ### Construction of amending subsidiary legislation
 
-25\. Where subsidiary legislation amends other subsidiary legislation, the amending subsidiary legislation shall, so far as is consistent with the tenor thereof and unless the contrary intention appears, be construed as one with the amended subsidiary legislation.
+25\. Where subsidiary legislation amends other subsidiary legislation, the amending subsidiary legislation shall, so far as is consistent with the tenor thereof and unless the contrary intention appears, be construed as one with the am ended subsidiary legislation.
 
 ### Acts done under subsidiary legislation to be deemed to be done under Act
 
@@ -594,15 +580,15 @@ POWERS AND APPOINTMENTS
 
 ### Power to appoint includes power to dismiss
 
-28\. Where a written law confers upon any person or authority a power to make appointments to any office or place, the power shall, unless the contrary intention appears, be construed as including a power to dismiss or suspend any person appointed and to appoint another person temporarily in the place of any person so suspended or in place of any sick or absent holder of the office or place:
+28\.—(1) Where a written law confers upon any person or authority a power to make appointments to any office or place, the power shall, unless the contrary intention appears, be construed as including a power to dismiss or suspend any person appointed and to appoint another person temporarily in the place of any person so suspended or in place of any sick or absent holder of the office or place.
 
-Provided that where the power of the person or authority to make such appointment is only exercisable upon the recommendation or subject to the approval or consent of some other person or authority, the power of dismissal shall, unless the contrary intention appears, only be exercisable upon the recommendation or subject to the approval or consent of such other person or authority.
+(2) Where the power of the person or authority to make appointments is only exercisable upon the recommendation or subject to the approval or consent of some other person or authority, the power of dismissal shall, unless the contrary intention appears, only be exercisable upon the recommendation or subject to the approval or consent of such other person or authority.
 
 ### Construction of enabling words
 
-29\.—(1) Where a written law confers power on any person to do or enforce the doing of any act or thing, all such powers shall be understood to be also conferred as are reasonably necessary to enable the person to do or enforce the doing of the act or thing.
+29\.—(1) Where a written law confers powers on any person to do or enforce the doing of any act or thing, such powers shall be understood to be also conferred as are reasonably necessary to enable the person to do or enforce the doing of the act or thing.
 
-(2) Without prejudice to the generality of subsection (1)—
+(2) Without prejudice to the generality of subsection (1) —
 
 (a) a power to prohibit or to control or to regulate any matter includes power to provide for the same by the licensing thereof and power to prohibit acts whereby the prohibitions, control or regulations affecting the matter might be evaded;
 
@@ -610,19 +596,19 @@ Provided that where the power of the person or authority to make such appointmen
 
 ### Appointment of officers by name or office
 
-30\.—(1) Where by or under any Act, the President, Minister or any public officer or body is empowered to appoint or name a person to have and exercise any powers or perform any duties, the President, Minister, public officer or body may either appoint a person by name or direct the person for the time being holding the office designated by the President, Minister, public officer or body to have and exercise those powers and perform those duties; and thereupon, or from the date specified by the President, Minister, public officer or body, the person appointed by name or the person holding the office aforesaid shall have and may exercise those powers or perform those duties accordingly.
+30\.—(1) Where by or under any Act, the President, a Minister or any public officer or body is empowered to appoint or name a person to have and exercise any powers or perform any duties, the President, Minister, public officer or body may either appoint a person by name or direct the person for the time being holding the office designated by the President, Minister, public officer or body to have and exercise those powers and perform those duties; and thereupon, or from the date specified by the President, Minister, public officer or body, the person appointed by name or the person holding the office aforesaid shall have and may e xercise those powers or perform those duties accordingly.
 
 (2) Any such appointment may be made with retrospective effect to any date not being a date earlier than the commencement of the Act under which the appointment is made.
 
 ### Official designation to include officer executing duties
 
-31\. When reference is made in any written law, instrument, warrant or process of any kind made or issued by the President, Minister, public officer or any body or person having authority under any written law to make or to issue the same to any public officer by the term designating his office, such public officer shall include the officer for the time being executing the duties of that office or any portion of those duties.
+31\. When reference is made in any written law, instrument, warrant or process of any kind made or issued by the President, a Minister, any public officer or body or person having authority under any written law to make or to issue the same to any public officer by the term designating his office, such public officer shall include the officer for the time being executing the duties of that office or any portion of those duties.
 
 ### Appointments having retrospective effect
 
-32\. Any appointment may be declared to have effect as from the date upon which the appointee commenced to exercise the powers and discharge the duties of his appointment, not being a date earlier than the date of the coming into operation of the written law under which the appointment is made.
+32\. Any appointment may be declared to have effect as from the date upon which the appointee commenced to exercise the powers and discharge the duties of his appointment, not being a date earlier than the date of the commencement of the written law under which the appointment is made.
 
-### Powers of a board, etc., not affected by vacancy, etc.
+### Powers of board, etc., not affected by vacancy, etc.
 
 33\. Where by or under any Act, any board, commission, committee or similar body, whether corporate or unincorporate, is established, then, unless the contrary intention appears, the powers of such board, commission, committee or similar body shall not be affected by —
 
@@ -634,21 +620,21 @@ Provided that where the power of the person or authority to make such appointmen
 
 ### Signification of orders, etc., of President
 
-34\. Where any power is conferred upon the President to make any subsidiary legislation or appointment, give any directions, issue any order, authorise any thing or matter to be done, grant any exemption, remit any fee or penalty or exercise any other power under any written law, it shall be sufficient if the exercise of such power by the President be signified under the hand of any Minister or of the Secretary to the Cabinet:
+34\.—(1) Where any power is conferred upon the President to make any subsidiary legislation or appointment, give any direction, issue any order, authorise any thing or matter to be done, grant any exemption, remit any fee or penalty or exercise any other power under any written law, it shall be sufficient if the exercise of such power by the President be signified under the hand of any Minister or the Secretary to the Cabinet
 
-Provided always that the foregoing shall not apply to the power of the President to make or issue any warrants or proclamations which shall be made or issued only under the hand of the President himself.
+(2) Subsection (1) shall not apply to the power of the President to make or issue any warrants or proclamations which shall be made or issued only under the hand of the President himself.
 
-### Signification of orders, etc., of a Minister
+### Signification of orders, etc., of Minister
 
-35\. Where any written law confers upon a Minister power to make any subsidiary legislation or appointment, give any directions, issue any order, authorise any thing or matter to be done, grant any exemption, remit any fee or penalty or exercise any other power, it shall be sufficient, unless in such written law it is otherwise provided, if the exercise of such power by the Minister be signified under the hand of the Permanent Secretary to the Ministry for which the Minister is responsible.
+35\. Where any written law confers upon a Minister power to make any subsidiary legislation or appointment, give any direction, issue any order, authorise any thing or matter to be done, grant any exemption, remit any fee or penalty or exercise any other power, it shall be sufficient, unless in such written law it is otherwise provided, if the exercise of such power by the Minister be signified under the hand of the Permanent Secretary to the Ministry for which the Minister is responsible.
 
 ### Delegation of powers of Minister
 
-36\.—(1) Where in any written law a Minister is empowered to exercise any powers or perform any duties, he may, in the absence of any provision of law to the contrary, with the approval of the President and by notification in theGazette, depute any person by name or the person for the time being discharging the duties of an office designated by him to exercise such powers or perform such duties on behalf of the Minister subject to such conditions, exceptions and qualifications as the President may determine, and thereupon or from the date specified by the President, the person so deputed shall have and exercise those powers and perform those duties:
+36\.—(1) Where in any written law a Minister is empowered to exercise any power or perform any duty, he may, in the absence of any provision of law to the contrary, with the approval of the President and by notification in theGazette, depute any person by name or the person for the time being discharging the duties of an office designated by him to exercise that power or perform that duty on behalf of the Minister subject to such conditions, exceptions and qualifications as the President may determine, and thereupon or from the date specified by the President, the person so deputed shall have and exercise that power and perform that duty.
 
-Provided that nothing herein shall authorise a Minister to depute any person to make subsidiary legislation under the power in that behalf conferred upon the Minister by any Act.
+(2) Nothing in subsection (1) shall authorise a Minister to depute any person to make subsidiary legislation under the power in that behalf conferred upon the Minister by any Act.
 
-(2) The Minister may exercise any powers or perform any duties conferred upon him by an Act notwithstanding the delegation by him of those powers or duties.
+(3) The Minister may exercise any power or perform any duty conferred upon him by an Act notwithstanding the delegation by him of that power or duty.
 
 ### Signing of documents
 
@@ -656,77 +642,93 @@ Provided that nothing herein shall authorise a Minister to depute any person to 
 
 ## PART V
 
-REPRINT OF ACTS
-
-Reprint of Acts
-
-38\. [Repealed by Act 6/94 wef 01/07/1994 wef 01/07/1994 videS 271/94]
-
-## PART VI
-
-PENAL PROVISIONS
+Penal Provisions
 
 ### Attempt to commit an offence to be deemed an offence
 
-39\. A provision which constitutes an offence shall, unless the contrary intention appears, be deemed to provide also that an attempt to commit such offence shall be an offence against such provision, punishable as if the offence itself had been committed.
+38\. A provision which constitutes an offence shall, unless the contrary intention appears, be deemed to provide also that an attempt to commit such offence shall be an offence against such provision, punishable as if the offence itself had been committed.
 
-### Imposition of a penalty not a bar to civil action
+[39
 
-40\. The imposition of a penalty by any written law, in the absence of express provision to the contrary, shall not relieve any person from liability to answer for damages to a person injured.
+### Imposition of penalty not a bar to civil action
 
-### Provisions as to offences under two or more laws
+39\. The imposition of a penalty by any written law, in the absence of express provision to the contrary, shall not relieve any person from liability to answer for damages to a person injured.
 
-41\. Where any act or omission constitutes an offence under two or more written laws, the offender shall, unless the contrary intention appears, be liable to be prosecuted and punished under any one of those written laws but shall not be liable to be punished twice for the same offence.
+[40
+
+### Provisions as to offences under 2 or more laws
+
+40\. Where any act or omission constitutes an offence under 2 or more written laws, the offender shall, unless the contrary intention appears, be liable to be prosecuted and punished under any one of those written laws but shall not be liable to be punished twice for the same offence.
+
+[41
 
 ### Penalties prescribed to be deemed maximum penalties
 
-42\. Whenever in any written law a penalty is provided for an offence, such provision shall imply that such offence shall be punishable upon conviction by a penalty not exceeding (except as may be otherwise expressly mentioned in the written law) the penalty provided.
+41\. Whenever in any written law a penalty is provided for an offence, such provision shall imply that such offence shall be punishable upon conviction by a penalty not exceeding (except as may be otherwise expressly mentioned in the written law) the penalty provided.
 
-## PART VII
+[42
+
+## PART VI
 
 MISCELLANEOUS
 
-### Powers of President, Minister or other authority to appoint public officer as such to serve on board and to appoint chairman
+### Powers of President, Minister or other authority to appoint public officer to serve on board and to appoint chairman
 
-43\.—(1) Where under the provisions of any Act, power is given to the President, Minister or other authority to appoint any person to be a member of any board, commission, committee or similar body, it shall be lawful for the President, Minister or other authority, in the absence of any provision to the contrary, to appoint, by his official designation, any public officer, and, on such appointment and until such appointment is cancelled or otherwise determined, the person for the time being filling the office in question shall be a member of that board, commission, committee or similar body.
+42\.—(1) Where under the provisions of any Act power is given to the President, a Minister or any other authority to appoint any person to be a member of any board, commission, committee or similar body, it shall be lawful for the President, Minister or other authority, in the absence of any provision to the contrary, to appoint, by his official designation, any public officer, and, on such appointment and until such appointment is cancelled or otherwise determined, the person for the time being holding or carrying out the duties of the office in question shall be a member of that board, commission, committee or similar body.
 
-(2) Where under the provisions of any Act power is given to the President, Minister or other authority to appoint any board, commission, committee or similar body, it shall be lawful for the President, Minister or other authority, in the absence of any provision to the contrary, to appoint a chairman of that board, commission, committee, or similar body.
+(2) Where under the provisions of any Act power is given to the President, a Minister or any other authority to appoint any board, commission, committee or similar body, it shall be lawful for the President, Minister or other authority, in the absence of any provision to the contrary, to appoint a chairman of that board, commission, committee or similar body.
+
+[43
 
 ### Prima facie evidence of signature
 
-44\. Whenever the fiat, authorisation or sanction of the President, the Minister, the Attorney-General, the Solicitor-General, the Public Prosecutor, a Deputy Public Prosecutor or of any public officer is necessary before any prosecution or action is commenced or for any purpose whatsoever in connection with any proceeding, any document purporting to bear the fiat, authorisation or sanction of the President, the Minister, the Attorney-General, the Solicitor-General, the Public Prosecutor, such Deputy Public Prosecutor or such public officer, as the case may be, shall be received as prima facie evidence in any proceeding without proof being given that the signature to such fiat, authorisation or sanction is that of the President, the Minister, the Attorney-General, the Solicitor-General, the Public Prosecutor, such Deputy Public Prosecutor or such public officer, as the case may be.
+43\. Whenever the fiat, authorisation or sanction of the President, a Minister, the Attorney-General, the Solicitor-General, the Public Prosecutor, a Deputy Public Prosecutor or any public officer is necessary before any prosecution or action is commenced or for any purpose whatsoever in connection with any proceeding, any document purporting to bear the fiat, authorisation or sanction of the President, Minister, Attorney-General, Solicitor-General, Public Prosecutor, Deputy Public Prosecutor or public officer, as the case may be, shall be received as prima facie evidence in any proceeding without proof being given that the signature to such fiat, authorisation or sanction is that of the President, Minister, Attorney-General, Solicitor-General, Public Prosecutor, Deputy Public Prosecutor or public officer, as the case may be.
+
+[44
 
 ### Public officers
 
-45\. A reference in any written law to any public officer by the usual or common title of his office shall, if there be such an office customarily in Singapore and unless the contrary intention appears, be read and construed as referring to the person for the time being holding or carrying out the duties of that office in Singapore.
+44\. A reference in any written law to any public officer by the usual or common title of his office shall, if there be such an office customarily in Singapore and unless the contrary intention appears, be read and construed as referring to the person for the time being holding or carrying out the duties of that office in Singapore.
 
-### Act for which payment is required need not be performed till payment be made
+[45
 
-46\.—(1) Whenever any person, public officer, public department or statutory authority is required to do anything for which a fee is to be paid or a charge made under any written law, the person, public officer, public department or statutory authority may decline to do that thing until the fee is paid or payment be made and, where the precise amount of the payment to be made cannot be ascertained until the thing is done, until there be paid such an amount as may be estimated to be the correct amount by the person, public officer, public department or statutory authority required to do that thing.
+### Act for which payment is required need not be performed until payment is made
+
+45\.—(1) Whenever any person, public officer, public department or statutory authority is required to do anything for which a fee is to be paid or a charge made under any written law, the person, public officer, public department or statutory authority may decline to do that thing until the fee is paid or payment is made and, where the precise amount of the payment to be made cannot be ascertained until the thing is done, until there is paid such an amount as may be estimated to be the correct amount by the person, public officer, public department or statutory authority required to do that thing.
 
 (2) Whenever a thing has been done for which an estimated amount has been paid, the amount shall be adjusted to the correct amount either by means of a further payment or by a refund of the amount overpaid.
 
+[46
+
 ### Fees or charges may be prescribed and may be reduced, varied, remitted or refunded
 
-47\.—(1) Whenever any act requires to be done or a service performed by a public body, statutory authority or a public officer under or in connection with any written law, and no special provision is made thereby or thereunder for making a charge in respect of the act or service, the Minister may, by order published in theGazette, provide for the imposition of such fees or charges as he may consider proper.
+46\.—(1) Whenever any act requires to be done or a service performed by a public body, statutory authority or public officer under or in connection with any written law, and no special provision is made thereby or thereunder for making a charge in respect of the act or service, the Minister may, by order published in theGazette, provide for the imposition of such fees or charges as he may consider proper.
 
 (2) Any fee or charge under any written law made payable to the Government or to any public body, statutory authority or public officer, not being a fee or charge which is regulated by Rules of Court, may by order of the Minister be reduced, remitted or refunded, in whole or in part in the circumstances of any particular case.
 
+[47
+
 ### Proceedings not to abate on death, etc., of official
 
-48\. Any civil or criminal proceedings taken by or against any person by virtue of his office shall not be discontinued or abated by his death, resignation, absence or removal from office, but may be carried on by or against, as the case may be, the person appointed to perform the duties of the office.
+47\. Any civil or criminal proceedings taken by or against any person by virtue of his office shall not be discontinued or abated by his death, resignation, absence or removal from office, but may be carried on by or against, as the case may be, the person appointed to perform the duties of the office.
+
+[48
 
 ### Gazetteto be evidence of matters therein
 
-49\. All printed copies of theGazette, purporting to be published by authority and to be printed by the Government Printer, shall be admitted in evidence by all courts and in all legal proceedings whatsoever without any proof being given that those copies were so published and printed, and shall be taken and accepted as prima facie evidence of subsidiary legislation, appointments, notifications and other publications therein printed and of the matters and things contained in such subsidiary legislation, appointments, notifications and publications respectively.
+48\. All printed copies of theGazette, purporting to be published by authority and to be printed by the Government Printer, shall be admitted in evidence by all courts and in all legal proceedings whatsoever without any proof being given that those copies were so published and printed, and shall be taken and accepted as prima facie evidence of subsidiary legislation, appointments, notifications and other publications therein printed and of the matters and things contained in such subsidiary legislation, appointments, notifications and publications, respectively.
+
+[49
 
 ### Measurement of distance
 
-50\. In the measurement of any distance for the purposes of any written law, that distance shall, unless the contrary intention appears, be measured in a straight line on a horizontal plane.
+49\. In the measurement of any distance for the purposes of any written law, that distance shall, unless the contrary intention appears, be measured in a straight line on a horizontal plane.
+
+[50
 
 ### Computation of time
 
-51\. In computing time for the purposes of any written law, unless the contrary intention appears —
+50\. In computing time for the purposes of any written law, unless the contrary intention appears —
 
 (a) a period of days from the happening of an event or the doing of any act or thing shall be deemed to be exclusive of the day on which the event happens or the act or thing is done;
 
@@ -734,31 +736,191 @@ MISCELLANEOUS
 
 (c) when any act or proceeding is directed or allowed to be done or taken on a certain day, then, if that day happens to be an excluded day, the act or proceeding shall be considered as done or taken in due time if it is done or taken on the next day afterwards, not being an excluded day;
 
-(d) when an act or proceeding is directed or allowed to be done or taken within any time not exceeding 6 days, excluded days shall not be reckoned in the computation of the time.
+(d) when any act or proceeding is directed or allowed to be done or taken within any time not exceeding 6 days, excluded days shall not be reckoned in the computation of the time.
+
+[51
 
 ### Standard time
 
-52\.—(1) Whenever any expression of time occurs in any written law or in any instrument whatsoever and whenever the doing or not doing anything at a certain time of the day or night or during a certain part of the day or night has an effect in law, that time shall, unless it is otherwise specifically stated, be held to be standard time as declared by this section.
+51\.—(1) Whenever any expression of time occurs in any written law or in any instrument whatsoever and whenever the doing or not doing any thing at a certain time of the day or night or during a certain part of the day or night has an effect in law, that time shall, unless it is otherwise specifically stated, be held to be standard time as declared by this section.
 
 (2) “Standard time” means standard time as used in Singapore, namely, 8 hours, or such other period as may from time to time be determined by the President by notification in theGazette, in advance of Greenwich mean time.
 
-[S 392/81]
+[52
+
+[Cap. 1, N 1]
 
 ### Provision when no time prescribed
 
-53\. Where no time is prescribed or allowed within which anything shall be done, that thing shall be done with all convenient speed and as often as the prescribed occasion arises.
+52\. Where no time is prescribed or allowed within which anything shall be done, that thing shall be done with all convenient speed and as often as the prescribed occasion arises.
+
+[53
 
 ### Construction of power of extending time
 
-54\. Where in any written law a time is prescribed for doing any act or taking any proceeding and power is given to a court or other authority to extend the time, unless the contrary intention appears, the power may be exercised by the court or other authority although the application for the extension is not made until after the expiration of the time prescribed.
+53\. Where in any written law a time is prescribed for doing any act or taking any proceeding and power is given to a court or other authority to extend the time, unless the contrary intention appears, the power may be exercised by the court or other authority although the application for the extension is not made until after the expiration of the time prescribed.
+
+[54
 
 ### Saving of rights of Government
 
-55\. No Act shall in any manner whatsoever affect the rights of the Government unless it is therein expressly provided, or unless it appears by necessary implication, that the Government is bound thereby.
+54\. No Act shall in any manner whatsoever affect the rights of the Government unless it is therein expressly provided, or unless it appears by necessary implication, that the Government is bound thereby.
+
+[55
 
 ### Act to be binding on Government
 
-56\. This Act shall be binding on the Government.
+55\. This Act shall be binding on the Government.
+
+INTERPRETATION ACT (CHAPTER 1)
+
+1\. Act 10 of 1965 — Interpretation Act 1965 
+
+Date of First Reading
+
+:
+
+13.12.65 (Bill No. 45/65 published on 13.12.65)
+
+Date of Second and Third Readings
+
+:
+
+22.12.65
+
+Date of commencement
+
+:
+
+28.12.65
+
+2\. Act 14 of 1969 — Statute Law Revision Act 1969 
+
+Date of First Reading
+
+:
+
+15.10.69 (Bill No. 22/69 published on 20.10.69)
+
+Date of Second and Third Readings
+
+:
+
+22.12.69
+
+Date of commencement
+
+:
+
+2.1.70
+
+3\. Act 11 of 1991 — Statutes (Miscellaneous Amendments) Act 1991 
+
+Date of First Reading
+
+:
+
+3.1.91 (Bill No. 4/91 published on 4.1.91)
+
+Date of Second and Third Readings
+
+:
+
+14.1.91
+
+Date of commencement
+
+:
+
+30.11.91
+
+4\. Act 11 of 1993 — Interpretation (Amendment) Act 1993 
+
+Date of First Reading
+
+:
+
+18.1.93 (Bill No. 4/93 published on 19.1.93)
+
+Date of Second and Third Readings
+
+:
+
+26.2.93
+
+Date of commencement
+
+:
+
+16.4.93
+
+5\. Act 16 of 1993 — Supreme Court of Judicature (Amendment) Act 1993 
+
+(Consequential amendments made by)
+
+Date of First Reading
+
+:
+
+26.2.93 (Bill No. 12/93 published on 27.2.93)
+
+Date of Second and Third Readings
+
+:
+
+12.4.93
+
+Date of commencement
+
+:
+
+1.7.93
+
+6\. Act 6 of 1994 — Revised Edition of the Laws (Amendment) Act 1994 
+
+(Consequential amendments made by)
+
+Date of First Reading
+
+:
+
+16.3.94 (Bill No. 7/94 published on 17.3.94)
+
+Date of Second and Third Readings
+
+:
+
+23.5.94
+
+Date of commencement
+
+:
+
+1.7.94
+
+7\. Act 4 of 1996 — Subordinate Courts (Amendment) Act 1996 
+
+(Consequential amendments made by)
+
+Date of First Reading
+
+:
+
+1.11.95 (Bill No. 37/95 published on 2.11.95)
+
+Date of Second and Third Readings
+
+:
+
+5.12.95
+
+Date of commencement
+
+:
+
+26.1.96
+
+[56
 
 ## LEGISLATIVE HISTORY
 
@@ -812,3 +974,5 @@ This Legislative History is provided for the convenience of users of the Interpr
 |||(Bill No. 37/95 published on 2 November 1995)|
 ||Date of Second and Third Readings|5 December 1995|
 ||Date of commencement|26 January 1996|
+|10.|**1997 Revised Edition—Interpretation Act**|
+||Date of operation|30 May 1997|
