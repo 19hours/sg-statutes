@@ -54,6 +54,8 @@
 
 - [19 Loans](#Loans)
 
+- [19A Issue of shares, etc.](#Issue-of-shares-etc)
+
 - [20 Bank accounts and application of moneys](#Bank-accounts-and-application-of-moneys)
 
 - [21 Accounts and financial statements](#Accounts-and-financial-statements)
@@ -348,6 +350,12 @@ FINANCIAL PROVISIONS
 
 19\. The Authority may, from time to time, for the purposes of this Act raise loans from the Government or, with the consent of the Minister, from any other source.
 
+### Issue of shares, etc.
+
+19A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Authority under this Act, or of any capital injection or other investment by the Government in the Authority in accordance with any written law, the Authority shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
+
+[5/2002 wef 15/07/2002]
+
 ### Bank accounts and application of moneys
 
 20\.—(1) The Authority shall open and maintain an account or accounts with such bank or banks as the Authority thinks fit and every such account shall be operated by such person or persons as may, from time to time, be authorised in that behalf by the Authority.
@@ -511,6 +519,12 @@ This Legislative History is provided for the convenience of users of the Buildin
 ||Date of commencement|1 April 1999|
 |2.|**2000 Revised Edition—Building and Construction Authority Act (Chapter 30A)**|
 ||Date of operation|30 December 2000|
+|3.|**Act 5 of 2002—Statutory Corporations (Capital Contribution) Act 2002**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|3 May 2002|
+|||(Bill No. 7/2002 published on 4 May 2002)|
+||Date of Second and Third Readings|24 May 2002|
+||Dates of commencement|15 July 2002 (except item (18) of Schedule)|
 ## COMPARATIVE TABLE
 
 Building and Construction Authority Act
