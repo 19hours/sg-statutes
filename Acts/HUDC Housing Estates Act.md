@@ -146,7 +146,7 @@ PRELIMINARY
 
 “body corporate” means a body corporate constituted under an order made by the Minister pursuant to section 3;
 
-“Commissioner” means the Commissioner of Buildings appointed under section 3(1) of the Buildings and Common Property (Maintenance and Management) Act [Cap. 30];
+“Commissioner” means the Commissioner of Buildings appointed under section 3(1) of the Building Maintenance and Strata Management Act 2004;
 
 “committee” means the management committee of a body corporate;
 
@@ -192,7 +192,7 @@ PRELIMINARY
 
 “special resolution” means a resolution passed at a duly convened general meeting of a body corporate of which at least 21 days’ notice specifying the proposed resolution has been given and against which not more than 25% of the owners of all the flats in the housing estate concerned have cast their votes.
 
-[29/1994 wef 13/01/1995]
+[Act 29/94 wef 13/01/1995 vide S 9/95]
 
 (2) This Act shall apply to the housing estates which are built on the lands which are more particularly described in the First Schedule.
 
@@ -262,9 +262,9 @@ any person bound to comply therewith or the body corporate, as the case may be, 
 
 8\.—(1) A body corporate may levy the contributions determined by it in accordance with section 13(1)(l) and (m) and the contributions referred to in section 13(1)(q) by serving on the owners of the flats in the housing estate concerned notice in writing of the contributions payable by them in respect of their respective flats.
 
-(2) Contributions levied by a body corporate shall be levied in respect of each flat in the housing estate concerned and shall be payable, subject to this section, by the owners of the flats and the amount of contributions payable by the owner of a flat which is permitted under the Planning Act [Cap. 232] to be used for non-residential purposes shall be twice the amount of the contributions payable by the owner of a flat which is permitted under the Planning Act to be used solely for residential purposes.
+(2) Contributions levied by a body corporate shall be levied in respect of each flat in the housing estate concerned and shall be payable, subject to this section, by the owners of the flats and the amount of contributions payable by the owner of a flat which is permitted under the Planning Act [Cap. 232] to be used for non-residential purposes shall be twice the amount of the contributions payable by the owner of a flat which is permitted under the Planning Act [Cap. 232]to be used solely for residential purposes.
 
-[6/86]
+[6/86. Cap. 232]
 
 (3) In respect of any contribution levied under subsection (1), the owner of a flat shall be liable, jointly and severally with any person who was liable to pay that contribution before he became the owner of the flat, to pay such part of that contribution as was unpaid when he became the owner of that flat.
 
@@ -542,9 +542,9 @@ at such time and place as may be agreed upon by the applicant or his agent and t
 
 (4) The body corporate shall permit the Commissioner or any person authorised by him to act on his behalf at all reasonable times full and free access to the records of the body corporate and permit the Commissioner or such person to make copies of or make extracts from any such records.
 
-(5) The Commissioner or any person authorised by him to act on his behalf may require any member of the committee of a body corporate to furnish him with such information which such member possesses or has access to as the Commissioner or any such duly authorised person considers necessary for the purposes of discharging the functions of the Commissioner under the Buildings and Common Property (Maintenance and Management) Act [Cap. 30].
+(5) The Commissioner or any person authorised by him to act on his behalf may require any member of the committee of a body corporate to furnish him with such information which such member possesses or has access to as the Commissioner or any such duly authorised person considers necessary for the purposes of discharging the functions of the Commissioner under the Building Maintenance and Strata Management Act 2004.
 
-(6) A body corporate or a member of its committee who neglects or fails to perform any duty owed by it or him to the Commissioner or his duly authorised officer under sub-section (4) or (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
+(6) A body corporate or a member of its committee who neglects or fails to perform any duty owed by it or him to the Commissioner or his duly authorised officer under subsection (4) or (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
 
 ### Body corporate to display notice, etc.
 
@@ -572,7 +572,7 @@ at such time and place as may be agreed upon by the applicant or his agent and t
 
 (b) any one or more of its powers, duties and functions specified in the instrument; or
 
- all of its powers, duties and functions except those specified in the instrument,
+(c) all of its powers, duties and functions except those specified in the instrument,
 
 and may in like manner revoke wholly or in part the delegation.
 
@@ -604,7 +604,7 @@ and may in like manner revoke wholly or in part the delegation.
 
 (b) use or enjoy that flat, or permit that flat to be used or enjoyed, in such a manner or for such a purpose as to cause a nuisance or hazard to the occupier of any other flat (whether that person is an owner or not); or
 
- use or enjoy the common property in such a manner or for such a purpose as to interfere unreasonably with the use or enjoyment of the common property by the occupier of any other flat (whether that person is an owner or not) or by any other person entitled to the use and enjoyment of the common property.
+(c) use or enjoy the common property in such a manner or for such a purpose as to interfere unreasonably with the use or enjoyment of the common property by the occupier of any other flat (whether that person is an owner or not) or by any other person entitled to the use and enjoyment of the common property.
 
 ### Notices to be given by owners and mortgagees
 
@@ -624,7 +624,7 @@ and may in like manner revoke wholly or in part the delegation.
 
 (b) specify any mortgages of the flat which have priority over the mortgage referred to in the notice; and
 
- give documentary evidence of the accuracy of the information contained in the notice.
+(c) give documentary evidence of the accuracy of the information contained in the notice.
 
 (5) After the delivery to a mortgagor of a discharge of a mortgage of a flat or a discharge of a sub-mortgage of a mortgage of a flat, the mortgagor may give to the body corporate written notice of the discharge which shall identify the flat and the mortgage that has been discharged and —
 
@@ -696,7 +696,7 @@ and may in like manner revoke wholly or in part the delegation.
 
 (ii) notifies the body corporate, in writing, that his office, as a member of the committee, is vacated;
 
- if, where he was a nominee of a company at the time of his appointment or election, he ceases to be a director, officer or employee of that company;
+(c) if, where he was a nominee of a company at the time of his appointment or election, he ceases to be a director, officer or employee of that company;
 
 (d) upon the receipt by the body corporate from him of notice in writing of his resignation as a member of the committee;
 
@@ -722,7 +722,7 @@ and may in like manner revoke wholly or in part the delegation.
 
 (b) the receipt by the body corporate from him of a notice in writing of his resignation from that office; or
 
- another person is appointed by the committee or by the body corporate in a general meeting to hold that office,
+(c) another person is appointed by the committee or by the body corporate in a general meeting to hold that office,
 
 whichever first happens.
 
@@ -740,7 +740,7 @@ whichever first happens.
 
 (b) a managing agent who is empowered to exercise or perform that power, authority, duty or function; or
 
- a person with whom the treasurer of the body corporate is required by an order of the committee to exercise or perform jointly that power, duty or function, and who is enabling the treasurer to comply with the order.
+(c) a person with whom the treasurer of the body corporate is required by an order of the committee to exercise or perform jointly that power, duty or function, and who is enabling the treasurer to comply with the order.
 
 (7) The treasurer of a body corporate may delegate the exercise or performance of any of his powers (other than this power of delegation), duties or functions as treasurer, the delegation of which is specifically approved by the committee of the body corporate, to another member of the committee so approved, subject to such limitations as to time or otherwise as are so approved and, while a delegate is acting in accordance with the terms of a delegation under this subsection, he shall be deemed to be the treasurer of the body corporate.
 
@@ -784,7 +784,7 @@ whichever first happens.
 
 (b) the register kept by a body corporate; or
 
- any other property of a body corporate,
+(c) any other property of a body corporate,
 
 shall, within 7 days after service on him of notice of a resolution of the committee requiring him to do so, deliver those records, books of account and keys and that register and other property to a member of the committee specified in the notice.
 
@@ -802,7 +802,7 @@ shall, within 7 days after service on him of notice of a resolution of the commi
 
 (b) any one or more of those powers, duties or functions specified in the order; or
 
- all of those powers, duties and functions except those specified in the order.
+(c) all of those powers, duties and functions except those specified in the order.
 
 (4) Where the Minister has made an order under subsection (1), no person other than the managing agent may, while he holds office as such, exercise or perform any power, authority, duty or function which the managing agent is authorised to exercise or perform by that order or an order under subsection (3).
 
@@ -842,7 +842,7 @@ so that, in the case of destruction, every part of the rebuilt building or the r
 
 (b) in respect of damage to property, death or bodily injury occurring upon the common property; and
 
- against the possibility of the owners of flats in a building becoming jointly liable by reason of a claim arising in respect of any other occurrence against which the body corporate decides to insure.
+(c) against the possibility of the owners of flats in a building becoming jointly liable by reason of a claim arising in respect of any other occurrence against which the body corporate decides to insure.
 
 (2) The body corporate may insure any property which it is not required to insure pursuant to this Act and in which it has an insurable interest.
 
@@ -892,7 +892,7 @@ as that referred to in the contract of insurance first-mentioned in this subsect
 
 (b) by posting it, by prepaid registered mail, to the person to be served, where an address for the service of notices on that person is recorded in the register maintained under section 16, at the address so recorded; or
 
- in the case of an owner, in any manner authorised by the by-laws for the service of notices on owners.
+(c) in the case of an owner, in any manner authorised by the by-laws for the service of notices on owners.
 
 (4) Section 55(3) of the Land Titles Act [Cap. 157] shall apply to the service of documents on a body corporate and the owner of a flat.
 
@@ -922,7 +922,7 @@ as that referred to in the contract of insurance first-mentioned in this subsect
 
 (b) the fees to be paid to members of the committee of a body corporate;
 
- the investments in which moneys in the sinking fund of a body corporate may be invested;
+(c) the investments in which moneys in the sinking fund of a body corporate may be invested;
 
 (d) protecting the moneys in the sinking fund of a body corporate against possible misappropriation;
 
@@ -1532,7 +1532,9 @@ Together with the buildings erected thereon
 
 [S 52/86]
 
-[S 200/1990 wef 18/05/1990]
+[S 200/90 wef 18/05/1990]
+
+[S 52/86]
 
 SECOND SCHEDULE
 
@@ -1891,3 +1893,9 @@ This Legislative History is provided for the convenience of users of the HUDC Ho
 |||(Bill No. 33/1994 published on 1 November 1994)|
 ||Date of Second and Third Readings|5 December 1994|
 ||Date of commencement|13 January 1995|
+|7.|**Act 47 of 2004—Building Maintenance and Strata Management Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|6 February 2004|
+|||(Bill No. 6/2004 published on 7 February 2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|1 April 2005|
