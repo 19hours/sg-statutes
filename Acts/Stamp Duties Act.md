@@ -196,7 +196,7 @@
 
 [**SECOND SCHEDULE Instruments Which May be Stamped With Impressed or Adhesive Stamps**](#SECOND-SCHEDULE-Instruments-Which-May-be-Stamped-With-Impressed-or-Adhesive-Stamps)
 
-[**THIRD SCHEDULE Stamp Duty by Whom Payable**](#THIRD-SCHEDULE-Stamp-Duty-by-Whom-Payable)
+[**THIRD SCHEDULE Stamp Duty Payable by Whom**](#THIRD-SCHEDULE-Stamp-Duty-Payable-by-Whom)
 
 [**Legislative History**](#Legislative-History)
 
@@ -544,7 +544,7 @@ Illustrations
 
 (4) No conveyance on sale chargeable with ad valorem duty in respect of any periodical payments, and containing also provision for securing the payments, shall be charged with any duty in respect of such provision, and no separate instrument made in that case for securing the payments is to be charged with any higher duty than $10.
 
-20\. [Repealed by Act 26/96 wef 23/08/1996 vide S 386/96]
+20\. 
 
 ### Conveyances and transfers in contemplation of sale
 
@@ -910,7 +910,7 @@ LIABILITY FOR PAYMENT OF DUTY
 
 (b) in the case of every other instrument, by the person drawing, making or executing the instrument.
 
-35\. [Repealed by Act 26/96 wef 23/08/1996 vide S 386/96]
+35\. 
 
 ### Exemptions
 
@@ -1038,7 +1038,7 @@ TIME OF STAMPING INSTRUMENTS
 
 [38/75; 14/83; 26/96]
 
-44\. [Repealed by Act 26/96 wef 23/08/1996 vide S 386/96]
+44\. 
 
 ### Transfers of shares
 
@@ -1120,7 +1120,7 @@ INSTRUMENTS NOT DULY STAMPED
 
 [26/96]
 
-54\. [Repealed by Act 26/96 wef 23/08/1996 vide S 386/96]
+54\. 
 
 ### Recovery of duty and penalty
 
@@ -1412,133 +1412,33 @@ MISCELLANEOUS
 
 FIRST SCHEDULE
 
-Sections 4(1), 15(1) and 31(6)
-
 Instruments Chargeable With Stamp Duty
+
+Sections 4(1), 15(1) and 31(6)
 
 Article No.
 
-Description of Instrument
+Description of Instrument relating to immovable property and stock or shares
 
 Proper Stamp Duty
 
 1
 
-AGREEMENT for a lease
+BOND, COVENANT or INSTRUMENT for securing the payment for the hire of furniture, chattels, fittings or equipment in connection with the lease of immovable property and for the provision of services or facilities or to other matters or things in connection with such lease
 
-See LEASE
+The same duty as a LEASE
 
 2
 
-ANNUITY:
-
-(a) Conveyance in consideration of, and instrument creating by way of sale or gift
-
-See CONVEYANCE ON SALE
-
-(b) Instrument creating by way of security
-
-The same duty as a mortgage for the amount deemed to be secured thereby
-
-3
-
-ASSIGNMENT:
-
-(a) By way of security or of any security
-
-See MORTGAGE
-
-(b) Upon a sale or otherwise
-
-See CONVEYANCE
-
-4
-
-ASSURANCE
-
-See POLICY OF INSURANCE
-
-5
-
-BILL OF SALE:
-
-(a) Absolute
-
-See CONVEYANCE
-
-(b) By way of security
-
-See MORTGAGE
-
-6
-
-BOND for securing the payment or repayment of money or the transfer or retransfer of stock
-
-See MORTGAGE
-
-7
-
-BOND, COVENANT or INSTRUMENT of any kind other than a marketable security —
-
-(a) being the only or principal or primary security for any annuity (except upon the original creation thereof by way of sale or security, and except a superannuation annuity), or for any sum or sums of money at stated periods, not being interest for any principal sum secured by a duly stamped instrument, nor rent reserved by a lease or tack —
-
-(i) for a definite and certain period, so that the total amount to be ultimately payable can be ascertained
-
-The same duty as a mortgage for such total amount
-
-(ii) for a term of life or any other indefinite period — for every $100 or any part thereof of the annuity or sum periodically payable
-
-$2 subject to maximum of $500
-
-(b) being a collateral or auxiliary or additional or substituted security for any of the abovementioned purposes where the principal or primary instrument is duly stamped under paragraph (a)
-
-$10
-
-(c) transfer, assignment or disposition of any bond, covenant or instrument of any kind relating to a lease of any movable property by a lessor
-
-The same duty as in Article 24(d)
-
-(d) in any other case
-
-$10
-
-Exemption:
-
-(i) Any instrument executed by any person whether as principal or as surety to pay, or to guarantee the payment of, sums payable for or in relation to the execution of any building works or any works of civil engineering or the construction or installation of any machinery or plant.
-
-(ii) Any instrument for or relating to the supply of goods on hire, whereby the goods in consideration of periodical payments will or may become the property of the person to whom they are supplied.
-
-(iii) Any instrument containing an unconditional promise made by one person to another signed by the maker, engaging to pay, on demand or at a fixed or determinable future time, a sum certain in money, to, or to the order of, a specified person or to bearer.
-
-(iv) Any indemnity contained in a promissory note given under the Moneylenders Act (Chapter 188).
-
-(v) Any instrument by which a shipowner lets an entire ship, or a part of it, to a charterer for the conveyance of goods, binding himself to transport them to a particular place for a sum of money which the charterer undertakes to pay as freight for their carriage.
-
-8
-
-BOND, MORTGAGE or other INSTRUMENT executed by way of INDEMNITY or of SECURITY for the due execution of an office, or for the discharge of liabilities, arising out of the execution thereof, or to account for money received by virtue thereof
-
-$10
-
-Exemption:
-
-(a) Bond executed by an officer of the Government or his surety to secure the due execution of an office or the due accounting for money or other payments secured by virtue thereof.
-
-(b) Bond for securing the refund to the Government of amounts overpaid to persons appointed by Government officers to receive their salary or allowances when absent on leave.
-
-(c) Bond required to be executed under the Criminal Procedure Code (Chapter 68).
-
-9
-
 CONTRACT NOTE:
 
-For every $1,000 or any part thereof of the value of the stocks or shares
+For every $1,000 or any part thereof of the value of the stock or shares
 
 $0.50
 
 Exemption:
 
-Any contract note for the sale or purchase of any non-Singapore dollar stock or shares issued by —
+Any contract note for the sale or purchase of any foreign stock or shares issued by —
 
 (a) any approved Asian Currency Unit or approved securities company to a person outside Singapore;
 
@@ -1554,7 +1454,11 @@ For the purposes of this Article —
 
 “approved fund manager” means a fund manager approved under section 43A of the Income Tax Act;
 
-“non-Singapore dollar stock or shares” means stock or shares denominated in any foreign currency of companies not incorporated and not resident in Singapore, but excludes such stock or shares of companies incorporated in Malaysia which are listed on the Stock Exchange of Singapore or on the Kuala Lumpur Stock Exchange;
+“foreign stock or shares” means —
+
+(a) stock or shares of companies not incorporated and not resident in Singapore; and
+
+(b) stock or shares listed on the Stock Exchange of Singapore and denominated in any foreign currency of companies incorporated in Singapore and approved by the Minister whose operations are substantially outside Singapore;
 
 “person outside Singapore” —
 
@@ -1566,11 +1470,11 @@ For the purposes of this Article —
 
 (ii) a branch outside Singapore of a company incorporated in Singapore.
 
-10
+3
 
 CONVEYANCE, ASSIGNMENT or TRANSFER:
 
-(a) on sale of any property (except stock and marketable securities) —
+(a) on sale of any immovable property or any interest thereof
 
 Amount or value of consideration
 
@@ -1586,9 +1490,9 @@ $2
 
 $3
 
-(aa) on sale of any residential property
+(b) on sale of any residential property or any interest thereof
 
-In addition to duty under paragraph (a) or (b), where the property or any share in a private company referred to in section 22A(4), is disposed of in the following periods from the date of its acquisition:
+In addition to duty under paragraph (a) or (c), where the property or any share in a private company referred to in section 22A(4), is disposed of in the following periods from the date of its acquisition:
 
 Amount of consideration or value of property, whichever is applicable
 
@@ -1622,31 +1526,23 @@ $2
 
 $1
 
-Article No.
-
-Description of Instrument
-
-Proper Stamp Duty
-
-(b) on sale of any stock or shares to be computed on the amount or value of consideration —
-
-for every $100 or any part thereof
+(c) on sale of any stock or shares or any interest thereof, computed on the amount or value of consideration ‐‐ for every $100 or any part thereof
 
 $0.20
 
-(c) of any property by way of security
+(d) of any property or any interest thereof by way of security
 
 See MORTGAGE
 
-(d) of any property by way of settlement
+(e) of any property or any interest thereof by way of settlement
 
 See SETTLEMENT
 
-(e) of any property for the purpose of effectuating the appointment of a new trustee or the retirement of a trustee although no new trustee is appointed
+(f) of any property or any interest thereof for the purpose of effectuating the appointment of a new trustee or the retirement of a trustee although no new trustee is appointed
 
 $10 or the same duty as paragraph (a) or (b), as the case may be, whichever is the lesser
 
-(f) of any property as above where the transaction is between trustees and where —
+(g) of any property as above where the transaction is between trustees and where ‐‐
 
 (i) the beneficial interest in the property passes
 
@@ -1656,111 +1552,51 @@ The same duty as in paragraph (a) or (b), as the case may be
 
 $10 or the same duty as in paragraph (a) or (b), as the case may be, whichever is the lesser
 
-(g) of any kind not otherwise specially charged with duty
+(h) of any property or any interest thereof not otherwise specially charged with duty
 
 $10
 
-Exemption:
+For the purposes of this Article, "property" means any immovable property and stock or shares
 
-Transfers by endorsement of —
+4
 
-(a) a bill of exchange, cheque or promissory note;
+DECLARATION of any trust or concerning any immovable property, stock or shares by any writing, not being a will, or an instrument chargeable with duty as a conveyance on sale, gift or settlement
 
-(b) a bill of lading, warrant for goods or other mercantile document of title to goods; or
+$10
 
-(c) a policy of insurance other than a policy of life assurance.
+5
 
-11
-
-COUNTERPART or DUPLICATE of any instrument chargeable with duty, and in respect of which the proper duty has been paid
+DUPLICATE or COUNTERPART of any instrument chargeable with duty, and in respect of which the proper duty has been paid
 
 $2 or the same duty payable on the original, whichever is the lesser
 
-12
-
-COVENANT:
-
-Any separate deed of covenant (not being a deed chargeable with ad valorem duty as a conveyance or mortgage) made on the sale or mortgage of any property, or of any right or interest therein, and relating solely to the conveyance or enjoyment of or the title to the property sold or mortgaged, or to the production of the documents of title relating thereto, or to all or any of the matters aforesaid
-
-$10
-
-13
-
-DEBENTURE
-
-See MORTGAGE
-
-14
-
-DECLARATION of any trust or concerning any property by any writing, not being a will, or an instrument chargeable with duty as a settlement
-
-$10
-
-15
-
-DISSOLUTION OF PARTNERSHIP
-
-$10
-
-16
-
-DUPLICATE
-
-See COUNTERPART
-
-17
-
-EQUITABLE MORTGAGE
-
-See MORTGAGE
-
-18
+6
 
 EXCHANGE:
 
-Any instrument whereby an exchange of any property is effected
+Any instrument whereby an exchange of immovable property is effected
 
-The same duty as a conveyance on sale for a consideration equal to the value of the property of greater value
+The same duty as for a conveyance on sale for a consideration equal to the value of the immovable property of greater value
 
-19
-
-FURTHER CHARGE
-
-See MORTGAGE
-
-20
+7
 
 GIFT
 
-See section 16(1)
+The same duty as for a conveyance on sale
 
-21
+8
 
-INDEMNITY BOND
-
-See BOND
-
-22
-
-INSURANCE
-
-See POLICY OF INSURANCE
-
-23
-
-LEASE or AGREEMENT
-
-for a lease of any land, house or other immovable property granted or made —
+LEASE or AGREEMENT for a lease of any immovable property including any furniture, chattels, fittings or equipment and for securing the payment for the provision of services or facilities or to other matters or things in connection with such lease —
 
 When the Lease is for a period
 
-Not Exceeding one year
+Not exceeding one year
 
 Exceeding one year but not exceeding 3 years
 
 Exceeding 3 years or for any indefinite term
 
-(a) without fine or premium when the average rent calculated for a whole year —
+(a) without premium when the average rent and other consideration calculated for a whole year —
 
 (i) does not exceed $500
 
@@ -1778,49 +1614,35 @@ $2
 
 $4
 
-Article No.
-
-Description of Instrument
-
-Proper Stamp Duty
-
-(b) in consideration of a fine or premium and without rent
+(b) in consideration of a premium only
 
 The same duty as for a conveyance for a sum equal to the amount of such consideration
 
-(c) in consideration of a fine or premium and reserving a rent
+(c) in consideration of a premium and reserving a rent or other consideration
 
-The same duty as for a conveyance on sale in consideration of the fine or premium and a lease for the rent
+The same duty as for a conveyance on sale in consideration of the premium and a lease for the rent and other consideration
 
 (d) lease executed in pursuance of a duly stamped agreement for the same on production of the agreement to the Commissioner
 
 $2
 
-(e) lease of any other kind whatsoever not hereinbefore described
+(e) lease of any other kind whatsoever not otherwise specially charged with duty
 
 $10
 
-24
+9
 
-MORTGAGE, AGREEMENT FOR A MORTGAGE, BOND, COVENANT AND DEBENTURE (not being a marketable security) —
+MORTGAGE, AGREEMENT FOR A MORTGAGE and DEBENTURE of immovable property and stock or shares
 
-(a) being the only or principal or primary security (other than an equitable mortgage) for the payment or repayment of money —
-
-for every $1,000 or any part thereof
+(a) being a security (other than an equitable mortgage) for the payment or repayment of money – for every $1000 or any part thereof
 
 $4 subject to a maximum of $500
 
-(b) being a collateral or auxiliary or additional or substituted security (other than an equitable mortgage) or by way of further assurance for the abovementioned purpose where the principal or primary security is duly stamped under paragraph (a) or is exempted from duty
-
-$10
-
-(c) being an equitable mortgage —
-
-for every $1,000 or any part thereof
+(b) being an equitable mortgage for the payment or repayment of money — for every $1000 or any part thereof
 
 $2 subject to a maximum of $500
 
-(d) transfer, assignment or disposition of any mortgage, bond, covenant or debenture (not being a marketable security) or of any money or stock secured by any such instrument or of any judgment —
+(c) transfer assignment or disposition of any mortgage or debenture —
 
 (i) for every $1,000 of the amount transferred, assigned or disponed, inclusive of interest which is in arrear; and
 
@@ -1828,39 +1650,23 @@ $2 subject to a maximum of $500
 
 (ii) where any further money is added to the money already secured
 
-The same duty as a principal security for such further money
+The same duty as in paragraph (a) for such further money
 
-(e) mortgage executed in pursuance of a duly stamped agreement for the same on production of the agreement to the Commissioner
+(d) mortgage executed in pursuance of a duly stamped agreement for the same on production of the agreement to the Commissioner
 
 $2
 
-(f) in any other case
+(f) any security executed in conjunction with the security which is duly stamped under paragraph (a)
 
 $10
 
 Exemption:
 
-(i) Any mortgage of stock or marketable security under hand only.
+Any mortgage of stock or shares under hand only.
 
-(ii) Any bond or covenant by any person whether as principal or as surety to pay, or to guarantee the payment of, money payable for or in relation to the execution of any building works or any works of civil engineering or the construction or installation of any machinery or plant.
+10
 
-(iii) Any bond or covenant relating to the supply of goods on hire, whereby the goods in consideration of periodical payments will or may become the property of the person to whom they are supplied.
-
-(iv) Any bond or covenant containing an unconditional promise, made by one person to another signed by the maker, engaging to pay, on demand or at a fixed or determinable future, a sum certain in money, to, or to the order of, a specified person or to bearer.
-
-(v) Any indemnity contained in a promissory note given under the Moneylenders Act (Chapter 188).
-
-(vi) Any instrument by which a shipowner lets an entire ship, or a part of it, to a charterer for the conveyance of goods, binding himself to transport them to a particular place for a sum of money which the charterer undertakes to pay as freight for their carriage.
-
-25
-
-PARTNERSHIP — Instrument relating to formation of
-
-$10
-
-26
-
-PARTITION — for each instrument
+PARTITION of immovable property — for each instrument
 
 $10
 
@@ -1868,41 +1674,9 @@ Exemption:
 
 Where duty has been paid under any order of court or award directing a partition, no further duty shall be payable in respect of any instrument carrying such partition into effect.
 
-27
+11
 
-POLICY OF INSURANCE — for all policies and renewals irrespective of the sum insured or the term
-
-$1
-
-28
-
-RECONVEYANCE OF MORTGAGED PROPERTY, REASSIGNMENT, RELEASE, DISCHARGE, SURRENDER or RENUNCIATION of any security or of the benefit thereof or of the money thereby secured
-
-$10
-
-29
-
-RELEASE, that is to say, any instrument whereby a person releases any property —
-
-(a) if on a sale
-
-The same duty as a conveyance on sale
-
-(b) if by way of security
-
-The same duty as a mortgage
-
-(c) if by way of gift
-
-The same duty as a conveyance by way of gift
-
-(d) in any other case not otherwise specially charged with duty
-
-$10
-
-30
-
-SETTLEMENT:
+SETTLEMENT of immovable property and stock or shares:
 
 (a) Instrument of Settlement or Agreement for a Settlement
 
@@ -1912,9 +1686,9 @@ The same duty as for conveyance, assignment or transfer
 
 $2 or the same duty payable on the agreement, whichever is the lesser
 
-31
+12
 
-SURRENDER OF LEASE
+SURRENDER OF LEASE of immovable property:
 
 (a) for consideration
 
@@ -1924,19 +1698,13 @@ The same duty as for a conveyance on sale for a consideration equal to the amoun
 
 $10
 
-32
-
-TRANSFER
-
-See CONVEYANCE
-
-[S 164/96]
+[S 284/98 wef 28/02/1998]
 
 SECOND SCHEDULE
 
-Sections 7(1), (6) and 8(1)
-
 Instruments Which May be Stamped With Impressed or Adhesive Stamps
+
+Sections 7(1) and (6) and 8(1)
 
 Article No.
 
@@ -1946,41 +1714,17 @@ Person required to cancel the adhesive stamp
 
 1
 
-BOND, MORTGAGE or other INSTRUMENT executed by way of INDEMNITY or of SECURITY for the due execution of an office, or for the discharge of liabilities, arising out of the execution thereof, or to account for money received by virtue thereof — Article No. 8
-
-The obligor or other person giving the security
-
-2
-
-CONTRACT NOTE — Article No. 9
+CONTRACT NOTE — Article No. 2
 
 The person by whom the note is executed
 
-3
-
-GUARANTEE for the issue of an Exit Permit under sections 29(5) and 31 of the Enlistment Act (Chapter 93) — Article Nos. 7 (d) and 24 (f)
-
-The person by whom the guarantee is executed
-
-4
-
-POLICY OF INSURANCE when issued outside Singapore — Article No. 27
-
-The first holder in Singapore
-
-5
-
-SECURITY BOND furnished to the Controller of Immigration in connection with the grant of Social Visit Pass, Work Permit Pass and Professional Visit Pass for Artiste — Article Nos. 7 (d) and 24 (f)
-
-The person by whom the bond is executed
-
-[S 164/96]
+[S 284/98 wef 28/02/1998]
 
 THIRD SCHEDULE
 
-Section 34 (a)
+Stamp Duty Payable by Whom
 
-Stamp Duty by Whom Payable
+Section 34 (a)
 
 Article No.
 
@@ -1990,37 +1734,41 @@ Person liable to pay stamp duty
 
 1
 
-BOND — Article Nos. 6, 7 and 8
+BOND, COVENANT or INSTRUMENT — Article No. 1
 
-The obligor or other person giving the security
+(a) Bond, Covenant or Instrument
+
+The lessee
+
+(b) Duplicate or Counterpart
+
+The lessor
 
 2
 
-CONVEYANCE — Article No. 10
+CONVEYANCE — Article No. 3
 
-(a) Paragraphs (a), (b) to (g)
+(a) Paragraphs (a), (c) to (h)
 
-The grantee or transferee.
+The grantee or transferee
 
-(b) Paragraph (aa)
+(b) Paragraph (b)
 
 (i) instrument effecting exchange
 
-The parties in equal shares unless only one party is disposing of his property under the instrument before the expiration of 3 years from the date on which it was acquired, whereupon duty shall be paid only by that party.
+The parties in equal shares unless only one party is disposing of his property under the instrument before the expiration of 3 years from the date on which it was acquired, whereupon duty shall be paid only by that party
 
 (ii) in any other case
 
-The grantor, transferor or lessor.
+The grantor, transferor or lessor
 
 3
 
-EXCHANGE — Article No. 18
-
-The parties in equal shares.
+EXCHANGE — Article No. 6 The parties in equal shares
 
 4
 
-LEASE or AGREEMENT for a lease — Article No. 23
+LEASE or AGREEMENT for a lease — Article No. 8
 
 (a) Lease or Agreement
 
@@ -2028,27 +1776,21 @@ The lessee
 
 (b) Counterpart or Duplicate
 
-The lessor unless the lessor is liable to pay stamp duty under Article 2.
+The lessor
 
 5
 
-MORTGAGE — Article No. 24.
+MORTGAGE — Article No. 9
 
 The mortgagor or obligor
 
 6
 
-PARTITION — Article No. 26.
+PARTITION — Article No. 10
 
-The parties thereto, in proportion to their respective shares in the whole property partitioned, unless the partition is made in execution of an order made by a civil court or arbitrator, when it shall be paid in such proportion as the court or arbitrator directs.
+The parties thereto, in proportion to their respective shares in the whole property partitioned, unless the partition is made in execution of an order made by a civil court or arbitrator, when it shall be paid in such proportion as the court or arbitrator directs
 
-7
-
-RECONVEYANCE — Article No. 28.
-
-The transferee or assignee or the person redeeming the security.
-
-[S 164/96]
+[S 284/98 wef 28/02/1998]
 
 ## LEGISLATIVE HISTORY
 
@@ -2263,3 +2005,5 @@ This Legislative History is provided for the convenience of users of the Stamp D
 ||Date of commencement|31 January 1997|
 |56.|**1997 Revised Edition—Stamp Duties Act**|
 ||Date of operation|30 May 1997|
+|57.|**G. N. No. S 284/1998—Stamp Duties Act (Substitution of Schedules) Notification 1998**|
+||Date of commencement|28 February 1998|
