@@ -702,7 +702,11 @@ Essential Services
 
 21\. Services provided by the Air Traffic Controllers and the Operations and Licensing Assistants of the Civil Aviation Authority of Singapore.
 
-22\. Services relating to transactions in securities and future contracts provided by dealers licensed under the Securities Industry Act (Cap. 289) and by futures brokers licensed under the Futures Trading Act (Cap. 116), respectively.
+22\. Services relating to dealings in securities, trading in futures contracts and leveraged foreign exchange trading provided by the holder of a capital markets services licence under the Securities and Futures Act 2001.
+
+22.
+
+[42/2001 wef 01/10/2002]
 
 23\. Sewerage and waste water treatment services.
 
@@ -732,7 +736,7 @@ Essential Services
 
 29. All undertakings of whatever nature of —
 
-(a) the Board of Commissioners of Currency, Singapore ;
+(a) the Monetary Authority of Singapore under the Currency Act (Cap. 69);
 
 (b) the CISCO Recall Total Information Management Pte. Ltd.
 
@@ -959,6 +963,20 @@ This Legislative History is provided for the convenience of users of the Crimina
 ||Date of operation|1 July 2000|
 |41.|**G. N. No. S 343/2001—Criminal Law (Temporary Provisions) Act (Amendment of First Schedule) Notification 2001**|
 ||Date of commencement|13 July 2001|
+|42.|**Act 42 of 2001—Securities and Futures Act 2001**|
+||(Consequential amendments made by)||
+||Date of First Reading|25 September 2001|
+|||(Bill No. 33/2001 published on 26 September 2001)|
+||Date of Second and Third Readings|5 October 2001|
+||Date of commencement|1 October 2002|
+|||(item (6) of the Fourth Schedule)|
+|43.|**Act 25 of 2002—Currency (Amendment) Act 2002**|
+||(Consequential amendments made by)||
+||Date of First Reading|8 July 2002|
+|||(Bill No. 23/2002 published on 9 July 2002)|
+||Date of Second and Third Readings|23 July 2002|
+||Date of commencement|1 October 2002|
+|||(item (2) in the Schedule)|
 ## COMPARATIVE TABLE
 
 Criminal Law (Temporary Provisions) Act
