@@ -202,7 +202,7 @@ PRELIMINARY
 
 (b) any special investigator of the Corrupt Practices Investigation Bureau appointed under section 3(2) of the Prevention of Corruption Act (Cap. 241);
 
-(c) any Commercial Affairs Officer appointed under section 58A of the Police Force Act (Cap. 235);
+(c) any Commercial Affairs Officer appointed under section 64 of the Police Force Act 2004;
 
 [24/2004 wef 12/10/2004]
 
@@ -319,8 +319,6 @@ but excludes a money-changer licensed to conduct money-changing business and a r
 “Monetary Authority of Singapore” means the Monetary Authority of Singapore established under section 3 of the Monetary Authority of Singapore Act (Cap. 186);
 
 “officer of customs” has the same meaning as in the Customs Act (Cap. 70);
-
-[4/2003 wef 01/04/2003]
 
 “officer of the Bureau” means the Director or any officer of the Central Narcotics Bureau appointed under section 3 of the Misuse of Drugs Act (Cap. 185);
 
@@ -3147,6 +3145,12 @@ This Legislative History is provided for the convenience of users of the Corrupt
 |||(Bill No. 6/2003 published on 11 March 2003)|
 ||Date of Second and Third Readings|21 March 2003|
 ||Date of commencement|1 April 2003|
+|12.|**Act 24 of 2004—Police Force Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|19 May 2004|
+|||(Bill No. 22/2004 published on 20 May 2004)|
+||Date of Second and Third Readings|15 June 2004|
+||Date of commencement|12 October 2004|
 ## COMPARATIVE TABLE
 
 Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act
