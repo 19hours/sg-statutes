@@ -94,8 +94,6 @@
 
 - [13M Exemption of income of charities](#Exemption-of-income-of-charities)
 
-- [13N Exemption of tax on income derived by non-ordinarily resident individual](#Exemption-of-tax-on-income-derived-by-non-ordinarily-resident-individual)
-
 [**Part V DEDUCTIONS AGAINST INCOME**](#Part-V)
 
 - [14 Deductions allowed](#Deductions-allowed)
@@ -198,7 +196,7 @@
 
 - [37A Restriction on deduction of trading losses against dividends](#Restriction-on-deduction-of-trading-losses-against-dividends)
 
-- [37B Adjustment of capital allowances, losses or donations between income subject to tax at different rates](#Adjustment-of-capital-allowances-losses-or-donations-between-income-subject-to-tax-at-different-rates)
+- [37B Adjustment of capital allowances and losses between income subject to tax at concessionary and normal rates of tax Adjustment of capital allowances, losses or donations between income subject to tax at different rates](#Adjustment-of-capital-allowances-and-losses-between-income-subject-to-tax-at-concessionary-and-normal-rates-of-tax-Adjustment-of-capital-allowances-losses-or-donations-between-income-subject-to-tax-at-different-rates)
 
 - [37C Group relief for Singapore companies](#Group-relief-for-Singapore-companies)
 
@@ -234,7 +232,7 @@
 
 - [43C Concessionary rate of tax for insurance and re-insurance of risks outside Singapore](#Concessionary-rate-of-tax-for-insurance-and-re-insurance-of-risks-outside-Singapore)
 
-- [43D Concessionary rate of tax for offshore gold and futures transactions](#Concessionary-rate-of-tax-for-offshore-gold-and-futures-transactions)
+- [43D Concessionary rate of tax for offshore transactions on any market maintained by the Singapore Exchange or its subsidiaries](#Concessionary-rate-of-tax-for-offshore-transactions-on-any-market-maintained-by-the-Singapore-Exchange-or-its-subsidiaries)
 
 - [43E Concessionary rate of tax for headquarters company](#Concessionary-rate-of-tax-for-headquarters-company)
 
@@ -478,10 +476,6 @@ PRELIMINARY
 
 2\.—(1) In this Act, unless the subject or context otherwise requires —
 
-“account with the electronic service”, in relation to any person, means a computer account within the electronic service which is assigned by the Comptroller to that person for the storage and retrieval of electronic records relating to that person;
-
-[49/2004 wef 30/11/2004]
-
 “accountant” means a public accountant within the meaning of the Accountants Act (Cap. 2);
 
 “advocate and solicitor” means an advocate and solicitor within the meaning of the Legal Profession Act (Cap. 161);
@@ -489,10 +483,6 @@ PRELIMINARY
 “annual value” has the same meaning as in section 2 of the Property Tax Act (Cap. 254) and shall be ascertained in the same manner as annual value is ascertained under that Act;
 
 “approved pension or provident fund or society” means a pension or provident fund or society approved by the Comptroller under section 5;
-
-“authentication code”, in relation to any person, means an identification or identifying code, a password or any other authentication method or procedure which is assigned to that person for the purposes of identifying and authenticating the access to and use of the electronic service by that person;
-
-[49/2004 wef 30/11/2004]
 
 “basis period” for any year of assessment means the period on the profits of which tax for that year falls to be assessed;
 
@@ -515,14 +505,6 @@ PRELIMINARY
 (a) gains or profits from any trade, business, profession, vocation or employment on which tax is payable under section 10(1), where the Comptroller is satisfied that such gains or profits are immediately derived from the carrying on or exercise by such individual or Hindu joint family, as the case may be, of such trade, business, profession, vocation or employment; and
 
 (b) any pension on which tax is payable under section 10(1)(e) given to the individual in respect of the past services of such individual or any deceased individual;
-
-“electronic record” has the same meaning as in the Electronic Transactions Act (Cap. 88);
-
-[49/2004 wef 30/11/2004]
-
-“electronic service” means the electronic service provided by the Comptroller under section 8A(1);
-
-[49/2004 wef 30/11/2004]
 
 “employee” —
 
@@ -567,10 +549,6 @@ and “employer” and other cognate expressions shall be construed accordingly;
 (i) an organisation not operated or conducted primarily for profit which is engaged in or connected with the promotion of culture or the arts or with the promotion of sports;
 
 “life annuity” means an annuity payable under a policy issued to an SRS member for a term ending with, or at a time ascertainable only by reference to, the end of his life;
-
-“limited liability partnership” means any limited liability partnership incorporated or registered under any law in force in Singapore or elsewhere;
-
-[49/2004 wef 30/11/2004]
 
 “local forces” means the Singapore Armed Forces and any volunteer or reserve forces attached thereto;
 
@@ -641,6 +619,8 @@ and without prejudice to the generality of the foregoing, a person shall be deem
 (a) in relation to an individual, means a person who, in the year preceding the year of assessment, resides in Singapore except for such temporary absences therefrom as may be reasonable and not inconsistent with a claim by such person to be resident in Singapore, and includes a person who is physically present or who exercises an employment (other than as a director of a company) in Singapore for 183 days or more during the year preceding the year of assessment; and
 
 (b) in relation to a company or body of persons, means a company or body of persons the control and management of whose business is exercised in Singapore;
+
+“return” includes an electronic return under section 71A;
 
 “SRS account” means an account opened with an SRS operator by an SRS member;
 
@@ -1838,7 +1818,7 @@ EXEMPTION FROM INCOME TAX
 
 [34/2005 wef 01/01/2005]
 
-(b) 
+(b) the official emoluments of consular officers (as defined in the Consular Conventions Act (Cap. 52)) of foreign countries and of Commonwealth officers (as defined in the Diplomatic Privileges (Commonwealth Countries and Republic of Ireland) Act (Cap. 83)) and of persons employed on the staff of any such consular or Commonwealth officer who are subjects or citizens of the country which they represent, but only to the extent to which reciprocal treatment is accorded by the country which they represent to Singapore consular officers or to corresponding members of the staff of such consular officer;
 
 (c) the official emoluments payable from Commonwealth funds to members of Commonwealth forces, and to persons in the service of a Commonwealth government, in Singapore, in respect of their offices under such Commonwealth government, if such emoluments are subject to income tax in such Commonwealth country;
 
@@ -2007,10 +1987,6 @@ except where such income is derived through a partnership in Singapore or is der
 (b) any other person where the funds used by such person to acquire those securities are obtained, directly or indirectly, from any related party of the issuer of those securities.
 
 [34/2005 wef 01/01/2005]
-
-(2C)
-
-(2D)
 
 (3) Nothing in subsection (1) shall be construed to exempt in the hands of the recipients any dividends, interest, bonuses, salaries or wages paid wholly or in part out of income so exempted.
 
@@ -2296,13 +2272,13 @@ ought not to have been so exempt, the Comptroller may at any time within 6 years
 
 ### Exemption of certain dividends
 
-13B\.—(1) Where a company derives income which is subject to tax or exempt from tax in accordance withregulations prescribed under section 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L , 43M (repealed), 43N, 43O, 43P or 43Q , the following provisions of this section shall have effect.
+13B\.—(1) Where a company derives income which is subject to tax or exempt from tax in accordance with regulations prescribed under section 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K , 43L , 43M, 43N, 43O or 43P, the following provisions of this section shall have effect.
 
-[1/82; 15/83; 31/86; 1/90; 20/91; 2/92; 28/92; 26/93; 1/98; 31/98; 37/2002; 21/2003]
+[1/82; 15/83; 31/86; 1/90; 20/91; 2/92; 28/92; 26/93; 1/98; 31/98]
 
-(2) As soon as any amount of income of the company has been subject to tax at the rate of 10% (or other concessionary rate) or exempt from tax in accordance withregulations prescribed under section 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L, 43M (repealed), 43N, 43O, 43P or 43Q, the net amount of the income after deduction of the tax or the amount of the income exempted shall be credited to a special account (referred to in this section as the account) to be kept by the company for the purposes of this section.
+(2) As soon as any amount of income of the company has been subject to tax at the rate of 10% (or other concessionary rate) or exempt from tax in accordance with regulations prescribed under section 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L, 43M, 43N, 43O or 43P, the net amount of the income after deduction of the tax or the amount of the income exempted shall be credited to a special account (referred to in this section as the account) to be kept by the company for the purposes of this section.
 
-[15/83; 1/90; 20/91; 2/92; 28/92; 26/93; 1/98; 31/98; 37/2002; 21/2003]
+[15/83; 1/90; 20/91; 2/92; 28/92; 26/93; 1/98; 31/98]
 
 (3) Where the account is in credit at the date on which any dividends are paid by the company out of the net amount of the income credited to that account, an amount equal to those dividends or to that credit, whichever is the less, shall be debited to the account.
 
@@ -2312,7 +2288,7 @@ ought not to have been so exempt, the Comptroller may at any time within 6 years
 
 (4A) Any dividends debited to the account shall be treated as having been distributed to the shareholders of the company or any particular class of the shareholders in accordance with the proportion of their shareholdings in the company.
 
-[37/2002]
+[37/2002 wef 10/12/2002]
 
 (5) Section 44 shall not apply to any dividends or part thereof which are exempt from tax under this section.
 
@@ -2320,17 +2296,17 @@ ought not to have been so exempt, the Comptroller may at any time within 6 years
 
 (6) Where an amount has been received by way of dividends from a company by a shareholder and the amount is exempt from tax under this section, if that shareholder is a company, any dividends paid by that company to its shareholders, to the extent that the Comptroller is satisfied that those dividends are paid out of that amount, shall be exempt from tax in the hands of those shareholders, and section 44 shall not apply to any such dividend or part thereof.
 
-[37/2002]
+[37/2002 wef 01/01/2003]
 
 (6A) Notwithstanding subsections (4) and (6), no dividend paid on any share of a preferential nature shall be exempt from tax under this section in the hands of the shareholder.
 
-[21/2003]
+[21/2003 wef 10/12/2002]
 
 (7) A company shall deliver to the Comptroller a copy of the account made up to any date specified by him whenever called upon to do so by notice in writing.
 
 (8) Notwithstanding subsections (1) to (7), where it appears to the Comptroller that —
 
-(a) any income of a company which has been subject to tax at the rate of 10% (or such other concessionary rate) or exempt from tax as prescribed under section 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L , 43M (repealed), 43N, 43O, 43P or 43Q or 43Q; or
+(a) any income of a company which has been subject to tax at the rate of 10% (or such other concessionary rate) or exempt from tax as prescribed under section 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L, 43M, 43N, 43O or 43P; or
 
 (b) any dividend which has been exempted from tax in the hands of any shareholder,
 
@@ -2340,7 +2316,7 @@ ought not to have been so taxed or exempted, as the case may be, the Comptroller
 
 (ii) direct the company to debit the account with such amount as the circumstances require.
 
-[15/83; 1/90; 20/91; 2/92; 28/92; 26/93; 11/94; 1/98; 31/98; 37/2002; 21/2003]
+[15/83; 1/90; 20/91; 2/92; 28/92; 26/93; 11/94; 1/98; 31/98]
 
 (9) This section shall not, in relation to any income of an insurance company which is subject to the concessionary rate of tax prescribed by regulations made under section 43C, apply to such part of the income ascertained under section 26(7) as is apportioned to the policyholders of the company in accordance with those regulations.
 
@@ -2983,102 +2959,6 @@ but does not include the conversion of debt securities to equity securities wher
 (9) The Minister may make regulations which are necessary or expedient for carrying out the purposes of this section.
 
 [24/2001]
-
-### Exemption of tax on income derived by non-ordinarily resident individual
-
-13N\.—(1) Where an NOR individual is resident in Singapore in any year of assessment within the period he is an NOR individual, he may, within such time in that year of assessment and in such manner as may be specified by the Comptroller, elect for any or all of his following income to be exempt from tax for that year of assessment:
-
-(a) any relevant employment income for the year preceding that year of assessment, if he —
-
-(i) is not physically present in Singapore for at least 90 days in the year preceding that year of assessment by reason of the exercise of any employment in Singapore; and
-
-(ii) has a notional tax payable by him on his gains or profits from the exercise of any employment in Singapore for the year preceding that year of assessment exceeding 10% of such gains or profits;
-
-(b) any income derived from outside Singapore before he resides in Singapore, and received in Singapore during the year preceding that year of assessment;
-
-(c) notwithstanding section 10C(6), any contribution up to the relevant amount made by his employer to any non-obligatory pension or provident fund constituted outside Singapore in the year preceding that year of assessment, if he is neither a citizen of Singapore nor a Singapore permanent resident at the time such contribution is made.
-
-(2) Where the notional tax payable on the apportioned employment income by an NOR individual who has elected for tax exemption under subsection (1) is less than 10% of the gains or profits from the exercise of any employment in Singapore by him —
-
-(a) the apportioned employment income shall be readjusted such that the notional tax payable on the readjusted apportioned employment income shall be 10% of the gains or profits from the exercise of any employment in Singapore by him; and
-
-(b) the relevant employment income shall be reduced by the difference between the readjusted apportioned employment income and the apportioned employment income.
-
-(3) Any individual who satisfies any of the following criteria may apply to the Comptroller in such manner as he may determine to be approved as an NOR individual for the specified period:
-
-(a) if he is not resident in Singapore for any year of assessment before 1st January 2003, but is resident in Singapore for every succeeding year of assessment up to and including year of assessment 2003, for a period of 5 consecutive years from the first year of assessment in which he is resident in Singapore;
-
-(b) if he is resident in Singapore in year of assessment 2004, but is not resident in Singapore in year of assessment 2003, for a period of 5 consecutive years from year of assessment 2004;
-
-(c) if he is resident in Singapore in year of assessment 2005, but is not resident in Singapore in years of assessment 2003 and 2004, for a period of 5 consecutive years from year of assessment 2005; or
-
-(d) if he is resident in Singapore in any year of assessment on or after 1st January 2006, but is not resident in Singapore for all the 3 years of assessment immediately preceding that year of assessment, for a period of 5 consecutive years commencing from that year of assessment in which he is resident in Singapore.
-
-(4) The Comptroller may, subject to such terms and conditions as he may impose, approve the application of an individual to be an NOR individual.
-
-(5) Where an individual has been approved as an NOR individual, no approval shall be given under subsection (4) before the expiry of the period he is an NOR individual.
-
-(6) Any election under subsection (1) and any approval under subsection (4) shall be irrevocable.
-
-(7) In this section —
-
-“apportioned employment income”, in relation to an NOR individual, means total gains or profits from the exercise of any employment in Singapore by the NOR individual after deducting relevant employment income;
-
-“NOR individual” means any individual who is for the time being approved as an NOR individual under subsection (4);
-
-“notional tax payable”, in relation to gains or profits from the exercise of any employment in Singapore by an individual, apportioned employment income or readjusted apportioned employment income, as the case may be, means the amount of tax computed in accordance with the rates specified in Part A of the Second Schedule in respect of gains or profits from the exercise of any employment in Singapore by the individual, apportioned employment income or readjusted apportioned employment income, as the case may be, before any deduction under sections 37 and 39;
-
-“obligatory” means required under any foreign written law;
-
-“relevant amount”, in relation to an NOR individual, means —
-
-(a) nil if
-
-; or
-
-(b) 
-
-if
-
-where A
-
-is the total amount of contributions made by the employer in respect of the NOR individual to any obligatory pension or provident fund constituted outside Singapore and for which the amount is not deemed as income accruing to the NOR individual under section 10C(6); and
-
-B
-
-is the amount of contribution which would have been required to be made by the employer under section 7 of the Central Provident Fund Act (Cap. 36) if the NOR individual were an employee and a citizen of Singapore;
-
-“relevant employment income”, in relation to an NOR individual, means —
-
-where C
-
-is the number of days in the year preceding that year of assessment for which the NOR individual is not physically present in Singapore by reason of the exercise of any employment in Singapore;
-
-D
-
-is the number of days in the year preceding that year of assessment for which the NOR individual exercises any employment in Singapore; and
-
-E
-
-is the gains or profits from the exercise of any employment in Singapore by the NOR individual referred to in section 10(2)(a), (5) and (5A), but excluding —
-
-(a)
-
-such perquisite as may be determined by the Comptroller;
-
-(b)
-
-leave pay;
-
-(c)
-
-director’s fee; and
-
-(d)
-
-gains or profits from employment deemed to be income of the NOR individual under section 51(1).
-
-[Act 37/2002, wef Y/A 2003 & Sub Ys/A:2002-ACT-37]
 
 ## PART V
 
@@ -4248,31 +4128,31 @@ is the number of years of working life of the asset as specified in the Sixth Sc
 
 ### Allowances of 3 years write off for machinery and plant, and 100% write off for computer, prescribed office automation equipment and robot, etc.
 
-19A\.—(1) Notwithstanding section 19, where a person carrying on a trade, profession or business incurs capital expenditure on the provision of machinery or plant for the purposes of that trade, profession or business, he shall, in lieu of the allowances provided by section 19, be entitled for a period of 3 years to an annual allowance of 33⅓% in respect of the capital expenditure incurred.
+19A\.—(1) Notwithstanding section 19, where a person carrying on a trade, profession or business incurs capital expenditure on the provision of machinery or plant for the purposes of that trade, profession or business, he shall, in lieu of the allowances provided by section 19, be entitled for a period of 3 years to an annual allowance of 331/3% in respect of the capital expenditure incurred.
 
 [13/84; 7/85]
 
-(2) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has installed a computer or other prescribed automation equipment for the purposes of a trade, business or profession carried on by him, he shall, in lieu of the allowances provided by subsection (1) or section 19, be entitled, if he so elects, to an allowance of 100% in respect of the capital expenditure incurred on the provision of that computer or automation equipment.
+(1A) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has installed a computer or other prescribed automation equipment for the purposes of a trade, business or profession carried on by him, he shall, in lieu of the allowances provided by subsection (1) or section 19, be entitled, if he so elects, to an allowance of 100% in respect of the capital expenditure incurred on the provision of that computer or automation equipment.
 
 [15/83; 13/84; 7/85]
 
-(3) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has, for the purposes of a trade, business or profession carried on by him, installed a generator in any office or factory for the supply of electrical power to that office or factory in the event of a disruption in the normal supply of electrical power, he shall, in lieu of the allowances provided by subsection (1) or section 19, be entitled, if he so elects, to an allowance of 100% in respect of the capital expenditure incurred on the provision of that generator.
+(1B) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has, for the purposes of a trade, business or profession carried on by him, installed a generator in any office or factory for the supply of electrical power to that office or factory in the event of a disruption in the normal supply of electrical power, he shall, in lieu of the allowances provided by subsection (1) or section 19, be entitled, if he so elects, to an allowance of 100% in respect of the capital expenditure incurred on the provision of that generator.
 
 [20/91]
 
-(4) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has installed a robot for the purposes of a trade, business or profession carried on by him, he shall, in lieu of the allowances provided by subsection (1) or section 19, be entitled, if he so elects, to an allowance of 100% in respect of the capital expenditure incurred on the provision of that robot.
+(1C) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has installed a robot for the purposes of a trade, business or profession carried on by him, he shall, in lieu of the allowances provided by subsection (1) or section 19, be entitled, if he so elects, to an allowance of 100% in respect of the capital expenditure incurred on the provision of that robot.
 
 [13/84]
 
-(5) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has installed on or after 1st January 1996 any efficient pollution control equipment or device for the purposes of a trade, business or profession carried on by him, he shall, in lieu of the allowances provided by subsection (1) or section 19, be entitled, if he so elects, to an allowance of 100% in respect of the capital expenditure incurred on the provision of the efficient pollution control equipment or device.
+(1D) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has installed on or after 1st January 1996 any efficient pollution control equipment or device for the purposes of a trade, business or profession carried on by him, he shall, in lieu of the allowances provided by subsection (1) or section 19, be entitled, if he so elects, to an allowance of 100% in respect of the capital expenditure incurred on the provision of the efficient pollution control equipment or device.
 
 [28/96]
 
-(6) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has installed on or after 1st January 1996 any certified energy-efficient equipment as a replacement for any other equipment, or has installed on or after that date any certified energy-saving equipment, for the purposes of a trade, business or profession carried on by him, he shall, in lieu of the allowances provided by subsection (1) or section 19, be entitled, if he so elects, to an allowance of 100% in respect of the capital expenditure incurred on the provision of the certified energy-efficient equipment or certified energy-saving equipment.
+(1E) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has installed on or after 1st January 1996 any certified energy-efficient equipment as a replacement for any other equipment, or has installed on or after that date any certified energy-saving equipment, for the purposes of a trade, business or profession carried on by him, he shall, in lieu of the allowances provided by subsection (1) or section 19, be entitled, if he so elects, to an allowance of 100% in respect of the capital expenditure incurred on the provision of the certified energy-efficient equipment or certified energy-saving equipment.
 
 [28/96; 31/98]
 
-(7) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has, on or after 1st January 1998, installed any new —
+(1F) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has, on or after 1st January 1998, installed any new —
 
 (a) certified low-decibel machine, equipment or system;
 
@@ -4284,7 +4164,7 @@ for the purposes of a trade, business or profession carried on by him, he shall,
 
 [31/98]
 
-(8) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has, on or after 1st January 1998, installed any new —
+(1G) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has, on or after 1st January 1998, installed any new —
 
 (a) certified machine, equipment or system which reduces or eliminates exposure to chemical risk;
 
@@ -4296,177 +4176,189 @@ for the purposes of a trade, business or profession carried on by him, he shall,
 
 [31/98]
 
-(9) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has, on or after 27th February 1999, registered any new vehicle as a replacement for an existing vehicle, for the purposes of a trade, business or profession carried on by him, he shall, in lieu of the allowances provided by subsection (1) or section 19, be entitled, if he so elects, to an allowance of 100% in respect of the capital expenditure incurred on the provision of that new vehicle.
+(1H) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has, on or after 27th February 1999, registered any new vehicle as a replacement for an existing vehicle, for the purposes of a trade, business or profession carried on by him, he shall, in lieu of the allowances provided by subsection (1) or section 19, be entitled, if he so elects, to an allowance of 100% in respect of the capital expenditure incurred on the provision of that new vehicle.
 
 [32/99]
 
-(10) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has incurred capital expenditure on the provision of a website for the purposes of a trade, business or profession carried on by him, he shall be entitled to an allowance of 100% in respect of the capital expenditure incurred on the provision of that website, and for this purpose, a website is deemed to be machinery or plant.
+(LJ) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has incurred capital expenditure on the provision of a website for the purposes of a trade, business or profession carried on by him, he shall be entitled to an allowance of 100% in respect of the capital expenditure incurred on the provision of that website, and for this purpose, a website is deemed to be machinery or plant.
 
-[37/2002]
+[37/2002 wef 03/05/2002]
 
-(11) Any claim by a person for allowances in respect of any machinery or plant under this section for any year of assessment shall not be disallowed by reason only that the person has not in use the machinery or plant at the end of the basis period for that year of assessment.
+(1K) Any claim by a person for allowances in respect of any machinery or plant under this section for any year of assessment shall not be disallowed by reason only that the person has not in use the machinery or plant at the end of the basis period for that year of assessment.
 
-[28/96; 31/98; 37/2002]
+[28/96; 31/98]
 
-(12) Any claim for allowances under this section shall be made at the time of lodgment of the return of income for the relevant years of assessment or within such further time as the Comptroller, in his discretion, may allow.
+(2) Any claim for allowances under this section shall be made at the time of lodgment of the return of income for the relevant years of assessment or within such further time as the Comptroller, in his discretion, may allow.
 
-(13) Where any allowance has been claimed and allowed under this section for any year of assessment, no allowances shall be made in any subsequent year of assessment under section 19 in respect of such expenditure.
+(3) Where any allowance has been claimed and allowed under this section for any year of assessment, no allowances shall be made in any subsequent year of assessment under section 19 in respect of such expenditure.
 
-(14) Where any allowance has been claimed and allowed under section 19 in respect of any expenditure, no allowances shall, except with the approval of the Minister and subject to such conditions as he may impose, be made in any subsequent year of assessment under this section in respect of the amount of that expenditure remaining unallowed under section 19.
+(4) Where at the end of the basis period for the year of assessment 1985 a person has in use machinery or plant in respect of which capital allowances have been made under section 19, there shall be made to him, if before the end of that year of assessment he so elects, for a period of 3 years an annual allowance of 331/3% in respect of the capital expenditure remaining unallowed under section 19 in respect of the machinery or plant as at the end of that basis period:
+
+Provided that —
+
+(a) in the case of a person to whom a certificate has been issued under Part II of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) whose tax relief period expires in any basis period ending on or after 1st January 1992 and who has, at the end of the basis period immediately following that basis period, in use machinery or plant in respect of which capital allowances have been made under section 19, the election under this subsection shall be made before the end of the year of assessment which relates to the second-mentioned basis period; and
+
+(b) in the case of a person to whom a certificate has been issued under Part IV, VI, VII, XI or XII of that Act and who has, at the end of the basis period immediately following the expiry of his tax relief period, in use machinery or plant in respect of which capital allowances have been made under section 19, the election under this subsection shall be made before the end of the year of assessment which relates to that basis period.
+
+[13/84; 11/94]
+
+(5) Except as provided in subsection (4), where any allowance has been claimed and allowed under section 19 in respect of any expenditure, no allowances shall, except with the approval of the Minister and subject to such conditions as he may impose, be made in any subsequent year of assessment under this section in respect of the amount of that expenditure remaining unallowed under section 19.
 
 [15/83; 13/84; 20/91; 28/96; 31/98; 32/99]
 
-(15) In this section —
+(6) In this section —
 
-“automation equipment” means any machinery or plant designed for the automation of functions or services in any office or factory;
-
-“certificate of entitlement” means a permit issued or deemed to be issued under section 10A of the Road Traffic Act (Cap. 276);
-
-“certified effective chemical hazard control device” means —
-
-(a) any local exhaust ventilation system;
-
-(b) any fugitive emission control equipment or system; or
-
-(c) any dilution ventilation system,
-
-which has been certified by the Standards, Productivity and Innovation Board or the National University of Singapore to have satisfied the prescribed criteria;
-
-“certified effective chemical hazard control measure” means —
-
-(a) any enclosed or automated system; or
-
-(b) any modification to machine, equipment or process,
-
-which has been certified by the Standards, Productivity and Innovation Board or the National University of Singapore to have satisfied the prescribed criteria;
-
-“certified effective engineering noise control measure” means —
-
-(a) any detachable personnel acoustic enclosure;
-
-(b) any acoustic barrier or shield;
-
-(c) any acoustic absorption device; or
-
-(d) any modification to machine, equipment or process,
-
-which has been certified by the Standards, Productivity and Innovation Board or the National University of Singapore to have satisfied the prescribed criteria;
-
-“certified effective noise control device” means —
-
-(a) any acoustic enclosure for machine, equipment or process;
-
-(b) any acoustic silencer or muffler;
-
-(c) any vibration absorption, isolation or damping device; or
-
-(d) any active noise control device,
-
-which has been certified by the Standards, Productivity and Innovation Board or the National University of Singapore to have satisfied the prescribed criteria;
-
-“certified energy-efficient equipment” means —
-
-(a) any air-conditioning system;
-
-(b) any boiler;
-
-(c) any water pumping system;
-
-(d) any washing or dry-cleaning machine system;
-
-(e) any refrigeration system;
-
-(f) any lift or escalator; and
-
-(g) any instant hot water system,
-
-which has been certified by a professional engineer registered under the Professional Engineers Act (Cap. 253) to be more energy-efficient than the equipment which it replaces;
-
-“certified energy-saving equipment” means —
-
-(a) any solar heating or cooling system;
-
-(b) any solar energy collection system;
-
-(c) any heat recovery system;
-
-(d) any power factor controller;
-
-(e) any high efficiency electric motor;
-
-(f) any variable speed drive motor control system;
-
-(g) any high frequency lighting system;
-
-(h) any computerised energy management system; and
-
-(i) any other energy-saving equipment or device,
-
-which has been certified by the Standards, Productivity and Innovation Board to be an energy-saving equipment;
-
-“certified low-decibel machine, equipment or system” means —
-
-(a) any concrete crusher or splitter;
-
-(b) any plastic granulator or crusher;
-
-(c) any automatic sawing machine;
-
-(d) any metal press or stamping machine;
-
-(e) any machine with active noise control feature; or
-
-(f) any other machine, equipment or system,
-
-which has been certified by the Standards, Productivity and Innovation Board or the National University of Singapore to have satisfied the prescribed criteria;
-
-“certified machine, equipment or system which reduces or eliminates exposure to chemical risk” means —
-
-(a) any water-based degreasing machine or system;
-
-(b) any automated bagging or packing machine or system;
-
-(c) any automated degreasing machine or system; or
-
-(d) any other machine, equipment or system,
-
-which has been certified by the Standards, Productivity and Innovation Board or the National University of Singapore to have satisfied the prescribed criteria;
+(a) “automation equipment” means any machinery or plant designed for the automation of functions or services in any office or factory;
 
 “computer” means any computer used for automatic data processing and includes any part thereof;
 
-“efficient pollution control equipment or device” means any equipment or device for the purposes of preventing, controlling or reducing air pollution or water pollution which satisfies the prescribed criteria;
+(b) machinery or plant in subsections (1) and (4) shall be deemed not to include the following motor vehicles within the meaning of the Road Traffic Act (Cap. 276):
 
-“existing vehicle” means any goods vehicle or bus using diesel oil as fuel, and registered before 1st January 1991,which —
+(i) a motor car;
 
-(a) is not a vehicle registered under the RU index marks;
+(ii) a motor cycle;
 
-(b) is deregistered on or after 27th February 1999 butnot later than one year before the last day on which a renewal of registration licence can be issued under the Road Traffic Act (Cap. 276) in respect of the vehicle; and
+(iii) a goods vehicle the maximum weight of which laden does not exceed 3,000 kilograms;
 
-(c) has, unless the vehicle has been exempted from obtaining a certificate of entitlement, at the date of deregistration of the vehicle —
+(c) “efficient pollution control equipment or device” means any equipment or device for the purposes of preventing, controlling or reducing air pollution or water pollution which satisfies the prescribed criteria;
 
-(i) at least one year remaining in its certificate of entitlement; or
+(d) “certified energy-efficient equipment” means —
 
-(ii) a certificate of entitlement which can be renewed after its expiration;
+(i) any air-conditioning system;
 
-“goods vehicle” means any motor vehicle constructed or adapted for use for the carriage of goods;
+(ii) any boiler;
 
-“new vehicle” means any new goods vehicle or new bus which —
+(iii) any water pumping system;
 
-(a) is registered within one month before, or within 6 months after, the deregistration of the existing vehicle; and
+(iv) any washing or dry-cleaning machine system;
 
-(b) bears an index mark which is the same as that of the index mark of the existing vehicle, and for this purpose, where the new goods vehicle and the existing vehicle have a maximum laden weight exceeding 3.0 metric tons but not exceeding 3.5 metric tons, the new goods vehicle shall be deemed to bear an index mark which is the same as that of the existing vehicle;
+(v) any refrigeration system;
 
-“website” means a collection of programmes, data and images which is accessible over the Internet or any network using a browser or any other form of access.
+(vi) any lift or escalator; and
 
-[15/83; 13/84; 7/85; 1/90; 28/96; 31/98; 32/99; 24/2000; 18/2002; 37/2002]
+(vii) any instant hot water system,
 
-(16) For the purpose of subsection (1), machinery or plant shall be deemed not to include the following motor vehicles within the meaning of the Road Traffic Act (Cap. 276):
+which has been certified by a professional engineer registered under the Professional Engineers Act (Cap. 253) to be more energy-efficient than the equipment which it replaces;
 
-(a) a motor car;
+(e) “certified energy-saving equipment” means —
 
-(b) a motor cycle;
+(i) any solar heating or cooling system;
 
-(c) a goods vehicle the maximum weight of which laden does not exceed 3,000 kilograms.
+(ii) any solar energy collection system;
+
+(iii) any heat recovery system;
+
+(iv) any power factor controller;
+
+(v) any high efficiency electric motor;
+
+(vi) any variable speed drive motor control system;
+
+(vii) any high frequency lighting system;
+
+(viii) any computerised energy management system; and
+
+(ix) any other energy-saving equipment or device,
+
+which has been certified by the Singapore Productivity and Standards Board to be an energy-saving equipment;
+
+(f) “certified low-decibel machine, equipment or system” means —
+
+(i) any concrete crusher or splitter;
+
+(ii) any plastic granulator or crusher;
+
+(iii) any automatic sawing machine;
+
+(iv) any metal press or stamping machine;
+
+(v) any machine with active noise control feature; or
+
+(vi) any other machine, equipment or system,
+
+which has been certified by the Singapore Productivity and Standards Board or the National University of Singapore to have satisfied the prescribed criteria;
+
+(g) “certified effective noise control device” means —
+
+(i) any acoustic enclosure for machine, equipment or process;
+
+(ii) any acoustic silencer or muffler;
+
+(iii) any vibration absorption, isolation or damping device; or
+
+(iv) any active noise control device,
+
+which has been certified by the Singapore Productivity and Standards Board or the National University of Singapore to have satisfied the prescribed criteria;
+
+(h) “certified effective engineering noise control measure” means —
+
+(i) any detachable personnel acoustic enclosure;
+
+(ii) any acoustic barrier or shield;
+
+(iii) any acoustic absorption device; or
+
+(iv) any modification to machine, equipment or process,
+
+which has been certified by the Singapore Productivity and Standards Board or the National University of Singapore to have satisfied the prescribed criteria;
+
+(i) “certified machine, equipment or system which reduces or eliminates exposure to chemical risk” means —
+
+(i) any water-based degreasing machine or system;
+
+(ii) any automated bagging or packing machine or system;
+
+(iii) any automated degreasing machine or system; or
+
+(iv) any other machine, equipment or system,
+
+which has been certified by the Singapore Productivity and Standards Board or the National University of Singapore to have satisfied the prescribed criteria;
+
+(j) “certified effective chemical hazard control device” means —
+
+(i) any local exhaust ventilation system;
+
+(ii) any fugitive emission control equipment or system; or
+
+(iii) any dilution ventilation system,
+
+which has been certified by the Singapore Productivity and Standards Board or the National University of Singapore to have satisfied the prescribed criteria;
+
+(k) “certified effective chemical hazard control measure” means —
+
+(i) any enclosed or automated system; or
+
+(ii) any modification to machine, equipment or process,
+
+which has been certified by the Singapore Productivity and Standards Board or the National University of Singapore to have satisfied the prescribed criteria;
+
+(l) “certificate of entitlement” means a permit issued or deemed to be issued under section 10A of the Road Traffic Act (Cap. 276);
+
+(m) “existing vehicle” means any goods vehicle or bus using diesel oil as fuel, and registered before 1st January 1991, which —
+
+(i) is not a vehicle registered under the RU index marks;
+
+(ii) is deregistered on or after 27th February 1999 but not later than one year before the last day on which a renewal of registration licence can be issued under the Road Traffic Act in respect of the vehicle; and
+
+(iii) has, except where the vehicle has been exempted from obtaining a certificate of entitlement, at the date of deregistration of the vehicle —
+
+(A) at least one year remaining in its certificate of entitlement; or
+
+(B) a certificate of entitlement which can be renewed after its expiration;
+
+(n) “goods vehicle” means any motor vehicle constructed or adapted for use for the carriage of goods;
+
+(o) “new vehicle” means any new goods vehicle or new bus which —
+
+(i) is registered within one month before, or within 6 months after, the deregistration of the existing vehicle; and
+
+(ii) bears an index mark which is the same as that of the index mark of the existing vehicle, and for this purpose, where the new goods vehicle and the existing vehicle have a maximum laden weight exceeding 3.0 metric tons but not exceeding 3.5 metric tons, the new goods vehicle shall be deemed to bear an index mark which is the same as that of the existing vehicle;
+
+(p) “website” means a collection of programmes, data and images which is accessible over the Internet or any network using a browser or any other form of access.
+
+[37/2002 wef 03/05/2002]
+
+[15/83; 13/84; 7/85; 1/90; 28/96; 31/98; 32/99; 24/2000]
 
 ### Writing-down allowances for approved intellectual property rights
 
@@ -5048,7 +4940,17 @@ ASCERTAINMENT OF STATUTORY INCOME
 
 ### Basis for computing statutory income
 
-35\.—(1) Except as provided in this section, the income of any person for each year of assessment (referred to in this Act as the statutory income) shall be the full amount of his income for the year preceding the year of assessment from each source of income.
+35\.—(1) Except as provided in this section, the income of any person for each year of assessment (referred to in this Act as the statutory income) shall be the full amount of his income for the year preceding the year of assessment from each source of income after the deduction provided under subsection (1A).
+
+[21/2003 wef 10/12/2003]
+
+(1A) There shall be deducted any allowance falling to be made under section 16, 17, 18A, 19, 19A, 19B, 19Cor 20 that is not fully deducted and which would otherwise be added to, and deemed to form part of, the corresponding allowance for the next succeeding year of assessment under section 23(1).
+
+[Act 21/2003 wef 10/12/2003]
+
+(1B) For the purposes of subsection (1A), the balance of allowance for the earliest year of assessment shall be deemed to have been deducted first, followed by the balance of allowance for the next earliest year of assessment, and so on.
+
+[21/2003 wef 10/12/2003]
 
 (2) Where the Comptroller is satisfied that any person usually makes up the accounts of a trade, business, profession or vocation carried on or exercised by him, to some day other than that immediately preceding any year of assessment, he may direct that the statutory income from that source be computed on the amount of gains or profits of the year ending on that day in the year preceding the year of assessment.
 
@@ -5060,7 +4962,11 @@ ASCERTAINMENT OF STATUTORY INCOME
 
 (c) derived during the period from 1st January 1999 to 31st December 1999 shall be treated as his statutory income for the year of assessment 2000 and be charged to tax at the rate applicable to him for that year of assessment;
 
-(d) derived during the period from 1st January 2000 to 31st December 2000 shall be treated as his statutory income for the year of assessment 2001 and be charged to tax at the rate applicable to him for that year of assessment.
+(d) derived during the period from 1st January 2000 to 31st December 2000 shall be treated as his statutory income for the year of assessment 2001 and be charged to tax at the rate applicable to him for that year of assessment;
+
+(e) derived during the period from 1st January 2001 to 31st December 2001 shall be treated as his statutory income for the year of assessment 2002 and be charged to tax at the rate applicable to him for that year of assessment.
+
+[37/2002 wef 10/12/2002]
 
 (3) Where the statutory income of any person from a trade, business, profession or vocation has been computed by reference to an account made up to a certain day, and such person fails for any reason whatsoever to make up an account to the corresponding day in the year following, the statutory income from the trade, business, profession or vocation both of the year of assessment in which such failure occurs and of the 2 years of assessment following shall be computed on such basis as the Comptroller in his discretion thinks fit.
 
@@ -5142,11 +5048,7 @@ ASCERTAINMENT OF ASSESSABLE INCOME
 
 [23/69]
 
-(1A) For the purposes of this section, unless otherwise provided in this Act or the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86), where a person is a company whose income, if any, is subject to tax at different rates of tax for any year of assessment, the Comptroller shall apportion any sum allowable under subsection (2)(b), (c), (d) or (f) or (2C) among the different rates of tax on such basis he considers reasonable.
-
-[Act 21/2003, wef Y/A 2003 & Sub. Ys/A:2003-ACT-21]
-
-(2) Subject to subsection (1A), there shall be deducted —
+(2) There shall be deducted —
 
 (a) the amount of loss incurred by that person in any trade, business, profession or vocation, which, if it had been a profit would have been assessable under this Act, in the following order:
 
@@ -5166,17 +5068,17 @@ and for this purpose, “approved” means approved by the Minister or such pers
 
 [21/2003 wef 01/04/2003]
 
-(c) an amount equivalent to twice the amount of any donation of money made by him in the year preceding the year of assessment to the Government or to any institution of a public character in Singapore approved by the Minister or any Central Fund Administrator on application by the institution concerned;
+(c) an amount equivalent to twice the amount of any donation of money made by him in the year preceding the year of assessment to the Government or to any institution of a public character in Singapore approved by the Ministeron application by the institution concerned;
 
-(d) an amount equivalent to twice the value of any donation of a computer (including computer software and peripherals) approved by the Minister or such person as he may appoint and made by any company in the year preceding the year of assessment to a prescribed educational, research or other institution in Singapore;
+(d) an amount equivalent to twice the value of any donation of a computer (including computer software and peripherals) approved by the Minister or such person as he may appoint and made by any company in the year preceding the year of assessment to a prescribed educational, research or other institution in Singapore; and
 
 (e) an amount equivalent to —
 
 (i) twice the value of any donation of shares in a company listed on the Singapore Exchange; or
 
-(ii) twice the value of any donation of units in unit trusts traded in Singapore or listed on the Singapore Exchange,
+(ii) twice the value of any donation of units in unit trusts traded in Singapore ,
 
-made by an individual in the year preceding the year of assessment to any institution of a public character in Singapore approved by the Minister or any Central Fund Administrator on the application by that institution; and
+made by an individual in the year preceding the year of assessment to any institution of a public character in Singapore approved by the Minister on the application by that institution; and
 
 [Act 37/2002, wef Y/A 2003 & Sub Ys/A:2002-ACT-37]
 
@@ -5220,7 +5122,7 @@ made by an individual in the year preceding the year of assessment to any instit
 
 [Act 37/2002; Act 21/2003 wef 01/04/2003]
 
-(2E) Subject to subsections (1A), (2D) and (5), the deduction to any person in respect of any sum allowable under subsection (2)(b), (c), (d), (e) or (f) or (2C) shall be allowed as far as possible against his statutory income of the first year of assessment after the year in which the donation was made by him, and, so far as the deduction cannot be so allowed, after deducting any of such sum transferred to a claimant company under section 37C, then from his statutory income of the next year of assessment, and so on, except that any balance of the donation not deducted against his statutory income of the sixth year of assessment from the first year of assessment in which the donation was made shall be disregarded.
+(2E) Subject to subsections (2D) and (5), the deduction to any person in respect of any sum allowable under subsection (2)(b), (c), (d), (e) or (f) or (2C) shall be allowed as far as possible against his statutory income of the first year of assessment after the year in which the donation was made by him, and, so far as the deduction cannot be so allowed, after deducting any of such sum transferred to a claimant company under section 37C, then from his statutory income of the next year of assessment, and so on, except that any balance of the donation not deducted against his statutory income of the sixth year of assessment from the first year of assessment in which the donation was made shall be disregarded.
 
 [Act 37/2002; Act 21/2003 wef 01/04/2003]
 
@@ -5280,11 +5182,9 @@ made by an individual in the year preceding the year of assessment to any instit
 
 (10) For the purposes of subsection (2)(e) —
 
-(a) the amount in respect of any donation of shares in a company or units in a unit trust listed on the Singapore Exchange shall be the price of such shares or units, as the case may be, in the open market at the last transaction of such shares or units on the date of the donation;
+(a) the amount in respect of any donation of shares in a company listed on the Singapore Exchange shall be the price of such shares in the open market at the last transaction on the date of the donation;
 
-[Act 21/2003, wef Y/A 2003 & Sub. Ys/A:2003-ACT-21]
-
-(b) the amount in respect of any donation of units in unit trusts traded in Singapore (other than those listed on the Singapore Exchange) shall be the bid price of such units immediately after the date of the donation quoted by the manager of the unit trusts; and
+(b) the amount in respect of any donation of units in unit trusts traded in Singaporeshall be the bid price of such units immediately after the date of the donation quoted by the manager of the unit trusts; and
 
 (c) “date of the donation”, in relation to any shares or units referred to in paragraph (a) or (b), as the case may be, means the date of legal transfer to the institution of a public character of the donation of such shares or units.
 
@@ -5340,7 +5240,7 @@ made by an individual in the year preceding the year of assessment to any instit
 
 37B\.—(1) This section shall apply to any company whose income for any year of assessment is subject to tax at different rates.
 
-[26/93; 37/2002]
+[26/93]
 
 (2) Where, for any year of assessment, there are any unabsorbed allowances, losses or donations in respect of the income of a company subject to tax at a lower rate of tax to which this section applies, and there is any chargeable income of the company subject to tax at a higher rate of tax to which this section applies, those unabsorbed allowances, losses or donations shall be deducted against that chargeable income in accordance with the following provisions:
 
@@ -5348,7 +5248,7 @@ made by an individual in the year preceding the year of assessment to any instit
 
 (b) in any other case, those unabsorbed allowances, losses or donations shall be reduced by an amount arrived at by multiplying that chargeable income by the adjustment factor, and those unabsorbed allowances, losses or donations so reduced shall be added to, and be deemed to form part of, the corresponding allowances, losses or donations in respect of the income subject to tax at the lower rate of tax, for the next succeeding year of assessment and any subsequent year of assessment in accordance with section 23 or 37, as the case may be, and that chargeable income shall be nil.
 
-[37/2002]
+[Act 37/2002 wef Y/A 2003 & Sub Ys/A:2002-ACT-37]
 
 (3) Where, for any year of assessment, there are any unabsorbed allowances, losses or donations in respect of the income of a company subject to tax at a higher rate of tax to which this section applies, and there is any chargeable income of the company subject to tax at a lower rate of tax to which this section applies, those unabsorbed allowances, losses or donations shall be deducted against that chargeable income in accordance with the following provisions:
 
@@ -5356,15 +5256,15 @@ made by an individual in the year preceding the year of assessment to any instit
 
 (b) in any other case, those unabsorbed allowances, losses or donations shall be reduced by an amount arrived at by dividing that chargeable income by the adjustment factor, and those unabsorbed allowances, losses or donations so reduced shall be added to, and be deemed to form part of, the corresponding allowances, losses or donations in respect of the income subject to tax at the higher rate of tax, for the next succeeding year of assessment and any subsequent year of assessment in accordance with section 23 or 37, as the case may be, and that chargeable income shall be nil.
 
-[37/2002]
+[Act 37/2002 wef Y/A 2003 & Sub Ys/A:2002-ACT-37]
 
 (4) Where a company to which this section applies ceases to derive income subject to tax at a lower rate of tax in the basis period for any year of assessment but derives income subject to tax at a higher rate of tax in that basis period, subsection (2) shall apply, with the necessary modifications, to any unabsorbed allowances, losses or donations in respect of the income of the company subject to tax at the lower rate of tax for any year of assessment subsequent to that year of assessment.
 
-[37/2002]
+[Act 37/2002 wef Y/A 2003 & Sub Ys/A:2002-ACT-37]
 
 (5) Where a company to which this section applies ceases to derive income subject to tax at a higher rate of tax in the basis period for any year of assessment but derives income subject to tax at a lower rate of tax in that basis period, subsection (3) shall apply, with the necessary modifications, to any unabsorbed allowances, losses or donations in respect of the income of the company subject to tax at the higher rate of tax for any year of assessment subsequent to that year of assessment.
 
-[37/2002]
+[Act 37/2002 wef Y/A 2003 & Sub Ys/A:2002-ACT-37]
 
 (6) Nothing in this section shall be construed as affecting the application of section 23 or 37 unless otherwise provided in this section.
 
@@ -5380,7 +5280,7 @@ B
 
 is the lower rate of tax for that year of assessment;
 
-“allowances” means allowances under section 16, 17, 19, 19A, 19B, 19C, 19D, 20, 21, 22 or 23 including unabsorbed allowances which arose in any year of assessment before the year of assessment 1994;
+“allowances” means allowances under section 16, 17, 19, 19A, 19B, 19C,20, 21, 22 or 23 including unabsorbed allowances which arose in any year of assessment before the year of assessment 1994;
 
 “chargeable income of the company subject to tax at a higher rate of tax” means income subject to tax at a higher rate of tax after deducting expenses, donations, allowances or losses allowable under this Act against that income;
 
@@ -5388,11 +5288,13 @@ is the lower rate of tax for that year of assessment;
 
 “donations” means donations which are deductible including any unabsorbed donations allowable under section 37;
 
-“higher rate of tax” or “lower rate of tax” means the rate of tax under section 43(1)(a) or the concessionary rate of tax in accordance with —
+“higher rate of tax” or “lower rate of tax” means the rate of tax under section 43(1)(a) or the concessionary rate of tax in accordance with:
 
-(a) any order made under section 13(12); or
+(a) any order made under section 13(8); or
 
-(b) the regulations made under section 13H, 43A, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43J, 43K, 43L , 43M (repealed), 43N, 43O, 43P or 43Q, as the case may be;
+(b) the regulations made under section 13H, 43A, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43J, 43K, 43L, 43M, 43N, 43O or 43P, as the case may be;
+
+[Act 37/2002; Act 21/2003 wef 01/04/2003]
 
 “losses” means losses which are deductible under section 37 including unabsorbed losses incurred in respect of any year of assessment before the year of assessment 1994;
 
@@ -5400,11 +5302,13 @@ is the lower rate of tax for that year of assessment;
 
 “unabsorbed allowances, losses or donations in respect of the income of a company subject to tax at a lower rate of tax” means the balance of such allowances, losses or donations after deducting expenses, donations, allowances or losses allowable under this Act against the income subject to tax at a lower rate of tax.
 
-[37/2002; 21/2003]
+[Act 37/2002, wef Y/A 2003 & Sub Ys/A:2002-ACT-37]
 
 ### Group relief for Singapore companies
 
-37C\.—(1) Subject to the provisions in this section, a transferor company may transfer any qualifying deduction for any year of assessment to a claimant company of the same group which has claimed the qualifying deduction against its assessable income for the same year of assessment.
+37C\.—(1) Subject to the provisions of this section, a transferor company may transfer any qualifying deduction for any year of assessment to a claimant company of the same group which has claimed the qualifying deduction against its assessable income for the same year of assessment.
+
+[37/2002]
 
 (2) A transfer of a qualifying deduction for any year of assessment shall be made only if the transferor company and the claimant company, for that year of assessment —
 
@@ -5414,11 +5318,15 @@ is the lower rate of tax for that year of assessment;
 
 (c) have made an election under subsection (11).
 
+[37/2002]
+
 (3) For the purposes of this section, 2 Singapore companies are members of the same group if —
 
 (a) at least 75% of the ordinary share capital in one company is beneficially held, directly or indirectly, by the other; or
 
 (b) at least 75% of the ordinary share capital in each of the 2 companies is beneficially held, directly or indirectly, by a third Singapore company.
+
+[37/2002]
 
 (4) Notwithstanding that a Singapore company beneficially holds, directly or indirectly, at least 75% of the ordinary share capital in another Singapore company, it shall not be treated to have satisfied subsection (3) unless additionally it is beneficially entitled to at least 75% of —
 
@@ -5426,13 +5334,19 @@ is the lower rate of tax for that year of assessment;
 
 (b) any residual assets of the other company available for distribution to that company’s equity holders on a winding up.
 
-(5) For the purpose of subsection (3), where a Singapore company beneficially owns, directly or indirectly, a fraction of the share capital of a second Singapore company which in turn beneficially owns, directly or indirectly, a fraction of the share capital of a third Singapore company, the Singapore company shall be deemed to have a beneficial ownership of the share capital of the third Singapore company equal to such fraction as results from the multiplication of those 2 fractions; and where the third Singapore company beneficially owns, directly or indirectly, a fraction of the share capital of a fourth Singapore company, the Singapore company shall be deemed to have a beneficial ownership of the share capital of the fourth Singapore company equal to such fraction as results from the multiplication of those 3 fractions, and so on.
+[37/2002]
+
+(5) For the purpose of subsection (3), where a Singapore company beneficially owns, directly or indirectly, a fraction of the share capital of a second Singapore company which in turn beneficially owns, directly or indirectly, a fraction of the share capital of a third Singapore company, the Singapore company shall be deemed to have a beneficial ownership of the share capital of the third Singapore company equal to such fractionas results from the multiplication of those 2 fractions; and where the third Singapore company beneficially owns, directly or indirectly, a fraction of the share capital of a fourth Singapore company, the Singapore company shall be deemed to have a beneficial ownership of the share capital of the fourth Singapore company equal to such fraction as results from the multiplication of those 3 fractions, and so on.
+
+[37/2002]
 
 (6) A transfer of qualifying deduction may be —
 
 (a) made by a transferor company to more than one claimant company, provided that the amount of qualifying deduction transferred is fully deducted against the assessable income of the first claimant company before any excess qualifying deduction is transferred and deducted against the assessable income of the second claimant company and so on; or
 
 (b) claimed by a claimant company from more than one transferor company, provided that the amount of qualifying deduction transferred from the first transferor company is fully deducted against the assessable income of the claimant company before any qualifying deduction transferred from a second transferor company is deducted against the assessable income of the claimant company and so on.
+
+[37/2002]
 
 (7) Qualifying deductions shall be transferred to a claimant company in accordance with the priority specified in the election made under subsection (11), and in the following order:
 
@@ -5442,7 +5356,11 @@ is the lower rate of tax for that year of assessment;
 
 (c) any donation specified in subsection (14)(c).
 
+[37/2002]
+
 (8) Where, in any year of assessment, a transfer of qualifying deduction cannot be effected in accordance with the order of priority specified by any transferor company or claimant company in its election made under subsection (11), the transfer shall be allowed in such manner as the Comptroller thinks reasonable and proper.
+
+[37/2002]
 
 (9) Subject to subsection (10), the amount of qualifying deduction that may be transferred to a claimant company from a transferor company for any year of assessment shall be —
 
@@ -5476,13 +5394,15 @@ is the amount of qualifying deduction of the transferor company for that year of
 
 whichever is the lower.
 
+[37/2002]
+
 (10) Where, for any year of assessment, there are 2 or more —
 
 (a) claims for any qualifying deduction by a claimant company, the available assessable income of the claimant company shall, for the purpose of subsection (9)(a), be
 
 where A, B and C
 
-have the same meanings as in subsection (9)(a);
+have the same meanings as in subsection (9)(a); and
 
 F
 
@@ -5492,19 +5412,25 @@ is the aggregate of the amounts of qualifying deductions previously claimed from
 
 where A, D and E
 
-have the same meanings as in subsection (9)(b);
+have the same meanings as in subsection (9)(b); and
 
 G
 
 is the aggregate of the amounts of qualifying deductions previously transferred to any other claimant company for the same year of assessment, if any.
 
+[37/2002]
+
 (11) Every transferor company and every claimant company of the same group shall, at the time of lodgment of their returns of income for any year of assessment or within such further time as the Comptroller may allow, make an irrevocable election to transfer or claim qualifying deductions, as the case may be.
+
+[37/2002]
 
 (12) An election under subsection (11) shall be accompanied by —
 
 (a) such particulars as the Comptroller may require; and
 
 (b) a list of companies, in order of priority, to which qualifying deductions would be transferred or from which such deductions would be claimed, as the case may be.
+
+[37/2002]
 
 (13) Notwithstanding subsection (11), where at the time of furnishing its return of income under section 62(1) for any year of assessment —
 
@@ -5520,23 +5446,31 @@ the Comptroller may —
 
 within such time and in such manner as the Comptroller may determine.
 
+[37/2002]
+
 (14) For the purposes of this section, subject to subsection (15) and sections 35, 37 and 37B, qualifying deductions, in relation to a transferor company, for each year of assessment, are —
 
 (a) any allowance falling to be made under section 16, 17, 18A (repealed), 19, 19A, 19B, 19C, 19D or 20 for that year of assessment that is in excess of the transferor company’s income from all sources chargeable to tax for that year of assessment;
 
 (b) any loss incurred by the transferor company in the basis period for that year of assessment in any trade or business which, if it had been a profit would have been assessable under this Act, and which is not deducted for that year of assessment because of insufficiency of statutory income of the transferor company; and
 
-(c) any donation made by the transferor company under section 37(2)(b), (c), (d) or (f) or (2C) in the year preceding that year of assessment that is not deducted for that year of assessment because of insufficiency of statutory income of the transferor company.
+(c) any donation made by the transferor company under section 37(3)(b), (c), (d) or (f) or (6) in the year preceding that year of assessment that is not deducted for that year of assessment because of insufficiency of statutory income of the transferor company.
+
+[37/2002; 21/2003]
 
 (15) Notwithstanding subsection (14), the following companies shall not be entitled to transfer the following items of qualifying deductions:
 
 (a) any company to which section 10E applies, in respect of qualifying deductions under subsection (14)(a) and (b);
 
-(b) any company to which section 97D, 97G or 97V of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) applies, in respect of qualifying deductions under subsection (14)(a) where the loss is deemed to be a loss incurred from a trade or business for the purposes of any of those sections; and
+(b) any company to which section 97D, 97G or 97V of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) applies, in respect of qualifying deductions under subsection (14)(a) where the loss is deemed to be a loss incurred from a trade or business for the purposes of any of those sections; and (5)
 
-(c) any company, in respect of qualifying deductions under subsection (14) relating to any income that is fully exempt from tax under the provisions of this Act or the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86).
+(c) any company, in respect of qualifying deductions under subsection (14) relating to any income that is fully exempt from tax under the provisions of this Act or the Economic Expansion Incentives (Relief from Income Tax) Act.
+
+[37/2002]
 
 (16) Notwithstanding subsections (9) and (10), where the Comptroller discovers that any transfer or claim of qualifying deduction which has been made from or to any company is or has become excessive, he may make an assessment upon the company under section 74 on the amount which, in his opinion, ought to have been charged to tax.
+
+[37/2002]
 
 (17) Section 37B shall apply, with the necessary modifications, to the transfer of any qualifying deduction from a transferor company to a claimant company, where applicable, and for the purpose of such application, any reference in section 37B(2) and (3) to —
 
@@ -5548,21 +5482,25 @@ within such time and in such manner as the Comptroller may determine.
 
 (d) chargeable income of the company shall be read as a reference to chargeable income of a claimant company.
 
-(18) For the purposes of this section, the Minister may make regulations generally to give full effect to or for carrying out the purposes of this section.
+[37/2002]
+
+(18) For the purposes of this section, the Minister may make regulations to provide generally for giving full effect to or for carrying out the purposes of this section.
+
+[37/2002]
 
 (19) In this section —
 
-“assessable income”, in relation to a claimant company or transferor company, means assessable income of the company as determined under section 37 after deducting any investment allowance under Part X of the Economic Expansion Incentives (Relief from Income Tax) Act;
+“assessable income”, in relation to a claimant company or transferor company, means assessable income of the company as determined under section 37 after deducting any investment allowance under Part X of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86);
 
 “claimant company” or “transferor company” means a Singapore company that claims or transfers, respectively, any qualifying deduction under subsection (1) but shall not include a company approved as —
 
-(a) a technology company under section 94(2) of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86);
+(a) a technology company under section 94(2) of the Economic Expansion Incentives (Relief from Income Tax) Act;
 
 (b) a venture company under section 97B(2) of the Economic Expansion Incentives (Relief from Income Tax) Act;
 
 (c) a technology investment company under section 97C(2) of the Economic Expansion Incentives (Relief from Income Tax) Act;
 
-(d) an overseas investment company under section 97C(4) of the Economic Expansion Incentives (Relief from Income Tax) Act; or
+(d) an overseas investment company under section 97C(4) of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86); or
 
 (e) a technopreneur start-up company under section 97T(2) of the Economic Expansion Incentives (Relief from Income Tax) Act;
 
@@ -5570,15 +5508,15 @@ within such time and in such manner as the Comptroller may determine.
 
 (a) a fixed amount or at a fixed rate per cent of the amount of the borrowing; or
 
-(b) of a fixed rate per cent of the profits of the company;
+(b) a fixed rate per cent of the profits of the company;
 
 “equity holder”, in relation to a Singapore company, means any holder of ordinary shares in the company or any creditor of the company in respect of any non-commercial loan;
 
 “non-commercial loan” means any borrowing other than a commercial loan;
 
-“ordinary share” means any share other than a share which carries only a right to any dividend which is of —
+“ordinary share” means any share other thana share which carries only a right to any dividend which is of —
 
-(a) a fixed amount or at a fixed rate per cent of the nominal value of the shares; or
+(a) a fixed amount or at a fixed rate per cent of the nominalvalue of the shares; or
 
 (b) a fixed rate per cent of the profits of the company;
 
@@ -5608,7 +5546,7 @@ and where the company has no residual profit, a notional amount of $100 is deeme
 
 “Singapore company” means any company incorporated in Singapore.
 
-[Act 37/2002, wef Y/A 2003 & Sub Ys/A:2002-ACT-37]
+[37/2002]
 
 ## PART X
 
@@ -5620,19 +5558,21 @@ ASCERTAINMENT OF CHARGEABLE INCOME AND PERSONAL RELIEFS
 
 ### Relief and deduction for resident individual and Hindu joint family
 
-39\.—(1) In the case of an individual or Hindu joint family resident in Singapore in the year of assessment, there shall be allowed a deduction, in respect of earned income, which shall be —
+39\.—(1) In the case of an individual or Hindu joint family resident in Singapore in the year of assessment, there shall be allowed —
 
-(a) in the case of an individual not falling within any other paragraph or a Hindu joint family, the sum of $1,000 or the amount of the earned income;
+(b) a deduction, in respect of earned income, which shall be —
 
-(b) without prejudice to any deduction allowable under paragraph (c) or (d), in the case of an individual who, in the year immediately preceding the year of assessment, was totally blind or suffering from any physical or mental disability which permanently and severely restricted his capacity for work, the sum of $2,000 or the amount of the earned income;
+(i) in the case of an individual not falling within any other sub-paragraph or a Hindu joint family, the sum of $1,000 or the amount of the earned income;
 
-(c) in the case of an individual who, at any time in the year immediately preceding the year of assessment, was above 55 years of age but was not above 60 years of age, the sum of $3,000 or the amount of the earned income; and
+(ii) without prejudice to any deduction allowable under sub-paragraph (iii) or (iv), in the case of an individual who, in the year immediately preceding the year of assessment, was totally blind or suffering from any physical or mental disability which permanently and severely restricted his capacity for work, the sum of $2,000 or the amount of the earned income;
 
-(d) in the case of an individual who, at any time in the year immediately preceding the year of assessment, was above 60 years of age, the sum of $4,000 or the amount of earned income,
+(iii) in the case of an individual who, at any time in the year immediately preceding the year of assessment, was above 55 years of age but was not above 60 years of age, the sum of $3,000 or the amount of the earned income; and
+
+(iv) in the case of an individual who, at any time in the year immediately preceding the year of assessment, was above 60 years of age, the sum of $4,000 or the amount of earned income,
 
 whichever is the less.
 
-[37/75; 1/82; 15/83; 26/93; 37/2002]
+[37/75; 1/82; 15/83; 26/93]
 
 (2) In the case of an individual resident in Singapore in the year of assessment who, in the year immediately preceding the year of assessment —
 
@@ -5640,11 +5580,11 @@ Deduction for wife
 
 (a) had a wife living with or maintained by him, there shall be allowed a deduction equal to the amount by which the sum of $2,000 exceeds the amount of income chargeable in the wife’s own name;
 
-Deduction for alimony
+[Deduction for alimony]
 
 (b) paid alimony to a previous wife whose marriage with him has been dissolved by any court of competent jurisdiction, there shall be allowed a deduction of the amount of such alimony or $2,000, whichever is the less;
 
-Deduction for payments under order or deed
+[Deduction for payments under order or deed]
 
 (c) made payments in accordance with an order of court or deed of separation to a wife from whom he was separated by such order or deed, there shall be allowed a deduction of the amount of such payments or $2,000, whichever is the less:
 
@@ -5668,13 +5608,13 @@ there shall be allowed in respect of —
 
 (C) such previous spouse whose marriage with him has been dissolved by any court of competent jurisdiction, a deduction of the amount of alimony paid to the previous spouse or $3,500, whichever is the less:
 
-Provided that the total deductions allowed to the individual under this paragraph and paragraph (a), (b) or (c) shall not exceed $3,500;
+Provided that the total deductions allowed to the individual under this paragraph and paragraph (a), (b) or (c) shall not exceed $3,500.
 
 Deduction for children
 
 (e) maintained an unmarried child —
 
-(i) being below the age of 16 years at any time during the year preceding the year of assessment;
+(i) being under the age of 16 years at any time during the year preceding the year of assessment;
 
 (ii) receiving full-time instruction at any university, college, school or other educational institution;
 
@@ -5692,7 +5632,7 @@ Provided that in the case of any unmarried child incapacitated from maintaining 
 
 Deduction for delivery and hospitalisation expenses
 
-(f) incurred delivery and hospitalisation expenses in respect of a legitimate 4th child born to him or (6) and maintained by him, there shall be allowed a deduction against his earned income of the amount of such expenses or $3,000, whichever is the less:
+(f) incurred delivery and hospitalisation expenses in respect of a legitimate 4th child born to him on or after 1st January 1988 and maintained by him, there shall be allowed a deduction against his earned income of the amount of such expenses or $3,000, whichever is the less:
 
 Provided that where more than one individual is entitled to claim such deduction, the deduction shall be apportioned between the individuals in question in such proportion as they agree, or, in the absence of such agreement, in such proportion as appears to the Comptroller to be reasonable;
 
@@ -5710,33 +5650,27 @@ Provided that —
 
 (iv) no such deduction shall include any sum which has been claimed and allowed to a husband or wife under this paragraph;
 
-(v) no such deduction shall be allowed unless the insurance company has an office or a branch in Singapore but this sub-paragraph shall not apply to any insurance contract entered into by an individual resident in Singapore before 10th August 1973;
+(v) no such deduction shall be allowed unless the insurance company has an office or a branch in Singapore but this sub-paragraph shall not apply to any insurance contract entered into by an individual resident in Singapore prior to the coming into operation of this sub-paragraph;
 
 (vi) in the case of an individual who has made contributions to an approved pension or provident fund, no such deduction shall exceed the contributions which would have been recoverable under section 7(2) of the Central Provident Fund Act (Cap. 36) had contributions been payable in respect of him to the Central Provident Fund;
 
-(vii) notwithstanding sub-paragraph (iii), no deduction shall be allowed in respect of any sum contributed to the Central Provident Fund for any period on or after 1st January 1999 by an employee who holds a professional visit pass, an employment pass or a work permit ;
+(vii) notwithstanding sub-paragraph (iii), no deduction shall be allowed in respect of any sum contributed to the Central Provident Fund for any period on or after 1st January 1999 by an employee who holds a professional visit pass, an employment pass or a work permit;
 
 (viii) no such deduction shall be allowed where the premiums for such insurance are paid with funds standing in his SRS account;
 
 Deduction for CPF contributions by self-employed
 
-(h) has carried on a trade, business, profession or vocation and has made contributions to the Central Provident Fund on his own account, or has derived income from a trade, business, profession or vocation and has made contributions in respect of such income to the Fund which were obligatory under the Central Provident Fund Act (Cap. 36), there shall be allowed a deduction, in respect of such contributions, of an amount not exceeding 33% or such other rate as may be prescribed of his assessable income for that year of assessment derived from such trade, business, profession or vocation or $25,380 or such other amount as may be prescribed, whichever is the less:
+(h) has carried on a trade, business, profession or vocation and has made contributions to the Central Provident Fund on his own account, or has derived income from a trade, business, profession or vocation and has made contributions in respect of such income to the Fund which were obligatory under the Central Provident Fund Act (Cap. 36), there shall be allowed a deduction, in respect of such contributions, of an amount not exceeding 36% or such other rate as may be prescribed of his assessable income for that year of assessment derived from such trade, business, profession or vocation or $25,920 or such other amount as may be prescribed, whichever is the less:
 
 Provided that —
 
 (i) where the contributions to any approved pension or provident fund or society under paragraph (g) and this paragraph do not exceed $5,000, the total deductions allowable under paragraph (g) and this paragraph shall not exceed $5,000, and where such contributions exceed $5,000 no deduction shall be allowed in respect of premiums for life insurance;
 
-(ii) the total deductions allowable under paragraph (g) and this paragraph in respect of contributions to any approved pension or provident fund or society shall not exceed $25,380 or such other amount as may be prescribed where the deduction allowable under paragraph (g) is less than $25,380 or such other amount as may be prescribed in respect of such contributions;
+(ii) the total deductions allowable under paragraph (g) and this paragraph in respect of contributions to any approved pension or provident fund or society shall not exceed $25,920 or such other amount as may be prescribed where the deduction allowable under paragraph (g) is less than $25,920 or such other amount as may be prescribed in respect of such contributions;
 
-(iii) no deduction shall be allowed under this paragraph where a deduction of $25,380 or such other amount as may be prescribed or more has been allowed under paragraph (g) in respect of contributions to any approved pension or provident fund or society;
+(iii) no deduction shall be allowed under this paragraph where a deduction of $25,920 or such other amount as may be prescribed or more has been allowed under paragraph (g) in respect of contributions to any approved pension or provident fund or society;
 
-(iv) where the total deductions allowable under this paragraph in respect of contributions which are obligatory under the Central Provident Fund Act and under paragraph (g) in respect of contributions to any approved pension or provident fund or society exceed $25,380 or such other amount as may be prescribed, sub-paragraphs (ii) and (iii) shall not apply to such amount of contributions in excess of $25,380 or such other amount as may be prescribed which are allowable under this paragraph;
-
-(v) the reference to “$25,380” for the year 2003 in this paragraph shall be read as a reference to “$21,780” for the year 2004;
-
-[49/2004 wef 01/01/2004]
-
-Deduction for aged parents
+(iv) where the total deductions allowable under this paragraph in respect of contributions which are obligatory under the Central Provident Fund Act and under paragraph (g) in respect of contributions to any approved pension or provident fund or society exceed $25,920 or such other amount as may be prescribed, sub-paragraphs (ii) and (iii) shall not apply to such amount of contributions in excess of $25,920 or such other amount as may be prescribed which are allowable under this paragraph;
 
 (i) maintained any dependant living in Singapore —
 
@@ -5762,6 +5696,8 @@ there shall be allowed, under sub-paragraph (A) or (B) but not both, in respect 
 
 Provided that a deduction under this paragraph in respect of any one dependant shall be allowed to one individual only and no individual may obtain a deduction under this paragraph for more than 2 dependants, and where more than one individual claims a deduction in respect of the same dependant, a deduction shall be allowed to such claimant as the individuals may agree or, failing such agreement, to such claimant as determined by the Comptroller whose decision shall be final;
 
+[Act 37/2002, wef Y/A 2003 & Sub Ys/A:2002-ACT-37]
+
 Deduction for maintenance for handicapped siblings
 
 (j) maintained any dependant living in Singapore —
@@ -5778,9 +5714,9 @@ Deduction for maintenance for handicapped siblings
 
 there shall be allowed in respect of each such dependant a deduction of $3,500; and where more than one individual is entitled to claim a deduction in respect of the same dependant the deduction shall be apportioned in such manner as appears to the Comptroller to be reasonable;
 
-Deduction for course fees
-
 (k) had attended any course of study, seminar or conference for the purpose of gaining an approved academic or professional qualification, or had attended such other approved course, seminar or conference as is related to his trade, business, profession, vocation or employment, there shall be allowed a deduction of the amount incurred by him in that year on the fees for such course, seminar or conference (including examination, tuition and registration fees), subject to a maximum deduction of $3,500; but no deduction shall be allowed under this paragraph in respect of any sum which has been allowed under section 14;
+
+[Act 21/2003, wef Y/A 2003 & Sub. Ys/A:2003-ACT-21]
 
 Deduction in respect of operationally ready national servicemen
 
@@ -5806,11 +5742,11 @@ Deduction in respect of operationally ready national servicemen
 
 (n) was a parent of an operationally ready national serviceman and was a citizen of Singapore who had not made a claim under paragraph (l) or (m), there shall be allowed a deduction of $750 subject to the following provisions:
 
-(i) such national serviceman is a legitimate child, step-child or child adopted under any written law relating to the adoption of children;
+(i) such national serviceman is a legitimate child, stepchild or child adopted under any written law relating to the adoption of children;
 
 (ii) where more than 2 parents claim the deduction under this paragraph in respect of such national serviceman, the deduction in respect of such national serviceman shall be allowed to any 2 parents as such national serviceman may nominate;
 
-(iii) where such national serviceman has died, his parents shall continue to be allowed a deduction under this paragraph, except that where he dies during the basis period for any year of assessment for which he is not entitled to a deduction under paragraph (l) , his parents shall not be allowed a deduction under this paragraph for that year of assessment;
+(iii) where such national serviceman has died, his parents shall continue to be allowed a deduction under this paragraph, except that where he dies during the basis period for any year of assessment for which he is not entitled to a deduction under paragraph (l), his parents shall not be allowed a deduction under this paragraph for that year of assessment;
 
 (iv) where a parent has more than one child who is an operationally ready national serviceman, the deduction under this paragraph shall be allowed to the parent in respect of only one such national serviceman; and
 
@@ -5826,7 +5762,7 @@ Deduction for contributions under Supplementary Retirement Scheme
 
 Provided that where an SRS member derives income from a trade, business, profession or vocation or the exercise of an employment outside Singapore, the deduction shall not exceed the amount of income remitted to, transmitted or brought into Singapore from outside Singapore.
 
-[26/73; 4/75; 37/75; 1/82; 5/83; 31/86; 1/88; 1/90; 23/90; 20/91; 2/92; 28/92; 26/93; 11/94; 32/95; 28/96; 1/98; 32/99; 24/2000; 24/2001; 37/2002; 21/2003]
+[26/73; 4/75; 37/75; 1/82; 5/83; 31/86; 1/88; 1/90; 23/90; 20/91; 2/92; 28/92; 26/93; 11/94; 32/95; 28/96; 1/98; 32/99; 24/2000; 24/2001]
 
 (3) In the case of an individual resident in Singapore in the year of assessment who is a citizen or permanent resident in Singapore and who, in the year preceding the year of assessment, has paid money in accordance with section 18 of the Central Provident Fund Act (Cap. 36) to his, his parent’s or his grandparent’s retirement account, there shall be allowed a deduction of the amount of such payment or $6,000, whichever is the less.
 
@@ -5840,21 +5776,21 @@ Provided that where an SRS member derives income from a trade, business, profess
 
 [1/88]
 
-(6) Where in any year an individual has made contributions to the Central Provident Fund in respect of additional wages paid to him in that year, no such deduction shall include any contributions in respect of that part of the additional wages which exceeds $27,500 paid to him in that year, except —
+(6) Where in any year an individual has made contributions to the Central Provident Fund in respect of additional wages paid to him in that year, no such deduction shall include any contributions in respect of that part of the additional wages which exceeds 40% of all ordinary wages paid to him in that year, except —
 
-(a) where all his ordinary wages paid in that year do not exceed $66,000 and his total wages paid in the same year do not exceed $93,500; or
+(a) where all his ordinary wages paid in that year do not exceed $72,000 and his total wages paid in the same year do not exceed $100,000; or
 
-(b) where all his ordinary wages paid in that year do not exceed $66,000 but his total wages paid in the same year exceed $93,500, the contributions on that part of his total wages up to $100,000 shall be allowed as a deduction.
+(b) where all his ordinary wages paid in that year do not exceed $72,000 but his total wages paid in the same year exceed $100,000, the contributions on that part of his total wages up to $100,000 shall be allowed as a deduction.
 
 [23/90]
 
-(7) Where in any year an individual is employed by 2 or more employers and the employers are related to each other within the meaning of section 10C(9), subsection (6) shall apply, with the necessary modifications, as if all the ordinary and additional wages from those related employers were paid by one employer.
+(7) Where in any year an individual is employed by 2 or more employers and the employers are related to each other within the meaning of section 10C(4), subsection (6) shall apply, with the necessary modifications, as if all the ordinary and additional wages from those related employers were paid by one employer.
 
 (8) Subsections (6) and (7) shall apply, with the necessary modifications, to contributions made by an individual to an approved pension or provident fund as if those contributions were contributions made to the Central Provident Fund; except that subsection (6)(a) and (b) shall only apply to an approved pension or provident fund designated by the Minister for this purpose.
 
 (9) Where in any year an individual has made contributions to the Central Provident Fund or to a pension or provident fund designated under subsection (8), in addition to any other approved pension or provident fund, no deduction shall be allowed in respect of the whole of the contributions made to that approved pension or provident fund.
 
-(10) For the purposes of subsection (2)(g), where in any year an individual has made contributions (not being contributions under section 7(2) of the Central Provident Fund Act (Cap. 36)) to the Central Provident Fund in respect of overseas ordinary wages or overseas additional wages paid to him by any relevant employer in that year, no deduction shall include any contributions in respect of that part of his overseas total wages which exceeds $93,500, if his overseas additional wages exceed $27,500 and his overseas total wages exceed or transferred to a claimant company under section 37C$93,500.
+(10) For the purposes of subsection (2)(g), where in any year an individual has made contributions (not being contributions under section 7(2) of the Central Provident Fund Act (Cap. 36)) to the Central Provident Fund in respect of overseas ordinary wages or overseas additional wages paid to him by any relevant employer in that year, no deduction shall include any contributions in respect of that part of his overseas total wages which exceeds $100,000, if his overseas additional wages exceed $28,000 and his overseas total wages exceed $100,000.
 
 [11/94]
 
@@ -5870,7 +5806,7 @@ there shall be allowed a deduction against her earned income equal to twice the 
 
 [20/91]
 
-(12) Where an individual has commenced a new trade, business, profession, vocation or employment within 2 years of assessment from the year of assessment relating to the year in which he completed any course of study or attended any seminar or conference on or after 1st January 2003 (other than those referred to in subsection (2)(k) or where a deduction in respect of which has been allowed under section 14) which is related to the new trade, business, profession, vocation or employment, there shall be allowed to him on due claim a deduction of the amount incurred by him on the fees for such course, seminar or conference (including examination, tuition and registration fees), subject to a maximum deduction of $3,500 and the following conditions:
+(11A) Where an individual has commenced a new trade, business, profession, vocation or employment within 2 years of assessment from the year of assessment relating to the year in which he completed any course of study or attended any seminar or conference on or after 1st January 2003 (other than those referred to in subsection (2)(k) or where a deduction in respect of which has been allowed under section 14) which is related to the new trade, business, profession, vocation or employment, there shall be allowed to him on due claim a deduction of the amount incurred by him on the fees for such course, seminar or conference (including examination, tuition and registration fees), subject to a maximum deduction of $3,500 and the following conditions:
 
 (a) the individual is resident in Singapore in the year of assessment in which he makes the claim;
 
@@ -5878,11 +5814,11 @@ there shall be allowed a deduction against her earned income equal to twice the 
 
 (c) the claim is made in the year of assessment relating to the year in which he commences the new trade, business, profession, vocation or employment or in the year of assessment immediately following that year of assessment.
 
-[21/2003]
+[21/2003 wef 03/12/2003]
 
-(13) In this section —
+(12) In this section —
 
-“additional wages” has the same meaning as in the Central Provident Fund Act (Cap. 36);
+“additional wages” has the same meaning as in the Central Provident Fund Act;
 
 “approved” means approved by the Minister or such person as he may appoint;
 
@@ -5890,7 +5826,7 @@ there shall be allowed a deduction against her earned income equal to twice the 
 
 “ordinary wages” has the same meaning as “ordinary wages for the month” in the Central Provident Fund Act (Cap. 36);
 
-“overseas additional wages”, “overseas ordinary wages”, “overseas total wages” and “relevant employer” have the same meanings as in section 10C(12);
+“overseas additional wages”, “overseas ordinary wages”, “overseas total wages” and “relevant employer” have the same meanings as in section 10C(7);
 
 “proper authority” means such person as the Minister may appoint;
 
@@ -6122,7 +6058,7 @@ RATES OF TAX
 
 ### Rates of tax upon individuals
 
-42\.—(1) Subject to subsection (2) or (4), there shall be levied and paid for each year of assessment upon the chargeable income of every person (other than a company, a person not resident in Singapore, a trustee who is not the trustee of an incapacitated person, or an executor) tax in accordance with the rates specified in —
+42\.—(1) Subject to subsections (2), (4) and (6), there shall be levied and paid for each year of assessment upon the chargeable income of every person (other than a company, a person not resident in Singapore, a trustee who is not the trustee of an incapacitated person, or an executor) tax in accordance with the rates specified in —
 
 (a) Part A of the Second Schedule in respect of the chargeable income of an individual or Hindu joint family;
 
@@ -6151,6 +6087,22 @@ is the tax chargeable on the chargeable income of the person for the year of ass
 B
 
 is the chargeable income of the person for the year of assessment.
+
+(6) There shall be levied and paid for each year of assessment upon any interest derived by a body of persons from qualifying debt securities at the rate of 10%.
+
+[Act 37/2002, wef Y/A 2003 & Sub Ys/A:2002-ACT-37]
+
+(7) Subsection (6) shall not, unless otherwise approved by the Minister or such person as he may appoint, apply to any interest derived from any qualifying debt securities issued during the period from 10th May 1999 to 27th February 2003 where 50% or more of the issue of those securities is beneficially held or funded, directly or indirectly, at any time during the life of the issue by related parties of the issuer of those securities and where such interest is derived by any body of persons —
+
+(a) which is a related party of the issuer of those securities; or
+
+(b) from securities acquired using funds obtained, directly or indirectly, from any related party of the issuer of those securities.
+
+[Act 37/2002; Act 21/2003 wef 01/04/2003]
+
+(8) In this section, “qualifying debt securities” and “related party” have the same meanings as in section 13(11).
+
+[Act 37/2002, wef Y/A 2003 & Sub Ys/A:2002-ACT-37]
 
 ### Rebate for second, third and fourth child of family
 
@@ -6224,15 +6176,15 @@ subsection (3)(b) and (c) shall only apply to any second, third or fourth child,
 
 43\.—(1) Subject to section 40, there shall be levied and paid for each year of assessment upon the chargeable income of —
 
-(a) every company, tax at the rate of 20% on every dollar of the chargeable income thereof;
+(a) every company, tax at the rate of 22% on every dollar of the chargeable income thereof;
 
-(b) every person (other than a company) not resident in Singapore, trustee (other than the trustee of an incapacitated person) and executor, tax at the rate of 20% on every dollar of the chargeable income thereof.
+(b) every person (other than a company) not resident in Singapore, trustee (other than the trustee of an incapacitated person) and executor, tax at the rate of 22% on every dollar of the chargeable income thereof.
 
 [31/86; 1/90; 20/91; 28/92; 26/93; 28/96; 24/2001; 37/2002]
 
 (2) Where any trustee proves to the satisfaction of the Comptroller that any beneficiary of the trust is entitled to a share of the trust income, a corresponding share of the statutory income of the trustee may be charged at a lower rate or not charged with any tax, as the Comptroller shall determine.
 
-(3) Notwithstanding anything in this Act but subject to subsection (3A), tax at the rate of 15% shall be levied and paid on the gross amount of —
+(3) Notwithstanding anything in this Act, tax at the rate of 15% shall be levied and paid on the gross amount of —
 
 (a) any income referred to in section 12(6); and
 
@@ -6241,10 +6193,6 @@ subsection (3)(b) and (c) shall only apply to any second, third or fourth child,
 accruing in or derived from Singapore on or after 28th February 1996 by a person not resident in Singapore which is not derived by the person from any trade, business, profession or vocation carried on or exercised by him in Singapore and which is not effectively connected with any permanent establishment in Singapore of the person.
 
 [28/96]
-
-(3A) Notwithstanding anything in this Act, tax at the rate of 10% shall be levied and paid on the gross amount of any income referred to in section 12(7)(a) and (b) but excluding the incomes specified in subsection (7), accruing in or derived from Singapore on or after 1st January 2005 by a person not resident in Singapore which is not derived by the person from any trade, business, profession or vocation carried on or exercised by him in Singapore and which is not effectively connected with any permanent establishment in Singapore of the person.
-
-[49/2004 wef 30/11/2004]
 
 (4) Notwithstanding anything in this Act but subject to subsection (5) and sections 13(1)(r) and 40A, tax at the rate of 15% shall be levied and paid on the gross amount of any income accruing in or derived from Singapore on or after 3rd May 2002 from any profession or vocation carried on by —
 
@@ -6258,7 +6206,7 @@ accruing in or derived from Singapore on or after 28th February 1996 by a person
 
 [37/2002; 21/2003]
 
-(6) Notwithstanding subsection (1) but subject to subsection (6A), for the year of assessment 2002 and subsequent years of assessment, there shall be levied and paid for each year of assessment upon the chargeable income of every company, tax at the rate prescribed in subsection (1)(a) on every dollar of the chargeable income thereof except that —
+(6) Notwithstanding subsection (1), for the year of assessment 2002 and subsequent years of assessment, there shall be levied and paid for each year of assessment upon the chargeable income of every company, tax at the rate prescribed in subsection (1)(a) on every dollar of the chargeable income thereof except that —
 
 (a) for every dollar of the first $10,000 of the chargeable income (excluding Singapore dividends), only 25% shall be charged with tax; and
 
@@ -6266,11 +6214,7 @@ accruing in or derived from Singapore on or after 28th February 1996 by a person
 
 [24/2001]
 
-(6A) Notwithstanding subsections (1) and (6), for each of the first 3 years of assessment, falling within the years of assessment 2005 to 2009, of a qualifying company, there shall be levied and paid upon the chargeable income of the company tax at the rate prescribed in subsection (1)(a) on every dollar of the chargeable income thereof except that every dollar of the first $100,000 of the chargeable income (excluding Singapore dividends) shall be exempt from tax.
-
-[49/2004 wef 30/11/2004]
-
-(7) The incomes excluded under subsections (3) (b) and (3A) are —
+(7) The incomes excluded under subsection (3)(b)are —
 
 (a) any royalty and other payments referred to in section 10(14) or (16) which are derived by the person not resident in Singapore; and
 
@@ -6278,9 +6222,9 @@ accruing in or derived from Singapore on or after 28th February 1996 by a person
 
 [28/96]
 
-(8) The reference to 20% in subsection (1) shall, for the years of assessment 2003 and 2004, be read as a reference to 22%.
+(8) The reference to 22% in subsection (1) shall, for the year of assessment 2002, be read as a reference to 24.5%.
 
-[49/2004 wef 30/11/2004]
+[37/2002]
 
 (9) Notwithstanding subsection (1)(a), the tax to be levied and paid upon such income of a life insurance company apportioned to the policyholders of the company as the Minister may by regulations specify shall be at the rate of 10% or such other prescribed rate.
 
@@ -6290,19 +6234,7 @@ accruing in or derived from Singapore on or after 28th February 1996 by a person
 
 “foreign firm” means an unincorporated body of 2 or more persons who have entered into partnership with one another with a view to carrying on business for profit and whose principal place of business is situated outside Singapore;
 
-“first 3 years of assessment”, in relation to a qualifying company, means the year of assessment relating to the basis period during which the company is incorporated in Singapore and the 2 consecutive years of assessment immediately following that year of assessment;
-
-[Act 49/2004, wef Y/A 2005 & Sub Ys/A:2004-ACT-49]
-
 “gross amount”, in relation to any income referred to in subsections (3) and (4), means the full amount of the income without any deduction and relief being allowed against the income under the provisions of this Act;
-
-“qualifying company” means a company incorporated in Singapore (other than a company limited by guarantee) which for each of the first 3 years of assessment —
-
-(a) is resident in Singapore for that year of assessment; and
-
-(b) has no more than 20 shareholders all of whom are individuals throughout the basis period for that year of assessment;
-
-[Act 49/2004, wef Y/A 2005 & Sub Ys/A:2004-ACT-49]
 
 “Singapore dividends” means any dividend derived from Singapore from which tax has been deducted under section 44.
 
@@ -6352,7 +6284,7 @@ derived by it from any approved syndicated offshore credit or guarantee facility
 
 [31/98]
 
-### Concessionary rate of tax for offshore gold and futures transactions
+### Concessionary rate of tax for offshore transactions on any market maintained by the Singapore Exchange or its subsidiaries
 
 43D\.—(1) Notwithstanding section 43, the Minister may by regulations provide that tax at the rate of 10% or such other concessionary rate shall be levied and paid for each year of assessment upon such income as the Minister may specify of a futures member of the Singapore Exchange —
 
@@ -6366,13 +6298,21 @@ derived by it from any approved syndicated offshore credit or guarantee facility
 
 (iv) a branch office outside Singapore of a company resident in Singapore; or
 
-(v) a foreign investor where such transaction is carried out through an Asian Currency Unit of a financial institution or a fund manager approved in either case under section 13C or 43A;
+(v) a foreign investor where such transaction is carried out through an Asian Currency Unit of a financial institution or a fund manager approved under section 43A;
 
-(b) derived from transactions in any petroleum futures on any approved exchange with an oil trading company approved under section 43F,
+(b) derived from transactions in any petroleum futures on any approved exchange with an oil trading company approved under section 43F;
+
+(c) derived from transactions in derivatives products as approved by the Minister or such person as he may appoint and introduced during the period from 1st January 2002 to 31st December 2006, on any market maintained by the Singapore Exchange or its subsidiaries, in any currency other than the Singapore dollar, with any of the persons mentioned in paragraph (a)(i) to (v) and any member of any securities market maintained by the Singapore Exchange Securities Trading Limited,
+
+[37/2002 wef 10/12/2002]
 
 and those regulations may provide for the deduction of losses otherwise than in accordance with section 37(2).
 
 [13/84; 1/90; 28/92; 26/93; 32/99; 24/2000]
+
+(1A) Regulations made under subsection (1) may also provide that tax at the rate of 10% or such other concessionary rate shall be levied and paid for each year of assessment upon such income of any member of any securities market maintained by the Singapore Exchange Securities Trading Limited in respect of transactions described in subsection (1)(c).
+
+[37/2002 wef 10/12/2002]
 
 (2) In this section and sections 43A(3), 43E, 43F, 43G, 43H, 43J, 43L, 43M, 43O and 43P, “approved” means approved by the Minister or such person as he may appoint.
 
@@ -6676,7 +6616,11 @@ and for deduction of losses otherwise than in accordance with section 37(2).
 
 ### Concessionary rate of tax for global trading company
 
-43P\.—(1) Notwithstanding section 43, the Minister may by regulations provide that tax at the rate of 10% or such other concessionary rate shall be levied and paid for each year of assessment upon such income as the Minister may specify of an approved global trading company derived by it from such qualifying transactions in commodities or commodities futures as may be prescribed, and those regulations may provide for the deduction of losses otherwise than in accordance with section 37(2).
+43P\.—(1) Notwithstanding section 43, the Minister may by regulations provide that tax at the rate of 5% or 10% shall be levied and paid for each year of assessment upon such income as the Minister may specify of an approved global trading company derived by it from such qualifying transactions in commodities or commodities futures as may be prescribed, and those regulations may provide for the deduction of losses otherwise than in accordance with section 37(2).
+
+(1A) The concessionary rate of tax referred to in subsection (1) shall apply to an approved global trading company subject to such conditions as the Minister or such person as he may appoint may impose.
+
+[21/2003 wef 28/02/2003]
 
 (2) In this section, “global trading company” means a company carrying on the business of international trading of commodities or commodities futures, including petroleum and petroleum products.
 
@@ -6688,95 +6632,45 @@ DEDUCTION OF TAX AT SOURCE
 
 ### Deduction of tax from dividends of companies
 
-44\.—(1) Every company resident in Singapore which —
+44\.—(1) Every company which is resident in Singapore, shall be entitled to deduct from the amount of any dividend paid to any shareholder tax at the rate of 24.5% on every dollar of such dividend.
 
-(a) has paid dividend to any shareholder before 1st January 2003;
+[31/86; 1/90; 20/91; 28/92; 26/93; 28/96; 24/2001]
 
-(b) has paid dividend to any shareholder at any time during the period from 1st January 2003 to 31st March 2003, and before paying the dividend, has not exercised an option under subsection (6A); or
-
-(c) at any time during the period from 1st April 2003 to 31st December 2007 —
-
-(i) has paid dividend to any shareholder;
-
-(ii) has a 44A balance of the company remaining on the day before the date of payment of the dividend after taking into account the tax assessed to be added to the 44A balance under section 44A(5); and
-
-(iii) before paying the dividend, has not exercised an option under subsection (6A),
-
-shall be entitled to deduct from the amount of dividend paid, tax at the relevant rate on every dollar of such dividend.
-
-[37/2002 wef 01/01/2003]
-
-(2) Every company shall upon payment of a dividend from which tax has been deducted or is deductible, furnish each shareholder with a certificate setting forth the amount of the dividend paid to that shareholder and the amount of tax which the company has deducted or is entitled to deduct in respect of that dividend; and where a dividend is deemed to have been received by a shareholder under section 10J(3A)(b), such certificate shall also specify that the dividend is in respect of a share buyback through a special trading counter.
+(2) Every such company shall upon payment of a dividend, whether tax is deducted therefrom or not, furnish each shareholder with a certificate setting forth the amount of the dividend paid to that shareholder and the amount of tax which the company has deducted or is entitled to deduct in respect of that dividend; and where a dividend is deemed to have been received by a shareholder under section 10J(3A)(b), such certificate shall also specify that the dividend is in respect of a share buyback through a special trading counter.
 
 [24/2000]
 
-(3) The Minister may, if he is satisfied that it is expedient in the public interest to do so, authorise the Comptroller to pay a company to which subsection (1) applies in respect of such classes of its shareholders as the Minister may designate, a sum equal to the amount of tax which the designated company would be entitled to deduct under subsection (1) from dividends to be paid to the designated shareholders so as to enable the designated company to pay the dividends to those shareholders as if no tax had been deducted under that subsection.
+(3) The Minister may, if he is satisfied that it is expedient in the public interest to do so, authorise the Comptroller to pay such company in respect of such classes of its shareholders as the Minister may designate, a sum equal to the amount of tax which the designated company would be entitled to deduct under subsection (1) from dividends to be paid to the designated shareholders so as to enable the designated company to pay the dividends to those shareholders as if no tax had been deducted under that subsection.
 
 [32/95]
 
-(4) Upon payment of a dividend by a company in any year of assessment before the year of assessment 2003 under subsection (1) (a) —
+(4) Upon payment of a dividend by a company in any year of assessment —
 
-(a) where such dividend is the first dividend paid in that year of assessment and where the amount of tax deducted under subsection (1) (a) exceeds the aggregate of the balance, if any, on 1st January of that year of assessment and any tax assessed during the period from 1st January of that year of assessment to the day before the date of payment of the dividend; or
+(a) where such dividend is the first dividend paid in that year of assessment and where the amount of tax deducted under subsection (1) exceeds the aggregate of the balance, if any, on 1st January of that year of assessment and any tax assessed during the period from 1st January of that year of assessment to the day before the date of payment of the dividend; or
 
-(b) where such dividend is the second or subsequent dividend paid in that year of assessment and where the amount of tax deducted under subsection (1) (a) exceeds the aggregate of the balance, if any, after the preceding dividend and any tax assessed during the period from the date of the payment of the preceding dividend to the day before the date of payment of the second or subsequent dividend,
+(b) where such dividend is the second or subsequent dividend paid in that year of assessment and where the amount of tax deducted under subsection (1) exceeds the aggregate of the balance, if any, after the preceding dividend and any tax assessed during the period from the date of the payment of the preceding dividend to the day before the date of payment of the second or subsequent dividend,
 
 a charge equal to the amount of such excess shall be paid to the Comptroller within 14 days from the date of payment of the dividend, and any amount of tax which remains unpaid on that date shall, notwithstanding section 85, be paid immediately to the Comptroller.
 
 [1/88]
 
-(5) Where upon the payment of any dividend under subsection (1) (a) the aggregate of the balance, if any, after the date of payment of the preceding dividend and any tax assessed during the period from that date to the day before the date of payment of the first-mentioned dividend exceeds the tax deducted under subsection (1) (a) from the first-mentioned dividend, the excess shall be carried forward as a balance to be set-off against the tax deducted from any ensuing dividend paid on or before 31st December 2002.
+(5) Where upon the payment of any dividendthe aggregate of the balance, if any, after the date of payment of the preceding dividend and any tax assessed during the period from that date to the day before the date of payment of the first-mentioned dividend exceeds the tax deducted under subsection (1)from the first-mentioned dividend, the excess shall be carried forward as a balance to be set-off against the tax deducted from any ensuing dividend.
 
 [1/88]
 
-(5A) Upon payment of a dividend by a company during the period 1st January 2003 to 31st December 2007 from which tax has been deducted, whether the company is entitled to make the deduction or otherwise, the amount of tax deducted shall be deducted from the 44A balance of the company remaining on the day before the date of payment of the dividend, and in the event where the amount to be so deducted exceeds the said balance, a charge equal to the amount of such excess shall be paid to the Comptroller within 14 days from the date of payment of the dividend, and any amount of tax which remains unpaid on that date shall, notwithstanding section 85, be paid immediately to the Comptroller.
-
-[37/2002 wef 01/01/2003]
-
-(5B) Upon the payment of any dividend referred to in subsection (1)(b) or (c), the 44A balance of the company, after deducting the tax deducted from the dividend, if any, remaining on the date of payment of the dividend, shall be carried forward as a balance to be set-off against the tax deducted from any ensuing dividend paid on or before 31st December 2007 so long as the company has not exercised an irrevocable option under subsection (6A).
-
-[Act 37/2002; Act 21/2003 wef 01/04/2003]
-
-(5C) For the purpose of subsection (5A), where a dividend is paid by a company which has not been subjected to the provisions of section 44 in force immediately before 1st January 2003, or which has exercised an option under subsection (6A) before payment of the dividend, the 44A balance of the company remaining on the day before the date of payment of the dividend shall be deemed to be nil.
-
-[Act 37/2002; Act 21/2003 wef 01/04/2003]
-
-(6) Subject to subsection (6B), every company resident in Singapore which —
-
-(a) whether has or has not, during the period from 1st January 2003 to 31st March 2003; or
-
-(b) has, during the period from 1st April 2003 to 31st December 2007,
-
-a 44A balance and has paid dividend at any time during those periods shall deduct tax from the dividend as provided under subsection (1) unless otherwise provided in this Act or unless the company has exercised an irrevocable option under subsection (6A).
-
-[37/2002 wef 01/01/2003]
-
-(6A) Any company to which subsection (6) applies may exercise an irrevocable option in writing not to deduct tax under subsection (1) and where such an option is made, the company shall not be entitled to deduct tax under subsection (1) upon the exercise of the option.
-
-[Act 37/2002; Act 21/2003 wef 01/04/2003]
-
-(6B) Notwithstanding the exercise of an irrevocable option under subsection (6A) by a company, section 44A shall continue to apply to the company.
-
-[37/2002 wef 01/01/2003]
-
-(6C) Where at any date during the period from 1st April 2003 to 31st December 2007 a company which is resident in Singapore has not exercised an option under subsection (6A), and the 44A balance of the company is reduced to nil, the company shall not be entitled to deduct tax from dividends under subsection (1) so long as the balance remains as nil on or after that date.
-
-[37/2002 wef 01/01/2003]
-
-(7) Where no charge is payable by a company under subsection (4) or (5A) but the amount of tax deducted by the company under subsection (1) exceeds —
-
-(a) the aggregate amount as computed under subsection (4)(a) or (b) less any amount of tax assessed on the company but not paid; or
-
-(b) the amount as computed under subsection (5A) less any amount of tax assessed on the company which formed part of the 44A balance of the company but not paid,
-
-as the case may be, a sum equal to such excess shall be paid by the company to the Comptroller immediately on the date of payment of the dividend.
-
-[37/2002 wef 01/01/2003]
-
-(8) On the payment of any dividendfrom which tax has been deducted or is deductible, every company shall render to the Comptroller a statement, in such form as the Comptroller may direct, containing such particulars as may be required for the purpose of determining the balance, the 44A balance or charge immediately after the payment of the dividend.
+(6) Where any tax assessed which has been taken into account for the purposes of subsection (4) is subsequently reduced and as a result a charge or additional charge arises under that subsection, the charge or additional charge shall be paid to the Comptroller within 14 days of the notice of the charge or additional charge.
 
 [1/88]
 
-(9) Without prejudice to subsection (8), within 3 months from the end of each year of assessment before the year of assessment 2008 or such longer period as the Comptroller may allow, every such company shall render to the Comptroller a statement, in such form as the Comptroller may direct, containing such particulars as may be required for the purpose of determining the balance or the 44A balance to be carried forward to the first day of the ensuing year of assessment.
+(7) Where no charge under subsection (4) arises but the amount of tax deducted under subsection (1) exceeds the aggregate amount as computed under subsection (4)(a) or (b) less any amount of tax assessed on the company but not paid, a sum equal to such excess shall be paid to the Comptroller immediately on the date of payment of the dividend.
+
+[1/88]
+
+(8) On the payment of any dividend, every company shall render to the Comptroller a statement, in such form as the Comptroller may direct, containing such particulars as may be required for the purpose of determining the balance or charge immediately after the payment of the dividend.
+
+[1/88]
+
+(9) Without prejudice to subsection (8), within 3 months from the end of each year of assessmentor such longer period as the Comptroller may allow, every such company shall render to the Comptroller a statement, in such form as the Comptroller may direct, containing such particulars as may be required for the purpose of determining the balanceto be carried forward to the first day of the ensuing year of assessment.
 
 [1/88; 3/89; 32/95]
 
@@ -6784,47 +6678,43 @@ as the case may be, a sum equal to such excess shall be paid by the company to t
 
 [28/92]
 
-(11) Any charge or additional charge paid by a company to the Comptroller under subsection (4) shall be used to set-off any tax assessed on it subsequent to the charge or additional charge but before 1st January 2008 and the amount of such tax to be taken into account for computing the charge or balance under subsection (4) or (5) shall be reduced by the amount of the set-off.
+(11) Any charge or additional charge paid by a company to the Comptrollershall be used to set-off any tax assessed on it subsequent to the charge or additional chargeand the amount of such tax to be taken into account for computing the charge or balance under subsection (4) or (5) shall be reduced by the amount of the set-off.
 
 [1/88]
 
-(12) Any charge or additional charge paid by a company to the Comptroller under subsection (5A) shall only be used to set-off any tax assessed on the estimated chargeable income for the year of assessment 2003 referred to in section 44A(5).
+(12) If any charge or additional charge referred to in subsection (4) or (6) is not paid to the Comptroller within the period prescribed for the payment of the charge, section 87 shall have effect in relation to the charge or additional charge, and the provisions of this Act relating to the collection and recovery of tax shall apply to the collection and recovery of the charge or additional charge and penalties imposed thereon.
 
-[37/2002 wef 01/01/2003]
+[1/88]
 
-(13) If any charge or additional charge referred to in subsection (4) or (5A) or section 44A(8) is not paid to the Comptroller within the period prescribed for the payment of the charge, section 87 shall have effect in relation to the charge or additional charge, and the provisions of this Act relating to the collection and recovery of tax shall apply to the collection and recovery of the charge or additional charge and penalties imposed thereon.
+(13) Notwithstanding anything in this Act, where the tax on any dividend paid in the year 2001 has been deducted at the rate of 25.5% —
 
-[37/2002 wef 01/01/2003]
+(a) the amount of such dividend received by a shareholder shall be deemed to have been paid without deduction of tax and to be a dividend of such a gross amount as after deduction of tax at the rate of 24.5% would be equal to the net amount paid; and a sum equal to the difference between such gross amount and the net amount paid shall be deemed to have been deducted from the dividend as tax; and
+
+(b) the difference between the amount of the tax deducted at 25.5% from such dividend and the amount deemed to have been so deducted under paragraph (a) shall be added to the balance on the first day of the year of assessment 2002 and deemed to be a part thereof.
+
+[24/2001]
 
 (14) For the purposes of this section —
 
-(a) subject to paragraph (b), where any dividend (other than any dividend paid by virtue of subsection (3)) has been paid under subsection (1) without deduction of tax, such dividend or part thereof, from which a company was entitled to deduct tax, shall be deemed to be a dividend of such a gross amount as after deduction of tax at the relevant rate applicable at the date of payment would be equal to the net amount paid; and a sum equal to the difference between such gross amount and the net amount paid shall be deemed to have been deducted from such dividend or part thereof as tax;
+(a) subject to paragraph (b), where any dividend (other than any dividend paid by virtue of subsection (3)) has been paidwithout deduction of tax, such dividend or part thereof, from which a company was entitled to deduct tax, shall be deemed to be a dividend of such a gross amount as after deduction of tax at the rate deductible at the date of payment would be equal to the net amount paid; and a sum equal to the difference between such gross amount and the net amount paid shall be deemed to have been deducted from such dividend or part thereof as tax;
 
-(b) where any dividend has been paid and any amount of the charge referred to in subsection (4) or (5A) or any amount of tax payable referred to in subsection (4), (5A) or (7) is not paid within 14 days from the date of payment of that dividend or by 31st December of the year in which the dividend is paid, whichever is the later, the dividend shall be chargeable to tax on the basis of the net amount received by the shareholder;
+(b) where any dividend has been paid and any amount of the charge referred to in subsection (4)or any amount of tax payable referred to in subsection (4) or (7) is not paid within 14 days from the date of payment of that dividend or by 31st December of the year in which the dividend is paid, whichever is the later, the dividend shall be chargeable to tax on the basis of the net amount received by the shareholder;
 
-(c) in relation to any company, the balance on 1st January of any year of assessment before the year of assessment 2003 shall be the aggregate of —
+(c) in relation to any company, the balance on 1st January of any year of assessmentshall be the aggregate of —
 
 (i) the balance carried forward after the payment of the last dividend in the preceding year of assessment as computed in accordance with subsection (5); and
 
 (ii) any tax assessed during the period from the date of the payment of that dividend to the end of the preceding year of assessment;
 
-(d) in determining under subsection (4), (5A) or (7) the amount of tax assessed and not paid, any payment made to the Comptroller shall be applied first to the payment of any penalties before the payment of tax;
+(d) in determining under subsection (4) or (7) the amount of tax assessed and not paid, any payment made to the Comptroller shall be applied first to the payment of any penalties before the payment of tax;
 
 (e) tax assessed excludes —
 
 (i) tax assessed at the rate of 10% or such other rate as may be prescribed under section 43(9); and
 
-(ii) tax assessed at the rate of 10% or such other concessionary rate as may be prescribed under section 13H, 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L, 43M, 43N, 43O or 43P, or section 19B or 19J of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86);
+(ii) tax assessed at the rate of 10% or such other concessionary rate as may be prescribed under section 13H, 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L, 43M, 43Nor 43O, or section 19B or 19J of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86); and
 
-(f) any balance or tax assessed which has been taken into account for the purpose of determining the charge or balance under subsection (4), (5), (5A) or (5B) upon the payment of any dividend shall be regarded as having been utilised for that purpose notwithstanding that no set-off has been allowed in respect of that dividend under section 46(3); and
-
-(g) relevant rate of tax —
-
-(i) in relation to a dividend paid from 1st January 2001 to 31st December 2001, is 24.5%; and
-
-(ii) in relation to a dividend paid from 1st January 2002, is 22%.
-
-[37/2002 wef 01/01/2003]
+(f) any balance or tax assessed which has been taken into account for the purpose of determining the charge or balance under subsection (4) or (5) upon the payment of any dividend shall be regarded as having been utilised for that purpose notwithstanding that no set-off has been allowed in respect of that dividend under section 46(3).
 
 [1/88; 28/92; 26/93; 32/95; 1/98; 31/98; 32/99; 24/2000; 24/2001]
 
@@ -7058,19 +6948,33 @@ ALLOWANCES FOR TAX CHARGED
 
 (a) which a person has deducted or is entitled to deduct from any dividend under section 44 or has deducted from any interest or other payment under section 45, 45A, 45C, 45D or 45E(1)(a) or has deducted from any remuneration under section 45B; or
 
-(b) applicable to the share to which any person is entitled in the income of a body of persons or trust,
+(b) applicable to the share to which any person is entitled in the income of a body of persons or trust; or
+
+(c) which a person has deducted from any payment under section 45F in respect of income accrued to or derived by any person who has made an option under section 43(3B),
+
+[37/2002 wef 03/05/2002]
 
 shall, when the income from which the tax has been deducted or when the share referred to in paragraph (b) is included in the chargeable income of any person, be set-off for the purpose of collection against the tax charged on that chargeable income.
 
 [7/79; 23/90; 23/96; 24/2001]
 
-(2) Notwithstanding subsection (1), where the tax on any dividend paid in the year 2001 has been deducted at the rate of 25.5%, the tax to be set-off under subsection (1) shall be the sum deemed to be the tax deducted from such dividend under section 44(13).
+(1A) For the purpose of subsection (1), the amount of tax deducted from a dividend under section 44(1) to be set-off for the purpose of collection against the tax charged on the chargeable income of any person shall not exceed —
 
-[24/2001]
+(a) the actual amount of tax deducted from the dividend received by that person; or
 
-(3) Notwithstanding subsection (1), if any amount of the charge referred to in section 44(4) or any amount of tax payable referred to in section 44(4) or (7) is not paid within 14 days from the date of payment of any dividend to which the charge or tax relates or by 31st December of the year in which the dividend is paid, whichever is the later, no set-off against tax under subsection (1) shall be allowed in respect of the whole of the dividend.
+(b) the amount of tax to be deducted from the dividend in accordance with the proportion of his shareholding in the company,
 
-[1/88]
+whichever is the lower.
+
+[37/2002 wef 10/12/2002]
+
+(2) Notwithstanding subsection (1), where the tax on any dividend paid in the year 2002 has been deducted at the rate of 24.5%, the tax to be set-off under subsection (1) shall be the sum deemed to be the tax deducted from such dividend under section 44A(4).
+
+[37/2002 wef 10/12/2002]
+
+(3) Notwithstanding subsection (1), if any amount of the charge referred to in section 44(4) or (5A), or any amount of tax payable referred to in section 44(4), (5A) or (7) is not paid within 14 days from the date of payment of any dividend to which the charge or tax relates or by 31st December of the year in which the dividend is paid, whichever is the later, no set-off against tax under subsection (1) shall be allowed in respect of the whole of the dividend.
+
+[37/2002 wef 01/01/2003]
 
 (4) No set-off shall be allowed under subsection (1) in respect of any dividend paid to any person by virtue of section 44(3).
 
@@ -7084,7 +6988,7 @@ shall, when the income from which the tax has been deducted or when the share re
 
 [24/2000]
 
-(6) Any amount of set-off in excess for any year of assessment which is not available for refund to any person under subsection (5) shall not be set-off against the tax payable by the person for any other year of assessment and shall not be regarded as tax assessed for the purposes of section 44.
+(6) Any amount of set-off in excess for any year of assessment which is not available for refund to any person under subsection (5) shall not be set-off against the tax payable by the person for any other year of assessment and shall not be regarded as tax assessed for the purposes of sections 44 and 44A.
 
 [24/2000]
 
@@ -8320,7 +8224,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [2/92; 24/2000]
 
-(2) Any penalty imposed under section 44 (13), 45(4), 87(1) or 91(2A) shall be deemed to be interest on tax for the purposes of section 33(2) of the Limitation Act (Cap. 163).
+(2) Any penalty imposed under section 44(13), 45(4), 87(1) or 91(2A) shall be deemed to be interest on tax for the purposes of section 33(2) of the Limitation Act (Cap. 163).
 
 [2/92]
 
@@ -8732,9 +8636,9 @@ For every dollar exceeding
 
 22.0%
 
-[29/95; 1/96; 7/96; 32/99; 41/99; 9/2000; 3/2001; 17/2001; S 148/76; S 38/77; S 217/80; S 158/82; S 183/83; S 137/84; S 138/84; S 217/84; S 26/85; S 79/88; S 379/89; S 380/89; S 381/90; S 382/90; S 383/90; S 317/91; S 562/91; S 210/92; S 412/92; S 259/95; S 33/96; S 67/96; S 302/96; S 372/97; S 372/98; S 267/99; S 485/99]
+[29/95; 1/96; 7/96; 32/99; 41/99; 9/2000; 3/2001; 17/2001; S 148/76; S 38/77; S 217/80; S 158/82; S 183/83; S 137/84; S 138/84; S 217/84; S 26/85; S 79/88; S 379/89; S 380/89; S 381/90; S 382/90; S 383/90; S 317/91; S 562/91; S 210/92; S 412/92; S 259/95; S 33/96; S 67/96; S 302/96; S372/97; S 372/98; S 267/99; S 485/99]
 
-[Act 37/2002]
+[Act 37/2002, Y/A 2003 & Sub Ys/A]
 
 Part B
 
@@ -9827,6 +9731,11 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 39/2002 published on 1 November 2002)|
 ||Date of Second and Third Readings|25 November 2002|
 ||Date of commencement|1 January 2003|
+|163.|**Act 21 of 2003—Income Tax (Amendment) Act 2003**|
+||Date of First Reading|16 October 2003|
+|||(Bill No. 28/2003 published on 17 October 2003)|
+||Date of Second and Third Readings|11 November 2003|
+||Date of commencement|28 February 2003 (Section 40)|
 ## COMPARATIVE TABLE
 
 Income Tax Act
