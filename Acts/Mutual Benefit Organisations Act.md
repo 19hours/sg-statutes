@@ -460,7 +460,9 @@ At any meeting mentioned in this section, a declaration by the chairman that the
 
 (a) the property of the organisation within Singapore shall forthwith vest either in the Official Assignee or in such other officer as may be appointed for the purpose of winding up by the Minister;
 
-(b) the Official Assignee or that other officer shall proceed to wind up the affairs of the organisation and after satisfying and providing for all debts and liabilities of the organisation and the costs of winding up, shall divide the surplus assets, if any, of the organisation amongst the members of the organisation according to the rules of the organisation, if any, or if there are no such rules applicable to such a case, then equally, but if by reason of the great number of members, or the difficulty of ascertaining the persons entitled to the assets or if from any other cause such a division is, in the opinion of the Official Assignee or that other officer, impracticable, he shall prepare and submit to a Judge of the Supreme Court for his approval a scheme for the application of the surplus assets to purposes for the benefit of that portion of the public to which the members of the organisation more particularly belonged or of the public generally;
+(b) the Official Assignee or that other officer shall proceed to wind up the affairs of the organisation and after satisfying and providing for all debts and liabilities of the organisation and the costs of winding up, shall divide the surplus assets, if any, of the organisation amongst the members of the organisation according to the rules of the organisation, if any, or if there are no such rules applicable to such a case, then equally, but if by reason of the great number of members, or the difficulty of ascertaining the persons entitled to the assets or if from any other cause such a division is, in the opinion of the Official Assignee or that other officer, impracticable, he shall prepare and submit to a Judge of the High Court for his approval a scheme for the application of the surplus assets to purposes for the benefit of that portion of the public to which the members of the organisation more particularly belonged or of the public generally;
+
+[Act 16/93 wef 01/07/1993]
 
 (c) such a scheme, when submitted for approval, may be amended by the Judge in such a way as he thinks proper under the circumstances of the case;
 
@@ -737,3 +739,9 @@ This Legislative History is provided for the convenience of users of the Mutual 
 ||Date of commencement|8 July 1974|
 |5.|**1985 Revised Edition—Mutual Benefit Organisations Act**|
 ||Date of operation|30 March 1987|
+|6.|**Act 16 of 1993—Supreme Court of Judicature (Amendment) Act 1993**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 February 1993|
+|||(Bill No. 12/1993 published on 27 February 1993)|
+||Date of Second and Third Readings|12 April 1993|
+||Date of commencement|1 July 1993|
