@@ -1,16 +1,14 @@
-**National Council of Social Service Act 1992**
+**National Council of Social Service Act**
 
-**(No. 14 of 1992)**
+**(CHAPTER 195A)**
 
 **Table of Contents**
 
 [**Long Title**](#National-Council-of-Social-Service-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -68,7 +66,7 @@
 
 - [24 Transfer of assets and liabilities](#Transfer-of-assets-and-liabilities)
 
-- [25 Existing agreement, etc](#Existing-agreement-etc)
+- [25 Existing agreement, etc.](#Existing-agreement-etc)
 
 - [26 Pending legal proceedings](#Pending-legal-proceedings)
 
@@ -104,55 +102,33 @@
 
 - [40 Regulations](#Regulations)
 
-- [41 Repeal](#Repeal)
+[**Legislative History**](#Legislative-History)
 
-REPUBLIC OF SINGAPORE
+# National Council of Social Service Act
 
-GOVERNMENT GAZETTE
+(CHAPTER 195A)
 
-ACTS SUPPLEMENT
+(Original Enactment: Act 14 of 1992)
 
-Published by Authority
+REVISED EDITION 1993
 
-NO. 16]
+(15th March 1993)
 
-Friday, April 10
+An Act to establish the National Council of Social Service and for matters connected therewith.
 
-[1992
-
-The following Act was passed by Parliament on 20th March 1992 and assented to by the President on 30th March 1992:—
-
-National Council Of Social Service Act 1992
-
-(No. 14 of 1992)
-
-I assent.
-
-WEE KIM WEE
-
-President.
-
-30th March 1992.
-
-Date of Commencement: 1st May 1992
-
-An Act to establish the National Council of Social Service and for matters connected therewith, and to repeal the Singapore Council of Social Service Act (Chapter 299 of the 1985 Revised Edition).
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st May 1992]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the National Council of Social Service Act 1992 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the National Council of Social Service Act.
 
 ### Interpretation
 
 2\. In this Act, unless the context otherwise requires —
-
-“appointed day” means the date of commencement of this Act;
 
 “Board” means the Board of the Council;
 
@@ -172,7 +148,7 @@ PRELIMINARY
 
 “President” means the President of the Board;
 
-“Singapore Council of Social Service” means the Singapore Council of Social Service established under the repealed Singapore Council of Social Service Act [Cap. 299] in force before the appointed day;
+“Singapore Council of Social Service” means the Singapore Council of Social Service established under the repealed Singapore Council of Social Service Act [Cap. 299] in force before 1st May 1992;
 
 “Vice-President” means the Vice-President of the Board.
 
@@ -222,9 +198,9 @@ ESTABLISHMENT OF COUNCIL
 
 (2) The Board may, in its discretion, co-opt up to 3 persons to be members for a term not exceeding two years who shall not be eligible to vote on any issue at the meetings of the Council or the Board.
 
-(3) The President shall hold office for such term not exceeding two years as the Minister thinks fit, and shall be eligible for reappointment.
+(3) The President shall hold office for such term not exceeding two years as the Minister thinks fit and shall be eligible for reappointment.
 
-(4) The Honorary General Secretary and the Honorary Treasurer shall be appointed by the President for such term not exceeding two years as the President thinks fit, and shall be eligible for reappointment except that the Honorary Treasurer shall not serve for more than two consecutive terms.
+(4) The Honorary General Secretary and the Honorary Treasurer shall be appointed by the President for such term not exceeding two years as the President thinks fit and shall be eligible for reappointment except that the Honorary Treasurer shall not serve for more than two consecutive terms.
 
 (5) If for reason of illness, leave of absence or other cause, the President is unable to exercise his powers and perform his functions under this Act or any regulations made thereunder, the Vice-President shall exercise the powers and perform the functions of the President; and if the Vice-President is unable to do so, any other member, with the approval of the Minister, shall act as President and shall exercise the powers and perform the functions of the President.
 
@@ -390,7 +366,7 @@ MEMBERSHIP OF COUNCIL
 
 (4) Any person, firm, corporation or organisation that has rendered outstanding social service may be invited to be an honorary member of the Council for such period as the Council thinks fit.
 
-(5) Any organisation which is a full or associate member of the Singapore Council of Social Service immediately before the appointed day shall, on and after that day, be a member of the Council and shall be given the option to remain as a full or associate member or, in the case of a full member, to change its membership to an associate member if it satisfies the requirement of an associate member under subsection (3).
+(5) Any organisation which is a full or associate member of the Singapore Council of Social Service immediately before 1st May 1992 shall, on and after that date, be a member of the Council and shall be given the option to remain as a full or associate member or, in the case of a full member, to change its membership to an associate member if it satisfies the requirement of an associate member under subsection (3).
 
 ### Fees for membership
 
@@ -432,7 +408,7 @@ PROVISIONS RELATING TO STAFF
 
 (2) The chief executive officer shall be responsible to the Board for the proper administration and management of the Council in accordance with the policy laid down by the Board.
 
-(3) If the chief executive officer is temporarily absent from Singapore or temporarily incapacitated by reason of illness or for other reasons temporarily unable to perform his duties, any person may be appointed by the Board to act in the place of the chief executive officer during any such period of absence from duty.
+(3) If the chief executive officer is temporarily absent from Singapore or temporarily incapacitated by reason of illness or for other reasons temporarily unable to perform his duties, any person may be appointed by the Board to act the place of the chief executive officer during any such period of absence from duty.
 
 ### Appointment of staff
 
@@ -448,15 +424,15 @@ TRANSFER OF ASSETS AND LIABILITIES
 
 ### Transfer of assets and liabilities
 
-24\. As from the appointed day, all moneys belonging to the Singapore Council of Social Service Fund established under the Singapore Council of Social Service Act [Cap. 299] in force before that day and all property, movable and immovable, assets, rights and interests vested in the Singapore Council of Social Service immediately before that day, and all outstanding debts, liabilities and obligations incurred by the Singapore Council of Social Service in connection therewith shall be transferred to and shall vest in the Council without further assurance.
+24\. As from 1st May 1992, all moneys belonging to the Singapore Council of Social Service Fund established under the repealed Singapore Council of Social Service Act [Cap. 299] in force before that date and all property, movable and immovable, assets, rights and interests vested in the Singapore Council of Social Service immediately before that date, and all outstanding debts, liabilities and obligations incurred by the Singapore Council of Social Service in connection therewith shall be transferred to and shall vest in the Council without further assurance.
 
-### Existing agreement, etc
+### Existing agreement, etc.
 
-25\. All deeds, bonds, agreements, instruments and working arrangements, subsisting immediately before the appointed day, affecting any of the property, rights, interests, liabilities and obligations transferred to or vested in the Council under section 24 shall continue in force on and after that day and shall be enforceable by or against the Council as if, instead of the Singapore Council of Social Service or any person acting on its behalf, the Council had been named therein or had been a party thereto.
+25\. All deeds, bonds, agreements, instruments and working arrangements, subsisting immediately before 1st May 1992, affecting any of the property, rights, interests, liabilities and obligations transferred to or vested in the Council under section 24 shall continue in force on and after that date and shall be enforceable by or against the Council as if, instead of the Singapore Council of Social Service or any person acting on its behalf, the Council had been named therein or had been a party thereto.
 
 ### Pending legal proceedings
 
-26\. Any proceedings or cause of action pending or existing immediately before the appointed day by or against the Singapore Council of Social Service or any person acting on its behalf may be continued and shall be enforced by or against the Council.
+26\. Any proceedings or cause of action pending or existing immediately before 1st May 1992 by or against the Singapore Council of Social Service or any person acting on its behalf may be continued and shall be enforced by or against the Council.
 
 ## PART VII
 
@@ -558,7 +534,20 @@ MISCELLANEOUS
 
 (d) the returns to be submitted to the Council by its members of their annual reports, audited accounts and such information as the Council may require for carrying out its objects.
 
-### Repeal
+## LEGISLATIVE HISTORY
 
-41\. The Singapore Council of Social Service Act [Cap. 299] is repealed.
+National Council of Social Service Act
 
+(CHAPTER 195A)
+
+This Legislative History is provided for the convenience of users of the National Council of Social Service Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 14 of 1992—National Council of Social Service Act 1992**|
+||Date of First Reading|27 February 1992|
+|||(Bill No. 15/92 published on 28 February 1992)|
+||Date of Second and Third Readings|20 March 1992|
+||Date of commencement|1 May 1992|
+|2.|**1993 Revised Edition—National Council of Social Service Act**|
+||Date of operation|15 March 1993|
