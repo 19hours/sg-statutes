@@ -240,7 +240,7 @@ SKILLS DEVELOPMENT FUND
 
 ### Investment
 
-10\. The Agency may invest the moneys belonging to the Fund and available for investment in accordance with the provisions of the Trustees Act (Cap. 337) as to the investment of trust funds or, with the approval of the Minister, in any other manner.
+10\. The Agency may invest the moneys belonging to the Fund and available for investment in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
 
 [11
 
@@ -506,7 +506,12 @@ SECOND SCHEDULE
 
 Section 25
 
-Matters in Respect of Which Agency May Make Regulations
+Matters in Respect of Which Agency
+
+
+
+
+May Make Regulations
 
 1\. Requiring employers to give notice of their liability to pay the levy and the manner in which the notice shall be given.
 
@@ -585,3 +590,9 @@ This Legislative History is provided for the convenience of users of the Skills 
 |||(Bill No. 13/2003 published on 1 July 2003)|
 ||Date of Second and Third Readings|15 August 2003|
 ||Date of commencement|1 September 2003|
+|13.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 September 2004|
+|||(Bill No. 43/2004 published on 22 September 2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|15 December 2004|
