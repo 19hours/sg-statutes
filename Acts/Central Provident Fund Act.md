@@ -1332,11 +1332,7 @@ HOME PROTECTION INSURANCE SCHEME
 
 (4) The Board may, on the application being made to it by a member, exempt the member from the Scheme.
 
-[39/2000 wef 01/03/2001]
-
 (4A) Any exemption by the Board under subsection (4) shall be subject to such terms and conditions as may be prescribed by the Minister.
-
-[39/2000 wef 01/03/2001]
 
 (5) The Scheme shall not apply to —
 
@@ -1349,8 +1345,6 @@ HOME PROTECTION INSURANCE SCHEME
 [30/87; 10/94]
 
 (5A) Notwithstanding subsection (5), the Scheme shall not apply to any member who is 60 years of age or above but below 65 years of age on the date of commencement of the Central Provident Fund (Amendment) Act 2000 unless that member opts, in such manner as the Board may determine, to join the Scheme.
-
-[39/2000 wef 01/03/2001]
 
 (6) Any person who became a member of the Scheme prior to 1st March 1988 shall continue to be a member of the Scheme subject to the same term, condition and restriction which were in force before that date.
 
@@ -1370,13 +1364,9 @@ HOME PROTECTION INSURANCE SCHEME
 
 (3) Where a member’s cover under the Scheme in respect of any immovable property ceases by virtue of subsection (2), the Board shall refund to the member in cash or by crediting to his ordinary account in the Fund as the Board thinks fit an amount representing the surrender value of his cover under the Scheme, if any, in respect of that property as on the date of cessation of cover calculated in accordance with regulations made under this Part as if the member had redeemed the housing loan on the property on that date.
 
-[39/2000 wef 01/03/2001]
-
 [30/98]
 
 (4) Where a member is insured under the Scheme before 1st August 1998 for more than one immovable property at the same time, the member’s cover under the Scheme in respect of the earlier of 2 immovable properties purchased by him shall cease on that date and the Board shall refund to the member an amount representing the surrender value of his cover under the Scheme, if any, in respect of that property as on that date in the manner provided in subsection (3).
-
-[39/2000 wef 01/03/2001]
 
 [30/98]
 
@@ -1406,15 +1396,9 @@ HOME PROTECTION INSURANCE SCHEME
 
 (3) The deduction referred to in subsection (2) shall have priority to all other deductions which the Board is authorised to make under this Act or any regulations made thereunder.
 
-[39/2000 wef 01/03/2001]
-
 (4) Where the amount of the premium which a member is liable to pay under the Scheme exceeds the amount standing to his credit in the Fund, the deficiency may be paid in such manner and within such time as the Board may determine.
 
-[39/2000 wef 01/03/2001]
-
 (5) Where a joint-owner of an immovable property is insured under the Scheme, the Board may permit a joint-owner who is a spouse of the first-mentioned joint-owner to use his contributions in the Fund to pay for the whole or part of the premium which the first-mentioned joint-owner is liable to pay under the Scheme.
-
-[39/2000 wef 01/03/2001]
 
 ### Establishment of Home Protection Fund
 
@@ -1438,15 +1422,9 @@ HOME PROTECTION INSURANCE SCHEME
 
 (3) For the avoidance of doubt, where the housing loan is taken from a Housing Authority or an approved mortgagee by 2 or more members of the Scheme in respect of property purchased jointly by the members, the monthly or other periodic loan instalments payable by the Board under subsection (2) on account of the incapacity of a member shall be in proportion to that member’s liability for the repayment of the housing loan as declared by that member to, and accepted by, the Board.
 
-[39/2000 wef 01/03/2001]
-
 (3A) The Board shall cease payment to the Housing Authority or the approved mortgagee under subsection (2) if the member of the Scheme is no longer incapacitated.
 
-[39/2000 wef 01/03/2001]
-
 (3B) Where the Board ceases payment to the Housing Authority or the approved mortgagee under subsection (3A), the member of the Scheme shall remain insured under the Scheme for such an amount as is prescribed under regulations made under this Part less any amount that the Board has paid under subsection (2).
-
-[39/2000 wef 01/03/2001]
 
 (3C) Notwithstanding subsection (2), if the incapacity of the member of the Scheme is in the opinion of the Board likely to continue for more than 2 years, the Board shall pay the Housing Authority or the approved mortgagee such an amount as is determined in accordance with the formula —
 
@@ -1464,11 +1442,7 @@ C
 
 is the total amount paid by the Board to the Housing Authority or the approved mortgagee under subsection (2).
 
-[39/2000 wef 01/03/2001]
-
 (3D) Where a claim under the Scheme is made in respect of the incapacity of a member of the Scheme, the Board may backdate any payment to be made by the Board to the Housing Authority or the approved mortgagee under this section to the date on which the incapacity occurred.
-
-[39/2000 wef 01/03/2001]
 
 (4) The amount payable by the Board to the Housing Authority or the approved mortgagee under this section on the death or incapacity of a member of the Scheme shall in no case exceed the amount which is necessary to repay the outstanding amount of any loan and interest accruing thereon in order to secure the discharge of the mortgage of the immovable property at the time of the death or incapacity.
 
@@ -1482,15 +1456,9 @@ is the total amount paid by the Board to the Housing Authority or the approved m
 
 (ii) in the case of a member who was insured under the Scheme on or after the date of commencement of the Central Provident Fund (Amendment) Act 2000, is the result of suicide or deliberate self-injury committed within one year from the date that he is insured under the Scheme;
 
-[39/2000 wef 01/03/2001]
-
 (aa) if the member suffered capital punishment for any criminal act committed within one year from the date that he is insured under the Scheme;
 
-[39/2000 wef 01/03/2001]
-
 (ab) if the death or incapacity of the member, directly or indirectly, arose out of or is consequent upon or contributed by his own intentional criminal act committed within one year from the date that he is insured under the Scheme; or
-
-[39/2000 wef 01/03/2001]
 
 (b) if the death or incapacity of that member arises from war or any warlike operations or participation in any riot.
 
@@ -1522,21 +1490,13 @@ is the total amount paid by the Board to the Housing Authority or the approved m
 
 (a) provide for the different classes of members of the Scheme and the rates of premium payable by such members;
 
-[39/2000 wef 01/03/2001]
-
 (aa) provide for the manner and time for payment of premiums by the different classes of members of the Scheme;
 
-[39/2000 wef 01/03/2001]
-
 (ab) provide for the period and commencement of cover under the Scheme;
-
-[39/2000 wef 01/03/2001]
 
 (b) provide for the amount of money payable by the Board to the Housing Authority or the approved mortgagee in the event of the death or incapacity of a member of the Scheme;
 
 (ba) provide for the amount of money payable by the Board under the Scheme where the prescribed premium has not been fully paid;
-
-[39/2000 wef 01/03/2001]
 
 (c) provide for the refund of any premium and the circumstances under which the refund shall be made and at such rates as may be prescribed by the Minister;
 
@@ -1708,8 +1668,6 @@ shall be insured under the Scheme.
 
 (3A) Where the Board ceases payment under subsection (2), the insured person shall remain insured under the Scheme for the insured sum remaining unpaid at the date that he is no longer incapacitated.
 
-[39/2000 wef 01/03/2001]
-
 (4) Notwithstanding anything contained in this Part, the Board shall not be liable to pay the insured sum in respect of any insured person —
 
 (a) if the death or incapacity of the person —
@@ -1718,15 +1676,9 @@ shall be insured under the Scheme.
 
 (ii) in the case of a person who was insured under the Scheme on or after the date of commencement of the Central Provident Fund (Amendment) Act 2000, is the result of suicide or deliberate self-injury committed within one year from the date that he is insured under the Scheme;
 
-[39/2000 wef 01/03/2001]
-
 (aa) if the person suffered capital punishment for any criminal act committed within one year from the date that he is insured under the Scheme;
 
-[39/2000 wef 01/03/2001]
-
 (ab) if the death or incapacity of the person, directly or indirectly, arose out of or is consequent upon or contributed by his own intentional criminal act committed within one year from the date that he is insured under the Scheme;
-
-[39/2000 wef 01/03/2001]
 
 (b) if the incapacity or death of that person arises from war or any warlike operations or participation in any riot;
 
@@ -2220,17 +2172,11 @@ the amount paid in error shall not be refunded but shall be deemed to have been 
 
 (h) to provide for members of the Fund to apply, assign or withdraw all or part of the contributions and interest standing to their credit in the Fund for the purchase or acquisition of immovable properties or to repay any loan taken to finance or re-finance the purchase or acquisition of immovable properties including the payment of costs, fees or other incidental expenses incurred for the purchase or acquisition of immovable property or for obtaining any loan to finance or re-finance such purchase or acquisition or in connection with withdrawals of any money from the Fund;
 
-[39/2000 wef 01/03/2001]
-
 (i) to provide for members of the Fund to apply or withdraw all or part of the contributions and interest standing to their credit in the Fund —
 
 (i) for the repayment of any loan taken to finance or re-finance the purchase or acquisition of any land (with or without any building thereon) and the cost incurred for the construction of any dwelling-house thereon, including the payment of any cost, fee or other incidental expense incurred for the purchase or acquisition of that land and the construction of the dwelling-house; and
 
-[39/2000 wef 01/03/2001]
-
 (ii) for the reimbursement of the cost for the purchase or acquisition of any land (with or without any building thereon) and the construction of any dwelling-house thereon, including the payment of any cost, fee or other incidental expense incurred for the purchase or acquisition of that land and the construction of the dwelling-house;
-
-[39/2000 wef 01/03/2001]
 
 (j) with respect to the withdrawal of money from the medisave account of a member for medical treatment or services received by him, his spouse, child, parent or such other persons as may be prescribed;
 
@@ -2253,8 +2199,6 @@ the amount paid in error shall not be refunded but shall be deemed to have been 
 (q) as are necessary or expedient for giving full effect to the purposes and provisions of this Act.
 
 [19/83; 32/84; 16/86; 5/87; 22/90; 27/92; 29/93; 10/94]
-
-[39/2000 wef 01/01/2001]
 
 (2) The Board may, in addition to the other duties imposed and powers conferred upon it under this Act, make rules —
 
@@ -2546,6 +2490,20 @@ An amount equal to the sum of —
 
 (8) Economic Development Board.
 
+(8A) Energy Market Authority of Singapore.
+
+[S 313/2001 wef 01/04/2001]
+
+(8A8B) Health Promotion Board.
+
+[S 167/2001 wef 01/04/2001]
+
+[S 313/2001 wef 01/04/2001]
+
+(8C) Health Sciences Authority.
+
+[S 313/2001 wef 01/04/2001]
+
 (9) Housing and Development Board.
 
 (10) Info-communications Development Authority of Singapore.
@@ -2555,6 +2513,10 @@ An amount equal to the sum of —
 (12) Institute of Southeast Asian Studies.
 
 (13) Institute of Technical Education, Singapore.
+
+(13A) Intellectual Property Office of Singapore.
+
+[3/2001 wef 01/04/2001]
 
 (14) Jurong Town Corporation.
 
@@ -3172,6 +3134,16 @@ This Legislative History is provided for the convenience of users of the Central
 |||(Bill No. 34/2000 published on 13 November 2000)|
 ||Date of Second and Third Readings|22 November 2000|
 ||Date of commencement|1 March 2001 (sections 10, 11, 12, 13, 14, 15, 16 and 19 (a))|
+|116.|**Act 3 of 2001—Intellectual Property Office of Singapore Act 2001**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|12 January 2001|
+|||(Bill No. 1/2001 published on 13 January 2001)|
+||Date of Second and Third Readings|22 February 2001|
+||Date of commencement|1 April 2001|
+|117.|**G.N. No. S 167/2001—Central Provident Fund Act (Amendment of First Schedule) Notification 2001**|
+||Date of commencement|1 April 2001|
+|118.|**G.N. No. S 313/2001—Central Provident Fund Act (Amendment of First Schedule) (No. 2) Notification 2001**|
+||Date of commencement|1 April 2001|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
