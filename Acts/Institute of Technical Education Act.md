@@ -74,6 +74,8 @@
 
 - [28 Loans](#Loans)
 
+- [28A Issue of shares, etc.](#Issue-of-shares-etc)
+
 - [29 Investment of funds](#Investment-of-funds)
 
 - [30 Accounts to be kept](#Accounts-to-be-kept)
@@ -172,7 +174,7 @@ ESTABLISHMENT OF INSTITUTE
 
 ### Common seal
 
-4\.—(1) The Institute shall have a common seal and such seal may from time to time be broken, changed, altered and made anew as the Institute thinks fit.
+4\.—(1) The institute shall have a common seal and such seal may from time to time be broken, changed, altered and made anew as the Institute thinks fit.
 
 (2) All deeds, documents and other instruments requiring the seal of the Institute shall be sealed with the common seal of the Institute and every instrument to which the common seal is affixed shall be signed by a member and shall be countersigned by the Chief Executive Officer or by some other person duly authorised by the Board for that purpose, and such signing shall be sufficient evidence that the seal was duly and properly affixed and that the seal is the lawful seal of the Institute.
 
@@ -300,7 +302,7 @@ CONSTITUTION AND PROCEEDINGS OF BOARD OF GOVERNORS
 
 12\.—(1) A member who is, directly or indirectly, interested in a contract made, or proposed to be made, by the Board or any other matter which is before any meeting of the Board, shall disclose the nature of his interest at the first meeting of the Board at which he is present after the relevant facts have come to his knowledge.
 
-(2) A disclosure under subsection (I) shall be recorded in the minutes of the Board and, after the disclosure, that member —
+(2) A disclosure under subsection (1) shall be recorded in the minutes of the Board and, after the disclosure, that member —
 
 (a) shall not take part in any deliberation or discussion of, and shall not vote on any question with respect to, that contract or other matter; and
 
@@ -352,7 +354,7 @@ TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES
 
 (2) Until such time as schemes and terms and conditions of service are drawn up by the Institute, the schemes and terms and conditions of service in the Vocational and Industrial Training Board shall continue to apply to every person transferred to the service of the Institute under subsection (1) as if he were still in the service of that Board.
 
-(3) Where any person who is transferred to the service of the Institute under subsection (1) is a contributor under the Widows’ and Orphans’ Pension Act, he shall for the purposes of that Act continue to make contributions under that Act as if he had not been transferred to the service of the Institute; and for the purposes of that Act his service with the Institute shall be deemed to be service with the Government and the Institute shall have the right to make deductions from the salary of that person to be paid as contributions under that Act.
+(3) Where any person who is transferred to the service of the Institute under subsection (1) is a contributor under the Widows’ and Orphans’ Pension Act (Cap. 350), he shall for the purposes of that Act continue to make contributions under that Act as if he had not been transferred to the service of the Institute; and for the purposes of that Act his service with the Institute shall be deemed to be service with the Government and the Institute shall have the right to make deductions from the salary of that person to be paid as contributions under that Act.
 
 (4) Where any person who is transferred to the service of the Institute under subsection (1) was an employee of the Government transferred to the service of the Vocational and Industrial Training Board with his pension benefits in respect of that employment preserved, the Government shall be liable to pay to the Institute such portion of any such pension benefits payable on his retirement as the same shall bear to the proportion which the aggregate amount of his pensionable emoluments during his service with the Government bears to the aggregate amount of his pensionable emoluments during his service under the Government, the former Industrial Training Board, the Vocational and Industrial Training Board and the Institute.
 
@@ -412,7 +414,13 @@ FINANCIAL PROVISIONS
 
 ### Loans
 
-28\. The Institute may, from time to time, for the purposes of this Act, raise loans from the Government or with the consent of the Minister, from any source.
+28\. The Institute may, from time to time, for the purposes of this Act, raise loans from the Government or, with the consent of the Minister, from any source.
+
+### Issue of shares, etc.
+
+28A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Institute under this Act, or of any capital injection or other investment by the Government in the Institute in accordance with any written law, the Institute shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
+
+[5/2002 wef 15/07/2002]
 
 ### Investment of funds
 
@@ -490,7 +498,11 @@ MISCELLANEOUS
 
 38\.—(1) In relation to accidents happening to workmen (within the meaning of the Workmen’s Compensation Act) who attend courses or avail themselves of the facilities provided or approved by the Institute, that Act shall have effect subject to subsection (2).
 
+[5/2008 wef 01/04/2008]
+
 (2) For the purposes of the Workmen’s Compensation Act, any act done by a workman for the purposes of and in connection with his training referred to in subsection (1) shall, if it is not done for the purposes of and in connection with his employer’s trade or business, be deemed to be so done.
+
+[5/2008 wef 01/04/2008]
 
 ### Power to obtain information from employers
 
@@ -526,9 +538,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 41\. Proceedings in respect of any offence under this Act or any regulations made thereunder may be conducted by an employee of the Institute.
 
+[15/2010 wef 02/01/2011]
+
 ### Sanction of Public Prosecutor
 
 42\. No prosecution in respect of any offence under this Act or any regulations made thereunder shall be instituted except by or with the sanction of the Public Prosecutor.
+
+[15/2010 wef 02/01/2011]
 
 ### Offence by body corporate
 
@@ -546,7 +562,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (c) the regulation of examinations or tests to be conducted by any person for certification of technical skills;
 
-(d) the registration of apprentices and the conduct and supervision and regulation of apprenticeship programmes and schemes; and
+(d) the registration of apprentices and the conduct and supervision and regulation of apprenticeship programs and schemes; and
 
 (e) the appointment, promotion, conduct, disciplinary control, dismissal and termination of service of employees of the Institute.
 
@@ -562,7 +578,7 @@ Institute of Technical Education Act
 
 (CHAPTER 141A)
 
-This Legislative History is provided for the convenience of users of the Institute of Technical Education Act. It is not part of the Act.
+This Legislative History is provided for the convenience of users of the Institute of Technical Education Act. It is not part of this Act.
 
 ||||
 |:-|:-|:-|
@@ -573,3 +589,9 @@ This Legislative History is provided for the convenience of users of the Institu
 ||Date of commencement|27 March 1992|
 |2.|**1993 Revised Edition—Institute of Technical Education Act**|
 ||Date of operation|15 March 1993|
+|3.|**Act 5 of 2002—Statutory Corporations (Capital Contribution) Act 2002**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|3 May 2002|
+|||(Bill No. 7/2002 published on 4 May 2002)|
+||Date of Second and Third Readings|24 May 2002|
+||Dates of commencement|15 July 2002|
