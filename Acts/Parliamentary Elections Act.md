@@ -2794,3 +2794,8 @@ This Legislative History is provided for the convenience of users of the Parliam
 |||(Bill No. 18/1991 published on 8 May 1991)|
 ||Date of Second and Third Readings|28 June 1991|
 ||Date of commencement|2 August 1991 (sections 2, 3, 5, 6 and 7)|
+|38.|**Act 27 of 1991—Presidential Elections Act 1991**|
+||Date of First Reading|28 June 1991|
+|||(Bill No. 21/1991 published on 29 June 1991)|
+||Date of Second and Third Readings|29 July 1991|
+||Date of commencement|2 November 1991|
