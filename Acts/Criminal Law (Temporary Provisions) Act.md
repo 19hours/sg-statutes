@@ -858,3 +858,8 @@ This Legislative History is provided for the convenience of users of the Crimina
 ||Date of commencement|7 April 1989|
 |29.|**G. N. No. S 318/1989—Criminal Law (Temporary Provisions) Act (Amendment of First Schedule) |(No. 2) Notification 1989**|
 ||Date of commencement|28 July 1989|
+|30.|**Act 33 of 1989—Criminal Law (Temporary Provisions) (Amendment) Act 1989**|
+||Date of First Reading|11 July 1989|
+|||(Bill No. 32/1989 published on 12 July 1989)|
+||Date of Second and Third Readings|4 August 1989|
+||Date of commencement|8 September 1989|
