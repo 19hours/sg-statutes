@@ -768,6 +768,11 @@ This Legislative History is provided for the convenience of users of the Smoking
 ||Date of commencement|1 July 2003 (section 6)|
 |7.|**2003 Revised Edition—Smoking (Control of Advertisements and Sale of Tobacco) Act**|
 ||Date of operation|31 July 2003|
+|8.|**Act 35 of 2002—Smoking (Control of Advertisements and Sale of Tobacco) (Amendment) Act 2002**|
+||Date of First Reading|1 October 2002|
+|||(Bill No. 37/2002 published on 2 October 2002)|
+||Date of Second and Third Readings|31 October 2002|
+||Date of commencement|1 December 2003 (section 4)|
 ## COMPARATIVE TABLE
 
 Smoking (Control of Advertisements and Sale of Tobacco) Act
