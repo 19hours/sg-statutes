@@ -1,16 +1,14 @@
-**Control of Plants Act 1993**
+**Control of Plants Act**
 
-**(No. 18 of 1993)**
+**(CHAPTER 57A)**
 
 **Table of Contents**
 
 [**Long Title**](#Control-of-Plants-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -28,7 +26,7 @@
 
 - [8 Pesticide or toxic chemical residue levels](#Pesticide-or-toxic-chemical-residue-levels)
 
-- [9 Containers of fresh fruits and vegetables to bear particulars of producer](#Containers-of-fresh-fruits-and-vegetables-to-bear-particulars-of-producer)
+- [9 Containers of fresh fruits or vegetables to bear particulars of producer](#Containers-of-fresh-fruits-or-vegetables-to-bear-particulars-of-producer)
 
 [**Part III CONTROL OF CULTIVATION OF PLANTS**](#Part-III)
 
@@ -56,7 +54,7 @@
 
 [**Part V CONTROL OF PESTS**](#Part-V)
 
-- [20 Power to direct destruction or treatment of plants, etc](#Power-to-direct-destruction-or-treatment-of-plants-etc)
+- [20 Power to direct destruction or treatment of plants, etc.](#Power-to-direct-destruction-or-treatment-of-plants-etc)
 
 - [21 Placing land under quarantine](#Placing-land-under-quarantine)
 
@@ -90,7 +88,7 @@
 
 - [33 Offences committed by body corporate](#Offences-committed-by-body-corporate)
 
-- [34 Offences committed by agent or employee](#Offences-committed-by-agent-or-employee)
+- [34 Offences committed by agent or servant](#Offences-committed-by-agent-or-servant)
 
 - [35 General powers of agricultural officers](#General-powers-of-agricultural-officers)
 
@@ -116,53 +114,33 @@
 
 - [46 Rules](#Rules)
 
-- [47 Repeal](#Repeal)
+- [47 Transitional provision](#Transitional-provision)
 
-- [48 Transitional provision](#Transitional-provision)
+- [48 Saving of appointments of agricultural officers](#Saving-of-appointments-of-agricultural-officers)
 
-- [49 Saving of appointments of agricultural officers](#Saving-of-appointments-of-agricultural-officers)
+[**Legislative History**](#Legislative-History)
 
-REPUBLIC OF SINGAPORE
+# Control of Plants Act
 
-GOVERNMENT GAZETTE
+(CHAPTER 57A)
 
-ACTS SUPPLEMENT
+(Original Enactment: Act 18 of 1993)
 
-Published by Authority
+REVISED EDITION 1994
 
-NO. 13]
+(15th March 1994)
 
-Friday, May 14
+An Act to consolidate and amend the law relating to the cultivation, import and export of plants and plant products, the protection of plants and plant products against pests and diseases, the control of the introduction of pests into Singapore, the use of pesticides, the measures pertaining to the development and improvement of the plant industry in Singapore and for purposes connected therewith.
 
-[1993
-
-The following Act was passed by Parliament on 12th April 1993 and assented to by the President on 28th April 1993:—
-
-Control Of Plants Act 1993
-
-(No. 18 of 1993)
-
-I assent.
-
-WEE KIM WEE
-
-President.
-
-28th April 1993.
-
-Date of Commencement: 18th February 1994
-
-An Act to consolidate and amend the law relating to the cultivation, import and export of plants and plant products, the protection of plants and plant products against pests and diseases, the control of the introduction of pests into Singapore, the use of pesticides, the measures pertaining to the development and improvement of the plant industry in Singapore and for purposes connected therewith, and to repeal the Agricultural Pests Act (Chapter 5 of the 1985 Revised Edition), the Controlled Plants Act (Chapter 59 of the 1985 Revised Edition) and the Export of Plants (Control) Act (Chapter 101 of the 1985 Revised Edition).
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[18th February 1994]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Control of Plants Act 1993 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Control of Plants Act.
 
 ### Interpretation
 
@@ -174,11 +152,11 @@ PRELIMINARY
 
 “conveyance” includes any aircraft, vessel, train, vehicle or any other artificial contrivance, whether mechanically-propelled or otherwise used or capable of being used as a means of transport on land, water or air;
 
-“Director” means the Director of Primary Production and includes the Deputy Director of Primary Production and the Director, Agriculture Division of the Primary Production Department;
+“Director” means the Director of Primary Production and includes the Deputy Director of Primary Production and the Director, Agriculture Divisionof the Primary Production Department;
 
 “diseased” means attacked by or infected with any pest;
 
-“fresh fruits and vegetables” means unprocessed and raw fruits and vegetables which are intended for human consumption;
+“fresh fruit and vegetables” means unprocessed and raw fruits and vegetables which are intended for human consumption;
 
 “import”, with its grammatical variations and cognate expressions, means to bring or cause to be brought into Singapore by land, sea or air from any place which is outside Singapore but does not include the bringing into Singapore by land, sea or air (whether landed or transhipped in Singapore) for the sole purpose of being carried to any other country either by the same or another conveyance;
 
@@ -236,7 +214,7 @@ PRELIMINARY
 
 ### Officers deemed to be public servants
 
-4\. All agricultural officers shall be deemed to be public servants for the purposes of the Penal Code (Cap. 224).
+4\. All agricultural officersshall be deemed to be public servants for the purposes of the Penal Code [Cap. 224].
 
 ### Officer to produce identification on request
 
@@ -260,7 +238,7 @@ IMPORT FOR SALE OR SUPPLY OF FRESH FRUITS AND VEGETABLES
 
 8\. No person shall import for sale or supply any fresh fruit or vegetable which contains levels of pesticide residue or toxic chemical residue exceeding the prescribed levels.
 
-### Containers of fresh fruits and vegetables to bear particulars of producer
+### Containers of fresh fruits or vegetables to bear particulars of producer
 
 9\.—(1) No person shall import for sale or supply any fresh fruit or vegetable where the container of the fruit or vegetable does not bear the name and address of its producer and such other particulars as may be prescribed.
 
@@ -364,7 +342,7 @@ PROHIBITED PLANTS
 
 CONTROL OF PESTS
 
-### Power to direct destruction or treatment of plants, etc
+### Power to direct destruction or treatment of plants, etc.
 
 20\.—(1) If as a result of any inspection or examination of any land, premises or plant by an agricultural officer, it appears to the agricultural officer that any land or premises or plant is in a condition favourable to the introduction or spread of any pest or that any plant is diseased, the Director may, by notice in writing under his hand addressed to the owner or occupier of the land or premises where that condition exists or where the plant is, direct him to take within a time to be stated in the notice such measures as may appear to the Director necessary or expedient for —
 
@@ -388,7 +366,7 @@ CONTROL OF PESTS
 
 ### Application for examination of quarantined area
 
-22\.—(1) Any owner or occupier of any land quarantined under section 21(1) may apply to an agricultural officer to examine the quarantined area with a view to obtaining from the agricultural officer the certificate referred to in section 21(3).
+22\.—(1) Any owner or occupier of any land quarantined under section 21(1) may apply to an agricultural officerto examine the quarantined area with a view to obtaining from the agricultural officerthe certificate referred to in section 21(3).
 
 (2) The agricultural officer shall, as soon as possible after receipt of such an application, visit and examine the quarantined area and may charge such fees as may be prescribed for such visit and examination.
 
@@ -400,9 +378,9 @@ CONTROL OF PESTS
 
 ### Clearing diseased land
 
-24\.—(1) Where it appears to an agricultural officer that any plant on any land is diseased and he is of the opinion that it is necessary for the prevention of the spread of any pest that the land be entirely cleared of cultivation or cleared of all cultivation of any particular species, the Director may, with the approval of the Minister, by notice in writing addressed to the owner or occupier of the land where the plant is, direct him to fell and burn or otherwise destroy within a time to be stated in the notice and to the satisfaction of the agricultural officer all cultivation or all cultivation of the species named in the notice.
+24\.—(1) Where it appears to an agricultural officerthat any plant on any land is diseased and he is of the opinion that it is necessary for the prevention of the spread of any pest that the land be entirely cleared of cultivation or cleared of all cultivation of any particular species, the Director may, with the approval of the Minister, by notice in writing addressed to the owner or occupier of the land where the plant is, direct him to fell and burn or otherwise destroy within a time to be stated in the notice and to the satisfaction of the agricultural officerall cultivation or all cultivation of the species named in the notice.
 
-(2) The action directed by a notice under subsection (1) may be enforced in the manner provided by section 20(2) for the enforcement of the action directed by a notice under section 20(1).
+(2) The action directed by a notice under subsection (1) may be enforced in the manner provided by section 20(2)for the enforcement of the action directed by a notice under section 20(1).
 
 (3) If the owner or occupier of any land on whom a notice under subsection (1) has been served fails to comply with the notice, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $500 for every day during which the offence continues after conviction.
 
@@ -412,7 +390,7 @@ CONTROL OF PESTS
 
 (a) no compensation shall be paid for any diseased plant;
 
-(b) the value of any cultivation shall be taken to be the market value of that cultivation at the time of its destruction and if any question arises as to the market value, the decision of the Director shall be final and conclusive;
+(b) the value of any cultivation shall be taken to be the market value of that cultivation at the time of its destruction and if any question arises as to the market value, the decision of the Director shall be final and conclusive; and
 
 (c) the Minister may entirely withhold or may reduce the amount of compensation for the destruction of any cultivation if the owner or occupier of the land has done anything in contravention of, or has failed to comply with, any notice issued under this Part or has by his neglect contributed to the introduction of the pest.
 
@@ -442,7 +420,7 @@ EXPORT OF PLANTS
 
 (a) gives false information for the purpose of obtaining a phytosanitary certificate;
 
-(b) falsifies any phytosanitary certificate;
+(b) falsifies any phytosanitary certificate; or
 
 (c) uses a phytosanitary certificate with intention of causing it to be believed that a plant or plant product which is not a plant or plant product in respect of which the phytosanitary certificate was issued, is a plant or plant product in respect of which the certificate was issued,
 
@@ -472,7 +450,7 @@ shall be made to the Director in such manner and form as the Director may requir
 
 31\.—(1) The Director may at any time revoke or suspend a licence or permit.
 
-(2) The Director shall before taking any action referred to in subsection (1) notify the person concerned of his intention to take such action and shall give the person concerned an opportunity to submit reasons why such action should not be taken against him.
+(2) The Director shall, before taking any action referred to in subsection (1), notify the person concerned of his intention to take such action and shall give the person concerned an opportunity to submit reasons why such action should not be taken against him.
 
 (3) Where the Director has revoked or suspended a licence or permit under this Act, he shall give notice in writing of the suspension or revocation to the person concerned.
 
@@ -496,15 +474,15 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Offences committed by body corporate
 
-33\. Where an offence under this Act or any rules made thereunder has been committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate, or any person who was purporting to act in any such capacity, he, as well as the body corporate shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+33\. Where an offence under this Act or any rules made thereunder has been committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate, or any person who was purporting to act in any such capacity, he, as well as the body corporate, shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
 
-### Offences committed by agent or employee
+### Offences committed by agent or servant
 
 34\. Where an offence under this Act or any rules made thereunder is committed by any person acting as the agent or servant of another person, or being otherwise subject to the supervision or instructions of another person for the purposes of any employment in the course of which the offence was committed, that other person shall, without prejudice to the liability of the first-mentioned person, be liable under this Act or any rules made thereunder in the same manner and to the same extent as if he had personally committed the offence if it is proved that the act which constituted the offence was committed with his consent or connivance or that it was attributable to any neglect on his part.
 
 ### General powers of agricultural officers
 
-35\.—(1) For the purpose of ascertaining whether any offence under this Act or any rules made thereunder has been or is being committed, any agricultural officer may, on producing, if so requested, an identification card —
+35\.—(1) For the purpose of ascertaining whether any offence under this Act or any rules made thereunder has been or is being committed, any agricultural officermay, on producing, if so requested, an identification card —
 
 (a) enter and inspect any land or premises and examine any plant, plant product, package, soil or article thereon at all reasonable times;
 
@@ -574,7 +552,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (a) delivering it personally or by leaving it with some adult person at the last known place of residence or business of the person to be served;
 
-(b) leaving it at the usual or last known place of residence or business of the person to be served in a cover addressed to that person, or posting it upon a conspicuous part of those premises; or
+(b) leaving it at the usual or last known place of residence or business of the person to be served in a cover address to that person, or posting it upon a conspicuous part of those premises; or
 
 (c) sending it by registered post addressed to the person to be served at his usual or last known place of residence or business.
 
@@ -582,7 +560,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Protection from liability
 
-43\. No suit or other legal proceedings shall lie against the Director or any agricultural officer in respect of anything done or omitted to be done in the discharge of their duties under this Act or any rules made thereunder unless the thing was done or omitted to be done in bad faith.
+43\. No suit or other legal proceedings shall lie against the Director or any agricultural officerin respect of anything done or omitted to be done in the discharge of their duties under this Act or any rules made thereunder unless the thing was done or omitted to be done in bad faith.
 
 ### Power to compound
 
@@ -646,19 +624,32 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (3) The Minister may, in any rules made under this Act, provide that any contravention of or failure to comply with any provision thereof shall be an offence and may prescribe a penalty for any such offence of a fine not exceeding $10,000 or imprisonment for a term not exceeding 3 years or both.
 
-### Repeal
-
-47\. The Agricultural Pests Act (Cap. 5), the Controlled Plants Act (Cap. 59) and the Export of Plants (Control) Act (Cap. 101) are repealed.
-
 ### Transitional provision
 
-48\. Any licence, permit, certificate or any other document issued, made or granted under the Agricultural Pests Act, the Controlled Plants Act or the Export of Plants (Control) Act which is in force immediately before the date of commencement of this Act —
+47\. Any licence, permit, certificate or any other document issued, made or granted under the repealed Agricultural Pests Act, the Controlled Plants Act or the Export of Plants (Control) Act [Cap. 101] which is in force immediately before 18th February 1994 —
 
-(a) shall have effect as from that date as if issued, made or granted under this Act;
+(a) shall have effect as from that date as if issued, made or granted under this Act; and
 
 (b) in the case of any licence, permit, certificate or other document for a specified period, shall remain in force, subject to the provisions of this Act, for so much of that period as remains after that date.
 
 ### Saving of appointments of agricultural officers
 
-49\. Any person appointed as an agricultural officer under the Agricultural Pests Act (Cap. 5) shall continue to be an agricultural officer under this Act as if that person had been appointed under section 3 on the same terms and conditions for a term expiring on the day on which his previous appointment would otherwise expire.
+48\. Any person appointed as an agricultural officer under the repealed Agricultural Pests Act shall continue to be an agricultural officer under this Act as if that person had been appointed under section 3 of this Act on the same terms and conditions for a term expiring on the day on which his previous appointment would otherwise expire.
 
+## LEGISLATIVE HISTORY
+
+Control of Plants Act
+
+(CHAPTER 57A)
+
+This Legislative History is provided for the convenience of users of the Control of Plants Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 18 of 1993—Control of Plants Act 1993**|
+||Date of First Reading|26 February 1993|
+|||(Bill No. 9/93 published on 27 February 1993)|
+||Date of Second and Third Readings|12 April 1993|
+||Date of commencement|18 February 1994|
+|2.|**1994 Revised Edition—Control of Plants Act**|
+||Date of operation|15 March 1994|
