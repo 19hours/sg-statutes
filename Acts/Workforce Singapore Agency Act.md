@@ -70,7 +70,7 @@
 
 - [26 Application of moneys](#Application-of-moneys)
 
-- [27 Investment](#Investment)
+- [27 Power of investment](#Power-of-investment)
 
 - [28 Accounts](#Accounts)
 
@@ -474,9 +474,11 @@ FINANCIAL PROVISIONS
 
 26\. The moneys of the Agency shall be applied only in payment or discharge of the expenses, obligations and liabilities of the Agency and in making any payment that the Agency is authorised or required to make.
 
-### Investment
+### Power of investment
 
-27\. Moneys belonging to the Agency may, from time to time, be invested in such classes of funds, securities or investments as the Minister may determine.
+27\. The Agency may invest its moneys in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
+
+[45/2004 wef 15/12/2004]
 
 ### Accounts
 
