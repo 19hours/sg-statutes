@@ -990,6 +990,8 @@ that contract or agreement shall be chargeable with duty under this Act as if it
 
 (2) Where such total amount is unlimited, the security is to be available for such an amount only as the ad valorem duty impressed thereon extends to cover; but where any advance or loan is made in excess of the amount covered by that duty the security shall for the purpose of stamp duty be deemed to be a new and separate instrument bearing date on the day on which the advance or loan is made.
 
+(3)
+
 ### Certain mortgages of stock to be exempt from duty
 
 30\.—(1) Every instrument under hand only given upon the occasion of the deposit of any stock certificate to bearer, or any security for money transferable by delivery, by way of security for any loan, shall be exempt from duty.
@@ -1001,6 +1003,8 @@ that contract or agreement shall be chargeable with duty under this Act as if it
 [26/96]
 
 (3) The transfer referred to in subsection (2) is duly stamped for the purpose of this section if stamped with the duty of $10.
+
+(4)
 
 31\. 
 
@@ -1054,6 +1058,8 @@ LIABILITY FOR PAYMENT OF DUTY
 
 (a) any instrument executed by or on behalf of or in favour of the Government in cases where, but for this exemption, the Government would be liable to pay the duty chargeable in respect of that instrument;
 
+(b) [Deleted by Act 33/99 wef 01/09/1999]
+
 (c) any instrument for the sale, transfer, lease or other disposition, either absolutely or by way of mortgage or otherwise, of land situate outside Singapore or any share, estate or interest in land situate outside Singapore;
 
 (d) any instrument which relates exclusively to things to be done outside Singapore;
@@ -1061,6 +1067,14 @@ LIABILITY FOR PAYMENT OF DUTY
 (e) any instrument for the transfer on sale of any stock issued by or on behalf of any government or State, other than the Government of Singapore, or of any stock issued by or on behalf of any corporation, company, or body of persons incorporated, formed or established outside Singapore, except stock registered in a register kept in Singapore; and
 
 (f) any instrument executed by or on behalf of a society registered under the Co-operative Societies Act (Cap. 62) or executed by an officer or member of any such society and relating solely to the business of the society unless the instrument relates to any immovable property where, but for this exemption, the purchaser of the property, not being a co-operative society would, in accordance with section 34, be the person liable to pay the duty chargeable on that instrument.
+
+(g) [Deleted by Act 33/99 wef 01/09/1999]
+
+(h) [Deleted by Act 33/99 wef 01/09/1999]
+
+(i) [Deleted by Act 33/99 wef 01/09/1999]
+
+(2)
 
 ## PART V
 
@@ -1301,6 +1315,10 @@ ALLOWANCE FOR SPOILED STAMPS
 57\.—(1) Subject to the conditions specified in subsection (2) and to such rules as may be made by the Minister and to the production of such evidence by statutory declaration or otherwise as the Commissioner may require, allowance is to be made by the Commissioner for stamps spoiled in the following cases:
 
 (a) the stamp on any paper inadvertently and undesignedly spoiled, obliterated or by any means rendered unfit for the purpose intended, before the paper bears the signature of any person or any instrument written thereon is executed by any party;
+
+(b) [Deleted by Act 33/99 wef 01/09/1999]
+
+(c) [Deleted by Act 33/99 wef 01/09/1999]
 
 (d) the stamp used for any of the following instruments:
 
@@ -1666,45 +1684,7 @@ The same duty as a LEASE
 
 2
 
-CONTRACT NOTE:
-
-For every $1,000 or any part thereof of the value of the stock or shares
-
-$0.50
-
-Exemption:
-
-Any contract note for the sale or purchase of any foreign stock or shares issued by —
-
-(a) any approved Asian Currency Unit or approved securities company to a person outside Singapore;
-
-(b) any approved Asian Currency Unit or approved securities company, on or after 1st April 1996, to another approved Asian Currency Unit or approved securities company which is acting as a broker or agent for a person outside Singapore;
-
-(c) any person to an approved Asian Currency Unit or approved securities company which is acting as a broker or agent for a person outside Singapore or is transacting in stock or shares solely for the purpose of making a market in such stock or shares; or
-
-(d) any approved Asian Currency Unit or approved securities company to an approved fund manager where the transaction relates exclusively to non-resident funds managed by the approved fund manager.
-
-For the purposes of this Article —
-
-“approved Asian Currency Unit or approved securities company” means any Asian Currency Unit of a financial institution or any securities company approved under section 43A of the Income Tax Act (Chapter 134);
-
-“approved fund manager” means a fund manager approved under section 43A of the Income Tax Act;
-
-“foreign stock or shares” means —
-
-(a) stock or shares of companies not incorporated and not resident in Singapore; and
-
-(b) stock or shares listed on the Stock Exchange of Singapore and denominated in any foreign currency of companies incorporated in Singapore and approved by the Minister whose operations are substantially outside Singapore;
-
-“person outside Singapore” —
-
-(a) in relation to an individual, means a person who is not a citizen of Singapore and who does not reside in Singapore for more than 183 days in a year;
-
-(b) in relation to a company, means a company not incorporated in Singapore but does not include —
-
-(i) a branch or permanent establishment of such a company in Singapore; and
-
-(ii) a branch outside Singapore of a company incorporated in Singapore.
+Deleted by S 288/2000 wef 30/06/2000.
 
 3
 
@@ -2306,3 +2286,5 @@ This Legislative History is provided for the convenience of users of the Stamp D
 |||(Bill No. 28/1999 published on 3 September 1999)|
 ||Date of Second and Third Readings|18 August 1999|
 ||Date of commencement|1 September 1999|
+|59.|**G. N. No. S 288/2000—Stamp Duties Act (Amendment of First Schedule) Notification 2000**|
+||Date of commencement|30 June 2000|
