@@ -16,7 +16,7 @@
 
 [**Part II PIONEER INDUSTRIES**](#Part-II)
 
-- [4 Power and procedure for declaring an industry and a product a pioneer industry and a pioneer product](#Power-and-procedure-for-declaring-an-industry-and-a-product-a-pioneer-industry-and-a-pioneer-product)
+- [4 Power and procedure for approving an industry and a product as a pioneer industry and a pioneer product](#Power-and-procedure-for-approving-an-industry-and-a-product-as-a-pioneer-industry-and-a-pioneer-product)
 
 - [5 Application for and issue and amendment of pioneer certificate](#Application-for-and-issue-and-amendment-of-pioneer-certificate)
 
@@ -456,9 +456,9 @@ PRELIMINARY
 
 “pioneer enterprise” means any company which has been approved by the Minister and to which a pioneer certificate has been issued under section 5;
 
-“pioneer industry” means an industry declared under section 4 to be a pioneer industry;
+“pioneer industry” means an industry approved under section 4 to be a pioneer industry;
 
-“pioneer product” means a product declared under section 4 to be a pioneer product;
+“pioneer product” means a product approved under section 4 to be a pioneer product;
 
 “production day”, in relation to a pioneer enterprise, means the date specified in its pioneer certificate under section 5(3)(a) or (5);
 
@@ -484,19 +484,15 @@ but does not include royalties, rentals or other amounts paid in respect of the 
 
 PIONEER INDUSTRIES
 
-### Power and procedure for declaring an industry and a product a pioneer industry and a pioneer product
+### Power and procedure for approving an industry and a product as a pioneer industry and a pioneer product
 
-4\.—(1) Subject to subsection (2), the Minister may, if he considers it expedient in the public interest to do so, by order declare an industry, which is not being carried on in Singapore on a scale adequate to the economic needs of Singapore and for which in his opinion there are favourable prospects for development, to be a pioneer industry and any specific product of that industry to be a pioneer product.
+4\.—(1) The Minister may, if he considers it expedient in the public interest to do so, approve an industry, which is not being carried on in Singapore on a scale adequate to the economic needs of Singapore and for which in his opinion there are favourable prospects for development, to be a pioneer industry and any specific product of that industry to be a pioneer product.
 
-(2) Before making any order under subsection (1), the Minister shall —
+(2) The Minister may revoke any approval given under this section but any such revocation shall not affect the operation of any pioneer certificate issued to any pioneer enterprise before the revocation.
 
-(a) cause a notice to be published in theGazettesetting out the order which it is proposed to make and inviting any person who may object to the making of the order to give notice in writing of his objection and the grounds thereof to the Minister on or before such date (not being a date less than 30 days from the date of publication of the notice) as may be specified in the notice; and
+(3) Any industry which has been approved as a pioneer industry or any product which has been approved as a pioneer product before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment No. 2) Act 2004 shall be deemed to have been approved under this section.
 
-(b) consider any objection which has been received pursuant to the notice.
-
-(3) The Minister may, if he considers it necessary, call for further particulars of the grounds of any such objection from any person who has given due notice of the objection.
-
-(4) The Minister may revoke any order made under this section but any such revocation shall not affect the operation of any pioneer certificate issued to any pioneer enterprise before the revocation.
+[48/2004 wef 25/11/2004]
 
 ### Application for and issue and amendment of pioneer certificate
 
@@ -562,9 +558,9 @@ PIONEER INDUSTRIES
 
 10\.—(1) The income of a pioneer enterprise in respect of its old trade or business shall be ascertained in accordance with the provisions of the Income Tax Act after making such adjustments as may be necessary in consequence of any direction given under section 9.
 
-(1A) In determining the income of a pioneer enterprise referred to in subsection (1), the allowances provided for in sections 16, 17, 18, 19, 20, 21 and 22 of the Income Tax Act shall be taken into account notwithstanding that no claim for such allowances has been made.
+(1A) In determining the income of a pioneer enterprise referred to in subsection (1), the allowances provided for in sections 16, 17, 18, 19, 19A, 19B, 20, 21 and 22 of the Income Tax Act shall be taken into account notwithstanding that no claim for such allowances has been made.
 
-(1B) Where the tax relief period of a pioneer enterprise referred to in subsection (1) expires during the basis period for any year of assessment, for the purpose of determining the income in respect of its old trade or business and its new trade or business for that year of assessment, there shall be deducted allowances provided for in sections 16, 17, 18, 19, 20, 21 and 22 of the Income Tax Act notwithstanding that no claim for such allowances has been made; and for the purpose of computing such allowances —
+(1B) Where the tax relief period of a pioneer enterprise referred to in subsection (1) expires during the basis period for any year of assessment, for the purpose of determining the income in respect of its old trade or business and its new trade or business for that year of assessment, there shall be deducted allowances provided for in sections 16, 17, 18, 19, 19A, 19B, 20, 21 and 22 of the Income Tax Act notwithstanding that no claim for such allowances has been made; and for the purpose of computing such allowances —
 
 (a) the allowances for that year of assessment shall be computed as if the old trade or business of the pioneer enterprise had not been deemed to have permanently ceased at the end of the tax relief period; and
 
@@ -574,13 +570,13 @@ PIONEER INDUSTRIES
 
 (2) Where in any year of assessment full effect cannot, by reason of an insufficiency of profits for that year of assessment, be given to the allowances mentioned in subsection (1A), then the balance of the allowances shall be added to, and be deemed to form part of, the corresponding allowances, if any, for the next succeeding year of assessment and, if no such corresponding allowances fall to be made for that year, shall be deemed to constitute the corresponding allowances for that year, and so on for subsequent years of assessment.
 
-(3) Notwithstanding subsections (1) and (1A), where a pioneer enterprise has incurred or has given a written undertaking to the Minister to incur afixed capital expenditure of not less than $150 million and —
+(3) Notwithstanding subsections (1) and (1A), where a pioneer enterprise has incurred or has given a written undertaking to the Minister to incur a capital expenditure of not less than $150 million and —
 
-(a) more than 50% of the paid-up capital of the pioneer enterprise is held by persons permanently resident in Singapore; and
+(a) more than 50%, or such other percentage as the Minister may determine, of the paid-up capital of the pioneer enterprise is held by persons permanently resident in Singapore; and
 
 (b) such capital expenditure has been approved by the Minister as promoting or enhancing the economic or technological development of Singapore,
 
-the capital expenditure so incurred by the pioneer enterprise within its tax relief period in respect of any asset used for the purposes of its new trade or business shall, subject to such conditions as the Minister may impose, be deemed, for the purposes of sections 16, 17, 18, 19, 19A, 20, 21 and 22 of the Income Tax Act (Cap. 134), to have been incurred on the day immediately following the last day of its tax relief period.
+the capital expenditure so incurred by the pioneer enterprise within its tax relief period in respect of any asset used for the purposes of its new trade or business shall, subject to such conditions as the Minister may impose, be deemed, for the purposes of sections 16, 17, 18, 19, 19A, 19B, 20, 21 and 22 of the Income Tax Act (Cap. 134), to have been incurred on the day immediately following the last day of its tax relief period.
 
 [29/91]
 
@@ -588,17 +584,17 @@ the capital expenditure so incurred by the pioneer enterprise within its tax rel
 
 [29/91]
 
-(3B) Where a pioneer enterprise has, before 16th August 1991, incurred a fixed capital expenditure of not less than $1,000 million, subsection (3) shall apply to that enterprise in respect of that expenditure notwithstanding that the enterprise has not complied with paragraphs (a) and (b) of that subsection.
+(3B) Where a pioneer enterprise has, before 16th August 1991, incurred a capital expenditure of not less than $1,000 million, subsection (3) shall apply to that enterprise in respect of that expenditure notwithstanding that the enterprise has not complied with paragraphs (a) and (b) of that subsection.
 
 [29/91]
 
-(4) Where a pioneer enterprise referred to in subsection (3) or (3B) is the holder of 2 pioneer certificates in respect of different periods of time, and capital expenditure has been incurred in respect of any industrial building, plant or machinery which is jointly used in carrying on the trade or business of the 2 pioneer industries, no deduction shall be made in respect of such expenditure under any of the provisions contained in sections 16, 17, 18, 19, 19A, 20, 21 and 22 of the Income Tax Act (Cap. 134) until after the expiration of the tax relief period that is later in time.
+(4) Where a pioneer enterprise referred to in subsection (3) or (3B) is the holder of 2 pioneer certificates in respect of different periods of time, and capital expenditure has been incurred in respect of any industrial building, plant or machinery which is jointly used in carrying on the trade or business of the 2 pioneer industries, no deduction shall be made in respect of such expenditure under any of the provisions contained in sections 16, 17, 18, 19, 19A, 19B, 20, 21 and 22 of the Income Tax Act (Cap. 134) until after the expiration of the tax relief period that is later in time.
 
 [S 143/89]
 
-(5) In subsections (3) and (3B), “fixed capital expenditure” means capital expenditure in connection with a pioneer product, on factory building (excluding land) in Singapore and on any new plant or new machinery used in Singapore and, subject to the approval of the Minister, on any secondhand plant or secondhand machinery used in Singapore.
+(5) In subsections (3) and (3B), “capital expenditure” means capital expenditure in connection with a pioneer product, on factory building (excluding land) in Singapore, on any new plant or new machinery used in Singapore and on intellectual property rights for use in Singapore and, subject to the approval of the Minister, on any secondhand plant or secondhand machinery used in Singapore.
 
-[29/91]
+[48/2004 wef 25/11/2004]
 
 ### Application of Part XVI of Income Tax Act
 
@@ -818,15 +814,27 @@ DEVELOPMENT AND EXPANSION INCENTIVE
 
 ### Tax relief period of development and expansion company
 
-19K\.—(1) The tax relief period of a development and expansion company shall commence on its commencement day and shall continue for such period not exceeding 10 years as the Minister may determine.
+19K\.—(1) Subject to subsection (2A), the tax relief period of a development and expansion company shall commence on its commencement day and shall continue —
 
-[36/96]
+(a) for such period not exceeding 10 years as the Minister may determine; and
 
-(2) The Minister may, if he is satisfied that it is expedient in the public interest to do so and subject to such terms and conditions as he may impose, extend the tax relief period of a development and expansion company for such further period or periods, not exceeding 5 years at any one time, as he may determine, except that the tax relief period of the company shall not in the aggregate exceed 20 years.
+(b) for such further period or periods, not exceeding 5 years for each period, as the Minister may determine, where the Minister is satisfied that it is expedient in the public interest to do so and subject to such terms and conditions as he may impose.
 
-[36/96]
+[48/2004 wef 25/11/2004]
 
-(3) Where a development and expansion company has been granted tax relief under Part IIIA in force immediately before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004 in respect of any qualifying activity specified in the certificate issued under section 19J(2), the Minister shall, in extending the tax relief period of the company under subsection (2), take into account the tax relief period of the company under that Part.
+(2) Subject to subsection (2A), the Minister may, if he is satisfied that it is expedient in the public interest to do so and subject to such terms and conditions as he may impose, extend the tax relief period of a development and expansion company after the expiry of the total tax relief period in subsection (1) for such further period or periods, not exceeding 5 years at any one time, as he may determine.
+
+[48/2004 wef 25/11/2004]
+
+(2A) The total tax relief period of a development and expansion company under subsections (1) and (2) shall not in the aggregate exceed 20 years.
+
+[48/2004 wef 25/11/2004]
+
+(2B) Any tax relief period initially granted to a development and expansion company before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment No. 2) Act 2004 which exceeds 10 years shall be deemed to have been granted under this section.
+
+[48/2004 wef 25/11/2004]
+
+(3) Where a development and expansion company has been granted tax relief under Part IIIA in force immediately before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004 in respect of any qualifying activity specified in the certificate issued under section 19J(2), the Minister shall, in extending the tax relief period of the company under subsections (1) and (2), take into account the tax relief period of the company under that Part.
 
 [36/96]
 
@@ -1150,11 +1158,11 @@ EXPORT OF SERVICES
 
 56\. [Deleted by Act 11/2004 wef 28/04/2004]
 
-## PART VIII4
+## PART VIII2
 
 FOREIGN LOANS FOR PRODUCTIVE EQUIPMENT
 
-4From year of assessment 1967.
+2From year of assessment 1967.
 
 ### Application for and issue of approved foreign loan certificate
 
@@ -1444,13 +1452,13 @@ is the rate of tax under section 43(1)(a) of the Income Tax Act (Cap. 134) for t
 
 (i) the amount shall be deducted from that account; and
 
-(ii) where that account is insufficient to give full effect to the recovery, an assessment or additional assessment in respect of the amount unrecovered shall be made upon the company or any shareholder of the company and the tax exempt account, kept in accordance with section 53 in force immediately before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004 (as made applicable by section 72), shall be debited accordingly; and
+(ii) where that account is insufficient to give full effect to the recovery, an assessment or additional assessment in respect of the amount unrecovered shall be made upon the company or any shareholder of the company and the tax exempt account, kept in accordance with section 72, shall be debited accordingly; and
 
 (b) where the investment allowance given had been credited to the concessionary investment allowance account —
 
 (i) the amount shall be deducted from that account; and
 
-(ii) where that account is insufficient to give full effect to the recovery, an assessment or additional assessment in respect of the amount unrecovered shall be made upon the company or any shareholder of the company and the tax exempt account, kept in accordance with section 53 in force immediately before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004 (as made applicable by section 72), shall be debited accordingly.
+(ii) where that account is insufficient to give full effect to the recovery, an assessment or additional assessment in respect of the amount unrecovered shall be made upon the company or any shareholder of the company and the tax exempt account, kept in accordance with section 72, shall be debited accordingly.
 
 [1/95]
 
@@ -1490,7 +1498,21 @@ is the rate of tax under section 43(1)(a) of the Income Tax Act (Cap. 134) for t
 
 ### Certain dividends exempted from income tax
 
-72\. Section 53 in force immediately before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004 shall apply, with the necessary modifications, to a company which has been granted an investment allowance under this Part as it applies to an international trading company and the reference to section 51 in force immediately before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004 in that section shall be read as a reference to section 71.
+72\.—(1) As soon as any amount of chargeable income of a company which has been granted an investment allowance has become exempt under section 71, that amount shall be credited to a tax exempt account to be kept by the company for the purposes of this Part.
+
+(2) Where a tax exempt account is in credit at the date on which any dividends are paid by a company, out of income which has been so exempted, an amount equal to those dividends or to that credit, whichever is the less, shall be debited to the account.
+
+(3) So much of the amount of any dividends so debited to the tax exempt account as is received by a shareholder of the company shall, if the Comptroller is satisfied with the entries in the account, be exempt from tax in the hands of the shareholder.
+
+(4) Notwithstanding subsections (3) and (7), no dividends paid on any share of a preferential nature shall be exempt from tax under this section in the hands of the shareholder.
+
+(5) Any dividends debited to the tax exempt account shall be treated as having been distributed to the shareholders of the company or any particular class of the shareholders in accordance with the proportion of their shareholdings in the company.
+
+(6) The company shall deliver to the Comptroller a copy of the account, made up to a date specified by him, whenever called upon to do so by notice in writing sent by him to its registered office, until such time as he is satisfied that there is no further need for maintaining the account.
+
+(7) Where an amount has been received by way of dividend from a company by a shareholder and the amount is exempt from tax under this Part, if that shareholder is a company, any dividends paid by that company to its shareholders, to the extent that the Comptroller is satisfied that those dividends are paid out of that amount, shall be exempt from tax in the hands of those shareholders.
+
+[48/2004 wef 25/11/2004]
 
 ### Recovery of tax exempted
 
@@ -2595,6 +2617,11 @@ This Legislative History is provided for the convenience of users of the Economi
 |||(Bill No. 2/2007 published on 23 January 2007)|
 ||Date of Second and Third Readings|12 February 2007|
 ||Date of commencement|9 September 2004|
+|34.|**Act 48 of 2004—Economic Expansion Incentives (Relief from Income Tax) (Amendment No. 2) Act 2004**|
+||Date of First Reading|19 October 2004|
+|||(Bill No. 56/2004 published on 20 October 2004)|
+||Date of Second and Third Readings|17 November 2004|
+||Date of commencement|25 November 2004|
 ## COMPARATIVE TABLE
 
 Economic Expansion Incentives (Relief from Income Tax) Act
