@@ -1,16 +1,14 @@
-**Education Endowment Scheme Act 1992**
+**Education Endowment Scheme Act**
 
-**(No. 33 of 1992)**
+**(CHAPTER 87A)**
 
 **Table of Contents**
 
 [**Long Title**](#Education-Endowment-and-Savings-Schemes-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -28,7 +26,7 @@
 
 - [8 Members of Edusave Pupils Fund](#Members-of-Edusave-Pupils-Fund)
 
-- [9 Contributions to be paid to eligible members](#Contributions-to-be-paid-to-eligible-members)
+- [9 Contributions to be paid to eligible members.](#Contributions-to-be-paid-to-eligible-members)
 
 - [10 Advisory Council](#Advisory-Council)
 
@@ -66,53 +64,35 @@
 
 [**THE SCHEDULE**](#THE-SCHEDULE)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Education Endowment Scheme Act
 
-ACTS SUPPLEMENT
+(CHAPTER 87A)
 
-Published by Authority
+(Original Enactment: Act 33 of 1992)
 
-NO. 29]
+REVISED EDITION 1993
 
-Friday, October 30
-
-[1992
-
-The following Act was passed by Parliament on 14th September 1992 and assented to by the President on 17th October 1992:—
-
-Education Endowment Scheme Act 1992
-
-(No. 33 of 1992)
-
-I assent.
-
-WEE KIM WEE
-
-President,
-
-17th October 1992.
-
-Date of Commencement: 1st January 1993
+(15th March 1993)
 
 An Act to establish an education endowment scheme and for matters connected therewith.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st January 1993]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Education Endowment Scheme Act 1992 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Education Endowment Scheme Act.
 
 ### Interpretation
 
 2\.—(1) In this Act, unless the context otherwise requires —
 
-“Board” means the Central Provident Fund Board established under the Central Provident Fund Act (Cap. 36);
+“Board” means the Central Provident Fund Board established under the Central Provident Fund Act [Cap. 36];
 
 “child” means a person who is of school age;
 
@@ -134,7 +114,7 @@ PRELIMINARY
 
 (a) a school organised and conducted directly by the Government;
 
-(b) a school specified in any order made under section 3(1) of the School Boards (Incorporation) Act (Cap. 284A);
+(b) a school specified in any order made under section 3(1) of the School Boards (Incorporation) Act [Cap. 284A];
 
 (c) an aided school within the meaning of that term in the School Boards (Incorporation) Act; or
 
@@ -142,7 +122,7 @@ PRELIMINARY
 
 “school age” means such age as may be prescribed.
 
-(2) For the purpose of the definition of “prescribed school” in subsection (1), the Minister may prescribe any training institute established under the Institute of Technical Education Act 1992 (Act 8 of 1992) for such transitional period as he may specify.
+(2) For the purpose of the definition of “prescribed school” in subsection (1), the Minister may prescribe any training institute established under the Institute of Technical Education Act [Cap. 141A] for such transitional period as he may specify.
 
 ## PART II
 
@@ -152,7 +132,7 @@ EDUCATION ENDOWMENT SCHEME
 
 3\.—(1) For the purposes of this Act, there shall be established a fund to be called the Edusave Endowment Fund into which shall be paid all capital money provided by Parliament pursuant to this Act and all income of that Fund and out of which shall be met all payments authorised to be paid under this Act.
 
-(2) The Minister shall be responsible for the administration of the Endowment Fund and all moneys belonging to that Fund may be deposited in any bank and invested in any investment authorised under the Financial Procedure Act (Cap. 109).
+(2) The Minister shall be responsible for the administration of the Endowment Fund and all moneys belonging to that Fund may be deposited in any bank and invested in any investment authorised under the Financial Procedure Act [Cap. 109].
 
 (3) The Endowment Fund shall be deemed to be a Government fund for the purposes of any written law.
 
@@ -208,7 +188,7 @@ EDUCATION ENDOWMENT SCHEME
 
 shall become, by virtue of this section, a member of the Edusave Pupils Fund.
 
-### Contributions to be paid to eligible members
+### Contributions to be paid to eligible members.
 
 9\.—(1) There shall be paid to every member in each year out of the income of the Endowment Fund the prescribed amount of contribution for that year if on 1st January of that year he is of school age and at any time during that year he is a full-time pupil at a prescribed school.
 
@@ -260,13 +240,13 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 13\.—(1) The Board may, subject to such terms and conditions as it may impose, permit the parent of a member below the age of 21 years, or a member who has attained the age of 21 years, to donate to the school of the member such portion of the sum standing to his credit in the Edusave account as the parent of the member, or the member, as the case may be, may determine.
 
-(2) Where any member has attained the age of 21 years, the Board shall, subject to subsection (3), transfer the sum standing to his credit in the Edusave account to his ordinary account, if any, maintained under section 13 of the Central Provident Fund Act (Cap. 36) and thereupon he shall cease to be a member.
+(2) Where any member has attained the age of 21 years, the Board shall, subject to subsection (3), transfer the sum standing to his credit in the Edusave account to his ordinary account, if any, maintained under section 13 of the Central Provident Fund Act [Cap. 36] and thereupon he shall cease to be a member.
 
 (3) Where a member has attained the age of 21 years and has an ordinary account referred to in subsection (2), the Board may, upon an application by the member, permit him to remain a member until such time as the Board may determine.
 
 ### Withdrawals
 
-14\.—(1) Upon an application for the withdrawal of the sum of money standing to the credit of a member by the parent of the member or, by the member, as the case may be, under section 12 or 13, the Board may authorise the payment to the school of the member of such sum as the parent or member is entitled to withdraw from the Edusave account.
+14\.—(1) Upon an application for the withdrawal of the sum of money standing to the credit of a member by the parent of the member or by the member, as the case may be, under section 12 or 13, the Board may authorise the payment to the school of the member of such sum as the parent or member is entitled to withdraw from the Edusave account.
 
 (2) All applications for withdrawal shall be supported by such evidence as may be prescribed and by such further evidence as the Board may reasonably require.
 
@@ -276,11 +256,11 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 ### Moneys payable on death of member
 
-16\.—(1) On the death of a member, the total amount standing to his credit in the Edusave account shall be paid to the Public Trustee for disposal in accordance with any written law for the time being in force.
+16\.—(1) On the death of a member , the total amount standing to his credit in the Edusave account shall be paid to the Public Trustee for disposal in accordance with any written law for the time being in force.
 
 (2) The receipt of the Public Trustee shall be a good discharge to the Board for such portions of the moneys payable out of the Edusave account on the death of a member as are payable to the Public Trustee under subsection (1).
 
-(3) All moneys paid out of the Edusave account on the death of any member shall be deemed to be impressed with a trust in favour of the person or persons determined by the Public Trustee in accordance with subsection (1) to be entitled thereto but shall, without prejudice to the Estate Duty Act (Cap. 96), be deemed not to form part of the deceased member’s estate or to be subject to his debts.
+(3) All moneys paid out of the Edusave account on the death of any member shall be deemed to be impressed with a trust in favour of the person or persons determined by the Public Trustee in accordance with subsection (1) to be entitled thereto but shall, without prejudice to the Estate Duty Act [Cap. 96], be deemed not to form part of the deceased member’s estate or to be subject to his debts.
 
 ## PART IV
 
@@ -304,7 +284,7 @@ MISCELLANEOUS
 
 20\.—(1) The accounts of the Endowment Fund and Edusave Pupils Fund shall be audited by the Auditor-General or such other auditor as may be appointed annually by the Minister in consultation with the Auditor-General.
 
-(2) A person shall not be qualified for appointment as an auditor under subsection (1) unless he is an approved company auditor under the Companies Act (Cap. 50).
+(2) A person shall not be qualified for appointment as an auditor under subsection (1) unless he is an approved company auditor under the Companies Act [Cap. 50].
 
 (3) The auditor or any person authorised by him is entitled at all reasonable times to full and free access to all accounting and other records relating, directly or indirectly, to the financial transactions of the Endowment Fund and Edusave Pupils Fund and may make copies of, or extracts from, any such accounting and other records.
 
@@ -360,7 +340,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ## THE SCHEDULE
 
-Section 10(4)
+Section 10(4).
 
 the Advisory Council
 
@@ -392,3 +372,20 @@ the Minister may remove him from office.
 
 7\. Subject to the provisions of this Act and any regulations made thereunder, the Council may regulate its own procedure in such manner as it thinks fit.
 
+## LEGISLATIVE HISTORY
+
+Education Endowment Scheme Act
+
+(CHAPTER 87A)
+
+This Legislative History is provided for the convenience of users of the Education Endowment Schemes Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 33 of 1992—Education Endowment Scheme Act 1992**|
+||Date of First Reading|31 July 1992|
+|||(Bill No. 34/92 published on 1 August 1992)|
+||Date of Second and Third Readings|14 September 1992|
+||Date of commencement|1 January 1993|
+|2.|**1993 Revised Edition—Education Endowment Scheme Act (Chapter 87A)**|
+||Date of commencement|15 March 1993|
