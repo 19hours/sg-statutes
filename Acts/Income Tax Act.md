@@ -6308,7 +6308,7 @@ RELIEF AGAINST DOUBLE TAXATION
 
 [5/77]
 
-(2A) In subsection (2)(b), “effective rate of tax” means the rate of tax as ascertained in accordance with the formula
+(2A) In subsection (2) (b), “effective rate of tax” means the rate of tax as ascertained in accordance with the formula
 
 where A
 
@@ -8890,6 +8890,11 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 39/2002 published on 1 November 2002)|
 ||Date of Second and Third Readings|25 November 2002|
 ||Date of commencement|13 October 2001 (Sections 5, 6, 49)|
+|149.|**Act 37 of 2002—Income Tax (Amendment) Act 2002**|
+||Date of First Reading|31 October 2002|
+|||(Bill No. 39/2002 published on 1 November 2002)|
+||Date of Second and Third Readings|25 November 2002|
+||Date of commencement|23 November 2001 (Sections 3, 7, 26(b))|
 ## COMPARATIVE TABLE
 
 Income Tax Act
