@@ -316,6 +316,24 @@
 
 - [97R Certification of income by auditor](#Certification-of-income-by-auditor)
 
+[**Part XIIIC TECHNOPRENEUR INVESTMENT INCENTIVE**](#Part-XIIIC)
+
+- [97S Interpretation of this Part](#Interpretation-of-this-Part)
+
+- [97T Application for and issue of certificate totechnopreneur start-up company](#Application-for-and-issue-of-certificate-totechnopreneur-start-up-company)
+
+- [97U Allotment of qualifying shares by company](#Allotment-of-qualifying-shares-by-company)
+
+- [97V Deduction of losses allowable to eligible investor](#Deduction-of-losses-allowable-to-eligible-investor)
+
+- [97W Power of Comptroller to give directions](#Power-of-Comptroller-to-give-directions)
+
+- [97X Prohibition of other activity](#Prohibition-of-other-activity)
+
+- [97Y Recovery of tax](#Recovery-of-tax)
+
+- [97Z Savings provision](#Savings-provision)
+
 [**Part XIV MISCELLANEOUS PROVISIONS**](#Part-XIV)
 
 - [98 Prohibition of publication of application and certificate](#Prohibition-of-publication-of-application-and-certificate)
@@ -580,9 +598,11 @@ the capital expenditure so incurred by the pioneer enterprise within its tax rel
 
 (3) So much of the amount of any dividends so debited to that account as is received by a shareholder of the pioneer enterprise shall, if the Comptroller is satisfied with the entries in the account, be exempt from tax in the hands of the shareholder.
 
-(3A) Notwithstanding subsection (3), where a dividend is paid on any share of a preferential nature, it shall not be so exempt in the hands of the shareholder.
+(3A) Notwithstanding subsections (3) and (9), no dividend paid on any share of a preferential nature shall be exempt from tax under this section in the hands of the shareholder.
 
-(4) Any dividends debited to that account shall be treated as having been distributed to the shareholders of the pioneer enterprise or any particular class of those shareholders in the same proportions as the shareholders were entitled to payment of the dividends giving rise to the debit.
+[11/2004 wef 20/12/2002]
+
+(4) Any dividends debited to that account shall be treated as having been distributed to the shareholders of the pioneer enterprise or any particular class of those shareholders in accordance with the proportion of their shareholdings in the pioneer enterprise.
 
 (5) The pioneer enterprise shall deliver to the Comptroller a copy of that account, made up to a date specified by him, whenever called upon to do so by notice in writing sent by him to its registered office, until such time as he is satisfied that there is no further need for maintaining the account.
 
@@ -756,9 +776,9 @@ may apply in the prescribed form to the Minister for approval as a post-pioneer 
 
 (a) the manner in which expenses, capital allowances and donations allowable under the Income Tax Act are to be deducted; and
 
-(b) the deduction of capital allowances and of losses otherwise than in accordance with sections 23 and 37(2) of the Income Tax Act.
+(b) the deduction of capital allowances, losses and donations otherwise than in accordance with sections 23 and 37 of the Income Tax Act.
 
-[22/87]
+[Act 44/2002, wef Y/A 2003 & Sub Ys/A:2002-ACT-44]
 
 ### Certain dividends exempted from income tax
 
@@ -774,9 +794,31 @@ may apply in the prescribed form to the Minister for approval as a post-pioneer 
 
 [22/87]
 
-(3A) Notwithstanding subsection (3), where a dividend is paid on any share of a preferential nature, it shall not be so exempt in the hands of the shareholder.
+(3A) Notwithstanding subsections (3) and (5) —
 
-[22/87]
+(a) no dividend paid on any share of a preferential nature shall be exempt from tax in the hands of the shareholder;
+
+(b) any dividend paid on any share of a preferential nature shall be deemed as interest income of the shareholder if the dividend is paid by a company —
+
+(i) which has not been subjected to the provisions of section 44 of the Income Tax Act (Cap. 134) in force immediately before 1st January 2003; or
+
+(ii) which before 1st January 2003 had been subjected to the provisions of section 44 of that Act in force immediately before that date and the dividend is paid on or after —
+
+(A) the 44A balance of the company referred to in section 44A of that Act becomes nil;
+
+(B) the company exercises the option referred to in section 44(6A) of that Act; or
+
+(C) 31st December 2007,
+
+whichever is the earliest; and
+
+(c) any dividend paid on any share of a preferential nature shall be deemed as interest expense of the company if the company so elects.
+
+[44/2002 wef 20/12/2002]
+
+(3B) Any dividends debited to the account shall be treated as having been distributed to the shareholders of the post-pioneer company or any particular class of thosethe shareholders in accordance with the proportion of their shareholdings in the post-pioneer company.
+
+[44/2002 wef 20/12/2002]
 
 (4) Section 44 of the Income Tax Act (Cap. 134) shall not apply in respect of any dividends or part thereof which are debited to the account.
 
@@ -828,25 +870,31 @@ ought not to have been so taxed or exempted for any year of assessment, the Comp
 
 (a) the allowances provided for in sections 16, 17, 18, 19, 19A, 20, 21 and 22 of the Income Tax Act shall be taken into account notwithstanding that no claim for such allowances has been made;
 
-(b) the allowances referred to in paragraph (a) for that year of assessment shall firstly be deducted against the qualifying income, and any unabsorbed allowances shall be deducted against the other income of the company subject to tax at the rate of tax under section 43(1)(a) of the Income Tax Act in accordance with subsection (3);
+(b) the allowances referred to in paragraph (a) for that year of assessment shall firstly be deducted against the qualifying income, and any unabsorbed allowances shall be deducted against the other income of the company subject to tax under the Income Tax Act at a different the rate of tax under this Act or the Income Tax Actother than that specified in section 19B(5) of this Act in accordance with subsection (3);
 
 (c) the balance, if any, of the allowances after the deduction in paragraph (b) shall be available for deduction for any subsequent year of assessment in accordance with section 23 of the Income Tax Act and shall be made in the manner provided in paragraph (b);
 
-(d) any loss incurred for that basis period shall be deducted in accordance with subsection (3) against the other income of the company subject to tax at the rate of tax under section 43(1)(a) of the Income Tax Act; and
+(d) any loss incurred for that basis period shall be deducted in accordance with subsection (3) against the other income of the company subject to tax under the Income Tax Act at a different the rate of tax under this Act or the Income Tax Actother than that specified in section 19B(5) of this Act;
 
-(e) the balance, if any, of the losses after the deduction in paragraph (d) shall be available for deduction for any subsequent year of assessment in accordance with section 37 of the Income Tax Act firstly against the qualifying income, and any balance of the losses shall be deducted against the other income of the company subject to tax at the rate of tax under section 43(1)(a) of the Income Tax Act in accordance with subsection (3).
-
-[29/91; 36/93]
-
-(3) Section 37B of the Income Tax Act shall apply, with the necessary modifications, in relation to the deduction of the allowances provided for in sections 16, 17, 18, 19, 19A, 20, 21 and 22 of that Act or the losses under section 37 of that Act in respect of the qualifying income of the post-pioneer company and such part of its income as is subject to tax at the rate of tax under section 43(1)(a) of that Act.
-
-(4) For the purpose of an application under subsection (3), any reference in section 37B of the Income Tax Act (Cap. 134) to —
-
-(a) concessionary income shall be read as a reference to its qualifying income; and
-
-(b) normal income shall be read as a reference to such part of its income as is subject to tax at the rate of tax under section 43(1)(a) of that Act.
+(e) the balance, if any, of the losses after the deduction in paragraph (d) shall be available for deduction for any subsequent year of assessment in accordance with section 37 of the Income Tax Act firstly against the qualifying income, and any balance of the losses shall be deducted against the other income of the company subject to tax under the Income Tax Act at a different the rate of tax under this Act or the Income Tax Actother than that specified in section 19B(5) of this Act in accordance with subsection (3); and
 
 [29/91; 36/93]
+
+(f) eany unabsorbed donation for that year of assessment shall be deducted in accordance with subsection (3) against the other income of the company subject to tax at a different rate under this Act or the Income Tax Actunder the Income Tax Act at the rate of tax other than that specified in section 19B(5) of this Act; and
+
+[Act 44/2002, wef Y/A 2003 & Sub Ys/A:2002-ACT-44]
+
+(g) fthe balance, if any, of the donations after the deduction in paragraph (ef) shall be available for deduction for any subsequent year of assessment in accordance with section 37 of the Income Tax Act firstly against the qualifying income, and any balance of the donations shall be deducted against the other income of the company subject to tax at a different rate under this Act or the Income Tax Act under the Income Tax Act at the rate of tax other than that specified in section 19B(5) of this Act in accordance with subsection (3).
+
+[Act 44/2002, wef Y/A 2003 & Sub Ys/A:2002-ACT-44]
+
+(3) Section 37B of the Income Tax Act shall apply, with the necessary modifications, in relation to the deduction of the allowances provided for in sections 16, 17, 18, 19, 19A, 20, 21 and 22 of that Act, the losses or donations under section 37 of that Act in respect of qualifying income of the post-pioneer company and such part of its income as is subject to tax at a different rate under this Act or the Income Tax Actunder that Act at the rate of tax other than that specified in section 19B(5) of this Act.
+
+[Act 44/2002, wef Y/A 2003 & Sub Ys/A:2002-ACT-44]
+
+(4) For the purpose of the application under subsection (3), any reference in section 37B of the Income Tax Act to income of a company subject to tax at a higher or lower rate of tax or income of the company subject to tax at a higher or lower rate of tax, as the case may be, shall be read as a reference to its qualifying income.
+
+[Act 44/2002, wef Y/A 2003 & Sub Ys/A:2002-ACT-44]
 
 (5) In this section, “qualifying income” means the income of a post-pioneer company in respect of its qualifying activities.
 
@@ -944,9 +992,13 @@ DEVELOPMENT AND EXPANSION INCENTIVE
 
 [36/96]
 
-(4) Notwithstanding subsection (3), where a dividend is paid on any share of a preferential nature, it shall not be so exempt in the hands of the shareholder.
+(4) Notwithstanding subsections (3) and (6), no dividend paid on any share of a preferential nature shall be exempt from tax under this section in the hands of the shareholder.
 
-[36/96]
+[11/2004 wef 20/12/2002]
+
+(4A) Any dividends debited to the account shall be treated as having been distributed to the shareholders of the development and expansion company or any particular class of thosethe shareholders in accordance with the proportion of their shareholdings in the development and expansion company.
+
+[44/2002 wef 20/12/2002]
 
 (5) Section 44 of the Income Tax Act (Cap. 134) shall not apply in respect of any dividends or part thereof which are debited to the account.
 
@@ -1088,9 +1140,29 @@ and shall continue for such period, not exceeding 10 years, as the Minister may,
 
 (3) So much of the amount of any dividends so debited to that account as is received by a shareholder of the expanding enterprise shall, if the Comptroller is satisfied with the entries in the account, be exempt from tax in the hands of the shareholder.
 
-(3A) Notwithstanding subsection (3), where a dividend is paid on any share of a preferential nature, it shall not be so exempt in the hands of the shareholder.
+(3A) Notwithstanding subsections (3) and (9) —
 
-(4) Any dividends debited to that account shall be treated as having been distributed to the shareholders of the expanding enterprise or any particular class of those shareholders in the same proportions as the shareholders were entitled to payment of the dividends giving rise to the debit.
+(a) no dividend paid on any share of a preferential nature shall be exempt from tax in the hands of the shareholder;
+
+(b) any dividend paid on any share of a preferential nature shall be deemed as interest income of the shareholder if the dividend is paid by a company —
+
+(i) which has not been subjected to the provisions of section 44 of the Income Tax Act (Cap. 134) in force immediately before 1st January 2003; or
+
+(ii) which before 1st January 2003 had been subjected to the provisions of section 44 of that Act in force immediately before that date and the dividend is paid on or after —
+
+(A) the 44A balance of the company referred to in section 44A of that Act becomes nil;
+
+(B) the company exercises the option referred to in section 44(6A) of that Act; or
+
+(C) 31st December 2007,
+
+whichever is the earliest; and
+
+(c) any dividend paid on any share of a preferential nature shall be deemed as interest expense of the company if the company so elects.
+
+[44/2002 wef 20/12/2002]
+
+(4) Any dividends debited to that account shall be treated as having been distributed to the shareholders of the expanding enterprise or any particular class of those shareholders in accordance with the proportion of their shareholdings in the expanding enterprise.
 
 (5) The expanding enterprise shall deliver to the Comptroller a copy of that account, made up to a date specified by him, whenever called upon to do so by notice in writing sent by him to its registered office, until such time as he is satisfied that there is no further need for maintaining the account.
 
@@ -1316,9 +1388,29 @@ its tax relief period —
 
 (3) So much of the amount of any dividends so debited to that account as are received by a shareholder of the export enterprise shall, if the Comptroller is satisfied with the entries in the account, be exempt from tax in the hands of the shareholder.
 
-(3A) Notwithstanding subsection (3), where a dividend is paid on any share of a preferential nature, it shall not be so exempt in the hands of the shareholder.
+(3A) Notwithstanding subsections (3) and (9) —
 
-(4) Any dividends debited to that account shall be treated as having been distributed to the shareholders of the enterprise or any particular class of the shareholders in the same proportions as the shareholders were entitled to payment of the dividends giving rise to the debit.
+(a) no dividend paid on any share of a preferential nature shall be exempt from tax in the hands of the shareholder;
+
+(b) any dividend paid on any share of a preferential nature shall be deemed as interest income of the shareholder if the dividend is paid by a company —
+
+(i) which has not been subjected to the provisions of section 44 of the Income Tax Act (Cap. 134) in force immediately before 1st January 2003; or
+
+(ii) which before 1st January 2003 had been subjected to the provisions of section 44 of that Act in force immediately before that date and the dividend is paid on or after —
+
+(A) the 44A balance of the company referred to in section 44A of that Act becomes nil;
+
+(B) the company exercises the option referred to in section 44(6A) of that Act; or
+
+(C) 31st December 2007,
+
+whichever is the earliest; and
+
+(c) any dividend paid on any share of a preferential nature shall be deemed as interest expense of the company if the company so elects.
+
+[44/2002 wef 20/12/2002]
+
+(4) Any dividends debited to that account shall be treated as having been distributed to the shareholders of the enterprise or any particular class of the shareholders in accordance with the proportion of their shareholdings in the export enterprise.
 
 (5) The export enterprise shall deliver to the Comptroller a copy of that account, made up to a date specified by him, whenever called upon to do so by notice in writing sent by him to its registered office, until such time as he is satisfied that there is no further need for maintaining the account.
 
@@ -1690,11 +1782,29 @@ the Minister may specify such other relevant base export value for one or more b
 
 [8/79]
 
-(3A) Notwithstanding subsection (3), where a dividend is paid on any share of a preferential nature, it shall not be exempt from tax in the hands of the shareholder.
+(3A) Notwithstanding subsections (3) and (6) —
 
-[8/79]
+(a) no dividend paid on any share of a preferential nature shall be exempt from tax in the hands of the shareholder;
 
-(4) Any dividends debited to the tax exempt account shall be treated as having been distributed to the shareholders of the company or any particular class of those shareholders in the same proportions as the shareholders were entitled to payment of the dividends giving rise to the debit.
+(b) any dividend paid on any share of a preferential nature shall be deemed as interest income of the shareholder if the dividend is paid by a company —
+
+(i) which has not been subjected to the provisions of section 44 of the Income Tax Act (Cap. 134) in force immediately before 1st January 2003; or
+
+(ii) which before 1st January 2003 had been subjected to the provisions of section 44 of that Act in force immediately before that date and the dividend is paid on or after —
+
+(A) the 44A balance of the company referred to in section 44A of that Act becomes nil;
+
+(B) the company exercises the option referred to in section 44(6A) of that Act; or
+
+(C) 31st December 2007,
+
+whichever is the earliest; and
+
+(c) any dividend paid on any share of a preferential nature shall be deemed as interest expense of the company if the company so elects.
+
+[44/2002 wef 20/12/2002]
+
+(4) Any dividends debited to the tax exempt account shall be treated as having been distributed to the shareholders of the company or any particular class of those shareholders in accordance with the proportion of their shareholdings in the company.
 
 [8/79]
 
@@ -2754,15 +2864,17 @@ OVERSEAS ENTERPRISE INCENTIVE
 
 (c) the allowances provided for in sections 16 to 22 (where applicable) of the Income Tax Act attributable to the qualifying income during the tax relief period shall be taken into account notwithstanding that no claim for those allowances has been made;
 
-(d) where in any year of assessment full effect cannot, by reason of an insufficiency of qualifying income for that year of assessment, be given to those allowances, the balance of the allowances shall be added to, and be deemed to form part of, the corresponding allowances, if any, for the next succeeding year of assessment, and, if no such corresponding allowances fall to be made for that year, shall be deemed to constitute the corresponding allowances for that year, and so on for subsequent years of assessment, and shall, during the tax relief period, only be made against the qualifying income and the balance of such allowances shall not be available as a deduction against any other income;
+(d) where in any year of assessment full effect cannot, by reason of an insufficiency of qualifying income for that year of assessment, be given to those allowances, the balance of the allowances shall be added to, and be deemed to form part of, the corresponding allowances, if any, for the next succeeding year of assessment, and, if no such corresponding allowances fall to be made for that year, shall be deemed to constitute the corresponding allowances for that year, and so on for subsequent years of assessment, and shall, during the tax relief period, only be made against the qualifying income and the balance of such allowances shall not be available as a deduction against any other income or be available for transfer under section 37C of the Income Tax Act;
 
 (e) for the purposes of paragraphs (b)(ii) and (c), the amounts attributable to the qualifying income shall be determined on such basis as the Comptroller thinks reasonable and proper;
 
-(f) where the overseas enterprise has, during its tax relief period, incurred a loss for any year in respect of any qualifying activity, that loss shall during the tax relief period only be deducted against the qualifying income and the balance of such losses shall not be available as a deduction against any other income;
+(f) where the overseas enterprise has, during its tax relief period, incurred a loss or has unabsorbed donation for any year in respect of its qualifying activity, that loss or donation shall during the tax relief period, subject to section 37 of the Income Tax Act, only be deducted against the qualifying income and the balance of such loss or donation shall not be available as a deduction against any other income or be available for transfer under section 37C of that Act;
 
-(g) for the purposes of paragraphs (b), (c) and (f), expenses, donations, allowances and losses attributable to any qualifying income derived from outside Singapore shall only be deducted against such income and the balance of such expenses, donations, allowances and losses shall not be available as a deduction against any other income ; and
+[Act 44/2002, wef Y/A 2003 & Sub Ys/A:2002-ACT-44]
 
-(h) subject to sections 23 and 37 of the Income Tax Act (Cap. 134), any allowances and lossesattributable to any qualifying income derived from Singapore which remain unabsorbed at the end of its tax relief period shall be available for deduction in its post tax relief period.
+(g) for the purposes of paragraphs (b), (c) and (f), expenses, donations, allowances and losses attributable to any qualifying income derived from outside Singapore shall only be deducted against such income and the balance of such expenses, donations, allowances and losses shall not be available as a deduction against any other income or be available for transfer under section 37C of the Income Tax Act; and
+
+(h) subject to sections 23 and 37 of the Income Tax Act (Cap. 134), any allowances , losses and donations attributable to any qualifying income derived from Singapore which remain unabsorbed at the end of its tax relief period shall be available for deduction in its post tax relief period.
 
 [36/93]
 
@@ -2806,21 +2918,13 @@ OVERSEAS ENTERPRISE INCENTIVE
 
 [4/98]
 
-(4A) Where the designated account is in credit at the date on which any dividends are paid by the holding company out of the income which has been credited to the designated account, an amount equal to the dividends or to the credit in that account, whichever is the less, shall be debited to the designated account.
+(4A) Notwithstanding subsections (3) and (4), no dividend paid on any share of a preferential nature shall be exempt from tax under this section in the hands of the shareholder.
 
-[4/98]
+[11/2004 wef 20/12/2002]
 
-(4B) So much of the amount of any dividends debited to the designated account as is received by a shareholder of the holding company shall, if the Comptroller is satisfied with the entries in the designated account, be exempt from tax in the hands of the shareholder.
+(4B) Any dividends debited to thatthe account shall be treated as having been distributed to the shareholders of the overseas enterprise or any particular class of thosethe shareholders in accordance with the proportion of their shareholdings in thecompany overseas enterprise.
 
-[4/98]
-
-(4C) Where an amount of dividends exempt from tax under subsection (4B) has been received on or after 11th July 1997 by a shareholder which is a relevant holding company, any dividends paid by the relevant holding company to its shareholders, to the extent that the Comptroller is satisfied that those dividends are paid out of such amount, shall be exempt from tax in the hands of those shareholders.
-
-[4/98]
-
-(4D) Notwithstanding subsections (3), (4B) and (4C), no dividend paid on any share of a preferential nature shall be exempt from tax in the hands of the shareholder.
-
-[36/93; 4/98]
+[44/2002 wef 20/12/2002]
 
 (5) The overseas enterprise or the holding company shall deliver to the Comptroller a statement of the account or designated account, as the case may be, made up to any date specified by him, if the Comptroller so requires by written notice.
 
@@ -2869,6 +2973,146 @@ ought not to have been exempted by reason of a direction under section 97L, havi
 97R\. The Comptroller may require an auditor to certify the income derived by an overseas enterprise from its qualifying activity, any direct costs and expenses incurred therefor and any dividends from qualifying investment in an overseas company to have been paid out of income from its qualifying activity for the purposes of section 97P.
 
 [36/93]
+
+## PART XIIIC
+
+TECHNOPRENEUR INVESTMENT INCENTIVE
+
+[44/2002 wef 20/12/2002]
+
+### Interpretation of this Part
+
+97S\. In this Part, unless the context otherwise requires —
+
+“eligible investor”, in relation to a technopreneur start-up company, means a person who holds such qualifying shares in the company as specified in a letter issued by the company to the person under section 97U(2);
+
+“technopreneur start-up company” means a company approved as a technopreneur start-up company under section 97T(2).
+
+### Application for and issue of certificate totechnopreneur start-up company
+
+97T\.—(1) Any company which —
+
+(a) is incorporated in Singapore and not listed on the Singapore Exchange or elsewhere;
+
+(b) has a paid-up capital of not less than $10,000; and
+
+(c) is solely or primarily engaged in Singapore in innovative and high growth activities with substantial developmental contents in relation to any product, process or service,
+
+may make an application to the Minister to be approved as a technopreneur start-up company.
+
+(2) Where the Minister is satisfied that the activities of the company are in an area of high growth potential and, if introduced in Singapore, would promote or enhance the economic or technological development of Singapore, the Minister may approve the company as a technopreneurstart-up company for a period not exceeding 5 years and issue a certificate to the company subject to such conditions as he may impose.
+
+(3) No approval under subsection (2) shall be given on or after 1st September 2009.
+
+### Allotment of qualifying shares by company
+
+97U\.—(1) A technopreneurstart-up company may, on or after 1st September 1999, allot to any person shares of the company as qualifying shares if the following conditions are satisfied:
+
+(a) the shares are not shares of a preferential nature;
+
+(b) the purchase price of the shares allotted to the person at any one time is not less than $1,000;
+
+(c) the shares are not shares allotted to or acquired by the person under a share option or share award scheme;
+
+(d) the shares are not acquired by the person through a conversion of any loan or debt securities;
+
+(e) the shares are paid in cash by the person; and
+
+(f) at the time the shares are allotted to the person, the total amount paid to the company for all qualifying shares by eligible investors (including the amount paid for those shares by that person) has not in the aggregate exceeded $3 million.
+
+(2) Where a technopreneur start-up company has allotted any qualifying shares under subsection (1) to any person, the company shall issue to the person a letter for the purposes of this Part.
+
+(3) Every letter issued by a technopreneur start-up company to any person under subsection (2) shall specify —
+
+(a) the date on which the qualifying shares are allotted to the person; and
+
+(b) the number of qualifying shares allotted to the person and the purchase price of such shares.
+
+(4) A technopreneur start-up company shall keep and maintain records of the persons to whom letters under subsection (2) are issued and such other particulars as may be required by the Minister for the purposes of this section.
+
+(5) Any letter issued under subsection (2) shall not be transferable.
+
+(6) Where a technopreneur start-up company is listed at any time whether or not during or after the period referred to in section 97T(2) on the Singapore Exchange or elsewhere or where the certificate issued under section 97T(2) to a technopreneur start-up company is revoked under section 99, any qualifying shares allotted by the company to any person shall, as from the date of such listing or revocation, as the case may be, be deemed not to be qualifying shares and the person shall be deemed not to be an eligible investor.
+
+### Deduction of losses allowable to eligible investor
+
+97V\.—(1) Subject to this section, where, in any basis period for any year of assessment, any eligible investor has incurred any loss arising from —
+
+(a) the sale of qualifying shares held by him in a technopreneur start-up company; or
+
+(b) the liquidation of the technopreneur start-up company,
+
+the loss shall be allowed as a deduction against the statutory income of the eligible investor for that year of assessment in accordance with section 37 of the Income Tax Act (Cap. 134) as if the loss were incurred from a trade or business carried on by the eligible investor.
+
+(2) For the purposes of this section —
+
+(a) any gain made or loss incurred on the sale of any qualifying share which occurred during the period of less than one year from the date of allotment to the eligible investor of such share shall be disregarded;
+
+(b) any gain made or loss incurred on the sale of any qualifying share, or from the liquidation of the technopreneur start-up company which occurred after 6 years from the date of allotment of such share to the eligible investor shall be disregarded;
+
+(c) no deduction under this section shall be allowed for any year of assessment unless —
+
+(i) the total losses in respect of the sale of any qualifying share, or from the liquidation of the technopreneur start-up company up to the end of the basis period for that year of assessment exceed the total gains made in respect of the sale of any qualifying share, or from the liquidation of the technopreneur start-up company up to the end of that basis period; and
+
+(ii) the Comptroller is satisfied that the loss was not incurred for the purpose of obtaining a tax advantage;
+
+(d) the amount of deduction under this section shall not exceed the excess of the total losses over the total gains referred to in paragraph (c)(i); and
+
+(e) in computing the gain or loss from the sale of any qualifying share by an eligible investor, the shares allotted to him on an earlier date shall be deemed to have been sold first.
+
+(3) Where in the basis period for any year of assessment an eligible investor makes a gain from the sale of any qualifying share, or from the liquidation of a technopreneur start-up company and where any loss from the sale of any qualifying share of that technopreneur start-up company has been allowed as a deduction to the eligible investor under this section for any previous year of assessment, such gain shall, so far as it is not chargeable to tax as a revenue or trading receipt, be deemed to be income of the eligible investor chargeable to tax for that year of assessment, subject to the following provisions:
+
+(a) no gain shall be so deemed to be income unless the total amount of the losses allowed for the previous years of assessment exceed the total amount of the gains deemed to be income for previous years of assessment;
+
+(b) the amount of the gain chargeable to tax shall not exceed the excess of the total amount of the losses allowed for previous years of assessment over the total amount of the gains deemed to be income for previous years of assessment; and
+
+(c) the losses and gains referred to in subsection (2)(a) and (b) shall be disregarded.
+
+(4) Where in the basis period for any year of assessment an eligible investor incurs a loss from the sale of any qualifying share or from the liquidation of a technopreneur start-up company and where any gain made from the sale of any qualifying shares of that technopreneur start-up company, so far as it is not chargeable to tax as a revenue or trading receipt, has not been deemed to be income of the eligible investor chargeable to tax under this section for any previous year of assessment, such loss shall be allowed as a deduction against the statutory income of the eligible investor for that year of assessment under this section subject to the following provisions:
+
+(a) the amount of deduction shall not exceed the excess of the loss over the total amount of gains not deemed to be income for previous years of assessment;
+
+(b) the total amount of gains not deemed to be income for previous years of assessment shall be reduced by the excess of loss for that basis period over the deduction referred to in paragraph (a); and
+
+(c) the losses and gains referred to in subsection (2)(a) and (b) shall be disregarded.
+
+(5) For the purposes of this section, the loss shall be the excess of the purchase price of the qualifying shares —
+
+(a) over the proceeds from the sale; and where the value of net asset backing of the technopreneur start-up company as determined by the Comptroller at the date of sale of such shares is greater than the sale proceeds, that value shall be deemed to be the proceeds from the sale; or
+
+(b) over the proceeds from the liquidation of the technopreneur start-up company,
+
+as the case may be.
+
+(6) For the purposes of this section, the gain shall be the excess of —
+
+(a) the proceeds from the sale; and where the value of net asset backing of the technopreneur start-up company as determined by the Comptroller at the date of sale of such shares is greater than the sale proceeds, that value shall be deemed to be the proceeds from the sale; or
+
+(b) the proceeds from the liquidation of the technopreneur start-up company,
+
+as the case may be, over the purchase price of the shares.
+
+(7) Section 37B of the Income Tax Act (Cap. 134) shall not apply to any loss allowed under subsection (1).
+
+### Power of Comptroller to give directions
+
+97W\. For the purposes of the Income Tax Act and this Act, the Comptroller may direct that —
+
+(a) any loss incurred in respect of the sale of any qualifying share by an eligible investor on any day during the period from the first day of the second year to the last day of the sixth year (both dates inclusive) from the date of allotment of such share, which, but for the provisions of this Act, might reasonably and properly have been expected to be incurred in the normal course of business before or after that period, shall be treated as not having been incurred on that day but as having been incurred on such day before or after that period as the Comptroller thinks fit; and
+
+(b) any gain made in respect of the sale of any qualifying share by an eligible investor before the second year or after the sixth year from the date of allotment of such share, which, but for the provisions of this Act, might reasonably and properly have been expected to be made in the normal course of business to be madeon any day during the period from the first day of the second year to last day of the sixth year (both dates inclusive) from the date of allotment of such share, shall be treated as not having been made on that day but as having been made on such day during that period as the Comptroller thinks fit.
+
+### Prohibition of other activity
+
+97X\. A technopreneur start-up company shall not, without the written approval of the Minister, carry out any activity other than the activity to which its certificate relates.
+
+### Recovery of tax
+
+97Y\. Notwithstanding anything in this Part, where it appears to the Comptroller that any deduction under section 97V ought not to have been given to an eligible investor by reason of a direction made under section 97W or the revocation under section 99 of the certificate issued under section 97T(2) to a technopreneur start-up company or the loss was incurred for the purpose of obtaining a tax advantage, the Comptroller may, subject to section 74 of the Income Tax Act (Cap. 134), make such assessment or additional assessment upon the eligible investor as may be necessary in order to recover any tax which should have been payable by the eligible investor.
+
+### Savings provision
+
+97Z\. Any certificate issued by the Minister to a technopreneur start-up company and any letter of allotment of qualifying shares issued by a technopreneur start-up company before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2002 shall be deemed to be issued under sections 97T(2) and 97U(2), respectively.
 
 ## PART XIV
 
@@ -3082,6 +3326,16 @@ This Legislative History is provided for the convenience of users of the Economi
 |||(Bill No. 7/2004 published on 28 February 2004)|
 ||Date of Second and Third Readings|20 April 2004|
 ||Date of commencement|10 December 2002|
+|24.|**Act 44 of 2002—Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2002**|
+||Date of First Reading|25 November 2002|
+|||(Bill No. 46/2002 published on 26 November 2002)|
+||Date of Second and Third Readings|5 December 2002|
+||Date of commencement|20 December 2002|
+|25.|**Act 11 of 2004—Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004**|
+||Date of First Reading|27 February 2004|
+|||(Bill No. 7/2004 published on 28 February 2004)|
+||Date of Second and Third Readings|20 April 2004|
+||Date of commencement|20 December 2002|
 ## COMPARATIVE TABLE
 
 Economic Expansion Incentives (Relief from Income Tax) Act
