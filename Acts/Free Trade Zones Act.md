@@ -102,7 +102,7 @@ PRELIMINARY
 
 “Director-General” means the Director-General of Customs and Excise appointed under section 4(1) of the Customs Act [Cap. 70];
 
-“customs duty” means any import duty or excise tax imposed under the Customs Act;
+“customs duty” means any customs duty or excise tax imposed under the Customs Act;
 
 “customs territory” means Singapore and the territorial waters thereof but excluding any free trade zone;
 
@@ -403,3 +403,8 @@ This Legislative History is provided for the convenience of users of the Free Tr
 |||(Bill No. 10/1997)|
 ||Date of Second and Third Readings|7 October 1997|
 ||Date of commencement|17 October 1997|
+|6.|**Act 33 of 2000—Customs (Amendment) Act 2000**|
+||Date of First Reading|13 November 2000|
+|||(Bill No. 33/2000)|
+||Date of Second and Third Readings|22 November 2000|
+||Date of commencement|1 January 2001|
