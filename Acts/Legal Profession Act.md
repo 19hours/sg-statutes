@@ -3516,3 +3516,5 @@ This Legislative History is provided for the convenience of users of the Legal P
 ||Date of commencement|1 October 1997|
 |26.|**1997 Revised Edition—Legal Profession Act (Chapter 161)**|
 ||Date of operation|20 December 1997|
+|27.|**G. N. No. S 383/1998—Legal Profession Act (Appointed Day for purposes of section 75B) Notification 1998**|
+||Date of commencement|1 September 1998|
