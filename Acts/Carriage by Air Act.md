@@ -1,14 +1,12 @@
-**Carriage by Air Act 1988**
+**Carriage by Air Act**
 
-**(No. 20 of 1988)**
+**(CHAPTER 32A)**
 
 **Table of Contents**
 
 [**Long Title**](#Carriage-by-Air-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -30,53 +28,33 @@
 
 - [11 Actions against High Contracting Parties](#Actions-against-High-Contracting-Parties)
 
-- [12 Application to carriage by air not governed by the amended Convention](#Application-to-carriage-by-air-not-governed-by-the-amended-Convention)
+- [12 Application to carriage by air not governed by amended Convention](#Application-to-carriage-by-air-not-governed-by-amended-Convention)
 
 - [13 Application to Government](#Application-to-Government)
 
-- [14 Consequential amendment](#Consequential-amendment)
+[**FIRST SCHEDULE the Warsaw Convention With the Amendments Made to It by the Hague Protocol**](#FIRST-SCHEDULE-the-Warsaw-Convention-With-the-Amendments-Made-to-It-by-the-Hague-Protocol)
 
-[**FIRST SCHEDULE Warsaw Convention With the Amendments Made to It by the Hague Protocol**](#FIRST-SCHEDULE-Warsaw-Convention-With-the-Amendments-Made-to-It-by-the-Hague-Protocol)
+[**SECOND SCHEDULE The unamended Warsaw Convention**](#SECOND-SCHEDULE-The-unamended-Warsaw-Convention)
 
-[**SECOND SCHEDULE Unamended Warsaw Convention**](#SECOND-SCHEDULE-Unamended-Warsaw-Convention)
+[**Legislative History**](#Legislative-History)
 
-REPUBLIC OF SINGAPORE
+# Carriage by Air Act
 
-GOVERNMENT GAZETTE
+(CHAPTER 32A)
 
-ACTS SUPPLEMENT
+(Original Enactment: Act 20 of 1988)
 
-Published by Authority
+REVISED EDITION 1989
 
-NO. 14]
-
-Friday, August 19
-
-[1988
-
-The following Act was passed by Parliament on 11th August 1988 and assented to by the President on 16th August 1988:—
-
-Carriage by Air Act 1988
-
-(No. 20 of 1988)
-
-I assent.
-
-WEE KIM WEE
-
-President.
-
-16th August 1988.
-
-Date of Commencement: 16th September 1988
+(15th March 1989)
 
 An Act to give effect to the provisions of the Warsaw Convention concerning international carriage by air and the Convention as amended by the Hague Protocol and for purposes connected therewith.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[16th September 1988]
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Carriage by Air Act 1988 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Carriage by Air Act.
 
 ### Interpretation
 
@@ -94,15 +72,15 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 ### Conventions to have force of law
 
-3\.—(1) Subject to this Act, the provisions of the Convention and the amended Convention shall, so far as they relate to the rights and liabilities of carriers, carriers’ servants and agents, passengers, consignors, consignees and other persons, have the force of law in Singapore in relation to any carriage by air to which the Convention or the amended Convention, as the case may require applies, irrespective of the nationality of the aircraft performing that carriage.
+3\.—(1) Subject to this Act, the provisions of the Convention and the amended Convention shall, so far as they relate to the rights and liabilites of carriers, carriers’ employees and agents, passengers, consignors, consignees and other persons, have the force of law in Singapore in relation to any carriage by air to which the Convention or the amended Convention, as the case may require, applies irrespective of the nationality of the aircraft performing that carriage.
 
 (2) If there is any inconsistency between any of the texts set out in the First and Second Schedules and the authentic text in the French language of the Warsaw Convention or the Hague Protocol, as the case may be, the authentic French text shall prevail.
 
-(3) Subsection (1) shall not apply so as to affect rights or liabilities arising out of an occurrence before the commencement of this Act.
+(3) Subsection (1) shall not apply so as to affect rights or liabilities arising out of an occurrence before 16th September 1988.
 
 ### Certification of High Contracting Parties
 
-4\.—(1) The Minister may by order published in theGazette, from time to time certify who are the High Contracting Parties to the Convention and the High Contracting Parties to the amended Convention, in respect of what territories they are respectively parties and to what extent they have availed themselves of the provisions of the Additional Protocol at the end of the Convention and the amended Convention.
+4\.—(1) The Minister may, by order published in theGazette, from time to time certify who are the High Contracting Parties to the Convention and the High Contracting Parties to the amended Convention, in respect of what territories they are respectively parties and to what extent they have availed themselves of the provisions of the Additional Protocol at the end of the Convention and the amended Convention.
 
 (2) Article 40A(2) in the First Schedule shall not be read as extending references in that Schedule to the territory of a High Contracting Party (except such as are references to the territory of any State, whether a High Contracting Party or not) to include any territory in respect of which that High Contracting Party is not a party.
 
@@ -112,11 +90,11 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 ### Fatal accidents
 
-5\. References in section 12 of the Civil Law Act (Cap. 43) to a wrongful act, neglect or default shall include references to any occurrence which gives rise to liability under Article 17 in the First and Second Schedules.
+5\. References in section 12 of the Civil Law Act [Cap. 43, 1988 Ed.] to a wrongful act, neglect or default shall include references to any occurrence which gives rise to liability under Article 17 in the First and Second Schedules.
 
 ### Limitations of liability
 
-6\.—(1) It is hereby declared that the limitations on liability in Article 22 in the First and Second Schedules shall apply whatever the nature of the proceedings by which liability may be enforced and that, in particular —
+6\.—(1) It is declared that the limitations on liability in Article 22 in the First and Second Schedules shall apply whatever the nature of the proceedings by which liability may be enforced and that, in particular —
 
 (a) those limitations shall apply where proceedings are brought by a tortfeasor to obtain a contribution from another tortfeasor; and
 
@@ -126,27 +104,27 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 (3) Without prejudice to subsection (2), a court before which proceedings are brought to enforce a liability which is limited by Article 22 in the First or Second Schedule shall, where the liability is, or may be, partly enforceable in other proceedings in Singapore or elsewhere, have jurisdiction to award an amount less than the court would have awarded if the limitation applied solely to the proceedings before the court, or to make any part of its award conditional on the result of any other proceedings.
 
-(4) The Minister may, by order published in theGazette, from time to time specify the respective amounts which for the purposes of Article 22 in the First and Second Schedules, are to be taken as equivalent to the sums expressed in francs which are mentioned in that Article.
+(4) The Minister may, by order published in theGazette, from time to time specify the respective amounts which, for the purposes of Article 22 in the First and Second Schedules , are to be taken as equivalent to the sums expressed in francs which are mentioned in that Article.
 
-(5) References in this section to Article 22 in the First Schedule include, subject to any necessary modifications, references to that Article as applied by Article 25A in the First Schedule.
+(5) References in this section to Article 22 in the First Schedule include, subject to any necessary modifications, references to that Article as applied by Article 25A in the First Schedule .
 
 ### Notice of partial loss
 
-7\. In Article 26(2) in the First and Second Schedules, the references to damage shall be construed as including loss of part of the baggage or cargo in question and the references to the receipt of baggage or cargo shall, in relation to loss of part of it, be construed as receipt of the remainder of it.
+7\. In Article 26(2) in the First and Second Schedules , the references to damage shall be construed as including loss of part of the baggage or cargo in question and the references to the receipt of baggage or cargo shall, in relation to loss of part of it, be construed as receipt of the remainder of it.
 
 ### Time for bringing proceedings
 
-8\.—(1) No action against a carrier’s servant or agent which arises out of damage to which the Convention or the amended Convention relates shall, if he was acting within the scope of his employment, be brought after more than two years, reckoned from the date of arrival at the destination or from the date on which the aircraft ought to have arrived, or from the date on which the carriage stopped.
+8\.—(1) No action against a carrier’s employee or agent which arises out of damage to which the Convention or the amended Convention relates shall, if he was acting within the scope of his employment, be brought after more than two years, reckoned from the date of arrival at the destination or from the date on which the aircraft ought to have arrived, or from the date on which the carriage stopped.
 
 (2) Article 29 in the First and Second Schedules shall not be read as applying to any proceedings for contribution between persons liable for any damage to which the Convention or the amended Convention relates.
 
-(3) Subject to sections 4 and 29 of the Limitation Act (Cap. 163), no action shall be brought by a person, liable for any damage to which the Convention or the amended Convention relates, to recover contribution from any other person in respect of such damage after the expiration of two years from the time when a court gives judgment or makes an award against the person seeking to recover the contribution.
+(3) Subject to sections 4 and 29 of the Limitation Act [Cap. 163], no action shall be brought by a person, liable for any damage to which the Convention or the amended Convention relates, to recover contribution from any other person in respect of the damage after the expiration of two years from the time when a court gives judgment or makes an award against the person seeking to recover the contribution.
 
 (4) Subsections (1), (2) and (3) and Article 29 in the First and Second Schedules shall have effect as if references in those provisions to an action included references to an arbitration; and section 30(3) and (4) of the Limitation Act (which determine the time at which an arbitration is deemed to be commenced), shall apply for the purposes of this subsection.
 
 ### Contributory negligence
 
-9\. It is hereby declared that, for the purposes of Article 21 in the First and Second Schedules, the provisions of the Contributory Negligence and Personal Injuries Act (Cap. 54) are provisions of the law of Singapore under which a court may exonerate the carrier wholly or partly from his liability.
+9\. It is declared that, for the purposes of Article 21 in the First and Second Schedules, the provisions of the Contributory Negligence and Personal Injuries Act [Cap. 54, 1989 Ed.] are provisions of the law of Singapore under which a court may exonerate the carrier wholly or partly from his liability.
 
 ### Power to exclude aircraft in use for military purposes
 
@@ -156,61 +134,69 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 ### Actions against High Contracting Parties
 
-11\. Every High Contracting Party to the Convention or the amended Convention who has not availed himself of the provisions of the Additional Protocol at the end of the First or Second Schedule shall, for the purposes of any action brought in a court in Singapore in accordance with Article 28 in the First or Second Schedule to enforce a claim in respect of carriage undertaken by him, be deemed to have submitted to the jurisdiction of that court, and accordingly rules of court may provide for the manner in which any action is to be commenced and carried on; but nothing in this section shall authorise the issue of execution against the property of any High Contracting Party.
+11\. Every High Contracting Party to the Convention or the amended Convention who has not availed himself of the provisions of the Additional Protocol at the end of the First or Second Schedule shall, for the purposes of any action brought in a court in Singapore in accordance with Article 28 in the First or Second Schedule to enforce a claim in respect of carriage undertaken by him, be deemed to have submitted to the jurisdiction of that court, and accordingly Rules of Court may provide for the manner in which any action is to be commenced and carried on; but nothing in this section shall authorise the issue of execution against the property of any High Contracting Party.
 
-### Application to carriage by air not governed by the amended Convention
+### Application to carriage by air not governed by amended Convention
 
-12\. The Minister may make regulations applying the provisions of the First Schedule and any provision of this Act to such carriage by air, not being international carriage by air as defined in the First Schedule, as may be specified in the regulations, subject to such exceptions, adaptations and modifications, if any, as may be so specified.
+12\. The Minister may make regulations applying the provisions of the First Schedule and any provision of this Act to such carriage by air, not being international carriage as defined in the First Schedule, as may be specified in the regulations, subject to such exceptions, adaptations and modifications, if any, as may be so specified.
 
 ### Application to Government
 
 13\. This Act shall bind the Government.
 
-### Consequential amendment
-
-14\. Section 3 of the Contributory Negligence and Personal Injuries Act (Cap. 54) is amended by deleting subsection (6).
-
 FIRST SCHEDULE
 
 Section 2
 
-Warsaw Convention With the Amendments Made to It by the Hague Protocol
+the Warsaw Convention With the Amendments Made to It by the Hague Protocol
 
-(Words in square brackets in both texts are words substituted for or added to the original Warsaw Convention by Chapter I of the Hague Protocol.))
+(Words in square brackets in both texts are words substituted for or added to the original Warsaw Convention by Chapter I of the Hague Protocol.)
 
-[CONVENTION FOR THE UNIFICATION OF CERTAIN RULES RELATING TO INTERNATIONAL CARRIAGE BY AIR]
+Convention
+
+
+
+
+for the Unification of Certain Rules Relating
+
+
+
+
+to International Carriage by Air
 
 Chapter I
+
+
+
 
 Scope — Definitions
 
 Article 1
 
-(1) This Convention applies to all international carriage of persons, baggage or cargo performed by aircraft for reward\. It applies equally to gratuitous carriage by aircraft performed by an air transport undertaking.
+(1) This Convention applies to all international carriage of persons, baggage or cargo performed by aircraft for reward. It applies equally to gratuitous carriage by aircraft performed by an air transport undertaking.
 
-(2) For the purposes of this Convention, the expressioninternational carriagemeans any carriage in which, according to the agreement between the parties, the place of departure and the place of destination, whether or not there be a break in the carriage or a transhipment, are situated either within the territories of two High Contracting Parties or within the territory of a single High Contracting Party if there is an agreed stopping place within the territory of another State, even if that State is not a High Contracting Party\. Carriage between two points within the territory of a single High Contracting Party without an agreed stopping place within the territory of another State is not international carriage for the purposes of this Convention.
+[(2) For the purposes of this Convention, the expressioninternational carriagemeans any carriage in which, according to the agreement between the parties, the place of departure and the place of destination, whether or not there be a break in the carriage or a transhipment, are situated either within the territories of two High Contracting Parties or within the territory of a single High Contracting Party if there is an agreed stopping place within the territory of another State, even if that State is not a High Contracting Party. Carriage between two points within the territory of a single High Contracting Party without an agreed stopping place within the territory of another State is not international carriage for the purposes of this Convention.
 
-(3) Carriage to be performed by several successive air carriers is deemed, for the purposes of this Convention, to be one undivided carriage if it has been regarded by the parties as a single operation, whether it had been agreed upon under the form of a single contract or of a series of contracts, and it does not lose its international character merely because one contract or a series of contracts is to be performed entirely within the territory of the same State\.
+(3) Carriage to be performed by several successive air carriers is deemed, for the purposes of this Convention, to be one undivided carriage if it has been regarded by the parties as a single operation, whether it had been agreed upon under the form of a single contract or of a series of contracts, and it does not lose its international character merely because one contract or a series of contracts is to be performed entirely within the territory of the same State.]
 
 Article 2
 
-(1) This Convention applies to carriage performed by the State or by legally constituted public bodies provided it falls within the conditions laid down in Article 1\.
+(1) This Convention applies to carriage performed by the State or by legally constituted public bodies provided it falls within the conditions laid down in Article 1.
 
-(2) This Convention shall not apply to carriage of mail and postal packages\.
+[(2) This Convention shall not apply to carriage of mail and postal packages\.]
 
-Chapter II
+Chapter Ii
+
+
+
 
 Documents of Carriage
 
-Section 1
-
-—
-
-Passenger Ticket
+Section 1 — Passenger TICKET
 
 Article 3
 
-(1) In respect of the carriage of passengers a ticket shall be delivered containing:
+[(1) In respect of the carriage of passengers a ticket shall be delivered containing:
 
 (a) an indication of the places of departure and destination;
 
@@ -218,17 +204,13 @@ Article 3
 
 (c) a notice to the effect that, if the passenger’s journey involves an ultimate destination or stop in a country other than the country of departure, the Warsaw Convention may be applicable and that the Convention governs and in most cases limits the liability of carriers for death or personal injury and in respect of loss of or damage to baggage.
 
-(2) The passenger ticket shall constituteprima facieevidence of the conclusion and conditions of the contract of carriage\. The absence, irregularity or loss of the passenger ticket does not affect the existence or the validity of the contract of carriage which shall, none the less, be subject to the rules of this Convention. Nevertheless, if, with the consent of the carrier, the passenger embarks without a passenger ticket having been delivered, or if the ticket does not include the notice required by paragraph (1) (c) of this Article, the carrier shall not be entitled to avail himself of the provisions of Article 22.
+(2) The passenger ticket shall constituteprima facieevidence of the conclusion and conditions of the contract of carriage. The absence, irregularity or loss of the passenger ticket does not affect the existence or the validity of the contract of carriage which shall, none the less, be subject to the rules of this Convention. Nevertheless, if, with the consent of the carrier, the passenger embarks without a passenger ticket having been delivered, or if the ticket does not include the notice required by paragraph (1) (c) of this Article, the carrier shall not be entitled to avail himself of the provisions of Article 22.]
 
-Section 2
-
-—
-
-Baggage Check
+Section 2 — Baggage Check
 
 Article 4
 
-(1) In respect of the carriage of registered baggage, a baggage check shall be delivered, which, unless combined with or incorporated in a passenger ticket which complies with the provisions of Article 3, paragraph (1), shall contain:
+[(1) In respect of the carriage of registered baggage, a baggage check shall be delivered, which, unless combined with or incorporated in a passenger ticket which complies with the provisions of Article 3, paragraph (1), shall contain:
 
 (a) an indication of the places of departure and destination;
 
@@ -236,13 +218,9 @@ Article 4
 
 (c) a notice to the effect that, if the carriage involves an ultimate destination or stop in a country other than the country of departure, the Warsaw Convention may be applicable and that the Convention governs and in most cases limits the liability of carriers in respect of loss of or damage to baggage.
 
-(2) The baggage check shall constituteprima facieevidence of the registration of the baggage and of the conditions of the contract of carriage\. The absence, irregularity or loss of the baggage check does not affect the existence or the validity of the contract of carriage which shall, none the less, be subject to the rules of this Convention. Nevertheless, if the carrier takes charge of the baggage without a baggage check having been delivered or if the baggage check (unless combined with or incorporated in the passenger ticket which complies with the provisions of Article 3, paragraph (1) (c)) does not include the notice required by paragraph (1) (c) of this Article, he shall not be entitled to avail himself of the provisions of Article 22, paragraph (2).
+(2) The baggage check shall constituteprima facieevidence of the registration of the baggage and of the conditions of the contract of carriage. The absence, irregularity or loss of the baggage check does not affect the existence or the validity of the contract of carriage which shall, none the less, be subject to the rules of this Convention. Nevertheless, if the carrier takes charge of the baggage without a baggage check having been delivered or if the baggage check (unless combined with or incorporated in the passenger ticket which complies with the provisions of Article 3, paragraph (1) (c)) does not include the notice required by paragraph (1) (c) of this Article, he shall not be entitled to avail himself of the provisions of Article 22, paragraph (2).]
 
-Section 3
-
-—
-
-Air Waybill
+Section 3 — Air Waybill
 
 Article 5
 
@@ -252,15 +230,15 @@ Article 5
 
 Article 6
 
-(1) The air waybill shall be made out by the consignor in three original parts and be handed over with the cargo\.
+(1) The air waybill shall be made out by the consignor in 3 original parts and be handed over with the cargo\.
 
-(2) The first part shall be marked “for the carrier”, and shall be signed by the consignor\. The second part shall be marked “for the consignee”; it shall be signed by the consignor and by the carrier and shall accompany the cargo. The third part shall be signed by the carrier and handed by him to the consignor after the cargo has been accepted.
+(2) The first part shall be marked “for the carrier”, and shall be signed by the consignor. The second part shall be marked “for the consignee”; it shall be signed by the consignor and by the carrier and shall accompany the cargo. The third part shall be signed by the carrier and handed by him to the consignor after the cargo has been accepted.
 
-(3) The carrier shall sign prior to the loading of the cargo on board the aircraft\.
+[(3) The carrier shall sign prior to the loading of the cargo on board the aircraft.]
 
-(4) The signature of the carrier may be stamped; that of the consignor may be printed or stamped\.
+(4) The signature of the carrier may be stamped; that of the consignor may be printed or stamped.
 
-(5) If, at the request of the consignor, the carrier makes out the air waybill, he shall be deemed, subject to proof to the contrary, to have done so on behalf of the consignor\.
+(5) If, at the request of the consignor, the carrier makes out the air waybill, he shall be deemed, subject to proof to the contrary, to have done so on behalf of the consignor.
 
 Article 7
 
@@ -268,19 +246,13 @@ The carrier of cargo has the right to require the consignor to make out separate
 
 Article 8
 
-The air waybill shall contain:
+[The air waybill shall contain:
 
-(a)
+(a) an indication of the places of departure and destination;
 
-an indication of the places of departure and destination;
+(b) if the places of departure and destination are within the territory of a single High Contracting Party, one or more agreed stopping places being within the territory of another State, an indication of at least one such stopping place;
 
-(b)
-
-if the places of departure and destination are within the territory of a single High Contracting Party, one or more agreed stopping places being within the territory of another State, an indication of at least one such stopping place;
-
-(c)
-
-a notice to the consignor to the effect that, if the carriage involves an ultimate destination or stop in a country other than the country of departure, the Warsaw Convention may be applicable and that the Convention governs and in most cases limits the liability of carriers in respect of loss of or damage to cargo.
+(c) a notice to the consignor to the effect that, if the carriage involves an ultimate destination or stop in a country other than the country of departure, the Warsaw Convention may be applicable and that the Convention governs and in most cases limits the liability of carriers in respect of loss of or damage to cargo.]
 
 Article 9
 
@@ -288,9 +260,9 @@ Article 9
 
 Article 10
 
-(1) The consignor is responsible for the correctness of the particulars and statements relating to the cargo which he inserts in the air waybill\.
+(1) The consignor is responsible for the correctness of the particulars and statements relating to the cargo which he inserts in the air waybill.
 
-(2) The consignor shall indemnify the carrier against all damage suffered by him, or by any other person to whom the carrier is liable, by reason of the irregularity, incorrectness or incompleteness of the particulars and statements furnished by the consignor\.
+[(2) The consignor shall indemnify the carrier against all damage suffered by him, or by any other person to whom the carrier is liable, by reason of the irregularity, incorrectness or incompleteness of the particulars and statements furnished by the consignor\.]
 
 Article 11
 
@@ -306,7 +278,7 @@ Article 12
 
 (3) If the carrier obeys the orders of the consignor for the disposition of the cargo without requiring the production of the part of the air waybill delivered to the latter, he will be liable, without prejudice to his right of recovery from the consignor, for any damage which may be caused thereby to any person who is lawfully in possession of that part of the air waybill\.
 
-(4) The right conferred on the consignor ceases at the moment when that of the consignee begins in accordance with Article 13\. Nevertheless, if the consignee declines to accept the waybill or the cargo, or if he cannot be communicated with, the consignor resumes his right of disposition.
+(4) The right conferred on the consignor ceases at the moment when that of the consignee begins in accordance with Article 13\. Nevertheless, if the consignee declines to accept the air waybill or the cargo, or if he cannot be communicated with, the consignor resumes his right of disposition.
 
 Article 13
 
@@ -314,7 +286,7 @@ Article 13
 
 (2) Unless it is otherwise agreed, it is the duty of the carrier to give notice to the consignee as soon as the cargo arrives\.
 
-(3) If the carrier admits the loss of the cargo, or if the cargo has not arrived at the expiration of seven days after the date on which it ought to have arrived, the consignee is entitled to put into force against the carrier the rights which flow from the contract of carriage\.
+(3) If the carrier admits the loss of the cargo, or if the cargo has not arrived at the expiration of 7 days after the date on which it ought to have arrived, the consignee is entitled to put into force against the carrier the rights which flow from the contract of carriage\.
 
 Article 14
 
@@ -324,9 +296,9 @@ Article 15
 
 (1) Articles 12, 13 and 14 do not affect either the relations of the consignor or the consignee with each other or the mutual relations of third parties whose rights are derived either from the consignor or from the consignee\.
 
-(2) The provisions of Articles 12, 13 and 14 can only be varied by express provision in the air waybill\.
+(2) The provisions of Articles 12, 13 and 14 can only be varied by express provision in the air waybill.
 
-(3) Nothing in this Convention prevents the issue of a negotiable air waybill\.
+[(3) Nothing in this Convention prevents the issue of a negotiable air waybill\.]
 
 Article 16
 
@@ -334,7 +306,10 @@ Article 16
 
 (2) The carrier is under no obligation to enquire into the correctness or sufficiency of such information or documents\.
 
-Chapter III
+Chapter Iii
+
+
+
 
 Liability of the Carrier
 
@@ -352,7 +327,7 @@ Article 18
 
 Article 19
 
-The carrier is liable for damage occasioned by delay in the carriage by air of passengers, bagagge or cargo.
+The carrier is liable for damage occasioned by delay in the carriage by air of passengers, baggage or cargo.
 
 Article 20
 
@@ -364,29 +339,27 @@ If the carrier proves that the damage was caused by or contributed to by the neg
 
 Article 22
 
-(1) In the carriage of persons the liability of the carrier for each passenger is limited to the sum of two hundred and fifty thousand francs\. Where, in accordance with the law of the court seised of the case, damages may be awarded in the form of periodical payments, the equivalent capital value of the said payments shall not exceed two hundred and fifty thousand francs. Nevertheless, by special contract, the carrier and the passenger may agree to a higher limit of liability.
+[(1) In the carriage of persons the liability of the carrier for each passenger is limited to the sum of 250,000 francs. Where, in accordance with the law of the court seised of the case, damages may be awarded in the form of periodical payments, the equivalent capital value of the said payments shall not exceed 250,000 francs. Nevertheless, by special contract, the carrier and the passenger may agree to a higher limit of liability.
 
-(2)(a) In the carriage of registered baggage and of cargo, the liability of the carrier is limited to a sum of two hundred and fifty francs per kilogramme, unless the passenger or consignor has made, at the time when the package was handed over to the carrier, a special declaration of interest in delivery at destination and has paid a supplementary sum if the case so requires. In that case the carrier will be liable to pay a sum not exceeding the declared sum, unless he proves that that sum is greater than the passenger’s or consignor’s actual interest in delivery at destination.
+(2) (a) In the carriage of registered baggage and of cargo, the liability of the carrier is limited to a sum of 250 francs per kilogramme, unless the passenger or consignor has made, at the time when the package was handed over to the carrier, a special declaration of interest in delivery at destination and has paid a supplementary sum if the case so requires. In that case the carrier will be liable to pay a sum not exceeding the declared sum, unless he proves that that sum is greater than the passenger’s or consignor’s actual interest in delivery at destination.
 
-(b)
+(b) In the case of loss, damage or delay of part of registered baggage or cargo, or of any object contained therein, the weight to be taken into consideration in determining the amount to which the carrier’s liability is limited shall be only the total weight of the package or packages concerned. Nevertheless, when the loss, damage or delay of a part of the registered baggage or cargo or of an object contained therein, affects the value of other packages covered by the same baggage check or the same air waybill, the total weight of such package or packages shall also be taken into consideration in determining the limit of liability.
 
-In the case of loss, damage or delay of part of registered baggage or cargo, or of any object contained therein, the weight to be taken into consideration in determining the amount to which the carrier’s liability is limited shall be only the total weight of the package or packages concerned. Nevertheless, when the loss, damage or delay of a part of the registered baggage or cargo or of an object contained therein, affects the value of other packages covered by the same baggage check or the same air waybill, the total weight of such package or packages shall also be taken into consideration in determining the limit of liability.
+(3) As regards objects of which the passenger takes charge himself the liability of the carrier is limited to 5,000 francs per passenger.
 
-(3) As regards objects of which the passenger takes charge himself the liability of the carrier is limited to five thousand francs per passenger\.
+(4) The limits prescribed in this Article shall not prevent the court from awarding, in accordance with its own law, in addition, the whole or part of the court costs and of the other expenses of the litigation incurred by the plaintiff. The foregoing provision shall not apply if the amount of the damages awarded, excluding court costs and other expenses of the litigation, does not exceed the sum which the carrier has offered in writing to the plaintiff within a period of 6 months from the date of the occurrence causing the damage, or before the commencement of the action, if that is later.
 
-(4) The limits prescribed in this Article shall not prevent the court from awarding, in accordance with its own law, in addition, the whole or part of the court costs and of the other expenses of the litigation incurred by the plaintiff\. The foregoing provision shall not apply if the amount of the damages awarded, excluding court costs and other expenses of the litigation, does not exceed the sum which the carrier has offered in writing to the plaintiff within a period of six months from the date of the occurrence causing the damage, or before the commencement of the action, if that is later.
-
-(5) The sums mentioned in francs in this Article shall be deemed to refer to a currency unit consisting of sixty-five and a half milligrammes of gold of millesimal fineness nine hundred\. These sums may be converted into national currencies in round figures. Conversion of the sums into national currencies other than gold shall, in case of judicial proceedings, be made according to the gold value of such currencies at the date of the judgment.
+(5) The sums mentioned in francs in this Article shall be deemed to refer to a currency unit consisting of 65 ½ milligrammes of gold of millesimal fineness 900. These sums may be converted into national currencies in round figures. Conversion of the sums into national currencies other than gold shall, in case of judicial proceedings, be made according to the gold value of such currencies at the date of the judgment.]
 
 Article 23
 
-(1) Any provision tending to relieve the carrier of liability or to fix a lower limit than that which is laid down in this Convention shall be null and void, but the nullity of any such provision does not involve the nullity of the whole contract, which shall remain subject to the provisions of this Convention\.
+(1) Any provision tending to relieve the carrier of liability or to fix a lower limit than that which is laid down in this Convention shall be null and void, but the nullity of any such provision does not involve the nullity of the whole contract, which shall remain subject to the provisions of this Convention.
 
-(2) Paragraph (1) of this Article shall not apply to provisions governing loss or damage resulting from the inherent defect, quality or vice of the cargo carried\.
+[(2) Paragraph (1) of this Article shall not apply to provisions governing loss or damage resulting from the inherent defect, quality or vice of the cargo carried\.]
 
 Article 24
 
-(1) In the cases covered by Articles 18 and 19-any action for damages, however founded, can only be brought subject to the conditions and limits set out in this Convention\.
+(1) In the cases covered by Articles 18 and 19 any action for damages, however founded, can only be brought subject to the conditions and limits set out in this Convention\.
 
 (2) In the cases covered by Article 17 the provisions of the preceding paragraph also apply, without prejudice to the questions as to who are the persons who have the right to bring suit and what are their respective rights\.
 
@@ -394,23 +367,23 @@ Article 25
 
 [The limits of liability specified in Article 22 shall not apply if it is proved that the damage resulted from an act or omission of the carrier, his servants or agents, done with intent to cause damage or recklessly and with knowledge that damage would probably result; provided that, in the case of such act or omission of a servant or agent, it is also proved that he was acting within the scope of his employment.]
 
-Article 25A
+[Article 25A
 
 (1) If an action is brought against a servant or agent of the carrier arising out of damage to which this Convention relates, such servant or agent, if he proves that he acted within the scope of his employment, shall be entitled to avail himself of the limits of liability which that carrier himself is entitled to invoke under Article 22\.
 
 (2) The aggregate of the amounts recoverable from the carrier, his servants and agents, in that case, shall not exceed the said limits\.
 
-(3) The provisions of paragraphs (1) and (2) of this Article shall not apply if it is proved that the damage resulted from an act or omission of the servant or agent done with intent to cause damage or recklessly and with knowledge that damage would probably result\.
+(3) The provisions of paragraphs (1) and (2) of this Article shall not apply if it is proved that the damage resulted from an act or omission of the servant or agent done with intent to cause damage or recklessly and with knowledge that damage would probably result\.]
 
 Article 26
 
-(1) Receipt by the person entitled to delivery of baggage or cargo without complaint isprima facieevidence that the same has been delivered in good condition and in accordance with the document of carriage\.
+(1) Receipt by the person entitled to delivery of baggage or cargo without complaint isprima facieevidence that the same has been delivered in good condition and in accordance with the document of carriage.
 
-(2) In the case of damage, the person entitled to delivery must complain to the carrier forthwith after the discovery of the damage, and, at the latest, within seven days from the date of receipt in the case of baggage and fourteen days from the date of receipt in the case of cargo\. In the case of delay the complaint must be made at the latest within twenty-one days from the date on which the baggage or cargo have been placed at his disposal.
+[(2) In the case of damage, the person entitled to delivery must complain to the carrier forthwith after the discovery of the damage, and, at the latest, within 7 days from the date of receipt in the case of baggage and 14 days from the date of receipt in the case of cargo. In the case of delay the complaint must be made at the latest within 21 days from the date on which the baggage or cargo has been placed at his disposal.]
 
-(3) Every complaint must be made in writing upon the document of carriage or by separate notice in writing despatched within the times aforesaid\.
+(3) Every complaint must be made in writing upon the document of carriage or by separate notice in writing despatched within the times aforesaid.
 
-(4) Failing complaint within the times aforesaid, no action shall lie against the carrier, save in the case of fraud on his part\.
+(4) Failing complaint within the times aforesaid, no action shall lie against the carrier, save in the case of fraud on his part.
 
 Article 27
 
@@ -436,7 +409,10 @@ Article 30
 
 (3) As regards baggage or cargo, the passenger or consignor will have a right of action against the first carrier, and the passenger or consignee who is entitled to delivery will have a right of action against the last carrier, and further, each may take action against the carrier who performed the carriage during which the destruction, loss, damage or delay took place\. These carriers will be jointly and severally liable to the passenger or to the consignor or consignee.
 
-Chapter IV
+Chapter Iv
+
+
+
 
 Provisions Relating to Combined Carriage
 
@@ -447,6 +423,9 @@ Article 31
 (2) Nothing in this Convention shall prevent the parties in the case of combined carriage from inserting in the document of air carriage conditions relating to other modes of carriage, provided that the provisions of this Convention are observed as regards the carriage by air\.
 
 Chapter V
+
+
+
 
 General and Final Provisions
 
@@ -474,7 +453,7 @@ Article 37
 
 (1) This Convention shall be ratified\. The instruments of ratification shall be deposited in the archives of the Ministry for Foreign Affairs of Poland, which will notify the deposit to the Government of each of the High Contracting Parties.
 
-(2) As soon as this Convention shall have been ratified by five of the High Contracting Parties it shall come into force as between them on the ninetieth day after the deposit of the fifth ratification\. Thereafter it shall come into force between the High Contracting Parties who shall have ratified and the High Contracting Party who deposits his instrument of ratification on the ninetieth day after the deposit.
+(2) As soon as this Convention shall have been ratified by 5 of the High Contracting Parties it shall come into force as between them on the ninetieth day after the deposit of the fifth ratification\. Thereafter it shall come into force between the High Contracting Parties who shall have ratified and the High Contracting Party who deposits his instrument of ratification on the ninetieth day after the deposit.
 
 (3) It shall be the duty of the Government of the Republic of Poland to notify to the Government of each of the High Contracting Parties the date on which this Convention comes into force as well as the date of the deposit of each ratification\.
 
@@ -490,7 +469,7 @@ Article 39
 
 (1) Any one of the High Contracting Parties may denounce this Convention by a notification addressed to the Government of the Republic of Poland, which will at once inform the Government of each of the High Contracting Parties\.
 
-(2) Denunciation shall take effect six months after the notification of denunciation, and shall operate only as regards the Party who shall have proceeded to denunciation\.
+(2) Denunciation shall take effect 6 months after the notification of denunciation, and shall operate only as regards the Party who shall have proceeded to denunciation\.
 
 Article 40
 
@@ -500,11 +479,11 @@ Article 40
 
 (3) Any High Contracting Party may denounce this Convention, in accordance with its provisions, separately or for all or any of his colonies, protectorates, territories under mandate or any other territory subject to his sovereignty or to his authority, or any other territory under his suzerainty\.
 
-Article 40A
+[Article 40A
 
 (1) In Article 37, paragraph 2, and Article 40, paragraph 1, the expressionHigh Contracting Partyshall meanState\. In all other cases, the expressionHigh Contracting Partyshall mean a State whose ratification of or adherence to the Convention has become effective and whose denunciation thereof has not become effective.
 
-(2) For the purposes of the Convention the wordterritorymeans not only the metropolitan territory of a State but also all other territories for the foreign relations of which that State is responsible\.
+(2) For the purposes of the Convention the wordterritorymeans not only the metropolitan territory of a State but also all other territories for the foreign relations of which that State is responsible\.]
 
 Article 41
 
@@ -516,17 +495,30 @@ Additional Protocol
 
 (With reference to Article 2)
 
-The High Contracting Parties reserve to themselves the right to declare at the time of ratification or of accession that the first paragraph of Article 2 of this Convention shall not apply to international carriage by air performed directly by the State, its colonies, protectorates or mandated territories or by any other territory under its sovereignty, suzerainty or authority.
+The High Contracting Parties reserve to themselves the right to declare at the time of ratification or of accession that paragraph (1) of Article 2 of this Convention shall not apply to international carriage by air performed directly by the State, its colonies, protectorates or mandated territories or by any other territory under its sovereignty, suzerainty or authority.
 
 SECOND SCHEDULE
 
 Section 2
 
-Unamended Warsaw Convention
+The unamended Warsaw Convention
 
-[CONVENTION FOR THE UNIFICATION OF CERTAIN RULES RELATING TO INTERNATIONAL CARRIAGE BY AIR]
+Convention
+
+
+
+
+for the Unification of Certain Rules Relating
+
+
+
+
+to International Carriage by Air
 
 Chapter I
+
+
+
 
 Scope — Definitions
 
@@ -552,7 +544,7 @@ Section 1
 
 —
 
-Passenger Ticket
+PASSENGER TICKET
 
 Article 3
 
@@ -570,11 +562,7 @@ Article 3
 
 (2) The absence, irregularity or loss of the passenger ticket does not affect the existence or the validity of the contract of carriage, which shall none the less be subject to the rules of this Convention\. Nevertheless, if the carrier accepts a passenger without a passenger ticket having been delivered he shall not be entitled to avail himself of those provisions of this Convention which exclude or limit his liability.
 
-Section 2
-
-—
-
-Baggage Check
+Section 2 — Baggage Check
 
 Article 4
 
@@ -600,13 +588,9 @@ Article 4
 
 (h) a statement that the carriage is subject to the rules relating to liability established by this Convention.
 
-(4) The absence, irregularity or loss of the baggage check does not affect the existence or the validity of the contract of carriage, which shall none the less be subject to the rules of this Convention\. Nevertheless, if the carrier accepts baggage without a baggage check having been delivered, or if the baggage check does not contain the particulars set out at (d) (f) and (h) above, the carrier shall not be entitled to avail himself of those provisions of the Convention which exclude or limit his liability.
+(4) The absence, irregularity or loss of the baggage check does not affect the existence or the validity of the contract of carriage, which shall none the less be subject to the rules of this Convention\. Nevertheless, if the carrier accepts baggage without a baggage check having been delivered, or if the baggage check does not contain the particulars set out at (d), (f) and (h) above, the carrier shall not be entitled to avail himself of those provisions of the Convention which exclude or limit his liability.
 
-Section 3
-
-—
-
-Air Waybill
+Section 3 — Air Waybill
 
 Article 5
 
@@ -616,7 +600,7 @@ Article 5
 
 Article 6
 
-(1) The air waybill shall be made out by the consignor in three original parts and be handed over with the cargo\.
+(1) The air waybill shall be made out by the consignor in 3 original parts and be handed over with the cargo\.
 
 (2) The first part shall be marked “for the carrier”, and shall be signed by the consignor\. The second part shall be marked “for the consignee”; it shall be signed by the consignor and by the carrier and shall accompany the cargo. The third part shall be signed by the carrier and handed by him to the consignor after the cargo has been accepted.
 
@@ -634,73 +618,39 @@ Article 8
 
 The air waybill shall contain the following particulars:
 
-(a)
+(a) the place and date of its execution;
 
-the place and date of its execution;
+(b) the place of departure and of destination;
 
-(b)
+(c) the agreed stopping places, provided that the carrier may reserve the right to alter the stopping places in case of necessity, and that if he exercises that right the alteration shall not have the effect of depriving the carriage of its international character;
 
-the place of departure and of destination;
+(d) the name and address of the consignor;
 
-(c)
+(e) the name and address of the first carrier;
 
-the agreed stopping places, provided that the carrier may reserve the right to alter the stopping places in case of necessity, and that if he exercises that right the alteration shall not have the effect of depriving the carriage of its international character;
+(f) the name and address of the consignee, if the case so requires;
 
-(d)
+(g) the nature of the cargo;
 
-the name and address of the consignor;
+(h) the number of the packages, the method of packing and the particular marks or numbers upon them;
 
-(e)
+(i) the weight, the quantity and the volume or dimensions of the cargo;
 
-the name and address of the first carrier;
+(j) the apparent condition of the cargo and of the packing;
 
-(f)
+(k) the freight, if it has been agreed upon, the date and place of payment, and the person who is to pay it;
 
-the name and address of the consignee, if the case so requires;
+(l) if the cargo is sent for payment on delivery, the price of the cargo, and, if the case so requires, the amount of the expenses incurred;
 
-(g)
+(m) the amount of the value declared in accordance with Article 22(2);
 
-the nature of the cargo;
+(n) the number of parts of the air waybill;
 
-(h)
+(o) the documents handed to the carrier to accompany the air waybill;
 
-the number of the packages, the method of packing and the particular marks or numbers upon them;
+(p) the time fixed for the completion of the carriage and a brief note of the route to be followed, if these matters have been agreed upon;
 
-(i)
-
-the weight, the quantity and the volume or dimensions of the cargo;
-
-(j)
-
-the apparent condition of the cargo and of the packing;
-
-(k)
-
-the freight, if it has been agreed upon, the date and place of payment, and the person who is to pay it;
-
-(l)
-
-if the cargo is sent for payment on delivery, the price of the cargo, and, if the case so requires, the amount of the expenses incurred;
-
-(m)
-
-the amount of the value declared in accordance with Article 22(2);
-
-(n)
-
-the number of parts of the air waybill;
-
-(o)
-
-the documents handed to the carrier to accompany the air waybill;
-
-(p)
-
-the time fixed for the completion of the carriage and a brief note of the route to be followed, if these matters have been agreed upon;
-
-(q)
-
-a statement that the carriage is subject to the rules relating to liability established by this Convention.
+(q) a statement that the carriage is subject to the rules relating to liability established by this Convention.
 
 Article 9
 
@@ -734,7 +684,7 @@ Article 13
 
 (2) Unless it is otherwise agreed, it is the duty of the carrier to give notice to the consignee as soon as the cargo arrives\.
 
-(3) If the carrier admits the loss of the cargo, or if the cargo has not arrived at the expiration of seven days after the date on which it ought to have arrived, the consignee is entitled to put into force against the carrier the rights which flow from the contract of carriage\.
+(3) If the carrier admits the loss of the cargo, or if the cargo has not arrived at the expiration of 7 days after the date on which it ought to have arrived, the consignee is entitled to put into force against the carrier the rights which flow from the contract of carriage\.
 
 Article 14
 
@@ -766,7 +716,7 @@ Article 18
 
 (2) The carriage by air within the meaning of the preceding paragraph comprises the period during which the baggage or cargo is in charge of the carrier, whether in an aerodrome or on board an aircraft, or, in the case of a landing outside an aerodrome, in any place whatsoever\.
 
-(3) The period of the carriage by air does not extend to any carriage by land, by sea or by river performed outside an aerodrome\. If, however, such a carriage takes place in the performance of a contract for carriage by air, for the purpose of loading, delivery or trans-shipment, any damage is presumed, subject to proof to the contrary, to have been the result of an event which took place during the carriage by air.
+(3) The period of the carriage by air does not extend to any carriage by land, by sea or by river performed outside an aerodrome\. If, however, such a carriage takes place in the performance of a contract for carriage by air, for the purpose of loading, delivery or transhipment, any damage is presumed, subject to proof to the contrary, to have been the result of an event which took place during the carriage by air.
 
 Article 19
 
@@ -786,15 +736,11 @@ Article 22
 
 (1) In the carriage of passengers the liability of the carrier for each passenger is limited to the sum of 125,000 francs\. Where, in accordance with the law of the court seised of the case, damages may be awarded in the form of periodical payments, the equivalent capital value of the said payments shall not exceed 125,000 francs. Nevertheless, by special contract, the carrier and the passenger may agree to a higher limit of liability.
 
-(2) In the carriage of registered baggage and of cargo, the liability of the carrier is limited to a sum of 250 francs per kilogram, unless the consignor has made, at the time when the package was handed over to the carrier, a special declaration of the value at delivery and has paid a supplementary sum if the case so requires\. In that case the carrier will be liable to pay a sum not exceeding the declared sum, unless he proves that that sum is greater than the actual value to the consignor at delivery.
+(2) In the carriage of registered baggage and of cargo, the liability of the carrier is limited to a sum of 250 francs per kilogram, unless the consignor has made, at the time when the package was handed over to the carrier, a special declaration of the value at delivery and has paid a supplementary sum if the case so requires\. In that case the carrier will be liable to pay a sum not exceeding the declared sum, unless he proves that that sum is greater than the actual value, to the consignor at delivery.
 
 (3) As regards objects of which the passenger takes charge himself the liability of the carrier is limited to 5,000 francs per passenger\.
 
-(4) The sums mentioned above shall be deemed to refer to the French franc consisting of 651–
-
-2
-
-milligrams gold of millesimal fineness 900. These sums may be converted into any national currency in round figures.
+(4) The sums mentioned above shall be deemed to refer to the French franc consisting of 65 ½ milligrams gold of millesimal fineness 900\. These sums may be converted into any national currency in round figures.
 
 Article 23
 
@@ -816,7 +762,7 @@ Article 26
 
 (1) Receipt by the person entitled to delivery of baggage or cargo without complaint isprima facieevidence that the same has been delivered in good condition and in accordance with the document of carriage\.
 
-(2) In the case of damage, the person entitled to delivery must complain to the carrier forthwith after the discovery of the damage, and, at the latest, within three days from the date of receipt in the case of baggage and seven days from the date of receipt in the case of cargo\. In the case of delay the complaint must be made at the latest within fourteen days from the date on which the baggage or cargo has been placed at his disposal.
+(2) In the case of damage, the person entitled to delivery must complain to the carrier forthwith after the discovery of the damage, and, at the latest, within 3 days from the date of receipt in the case of baggage and 7 days from the date of receipt in the case of cargo\. In the case of delay the complaint must be made at the latest within 14 days from the date on which the baggage or cargo has been placed at his disposal.
 
 (3) Every complaint must be made in writing upon the document of carriage or by separate notice in writing despatched within the times aforesaid\.
 
@@ -862,7 +808,7 @@ General and Final Provisions
 
 Article 32
 
-Any clause contained in the contract and all special agreements entered into before the damage occurred by which the parties purport to infringe the rules laid down by this Convention, whether by deciding the law to the applied, or by altering the rules as to jurisdiction, shall be null and void. Nevertheless for the carriage of cargo arbitration clauses are allowed, subject to this Convention, if the arbitration is to take place within one of the jurisdictions referred to in the first paragraph of Article 28.
+Any clause contained in the contract and all special agreements entered into before the damage occurred by which the parties purport to infringe the rules laid down by this Convention, whether by deciding the law to be applied, or by altering the rules as to jurisdiction, shall be null and void. Nevertheless for the carriage of cargo arbitration clauses are allowed, subject to this Convention, if the arbitration is to take place within one of the jurisdictions referred to in the first paragraph of Article 28.
 
 Article 33
 
@@ -884,7 +830,7 @@ Article 37
 
 (1) This Convention shall be ratified\. The instruments of ratification shall be deposited in the archives of the Ministry for Foreign Affairs of Poland, which will notify the deposit to the Government of each of the High Contracting Parties.
 
-(2) As soon as this Convention shall have been ratified by five of the High Contracting Parties it shall come into force as between them on the ninetieth day after the deposit of the fifth ratification\. Thereafter it shall come into force between the High Contracting Parties who shall have ratified and the High Contracting Party who deposits his instrument of ratification on the ninetieth day after the deposit.
+(2) As soon as this Convention shall have been ratified by 5 of the High Contracting Parties it shall come into force as between them on the ninetieth day after the deposit of the fifth ratification\. Thereafter it shall come into force between the High Contracting Parties who shall have ratified and the High Contracting Party who deposits his instrument of ratification on the ninetieth day after the deposit.
 
 (3) It shall be the duty of the Government of the Republic of Poland to notify to the Government of each of the High Contracting Parties the date on which this Convention comes into force as well as the date of the deposit of each ratification\.
 
@@ -922,3 +868,20 @@ Additional Protocol
 
 The High Contracting Parties reserve to themselves the right to declare at the time of ratification or of accession that the first paragraph of Article 2 of this Convention shall not apply to international carriage by air performed directly by the State, its colonies, protectorates or mandated territories or by any other territory under its sovereignty, suzerainty or authority.
 
+## LEGISLATIVE HISTORY
+
+Carriage by Air Act
+
+(CHAPTER 32A)
+
+This Legislative History is provided for the convenience of users of the Carriage by Air Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 20 of 1988—Carriage by Air Act 1988**|
+||Date of First Reading|29 July 1988|
+|||(Bill No. 17/1988 published on 1 August 1988)|
+||Date of Second and Third Readings|11 August 1988|
+||Date of commencement|16 September 1988|
+|2.|**1989 Revised Edition—Carriage by Air Act**|
+||Date of operation|15 March 1989|
