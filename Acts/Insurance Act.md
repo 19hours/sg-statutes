@@ -70,109 +70,107 @@
 
 - [26 Control of take-overs of insurers incorporated in Singapore](#Control-of-take-overs-of-insurers-incorporated-in-Singapore)
 
-- [27 Arrangements affecting control of an insurer incorporated in Singapore](#Arrangements-affecting-control-of-an-insurer-incorporated-in-Singapore)
+- [27 Arrangements affecting control of insurers incorporated in Singapore](#Arrangements-affecting-control-of-insurers-incorporated-in-Singapore)
 
 - [28 Control of substantial shareholdings of insurers incorporated in Singapore](#Control-of-substantial-shareholdings-of-insurers-incorporated-in-Singapore)
 
-- [29 Power of the Authority to require an insurer incorporated in Singapore to obtain information as to beneficial interests in shares of the insurer](#Power-of-the-Authority-to-require-an-insurer-incorporated-in-Singapore-to-obtain-information-as-to-beneficial-interests-in-shares-of-the-insurer)
+- [29 Power of Authority to require an insurer incorporated in Singapore to obtain information as to beneficial interests in shares of the insurer](#Power-of-Authority-to-require-an-insurer-incorporated-in-Singapore-to-obtain-information-as-to-beneficial-interests-in-shares-of-the-insurer)
 
 - [30 Approval of directors and principal officers of insurers](#Approval-of-directors-and-principal-officers-of-insurers)
 
-- [30A Restriction on granting of unsecured loans to directors and employees of insurer](#Restriction-on-granting-of-unsecured-loans-to-directors-and-employees-of-insurer)
+- [31 Restriction on granting of unsecured loans to directors and employees of insurers](#Restriction-on-granting-of-unsecured-loans-to-directors-and-employees-of-insurers)
 
-- [31 General obligation to furnish information](#General-obligation-to-furnish-information)
+- [32 General obligation to furnish information](#General-obligation-to-furnish-information)
 
 [**Subsidiary**](#Subsidiary)
 
-- [32 Insurance agents and brokers](#Insurance-agents-and-brokers)
+- [33 Insurance agents and brokers](#Insurance-agents-and-brokers)
 
-- [32A Inspection and investigation of affairs of insurance agents and brokers](#Inspection-and-investigation-of-affairs-of-insurance-agents-and-brokers)
+- [34 Inspection and investigation of affairs of insurance agents and brokers](#Inspection-and-investigation-of-affairs-of-insurance-agents-and-brokers)
 
-- [33 Authority may prohibit insurance agents and brokers from carrying on business](#Authority-may-prohibit-insurance-agents-and-brokers-from-carrying-on-business)
+- [35 Authority may prohibit insurance agents and brokers from carrying on business](#Authority-may-prohibit-insurance-agents-and-brokers-from-carrying-on-business)
 
-- [34 Provision for members of associations of underwriters to carry on general business](#Provision-for-members-of-associations-of-underwriters-to-carry-on-general-business)
+- [36 Provision for members of associations of underwriters to carry on general business](#Provision-for-members-of-associations-of-underwriters-to-carry-on-general-business)
 
-- [35 Saving for validity of policies](#Saving-for-validity-of-policies)
+- [37 Saving for validity of policies](#Saving-for-validity-of-policies)
 
 [**Part III RETURNS, INSPECTIONS AND INVESTIGATIONS, WINDING UP AND TRANSFERS OF BUSINESS**](#Part-III)
 
 [**Returns**](#Returns)
 
-- [36 Annual account and audit](#Annual-account-and-audit)
+- [38 Annual account and audit](#Annual-account-and-audit)
 
-- [37 Actuarial investigations and reports as to life business](#Actuarial-investigations-and-reports-as-to-life-business)
+- [39 Actuarial investigations and reports as to life business](#Actuarial-investigations-and-reports-as-to-life-business)
 
-- [38 Power to require returns under section 36 or 37 to be rectified](#Power-to-require-returns-under-section-36-or-37-to-be-rectified)
+- [40 Power to require returns under section 38 or 39 to be rectified](#Power-to-require-returns-under-section-38-or-39-to-be-rectified)
 
-- [39 Additional provisions as to returns under section 36 or 37](#Additional-provisions-as-to-returns-under-section-36-or-37)
+- [41 Additional provisions as to returns under section 38 or 39](#Additional-provisions-as-to-returns-under-section-38-or-39)
 
 [**Inspections and Investigations**](#Inspections-and-Investigations)
 
-- [40 Inspection and investigation of affairs of insurer](#Inspection-and-investigation-of-affairs-of-insurer)
+- [42 Inspection and investigation of affairs of insurer](#Inspection-and-investigation-of-affairs-of-insurer)
 
-- [41 Powers of Authority to issue directions](#Powers-of-Authority-to-issue-directions)
+- [43 Powers of Authority to issue directions](#Powers-of-Authority-to-issue-directions)
 
 [**Winding up**](#Winding-up)
 
-- [42 General provisions as to winding up](#General-provisions-as-to-winding-up)
+- [44 General provisions as to winding up](#General-provisions-as-to-winding-up)
 
-- [43 Special provision for insurers directed to cease insurance business](#Special-provision-for-insurers-directed-to-cease-insurance-business)
+- [45 Special provision for insurers directed to cease insurance business](#Special-provision-for-insurers-directed-to-cease-insurance-business)
 
-- [44 Co-operative societies doing insurance business](#Co-operative-societies-doing-insurance-business)
+- [46 Co-operative societies doing insurance business](#Co-operative-societies-doing-insurance-business)
 
-- [45 Priority of claim of policy owners](#Priority-of-claim-of-policy-owners)
+- [47 Priority of claim of policy owners](#Priority-of-claim-of-policy-owners)
 
-- [46 Policy Owners’ Protection Fund](#Policy-Owners’-Protection-Fund)
+- [48 Policy Owners’ Protection Fund](#Policy-Owners’-Protection-Fund)
 
 [**Transfers of business**](#Transfers-of-business)
 
-- [47 Schemes for transfer of business](#Schemes-for-transfer-of-business)
+- [49 Schemes for transfer of business](#Schemes-for-transfer-of-business)
 
-- [48 Confirmation of schemes](#Confirmation-of-schemes)
+- [50 Confirmation of schemes](#Confirmation-of-schemes)
 
-- [49 Documents to be filed when scheme confirmed](#Documents-to-be-filed-when-scheme-confirmed)
+- [51 Documents to be filed when scheme confirmed](#Documents-to-be-filed-when-scheme-confirmed)
 
 [**Part IV MISCELLANEOUS AND GENERAL**](#Part-IV)
 
 [**Administration and enforcement**](#Administration-and-enforcement)
 
-- [50 Appointment of assistants](#Appointment-of-assistants)
+- [52 Appointment of assistants](#Appointment-of-assistants)
 
-- [51 Exemption](#Exemption)
+- [53 Exemption](#Exemption)
 
-- [52 Annual reports](#Annual-reports)
+- [54 Annual reports](#Annual-reports)
 
-- [53 Statistics](#Statistics)
+- [55 Statistics](#Statistics)
 
-- [54 Service of notices](#Service-of-notices)
+- [56 Service of notices](#Service-of-notices)
 
-- [55 General provisions as to offences](#General-provisions-as-to-offences)
+- [57 General provisions as to offences](#General-provisions-as-to-offences)
 
-- [56 Jurisdiction of courts](#Jurisdiction-of-courts)
+- [58 Jurisdiction of Courts](#Jurisdiction-of-Courts)
 
 [**Miscellaneous amendments of law**](#Miscellaneous-amendments-of-law)
 
-- [57 Insurable interest required for life insurances](#Insurable-interest-required-for-life-insurances)
+- [59 Insurable interest required for life insurances](#Insurable-interest-required-for-life-insurances)
 
-- [58 Capacity of infant to insure](#Capacity-of-infant-to-insure)
+- [60 Capacity of infant to insure](#Capacity-of-infant-to-insure)
 
-- [59 Life policy moneys to be paid without deduction](#Life-policy-moneys-to-be-paid-without-deduction)
+- [61 Life policy moneys to be paid without deduction](#Life-policy-moneys-to-be-paid-without-deduction)
 
-- [60 Life policies (surrenders; non-payment of premiums; paid-up policies)](#Life-policies-surrenders;-non-payment-of-premiums;-paid-up-policies)
+- [62 Life policies (surrenders; non-payment of premiums; paid-up policies)](#Life-policies-surrenders;-non-payment-of-premiums;-paid-up-policies)
 
-- [61 Payment of life policy and personal accident claims without probate, etc.](#Payment-of-life-policy-and-personal-accident-claims-without-probate-etc)
+- [63 Payment of life policy and personal accident claims without probate, etc.](#Payment-of-life-policy-and-personal-accident-claims-without-probate-etc)
 
-- [61A No insurance to be made unless insurer has interest and no policy without inserting names. Cf. 14 George III c.48 (Life Assurance Act 1774)](#No-insurance-to-be-made-unless-insurer-has-interest-and-no-policy-without-inserting-names-Cf-14-George-III-c48-Life-Assurance-Act-1774)
+- [64 No insurance to be made unless insurer has interest and no policy without inserting names](#No-insurance-to-be-made-unless-insurer-has-interest-and-no-policy-without-inserting-names)
 
-- [61B No action for accidental fire. (Fire Prevention (Metropolis) Act 1774, s.86)](#No-action-for-accidental-fire-Fire-Prevention-Metropolis-Act-1774-s86)
+- [65 No action for accidental fire. (Fire Prevention (Metropolis) Act 1774, s. 86)](#No-action-for-accidental-fire-Fire-Prevention-Metropolis-Act-1774-s-86)
 
 [**Supplementary**](#Supplementary)
 
-- [62 Regulations](#Regulations)
+- [66 Regulations](#Regulations)
 
-- [63 (Repealed)](#Repealed)
-
-- [64 Miscellaneous definitions](#Miscellaneous-definitions)
+- [67 Miscellaneous definitions](#Miscellaneous-definitions)
 
 [**FIRST SCHEDULE Definition of insurance terms**](#FIRST-SCHEDULE-Definition-of-insurance-terms)
 
@@ -186,9 +184,9 @@
 
 (Original Enactment: M Ordinance 1 of 1963)
 
-REVISED EDITION 1985
+REVISED EDITION 1994
 
-(30th March 1987)
+(15th March 1994)
 
 An Act for the regulation of insurance business in Singapore, and for other purposes relating thereto or connected therewith.
 
@@ -208,9 +206,9 @@ PRELIMINARY
 
 (a) life business, which in addition to all insurance business concerned with life policies shall include, in the case of any insurer, any type of insurance business carried on as incidental only to the insurer’s other life business; and
 
-(b) general business, that is to say, all insurance business which is not life business, and shall include the effecting and carrying out by any person, not being a person licensed under the Monetary Authority of Singapore Act (Cap. 186), Banking Act (Cap. 19), Finance Companies Act (Cap. 108), Securities Industry Act (Cap. 289) or Futures Trading Act (Cap. 116), of contracts for fidelity bonds, performance bonds, administration bonds, bail bonds or customs bonds or similar contracts of guarantee, being contracts effected by way of business (and not merely incidental to some other business carried on by the person effecting them) in return for the payment of one or more premiums.
+(b) general business, that is to say, all insurance business which is not life business, and shall include the effecting and carrying out by any person, not being a person licensed under the Monetary Authority of Singapore Act [Cap. 186], Banking Act [Cap. 19], Finance Companies Act [Cap. 108], Securities Industry Act [Cap. 289] or Futures Trading Act [Cap. 116], of contracts for fidelity bonds, performance bonds, administration bonds, bail bonds or customs bonds or similar contracts of guarantee, being contracts effected by way of business (and not merely incidental to some other business carried on by the person effecting them) in return for the payment of one or more premiums.
 
-[Act 32 of 1993 wef 31/12/1993]
+[32/93]
 
 (2) For the purposes of this Act, the reinsurance of liabilities under insurance policies shall be treated as insurance business of the class and type to which the policies would have belonged if they had been issued by the reinsurer.
 
@@ -242,41 +240,39 @@ General restriction on insurers
 
 3\.—(1) Subject to this Act, no person shall carry on any class of insurance business in Singapore as insurer unless the person is registered by the Authority under this Act in respect of that class of business.
 
-[11/86]
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $30,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine of $2,000 for every day during which the offence continues after conviction.
 
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $30,000 or to imprisonment for a term not exceeding 3 years or to both and in the case of a continuing offence to a further fine of $2,000 for every day during which the offence continues after conviction.
+[11/86]
 
 ### Holding out as registered insurer
 
-4\. Where any company or firm holds itself out to be a registered insurer in respect of life business or general business or both when it is not registered under this Act in respect of that business, the company or firm shall be guilty of an offence and every director, manager or officer of the company and the proprietor or every partner or officer of the firm shall, unless he proves that the holding out by the company or firm was made without his knowledge or consent, be guilty of an offence and shall be liable on conviction to a fine not exceeding $30,000 or to imprisonment for a term not exceeding 3 years or to both, and in the case of a continuing offence to a further fine not exceeding $2,000 for every day during which the offence continues after conviction.
+4\. Where any company or firm holds itself out to be a registered insurer in respect of life business or general business or both when it is not registered under this Act in respect of that business, the company or firm shall be guilty of an offence and every director, manager or officer of the company and the proprietor or every partner or officer of the firm shall, unless he proves that the holding out by the company or firm was made without his knowledge or consent, be guilty of an offence and shall be liable on conviction to a fine not exceeding $30,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $2,000 for every day during which the offence continues after conviction.
 
-[3A
-
-[22/73; 11/86]
-
-### Use of word “insurance”
-
-5\.—(1) No person other than an insurer registered under this Act shall, without the written consent of the Authority, use the word “insurance” or any of its derivatives in any language, or any other word indicating that that person carries on insurance business in the name, description or title under which it carries on business in Singapore or make any representation to such effect in any bill head, letter paper, notice, advertisement or in any other manner:
-
-Provided that nothing in this section shall prohibit an association of insurers from using the word “insurance” or any of its derivatives in any language as part of its name or description of its activities.
-
-[22/73; 11/86]
-
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year or to both, and in the case of a continuing offence to a further fine not exceeding $1,000 for every day during which the offence continues after conviction.
-
-[3B
+[22/73]
 
 [11/86]
 
+### Use of word “insurance”
+
+5\.—(1) No person other than an insurer registered under this Act shall, without the written consent of the Authority, use the word “insurance” or any of its derivatives in any language, or any other word indicating that that person carries on insurance business in the name, description or title under which it carries on business in Singapore or make any representation to such effect in any bill head, letter paper, notice, advertisement or in any other manner.
+
+(2) Nothing in this section shall prohibit an association of insurers from using the word “insurance” or any of its derivatives in any language as part of its name or description of its activities.
+
+(3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day during which the offence continues after conviction.
+
+[11/86]
+
+[22/73]
+
 ### Examination of persons suspected of carrying on insurance business
 
-6\.—(1) Whenever the Authority has reason to believe that a person is carrying on insurance business without having been registered under this Act, it may call for or inspect the books, accounts and records of that person in order to ascertain whether or not that person has contravened or is contravening any provisions of this Act.
+6\.—(1) Whenever the Authority has reason to believe that a person is carrying on insurance business without having been registered under this Act, it may call for or inspect the books, accounts and records of that person in order to ascertain whether or not that person has contravened or is contravening any provision of this Act.
 
-[22/73; 11/86]
+[22/73]
 
-(2) Any person who wilfully refuses to submit such books, accounts and records or to allow the inspection thereof shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both, and in the case of a continuing offence to a further fine not exceeding $1,000 for every day during which the offence continues after conviction.
+[11/86]
 
-[3C
+(2) Any person who wilfully refuses to submit such books, accounts and records or to allow the inspection thereof shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day during which the offence continues after conviction.
 
 Registration of Singapore insurers
 
@@ -284,17 +280,15 @@ Registration of Singapore insurers
 
 7\.—(1) A person who desires to carry on insurance business in Singapore as insurer shall apply in writing to the Authority for registration under this section and shall furnish such information as the Authority may require.
 
-[11/86]
-
 (2) Upon receiving an application under subsection (1), the Authority shall consider the application and may, subject to section 8, register the applicant with or without conditions or refuse to register it.
 
 (3) The Authority may register the applicant as a direct insurer, reinsurer or captive insurer.
 
-[Act 32 of 1993 wef 31/12/1993]
+[32/93]
 
 (4) The Authority shall cause notice of any registration or change of name of a Singapore insurer to be published in theGazette.
 
-[Act 32 of 1993 wef 31/12/1993]
+[32/93]
 
 (5) For the purposes of this Act —
 
@@ -304,53 +298,45 @@ Registration of Singapore insurers
 
 “reinsurer” means an insurer whose registration is restricted to the carrying on of reinsurance business.
 
-[Act 32 of 1993 wef 31/12/1993]
+[32/93]
 
-[4
+[11/86]
 
 ### Requirements before registration
 
 8\.—(1) The Authority shall not register any applicant under section 7 unless the applicant —
 
-(a) is a company as defined in the Companies Act [Cap. 50] or a company incorporated outside Singapore which has an established place of business in Singapore or is a society registered under the Co-operative Societies Act [Cap. 62];
+(a) is a company as defined in the Companies Act or a company incorporated outside Singapore which has an established place of business in Singapore or is a society registered under the Co-operative Societies Act [Cap. 62];
 
 (b) has made the deposit under section 13; and
 
 (c) where it has a share capital its paid-up share capital is, or where it does not have a share capital the value of its assets exceeds the amount of its liabilities by, not less than such amount as may be prescribed.
 
+(2) For the purposes of subsection (1)(c), the Authority may prescribe different amounts for different classes of insurance business or for different types of insurers.
+
 [11/86]
-
-(2) For the purposes of subsection (1)(c) the Authority may prescribe different amounts for different classes of insurance business or for different types of insurers.
-
-[4A
 
 ### Conditions of registration
 
 9\.—(1) The Authority may at any time add to, vary or revoke any existing conditions of registration of an insurer or impose any conditions thereto.
 
+(2) Any insurer which fails to comply with any of the conditions imposed by the Authority under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000, and in the case of a continuing offence, to a further fine not exceeding $1,000 for every day during which the offence continues after conviction.
+
 [22/73]
-
-(2) Any insurer which fails to comply with any of the conditions imposed by the Authority under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 and in the case of a continuing offence to a further fine not exceeding $1,000 for every day during which the offence continues after conviction.
-
-[5
 
 ### Annual fees
 
 10\.—(1) Every registered insurer shall pay to the Authority such annual fees as may be prescribed.
 
-[11/86]
-
 (2) The Authority may prescribe different annual fees for different classes of insurance business or for different types of registered insurers.
 
 (3) The Authority may exempt wholly or in part any registered insurer from the payment of the annual fees prescribed under this section.
 
-[5A
+[11/86]
 
 ### Cancellation of registration
 
 11\.—(1) The Authority may by order, at the request of the insurer or on any of the grounds set out in subsection (2), cancel the registration of any insurer either wholly or in respect of a class of business, as the case may be.
-
-[11/86]
 
 (2) The grounds referred to in subsection (1) are —
 
@@ -378,7 +364,7 @@ Registration of Singapore insurers
 
 (l) that it is in the public interest to cancel the registration.
 
-(3) The Authority shall before cancelling the registration of an insurer under this section otherwise than at the request of the insurer cause to be given to the insurer notice in writing of its intention to do so, specifying a date, not less than 14 days after the date of the notice, upon which the cancellation will take effect and calling upon the insurer to show cause to the Authority why the registration should not be cancelled.
+(3) The Authority shall, before cancelling the registration of an insurer under this section otherwise than at the request of the insurer, cause to be given to the insurer notice in writing of its intention to do so, specifying a date, not less than 14 days after the date of the notice, upon which the cancellation will take effect and calling upon the insurer to show cause to the Authority why the registration should not be cancelled.
 
 (4) Notwithstanding the fact that the registration of an insurer has been cancelled under this section, so long as the insurer remains under any liability in respect of insurance policies belonging to the class of insurance business to which the registration relates, the insurer shall take such action as it considers necessary or as may be required by the Authority to ensure that reasonable provision has been or will be made for that liability and that adequate arrangements exist or will exist for payment of premiums and claims on those policies.
 
@@ -386,7 +372,7 @@ Registration of Singapore insurers
 
 (6) An order of cancellation made by the Authority shall not take effect until the expiration of a period of 14 days after the Authority has informed the insurer of the order.
 
-[6
+[11/86]
 
 ### Effects of cancellation of registration
 
@@ -396,11 +382,7 @@ Registration of Singapore insurers
 
 (b) the insurer shall, as from the date of cancellation, cease to carry on in Singapore insurance business of the class in respect of which its registration has been cancelled under this Act, otherwise than by the collection or receipt of premiums on insurance policies belonging to that class effected before the date of cancellation of registration and section 3 shall not apply to the insurer in respect of the collection or receipt of those premiums.
 
-[22/73; 11/86]
-
 (2) Subsection (1)(b) shall not prejudice the enforcement by any policy owner or person of any right or claim against the insurer or by the insurer of any right or claim against any policy owner or person.
-
-[6A
 
 Deposits, registers of policies and insurance funds
 
@@ -408,47 +390,41 @@ Deposits, registers of policies and insurance funds
 
 13\.—(1) A Singapore insurer, while registered in respect of any class of insurance business, shall at all times have in respect of that class of business a deposit with the Authority of a value of not less than $500,000 or such other amount as may be prescribed.
 
-[11/86]
-
-[Act 32 of 1993 wef 31/12/1993]
-
 (2) A deposit under subsection (1) shall be made in assets of such nature as the Authority may specify.
 
 (3) All income accruing in respect of a deposit shall be payable to the insurer making the deposit.
 
-(4) A deposit made under this section in respect of any class of business shall be retained by the Authority until either the insurer ceases to be registered in respect of that class of insurance business or the deposit is required in the winding up of the affairs of the insurer; and if the insurer ceases to be registered in respect of any class of insurance, the deposit or part of it may be further retained for the purpose of and in accordance with any such provision for liabilities in respect of policies as is required by section 11(4).
+(4) A deposit made under this section in respect of any class of business shall be retained by the Authority until either the insurer ceases to be registered in respect of that class of insurance business or the deposit is required in the winding up of the affairs of the insurer; and if the insurer ceases to be registered in respect of any class of insurance, the deposit or part thereof may be further retained for the purpose of and in accordance with any such provision for liabilities in respect of policies as is required by section 11(4).
 
 (5) Where the value of the deposit made by an insurer under subsection (1) in respect of any class of business is less than $500,000 or the amount prescribed at any time, the Authority may by notice in writing direct the insurer to add thereto within 28 days of the service of the notice such assets as the Authority may specify of a value not less than the difference.
 
-[Act 32 of 1993 wef 31/12/1993]
+[32/93]
 
 (6) An insurer which has made a deposit under this section may at any time substitute for any assets comprised in the deposit such other assets as the Authority may specify so long as the value of the deposit is not thereby reduced to an amount below that which is required by this Act.
 
 (7) Notwithstanding anything in this Act or any written law, section 11(4) shall apply to a Singapore insurer whose application for registration has been refused under section 7 as it applies to a Singapore insurer that is registered under this Act and the Authority may, accordingly, retain the deposit, or part thereof, of the first-mentioned Singapore insurer for the purpose of and in accordance with the provisions for liabilities in respect of policies referred to in section 11(4).
 
-[7
+[11/86]
+
+[32/93]
 
 ### Bank covenants in lieu of deposits
 
-14\.—(1) If, in the case of any insurer, a bank licensed under any written law for the time being in force relating to banking makes with the Authority an agreement in a form approved by the Authority whereby the bank covenants to deposit with the Authority a specified sum in cash on account of the insurer’s deposit under section 13 in respect of either class of insurance business, and the covenant complies with any requirements the Authority sees fit to impose as to the circumstances in which that sum is to be deposited, then for the purposes of this Act the insurer shall be treated as having made the deposit under section 13 and the sum so covenanted for shall be recoverable notwithstanding that no consideration is furnished on the agreement.
-
-[11/86]
+14\.—(1) If, in the case of any insurer, a bank licensed under any written law for the time being in force relating to banking makes with the Authority an agreement in a form approved by the Authority whereby the bank covenants to deposit with the Authority a specified sum in cash on account of the insurer’s deposit under section 13 in respect of either class of insurance business, and the covenant complies with any requirements the Authority sees fit to impose as to the circumstances in which that sum is to be deposited, then for the purposes of this Act the insurer shall be treated as having made the deposit under that section and the sum so covenanted for shall be recoverable notwithstanding that no consideration is furnished on the agreement.
 
 (2) Any sum deposited by a bank in pursuance of an agreement made under subsection (1) shall be dealt with under or for the purposes of this Act as if it were a sum deposited by the insurer under section 13.
 
-[8
+[11/86]
 
 ### Register of policies
 
 15\.—(1) Every registered insurer shall establish and keep a register of Singapore policies where it carries on business relating to Singapore policies and a register of offshore policies where it carries on business relating to offshore policies.
 
-[11/86]
-
 (2) Subject to this section, there shall be entered in the register of Singapore policies all Singapore policies of the insurer and in the register of offshore policies all offshore policies of the insurer, and no policy entered in any register shall be removed from it so long as the insurer is under any liability in respect of that policy.
 
 (3) Subject to this section, there may be entered in the register of Singapore policies such other policies as the insurer with the consent (express or implied) of the policy owners may determine, and this Act shall apply in relation to any policy so entered as if it were a Singapore policy.
 
-(4) Subject to subsection (5) an insurer carrying on life business outside Singapore (and not doing so only by the collection or receipt of premiums) may, at the request of the policy owner of a policy belonging to the insurer’s life business —
+(4) Subject to subsection (5), an insurer carrying on life business outside Singapore (and not doing so only by the collection or receipt of premiums) may, at the request of the policy owner of a policy belonging to the insurer’s life business —
 
 (a) refrain from entering the policy in the register of Singapore policies, notwithstanding that it is a Singapore policy; or
 
@@ -466,7 +442,7 @@ and this Act shall thereafter apply in relation to the policy as if it were not 
 
 (9) A register of policies established and kept by an insurer under this section before 1st January 1987 shall be deemed to be a register of Singapore policies under subsection (1).
 
-[9
+[11/86]
 
 ### Establishment of insurance funds and allocation of surplus
 
@@ -476,39 +452,37 @@ and this Act shall thereafter apply in relation to the policy as if it were not 
 
 (b) for each class of insurance business carried on by the insurer that relates to offshore policies.
 
-[11/86]
-
-(1A) If, in the case of a direct insurer registered to carry on life business, no part of the surplus of assets over liabilities from its non-participating policies is allocated by the insurer by way of bonus to its participating policies, the insurer shall, in addition to the insurance funds under subsection (1) and subject to such conditions as the Authority may impose, establish and maintain a separate insurance fund —
+(2) If, in the case of a direct insurer registered to carry on life business, no part of the surplus of assets over liabilities from its non-participating policies is allocated by the insurer by way of bonus to its participating policies, the insurer shall, in addition to the insurance funds under subsection (1) and subject to such conditions as the Authority may impose, establish and maintain a separate insurance fund —
 
 (a) for its participating policies; and
 
 (b) for its non-participating policies.
 
-[Act 32 of 1993 wef 31/12/1993]
+[32/93]
 
-(2) The Authority may require any registered insurer to establish and maintain, in addition to the insurance funds under subsections (1) and (1A) such other insurance fund as the Authority may determine for different types of policies in respect of each class of business.
+(3) The Authority may require any registered insurer to establish and maintain, in addition to the insurance funds under subsections (1) and (2), such other insurance fund as the Authority may determine for different types of policies in respect of each class of business.
 
-[Act 32 of 1993 wef 31/12/1993]
+[32/93]
 
-(3) There shall be paid into an insurance fund all receipts of the insurer properly attributable to the business to which the fund relates (including the income of the fund), and the assets comprised in the fund shall be applicable only to meet such part of the insurer’s liabilities and expenses as is properly so attributable but shall not be applied to meet any levies payable by the insurer under section 46.
+(4) There shall be paid into an insurance fund all receipts of the insurer properly attributable to the business to which the fund relates (including the income of the fund), and the assets comprised in the fund shall be applicable only to meet such part of the insurer’s liabilities and expenses as is properly so attributable but shall not be applied to meet any levies payable by the insurer under section 48.
 
-(4) In the case of an insurance fund which comprises wholly or partly of participating life policies, no part of the fund shall be allocated by way of bonus to those policies except with the approval of an actuary and out of a surplus of assets over liabilities as shown on the last statutory valuation of the fund; and on the making of any such allocation that surplus shall be treated for the purposes of this section as reduced by the amount allocated.
+(5) In the case of an insurance fund which comprises wholly or partly of participating life policies, no part of the fund shall be allocated by way of bonus to those policies except with the approval of an actuary and out of a surplus of assets over liabilities as shown on the last statutory valuation of the fund; and on the making of any such allocation that surplus shall be treated for the purposes of this section as reduced by the amount allocated.
 
-[Act 32 of 1993 wef 31/12/1993]
+[32/93]
 
-(5) Subject to subsection (5A), if on the last statutory valuation in the case of an insurance fund which comprises wholly or partly of participating life policies, there was shown a surplus (as reduced under subsection (4)) of assets over liabilities of the fund, there may, subject to the approval of an actuary and to any provision to the contrary in any instrument or contract binding the insurer, be allocated to the shareholders or withdrawn from the fund an amount not exceeding the surplus, and on the making of any such allocation that surplus shall be treated for the purposes of this section as reduced by the amount allocated.
+(6) Subject to subsection (7), if on the last statutory valuation in the case of an insurance fund which comprises wholly or partly of participating life policies, there was shown a surplus (as reduced under subsection (5)) of assets over liabilities of the fund, there may, subject to the approval of an actuary and to any provision to the contrary in any instrument or contract binding the insurer, be allocated to the shareholders or withdrawn from the fund an amount not exceeding the surplus, and on the making of any such allocation that surplus shall be treated for the purposes of this section as reduced by the amount allocated.
 
-[Act 32 of 1993 wef 31/12/1993]
+[32/93]
 
-(5A) No part of the surplus shall be allocated under subsection (5) in any year in excess of the relevant percentage of the sum of —
+(7) No part of the surplus shall be allocated under subsection (6) in any year in excess of the relevant percentage of the sum of —
 
-(a) the amount allocated in accordance with subsection (5); and
+(a) the amount allocated in accordance with subsection (6); and
 
-(b) the amount allocated thereout by way of bonus to participating life policies in accordance with subsection (4) within that year.
+(b) the amount allocated thereout by way of bonus to participating life policies in accordance with subsection (5) within that year.
 
-[Act 32 of 1993 wef 31/12/1993]
+[32/93]
 
-(5B) For the purposes of subsection (5A), the relevant percentage —
+(8) For the purposes of subsection (7), the relevant percentage —
 
 (a) in relation to 1993 is 18%;
 
@@ -520,41 +494,41 @@ and this Act shall thereafter apply in relation to the policy as if it were not 
 
 (e) in relation to 1997 and any subsequent year is 10%.
 
-[Act 32 of 1993 wef 31/12/1993]
+[32/93]
 
-(5C) If on the last statutory valuation in the case of an insurance fund established wholly in respect of non-participating life policies there was shown a surplus of assets over liabilities of the fund, there may, subject to any provision to the contrary in any instrument or contract binding the insurer, be withdrawn from the fund an amount not exceeding the surplus, and on the making of any such withdrawal that surplus shall, for the purposes of this section, be treated as reduced by the amount withdrawn.
+(9) If on the last statutory valuation in the case of an insurance fund established wholly in respect of non-participating life policies there was shown a surplus of assets over liabilities of the fund, there may, subject to any provision to the contrary in any instrument or contract binding the insurer, be withdrawn from the fund an amount not exceeding the surplus, and on the making of any such withdrawal that surplus shall, for the purposes of this section, be treated as reduced by the amount withdrawn.
 
-[Act 32 of 1993 wef 31/12/1993]
+[32/93]
 
-(6) If in the last statutory balance-sheet in the case of an insurance fund established in respect of general business there was shown a surplus of assets over liabilities of the fund, there may, subject to any provision to the contrary in any instrument or contract binding the insurer, be withdrawn from the fund an amount not exceeding the excess of the surplus over any fund margin of solvency prescribed for that fund under section 17, and on the making of any such withdrawal that surplus shall for the purposes of this section be treated as reduced by the amount withdrawn.
+(10) If in the last statutory balance-sheet in the case of an insurance fund established in respect of general business there was shown a surplus of assets over liabilities of the fund, there may, subject to any provision to the contrary in any instrument or contract binding the insurer, be withdrawn from the fund an amount not exceeding the excess of the surplus over any fund margin of solvency prescribed for that fund under section 17, and on the making of any such withdrawal that surplus shall for the purposes of this section be treated as reduced by the amount withdrawn.
 
-(7) In respect of any policy belonging to the insurer’s life business which is under section 15(4) removed from the insurer’s register of Singapore policies there may be withdrawn from an insurance fund to which the policy relates an amount not exceeding the prescribed amount.
+(11) In respect of any policy belonging to the insurer’s life business which is under section 15(4) removed from the insurer’s register of Singapore policies, there may be withdrawn from an insurance fund to which the policy relates an amount not exceeding the prescribed amount.
 
-(8) Any amount withdrawn from an insurance fund under subsection (5), (5C), (6) or (7) and, in a winding up, any part of an insurance fund remaining after meeting the liabilities and expenses to which the fund is applicable may be dealt with as if it had not formed part of the fund except that in the case of a winding up where any other insurance fund of the insurer under this Act is in deficit the surplus remaining after the winding up shall first be applied to make good the deficit in that fund.
+(12) Any amount withdrawn from an insurance fund under subsection (6), (9), (10) or (11) and, in a winding up, any part of an insurance fund remaining after meeting the liabilities and expenses to which the fund is applicable may be dealt with as if it had not formed part of the fund except that in the case of a winding up where any other insurance fund of the insurer under this Act is in deficit the surplus remaining after the winding up shall first be applied to make good the deficit in that fund.
 
-[Act 32 of 1993 wef 31/12/1993]
+[32/93]
 
-(9) In a winding up, assets comprised in the deposit made by an insurer under section 13 in respect of either class of business may be allocated by the Authority to any insurance fund established by the insurer for that class of business in such manner and proportion as it sees fit, and assets so allocated shall be treated as assets of that insurance fund, and subsections (3) and (8) shall apply to those assets accordingly.
+(13) In a winding up, assets comprised in the deposit made by an insurer under section 13 in respect of either class of business may be allocated by the Authority to any insurance fund established by the insurer for that class of business in such manner and proportion as the Authority sees fit, and assets so allocated shall be treated as assets of that insurance fund, and subsections (4) and (12) shall apply to those assets accordingly.
 
-(10) Any insurance fund established by an insurer for any class of business shall, notwithstanding that the insurer at any time ceases to carry on that class of business in Singapore, continue to be maintained by the insurer so long as the insurer is required by this Act to maintain a register of policies for policies belonging to that class.
+(14) Any insurance fund established by an insurer for any class of business shall, notwithstanding that the insurer at any time ceases to carry on that class of business in Singapore, continue to be maintained by the insurer so long as the insurer is required by this Act to maintain a register of policies for policies belonging to that class.
 
-(11) Any insurer carrying on insurance business in Singapore on or before 1st January 1987 which is required under subsection (1) to establish an insurance fund for offshore policies shall do so at the time of establishment of the insurer’s register of offshore policies, and by reference to the policies registered or required to be registered in it as at its establishment, and be reference to the assets and liabilities of the insurer as at that time; and —
+(15) Any insurer carrying on insurance business in Singapore on or before 1st January 1987 which is required under subsection (1) to establish an insurance fund for offshore policies shall do so at the time of establishment of the insurer’s register of offshore policies, and by reference to the policies registered or required to be registered in it as at its establishment, and be reference to the assets and liabilities of the insurer as at that time; and —
 
-(a) there shall be allocated to the fund assets of a value of not less (after allowing for any charges to which the fund is not applicable) than the aggregate of the amounts specified in subsection (12); and
+(a) there shall be allocated to the fund assets of a value of not less (after allowing for any charges to which the fund is not applicable) than the aggregate of the amounts specified in subsection (16); and
 
 (b) all such matters as would subsequently have affected the fund if established at that time shall be brought into account accordingly.
 
-(12) The amounts referred to in subsection (11)(a) are as follows:
+(16) The amounts referred to in subsection (15)(a) are as follows:
 
-(a) the amount, determined in the prescribed manner, of the liability of the insurer in respect of the policies referred to in subsection (11);
+(a) the amount, determined in the prescribed manner, of the liability of the insurer in respect of the policies referred to in subsection (15);
 
 (b) the amount of any other liabilities of the insurer in so far as the assets allocated to the fund will be applicable or be treated as having been applicable to meet those liabilities; and
 
 (c) the amount of the fund margin of solvency, if any, required to be maintained for the fund under section 17.
 
-(13) The assets of any insurance fund established by an insurer under this Act shall be kept separate from all other assets of the insurer.
+(17) The assets of any insurance fund established by an insurer under this Act shall be kept separate from all other assets of the insurer.
 
-[10
+[11/86]
 
 ### Margins of solvency
 
@@ -566,15 +540,13 @@ and this Act shall thereafter apply in relation to the policy as if it were not 
 
 of such amounts as may be prescribed or determined in accordance with regulations made under this Act for the purposes of this section.
 
-[11/86]
-
 (2) The Authority may prescribe —
 
 (a) different margins of solvency under subsection (1) for different classes of insurance business and for different types of insurers; and
 
 (b) in respect of any type of insurers, any exception from the requirements of subsection (1).
 
-(3) Without prejudice to the generality of section 62, regulations made under this Act may —
+(3) Without prejudice to the generality of section 66, regulations made under this Act may —
 
 (a) provide for the determination of the value of assets and the amount of liabilities in any case in which the value or amount is required by this section to be determined in accordance with valuation regulations;
 
@@ -590,39 +562,33 @@ of such amounts as may be prescribed or determined in accordance with regulation
 
 that value and amount being determined in accordance with any applicable valuation regulations.
 
-[10A
+[11/86]
 
 ### Form, investment and situation of assets
 
 18\. Regulations made under this Act may make provision for securing that, in such circumstances and to such extent as may be prescribed, the assets of any insurance fund of a registered insurer are invested in such manner and maintained in such places as may be prescribed and the nature of the assets is appropriate in relation to the currency in which the liabilities of the insurer are or may be required to be met.
 
-[11
-
 [11/86]
 
 ### Requirements as to documents evidencing title to assets of insurance funds
 
-19\.—(1) Where an insurer has established an insurance fund under this Act, the insurer shall secure that any documents evidencing the insurer’s title to assets of the fund, so long as the documents are held by or on behalf of the insurer, shall be kept in Singapore or, if not so kept, shall be kept in the custody of a person approved by the Authority, and at a place and on terms so approved.
-
-[11/86]
+19\.—(1) Where an insurer has established an insurance fund under this Act, the insurer shall secure that any document evidencing the insurer’s title to assets of the fund, so long as the document is held by or on behalf of the insurer, shall be kept in Singapore or, if not so kept, shall be kept in the custody of a person approved by the Authority, and at a place and on terms so approved.
 
 (2) An insurer who has established an insurance fund under this Act shall from time to time notify the Authority in writing —
 
-(a) the person having the custody of any such documents on behalf of the insurer, and the fact of any person ceasing to do so; and
+(a) the person having the custody of any such document on behalf of the insurer, and the fact of any person ceasing to do so; and
 
-(b) the reason why any such documents are not held by or on behalf of the insurer, and the identity of the documents in question.
+(b) the reason why any such document is not held by or on behalf of the insurer, and the identity of the document in question.
 
 (3) Any such document which is for the time being held by or on behalf of the insurer shall, on the Authority giving not less than 14 days’ notice in writing to the insurer or to the person having the custody of the document, be produced for inspection to the Authority or a person nominated by it by the person to whom the notice is given.
 
-(4) A person who fails to comply with this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and in the case of a continuing offence to a fine not exceeding $1,000 for every day during which the offence continues after conviction.
+(4) A person who fails to comply with this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day during which the offence continues after conviction.
 
-[12
+[11/86]
 
 ### Maintenance of assets in Singapore
 
 20\.—(1) Where the Authority is satisfied that there exists a ground on which the Authority would be empowered by section 11 to cancel the registration of an insurer, the Authority may require that assets of the insurer of a value which at any time is equal to the whole or a specified proportion of the amount of its domestic liabilities shall be maintained in Singapore.
-
-[11/86]
 
 (2) The Authority may direct that for the purposes of any requirement under this section assets of a specified class or description shall or shall not be treated as assets maintained in Singapore.
 
@@ -632,19 +598,17 @@ that value and amount being determined in accordance with any applicable valuati
 
 (5) In this section, any reference to a domestic liability is a reference to a liability of the insurance business carried on by the registered insurer in Singapore, including the margins of solvency prescribed under section 17.
 
-[Act 32 of 1993 wef 31/12/1993]
+[32/93]
 
-(6) Subject to subsection (7), in computing the amount of any liabilities for the purposes of this section all contingent and prospective liabilities shall be taken into account but not liabilities in respect of share capital.
+(6) Subject to subsection (7), in computing the amount of any liabilities for the purposes of this section, all contingent and prospective liabilities shall be taken into account but not liabilities in respect of share capital.
 
-(7) For the purposes of this section the value of any assets and the amount of any liabilities shall be determined in accordance with any valuation regulations made under this Act.
+(7) For the purposes of this section, the value of any assets and the amount of any liabilities shall be determined in accordance with any valuation regulations made under this Act.
 
-[13
+[11/86]
 
 ### Custody of assets
 
 21\.—(1) The Authority may, in the case of a registered insurer on which a requirement has been imposed under section 20, impose an additional requirement that the whole or a specified proportion of the assets to which the requirement under that section applies shall be held by a person approved by the Authority for the purposes of the requirement under this section as trustee for the insurer.
-
-[11/86]
 
 (2) Section 20(4) shall apply to a requirement under this section.
 
@@ -654,25 +618,19 @@ that value and amount being determined in accordance with any applicable valuati
 
 (5) If a mortgage or charge is created by a registered insurer at a time when there is in force a requirement imposed on the insurer by virtue of this section, being a mortgage or charge conferring a security on any assets which are held by a person as trustee for the insurer in compliance with the requirement, the mortgage or charge shall, to the extent that it confers such a security, be void against the liquidator and any creditor of the insurer.
 
-[13A
+[11/86]
 
 Miscellaneous requirements as to conduct of business
 
 ### Payment in Singapore currency of policy moneys under life policies
 
-22\. In the case of a life policy issued as a Singapore policy after the commencement of this Act, to a policy owner who is a citizen of Singapore, any policy moneys or moneys payable on the surrender of the policy shall, notwithstanding anything in the policy or in any agreement relating thereto, be paid in the currency of Singapore unless at the time of payment it is otherwise agreed between the insurer and the person entitled to payment.
-
-[14
+22\. In the case of a life policy issued as a Singapore policy after 1st January 1967, to a policy owner who is a citizen of Singapore, any policy moneys or moneys payable on the surrender of the policy shall, notwithstanding anything in the policy or in any agreement relating thereto, be paid in the currency of Singapore unless at the time of payment it is otherwise agreed between the insurer and the person entitled to payment.
 
 [11/86]
 
 ### Regulation of premiums under life policies
 
 23\.—(1) A Singapore insurer shall not issue a life policy of any description being a Singapore policy or an offshore policy, if the premium chargeable under the policy is not in accordance with rates fixed with the approval of an actuary or, where no rates have been so fixed for policies of that description issued by the insurer, is not a premium approved for the policy by an actuary.
-
-[11/86]
-
-[Act 32 of 1993 wef 31/12/1993]
 
 (2) An actuary shall not for the purposes of this section approve a premium for a policy or a rate of premium for any description of policy, unless he is satisfied that it is suitable and in accordance with sound insurance principles.
 
@@ -682,25 +640,23 @@ Miscellaneous requirements as to conduct of business
 
 [11/86]
 
-[Act 32 of 1993 wef 31/12/1993]
+[32/93]
 
 (5) The Authority may by notice in writing require any Singapore insurer to obtain and furnish it within a time specified in the notice with a report by an actuary as to the suitability of the rates of premium for the time being chargeable by the insurer for any description of life policy, and if the actuary considers that the rates are not suitable or not in accordance with sound insurance principles, a report as to the rates of premium which the actuary approves for that description of policy; and for the purposes of subsection (1) regard shall be had to any such report to the exclusion of any previous approval or report.
 
 [11/86]
 
-[Act 32 of 1993 wef 31/12/1993]
+[32/93]
 
 (6) For each occasion on which an insurer issues a policy or allows a commission in contravention of this section, the insurer shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
-[15
-
 [11/86]
+
+[32/93]
 
 ### Control of form of proposals, policies and brochures
 
-24\.—(1) The Authority may by notice in writing require a Singapore insurer to submit to it the forms of proposal and policy for the time being in use by the insurer in Singapore, and any brochure which is for the time being in use by the insurer for describing the terms or conditions of, or the benefits to be or likely to be derived from, policies; and where the whole or part of any such form or brochure is not in English there shall be submitted with it a translation in English.
-
-[11/86]
+24\.—(1) The Authority may by notice in writing require a Singapore insurer to submit to it the forms of proposal and policy for the time being in use by the insurer in Singapore, and any brochure which is for the time being in use by the insurer for describing the terms or conditions of, or the benefits to be or likely to be derived from, policies; and where the whole or part of any such form or brochure is not in English, there shall be submitted with it a translation in English.
 
 (2) A requirement under this section, unless it is otherwise provided therein, shall apply to all such forms and brochures coming into use after the making of the requirement and before the Authority notifies the insurer that the requirement is withdrawn.
 
@@ -712,27 +668,21 @@ Miscellaneous requirements as to conduct of business
 
 (6) In this section, “brochure” includes any leaflet, circular or similar advertising matter, whether printed or not.
 
-[16
+[11/86]
 
 ### Requirements as to prospectuses and statements of capital
 
-25\.—(1) In any case where, under section 50 of the Companies Act [Cap. 50] it is unlawful to issue, circulate or distribute a prospectus relating to a company without a copy of it being first registered under that Act, it shall also be unlawful, in the case of a company registered or intended to be registered as an insurer under this Act, to do so without the prospectus having been sanctioned by the Authority; and any person knowingly responsible for the issue, circulation or distribution of a prospectus in contravention of this subsection shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
+25\.—(1) In any case where, under section 50 of the Companies Act, it is unlawful to issue, circulate or distribute a prospectus relating to a company without a copy of it being first registered under that Act, it shall also be unlawful, in the case of a company registered or intended to be registered as an insurer under this Act, to do so without the prospectus having been sanctioned by the Authority; and any person knowingly responsible for the issue, circulation or distribution of a prospectus in contravention of this subsection shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
 
-In this subsection “prospectus” includes any document to which the expression applies in section 50 of the Companies Act.
+(2) In subsection (1), “prospectus” includes any document to which the expression applies in section 50 of the Companies Act.
 
-[11/86]
-
-(2) Where a notice, advertisement or other official publication of a company registered or intended to be registered as an insurer under this Act, contains a statement of the company’s authorised share capital, and does not state therewith how much of that capital has been subscribed and how much is paid up, the company shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
-
-[17
+(3) Where a notice, advertisement or other official publication of a company registered or intended to be registered as an insurer under this Act, contains a statement of the company’s authorised share capital, and does not state therewith how much of that capital has been subscribed and how much is paid up, the company shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
 [11/86]
 
 ### Control of take-overs of insurers incorporated in Singapore
 
 26\.—(1) This section and sections 27 and 28 shall apply to and in relation to all natural persons whether resident in Singapore or not and whether citizens of Singapore or not, and to all bodies corporate or unincorporate, whether incorporated or carrying on business in Singapore or not.
-
-[11/86]
 
 (2) No person shall, after 1st January 1987, enter into an agreement to acquire shares of a registered insurer that is incorporated in Singapore by virtue of which he would, if the agreement is carried out, obtain effective control of that insurer without first notifying the Authority of his intention to enter into the agreement and obtaining the approval of the Authority to his entering into the agreement.
 
@@ -742,7 +692,7 @@ In this subsection “prospectus” includes any document to which the expressio
 
 (b) a reference to an agreement by which a person would obtain effective control of a registered insurer that is incorporated in Singapore includes a reference to an agreement by which the person would acquire any interest in shares in the insurer where, upon the acquisition of those interests and of any other interests in other shares of the insurer that he has offered to acquire, he would have effective control of the insurer;
 
-(c) a reference to a person offering to acquire interest in shares includes —
+(c) a reference to a person offering to acquire any interest in shares includes —
 
 (i) a reference to a person making or publishing a statement, however expressed, that expressly or impliedly invites a holder of interests in shares to offer to dispose of interests in shares; and
 
@@ -778,13 +728,11 @@ In this subsection “prospectus” includes any document to which the expressio
 
 (4) Any person who contravenes subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both.
 
-[17A
+[11/86]
 
-### Arrangements affecting control of an insurer incorporated in Singapore
+### Arrangements affecting control of insurers incorporated in Singapore
 
 27\.—(1) No person shall, after 1st January 1987, enter into any arrangement in relation to any registered insurer that is incorporated in Singapore by virtue of which he would, if the arrangement is carried out, obtain control of the insurer without first notifying the Authority of his intention to enter into the arrangement and obtaining the approval of the Authority to his entering into the arrangement.
-
-[11/86]
 
 (2) For the purposes of this section —
 
@@ -798,17 +746,15 @@ In this subsection “prospectus” includes any document to which the expressio
 
 and references to an arrangement shall be construed accordingly; and
 
-(c) the reference to associates of a person has the same reference, as under section 26.
+(c) the reference to associates of a person has the same reference as under section 26.
 
 (3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both.
 
-[17B
+[11/86]
 
 ### Control of substantial shareholdings of insurers incorporated in Singapore
 
 28\.—(1) No person shall, after 1st January 1987, enter into any agreement to acquire shares by virtue of which he would, if the agreement is carried out, acquire a substantial shareholding in a registered insurer that is incorporated in Singapore without first notifying the Authority of his intention to enter into the agreement and obtaining the approval of the Authority to his entering into the agreement.
-
-[11/86]
 
 (2) For the purposes of this section —
 
@@ -820,9 +766,9 @@ and references to an arrangement shall be construed accordingly; and
 
 (3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding one year or to both.
 
-[17C
+[11/86]
 
-### Power of the Authority to require an insurer incorporated in Singapore to obtain information as to beneficial interests in shares of the insurer
+### Power of Authority to require an insurer incorporated in Singapore to obtain information as to beneficial interests in shares of the insurer
 
 29\.—(1) The Authority may by notice in writing direct a registered insurer that is incorporated in Singapore to obtain from any shareholder of the insurer and to transmit to the Authority information —
 
@@ -832,11 +778,9 @@ and references to an arrangement shall be construed accordingly; and
 
 and the insurer shall comply with that direction within such time as is specified in the notice.
 
-[11/86]
-
 (2) For the purposes of this section, “voting shares” has the same meaning as in the Companies Act.
 
-[17D
+[11/86]
 
 ### Approval of directors and principal officers of insurers
 
@@ -848,31 +792,29 @@ and the insurer shall comply with that direction within such time as is specifie
 
 unless the insurer satisfies the Authority that that person is a fit and proper person to be so appointed and has obtained the approval of the Authority.
 
-[11/86]
+(2) A direct insurer registered to carry on life business shall appoint a person as actuary of the insurer to perform such duties as may be prescribed.
 
-(1A) A direct insurer registered to carry on life business shall appoint a person as actuary of the insurer to perform such duties as may be prescribed.
+[32/93]
 
-[Act 32 of 1993 wef 31/12/1993]
+(3) The appointment of the actuary by a direct insurer under subsection (2) shall be made by the board of directors of the insurer in writing and shall be subject to the approval of the Authority.
 
-(1B) The appointment of the actuary by a direct insurer under subsection (1A) shall be made by the board of directors of the insurer in writing and shall be subject to the approval of the Authority.
+[32/93]
 
-[Act 32 of 1993 wef 31/12/1993]
+(4) Any person aggrieved by any decision of the Authority under subsection (1) or (3) may appeal to the High Court.
 
-(2) Any person aggrieved by any decision of the Authority under subsection (1) or (1B) may appeal to the High Court.
+[32/93]
 
-[Act 32 of 1993 wef 31/12/1993]
-
-(3) In this section —
+(5) In this section —
 
 “director” has the same meaning as in the Companies Act [Cap. 50];
 
 “principal officer”, in relation to a registered insurer, means any person by whatever name called employed by the insurer to be directly responsible for the conduct of any class of insurance business of the insurer in Singapore.
 
-[17E
+[11/86]
 
-### Restriction on granting of unsecured loans to directors and employees of insurer
+### Restriction on granting of unsecured loans to directors and employees of insurers
 
-30A\.—(1) No registered insurer shall in respect of its business in Singapore grant, whether directly or indirectly, unsecured loans —
+31\.—(1) No registered insurer shall in respect of its business in Singapore grant, directly or indirectly, unsecured loans —
 
 (a) to a director of the insurer which in the aggregate and outstanding at any one time exceed the sum of $5,000; or
 
@@ -880,25 +822,23 @@ unless the insurer satisfies the Authority that that person is a fit and proper 
 
 (2) For the purpose of this section, “director” includes the wife, husband, father, mother, son or daughter of a director.
 
-[Act 32 of 1993 wef 31/12/1993]
+[30A
 
 ### General obligation to furnish information
 
-31\. The Authority may, by notice in writing, require any Singapore insurer to furnish it with information about any matter related to any business carried on by the insurer in Singapore or elsewhere, if in the opinion of the Authority it requires that information for the discharge of its functions under this Act.
-
-[18
+32\. The Authority may, by notice in writing, require any Singapore insurer to furnish it with information about any matter related to any business carried on by the insurer in Singapore or elsewhere, if in the opinion of the Authority it requires that information for the discharge of its functions under this Act.
 
 [11/86]
+
+[31
 
 Subsidiary
 
 ### Insurance agents and brokers
 
-32\.—(1) No person shall without the approval of the Authority carry on insurance business in Singapore as insurance agent for an insurer not entitled under this Act to carry on the business in question in Singapore; and a person contravening this subsection shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 increased by a sum not exceeding $1,000 for every day on which he is proved to have done so, or to imprisonment for a term not exceeding 2 years or to both.
+33\.—(1) No person shall, without the approval of the Authority, carry on insurance business in Singapore as insurance agent for an insurer not entitled under this Act to carry on the business in question in Singapore; and a person contravening this subsection shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 increased by a sum not exceeding $1,000 for every day on which he is proved to have done so, or to imprisonment for a term not exceeding 2 years or to both.
 
-[11/86]
-
-(2) Subject to subsections (3) and (4), no Singapore insurance broker shall in the course of his business as such negotiate any contract of insurance with an insurer (whether directly or through an insurance agent), except with a Singapore insurer acting in the course of his business as such, nor shall any person in Singapore solicit insurance business for an insurer not entitled to carry on that business in Singapore; and a person contravening this subsection shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding one year or to both.
+(2) Subject to subsections (3) and (4), no Singapore insurance broker shall, in the course of his business as such, negotiate any contract of insurance with an insurer (whether directly or through an insurance agent), except with a Singapore insurer acting in the course of his business as such, nor shall any person in Singapore solicit insurance business for an insurer not entitled to carry on that business in Singapore; and a person contravening this subsection shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding one year or to both.
 
 (3) The references in subsection (2) to a contract of insurance and to insurance business shall not apply to reinsurance or business relating to risks outside Singapore or such other risks as may be prescribed.
 
@@ -906,41 +846,43 @@ Subsidiary
 
 (5) For the purpose of subsection (3), “risks outside Singapore” means any risk which would be classified as an offshore policy as defined in the First Schedule had the risk been underwritten by a registered insurer in Singapore.
 
-[Act 32 of 1993 wef 31/12/1993]
+[32/93]
 
-(6) Sections 24 and 31 shall apply in relation to Singapore insurance agents and to Singapore insurance brokers as they apply in relation to Singapore insurers.
+(6) Sections 24 and 32 shall apply in relation to Singapore insurance agents and to Singapore insurance brokers as they apply in relation to Singapore insurers.
 
-[19
-
-### Inspection and investigation of affairs of insurance agents and brokers
-
-32A\.—(1) The Authority may, for the purpose of performing its functions under this Act, inspect the books, accounts and other documents of any Singapore insurance agent or Singapore insurance broker and may institute an investigation into the whole or any part of the insurance business carried on in Singapore by the agent or broker and may for this purpose enter any premises at all reasonable times.
-
-(2) Section 40(3) shall apply, mutatis mutandis, in relation to any Singapore insurance agent or Singapore insurance broker to which this section applies.
-
-(3) Any person who refuses or fails when required to do so under section 40(3), as made applicable by subsection (2), to produce any document in his custody shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine of $1,000 for every day during which the offence continues after conviction.
-
-(4) This section shall not apply to any financial institution licensed under the Monetary Authority of Singapore Act (Cap. 186), Banking Act (Cap. 19), Finance Companies Act (Cap. 108), Securities Industry Act (Cap. 289) or Futures Trading Act (Cap. 116) and such other person as may be prescribed.
-
-[Act 32 of 1993 wef 31/12/1993]
-
-### Authority may prohibit insurance agents and brokers from carrying on business
-
-33\.—(1) The Authority may by order prohibit any person from carrying on business as insurance agent or insurance broker in Singapore or from taking part directly or indirectly in the management of any insurance agent or broker in Singapore where the person has been convicted of an offence involving fraud, dishonesty, or moral turpitude or the Authority is satisfied that the person has been involved in any activity prejudicial to the public interest.
+[32
 
 [11/86]
 
+### Inspection and investigation of affairs of insurance agents and brokers
+
+34\.—(1) The Authority may, for the purpose of performing its functions under this Act, inspect the books, accounts and other documents of any Singapore insurance agent or Singapore insurance broker and may institute an investigation into the whole or any part of the insurance business carried on in Singapore by the agent or broker and may for this purpose enter any premises at all reasonable times.
+
+(2) Section 42(2) shall apply, mutatis mutandis, in relation to any Singapore insurance agent or Singapore insurance broker to which this section applies.
+
+(3) Any person who refuses or fails when required to do so under section 42(2), as made applicable by subsection (2), to produce any document in his custody shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine of $1,000 for every day during which the offence continues after conviction.
+
+(4) This section shall not apply to any financial institution licensed under the Monetary Authority of Singapore Act [Cap. 186], Banking Act [Cap. 19], Finance Companies Act [Cap. 108], Securities Industry Act or Futures Trading Act [Cap. 116] and such other person as may be prescribed.
+
+[32A
+
+[32/93]
+
+### Authority may prohibit insurance agents and brokers from carrying on business
+
+35\.—(1) The Authority may by order prohibit any person from carrying on business as insurance agent or insurance broker in Singapore or from taking part, directly or indirectly, in the management of any insurance agent or broker in Singapore where the person has been convicted of an offence involving fraud, dishonesty or moral turpitude or the Authority is satisfied that the person has been involved in any activity prejudicial to the public interest.
+
 (2) Any person aggrieved by any order of the Authority under subsection (1) may appeal to the High Court.
 
-(3) Any person who fails to comply with an order of the Authority made under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding one year or to both and in the case of a continuing offence to a further fine of $1,000 for every day during which the offence continues after conviction.
+(3) Any person who fails to comply with an order of the Authority made under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding one year or to both and, in the case of a continuing offence, to a further fine of $1,000 for every day during which the offence continues after conviction.
 
-[19A
+[33
+
+[11/86]
 
 ### Provision for members of associations of underwriters to carry on general business
 
-34\.—(1) Section 3 shall not prevent general business being carried on in Singapore by an individual if he carries it on as a member of an association of individual underwriters established outside Singapore and for the time being approved for the purposes of this section by the Authority, and if the conditions of this section are complied with.
-
-[22/73; 11/86]
+36\.—(1) Section 3 shall not prevent general business being carried on in Singapore by an individual if he carries it on as a member of an association of individual underwriters established outside Singapore and for the time being approved for the purposes of this section by the Authority, and if the conditions of this section are complied with.
 
 (2) The Authority shall not approve an association for the purposes of this section unless it is organised on the system known as Lloyd’s, that is to say, a system whereby every underwriting member of a syndicate of the association becomes liable for a separate part of the sum secured by every policy subscribed to by that syndicate, limited or proportionate to the whole sum thereby secured.
 
@@ -952,29 +894,25 @@ Subsidiary
 
 (5) The deposit required by this section from an association shall be such as is mentioned in the Second Schedule, and that Schedule shall have effect in relation thereto.
 
-(6) This section shall not authorise a person to carry on business as a Singapore insurance agent for any individual, or in the course of a business as Singapore insurance broker to negotiate insurances with any individual, except under the authority of a licence issued by the Authority or in respect of any risk for which the broker has been permitted under section 32 to negotiate with any insurer.
+(6) This section shall not authorise a person to carry on business as a Singapore insurance agent for any individual, or in the course of a business as Singapore insurance broker to negotiate insurances with any individual, except under the authority of a licence issued by the Authority or in respect of any risk for which the broker has been permitted under section 33 to negotiate with any insurer.
 
-[Act 32 of 1993 wef 31/12/1993]
+[32/93]
 
 (7) Any person who desires to obtain a licence under subsection (6) shall apply to the Authority in writing and shall furnish such information as the Authority may require.
 
-[Act 32 of 1993 wef 31/12/1993]
+[32/93]
 
-(8) [Deleted by Act 32 of 1993 wef 31/12/1993]
-
-(9) In granting a licence under subsection (6) the Authority may impose such conditions as it thinks fit and may at any time add to, vary or revoke such conditions.
+(8) In issuing a licence under subsection (6), the Authority may impose such conditions as it thinks fit and may at any time add to, vary or revoke such conditions.
 
 [22/73]
 
-(10) The Authority may cancel the licence of an insurance agent or broker issued under subsection (6) if it is satisfied that —
+(9) The Authority may cancel the licence of an insurance agent or broker issued under subsection (6) if it is satisfied that —
 
 (a) the agent or broker has not commenced business within 12 months after being licensed;
 
 (b) the agent or broker has ceased to carry on the business for which it is licensed;
 
 (c) the agent or broker has failed to maintain the minimum financial solvency requirement as specified by the Authority in its licence;
-
-[Act 32 of 1993 wef 31/12/1993]
 
 (d) the agent or broker proposes to make, or has made, any composition or arrangement with its creditors or has gone into liquidation or has been wound up or otherwise dissolved;
 
@@ -984,39 +922,45 @@ Subsidiary
 
 (g) the agent or broker has contravened any provision of this Act or any regulations made thereunder or any condition of its licence;
 
-(h) any of the officers of the agent or broker holding a managerial or executive position has been convicted of any offence under this Act; or
+(h) any of the officers of the agent or broker holding a managerial or executive position has been convicted for any offence under this Act; or
 
 (i) the agent or broker has furnished false, misleading or inaccurate information, or has concealed or failed to disclose material facts in its application for a licence.
 
 [11/86]
 
-(11) Any person who carries on business as a Singapore insurance agent for any individual or as a Singapore insurance broker in negotiating insurances with any individual without a valid licence under subsection (6) or who fails to comply with any of the conditions of his licence shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding one year or to both and in the case of a continuing offence to a further fine of $1,000 for every day during which the offence continues after conviction.
+[32/93]
+
+(10) Any person who carries on business as a Singapore insurance agent for any individual or as a Singapore insurance broker in negotiating insurances with any individual without a valid licence under subsection (6) or who fails to comply with any of the conditions of his licence shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding one year or to both and, in the case of a continuing offence, to a further fine of $1,000 for every day during which the offence continues after conviction.
 
 [11/86]
 
-(12) Every insurance agent or broker licensed under subsection (6) shall pay to the Authority such annual fees as may be prescribed.
+(11) Every insurance agent or broker licensed under subsection (6) shall pay to the Authority such annual fees as may be prescribed.
 
 [11/86]
 
-(13) The Authority may prescribe different annual fees for insurance agents and brokers licensed under subsection (6).
+(12) The Authority may prescribe different annual fees for insurance agents and brokers licensed under subsection (6).
 
 [11/86]
 
-(14) In every year there shall be furnished to the Authority on behalf of any association of underwriters of which any members carried on business as Singapore insurers in the preceding year by virtue of this section —
+(13) In every year there shall be furnished to the Authority on behalf of any association of underwriters of which any members carried on business as Singapore insurers in the preceding year by virtue of this section —
 
 (a) a certificate, signed by the chairman or other presiding officer of the association and by or on behalf of the Minister or other public authority as has the administration of the law relating to insurance in the country in which the association is constituted, whether or not those members of the association have in respect of that preceding year complied with that law so far as applicable to them;
 
-(b) a certified copy of such returns for the preceding year and relating to insurance business carried on by those members of the association as are required by that law to be furnished to the Minister or authority; and
+(b) a certified copy of such returns for the preceding year and relating to insurance business carried on by those members of the association as are required by that law to be furnished to the Minister or public authority; and
 
 (c) the latest annual list of members of the association and of its committee or other governing body.
 
-[20
+[34
+
+[22/73]
+
+[11/86]
 
 ### Saving for validity of policies
 
-35\. Nothing in this Part shall operate to invalidate any policy.
+37\. Nothing in this Part shall operate to invalidate any policy.
 
-[21
+[35
 
 ## PART III
 
@@ -1031,13 +975,11 @@ Returns
 
 ### Annual account and audit
 
-36\.—(1) A registered insurer shall prepare such statements of account and other statements and in such form and manner as may be prescribed and lodge them with the Authority.
+38\.—(1) A registered insurer shall prepare such statements of account and other statements and in such form and manner as may be prescribed and lodge them with the Authority.
 
-[11/86]
+(2) A registered insurer shall cause to be kept in Singapore such books and records as will sufficiently explain the transactions and financial position of the insurer in Singapore and enable the insurer to comply with the requirements of this section and section 39, and shall cause those books and records to be kept in such manner as to enable them to be conveniently and properly audited.
 
-(2) A registered insurer shall cause to be kept in Singapore such books and records as will sufficiently explain the transactions and financial position of the insurer in Singapore and enable the insurer to comply with the requirements of this section and section 37, and shall cause those books and records to be kept in such manner as to enable them to be conveniently and properly audited.
-
-[Act 32 of 1993 wef 31/12/1993]
+[32/93]
 
 (3) A registered insurer shall have its accounts audited for each accounting period for which statements of account are prepared in accordance with regulations prescribed under subsection (1).
 
@@ -1083,25 +1025,21 @@ he shall immediately report the matter to the Authority.
 
 (11) Where any report or statement referred to in subsection (10) is in a language other than English, the copy required by that subsection shall be in English and shall be certified to be a true translation of the original by the translator.
 
-[22
+[36
 
 [11/86]
 
 ### Actuarial investigations and reports as to life business
 
-37\.—(1) Subject to this section, an insurer registered under this Act in respect of life business shall once in a period of 12 months have an investigation made by an actuary into the financial condition of its life business and shall lodge with the Authority such abstract of the actuary’s report and certificate relating thereto and such statements as to that business as are prescribed under section 36(1).
-
-[Act 32 of 1993 wef 31/12/1993]
-
-[11/86]
+39\.—(1) Subject to this section, an insurer registered under this Act in respect of life business shall, once in a period of 12 months, have an investigation made by an actuary into the financial condition of its life business and shall lodge with the Authority such abstract of the actuary’s report and certificate relating thereto and such statements as to that business as are prescribed under section 38(1).
 
 (2) An investigation under subsection (1) shall be made as at the end of each accounting period.
 
-(3) In the case of a company incorporated or established outside Singapore the investigation required by subsection (1) need not extend beyond the business for which an insurance fund is maintained under this Act; but if such a company is required by the law relating to insurance in the country in which it is incorporated or established to furnish the authority having the administration of that law with returns as to actuarial investigations of its life business, the documents to be lodged with the Authority under this section shall be accompanied by certified copies of any such returns made since the company was first registered under this Act in respect of life business (or, in the case of an existing insurer, since the commencement of this Act), other than returns of which copies have previously been furnished under this subsection.
+(3) In the case of a company incorporated or established outside Singapore, the investigation required by subsection (1) need not extend beyond the business for which an insurance fund is maintained under this Act; but if such a company is required by the law relating to insurance in the country in which it is incorporated or established to furnish the authority having the administration of that law with returns as to actuarial investigations of its life business, the documents to be lodged with the Authority under this section shall be accompanied by certified copies of any such returns made since the company was first registered under this Act in respect of life business (or, in the case of an existing insurer, since the 1st January 1967), other than returns of which copies have previously been furnished under this subsection.
 
-References in this Act to documents lodged with the Authority shall not be taken to include documents required by this subsection to accompany documents so lodged.
+(4) References in this Act to documents lodged with the Authority shall not be taken to include documents required by subsection (3) to accompany documents so lodged.
 
-(4) Where an insurer registered under this Act in respect of life business —
+(5) Where an insurer registered under this Act in respect of life business —
 
 (a) has an actuarial investigation made into the life business for which it maintains an insurance fund under this Act (whether with or without any other life business carried on by it); and
 
@@ -1109,41 +1047,41 @@ References in this Act to documents lodged with the Authority shall not be taken
 
 then the insurer shall, as to the lodging of documents with the Authority, comply with the requirements of subsection (1) as in the case of an investigation made under that subsection.
 
-[23
-
-### Power to require returns under section 36 or 37 to be rectified
-
-38\.—(1) If it appears to the Authority that any document lodged in accordance with section 36 or 37 is in any particular unsatisfactory, incomplete, inaccurate or misleading or that it does not comply with the requirements of this Act, the Authority may by notice in writing require such explanations as it considers necessary to be made by or on behalf of the insurer within such time (not being less than 14 days) as is specified in the notice.
+[37
 
 [11/86]
 
-(2) The Authority may, after considering the explanations referred to in subsection (1), or if such explanations have not been given by or on behalf of the insurer within the time specified in that subsection, reject the document or give such directions as it thinks necessary for its variation within such time (not being less than one month) as is specified in the directions.
+### Power to require returns under section 38 or 39 to be rectified
 
-(3) Directions given under subsection (2) with respect to any document may require such consequential variations of any other document lodged by the insurer under section 36 or 37 as may be specified in the directions.
+40\.—(1) If it appears to the Authority that any document lodged in accordance with section 38 or 39 is in any particular unsatisfactory, incomplete, inaccurate or misleading or that it does not comply with the requirements of this Act, the Authority may by notice in writing require such explanations as it may consider necessary to be made by or on behalf of the insurer within such time (not being less than 14 days) as is specified in the notice.
 
-(4) Where directions are given under subsection (2), any document to which they relate shall be deemed not to have been lodged until it is re-submitted with the variations required by the directions, but the insurer shall be deemed to have submitted the document within the time limited by regulations prescribed under section 36(1) if it is re-submitted with the required variations within the time limited by the directions.
+(2) The Authority may, after considering the explanations referred to in subsection (1), or if such explanations have not been given by or on behalf of the insurer within the time specified in that subsection, reject the document or give such directions as it may think necessary for its variation within such time (not being less than one month) as is specified in the directions.
 
-[24
+(3) Directions given under subsection (2) with respect to any document may require such consequential variations of any other document lodged by the insurer under section 38 or 39 as may be specified in the directions.
 
-### Additional provisions as to returns under section 36 or 37
+(4) Where directions are given under subsection (2), any document to which they relate shall be deemed not to have been lodged until it is re-submitted with the variations required by the directions, but the insurer shall be deemed to have submitted the document within the time limited by regulations prescribed under section 38(1) if it is re-submitted with the required variations within the time limited by the directions.
 
-39\.—(1) Any member or policy owner of an insurer shall have a right, on applying to the insurer, to be sent by the insurer at an address supplied by him copies of documents lodged by the insurer to comply with section 36 or 37, and to have the copies despatched not later than 14 days after the insurer receives the application:
-
-Provided that the right shall not extend to any document excepted from this provision by regulations prescribed under section 36(1), or to a document of any other description except the last lodged of that description.
+[38
 
 [11/86]
 
-(2) Any person shall have the right, on payment of the prescribed fee, at any time during working hours of the office of the Authority, to inspect at that office any document lodged by an insurer to comply with section 36 or 37 and any document required by sections 36(10) and 37(3) to accompany the document so lodged and make a copy of the whole or any part of it:
+### Additional provisions as to returns under section 38 or 39
 
-Provided that the right shall not extend to any document excepted from this provision by regulations prescribed under section 36(1), or to documents of any other description lodged more than 10 years previously.
+41\.—(1) Any member or policy owner of an insurer shall have a right, on applying to the insurer, to be sent by the insurer at an address supplied by him copies of documents lodged by the insurer to comply with section 38 or 39, and to have the copies despatched not later than 14 days after the insurer receives the application:
+
+Provided that the right shall not extend to any document excepted from this provision by regulations prescribed under section 38(1), or to a document of any other description except the last lodged of that description.
+
+(2) Any person shall have the right, on payment of the prescribed fee, at any time during working hours of the office of the Authority, to inspect at that office any document lodged by an insurer to comply with section 38 or 39 and any document required by sections 38(10) and 39(3) to accompany the document so lodged and make a copy of the whole or any part of it:
+
+Provided that the right shall not extend to any document excepted from this provision by regulations prescribed under section 38(1), or to documents of any other description lodged more than 10 years previously.
 
 [11/86]
 
-(3) In any proceedings a certificate signed by any person appointed by the Authority under section 50 that a document is one lodged by an insurer to comply with section 36 or 37, or one that accompanied documents so lodged, shall be admissible as evidence of the facts certified.
+(3) In any proceedings a certificate signed by any person appointed by the Authority under section 52 that a document is one lodged by an insurer to comply with section 38 or 39, or one that accompanied documents so lodged, shall be admissible as evidence of the facts certified.
 
-(4) Where an insurer fails to comply with section 36 or 37, the insurer shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 and to a fine not exceeding $1,000 for every day during which the offence continues after conviction.
+(4) Where an insurer fails to comply with section 38 or 39, the insurer shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day during which the offence continues after conviction.
 
-[25
+[39
 
 [11/86]
 
@@ -1151,13 +1089,9 @@ Inspections and Investigations
 
 ### Inspection and investigation of affairs of insurer
 
-40\.—(1) The Authority may from time to time inspect the books, accounts and transactions of a registered insurer and institute an investigation into the whole or any part of the insurance business carried on in Singapore by the insurer.
+42\.—(1) The Authority may from time to time inspect the books, accounts and transactions of a registered insurer and institute an investigation into the whole or any part of the insurance business carried on in Singapore by the insurer.
 
-[11/86]
-
-(2) [Deleted by Act 32 of 1993 wef 31/12/1993]
-
-(3) In making an inspection or investigation under this section, the Authority may, by notice in writing, require —
+(2) In making an inspection or investigation under this section, the Authority may, by notice in writing, require —
 
 (a) the insurer, or any person having the custody thereof on behalf of the insurer;
 
@@ -1169,17 +1103,17 @@ to produce for its inspection, and allow it to copy the whole or any part of any
 
 Provided that a requirement under this subsection shall extend only to documents relating to business carried on by the insurer in Singapore, or evidencing the insurer’s title to assets held for the purposes of any such business.
 
-(4) [Deleted by Act 32 of 1993 wef 31/12/1993]
+(3) Any person who refuses or fails when required to do so under subsection (2) to produce any document in his custody shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 and, in the case of a continuing offence, to a further fine of $1,000 for every day during which the offence continues after conviction.
 
-(5) Any person who refuses or fails when required to do so under subsection (3) to produce any document in his custody shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 and, in the case of a continuing offence, to a further fine of $1,000 for every day during which the offence continues after conviction.
+[40
 
-[Act 32 of 1993 wef 31/12/1993]
+[32/93]
 
-[27
+[11/86]
 
 ### Powers of Authority to issue directions
 
-41\.—(1) Where the Authority is satisfied that the affairs of any insurer are being conducted in a manner likely to be detrimental to the public interest or the interests of the policy owners or prejudicial to the interests of the insurer, the Authority may issue such directions to the insurer as it considers necessary and in particular may require the insurer —
+43\.—(1) Where the Authority is satisfied that the affairs of any insurer are being conducted in a manner likely to be detrimental to the public interest or the interests of the policy owners or prejudicial to the interests of the insurer, the Authority may issue such directions to the insurer as it may consider necessary and, in particular, may require the insurer —
 
 (a) to take such action or recruit such management personnel as may be necessary to enable it to conduct its business in accordance with sound insurance principles;
 
@@ -1195,81 +1129,79 @@ Provided that a requirement under this subsection shall extend only to documents
 
 (g) to take action to make good any default under section 15, 16, 17, 18 or 19.
 
-[22/73; 11/86]
-
-(2) The Authority may, upon representation being made to it, or on its own motion, modify or cancel any direction issued under subsection (1) and, in so doing, may impose such conditions as it thinks fit.
-
-[11/86
-
-(3) Any insurer which fails to comply with any direction made under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 6 months or to both, and in the case of a continuing offence to a further fine not exceeding $1,000 for every day during which the offence continues after conviction.
-
-[28
+(2) The Authority may, upon representation being made to it, or on its own motion, modify or cancel any direction issued under subsection (1) and, in so doing, may impose such conditions as it may think fit.
 
 [11/86]
+
+(3) Any insurer which fails to comply with any direction made under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day during which the offence continues after conviction.
+
+[41
+
+[11/86]
+
+[22/73]
 
 Winding up
 
 ### General provisions as to winding up
 
-42\.—(1) The persons who may petition under the Companies Act [Cap. 50] for the winding up of the affairs of an insurer registered under this Act, or for the continuance of the winding up of the affairs of such an insurer subject to the supervision of the court, shall include the Authority.
-
-[11/86]
+44\.—(1) The persons who may petition under the Companies Act for the winding up of the affairs of an insurer registered under this Act, or for the continuance of the winding up of the affairs of such an insurer subject to the supervision of the court, shall include the Authority.
 
 (2) The Authority may, in accordance with the provisions of the Companies Act, present a petition for the winding up of an insurer registered under this Act if the insurer has contravened or failed to comply with any provision of this Act.
 
-(3) The Authority shall be a party to any proceedings under the Companies Act [Cap. 50] relating to the winding up of the affairs of such an insurer, and the liquidator in such a winding up shall give it such information as he may from time to time require about the affairs of the insurer.
+(3) The Authority shall be a party to any proceedings under the Companies Act relating to the winding up of the affairs of such an insurer, and the liquidator in such a winding up shall give it such information as he may from time to time require about the affairs of the insurer.
 
-(4) For the purposes of any proceedings under the Companies Act for the winding up of the affairs of such an insurer by the court, the contingent and prospective liabilities of the insurer in respect of policies shall, in determining whether it is unable to pay its debts, be estimated in accordance with such rules as may be prescribed; and evidence that the insurer was insolvent at the close of the last accounting period for which statements of account have been lodged with the Authority under section 36 shall be evidence that the insurer continues to be unable to pay its debts.
+(4) For the purposes of any proceedings under the Companies Act [Cap. 50] for the winding up of the affairs of such an insurer by the court, the contingent and prospective liabilities of the insurer in respect of policies shall, in determining whether it is unable to pay its debts, be estimated in accordance with such rules as may be prescribed; and evidence that the insurer was insolvent at the close of the last accounting period for which statements of account have been lodged with the Authority under section 38 shall be evidence that the insurer continues to be unable to pay its debts.
 
-(5) If the Authority submits to the Rules Committee, established under any written law relating to the courts, proposals for making special provision under section 410 of the Companies Act in relation to insurers registered under this Act or any description of such insurers, the Committee may by rules made under that section give effect to the proposals, either as submitted or subject to such modifications as the Committee thinks fit.
+(5) If the Authority submits to the Rules Committee, established under any written law relating to the courts, proposals for making special provision under section 410 of the Companies Act in relation to insurers registered under this Act or any description of such insurers, the Committee may by rules made under that section give effect to the proposals, either as submitted or subject to such modifications as the Committee may think fit.
 
 (6) Proposals under subsection (5), and rules made by virtue thereof, may provide for modifying or excluding, in relation to insurers so registered, provisions of Part X of the Companies Act requiring the holding of meetings or otherwise relating to the procedure in a winding up.
 
-(7) In the winding up of the affairs of an insurer registered under this Act, section 327(2) of the Companies Act (which applies bankruptcy rules in the winding up of insolvent companies), shall not apply to the valuation of liabilities in respect of policies; but in any such winding up, whether the insurer is insolvent or not, those liabilities shall be estimated in accordance with any prescribed rules and, as regards matters not fixed by the rules, on a basis approved by the court:
+(7) In the winding up of the affairs of an insurer registered under this Act, section 327(2) of the Companies Act (which applies bankruptcy rules in the winding up of insolvent companies), shall not apply to the valuation of liabilities in respect of policies; but in any such winding up, whether the insurer is insolvent or not, those liabilities shall be estimated in accordance with any prescribed rules and, as regards matters not fixed by the rules, on a basis approved by the court.
 
-Provided that in a members’ voluntary winding up the basis to be adopted as regards matters not fixed by the rules may be approved by the Authority instead of by the court.
+(8) In a members’ voluntary winding up, the basis to be adopted as regards matters not fixed by the rules may be approved by the Authority instead of by the court.
 
-(8) References in this section to an insurer registered under this Act shall extend also to a Singapore insurer which has ceased to be so registered but remains under any liability in respect of Singapore policies or offshore policies.
+(9) References in this section to an insurer registered under this Act shall extend also to a Singapore insurer which has ceased to be so registered but remains under any liability in respect of Singapore policies or offshore policies.
 
-[29
+[42
 
 [11/86]
 
 ### Special provision for insurers directed to cease insurance business
 
-43\.—(1) Where the Authority gives an insurer a direction under section 41(1)(e) by reason of the insolvency of the fund maintained by the insurer under this Act for either class of insurance business, the affairs of the insurer may be wound up by the court under the Companies Act [Cap. 50] as if it had suspended its business for a whole year or, in the case of a winding up under Division 5 of Part X of that Act, as if it had ceased to carry on business.
+45\.—(1) Where the Authority gives an insurer a direction under section 43(1)(e) by reason of the insolvency of the fund maintained by the insurer under this Act for either class of insurance business, the affairs of the insurer may be wound up by the court under the Companies Act [Cap. 50] as if it had suspended its business for a whole year or, in the case of a winding up under Division 5 of Part X of that Act, as if it had ceased to carry on business.
 
-[22/73; 11/86]
+[22/73]
 
-(2) Where the Authority gives an insurer a direction under section 41(1)(e) but, on a petition for the affairs of the insurer to be wound up by the court, the court is satisfied that the insurer will be able to pay its debts in full within 12 months or such longer period as the court thinks reasonable, the court may (if it thinks fit) order the affairs of the insurer to be wound up only as regards the insurance fund maintained for the class of business to which the direction relates.
+[11/86]
+
+(2) Where the Authority gives an insurer a direction under section 43(1)(e) but, on a petition for the affairs of the insurer to be wound up by the court, the court is satisfied that the insurer will be able to pay its debts in full within 12 months or such longer period as the court thinks reasonable, the court may (if it thinks fit) order the affairs of the insurer to be wound up only as regards the insurance fund maintained for the class of business to which the direction relates.
 
 [11/86]
 
 (3) An order made under subsection (2) for a limited winding up shall be of the same effect as an order for the affairs of the insurer to be wound up generally, except in so far as this section otherwise provides.
 
-(4) Where such an order is made, the powers of the liquidator shall be exercisable only for the purpose of applying the assets of the relevant insurance fund (including such part of the deposit as is allocated to the insurance fund by the Authority under section 16(9)) in discharging the liabilities to which they are applicable, together with the costs, charges and expenses incurred in the winding up; but the insurer shall from time to time, as the court may direct, make such additions to those assets as are required to secure that they are sufficient for the purpose or shall, if the court so directs, discharge any of those liabilities out of other assets.
+(4) Where such an order is made, the powers of the liquidator shall be exercisable only for the purpose of applying the assets of the relevant insurance fund (including such part of the deposit as is allocated to the insurance fund by the Authority under section 16(13)) in discharging the liabilities to which they are applicable, together with the costs, charges and expenses incurred in the winding up; but the insurer shall from time to time, as the court may direct, make such additions to those assets as are required to secure that they are sufficient for the purpose or shall, if the court so directs, discharge any of those liabilities out of other assets.
 
 [11/86]
 
-(5) In the winding up of the affairs of an insurer under such an order, the Companies Act [Cap. 50] shall have effect subject to the following modifications:
+(5) In the winding up of the affairs of an insurer under such an order, the Companies Act shall have effect subject to the following modifications:
 
 (a) section 250 (or, as the case may be, section 352) of that Act and other sections so far as they relate to contributories shall not apply;
 
-(b) section 258 shall apply after, as it applies before, the making of the winding up order, and section 262(3) of that Act shall not apply; and
+(b) section 258 shall apply after, as it applies before, the making of the winding-up order, and section 262(3) of that Act shall not apply; and
 
 (c) sections 259, 260, 319, 329, 330 and 332 to 335 of that Act shall not apply.
 
 (6) Where such an order is made, the court may at any time, on the application of the liquidator or of any person who might petition for the affairs of the insurer to be wound up, substitute an order for the affairs of the insurer to be wound up generally, and give such directions as the court thinks fit as to matters in progress under the previous order; and, subject to any such directions, the winding up shall for all purposes connected with the substituted order be deemed to have commenced at the time of the application for that order.
 
-[30
+[43
 
 ### Co-operative societies doing insurance business
 
-44\.—(1) Where a society registered under the Co-operative Societies Act [Cap. 62] is a registered insurer, no proceedings for the dissolution or winding up of the society shall be taken under sections 83 to 89 of that Act except with the consent of the Authority and in accordance with such conditions, if any, as it sees fit to attach to that consent.
+46\.—(1) Where a society registered under the Co-operative Societies Act is a registered insurer, no proceedings for the dissolution or winding up of the society shall be taken under sections 83 to 89 of that Act except with the consent of the Authority and in accordance with such conditions, if any, as it sees fit to attach to that consent.
 
-[11/86]
-
-(2) Notwithstanding section 101 of the Co-operative Societies Act any such society which is a registered insurer shall be deemed to be an unregistered company within the meaning of Division 5 of Part X of the Companies Act and may be wound up by the Court accordingly under that Act; but in any such winding up —
+(2) Notwithstanding section 101 of the Co-operative Societies Act, any such society which is a registered insurer shall be deemed to be an unregistered company within the meaning of Division 5 of Part X of the Companies Act [Cap. 50] and may be wound up by the court accordingly under that Act; but in any such winding up —
 
 (a) the provisions of the Companies Act shall apply with the substitution for references to the Registrar of Companies and the register under that Act of references to the Registrar and register under the Co-operative Societies Act; and
 
@@ -1277,23 +1209,21 @@ Provided that in a members’ voluntary winding up the basis to be adopted as re
 
 (3) Where a society has ceased to be a registered insurer, but remains under any liability in respect of Singapore policies or offshore policies, this section shall apply as if the society were an insurer so registered.
 
-[31
+[44
 
 [11/86]
 
 ### Priority of claim of policy owners
 
-45\. Where a registered insurer becomes insolvent or is unable to meet its obligations, the assets of the insurer shall be available to meet its liabilities to all policy owners of Singapore policies and offshore policies and these liabilities shall have priority over all unsecured liabilities of the insurer other than preferential debts specified under section 328(1) of the Companies Act [Cap. 50].
+47\. Where a registered insurer becomes insolvent or is unable to meet its obligations, the assets of the insurer shall be available to meet its liabilities to all policy owners of Singapore policies and offshore policies and these liabilities shall have priority over all unsecured liabilities of the insurer other than preferential debts specified under section 328(1) of the Companies Act [Cap. 50].
 
-[31A
+[45
 
 [11/86]
 
 ### Policy Owners’ Protection Fund
 
-46\.—(1) The Authority shall establish and maintain in accordance with this section and regulations prescribed, a Policy Owners’ Protection Fund (referred to in this section as the Fund) for the purposes of indemnifying in whole or in part, or otherwise assisting or protecting, policy owners and others who have been or may be prejudiced in consequence of the inability of registered insurers to meet their liabilities under life policies and compulsory insurance policies issued by them.
-
-[11/86]
+48\.—(1) The Authority shall establish and maintain in accordance with this section and regulations prescribed, a Policy Owners’ Protection Fund (referred to in this section as the Fund) for the purposes of indemnifying in whole or in part, or otherwise assisting or protecting, policy owners and others who have been or may be prejudiced in consequence of the inability of registered insurers to meet their liabilities under life policies and compulsory insurance policies issued by them.
 
 (2) Subject to such exceptions or restrictions as may be prescribed, the Authority shall —
 
@@ -1303,11 +1233,11 @@ Provided that in a members’ voluntary winding up the basis to be adopted as re
 
 (ii) 90% of the amount of any liability of a registered insurer in liquidation towards a policy owner under the terms of any life policy which was a Singapore policy or an offshore policy and not being a contract of reinsurance,
 
-is paid to the person or policy owner as soon as reasonably practicable after the beginning of the liquidation; and
+ is paid to the person or policy owner as soon as reasonably practicable after the beginning of the liquidation; and
 
 (b) make arrangements so far as reasonably practicable for securing continuity of insurance for every policy owner of a registered insurer in liquidation or in financial difficulties who is a policy owner in respect of a life policy which was a Singapore policy or an offshore policy and not being a contract of reinsurance, and for this purpose the Authority may take measures to secure or facilitate the transfer of the life business of the insurer, or part of that business, to another registered insurer or to secure the issue by another registered insurer to the policy owners of life policies in substitution of their existing policies.
 
-(3) For the purposes of financing the expenditure of the Fund the Authority may from time to time by regulations impose a levy on registered insurers carrying on —
+(3) For the purposes of financing the expenditure of the Fund, the Authority may from time to time by regulations impose a levy on registered insurers carrying on —
 
 (a) general business in Singapore (referred to in this section as a general business levy); and
 
@@ -1323,13 +1253,13 @@ is paid to the person or policy owner as soon as reasonably practicable after th
 
 (8) In subsections (6) and (7), the gross premium income of a registered insurer for any year in respect of any class of insurance business carried on in Singapore other than reinsurance business means the gross amounts after deducting any return of premiums recorded in the accounts of the insurer during that year as paid or due to the insurer by way of premiums under that class.
 
-(9) Subject to subsection (10) the proceeds of general business levies may be applied only on expenditure incurred by the Authority under subsection (2)(a)(i), and the proceeds of life business levies may be applied only on expenditure incurred by the Authority under subsections (2)(a)(ii) and (2)(b).
+(9) Subject to subsection (10), the proceeds of general business levies may be applied only on expenditure incurred by the Authority under subsection (2)(a)(i), and the proceeds of life business levies may be applied only on expenditure incurred by the Authority under subsection (2)(a)(ii) and (b).
 
 (10) The Authority may deduct any expenditure incurred by it in performing its functions under this section from the Fund.
 
 (11) Where it appears to the Authority that any circumstances have occurred in relation to a registered insurer incorporated outside Singapore which are the equivalent of a registered insurer in liquidation or in financial difficulties under the law relating to companies in force in the country in which it is incorporated, the Authority may treat that insurer as a registered insurer in liquidation or in financial difficulties for the purposes of this section, and this section shall apply to that insurer subject to such modifications as appear to the Authority to be necessary.
 
-(12) Without prejudice to the generality of section 62, regulations made under this Act may provide —
+(12) Without prejudice to the generality of section 66, regulations made under this Act may provide —
 
 (a) for the imposition, distribution and enforcement of general business levies and life business levies and other matters in connection with or in relation to those levies; and
 
@@ -1337,7 +1267,7 @@ is paid to the person or policy owner as soon as reasonably practicable after th
 
 (13) For the purposes of this section —
 
-(a) “compulsory insurance policy” means any policy or security which satisfies the requirements of the Motor Vehicles (Third-Party Risks and Compensation) Act [Cap. 189] or the Workmen’s Compensation Act [Cap. 354];
+(a) “compulsory insurance policy” means any policy or security which satisfies the requirements of the Motor Vehicles (Third-Party Risks and Compensation) Act [Cap. 189] or the Workmen’s Compensation Act;
 
 (b) references to a registered insurer in liquidation are references to an insurer in whose case —
 
@@ -1351,21 +1281,23 @@ is paid to the person or policy owner as soon as reasonably practicable after th
 
 (d) a registered insurer, not being an insurer in liquidation, is an insurer in financial difficulties if —
 
-(i) a provisional liquidator has been appointed in respect of the insurer under section 267 of the Companies Act [Cap. 50];
+(i) a provisional liquidator has been appointed in respect of the insurer under section 267 of the Companies Act;
 
 (ii) it has been proved, in any proceedings on a petition for the winding up of the insurer under the Companies Act, to be unable to pay its debts; or
 
-(iii) an application has been made to the High Court under section 210 of the Companies Act for the sanction of a compromise or arrangement proposed between the insurer and its creditors or any class of them (whether or not any of its members are also parties thereto) and the terms of the compromise or arrangement provide for reducing the liabilities or the benefits provided for under the insurer’s life policies,
+(iii) an application has been made to the High Court under section 210 of the Companies Act [Cap. 50] for the sanction of a compromise or arrangement proposed between the insurer and its creditors or any class of them (whether or not any of its members are also parties thereto) and the terms of the compromise or arrangement provide for reducing the liabilities or the benefits provided for under the insurer’s life policies,
 
-and the petition is presented or the application is made after that date.
+ and the petition is presented or the application is made after that date.
 
-[31B
+[46
+
+[11/86]
 
 Transfers of business
 
 ### Schemes for transfer of business
 
-47\.—(1) The whole or part of the insurance business of a registered insurer may be transferred to another insurer registered in respect of the class or classes of business to be transferred, if the transfer is effected by a scheme under this section, but shall not be transferred except by such a scheme:
+49\.—(1) The whole or part of the insurance business of a registered insurer may be transferred to another insurer registered in respect of the class or classes of business to be transferred, if the transfer is effected by a scheme under this section, but shall not be transferred except by such a scheme:
 
 Provided that —
 
@@ -1373,15 +1305,13 @@ Provided that —
 
 (b) no scheme shall transfer any insurance business of a society registered under the Co-operative Societies Act [Cap. 62] except to another society so registered, nor transfer to such a society any business except that of another.
 
-[11/86]
-
 (2) Any registered insurer, not being a company incorporated or established outside Singapore, shall by virtue of this section have power to make such a transfer by a scheme under this section, and the directors shall have authority on behalf of the insurer to arrange for and do all things necessary to give effect to such a transfer; and this subsection shall apply notwithstanding the absence of that power or authority under the constitution of the insurer or any limitation imposed by its constitution on its powers or on the authority of its directors.
 
 (3) A scheme under this section may provide for the business in question to be transferred to a body not registered as an insurer under this Act in respect of the relevant class of business (including a body not yet in existence), if the scheme is so framed as to operate only in the event of the body becoming so registered.
 
 (4) A scheme under this section for the transfer of any insurance business may extend to the transfer with it of any other business, not being insurance business, where the other business is carried on by the insurer as ancillary only to the insurance business transferred.
 
-(5) A scheme under this section may include provision for matters incidental to the transfer thereby effected, and provision for giving effect to that transfer, and in particular —
+(5) A scheme under this section may include provision for matters incidental to the transfer thereby effected, and provision for giving effect to that transfer and, in particular —
 
 (a) for any property, rights or liabilities of the transferor (including assets comprised in a deposit under this Act or in an insurance fund) to vest, by virtue of the scheme and without further or other assurance, in the transferee; and
 
@@ -1389,11 +1319,13 @@ Provided that —
 
 (6) A scheme under this section shall be of no effect unless confirmed by the High Court, but may be prepared and submitted for confirmation to the High Court by any of the insurers concerned; and if so confirmed, the scheme shall have effect according to its tenor notwithstanding anything in the preceding sections of this Act and be binding on any person thereby affected.
 
-[32
+[47
+
+[11/86]
 
 ### Confirmation of schemes
 
-48\.—(1) Before an application is made to the High Court for confirmation of a scheme under section 47 —
+50\.—(1) Before an application is made to the High Court for confirmation of a scheme under section 49 —
 
 (a) a copy of the scheme shall be lodged with the Authority together with copies of the actuarial and other reports, if any, upon which the scheme is founded;
 
@@ -1401,55 +1333,49 @@ Provided that —
 
 (c) for a period of 15 days after the publication of the notice a copy of the scheme shall be kept at each office in Singapore of every insurer concerned, and shall be opened to inspection by all members and policy owners of such an insurer who are affected by the scheme.
 
-[11/86]
-
 (2) The Authority may cause a report on the scheme to be made by an actuary independent of the parties to the scheme and, if it does so, shall cause a copy of the report to be sent to each of the insurers concerned.
 
 [11/86]
 
-[Act 32 of 1993 wef 31/12/1993]
+[32/93]
 
 (3) Copies of the scheme and any such report as is mentioned in subsection (1)(a) or (2), or summaries approved by the Authority of the scheme and any such report, shall, except in so far as the High Court upon application made in that behalf otherwise directs, be transmitted by the insurers concerned, at least 15 days before application is made for confirmation of the scheme, to every policy owner affected by the scheme.
 
 [11/86]
 
-(4) An application to the court with respect to any matter connected with the scheme may, at any time before confirmation by the court, be made by the Authority or by any person who in the opinion of the court is likely to be affected by the scheme.
+(4) An application to the High Court with respect to any matter connected with the scheme may, at any time before confirmation by the Court, be made by the Authority or by any person who, in the opinion of the Court, is likely to be affected by the scheme.
 
 [11/86]
 
-(5) The court may confirm the scheme without modification or subject to modifications agreed to by the insurers concerned, or may refuse to confirm the scheme.
+(5) The High Court may confirm the scheme without modification or subject to modifications agreed to by the insurers concerned, or may refuse to confirm the scheme.
 
-(6) The insurers concerned shall be jointly and severally liable to reimburse to the Authority any expenses incurred by it under this section in connection with any scheme or proposed scheme (subject to any order of the court as to costs); and a scheme shall include provision as to how that liability is, as between the insurers, to be borne.
+(6) The insurers concerned shall be jointly and severally liable to reimburse to the Authority any expenses incurred by the Authority under this section in connection with any scheme or proposed scheme (subject to any order of the High Court as to costs); and a scheme shall include provision as to how that liability is, as between the insurers, to be borne.
 
-[33
+[48
 
 [11/86]
 
 ### Documents to be filed when scheme confirmed
 
-49\.—(1) Where by a scheme under section 47 insurance business of an insurer is transferred to another, the transferee shall, within one month after the scheme takes effect, lodge with the Authority —
+51\.—(1) Where by a scheme under section 49 insurance business of an insurer is transferred to another, the transferee shall, within one month after the scheme takes effect, lodge with the Authority —
 
 (a) statements of the assets and liabilities of each insurer concerned as at the time immediately before the transfer, signed on behalf of the insurer and, in the case of the transferor, indicating whether the transfer is of the whole of the transferor’s business and, if not, the extent to which the transferor’s assets and liabilities relate to the business transferred;
 
-(b) a copy of the scheme as confirmed by the court, and a certified copy of the order of the court confirming the scheme;
+(b) a copy of the scheme as confirmed by the High Court, and a certified copy of the order of the Court confirming the scheme;
 
-(c) copies of any actuarial or other reports upon which the scheme was founded (being reports made since a copy of the scheme was lodged under section 48(1));
+(c) copies of any actuarial or other reports upon which the scheme was founded (being reports made since a copy of the scheme was lodged under section 50(1));
 
-[Act 32 of 1993 wef 31/12/1993]
+(d) a statement from an auditor of the transferee who satisfies the conditions mentioned in section 38(4)(a) and (b) certifying that the assets and liabilities of the transferor relating to the business transferred have been assumed and accounted for in the books of the transferee; and
 
-(ca) a statement from an auditor of the transferee who satisfies the conditions mentioned in section 36(4)(a) and (b) certifying that the assets and liabilities of the transferor relating to the business transferred have been assumed and accounted for in the books of the transferee; and
+(e) a statutory declaration made by the chairman of directors of the transferee, or by its principal officer in Singapore, fully setting forth every payment made or to be made to any person on account of the transfer, and stating that, to the best of his belief, no other payment beyond those so set forth has been, or is to be, made on account thereof by or with the knowledge of any insurer concerned; and in this paragraph, references to the making of a payment include references to the transfer of property or rights of any description.
 
-[Act 32 of 1993 wef 31/12/1993]
+(2) On the confirmation of a scheme under section 49, each of the insurers concerned shall (unless it is an unincorporated company) file a copy of the scheme with the Registrar of Companies or, in the case of societies registered under the Co-operative Societies Act [Cap. 62], with the Registrar of Co-operative Societies.
 
-(d) a statutory declaration made by the chairman of directors of the transferee, or by its principal officer in Singapore, fully setting forth every payment made or to be made to any person on account of the transfer, and stating that, to the best of his belief, no other payment beyond those so set forth has been, or is to be, made on account thereof by or with the knowledge of any insurer concerned.
-
-In paragraph (d) references to the making of a payment include references to the transfer of property or rights of any description.
+[49
 
 [11/86]
 
-(2) On the confirmation of a scheme under section 47 each of the insurers concerned shall (unless it is an unincorporated company) file a copy of the scheme with the Registrar of Companies or, in the case of societies registered under the Co-operative Societies Act [Cap. 62] with the Registrar under that Act.
-
-[34
+[32/93]
 
 ## PART IV
 
@@ -1459,87 +1385,89 @@ Administration and enforcement
 
 ### Appointment of assistants
 
-50\. The Authority may authorise or appoint any person to assist it in the exercise of its functions and duties under this Act, either generally or in any particular case.
+52\. The Authority may authorise or appoint any person to assist it in the exercise of its functions and duties under this Act, either generally or in any particular case.
 
-[35
+[50
 
 [11/86]
 
 ### Exemption
 
-51\.—(1) The Authority may, subject to such condition as it thinks fit, exempt any person or class of persons from any or all of the provisions of this Act.
-
-[11/86]
+53\.—(1) The Authority may, subject to such condition as it may think fit, exempt any person or class of persons from any or all of the provisions of this Act.
 
 (2) An exemption granted under this section may be withdrawn by the Authority at any time.
 
-[35A
+[51
+
+[11/86]
 
 ### Annual reports
 
-52\.—(1) Not later than the end of June in any calendar year the Authority shall prepare and submit to the Minister a report on the working of this Act during the preceding calendar year.
+54\.—(1) Not later than the end of June in any calendar year, the Authority shall prepare and submit to the Minister a report on the working of this Act during the preceding calendar year.
 
-[11/86]
-
-[Act 32 of 1993 wef 31/12/1993]
-
-(2) The Authority shall include in its report under this section for any year copies or summaries of documents lodged with it in that year under sections 36 and 37, other than documents excepted from section 39(1) and (2), and may include copies or summaries of documents accompanying those lodged; and it may also include in the report such notes on any such documents or summaries as it thinks fit, and copies of any correspondence between it and an insurer about any such documents lodged by or received from the insurer.
+(2) The Authority shall include in its report under this section for any year copies or summaries of documents lodged with it in that year under sections 38 and 39, other than documents excepted from section 41(1) and (2), and may include copies or summaries of documents accompanying those lodged; and it may also include in the report such notes on any such documents or summaries as it may think fit, and copies of any correspondence between it and an insurer about any such documents lodged by or received from the insurer.
 
 (3) On receiving a report under this section, the Minister shall present a copy of it to Parliament.
 
-[36
+[52,
+
+[11/86]
+
+[32/93]
 
 ### Statistics
 
-53\.—(1) Regulations may provide for the collection by or on behalf of the Authority, at such intervals or on such occasions as may be prescribed, of statistical information as to such matters relevant to insurance as may be prescribed, and may provide for the collection and use of such information for any purpose, whether or not connected with insurance.
-
-[11/86]
+55\.—(1) Regulations may provide for the collection by or on behalf of the Authority, at such intervals or on such occasions as may be prescribed, of statistical information as to such matters relevant to insurance as may be prescribed, and may provide for the collection and use of such information for any purpose, whether or not connected with insurance.
 
 (2) Such regulations may make provision for requiring Singapore insurers, insurance brokers and insurance agents to furnish to the Authority, in the prescribed form, such information as may be prescribed.
 
 (3) No use shall be made of any information obtained by or on behalf of the Authority by virtue only of this section except in a form which does not disclose the affairs of any particular person.
 
-[37
-
-### Service of notices
-
-54\. For the purposes of the Interpretation Act [Cap. 1], a letter containing a notice or other document to be served by the Authority under this Act shall be deemed to be addressed to the proper place if it is addressed to the place in Singapore which the addressee last indicated to the Authority as his address or to the addressee’s latest address in Singapore known to the Authority.
-
-[38
+[53
 
 [11/86]
 
+### Service of notices
+
+56\. For the purposes of the Interpretation Act [Cap. 1], a letter containing a notice or other document to be served by the Authority under this Act shall be deemed to be addressed to the proper place if it is addressed to the place in Singapore which the addressee last indicated to the Authority as his address or to the addressee’s latest address in Singapore known to the Authority.
+
+[11/86]
+
+[54
+
 ### General provisions as to offences
 
-55\.—(1) Any person who —
+57\.—(1) Any person who —
 
-(a) signs any document lodged with the Authority under section 36, 37 or 49(1)(a); or
-
-[Act 32 of 1993 wef 31/12/1993]
+(a) signs any document lodged with the Authority under section 38, 39 or 51(1)(a); or
 
 (b) furnishes the Authority with any information under or for the purposes of any other provision of this Act,
 
 shall use due care to secure that the document or information is not false in any material particular; and if he does not use due care in this behalf and the document or information is false in a material particular, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 2 years or to both.
 
-[11/86]
+(2) Any person who is guilty of any breach of a duty imposed on him by this Act or any regulations made thereunder or any direction issued by the Authority under section 66(2) as being or having been an insurer or an insurance agent or broker shall, in a case where no other punishment is provided for by this Act or any regulations made thereunder, be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day during which the offence continues after conviction.
 
-(2) Any person who is guilty of any breach of a duty imposed on him by this Act or any regulations made thereunder or any direction issued by the Authority under section 62(2) as being or having been an insurer or an insurance agent or broker shall, in a case where no other punishment is provided for by this Act or any regulations made thereunder or by the regulations, be liable on conviction to a fine not exceeding $5,000 and in the case of a continuing offence to a further fine not exceeding $1,000 for every day during which the offence continues after conviction.
+[32/93]
 
-[Act 32 of 1993 wef 31/12/1993]
+(3) Where an offence under this Act or any regulations made thereunder is committed by any company or body corporate, any person who, at the time of the commission of the offence, is a director, manager, secretary or other similar officer of that company or body, or is purporting to act in that capacity, shall be guilty of the offence unless he proves that he exercised all such diligence to prevent the commission of the offence as he ought to have exercised, having regard to the nature of his functions in that capacity and to all the circumstances.
 
-(3) Where an offence under this Act or any regulations made thereunder is committed by any company or body corporate, any person who at the time of the commission of the offence is a director, manager, secretary or other similar officer of that company or body, or is purporting to act in that capacity, shall be guilty of the offence unless he proves that he exercised all such diligence to prevent the commission of the offence as he ought to have exercised, having regard to the nature of his functions in that capacity and to all the circumstances.
+(4) Where an offence under this Act or any regulations made thereunder is committed by a company or body corporate, being an offence consisting in the breach of a duty imposed only on companies and bodies corporate, any individual guilty of the offence (whether by virtue of subsection (3) or otherwise) shall be liable on conviction to imprisonment for a term not exceeding one year in addition to or in substitution for any fine.
 
-(4) Where an offence under this Act is committed by a company or body corporate, being an offence consisting in the breach of a duty imposed only on companies and bodies corporate, any individual guilty of the offence (whether by virtue of subsection (3) or otherwise) shall be liable on conviction to imprisonment for a term not exceeding one year in addition to or in substitution for any fine.
+[32/93]
 
 (5) For the purpose of any proceedings under subsection (1)(a), a document purporting to be signed by any person shall be presumed to have been signed by him, unless the contrary is proved.
 
-[39
+[55
 
-### Jurisdiction of courts
+[11/86]
 
-56\. A District Court or a Magistrate’s Court shall, notwithstanding the Criminal Procedure Code [Cap. 68], have jurisdiction to try any offence under this Act and may impose the full penalty or punishment in respect of such offence.
+[32/93]
 
-[39A
+### Jurisdiction of Courts
+
+58\. A District Court or a Magistrate’s Court shall, notwithstanding the Criminal Procedure Code [Cap. 68], have jurisdiction to try any offence under this Act and may impose the full penalty or punishment in respect of such offence.
+
+[56
 
 [11/86]
 
@@ -1547,7 +1475,7 @@ Miscellaneous amendments of law
 
 ### Insurable interest required for life insurances
 
-57\.—(1) A life policy insuring the life of anyone other than the person effecting the insurance or a person connected with him as mentioned in subsection (2) shall be void unless the person effecting the insurance has an insurable interest in that life at the time the insurance is effected; and the policy moneys paid under such a policy shall not exceed the amount of that insurable interest at that time.
+59\.—(1) A life policy insuring the life of anyone, other than the person effecting the insurance or a person connected with him as mentioned in subsection (2), shall be void unless the person effecting the insurance has an insurable interest in that life at the time the insurance is effected; and the policy moneys paid under such a policy shall not exceed the amount of that insurable interest at that time.
 
 (2) The lives excepted from subsection (1), besides that of the person effecting the insurance, are those of that person’s wife or husband, of that person’s child or ward being under the age of majority at the time the insurance is effected, and of anyone on whom that person is at that time wholly or partly dependent.
 
@@ -1555,31 +1483,31 @@ Miscellaneous amendments of law
 
 (4) In so far as in the case of any life policy the policy moneys do not consist wholly of a cash payment due on the death in question, the limit under this section on the amount to be paid shall be applied by reference to the value of the right to the policy moneys immediately after the death or the happening before the death of any event on which they become payable.
 
-(5) This section shall not affect policies issued before the commencement of this Act.
+(5) This section shall not affect policies issued before 1st January 1967.
 
-[40
+[57
 
 ### Capacity of infant to insure
 
-58\.—(1) Notwithstanding any law to the contrary, a person over the age of 10 years shall not by reason only of being under the age of majority lack the capacity to enter into a contract of insurance; but a person under the age of 16 years shall not have the capacity to enter into such a contract except with the consent in writing of his parent or guardian.
+60\.—(1) Notwithstanding any law to the contrary, a person over the age of 10 years shall not, by reason only of being under the age of majority, lack the capacity to enter into a contract of insurance; but a person under the age of 16 years shall not have the capacity to enter into such a contract except with the consent in writing of his parent or guardian.
 
 (2) This section shall be deemed always to have had effect.
 
-[41
+[58
 
 ### Life policy moneys to be paid without deduction
 
-59\.—(1) Any policy moneys payable under a life policy or moneys payable on the surrender of a life policy shall be paid without any deduction for sums not due under the policy or under an agreement charging them on the policy, unless the deduction is made with the consent of the person entitled to those moneys; and any provision contained in a life policy or in any agreement relating thereto shall be void, in so far as it entitles the insurer to make any such deduction without that consent.
+61\.—(1) Any policy moneys payable under a life policy or moneys payable on the surrender of a life policy shall be paid without any deduction for sums not due under the policy or under an agreement charging them on the policy, unless the deduction is made with the consent of the person entitled to those moneys; and any provision contained in a life policy or in any agreement relating thereto shall be void, in so far as it entitles the insurer to make any such deduction without that consent.
 
-(2) Subsection (1) shall apply to all Singapore policies, but shall not apply to any other policy issued before the commencement of this Act.
+(2) Subsection (1) shall apply to all Singapore policies, but shall not apply to any other policy issued before 1st January 1967.
 
 (3) In any proceedings for the recovery of policy moneys due under the life policy or of moneys payable on the surrender of a life policy, no set-off or counterclaim shall be allowed except for sums due under the policy or under an agreement charging them on the policy.
 
-[42
+[59
 
 ### Life policies (surrenders; non-payment of premiums; paid-up policies)
 
-60\.—(1) Where a life policy, has been in force in the case of a home service policy for 6 years or more, or in the case of an ordinary policy for 3 years or more, the policy owner may by notice in writing to the insurer surrender the policy and shall thereupon become entitled to receive the surrender value thereof, determined in accordance with such rules as may be prescribed (but subject to any deduction for sums due under the policy or under an agreement charging them on the policy).
+62\.—(1) Where a life policy, has been in force in the case of a home service policy for 6 years or more, or in the case of an ordinary policy for 3 years or more, the policy owner may by notice in writing to the insurer surrender the policy and shall thereupon become entitled to receive the surrender value thereof, determined in accordance with such rules as may be prescribed (but subject to any deduction for sums due under the policy or under an agreement charging them on the policy).
 
 (2) Where a life policy has been in force for 3 years or more, the policy shall not lapse or be forfeited by reason of the non-payment of premiums, but shall have effect subject to such modifications as to the period for which it is to be in force or the benefits receivable thereunder or both as may be determined in accordance with any system adopted by the insurer and applicable to the policy; and —
 
@@ -1591,7 +1519,7 @@ Miscellaneous amendments of law
 
 (3) Where a life policy has been in force for 3 years or more, the policy owner may by notice in writing to the insurer elect to exchange the policy for a paid-up policy, which shall be a non-participating policy for an amount determined in accordance with such rules as may be prescribed, but with no other modification not required by this Act or some other written law.
 
-(4) A policy issued in place of an earlier policy shall for the purposes of this section (including this subsection) be treated as having been in force since the earlier policy began to be in force; but this shall not affect the operation in relation to a policy of subsection (2)(a) or (b).
+(4) A policy issued in place of an earlier policy shall, for the purposes of this section (including this subsection), be treated as having been in force since the earlier policy began to be in force; but this shall not affect the operation in relation to a policy of subsection (2)(a) or (b).
 
 (5) Subsections (1) to (3) shall not apply —
 
@@ -1599,21 +1527,19 @@ Miscellaneous amendments of law
 
 (b) to a policy under which no policy moneys are necessarily payable, not being a policy which provides for the payment of policy moneys on a death after a specified period.
 
-(6) As respects policies of any prescribed description subsections (1) to (3) shall have effect subject to such modifications as may be prescribed.
+(6) As respects policies of any prescribed description, subsections (1), (2) and (3) shall have effect subject to such modifications as may be prescribed.
 
 (7) The rights conferred by this section shall be in addition to, and not in derogation of, any other rights available to the policy owner under the terms of the policy or otherwise; but this section shall not be taken to confer on a policy owner any rights except against the insurer as such.
 
 (8) This section shall apply to policies whenever issued; and, subject to subsection (5), shall extend to any Singapore policy and offshore policy.
 
-[43
+[60
 
 [11/86]
 
 ### Payment of life policy and personal accident claims without probate, etc.
 
-61\.—(1) In any case where the policy owner of any life policy or personal accident policy of an insurer dies, and the policy moneys are payable thereunder on his death, the insurer may make payment to any proper claimant a prescribed amount of the policy moneys of all such policies issued by the insurer on the deceased’s life without the production of any probate or letters of administration; and the insurer shall be discharged from all liability in respect of the amount paid.
-
-[11/86]
+63\.—(1) In any case where the policy owner of any life policy or personal accident policy of an insurer dies, and the policy moneys are payable thereunder on his death, the insurer may make payment to any proper claimant a prescribed amount of the policy moneys of all such policies issued by the insurer on the deceased’s life without the production of any probate or letters of administration; and the insurer shall be discharged from all liability in respect of the amount paid.
 
 (2) If, in any case as is mentioned in subsection (1), estate duty is payable in Singapore on any such policy moneys as are there mentioned, the insurer may, notwithstanding section 44(2) of the Estate Duty Act [Cap. 96], pay to any proper claimant a prescribed amount of the policy moneys of all such policies issued by the insurer, without the policy moneys having been included in such a schedule or certificate as is mentioned in that subsection.
 
@@ -1625,13 +1551,15 @@ Miscellaneous amendments of law
 
 (5) Where an amount is paid under subsection (2) on account of any policy moneys, the insurer may, before payment of the balance of such policy moneys to any proper claimant, apply the whole or part of the policy moneys to pay any unpaid estate duty payable on the death of the insured.
 
-(6) In this section, “policy owner” includes a part owner of a policy, and “proper claimant” means a person who claims to be entitled to the sum in question as executor of the deceased, or who claims to be entitled to that sum (whether for his own benefit or not) and is the widower, widow, parent, child, brother, sister, nephew or niece of the deceased; and in deducing any relationship for the purposes of this subsection an illegitimate person shall be treated as the legitimate child of his actual parents.
+(6) In this section, “policy owner” includes a part owner of a policy, and “proper claimant” means a person who claims to be entitled to the sums in question as executor of the deceased, or who claims to be entitled to that sum (whether for his own benefit or not) and is the widower, widow, parent, child, brother, sister, nephew or niece of the deceased; and in deducing any relationship for the purposes of this subsection an illegitimate person shall be treated as the legitimate child of his actual parents.
 
-[44
+[61
 
-### No insurance to be made unless insurer has interest and no policy without inserting names. Cf. 14 George III c.48 (Life Assurance Act 1774)
+[11/86]
 
-61A\.—(1) No insurance shall be made by any person on any event wherein the person for whose use or benefit or on whose account the policy is made has no interest, or by way of gaming or wagering; and every assurance made contrary to this subsection shall be void.
+### No insurance to be made unless insurer has interest and no policy without inserting names
+
+64\.—(1) No insurance shall be made by any person on any event wherein the person for whose use or benefit or on whose account the policy is made has no interest, or by way of gaming or wagering; and every assurance made contrary to this subsection shall be void.
 
 (2) It shall not be lawful to make any policy on any event without inserting in such policy the names of the persons interested therein, or for whose use or benefit or on whose account such policy was made.
 
@@ -1639,61 +1567,61 @@ Miscellaneous amendments of law
 
 (4) Nothing in this section shall extend to insurance made by any person on ships or goods, or to contracts of indemnity against loss by fire or loss by other events whatsoever.
 
-[Act 35 of 1993 wef 12/11/1993]
+[61A
 
-### No action for accidental fire. (Fire Prevention (Metropolis) Act 1774, s.86)
+[Cf. 14]
 
-61B\. No action shall lie against a person in whose house or premises or on whose estate any fire accidentally began except that no contract or agreement made between landlord and tenant shall be hereby defeated or made void.
+[George III c. 48 (Life Assurance Act 1774).]
 
-[Act 35 of 1993 wef 12/11/1993]
+[35/93]
+
+### No action for accidental fire. (Fire Prevention (Metropolis) Act 1774, s. 86)
+
+65\. No action shall lie against a person in whose house or premises or on whose estate any fire accidentally began except that no contract or agreement made between landlord and tenant shall be hereby defeated or made void.
+
+[35/93]
+
+[61B
 
 Supplementary
 
 ### Regulations
 
-62\.—(1) The Authority may make regulations for carrying into effect the objects of this Act, and for prescribing anything which under this Act is to be prescribed; and in this Act “regulations” means regulations made by the Authority and “prescribed” means prescribed by regulations.
+66\.—(1) The Authority may make regulations for carrying into effect the objects of this Act, and for prescribing anything which under this Act is to be prescribed; and in this Act “regulations” means regulations made by the Authority and “prescribed” means prescribed by regulations.
 
-[Act 32 of 1993 wef 31/12/1993]
+(2) The Authority may issue such directions as it may consider necessary for carrying into effect the objects of this Act, and in this Act “directions” includes notices and circulars.
 
-(2) The Authority may issue such directions as it considers necessary for carrying into effect the objects of this Act, and in this Act “directions” includes notices and circulars.
+[62
 
-[45
+[32/93]
 
 [11/86]
-
-[Act 32 of 1993 wef 31/12/1993]
-
-63\. [Repealed by Act 32 of 1993 wef 31/12/1993]
 
 ### Miscellaneous definitions
 
-64\.—(1) In this Act —
+67\.—(1) In this Act —
 
 “accounting period”, in relation to any insurer, means the period beginning from the commencement of its business in Singapore or 1st January of any year, as the case may be, and ending on 31st December of that year for which accounts relating to the insurance business carried on by the insurer in Singapore are kept and for which an insurance fund has been established under this Act, unless otherwise allowed by the Authority;
 
-[Act 32 of 1993 wef 31/12/1993]
-
 “actuary” means a Fellow of any prescribed institute;
-
-[Act 32 of 1993 wef 31/12/1993]
 
 “Authority” means the Monetary Authority of Singapore established under the Monetary Authority of Singapore Act [Cap. 186];
 
-[Deleted by Act 32 of 1993 wef 31/12/1993]
-
 “registered insurer” means an insurer which has been registered by the Authority under this Act.
-
-[11/86]
 
 (2) In this Act —
 
-(a) “statutory balance-sheet” and “statutory valuation” mean respectively a balance-sheet lodged with the Authority in order to comply with section 36(1), and a valuation of which the results are shown in a valuation balance-sheet lodged with it on an actuarial investigation made in order to comply with section 37(1);
+(a) “statutory balance-sheet” and “statutory valuation” mean respectively a balance-sheet lodged with the Authority in order to comply with section 38(1), and a valuation of which the results are shown in a valuation balance-sheet lodged with it on an actuarial investigation made in order to comply with section 39(1);
 
 (b) any reference to the last statutory balance-sheet or to the last statutory valuation shall be construed as referring to that last prepared or made and not superseded by the arrival of the date as at which another is to be prepared or made; and
 
 (c) any reference to there being shown in a statutory balance-sheet or on a statutory valuation a surplus of assets over liabilities of an insurance fund shall be construed accordingly by reference to the prescribed form of balance-sheet or valuation balance-sheet and to the rules to be followed under this Act and the regulations in preparing it.
 
-[47
+[64
+
+[11/86]
+
+[32/93]
 
 FIRST SCHEDULE
 
@@ -1723,7 +1651,7 @@ General
 
 (b) “policy owner’s address” means the address for the time being known to the insurer as the address (or normal address) for communicating with the policy owner about the policy;
 
-(c) “resident in Singapore” and “permanent establishment” have the same meaning as in the Income Tax Act [Cap. 134]; and
+(c) “resident in Singapore” and “permanent establishment” have the same meanings as in the Income Tax Act [Cap. 134]; and
 
 (d) where any risk is in transit in Singapore it shall be deemed to be a risk outside Singapore,
 
@@ -1735,7 +1663,7 @@ but sub-paragraph (1)(a) shall apply to a policy of reinsurance as if the refere
 
 Definitions related to life business
 
-5\. Life policy means any policy by which payment of policy moneys is insured on death (otherwise than by way of insurance against personal accident, disease or sickness only) or on the happening of any contingency dependent on the termination or continuance of human life, and includes a policy which is subject to payment of premiums for a term dependent on the termination or continuance of human life and a policy securing the grant of an annuity for such a term.
+5\. “Life policy” means any policy by which payment of policy moneys is insured on death (otherwise than by way of insurance against personal accident, disease or sickness only) or on the happening of any contingency dependent on the termination or continuance of human life, and includes a policy which is subject to payment of premiums for a term dependent on the termination or continuance of human life and a policy securing the grant of an annuity for such a term.
 
 6.—(1) “Home-service policy” means a life policy in respect of which premiums are contracted to be paid at intervals of less than two months and are, or have been, ordinarily collected in the course of door-to-door collections made by persons employed for the purpose, but shall not include in relation to any insurer any description of policy which the Authority directs is not to be treated as a home-service policy.
 
@@ -1767,21 +1695,21 @@ Definitions related to general business
 
 SECOND SCHEDULE
 
-Section 34(5).
+Section 36(5).
 
 Deposits by associations of underwriters
 
-1. An association of underwriters, in order to comply with section 34(4) of the Act, shall make a deposit of a value of $500,000 or such other amount as may be prescribed with the Authority.
+1. An association of underwriters, in order to comply with section 36(4) of the Act, shall make a deposit of a value of $500,000, or such other amount as may be prescribed, with the Authority.
 
-[Act 32 of 1993 wef 31/12/1993]
+[11/86]
 
-2\. Not later than the end of June in each calendar year after 1966 there shall be made such additional deposit, if any, as is necessary to secure that the aggregate value of the deposit is not less than 55% of the premiums received by members of the association in respect of Singapore policies in the preceding calendar year.
+[32/93]
+
+2\. Not later than the end of June in each calendar year after 1966, there shall be made such additional deposit, if any, as is necessary to secure that the aggregate value of the deposit is not less than 55% of the premiums received by members of the association in respect of Singapore policies in the preceding calendar year.
 
 3\. The Authority shall retain any deposit under this Schedule until it is satisfied that insurance business is not being carried on in Singapore by any members of the association, and it shall then transfer the deposit to the association except such part (if any) that it determines should be kept available for meeting claims against members of the association in respect of Singapore policies.
 
-4. Section 13(2), (3) and (6) of the Act shall apply, with any necessary adaptations, in relation to a deposit by an association under this Schedule as they apply in relation to a deposit by an insurer under that section.
-
-[11/86]
+4\. Subsections (2), (3) and (6) of section 13 of the Act shall apply, with any necessary adaptations, in relation to a deposit by an association under this Schedule as they apply in relation to a deposit by an insurer under that section.
 
 ## LEGISLATIVE HISTORY
 
@@ -1833,3 +1761,5 @@ This Legislative History is provided for the convenience of users of the Insuran
 |||(Bill No. 27/93 published on 31 August 1993)|
 ||Date of Second and Third Readings|12 October 1993|
 ||Date of commencement|31 December 1993|
+|10.|**1994 Revised Edition—Insurance Act**|
+||Date of operation|15 March 1994|
