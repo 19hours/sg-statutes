@@ -2765,3 +2765,11 @@ This Legislative History is provided for the convenience of users of the Parliam
 ||Date of commencement|22 August 1984|
 |30.|**1985 Revised Edition—Parliamentary Elections Act (Chapter 218)**|
 ||Date of operation|30 March 1987|
+|31.|**Act 10 of 1988—Parliamentary Elections (Amendment) Act 1988**|
+||Date of First Reading|30 November 1987|
+|||(Bill No. 23/1987 published on 2 December 1987)|
+||Date of Second Reading|11 February 1988 and 12 February 1988|
+||Date Committed to Select Committee|12 February 1988|
+||Date of Presentation of Select Committee Report|5 May 1988 (Parl. 3 of 1988)|
+||Date of Third Reading|18 May 1988|
+||Date of commencement|1 June 1988|
