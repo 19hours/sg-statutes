@@ -16,7 +16,7 @@
 
 - [4 Interest in securities](#Interest-in-securities)
 
-- [5 Amendment of First and Second Schedules](#Amendment-of-First-and-Second-Schedules)
+- [5 Amendment of Schedules](#Amendment-of-Schedules)
 
 [**Part II LICENsing of financial advisers and their representativeS**](#Part-II)
 
@@ -248,6 +248,8 @@
 
 - [102 Copies or extracts of books to be admitted in evidence](#Copies-or-extracts-of-books-to-be-admitted-in-evidence)
 
+- [102A Translations of instruments](#Translations-of-instruments)
+
 - [103 Power to make regulations giving effect to treaty, etc.](#Power-to-make-regulations-giving-effect-to-treaty-etc)
 
 - [104 Regulations](#Regulations)
@@ -257,6 +259,8 @@
 [**FIRST SCHEDULE Excluded Financial Advisers**](#FIRST-SCHEDULE-Excluded-Financial-Advisers)
 
 [**SECOND SCHEDULE types of financial advisory service**](#SECOND-SCHEDULE-types-of-financial-advisory-service)
+
+[**THIRD SCHEDULE Specified Provisions**](#THIRD-SCHEDULE-Specified-Provisions)
 
 [**Legislative History**](#Legislative-History)
 
@@ -346,7 +350,7 @@ and a reference in this Act to a person connected to another person shall be con
 
 “licence” means a financial adviser’s licence or representative’s licence, and “licensee” shall be construed accordingly;
 
-“life policy” has the same meaning as in the Schedule to the Insurance Act (Cap. 142);
+“life policy” has the same meaning as in the Schedule to the Insurance Act (Cap. 142), but does not include any contract of reinsurance;
 
 “newspaper” has the same meaning as in section 2 of the Newspaper and Printing Presses Act (Cap. 206);
 
@@ -374,7 +378,7 @@ and a reference in this Act to a person connected to another person shall be con
 
 “related corporation” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
 
-“representative” means an individual , in the direct employment of or acting for or by arrangement with a financial adviser, who performs for the financial adviser any of the functions of a financial adviser (other than work ordinarily performed by accountants, clerks or cashiers), whether his remuneration (if any) is by way of salary, wages, commission or otherwise, and includes an officer of the financial adviser who performs for the financial adviser any of those functions, whether or not his remuneration is as aforesaid;
+“representative” means a person, in the direct employment of or acting for or by arrangement with a financial adviser, who performs for the financial adviser any of the functions of a financial adviser (other than work ordinarily performed by accountants, clerks or cashiers), whether his remuneration (if any) is by way of salary, wages, commission or otherwise, and includes an officer of the financial adviser who performs for the financial adviser any of those functions, whether or not his remuneration is as aforesaid;
 
 “representative’s licence” means a licence granted or renewed under section 13 in respect of a representative, and “licensed representative” shall be construed accordingly;
 
@@ -514,9 +518,9 @@ entitled to exercise or control the exercise of not less than 20% of the votes a
 
 (c) the fact that the exercise of a right conferred by the interest is or is capable of being made subject to restraint or restriction.
 
-### Amendment of First and Second Schedules
+### Amendment of Schedules
 
-5\.—(1) The Minister may from time to time, by order published in theGazette, amend the First or Second Schedule.
+5\.—(1) The Minister may from time to time, by order published in theGazette, amend, add to or vary the First, Second or Third Schedule.
 
 (2) The Minister may, in any order made under subsection (1), make such incidental, consequential or supplementary provisions as may be necessary or expedient.
 
@@ -542,7 +546,13 @@ LICENsing of financial advisers and their representativeS
 
 ### Need for representative’s licence
 
-7\.—(1) No person, other than a representative of an exempt financial adviser, shall act as or hold himself out to be a representative unless he holds a representative’s licence.
+7\.—(1) No person shall act as or hold himself out to be a representative unless —
+
+(a) he is an individual; and
+
+(b) he holds a representative’s licence or is a representative of an exempt financial adviser.
+
+[15/2003 wef 22/12/2003]
 
 (2) Any person who contravenes this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction.
 
@@ -558,7 +568,11 @@ LICENsing of financial advisers and their representativeS
 
 (2) The Authority may require an applicant to furnish it with such information or documents as it considers necessary in relation to the application.
 
-(3) An application for the grant or renewal of a representative’s licence shall be supported by a person who is, or who has submitted an application to be, a licensed financial adviser.
+(3) An application for the grant of a representative’s licence shall be supported by a person who is, or who has submitted an application to be, a licensed financial adviser.
+
+(3A) An application for the renewal of a representative’s licence shall be supported by a person who is a licensed financial adviser.
+
+[15/2003 wef 22/12/2003]
 
 (4) An application for the grant of a representative’s licence shall be deemed to be withdrawn with effect from the date on which the person who supported the application —
 
@@ -570,7 +584,7 @@ LICENsing of financial advisers and their representativeS
 
 (5) An application for the renewal of a representative’s licence shall be deemed to be withdrawn with effect from the date on which the person who supported the application withdraws his support in writing.
 
-(6) Where a person submits an application for the renewal of his licence before the late renewal period, the licence shall continue in force until the date on which the licence is renewed or the application for its renewal is refused, as the case may be.
+(6) Where a person submits an application for the renewal of his licence before or during the late renewal period, the licence shall continue in force until the date on which the licence is renewed or the application for its renewal is refused, as the case may be.
 
 (7) Where a person submits an application for the renewal of his licence during the late renewal period, the Authority may impose a late renewal fee not exceeding $100 for every day or part thereof that the application for renewal is late, subject to a maximum of $3,000.
 
@@ -588,7 +602,7 @@ LICENsing of financial advisers and their representativeS
 
 (e) the applicant or any of its substantial shareholders is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
 
-(f) a receiver, receiver and manager, judicial manager, or such other person having the powers and duties of a receiver, receiver and manager or judicial manager, has been appointed, whether in Singapore or elsewhere, in relation to, or in respect of any property of, the applicant or any of its substantial shareholders;
+(f) a receiver, receiver and manager, judicial manager, or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to, or in respect of any property of, the applicant or any of its substantial shareholders;
 
 (g) the applicant or any of its substantial shareholders has, whether in Singapore or elsewhere, entered into a compromise or scheme of arrangement with its creditors, being a compromise or scheme of arrangement that is still in operation;
 
@@ -638,41 +652,41 @@ LICENsing of financial advisers and their representativeS
 
 (3) Subject to subsection (4), the Authority shall not refuse an application for the grant or renewal of a financial adviser’s licence without giving the applicant an opportunity to be heard.
 
-(4) The Authority may refuse an application for the grant or renewal of a financial adviser’s licence on any of the grounds described in subsection (1)(e), (f), (g), (h), (k) or (l)(i) without giving the applicant an opportunity to be heard.
+(4) The Authority may refuse an application for the grant or renewal of a financial adviser’s licence on any of the following grounds without giving the applicant an opportunity to be heard:
+
+(a) the applicant is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
+
+(b) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the applicant;
+
+(c) a prohibition order under section 59 has been made by the Authority, and remains in force, against the applicant;
+
+(d) the applicant has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly.
+
+[15/2003 wef 22/12/2003]
 
 ### Failure to maintain minimum financial requirements or professional indemnity insurance policy
 
-10\.—(1) A licensed financial adviser which —
+10\.—(1) A licensed financial adviser shall —
 
-(a) becomes aware of any inability by it to comply with the minimum financial requirements or such other requirements as may be prescribed under section 9(1)(b); or
+(a) maintain, at all times during the currency of its licence, such minimum financial requirements or such other requirements as may be prescribed under section 9(1)(b); and
 
-(b) fails to have in force a professional indemnity insurance policy under section 9(1)(c),
+(b) have in force, at all times during the currency of its licence, a professional indemnity insurance policy, the cover of which is consistent with such limit and deductible requirements as may be prescribed, or any other measure as may be approved by the Authority in lieu of a professional indemnity insurance policy, under section 9(1)(c).
 
-shall immediately notify the Authority, in writing, of such inability or failure.
+(2) Where a licensed financial adviser contravenes subsection (1), the Authority may, without prejudice to any other remedy available to the Authority under this Act —
 
-(2) Where the Authority becomes aware —
+(a) permit the financial adviser to continue to act as such, subject to such conditions as the Authority may impose; or
 
-(a) of any inability by a licensed financial adviser to comply with the minimum financial requirements or such other requirements as may be prescribed under section 9(1)(b); or
+(b) impose such requirements as may be specified in written directions, including requiring the financial adviser —
 
-(b) that a licensed financial adviser has failed to have in force a professional indemnity insurance policy under section 9(1)(c),
+(i) to cease to act as a financial adviser other than for the purpose of giving effect to any agreement, transaction or arrangement that is permitted by or by virtue of its licence, and that has been entered into before the time of its failure to comply with the minimum financial requirements or such other requirements as may be prescribed under section 9(1)(b);
 
-the Authority may, whether or not the financial adviser has notified the Authority under subsection (1) —
+(ii) to cease to act as a financial adviser other than for the purpose of giving effect to any agreement, transaction or arrangement that is permitted by or by virtue of its licence, and that has been entered into before the time of its failure to have in force a professional indemnity insurance policy, or such other measure as may be approved by the Authority in lieu of a professional indemnity insurance policy, under section 9(1)(c); or
 
-(i) suspend the financial adviser’s licence for such period as it may consider appropriate;
+(iii) to submit such statements or reports on a weekly basis or at such other intervals as the Authority may require until it meets the minimum financial requirements or such other requirements as may be prescribed under section 9(1)(b).
 
-(ii) permit the financial adviser to continue to act as such, subject to such conditions as the Authority may impose; or
+(3) Any licensed financial adviser which, without reasonable excuse, contravenes subsection (1) or any condition imposed by the Authority under subsection (2)(a) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
 
-(iii) require the financial adviser to comply with such written directions as the Authority may impose and, in particular, require the financial adviser —
-
-(A) to cease to act as a financial adviser other than for the purpose of giving effect to any agreement, transaction or arrangement permitted by or by virtue of its licence, and entered into before the time when it became aware of its inability to comply with the minimum financial requirements or such other requirements as may be prescribed under section 9(1)(b);
-
-(B) to cease to act as a financial adviser other than for the purpose of giving effect to any agreement, transaction or arrangement permitted by or by virtue of its licence, and entered into before the time of its failure to have in force a professional indemnity insurance policy under section 9(1)(c); or
-
-(C) to submit such statements or reports on a weekly basis or at such other intervals as the Authority may require until it meets the minimum financial requirements or such other requirements as may be prescribed under section 9(1)(b).
-
-(3) For the purposes of subsection (1), a licensed financial adviser shall be deemed to be aware of an inability to comply with the minimum financial requirements or such other requirements as may be prescribed under section 9(1)(b) if any of its officers is so aware or would, with the exercise of reasonable diligence, have been aware of such inability.
-
-(4) Any licensed financial adviser which, without reasonable excuse, contravenes subsection (1) or any condition imposed by the Authority under subsection (2)(ii) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
+[15/2003 wef 22/12/2003]
 
 ### Requirements for grant or renewal of representative’s licence
 
@@ -720,7 +734,19 @@ the Authority may, whether or not the financial adviser has notified the Authori
 
 (3) Subject to subsection (4), the Authority shall not refuse an application for the grant or renewal of a representative’s licence without giving the applicant an opportunity to be heard.
 
-(4) The Authority may refuse an application for the grant or renewal of a representativer’s licence on any of the grounds described in subsection (1)(d), (e), (f), (i) or (j)(i) without giving the applicant an opportunity to be heard.
+(4) The Authority may refuse an application for the grant or renewal of a representative’s licence on any of the following grounds without giving the applicant an opportunity to be heard:
+
+(a) the applicant is an undischarged bankrupt, whether in Singapore or elsewhere;
+
+(b) a prohibition order under section 59 has been made by the Authority, and remains in force, against the applicant;
+
+(c) the applicant has been convicted, whether in Singapore or elsewhere, of an offence —
+
+(i) involving fraud or dishonesty or the conviction for which involved a finding that he had acted fraudulently or dishonestly; and
+
+(ii) punishable with imprisonment for a term of 3 months or more.
+
+[15/2003 wef 22/12/2003]
 
 ### Representative to act for only one financial adviser
 
@@ -760,7 +786,7 @@ the Authority may, whether or not the financial adviser has notified the Authori
 
 (d) a prohibition order has been made against the licensee under section 59.
 
-(3) Subject to subsection (2), the Authority may, where it considers appropriate, refund or remit the whole or part of any licence fee paid to it.
+(3) Subject to subsection (2), the Authority may, where it considers appropriate, refund or remit the whole or part of any licence fee paid or payable to it.
 
 ### Period of licence
 
@@ -770,11 +796,45 @@ the Authority may, whether or not the financial adviser has notified the Authori
 
 ### Variation of licence
 
-16\.—(1) A licensee may apply to the Authority in the prescribed form to vary the type of financial advisory service authorised to be provided by his licence.
+16\.—(1) A licensee may apply to the Authority, in such form and manner as may be prescribed, to vary his licence —
 
-(2) An application under subsection (1) shall be accompanied by an application fee of such amount as may be prescribed, which shall be non-refundable and which shall be paid in the prescribed manner.
+(a) by adding one or more types of financial advisory service authorised to be provided by his licence; or
+
+(b) by adding one or more types of investment product in respect of which he provides any financial advisory service.
+
+[15/2003 wef 22/12/2003]
+
+(1A) The Authority may require an applicant to furnish it with such information or documents as it considers necessary in relation to the application.
+
+[15/2003 wef 22/12/2003]
+
+(2) An application under subsection (1) —
+
+(a) shall be accompanied by a non-refundable application fee of such amount as may be prescribed, which shall be paid in the prescribed manner; and
+
+(b) if made in respect of a representative’s licence, shall be supported by a person who is —
+
+(i) a licensed financial adviser in respect of the type or types of financial advisory service or investment product (as the case may be) to be added to the representative’s licence; or
+
+(ii) a licensed financial adviser which has applied under subsection (1) to add to its licence the type or types of financial advisory service or investment product (as the case may be) to be added to the representative’s licence.
+
+[15/2003 wef 22/12/2003]
+
+(2A) An application under subsection (1), if made in respect of a representative’s licence, shall be deemed to be withdrawn with effect from the date on which the licensed financial adviser which supported the application —
+
+(a) withdraws its support in writing;
+
+(b) withdraws its application to add to its licence the type or types of financial advisory service or investment product (as the case may be) to be added to the representative’s licence; or
+
+(c) has its application to add to its licence the type or types of financial advisory service or investment product (as the case may be) to be added to the representative’s licence refused by the Authority.
+
+[15/2003 wef 22/12/2003]
 
 (3) The Authority may approve an application under subsection (1) subject to such conditions as the Authority thinks fit, or may refuse the application on any of the grounds set out in section 9(1) or 11(1), as the case may be.
+
+(4) The Authority shall not refuse an application under subsection (1) without giving the applicant an opportunity to be heard.
+
+[15/2003 wef 22/12/2003]
 
 ### False statements in relation to application for grant, renewal or variation of licence
 
@@ -804,7 +864,7 @@ the licensed financial adviser shall, not later than 14 days after the occurrenc
 
 the licensed representative shall, not later than 14 days after the occurrence of that event, furnish particulars of the event to the Authority in the prescribed form.
 
-(3) A person who ceases to act as a licensed financial adviser or a licensed representative, as the case may be, shall immediately thereafter return the licence to the Authority.
+(3) A person who ceases to act as a licensed financial adviser or a licensed representative, as the case may be, shall return the licence to the Authority within 14 days of the date of the cessation.
 
 (4) Any person who, without reasonable excuse, contravenes this section shall be guilty of an offence.
 
@@ -854,29 +914,31 @@ the licensed representative shall, not later than 14 days after the occurrence o
 
 (4) Subject to subsection (5), the Authority shall not revoke or suspend a licence under subsection (2) or (3), respectively, without giving the licensee an opportunity to be heard.
 
-(5) The Authority may revoke or suspend a licence under subsection (2) or (3), respectively, on any of the following grounds without giving the licensee an opportunity to be heard:
+(5) The Authority may revoke or suspend a licence under subsection (2) or (3), respectively, without giving the licensee an opportunity to be heard —
 
-(a) in the case of a licensed financial adviser —
+(a) in the case of a licensed financial adviser, on any of the following grounds:
 
-(i) the licensee or any of its substantial shareholders is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
+(i) the licensee is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
 
-(ii) a receiver, receiver and manager, judicial manager, or such other person having the powers and duties of a receiver, receiver and manager or judicial manager, has been appointed, whether in Singapore or elsewhere, in relation to, or in respect of any property of, the licensee or any of its substantial shareholders;
+(ii) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the licensee;
 
-(iii) the licensee or any of its substantial shareholders has, whether in Singapore or elsewhere, entered into a compromise or scheme of arrangement with its creditors, being a compromise or scheme of arrangement that is still in operation;
+(iii) a prohibition order under section 59 has been made by the Authority, and remains in force, against the licensee;
 
-(iv) execution against the licensee or any of its substantial shareholders in respect of a judgment debt has been returned unsatisfied in whole or in part;
+(iv) the licensee has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly; or
 
-(v) the licensee or any of its substantial shareholders or officers has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it or he acted fraudulently or dishonestly; or
+(b) in the case of a licensed representative, on any of the following grounds:
 
-(b) in the case of a representative’s licence —
+(i) the licensee is an undischarged bankrupt, whether in Singapore or elsewhere;
 
-(i) the representative is an undischarged bankrupt, whether in Singapore or elsewhere;
+(ii) a prohibition order under section 59 has been made by the Authority, and remains in force, against the licensee;
 
-(ii) the representative has, whether in Singapore or elsewhere, entered into a compromise or scheme of arrangement with his creditors, being a compromise or scheme of arrangement that is still in operation;
+(iii) the licensee has been convicted, whether in Singapore or elsewhere, of an offence —
 
-(iii) execution against the representative in respect of a judgment debt has been returned unsatisfied in whole or in part;
+(A) involving fraud or dishonesty or the conviction for which involved a finding that he had acted fraudulently or dishonestly; and
 
-(iv) the representative has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that he acted fraudulently or dishonestly.
+(B) punishable with imprisonment for a term of 3 months or more.
+
+[15/2003 wef 22/12/2003]
 
 (6) A person whose licence is revoked or suspended shall cease to act as a financial adviser or representative, as the case may be, from the date on which the revocation or suspension takes effect.
 
@@ -990,9 +1052,13 @@ from using the words “life insurance broker” together with the word “repre
 
 (5) Subject to the provisions of this Act, sections 12, 25, 26, 27, 29, 33, 34, 36 and 70 shall apply, with the necessary modifications, to a representative of an exempt financial adviser (other than a person referred to in subsection (1)(f) or (2)) in respect of his acting as such as if he is a licensed representative.
 
+(5A) For the avoidance of doubt, references in subsections (4) and (5) to specific sections in this Act that apply to exempt financial advisers or their representatives, respectively, do not include references to any regulations made under those sections unless the Authority prescribes that such regulations so apply.
+
+[15/2003 wef 22/12/2003]
+
 (6) The Authority may, on the application of an exempt financial adviser (other than a person referred to in subsection (1)(f) or (2)), exempt it or any of its representatives from complying with any of the provisions referred to in subsection (4)or (5), as the case may be.
 
-(7) The Authority may prescribe or specify in written directions the provisions of this Act that apply to the persons referred to in subsection (1)(f) or (2) .
+(7) The Authority may prescribe or specify in written directions the provisions of this Act that apply to the persons referred to in subsection (1)(f) or (2) or their representatives.
 
 (8) An exemption granted under subsection (2) or(6) need not be published in theGazette.
 
@@ -1172,7 +1238,15 @@ Life Insurance
 
 ### Insurance broking premium accounts
 
-32\.—(1) Every licensed financial adviser shall, for the purposes of this section, establish and maintain a separate account with a bank licensed under the Banking Act (Cap. 19).
+32\.—(1) Every licensed financial adviser which receives any money —
+
+(a) from or on behalf of an insured or intending insured for or on account of an insurer in connection with a contract of insurance or a proposed contract of insurance; or
+
+(b) from or on behalf of an insurer for or on account of an insured or intending insured,
+
+shall, for the purposes of this section, establish and maintain a separate account with a bank licensed under the Banking Act (Cap. 19).
+
+[15/2003 wef 22/12/2003]
 
 (2) The Authority may prescribe, in relation to an account established under subsection (1) —
 
@@ -1270,13 +1344,7 @@ as the case may be.
 
 (c) notwithstanding section 2(1) or 3, a person is not associated with or connected to another person unless the person and the other person are acting jointly, or otherwise acting under or in accordance with an arrangement made between them, in relation to the sending of the circular or other communication.
 
-(4) No licensee shall send to a person a circular or other communication to which subsection (1) applies unless the circular or other communication is signed by —
-
-(a) in the case of a licensed financial adviser, an officer of the financial adviser; or
-
-(b) in the case of a licensed representative, the representative.
-
-(5) When a licensee sends to a person a circular or other communication to which subsection (1) applies, the licensee shall preserve a copy of the circular or other communicationsubsection (1)(f) or (2).
+(5) When a licensee sends to a person a circular or other communication to which subsection (1) applies, the licensee shall preserve a copy of the circular or other communicationsubsection (1)(f) or (2) for 6 years.
 
 (6) For the purposes of this section, a circular or other communication sent to a person shall, if it is signed by an officer of a licensed financial adviser, be deemed to have been sent by the financial adviser.
 
@@ -1316,7 +1384,7 @@ Register of Interests in Securities
 
 (2) Where there is a change (not being a prescribed change) in any interest in securities of a relevant person, he shall —
 
-(a) enter in the register particulars of the change, including the date of the change and the circumstances by reason of which that change has occurred; and
+(a) enter in the register, within 7 days after the date of the change, particulars of the change, including the date of the change and the circumstances by reason of which that change has occurred; and
 
 (b) retain that entry in an easily accessible form for a period of not less than 6 years after the date on which that entry was first made.
 
@@ -1588,7 +1656,21 @@ POWERS OF AUTHORITY
 
 ### Approval of chief executive officer and director of licensed financial adviser
 
-56\.—(1) No licensed financial adviser shall appoint a person as its chief executive officer or director in Singapore unless it has obtained the approval of the Authority.
+56\.—(1) No licensed financial adviser shall appoint a person as —
+
+(a) its chief executive officer;
+
+(b) its director where, upon appointment, the person resides or is to reside in Singapore, whether or not he is directly responsible for its business in Singapore or any part thereof; or
+
+(c) its director where, upon appointment, the person is directly responsible for its business in Singapore or any part thereof, whether he resides or is to reside in Singapore or elsewhere,
+
+unless it has obtained the approval of the Authority.
+
+[15/2003 wef 22/12/2003]
+
+(1A) Where a licensed financial adviser has obtained the approval of the Authority to appoint a person as its chief executive officer or director under subsection (1), the person may be re-appointed as chief executive officer or director, as the case may be, of the licensed financial adviser immediately upon the expiry of the earlier term without the approval of the Authority.
+
+[15/2003 wef 22/12/2003]
 
 (2) Without prejudice to any other matter that the Authority may consider relevant, the Authority shall, in determining whether to grant its approval under subsection (1), have regard to such criteria as may be prescribed or as may be specified in written directions.
 
@@ -1598,11 +1680,15 @@ POWERS OF AUTHORITY
 
 (a) the person is an undischarged bankrupt, whether in Singapore or elsewhere;
 
-(b) the person has, whether in Singapore or elsewhere, entered into a compromise or scheme of arrangement with his creditors, being a compromise or scheme of arrangement that is still in operation;
+(b) a prohibition order under section 59 has been made by the Authority, and remains in force, against the person;
 
-(c) execution against the person in respect of a judgment debt has been returned unsatisfied in whole or in part;
+(c) the person has been convicted, whether in Singapore or elsewhere, of an offence —
 
-(d) the person has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that he acted fraudulently or dishonestly.
+(i) involving fraud or dishonesty or the conviction for which involved a finding that he had acted fraudulently or dishonestly; and
+
+(ii) punishable with imprisonment for a term of 3 months or more.
+
+[15/2003 wef 22/12/2003]
 
 (5) Where the Authority refuses an application for approval under subsection (1), the Authority need not give the person who was proposed to be appointed an opportunity to be heard.
 
@@ -1630,7 +1716,11 @@ POWERS OF AUTHORITY
 
 (e) has, whether in Singapore or elsewhere, entered into a compromise or scheme of arrangement with his creditors, being a compromise or scheme of arrangement that is still in operation;
 
-(f) has had execution against him in respect of a judgment debt returned unsatisfied in whole or in part; or
+(f) has had execution against him in respect of a judgment debt returned unsatisfied in whole or in part;
+
+(fa) has had a prohibition order under section 59 made by the Authority against him that remains in force; or
+
+[15/2003 wef 22/12/2003]
 
 (g) has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that he acted fraudulently or dishonestly,
 
@@ -1640,7 +1730,19 @@ then the Authority may, if it thinks it necessary in the public interest or for 
 
 (3) Subject to subsection (4), the Authority shall not direct a licensed financial adviser to remove from its office or employment an officer under subsection (1) without giving the licensed financial adviser an opportunity to be heard.
 
-(4) The Authority may direct a licensed financial adviser to remove from its office or employment an officer under subsection (1) on any ground referred to in subsection (1)(d), (e), (f) or (g) without giving the licensed financial adviser an opportunity to be heard.
+(4) The Authority may direct a licensed financial adviser to remove an officer from its office or employment under subsection (1) on any of the following grounds without giving the licensed financial adviser an opportunity to be heard:
+
+(a) the officer is an undischarged bankrupt, whether in Singapore or elsewhere;
+
+(b) a prohibition order under section 59 has been made by the Authority, and remains in force, against the officer;
+
+(c) the officer has been convicted, whether in Singapore or elsewhere, of an offence —
+
+(i) involving fraud or dishonesty or the conviction for which involved a finding that he had acted fraudulently or dishonestly; and
+
+(ii) punishable with imprisonment for a term of 3 months or more.
+
+[15/2003 wef 22/12/2003]
 
 (5) Where the Authority directs a licensed financial adviser to remove from its office or employment an officer under subsection (1), the Authority need not give that officer an opportunity to be heard.
 
@@ -1654,15 +1756,35 @@ then the Authority may, if it thinks it necessary in the public interest or for 
 
 ### Power of Authority to issue written directions
 
-58\.—(1) The Authority may, if it thinks it necessary or expedient in the public interest, issue written directions, either of a general or specific nature, to any licensee, any person exempt under section 23 or 100, or any class of such persons, to comply with such requirements as the Authority may specify in the written directions, or for any other purpose.
+58\.—(1) The Authority may, if it thinks necessary or expedient in the public interest, issue written directions, either of a general or specific nature, to —
+
+(a) any licensee;
+
+(b) any person exempt under section 23 or 100;
+
+(c) any representative of a person exempt under section 23or 100; or
+
+(d) any class of the persons referred to in paragraphs (a), (b) or (c),
+
+to comply with such requirements as the Authority may specify in the written directions, or for any other purpose.
+
+[15/2003 wef 22/12/2003]
 
 (2) Without prejudice to the generality of subsection (1), written directions may be issued —
 
 (a) with respect to —
 
-(i) the standards to be maintained by a licensee, an exempt financial adviser or a representative of an exempt financial adviser in the conduct of his business; or
+(i) the standards to be maintained by a licensee, an exempt financial adviser or a representative of an exempt financial adviser in the conduct of his business, including the duties to be undertaken when making recommendations to clients in respect of investment products;
 
 (ii) the type and frequency of financial returns and other information to be submitted to the Authority;
+
+(iii) the qualifications, experience and training of representatives; or
+
+[15/2003 wef 22/12/2003]
+
+(iv) the procedure for the conduct of disciplinary control of licensees, exempt financial advisers and their representatives;
+
+[15/2003 wef 22/12/2003]
 
 (b) where any person is contravening, is likely to contravene or has contravened, any provision of this Act, to require the person —
 
@@ -1792,7 +1914,11 @@ that the order would otherwise prohibit him from doing.
 
 ### Appointment of assistants
 
-65\.—(1) The Authority may appoint any person to exercise any of its powers or perform any of its functions or duties under this Act, either generally or in any particular case, except the power to make subsidiary legislation.
+65\.—(1) Subject to subsection (1A), the Authority may appoint any person to exercise any of its powers or perform any of its functions or duties under this Act, either generally or in any particular case, except the power to make subsidiary legislation.
+
+(1A) The Authority may, by notification published in theGazette, appoint one or more of its officers to exercise the power to grant an exemption to any person (not being an exemption granted to a class of persons) under a provision of this Act specified in the Third Schedule, or to revoke any such exemption.
+
+[15/2003 wef 22/12/2003]
 
 (2) Any person appointed by the Authority under subsection (1) shall be deemed to be a public servant for the purpose of the Penal Code (Cap. 224).
 
@@ -1848,9 +1974,15 @@ General
 
 ### Savings for advocates and solicitors
 
-69\.—(1) Nothing in this Part shall compel the production by an advocate and solicitor of a document or other material containing a privileged communication made by or to him in that capacity or otherwise the taking of any such document or other material which is in his possession.
+69\.—(1) Nothing in this Part shall —
 
-(2) An advocate and solicitor who refuses to produce the document or other material referred to in subsection (1) shall nevertheless be obliged to give the name and address (if he knows them) of the person to whom, or by or on behalf of whom, that privileged communication was made.
+(a) compel an advocate and solicitor to disclose or produce a privileged communication, or a document or other material containing a privileged communication, made by or to him in that capacity; or
+
+(b) authorise the taking of any such document or other material which is in his possession.
+
+[15/2003 wef 22/12/2003]
+
+(2) An advocate and solicitor who refuses to disclose the information or produce the document or other material referred to in subsection (1) shall nevertheless be obliged to give the name and address (if he knows them) of the person to whom, or by or on behalf of whom, that privileged communication was made.
 
 (3) Any advocate and solicitor who contravenes subsection (2) shall be guilty of an offence.
 
@@ -2164,9 +2296,9 @@ OFFENCES
 
 “officer” —
 
-(a) in relation to a body corporate, means a director, member of the committee of management, chief executive, manager, secretary or other similar officer of the body, or a person purporting to act in any such capacity; or
+(a) in relation to a body corporate, means a director, member of the committee of management, chief executive, manager, secretary or other similar officer of the body, and includes a person purporting to act in any such capacity; or
 
-(b) in relation to an unincorporated association (other than a partnership), means the president, the secretary and members of the committee of the association and includes persons holding positions analogous to those of president, secretary or member of a committee .
+(b) in relation to an unincorporated association (other than a partnership), means the president, the secretary , or a member of the committee of the association or a person holding a position analogous to that of president, secretary or member of a committee, and includes a person purporting to act in any such capacity.
 
 (6) Without prejudice to the generality of section 104(1), the Authority may make regulations to provide for the application of any provision of this section, with such modifications as the Authority considers appropriate, to a body corporate or unincorporated association formed or recognised under the law of a territory outside Singapore.
 
@@ -2218,7 +2350,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (2) Subsection (1) shall not apply to —
 
-(a) offences under sections 10(4), 13(4), 19(10), 19(12), 24(5), 32(6), 45(5) and (6), 46(2), 47(2), 48(5), (6) and (7), 49(5), 55(2), 56(7) and 57(7); or
+(a) offences under sections 10 (3), 13(4), 19(10), 19(12), 24(5), 32(6), 45(5) and (6), 46(2), 47(2), 48(5), (6) and (7), 49(5), 55(2), 56(7) and 57(7); or
 
 (b) offences under any subsidiary legislation made under this Act where it is expressly provided in the subsidiary legislation that subsection (1) shall not apply to those offences.
 
@@ -2250,7 +2382,7 @@ APPEALS
 
 92\.—(1) For the purpose of enabling Appeal Advisory Committees to be constituted under section 91, the Minister shall appoint a panel (referred to in this Part as the Appeal Advisory Panel) comprising such members from the financial services industry, and the public and private sectors, as the Minister may appoint.
 
-(2) A member of the Appeal Advisory Panel shall be appointed for a term of not more than 2 years.
+(2) A member of the Appeal Advisory Panel shall be appointed for a term of not more than 2 years and shall be eligible for re-appointment.
 
 (3) An Appeal Advisory Committee shall have the power, in the exercise of its functions, to inquire into any matter or thing related to the financial services industry and, for this purpose, may summon any person to give evidence on oath or affirmation or produce any document or material necessary for the purpose of the inquiry.
 
@@ -2274,7 +2406,21 @@ APPEALS
 
 ### Regulations for purposes of this Part
 
-94\. The Minister may make regulations with regard to the appointment of members to, and procedures of, the Appeal Advisory Panel and Appeal Advisory Committees.
+94\. (1) The Minister may make regulations for the purposes and provisions of this Part and for the due administration thereof.
+
+(2) Without prejudice to the generality of subsection (1), the Minister may make regulations for or with respect to —
+
+(a) the appointment of members to, and procedures of, the Appeal Advisory Panel and Appeal Advisory Committees;
+
+(b) the form and manner in which an appeal to the Minister under this Act shall be made;
+
+(c) the fees to be paid in respect of any appeal made to the Minister under this Act, including the refund or remission, whether in whole or in part, of such fees;
+
+(d) the remuneration of the members of the Appeal Advisory Panel and Appeal Advisory Committees; and
+
+(e) all matters and things which by this Part are required or permitted to be prescribed or which are necessary or expedient to be prescribed to give effect to any provision of this Part.
+
+[15/2003 wef 22/12/2003]
 
 ## PART X
 
@@ -2300,13 +2446,35 @@ MISCELLANEOUS
 
 (i) any provision of this Act;
 
-(ii) any condition or restriction of a licence or an exemption granted under this Act; or
+(ii) any condition or restriction of a licence or an exemption granted under this Act;
 
-(iii) any code, guideline, policy statement or practice note issued or published under section 64; or
+(iia) any written direction made by the Authority under this Act; or
 
-(b) in the case of an officer of a licensed financial adviser or an exempt financial adviser, the failure to discharge any duty or function of his office;
+[15/2003 wef 22/12/2003]
 
-“relevant person” means any licensee, exempt financial adviser, representative of an exempt financial adviser, or officer of a licensed financial adviser or an exempt financial adviser.
+(iii) any code, guideline, policy statement or practice note issued or published under section 64;
+
+(b) the failure by an officer of a licensed financial adviser or an exempt financial adviser to discharge any duty or function of his office; or
+
+[15/2003 wef 22/12/2003]
+
+(c) the commission of an offence under section 83 or 84(1);
+
+[15/2003 wef 22/12/2003]
+
+“officer” —
+
+(a) in relation to a body corporate, means a director, member of the committee of management, chief executive, manager, secretary or other similar officer of the body, and includes a person purporting to act in any such capacity; or
+
+(b) in relation to an unincorporated association (other than a partnership), means the president, the secretary, or a member of the committee of the association or a person holding a position analogous to that of president, secretary or member of a committee, and includes a person purporting to act in any such capacity;
+
+[15/2003 wef 22/12/2003]
+
+“partner” includes a person purporting to act as a partner;
+
+[15/2003 wef 22/12/2003]
+
+“relevant person” means any licensee, exempt financial adviser, representative of an exempt financial adviser, or officer or partner of a licensed financial adviser or an exempt financial adviser.
 
 ### Power of court to make certain orders
 
@@ -2348,7 +2516,7 @@ the court may, without prejudice to any order it would be entitled to make other
 
 100\.—(1) The Authority may, by regulations, exempt any person or any class of persons from all or any of the provisions of this Act, subject to such terms or conditions as may be prescribed.
 
-(2) The Authority may, on the application of any person, exempt the person from all or any of the provisions of this Act , by notice in writing, if the Authority considers it appropriate to do so in the circumstances of the case.
+(2) The Authority may, on the application of any person, exempt the person from all or any of the provisions of this Act or the requirements specified in any written direction, by notice in writing, if the Authority considers it appropriate to do so in the circumstances of the case.
 
 (3) An exemption under subsection (2) —
 
@@ -2356,7 +2524,7 @@ the court may, without prejudice to any order it would be entitled to make other
 
 (b) need not be published in theGazette;
 
-(c) may be withdrawn at anytime if the Authority considers it necessary in the public interest.
+(c) may be withdrawn at anytime by the Authority.
 
 (4) Any person who contravenes any term or condition prescribed under subsection (1) or specified by the Authority under subsection (3)(a) shall be guilty of an offence.
 
@@ -2390,6 +2558,32 @@ the court may, without prejudice to any order it would be entitled to make other
 
 (b) orally or by an affidavit sworn, or by a declaration made, before a person authorised to take affidavits or statutory declarations.
 
+### Translations of instruments
+
+102A\.—(1) Where a person submits or furnishes to or lodges with the Authority any book, application, return, report, statement or other information or document under this Act which is not in the English language, the person shall, at the same time or at such other time as may be permitted by the Authority, submit or furnish to or lodge with the Authority, as the case may be, an accurate translation thereof in the English language.
+
+(2) Where a person is required to make available for inspection by the public, or any section thereof, any document, report, or other book under this Act which is not in the English language, the person shall, at the same time or at such other time as may be permitted by the Authority, make available for such inspection an accurate translation thereof in the English language.
+
+(3) Where a person is required to maintain or keep any book under this Act and the book or any part thereof is not maintained or kept in the English language, the person shall —
+
+(a) cause an accurate translation of that book or that part of the book in the English language to be made from time to time at intervals of not more than 7 days; and
+
+(b) maintain or keep the translation with the book for so long as the book is required under this Act to be maintained or kept.
+
+(4) Subsections (1), (2) and (3) are subject to any express provision to the contrary in this Act or any regulations made thereunder.
+
+(5) Any person who contravenes subsection (1), (2) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000.
+
+(6) Where a person is charged with an offence under subsection (5), it shall be a defence for the person to prove that —
+
+(a) he had taken all reasonable steps to ensure that the translation that was submitted or furnished to or lodged with the Authority, made available for inspection, or maintained or kept, as the case may be, was accurate in the circumstances; and
+
+(b) he had believed on reasonable grounds that the translation was accurate.
+
+(7) In subsections (1), (2) and (3), “Act” includes any written direction made by the Authority under this Act.
+
+[15/2003 wef 22/12/2003]
+
 ### Power to make regulations giving effect to treaty, etc.
 
 103\.—(1) Without prejudice to the generality of section 104(1), the Authority may make regulations prescribing the matters necessary or expedient to give effect, in Singapore, to the provisions of any treaty, convention, arrangement, memorandum of understanding, exchange of letters or other similar instrument relating to the provision of any financial advisory service, to which Singapore or the Authority is a party.
@@ -2412,13 +2606,11 @@ the court may, without prejudice to any order it would be entitled to make other
 
 (b) the activities of, and standards to be maintained by, a licensee, or an exempt financial adviser or any of its representatives, including the manner, method and place of soliciting business and the conduct of such solicitation;
 
-(c) the standards with respect to the qualifications, experience and training of applicants for a representative’s licence and of representatives of exempt financial advisers;
-
 (d) the particulars to be recorded in, or in respect of, books kept by any licensed financial adviser;
 
 (e) the remuneration of an auditor appointed under this Act and the costs of an audit carried out under this Act;
 
-(f) the manner in which a licensee, or an exempt financial adviser or any of its representatives, conducts his dealings with the clients of the licensed financial adviser or exempt financial adviser, as the case may be, and the duties of a licensee, or an exempt financial adviser or any of its representatives, to such clients when making recommendations in respect of investment products;
+(f) the manner in which a licensee, or an exempt financial adviser or any of its representatives, conducts his dealings with the clients of the licensed financial adviser or exempt financial adviser, as the case may be;
 
 (g) the purchase or sale of investment products directly or indirectly by licensees for their own account;
 
@@ -2426,13 +2618,11 @@ the court may, without prejudice to any order it would be entitled to make other
 
 (i) the forms for the purposes of this Act;
 
-(j) the fees to be paid in respect of any matter or thing required for the purposes of this Act, and the refund and remission of such fees;
+(j) the fees to be paid in respect of any matter or thing required for the purposes of this Act, and the refund and remission, whether in whole or in part, of such fees;
 
 (k) the collection, from any licensed financial adviser or exempt financial adviser, by or on behalf of the Authority at such intervals or on such occasions as may be prescribed, of statistical information as to such matters relevant to investment products as may be prescribed, and for the collection and use of such information for any purpose, whether or not connected with the prescribed investment products;
 
 (l) the control of any take-over of a licensed financial adviser;
-
-(m) the procedure for the conduct of disciplinary control of licensees, exempt financial advisers and their representatives; and
 
 (n) all matters and things which are required or permitted to be prescribed by this Act, or which may be necessary or expedient to be prescribed to give effect to this Act.
 
@@ -2440,13 +2630,15 @@ the court may, without prejudice to any order it would be entitled to make other
 
 (4) Except as otherwise expressly provided in this Act, regulations made under this Act —
 
-(a) may be of general or specific application; and
+(a) may be of general or specific application;
 
-(b) may provide that a contravention thereof shall be punishable —
+(b) may provide that a contravention of any specified provision thereof shall be an offence; and
 
-(i) in the case of an individual, with a fine not exceeding $25,000 or with imprisonment for a term not exceeding 12 months or with both; or
+[15/2003 wef 22/12/2003]
 
-(ii) in any other case, with a fine not exceeding $50,000.
+(c) may provide for penalties not exceeding a fine of $50,000 or imprisonment for a term not exceeding 12 months or both for each offence and, in the case of a continuing offence, a further penalty not exceeding a fine of 10% of the maximum fine prescribed for that offence for every day or part thereof during which the offence continues after conviction.
+
+[15/2003 wef 22/12/2003]
 
 ### Transitional and savings provisions
 
@@ -2506,13 +2698,13 @@ whose carrying on of the business of providing any financial advisory service is
 
 10\. Any person acting in relation to a company as its liquidator, provisional liquidator, receiver, receiver and manager, or judicial manager.
 
-11. Any foreign company (within the meaning of section 4(1) of the Companies Act (Cap. 50)) whose provision of any financial advisory service is effected through its related corporation which is— 
+11\. A foreign company (within the meaning of section 4(1) of the Companies Act (Cap. 50)) whose provision of any financial advisory service is effected under an arrangement between the foreign company (on the one hand) and its related corporation which is licensed under this Act or exempt under section 23 (other than subsections (1)(f) and (2)) (on the other hand), where such arrangement is approved by the Authority.
 
-(a) licensed under this Act; or
+11.
 
-(b) exempt under section 23 (other than subsections (1)(f) and (2)),
+[15/2003 wef 22/12/2003]
 
-under an arrangement approved by the Authority.
+[2/2005 wef 01/07/2005]
 
 SECOND SCHEDULE
 
@@ -2526,7 +2718,19 @@ types of financial advisory service
 
 3\. Marketing of any collective investment scheme.
 
-4\. Arranging of any contract of insurance in respect of life policies.
+4\. Arranging of any contract of insurance in respect of life policies, other than a contract of reinsurance.
+
+THIRD SCHEDULE
+
+Section 65(1A)
+
+Specified Provisions
+
+1\. Section 23(2) and (6)
+
+2. Section 100(2).
+
+[15/2003 wef 22/12/2003]
 
 ## LEGISLATIVE HISTORY
 
@@ -2545,6 +2749,11 @@ This Legislative History is provided for the convenience of users of the Financi
 ||Date of commencement|6 August 2002 (section 106)|
 |2.|**2002 Revised Edition—Financial Advisers Act**|
 ||Date of operation|31 December 2002|
+|3.|**Act 15 of 2003—Financial Advisers (Amendment)Act 2003**|
+||Date of First Reading|14 August 2003|
+|||(Bill No. 14/2003 published on 15 August 2003)|
+||Date of Second and Third Readings|2 September 2003|
+||Date of commencement|22 December 2003|
 ## COMPARATIVE TABLE
 
 Financial Advisers Act
