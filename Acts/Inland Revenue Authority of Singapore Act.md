@@ -154,9 +154,11 @@ ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF AUTHORITY
 
 5\.—(1) The Authority shall consist of —
 
-(a) the Minister who shall be the Chairman; and
+(a) a Chairman; and
 
-(b) not less than 4 nor more than 6 other members as the Minister may from time to time determine.
+(b) not less than 5 and not more than 10 other members as the Minister may, from time to time, determine.
+
+[27/2004 wef 13/08/2004]
 
 (2) The First Schedule shall have effect with respect to the Authority, its members and proceedings.
 
@@ -284,8 +286,6 @@ FINANCIAL PROVISIONS
 
 13A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Authority under this Act, or of any capital injection or other investment by the Government in the Authority in accordance with any written law, the Authority shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
 
-[5/2002 wef 15/07/2002]
-
 ### Grants
 
 14\. For the purpose of enabling the Authority to carry out its functions under this Act, the Minister may from time to time make grants-in-aid to the Authority of such sums of moneys as the Minister may determine out of moneys to be provided by Parliament.
@@ -404,13 +404,17 @@ Section 5(2)
 
 Constitution and proceedings of Authority
 
-Appointment of Deputy Chairman and other members
+Appointment of Chairman, Deputy Chairman and other members
 
-1.—(1) The members of the Authority under section 5(1)(b) shall be appointed by the Minister from among persons who have had experience in public administration, financial, tax or commercial matters.
+1. (1) The members of the Authority shall be appointed by the Minister from among persons who have had experience in public administration or financial, tax or commercial matters.
 
-(2) The Minister may appoint one of the members to be the Deputy Chairman; and the Deputy Chairman so appointed may, subject to such directions as may be given by the Chairman, exercise all or any of the powers exercisable by the Chairman under this Act.
+(2) The Minister may appoint one of the members to be the Chairman and another of the members to be the Deputy Chairman.
 
-(3) The Minister may appoint the chief executive officer to be a member of the Authority.
+(3) The Deputy Chairman appointed under sub-paragraph (2) may, subject to such directions as may be given by the Minister, exercise all or any of the powers exercisable by the Chairman under this Act.
+
+(4) The Minister may appoint the chief executive officer to be a member of the Authority.
+
+[27/2004 wef 13/08/2004]
 
 Terms of office of members of Authority
 
@@ -422,7 +426,9 @@ Temporary members
 
 Revocation of appointment
 
-4\. The Minister may, at any time, revoke the appointment of the Deputy Chairman or any member; and in exercising his power under this paragraph, the Minister shall not be required to assign any reason for such revocation.
+4. The Minister may, at any time, revoke the appointment of the Chairman, Deputy Chairman or any member; and in exercising his power under this paragraph, the Minister shall not be required to assign any reason for such revocation.
+
+[27/2004 wef 13/08/2004]
 
 Resignation
 
@@ -460,13 +466,15 @@ Disclosure of interest by members
 
 Salaries, etc., payable to members of Authority
 
-11\. There shall be paid to the members, other than the Chairman, out of the funds of the Authority such salaries, fees and allowances as the Minister may from time to time determine.
+11. There shall be paid to the members out of the funds of the Authority such salaries, fees and allowances as the Minister may, from time to time, determine.
+
+[27/2004 wef 13/08/2004]
 
 Meetings of Authority
 
 12.—(1) The Authority shall meet for the despatch of business at such times and places as the Chairman may from time to time appoint.
 
-(2) At every meeting of the Authority, 3 members shall form a quorum.
+(2) At every meeting of the Authority, 5 members shall form a quorum.
 
 [27/2004 wef 13/08/2004]
 
@@ -548,9 +556,7 @@ Specified Acts
 
 5\. Estate Duty Act [Cap. 96].
 
-5A. Goods and Services Tax Act 1993.
-
-[Act 31of 1993.]
+5A. Goods and Services Tax Act 1993 [Act 13 of 1993].
 
 [S 37/94 wef 28/01/1994]
 
@@ -566,31 +572,21 @@ Specified Acts
 
 FOURTH SCHEDULE
 
-Section 26(2) and 30
+Sections 26(2) and 30
 
 Specified offices
 
-1. The Comptroller of Income Tax under the Income Tax Act [Cap. 134. Cap. 86] and the Economic Expansion Incentives (Relief from Income Tax) Act.
+1\. The Comptroller of Income Tax under the Income Tax Act [Cap. 134] and the Economic Expansion Incentives (Relief from Income Tax) Act [Cap. 86].
 
-[]
+2\. The Comptroller of Property Tax or the Chief Assessor under the Property Tax Act [Cap. 254] and the Property Tax (Surcharge) Act [Cap. 255].
 
-2. The Comptroller of Property Tax or the Chief Assessor under the Property Tax Act [Cap. 254. Cap. 255] and the Property Tax (Surcharge) Act.
+3\. The Commissioner of Stamp Duties under the Stamp Duties Act [Cap. 312] and the Betting and Sweepstake Duties Act [Cap. 22].
 
-[]
-
-3. The Commissioner of Stamp Duties under the Stamp Duties Act [Cap. 312.Cap. 22]and the Betting and Sweepstake Duties Act.
-
-[]
-
-4. The Commissioner of Estate Duties under the Estate Duty Act [Cap. 96.Cap. 250]and the Private Lotteries Act.
-
-[]
+4\. The Commissioner of Estate Duties under the Estate Duty Act [Cap. 96] and the Private Lotteries Act [Cap. 250].
 
 5\. The Commissioner of Charities under the Charities Act [Cap. 37].
 
-6. The Comptroller of Goods and Services Tax under the Goods and Services Tax Act 1993.
-
-[Act 31of 1993.]
+6. The Comptroller of Goods and Services Tax under the Goods and Services Tax Act 1993 [Act 13 of 1993].
 
 [S 37/94 wef 28/01/1994]
 
@@ -630,3 +626,8 @@ This Legislative History is provided for the convenience of users of the Inland 
 |||(Bill No. 7/2002 published on 4 May 2002)|
 ||Date of Second and Third Readings|24 May 2002|
 ||Dates of commencement|15 July 2002 (except item (18) of Schedule)|
+|7.|**Act 27 of 2004—Inland Revenue Authority of Singapore (Amendment) Act 2004**|
+||Date of First Reading|15 June 2004|
+|||(Bill No. 26/2004 published on 16 June 2004)|
+||Date of Second and Third Readings|20 July 2004|
+||Date of commencement|13 August 2004|
