@@ -150,8 +150,6 @@ in respect of the death of or bodily injury to any person arising out of the use
 
 Provided that the amount to be paid by the approved insurer or the owner shall not exceed $400 for each person so treated as an in-patient or $40 for each person so treated as an out-patient.
 
-For the purposes of this subsection —
-
 “hospital” means an institution (not being an institution carried on for profit) which provides medical or surgical treatment for in-patients; and
 
 “expenses reasonably incurred” means —
@@ -196,7 +194,9 @@ and the fact that a person so carried has willingly accepted as his the risk of 
 
 ### Payment of compensation
 
-6\.—(1) Where any payment exceeding $500, other than a liquidated sum specified in a policy of insurance, is made by way of compensation by an approved insurer or the owner of a motor vehicle in respect of the death or bodily injury to any person arising out of the use of a motor vehicle on a road , that payment shall be made to the Public Trustee as trustee for the persons entitled to the benefit thereof.
+6\.—(1) Where any payment exceeding $5,000, other than a liquidated sum specified in a policy of insurance, is made by way of compensation by an approved insurer or the owner of a motor vehicle in respect of the death or bodily injury to any person arising out of the use of a motor vehicle on a road , that payment shall be made to the Public Trustee as trustee for the persons entitled to the benefit thereof.
+
+[Act 26/1994 wef 01/02/1995]
 
 (2) The Public Trustee may where he considers that any payment made to him under subsection (1) is manifestly inadequate require the parties to obtain the approval of the court before accepting payment.
 
@@ -240,7 +240,9 @@ Provided that nothing in this section shall require an insurer to pay any sum in
 
 ### Duty of insurers to satisfy judgments against persons insured in respect of third-party risks
 
-9\.—(1) If after a certificate of insurance has been issued under section 4(5) to the person by whom a policy has been effected judgment in respect of any such liability as is required to be covered by a policy under section 4(1)(b) (being a liability covered by the terms of the policy) is obtained against any person insured by the policy then, notwithstanding that the insurer may be entitled to avoid or cancel or may have avoided or cancelled the policy, the insurer shall, subject to this section, pay to the Public Trustee as trustee for the persons entitled thereto any sum payable thereunder in respect of the liability including any amount payable in respect of costs and any sum payable in respect of interest on that sum by virtue of any written law relating to interest on judgments.
+9\.—(1) If after a certificate of insurance has been issued under section 4(5) to the person by whom a policy has been effected judgment for a sum exceeding $5,000 in respect of any such liability as is required to be covered by a policy under section 4(1)(b) (being a liability covered by the terms of the policy) is obtained against any person insured by the policy then, notwithstanding that the insurer may be entitled to avoid or cancel or may have avoided or cancelled the policy, the insurer shall, subject to this section, pay to the Public Trustee as trustee for the persons entitled thereto any sum payable thereunder in respect of the liability including any amount payable in respect of costs and any sum payable in respect of interest on that sum by virtue of any written law relating to interest on judgments.
+
+[Act 26/1994 wef 01/02/1995]
 
 (2) Notwithstanding subsection (1) providing for the payment to the Public Trustee, the right of action thereby created shall vest in the persons entitled to the benefit of the judgment payable thereunder.
 
@@ -272,7 +274,9 @@ Provided that an insurer who has obtained such a declaration in an action shall 
 
 (7) In this Act references to a certificate of insurance in any provision relating to the surrender or the loss or destruction of a certificate of insurance shall in relation to policies under which more than one certificate is issued be construed as references to all the certificates and shall where any copy has been issued of any certificate be construed as including a reference to that copy.
 
-(8) Every judgment in respect of any such liability as is required to be covered by a policy under section 4(1)(b) shall provide that the sums payable under the judgment shall be paid to the Public Trustee as trustee for the persons entitled to the benefit of the judgment.
+(8) Every judgment for a sum exceeding $5,000 in respect of any such liability as is required to be covered by a policy under section 4(1)(b) shall provide that the sums payable under the judgment shall be paid to the Public Trustee as trustee for the persons entitled to the benefit of the judgment.
+
+[Act 26/1994 wef 01/02/1995]
 
 (9) The moneys received by the Public Trustee under a judgment in accordance with subsection (1) shall be distributed by him, after payment of all costs and fees, directly to the persons entitled in accordance with the judgment of the court and with any rules made under this Act.
 
@@ -304,7 +308,7 @@ if either before or after that event any such liability as aforesaid is incurred
 
 (a) where a company is wound up voluntarily merely for the purposes of reconstruction or of amalgamation with another company; or
 
-(b) to any case to which section 19(1) and (2) of the Workmen’s Compensation Act [Cap. 354] applies.
+(b) to any case to which section 19(1) and (2) of the Workmen’s Compensation Act applies.
 
 [9
 
@@ -382,7 +386,9 @@ Provided that a person shall not be convicted of an offence under this subsectio
 
 (2) No person, other than a public officer or an advocate and solicitor properly acting in the course of his profession, shall directly or indirectly for personal gain make or commence or cause to be made or commenced on behalf of any other person any claim or action for damages for the death of or bodily injury to any person arising out of the use of a motor vehicle or negotiate, settle or compromise that claim or action when made or commenced.
 
-(3) Notwithstanding the provisions of any other written law, any costs payable to a public officer or an advocate and solicitor acting in respect of the matters referred to in subsection (2) shall be taxed and the public officer or advocate and solicitor shall not receive or accept any payment of money for so acting other than the taxed costs.
+(3) Notwithstanding the provisions of any other written law, any costs payable to a public officer or an advocate and solicitor acting in respect of the matters referred to in subsection (2), except in respect of a judgment or settlement for a sum not exceeding $5,000, shall be taxed and the public officer or advocate and solicitor shall not receive or accept any payment of money for so acting other than the taxed costs.
+
+[Act 26/1994 wef 01/02/1995]
 
 (4) Any person who contravenes this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding one year or to both.
 
@@ -470,3 +476,8 @@ This Legislative History is provided for the convenience of users of the Motor V
 ||Date of commencement|1 March 1981|
 |7.|**1985 Revised Edition—Motor Vehicles (Third-Party Risks and Compensation) Act**|
 ||Date of operation|30 March 1987|
+|8.|**Act 26 of 1994—Motor Vehicles (Third-Party Risks and Compensation) (Amendment) Act 1994**|
+||Date of First Reading|31 October 1994|
+|||(Bill No. 27/94 published on 1 November 1994)|
+||Date of Second and Third Readings|5 December 1994|
+||Date of commencement|1 February 1995|
