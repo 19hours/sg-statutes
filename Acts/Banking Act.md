@@ -20,7 +20,15 @@
 
 - [4 Licensing of banks](#Licensing-of-banks)
 
+- [4A Restriction on deposit-taking business and soliciting deposits](#Restriction-on-deposit-taking-business-and-soliciting-deposits)
+
+- [4B Application of section 4A](#Application-of-section-4A)
+
+- [4C Examination of persons suspected of contravening section 4A and access to premises](#Examination-of-persons-suspected-of-contravening-section-4A-and-access-to-premises)
+
 - [5 Use of word "bank"](#Use-of-word-"bank")
+
+- [5A Use of bank name, etc.](#Use-of-bank-name-etc)
 
 - [6 Examination of persons suspected of transacting banking business and access to premises](#Examination-of-persons-suspected-of-transacting-banking-business-and-access-to-premises)
 
@@ -30,7 +38,9 @@
 
 - [9 Minimum capital requirements](#Minimum-capital-requirements)
 
-- [10 Capital ratio](#Capital-ratio)
+- [9A Capital requirements for qualifying subsidiaries](#Capital-requirements-for-qualifying-subsidiaries)
+
+- [10 Risk-based capital requirements](#Risk-based-capital-requirements)
 
 - [11 Foreign government-owned banks](#Foreign-government-owned-banks)
 
@@ -48,13 +58,23 @@
 
 - [14C Effect of merger](#Effect-of-merger)
 
-- [15 Control of take-overs of banks incorporated in Singapore](#Control-of-take-overs-of-banks-incorporated-in-Singapore)
+- [15 Application and interpretation of sections 15A to 18](#Application-and-interpretation-of-sections-15A-to-18)
 
-- [16 Arrangements affecting control of banks incorporated in Singapore](#Arrangements-affecting-control-of-banks-incorporated-in-Singapore)
+- [15A Control of substantial shareholdings in designated financial institutions](#Control-of-substantial-shareholdings-in-designated-financial-institutions)
 
-- [17 Control of substantial shareholdings in banks incorporated in Singapore](#Control-of-substantial-shareholdings-in-banks-incorporated-in-Singapore)
+- [15B Control of shareholdings and voting power in designated financial institutions](#Control-of-shareholdings-and-voting-power-in-designated-financial-institutions)
 
-- [18 Power of Authority to require bank incorporated in Singapore to obtain information as to beneficial interests in shares of bank](#Power-of-Authority-to-require-bank-incorporated-in-Singapore-to-obtain-information-as-to-beneficial-interests-in-shares-of-bank)
+- [15C Approval of applications](#Approval-of-applications)
+
+- [15D Power to exempt and make further transitional provisions](#Power-to-exempt-and-make-further-transitional-provisions)
+
+- [15E Objection to existing control of designated financial institutions](#Objection-to-existing-control-of-designated-financial-institutions)
+
+- [16 Power to make directions](#Power-to-make-directions)
+
+- [17 Offences, penalties and defences](#Offences-penalties-and-defences)
+
+- [18 Power of Authority to obtain information](#Power-of-Authority-to-obtain-information)
 
 - [19 Amendment of bank’s constitution](#Amendment-of-bank’s-constitution)
 
@@ -68,7 +88,7 @@
 
 - [23 Maintenance of adequate provision for bad and doubtful debts](#Maintenance-of-adequate-provision-for-bad-and-doubtful-debts)
 
-- [24 Dividends](#Dividends)
+- [24 (Repealed)](#Repealed)
 
 - [25 Publication and exhibition of audited balance-sheet](#Publication-and-exhibition-of-audited-balance-sheet)
 
@@ -82,19 +102,19 @@
 
 - [29 Credit facilities and limits](#Credit-facilities-and-limits)
 
-- [30 Trade](#Trade)
+- [30 Non-financial businesses](#Non-financial-businesses)
 
-- [31 Investments](#Investments)
+- [31 Limit on equity investments](#Limit-on-equity-investments)
 
-- [32 Control over banks in the acquisition of shares in companies](#Control-over-banks-in-the-acquisition-of-shares-in-companies)
+- [32 Investments in companies undertaking non-financial businesses](#Investments-in-companies-undertaking-non-financial-businesses)
 
 - [33 Immovable property](#Immovable-property)
 
-- [34 Loans secured by immovable property](#Loans-secured-by-immovable-property)
+- [34 Grace period for sections 30 to 33](#Grace-period-for-sections-30-to-33)
 
-- [35 Deduction for purposes of sections 29, 31 and 33](#Deduction-for-purposes-of-sections-29-31-and-33)
+- [35 Exposure to immovable property sector](#Exposure-to-immovable-property-sector)
 
-- [36 Power of Authority to secure compliance with sections 10, 23, 29, 31, 33, 34and 42](#Power-of-Authority-to-secure-compliance-with-sections-10-23-29-31-33-34and-42)
+- [36 Power of Authority to secure compliance with sections 10, 23, 29, 31, 32, 33, 35 and 42](#Power-of-Authority-to-secure-compliance-with-sections-10-23-29-31-32-33-35-and-42)
 
 - [37 Relief from limitations imposed by sections 29, 31 and 33](#Relief-from-limitations-imposed-by-sections-29-31-and-33)
 
@@ -108,6 +128,8 @@
 
 [**Part VII POWERS OF CONTROL OVER BANKS**](#Part-VII)
 
+- [40A Interpretation of this Part](#Interpretation-of-this-Part)
+
 - [41 Regulation of interest rates of banks](#Regulation-of-interest-rates-of-banks)
 
 - [42 Recommendations to banks concerning credits and investments](#Recommendations-to-banks-concerning-credits-and-investments)
@@ -116,11 +138,13 @@
 
 - [44 Special investigation of banks](#Special-investigation-of-banks)
 
-- [45 Inspection by foreign supervisory authority](#Inspection-by-foreign-supervisory-authority)
+- [44A Provisions supplementary to sections 43 and 44](#Provisions-supplementary-to-sections-43-and-44)
 
-- [46 Production of bank’s books, accounts and documents](#Production-of-bank’s-books-accounts-and-documents)
+- [45 Inspection in Singapore by parent supervisory authority](#Inspection-in-Singapore-by-parent-supervisory-authority)
 
-- [46A Confidentiality of inspection and investigation reports](#Confidentiality-of-inspection-and-investigation-reports)
+- [46 Confidentiality of inspection and investigation reports](#Confidentiality-of-inspection-and-investigation-reports)
+
+- [46A (Repealed)](#Repealed)
 
 - [47 Banking secrecy](#Banking-secrecy)
 
@@ -142,11 +166,11 @@
 
 [**Part VIII NUMBERED ACCOUNTS**](#Part-VIII)
 
-- [55 Banks may with approval of Authority open numbered accounts](#Banks-may-with-approval-of-Authority-open-numbered-accounts)
+- [55 Prohibition against opening of numbered accounts](#Prohibition-against-opening-of-numbered-accounts)
 
-- [56 Types of numbered accounts](#Types-of-numbered-accounts)
+- [56 (Repealed)](#Repealed)
 
-- [57 Secrecy of numbered accounts](#Secrecy-of-numbered-accounts)
+- [57 (Repealed)](#Repealed)
 
 [**Part IX MISCELLANEOUS**](#Part-IX)
 
@@ -186,7 +210,11 @@
 
 - [74 Recovery of fees, expenses, etc.](#Recovery-of-fees-expenses-etc)
 
+- [74A Power to refund, reduce, etc., penalty interest charge](#Power-to-refund-reduce-etc-penalty-interest-charge)
+
 - [75 Operation of this Act not to affect Companies Act](#Operation-of-this-Act-not-to-affect-Companies-Act)
+
+- [75A Service of documents, etc.](#Service-of-documents-etc)
 
 - [76 Exemption](#Exemption)
 
@@ -208,6 +236,8 @@
 
 [**FIFTH SCHEDULE Effect of Merger**](#FIFTH-SCHEDULE-Effect-of-Merger)
 
+[**SIXTH SCHEDULE**](#SIXTH-SCHEDULE)
+
 [**Legislative History**](#Legislative-History)
 
 [**Comparative Table**](#Comparative-Table)
@@ -222,7 +252,7 @@ REVISED EDITION 1999
 
 (30th December 1999)
 
-An Act to provide for the licensing and regulation of the business of banking.
+An Act to provide for the licensing and regulation of the business of banks and related financial institutions, and matters related thereto.
 
 [1st January 1971]
 
@@ -240,13 +270,43 @@ PRELIMINARY
 
 “agreement” means an agreement whether formal or informal and whether express or implied;
 
+“appointed day” means the date of commencement of the Banking (Amendment) Act 2001;
+
+[23/2001 wef 18/07/2001]
+
 “Authority” means the Monetary Authority of Singapore established under section 3 of the Monetary Authority of Singapore Act (Cap. 186);
 
-“bank” means any company which carries on banking business and holds a valid licence granted under section 7, 11 or 79; and all branches and offices in Singapore of such a company shall be deemed to be one bank for the purposes of this Act;
+“bank” means any company which holds a valid licence under section 7, 11 or 79;
+
+[23/2001 wef 18/07/2001]
+
+“bank in Singapore” means —
+
+(a) a bank incorporated in Singapore; or
+
+(b) in the case of a bank incorporated outside Singapore, the branches and offices of the bank located within Singapore;
+
+[23/2001 wef 18/07/2001]
+
+“bank incorporated outside Singapore” means a bank incorporated, formed or established outside Singapore;
+
+[23/2001 wef 18/07/2001]
 
 “banking business” means the business of receiving money on current or deposit account, paying and collecting cheques drawn by or paid in by customers, the making of advances to customers, and includes such other business as the Authority may prescribe for the purposes of this Act;
 
-“company” means any company defined in any written law for the time being in force relating to companies, any company formed in pursuance of any Royal Charter or Letters Patent, and any company incorporated or registered under any written law in force in Singapore and includes any company incorporated outside Singapore which has complied with the provisions of any written law for the time being in force relating to companies;
+“capital funds” means —
+
+(a) in the case of a bank incorporated in Singapore, the aggregate of its issued and paid-up capital and its published reserves (excluding such reserves as the Authority may specify by notice in writing), deduction having been made for any loss appearing in the accounts of the bank; or
+
+(b) in the case of a bank incorporated outside Singapore, such net head office funds and such other liabilities as the Authority may, by notice in writing, specify;
+
+[23/2001 wef 18/07/2001]
+
+“company” means any company defined in any written law for the time being in force relating to companies, any company formed in pursuance of any Royal Charter or Letters Patent, and any company incorporated or registered under any written law in force in Singapore and includes any body corporate or unincorporate, whether incorporated, formed or established outside Singapore;
+
+“corporation” has the same meaning as in section 4(1) of the Companies Act (Cap.50);
+
+[23/2001 wef 18/07/2001]
 
 “credit facilities” means —
 
@@ -256,7 +316,17 @@ PRELIMINARY
 
 “director” includes any person occupying the position of director of a corporation by whatever name called and includes a person in accordance with whose directions or instructions the directors of a corporation are accustomed to act and an alternate or substitute director;
 
-“licence” means a licence granted under section 7 or 79;
+“employee” includes an individual seconded or temporarily transferred from another employer;
+
+[23/2001 wef 18/07/2001]
+
+“financial holding company” means a company belonging to a class of financial institutions approved as financial holding companies under section 28 of the Monetary Authority of Singapore Act (Cap. 186);
+
+[23/2001 wef 18/07/2001]
+
+“licence” means a licence granted or held under section 7, 11 or 79;
+
+[23/2001 wef 18/07/2001]
 
 “officer”, in relation to a corporation, includes —
 
@@ -270,7 +340,17 @@ PRELIMINARY
 
 “place of business”, in relation to a bank, includes a head or main office, a branch, an agency, a representative office, a mobile branch of the bank, any office established and maintained for a limited period only and any other place used by the bank for the dispensing or acceptance of money on account or for the conduct of other banking business;
 
-“published reserves” means reserves which appear in the accounts of the bank but does not include any reserves which are represented by the writing down of the value of assets or by provision for the depreciation of fixed assets or which are maintained for any specific purposes;
+“published reserves”, in relation to a bank, means reserves which appear in the accounts of the bank which are duly audited or certified as correct by the auditor of the bank;
+
+[23/2001 wef 18/07/2001]
+
+“qualifying subsidiary” means a company in relation to which more than 50% of its issued and paid-up capital is owned by a bank incorporated in Singapore and such bank meets the requirements under section 9(1) and (2);
+
+[23/2001 wef 18/07/2001]
+
+“related corporation”, in relation to a corporation, means a corporation that is deemed to be related to the first-mentioned corporation by virtue of section 6 of the Companies Act (Cap. 50);
+
+[23/2001 wef 18/07/2001]
 
 “savings account liabilities”, in relation to a bank, means the total deposits at that bank which normally require the presentation of passbooks for the deposit or withdrawal of moneys;
 
@@ -284,25 +364,17 @@ PRELIMINARY
 
 (2) Without prejudice to any other meaning which the word “insolvent” may have, a bank shall, for the purposes of this Act, be deemed to be insolvent if either it has ceased to pay its debts in the ordinary course of business or is unable to pay its debts as they become due.
 
-(3) For the purposes of sections 9, 10, 29, 31 and 33, “capital funds” means —
-
-(a) in the case of a bank whose head office is situated in Singapore, the paid-up capital and published reserves of that bank deduction having been made in respect of any debit balance appearing in the profit and loss account of the bank; and
-
-(b) in the case of a bank whose head office is situated outside Singapore, the net head office funds and such other liabilities as the Authority may decide.
-
-[28/93]
-
 ## PART II
 
 APPOINTMENT OF ASSISTANTS
 
 ### Appointment of assistants
 
-3\.—(1) The Authority may authorise or appoint any person to assist it in the exercise of its functions and duties under this Act, either generally or in any particular case.
+3\.—(1) The Authority may appoint any person to exercise any of its powers or perform any of its functions or duties under this Act, either generally or in any particular case, except the power to make subsidiary legislation.
 
-(2) The members of the Authority and any person appointed by the Authority under subsection (1) shall be deemed to be public servants within the meaning of the Penal Code (Cap. 224).
+(2) Any person appointed by the Authority under subsection (1) shall be deemed to be a public servant within the meaning of the Penal Code (Cap. 224).
 
-[2/84]
+[23/2001 wef 18/07/2001]
 
 ## PART III
 
@@ -312,9 +384,157 @@ LICENSING OF BANKS
 
 4\.—(1) No banking business shall be transacted in Singapore except by a company which is in possession of a valid licence granted under this Act by the Authority authorising it to conduct banking business in Singapore.
 
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine of $2,000 for every day during which the offence continues after conviction.
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction —
 
-[2/84]
+(a) in the case of an individual, to a fine not exceeding $125,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $12,500 for every day or part thereof during which the offence continues after conviction; or
+
+(b) in any other case, to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
+
+[23/2001 wef 18/07/2001]
+
+### Restriction on deposit-taking business and soliciting deposits
+
+4A\.—(1) Subject to subsection (6), no person shall, in the course of carrying on (whether in Singapore or elsewhere) a deposit-taking business, accept in Singapore any deposit from any person in Singapore.
+
+(2) Subject to subsection (7), no person shall, whether in Singapore or elsewhere, offer or invite or issue any advertisement containing any offer or invitation to the public or any section of the public in Singapore —
+
+(a) to make any deposit, whether in Singapore or elsewhere; or
+
+(b) to enter or offer to enter into any agreement to make any deposit, whether in Singapore or elsewhere,
+
+where such deposit is to be made with any person (not being a person specified in subsection (6)) in the course of the carrying on (whether in Singapore or elsewhere) of a deposit-taking business by that person.
+
+(3) For the purposes of subsection (2), in determining whether an offer, invitation or advertisement is made or issued to the public or any section of the public in Singapore, regard shall be had to such considerations as the Authority may prescribe.
+
+(4) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction —
+
+(a) in the case of an individual, to a fine not exceeding $125,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $12,500 for every day or part thereof during which the offence continues after conviction; or
+
+(b) in any other case, to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
+
+(5) A person whose business it is to publish or to arrange for the publication of advertisements shall not be guilty of an offence under subsection (4) if he proves that —
+
+(a) he received the advertisement for publication in the ordinary course of his business;
+
+(b) the matters contained in the advertisement were not, wholly or in part, devised or selected by him or by any person under his direction or control; and
+
+(c) he did not know and had no reason for believing that the publication of the advertisement would constitute an offence.
+
+(6) Without prejudice to section 76, subsection (1) shall not apply to —
+
+(a) any bank in Singapore;
+
+(b) any co-operative society registered under the Co-operative Societies Act (Cap. 62);
+
+(c) any finance company licensed under the Finance Companies Act (Cap. 108);
+
+(d) any merchant bank approved as a financial institution under section 28 of the Monetary Authority of Singapore Act (Cap. 186);
+
+(e) any person (other than a person referred to in paragraphs (a) to (d)) who is licensed, approved, authorised or otherwise empowered under any written law to accept deposits in Singapore in accordance with such law; and
+
+(f) such other person or class of persons as the Authority may prescribe and subject to such conditions as may be prescribed by the Authority.
+
+(7) The Authority may, by regulations, exempt any person or class of persons from subsection (2), subject to such conditions as may be prescribed.
+
+(8) The Authority may, on the application of any person, exempt him from subsection (1) or (2) if the Authority considers it appropriate to do so in the circumstances of the case.
+
+(9) The fact that a deposit has been taken in contravention of this section shall not affect any civil liability in respect of the deposit or the money deposited.
+
+[23/2001 wef 18/07/2001]
+
+### Application of section 4A
+
+4B\.—(1) For the purposes of section 4A, “advertisement” means the dissemination or conveyance of information, or invitation or solicitation by any means or in any form, including by means of —
+
+(a) publication in a newspaper, magazine, journal or other periodical;
+
+(b) display of posters or notices;
+
+(c) circulars, handbills, brochures, pamphlets, books or other documents;
+
+(d) letters addressed to individuals or bodies;
+
+(e) photographs or cinematograph films; or
+
+(f) sound broadcasting, television, the Internet or other media,
+
+and an advertisement containing information which is intended or might reasonably be presumed to be intended to lead, directly or indirectly, to the making of a deposit shall be treated as an advertisement referred to in section 4A.
+
+(2) Notwithstanding subsection (1), an advertisement issued outside Singapore shall not be treated as an advertisement for the purposes of section 4A(2) if it is made available —
+
+(a) in a newspaper, magazine, journal or other periodical published and circulating principally outside Singapore;
+
+(b) in a sound or television broadcast transmitted principally for reception outside Singapore; or
+
+(c) by any other means of broadcasting or communication principally for circulation or reception outside Singapore.
+
+(3) Subject to the provisions of this section, for the purposes of section 4A, “deposit” means a sum of money paid on terms —
+
+(a) under which it will be repaid, with or without interest or a premium, or with any consideration in money or money’s worth, either on demand or at a time or in circumstances agreed by or on behalf of the person making the payment and the person receiving it; and
+
+(b) which are not referable to the provision of property or services or to the giving of security.
+
+(4) For the purposes of subsection (3)(b), money is paid on terms which are referable to the provision of property or services or the giving of security if, and only if —
+
+(a) it is paid by way of advance or part payment under a contract for the sale, hire or other provision of property or services, and is repayable only in the event that the property or services is or are not in fact sold, hired or otherwise provided;
+
+(b) it is paid by way of security for the performance of a contract or by way of security in respect of loss which may result from the non-performance of a contract; or
+
+(c) without prejudice to paragraph (b), it is paid by way of security for the delivery up or return of any property, whether in a particular state of repair or otherwise.
+
+(5) For the purposes of subsection (3), “deposit” does not include —
+
+(a) a sum paid by the Authority, any person referred to in section 4A(6)(a) to (d) or any insurer registered under the Insurance Act (Cap. 142);
+
+(b) a sum paid by any moneylender licensed under the Moneylenders Act (Cap. 188);
+
+(c) a sum paid by one company to another at a time when one is a subsidiary of the other or both are subsidiaries of another company, or the same individual controls more than half of the voting power or holds more than half of the issued share capital of both of them;
+
+(d) a sum paid by a person who, at the time when it is paid, is a close relative of the person receiving it or who is, or is a close relative of, a director, controller or manager of that person; and
+
+(e) a sum paid by such person or class of persons as may be prescribed.
+
+(6) Subject to the provisions of this section, for the purposes of section 4A, a business is a deposit-taking business if —
+
+(a) in the course of the business, money received by way of deposit is lent to others; or
+
+(b) any other activity of the business is financed, wholly or to any material extent, out of the capital of or the interest on money received by way of deposit.
+
+(7) Notwithstanding that paragraph (a) or (b) of subsection (6) applies to a business, it is not a deposit-taking business if the person carrying on the business —
+
+(a) does not hold himself out as accepting deposits on a day to day basis; and
+
+(b) does not accept deposits on a day to day basis, whether or not involving the issue of debentures or securities.
+
+(8) For the purposes of subsection (6), all the activities which a person carries on by way of business shall be regarded as a single business carried on by him.
+
+(9) In this section —
+
+“close relative”, in relation to a person, means the spouse or a parent, remoter lineal ancestor or step-parent or a son, daughter, remoter issue, step-son or step-daughter or a brother or sister, of the person;
+
+“controller” means a 12% controller or 20% controller as defined in section 15B(3);
+
+“debentures” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
+
+“securities” has the same meaning as in section 2(1) of the Securities Industry Act (Cap. 289).
+
+[23/2001 wef 18/07/2001]
+
+### Examination of persons suspected of contravening section 4A and access to premises
+
+4C\.—(1) Whenever the Authority has reason to believe that a person has contravened or is contravening section 4A(1) or (2), the Authority shall at all times —
+
+(a) have full and free access to the premises at which that person is suspected of having committed or of committing the contravention, or at which that person may have books, accounts and records; and
+
+(b) have the power to examine, copy or take possession of the books, accounts and records of that person in order to ascertain whether or not that person has contravened or is contravening section 4A(1) or (2).
+
+(2) Any person who obstructs the Authority in the exercise of its powers under subsection (1) or fails without reasonable excuse to furnish such books, accounts or records in his possession as may be required by the Authority, shall be guilty of an offence and shall be liable on conviction —
+
+(a) in the case of an individual, to a fine not exceeding $12,500 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,250 for every day or part thereof during which the offence continues after conviction; or
+
+(b) in any other case, to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction.
+
+[23/2001 wef 18/07/2001]
 
 ### Use of word “bank”
 
@@ -322,9 +542,39 @@ LICENSING OF BANKS
 
 (2) Nothing in this section shall prohibit an association of banks formed for the protection of common interests from using the word “bank” or any of its derivatives in any language as a part of its name or description of its activities.
 
-(3) Any person or body of persons, whether incorporated or not, who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine of $1,000 for every day during which the offence continues after conviction.
+(3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction —
 
-[2/84]
+(a) in the case of an individual, to a fine not exceeding $12,500 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,250 for every day or part thereof during which the offence continues after conviction; or
+
+(b) in any other case, to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction.
+
+[23/2001 wef 18/07/2001]
+
+### Use of bank name, etc.
+
+5A\.—(1) No person shall, without the prior approval of the Authority, in the course of any profession, vocation, trade or business, use any name, logo or trade mark in a manner which indicates or represents that the person or his trade or business is related to or associated with a bank incorporated in Singapore or any of its subsidiaries which carries on a business referred to in section 30(1)(a), (b) or (c).
+
+(2) No bank incorporated in Singapore shall cause or knowingly permit any person (other than a related corporation of the bank which carries on any business referred to in section 30(1)(a), (b) or (c) or the financial holding company of the bank) to use its name, logo or trade mark in the course of the person’s profession, vocation, trade or business without the prior approval of the Authority.
+
+(3) Any person who contravenes this section shall be guilty of an offence and shall be liable on conviction —
+
+(a) in the case of an individual, to a fine not exceeding $125,000 and, in the case of a continuing offence, to a further fine not exceeding $12,500 for every day or part thereof during which the offence continues after conviction; or
+
+(b) in any other case, to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
+
+(4) This section shall not apply, in relation to any bank incorporated in Singapore or any subsidiary of the bank referred to in subsection (1), to —
+
+(a) any related corporation of the bank which carries on a business referred to in section 30(1)(a), (b) or (c) or the financial holding company of the bank;
+
+(b) any officer or agent of the bank or of any of its subsidiaries which carries on a business referred to in section 30(1)(a), (b) or (c), in the conduct of any duty or function in or for the bank or the subsidiary, as the case may be;
+
+(c) any person carrying on a business referred to in section 30(1)(a), (b) or (c) pursuant to any agreement or arrangement with the bank; and
+
+(d) such other person or class of persons as may be prescribed.
+
+(5) Nothing in this section shall prevent a person who lawfully uses any name, logo or trade mark in the manner referred to in subsection (1) before the appointed day from continuing to use the name, logo or trade mark in such manner for a period of 3 years from the appointed day.
+
+[23/2001 wef 18/07/2001]
 
 ### Examination of persons suspected of transacting banking business and access to premises
 
@@ -350,11 +600,19 @@ LICENSING OF BANKS
 
 (c) such other information as may be called for by the Authority.
 
-(2) Any person who knowingly or recklessly furnishes any document or information which is false or misleading in a material particular in connection with an application for a licence falling within subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both.
+(2) Any person who knowingly or recklessly furnishes any document or information which is false or misleading in a material particular in connection with an application for a licence falling within subsection (1) shall be guilty of an offence and shall be liable on conviction —
+
+(a) in the case of an individual, to a fine not exceeding $125,000 or to imprisonment for a term not exceeding 3 years or to both; or
+
+[23/2001 wef 18/07/2001]
+
+(b) in any other case, to a fine not exceeding $250,000.
+
+[23/2001 wef 18/07/2001]
 
 [2/84]
 
-(3) Upon receiving an application under subsection (1), the Authority shall consider the application and may, subject to section 9 , grant a licence, with or without conditions, or refuse to grant a licence.
+(3) Upon receiving an application under subsection (1), the Authority shall consider the application and may, subject to section 9 or 9A, as the case may be, grant a licence, with or without conditions, or refuse to grant a licence.
 
 (4) The Authority may at any time vary or revoke any existing conditions of a licence or impose conditions or additional conditions thereto.
 
@@ -366,7 +624,7 @@ LICENSING OF BANKS
 
 (6) Where a licence is subject to conditions, the bank shall comply with those conditions.
 
-(7) Any bank which fails to comply with any of the conditions of its licence shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 and, in the case of a continuing offence, to a further fine of $2,000 for every day during which the offence continues after conviction.
+(7) Any bank which fails to comply with any of the conditions of its licence shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine of $10,000 for every day during which the offence continues after conviction.
 
 [2/84]
 
@@ -386,9 +644,11 @@ LICENSING OF BANKS
 
 (b) in the case of a bank incorporated in Singapore which is granted a licence to carry on banking business after 18th July 1996, its issued and paid-up capital is not less than $1,500 million and its capital funds are not less than that amount;
 
-(c) in the case of a bank whose head office is situated outside Singapore —
+(c) in the case of a bank incorporated outside Singapore —
 
-(i) its issued and paid-up capital is not less than the equivalent of $200 million, deduction having been made in respect of any debit balance appearing in the profit and loss account of the bank; and
+(i) its head office capital funds are not less than the equivalent of $200 million; and
+
+[23/2001 wef 18/07/2001]
 
 (ii) it holds net head office funds of not less than $10 million in Singapore in respect of its business in Singapore at all times and not less than $5 million of those net head office funds are in the form of assets approved by the Authority.
 
@@ -398,13 +658,9 @@ LICENSING OF BANKS
 
 [28/93; 21/96]
 
-(3) A bank which has its head office outside Singapore and which holds a licence to carry on banking business in Singapore on 8th October 1993 shall —
+(3) A bank incorporated outside Singapore which holds a licence to carry on banking business in Singapore on 8th October 1993 shall be exempt from subsection (1)(c)(i).
 
-(a) be exempt from subsection (1)(c)(i); and
-
-(b) be exempt from subsection (1)(c)(ii) for a period of 6 months from 8th October 1993 or such further period as the Authority may, on application by such a bank, approve subject to such conditions as the Authority thinks fit, except that the bank’s net head office funds shall not, at any time after 8th October 1993, be less than $3 million in the form of such assets as the Authority may approve.
-
-[28/93]
+[23/2001 wef 18/07/2001]
 
 (4) A bank to which subsection (1)(a) applies which has capital funds of less than $1,500 million on 18th July 1996 shall be exempt from the requirement of that provision for a period of 5 years from that date, except that the bank shall not during that period allow its capital funds to be less than its capital funds on that date.
 
@@ -418,21 +674,63 @@ LICENSING OF BANKS
 
 [28/93]
 
-(7) The Authority may restrict or suspend the operations of a bank which fails to comply with subsection (2), (4) or (6), as the case may be.
+(7) Any bank which fails to comply with any requirement under subsection (1) shall forthwith notify the Authority.
 
-[28/93]
+[23/2001 wef 18/07/2001]
 
-### Capital ratio
+(8) Where a bank fails to comply with any provision of this section, the Authority may, without prejudice to section 71, by notice in writing to the bank —
 
-10\.—(1) The Authority may require banks to maintain capital funds in Singapore in proportion to their total assets or to every category of assets at such ratio or ratios as may from time to time be determined by the Authority by notice in writing.
+(a) restrict or suspend the operations of the bank; or
 
-[28/93]
+(b) give such directions to the bank as the Authority considers appropriate, and the bank shall comply with such directions.
+
+[23/2001 wef 18/07/2001]
+
+(9) In this section, “head office capital funds”, in relation to a bank incorporated outside Singapore, means the aggregate of its issued and paid-up capital (or its equivalent recognised by the Authority as applicable to the bank under the laws of the country or territory in which the bank is incorporated, formed or established) and its published reserves (excluding such reserves as the Authority may specify in writing), deduction having been made for any loss appearing in the accounts of the bank.
+
+[23/2001 wef 18/07/2001]
+
+### Capital requirements for qualifying subsidiaries
+
+9A\.—(1) Notwithstanding section 9, a company incorporated in Singapore which is a qualifying subsidiary may be granted and hold a licence under section 7 or 11 if —
+
+(a) it is and continues to be a qualifying subsidiary; and
+
+(b) its issued and paid-up capital is not less than $100 million.
+
+(2) A bank which is a qualifying subsidiary shall not, during the currency of its licence, reduce its paid-up capital without the approval of the Authority.
+
+(3) A bank which is a qualifying subsidiary shall, during the currency of its licence, maintain capital funds of not less than $100 million unless the Authority approves otherwise.
+
+(4) The Authority may, in its discretion, on application by any bank, exempt that bank from subsection (1)(a) subject to such conditions as the Authority may impose, and in such event, the other provisions of this section shall continue to apply to that bank notwithstanding that it may no longer be a qualifying subsidiary.
+
+(5) Any bank which fails to comply with any requirement under subsection (1) shall forthwith notify the Authority.
+
+(6) Where a bank fails to comply with any provision of this section or any condition imposed by the Authority under this section, the Authority may, without prejudice to section 71, by notice in writing to the bank —
+
+(a) restrict or suspend the operations of the bank; or
+
+(b) give such directions to the bank as it considers appropriate and the bank shall comply with such directions.
+
+(7) A bank which is a qualifying subsidiary on the appointed day and holds a licence granted or held under section 7, 11 or 79 before the appointed day shall be exempt from subsection (1)(b) for the period commencing on the appointed day and ending on 17th July 2001.
+
+[23/2001 wef 18/07/2001]
+
+### Risk-based capital requirements
+
+10\.—(1) The Authority may, by notice in writing, require any bank in Singapore or class of banks in Singapore to maintain capital funds in Singapore of such amount (not being less than the minimum prescribed in section 9 or 9A, as the case may be) and in such manner as the Authority considers appropriate, having regard to the risks arising from the activities of the bank or class of banks, as the case may be, and such other factors as the Authority considers relevant.
+
+[23/2001 wef 18/07/2001]
 
 (2) A bank incorporated in Singapore shall not, at any time, have a capital adequacy ratio of less than 12%, or such other percentage as may be determined by the Authority from time to time, as calculated in accordance with such form, content and manner as may be determined by the Authority by notice in writing.
 
 [28/93]
 
-(3) The Authority may suspend or restrict the operations of a bank which fails to comply with subsection (2) or any requirement of the Authority under subsection (1).
+(2A) The Authority may, if it considers appropriate in the particular circumstances of a bank incorporated in Singapore, having regard to the risks arising from the activities of the bank and such other factors as the Authority considers relevant, vary the capital adequacy ratio applicable to that bank.
+
+[23/2001 wef 18/07/2001]
+
+(3) The Authority may suspend or restrict the operations of a bank which fails to comply with subsection (2) or (2A) or any requirement of the Authority under subsection (1).
 
 [28/93]
 
@@ -440,15 +738,17 @@ LICENSING OF BANKS
 
 11\.—(1) A bank shall not be granted or hold a licence if the Authority is satisfied that —
 
-(a) 50% or more of its issued and paid-up capital is owned by or on behalf of the government of any country other than Singapore or of an agency of any such government; or
+(a) 50% or more of its issued and paid-up capital (or its equivalent recognised by the Authority as applicable to the bank under the laws of the country or territory in which the bank is incorporated, formed or established) is owned by or on behalf of the government of any country other than Singapore or of an agency of any such government; or
 
 (b) all or a majority of the persons having the direction, control or management of the bank are appointed by or on behalf of any such government or agency.
 
-(2) The Authority may, in its discretion, grant a licence to any such bank for such period or periods not exceeding 12 months at any one time as it may think fit.
+(2) Notwithstanding subsection (1) and section 9, the Authority may, in its discretion, grant a licence to any such bank for such period or periods not exceeding 12 months at any one time as the Authority may think fit, subject to such conditions as it may impose.
+
+[23/2001 wef 18/07/2001]
 
 ### Appeal to Minister
 
-11A\. Any applicant who is aggrieved by the refusal of the Authority to grant a licence under section 7(3) or 11(1) may, within 30 days of the decision of the Authority, appeal in writing to the Minister whose decision shall be final and shall be given effect to by the Authority.
+11A\. Any applicant who is aggrieved by the refusal of the Authority to grant a licence under section 7(3) or 11 may, within 30 days of the decision of the Authority, appeal in writing to the Minister whose decision shall be final and shall be given effect to by the Authority.
 
 [28/93]
 
@@ -462,7 +762,7 @@ LICENSING OF BANKS
 
 (2) No bank incorporated in Singapore shall open a new branch, agency or office in any place outside Singapore without submitting a written application in respect thereof to the Authority, which shall approve or reject the application.
 
-(3) Any bank which contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine of $1,000 for every day during which the offence continues after conviction.
+(3) Any bank which contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine of $2,500 for every day during which the offence continues after conviction.
 
 [2/84]
 
@@ -474,9 +774,15 @@ LICENSING OF BANKS
 
 ### Mergers
 
-14\.—(1) A bank incorporated in Singapore shall not be merged or consolidated with or be taken over by any other bank or banks or their subsidiaries or related companies as described in section 6 of the Companies Act (Cap. 50) or acquire an interest exceeding 20% of the voting share capital of any other bank without application to, and approval by, the Authority.
+14\.—(1) A bank incorporated in Singapore shall not be merged or consolidated with, or be taken over by, any other body corporate or unincorporate without the prior written approval of the Minister.
 
-(2) In considering such an application, the Authority shall have power to call for such information as it may require.
+[23/2001 wef 18/07/2001]
+
+(2) In considering such an application, the Minister shall have power to call for such information as it may require.
+
+(3) Without prejudice to the generality of subsection (1), for the purposes of this section, a bank shall be deemed to be merged with a body corporate or unincorporate if the bank or its shareholders enter into any agreement or arrangement under which all or substantially all of the business of the bank is to be managed, and under which the shareholders of the bank will be accorded rights, as if the bank has been merged with such body corporate or unincorporate, as the case may be.
+
+[23/2001 wef 18/07/2001]
 
 ### Approval by Minister for merger of certain banks
 
@@ -498,8 +804,6 @@ LICENSING OF BANKS
 
 (5) No application to the Minister for a certificate of approval merging 2 or more banks may be made under subsection (1) unless —
 
-(a) the Authority has approved the merger under section 14;
-
 (b) the merger is between a bank and one or more banks which are wholly owned subsidiaries of that bank;
 
 (c) the banks proposing to merge have entered into a merger agreement; and
@@ -509,10 +813,6 @@ LICENSING OF BANKS
 [28/93]
 
 (6) Where a certificate of approval is issued under subsection (1) merging the banks, those banks shall publish a notice of the approval of the merger at least once in a local Malay, English, Chinese and Tamil language daily newspaper within one week from the date of the certificate of approval.
-
-[28/93]
-
-(7) As from the date of approval of the merger by the Authority under section 14, section 47(3) shall not apply where the officials of any bank that is a party to the merger agreement referred to in subsection (5)(c) are required to give information which are necessary for the purposes of the merger.
 
 [28/93]
 
@@ -536,123 +836,305 @@ LICENSING OF BANKS
 
 [28/93]
 
-### Control of take-overs of banks incorporated in Singapore
+### Application and interpretation of sections 15A to 18
 
-15\.—(1) This section and sections 16 and 17 shall apply to and in relation to all natural persons whether resident in Singapore or not and whether citizens of Singapore or not, and to all bodies corporate or unincorporate, whether incorporated or carrying on business in Singapore or not.
+15\.—(1) This section and sections 15A to 18 shall apply to, and in relation to, all individuals whether resident in Singapore or not and whether citizens of Singapore or not, and to all bodies corporate or unincorporate, whether incorporated or carrying on business in Singapore or not.
 
-[2/84]
+(2) In sections 15A to 18, unless the context otherwise requires —
 
-(2) Without prejudice to section 14, no person shall enter into an agreement to acquire shares of a bank that is incorporated in Singapore by virtue of which he would, if the agreement is carried out, obtain effective control of that bank without first notifying the Authority of his intention to enter into the agreement and obtaining the approval of the Authority to his entering into the agreement.
+“arrangement” includes any formal or informal scheme, arrangement or understanding, and any trust whether express or implied;
 
-[2/84]
+“designated financial institution” means —
 
-(3) For the purposes of this section —
+(a) a bank incorporated in Singapore; or
 
-(a) a person shall be regarded as entering into an agreement by virtue of which he would obtain effective control of a bank if the person alone or acting together with any associate or associates of that person would be in a position to control not less than 20% of the voting power in the bank or would hold interests in not less than 20% of the issued shares of the bank;
+(b) a financial holding company;
 
-(b) a reference to an agreement by which a person would obtain effective control of a bank that is incorporated in Singapore includes a reference to an agreement by which the person would acquire any interest in shares in the bank where, upon the acquisition of those interests and of any other interests in other shares of the bank that he has offered to acquire, he would have effective control of the bank;
+“share” includes stock except where a distinction between stock and shares is expressed or implied;
 
-(c) a reference to a person offering to acquire interests in shares includes —
+“substantial shareholder” has the same meaning as in section 81 of the Companies Act (Cap. 50);
 
-(i) a reference to a person making or publishing a statement, however expressed, that expressly or impliedly invites a holder of interests in shares to offer to dispose of interests in shares; and
+“voting share” has the same meaning as in section 4(1) of the Companies Act.
 
-(ii) a reference to a person taking part in or proposing to take part in negotiations with a view to the acquisition of shares;
+[23/2001 wef 18/07/2001]
 
-(d) a person holds an interest in a share if he has any legal or equitable interest in that share and without limiting the generality of the foregoing an interest in shares shall have the meaning assigned to that expression in section 7(6) to (10) of the Companies Act (Cap. 50);
+### Control of substantial shareholdings in designated financial institutions
 
-(e) a reference to the voting power in a bank is a reference to the total number of votes that might be cast in the general meeting of the bank;
+15A\.—(1) No person shall, on or after the appointed day, become a substantial shareholder of a designated financial institution without first obtaining the approval of the Minister.
 
-(f) the following persons are associates of a person:
+(2) Subject to section 15C(4), no person who, immediately before the appointed day, is a substantial shareholder of a designated financial institution shall continue to be such a shareholder unless he has, within 6 months after the appointed day or such longer period as the Minister may allow, applied to the Minister for approval to continue to be such a shareholder.
 
-(i) the person’s spouse or a parent or remoter lineal ancestor, son, daughter or remoter issue, brother or sister of the person;
+(3) No person shall, on or after the appointed day, enter into any agreement or arrangement, whether oral or in writing and whether express or implied, to act together with any person with respect to the acquisition, holding or disposal of, or the exercise of rights in relation to, their interests in voting shares of an aggregate of 5% or more of the nominal amount of all voting shares in a designated financial institution, without first obtaining the approval of the Minister.
 
-(ii) any partner of the person;
+(4) Subject to section 15C(4), no person who, at any time before the appointed day, has entered into any agreement or arrangement referred to in subsection (3) shall continue to be a party to such an agreement or arrangement unless he has, within 6 months after the appointed day or such longer period as the Minister may allow, applied to the Minister for approval to continue to be a party to such an agreement or arrangement.
 
-(iii) any corporation of which the person is an officer;
+(5) For the purposes of this section, a person has an interest in any share if —
 
-(iv) where the person is a corporation — any officer of the corporation;
+(a) he is deemed to have an interest in that share under section 7 of the Companies Act (Cap. 50); or
 
-(v) any employee or employer of the person;
+(b) he otherwise has a legal or equitable interest in that share except for such interest as is to be disregarded under section 7 of the Companies Act.
 
-(vi) any officer of any corporation of which the person is an officer;
+[23/2001 wef 18/07/2001]
 
-(vii) any employee of a natural person of whom the person is an employee;
+### Control of shareholdings and voting power in designated financial institutions
 
-(viii) any corporation whose directors are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of the person or, where the person is a corporation, of the directors of the person;
+15B\.—(1) No person shall, on or after the appointed day, become —
 
-(ix) any corporation in accordance with the directions, instructions or wishes of which, or of the directors of which, the person is accustomed or under an obligation, whether formal or informal, to act;
+(a) a 12% controller;
 
-(x) any corporation in which the person who is in a position to control not less than 20% of the voting power in the corporation; and
+(b) a 20% controller; or
 
-(xi) where the person is a corporation — a person who is in a position to control not less than 20% of the voting power in the corporation.
+(c) an indirect controller,
 
-[2/84]
+of a designated financial institution without first obtaining the approval of the Minister.
 
-(4) Any person who contravenes subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both.
+(2) Subject to section 15C(4), no person who, immediately before the appointed day, is —
 
-[2/84]
+(a) a 12% controller;
 
-### Arrangements affecting control of banks incorporated in Singapore
+(b) a 20% controller; or
 
-16\.—(1) No person shall enter into any arrangement in relation to any bank that is incorporated in Singapore by virtue of which he would, if the arrangement is carried out, obtain control of the bank without first notifying the Authority of his intention to enter into the arrangement and obtaining the approval of the Authority to his entering into the arrangement.
+(c) an indirect controller,
 
-[2/84]
+of a designated financial institution shall continue to be such a controller unless he has, within 6 months after the appointed day or such longer period as the Minister may allow, applied to the Minister for approval to continue to be such a controller.
 
-(2) For the purposes of this section —
+(3) In subsections (1)(a) and (b) and (2)(a) and (b) —
 
-(a) a person shall be regarded as entering into an arrangement by virtue of which he would obtain control of a bank if he alone or acting together with an associate or associates would be in a position to determine the policy of the bank;
+“12% controller” means a person, not being a 20% controller, who alone or together with his associates —
 
-(b) the reference to entering into any arrangement is a reference to any formal or informal scheme, arrangement or understanding, whether expressly or by implication, and without limiting the generality of the foregoing includes a reference —
+(a) holds not less than 12% of the shares in the designated financial institution; or
 
-(i) creating a trust whether express or implied; and
+(b) is in a position to control voting power of not less than 12% in the designated financial institution;
 
-(ii) entering into a transaction or agreement,
+“20% controller” means a person who, alone or together with his associates —
 
-and references to an arrangement shall be construed accordingly; and
+(a) holds not less than 20% of the shares in the designated financial institution; or
 
-(c) the reference to associates of a person has the same reference as under section 15.
+(b) is in a position to control voting power of not less than 20% in the designated financial institution.
 
-[2/84]
+(4) For the purposes of subsection (3) —
 
-(3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both.
+(a) a person holds a share if —
 
-[2/84]
+(i) he is deemed to have an interest in that share under section 7(6) to (10) of the Companies Act (Cap. 50); or
 
-### Control of substantial shareholdings in banks incorporated in Singapore
+(ii) he otherwise has a legal or equitable interest in that share except for such interest as is to be disregarded under section 7(6) to (10) of the Companies Act;
 
-17\.—(1) No person shall enter into any agreement to acquire shares by virtue of which he would, if the agreement is carried out, acquire a substantial shareholding in a bank that is incorporated in Singapore without first notifying the Authority of his intention to enter into the agreement and obtaining the approval of the Authority to his entering into the agreement.
+(b) a reference to the control of a percentage of the voting power in a designated financial institution is a reference to the control, whether direct or indirect, of that percentage of the total number of votes that might be cast in a general meeting of the designated financial institution; and
 
-[2/84]
+(c) a person,A, is an associate of another person,B, if —
 
-(2) For the purposes of this section —
+(i) Ais the spouse or a parent, remoter lineal ancestor or step-parent or a son, daughter, remoter issue, step-son or step-daughter or a brother or sister, ofB;
 
-(a) a reference to an agreement by which a person would acquire a substantial shareholding in a bank includes a reference to an agreement by virtue of which the person would acquire any interests in shares in the bank where, upon the acquisition by him of those interests or of those interests and of any interests in other shares in the bank, being interests that he has offered to acquire, he would acquire a substantial shareholding in the bank;
+(ii) Ais a corporation whose directors are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofB, or whereBis a corporation, of the directors ofB;
 
-(b) a reference to a person offering to acquire interests in shares and to a person having an interest in shares shall be construed in the same way as under section 15; and
+(iii) Bis a corporation whose directors are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofA, or whereAis a corporation, of the directors ofA;
 
-(c) a substantial shareholding has the same meaning as in section 81 of the Companies Act (Cap. 50)
+(iv) Ais a person who is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofB;
 
-[2/84]
+(v) Bis a person who is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofA;
 
-(3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+(vi) Ais a related corporation ofB;
 
-[2/84]
+(vii) Ais a corporation in whichB, alone or together with other associates ofBas described in paragraphs (ii) to (vi), is in a position to control not less than 20% of the voting power inA;
 
-### Power of Authority to require bank incorporated in Singapore to obtain information as to beneficial interests in shares of bank
+(viii) Bis a corporation in whichA, alone or together with other associates ofAas described in paragraphs (ii) to (vi), is in a position to control not less than 20% of the voting power inB; or
 
-18\.—(1) The Authority may by notice in writing direct a bank that is incorporated in Singapore to obtain from any shareholder of the bank and to transmit to the Authority information —
+(ix) Ais a person with whomBhas an agreement or arrangement, whether oral or in writing and whether express or implied, to act together with respect to the acquisition, holding or disposal of shares or other interests in, or with respect to the exercise of their voting power in relation to, the designated financial institution.
 
-(a) as to whether that shareholder holds any voting shares in the bank as beneficial owner or as trustee; and
+(5) In subsections (1)(c) and (2)(c), “indirect controller” means any person, whether acting alone or together with any other person, and whether with or without holding shares or controlling voting power in a designated financial institution —
 
-(b) if he holds them as trustee, to indicate as far as he can the person for whom he holds them (either by name or by other particulars sufficient to enable those persons to be identified) and the nature of their interest,
+(a) in accordance with whose directions, instructions or wishes the directors of the designated financial institution are accustomed or under an obligation, whether formal or informal, to act; or
 
-and the bank shall comply with that direction within such time as is specified in the notice.
+(b) who is in a position to determine the policy of the designated financial institution,
 
-[2/84]
+but does not include any person —
 
-(2) For the purposes of this section, “voting shares” has the same meaning as in the Companies Act.
+(i) who is a director or other officer of the designated financial institution whose appointment has been approved by the Authority; or
 
-[2/84]
+(ii) in accordance with whose directions, instructions or wishes the directors of the designated financial institution are accustomed to act by reason only that they act on advice given by him in his professional capacity.
+
+[23/2001 wef 18/07/2001]
+
+### Approval of applications
+
+15C\.—(1) The Minister may, in his discretion, approve an application made by any person under section 15A or 15B if the Minister is satisfied that —
+
+(a) the person is a fit and proper person;
+
+(b) having regard to the person’s likely influence, the designated financial institution will or will continue to conduct its business prudently and comply with the provisions of this Act and notices made thereunder; and
+
+(c) it is in the national interest to do so.
+
+(2) Any approval under this section may be granted to any person subject to such conditions as the Minister may determine, including but not limited to any condition —
+
+(a) restricting the person’s disposal or further acquisition of shares or voting power in the designated financial institution; or
+
+(b) restricting the person’s exercise of voting power in the designated financial institution.
+
+(3) Any condition imposed under subsection (2) shall have effect notwithstanding any of the provisions of the Companies Act (Cap. 50) or anything contained in the memorandum or articles of association of the designated financial institution.
+
+(4) Where the Minister disapproves an application made by any person under section 15A(2) or (4) or 15B(2), the person shall, within such time as the Minister may specify, take such steps as are necessary —
+
+(a) in the case of section 15A(2), to cease to be a substantial shareholder;
+
+(b) in the case of section 15A(4), to cease to be a party to the agreement or arrangement; or
+
+(c) in the case of section 15B(2), to cease to be —
+
+(i) a 12% controller;
+
+(ii) a 20% controller; or
+
+(iii) an indirect controller,
+
+as the case may be.
+
+(5) Notwithstanding the repeal of sections 15, 16 and 17 of the Banking Act in force immediately before the appointed day, the following approvals granted by the Authority before the appointed day shall continue and be deemed to be approvals granted by the Minister under this section, subject to such additional conditions as the Minister may at any time by notice in writing, impose:
+
+(a) any approval or condition imposed in relation thereto under the repealed section 15(2) shall be deemed to be an approval granted or condition imposed under this section as if an application for approval had been made under section 15B(2)(b);
+
+(b) any approval or condition imposed in relation thereto under the repealed section 16(1) shall be deemed to be an approval granted or condition imposed under this section as if an application for approval had been made under section 15B(2)(c); or
+
+(c) any approval or condition imposed in relation thereto under the repealed section 17(1) shall be deemed to be an approval granted or condition imposed under this section as if an application for approval had been made under section 15A(2).
+
+[23/2001 wef 18/07/2001]
+
+### Power to exempt and make further transitional provisions
+
+15D\. The Minister may, by order published in theGazette—
+
+(a) exempt —
+
+(i) any person or class of persons; or
+
+(ii) any class or description of shares or interests in shares,
+
+from section 15A or 15B, subject to such terms and conditions as may be specified in the order; and
+
+(b) make such further transitional provisions as he considers necessary or expedient for the purposes of section 15A, 15B or 15C.
+
+[23/2001 wef 18/07/2001]
+
+### Objection to existing control of designated financial institutions
+
+15E\.—(1) The Minister may serve a written notice of objection on any person referred to in section 15A or 15B if the Minister is satisfied that —
+
+(a) any condition of approval imposed on the person under section 15C(2) or (5) has not been complied with;
+
+(b) the person ceases to be a fit and proper person;
+
+(c) having regard to the person’s likely influence, the designated financial institution is no longer likely to conduct its business prudently or to comply with the provisions of this Act and notices made thereunder;
+
+(d) it is no longer in the national interest to allow the person to continue to be a party to the agreement or arrangement described in section 15A(3) or (4), or to continue to be a substantial shareholder, a 12% controller, a 20% controller or an indirect controller, as the case may be;
+
+(e) the person has furnished false or misleading information or documents in connection with an application under section 15A or 15B; or
+
+(f) he would not have granted his approval under section 15C had he been aware, at that time, of circumstances relevant to the person’s application for such approval.
+
+(2) Before the service of a written notice of objection, the Minister shall, unless he decides that it is not practicable or desirable to do so, cause to be given to the person concerned notice in writing of his intention to serve the written notice of objection, specifying a date by which the person may make written representations with regard to the proposed written notice of objection.
+
+(3) Upon receipt of any written representations, the Minister shall consider them for the purpose of determining whether to issue a written notice of objection.
+
+(4) The Minister shall, in any written notice of objection, specify a reasonable period within which the person to be served the written notice of objection shall —
+
+(a) take such steps as are necessary to ensure that he ceases to be a party to the agreement or arrangement described in section 15A(3) or (4), or ceases to be a substantial shareholder, a 12% controller, a 20% controller or an indirect controller as defined in section 15B(3) and (5), as the case may be; or
+
+(b) comply with such direction or directions as the Minister may make under section 16.
+
+(5) Any person served with a notice of objection under this section shall comply with the notice.
+
+[23/2001 wef 18/07/2001]
+
+### Power to make directions
+
+16\.—(1) Without prejudice to section 17, if the Minister is satisfied that any person has contravened section 15A, 15B, 15C(4) or 15E(5) or has failed to comply with any condition imposed under section 15C(2) or (5), or if the Minister has served a written notice under section 15E, the Minister may, by notice in writing —
+
+(a) direct the transfer or disposal of all or any of the shares in the designated financial institution held by the person or any of his associates (referred to in this section as the specified shares) within such time or subject to such conditions as the Minister considers appropriate;
+
+(b) restrict the transfer or disposal of the specified shares; or
+
+(c) make such other direction as the Minister considers appropriate.
+
+(2) Any person to whom a notice is given under subsection (1) shall comply with such direction or directions as may be specified in the notice.
+
+(3) In the case of any direction made under subsection (1)(a) or (b), until a transfer or disposal is effected in accordance with the direction or until the restriction on the transfer or disposal is removed, as the case may be, notwithstanding any of the provisions of the Companies Act (Cap. 50) or anything contained in the memorandum or articles of association of the designated financial institution —
+
+(a) no voting rights shall be exercisable in respect of the specified shares unless the Minister expressly permits such rights to be exercised;
+
+(b) no shares of the designated financial institution shall be issued or offered (whether by way of rights, bonus or otherwise) in respect of the specified shares unless the Minister expressly permits such issue or offer; and
+
+(c) except in a liquidation of the designated financial institution, no payment shall be made by the designated financial institution of any amount (whether by way of dividends or otherwise) in respect of the specified shares unless the Minister expressly authorises such payment.
+
+(4) In this section, “associate” has the same meaning as in section 15B(4)(c).
+
+[23/2001 wef 18/07/2001]
+
+### Offences, penalties and defences
+
+17\.—(1) Any person who contravenes section 15A, 15B(1)(a) or (2)(a) or 15C(4)(a), (b) or (c)(i) shall be guilty of an offence and shall be liable on conviction —
+
+(a) in the case of an individual, to a fine not exceeding $125,000 and, in the case of a continuing offence, to a further fine not exceeding $12,500 for every day or part thereof during which the offence continues after conviction; or
+
+(b) in any other case, to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
+
+(2) Any person who contravenes section 15B(1)(b) or (c), (2)(b) or (c), 15C(4)(c)(ii) or (iii), 15E(5) or 16(2), or who fails to comply with any condition imposed under section 15C(2) or (5), shall be guilty of an offence and shall be liable on conviction —
+
+(a) in the case of an individual, to a fine not exceeding $125,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $12,500 for every day or part thereof during which the offence continues after conviction; or
+
+(b) in any other case, to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
+
+(3) Where a person is charged with an offence in respect of a contravention of section 15A or 15B, it shall be a defence for the person to prove that —
+
+(a) he was not aware that he had contravened that section; and
+
+(b) he has, within 14 days of becoming aware that he had contravened that section, notified the Minister of the contravention and, within such time as determined by the Minister, taken such actions in relation to his shareholding or control of the voting power in the designated financial institution as the Minister may direct.
+
+(4) Where a person is charged with an offence in respect of a contravention of section 15B(1), it shall also be a defence for the person to prove that, even though he was aware of the contravention —
+
+(a) the contravention occurred as a result of an increase in the shareholding as described in section 15B(4)(a) of, or in the voting power controlled by, any of his associates described in section 15B(4)(c)(i);
+
+(b) he has no agreement or arrangement, whether oral or in writing and whether express or implied, with that associate with respect to the acquisition, holding or disposal of shares or other interests in, or under which they act together in exercising their voting power in relation to, the designated financial institution; and
+
+(c) he has, within 14 days of the date of the contravention, notified the Minister of the contravention and, within such time as may be determined by the Minister, taken such action in relation to his shareholding or control of the voting power in the designated financial institution as the Minister may direct.
+
+(5) Except as provided in subsections (3) and (4), it shall not be a defence for a person charged with an offence in respect of a contravention of section 15A or 15B to prove that he did not intend to or did not knowingly contravene section 15A or 15B, as the case may be.
+
+[23/2001 wef 18/07/2001]
+
+### Power of Authority to obtain information
+
+18\.—(1) The Authority may, by notice in writing, direct any designated financial institution to obtain from any of its shareholders and to transmit to the Authority information —
+
+(a) as to whether that shareholder holds any share in the designated financial institution as beneficial owner or as trustee; and
+
+(b) if he holds the share as trustee, to indicate as far as he can, the person for whom he holds the share (either by name or by other particulars sufficient to enable that person to be identified) and the nature of his interest,
+
+and the designated financial institution shall comply with that direction within such time as may be specified in the notice.
+
+(2) The Authority may, by notice in writing, require any shareholder of a designated financial institution, or any person who appears from information provided to the Authority under subsection (1) or this subsection to have an interest in any share in a designated financial institution, to inform the Authority —
+
+(a) whether he holds that interest as beneficial owner or as trustee, and if he holds the interest as trustee, to indicate so far as he can, the person for whom he holds the interest (either by name or by other particulars sufficient to enable that person to be identified) and the nature of his interest; or
+
+(b) whether any share or any voting right attached to the share is the subject of an agreement or arrangement described in section 15A(3) or (4) or 15B(4)(c)(ix), and if so, to give particulars of the agreement or arrangement and the parties to it,
+
+and the person shall comply with that notice within such time as may be specified therein.
+
+(3) Any person who —
+
+(a) fails to comply with a notice under this section; or
+
+(b) in purported compliance of the notice, knowingly or recklessly makes a statement which is false in a material particular,
+
+shall be guilty of an offence.
+
+(4) Any person convicted of an offence under this section shall be liable on conviction —
+
+(a) in the case of an individual, to a fine not exceeding $125,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $12,500 for every day or part thereof during which the offence continues after conviction; or
+
+(b) in any other case, to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
+
+[23/2001 wef 18/07/2001]
 
 ### Amendment of bank’s constitution
 
@@ -660,7 +1142,7 @@ and the bank shall comply with that direction within such time as is specified i
 
 (2) Every bank whether incorporated inside or outside Singapore shall, within 3 months after the making of any alteration in the memorandum of association and articles of association or other instrument under which it is incorporated, furnish to the Authority particulars in writing (verified by a statutory declaration made by a senior officer of the bank) of the alteration.
 
-(3) Any bank which contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine of $1,000 for every day during which the offence continues after conviction.
+(3) Any bank which contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine of $2,500 for every day during which the offence continues after conviction.
 
 [2/84]
 
@@ -674,7 +1156,9 @@ and the bank shall comply with that direction within such time as is specified i
 
 (ii) has furnished information or documents to the Authority in connection with its application for a licence which is or are false or misleading in a material particular;
 
-(iii) if it is a foreign bank, has had its licence or authority to operate withdrawn by the regulatory body of the country in which it has its principal place of business;
+(iii) if it is a bank incorporated outside Singapore, has had its licence or authority to operate withdrawn by the supervisory authority which is responsible, under the laws of the country or territory where the bank is incorporated, formed or established, for supervising the bank;
+
+[23/2001 wef 18/07/2001]
 
 (iv) proposes to make, or has made, any composition or arrangement with its creditors or has gone into liquidation or has been wound up or otherwise dissolved;
 
@@ -716,7 +1200,7 @@ RESERVE FUNDS, DIVIDENDS, BALANCE-SHEETS AND INFORMATION
 
 ### Maintenance of reserve fund
 
-22\.—(1) Every licensed bankshall —
+22\.—(1) Every bank in Singapore shall —
 
 (a) maintain a reserve fund; and
 
@@ -724,23 +1208,25 @@ RESERVE FUNDS, DIVIDENDS, BALANCE-SHEETS AND INFORMATION
 
 (i) so long as the amount of the reserve fund is less than 50% of the paid-up capital, a sum not less than 50% of those net profits;
 
-(ii) so long as the amount of the reserve fund is 50% but less than 100% of the paid-up capital, a sum not less than 25% of those net profits; and
+(ii) so long as the amount of the reserve fund is 50% or more but less than 100% of the paid-up capital, a sum not less than 25% of those net profits; and
 
 (iii) so long as the amount of the reserve fund is 100% or more of the paid-up capital, a sum not less than 5% of those net profits.
 
-(2) If the Authority is satisfied that the aggregate reserve fund of a licensed bank whose head office is situated outside Singapore is adequate for its business, the Authority may, by order in writing, exempt that bank from subsection (1).
+(2) If the Authority is satisfied that the aggregate reserve fund of a bank incorporated outside Singapore is adequate for its business, the Authority may, by order in writing, exempt that bank from subsection (1).
 
-(3) Any bank which fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 and, in the case of a continuing offence, to a further fine of $2,000 for every day during which the offence continues after conviction.
+(3) Any bank which fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine of $10,000 for every day during which the offence continues after conviction.
 
 [2/84]
 
+(4) In this section, any reference to “paid-up capital” in relation to a bank incorporated outside Singapore shall include its equivalent recognised by the Authority as applicable to the bank under the laws of the country or territory in which the bank is incorporated, formed or established.
+
+[23/2001 wef 18/07/2001]
+
 ### Maintenance of adequate provision for bad and doubtful debts
 
-23\. Every bank shall make provision for bad and doubtful debts and before any profit or loss is declared ensure that that provision is adequate.
+23\. Every bank in Singapore shall make provision for bad and doubtful debts and before any profit or loss is declared ensure that that provision is adequate.
 
-### Dividends
-
-24\. A bank shall not pay any dividend on its shares until all its capitalised expenditure (including preliminary expenses, organisation expenses, share selling commission, brokerage, amount of losses and any item of expenditure not represented by tangible assets) has been completely written off.
+24\. [Deleted by Act 23/2001 wef 18/07/2001]
 
 ### Publication and exhibition of audited balance-sheet
 
@@ -754,7 +1240,7 @@ RESERVE FUNDS, DIVIDENDS, BALANCE-SHEETS AND INFORMATION
 
 [28/93]
 
-(2) Every bank shall, within 6 monthsafter the close of each financial year or within such period as the Authority may approve, publish in such newspaper or newspapers as may be prescribed by regulations a copy of its latest audited annual balance-sheet and profit and loss account containing at least such information as the Authority may require by notice in writing.
+(2) Every bank shall, within 5 months after the close of each financial year or within such period as the Authority may approve, publish in such newspaper or newspapers as may be prescribed by regulations a copy of its latest audited annual balance-sheet and profit and loss account containing at least such information as the Authority may require by notice in writing.
 
 (2A) In the case of a bank incorporated outside Singapore the statements referred to in subsection (2) may be made in a manner that complies with the law for the time being applicable in the place of its incorporation or origin.
 
@@ -764,47 +1250,15 @@ RESERVE FUNDS, DIVIDENDS, BALANCE-SHEETS AND INFORMATION
 
 [28/93]
 
-(4) A copy of each of the documents referred to in subsections (1) and (2) shall be sent to the Authority by the bank, prior to the first publication thereof under that subsection, together with a copy of the directors’ report.
-
-[28/93]
-
-(5) In addition to the balance-sheet and other documents required to be lodged with the Authority under subsection (4), every bank shall lodge with the Authority with that balance-sheet and other documents —
-
-(a) a duly audited balance-sheet showing its assets used in, and liabilities arising out of its operation in, Singapore as at the date to which its balance-sheet was made up; and
-
-(b) a duly audited profit and loss account which gives a true and fair view of the profit or loss arising out of the bank’s operation in Singapore for the last preceding financial year of the bank.
-
-(5A) The bank shall be entitled to make such apportionments of expenses incurred in connection with operations or administration affecting both Singapore and elsewhere and to add such notes and explanations as in its opinion are necessary or desirable in order to give a true and fair view of the profit or loss of its operations in Singapore.
-
-(6) The Authority may, in its discretion, regard the balance-sheet and profit and loss account as having been duly audited for the purpose of subsection (5) if the balance-sheet and profit and loss account are accompanied by a report by an approved auditor which complies, insofar as it is practicable, with section 207 of the Companies Act (Cap. 50).
-
-(7) In the case of a bank incorporated in Singapore —
-
-(a) the annual balance-sheet and profit and loss account of the bank referred to in subsections (1) and (2);
-
-(b) the balance-sheet and profit and loss account referred to in subsection (5); and
-
-(c) the half year interim profit and loss account of the bank,
-
-shall be in such form as the Authority may approve
-
-[28/93]
-
-(7A) In the case of a bank incorporated outside Singapore, only the balance-sheet and profit and loss account referred to in subsection (5) shall be in such form as the Authority may approve.
-
-[28/93]
-
-(8) The Authority may require any bank to submit such further or additional information as it may consider necessary either by way of explanation, amplification or otherwise with regard to the balance-sheets and profit and loss accounts sent by that bank under subsections (4) and (5) and that information shall be submitted within such period and in such manner as the Authority may require.
-
-(9) Any bank which fails to comply with this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine of $1,000 for every day during which the offence continues after conviction.
+(9) Any bank which fails to comply with this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine of $2,500 for every day during which the offence continues after conviction.
 
 [2/84]
 
 ### Information to be furnished by banks
 
-26\.—(1) Every bank shall furnish to the Authority at such time and in such manner as the Authority may prescribe all such information (including returns) as the Authority may reasonably require for the proper discharge of its functions.
+26\.—(1) Every bank shall furnish to the Authority such information (including returns) at such time and in such manner as the Authority may reasonably require for the proper discharge of its functions.
 
-[21/96]
+[23/2001 wef 18/07/2001]
 
 (2) Every bank shall send to the Authority —
 
@@ -816,6 +1270,34 @@ shall be in such form as the Authority may approve
 
 [28/93; 21/96]
 
+(2A) Every bank shall send to the Authority —
+
+(a) not later than 3 months after the close of its financial year or within such longer period as the Authority may on application of the bank approve —
+
+(i) a copy of its latest audited annual balance-sheet and profit and loss account together with any notes thereon;
+
+(ii) a copy of the report of the auditors of the bank;
+
+(iii) a copy of the report of the directors of the bank;
+
+(iv) a duly audited balance-sheet showing its assets used in, and liabilities arising out of, its operation in, Singapore as at the date to which its balance-sheet was made up; and
+
+(v) a duly audited profit and loss account which gives a true and fair view of the profit or loss arising out of the bank’s operation in Singapore for its last preceding financial year;
+
+(b) in the case of a bank incorporated in Singapore, within such period as the Authority may require, its interim profit and loss account for every half-year or such other intervals as may be determined by the Authority; and
+
+(c) within such period and in such manner as the Authority may require, such further or additional information as the Authority may consider necessary either by way of explanation, amplification or otherwise with regard to any of the balance-sheets and profit and loss accounts sent under paragraph (a) or (b).
+
+[23/2001 wef 18/07/2001]
+
+(2B) In the case of a bank incorporated outside Singapore, the statements referred to in subsection (2A)(a)(i), (ii) and (iii) may be made in a manner that complies with the law for the time being applicable in the place of its incorporation, formation or establishment.
+
+[23/2001 wef 18/07/2001]
+
+(2C) The Authority may, in its discretion, regard the balance-sheet and profit and loss account as having been duly audited for the purpose of subsection (2A)(a)(iv) and (v) if the balance-sheet and profit and loss account are accompanied by a report by an approved company auditor which complies, insofar as it is practicable, with section 207 of the Companies Act (Cap. 50).
+
+[23/2001 wef 18/07/2001]
+
 (3) The Authority may vary or amend the forms set out in the First, Second and Third Schedules.
 
 (4) The Authority may require any statement submitted to it under subsections (1) and (2) to be accompanied by a certificate —
@@ -826,31 +1308,33 @@ shall be in such form as the Authority may approve
 
 as to whether in the opinion of the auditor, the statement or information is correct.
 
-(5) Any information received from a bank under this section shall be regarded as secret between that bank and the Authority.
+(5) Any information received from a bank under this section shall be treated as secret by the Authority.
 
-[28/93]
+[23/2001 wef 18/07/2001]
 
 (6) Nothing in this section shall prevent the Authority from preparing and publishing consolidated statements aggregating such information as may be furnished under this section.
 
 [28/93]
 
-(7) Any bank which fails or neglects to furnish any information required by the Authority under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 and, in the case of a continuing offence, to a further fine of $2,000 for every day during which the offence continues after conviction.
+(7) Any bank which fails or neglects to furnish any information required by the Authority under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine of $10,000 for every day during which the offence continues after conviction.
 
 [2/84; 28/93]
 
 ### Action to be taken if advances are against interests of depositors
 
-27\.—(1) Every bank shall send to the Authority not later than 15 days after the last day of each month a statement in the form to be prescribed by the Authority showing particulars of all advances, loans or credit facilities granted by it to —
+27\.—(1) Every bank in Singapore shall send to the Authority not later than 15 days after the last day of each month a statement in the form to be prescribed by the Authority showing particulars of all advances, loans or credit facilities granted by it to —
 
 (a) any of its directors;
 
 (b) any firm in which the bank or any of its directors is a partner, manager or agent, or to any individual or firm of whom or of which any of its directors is a guarantor;
 
-(c) any corporation that is deemed to be related to the bank as described in section 6 of the Companies Act (Cap. 50);
+(c) any related corporation of the bank;
+
+[23/2001 wef 18/07/2001]
 
 (d) any of its officers, employees or other persons being persons receiving remuneration from the bank in excess of one year’s remuneration of the officer, employee or person;
 
-(e) any private or public company in which the bank or any of its directors, officers, employees or other persons who receive remuneration from the company has an interest as a director, manager, agent or guarantor; or
+(e) any private or public company in which the bank or any of its directors, officers, employees or other persons who receive remuneration from the bank has an interest as a director, manager, agent or guarantor; or
 
 (f) any individual in whom, and any firm or company in which, any of its directors has an interest, directly or indirectly, as declared under section 28 other than the advances, loans and credit facilities, particulars of which have already been supplied under paragraphs (a) to (e).
 
@@ -866,7 +1350,7 @@ as to whether in the opinion of the auditor, the statement or information is cor
 
 ### Disclosure of interest by directors
 
-28\.—(1) Every director of a bank who has in any manner, directly or indirectly, an interest in an advance, loan or credit facility or proposed advance, loan or credit facility from that bank shall as soon as practicable declare the nature of his interest to the board of directors of that bank and the secretary of that bank shall cause the declaration to be circulated forthwith to all the directors.
+28\.—(1) Every director of a bank in Singapore who has in any manner, directly or indirectly, an interest in an advance, loan or credit facility or proposed advance, loan or credit facility from that bank shall as soon as practicable declare the nature of his interest to the board of directors of that bank and the secretary of that bank shall cause the declaration to be circulated forthwith to all the directors.
 
 (2) The requirements of subsection (1) shall not apply in any case where the interest of the director consists only of being a member or creditor of a company which is interested in an advance, loan or credit facility or proposed advance, loan or credit facility from that bank if the interest of the director may properly be regarded as of a trivial nature.
 
@@ -878,7 +1362,7 @@ as to whether in the opinion of the auditor, the statement or information is cor
 
 (c) it is given at the meeting of the directors or the director takes reasonable steps to ensure that it is brought up and read at the next meeting of the directors after it is given.
 
-(4) Every director of a bank who holds any office or possesses any property whereby, directly or indirectly, duties or interest might be created in conflict with his duties or interest as director shall declare at a meeting of the directors of that bank the fact and the nature, character and extent of the conflict.
+(4) Every director of a bank in Singapore who holds any office or possesses any property whereby, directly or indirectly, duties or interest might be created in conflict with his duties or interest as director shall declare at a meeting of the directors of that bank the fact and the nature, character and extent of the conflict.
 
 (5) The declaration referred to in subsection (4) shall be made at the first meeting of the directors held —
 
@@ -888,7 +1372,7 @@ as to whether in the opinion of the auditor, the statement or information is cor
 
 (6) The secretary of that bank shall cause to be brought up and read any declaration made under subsection (1) or (4) at the next meeting of the directors after it is given, and shall record any declaration made under this section in the minutes of the meeting at which it was made or at which it was brought up and read.
 
-(7) Any director who acts in contravention of subsection (1) or (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both.
+(7) Any director who acts in contravention of subsection (1) or (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $125,000 or to imprisonment for a term not exceeding 3 years or to both.
 
 [2/84]
 
@@ -898,7 +1382,7 @@ PROHIBITED BUSINESS
 
 ### Credit facilities and limits
 
-29\.—(1) Subject to subsection (3), a bank shall not —
+29\.—(1) Subject to subsection (3), a bank in Singapore shall not —
 
 (a) grant or permit to be outstanding to any one person or to any group of persons under the control or influence of any one person, any credit facilities if the aggregate amount of such credit facilities exceeds 25% of its capital funds or such other percentage not exceeding 100% of its capital funds as the Authority may approve;
 
@@ -912,9 +1396,11 @@ PROHIBITED BUSINESS
 
 (ii) to a firm in which the bank or any of its directors has an interest as a partner, manager or agent, or to any individual or firm of whom or of which any of its directors is a guarantor;
 
-(iii) to a company in which any of its directors, whether legally or beneficially, owns more than 50% of the issued capital or in which any of its directors controls the composition of the board of directors, but excluding public companies the securities of which are listed on the Stock Exchange of Singapore or any other stock exchange which the Authority may approve, and the subsidiaries of such public companies; or
+(iii) to a company in which any of its directors, whether legally or beneficially, owns more than 50% of the issued capital or in which any of its directors controls the composition of the board of directors, but excluding public companies the securities of which are listed on any stock exchange in Singapore approved under the Securities Industry Act (Cap. 289) or any other stock exchange which the Authority may approve, and the subsidiaries of such public companies; or
 
-(iv) to any corporation, other than a bank, that is deemed to be related to the bank as described in section 6 of the Companies Act (Cap. 50); or
+(iv) to any corporation, other than a bank, that is a related corporation of the bank;
+
+[23/2001 wef 18/07/2001]
 
 (e) grant to any of its officers (other than a director) or its employees or other persons, being persons receiving remuneration from the bank (other than any persons receiving remuneration from a bank in respect of their professional services) unsecured credit facilities which in the aggregate and outstanding at any one time exceed one year’s emoluments of that officer or employee or person.
 
@@ -932,11 +1418,11 @@ PROHIBITED BUSINESS
 
 (e) any other type of transactions which the Authority may from time to time approve.
 
-(3) Subsection (1)(b) shall not apply to a bank whose total Singapore dollar credit facilities to its customers, excluding banks, do not exceed $100 million.
+(3) Subsection (1)(b) shall not apply to a bank in Singapore whose total Singapore dollar credit facilities to its customers, excluding banks, do not exceed $100 million.
 
 [28/93]
 
-(4) All the directors of a bank shall be liable jointly and severally to indemnify the bank against any loss arising from the making of any unsecured credit facility or any credit facility which subsequently becomes an unsecured credit facility under subsection (1)(d) whether the bank has contravened that provision or not.
+(4) All the directors of a bank in Singapore shall be liable jointly and severally to indemnify the bank against any loss arising from the making of any unsecured credit facility or any credit facility which subsequently becomes an unsecured credit facility under subsection (1)(d) whether the bank has contravened that provision or not.
 
 [28/93]
 
@@ -952,101 +1438,167 @@ PROHIBITED BUSINESS
 
 [28/93]
 
-### Trade
+### Non-financial businesses
 
-30\.—(1) A bank shall not engage, whether on its own account or on a commission basis, and whether alone or with others, in the wholesale or retail trade, including the import or export trade, except in the course of the satisfaction of debts due to it for the purpose of carrying on its banking business.
+30\.—(1) No bank in Singapore shall carry on, or enter into any partnership, joint venture or other arrangement with any person to carry on, whether in Singapore or elsewhere, any business except for the following:
 
-(2) Any bank which contravenes subsection (1) shall be guilty of an offence.
+(a) banking business;
 
-### Investments
+(b) any business the conduct of which is regulated or authorised by the Authority under any other written law;
 
-31\.—(1) A bank shall not acquire or hold any part of the share capital of, or otherwise have an interest in, any financial, commercial, agricultural, industrial or other undertaking exceeding in the aggregate 40% of that bank’s capital funds except such shareholding as the bank may acquire in the course of the satisfaction of debts due to it, which shareholding shall, however, be disposed of at the earliest suitable opportunity.
+(c) any business which is incidental to the business which the bank may carry on under paragraph (a) or (b);
 
-(2) This section shall not apply in respect of —
+(d) any business or class of business as the Authority may prescribe, subject to such conditions as may be prescribed; or
 
-(a) any shareholding approved in writing by the Authority in another bank or in a subsidiary company formed by the bank concerned for the carrying out of nominee, executor or trustee functions or other functions incidental to banking business; or
+(e) any other business as the Authority may approve for the purposes of this section, subject to such conditions as the Authority may impose.
 
-(b) any shareholding approved by the Authority in any corporation set up for the purpose of promoting development in Singapore.
+(2) Nothing in this section shall —
 
-(3) Any bank which contravenes subsection (1) shall be guilty of an offence.
+(a) prevent a bank from holding any equity investment in a company in accordance with section 31; or
 
-### Control over banks in the acquisition of shares in companies
+(b) be construed as exempting a bank from any requirement which, apart from this section, the bank is required to comply with under any written law for the conduct of any business.
 
-32\.—(1) No bank shall enter into an agreement to acquire the share capital of any company by virtue of which the bank would, if the agreement is carried out, acquire or hold, directly or indirectly, an interest of 20% or more of the share capital of that company, without first notifying the Authority of its intention to enter into the agreement and obtaining the approval of the Authority to its entering into the agreement.
+(3) Any bank which contravenes this section or fails to comply with any condition imposed or prescribed under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
 
-[2/84]
+[23/2001 wef 18/07/2001]
 
-(2) The Authority may approve the entering into the agreement with or without conditions or may disapprove it without giving any reasons.
+### Limit on equity investments
 
-[2/84]
+31\.—(1) No bank in Singapore shall acquire or hold any equity investment in a single company, the value of which exceeds in the aggregate 2% of the capital funds of the bank or such other percentage as the Authority may prescribe.
 
-(3) Subsection (1) shall not apply to an agreement by virtue of which the bank would acquire an interest of 20% or more of the share capital in a company by way of enforcement of security to satisfy debts due to it by the company, if, upon making the acquisition, the bank obtains the approval of the Authority to retain the shareholdings as an investment.
+(2) This section shall not apply to —
 
-[2/84]
+(a) any interest held by way of security for the purposes of a transaction entered into in the ordinary course of the business of the bank in Singapore;
 
-(4) In the event however that the Authority does not grant approval, the bank shall dispose of the shareholdings at the earliest opportunity.
+(b) any shareholding or interest acquired or held by a bank in Singapore in the course of satisfaction of debts due to it which is disposed of at the earliest suitable opportunity; or
 
-[2/84]
+(c) any major stake approved under section 32.
 
-(5) A bank which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
+(3) The Authority may, by regulations —
 
-[2/84]
+(a) exempt any bank from subsection (1) in respect of any investment;
 
-(6) In this section, “company” means a company whether incorporated in or outside Singapore.
+(b) provide for the manner of valuation of investments for the purposes of compliance with this section; and
 
-[2/84]
+(c) exclude the operation of this section in respect of any investment or class of investments which may be held by any bank, subject to such conditions as may be prescribed.
+
+(4) Any bank which contravenes this section or fails to comply with any condition imposed or prescribed under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
+
+(5) In this section, “equity investment” means any beneficial interest in the share capital of a company.
+
+(6) The Authority may, by order published in theGazette, modify the definition of “equity investment” in subsection (5).
+
+[23/2001 wef 18/07/2001]
+
+### Investments in companies undertaking non-financial businesses
+
+32\.—(1) No bank in Singapore shall acquire or hold a major stake in any company without the prior approval of the Authority.
+
+(2) The Authority shall not ordinarily grant its approval under subsection (1) if the company carries on, whether as its principal business or otherwise, any prohibited business.
+
+(3) Notwithstanding subsection (2), the Authority may, in the circumstances of a particular case, grant its approval for a bank in Singapore to acquire or hold a major stake in a company which carries on any prohibited business, subject to such conditions as it may impose.
+
+(4) This section shall not apply to —
+
+(a) any interest held by way of security for the purposes of a transaction entered into in the ordinary course of the business of the bank in Singapore; and
+
+(b) any shareholding or interest acquired or held by a bank in Singapore in the course of satisfaction of debts due to it which is disposed of at the earliest suitable opportunity.
+
+(5) The Authority may, by regulations —
+
+(a) exclude the operation of this section in respect of any company or class of companies, subject to such conditions as may be prescribed; and
+
+(b) provide for the manner of computation of major stakes.
+
+(6) Any bank which contravenes this section or fails to comply with any condition imposed or prescribed under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
+
+(7) In this section —
+
+“major stake” means —
+
+(a) any beneficial interest exceeding 10% in the share capital of a company;
+
+(b) control over more than 10% of the voting power in a company; or
+
+(c) any interest in a company, where the directors of the company are accustomed or under an obligation, whether formal or informal, to act in accordance with the bank’s directions, instructions or wishes, or where the bank is in a position to determine the policy of the company;
+
+“prohibited business” means any business other than the businesses referred to in section 30(1)(a) to (d).
+
+(8) This section shall not affect any acquisition or holding of a major stake which was approved by the Authority prior to the appointed day.
+
+[23/2001 wef 18/07/2001]
 
 ### Immovable property
 
-33\.—(1) A bank shall not purchase or acquire any immovable property or any right therein exceeding in the aggregate 40% of that bank’s capital funds except as may be reasonably necessary for the purpose of conducting its business or of housing or providing amenities for its staff.
+33\.—(1) No bank in Singapore shall hold or acquire interests in or rights over immovable property, wherever situated, the value of which exceeds in the aggregate 20% of the capital funds of the bank or such other percentage as the Authority may prescribe.
 
-(2) Subsection (1) shall not prevent a bank —
+(2) For the purposes of determining the aggregate value of the interest in or right over immovable property referred to in subsection (1), there shall be excluded such portion of the value as may be attributable to the following:
 
-(a) from letting part of any building which is used for the purpose of conducting its business; or
+(a) any interest in or right over immovable property or any part thereof used for the purpose of conducting the business of the bank in Singapore or housing or providing amenities for its officers;
 
-(b) from securing a debt on any immovable property and, in the event of default in payment of the debt, from holding that immovable property for realisation by sale or auction at the earliest suitable opportunity.
+(b) any interest in or right over immovable property held by way of security for the purposes of a transaction entered into in the ordinary course of the business of the bank in Singapore;
 
-(3) Any bank which contravenes subsection (1) shall be guilty of an offence.
+(c) any interest in or right over immovable property held by way of enforcement of such security referred to in paragraph (b), provided that it is disposed of at the earliest suitable opportunity; and
 
-### Loans secured by immovable property
+(d) such other interest in or right over immovable property as the Authority may prescribe.
 
-34\.—(1) A bank shall not make any loans or advances exceeding in the aggregate 30% of the amount of its deposits in Singapore (including the deposits and borrowings from any other bank at that bank) on the security of immovable property for the purpose of purchasing, improving or altering the immovable property.
+(3) The Authority may make regulations to provide for the manner of valuation or apportionment of immovable property for the purposes of this section.
 
-(1A) Any bank whose business is principally in those loans or advances may, with the prior written consent of the Authority, make those loans or advances in an aggregate amount up to, but not in excess of 60% of the amount of its deposits in Singapore (including the deposits and borrowings from any other bank at that bank).
+(4) Any bank which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine of $10,000 for every day or part thereof during which the offence continues after conviction.
 
-(2) A loan or advance secured solely by a mortgage, deed of trust, or other such instrument upon immovable property or by notes or other obligations which are so secured, is, for the purpose of subsections (1) and (1A), a loan or advance secured by immovable property.
+[23/2001 wef 18/07/2001]
 
-(2A) A loan or advance secured in part by —
+### Grace period for sections 30 to 33
 
-(a) mortgage, deed of trust;
+34\.—(1) Notwithstanding sections 30 to 33, where any business was carried on, or any property or investment was held, by a bank in Singapore immediately before the appointed day with the approval of the Authority (where required) or which did not require the approval of the Authority, the bank may continue to carry on such business or hold such property or investment, as the case may be, for a period of 3 years from the appointed day.
 
-(b) other instrument upon immovable property;
+(2) The Authority may, on application by a bank in Singapore, extend the period referred to in subsection (1) for such further period as the Authority considers appropriate.
 
-(c) notes or other obligations which are so secured; or
+(3) The Authority may, in granting an application for extension under subsection (2) —
 
-(d) any other form of security,
+(a) levy a charge of an amount not exceeding $10,000 for every day of the period of extension; or
 
-is, for the purposes of subsection (2), a loan or advance secured by immovable property to the extent, but only to the extent, of the value of that immovable property as a security as determined by the Authority.
+(b) impose such conditions as it considers appropriate.
 
-(3) Nothing in this section shall be construed to prohibit any bank from accepting as security for a loan or advance made in good faith without security or upon security subsequently found to be inadequate, a mortgage, deed of trust, or other instrument upon immovable property, or notes or other obligations which are so secured.
+(4) The Authority may, on application by a bank in Singapore, waive any requirement in section 30, 31, 32 or 33, on such conditions as the Authority may impose, where in the opinion of the Authority, the waiver is reasonably necessary for the bank to divest the business, property or investment referred to in subsection (1) by the end of the period referred to in that subsection or the further period referred to in subsection (2).
 
-(4) Any bank which contravenes subsection (1) shall be guilty of an offence.
+[23/2001 wef 18/07/2001]
 
-### Deduction for purposes of sections 29, 31 and 33
+### Exposure to immovable property sector
 
-35\. For the purposes of sections 29, 31 and 33, there shall be deducted from the capital funds of the bank any debit balance appearing in the profit and loss account of the bank.
+35\.—(1) The Authority may make such regulations as may be necessary or expedient for the purposes of limiting, in relation to a bank in Singapore, exposure to risks associated, directly or indirectly, with such immovable property as may be prescribed.
 
-[36
+(2) Without prejudice to the generality of subsection (1), the regulations may —
 
-### Power of Authority to secure compliance with sections 10, 23, 29, 31, 33, 34and 42
+(a) prescribe a limit (referred to in this section as the property sector exposure limit) —
 
-36\.—(1) Any bank , if at any time called upon in writing by the Authority to do so, shall satisfy the Authority by the production of such evidence or information as it may require, that the bank is not in contravention of any of the provisions of section 29, 31, 33 or 34.
+(i) on the credit facilities that may be granted or issued by a bank in Singapore to such person or class of persons as may be prescribed; or
+
+(ii) on the notes, bonds, debentures, derivatives or other financial instruments that may be held by a bank in Singapore;
+
+(b) provide for the manner of computation for the purpose of determining whether the property sector exposure limit has been complied with;
+
+(c) provide for the Authority to vary the property sector exposure limit in the circumstances of any particular case;
+
+(d) provide for such transitional and consequential provisions as may be necessary or expedient; and
+
+(e) provide that a contravention of the regulations shall be an offence punishable, on conviction, with a fine not exceeding $100,000 and, in the case of a continuing offence, with a further fine of $10,000 for every day or part thereof during which the offence continues after conviction.
+
+[23/2001 wef 18/07/2001]
+
+### Power of Authority to secure compliance with sections 10, 23, 29, 31, 32, 33, 35 and 42
+
+36\.—(1) Any bank in Singapore, if at any time called upon in writing by the Authority to do so, shall satisfy the Authority by the production of such evidence or information as it may require, that the bank is not in contravention of any of the provisions of section 29, 31, 32, 33, 35 or this section.
 
 [2/84]
 
-(2) For the purpose of securing compliance with sections 10, 23 and 42 and the sections referred to in subsection (1), the Authority may, from time to time by notice in writing, require any bank to aggregate its assets, liabilities or profits, as the case may be, with the assets, liabilities or profits of all or any of the bank’s related companies, as described in section 6 of the Companies Act (Cap. 50).
+(2) Without prejudice to sections 10, 23, 29, 31, 32, 33, 35 and 42, the Authority may, for the purpose of securing compliance with those sections on a consolidated basis, from time to time by notice in writing, require any bank to aggregate, in such manner as may be specified in the notice, its assets, liabilities, profits or losses, as the case may be, with the assets, liabilities, profits or losses of all or any of —
 
-[2/84]
+(a) the bank’s related corporations; and
+
+(b) companies in which the bank has a major stake as defined in section 32(7).
+
+[23/2001 wef 18/07/2001]
 
 (3) The bank shall comply with the requirement referred to in subsection (2) within such time as is specified in the notice.
 
@@ -1056,7 +1608,7 @@ is, for the purposes of subsection (2), a loan or advance secured by immovable p
 
 ### Relief from limitations imposed by sections 29, 31 and 33
 
-37\.—(1) Any bank whose head office is situatedoutside Singapore may apply in writing to the Authority for an order relieving that bank from the restrictions or limitations imposed by sections 29, 31 and 33 in relation to any transactions referred to in those sections and the Authority may make an order subject to such conditions as it thinks fit.
+37\.—(1) Any bank incorporated outside Singapore may apply in writing to the Authority for an order relieving that bank from the restrictions or limitations imposed by sections 29, 31 and 33 in relation to any transactions referred to in those sections and the Authority may make an order subject to such conditions as it thinks fit.
 
 (2) The Authority shall make an order under subsection (1) only if it is satisfied that the making of the order is in the interests of the creditors and depositors of the bank.
 
@@ -1070,17 +1622,19 @@ MINIMUM ASSET REQUIREMENTS
 
 ### Minimum liquid assets
 
-38\.—(1) The Authority may, from time to time, prescribe by notice in writing a minimum amount or amounts of liquid assets to be held by banks.
+38\.—(1) The Authority may, from time to time, by notice in writing to any bank in Singapore or class of banks in Singapore, impose requirements in relation to the minimum amount or amounts of liquid assets to be held by the bank or class of banks, having regard to the risks arising from the activities of the bank or class of banks, as the case may be, and such other factors as the Authority considers relevant.
 
-(2) The minimum amount or amounts of the assets so prescribed to be held shall be expressed in the form of a percentage or percentages which those assets shall bear to the sight, savings account, time and other liabilities of each bank, either jointly or separately, and the percentage or percentages may be varied by the Authority by notice in writing.
+[23/2001 wef 18/07/2001]
 
-(3) Whenever the Authority issues a notice under subsection (1), each bank shall be allowed such uniform period of grace, being not less than one month, as may be specified in the notice, in which to comply with its provisions.
+(2) The minimum amount or amounts of the assets so required to be held shall be expressed in the form of a percentage or percentages which those assets shall bear to the sight, savings account, time and other liabilities of each bank, either jointly or separately, and the percentage or percentages may be varied by the Authority by notice in writing.
+
+(3) Whenever the Authority issues a notice under subsection (1), each bank shall be allowed such period of grace, being not less than one month, as may be specified in the notice, in which to comply with its provisions.
 
 (4) A bank shall not, during any period in which it has failed to comply with any notice under subsection (1), without the approval of the Authority, grant further advances to any person.
 
 (5) For the purpose of computing the minimum amount or amounts of liquid assets under this section and specified assets under section 40, and the sight, savings account, time and other liabilities of a bank carrying on business in Singapore and elsewhere, the offices and branches of the bank in Singapore shall be deemed to constitute a separate bank carrying on business in Singapore.
 
-(6) The Authority may by notice in writing require each bank to render such returns as the Authority considers necessary for the implementation of this section.
+(6) The Authority may by notice in writing require each bank in Singapore to render such returns as the Authority considers necessary for the implementation of this section.
 
 (7) Any bank which fails to comply with any of the provisions of this section shall be liable to pay, on being called upon to do so by the Authority, a penalty interest charge of $100 per day or such larger amount as the Authority may determine for every day during which the deficiency continues.
 
@@ -1092,31 +1646,25 @@ MINIMUM ASSET REQUIREMENTS
 
 (a) notes and coin which are legal tender in Singapore;
 
-(b) balances with the Authority;
+(b) balances with the Authority; and
 
-(c) balances with banks in Singapore, after deducting therefrom balances held for banks in Singapore;
-
-(d) net money at call in Singapore;
-
-(e) Treasury bills issued by the Government and maturing within 3 months (exclusive of days of grace); and
-
-(fc) such other assets as the Authority may from time to time approve.
+(c) such other assets as the Authority may from time to time approve.
 
 [39
 
 ### Minimum cash balances
 
-39\.—(1) The Authority may from time to time require banks to maintain minimum cash balances, not exceeding 30% of each bank’s deposit and other liabilities, on deposit with the Authority as reserves against their deposit and other liabilities.
+39\.—(1) The Authority may from time to time require banks in Singapore to maintain minimum cash balances, not exceeding 30% of each bank’s deposit and other liabilities, on deposit with the Authority as reserves against their deposit and other liabilities.
 
-(2) Subject to the limit specified in subsection (1), the Authority may prescribed different ratios for different types of liabilities and may further prescribe the method of computing the amount of the required reserves, but the ratios shall be uniform for all banks .
+(2) Subject to the limit specified in subsection (1), the Authority may prescribed different ratios for different types of liabilities and may further prescribe the method of computing the amount of the required reserves, but the ratios shall be uniform for all banks in Singapore.
 
 (3) Any prescription of, or change in, the minimum reserve requirements under subsection (1) or (2) shall take effect only after the expiration of 30 days’ notice to the banks of the Authority’s intention to take such action.
 
 (4) Where a bank (referred to in this section as the defaulting bank) has failed to maintain sufficient minimum cash balances required under subsection (1), the Authority may by order in writing direct the defaulting bank to make good the deficiency within the period specified in the order and the defaulting bank shall comply with the requirements of the order.
 
-(5) If the defaulting bank fails to make good the deficiency within the period specified in the order referred to in subsection (4), it shall be lawful, notwithstanding the provisions of any other written law, for the Authority to serve a notice in writing upon any other bank with which the defaulting bank has a credit balance, whether in current or deposit account, directing that bank to transfer to the Authority such amount as is specified in the notice as being equivalent to the amount of the deficiency in the minimum cash balances of the defaulting bank required under subsection (1) and the other bank shall immediately comply with the requirements of that notice.
+(5) If the defaulting bank fails to make good the deficiency within the period specified in the order referred to in subsection (4), it shall be lawful, notwithstanding the provisions of any other written law, for the Authority to serve a notice in writing upon any other bank in Singapore with which the defaulting bank has a credit balance, whether in current or deposit account, directing that bank to transfer to the Authority such amount as is specified in the notice as being equivalent to the amount of the deficiency in the minimum cash balances of the defaulting bank required under subsection (1) and the other bank shall immediately comply with the requirements of that notice.
 
-(6) No action shall lie against, and no liability shall attach to, any bank that complies with the requirements of a notice referred to in subsection (5) for any loss or damage suffered by the defaulting bank as a result of the other bank taking action in compliance with the requirements of that notice.
+(6) No action shall lie against, and no liability shall attach to, any bank in Singapore that complies with the requirements of a notice referred to in subsection (5) for any loss or damage suffered by the defaulting bank as a result of the other bank taking action in compliance with the requirements of that notice.
 
 (7) The Authority may, in addition to any action taken under subsections (4) and (5), impose on any bank that fails to maintain sufficient minimum cash balances required under subsection (1) a penalty interest charge of $100 per day or such larger amount as the Authority may determine for every day during which the deficiency continues.
 
@@ -1128,11 +1676,11 @@ MINIMUM ASSET REQUIREMENTS
 
 ### Minimum asset requirement
 
-40\.—(1) The Authority may require banks to maintain a minimum amount or amounts of assets specified in subsection (2) to be held by banks in Singapore expressed as a percentage or percentages which those assets shall bear to the sight, savings account, time and other liabilities of each bank either jointly or separately.
+40\.—(1) The Authority may require banks in Singapore to maintain a minimum amount or amounts of assets specified in subsection (2) to be held by banks in Singapore expressed as a percentage or percentages which those assets shall bear to the sight, savings account, time and other liabilities of each bank either jointly or separately.
 
 (2) For the purposes of subsection (1), the specified assets are —
 
-(a) the assets specified in section 38(9)(a) to (f);
+(a) the assets specified in section 38(9)(a) to (c);
 
 (b) loans or advances made to persons in Singapore;
 
@@ -1150,9 +1698,39 @@ MINIMUM ASSET REQUIREMENTS
 
 POWERS OF CONTROL OVER BANKS
 
+### Interpretation of this Part
+
+40A\. In this Part —
+
+“customer”, in relation to a bank, includes the Authority or any monetary authority or central bank of any other country or territory, but does not include any company which carries on banking business or such other financial institution as may be designated by the Authority by notice in writing;
+
+“customer information”, in relation to a bank, means —
+
+(a) any information relating to, or any particulars of, an account of a customer of the bank, whether the account is in respect of a loan, investment or any other type of transaction, but does not include any information that is not referable to any named customer or group of named customers; or
+
+(b) deposit information;
+
+“deposit information”, in relation to a bank, means any information relating to —
+
+(a) any deposit of a customer of the bank;
+
+(b) funds of a customer under management by the bank; or
+
+(c) any safe deposit box maintained by, or any safe custody arrangements made by, a customer with the bank,
+
+but does not include any information that is not referable to any named person or group of named persons;
+
+“funds of a customer under management” means any funds or assets of a customer (whether of the bank or any financial institution) placed with that bank for the purpose of management or investment;
+
+“parent bank”, in relation to a bank, means a financial institution which is able to exercise a significant influence over the direction and management of the bank or which has a controlling interest in the bank;
+
+“parent supervisory authority”, in relation to a bank incorporated outside Singapore, means the supervisory authority which is responsible, under the laws of the country or territory where the bank or its parent bank is incorporated, formed or established, for supervising the bank or its parent bank, as the case may be.
+
+[23/2001 wef 18/07/2001]
+
 ### Regulation of interest rates of banks
 
-41\.—(1) The Authority may from time to time determine and announce the rates of interest payable to or by banks , the rates of discount chargeable by banks , or the rates of commission and other charges payable to banks .
+41\.—(1) The Authority may from time to time determine and announce the rates of interest payable to or by banks in Singapore, the rates of discount chargeable by banks in Singapore, or the rates of commission and other charges payable to banks in Singapore.
 
 (2) Subsection (1) shall not apply to transactions between banks in Singapore.
 
@@ -1160,7 +1738,7 @@ POWERS OF CONTROL OVER BANKS
 
 ### Recommendations to banks concerning credits and investments
 
-42\.—(1) The Authority may, in respect of loans and advances or investments of banks , make recommendations to the banks in respect of the following:
+42\.—(1) The Authority may, in respect of loans and advances or investments of banks in Singapore, make recommendations to the banks in respect of the following:
 
 (a) the purposes for which they may or may not be granted or made;
 
@@ -1168,7 +1746,7 @@ POWERS OF CONTROL OVER BANKS
 
 (c) the limits for any particular category of loans, advances or investments or for the total amount outstanding in respect of those loans, advances or investments.
 
-(2) Any recommendation made under subsection (1) shall apply uniformly to all banks engaging in the transactions covered by the recommendation.
+(2) Any recommendation made under subsection (1) shall apply uniformly to all banks in Singapore engaging in the transactions covered by the recommendation.
 
 (3) Where the Authority has made a recommendation under subsection (1) and the banks have accepted it without objections, or have failed to notify the Authority of their objections or have failed to forward their representations to the Authority within the time specified in subsection (4), the Authority may issue a direction in writing to each bank on any of the matters referred to in subsection (1) requiring that effect be given to the recommendation within a reasonable time, and the banks shall comply with that direction.
 
@@ -1188,189 +1766,167 @@ and in either event, the Authority shall thereupon issue a direction in writing 
 
 ### Inspection of banks
 
-43\. The Authority shall, from time to time, inspect under conditions of secrecy, the books, accounts and transactions of each bank and of any branch, agency or office outside Singapore opened by a bank incorporated in Singapore.
+43\. The Authority shall, from time to time, inspect under conditions of secrecy, the books, accounts and transactions of each bank in Singapore and of any branch, agency or office outside Singapore opened by a bank incorporated in Singapore.
+
+(1) The Authority shall, from time to time, inspect under conditions of secrecy, the books, accounts and transactions of each bank in Singapore and of any branch, agency or office outside Singapore opened by a bank incorporated in Singapore.
+
+[23/2001 wef 18/07/2001]
+
+[44
+
+(2) Without prejudice to the generality of subsection (1), such inspection may be conducted in respect of activities of the bank that are regulated or licensed by the Authority under any other Act.
+
+[23/2001 wef 18/07/2001]
 
 [44
 
 ### Special investigation of banks
 
-44\.—(1) The Authority may at any time make an investigation, under conditions of secrecy, of the books, accounts and transactions of any bank , if it has reason to believe that any bank is carrying on its business in a manner likely to be detrimental to the interests of its depositors and other creditors, or has insufficient assets to cover its liabilities to the public, or is contravening the provisions of this Act.
+44\.—(1) The Authority may at any time make an investigation, under conditions of secrecy, of the books, accounts and transactions of any bank in Singapore, if it has reason to believe that any bank is carrying on its business in a manner likely to be detrimental to the interests of its depositors and other creditors, or has insufficient assets to cover its liabilities to the public, or is contravening the provisions of this Act.
 
-(2) The Authority may appoint an auditor, other than the auditor appointed by the bank or the Authority under section 58, to exercise the powers of the Authority under section 43 and subsection (1).
+### Provisions supplementary to sections 43 and 44
 
-[45
+44A\.—(1) For the purposes of an inspection under section 43 or an investigation under section 44, the bank under inspection or investigation shall —
 
-### Inspection by foreign supervisory authority
+(a) produce its books, accounts and documents to the Authority and afford the Authority access thereto; and
 
-45\.—(1) A supervisory authority which is responsible for regulating the head office of a bank incorporated outside Singapore may conduct an inspection, solely for supervisory purposes and under conditions of secrecy, of the books and accounts of any branch of that bank in Singapore if the following conditions are satisfied:
+(b) provide such information or facilities as may be required by the Authority to conduct the inspection or investigation.
 
-(a) where it has obtained the prior written approval of the Authority;
+(2) The books, accounts and documents referred to in subsection (1) shall not be required to be produced at such times or at such places as would unduly interfere with the proper conduct of the normal daily business of that bank.
 
-(b) where the supervisory authority is prohibited by its domestic law from divulging information obtained in the course of the inspection to any other person or where the supervisory authority has given such written undertaking, as to the confidentiality of the information obtained, as the Authority may determine; and
+(3) The Authority may appoint an auditor, other than the auditor appointed by the bank or by the Authority under section 58, to exercise the powers of the Authority under section 43 or 44.
 
-(c) where it has given to the Authority a written undertaking to comply with the provisions of this Act and any condition imposed by the Authority under this section.
+(4) Customer information that is obtained by the Authority from a bank incorporated outside Singapore during an inspection under section 43 or an investigation under section 44 may be disclosed by the Authority to the parent supervisory authority of the bank where —
 
-[21/96; 27/98]
+(a) the customer information does not consist of deposit information;
 
-(1A) A supervisory authority may, with the prior written approval of the Authority, appoint another body to conduct the inspection referred to in subsection (1); and in such event the provisions of this section and section 46(3) shall apply to the appointed body as they apply to a supervisory authority.
+(b) the customer information is required by the parent supervisory authority for the sole purpose of carrying out its supervisory functions; and
 
-[27/98]
+(c) the parent supervisory authority —
 
-(2) Subject to any condition imposed by the Authority under subsection (3), the supervisory authority, in carrying out an inspection under subsection (1) —
+(i) is prohibited by the laws applicable to the parent supervisory authority from disclosing the customer information obtained by it to any other person; or
 
-(a) may examine the credit facilities in or of the branch and the internal control systems of the branch (including internal control systems relating to the treasury and other operations in the branch) and, with the prior approval of the Authority, other matters relating to the branch; and
+(ii) has given to the Authority such written undertaking, as to the confidentiality of the information obtained, as the Authority may determine.
 
-(b) shall not have access to information relating to the deposits of customers of the branch and such other information as the Authority may specify.
+(5) Any bank which, without reasonable excuse, contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
 
-[21/96]
+[23/2001 wef 18/07/2001]
 
-(3) The Authority shall, at any time before or after granting approval for an inspection under this section, require the supervisory authority to comply with the conditions relating to —
+### Inspection in Singapore by parent supervisory authority
 
-(a) the classes of information to which the supervisory authority shall or shall not have access in the course of the inspection;
+45\.—(1) In relation to a bank incorporated outside Singapore, a parent supervisory authority may, with the prior written approval of the Authority and under conditions of secrecy, conduct an inspection in Singapore of the books, accounts and transactions of any branch or office of that bank in Singapore in accordance with this section if the following conditions are satisfied:
+
+(a) the inspection is required by the parent supervisory authority for the sole purpose of carrying out its supervisory functions;
+
+(b) the parent supervisory authority —
+
+(i) is prohibited by the laws applicable to the parent supervisory authority from disclosing information obtained by it in the course of the inspection to any other person; or
+
+(ii) has given to the Authority such written undertaking, as to the confidentiality of the information obtained, as the Authority may determine; and
+
+(c) the parent supervisory authority has given a written undertaking to the Authority to comply with the provisions of this Act and such conditions as the Authority may impose under subsection (2).
+
+(2) The Authority may at any time, whether before, on or after giving written approval for an inspection under this section, require the parent supervisory authority to comply with conditions relating to —
+
+(a) the classes of information to which the parent supervisory authority shall or shall not have access in the course of the inspection;
 
 (b) the conduct of the inspection;
 
-(c) the disclosure of information obtained in the course of the inspection; and
+(c) the use or disclosure of any information obtained in the course of the inspection; and
 
 (d) such other matters as the Authority may determine.
 
-[21/96]
+(3) Subject to compliance by a parent supervisory authority with such conditions as the Authority may impose under subsection (2), a bank under inspection —
 
-(4) For the purposes of ensuring the confidentiality of any information obtained in the course of an inspection by a supervisory authority under this section —
+(a) shall afford the parent supervisory authority access to such books, accounts and documents of the branch or office of the bank under inspection, and provide such information (including information relating to the bank’s internal control systems) and facilities as may be required to conduct the inspection; and
 
-(a) subsections (1) and (2) of section 47 shall apply to the supervisory authority and the references to the Authority in those subsections shall be read as references to the supervisory authority; and
+(b) shall not be required to afford the parent supervisory authority access to its books, accounts and documents or to provide information or facilities at such times or at such places as would unduly interfere with the proper conduct of the normal daily business of the bank.
 
-(b) section 47(3) shall apply to any official of the supervisory authority as if such official is an official of any bank.
+(4) A parent supervisory authority may, with the prior written approval of the Authority, appoint another body to conduct the inspection under subsection (1), and in such event the provisions of this section shall apply to the appointed body as they apply to the parent supervisory authority.
 
-[45A
+(5) For the purposes of ensuring the confidentiality of any information obtained in the course of an inspection by a parent supervisory authority under this section, section 47(1) shall, with the necessary modifications, apply to any official of the parent supervisory authority as if the official is an officer of a bank.
 
-[21/96]
+(6) Any bank which refuses or neglects, without reasonable excuse, to afford access to any book, account or document or provide any information or facility as may be required by this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
 
-### Production of bank’s books, accounts and documents
-
-46\.—(1) For the purposes of an inspection or investigation under section 43 or 44, the bank under inspection or investigation shall afford the Authority access to and shall produce its books, accounts and documents and shall give such information and facilities as may be required to conduct the investigation.
-
-(2) The books, accounts and documents referred to in subsection (1) shall not be required to be produced at such times or at such places as would interfere with the proper conduct of the normal daily business of that bank.
-
-(3) For the purposes of an inspection under section 45, the bank under inspection shall afford the supervisory authority access to such books, accounts and documents as may be required to conduct the inspection if the following conditions are satisfied:
-
-(a) the requirements and conditions under section 45 are complied with; and
-
-(b) the inspection would not interfere with the normal daily business of that bank.
-
-[21/96]
-
-(4) If any book, account or document or information is not produced in accordance with subsection (1) or (3), it shall be presumed subject to satisfactory evidence being furnished by the bank justifying such a refusal to produce that book, account or document or information, that the bank concerned has been carrying on business in contravention of the terms of its licence with effect from that day and shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 and, in the case of a continuing offence, to a further fine of $2,000 for every day during which the offence continues after conviction.
-
-[2/84; 21/96]
+[23/2001 wef 18/07/2001]
 
 ### Confidentiality of inspection and investigation reports
 
-46A\.—(1) Any director, officer or employee of a bank and any person who by reason of his capacity or office has by any means access to a report produced by the Authority or a foreign supervisory authority upon inspection or special investigation of a bank under section 43, 44 or 45 shall not while holding that office, being employed in or having a professional relationship with the bank, as the case may be, or after the termination thereof, communicate the report or any part thereof to any person other than a director, an officer or an employee of the bank except with the prior written permission of the Authority.
+46\.—(1) Where a written report or any part thereof (referred to in this section as the report) has been produced in respect of any bank in Singapore —
 
-[21/96]
+(a) by the Authority upon an inspection under section 43 or an investigation under section 44; or
 
-(2) The Authority may grant its permission under subsection (1) subject to such conditions as may be determined by the Authority.
+(b) by a parent supervisory authority upon an inspection under section 45,
 
-[21/96]
+the report shall not be disclosed by the bank, or any officer or auditor of the bank, to any other person except in the circumstances provided under subsection (2).
 
-(3) If any person receives the report or any part thereof knowing or having reasonable ground to believe, at the time when he receives it, that the report or part thereof is communicated to him in contravention of this section, he shall be guilty of an offence unless he proves —
+(2) Disclosure of the report referred to in subsection (1) may be made —
 
-(a) that the report or part thereof, as the case may be, was communicated to him contrary to his desire; and
+(a) by the bank in Singapore to any officer or auditor of that bank solely in connection with the performance of the duties of the officer or auditor, as the case may be, in that bank;
 
-(b) where the communication was effected in any written form, that he has returned or has taken reasonable steps to return the report or part thereof, as the case may be, to the Authority.
+(b) by any officer or auditor of the bank in Singapore to any other officer or auditor of that bank, solely in connection with the performance of their duties in that bank;
 
-[21/96]
+(c) to the Authority if requested by the Authority, where the report has been produced by a parent supervisory authority; or
 
-(4) Any person guilty of an offence under this section shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both.
+(d) to any other person as the Authority may approve in writing.
 
-[21/96]
+(3) In granting written approval for any disclosure under subsection (2)(d), the Authority may impose such conditions as it considers appropriate.
 
-(5) In this section, “professional relationship” includes a relationship between a bank and its solicitors or auditors, and such other relationship with a bank as the Authority may determine.
+(4) The obligation on an officer or auditor referred to in subsection (1) shall continue after the termination or cessation of his employment or appointment at the bank.
 
-[21/96]
+(5) Any person who contravenes subsection (1) or fails to comply with any condition imposed by the Authority under subsection (3) shall be guilty of an offence and shall be liable on conviction —
+
+(a) in the case of an individual, to a fine not exceeding $125,000 or to imprisonment for a term not exceeding 3 years or to both; or
+
+(b) in any other case, to a fine not exceeding $250,000.
+
+(6) Any person to whom the report is disclosed and who knows or has reasonable grounds for believing, at the time of the disclosure, that the report was disclosed to him in contravention of subsection (1) shall be guilty of an offence, unless he proves that —
+
+(a) the disclosure was made contrary to his desire;
+
+(b) where the disclosure was made in any written form, he has as soon as practicable surrendered or taken all reasonable steps to surrender the report and all copies thereof to the Authority; and
+
+(c) where the disclosure was made in an electronic form, he has as soon as practicable taken all reasonable steps to ensure that all electronic copies of the report have been deleted and that the report and all copies thereof in other forms have been surrendered to the Authority.
+
+[23/2001 wef 18/07/2001]
+
+46A\. [Deleted by Act 23/2001 wef 18/07/2001]
 
 ### Banking secrecy
 
-47\.—(1) Nothing in this Act shall authorise the Authority to inquire specifically into the affairs of any customer of any bank other than to inquire into any credit facilities granted to the customer by a bank.
+47\.—(1) Customer information shall not, in any way, be disclosed by a bank in Singapore or any of its officers to any other person except as expressly provided in this Act.
 
-[6/83; 2/84; 28/93]
+(2) A bank in Singapore or any of its officers may, for such purpose as may be specified in the first column of the Sixth Schedule, disclose customer information to such persons or class of persons as may be specified in the second column of that Schedule, and in compliance with such conditions as may be specified in the third column of that Schedule.
 
-(2) Where pursuant to an inquiry relating to credit facilities under subsection (1) or an inspection under section 43 or an investigation under section 44 or to the carrying out of the Authority’s function of supervising the financial condition of any bank incidental information relating to the affairs of a customer is obtained by the Authority that information shall be secret as between the Authority and the bank concerned.
+(3) Where customer information is likely to be disclosed in any proceedings referred to in item 3 or 4 of Part I of the Sixth Schedule, the court may, either of its own motion, or on the application of any party to the proceedings or the customer to which the customer information relates —
 
-[28/93]
+(a) direct that the proceedings be held in camera; and
 
-(3) Subject to subsection (4), no official of any bank and no person who by reason of his capacity or office has by any means access to the records of the bank, registers or any correspondence or material with regard to the account of any customer of that bank shall, while his employment in or professional relationship with the bank, as the case may be, continues or after the termination thereof, give, divulge or reveal any information whatsoever regarding the money or other relevant particulars of the account of that customer.
+(b) make such further orders as it may consider necessary to ensure the confidentiality of the customer information.
 
-[28/93]
+(4) Where an order has been made by a court under subsection (3), any person who, contrary to such an order, publishes any information that is likely to lead to the identification of any party to the proceedings shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $125,000.
 
-(4) Subsection (3) shall not apply in any case where —
+(5) Any person (including, where the person is a body corporate, an officer of the body corporate) who receives customer information referred to in Part II of the Sixth Schedule shall not, at any time, disclose the customer information or any part thereof to any other person, except as authorised under that Schedule or if required to do so by an order of court.
 
-(a) the customer or his personal representatives gives or give his or their written permission to do so;
+(6) Any person who contravenes subsection (1) or (5) shall be guilty of an offence and shall be liable on conviction —
 
-(b) the customer is declared bankrupt in Singapore or Malaysia or if the customer is a company, the company is being wound up;
+(a) in the case of an individual, to a fine not exceeding $125,000 or to imprisonment for a term not exceeding 3 years or to both; or
 
-(c) the disclosure of the information is with a view to the institution of, or for the purposes of, civil proceedings —
+(b) in any other case, to a fine not exceeding $250,000.
 
-(i) between the bank and the customer or his guarantor relating to the customer’s banking transaction; or
+(7) In this section and in the Sixth Schedule, unless the context otherwise requires —
 
-(ii) between the bank and 2 or more parties making adverse claims to money in a customer’s account where the bank seeks relief by way of interpleader;
+(a) where disclosure of customer information is authorised under the Sixth Schedule to be made to any person which is a body corporate, customer information may be disclosed to such officers of the body corporate as may be necessary for the purpose for which the disclosure is authorised under that Schedule; and
 
-(d) the officials of any bank by compulsion of any written law in force in Singapore are required to give information to the police or a public officer who is duly authorised under that law to obtain that information or to a court in the investigation or prosecution of a criminal offence under any such law;
+(b) the obligation of any officer or other person who receives customer information referred to in Part II of the Sixth Schedule shall continue after the termination or cessation of his appointment, employment, engagement or other capacity or office in which he had received customer information.
 
-(e) the bank has been served with a garnishee order attaching moneys in the account of the customer;
+(8) For the avoidance of doubt, nothing in this section shall be construed to prevent a bank from entering into an express agreement with a customer of that bank for a higher degree of confidentiality than that prescribed in this section and in the Sixth Schedule.
 
-(f) the information relates to —
+(9) Where, in the course of an inspection under section 43 or an investigation under section 44 or the carrying out of the Authority’s function of supervising the financial condition of any bank, the Authority incidentally obtains customer information and such information is not necessary for the supervision or regulation of the bank by the Authority, then, such information shall be treated as secret by the Authority.
 
-(i) credit facilities granted by a branch in Singapore of a bank incorporated outside Singapore; or
+(10) This section and the Sixth Schedule shall apply, with such modifications as may be prescribed by the Authority, to a merchant bank approved as a financial institution under section 28 of the Monetary Authority of Singapore Act (Cap. 186) as if the reference to a bank in this section were a reference to such merchant bank.
 
-(ii) foreign exchange, money market or any other transactions between a branch in Singapore of a bank incorporated outside Singapore and other banks, whether in or outside Singapore, or such other financial institutions as may be determined by the Authority from time to time,
-
-and the information is required by the head office of the branch;
-
-(g) the information is required to assess the credit-worthiness of a customer in connection with or relating to a bona fide commercial transaction or a prospective commercial transaction so long as the information required is of a general nature and in no way related to the details of a customer’s account;
-
-(h) the customer died, whether testate or intestate, and the information is required by his appointed personal representative or any person entitled to letters of administration solely in connection with an application for a grant of probate or letters of administration;
-
-(i) the information relates solely to credit facilities granted by a branch of a bank incorporated outside Singapore and is required by the supervisory authority which is responsible for regulating the head office of the bank for the sole purpose of supervision of the bank by the supervisory authority and where the supervisory authority will not divulge the information received to third parties unless compelled to do so by its domestic law or courts;
-
-(j) a customer who had been issued with a credit or charge card by a bank has his card suspended or cancelled by the bank by reason of his default in payment and the bank discloses information relating to the customer’s name and identity, the amount of his indebtedness and the date of suspension or cancellation of his credit or charge card to other banks and financial institutions issuing credit or charge cards in Singapore;
-
-(k) the information relates solely to credit facilities granted by a bank incorporated in Singapore and the information is required by another bank incorporated in Singapore which holds more than half the issued and paid-up capital of the first-mentioned bank; or
-
-(l) in accordance with such conditions as the Authority may determine, information of such class or classes as the Authority may, from time to time, approve is transmitted from a branch in Singapore of a bank incorporated outside Singapore to its head office or another branch of that bank outside Singapore, solely for the purposes of carrying out collation, synthesis or processing of the information by the head office or that other branch for the branch in Singapore.
-
-[28/93; 21/96; 27/98]
-
-(5) In any civil proceedings under subsection (4)(b) and (c) where information is likely to be disclosed in relation to a customer’s bank account, those proceedings may, if the court, of its own motion or on the application of a party to the proceedings, so orders, be held in camera and the information shall be secret as between the court and the parties thereto.
-
-(6) A bank or financial institution, or any of its officers or employees, receiving any information under subsection (4)(j) shall not disclose such information to any other person.
-
-[28/93]
-
-(7) No person shall publish the name, address or photograph of any parties to those civil proceedings as are referred to in subsection (5) or any information likely to lead to the identification of the parties thereto either during the currency of the proceedings or after they have been terminated.
-
-(8) The Authority may provide information on the operations of a branch in Singapore of a bank incorporated outside Singapore (including any report produced by the Authority pursuant to any inspection or investigation of the bank) to the supervisory authority which is responsible for regulating the head office of the bank for the purpose of supervision of the bank by the supervisory authority, except that no information regarding the money or other relevant particulars, other than credit facilities granted, of the accounts of a customer of the branch in Singapore shall be divulged by the Authority.
-
-[28/93; 27/98]
-
-(9) The Authority may provide information to a supervisory authority under subsection (8) if and only if the supervisory authority is prohibited by its domestic law from divulging the information received to third parties or gives such written undertaking, as to the confidentiality of the information provided, as the Authority may determine.
-
-[27/98]
-
-(10) Nothing in this section shall be deemed to limit any powers conferred upon the Supreme Court or a Judge thereof by Part IV of the Evidence Act (Cap. 97) or to prohibit obedience to an order under that Part.
-
-(11) Any person who contravenes this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both.
-
-(12) In this section —
-
-“official of any bank” includes a director and an employee of a bank;
-
-“professional relationship” includes a relationship between a bank and a computer bureau, being a relationship that has been approved by the Authority, and such other relationship with a bank as the Authority may from time to time decide;
-
-“written law” means Part IV of the Evidence Act (Cap. 97), the Criminal Procedure Code (Cap. 68), the Goods and Services Tax Act (Cap. 117A), the Internal Security Act (Cap. 143), the Income Tax Act (Cap. 134), the Prevention of Corruption Act (Cap. 241), the Kidnapping Act (Cap. 151) and the Companies Act (Cap. 50).
-
-[21/96]
+[23/2001 wef 18/07/2001]
 
 ### Information of insolvency, etc.
 
@@ -1428,7 +1984,7 @@ the Authority may exercise any one or more of the powers specified in subsection
 
 52\.—(1) Where the Authority has assumed control of the business of a bank in pursuance of section 49, the bank shall submit its business to the control of the Authority and shall provide the Authority with such facilities as the Authority may require to carry on the business of that bank.
 
-(2) Any bank which fails to comply with subsection (1) or with any requirement of the Authority thereunder shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 and, in the case of a continuing offence, to a further fine of $2,000 for every day during which the offence continues after conviction.
+(2) Any bank which fails to comply with subsection (1) or with any requirement of the Authority thereunder shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine of $10,000 for every day during which the offence continues after conviction.
 
 [2/84]
 
@@ -1448,7 +2004,7 @@ the Authority may exercise any one or more of the powers specified in subsection
 
 ### Notices to banks
 
-54A\.—(1) The Authority may, if it appears to the Authority to be necessary or expedient in the public interest or the interest of the banking system, by notice in writing to banks give directions or impose requirements on or relating to the operations and activities of and standards to be maintained by banks.
+54A\.—(1) The Authority may, if it appears to the Authority to be necessary or expedient in the public interest or the interest of the banking system, by notice in writing to banks in Singapore give directions or impose requirements on or relating to the operations and activities of and standards to be maintained by banks.
 
 [28/93]
 
@@ -1468,7 +2024,7 @@ the Authority may exercise any one or more of the powers specified in subsection
 
 (g) restrictions on the granting of Singapore dollar credit facilities in whatever form or by whatever means to residents of Singapore where such facilities are to be used outside Singapore, or to non-residents;
 
-(h) the appointment of directors, chief and deputy chief executive officers and chief dealers of a bank;
+(h) the appointment of directors, chief and deputy chief executive officers and other principal officers of a bank;
 
 (i) the maintenance of a register of dealers of a bank;
 
@@ -1492,51 +2048,31 @@ the Authority may exercise any one or more of the powers specified in subsection
 
 [28/93]
 
-(3) Every bank shall comply with any direction given or requirement imposed by any notice under this section.
+(3) Every bank in Singapore shall comply with any direction given or requirement imposed by any notice under this section.
 
 [28/93]
+
+(4) For the avoidance of doubt, any notice in writing issued under this Act shall be deemed not to be subsidiary legislation.
+
+[23/2001 wef 18/07/2001]
 
 ## PART VIII
 
 NUMBERED ACCOUNTS
 
-### Banks may with approval of Authority open numbered accounts
+### Prohibition against opening of numbered accounts
 
 55\.—(1) For the purposes of this Part, “numbered accounts” means accounts opened with banks in Singapore that are identifiable only by a number or code word or by such other means as the Authority may determine.
 
 (2) No bank in Singapore shall open numbered accounts for its customers except with the prior approval in writing of the Authority which may attach such limitations, conditions, qualifications and exceptions thereto as it thinks fit.
 
-(3) Any bank which contravenes subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
+(3) Any bank which contravenes subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000.
 
 [2/84]
 
-### Types of numbered accounts
+56\. [Deleted by Act 23/2001 wef 18/07/2001]
 
-56\.—(1) Numbered accounts facilities offered by banks to their customers may extend to current accounts, deposit accounts, securities deposit accounts and safes, but shall not extend to credit facilities.
-
-(2) The owners of the numbered accounts shall only be known to such senior officers of the bank as the bank may decide.
-
-### Secrecy of numbered accounts
-
-57\.—(1) The officials of any bank operating numbered accounts on behalf of its customers or any person who by reason of his capacity or office has by any means access to the records of the bank, registers, correspondence or any other material with regard to numbered accounts shall keep absolute secrecy thereof in the interests of the bank’s customers.
-
-(2) The officials of any bank and other persons mentioned in subsection (1) shall not give, divulge or reveal any information whatsoever regarding the name or identity of the owner of a numbered account to any individual, corporation, bank, public administration, judicial or military authorities unless —
-
-(a) the owner of the numbered account or his personal representatives gives or give his or their permission to do so;
-
-(b) the owner is declared bankrupt;
-
-(c) a suit arises between the bank and the owner relating to a banking transaction; or
-
-(d) the owner is required to do so by order of a Judge of the High Court made for special cause for the purposes of any civil or criminal proceedings.
-
-[16/93]
-
-(3) Part IV of the Evidence Act (Cap. 97) shall not apply to numbered accounts.
-
-(4) Any person who contravenes this section shall be guilty of an offence and shall be liable on conviction to a fine of $50,000 or to imprisonment for a term not exceeding 3 years or to both.
-
-[2/84]
+57\. [Deleted by Act 23/2001 wef 18/07/2001]
 
 ## PART IX
 
@@ -1712,7 +2248,7 @@ the payment or transfer has the same effect it would have had if the proceedings
 
 60\.—(1) The Authority may, at any time by notice in theGazette, declare any day or days to be a bank holiday or holidays.
 
-(2) No bank shall do any business without the approval of the Authority on any day declared a bank holiday under subsection (1).
+(2) No bank in Singapore shall do any business without the approval of the Authority on any day declared a bank holiday under subsection (1).
 
 [2/84]
 
@@ -1748,9 +2284,21 @@ the payment or transfer has the same effect it would have had if the proceedings
 
 (a) under which they will be repaid, with or without interest or at a premium, and either on demand or at a time or in circumstances agreed by or on behalf of the persons making the payments and the bank receiving them; and
 
-(b) which are not referable to the provisions of property or services or to the giving of security.
+(b) which are not referable to the provision of property or services or to the giving of security,
 
-[2/84]
+[23/2001 wef 18/07/2001]
+
+but shall not include, in the case of a bank incorporated in Singapore, liabilities of the bank arising from loans —
+
+(i) granted by creditors whose claims are fully subordinated to the claims of all un-subordinated creditors; and
+
+[23/2001 wef 18/07/2001]
+
+(ii) the terms of which comply with the criteria for the treatment of the liabilities as capital in the computation of the bank’s capital adequacy ratio under section 10, whether or not the entire amount of such liabilities are treated in the computation as capital.
+
+[23/2001 wef 18/07/2001]
+
+[23/2001 wef 18/07/2001]
 
 (4) For the purposes of subsection (3)(b), money is paid on terms which are referable to the provisions of property or services or to the giving of security if, and only if —
 
@@ -1792,17 +2340,17 @@ the payment or transfer has the same effect it would have had if the proceedings
 
 (c) who has been a director of, or directly concerned in the management of, a bank licensed under this Act or which was licensed under any written law repealed by this Act which is being or has been wound up by a court or the licence of which has been revoked,
 
-shall not, without the consent in writing of the Authority, act or continue to act as the director, manager, secretary or other officer in any bank .
+shall not, without the consent in writing of the Authority, act or continue to act as the director, manager, secretary or other officer in any bank in Singapore.
 
 ### Offences by directors or managers
 
-66\.—(1) Any person being a director, managing director or manager of a bank who —
+66\.—(1) Any person being a director, managing director or manager of a bank in Singapore who —
 
 (a) fails to take all reasonable steps to secure compliance by a bank with the provisions of this Act or any other written law applicable to banks in Singapore; or
 
 (b) fails to take all reasonable steps to secure the accuracy and correctness of any statement submitted under this Act or of any other written law applicable to banks in Singapore,
 
-shall be guilty of an offence and shall, in respect of each offence, be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both.
+shall be guilty of an offence and shall, in respect of each offence, be liable on conviction to a fine not exceeding $125,000 or to imprisonment for a term not exceeding 3 years or to both.
 
 [2/84]
 
@@ -1812,7 +2360,7 @@ shall be guilty of an offence and shall, in respect of each offence, be liable o
 
 ### Offences by directors, employees and agents
 
-67\. Any director, manager, trustee, auditor, employee or agent of any bank who —
+67\. Any director, manager, trustee, auditor, employee or agent of any bank in Singapore who —
 
 (a) wilfully makes or causes to be made a false entry in any book of record or in any report, slip, document or statement of the business, affairs, transactions, conditions, assets or accounts of that bank;
 
@@ -1820,7 +2368,7 @@ shall be guilty of an offence and shall, in respect of each offence, be liable o
 
 (c) wilfully alters, abstracts, conceals or destroys an entry in any book of record or in any report, slip, document or statement of the business, affairs, transactions, conditions, assets or accounts of that bank, or wilfully causes any such entry to be altered, abstracted, concealed or destroyed,
 
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both.
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $125,000 or to imprisonment for a term not exceeding 3 years or to both.
 
 [2/84]
 
@@ -1836,7 +2384,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (d) any person who has assumed control of the business of a bank pursuant to a direction or order of the Authority under section 49(2)(c) or 50(b); or
 
-(e) any person appointed under section 44(2),
+(e) any person appointed under section 44A(3),
 
 as a result of anything done by him bona fide in the exercise of any power, or the performance of any function or duty, conferred or imposed by or under this Act.
 
@@ -1858,7 +2406,7 @@ as a result of anything done by him bona fide in the exercise of any power, or t
 
 ### General penalty
 
-71\. Any bank which contravenes or fails to comply with any provisions of this Act for which no penalty is expressly provided shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
+71\. Any bank which contravenes or fails to comply with any provisions of this Act for which no penalty is expressly provided shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
 
 ### Offences triable in District Court
 
@@ -1876,7 +2424,19 @@ as a result of anything done by him bona fide in the exercise of any power, or t
 
 (b) any remuneration and expenses payable by the bank to any person appointed under section 49(2)(b); and
 
-(c) any remuneration and expenses payable by the bank to the Authority or to any person employed or authorised by the Authority under section 3 to assist it in the control of and the carrying on of the business of the bank or to any other person who has assumed control of the business of the bank pursuant to a direction or order of the Authority under section 49(2)(c) or 50(b) or to any person appointed under section 44(2).
+(c) any remuneration and expenses payable by the bank to the Authority or to any person employed or authorised by the Authority under section 3 to assist it in the control of and the carrying on of the business of the bank or to any other person who has assumed control of the business of the bank pursuant to a direction or order of the Authority under section 49(2)(c) or 50(b) or to any person appointed under section 44A(3).
+
+### Power to refund, reduce, etc., penalty interest charge
+
+74A\. The Authority may, of its own motion, review any penalty interest charge imposed under section 38(7), 39(7), 40(3) or 77A(2A) and decide —
+
+(a) not to impose the penalty interest charge;
+
+(b) to reduce the penalty interest charge payable; or
+
+(c) where any penalty interest charge has been paid, to refund the whole or part of the amount paid.
+
+[23/2001 wef 18/07/2001]
 
 ### Operation of this Act not to affect Companies Act
 
@@ -1884,9 +2444,31 @@ as a result of anything done by him bona fide in the exercise of any power, or t
 
 (2) In case of conflict between the Companies Act and this Act, the provisions of this Act shall prevail unless otherwise provided in this Act.
 
+### Service of documents, etc.
+
+75A\.—(1) Any notice, order or document required or authorised by this Act to be served on any person may be served —
+
+(a) by delivering it to the person or to some adult member or employee of his family or household at his last known place of residence;
+
+(b) by leaving it at his usual or last known place of residence or business in an envelope addressed to the person;
+
+(c) by sending it by registered post addressed to the person at his usual or last known place of residence or business; or
+
+(d) in the case of a company, a partnership or body of persons —
+
+(i) by delivering it to the secretary or other like officer of the company, partnership or body of persons at its registered office or principal place of business; or
+
+(ii) by sending it by registered post addressed to the company, partnership or body of persons at its registered office or principal place of business.
+
+(2) Any notice, order or document sent by registered post to any person in accordance with subsection (1) shall be deemed to be duly served on the person at the time when the notice, order or document, as the case may be, would in the ordinary course of post be delivered.
+
+(3) When proving service of the notice, order or document referred to in subsection (2), it shall be sufficient to prove that the envelope containing the notice, order or document, as the case may be, was properly addressed, stamped and posted by registered post.
+
+[23/2001 wef 18/07/2001]
+
 ### Exemption
 
-76\. Unless otherwise expressly provided, this Act shall not apply to —
+76\. Nothing in this Act shall be construed so as to prevent any of the following persons from carrying on any activity or business for which he is registered or licensed under the following respective Act corresponding to that person:
 
 (a) any co-operative society registered under the Co-operative Societies Act (Cap. 62);
 
@@ -1964,7 +2546,7 @@ as a result of anything done by him bona fide in the exercise of any power, or t
 
 [28/93]
 
-(7) Any person who contravenes this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
+(7) Any person who contravenes this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000.
 
 [28/93]
 
@@ -1982,13 +2564,25 @@ as a result of anything done by him bona fide in the exercise of any power, or t
 
 [28/93]
 
+(2A) Without prejudice to the generality of subsection (1), regulations may be made for or with respect to —
+
+(a) the corporate governance and appointment of principal officers of banks in Singapore, their related corporations or other companies in which banks acquire or hold a major stake as described in section 32(7); and
+
+(b) the prohibition or restriction on mutual shareholdings held between the banks, related corporations or other companies referred to in paragraph (a).
+
+[23/2001 wef 18/07/2001]
+
 (3) Regulations made under this section may relate to all, or any class, category or description of persons or banks, and may make different provisions for different classes, categories or descriptions of persons or banks or to a particular person or bank or of general or specifically limited application.
 
 [28/93]
 
-(4) Except as otherwise expressly provided in this Act, the regulations may provide for the imposition of a fine not exceeding $5,000 or imprisonment for a term not exceeding 12 months or both for any contravention thereof.
+(4) Except as otherwise expressly provided in this Act, regulations made under this section may provide that any contravention thereof shall be an offence punishable —
 
-[28/93]
+(a) in the case of an individual, with a fine not exceeding $12,500 or with imprisonment for a term not exceeding 12 months or with both and, in the case of a continuing offence, with a further fine not exceeding $1,250 for every day or part thereof during which the offence continues after conviction; or
+
+(b) in any other case, with a fine not exceeding $25,000 and, in the case of a continuing offence, with a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction.
+
+[23/2001 wef 18/07/2001]
 
 ### Transitional licensing provisions
 
@@ -2166,6 +2760,218 @@ Dissolution of existing banks
 
 [28/93]
 
+SIXTH SCHEDULE
+
+Section 47
+
+Part I
+
+Further Disclosure Not Prohibited
+
+First column
+
+Second column
+
+Third column
+
+Purpose for which customer information may be disclosed 
+
+Persons to whom information may be disclosed 
+
+Conditions 
+
+1. Disclosure is permitted in writing by the customer or, if he is deceased, his appointed personal representative.
+
+Any person as permitted by the customer or, if he is deceased, his appointed personal representative.
+
+2. Disclosure is solely in connection with an application for a grant of probate or letters of administration in respect of a deceased customer’s estate.
+
+Any person whom the bank in good faith believes is entitled to the grant of probate or letters of administration.
+
+3. Disclosure is solely in connection with —
+
+All persons to whom the disclosure is necessary for the purpose specified in the first column.
+
+Note: Court may order the proceedings to be held in camera [see section 47(3) and (4)].
+
+(a) where the customer is an individual, the bankruptcy of the customer; or
+
+(b) where the customer is a body corporate, the winding up of the customer.
+
+4. Disclosure is solely with a view to the institution of, or solely in connection with, the conduct of proceedings —
+
+All persons to whom the disclosure is necessary for the purpose specified in the first column.
+
+Note: Court may order the proceedings to be held in camera [see section 47(3) and (4)].
+
+(a) between the bank and the customer or his surety relating to the banking transaction of the customer;
+
+(b) between the bank and 2 or more parties making adverse claims to money in an account of the customer where the bank seeks relief by way of interpleader; or
+
+(c) between the bank and one or more parties in respect of property, whether movable or immovable, in or over which some right or interest has been conferred or alleged to have been conferred on the bank by the customer or his surety.
+
+5. Disclosure is necessary for —
+
+Any police officer or public officer duly authorised under the specified written law to carry out the investigation or prosecution or to receive the complaint or report, or any court.
+
+(a) compliance with an order or request made under any specified written law to furnish information, for the purposes of an investigation or prosecution, of an offence alleged or suspected to have been committed under any written law; or
+
+(b) the making of a complaint or report under any specified written law for an offence alleged or suspected to have been committed under any written law.
+
+6. Disclosure is necessary for compliance with a garnishee order served on the bank attaching moneys in the account of the customer.
+
+All persons to whom the disclosure is required to be made under the garnishee order.
+
+7. Disclosure is necessary for compliance with an order of the Supreme Court or a Judge thereof pursuant to the powers conferred under Part IV of the Evidence Act (Cap. 97).
+
+All persons to whom the disclosure is required to be made under the court order.
+
+8. Where the bank is a bank incorporated outside Singapore, the disclosure is strictly necessary for compliance with a request made by its parent supervisory authority solely in connection with the supervision of the bank.
+
+The parent supervisory authority of the bank incorporated outside Singapore.
+
+(a) No deposit information shall be disclosed to the parent supervisory authority.
+
+(b) The parent supervisory authority is prohibited by the laws applicable to it from disclosing the customer information obtained by it to any person unless compelled to do so by the laws or courts of the country or territory where it is established.
+
+9. Disclosure is in compliance with the provisions of this Act, or any notice or directive issued by the Authority to banks.
+
+The Authority or any person authorised or appointed by the Authority.
+
+Part II
+
+Further Disclosure Prohibited
+
+First column
+
+Second column
+
+Third column
+
+Purpose for which customer information may be disclosed 
+
+Persons to whom information may be disclosed 
+
+Conditions 
+
+1. Disclosure is solely in connection with the performance of duties as an officer, or a professional adviser of the bank.
+
+Any —
+
+(a) officer of the bank in Singapore;
+
+(b) officer designated in writing by the head office of the bank; or
+
+(c) auditor, lawyer, consultant or other professional adviser appointed or engaged by the bank under a contract for service.
+
+2. Disclosure is solely in connection with the conduct of internal audit of the bank or the performance of risk management.
+
+In the case of —
+
+(a) a bank incorporated outside Singapore —
+
+(i) the head office or parent bank of the bank;
+
+(ii) any branch of the bank outside Singapore designated in writing by the head office of the bank; or
+
+(iii) any related corporation of the bank designated in writing by the head office of the bank; or
+
+(b) a bank incorporated in Singapore —
+
+(i) the parent bank; or
+
+(ii) any related corporation of the bank designated in writing by the head office of the bank.
+
+3. Disclosure is solely in connection with the performance of operational functions of the bank where such operational functions have been out-sourced.
+
+Any person including the head office of the bank or any branch thereof outside Singapore which is engaged by the bank to perform the out-sourced functions.
+
+If any out-sourced function is to be performed outside Singapore, the disclosure shall be subject to such conditions as may be specified in a notice issued by the Authority or otherwise imposed by the Authority.
+
+4. Disclosure is solely in connection with —
+
+Any person participating or otherwise involved in the merger, acquisition or issue, or proposed merger, acquisition or issue, including any of his lawyers or other professional advisers (whether or not the merger or acquisition is subsequently entered into or completed).
+
+(a) the merger or proposed merger of the bank or its financial holding company with another company; or
+
+(b) any acquisition or issue, or proposed acquisition or issue, of any part of the share capital of the bank or its financial holding company,
+
+whether or not the merger or acquisition is subsequently entered into or completed.
+
+5. Disclosure is solely in connection with the restructure, transfer or sale, or proposed restructure, transfer or sale, of credit facilities (whether or not the restructure, transfer or sale is subsequently entered into or completed).
+
+Any transferee, purchaser or any other person participating or otherwise involved in the restructure, transfer or sale, or proposed restructure, transfer or sale, including any of his lawyers or other professional advisers (whether or not the restructure, transfer or sale is subsequently entered into or completed).
+
+No customer information, other than information relating to the relevant credit facilities, shall be disclosed.
+
+6. In the case of a customer who has been issued with a credit or charge card by a bank in Singapore, disclosure is strictly necessary for notification of the suspension or cancellation of the card by the bank by reason of the customer’s default in payment to the bank.
+
+Any financial institution in Singapore which issues credit or charge cards.
+
+No customer information, other than information relating to the following, may be disclosed:
+
+(a) the customer’s name and identity;
+
+(b) the amount of the debt outstanding on the customer’s credit or charge card;
+
+(c) the date of suspension or cancellation of the customer’s credit or charge card, as the case may be.
+
+7. Disclosure is strictly necessary —
+
+Any —
+
+(a) for the collation, synthesis or processing of customer information by the credit bureau for the purposes of the assessment of the credit-worthiness of the customers of banks; or
+
+(a) credit bureau of which the bank is a member;
+
+(a) No deposit information shall be disclosed.
+
+(b) for the assessment, by other members of the credit bureau specified in the second column, of the credit-worthiness of the customers of banks.
+
+(b) other member of the credit bureau that is —
+
+(b) The disclosure by any credit bureau to any person referred to in paragraph (b) of the second column shall be subject to such conditions as may be specified in a notice issued by the Authority or otherwise imposed by the Authority.
+
+(i) a bank or merchant bank; or
+
+(ii) a person, or a person belonging to a class of persons, recognised by the Authority, by notification published in theGazette, as authorised to receive the information,
+
+where that member receives such information from the credit bureau.
+
+8. Disclosure is strictly necessary for the assessment of the credit-worthiness of the customer in connection with or relating to a bona fide commercial transaction or a prospective commercial transaction.
+
+Any other bank or merchant bank in Singapore.
+
+No customer information, other than information of a general nature and not related to the details of the customer’s account with the bank, shall be disclosed.
+
+9. Disclosure is solely in connection with the promotion, to customers of the bank in Singapore, of financial products and services made available in Singapore by any financial institution specified in the second column.
+
+Any financial institution in Singapore which is licensed or otherwise regulated by the Authority
+
+No customer information, other than the customer’s name, identity, address, and contact number shall be disclosed.
+
+Part III
+
+Interpretation
+
+In this Schedule, unless the context otherwise requires —
+
+“appointed personal representative”, in relation to a deceased person, means a person appointed as executor or administrator of the estate of the deceased person;
+
+“credit bureau” means a credit bureau recognised as such by the Authority by notification in theGazettefor the purposes of this Schedule;
+
+“lawyer” means an advocate and solicitor of the Supreme Court of Singapore, or any person who is duly authorised or registered to practise law in a country or territory other than Singapore by a foreign authority having the function conferred by law of authorising or registering persons to practise law in that country or territory;
+
+“merchant bank” means a merchant bank approved as a financial institution under section 28 of the Monetary Authority of Singapore Act (Cap. 186);
+
+“public officer” includes any officer of a statutory board;
+
+“specified written law” means the Companies Act (Cap. 50), the Criminal Procedure Code (Cap. 68), the Goods and Services Tax Act (Cap. 117A), the Income Tax Act (Cap. 134), the Internal Security Act (Cap. 143), the Kidnapping Act (Cap. 151) and the Prevention of Corruption Act (Cap. 241);
+
+“surety”, in relation to a customer of a bank, includes any person who has given the bank security for the liability of the customer by way of a mortgage or a charge.
+
+[23/2001 wef 18/07/2001]
+
 ## LEGISLATIVE HISTORY
 
 Banking Act
@@ -2232,6 +3038,11 @@ This Legislative History is provided for the convenience of users of the Banking
 ||Date of commencement|13 September 1999|
 |13.|**1999 Revised Edition—Banking Act**|
 ||Date of operation|30 December 1999|
+|14.|**Act 23 of 2001—Banking (Amendment) Act 2001**|
+||Date of First Reading|19 April 2001|
+|||(Bill No. 21/2001 published on 20 April 2001)|
+||Date of Second and Third Readings|16 May 2001|
+||Date of commencement|18 July 2001|
 ## COMPARATIVE TABLE
 
 Banking Act
