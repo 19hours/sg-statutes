@@ -260,7 +260,7 @@
 
 - [104 Registration of patent agents](#Registration-of-patent-agents)
 
-- [105 Persons entitled to describe themselves as patent agents](#Persons-entitled-to-describe-themselves-as-patent-agents)
+- [105 Persons entitled to act as patent agents, etc.](#Persons-entitled-to-act-as-patent-agents-etc)
 
 [**Part XX MISCELLANEOUS AND GENERAL**](#Part-XX)
 
@@ -294,7 +294,7 @@
 
 (CHAPTER 221)
 
-(Original Enactment: Act 21 of 1994)
+(Original Enactment: 21 of 1994)
 
 REVISED EDITION 1995
 
@@ -988,7 +988,9 @@ PROVISIONS AS TO PATENTS AFTER GRANT
 
 [30/2001 wef 17/10/2001]
 
-(3) The Registrar shall, at the same time as he publishes a notice under subsection (1) (b) in relation to a patent, publish the specification of the patent, the names of the proprietor and (if different) the inventor and any other matters (including the prescribed information under sections 29 and 30) constituting or relating to the patent which in the Registrar’s opinion it is desirable to publish.
+(2) [Deleted by Act 30/2001 wef 17/10/2001]
+
+(3) The Registrar shall, at the same time as he publishes a notice under subsection (1)(b) in relation to a patent, publish the specification of the patent, the names of the proprietor and (if different) the inventor and any other matters (including the prescribed information under sections 29 and 30) constituting or relating to the patent which in the Registrar’s opinion it is desirable to publish.
 
 ### Term of patent
 
@@ -2142,59 +2144,115 @@ he shall, subject to this section, be guilty of an offence and shall be liable o
 
 [3/2001 wef 01/04/2001]
 
-## PART XIX1
+## PART XIX
 
 PATENT AGENTS
 
-1(1) No date has been appointed for the coming into operation of section 104 and 105(1) to (6), (8) and (9).
-
-(2) Section 105(7) was brought into operation on 23rd February 1995 —SeeG.N. S 36/95.
+[30/2001 wef 02/01/2002]
 
 ### Registration of patent agents
 
-104\.—(1) The Minister may make rules requiring the keeping of a register of persons who act as agent for others for the purposes of applying for or obtaining patents.
+104\.—(1) The Minister may make rules for the registration of individuals as patent agents.
 
-(2) The rules may contain such provision as the Minister thinks fit regulating the registration of persons and may, in particular, require the payment of such fees as may be prescribed and authorise in prescribed cases the erasure from the register of the name of any person registered in it, or the suspension of the registration of any person.
+(2) Without prejudice to the generality of subsection (1), the rules may provide —
 
-(3) The rules may delegate the keeping of the register to another person, and may confer on that person such functions, including disciplinary functions, as may be prescribed.
+(a) for the keeping, by such person as the Minister may determine, of a register of patent agents;
 
-(4) Such rules may provide that a contravention of the rules shall be an offence and may provide penalties not exceeding a fine of $5,000 or imprisonment for a term not exceeding one year or both.
+(b) for the form and manner of application for registration as a patent agent, the qualifications and other requirements for registration, the fees payable for registration, and the conditions of registration;
 
-### Persons entitled to describe themselves as patent agents
+(c) for the issue of practising certificates to registered patent agents;
 
-105\.—(1) An individual who is not a registered patent agent shall not —
+(d) for the correction of errors and updating of entries in the register of patent agents; and
 
-(a) carry on a business (otherwise than in partnership) under any name or other description which contains the words “patent agent” or “patent attorney”; or
+(e) for transitional matters in relation to the registration of individuals as patent agents, and exclude or vary the operation of this Act in relation to such transitional matters.
 
-(b) in the course of a business otherwise describe himself or permit himself to be described as a “patent agent” or “patent attorney”.
+(3) The rules may make provision to regulate the professional conduct of registered patent agents and their practice and, for that purpose, may make provision for and in relation to all or any of the following:
 
-(2) A partnership shall not —
+(a) making complaints against registered patent agents and hearing and deciding upon such complaints;
 
-(a) carry on a business under any name or other description which contains the words “patent agent” or “patent attorney”; or
+(b) imposing penalties on registered patent agents, including issuing a reprimand, and suspending or cancelling registration;
 
-(b) in the course of a business otherwise describe itself or permit itself to be described as a firm of “patent agents” or “patent attorneys”,
+(c) summoning witnesses;
 
-unless all the partners are registered patent agents or the partnership satisfies such conditions as may be prescribed for the purposes of this section.
+(d) receiving evidence from persons on oath or affirmation;
 
-(3) A body corporate shall not —
+(e) administering oaths or affirmations to persons giving evidence;
 
-(a) carry on a business (otherwise than in partnership) under any name or other description which contains the words “patent agent” or “patent attorney”; or
+(f) requiring persons to produce documents or articles;
 
-(b) in the course of a business otherwise describe itself or permit itself to be described as a “patent agent” or “patent attorney”,
+(g) restoring any registration that has been cancelled and lifting the suspension imposed on any registration.
 
-unless all the directors of the body corporate are registered patent agents or the body corporate satisfies such conditions as may be prescribed for the purposes of this section.
+(4) The rules may provide that a contravention of the rules shall be an offence and may provide penalties not exceeding a fine of $5,000 or imprisonment for a term not exceeding 12 months or to both.
 
-(4) A person who contravenes this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year or to both.
+### Persons entitled to act as patent agents, etc.
 
-(5) This section shall not be construed as prohibiting an advocate and solicitor from taking part in proceedings relating to patents and applications for patents and, in particular, shall not derogate from section 94 as it applies to advocates and solicitors.
+105\.—(1) An individual shall not carry on a business, practise or act as a patent agent unless he is a registered patent agent, or an advocate and solicitor, who has in force a practising certificate.
 
-(6) A registered patent agent shall not be guilty of an offence under section 33 of the Legal Profession Act [Cap. 161] by reason only of the preparation by him for use in proceedings on appeal under this Act to the court from the Registrar of any document other than a deed.
+(2) A partnership shall not carry on a business, practise or act as patent agents unless at least one partner is a registered patent agent, or an advocate and solicitor, who has in force a practising certificate.
 
-(7) No offence is committed under section 33 of the Legal Profession Act by any person by reason only of the preparation by him of a document (other than a deed) for use in proceedings before the Registrar in relation to any patent or application for a patent.
+(3) A body corporate shall not carry on a business, practise or act as a patent agent unless at least one director is a registered patent agent, or an advocate and solicitor, who has in force a practising certificate.
 
-(8) Where this section would be contravened by the use of the words “patent agent” or “patent attorney” in reference to an individual, partnership or body corporate, it is equally contravened by the use of other expressions in reference to that person, or his business or place of business, which are likely to be understood as indicating that he is entitled to be described as a “patent agent” or “patent attorney”.
+(4) For the purposes of this section, a person is taken to carry on a business, practise or act as a patent agent if, and only if, the person does, or undertakes to do, on behalf of someone else, any of the following in Singapore for gain:
 
-(9) In this section, “director”, in relation to a body corporate whose affairs are managed by its members, means any member of the body corporate.
+(a) applying for or obtaining patents in Singapore or anywhere else;
+
+(b) preparing specifications or other documents for the purposes of this Act or the patent law of another country; or
+
+(c) giving advice (other than advice of a scientific or technical nature) about the validity, or infringement, of patents.
+
+(5) An individual shall not —
+
+(a) carry on a business under any name or other description which contains the words “patent agent”; or
+
+(b) in the course of a business otherwise describe himself, hold himself out or permit himself to be described or held out as a “patent agent”,
+
+unless he is a registered patent agent who has in force a practising certificate.
+
+(6) A partnership shall not —
+
+(a) carry on a business under any name or other description which contains the words “patent agent”; or
+
+(b) in the course of a business otherwise describe itself, hold itself out or permit itself to be described or held out as a firm of “patent agents”,
+
+unless at least one partner is a registered patent agent who has in force a practising certificate.
+
+(7) A body corporate shall not —
+
+(a) carry on a business under any name or other description which contains the words “patent agent”; or
+
+(b) in the course of a business otherwise describe itself, hold itself out or permit itself to be described or held out as a “patent agent”,
+
+unless at least one director is a registered patent agent who has in force a practising certificate.
+
+(8) Any person who contravenes this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+(9) Where subsection (5), (6) or (7) would be contravened by the use of the words “patent agent” in reference to an individual, partnership or body corporate, it is equally contravened by the use of the expression “patent attorney” in reference to that person, or his business or place of business, or any other expression in reference thereto which is likely to be understood as indicating that he is entitled to be described as a “patent agent”.
+
+(10) An individual does not contravene subsection (1) in respect of anything done, or undertaken to be done, by that individual in the capacity of employee for —
+
+(a) in any case, the individual’s employer; or
+
+(b) if the individual’s employer is a member of a related company group, another member of the group.
+
+(11) A legal officer does not commit an offence against subsection (1) in respect of anything done, or undertaken to be done, by him on behalf of the Government.
+
+(12) A body corporate that is a member of a related company group does not contravene subsection (3) in respect of anything done, or undertaken to be done, by the body corporate for another member of the group.
+
+(13) This section shall not be construed as prohibiting an advocate and solicitor from taking part in proceedings relating to patents and applications for patents and, in particular, shall not derogate from section 94 as it applies to advocates and solicitors.
+
+(14) No offence is committed under section 33 of the Legal Profession Act (Cap.161) by any person by reason only of the preparation by him of a document (other than a deed) for use in proceedings before the Registrar in relation to any patent or application for a patent.
+
+(15) For the purposes of this section —
+
+“director”, in relation to a body cororate whose affairs are managed by its members, means any member of the body corporate;
+
+“practising certificate” means —
+
+(a) in relation to a registered patent agent, a practising certificate issued to him under rules made pursuant to section 104; or
+
+(b) in relation to an advocate and solicitor, a practising certificate issued to him under section 25 of the Legal Profession Act; and
+
+“related company group” means a group of 2 or more corporations within the meaning of the Companies Act (Cap. 50) which are related to each other in accordance with section 6 of that Act.
 
 ## PART XX
 
@@ -2385,3 +2443,8 @@ This Legislative History is provided for the convenience of users of the Patents
 |||(Bill No. 28/2001 published on 26 July 2001)|
 ||Date of Second and Third Readings|13 August 2001|
 ||Date of commencement|17 October 2001 (except sections 6 and 14)|
+|6.|**Act 30 of 2001—Patents (Amendment) Act 2001**|
+||Date of First Reading|25 July 2001|
+|||(Bill No. 28/2001 published on 26 July 2001)|
+||Date of Second and Third Readings|13 August 2001|
+||Date of commencement|2 February 2002 (section 14)|
