@@ -828,6 +828,10 @@ but does not include a layout-design or an integrated circuit within the meaning
 
 “broadcast” means broadcast by wireless telegraphy, and “broadcasting” shall have a corresponding meaning;
 
+“broadcasting licence” and “broadcasting licensee” have the same meanings as in section 2(1) of the Broadcasting Act (Cap. 297);
+
+[34/2002 wef 01/01/2003]
+
 “building” includes a structure of any kind;
 
 “cable programme” means a programme which is included in a cable programme service;
@@ -6230,6 +6234,12 @@ This Legislative History is provided for the convenience of users of the Copyrig
 |||(Bill No. 1/2001 published on 13 January 2001)|
 ||Date of Second and Third Readings|22 February 2001|
 ||Date of commencement|1 April 2001|
+|13.|**Act 34 of 2002—Media Development Authority of Singapore Act 2002**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|1 October 2002|
+|||(Bill No. 37/2002 published on 2 October 2002)|
+||Date of Second and Third Readings|31 October 2002|
+||Date of commencement|1 January 2003|
 ## COMPARATIVE TABLE
 
 Copyright Act
