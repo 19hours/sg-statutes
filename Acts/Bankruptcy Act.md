@@ -228,7 +228,9 @@
 
 [**Composition or scheme of arrangement**](#Composition-or-scheme-of-arrangement)
 
-- [95 Creditors may accept composition or arrangement subject to court’s approval](#Creditors-may-accept-composition-or-arrangement-subject-to-court’s-approval)
+- [95 Creditors may accept composition or scheme by special resolution](#Creditors-may-accept-composition-or-scheme-by-special-resolution)
+
+- [95A Annulment of bankruptcy order by certificate of Official Assignee where composition or scheme accepted by creditors](#Annulment-of-bankruptcy-order-by-certificate-of-Official-Assignee-where-composition-or-scheme-accepted-by-creditors)
 
 - [96 Effect of composition or scheme](#Effect-of-composition-or-scheme)
 
@@ -293,6 +295,8 @@
 [**Part VIII ANNULMENT AND DISCHARGE**](#Part-VIII)
 
 - [123 Court’s power to annul bankruptcy order](#Court’s-power-to-annul-bankruptcy-order)
+
+- [123A Annulment of bankruptcy order by certificate of Official Assignee where debts and expenses fully paid](#Annulment-of-bankruptcy-order-by-certificate-of-Official-Assignee-where-debts-and-expenses-fully-paid)
 
 - [124 Discharge by court](#Discharge-by-court)
 
@@ -366,7 +370,7 @@
 
 - [156 Death of witness](#Death-of-witness)
 
-- [157 Service of notices](#Service-of-notices)
+- [157 Service of summons, notice, etc.](#Service-of-summons-notice-etc)
 
 - [158 Formal defect not to invalidate proceedings or acts](#Formal-defect-not-to-invalidate-proceedings-or-acts)
 
@@ -383,6 +387,8 @@
 - [164 Unclaimed and undistributed moneys](#Unclaimed-and-undistributed-moneys)
 
 - [165 Insolvency Assistance Fund](#Insolvency-Assistance-Fund)
+
+- [165A Composition of offences](#Composition-of-offences)
 
 - [166 Rules](#Rules)
 
@@ -902,7 +908,7 @@ Moratorium for insolvent debtor
 
 (ii) no other proceedings, execution or other legal process may be commenced or continued against the firm or its property or against the person or property of any partner in the firm, without the leave of the court.
 
-(4) An interim order shall cease to have effect 28 daysafter the making thereof unless the court otherwise directs.
+(4) An interim order shall cease to have effect 42 days after the making thereof unless the court otherwise directs.
 
 ### Nominee
 
@@ -915,6 +921,10 @@ Moratorium for insolvent debtor
 (b) an advocate and solicitor; or
 
 (c) such other person as the Minister may, by order published in theGazette, prescribe.
+
+(3) The Minister may make rules prescribing the scale of fees to be charged by nominees assisting debtors in respect of voluntary arrangements.
+
+[37/1999 wef 15/09/1999]
 
 ### Effect of application
 
@@ -1712,39 +1722,57 @@ shall be held by the landlord or other person in trust for the bankrupt as part 
 
 Composition or scheme of arrangement
 
-### Creditors may accept composition or arrangement subject to court’s approval
+### Creditors may accept composition or scheme by special resolution
 
-95\.—(1) Where a bankruptcy order has been made, the creditors who have proved their debts may, if they think fit, at a general meeting of creditors, by special resolution, resolve to accept a proposal for a composition in satisfaction of the debts due to them under the bankruptcy, or for a scheme of arrangement of the bankrupt’s affairs.
+95\.—(1) Where a bankruptcy order has been made, the creditors who have proved their debts may, if they think fit —
 
-(2) The composition or scheme shall not be binding on the creditors unless it is approved by the court.
+(a) at a general meeting of creditors; or
 
-(3) Any creditor who has proved his debt may assent to or dissent from the composition or scheme by a letter addressed to the Official Assignee in the prescribed form, and attested by a witness, and sent or posted so as to be received by the Official Assignee not later than the day preceding the meeting, and a creditor so assenting or dissenting shall be taken as being present and voting at that meeting.
+(b) in writing,
 
-(4) The meeting shall be summoned by the Official Assignee by not less than 7 days’ notice.
+by special resolution, resolve to accept a proposal for a composition in satisfaction of the debts due to them under the bankruptcy, or for a scheme of arrangement of the bankrupt’s affairs.
 
-(5) The notice shall state generally the terms of the proposal and shall be accompanied by a report of the Official Assignee thereon.
+(2) A meeting under subsection (1)(a) shall be summoned by the Official Assignee by not less than 21 days’ notice.
 
-(6) The bankrupt or the Official Assignee may, after the composition or scheme is accepted by the creditors, apply to the court to approve it, and notice of the time appointed for the hearing of the application shall be given as prescribed.
+(3) A special resolution in writing under subsection (1)(b) shall be sought by a notice from the Official Assignee giving the creditors 21 days to reply.
 
-(7) The court shall, before approving a composition or scheme, consider the report of the Official Assignee as to the terms of the composition or scheme and as to the conduct of the bankrupt, and shall hear any objection which may be made by or on behalf of any creditor.
+(4) Any notice under this section shall state generally the terms of the proposal and shall be accompanied by a report of the Official Assignee thereon.
 
-(8) If the court is of the opinion that the terms of the composition or scheme are not reasonable or are not calculated to benefit the general body of creditors, the court may, in its discretion, refuse to approve the composition or scheme.
+(5) Where a special resolution is sought at a general meeting of creditors under subsection (1)(a), any creditor who has proved his debt may assent to or dissent from the composition or scheme by a letter addressed to the Official Assignee in the prescribed form, and attested by a witness, and sent or posted so as to be received by the Official Assignee not later than 3 days preceding the meeting, and a creditor so assenting or dissenting shall be taken as having been present and voting at that meeting.
 
-(9) If the court approves the composition or scheme, the approval may be testified by the seal of the court being attached to the instrument containing the terms of the composition or scheme, or by the terms being embodied in an order of the court.
+(6) Where a special resolution is sought in writing under subsection (1)(b), any creditor who has proved his debt shall assent to or dissent from the composition or scheme by a letter addressed to the Official Assignee, and sent or posted so as to be received by the Official Assignee not later than 21 days from the date of the Official Assignee’s notice.
 
-(10) A composition or scheme accepted and approved pursuant to this section shall be binding on all the creditors so far as relates to any debts due to them from the bankrupt and provable in bankruptcy.
+(7) The composition or scheme shall not be binding on the creditors unless the bankruptcy order to which it relates is annulled under section 95A.
 
-(11) A certificate of the Official Assignee that a composition or scheme has been duly accepted and approved shall, in the absence of fraud, be conclusive as to its validity.
+(8) For the purposes of this section, “special resolution” means —
 
-(12) The provisions of a composition or scheme under this section may be enforced by the court on an application by any person interested, and any contravention of or failure to comply with of an order of the court made on such an application shall be deemed to be a contempt of court.
+(a) in relation to a special resolution sought under subsection (1)(a), a resolution passed at a general meeting of creditors by a majority in number and at least three-fourths in value of the creditors who have proved their debts, taking those creditors who do not attend personally or by proxy at the meeting as having voted in favour of the resolution; and
 
-(13) If the court approves the composition or scheme, it may annul the bankruptcy order and vest the property of the bankrupt in him or in such other person as the court appoints on such terms and subject to such conditions as the court may impose.
+(b) in relation to a special resolution sought under subsection (1)(b), a resolution approved in writing by a majority in number and at least three-fourths in value of the creditors who have proved their debts, taking those creditors who fail to assent to or dissent from the composition or scheme in writing as having assented to the resolution.
 
-(14) If default is made in payment of any instalment due under the composition or scheme, or if the court is satisfied that the composition or scheme cannot, in consequence of legal difficulties or for any sufficient cause, proceed without injustice or undue delay to the creditors or to the bankrupt, or that the approval of the court was obtained by fraud, the court may, if it thinks fit, on an application by the Official Assignee or any creditor, annul the composition or scheme, but without prejudice to the validity of any sale, disposition or payment duly made or thing duly done under or in pursuance of the composition or scheme.
+[37/1999 wef 15/09/1999]
+
+### Annulment of bankruptcy order by certificate of Official Assignee where composition or scheme accepted by creditors
+
+95A\.—(1) Where a composition or scheme is accepted by the creditors by a special resolution under section 95, the Official Assignee may annul the bankruptcy order by issuing a certificate of annulment.
+
+(2) Notice of every annulment under subsection (1) shall be given to the Registrar and be published in theGazetteand advertised in any local newspaper.
+
+(3) The Official Assignee shall, upon the application of a bankrupt or his creditor or any other interested person, issue to the applicant a copy of the certificate of annulment upon the payment of the prescribed fee.
+
+(4) A certificate of annulment issued under subsection (1) shall be binding on all the creditors so far as it relates to any debts due to them from the bankrupt and provable in bankruptcy.
+
+(5) The provisions of a composition or scheme under this section may be enforced by the court on an application by any person interested, and any contravention of or failure to comply with an order of the court made on such an application shall be deemed to be a contempt of court.
+
+(6) If default is made in payment of any instalment due under the composition or scheme, or if the court is satisfied that the composition or scheme cannot, in consequence of legal difficulties or for any sufficient cause, proceed without injustice or undue delay to the creditors or to the bankrupt, or that the acceptance of the proposal by the creditors was obtained by fraud, the court may, if it thinks fit, on an application by the Official Assignee or any creditor, annul the composition or scheme by revoking the certificate of annulment, but without prejudice to the validity of any sale, disposition or payment duly made or thing duly done under or in pursuance of the composition or scheme.
+
+(7) Where the Official Assignee annuls a bankruptcy order under this section, any sale or other disposition of property, payment duly made or other things duly done by or under the authority of the Official Assignee or by the court shall be valid except that the property of the bankrupt shall revert to the bankrupt or, on an application by any person interested, vest in such person as the court may appoint and on such terms as the court may direct, and the court may include in its order such supplemental provisions as may be authorised by the rules.
+
+[37/1999 wef 15/09/1999]
 
 ### Effect of composition or scheme
 
-96\. Notwithstanding the acceptance and approval of a composition or scheme, such composition or scheme shall not be binding on any creditor so far as regards a debt or liability from which, under this Act, the bankrupt would not be discharged by an order of discharge in bankruptcy unless the creditor assents to the composition or scheme.
+96\. A composition or scheme accepted under section 95 shall not be binding on any creditor so far as regards a debt or liability from which, under this Act, the bankrupt would not be discharged by an order of discharge in bankruptcy unless the creditor assents to the composition or scheme.
 
 Effect of bankruptcy on antecedent transactions
 
@@ -2208,6 +2236,20 @@ ANNULMENT AND DISCHARGE
 
 (3) Where a court annuls a bankruptcy order under this section, any sale or other disposition of property, payment made or other things duly done by or under the authority of the Official Assignee or by the court shall be valid except that the property of the bankrupt shall vest in such person as the court may appoint or, in default of any such appointment, revert to the bankrupt on such terms as the court may direct, and the court may include in its order such supplemental provisions as may be authorised by the rules.
 
+### Annulment of bankruptcy order by certificate of Official Assignee where debts and expenses fully paid
+
+123A\.—(1) The Official Assignee may issue a certificate annulling a bankruptcy order if it appears to the Official Assignee that, to the extent required by the rules, the debts which have been proved and the expenses of the bankruptcy have all, since the making of the order, been paid.
+
+(2) Notice of every certificate of annulment under subsection (1) shall be given to the Registrar and be published in theGazetteand advertised in any local newspaper.
+
+(3) The Official Assignee shall, upon an application of a bankrupt or his creditor or any other interested person, issue to the applicant a copy of the certificate of annulment upon the payment of the prescribed fee.
+
+(4) A certificate of annulment issued under subsection (1) shall be binding on all the creditors so far as it relates to any debts due to them from the bankrupt and provable in bankruptcy.
+
+(5) Where the Official Assignee annuls a bankruptcy order under this section, any sale or other disposition of property, payment made or other things duly done by or under the authority of the Official Assignee or by the court shall be valid except that the property of the bankrupt shall revert to the bankrupt or, on an application by any person interested, vest in such person as the court may appoint and on such terms as the court may direct, and the court may include in its order such supplemental provisions as may be authorised by the rules.
+
+[37/1999 wef 15/09/1999]
+
 ### Discharge by court
 
 124\.—(1) The Official Assignee, the bankrupt or any other person having an interest in the matter may, at any time after the making of a bankruptcy order, apply to the court for an order of discharge.
@@ -2272,7 +2314,7 @@ as may be specified in the order.
 
 (2) The Official Assignee shall not issue a certificate discharging a bankrupt from bankruptcy under subsection (1) unless —
 
-(a) a period of 5 years has lapsed since the date of commencement of the bankruptcy; and
+(a) a period of 3 years has lapsed since the date of commencement of the bankruptcy; and
 
 (b) the debts which have been proved in bankruptcy do not exceed $500,0001, or such other sum as may be prescribed.
 
@@ -2702,9 +2744,21 @@ shall, if it appears to be sealed with the seal of the court or purports to be s
 
 156\. In case of the death of the debtor or bankrupt, as the case may be, or of his spouse, or of a witness whose evidence has been received by any court in any proceedings under this Act, the deposition of the person so deceased, purporting to be sealed with the seal of the court, or a copy thereof purporting to be so sealed, shall be admitted as evidence of the matters therein deposed to.
 
-### Service of notices
+### Service of summons, notice, etc.
 
-157\. All notices and other documents for the service of which no special mode is prescribed may be sent by prepaid registered post to the last known place of residence or business of the person to be served therewith.
+157\.—(1) Where, by any provision of this Act or any rules made thereunder, any summons, notice or document is required or authorised to be served on any person, it may be served —
+
+(a) by delivering it to him;
+
+(b) by delivering it to any adult person residing at his usual or last known place of residence or employed at his last known place of business;
+
+(c) by leaving it at his usual or last known place of residence or business; or
+
+(d) by forwarding it by registered post in a cover addressed to him at his usual or last known place of residence or business or at any address furnished by him.
+
+(2) In proving service by registered post, it shall be sufficient to prove that the registered cover containing the summons, notice or document was duly addressed and posted.
+
+[37/1999 wef 15/09/1999]
 
 ### Formal defect not to invalidate proceedings or acts
 
@@ -2799,6 +2853,14 @@ he shall forthwith pay those moneys to the Official Assignee to be placed to the
 (5) No moneys from the Fund shall be applied for any proceedings where, in the opinion of the Official Assignee, there is no reasonable ground for taking, defending, continuing or being a party to the proceedings or where there are sufficient moneys for such purpose in the bankrupt’s estate.
 
 (6) The Minister may from time to time pay such sums of moneys in the Fund into the Consolidated Fund as he may determine.
+
+### Composition of offences
+
+165A\.—(1) The Official Assignee may, in his discretion, compound any such offence under this Act or any rules made thereunder as may be prescribed as being an offence which may be compounded by collecting from the person reasonably suspected of having committed the offence a sum not exceeding $1,000.
+
+(2) The Minister may make rules prescribing the offences which may be compounded.
+
+[37/1999 wef 15/09/1999]
 
 ### Rules
 
@@ -2925,3 +2987,8 @@ This Legislative History is provided for the convenience of users of the Bankrup
 ||Date of commencement|1 May 1999|
 |5.|**G. N. No. S 301/1999—Bankruptcy (Variation of Minimum Amount of Debt for Petition for Bankruptcy) Order 1999**|
 ||Date of commencement|3 July 1999|
+|6.|**Act 37 of 1999—Bankruptcy (Amendment) Act 1999**|
+||Date of First Reading|3 August 1999|
+|||(Bill No. 26/99 published on 4 August 1999)|
+||Date of Second and Third Readings|18 August 1999|
+||Date of commencement|15 September 1999|
