@@ -172,7 +172,7 @@
 
 - [76 Repeal and consequential amendments](#Repeal-and-consequential-amendments)
 
-[**FIRST SCHEDULE Diseases and conditions**](#FIRST-SCHEDULE-Diseases-and-conditions)
+[**FIRST SCHEDULE Diseases and Conditions**](#FIRST-SCHEDULE-Diseases-and-Conditions)
 
 [**SECOND SCHEDULE Amendments to the Poisons Act (Chapter 234)**](#SECOND-SCHEDULE-Amendments-to-the-Poisons-Act-Chapter-234)
 
@@ -188,19 +188,19 @@ REVISED EDITION 1985
 
 (30th March 1987)
 
-An Act to make provisions with respect to medicinal products and medical advertisements and matters connected therewith; and to make consequential amendments to the Poisons Act (Chapter 234).
+An Act to make provisions with respect to medicinal products and medical advertisements and matters connected therewith; and to make consequential amendments to the Poisons Act [Chapter 234].
 
 [24th June 1977: Parts I and II ;
 
 24th June 1977: Part III, sections 30, 31, 34, 35 ;
 
-24th June 1977: Part V ;
+24th June 1977: Part V;
 
 24th June 1977: Part VII, sections 54 to 75 ;
 
-15th November 1977: Part VI ;
+15th November 1977: Part VI;
 
-16th January 1981: Part IV ]
+16th January 1981: Part IV]
 
 ## PART I
 
@@ -636,37 +636,37 @@ FURTHER PROVISIONS RELATING TO DEALINGS WITH MEDICINAL PRODUCTS
 
 ### General sale list
 
-23\.\*—(1) The Minister may by order specify descriptions or classes of medicinal products, as being products which in his opinion can with reasonable safety be sold or supplied otherwise than by or under the supervision of a pharmacist.
+23\.1—(1) The Minister may by order specify descriptions or classes of medicinal products, as being products which in his opinion can with reasonable safety be sold or supplied otherwise than by or under the supervision of a pharmacist.
 
 (2) In this Act any reference to a medicinal product on a general sale list is a reference to a medicinal product of a description, or falling within a class, specified in an order under this section which is for the time being in force.
 
-\*This section was not in operation when this Revised Edition was brought into force.
+1wef 3.5.93 vide S 156/93
 
 ### Sale or supply of medicinal products not on general sale list
 
-24\. \*Subject to any exemption conferred by or under this Part, on and after such day as the Minister may appoint for the commencement of this Part (referred to in this Part as the appointed day) no person shall sell by retail or supply in circumstances corresponding to retail sale any medicinal product which is not a medicinal product on a general sale list, unless —
+24\. 2Subject to any exemption conferred by or under this Part, on and after such day as the Minister may appoint for the commencement of this Part (referred to in this Part as the appointed day) no person shall sell by retail or supply in circumstances corresponding to retail sale any medicinal product which is not a medicinal product on a general sale list, unless —
 
 (a) the product is sold or supplied on premises which are a registered pharmacy; and
 
 (b) that person is or acts under the personal supervision of a pharmacist.
 
-\*This section was not in operation when this Revised Edition was brought into force.
+2wef 3.5.93 vide S 156/93
 
 ### Sale or supply of medicinal products on general sale list
 
-25\. \*Nothing in this Act shall prevent any person from selling by retail or supplying in circumstances corresponding to retail sale any medicinal product on a general sale list subject to such conditions as may be prescribed for the purposes of this section.
+25\. 3Nothing in this Act shall prevent any person from selling by retail or supplying in circumstances corresponding to retail sale any medicinal product on a general sale list subject to such conditions as may be prescribed for the purposes of this section.
 
-\*This section was not in operation when this Revised Edition was brought into force.
+3wef 3.5.93 vide S 156/93
 
 ### Prohibition of sale of medicinal products from automatic machines
 
-26\. \*On and after the appointed day a medicinal product shall not be sold by means of an automatic machine unless it is a medicinal product in the automatic machine section of a general sale list and complies with such conditions as may be prescribed.
+26\. 4On and after the appointed day a medicinal product shall not be sold by means of an automatic machine unless it is a medicinal product in the automatic machine section of a general sale list and complies with such conditions as may be prescribed.
 
-\*This section was not in operation when this Revised Edition was brought into force.
+4wef 3.5.93 vide S 156/93
 
 ### Exemptions for doctors, dentists and veterinary surgeons and in respect of herbal remedies
 
-27\.\*—(1) The restrictions imposed by section 24 shall not apply to the supply of a medicinal product —
+27\.5—(1) The restrictions imposed by section 24 shall not apply to the supply of a medicinal product —
 
 (a) by a doctor or dentist to his patient; or
 
@@ -676,21 +676,21 @@ FURTHER PROVISIONS RELATING TO DEALINGS WITH MEDICINAL PRODUCTS
 
 (3) The restrictions imposed by that section shall not apply to anything done at premises of which the person carrying on the business in question is the occupier and which he is able to close so as to exclude the public, and which consists of the sale or the supply in circumstances corresponding to retail sale of a herbal remedy where the processes to which the plant or plants are subjected consist of drying, crushing or comminuting, with or without diluting with water, but not any other process.
 
-\*This section was not in operation when this Revised Edition was brought into force.
+5wef 3.5.93 vide S 156/93
 
 ### Power to extend or modify exemptions
 
-28\.\*—(1) The Minister may by order provide that section 24 shall have effect subject to such exemptions (other than those for the time being having effect by virtue of section 27) as may be specified in the order.
+28\.6—(1) The Minister may by order provide that section 24 shall have effect subject to such exemptions (other than those for the time being having effect by virtue of section 27) as may be specified in the order.
 
 (2) Any exemption conferred by an order under subsection (1) may be conferred subject to such conditions or limitations as may be specified in the order.
 
 (3) The Minister may by order provide that section 27 shall have effect subject to such exceptions or modifications as may be specified in the order.
 
-\*This section was not in operation when this Revised Edition was brought into force.
+6wef 3.5.93 vide S 156/93
 
 ### Medicinal products on prescription only
 
-29\.\*—(1) The Minister may by order specify descriptions or classes of medicinal products for the purposes of this section; and, in relation to any description or class so specified, the order shall state which of the following are to be appropriate practitioners for the purposes of this section:
+29\.7—(1) The Minister may by order specify descriptions or classes of medicinal products for the purposes of this section; and, in relation to any description or class so specified, the order shall state which of the following are to be appropriate practitioners for the purposes of this section:
 
 (a) doctors;
 
@@ -712,7 +712,7 @@ FURTHER PROVISIONS RELATING TO DEALINGS WITH MEDICINAL PRODUCTS
 
 (4) Any exemption conferred by an order in accordance with subsection (3)(a) may be conferred subject to such conditions or limitations as may be specified in the order.
 
-\*This section was not in operation when this Revised Edition was brought into force.
+7wef 3.5.93 vide S 156/93
 
 ### Prohibition of sale, supply or importation of medicinal products of specified description or of animal feeding stuffs incorporating such products
 
@@ -734,7 +734,7 @@ FURTHER PROVISIONS RELATING TO DEALINGS WITH MEDICINAL PRODUCTS
 
 ### Protection of purchasers of medicinal products
 
-32\.\*—(1) No person shall, to the prejudice of the purchaser, sell any medicinal product which is not of the nature or quality demanded by the purchaser.
+32\.8—(1) No person shall, to the prejudice of the purchaser, sell any medicinal product which is not of the nature or quality demanded by the purchaser.
 
 (2) For the purposes of this section the sale of a medicinal product shall not be taken to be otherwise than to the prejudice of the purchaser by reason only that the purchaser buys the product for the purpose of analysis or examination.
 
@@ -752,11 +752,11 @@ FURTHER PROVISIONS RELATING TO DEALINGS WITH MEDICINAL PRODUCTS
 
 (b) in subsection (1), for the words “demanded by the purchaser”, there were substituted the words “specified in the prescription”.
 
-\*This section was not in operation when this Revised Edition was brought into force.
+8wef 3.5.93 vide S 156/93
 
 ### Compliance with standards specified in monographs in certain publications
 
-33\.\*—(1) No person shall —
+33\.9—(1) No person shall —
 
 (a) sell a medicinal product which has been demanded by the purchaser by or by express reference to a particular name; or
 
@@ -796,7 +796,7 @@ and any monograph in an edition of a publication shall be construed in accordanc
 
 (7) The Minister may by order amend subsections (4), (5) and (6).
 
-\*This section was not in operation when this Revised Edition was brought into force.
+9wef 3.5.93 vide S 156/93
 
 ### Further powers to regulate dealings with medicinal products
 
@@ -1340,97 +1340,59 @@ where it is proved that the medicinal product in question was found on a vehicle
 
 ### Repeal and consequential amendments
 
-76\.\*—(1) The Medicines (Advertisement and Sale) Act [Cap. 177] and the Sale of Drugs Act [Cap. 282] are repealed and any subsidiary legislation made under those Acts are revoked.
+76\.10—(1) The Medicines (Advertisement and Sale) Act [Cap. 177] and the Sale of Drugs Act [Cap. 282] are repealed and any subsidiary legislation made under those Acts are revoked.
 
 ### Second Schedule
 
 (2) The Poisons Act [Cap. 234] is amended in the manner set out in the Second Schedule.
 
-\*This section was not in operation when this Revised Edition was brought into force.
+10This section was not in operation when this Revised Edition was brought into force..
 
 FIRST SCHEDULE
 
-Section 51(1)(a)
+Section 51(1)(a).
 
-Diseases and conditions
+Diseases and Conditions
 
-1. 
+1\. Blindness.
 
-Blindness.
+2\. Cancer.
 
-2. 
+3\. Cataract.
 
-Cancer.
+4\. Drug addiction.
 
-3. 
+5\. Deafness.
 
-Cataract.
+6\. Diabetes.
 
-4. 
+7\. Epilepsy or fits.
 
-Drug addiction.
+8\. Hypertension.
 
-5. 
+9\. Insanity.
 
-Deafness.
+10\. Kidney diseases.
 
-6. 
+11\. Leprosy.
 
-Diabetes.
+12\. Menstrual disorders.
 
-7. 
+13\. Paralysis.
 
-Epilepsy or fits.
+14\. Tuberculosis.
 
-8. 
+15\. Sexual function.
 
-Hypertension.
+16\. Infertility.
 
-9. 
+17\. Impotency.
 
-Insanity.
+18\. Frigidity.
 
-10. 
+19\. Conception and pregnancy.
 
-Kidney diseases.
-
-11. 
-
-Leprosy.
-
-12. 
-
-Menstrual disorders.
-
-13. 
-
-Paralysis.
-
-14. 
-
-Tuberculosis.
-
-15. 
-
-Sexual function.
-
-16. 
-
-Infertility.
-
-17. 
-
-Impotency.
-
-18. 
-
-Frigidity.
-
-19. 
-
-Conception and pregnancy.
-
-SECOND SCHEDULE\*
+SECOND SCHEDULE11
 
 Section 76(2).
 
@@ -1474,7 +1436,7 @@ Non-application of this Act to medicinal product or substance
 
 ”.
 
-\*This Schedule was not in operation when this Revised Edition was brought into force.
+11This Schedule was not in operation when this Revised Edition was brought into force.
 
 ## LEGISLATIVE HISTORY
 
@@ -1493,3 +1455,8 @@ This Legislative History is provided for the convenience of users of the Medicin
 ||Date of commencement|16 January 1981|
 |2.|**1985 Revised Edition—Medicines Act**|
 ||Date of operation|30 March 1987|
+|3.|**Act 52 of 1975—Medicines Act 1975**|
+||Date of First Reading|3 March 1975|
+|||(Bill No. 12/1975 published on 7 March 1975)|
+||Date of Second Reading|27 March 1975|
+||Date of commencement|3 May 1993|
