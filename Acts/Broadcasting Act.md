@@ -122,7 +122,9 @@
 
 - [47 Offences relating to installation, sale, import or possession of broadcasting apparatus](#Offences-relating-to-installation-sale-import-or-possession-of-broadcasting-apparatus)
 
-- [48 Unauthorised decoders](#Unauthorised-decoders)
+- [48 Offences relating to unauthorised decoders and unauthorised reception of encrypted programmes](#Offences-relating-to-unauthorised-decoders-and-unauthorised-reception-of-encrypted-programmes)
+
+- [48A Civil action in relation to unauthorised decoders and decoded programmes](#Civil-action-in-relation-to-unauthorised-decoders-and-decoded-programmes)
 
 - [49 Offence of hindering employee or agent of Authority](#Offence-of-hindering-employee-or-agent-of-Authority)
 
@@ -1328,21 +1330,53 @@ OFFENCES AND PENALTIES
 
 [60
 
-### Unauthorised decoders
+### Offences relating to unauthorised decoders and unauthorised reception of encrypted programmes
 
-48\.—(1) No person shall, in the course of any trade or business, import, manufacture, sell, offer for sale or let for hire any unauthorised decoder.
+48\.—(1) No person shall manufacture, assemble, modify, import, export, sell, offer for sale, let for hire or otherwise distribute any decoder which he knows is an unauthorised decoder.
 
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $40,000 or to imprisonment for a term not exceeding 3 years or to both and any unauthorised decoder shall be forfeited to the Authority.
+(2) No person shall wilfully receive or rebroadcast any encrypted programme which has been decoded without the authorisation of the lawful provider of a broadcasting service who had broadcast the programme.
 
-(3) Proof that a person has, in the course of any trade or business, imported, manufactured, sold, offered for sale or let for hire any unauthorised decoder shall be evidence that such person knew that the decoder was an unauthorised decoder.
+(3) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $40,000 or to imprisonment for a term not exceeding 3 years or to both, and any unauthorised decoder shall be forfeited to the Authority.
 
-(4) In this section —
+(4) Where it is proved that a person has manufactured, assembled, modified, imported, exported, sold, offered for sale, let for hire or otherwise distributed any unauthorised decoder, it shall be presumed, unless there is evidence to the contrary, that the person knew that the decoder was an unauthorised decoder.
 
-“decoder” means any apparatus or component part thereof which is designed or adapted to enable (whether on its own or with any other apparatus) an encrypted audio or visual programme to be decoded;
+(5) In this section and section 48A —
 
-“unauthorised decoder” means a decoder which will enable encrypted audio or visual programmes to be viewed in decoded form without payment of the subscription payable in respect of the right to view those programmes.
+“decoder” means any apparatus or device (including a computer program) or any component or part thereof which is designed or adapted to enable (whether on its own or with any other apparatus or device) an encrypted programme to be decoded;
 
-[61
+“lawful provider”, in relation to a broadcasting service, means —
+
+(a) a person who holds a broadcasting licence; or
+
+(b) in the case of a broadcasting service transmitted from a place outside Singapore, the person who is authorised to provide the broadcasting service in accordance with the laws of that place;
+
+“unauthorised decoder” means a decoder which is designed or adapted to enable an encrypted programme to be viewed in decoded form without the authorisation of the lawful provider of a broadcasting service who had broadcast the programme.
+
+[55/2004 wef 01/01/2005]
+
+### Civil action in relation to unauthorised decoders and decoded programmes
+
+48A\.—(1) Where —
+
+(a) a person does an act referred to in section 48(1) in relation to an unauthorised decoder;
+
+(b) the unauthorised decoder is used to decode an encrypted programme; and
+
+(c) the lawful provider of a broadcasting service who had broadcast the encrypted programme or the owner of the copyright in the programme has thereby suffered any loss or damage,
+
+the lawful provider of the broadcasting service or the owner of the copyright in the programme, as the case may be, may bring a civil action against the person referred to in paragraph (a).
+
+(2) Where —
+
+(a) a person does an act referred to in section 48(2) in relation to an encrypted programme that has been decoded without the authorisation of the lawful provider of a broadcasting service who had broadcast the programme; and
+
+(b) the lawful provider of the broadcasting service or the owner of the copyright in the programme has thereby suffered any loss or damage,
+
+the lawful provider of the broadcasting service or the owner of the copyright in the programme, as the case may be, may bring a civil action against the person referred to in paragraph (a).
+
+(3) An action shall not be brought under subsection (1) or (2) after the expiration of 6 years from the time the relevant act under section 48(1) or (2), as the case may be, took place.
+
+[55/2004 wef 01/01/2005]
 
 ### Offence of hindering employee or agent of Authority
 
@@ -1764,6 +1798,11 @@ This Legislative History is provided for the convenience of users of the Broadca
 ||Date of commencement|1 January 2003|
 |10.|**2003 Revised Edition—Broadcasting Act (Chapter 28)**|
 ||Date of operation|31 July 2003|
+|11.|**Act 55 of 2004—Broadcasting (Amendment) Act 2004**|
+||Date of First Reading|19 October 2004|
+|||(Bill No. 50/2004 published on 17 December 2004)|
+||Date of Second and Third Readings|16 November 2004|
+||Date of commencement|1 January 2005|
 ## COMPARATIVE TABLE
 
 Broadcasting Act
