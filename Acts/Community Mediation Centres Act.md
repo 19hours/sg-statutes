@@ -240,7 +240,7 @@ from representing that company, corporation, body corporate or society, as the c
 
 (b) the Magistrate is of the opinion either from the nature of the case or the attitude of the parties or both that the matter may more appropriately be resolved by mediation,
 
-refer the complaint to a mediator of a Community Mediation Centre for mediation with the consent of both the complainant and the person complained against.
+refer the complaint to a mediator of a Community Mediation Centre for mediation with or without the consent of both the complainant and the person complained against.
 
 (2) In making any referral under subsection (1), the Magistrate may order the personal attendance of the complainant or the person complained against before a mediator of a Community Mediation Centre at a time and place to be specified in the order of the Magistrate.
 
@@ -377,3 +377,8 @@ This Legislative History is provided for the convenience of users of the Communi
 ||Date of commencement|9 January 1998|
 |2.|**1998 Revised Edition—Community Mediation Centres Act**|
 ||Date of operation|30 May 1998|
+|3.|**Act 6 of 2004—Statutes (Miscellaneous Amendments) Act 2004**|
+||Date of First Reading|5 January 2004|
+|||(Bill No. 4/2004 published on 6 January 2004)|
+||Date of Second and Third Readings|6 February 2004|
+||Date of commencement|3 May 2004|
