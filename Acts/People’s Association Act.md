@@ -362,7 +362,7 @@ National University of Singapore Students’ Union.
 
 23. 
 
-Ngee Ann Polytechnic Graduates’ Guild.
+[Deleted by S 21/1995 wef 12/01/1995]
 
 24. 
 
@@ -459,6 +459,12 @@ Singapore Civil Defence Force Sports and Recreation Association.
 47. 
 
 Singapore Classical Guitar Society.
+
+47A. 
+
+Singapore Contract Bridge Association.
+
+[S 21/1995 wef 12/01/1995]
 
 48. 
 
@@ -734,9 +740,11 @@ This Legislative History is provided for the convenience of users of the People�
 ||Date of commencement|12 March 1993|
 |30.|**1994 Revised Edition—People’s Association Act (Chapter 227)**|
 ||Date of operation|15 March 1994|
-|31.|**G.N. No. S 293/1994—People’s Association Act (Amendment of First Schedule) Notification 1994**|
+|31.|**G.N. No. S 293/94—People’s Association Act (Amendment of First Schedule) Notification 1994**|
 ||Date of commencement|27 June 1994|
-|32.|**G.N. No. S 361/1994—People’s Association Act (Amendment of First Schedule) (No. 2) Notification 1994**|
+|32.|**G.N. No. S 361/94—People’s Association Act (Amendment of First Schedule) (No. 2) Notification 1994**|
 ||Date of commencement|14 September 1994|
-|33.|**G. N. No. S 398/1994—People’s Association Act (Amendment of First Schedule) (No. 3) Notification 1994**|
+|33.|**G. N. No. S 398/1994 —People’s Association Act (Amendment of First Schedule) (No. 3) Notification 1994**|
 ||Date of commencement|28 September 1994|
+|34.|**G. N. No. S 21/1995—People’s Association Act (Amendment of First Schedule) Notification 1995**|
+||Date of commencement|12 January 1995|
