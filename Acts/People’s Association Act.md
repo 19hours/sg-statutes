@@ -302,6 +302,12 @@ Er Woo Amateur Musical and Dramatic Association.
 
 Football Association of Singapore.
 
+11A. 
+
+Hindi Society (Singapore).
+
+[S 293/1994 wef 27/06/1994]
+
 11. 
 
 Girls’ Brigade, Singapore.
@@ -316,7 +322,7 @@ Jogging Association of Singapore.
 
 14. 
 
-Malay Youths’ Literary Association (Persatuan Persuratan Pemuda Pemudi Melayu).
+Malay Youths Literary Association (Persatuan Persuratan Pemuda Pemudi Melayu).
 
 15. 
 
@@ -598,6 +604,12 @@ Tamils Representative Council.
 
 The Eurasian Association, Singapore.
 
+84A. 
+
+The Singapore Softball Association.
+
+[S 293/1994 wef 27/06/1994]
+
 85. 
 
 Volleyball Association of Singapore.
@@ -710,3 +722,5 @@ This Legislative History is provided for the convenience of users of the People�
 ||Date of commencement|12 March 1993|
 |30.|**1994 Revised Edition—People’s Association Act (Chapter 227)**|
 ||Date of operation|15 March 1994|
+|31.|**G.N. No. S 293/94—People’s Association Act (Amendment of First Schedule) Notification 1994**|
+||Date of commencement|27 June 1994|
