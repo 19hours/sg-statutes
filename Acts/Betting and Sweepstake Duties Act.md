@@ -46,13 +46,17 @@ An Act relating to duties on betting and sweepstakes.
 
 2\.—(1) On every bet made on any totalisator or parimutuel or in any other system or method of cash or credit betting held, promoted, organised, administered or operated by any racing club or association exempted under section 22 of the Betting Act [Cap. 21] from the provisions of that Act there shall be charged a duty of 20% of the amount of the bet.
 
-[10/81]
-
 [S 71/84]
 
 (2) On every sweepstake promoted by any racing club or association on the result of a horse race or other race whether the race takes place in or out of Singapore, there shall be charged a duty of 30% of the amount contributed towards the sweepstake.
 
 (3) The Minister may, from time to time, by order reduce or increase either or both of the rates of the duty specified in this section.
+
+[10/81]
+
+(4) The amount of the bet referred to in subsection (1) and the amount contributed towards the sweepstake referred to in subsection (2) shall exclude the amount of goods and services tax charged on the supply of the betting or sweepstake transactions, as the case may be.
+
+[Act 31/93 wef 26/11/1993 vide S 466/93]
 
 [10/81]
 
@@ -149,3 +153,12 @@ This Legislative History is provided for the convenience of users of the Betting
 ||Date of commencement|1 April 1984|
 |13.|**1985 Revised Edition—Betting and Sweepstake Duties Act (Chapter 22)**|
 ||Date of operation|30 March 1987|
+|14.|**Act 31 of 1993—Goods and Services Tax Act 1993**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 February 1993|
+|||(Bill No. 14/93 published on 27 February 1993)|
+||Date of Second Reading|19 March 1993|
+||Date Committed to Select Committee|19 March 1993|
+||Date of Presentation of Select Committee Report|7 September 1993 (Parl. 4 of 1993)|
+||Date of Third Reading|12 October 1993|
+||Dates of commencement|26 November 1993 (except paragraph (3) of the Fifth Schedule)|
