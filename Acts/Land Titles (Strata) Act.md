@@ -308,7 +308,7 @@
 
 - [128 Effect of issue of qualified certificate of title and of subsidiary strata certificates of title](#Effect-of-issue-of-qualified-certificate-of-title-and-of-subsidiary-strata-certificates-of-title)
 
-- [129 Exemption from stamp duty](#Exemption-from-stamp-duty)
+- [129 (Repealed)](#Repealed)
 
 [**Part IX MISCELLANEOUS**](#Part-IX)
 
@@ -3522,7 +3522,7 @@ ISSUE OF SUBSIDIARY CERTIFICATES OF TITLE FOR FLATS UNDER OTHER SCHEMES AND ISSU
 
 [27/95]
 
-(7) In this section and sections 126B and 129—
+(7) In this section and section 126B —
 
 “Board” means the Housing and Development Board constituted under the Housing and Development Act (Cap. 129);
 
@@ -3610,11 +3610,7 @@ ISSUE OF SUBSIDIARY CERTIFICATES OF TITLE FOR FLATS UNDER OTHER SCHEMES AND ISSU
 
 [16/87]
 
-### Exemption from stamp duty
-
-129\. A transfer lodged under section 125 or 126 shall be exempted from the payment of stamp duty except where the transfer relates to any designated land.
-
-[16/87; 27/95]
+129\. [Deleted by Act 38/2002 wef 01/01/2003]
 
 ## PART IX
 
@@ -3635,6 +3631,10 @@ MISCELLANEOUS
 (d) the investment of moneys belonging to the sinking funds of management corporations;
 
 (e) the provision of parking places for the exclusive use of residents of lots in subdivided buildings used for both residential and commercial purposes;
+
+(f) [Deletd by Act 17/2001 wef 01/06/2001]
+
+(g) [Deletd by Act 17/2001 wef 01/06/2001]
 
 (h) the fees to be paid in respect of lodgment and registration of plans and documents under this Act;
 
@@ -4195,6 +4195,12 @@ This Legislative History is provided for the convenience of users of the Land Ti
 |||(Bill No. 17/2001 published on 7 March 2001)|
 ||Date of Second and Third Readings|19 April 2001|
 ||Date of commencement|1 June 2001|
+|16.|**Act 38 of 2002—Stamp Duties (Amendment) Act 2002**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|31 October 2002|
+|||(Bill No. 40/2002 published on 1 November 2002)|
+||Date of Second and Third Readings|25 November 2002|
+||Date of commencement|1 January 2003|
 ## COMPARATIVE TABLE
 
 Land Titles (Strata) Act
