@@ -16,7 +16,7 @@
 
 [**Part II PIONEER INDUSTRIES**](#Part-II)
 
-- [4 Power and procedure for approving an industry and a product as a pioneer industry and a pioneer product](#Power-and-procedure-for-approving-an-industry-and-a-product-as-a-pioneer-industry-and-a-pioneer-product)
+- [4 Power to approve an industry and a product as a pioneer industry and a pioneer product](#Power-to-approve-an-industry-and-a-product-as-a-pioneer-industry-and-a-pioneer-product)
 
 - [5 Application for and issue and amendment of pioneer certificate](#Application-for-and-issue-and-amendment-of-pioneer-certificate)
 
@@ -50,7 +50,7 @@
 
 - [19 Application of sections 7 to 15 to pioneer service company](#Application-of-sections-7-to-15-to-pioneer-service-company)
 
-[**Part IIIA**](#Part-IIIA)
+[**Part IIIA (Repealed)**](#Part-IIIA)
 
 - [19A (Repealed)](#Repealed)
 
@@ -86,7 +86,7 @@
 
 - [19P Power to give directions](#Power-to-give-directions)
 
-[**Part IV**](#Part-IV)
+[**Part IV (Repealed)**](#Part-IV)
 
 - [20 (Repealed)](#Repealed)
 
@@ -100,7 +100,7 @@
 
 - [25 (Repealed)](#Repealed)
 
-[**Part V**](#Part-V)
+[**Part V (Repealed)**](#Part-V)
 
 - [26 (Repealed)](#Repealed)
 
@@ -108,7 +108,7 @@
 
 - [28 (Repealed)](#Repealed)
 
-[**Part VI**](#Part-VI)
+[**Part VI (Repealed)**](#Part-VI)
 
 - [29 (Repealed)](#Repealed)
 
@@ -162,29 +162,9 @@
 
 - [44I Deduction of allowances and losses](#Deduction-of-allowances-and-losses)
 
-[**Part VII**](#Part-VII)
+[**Part VII (Repealed)**](#Part-VII)
 
 - [45 (Repealed)](#Repealed)
-
-- [46 (Repealed)](#Repealed)
-
-- [47 (Repealed)](#Repealed)
-
-- [48 (Repealed)](#Repealed)
-
-- [49 (Repealed)](#Repealed)
-
-- [50 (Repealed)](#Repealed)
-
-- [51 (Repealed)](#Repealed)
-
-- [52 (Repealed)](#Repealed)
-
-- [53 (Repealed)](#Repealed)
-
-- [54 (Repealed)](#Repealed)
-
-- [55 (Repealed)](#Repealed)
 
 - [56 (Repealed)](#Repealed)
 
@@ -230,71 +210,27 @@
 
 - [74 Application of Parts XVII and XVIII of Income Tax Act](#Application-of-Parts-XVII-and-XVIII-of-Income-Tax-Act)
 
-[**Part XI**](#Part-XI)
+[**Part XI (Repealed)**](#Part-XI)
 
 - [75 (Repealed)](#Repealed)
 
-- [76 (Repealed)](#Repealed)
-
-- [77 (Repealed)](#Repealed)
-
-- [78 (Repealed)](#Repealed)
-
-- [79 (Repealed)](#Repealed)
-
-- [80 (Repealed)](#Repealed)
-
-- [81 (Repealed)](#Repealed)
-
-- [82 (Repealed)](#Repealed)
-
-- [83 (Repealed)](#Repealed)
-
 - [84 (Repealed)](#Repealed)
 
-[**Part XII**](#Part-XII)
+[**Part XII (Repealed)**](#Part-XII)
 
 - [85 (Repealed)](#Repealed)
 
-- [86 (Repealed)](#Repealed)
-
-- [87 (Repealed)](#Repealed)
-
-- [88 (Repealed)](#Repealed)
-
-- [89 (Repealed)](#Repealed)
-
-- [90 (Repealed)](#Repealed)
-
-- [91 (Repealed)](#Repealed)
-
 - [92 (Repealed)](#Repealed)
 
-[**Part XIII**](#Part-XIII)
+[**Part XIII (Repealed)**](#Part-XIII)
 
 - [93 (Repealed)](#Repealed)
 
-- [94 (Repealed)](#Repealed)
-
-- [95 (Repealed)](#Repealed)
-
-- [96 (Repealed)](#Repealed)
-
 - [97 (Repealed)](#Repealed)
 
-[**Part XIIIA**](#Part-XIIIA)
+[**Part XIIIA (Repealed)**](#Part-XIIIA)
 
 - [97A (Repealed)](#Repealed)
-
-- [97B (Repealed)](#Repealed)
-
-- [97C (Repealed)](#Repealed)
-
-- [97D (Repealed)](#Repealed)
-
-- [97E (Repealed)](#Repealed)
-
-- [97F (Repealed)](#Repealed)
 
 - [97G (Repealed)](#Repealed)
 
@@ -378,31 +314,21 @@
 
 [**Part XIV MISCELLANEOUS PROVISIONS**](#Part-XIV)
 
-- [98 Prohibition of publication of application and certificate](#Prohibition-of-publication-of-application-and-certificate)
+- [98 Prohibition of publication of application and certificate or letter](#Prohibition-of-publication-of-application-and-certificate-or-letter)
 
 - [99 Revocation of certificate or letter](#Revocation-of-certificate-or-letter)
 
 - [100 Provisions of Income Tax Act not affected](#Provisions-of-Income-Tax-Act-not-affected)
 
-- [101 (Repealed)](#Repealed)
+- [101 Action of officers no offence](#Action-of-officers-no-offence)
 
-- [102 (Repealed)](#Repealed)
+- [102 Regulations](#Regulations)
 
-- [103 (Repealed)](#Repealed)
-
-- [104 (Repealed)](#Repealed)
-
-- [105 (Repealed)](#Repealed)
-
-- [106 (Repealed)](#Repealed)
-
-- [107 Action of officers no offence](#Action-of-officers-no-offence)
-
-- [108 Regulations](#Regulations)
-
-- [109 Savings provision](#Savings-provision)
+- [103 Savings provision](#Savings-provision)
 
 [**Legislative History**](#Legislative-History)
+
+[**Comparative Table**](#Comparative-Table)
 
 [**Comparative Table**](#Comparative-Table)
 
@@ -412,11 +338,11 @@
 
 (Original Enactment: Act 36 of 1967)
 
-REVISED EDITION 2001
+REVISED EDITION 2005
 
-(31st July 2001)
+(31st March 2005)
 
-An Act relating to incentives for the establishment of pioneer industries and for economic expansion generally, by way of providing relief from income tax.
+Act relating to incentives for the establishment of pioneer industries and for economic expansion generally, by way of providing relief from income tax.
 
 [15th December 1967]
 
@@ -462,7 +388,7 @@ PRELIMINARY
 
 “production day”, in relation to a pioneer enterprise, means the date specified in its pioneer certificate under section 5(3)(a) or (5);
 
-“productive equipment” means machinery or plant which would normally qualify for deduction under sections 19, 19A, 20, 21 and 22 of the Income Tax Act (Cap. 134);
+“productive equipment” means machinery or plant which would normally qualify for deduction under sections 19, 19A, 20, 21 and 22 of the Income Tax Act;
 
 “royalties, fees or contributions certificate” means a certificate issued under section 61;
 
@@ -478,21 +404,25 @@ but does not include royalties, rentals or other amounts paid in respect of the 
 
 “tax” means income tax imposed by the Income Tax Act (Cap. 134).
 
-[34/84]
+[34/84; 11/2004; 48/2004]
 
 ## PART II
 
 PIONEER INDUSTRIES
 
-### Power and procedure for approving an industry and a product as a pioneer industry and a pioneer product
+### Power to approve an industry and a product as a pioneer industry and a pioneer product
 
 4\.—(1) The Minister may, if he considers it expedient in the public interest to do so, approve an industry, which is not being carried on in Singapore on a scale adequate to the economic needs of Singapore and for which in his opinion there are favourable prospects for development, to be a pioneer industry and any specific product of that industry to be a pioneer product.
 
+[48/2004]
+
 (2) The Minister may revoke any approval given under this section but any such revocation shall not affect the operation of any pioneer certificate issued to any pioneer enterprise before the revocation.
+
+[48/2004]
 
 (3) Any industry which has been approved as a pioneer industry or any product which has been approved as a pioneer product before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment No. 2) Act 2004 shall be deemed to have been approved under this section.
 
-[48/2004 wef 25/11/2004]
+[48/2004]
 
 ### Application for and issue and amendment of pioneer certificate
 
@@ -514,6 +444,8 @@ PIONEER INDUSTRIES
 
 6\. The tax relief period of a pioneer enterprise shall commence on its production day and shall continue for such period, not exceeding 15 years, as the Minister may determine.
 
+[11/2004; 48/2004]
+
 ### Provisions governing old and new trade or business
 
 7\. For the purposes of the Income Tax Act (Cap. 134) and this Act —
@@ -530,25 +462,23 @@ PIONEER INDUSTRIES
 
 8\.—(1) Where, during its tax relief period, a pioneer enterprise carries on any trade or business other than the trade or business relating to the relevant pioneer product (referred to in this section as separate trade), separate accounts shall be maintained in respect of that separate trade or business and in respect of the same accounting period.
 
-[11/2004 wef 27/11/2002]
+[11/2004]
 
-(2) [Deleted by Act 11/2004 wef 27/11/2002]
-
-(3) Where the carrying on of such separate trade results in a loss in any accounting period, the loss shall be brought into the computation of the income of the pioneer enterprise for that period unless the Comptroller, having regard to all the circumstances of the case, is satisfied that the loss was not incurred for the purpose of obtaining a tax advantage.
+(2) Where the carrying on of such separate trade results in a loss in any accounting period, the loss shall be brought into the computation of the income of the pioneer enterprise for that period unless the Comptroller, having regard to all the circumstances of the case, is satisfied that the loss was not incurred for the purpose of obtaining a tax advantage.
 
 [22/87]
 
-(4) Where the carrying on of such separate trade results in a profit in any accounting period, and the profit, computed in accordance with the provisions of the Income Tax Act (Cap. 134) as modified by this section, amounts to less than 5% of the full sum receivable from the sale of goods or the provision of services, the statutory income from that source shall be deemed to be 5% (or such lower rate as the Comptroller may specify in any particular case) of the full sum so receivable and the income of the pioneer enterprise shall be abated accordingly.
+(3) Where the carrying on of such separate trade results in a profit in any accounting period, and the profit, computed in accordance with the provisions of the Income Tax Act (Cap. 134) as modified by this section, amounts to less than 5% of the full sum receivable from the sale of goods or the provision of services, the statutory income from that source shall be deemed to be 5% (or such lower rate as the Comptroller may specify in any particular case) of the full sum so receivable and the income of the pioneer enterprise shall be abated accordingly.
 
-[22/87]
+[22/87; 11/2004]
 
-(5) Where in the opinion of the Comptroller the carrying on of such separate trade is subordinate and incidental to the carrying on of the trade or business relating to the relevant pioneer product, the income or loss arising from such activities shall be deemed to form part of the income or loss of the pioneer enterprise.
+(4) Where in the opinion of the Comptroller the carrying on of such separate trade is subordinate and incidental to the carrying on of the trade or business relating to the relevant pioneer product, the income or loss arising from such activities shall be deemed to form part of the income or loss of the pioneer enterprise.
 
-(6) In this section, “relevant pioneer product” means the pioneer product specified in its pioneer certificate.
+(5) In this section, "relevant pioneer product" means the pioneer product specified in its pioneer certificate.
 
 ### Power to give directions
 
-9\. For the purposes of the Income Tax Act (Cap. 134) and this Act, the Comptroller may direct that —
+9\. For the purposes of the Income Tax Act and this Act, the Comptroller may direct that —
 
 (a) any sums payable to a pioneer enterprise in any accounting period which, but for the provisions of this Act, might reasonably and properly have been expected to be payable, in the normal course of business, after the end of that period shall be treated as not having been payable in that period but as having been payable on such date, after that period, as the Comptroller thinks fit and, where that date is after the end of the tax relief period of the pioneer enterprise, as having been so payable, on that date, as a sum payable in respect of its new trade or business; and
 
@@ -556,21 +486,23 @@ PIONEER INDUSTRIES
 
 ### Ascertainment of income in respect of old trade or business
 
-10\.—(1) The income of a pioneer enterprise in respect of its old trade or business shall be ascertained in accordance with the provisions of the Income Tax Act after making such adjustments as may be necessary in consequence of any direction given under section 9.
+10\.—(1) The income of a pioneer enterprise in respect of its old trade or business shall be ascertained in accordance with the provisions of the Income Tax Act (Cap. 134) after making such adjustments as may be necessary in consequence of any direction given under section 9.
 
-(1A) In determining the income of a pioneer enterprise referred to in subsection (1), the allowances provided for in sections 16, 17, 18, 19, 19A, 19B, 20, 21 and 22 of the Income Tax Act shall be taken into account notwithstanding that no claim for such allowances has been made.
+(2) In determining the income of a pioneer enterprise referred to in subsection (1), the allowances provided for in sections 16, 17, 18, 19, 19A, 19B, 20, 21 and 22 of the Income Tax Act shall be taken into account notwithstanding that no claim for such allowances has been made.
 
-(1B) Where the tax relief period of a pioneer enterprise referred to in subsection (1) expires during the basis period for any year of assessment, for the purpose of determining the income in respect of its old trade or business and its new trade or business for that year of assessment, there shall be deducted allowances provided for in sections 16, 17, 18, 19, 19A, 19B, 20, 21 and 22 of the Income Tax Act notwithstanding that no claim for such allowances has been made; and for the purpose of computing such allowances —
+[48/2004]
+
+(3) Where the tax relief period of a pioneer enterprise referred to in subsection (1) expires during the basis period for any year of assessment, for the purpose of determining the income in respect of its old trade or business and its new trade or business for that year of assessment, there shall be deducted allowances provided for in sections 16, 17, 18, 19, 19A, 19B, 20, 21 and 22 of the Income Tax Act notwithstanding that no claim for such allowances has been made; and for the purpose of computing such allowances —
 
 (a) the allowances for that year of assessment shall be computed as if the old trade or business of the pioneer enterprise had not been deemed to have permanently ceased at the end of the tax relief period; and
 
 (b) the allowances computed in accordance with paragraph (a) shall be apportioned between the old trade or business and the new trade or business of the pioneer enterprise in such manner as appears to the Comptroller to be reasonable in the circumstances.
 
-[36/93]
+[36/93; 48/2004]
 
-(2) Where in any year of assessment full effect cannot, by reason of an insufficiency of profits for that year of assessment, be given to the allowances mentioned in subsection (1A), then the balance of the allowances shall be added to, and be deemed to form part of, the corresponding allowances, if any, for the next succeeding year of assessment and, if no such corresponding allowances fall to be made for that year, shall be deemed to constitute the corresponding allowances for that year, and so on for subsequent years of assessment.
+(4) Where in any year of assessment full effect cannot, by reason of an insufficiency of profits for that year of assessment, be given to the allowances mentioned in subsection (2), then the balance of the allowances shall be added to, and be deemed to form part of, the corresponding allowances, if any, for the next succeeding year of assessment and, if no such corresponding allowances fall to be made for that year, shall be deemed to constitute the corresponding allowances for that year, and so on for subsequent years of assessment.
 
-(3) Notwithstanding subsections (1) and (1A), where a pioneer enterprise has incurred or has given a written undertaking to the Minister to incur a capital expenditure of not less than $150 million and —
+(5) Notwithstanding subsections (1) and (2), where a pioneer enterprise has incurred or has given a written undertaking to the Minister to incur a capital expenditure of not less than $150 million and —
 
 (a) more than 50%, or such other percentage as the Minister may determine, of the paid-up capital of the pioneer enterprise is held by persons permanently resident in Singapore; and
 
@@ -578,23 +510,23 @@ PIONEER INDUSTRIES
 
 the capital expenditure so incurred by the pioneer enterprise within its tax relief period in respect of any asset used for the purposes of its new trade or business shall, subject to such conditions as the Minister may impose, be deemed, for the purposes of sections 16, 17, 18, 19, 19A, 19B, 20, 21 and 22 of the Income Tax Act (Cap. 134), to have been incurred on the day immediately following the last day of its tax relief period.
 
-[29/91]
+[29/91; 48/2004]
 
-(3A) Where a pioneer enterprise referred to in subsection (3) carries on a separate trade or business, and an industrial building, plant or machinery is used both for the purposes of that trade or business and the trade or business relating to the relevant pioneer product, subsection (3) shall apply to that building, plant or machinery.
+(6) Where a pioneer enterprise referred to in subsection (5) carries on a separate trade or business, and an industrial building, plant or machinery is used both for the purposes of that trade or business and the trade or business relating to the relevant pioneer product, subsection (5) shall apply to that building, plant or machinery.
 
-[29/91]
+[29/91; 11/2004]
 
-(3B) Where a pioneer enterprise has, before 16th August 1991, incurred a capital expenditure of not less than $1,000 million, subsection (3) shall apply to that enterprise in respect of that expenditure notwithstanding that the enterprise has not complied with paragraphs (a) and (b) of that subsection.
+(7) Where a pioneer enterprise has, before 16th August 1991, incurred a capital expenditure of not less than $1,000 million, subsection (5) shall apply to that enterprise in respect of that expenditure notwithstanding that the enterprise has not complied with paragraphs (a) and (b) of that subsection.
 
-[29/91]
+[29/91; 48/2004]
 
-(4) Where a pioneer enterprise referred to in subsection (3) or (3B) is the holder of 2 pioneer certificates in respect of different periods of time, and capital expenditure has been incurred in respect of any industrial building, plant or machinery which is jointly used in carrying on the trade or business of the 2 pioneer industries, no deduction shall be made in respect of such expenditure under any of the provisions contained in sections 16, 17, 18, 19, 19A, 19B, 20, 21 and 22 of the Income Tax Act (Cap. 134) until after the expiration of the tax relief period that is later in time.
+(8) Where a pioneer enterprise referred to in subsection (5) or (7) is the holder of 2 pioneer certificates in respect of different periods of time, and capital expenditure has been incurred in respect of any industrial building, plant or machinery which is jointly used in carrying on the trade or business of the 2 pioneer industries, no deduction shall be made in respect of such expenditure under any of the provisions contained in sections 16, 17, 18, 19, 19A, 19B, 20, 21 and 22 of the Income Tax Act (Cap. 134) until after the expiration of the tax relief period that is later in time.
 
 [S 143/89]
 
-(5) In subsections (3) and (3B), “capital expenditure” means capital expenditure in connection with a pioneer product, on factory building (excluding land) in Singapore, on any new plant or new machinery used in Singapore and on intellectual property rights for use in Singapore and, subject to the approval of the Minister, on any secondhand plant or secondhand machinery used in Singapore.
+(9) In subsections (5) and (7), “capital expenditure” means capital expenditure in connection with a pioneer product, on factory building (excluding land) in Singapore, on any new plant or new machinery used in Singapore and on intellectual property rights for use in Singapore and, subject to the approval of the Minister, on any secondhand plant or secondhand machinery used in Singapore.
 
-[48/2004 wef 25/11/2004]
+[48/2004]
 
 ### Application of Part XVI of Income Tax Act
 
@@ -602,11 +534,11 @@ the capital expenditure so incurred by the pioneer enterprise within its tax rel
 
 ### Comptroller to issue statement of income
 
-12\. For each year of assessment, the Comptroller shall issue to the pioneer enterprise a statement showing the amount of income for that year of assessment, and Parts XVII and XVIII of the Income Tax Act (Cap. 134) (relating to objections and appeals) shall apply, with the necessary modifications, as if that statement were a notice of assessment given under those provisions.
+12\. For each year of assessment, the Comptroller shall issue to the pioneer enterprise a statement showing the amount of income for that year of assessment, and Parts XVII and XVIII of the Income Tax Act (relating to assessments, objections and appeals) shall apply, with the necessary modifications, as if that statement were a notice of assessment given under those provisions.
 
 ### Exemption from income tax
 
-13\.—(1) Subject to section 14(6), where any statement issued under section 12 has become final and conclusive, the amount of the income shown by the statement shall not form part of the statutory income of the pioneer enterprise for any year of assessment and shall be exempt from tax.
+13\.—(1) Subject to section 14(7), where any statement issued under section 12 has become final and conclusive, the amount of the income shown by the statement shall not form part of the statutory income of the pioneer enterprise for any year of assessment and shall be exempt from tax.
 
 (2) The Comptroller may, in his discretion and before such a statement has become final and conclusive, declare that a specified part of the amount of such income is not in dispute and such an undisputed amount of income is exempt from tax, pending such a statement becoming final and conclusive.
 
@@ -618,15 +550,17 @@ the capital expenditure so incurred by the pioneer enterprise within its tax rel
 
 (3) So much of the amount of any dividends so debited to that account as is received by a shareholder of the pioneer enterprise shall, if the Comptroller is satisfied with the entries in the account, be exempt from tax in the hands of the shareholder.
 
-(3A) Notwithstanding subsections (3) and (9), no dividend paid on any share of a preferential nature shall be exempt from tax under this section in the hands of the shareholder.
+(4) Notwithstanding subsections (3) and (10), no dividend paid on any share of a preferential nature shall be exempt from tax under this section in the hands of the shareholder.
 
-[11/2004 wef 20/12/2002]
+[11/2004]
 
-(4) Any dividends debited to that account shall be treated as having been distributed to the shareholders of the pioneer enterprise or any particular class of those shareholders in accordance with the proportion of their shareholdings in the pioneer enterprise.
+(5) Any dividends debited to that account shall be treated as having been distributed to the shareholders of the pioneer enterprise or any particular class of those shareholders in accordance with the proportion of their shareholdings in the pioneer enterprise.
 
-(5) The pioneer enterprise shall deliver to the Comptroller a copy of that account, made up to a date specified by him, whenever called upon to do so by notice in writing sent by him to its registered office, until such time as he is satisfied that there is no further need for maintaining the account.
+[44/2002]
 
-(6) Notwithstanding section 13 and subsections (1) to (5), where it appears to the Comptroller that —
+(6) The pioneer enterprise shall deliver to the Comptroller a copy of that account, made up to a date specified by him, whenever called upon to do so by notice in writing sent by him to its registered office, until such time as he is satisfied that there is no further need for maintaining the account.
+
+(7) Notwithstanding section 13 and subsections (1) to (6), where it appears to the Comptroller that —
 
 (a) any amount of exempted income of a pioneer enterprise; or
 
@@ -638,25 +572,23 @@ ought not to have been exempted by reason of any direction made under section 9 
 
 (ii) direct the pioneer enterprise to debit its account, kept in accordance with subsection (1), with such amount as the circumstances require.
 
-[1/95]
+[1/95; 44/2002]
 
-(7) Parts XVII and XVIII of the Income Tax Act (relating to objections and appeals) shall apply, with the necessary modifications, to any direction given under subsection (6) as if it were a notice of assessment given under those provisions.
+(8) Parts XVII and XVIII of the Income Tax Act (relating to assessments, objections and appeals) shall apply, with the necessary modifications, to any direction given under subsection (7) as if it were a notice of assessment given under those provisions.
 
-(8) Section 44 of the Income Tax Act shall not apply in respect of any dividend or part thereof which is debited to the account required to be kept for the purposes of this section.
+(9) Section 44 of the Income Tax Act shall not apply in respect of any dividend or part thereof which is debited to the account required to be kept for the purposes of this section.
 
-(9) Where an amount has been received by way of dividends from a company by a shareholder and the amount is exempt from tax under this section, if that shareholder is a company, any dividends paid by that company to its shareholders, to the extent that the Comptroller is satisfied that those dividends are paid out of that amount, shall be exempt from tax in the hands of those shareholders; and section 44 of the Income Tax Act (Cap. 134) shall not apply to any such dividends or part thereof.
+(10) Where an amount has been received by way of dividends from a company by a shareholder and the amount is exempt from tax under this section, if that shareholder is a company, any dividends paid by that company to its shareholders, to the extent that the Comptroller is satisfied that those dividends are paid out of that amount, shall be exempt from tax in the hands of those shareholders; and section 44 of the Income Tax Act shall not apply to any such dividends or part thereof.
 
-[44/2002 wef 01/01/2003]
-
-(10) [Deleted by Act 44/2002 wef 01/01/2003]
+[44/2002]
 
 ### Carry forward of loss and allowance
 
 15\.—(1) Where a pioneer enterprise has, during its tax relief period, incurred a loss for any year, that loss shall be deducted as provided for in section 37 of the Income Tax Act, with the necessary modifications, but only against the income of the pioneer enterprise as ascertained under section 10, except that the balance of any such loss which remains unabsorbed at the end of its tax relief period is available to the new trade or business in accordance with that Act.
 
-[22/87]
+[22/87; 11/2004]
 
-(2) Notwithstanding section 7(a), the balance of any allowance as provided for in section 10 which remains unabsorbed at the end of the tax relief period of the pioneer enterprise is available to the new trade or business in accordance with the Income Tax Act.
+(2) Notwithstanding section 7(a), the balance of any allowance as provided for in section 10 which remains unabsorbed at the end of the tax relief period of the pioneer enterprise is available to the new trade or business in accordance with the Income Tax Act (Cap. 134).
 
 [22/87]
 
@@ -706,7 +638,7 @@ PIONEER SERVICE COMPANIES
 
 18\. The tax relief period of a pioneer service company, in relation to any qualifying activity specified in any certificate issued to that company under section 17, shall commence on the commencement day and shall continue for a period of 5 years or such longer period, not exceeding 15 years, as the Minister may determine.
 
-[34/84]
+[34/84; 48/2004]
 
 ### Application of sections 7 to 15 to pioneer service company
 
@@ -724,21 +656,23 @@ PIONEER SERVICE COMPANIES
 
 ## PART IIIA
 
-19A\. [Deleted by Act 11/2004 wef 28/04/2004]
+POST-PIONEER COMPANIES
 
-19B\. [Deleted by Act 11/2004 wef 28/04/2004]
+19A\. [Repealed by Act 11/2004 wef 28/04/2004]
 
-19C\. [Deleted by Act 11/2004 wef 28/04/2004]
+19B\. [Repealed by Act 11/2004 wef 28/04/2004]
 
-19D\. [Deleted by Act 11/2004 wef 28/04/2004]
+19C\. [Repealed by Act 11/2004 wef 28/04/2004]
 
-19E\. [Deleted by Act 11/2004 wef 28/04/2004]
+19D\. [Repealed by Act 11/2004 wef 28/04/2004]
 
-19F\. [Deleted by Act 11/2004 wef 28/04/2004]
+19E\. [Repealed by Act 11/2004 wef 28/04/2004]
 
-19G\. [Deleted by Act 11/2004 wef 28/04/2004]
+19F\. [Repealed by Act 11/2004 wef 28/04/2004]
 
-19H\. [Deleted by Act 11/2004 wef 28/04/2004]
+19G\. [Repealed by Act 11/2004 wef 28/04/2004]
+
+19H\. [Repealed by Act 11/2004 wef 28/04/2004]
 
 ## PART IIIB1
 
@@ -790,53 +724,53 @@ DEVELOPMENT AND EXPANSION INCENTIVE
 
 (5) Notwithstanding section 43 of the Income Tax Act (Cap. 134), tax at such concessionary rate, not being less than 5% as the Minister may specify, shall be levied and paid for each year of assessment upon the expansion income derived by a development and expansion company during its tax relief period from its qualifying activities.
 
-[36/96]
+[36/96; 44/2002]
 
 (6) The expansion income shall be the income from such qualifying activities (referred to in this section and section 19M as qualifying income) to which the certificate issued under this section relates that exceeds the average corresponding income.
 
-[36/96]
+[36/96; 11/2004]
 
 (7) The average corresponding income referred to in subsection (6) shall be determined by taking one-third of the total of the corresponding qualifying income for the 3 years immediately preceding the commencement day specified in the certificate issued under this section.
 
-[36/96]
+[36/96; 11/2004]
 
-(8) Where a development and expansion company which has been granted a tax relief period of at least 10 years is granted an extension or a further extension of its tax relief period under section 19K(1)(b) or (2), the Minister shall compute the average corresponding income for each such extension or further extension in accordance with subsection (9).
+(8) Where a development and expansion company which has been granted a tax relief period of at least 10 years is granted an extension or a further extension of its tax relief period under section 19K(1) (b) or (2), the Minister shall compute the average corresponding income for each such extension or further extension in accordance with subsection (9).
 
-[48/2004 wef 27/02/2004]
+[48/2004]
 
 (9) The average corresponding income for each extension or further extension referred to in subsection (8) shall be determined by taking one-third of the total of the corresponding qualifying income for the 3 years immediately preceding the date of that extension or further extension of its tax relief period, as the case may be.
 
-[48/2004 wef 27/02/2004]
+[48/2004]
 
 (10) Notwithstanding subsections (7), (8) and (9), the Minister may, if he thinks fit, specify any amount to be the average corresponding income in substitution of the amount determined under those subsections.
 
-[48/2004 wef 27/02/2004]
+[48/2004]
 
 ### Tax relief period of development and expansion company
 
-19K\.—(1) Subject to subsection (2A), the tax relief period of a development and expansion company shall commence on its commencement day and shall continue —
+19K\.—(1) Subject to subsection (3), the tax relief period of a development and expansion company shall commence on its commencement day and shall continue —
 
 (a) for such period not exceeding 10 years as the Minister may determine; and
 
 (b) for such further period or periods, not exceeding 5 years for each period, as the Minister may determine, where the Minister is satisfied that it is expedient in the public interest to do so and subject to such terms and conditions as he may impose.
 
-[48/2004 wef 25/11/2004]
+[48/2004]
 
-(2) Subject to subsection (2A), the Minister may, if he is satisfied that it is expedient in the public interest to do so and subject to such terms and conditions as he may impose, extend the tax relief period of a development and expansion company after the expiry of the total tax relief period in subsection (1) for such further period or periods, not exceeding 5 years at any one time, as he may determine.
+(2) Subject to subsection (3), the Minister may, if he is satisfied that it is expedient in the public interest to do so and subject to such terms and conditions as he may impose, extend the tax relief period of a development and expansion company after the expiry of the total tax relief period in subsection (1) for such further period or periods, not exceeding 5 years at any one time, as he may determine.
 
-[48/2004 wef 25/11/2004]
+[48/2004]
 
-(2A) The total tax relief period of a development and expansion company under subsections (1) and (2) shall not in the aggregate exceed 20 years.
+(3) The total tax relief period of a development and expansion company under subsections (1) and (2) shall not in the aggregate exceed 20 years.
 
-[48/2004 wef 25/11/2004]
+[48/2004]
 
-(2B) Any tax relief period initially granted to a development and expansion company before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment No. 2) Act 2004 which exceeds 10 years shall be deemed to have been granted under this section.
+(4) Any tax relief period initially granted to a development and expansion company before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment No. 2) Act 2004 which exceeds 10 years shall be deemed to have been granted under this section.
 
-[48/2004 wef 25/11/2004]
+[48/2004]
 
-(3) Where a development and expansion company has been granted tax relief under Part IIIA in force immediately before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004 in respect of any qualifying activity specified in the certificate issued under section 19J(2), the Minister shall, in extending the tax relief period of the company under subsections (1) and (2), take into account the tax relief period of the company under that Part.
+(5) Where a development and expansion company has been granted tax relief under Part IIIA in force immediately before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004 in respect of any qualifying activity specified in the certificate issued under section 19J(2), the Minister shall, in extending the tax relief period of the company under subsections (1) and (2), take into account the tax relief period of the company under that Part.
 
-[36/96]
+[36/96; 11/2004; 48/2004]
 
 ### Certain dividends exempted from income tax
 
@@ -852,47 +786,49 @@ DEVELOPMENT AND EXPANSION INCENTIVE
 
 [36/96]
 
-(4) Notwithstanding subsections (3) and (6), no dividend paid on any share of a preferential nature shall be exempt from tax under this section in the hands of the shareholder.
+(4) Notwithstanding subsections (3) and (7), no dividend paid on any share of a preferential nature shall be exempt from tax under this section in the hands of the shareholder.
 
-[11/2004 wef 20/12/2002]
+[11/2004]
 
-(4A) Any dividends debited to the account shall be treated as having been distributed to the shareholders of the development and expansion company or any particular class of thosethe shareholders in accordance with the proportion of their shareholdings in the development and expansion company.
+(5) Any dividends debited to the account shall be treated as having been distributed to the shareholders of the development and expansion company or any particular class of the shareholders in accordance with the proportion of their shareholdings in the development and expansion company.
 
-[44/2002 wef 20/12/2002]
+[44/2002]
 
-(5) Section 44 of the Income Tax Act (Cap. 134) shall not apply in respect of any dividends or part thereof which are debited to the account.
-
-[36/96]
-
-(6) Where an amount has been received by way of dividends from a company by a shareholder and the amount is exempt from tax under this section, if that shareholder is a company, any dividends paid by that company to its shareholders, to the extent that the Comptroller is satisfied that those dividends are paid out of that amount, shall be exempt from tax in the hands of those shareholders; and section 44 of the Income Tax Act (Cap. 134) shall not apply to any such dividends or part thereof.
-
-[44/2002 wef 01/01/2003]
-
-(7) A development and expansion company shall deliver to the Comptroller a copy of the account made up to any date specified by him whenever called upon to do so by notice in writing.
+(6) Section 44 of the Income Tax Act (Cap. 134) shall not apply in respect of any dividends or part thereof which are debited to the account.
 
 [36/96]
 
-(8) Notwithstanding subsections (1) to (7), where it appears to the Comptroller that —
+(7) Where an amount has been received by way of dividends from a company by a shareholder and the amount is exempt from tax under this section, if that shareholder is a company, any dividends paid by that company to its shareholders, to the extent that the Comptroller is satisfied that those dividends are paid out of that amount, shall be exempt from tax in the hands of those shareholders; and section 44 of the Income Tax Act (Cap. 134) shall not apply to any such dividends or part thereof.
+
+[44/2002]
+
+(8) A development and expansion company shall deliver to the Comptroller a copy of the account made up to any date specified by him whenever called upon to do so by notice in writing.
+
+[36/96]
+
+(9) Notwithstanding subsections (1) to (8), where it appears to the Comptroller that —
 
 (a) any income of a development and expansion company which has been subject to tax at the concessionary rate under section 19J; or
 
 (b) any dividends which have been exempted from tax in the hands of any shareholder,
 
-ought not to have been so taxed or exempted for any year of assessment, the Comptroller may, subject to section 74 of the Income Tax Act (Cap. 134) —
+ought not to have been so taxed or exempted for any year of assessment, the Comptroller may, subject to section 74 of the Income Tax Act —
 
 (i) make an assessment or additional assessment upon the company or any such shareholder as may be necessary in order to make good any loss of tax; or
 
 (ii) direct the company to debit the account with such amount as the circumstances require.
 
-[36/96]
+[36/96; 44/2002]
 
 ### Ascertainment of income from qualifying activities
 
 19M\.—(1) Subject to subsections (2) and (3), the qualifying income of a development and expansion company shall be ascertained in accordance with the provisions of the Income Tax Act after making such adjustments as may be necessary in consequence of any direction given under section 19P.
 
+[11/2004]
+
 (2) In determining the qualifying income of a development and expansion company for the basis period for any year of assessment —
 
-(a) the allowances provided for in sections 16, 17, 18, 19, 19A, 19B, 19C, 19D, 20, 21 and 22 of the Income Tax Act shall be taken into account notwithstanding that no claim for such allowances has been made;
+(a) the allowances provided for in sections 16 to 22 of the Income Tax Act shall be taken into account notwithstanding that no claim for such allowances has been made;
 
 (b) the allowances referred to in paragraph (a) for that year of assessment shall firstly be deducted against the qualifying income of the company, and any unabsorbed allowances shall be deducted against the other income of the company subject to tax at a different rate of tax under this Act or the Income Tax Act (Cap. 134) in accordance with subsection (3);
 
@@ -906,19 +842,33 @@ ought not to have been so taxed or exempted for any year of assessment, the Comp
 
 (g) the balance, if any, of the donations after the deduction in paragraph (f) shall be available for deduction for any subsequent year of assessment in accordance with section 37 of the Income Tax Act firstly against the qualifying income of the company, and any balance of the donations shall be deducted against the other income of the company subject to tax at a different rate of tax under this Act or the Income Tax Act in accordance with subsection (3).
 
-(3) Section 37B of the Income Tax Act shall apply, with the necessary modifications, in relation to the deduction of the allowances provided for in sections 16, 17, 18, 19, 19A, 19B, 19C, 19D, 20, 21 and 22 of that Act, the losses or donations under section 37 of that Act in respect of the qualifying income of a development and expansion company and such part of its income as is subject to tax at a different rate of tax under this Act or the Income Tax Act (Cap. 134).
+[11/2004]
+
+(3) Section 37B of the Income Tax Act shall apply, with the necessary modifications, in relation to —
+
+(a) the deduction of the allowances provided for in sections 16 to 22 of that Act; and
+
+(b) the losses or donations under section 37 of that Act in respect of —
+
+(i) the qualifying income of a development and expansion company; and
+
+(ii) such part of the development and expansion company’s income as is subject to tax at a different rate of tax under this Act or the Income Tax Act (Cap. 134).
+
+[11/2004]
 
 (4) For the purpose of the application under subsection (3), any reference in section 37B of the Income Tax Act to income of a company subject to tax at a higher or lower rate of tax or income of the company subject to tax at a higher or lower rate of tax, as the case may be, shall be read as a reference to its qualifying income.
 
-[11/2004 wef 28/04/2004]
+[11/2004]
 
 ### Ascertainment of income from other trade or business
 
 19N\.—(1) Where, during its tax relief period, a development and expansion company carries on any trade or business other than its qualifying activities, separate accounts shall be maintained in respect of that other trade or business and in respect of the same accounting period; and the income from that other trade or business shall be computed and assessed in accordance with the Income Tax Act with such adjustments as the Comptroller thinks reasonable and proper.
 
+[11/2004]
+
 (2) Where, in the opinion of the Comptroller, the carrying on of such other trade or business is subordinate or incidental to the carrying on of the qualifying activities of the development and expansion company, the income or loss arising from such other trade or business shall be deemed to form part of the income or loss of the company from its qualifying activities.
 
-[11/2004 wef 28/04/2004]
+[11/2004]
 
 ### Deduction of losses
 
@@ -926,75 +876,81 @@ ought not to have been so taxed or exempted for any year of assessment, the Comp
 
 (a) the manner in which expenses, capital allowances and donations allowable under the Income Tax Act are to be deducted; and
 
-(b) the deduction of capital allowances, losses and donations otherwise than in accordance with sections 23 and 37 of the Income Tax Act.
+(b) the deduction of capital allowances, losses and donations otherwise than in accordance with sections 23 and 37 of the Income Tax Act (Cap. 134).
 
-[11/2004 wef 28/04/2004]
+[11/2004]
 
 ### Power to give directions
 
-19P\. For the purposes of this Act and the Income Tax Act (Cap. 134), the Comptroller may direct that —
+19P\. For the purposes of this Act and the Income Tax Act, the Comptroller may direct that —
 
 (a) any sum payable to a development and expansion company in its tax relief period which might reasonably and properly have been expected to be payable, in the normal course of business, after the end of that period shall be treated as not having been payable in that period but as having been payable on such date, after that period, as the Comptroller thinks fit; and
 
 (b) any expense incurred by a development and expansion company within one year after the end of its tax relief period which might reasonably and properly have been expected to be incurred, in the normal course of business, during its tax relief period shall be treated as not having been incurred within that year but as having been incurred for the purposes of its qualifying activities and on such date, during its tax relief period, as the Comptroller thinks fit.
 
-[11/2004 wef 28/04/2004]
+[11/2004]
 
 ## PART IV
 
-20\. [Deleted by Act 11/2004 wef 28/04/2004]
+EXPANSION OF ESTABLISHED ENTERPRISES
 
-21\. [Deleted by Act 11/2004 wef 28/04/2004]
+20\. [Repealed by Act 11/2004 wef 28/04/2004]
 
-22\. [Deleted by Act 11/2004 wef 28/04/2004]
+21\. [Repealed by Act 11/2004 wef 28/04/2004]
 
-23\. [Deleted by Act 11/2004 wef 28/04/2004]
+22\. [Repealed by Act 11/2004 wef 28/04/2004]
 
-24\. [Deleted by Act 11/2004 wef 28/04/2004]
+23\. [Repealed by Act 11/2004 wef 28/04/2004]
 
-25\. [Deleted by Act 11/2004 wef 28/04/2004]
+24\. [Repealed by Act 11/2004 wef 28/04/2004]
+
+25\. [Repealed by Act 11/2004 wef 28/04/2004]
 
 ## PART V
 
-26\. [Deleted by Act 11/2004 wef 28/04/2004]
+EXPANDING SERVICE COMPANIES
 
-27\. [Deleted by Act 11/2004 wef 28/04/2004]
+26\. [Repealed by Act 11/2004 wef 28/04/2004]
 
-28\. [Deleted by Act 11/2004 wef 28/04/2004]
+27\. [Repealed by Act 11/2004 wef 28/04/2004]
+
+28\. [Repealed by Act 11/2004 wef 28/04/2004]
 
 ## PART VI
 
-29\. [Deleted by Act 11/2004 wef 28/04/2004]
+PRODUCTION FOR EXPORT
 
-30\. [Deleted by Act 11/2004 wef 28/04/2004]
+29\. [Repealed by Act 11/2004 wef 28/04/2004]
 
-31\. [Deleted by Act 11/2004 wef 28/04/2004]
+30\. [Repealed by Act 11/2004 wef 28/04/2004]
 
-32\. [Deleted by Act 11/2004 wef 28/04/2004]
+31\. [Repealed by Act 11/2004 wef 28/04/2004]
 
-33\. [Deleted by Act 11/2004 wef 28/04/2004]
+32\. [Repealed by Act 11/2004 wef 28/04/2004]
 
-34\. [Deleted by Act 11/2004 wef 28/04/2004]
+33\. [Repealed by Act 11/2004 wef 28/04/2004]
 
-35\. [Deleted by Act 11/2004 wef 28/04/2004]
+34\. [Repealed by Act 11/2004 wef 28/04/2004]
 
-36\. [Deleted by Act 11/2004 wef 28/04/2004]
+35\. [Repealed by Act 11/2004 wef 28/04/2004]
 
-37\. [Deleted by Act 11/2004 wef 28/04/2004]
+36\. [Repealed by Act 11/2004 wef 28/04/2004]
 
-38\. [Deleted by Act 11/2004 wef 28/04/2004]
+37\. [Repealed by Act 11/2004 wef 28/04/2004]
 
-39\. [Deleted by Act 11/2004 wef 28/04/2004]
+38\. [Repealed by Act 11/2004 wef 28/04/2004]
 
-40\. [Deleted by Act 11/2004 wef 28/04/2004]
+39\. [Repealed by Act 11/2004 wef 28/04/2004]
 
-41\. [Deleted by Act 11/2004 wef 28/04/2004]
+40\. [Repealed by Act 11/2004 wef 28/04/2004]
 
-42\. [Deleted by Act 11/2004 wef 28/04/2004]
+41\. [Repealed by Act 11/2004 wef 28/04/2004]
 
-43\. [Deleted by Act 11/2004 wef 28/04/2004]
+42\. [Repealed by Act 11/2004 wef 28/04/2004]
 
-44\. [Deleted by Act 11/2004 wef 28/04/2004]
+43\. [Repealed by Act 11/2004 wef 28/04/2004]
+
+44\. [Repealed by Act 11/2004 wef 28/04/2004]
 
 ## PART VIA
 
@@ -1072,11 +1028,11 @@ EXPORT OF SERVICES
 
 (2) Section 40 in force immediately before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004 shall apply, with the necessary modifications, to an export service company as it applies to an export enterprise.
 
-[22/87]
+[22/87; 11/2004]
 
 (3) Sections 49 and 50 in force immediately before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004 shall apply, with the necessary modifications, to an export service company or firm as they apply to an international trading company and for the purposes of such application, the reference in section 49(2) in force immediately before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004 to the export sales of qualifying manufactured goods, Singapore domestic produce and qualifying commodities shall be read as a reference to the provision of qualifying services.
 
-[22/87]
+[22/87; 11/2004]
 
 ### Ascertainment of income of export service company or firm
 
@@ -1090,7 +1046,7 @@ EXPORT OF SERVICES
 
 (ii) all indirect expenses which are reasonably and properly attributable to the qualifying services;
 
-(c) the allowances provided for in sections 16 to 22 of the Income Tax Act attributable to income derived from the qualifying services during the tax relief period shall be taken into account notwithstanding that no claim for those allowances has been made; and
+(c) the allowances provided for in sections 16 to 22 of the Income Tax Act (Cap. 134) attributable to income derived from the qualifying services during the tax relief period shall be taken into account notwithstanding that no claim for those allowances has been made; and
 
 (d) for the purposes of paragraphs (b)(ii) and (c), the amounts attributable to the qualifying services shall be determined on such basis as the Comptroller thinks reasonable and proper.
 
@@ -1102,13 +1058,13 @@ EXPORT OF SERVICES
 
 ### Comptroller to issue statement of income
 
-44F\.—(1) For each year of assessment, the Comptroller shall issue to an export service company or firm a statement for that year of assessment showing the amount of income ascertained under section 44E(2) which will qualify for the relief provided by this section, and Parts XVII and XVIII of the Income Tax Act (Cap. 134) (relating to objections and appeals) shall apply, with the necessary modifications, as if that statement were a notice of assessment given under those provisions.
+44F\.—(1) For each year of assessment, the Comptroller shall issue to an export service company or firm a statement for that year of assessment showing the amount of income ascertained under section 44E(2) which will qualify for the relief provided by this section, and Parts XVII and XVIII of the Income Tax Act (relating to assessments, objections and appeals) shall apply, with the necessary modifications, as if that statement were a notice of assessment given under those provisions.
 
 [22/87]
 
 (2) Subject to section 40(6) in force immediately before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004, where any statement issued under subsection (1) has become final and conclusive, 90% of the amount of the qualifying income referred to in subsection (1) shall not form part of the statutory income of the export service company or firm for the year of assessment to which the income relates and shall be exempt from tax.
 
-[22/87]
+[22/87; 11/2004]
 
 ### Certification by auditor
 
@@ -1126,37 +1082,19 @@ EXPORT OF SERVICES
 
 44I\. The Minister may by regulations provide, in relation to an export service company or firm, for the deduction of —
 
-(a) any unabsorbed allowances provided for under sections 16 to 22 of the Income Tax Act attributable to income derived from qualifying services by it during its tax relief period otherwise than in accordance with section 23 of that Act; and
+(a) any unabsorbed allowances provided for under sections 16 to 22 of the Income Tax Act (Cap. 134) attributable to income derived from qualifying services by it during its tax relief period otherwise than in accordance with section 23 of that Act; and
 
 (b) losses incurred by it during its tax relief period otherwise than in accordance with section 37(3) of the Income Tax Act.
 
-[22/87]
+[22/87; 11/2004]
 
 ## PART VII
 
-45\. [Deleted by Act 11/2004 wef 28/04/2004]
+INTERNATIONAL TRADE INCENTIVES
 
-46\. [Deleted by Act 11/2004 wef 28/04/2004]
+45\. [Repealed by Act 11/2004]
 
-47\. [Deleted by Act 11/2004 wef 28/04/2004]
-
-48\. [Deleted by Act 11/2004 wef 28/04/2004]
-
-49\. [Deleted by Act 11/2004 wef 28/04/2004]
-
-50\. [Deleted by Act 11/2004 wef 28/04/2004]
-
-51\. [Deleted by Act 11/2004 wef 28/04/2004]
-
-52\. [Deleted by Act 11/2004 wef 28/04/2004]
-
-53\. [Deleted by Act 11/2004 wef 28/04/2004]
-
-54\. [Deleted by Act 11/2004 wef 28/04/2004]
-
-55\. [Deleted by Act 11/2004 wef 28/04/2004]
-
-56\. [Deleted by Act 11/2004 wef 28/04/2004]
+56\. [Repealed by Act 11/2004]
 
 ## PART VIII2
 
@@ -1168,13 +1106,13 @@ FOREIGN LOANS FOR PRODUCTIVE EQUIPMENT
 
 57\.—(1) Where a company engaged in any industry is desirous of raising a loan of not less than $200,000 from a non-resident person (referred to in this Part as a foreign lender) by means of a financial agreement whereby credit facilities are granted for the purchase of productive equipment for the purposes of its trade or business, the company may apply to the Minister for a certificate certifying that foreign loan to be an approved foreign loan.
 
-(1A) The Minister may, where he thinks it expedient to do so, consider an application for a foreign loan certificate in respect of a foreign loan of less than $200,000.
+(2) The Minister may, where he thinks it expedient to do so, consider an application for a foreign loan certificate in respect of a foreign loan of less than $200,000.
 
-(2) The application shall be in such form and with such particulars as may be prescribed, and shall be accompanied by a copy of the financial agreement.
+(3) The application shall be in such form and with such particulars as may be prescribed, and shall be accompanied by a copy of the financial agreement.
 
-(3) Where the Minister is satisfied as to the bona fides of such an application and that it is expedient in the public interest to do so, he may issue a certificate certifying the loan specified in the application as an approved foreign loan.
+(4) Where the Minister is satisfied as to the bona fides of such an application and that it is expedient in the public interest to do so, he may issue a certificate certifying the loan specified in the application as an approved foreign loan.
 
-(4) Every certificate issued under subsection (3) shall be in such form and contain such particulars as may be prescribed, and shall be subject to such conditions as the Minister thinks fit.
+(5) Every certificate issued under subsection (4) shall be in such form and contain such particulars as may be prescribed, and shall be subject to such conditions as the Minister thinks fit.
 
 ### Restriction on disposal of specified productive equipment
 
@@ -1186,7 +1124,7 @@ FOREIGN LOANS FOR PRODUCTIVE EQUIPMENT
 
 [1/95]
 
-(2) Where a company has contravened section 58 or any conditions imposed by the Minister under section 57(4), the amount which, but for subsection (1), would have been deductible by the company from the interest paid by it to the foreign lender under section 45 of the Income Tax Act shall be deemed to have been deducted from that interest and shall be a debt due from the company to the Government and be recoverable in the manner provided by section 89 of the Income Tax Act.
+(2) Where a company has contravened section 58 or any conditions imposed by the Minister under section 57(5), the amount which, but for subsection (1), would have been deductible by the company from the interest paid by it to the foreign lender under section 45 of the Income Tax Act shall be deemed to have been deducted from that interest and shall be a debt due from the company to the Government and be recoverable in the manner provided by section 89 of the Income Tax Act (Cap. 134).
 
 [1/95]
 
@@ -1216,7 +1154,7 @@ ROYALTIES, FEES AND DEVELOPMENT CONTRIBUTIONS
 
 62\.—(1) If for any reason any approved royalties, fees or contributions payable by a company cease to become payable before the expiry of the period of agreement or arrangement related thereto, the company shall, within 30 days from the date on which the royalties, fees or contributions cease to become payable, give notice thereof to the Minister.
 
-(2) The company to which a certificate has been issued under section 61 shall not, without the prior sanction of the Minister, amend or otherwise vary the terms of the agreement or arrangement related thereto, except in cases where for the same consideration the amount of the approved royalties, fees or contributions is to be reduced and in that event the company shall notify the Minister accordingly within 30 days from the date on which the amount is reduced
+(2) The company to which a certificate has been issued under section 61 shall not, without the prior sanction of the Minister, amend or otherwise vary the terms of the agreement or arrangement related thereto, except in cases where for the same consideration the amount of the approved royalties, fees or contributions is to be reduced and in that event the company shall notify the Minister accordingly within 30 days from the date on which the amount is reduced.
 
 Relief conditional on no increase in foreign tax
 
@@ -1228,7 +1166,7 @@ Relief conditional on no increase in foreign tax
 
 [1/95]
 
-(2) Where a company has contravened section 62(2) or any condition imposed by the Minister under section 61(3), the amount of tax which, but for subsection (1), would have been deductible by the company from the royalties, fees or contributions paid by it to the non-resident person under section 45A of the Income Tax Act shall be deemed to have been deducted from the royalties, fees and contributions and shall be a debt due from the company to the Government and shall, with the prior sanction of the Minister, be recoverable in the manner provided by section 89 of the Income Tax Act.
+(2) Where a company has contravened section 62(2) or any condition imposed by the Minister under section 61(3), the amount of tax which, but for subsection (1), would have been deductible by the company from the royalties, fees or contributions paid by it to the non-resident person under section 45A of the Income Tax Act shall be deemed to have been deducted from the royalties, fees and contributions and shall be a debt due from the company to the Government and shall, with the prior sanction of the Minister, be recoverable in the manner provided by section 89 of the Income Tax Act (Cap. 134).
 
 [1/95]
 
@@ -1248,13 +1186,11 @@ INVESTMENT ALLOWANCES
 
 “approved project” means a project approved by the Minister under section 67(2);
 
-“chargeable concessionary income” means concessionary income after deducting expenses, donations, allowances or losses allowable under the Income Tax Act (Cap. 134) against the concessionary income;
+“chargeable concessionary income” means concessionary income after deducting expenses, donations, allowances or losses allowable under the Income Tax Act against the concessionary income;
 
 “chargeable normal income” means normal income after deducting expenses, donations, allowances or losses allowable under the Income Tax Act against the normal income;
 
-“concessionary income” means income subject to tax at the concessionary rate of tax under section 13H, 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L, 43N, 43O, 43P, 43Q, 43R or 43S of the Income Tax Act, as the case may be;
-
-[48/2004 wef 27/02/2004]
+“concessionary income” means income subject to tax at the concessionary rate of tax under section 13H, 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L, 43N, 43O, 43P, 43Q, 43Ror 43S of the Income Tax Act, as the case may be;
 
 “concessionary investment allowance” means an investment allowance given to a company for an approved project from which the concessionary income of the company is derived;
 
@@ -1274,7 +1210,7 @@ INVESTMENT ALLOWANCES
 
 (b) the acquisition of any know-how or patent rights; and
 
-(c) any new productive equipment (and, subject to the approval of the Minister, any secondhand productive equipment) to be used in Singapore and, in relation to any project under section 67(1)(h), includes any productive equipment to be used outside Singapore as approved under section 67(2A);
+(c) any new productive equipment (and, subject to the approval of the Minister, any secondhand productive equipment) to be used in Singapore and, in relation to any project under section 67(1)(h) or (i), includes any productive equipment to be used outside Singapore as approved under section 67(3);
 
 “investment day”, in relation to a company, means the date specified in its certificate as the date from which the company shall qualify for the investment allowance;
 
@@ -1286,15 +1222,15 @@ INVESTMENT ALLOWANCES
 
 “relevant income”, in relation to a company, means any income which —
 
-(a) does not form part of the statutory income of the company or is exempt from tax under the provisions of this Act (other than this Part) or the Income Tax Act; or
+(a) does not form part of the statutory income of the company or is exempt from tax under the provisions of this Act (other than this Part) or the Income Tax Act (Cap. 134); or
 
 (b) is subject to tax at the concessionary rate under Part IIIA in force immediately before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004 or IIIB;
 
-“research and development” has the same meaning as in the Income Tax Act (Cap. 134);
+“research and development” has the same meaning as in section 2(1) of the Income Tax Act;
 
 “space satellite” means an apparatus placed in orbit relative to the earth for any economic, scientific or technological purpose.
 
-[8/79; 29/80; 17/82; 34/84; 22/87; 1/95; 36/96; 4/98]
+[8/79; 29/80; 17/82; 34/84; 22/87; 1/95; 36/96; 4/98; 44/2002; 11/2004; 48/2004]
 
 (2) For the purposes of this Part, fixed capital expenditure shall not be deemed to be incurred by a company unless —
 
@@ -1302,7 +1238,7 @@ INVESTMENT ALLOWANCES
 
 (b) in the case of any productive equipment, other than that to which paragraph (a) or (c) applies, the company has received delivery of the equipment in Singapore;
 
-(c) in the case of any productive equipment to be used in relation to a project under section 67(1)(h), the company has received delivery of the equipment.
+(c) in the case of any productive equipment to be used in relation to a project under section 67(1)(h) or (i), the company has received delivery of the equipment.
 
 [8/79; 4/98]
 
@@ -1324,7 +1260,13 @@ INVESTMENT ALLOWANCES
 
 (g) for the promotion of the tourist industry (other than a hotel) in Singapore;
 
-(h) for the operation of any space satellite,
+(h) for the operation of any space satellite; or
+
+(i) for the provision of maintenance, repair and overhaul services to any aircraft,
+
+[14/2007 wef 09/09/2004]
+
+[33/2010 wef 01/04/2010]
 
 the company may apply in the prescribed form to the Minister for the approval of an investment allowance in respect of the fixed capital expenditure for the project.
 
@@ -1334,15 +1276,19 @@ the company may apply in the prescribed form to the Minister for the approval of
 
 [8/79]
 
-(2A) For the purposes of subsection (2), the Minister may approve any investment allowance in respect of the fixed capital expenditure to be incurred on any productive equipment to be used outside Singapore for any project under subsection (1)(h).
+(3) For the purposes of subsection (2), the Minister may approve any investment allowance in respect of the fixed capital expenditure to be incurred on any productive equipment to be used outside Singapore for any project under subsection (1) (h) or (i).
 
 [4/98]
 
-(3) Every certificate issued under this section shall specify a date as the investment day from which the company shall be entitled to investment allowance under this Part.
+(4) Every certificate issued under this section shall specify a date as the investment day from which the company shall be entitled to an investment allowance under this Part.
 
 [8/79]
 
-(4) The Minister may, in his discretion, upon the application of a company amend its certificate by substituting for the investment day specified therein such earlier or later date as he thinks fit and thereupon the provisions of this Part shall have effect as if the date so substituted were the investment day in relation to that certificate.
+(5) The Minister may, in his discretion, upon the application of a company, amend its certificate by substituting for the investment day specified therein such earlier or later date as he thinks fit and thereupon the provisions of this Part shall have effect as if the date so substituted were the investment day in relation to that certificate.
+
+(6) No approval under this section shall be granted to any company in respect of any project under subsection (1)(i) on or after 9th September 2009.
+
+[14/2007 wef 09/09/2004]
 
 ### Investment allowance
 
@@ -1368,27 +1314,27 @@ the company may apply in the prescribed form to the Minister for the approval of
 
 69\.—(1) Where in the basis period for a year of assessment a company has incurred fixed capital expenditure, the company shall be given for that year of assessment an investment allowance in respect of such amount of the fixed capital expenditure as qualifies for the investment allowance under the terms and conditions of its certificate and in accordance with section 68.
 
-(1A) Notwithstanding subsection (1), no investment allowance shall be given to a company for an approved project from which relevant income of the company is derived.
+(2) Notwithstanding subsection (1), no investment allowance shall be given to a company for an approved project from which relevant income of the company is derived.
 
 [36/96]
 
-(2) Where any investment allowance is given to a company for an approved project from which only normal income of the company is derived, the investment allowance shall be credited to an account to be called a “normal investment allowance account” which shall be kept by the company for the purposes of this Part.
+(3) Where any investment allowance is given to a company for an approved project from which only normal income of the company is derived, the investment allowance shall be credited to an account to be called a “normal investment allowance account” which shall be kept by the company for the purposes of this Part.
 
 [1/95]
 
-(3) Where any investment allowance is given to a company for an approved project from which only concessionary income of the company is derived, the investment allowance shall be credited to an account to be called a “concessionary investment allowance account” which shall be kept by the company for the purposes of this Part.
+(4) Where any investment allowance is given to a company for an approved project from which only concessionary income of the company is derived, the investment allowance shall be credited to an account to be called a “concessionary investment allowance account” which shall be kept by the company for the purposes of this Part.
 
 [1/95]
 
-(4) Where a company derives both normal income and concessionary income at the same time from an approved project, the investment allowance shall be credited wholly to the normal investment allowance account or wholly to the concessionary investment allowance account as the Minister, or such person as he may appoint, may direct.
+(5) Where a company derives both normal income and concessionary income at the same time from an approved project, the investment allowance shall be credited wholly to the normal investment allowance account or wholly to the concessionary investment allowance account as the Minister, or such person as he may appoint, may direct.
 
 [1/95]
 
-(4A) Notwithstanding subsections (1) to (4), where a company has incurred, on or after 1st January 1996, fixed capital expenditure for a project approved under section 67(1)(e), the Minister may, if he is satisfied that it is expedient in the public interest to do so, direct that an investment allowance be given to the company for such expenditure, and such investment allowance shall be credited into a normal investment allowance account.
+(6) Notwithstanding subsections (1) to (5), where a company has incurred, on or after 1st January 1996, fixed capital expenditure for a project approved under section 67(1)(e), the Minister may, if he is satisfied that it is expedient in the public interest to do so, direct that an investment allowance be given to the company for such expenditure, and such investment allowance shall be credited into a normal investment allowance account.
 
 [36/96]
 
-(5) Notwithstanding section 71, as from the relevant date, where the income of a company which is derived from an approved project is subject to tax as concessionary income instead of as normal income —
+(7) Notwithstanding section 71, as from the relevant date, where the income of a company which is derived from an approved project is subject to tax as concessionary income instead of as normal income —
 
 (a) subject to paragraph (d), any balance in the normal investment allowance account at the end of the basis period for the year of assessment before the transitional year shall only be used for deduction against the chargeable normal income of the company for the transitional year;
 
@@ -1400,7 +1346,7 @@ the company may apply in the prescribed form to the Minister for the approval of
 
 [1/95]
 
-(6) Notwithstanding section 71, as from the relevant date, where the income of a company which is derived from an approved project is subject to tax as normal income instead of as concessionary income —
+(8) Notwithstanding section 71, as from the relevant date, where the income of a company which is derived from an approved project is subject to tax as normal income instead of as concessionary income —
 
 (a) subject to paragraph (d), any balance in the concessionary investment allowance account at the end of the basis period for the year of assessment before the transitional year shall only be used for deduction against the chargeable concessionary income of the company for the transitional year;
 
@@ -1412,7 +1358,7 @@ the company may apply in the prescribed form to the Minister for the approval of
 
 [1/95]
 
-(7) Notwithstanding section 71(4), where the Comptroller is satisfied that a company has permanently ceased to derive any concessionary income in the basis period for any year of assessment —
+(9) Notwithstanding section 71(4), where the Comptroller is satisfied that a company has permanently ceased to derive any concessionary income in the basis period for any year of assessment —
 
 (a) the concessionary investment allowance account shall be debited with the amount of chargeable concessionary income of the company for that year of assessment not exceeding the credit in that account;
 
@@ -1434,7 +1380,7 @@ is the rate of tax under section 43(1)(a) of the Income Tax Act (Cap. 134) for t
 
 [1/95]
 
-(8) In this section —
+(10) In this section —
 
 “relevant date” means the date in the basis period relating to any transitional year on which the income of an approved project is subject to tax as concessionary income instead of as normal income, or vice versa;
 
@@ -1452,15 +1398,15 @@ is the rate of tax under section 43(1)(a) of the Income Tax Act (Cap. 134) for t
 
 (i) the amount shall be deducted from that account; and
 
-(ii) where that account is insufficient to give full effect to the recovery, an assessment or additional assessment in respect of the amount unrecovered shall be made upon the company or any shareholder of the company and the tax exempt account, kept in accordance with section 72, shall be debited accordingly; and
+(ii) where that account is insufficient to give full effect to the recovery, an assessment or additional assessment in respect of the amount unrecovered shall be made upon the company or any shareholder of the company and the tax exempt account, kept in accordance with section 72), shall be debited accordingly; and
 
 (b) where the investment allowance given had been credited to the concessionary investment allowance account —
 
 (i) the amount shall be deducted from that account; and
 
-(ii) where that account is insufficient to give full effect to the recovery, an assessment or additional assessment in respect of the amount unrecovered shall be made upon the company or any shareholder of the company and the tax exempt account, kept in accordance with section 72, shall be debited accordingly.
+(ii) where that account is insufficient to give full effect to the recovery, an assessment or additional assessment in respect of the amount unrecovered shall be made upon the company or any shareholder of the company and the tax exempt account, kept in accordance with section 72), shall be debited accordingly.
 
-[1/95]
+[1/95; 11/2004; 48/2004]
 
 (3) Notwithstanding subsection (2), the Minister may waive wholly or partly the recovery of the investment allowance.
 
@@ -1492,7 +1438,7 @@ is the rate of tax under section 43(1)(a) of the Income Tax Act (Cap. 134) for t
 
 [1/95]
 
-(5) Any amount of chargeable normal income of a company debited from the normal investment allowance account under section 69(5)(d) or any amount of chargeable concessionary income of a company debited from the concessionary investment allowance account under section 69(6)(d) or (7)(a) shall be exempt from tax.
+(5) Any amount of chargeable normal income of a company debited from the normal investment allowance account under section 69(7)(d) or any amount of chargeable concessionary income of a company debited from the concessionary investment allowance account under section 69(8)(d) or (9)(a) shall be exempt from tax.
 
 [1/95]
 
@@ -1500,19 +1446,31 @@ is the rate of tax under section 43(1)(a) of the Income Tax Act (Cap. 134) for t
 
 72\.—(1) As soon as any amount of chargeable income of a company which has been granted an investment allowance has become exempt under section 71, that amount shall be credited to a tax exempt account to be kept by the company for the purposes of this Part.
 
+[48/2004]
+
 (2) Where a tax exempt account is in credit at the date on which any dividends are paid by a company, out of income which has been so exempted, an amount equal to those dividends or to that credit, whichever is the less, shall be debited to the account.
+
+[48/2004]
 
 (3) So much of the amount of any dividends so debited to the tax exempt account as is received by a shareholder of the company shall, if the Comptroller is satisfied with the entries in the account, be exempt from tax in the hands of the shareholder.
 
+[48/2004]
+
 (4) Notwithstanding subsections (3) and (7), no dividends paid on any share of a preferential nature shall be exempt from tax under this section in the hands of the shareholder.
+
+[48/2004]
 
 (5) Any dividends debited to the tax exempt account shall be treated as having been distributed to the shareholders of the company or any particular class of the shareholders in accordance with the proportion of their shareholdings in the company.
 
+[48/2004]
+
 (6) The company shall deliver to the Comptroller a copy of the account, made up to a date specified by him, whenever called upon to do so by notice in writing sent by him to its registered office, until such time as he is satisfied that there is no further need for maintaining the account.
+
+[48/2004]
 
 (7) Where an amount has been received by way of dividend from a company by a shareholder and the amount is exempt from tax under this Part, if that shareholder is a company, any dividends paid by that company to its shareholders, to the extent that the Comptroller is satisfied that those dividends are paid out of that amount, shall be exempt from tax in the hands of those shareholders.
 
-[48/2004 wef 25/11/2004]
+[48/2004]
 
 ### Recovery of tax exempted
 
@@ -1532,77 +1490,41 @@ ought not to have been exempted by reason of the revocation under section 99 of 
 
 ### Application of Parts XVII and XVIII of Income Tax Act
 
-74\.—(1) Parts XVII and XVIII of the Income Tax Act (relating to objections and appeals) shall apply, with the necessary modifications, to any direction given under section 73 as if it were a notice of assessment given under those provisions.
+74\.—(1) Parts XVII and XVIII of the Income Tax Act (relating to assessments, objections and appeals) shall apply, with the necessary modifications, to any direction given under section 73 as if it were a notice of assessment given under those provisions.
 
 (2) Section 44 of the Income Tax Act shall not apply in respect of any dividend or part thereof which is exempted from tax under this Part.
 
 ## PART XI
 
-75\. [Deleted by Act 11/2004 wef 28/04/2004]
+WAREHOUSING AND SERVICING INCENTIVES
 
-76\. [Deleted by Act 11/2004 wef 28/04/2004]
+75\. [Repealed by Act 11/2004]
 
-77\. [Deleted by Act 11/2004 wef 28/04/2004]
-
-78\. [Deleted by Act 11/2004 wef 28/04/2004]
-
-79\. [Deleted by Act 11/2004 wef 28/04/2004]
-
-80\. [Deleted by Act 11/2004 wef 28/04/2004]
-
-81\. [Deleted by Act 11/2004 wef 28/04/2004]
-
-82\. [Deleted by Act 11/2004 wef 28/04/2004]
-
-83\. [Deleted by Act 11/2004 wef 28/04/2004]
-
-84\. [Deleted by Act 11/2004 wef 28/04/2004]
+84\. [Repealed by Act 11/2004]
 
 ## PART XII
 
-85\. [Deleted by Act 11/2004 wef 28/04/2004]
+INTERNATIONAL CONSULTANCY SERVICES
 
-86\. [Deleted by Act 11/2004 wef 28/04/2004]
+85\. [Repealed by Act 11/2004]
 
-87\. [Deleted by Act 11/2004 wef 28/04/2004]
-
-88\. [Deleted by Act 11/2004 wef 28/04/2004]
-
-89\. [Deleted by Act 11/2004 wef 28/04/2004]
-
-90\. [Deleted by Act 11/2004 wef 28/04/2004]
-
-91\. [Deleted by Act 11/2004 wef 28/04/2004]
-
-92\. [Deleted by Act 11/2004 wef 28/04/2004]
+92\. [Repealed by Act 11/2004]
 
 ## PART XIII
 
-93\. [Deleted by Act 11/2004 wef 28/04/2004]
+INVESTMENTS IN NEW TECHNOLOGY COMPANIES
 
-94\. [Deleted by Act 11/2004 wef 28/04/2004]
+93\. [Repealed by Act 11/2004]
 
-95\. [Deleted by Act 11/2004 wef 28/04/2004]
-
-96\. [Deleted by Act 11/2004 wef 28/04/2004]
-
-97\. [Deleted by Act 11/2004 wef 28/04/2004]
+97\. [Repealed by Act 11/2004]
 
 ## PART XIIIA
 
-97A\. [Deleted by Act 11/2004 wef 28/04/2004]
+OVERSEAS INVESTMENT AND VENTURE CAPITAL INCENTIVES
 
-97B\. [Deleted by Act 11/2004 wef 28/04/2004]
+97A\. [Repealed by Act 11/2004]
 
-97C\. [Deleted by Act 11/2004 wef 28/04/2004]
-
-97D\. [Deleted by Act 11/2004 wef 28/04/2004]
-
-97E\. [Deleted by Act 11/2004 wef 28/04/2004]
-
-97F\. [Deleted by Act 11/2004 wef 28/04/2004]
-
-97G\. [Deleted by Act 11/2004 wef 28/04/2004]
+97G\. [Repealed by Act 11/2004]
 
 ## PART XIIIB
 
@@ -1630,7 +1552,13 @@ OVERSEAS ENTERPRISE INCENTIVE
 
 (b) income derived from Singapore or received in Singapore from outside Singapore from any qualifying activity;
 
-“overseas enterprise” means a company approved as an overseas enterprise under section 97I(2) and in respect of which not less than 50% of the paid-up capital is beneficially owned by citizens or permanent residents of Singapore throughout the period during which it holds shares in an overseas company in the case of dividends received from qualifying investment in that overseas company or throughout the period during which it carries out any qualifying activity in the case of income derived from that qualifying activity, unless the Minister otherwise decides.
+“overseas enterprise” means a company approved as an overseas enterprise under section 97I(2) and in respect of which not less than 50% of the paid-up capital is beneficially owned by citizens or permanent residents of Singapore throughout the period during which it —
+
+(a) holds shares in an overseas company in the case of dividends received from qualifying investment in that overseas company; or
+
+(b) carries out any qualifying activity in the case of income derived from that qualifying activity,
+
+unless the Minister otherwise decides.
 
 [36/93]
 
@@ -1672,7 +1600,11 @@ OVERSEAS ENTERPRISE INCENTIVE
 
 97L\. For the purposes of the Income Tax Act (Cap. 134) and this Act, the Comptroller may direct that —
 
-(a) any sums payable to an overseas enterprise in any accounting period which, but for the provisions of this Act, might reasonably and properly have been expected to be payable in the normal course of business, after the end of that period shall be treated as not having been payable in that period but as having been payable on such date, after that period, as the Comptroller thinks fit and, where that date is after the end of the tax relief period of the overseas enterprise, as having been so payable, on that date, as a sum payable in respect of its trade or business immediately after the end of its tax relief period; and
+(a) any sums payable to an overseas enterprise in any accounting period which, but for the provisions of this Act, might reasonably and properly have been expected to be payable in the normal course of business, after the end of that period shall be treated as not having been payable in that period but as having been payable —
+
+(i) on such date, after that period, as the Comptroller thinks fit; and
+
+(ii) where the date determined under paragraph (i) is after the end of the tax relief period of the overseas enterprise as having been so payable, on the date immediately after the end of its tax relief period, as a sum payable in respect of its trade or business; and
 
 (b) any expense incurred by an overseas enterprise within one year after the end of its tax relief period which, but for the provisions of this Act, might reasonably and properly have been expected to be incurred, in the normal course of business, during its tax relief period shall be treated as not having been incurred within that year but as having been incurred for the purpose of its trade or business and on such date, during its tax relief period, as the Comptroller thinks fit.
 
@@ -1694,19 +1626,17 @@ OVERSEAS ENTERPRISE INCENTIVE
 
 (c) the allowances provided for in sections 16 to 22 (where applicable) of the Income Tax Act attributable to the qualifying income during the tax relief period shall be taken into account notwithstanding that no claim for those allowances has been made;
 
-(d) where in any year of assessment full effect cannot, by reason of an insufficiency of qualifying income for that year of assessment, be given to those allowances, the balance of the allowances shall be added to, and be deemed to form part of, the corresponding allowances, if any, for the next succeeding year of assessment, and, if no such corresponding allowances fall to be made for that year, shall be deemed to constitute the corresponding allowances for that year, and so on for subsequent years of assessment, and shall, during the tax relief period, only be made against the qualifying income and the balance of such allowances shall not be available as a deduction against any other income or be available for transfer under section 37C of the Income Tax Act;
+(d) where in any year of assessment full effect cannot, by reason of an insufficiency of qualifying income for that year of assessment, be given to those allowances, the balance of the allowances shall be added to, and be deemed to form part of, the corresponding allowances, if any, for the next succeeding year of assessment, and, if no such corresponding allowances fall to be made for that year, shall be deemed to constitute the corresponding allowances for that year, and so on for subsequent years of assessment, and shall, during the tax relief period, only be made against the qualifying income and the balance of such allowances shall not be available as a deduction against any other income or be available for transfer under section 37C of the Income Tax Act (Cap. 134);
 
 (e) for the purposes of paragraphs (b)(ii) and (c), the amounts attributable to the qualifying income shall be determined on such basis as the Comptroller thinks reasonable and proper;
 
 (f) where the overseas enterprise has, during its tax relief period, incurred a loss or has unabsorbed donation for any year in respect of its qualifying activity, that loss or donation shall during the tax relief period, subject to section 37 of the Income Tax Act, only be deducted against the qualifying income and the balance of such loss or donation shall not be available as a deduction against any other income or be available for transfer under section 37C of that Act;
 
-[Act 44/2002, wef Y/A 2003 & Sub Ys/A:2002-ACT-44]
-
 (g) for the purposes of paragraphs (b), (c) and (f), expenses, donations, allowances and losses attributable to any qualifying income derived from outside Singapore shall only be deducted against such income and the balance of such expenses, donations, allowances and losses shall not be available as a deduction against any other income or be available for transfer under section 37C of the Income Tax Act; and
 
-(h) subject to sections 23 and 37 of the Income Tax Act (Cap. 134), any allowances , losses and donations attributable to any qualifying income derived from Singapore which remain unabsorbed at the end of its tax relief period shall be available for deduction in its post tax relief period.
+(h) subject to sections 23 and 37 of the Income Tax Act, any allowances, losses and donations attributable to any qualifying income derived from Singapore which remain unabsorbed at the end of its tax relief period shall be available for deduction in its post tax relief period.
 
-[36/93]
+[36/93; 44/2002]
 
 ### Application of Part XVI of Income Tax Act
 
@@ -1716,13 +1646,13 @@ OVERSEAS ENTERPRISE INCENTIVE
 
 ### Statement of qualifying income
 
-97O\. For each year of assessment, the Comptroller shall issue to the overseas enterprise a statement showing the amount of qualifying income for that year of assessment, and Parts XVII and XVIII of the Income Tax Act (relating to objections and appeals) shall apply, with the necessary modifications, as if that statement were a notice of assessment given under those provisions.
+97O\. For each year of assessment, the Comptroller shall issue to the overseas enterprise a statement showing the amount of qualifying income for that year of assessment, and Parts XVII and XVIII of the Income Tax Act (Cap. 134) (relating to assessments, objections and appeals) shall apply, with the necessary modifications, as if that statement were a notice of assessment given under those provisions.
 
 [36/93]
 
 ### Exemption from income tax
 
-97P\.—(1) Subject to section 97Q(6) where any statement issued under section 97O has become final and conclusive, the amount of the qualifying income shown by the statement shall not form part of the statutory income of the overseas enterprise for any year of assessment and shall be exempt from tax.
+97P\.—(1) Subject to section 97Q(8) where any statement issued under section 97O has become final and conclusive, the amount of the qualifying income shown by the statement shall not form part of the statutory income of the overseas enterprise for any year of assessment and shall be exempt from tax.
 
 [36/93]
 
@@ -1746,51 +1676,41 @@ OVERSEAS ENTERPRISE INCENTIVE
 
 (4) Where an amount has been received by way of dividends from a company by a shareholder and the amount is exempt from tax under this Part, if that shareholder is a company, any dividends paid by that company to its shareholders, to the extent that the Comptroller is satisfied that those dividends are paid out of that amount, shall be exempt from tax in the hands of those shareholders; and section 44 of the Income Tax Act (Cap. 134) shall not apply to any such dividends or part thereof.
 
-[44/2002 wef 01/01/2003]
+[44/2002]
 
-(4A) Notwithstanding subsections (3) and (4), no dividend paid on any share of a preferential nature shall be exempt from tax under this section in the hands of the shareholder.
+(5) Notwithstanding subsections (3) and (4), no dividend paid on any share of a preferential nature shall be exempt from tax under this section in the hands of the shareholder.
 
-[11/2004 wef 20/12/2002]
+[11/2004]
 
-(4B) Any dividends debited to thatthe account shall be treated as having been distributed to the shareholders of the overseas enterprise or any particular class of thosethe shareholders in accordance with the proportion of their shareholdings in thecompany overseas enterprise.
+(6) Any dividends debited to the account shall be treated as having been distributed to the shareholders of the overseas enterprise or any particular class of the shareholders in accordance with the proportion of their shareholdings in the overseas enterprise.
 
-[44/2002 wef 20/12/2002]
+[44/2002]
 
-(4C) [Deleted by Act 44/2002 wef 20/12/2002]
+(7) The overseas enterprise or any company to which this section applies shall deliver to the Comptroller a statement of the account made up to any date specified by him, if the Comptroller so requires by written notice.
 
-(4D) [Deleted by Act 44/2002 wef 20/12/2002]
+[44/2002]
 
-(5) The overseas enterprise or any company to which this section applies shall deliver to the Comptroller a statement of the account made up to any date specified by him, if the Comptroller so requires by written notice.
-
-[44/2002 wef 01/01/2003]
-
-(6) Notwithstanding section 97P and subsections (1) to (5), where it appears to the Comptroller that —
+(8) Notwithstanding section 97P and subsections (1) to (7), where it appears to the Comptroller that —
 
 (a) any amount of exempted income of an overseas enterprise; or
 
 (b) any dividend exempted in the hands of any shareholder,
 
-ought not to have been exempted by reason of a direction under section 97L, having been made with respect to the overseas enterprise, after any income of that enterprise has been exempted under the provisions of this Act or the revocation under section 99 of a certificate issued to the overseas enterprise, the Comptroller may, subject to section 74 of the Income Tax Act (Cap. 134) —
+ought not to have been exempted by reason of a direction under section 97L, having been made with respect to the overseas enterprise, after any income of that enterprise has been exempted under the provisions of this Act or the revocation under section 99 of a certificate issued to the overseas enterprise, the Comptroller may, subject to section 74 of the Income Tax Act —
 
 (i) make such assessment or additional assessment upon the overseas enterprise or any such shareholders as may appear to be necessary in order to counteract any profit or income obtained from any such amount which ought not to have been exempted; or
 
 (ii) direct the overseas enterprise or any such shareholders to debit its account with such amount as the circumstances require.
 
-[36/93; 1/95; 4/98]
+[36/93; 1/95; 4/98; 44/2002]
 
-(7) Parts XVII and XVIII of the Income Tax Act (Cap. 134) (relating to objections and appeals) shall apply, with the necessary modifications, to any direction given under subsection (6) as if it were a notice of assessment given under those provisions.
+(9) Parts XVII and XVIII of the Income Tax Act (Cap. 134) (relating to assessments, objections and appeals) shall apply, with the necessary modifications, to any direction given under subsection (8) as if it were a notice of assessment given under those provisions.
 
 [36/93]
 
-(8) Section 44 of the Income Tax Act shall not apply to any dividends or part thereof which are exempt from tax under this section.
+(10) Section 44 of the Income Tax Act shall not apply to any dividends or part thereof which are exempt from tax under this section.
 
 [4/98]
-
-(9) [Deleted by Act 44/2002 wef 01/01/2003]
-
-(10) [Deleted by Act 44/2002 wef 01/01/2003]
-
-(11) [Deleted by Act 44/2002 wef 01/01/2003]
 
 ### Certification of income by auditor
 
@@ -1802,8 +1722,6 @@ ought not to have been exempted by reason of a direction under section 97L, havi
 
 ENTERPRISE INVESTMENT INCENTIVE
 
-[44/2002 wef 20/12/2002]
-
 ### Interpretation of this Part
 
 97S\. In this Part, unless the context otherwise requires —
@@ -1811,6 +1729,8 @@ ENTERPRISE INVESTMENT INCENTIVE
 “eligible investor”, in relation to a start-up company, means a person who holds such qualifying shares in the company as specified in a letter issued by the company to the person under section 97U(2);
 
 “start-up company” means a company approved as a start-up company under section 97T(2).
+
+[44/2002; 48/2004]
 
 ### Application for and issue of certificate to start-up company
 
@@ -1824,9 +1744,15 @@ ENTERPRISE INVESTMENT INCENTIVE
 
 may make an application to the Minister to be approved as a start-up company.
 
+[44/2002; 48/2004]
+
 (2) Where the Minister is satisfied that the activities of the company are in an area of high growth potential and, if introduced in Singapore, would promote or enhance the economic or technological development of Singapore, the Minister may approve the company as a start-up company for a period not exceeding 5 years and issue a certificate to the company subject to such conditions as he may impose.
 
+[44/2002; 48/2004]
+
 (3) No approval under subsection (2) shall be given on or after 1st September 2009.
+
+[44/2002]
 
 ### Allotment of qualifying shares by company
 
@@ -1844,7 +1770,11 @@ may make an application to the Minister to be approved as a start-up company.
 
 (f) at the time the shares are allotted to the person, the total amount paid to the company for all qualifying shares by eligible investors (including the amount paid for those shares by that person) has not in the aggregate exceeded $3 million.
 
+[44/2002; 48/2004]
+
 (2) Where a start-up company has allotted any qualifying shares under subsection (1) to any person, the company shall issue to the person a letter for the purposes of this Part.
+
+[44/2002; 48/2004]
 
 (3) Every letter issued by a start-up company to any person under subsection (2) shall specify —
 
@@ -1852,11 +1782,19 @@ may make an application to the Minister to be approved as a start-up company.
 
 (b) the number of qualifying shares allotted to the person and the purchase price of such shares.
 
+[44/2002; 48/2004]
+
 (4) A start-up company shall keep and maintain records of the persons to whom letters under subsection (2) are issued and such other particulars as may be required by the Minister for the purposes of this section.
+
+[44/2002; 48/2004]
 
 (5) Any letter issued under subsection (2) shall not be transferable.
 
+[44/2002]
+
 (6) Where a start-up company is listed at any time whether or not during or after the period referred to in section 97T(2) on the Singapore Exchange or elsewhere or where the certificate issued under section 97T(2) to a start-up company is revoked under section 99, any qualifying shares allotted by the company to any person shall, as from the date of such listing or revocation, as the case may be, be deemed not to be qualifying shares and the person shall be deemed not to be an eligible investor.
+
+[44/2002; 48/2004]
 
 ### Deduction of losses allowable to eligible investor
 
@@ -1867,6 +1805,8 @@ may make an application to the Minister to be approved as a start-up company.
 (b) the liquidation of the start-up company,
 
 the loss shall be allowed as a deduction against the statutory income of the eligible investor for that year of assessment in accordance with section 37 of the Income Tax Act (Cap. 134) as if the loss were incurred from a trade or business carried on by the eligible investor.
+
+[44/2002; 48/2004]
 
 (2) For the purposes of this section —
 
@@ -1884,6 +1824,8 @@ the loss shall be allowed as a deduction against the statutory income of the eli
 
 (e) in computing the gain or loss from the sale of any qualifying share by an eligible investor, the shares allotted to him on an earlier date shall be deemed to have been sold first.
 
+[44/2002; 48/2004]
+
 (3) Where in the basis period for any year of assessment an eligible investor makes a gain from the sale of any qualifying share, or from the liquidation of a start-up company and where any loss from the sale of any qualifying share of that start-up company has been allowed as a deduction to the eligible investor under this section for any previous year of assessment, such gain shall, so far as it is not chargeable to tax as a revenue or trading receipt, be deemed to be income of the eligible investor chargeable to tax for that year of assessment, subject to the following provisions:
 
 (a) no gain shall be so deemed to be income unless the total amount of the losses allowed for the previous years of assessment exceed the total amount of the gains deemed to be income for previous years of assessment;
@@ -1891,6 +1833,8 @@ the loss shall be allowed as a deduction against the statutory income of the eli
 (b) the amount of the gain chargeable to tax shall not exceed the excess of the total amount of the losses allowed for previous years of assessment over the total amount of the gains deemed to be income for previous years of assessment; and
 
 (c) the losses and gains referred to in subsection (2)(a) and (b) shall be disregarded.
+
+[44/2002; 48/2004]
 
 (4) Where in the basis period for any year of assessment an eligible investor incurs a loss from the sale of any qualifying share or from the liquidation of a start-up company and where any gain made from the sale of any qualifying shares of that start-up company, so far as it is not chargeable to tax as a revenue or trading receipt, has not been deemed to be income of the eligible investor chargeable to tax under this section for any previous year of assessment, such loss shall be allowed as a deduction against the statutory income of the eligible investor for that year of assessment under this section subject to the following provisions:
 
@@ -1900,23 +1844,27 @@ the loss shall be allowed as a deduction against the statutory income of the eli
 
 (c) the losses and gains referred to in subsection (2)(a) and (b) shall be disregarded.
 
+[44/2002; 48/2004]
+
 (5) For the purposes of this section, the loss shall be the excess of the purchase price of the qualifying shares —
 
 (a) over the proceeds from the sale; and where the value of net asset backing of the start-up company as determined by the Comptroller at the date of sale of such shares is greater than the sale proceeds, that value shall be deemed to be the proceeds from the sale; or
 
-(b) over the proceeds from the liquidation of the start-up company,
+(b) over the proceeds from the liquidation of the start-up company, as the case may be
 
-as the case may be.
+[44/2002; 48/2004]
 
 (6) For the purposes of this section, the gain shall be the excess of —
 
 (a) the proceeds from the sale; and where the value of net asset backing of the start-up company as determined by the Comptroller at the date of sale of such shares is greater than the sale proceeds, that value shall be deemed to be the proceeds from the sale; or
 
-(b) the proceeds from the liquidation of the start-up company,
+(b) the proceeds from the liquidation of the start-up company, as the case may be, over the purchase price of the shares.
 
-as the case may be, over the purchase price of the shares.
+[44/2002; 48/2004]
 
 (7) Section 37B of the Income Tax Act (Cap. 134) shall not apply to any loss allowed under subsection (1).
+
+[44/2002; 48/2004]
 
 ### Power of Comptroller to give directions
 
@@ -1924,29 +1872,35 @@ as the case may be, over the purchase price of the shares.
 
 (a) any loss incurred in respect of the sale of any qualifying share by an eligible investor on any day during the period from the first day of the second year to the last day of the sixth year (both dates inclusive) from the date of allotment of such share, which, but for the provisions of this Act, might reasonably and properly have been expected to be incurred in the normal course of business before or after that period, shall be treated as not having been incurred on that day but as having been incurred on such day before or after that period as the Comptroller thinks fit; and
 
-(b) any gain made in respect of the sale of any qualifying share by an eligible investor before the second year or after the sixth year from the date of allotment of such share, which, but for the provisions of this Act, might reasonably and properly have been expected to be made in the normal course of business to be madeon any day during the period from the first day of the second year to last day of the sixth year (both dates inclusive) from the date of allotment of such share, shall be treated as not having been made on that day but as having been made on such day during that period as the Comptroller thinks fit.
+(b) any gain made in respect of the sale of any qualifying share by an eligible investor before the second year or after the sixth year from the date of allotment of such share, which, but for the provisions of this Act, might reasonably and properly have been expected to be made in the normal course of business on any day during the period from the first day of the second year to last day of the sixth year (both dates inclusive) from the date of allotment of such share, shall be treated as not having been made on that day but as having been made on such day during that period as the Comptroller thinks fit.
+
+[44/2002]
 
 ### Prohibition of other activity
 
 97X\. A start-up company shall not, without the written approval of the Minister, carry out any activity other than the activity to which its certificate relates.
 
+[44/2002; 48/2004]
+
 ### Recovery of tax
 
 97Y\. Notwithstanding anything in this Part, where it appears to the Comptroller that any deduction under section 97V ought not to have been given to an eligible investor by reason of a direction made under section 97W or the revocation under section 99 of the certificate issued under section 97T(2) to a start-up company or the loss was incurred for the purpose of obtaining a tax advantage, the Comptroller may, subject to section 74 of the Income Tax Act (Cap. 134), make such assessment or additional assessment upon the eligible investor as may be necessary in order to recover any tax which should have been payable by the eligible investor.
+
+[44/2002; 48/2004]
 
 ### Savings provision
 
 97Z\.—(1) Notwithstanding the amendment of sections 97S to 97V, 97X and 97Y by the Economic Expansion Incentives (Relief from Income Tax) (Amendment No. 2) Act 2004, sections 97S to 97V, 97X and 97Y in force immediately before 27th February 2004 shall continue to apply and have effect to any technopreneur start-up company approved before that date.
 
+[48/2004]
+
 (2) In this section, “technopreneur start-up company” means a company approved as a technopreneur start-up company under section 97T(2) in force immediately before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment No. 2) Act 2004.
 
-[48/2004 wef 27/02/2004]
+[48/2004]
 
 ## PART XIIID
 
 INTEGRATED INDUSTRIAL CAPITAL ALLOWANCES
-
-[11/2004 wef 01/03/2003]
 
 ### Interpretation of this Part
 
@@ -1972,6 +1926,8 @@ to be provided to and used by an overseas subsidiary of the company for an appro
 
 (c) in respect of which all (or such other percentage as the Minister may determine) of its paid-up capital is beneficially owned throughout the qualifying period by a company qualifying for the integrated industrial capital allowance under section 97ZB in respect of the approved project.
 
+[11/2004]
+
 ### Integrated industrial capital allowance
 
 97ZB\.—(1) Where a company incorporated and resident in Singapore proposes to carry out a project through any overseas subsidiary —
@@ -1982,7 +1938,11 @@ to be provided to and used by an overseas subsidiary of the company for an appro
 
 the company may apply in the prescribed form to the Minister for the approval of an integrated industrial capital allowance in respect of the fixed capital expenditure for the project.
 
+[11/2004]
+
 (2) Where the Minister considers it expedient, having regard to the economic, technical and other merits of the project, he may approve the project and issue a letter to the company which shall qualify the company for an integrated industrial capital allowance in respect of the fixed capital expenditure for the approved project subject to such terms and conditions as the Minister thinks fit.
+
+[11/2004]
 
 (3) Every letter issued to a company under subsection (2) shall specify —
 
@@ -1990,15 +1950,25 @@ the company may apply in the prescribed form to the Minister for the approval of
 
 (b) the items of the fixed capital expenditure to be incurred by the company for the purpose of subsection (1).
 
+[11/2004]
+
 (4) Where any question arises as to whether a particular item qualifies as one of the items under subsection (3)(b), it shall be determined by the Minister whose decision shall be final.
 
+[11/2004]
+
 (5) No approval under this section shall be granted to any company on or after 1st March 2013.
+
+[11/2004]
 
 ### Deduction of integrated industrial capital allowance
 
 97ZC\.—(1) Subject to this section, where in the basis period for any year of assessment a company incurs fixed capital expenditure within the qualifying period which qualifies for the integrated industrial capital allowance under section 97ZB, sections 19 and 19A of the Income Tax Act (Cap. 134) shall apply, with the necessary modifications, as if the fixed capital expenditure is incurred in the provision and use of machinery or plant for the purposes of a trade, profession or business carried on by the company.
 
+[11/2004]
+
 (2) Notwithstanding subsection (1), no integrated industrial capital allowance shall be made to any company for an approved project unless the claim for the integrated industrial capital allowance in respect of any fixed capital expenditure incurred within the qualifying period is made by the company by the year of assessment relating to the basis period during which the qualifying period ends.
+
+[11/2004]
 
 (3) For any year of assessment, the integrated industrial capital allowance referred to in subsection (1) shall be made to a company as a deduction only against the following income (and not against any other income) of the company in the following order:
 
@@ -2008,41 +1978,63 @@ the company may apply in the prescribed form to the Minister for the approval of
 
 (c) lastly, against the income received in Singapore from the provision of the productive equipment to the overseas subsidiary.
 
+[11/2004]
+
 (4) Sections 22A and 23 of the Income Tax Act (Cap. 134) shall apply, with the necessary modifications, in relation to the set-off order and carry forward of the integrated industrial capital allowances.
+
+[11/2004]
 
 (5) Notwithstanding subsection (3), where a company ceases permanently to carry on an approved project through the overseas subsidiary in the basis period for any year of assessment, any balance of the integrated industrial capital allowance remaining unabsorbed shall be available as a deduction against any other income of the company for the year of assessment which relates to the basis period in which the project permanently ceases and any subsequent year of assessment in accordance with section 23 of the Income Tax Act, with the necessary modifications.
 
+[11/2004]
+
 (6) Where a company sells or disposes of any productive equipment after the qualifying period in respect of which any integrated industrial capital allowance has been made under subsection (1), there shall be made on the company for the year of assessment relating to the basis period in which the sale or disposal occurs, a balancing allowance or a balancing charge determined in accordance with section 20 or 21 of the Income Tax Act, with the necessary modifications.
+
+[11/2004]
 
 (7) Section 37B of the Income Tax Act shall apply, with the necessary modifications, in relation to the deduction of the integrated industrial capital allowance against the income of a company for any year of assessment which is subject to tax as concessionary income and normal income.
 
-(8) Any balance of the integrated industrial capital allowance remaining unabsorbed for any year of assessment shall not be available for transfer by the company under section 37C of the Income Tax Act.
+[11/2004]
+
+(8) Any balance of the integrated industrial capital allowance remaining unabsorbed for any year of assessment shall not be available for transfer by the company under section 37C of the Income Tax Act (Cap. 134).
+
+[11/2004]
 
 (9) In this section —
 
 “concessionary income” means income subject to tax at the concessionary rate under Part IIIB;
 
-“normal income” means income subject to tax at the rate of tax under section 43(1)(a) of the Income Tax Act (Cap. 134).
+“normal income” means income subject to tax at the rate of tax under section 43(1)(a) of the Income Tax Act.
+
+[11/2004]
 
 ### Prohibition to sell, lease out or dispose of productive equipment
 
 97ZD\.—(1) During its qualifying period, a company shall not, without the written approval of the Minister, sell, lease out (except to the overseas subsidiary) or otherwise dispose of any productive equipment in respect of which an integrated industrial capital allowance has been made to the company.
 
+[11/2004]
+
 (2) Where, during its qualifying period, a company has, without the written approval of the Minister, sold, leased out (except to the overseas subsidiary) or otherwise disposed of any productive equipment in respect of which an integrated industrial capital allowance has been made, the company shall be deemed to have derived an amount of income for that year of assessment equal to the deduction which has been made under section 97ZC as if the integrated industrial capital allowance were not made.
+
+[11/2004]
 
 (3) The Minister may waive, wholly or partly, the recovery of the integrated industrial capital allowance under subsection (2).
 
+[11/2004]
+
 (4) Where the Minister waives, wholly or partly, the recovery of the integrated industrial capital allowance under subsection (3), section 97ZC(6) shall apply in respect of the sale or disposal of the productive equipment made by the company during the qualifying period.
+
+[11/2004]
 
 ### Recovery of tax
 
-97ZE\. Notwithstanding anything in this Part, where it appears to the Comptroller that any deduction under section 97ZC ought not to have been made to a company by reason of the revocation under section 99 of a letter issued under section 97ZB to the company, the Comptroller may, subject to section 74 of the Income Tax Act, make such assessment or additional assessment upon the company as may be necessary in order to recover any tax which should have been payable by the company.
+97ZE\. Notwithstanding anything in this Part, where it appears to the Comptroller that any deduction under section 97ZC ought not to have been made to a company by reason of the revocation under section 99 of a letter issued under section 97ZB to the company, the Comptroller may, subject to section 74 of the Income Tax Act (Cap. 134), make such assessment or additional assessment upon the company as may be necessary in order to recover any tax which should have been payable by the company.
+
+[11/2004]
 
 ## PART XIIIE
 
 RESEARCH AND DEVELOPMENT AND INTELLECTUAL PROPERTY MANAGEMENT HUB
-
-[11/2004 wef 01/06/2003]
 
 ### Interpretation of this Part
 
@@ -2056,13 +2048,17 @@ RESEARCH AND DEVELOPMENT AND INTELLECTUAL PROPERTY MANAGEMENT HUB
 
 “remitted income” means the total amount of relevant foreign income received in Singapore in any basis period by an approved company;
 
-“research and development” has the same meaning as section 2(1) of the Income Tax Act (Cap. 134);
+“research and development” has the same meaning as in section 2(1) of the Income Tax Act;
 
 “year of receipt” means the basis period in which any remitted income is received by an approved company.
+
+[11/2004]
 
 ### Application for and issue of letter of approval
 
 97ZG\.—(1) Any company which is desirous of undertaking any research and development project in Singapore or elsewhere may apply in the prescribed form to the Minister to be approved for the tax exemption under this Part on any remitted income during its tax relief period.
+
+[11/2004]
 
 (2) Where the Minister considers it expedient, having regard to the economic, technical and other merits of the research and development project, he may approve the company for the tax exemption under this Part and issue a letter of approval to the company subject to the following conditions:
 
@@ -2078,9 +2074,13 @@ RESEARCH AND DEVELOPMENT AND INTELLECTUAL PROPERTY MANAGEMENT HUB
 
 (3) No approval under subsection (2) shall be given after 31st May 2008.
 
+[11/2004]
+
 ### Exemption from income tax
 
 97ZH\.—(1) Where any remitted income is received by an approved company during its tax relief period, the remitted income shall be exempt from tax.
+
+[11/2004]
 
 (2) The tax relief period of an approved company shall be —
 
@@ -2088,67 +2088,83 @@ RESEARCH AND DEVELOPMENT AND INTELLECTUAL PROPERTY MANAGEMENT HUB
 
 (b) where the company does not receive any remitted income in the approval year, 5 consecutive basis periods commencing from the basis period immediately after the approval year.
 
+[11/2004]
+
 ### Certain dividends exempted from income tax
 
 97ZI\.—(1) Where any remitted income of an approved company which is resident in Singapore is exempt from tax under section 97ZH, an amount equal to that amount of remitted income shall be credited to a tax exempt account (referred to in this section as the account) to be kept by the company for the purpose of this section.
 
+[11/2004]
+
 (2) Where the account is in credit at the date on which any dividends are paid by an approved company out of income which has been so exempted, an amount equal to those dividends or to that credit, whichever is the less, shall be debited to the account.
+
+[11/2004]
 
 (3) So much of the amount of any dividends so debited to the account as is received by a shareholder of an approved company shall, if the Comptroller is satisfied with the entries in the account, be exempt from tax in the hands of the shareholder.
 
+[11/2004]
+
 (4) Any dividends debited to the account shall be treated as having been distributed to the shareholders of the approved company or any particular class of the shareholders in accordance with the proportion of their shareholdings in the company.
+
+[11/2004]
 
 (5) Section 44 of the Income Tax Act (Cap. 134) shall not apply to any dividends or part thereof which are exempt from tax under this section.
 
-(6) Where an amount has been received by way of dividends from a company by a shareholder and the amount is exempt from tax under this section, if that shareholder is a company, any dividends paid by that company to its shareholders, to the extent that the Comptroller is satisfied that those dividends are paid out of that amount, shall be exempt from tax in the hands of those shareholders, and section 44 shall not apply to any such dividend or part thereof.
+[11/2004]
+
+(6) Where an amount has been received by way of dividends from a company by a shareholder and the amount is exempt from tax under this section, if that shareholder is a company, any dividends paid by that company to its shareholders, to the extent that the Comptroller is satisfied that those dividends are paid out of that amount, shall be exempt from tax in the hands of those shareholders, and section 44 of the Income Tax Act (Cap. 134) shall not apply to any such dividend or part thereof.
+
+[11/2004]
 
 (7) Notwithstanding subsections (3) and (6), no dividend paid on any share of a preferential nature shall be exempt from tax under this section in the hands of the shareholder.
 
+[11/2004]
+
 (8) An approved company shall deliver to the Comptroller a copy of the account, made up to any date specified by him, whenever called upon to do so by the Comptroller by notice in writing.
+
+[11/2004]
 
 (9) Notwithstanding anything in this Part, where it appears to the Comptroller that —
 
 (a) any amount of remitted income of an approved company exempted from tax; or
 
-(b) any dividends exempted from tax in the hands of any shareholder,
+(b) any dividend exempted from tax in the hands of any shareholder,
 
-ought not to have been so exempted by reason of the revocation under section 99 of a letter of approval issued under section 97ZG to the company, the Comptroller may, subject to section 74 of the Income Tax Act (Cap. 134) —
+ought not to have been so exempted by reason of the revocation under section 99 of a letter of approval issued under section 97ZG to the company, the Comptroller may, subject to section 74 of the Income Tax Act —
 
 (i) direct the company to debit the account with such amount as the circumstances require; or
 
 (ii) make such assessment or additional assessment upon the company or any such shareholder as may be necessary in order to make good any loss of tax.
 
-(10) Parts XVII and XVIII of the Income Tax Act (relating to objections and appeals) shall apply, with the necessary modifications, to any direction given under subsection (9) as if it were a notice of assessment given under those provisions.
+[11/2004]
+
+(10) Parts XVII and XVIII of the Income Tax Act (relating to assessment, objections and appeals) shall apply, with the necessary modifications, to any direction given under subsection (9) as if it were a notice of assessment given under those provisions.
+
+[11/2004]
 
 ### Recovery of tax for breach of condition
 
-97ZJ\.—(1) If an approved company fails to comply with the condition in paragraph (a) of section 97ZG(2) in respect of any remitted income, there shall be deemed to be income of the company chargeable with tax under the Income Tax Act (Cap. 134), for the year of assessment relating to the 5th basis period commencing from the year of receipt of the remitted income, an amount ascertained in accordance with the formula
+97ZJ\.—(1) If an approved company fails to comply with the condition in paragraph (a) of section 97ZG(2) in respect of any remitted income, there shall be deemed to be income of the company chargeable with tax under the Income Tax Act, for the year of assessment relating to the 5th basis period commencing from the year of receipt of the remitted income, an amount ascertained in accordance with the formula
 
-(A — B)
+where A
 
-X
+is the whole amount of the remitted income;
+
+B
+
+is the amount of the remitted income used by the end of the 5th basis period commencing from the year of receipt of the remitted income by the company on any research and development project undertaken by it;
 
 C
 
+is the rate of tax under section 43(1)(a) of the Income Tax Act (Cap. 134) for the year of assessment relating to the year of receipt of the remitted income; and
+
 D
 
-where A is the whole amount of the remitted income;
+is the rate of tax under section 43(1)(a) of the Income Tax Act for the year of assessment relating to the 5th basis period commencing from the year of receipt of the remitted income.
 
-B is the amount of the remitted income used by the end of the 5th basis period commencing from the year of receipt of the remitted income by the company on any research and development project undertaken by it;
-
-C is the rate of tax under section 43(1)(a) of the Income Tax Act for the year of assessment relating to the year of receipt of the remitted income; and
-
-D is the rate of tax under section 43(1)(a) of the Income Tax Act for the year of assessment relating to the 5th basis period commencing from the year of receipt of the remitted income.
+[11/2004]
 
 (2) If an approved company fails to comply with the condition in paragraph (b) of section 97ZG(2) in respect of any remitted income, there shall be deemed to be income of the company chargeable with tax under the Income Tax Act, for the year of assessment relating to the 5th basis period commencing from the year of receipt of the remitted income, an amount ascertained in accordance with the formula
-
-(A — E)
-
-X
-
-C
-
-D
 
 where A, C and D
 
@@ -2158,7 +2174,11 @@ E
 
 is 5 times the amount of the remitted income used by the end of the 5th basis period commencing from the year of receipt of the remitted income by the company on any research and development project undertaken by it in Singapore.
 
-(3) If an approved company fails to comply with the conditions in paragraphs (a) and (b) of section 97ZG(2) in respect of any remitted income, there shall be deemed to be income of the company chargeable with tax under the Income Tax Act (Cap. 134), for the year of assessment relating to the 5th basis period commencing from the year of receipt of the remitted income, an amount equal to the higher of the amounts determined under subsections (1) and (2).
+[11/2004]
+
+(3) If an approved company fails to comply with the conditions in paragraphs (a) and (b) of section 97ZG(2) in respect of any remitted income, there shall be deemed to be income of the company chargeable with tax under the Income Tax Act, for the year of assessment relating to the 5th basis period commencing from the year of receipt of the remitted income, an amount equal to the higher of the amounts determined under subsections (1) and (2).
+
+[11/2004]
 
 (4) If an approved company fails to comply with —
 
@@ -2166,35 +2186,7 @@ is 5 times the amount of the remitted income used by the end of the 5th basis pe
 
 (b) the conditions in paragraphs (c) and (d) of section 97ZG(2) only,
 
-in respect of one or more research and development projects undertaken by it, there shall be deemed to be income of the company chargeable with tax under the Income Tax Act, for the year of assessment relating to the 5th basis period commencing from the year of receipt of any remitted income which has been used by the company on each of such projects, an amount ascertained in accordance with the formula
-
-(F
-
-1
-
-+ F
-
-2
-
-+ F
-
-3
-
-+ F
-
-4
-
-+ F
-
-5
-
-)
-
-X
-
-C
-
-D
+in respect of one or more research and development projects undertaken by it, there shall be deemed to be income of the company chargeable with tax under the Income Tax Act (Cap. 134), for the year of assessment relating to the 5th basis period commencing from the year of receipt of any remitted income which has been used by the company on each of such projects, an amount ascertained in accordance with the formula
 
 where F
 
@@ -2218,7 +2210,11 @@ and F
 
 is the amount of remitted income used by the company on each of such research and development projects in the 1st, 2nd, 3rd, 4th and 5th basis periods, respectively, from the year of receipt of the remitted income to the 5th basis period from the year of receipt of the remitted income; and
 
-C and D have the same meanings as in sub-section (1).
+C and D
+
+have the same meanings as in subsection (1).
+
+[11/2004]
 
 (5) If an approved company fails to comply with the conditions in —
 
@@ -2228,11 +2224,13 @@ C and D have the same meanings as in sub-section (1).
 
 (c) paragraphs (a), (c) and (d) of section 97ZG(2) only,
 
-there shall be deemed to be income of the company chargeable with tax under the Income Tax Act (Cap. 134), for the year of assessment relating to the 5th basis period commencing from the year of receipt of any remitted income used by the company on the research and development project or projects for which the company fails to comply with the condition in paragraph (c) or (d) of section 97ZG(2), or the conditions in paragraphs (c) and (d) of section 97ZG(2), as the case may be, an amount equal to the aggregate of —
+there shall be deemed to be income of the company chargeable with tax under the Income Tax Act, for the year of assessment relating to the 5th basis period commencing from the year of receipt of any remitted income used by the company on the research and development project or projects for which the company fails to comply with the condition in paragraph (c) or (d) of section 97ZG(2), or the conditions in paragraphs (c) and (d) of section 97ZG(2), as the case may be, an amount equal to the aggregate of —
 
 (i) the amount determined under subsection (1); and
 
 (ii) the amount determined under subsection (4).
+
+[11/2004]
 
 (6) If an approved company fails to comply with the conditions in —
 
@@ -2242,13 +2240,15 @@ there shall be deemed to be income of the company chargeable with tax under the 
 
 (c) paragraphs (b), (c) and (d) of section 97ZG(2) only,
 
-there shall be deemed to be income of the company chargeable with tax under the Income Tax Act, for the year of assessment relating to the 5th basis period commencing from the year of receipt of any remitted income used by the company on the research and development project or projects for which the company fails to comply with the condition in paragraph (c) or (d) of section 97ZG(2), or the conditions in paragraphs (c) and (d) of section 97ZG(2), as the case may be, an amount equal to the aggregate of —
+there shall be deemed to be income of the company chargeable with tax under the Income Tax Act (Cap. 134), for the year of assessment relating to the 5th basis period commencing from the year of receipt of any remitted income used by the company on the research and development project or projects for which the company fails to comply with the condition in paragraph (c) or (d) of section 97ZG(2), or the conditions in paragraphs (c) and (d) of section 97ZG(2), as the case may be, an amount equal to the aggregate of —
 
 (i) the amount determined under subsection (2) that relates to the research and development project or projects for which the company fails to comply with the condition in paragraph (c) or (d) of section 97ZG(2), or the conditions in paragraphs (c) and (d) of section 97ZG(2), as the case may be;
 
 (ii) the amount determined under subsection (2) that relates to the research and development project or projects for which the company complies with the condition in paragraph (c) or (d) of section 97ZG(2), or the conditions in paragraphs (c) and (d) of section 97ZG(2), as the case may be; and
 
 (iii) the amount determined under subsection (4), reduced by the amount determined under sub-paragraph (i).
+
+[11/2004]
 
 (7) If an approved company fails to comply with the conditions in —
 
@@ -2266,11 +2266,11 @@ there shall be deemed to be income of the company chargeable with tax under the 
 
 (iii) the amount determined under subsection (4), reduced by the amount determined under sub-paragraph (i).
 
+[11/2004]
+
 ## PART XIIIF
 
 OVERSEAS INVESTMENT INCENTIVE
-
-[11/2004 wef 01/01/2004]
 
 ### Interpretation of this Part
 
@@ -2296,15 +2296,19 @@ OVERSEAS INVESTMENT INCENTIVE
 
 (b) that is not incorporated in Singapore and not listed on the Singapore Exchange or elsewhere; and
 
-(c) in respect of which at least 50% (or such other percentage as the Minister may determine) of its paid-up capital (excluding any part of the paid-up capital held by an eligible holding company before the date of commencement specified in the letter of approval referred to in section 97ZL(2)(a)) is held by an eligible holding company throughout the period referred to section 97ZL(2)(b);
+(c) in respect of which at least 50% (or such other percentage as the Minister may determine) of its paid-up capital (excluding any part of the paid-up capital held by an eligible holding company before the date of commencement specified in the letter of approval referred to in section 97ZL(2)(a)) is held by an eligible holding company throughout the period referred to in section 97ZL(2)(b);
 
 “qualifying year of assessment”, in relation to an eligible holding company, means any year of assessment relating to the relevant accounting period of the company;
 
 “relevant accounting period”, in relation to an eligible holding company, means the basis period of the company that ends on the same date or a date no later than one year from the end of the corresponding accounting period of the eligible investee company.
 
+[11/2004]
+
 ### Application for and issue of letter of approval
 
-97ZL\.—(1) Any company, incorporated and resident in Singapore, desirous of investing in an overseas company on or after 1st January 2004 for the purpose of acquiring for use in Singapore any technology from the overseas company or for the purpose of gaining access to any new overseas market may make an application in the prescribed form to be approved as an eligible holding company.
+97ZL\.—(1) Any company, incorporated and resident in Singapore, desirous of investing in an overseas company on or after 1st January 2004 for the purpose of acquiring for use in Singapore any technology from the overseas company or for the purpose of gaining access to any new overseas market may make an application in the prescribed form to the Minister to be approved as an eligible holding company.
+
+[11/2004]
 
 (2) Where the Minister is satisfied in respect of any application under subsection (1) that the technology acquired, if introduced in Singapore or the access which would be gained to the new overseas market, would promote or enhance the technological or economic development of Singapore, he may —
 
@@ -2312,29 +2316,51 @@ OVERSEAS INVESTMENT INCENTIVE
 
 (b) designate the overseas company as an eligible investee company for a period of 3 years from the date of commencement specified in the letter of approval referred to in paragraph (a).
 
+[11/2004]
+
+[]
+
 (3) No approval under this section shall be given after 31st December 2006.
+
+[11/2004]
 
 ### Deferment of payment of tax
 
 97ZM\.—(1) Where an eligible holding company is liable to pay any tax on its chargeable income for any qualifying year of assessment and where the eligible investee company incurs any qualifying loss from the carrying on of any trade or business during the accounting period that ends on the same date or a date no earlier than one year from the end of the relevant accounting period of the eligible holding company to which that qualifying year of assessment relates, the payment of a specified amount of the tax for that qualifying year of assessment by the eligible holding company shall be deferred.
 
+[11/2004]
+
 (2) The specified amount of tax the payment of which may be deferred for any qualifying year of assessment by an eligible holding company under subsection (1) shall be ascertained in accordance with the formula
 
-A x C B
+where A
 
-where A is the amount of qualifying loss of the eligible investee company incurred during the accounting period of the company as determined under section 97ZN;
+is the amount of qualifying loss of the eligible investee company incurred during the accounting period of the company as determined under section 97ZN;
 
-B is the amount of chargeable income of the eligible holding company for the qualifying year of assessment relating to the relevant accounting period which ends on the same date or a date no later than one year from the end of the accounting period of the eligible investee company during which the qualifying loss is incurred; and
+B
 
-C is the amount of tax payable by the eligible holding company for the qualifying year of assessment relating to the relevant accounting period which ends on the same date or a date no later than one year from the end of the accounting period of the eligible investee company during which the qualifying loss is incurred.
+is the amount of chargeable income of the eligible holding company for the qualifying year of assessment relating to the relevant accounting period which ends on the same date or a date no later than one year from the end of the accounting period of the eligible investee company during which the qualifying loss is incurred; and
+
+C
+
+is the amount of tax payable by the eligible holding company for the qualifying year of assessment relating to the relevant accounting period which ends on the same date or a date no later than one year from the end of the accounting period of the eligible investee company during which the qualifying loss is incurred.
+
+[11/2004]
 
 (3) The specified amount of tax deferred by an eligible holding company under subsection (1) for any qualifying year of assessment shall be paid by the company to the Comptroller not later than 2 years from the date of the notice of assessment on which tax for that qualifying year of assessment was imposed, and where more than one assessment is issued to the company for that qualifying year of assessment, the specified amount of tax shall be paid not later than 2 years from the date of the earliest of the notices of assessment.
 
+[11/2004]
+
 (4) Where an eligible investee company incurs a qualifying loss from the carrying on of any trade or business in any accounting period, but the eligible holding company is not liable to pay any tax for the qualifying year of assessment relating to the relevant accounting period which ends on the same date or a date no later than one year from the end of the accounting period of the eligible investee company, the amount of such loss shall not be used to compute the specified amount of tax the payment of which may be deferred for any subsequent qualifying year of assessment by the eligible holding company.
+
+[11/2004]
 
 (5) If, at the time the qualifying loss of an eligible investee company is ascertained for any accounting period, the eligible holding company has made any payment of any part of the tax payable for the qualifying year of assessment relating to the relevant accounting period which ends on the same date or a date no later than one year from the end of the accounting period of the eligible investee company, the amount of tax that the eligible holding company may defer under subsection (1) for that qualifying year of assessment shall be limited to the amount of the tax remaining unpaid by the company as at the date the qualifying loss is ascertained.
 
+[11/2004]
+
 (6) Where the specified amount of tax deferred by an eligible holding company under subsection (1) for any qualifying year of assessment has been ascertained and any subsequent revision of assessment is made on the company for that qualifying year of assessment, the specified amount of tax to be deferred by the company under subsection (1) for that qualifying year of assessment shall be re-ascertained in accordance with the formula specified in subsection (2) for the subsequent revision of assessment, except that the references to the amount in B and C shall be read as references to the revised amount, in each case.
+
+[11/2004]
 
 ### Ascertainment of qualifying loss
 
@@ -2342,51 +2368,63 @@ C is the amount of tax payable by the eligible holding company for the qualifyin
 
 (a) the amount determined in accordance with the formula
 
-D
+where D
 
-X
+is the amount of loss before tax as disclosed in the audited financial statementf the eligible investee company for that accounting period;
 
 E
 
-X
+is —
 
-G
+(i)
+
+the number of days from the date the eligible investee company is designated as such to the end of the accounting period, if the accounting period is the first accounting period of the company;
+
+(ii)
+
+the number of days from the first day of the accounting period to the last day the eligible investee company remains designated as such, if the accounting period is the last accounting period of the company; or
+
+(iii)
+
+the number of days in the accounting period of the eligible investee company, in any other case;
 
 F
 
-where D is the amount of loss before tax as disclosed in the audited financial statements of the eligible investee company for that accounting period;
+is the number of days in that accounting period of the eligible investee company; and
 
-E is —
+G
 
-(i) the number of days from the date the eligible investee company is designated as such to the end of the accounting period, if the accounting period is the first accounting period of the company;
-
-(ii) the number of days from the first day of the accounting period to the last day the eligible investee company remains designated as such, if the accounting period is the last accounting period of the company; or
-
-(iii) the number of days in the accounting period of the eligible investee company, in any other case;
-
-F is the number of days in that accounting period of the eligible investee company; and
-
-G is the percentage of paid-up capital (excluding any part of the paid-up capital held by the eligible holding company before the date of commencement specified in the letter of approval referred to in section 97ZL(2)(a)) of the eligible investee company that is held by the eligible holding company during that accounting period of the eligible investee company, and where the percentage of paid-up capital (excluding any part of the paid-up capital held by the eligible holding company before the date of commencement specified in the letter of approval referred to in section 97ZL(2)(a)) changes during that accounting period, the average percentage held over such accounting period;
+is the percentage of paid-up capital (excluding any part of the paid-up capital held by the eligible holding company before the date of commencement specified in the letter of approval referred to in section 97ZL(2)(a)) of the eligible investee company that is held by the eligible holding company during that accounting period of the eligible investee company, and where the percentage of paid-up capital (excluding any part of the paid-up capital held by the eligible holding company before the date of commencement specified in the letter of approval referred to in section 97ZL(2)(a)) changes during that accounting period, the average percentage held over such accounting period;
 
 (b) the amount of paid-up capital (excluding any part of the paid-up capital held by the eligible holding company before the date of commencement specified in the letter of approval referred to in section 97ZL(2)(a)) held by the eligible holding company in the eligible investee company during that accounting period of the eligible investee company, and where the amount of paid-up capital (excluding any part of the paid-up capital held by the eligible holding company before the date of commencement specified in the letter of approval referred to in section 97ZL(2)(a)) changes during that accounting period, the average amount held over such accounting period; or
 
 (c) the amount of chargeable income of the eligible holding company for the qualifying year of assessment relating to the relevant accounting period which ends on the same date or a date no later than one year from the end of that accounting period of the eligible investee company.
 
+[11/2004]
+
 (2) The amount of qualifying loss of an eligible investee company for any accounting period shall be certified by the external auditor of the company unless the Minister otherwise directs.
+
+[11/2004]
 
 ### Payment of tax deferred
 
 97ZO\. Notwithstanding anything in this Part, where it appears to the Comptroller that any amount of tax the payment of which has been deferred by an eligible holding company for any qualifying year of assessment under section 97ZM(1) ought not to have been deferred by reason of the revocation under section 99 of the letter of approval issued under section 97ZL to the company, the company shall pay the amount of tax deferred to the Comptroller immediately upon receipt of a notice in writing from the Comptroller to do so.
 
+[11/2004]
+
 ## PART XIV
 
 MISCELLANEOUS PROVISIONS
 
-### Prohibition of publication of application and certificate
+### Prohibition of publication of application and certificate or letter
 
 98\.—(1) The contents of any application made by, or of any certificate or letter issued to, any company under any of the provisions of this Act shall not, except at the instance of the company, be published.
 
+[11/2004]
+
 (2) The Minister may cause to be published by notification in theGazettethe name of any company to which any such certificate or letter has been issued or whose certificate or letter has been revoked, and the industry and product or produce to which the certificate or letter relates.
+
+[11/2004]
 
 ### Revocation of certificate or letter
 
@@ -2394,37 +2432,33 @@ MISCELLANEOUS PROVISIONS
 
 (a) any of the provisions of this Act; or
 
-(b) any terms or conditions imposed on the certificate or letter ,
+(b) any terms or conditions imposed on the certificate or letter,
 
 he may, by notice in writing, require the company within 30 days from the date of service of the notice to show cause why the certificate or letter should not be revoked.
 
+[11/2004]
+
 (2) If the Minister is satisfied that, having regard to all the circumstances of the case it is expedient to do so, he may revoke the certificate or letter.
 
+[11/2004]
+
 (3) Where a certificate or letter is revoked under subsection (2), the Minister shall specify the date, which may be the date of the certificate or letter, from which its revocation shall be operative and the provisions of this Act shall cease to have effect in relation to the certificate or letter from that date.
+
+[11/2004]
 
 ### Provisions of Income Tax Act not affected
 
 100\. Except as otherwise provided, nothing in this Act shall exempt any company to which a certificate has been issued under the provisions of this Act from making any return to the Comptroller or from complying with the provisions of the Income Tax Act (Cap. 134) in any respect so as to establish the liability to tax, if any, of the company.
 
-101\. [Deleted by Act 11/2004 wef 28/04/2004]
-
-102\. [Deleted by Act 11/2004 wef 28/04/2004]
-
-103\. [Deleted by Act 11/2004 wef 28/04/2004]
-
-104\. [Deleted by Act 11/2004 wef 28/04/2004]
-
-105\. [Deleted by Act 11/2004 wef 28/04/2004]
-
-106\. [Deleted by Act 11/2004 wef 28/04/2004]
-
 ### Action of officers no offence
 
-107\. Nothing done by an officer of the Government in the course of his duties shall be deemed to be an offence under this Act.
+101\. Nothing done by an officer of the Government in the course of his duties shall be deemed to be an offence under this Act.
+
+[107
 
 ### Regulations
 
-108\.—(1) The Minister may make such regulations as may be necessary or expedient for the purpose of carrying out the provisions of this Act.
+102\.—(1) The Minister may make such regulations as may be necessary or expedient for the purpose of carrying out the provisions of this Act.
 
 (2) Without prejudice to the generality of subsection (1), the Minister may make regulations for or with respect to all or any of the following matters:
 
@@ -2440,11 +2474,15 @@ he may, by notice in writing, require the company within 30 days from the date o
 
 (4) All regulations made under this section shall be presented to Parliament as soon as possible after publication in theGazette.
 
+[108
+
 ### Savings provision
 
-109\. Notwithstanding the repeal of Parts IIIA, IV, XI and XIIIA by the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004, the repealed Parts IIIA, IV, XI and XIIIA shall continue to apply to and have effect on any approved company approved before and its qualifying activities conducted before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004 as if that Act had not been enacted.
+103\. Notwithstanding the repeal of Parts IIIA, IV, XI and XIIIA by the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004, the repealed Parts IIIA, IV, XI and XIIIA shall continue to apply to and have effect on any approved company approved before and its qualifying activities conducted before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004 as if that Act had not been enacted.
 
-[11/2004 wef 28/04/2004]
+[109
+
+[11/2004]
 
 ## LEGISLATIVE HISTORY
 
@@ -2622,91 +2660,568 @@ This Legislative History is provided for the convenience of users of the Economi
 |||(Bill No. 56/2004 published on 20 October 2004)|
 ||Date of Second and Third Readings|17 November 2004|
 ||Date of commencement|25 November 2004|
+|35.|**2005 Revised Edition—Economic Expansion Incentives (Relief from Income Tax) Act**|
+||Date of operation|31 March 2005|
 ## COMPARATIVE TABLE
 
 Economic Expansion Incentives (Relief from Income Tax) Act
 
 (CHAPTER 86)
 
-The following provisions in the 1996 Revised Edition of the Economic Expansion Incentives (Relief from Income Tax) Act have been renumbered by the Law Revision Commissioners in this 2001 Revised Edition.
+The following provisions in the 2001 Revised Edition of the Economic Expansion Incentives (Relief from Income Tax) Act have been renumbered by the Law Revision Commissioners in this 2005 Revised Edition.
 
 This Comparative Table is provided for the convenience of users. It is not part of the Economic Expansion Incentives (Relief from Income Tax) Act.
 
-2001 Ed\. 
+2005 Ed .
 
-1996 Ed\. 
+2001 Ed .
 
-5 —(3) and (4)
+—
 
-5 —(3)
+PART IIIA — POST-PIONEER
+
+
+
+
+COMPANIES
+
+—
+
+19A—Interpretation of this Part
+(Repealed by Act 11/2004)
+
+—
+
+19B—Application for and issue of certificate to post-pioneer company
+(Repealed by Act 11/2004)
+
+—
+
+19C—Tax relief period of post-pioneer company
+(Repealed by Act 11/2004)
+
+—
+
+19D—Ascertainment of income in respect of other trade or business
+(Repealed by Act 11/2004)
+
+—
+
+19E—Deduction of losses
+(Repealed by Act 11/2004)
+
+—
+
+19F—Certain dividends exempted from income tax
+(Repealed by Act 11/2004)
+
+—
+
+19G—Power to give directions
+(Repealed by Act 11/2004)
+
+—
+
+19H—Ascertainment of income in respect of qualifying activities
+(Repealed by Act 11/2004)
+
+—
+
+PART IV — EXPANSION OF
+
+
+
+
+ESTABLISHED ENTERPRISES
+
+—
+
+20—Power and procedure for declaring an industry and a product an approved product(Repealed by Act 11/2004)
+
+—
+
+21—Issue of expansion certificate and amendment thereof
+(Repealed by Act 11/2004)
+
+—
+
+22—Tax relief period of expanding enterprise(Repealed by Act 11/2004)
+
+—
+
+23—Application of section 9 to expanding enterprise
+(Repealed by Act 11/2004)
+
+—
+
+24—Tax relief
+(Repealed by Act 11/2004)
+
+—
+
+25—Exemption from income tax of dividends from expanding enterprise
+(Repealed by Act 11/2004)
+
+—
+
+PART V — EXPANDING SERVICE
+
+
+
+
+COMPANIES
+
+—
+
+26—Application for and issue and amendment of certificate for expanding service company(Repealed by Act 11/2004)
+
+—
+
+27—Tax relief period of expanding service company
+(Repealed by Act 11/2004)
+
+—
+
+28—Application of certain sections to expanding service company
+(Repealed by Act 11/2004)
+
+—
+
+PART VI — PRODUCTION FOR EXPORT
+
+—
+
+29—Power to approve a product or produce as an export product or export produce
+(Repealed by Act 11/2004)
+
+—
+
+30—Application for and issue of export enterprise certificate
+(Repealed by Act 11/2004)
+
+—
+
+31—Amendment of export enterprise certificate
+(Repealed by Act 11/2004)
+
+—
+
+32—Tax relief period
+(Repealed by Act 11/2004)
+
+—
+
+33—Power to give directions
+(Repealed by Act 11/2004)
+
+—
+
+34—Application of Part XVI of Income Tax Act
+(Repealed by Act 11/2004)
+
+—
+
+35—Cognizance of export
+(Repealed by Act 11/2004)
+
+—
+
+36—Export to be in accordance with regulations and conditions
+(Repealed by Act 11/2004)
+
+—
+
+37—Computation of export profits
+(Repealed by Act 11/2004)
+
+—
+
+38—Conditions for relief
+(Repealed by Act 11/2004)
+
+—
+
+39—Tax relief on export profits
+(Repealed by Act 11/2004)
+
+—
+
+40—Dividends exempted
+(Repealed by Act 11/2004)
+
+—
+
+41—Power of entry into premises and taking of samples
+(Repealed by Act 11/2004)
+
+—
+
+42—No relanding of export product or export produce
+(Repealed by Act 11/2004)
+
+—
+
+43—Powers of search, seizure and arrest by officers of customs
+(Repealed by Act 11/2004)
+
+—
+
+44—Offences under other laws deemed to be an offence under this Act
+(Repealed by Act 11/2004)
+
+—
+
+PART VII — INTERNATIONAL TRADE INCENTIVES
+
+—
+
+45—Interpretation of this Part
+(Repealed by Act 11/2004)
+
+—
+
+46—International trading company(Repealed by Act 11/2004)
+
+—
+
+47—Tax relief period of international trading company
+(Repealed by Act 11/2004)
+
+—
+
+48—Power to give directions
+(Repealed by Act 11/2004)
+
+—
+
+49—Application of Part XVI of Income Tax(Repealed by Act 11/2004)
+
+—
+
+50—Ascertainment of income in respect of other trade or business
+(Repealed by Act 11/2004)
+
+—
+
+51—Computation of export income and exemption from tax
+(Repealed by Act 11/2004)
+
+—
+
+52—Conditions for relief
+(Repealed by Act 11/2004)
+
+—
+
+53—Certain dividends exempted from income tax
+(Repealed by Act 11/2004)
+
+—
+
+54—Recovery of tax exempted
+(Repealed by Act 11/2004)
+
+—
+
+55—Application of Parts XVII and XVIII of Income Tax Act
+(Repealed by Act 11/2004)
+
+—
+
+56—Application of certain sections to international trade company
+(Repealed by Act 11/2004)
+
+—
+
+PART XI — WAREHOUSING AND SERVICING INCENTIVES
+
+—
+
+75—Interpretation of this Part
+(Repealed by Act 11/2004)
+
+—
+
+76—Approved warehousing company or servicing company
+(Repealed by Act 11/2004)
+
+—
+
+77—Tax relief period of warehousing company or servicing company
+(Repealed by Act 11/2004)
+
+—
+
+78—Prohibition of acquisition without approval
+(Repealed by Act 11/2004)
+
+—
+
+79—Application of certain sections to warehousing company or servicing company
+(Repealed by Act 11/2004)
+
+—
+
+80—Application of Part XVI of Income Tax Act
+(Repealed by Act 11/2004)
+
+—
+
+81—Computation of export earnings and exemption from tax
+(Repealed by Act 11/2004)
+
+—
+
+82—Certain dividends exempted from income tax
+(Repealed by Act 11/2004)
+
+—
+
+83—Recovery of tax exempted
+(Repealed by Act 11/2004)
+
+—
+
+84—Application of Parts XVII and XVIII of Income Tax Act
+(Repealed by Act 11/2004)
+
+—
+
+PART XII — INTERNATIONAL CONSULTANCY SERVICES
+
+—
+
+85—Interpretation of this Part
+(Repealed by Act 11/2004)
+
+—
+
+86—Approved consultancy company or consultancy firm
+(Repealed by Act 11/2004)
+
+—
+
+87—Tax relief period of consultancy company or consultancy firm
+(Repealed by Act 11/2004)
+
+—
+
+88—Application of certain sections to consultancy company or consultancy firm
+(Repealed by Act 11/2004)
+
+—
+
+89—Computation of eligible consultancy revenue and exemption from tax
+(Repealed by Act 11/2004)
+
+—
+
+90—Certain dividends exempted from income tax
+(Repealed by Act 11/2004)
+
+—
+
+91—Recovery of tax exempted
+(Repealed by Act 11/2004)
+
+—
+
+92—Application of Parts XVII and XVIII of Income Tax
+(Repealed by Act 11/2004)
+
+—
+
+PART XIII — INVESTMENTS IN NEW TECHNOLOGY COMPANIES
+
+—
+
+93—Interpretation of this Part
+(Repealed by Act 11/2004)
+
+—
+
+94—Application for and issue of certificate to technology company
+(Repealed by Act 11/2004)
+
+—
+
+95—Deductions allowable to eligible holding company
+(Repealed by Act 11/2004)
+
+—
+
+96—Prohibition of other trade or business
+(Repealed by Act 11/2004)
+
+—
+
+97—Recovery of tax
+(Repealed by Act 11/2004)
+
+—
+
+PART XIIIA — OVERSEAS INVESTMENT AND VENTURE CAPITAL INCENTIVES
+
+—
+
+97A—Interpretation of this Part
+(Repealed by Act 11/2004)
+
+—
+
+97B—Application for and issue of certificate to venture company
+(Repealed by Act 11/2004)
+
+—
+
+97C—Application for and issue of certificate to technology investment company or overseas investment company
+(Repealed by Act 11/2004)
+
+—
+
+97D—Deduction of losses allowable to eligible holding company or eligible individual
+
+—
+
+97E—Prohibition of other trade or business(Repealed by Act 11/2004)
+
+—
+
+97F—Recovery of tax
+(Repealed by Act 11/2004)
+
+—
+
+97G—Deduction of losses incurred overseas by eligible investment company
+(Repealed by Act 11/2004)
+
+—
+
+101—Offences and penalties
+(Repealed by Act 11/2004)
+
+—
+
+102—Attempts or abetments
+(Repealed by Act 11/2004)
+
+—
+
+103—Conduct of prosecution
+(Repealed by Act 11/2004)
+
+—
+
+104—Composition of offences
+(Repealed by Act 11/2004)
+
+—
+
+105—Jurisdiction of court
+(Repealed by Act 11/2004)
+
+—
+
+106—Offences by companies and by employees and agents
+(Repealed by Act 11/2004)
+
+101—Action of officers no offence
+
+107—Action of officers no offence
+
+102—Regulations
+
+108—Regulations
+
+103—Savings provision
+
+109—Savings provision
+
+## COMPARATIVE TABLE
+
+Economic Expansion Incentives (Relief from Income Tax) Act
+
+(CHAPTER 86)
+
+The following provisions in the 1996 Revised Edition of the Economic Expansion Incentives (Relief from Income Tax) Act were renumbered by the Law Revision Commissioners in this 2001 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Economic Expansion Incentives (Relief from Income Tax) Act.
+
+2001 Ed .
+
+1996 Ed .
+
+5—(3) and (4)
+
+5—(3)
 
 (5)
 
 (4)
 
-19H —(3) and (4)
+19H—(3) and (4)
 
-19H —(3)
+19H—(3)
 
 (5)
 
 (4)
 
-22 —(2) and (3)
+22—(2) and (3)
 
-22 —(2)
+22—(2)
 
-27 —(2) and (3)
+27—(2) and (3)
 
-27 —(2)
+27—(2)
 
-35 —(1) and (2)
+35—(1) and (2)
 
-35 
+35
 
-39 —(1) and (1A)
+39—(1) and (1A)
 
-39 —(1)
+39—(1)
 
-44C —(2) and (3)
+44C—(2) and (3)
 
-44C —(2)
+44C—(2)
 
-46 —(6) and (7)
+46—(6) and (7)
 
-46 —(6)
+46—(6)
 
-50 —(1) and (2)
+50—(1) and (2)
 
-50 
+50
 
-51 —(2) and (2A)
+51—(2) and (2A)
 
-51 —(2)
+51—(2)
 
-Omitted—spent
+Omitted — spent
 
-69 —(9)
+69—(9)
 
-77 —(2) and (3)
+77—(2) and (3)
 
-77 —(2)
+77—(2)
 
-81 —(2) and (2A)
+81—(2) and (2A)
 
-81 —(2)
+81—(2)
 
-89 —(2) and (2A)
+89—(2) and (2A)
 
-89 —(2)
+89—(2)
 
-95 —(4) and (4A)
+95—(4) and (4A)
 
-95 —(4)
+95—(4)
 
-99 —(1) and (2)
+99—(1) and (2)
 
-99 —(1)
+99—(1)
 
 (3)
 
