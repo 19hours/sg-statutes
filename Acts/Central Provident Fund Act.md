@@ -160,9 +160,11 @@
 
 - [60 Offences by corporations](#Offences-by-corporations)
 
-- [61 Penalties](#Penalties)
+- [61 General penalties](#General-penalties)
 
-- [61A Recovery of contributions upon conviction](#Recovery-of-contributions-upon-conviction)
+- [61A Jurisdiction of court](#Jurisdiction-of-court)
+
+- [61B Recovery of contributions upon conviction](#Recovery-of-contributions-upon-conviction)
 
 - [62 Notice to attend court](#Notice-to-attend-court)
 
@@ -222,13 +224,13 @@
 
 (Original Enactment: Ordinance 34 of 1953)
 
-REVISED EDITION 1999
+REVISED EDITION 2001
 
-(31st December 1999)
+(31st December 2001)
 
 An Act to make provision for the establishment of the Central Provident Fund Board and a central provident fund.
 
-[30th December 1999]
+[1st July 1955]
 
 ## PART I
 
@@ -240,7 +242,7 @@ PRELIMINARY
 
 ### Interpretation
 
-2\. In this Act, unless the context otherwise requires —
+2\.—(1) In this Act, unless the context otherwise requires —
 
 “Board” means the Central Provident Fund Board constituted under section 3;
 
@@ -266,7 +268,7 @@ PRELIMINARY
 
 (c) any manager, agent or person responsible for the payment of wages to an employee on behalf of an employer; and
 
-(d) the Government and Her Majesty’s Government in the United Kingdom in respect of such categories, classes or descriptions of officers or employees of such Government as may from time to time be declared by the President by notification in theGazetteto be employees for the purposes of this Act, but no such officer or employee employed by or on behalf of such Government shall be personally liable for anything done or omitted to be done by him as an officer or employee of such Government in good faith;
+(d) the Government and Her Majesty’s Government in the United Kingdom in respect of such categories, classes or descriptions of officers or employees of such Government as may from time to time be declared by the President by notification in theGazetteto be employees for the purposes of this Act;
 
 “flat” means a horizontal stratum of any building or part thereof, whether the stratum or part is on one or more levels or is partially or wholly below the surface of the ground;
 
@@ -292,6 +294,8 @@ PRELIMINARY
 
 “minimum sum” means the sum referred to in section 15(6);
 
+[40/2007 wef 01/10/2007]
+
 “ordinary account” means an ordinary account maintained under section 13;
 
 “retirement account” means the account referred to in section 15(6C);
@@ -300,11 +304,19 @@ PRELIMINARY
 
 “wages” means the remuneration in money, including any bonus, due or granted to a person in respect of his employment but does not include such payments as the Minister may, by notification in theGazette, specify.
 
-[19/83; 32/84; 16/86; 5/87; 10/94; 30/98]
+[19/83; 32/84; 16/86; 5/87; 10/94; 30/98; 39/2000]
+
+(2) No officer or employee employed by or on behalf of the Government or Her Majesty’s Government in the United Kingdom shall be personally liable for anything done or omitted to be done by him as an officer or employee of such Government in good faith.
 
 ### Establishment and constitution of Central Provident Fund Board
 
-3\.—(1) For the purposes of this Act, there shall be a Board, called the Central Provident Fund Board, consisting of a Chairman, a Deputy Chairman as may be appointed under section 4(1) and (2) and such other members as may be appointed under section 4(4).
+3\.—(1) For the purposes of this Act, there shall be a Board, called the Central Provident Fund Board, consisting of —
+
+(a) a Chairman appointed under section 4(1);
+
+(b) a Deputy Chairman appointed under section 4(2); and
+
+(c) such other members as may be appointed under section 4(4).
 
 [27/92]
 
@@ -340,6 +352,8 @@ PRELIMINARY
 
 (3A) The Minister, with the President’s concurrence under Article 22A(1)(b) of the Constitution, may appoint any member of the Board to be a temporary Chairman or temporary Deputy Chairman during the temporary incapacity from illness or otherwise, or during the temporary absence from Singapore, of the Chairman or Deputy Chairman, as the case may be.
 
+[39/2000]
+
 (4) The other members of the Board shall be appointed by the Minister with the President’s concurrence under Article 22A(1)(b) of the Constitution and shall consist of the following persons:
 
 (a) 2 persons holding office of emolument under the Government;
@@ -349,6 +363,8 @@ PRELIMINARY
 (c) 2 persons representing employees; and
 
 (d) such other persons, not being more than 4, as the Minister may from time to time determine.
+
+[15/2006 wef 01/07/2006]
 
 [11/91]
 
@@ -371,6 +387,8 @@ PRELIMINARY
 (10) Any person who is a Member of Parliament shall be disqualified from being appointed to or remaining a member of the Board.
 
 (11) The Chairman may, by instrument in writing, authorise any member of the Board to exercise any power or perform any function conferred on the Chairman by or under this Act.
+
+[39/2000]
 
 ### Appointment of officers and employees
 
@@ -440,6 +458,8 @@ that person shall be deemed to obstruct an inspector or that officer in the exec
 
 (2) The budget and supplementary budget (if any) when approved by the President shall be published in theGazette.
 
+[11/91]
+
 ## PART II
 
 CONTRIBUTIONS TO FUND
@@ -458,7 +478,7 @@ CONTRIBUTIONS TO FUND
 
 (3) The land situate at 79 Robinson Road, Singapore, acquired by the Board and the building constructed thereon prior to 15th May 1980 shall be deemed to have been purchased and constructed by the Board in pursuance of the powers conferred upon the Board by subsection (2)(c).
 
-(4) Interest shall be payable on contributions to the Fund at such rate per annum, not being less than 2½%, as the Board may from time to time declare except that the Board shall not declare a rate of interest exceeding 2½% per annum except with the approval of the Minister for Finance.
+(4) Interest shall be payable on contributions to the Fund at such rate per annum, not being less than 2 1/2%, as the Board may from time to time declare except that the Board shall not declare a rate of interest exceeding 2 1/2% per annum except with the approval of the Minister for Finance.
 
 (5) If the Board is at any time unable to pay any sum which the Fund is required to pay under this Act, the sum required to be so paid shall be charged on and advanced to the Board from the Consolidated Fund and the Board shall as soon as practicable repay to the Government the sum so advanced.
 
@@ -500,7 +520,11 @@ CONTRIBUTIONS TO FUND
 
 (b) shall make such adjustment as may be necessary on the occasion of the last payment in that month, but if the wages do not actually exceed $200 for that month, he shall forthwith refund to the employee the amount of the deductions.
 
+[31/2003 wef 01/01/2004]
+
 [27/92]
+
+[31/2003 wef 01/01/2004]
 
 (8) The Minister may, by notification in theGazette, amend the First Schedule and may prescribe in the First Schedule —
 
@@ -528,13 +552,13 @@ CONTRIBUTIONS TO FUND
 
 ### Agreement by statutory body to pay excess contributions deemed void
 
-8\. Any agreement made between any statutory body specified in the First Schedule and any of its employees, whether before or after 28th September 1984, under which that body is liable to pay any contribution to the Fund in respect of that employee in excess of the amount prescribed as payable for that employee shall, in so far as it relates to such liability, be void and of no effect.
+8\. Any agreement made between any statutory body specified in the First Schedule and any of its employees under which that body is liable to pay any contribution to the Fund in respect of that employee in excess of the amount prescribed as payable for that employee shall, in so far as it relates to such liability, be void and of no effect.
 
 [32/84; 27/92]
 
 ### Payment of interest on contributions in arrears
 
-9\.—(1) Where the amount of the contributions which an employer is liable to pay under section 7 in respect of any month is not paid within such period as may be prescribed, the employer shall be liable to pay interest on the amount for every day the amount remains unpaid commencing from the first day of the month succeeding the month in respect of which the amount is payable and the interest shall be calculated at the rate of 1½% per month or the sum of $5, whichever is the greater.
+9\.—(1) Where the amount of the contributions which an employer is liable to pay under section 7 in respect of any month is not paid within such period as may be prescribed, the employer shall be liable to pay interest on the amount for every day the amount remains unpaid commencing from the first day of the month succeeding the month in respect of which the amount is payable and the interest shall be calculated at the rate of 1 1/2% per month or the sum of $5, whichever is the greater.
 
 (2) Where the amount of the contributions a person is liable to pay under any regulations made under section 77(1)(e) is not paid within the time prescribed for payment, that person shall be liable to pay interest on that amount for every day the amount remains unpaid at such rate and commencing from such date as may be prescribed.
 
@@ -570,15 +594,35 @@ CONTRIBUTIONS TO FUND
 
 13\.—(1) Subject to subsection (5), there shall be maintained for each member in respect of the money standing to his credit in the Fund the following subsidiary accounts:
 
-(a) an ordinary account from which, apart from section 15(2) to (5), 18, 18A, 18B, 22 or 45 but subject to sections 14, 14A and 15A, withdrawals may be made in accordance with any regulations made under section 51(b) or 77(1)(h), (i), (l), (m) or (p);
+(a) an ordinary account from which, apart from section 15(2) to (5), 18, 18A, 18B, 22 or 45 but subject to sections 14, 14A and 15A, withdrawals may be made in accordance with any regulations made under section 51(b) or 77(1)(h), (i), (m), (n) or (r);
 
-(b) a medisave account from which, apart from sections 15(2) to (5) and 54 but subject to section 16, withdrawals may be made in accordance with any regulations made under section 77(1)(j) and (ja); and
+[31/2003 wef 01/07/2004]
 
-(c) a special account from which no withdrawal may be made except under section 15(2) to (5), section 17 , section 45(2) or in accordance with any regulations made under section 77(1)(m).
+[40/2007 wef 01/10/2007]
 
-[39/2000 wef 01/01/2001]
+[15/2006 wef 01/07/2006]
 
-[32/84; 16/86; 5/87; 23/89; 30/89; 27/92; 10/94; 12/99]
+(b) a medisave account from which, apart from sections 15(2) to (5) and 54 but subject to section 16, withdrawals may be made in accordance with any regulations made under section 77(1)(j) and (k); and
+
+[24/2005 wef 22/08/2005]
+
+[15/2006 wef 01/07/2006]
+
+[40/2007 wef 01/10/2007]
+
+(c) a special account from which no withdrawal may be made except under section 15(2) to (5), section 17, section 45(2) or in accordance with any regulations made under section 77(1)(n) .
+
+[15/2006 wef 01/07/2006]
+
+[40/2007 wef 01/10/2007]
+
+[40/2007 wef 01/01/2008]
+
+[25/2008 wef 01/11/2008]
+
+[32/84; 16/86; 5/87; 23/89; 30/89; 27/92; 10/94; 12/99; 39/2000]
+
+[22/2010 wef 01/01/2011]
 
 (2) Every ordinary account, medisave account and special account which was maintained by the Board for a member before 28th September 1984 shall be deemed to have been validly maintained.
 
@@ -598,15 +642,21 @@ CONTRIBUTIONS TO FUND
 
 (6) The Board shall transfer to a member’s ordinary account any amount standing to his credit in his medisave account which is in excess of such amount as the Minister may from time to time direct.
 
+[15/2006 wef 01/07/2006]
+
 [16/86]
 
 (7) Where there is no balance in the medisave account of a member, the Board may, upon application by the member and with the approval of the Minister, transfer to the medisave account of the member any amount standing to his credit in the ordinary account which had been transferred from the medisave account, including any interest which would have accrued thereon if the transfer had not been made.
+
+[15/2006 wef 01/07/2006]
+
+[57/2007 wef 01/01/2008]
 
 [27/92]
 
 ### Power to impose conditions relating to contributions by self-employed persons
 
-13A\.—(1) Any power to grant or renew a licence, certificate or permit under any of the Acts specified in the Third Schedule or any rules or regulations made thereunder shall include a power to impose conditions relating to the payment of contributions into the Fund, pursuant to any regulations made under section 77(1)(e), to be credited into the medisave account of the applicant or licensee or as otherwise provided under section 13(5).
+13A\.—(1) Any power to grant or renew a licence, certificate or permit under any of the Acts specified in the Third Schedule shall include a power to impose conditions relating to the payment of contributions into the Fund, pursuant to any regulations made under section 77(1)(e), to be credited into the medisave account of the applicant or licensee or as otherwise provided under section 13(5).
 
 [27/92]
 
@@ -616,17 +666,13 @@ CONTRIBUTIONS TO FUND
 
 ### Voluntary contributions
 
-13B\.—(1) Notwithstanding anything in this Act but subject to any regulations made under section 77 —
+13B\. Notwithstanding anything in this Act but subject to any regulations made under section 77 —
 
-(a) a person in respect of whom no contribution is required to be paid under this Act or the regulations made thereunder may contribute voluntarily to the Fund in such manner and at such rate as the Minister may direct; and
+(a) a person in respect of whom no contribution is required to be paid under this Act may contribute voluntarily to the Fund in such manner and at such rate as the Minister may direct; and
+
+[36/2002 wef 01/01/2003]
 
 (b) the Board shall credit every contribution received under paragraph (a) into an ordinary account, a medisave account or a special account, for the purposes specified in section 13(1), in such manner as the Minister may direct, and the Minister may give different directions in respect of different classes of members.
-
-[30/98]
-
-(2) Every contribution that was received by the Board before 1st August 1998 from a person in respect of whom no contribution is required to be made under this Act or the regulations made thereunder shall be deemed to have been validly received.
-
-(3) Every ordinary account, medisave account and special account that was maintained by the Board for the person referred to in subsection (2) before 1st August 1998 shall be deemed to have been validly maintained.
 
 [30/98]
 
@@ -636,7 +682,7 @@ CONTRIBUTIONS TO FUND
 
 [32/84; 31/95]
 
-(2) Any cash grant paid into the Fund under subsection (1) shall be deemed to be contributions for the purposes of this Act and such cash grant or interest thereon may be withdrawn under the provisions of this Act or any regulations made thereunder for such purposes and in such manner as may be prescribed by the regulations.
+(2) Any cash grant paid into the Fund under subsection (1) shall be deemed to be contributions for the purposes of this Act and such cash grant or interest thereon may be withdrawn under the provisions of this Act for such purposes and in such manner as may be prescribed by the regulations.
 
 [31/95]
 
@@ -688,7 +734,7 @@ CONTRIBUTIONS TO FUND
 
 [12/99]
 
-(7) Any moneys received or recovered by the Board from any member under subsection (5) or (6) shall be refunded forthwith to the Government.
+(7) Any moneys received or recovered by the Board from any member under subsection (5) or (6) shall be refunded immediately to the Government.
 
 [12/99]
 
@@ -704,11 +750,11 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 15\.—(1) No sum of money standing to the credit of a member of the Fund may be withdrawn from the Fund except with the authority of the Board.
 
-(1A) Subject to sections 14, 14A, 15A and 25(2) and (3) under subsection (1) and any regulations and rules made under section 77, the authority shall not be given except on the application of a person entitled to withdraw the money from the Fund under subsections (2) and (3).
+(1A) Subject to sections 14, 14A, 15A and 25(2) and (3) and any regulations and rules made under section 77, the authority under subsection (1) shall not be given except on the application of a person entitled to withdraw the money from the Fund under subsections (2) and (3).
 
 [12/99]
 
-(2) Subject to this section, a member of the Fund, or a committee of his person or of his estate appointed under the provisions of the Mental Disorders and Treatment Act (Cap. 178), shall be entitled to withdraw the sum standing to the credit of the member in the Fund at any time after the Board is satisfied that the member —
+(2) Subject to this section , a member of the Fund, or a committee of his person or of his estate appointed under the provisions of the Mental Disorders and Treatment Act (Cap. 178), shall be entitled to withdraw the sum standing to the credit of the member in the Fund at any time after the Board is satisfied that the member —
 
 (a) has attained the age of 55 years;
 
@@ -722,7 +768,13 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 [5/87]
 
+[25/2008 wef 01/11/2008]
+
+[18/2009 wef 01/03/2010]
+
 (3) Subject to subsection (6), a member of the Fund who has withdrawn any money from the Fund on the ground that he has attained the age of 55 years shall be entitled to make one further withdrawal of the sum standing to his credit in the Fund on or after every third anniversary of his date of birth after he has attained the age of 55 years.
+
+[36/2002 wef 01/01/2003]
 
 [5/87]
 
@@ -731,6 +783,8 @@ WITHDRAWAL OF CONTRIBUTIONS
 [5/87]
 
 (5) After the death of a member of the Fund, a person nominated by that member in accordance with section 25(1) shall be entitled to withdraw such portion of the sum standing to the credit of that member in the Fund as is set out in the memorandum executed in accordance with that section.
+
+[15/2006 wef 01/07/2006]
 
 (6) Subject to subsections (6A) and (8), a member of the Fund who is entitled to withdraw the sum standing to his credit in the Fund under subsection (2)(a) shall at the time of the withdrawal set aside or top-up a prescribed sum (referred to in this Act as the minimum sum) in accordance with any regulations made under this Act.
 
@@ -750,6 +804,8 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 (7) A member who has attained the age of 60 years or such other age as the Minister may prescribe shall be entitled to withdraw from the minimum sum deposited with an approved bank or in a retirement account and any interest accruing thereon in accordance with any regulations made under this Act.
 
+[25/2008 wef 01/11/2008]
+
 [10/94]
 
 (7A) A member who has attained the age of 55 years but has not attained the age of 60 years or such other age as the Minister may prescribe shall be entitled to withdraw the minimum sum or such part thereof as the Board may determine from his account with an approved bank or his retirement account or surrender his approved annuity from an insurer if the Board is satisfied that the member is —
@@ -764,6 +820,10 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 [10/94]
 
+[25/2008 wef 01/11/2008]
+
+[18/2009 wef 01/09/2009]
+
 (8) A member need not deposit the minimum sum with an approved bank or in a retirement account or use the minimum sum to purchase an approved annuity from an insurer if the Board is satisfied that the member —
 
 (a) is suffering from a terminal illness or disease;
@@ -774,33 +834,49 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 [5/87]
 
-(9) Where a member or his spouse own any immovable property of a value equal to or exceeding the minimum sum, the Board may permit the member —
+(9) Where a member or his spouse owns any immovable property of a value equal to or exceeding the minimum sum, the Board may permit the member —
 
-(a) to withdraw the minimum sum from his account with an approved bank or his retirement account; or
+(a) to withdraw the minimum sumfrom his account with an approved bank or his retirement account; or
+
+[15/2006 wef 01/07/2006]
+
+[18/2009 wef 01/09/2009]
 
 (b) to surrender his approved annuity,
 
 if the member or his spouse, as the case may be, agrees to the creation of a charge on the immovable property owned by him or his spouse, to secure the payment to the Board of the minimum sum for any of the purposes mentioned in subsection (6).
 
-[39/2000 wef 28/12/2000]
+[18/2009 wef 01/09/2009]
 
-[5/87]
+[5/87; 39/2000]
 
 (9A) Where a member and one or more related persons jointly own any immovable property of a value equal to or exceeding the minimum sum, the Board may permit the member —
 
 (a) to withdraw the minimum sum or part thereof from his account with an approved bank or his retirement account; or
 
+[18/2009 wef 01/09/2009]
+
 (b) to surrender his approved annuity,
 
 if the member and the related person or persons, as the case may be, agree to the creation of a charge on the immovable property owned by them to secure the payment to the Board of the minimum sum for any of the purposes mentioned in subsection (6).
+
+[18/2009 wef 01/09/2009]
+
+[39/2000]
 
 (10) Where a member or his spouse or both of them jointly own any immovable property sold by a Housing Authority or by a lessee of a Housing Authority, the Board may permit the member —
 
 (a) to withdraw the minimum sum or part thereof from his account with an approved bank or his retirement account; or
 
+[18/2009 wef 01/09/2009]
+
 (b) to surrender his approved annuity,
 
 if the member or his spouse (or both of them), as the case may be, gives an undertaking to refund to the Board an amount equal to the minimum sum or part thereof which he is required to set aside for the purposes of subsection (6) in the event the property is sold or otherwise disposed of.
+
+[40/2007 wef 01/10/2007]
+
+[18/2009 wef 01/09/2009]
 
 [5/87]
 
@@ -808,23 +884,35 @@ if the member or his spouse (or both of them), as the case may be, gives an unde
 
 (a) to withdraw the minimum sum or part thereof from his account with an approved bank or his retirement account; or
 
+[18/2009 wef 01/09/2009]
+
 (b) to surrender his approved annuity,
 
 if the member and the person or persons, as the case may be, give an undertaking to refund to the Board an amount equal to the minimum sum or part thereof which the member is required to set aside for any of the purposes mentioned in subsection (6) in the event the property is sold or otherwise disposed of.
 
+[40/2007 wef 01/10/2007]
+
+[18/2009 wef 01/09/2009]
+
+[39/2000]
+
 (11) Where a member has withdrawn any money from the Fund for the purchase of an immovable property from a Housing Authority or from a lessee of a Housing Authority pursuant to any regulations made under section 77 and the sum standing to the credit of the member in the Fund at the time he attains the age of 55 years is less than the minimum sum, the member shall, in the event the property is sold or otherwise disposed of, refund to the Board from the proceeds of sale or other disposition, an amount sufficient to cover the deficiency in the minimum sum.
+
+[40/2007 wef 01/10/2007]
 
 [5/87]
 
 (12) No moneys deposited in an account with an approved bank or in a retirement account under subsection (6C) and no withdrawals made by a member from that account with an approved bank or from a retirement account and no payments received by a member from an approved annuity purchased with the minimum sum shall be liable to be attached, sequestered or levied upon for or in respect of any debt or claim.
 
+[36/2002 wef 01/01/2003]
+
 (13) Such moneys, withdrawals and payments mentioned in subsection (12) shall not pass to the Official Assignee on the bankruptcy of the member.
 
-(14) If the member is adjudicated a bankrupt or is declared insolvent by a court, such moneys, withdrawals and payments shall be deemed not to form part of his after-acquired property.
+(14) If the member is adjudicated a bankruptor is declared insolvent by a court, such moneys, withdrawals and payments shall be deemed not to form part of his after-acquired property.
 
 [5/87; 10/94]
 
-(15) The following provisions shall apply to a charge created over any immovable property under subsection (9):
+(15) The following provisions shall apply to a charge created over any immovable property under subsection (9) or (9A):
 
 (a) the charge shall be subject to all prior statutory rights and charges of any public authority over the immovable property and to all encumbrances registered or notified prior to the date of the notification of the charge;
 
@@ -836,8 +924,6 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 (c) the charge shall extend to all the rights, benefits and interests of the member or his spouse, or the member and the related person or persons, as the case may be, under his or their agreement for sale and purchase of the immovable property;
 
-[39/2000 wef 28/12/2000]
-
 (d) the Registrar shall not be concerned to enquire into the regularity or validity of the charge, and shall, on acceptance of the instrument to register or notify the charge, register or notify the charge in the appropriate register maintained by the Registrar under the Land Titles Act (Cap. 157), the Land Titles (Strata) Act (Cap. 158) or the Registration of Deeds Act (Cap. 269), as the case may be;
 
 (e) the charge shall on the application of the member or any other person having an interest in the property be cancelled if the Board is satisfied of the occurrence of any one of the following events:
@@ -848,13 +934,21 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 (iii) if the member has complied with the requirements of subsection (6);
 
+[15/2006 wef 01/07/2006]
+
 (iv) if the minimum sum set aside by the member under subsection (6) has been exhausted on account of withdrawals made by him under subsection (7); or
+
+[15/2006 wef 01/07/2006]
+
+[18/2009 wef 01/09/2009]
+
+[22/2010 wef 01/01/2011]
 
 (v) if the member satisfies any of the grounds for withdrawals under subsection (2)(b) or (c).
 
-[5/87]
+[5/87; 39/2000]
 
-(16) In this section —
+(16) In this section and section 15B —
 
 “approved”, in relation to a bank or an annuity from an insurer, means approved by the Board for the purposes of this section;
 
@@ -876,9 +970,15 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 (g) any other person who in the opinion of the Board should be regarded as a related person for the purposes of this section.
 
+[18/2009 wef 01/09/2009]
+
+[39/2000]
+
 ### Restrictions on withdrawals to ensure repayment of approved loan
 
 15A\. Notwithstanding anything in section 15, a member of the Fund shall not be entitled to withdraw from the Fund any sum standing to his credit under section 15(2)(b), (c), (d) or (e) unless the Board is satisfied that all moneys lent to the member pursuant to any approved loan scheme within the meaning of section 14A and which have been paid into the Fund under section 14A(2) for the benefit of the member, together with any interest and other charges which the member is liable to pay to the Government under the terms and conditions of the loan, have been repaid to the Government.
+
+[15/2006 wef 01/07/2006]
 
 [12/99]
 
@@ -886,15 +986,23 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 15B\.—(1) A member who is entitled to withdraw the sum standing to his credit in the Fund under section 15(2)(a), (3) or (4) may, in addition to the minimum sum that the member is required to set aside under section 15, set aside in accordance with regulations made under this Act, the balance or any part of the balance of the sum which the member is entitled to withdraw under section 15(2)(a), (3) or (4) (referred to in this section as the additional sum).
 
+[39/2000]
+
 (2) The additional sum set aside under subsection (1) may be deposited with an approved bank or used to purchase an approved annuity from an insurer.
+
+[39/2000]
 
 (3) Section 25 shall not apply to the additional sum set aside under subsection (1).
 
-(4) In this section, “approved”, in relation to a bank or an annuity from an insurer, means approved by the Board for the purposes of this section.
+[39/2000]
 
 ### Restrictions on withdrawal from medisave account
 
 16\.—(1) Notwithstanding anything in section 15, a member of the Fund, or a committee of his person or of his estate appointed under the Mental Disorders and Treatment Act (Cap. 178), shall not be entitled to withdraw any sum standing to the member’s credit in the medisave account under section 15(2)(a), (d) or (e) or (3) if the amount in his medisave account does not exceed the prescribed amount.
+
+[15/2006 wef 01/07/2006]
+
+[18/2009 wef 01/03/2010]
 
 [32/84]
 
@@ -914,6 +1022,8 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 (b) for the payment of improvement contributions due to the Housing and Development Board in respect of upgrading works carried out under Part IVA of the Housing and Development Act (Cap. 129), including the payment of such costs, fees or other incidental expenses arising from the upgrading works as are authorised by any regulations made under section 77.
 
+[23/2005 wef 15/08/2005]
+
 [12/99]
 
 ### Provisions relating to maintenance of minimum sum and transfer or payment of moneys into retirement account
@@ -922,15 +1032,11 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 (a) a member to transfer such portion of the sum standing to his credit in the Fund as may be prescribed to the retirement account of his parent or spouse to be applied by the parent or spouse;
 
-[39/2000 wef 28/12/2000]
-
 (b) any person to voluntarily maintain a minimum sum with the Board; or
 
-[39/2000 wef 28/12/2000]
-
-[10/94]
-
 (c) any person to pay money into his parent’s, grandparent’s or spouse’s retirement account.
+
+[10/94; 39/2000]
 
 ### Transfer of member’s moneys in ordinary account to retirement account
 
@@ -952,31 +1058,49 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 (a) $65,000, where no other sum is specified under paragraph (b); or
 
-[39/2000 wef 01/01/2001]
-
 (b) where a sum is specified under this paragraph by the Minister for the purposes of this section by notification in theGazette, such sum as may for the time being be so specified.
 
-[30/98]
+[30/98; 39/2000]
+
+[See S 320/2002 wef 01/07/2002; S395/2004wef1stJuly2004]
 
 ### Provisions relating to moneys transferred or paid to parent’s, grandparent’s or spouse’s retirement account on death
 
 19\.—(1) Any moneys transferred by a member to his parent’s or spouse’s retirement account or paid by any person into his parent’s, grandparent’s or spouse’s retirement account under section 18 shall be deemed to be contributions for the purposes of this Act and shall not form part of the moneys payable out of the Fund on the death of the parent, grandparent or the spouse, as the case may be.
 
+[39/2000]
+
 (2) On the death of the parent, grandparent or the spouse, any moneys so transferred or paid or the balance thereof shall be credited to the account from which it was transferred or to the account of the person who made the payment, as the case may be.
 
-[39/2000 wef 28/12/2000]
-
-[10/94]
+[10/94; 39/2000]
 
 ### Withdrawals
 
 20\.—(1) Upon an application for the withdrawal of the sum of money standing to the credit of a member of the Fund by a person entitled thereto under section 15, the Board may authorise the payment to the applicant of such sum as the member is entitled to withdraw from the Fund and any interest calculated in accordance with section 12(2) up to the date of the authorisation or, if the applicant is a nominee appointed in accordance with section 25(1), such portion of the sum as he is nominated to receive.
 
+[57/2007 wef 01/01/2008]
+
+[18/2009 wef 20/08/2009]
+
+(1A) Subject to section 25(3) and such conditions as the Minister may impose, where the Board has been notified, in such manner as may be prescribed in any regulations made under section 77(1), of the death of a member of the Fund who has executed a memorandum in accordance with section 25(1), the Board may, without any application for the withdrawal of a sum of money standing to the credit of that member by a person nominated by that member by the memorandum —
+
+(a) if the memorandum provides for payment in accordance with section 25(1)(a)(i), and the person is a citizen or permanent resident of Singapore, pay the person such portion of the sum as he is nominated to receive; or
+
+(b) if the memorandum provides for payment in accordance with section 25(1)(a)(ii), and the person is a citizen or permanent resident of Singapore —
+
+(i) subject to sub-paragraph (ii), transfer to the person’s accounts in the Fund, in such manner as the member has specified in the memorandum, such portion of the sum as the person is nominated to receive; or
+
+(ii) if that portion exceeds such maximum amount as the Minister may determine for the purposes of section 25(1)(a)(ii)(B), transfer that maximum amount to the person’s accounts in the Fund in such manner as the member has specified in the memorandum, and pay the person the excess.
+
 (2) When any contributions are due to be paid for a member of the Fund in respect of any period ending not later than the last day of the month next following the date on which the withdrawal of the sum of money standing to his credit in the Fund is authorised and the contributions are not paid to the Fund until after the date of authorisation, those contributions may in the discretion of the Board be treated as if they had been included in the amount standing to the credit of the member at the date of authorisation of withdrawal and paid to the applicant accordingly.
+
+[22/2010 wef 01/01/2011]
 
 [5/87]
 
 (3) All applications for withdrawal shall be supported by such evidence as may be prescribed and by such further evidence as the Board may reasonably require.
+
+[22/2010 wef 01/10/2010]
 
 ### Charge on immovable property to secure repayment of withdrawals from Fund
 
@@ -984,7 +1108,11 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 (a) to make payment, either full or partial, towards the purchase of an immovable property;
 
+[57/2007 wef 01/01/2008]
+
 (b) to repay or to make periodic payments towards the repayment of any loan taken by the member to finance or re-finance the purchase of an immovable property;
+
+[57/2007 wef 01/01/2008]
 
 (c) to repay any loan or to reimburse any cost, fee or other expense pursuant to regulations made under section 77(1)(i);
 
@@ -992,13 +1120,21 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 (i) for the purchase of an immovable property;
 
-(ii) for obtaining a loan to finance or re-finance such purchase; and
+[57/2007 wef 01/01/2008]
+
+(ii) for obtaining a loan to finance or re-finance such purchase ; and
+
+[57/2007 wef 01/01/2008]
 
 (iii) in connection with withdrawals of any money from the Fund,
 
 there shall be a charge on the member’s estate or interest in the immovable property to secure the repayment of the money withdrawn from the Fund including the interest that would have accrued thereto if the withdrawal had not been made and to secure the payment of the minimum sum into the member’s retirement account.
 
+[57/2007 wef 01/01/2008]
+
 (1A) Where the immovable property is purchased or owned by the member as a co-purchaser, joint-tenant or tenant-in-common, as the case may be, with one or more persons, the charge shall, with the prior written consent of all the co-purchasers or co-owners, extend to all their respective estates or interests in the immovable property.
+
+[57/2007 wef 01/01/2008]
 
 [19/83; 16/86; 5/87; 29/93]
 
@@ -1050,7 +1186,7 @@ there shall be a charge on the member’s estate or interest in the immovable pr
 
 [19/83]
 
-(12) In this section and sections 15 and 21A —
+(12) In this section and sections 15and 21A —
 
 “public authority” means the Government, the Collector of Land Revenue, the Comptroller of Property Tax, and any other person, corporation or body, authorised or empowered by any written law to attach, sell or acquire land compulsorily;
 
@@ -1062,6 +1198,8 @@ there shall be a charge on the member’s estate or interest in the immovable pr
 
 [19/83; 5/87; 27/95]
 
+[36/2002 wef 01/01/2003]
+
 (13) This section shall not apply to any immovable property or class of immovable properties which the Minister may, by notification in theGazette, specify.
 
 [19/83; 16/86]
@@ -1072,19 +1210,31 @@ there shall be a charge on the member’s estate or interest in the immovable pr
 
 (a) to make payment, either full or partial, towards the purchase of an immovable property;
 
+[57/2007 wef 01/01/2008]
+
 (b) to repay or to make periodic payments towards the repayment of any loan taken by the member to finance or re-finance the purchase of an immovable property; or
+
+[57/2007 wef 01/01/2008]
 
 (c) to pay any costs, fees or other expenses incurred —
 
 (i) for the purchase of an immovable property;
 
-(ii) for obtaining a loan to finance or re-finance such purchase; and
+[57/2007 wef 01/01/2008]
+
+(ii) for obtaining a loan to finance or re-finance such purchase ; and
+
+[57/2007 wef 01/01/2008]
 
 (iii) in connection with withdrawals of any money from the Fund,
 
-the Board may register or notify, in the appropriate register maintained by the Registrar under the Land Titles Act (Cap. 157), the Land Titles (Strata) Act (Cap. 158) or the Registration of Deeds Act (Cap. 269), a charge on the member’s estate or interest in the immovable property to secure the repayment of the money withdrawn from the Fund including the interest that would have accrued thereto if the withdrawal had not been made and to secure the payment of the minimum sum into the member’s retirement account.
+the Board may register or notify, in the appropriate register maintained by the Registrar under the Land Titles Act, the Land Titles (Strata) Act (Cap. 158) or the Registration of Deeds Act, a charge on the member’s estate or interest in the immovable property to secure the repayment of the money withdrawn from the Fund including the interest that would have accrued thereto if the withdrawal had not been made and to secure the payment of the minimum sum into the member’s retirement account.
+
+[57/2007 wef 01/01/2008]
 
 (1A) Where the immovable property is purchased or owned by the member as a co-purchaser, joint-tenant or tenant-in-common, as the case may be, with one or more persons, the charge shall, with the prior written consent of all the co-purchasers or co-owners, extend to all their respective estates or interests in the immovable property.
+
+[57/2007 wef 01/01/2008]
 
 [27/95]
 
@@ -1140,6 +1290,8 @@ the Board may register or notify, in the appropriate register maintained by the 
 
 22\.—(1) The Board may, subject to such terms and conditions as it may impose, permit a member of the Fund to withdraw such portion of the sum standing to his credit in the Fund as may be prescribed for the payment of tuition fees payable by that member, his child or such other relative as may be approved by the Board, for a course of study at an approved tertiary institution.
 
+[25/2008 wef 01/11/2008]
+
 [30/89]
 
 (2) Every application for withdrawal under subsection (1) shall be made to the Board in such form as may be approved by the Board.
@@ -1152,7 +1304,9 @@ the Board may register or notify, in the appropriate register maintained by the 
 
 (b) if required by the Board, furnish a guarantee by any person acceptable to the Board,
 
-for the repayment to the Board to the account of that member in the fund from whose account such withdrawals were made, all such withdrawals plus interest in such manner and within such time as may be prescribed.
+for the repayment to the Board to the account of that member in the Fund from whose account such withdrawals were made, all such withdrawals plus interest in such manner and within such time as may be prescribed.
+
+[57/2007 wef 01/01/2008]
 
 [30/89]
 
@@ -1161,6 +1315,8 @@ for the repayment to the Board to the account of that member in the fund from wh
 [30/89]
 
 (5) Notwithstanding anything in this Act, any sum not returned to the Board to the account of the member in the Fund under subsection (3) shall be deemed to be a debt due to the Board and may be sued for by the Board in any court.
+
+[25/2008 wef 01/11/2008]
 
 [30/89]
 
@@ -1194,7 +1350,9 @@ for the repayment to the Board to the account of that member in the fund from wh
 
 (2) Precious metals and securities purchased by a member under any scheme in accordance with any regulations made under section 77 which allow members to withdraw their moneys in the Fund for the purposes of investment and the proceeds from the sale of such precious metals and securities which a member is obliged to repay into the Fund shall not be liable to be attached, sequestered or levied upon for or in respect of any debt or claim.
 
-(3) Such precious metals, securities or proceeds shall not pass to the Official Assignee on the bankruptcy of such member, and if such member is adjudicated a bankrupt or is declared insolvent by a court, such precious metals, securities or proceeds shall be deemed not to form part of the property of the member.
+(3) Such precious metals, securitiesor proceeds shall not pass to the Official Assignee on the bankruptcy of such member, and if such member is adjudicated a bankrupt or is declared insolvent by a court, such precious metals, securitiesor proceeds shall be deemed not to form part of the property of the member.
+
+[36/2002 wef 01/01/2003]
 
 [16/86]
 
@@ -1206,9 +1364,25 @@ for the repayment to the Board to the account of that member in the fund from wh
 
 but shall, without prejudice to the operation of the Estate Duty Act (Cap. 96), be deemed not to form part of the deceased member’s estate or to be subject to his debts.
 
+[15/2006 wef 01/07/2006]
+
+[40/2007 wef 01/10/2007]
+
+[57/2007 wef 28/12/2007]
+
+[18/2009 wef 01/09/2009]
+
+[22/2010 wef 01/10/2010]
+
 (4) No contribution to the Fund or interest thereon shall be subject to the debts of the member of the Fund, nor shall the contribution or interest pass to the Official Assignee on the bankruptcy of the member.
 
+[57/2007 wef 28/12/2007]
+
+[18/2009 wef 01/09/2009]
+
 (5) If the member is adjudicated a bankrupt or is declared insolvent by judgment of the court, the contribution and interest shall be deemed not to form part of the property of the member.
+
+[22/2010 wef 01/10/2010]
 
 (6) The bankruptcy of an employee shall not affect the payment of contributions from the wages of the employee in accordance with the provisions of this Act, but that payment shall continue to be made notwithstanding the provisions of any written law and the portion of wages so paid shall be deemed not to form part of his after-acquired property.
 
@@ -1216,11 +1390,15 @@ but shall, without prejudice to the operation of the Estate Duty Act (Cap. 96), 
 
 25\.—(1) Any member of the Fund may by a memorandum executed in the prescribed manner nominate a person or persons to receive in his or their own right such portions of the amount payable on his death out of the Fund under section 20(1) or of any shares designated under section 26(1) as the memorandum shall indicate.
 
+[40/2007 wef 01/10/2007]
+
 [31/95]
 
 (2) If, at the time of the death of a member of the Fund, there is no person nominated under subsection (1), the total amount payable out of the Fund shall be paid to the Public Trustee for disposal in accordance with any written law for the time being in force.
 
 (3) If any person nominated (other than a widow) is below the age of 18 years at the time of payment of the amount payable out of the Fund, his portion of the amount payable shall similarly be paid to the Public Trustee for the benefit of the nominated person.
+
+[18/2009 wef 20/08/2009]
 
 (4) The receipt of a person or persons nominated under subsection (1) or of the Public Trustee shall be a discharge to the Board for such portions of the moneys payable out of the Fund on the death of a member as are payable to the person or persons or the Public Trustee under subsection (2) or (3).
 
@@ -1244,7 +1422,7 @@ but shall, without prejudice to the operation of the Estate Duty Act (Cap. 96), 
 
 [31/95]
 
-(5) For the purposes of this section —
+(5) In this section —
 
 “approved corporation” means any corporation approved by the Minister;
 
@@ -1292,7 +1470,7 @@ HOME PROTECTION INSURANCE SCHEME
 
 28\. In this Part —
 
-“approved mortgagee” means a mortgagee approved by the Minister by notification in theGazette;
+“approved mortgagee” means a mortgagee approved by the Minister by notification in the Gazette;
 
 “Home Protection Fund” means the Home Protection Fund established and maintained by the Board under section 33(1);
 
@@ -1306,7 +1484,7 @@ HOME PROTECTION INSURANCE SCHEME
 
 (d) the Housing and Urban Development Company Private Limited, a company incorporated under the Companies Act (Cap. 50);
 
-“"incapacitated" ” means to be physically or mentally incapacitated from ever continuing in any employment and “incapacity” shall be construed accordingly;
+“incapacitated” means to be physically or mentally incapacitated from ever continuing in any employment and “incapacity” shall be construed accordingly;
 
 “member of the Scheme” means a person who is insured under the Scheme;
 
@@ -1332,19 +1510,23 @@ HOME PROTECTION INSURANCE SCHEME
 
 (4) The Board may, on the application being made to it by a member, exempt the member from the Scheme.
 
+[39/2000]
+
 (4A) Any exemption by the Board under subsection (4) shall be subject to such terms and conditions as may be prescribed by the Minister.
+
+[39/2000]
 
 (5) The Scheme shall not apply to —
 
 (a) any member if he is 65 years of age or above or such other age as the Minister may prescribe at the time he is required to join the Scheme; and
 
-[39/2000 wef 01/03/2001]
-
 (b) any member or class of members whom the Minister may, by notification in theGazette, specify.
 
-[30/87; 10/94]
+[30/87; 10/94; 39/2000]
 
-(5A) Notwithstanding subsection (5), the Scheme shall not apply to any member who is 60 years of age or above but below 65 years of age on the date of commencement of the Central Provident Fund (Amendment) Act 2000 unless that member opts, in such manner as the Board may determine, to join the Scheme.
+(5A) Notwithstanding subsection (5), the Scheme shall not apply to any member who is 60 years of age or above but below 65 years of age on 1st March 2001 unless that member opts, in such manner as the Board may determine, to join the Scheme.
+
+[39/2000]
 
 (6) Any person who became a member of the Scheme prior to 1st March 1988 shall continue to be a member of the Scheme subject to the same term, condition and restriction which were in force before that date.
 
@@ -1358,17 +1540,15 @@ HOME PROTECTION INSURANCE SCHEME
 
 (2) Where a member who is insured under the Scheme in respect of any immovable property purchases another immovable property from a Housing Authority, the member shall, notwithstanding anything in this Act or in regulations made under this Part, cease to be covered under the Scheme in respect of the first-mentioned immovable property immediately upon the commencement of cover under the Scheme in respect of the second-mentioned immovable property.
 
-[39/2000 wef 01/03/2001]
-
-[30/98]
+[30/98; 39/2000]
 
 (3) Where a member’s cover under the Scheme in respect of any immovable property ceases by virtue of subsection (2), the Board shall refund to the member in cash or by crediting to his ordinary account in the Fund as the Board thinks fit an amount representing the surrender value of his cover under the Scheme, if any, in respect of that property as on the date of cessation of cover calculated in accordance with regulations made under this Part as if the member had redeemed the housing loan on the property on that date.
 
-[30/98]
+[30/98; 39/2000]
 
 (4) Where a member is insured under the Scheme before 1st August 1998 for more than one immovable property at the same time, the member’s cover under the Scheme in respect of the earlier of 2 immovable properties purchased by him shall cease on that date and the Board shall refund to the member an amount representing the surrender value of his cover under the Scheme, if any, in respect of that property as on that date in the manner provided in subsection (3).
 
-[30/98]
+[30/98; 39/2000]
 
 ### Medical condition of member of Scheme
 
@@ -1394,11 +1574,19 @@ HOME PROTECTION INSURANCE SCHEME
 
 [30/87]
 
-(3) The deduction referred to in subsection (2) shall have priority to all other deductions which the Board is authorised to make under this Act or any regulations made thereunder.
+(3) The deduction referred to in subsection (2) shall have priority to all other deductions which the Board is authorised to make under this Act.
+
+[40/2007 wef 01/10/2007]
+
+[39/2000]
 
 (4) Where the amount of the premium which a member is liable to pay under the Scheme exceeds the amount standing to his credit in the Fund, the deficiency may be paid in such manner and within such time as the Board may determine.
 
+[39/2000]
+
 (5) Where a joint-owner of an immovable property is insured under the Scheme, the Board may permit a joint-owner who is a spouse of the first-mentioned joint-owner to use his contributions in the Fund to pay for the whole or part of the premium which the first-mentioned joint-owner is liable to pay under the Scheme.
+
+[39/2000]
 
 ### Establishment of Home Protection Fund
 
@@ -1406,9 +1594,13 @@ HOME PROTECTION INSURANCE SCHEME
 
 (2) The Home Protection Fund shall be controlled and administered by the Board.
 
-34\. [Deleted by Act 39/2000 wef 01/03/2001]
+Premium when due
 
-35\. [Deleted by Act 39/2000 wef 01/03/2001]
+34\. [Repealed byAct 39/2000]
+
+Period of cover
+
+35\. [Repealed byAct 39/2000]
 
 ### Amount payable by Board to Housing Authority or approved mortgagee on death or incapacity of member of Scheme
 
@@ -1416,17 +1608,23 @@ HOME PROTECTION INSURANCE SCHEME
 
 [30/87]
 
-(2) Subject to subsections (3), (3A) and (3B), where there is a claim made to the Board by a member of the Scheme on the ground of incapacity at any time during the period he is insured under the Scheme, the Board shall upon proof of incapacity pay to the Housing Authority or the approved mortgagee, as the case may be, the monthly or other periodic loan instalments which the member of the Scheme is liable to pay to the Housing Authority or the approved mortgagee under the housing loan for a period not exceeding 2 years.
+(2) Subject to subsections (3), (4) and (5), where there is a claim made to the Board by a member of the Scheme on the ground of incapacity at any time during the period he is insured under the Scheme, the Board shall upon proof of incapacity pay to the Housing Authority or the approved mortgagee, as the case may be, the monthly or other periodic loan instalments which the member of the Scheme is liable to pay to the Housing Authority or the approved mortgagee under the housing loan for a period not exceeding 2 years.
 
-[39/2000 wef 01/03/2001]
+[39/2000]
 
 (3) For the avoidance of doubt, where the housing loan is taken from a Housing Authority or an approved mortgagee by 2 or more members of the Scheme in respect of property purchased jointly by the members, the monthly or other periodic loan instalments payable by the Board under subsection (2) on account of the incapacity of a member shall be in proportion to that member’s liability for the repayment of the housing loan as declared by that member to, and accepted by, the Board.
 
-(3A) The Board shall cease payment to the Housing Authority or the approved mortgagee under subsection (2) if the member of the Scheme is no longer incapacitated.
+[39/2000]
 
-(3B) Where the Board ceases payment to the Housing Authority or the approved mortgagee under subsection (3A), the member of the Scheme shall remain insured under the Scheme for such an amount as is prescribed under regulations made under this Part less any amount that the Board has paid under subsection (2).
+(4) The Board shall cease payment to the Housing Authority or the approved mortgagee under subsection (2) if the member of the Scheme is no longer incapacitated.
 
-(3C) Notwithstanding subsection (2), if the incapacity of the member of the Scheme is in the opinion of the Board likely to continue for more than 2 years, the Board shall pay the Housing Authority or the approved mortgagee such an amount as is determined in accordance with the formula —
+[39/2000]
+
+(5) Where the Board ceases payment to the Housing Authority or the approved mortgagee under subsection (4), the member of the Scheme shall remain insured under the Scheme for such an amount as is prescribed under regulations made under this Part less any amount that the Board has paid under subsection (2).
+
+[39/2000]
+
+(6) Notwithstanding subsection (2), if the incapacity of the member of the Scheme is in the opinion of the Board likely to continue for more than 2 years, the Board shall pay the Housing Authority or the approved mortgagee such an amount as is determined in accordance with the formula —
 
 (A + B) — C,
 
@@ -1442,29 +1640,33 @@ C
 
 is the total amount paid by the Board to the Housing Authority or the approved mortgagee under subsection (2).
 
-(3D) Where a claim under the Scheme is made in respect of the incapacity of a member of the Scheme, the Board may backdate any payment to be made by the Board to the Housing Authority or the approved mortgagee under this section to the date on which the incapacity occurred.
+[39/2000]
 
-(4) The amount payable by the Board to the Housing Authority or the approved mortgagee under this section on the death or incapacity of a member of the Scheme shall in no case exceed the amount which is necessary to repay the outstanding amount of any loan and interest accruing thereon in order to secure the discharge of the mortgage of the immovable property at the time of the death or incapacity.
+(7) Where a claim under the Scheme is made in respect of the incapacity of a member of the Scheme, the Board may backdate any payment to be made by the Board to the Housing Authority or the approved mortgagee under this section to the date on which the incapacity occurred.
+
+[39/2000]
+
+(8) The amount payable by the Board to the Housing Authority or the approved mortgagee under this section on the death or incapacity of a member of the Scheme shall in no case exceed the amount which is necessary to repay the outstanding amount of any loan and interest accruing thereon in order to secure the discharge of the mortgage of the immovable property at the time of the death or incapacity.
 
 [30/87]
 
-(5) The Board shall not be required to make any payment in respect of any member of the Scheme —
+(9) The Board shall not be required to make any payment in respect of any member of the Scheme —
 
 (a) if the death or incapacity of the member —
 
-(i) in the case of a member who was insured under the Scheme before the date of commencement of the Central Provident Fund (Amendment) Act 2000, occurs within one year from the date he is insured under the Scheme and the death is the result of suicide or the incapacity is the result of deliberate self-injury; or
+(i) in the case of a member who was insured under the Scheme before 1st March 2001, occurs within one year from the date he is insured under the Scheme and the death is the result of suicide or the incapacity is the result of deliberate self-injury; or
 
-(ii) in the case of a member who was insured under the Scheme on or after the date of commencement of the Central Provident Fund (Amendment) Act 2000, is the result of suicide or deliberate self-injury committed within one year from the date that he is insured under the Scheme;
+(ii) in the case of a member who was insured under the Scheme on or after 1st March 2001, is the result of suicide or deliberate self-injury committed within one year from the date that he is insured under the Scheme;
 
-(aa) if the member suffered capital punishment for any criminal act committed within one year from the date that he is insured under the Scheme;
+(b) if the member suffered capital punishment for any criminal act committed within one year from the date that he is insured under the Scheme;
 
-(ab) if the death or incapacity of the member, directly or indirectly, arose out of or is consequent upon or contributed by his own intentional criminal act committed within one year from the date that he is insured under the Scheme; or
+(c) if the death or incapacity of the member, directly or indirectly, arose out of or is consequent upon or contributed by his own intentional criminal act committed within one year from the date that he is insured under the Scheme; or
 
-(b) if the death or incapacity of that member arises from war or any warlike operations or participation in any riot.
+(d) if the death or incapacity of that member arises from war or any warlike operations or participation in any riot.
 
-[23/89]
+[23/89; 39/2000]
 
-(6) The Board shall not be required to make any payment in respect of any member of the Scheme if the member —
+(10) The Board shall not be required to make any payment in respect of any member of the Scheme if the member —
 
 (a) makes or furnishes to the Board any statement or fact that is false or misleading in a material particular; or
 
@@ -1490,27 +1692,27 @@ is the total amount paid by the Board to the Housing Authority or the approved m
 
 (a) provide for the different classes of members of the Scheme and the rates of premium payable by such members;
 
-(aa) provide for the manner and time for payment of premiums by the different classes of members of the Scheme;
+(b) provide for the manner and time for payment of premiums by the different classes of members of the Scheme;
 
-(ab) provide for the period and commencement of cover under the Scheme;
+(c) provide for the period and commencement of cover under the Scheme;
 
-(b) provide for the amount of money payable by the Board to the Housing Authority or the approved mortgagee in the event of the death or incapacity of a member of the Scheme;
+(d) provide for the amount of money payable by the Board to the Housing Authority or the approved mortgagee in the event of the death or incapacity of a member of the Scheme;
 
-(ba) provide for the amount of money payable by the Board under the Scheme where the prescribed premium has not been fully paid;
+(e) provide for the amount of money payable by the Board under the Scheme where the prescribed premium has not been fully paid;
 
-(c) provide for the refund of any premium and the circumstances under which the refund shall be made and at such rates as may be prescribed by the Minister;
+(f) provide for the refund of any premium and the circumstances under which the refund shall be made and at such rates as may be prescribed by the Minister;
 
-(d) prescribe the evidence to be produced and the person, officer or authority to whom that evidence is to be produced for the purposes of this Part;
+(g) prescribe the evidence to be produced and the person, officer or authority to whom that evidence is to be produced for the purposes of this Part;
 
-(e) provide for the manner in which money in the Home Protection Fund may be invested;
+(h) provide for the manner in which money in the Home Protection Fund may be invested;
 
-(f) provide for the premium payable by members of the Scheme in cases where the immovable property is purchased in joint names;
+(i) provide for the premium payable by members of the Scheme in cases where the immovable property is purchased in joint names;
 
-(g) provide for such information, evidence and documents that the Board may require a member of the Scheme to furnish for the purposes of this Part; and
+(j) provide for such information, evidence and documents that the Board may require a member of the Scheme to furnish for the purposes of this Part; and
 
-(h) prescribed anything which under this Part may be prescribed by the Minister.
+(k) prescribe anything which under this Part may be prescribed by the Minister.
 
-[30/87]
+[30/87; 39/2000]
 
 ## PART V
 
@@ -1538,17 +1740,13 @@ DEPENDANTS’ PROTECTION INSURANCE SCHEME
 
 41\. The Board may establish and maintain a Dependants’ Protection Insurance Scheme for the purpose of providing that, on the incapacity or death of an insured person at any time during the period in which he is insured under the Scheme, the Board will pay the insured sum in accordance with the Scheme.
 
+[24/2005 wef 17/09/2005]
+
 [23/89]
 
 ### Persons insured under Scheme
 
-42\.—(1) Subject to the provisions of this Part —
-
-(a) every member of the Fund for whom any contribution has been paid into the Fund during the 6 months prior to 14th May 1989; and
-
-(b) every member of the Fund, other than members described in paragraph (a), for whom any contribution has been paid into the Fund on or after 14th May 1989,
-
-shall be insured under the Scheme.
+42\.—(1) Subject to the provisions of this Part, every member of the Fund for whom any contribution has been paid into the Fund on or after 14th May 1989 shall be insured under the Scheme.
 
 [23/89]
 
@@ -1560,15 +1758,21 @@ shall be insured under the Scheme.
 
 (c) any member of the Fund who has lodged a written notice with the Board stating that he does not wish to be insured under the Scheme; and
 
+[24/2005 wef 17/09/2005]
+
 (d) any member or class of members of the Fund whom the Minister may, by notification in theGazette, specify.
 
 [23/89; 10/94]
 
 (3) Any person referred to in subsection (1) who does not wish to be insured under the Scheme may lodge with the Board a written notice in such form as the Board may require stating that he does not wish to be insured under the Scheme.
 
+[24/2005 wef 17/09/2005]
+
 [23/89]
 
 (4) Notwithstanding subsection (2), any member of the Fund who is not insured under the Scheme may apply to the Board to be insured under the Scheme.
+
+[24/2005 wef 17/09/2005]
 
 [23/89]
 
@@ -1583,6 +1787,8 @@ shall be insured under the Scheme.
 [23/89]
 
 (2) All premiums paid by any person whose cover under the Scheme has been cancelled under subsection (1), together with the interest that would have been payable if the amount of such premiums had been standing to the credit of that person’s account in the Fund, shall be refunded to his account in the Fund.
+
+[57/2007 wef 01/01/2008]
 
 (3) No refund shall be made under subsection (2) if the person has made or furnished to the Board any statement or fact that is false or misleading in a material particular.
 
@@ -1606,6 +1812,8 @@ shall be insured under the Scheme.
 
 (2) Notwithstanding anything in this Act, the Board shall be entitled to deduct the amount of the premium payable by an insured person from the contributions standing to the credit of that person in the Fund.
 
+[24/2005 wef 17/09/2005]
+
 [23/89]
 
 (3) Where any such deduction has been made by the Board, the Board shall as soon as practicable give to that person concerned notice in writing to that effect.
@@ -1628,15 +1836,11 @@ shall be insured under the Scheme.
 
 ### Period of cover
 
-47\.—(1) Subject to subsection (2), where the prescribed premium payable under the Scheme has been paid or deducted from an insured person’s contributions standing to his credit in the Fund, that person shall be covered under the Scheme from the date of such payment or deduction for a period of 12 months after the date of commencement of his insurance cover.
+47\.—(1) Where the prescribed premium payable under the Scheme has been paid or deducted from an insured person’s contributions standing to his credit in the Fund, that person shall be covered under the Scheme from the date of such payment or deduction for a period of 12 months after the date of commencement of his insurance cover.
 
 [23/89]
 
-(2) The persons referred to in section 42(1)(a) shall, subject to payment of the premium payable under the Scheme, be covered under the Scheme from 14th May 1989 for a period of 12 months after that date.
-
-[23/89]
-
-(3) Subject to the provisions of this Part, the insurance cover under the Scheme shall be renewed annually by the Board.
+(2) Subject to the provisions of this Part, the insurance cover under the Scheme shall be renewed annually by the Board.
 
 [23/89]
 
@@ -1658,35 +1862,35 @@ shall be insured under the Scheme.
 
 (2) Where there is a claim made to the Board by an insured person on the ground of incapacity at any time during the period he is insured under the Scheme, the Board shall upon proof of incapacity pay to him the insured sum by monthly instalments of such amount as may be determined by the Board for a period not exceeding 3 years, subject to the condition that in the event the insured person is no longer incapacitated the Board shall stop payment of any insured sum remaining unpaid at the date of his taking up the employment and such amount shall not be recoverable by him.
 
-[39/2000 wef 01/03/2001]
-
-[23/89]
+[23/89; 39/2000]
 
 (3) Where the insured sum is paid by instalment under subsection (2), interest at the prevailing rate declared by the Board under section 6(4) shall be paid to the insured person together with the final instalment.
 
 [23/89]
 
-(3A) Where the Board ceases payment under subsection (2), the insured person shall remain insured under the Scheme for the insured sum remaining unpaid at the date that he is no longer incapacitated.
+(4) Where the Board ceases payment under subsection (2), the insured person shall remain insured under the Scheme for the insured sum remaining unpaid at the date that he is no longer incapacitated.
 
-(4) Notwithstanding anything contained in this Part, the Board shall not be liable to pay the insured sum in respect of any insured person —
+[39/2000]
+
+(5) Notwithstanding anything contained in this Part, the Board shall not be liable to pay the insured sum in respect of any insured person —
 
 (a) if the death or incapacity of the person —
 
-(i) in the case of a person who was insured under the Scheme before the date of commencement of the Central Provident Fund (Amendment) Act 2000, occurs within one year from the date he is insured under the Scheme and the death is the result of suicide or the incapacity is the result of deliberate self-injury; or
+(i) in the case of a person who was insured under the Scheme before 1st March 2001, occurs within one year from the date he is insured under the Scheme and the death is the result of suicide or the incapacity is the result of deliberate self-injury; or
 
-(ii) in the case of a person who was insured under the Scheme on or after the date of commencement of the Central Provident Fund (Amendment) Act 2000, is the result of suicide or deliberate self-injury committed within one year from the date that he is insured under the Scheme;
+(ii) in the case of a person who was insured under the Scheme on or after 1st March 2001, is the result of suicide or deliberate self-injury committed within one year from the date that he is insured under the Scheme;
 
-(aa) if the person suffered capital punishment for any criminal act committed within one year from the date that he is insured under the Scheme;
+(b) if the person suffered capital punishment for any criminal act committed within one year from the date that he is insured under the Scheme;
 
-(ab) if the death or incapacity of the person, directly or indirectly, arose out of or is consequent upon or contributed by his own intentional criminal act committed within one year from the date that he is insured under the Scheme;
+(c) if the death or incapacity of the person, directly or indirectly, arose out of or is consequent upon or contributed by his own intentional criminal act committed within one year from the date that he is insured under the Scheme;
 
-(b) if the incapacity or death of that person arises from war or any warlike operations or participation in any riot;
+(d) if the incapacity or death of that person arises from war or any warlike operations or participation in any riot;
 
-(c) if he makes or furnishes to the Board any statement or fact that is false or misleading in a material particular; or
+(e) if he makes or furnishes to the Board any statement or fact that is false or misleading in a material particular; or
 
-(d) if he is incapacitated or is diagnosed as having a terminal illness on or before the date of commencement of his insurance cover under the Scheme.
+(f) if he is incapacitated or is diagnosed as having a terminal illness on or before the date of commencement of his insurance cover under the Scheme.
 
-[23/89]
+[23/89; 39/2000]
 
 ### Non-application of Insurance Act
 
@@ -1739,6 +1943,8 @@ MEDISHIELD SCHEME
 ### Establishment of MediShield Scheme
 
 53\. The Board may establish and maintain a medical insurance scheme to be known as the MediShield Scheme for the purpose of paying the full or part of the costs incurred by an insured person for the treatment received by him in an approved hospital at any time during the period which he is insured under the Scheme.
+
+[57/2007 wef 01/10/2007]
 
 [15/90]
 
@@ -1852,17 +2058,19 @@ he shall be guilty of an offence.
 
 60\. Where an offence under this Act has been committed by a body corporate and is found to have been committed with the consent or connivance of or to be attributable to any act or default on the part of any director, manager, secretary or other officer of the body corporate, that director, manager, secretary or other officer as well as the body corporate shall be guilty of an offence.
 
-### Penalties
+### General penalties
 
-61\.—(1) Any person convicted of an offence under this Act for which no penalty is provided shall be liable to a fine not exceeding $2,500 and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000.
+61\. Any person convicted of an offence under this Act for which no penalty is provided shall be liable to a fine not exceeding $2,500 and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000.
 
-(2) [Deleted by Act 39/2000 wef 01/01/2001]
+### Jurisdiction of court
 
-(3) Notwithstanding the provisions of any written law to the contrary, a District Court or a Magistrate’s Court shall have the jurisdiction to impose the maximum penalty prescribed for an offence under this Act.
+61A\. Notwithstanding the provisions of any written law to the contrary, a District Court or a Magistrate’s Court shall have the jurisdiction to impose the maximum penalty prescribed for an offence under this Act.
 
 ### Recovery of contributions upon conviction
 
-61A\.—(1) The court before which any conviction under section 7(3) or 61(1) is had may in addition to the fine prescribed in those sections order the person convicted to pay the amount of any contributions together with any interest due thereon certified by an officer appointed by the Board in that behalf to be due from that person at the date of the conviction.
+61B\.—(1) The court before which any conviction under section 7(3) or 61 is had may in addition to the fine prescribed in those sections order the person convicted to pay the amount of any contributions together with any interest due thereon certified by an officer appointed by the Board in that behalf to be due from that person at the date of the conviction.
+
+[39/2000]
 
 (2) The court may order that the amount ordered to be paid under subsection (1) be recoverable —
 
@@ -1870,11 +2078,19 @@ he shall be guilty of an offence.
 
 (b) upon the application by the Board, in like manner as a judgment of a civil court for the payment of money.
 
+[39/2000]
+
+[40/2007 wef 01/10/2007]
+
 (3) Where the court orders that the amount ordered to be paid under subsection (1) to be recoverable in the manner mentioned in subsection (2)(b), the court shall certify the amount to be paid and the Board may recover the amount so certified in any civil court of competent jurisdiction as though the amount were a judgment debt due to the Board.
+
+[40/2007 wef 01/10/2007]
+
+[39/2000]
 
 ### Notice to attend court
 
-62\.—(1) Where an officer of the Board has reasonable ground for believing that a person has committed an offence under this Act or any subsidiary legislation made thereunder, he may, in lieu of applying to a court for a summons, serve upon that person a prescribed notice, requiring that person to attend at the court, at the hour and on the date specified in the notice.
+62\.—(1) Where an officer of the Board has reasonable ground for believing that a person has committed an offence under this Act, he may, in lieu of applying to a court for a summons, serve upon that person a prescribed notice, requiring that person to attend at the court, at the hour and on the date specified in the notice.
 
 [30/98]
 
@@ -1898,6 +2114,8 @@ he shall be guilty of an offence.
 
 (a) proceed as though he were produced in pursuance of section 136 of the Criminal Procedure Code; and
 
+[15/2010 wef 02/01/2011]
+
 (b) at the conclusion of the proceedings, call upon him to show cause why he should not be punished for failing to attend in compliance with the notice served upon him and if cause is not shown may order him to pay such fine not exceeding $2,000 as the court thinks fit or may commit him to prison for a term not exceeding 2 months.
 
 [30/98]
@@ -1912,7 +2130,7 @@ he shall be guilty of an offence.
 
 ### Service of notice and summons
 
-62A\.—(1) Every notice to attend court issued under section 62, and every summons issued by a court, against any person in connection with any offence under this Act or any subsidiary legislation made thereunder may be served on the person —
+62A\.—(1) Every notice to attend court issued under section 62, and every summons issued by a court, against any person in connection with any offence under this Act may be served on the person —
 
 (a) by delivering it to the person or to some adult member of his family at his last known place of residence;
 
@@ -1932,7 +2150,7 @@ he shall be guilty of an offence.
 
 ### Composition of offences
 
-63\.—(1) The Board or any person authorised by the Board in writing may, in its discretion, compound any offence under this Act or any regulations or rules made thereunder which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $500.
+63\.—(1) The Board or any person authorised by the Board in writing may, in its discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $500.
 
 [32/86; 27/92; 30/98]
 
@@ -1946,11 +2164,13 @@ he shall be guilty of an offence.
 
 ### Saving of proceedings under other laws
 
-64\. The provisions of this Act or any regulations or rules made thereunder shall be without prejudice to any other proceedings under any other written law.
+64\. The provisions of this Act shall be without prejudice to any other proceedings under any other written law.
 
 ### Recovery of sums due to Fund
 
 65\. Any sum due to the Fund may be sued for and recovered by the Board under the Government Proceedings Act (Cap. 121) as if it were a debt due to the Government.
+
+[40/2007 wef 01/10/2007]
 
 ### Certificate of authorised officer to be evidence
 
@@ -1964,7 +2184,9 @@ he shall be guilty of an offence.
 
 ### Conduct of prosecutions
 
-67\. Proceedings in respect of any offence under the provisions of this Act or any regulations or rules made thereunder may be conducted by any officer authorised in writing in that behalf by the Chairman of the Board.
+67\. Proceedings in respect of any offence under the provisions of this Act may be conducted by any officer authorised in writing in that behalf by the Chairman of the Board.
+
+[15/2010 wef 02/01/2011]
 
 ## PART VIII
 
@@ -1974,15 +2196,19 @@ MISCELLANEOUS
 
 68\.—(1) Where —
 
-(a) a writ of seizure and sale has been issued in execution of a judgment against an employer and any movable or immovable property or other assets belonging to the employer has been seized or sold or otherwise realised in pursuance of the execution; and
+(a) a writ of seizure and sale` has been issued in execution of a judgment against an employer and any movable or immovable property or other assets belonging to the employer has been seized or sold or otherwise realised in pursuance of the execution; and
+
+[40/2007 wef 01/10/2007]
 
 (b) prior to the payment of the proceeds of the sale or other realisation to an execution creditor, notice has been given to the Sheriff or other officer charged with the execution of the writ by the Board that any sum is due to the Fund,
 
 no part of the proceeds shall be paid to an execution creditor, unless the court issuing the writ has ascertained and provided for the sum due to the Fund at the date of the sale or other realisation.
 
-(1A) Where —
+(2) Where —
 
 (a) a writ of distress has been issued under the Distress Act (Cap. 84) to distrain the property of a tenant who is an employer and any movable property belonging to the employer is seized in execution of the writ; and
+
+[40/2007 wef 01/10/2007]
 
 (b) prior to the payment of the proceeds of the sale or other realisation to the landlord entitled to the distraint, notice has been given to the Sheriff or other officer charged with the execution of the writ by the Board that any sum is due to the Fund,
 
@@ -1990,9 +2216,11 @@ no part of the proceeds shall be paid to the landlord unless the court issuing t
 
 [30/98]
 
-(1B) Where —
+(3) Where —
 
-(a) a garnishee order has been issued in execution of a judgment against an employer; and
+(a) a garnishee order has been issued in execution of a judgment against an employer ; and
+
+[40/2007 wef 01/10/2007]
 
 (b) prior to the payment of the amount due or accruing due to the judgment debtor from the garnishee, notice has been given to the garnishee by the Board that any sum is due to the Fund,
 
@@ -2000,7 +2228,7 @@ no amount of the debt sought to be attached under the garnishee order shall be p
 
 [30/98]
 
-(2) Where —
+(4) Where —
 
 (a) any interest in any place of employment is being sold on the application of a secured creditor under any written law in force for the time being; and
 
@@ -2016,15 +2244,15 @@ the proceeds of the sale shall not be paid to any creditor other than to the Gov
 
 70\.—(1) If the Board is satisfied that an employer has established a welfare scheme which provides for the payment to his employees of pensions, gratuities or other pecuniary or welfare benefits (referred to in this Act as an approved employees’ scheme), the Board shall certify to that effect.
 
-(1A) Upon such certification, the amount which such employer shall be liable to contribute to the Fund in respect of any of his employees who has agreed to join such approved employees’ scheme shall be in accordance with such reduced rates as may be prescribed by the Minister for employers who have established approved employees’ schemes and not the rates specified in the First Schedule.
+(2) Upon such certification, the amount which such employer shall be liable to contribute to the Fund in respect of any of his employees who has agreed to join such approved employees’ scheme shall be in accordance with such reduced rates as may be prescribed by the Minister for employers who have established approved employees’ schemes and not the rates specified in the First Schedule.
 
 [19/83; 27/92]
 
-(2) The Board may at any time revoke any certificate issued under subsection (1) but without prejudice to anything previously done or omitted to be done by virtue thereof.
+(3) The Board may at any time revoke any certificate issued under subsection (1) but without prejudice to anything previously done or omitted to be done by virtue thereof.
 
 [19/83]
 
-(3) An employer who has established a scheme which has been certified as an approved employees’ scheme under subsection (1) shall —
+(4) An employer who has established a scheme which has been certified as an approved employees’ scheme under subsection (1) shall —
 
 (a) furnish to the Board such accounts in respect of the scheme, duly audited by an auditor who has been approved as a company auditor under section 9(2) of the Companies Act (Cap. 50) as the Board may require;
 
@@ -2036,11 +2264,11 @@ the proceeds of the sale shall not be paid to any creditor other than to the Gov
 
 [19/83]
 
-(4) Any amendment to the rules of any approved employees’ scheme made without the prior permission of the Board shall, for the purposes of this Act, be void and of no effect.
+(5) Any amendment to the rules of any approved employees’ scheme made without the prior permission of the Board shall, for the purposes of this Act, be void and of no effect.
 
 [19/83]
 
-(5) Section 24(1) and (3A) shall apply —
+(6) Section 24(1) and (3A) shall apply —
 
 (a) to withdrawals or payments of moneys from any approved employees’ scheme;
 
@@ -2054,7 +2282,7 @@ the proceeds of the sale shall not be paid to any creditor other than to the Gov
 
 [19/83]
 
-(6) Section 24(4) and (6) shall apply —
+(7) Section 24(4) and (6) shall apply —
 
 (a) to contributions to any approved employees’ scheme and to interest thereon;
 
@@ -2066,11 +2294,11 @@ the proceeds of the sale shall not be paid to any creditor other than to the Gov
 
 [19/83]
 
-(7) Any person who fails to comply with subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+(8) Any person who fails to comply with subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
-(8) The court before which any person is convicted for failing to pay contributions into any approved employees’ scheme within such period as the rules of the approved employees’ scheme require may, in addition to such fine, order him to pay the amount of any contributions and any interest due thereon certified by an officer appointed by the Board in that behalf to be due from such person at the date of such conviction.
+(9) The court before which any person is convicted for failing to pay contributions into any approved employees’ scheme within such period as the rules of the approved employees’ scheme require may, in addition to such fine, order him to pay the amount of any contributions and any interest due thereon certified by an officer appointed by the Board in that behalf to be due from such person at the date of such conviction.
 
-(9) The amount referred to in subsection (8) may be recovered according to the law for the time being in force for the recovery of fines.
+(10) The amount referred to in subsection (9) may be recovered according to the law for the time being in force for the recovery of fines.
 
 [19/83]
 
@@ -2082,7 +2310,7 @@ the proceeds of the sale shall not be paid to any creditor other than to the Gov
 
 [19/83]
 
-(3) Where an employee who is a member of an approved employees’ scheme leaves the service of his employer before attaining the age of 55 years, the employer concerned shall pay to the Board to be placed to the credit of the employee in the Fund the money (if any) payable to such employee under the approved employees’ scheme on the termination of his employment
+(3) Where an employee who is a member of an approved employees’ scheme leaves the service of his employer before attaining the age of 55 years, the employer concerned shall pay to the Board to be placed to the credit of the employee in the Fund the money (if any) payable to such employee under the approved employees’ scheme on the termination of his employment.
 
 [19/83]
 
@@ -2090,15 +2318,17 @@ the proceeds of the sale shall not be paid to any creditor other than to the Gov
 
 72\. The Board may, when a public officer is confirmed in a pensionable office in the service of the Government, refund to the Government, in respect of the period before his confirmation, such contributions paid by the Government as have not been recovered from the public officer’s wages and are standing to the credit of the public officer in the Fund, together with the interest thereon.
 
+[57/2007 wef 01/01/2008]
+
 ### Transfer to Fund from private provident fund
 
 73\. Where, by virtue of his employment as an employee, any member of the Fund has acquired a right to any pecuniary benefit in a provident fund or other scheme, any part or the whole of that benefit may, if the rules of that provident fund or other scheme permit, be transferred to the Fund and treated as an excess contribution paid for him under section 7(4).
 
 ### Refund of contributions paid in error
 
-74\.—(1) When the Board is satisfied that any amount has been paid in error to the Fund in respect of any person or as interest under section 9, the Board may, subject to subsection (3), refund the amount so paid in error to the person by whom it was paid.
+74\.—(1) When the Board is satisfied that any amount has been paid in error to the Fund in respect of any person or as interest under section 9, the Board may, subject to subsection (4), refund the amount so paid in error to the person by whom it was paid.
 
-(1A) If —
+(2) If —
 
 (a) the refund of any amount paid in error is not claimed within one year of the date on which it was paid; or
 
@@ -2106,15 +2336,17 @@ the proceeds of the sale shall not be paid to any creditor other than to the Gov
 
 the amount paid in error shall not be refunded but shall be deemed to have been properly paid under the provisions of this Act as interest or for the person in respect of whom it was paid.
 
-(2) If any amount is due to the Fund from the person to whom refund of the amount paid in error would otherwise be made, the Board may retain the whole or any part of the amount paid in error and set it off against such amount as is due.
+(3) If any amount is due to the Fund from the person to whom refund of the amount paid in error would otherwise be made, the Board may retain the whole or any part of the amount paid in error and set it off against such amount as is due.
 
-(3) No refund shall be made and no amount shall be set-off under this section except with the consent of the Board.
+(4) No refund shall be made and no amount shall be set-off under this section except with the consent of the Board.
 
-(4) The Board may require any person who claims to have paid any amount to the Fund in error to make written application for refund and to furnish such information as the Board may require to determine the amount so paid.
+(5) The Board may require any person who claims to have paid any amount to the Fund in error to make written application for refund and to furnish such information as the Board may require to determine the amount so paid.
 
 ### Refund of excess contributions on additional wages
 
 75\.—(1) Subject to this section, where the Board is satisfied that the amount of contributions paid for the year on additional wages exceeds the amount of contributions payable on such additional wages after recomputation in accordance with the First Schedule, the Board may refund the excess contributions, together with any interest payable in respect of the excess contributions under section 6(4), in such manner as the Minister may by regulations prescribe.
+
+[57/2007 wef 01/01/2008]
 
 [22/90; 27/92]
 
@@ -2130,13 +2362,17 @@ the amount paid in error shall not be refunded but shall be deemed to have been 
 
 76\.—(1) The Board may, if the Minister is satisfied that it is in the public interest to do so, engage in activities not directly related to the administration of the Fund including, in particular, the compilation of information of a statistical nature or otherwise relating to employers and employees.
 
-(1A) For the purpose of subsection (1), the Board may require employers and employees to furnish such particulars as may be necessary.
+[57/2007 wef 01/01/2008]
 
-(2) Notwithstanding the provisions of any written law but subject to any rules made under subsection (3), where a fund for the educational, social or economic advancement of any community has been approved by the Minister for the purposes of this subsection, an employer shall deduct from the monthly wages of an employee who belongs to that community such amount of contributions as may be prescribed and pay such contributions into the fund unless an employee notifies his employer in writing that he does not wish to contribute to the fund.
+(2) For the purpose of subsection (1), the Board may require employers and employees to furnish such particulars as may be necessary.
+
+[57/2007 wef 01/01/2008]
+
+(3) Notwithstanding the provisions of any written law but subject to any rules made under subsection (4), where a fund for the educational, social or economic advancement of any community has been approved by the Minister for the purposes of this subsection, an employer shall deduct from the monthly wages of an employee who belongs to that community such amount of contributions as may be prescribed and pay such contributions into the fund unless an employee notifies his employer in writing that he does not wish to contribute to the fund.
 
 [3/92]
 
-(3) The Board may, with the approval of the Minister, make such rules as are necessary or expedient for carrying out the provisions of subsection (2) relating to the fund referred to in that subsection and, in particular, such rules may —
+(4) The Board may, with the approval of the Minister, make such rules as are necessary or expedient for carrying out the provisions of subsection (3) relating to the fund referred to in that subsection and, in particular, such rules may —
 
 (a) provide for different amounts of contributions to be made by different categories of employees;
 
@@ -2158,6 +2394,8 @@ the amount paid in error shall not be refunded but shall be deemed to have been 
 
 (a) to provide for the manner of payment, collection and refund of contributions and any matters incidental thereto;
 
+[36/2002 wef 01/01/2003]
+
 (b) to provide for the disposal of amounts which are unclaimed, unpaid or otherwise remain in the Fund;
 
 (c) to provide for the classification of any employment, not being employment under a contract of service or apprenticeship, as an employment in respect of which contributions are payable under the provisions of this Act;
@@ -2168,7 +2406,7 @@ the amount paid in error shall not be refunded but shall be deemed to have been 
 
 (f) to provide that the Comptroller of Income Tax, appointed under the Income Tax Act (Cap. 134), may transmit to the Board such information, documents or records as may be required to enable the incomes of the persons referred to in paragraph (e) to be ascertained and to provide for the Board, its officers and employees, when dealing with the information, documents or records to be bound by the same conditions as to secrecy as are the persons mentioned in section 6 of that Act;
 
-(g) to provide that the Board may, with the approval of the Minister, appoint any agent (including the Government or any statutory body) for the assessment, collection or recovery of contributions payable under this Act or any regulations made thereunder and any interest thereon and that such agent may be delegated such duties, powers and functions of the Board or its officers under this Act as may be prescribed;
+(g) to provide that the Board may, with the approval of the Minister, appoint any agent (including the Government or any statutory body) for the assessment, collection or recovery of contributions payable under this Act and any interest thereon and that such agent may be delegated such duties, powers and functions of the Board or its officers under this Act as may be prescribed;
 
 (h) to provide for members of the Fund to apply, assign or withdraw all or part of the contributions and interest standing to their credit in the Fund for the purchase or acquisition of immovable properties or to repay any loan taken to finance or re-finance the purchase or acquisition of immovable properties including the payment of costs, fees or other incidental expenses incurred for the purchase or acquisition of immovable property or for obtaining any loan to finance or re-finance such purchase or acquisition or in connection with withdrawals of any money from the Fund;
 
@@ -2180,25 +2418,35 @@ the amount paid in error shall not be refunded but shall be deemed to have been 
 
 (j) with respect to the withdrawal of money from the medisave account of a member for medical treatment or services received by him, his spouse, child, parent or such other persons as may be prescribed;
 
-(ja) with respect to the withdrawal of money from the medisave account of a member for payment of premium payable by the member or his dependant who is insured under a medical insurance scheme approved by the Minister charged with the responsibility for health;
+[22/2010 wef 01/10/2010]
 
-(k) to provide for rates of contributions, other than those specified in the First Schedule, in respect of employees declared by the President to be employees for the purposes of this Act by notification in theGazetteunder section 2;
+(k) with respect to the withdrawal of money from the medisave account of a member for payment of premium payable by the member or his dependant who is insured under a medical insurance schemeapproved by the Minister charged with the responsibility for health;
 
-(l) to provide for members of the Fund to apply, assign or withdraw all or part of the contributions and interest standing to their credit in the Fund for the purpose of purchasing the stocks and shares of the Singapore Bus Service (1978) Limited, a company incorporated under the provisions of the Companies Act (Cap. 50), subject to such conditions as the Minister may impose;
+[34/2001 wef 01/01/2002]
 
-(m) to provide for members of the Fund to apply, assign or withdraw all or part of the contributions and interest standing to their credit in the Fund for the purpose of investing in such precious metals and securities as may be approved by the Minister, or for the reimbursement of the cost of the making of any such investments, including the payment of any fees, charges or incidental expenses incurred for such investments;
+(l) to provide for rates of contributions, other than those specified in the First Schedule, in respect of employees declared by the President to be employees for the purposes of this Act by notification in theGazetteunder section 2(1);
 
-(n) to prescribe for the purposes of section 15(6) the minimum sum which is required to be set aside or topped-up by a member at the time of the withdrawal of the sum standing to his credit in the Fund, the method of computing the minimum sum and the amount or manner in which the minimum sum may be withdrawn after a member has attained the age of 60 years or such other age as may be prescribed and different minimum sums may be prescribed for different classes of members, and for the purposes of section 18;
+(m) to provide for members of the Fund to apply, assign or withdraw all or part of the contributions and interest standing to their credit in the Fund for the purpose of purchasing the stocks and shares of the Singapore Bus Service (1978) Limited, a company incorporated under the provisions of the Companies Act (Cap. 50), subject to such conditions as the Minister may impose;
 
-(na) to prescribe for the purposes of section 15B the manner of application to set aside the additional sum, the conditions on which the additional sum may be set aside, the time at which the additional sum may be set aside, and the amount of and the manner in which the additional sum may be withdrawn;
+(n) to provide for members of the Fund to apply, assign or withdraw all or part of the contributions and interest standing to their credit in the Fund for the purpose of investing in such precious metals and securities as may be approved by the Minister, or for the reimbursement of the cost of the making of any such investments, including the payment of any fees, charges or incidental expenses incurred for such investments;
 
-(o) to provide for rates of contributions, other than those specified in the First Schedule, in respect of such categories, classes or descriptions of employees as the Minister may specify;
+[36/2002 wef 01/01/2003]
 
-(p) to provide for members of the Fund to apply or withdraw all or part of the contributions and interest standing to their credit in the Fund for the payment of improvement contributions due to the Housing and Development Board constituted under the Housing and Development Act (Cap. 129) in respect of upgrading works carried out under Part IVA of that Act including the payment of costs, fees or other incidental expenses arising from such works; and
+[31/2003 wef 01/01/2004]
 
-(q) as are necessary or expedient for giving full effect to the purposes and provisions of this Act.
+[15/2006 wef 01/07/2006]
 
-[19/83; 32/84; 16/86; 5/87; 22/90; 27/92; 29/93; 10/94]
+(o) to prescribe for the purposes of section 15(6) the minimum sum which is required to be set aside or topped-up by a member at the time of the withdrawal of the sum standing to his credit in the Fund, the method of computing the minimum sum and the amount or manner in which the minimum sum may be withdrawn after a member has attained the age of 60 years or such other age as may be prescribed and different minimum sums may be prescribed for different classes of members, and for the purposes of section 18;
+
+(p) to prescribe for the purposes of section 15B the manner of application to set aside the additional sum, the conditions on which the additional sum may be set aside, the time at which the additional sum may be set aside, and the amount of and the manner in which the additional sum may be withdrawn;
+
+(q) to provide for rates of contributions, other than those specified in the First Schedule, in respect of such categories, classes or descriptions of employees as the Minister may specify;
+
+(r) to provide for members of the Fund to apply or withdraw all or part of the contributions and interest standing to their credit in the Fund for the payment of improvement contributions due to the Housing and Development Board constituted under the Housing and Development Act (Cap. 129) in respect of upgrading works carried out under Part IVA of that Act including the payment of costs, fees or other incidental expenses arising from such works; and
+
+(s) as are necessary or expedient for giving full effect to the purposes and provisions of this Act.
+
+[19/83; 32/84; 16/86; 5/87; 22/90; 27/92; 29/93; 10/94; 39/2000]
 
 (2) The Board may, in addition to the other duties imposed and powers conferred upon it under this Act, make rules —
 
@@ -2210,7 +2458,13 @@ the amount paid in error shall not be refunded but shall be deemed to have been 
 
 (b) to provide for the keeping of books, accounts or records by employers;
 
-(c) to provide for the appointment of medical boards for the purpose of determining whether a member of the Fund is physically or mentally incapacitated;
+(c) to provide for the appointment of medical boards for the purpose of determining whether a member of the Fund is physically or mentally incapacitated(6B) ;
+
+[15/2006 wef 01/07/2006]
+
+[40/2007 wef 01/10/2007]
+
+[22/2010 wef 01/10/2010]
 
 (d) to prescribe the procedure for the withdrawal of amounts from the Fund;
 
@@ -2230,7 +2484,7 @@ the amount paid in error shall not be refunded but shall be deemed to have been 
 
 (3) No withdrawal shall be allowed to any member pursuant to regulations made under subsection (1)(i) unless the construction of his dwelling-house has been completed and a temporary occupation permit in respect of the dwelling-house has been issued by the relevant Government authority.
 
-(4) For the purposes of subsections (1)(i) and (3), “dwelling-house” means any building which is constructed to be used for human habitation.
+(4) In subsections (1)(i) and (3), “dwelling-house” means any building which is constructed to be used for human habitation.
 
 [29/93]
 
@@ -2356,29 +2610,29 @@ Exceeding $200 but not exceeding $363
 
 An amount equal to the sum of —
 
-(a) 21% of the total amount of the employee’s wages for the month; and
-
 An amount equal to the sum of —
 
-(a) 5% of the total amount of the employee’s wages for the month; and
-
 An amount equal to the sum of —
-
-(a) 6% of the total amount of the employee’s wages for the month; and
 
 An amount equal to the sum of 1/4 of the difference between the total amount of the employee’s wages for the month and $200.
 
 An amount equal to the sum of —
 
-(a) 3.5% of the total amount of the employee’s wages for the month; and
-
 An amount equal to the sum of 1/6 of the difference between the total amount of the employee’s wages for the month and $200.
 
 An amount equal to the sum of —
 
+An amount equal to the sum of 1/9 of the difference between the total amount of the employee’s wages for the month and $200.
+
+(a) 21% of the total amount of the employee’s wages for the month; and
+
+(a) 5% of the total amount of the employee’s wages for the month; and
+
+(a) 6% of the total amount of the employee’s wages for the month; and
+
 (a) 3.5% of the total amount of the employee’s wages for the month; and
 
-An amount equal to the sum of 1/9 of the difference between the total amount of the employee’s wages for the month and $200.
+(a) 3.5% of the total amount of the employee’s wages for the month; and
 
 (b) 1/3 of the difference between the total amount of the employee’s wages for the month and $200.
 
@@ -2394,33 +2648,33 @@ Exceeding $363
 
 An amount equal to the sum of —
 
-(a) 36% of the employee’s ordinary wages for the month subject to a maximum of $2,160; and
+An amount equal to the sum of —
 
 An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+(a) 36% of the employee’s ordinary wages for the month subject to a maximum of $2,160; and
 
 (a) 20% of the employee’s ordinary wages for the month subject to a maximum of $1,200; and
 
-An amount equal to the sum of —
-
 (a) 18.5% of the employee’s ordinary wages for the month subject to a maximum of $1,110; and
-
-An amount equal to the sum of —
 
 (a) 12.5% of the employee’s ordinary wages for the month subject to a maximum of $750; and
 
-An amount equal to the sum of —
-
 (a) 11% of the employee’s ordinary wages for the month subject to a maximum of $660; and
-
-An amount equal to the sum of —
 
 (a) 7.5% of the employee’s ordinary wages for the month subject to a maximum of $450; and
 
-An amount equal to the sum of —
-
 (a) 8.5% of the employee’s ordinary wages for the month subject to a maximum of $510; and
-
-An amount equal to the sum of —
 
 (a) 5% of the employee’s ordinary wages for the month subject to a maximum of $300; and
 
@@ -2440,6 +2694,1384 @@ An amount equal to the sum of —
 
 (b) 5% of the amount of the additional wages payable to the employee in the month.
 
+[S 612/2000]
+
+1A. Subject to paragraphs 1E to 7, with effect from 1st March 2011, the contributions payable by the employer (at graduated rates) and the amount recoverable from the employee’s wages (at graduated rates) during the period beginning on the date the employee becomes a permanent resident and ending on the last day of the first anniversary month, are as follows:
+
+(a) where the employee is not more than 55 years of age:
+
+35 Years of Age and below
+
+Above 35 but not more than 50 Years of Age
+
+Above 50 but not more than 55 Years of Age
+
+Total amount of the employee’s wages for the calendar month.
+
+Contributions payable by the employer for the calendar month.
+
+Amount recoverable from the employee’s wages for the calendar month.
+
+Contributions payable by the employer for the calendar month.
+
+Amount recoverable from the employee’s wages for the calendar month.
+
+Contributions payable by the employer for the calendar month.
+
+Amount recoverable from the employee’s wages for the calendar month.
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+Exceeding $50 but not exceeding $500
+
+An amount equal to 4% of the total amount of the employee’s wages for the month.
+
+NIL
+
+An amount equal to 0.0265 of the difference between the total amount of the employee’s wages for the month and $50.
+
+NIL
+
+An amount equal to 0.0265 of the difference between the total amount of the employee’s wages for the month and $50.
+
+NIL
+
+Exceeding $500 but not exceeding $750
+
+An amount equal to the sum of —
+
+An amount equal to 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
+
+An amount equal to the sum of —
+
+An amount equal to 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
+
+An amount equal to the sum of —
+
+An amount equal to 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
+
+(a) 4% of the total amount of the employee’s wages for the month; and
+
+(a) 0.0265 of the difference between the total amount of the employee’s wages for the month and $50; and
+
+(a) 0.0265 of the difference between the total amount of the employee’s wages for the month and $50; and
+
+(b) 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
+
+(b) 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
+
+(b) 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
+
+Exceeding $750 but not exceeding $1,200
+
+An amount equal to the sum of —
+
+An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+An amount equal to the sum of —
+
+An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+An amount equal to the sum of —
+
+An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(a) 4% of the total amount of the employee’s wages for the month; and
+
+(a) $18.60 and 0.0541 of the difference between the total amount of the employee’s wages for the month and $750; and
+
+(a) $18.60 and 0.0498 of the difference between the total amount of the employee’s wages for the month and $750; and
+
+(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+Exceeding $1,200 but not exceeding $1,500
+
+An amount equal to the sum of —
+
+An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+An amount equal to the sum of —
+
+An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+An amount equal to the sum of —
+
+An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(a) 4% of the total amount of the employee’s wages for the month; and
+
+(a) $42.96 and 0.0568 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+
+(a) $41.04 and 0.0632 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+
+(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+Exceeding $1,500
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+(a) 9% of the employee’s ordinary wages for the month subject to a maximum of $405; and
+
+(a) 5% of the employee’s ordinary wages for the month subject to a maximum of $225; and
+
+(a) 9% of the employee’s ordinary wages for the month subject to a maximum of $405; and
+
+(a) 5% of the employee’s ordinary wages for the month subject to a maximum of $225; and
+
+(a) 9% of the employee’s ordinary wages for the month subject to a maximum of $405; and
+
+(a) 5% of the employee’s ordinary wages for the month subject to a maximum of $225; and
+
+(b) 9% of the amount of the additional wages payable to the employee in the month.
+
+(b) 5% of the amount of the additional wages payable to the employee in the month.
+
+(b) 9% of the amount of the additional wages payable to the employee in the month.
+
+(b) 5% of the amount of the additional wages payable to the employee in the month.
+
+(b) 9% of the amount of the additional wages payable to the employee in the month.
+
+(b) 5% of the amount of the additional wages payable to the employee in the month.
+
+(b) where the employee is above 55 years of age:
+
+Above 55 but not more than 60 Years of Age
+
+Above 60 but not more than 65 Years of Age
+
+Above 65 Years of Age
+
+Total amount of the employee’s wages for the calendar month.
+
+Contributions payable by the employer for the calendar month.
+
+Amount recoverable from the employee’s wages for the calendar month.
+
+Contributions payable by the employer for the calendar month.
+
+Amount recoverable from the employee’s wages for the calendar month.
+
+Contributions payable by the employer for the calendar month.
+
+Amount recoverable from the employee’s wages for the calendar month.
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+Exceeding $50 but not exceeding $500
+
+An amount equal to 0.0265 of the difference between the total amount of the employee’s wages for the month and $50.
+
+NIL
+
+An amount equal to 0.0232 of the difference between the total amount of the employee’s wages for the month and $50.
+
+NIL
+
+An amount equal to 0.0232 of the difference between the total amount of the employee’s wages for the month and $50.
+
+NIL
+
+Exceeding $500 but not exceeding $750
+
+An amount equal to the sum of —
+
+An amount equal to 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
+
+An amount equal to the sum of —
+
+An amount equal to 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
+
+An amount equal to the sum of —
+
+An amount equal to 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
+
+(a) 0.0265 of the difference between the total amount of the employee’s wages for the month and $50; and
+
+(a) 0.0232 of the difference between the total amount of the employee’s wages for the month and $50; and
+
+(a) 0.0232 of the difference between the total amount of the employee’s wages for the month and $50; and
+
+(b) 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
+
+(b) 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
+
+(b) 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
+
+Exceeding $750 but not exceeding $1,200
+
+An amount equal to the sum of —
+
+An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+An amount equal to the sum of —
+
+An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+An amount equal to the sum of —
+
+An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(a) $18.60 and 0.044 of the difference between the total amount of the employee’s wages for the month and $750; and
+
+(a) $16.275 and 0.0291 of the difference between the total amount of the employee’s wages for the month and $750; and
+
+(a) $16.275 and 0.0291 of the difference between the total amount of the employee’s wages for the month and $750; and
+
+(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+Exceeding $1,200 but not exceeding $1,500
+
+An amount equal to the sum of —
+
+An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+An amount equal to the sum of —
+
+An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+An amount equal to the sum of —
+
+An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(a) $38.40 and 0.072 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+
+(a) $29.40 and 0.077 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+
+(a) $29.40 and 0.077 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+
+(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+Exceeding $1,500
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+(a) 9% of the employee’s ordinary wages for the month subject to a maximum of $405; and
+
+(a) 5% of the employee’s ordinary wages for the month subject to a maximum of $225; and
+
+(a) 8.5% of the employee’s ordinary wages for the month subject to a maximum of $382.50; and
+
+(a) 5% of the employee’s ordinary wages for the month subject to a maximum of $225; and
+
+(a) 8.5% of the employee’s ordinary wages for the month subject to a maximum of $382.50; and
+
+(a) 5% of the employee’s ordinary wages for the month subject to a maximum of $225; and
+
+(b) 9% of the amount of the additional wages payable to the employee in the month.
+
+(b) 5% of the amount of the additional wages payable to the employee in the month.
+
+(b) 8.5% of the amount of the additional wages payable to the employee in the month.
+
+(b) 5% of the amount of the additional wages payable to the employee in the month.
+
+(b) 8.5% of the amount of the additional wages payable to the employee in the month.
+
+(b) 5% of the amount of the additional wages payable to the employee in the month.
+
+1B. Subject to paragraphs 1E to 7, with effect from 1st March 2011, the contributions payable by the employer (at graduated rates) and the amount recoverable from the employee’s wages (at graduated rates) during the period beginning on the first day of the calendar month following the first anniversary month and ending on the last day of the second anniversary month, are as follows:
+
+(a) where the employee is not more than 55 years of age:
+
+35 Years of Age and below
+
+Above 35 but not more than
+50 Years of Age
+
+Above 50 but not more than
+55 Years of Age
+
+Total amount of the employee’s wages for the calendar month.
+
+Contributions payable by the employer for the calendar month.
+
+Amount recoverable from the employee’s wages for the calendar month.
+
+Contributions payable by the employer for the calendar month.
+
+Amount recoverable from the employee’s wages for the calendar month.
+
+Contributions payable by the employer for the calendar month.
+
+Amount recoverable from the employee’s wages for the calendar month.
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+Exceeding $50 but not exceeding $500
+
+An amount equal to 9% of the total amount of the employee’s wages for the month.
+
+NIL
+
+An amount equal to 0.0597 of the difference between the total amount of the employee’s wages for the month and $50.
+
+NIL
+
+An amount equal to 0.0597 of the difference between the total amount of the employee’s wages for the month and $50.
+
+NIL
+
+Exceeding $500 but not exceeding $750
+
+An amount equal to the sum of —
+
+An amount equal to 0.36 of the difference between the total amount of the employee’s wages for the month and $500.
+
+An amount equal to the sum of —
+
+An amount equal to 0.36 of the difference between the total amount of the employee’s wages for the month and $500.
+
+An amount equal to the sum of —
+
+An amount equal to 0.36 of the difference between the total amount of the employee’s wages for the month and $500.
+
+(a) 9% of the total amount of the employee’s wages for the month; and
+
+(a) 0.0597 of the difference between the total amount of the employee’s wages for the month and $50; and
+
+(a) 0.0597 of the difference between the total amount of the employee’s wages for the month and $50; and
+
+(b) 0.36 of the difference between the total amount of the employee’s wages for the month and $500.
+
+(b) 0.36 of the difference between the total amount of the employee’s wages for the month and $500.
+
+(b) 0.36 of the difference between the total amount of the employee’s wages for the month and $500.
+
+Exceeding $750 but not exceeding $1,200
+
+An amount equal to the sum of —
+
+An amount equal to the sum of $90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
+
+An amount equal to the sum of —
+
+An amount equal to the sum of $90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
+
+An amount equal to the sum of —
+
+An amount equal to the sum of $90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(a) 9% of the total amount of the employee’s wages for the month; and
+
+(a) $41.85 and 0.1219 of the difference between the total amount of the employee’s wages for the month and $750; and
+
+(a) $41.85 and 0.1126 of the difference between the total amount of the employee’s wages for the month and $750; and
+
+(b) $90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b) $90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b) $90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
+
+Exceeding $1,200 but not exceeding $1,500
+
+An amount equal to the sum of —
+
+An amount equal to the sum of $90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
+
+An amount equal to the sum of —
+
+An amount equal to the sum of $90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
+
+An amount equal to the sum of —
+
+An amount equal to the sum of $90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(a) 9% of the total amount of the employee’s wages for the month; and
+
+(a) $96.72 and 0.1276 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+
+(a) $92.52 and 0.1416 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+
+(b) $90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b) $90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b) $90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
+
+Exceeding $1,500
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+(a) 24% of the employee’s ordinary wages for the month subject to a maximum of $1080; and
+
+(a) 15% of the employee’s ordinary wages for the month subject to a maximum of $675; and
+
+(a) 24% of the employee’s ordinary wages for the month subject to a maximum of $1080; and
+
+(a) 15% of the employee’s ordinary wages for the month subject to a maximum of $675; and
+
+(a) 24% of the employee’s ordinary wages for the month subject to a maximum of $1080; and
+
+(a) 15% of the employee’s ordinary wages for the month subject to a maximum of $675; and
+
+(b) 24% of the amount of the additional wages payable to the employee in the month.
+
+(b) 15% of the amount of the additional wages payable to the employee in the month.
+
+(b) 24% of the amount of the additional wages payable to the employee in the month.
+
+(b) 15% of the amount of the additional wages payable to the employee in the month.
+
+(b) 24% of the amount of the additional wages payable to the employee in the month.
+
+(b) 15% of the amount of the additional wages payable to the employee in the month.
+
+(b) where the employee is above 55 years of age:
+
+Above 55 but not more than 60 Years of Age
+
+Above 60 but not more than 65 Years of Age
+
+Above 65 Years of Age
+
+Total amount of the employee’s wages for the calendar month.
+
+Contributions payable by the employer for the calendar month.
+
+Amount recoverable from the employee’s wages for the calendar month.
+
+Contributions payable by the employer for the calendar month.
+
+Amount recoverable from the employee’s wages for the calendar month.
+
+Contributions payable by the employer for the calendar month.
+
+Amount recoverable from the employee’s wages for the calendar month.
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+Exceeding $50 but not exceeding $500
+
+An amount equal to 0.0398 of the difference between the total amount of the employee’s wages for the month and $50.
+
+NIL
+
+An amount equal to 0.0232 of the difference between the total amount of the employee’s wages for the month and $50.
+
+NIL
+
+An amount equal to 0.0232 of the difference between the total amount of the employee’s wages for the month and $50.
+
+NIL
+
+Exceeding $500 but not exceeding $750
+
+An amount equal to the sum of —
+
+An amount equal to 0.3 of the difference between the total amount of the employee’s wages for the month and $500.
+
+An amount equal to the sum of —
+
+An amount equal to 0.18 of the difference between the total amount of the employee’s wages for the month and $500.
+
+An amount equal to the sum of —
+
+An amount equal to 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
+
+(a) 0.0398 of the difference between the total amount of the employee’s wages for the month and $50; and
+
+(a) 0.0232 of the difference between the total amount of the employee’s wages for the month and $50; and
+
+(a) 0.0232 of the difference between the total amount of the employee’s wages for the month and $50; and
+
+(b) 0.3 of the difference between the total amount of the employee’s wages for the month and $500.
+
+(b) 0.18 of the difference between the total amount of the employee’s wages for the month and $500.
+
+(b) 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
+
+Exceeding $750 but not exceeding $1,200
+
+An amount equal to the sum of —
+
+An amount equal to the sum of $75 and 0.15 of the difference between the total amount of the employee’s wages for the month and $750.
+
+An amount equal to the sum of —
+
+An amount equal to the sum of $45 and 0.09 of the difference between the total amount of the employee’s wages for the month and $750.
+
+An amount equal to the sum of —
+
+An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(a) $27.90 and 0.066 of the difference between the total amount of the employee’s wages for the month and $750; and
+
+(a) $16.275 and 0.0291 of the difference between the total amount of the employee’s wages for the month and $750; and
+
+(a) $16.275 and 0.0291 of the difference between the total amount of the employee’s wages for the month and $750; and
+
+(b) $75 and 0.15 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b) $45 and 0.09 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+Exceeding $1,200 but not exceeding $1,500
+
+An amount equal to the sum of —
+
+An amount equal to the sum of $75 and 0.15 of the difference between the total amount of the employee’s wages for the month and $750.
+
+An amount equal to the sum of —
+
+An amount equal to the sum of $45 and 0.09 of the difference between the total amount of the employee’s wages for the month and $750.
+
+An amount equal to the sum of —
+
+An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(a) $57.60 and 0.108 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+
+(a) $29.40 and 0.077 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+
+(a) $29.40 and 0.077 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+
+(b) $75 and 0.15 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b) $45 and 0.09 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+Exceeding $1,500
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+(a) 18.5% of the employee’s ordinary wages for the month subject to a maximum of $832.50; and
+
+(a) 12.5% of the employee’s ordinary wages for the month subject to a maximum of $562.50; and
+
+(a) 11% of the employee’s ordinary wages for the month subject to a maximum of $495; and
+
+(a) 7.5% of the employee’s ordinary wages for the month subject to a maximum of $337.50; and
+
+(a) 8.5% of the employee’s ordinary wages for the month subject to a maximum of $382.50; and
+
+(a) 5% of the employee’s ordinary wages for the month subject to a maximum of $225; and
+
+(b) 18.5% of the amount of the additional wages payable to the employee in the month.
+
+(b) 12.5% of the amount of the additional wages payable to the employee in the month.
+
+(b) 11% of the amount of the additional wages payable to the employee in the month.
+
+(b) 7.5% of the amount of the additional wages payable to the employee in the month.
+
+(b) 8.5% of the amount of the additional wages payable to the employee in the month.
+
+(b) 5% of the amount of the additional wages payable to the employee in the month.
+
+1C. Subject to paragraphs 1E to 7, with effect from 1st March 2011, the contributions payable by the employer (at full rates) and the amount recoverable from the employee’s wages (at graduated rates) during the period beginning on the date the employee becomes a permanent resident and ending on the last day of the first anniversary month, are as follows:
+
+(a) where the employee is not more than 55 years of age:
+
+35 Years of Age and below
+
+Above 35 but not more than 50 Years of Age
+
+Above 50 but not more than 55 Years of Age
+
+Total amount of the employee’s wages for the calendar month.
+
+Contributions payable by the employer for the calendar month.
+
+Amount recoverable from the employee’s wages for the calendar month.
+
+Contributions payable by the employer for the calendar month.
+
+Amount recoverable from the employee’s wages for the calendar month.
+
+Contributions payable by the employer for the calendar month.
+
+Amount recoverable from the employee’s wages for the calendar month.
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+Exceeding $50 but not exceeding $500
+
+An amount equal to 15.5% of the total amount of the employee’s wages for the month.
+
+NIL
+
+An amount equal to 0.103 of the difference between the total amount of the employee’s wages for the month and $50.
+
+NIL
+
+An amount equal to 0.0763 of the difference between the total amount of the employee’s wages for the month and $50.
+
+NIL
+
+Exceeding $500 but not exceeding $750
+
+An amount equal to the sum of —
+
+An amount equal to 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
+
+An amount equal to the sum of —
+
+An amount equal to 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
+
+An amount equal to the sum of —
+
+An amount equal to 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
+
+(a) 15.5% of the total amount of the employee’s wages for the month; and
+
+(a) 0.103 of the difference between the total amount of the employee’s wages for the month and $50; and
+
+(a) 0.0763 of the difference between the total amount of the employee’s wages for the month and $50; and
+
+(b) 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
+
+(b) 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
+
+(b) 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
+
+Exceeding $750 but not exceeding $1,200
+
+An amount equal to the sum of —
+
+An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+An amount equal to the sum of —
+
+An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+An amount equal to the sum of —
+
+An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(a) 15.5% of the total amount of the employee’s wages for the month; and
+
+(a) $72.15 and 0.2103 of the difference between the total amount of the employee’s wages for the month and $750; and
+
+(a) $53.475 and 0.1441 of the difference between the total amount of the employee’s wages for the month and $750; and
+
+(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+Exceeding $1,200 but not exceeding $1,500
+
+An amount equal to the sum of —
+
+An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+An amount equal to the sum of —
+
+An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+An amount equal to the sum of —
+
+An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(a) 15.5% of the total amount of the employee’s wages for the month; and
+
+(a) $166.80 and 0.219 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+
+(a) $118.32 and 0.1806 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+
+(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+Exceeding $1,500
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+(a) 20.5% of the employee’s ordinary wages for the month subject to a maximum of $922.50; and
+
+(a) 5% of the employee’s ordinary wages for the month subject to a maximum of $225; and
+
+(a) 20.5% of the employee’s ordinary wages for the month subject to a maximum of $922.50; and
+
+(a) 5% of the employee’s ordinary wages for the month subject to a maximum of $225; and
+
+(a) 16.5% of the employee’s ordinary wages for the month subject to a maximum of $742.50; and
+
+(a) 5% of the employee’s ordinary wages for the month subject to a maximum of $225; and
+
+(b) 20.5% of the amount of the additional wages payable to the employee in the month.
+
+(b) 5% of the amount of the additional wages payable to the employee in the month.
+
+(b) 20.5% of the amount of the additional wages payable to the employee in the month.
+
+(b) 5% of the amount of the additional wages payable to the employee in the month.
+
+(b) 16.5% of the amount of the additional wages payable to the employee in the month.
+
+(b) 5% of the amount of the additional wages payable to the employee in the month.
+
+(b) where the employee is above 55 years of age:
+
+Above 55 but not more than 60 Years of Age
+
+Above 60 but not more than 65 Years of Age
+
+Above 65 Years of Age
+
+Total amount of the employee’s wages for the calendar month.
+
+Contributions payable by the employer for the calendar month.
+
+Amount recoverable from the employee’s wages for the calendar month.
+
+Contributions payable by the employer for the calendar month.
+
+Amount recoverable from the employee’s wages for the calendar month.
+
+Contributions payable by the employer for the calendar month.
+
+Amount recoverable from the employee’s wages for the calendar month.
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+Exceeding $50 but not exceeding $500
+
+An amount equal to 0.0564 of the difference between the total amount of the employee’s wages for the month and $50.
+
+NIL
+
+An amount equal to 0.0398 of the difference between the total amount of the employee’s wages for the month and $50.
+
+NIL
+
+An amount equal to 0.0398 of the difference between the total amount of the employee’s wages for the month and $50.
+
+NIL
+
+Exceeding $500 but not exceeding $750
+
+An amount equal to the sum of —
+
+An amount equal to 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
+
+An amount equal to the sum of —
+
+An amount equal to 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
+
+An amount equal to the sum of —
+
+An amount equal to 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
+
+(a) 0.0564 of the difference between the total amount of the employee’s wages for the month and $50; and
+
+(a) 0.0398 of the difference between the total amount of the employee’s wages for the month and $50; and
+
+(a) 0.0398 of the difference between the total amount of the employee’s wages for the month and $50; and
+
+(b) 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
+
+(b) 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
+
+(b) 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
+
+Exceeding $750 but not exceeding $1,200
+
+An amount equal to the sum of —
+
+An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+An amount equal to the sum of —
+
+An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+An amount equal to the sum of —
+
+An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(a) $39.525 and 0.0935 of the difference between the total amount of the employee’s wages for the month and $750; and
+
+(a) $27.90 and 0.05 of the difference between the total amount of the employee’s wages for the month and $750; and
+
+(a) $27.90 and 0.05 of the difference between the total amount of the employee’s wages for the month and $750; and
+
+(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+Exceeding $1,200 but not exceeding $1,500
+
+An amount equal to the sum of —
+
+An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+An amount equal to the sum of —
+
+An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+An amount equal to the sum of —
+
+An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(a) $81.60 and 0.153 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+
+(a) $50.40 and 0.132 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+
+(a) $50.40 and 0.132 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+
+(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+Exceeding $1,500
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+(a) 13.5% of the employee’s ordinary wages for the month subject to a maximum of $607.50; and
+
+(a) 5% of the employee’s ordinary wages for the month subject to a maximum of $225; and
+
+(a) 11% of the employee’s ordinary wages for the month subject to a maximum of $495; and
+
+(a) 5% of the employee’s ordinary wages for the month subject to a maximum of $225; and
+
+(a) 11% of the employee’s ordinary wages for the month subject to a maximum of $495; and
+
+(a) 5% of the employee’s ordinary wages for the month subject to a maximum of $225; and
+
+(b) 13.5% of the amount of the additional wages payable to the employee in the month.
+
+(b) 5% of the amount of the additional wages payable to the employee in the month.
+
+(b) 11% of the amount of the additional wages payable to the employee in the month.
+
+(b) 5% of the amount of the additional wages payable to the employee in the month.
+
+(b) 11% of the amount of the additional wages payable to the employee in the month.
+
+(b) 5% of the amount of the additional wages payable to the employee in the month.
+
+1D. Subject to paragraphs 1E to 7, with effect from 1st March 2011, the contributions payable by the employer (at full rates) and the amount recoverable from the employee’s wages (at graduated rates) for the period beginning on the first day of the calendar month following the first anniversary month and ending on the last day of the second anniversary month, are as follows:
+
+(a) where the employee is not more than 55 years of age:
+
+35 Years of Age and below
+
+Above 35 but not more than 50 Years of Age
+
+Above 50 but not more than 55 Years of Age
+
+Total amount of the employee’s wages for the calendar month.
+
+Contributions payable by the employer for the calendar month.
+
+Amount recoverable from the employee’s wages for the calendar month.
+
+Contributions payable by the employer for the calendar month.
+
+Amount recoverable from the employee’s wages for the calendar month.
+
+Contributions payable by the employer for the calendar month.
+
+Amount recoverable from the employee’s wages for the calendar month.
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+Exceeding $50 but not exceeding $500
+
+An amount equal to 15.5% of the total amount of the employee’s wages for the month.
+
+NIL
+
+An amount equal to 0.103 of the difference between the total amount of the employee’s wages for the month and $50.
+
+NIL
+
+An amount equal to 0.0763 of the difference between the total amount of the employee’s wages for the month and $50.
+
+NIL
+
+Exceeding $500 but not exceeding $750
+
+An amount equal to the sum of —
+
+An amount equal to 0.36 of the difference between the total amount of the employee’s wages for the month and $500.
+
+An amount equal to the sum of —
+
+An amount equal to 0.36 of the difference between the total amount of the employee’s wages for the month and $500.
+
+An amount equal to the sum of —
+
+An amount equal to 0.36 of the difference between the total amount of the employee’s wages for the month and $500.
+
+(a) 15.5% of the total amount of the employee’s wages for the month; and
+
+(a) 0.103 of the difference between the total amount of the employee’s wages for the month and $50; and
+
+(a) 0.0763 of the difference between the total amount of the employee’s wages for the month and $50; and
+
+(b) 0.36 of the difference between the total amount of the employee’s wages for the month and $500.
+
+(b) 0.36 of the difference between the total amount of the employee’s wages for the month and $500.
+
+(b) 0.36 of the difference between the total amount of the employee’s wages for the month and $500.
+
+Exceeding $750 but not exceeding $1,200
+
+An amount equal to the sum of —
+
+An amount equal to the sum of $90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
+
+An amount equal to the sum of —
+
+An amount equal to the sum of $90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
+
+An amount equal to the sum of —
+
+An amount equal to the sum of $90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(a) 15.5% of the total amount of the employee’s wages for the month; and
+
+(a) $72.15 and 0.2103 of the difference between the total amount of the employee’s wages for the month and $750; and
+
+(a) $53.475 and 0.1441 of the difference between the total amount of the employee’s wages for the month and $750; and
+
+(b) $90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b) $90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b) $90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
+
+Exceeding $1,200 but not exceeding $1,500
+
+An amount equal to the sum of —
+
+An amount equal to the sum of $90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
+
+An amount equal to the sum of —
+
+An amount equal to the sum of $90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
+
+An amount equal to the sum of —
+
+An amount equal to the sum of $90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(a) 15.5% of the total amount of the employee’s wages for the month; and
+
+(a) $166.80 and 0.219 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+
+(a) $118.32 and 0.1806 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+
+(b) $90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b) $90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b) $90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
+
+Exceeding $1,500
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+(a) 30.5% of the employee’s ordinary wages for the month subject to a maximum of $1,372.50; and
+
+(a) 15% of the employee’s ordinary wages for the month subject to a maximum of $675; and
+
+(a) 30.5% of the employee’s ordinary wages for the month subject to a maximum of $1,372.50; and
+
+(a) 15% of the employee’s ordinary wages for the month subject to a maximum of $675; and
+
+(a) 26.5% of the employee’s ordinary wages for the month subject to a maximum of $1,192.50; and
+
+(a) 15% of the employee’s ordinary wages for the month subject to a maximum of $675; and
+
+(b) 30.5% of the amount of the additional wages payable to the employee in the month.
+
+(b) 15% of the amount of the additional wages payable to the employee in the month.
+
+(b) 30.5% of the amount of the additional wages payable to the employee in the month.
+
+(b) 15% of the amount of the additional wages payable to the employee in the month.
+
+(b) 26.5% of the amount of the additional wages payable to the employee in the month.
+
+(b) 15% of the amount of the additional wages payable to the employee in the month.
+
+(b) where the employee is above 55 years of age:
+
+Above 55 but not more than 60 Years of Age
+
+Above 60 but not more than 65 Years of Age
+
+Above 65 Years of Age
+
+Total amount of the employee’s wages for the calendar month.
+
+Contributions payable by the employer for the calendar month.
+
+Amount recoverable from the employee’s wages for the calendar month.
+
+Contributions payable by the employer for the calendar month.
+
+Amount recoverable from the employee’s wages for the calendar month.
+
+Contributions payable by the employer for the calendar month.
+
+Amount recoverable from the employee’s wages for the calendar month.
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+Exceeding $50 but not exceeding $500
+
+An amount equal to 0.0564 of the difference between the total amount of the employee’s wages for the month and $50.
+
+NIL
+
+An amount equal to 0.0398 of the difference between the total amount of the employee’s wages for the month and $50.
+
+NIL
+
+An amount equal to 0.0398 of the difference between the total amount of the employee’s wages for the month and $50.
+
+NIL
+
+Exceeding $500 but not exceeding $750
+
+An amount equal to the sum of —
+
+An amount equal to 0.3 of the difference between the total amount of the employee’s wages for the month and $500.
+
+An amount equal to the sum of —
+
+An amount equal to 0.18 of the difference between the total amount of the employee’s wages for the month and $500.
+
+An amount equal to the sum of —
+
+An amount equal to 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
+
+(a) 0.0564 of the difference between the total amount of the employee’s wages for the month and $50; and
+
+(a) 0.0398 of the difference between the total amount of the employee’s wages for the month and $50; and
+
+(a) 0.0398 of the difference between the total amount of the employee’s wages for the month and $50; and
+
+(b) 0.3 of the difference between the total amount of the employee’s wages for the month and $500.
+
+(b) 0.18 of the difference between the total amount of the employee’s wages for the month and $500.
+
+(b) 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
+
+Exceeding $750 but not exceeding $1,200
+
+An amount equal to the sum of —
+
+An amount equal to the sum of $75 and 0.15 of the difference between the total amount of the employee’s wages for the month and $750.
+
+An amount equal to the sum of —
+
+An amount equal to the sum of $45 and 0.09 of the difference between the total amount of the employee’s wages for the month and $750.
+
+An amount equal to the sum of —
+
+An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(a) $39.525 and 0.0935 of the difference between the total amount of the employee’s wages for the month and $750; and
+
+(a) $27.90 and 0.05 of the difference between the total amount of the employee’s wages for the month and $750; and
+
+(a) $27.90 and 0.05 of the difference between the total amount of the employee’s wages for the month and $750; and
+
+(b) $75 and 0.15 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b) $45 and 0.09 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+Exceeding $1,200 but not exceeding $1,500
+
+An amount equal to the sum of —
+
+An amount equal to the sum of $75 and 0.15 of the difference between the total amount of the employee’s wages for the month and $750.
+
+An amount equal to the sum of —
+
+An amount equal to the sum of $45 and 0.09 of the difference between the total amount of the employee’s wages for the month and $750.
+
+An amount equal to the sum of —
+
+An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(a) $81.60 and 0.153 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+
+(a) $50.40 and 0.132 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+
+(a) $50.40 and 0.132 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+
+(b) $75 and 0.15 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b) $45 and 0.09 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+Exceeding $1,500
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+(a) 21% of the employee’s ordinary wages for the month subject to a maximum of $945; and
+
+(a) 12.5% of the employee’s ordinary wages for the month subject to a maximum of $562.50; and
+
+(a) 13.5% of the employee’s ordinary wages for the month subject to a maximum of $607.50; and
+
+(a) 7.5% of the employee’s ordinary wages for the month subject to a maximum of $337.50; and
+
+(a) 11% of the employee’s ordinary wages for the month subject to a maximum of $495; and
+
+(a) 5% of the employee’s ordinary wages for the month subject to a maximum of $225; and
+
+(b) 21% of the amount of the additional wages payable to the employee in the month.
+
+(b) 12.5% of the amount of the additional wages payable to the employee in the month.
+
+(b) 13.5% of the amount of the additional wages payable to the employee in the month.
+
+(b) 7.5% of the amount of the additional wages payable to the employee in the month.
+
+(b) 11% of the amount of the additional wages payable to the employee in the month.
+
+(b) 5% of the amount of the additional wages payable to the employee in the month.
+
+1E\. Subject to paragraphs 1F to 7, where a foreign employee becomes a permanent resident after 1st March 2009 but before 1st March 2011, or where a person becomes a permanent resident after 1st March 2009 but before 1st March 2011 and subsequently becomes an employee, the contributions payable in respect of that employee during the period beginning on 1st March 2011 and ending on the last day of the second anniversary month, shall be in accordance with the rates of contributions set out in paragraphs 1A and 1B.
+
+1F. Subject to paragraphs 1H to 7, where the employer and the employee who is a permanent resident have agreed on or after 1st March 2011 —
+
+(a) in a case where the contributions payable in respect of that employee would (but for this paragraph) have been in accordance with paragraph 1A, that those contributions shall be in accordance with the rates set out in paragraph 1 or 1C instead; or
+
+(b) in a case where the contributions payable in respect of that employee would (but for this paragraph) have been in accordance with paragraph 1B, that those contributions shall be in accordance with the rates set out in paragraph 1 or 1D instead,
+
+and have, in the manner determined by the Board, informed the Board of such agreement, then the agreed rates of contribution shall apply in respect of that employee until —
+
+(i) the employee leaves the employment of the employer; or
+
+(ii) the agreement expires or is lawfully terminated,
+
+whichever is the earlier.
+
+1G. Notwithstanding anything in this Schedule, where any agreement —
+
+(a) was entered into on or after 1st October 2002 between an employer and an employee who is a permanent resident under regulation 5 of the revoked Central Provident Fund (Permanent Residents — Employees) Regulations (Rg 21, 2010 Ed.) in relation to the contributions payable in respect of that employee; and
+
+(b) was in force immediately before 1st March 2011,
+
+then —
+
+(i) if the agreement is for those contributions to be in accordance with the rates set out in the First Schedule to the Act, the rates in this Schedule shall continue to apply in relation to that employee; or
+
+(ii) if the agreement is for those contributions to be in accordance with the rates set out in paragraphs 3 and 4 of the Schedule to those Regulations, the rates set out in paragraphs 1C and 1D of this Schedule shall apply in relation to that employee,
+
+until the employee leaves the employment of the employer or the agreement expires or is lawfully terminated, whichever is the earlier.
+
+1H. Notwithstanding anything in this Schedule, where any agreement —
+
+(a) was entered into before 1st October 2002 between an employer and an employee who is a permanent resident under regulation 3(2)(b) of the revoked Central Provident Fund (Permanent Residents — Employees) Regulations (Rg 21, 1998 Ed.) in relation to the contributions payable in respect of that employee; and
+
+(b) was in force immediately before 1st March 2011; or
+
+then the agreed rates of the contribution shall continue to apply in relation to that employee until the employee leaves the employment of the employer, or the agreement expires or is lawfully terminated, whichever is the earlier.
+
 2. In respect of an employee whose total wages from an employer for the preceding year exceed $100,000, no contributions shall be payable by that employer on the additional wages which are in excess of the following:
 
 (a) if his ordinary wages for the preceding year do not exceed $72,000 — $100,000 less his ordinary wages for the preceding year and less his additional wages already paid in the current year; or
@@ -2457,6 +4089,10 @@ An amount equal to the sum of —
 5. For the purpose of this Schedule —
 
 (a) a person shall be deemed to have attained 55, 60 or 65 years of age on the fifty-fifth, sixtieth or sixty-fifth anniversary, respectively, of the day of his birth and the contributions payable in respect of an employee above 55, 60 or 65 years of age shall be payable from the first day of the month following the month in which the employee attains that age;
+
+[S 801/2004 wef 01/01/2005]
+
+[S 324/2007 wef 01/07/2007]
 
 (b) the contribution payable by the employer shall be rounded off to the nearest dollar except where the fraction of a dollar is 50 cents, it shall be regarded as a dollar;
 
@@ -2482,97 +4118,95 @@ An amount equal to the sum of —
 
 (4) Civil Aviation Authority of Singapore.
 
-(4A) Civil Service College
+(5) Civil Service College.
 
-[S 550/2001 wef 01/10/2001]
+(6) Commercial and Industrial Security Corporation.
 
-(5) Commercial and Industrial Security Corporation.
+(7) Building and Construction Authority.
 
-(6) Building and Construction Authority.
+(8) Defence Science and Technology Agency.
 
-(7) Defence Science and Technology Agency.
+(9) Economic Development Board.
 
-(8) Economic Development Board.
+(10) Energy Market Authority of Singapore.
 
-(8A) Energy Market Authority of Singapore.
+(11) Health Promotion Board.
 
-(8A8B) Health Promotion Board.
+(12) Health Sciences Authority.
 
-(8C) Health Sciences Authority.
+(13) Housing and Development Board.
 
-(9) Housing and Development Board.
+(14) Info-communications Development Authority of Singapore.
 
-(10) Info-communications Development Authority of Singapore.
+(15) Inland Revenue Authority of Singapore.
 
-(11) Inland Revenue Authority of Singapore.
+(16) Institute of Southeast Asian Studies.
 
-(12) Institute of Southeast Asian Studies.
+(17) Institute of Technical Education, Singapore.
 
-(13) Institute of Technical Education, Singapore.
+(18) Intellectual Property Office of Singapore.
 
-(13A) Intellectual Property Office of Singapore.
+(19) Jurong Town Corporation.
 
-(14) Jurong Town Corporation.
+(20) Majlis Ugama Islam, Singapura.
 
-(15) Majlis Ugama Islam, Singapura.
+(21) Maritime and Port Authority of Singapore.
 
-(16) Maritime and Port Authority of Singapore.
+(22) Land Transport Authority of Singapore.
 
-(17) Land Transport Authority of Singapore.
+(23) Monetary Authority of Singapore.
 
-(18) Monetary Authority of Singapore.
+(24) Nanyang Polytechnic.
 
-(19) Nanyang Polytechnic.
+(25) Nanyang Technological University.
 
-(20) Nanyang Technological University.
+(26) National Arts Council.
 
-(21) National Arts Council.
+(27) National Heritage Board.
 
-(22) National Heritage Board.
+(28) National Library Board.
 
-(23) National Library Board.
+(29) National Parks Board.
 
-(24) National Parks Board.
+(30) National Science and Technology Board.
 
-(25) National Science and Technology Board.
+(31) National University of Singapore.
 
-(26) National University of Singapore.
+(32) Ngee Ann Polytechnic.
 
-(27) Ngee Ann Polytechnic.
+(33) People’s Association.
 
-(28) People’s Association.
+(34) Preservation of Monuments Board.
 
-(29) Preservation of Monuments Board.
+(35) Public Utilities Board.
 
-(30) Public Utilities Board.
+(36) Science Centre Board.
 
-(31) Science Centre Board.
+(37) Sentosa Development Corporation.
 
-(32) Sentosa Development Corporation.
+(38) Singapore Broadcasting Authority.
 
-(33) Singapore Broadcasting Authority.
+(39) Singapore Corporation of Rehabilitative Enterprises.
 
-(34) Singapore Corporation of Rehabilitative Enterprises.
+(40) Singapore Land Authority.
 
-(34A) Singapore Land Authority.
+(41) Singapore Productivity and Standards Board.
 
-(35) Singapore Productivity and Standards Board.
+(42) Singapore Polytechnic.
 
-(36) Singapore Polytechnic.
+(43) Singapore Sports Council.
 
-(37) Singapore Sports Council.
+(44) Singapore Totalisator Board.
 
-(38) Singapore Totalisator Board.
+(45) Singapore Tourism Board.
 
-(39) Singapore Tourism Board.
+(46) Temasek Polytechnic.
 
-(40) Temasek Polytechnic.
+(47) Trade Development Board.
 
-(41) Trade Development Board.
+(48) Urban Redevelopment Authority.
 
-(42) Urban Redevelopment Authority.
-
-[29/95; 1/96; 7/96; 4/99; 41/99; 9/2000; S273/94; S570/95; S645/98]
+[29/95; 1/96; 7/96; 4/99; 41/99; 9/2000; 3/2001; 17/2001; S273/94; S570/95; S645/98; S167/2001; S313/2001; S550/2001]
 
 7. Contributions shall be payable for and recoverable from the wages of such employees who are —
 
@@ -2582,7 +4216,7 @@ An amount equal to the sum of —
 
 (c) pensionable employees who were foreign employees and have become permanent residents at the rates prescribed in paragraphs 3A and 3B of the First Schedule to the Central Provident Fund (Government Employees) Regulations (Rg 23); and
 
-(d) non-pensionable employees who were foreign employees and have become permanent residents at the rates prescribed in paragraphs 3A and 3B of the Second Schedule to the Central Provident Fund (Government Employees) Regulations.
+(d) non-pensionable employees who were foreign employees and have become permanent residents at the rates prescribed in paragraphs 3A and 3B of the Second Schedule to the Central Provident Fund (Government Employees) Regulations (Rg 23).
 
 [S 645/98]
 
@@ -2640,7 +4274,12 @@ THIRD SCHEDULE
 
 Section 13A
 
-Specified Acts Relating to Self-employed Persons
+Specified Acts Relating to
+
+
+
+
+Self-employed Persons
 
 1\. Animals and Birds Act (Cap. 7).
 
@@ -2650,13 +4289,9 @@ Specified Acts Relating to Self-employed Persons
 
 4\. Business Registration Act (Cap. 32).
 
-4A. Civil Service College.
-
-[S 550/2001 wef 01/10/2001]
-
 5\. Child Care Centres Act (Cap. 37A).
 
-6\. Commodity Futures Act (Cap. 48A).
+6\. Commodity Trading Act (Cap. 48A).
 
 7\. Control of Plants Act (Cap. 57A).
 
@@ -2668,9 +4303,11 @@ Specified Acts Relating to Self-employed Persons
 
 11\. Employment Agencies Act (Cap. 92).
 
-12\. Environmental Public Health Act (Cap. 95).
+12. Environmental Pollution Control Act (Cap. 94A).
 
-13\. Environmental Pollution Control Act 1999 (Act 9 of 1999).
+[26/2007 wef 01/01/2008]
+
+13\. Environmental Public Health Act (Cap. 95).
 
 14\. Factories Act (Cap. 104).
 
@@ -2696,17 +4333,17 @@ Specified Acts Relating to Self-employed Persons
 
 25\. Pawnbrokers Act (Cap. 222).
 
-26\. Postal Services Act 1999 (Act 42 of 1999)
+26\. Planning Act (Cap. 232).
 
-27\. Planning Act (Cap. 232).
+27\. Postal Services Act (Cap. 237A).
 
 28\. Price Control Act (Cap. 244).
 
 29\. Private Investigation and Security Agencies Act (Cap. 249).
 
-30\. Public Entertainments Act (Cap. 257).
+30\. Public Entertainments and Meetings Act (Cap. 257).
 
-31\. Public Utilities Act (Cap. 261).
+31\. Public Utilities Act 2001 (Act 8 of 2001).
 
 32\. Road Traffic Act (Cap. 276).
 
@@ -2718,13 +4355,15 @@ Specified Acts Relating to Self-employed Persons
 
 36\. Securities Industry Act (Cap. 289).
 
-37\. Sewerage and Drainage Act 1999 (Act 10 of 1999).
+37\. Sewerage and Drainage Act (Cap. 294).
 
 38\. Singapore Tourism Board Act (Cap. 305B).
 
-39\. Telecommunications Act 1999 (Act 43 of 1999).
+39\. Telecommunications Act (Cap. 323).
 
-40\. Wholesome Meat and Fish Act 1999 (Act 5 of 1999).
+40. Wholesome Meat and Fish Act (Cap. 349A).
+
+[27/92; 7/96; 43/99; 22/2000; S34/93; S520/99; S258/2000; S343/2000]
 
 ## LEGISLATIVE HISTORY
 
@@ -3152,97 +4791,123 @@ This Legislative History is provided for the convenience of users of the Central
 ||Date of commencement|1 June 2001|
 |120.|**G.N. No. S 550/2001—Central Provident Fund Act (Amendment of First Schedule) (No. 3) Notification 2001**|
 ||Date of commencement|1 October 2001|
+|121.|**2001 Revised Edition—Central Provident Fund Act (Chapter 36)**|
+||Date of operation|31 December 2001|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
 
 (CHAPTER 36)
 
-The following provisions in the 1997 Revised Edition of the Central Provident Fund Act have been renumbered by the Law Revision Commissioners in this 1999 Revised Edition.
+The following provisions in the 1999 Revised Edition of the Central Provident Fund Act have been renumbered by the Law Revision Commissioners in this 2001 Revised Edition.
 
 This Comparative Table is provided for the convenience of users. It is not part of the Central Provident Fund Act.
 
+2001 Ed\. 
+
 1999 Ed\. 
 
-1997 Ed\. 
+2 —(1) and (2)
 
-3 —(1)
+2 
 
-3 
+13B 
 
-(2)
+13B —(1)
 
-4 —(11)
+Spent
 
-(3)
+(2) and (3)
 
-(12)
+15 —(6)
 
-(4)
+15B —(4)
 
-(13)
+—
+
+34 (Repealed by Act 39/2000)
+
+—
+
+35 (Repealed by Act 39/2000)
+
+36 —(4)
+
+36 —(3A)
 
 (5)
 
-(14)
+(3B)
 
 (6)
 
-(15)
+(3C)
 
-4A —(1)
+(7)
 
-4 —(16)
+(3D)
 
-(2)
+(8), (9) and (10)
 
-(17)
+(4), (5) and (6)
+
+Omitted
+
+47 —(2)
+
+47 —(2)
 
 (3)
 
-(18)
+49 —(4)
+
+49 —(3A)
+
+(5)
 
 (4)
 
-(19)
+61 
 
-7 —(1) and (1A)
+61 —(1)
 
-7 —(1)
+—
 
-13B —(2) and (3)
+(2) (Deleted by Act 39/2000)
 
-13B —(2)
-
-15 —(1) and (1A)
-
-15 —(1)
-
-(13) and (14)
-
-(13)
-
-(15)
-
-(14)
-
-(16)
-
-(15)
-
-24 —(2) and (2A)
-
-24 —(2)
+61A 
 
 (3)
 
-(2A)
+61B 
 
-(3A)
+61A 
+
+68 —(2)
+
+68 —(1A)
 
 (3)
 
-(4) and (5)
+(1B)
+
+(4)
+
+(2)
+
+70 —(2)
+
+70 —(1A)
+
+(3)
+
+(2)
+
+(4)
+
+(3)
+
+(5)
 
 (4)
 
@@ -3250,55 +4915,35 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 (5)
 
-25 —(2) and (3)
+(7)
 
-25 —(2)
-
-(4)
-
-(3)
-
-(5)
-
-28 
-
-28 
-
-29 
-
-29 
-
-30 
-
-30 
-
-30A 
-
-32 —(3) and (4)
-
-32 —(3)
-
-(5)
-
-(4)
-
-43 —(2) and (3)
-
-43 —(2)
-
-70 —(1) and (1A)
-
-70 —(1)
-
-(8) and (9)
+(6)
 
 (8)
 
-71 —(1) and (2)
+(7)
 
-71 —(1)
+(9)
 
-(3)
+(8)
 
-(2)
+(10)
+
+(9)
+
+74 —(2)
+
+74 —(1A)
+
+(3), (4) and (5)
+
+(2), (3) and (4)
+
+76 —(2)
+
+76 —(1A)
+
+(3) and (4)
+
+(2) and (3)
 
