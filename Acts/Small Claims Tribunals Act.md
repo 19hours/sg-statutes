@@ -200,9 +200,11 @@ ESTABLISHMENT AND JURISDICTION OF TRIBUNALS
 
 [17/95]
 
-(4) A tribunal shall, subject to subsections (1) and (2), have jurisdiction to hear and determine any claim the value of which exceeds the prescribed limit but does not exceed $10,000 or such other sum as the Minister may, after consultation with the Chief Justice, by order published in theGazette, substitute therefor, if the parties to the claim so agree by a memorandum signed by them.
+(4) A tribunal shall, subject to subsections (1) and (2), have jurisdiction to hear and determine any claim the value of which exceeds the prescribed limit but does not exceed $20,000 or such other sum as the Minister may, after consultation with the Chief Justice, by order published in theGazette, substitute therefor, if the parties to the claim so agree by a memorandum signed by them.
 
 [17/95]
+
+[S 321/1997 wef 15/07/1997]
 
 (5) Where a tribunal is of the opinion that a claim lodged with it pursuant to section 15(1) is beyond its jurisdiction, the tribunal shall discontinue the proceedings and advise the claimant and respondent accordingly.
 
@@ -743,3 +745,5 @@ This Legislative History is provided for the convenience of users of the Small C
 ||Date of commencement|26 January 1996|
 |6.|**1996 Revised Edition—Small Claims Tribunals Act**|
 ||Date of operation|27 December 1996|
+|7.|**G. N. No. S 321/1997—Small Claims Tribunals (Jurisdiction) Order 1997**|
+||Date of commencement|15 July 1997|
