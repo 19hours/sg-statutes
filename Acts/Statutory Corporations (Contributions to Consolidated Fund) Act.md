@@ -88,6 +88,10 @@ Civil Aviation Authority of Singapore Act (Chapter 41)
 
 Commercial and Industrial Security Corporation Act (Chapter 47)
 
+3A. Info-communications Development Authority of Singapore
+
+Info-communications Development Authority of Singapore Act 1999.
+
 4. Inland Revenue Authority of Singapore
 
 Inland Revenue Authority of Singapore Act (Chapter 138A)
@@ -108,9 +112,7 @@ Maritime and Port Authority of Singapore Act (Chapter 170A)
 
 Monetary Authority of Singapore Act (Chapter 186)
 
-9. National Computer Board
-
-National Computer Board Act (Chapter 195)
+9.Deleted by Act 41/99, wef 01/12/1999.
 
 10. Post Office Savings Bank of Singapore
 
@@ -132,9 +134,7 @@ Singapore Broadcasting Authority Act (Chapter 297)
 
 Singapore Tourism Board Act (Chapter 305B)
 
-15. Telecommunication Authority of Singapore
-
-Telecommunication Authority of Singapore Act (Chapter 323)
+15.Deleted by Act 41/99, wef 01/12/1999.
 
 16. Trade Development Board
 
@@ -143,6 +143,8 @@ Trade Development Board Act (Chapter 330)
 17. Urban Redevelopment Authority
 
 Urban Redevelopment Authority Act (Chapter 340)
+
+[41/99 wef 01/12/1999]
 
 [Act 7/96; S 414/93; S344/95; S405/96; S 470/97; S 518/97; S366/98]
 
@@ -188,3 +190,9 @@ This Legislative History is provided for the convenience of users of the Statuto
 ||Date of commencement|3 July 1998|
 |11.|**1998 Revised Edition—Statutory Corporations (Contributions to Consolidated Fund) Act**|
 ||Date of operation|15 December 1998|
+|12.|**Act 41 of 1999—Info-communications Development Authority of Singapore Act 1999**|
+||(Consequential amendments made by)||
+||Date of First Reading|11 October 1999|
+|||(Bill No. 36/1999 published on 12 October 1999)|
+||Date of Second and Third Readings|23 November 1999|
+||Date of commencement|1 December 1999|
