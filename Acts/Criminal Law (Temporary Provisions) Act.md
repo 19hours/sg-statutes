@@ -702,9 +702,7 @@ Essential Services
 
 21\. Services provided by the Air Traffic Controllers and the Operations and Licensing Assistants of the Civil Aviation Authority of Singapore.
 
-22\. Services relating to dealings in securities, trading in futures contracts and leveraged foreign exchange trading provided by the holder of a capital markets services licence under the Securities and Futures Act 2001.
-
-22.
+22. Services relating to dealings in securities, trading in futures contracts and leveraged foreign exchange trading provided by the holder of a capital markets services licence under the Securities and Futures Act 2001.
 
 [42/2001 wef 01/10/2002]
 
@@ -744,7 +742,9 @@ Essential Services
 
 (c) the CISCO Security Technology Pte. Ltd.;
 
-(d) the Customs and Excise Department;
+(d) Singapore Customs;
+
+[4/2003 wef 01/04/2003]
 
 (e) the Imports and Exports Office of the Trade Development Board;
 
@@ -984,6 +984,13 @@ This Legislative History is provided for the convenience of users of the Crimina
 ||Date of Second and Third Readings|16 March 2001|
 ||Date of commencement|1 January 2003|
 |||(section 105(1) — Consequential amendments to other written law)|
+|45.|**Act 4 of 2003—Customs (Amendment) Act 2003**|
+||(Consequential amendments made by)||
+||Date of First Reading|10 March 2003|
+|||(Bill No. 6/2003 published on 11 March 2003)|
+||Date of Second and Third Readings|21 March 2003|
+||Date of commencement|1 April 2003|
+|||(item (7) in the Schedule)|
 ## COMPARATIVE TABLE
 
 Criminal Law (Temporary Provisions) Act
