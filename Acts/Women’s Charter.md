@@ -3146,7 +3146,7 @@ This Legislative History is provided for the convenience of users of the Women�
 ||Date of First Reading|7 March 1973|
 |||(Bill No. 16/73 published on 9 March 1973)|
 ||Date of Second and Third Readings|20 March 1973|
-||Date of commencement|24 August 1973|
+||Date of commencement|6 April 1973|
 |7.|**Act 8 of 1975—Women’s Charter (Amendment) Act 1975**|
 ||Date of First Reading|25 February 1975|
 |||(Bill No. 10/75 published on 28 February 1975)|
@@ -3176,3 +3176,11 @@ This Legislative History is provided for the convenience of users of the Women�
 |||(Bill No. 2/94 published on 18 January 1994)|
 ||Date of Second and Third Readings|23 February 1994|
 ||Date of commencement|8 April 1994|
+|13.|**Act 30 of 1996—Women’s Charter (Amendment) Act 1996**|
+||Date of First Reading|18 January 1996|
+|||(Bill No. 5/96 published on 19 January 1996)|
+||Date of Second Reading|2 May 1996|
+||Date Committed to Select Committee|2 May 1996|
+||Date of Presentation of Select Committee Report|15 August 1996 (Parl 3 of 1996)|
+||Date of Third Reading|27 August 1996|
+||Date of commencement|1 May 1997|
