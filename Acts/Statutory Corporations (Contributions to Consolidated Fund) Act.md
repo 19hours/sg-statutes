@@ -1,12 +1,10 @@
-**Statutory Corporations (Contributions to Consolidated Fund) Act 1989**
+**Statutory Corporations (Contributions to Consolidated Fund) Act**
 
-**(No. 22 of 1989)**
+**(CHAPTER 319A)**
 
 **Table of Contents**
 
 [**Long Title**](#Statutory-Corporations-Contributions-to-Consolidated-Fund-Act)
-
-[**Enacting Formula**](#Enacting-Formula)
 
 - [1 Short title](#Short-title)
 
@@ -18,43 +16,25 @@
 
 [**THE SCHEDULE**](#THE-SCHEDULE)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Statutory Corporations (Contributions to Consolidated Fund) Act
 
-ACTS SUPPLEMENT
+(CHAPTER 319A)
 
-Published by Authority
+(Original Enactment: Act 22 of 1989)
 
-NO. 21]
+REVISED EDITION 1990
 
-Friday, April 21
-
-[1989
-
-The following Act was passed by Parliament on 7th April 1989 and assented to by the President on 13th April 1989:—
-
-Statutory Corporations (Contributions To Consolidated Fund) Act 1989
-
-(No. 22 of 1989)
-
-I assent.
-
-WEE KIM WEE
-
-President.
-
-13th April 1989.
-
-Date of Commencement: 21st April 1989
+(15th March 1990)
 
 An Act to provide for the payment into the Consolidated Fund of moneys from the funds of certain statutory corporations.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[21st April 1989]
 
 ### Short title
 
-1\. This Act may be cited as the Statutory Corporations (Contributions to Consolidated Fund) Act 1989.
+1\. This Act may be cited as the Statutory Corporations (Contributions to Consolidated Fund) Act.
 
 ### Interpretation
 
@@ -80,7 +60,7 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 (b) the whole or part of the amount in the funds of that statutory corporation which in the opinion of the Minister is not required for performing its functions and duties.
 
-(2) Any notice issued by or under the direction of the Minister before the commencement of this Act to any specified statutory corporation requiring it to make any payment into the Consolidated Fund shall be deemed to be a notice issued under the provisions of this Act.
+(2) Any notice issued by or under the direction of the Minister before 21st April 1989 to any specified statutory corporation requiring it to make any payment into the Consolidated Fund shall be deemed to be a notice issued under the provisions of this Act.
 
 ### Amendment of Schedule
 
@@ -88,55 +68,96 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 ## THE SCHEDULE
 
-Statutory Corporation.
+Statutory corporation
 
-Act under which established or constituted.
+Act under which established or constituted
 
-1. Civil Aviation Authority of Singapore
+1.
 
-Civil Aviation Authority of Singapore Act (Chapter 41)
+Civil Aviation Authority of Singapore
 
-2. Commercial and Industrial Security Corporation
+Civil Aviation Authority of Singapore Act (Chapter 41).
 
-Commercial and Industrial Security Corporation Act (Chapter 47)
+2.
 
-3. Jurong Town Corporation
+Commercial and Industrial Security Corporation
 
-Jurong Town Corporation Act (Chapter 150)
+Commercial and Industrial Security Corporation Act (Chapter 47).
 
-4. National Maritime Board
+3.
 
-National Maritime Board Act (Chapter 198)
+Jurong Town Corporation
 
-5. Port of Singapore Authority
+Jurong Town Corporation Act (Chapter 150).
 
-Port of Singapore Authority Act (Chapter 236)
+4.
 
-6. Post Office Savings Bank of Singapore
+National Maritime Board
 
-Post Office Savings Bank of Singapore Act (Chapter 237)
+National Maritime Board Act (Chapter 198).
 
-7. Public Utilities Board
+5.
 
-Public Utilities Act (Chapter 261)
+Port of Singapore Authority
 
-8. Singapore Broadcasting Corporation
+Port of Singapore Authority Act (Chapter 236).
 
-Singapore Broadcasting Corporation Act (Chapter 297)
+6.
 
-9. Telecommunication Authority of Singapore
+Post Office Savings Bank of Singapore
 
-Telecommunication Authority of Singapore Act (Chapter 323)
+Post Office Savings Bank of Singapore Act (Chapter 237).
 
-10. Singapore Tourist Promotion Board
+7.
 
-Tourist Promotion Board Act (Chapter 328)
+Public Utilities Board
 
-11. Trade Development Board
+Public Utilities Act (Chapter 261).
 
-Trade Development Board Act (Chapter 330)
+8.
 
-12. Urban Redevelopment Authority
+Singapore Broadcasting Corporation
 
-Urban Redevelopment Authority Act (Chapter 340)
+Singapore Broadcasting Corporation Act (Chapter 297).
 
+9.
+
+Telecommunication Authority of Singapore
+
+Telecommunication Authority of Singapore Act (Chapter 323).
+
+10.
+
+Singapore Tourist Promotion Board
+
+Tourist Promotion Board Act (Chapter 328).
+
+11.
+
+Trade Development Board
+
+Trade Development Board Act (Chapter 330).
+
+12.
+
+Urban Redevelopment Authority
+
+Urban Redevelopment Authority Act (Chapter 340).
+
+## LEGISLATIVE HISTORY
+
+Statutory Corporations (Contributions to Consolidated Fund) Act
+
+(CHAPTER 319A)
+
+This Legislative History is provided for the convenience of users of the Statutory Corporations (Contributions to Consolidated Fund) Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 22 of 1989—Statutory Corporations (Contributions to Consolidated Fund) Act 1989**|
+||Date of First Reading|3 March 1989|
+|||(Bill No. 19/1989 published on 7 March 1989|
+||Date of Second and Third Readings|7 April 1989|
+||Date of commencement|21 April 1989|
+|2.|**1990 Revised Edition—Statutory Corporations (Contributions to Consolidated Fund) Act**|
+||Date of operation|15 March 1990|
