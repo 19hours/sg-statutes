@@ -1,14 +1,12 @@
-**Homes for the Aged Act 1988**
+**Homes for the Aged Act**
 
-**(No. 15 of 1988)**
+**(CHAPTER 126A)**
 
 **Table of Contents**
 
 [**Long Title**](#Homes-for-the-Aged-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -48,43 +46,25 @@
 
 - [20 Regulations](#Regulations)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Homes for the Aged Act
 
-ACTS SUPPLEMENT
+(CHAPTER 126A)
 
-Published by Authority
+(Original Enactment: Act 15 of 1988)
 
-NO. 21]
+REVISED EDITION 1989
 
-Friday, August 26
-
-[1988
-
-The following Act was passed by Parliament on 29th July 1988 and assented to by the President on 16th August 1988:—
-
-Homes For The Aged Act 1988
-
-(No. 15 of 1988)
-
-I assent.
-
-WEE KIM WEE
-
-President.
-
-16th August 1988.
-
-Date of Commencement: 1st February 1989
+(15th March 1989)
 
 An Act to provide for the control, licensing and inspection of homes for the aged and for purposes connected therewith.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st February 1989]
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Homes for the Aged Act 1988 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Homes for the Aged Act.
 
 ### Interpretation
 
@@ -112,7 +92,7 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 3\.—(1) The homes to which this Act applies are homes for the aged.
 
-(2) Notwithstanding anything contained in this Act, the Director may, upon the application of a person carrying on a home for the aged, approve for admission into the home any person whose age is between 50 and 60 years.
+(2) Notwithstanding anything in this Act, the Director may, upon the application of a person carrying on a home for the aged, approve for admission into the home any person whose age is between 50 and 60 years.
 
 ### Licensing of homes
 
@@ -176,7 +156,7 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 8\.—(1) On the issue of a licence, the licensee shall pay to the Director a fee of such amount as may be prescribed.
 
-(2) A licence shall continue in force for a period of two years from the date of its issue, unless it has been previously revoked but may be renewed by the grant of a new licence.
+(2) A licence shall continue in force for a period of two years from the date of its issue, unless it has been previously revoked but may be renewed by the issue of a new licence.
 
 ### Display of licence
 
@@ -218,7 +198,7 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 15\.—(1) Where in the opinion of the Director the use of any apparatus, appliance, equipment or instrument in a home is dangerous or detrimental to any person therein or is otherwise unsuitable for the purpose for which it is used, the Director may by notice direct the licensee to stop using it.
 
-(2) The Director may by notice direct the licensee of a home to install or replace such apparatus, appliance, equipment or instrument therein, as may be specified in the notice.
+(2) The Director may by notice direct the licensee of a home to install or replace such apparatus, appliance, equipment or instrument therein as may be specified in the notice.
 
 ### Duty to furnish information
 
@@ -274,7 +254,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (f) the facilities and services to be provided in a home;
 
-(g) empowering the Director to limit the number of persons of any description who may be received into any home for the aged and for enabling licensing of any such home to be made subject to the condition that persons shall not e received in the home in excess of the number fixed for the home in accordance with the regulations;
+(g) empowering the Director to limit the number of persons of any description who may be received into any home for the aged and for enabling licensing of any such home to be made subject to the condition that persons shall not be received in the home in excess of the number fixed for the home in accordance with the regulations;
 
 (h) the minimum standards of accommodation, sanitation and other amenities in a home;
 
@@ -288,7 +268,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (m) the general conduct of a home.
 
-(3) Any regulation made under this section may —
+(3) Regulations made under this section may —
 
 (a) prohibit the performance of specified acts without the consent of the Director;
 
@@ -296,5 +276,22 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (c) require specified acts to be performed to the satisfaction of the Director.
 
-(4) The Director may, by notice in writing to the licensee of a home, waive wholly, partly or conditionally the requirements of any regulation in respect of that home and may amend or withdraw such notice.
+(4) The Director may, by notice in writing to the licensee of a home, waive wholly, partly or conditionally the requirements of any regulations in respect of that home and may amend or withdraw the notice.
 
+## LEGISLATIVE HISTORY
+
+Homes for the Aged Act
+
+(CHAPTER 126A)
+
+This Legislative History is provided for the convenience of users of the Homes for the Aged Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 15 of 1988—Homes for the Aged Act 1988**|
+||Date of First Reading|28 June 1988|
+|||(Bill No. 11/88 published on 30 June 1988)|
+||Date of Second and Third Readings|29 July 1988|
+||Date of commencement|1 February 1989|
+|2.|**1989 Revised Edition—Homes for the Aged Act (Chapter 126A)**|
+||Date of operation|15 March 1989|
