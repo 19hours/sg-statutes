@@ -15147,3 +15147,8 @@ This Legislative History is provided for the convenience of users of the Compani
 ||Date of Presentation of Select Committee Report|7 March 1995 (Parl. 1 of 1995)|
 ||Date of Third Reading|23 March 1995|
 ||Date of commencement|15 July 1995|
+|41.|**Act 22 of 1995—Companies (Amendment) Act 1995**|
+||Date of First Reading|25 May 1995|
+|||(Bill No. 17/95 published on 26 May 1995)|
+||Date of Second and Third Readings|7 July 1995|
+||Date of commencement|4 August 1995|
