@@ -497,6 +497,10 @@ Chinese Calligraphy Society of Singapore
 
 Singapore Weiqi Association
 
+66D. 
+
+Perinatal Society of Singapore
+
 67. 
 
 Singapore Scout Association
@@ -588,6 +592,8 @@ Young Women Muslim Association (Persatuan Pemudi Islam Singapura)
 
 [S 211/1991 wef 24/04/1991]
 
+[S 365/1991 wef 16/08/1991]
+
 SECOND SCHEDULE
 
 Section 15(1).
@@ -655,3 +661,5 @@ This Legislative History is provided for the convenience of users of the People�
 ||Date of commencement|23 February 1990|
 |21.|**G.N. No. S 211/91—People’s Association Act (Amendment of First Schedule) Notification 1991**|
 ||Date of commencement|24 April 1991|
+|22.|**G.N. No. S 365/91—People’s Association Act (Amendment of First Schedule) (No. 2) Notification 1991**|
+||Date of commencement|16 August 1991|
