@@ -76,13 +76,13 @@
 
 (Original Enactment: Act 13 of 1966)
 
-REVISED EDITION 1985
+REVISED EDITION 1992
 
-(30th March 1987)
+(9th March 1992)
 
 An Act to provide for the control and management of the public finances of Singapore, and for financial and accounting procedure, including procedure for the collection, custody and payment of the public moneys of Singapore, and the purchase, custody and disposal of public property of Singapore and for matters connected therewith.
 
-[Act 25/91 wef 30/11/1991]
+[25/91]
 
 [9th August 1965]
 
@@ -102,8 +102,6 @@ PRELIMINARY
 
 “Consolidated Fund” means the Consolidated Fund constituted by Article 145 of the Constitution;
 
-[Act 25/91 wef 30/11/1991]
-
 “financial year” means a period of 12 months ending on 31st March in any year;
 
 “public moneys” means all revenue, loan, trust and other moneys and all bonds, debentures, and other securities whatsoever raised or received by or on account of Singapore;
@@ -112,9 +110,9 @@ PRELIMINARY
 
 “statutory expenditure” has the same meaning as in Article 148(4) of the Constitution;
 
-[Act 25/91 wef 30/11/1991]
-
 “Treasury” means the Minister charged with the responsibility for finance and includes any officer under the administrative control or direction of the Minister.
+
+[25/91]
 
 ## PART IA
 
@@ -124,9 +122,9 @@ ACCOUNTANT-GENERAL
 
 2A\.—(1) The President may appoint an Accountant-General in accordance with the advice of the Public Service Commission unless the President, acting in his discretion, does not concur with that advice.
 
-(2) The renumeration and other terms of service of the Accountant-General shall not be altered to his disadvantage during his continuance in office.
+(2) The remuneration and other terms of service of the Accountant-General shall not be altered to his disadvantage during his continuance in office.
 
-[Act 25/91 wef 30/11/1991]
+[25/91]
 
 ### Duties of Accountant-General
 
@@ -134,7 +132,7 @@ ACCOUNTANT-GENERAL
 
 (2) The Accountant-General shall perform such other duties and exercise such other powers in relation to the accounts of the Government as may be prescribed by or under any written law.
 
-[Act 25/91 wef 30/11/1991]
+[25/91]
 
 ## PART II
 
@@ -143,6 +141,8 @@ ACCOUNTING OFFICERS
 ### Duties of accounting officers
 
 3\. Every accounting officer shall be subject to the provisions of this Act and any regulations made thereunder and shall perform such duties, keep such records and render such accounts as may be prescribed by or under this Act or by instructions issued by the Treasury in matters of financial and accounting procedure not inconsistent therewith.
+
+[25/91]
 
 ### Bank accounts
 
@@ -181,11 +181,7 @@ OF SINGAPORE
 
 (b) in any of the stocks, funds or securities authorised by law for the investment of trust funds;
 
-[Act 25/91 wef 30/11/1991]
-
 (c) in gold and other bullion;
-
-[Act 25/91 wef 30/11/1991]
 
 (d) in securities of, or guaranteed by, any government or international financial institution as may be determined by the President;
 
@@ -203,19 +199,15 @@ and such investments together with the interest and any other income received th
 
 as the case may be.
 
-[Act 25/91 wef 30/11/1991]
-
 (3A) Moneys referred to in subsection (3) shall not be invested by the Minister in any stock, bond, fund or security issued by the Government of Singapore.
 
 (4) Interest and any other income received from the investment of any moneys in accordance with subsection (3) shall be accounted in the Consolidated Revenue Account, except that where it is so provided in any law or under the terms of any trust, or the Minister so directs, the interest and any other income received from the investment of any moneys standing to the credit of any trust account shall be paid to the credit of such trust account.
 
-[Act 25/91 wef 30/11/1991]
+[25/91]
 
 ### Deposit accounts
 
 8\.—(1) The Minister shall establish such deposit accounts as may be necessary for the proper accounting of moneys received subject to a trust or for the proper accounting of moneys received not being revenues of Singapore.
-
-[Act 25/91 wef 30/11/1991]
 
 (2) The following moneys shall be paid to the credit of the deposit account to which they relate:
 
@@ -231,11 +223,13 @@ as the case may be.
 
 (5) Subject to the provisions of any law and the terms of any trust, the Minister may direct that any moneys standing to the credit of any deposit account which are not required for the purposes of that account and the balance of moneys standing to the credit of a deposit account closed under subsection (4) shall be paid into the Consolidated Revenue Account.
 
+[25/91]
+
 ### Advance accounts
 
 9\. The Minister shall establish such advance accounts as may be necessary for the proper accounting of moneys approved for the purpose of making advances by a Supply or Supplementary Supply law.
 
-[Act 25/91 wef 30/11/1991]
+[25/91]
 
 ### Government funds
 
@@ -243,11 +237,7 @@ as the case may be.
 
 (a) such sums as may from time to time be appropriated by any written law for the purposes of any such fund, either out of the Consolidated Revenue Account or out of the Consolidated Loan Account, as the case may be;
 
-[Act 25/91 wef 30/11/1991]
-
 (b) revenues of Singapore allocated by any written law thereto;
-
-[Act 25/91 wef 30/11/1991]
 
 (c) all repayments of loans made out of any such fund and all interest thereon;
 
@@ -255,13 +245,15 @@ as the case may be.
 
 (e) all moneys paid by any person for the purpose of any such fund.
 
+[25/91]
+
 ### Contingencies Fund
 
 11\.—(1) A Contingencies Fund is hereby created consisting of moneys from time to time appropriated thereto from the Consolidated Fund.
 
 (2) The Minister may, if he is satisfied that there has arisen an urgent and unforeseen need for expenditure for which no other provision exists and for which funds cannot be provided under section 17(4) and if the President, acting in his discretion, concurs with the making of an advance for such need, make advances from the Contingencies Fund to meet that need.
 
-[Act 25/91 wef 30/11/1991]
+[25/91]
 
 ### Payment of moneys from Consolidated Fund
 
@@ -279,13 +271,9 @@ Provided that this subsection shall not apply to sums issued from the Consolidat
 
 (i) appropriated by a Supply or Supplementary Supply law or any other law or approved by resolution of Parliament in accordance with Article 148A(2) of the Constitution; or
 
-[Act 25/91 wef 30/11/1991]
-
 (ii) approved by resolution of Parliament in accordance with Article 148B(1) of the Constitution with which the President concurs:
 
 Provided that the aggregate of such sums under each head of expenditure shall not exceed the total sum so approved.
-
-[Act 25/91 wef 30/11/1991]
 
 (b) The Minister may by warrant under his hand authorise the issue from the Consolidated Fund of sums to meet —
 
@@ -293,11 +281,11 @@ Provided that the aggregate of such sums under each head of expenditure shall no
 
 (ii) expenditure approved by the Cabinet in accordance with Article 148B(4) of the Constitution.
 
-[Act 25/91 wef 30/11/1991]
-
 (c) Notwithstanding any general or specific authority which may have been given by him, it shall be within the discretion of the Minister to limit or suspend any expenditure so authorised.
 
 (4) The Minister may by warrant under his hand authorise the issue from the Consolidated Fund of sums to be applied for the purposes for which funds shall have been appropriated by or in accordance with the provisions of any written law authorising the raising of a loan and such sums shall be accounted in the Consolidated Loan Account.
+
+[25/91]
 
 ### Payment of moneys from Government funds
 
@@ -313,7 +301,7 @@ Provided that the aggregate of such sums under each head of expenditure shall no
 
 (2) No loan raised by the Government shall be binding upon Singapore unless it is raised in accordance with Article 144 of the Constitution.
 
-[Act 25/91 wef 30/11/1991]
+[25/91]
 
 ### Refunds, etc., charged on Consolidated Fund
 
@@ -323,15 +311,17 @@ Provided that the aggregate of such sums under each head of expenditure shall no
 
 17\.—(1) The estimates of expenditure laid before Parliament in accordance with Article 147(1) of the Constitution in respect of any financial year shall show subheads under each head of expenditure.
 
-[Act 25/91 wef 30/11/1991]
-
-[53/73; 20/76]
-
 (2) There shall be laid before Parliament a list showing under each head of expenditure the political appointments and the number and categories of personnel whose salaries are to be met from the allocations of funds for political appointments and permanent staff respectively.
 
 (3) No addition or alteration to the list referred to in subsection (2) shall be made unless authorised by the Minister by the issue of a warrant under his hand.
 
 (4) If the exigencies of the public service render it necessary to alter the proportions assigned to the subheads under a head of expenditure shown in the estimates referred to in subsection (1) or to create a new subhead, the Minister may by warrant under his hand authorise the transfer of a further sum out of any surplus arising on any other subhead of the same head, in aid of any subhead which may be deficient, or any new subhead which may be deficient, or any new subhead.
+
+[53/73]
+
+[20/76]
+
+[25/91]
 
 ### Yearly statement of accounts
 
@@ -339,11 +329,7 @@ Provided that the aggregate of such sums under each head of expenditure shall no
 
 (a) a full and particular account of the Consolidated Revenue Account stating under the heads and subheads of the estimates or supplementary estimates laid before Parliament in accordance with Article 146, 147, 148, 148B or 148C of the Constitution in respect of that year the amounts estimated to be received and spent in that year and the amounts actually received and spent in that year;
 
-[Act 25/91 wef 30/11/1991]
-
 (b) a full and particular statement of receipts and expenditure of moneys accounted for in the Consolidated Loan Account;
-
-[Act 25/91 wef 30/11/1991]
 
 (c) a statement of receipts and expenditure of moneys accounted in any deposit account or class of deposit accounts;
 
@@ -351,19 +337,17 @@ Provided that the aggregate of such sums under each head of expenditure shall no
 
 (e) a statement of receipts and expenditure of moneys accounted in any Government fund created by any law;
 
-(f) so far as is practicable, a statement of the assets and liabilities of Singapore at the end of the financial year, the manner in which those assets are invested or held, and the general heads in respect of which those liabilities are outstanding;
-
-[Act 25/91 wef 30/11/1991]
+(f) so far as is practicable, a statement of the assets and liabilities of Singapore at the end of the financial year, the manner in which those assets are invested or held, and the general heads in respect of which those liabilities are outstanding; and
 
 (g) so far as is practicable, a statement of outstanding guarantees and other financial liabilities of Singapore at the end of the financial year; and
 
-[Act 25/91 wef 30/11/1991]
+[25/91]
 
 (h) such other statements as the Minister may think fit,
 
 and, after the accounts and statements referred to in this section have been audited, present to the President those audited accounts and statements together with another statement stating whether the audited accounts and statements referred to in this section show any drawing on or likelihood of drawing on the reserves of the Government which were not accumulated by the Government during its current term of office as defined in the Constitution.
 
-[Act 25/91 wef 30/11/1991]
+[25/91]
 
 ### Write-off
 
@@ -405,17 +389,13 @@ REGULATIONS
 
 ### Regulations
 
-24\.—(1) The Minister may make regulations, to be called Financial Regulations, not inconsistent with the provisions of this Act, for carrying out the provisions of this Act, and without prejudice to the generality of this provision such regulations may provide for —
+24\.—(1) The Minister may make regulations, to be called Financial Regulations, not inconsistent with the provisions of this Act, for carrying out the provisions of this Act and, in particular, such regulations may provide for —
 
 (a) the collection, receipt, custody, issue, expenditure, due accounting for, care and management of all public moneys and the guidance of all persons concerned therein;
 
 (b) the more effectual record, examination, inspection and departmental check of all receipts and expenditure and the keeping of all necessary records and accounts;
 
-[Act 25/91 wef 30/11/1991]
-
 (c) the forms for all records and documents whatever required under the provisions of this Act or the regulations made thereunder;
-
-[Act 25/91 wef 30/11/1991]
 
 (d) the purchase, safe custody, issue, sale or other disposal or writing-off of public stores and other property of Singapore, and the proper accounting for, and stocktaking of, such stores and property;
 
@@ -425,7 +405,9 @@ REGULATIONS
 
 (g) the making of advances to public officers and other persons and the rates and limits of such advances and the rates of interest thereon.
 
-(2) All such regulations shall be published in theGazetteand shall be presented to Parliament as soon as possible after publication.
+(2) All such regulations shall be presented to Parliament as soon as possible after publication in theGazette.
+
+[25/91]
 
 ## LEGISLATIVE HISTORY
 
@@ -481,3 +463,5 @@ This Legislative History is provided for the convenience of users of the Financi
 |||(Bill No. 19/1991)|
 ||Date of Second and Third Readings|28 June 1991|
 ||Date of commencement|30 November 1991|
+|11.|**1992 Revised Edition—Financial Procedure Act**|
+||Date of operation|9 March 1992|
