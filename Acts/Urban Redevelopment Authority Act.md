@@ -1,16 +1,14 @@
-**Urban Redevelopment Authority Act 1989**
+**Urban Redevelopment Authority Act**
 
-**(No. 32 of 1989)**
+**(CHAPTER 340)**
 
 **Table of Contents**
 
 [**Long Title**](#Urban-Redevelopment-Authority-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -78,11 +76,11 @@
 
 [**Part VI TRANSFER OF ASSETS, LIABILITIES, FUNCTIONS AND EMPLOYEES**](#Part-VI)
 
-- [30 Dissolution of Planning Department and former Authority, etc](#Dissolution-of-Planning-Department-and-former-Authority-etc)
+- [30 Dissolution of Planning Department and former Authority, etc.](#Dissolution-of-Planning-Department-and-former-Authority-etc)
 
 - [31 Transfer of assets and liabilities](#Transfer-of-assets-and-liabilities)
 
-- [32 Existing agreements, etc](#Existing-agreements-etc)
+- [32 Existing agreements, etc.](#Existing-agreements-etc)
 
 - [33 Pending legal proceedings](#Pending-legal-proceedings)
 
@@ -128,9 +126,7 @@
 
 - [52 Exemption](#Exemption)
 
-- [53 Repeal](#Repeal)
-
-- [54 Transitional and savings provisions](#Transitional-and-savings-provisions)
+- [53 Transitional and savings provisions](#Transitional-and-savings-provisions)
 
 [**FIRST SCHEDULE Constitution and Proceedings of the Authority**](#FIRST-SCHEDULE-Constitution-and-Proceedings-of-the-Authority)
 
@@ -140,53 +136,33 @@
 
 [**FOURTH SCHEDULE Transitional and Savings Provisions**](#FOURTH-SCHEDULE-Transitional-and-Savings-Provisions)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Urban Redevelopment Authority Act
 
-ACTS SUPPLEMENT
+(CHAPTER 340)
 
-Published by Authority
+(Original Enactment: Act 32 of 1989)
 
-NO. 32]
+REVISED EDITION 1990
 
-Friday, August 25
-
-[1989
-
-The following Act was passed by Parliament on 4th August 1989 and assented to by the President on 19th August 1989:—
-
-Urban Redevelopment Authority Act 1989
-
-(No. 32 of 1989)
-
-I assent.
-
-WEE KIM WEE
-
-President.
-
-19th August 1989.
-
-Date of Commencement: 1st September 1989
+(15th March 1990)
 
 An Act to give effect to the merger of the existing Urban Redevelopment Authority established under the Urban Redevelopment Authority Act (Chapter 340 of the 1985 Revised Edition) and the Planning Department and the Research and Statistics Unit of the Ministry of National Development by the establishment and incorporation of the new Urban Redevelopment Authority and to provide for matters connected therewith.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st September 1989]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Urban Redevelopment Authority Act 1989 and shall come into operation on such date as the Minister may; by notification in theGazette, appoint.
+1\. This Act may be cited as the Urban Redevelopment Authority Act.
 
 ### Interpretation
 
 2\. In this Act, unless the context otherwise requires —
-
-“appointed day” means the date of commencement of this Act;
 
 “Authority” means the Urban Redevelopment Authority established under section 3;
 
@@ -196,7 +172,7 @@ PRELIMINARY
 
 “chief executive” means the chief executive of the Authority appointed under section 18 and includes any temporary chief executive of the Authority;
 
-“develop” has the same meaning as in section 10 of the Planning Act [Cap. 232];
+“develop” has the same meaning as in section 12 of the Planning Act [Cap. 232, 1990 Ed.];
 
 “developed land” means land of the Authority upon which a building has been erected;
 
@@ -208,15 +184,15 @@ PRELIMINARY
 
 “member” means a member of the Authority;
 
-“monument” has the same meaning as in the Preservation of Monuments Act [Cap. 239];
+“monument” has the same meaning as in the Preservation of Monuments Act;
 
-“Municipal Provident Fund” means the Municipal Provident Fund established by the City Council under the provisions of the repealed Municipal Ordinance [1936 Ed., Cap. 133.] and continued and deemed to have been established under section 11 of the Local Government Integration Act [Cap. 166];
+“Municipal Provident Fund” means the Municipal Provident Fund established by the City Council under the provisions of the repealed Municipal Ordinance [1936 Ed.] and continued and deemed to have been established under section 11 of the Local Government Integration Act;
 
 “Planning Department” means the Planning Department of the Ministry of National Development;
 
 “property” includes houses, buildings, lands and tenements;
 
-“repealed Act” means the Urban Redevelopment Authority Act repealed by this Act [Cap. 340];
+“repealed Act” means the Urban Redevelopment Authority Act [Cap. 340, 1985 Ed.] repealed by this Act;
 
 “Research and Statistics Unit” means the Research and Statistics Unit of the Ministry of National Development;
 
@@ -252,7 +228,7 @@ ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF AUTHORITY
 
 (3) The Authority may by resolution or otherwise in writing appoint an officer of the Authority or any other agent either generally or in a particular case to execute or sign on behalf of the Authority an agreement or other instrument not under seal in relation to any matter coming within the powers of the Authority.
 
-(4) Section 12 of the Registration of Deeds Act [Cap. 269] shall not apply to an instrument purporting to have been executed under subsection (2).
+(4) Section 12 of the Registration of Deeds Act [Cap. 269, 1989 Ed.] shall not apply to an instrument purporting to have been executed under subsection (2).
 
 ## PART III
 
@@ -288,7 +264,7 @@ FUNCTIONS, DUTIES AND POWERS OF AUTHORITY
 
 (h) to secure and promote publicity in any form in Singapore or elsewhere of the functions and activities of the Authority;
 
-(i) to collect, compile and analyse information of a statistical nature relating to building, construction, land use, recreation or such other subjectmatter necessary for the performance of the functions and duties imposed upon the Authority by or under this Act or any other written law, and to publish and disseminate the results of any such compilation and analysis or abstracts of those results;
+(i) to collect, compile and analyse information of a statistical nature relating to building, construction, land use, recreation or such other subject-matter necessary for the performance of the functions and duties imposed upon the Authority by or under this Act or any other written law, and to publish and disseminate the results of any such compilation and analysis or abstracts of those results;
 
 (j) to provide advisory and information services;
 
@@ -390,7 +366,7 @@ FUNCTIONS, DUTIES AND POWERS OF AUTHORITY
 
 (c) the prevention of trespass upon or on any of those lands and buildings and the removal of trespassers or other persons causing annoyance or inconvenience upon or in those lands and buildings.
 
-(3) The Authority may, in making any regulations under this section, provide that a contravention of or failure to comply with the regulations shall be an offence and may prescribe as a penalty in respect of such offence a fine not exceeding the sum of $2,000 or imprisonment for a term not exceeding 3 months or both and, in the case of a continuing offence, a fine not exceeding $500 for every day or part thereof during which such offence continues after conviction.
+(3) The Authority may, in making any regulations under this section, provide that a contravention of or failure to comply with the regulations shall be an offence and may prescribe as a penalty in respect of such offence a fine not exceeding the sum of $2,000 or imprisonment for a term not exceeding 3 months or both and, in the case of a continuing offence, a further fine not exceeding $500 for every day or part thereof during which such offence continues after conviction.
 
 (4) All regulations made under this section shall be presented to Parliament as soon as possible after publication in theGazette.
 
@@ -410,7 +386,7 @@ PROVISIONS RELATING TO STAFF
 
 (c) not be removed from office without the consent of the Minister.
 
-(2) If the chief executive is temporarily absent from Singapore or temporarily incapacitated by illness or for any other reason temporarily unable to perform his duties, another person may be appointed by the Authority with the approval of the Minister to act in the place of the chief executive during such period of absence from duty.
+(3) If the chief executive is temporarily absent from Singapore or temporarily incapacitated by illness or for any other reason temporarily unable to perform his duties, another person may be appointed by the Authority with the approval of the Minister to act in the place of the chief executive during such period of absence from duty.
 
 ### Appointment of staff
 
@@ -490,39 +466,39 @@ FINANCIAL PROVISIONS
 
 TRANSFER OF ASSETS, LIABILITIES, FUNCTIONS AND EMPLOYEES
 
-### Dissolution of Planning Department and former Authority, etc
+### Dissolution of Planning Department and former Authority, etc.
 
-30\. As from the appointed day, the Planning Department, the Research and Statistics Unit and the former Authority shall cease to exist.
+30\. As from 1st September 1989, the Planning Department, the Research and Statistics Unit and the former Authority shall cease to exist.
 
 ### Transfer of assets and liabilities
 
-31\.—(1) Subject to subsection (2), as from the appointed day —
+31\.—(1) Subject to subsection (2), as from 1st September 1989 —
 
-(a) all movable property vested in the Government immediately before the appointed day for the purposes of the Planning Department and the Research and Statistics Unit, and all assets, rights or interests vested in, and all outstanding debts, liabilities and obligations incurred by, the Government in connection therewith; and
+(a) all movable property vested in the Government immediately before that date for the purposes of the Planning Department and the Research and Statistics Unit, and all assets, rights or interests vested in, and all outstanding debts, liabilities and obligations incurred by, the Government in connection therewith; and
 
-(b) all the lands, buildings and other property, movable and immovable, vested in the former authority immediately before the appointed day, and all assets, rights and interests vested in, and all outstanding debts, liabilities and obligations incurred by, the former Authority in connection therewith,
+(b) all the lands, buildings and other property movable and immovable, vested in the former Authority immediately before that day, and all assets, rights and interests vested in, and all outstanding debts, liabilities and obligations incurred by, the former Authority in connection therewith,
 
 shall be transferred to and shall vest in the Authority without further assurance.
 
-(2) Subsection (1) shall not apply to any rights and interests vested in, and any outstanding liabilities and obligations incurred by, the former Authority immediately before the appointed day in connection with all sums of moneys paid or payable by way of instalments to the former Authority, or the payment of which is secured to the satisfaction of the former Authority, pursuant to section 49(3)(b) of the repealed Act.
+(2) Subsection (1) shall not apply to any rights and interests vested in, and any outstanding liabilities and obligations incurred by, the former Authority immediately before 1st September 1989 in connection with all sums of moneys paid or payable by way of installments to the former Authority, or the payment of which is secured to the satisfaction of the former Authority, pursuant to section 49(3)(b) of the repealed Act.
 
 (3) If any question arises as to whether any particular movable property vested in the Government, or whether any particular asset, right, interest, liability or obligation of the Government has been transferred to or vested in the Authority under subsection (1), a certificate under the hand of the Minister for Finance shall be conclusive evidence that the property, asset, right, interest, liability or obligation was or was not so transferred or vested.
 
-(4) No disclosure to the Authority under this section of information collected by the Research and Statistics Unit before the appointed day shall be called in question on the ground that such disclosure is contrary to section 5 of the Statistics Act [Cap. 317] or in breach of confidence.
+(4) No disclosure to the Authority under this section of information collected by the Research and Statistics Unit before 1st September 1989 shall be called in question on the ground that such disclosure is contrary to section 5 of the Statistics Act [Cap. 317] or in breach of confidence.
 
-### Existing agreements, etc
+### Existing agreements, etc.
 
-32\. All deeds, bonds, agreements, instruments and working arrangements, subsisting immediately before the appointed day, affecting any of the property, rights, interests, liabilities and obligations transferred to or vested in the Authority under section 31(1) shall continue in force on and after that day and shall be enforceable by or against the Authority as if, instead of the Government or the former Authority or a person acting on behalf of either the Government or the former Authority, the Authority had been named therein or had been a party thereto.
+32\. All deeds, bonds, agreements, instruments and working arrangements, subsisting immediately before 1st September 1989, affecting any of the property, rights, interests, liabilities and obligations transferred to or vested in the Authority under section 31(1) shall continue in force on and after that date and shall be enforceable by or against the Authority as if, instead of the Government or the former Authority or a person acting on behalf of either the Government or the former Authority, the Authority had been named therein or had been a party thereto.
 
 ### Pending legal proceedings
 
-33\.—(1) Any proceedings or cause of action pending or existing immediately before the appointed day by or against the Government in respect of the Planning Department or the Research and Statistics Unit, or by or against the former Authority or any person acting on its behalf, may be continued and shall be enforced by or against the Authority.
+33\.—(1) Any proceedings or cause of action pending or existing immediately before 1st September 1989 by or against the Government in respect of the Planning Department or the Research and Statistics Unit, or by or against the former Authority or any person acting on its behalf, may be continued and shall be enforced by or against the Authority.
 
-(2) Subsection (1) shall not apply to any proceedings or cause of action relating to any sums of money paid, or payable by way of instalments, to the former Authority, or the payment of which is secured to the satisfaction of the former Authority, pursuant to section 49(3)(b) of the repealed Act.
+(2) Subsection (1) shall not apply to any proceedings or cause or action relating to any sums of money paid, or payable by way of instalments, to the former Authority, or the payment of which is secured to the satisfaction of the former Authority, pursuant to section 49(3)(b) of the repealed Act.
 
 ### Transfer of employees
 
-34\.—(1) As from the appointed day, every person who immediately before that day is employed by the Government in the Planning Department or the Research and Statistics Unit, or by the former Authority, shall be transferred to the service of the Authority on terms not less favourable than those enjoyed by him immediately prior to his transfer.
+34\.—(1) As from 1st September 1989, every person who immediately before that date is employed by the Government in the Planning Department or the Research and Statistics Unit, or by the former Authority, shall be transferred to the service of the Authority on terms not less favourable than those enjoyed by him immediately prior to his transfer.
 
 (2) Notwithstanding subsection (1), persons holding such grades in the Planning Department or the Research and Statistics Unit as the Minister may determine shall as soon as practicable be given the option of remaining in the service of the Government.
 
@@ -542,7 +518,7 @@ shall be transferred to and shall vest in the Authority without further assuranc
 
 (3) Where any person in the service of the Authority whose case does not come within the scope and effect of any pension or other schemes referred to under this section, retires or dies in the service of the Authority or is discharged from such service, the Authority may grant to him or to such other person or persons wholly or partly dependent on him, as the Authority may think fit, such allowance or gratuity as the Authority may determine.
 
-(4) Where any person who is transferred to the service of the Authority under section 34 is a contributor under the Widows’ and Orphans’ Pension Act [Cap. 350], he shall for the purposes of that Act continue to make contributions under that Act as if he had not been transferred to the service of the Authority, and for the purposes of that Act his service with the Authority shall be deemed to be service with the Government.
+(4) Where any person who is transferred to the service of the Authority under section 34 is a contributor under the Widows’ and Orphans’ Pension Act, he shall for the purposes of that Act continue to make contributions under that Act as if he had not been transferred to the service of the Authority, and for the purposes of that Act his service with the Authority shall be deemed to be service with the Government.
 
 ### No benefits in respect of abolition or reorganisation of office
 
@@ -550,19 +526,19 @@ shall be transferred to and shall vest in the Authority without further assuranc
 
 ### Safeguarding of Municipal Provident Fund benefits
 
-38\.—(1) Rules for the maintenance of the Municipal Provident Fund made under section 12 of the Local Government Integration Act [Cap. 166] shall be binding upon the Authority and its employees who were members of the Municipal Provident Fund immediately before the appointed day.
+38\.—(1) Rules for the maintenance of the Municipal Provident Fund made under section 12 of the Local Government Integration Act shall be binding upon the Authority and its employees who were members of the Municipal Provident Fund immediately before 1st September 1989.
 
-(2) Until other provision is made, the Municipal (Provident Fund) Rules 1956 [G.N. No. S 179/56] shall continue to apply to every person transferred to the service of the Authority who, immediately before the appointed day was a member of the Municipal Provident Fund, in the like manner as those Rules applied to such person immediately before the appointed day, and every reference to service or employment with the City Council in those Rules shall be construed as a reference to service or employment with the Authority in respect of such person.
+(2) Until other provision is made, the Municipal (Provident Fund) Rules 1956 [S 179/56] shall continue to apply to every person transferred to the service of the Authority who, immediately before 1st September 1989 was a member of the Municipal Provident Fund, in the like manner as those Rules applied to such person immediately before that date, and every reference to service or employment with the City Council in those Rules shall be construed as a reference to service or employment with the Authority in respect of such person.
 
-(3) Until other provision is made, the provisions of the Municipal (Provident Fund) Rules 1956 [G.N. No. S 179/56] requiring the City Council to make payments into the Municipal Provident Fund shall apply to the Authority and be construed as provisions requiring the Authority to make payments into that Fund in respect of every person transferred to the service of the Authority who is a member of the Fund.
+(3) Until other provision is made, the provisions of the Municipal (Provident Fund) Rules 1956 requiring the City Council to make payments into the Municipal Provident Fund shall apply to the Authority and be construed as provisions requiring the Authority to make payments into that Fund in respect of every person transferred to the service of the Authority who is a member of the Fund.
 
 (4) Persons who have been transferred to the service of the Authority may count their previous service in the Singapore Improvement Trust, the Housing and Development Board, the former Authority, the Planning Department or the Research and Statistics Unit and their previous membership of the Municipal Provident Fund and their contributions to that Fund for the purpose of determining the benefits to which they become entitled under this section.
 
 ### Continuation and completion of disciplinary proceedings
 
-39\.—(1) Where on the appointed day any disciplinary proceedings were pending against any employee of the Government or the former Authority who has been transferred to the service of the Authority under section 34, the proceedings shall be carried on and completed by the Authority under and in conformity with this Act as far as practicable; but where on that day any matter was in the course of being heard or investigated or had been heard or investigated by the Government, the former Authority or a committee acting under due authority and no order or decision had been rendered thereon, the Government, the former Authority or committee shall continue to exist, notwithstanding this Act, for the purpose of completing the hearing or investigation and the making of an order or rendering a decision, as the case may be.
+39\.—(1) Where on 1st September 1989 any disciplinary proceedings were pending against any employee of the Government or the former Authority who has been transferred to the service of the Authority under section 34, the proceedings shall be carried on and completed by the Authority under and in conformity with this Act as far as practicable; but where on that date any matter was in the course of being heard or investigated or had been heard or investigated by the Government, the former Authority or a committee acting under due authority and no order or decision had been rendered thereon, the Government, the former Authority or committee shall continue to exist, notwithstanding this Act, for the purpose of completing the hearing or investigation and the making of an order or rendering a decision, as the case may be.
 
-(2) For the purposes of completing a hearing or investigation before it, or making an order or rendering a decision on a matter heard or investigated before the appointed day, the Government, the former Authority or committee shall complete the hearing or investigation in accordance with the authority vested in the Government, the former Authority or committee immediately before that day and make such order, rule or direction as the Government, the former Authority or committee could have made under the authority vested in it immediately before that day.
+(2) For the purposes of completing a hearing or investigation before it, or making an order or rendering a decision on a matter heard or investigated before 1st September 1989, the Government, the former Authority or committee shall complete the hearing or investigation in accordance with the authority vested in the Government, the former Authority or committee immediately before that date and make such order, rule or direction as the Government, the former Authority or committee could have made under the authority vested it immediately before that date.
 
 (3) Any order, rule or direction made or given by the Government, the former Authority or committee pursuant to this section shall be treated as an order, rule or direction of the Authority and have the same force or effect as if it had been made or given by the Authority pursuant to the authority vested in the Authority under this Act.
 
@@ -582,7 +558,7 @@ SALE OF UNITS
 
 42\. For the purposes of the registration of an assurance pertaining to the sale by the Authority of any unit, the mortgage of such unit in favour of the Authority or the reconveyance or discharge of such mortgage —
 
-(a) in the case of land registered under the provisions of the Registration of Deeds Act [Cap. 269], section 12 of that Act shall not apply; and
+(a) in the case of land registered under the provisions of the Registration of Deeds Act [Cap. 269, 1989 Ed.], section 12 of that Act shall not apply; and
 
 (b) in the case of land registered under the provisions of the Land Titles Act [Cap. 157], where a solicitor is not employed by the party acquiring title under an instrument relating to the transactions referred to in this section, a certificate of an officer authorised in writing in that behalf by the Authority, shall be sufficient for the purposes of section 54(4) of that Act.
 
@@ -620,7 +596,7 @@ MISCELLANEOUS
 
 (ii) delivered to any director, manager or secretary of the company or corporation in Singapore or to any person having, on behalf of the company or corporation, powers of control or management over the business, occupation, work or matter to which the notice relates; or
 
-(iii) sent by registered post addressed to the company or corporation at its principal office, wherever situated.
+(iii) sent by registered post addressed to the company or corporation at its principal office wherever situated.
 
 (3) Any person who on being required by notice under this section to furnish any particulars or information —
 
@@ -674,19 +650,15 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (2) Any order made under this section shall be presented to Parliament as soon as possible after publication in theGazette.
 
-### Repeal
-
-53\. The Urban Redevelopment Authority Act [Cap. 340] is repealed.
-
 ### Transitional and savings provisions
 
-54\.—(1) The transitional and savings provisions in the Fourth Schedule shall have effect.
+53\.—(1) The transitional and savings provisions in the Fourth Schedule shall have effect.
 
 (2) Except as provided in the Fourth Schedule, nothing in that Schedule shall affect any saving provided by the Interpretation Act [Cap. 1].
 
 FIRST SCHEDULE
 
-Section 4(2).
+Section 4(2)
 
 Constitution and Proceedings of the Authority
 
@@ -698,7 +670,7 @@ Appointment of Chairman, Deputy Chairman and other members
 
 (3) The Minister may appoint the chief executive to be a member.
 
-Tenure of office of members
+Tenure of office members
 
 2\. The Chairman and every other member shall, unless their appointment is revoked under paragraph 5 or they resign during their term of office, hold office for a term of 3 years or such shorter period as the Minister may determine.
 
@@ -728,7 +700,7 @@ Vacation of office of member
 
 (c) resigns from his office.
 
-Filling of vacancy in the office of a member
+Filing of vacancy in the office of member
 
 8\. If a member dies or has his appointment revoked or otherwise vacates his office before the expiry of the term for which he has been appointed, another person may be appointed by the Minister for the unexpired period of the term of office of the member in whose place he is appointed.
 
@@ -762,7 +734,7 @@ Meetings of Authority
 
 12.—(1) The Chairman shall summon meetings as often as may be required but not less than once in 3 months.
 
-(2) At every meeting of the Authority, a quroum shall consist of 3 members.
+(2) At every meeting of the Authority, a quorum shall consist of 3 members.
 
 (3) Decisions at meetings of the Authority shall be adopted by a simple majority of the votes of the members present and voting; and in the case of an equality of votes, the Chairman or in his absence the Deputy Chairman or the member presiding shall have a casting vote.
 
@@ -780,7 +752,7 @@ Validity of acts of members
 
 SECOND SCHEDULE
 
-Section 6.
+Section 6
 
 Powers of the Authority
 
@@ -812,7 +784,7 @@ Powers of the Authority
 
 THIRD SCHEDULE
 
-Section 29.
+Section 29
 
 Financial Provisions
 
@@ -822,9 +794,11 @@ Financial Provisions
 
 3.—(1) The accounts of the Authority shall be audited by the Auditor-General or such other auditor as may be appointed annually by the Minister in consultation with the Auditor-General.
 
-(2) A person shall not be qualified for appointment as an auditor under sub-paragraph (1) unless he is an approved company auditor under the Companies Act [Cap. 50].
+(2) A person shall not be qualified for appointment as an auditor under sub-paragraph (1) unless he is an approved company auditor under the Companies Act [Cap. 50, 1988 Ed.].
 
-4\. The renumeration of the auditor shall be paid out of the funds of the Authority.
+4. The remuneration of the auditor shall be paid out of the funds of the Authority.
+
+[S 227/95]
 
 5\. The Authority shall, as soon as practicable but not later than 31st July in every year, prepare and submit the financial statements in respect of the preceding financial year to the auditor who shall audit and report on them.
 
@@ -852,53 +826,53 @@ Financial Provisions
 
 10\. The auditor may require any person to furnish him with such information in the possession of that person or to which that person has access as the auditor considers necessary for the purposes of his functions under this Act.
 
-11\. Any person who fails without any reasonable cause to comply with any requirement of the auditor under paragraph 10 or who otherwise hinders, obstructs or delays the auditor in the performance of his functions under this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and in the case of a continuing offence to a further fine not exceeding $100 for every day during which the offence continues after conviction.
+11\. Any person who fails without any reasonable cause to comply with any requirement of the auditor under paragraph 10 or who otherwise hinders, obstructs or delays the auditor in the performance of his functions under this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day during which the offence continues after conviction.
 
 12\. As soon as the accounts of the Authority and the financial statements have been audited in accordance with the provisions of this Act but not later than 31st October in each year, a copy of the audited financial statements signed by the Chairman and certified by the auditor, together with a copy of any report made by the auditor, shall be submitted to the Minister.
 
-13\. Where the Auditor-General is not the auditor of the Authority, a copy of the audited financial statements and any report made by the auditor shall be forwarded to the Auditor-General at the same time they are submitted to the Authority
+13\. Where the Auditor-General is not the auditor of the Authority, a copy of the audited financial statements and any report made by the auditor shall be forwarded to the Auditor-General at the same time they are submitted to the Authority.
 
 14\. The Minister shall as soon as practicable cause a copy of the audited financial statements and of the report of the auditor to be presented to Parliament.
 
 FOURTH SCHEDULE
 
-Section 54.
+Section 53
 
 Transitional and Savings Provisions
 
 Continuation of office of members of former Authority
 
-1\. Every person who, immediately before the appointed day, held office as a member of the former Authority shall, subject to the provisions of this Act, continue to be a member of the Authority as if the person had been appointed under this Act on the same terms and conditions for a term expiring on the day on which the appointment under the repealed Act would expire.
+1\. Every person who, immediately before 1st September 1989, held office as a member of the former Authority shall, subject to the provisions of this Act, continue to be a member of the Authority as if the person had been appointed under this Act on the same terms and conditions for a term expiring on the day on which the appointment under the repealed Act would expire.
 
 First chief executive
 
-2\. The first chief executive of the Authority shall be the person who, immediately before the appointed day, is appointed to perform the duties of the General Manager of the former Authority and the person shall hold office on the same terms and conditions for a term expiring on the day on which his appointment under the repealed Act would expire.
+2\. The first chief executive of the Authority shall be the person who, immediately before 1st September 1989, is appointed to perform the duties of the General Manager of the former Authority and the person shall hold office on the same terms and conditions for a term expiring on the day on which his appointment under the repealed Act would expire.
 
 Saving of committees and delegations
 
-3.—(1) Every committee appointed by the former Authority under section 25(1) of the repealed Act shall continue as if appointed by the Authority under section 14(1) of this Act; and every person who, immediately before the appointed day, was a member of such committee shall continue as a member of the committee on the same terms and conditions for a term expiring on the day on which his appointment under the repealed Act would expire.
+3.—(1) Every committee appointed by the former Authority under section 25(1) of the repealed Act shall continue as if appointed by the Authority under section 14(1) of this Act; and every person who, immediately before 1st September 1989, was a member of such committee shall continue as a member of the committee on the same terms and conditions for a term expiring on the day on which his appointment under the repealed Act would expire.
 
 (2) Any delegation made by the former Authority under section 25(2) or (3) of the repealed Act shall be deemed to be a delegation by the Authority made under section 14(2) or (3) of this Act, respectively.
 
 Projects of former Authority
 
-4\. Every proposal, plan and project submitted by the former Authority before the appointed day and which have neither been approved nor rejected by the Minister under section 24 of the repealed Act shall be deemed to have been submitted by the Authority under section 13 of this Act.
+4\. Every proposal, plan and project submitted by the former Authority before 1st September 1989 and which have neither been approved nor rejected by the Minister under section 24 of the repealed Act shall be deemed to have been submitted by the Authority under section 13 of this Act.
 
 Companies of former Authority
 
-5\. Every private company formed by the former Authority pursuant to section 20 of the repealed Act and existing immediately before the appointed day shall be deemed to have been formed under the provisions of this Act.
+5\. Every private company formed by the former Authority pursuant to section 20 of the repealed Act and existing immediately before 1st September 1989 shall be deemed to have been formed under the provisions of this Act.
 
-Continuation of standing orders, etc
+Continuation of standing orders, etc.
 
-6.—(1) All standing orders made under section 26 of the repealed Act by the former Authority and in force immediately before the appointed day shall be deemed to have been made under section 15 of this Act by the Authority and may be amended, revoked or replaced by standing orders made under this Act.
+6.—(1) All standing orders made under section 26 of the repealed Act by the former Authority and in force immediately before 1st September 1989 shall be deemed to have been made under section 15 of this Act by the Authority and may be amended, revoked or replaced by standing orders made under this Act.
 
-(2) Every authorisation and direction given or made by the Minister under the repealed Act with regard to the power, or exercise of the functions, of the former Authority and in force immediately before the appointed day shall be deemed to have been given or made by the Minister under the corresponding provisions of this Act.
+(2) Every authorisation and direction given or made by the Minister under the repealed Act with regard to the power, or exercise of the functions, of the former Authority and in force immediately before 1st September 1989 shall be deemed to have been given or made by the Minister under the corresponding provisions of this Act.
 
 Annual report
 
 7.—(1) Notwithstanding the provisions of this Act, the former Authority shall, for the purposes of preparing and furnishing to the Minister a report of its functions under section 46 of the repealed Act (referred to in this paragraph as the annual report), continue in existence until it has furnished that report.
 
-(2) The former Authority shall, as soon as practicable after the appointed day, prepare and furnish to the Minister an annual report for the period that commenced on 1st April 1989 and ending immediately before the appointed day.
+(2) The former Authority shall, as soon as practicable after 1st September 1989, prepare and furnish to the Minister an annual report for the period that commenced on 1st April 1989 and ending immediately before 1st September 1989.
 
 (3) The Minister shall cause a copy of the annual report to be presented to Parliament as soon as practicable after receipt of the annual report.
 
@@ -906,19 +880,55 @@ Annual report
 
 Pending appeals
 
-8.—(1) Any right of appeal subsisting immediately before the appointed day by virtue of section 51 of the repealed Act shall from that day be treated as subsisting by virtue of section 11 of the Planning Act [Cap. 232].
+8.—(1) Any right of appeal subsisting immediately before 1st September 1989 by virtue of section 51 of the repealed Act shall from that date be treated as subsisting by virtue of section 16 of the Planning Act [Cap. 232, 1990 Ed.].
 
-(2) Any such appeal pending before the appointed day under the repealed Act may be prosecuted and disposed of in accordance with section 11 of the Planning Act [Cap. 232].
+(2) Any such appeal pending before 1st September 1989 under the repealed Act may be prosecuted and disposed of in accordance with section 16 of the Planning Act.
 
-Information collected by Research and Statistics Unit
+Information collected by Research and Statistics Units
 
-9\. All information collected by the Research and Statistics Unit before the appointed day and transferred to the Authority under section 31 shall be subject to the same safeguards as respect disclosure as are provided by the Statistics Act as if the information had been collected by the Authority under that Act [Cap. 317].
+9\. All information collected by the Research and Statistics Unit before the appointed day and transferred to the Authority under section 31 shall be subject to the same safeguards as respect disclosure as are provided by the Statistics Act [Cap. 317] as if the information had been collected by the Authority under that Act.
 
-Contracts, documents, etc
+Contracts, documents, etc.
 
 10.—(1) Any scheme, contract, document, licence, consent or resolution prepared, made, granted, approved or issued by or on behalf of the former Authority under any provision of the repealed Act, and any scheme, contract, document or licence made by or on behalf of the Government in respect of the Planning Department or the Research and Statistics Unit, shall, except as otherwise expressly provided in this Act or any other written law, continue and be deemed to have been prepared, made, granted or approved by the Authority.
 
-(2) Where anything has been commenced by or on behalf of the former Authority, the Planning Department or the Research and Statistics Unit before the appointed day, such thing may be carried on and completed by or under the authority of the Authority.
+(2) Where anything has been commenced by or on behalf of the former Authority, the Planning Department or the Research and Statistics Unit before 1st September 1989, such thing may be carried on and completed by or under the authority of the Authority.
 
-(3) In any written law and in any document, unless the context otherwise requires, any reference to the former Authority, shall be construed as a reference to the Authority.
+(3) In any written law and in any document, unless the context otherwise requires, any reference to the former Authority shall be construed as a reference to the Authority.
 
+## LEGISLATIVE HISTORY
+
+Urban Redevelopment Authority Act
+
+(CHAPTER 340)
+
+This Legislative History is provided for the convenience of users of the Urban Redevelopment Authority Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 65 of 1973—Urban Redevelopment Authority Act 1973**|
+||Date of First Reading|11 July 1973|
+|||(Bill No. 30/1973 published on 16 July 1973)|
+||Date of Second and Third Readings|30 November 1973|
+||Date of commencement|1 April 1974|
+|2.|**Act 7 of 1983—Statutes (Miscellaneous Amendments) Act 1982**|
+||Date of First Reading|3 December 1982|
+|||(Bill No. 25/1982 published on 8 December 1982)|
+||Date of Second Reading|4 March 1983|
+||Date of commencement|15 April 1983|
+|3.|**1985 Revised Edition—Urban Redevelopment Authority Act**|
+||Date of operation|30 March 1987|
+|4.|**Act 13 of 1989—Urban Redevelopment Authority (Amendment) Act 1989**|
+||Date of First Reading|19 January 1989|
+|||(Bill No. 15/1989 published on 19 January 1989)|
+||Date of Second and Third Readings|17 February 1989|
+||Date of commencement|31 March 1989|
+|5.|**Act 32 of 1989—Urban Redevelopment Authority Act 1989**|
+||Date of First Reading|11 July 1989|
+|||(Bill No. 33/1989 published on 12 November 1989)|
+||Date of Second and Third Readings|4 August 1989|
+||Date of commencement|1 September 1989|
+|6.|**1990 Revised Edition—Urban Redevelopment Authority Act**|
+||Date of operation|15 March 1990|
+|7.|**G. N. No. S 227/1995—Revised Edition of the Laws (Rectification) Order 1995**|
+||Date of commencement|15 March 1990|
