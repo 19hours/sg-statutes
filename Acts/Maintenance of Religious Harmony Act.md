@@ -311,3 +311,9 @@ This Legislative History is provided for the convenience of users of the Mainten
 |||(Bill No. 4/1991 published on 4 January 1991)|
 ||Date of Second and Third Readings|14 January 1991|
 ||Date of commencement|30 November 1991|
+|4.|**Act 26 of 1990—Maintenance of Religious Harmony Act 1990**|
+||Date of First Reading|12 June 1990|
+|||(Bill No. 14/1990 published on 15 June 1990)|
+||Date of Second Reading|18 July 1990|
+||Date Committed to Select Committee|Parl. 7 of 1990 presented to Parliament on 19 October 1990|
+||Date of commencement|31 March 1992|
