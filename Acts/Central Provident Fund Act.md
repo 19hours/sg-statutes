@@ -54,6 +54,8 @@
 
 - [15A Restrictions on withdrawals to ensure repayment of approved loan](#Restrictions-on-withdrawals-to-ensure-repayment-of-approved-loan)
 
+- [15B Setting aside additional sum](#Setting-aside-additional-sum)
+
 - [16 Restrictions on withdrawal from medisave account](#Restrictions-on-withdrawal-from-medisave-account)
 
 - [17 Withdrawal from special account for loan, etc.](#Withdrawal-from-special-account-for-loan-etc)
@@ -159,6 +161,8 @@
 - [60 Offences by corporations](#Offences-by-corporations)
 
 - [61 Penalties](#Penalties)
+
+- [61A Recovery of contributions upon conviction](#Recovery-of-contributions-upon-conviction)
 
 - [62 Notice to attend court](#Notice-to-attend-court)
 
@@ -294,7 +298,7 @@ PRELIMINARY
 
 “special account” means a special account maintained under section 13;
 
-“wages” means the remuneration in money, including any bonus, due or granted to a person in respect of his employment .
+“wages” means the remuneration in money, including any bonus, due or granted to a person in respect of his employment but does not include such payments as the Minister may, by notification in theGazette, specify.
 
 [39/2000 wef 01/01/2001]
 
@@ -336,6 +340,10 @@ PRELIMINARY
 
 [27/92]
 
+(3A) The Minister, with the President’s concurrence under Article 22A(1)(b) of the Constitution, may appoint any member of the Board to be a temporary Chairman or temporary Deputy Chairman during the temporary incapacity from illness or otherwise, or during the temporary absence from Singapore, of the Chairman or Deputy Chairman, as the case may be.
+
+[39/2000 wef 01/01/2001]
+
 (4) The other members of the Board shall be appointed by the Minister with the President’s concurrence under Article 22A(1)(b) of the Constitution and shall consist of the following persons:
 
 (a) 2 persons holding office of emolument under the Government;
@@ -365,6 +373,10 @@ PRELIMINARY
 [11/91; 27/92]
 
 (10) Any person who is a Member of Parliament shall be disqualified from being appointed to or remaining a member of the Board.
+
+(11) The Chairman may, by instrument in writing, authorise any member of the Board to exercise any power or perform any function conferred on the Chairman by or under this Act.
+
+[39/2000 wef 01/01/2001]
 
 ### Appointment of officers and employees
 
@@ -568,7 +580,7 @@ CONTRIBUTIONS TO FUND
 
 (b) a medisave account from which, apart from sections 15(2) to (5) and 54 but subject to section 16, withdrawals may be made in accordance with any regulations made under section 77(1)(j) and (ja); and
 
-(c) a special account from which no withdrawal may be made except under section 15(2) to (5), section 17 or section 45(2) .
+(c) a special account from which no withdrawal may be made except under section 15(2) to (5), section 17 , section 45(2) or in accordance with any regulations made under section 77(1)(m).
 
 [39/2000 wef 01/01/2001]
 
@@ -788,8 +800,6 @@ if the member or his spouse, as the case may be, agrees to the creation of a cha
 
 if the member and the related person or persons, as the case may be, agree to the creation of a charge on the immovable property owned by them to secure the payment to the Board of the minimum sum for any of the purposes mentioned in subsection (6).
 
-[39/2000 wef 28/12/2000]
-
 (10) Where a member or his spouse or both of them jointly own any immovable property sold by a Housing Authority or by a lessee of a Housing Authority, the Board may permit the member —
 
 (a) to withdraw the minimum sum or part thereof from his account with an approved bank or his retirement account; or
@@ -807,8 +817,6 @@ if the member or his spouse (or both of them), as the case may be, gives an unde
 (b) to surrender his approved annuity,
 
 if the member and the person or persons, as the case may be, give an undertaking to refund to the Board an amount equal to the minimum sum or part thereof which the member is required to set aside for any of the purposes mentioned in subsection (6) in the event the property is sold or otherwise disposed of.
-
-[39/2000 wef 28/12/2000]
 
 (11) Where a member has withdrawn any money from the Fund for the purchase of an immovable property from a Housing Authority or from a lessee of a Housing Authority pursuant to any regulations made under section 77 and the sum standing to the credit of the member in the Fund at the time he attains the age of 55 years is less than the minimum sum, the member shall, in the event the property is sold or otherwise disposed of, refund to the Board from the proceeds of sale or other disposition, an amount sufficient to cover the deficiency in the minimum sum.
 
@@ -874,13 +882,23 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 (g) any other person who in the opinion of the Board should be regarded as a related person for the purposes of this section.
 
-[39/2000 wef 28/12/2000]
-
 ### Restrictions on withdrawals to ensure repayment of approved loan
 
 15A\. Notwithstanding anything in section 15, a member of the Fund shall not be entitled to withdraw from the Fund any sum standing to his credit under section 15(2)(b), (c), (d) or (e) unless the Board is satisfied that all moneys lent to the member pursuant to any approved loan scheme within the meaning of section 14A and which have been paid into the Fund under section 14A(2) for the benefit of the member, together with any interest and other charges which the member is liable to pay to the Government under the terms and conditions of the loan, have been repaid to the Government.
 
 [12/99]
+
+### Setting aside additional sum
+
+15B\.—(1) A member who is entitled to withdraw the sum standing to his credit in the Fund under section 15(2)(a), (3) or (4) may, in addition to the minimum sum that the member is required to set aside under section 15, set aside in accordance with regulations made under this Act, the balance or any part of the balance of the sum which the member is entitled to withdraw under section 15(2)(a), (3) or (4) (referred to in this section as the additional sum).
+
+(2) The additional sum set aside under subsection (1) may be deposited with an approved bank or used to purchase an approved annuity from an insurer.
+
+(3) Section 25 shall not apply to the additional sum set aside under subsection (1).
+
+(4) In this section, “approved”, in relation to a bank or an annuity from an insurer, means approved by the Board for the purposes of this section.
+
+[39/2000 wef 01/01/2001]
 
 ### Restrictions on withdrawal from medisave account
 
@@ -922,8 +940,6 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 (c) any person to pay money into his parent’s, grandparent’s or spouse’s retirement account.
 
-[39/2000 wef 28/12/2000]
-
 ### Transfer of member’s moneys in ordinary account to retirement account
 
 18A\. The Board may, subject to such terms and conditions as it may impose, permit a member to transfer such portion of the sum standing to his credit in the ordinary account as may be prescribed to his retirement account.
@@ -942,7 +958,7 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 (3) In this section, “prescribed amount” means —
 
-(a) $40,000, where no other sum is specified under paragraph (b); or
+(a) $65,000, where no other sum is specified under paragraph (b); or
 
 [39/2000 wef 01/01/2001]
 
@@ -953,8 +969,6 @@ if the member and the person or persons, as the case may be, give an undertaking
 ### Provisions relating to moneys transferred or paid to parent’s, grandparent’s or spouse’s retirement account on death
 
 19\.—(1) Any moneys transferred by a member to his parent’s or spouse’s retirement account or paid by any person into his parent’s, grandparent’s or spouse’s retirement account under section 18 shall be deemed to be contributions for the purposes of this Act and shall not form part of the moneys payable out of the Fund on the death of the parent, grandparent or the spouse, as the case may be.
-
-[39/2000 wef 28/12/2000]
 
 (2) On the death of the parent, grandparent or the spouse, any moneys so transferred or paid or the balance thereof shall be credited to the account from which it was transferred or to the account of the person who made the payment, as the case may be.
 
@@ -1846,9 +1860,21 @@ he shall be guilty of an offence.
 
 61\.—(1) Any person convicted of an offence under this Act for which no penalty is provided shall be liable to a fine not exceeding $2,500 and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000.
 
-(2) The court before which the conviction is had may in addition to the fine order him to pay the amount of any contributions together with any interest due thereon certified by an officer appointed by the Board in that behalf to be due from that person at the date of the conviction and the amount may be recovered according to the law for the time being in force relating to the recovery of fines.
-
 (3) Notwithstanding the provisions of any written law to the contrary, a District Court or a Magistrate’s Court shall have the jurisdiction to impose the maximum penalty prescribed for an offence under this Act.
+
+### Recovery of contributions upon conviction
+
+61A\.—(1) The court before which any conviction under section 7(3) or 61(1) is had may in addition to the fine prescribed in those sections order the person convicted to pay the amount of any contributions together with any interest due thereon certified by an officer appointed by the Board in that behalf to be due from that person at the date of the conviction.
+
+(2) The court may order that the amount ordered to be paid under subsection (1) be recoverable —
+
+(a) according to the law for the time being in force relating to the recovery of fines; or
+
+(b) upon the application by the Board, in like manner as a judgment of a civil court for the payment of money.
+
+(3) Where the court orders that the amount ordered to be paid under subsection (1) to be recoverable in the manner mentioned in subsection (2)(b), the court shall certify the amount to be paid and the Board may recover the amount so certified in any civil court of competent jurisdiction as though the amount were a judgment debt due to the Board.
+
+[39/2000 wef 01/01/2001]
 
 ### Notice to attend court
 
@@ -2174,6 +2200,10 @@ the amount paid in error shall not be refunded but shall be deemed to have been 
 
 (n) to prescribe for the purposes of section 15(6) the minimum sum which is required to be set aside or topped-up by a member at the time of the withdrawal of the sum standing to his credit in the Fund, the method of computing the minimum sum and the amount or manner in which the minimum sum may be withdrawn after a member has attained the age of 60 years or such other age as may be prescribed and different minimum sums may be prescribed for different classes of members, and for the purposes of section 18;
 
+(na) to prescribe for the purposes of section 15B the manner of application to set aside the additional sum, the conditions on which the additional sum may be set aside, the time at which the additional sum may be set aside, and the amount of and the manner in which the additional sum may be withdrawn;
+
+[39/2000 wef 01/01/2001]
+
 (o) to provide for rates of contributions, other than those specified in the First Schedule, in respect of such categories, classes or descriptions of employees as the Minister may specify;
 
 (p) to provide for members of the Fund to apply or withdraw all or part of the contributions and interest standing to their credit in the Fund for the payment of improvement contributions due to the Housing and Development Board constituted under the Housing and Development Act (Cap. 129) in respect of upgrading works carried out under Part IVA of that Act including the payment of costs, fees or other incidental expenses arising from such works; and
@@ -2253,178 +2283,6 @@ FIRST SCHEDULE
 Sections 7, 8, 70, 75 and 77
 
 Rates of Contribution
-
-1. Subject to paragraphs 2 to 7, with effect from 1st April 2000 the contributions payable by the employer and the amount recoverable from the employee’s wages are as follows:
-
-55 Years of Age and below
-
-Above 55 but not more than 60 Years of Age
-
-Above 60 but not more than 65 Years of Age
-
-Above 65 Years of Age
-
-Total amount of the employee’s wages for the calender month.
-
-Contributions payable by the employer for the calender month.
-
-Amount recoverable from the employee’s wages for the calender month.
-
-Contributions payable by the employer for the calender month.
-
-Amount recoverable from the employee’s wages for the calender month.
-
-Contributions payable by the employer for the calender month.
-
-Amount recoverable from the employee’s wages for the calender month.
-
-Contributions payable by the employer for the calender month.
-
-Amount recoverable from the employee’s wages for the calender month.
-
-(1)
-
-(2)
-
-(3)
-
-(4)
-
-(5)
-
-(6)
-
-(7)
-
-(8)
-
-(9)
-
-Not exceeding $50
-
-NIL
-
-NIL
-
-NIL
-
-NIL
-
-NIL
-
-NIL
-
-NIL
-
-NIL
-
-Exceeding $50 but not exceeding $200
-
-An amount equal to 12% of the total amount of the employee’s wages for the month.
-
-NIL
-
-An amount equal to 4.5% of the total amount of the employee’s wages for the month.
-
-NIL
-
-An amount equal to 2.5% of the total amount of the employee’s wages for the month.
-
-NIL
-
-An amount equal to 2.5% of the total amount of the employee’s wages for the month.
-
-NIL
-
-Exceeding $200 but not exceeding $363
-
-An amount equal to the sum of —
-
-An amount equal to the sum of —
-
-An amount equal to the sum of —
-
-An amount equal to the sum of 1/4 of the difference between the total amount of the employee’s wages for the month and $200.
-
-An amount equal to the sum of —
-
-An amount equal to the sum of 1/6 of the difference between the total amount of the employee’s wages for the month and $200.
-
-An amount equal to the sum of —
-
-An amount equal to the sum of 1/9 of the difference between the total amount of the employee’s wages for the month and $200.
-
-(a) 17% of the total amount of the employee’s wages for the month; and
-
-(a) 5% of the total amount of the employee’s wages for the month; and
-
-(a) 4.5% of the total amount of the employee’s wages for the month; and
-
-(a) 2.5% of the total amount of the employee’s wages for the month; and
-
-(a) 2.5% of the total amount of the employee’s wages for the month; and
-
-(b) 1/3 of the difference between the total amount of the employee’s wages for the month and $200.
-
-(b) 1/3 of the difference between the total amount of the employee’s wages for the month and $200.
-
-(b) 1/4 of the difference between the total amount of the employee’s wages for the month and $200.
-
-(b) 1/6 of the difference between the total amount of the employee’s wages for the month and $200.
-
-(b) 1/9 of the difference between the total amount of the employee’s wages for the month and $200.
-
-Exceeding $363
-
-An amount equal to the sum of —
-
-An amount equal to the sum of —
-
-An amount equal to the sum of —
-
-An amount equal to the sum of —
-
-An amount equal to the sum of —
-
-An amount equal to the sum of —
-
-An amount equal to the sum of —
-
-An amount equal to the sum of —
-
-(a) 32% of the employee’s ordinary wages for the month subject to a maximum of $1,920; and
-
-(a) 20% of the employee’s ordinary wages for the month subject to a maximum of $1,200; and
-
-(a) 17% of the employee’s ordinary wages for the month subject to a maximum of $1,020; and
-
-(a) 12.5% of the employee’s ordinary wages for the month subject to a maximum of $750; and
-
-(a) 10% of the employee’s ordinary wages for the month subject to a maximum of $600; and
-
-(a) 7.5% of the employee’s ordinary wages for the month subject to a maximum of $450; and
-
-(a) 7.5% of the employee’s ordinary wages for the month subject to a maximum of $450; and
-
-(a) 5% of the employee’s ordinary wages for the month subject to a maximum of $300; and
-
-(b) 32% of the amount of the additional wages payable to the employee in the month.
-
-(b) 20% of the amount of the additional wages payable to the employee in the month.
-
-(b) 17% of the amount of the additional wages payable to the employee in the month.
-
-(b) 12.5% of the amount of the additional wages payable to the employee in the month.
-
-(b) 10% of the amount of the additional wages payable to the employee in the month.
-
-(b) 7.5% of the amount of the additional wages payable to the employee in the month.
-
-(b) 7.5% of the amount of the additional wages payable to the employee in the month.
-
-(b) 5% of the amount of the additional wages payable to the employee in the month.
-
-[S156/2000]
 
 2. In respect of an employee whose total wages from an employer for the preceding year exceed $100,000, no contributions shall be payable by that employer on the additional wages which are in excess of the following:
 
@@ -3090,6 +2948,13 @@ This Legislative History is provided for the convenience of users of the Central
 |||(Bill No. 34/2000 published on 13 November 2000)|
 ||Date of Second and Third Readings|22 November 2000|
 ||Date of commencement|28 December 2000 (except sections 2, 3, 4, 6, 8, 10, 11, 12, 13, 14, 15, 16, 17, 18 and 19)|
+|113.|**G.N. No. S 612/2000—Central Provident Fund Act (Amendment of First Schedule) (No. 2) Notification 2000**|
+||Date of commencement|1 January 2001|
+|114.|**Act 39 of 2000—Central Provident Fund (Amendment) Act 2000**|
+||Date of First Reading|13 November 2000|
+|||(Bill No. 34/2000 published on 13 November 2000)|
+||Date of Second and Third Readings|22 November 2000|
+||Date of commencement|1 January 2001 (sections 2, 3, 4, 6, 8, 17, 18 and 19 (b))|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
