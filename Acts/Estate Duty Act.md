@@ -36,6 +36,8 @@
 
 - [13 Requests to institutions](#Requests-to-institutions)
 
+- [13A Gifts to National Museum](#Gifts-to-National-Museum)
+
 - [14 Dwelling houses and all other property](#Dwelling-houses-and-all-other-property)
 
 - [15 Property of national or scientific interest given for public purposes](#Property-of-national-or-scientific-interest-given-for-public-purposes)
@@ -140,31 +142,31 @@
 
 - [60 Signature and service of notices](#Signature-and-service-of-notices)
 
-[**FIRST SCHEDULE Rates of estate duty in the case of persons dying on or after 1st July 1929 and before 1st January 1932**](#FIRST-SCHEDULE-Rates-of-estate-duty-in-the-case-of-persons-dying-on-or-after-1st-July-1929-and-before-1st-January-1932)
+[**FIRST SCHEDULE Rates of Estate Duty in the Case of Persons Dying on or After 1ST July 1929 and Before 1ST January 1932**](#FIRST-SCHEDULE-Rates-of-Estate-Duty-in-the-Case-of-Persons-Dying-on-or-After-1ST-July-1929-and-Before-1ST-January-1932)
 
-[**SECOND SCHEDULE Rates of estate duty in the case of persons dying on or after 1st January 1932 and before 2nd April 1940**](#SECOND-SCHEDULE-Rates-of-estate-duty-in-the-case-of-persons-dying-on-or-after-1st-January-1932-and-before-2nd-April-1940)
+[**SECOND SCHEDULE Rates of Estate Duty in the Case of Persons Dying on or After 1ST January 1932 and Before 2ND April 1940**](#SECOND-SCHEDULE-Rates-of-Estate-Duty-in-the-Case-of-Persons-Dying-on-or-After-1ST-January-1932-and-Before-2ND-April-1940)
 
-[**THIRD SCHEDULE Rates of estate duty in the case of persons dying on or after 2nd April 1940 and before 4th July 1941**](#THIRD-SCHEDULE-Rates-of-estate-duty-in-the-case-of-persons-dying-on-or-after-2nd-April-1940-and-before-4th-July-1941)
+[**THIRD SCHEDULE Rates of Estate Duty in the Case of Persons Dying on or After 2ND April 1940 and Before 4TH July 1941**](#THIRD-SCHEDULE-Rates-of-Estate-Duty-in-the-Case-of-Persons-Dying-on-or-After-2ND-April-1940-and-Before-4TH-July-1941)
 
-[**FOURTH SCHEDULE Rates of remission of estate duty in the case of persons dying on or after 4th July 1941 and before 9th November 1955**](#FOURTH-SCHEDULE-Rates-of-remission-of-estate-duty-in-the-case-of-persons-dying-on-or-after-4th-July-1941-and-before-9th-November-1955)
+[**FOURTH SCHEDULE Rates of Remission of Estate Duty in the Case of Persons Dying on or After 4TH July 1941 and Before 9TH November 1955**](#FOURTH-SCHEDULE-Rates-of-Remission-of-Estate-Duty-in-the-Case-of-Persons-Dying-on-or-After-4TH-July-1941-and-Before-9TH-November-1955)
 
-[**FIFTH SCHEDULE Rates of estate duty in the case of persons dying on or after 9th November 1955 and before 1st April 1974, and —**](#FIFTH-SCHEDULE-Rates-of-estate-duty-in-the-case-of-persons-dying-on-or-after-9th-November-1955-and-before-1st-April-1974-and-—)
+[**FIFTH SCHEDULE Rates of Estate Duty in the Case of Persons Dying on or After 9TH November 1955 and Before 1ST April 1974, and —**](#FIFTH-SCHEDULE-Rates-of-Estate-Duty-in-the-Case-of-Persons-Dying-on-or-After-9TH-November-1955-and-Before-1ST-April-1974-and-—)
 
-[**SIXTH SCHEDULE Rates of estate duty in the case of persons dying on or after 1st January 1965 and before 9th August 1965, where the deceased was domiciled in Singapore or the States of Malaya, Sabah or Sarawak**](#SIXTH-SCHEDULE-Rates-of-estate-duty-in-the-case-of-persons-dying-on-or-after-1st-January-1965-and-before-9th-August-1965-where-the-deceased-was-domiciled-in-Singapore-or-the-States-of-Malaya-Sabah-or-Sarawak)
+[**SIXTH SCHEDULE Rates of Estate Duty in the Case of Persons Dying on or After 1ST January 1965 and Before 9TH August 1965, Where the Deceased Was Domiciled in Singapore or the States of Malaya, Sabah or Sarawak**](#SIXTH-SCHEDULE-Rates-of-Estate-Duty-in-the-Case-of-Persons-Dying-on-or-After-1ST-January-1965-and-Before-9TH-August-1965-Where-the-Deceased-Was-Domiciled-in-Singapore-or-the-States-of-Malaya-Sabah-or-Sarawak)
 
-[**SEVENTH SCHEDULE Rates of estate duty in the case of persons dying on or after 1st April 1974 and before 1st April 1977**](#SEVENTH-SCHEDULE-Rates-of-estate-duty-in-the-case-of-persons-dying-on-or-after-1st-April-1974-and-before-1st-April-1977)
+[**SEVENTH SCHEDULE Rates of Estate Duty in the Case of Persons Dying on or After 1ST April 1974 and Before 1ST April 1977**](#SEVENTH-SCHEDULE-Rates-of-Estate-Duty-in-the-Case-of-Persons-Dying-on-or-After-1ST-April-1974-and-Before-1ST-April-1977)
 
-[**EIGHTH SCHEDULE Rates of estate duty in the case of persons dying on or after 1st April 1977 and before 1st April 1979**](#EIGHTH-SCHEDULE-Rates-of-estate-duty-in-the-case-of-persons-dying-on-or-after-1st-April-1977-and-before-1st-April-1979)
+[**EIGHTH SCHEDULE Rates of Estate Duty in the Case of Persons Dying on or After 1ST April 1977 and Before 1ST April 1979**](#EIGHTH-SCHEDULE-Rates-of-Estate-Duty-in-the-Case-of-Persons-Dying-on-or-After-1ST-April-1977-and-Before-1ST-April-1979)
 
-[**NINTH SCHEDULE Rates of estate duty in the case of persons dying on or after 1st April 1979 and before 1st April 1984**](#NINTH-SCHEDULE-Rates-of-estate-duty-in-the-case-of-persons-dying-on-or-after-1st-April-1979-and-before-1st-April-1984)
+[**NINTH SCHEDULE Rates of Estate Duty in the Case of Persons Dying on or After 1ST April 1979 and Before 1ST April 1984**](#NINTH-SCHEDULE-Rates-of-Estate-Duty-in-the-Case-of-Persons-Dying-on-or-After-1ST-April-1979-and-Before-1ST-April-1984)
 
-[**TENTH SCHEDULE Rates of estate duty in the case of persons dying on or after 1st April 1984**](#TENTH-SCHEDULE-Rates-of-estate-duty-in-the-case-of-persons-dying-on-or-after-1st-April-1984)
+[**TENTH SCHEDULE**](#TENTH-SCHEDULE)
 
-[**ELEVENTH SCHEDULE Rates of interest**](#ELEVENTH-SCHEDULE-Rates-of-interest)
+[**ELEVENTH SCHEDULE Rates of Interest**](#ELEVENTH-SCHEDULE-Rates-of-Interest)
 
-[**TWELFTH SCHEDULE Rates of remission of estate duty in the case of persons dying on or after 1st April 1974 and before 1st April 1977**](#TWELFTH-SCHEDULE-Rates-of-remission-of-estate-duty-in-the-case-of-persons-dying-on-or-after-1st-April-1974-and-before-1st-April-1977)
+[**TWELFTH SCHEDULE Rates of Remission of Estate Duty in the Case of Persons Dying on or After 1ST April 1974 and Before 1ST April 1977**](#TWELFTH-SCHEDULE-Rates-of-Remission-of-Estate-Duty-in-the-Case-of-Persons-Dying-on-or-After-1ST-April-1974-and-Before-1ST-April-1977)
 
-[**THIRTEENTH SCHEDULE Rates of remission of estate duty in the case of persons dying on or after 1st April 1977 and before 1st April 1984**](#THIRTEENTH-SCHEDULE-Rates-of-remission-of-estate-duty-in-the-case-of-persons-dying-on-or-after-1st-April-1977-and-before-1st-April-1984)
+[**THIRTEENTH SCHEDULE Rates of Remission of Estate Duty in the Case of Persons Dying on or After 1ST April 1977 and Before 1ST April 1984**](#THIRTEENTH-SCHEDULE-Rates-of-Remission-of-Estate-Duty-in-the-Case-of-Persons-Dying-on-or-After-1ST-April-1977-and-Before-1ST-April-1984)
 
 [**FOURTEENTH SCHEDULE Exemptions**](#FOURTEENTH-SCHEDULE-Exemptions)
 
@@ -280,7 +282,13 @@ ESTATE DUTY
 
 (j) in the case of any person dying on or after 1st April 1979 and before 1st April 1984 — at the graduated rates set out in the Ninth Schedule;
 
-(k) in the case of any person dying on or after 1st April 1984 — at the rates specified in the Tenth Schedule.
+(k) in the case of any person dying on or after 1st April 1984 and before 28th February 1996 — at the rates specified in Part A of the Tenth Schedule;
+
+[Subst. by Act 27/96 wef 06/09/1996]
+
+(l) in the case of any person dying on or after 28th February 1996 - at the rates specified in Part B of the Tenth Schedule.
+
+[Act 27/96 wef 06/09/1996]
 
 (2) In the case of any person dying before 1st July 1929 the duties payable under the Stamp Ordinance 1885 or Ordinance No. 103 (Stamps), as the case may be, shall continue to be payable as if this Act had not been enacted but save as in this subsection provided the provisions of Part VI shall apply to any such case.
 
@@ -302,19 +310,13 @@ ESTATE DUTY
 
 (b) more than $25,000, that part of the estate duty payable in respect of such property which is in excess of the amount equivalent to the difference between the principal value of such property and the amount of $25,000 shall be remitted as in the following formula:
 
-A − B = C
+A - B = C
 
-where A
+where A represents the amount of the estate duty payable on the principal value of the property;
 
-represents the amount of the estate duty payable on the principal value of the property;
+B represents the amount by which the value of the estate exceeds $25,000; and
 
-B
-
-represents the amount by which the value of the estate exceeds $25,000; and
-
-C
-
-represents the amount of the estate duty to be remitted.
+C represents the amount of the estate duty to be remitted.
 
 [12/78]
 
@@ -380,11 +382,15 @@ Provided that in the case of a disposition made for public or charitable purpose
 
 ### Reverter of property to disponer
 
-(3) (a) Where by a disposition of any property an interest is conferred on any person other than the disponer for the life of that person or determinable on his death, and that person enters into possession of the interest and thenceforward retains possession thereof to the entire exclusion of the disponer or of any benefit to him by contract or otherwise, and the only benefit which the disponer retains in the property is subject to such life or determinable interest, and no other interest is created by that disposition, then, on the death of that person after 30th June 1929, the property shall not be deemed to pass by reason only of its reverter to the disponer in his lifetime.
+(3)(a) Where by a disposition of any property an interest is conferred on any person other than the disponer for the life of that person or determinable on his death, and that person enters into possession of the interest and thenceforward retains possession thereof to the entire exclusion of the disponer or of any benefit to him by contract or otherwise, and the only benefit which the disponer retains in the property is subject to such life or determinable interest, and no other interest is created by that disposition, then, on the death of that person after 30th June 1929, the property shall not be deemed to pass by reason only of its reverter to the disponer in his lifetime.
 
-(b) Where by a disposition of any property any such interest as in paragraph (a) mentioned is conferred on two or more persons, either severally or jointly, or in succession, that paragraph shall apply in like manner as where the interest is conferred on one person.
+(b)
 
-(c) Paragraphs (a) and (b) shall not apply where such person or persons taking such life or determinable interest had at any time prior to the disposition been himself or themselves competent to dispose of such property.
+Where by a disposition of any property any such interest as in paragraph (a) mentioned is conferred on two or more persons, either severally or jointly, or in succession, that paragraph shall apply in like manner as where the interest is conferred on one person.
+
+(c)
+
+Paragraphs (a) and (b) shall not apply where such person or persons taking such life or determinable interest had at any time prior to the disposition been himself or themselves competent to dispose of such property.
 
 [8
 
@@ -402,7 +408,7 @@ Provided that in the case of a disposition made for public or charitable purpose
 
 ### Widows’ and orphans’ pensions
 
-(2) Estate duty shall not be payable in respect of any pension granted under the Widows’ and Orphans’ Pension Act [Cap. 350] nor in respect of any pension or annuity payable by the government of any part of the Commonwealth to the widow or child of any deceased officer of that government, notwithstanding that the deceased contributed during his lifetime to any fund out of which that pension or annuity is paid.
+(2) Estate duty shall not be payable in respect of any pension granted under the Widows’ and Orphans’ Pension Act nor in respect of any pension or annuity payable by the government of any part of the Commonwealth to the widow or child of any deceased officer of that government, notwithstanding that the deceased contributed during his lifetime to any fund out of which that pension or annuity is paid.
 
 [10
 
@@ -440,7 +446,11 @@ Provided that in the case of a disposition made for public or charitable purpose
 
 [19/76]
 
+[,]
+
 [2/83]
+
+[,]
 
 [14/84]
 
@@ -456,6 +466,12 @@ Provided that in the case of a disposition made for public or charitable purpose
 
 [10B
 
+### Gifts to National Museum
+
+13A\. No estate duty shall be payable in respect of any gift inter vivos made on or after 1st April 1987 to the National Museum and which, if other than a gift of money, has been approved by the Minister.
+
+[Act 27/87 wef 18/12/1987]
+
 ### Dwelling houses and all other property
 
 14\.—(1) Subject to this section, estate duty shall not be payable, in the case of a person dying on or after 1st April 1979 and before 1st April 1982, to the extent of —
@@ -464,19 +480,15 @@ Provided that in the case of a disposition made for public or charitable purpose
 
 (b) $100,000 of the aggregate value of all other property, including any dwelling-house which does not qualify for relief under paragraph (a), and the amount thereof shall not form part of the principal value of the estate chargeable with estate duty of any deceased person.
 
-[10/80]
-
-[11/81]
-
-[2/83]
-
 (2) Subject to this section, estate duty shall not be payable, in the case of a person dying on or after 1st April 1982 and before 1st April 1984, to the extent of —
 
 (a) the amount prescribed of the aggregate value of the deceased’s interest in a dwelling-house or dwelling-houses or, where the deceased has an interest in any dwelling-house which exceeds the amount prescribed, the value of that interest, whether the dwelling-house was occupied by the deceased or not;
 
 (b) $100,000 of the aggregate value of all other property, including any interest in any dwelling-house which does not qualify for relief under paragraph (a); and
 
-(c) the excess over $100,000, if any, of the aggregate amount standing to the credit of the deceased at the time of his death in the Central Provident Fund and in any designated pension or provident fund, except that no contributions, and the interest thereon, made by the deceased on or after 1st April 1982 to the Central Provident Fund or to any designated pension or provident fund shall qualify for relief under this paragraph unless the contributions were deductible by the deceased under section 39(2)(e) of the Income Tax Act [Cap. 134],
+(c) the excess over $100,000, if any, of the aggregate amount standing to the credit of the deceased at the time of his death in the Central Provident Fund and in any designated pension or provident fund, except that no contributions, and the interest thereon, made by the deceased on or after 1st April 1982 to the Central Provident Fund or to any designated pension or provident fund shall qualify for relief under this paragraph unless the contributions were deductible by the deceased under section 39(2)(e) of the Income Tax Act,
+
+[Cap 134.]
 
 and the amount thereof shall not form part of the principal value of the estate chargeable with estate duty of any deceased person.
 
@@ -484,21 +496,47 @@ and the amount thereof shall not form part of the principal value of the estate 
 
 [14/84]
 
-(3) Subject to this section, estate duty shall not be payable, in the case of a person dying on or after 1st April 1984, to the extent of —
+(3) Subject to this section, estate duty shall not be payable, in the case of a person dying on or after 1st April 1984 and before 28th February 1996, to the extent of —
 
 (a) the amount prescribed of the aggregate value of the deceased’s interest in a dwelling-house or dwelling-houses, whether occupied by the deceased or not;
 
 (b) $500,000 of the aggregate value of all other property, including any interest in any dwelling-house which does not qualify for relief under paragraph (a); and
 
-(c) the excess over $500,000, if any, of the aggregate amount standing to the credit of the deceased at the time of his death in the Central Provident Fund and in any designated pension or provident fund, except that no contributions, and the interest thereon, made by the deceased on or after 1st April 1982 to the Central Provident Fund or to any designated pension or provident fund shall qualify for relief under this paragraph unless the contributions were deductible by the deceased under section 39(2)(e) of the Income Tax Act [Cap. 134],
+(c) the excess over $500,000, if any, of the aggregate amount standing to the credit of the deceased at the time of his death in the Central Provident Fund or in any designated pension or provident fund except that no contributions (and the interest thereon) made by the deceased —
+
+(i) on or after 1st April 1982 to the Central Provident Fund or to any designated pension or provident fund; or
+
+(ii) on or after 1st August 1986 to the Central Provident Fund on his own account while carrying on a trade, business, profession or vocation,
+
+shall qualify for relief under this paragraph unless the contributions were deductible by the deceased under section 39(2)(e) or (ea) of the Income Tax Act [Cap. 134].
+
+[Act 27/96 wef 18/12/1987]
 
 and the amount thereof shall not form part of the principal value of the estate chargeable with estate duty of any deceased person.
 
+[Act 27/96 wef 06/09/1996]
+
 [(1A)
 
-[14/84]
+(3A) Subject to this section, estate duty shall not be payable, in the case of a person dying on or after 28th February 1996, to the extent of —
 
-(4) Where the value of the interest in any dwelling-house or dwelling-houses which qualifies for relief under subsection (1)(a), (2)(a) or (3)(a) exceeds the amount prescribed, the excess value shall not qualify for relief under subsection (1)(b), (2)(b) or (3)(b).
+(a) the amount prescribed of the aggregate value of the deceased’s interest in a dwelling-house or dwelling-houses, whether occupied by the deceased or not;
+
+(b) $600,000 of the aggregate value of all other property, including any interest in any dwelling-house which does not qualify for relief under paragraph (a); and
+
+(c) the excess over $600,000, if any, of the aggregate amount standing to the credit of the deceased at the time of his death in the Central Provident Fund or in any designated pension or provident fund except that no contributions (and the interest thereon) made by the deceased —
+
+(i) on or after 1st April 1982 to the Central Provident Fund or to any designated pension or provident fund; or
+
+(ii) on or after 1st August 1986 to the Central Provident Fund on his own account while carrying on a trade, business, profession or vocation,
+
+shall qualify for relief under this paragraph unless the contributions were deductible by the deceased under section 39(2)(e) or (ea) of the Income Tax Act,
+
+and the amount thereof shall not form part of the principal value of the estate chargeable with estate duty of any deceased person.
+
+(4) Where the value of the interest in any dwelling-house or dwelling-houses which qualifies for relief under subsection (1)(a), (2)(a), (3) (a) or (3A) (a) exceeds the amount prescribed, the excess value shall not qualify for relief under subsection (1) (b), (2) (b), (3) (b) or (3A) (b).
+
+[Act 27/96]
 
 [14/84]
 
@@ -508,9 +546,11 @@ and the amount thereof shall not form part of the principal value of the estate 
 
 (b) passing on the death of the deceased by virtue of section 8(c),
 
-shall not qualify for the relief under subsection (1)(a), (2)(a) or (3)(a).
+shall not qualify for the relief under subsection (1)(a), (2)(a), (3)(a) or (3A)(a).
 
 [14/84]
+
+[Act 27/96 wef 06/09/1996]
 
 (6) For the purposes of this section —
 
@@ -520,7 +560,13 @@ shall not qualify for the relief under subsection (1)(a), (2)(a) or (3)(a).
 
 (b) in relation to a person dying on or after 1st January 1981 and before 1st April 1984, is $600,000;
 
-(c) in relation to a person dying on or after 1st April 1984, is $3 million;
+(c) in relation to a person dying on or after 1st April 1984 and before 28th February 1996, is $3 million;
+
+[Act 27/96 wef 06/09/1996]
+
+(d) in relation to a person dying on or after 28th February 1996, is $9 million;
+
+[Act 27/96 wef 06/09/1996]
 
 “Central Provident Fund” means the Central Provident Fund established under the Central Provident Fund Act [Cap. 36];
 
@@ -537,6 +583,8 @@ shall not qualify for the relief under subsection (1)(a), (2)(a) or (3)(a).
 (7) For the purposes of this section where the deceased has two or more dwelling-houses the value of each of which exceeds the amount prescribed, the greater value shall qualify for the relief under subsection (2)(a).
 
 [10C
+
+[10/80]
 
 ### Property of national or scientific interest given for public purposes
 
@@ -574,7 +622,7 @@ COMPANIES
 
 “preference share” means a share the holder of which is entitled to a dividend at a fixed rate only;
 
-“value of the total assets of the company” means the principal value, ascertained in accordance with section 24, of all the assets of the company as a going concern, including goodwill, after deducting therefrom —
+“value of the total assets of the company” means the principal value, ascertained in accordance with section 24, of all the assets of the company as a going concern including goodwill, after deducting therefrom —
 
 (a) the principal value so ascertained of any debentures, debenture stock and preference shares of the company;
 
@@ -617,6 +665,8 @@ is shown to the satisfaction of the Commissioner to fall short of that sum;
 (A) that property; or
 
 (B) in a case where that property is deemed to pass as being or representing the proceeds of any other property, that other property or the proceeds thereof or any property representing those proceeds.
+
+[Act 27/87 wef 06/12/1987]
 
 (2) The transfers referred to in subsection (1) are transfers, whether made for consideration or not, of property (being property which, if it had been in the disposition of the deceased at his death, would have been property in respect of which estate duty would have been payable on the death) or any interest in any such property, other than —
 
@@ -683,6 +733,12 @@ Provided that —
 (b) begins 3 years before that date, or, if the company in question was not then in existence, on the day on which the company came into existence.
 
 [15
+
+[11/81]
+
+[2/83]
+
+[3/87]
 
 ### Transfers to certain companies of settled property
 
@@ -982,11 +1038,15 @@ and may examine the person with regard to the premises, and may require the pers
 
 ### Damaged documents
 
-(6) (a) Where any document in the custody of the Commissioner relating to duty charged or chargeable in respect of any property has been lost or destroyed, or has been so defaced or damaged as to be illegible or otherwise useless, the Commissioner may require any person appearing to him to be accountable or to have accounted for that duty to furnish to him to the best of his ability such information, particulars and evidence, including evidence by affidavit, as he may require for replacing that document, and any person so appearing to be accountable shall be liable to discharge all claims in respect of that duty, unless he proves to the satisfaction of the Commissioner that those claims have already been discharged or that he is not accountable for the duty.
+(6)(a) Where any document in the custody of the Commissioner relating to duty charged or chargeable in respect of any property has been lost or destroyed, or has been so defaced or damaged as to be illegible or otherwise useless, the Commissioner may require any person appearing to him to be accountable or to have accounted for that duty to furnish to him to the best of his ability such information, particulars and evidence, including evidence by affidavit, as he may require for replacing that document, and any person so appearing to be accountable shall be liable to discharge all claims in respect of that duty, unless he proves to the satisfaction of the Commissioner that those claims have already been discharged or that he is not accountable for the duty.
 
-(b) The Commissioner shall have all such powers for the purpose of enforcing any requirement made by him under this subsection as he had for enforcing the delivery of the document which is to be replaced, and all statutory provisions in that behalf, including provisions as to penalties, shall apply accordingly with the necessary modifications.
+(b)
 
-(c) The Commissioner shall pay to any person complying with any reasonable requirement under this subsection his reasonable costs of so doing, and if any question arises as to the amount to be paid as costs, the question shall be referred to and determined by the Registrar of the Supreme Court.
+The Commissioner shall have all such powers for the purpose of enforcing any requirement made by him under this subsection as he had for enforcing the delivery of the document which is to be replaced, and all statutory provisions in that behalf, including provisions as to penalties, shall apply accordingly with the necessary modifications.
+
+(c)
+
+The Commissioner shall pay to any person complying with any reasonable requirement under this subsection his reasonable costs of so doing, and if any question arises as to the amount to be paid as costs, the question shall be referred to and determined by the Registrar of the Supreme Court.
 
 [35
 
@@ -1216,7 +1276,7 @@ FIRST SCHEDULE
 
 Section 6(1)(a).
 
-Rates of estate duty in the case of persons dying on or after 1st July 1929 and before 1st January 1932
+Rates of Estate Duty in the Case of Persons Dying on or After 1ST July 1929 and Before 1ST January 1932
 
 Where the principal value of the estate
 
@@ -1274,7 +1334,7 @@ SECOND SCHEDULE
 
 Section 6(1)(b).
 
-Rates of estate duty in the case of persons dying on or after 1st January 1932 and before 2nd April 1940
+Rates of Estate Duty in the Case of Persons Dying on or After 1ST January 1932 and Before 2ND April 1940
 
 Where the principal value of the estate
 
@@ -1360,13 +1420,13 @@ Exceeds $10,000,000
 
 20%
 
-Provided that the amount of estate duty payable on an estate at the rate applicable thereto under the above scale of rates of duty shall, where necessary, be reduced so as not to exceed the highest amount of duty which would be payable at the next lower rate, with the addition of the amount by which the value of the estate exceeds the value on which the highest amount of duty would be so payable at the lower rate.
+Provided that the amount of estate duty payable on an estate at the rate applicable thereto under the above scale of rates of duty shall, where necessary, be reduced so as not to exceed the highest amount of duty which would be payable at the next lower rate, with the addition of the amount by which the value of the estate exceeds the value on which the highest amount of duty be so payable at the lower rate.
 
 THIRD SCHEDULE
 
 Section 6(1)(c).
 
-Rates of estate duty in the case of persons dying on or after 2nd April 1940 and before 4th July 1941
+Rates of Estate Duty in the Case of Persons Dying on or After 2ND April 1940 and Before 4TH July 1941
 
 Where the principal value of the estate
 
@@ -1504,13 +1564,13 @@ Exceeds $20,000,000
 
 60%
 
-Provided that the amount of estate duty payable on an estate at the rate applicable thereto under the above scale of rates of duty shall, where necessary, be reduced so as not to exceed the highest amount of duty which would be payable at the next lower rate, with the addition of the amount by which the value of the estate exceeds the value on which the highest amount of duty would be so payable at the lower rate.
+Provided that the amount of estate duty payable on an estate at the rate applicable thereto under the above scale of rates of duty shall, where necessary, be reduced so as not to exceed the highest amount of duty which would be payable at the next lower rate, with the addition of the amount by which the value of the estate exceeds the value on which the highest amount of duty be so payable at the lower rate.
 
 FOURTH SCHEDULE
 
 Section 6(1)(d).
 
-Rates of remission of estate duty in the case of persons dying on or after 4th July 1941 and before 9th November 1955
+Rates of Remission of Estate Duty in the Case of Persons Dying on or After 4TH July 1941 and Before 9TH November 1955
 
 Where the principal value of the estate
 
@@ -1630,7 +1690,7 @@ FIFTH SCHEDULE
 
 Section 6(1)
 
-Rates of estate duty in the case of persons dying on or after 9th November 1955 and before 1st April 1974, and —
+Rates of Estate Duty in the Case of Persons Dying on or After 9TH November 1955 and Before 1ST April 1974, and —
 
 (a) IF DEATH OCCURRED BEFORE 1ST JANUARY 1965, WHEREVER DOMICILED
 
@@ -1728,7 +1788,7 @@ For every dollar of the next
 
 55%
 
-For every dollar exceeding
+For every dollar of the next
 
 4,000,000
 
@@ -1740,7 +1800,7 @@ SIXTH SCHEDULE
 
 Section 6(1)(f).
 
-Rates of estate duty in the case of persons dying on or after 1st January 1965 and before 9th August 1965, where the deceased was domiciled in Singapore or the States of Malaya, Sabah or Sarawak
+Rates of Estate Duty in the Case of Persons Dying on or After 1ST January 1965 and Before 9TH August 1965, Where the Deceased Was Domiciled in Singapore or the States of Malaya, Sabah or Sarawak
 
 Principal value of the estate
 
@@ -1820,7 +1880,7 @@ For every dollar of the next
 
 45%
 
-For every dollar exceeding
+For every dollar of the next
 
 2,000,000
 
@@ -1830,7 +1890,7 @@ SEVENTH SCHEDULE
 
 Section 6(1)(h).
 
-Rates of estate duty in the case of persons dying on or after 1st April 1974 and before 1st April 1977
+Rates of Estate Duty in the Case of Persons Dying on or After 1ST April 1974 and Before 1ST April 1977
 
 Principal value of the estate
 
@@ -1936,7 +1996,7 @@ EIGHTH SCHEDULE
 
 Section 6(1)(i).
 
-Rates of estate duty in the case of persons dying on or after 1st April 1977 and before 1st April 1979
+Rates of Estate Duty in the Case of Persons Dying on or After 1ST April 1977 and Before 1ST April 1979
 
 Principal value of the estate
 
@@ -2042,7 +2102,7 @@ NINTH SCHEDULE
 
 Section 6(1)(j).
 
-Rates of estate duty in the case of persons dying on or after 1st April 1979 and before 1st April 1984
+Rates of Estate Duty in the Case of Persons Dying on or After 1ST April 1979 and Before 1ST April 1984
 
 Principal value of the estate
 
@@ -2142,7 +2202,9 @@ TENTH SCHEDULE
 
 Section 6(1)(k).
 
-Rates of estate duty in the case of persons dying on or after 1st April 1984
+Part A
+
+Rates of Estate Duty in the Case of Persons Dying on or After 1ST April 1984 and Before 28TH February 1996
 
 Principal value of the estate
 
@@ -2162,41 +2224,55 @@ For every dollar exceeding
 
 10%
 
-[14/84]
+[Act 27/96 wef 06/09/1996]
+
+Part B
+
+Rates of Estate Duty in the Case of Persons Dying on or After 28TH February 1996
+
+Principal value of the estate
+
+Rate of duty
+
+For every dollar of the first
+
+12,000,000
+
+5%
+
+For every dollar exceeding
+
+12,000,000
+
+10%
+
+[Act 27/96 wef 06/09/1996]
 
 ELEVENTH SCHEDULE
 
 Sections 36(1)(3), (3), 47(1).
 
-Rates of interest
+Rates of Interest
 
 Period
 
 Rate of interest
 
-1.
-
-From the date of death to the date of payment of the estate duty or the expiration of 6 months from the date of death, whichever first occurs
+1. From the date of death to the date of payment of the estate duty or the expiration of 6 months from the date of death, whichever first occurs
 
 3% per year on the amount of the unpaid estate duty.
 
-2.
-
-If any part of the estate duty is not paid within 6 months from the date of death, from the expiration of those 6 months to the date of payment of that part of the estate duty or the expiration of 18 months from the date of death, whichever first occurs
+2. If any part of the estate duty is not paid within 6 months from the date of death, from the expiration of those 6 months to the date of payment of that part of the estate duty or the expiration of 18 months from the date of death, whichever first occurs
 
 6% per year on the amount of the unpaid estate duty.
 
-3.
-
-If any part of the estate duty is not paid within 18 months from the date of death, from the expiration of those 18 months to the date of payment of that part of the estate duty
+3. If any part of the estate duty is not paid within 18 months from the date of death, from the expiration of those 18 months to the date of payment of that part of the estate duty
 
 12% per year on the amount of the unpaid estate duty:
 
 Provided that the Commissioner shall, unless he is satisfied that there was no reasonable cause for the delay in payment, reduce the rate to 6% per year.
 
-4.
-
-Where the death occurred before 1st January 1965, from the date of death to the date of payment of the estate duty
+4. Where the death occurred before 1st January 1965, from the date of death to the date of payment of the estate duty
 
 4% per year on the amount of the unpaid estate duty.
 
@@ -2204,7 +2280,7 @@ TWELFTH SCHEDULE
 
 Section 7(2).
 
-Rates of remission of estate duty in the case of persons dying on or after 1st April 1974 and before 1st April 1977
+Rates of Remission of Estate Duty in the Case of Persons Dying on or After 1ST April 1974 and Before 1ST April 1977
 
 Principal value of the estate in excess of $50,000
 
@@ -2272,13 +2348,11 @@ THIRTEENTH SCHEDULE
 
 Section 7(3).
 
-Rates of remission of estate duty in the case of persons dying on or after 1st April 1977 and before 1st April 1984
+Rates of Remission of Estate Duty in the Case of Persons Dying on or After 1ST April 1977 and Before 1ST April 1984
 
 Principal value of the estate
 
 Rates of remission of the estate duty payable
-
-$
 
 For every dollar of the first
 
@@ -2354,7 +2428,9 @@ The Board of Legal Education.
 
 The Law Society of Singapore.
 
-[12/78]
+The National Heritage Board.
+
+The Nanyang Technological University.
 
 ## LEGISLATIVE HISTORY
 
@@ -2473,3 +2549,8 @@ This Legislative History is provided for the convenience of users of the Estate 
 ||Date of commencement|20 February 1987|
 |24.|**1985 Revised Edition—Estate Duty Act**|
 ||Date of operation|30 March 1987|
+|25.|**Act 27 of 1987—Estate Duty (Amendment) Act 1987**|
+||Date of First Reading|9 November 1987|
+|||(Bill No. 18/87 published on 11 November 1987)|
+||Date of Second and Third Readings|30 November 1987|
+||Date of commencement|18 December 1987|
