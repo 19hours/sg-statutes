@@ -384,10 +384,6 @@ Head of Administration and Specialist Division, Criminal Investigation Departmen
 
 Head of Support and Services Division, Criminal Investigation Department.
 
-Officer-in-Charge of the Traffic Investigation Branch
-
-Head of Investigations of the Traffic Investigation Branch
-
 Officer-in-Charge of the Land Divisions
 
 Commander of the Land Divisions.
@@ -427,6 +423,16 @@ Assistant Director CID (Intel), Criminal Investigation Department.
 Assistant Director CID (Support & Services), Criminal Investigation Department
 
 Assistant Director CID (Investigation Support & Services), Criminal Investigation Department.
+
+Head Investigations of the Traffic Investigation Branch
+
+Head of Investigation and Violation Reports, Traffic Police Department.
+
+Head of Administration, Traffic Police Department
+
+Head of Corporate Services, Traffic Police Department.
+
+[S 160/2004 wef 01/04/2004]
 
 ## LEGISLATIVE HISTORY
 
@@ -486,3 +492,5 @@ This Legislative History is provided for the convenience of users of the Departm
 ||Date of commencement|1 April 2000|
 |21.|**2001 Revised Edition—Departmental Titles (Alteration) Act**|
 ||Date of operation|31 July 2001|
+|22.|**G. N. No. S 160/2004—Departmental Titles (Alteration) Act (Amendment of Schedule) Notification 2004**|
+||Date of commencement|1 April 2004|
