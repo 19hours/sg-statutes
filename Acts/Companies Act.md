@@ -386,9 +386,11 @@
 
 - [155 Disqualification for persistent default in relation to delivery of documents to Registrar](#Disqualification-for-persistent-default-in-relation-to-delivery-of-documents-to-Registrar)
 
-- [156 Disclosure of interests in transactions, property, offices, etc.](#Disclosure-of-interests-in-transactions-property-offices-etc)
+- [156 Disclosure of interests in contracts, property, offices, etc.](#Disclosure-of-interests-in-contracts-property-offices-etc)
 
 - [157 As to the duty and liability of officers](#As-to-the-duty-and-liability-of-officers)
+
+- [157A Powers of directors](#Powers-of-directors)
 
 - [158 Disclosure of company information by certain directors](#Disclosure-of-company-information-by-certain-directors)
 
@@ -1466,6 +1468,10 @@ but does not include —
 [13/87]
 
 “prescribed” means prescribed under this Act or by the rules;
+
+“prescribed person” means a person, or a person within a class of persons, prescribed by the Minister;
+
+[12/2002 wef 13/01/2003]
 
 “principal register”, in relation to a company, means the register of members of the company kept in pursuance of section 190;
 
@@ -2567,39 +2573,25 @@ Powers
 
 (a) is undesirable;
 
-(b) is identical to that of any other company, corporation or business name; or
+(b) is identical to that of any other company, corporation or business name;
 
-(c) [Deleted by Act 12/2002 wef 13/01/2003]
+(c) so nearly resembles the name of another company, corporation or business name as to be likely to be mistaken for it; or
 
 (d) is a name of a kind that the Minister has directed the Registrar not to accept for registration.
 
-(2) Notwithstanding anything in this section and section 28 (other than section 28(4)), where the Registrar is satisfied that the company has been registered (whether through inadvertence or otherwise) by a name which —
+(2) Notwithstanding anything in this section and section 28, other than subsection (4) thereof, where the Registrar is satisfied that a company has been registered by a name (whether through inadvertence or otherwise and whether originally or by change of name) which —
 
-(a) is a name referred to in subsection (1)(a), (b) or (d); or
+(a) is identical to that of any other company or corporation; or
 
-(b) so nearly resembles the name of another company or corporation or a business name as to be likely to be mistaken for it,
+(b) so nearly resembles the name of another company or corporation as to be likely to be mistaken for it,
 
-the Registrar may direct the first-mentioned company to change its name, and the company shall comply with the direction within 6 weeks after the date of the direction or such longer period as the Registrar may allow, unless the direction is annulled by the Minister.
+the Registrar, may direct the first-mentioned company to change its name and the company shall comply with that direction within 6 weeks after the date of the direction or such longer period as the Registrar allows and if the company fails so to comply the company and its officers shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 and also to a default penalty.
 
-[12/2002 wef 13/01/2003]
+[15/84]
 
-(2A) Any person may apply, in writing, to the Registrar to give a direction to a company under subsection (2) on a ground referred to in that subsection; but the Registrar shall not consider any application to give a direction to a company on the ground referred to in subsection (2)(b) unless the Registrar receives the application within 12 months from the date of incorporation of the company.
+[13/87]
 
-[12/2002 wef 13/01/2003]
-
-(2B) If the company fails to comply with subsection (2), the company and its officers shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 and also to a default penalty.
-
-[12/2002 wef 13/01/2003]
-
-(2C) The Registrar may, if he is satisfied that the company to which the direction under subsection (2) was given had applied for registration under that name in bad faith, require the company to pay the Registrar such fees as may be prescribed by the Minister, and such fees shall be recoverable as a debt due to the Government.
-
-[12/2002 wef 13/01/2003]
-
-(2D) The Registrar may, by publication in theGazette, make such rules as he considers appropriate for the purposes of determining the matters referred to in subsections (1) and (2).
-
-[12/2002 wef 13/01/2003]
-
-(3) In this section and section 28, “business name” has the meaning assigned to that expression in the Business Registration Act [Cap. 32].
+(3) In subsection (1), “business name” has the meaning assigned to that expression in the Business Registration Act [Cap. 32].
 
 [15/84]
 
@@ -2607,13 +2599,13 @@ the Registrar may direct the first-mentioned company to change its name, and the
 
 [15/84]
 
-(5) A company aggrieved by the decision of the Registrar under subsection (2) or (2C) may within 30 days of the date of the decision appeal to the Minister whose decision shall be final.
+(5) A company aggrieved by the decision of the Registrar under subsection (2)may within 30 days of the date of the decision appeal to the Minister whose decision shall be final.
 
 [15/84]
 
 (6) The Minister shall cause a direction given by him under subsection (1) to be published in theGazette.
 
-(7) Subject to section 29, a limited company shall have either “Limited” or “Berhad” as part of and at the end of its name.
+(7) A limited company shall have either “Limited” or “Berhad” as part of and at the end of its name.
 
 (8) A private company shall have the word “Private” or “Sendirian” as part of its name, inserted immediately before the word “Limited” or “Berhad” or, in the case of an unlimited company, at the end of its name.
 
@@ -2633,7 +2625,7 @@ the Registrar may direct the first-mentioned company to change its name, and the
 
 (c) the name under which a foreign company proposes to be registered, either originally or on change of name.
 
-(11) A company shall not be registered under section 19(3) and the Registrar shall not approve the change of name of a company under section 28(2) unless the name which it is proposed to be registered or the proposed new name, as the case may be, has been reserved under subsection (12).
+(11) A company shall not be registered under section 19(1) and the Registrar shall not approve the change of name of a company under section 28(2) unless the name which it is proposed to be registered or the proposed new name, as the case may be, has been reserved under subsection (12).
 
 [15/84]
 
@@ -2649,7 +2641,7 @@ he shall reserve the proposed name for a period of two months from the date of t
 
 (13) If, at any time during a period for which a name is reserved, application is made to the Registrar for an extension of that period and the Registrar is satisfied as to the bona fides of the application, he may extend that period for a further period of two months.
 
-(14) During a period for which a name is reserved, no company (other than the intended company in respect of which the name is reserved) shall be registered under this Act, whether originally or on change of name, under the reserved name.
+(14) During a period for which a name is reserved, no company (other than the intended company in respect of which the name is reserved) shall be registered under this Act, whether originally or on change of name, under the reserved nameor under any other name that, in the opinion of the Registrar, so closely resembles the reserved name as to be likely to be mistaken for that name.
 
 [22/93]
 
@@ -2665,39 +2657,17 @@ he shall reserve the proposed name for a period of two months from the date of t
 
 28\.—(1) A company may by special resolution resolve that its name should be changed to a name by which the company could have been registered without contravention of section 27(1).
 
-(2) If the Registrar approves the name which the company has resolved should be its new name, he shall register the company under the new name and issue to the company a notice of incorporation of the company under the new name and, upon the issue of such notice, the change of name shall become effective.
+(2) If the Registrar approves the name which the company has resolved should be its new name he shall on payment of the prescribed fee issue a certificate of incorporation of the company under the new name and upon the issue of such certificate of incorporation the change of name shall become effective.
 
-[12/2002 wef 13/01/2003]
+(3) If the name of a company is (whether through inadvertence or otherwise and whether originally or by change of name) a name by which the company could not be registered without contravention of section 27(1), the company may by special resolution change its name to a name by which the company could be registered without contravention of that subsection and, if the Registrar so directs, shall so change it within 6 weeks after the date of the direction or such longer period as the Registrar allows unless the Minister by written notice annuls such direction, and if the company fails to comply with the direction it shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 and also to a default penalty.
 
-(3) If the name of a company is, whether through inadvertence or otherwise or whether originally or by a change of name —
-
-(a) a name by which the company could not be registered without contravention of section 27(1); or
-
-(b) a name that so nearly resembles the name of another company or corporation or a business name as to be likely to be mistaken for it,
-
-the company may by special resolution change its name to a name that is not a name referred to in paragraph (a) or (b) and, if the Registrar so directs, shall so change it within 6 weeks after the date of the direction or such longer period as the Registrar may allow, unless the direction is annulled by the Minister.
-
-[12/2002 wef 13/01/2003]
-
-(3A) Any person may apply in writing to the Registrar to give a direction to a company under subsection (3) on a ground referred to in that subsection; but the Registrar shall not consider any application to give a direction to a company on the ground referred to in subsection (3)(b) unless the Registrar receives the application within 12 months from the date of change of name of the company.
-
-[12/2002 wef 13/01/2003]
-
-(3B) If the company fails to comply with subsection (3), the company and its officers shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 and also to a default penalty.
-
-[12/2002 wef 13/01/2003]
-
-(3C) Subsections (2C) and (5) of section 27 shall, with the necessary modifications, apply in relation to a company directed under subsection (3) to change its name as they apply in relation to a company directed under section 27(2) to change its name.
-
-[12/2002 wef 13/01/2003]
+[15/84]
 
 (4) Where the name of a company incorporated pursuant to any corresponding previous written law has not been changed since 29th December 1967, the Registrar shall not, except with the approval of the Minister, exercise his power under subsection (3) to direct the company to change its name.
 
 [S 258/67]
 
-(5) Upon the application of a company and payment of the prescribed fee, the Registrar shall issue to the company a certificate, under his hand and seal, confirming the incorporation of the company under the new name.
-
-[12/2002 wef 13/01/2003]
+(5) Where, on 29th December 1967, a company which is a private company does not have the word “Private” or “Sendirian” as part of its name immediately before the word “Limited” or “Berhad” or in the case of an unlimited company at the end of its name, the company shall be deemed to have altered its name to include the word “Private” or “Sendirian” immediately before the word “Limited” or “Berhad” or in the case of an unlimited company at the end of its name and the Registrar shall as soon as practicable after that date alter the name of the company set forth in the memorandum accordingly and issue a new certificate of incorporation in the name of the company as so altered.
 
 (6) A change of name pursuant to this Act shall not affect the identity of the company or any rights or obligations of the company or render defective any legal proceedings by or against the company, and any legal proceedings that might have been continued or commenced by or against it by its former name may be continued or commenced by or against it by its new name.
 
@@ -4950,7 +4920,7 @@ for the transfer of listed securities
 
 (b) which are transferable by way of book-entry in the Depository Register and not by way of an instrument of transfer;
 
-“Depository” means the Central Depository (Pte) Limited or any other corporation approved by the Minister as a depository company or corporation for the purposes of this Act, which operates the Central Depository System for the holding and transfer of book-entry securities;
+“Depository” means the Central Depository (Pte) Limited or any other corporation approved by the Minister as a depository company or corporation for the purposes of this Act, which as a bare trustee operates the Central Depository System for the holding and transfer of book-entry securities;
 
 “Depository Register” means a register maintained by the Depository in respect of book-entry securities;
 
@@ -4964,13 +4934,13 @@ for the transfer of listed securities
 
 (c) establishes an account in its name with the Depository;
 
-“derivative instruments”, in relation to debentures, stocks and shares, includes warrants, transferable subscription rights, options to subscribe for stocks or shares, convertibles, depository receipts and such other instruments as the Minister may, by order, prescribe;
+“derivative instruments”, in relation to debentures, stocks and shares, includes warrants, transferable subscription rights, options to subscribe for stocks or shares, convertibles and such other instruments as the Minister may, by order, prescribe;
 
 “documents evidencing title” means —
 
 (a) in the case of stocks, shares, debentures or any derivative instruments related thereto of a company or debentures or any derivative instruments related thereto of the Government — the stock certificates, share certificates, debenture certificates or certificates representing the derivative instrument, as the case may be; and
 
-(b) in the case of stocks, shares, debentures or any derivative instruments related thereto of a foreign company or debentures of any derivative instruments related thereto of a foreign government or of an international body , or any other securities — such documents or other evidence of title thereto, as the Depository may require;
+(b) in the case of stocks, shares, debentures or any derivative instruments related thereto of a foreign company or debentures of any derivative instruments related thereto of a foreign government or of an international body — such documents or other evidence of title thereto, as the Depository may require;
 
 “international body” means the Asian Development Bank, the International Bank for Reconstruction and Development, the International Monetary Fund, the European Bank for Reconstruction and Development and such other international bodies as the Minister may, by order, prescribe;
 
@@ -4980,9 +4950,7 @@ for the transfer of listed securities
 
 “rules” means the rules made by the Depository in relation to the operation of the Central Depository System and includes the Central Depository Rules and Procedures made by the Depository pursuant to its Articles of Association (as the same may be amended from time to time) and any rule with regard to payment of fees to the Depository;
 
-“securities” has the same meaning as in section 2(1) of the Securities and Futures Act (Cap. 289), and includes derivative instruments;
-
-[5/2004 wef 01/04/2004]
+“securities”, in relation to the Depository, means debentures, stocks or shares, issued by a government, a body corporate or unincorporate, or international body or any right in respect of any such debentures, stocks or shares or any derivative instrument each of which is listed on the Securities Exchange and which has been designated by the Securities Exchange as eligible for deposit with the depository and for clearance and book-entry settlement of transactions on the Securities Exchange;
 
 “Securities Exchange” means the Singapore Exchange Securities Trading Limited;
 
@@ -5924,21 +5892,21 @@ Where a disqualified person is sentenced to imprisonment, the disqualifications 
 
 [15/84]
 
-### Disclosure of interests in transactions, property, offices, etc.
+### Disclosure of interests in contracts, property, offices, etc.
 
-156\.—(1) Subject to this section, every director of a company who is in any way, whether directly or indirectly, interested in a transaction or proposed transaction with the company shall as soon as practicable after the relevant facts have come to his knowledge declare the nature of his interest at a meeting of the directors of the company.
+156\.—(1) Subject to this section, every director of a company who is in any way, whether directly or indirectly, interested in a contract or proposed contract with the company shall as soon as practicable after the relevant facts have come to his knowledge declare the nature of his interest at a meeting of the directors of the company.
 
-(2) The requirements of subsection (1) shall not apply in any case where the interest of the director consists only of being a member or creditor of a corporation which is interested in a transaction or proposed transaction with the first-mentioned company if the interest of the director may properly be regarded as not being a material interest.
+(2) The requirements of subsection (1) shall not apply in any case where the interest of the director consists only of being a member or creditor of a corporation which is interested in a contract or proposed contract with the first-mentioned company if the interest of the director may properly be regarded as not being a material interest.
 
-(3) A director of a company shall not be deemed to be interested or to have been at any time interested in any transaction or proposed transaction by reason only —
+(3) A director of a company shall not be deemed to be interested or to have been at any time interested in any contract or proposed contract by reason only —
 
-(a) in a case where the transaction or proposed transaction relates to any loan to the company — that he has guaranteed or joined in guaranteeing the repayment of the loan or any part of the loan; or
+(a) in a case where the contract or proposed contract relates to any loan to the company — that he has guaranteed or joined in guaranteeing the repayment of the loan or any part of the loan; or
 
-(b) in a case where the transaction or proposed transaction has been or will be made with or for the benefit of or on behalf of a corporation which by virtue of section 6 is deemed to be related to the company — that he is a director of that corporation,
+(b) in a case where the contract or proposed contract has been or will be made with or for the benefit of or on behalf of a corporation which by virtue of section 6 is deemed to be related to the company — that he is a director of that corporation,
 
 and this subsection shall have effect not only for the purposes of this Act but also for the purposes of any other law, but shall not affect the operation of any provision in the articles of the company.
 
-(4) For the purposes of subsection (1), a general notice given to the directors of a company by a director to the effect that he is an officer or member of a specified corporation or a member of a specified firm and is to be regarded as interested in any transaction which may, after the date of the notice, be made with that corporation or firm shall be deemed to be a sufficient declaration of interest in relation to any transaction so made if it specifies the nature and extent of his interest in the specified corporation or firm and his interest is not different in nature or greater in extent than the nature and extent so specified in the general notice at the time any transaction is so made, but no such notice shall be of effect unless either it is given at a meeting of the directors or the director takes reasonable steps to ensure that it is brought up and read at the next meeting of the directors after it is given.
+(4) For the purposes of subsection (1), a general notice given to the directors of a company by a director to the effect that he is an officer or member of a specified corporation or a member of a specified firm and is to be regarded as interested in any contract which may, after the date of the notice, be made with that corporation or firm shall be deemed to be a sufficient declaration of interest in relation to any contract so made if it specifies the nature and extent of his interest in the specified corporation or firm and his interest is not different in nature or greater in extent than the nature and extent so specified in the general notice at the time any contract is so made, but no such notice shall be of effect unless either it is given at a meeting of the directors or the director takes reasonable steps to ensure that it is brought up and read at the next meeting of the directors after it is given.
 
 (5) Every director of a company who holds any office or possesses any property whereby whether directly or indirectly duties or interests might be created in conflict with his duties or interests as director shall declare at a meeting of the directors of the company the fact and the nature, character and extent of the conflict.
 
@@ -5952,11 +5920,11 @@ as the case requires.
 
 (7) The secretary of the company shall record every declaration under this section in the minutes of the meeting at which it was made.
 
-(8) For the purposes of this section, an interest of a member of a director’s family shall be treated as an interest of the director and the words “member of a director’s family” shall include his spouse, son, adopted son, step-son, daughter, adopted daughter and step-daughter.
+(8) For the purposes of this section, an interest of a member of a director’s family shall be treated as an interest of the director .
 
 [10/74]
 
-(9) Subject to subsection (3), this section shall be in addition to and not in derogation of the operation of any rule of law or any provision in the articles restricting a director from having any interest in transactions with the company or from holding offices or possessing properties involving duties or interests in conflict with his duties or interests as a director.
+(9) Subject to subsection (3), this section shall be in addition to and not in derogation of the operation of any rule of law or any provision in the articles restricting a director from having any interest in contracts with the company or from holding offices or possessing properties involving duties or interests in conflict with his duties or interests as a director.
 
 (10) Any director of a company who fails to comply with any of the provisions of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year.
 
@@ -5991,6 +5959,14 @@ as the case requires.
 [Aust.s.124.]
 
 [62/70]
+
+### Powers of directors
+
+157A\.—(1) The business of a company shall be managed by or under the direction of the directors.
+
+(2) The directors may exercise all the powers of a company except any power that this Act or the memorandum and articles of the company require the company to exercise in general meeting.
+
+[8/2003 wef 15/05/2003]
 
 ### Disclosure of company information by certain directors
 
@@ -8128,19 +8104,13 @@ requiring particulars of all emoluments paid to or receivable by the auditor of 
 
 (2) An auditor shall, in a report under this section, state —
 
-(a) whether the accounts and, if the company is a holding company for which consolidated accounts are prepared, the consolidated accounts are in his opinion —
+(a) whether the accounts and, if the company is a holding company for which consolidated accounts are prepared, the consolidated accounts are in his opinion properly drawn up —
 
-(i) in compliance with the requirements of the Accounting Standards and give a true and fair view of the matters required by section 201 to be dealt with in the accounts and, as the case may be, the consolidated accounts; and
-
-[Act 12/2002 wef 01/01/2003]
+(i) so as to give a true and fair view of the matters required by section 201 to be dealt with in the accounts and, if there are consolidated accounts, in the consolidated accounts; and
 
 (ii) in accordance with this Act so as in the case of a balance-sheet to give a true and fair view of the company’s affairs and in the case of a profit and loss account to give a true and fair view of the company’s profit or loss;
 
-(aa) if the accounts or consolidated accounts do not comply with any requirement of the Accounting Standards and the approval of the Registrar under section 201(14) to such non-compliance has not been obtained, whether such non-compliance is, in the opinion of the auditor, necessary for the accounts or consolidated accounts to give a true and fair view of any matter required by section 201 to be dealt with in them;
-
-[Act 12/2002 wef 01/01/2003]
-
-(b) whether the accounting and other records required by this Act to be kept by the company and, if it is a holding company, by the subsidiaries other than those of which he has not acted as auditor have been, in his opinion, properly kept in accordance with this Act;
+(b) whether the accounting and other records and the registers required by this Act to be kept by the company and, if it is a holding company, by the subsidiaries other than those of which he has not acted as auditor have been, in his opinion, properly kept in accordance with this Act;
 
 (c) in the case of consolidated accounts —
 
@@ -8154,13 +8124,13 @@ requiring particulars of all emoluments paid to or receivable by the auditor of 
 
 (d) any defect or irregularity in the accounts or consolidated accounts and any matter not set out in the accounts or consolidated accounts without regard to which a true and fair view of the matters dealt with by the accounts or consolidated accounts would not be obtained; and
 
-(e) if he is not satisfied as to any matter referred to in paragraph (a), (aa), (b) or (c) , his reasons for not being so satisfied.
+(e) if he is not satisfied as to any matter referred to in paragraph (a), (b) or (c) , his reasons for not being so satisfied.
 
 (3) It is the duty of an auditor of a company to form an opinion as to each of the following matters:
 
 (a) whether he has obtained all the information and explanations that he required;
 
-(b) whether proper accounting and other records, excluding registers, have been kept by the company as required by this Act;
+(b) whether proper accounting and other records, including registers, have been kept by the company as required by this Act;
 
 (c) whether the returns received from branch offices of the company are adequate;
 
@@ -11018,9 +10988,9 @@ Subdivision (1) — General
 
 320\.—(1) Where a company is being wound up, all books and papers of the company and of the liquidator that are relevant to the affairs of the company at or subsequent to the commencement of the winding up of the company shall, as between the contributories of the company, be prima facie evidence of the truth of all matters purporting to be therein recorded.
 
-(2) When a company has been wound up the liquidator shall retain the books and papers referred to in subsection (1) for a period of 5 yearsfrom the date of dissolution of the company and at the expiration of that period may destroy them.
+(2) When a company has been wound up the liquidator shall retain the books and papers referred to in subsection (1) for a period of 2 years from the date of dissolution of the company and at the expiration of that period may destroy them.
 
-(3) Notwithstanding subsection (2), when a company has been wound up the books and papers referred to in subsection (1) may be destroyed within a period of 5 yearsafter the dissolution of the company —
+(3) Notwithstanding subsection (2), when a company has been wound up the books and papers referred to in subsection (1) may be destroyed within a period of 2 years after the dissolution of the company —
 
 (a) in the case of a winding up by the Court, in accordance with the directions of the Court;
 
@@ -11123,6 +11093,8 @@ he shall forthwith pay those moneys to the Official Receiver to be placed to the
 (4) The examination so taken shall be returned or reported to the Court in such manner as the Court directs.
 
 [U.K.s.348.]
+
+[Aust. s. 290.]
 
 Subdivision (2) — Proof and ranking of claims
 
@@ -12942,8 +12914,6 @@ If the Registrar decides to supply the information by means other than written o
 
 $0.80 per prescribed particular of a company.
 
-[S 29/2001 wef 22/01/2001]
-
 [20030113]
 
 [S 61/97 wef 15/02/1997]
@@ -14063,3 +14033,8 @@ This Legislative History is provided for the convenience of users of the Compani
 |||(Bill No. 3/2003 published on 1 March 2003)|
 ||Date of Second and Third Readings|24 April 2003|
 ||Date of commencement|15 May 2003|
+|68.|**Act 9 of 2003—Statutes (Miscellaneous Amendments) Act 2003**|
+||Date of First Reading|20 March 2003|
+|||(Bill No. 7/2003 published on 21 March 2003)|
+||Date of Second and Third Readings|24 April 2003|
+||Date of commencement|16 May 2003|
