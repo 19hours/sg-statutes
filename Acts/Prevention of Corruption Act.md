@@ -36,11 +36,13 @@
 
 - [15 Powers of arrest](#Powers-of-arrest)
 
+- [15A Provisions as to bail or bond](#Provisions-as-to-bail-or-bond)
+
 - [16 Powers of investigation](#Powers-of-investigation)
 
 - [17 Special powers of investigation](#Special-powers-of-investigation)
 
-- [18 Special powers of investigation in non-seizable offences](#Special-powers-of-investigation-in-non-seizable-offences)
+- [18 Powers of investigation authorised by Public Prosecutor](#Powers-of-investigation-authorised-by-Public-Prosecutor)
 
 - [19 Public Prosecutor’s power to order inspection of bankers’ books](#Public-Prosecutor’s-power-to-order-inspection-of-bankers’-books)
 
@@ -57,6 +59,8 @@
 - [25 Obstruction of search](#Obstruction-of-search)
 
 - [26 Legal obligation to give information](#Legal-obligation-to-give-information)
+
+- [26A False statements, information, etc](#False-statements-information-etc)
 
 - [27 Abetment of offences](#Abetment-of-offences)
 
@@ -160,7 +164,9 @@ any gratification as an inducement to or reward for, or otherwise on account of 
 
 (ii) any member, officer or servant of a public body doing or forbearing to do anything in respect of any matter or transaction whatsoever, actual or proposed, in which such public body is concerned,
 
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 5 years or to both.
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 5 years or to both.
+
+[Act 29 of 1989 wef 14/08/1989]
 
 ### Punishment for corrupt transactions with agents
 
@@ -172,11 +178,15 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (c) any person knowingly gives to an agent, or if an agent knowingly uses with intent to deceive his principal, any receipt, account or other document in respect of which the principal is interested, and which contains any statement which is false or erroneous or defective in any material particular, and which to his knowledge is intended to mislead the principal,
 
-he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 5 years or to both.
+he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 5 years or to both.
+
+[Act 29 of 1989 wef 14/08/1989]
 
 ### Increase of maximum penalty in certain cases
 
-7\. A person convicted of an offence under section 5 or 6 shall, where the matter or transaction in relation to which the offence was committed was a contract or a proposal for a contract with the Government or any department thereof or with any public body or a subcontract to execute any work comprised in such a contract, be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 7 years or to both.
+7\. A person convicted of an offence under section 5 or 6 shall, where the matter or transaction in relation to which the offence was committed was a contract or a proposal for a contract with the Government or any department thereof or with any public body or a subcontract to execute any work comprised in such a contract, be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 7 years or to both.
+
+[Act 29 of 1989 wef 14/08/1989]
 
 ### Presumption of corruption in certain cases
 
@@ -196,7 +206,9 @@ he shall be guilty of an offence and shall be liable on conviction to a fine not
 
 (b) who solicits or accepts any gratification as an inducement or a reward for his withdrawing a tender made by him for that contract,
 
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 7 years or to both.
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 7 years or to both.
+
+[Act 29 of 1989 wef 14/08/1989]
 
 ### Bribery of Member of Parliament
 
@@ -206,7 +218,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (b) who being a Member of Parliament solicits or accepts any gratification as an inducement or a reward for his doing or forbearing to do any act in his capacity as such Member,
 
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 7 years or to both.
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 7 years or to both.
+
+[Act 29 of 1989 wef 14/08/1989]
 
 ### Bribery of member of public body
 
@@ -222,7 +236,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (b) who, being a member of a public body, solicits or accepts any gratification as an inducement or a reward for any such act, or any such abstaining, as is referred to in paragraph (a)(i), (ii) and (iii),
 
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 7 years or to both.
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 7 years or to both.
+
+[Act 29 of 1989 wef 14/08/1989]
 
 ### When penalty to be imposed in addition to other punishment
 
@@ -248,9 +264,21 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (3) Every person so arrested shall be taken to the Corrupt Practices Investigation Bureau or to a police station.
 
+### Provisions as to bail or bond
+
+15A\.—(1) A person who has been arrested by the Director or any special investigator may be released on bail or on his own bond granted by the Director or any special investigator or any police officer.
+
+(2) The provisions of Chapters XXXV and XXXVI of the Criminal Procedure Code (Cap. 68) shall apply to any bail or bond granted under this section; and for this purpose —
+
+(a) any reference to “officer”, “police officer” or “police officer not below the rank of sergeant” shall be read to include the Director or any special investigator;
+
+(b) the reference to the Commissioner of Police in section 351 of the Criminal Procedure Code shall be read to include the Director.
+
+[Act 29 of 1989 wef 14/08/1989]
+
 ### Powers of investigation
 
-16\. In any case relating to the commission —
+16\.—(1) In any case relating to the commission —
 
 (a) of an offence under section 165 or under sections 213 to 215 of the Penal Code [Cap. 224], or of any conspiracy to commit, or of any attempt to commit, or of any abetment of such an offence;
 
@@ -258,11 +286,17 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (c) of any seizable offence under any written law which may be disclosed in the course of an investigation under this Act,
 
-the Director or a special investigator may, without the order of the Public Prosecutor, exercise all or any of the special powers in relation to police investigations into a seizable offence given by the Criminal Procedure Code [Cap. 68]:
+the Director or a special investigator may, without the order of the Public Prosecutor, exercise all or any of the powers in relation to police investigations into any offence given by the Criminal Procedure Code [Cap. 68]:
 
 Provided that an investigation into an offence under the Penal Code [Cap. 224] shall be deemed to be a police investigation to which section 122 of the Criminal Procedure Code shall apply in the same manner and to the same extent as if the Director or the special investigator concerned were a police officer.
 
 [27/72; 25/81]
+
+[Act 29 of 1989 wef 14/08/1989]
+
+(2) For the purposes of sections 58(1) and 122(5) of the Criminal Procedure Code (Cap. 68), the Director or a special investigator shall be deemed to be an officer not below the rank of inspector of police.
+
+[Act 29 of 1989 wef 14/08/1989]
 
 ### Special powers of investigation
 
@@ -272,11 +306,11 @@ Provided that an investigation into an offence under the Penal Code [Cap. 224] s
 
 (2) Any person who fails to disclose such information or to produce such accounts or documents or articles to the person so authorised shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding one year or to both.
 
-### Special powers of investigation in non-seizable offences
+### Powers of investigation authorised by Public Prosecutor
 
-18\. The Public Prosecutor may by order authorise the Director or a special investigator to exercise, in the case of any non-seizable offence, all or any of the special powers in relation to police investigations contained in Chapter XIII of the Criminal Procedure Code.
+18\. The Public Prosecutor may by order authorise the Director or a special investigator to exercise, in the case of any offence under any written law, all or any of the powers in relation to police investigations given by the Criminal Procedure Code (Cap. 68).
 
-[27/72; 25/81]
+[Act 29 of 1989 wef 14/08/1989]
 
 ### Public Prosecutor’s power to order inspection of bankers’ books
 
@@ -296,7 +330,9 @@ Provided that an investigation into an offence under the Penal Code [Cap. 224] s
 
 (a) require that person to furnish a sworn statement in writing enumerating all movable or immovable property belonging to or possessed by that person and by the spouse, sons and daughters of that person, and specifying the date on which each of the properties enumerated was acquired whether by way of purchase, gift, bequest, inheritance or otherwise;
 
-(b) require that person to furnish a sworn statement in writing of any money or other property sent out of Singapore by him during such period as may be specified in the notice;
+(b) require that person to furnish a sworn statement in writing of any money or other property sent out of Singapore by him, his spouse, sons and daughters during such period as may be specified in the notice;
+
+[Act 29 of 1989 wef 14/08/1989]
 
 (c) require any other person to furnish a sworn statement in writing enumerating all movable or immovable property belonging to or possessed by that person where the Public Prosecutor has reasonable grounds to believe that the information can assist the investigation;
 
@@ -306,7 +342,9 @@ Provided that an investigation into an offence under the Penal Code [Cap. 224] s
 
 (f) require the manager of any bank to give copies of the accounts of that person or of the spouse or a son or daughter of that person at the bank.
 
-(2) Every person to whom a notice is sent by the Public Prosecutor under subsection (1) shall, notwithstanding the provisions of any written law or any oath of secrecy to the contrary, comply with the terms of that notice within such time as may be specified therein and any person who wilfully neglects or fails so to comply shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding one year or to both.
+(2) Every person to whom a notice is sent by the Public Prosecutor under subsection (1) shall, notwithstanding the provisions of any written law or any oath of secrecy to the contrary, comply with the terms of that notice within such time as may be specified therein and any person who wilfully neglects or fails so to comply shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding one year or to both.
+
+[Act 29 of 1989 wef 14/08/1989]
 
 ### Powers of search and seizure
 
@@ -354,15 +392,29 @@ and the special investigator or police officer has reasonable grounds for believ
 
 (d) refuses or neglects to give any information which may reasonably be required of him and which he has it in his power to give,
 
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding one year or to both.
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding one year or to both.
 
 [25/81]
+
+[Act 29 of 1989 wef 14/08/1989]
 
 ### Legal obligation to give information
 
 26\. Every person required by the Director or any officer to give any information on any subject which it is the duty of the Director or that officer to inquire into under this Act and which it is in his power to give, shall be legally bound to give that information.
 
 [25/81]
+
+### False statements, information, etc
+
+26A\. Any person who knowingly —
+
+(a) gives or causes to be given any false or misleading information relating to the commission of any offence under this Act or under section 165, 213, 214 or 215 of the Penal Code (Cap. 224);
+
+(b) gives or causes to be given to the Director or a special investigator any other false or misleading information,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding one year or to both.
+
+[Act 29 of 1989 wef 14/08/1989]
 
 ### Abetment of offences
 
@@ -386,7 +438,9 @@ shall be deemed to have committed the offence and shall be liable on conviction 
 
 30\.—(1) Every offence under this Act shall be deemed to be a seizable offence for the purposes of the Criminal Procedure Code [Cap. 68].
 
-(2) A public officer to whom any gratification is corruptly given or offered shall arrest the person who gives or offers the gratification to him and make over the person so arrested to the nearest police station and if he fails to do so without reasonable excuse he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 or to imprisonment for a term not exceeding 6 months or to both.
+(2) A public officer to whom any gratification is corruptly given or offered shall arrest the person who gives or offers the gratification to him and make over the person so arrested to the nearest police station and if he fails to do so without reasonable excuse he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[Act 29 of 1989 wef 14/08/1989]
 
 ### Prosecutions to be instituted with consent of Public Prosecutor
 
@@ -460,3 +514,8 @@ This Legislative History is provided for the convenience of users of the Prevent
 ||Date of commencement|29 January 1982|
 |8.|**1985 Revised Edition—Prevention of Corruption Act**|
 ||Date of operation|30 March 1987|
+|9.|**Act 29 of 1989—Prevention of Corruption (Amendment) Act 1989**|
+||Date of First Reading|29 May 1989|
+|||(Bill No. 30/1989 published on 31 May 1989)|
+||Date of Second and Third Readings|11 July 1989|
+||Date of commencement|14 August 1989|
