@@ -410,6 +410,8 @@ MEMBER ORGANISATIONS
 
 24. Perkumpulan Seni (Arts Group)
 
+24A. Qigong Shi Ba Shi Association (Singapore)
+
 25. Radio Modellers Singapore
 
 26. St. John Ambulance
@@ -418,7 +420,7 @@ MEMBER ORGANISATIONS
 
 28. Singapore Amateur Cycling Association
 
-29. Singapore Amateur Swimming Association
+29.Deleted by S 14/2005, wef 07/01/2005.
 
 30. Singapore Arts Federation
 
@@ -426,7 +428,7 @@ MEMBER ORGANISATIONS
 
 32. Singapore Badminton Association
 
-33. Singapore Ballet Academy
+33.Deleted by S 14/2005, wef 07/01/2005.
 
 34. Singapore Bodybuilders Federation
 
@@ -440,14 +442,11 @@ MEMBER ORGANISATIONS
 
 39. Singapore Council of Women’s Organisations
 
+39A. Singapore Dragon Boat Association
+
 40. Singapore Floorball Association
 
-41. Singapore Gasing Federation
-
-
-
-
-(Federasi Gasing Singapura)
+41.Deleted by S 14/2005, wef 07/01/2005.
 
 42. Singapore Girl Guides Association
 
@@ -464,7 +463,7 @@ MEMBER ORGANISATIONS
 
 46. Singapore Karate-Do Federation
 
-47. Singapore Lawn Tennis Association
+47.Deleted by S 14/2005, wef 07/01/2005.
 
 48. Singapore Malay Teachers’ Union
 
@@ -488,7 +487,7 @@ MEMBER ORGANISATIONS
 
 53. Singapore Numismatic Association
 
-54. Singapore Petanque And Sports Boules Federation
+54.Deleted by S 14/2005, wef 07/01/2005.
 
 55. Singapore Philatelic Society
 
@@ -517,6 +516,8 @@ MEMBER ORGANISATIONS
 
 65. Singapore Stamp Club
 
+65A. Singapore Swimming Association
+
 66. Singapore Table Tennis Association
 
 67. Singapore Taekwondo Federation
@@ -525,6 +526,8 @@ MEMBER ORGANISATIONS
 
 69. Singapore Teachers’ Union
 
+69A. Singapore Tennis Association
+
 70. Singapore Weiqi Association
 
 71. Singapore Xiangqi General Association
@@ -532,6 +535,8 @@ MEMBER ORGANISATIONS
 71A. Singapore Youth Flying Club
 
 72. Society of Chinese Artists
+
+72A. Sports Boules Singapore
 
 73. Sriwana
 
@@ -558,7 +563,11 @@ MEMBER ORGANISATIONS
 
 82.Deleted by S 680/2002, wef 30/12/2002.
 
+[S 14/2005 wef 07/01/2005]
+
 [S 680/2002 wef 30/12/2002]
+
+[S 14/2005 wef 07/01/2005]
 
 SECOND SCHEDULE
 
@@ -705,6 +714,8 @@ This Legislative History is provided for the convenience of users of the People�
 |||(Bill No. 43/2004 published on 22 September 2004)|
 ||Date of Second and Third Readings|19 October 2004|
 ||Date of commencement|15 December 2004|
+|52.|**G.N. No. S 14/2005—People’s Association Act (Amendment of First Schedule) Notification 2005**|
+||Date of commencement|7 January 2005|
 ## COMPARATIVE TABLE
 
 People’s Association Act
