@@ -46,6 +46,8 @@
 
 - [15 Law of arbitration other than Model Law](#Law-of-arbitration-other-than-Model-Law)
 
+- [15A Application of rules of arbitration](#Application-of-rules-of-arbitration)
+
 - [16 Appointment of conciliator](#Appointment-of-conciliator)
 
 - [17 Power of arbitrator to act as conciliator](#Power-of-arbitrator-to-act-as-conciliator)
@@ -138,15 +140,9 @@ INTERNATIONAL COMMERCIAL ARBITRATION
 
 “appointing authority” means the authority designated under section 8(2) or (3);
 
-[38/2001 wef 01/11/2001]
-
 “arbitration agreement” means an agreement in writing referred to in Article 7 of the Model Law and includes an agreement deemed or constituted under subsection (3) or (4);
 
-[38/2001 wef 01/11/2001]
-
 “award” means a decision of the arbitral tribunal on the substance of the dispute and includes any interim, interlocutory or partial award but excludes any orders or directions made under section 12;
-
-[38/2001 wef 01/11/2001]
 
 “Model Law” means the UNCITRAL Model Law on International Commercial Arbitration adopted by the United Nations Commission on International Trade Law on 21st June 1985, the text in English of which is set out in the First Schedule;
 
@@ -156,11 +152,7 @@ INTERNATIONAL COMMERCIAL ARBITRATION
 
 (3) Where in any arbitral or legal proceedings, a party asserts the existence of an arbitration agreement in a pleading, statement of case or any other document in circumstances in which the assertion calls for a reply and the assertion is not denied, there shall be deemed to be an effective arbitration agreement as between the parties to the proceedings.
 
-[38/2001 wef 01/11/2001]
-
 (4) A reference in a bill of lading to a charterparty or some other document containing an arbitration clause shall constitute an arbitration agreement if the reference is such as to make that clause part of the bill of lading.
-
-[38/2001 wef 01/11/2001]
 
 ### Model Law to have force of law
 
@@ -212,25 +204,17 @@ relating to the Model Law.
 
 6\.—(1) Notwithstanding Article 8 of the Model Law, where any party to an arbitration agreement to which this Act applies institutes any proceedings in any court against any other party to the agreement in respect of any matter which is the subject of the agreement, any party to the agreement may, at any time after appearance and before delivering any pleading or taking any other step in the proceedings, apply to that court to stay the proceedings so far as the proceedings relate to that matter.
 
-[38/2001 wef 01/11/2001]
-
 (2) The court to which an application has been made in accordance with subsection (1) shall make an order, upon such terms or conditions as it may think fit, staying the proceedings so far as the proceedings relate to the matter, unless it is satisfied that the arbitration agreement is null and void, inoperative or incapable of being performed.
-
-[38/2001 wef 01/11/2001]
 
 (3) Where a court makes an order under subsection (2), the court may, for the purpose of preserving the rights of parties, make such interim or supplementary orders as it may think fit in relation to any property which is the subject of the dispute to which the order under that subsection relates.
 
 (4) Where no party to the proceedings has taken any further step in the proceedings for a period of not less than 2 years after an order staying the proceedings has been made, the court may, on its own motion, make an order discontinuing the proceedings without prejudice to the right of any of the parties to apply for the discontinued proceedings to be reinstated.
-
-[38/2001 wef 01/11/2001]
 
 (5) For the purposes of this section and sections 7 and 11A —
 
 (a) a reference to a party shall include a reference to any person claiming through or under such party;
 
 (b) “court” means the High Court, District Court, Magistrate’s Court or any other court in which proceedings are instituted.
-
-[38/2001 wef 01/11/2001]
 
 ### Court’s powers on stay of proceedings
 
@@ -250,11 +234,7 @@ relating to the Model Law.
 
 (2) The Chairman of the Singapore International Arbitration Centre shall be taken to have been specified as the authority competent to perform the functions under Article 11(3) and (4) of the Model Law.
 
-[38/2001 wef 01/11/2001]
-
 (3) The Chief Justice may, if he thinks fit, by notification published in theGazette, appoint any other person to exercise the powers of the Chairman of the Singapore International Arbitration Centre under subsection (2).
-
-[38/2001 wef 01/11/2001]
 
 ### Application of Limitation Act
 
@@ -270,8 +250,6 @@ the period between the commencement of the arbitration and the date of the order
 
 (3) Notwithstanding any term in an arbitration agreement to the effect that no cause of action shall accrue in respect of any matter required by the agreement to be referred until an award is made under the agreement, the cause of action shall, for the purpose of the Limitation Act, be deemed to have accrued in respect of any such matter at the time when it would have accrued but for that term in the agreement.
 
-[38/2001 wef 01/11/2001]
-
 ### Number of arbitrators for purposes of Article 10 (2) of Model Law
 
 9\. Notwithstanding Article 10(2) of the Model Law, if the number of arbitrators is not determined by the parties, there shall be a single arbitrator.
@@ -281,8 +259,6 @@ the period between the commencement of the arbitration and the date of the order
 9A\.—(1) Notwithstanding Article 11(3) of the Model Law, in an arbitration with 3 arbitrators, each party shall appoint one arbitrator, and the parties shall by agreement appoint the third arbitrator.
 
 (2) Where the parties fail to agree on the appointment of the third arbitrator within 30 days of the receipt of the first request by either party to do so, the appointment shall be made, upon the request of a party, by the appointing authority.
-
-[38/2001 wef 01/11/2001]
 
 ### Appeal under Article 16 (3) of Model Law
 
@@ -300,8 +276,6 @@ the period between the commencement of the arbitration and the date of the order
 
 11A\. Where in proceedings before any court relief by way of interpleader is granted and any issue between the claimants is one in respect of which there is an arbitration agreement between them, the court granting the relief may direct the issue between the claimants to be determined in accordance with the agreement.
 
-[38/2001 wef 01/11/2001]
-
 ### Powers of arbitral tribunal
 
 12\.—(1) Without prejudice to the powers set out in any other provision of this Act and in the Model Law, an arbitral tribunal shall have powers to make orders or give directions to any party for —
@@ -314,15 +288,9 @@ the period between the commencement of the arbitration and the date of the order
 
 (d) the preservation, interim custody or sale of any property which is or forms part of the subject-matter of the dispute;
 
-[38/2001 wef 01/11/2001]
-
 (da) samples to be taken from, or any observation to be made of or experiment conducted upon, any property which is or forms part of the subject-matter of the dispute;
 
-[38/2001 wef 01/11/2001]
-
 (db) the preservation and interim custody of any evidence for the purposes of the proceedings;
-
-[38/2001 wef 01/11/2001]
 
 (e) securing the amount in dispute;
 
@@ -339,8 +307,6 @@ the period between the commencement of the arbitration and the date of the order
 (a) an individual ordinarily resident outside Singapore; or
 
 (b) a corporation or an association incorporated or formed under the law of a country outside Singapore, or whose central management and control is exercised outside Singapore.
-
-[38/2001 wef 01/11/2001]
 
 (4) Without prejudice to the application of Article 28 of the Model Law, an arbitral tribunal, in deciding the dispute that is the subject of the arbitral proceedings —
 
@@ -366,8 +332,6 @@ the period between the commencement of the arbitration and the date of the order
 
 (4) No person shall be compelled under any such writ to produce any document which he could not be compelled to produce on the trial of an action.
 
-[38/2001 wef 01/11/2001]
-
 ### Power to compel attendance of witness
 
 14\.—(1) The High Court or a Judge thereof may order that a writ of subpoena ad testificandum or a writ of subpoena duces tecum shall issue to compel the attendance before an arbitral tribunal of a witness wherever he may be within Singapore.
@@ -384,11 +348,29 @@ the period between the commencement of the arbitration and the date of the order
 
 then, both the Model Law and this Part shall not apply to that arbitration but the Arbitration Act 2001 or the repealed Arbitration Act (if applicable) shall apply to that arbitration.
 
-(2) For the avoidance of doubt, a provision in an arbitration agreement referring to or adopting any rules of an arbitral institutionshall not of itself be sufficient to exclude the application of the Model Law or this Part to the arbitration concerned.
+(2) For the avoidance of doubt, a provision in an arbitration agreement referring to or adopting any rules of arbitration shall not of itself be sufficient to exclude the application of the Model Law or this Part to the arbitration concerned.
 
 [28/2002 wef 25/10/2002]
 
 [38/2001 wef 01/11/2001]
+
+### Application of rules of arbitration
+
+15A\.—(1) It is hereby declared for the avoidance of doubt that a provision of rules of arbitration agreed to or adopted by the parties, whether before or after the commencement of the arbitration, shall apply and be given effect to the extent that such provision is not inconsistent with a provision of the Model Law or this Part from which the parties cannot derogate.
+
+(2) Without prejudice to subsection (1), subsections (3) to (6) shall apply for the purposes of determining whether a provision of rules of arbitration is inconsistent with the Model Law or this Part.
+
+(3) A provision of rules of arbitration is not inconsistent with the Model Law or this Part merely because it provides for a matter on which the Model Law and this Part is silent.
+
+(4) Rules of arbitration are not inconsistent with the Model Law or this Part merely because the rules are silent on a matter covered by any provision of the Model Law or this Part.
+
+(5) A provision of rules of arbitration is not inconsistent with the Model Law or this Part merely because it provides for a matter which is covered by a provision of the Model Law or this Part which allows the parties to make their own arrangements by agreement but which applies in the absence of such agreement.
+
+(6) The parties may make the arrangements referred to in subsection (5) by agreeing to the application or adoption of rules of arbitration or by providing any other means by which a matter may be decided.
+
+(7) In this section and section 15, “rules of arbitration” means the rules of arbitration agreed to or adopted by the parties including the rules of arbitration of an institution or organisation.
+
+[28/2002 wef 25/10/2002]
 
 ### Appointment of conciliator
 
@@ -409,8 +391,6 @@ then, both the Model Law and this Part shall not apply to that arbitration but t
 (a) any reference to “conciliator” shall include a reference to any person who acts as a mediator;
 
 (b) any reference to “conciliation proceedings” shall include a reference to mediation proceedings.
-
-[38/2001 wef 01/11/2001]
 
 ### Power of arbitrator to act as conciliator
 
@@ -446,8 +426,6 @@ then, both the Model Law and this Part shall not apply to that arbitration but t
 
 (3) If the arbitral tribunal makes an award under this section, it shall specify in its award, the issue, or claim or part of a claim, which is the subject-matter of the award.
 
-[38/2001 wef 01/11/2001]
-
 ### Effect of award
 
 19B\.—(1) An award made by the arbitral tribunal pursuant to an arbitration agreement is final and binding on the parties and on any persons claiming through or under them and may be relied upon by any of the parties by way of defence, set-off or otherwise in any proceedings in any court of competent jurisdiction.
@@ -457,8 +435,6 @@ then, both the Model Law and this Part shall not apply to that arbitration but t
 (3) For the purposes of subsection (2), an award is made when it has been signed and delivered in accordance with Article 31 of the Model Law.
 
 (4) This section shall not affect the right of a person to challenge the award by any available arbitral process of appeal or review or in accordance with the provisions of this Act and the Model Law.
-
-[38/2001 wef 01/11/2001]
 
 ### Interest on awards
 
@@ -521,8 +497,6 @@ then, both the Model Law and this Part shall not apply to that arbitration but t
 (2) The appointing authority, or an arbitral or other institution or person by whom an arbitrator is appointed or nominated, shall not be liable, by reason only of having appointed or nominated him, for anything done or omitted by the arbitrator, his employees or agents in the discharge or purported discharge of his functions as arbitrator.
 
 (3) This section shall apply to an employee or agent of the appointing authority or of an arbitral or other institution or person as it applies to the appointing authority, institution or person himself.
-
-[38/2001 wef 01/11/2001]
 
 ### Transitional provisions
 
@@ -1382,3 +1356,8 @@ This Legislative History is provided for the convenience of users of the Interna
 |||(Bill No. 38/2001 published on 26 September 2001)|
 ||Date of Second and Third Readings|5 October 2001|
 ||Date of commencement|1 November 2001|
+|4.|**Act 28 of 2002—International Arbitration (Amendment) Act 2002**|
+||Date of First Reading|27 August 2002|
+|||(Bill No. 28/2002 published on 28 August 2002)|
+||Date of Second and Third Readings|1 October 2002|
+||Date of commencement|25 October 2002|
