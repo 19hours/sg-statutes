@@ -482,6 +482,10 @@ Consultant Organisations
 
 71\. Singapore Rugby Union
 
+71A. Singapore Sailing Federation
+
+[S 475/2000 wef 20/10/2000]
+
 72\. Singapore Scout Association
 
 73\. Singapore Sepaktakraw Federation
@@ -504,7 +508,7 @@ Consultant Organisations
 
 82\. Singapore Xiangqi General Association
 
-83\. Singapore Yachting Association
+83\.Deleted by S 475/2000, wef 20/10/2000.
 
 84\. Society of Chinese Artists
 
@@ -654,6 +658,8 @@ This Legislative History is provided for the convenience of users of the People�
 ||Date of commencement|10 May 2000|
 |44.|**2000 Revised Edition—People’s Association Act (Chapter 227)**|
 ||Date of operation|1 July 2000|
+|45.|**G.N. No. S 475/2000—People’s Association Act (Amendment of First Schedule) (No. 2) Notification 2000**|
+||Date of commencement|20 October 2000|
 ## COMPARATIVE TABLE
 
 People’s Association Act
