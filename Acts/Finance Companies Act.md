@@ -116,7 +116,7 @@
 
 - [43 Prohibition against transacting of financing business on public holidays](#Prohibition-against-transacting-of-financing-business-on-public-holidays)
 
-- [44 Indemnity](#Indemnity)
+- [44 (Repealed)](#Repealed)
 
 - [45 Moratorium](#Moratorium)
 
@@ -1220,9 +1220,7 @@ MISCELLANEOUS
 
 [33/84]
 
-### Indemnity
-
-44\. The Authority shall not be subject to any action, claim or demand by or liability to any person in respect of anything done or omitted to be done in good faith in pursuance or in execution or intended execution or in connection with the execution or intended execution of any power conferred upon the Authority by this Act.
+44\. [Deleted by Act 24/2003 wef 01/01/2004]
 
 ### Moratorium
 
@@ -1321,8 +1319,6 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 ### Jurisdiction of District Court
 
 52A\. Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
-
-[9/2003 wef 16/05/2003]
 
 ### Exemptions
 
@@ -1455,6 +1451,12 @@ This Legislative History is provided for the convenience of users of the Finance
 |||(Bill No. 7/2003 published on 21 March 2003)|
 ||Date of Second and Third Readings|24 April 2003|
 ||Date of commencement|16 May 2003|
+|14.|**Act 24 of 2003—Monetary Authority of Singapore (Amendment) Act 2003**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|16 October 2003|
+|||(Bill No. 29/2003 published on 17 October 2003)|
+||Date of Second and Third Readings|10 November 2003|
+||Date of commencement|1 January 2004|
 ## COMPARATIVE TABLE
 
 Finance Companies Act
