@@ -1472,3 +1472,11 @@ This Legislative History is provided for the convenience of users of the Trustee
 |||(Bill No. 40/89 published on 7 October 1989)|
 ||Date of Second and Third Readings|30 November 1989|
 ||Date of commencement|5 January 1990|
+|11.|**Act 24 of 1991—Land Surveyors Act 1991**|
+||(Consequential amendments made by)||
+||Date of First Reading|27 February 1991|
+|||(Bill No. 11/91 published on 28 February 1991)|
+||Date of Second Reading|28 June 1991|
+||Date Committed to Select Committee|Parl. 3 of 1991 presented to Parliament on 17 June 1991|
+||Date of Third Reading|28 June 1991|
+||Date of commencement|30 August 1991|
