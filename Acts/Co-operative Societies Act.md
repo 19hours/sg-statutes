@@ -158,7 +158,7 @@
 
 - [70 Reserve Fund](#Reserve-Fund)
 
-- [71 Central Co-operative Fund](#Central-Co-operative-Fund)
+- [71 Contributions to Central Co-operative Fund and Singapore Labour Foundation](#Contributions-to-Central-Co-operative-Fund-and-Singapore-Labour-Foundation)
 
 - [72 Distribution of net surplus](#Distribution-of-net-surplus)
 
@@ -288,7 +288,9 @@ PRELIMINARY
 
 “member” includes an individual person or institution qualifying for membership in a co-operative society, who or which join in the application for the registration of a society, and an individual person or institution admitted to membership after registration in accordance with this Act, the Rules and the by-laws;
 
-“net surplus” means the remaining portion of the surplus after provisions have been made for the reserve fund and the Central Co-operative Fund;
+“net surplus” means the remaining portion of the surplus after provisions have been made for the reserve fund, the Singapore Labour Foundation and the Central Co-operative Fund in accordance with sections 70 and 71;
+
+[13/90 wef 16/04/1990]
 
 “officer” includes a chairman, vice-chairman, director, secretary, assistant secretary, treasurer, assistant treasurer, member of committee of management, employee, internal auditor or other person empowered under this Act, the Rules or the by-laws, to give directives in regard to the business of a society or to supervise the business;
 
@@ -307,6 +309,10 @@ PRELIMINARY
 “secondary society” means a registered society all of whose registered members are co-operative societies and trade unions and which has as its object the facilitation of the operations of primary societies;
 
 “share” includes subscriptions payable by a member under the by-laws of a society;
+
+“Singapore Labour Foundation” means the Singapore Labour Foundation established under the Singapore Labour Foundation Act (Cap. 303);
+
+[13/90 wef 16/04/1990]
 
 “society” means a co-operative society registered under this Act and includes a primary society, secondary society and apex organisation;
 
@@ -966,21 +972,33 @@ PROPERTY AND FUNDS OF SOCIETIES
 
 (5) The requirement of this section in relation to the maintenance of a reserve fund by a society shall not apply to a society that is required to maintain a reserve fund, or any fund by whatever name called having a purpose similar to a reserve fund pursuant to the Banking Act [Cap. 19], the Insurance Act [Cap. 142] or any other written law.
 
-### Central Co-operative Fund
+### Contributions to Central Co-operative Fund and Singapore Labour Foundation
 
-71\.—(1) There shall be established a fund to be known as the Central Co-operative Fund to which every society shall contribute 5% of the surplus resulting from the operations of the society during the preceding financial year except that the Minister may specify, from time to time in any particular case, the maximum amount not exceeding 5% of the surplus that a society is liable to contribute,
+71\.—(1) There shall be established a fund to be known as the Central Co-operative Fund which shall be used to further co-operative education, training, research, audit and for the general development of the co-operative movement in Singapore.
 
-(2) Notwithstanding subsection (1), the Minister may at any time reduce the percentage of the surplus that every society is liable to contribute to the Central Co-operative Fund so long as the difference between the reduced percentage and the amount that the society would have been liable to contribute under subsection (1) shall be carried to the reserve fund.
+(2) Subject to subsection (3), every society shall contribute —
 
-(3) The requirement to transfer the difference referred to in subsection (2) shall not apply to a society that is required to maintain a reserve fund or any fund by whatever name called having a purpose similar to a reserve fund pursuant to the Banking Act, the Insurance Act or any other written law.
+(a) 5% of the first $500,000 of the surplus resulting from the operations of the society during the preceding financial year to the Central Co-operative Fund; and
 
-(4) The Central Co-operative Fund shall be used to further co-operative education, training, research, audit and for the general development of the co-operative movement in Singapore.
+(b) 20% of any surplus in excess of $500,000 from the operations of the society during the preceding financial year either to the Central Co-operative Fund or to the Singapore Labour Foundation as the society may opt.
 
-(5) The Central Co-operative Fund shall be administered as a trust fund in such a manner as the Minister may prescribe in the Rules.
+(3) The Minister may at any time reduce the percentage of the surplus that every society is liable to contribute under subsection (2)(a) so long as the difference between the reduced percentage and the amount that the society would have been liable to contribute under subsection (2)(a) shall be carried to the reserve fund.
+
+(4) The requirement to transfer the difference referred to in subsection (3) shall not apply to a society that is required to maintain a reserve fund or any fund by whatever name called having a purpose similiar to a reserve fund pursuant to the Banking Act [Cap. 19], the Insurance Act [Cap. 142] or any other written law.
+
+(5) A society shall be deemed to have opted to contribute to the Central Co-operative Fund under subsection (2)(b) if that society does not exercise its option within such time and in such manner as the Registrar may require.
+
+(6) A society may from time to time change its option in respect of its contribution under subsection (2)(b) by notifying the Registrar in such manner as the Registrar may require and the change in option shall apply to the contribution of the society for the financial year in which falls the second anniversary of the date in which the Registrar was notified under this subsection and to all contributions of the society thereafter until the society again changes its option.
+
+(7) The Central Co-operative Fund shall be administered as a trust fund in such manner as the Minister may prescribe in the Rules.
+
+[13/90 wef 16/04/1990]
 
 ### Distribution of net surplus
 
-72\.—(1) The remainder of the surplus resulting from the operations of the society during the preceding financial year after contributions made to the reserve fund and to the Central Co-operative Fund in accordance with sections 70 and 71 respectively may be divided among the members by way of dividend or patronage refund or by way of honoraria to officers of the society, or allocated to any other funds constituted by the society to such extent and under such conditions as may be prescribed under this Act or in the by-laws.
+72\.—(1) The net surplus may be divided among the members by way of dividend or patronage refund or by way of honoraria to officers of the society, or allocated to any other funds constituted by the society to such extent and under such conditions as may be prescribed under this Act or in the by-laws.
+
+[13/90 wef 16/04/1990]
 
 (2) No society shall pay a dividend on paid-up share capital or subscription capital exceeding a maximum rate to be determined by the Minister from time to time in the Rules.
 
@@ -1399,12 +1417,7 @@ the Co-operative Societies Act
 
 (Chapter 62)
 
-Matters required to be in the by-laws of
-
-
-
-
-a co-operative society
+Matters required to be in the by-laws of a co-operative society
 
 Every society registered under section 4(1) of the Act shall have by-laws in respect of the following matters:
 
@@ -1487,3 +1500,8 @@ This Legislative History is provided for the convenience of users of the Co-oper
 ||Date of commencement|1 January 1980|
 |2.|**1985 Revised Edition—Co-operative Societies Act (Chapter 62)**|
 ||Date of operation|30 March 1987|
+|3.|**Act 13 of 1990—Co-operative Societies (Amendment) Act 1990**|
+||Date of First Reading|2 March 1990|
+|||(Bill No. 8/90 published on 3 March 1990)|
+||Date of Second and Third Readings|29 March 1990|
+||Date of commencement|16 April 1990|
