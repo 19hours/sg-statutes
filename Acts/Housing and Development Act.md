@@ -4139,3 +4139,8 @@ This Legislative History is provided for the convenience of users of the Housing
 |||(Bill No. 31/89 published on 31 May 1989)|
 ||Date of Second and Third Readings|11 July 1989|
 ||Date of commencement|4 August 1989|
+|20.|**Act 11 of 1991—Statutes (Miscellaneous Amendments) Act 1991**|
+||Date of First Reading|3 January 1991|
+|||(Bill No. 4/91 published on 4 January 1991)|
+||Date of Second and Third Readings|14 January 1991|
+||Date of commencement|30 November 1991|
