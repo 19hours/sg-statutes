@@ -356,7 +356,7 @@ Liability of instruments to duty
 
 (a) every instrument mentioned in that Schedule which, not having been previously executed by any person, is executed in Singapore;
 
-(b) [Deleted byAct 26/96]
+(b) [Deleted by Act 26/96]
 
 (c) every instrument mentioned in that Schedule, which is executed outside Singapore, and relates to any property situate, or to any matter or thing done or to be done, in Singapore, and is received in Singapore.
 
@@ -1828,3 +1828,11 @@ This Legislative History is provided for the convenience of users of the Stamp D
 ||Date of Presentation of Select Committee Report|7 September 1993 (Parl 4 of 1993)|
 ||Date of Third Reading|12 November 1993|
 ||Date of commencement|26 November 1993 (except para (3) of Fifth Schedule)|
+|33.|**Act 26 of 1996—Stamp Duties (Amendment) Act 1996**|
+||Date of First Reading|21 May 1996|
+|||(Bill No. 16/96 published on|
+|||
+|
+|||22 May 1996)|
+||Date of Second and Third Readings|12 July 1996|
+||Date of commencement|23 August 1996|
