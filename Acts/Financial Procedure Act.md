@@ -32,6 +32,8 @@
 
 - [7 Custody and investment of public moneys](#Custody-and-investment-of-public-moneys)
 
+- [7A Capital injections to statutory corporations](#Capital-injections-to-statutory-corporations)
+
 - [8 Deposit accounts](#Deposit-accounts)
 
 - [9 Advance accounts](#Advance-accounts)
@@ -199,6 +201,28 @@ as the case may be.
 (4) Interest and any other income received from the investment of any moneys in accordance with subsection (3) shall be accounted in the Consolidated Revenue Account, except that where it is so provided in any law or under the terms of any trust, or the Minister so directs, the interest and any other income received from the investment of any moneys standing to the credit of any trust account shall be paid to the credit of such trust account.
 
 [25/91]
+
+### Capital injections to statutory corporations
+
+7A\.—(1) Notwithstanding section 7, the Minister may invest by way of capital injection in any statutory corporation out of a capital contribution appropriated by Parliament from the Consolidated Fund by written law.
+
+(2) Except as otherwise expressly provided in any written law, the Minister, after consultation with the Minister charged with the responsibility for the statutory corporation concerned, shall determine the terms and conditions under which the capital injection under this section shall be made, and may from time to time vary such terms and conditions.
+
+(3) Without prejudice to subsection (2), the Minister may from time to time, on behalf of the Government, subscribe for or otherwise acquire shares or other securities in the statutory corporation in which moneys are invested by way of capital injection under this section.
+
+(4) Nothing in this section shall prevent the investment of moneys by the Government in any statutory corporation in accordance with the Developmental Investment Fund Act (Cap. 79).
+
+(5) In this section —
+
+“capital contribution” includes money provided, or to be provided, to a statutory corporation for —
+
+(a) the purchase of assets to be held or owned by the statutory corporation; or
+
+(b) the development of assets held or owned by the statutory corporation;
+
+“statutory corporation” means any body corporate established by or under written law to perform or discharge any public function.
+
+[5/2002 wef 15/07/2002]
 
 ### Deposit accounts
 
@@ -416,7 +440,7 @@ Financial Procedure Act
 
 (CHAPTER 109)
 
-This Legislative History is provided for the convenience of users of the Financial Procedure Act. It is not part of the Act.
+This Legislative History is provided for the convenience of users of the Financial Procedure Act. It is not part of this Act.
 
 ||||
 |:-|:-|:-|
@@ -471,3 +495,10 @@ This Legislative History is provided for the convenience of users of the Financi
 |||(Bill No. 25/94 published on 29 July 1994)|
 ||Date of Second and Third Readings|25 August 1994|
 ||Date of commencement|1 October 1994 (Item (3) of the Schedule – Amendment of the Financial Procedure Act)|
+|13.|**Act 5 of 2002—Statutory Corporations (Capital Contribution) Act 2002**|
+||(Amendment made to Act by)||
+||Date of First Reading|3 May 2002|
+|||(Bill No. 7/2002 published on 4 May 2002)|
+||Date of Second and Third Readings|24 May 2002|
+||Dates of commencement|15 July 2002 (except item (18) of the Schedule)|
+|||29 July 2002 (item (18) of the Schedule)|
