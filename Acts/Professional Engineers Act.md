@@ -852,7 +852,9 @@ GENERAL
 
 (4) The Board shall keep proper accounts and records of its transactions and affairs and shall do all things necessary to ensure that all payments out of its moneys are correctly made and properly authorised and that adequate control is maintained over the assets of, or in the custody of, the Board and over the expenditure incurred by the Board.
 
-(5) The Board may from time to time invest any moneys not immediately required by the Board in such trustee securities as the Board may determine.
+(5) The Board may invest its moneys in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
+
+[45/2004 wef 15/12/2004]
 
 (6) The accounts of the Board shall be audited by an auditor approved by the Minister.
 
@@ -1047,3 +1049,9 @@ This Legislative History is provided for the convenience of users of the Profess
 ||Date of Second and Third Readings|6 February 2004|
 ||Date of commencement|15 April 2004|
 |||(item (3) in the Schedule)|
+|8.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
+||(Consequential amendments made by)||
+||Date of First Reading|21 September 2004|
+|||(Bill No. 43/2004 published on 22 September 2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|15 December 2004|
