@@ -1,16 +1,14 @@
-**Sewerage and Drainage Act 1999**
+**Sewerage and Drainage Act**
 
-**(No. 10 of 1999)**
+**(CHAPTER 293A)**
 
 **Table of Contents**
 
 [**Long Title**](#Sewerage-and-Drainage-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -118,9 +116,9 @@
 
 - [48 Appeal to Minister against notices, orders, directions, etc.](#Appeal-to-Minister-against-notices-orders-directions-etc)
 
-[**Part VIII COMPENSATION, DAMAGES AND COSTS**](#Part-VIII)
+[**Part VIII COMPENSATION, DAMAGES, FEES, COSTS AND EXPENSES**](#Part-VIII)
 
-- [49 Compensation, damages, costs and expenses to be determined by Magistrate’s Court or District Court](#Compensation-damages-costs-and-expenses-to-be-determined-by-Magistrate’s-Court-or-District-Court)
+- [49 Compensation, damages, fees, costs and expenses to be determined by Magistrate’s Court or District Court](#Compensation-damages-fees-costs-and-expenses-to-be-determined-by-Magistrate’s-Court-or-District-Court)
 
 - [50 Occupier may execute work where owner defaults in execution of work](#Occupier-may-execute-work-where-owner-defaults-in-execution-of-work)
 
@@ -176,55 +174,37 @@
 
 - [75 Regulations](#Regulations)
 
-- [76 Repeal and transitional and savings provisions](#Repeal-and-transitional-and-savings-provisions)
+- [76 Transitional and savings provisions](#Transitional-and-savings-provisions)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+[**Comparative Table**](#Comparative-Table)
 
-ACTS SUPPLEMENT
+# Sewerage and Drainage Act
 
-Published by Authority
+(CHAPTER 293A)
 
-NO. 11]
+(Original Enactment: Act 10 of 1999)
 
-Friday, March 5
+REVISED EDITION 2000
 
-[1999
+(30th December 2000)
 
-The following Act was passed by Parliament on 11th February 1999 and assented to by the President on 20th February 1999:—
+An Act to provide for and regulate the construction, maintenance and improvement of sewerage and land drainage systems, to regulate the discharge of sewage and trade effluent and for matters connected therewith.
 
-Sewerage and Drainage Act 1999
-
-(No. 10 of 1999)
-
-I assent.
-
-ONG TENG CHEONG,
-
-President.
-
-20th February 1999.
-
-Date of Commencement: 1st April 1999
-
-An Act to provide for and regulate the construction, maintenance and improvement of sewerage and land drainage systems, to regulate the discharge of sewage and trade effluent and for matters connected therewith, and to repeal the Water Pollution Control and Drainage Act (Chapter 348 of the 1985 Revised Edition).
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st April 1999]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Sewerage and Drainage Act 1999 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Sewerage and Drainage Act.
 
 ### Interpretation
 
 2\. In this Act, unless the context otherwise requires —
-
-“appointed day” means the date of commencement of this Act;
 
 “authorised officer” means —
 
@@ -237,8 +217,6 @@ PRELIMINARY
 “building” has the same meaning as in the Building Control Act (Cap. 29);
 
 “competent authority” means an authority appointed under section 5 of the Planning Act (Cap. 232);
-
-“designated filing authority” means any person designated by the Director for the submission of building plans under section 34(3);
 
 “Director” means the Director of Sewerage and Drainage appointed under section 3(1);
 
@@ -262,13 +240,13 @@ PRELIMINARY
 
 (a) any premises, includes the person for the time being receiving the rent of the premises, whether on his own account or as agent or trustee or as receiver, or who would receive the rent if the premises were let to a tenant, and the person whose name is entered in the Valuation List authenticated under section 15 of the Property Tax Act (Cap. 254); and
 
-(b) the common property of any building erected on land comprised in a strata subdivision plan approved by a competent authority, means the management corporation having control of the building, a managing agent appointed by a management corporation or by the Commissioner of Buildings under the Land Titles (Strata) Act (Cap. 158) or a liquidator appointed pursuant to that Act for the management corporation;
+(b) the common property of any building erected on land comprised in a strata subdivision plan approved by a competent authority, means the management corporation having control of the building, a managing agent appointed by a management corporation or by the Commissioner of Buildings under the Land Titles (Strata) Act (Cap. 158) or a liquidator appointed under that Act for the management corporation;
 
-“premises” includes messuages, houses, buildings, lands, tenements, easements and hereditaments of any tenure whether open or enclosed, whether built or not, whether public or private, and whether maintained under statutory authority or not;
+“premises” includes messuages, houses, buildings, lands, tenements, easements and hereditaments of any tenure, whether open or enclosed, whether built or not, whether public or private, and whether maintained under statutory authority or not;
 
 “public sewerage system” includes —
 
-(a) sewerage systems which were vested in the Government before the appointed day under the repealed Water Pollution Control and Drainage Act (Cap. 348) or any other written law;
+(a) sewerage systems which were vested in the Government before 1st April 1999 under the repealed Water Pollution Control and Drainage Act (Cap. 348, 1985 Ed.) or any other written law;
 
 (b) sewerage systems with respect to which a declaration of vesting has been made under section 9;
 
@@ -278,7 +256,7 @@ PRELIMINARY
 
 “public sewers” includes —
 
-(a) sewers which were vested in the Government before the appointed day under the repealed Water Pollution Control and Drainage Act or any other written law;
+(a) sewers which were vested in the Government before 1st April 1999 under the repealed Water Pollution Control and Drainage Act or any other written law;
 
 (b) sewers with respect to which a declaration of vesting has been made under section 10;
 
@@ -286,7 +264,7 @@ PRELIMINARY
 
 (d) sewers erected on private property which are maintained by the Government;
 
-“qualified person”, in relation to any sewerage or drainage works, means a qualified person appointed under section 6(3) or 9(2) (b) of the Building Control Act (Cap. 29) in respect of works which include the sewerage or drainage works, and whose qualification is appropriate to the nature of those works;
+“qualified person”, in relation to any sewerage or drainage works, means a qualified person appointed under section 6(3) or 9(1)(b) of the Building Control Act (Cap. 29) in respect of works which include the sewerage or drainage works, and whose qualification is appropriate to the nature of those works;
 
 “registered plumber” means a plumber whose name is entered in the register of plumbers maintained under section 37;
 
@@ -320,7 +298,7 @@ PRELIMINARY
 
 “trade effluent” means any liquid, including particles of matter and other substances in suspension in the liquid, which is the outflow from any trade, business or manufacture or of any works of engineering or building construction;
 
-“works” has the same meaning as “building works” in the Building Control Act (Cap. 29) and includes sewerage works, drainage works and the construction and alteration of sanitary facilities.
+“works” has the same meaning as “building works” in the Building Control Act and includes sewerage works, drainage works and the construction and alteration of sanitary facilities.
 
 ## PART II
 
@@ -376,7 +354,7 @@ SEWERAGE
 
 (6) The Director may give notice to the owner or occupier of any premises requiring him to remove any object or structure described in the notice which is erected on or attached to, or projects from, the land or building if in the opinion of the Director the removal of the object or structure is required for the purposes of subsection (1).
 
-(7) Any costs and expenses incurred by an owner, supplier or occupier under subsection (5) or (6) shall be borne by the Government.
+(7) Any costs and expenses incurred by an owner, supplier or occupier under subsection (5) or (6) shall be borne by the Government .
 
 ### Sewers may be emptied into sea
 
@@ -426,7 +404,7 @@ SEWERAGE
 
 10\.—(1) The Director may, at any time, declare that any private sewer shall, as from such date as may be specified in the declaration, vest in the Government.
 
-(2) Before the Director makes a declaration under subsection (1), he shall give a notice in writing of his intention to do so to the owner of the sewer in question.
+(2) Before the Director makes a declaration under subsection (1), he shall give notice in writing of his intention to do so to the owner of the sewer in question.
 
 (3) Any owner who is aggrieved by a notice issued by the Director under subsection (2) may appeal to the Minister within 28 days from the date of service of the notice.
 
@@ -434,7 +412,7 @@ SEWERAGE
 
 (5) Where no appeal has been filed within the time specified in subsection (3) or an appeal has been dismissed by the Minister, the Director may proceed to make the declaration.
 
-(6) Where a declaration has been made in respect of a private sewer under this section, the Director shall maintain the sewer and, if he sees fit, enlarge, alter or otherwise improve such sewer and may discontinue, close up or destroy such sewer as he thinks necessary as if it is a sewer constructed by the Director.
+(6) Where a declaration has been made in respect of a private sewer under this section, the Director shall maintain the sewer and, if he sees fit, enlarge, alter or otherwise improve such sewer and may discontinue, close up or destroy such sewer as he thinks necessary as if it is a sewer constructed by the Director .
 
 (7) If by reason of the alteration, discontinuation, closing up or destruction of any private sewer vested in the Government under this section any person is deprived of the lawful use of the sewer, the Director shall with due diligence provide some other sewer as effectual as the one so deprived.
 
@@ -444,7 +422,7 @@ SEWERAGE
 
 11\.—(1) Every sewerage system shall be altered, repaired and kept in proper order at the cost and expense of the owner of the premises to which the sewerage system belongs or for the use of which it is maintained.
 
-(2) The Director may, by notice in writing, require the owner of any premises referred to in subsection (1) to alter, repair or put the sewerage system in good order in the manner required by the Director.
+(2) The Director may, by notice in writing, require the owner of any premises referred to in subsection (1) to alter, repair or put the sewerage system in good order in the manner required by the Director .
 
 (3) Where the Director is satisfied that it is immediately necessary to alter, repair or put in good order and condition any sewer, drain-line, privy, cesspool, septic or other tank, toilet, urinal, water-closet, sink, bath or lavatory or any appurtenance thereof, the Director or any authorised officer may enter upon any premises and carry out or cause to be carried out such alterations, repairs, works, acts or things as are necessary for any of those purposes.
 
@@ -524,7 +502,7 @@ as the Director may require.
 
 (4) Subsection (1) shall not apply to any discharge of trade effluent which may be lawfully made into any public sewer pursuant to any regulations made under this Act.
 
-(5) A person shall not be guilty of an offence under this section if he proves that the discharge was made in an emergency to avoid danger to life or property and, as soon as was reasonably practicable, he informed the Director of the discharge in writing.
+(5) A person shall not be guilty of an offence under this section if he proves that the discharge of trade effluent was made in an emergency to avoid danger to life or property and, as soon as was reasonably practicable, he informed the Director of the discharge in writing.
 
 ### Prohibition on discharge of dangerous trade effluent
 
@@ -550,7 +528,7 @@ as the Director may require.
 
 ### Discharge of sewage, etc.
 
-19\.—(1) Any person who, without the written approval of the Director, discharges or causes or permits the discharge of any sewage, waste matter or effluent into any public sewer or any drain-line or sewer communicating with a public sewer —
+19\.—(1) Any person who, without the written approval of the Director , discharges or causes or permits the discharge of any sewage, waste matter or effluent into any public sewer or any drain-line or sewer communicating with a public sewer —
 
 (a) directly or indirectly, from any conveyance or mobile toilet; or
 
@@ -616,7 +594,7 @@ DRAINAGE
 
 (5) Where no appeal has been filed within the time specified in subsection (3), or an appeal has been dismissed by the Minister, the Director may proceed to make the declaration.
 
-(6) Where a declaration has been made in respect of a private drain under this section, the Director shall maintain the drain and, if he sees fit, enlarge, alter or otherwise improve such drain and may discontinue, close up or destroy such drain as he thinks necessary as if it is a drain constructed by the Director.
+(6) Where a declaration has been made in respect of a private drain under this section, the Director shall maintain the drain and, if he sees fit, enlarge, alter or otherwise improve such drain and may discontinue, close up or destroy such drain as he thinks necessary as if it is a drain constructed by the Director .
 
 (7) If by reason of the alteration, discontinuation, closing up or destruction of any drain vested in the Government under this section, any person is deprived of the lawful use of the drain, the Director shall with due diligence provide some other drain as effectual as the one so deprived.
 
@@ -680,7 +658,11 @@ without obtaining in respect of those works a clearance certificate or the appro
 
 (2) Any authorisation given under subsection (1) may be subject to such conditions as the Director thinks fit.
 
-(3) The Director shall, before authorising any person to construct any drain under subsection (1), serve a notice on the owner and occupier of the premises describing the nature of the works to be carried out and stating that if no objections are received within 28 days from the date of service of the notice, the works will commence on the date specified in the notice.
+(3) Before authorising any person to construct any drain under subsection (1), the Director shall serve a notice on the owner and occupier of the premises —
+
+(a) describing the nature of the works to be carried out; and
+
+(b) stating that if no objection is received within 28 days from the date of service of the notice, the works will commence on the date specified in the notice.
 
 (4) A person served with a notice under subsection (3) shall submit his objections, if any, to the Director within the prescribed time and the Director may allow or disallow the objections or allow the objections in part.
 
@@ -698,7 +680,7 @@ without obtaining in respect of those works a clearance certificate or the appro
 
 (3) Any declaration made by the Director under subsection (1) shall be published in theGazette.
 
-(4) Where any drainage reserve that is to be vested in the Government under this section consists of premises included in separate lots already set aside as part of the drainage reserve, the declaration shall be registered against those lots under the provisions of the Land Titles Act (Cap. 157) in respect of registered land and under the provisions of the Registration of Deeds Act (Cap. 269) in respect of other land.
+(4) Where any drainage reserve that is to be vested in the Government under this section consists of premises included in separate lots already set aside as part of the drainage reserve, the declaration shall be registered against those lots under the provisions of the Land Titles Act (Cap. 157) in respect of registered land and under the provisions of the Registration of Deeds Act in respect of other land.
 
 (5) Where any drainage reserve that is to be vested in the Government under this section consists of premises included in an existing lot or lots, those premises forming the drainage reserve shall be excised from the existing lot or lots and the declaration shall be registered in respect of the excised portions under the provisions of the Land Titles Act in respect of registered land and under the provisions of the Registration of Deeds Act in respect of other land.
 
@@ -720,7 +702,7 @@ PROTECTION OF WATER RESOURCES
 
 ### Prohibition on extraction of water
 
-32\.—(1) No person shall, without the approval of the Director, construct any works for taking or intercepting water from any place or sea, within the territorial limits of Singapore.
+32\.—(1) No person shall, without the approval of the Director , construct any works for taking or intercepting water from any place or sea, within the territorial limits of Singapore.
 
 (2) An application for approval to construct any works for taking or intercepting water from any such place or sea shall be made in such form as the Director may require.
 
@@ -742,7 +724,7 @@ REGISTRATION, CODES OF PRACTICE AND CERTIFICATES OR APPROVAL FOR WORKS
 
 (2) If any provision in any code of practice or specifications issued or approved by the Director under subsection (1) is inconsistent with any regulation made under this Act, such provision shall, to the extent of the inconsistency, either have effect subject to such regulation or, where appropriate, having regard to such regulation, shall not have effect.
 
-(3) The Director may exempt, generally or for such time as the Director may specify, any premises or class of premises from the requirements of any provision in any code of practice or specifications issued or approved by him.
+(3) The Director may exempt, generally or for such time as the Director may specify, any premises or class of premises from the requirements of any provision in any code of practice or specifications issued or approved by him .
 
 ### Certificates or approval required for works
 
@@ -872,7 +854,7 @@ ENFORCEMENT
 
 ### Powers of arrest
 
-41\.—(1) The Director, an authorised officer or a police officer may arrest any person, whom the Director or officer has reason to believe has committed an offence under this Act or any regulations made thereunder, if the name and address of the person are unknown to him and —
+41\.—(1) The Director, an authorised officer or a police officer may arrest any person, whom the Director or officer has reason to believe has committed an offence under this Act or any regulations made thereunder, if the name and address of the person are unknown to himand —
 
 (a) the person declines to give his name and address; or
 
@@ -912,9 +894,9 @@ ENFORCEMENT
 
 the Minister may authorise the Director immediately to execute the work.
 
-(4) The Director shall, if he does the work and the appeal is successful, pay the costs and expenses of the work and any damages sustained by the appellant by reason of the work.
+(4) The Director shall, if he carries out the work and the appeal is successful, pay the costs and expenses of the work and any damages sustained by the appellant by reason of the work.
 
-(5) The Director may, if he does the work and the appeal is dismissed or abandoned, recover the costs and expenses of the work from the appellant and section 49 and, if the appellant is the owner of the premises in respect of which the notice was made, section 51 shall apply to any sum recoverable from him hereunder.
+(5) The Director may, if he carries out the work and the appeal is dismissed or abandoned, recover the costs and expenses of the work from the appellant and section 49 and, if the appellant is the owner of the premises in respect of which the notice was made, section 51 shall apply to any sum recoverable from him hereunder.
 
 ### Director may act in cases of emergency
 
@@ -922,17 +904,17 @@ the Minister may authorise the Director immediately to execute the work.
 
 ### Power of entry
 
-45\.—(1) The Director or any authorised officer may for the purposes of this Act or any regulations made thereunder enter, at all reasonable hours in the day time, any premises with such assistants and workmen as are necessary for the purpose of making any survey, inspection or soil investigation and executing any work authorised by this Act or any regulations made thereunder.
+45\.—(1) The Director or any authorised officer may, for the purposes of this Act or any regulations made thereunder, enter at all reasonable hours in the day time any premises with such assistants and workmen as are necessary for the purpose of making any survey, inspection or soil investigation and executing any work authorised by this Act or any regulations made thereunder.
 
 (2) Unless otherwise provided in this Act or any regulations made thereunder, the Director or any authorised officer shall, before entering any premises under subsection (1), give reasonable notice in writing to the owner or occupier of the premises of his intention to enter any premises under subsection (1).
 
 (3) Unless the consent of the occupier has been obtained therefor, no person shall enter any dwelling-house in actual occupation under this section without 6 hours’ previous notice to the occupier.
 
-(4) For the purposes of this section, the Minister may declare that any class of premises is liable to night inspection, and thereupon the Director and any authorised officer with such assistants and workmen as are necessary may, at any time of the day or night and without notice, enter using such force as may be necessary and search or inspect any premises of the class specified in the declaration.
+(4) For the purposes of this section, the Minister may declare that any class of premises is liable to night inspection, and thereupon the Director and any authorised officer, with such assistants and workmen as are necessary, may, at any time of the day or night and without notice, enter using such force as may be necessary and search or inspect any premises of the class specified in the declaration.
 
 ### Power to enter on land adjacent to works
 
-46\.—(1) The Director and any authorised officer, with such assistants and workmen as are necessary, may enter upon any land, adjoining or being within 100 metres of any works by this Act or any regulations made thereunder authorised to be made —
+46\.—(1) The Director and any authorised officer, with such assistants and workmen as are necessary, may enter upon any land, adjoining or being within 100 metres of any works by this Act or any regulations made thereunder authorised to be executed —
 
 (a) for the purpose of depositing upon that land any soil, gravel, sand, lime, brick, stone or other materials; or
 
@@ -978,23 +960,23 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ## PART VIII
 
-COMPENSATION, DAMAGES AND COSTS
+COMPENSATION, DAMAGES, FEES, COSTS AND EXPENSES
 
-### Compensation, damages, costs and expenses to be determined by Magistrate’s Court or District Court
+### Compensation, damages, fees, costs and expenses to be determined by Magistrate’s Court or District Court
 
 49\.—(1) Except as otherwise provided, in all cases where compensation, damages, fees, costs or expenses are provided under this Act or any regulations made thereunder to be paid, the amount and, if necessary, the apportionment of the amount and any question of liability shall, in case of dispute, or failure to pay, be summarily ascertained and determined by a Magistrate’s Court or, if the amount claimed exceeds the Magistrate’s Court limit, by a District Court.
 
-(2) In any proceeding under subsection (1), the court may —
+(2) In any proceeding under subsection (1), the Magistrate’s Court or the District Court may —
 
 (a) inquire whether those expenses ought to be borne wholly or in part by some person other than the defendant in the proceedings;
 
-(b) make such order concerning the expenses or their apportionment as appears to the court to be just; and
+(b) make such order concerning the expenses or their apportionment as appears to the Court to be just; and
 
 (c) where those expenses were incurred under section 42(1)(b) by the Director in carrying out any works specified in a notice, inquire whether any requirement specified in the notice was reasonable.
 
-(3) The court shall not order the expenses or any part thereof to be borne by any person other than the defendant in the proceedings unless the court is satisfied that the other person has had due notice of the proceedings and an opportunity of being heard.
+(3) The Magistrate’s Court or the District Court shall not order the expenses or any part thereof to be borne by any person other than the defendant in the proceedings unless the Court is satisfied that the other person has had due notice of the proceedings and an opportunity of being heard.
 
-(4) If the amount of compensation, damages, fees, costs or expenses is not paid by the party liable to pay it within 7 days after demand, that amount may be reported to a Magistrate’s Court or District Court and recovered in the same way as if it were a fine imposed by a Magistrate’s Court or District Court.
+(4) If the amount of compensation, damages, fees, costs or expenses is not paid by the party liable to pay it within 7 days after demand, that amount may be reported to a Magistrate’s Court or a District Court and recovered in the same way as if it were a fine imposed by a Magistrate’s Court or a District Court.
 
 (5) An appeal shall lie to the High Court from any decision of a Magistrate’s Court or a District Court under this section, and the provisions of the Criminal Procedure Code (Cap. 68) shall apply, with the necessary modifications, to all such appeals.
 
@@ -1006,9 +988,9 @@ COMPENSATION, DAMAGES AND COSTS
 
 ### Recovery of costs and expenses payable by owners
 
-51\.—(1) All sums payable by or recoverable from the owner of any premises in respect of costs and expenses incurred by the Government in connection with the execution of any work which are under this Act or any regulations made thereunder recoverable from an owner of any premises shall, subject and without prejudice to any other rights of the Government, be a first charge on the premises in respect of which the costs and expenses were incurred.
+51\.—(1) All sums payable by or recoverable from the owner of any premises in respect of costs and expenses incurred by the Government in connection with the execution of any work which are under this Act or any regulations made thereunder recoverable from an owner of any premises shall, subject and without prejudice to any other rights of the Government , be a first charge on the premises in respect of which the costs and expenses were incurred.
 
-(2) In addition to any other remedies conferred by this Act or any regulations made thereunder any such sum may be recovered in the manner provided in this section, and the person or persons liable to pay it shall be the owner or owners at the time when the work was completed.
+(2) In addition to any other remedies conferred by this Act or any regulations made thereunder, any such sum may be recovered in the manner provided in this section, and the person or persons liable to pay it shall be the owner or owners at the time when the work was completed.
 
 (3) If any such sum remains unpaid at the expiration of the prescribed time, a notice shall be served upon the person or any one of the persons, if more than one, liable to pay it, calling on him to pay that sum together with a fee of such amount as may be prescribed for the cost of the notice, within 15 days of the date of service of such notice.
 
@@ -1034,15 +1016,15 @@ COMPENSATION, DAMAGES AND COSTS
 
 ### Proceedings for recovery of arrears
 
-53\.—(1) For the recovery of arrears the Director shall have and may exercise, either successively or concurrently, in addition to any other remedies conferred by this Act or any regulations made thereunder, the following powers:
+53\.—(1) For the recovery of arrears, the Director shall have and may exercise, either successively or concurrently, in addition to any other remedies conferred by this Act or any regulations made thereunder, the following powers:
 
 (a) the Director may issue a warrant of attachment and may seize by virtue thereof any movable property and crops of any person liable to pay the arrears and may also seize any movable property or crops to whomever it belongs which are found on the premises in respect of which the arrears are due and may, after service of the prescribed notice, sell the same by public auction in any prescribed manner;
 
-(b) the Director may, by notice of sale to be served or published in the prescribed manner, declare his intention to sell, at the expiration of 3 months from the date of the notice of sale, the premises in respect of which the arrears are due and, if, at the expiration of that period, the arrears have not been paid or satisfied, the Director may sell by public auction, in lots or otherwise, the whole of the premises or such portion thereof or such interest therein as he considers sufficient for recovery of the arrears and costs.
+(b) the Director may, by notice of sale to be served or published in the prescribed manner, declare his intention to sell, at the expiration of 3 months from the date of the notice of sale, the premises in respect of which the arrears are due and, if, at the expiration of that period, the arrears have not been paid or satisfied, the Director may sell by public auction, in lots or otherwise, the whole of the premises or such portion thereof or such interest therein as he considers sufficient for the recovery of the arrears and costs.
 
 (2) The Director shall not proceed under subsection (1)(b) to sell the premises in respect of which the arrears are due, or any portion thereof or interest therein, where there is or are upon the premises and liable to be seized and sold under subsection (1)(a) any movable property or crops belonging to the owner of a value estimated by the Director to be sufficient to realise the sum required to satisfy the arrears and costs.
 
-(3) Any tenant, sub-tenant or occupier who, in order to avoid the seizure or sale of his property for arrears payable by the owner of the premises, pays the arrears and costs may, in the absence of any written agreement to the contrary, deduct the amount so paid by him from the rent due or to become due by him to his immediate landlord on account of the premises or such part thereof as is held or occupied by him, and may retain possession until that amount has been fully reimbursed to him whether by deduction from the rent or otherwise.
+(3) Any tenant, sub-tenant or occupier who, in order to avoid the seizure or sale of his property for arrears payable by the owner of the premises, pays the arrears and costs may thereafter, in the absence of any written agreement to the contrary, deduct the amount so paid by him from the rent due or to become due by him to his immediate landlord on account of the premises or such part thereof as is held or occupied by him, and may retain possession until that amount has been fully reimbursed to him whether by deduction from the rent or otherwise.
 
 (4) Any tenant or sub-tenant who has reimbursed, whether by allowing a deduction from his rent or otherwise, any sub-tenant or occupier holding or occupying under him the amount so paid by that sub-tenant or occupier shall have a similar right to deduct the amount from the rent due or to become due to his immediate landlord and to retain possession until similarly reimbursed.
 
@@ -1062,7 +1044,7 @@ COMPENSATION, DAMAGES AND COSTS
 
 ### Attachment
 
-54\.—(1) The attachment referred to in section 53(1)(a) may be made by a person appointed for the purpose by the Director who shall publicly notify the attachment in the prescribed manner and shall take an inventory of the property attached.
+54\.—(1) The attachment referred to in section 53(1)(a) may be made by a person appointed for the purpose by the Director who shall give public notice of the attachment in the prescribed manner and shall take an inventory of the property attached.
 
 (2) A person appointed under subsection (1) shall be deemed to be a public servant within the meaning of the Penal Code (Cap. 224).
 
@@ -1084,7 +1066,7 @@ COMPENSATION, DAMAGES AND COSTS
 
 56\.—(1) The purchaser at a sale held under section 53(1)(b) shall be deemed to have acquired the right offered for sale free from all encumbrances created over it and from all subordinate interests derived from it except such as are expressly reserved by the Director at the time of sale.
 
-(2) The Director shall, notify by an advertisement, published in theGazettethe result of the sale and the conveyance to the purchaser of the property or right offered for sale.
+(2) The Director shall notify, by an advertisement published in theGazette, the result of the sale and the conveyance to the purchaser of the property or right offered for sale.
 
 ### Costs of proceedings for recovery of arrears
 
@@ -1098,9 +1080,9 @@ COMPENSATION, DAMAGES AND COSTS
 
 59\.—(1) If any person whose movable property, crop or land has been attached or offered for sale disputes the attachment or sale, he may apply to the High Court or a District Court for an order to stay the proceedings.
 
-(2) The Court, after hearing the Director and making such further inquiry as is necessary, shall make such order as is just.
+(2) The High Court or District Court, after hearing the Director and making such further inquiry as is necessary, shall make such order as is just.
 
-(3) No application shall be entertained by the Court under this section unless the applicant has deposited in Court the amount of the arrears and costs or furnished security for them to the satisfaction of the Court.
+(3) No application shall be entertained by the High Court or District Court under this section unless the applicant has deposited in Court the amount of the arrears and costs or furnished security for them to the satisfaction of the Court.
 
 ### Liability of transferor who has not given notice
 
@@ -1118,7 +1100,7 @@ COMPENSATION, DAMAGES AND COSTS
 
 (2) If after the expiration of 8 days from the date of the order the occupier continues to refuse to permit the owner to execute the works, the occupier shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 for every day during which he so continues to refuse.
 
-(3) Every such owner shall, during the continuance of such refusal, be discharged from any penalties to which he might otherwise have become liable by reason of his default in executing the works.
+(3) Every such owner shall, during the continuance of such refusal, be discharged from any penalty to which he might otherwise have become liable by reason of his default in executing the works.
 
 ## PART IX
 
@@ -1126,29 +1108,29 @@ MISCELLANEOUS PROVISIONS
 
 ### Notices, orders and other documents may be given by authorised officer
 
-62\.—(1) All notices, orders, receipts, warrants and other documents of any nature which the Director is empowered to give by this Act or any regulations made thereunder may, subject to the direction of the Director, be given by any authorised officer on behalf of the Director.
+62\.—(1) All notices, orders, receipts, warrants and other documents of any nature which the Director is empowered to give by this Act or any regulations made thereunder may, subject to the direction of the Director , be given by any authorised officer on behalf of the Director.
 
-(2) Where any such notice, order, receipt, warrant or document requires authentication, the signature or official facsimile thereof of the Director or any public officer authorised to act on behalf of the Director affixed thereto shall be sufficient authentication.
+(2) Where any such notice, order, receipt, warrant or document requires authentication, the signature or an official facsimile thereof of the Director or any public officer authorised to act on behalf of the Director affixed thereto shall be sufficient authentication.
 
 ### Service of notices, etc.
 
-63\.—(1) Every notice, order or document required by or authorised by this Act or any regulations made thereunder to be served on any person may be served —
+63\.—(1) Every notice, order or document required or authorised by this Act or any regulations made thereunder to be served on any person may be served —
 
 (a) by delivering it to that person or by delivering it at the last known place of residence of that person to some adult member of his family or his employee;
 
-(b) by leaving it at the usual or last known place of residence or business of that person in an envelope addressed to that person; or
+(b) by leaving it at the usual or last known place of residence or place of business of that person in an envelope addressed to that person; or
 
-(c) by forwarding it by post in a prepaid letter addressed to that person at his usual or last known place of residence or business.
+(c) by forwarding it by post in a prepaid letter addressed to that person at his usual or last known place of residence or place of business.
 
-(2) A notice, order or document required by or authorised by this Act or any regulations made thereunder to be served on the owner or occupier of any premises shall be deemed to be properly addressed if addressed by the description of the “owner” or “occupier” of the premises without further name or description.
+(2) A notice, order or document required or authorised by this Act or any regulations made thereunder to be served on the owner or occupier of any premises shall be deemed to be properly addressed if addressed by the description of the “owner” or “occupier” of the premises without further name or description.
 
-(3) A notice, order or document required by or authorised by this Act or any regulations made thereunder to be served on the owner or occupier of any premises may be served by delivering it or a true copy thereof to some adult person on the premises or, if there is no such person on the premises to whom it can with reasonable diligence be delivered, by affixing the notice, order or document to some conspicuous part of the premises.
+(3) A notice, order or document required or authorised by this Act or any regulations made thereunder to be served on the owner or occupier of any premises may be served by delivering it or a true copy thereof to some adult person on the premises or, if there is no such person on the premises to whom it can with reasonable diligence be delivered, by affixing the notice, order or document to some conspicuous part of the premises.
 
 (4) A notice, order or document required by or authorised by this Act or any regulations made thereunder to be served on any body corporate may be served —
 
-(a) by delivering it to the secretary or other like officer of the body corporate at its registered or principal place of business; or
+(a) by delivering it to the secretary or other like officer of the body corporate at its registered office or principal place of business; or
 
-(b) by sending it by registered post addressed to the body corporate at its registered or principal place of business.
+(b) by sending it by registered post addressed to the body corporate at its registered office or principal place of business.
 
 ### General penalties
 
@@ -1174,15 +1156,15 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Evidence of analyst
 
-67\.—(1) The Director may, by instrument in writing under his hand, appoint persons who in his opinion are qualified to be analyst for the purposes of this Act or any regulations made thereunder.
+67\.—(1) The Director may, by instrument in writing under his hand, appoint persons who in his opinion are qualified to be analysts for the purposes of this Act or any regulations made thereunder.
 
-(2) Subject to subsection (4), a certificate of an analyst appointed under subsection (1) stating that he has analysed or examined a substance and stating the result of his analysis or examination is admissible in evidence in any proceeding for an offence under this Act as prima facie evidence of the facts stated in the certificate and of the correctness of the result of the analysis or examination.
+(2) Subject to subsection (3), a certificate of an analyst appointed under subsection (1) stating that he has analysed or examined a substance and stating the result of his analysis or examination is admissible in evidence in any proceedings for an offence under this Act as prima facie evidence of the facts stated in the certificate and of the correctness of the result of the analysis or examination.
 
-(3) For the purposes of this section, a document purporting to be a certificate referred to in subsection (2) on its production by the prosecution shall, unless the contrary is proved, be deemed to be such a certificate.
+(3) A certificate of an analyst referred to in subsection (2) shall not be received in evidence in pursuance of that subsection unless the person charged has been given a copy of the certificate together with reasonable notice of the intention of the prosecution to produce the certificate as evidence in the proceedings.
 
-(4) A certificate referred to in subsection (2) shall not be received in evidence in pursuance of that subsection unless the person charged has been given a copy of the certificate together with reasonable notice of the intention of the prosecution to produce the certificate as evidence in the proceedings.
+(4) Where a certificate of an analyst appointed under subsection (1) is admitted in evidence under subsection (2), the person charged may require the analyst to be called as a witness for the prosecution and the analyst may be cross-examined as if he had given evidence of the matters stated in the certificate.
 
-(5) Where a certificate of an analyst appointed under subsection (1) is admitted in evidence under subsection (2), the person charged may require the analyst to be called as a witness for the prosecution and the analyst may be cross-examined as if he had given evidence of the matters stated in the certificate.
+(5) For the purposes of this section, a document purporting to be a certificate referred to in subsection (2) on its production by the prosecution shall, unless the contrary is proved, be deemed to be such a certificate.
 
 ### Offence by body corporate
 
@@ -1206,11 +1188,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Protection from liability
 
-72\.—(1) No liability shall lie against the Government or any authorised officer by reason of the fact that any works are carried out in accordance with the provisions of this Act or any regulations made thereunder or that such works or plans of the works are subject to inspection, approval or certification by the Director or any authorised officer.
+72\.—(1) No liability shall lie against the Governmentor any authorised officer by reason of the fact that any works are carried out in accordance with the provisions of this Act or any regulations made thereunder or that such works or plans of the works are subject to inspection, approval or certification by the Director or any authorised officer.
 
-(2) Nothing in this Act or any regulations made thereunder shall make it obligatory for the Director or any authorised officer to inspect any building or works or the site of any proposed works to ascertain whether the provisions of this Act or any regulations made thereunder are complied with or whether any plans, certificates, reports, notices or other documents submitted to him are accurate.
+(2) Nothing in this Act or any regulations made thereunder shall make it obligatory for the Director or any authorised officer to inspect any building or works or the site of any proposed works to ascertain whether the provisions of this Act or any regulations made thereunder are complied with or whether any plans, certificates, reports, notices or other documents submitted to himare accurate.
 
-(3) No matter or thing done by the Director or by any authorised officer shall, if it were done in good faith for the purpose of carrying out the provisions of this Act or any regulations made thereunder, subject him or such person personally to any action, liability, claim or demand whatsoever.
+(3) No matter or thing done by the Director orby any authorised officer shall, if it were done in good faith for the purpose of carrying out the provisions of this Act or any regulations made thereunder, subject him or such person personally to any action, liability, claim or demand.
 
 (4) Where the Director or any authorised officer provides any information to any person in respect of any building or works by electronic or other means, neither the Government, the Director nor any authorised officer shall be liable for any loss or damage suffered by any person by reason of any error or omission of whatever nature or howsoever caused, including any defect or breakdown in the equipment used for providing the information, if such error or omission is made in good faith and in the ordinary course of duties of the Director or authorised officer.
 
@@ -1258,19 +1240,17 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (2) Any regulations made under this Act shall be presented to Parliament as soon as possible after publication in theGazette.
 
-### Repeal and transitional and savings provisions
+### Transitional and savings provisions
 
-76\.—(1) The Water Pollution Control and Drainage Act (Cap. 348) (referred to in this section as the repealed Act) is repealed.
+76\.—(1) Any decision made by the Director of Water Pollution Control and Drainage under the Water Pollution Control and Drainage Act (Cap. 348, 1985 Ed.) (referred to in this section as the repealed Act) to control, supervise, maintain and repair any private sewerage system shall be deemed to be a decision made by the Director under section 8 as if that section had been in force at the time when the Director of Water Pollution Control and Drainage made the decision.
 
-(2) Any decision made by the Director of Water Pollution Control and Drainage under the repealed Act to control, supervise, maintain and repair any private sewerage system shall be deemed to be a decision made by the Director under section 8 as if that section had been in force at the time when the Director of Water Pollution Control and Drainage made the decision.
+(2) Any permission, consent or approval granted by the Director of Water Pollution Control and Drainage under the repealed Act shall, so far as it is not inconsistent with the provisions of this Act and except as otherwise expressly provided in this Act, continue and be deemed to have been granted by the Director under the corresponding provision of this Act.
 
-(3) Any permission, consent or approval granted by the Director of Water Pollution Control and Drainage under the repealed Act shall, so far as it is not inconsistent with the provisions of this Act and except as otherwise expressly provided in this Act, continue and be deemed to have been granted by the Director under the corresponding provision of this Act.
+(3) Any notice, order, direction or declaration issued or made by the Director of Water Pollution Control and Drainage or the Minister under the repealed Act before 1st April 1999 shall be deemed to be a notice, order, direction or declaration issued or made by the Director or the Minister, as the case may be, under the corresponding provision of this Act as if it had been in force when the notice, order, direction or declaration was made.
 
-(4) Any notice, order, direction or declaration issued or made by the Director of Water Pollution Control and Drainage or the Minister under the repealed Act before the appointed day shall be deemed to be a notice, order, direction or declaration issued or made by the Director or the Minister, as the case may be, under the corresponding provision of this Act as if it had been in force when the notice, order, direction or declaration was made.
+(4) Where a period of time specified in any provision of the repealed Act is current on 1st April 1999, this Act shall have effect as if the corresponding provision in this Act had been in force when that period began to run.
 
-(5) Where a period of time specified in any provision of the repealed Act is current on the appointed day, this Act shall have effect as if the corresponding provision in this Act had been in force when that period began to run.
-
-(6) The powers conferred on the Director by this Act may be exercised in respect of —
+(5) The powers conferred on the Director by this Act may be exercised in respect of —
 
 (a) any sewerage system or sanitary facilities constructed or altered in contravention of the repealed Act;
 
@@ -1278,9 +1258,66 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (c) any storm water drainage system constructed or altered in contravention of the repealed Act.
 
-(7) Any investigation, legal proceeding or remedy in respect of any right, privilege, obligation, liability, penalty, forfeiture or punishment acquired, accrued, or incurred under the repealed Act may be instituted, continued or enforced by the Director as if a reference in the repealed Act to the Director of Water Pollution Control and Drainage is a reference to the Director.
+(6) Any investigation, legal proceeding or remedy in respect of any right, privilege, obligation, liability, penalty, forfeiture or punishment acquired, accrued or incurred under the repealed Act may be instituted, continued or enforced by the Director as if a reference in the repealed Act to the Director of Water Pollution Control and Drainage is a reference to the Director.
 
-(8) Where the Director has before the appointed day applied for a mandatory order under section 24 of the repealed Act or made a complaint under section 33 of that Act, the provisions of that Act shall continue to apply to that application and any mandatory order made as a result of that application or complaint as if this Act had not been enacted.
+(7) Where the Director has before 1st April 1999 applied for a mandatory order under section 24 of the repealed Act or made a complaint under section 33 of that Act, the provisions of that Act shall continue to apply to that application and any mandatory order made as a result of that application or complaint as if this Act had not been enacted.
 
-(9) In any written law or document, a reference to the repealed Act shall, in so far as it is necessary for preserving its effect, be construed as a reference to this Act and a reference to the Director of Water Pollution Control and Drainage shall be construed as a reference to the Director.
+(8) In any written law or document, a reference to the repealed Act shall, in so far as it is necessary for preserving its effect, be construed as a reference to this Act and a reference to the Director of Water Pollution Control and Drainage shall be construed as a reference to the Director.
+
+## LEGISLATIVE HISTORY
+
+Sewerage and Drainage Act
+
+(CHAPTER 293A)
+
+This Legislative History is provided for the convenience of users of the Sewerage and Drainage Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 10 of 1999—Sewerage and Drainage Act 1999**|
+||Date of First Reading|20 January 1999|
+|||(Bill No. 3/99 published on 21 January 1999)|
+||Date of Second and Third Readings|11 February 1999|
+||Date of commencement|1 April 1999|
+|2.|**2000 Revised Edition—Sewerage and Drainage Act**|
+||Date of operation|30 December 2000|
+## COMPARATIVE TABLE
+
+Sewerage and Drainage Act
+
+(CHAPTER 293A)
+
+COMPARATIVE TABLE
+
+The following provisions in the Sewerage and Drainage Act 1999 (Act 10 of 1999) have been renumbered by the Law Revision Commissioners in this 2000 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Sewerage and Drainage Act.
+
+2000 Ed\. 
+
+Act 10 of 1999 
+
+67 —(3)
+
+67 —(4)
+
+(4)
+
+(5)
+
+(5)
+
+(3)
+
+Omitted
+
+76 —(1)
+
+76 —(1)
+
+(2)
+
+(2) to (8)
+
+(3) to (9)
 
