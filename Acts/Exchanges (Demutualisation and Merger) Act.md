@@ -198,7 +198,7 @@ shall prohibit the capital reduction under section 4 and the capital creation un
 
 (2) The special purpose company shall, from time to time, offer for sale such number of the transferee holding company’s shares, at such price and on such terms, as the Minister may, by notice in writing, direct.
 
-(3) Divisions 1 and 5 of Part IV of the Companies Act (which provides for prospectus requirements) shall not apply to an offer of shares made by the transferee holding company under subsection (1) or by the special purpose company under subsection (2).
+(3) Subdivision 2 of Division 1 of Part XIII of the Securities and Futures Act 2001 (which provides for prospectus requirements) shall not apply to an offer of shares made by the transferee holding company under subsection (1) or by the special purpose company under subsection (2).
 
 (4) Section 76 of the Companies Act (which prohibits a company from financing dealings in its own shares) shall not apply in relation to any guarantee, indemnity, warranty, representation or other undertaking given or obligation assumed by the transferee holding company or the special purpose company in relation to an offer of shares made under subsection (1) or (2).
 
@@ -403,6 +403,11 @@ This Legislative History is provided for the convenience of users of the Exchang
 |||(Bill No. 33/2001 published on 26 September 2001)|
 ||Date of Second and Third Readings|5 October 2001|
 ||Dates of commencement|1st January 2002|
+|6.|**Act 42 of 2001—Securities and Futures Act 2001**|
+||Date of First Reading|25 September 2001|
+|||(Bill No. 33/2001 published on 26 September 2001)|
+||Date of Second and Third Readings|5 October 2001|
+||Dates of commencement|1st July 2002|
 ## COMPARATIVE TABLE
 
 Exchanges (Demutualisation and Merger) Act
