@@ -1508,8 +1508,6 @@ Part I
 
 The Central Provident Fund established under the Central Provident Fund Act.
 
-The Municipal Provident Fund as defined in the Local Government Integration Act.
-
 Part II
 
 The Tan Tock Seng’s Hospital Corporation.
@@ -1684,3 +1682,9 @@ This Legislative History is provided for the convenience of users of the Pension
 ||Date of commencement|1 September 1998 (section 3)|
 |37.|**G. N. No. S 451/1998—Pensions (Amendment) Regulations 1998**|
 ||Date of commencement|1 September 1998|
+|38.|**Act 11 of 2003—Street Works (Amendment) Act 2003**|
+||(Consequential amendments made by)||
+||Date of First Reading|24 April 2003|
+|||(Bill No. 9/2003 published on 25 April 2003)|
+||Date of Second and Third Readings|30 June 2003|
+||Date of commencement|1 August 2003|
