@@ -174,7 +174,7 @@ an option to join the INVEST Plan as a member thereof and for the terms and cond
 
 (2) Subject to subsection (3), the regulations made under section 3(1) in relation to the officers referred to in subsection (1) shall provide —
 
-(a) in the case of a uniformed service officer referred to in subsection (1)(a), that any such officer who opts to join the INVEST Plan shall cease to be eligible to benefits under the Pensions Act but shall remain eligible under the INVEST Plan to benefits not less in value than the amount of any pension, gratuity or other allowance for which he would have been granted under the Pensions Act if he retired from service, or was injured or died in service, on the date immediately prior to his joining the INVEST Plan; and
+(a) in the case of a uniformed service officer referred to in subsection (1)(a), that any such officer who opts to join the INVEST Plan shall cease to be eligible to benefits under the Pensions Act (Cap. 225) but shall remain eligible under the INVEST Plan to benefits not less in value than the amount of any pension, gratuity or other allowance for which he would have been granted under the Pensions Act if he retired from service, or was injured or died in service, on the date immediately prior to his joining the INVEST Plan; and
 
 (b) in the case of an officer referred to in subsection (1)(b), that any such officer who opts to join the INVEST Plan shall remain eligible to benefits not less in value than the amount of any gratuity or other like benefit for which he would have been granted under his contract if he had completed his term of service under the contract on the date immediately prior to his joining the INVEST Plan.
 
@@ -284,7 +284,7 @@ INVEST FUND
 
 shall not be withdrawn and applied to meet the payment of any pension, gratuity, allowance, compensation or other like benefit granted under the Scheme, or such other expenses relating to the granting of any pension, gratuity, allowance, compensation or other like benefit under the Scheme.
 
-[29/2002 wef 30/01/2002]
+[29/2002 wef 30/01/2003]
 
 ### Administration of Fund
 
@@ -402,7 +402,9 @@ AUDIT AND ACCOUNTING
 
 (3) The accounts and annual financial statements of the Fund shall be audited by the Auditor-General or such other auditor as may be appointed annually by the Minister in consultation with the Auditor-General.
 
-(4) A person shall not be qualified for appointment as an auditor under subsection (3) unless he is an approved company auditorwithin the meaning of the Companies Act (Cap. 50).
+(4) A person shall not be qualified for appointment as an auditor under subsection (3) unless he is a public accountant within the meaning of the Companies Act (Cap. 50).
+
+[5/2004 wed 01/04/2004]
 
 (5) The remuneration of the auditor shall be paid out of the Fund.
 
@@ -422,9 +424,9 @@ AUDIT AND ACCOUNTING
 
 (2A) Notwithstanding subsection (1), where an amendment is made to the Scheme, and the amendment affects the cost of benefits payable under the Scheme or creates an initial unfunded liability, the Minister charged with the responsibility for the Scheme may, for the purposes of section 12(1)(a), appoint a person to make an examination and report on the state of the Fund.
 
-[29/2002 wef 30/01/2002]
+[29/2002 wef 30/01/2003]
 
-(3) The person appointed under subsection (1) , (2) or (2A) shall, at the end of his examination, report to the Minister for Finance and the Minister referred to in subsection (2) or (2A), as the case may be, the state of the Fund having regard to its prospective liabilities and the probable annual provisions required by the Fund to meet those liabilities.
+(3) The person appointed under subsection (1), (2) or (2A) shall, at the end of his examination, report to the Minister for Finance and the Minister referred to in subsection (2) or (2A), as the case may be, the state of the Fund having regard to its prospective liabilities and the probable annual provisions required by the Fund to meet those liabilities.
 
 (4) The Minister referred to in subsection (2) or (2A), as the case may be, shall cause a copy of every such report to be presented to Parliament forthwith after receipt thereof.
 
@@ -461,3 +463,9 @@ This Legislative History is provided for the convenience of users of the Home Af
 |||(Bill No. 29/2002 published on 2 October 2002)|
 ||Date of Second and Third Readings|31 October 2002|
 ||Date of commencement|30 January 2003|
+|4.|**Act 5 of 2004—Companies (Amendment) Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|5 January 2004|
+|||(Bill No. 3/2004 published on 6 January 2004)|
+||Date of Second and Third Readings|6 February 2004|
+||Dates of commencement|1 April 2004 (except section 28(a) and (c))|
