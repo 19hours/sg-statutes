@@ -977,6 +977,13 @@ This Legislative History is provided for the convenience of users of the Crimina
 ||Date of Second and Third Readings|23 July 2002|
 ||Date of commencement|1 October 2002|
 |||(item (2) in the Schedule)|
+|44.|**Act 10 of 2001—Electricity Act 2001**|
+||(Consequential amendments made by)||
+||Date of First Reading|22 February 2001|
+|||(Bill No. 9/2001 published on 23 February 2001)|
+||Date of Second and Third Readings|16 March 2001|
+||Date of commencement|1 January 2003|
+|||(section 105(1) — Consequential amendments to other written law)|
 ## COMPARATIVE TABLE
 
 Criminal Law (Temporary Provisions) Act
