@@ -28,7 +28,7 @@
 
 [**Part III CONTROL OF CULTIVATION OF PLANTS**](#Part-III)
 
-- [9 Application](#Application)
+- [9 Application of this Part](#Application-of-this-Part)
 
 - [10 No cultivation of plants without licence](#No-cultivation-of-plants-without-licence)
 
@@ -50,7 +50,7 @@
 
 - [18 Presumption that owner and occupier permitted growing of prohibited plants](#Presumption-that-owner-and-occupier-permitted-growing-of-prohibited-plants)
 
-- [19 Certificate of Director-General to be evidence](#Certificate-of-Director-General-to-be-evidence)
+- [19 Certificate of Director-General to be conclusive evidence](#Certificate-of-Director-General-to-be-conclusive-evidence)
 
 - [20 Eradication and destruction of prohibited plants](#Eradication-and-destruction-of-prohibited-plants)
 
@@ -112,13 +112,13 @@
 
 - [45 Protection from liability](#Protection-from-liability)
 
-- [45A Fees, etc., payable to Authority](#Fees-etc-payable-to-Authority)
+- [46 Fees, etc., payable to Authority](#Fees-etc-payable-to-Authority)
 
-- [46 Composition of offences](#Composition-of-offences)
+- [47 Composition of offences](#Composition-of-offences)
 
-- [47 Exemption](#Exemption)
+- [48 Exemption](#Exemption)
 
-- [48 Rules](#Rules)
+- [49 Rules](#Rules)
 
 [**Legislative History**](#Legislative-History)
 
@@ -130,9 +130,9 @@
 
 (Original Enactment: Act 18 of 1993)
 
-REVISED EDITION 1999
+REVISED EDITION 2000
 
-(1st August 1999)
+(30th December 2000)
 
 An Act to consolidate and amend the law relating to the cultivation, import, transhipment and export of plants and plant products, the protection of plants and plant products against pests and diseases, the control of the introduction of pests into Singapore, the use of pesticides, the measures pertaining to the development and improvement of the plant industry in Singapore and for purposes connected therewith.
 
@@ -154,17 +154,13 @@ PRELIMINARY
 
 “authorised officer” means any person appointed by the Director-General as an authorised officer under section 3(2);
 
-“Authority” means the Agri-food and Veterinary Authority established under section 3 of the Agri-food and Veterinary Authority Act 2000;
-
-[16/2000 wef 01/04/2000]
+“Authority” means the Agri-food and Veterinary Authority established under section 3 of the Agri-food and Veterinary Authority Act 2000 (Act 16 of 2000);
 
 “certified pesticide operator” means a person who is certified as a pesticide operator under section 12;
 
 “conveyance” includes any aircraft, vessel, train, vehicle or any other artificial contrivance, whether mechanically propelled or otherwise used or capable of being used as a means of transport on land, water or air;
 
 “Director-General” means the Director-General, Agri-food and Veterinary Services appointed under section 3(1) of the Animals and Birds Act (Cap. 7);
-
-[16/2000 wef 01/04/2000]
 
 “diseased” means attacked by or infected with any pest;
 
@@ -214,7 +210,7 @@ PRELIMINARY
 
 “prohibited plant” means any plant prohibited under section 17;
 
-“sell” includes offering or attempting to sell, or receiving for sale, or having in possession for sale, or exposing for sale, or sending or delivering for sale, or causing or allowing to be sold, offered or exposed for sale, and ``sale’’ has a corresponding meaning;
+“sell” includes offering or attempting to sell, or receiving for sale, or having in possession for sale, or exposing for sale, or sending or delivering for sale, or causing or allowing to be sold, offered or exposed for sale, and “sale” has a corresponding meaning;
 
 “soil” includes earth, water, peat, manure, compost, sand, clay and any other substance capable of supporting plant life, or transmitting any pest, whether or not used or intended to be used as a growing medium, or in any process of manufacture, or as ballast or for any other purpose whatsoever;
 
@@ -232,39 +228,41 @@ whether such plant is to be transferred directly between conveyances or whether 
 
 “treatment” means disinfection and disinfestation to ensure the removal, sterilisation or killing of any pest by appropriate means.
 
-[32/98]
+[32/98; 16/2000]
 
 ### Administration of Act and appointment of authorised officer, etc.
 
 3\.—(1) The Director-General shall be responsible for the administration of this Act, subject to the general or special directions of the Minister.
 
+[16/2000]
+
 (2) The Director-General may in writing appoint any public officer or any officer of the Authority or of any other statutory authority to be an authorised officer for the purposes of this Act and any rules made thereunder.
+
+[16/2000]
 
 (3) The Director-General may appoint one or more persons with the prescribed qualifications and practical experience to be authorised analysts for the purposes of this Act and any rules made thereunder.
 
+[16/2000]
+
 (4) The Director-General may delegate the exercise of all or any of the powers conferred or duties imposed upon him by this Act to any authorised officer.
 
-[16/2000 wef 01/04/2000]
+[16/2000]
 
 ### Officers deemed to be public servants
 
 4\. All authorised officers shall be deemed to be public servants for the purposes of the Penal Code (Cap. 224).
 
-[32/98]
-
 ### Officer to produce identification on request
 
 5\. Every authorised officer, when exercising any power under this Act, shall declare his office and shall, if requested by any person in relation to whom the power is sought to be exercised, produce such identification card as the Director-General may provide.
 
-[32/98]
+[16/2000]
 
 ### Director-General may authorise public officer, etc., to exercise powers and perform duties
 
 6\. The powers conferred and the duties imposed on the Director-General under this Act or any rules made thereunder may be exercised and carried out by any public officer or officer of the Authority or of any other statutory authority generally or specially authorised by name or office by the Director-General and subject to his directions.
 
-[5A
-
-[32/98]
+[32/98; 16/2000]
 
 ## PART II
 
@@ -274,11 +272,9 @@ IMPORT AND TRANSHIPMENT OF FRESH FRUITS AND VEGETABLES
 
 7\.—(1) No person shall import for sale, supply or distribution or tranship any fresh fruit or vegetable except under and in accordance with the conditions of a licence issued by the Director-General.
 
-[32/98]
+[32/98; 16/2000]
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
-
-[6
 
 [32/98]
 
@@ -298,11 +294,11 @@ IMPORT AND TRANSHIPMENT OF FRESH FRUITS AND VEGETABLES
 
 (f) the container of the fruits or vegetables constituting the consignment bears the name and address of the producer and such other particulars as may be prescribed.
 
-[32/98]
+[32/98; 16/2000]
 
 (2) No licensee shall tranship any fresh fruit or vegetable unless the licensee has obtained a permit from the Director-General in respect of each consignment of fresh fruits or vegetables to be transhipped by him and the transhipment is carried out by him in accordance with the conditions of the permit.
 
-[32/98]
+[32/98; 16/2000]
 
 (3) Any licensee who contravenes or fails to comply with subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
 
@@ -326,15 +322,13 @@ IMPORT AND TRANSHIPMENT OF FRESH FRUITS AND VEGETABLES
 
 “licensee” means a person who has obtained a licence as required under section 7 for the import or transhipment, as the case may be, of any fresh fruit or vegetable.
 
-[7
-
 [32/98]
 
 ## PART III
 
 CONTROL OF CULTIVATION OF PLANTS
 
-### Application
+### Application of this Part
 
 9\. This Part shall not apply to —
 
@@ -342,13 +336,11 @@ CONTROL OF CULTIVATION OF PLANTS
 
 (b) the cultivation of any plant which is not for sale.
 
-[10
-
 ### No cultivation of plants without licence
 
 10\. No person shall cultivate any plant on any premises except under and in accordance with a licence issued by the Director-General.
 
-[11
+[16/2000]
 
 ### Use of pesticide
 
@@ -358,6 +350,8 @@ CONTROL OF CULTIVATION OF PLANTS
 
 (b) he is a certified pesticide operator or the use is supervised by a certified pesticide operator.
 
+[16/2000]
+
 (2) Any person who uses any pesticide in the cultivation of any plant shall ensure that —
 
 (a) the pesticide is properly stored in the prescribed manner;
@@ -366,11 +360,11 @@ CONTROL OF CULTIVATION OF PLANTS
 
 (c) the pesticide residue on any plant cultivated does not exceed the prescribed level.
 
-[12
-
 ### Certified pesticide operator
 
 12\.—(1) A person who desires to be certified as a pesticide operator may make an application to the Director-General.
+
+[16/2000]
 
 (2) The Director-General may certify a person as a pesticide operator if the Director-General is satisfied that —
 
@@ -378,9 +372,11 @@ CONTROL OF CULTIVATION OF PLANTS
 
 (b) he is in all other respects a fit and proper person to be entrusted to apply or otherwise use pesticides safely.
 
+[16/2000]
+
 (3) Where a person is certified as a pesticide operator, the Director-General shall issue him a certificate to that effect.
 
-[13
+[16/2000]
 
 ### Suspension or cancellation of certification of pesticide operator
 
@@ -396,17 +392,21 @@ CONTROL OF CULTIVATION OF PLANTS
 
 (e) fails to keep such records of the use of any pesticide as the Director-General may require.
 
-[14
+[16/2000]
 
 ### Application for registration of pesticide
 
 14\.—(1) Every pesticide for use in the cultivation of any plant shall be registered with the Director-General.
 
+[16/2000]
+
 (2) An application for registration under subsection (1) shall be made in such manner and form and accompanied by such documents and particulars as may be required by the Director-General.
+
+[16/2000]
 
 (3) The Director-General may establish one or more committees consisting of such persons as he may appoint for the purpose of advising him on such matters arising out of any application for registration under this section as are referred to any such committee by the Director-General.
 
-[15
+[16/2000]
 
 ### Protection of confidential supporting information about innovative pesticides
 
@@ -416,7 +416,7 @@ CONTROL OF CULTIVATION OF PLANTS
 
 (b) shall not use the confidential supporting information for the purposes of determining whether to grant any other application.
 
-[32/98]
+[32/98; 16/2000]
 
 (2) For the purposes of this section and section 16, unless the context otherwise requires —
 
@@ -436,8 +436,6 @@ CONTROL OF CULTIVATION OF PLANTS
 
 “Director-General” includes any public officer or officer of the Authority or of any other statutory authority authorised under section 6 to carry out registration of pesticides under section 14;
 
-[16/2000 wef 01/04/2000]
-
 “ingredient” includes a chemical or biological entity;
 
 “innovative pesticide application” means —
@@ -456,9 +454,7 @@ CONTROL OF CULTIVATION OF PLANTS
 
 “protected period”, in relation to confidential supporting information relating to an innovative pesticide application received by the Director-General, means a period of 5 years from the date the innovative pesticide application is or was, as the case may be, received by the Director-General.
 
-[15A
-
-[32/98]
+[32/98; 16/2000]
 
 ### Circumstances where protection under section 15 does not apply
 
@@ -484,7 +480,7 @@ CONTROL OF CULTIVATION OF PLANTS
 
 (v) any person or organisation, or a person or an organisation within a class or classes of persons or organisations, approved by any rules made under this Act, if the disclosure is in accordance with such conditions as may be specified in the rules.
 
-[32/98]
+[32/98; 16/2000]
 
 (2) The power to grant consent under subsection (1)(a)(i) may be exercised by a person other than the applicant referred to in that subsection if —
 
@@ -496,11 +492,9 @@ CONTROL OF CULTIVATION OF PLANTS
 
 (b) that applicant’s rights in respect of the relevant confidential supporting information have been transferred to that person and the applicant or that other person has notified the Director-General in writing of the transfer.
 
-[32/98]
+[32/98; 16/2000]
 
 (3) For the purposes of this section, “WTO Country” means a country that is a party to the Agreement establishing the World Trade Organisation adopted at Marrakesh on 15th April 1994.
-
-[15B
 
 [32/98]
 
@@ -514,7 +508,7 @@ PROHIBITED PLANTS
 
 (2) An order made under subsection (1) may provide that no person shall cultivate any prohibited plant except under and in accordance with a permit issued by the Director-General.
 
-[16
+[16/2000]
 
 ### Presumption that owner and occupier permitted growing of prohibited plants
 
@@ -524,21 +518,21 @@ PROHIBITED PLANTS
 
 (b) that on becoming aware of the existence of the plant he forthwith effectually eradicated and destroyed it.
 
-[17
-
-### Certificate of Director-General to be evidence
+### Certificate of Director-General to be conclusive evidence
 
 19\. A certificate under the hand of the Director-General stating that any plant is a prohibited plant shall be conclusive evidence of the facts stated therein.
 
-[18
+[16/2000]
 
 ### Eradication and destruction of prohibited plants
 
 20\.—(1) Any prohibited plant cultivated in contravention of any order made under section 17 may be eradicated and destroyed by the Director-General or any person acting under his authority.
 
+[16/2000]
+
 (2) The cost of such eradication and destruction shall be recoverable from the owner or occupier of the land on which the prohibited plant was planted or permitted to grow or from the person who planted it, as a debt due to the Authority.
 
-[19
+[16/2000]
 
 ## PART V
 
@@ -552,7 +546,7 @@ CONTROL OF PESTS
 
 (b) take, without payment, any sample of any plant, plant product or soil.
 
-[32/98]
+[32/98; 16/2000]
 
 (2) The notice referred to in subsection (1) shall be served on the owner or occupier of the land or premises at least 6 hours before the time of intended entry of the land or premises.
 
@@ -564,7 +558,7 @@ CONTROL OF PESTS
 
 (b) the treatment of the land or premises or plant or of any tool or utensil used for agricultural or industrial purposes on the land or premises with a view to bringing them into a condition not favourable to the introduction or spread of any pest.
 
-[32/98]
+[32/98; 16/2000]
 
 (4) If the owner or occupier of any land or premises fails to comply with a notice under subsection (3) within the time stated for the performance of the acts required to be done, any authorised officer may —
 
@@ -576,7 +570,7 @@ CONTROL OF PESTS
 
 and the costs and expenses thereof shall be recoverable as a debt due from the owner or occupier to the Authority.
 
-[32/98]
+[32/98; 16/2000]
 
 (5) Nothing in subsection (4) shall affect the liability of any person to prosecution and punishment under subsection (7).
 
@@ -584,11 +578,9 @@ and the costs and expenses thereof shall be recoverable as a debt due from the o
 
 (6) Any person who obstructs or hinders the Director-General or an authorised officer in the exercise of any of his powers under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
 
-[32/98]
+[32/98; 16/2000]
 
 (7) Any owner or occupier of any land or premises who wilfully fails to comply with the notice under subsection (3) within the time stated shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $100 for every day during which the offence continues after conviction.
-
-[20
 
 [32/98]
 
@@ -596,39 +588,33 @@ and the costs and expenses thereof shall be recoverable as a debt due from the o
 
 22\.—(1) Where the Director-General is of the opinion that any plant on any land is diseased, he may make an order placing the land or any part thereof in quarantine for such period as may be prescribed by the order.
 
-(2) So long as an order of quarantine applies to any land, no person shall remove any plant therefrom except under and in accordance with the direction of an authorised officer.
+[16/2000]
 
-[32/98]
+(2) So long as an order of quarantine applies to any land, no person shall remove any plant therefrom except under and in accordance with the direction of an authorised officer.
 
 (3) Any land placed in quarantine under subsection (1) shall continue in quarantine until the Director-General certifies that no plant thereon is diseased.
 
-[21
+[16/2000]
 
 ### Application for examination of quarantined area
 
 23\.—(1) Any owner or occupier of any land quarantined under section 22(1) may apply to an authorised officer to examine the quarantined area with a view to obtaining from the authorised officer the certificate referred to in section 22(3).
 
-[32/98]
-
 (2) The authorised officer shall, as soon as possible after receipt of such an application, visit and examine the quarantined area and may charge such fees as may be prescribed for such visit and examination.
-
-[22
-
-[32/98]
 
 ### Power to order immediate destruction of plants
 
 24\.—(1) If in the opinion of the Director-General the destruction of any diseased plant is a matter of necessity and extreme urgency, he may forthwith make an order in writing directing the immediate destruction of the plant by any person referred to in the order.
 
-(2) Such plant shall be destroyed accordingly and the cost of the destruction, if incurred by any person other than the owner or occupier of the land where the diseased plant was, shall be defrayed by the owner or occupier.
+[16/2000]
 
-[23
+(2) Such plant shall be destroyed accordingly and the cost of the destruction, if incurred by any person other than the owner or occupier of the land where the diseased plant was, shall be defrayed by the owner or occupier.
 
 ### Clearing diseased land
 
 25\.—(1) Where it appears to an authorised officer that any plant on any land is diseased and he is of the opinion that it is necessary for the prevention of the spread of any pest that the land be entirely cleared of cultivation or cleared of all cultivation of any particular species, the Director-General may, with the approval of the Minister, by notice in writing addressed to the owner or occupier of the land where the plant is, direct him to fell and burn or otherwise destroy within a time to be stated in the notice and to the satisfaction of the authorised officer all cultivation or all cultivation of the species named in the notice.
 
-[32/98]
+[16/2000]
 
 (2) The action directed by a notice under subsection (1) may be enforced in the manner provided by section 21(4) for the enforcement of the action directed by a notice under section 21(3).
 
@@ -636,11 +622,9 @@ and the costs and expenses thereof shall be recoverable as a debt due from the o
 
 (3) If the owner or occupier of any land on whom a notice under subsection (1) has been served fails to comply with the notice, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $500 for every day during which the offence continues after conviction.
 
-[24
-
 ### Compensation
 
-26\. Where any cultivation has been destroyed in pursuance of a notice issued under section 25, the Minister may, in his discretion, direct the payment out of the Consolidated Fund of compensation for that cultivation subject to the following provisions:
+26\. Where any cultivation has been destroyed in pursuance of a notice issued under section 25(1), the Minister may, in his discretion, direct the payment out of the Consolidated Fund of compensation for that cultivation subject to the following provisions:
 
 (a) no compensation shall be paid for any diseased plant;
 
@@ -648,7 +632,7 @@ and the costs and expenses thereof shall be recoverable as a debt due from the o
 
 (c) the Minister may entirely withhold or may reduce the amount of compensation for the destruction of any cultivation if the owner or occupier of the land has done anything in contravention of, or has failed to comply with, any notice issued under this Part or has by his neglect contributed to the introduction of the pest.
 
-[25
+[16/2000]
 
 ### Accredited pest control agency
 
@@ -658,9 +642,7 @@ and the costs and expenses thereof shall be recoverable as a debt due from the o
 
 (b) to issue phytosanitary certificates.
 
-[26
-
-[32/98]
+[32/98; 16/2000]
 
 ## PART VI
 
@@ -672,19 +654,17 @@ EXPORT OF PLANTS
 
 (2) An order under subsection (1) may specify that no person shall export any plant except under and in accordance with a permit issued by the Director-General.
 
-[27
+[16/2000]
 
 ### Advisory committee
 
 29\. The Minister may establish one or more advisory committees consisting of such members as he may appoint, for the purpose of advising the Minister on the exercise of his power to make any order under section 28, and on other subjects connected therewith.
 
-[28
-
 ### Phytosanitary certificate
 
 30\.—(1) Any authorised officer or accredited pest control agency may, on application and on such terms as the Director-General may require, issue a phytosanitary certificate stating that any plant or plant product is free from pests for the purpose of export.
 
-[32/98]
+[32/98; 16/2000]
 
 (2) Any person who wilfully —
 
@@ -695,8 +675,6 @@ EXPORT OF PLANTS
 (c) uses a phytosanitary certificate with intention of causing it to be believed that a plant or plant product which is not a plant or plant product in respect of which the phytosanitary certificate was issued, is a plant or plant product in respect of which the certificate was issued,
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
-
-[29
 
 ## PART VII
 
@@ -714,7 +692,7 @@ LICENCE AND PERMIT
 
 shall be made to the Director-General in such manner and form as the Director-General may require and shall be accompanied by the prescribed fee and such particulars, information and documents as the Director-General may require.
 
-[32/98]
+[32/98; 16/2000]
 
 (2) On the receipt of an application under subsection (1), the Director-General may —
 
@@ -722,7 +700,7 @@ shall be made to the Director-General in such manner and form as the Director-Ge
 
 (b) refuse to issue the licence or permit applied for.
 
-[32/98]
+[32/98; 16/2000]
 
 (3) Without prejudice to the generality of subsection (2), the Director-General may, in respect of an application for a licence under section 7 or a permit under section 8 —
 
@@ -732,15 +710,15 @@ shall be made to the Director-General in such manner and form as the Director-Ge
 
 if he considers that this is necessary to protect the health or safety of members of the public.
 
-[32/98]
+[32/98; 16/2000]
 
 (4) Where the Director-General has refused to issue the licence or permit applied for, he shall give the applicant notice in writing of the reasons for his refusal.
 
-[32/98]
+[32/98; 16/2000]
 
 (5) The Director-General may at any time vary or revoke any of the conditions imposed under subsection (2)(a) or impose new conditions.
 
-[32/98]
+[32/98; 16/2000]
 
 (6) Every licence or permit issued under this section —
 
@@ -750,11 +728,9 @@ if he considers that this is necessary to protect the health or safety of member
 
 (c) may, unless it is a permit under section 8, be renewed upon its expiry.
 
-[32/98]
+[32/98; 16/2000]
 
 (7) Subsections (1) to (6) shall apply, with the necessary modifications, to an application for the renewal of a licence under section 7 or 10 or a permit under section 17(1) or 28(1).
-
-[30
 
 [32/98]
 
@@ -762,15 +738,21 @@ if he considers that this is necessary to protect the health or safety of member
 
 32\.—(1) The Director-General may at any time revoke or suspend a licence or permit.
 
+[16/2000]
+
 (2) The Director-General shall, before taking any action referred to in subsection (1), notify the person concerned of his intention to take such action and shall give the person concerned an opportunity to submit reasons why such action should not be taken against him.
+
+[16/2000]
 
 (3) Where the Director-General has revoked or suspended a licence or permit under this Act, he shall give notice in writing of the suspension or revocation to the person concerned.
 
+[16/2000]
+
 (4) Where a licence issued by the Director-General pursuant to an order made under section 17 is revoked or has expired, the licensee shall eradicate and destroy all or any of the prohibited plants planted or cultivated or maintained in pursuance thereof.
 
-(5) Any prohibited plant not eradicated and destroyed under subsection (4) shall be deemed to have been grown in contravention of section 17.
+[16/2000]
 
-[31
+(5) Any prohibited plant not eradicated and destroyed under subsection (4) shall be deemed to have been grown in contravention of section 17.
 
 ### Appeal
 
@@ -782,13 +764,11 @@ if he considers that this is necessary to protect the health or safety of member
 
 may, within 7 days of the receipt of the notice informing him of the refusal, suspension or revocation, as the case may be, appeal in writing to the Minister whose decision shall be final.
 
-[32/98]
+[32/98; 16/2000]
 
 (2) Notwithstanding the pendency of any appeal under subsection (1) in respect of the suspension or revocation of a licence or permit, such suspension or revocation shall, unless the Minister otherwise orders, take effect from the date specified by the Director-General therefor.
 
-[31A
-
-[32/98]
+[32/98; 16/2000]
 
 ## PART VIII
 
@@ -800,11 +780,9 @@ MISCELLANEOUS
 
 (a) contravenes or fails to comply with section 10, 11(1) and (2), 22(2) or 41; or
 
-(b) contravenes or fails to comply with any order made by the Minister under section 17 or 28,
+(b) contravenes or fails to comply with any order made by the Minister under section 17(1) or 28(1),
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
-
-[32
 
 [32/98]
 
@@ -812,13 +790,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 35\. Where an offence under this Act or any rules made thereunder has been committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate, or any person who was purporting to act in any such capacity, he, as well as the body corporate, shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
 
-[33
-
 ### Offences committed by agent or servant
 
 36\. Where an offence under this Act or any rules made thereunder is committed by any person acting as the agent or servant of another person, or being otherwise subject to the supervision or instructions of another person for the purposes of any employment in the course of which the offence was committed, that other person shall, without prejudice to the liability of the first-mentioned person, be liable under this Act or any rules made thereunder in the same manner and to the same extent as if he had personally committed the offence if it is proved that the act which constituted the offence was committed with his consent or connivance or that it was attributable to any neglect on his part.
-
-[34
 
 ### General powers of authorised officers
 
@@ -834,11 +808,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (e) break open any hold, compartment or container or other receptacle including any place that could be used as a receptacle.
 
-[32/98]
-
 (2) The owner or occupier of any land, premises or conveyance shall, if requested by an authorised officer, provide reasonable assistance to the authorised officer for the purpose of the exercise of his powers under this section and furnish any information relating to the land or premises which is reasonably required by the authorised officer for the purposes of the discharge of his duties under this Act.
-
-[32/98]
 
 (3) A police officer may arrest without warrant any person who has committed or whom he reasonably suspects to have committed an offence under this Act or any rules made thereunder —
 
@@ -850,19 +820,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (5) Any person who obstructs or hinders any authorised officer in the exercise of any of his powers under this Act or any rules made thereunder shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
 
-[35
-
-[32/98]
-
 ### Power to label for identification
 
 38\.—(1) Any authorised officer may, where he considers it necessary for the purposes of identification, label permanently or temporarily, any consignment of plants or plant products.
 
-[32/98]
-
 (2) Any person who wilfully counterfeits, alters, defaces, erases or removes any such label shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
-
-[36
 
 ### Power to take samples for analysis
 
@@ -871,8 +833,6 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 [32/98]
 
 (2) A report of the result of an analysis which is signed by an authorised analyst shall be admissible in evidence in any proceedings under this Act or any rules made thereunder and, in the absence of evidence to the contrary, is proof of the matters stated in the report.
-
-[37
 
 [32/98]
 
@@ -886,37 +846,39 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (c) disposed of in such manner as he may direct.
 
-[32/98]
+[32/98; 16/2000]
 
 (2) The cost of, and all expenses incurred in, the re-exporting, returning, treatment or disposal under subsection (1) shall be defrayed by the owner, grower or importer of the fresh fruits or vegetables.
-
-[38
 
 ### Access to documents, books and records
 
 41\. Every person who imports for sale or supply or who grows fresh fruits or vegetables shall, on demand, afford the Director-General access to, and produce, such documents, books or records relating to or reasonably believed to relate to the fresh fruits or vegetables as may be required by the Director-General.
 
-[39
+[16/2000]
 
 ### Forfeiture
 
 42\.—(1) Where any person is convicted of any offence under this Act or any rules made thereunder, the court may order that any article seized under this Act or any rules made thereunder or in respect of which the offence was committed, be forfeited to the Authority.
 
-(2) Where a person who is charged for an offence under this Act or any rules made thereunder is acquitted, the court may order any article seized under this Act or any rules made thereunder to be released to the person from whom the article was seized; and where the owner of the article cannot be ascertained, the Authority may confiscate the article seized.
+[16/2000]
 
-(3) Every article so forfeited to the Authority shall be disposed of in such manner as the Authority thinks fit.
+(2) Where a person who is charged for an offence under this Act or any rules made thereunder is acquitted, the court may order any article seized under this Act or any rules made thereunder to be released to the person from whom the article was seized.
 
-[40
+(3) Where the owner of the article cannot be ascertained, the Authority may confiscate the article seized.
+
+[16/2000]
+
+(4) Every article so forfeited to the Authority shall be disposed of in such manner as the Authority thinks fit.
+
+[16/2000]
 
 ### Presumption of ownership
 
 43\. Where in any proceedings under this Act or any rules made thereunder a question arises as to the ownership of any plant, plant product, pest or article, the person found in possession of the plant, plant product, pest or article shall be presumed to be the owner thereof until the contrary is proved.
 
-[41
-
 ### Service of notices
 
-44\.—(1) Where under this Act or any rules made thereunder any notice, order or document is required or authorised to be served on any person, it may be served by —
+44\.—(1) Where under this Act or any rules made thereunder any notice, order or document is required or authorised to be served on any person, it may be served by --
 
 (a) delivering it personally or by leaving it with some adult person at the last known place of residence or business of the person to be served;
 
@@ -924,43 +886,45 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (c) sending it by registered post addressed to the person to be served at his usual or last known place of residence or business.
 
-(2) Any notice, order or document required or authorised by this Act to be served on the owner or the occupier of any premises shall be deemed to be properly addressed if addressed by the description of the "owner" or "occupier" of the premises without further name or description.
-
-[42
+(2) Any notice, order or document required or authorised by this Act to be served on the owner or the occupier of any premises shall be deemed to be properly addressed if addressed by the description of the “owner” or “occupier” of the premises without further name or description.
 
 ### Protection from liability
 
 45\. No suit or other legal proceedings shall lie against the Director-General or any authorised officer in respect of anything done or omitted to be done in the discharge of their duties under this Act or any rules made thereunder unless the thing was done or omitted to be done in bad faith.
 
-[43
-
-[32/98]
+[16/2000]
 
 ### Fees, etc., payable to Authority
 
-45A\. All fees, charges, composition fines and moneys collected under this Act or any rules made thereunder shall be paid to the Authority.
+46\. All fees, charges, composition fines and moneys collected under this Act or any rules made thereunder shall be paid to the Authority.
 
-[16/2000 wef 01/04/2000]
+[45A
+
+[16/2000]
 
 ### Composition of offences
 
-46\.—(1) The Director-General may, in his discretion, compound any offence under this Act or any rules made thereunder which is prescribed as an offence which may be compounded by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $1,000.
+47\.—(1) The Director-General may, in his discretion, compound any offence under this Act or any rules made thereunder which is prescribed as an offence which may be compounded by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $1,000.
+
+[16/2000]
 
 (2) The Minister may prescribe the offences which may be compounded.
 
 (3) Where an offence is compounded under this Act or any rules made thereunder, any article seized shall be forfeited to the Authority.
 
-[44
+[46
+
+[16/2000]
 
 ### Exemption
 
-47\. The Minister may, either generally or in any particular case, and subject to such conditions as he may impose, exempt any person from all or any of the provisions of this Act or any rules made thereunder.
+48\. The Minister may, either generally or in any particular case, and subject to such conditions as he may impose, exempt any person from all or any of the provisions of this Act or any rules made thereunder.
 
-[45
+[47
 
 ### Rules
 
-48\.—(1) The Minister may make rules for or with respect to any matter which may be necessary or expedient for carrying out the provisions of this Act.
+49\.—(1) The Minister may make rules for or with respect to any matter which may be necessary or expedient for carrying out the provisions of this Act.
 
 (2) Without prejudice to the generality of subsection (1), rules may be made —
 
@@ -974,13 +938,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (e) prescribing the qualifications and practical experience of an authorised analyst;
 
-(f) prescribing the sanitary standards referred to in section 8(1) (d);
+(f) prescribing the sanitary standards referred to in section 8(1)(d);
 
 (g) providing for the inspection, observation, detention, identification, treatment, destruction, reshipment or disposal of any plant or plant product;
 
 (h) prescribing the levels of any pesticide residue or toxic chemical residue in or on any plant or plant product;
 
-(i) providing for the control and eradication of any pest and preventing their spread within Singapore;
+(i) providing for the control and eradication of pests and preventing their spread within Singapore;
 
 (j) prescribing the manner of entry upon any land and the conduct of any examination, inspection, detention, quarantine, treatment or destruction of any plant, plant product, pest, soil or any other article thereon;
 
@@ -1016,7 +980,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (3) The Minister may, in any rules made under this Act, provide that any contravention of or failure to comply with any provision thereof shall be an offence and may prescribe a penalty for any such offence of a fine not exceeding $10,000 or imprisonment for a term not exceeding 3 years or both.
 
-[46
+[48
 
 ## LEGISLATIVE HISTORY
 
@@ -1024,7 +988,7 @@ Control of Plants Act
 
 (CHAPTER 57A)
 
-This Legislative History is provided for the convenience of users of the Control of Plants Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Control of Plants Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -1048,197 +1012,43 @@ This Legislative History is provided for the convenience of users of the Control
 |||(Bill No. 11/2000 published on 22 February 2000)|
 ||Date of Second and Third Readings|17 March 2000|
 ||Date of commencement|1 April 2000|
+|6.|**2000 Revised Edition—Control of Plants Act**|
+||Date of operation|30 December 2000|
 ## COMPARATIVE TABLE
 
 Control of Plants Act
 
 (CHAPTER 57A)
 
-The following provisions in the 1994 Revised Edition of the Control of Plants Act have been renumbered by the Law Revision Commissioners in this 1999 Revised Edition.
+The following provisions in the 1999 Revised Edition of the Control of Plants Act have been renumbered by the Law Revision Commissioners in this 2000 Revised Edition.
 
 This Comparative Table is provided for the convenience of users. It is not part of the Control of Plants Act.
 
+2000 Ed\. 
+
 1999 Ed\. 
 
-1994 Ed\. 
+42 —(2) and (3)
 
-6 
+42 —(2)
 
-5A 
+(4)
 
-7 
-
-6 
-
-8 
-
-7 
-
-9 
-
-10 
-
-10 
-
-11 
-
-11 
-
-12 
-
-12 
-
-13 
-
-13 
-
-14 
-
-14 
-
-15 
-
-15 
-
-15A 
-
-16 
-
-15B 
-
-17 
-
-16 
-
-18 
-
-17 
-
-19 
-
-18 
-
-20 
-
-19 
-
-21 
-
-20 
-
-22 
-
-21 
-
-23 
-
-22 
-
-24 
-
-23 
-
-25 
-
-24 
-
-26 
-
-25 
-
-27 (a) and (b)
-
-26 
-
-28 
-
-27 
-
-29 
-
-28 
-
-30 
-
-29 
-
-31 
-
-30 
-
-32 —(4) and (5)
-
-31 —(4)
-
-33 
-
-31A 
-
-34 
-
-32 
-
-35 
-
-33 
-
-36 
-
-34 
-
-37 
-
-35 
-
-38 
-
-36 
-
-39 
-
-37 
-
-40 
-
-38 
-
-41 
-
-39 
-
-42 
-
-40 
-
-43 
-
-41 
-
-44 
-
-42 
-
-45 
-
-43 
+(3)
 
 46 
 
-44 
+45A 
 
 47 
 
-45 
+46 
 
 48 
 
-46 
-
-Omitted — Spent
-
 47 
 
-Omitted —Spent
+49 
 
 48 
 
