@@ -24,7 +24,7 @@
 
 - [7 Disclosure of interest](#Disclosure-of-interest)
 
-- [8 Validity of acts of members](#Validity-of-acts-of-members)
+- [8 Validity of acts of Board members](#Validity-of-acts-of-Board-members)
 
 - [9 Directions by Minister](#Directions-by-Minister)
 
@@ -42,23 +42,23 @@
 
 [**Part IV MEMBERSHIP OF COUNCIL**](#Part-IV)
 
-- [15 Categories of members of Council](#Categories-of-members-of-Council)
+- [15 Categories of Council members](#Categories-of-Council-members)
 
 - [16 Fees for membership](#Fees-for-membership)
 
 - [17 Representatives to Council](#Representatives-to-Council)
 
-- [18 Rights of full members](#Rights-of-full-members)
+- [18 Rights of full Council members](#Rights-of-full-Council-members)
 
-- [19 Rights of associate members](#Rights-of-associate-members)
+- [19 Rights of associate Council member](#Rights-of-associate-Council-member)
 
-- [20 Rights of honorary members](#Rights-of-honorary-members)
+- [20 Rights of honorary Council members](#Rights-of-honorary-Council-members)
 
 - [21 Patrons of Council](#Patrons-of-Council)
 
 [**Part V PROVISIONS RELATING TO STAFF**](#Part-V)
 
-- [22 Chief executive officer of Council](#Chief-executive-officer-of-Council)
+- [22 Chief Executive Officer of Council](#Chief-Executive-Officer-of-Council)
 
 - [23 Appointment of staff](#Appointment-of-staff)
 
@@ -132,25 +132,33 @@ PRELIMINARY
 
 “Board” means the Board of the Council;
 
+“Board member” means any person appointed or elected to the Board under section 5(1);
+
+[23/2000 wef 29/09/2000]
+
 “Chairman” means the Chairman of the Community Chest;
 
-“chief executive officer” means the chief executive officer of the Council appointed under section 22(1);
+“Chief Executive Officer” means the Chief Executive Officer of the Council appointed under section 22(1);
+
+[23/2000 wef 29/09/2000]
 
 “Community Chest” means the Community Chest established under section 13(1);
 
 “Council” means the National Council of Social Service established under section 3;
 
+“Council member” means any organisation or person granted membership of the Council under section 15;
+
+[23/2000 wef 29/09/2000]
+
 “Endowment Fund” means the Endowment Fund established under section 12(1);
 
 “General Fund” means the General Fund established under section 27(1);
-
-“member” means any member of the Board;
 
 “President” means the President of the Board;
 
 “Singapore Council of Social Service” means the Singapore Council of Social Service established under the repealed Singapore Council of Social Service Act [Cap. 299] in force before 1st May 1992;
 
-“Vice-President” means the Vice-President of the Board.
+“Vice-President” means the Vice-President of the Board .
 
 ## PART II
 
@@ -164,7 +172,7 @@ ESTABLISHMENT OF COUNCIL
 
 4\.—(1) The common seal of the Council shall be kept in such custody as the Board may direct.
 
-(2) All deeds, documents and other instruments requiring the seal of the Council shall be sealed with the common seal of the Council, and the instruments to which the common seal is affixed shall be signed by the President and the chief executive officer or some other person duly authorised by the Board for the purpose.
+(2) All deeds, documents and other instruments requiring the seal of the Council shall be sealed with the common seal of the Council, and the instruments to which the common seal is affixed shall be signed by the President and the Chief Executive Officer or some other person duly authorised by the Board for the purpose.
 
 (3) All courts, judges and persons acting judicially shall take judicial notice of the common seal of the Council affixed to any document and shall presume that it was duly affixed.
 
@@ -172,65 +180,83 @@ ESTABLISHMENT OF COUNCIL
 
 ### Board of Council
 
-5\.—(1) The management of the affairs of the Council and of its properties shall be vested in a Board which shall consist of —
+5\.—(1) The management of the affairs of the Council and of its properties shall be vested in a Board which shall consist of the following members:
 
 (a) a President to be appointed by the Minister;
 
-(b) a Vice-President to be elected from among the members of the Council at the annual general meeting of the Council;
+(b) 2 Vice-Presidents —
 
-(c) a Honorary General Secretary to be appointed as provided in subsection (4);
+(i) one of whom is to be a person elected at the annual general meeting of the Council from among the Council members; and
 
-(d) a Honorary Treasurer to be appointed as provided in subsection (4);
+(ii) the other of whom is to be a person appointed by the Minister in consultation with the President;
 
-(e) the Chairman;
+(c) an Honorary General Secretary to be appointed by the President;
 
-(f) 5 members to be appointed by the Board from among the chairmen of the service planning and fund allocation committees appointed under section 14(2);
+(d) an Honorary Treasurer to be appointed by the President;
 
-(g) 8 members to be elected from among the full members of the Council at the annual general meeting of the Council;
+(e) the Chairman of the Community Chest;
 
-(h) two members to be elected from among the associate members of the Council at the annual general meeting of the Council;
+(f) 5 persons to be appointed by the President;
 
-(i) not more than 3 members co-opted by the Board as provided under subsection (2);
+(g) 8 persons, each from a different full Council member referred to in section 15(1)(a), to be elected at the annual general meeting of the Council;
 
-(j) the Director of Social Welfare or his representative; and
+(h) 2 persons, each from a different associate Council member referred to in section 15(1)(b), to be elected at the annual general meeting of the Council;
 
-(k) the Director of Medical Services or his representative.
+(i) the Director of Social Welfare or his representative; and
 
-(2) The Board may, in its discretion, co-opt up to 3 persons to be members for a term not exceeding two years who shall not be eligible to vote on any issue at the meetings of the Council or the Board.
+(j) the Director of Medical Services or his representative.
 
-(3) The President shall hold office for such term not exceeding two years as the Minister thinks fit and shall be eligible for reappointment.
+(2) The President and the Vice-President appointed under subsection (1)(b)(ii) shall each hold office for such term not exceeding 2 years as the Minister thinks fit and shall be eligible for reappointment.
 
-(4) The Honorary General Secretary and the Honorary Treasurer shall be appointed by the President for such term not exceeding two years as the President thinks fit and shall be eligible for reappointment except that the Honorary Treasurer shall not serve for more than two consecutive terms.
+(3) The Vice-President elected under subsection (1)(b)(i) shall hold office for a term of 2 years and shall be eligible for re-election, except that no person shall be elected under subsection (1)(b)(i) to hold office as Vice-President for more than 3 consecutive terms.
 
-(5) If for reason of illness, leave of absence or other cause, the President is unable to exercise his powers and perform his functions under this Act or any regulations made thereunder, the Vice-President shall exercise the powers and perform the functions of the President; and if the Vice-President is unable to do so, any other member, with the approval of the Minister, shall act as President and shall exercise the powers and perform the functions of the President.
+(4) The Honorary General Secretary and the Honorary Treasurer shall each hold office for such term not exceeding 2 years as the President thinks fit and shall be eligible for reappointment, except that no person shall be appointed to hold office as Honorary Treasurer for more than 2 consecutive terms.
 
-(6) The Minister may at any time revoke the appointment of the President without assigning any reason.
+(5) A Board member appointed under subsection (1)(f) shall hold office for a term not exceeding 2 years as the President thinks fit and shall be eligible for reappointment.
 
-(7) The office of the President shall be vacated if the President —
+(6) A Board member elected under subsection (1)(g) or (h) shall hold office for a term of 2 years and shall be eligible for re-election, except that no person shall be elected under subsection (1)(g) or (h) to hold office as a Board member for more than 3 consecutive terms.
+
+(7) The Minister may at any time revoke the appointment of the President or the Vice-President appointed under subsection (1)(b)(ii) without assigning any reason.
+
+(8) If for reason of illness, leave of absence or other cause, the President is unable to exercise his powers and perform his functions under this Act or any regulations made thereunder —
+
+(a) one of the Vice-Presidents as determined by the Board; or
+
+(b) if both the Vice-Presidents are unable to do so, any other Board member as determined by the Board with the approval of the Minister,
+
+shall act as the President and shall exercise the powers and perform the functions of the President.
+
+(9) The office of any Board member shall be vacated if he —
 
 (a) is adjudicated a bankrupt; or
 
 (b) has been convicted of an offence involving dishonesty, fraud or moral turpitude.
 
-(8) Elected members of the Board shall hold office for a term of two years and shall be eligible for reappointment but shall not serve for more than 3 consecutive terms.
+(10) No person who is an employee of the Council or of a full or associate Council member shall —
+
+(a) be elected or appointed as a Board member; or
+
+(b) nominate or second the nomination of any person for election to the Board.
+
+[23/2000 wef 29/09/2000]
 
 ### Voting rights at Council and Board meetings
 
-6\.—(1) All appointed and elected members of the Board shall have the right to vote on any issue at the meetings of the Council and the Board.
+6\.—(1) All Board members shall have the right to vote on any issue at the meetings of the Council and of the Board, except in relation to the election of Board members under section 5(1)(b)(i), (g) and (h).
 
-(2) The Chairman, the Director of Social Welfare or his representative and the Director of Medical Services or his representative shall have the right to vote on any issue at the meetings of the Council and the Board.
+[23/2000 wef 29/09/2000]
 
 (3) Meetings of the Council and the Board and proceedings thereat shall be held in the prescribed manner.
 
 ### Disclosure of interest
 
-7\.—(1) If a member of the Board or a member of the Council is, directly or indirectly, interested in any contract or other matter and is present at a meeting of the Council or the Board or any committee thereof, at which the contract or other matter is the subject of consideration, the member shall, at the meeting and as soon as practicable after it commences, disclose the fact and shall not thereafter be present during the consideration or discussion of, and shall not vote on, any question with respect to that contract or other matter.
+7\.—(1) If a Board member, Council member or official representative of a Council member is, directly or indirectly, interested in any contract or other matter and is present at a meeting of the Council or the Board or any committee thereof, at which the contract or other matter is the subject of consideration, such member or official representative, as the case may be, shall, at the meeting and as soon as practicable after it commences, disclose the fact and shall not thereafter be present during the consideration or discussion of, and shall not vote on, any question with respect to that contract or other matter.
 
-(2) No act or proceedings of the Council or the Board shall be questioned on the ground that any of its members has contravened this section.
+(2) No act or proceedings of the Council or the Board shall be questioned on the ground that any Board member, Council member or official representative of a Council member has contravened this section.
 
-### Validity of acts of members
+### Validity of acts of Board members
 
-8\. The acts of a member shall be valid notwithstanding any defect that may afterwards be discovered in his appointment or qualifications.
+8\. The acts of a Board member shall be valid notwithstanding any defect that may afterwards be discovered in his appointment or qualifications.
 
 ### Directions by Minister
 
@@ -246,25 +272,29 @@ FUNCTIONS AND POWERS OF COUNCIL
 
 10\.—(1) The objects of the Council shall be —
 
-(a) to provide leadership and direction to the volunteer movement and co-ordinate welfare activities not only between members of the Council but also with other organisations;
+(a) to provide leadership and direction to the volunteer movement and co-ordinate social service activities between Council members and with other organisations;
 
-(b) to represent members of the Council, to present their views to the Government and to communicate priorities of the Government and its views to such members;
+[23/2000 wef 29/09/2000]
+
+(b) to represent Council members, to present their views to the Government and to communicate priorities of the Government and its views to such members;
 
 (c) to make such recommendations to the Government as may be consistent with the objects of the Council;
 
-(d) to establish minimum acceptable standards of social service provided by members of the Council and to monitor guidelines representing good practice;
+(d) to establish and maintain the standards and guidelines for the management and administration of, and the provision of social service by, Council members;
+
+[23/2000 wef 29/09/2000]
 
 (e) to assist the Government in strategic social service planning;
 
 (f) to initiate, plan, develop and modify social service programmes; and if the Council considers it necessary, to operate direct social service;
 
-(g) to establish and maintain an updated management information system of members of the Council and their clients;
+(g) to establish and maintain an updated management information system of Council members and their clients;
 
 (h) to provide consultancy and support services to social service organisations;
 
 (i) to encourage, co-ordinate and carry out research and evaluative studies and experimental projects necessary for the improvement and development of social service;
 
-(j) to raise and allocate funds to further the objects of the Council and its members; and
+(j) to raise and allocate funds to further the objects of the Council and Council members; and
 
 (k) to liaise and co-operate with overseas and international organisations in matters relating to social service.
 
@@ -284,11 +314,17 @@ FUNCTIONS AND POWERS OF COUNCIL
 
 (f) levy such rates and charges for services performed by the Council as the Board may consider expedient;
 
-(g) undertake and execute any trust; and
+(g) undertake and execute any trust;
+
+(ga) with the approval of the Minister, form or participate in the formation of any incorporated or unincorporated body or organisation or enter into any joint venture with any person or organisation for the purpose of carrying out any function of the Council; and
+
+[23/2000 wef 29/09/2000]
 
 (h) do anything incidental to any of its objects.
 
-(2) Nothing in this section shall enable the Council to have jurisdiction or exercise any control over the internal management of its members or to take part in political or religious controversy.
+(2) Nothing in this section shall authorise the Council to engage in any matter of religious or party political controversy.
+
+[23/2000 wef 29/09/2000]
 
 (3) The Board may exercise all such powers of the Council as it thinks fit except as otherwise provided by this Act.
 
@@ -310,7 +346,7 @@ FUNCTIONS AND POWERS OF COUNCIL
 
 13\.—(1) The Council shall establish the Community Chest to raise funds on behalf of the Council.
 
-(2) The Community Chest shall consist of a Chairman who shall be appointed by the Minister, one or more Vice-Chairmen and such other members as the Chairman, in consultation with the President, may appoint for such term as the Chairman thinks fit.
+(2) The Community Chest shall consist of a Chairman who shall be appointed by the Minister, one or more Vice Chairmen and such other members as the Chairman, in consultation with the President, may appoint for such term as the Chairman thinks fit.
 
 (3) The Chairman shall hold office for such term not exceeding two years as the Minister may determine and shall be eligible for reappointment.
 
@@ -318,7 +354,7 @@ FUNCTIONS AND POWERS OF COUNCIL
 
 (5) The Minister may at any time revoke the appointment of the Chairman without assigning any reason.
 
-(6) The office of the Chairman shall be vacated if the Chairman —
+(6) The office of the Chairman, any Vice-Chairman or any other member appointed under subsection (2) shall be vacated if he —
 
 (a) is adjudicated a bankrupt; or
 
@@ -328,17 +364,7 @@ FUNCTIONS AND POWERS OF COUNCIL
 
 ### Appointment of committees and delegation of powers
 
-14\.—(1) The Board may appoint from among its members or from among other persons who are not members such number of committees for purposes which, in the opinion of the Board, would be better regulated and managed by means of such committees.
-
-(2) Without prejudice to the generality of subsection (1), the Board shall appoint such number of service planning and fund allocation committees as it thinks fit whose chairmen shall be appointed by a panel comprising —
-
-(a) the President;
-
-(b) the Chairman; and
-
-(c) a representative of a donor organisation of the preceding year to be selected by the Board.
-
-(3) A chairman of a committee appointed under subsection (2) shall hold office for such term not exceeding two years as the President thinks fit and shall be eligible for reappointment.
+14\.—(1) The Board may appoint from among the Board members or from among other persons who are not Board members such number of committees for purposes which, in the opinion of the Board, would be better regulated and managed by means of such committees.
 
 (4) The Board may, subject to such conditions or restrictions as it thinks fit to impose, delegate to any such committee or the President any of the powers, functions and duties by this Act vested in the Council, and any power, function or duty so delegated may be exercised or performed by the committee or the President, as the case may be, in the name and on behalf of the Council.
 
@@ -350,49 +376,55 @@ FUNCTIONS AND POWERS OF COUNCIL
 
 MEMBERSHIP OF COUNCIL
 
-### Categories of members of Council
+### Categories of Council members
 
 15\.—(1) The Council shall consist of the following 3 categories of members:
 
-(a) full members;
+(a) full Council members;
 
-(b) associate members; and
+(b) associate Council members; and
 
-(c) honorary members.
+(c) honorary Council members.
 
-(2) Any organisation whose aims and objects are consistent with those of the Council and which provides as its primary objective a bona fide direct social service which helps to meet existing needs of the community may, in the prescribed manner and in accordance with the prescribed conditions, apply to the Council to be a full member.
+(2) Any organisation whose aims and objects are consistent with those of the Council and which provides as its primary function a bona fide direct social service which helps to meet existing needs of the community may, in the prescribed manner and in accordance with the prescribed conditions, apply to the Council to be a full Council member.
 
-(3) Any organisation whose aims and objects are consistent with those of the Council and which has an active interest in social service but which does not provide a direct social service as its primary function may, in the prescribed manner and in accordance with the prescribed conditions, apply to the Council to be an associate member.
+(3) Any organisation whose aims and objects are consistent with those of the Council and which has an active interest in social service but which does not provide a direct social service as its primary function may, in the prescribed manner and in accordance with the prescribed conditions, apply to the Council to be an associate Council member.
 
-(4) Any person, firm, corporation or organisation that has rendered outstanding social service may be invited to be an honorary member of the Council for such period as the Council thinks fit.
+(4) Where the Council is of the opinion that any organisation or person has rendered outstanding social service, the Council may invite such organisation or person to be an honorary Council member for such period as the Council thinks fit.
 
-(5) Any organisation which is a full or associate member of the Singapore Council of Social Service immediately before 1st May 1992 shall, on and after that date, be a member of the Council and shall be given the option to remain as a full or associate member or, in the case of a full member, to change its membership to an associate member if it satisfies the requirement of an associate member under subsection (3).
+[23/2000 wef 29/09/2000]
+
+(5) [Deleted by Act 23/2000 wef 29/09/2000]
 
 ### Fees for membership
 
-16\.—(1) Fees for full members and associate members shall be payable annually on the first day of April and shall be such amount as the Board shall from time to time determine.
+16\.—(1) Fees for full Council members and associate Council members shall be payable annually on the first day of April and shall be such amount as the Board shall from time to time determine.
 
-(2) Honorary members shall not be required to pay any fees for membership.
+(2) Honorary Council members shall not be required to pay any fees for membership.
 
 ### Representatives to Council
 
-17\.—(1) Every full member and associate member shall appoint a person as its official representative to act on its behalf in the Council and shall be entitled to change such representation from time to time.
+17\.—(1) Every full Council member and associate Council member shall appoint a person as its official representative to act on its behalf in the Council and shall be entitled to change such representation from time to time.
 
 (2) Any appointment or change of representation under subsection (1) shall be communicated to the Council in writing.
 
-### Rights of full members
+(3) An official representative appointed under subsection (1) in respect of any Council member shall not be appointed to act as an official representative of any other Council member.
 
-18\. Subject to the provisions of this Act and any regulations made thereunder, full members shall enjoy equal rights of membership to avail themselves of the facilities of the Council and to attend and vote at all meetings of the Council.
+[23/2000 wef 29/09/2000]
 
-### Rights of associate members
+### Rights of full Council members
 
-19\.—(1) Associate members may attend the meetings of the Council but shall not vote in any of its proceedings except in electing two members to the Board from among the associate members at its annual general meeting as provided in section 5(1)(h).
+18\. Subject to the provisions of this Act and any regulations made thereunder, full Council members shall enjoy equal rights of membership to avail themselves of the facilities of the Council and to attend and vote at all meetings of the Council.
 
-(2) Associate members who are elected to be members of the Board shall have the right to vote on any issue at the meetings of the Board.
+### Rights of associate Council member
 
-### Rights of honorary members
+19\. An associate Council member may attend any meeting of the Council but shall not vote in any of its proceedings except in electing 2 Board members as provided in section 5(1)(h).
 
-20\. Honorary members may attend the meetings of the Council but shall not vote in any of its proceedings.
+[23/2000 wef 29/09/2000]
+
+### Rights of honorary Council members
+
+20\. Honorary Council members may attend the meetings of the Council but shall not vote in any of its proceedings.
 
 ### Patrons of Council
 
@@ -402,13 +434,13 @@ MEMBERSHIP OF COUNCIL
 
 PROVISIONS RELATING TO STAFF
 
-### Chief executive officer of Council
+### Chief Executive Officer of Council
 
-22\.—(1) The Council shall appoint a chief executive officer on such terms and conditions as the Board may determine.
+22\.—(1) The Council shall appoint a Chief Executive Officer on such terms and conditions as the Board may determine.
 
-(2) The chief executive officer shall be responsible to the Board for the proper administration and management of the Council in accordance with the policy laid down by the Board.
+(2) The Chief Executive Officer shall be responsible to the Board for the proper administration and management of the Council in accordance with the policy laid down by the Board.
 
-(3) If the chief executive officer is temporarily absent from Singapore or temporarily incapacitated by reason of illness or for other reasons temporarily unable to perform his duties, any person may be appointed by the Board to act the place of the chief executive officer during any such period of absence from duty.
+(3) If the Chief Executive Officer is temporarily absent from Singapore or temporarily incapacitated by reason of illness or for other reasons temporarily unable to perform his duties, any person may be appointed by the Board to act the place of the Chief Executive Officer during any such period of absence from duty.
 
 ### Appointment of staff
 
@@ -518,7 +550,7 @@ MISCELLANEOUS
 
 ### Protection from personal liability
 
-39\. No suit or other legal proceedings shall lie against any member of the Board or any employee of the Council or other person acting under the directions of the Council or the Board for anything which is in good faith done or intended to be done by him in the execution or purported execution of this Act.
+39\. No suit or other legal proceedings shall lie against any Board member or any employee of the Council or other person acting under the directions of the Council or the Board for anything which is in good faith done or intended to be done by him in the execution or purported execution of this Act.
 
 ### Regulations
 
@@ -526,13 +558,27 @@ MISCELLANEOUS
 
 (2) Without prejudice to the generality of subsection (1), the Council may, with the approval of the Minister, make such regulations for or with respect to all or any of the following matters:
 
-(a) the procedure for applying for membership in the Council, the rights, conditions, fees, obligations and termination of such membership;
+(a) the procedure for applying for, and the termination of, membership in the Council;
 
-(b) the procedure and quorum for general meetings of the Council and for the election of the members of the Board;
+(b) the conditions for membership in the Council;
 
-(c) the procedure and quorum for the meetings of the Board and the Community Chest; and
+(c) the standards and guidelines for the management and administration of, and the provision of social services by, Council members;
 
-(d) the returns to be submitted to the Council by its members of their annual reports, audited accounts and such information as the Council may require for carrying out its objects.
+(d) the procedure for inquiry into complaints and information received relating to the conduct of Council members, their committee members or employees, and the sanctions to be imposed in respect of any misconduct, including the issuance of letters of censure and the suspension or termination of membership in the Council;
+
+(e) the rates, charges and fees payable for purposes of this Act;
+
+(f) the procedure and quorum for the meetings of the Board;
+
+(g) the procedure and quorum for the meetings of the Community Chest;
+
+(h) the procedure and quorum for general meetings of the Council and for the election of Board members;
+
+(i) the establishment, constitution and procedures of any committee referred to in section 14 and any unincorporated body or organisation referred to in section 11(1)(ga); and
+
+(j) the information to be provided and the documents to be submitted to the Council by Council members, including annual reports, audited accounts and such information as the Council may require for carrying out its objects.
+
+[23/2000 wef 29/09/2000]
 
 ## LEGISLATIVE HISTORY
 
@@ -551,3 +597,8 @@ This Legislative History is provided for the convenience of users of the Nationa
 ||Date of commencement|1 May 1992|
 |2.|**1993 Revised Edition—National Council of Social Service Act**|
 ||Date of operation|15 March 1993|
+|3.|**Act 23 of 2000—National Council of Social Service (Amendment) Act 2000**|
+||Date of First Reading|22 May 2000|
+|||(Bill No. 18/2000 published on 23 May 2000)|
+||Date of Second and Third Readings|3 July 2000|
+||Date of commencement|29 September 2000|
