@@ -158,6 +158,10 @@
 
 - [61 Payment of life policy and personal accident claims without probate, etc.](#Payment-of-life-policy-and-personal-accident-claims-without-probate-etc)
 
+- [61A No insurance to be made unless insurer has interest and no policy without inserting names. Cf. 14 George III c.48 (Life Assurance Act 1774)](#No-insurance-to-be-made-unless-insurer-has-interest-and-no-policy-without-inserting-names-Cf-14-George-III-c48-Life-Assurance-Act-1774)
+
+- [61B No action for accidental fire. (Fire Prevention (Metropolis) Act 1774, s.86)](#No-action-for-accidental-fire-Fire-Prevention-Metropolis-Act-1774-s86)
+
 [**Supplementary**](#Supplementary)
 
 - [62 Regulations](#Regulations)
@@ -1499,6 +1503,24 @@ Miscellaneous amendments of law
 
 [44
 
+### No insurance to be made unless insurer has interest and no policy without inserting names. Cf. 14 George III c.48 (Life Assurance Act 1774)
+
+61A\.—(1) No insurance shall be made by any person on any event wherein the person for whose use or benefit or on whose account the policy is made has no interest, or by way of gaming or wagering; and every assurance made contrary to this subsection shall be void.
+
+(2) It shall not be lawful to make any policy on any event without inserting in such policy the names of the persons interested therein, or for whose use or benefit or on whose account such policy was made.
+
+(3) In all cases where there is an interest in such event, no greater sum shall be recovered or received from the insurer than the amount or value of the interest.
+
+(4) Nothing in this section shall extend to insurance made by any person on ships or goods, or to contracts of indemnity against loss by fire or loss by other events whatsoever.
+
+[Act 35 of 1993 wef 12/11/1993]
+
+### No action for accidental fire. (Fire Prevention (Metropolis) Act 1774, s.86)
+
+61B\. No action shall lie against a person in whose house or premises or on whose estate any fire accidentally began except that no contract or agreement made between landlord and tenant shall be hereby defeated or made void.
+
+[Act 35 of 1993 wef 12/11/1993]
+
 Supplementary
 
 ### Regulations
@@ -1668,3 +1690,9 @@ This Legislative History is provided for the convenience of users of the Insuran
 ||Date of commencement|1 January 1987|
 |7.|**1985 Revised Edition—Insurance Act (Chapter 142)**|
 ||Date of operation|30 March 1987|
+|8.|**Act 35 of 1993—Application of English Law Act 1993**|
+||(Consequential amendments made by)||
+||Date of First Reading|30 August 1993|
+|||(Bill No. 26/93 published on 31 August 1993)|
+||Date of Second and Third Readings|12 October 1993|
+||Date of commencement|12 November 1993|
