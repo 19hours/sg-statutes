@@ -56,6 +56,8 @@
 
 - [21 Power to borrow](#Power-to-borrow)
 
+- [21A Issue of shares, etc.](#Issue-of-shares-etc)
+
 - [22 Grants](#Grants)
 
 - [23 Establishment of National Library Board Endowment Fund](#Establishment-of-National-Library-Board-Endowment-Fund)
@@ -354,6 +356,12 @@ FINANCIAL PROVISIONS
 
 21\. The Board may from time to time for the purposes of this Act raise loans from the Government or, with the consent of the Minister, from any other source.
 
+### Issue of shares, etc.
+
+21A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Board under this Act, or of any capital injection or other investment by the Government in the Board in accordance with any written law, the Board shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
+
+[5/2002 wef 15/07/2002]
+
 ### Grants
 
 22\. For the purpose of enabling the Board to carry out its functions under this Act, the Minister may from time to time make grants to the Board of such sums of money as the Minister may determine out of moneys to be provided by Parliament.
@@ -470,7 +478,7 @@ MISCELLANEOUS PROVISIONS
 
 ### Transitional provision
 
-36\. Any scheme, contract, document, certificate, licence, permission or resolution prepared, made, granted or approved under the repealed National Library Act [Cap. 197, 1985 Ed.] shall, so far as it is not inconsistent with the provisions of this Act, continue and be deemed to have been prepared, made, granted or approved under this Act.
+36\. Any scheme, contract, document, certificate, licence, permission or resolution prepared, made, granted or approved under the repealed National Library Act (Cap. 197, 1985 Ed.) shall, so far as it is not inconsistent with the provisions of this Act, continue and be deemed to have been prepared, made, granted or approved under this Act.
 
 FIRST SCHEDULE
 
@@ -540,7 +548,7 @@ Member’s interest to be disclosed
 
 Salaries, fees and allowances payable to members
 
-11. There shall be paid to the Chairman, the Deputy Chairman and other members out of the funds of the Board such salaries, fees and allowances as the Minister may, from time to time, determine.
+11\. There shall be paid to the Chairman, the Deputy Chairman and other members out of the funds of the Board such salaries, fees and allowances as the Minister may, from time to time, determine.
 
 Meetings of Board
 
@@ -554,7 +562,7 @@ Meetings of Board
 
 (5) Where both the Chairman and the Deputy Chairman are absent at a meeting, such member as the members present may elect shall preside at the meeting.
 
-(6) The Board may act notwithstanding any vacancy in its membership.
+(6) The board may act notwithstanding any vacancy in its membership.
 
 (7) Subject to the provisions of this Act, the Board may make rules to regulate its own procedure and, in particular, for the holding and proceedings of meetings, the notice to be given of such meetings, the keeping of minutes and the custody, production and inspection of such minutes.
 
@@ -641,3 +649,9 @@ This Legislative History is provided for the convenience of users of the Nationa
 ||Date of commencement|1 September 1995|
 |2.|**1996 Revised Edition—National Library Board Act**|
 ||Date of operation|30 April 1996|
+|3.|**Act 5 of 2002—Statutory Corporations (Capital Contribution) Act 2002**|
+||(Consequential amendments made by)||
+||Date of First Reading|3 May 2002|
+|||(Bill No. 7/2002 published on 4 May 2002)|
+||Date of Second and Third Readings|24 May 2002|
+||Date of commencement|15 July 2002|
