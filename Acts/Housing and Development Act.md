@@ -124,6 +124,8 @@
 
 - [49 Special provisions](#Special-provisions)
 
+- [49A Prohibition of sale within minimum occupation period, etc.](#Prohibition-of-sale-within-minimum-occupation-period-etc)
+
 - [50 Flat, house or other building not to be sold, mortgaged, etc., without consent of Board](#Flat-house-or-other-building-not-to-be-sold-mortgaged-etc-without-consent-of-Board)
 
 - [50A Purchase of flats, houses and other living accommodation by bodies corporate](#Purchase-of-flats-houses-and-other-living-accommodation-by-bodies-corporate)
@@ -178,7 +180,7 @@
 
 - [65I Recovery of payments due to Board](#Recovery-of-payments-due-to-Board)
 
-- [65J Power of entry](#Power-of-entry)
+- [65J Power of entry and compulsory acquisition](#Power-of-entry-and-compulsory-acquisition)
 
 - [65K Power to make rules](#Power-to-make-rules)
 
@@ -323,10 +325,6 @@ ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF BOARD
 [13/75]
 
 (3) All deeds, documents and other instruments which relate to the sale, lease, assignment, mortgage or assurance whatsoever of any premises sold under the provisions of this Act may be sealed with the seal of the Board in the presence of any officer of the Board duly authorised by the Board to act in that behalf who shall sign every such deed, document or other instrument to which the seal is affixed, and such signing shall be sufficient evidence that the seal was duly and properly affixed and that it is the lawful seal of the Board.
-
-[13/75]
-
-(4) No officer of the Board shall be authorised for the purposes of subsection (3) unless he is a qualified person within the meaning of section 2 of the Legal Profession Act (Cap. 161).
 
 [13/75]
 
@@ -538,7 +536,7 @@ as may be directed by the Minister, and shall also provide that such employees o
 
 ### Power of Board to enter into agreements
 
-22\. It shall be lawful for the Board to make and carry into effect any agreement whereby the Board undertakes to act as agent for the Government or any public authority in the erection of houses or other buildings, the carrying out of repairs, the collection of rents, orin relation to any other services in connection with housing or buildings ancillary thereto .
+22\. It shall be lawful for the Board to make and carry into effect any agreement whereby the Board undertakes to act as agent for the Government or any public authority in the erection of houses or other buildings, the carrying out of repairs, the collection of rents, in relation to any other services in connection with housing or buildings ancillary thereto or, with the approval of the Minister, in relation to any services not connected with housing or buildings ancillary thereto.
 
 ### Board may make ex gratia payments
 
@@ -572,6 +570,18 @@ as may be directed by the Minister, and shall also provide that such employees o
 
 (b) prohibiting or regulating the parking of vehicles on such common property or in such open spaces other than parking places;
 
+(ba) regulating the carrying out of any renovation in any flat, house or other building sold under this Act;
+
+[41/98 wef 20/11/1998]
+
+(bb) prescribing the form or forms of the contract or agreement that shall be used by every owner of any such flat, house or other building and a purchaser other than the Board;
+
+[41/98 wef 20/11/1998]
+
+(bc) prescribing the conditions which, if used in any contract or agreement between any owner of any such flat, house or other building and a purchaser other than the Board, shall be void;
+
+[41/98 wef 20/11/1998]
+
 (c) prescribing that any act or omission in contravention of any rule shall be an offence punishable by a fine not exceeding $5,000; and
 
 (d) prescribing the penalty (such penalty, if unpaid, to constitute a debt due to the Board and be recoverable as such) to be paid by the Board’s tenant or licensee, an owner of any flat, house or other living accommodation sold by the Board or an owner of any HUDC dwelling for late payment of any of the following moneys due to the Board:
@@ -585,6 +595,18 @@ as may be directed by the Minister, and shall also provide that such employees o
 (iv) moneys due under any loan provided to such owner for his purchase of such HUDC dwelling, flat, house or other living accommodation.
 
 [28/89; 16/95]
+
+(2A) Any rules made under subsection (2)(ba) may prescribe —
+
+(a) the procedure and fees relating to the application and grant of a licence to carry out any renovation in any such flat, house or other building;
+
+(b) the conditions of any such licence;
+
+(c) the deposit of security to the satisfaction of the Board for the due performance of all or any of the obligations imposed on the licensee by the licence or by this Act or any rules made thereunder; and
+
+(d) the procedure for cancelling or suspending any such licence or forfeiting any such deposit of security, including a right of appeal to the Minister (whose decision shall be final) against any such proposed cancellation, suspension or forfeiture.
+
+[41/98 wef 20/11/1998]
 
 (3) All rules made under the provisions of this Act shall be presented to Parliament as soon as possible after publication in theGazette.
 
@@ -1078,6 +1100,16 @@ and a solicitor is not employed by such person to act for him in the transaction
 
 [4/78]
 
+### Prohibition of sale within minimum occupation period, etc.
+
+49A\.—(1) Except with the prior written consent of the Board, no owner of any flat, house or other building which has been sold by the Board under the provisions of this Part shall, within the prescribed minimum occupation period, by contract, agreement or otherwise, sell or agree to sell his flat, house or other building or any estate or interest therein to any other person.
+
+(2) Unless otherwise authorised by the Board, every contract, agreement or other document relating to the sale of any such flat, house or other building which is made between the owner of the flat, house or other building and a purchaser other than the Board shall be in the prescribed form.
+
+(3) Any contract, agreement or other document which is made on or after the commencement of the Housing and Development (Amendment) Act 1998 in contravention of subsection (1) or (2) shall be null and void.
+
+[41/98 wef 20/11/1998]
+
 ### Flat, house or other building not to be sold, mortgaged, etc., without consent of Board
 
 50\.—(1) No flat, house or other building which has been sold by the Board under the provisions of this Part shall be sold, leased, mortgaged or disposed of without the prior written consent of the Board.
@@ -1113,6 +1145,10 @@ and a solicitor is not employed by such person to act for him in the transaction
 (2) No such flat, house or other building shall vest in the Official Assignee on the bankruptcy of the owner thereof.
 
 (3) No such flat, house or other building shall be attached in execution of a decree of any court.
+
+(3A) Subsections (2) and (3) shall not apply if the owner of any such flat, house or other building is or, where there is more than one owner, all the owners are not citizens of Singapore.
+
+[41/98 wef 20/11/1998]
 
 (4) No trust in respect of any such flat, house or other building shall be created by the owner thereof without the prior written approval of the Board.
 
@@ -1690,7 +1726,7 @@ the Board may, with the further approval of the Minister, carry out those specif
 
 [19/92]
 
-### Power of entry
+### Power of entry and compulsory acquisition
 
 65J\.—(1) Any officer or person authorised by the Board may at any reasonable time, on giving 48 hours’ notice of his intention to the occupier and producing, if so required, some duly authenticated document showing his authority, enter any flat or building within a precinct for the purpose —
 
@@ -1732,6 +1768,38 @@ the Magistrate’s Court may by warrant authorise the Board by any authorised of
 
 [19/92]
 
+(7) After the Minister has given his approval under section 65C(2) or (3) in relation to any upgrading works in a precinct, the Board may compulsorily acquire the whole of any particular flat in the precinct for the purpose of those upgrading works to be carried out in that precinct.
+
+[41/98 wef 20/11/1998]
+
+(8) Where the Board intends to exercise its powers of compulsory acquisition conferred by subsection (7), the Board shall serve a notice in writing on the owner of the flat and all persons known or believed to be interested in claiming all or any part of the compensation to be paid for the flat (referred to in this section as an interested person) stating the intention of the Board to acquire the flat and the compensation to be paid therefor.
+
+[41/98 wef 20/11/1998]
+
+(9) Any owner or interested person may, within 28 days after the service of a notice referred to in subsection (8), submit in writing to the Board his objections to the compensation offered by the Board, stating precisely the grounds upon which he objects.
+
+[41/98 wef 20/11/1998]
+
+(10) The Board shall consider the objection and may either disallow it or allow it either wholly or in part, and shall serve on the owner or interested person by post or otherwise with a written notice of its decision.
+
+[41/98 wef 20/11/1998]
+
+(11) Any appeal by any owner or interested person aggrieved by the decision of the Board shall be made to the Minister within 28 days after the date of service of such decision on the owner or interested person, and the decision of the Minister shall be final.
+
+[41/98 wef 20/11/1998]
+
+(12) The compensation to be paid by the Board for any flat compulsorily acquired by the Board under this section shall be determined by the Board.
+
+[41/98 wef 20/11/1998]
+
+(13) This section shall not limit or affect the powers conferred upon the Board by any other provision of this Act or under any other written law to exercise its right of forfeiture and right or re-entry for a breach of the conditions of a lease.
+
+[41/98 wef 20/11/1998]
+
+(14) Sections 57, 58 and 59 shall apply, with the necessary modifications, to any exercise of the power of compulsory acquisition under this section.
+
+[41/98 wef 20/11/1998]
+
 ### Power to make rules
 
 65K\. The Minister may make rules for giving effect to the provisions of this Part and for the due administration thereof, and, in particular, for or with respect to all or any of the following matters:
@@ -1760,7 +1828,15 @@ FINANCIAL PROVISIONS
 
 ### Borrowing powers
 
-66\.—(1) The Board may, from time to time, for the purposes of this Act, raise loans from the Government or, with the approval of the Minister, by any of the methods set out in subsection (3).
+66\.—(1) The Board may, from time to time, for the purposes of this Act, raise loans —
+
+(a) from the Government;
+
+(b) with the approval of the Minister and subject to the provisions of any written law, within or outside Singapore by any of the methods set out in subsection (3); or
+
+(c) from such other source within or outside Singapore as the Minister may direct.
+
+[41/98 wef 20/11/1998]
 
 (2) The Board shall pay interest on such loans at such rate and at such times, and shall make such provisions for the mode and time or times of repayment of principal, as may be approved by the Minister.
 
@@ -1770,7 +1846,13 @@ FINANCIAL PROVISIONS
 
 (b) charge, whether legal or equitable, on any property vested in the Board or on any revenue receivable by the Board under this Act or any other Act; or
 
-(c) the creation and issue of debenture stock.
+(c) the creation and issue of debentures, stocks or bonds or otherwise.
+
+[41/98 wef 20/11/1998]
+
+(4) For the purposes of this section, the power to raise loans shall include the power to make any financial agreement whereby credit facilities are granted to the Board for the purchase of goods, materials or things.
+
+[41/98 wef 20/11/1998]
 
 ### Annual financial statement
 
@@ -1824,7 +1906,7 @@ FINANCIAL PROVISIONS
 
 [13/75]
 
-(2) The accounts of the Board shall be kept by the Chief Financial Officerwho shall be appointed by and be responsible to the Board.
+(2) The accounts of the Board shall be kept by the Chief Financial Officer.
 
 [13/75; 30/84]
 
@@ -4685,3 +4767,8 @@ This Legislative History is provided for the convenience of users of the Housing
 |||(Bill No. 6/97 published on 12 July 1999)|
 ||Date of Second and Third Readings|25 August 1997|
 ||Date of commencement|1 October 1997 (except section 3)|
+|26.|**Act 41 of 1998—Housing and Development (Amendment) Act 1998**|
+||Date of First Reading|4 September 1998|
+|||(Bill No. 39/98 published on 5 September 1998)|
+||Date of Second and Third Readings|12 October 1998|
+||Date of commencement|20 November 1998|
