@@ -34,6 +34,8 @@
 
 - [12 Factors relevant to determination of application for licence](#Factors-relevant-to-determination-of-application-for-licence)
 
+- [12A Whether medicinal product subject to patent](#Whether-medicinal-product-subject-to-patent)
+
 - [13 Grant or refusal of licence](#Grant-or-refusal-of-licence)
 
 - [14 Duration and renewal of licence](#Duration-and-renewal-of-licence)
@@ -51,6 +53,10 @@
 - [19A Protection of confidential supporting information about innovative medicinal product](#Protection-of-confidential-supporting-information-about-innovative-medicinal-product)
 
 - [19B Circumstances where protection under section 19A does not apply](#Circumstances-where-protection-under-section-19A-does-not-apply)
+
+- [19C Licensing authority may publish information on applications](#Licensing-authority-may-publish-information-on-applications)
+
+- [19D No product licence to be granted on basis of previous grant](#No-product-licence-to-be-granted-on-basis-of-previous-grant)
 
 - [20 Offences under this Part](#Offences-under-this-Part)
 
@@ -470,7 +476,7 @@ and the products are manufactured or assembled in accordance with that product l
 
 (3) Without prejudice to subsections (1) and (2), the restrictions imposed by sections 5 and 6 shall not apply to anything which is done in a registered pharmacy or hospital by or under the supervision of a pharmacist —
 
-(a) in preparing or dispensing a medicinal product for administration to a person where the pharmacist is requested by or on behalf of that person to do so in accordance with the pharmacists own judgment as to the treatment required, and that person is present in the pharmacy at the time of the request in pursuance of which that product is prepared or dispensed; or
+(a) in preparing or dispensing a medicinal product for administration to a person where the pharmacist is requested by or on behalf of that person to do so in accordance with the pharmacist’s own judgment as to the treatment required, and that person is present in the pharmacy at the time of the request in pursuance of which that product is prepared or dispensed; or
 
 (b) in preparing a stock of medicinal products with a view to dispensing them as mentioned in subsection (1)(a) or (2) or in paragraph (a).
 
@@ -556,6 +562,62 @@ and the products are manufactured or assembled in accordance with that product l
 
 (d) the arrangements made or to be made for securing the safekeeping of, and the maintenance of adequate records in respect of, medicinal products stored in or distributed from those premises.
 
+### Whether medicinal product subject to patent
+
+12A\.—(1) Subject to the provisions of this Part, in dealing with an application for a product licence, the licensing authority shall consider whether a patent under the Patents Act (Cap. 221) is in force in respect of any medicinal product to which the application relates and, if so —
+
+(a) whether the applicant is the proprietor of the patent; or
+
+(b) if he is not the proprietor of the patent, whether —
+
+(i) the proprietor has given his consent to or has acquiesced in the grant of the licence to the applicant; or
+
+(ii) the patent is invalid or will not be infringed by the doing of the act for which the licence is sought.
+
+(2) Unless the licensing authority otherwise determines, an applicant for a product licence shall, at the time of his application and at such other time as the licensing authority may require, make and furnish to the licensing authority a declaration in the prescribed form —
+
+(a) stating whether a patent under the Patents Act is in force in respect of any medicinal product to which the application relates;
+
+(b) if he states that there is such a patent, stating whether he is the proprietor of the patent; and
+
+(c) if he states that he is not the proprietor of the patent, stating —
+
+(i) the name and other particulars of the proprietor of the patent;
+
+(ii) whether —
+
+(A) the proprietor has consented to or has acquiesced in the grant of the licence to the applicant; or
+
+(B) in his opinion and to the best of his belief, the patent is invalid or will not be infringed by the doing of the act for which the licence is sought; and
+
+(iii) such other information as may be prescribed.
+
+(3) The licensing authority may, if the applicant has declared that in his opinion and to the best of his belief the patent is invalid or will not be infringed by the doing of the act for which the licence is sought, or if the licensing authority considers it appropriate in any particular case, require the applicant to do the following within such time as the licensing authority may determine:
+
+(a) serve on the proprietor of thea patent under the Patents Act that is in force in respect of a medicinal product to which the application relates, a notice in the prescribed form of his application; and
+
+(b) furnish to the licensing authority such evidence of the service as the licensing authority may require.
+
+(4) The licensing authority need not determine the application until the applicant has complied with subsection (2) and, where applicable, subsection (3), to the reasonable satisfaction of the licensing authority.
+
+(5) If the licensing authority is satisfied that a notice referred to in subsection (3) (a) has been served on the proprietor of the patent, the licensing authority may grant the licence to the applicant if the proprietor has not, before the expiration of the period prescribed for the purposes of this subsection —
+
+(a) applied for the order or declaration by a court or the Registrar of Patents or a Deputy Registrar of Patents holding office under the Patents Act (Cap. 221), as specified in that notice; and
+
+(b) given written notice to the licensing authority stating that such application has been made.
+
+(6) The licensing authority may grant the licence to the applicant if —
+
+(a) application for the order or declaration referred to in subsection (5)(a) has been made; and
+
+(b) at the endxpiration of the period prescribed for the purposes of this subsection, the order or declaration has not been obtained.
+
+(7) For the purpose of subsection (1), the licensing authority may rely upon, and shall not be concerned to inquire into the truth of any statement made in athe declaration furnished under subsection (2).
+
+(8) This section applies only to an application for a product licence made on or after the date of commencement of the Medicines (Amendment) Act 2004.
+
+[26/2004 wef 01/07/2004]
+
 ### Grant or refusal of licence
 
 13\. Subject to the provisions of this Act, on any application to the licensing authority for a licence under this Part the licensing authority —
@@ -590,9 +652,41 @@ and the products are manufactured or assembled in accordance with that product l
 
 16\.—(1) Subject to subsection (3), the licensing authority may suspend a licence under this Part for such period as the authority may determine or may revoke, or vary the provisions of, any such licence.
 
+(1A) Without prejudice to the generality of subsection (1), the licensing authority may, upon the request of the holder of a licence, revoke the licence.
+
+[26/2004 wef 01/07/2004]
+
+(1B) Without prejudice to the generality of subsection (1), the licensing authority may, upon an application by any interested person, revoke a product licence if he is satisfied that —
+
+(a) a court, or the Registrar of Patents or a Deputy Registrar of Patents holding office under the Patents Act (Cap. 221), has determined that the doing of an act authorised by the licence infringes a patent under the Patents Act;
+
+(b) the person who made athe declaration referred to in section 12A(2) in support of the application for the licence has been convicted for an offence under section 20 in respect of the declaration or any document furnished in support of a statement made in the declaration; or
+
+(c) a court has determined that the declaration —
+
+(i) contains a statement that is false or misleading in a material particular; or
+
+(ii) omits to disclose any matter that is material to the application,
+
+and the determination or conviction (as the case may be) is final.
+
+[26/2004 wef 01/07/2004]
+
 (2) The suspension or revocation of a licence under this section may be total or may be limited to medicinal products of one or more descriptions or to medicinal products manufactured, assembled or stored in any particular premises or in a particular part of any premises.
 
 (3) Where the licensing authority proposes to exercise any power conferred by this section, he shall serve on the holder of the licence a notice giving particulars of the suspension, revocation or variation and of the reasons for his decision to suspend, revoke or vary the licence.
+
+(4) For the purposes of subsection (1B), a determination or conviction is final if —
+
+(a) it is upheld on appeal, review or revision;
+
+(b) it is not subject to further appeal;
+
+(c) it is not appealed against within the permitted time; or
+
+(d) any appeal against it is or is deemed to be withdrawn.
+
+[26/2004 wef 01/07/2004]
 
 ### Variation of licence on application of holder
 
@@ -708,13 +802,49 @@ if, in the opinion of the licensing authority, the Government department, statut
 
 [7/98 wef 16/04/1998]
 
+### Licensing authority may publish information on applications
+
+19C\.—(1) Notwithstanding any restriction on the disclosure of information imposed by any written law or rule of law, the licensing authority may from time to time publish, for the information of the public and in the manner determined by it, such particulars of applications for licences which it received as it may determine.
+
+(2) The particulars referred to in subsection (1) excludes —
+
+(a) any trade secret; and
+
+(b) any information that has commercial value that would be, or would be likely to be, diminished by disclosure.
+
+[26/2004 wef 01/07/2004]
+
+### No product licence to be granted on basis of previous grant
+
+19D\.—(1) Where —
+
+(a) information has been provided by an applicant for a product licence to the licensing authority relating to the safety or efficacy of a medicinal product in support of such application; and
+
+(b) a product licence has been granted in respect of that medicinal product (referred to in this section as the earlier licence),
+
+the licensing authority may not, for a period of 5 years from the date of such grant, grant a product licence to another person in respect of that or a similar medicinal product on the basis of the grant of the earlier licence unless the holder of the earlier licence has given his consent to the grant on that basis.
+
+(2) This section applies where the earlier licence is granted —
+
+(a) on or after the date of commencement of the Medicines (Amendment) Act 2004; or
+
+(b) at any time before the date that is before the date of commencement but no earlier than 5 years before that date.
+
+[26/2004 wef 01/07/2004]
+
 ### Offences under this Part
 
 20\.—(1) Subject to section 21, any person who contravenes any of the provisions of sections 5 and 6, or who is in possession of any medicinal product for the purpose of selling, supplying or exporting it in contravention of any of those sections, shall be guilty of an offence.
 
 (2) Where any medicinal product is imported in contravention of section 5, any person who, otherwise than for the purpose of performing or exercising a duty or power imposed or conferred by or under this Act, or any other written law, is in possession of the product knowing or having reasonable cause to suspect that it was so imported shall be guilty of an offence.
 
-(3) Any person who, in giving any information which he is required to give under section 19, makes a statement which he knows to be false in a material particular shall be guilty of an offence.
+(3) Any person who, when making an application under section 11 or a declaration under section 12A(2) or giving any information he is required to give under section 19, makes a statement which he knows or has reason to believe is false in a material particular, shall be guilty of an offence.
+
+[26/2004 wef 01/07/2004]
+
+(3A) Any person who, when required to furnish to the licensing authority any evidence or document under section 12A(3), furnishes to the licensing authority any thing which he knows or has reason to believe is forged or altered, shall be guilty of an offence.
+
+[26/2004 wef 01/07/2004]
 
 (4) Any person who without reasonable excuse fails to comply with a requirement imposed on him by a notice under section 19(2) shall be guilty of an offence.
 
@@ -1218,6 +1348,14 @@ MISCELLANEOUS AND SUPPLEMENTARY PROVISIONS
 
 54\.—(1) The Minister may by order specify any description or class of articles or substances appearing to him to be articles or substances which are not medicinal products but are manufactured, sold, supplied, imported or exported for use wholly or partly for a medicinal purpose or for a cosmetic, and may by the order direct that, subject to such exceptions and modifications as may be specified in the order, such provisions of this Act as may be so specified (including provisions so specified which relate to offences or penalties) shall have effect in relation to articles or substances of that description or class as those provisions have effect in relation to medicinal products.
 
+(1A) An order under subsection (1) may —
+
+(a) apply to any class or description of chewing gum that is intended for use in promoting dental health or oral hygiene; and
+
+(b) require the chewing gum to be sold or supplied by prescription or by or under the supervision of a pharmacist.
+
+[26/2004 wef 01/07/2004]
+
 (2) In this section, “cosmetic” means any article intended to be rubbed, poured, sprinkled or sprayed on, or introduced into, or otherwise applied to, the human body or any part thereof for cleansing, beautifying, promoting attractiveness or altering the appearance, and includes a deodorant or any depilatory substance but does not include a soap.
 
 ### Application of this Act to certain other substances which are not medicinal products
@@ -1609,3 +1747,8 @@ This Legislative History is provided for the convenience of users of the Medicin
 |||(Bill No. 3/2001 published on 13 January 2001)|
 ||Date of Second and Third Readings|22 February 2001|
 ||Date of commencement|1 April 2001|
+|8.|**Act 26 of 2004—Medicines (Amendment) Act 2004**|
+||Date of First Reading|19 May 2004|
+|||(Bill No. 25/2004 published on 20 May 2004)|
+||Date of Second and Third Readings|15 June 2004|
+||Date of commencement|1 July 2004|
