@@ -1419,6 +1419,11 @@ This Legislative History is provided for the convenience of users of the Public 
 |||(Bill No. 38/2004 published on 2 September 2004)|
 ||Date of Second and Third Readings|21 September 2004|
 ||Date of commencement|8 October 2004|
+|7.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
+||Date of First Reading|21 September 2004|
+|||(Bill No. 43/2004 published on 22 September 2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|15 December 2004|
 ## COMPARATIVE TABLE
 
 Public Utilities Act
