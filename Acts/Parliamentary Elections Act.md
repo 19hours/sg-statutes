@@ -2816,3 +2816,8 @@ This Legislative History is provided for the convenience of users of the Parliam
 ||Date of commencement|1 October 1994|
 |42.|**1995 Revised Edition—Parliamentary Elections Act**|
 ||Date of operation|15 March 1995|
+|43.|**Act 42 of 1996—Parliamentary Elections (Amendment) Act 1996**|
+||Date of First Reading|1 October 1996|
+|||(Bill No. 29/1996 published on 2 October 1996)|
+||Date of Second and Third Readings|28 October 1996|
+||Date of commencement|12 November 1996|
