@@ -1,16 +1,14 @@
-**Home Affairs Uniformed Services Superannuation Act 2001**
+**Home Affairs Uniformed Services Superannuation Act**
 
-**(No. 33 of 2001)**
+**(CHAPTER 126B)**
 
 **Table of Contents**
 
 [**Long Title**](#Home-Affairs-Uniformed-Services-Superannuation-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -66,51 +64,29 @@
 
 - [24 Regulations for administration of Fund](#Regulations-for-administration-of-Fund)
 
-[**Part VI CONSEQUENTIAL AMENDMENT**](#Part-VI)
+[**Legislative History**](#Legislative-History)
 
-- [25 Consequential amendment to Pension Fund Act](#Consequential-amendment-to-Pension-Fund-Act)
+# Home Affairs Uniformed Services Superannuation Act
 
-REPUBLIC OF SINGAPORE
+(CHAPTER 126B)
 
-GOVERNMENT GAZETTE
+(Original Enactment: Act 33 of 2001)
 
-ACTS SUPPLEMENT
+REVISED EDITION 2002
 
-Published by Authority
+(31st July 2002)
 
-NO. 34]
+An Act to establish a new occupational superannuation scheme known as the INVEST Plan for officers in the uniformed services under the Ministry of Home Affairs and the INVEST Fund for the purpose of that Plan and for matters connected therewith.
 
-Friday, September 28
-
-[2001
-
-The following Act was passed by Parliament on 13th August 2001 and assented to by the President on 21st August 2001:—
-
-Home Affairs Uniformed Services Superannuation Act 2001
-
-(No. 33 of 2001)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-21st August 2001.
-
-Date of Commencement: 1st October 2001
-
-An Act to establish a new occupational superannuation scheme known as the INVEST Plan for officers in the uniformed services under the Ministry of Home Affairs and the INVEST Fund for the purpose of that Plan and for matters connected therewith, and to make a consequential amendment to the Pension Fund Act (Chapter 224A of the 1996 Revised Edition).
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st October 2001]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Home Affairs Uniformed Services Superannuation Act 2001 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Home Affairs Uniformed Services Superannuation Act.
 
 ### Interpretation
 
@@ -194,7 +170,7 @@ an option to join the INVEST Plan as a member thereof and for the terms and cond
 
 (2) Subject to subsection (3), the regulations made under section 3(1) in relation to the officers referred to in subsection (1) shall provide —
 
-(a) in the case of a uniformed service officer referred to in subsection (1)(a), that any such officer who opts to join the INVEST Plan shall cease to be eligible to benefits under the Pensions Act (Cap. 225) but shall remain eligible under the INVEST Plan to benefits not less in value than the amount of any pension, gratuity or other allowance for which he would have been granted under the Pensions Act if he retired from service, or was injured or died in service, on the date immediately prior to his joining the INVEST Plan; and
+(a) in the case of a uniformed service officer referred to in subsection (1)(a), that any such officer who opts to join the INVEST Plan shall cease to be eligible to benefits under the Pensions Act but shall remain eligible under the INVEST Plan to benefits not less in value than the amount of any pension, gratuity or other allowance for which he would have been granted under the Pensions Act if he retired from service, or was injured or died in service, on the date immediately prior to his joining the INVEST Plan; and
 
 (b) in the case of an officer referred to in subsection (1)(b), that any such officer who opts to join the INVEST Plan shall remain eligible to benefits not less in value than the amount of any gratuity or other like benefit for which he would have been granted under his contract if he had completed his term of service under the contract on the date immediately prior to his joining the INVEST Plan.
 
@@ -298,7 +274,7 @@ INVEST FUND
 
 ### Investment
 
-15\.—(1) Notwithstanding section 7(3) of the Financial Procedure Act (Cap. 109), moneys standing to the credit of the Fund which are, in the opinion of the Board, moneys that are not for the time being required for the purpose of making payments out of the Fund under this Act and the INVEST Plan may, so far as is practicable, be invested by the Board in such stocks, funds, securities and investments as the Board thinks fit (but not any stock, bond or security issued by the Government) and in any manner, but the Board shall manage the Fund so that moneys that are from time to time required to pay benefits that are payable out of the Fund are available for that purpose.
+15\.—(1) Notwithstanding section 7(3) of the Financial Procedure Act (Cap. 109), moneys standing to the credit of the Fund which are, in the opinion of the Board, moneys that are not for the time being required for the purpose of making payments out of the Fund under this Act and the INVEST Planmay, so far as is practicable, be invested by the Board in such stocks, funds, securities and investments as the Board thinks fit (but not any stock, bond or security issued by the Government) and in any manner, but the Board shall manage the Fund so that moneys that are from time to time required to pay benefits that are payable out of the Fund are available for that purpose.
 
 (2) The Board may invest moneys standing to the credit of the Fund that are available for investment through an investment manager or managers who undertake to invest, and manage the investment of those moneys on behalf of the Board.
 
@@ -310,7 +286,7 @@ INVEST FUND
 
 ### Deficiencies
 
-16\.—(1) Subject to subsection (2), where the moneys in the Fund are insufficient to pay any pension, gratuity, allowance, compensation or other like benefit at the time when such payment becomes due under the INVEST Plan, the deficiency shall be charged on and payable out of the Consolidated Fund.
+16\.—(1) Subject to subsection (2), where the moneys in the Fund are insufficient to pay any pension, gratuity, allowance, compensation or other like benefit at the time when such payment becomes due under the INVEST Plan , the deficiency shall be charged on and payable out of the Consolidated Fund.
 
 (2) Subsection (1) shall apply only to any pension, gratuity, allowance, compensation or other like benefit —
 
@@ -342,7 +318,7 @@ BOARD OF TRUSTEES AND AWARD OFFICERS
 
 (4) If at any time it appears to the Minister that removal from office of any of the trustees is necessary in the interests of the effective and economical performance of the functions of the Board under this Act, the Minister may remove from office so many of those trustees as he considers necessary in those interests.
 
-(5) All trustees shall be deemed to be public servants within the meaning of the Penal Code (Cap. 224).
+(5) All trustees shall be deemed to be public servants for the purposes of the Penal Code (Cap. 224).
 
 (6) All trustees shall be deemed to be public officers for the purposes of the Financial Procedure Act (Cap. 109) and section 20 of that Act shall apply to such persons notwithstanding that they are not or were not in the employment of the Government.
 
@@ -398,7 +374,7 @@ AUDIT AND ACCOUNTING
 
 (3) The accounts and annual financial statements of the Fund shall be audited by the Auditor-General or such other auditor as may be appointed annually by the Minister in consultation with the Auditor-General.
 
-(4) A person shall not be qualified for appointment as an auditor under subsection (3) unless he is an approved company auditor within the meaning of the Companies Act (Cap. 50).
+(4) A person shall not be qualified for appointment as an auditor under subsection (3) unless he is an approved company auditorwithin the meaning of the Companies Act (Cap. 50).
 
 (5) The remuneration of the auditor shall be paid out of the Fund.
 
@@ -408,7 +384,7 @@ AUDIT AND ACCOUNTING
 
 (8) The Minister shall as soon as practicable cause a copy of the audited financial statements and of the report of the auditor to be presented to Parliament.
 
-(9) The financial year of the Fund shall begin on 1st April of each year and end on 31st March of the succeeding year, except that the first financial year of the Fund shall begin on the date of commencement of this Act and end on 31st March of the succeeding year.
+(9) The financial year of the Fund shall begin on 1st April of each year and end on 31st March of the succeeding year.
 
 ### Periodic examination of Fund
 
@@ -416,9 +392,9 @@ AUDIT AND ACCOUNTING
 
 (2) Notwithstanding subsection (1), where an amendment is made to the INVEST Plan, and the amendment affects the cost of benefits payable under the INVEST Plan or creates an initial unfunded liability, the Minister may, for the purposes of section 12(1)(a), appoint a person to make an examination and report on the state of the Fund.
 
-(3) The person appointed under subsection (1) or (2) shall, at the end of his examination, report to the Minister for Finance and the Minister the state of the Fund having regard to its prospective liabilities and the probable annual provisions required by the Fund to meet those liabilities.
+(3) The person appointed under subsection (1)or (2) shall, at the end of his examination, report to the Minister for Finance and the Ministerthe state of the Fund having regard to its prospective liabilities and the probable annual provisions required by the Fund to meet those liabilities.
 
-(4) The Minister shall cause a copy of every such report to be presented to Parliament forthwith after receipt thereof.
+(4) The Ministershall cause a copy of every such report to be presented to Parliament forthwith after receipt thereof.
 
 ### Regulations for administration of Fund
 
@@ -430,17 +406,20 @@ AUDIT AND ACCOUNTING
 
 (c) relating to the accounting, reporting, auditing and periodic examination of the Fund.
 
-## PART VI
+## LEGISLATIVE HISTORY
 
-CONSEQUENTIAL AMENDMENT
+Home Affairs Uniformed Services Superannuation Act
 
-### Consequential amendment to Pension Fund Act
+(CHAPTER 126B)
 
-25\. Section 9 of the Pension Fund Act (Cap. 224A) is amended by inserting, immediately after subsection (2), the following subsection:
+This Legislative History is provided for the convenience of users of the Home Affairs Uniformed Services Superannuation Act. It is not part of this Act.
 
-“
-
-(3) The Minister may by warrant under his hand authorise the transfer to the INVEST Fund established under section 12 of the Home Affairs Uniformed Services Superannuation Act 2001 such moneys in the Pension Fund as the Minister may determine as the value of that part of the Pension Fund relating to all those public officers who opted in favour of joining the INVEST Plan established under that Act.
-
-”.
-
+||||
+|:-|:-|:-|
+|1.|**Act 33 of 2001—Home Affairs Uniformed Services Superannuation Act 2001**|
+||Date of First Reading|25 July 2001|
+|||(Bill No. 31/2001 published on 26 July 2001)|
+||Date of Second and Third Readings|13 August 2001|
+||Date of commencement|1 October 2001|
+|2.|**2002 Revised Edition—Home Affairs Uniformed Services Superannuation Act (Chapter 126B)**|
+||Date of operation|31 July 2002|
