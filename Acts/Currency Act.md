@@ -66,7 +66,7 @@
 
 - [26 Sanction of Public Prosecutor](#Sanction-of-Public-Prosecutor)
 
-- [27 Protection from personal liability](#Protection-from-personal-liability)
+- [27 (Repealed)](#Repealed)
 
 - [28 Regulations](#Regulations)
 
@@ -456,6 +456,10 @@ CURRENCY
 
 [25/2002]
 
+(10) In preparing the financial statements relating to the Currency Fund, the Authority may comply with accounting standards to the extent that it is, in the opinion of the Authority, appropriate to do so, having regard to the objects and functions of the Authority under this Act or the Monetary Authority of Singapore Act (Cap. 186).
+
+[24/2003 wef 01/01/2004]
+
 ### External assets of Currency Fund
 
 22\. The external assets of the Currency Fund shall consist of all or any of the following and shall at all times be not less than 100% of the face value of the currency issued by the Authority:
@@ -538,13 +542,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [47/98]
 
-### Protection from personal liability
-
-27\. No suit or other legal proceedings shall lie against any member, officer or employee of the Authority or other person acting under the direction of the Authority for anything which is in good faith done or intended to be done in the execution or purported execution of this Act.
-
-[34
-
-[33/95; 25/2002]
+27\. [Deleted by Act 24/2003 wef 01/01/2004]
 
 ### Regulations
 
@@ -665,6 +663,12 @@ This Legislative History is provided for the convenience of users of the Currenc
 ||Date of commencement|1 October 2002|
 |17.|**2002 Revised Edition—Currency Act**|
 ||Date of operation|31 December 2002|
+|18.|**Act 24 of 2003—Monetary Authority of Singapore (Amendment) Act 2003**|
+||(Consequential amendments made by)||
+||Date of First Reading|16 October 2003|
+|||(Bill No. 21/2003 published on 17 October 2003)|
+||Date of Second and Third Readings|10 November 2003|
+||Date of commencement|1 January 2004|
 ## COMPARATIVE TABLE
 
 Currency Act
