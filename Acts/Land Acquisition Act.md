@@ -168,7 +168,7 @@ PRELIMINARY
 
 “Board” means an Appeals Board constituted under section 19(1);
 
-“Collector” means any officer appointed by the President to be a Collector of Land Revenue or a Deputy Collector of Land Revenue;
+“Collector” means any officer appointed by the Minister to be a Collector of Land Revenue or a Deputy Collector of Land Revenue;
 
 “Commissioner” means a Commissioner of Appeals or a Deputy Commissioner of Appeals, appointed under section 19(2), and includes an acting Commissioner of Appeals or acting Deputy Commissioner of Appeals;
 
@@ -596,6 +596,12 @@ the award as made or agreed under this Act or determined on appeal, as the case 
 
 [Subst. by Act 38/95 wef 01/12/1995]
 
+(ii) as at the date of the publication of the notification under section 3(1) if the notification is, within 6 months from the date of its publication, followed by a declaration under section 5 in respect of the same land or part thereof; or
+
+(iii) as at the date of the publication of the declaration made under section 5,
+
+whichever is the lowest;
+
 (b) any increase in the value of any other land of the person interested likely to accrue from the use to which the land acquired will be put;
 
 (c) the damage, if any, sustained by the person interested at the time of the Collector’s taking possession of the land by reason of severing that land from his other land;
@@ -616,11 +622,11 @@ the award as made or agreed under this Act or determined on appeal, as the case 
 
 (b) the market value of the land —
 
-(i) as at 30th November 1973 in respect of land acquired before 30th November 1987;
+(i) as at 1st January 1986 in respect of land acquired on or after 30th November 1987 but before 18th January 1993;
 
-(ii) as at 1st January 1986 in respect of land acquired on or after 30th November 1987 but before 18th January 1993; and
+(ii) as at 1st January 1992 in respect of land acquired on or after 18th January 1993 but before 27th September 1995; and
 
-(iii) as at 1st January 1992 in respect of land acquired on or after 18th January 1993,
+(iii) as at 1st January 1995 in respect of land acquired on or after 27th September 1995,
 
 [Subst. by Act 38/95 wef 01/12/1995 vide S 524/95]
 
@@ -872,3 +878,8 @@ This Legislative History is provided for the convenience of users of the Land Ac
 |||(Bill No. 30/1995 published on 28 September 1995)|
 ||Date of Second and Third Readings|1 November 1995|
 ||Date of commencement|1 December 1995|
+|10.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
+||Date of First Reading|11 July 1997|
+|||(Bill No. 6/1997 published on 12 July 1997)|
+||Date of Second and Third Readings|25 August 1997|
+||Dates of commencement|1 October 1997 (item (16) of the Second Schedule)|
