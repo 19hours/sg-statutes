@@ -116,6 +116,8 @@ PRELIMINARY
 
 “prison officer” means any public officer appointed to the permanent establishment in the Prisons Service;
 
+“Scheme” means the Occupational Superannuation Scheme established under the Prevention of Corruption Act (Cap. 241) for the benefit of officers in the Corrupt Practices Investigation Schemes of Service;
+
 “senior police officer” means any police officer other than a junior police officer;
 
 “service” means regular service (whether part-time or full-time) as a uniformed service officer;
@@ -140,9 +142,11 @@ INVEST PLAN
 
 (d) all prison officers appointed on or after the commencement of the regulations; and
 
-(e) all intelligence officers who, immediately before being appointed as an intelligence officer, were members of the scheme,
+(e) all intelligence officers who are appointed on or after the commencement of the regulations, including those who were members immediately before becoming intelligence officers,
 
 who will or (as the case may be) continue to be members of the scheme.
+
+[29/2002 wef 30/01/2003]
 
 (2) The regulations made under subsection (1) shall provide for the payment of —
 
@@ -250,7 +254,13 @@ INVEST FUND
 
 (2) There shall also be paid into the Fund such sum from the Pension Fund established by the Pension Fund Act (Cap. 224A) as the Minister for Finance may determine as the value of that part of the Pension Fund relating to all those officers in the uniformed services referred to in section 4(1)(a) who exercise an option in favour of joining the INVEST Plan in accordance with the regulations.
 
-(3) The Fund shall be deemed to be a Government fund for the purposes of any other written law, but shall be administered separately from all other Government funds.
+(2A) The moneys referred to in subsections (1)(a) and (b) and (2) shall be paid into the INVEST Fund as capital money, and shall not be used to make payment of any dividend under the INVEST Plan.
+
+[29/2002 wef 30/01/2003]
+
+(3) The Fund shall be deemed to be a Government fund for the purposes of any other written law.
+
+[29/2002 wef 30/01/2003]
 
 (4) Except as otherwise expressly provided in this Act or regulations made under section 24, the Financial Procedure Act (Cap. 109) shall apply to the Fund.
 
@@ -258,13 +268,23 @@ INVEST FUND
 
 ### Purposes of Fund
 
-13\. The moneys in the Fund shall only be withdrawn and applied to meet any one or more of the following purposes:
+13\.—(1) Subject to subsection (2) and section 4F(2) of the Prevention of Corruption Act (Cap. 241), the moneys in the Fund shall only be withdrawn and applied to meet any one or more of the following purposes:
 
-(a) the payment of any pension, gratuity, allowance, compensation or other like benefit granted under the INVEST Plan;
+(a) the payment of any pension, gratuity, allowance, compensation or other like benefit granted under the INVEST Plan or the Scheme;
 
 (b) all expenses incidental to or arising from the administration, investment and management of moneys in the Fund; and
 
-(c) such other expenses relating to the granting of any pension, gratuity, allowance, compensation or other like benefit under the INVEST Plan and expressly provided by written law to be met out of the Fund.
+(c) such other expenses relating to the granting of any pension, gratuity, allowance, compensation or other like benefit under the INVEST Plan or the Scheme, as the case may be, and expressly provided by written law to be met out of the Fund.
+
+(2) The Fund comprising —
+
+(a) such sums appropriated from the Consolidated Fund and authorised to be paid into the Fund by or under any written law to meet its liabilities under the INVEST Plan or the Scheme; and
+
+(b) the sum referred to in section 12(2),
+
+shall not be withdrawn and applied to meet the payment of any pension, gratuity, allowance, compensation or other like benefit granted under the Scheme, or such other expenses relating to the granting of any pension, gratuity, allowance, compensation or other like benefit under the Scheme.
+
+[29/2002 wef 30/01/2002]
 
 ### Administration of Fund
 
@@ -274,7 +294,9 @@ INVEST FUND
 
 ### Investment
 
-15\.—(1) Notwithstanding section 7(3) of the Financial Procedure Act (Cap. 109), moneys standing to the credit of the Fund which are, in the opinion of the Board, moneys that are not for the time being required for the purpose of making payments out of the Fund under this Act and the INVEST Planmay, so far as is practicable, be invested by the Board in such stocks, funds, securities and investments as the Board thinks fit (but not any stock, bond or security issued by the Government) and in any manner, but the Board shall manage the Fund so that moneys that are from time to time required to pay benefits that are payable out of the Fund are available for that purpose.
+15\.—(1) Notwithstanding section 7(3) of the Financial Procedure Act (Cap. 109), moneys standing to the credit of the Fund which are, in the opinion of the Board, moneys that are not for the time being required for the purpose of making payments out of the Fund under this Act and the INVEST Plan or the Scheme may, so far as is practicable, be invested by the Board in such stocks, funds, securities and investments as the Board thinks fit (but not any stock, bond or security issued by the Government) and in any manner, but the Board shall manage the Fund so that moneys that are from time to time required to pay benefits that are payable out of the Fund are available for that purpose.
+
+[29/2003 wef 30/01/2003]
 
 (2) The Board may invest moneys standing to the credit of the Fund that are available for investment through an investment manager or managers who undertake to invest, and manage the investment of those moneys on behalf of the Board.
 
@@ -286,13 +308,17 @@ INVEST FUND
 
 ### Deficiencies
 
-16\.—(1) Subject to subsection (2), where the moneys in the Fund are insufficient to pay any pension, gratuity, allowance, compensation or other like benefit at the time when such payment becomes due under the INVEST Plan , the deficiency shall be charged on and payable out of the Consolidated Fund.
+16\.—(1) Subject to subsection (2), where the moneys in the Fund are insufficient to pay any pension, gratuity, allowance, compensation or other like benefit at the time when such payment becomes due under the INVEST Plan or the Scheme, the deficiency shall be charged on and payable out of the Consolidated Fund.
+
+[29/2002 wef 30/01/2002]
 
 (2) Subsection (1) shall apply only to any pension, gratuity, allowance, compensation or other like benefit —
 
 (a) in respect of any uniformed service officer referred to in section 4(1)(a) who opts to join the INVEST Plan; or
 
-(b) prescribed under any written law enacted on or after the commencement of the regulations made under section 3.
+(b) in respect of any officer referred to in section 4A(4)(a) of the Prevention of Corruption Act (Cap. 241) who opts to join the Scheme under that Act.
+
+[29/2002 wef 30/01/2003]
 
 ### Fund surpluses
 
@@ -326,7 +352,9 @@ BOARD OF TRUSTEES AND AWARD OFFICERS
 
 20\.—(1) The functions of the Board are to manage and invest the Fund in accordance with the provisions of this Act including, without limiting the generality of the foregoing, the following functions:
 
-(a) to advise the Minister on the interest rates for the purposes of the INVEST Plan;
+(a) to advise on the interest rates for the purposes of the INVEST Plan or the Scheme;
+
+[29/2002 wef 30/01/2003]
 
 (b) to advise the Minister on proposed changes to any regulations made under Part II in relation to the INVEST Plan; and
 
@@ -392,9 +420,13 @@ AUDIT AND ACCOUNTING
 
 (2) Notwithstanding subsection (1), where an amendment is made to the INVEST Plan, and the amendment affects the cost of benefits payable under the INVEST Plan or creates an initial unfunded liability, the Minister may, for the purposes of section 12(1)(a), appoint a person to make an examination and report on the state of the Fund.
 
-(3) The person appointed under subsection (1)or (2) shall, at the end of his examination, report to the Minister for Finance and the Ministerthe state of the Fund having regard to its prospective liabilities and the probable annual provisions required by the Fund to meet those liabilities.
+(2A) Notwithstanding subsection (1), where an amendment is made to the Scheme, and the amendment affects the cost of benefits payable under the Scheme or creates an initial unfunded liability, the Minister charged with the responsibility for the Scheme may, for the purposes of section 12(1)(a), appoint a person to make an examination and report on the state of the Fund.
 
-(4) The Ministershall cause a copy of every such report to be presented to Parliament forthwith after receipt thereof.
+[29/2002 wef 30/01/2002]
+
+(3) The person appointed under subsection (1) , (2) or (2A) shall, at the end of his examination, report to the Minister for Finance and the Minister referred to in subsection (2) or (2A), as the case may be, the state of the Fund having regard to its prospective liabilities and the probable annual provisions required by the Fund to meet those liabilities.
+
+(4) The Minister referred to in subsection (2) or (2A), as the case may be, shall cause a copy of every such report to be presented to Parliament forthwith after receipt thereof.
 
 ### Regulations for administration of Fund
 
@@ -423,3 +455,9 @@ This Legislative History is provided for the convenience of users of the Home Af
 ||Date of commencement|1 October 2001|
 |2.|**2002 Revised Edition—Home Affairs Uniformed Services Superannuation Act (Chapter 126B)**|
 ||Date of operation|31 July 2002|
+|3.|**Act 29 of 2002—Prevention of Corruption (Amendment) Act 2002**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|1 October 2002|
+|||(Bill No. 29/2002 published on 2 October 2002)|
+||Date of Second and Third Readings|31 October 2002|
+||Date of commencement|30 January 2003|
