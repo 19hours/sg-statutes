@@ -2582,7 +2582,7 @@ Explanation.—“Revenue officer” in this section means any officer employed 
 
 (3) It is immaterial whether the attention of such advocate or solicitor was or was not directed to such fact by or on behalf of his client.
 
-Explanation.—The obligation stated in this section continues after the employment has ceased.
+Explanation—.The obligation stated in this section continues after the employment has ceased.
 
 Illustrations
 
@@ -3060,6 +3060,15 @@ Central Provident Fund Act (Chapter 36).
 
 Civil Aviation Authority of Singapore Act (Chapter 41).
 
+3A. Civil Service College
+
+Civil Service College Act 2001
+
+
+
+
+(Act 29 of 2001).
+
 4. Commercial and Industrial Security Corporation
 
 Commercial and Industrial Security Corporation Act (Chapter 47).
@@ -3141,6 +3150,8 @@ Trade Development Board Act (Chapter 330).
 Urban Redevelopment Authority Act (Chapter 340).
 
 [S 414/92]
+
+[S 613/2001 wef 12/12/2001]
 
 [9/2000 wef 15/03/2000]
 
@@ -3302,3 +3313,5 @@ This Legislative History is provided for the convenience of users of the Evidenc
 ||Date of Second and Third Readings|19 April 2001|
 ||Date of commencement|1 June 2001|
 |||(item (4) in the Fourth Schedule)|
+|32.|**G. N. No. S 613/2001—Evidence Act (Amendment of Schedule) Order 2001**|
+||Date of commencement|12 December 2001|
