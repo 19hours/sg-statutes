@@ -48,7 +48,7 @@
 
 - [21 Savings](#Savings)
 
-[**THE SCHEDULE Newspaper statements having qualified privilege**](#THE-SCHEDULE)
+[**THE SCHEDULE Newspaper Statements Having Qualified Privilege**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -190,7 +190,9 @@ and in either case that the publisher exercised all reasonable care in relation 
 
 ### Limitation of privilege at elections
 
-14\. A defamatory statement published by or on behalf of a candidate in any election to Parliament or other elected or partially elected body shall not be deemed to be published on a privileged occasion on the ground that it is material to a question in issue in the election, whether or not the person by whom it is published is qualified to vote at the election.
+14\. A defamatory statement published by or on behalf of a candidate in any election to the office of President or to Parliament or other elected or partially elected body shall not be deemed to be published on a privileged occasion on the ground that it is material to a question in issue in the election, whether or not the person by whom it is published is qualified to vote at the election.
+
+[11/91 wef 30/11/1991]
 
 ### Agreements for indemnity
 
@@ -234,7 +236,7 @@ Provided that the rights and interests of the other defendant or defendants shal
 
 Section 12.
 
-Newspaper statements having qualified privilege
+Newspaper Statements Having Qualified Privilege
 
 Part I
 
@@ -318,3 +320,8 @@ This Legislative History is provided for the convenience of users of the Defamat
 ||Date of commencement|21 March 1980|
 |7.|**1985 Revised Edition—Defamation Act (Chapter 75)**|
 ||Date of operation|30 March 1987|
+|8.|**Act 11 of 1991—Statutes (Miscellaneous Amendments) Act 1991**|
+||Date of First Reading|3 January 1991|
+|||(Bill No. 4/91 published on 4 January 1991)|
+||Date of Second and Third Readings|14 January 1991|
+||Date of commencement|30 November 1991 (item (8) of the Schedule — amendment of Defamation Act)|
