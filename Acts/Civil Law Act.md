@@ -110,7 +110,9 @@ Equitable rights appearing incidentally
 
 Suits not to be restrained by prohibition or injunction
 
-(e) no cause or proceeding at any time pending in the court in its original jurisdiction or in the Court of Appeal, shall be restrained by prohibition or injunction; but every matter of equity on which an injunction against the prosecution of any such cause or proceeding might have been obtained if the Civil Law Ordinance 1878 [IV/1878] had not been passed, either unconditionally or on any terms or conditions, may be relied on by way of defence thereto;
+(e) no cause or proceeding at any time pending in the court in its original jurisdiction or in the Court of Appeal, shall be restrained by prohibition or injunction; but every matter of equity on which an injunction against the prosecution of any such cause or proceeding might have been obtained if the Civil Law Ordinance 1878 had not been passed, either unconditionally or on any terms or conditions, may be relied on by way of defence thereto;
+
+[IV/1878.]
 
 Court may grant stay of proceedings. By motion in a summary way
 
@@ -132,17 +134,15 @@ Court to grant all such remedies as any of the parties are entitled to in respec
 
 (2) All persons who, in any such case, would be entitled to prove for and receive dividends out of the estate of any such deceased person, or out of the assets of any such company, may come in under the decree or order for the administration of such estate, or under the winding up of such company, and make such claims against the same as they may respectively be entitled to by virtue of this Act.
 
-### Voluntary waste
+### Voluntary waste. Cf. 52 Henry III (Statute of Malborough) c. 23. (1267)
 
 (2A) A tenant for life or lives or a leasehold tenant shall not commit voluntary waste; but this subsection shall not apply to any estate or tenancy without impeachment of waste, or affect any licence or other right to commit waste.
 
 [35/93]
 
-[Cf. 52 Henry III (Statute of Malborough) c. 23. (1267)]
-
 (2B) A tenant who infringes subsection (2A) shall be liable in damages to his remainderman or reversioner; and in subsection (2A), “leasehold tenant” includes a tenant for a term, a tenant under a periodical tenancy and a tenant at will.
 
-[35/93]
+[Act 35/93 wef 12/11/1993]
 
 ### Estate for life when not to confer right of equitable waste
 
@@ -158,7 +158,7 @@ Court to grant all such remedies as any of the parties are entitled to in respec
 
 ### Assignment of debts and choses in action. Effectual to pass right and remedy
 
-(6) Any absolute assignment by writing under the hand of the assignor, not purporting to be by way of charge only, of any debt or other legal chose in action of which express notice in writing has been given to the debtor, trustee or other person from whom the assignor would have been entitled to receive or claim such debt or chose in action, shall be and be deemed to have been effectual in law, subject to all equities which would have been entitled to priority over the right of the assignee under the law as it existed before 23rd July 1909 to pass and transfer the legal right to such debt or chose in action, from the date of such notice, and all legal and other remedies for the same, and the power to give a good discharge for the same, without the concurrence of the assignor. Stipulations not of essence of contracts to be construed in equity.
+(6) Any absolute assignment by writing under the hand of the assignor, not purporting to be by way of charge only, of any debt or other legal chose in action of which express notice in writing has been given to the debtor, trustee or other person from whom the assignor would have been entitled to receive or claim such debt or chose in action, shall be and be deemed to have been effectual in law, subject to all equities which would have been entitled to priority over the right of the assignee under the law as it existed before 23rd July 1909 to pass and transfer the legal right to such debt or chose in action, from the date of such notice, and all legal and other remedies for the same, and the power to give a good discharge for the same, without the concurrence of the assignor.
 
 (7) Stipulations in contracts, as to time or otherwise, which would not, before 23rd July 1909 have been deemed to be or to have become of the essence of such contracts in a court of equity, shall receive in all cases the same construction and effect as they would have received in equity before that date.
 
@@ -522,7 +522,7 @@ but is not broken by a temporary grant of administration if probate is subsequen
 
 18\.—(1) When a right to the personal estate of any person who dies intestate without next of kin has accrued to the Government, such personal estate or the proceeds thereof shall form part of the Consolidated Fund and shall be appropriated as part of such revenue to such public purposes as Parliament may from time to time think proper and direct:
 
-Provided that it shall be lawful for the President, by warrant, to order the transfer of the whole or any part of such personal estate, or the proceeds thereof, to any person or persons who shall establish to the satisfaction of the President any equitable or moral claim thereto.
+Provided that it shall be lawful for the President, by warrant, to order the transfer of the whole or any part of such personal estate, or the proceeds thereof, to any person or persons who shall establish to the satisfaction of the Minister any equitable or moral claim thereto.
 
 (2) Nothing in this section shall affect the disposal of any property according to Muslim law.
 
@@ -683,3 +683,8 @@ This Legislative History is provided for the convenience of users of the Civil L
 ||Date of commencement|12 November 1993|
 |29.|**1994 Revised Edition—Civil Law Act**|
 ||Date of operation|15 March 1994|
+|30.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
+||Date of First Reading|11 July 1997|
+|||(Bill No. 6/97 published on 12 July 1997)|
+||Date of Second and Third Readings|25 August 1997|
+||Date of commencement|1 October 1997 (except section 3)|
