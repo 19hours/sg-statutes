@@ -46,11 +46,13 @@ An Act for the imposition of a tax on certain services rendered by statutory boa
 
 “services” includes the letting of any apparatus or appliance;
 
-“statutory board” includes a public telecommunication licensee referred to in the Telecommunication Authority of Singapore Act and a public electricity supplier or a public gas licensee referred to in the Public Utilities Act 1995.
+“statutory board” includes a public telecommunication licensee referred to in the Telecommunications Act 1999 and a public electricity supplier or a public gas licensee referred to in the Public Utilities Act 1995.
 
 [12/1992 wef 01/04/1992]
 
 [26/1995 wef 01/10/1995]
+
+[43/1999 wef 01/12/1999]
 
 “tax” means the tax imposed under this Act;
 
@@ -132,4 +134,10 @@ This Legislative History is provided for the convenience of users of the Statuto
 ||Date of First Reading|25 May 1995|
 |||(Bill No. 20/95)|
 ||Date of Second and Third Readings|7 July 1995|
-||Date of commencement|1 October 1995 (paragraph 6 of the Fourth Schedule — amendment of Statutory Boards (Taxable Services) Act)|
+||Date of commencement|1 October 1995 (paragraph 6 of the Fourth Schedule –– amendment of Statutory Boards (Taxable Services) Act)|
+|8.|**Act 43 of 1999—Telecommunications Act 1999**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|11 October 1999|
+|||(Bill No. 33/99)|
+||Date of Second and Third Readings|23 November 1999|
+||Date of commencement|1 December 1999 (section 76(5) –– amendment of Statutory Boards (Taxable Services) Act)|
