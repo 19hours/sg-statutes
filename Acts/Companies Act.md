@@ -744,6 +744,8 @@
 
 - [252 Contributories in case of death of member](#Contributories-in-case-of-death-of-member)
 
+[**Division 2  Winding up by Court**](#Division-2--Winding-up-by-Court)
+
 [**Subdivision (1) — General**](#Subdivision-1-—-General)
 
 - [253 Application for winding up](#Application-for-winding-up)
@@ -766,6 +768,68 @@
 
 - [262 Copy of order to be lodged, etc.](#Copy-of-order-to-be-lodged-etc)
 
+[**Subdivision (2) — Liquidators**](#Subdivision-2-—-Liquidators)
+
+- [263 Appointment, style, etc., of liquidators](#Appointment-style-etc-of-liquidators)
+
+- [264 Provisions where person other than Official Receiver is appointed liquidator](#Provisions-where-person-other-than-Official-Receiver-is-appointed-liquidator)
+
+- [265 Control of unofficial liquidators by Official Receiver](#Control-of-unofficial-liquidators-by-Official-Receiver)
+
+- [266 Control of Official Receiver by Minister](#Control-of-Official-Receiver-by-Minister)
+
+- [267 Provisional liquidator](#Provisional-liquidator)
+
+- [268 General provisions as to liquidators](#General-provisions-as-to-liquidators)
+
+- [269 Custody and vesting of company’s property](#Custody-and-vesting-of-company’s-property)
+
+- [270 Statement of company’s affairs to be submitted to Official Receiver](#Statement-of-company’s-affairs-to-be-submitted-to-Official-Receiver)
+
+- [271 Report by liquidator](#Report-by-liquidator)
+
+- [272 Powers of liquidator](#Powers-of-liquidator)
+
+- [273 Exercise and control of liquidator’s powers](#Exercise-and-control-of-liquidator’s-powers)
+
+- [274 Payment by liquidator into bank](#Payment-by-liquidator-into-bank)
+
+- [275 Release of liquidators and dissolution of company](#Release-of-liquidators-and-dissolution-of-company)
+
+- [276 As to orders for release or dissolution](#As-to-orders-for-release-or-dissolution)
+
+[**Subdivision (3) — Committees of inspection**](#Subdivision-3-—-Committees-of-inspection)
+
+- [277 Meetings to determine whether committee of inspection to be appointed](#Meetings-to-determine-whether-committee-of-inspection-to-be-appointed)
+
+- [278 Constitution and proceedings of committee of inspection](#Constitution-and-proceedings-of-committee-of-inspection)
+
+[**Subdivision (4) — General powers of Court**](#Subdivision-4-—-General-powers-of-Court)
+
+- [279 Power to stay winding up](#Power-to-stay-winding-up)
+
+- [280 Settlement of list of contributories and application of assets](#Settlement-of-list-of-contributories-and-application-of-assets)
+
+- [281 Payment of debts due by contributory, to company, and extent to which set-off allowed](#Payment-of-debts-due-by-contributory-to-company-and-extent-to-which-set-off-allowed)
+
+- [282 Appointment of special manager](#Appointment-of-special-manager)
+
+- [283 Claims of creditors and distribution of assets](#Claims-of-creditors-and-distribution-of-assets)
+
+- [284 Inspection of books by creditors and contributories](#Inspection-of-books-by-creditors-and-contributories)
+
+- [285 Power to summon persons connected with company](#Power-to-summon-persons-connected-with-company)
+
+- [286 Power to order public examination of promoters, directors, etc.](#Power-to-order-public-examination-of-promoters-directors-etc)
+
+- [287 Power to arrest absconding contributory, director or former director](#Power-to-arrest-absconding-contributory-director-or-former-director)
+
+- [288 Delegation to liquidator of certain powers of Court](#Delegation-to-liquidator-of-certain-powers-of-Court)
+
+- [289 Powers of Court cumulative](#Powers-of-Court-cumulative)
+
+[**Division 3  Voluntary winding up**](#Division-3--Voluntary-winding-up)
+
 [**Subdivision (1) — Introductory**](#Subdivision-1-—-Introductory)
 
 - [290 Circumstances in which company may be wound up voluntarily](#Circumstances-in-which-company-may-be-wound-up-voluntarily)
@@ -775,6 +839,50 @@
 - [292 Effect of voluntary winding up](#Effect-of-voluntary-winding-up)
 
 - [293 Declaration of solvency](#Declaration-of-solvency)
+
+[**Subdivision (2) — Provisions applicable only to members’ voluntary winding up**](#Subdivision-2-—-Provisions-applicable-only-to-members’-voluntary-winding-up)
+
+- [294 Liquidator](#Liquidator)
+
+- [295 Duty of liquidator to call creditors’ meeting in case of insolvency](#Duty-of-liquidator-to-call-creditors’-meeting-in-case-of-insolvency)
+
+[**Subdivision (3) — Provisions applicable only to creditors’ voluntary winding up**](#Subdivision-3-—-Provisions-applicable-only-to-creditors’-voluntary-winding-up)
+
+- [296 Meeting of creditors](#Meeting-of-creditors)
+
+- [297 Liquidators](#Liquidators)
+
+- [298 Committee of inspection](#Committee-of-inspection)
+
+- [299 Property and proceedings](#Property-and-proceedings)
+
+[**Subdivision (4) — Provisions applicable to every voluntary winding up**](#Subdivision-4-—-Provisions-applicable-to-every-voluntary-winding-up)
+
+- [300 Distribution of property of company](#Distribution-of-property-of-company)
+
+- [301 Appointment of liquidator](#Appointment-of-liquidator)
+
+- [302 Removal of liquidator](#Removal-of-liquidator)
+
+- [303 Review of liquidator’s remuneration](#Review-of-liquidator’s-remuneration)
+
+- [304 Act of liquidator valid, etc.](#Act-of-liquidator-valid-etc)
+
+- [305 Powers and duties of liquidator](#Powers-and-duties-of-liquidator)
+
+- [306 Power of liquidator to accept shares, etc., as consideration for sale of property of company](#Power-of-liquidator-to-accept-shares-etc-as-consideration-for-sale-of-property-of-company)
+
+- [307 Annual meeting of members and creditors](#Annual-meeting-of-members-and-creditors)
+
+- [308 Final meeting and dissolution](#Final-meeting-and-dissolution)
+
+- [309 Arrangement when binding on creditors](#Arrangement-when-binding-on-creditors)
+
+- [310 Application to Court to have questions determined or powers exercised](#Application-to-Court-to-have-questions-determined-or-powers-exercised)
+
+- [311 Costs](#Costs)
+
+- [312 Limitation on right to wind up voluntarily](#Limitation-on-right-to-wind-up-voluntarily)
 
 [**Subdivision (1) — General**](#Subdivision-1-—-General)
 
@@ -10260,6 +10368,10 @@ Preliminary
 
 [Aust. s. 220.]
 
+Division 2 —
+
+Winding up by Court
+
 Subdivision (1) — General
 
 ### Application for winding up
@@ -10468,6 +10580,520 @@ or of any two or more of those parties.
 
 [Aust. s. 230.]
 
+Subdivision (2) — Liquidators
+
+### Appointment, style, etc., of liquidators
+
+263\. The following provisions with respect to liquidators shall have effect on a winding up order being made:
+
+(a) if an approved liquidator, other than the Official Receiver, is not appointed to be the liquidator of the company, the Official Receiver shall by virtue of his office become the provisional liquidator and shall continue to act as such until he or another person becomes liquidator and is capable of acting as such;
+
+(b) if there is no liquidator appointed, the Official Receiver shall summon separate meetings of the creditors and contributories of the company for the purpose of determining whether or not an application is to be made to the Court for appointing a liquidator in the place of the Official Receiver;
+
+(c) the Court may make any appointment and order required to give effect to any such determination, and, if there is a difference between the determinations of the meetings of the creditors and contributories in respect of the matter aforesaid, the Court shall decide the difference and make such order thereon as the Court may think fit;
+
+(d) in a case where a liquidator is not appointed by the Court, the Official Receiver shall be the liquidator of the company;
+
+(e) the Official Receiver shall by virtue of his office be the liquidator during any vacancy;
+
+(f) any vacancy in the office of a liquidator appointed by the Court may be filled by the Court;
+
+(g) a liquidator shall be described, where a person other than the Official Receiver is liquidator, by the style of “the liquidator”, and, where the Official Receiver is liquidator, by the style of “the Official Receiver and liquidator”, of the particular company in respect of which he is appointed, and not by his individual name.
+
+### Provisions where person other than Official Receiver is appointed liquidator
+
+264\. Where in the winding up of a company by the Court, a person other than the Official Receiver, is appointed liquidator, that person —
+
+(a) shall not be capable of acting as liquidator until he has notified his appointment to the Registrar and given security in the prescribed manner to the satisfaction of the Official Receiver; and
+
+(b) shall give the Official Receiver such information and such access to and facilities for inspecting the books and documents of the company, and generally such aid as may be required for enabling that officer to perform his duties under this Act.
+
+### Control of unofficial liquidators by Official Receiver
+
+265\.—(1) Where in the winding up of a company by the Court, a person, other than the Official Receiver, is the liquidator the Official Receiver shall take cognizance of his conduct and if the liquidator does not faithfully perform his duties and duly observe all the requirements imposed on him by any written law or otherwise with respect to the performance of his duties, or if any complaint is made to the Official Receiver by any creditor or contributory in regard thereto, the Official Receiver shall inquire into the matter, and take such action thereon as he may think expedient.
+
+(2) The Official Receiver may at any time require any such liquidator of a company which is being wound up by the Court to answer any inquiry in relation to any winding up in which he is engaged, and may, if the Official Receiver thinks fit, apply to the Court to examine him or any other person on oath concerning the winding up.
+
+(3) The Official Receiver may also direct a local investigation to be made of the books and vouchers of such liquidator.
+
+### Control of Official Receiver by Minister
+
+266\. The Minister shall take cognizance of the conduct of the Official Receiver and of all Assistant Official Receivers who are concerned in the liquidation of companies, and if any such person does not faithfully perform his duties and duly observe all the requirements imposed on him by any written law or otherwise with respect to the performance of his duties, or if any complaint is made to the Minister by any creditor or contributory in regard thereto, the Minister shall inquire into the matter, and take such action thereon as he may think expedient, and may direct a local investigation to be made of the books and vouchers of such person.
+
+### Provisional liquidator
+
+267\. The Court may appoint the Official Receiver or an approved liquidator provisionally at any time after the presentation of a winding up petition and before the making of a winding up order and the provisional liquidator shall have and may exercise all the functions and powers of a liquidator, subject to such limitations and restrictions as may be prescribed by the Rules or as the Court may specify in the order appointing him.
+
+[Aust.s.231(2).]
+
+### General provisions as to liquidators
+
+268\.—(1) A liquidator appointed by the Court may resign or on cause shown be removed by the Court.
+
+(2) A provisional liquidator, other than the Official Receiver, shall be entitled to receive such salary or remuneration by way of percentage or otherwise as is determined by the Court.
+
+(3) A liquidator, other than the Official Receiver, shall be entitled to receive such salary or remuneration by way of percentage or otherwise as is determined —
+
+(a) by agreement between the liquidator and the committee of inspection, if any;
+
+(b) failing such agreement, or where there is no committee of inspection by a resolution passed at a meeting of creditors by a majority of not less than 75% in value and 50% in number of the creditors present in person or by proxy and voting at the meeting and whose debts have been admitted for the purpose of voting, which meeting shall be convened by the liquidator by a notice to each creditor to which notice shall be attached a statement of all receipts and expenditure by the liquidator and the amount of remuneration sought by him; or
+
+(c) failing a determination in a manner referred to in paragraph (a) or (b), by the Court.
+
+(4) Where the salary or remuneration of a liquidator is determined in the manner specified in subsection (3)(a), the Court may, on the application of a member or members whose shareholding or shareholdings represents or represent in the aggregate not less than 10% of the issued capital of the company , confirm or vary the determination.
+
+(5) Where the salary or remuneration of a liquidator is determined in the manner specified in subsection (3)(b), the Court may, on the application of the liquidator or a member or members referred to in subsection (4), confirm or vary the determination.
+
+(6) Subject to any order of the Court, the Official Receiver when acting as a liquidator or provisional liquidator of a company shall be entitled to receive such salary or remuneration by way of percentage or otherwise as is prescribed.
+
+(7) If more than one liquidator is appointed by the Court, the Court shall declare whether anything by this Act required or authorised to be done by the liquidator is to be done by all or any one or more of the persons appointed.
+
+(8) Subject to this Act, the acts of a liquidator shall be valid notwithstanding any defects that may afterwards be discovered in his appointment or qualification.
+
+[U.K.s.242.]
+
+[Aust. s. 232.]
+
+### Custody and vesting of company’s property
+
+269\.—(1) Where a winding up order has been made or a provisional liquidator has been appointed, the liquidator or provisional liquidator shall take into his custody or under his control all the property and things in action to which the company is or appears to be entitled.
+
+(2) The Court may, on the application of the liquidator, by order direct that all or any part of the property of whatever description belonging to the company or held by trustees on its behalf shall vest in the liquidator and thereupon the property to which the order relates shall vest accordingly and the liquidator may, after giving such indemnity, if any, as the Court directs, bring or defend any action or other legal proceeding which relates to that property or which it is necessary to bring or defend for the purpose of effectually winding up the company and recovering its property.
+
+(3) Where an order is made under this section, every liquidator of a company in relation to which the order is made shall lodge within 7 days of the making of the order —
+
+(a) an office copyof the order with the Registrar; and
+
+(b) where the order relates to land, an office copy of the order with the appropriate authority concerned with the registration or recording of dealings in that land,
+
+and every liquidator who makes default in complying with this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 and also to a default penalty.
+
+[15/84]
+
+(4) No vesting order referred to in this section shall have any effect or operation in transferring or otherwise vesting land until an appropriate entry or memorandum thereof is made by or with the appropriate authority.
+
+[U.K.ss.243,244.]
+
+[Aust. s. 233.]
+
+### Statement of company’s affairs to be submitted to Official Receiver
+
+270\.—(1) There shall be made out and verified in the prescribed form and manner and submitted to the Official Receiver or the liquidator, as the case requires, a statement as to the affairs of the company as at the date of the winding up order showing —
+
+(a) the particulars of its assets, debts and liabilities;
+
+(b) the names and addresses of its creditors;
+
+(c) the securities held by them respectively;
+
+(d) the dates when the securities were respectively given; and
+
+(e) such further information as is prescribed or as the Official Receiver or the liquidator requires.
+
+(2) The statement shall be submitted by one or more of the persons who are, at the date of the winding up order, directors, and by the secretary of the company, or by such of the persons hereinafter mentioned as the Official Receiver or the liquidator, subject to the direction of the Court, requires, that is to say, persons —
+
+(a) who are or have been officers of the company;
+
+(b) who have taken part in the formation of the company at any time within one year before the date of the winding up order; or
+
+(c) who are or have been within that period officers of or in the employment of a corporation which is, or within that period was, an officer of the company to which the statement relates.
+
+(3) The statement shall be submitted within 14 days after the date of the winding up order or within such extended time as the Official Receiver or the liquidator or the Court for special reasons specifies, and the Official Receiver or the liquidator shall within 7 days after its receipt cause a copy of the statement to be filed with the Court and lodged with the Registrar and, where the Official Receiver is not the liquidator, shall cause a copy to be lodged with the Official Receiver.
+
+(4) Any person making or concurring in making the statement required by this section may, subject to the rules, be allowed, and be paid, out of the assets of the company, such costs and expenses incurred in and about the preparation and making of the statement as the Official Receiver or the liquidator considers reasonable subject to an appeal to the Court.
+
+(5) Every person who, without reasonable excuse, makes default in complying with the requirements of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both and also to a default penalty.
+
+[15/84]
+
+[U.K.s.235.]
+
+[Aust. s. 234.]
+
+### Report by liquidator
+
+271\.—(1) The liquidator shall as soon as practicable after receipt of the statement of affairs submit a preliminary report to the Court or if the liquidator is not the Official Receiver, to the Official Receiver —
+
+(a) as to the amount of capital issued, subscribed and paid up and the estimated amount of assets and liabilities;
+
+(b) if the company has failed, as to the causes of the failure; and
+
+(c) whether, in his opinion, further inquiry is desirable as to any matter relating to the promotion, formation or failure of the company or the conduct of the business thereof.
+
+(2) The liquidator may also, if he thinks fit, make further reports to the Court or if the liquidator is not the Official Receiver, to the Official Receiver stating the manner in which the company was formed and whether in his opinion any fraud has been committed or any material fact has been concealed by any person in its promotion or formation or by any officer in relation to the company since its formation, and whether any officer of the company has contravened or failed to comply with any of the provisions of this Act, and specifying any other matter which in his opinion it is desirable to bring to the notice of the Court.
+
+[U.K.s.236.]
+
+[Aust. s. 235.]
+
+[13/87]
+
+### Powers of liquidator
+
+272\.—(1) The liquidator may with the authority either of the Court or of the committee of inspection —
+
+(a) carry on the business of the company so far as is necessary for the beneficial winding up thereof, but the authority shall not be necessary to so carry on the business during the 4 weeks next after the date of the winding up order;
+
+(b) subject to section 328 pay any class of creditors in full;
+
+(c) make any compromise or arrangement with creditors or persons claiming to be creditors or having or alleging themselves to have any claim present or future, certain or contingent, ascertained or sounding only in damages against the company, or whereby the company may be rendered liable;
+
+(d) compromise any calls and liabilities to calls, debts and liabilities capable of resulting in debts and any claims present or future, certain or contingent, ascertained or sounding only in damages subsisting, or supposed to subsist, between the company and a contributory or other debtor or person apprehending liability to the company, and all questions in any way relating to or affecting the assets or the winding up of the company, on such terms as are agreed, and take any security for the discharge of any such call, debt, liability or claim, and give a complete discharge in respect thereof; and
+
+(e) appoint a solicitor to assist him in his duties.
+
+(2) The liquidator may —
+
+(a) bring or defend any action or other legal proceeding in the name and on behalf of the company;
+
+(b) compromise any debt due to the company, other than calls and liabilities for calls and other than a debt where the amount claimed by the company to be due to it exceeds $1,500;
+
+(c) sell the immovable and movable property and things in action of the company by public auction, public tender or private contract with power to transfer the whole thereof to any person or company or to sell the same in parcels;
+
+(d) do all acts and execute in the name and on behalf of the company all deeds, receipts and other documents and for that purpose use when necessary the company’s seal;
+
+(e) prove, rank and claim in the bankruptcy of any contributory or debtor for any balance against his estate, and receive dividends in the bankruptcy in respect of that balance as a separate debt due from the bankrupt, and rateably with the other separate creditors;
+
+(f) draw, accept, make and indorse any bill of exchange or promissory note in the name and on behalf of the company with the same effect with respect to the liability of the company as if the bill or note had been drawn, accepted, made or indorsed by or on behalf of the company in the course of its business;
+
+(g) raise on the security of the assets of the company any money required;
+
+(h) take out letters of administration of the estate of any deceased contributory or debtor, and do any other act necessary for obtaining payment of any money due from a contributory or debtor or his estate which cannot be conveniently done in the name of the company, and in all such cases the money due shall for the purposes of enabling the liquidator to take out the letters of administration or recover the money be deemed due to the liquidator himself;
+
+(i) appoint an agent to do any business which the liquidator is unable to do himself; and
+
+(j) do all such other things as are necessary for winding up the affairs of the company and distributing its assets.
+
+(3) The exercise by the liquidator of the powers conferred by this section shall be subject to the control of the Court, and any creditor or contributory may apply to the Court with respect to any exercise or proposed exercise of any of those powers.
+
+[U.K.s.245.]
+
+[Aust. s. 236.]
+
+### Exercise and control of liquidator’s powers
+
+273\.—(1) Subject to this Part, the liquidator shall in the administration of the assets of the company and in the distribution thereof among its creditors have regard to any directions given by resolution of the creditors or contributories at any general meeting or by the committee of inspection, and any directions so given by the creditors or contributories shall, in case of conflict, override any directions given by the committee of inspection.
+
+(2) The liquidator may summon general meetings of the creditors or contributories for the purpose of ascertaining their wishes, and he shall summon meetings at such times as the creditors or contributories by resolution direct or whenever requested in writing to do so by not less than 10% in value of the creditors or contributories.
+
+(3) The liquidator may apply to the Court for directions in relation to any particular matter arising under the winding up.
+
+(4) Subject to this Part, the liquidator shall use his own discretion in the management of the affairs and property of the company and the distribution of its assets.
+
+[U.K.s.246.]
+
+[Aust. s. 237.]
+
+### Payment by liquidator into bank
+
+274\.—(1) Every liquidator shall, in the manner and at the times prescribed by the rules, pay the money received by him into such bank account as is prescribed by those rules or as is specified by the Court.
+
+(2) If any liquidator retains for more than 10 days a sum exceeding $1,000, or such other amount as the Court in any particular case authorises him to retain, then, unless he explains the retention to the satisfaction of the Court, he shall pay interest on the amount so retained in excess, computed from the expiration of the abovementioned 10 days, until he has complied with subsection (1) at the rate of 20% per annum, and shall be liable —
+
+(a) to disallowance of all or such part of his remuneration as the Court thinks just;
+
+(b) to be removed from his office by the Court; and
+
+(c) to pay any expenses occasioned by reason of his default.
+
+(3) Any liquidator who pays any sums received by him as liquidator into any bank or account other than the bank or account prescribed or specified under subsection (1) shall be guilty of an offence.
+
+[U.K.s.248.]
+
+[Aust. s. 238.]
+
+[13/87]
+
+### Release of liquidators and dissolution of company
+
+275\. When the liquidator —
+
+(a) has realised all the property of the company or so much thereof as can in his opinion be realised, without needlessly protracting the liquidation, and has distributed a final dividend, if any, to the creditors and adjusted the rights of the contributories among themselves and made a final return, if any, to the contributories; or
+
+(b) has resigned or has been removed from his office, he may apply to the Court —
+
+(i) for an order that he be released; or
+
+(ii) for an order that he be released and that the company be dissolved.
+
+[U.K.ss.251,274.]
+
+[Aust. s. 239.]
+
+### As to orders for release or dissolution
+
+276\.—(1) Where an order is made that the company be dissolved, the company shall from the date of the order be dissolved accordingly.
+
+(2) The Court —
+
+(a) may cause a report on the accounts of a liquidator, not being the Official Receiver, to be prepared by the Official Receiver or by some approved company auditor appointed by the Court;
+
+(b) on the liquidator complying with all the requirements of the Court, shall take into consideration the report and any objection which is urged by the Official Receiver, auditor or any creditor or contributory or other person interested against the release of the liquidator; and
+
+(c) shall either grant or withhold the release accordingly.
+
+(3) Where the release of a liquidator is withheld, the Court may, on the application of any creditor or contributory or person interested, make such order as it thinks just charging the liquidator with the consequences of any act or default which he may have done or made contrary to his duty.
+
+(4) An order of the Court releasing the liquidator shall discharge him from all liability in respect of any act done or default made by him in the administration of the affairs of the company or otherwise in relation to his conduct as liquidator, but any such order may be revoked on proof that it was obtained by fraud or by suppression or concealment of any material fact.
+
+(5) Where the liquidator has not previously resigned or been removed his release shall operate as a removal from office.
+
+(6) Where the Court has made —
+
+(a) an order that the liquidator be released; or
+
+(b) an order that the liquidator be released and that the company be dissolved,
+
+an office copy of the order shall, within 14 days after the making thereof, be lodged by the liquidator with the Registrar and with the Official Receiver, and a liquidator who makes default in complying with the requirements of this subsection shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 and also to a default penalty.
+
+[15/84]
+
+[Aust.s.240.]
+
+Subdivision (3) — Committees of inspection
+
+### Meetings to determine whether committee of inspection to be appointed
+
+277\.—(1) The liquidator may, and shall, if requested by any creditor or contributory, summon separate meetings of the creditors and contributories for the purpose of determining whether or not the creditors or contributories require the appointment of a committee of inspection to act with the liquidator, and if so who are to be members of the committee.
+
+(2) If there is a difference between the determinations of the meetings of the creditors and contributories the Court shall decide the difference and make such order as it thinks fit.
+
+[U.K.ss.252,254.]
+
+[Aust. s. 241.]
+
+### Constitution and proceedings of committee of inspection
+
+278\.—(1) The committee of inspection shall consist of creditors and contributories of the company or persons holding —
+
+(a) general powers of attorney from creditors or contributories; or
+
+(b) special authorities from creditors or contributories authorising the persons named therein to act on such a committee,
+
+appointed by the meetings of creditors and contributories in such proportions as are agreed or, in case of difference, as are determined by the Court.
+
+(2) The committee shall meet at such times and places as it may from time to time appoint, and the liquidator or any member of the committee may also call a meeting of the committee as he thinks necessary.
+
+(3) The committee may act by a majority of its members present at a meeting, but shall not act unless a majority of the committee is present.
+
+(4) A member of the committee may resign by notice in writing signed by him and delivered to the liquidator.
+
+(5) If a member of the committee becomes bankrupt or assigns his estate for the benefit of his creditors or makes an arrangement with his creditors pursuant to any written law relating to bankruptcy or is absent from 5 consecutive meetings of the committee without the leave of those members who together with himself represent the creditors or contributories, as the case may be, his office shall thereupon become vacant.
+
+(6) A member of the committee may be removed by an ordinary resolution at a meeting of creditors, if he represents creditors, or of contributories, if he represents contributories, of which meeting 7 days’ notice has been given stating the object of the meeting.
+
+(7) A vacancy in the committee may be filled by the appointment by the committee of the same or another creditor or contributory or person holding a general power of attorney or special authority as specified in subsection (1).
+
+(8) The liquidator may at any time of his own motion and shall within 7 days after the request in writing of a creditor or contributory summon a meeting of creditors or of contributories, as the case requires, to consider any appointment made pursuant to subsection (7), and the meeting may confirm the appointment or revoke the appointment and appoint another creditor or contributory or person holding a general power of attorney or special authority as specified in subsection (1), as the case requires, in his stead.
+
+(9) The continuing members of the committee if not less than two may act notwithstanding any vacancy in the committee.
+
+[U.K.s.253.]
+
+[Aust. s. 242.]
+
+Subdivision (4) — General powers of Court
+
+### Power to stay winding up
+
+279\.—(1) At any time after an order for winding up has been made, the Court may, on the application of the liquidator or of any creditor or contributory and on proof to the satisfaction of the Court that all proceedings in relation to the winding up ought to be stayed, make an order staying the proceedings either altogether or for a limited time on such terms and conditions as the Court thinks fit.
+
+(2) On any such application the Court may, before making an order, require the liquidator to furnish a report with respect to any facts or matters which are in his opinion relevant.
+
+(3) An office copy of every order made under this section shall be lodged by the company with the Registrar and with the Official Receiver within 14 days after the making of the order.
+
+(4) Any person who fails to comply with subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and also to a default penalty.
+
+[15/84]
+
+[U.K.s.256.]
+
+[Aust. s. 243.]
+
+### Settlement of list of contributories and application of assets
+
+280\.—(1) As soon as possible after making a winding up order, the Court shall settle a list of contributories and may rectify the register of members in all cases where rectification is required in pursuance of this Part and shall cause the assets of the company to be collected and applied in discharge of its liabilities.
+
+(2) Notwithstanding subsection (1), where it appears to the Court that it will not be necessary to make calls on or adjust the rights of contributories, the Court may dispense with the settlement of a list of contributories.
+
+(3) In settling the list of contributories, the Court shall distinguish between persons who are contributories in their own right and persons who are contributories as being representatives of or liable for the debts of others.
+
+(4) The list of contributories, when settled, shall be prima facie evidence of the liabilities of the persons named therein as contributories.
+
+[U.K.s.257.]
+
+[Aust. s. 244.]
+
+### Payment of debts due by contributory, to company, and extent to which set-off allowed
+
+281\.—(1) The Court may make an order directing any contributory for the time being on the list of contributories to pay to the company, in the manner directed by the order, any money due from him or from the estate of the person whom he represents, exclusive of any money payable by him or the estate by virtue of any call in pursuance of this Act, and may —
+
+(a) in the case of an unlimited company, allow to the contributory by way of set-off any money due to him or to the estate which he represents from the company on any independent dealing or contract but not any money due to him as a member of the company in respect of any dividend or profit; and
+
+(b) in the case of a limited company, make to any director whose liability is unlimited or to his estate the like allowance,
+
+and in the case of any company whether limited or unlimited, when all the creditors are paid in full, any money due on any account whatever to a contributory from the company may be allowed to him by way of set-off against any subsequent call.
+
+[U.K.s.259.]
+
+[Aust. s. 245 (2).]
+
+### Power of Court to make calls
+
+(2) The Court may either before or after it has ascertained the sufficiency of the assets of the company —
+
+(a) make calls on all or any of the contributories for the time being on the list of contributories, to the extent of their liability, for payment of any money which the Court considers necessary to satisfy the debts and liabilities of the company and the costs, charges and expenses of winding up and for the adjustment of the rights of the contributories among themselves; and
+
+(b) make an order for payment of any calls so made,
+
+and, in making a call, may take into consideration the probability that some of the contributories may partly or wholly fail to pay the call.
+
+### Payment into bank of moneys due to company
+
+(3) The Court may order any contributory, purchaser or other person from whom money is due to the company to pay the amount due into some bank, named in such order, to the account of the liquidator instead of to the liquidator, and any such order may be enforced in the same manner as if it had directed payment to the liquidator.
+
+[U.K.s.261.]
+
+[Aust. s. 245 (4).]
+
+(4) All moneys and securities paid or delivered into any bank pursuant to this Division shall be subject in all respects to orders of the Court.
+
+### Order on contributory conclusive evidence
+
+(5) An order made by the Court under this section shall, subject to any right of appeal, be conclusive evidence that the money, if any, thereby appearing to be due or ordered to be paid is due, and all other pertinent matters stated in the order shall be taken to be truly stated as against all persons and in all proceedings.
+
+[U.K.s.262.]
+
+[Aust. s. 245 (6).]
+
+[U.K.s.260.]
+
+[Aust. s. 245 (3).]
+
+### Appointment of special manager
+
+282\.—(1) The liquidator may, if satisfied that the nature of the estate or business of the company, or the interests of the creditors or contributories generally, require the appointment of a special manager of the estate or business of the company other than himself, apply to the Court which may appoint a special manager of the estate or business to act during such time as the Court directs with such powers, including any of the powers of a receiver or manager, as are entrusted to him by the Court.
+
+(2) The special manager —
+
+(a) shall give such security and account in such manner as the Court directs;
+
+(b) shall receive such remuneration as is fixed by the Court; and
+
+(c) may at any time resign after giving not less than one month’s notice in writing to the liquidator of his intention to resign, or on cause shown be removed by the Court.
+
+[U.K.s.263.]
+
+[Aust. s. 246.]
+
+### Claims of creditors and distribution of assets
+
+283\.—(1) The Court may fix a date on or before which creditors are to prove their debts or claims or after which they will be excluded from the benefit of any distribution made before those debts are proved.
+
+(2) The Court shall adjust the rights of the contributories among themselves and distribute any surplus among the persons entitled thereto.
+
+(3) The Court may, in the event of the assets being insufficient to satisfy the liabilities, make an order as to the payment out of the assets of the costs, charges and expenses incurred in the winding up in such order of priority as the Court thinks fit.
+
+[U.K.ss.264,265,267.]
+
+[Aust. s. 247.]
+
+### Inspection of books by creditors and contributories
+
+284\. The Court may make such order for inspection of the books and papers of the company by creditors and contributories as the Court thinks just, and any books and papers in the possession of the company may be inspected by creditors or contributories accordingly, but not further or otherwise.
+
+[U.K.s.266.]
+
+[Aust. s. 248.]
+
+### Power to summon persons connected with company
+
+285\.—(1) The Court may summon before it any officer of the company or person known or suspected to have in his possession any property of the company or supposed to be indebted to the company, or any person whom the Court considers capable of giving information concerning the promotion, formation, trade dealings, affairs or property of the company.
+
+(2) The Court may examine him on oath concerning the matters mentioned in subsection (1) either by word of mouth or on written interrogatories and may reduce his answers to writing and require him to sign them, and any writing so signed may be used in evidence in any legal proceedings against him.
+
+(3) The Court may require him to produce any books and papers in his custody or power relating to the company, but where he claims any lien on books or papers the production shall be without prejudice to that lien, and the Court shall have jurisdiction to determine all questions relating to that lien.
+
+(4) An examination under this section or section 286 may, if the Court so directs and subject to the Rules, be held before any District Judge named for the purpose by the Court, and the powers of the Court under this section and section 286 may be exercised by that Judge.
+
+(5) If any person so summoned, after being tendered a reasonable sum for his expenses, refuses to come before the Court at the time appointed, not having a lawful excuse, made known to the Court at the time of its sitting and allowed by it, the Court may cause him to be apprehended and brought before the Court for examination.
+
+[U.K.s.268.]
+
+[Aust. s. 249.]
+
+### Power to order public examination of promoters, directors, etc.
+
+286\.—(1) Where the liquidator has made a report under this Part stating that, in his opinion, a fraud has been committed or that any material fact has been concealed by any person in the promotion or formation of the company or by any officer in relation to the company since its formation or that any officer of the company has failed to act honestly or diligently or has been guilty of any impropriety or recklessness in relation to the affairs of the company, the Court may, after consideration of the report, direct that the person or officer, or any other person who was previously an officer of the company, including any banker, solicitor or auditor, or who is known or suspected to have in his possession any property of the company or is supposed to be indebted to the company or any person whom the Court considers capable of giving information concerning the promotion, formation, trade dealings, affairs or property of the company, shall attend before the Court on a day appointed and be publicly examined as to the promotion or formation or the conduct of the business of the company, or in the case of an officer or former officer as to his conduct and dealings as an officer thereof.
+
+(2) The liquidator and any creditor or contributory may take part in the examination either personally or by a solicitor.
+
+(3) The Court may put or allow to be put such questions to the person examined as the Court thinks fit.
+
+(4) The person examined shall be examined on oath and shall answer all such questions as the Court puts or allows to be put to him.
+
+(5) A person ordered to be examined under this section shall before his examination be furnished with a copy of the liquidator’s report.
+
+(6) Where a person directed to attend before the Court under subsection (1) applies to the Court to be exculpated from any charges made or suggested against him, the liquidator shall appear on the hearing of the application and call the attention of the Court to any matters which appear to him to be relevant and if the Court, after hearing any evidence given or witnesses called by the liquidator, grants the application the Court may allow the applicant such costs as the Court in its discretion thinks fit.
+
+(7) Notes of the examination —
+
+(a) shall be reduced to writing;
+
+(b) shall be read over to or by and signed by the person examined;
+
+(c) may thereafter be used in evidence in any legal proceedings against him; and
+
+(d) shall be open to the inspection of any creditor or contributory at all reasonable times.
+
+(8) The Court may if it thinks fit adjourn the examination from time to time.
+
+[U.K.s.270.]
+
+[Aust. s. 250.]
+
+### Power to arrest absconding contributory, director or former director
+
+287\. The Court, at any time before or after making a winding up order, on proof of probable cause for believing that a contributory or a director or former director of the company is about to leave Singapore or otherwise to abscond or to remove or conceal any of his property for the purpose of evading payment of calls or of avoiding examination respecting the affairs of the company, may cause the contributory, director or former director to be arrested and his books and papers and movable personal property to be seized and safely kept until such time as the Court orders.
+
+[U.K.s.271.]
+
+[Aust. s. 251.]
+
+### Delegation to liquidator of certain powers of Court
+
+288\. Provision may be made by rules enabling or requiring all or any of the powers and duties conferred and imposed on the Court by this Part in respect of —
+
+(a) the holding and conducting of meetings to ascertain the wishes of creditors and contributories;
+
+(b) the settling of lists of contributories, the rectifying of the register of members where required, and the collecting and applying of the assets;
+
+(c) the paying, delivery, conveyance, surrender or transfer of money, property, books or papers to the liquidator;
+
+(d) the making of calls and the adjusting of the rights of contributories; and
+
+(e) the fixing of a time within which debts and claims must be proved,
+
+to be exercised or performed by the liquidator as an officer of the Court and subject to the control of the Court, but the liquidator shall not, without the special leave of the Court, rectify the register of members and shall not make any call without either the special leave of the Court or the sanction of the committee of inspection.
+
+[U.K.s.273.]
+
+[Aust. s. 252.]
+
+### Powers of Court cumulative
+
+289\.—(1) Any powers by this Act conferred on the Court shall be in addition to, and not in derogation of, any existing powers of instituting proceedings against any contributory or debtor of the company or the estate of any contributory or debtor for the recovery of any call or other sums.
+
+(2) Subject to the Rules, an appeal from any order or decision made or given in the winding up of a company shall lie in the same manner and subject to the same conditions as an appeal from any order or decision of the Court in cases within its ordinary jurisdiction.
+
+[U.K.ss.272,277.]
+
+[Aust. s. 253.]
+
+Division 3 —
+
+Voluntary winding up
+
 Subdivision (1) — Introductory
 
 ### Circumstances in which company may be wound up voluntarily
@@ -10561,6 +11187,286 @@ made up to the latest practicable date before the making of the declaration.
 [Aust. s. 257.]
 
 [13/87]
+
+Subdivision (2) — Provisions applicable only to members’ voluntary winding up
+
+### Liquidator
+
+294\.—(1) The company in general meeting shall appoint one or more liquidators for the purpose of winding up the affairs and distributing the assets of the company and may fix the remuneration to be paid to him or them.
+
+(2) On the appointment of a liquidator, all the powers of the directors shall cease except so far as the liquidator or the company in general meeting with the consent of the liquidator approves the continuance thereof.
+
+(3) The company may in general meeting convened by any contributory by special resolution of which special notice has been given to the creditors and the liquidators remove any liquidator but no such resolution shall be effective to remove a liquidator if the Court, on the application of the liquidator or a creditor, has ordered that the liquidator be not removed.
+
+(4) If a vacancy occurs by death, resignation, removal or otherwise in the office of a liquidator, the company in general meeting may fill the vacancy by the appointment of a liquidator and fix the remuneration to be paid to him, and for that purpose a general meeting may be convened by any contributory, or if there were more liquidators than one by the continuing liquidators.
+
+(5) The meeting shall be held in the manner provided by this Act or by the articles or in such manner as is, on application by any contributory or by the continuing liquidators, determined by the Court.
+
+[U.K.ss.285,286.]
+
+[Aust. s. 258.]
+
+### Duty of liquidator to call creditors’ meeting in case of insolvency
+
+295\.—(1) If the liquidator is at any time of the opinion that the company will not be able to pay or provide for the payment of its debts in full within the period stated in the declaration made under section 293, he shall forthwith summon a meeting of the creditors and lay before the meeting a statement of the assets and liabilities of the company and the notice summoning the meeting shall draw the attention of the creditors to the right conferred upon them by subsection (2).
+
+(2) The creditors may, at the meeting summoned under subsection (1), appoint some other person to be the liquidator for the purpose of winding up the affairs and distributing the assets of the company instead of the liquidator appointed by the company.
+
+(3) If the creditors appoint some other person under subsection (2), the winding up shall thereafter proceed as if the winding up were a creditors’ voluntary winding up.
+
+(4) Within 7 days after a meeting has been held pursuant to subsection (1), the liquidator or if some other person has been appointed by the creditors to be the liquidator, the person so appointed shall lodge with the Registrar and with the Official Receiver a notice in the prescribed form and if default is made in complying with this subsection the liquidator or the person so appointed, as the case requires, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $800 and also to a default penalty.
+
+[15/84]
+
+[U.K.ss.288,291.]
+
+[Aust. s. 259.]
+
+### Alternative provisions as to annual meetings in case of insolvency
+
+(5) Where the liquidator has convened a meeting under subsection (1) and the creditors do not appoint a liquidator instead of the liquidator appointed by the company, the winding up shall thereafter proceed as if the winding up were a creditors’ voluntary winding up; but the liquidator shall not be required to summon an annual meeting of creditors at the end of the first year from the commencement of the winding up if the meeting held under subsection (1) was held less than 3 months before the end of that year.
+
+Subdivision (3) — Provisions applicable only to creditors’ voluntary winding up
+
+### Meeting of creditors
+
+296\.—(1) The company shall cause a meeting of the creditors of the company to be summoned for the day, or the day next following the day, on which there is to be held the meeting at which the resolution for voluntary winding up is to be proposed, and shall cause the notices of the meeting of creditors to be sent by post to the creditors simultaneously with the sending of the notices of the meeting of the company.
+
+(2) The company shall convene the meeting at a time and place convenient to the majority in value of the creditors and shall —
+
+(a) give to the creditors at least 7 clear days’ notice by post of the meeting; and
+
+(b) send to each creditor with the notice, a statement showing the names of all creditors and the amounts of their claims.
+
+(3) The company shall cause notice of the meeting of the creditors to be advertised at least 7 days before the date of the meeting in a newspaper circulating in Singapore.
+
+(4) The directors of the company shall —
+
+(a) cause a full statement of the company’s affairs showing in respect of assets the method and manner in which the valuation of the assets was arrived at, together with a list of the creditors and the estimated amount of their claims to be laid before the meeting of creditors; and
+
+(b) appoint one of their number to attend the meeting.
+
+(5) The director so appointed and the secretary shall attend the meeting and disclose to the meeting the company’s affairs and the circumstances leading up to the proposed winding up.
+
+(6) The creditors may appoint one of their number or the director appointed under subsection (4)(b) to preside at the meeting.
+
+(7) The chairman shall at the meeting determine whether the meeting has been held at a time and place convenient to the majority in value of the creditors and his decision shall be final.
+
+(8) If the chairman decides that the meeting has not been held at a time and place convenient to that majority, the meeting shall lapse and a further meeting shall be summoned by the company as soon as is practicable.
+
+(9) If the meeting of the company is adjourned and the resolution for winding up is passed at an adjourned meeting, any resolution passed at the meeting of the creditors shall have effect as if it had been passed immediately after the passing of the resolution for winding up.
+
+(10) If default is made in complying with this section, the company and any officer of the company who is in default shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
+
+[15/84]
+
+[U.K.s.293.]
+
+[Aust. s. 260.]
+
+### Liquidators
+
+297\.—(1) The company shall, and the creditors may at their respective meetings, nominate a person to be liquidator for the purpose of winding up the affairs and distributing the assets of the company, and if the creditors and the company nominate different persons the person nominated by the creditors shall be liquidator, and if no person is nominated by the creditors the person nominated by the company shall be liquidator.
+
+(2) Notwithstanding subsection (1), where different persons are nominated, any director, member or creditor may, within 7 days after the date on which the nomination was made by the creditors, apply to the Court for an order directing that the person nominated as liquidator by the company shall be liquidator instead of or jointly with the person nominated by the creditors.
+
+(3) The committee of inspection or, if there is no such committee, the creditors may fix the remuneration to be paid to the liquidator.
+
+(4) On the appointment of a liquidator all the powers of the directors shall cease, except so far as the committee of inspection, or, if there is no such committee, the creditors, approve the continuance thereof.
+
+(5) If a liquidator, other than a liquidator appointed by or by the direction of the Court, dies, resigns or otherwise vacates the office, the creditors may fill the vacancy and for the purpose of so doing a meeting of the creditors may be summoned by any two of their number.
+
+[U.K.ss.294,296,297.]
+
+[Aust. s. 261.]
+
+### Committee of inspection
+
+298\.—(1) The creditors at the meeting summoned pursuant to section 295 or 296 or at any subsequent meeting may, if they think fit, appoint a committee of inspection consisting of not more than 5 persons, whether creditors or not and, if such a committee is appointed, the company may, either at the meeting at which the resolution for voluntary winding up is passed or at any time subsequently in general meeting, appoint such number of persons but not more than 5 as it thinks fit to act as members of the committee.
+
+(2) Notwithstanding subsection (1), the creditors may, if they think fit, resolve that all or any of the persons so appointed by the company ought not to be members of the committee of inspection and, if the creditors so resolve, the persons mentioned in the resolution shall not, unless the Court otherwise directs, be qualified to act as members of the committee, and on any application to the Court under this subsection the Court may, if it thinks fit, appoint other persons to act as such members in place of the persons mentioned in the resolution.
+
+(3) Subject to this section and the rules made under this Act, the provisions of Subdivision (3) of Division 2 relating to the proceedings of and vacancies in committees of inspection shall apply with respect to a committee of inspection appointed under this section.
+
+[U.K.s.295.]
+
+[Aust. s. 262.]
+
+### Property and proceedings
+
+299\.—(1) Any attachment, sequestration, distress or execution put in force against the estate or effects of the company after the commencement of a creditors’ voluntary winding up shall be void.
+
+(2) After the commencement of the winding up no action or proceeding shall be proceeded with or commenced against the company except by leave of the Court and subject to such terms as the Court imposes.
+
+[Aust.s.263.]
+
+Subdivision (4) — Provisions applicable to every voluntary winding up
+
+### Distribution of property of company
+
+300\. Subject to the provisions of this Act as to preferential payments, the property of a company shall, on its winding up, be applied pari passu in satisfaction of its liabilities, and, subject to that application, shall, unless the articles otherwise provide, be distributed among the members according to their rights and interests in the company.
+
+[U.K.s.302.]
+
+[Aust. s. 264.]
+
+### Appointment of liquidator
+
+301\. If from any cause there is no liquidator acting, the Court may appoint a liquidator.
+
+[U.K.s.304.]
+
+[Aust. s. 265.]
+
+### Removal of liquidator
+
+302\. The Court may, on cause shown, remove a liquidator and appoint another liquidator.
+
+[Aust.s.266.]
+
+### Review of liquidator’s remuneration
+
+303\. Any member or creditor or the liquidator may at any time before the dissolution of the company apply to the Court to review the amount of the remuneration of the liquidator, and the decision of the Court shall be final and conclusive.
+
+[Aust.s.267.]
+
+### Act of liquidator valid, etc.
+
+304\.—(1) The acts of a liquidator shall be valid notwithstanding any defects that may afterwards be discovered in his appointment or qualification.
+
+(2) Any conveyance, assignment, transfer, mortgage, charge or other disposition of a company’s property made by a liquidator shall, notwithstanding any defect or irregularity affecting the validity of the winding up or the appointment of the liquidator be valid in favour of any person taking such property bona fide and for value and without notice of such defect or irregularity.
+
+(3) Every person making or permitting any disposition of property to any liquidator shall be protected and indemnified in so doing notwithstanding any defect or irregularity affecting the validity of the winding up or the appointment of the liquidator not then known to that person.
+
+(4) For the purposes of this section, a disposition of property shall be taken as including a payment of money.
+
+[Aust.s.268.]
+
+### Powers and duties of liquidator
+
+305\.—(1) The liquidator may —
+
+(a) in the case of a members’ voluntary winding up, with the approval of a special resolution of the company and, in the case of a creditors’ voluntary winding up, with the approval of the Court or the committee of inspection, exercise any of the powers given by section 272(1)(b), (c), (d) and (e) to a liquidator in a winding up by the Court;
+
+(b) exercise any of the other powers by this Act given to the liquidator in a winding up by the Court;
+
+(c) exercise the power of the Court under this Act of settling a list of contributories, and the list of contributories shall be prima facie evidence of the liability of the persons named therein to be contributories;
+
+(d) exercise the power of the Court of making calls; or
+
+(e) summon general meetings of the company for the purpose of obtaining the sanction of the company by special resolution in respect of any matter or for any other purpose he thinks fit.
+
+(2) The liquidator shall pay the debts of the company and adjust the rights of the contributories among themselves.
+
+(3) When several liquidators are appointed, any power given by this Act may be exercised by such one or more of them as is determined at the time of their appointment, or in default of such determination by any number not less than two.
+
+[U.K.s.303.]
+
+[Aust. s. 269.]
+
+### Power of liquidator to accept shares, etc., as consideration for sale of property of company
+
+306\.—(1) Where it is proposed that the whole or part of the business or property of a company (referred to in this section as the company) be transferred or sold to another corporation (referred to in this section as the corporation), the liquidator of the company may, with the sanction of a special resolution of the company conferring either a general authority on the liquidator or an authority in respect of any particular arrangement, receive in compensation or part compensation for the transfer or sale shares, debentures, policies or other like interests in the corporation for distribution among the members of the company, or may enter into any other arrangement whereby the members of the company may, in lieu of receiving cash, shares, debentures, policies or other like interests or in addition thereto, participate in the profits of or receive any other benefit from the corporation and any such transfer, sale or arrangement shall be binding on the members of the company.
+
+(2) If any member of the company expresses his dissent therefrom in writing addressed to the liquidator and left at the registered office of the liquidator within 7 days after the passing of the resolution, he may require the liquidator either to abstain from carrying the resolution into effect or to purchase his interest at a price to be determined by agreement or by arbitration in the manner provided by this section.
+
+(3) If the liquidator elects to purchase the member’s interest, the purchase money shall be paid before the company is dissolved and be raised by the liquidator in such manner as is determined by special resolution.
+
+(4) A special resolution shall not be invalid for the purposes of this section by reason that it is passed before or concurrently with a resolution for voluntary winding up or for appointing liquidators, but if an order for winding up the company by the Court is made within a year after the passing of the resolution the resolution shall not be valid unless sanctioned by the Court.
+
+(5) For the purposes of an arbitration under this section, the Arbitration Act [Cap. 10] shall apply as if there were a submission for reference to two arbitrators, one to be appointed by each party; and the appointment of an arbitrator may be made under the hand of the liquidator, or if there is more than one liquidator then under the hands of any two or more of the liquidators; and the Court may give any directions necessary for the initiation and conduct of the arbitration and such direction shall be binding on the parties.
+
+(6) In the case of a creditors’ voluntary winding up, the powers of the liquidator under this section shall not be exercised except with the approval of the Court or the committee of inspection.
+
+[U.K.ss.287,298.]
+
+[Aust. s. 270.]
+
+### Annual meeting of members and creditors
+
+307\.—(1) If the winding up continues for more than one year, the liquidator shall summon a general meeting of the company in the case of a members’ voluntary winding up, and of the company and the creditors in the case of a creditors’ voluntary winding up, at the end of the first year from the commencement of the winding up and of each succeeding year or not more than 3 months thereafter, and shall lay before the meeting an account of his acts and dealings and of the conduct of the winding up during the preceding year.
+
+(2) The liquidator shall cause the notices of the meeting of creditors to be sent by post to the creditors simultaneously with the sending of the notices of the meeting of the company.
+
+(3) Every liquidator who fails to comply with this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 and also to a default penalty.
+
+[15/84]
+
+[U.K.ss.289,299.]
+
+[Aust. s. 271.]
+
+### Final meeting and dissolution
+
+308\.—(1) As soon as the affairs of the company are fully wound up, the liquidator shall make up an account showing how the winding up has been conducted and the property of the company has been disposed of, and thereupon shall call a general meeting of the company, or in the case of a creditors’ voluntary winding up a meeting of the company and the creditors, for the purpose of laying before it the account and giving any explanation thereof.
+
+(2) The meeting shall be called by advertisement published in at least 4 local daily newspapers, one each in the English, Malay, Chinese and Tamil languages which advertisement shall specify the time, place and object of the meeting and shall be published at least one month before the meeting, except that when a declaration is made by the liquidator and filed with the Official Receiver that neither at the date of commencement of the winding up nor since that date has the company had trade creditors, the advertisement referred to in this subsection need only be published in a newspaper circulating generally throughout Singapore.
+
+[15/84]
+
+(3) The liquidator shall within 7 days after the meeting lodge with the Registrar and the Official Receiver a return of the holding of the meeting and of its date with a copy of the account attached to such return, and if the return or copy of the account is not so lodged the liquidator shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and also to a default penalty.
+
+[15/84]
+
+(4) The quorum at a meeting of the company shall be two and at a meeting of the company and the creditors shall be two members and two creditors and if a quorum is not present at the meeting, the liquidator shall in lieu of the return mentioned in subsection (3) lodge a return (with account attached) that the meeting was duly summoned and that no quorum was present thereat, and upon such a return being lodged subsection (3) as to the lodging of the return shall be deemed to have been complied with.
+
+(5) On the expiration of 3 months after the lodging of the return with the Registrar and with the Official Receiver, the company shall be dissolved.
+
+(6) Notwithstanding subsection (5), the Court may, on the application of the liquidator or of any other person who appears to the Court to be interested, make an order deferring the date at which the dissolution of the company is to take effect for such time as the Court thinks fit.
+
+(7) The person on whose application an order of the Court under this section is made shall, within 14 days after the making of the order, lodge with the Registrar and with the Official Receiver an office copy of the order and if he fails to do so he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and also to a default penalty.
+
+[15/84]
+
+(8) If the liquidator fails to call a meeting as required by this section, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 and also to a default penalty.
+
+[15/84]
+
+[U.K.ss.290,300.]
+
+[Aust. s. 272.]
+
+### Arrangement when binding on creditors
+
+309\.—(1) Any arrangement entered into between a company about to be or in the course of being wound up and its creditors shall, subject to the right of appeal under this section, be binding on the company if sanctioned by a special resolution, and on the creditors if acceded to by 75% in value and 50% in number of the creditors, every creditor for under $50 being reckoned in value only.
+
+(2) A creditor shall be accounted a creditor for value for such sum as upon an account fairly stated, after allowing the value of security or liens held by him and the amount of any debt or set-off owing by him to the debtor, appears to be the balance due to him.
+
+(3) Any dispute with regard to the value of any such security or lien or the amount of such debt or set-off may be settled by the Court on the application of the company, the liquidator or the creditor.
+
+(4) Any creditor or contributory may within 3 weeks from the completion of the arrangement appeal to the Court against it, and the Court may thereupon, as it thinks just, amend, vary or confirm the arrangement.
+
+[U. K.s.306.]
+
+[Aust. s. 273.]
+
+### Application to Court to have questions determined or powers exercised
+
+310\.—(1) The liquidator or any contributory or creditor may apply to the Court —
+
+(a) to determine any question arising in the winding up of a company; or
+
+(b) to exercise all or any of the powers which the Court might exercise if the company were being wound up by the Court.
+
+(2) The Court, if satisfied that the determination of the question or the exercise of power will be just and beneficial, may accede wholly or partially to any such application on such terms and conditions as it thinks fit or may make such other order on the application as it thinks just.
+
+[U.K.s.307.]
+
+[Aust. s. 274.]
+
+### Costs
+
+311\. All proper costs, charges and expenses of and incidental to the winding up including the remuneration of the liquidator shall be payable out of the assets of the company in priority to all other claims.
+
+[U.K.s.309.]
+
+[Aust. s. 275.]
+
+### Limitation on right to wind up voluntarily
+
+312\. Where a petition has been presented to the Court to wind up a company on the ground that it is unable to pay its debts the company shall not, without the leave of the Court, resolve that it be wound up voluntarily.
+
+[Aust.s.276.]
 
 Subdivision (1) — General
 
@@ -14224,3 +15130,9 @@ This Legislative History is provided for the convenience of users of the Compani
 ||Date of operation|15 March 1994|
 |37.|**G. N. No. S 227/1995—Revised Edition of the Laws (Rectification) Order 1995**|
 ||Date of commencement|15 March 1994|
+|38.|**Act 28 of 1994—National Registration (Amendment) Act 1994**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|31 October 1994|
+|||(Bill No. 30/94 published on 1 November 1994)|
+||Date of Second and Third Readings|5 December 1994|
+||Date of commencement|1 March 1995|
