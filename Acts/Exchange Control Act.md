@@ -1342,7 +1342,9 @@ Provided that no woman shall be searched in pursuance of this paragraph except b
 
 [Act 24/95 wef 01/12/1995]
 
-8\. An authorised officer may examine any postal article within the meaning of the Telecommunication Authority of Singapore Act [Cap. 323], addressed to any person in or outside Singapore for the purpose of securing compliance with or detecting evasion of this Act.
+8. An authorised officer may examine any postal article within the meaning of the Postal Services Act 1999, addressed to any person in or outside Singapore for the purpose of securing compliance with or detecting evasion of this Act.
+
+[Act 42/99 wef 01/12/1999]
 
 9\. Paragraphs 3, 4 and 5 of Part II shall apply also to offences punishable by virtue of this Part.
 
@@ -1415,3 +1417,9 @@ This Legislative History is provided for the convenience of users of the Exchang
 ||Date of commencement|1 October 1997 (except section 3)|
 |21.|**G. N. No. S 598/1998—Exchange Control (Continuance of Act) Notification 1998**|
 ||Date of commencement|1 January 1999|
+|22.|**Act 42 of 1999—Postal Services Act 1999**|
+||(Consequential amendments made by)||
+||Date of First Reading|11 October 1999|
+|||(Bill No. 34/1999 published on 12 October 1999)|
+||Date of Second and Third Readings|23 November 1999|
+||Date of commencement|1 December 1999|
