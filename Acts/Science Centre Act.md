@@ -46,7 +46,7 @@
 
 - [20 Regulations](#Regulations)
 
-- [21 Vesting of assets of National Museum in Board](#Vesting-of-assets-of-National-Museum-in-Board)
+- [21 (Repealed)](#Repealed)
 
 [**Legislative History**](#Legislative-History)
 
@@ -256,13 +256,9 @@ Provided that the approval of the Minister shall be obtained in respect of the a
 
 \*Sections 20 and 21 in the 1970 Edition were repealed by Act 35/73.
 
-### Vesting of assets of National Museum in Board
+Vesting of assets of National Museum in Board
 
-21\. All objects given, bequeathed, or otherwise acquired for the purposes of the National Museum at any time before 1st April 1972†shall be vested in the Board and shall be held by the Board for the purposes of the Science Centre.
-
-†Date on which the National Museum Ordinance 1957 was repealed by this Act.
-
-[23
+21\. [Repealed by Act 13/93 wef 01/08/1993 wef 01/08/1993 videS 313/93]
 
 ## LEGISLATIVE HISTORY
 
@@ -288,3 +284,9 @@ This Legislative History is provided for the convenience of users of the Science
 ||Date of commencement|1 September 1973|
 |4.|**1985 Revised Edition—Science Centre Act (Chapter 286)**|
 ||Date of operation|30 March 1987|
+|5.|**Act 13 of 1993—National Heritage Board Act 1993**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 February 1993|
+|||(Bill No. 5/93 published on 27 February 1993)|
+||Date of Second and Third Readings|13 April 1993|
+||Date of commencement|1 August 1993|
