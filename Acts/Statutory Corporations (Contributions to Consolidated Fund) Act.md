@@ -76,9 +76,7 @@ Statutory corporation
 
 Act under which established or constituted
 
-1. Board of Commissioners of Currency, Singapore
-
-Currency Act (Chapter 69)
+1. Deleted by Act 25/2002, wef 01/10/2002.
 
 2. Civil Aviation Authority of Singapore
 
@@ -342,6 +340,12 @@ This Legislative History is provided for the convenience of users of the Statuto
 ||Date of commencement|1 April 2001|
 |16.|**G. N. No. S 312/2001—Statutory Corporations (Contributions to Consolidated Fund) Act (Amendment of Schedule) Order 2001**|
 ||Date of commencement|1 June 2001|
+|17.|**Act 25 of 2002—Currency (Amendment) Act 2002**|
+||(Consequential amendments made by)||
+||Date of First Reading|8 July 2002|
+|||(Bill No. 23/2002 published on 9 July 2002)|
+||Date of Second and Third Readings|23 July 2002|
+||Date of commencement|1 October 2002|
 ## COMPARATIVE TABLE
 
 Statutory Corporations (Contributions to Consolidated Fund) Act
