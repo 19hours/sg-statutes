@@ -228,7 +228,9 @@ and includes site formation works and any other kind of building operation conne
 
 “Commissioner of Building Control”, in relation to this Act or any Part or provision of this Act, means any Commissioner of Building Control appointed under section 3(1) to be responsible for the operation of this Act or that Part or provision, as the case may be;
 
-“common property” has the same meaning as in the Buildings and Common Property (Maintenance and Management) Act (Cap. 30);
+“common property” has the same meaning as in the Building Maintenance and Strata Management Act 2004;
+
+[47/2004 wef 01/04/2005]
 
 “competent authority” means the competent authority appointed under section 5 of the Planning Act (Cap. 232) in respect of the development of land;
 
@@ -258,6 +260,10 @@ and includes site formation works and any other kind of building operation conne
 
 “key structural elements” means the foundations, columns, beams, shear cores and such other parts of a building which are essential for its support and overall structural stability;
 
+“limited common property” has the same meaning as in the Building Maintenance and Strata Management Act 2004;
+
+[47/2004 wef 01/04/2005]
+
 “occupier”, in relation to any building, means the person in occupation of the building or having the charge, management or control thereof, either on his own account or as agent of another, but does not include any lodger within the building;
 
 “owner”, in relation to —
@@ -266,7 +272,15 @@ and includes site formation works and any other kind of building operation conne
 
 (b) premises to which the Control of Rent Act (Cap. 58) applies, includes the tenant of the premises;
 
-(c) the common property of any subdivided building, includes the management corporation established under the Land Titles (Strata) Act (Cap. 158) having control of the building or the person receiving any rent or charge for the maintenance of that common property or any body corporate constituted under an order made by the Minister under section 3 of the HUDC Housing Estates Act (Cap. 131);
+(c) the common property of any subdivided building, includes the management corporation established under the Building Maintenance and Strata Management Act 2004 having control of the building, or the person receiving any rent or charge for the maintenance of that common property or any body corporate constituted under an order made by the Minister under section 3 of the HUDC Housing Estates Act (Cap. 131);
+
+[47/2004 wef 01/04/2005]
+
+[47/2007 wef 15/02/2008]
+
+(ca) the limited common property of any subdivided building, includes the subsidiary management corporation established under the Building Maintenance and Strata Management Act 2004 having control of the limited common property, or the person receiving any rent or charge for the maintenance of that limited common property;
+
+[47/2004 wef 01/04/2005]
 
 (d) the common property of residential and commercial property in any housing estate of the Housing and Development Board, means that Board; and
 
@@ -318,7 +332,7 @@ and includes site formation works and any other kind of building operation conne
 
 “site supervisor” means a site supervisor of building works appointed under section 10;
 
-“structural elements” means those parts or elements of a building which resist forces and moments, and includes foundations, beams, columns, shear cores, slabs, roof trusses, staircases, load bearing walls and all other elements designed to resist forces and moments but does not include doors, windows and non-load bearing walls;
+“structural elements” means those parts or elements of a building which resist forces and moments, and includes foundations, beams, columns, shear cores, slabs, roof trusses , staircases, load bearing walls and all other elements designed to resist forces and moments but does not include doors, windows and non-load bearing walls;
 
 [34/2004 wef 01/10/2004]
 
@@ -1454,7 +1468,11 @@ INSPECTION OF BUILDINGS
 
 (i) the person receiving any rent or charge for the maintenance and management of the common property of the building;
 
-(ii) any body corporate constituted under an order made by the Minister under section 3 of the HUDC Housing Estates Act (Cap. 131); and
+(ii) any body corporate constituted under an order made by the Minister under section 3 of the HUDC Housing Estates Act (Cap. 131);
+
+(ba) the limited common property of any building comprising 2 or more flats, means the subsidiary management corporation or the person receiving any rent or charge for the maintenance and management of that limited common property; and
+
+[47/2004 wef 01/04/2005]
 
 (c) the common property of residential and commercial property in any housing estate of the Housing and Development Board, means that Board;
 
@@ -1628,7 +1646,7 @@ Miscellaneous
 
 (c) taking any action or carrying out any work, authorised or required by this Act or the building regulations; or
 
-(d) inspecting the documents, books or records kept and maintained by a qualified person or builder under section 9(3C)(d) or 11 (4) (c), respectively.
+(d) inspecting the documents, books or records kept and maintained by a qualified person or builder under section 9(3C)(d) o r 11 (4) (c), respectively.
 
 (1A) For the purposes of subsection (1), the Commissioner of Building Controlmay take such steps as he may consider necessary, including the making of openings and the taking without payment of reasonable samples of building materials for analysis.
 
@@ -2193,6 +2211,11 @@ This Legislative History is provided for the convenience of users of the Buildin
 |||(Bill No. 32/2004 published on 21 July 2004)|
 ||Date of Second and Third Readings|1 September 2004|
 ||Date of commencement|1 October 2004|
+|19.|**Act 47 of 2004—Building Maintenance and Strata Management Act 2004**|
+||Date of First Reading|6 February 2004|
+|||(Bill No. 6/2003 published on 26 November 2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|1 April 2005 (except sections 11(2), (4) and (6), 12(2) and 33(8) and (9), Part VII, item (5) in the Third Schedule and items (9)(b), (11) and (12)(a) in the Fifth Schedule)|
 ## COMPARATIVE TABLE
 
 Building Control Act
