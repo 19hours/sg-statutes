@@ -3196,7 +3196,7 @@ Act under which Established or Constituted
 
 Board of Commissioners of Currency, Singapore
 
-Currency Act (Chapter 69).
+Currency Act (Chapter69).
 
 2.
 
@@ -3416,3 +3416,8 @@ This Legislative History is provided for the convenience of users of the Evidenc
 |||(Bill No. 46/95 published on 6 December 1995)|
 ||Date of Second and Third Readings|18 January 1996|
 ||Date of commencement|2 February 1996|
+|22.|**Act 8 of 1996—Evidence (Amendment) Act 1996**|
+||Date of First Reading|5 December 1995|
+|||(Bill No. 45/95 published on 6 December 1995)|
+||Date of Second and Third Readings|18 January 1996|
+||Date of commencement|8 March 1996|
