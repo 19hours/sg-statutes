@@ -1,14 +1,12 @@
-**Holidays Act 1998**
+**Holidays Act**
 
-**(No. 8 of 1998)**
+**(CHAPTER 126)**
 
 **Table of Contents**
 
 [**Long Title**](#Holidays-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -24,51 +22,29 @@
 
 - [8 Validation](#Validation)
 
-- [9 Repeal](#Repeal)
-
-- [10 Saving for Employment Act](#Saving-for-Employment-Act)
-
-- [11 Consequential amendments](#Consequential-amendments)
+- [9 Saving for Employment Act](#Saving-for-Employment-Act)
 
 [**THE SCHEDULE Public holidays**](#THE-SCHEDULE)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Holidays Act
 
-ACTS SUPPLEMENT
+(CHAPTER 126)
 
-Published by Authority
+(Original Enactment: Act 8 of 1998)
 
-NO. 10]
+REVISED EDITION 1999
 
-Friday, March 27
+(30th December 1999)
 
-[1998
+An Act relating to the observance of public holidays in Singapore.
 
-The following Act was passed by Parliament on 19th February 1998 and assented to by the President on 24th February 1998:—
+[10th April 1998]
 
-Holidays Act 1998
+### Short title
 
-(No. 8 of 1998)
-
-I assent.
-
-ONG TENG CHEONG
-
-President
-
-24th February 1998.
-
-Date of Commencement: 10th April 1998
-
-An Act relating to the observance of public holidays in Singapore, to repeal the Holidays Act (Chapter 126 of the 1985 Revised Edition) and to make consequential amendments to certain other Acts.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
-
-### Short title and commencement
-
-1\. This Act may be cited as the Holidays Act 1998 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Holidays Act.
 
 ### Interpretation
 
@@ -108,133 +84,11 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 ### Validation
 
-8\. For the avoidance of doubt, it is hereby declared that no act or thing relating to any Government department or public authority, no judicial proceeding, no transaction or instrument and no other act or thing (whether or not of a similar kind) shall be invalid by reason only that it was done or executed on a Sunday or public holiday before the commencement of this Act.
-
-### Repeal
-
-9\. The Holidays Act (Cap. 126) is repealed.
+8\. For the avoidance of doubt, it is hereby declared that no act or thing relating to any Government department or public authority, no judicial proceeding, no transaction or instrument and no other act or thing (whether or not of a similar kind) shall be invalid by reason only that it was done or executed on a Sunday or public holiday before 10th April 1998.
 
 ### Saving for Employment Act
 
-10\. This Act shall not affect the operation of any of the provisions of the Employment Act (Cap. 91) relating to rest days, hours of work, shift workers, holidays and other conditions of service.
-
-### Consequential amendments
-
-11\.—(1) The Bills of Exchange Act (Cap. 23) is amended —
-
-(a) by deleting the words ", or that it bears date on a Sunday" in section 13(2); and
-
-(b) by inserting, immediately after section 97, the following section:
-
-“
-
-Obligation to do acts relating to bills and notes on Sundays or public holidays
-
-97A\.—(1) Subject to section 14, all bills and notes that are due and payable on any Sunday or public holiday shall be payable, and, in the case of non-payment, may be noted and protested, on the day next following and not on the Sunday or public holiday.
-
-(2) Any such noting or protest shall be as valid as if made on the day on which the bill or note was made due and payable.
-
-(3) When the day on which any notice of dishonour of an unpaid bill or note should be given, or when the day on which a bill or note should be presented or received for acceptance or accepted or forwarded to any referee or referees, is a Sunday or public holiday, the notice of dishonour shall be given, or the bill or note shall be presented or forwarded, on the day next following the Sunday or public holiday.
-
-(4) No person shall be compellable to make any payment or do any act relating to a bill or note on a Sunday or public holiday, but the obligation to make such payment or to do any such act shall be deferred to the day next following the Sunday or public holiday; and the making of the payment or the doing of the act on the day next following shall be equivalent to payment or the doing of the act on the Sunday or public holiday.
-
-(5) For the purposes of this section, the day next following a Sunday or public holiday means the next following day not being itself a Sunday or public holiday.
-
-”.
-
-(2) The Criminal Procedure Code (Cap. 68) is amended —
-
-(a) by repealing section 202;
-
-(b) by deleting subsection (1) of section 298; and
-
-(c) by deleting the marginal note to section 298 and substituting the following marginal note:
-
-“
-
-Inquiry held in private.
-
-”.
-
-(3) Section 35 of the Parliamentary Elections Act (Cap. 218) is amended by deleting subsection (2).
-
-(4) Section 17 of the Presidential Elections Act (Cap. 240A) is amended by deleting subsection (2).
-
-(5) The Subordinate Courts Act (Cap. 321) is amended —
-
-(a) by inserting, immediately after section 6, the following section:
-
-“
-
-Sittings of subordinate courts
-
-6A\.—(1) Subject to subsection (2), every subordinate court shall sit on every day of the year except on Sundays and public holidays.
-
-(2) Notwithstanding subsection (1), a judicial officer may lawfully sit on a Sunday or public holiday or during a vacation authorised under section 61 if —
-
-(a) the Senior District Judge, with the concurrence of the Chief Justice, has directed the judicial officer to sit on that day or during that vacation; or
-
-(b) in the opinion of the judicial officer, the business to be despatched is extremely urgent.
-
-(3) Every subordinate court shall sit at such times as the Chief Justice may from time to time appoint.
-
-”.
-
-(b) by repealing section 57 and substituting the following section:
-
-“
-
-Registry of the subordinate courts
-
-57\.—(1) The Registry of the subordinate courts shall be open on every day of the year except on Sundays and public holidays.
-
-(2) Notwithstanding subsection (1), the registrar may lawfully sit or carry out the business of the Registry on a Sunday or public holiday if —
-
-(a) the Senior District Judge, with the concurrence of the Chief Justice, has directed the registrar to do so on that day; or
-
-(b) in the opinion of the registrar, the business to be despatched is extremely urgent.
-
-(3) The office hours of the Registry shall be such times as the Senior District Judge, with the concurrence of the Chief Justice, may from time to time direct.
-
-”.
-
-(6) The Supreme Court of Judicature Act (Cap. 322) is amended —
-
-(a) by inserting, immediately after section 10A, the following section:
-
-“
-
-When High Court is open
-
-10B\.—(1) Subject to subsection (2), the High Court shall sit on every day of the year except on Sundays and public holidays.
-
-(2) Notwithstanding subsection (1), a Judge may lawfully sit on a Sunday or public holiday or during a vacation prescribed under section 12 if —
-
-(a) the Chief Justice has directed the Judge to sit on that day or during that vacation; or
-
-(b) in the opinion of the Judge, the business to be despatched is extremely urgent.
-
-”.
-
-(b) by inserting, immediately after the words "such dates" in section 32(1), the words "(whether or not a Sunday or public holiday or during a vacation prescribed under section 12)"; and
-
-(c) by repealing section 72 and substituting the following section:
-
-“
-
-Registry to be open throughout the year
-
-72\.—(1) The Registry of the Supreme Court shall be open on every day of the year except on Sundays and public holidays.
-
-(2) Notwithstanding subsection (1), the Registrar may lawfully sit or carry out the business of the Registry on a Sunday or public holiday if —
-
-(a) the Chief Justice has directed the Registrar to do so on that day; or
-
-(b) in the opinion of the Registrar, the business to be despatched is extremely urgent.
-
-(3) The office hours of the Registry shall be such times as the Chief Justice may from time to time direct.
-
-”.
+9\. This Act shall not affect the operation of any of the provisions of the Employment Act (Cap. 91) relating to rest days, hours of work, shift workers, holidays and other conditions of service.
 
 ## THE SCHEDULE
 
@@ -262,3 +116,32 @@ Deepavali
 
 Christmas Day
 
+## LEGISLATIVE HISTORY
+
+Holidays Act
+
+(CHAPTER 126)
+
+This Legislative History is provided for the convenience of users of the Holidays Act. It is not part of the Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 54 of 1966—Holidays Act 1966**|
+||Date of First Reading|5 December 1966|
+|||(Bill No. 54/1966)|
+||Date of Second and Third Readings|Dates not available.|
+||Date of commencement|6 January 1967|
+|2.|**Act 24 of 1968—Holidays (Amendment) Act 1968**|
+||Dates of First, Second and Third Readings|Dates not available.|
+||Date of commencement|12 August 1968|
+|3.|**1970 Revised Edition—Holidays Act (Cap. 307)**|
+||Date of operation|31 August 1971|
+|4.|**1985 Revised Edition—Holidays Act**|
+||Date of operation|30 March 1987|
+|5.|**Act 8 of 1998—Holidays Act 1998**|
+||Date of First Reading|14 January 1998|
+|||(Bill No. 1/98 published on 15 January 1998)|
+||Date of Second and Third Readings|19 February 1998|
+||Date of commencement|10 April 1998|
+|6.|**1999 Revised Edition—Holidays Act**|
+||Date of operation|30 December 1999|
