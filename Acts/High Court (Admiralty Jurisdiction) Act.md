@@ -56,6 +56,8 @@ An Act relating to admiralty jurisdiction, legal proceedings in connection with 
 
 “towage and pilotage”, in relation to an aircraft, mean towage and pilotage while the aircraft is waterborne.
 
+[S 337/87]
+
 ### Admiralty jurisdiction of the High Court
 
 3\.—(1) The admiralty jurisdiction of the High Court shall be as follows, that is to say, jurisdiction to hear and determine any of the following questions or claims:
@@ -158,11 +160,15 @@ Provided that nothing in this subsection shall be construed as extending the cas
 
 (7) In this section —
 
-“collision regulations” means regulations made under section 418 of the Merchant Shipping Act 1894 [U.K. 1894 c. 60.], regulations made under section 208 of the Merchant Shipping Act [Cap. 179] and any regulations made under section 66(1) of the Port of Singapore Authority Act [Cap. 236] for or in respect of any of the matters mentioned in paragraph (i) of that subsection;
+“collision regulations” means regulations made under section 418 of the Merchant Shipping Act 1894 [U.K. 1894 c. 60.], regulations made under section 208 of the Merchant Shipping Act [Cap. 179] and any regulations made under section 41(1) of the Maritime and Port Authority of Singapore Act 1996 for or in respect of any of the matters mentioned in paragraph (i) of that subsection;
+
+[7/1996 wef 02/02/1996]
 
 “inland waters of Singapore” includes any part of the sea adjacent to the coast of Singapore certified by the Minister to be waters falling by international law to be within the territorial sovereignty of Singapore apart from the operation of that law in relation to territorial waters;
 
-“port of Singapore” means any place or places and any navigable river or channel leading into such place or places declared to be the port under section 3 of the Port of Singapore Authority Act and “the limits of the port” means the limits thereof as defined in the declaration.
+“port of Singapore” means any place or places and any navigable river or channel leading into such place or places declared to be the port under section 3 of the Maritime and Port Authority of Singapore Act 1996 and “the limits of the port” means the limits thereof as defined in the declaration.
+
+[7/1996 wef 02/02/1996]
 
 ### Wages
 
@@ -210,3 +216,9 @@ This Legislative History is provided for the convenience of users of the High Co
 |4.|**1985 Revised Edition—High Court (Admiralty Jurisdiction) Act**|
 ||(G.N. No. S 337/1987 — Rectification Order)||
 ||Date of operation|30 March 1987|
+|5.|**Act 7 of 1996—Maritime and Port Authority of Singapore Act 1996**|
+||(Consequential amendments made by)||
+||Date of First Reading|5 December 1995|
+|||(Bill No. 41/95 published on 6 December 1995)|
+||Date of Second and Third Readings|18 January 1996|
+||Date of commencement|2 February 1996|
