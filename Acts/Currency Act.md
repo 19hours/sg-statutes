@@ -12,25 +12,23 @@
 
 - [2 Interpretation](#Interpretation)
 
-[**Part II ESTABLISHMENT, CONSTITUTION, PURPOSE AND ADMINISTRATION OF BOARD**](#Part-II)
+[**Part II transfer of functions, property, liabilities and employees to authority**](#Part-II)
 
-- [3 Establishment and purpose of Board](#Establishment-and-purpose-of-Board)
+- [3 Authority to administer Act](#Authority-to-administer-Act)
 
-- [4 Incorporation, etc.](#Incorporation-etc)
+- [4 Transfer to Authority of property, assets and liabilities](#Transfer-to-Authority-of-property-assets-and-liabilities)
 
-- [4A Common seal](#Common-seal)
+- [5 Transfer of employees](#Transfer-of-employees)
 
-- [5 Employment of officers, etc.](#Employment-of-officers-etc)
+- [6 Service rights, etc., of transferred employees to be preserved](#Service-rights-etc-of-transferred-employees-to-be-preserved)
 
-- [6 Composition of Board](#Composition-of-Board)
+- [7 Existing contracts](#Existing-contracts)
 
-- [7 Meetings of Board](#Meetings-of-Board)
+- [8 Continuation and completion of disciplinary proceedings](#Continuation-and-completion-of-disciplinary-proceedings)
 
-- [8 General disqualifications for members](#General-disqualifications-for-members)
+- [9 Misconduct or neglect of duty by employee before transfer](#Misconduct-or-neglect-of-duty-by-employee-before-transfer)
 
-- [9 Interest of member in contract to be made known](#Interest-of-member-in-contract-to-be-made-known)
-
-- [10 Preservation of secrecy](#Preservation-of-secrecy)
+- [10 Interpretation of this Part](#Interpretation-of-this-Part)
 
 [**Part III CURRENCY**](#Part-III)
 
@@ -38,7 +36,7 @@
 
 - [12 Use of Singapore dollar](#Use-of-Singapore-dollar)
 
-- [13 Board to have sole right to issue currency; legal tender](#Board-to-have-sole-right-to-issue-currency;-legal-tender)
+- [13 Authority to have sole right to issue currency; legal tender](#Authority-to-have-sole-right-to-issue-currency;-legal-tender)
 
 - [14 Bills and notes payable to bearer on demand](#Bills-and-notes-payable-to-bearer-on-demand)
 
@@ -58,23 +56,23 @@
 
 - [22 External assets of Currency Fund](#External-assets-of-Currency-Fund)
 
-- [22A Currency Reserve Fund](#Currency-Reserve-Fund)
+- [22A (Repealed)](#Repealed)
 
-- [23 Currency Fund Income Account](#Currency-Fund-Income-Account)
+- [23 (Repealed)](#Repealed)
 
-- [24 Meeting of deficiencies in Currency Fund](#Meeting-of-deficiencies-in-Currency-Fund)
+- [24 (Repealed)](#Repealed)
 
-- [25 Board of survey](#Board-of-survey)
+- [25 (Repealed)](#Repealed)
 
 [**Part IV MISCELLANEOUS**](#Part-IV)
 
-- [26 Financial year](#Financial-year)
+- [26 (Repealed)](#Repealed)
 
-- [27 Budget](#Budget)
+- [27 (Repealed)](#Repealed)
 
-- [28 Audit](#Audit)
+- [28 (Repealed)](#Repealed)
 
-- [29 Annual accounts and report](#Annual-accounts-and-report)
+- [29 (Repealed)](#Repealed)
 
 - [30 Mutilating, destroying or defacing currency notes and coins](#Mutilating-destroying-or-defacing-currency-notes-and-coins)
 
@@ -102,7 +100,9 @@ REVISED EDITION 1999
 
 (1st August 1999)
 
-An Act to establish the Board of Commissioners of Currency, Singapore, and the national currency of Singapore, and to provide for matters connected therewith.
+An Act to establish the national currency of Singapore, and to provide for matters connected therewith.
+
+[25/2002 wef 01/10/2002]
 
 [7th April 1967]
 
@@ -118,9 +118,9 @@ PRELIMINARY
 
 2\. In this Act, unless the context otherwise requires —
 
-“Board” means the Board of Commissioners of Currency, Singapore, established by section 3;
+“Authority” means the Monetary Authority of Singapore established under the Monetary Authority of Singapore Act (Cap. 186);
 
-“Chief Executive Officer” means the Chief Executive Officer of the Board;
+[25/2002 wef 01/10/2002]
 
 “currency” means currency notes and coins which are legal tender in Singapore;
 
@@ -134,129 +134,73 @@ PRELIMINARY
 
 ## PART II
 
-ESTABLISHMENT, CONSTITUTION, PURPOSE AND ADMINISTRATION OF BOARD
+transfer of functions, property, liabilities and employees to authority
 
-### Establishment and purpose of Board
+[25/2002 wef 01/10/2002]
 
-3\.—(1) There shall be established a Board to be known as the Board of Commissioners of Currency, Singapore.
+### Authority to administer Act
 
-(2) The Board shall issue currency notes and coins in Singapore in accordance with section 13 and may provide such other services as it considers necessary.
+3\.—(1) The Authority shall be charged with the general administration of this Act and the exercise of the functions and duties imposed on the Authority by this Act.
 
-[3/91]
+(2) The Authority may authorise any person to assist it in the exercise of its functions and duties under this Act, either generally or in a particular case.
 
-### Incorporation, etc.
+### Transfer to Authority of property, assets and liabilities
 
-4\.—(1) The Board shall be a body corporate with perpetual succession and a common seal with power, subject to the provisions of this Act, to acquire and dispose of property, both movable and immovable, and may sue and be sued in its corporate name and perform such other acts as bodies corporate may by law perform.
+4\.—(1) As from the appointed day, such movable and immovable property vested in the Board as may be determined by the Minister and all assets, interests, rights, privileges, liabilities and obligations of the Board shall be transferred to and shall vest in the Authority without further assurance, act or deed.
 
-(2) The Board may appoint a person or persons or corporation to be its agents or correspondents for the purposes of this Act.
+(2) If any question arises as to whether any particular property, asset, interest, right, privilege, liability or obligation has been transferred to or vested in the Authority under subsection (1), a certificate under the hand of the Minister shall be conclusive evidence that the property, asset, interest, right, privilege, liability or obligation was or was not so transferred or vested.
 
-(3) No resolution or decision taken by the Board and no other act or thing made or done by the Board or any officer or employee of the Board in the exercise of any right or power or in the performance of any duty conferred or imposed upon the Board, or upon such officer or employee, under or by virtue of the provisions of this Act shall be invalid by reason only that the same was not taken, made or done within Singapore.
+(3) Any immovable property to be transferred to and vested in the Authority under subsection (1) shall be held by the Authority upon such tenure and subject to such terms and conditions as the President may determine.
 
-[35/73; 11/82]
+(4) Every proceedings by or against the Board which are pending on the appointed day may be continued, completed and enforced by or against the Authority.
 
-### Common seal
+(5) Every agreement relating to any of the transferred properties to which the Board was a party immediately before the appointed day, whether or not of such nature that the rights and liabilities thereunder could be assigned, shall have effect as from that day as if —
 
-4A\.—(1) All deeds and documents requiring the seal of the Board shall be sealed with the common seal of the Board and such instruments to which the common seal is affixed shall be signed by the Chief Executive Officer.
+(a) the Authority had been a party to such an agreement; and
 
-[47/98]
+(b) for any reference to the Board there were substituted in respect of anything to be done on or after the appointed day a reference to the Authority.
 
-(2) All courts and persons acting judicially shall take judicial notice of the common seal of the Board affixed to any document and presume it was duly affixed.
+(6) It is hereby declared for the avoidance of doubt that —
 
-[47/98]
+(a) any reference in this Part to property vested in the Board is a reference to such property of the Board whether situated in Singapore or elsewhere; and
 
-### Employment of officers, etc.
+(b) any such reference to rights and liabilities of the Board is a reference to such rights to which the Board is entitled or, as the case may be, such liabilities to which the Board is subject, whether under the laws of Singapore or any country outside Singapore and includes rights and liabilities arising under loans raised by the Board.
 
-5\.—(1) Subject to subsection (2), the Board may appoint such officers, employees, consultants and agents as it considers to be necessary for the efficient conduct of the business of the Board upon such terms and conditions as may be determined by the Board.
+### Transfer of employees
 
-[3/91; 11/91]
+5\.—(1) As from the appointed day, all persons employed immediately before that day by the Board shall be transferred to the service of the Authority on terms no less favourable than those enjoyed by them immediately prior to their transfer.
 
-(2) The Board shall, with the President’s concurrence under Article 22A(1) (b) of the Constitution, appoint a Chief Executive Officer on such terms and conditions as it may determine.
+(2) Until such time as terms and conditions of service are drawn up by the Authority, the scheme and terms and conditions of service in the Board shall continue to apply to every person transferred to the service of the Authority under subsection (1) as if he were still in the service of the Board.
 
-[11/91; 47/98]
+### Service rights, etc., of transferred employees to be preserved
 
-(3) The Board and its officers and employees shall be deemed to be public servants within the meaning of the Penal Code (Cap. 224).
+6\.—(1) The terms and conditions to be drawn up by the Authority shall take into account the salaries and terms and conditions of service, including any accrued rights to leave, enjoyed by the persons transferred to the service of the Authority under section 5 while in the employment of the Board.
 
-[3/91]
+(2) Any term or condition relating to the length of service with the Authority shall provide for the recognition of service under the Board by the persons transferred under section 5 to be service by them under the Authority.
 
-### Composition of Board
+### Existing contracts
 
-6\.—(1) The Board shall consist of —
+7\. All deeds, bonds, agreements, instruments and arrangements subsisting immediately before the appointed day to which the Board is a party shall continue in force on and after that day and shall be enforceable by or against the Authority as if the Authority had been named therein or had been a party thereto instead of the Board.
 
-(a) the Chairman who shall be appointed by the President on the recommendation of the Cabinet;
+### Continuation and completion of disciplinary proceedings
 
-(b) the Deputy Chairman who shall be appointed by the President; and
+8\.—(1) Where on the appointed day any disciplinary proceedings were pending against any employee of the Board transferred to the service of the Authority under section 5, the proceedings shall be carried on and completed by the Authority.
 
-(c) 4 other members possessing recognised banking, financial or business experience who shall be appointed by the President.
+(2) Where on the appointed day any matter was in the course of being heard or investigated or had been heard or investigated by a committee acting under due authority but no order, ruling or direction had been made thereon, the committee shall complete the hearing or investigation and shall make such order, ruling or direction as it could have made under the authority vested in it before that day.
 
-[47/98]
+(3) Any order, ruling or direction made by a committee under this section shall be treated as an order, a ruling or a direction of the Authority and have the same force or effect as if it had been made by the Authority pursuant to the authority vested in the Authority under this Act.
 
-(2) Subject to subsection (3), every member of the Board shall be appointed for a specific term not exceeding 3 years and shall vacate his office without prejudice to his eligibility for re-appointment at the expiration of that term.
+### Misconduct or neglect of duty by employee before transfer
 
-[47/98]
+9\. The Authority may reprimand, reduce in rank, retire, dismiss or punish in some other manner a person who had, whilst he was in the employment of the Board, been guilty of any misconduct or neglect of duty which would have rendered him liable to be reprimanded, reduced in rank, retired, dismissed or punished in some other manner if he had continued to be in the employment of the Board and if this Act had not been enacted.
 
-(3) The President, acting in his discretion, may refuse to appoint any person as Chairman, Deputy Chairman or a member of the Board under subsection (1) or to revoke any such appointment if the President does not concur with the advice or recommendation of the Cabinet or a Minister acting under the general authority of the Cabinet.
+### Interpretation of this Part
 
-[11/91]
+10\. In this Part —
 
-(4) The Deputy Chairman shall act for the Chairman whenever the Chairman is absent.
+“appointed day” means the date of commencement of the Currency (Amendment) Act 2002;
 
-(5) If the Deputy Chairman is temporarily absent from Singapore or temporarily incapacitated through illness or any other sufficient reason from the performance of his duties, another person may be appointed by the President during such temporary absence or incapacity.
-
-(6) If a member appointed under subsection (1)(c) suffers an incapacity which is likely to be prolonged, the President may appoint a temporary substitute to act with the full powers of that member until such time as the President determines that the incapacity has ceased.
-
-### Meetings of Board
-
-7\.—(1) The Board shall meet at least once in each calendar year and at such times or places as may be considered necessary by the Chairman.
-
-(2) The Chairman shall call a meeting as soon as practicable after receiving a request from at least 2 members.
-
-(3) A quorum for any meeting of the Board shall be 3 members.
-
-(4) No meeting of the Board, as provided for in this section, shall be held unless the Chairman or the Deputy Chairman is present.
-
-(5) The Chairman and the Deputy Chairman shall each have 2 votes and the members appointed under section 6(1)(c) shall each have one vote.
-
-(6) Any question arising at a meeting of the Board shall be decided by a majority of votes.
-
-(7) In the event of an equality of votes, the Chairman presiding at the meeting shall have a casting vote.
-
-### General disqualifications for members
-
-8\.—(1) A member shall be relieved of his office if he —
-
-(a) becomes bankrupt or insolvent, applies for any benefits under the law for the relief of bankrupt or insolvent debtors, compounds with his creditors or makes any assignment in whole or in part of his income from the Board for the benefit of such creditors;
-
-(b) is convicted of an offence involving dishonesty, fraud or moral turpitude;
-
-(c) becomes totally or permanently incapable of performing his duties; or
-
-(d) is guilty of misbehaviour that would bring his office into disrepute.
-
-[47/98]
-
-(2) The President shall terminate the appointment of a member who without leave absents himself from 3 consecutive meetings of the Board.
-
-### Interest of member in contract to be made known
-
-9\.—(1) A member who is, directly or indirectly, interested in a contract made, or proposed to be made, by the Board shall disclose the nature of his interest at the first meeting of the Board at which he is present after the relevant facts have come to his knowledge.
-
-(2) A disclosure under subsection (1) shall be recorded in the minutes of the Board and, after the disclosure, such member —
-
-(a) shall not take part in any deliberation or decision of the Board with respect to that contract; and
-
-(b) shall be disregarded for the purpose of constituting a quorum of the Board for any such deliberation or decision.
-
-(3) No act or proceedings of the Board shall be questioned on the ground of the contravention of this section by a member of the Board.
-
-### Preservation of secrecy
-
-10\.—(1) Except for the purposes of the performance of his duties or the exercise of his functions or when lawfully required to do so by any court or under the provisions of any law, no person who is or has been a member, officer, employee, consultant or agent of the Board shall disclose to any person any information which he has acquired in the performance of his duties or the exercise of his functions.
-
-[3/91]
-
-(2) Any person who contravenes this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 3 years or to both.
-
-[47/98]
+“Board” means the Board of Commissioners of Currency, Singapore.
 
 ## PART III
 
@@ -274,21 +218,21 @@ CURRENCY
 
 12\. All monetary obligations or transactions in Singapore shall be deemed to be expressed and recorded, and shall be settled in the Singapore dollar unless otherwise provided for by law or validly agreed upon between the parties.
 
-### Board to have sole right to issue currency; legal tender
+### Authority to have sole right to issue currency; legal tender
 
-13\.—(1) The Board shall have the sole right to issue currency notes and coins in Singapore and only such notes and coins issued by the Board shall be legal tender in Singapore.
+13\.—(1) The Authority shall have the sole right to issue currency notes and coins in Singapore and only such notes and coins issued by the Authority shall be legal tender in Singapore.
 
 [25/2002 wef 01/10/2002]
 
 [11/82]
 
-(2) Notes issued by the Board, if the notes have not been illegally dealt with, shall be legal tender up to their face value for the payment of any amount.
+(2) Notes issued by the Authority, if the notes have not been illegally dealt with, shall be legal tender up to their face value for the payment of any amount.
 
 [25/2002 wef 01/10/2002]
 
 [3/91]
 
-(3) Coins issued by the Board, if the coins have not been illegally dealt with, shall be legal tender up to their face value in Singapore as follows:
+(3) Coins issued by the Authority, if the coins have not been illegally dealt with, shall be legal tender up to their face value in Singapore as follows:
 
 (a) in the case of coins of a denomination exceeding 50 cents — for the payment of any amount;
 
@@ -300,6 +244,14 @@ CURRENCY
 
 [25/2002 wef 01/10/2002]
 
+(3A) Where a payee has given written notice to the payer that he would not accept as payment any or all of the denominations of notes or coins in satisfaction of a debt, subsection (2) or (3), as the case may be, shall not apply to the payment of the debt to the extent specified in the notice.
+
+[25/2002 wef 01/10/2002]
+
+(3B) Where no written notice under subsection (3A) has been given by the payee, payment by the payer in accordance with subsection (2) or (3), as the case may be, in satisfaction of a debt, shall be deemed to have satisfied that debt.
+
+[25/2002 wef 01/10/2002]
+
 (4) For the purposes of this Act —
 
 (a) a coin shall be deemed to have been illegally dealt with where the coin has been impaired, diminished, or lightened otherwise than by fair wear and tear, or has been defaced by having any name, word, device or number stamped or engraved thereon, whether the coin has or has not been thereby diminished or lightened; and
@@ -308,13 +260,13 @@ CURRENCY
 
 [3/91]
 
-(5) In any criminal proceedings in which the genuineness of any currency note or coin may be in question, a certificate signed by an officer of the Board authorised for that purpose that he is satisfied by personal examination that such note or coin is or is not forged shall be held to be conclusive evidence of the same.
+(5) In any criminal proceedings in which the genuineness of any currency note or coin may be in question, a certificate signed by an officer of the Authority authorised for that purpose that he is satisfied by personal examination that such note or coin is or is not forged shall be held to be conclusive evidence of the same.
 
 [25/2002 wef 01/10/2002]
 
 [3/91]
 
-(6) No officer of the Board shall be cross-examined with regard to the contents of such certificate unless the court otherwise orders.
+(6) No officer of the Authority shall be cross-examined with regard to the contents of such certificate unless the court otherwise orders.
 
 [25/2002 wef 01/10/2002]
 
@@ -322,7 +274,7 @@ CURRENCY
 
 ### Bills and notes payable to bearer on demand
 
-14\.—(1) No person, except with the permission of the Board , shall draw, accept, make or issue any bill of exchange, promissory note or engagement for the payment of money payable to bearer on demand or borrow, owe or take up any sum or sums of money on bills or notes payable to bearer on demand.
+14\.—(1) No person, except with the permission of the Authority, shall draw, accept, make or issue any bill of exchange, promissory note or engagement for the payment of money payable to bearer on demand or borrow, owe or take up any sum or sums of money on bills or notes payable to bearer on demand.
 
 [25/2002 wef 01/10/2002]
 
@@ -334,19 +286,19 @@ CURRENCY
 
 ### Exchange of currency notes and coins
 
-15\.—(1) The Board shall arrange for the reissue and exchange of currency notes and coins subject to such conditions as may be prescribed.
+15\.—(1) The Authority shall arrange for the reissue and exchange of currency notes and coins subject to such conditions as may be prescribed.
 
 [25/2002 wef 01/10/2002]
 
 [3/91]
 
-(2) Where the Board transfers its functions in relation to the reissue and exchange of currency notes and coins to another body, that body may charge for its services in respect thereof.
+(2) Where the Authority transfers its functions in relation to the reissue and exchange of currency notes and coins to another body, that body may charge for its services in respect thereof.
 
 [25/2002 wef 01/10/2002]
 
 [3/91]
 
-(3) The Board may, in its discretion, charge any person or class of persons such fee as may be prescribed for the reissue and exchange of currency notes or coins with the Board under this section.
+(3) The Authority may, in its discretion, charge any person or class of persons such fee as may be prescribed for the reissue and exchange of currency notes or coins with the Authority under this section.
 
 [25/2002 wef 01/10/2002]
 
@@ -354,13 +306,13 @@ CURRENCY
 
 ### Power to buy and sell currency notes and coins
 
-16\.—(1) The Board may, in its discretion, buy and sell currency notes and coins against gold, silver or foreign currencies eligible for inclusion in the reserve of the external assets specified under section 22.
+16\.—(1) The Authority may, in its discretion, buy and sell currency notes and coins against gold, silver or foreign currencies eligible for inclusion in the reserve of the external assets specified under section 22.
 
 [25/2002 wef 01/10/2002]
 
 [11/82]
 
-(2) The Board shall be entitled to charge a commission at such rate or rates as may, from time to time, be determined for any currency notes or coins bought or sold by the Board under this section.
+(2) The Authority shall be entitled to charge a commission at such rate or rates as may, from time to time, be determined for any currency notes or coins bought or sold by the Authority under this section.
 
 [25/2002 wef 01/10/2002]
 
@@ -368,61 +320,61 @@ CURRENCY
 
 ### Form and design of currency notes and coins
 
-17\.—(1) Currency notes issued by the Board shall be of such denomination and of such form and design and printed from such plates and on such material as the Board may, from time to time, decide.
+17\.—(1) Currency notes issued by the Authority shall be of such denomination and of such form and design and printed from such plates and on such material as the Authority may, from time to time, decide.
 
 [25/2002 wef 01/10/2002]
 
 [3/91; 47/98]
 
-(2) The dies, plates and other instruments or materials used for the printing of notes and the currency notes printed shall be prepared and kept, issued and destroyed in accordance with any direction of the Board.
+(2) The dies, plates and other instruments or materials used for the printing of notes and the currency notes printed shall be prepared and kept, issued and destroyed in accordance with any direction of the Authority.
 
 [25/2002 wef 01/10/2002]
 
 [47/98]
 
-(3) Coins issued by the Board shall be of such denominations and of such weight, form and design, and made of such materials as the Board may, from time to time, decide.
+(3) Coins issued by the Authority shall be of such denominations and of such weight, form and design, and made of such materials as the Authority may, from time to time, decide.
 
 [25/2002 wef 01/10/2002]
 
 [47/98]
 
-(4) The dies and other instruments or materials used for the minting of coins and the currency coins minted shall be prepared and kept, issued and destroyed in accordance with any direction of the Board.
+(4) The dies and other instruments or materials used for the minting of coins and the currency coins minted shall be prepared and kept, issued and destroyed in accordance with any direction of the Authority.
 
 [25/2002 wef 01/10/2002]
 
 [47/98]
 
-(5) The Board shall publish in theGazettethe denominations and other characteristics of notes and coins issued by it.
+(5) The Authority shall publish in theGazettethe denominations and other characteristics of notes and coins issued by it.
 
 [25/2002 wef 01/10/2002]
 
 ### Demonetisation of currency notes and coins
 
-18\.—(1) The Board may, by notification in theGazette, withdraw any particular issue or denomination of notes and coins issued by the Board which shall upon such withdrawal cease to be legal tender.
+18\.—(1) The Authority may, by notification in theGazette, withdraw any particular issue or denomination of notes and coins issued by the Authority which shall upon such withdrawal cease to be legal tender.
 
 [25/2002 wef 01/10/2002]
 
 [47/98]
 
-(2) Any such notification shall give holders of the notes and coins to be withdrawn a reasonable period, in any event not less than 6 months, within which such notes or coins shall be exchanged at their face value for other legal tender issued by the Board .
+(2) Any such notification shall give holders of the notes and coins to be withdrawn a reasonable period, in any event not less than 6 months, within which such notes or coins shall be exchanged at their face value for other legal tender issued by the Authority.
 
 [25/2002 wef 01/10/2002]
 
 ### Mutilated notes and coins
 
-19\.—(1) No person shall be entitled to recover from the Board the value of any mutilated currency note or coin or any note or coin which has been illegally dealt with.
+19\.—(1) No person shall be entitled to recover from the Authority the value of any mutilated currency note or coin or any note or coin which has been illegally dealt with.
 
 [25/2002 wef 01/10/2002]
 
 [11/82; 3/91]
 
-(2) The circumstances in which, and the conditions and limitations subject to which the value of mutilated currency notes or coins, or notes or coins which have been illegally dealt with, may be refunded as an act of grace shall be in the absolute discretion of the Board.
+(2) The circumstances in which, and the conditions and limitations subject to which the value of mutilated currency notes or coins, or notes or coins which have been illegally dealt with, may be refunded as an act of grace shall be in the absolute discretion of the Authority.
 
 [25/2002 wef 01/10/2002]
 
 [11/82; 3/91]
 
-(3) Mutilated notes or coins, or notes or coins that have been illegally dealt with, shall be repossessed by any officer of the Board or other person authorised by the Board when tendered to the Board or such person, as the case may be.
+(3) Mutilated notes or coins, or notes or coins that have been illegally dealt with, shall be repossessed by any officer of the Authority or other person authorised by the Authority when tendered to the Authority or such person, as the case may be.
 
 [25/2002 wef 01/10/2002]
 
@@ -430,7 +382,7 @@ CURRENCY
 
 ### Restriction on use of photographs, drawing or design of currency notes and coins in advertisements, etc.
 
-20\.—(1) Except with the permission of the Board, no person shall —
+20\.—(1) Except with the permission of the Authority, no person shall —
 
 (a) in any size, scale or colour, use any photograph of or any drawing or design resembling any currency note or coin or part thereof, in any advertisement; or
 
@@ -438,13 +390,13 @@ CURRENCY
 
 [47/98]
 
-(2) Except with the permission of the Board, no person shall import, manufacture, sell, circulate or otherwise distribute any merchandise or product containing any design or part thereof used in or on any currency note or coin.
+(2) Except with the permission of the Authority, no person shall import, manufacture, sell, circulate or otherwise distribute any merchandise or product containing any design or part thereof used in or on any currency note or coin.
 
 [25/2002 wef 01/10/2002]
 
 [47/98]
 
-(3) The Board may, in granting any permission under subsection (1) or (2), impose such conditions as it thinks fit.
+(3) The Authority may, in granting any permission under subsection (1) or (2), impose such conditions as it thinks fit.
 
 [25/2002 wef 01/10/2002]
 
@@ -460,19 +412,15 @@ CURRENCY
 
 ### Currency Fund
 
-21\.—(1) The Board shall establish a Currency Fund which shall be maintained and managed by the Board in the manner prescribed in this Act.
+21\.—(1) The Authority shall establish a Currency Fund which shall be maintained and managed by the Authority in the manner prescribed in this Act.
 
 [25/2002 wef 01/10/2002]
 
 [11/82; 3/91]
 
-(2) The Board may, with the approval of the President, appoint any person to manage the Currency Fund on its behalf in the manner prescribed in this Act.
-
-[11/82; 3/91]
-
 (3) There shall be paid into the Currency Fund —
 
-(a) all gold, silver and foreign currencies bought by the Board under section 16; and
+(a) all gold, silver and foreign currencies bought by the Authority under section 16; and
 
 [25/2002 wef 01/10/2002]
 
@@ -484,13 +432,13 @@ CURRENCY
 
 [11/82; 3/91]
 
-(5) The Board shall maintain adequate liquidity in the Currency Fund to meet all demands under normal market conditions.
+(5) The Authority shall maintain adequate liquidity in the Currency Fund to meet all demands under normal market conditions.
 
 [25/2002 wef 01/10/2002]
 
 [47/98]
 
-(6) Notwithstanding anything in subsections (1) to (4), the Board may —
+(6) Notwithstanding anything in subsections (1) to (4), the Authority may —
 
 (a) use any coin held for the account of the Currency Fund for the purpose of having it reminted into current coin; and
 
@@ -500,19 +448,33 @@ CURRENCY
 
 [25/2002 wef 01/10/2002]
 
-(7) The value of the Currency Fund and its assets for any purpose of this Act shall be determined by such method as the Board may, with the approval of the President, from time to time adopt.
+(7) The value of the Currency Fund and its assets for any purpose of this Act shall be determined by such method as the Authority may from time to time adopt.
 
 [25/2002 wef 01/10/2002]
 
 [11/82; 3/91]
 
-(8) Any method of valuation adopted by the Board under subsection (7) shall be published in theGazette.
+(8) If at any time the value of the Currency Fund determined by the Authority under subsection (7) exceeds 100% of the face value of the Authority’s currency notes and coins then in circulation, the Authority may direct that the whole or part of such excess be transferred from the Currency Fund to the other funds of the Authority.
 
-[11/82]
+[25/2002 wef 01/10/2002]
+
+(9) If at any time the face value of the Authority’s currency notes and coins in circulation exceeds the value of the Currency Fund, the deficiency shall be made up from the other funds of the Authority and, if such funds are insufficient, the balance of the deficiency shall be charged on and paid out of the Consolidated Fund.
+
+[25/2002 wef 01/10/2002]
+
+(10) The Authority may charge on the Currency Fund any expense properly incurred by or on behalf of the Authority in connection with the execution of its functions under this Act, including expenses relating to —
+
+(a) the investment of the Currency Fund;
+
+(b) the issue and demonetisation of currency notes and coins and the transaction of any business relating to such currency; and
+
+(c) the protection of currency notes and coins against forgery or counterfeiting.
+
+[25/2002 wef 01/10/2002]
 
 ### External assets of Currency Fund
 
-22\. The external assets of the Currency Fund shall consist of all or any of the following and they shall at all times be not less than 100% of the face value of the currency issued by the Board :
+22\. The external assets of the Currency Fund shall consist of all or any of the following and they shall at all times be not less than 100% of the face value of the currency issued by the Authority:
 
 (a) gold and silver in any form;
 
@@ -534,7 +496,7 @@ CURRENCY
 
 (f) currency and financial futures;
 
-(g) any other asset which the Board, with the approval of the President, considers suitable for inclusion.
+(g) any other asset which the Authority, with the approval of the President, considers suitable for inclusion.
 
 [25/2002 wef 01/10/2002]
 
@@ -542,135 +504,25 @@ CURRENCY
 
 [25/2002 wef 01/10/2002]
 
-### Currency Reserve Fund
+22A\. [Deleted by Act 25/2002 wef 01/10/2002]
 
-22A\.—(1) There shall be established a Currency Reserve Fund (referred to in this Act as the Reserve Fund).
+23\. [Deleted by Act 25/2002 wef 01/10/2002]
 
-[3/91]
+24\. [Deleted by Act 25/2002 wef 01/10/2002]
 
-(2) The assets of the Reserve Fund shall be invested in the same commodities, financial instruments, securities or things as the assets of the Currency Fund are invested in under section 22.
-
-[3/91]
-
-(3) All dividends, interest or other revenue derived from investments or from the utilisation in any other manner of the moneys of the Reserve Fund shall be paid into the Currency Fund Income Account established under section 23.
-
-[3/91]
-
-(4) The value of the Reserve Fund and its assets for any purpose of this Act shall be determined by the same method as that adopted for the Currency Fund.
-
-[3/91]
-
-(5) The Board may, with the approval of the President, appoint any person to manage the Reserve Fund on its behalf.
-
-[3/91]
-
-(6) At the end of each financial year, the assets in the Reserve Fund that are in excess of requirements, as determined by the Board, shall be transferred to the Currency Fund Income Account.
-
-[3/91]
-
-### Currency Fund Income Account
-
-23\.—(1) All dividends, interest or other revenue derived from investments or from the utilisation in any other manner of the moneys of the Currency Fund and all commissions paid to the Board in connection with the issue or redemption of currency notes or coins shall be paid into an account to be called the Currency Fund Income Account (referred to in this Act as the Income Account).
-
-(2) There shall be charged upon the Income Account —
-
-(a) all expenses incurred by or on behalf of the Board in the preparation, transport, issue, redemption and demonetisation of currency notes and coins, and in the transaction of any business relating to such currency authorised by law, other than the expenses referred to in section 21(6);
-
-(b) any expenses incurred by or on behalf of the Board in connection with the protection of the currency against forgery or counterfeiting of currency notes or coins; and
-
-(c) all other expenses properly incurred by the Board in the execution of its functions under this Act.
-
-[3/91]
-
-(3) There shall be charged upon the Income Account all expenses relating to the investment of the Reserve Fund and the Currency Fund.
-
-[47/98]
-
-(4) The Board may charge upon the Currency Fund and not upon the Income Account any expenditure of an exceptional nature.
-
-[3/91]
-
-(5) At the end of each financial year, the Board shall determine whether or not any part of the surplus in the Income Account should be paid into the Reserve Fund and if it is determined that a part of the surplus should be so paid, the amount of any such payment.
-
-(6) Thereafter any surplus remaining in the Income Account shall be paid into the Consolidated Fund.
-
-[3/91]
-
-(7) Where there is on the last day in any financial year a deficiency in the Income Account, it shall be charged upon and paid out of the Consolidated Fund.
-
-[3/91]
-
-(8) Notwithstanding subsection (5), if, on the last day in any financial year, the face value of the Board’s currency notes and coins in circulation exceeds the value of the Currency Fund determined by the Board under section 21(7), the deficiency shall be made up from the Income Account and, if necessary, from the Reserve Fund; but if the amounts in the Income Account and in the Reserve Fund are insufficient to make up the deficiency in the Currency Fund, the balance of such deficiency shall be charged upon and paid out of the Consolidated Fund.
-
-[3/91]
-
-(9) If, on the last day in any financial year, the value of the Currency Fund so calculated exceeds 100% of the face value of the Board’s currency notes and coins then in circulation, the Board may direct that the whole or part of such excess be transferred from the Currency Fund to the Income Account.
-
-[3/91]
-
-### Meeting of deficiencies in Currency Fund
-
-24\. If the assets of the Currency Fund should at any time prove insufficient to meet legal demands upon the Board, such deficiencies shall be charged upon and paid out of the Consolidated Fund.
-
-[3/91]
-
-### Board of survey
-
-25\. Unissued stocks of currency notes and coins held by the Board shall, on the first business day of each year and at such other times as may be decided by the Board, be verified by a board of survey to be constituted under regulations made by the Board.
+25\. [Deleted by Act 25/2002 wef 01/10/2002]
 
 ## PART IV
 
 MISCELLANEOUS
 
-### Financial year
+26\. [Deleted by Act 25/2002 wef 01/10/2002]
 
-26\. The financial year of the Board shall begin on 1st January and end on 31st December of each year.
+27\. [Deleted by Act 25/2002 wef 01/10/2002]
 
-### Budget
+28\. [Deleted by Act 25/2002 wef 01/10/2002]
 
-27\.—(1) The Board shall in every financial year prepare a budget containing estimates of income and expenditure of the Board for the ensuing financial year and a supplementary budget (if necessary) for any financial year and present them to the President for his approval under Article 22B of the Constitution.
-
-[11/91]
-
-(2) The budget and supplementary budget, if any, when approved by the President shall be published in theGazette.
-
-[11/91]
-
-### Audit
-
-28\.—(1) The accounts of the Board shall be audited by the Auditor-General.
-
-(2) The Auditor-General shall in his report state —
-
-(a) whether the financial statements show fairly the financial transactions and the state of affairs of the Board;
-
-(b) whether proper accounting and other records have been kept;
-
-(c) whether the receipts, expenditure and investment of moneys, and the acquisition and disposal of assets by the Board during the financial year were in accordance with the provisions of this Act and the Constitution; and
-
-(d) such other matters arising from the audit as he considers necessary.
-
-[11/82; 11/91]
-
-### Annual accounts and report
-
-29\.—(1) The Board shall, as soon as practicable, after the close of its financial year, transmit to the President a copy of its annual accounts and report and the accounts shall then be published in theGazette.
-
-[3/91]
-
-(2) The annual accounts and report shall be presented to Parliament as soon as possible after such publication.
-
-(3) The Board shall, as soon as possible, after the end of each quarter, make up and publish in theGazettean abstract showing the whole amount of currency notes and coins in circulation on that day.
-
-[47/98]
-
-(4) The Board shall publish at quarterly intervals in theGazettean abstract showing —
-
-(a) the amount of the Currency Fund determined by the Board to be adequate for the purposes of section 21(5) and the forms of assets in which that amount is held; and
-
-(b) the nominal value and price paid for and, where appropriate, the latest known market price of securities belonging to the Currency Fund.
-
-[47/98]
+29\. [Deleted by Act 25/2002 wef 01/10/2002]
 
 ### Mutilating, destroying or defacing currency notes and coins
 
@@ -694,7 +546,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Counterfeit notes and coins to be forfeited
 
-31\. An officer of the Board shall be empowered to seize any currency note or coin tendered to the Board, which he believes on reasonable grounds to be counterfeit and, upon such seizure, that note or coin shall be forfeited to the Board.
+31\. An officer of the Authority shall be empowered to seize any currency note or coin tendered to the Authority, which he believes on reasonable grounds to be counterfeit and, upon such seizure, that note or coin shall be forfeited to the Authority.
 
 [25/2002 wef 01/10/2002]
 
@@ -720,7 +572,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Protection from personal liability
 
-34\. No suit or other legal proceedings shall lie against any member, officer or employee of the Board or other person acting under the direction of the Board for anything which is in good faith done or intended to be done in the execution or purported execution of this Act.
+34\. No suit or other legal proceedings shall lie against any member, officer or employee of the Authority or other person acting under the direction of the Authority for anything which is in good faith done or intended to be done in the execution or purported execution of this Act.
 
 [25/2002 wef 01/10/2002]
 
@@ -730,7 +582,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Regulations
 
-35\. The Board may make such regulations as may be required from time to time for carrying into effect the provisions of this Act or prescribing anything that may be prescribed.
+35\. The Authority may make such regulations as may be required from time to time for carrying into effect the provisions of this Act or prescribing anything that may be prescribed.
 
 [25/2002 wef 01/10/2002]
 
@@ -808,6 +660,11 @@ This Legislative History is provided for the convenience of users of the Currenc
 ||Date of commencement|31 December 1998|
 |15.|**1999 Revised Edition—Currency Act**|
 ||Date of operation|1 August 1999|
+|16.|**Act 25 of 2002—Currency (Amendment) Act 2002**|
+||Date of First Reading|8 July 2002|
+|||(Bill No. 23/2002 published on 9 July 2002)|
+||Date of Second and Third Readings|23 July 2002|
+||Date of commencement|1 October 2002|
 ## COMPARATIVE TABLE
 
 Currency Act
