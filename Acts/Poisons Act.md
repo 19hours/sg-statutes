@@ -48,7 +48,7 @@
 
 - [21 Rules](#Rules)
 
-[**THE SCHEDULE Poisons list**](#THE-SCHEDULE)
+[**THE SCHEDULE Poisons List**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -374,7 +374,7 @@ but every such exemption shall be subject to such instructions and conditions as
 
 Section 2.
 
-Poisons list
+Poisons List
 
 In the construction of this List, unless the contrary intention appears —
 
@@ -386,7 +386,7 @@ Part I
 
 Acebutolol; its salts
 
-Acepromazine
+Acepromazine; its salts
 
 Acetanilide; alkyl acetanilides
 
@@ -398,9 +398,9 @@ Acetohexamide
 
 Acetorphine; its salts; its esters and ethers; their salts
 
-Acetylcarbromal
-
 Acetyl-alpha-methylfentanyl
+
+Acetylcarbromal
 
 Acetyl chloride
 
@@ -424,7 +424,7 @@ Adicillin
 
 Adiphenine; its salts
 
-Adrenaline
+Adrenaline; its salts
 
 Adreno-corticotrophic hormone (ACTH)
 
@@ -438,11 +438,11 @@ Aldosterone
 
 Alfentanil
 
-Algestone
+Algestone; its salts
 
-Allobarbitone
+Allobarbitone; its salts
 
-Allopurinol
+Allopurinol; its salts
 
 Allyloestrenol
 
@@ -460,13 +460,13 @@ Alphameprodine; its salts
 
 Alphamethadol; its salts
 
+Alpha-methylfentanyl
+
 Alphaprodine; its salts
 
 Alphaxalone
 
 Alprazolam
-
-Alpha-methylfentanyl
 
 Alprenolol; its salts
 
@@ -484,7 +484,7 @@ Ambutonium; its salts
 
 Ametazole; its salts
 
-Amethocaine
+Amethocaine; its salts
 
 Amidopyrine; its salts; amidopyrine sulphonates; their salts
 
@@ -494,7 +494,7 @@ Amiloride; its salts
 
 Amino-alcohols esterifed with benzoic acid; phenylacetic acid, phenylpropionic acid, cinnamic acid or the derivatives of these acids; their salts
 
-P-Aminobenzene sulphonamide, its salts; derivatives of p-amino-benzene sulphonamide having any of the hydrogen atoms of the p-amino group or of the sulphonamide group substituted by another radical; their salts
+P-Aminobenzene sulphonamide, its salts; derivatives of p-aminobenzene sulphonamide having any of the hydrogen atoms of the p-amino group or of the sulphonamide group substituted by another radical; their salts
 
 P-Aminobenzoic acid, esters of; their salts
 
@@ -516,21 +516,21 @@ Amitriptyline; its salts
 
 Ammonium lactate
 
-Amoxycillin
+Amoxycillin; its salts; its esters; their salts
 
-Amphetamine
+Amphetamine; its salts
 
 Amphomycin; its salts; its esters; their salts
 
 Amphotericin B; its salts; its esters; their salts
 
-Ampicillin
+Ampicillin; its salts; its esters; their salts
 
 Amsacrine (M-AMSA)
 
-Amylobarbitone
+Amylobarbitone; its salts
 
-Amylocaine
+Amylocaine; its salts
 
 Amyl nitrite
 
@@ -548,9 +548,9 @@ Angiotensin amide
 
 Anileridine; its salts
 
-Anthihistamines, including substances being tetra-N-substituted derivatives of ethylenediamine or propylenediamine; their salts
+Antihistamines, including substances being tetra-N-substituted derivatives of ethylenediamine or propylenediamine; their salts
 
-Antimony, chlorides of antimony; organic compounds of antimony, which are intended for the treatment of human ailments;
+Antimony, chlorides of antimony; organic compounds of antimony, which are intended for the treatment of human ailments
 
 Antazoline; its salts
 
@@ -560,7 +560,7 @@ Apramycin; its salts
 
 Aprobarbitone
 
-Arsenical substances the following, except those specified in Part II; halides of arsenic; oxides of arsenic; arsenates; arsenites; organic compounds of arsenic;
+Arsenical substances the following, except those specified in Part II; halides of arsenic; arsenates; organic compounds of arsenic; which are intended for the treatment of human ailments
 
 Arsphenamine
 
@@ -570,7 +570,7 @@ Astemizole
 
 Atenolol; its salts
 
-Atropine; its quaternary compounds; its salts
+Atropine; its quarternary compounds; its salts
 
 Azacyclonol; its salts
 
@@ -582,7 +582,7 @@ Azatadine; its salts
 
 Azathioprine; its salts
 
-Azidocillin
+Azidocillin; its salts
 
 Bacitracin; its salts; its esters; their salts
 
@@ -592,13 +592,13 @@ Bambermycin
 
 Bamipine; its salts
 
-Barbitone
+Barbitone; its salts
 
 Barbituric acid; its salts; derivatives of barbituric acid; their salts; compounds of barbituric acid, its salts; its derivatives, their salts, with any other substance
 
 Beclamide
 
-Beclomethasone
+Beclomethasone; its salts; its esters; their salts
 
 Belladonna, alkaloids of; its quarternary compounds, their salts
 
@@ -616,7 +616,7 @@ Benoxaprofen
 
 Benperidol
 
-Benserazide
+Benserazide; its salts
 
 Benzamidosalicylic acid; its salts
 
@@ -640,7 +640,7 @@ Benzoylmorphine; its salts
 
 N-Benzoyl sulphanilamide
 
-Benzphetamine
+Benzphetamine; its salts
 
 Benzquinamide; its salts
 
@@ -650,7 +650,7 @@ Benztropine and its homologues; their salts
 
 Benzylmorphine; its salts
 
-Benzylpenicillin
+Benzylpenicillin; its salts
 
 Berberine; its quarternary compounds; their salts
 
@@ -662,7 +662,7 @@ Betameprodine; its salts
 
 Betamethadol; its salts
 
-Betamethasone
+Betamethasone; its salts; its esters; their salts
 
 Betaxolol; its salts
 
@@ -688,7 +688,7 @@ Bromazepam
 
 Bromhexine; its salts
 
-Bromocriptine
+Bromocriptine; its salts
 
 Bromodiphenhydramine; its salts
 
@@ -716,7 +716,7 @@ Bumetanide
 
 Buphenine hydrochloride
 
-Bupivacaine
+Bupivacaine; its salts
 
 Bupranolol; its salts
 
@@ -726,13 +726,13 @@ Buspirone; its salts
 
 Busulphan; its salts
 
-Butacaine
+Butacaine; its salts
 
 Butalbital
 
-Butanilicaine
+Butanilicaine; its salts
 
-Butobarbitone
+Butobarbitone; its salts
 
 Butofenine; its salts; its esters and ethers; their salts
 
@@ -774,7 +774,7 @@ Carbachol
 
 Carbamazepine
 
-Carbenicillin
+Carbenicillin; its salts
 
 Carbenoxolone; its salts
 
@@ -790,7 +790,7 @@ Carbromal
 
 Carbutamide; its salts
 
-Carfecillin
+Carfecillin; its salts
 
 Carisoprodol
 
@@ -804,7 +804,7 @@ Cathine
 
 Cathinone
 
-Cephalosporins; its salts; its esters; their salts, that is to say, the antimicrobial substances containing in their chemical structure a fused dihydrothiazine β-lactam nucleus.
+Cephalosporins; its salts; its esters; their salts, that is to say, the antimicrobial substances containing in their chemical structure a fused dihydrothiazine β−lactam nucleus.
 
 Cefotaxime
 
@@ -840,7 +840,7 @@ Chlorcyclizine; its salts
 
 Chlordiazepoxide; its salts
 
-Chlormadinone
+Chlormadinone; its salts
 
 Chlormerodrine
 
@@ -860,7 +860,7 @@ Chlorphenoxamine; its salts
 
 Chlorphentermine; its salts
 
-Chlorpromazine
+Chlorpromazine; its salts
 
 Chlorpropamide; its salts
 
@@ -880,7 +880,7 @@ Chromomycin A; its salts; its esters; their salts
 
 Cimetidine; its salts
 
-Cinchocaine
+Cinchocaine; its salts
 
 Cinnarizine; its salts
 
@@ -900,9 +900,9 @@ Clindamycin; its salts; its esters; their salts
 
 Clobazam
 
-Clobetasol
+Clobetasol; its salts; its esters; their salts
 
-Clobetasone
+Clobetasone; its salts; its esters; their salts
 
 Clobutinol; its salts
 
@@ -914,7 +914,7 @@ Clomiphene; its salts
 
 Clomipramine; its salts
 
-Clomocycline
+Clomocycline; its salts
 
 Clonazepam
 
@@ -924,23 +924,23 @@ Clonitazine; its salts
 
 Clopamide
 
-Clopenthixol
+Clopenthixol; its salts
 
-Cloprostenol
+Cloprostenol; its salts
 
-Clorazepate
+Clorazepate; its salts
 
 Clorexolone
 
 Clorprenaline; its salts
 
-Clostebol
+Clostebol; its salts
 
 Clotrimazole
 
 Cloxacillin benzathine
 
-Cloxacillin
+Cloxacillin; its salts
 
 Cloxazolam
 
@@ -954,11 +954,11 @@ Codeine; its esters and ethers; its quarternary compounds; their salts
 
 Codoxime; its salts
 
-Colchicum, alkaloids of; their salts, their quarternary compound; their salts
+Colchicum; alkaloids of; their salts; their quarternary compound; their salts
 
 Colestipol; its salts
 
-Colimycin; its salts; its esters, their salts
+Colimycin; its salts; its esters; their salts
 
 Colistin; its salts
 
@@ -1030,15 +1030,15 @@ Debrisoquine; its salts
 
 Dehydroemetine; its salts
 
-Dehydroepiandrosterone
+Dehydroepiandrosterone; its salts
 
-Delmadinone
+Delmadinone; its salts
 
 Demecarium; its salts
 
 Demeclocycline; its salts; its esters; their salts
 
-Deoxycortone
+Deoxycortone; its salts
 
 Deptropine; its salts; its esters; their salts
 
@@ -1058,9 +1058,9 @@ Desonide
 
 Desoxymethasone
 
-Dexamethasone
+Dexamethasone; its salts; its esters; their salts
 
-Dexamphetamine
+Dexamphetamine; its salts
 
 Dexetimide; its salts
 
@@ -1080,7 +1080,7 @@ Diacetylmorphine; its salts
 
 Diacetylnalorphine; its salts
 
-Dinamines, the following: their salts phenylene diamines; tolylene diamines; other derivatives of benzene diamines
+Diamines, the following; their salts: phenylene diamines; tolylene diamines; other derivatives of benzene diamines
 
 Diamino-diphenylsulphones; their salts; their derivatives
 
@@ -1098,7 +1098,7 @@ Dichloralphenazone
 
 Dichlorophenarsine; its salts
 
-Dichlorphenamide
+Dichlorphenamide; its salts
 
 Diclofenac sodium
 
@@ -1114,9 +1114,9 @@ Diethylthiambutene; its salts
 
 N, N-Diethyltryptamine (DET)
 
-Difenoxin
+Difenoxin; its salts
 
-Diflucortolone
+Diflucortolone; its salts
 
 Diflunisal
 
@@ -1128,9 +1128,9 @@ Dihydrocodeine; its salts; its esters and ethers; their salts
 
 Dihydrocodeinone; its salts
 
-Dihydroergotamine
+Dihydroergotamine; its salts
 
-Dihydroergotoxine
+Dihydroergotoxine; its salts
 
 Dihydromorphine; its salts; its esters and ethers; their salts
 
@@ -1156,7 +1156,7 @@ Dimethisoquin; its salts
 
 Dimethisterone
 
-Dimethothiazine
+Dimethothiazine; its salts
 
 Dimethoxanate; its salts
 
@@ -1166,11 +1166,11 @@ Dimethoxanate; its salts
 
 2, 5-Dimethoxy-4-ethylamphetamine
 
-2-5-Dimethoxy-α, 4-dimethylphenethylamine; its salts
+2, 5-Dimethoxy-α, 4-dimethylphenethylamine; its salts
 
 Dimethpyrindene; its salts
 
-3-(1, 2-Dimethylheptyl)-1-hydroxy-7,8,9,10-tetrahydro-6,6,9-trimethyl-6 H dibenzo [b,d] pyran (DMHP)
+3-(1,2-Dimethylheptyl)-1-hydroxy-7,8,9,10-tetrahydro-6,6, 9-trimethyl-6 H dibenzo [b,d] pyran (DMHP)
 
 Dimethyl 4-sulphamoylphenyl phosphorothionate
 
@@ -1186,7 +1186,7 @@ Dinitronaphthols
 
 Dinitrothymols
 
-Dinoprost
+Dinoprost; its salts
 
 Dinoprostone
 
@@ -1232,7 +1232,7 @@ Doxylamine; its salts
 
 Droperidol
 
-Drostanolone
+Drostanolone; its salts
 
 Drotebanol
 
@@ -1268,7 +1268,7 @@ Eperisone; its salts
 
 Ephedra, alkaloids of, its quarternary compounds; their salts
 
-Epicillin
+Epicillin; its salts
 
 Epimestrol
 
@@ -1278,13 +1278,13 @@ Epirubicin; its salts
 
 Epithiazide
 
-Ergometrine
+Ergometrine; its salts
 
-Ergot, alkaloids of; whether hydrogenated or not; their homolgues; their quarternary compounds; their esters; their salts
+Ergot, alkaloids of; whether hydrogenated or not; their homologues; their quarternary compounds; their esters; their salts
 
-Ergotamine
+Ergotamine; its salts
 
-Ergotoxine
+Ergotoxine; its salts
 
 Erythrityl tetranitrate
 
@@ -1292,7 +1292,7 @@ Erythromycin; its salts; its esters; their salts
 
 Estazolam
 
-Estramustine
+Estramustine; its salts
 
 Etafedrine; its salts
 
@@ -1312,7 +1312,7 @@ Ethiazide
 
 Ethinamate
 
-Ethionamide
+Ethionamide; its salts
 
 Ethinyloestradiol
 
@@ -1322,7 +1322,7 @@ Ethoglucid
 
 Ethoheptazine; its salts
 
-Ethopropazine
+Ethopropazine; its salts
 
 Ethosuximide
 
@@ -1344,7 +1344,7 @@ Ethyloestranol
 
 Ethylstibamine
 
-Ethylnodiol
+Ethylnodiol; its salts
 
 Eticyclidine
 
@@ -1372,7 +1372,7 @@ Fenofibrate
 
 Fenoprofen; its salts
 
-Fenoterol
+Fenoterol; its salts
 
 Fenpipramide; its salts
 
@@ -1388,25 +1388,27 @@ Flavomycin; its salts; its esters; their salts
 
 Flavoxate; its salts
 
+Flecainide; its salts
+
 Fluanisone
 
-Fluclorolone
+Fluclorolone; its salts
 
-Flucloxacillin
+Flucloxacillin; its salts
 
 Flucytosine; its salts; its esters; their salts
 
 Fludiazepam
 
-Fludrocortisone
+Fludrocortisone; its salts; its esters; their salts
 
 Flufenamic acid; its salts; its esters; their salts
 
-Flugestone
+Flugestone, its salts; its esters; their salts
 
-Flumedroxone
+Flumedroxone; its salts; its esters; their salts
 
-Flumethasone
+Flumethasone; its salts; its esters; their salts
 
 Flumethiazide
 
@@ -1414,11 +1416,13 @@ Flunitrazepam
 
 Fluocinolone
 
+Fluocinolone acetonide
+
 Fluocinonide
 
-Fluocortolone
+Fluocortolone; its salts; its esters; their salts
 
-Fluopromazine
+Fluopromazine; its salts
 
 Fluoroacetamide
 
@@ -1432,19 +1436,19 @@ Fluothane
 
 Fluoxymesterone
 
-Flupenthixol
+Flupenthixol; its salts
 
-Fluperolone
+Fluperolone; its salts
 
-Fluprednidene
+Fluprednidene; its salts
 
-Fluprednisolone
+Fluprednisolone; its salts; its esters; their salts
 
 Fluprostenol; its salts
 
 Flurandrenolone
 
-Flurazepam
+Flurazepam; its salts
 
 Flurazolidone
 
@@ -1518,7 +1522,7 @@ Hachimycin; its salts; its esters; their salts
 
 Halcinonide
 
-Haloperidol and other 4-substituted derivatives of N-(3-p-fluorobenzoyl-propyl) piperidine
+Haloperidol and other 4-substituted derivatives of N-(3-p-fluorobenzoylpropyl) piperidine
 
 Haloprogin
 
@@ -1538,11 +1542,11 @@ Hexamethonium; its salts
 
 Hexapropymate
 
-Hexobarbitone
+Hexobarbitone; its salts
 
-Hexoestrol
+Hexoestrol; its salts
 
-3-Hexyl-l-hydroxy-7,8,9,10-tetrahydro-6,6,9-trimethyl-6H-dibenzo [b,d] pyran (parahexy)
+3-Hexyl-1-hydroxy-7,8,9,10-tetrahydro-6,6,9-trimethyl-6H-dibenzo [b,d,] pyran (parahexy)
 
 Homatropine; its quarternary compound, their salts
 
@@ -1558,11 +1562,11 @@ Hydrochlorothiazide
 
 Hydrocodone; its salts
 
-Hydrocortisone
+Hydrocortisone; its salts; its esters and ethers; their salts
 
 Hydromorphinol; its salts; its esters and ethers; their salts
 
-Hydromorphone; its salts, its esters and ethers; their salts
+Hydromorphone; its salts; its esters and ethers; their salts
 
 Hydroxycinchoninic acids; derivatives of; their salts, their esters
 
@@ -1570,7 +1574,7 @@ Hydroxy-N, N-dimethyltryptamines; their esters or ethers; any salt of any substa
 
 Hydroxypethidine; its salts; its esters and ethers; their salts
 
-Hydroxyprogesterone
+Hydroxyprogesterone; its salts; its esters and ethers; their salts
 
 Hydroxyquinoline; its salts; its derivatives; their salts
 
@@ -1628,7 +1632,7 @@ Isopropamide; its salts
 
 Isopyrin
 
-Isothpendyl; its salts
+Isothipendyl; its salts
 
 Isoxicam
 
@@ -1650,13 +1654,15 @@ Ketoprofen
 
 Khellin
 
-Labetalol; its salts Laudexium; its salts
+Labetalol; its salts
+
+Laudexium; its salts
 
 Lead acetate; compounds of lead with acids from fixed oils
 
 Lefetamine
 
-Levamphetamine
+Levamphetamine; its salts
 
 Levodopa
 
@@ -1666,7 +1672,7 @@ Levomethorphan; its salts
 
 Levomoramide; its salts
 
-Levophenacylmorphan; its salts, its esters and ethers; their salts
+Levophenacylmorphan; its salts; its esters and ethers; their salts
 
 Levorphanol; its salts; its esters and ethers; their salts
 
@@ -1674,7 +1680,7 @@ Lidoflazine
 
 Lignocaine; its salts
 
-Lincomycin; its salts; its esters; their salts; that is to say, the S-alkyl derivatives of 6,8-dideoxy-6-trans-(4-alkyl-L-2-pyrrolidine carboxa-mido)-1-thio-D-erythro-α-D-galacto-octopy-ranoside and N-methyl-pyrrolidine analogues thereof.
+Lincomycin; its salts; its esters; their salts; that is to say, the S-alkyl derivatives of 6,8-dideoxy-6-trans-(4-alkyl- L-2-pyrrolidine carboxamido)-1-thio-D-erythro-α−D-galacto-octopy-ranoside and N-methylpyrrolidine analogues thereof.
 
 Lithium carbonate
 
@@ -1682,7 +1688,7 @@ Liothyronine sodium
 
 Lobelia, alkaloids of; its quarternary compounds; their salts
 
-Lofepramine
+Lofepramine; its salts
 
 Lonazolac; its salts
 
@@ -1708,7 +1714,7 @@ Lysergamide
 
 Lysuride; its salts; its esters
 
-Mafenide
+Mafenide; its salts
 
 Mannityl hexanitrate
 
@@ -1744,7 +1750,7 @@ Medazepam
 
 Medigoxin
 
-Medroxyprogesterone
+Medroxyprogesterone; its salts; its esters and ethers; their salts
 
 Mefenamic acid; its salts; its esters; their salts
 
@@ -1752,9 +1758,9 @@ Mefenorex
 
 Mefruside
 
-Megestrol
+Megestrol; its salts
 
-Melengestrol
+Melengestrol; its salts
 
 Melphalan
 
@@ -1764,9 +1770,9 @@ Mepenzolate; its salts
 
 Mephenesin; its esters
 
-Mephentermine
+Mephentermine; its salts
 
-Mepivacaine
+Mepivacaine; its salts
 
 Meprobamate
 
@@ -1776,11 +1782,7 @@ Mequitazine
 
 Mercaptopurine; its salts; derivatives of mercaptopurine; their salts
 
-Mercury, oxides of; mercurous chloride; organic compounds of mercury which contain a methyl (CH
-
-3
-
-) group directly linked to the mercury atom; which are intended for the treatment of human ailments
+Mercury, oxides of; mercuruos chloride; organic compounds of mercury which contain a methyl (CH3) group directly linked to the mercury atom; which are intended for the treatment of human ailments
 
 Mescaline, and other derivatives of phenethylamine formed by substitution in the aromatic ring; their salts
 
@@ -1822,11 +1824,11 @@ Methaqualone; its salts
 
 Metharbitone
 
-Methdilazine
+Methdilazine; its salts
 
-Methenolone
+Methenolone; its salts
 
-Methicillin
+Methicillin; its salts
 
 Methimazole
 
@@ -1834,7 +1836,7 @@ Methixene; its salts
 
 Methocarbamol
 
-Methohexitone
+Methohexitone; its salts
 
 Methoin
 
@@ -1842,7 +1844,7 @@ Methoserpidine
 
 Methotrexate; its salts
 
-Methotrimeprazine
+Methotrimeprazine; its salts
 
 Methoxamine; its salts
 
@@ -1858,7 +1860,7 @@ Methyclothiazide
 
 Methylaminoheptane; its salts
 
-Methylamphetamine
+Methylamphetamine; its salts
 
 Methyldesorphine; its salts; its esters and ethers; their salts
 
@@ -1874,7 +1876,7 @@ Methyldopate; its salts
 
 Methylephedrine; its salts
 
-Methylergometrine
+Methylergometrine; its salts
 
 3-Methylfentanyl and its isomeric forms
 
@@ -1882,9 +1884,9 @@ Methylergometrine
 
 Methylpentynol; its esters and other derivatives
 
-α- Methylphenethylamine, β-methylphenethylamine and
+α-Methylphenethylamine, β-methylphenethylamine and
 
-α- ethylphenethylamine; any synthetic compound structurally derived from any of those substances by substitution in the aliphatic part or by ring closure therein (or by both such substitution and such closure) or by substitution in the aromatic ring (with or without substitution at the nitrogen atom), except ephedrine, its optical isomers and N-substituted derivatives, fenfluramine, hydroxyamphetamine, methoxy-phenamine, phenylpropanolamine, pholedrine and prenylamine; any salt of any substance falling within this item.
+α-ethylphenethylamine; any synthetic compound structurally derived from any of those substances by substitution in the aliphatic part or by ring closure therein (or by both such substitution and such closure) or by substitution in the aromatic ring (with or without substitution at the nitrogen atom), except ephedrine, its optical isomers and N-substituted derivatives, fenfluramine, hydroxyamphetamine, methoxy-phenamine, phenylpropanolamine, pholedrine and prenylamine; any salt of any substance falling within this item.
 
 Methylphenidate; its salts
 
@@ -1894,7 +1896,7 @@ Methylphenobarbitone
 
 1-Methyl-4-Phenyl-4-piperidinol propionate (MPPP)
 
-Methylprednisolone
+Methylprednisolone; its salts
 
 Methylsulphonal
 
@@ -1904,7 +1906,7 @@ Methylthiouracil
 
 Methyprylone; its salts
 
-Methysergide
+Methysergide; its salts
 
 Metipranolol; its salts
 
@@ -1938,7 +1940,7 @@ Mitomycins; its salts; its esters; their salts
 
 Mitopodozide; its salts
 
-Mitoxantrone
+Mitoxantrone; its salts
 
 Molindone; its salts
 
@@ -1964,9 +1966,9 @@ Myrophine; its salts
 
 Nadolol
 
-Naftifine; its salts
-
 Naftidrofuryl; its salts
+
+Naftifine; its salts
 
 Nalidixic acid; its salts; its esters and salts of such esters
 
@@ -1974,11 +1976,11 @@ Nalorphine; its salts
 
 Naloxone; its salts
 
-Nandrolone
+Nandrolone; its salts; its esters and ethers; their salts
 
 Naphazoline; its salts; when in eye preparations
 
-Naproxen
+Naproxen; its salts
 
 Natamycin; its salts; its esters; their salts
 
@@ -1986,7 +1988,7 @@ Nealbarbitone
 
 Nefopam; its salts
 
-Neoarsphenamine
+Neoarsphenamine; its salts
 
 Neomycin; its salts; its esters; their salts
 
@@ -2018,7 +2020,7 @@ Niridazole
 
 Nitrazepam
 
-Nitrofurantoin
+Nitrofurantoin; its salts
 
 Nitrofurazone
 
@@ -2036,7 +2038,7 @@ Noracymethadol; its salts
 
 Noradrenaline; its salts
 
-Noramidopyrine; its salts; noramidopyrine sulphate; their salts
+Noramidopyrine; its salts; noramidopyrine sulphonates; their salts
 
 Norcodeine; its salts; its esters and ethers; their salts
 
@@ -2044,7 +2046,7 @@ Nordazepam
 
 Norethandrolone
 
-Norethisterone
+Norethisterone; its salts; its esters and ethers; their salts
 
 Norethynodrel
 
@@ -2070,9 +2072,9 @@ Nystatin; its salts; its esters; their salts
 
 Octacosactrin
 
-Oestradiol
+Oestradiol; its salts; its esters and ethers; their salts
 
-Oestriol
+Oestriol; its salts; its esters and ethers; their salts
 
 Oestrogenic substances, conjugated
 
@@ -2080,7 +2082,7 @@ Oestrone
 
 Oleandomycin; its salts; its esters; their salts
 
-Opipramol; its salts;
+Opipramol; its salts
 
 Opium
 
@@ -2096,7 +2098,7 @@ Oxamniquine
 
 Oxandrolone
 
-Oxazepam
+Oxazepam; its salts
 
 Oxazolam
 
@@ -2114,15 +2116,15 @@ Oxpentifylline
 
 Oxprenolol; its salts
 
-Oxybuprocaine
+Oxybuprocaine; its salts
 
 Oxybutynin; its salts
 
-Oxycodone; its salts; its esters and ethers, their salts
+Oxycodone; its salts; its esters and ethers; their salts
 
 Oxymesterone
 
-Oxymetholone
+Oxymetholone; its salts
 
 Oxymorphone; its salts; its esters and ethers; their salts
 
@@ -2136,7 +2138,7 @@ Oxyphenonium; its salts
 
 Oxytetracycline; its salts; its esters; their salts
 
-Oxytocins, natural and synthetic
+Oxytocins; natural and synthetic
 
 Pancuronium; its salts
 
@@ -2146,7 +2148,7 @@ Paraldehyde
 
 Paramethadione
 
-Paramethasone
+Paramethasone; its salts; its esters and ethers; their salts
 
 Paramethoxyamphetamine
 
@@ -2162,13 +2164,13 @@ Pempidine; its salts
 
 Penamecillin
 
-Penethamate
+Penethamate; its salts
 
 Penicillamine; its salts
 
 Penicillin, any antimicrobial acid, any salt thereof, or any derivative which is obtained therefrom, which may be shown on chemical and physical examination to contain in its structure a fused thiazolidine β-lactam nucleus; their esters; their salts
 
-Penicillin V
+Penicillin V; its salts; its esters; their salts
 
 Pentaerythritol tetranitrate
 
@@ -2186,11 +2188,11 @@ Perhexiline; its salts
 
 Pericyazine
 
-Perphenazine
+Perphenazine; its salts
 
 Pethidine; its salts
 
-Phenacaine
+Phenacaine; its salts
 
 Phenacemide
 
@@ -2214,7 +2216,7 @@ Phendimetrazine; its salts
 
 Phenelzine; its salts
 
-Phenethicillin
+Phenethicillin; its salts; its esters; their salts
 
 1-Phenethyl-4-phenyl-4-piperidinol acetate (PEPAP)
 
@@ -2234,7 +2236,7 @@ Phenmetrazine; its salts
 
 Pheniramine; its salts
 
-Phenobarbitone
+Phenobarbitone; its salts
 
 Phenols which are intended for the treatment of human ailments
 
@@ -2246,7 +2248,7 @@ Phenothiazine, derivatives of; their esters; their salts and its molecular compo
 
 Phenoxybenzamine; its salts
 
-Phenoxymethylpenicillin
+Phenoxymethylpenicillin; its salts; its esters; their salts
 
 Phenoxypropazine; its salts
 
@@ -2278,11 +2280,9 @@ Phenytoin; its salts
 
 Pholcodine; its salts; its esters and ethers; their salts
 
-Phosphorus, yellow
-
 Phthalylsulphacetamide
 
-Phthalylsulphathiazole
+Phthalylsulphathiazole; its salts
 
 Physostigmine; its salts
 
@@ -2304,7 +2304,7 @@ Piperazine oestrone sulphate
 
 Piperidolate; its salts
 
-Pipothiazine
+Pipothiazine; its salts
 
 Pipradrol; its salts; its esters and ethers
 
@@ -2320,7 +2320,7 @@ Pirprofen
 
 Pituitary gland, the active principles of
 
-Pivamecillinam
+Pivamecillinam; its salts
 
 Pizotifen; its salts
 
@@ -2336,7 +2336,7 @@ Polymethylenebistrimethylammonium salts
 
 Polymyxins; its salts; its esters; their salts
 
-Polyoestradiol
+Polyoestradiol; its salts; its esters and ethers; their salts
 
 Polythiazide
 
@@ -2352,13 +2352,13 @@ Prazepam
 
 Prazosin; its salts
 
-Prednisolone
+Prednisolone; its salts; its esters and ethers; their salts
 
-Prednisone
+Prednisone; its salts; its esters and ethers; their salts
 
 Prenylamine; its salts
 
-Prilocaine
+Prilocaine; its salts
 
 Primidone
 
@@ -2370,7 +2370,7 @@ Probucol
 
 Procainamide; its salts
 
-Procaine
+Procaine; its salts
 
 Procaine penicillin
 
@@ -2378,19 +2378,19 @@ Procarbazine; its salts
 
 Procaterol; its salts
 
-Prochlorperazine
+Prochlorperazine; its salts
 
 Procyclidine; its salts
 
 Profafenone; its salts
 
-Progesterone
+Progesterone; its salts; its esters and ethers; their salts
 
 Proheptazine; its salts
 
 Prolintane; its salts
 
-Promazine
+Promazine; its salts
 
 Promethazine; its salts
 
@@ -2404,9 +2404,9 @@ Propantheline bromide
 
 Properidine; its salts
 
-Propicillin
+Propicillin; its salts
 
-Propiomazine
+Propiomazine; its salts
 
 Propiram; its salts
 
@@ -2418,9 +2418,9 @@ Propylhexedrine; its salts
 
 Propylthiouracil
 
-Propyromazine
+Propyromazine; its salts
 
-Proquamezine
+Proquamezine; its salts
 
 Proquazone
 
@@ -2434,7 +2434,7 @@ Prothipendyl; its salts
 
 Protriptyline; its salts
 
-Proxymetacaine
+Proxymetacaine; its salts
 
 Psilocin; its salts; its esters and ethers; their salts
 
@@ -2456,7 +2456,7 @@ Pyrrobutamine; its salts
 
 Quebracho alkaloids of, except the alkaloids of red quebracho; its quarternary compound; their salts
 
-Quinalbarbitone
+Quinalbarbitone; its salts
 
 Quinestradol
 
@@ -2480,7 +2480,7 @@ Rafoxanide
 
 Ranitidine; its salts
 
-Rauwolfia, alkaloid of; their quarternary compounds; derivatives of alkaloids of rauwolfia; their salts
+Rauwolfia, alkaloids of; their quarternary compounds; derivatives of alkaloids of rauwolfia; their salts
 
 Razoxane
 
@@ -2490,11 +2490,11 @@ Reserpine
 
 13-cis Retinoic Acid
 
-Rifamide
+Rifamide; its salts
 
 Rifampicin
 
-Rifamycins; its salts; its esters; their salts; that is to say, a group of related antimicrobial microlactans, either produced by the growth of streptomyces mediterranei or by modification of such products, and containing the chemical structure of 11-acetoxy-7,9,15-trihydroxy-13-methoxy-2, 6, 8, 10, 12-pentamethyl-pentadeca-2,4,14,tri-enoic acid amide, attached by the nitrogen atom and by the oxygen atom in the 15 position respectively to the 7 and 2-positions of a 5,6, 9-trioxygenated 2, 4-dimethyl-1-oxonaphtho (2,1b) furan
+Rifamycins; its salts; its esters; their salts; that is to say, a group of related antimicrobial microlactans, either produced by the growth of streptomyces mediterranei or by modification of such products, and containing the chemical structure of 11-acetoxy-7,9,15-trihydroxy-13-methoxy-2, 6, 8, 10, 12-pentamethyl-pentadeca-2,4,14, tri-enoic acid amide, attached by the nitrogen atom and by the oxygen atom in the 15 position respectively to the 7 and 2-positions of a 5,6, 9-trioxygenated 2, 4-dimethyl-1-oxonaphtho (2,1b) furan
 
 Rimiterol; its salts
 
@@ -2502,7 +2502,7 @@ Ristocetins; its salts; its esters; their salts
 
 Rolicyclidine
 
-Rolitetracycline
+Rolitetracycline; its salts; its esters; their salts
 
 Rosoxacin
 
@@ -2518,7 +2518,7 @@ Santonin
 
 Savin, oil of
 
-Secbutobarbitone
+Secbutobarbitone; its salts
 
 Selenium sulphide
 
@@ -2530,7 +2530,7 @@ Sodium apolate
 
 Sodium cromoglycate
 
-Sodium fluoride; which are intended for the treatment of human ailments
+Sodium flouride; which are intended for the treatment of human ailments
 
 Sodium valproate
 
@@ -2552,7 +2552,7 @@ Stanozolol
 
 Stavesacre, alkaloids of; its quarternary compounds; their salts
 
-Stilboestrol
+Stilboestrol; its salts; its esters and ethers; their salts
 
 Streptokinase
 
@@ -2572,19 +2572,19 @@ Sulindac
 
 Sulphabromomethazine
 
-Sulphacetamide
+Sulphacetamide; its salts
 
 Sulphachlorpyridazine
 
 Sulfacytine
 
-Sulphadiazine
+Sulphadiazine; its salts
 
 Sulpadicramide
 
 Sulphadimethoxine
 
-Sulphadimidine
+Sulphadimidine; its salts
 
 Sulphadoxine
 
@@ -2598,7 +2598,7 @@ Sulphaguanidine
 
 Sulphaloxic acid
 
-Sulphamerazine
+Sulphamerazine; its salts
 
 Sulphamethazine
 
@@ -2630,7 +2630,7 @@ Sulphasalazine
 
 Sulphasomidine
 
-Sulphathiazole
+Sulphathiazole; its salts
 
 Sulphathiourea
 
@@ -2660,11 +2660,11 @@ Syrosingopine
 
 Tacrine; its salts
 
-Talampicillin
+Talampicillin; its salts
 
 Tamoxifen; its salts
 
-Teclothiazide
+Teclothiazide; its salts
 
 Temazepam
 
@@ -2672,7 +2672,7 @@ Terbutaline; its salts
 
 Terfenadine
 
-Testosterone
+Testosterone; its salts; its esters and ethers; their salts
 
 Tetrabenazine; its salts
 
@@ -2702,7 +2702,7 @@ Theophylline; its salts; its derivatives; its compounds
 
 Thiacetazone
 
-Thialbarbitone
+Thialbarbitone; its salts
 
 Thiambutosine
 
@@ -2710,23 +2710,23 @@ Thiamphenicol; its salts; its esters; their salts
 
 Thiazinamium methylsulphate
 
-Thiethylperazine
+Thiethylperazine; its salts
 
 Thiocarlide; its salts
 
-Thioguanine
+Thioguanine; its salts
 
-Thiopentone
+Thiopentone; its salts
 
-Thiopropazate
+Thiopropazate; its salts
 
 Thioproperazine
 
-Thioridazine
+Thioridazine; its salts
 
 Thiotepa; its salts
 
-Thiothixene
+Thiothixene; its salts
 
 Thiouracil; its alkyl derivatives
 
@@ -2736,11 +2736,11 @@ Thyroid gland, the active principles of; their salts
 
 Thyrotrophin
 
-Thyroxine
+Thyroxine; its salts
 
 Tigloidine; its salts
 
-Tilidine
+Tilidine; its salts
 
 Timolol; its salts
 
@@ -2774,9 +2774,9 @@ Tretamine; its salts
 
 Triacetyloleandomycin
 
-Triamcinolone
+Triamcinolone; its salts
 
-Triamterene
+Triamterene; its salts
 
 Triaziquone
 
@@ -2794,19 +2794,19 @@ Tricyclamol; its salts
 
 Trienbolone
 
-Trifluoperazine
+Trifluoperazine; its salts
 
-Trifluperidol
+Trifluperidol; its salts
 
 Trimebutine; its salts
 
 Trimeperidine; its salts
 
-Trimeprazine
+Trimeprazine; its salts
 
 Trimetaphan; its salts
 
-Trimetazidine; its salts
+Trimetadizine; its salts
 
 Trimethoprim
 
@@ -2814,7 +2814,7 @@ Trimethoprim
 
 Trimipramine; its salts
 
-Trimustine
+Trimustine; its salts
 
 Tripelennamine; its salts
 
@@ -2838,7 +2838,7 @@ Ubidecarenone
 
 Uramustine
 
-Urapidil
+Urapidil; its salts
 
 Ureamycin; its salts; its esters; their salts
 
@@ -2856,7 +2856,7 @@ Vasopressins, natural and synthetic
 
 Verapamil; its salts
 
-Veratrum, alkaloids of; its quarternary compounds, their salts
+Veratrum; alkaloids of; its quarternary compounds, their salts
 
 Vidarabine
 
@@ -2886,19 +2886,17 @@ Zoxazolamine; its salts
 
 Part II
 
-Acetic Acid
+Acetic acid
 
 Acrolein
 
-Aldicarb
-
-Aluminium phosphide
-
 Ammonia
 
-Ammonium Chlorate
+Ammonium chlorate
 
 Ammonium perchlorate
+
+Anionic surface active agents
 
 Antimony pentachloride
 
@@ -2906,17 +2904,19 @@ Arsenical substances, the following:
 
 Arsenic sulphides
 
-Arsenious oxide
+Arsenic trichloride
+
+Arsine
 
 Calcium arsenites
-
-Copper acetoarsenite
 
 Copper arsenates
 
 Copper arsenites
 
 Lead arsenates
+
+Organic compounds of arsenic
 
 Oxides of arsenic
 
@@ -2928,11 +2928,9 @@ Sodium arsenites
 
 Sodium thioarsenates
 
-Arsine
-
-Arsenic trichloride
-
 Benzene
+
+Boric acid; sodium borate; which are not in medicinal peparations, cosmetics, toilet preparations and substances being preparations intended for human consumption
 
 Boron trichloride
 
@@ -2940,7 +2938,19 @@ Boron trifluoride
 
 Bromine; Bromine solutions
 
-Carbon Disulphide
+Carbamates, excepting —
+
+Benomyl
+
+Carbendazim
+
+Chlorpropham
+
+Propham
+
+Thiophanate-methyl
+
+Carbon disulphide
 
 Carbon tetrafluoride
 
@@ -3018,15 +3028,47 @@ Allied chlorinated hydrocarbon compounds used as pesticides (insecticides, acari
 
 Chlorine
 
-Chlorophenols; their salts
+Chlorobenzenes, the following:
+
+Monochlorobenzene
+
+Meta-dichlorobenzene
+
+Ortho-dichlorobenzene
+
+Trichlorobenzene
+
+Tetrachlorobenzene
+
+Pentachlorobenzene
+
+Chlorophenols; the following:
+
+Monochlorophenol
+
+Dichlorophenol
+
+Trichlorophenol
+
+Tetrachlorophenol
+
+Pentachlorophenol and their salts
+
+Chlorophenoxyacids; their salts, esters, amines
 
 Chloropicrin
+
+Chlorosulphonic acid
 
 Cyanides, except ferrocyanides and ferricyanides
 
 Diborane
 
-Dichloro silane
+Dibromochloropropane
+
+Dichlorosilane
+
+Diethyl sulphate
 
 Dinitrocresols (DNOC); their compounds with a metal or a base
 
@@ -3042,15 +3084,17 @@ Endothal; its salts
 
 Epichlorohydrin
 
+Ethylene dibromide
+
 Ethylene imine
 
 Ethylene oxide
 
 Ethyl mercaptan
 
-Formaldehyde
+Ferric chloride
 
-Formetanate
+Formaldehyde
 
 Formic acid
 
@@ -3062,9 +3106,7 @@ Hydrochloric acid
 
 Hydrofluoric acid; alkali metal bifluorides; ammonium bifluoride; potassium fluoride; potassium silicofluoride; silicofluric acid; sodium fluoride; sodium silicofluoride
 
-Hydrogen chloride, anhydrous
-
-Hydrogen chloride, liquid (refrigerated)
+Hydrogen chloride, all forms
 
 Hydrogen cyanide
 
@@ -3080,9 +3122,9 @@ Mercuric chloride; mercuric iodide; organic compounds of mecury
 
 Metanil yellow (sodium salt of metanilylazo-diphenylamine)
 
-Methomyl
-
 Methyl bromide
+
+Methyl chloride
 
 Methyl mercaptan
 
@@ -3110,11 +3152,25 @@ compounds of fentin
 
 Paraquat; salts of
 
-Phenols (any member of the series of phenols of which the first member is phenol and of which the molecular composition varies from member to member by one atom of carbon and two atoms of hydrogen); compounds of phenol with a metal; except those which are intended for the treatment of human ailments
-
 Perchloro methyl mercaptan
 
+Phenols (any substance which contains a hydroxyl group attached directly to an aromatic ring) except those which are intended for the treatment of human ailments, the following:
+
+Phenol
+
+Cresol
+
+Octyl phenol
+
+Catechol
+
+Resorcinol
+
+Hydroquinone
+
 Phosgene
+
+Phosphides
 
 Phosphine
 
@@ -3132,29 +3188,21 @@ PO
 
 by substitution of any of the hydrogen or oxygen atoms and used as pesticides (insecticides, acaricides, etc.) excepting —
 
+acephate
+
 bromophos
 
-bromophos-ethyl
-
-2-chloro-1-(2,4,5-trichlorophenyl) vinyldimethyl phosphate
-
-diazinon
-
-dimethoate
-
-dipterex
-
-fenchlorphos
-
-fenitrothion
-
-fenthion
+iodofenphos
 
 malathion
 
 pirimiphos-methyl
 
-0,0,0’,0’-tetramethyl 0, 0’-thiodi-p-phenylene phosphorothioate
+temephos
+
+tetrachlorvinphos
+
+trichlorfon
 
 Phosphorus oxychloride
 
@@ -3194,13 +3242,13 @@ Thallium, salts of
 
 Vinyl chloride monomer
 
-Zinc phosphide
-
 [S 279/83; S 205/85; S 342/85; S 211/86]
 
 [S 40/1988 wef 26/02/1988]
 
 [S 82/1988 wef 11/04/1988]
+
+[S 16/1989 wef 13/01/1989]
 
 ## LEGISLATIVE HISTORY
 
@@ -3334,3 +3382,5 @@ This Legislative History is provided for the convenience of users of the Poisons
 ||Date of commencement|26 February 1988|
 |48.|**G. N. No. S 82/1988—Poisons Act (Amendment of Schedule No. 2) Notification 1988**|
 ||Date of commencement|11 April 1988|
+|49.|**G. N. No. S 16/1989—Poisons Act (Amendment of Schedule) Notification 1989**|
+||Date of commencement|13 January 1989|
