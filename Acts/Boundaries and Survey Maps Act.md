@@ -24,13 +24,25 @@
 
 - [7 Co-ordinated cadastre](#Co-ordinated-cadastre)
 
-- [8 Notice to secure attendance for certain purposes](#Notice-to-secure-attendance-for-certain-purposes)
+- [8 (Repealed)](#Repealed)
 
 - [9 Notice to clear boundary line](#Notice-to-clear-boundary-line)
 
 - [10 Replacement or repair of boundary mark or survey control mark](#Replacement-or-repair-of-boundary-mark-or-survey-control-mark)
 
 - [11 Penalty for obliteration of boundary mark or survey control mark](#Penalty-for-obliteration-of-boundary-mark-or-survey-control-mark)
+
+[**Part IIA CONDUCT OF CADASTRAL SURVEYS**](#Part-IIA)
+
+- [11A Powers of entry for survey purposes](#Powers-of-entry-for-survey-purposes)
+
+- [11B Inspection of Authority’s survey maps, plans or survey records](#Inspection-of-Authority’s-survey-maps-plans-or-survey-records)
+
+- [11C Deposit of survey plans and survey documents](#Deposit-of-survey-plans-and-survey-documents)
+
+- [11D Approval of cadastral surveys and assurance plans](#Approval-of-cadastral-surveys-and-assurance-plans)
+
+- [11E Correction of errors](#Correction-of-errors)
 
 [**Part III SURVEY MAP**](#Part-III)
 
@@ -80,6 +92,14 @@ PRELIMINARY
 
 “approved co-ordinates” means co-ordinates approved by the Chief Surveyor or approved under section 7(c) which are capable of describing and ascertaining the boundaries of any land in relation to survey control marks;
 
+“assurance plan” means any plan showing approximate boundaries or dimensions and areas for the purpose of identifying land which has not been surveyed to the satisfaction of the Chief Surveyor but is required to be surveyed under the provisions of any written law;
+
+[37/2004 wef 31/03/2005]
+
+“authorised surveyor” means a surveyor who is employed by the Authority, whether or not registered under section 12 of the Land Surveyors Act (Cap. 156);
+
+[37/2004 wef 31/03/2005]
+
 “Authority” means the Singapore Land Authority established under the Singapore Land Authority Act 2001;
 
 [17/2001 wef 01/06/2001]
@@ -104,15 +124,39 @@ PRELIMINARY
 
 (e) any estate or interest in land;
 
+“licence” means a licence to supply survey services in Singapore granted under section 22 of the Land Surveyors Act (Cap. 156);
+
+[37/2004 wef 31/03/2005]
+
+“manager”, in relation to a corporation or partnership, means the principal executive officer of the corporation or partnership for the time being by whatever name called and whether or not he is a director or partner thereof;
+
+[37/2004 wef 31/03/2005]
+
 “owner”, in relation to any parcel of land, means the person for the time being receiving the rent of the land, whether on his own account or as agent or trustee or who would receive the rent if the land were let to a tenant;
+
+“practising certificate” means an annual practising certificate issued under section 15 of the Land Surveyors Act authorising the holder thereof to engage in survey work in Singapore;
+
+[37/2004 wef 31/03/2005]
 
 “registered surveyor” means a surveyor registered under the Land Surveyors Act (Cap. 156);
 
 “repealed Act” means the Boundaries and Survey Maps Act (Cap. 25, 1985 Ed.) in force immediately before 16th October 1998;
 
+“strata title plan” has the same meaning as in the Land Titles (Strata) Act (Cap. 158);
+
+[37/2004 wef 31/03/2005]
+
 “survey control mark” means any survey mark placed under the supervision of the Chief Surveyor the horizontal position or height of which is determined;
 
-“survey officer” means any person authorised by the Chief Surveyor to carry out a cadastral survey for any parcel of land.
+“survey officer” means any person authorised by the Chief Surveyor to carry out a cadastral survey for any parcel of land;
+
+“survey plan” includes a strata title plan;
+
+[37/2004 wef 31/03/2005]
+
+“survey work” has the same meaning as in the Land Surveyors Act.
+
+[37/2004 wef 31/03/2005]
 
 (2) In this Act, any reference to a plan shall, unless the context otherwise requires, include a reference to a plan in electronic form.
 
@@ -200,37 +244,25 @@ SURVEY
 
 (b) declare, by notice in theGazette, specified areas to be designated survey areas, being areas of land in respect of which cadastral surveys must be carried out by reference to survey control marks in accordance with survey instructions under this Act, and for which co-ordinates must be determined in accordance with those instructions;
 
-(c) approve and record the co-ordinates of the boundaries of land within each designated area as determined by surveys carried out in the area (whether before or after the declaration of the area as designated survey area), convert the co-ordinates recorded in relation to those parcels of land within the area and make any necessary adjustments to the recorded co-ordinates; and
+(c) approve and record the co-ordinates of the boundaries of land within each designated area as determined by surveys carried out in the area (whether before or after the declaration of the area as designated survey area), convert the co-ordinates recorded in relation to those parcels of land within the area and make any necessary adjustments to the recorded co-ordinates;
 
-(d) where the co-ordinates for all parcels of land within a designated survey area have been so approved, recorded, converted and adjusted, declare, by notice in theGazette, that area to be within the co-ordinated cadastre.
+(d) where the co-ordinates for all parcels of land within a designated survey area have been so approved, recorded, converted and adjusted, declare, by notice in theGazette, that area to be within the co-ordinated cadastre;
 
-### Notice to secure attendance for certain purposes
+(e) generate, from the co-ordinated cadastre, maps for any area of land within the co-ordinated cadastre; and
 
-8\.—(1) A survey officer may cause a notice to be served on any person owning, occupying or found on any parcel of land which is the subject of a cadastral survey and any land adjacent to the parcel of land calling upon that person to attend before him, at a time and place to be stated in the notice, for the purpose of —
+[37/2004 wef 31/03/2005]
 
-(a) pointing out the boundaries of the parcel of land;
+(f) where the co-ordinates for all parcels of land in Singapore have been declared to be within the co-ordinated cadastre under paragraph (d), declare, by notice in theGazette, that the maps generated from the co-ordinated cadastre shall supersede all maps published under the repealed Act.
 
-(b) rendering aid in emplacing or repairing boundary marks; and
+[37/2004 wef 31/03/2005]
 
-(c) affording other information or assistance for the purpose of the survey.
-
-(2) A survey officer who reasonably believes that any person —
-
-(a) can give any information respecting the boundaries of any land which is the subject of a cadastral survey; or
-
-(b) has in his custody or under his control any document relating to the boundaries of any land,
-
-may serve on that person a notice calling upon him to attend before the survey officer at a time and place to be stated in the notice for the purpose of giving the information or producing the document, as the case may be.
-
-(3) Any person who fails, without reasonable excuse, to comply with any requirement of a notice served on him under subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
+8\. [Repealed by Act 37/2004 wef 31/03/2005]
 
 ### Notice to clear boundary line
 
-9\.—(1) A survey officer may cause a notice to be served on any person who is the owner of or has an interest in any land which is the subject of a cadastral survey calling upon that person —
+9\.—(1) A survey officer may cause a notice to be served on any person who is the owner of or has an interest in any land which is the subject of a cadastral survey calling upon that person to clear any boundary line of the land.
 
-(a) to clear any boundary line of the land; or
-
-(b) to cut any line which may be necessary for the purposes of the survey.
+[37/2004 wef 31/03/2005]
 
 (2) Where a person fails to carry out work which he is required to carry out by a notice served on him by a survey officer under subsection (1) —
 
@@ -258,17 +290,109 @@ may serve on that person a notice calling upon him to attend before the survey o
 
 (3) If any person committing an offence under this section cannot be found, the Chief Surveyor may give directions for the replacement or repair of any boundary mark or survey control mark, and may order the cost thereof to be paid by the owners of the adjacent lands in such proportion as appears to the Chief Surveyor to be proper.
 
+## PART IIA
+
+CONDUCT OF CADASTRAL SURVEYS
+
+[37/2004 wef 31/03/2005]
+
+### Powers of entry for survey purposes
+
+11A\.—(1) For the purposes of conducting any cadastral survey or installing any boundary or survey mark under this Act or any other written law, the Chief Surveyor may authorise, either generally or specially and subject to such conditions as the Chief Surveyor may impose, any registered surveyor who has in force a practising certificate or any assistant employed by the registered surveyor —
+
+(a) to enter and re-enter any land, seabed, foreshore or building at any reasonable time during the hours of daylight, with such workmen, aircraft, boats, vehicles, appliances, machinery and equipment as may be reasonably necessary to conduct the survey or to install the boundary or survey mark;
+
+(b) to emplace any boundary or survey mark in or upon such lands and premises and to dig up any ground for the purpose of emplacing the boundary or survey mark; and
+
+(c) to cut down and remove any tree or other growth which may obstruct any survey line or any boundary.
+
+(2) Before exercising any of the powers conferred by subsection (1) in respect of any land that is not a road, the person doing so shall, where practicable, give reasonable notice to the occupier of the land of the intention to exercise those powers.
+
+(3) Any person exercising any power under subsection (1) shall produce evidence of his identity and authority to exercise those powers —
+
+(a) if practicable, on first entering the land or premises; and
+
+(b) whenever subsequently reasonably requested to do so.
+
+(4) Nothing in this section shall exempt any registered surveyor or his assistant or workman from liability for any damage caused in the exercise of the powers conferred by subsection (1).
+
+### Inspection of Authority’s survey maps, plans or survey records
+
+11B\.—(1) For the purpose of obtaining data for a cadastral survey, the survey plan of which is to be lodged with the Authority, a registered surveyor who has in force a practising certificate or an authorised employee or manager of a licensed corporation or partnership may, upon payment to the Authority of the prescribed fee, at all reasonable times be permitted —
+
+(a) to inspect the relevant maps, plans or survey records lodged with the Authority; and
+
+(b) to take copies of such information therefrom as he may require.
+
+(2) Any person referred to in subsection (1) shall not remove any such maps, plans or survey records and shall be liable for any damage which he may cause to them while they are under his control.
+
+### Deposit of survey plans and survey documents
+
+11C\.—(1) On completion of a cadastral survey, the registered surveyor who signs the survey plan thereof shall deposit that plan together with the relevant field books, calculation sheets and survey data (referred to in this Act as survey documents) with the Authority, in such electronic or other form as the Authority may approve.
+
+(2) If the survey plan is approved by the Chief Surveyor, the survey plan and survey documents deposited with the Authority under subsection (1) (including any copyright subsisting therein) shall become the property of the Authority and shall be filed as permanent survey records.
+
+(3) The Chief Surveyor, upon payment of the prescribed fee, shall furnish to any person applying for it a certified copy of any survey plan or survey document deposited with the Authority under subsection (1).
+
+(4) Every such certified copy of a survey plan or survey document signed by the Chief Surveyor shall be received in evidence in any court, or before any person having authority by law or by consent of parties to receive evidence, without proof of signature, as prima facie proof of all the matters contained in or entered on the survey plan or survey document, as the case may be.
+
+(5) Notwithstanding section 35 of the Evidence Act (Cap. 97), a print-out of any information stored in a computer in the Authority issued and signed by the Chief Surveyor shall be received in evidence in any court, or before any person having authority by law or by consent of parties to receive evidence, without proof of signature, as prima facie proof of all the matters contained in or entered on that document.
+
+### Approval of cadastral surveys and assurance plans
+
+11D\.—(1) No cadastral survey or survey plan thereof shall be accepted or adopted for the purpose of any written law unless it has been approved by the Chief Surveyor.
+
+(2) No assurance plan shall be lodged in the Registry of Deeds or the Land Titles Registry of the Authority, as the case may be, unless the assurance plan —
+
+(a) is signed by a registered surveyor and approved by the Chief Surveyor; and
+
+(b) bears a caution to the effect that the boundaries or dimensions and areas are inconclusive.
+
+(3) The Chief Surveyor may refuse to approve any survey plan or assurance plan under this section if —
+
+(a) the subdivision permission as required by section 12 of the Planning Act (Cap. 232) has not been obtained;
+
+(b) the prescribed survey fees have not been paid; or
+
+(c) an encroachment has been created by the purchaser or owner of a parcel of land being surveyed for any relevant purpose, which affects any parcel of land adjoining that parcel of land, and the registered surveyor who signs the plan has not certified that the encroachment has been resolved.
+
+(4) Where the subdivision of land has been authorised by a notification made by the Minister under section 21(6) of the Planning Act (Cap. 232), the Chief Surveyor shall not, when he approves any survey plan under this section, be obliged to enquire whether any condition set out in the notification or imposed by the competent authority under that Act has been satisfied or complied with.
+
+(5) Notwithstanding that a survey plan has been approved by the Chief Surveyor, it shall be the duty of the registered surveyor who signed the survey plan to ensure that the survey plan and all information and matters set out in the survey plan are correct and accurate.
+
+(6) In subsection (3)(c), “relevant purpose”, in relation to any survey of a parcel of land, means a survey for the purpose of —
+
+(a) obtaining a new State title for the parcel of land;
+
+(b) amalgamating the parcel of land; or
+
+(c) subdividing the parcel of land.
+
+(7) Any cadastral survey, survey plan or assurance plan approved before the date of commencement of the Land Surveyors (Amendment) Act 2004 by the Chief Surveyor or other officer appointed by him to approve plans on his behalf under section 39 of the Land Surveyors Act (Cap. 156) then in force, shall be deemed to have been approved under this section.
+
+### Correction of errors
+
+11E\.—(1) The Chief Surveyor or any authorised surveyor designated by him may at any time undertake field and office checks on the cadastral survey work of a registered surveyor or a licensed corporation or partnership.
+
+(2) The Chief Surveyor may, at any time after the survey plan has been deposited with the Authority, by notice in writing, direct any registered surveyor or any licensed corporation or partnership to correct at his or its expense within a period specified in the notice any error in the cadastral survey made by that registered surveyor or by a registered surveyor who is a director, a partner, a manager or an employee of that corporation or partnership, as the case may be.
+
+(3) If any person fails to comply with the notice given under subsection (2), the Chief Surveyor may undertake the correction of the cadastral survey and recover the cost of the correction from the person.
+
+(4) Where the Chief Surveyor is entitled to recover the cost of any correction of a cadastral survey under subsection (3), the Chief Surveyor shall serve on the registered surveyor, corporation or partnership, as the case may be, a statement of the cost of the correction by registered post addressed to the last known place of practice or residence of the registered surveyor, corporation or partnership.
+
+(5) Subsections (2) and (3) shall not apply to an assurance plan.
+
 ## PART III
 
 SURVEY MAP
 
 ### Correction of map
 
-12\.—(1) All maps published under the repealed Act shall continue to be valid .
+12\.—(1) All maps published under the repealed Act shall continue to be valid until they have been declared to be superseded under section 7 (f).
 
-(2) No map published under the repealed Act shall be corrected, altered or added to in respect of any boundary of any land therein laid down, except in the following cases:
+(2) No map whether published under the repealed Act or generated from the co-ordinated cadastre shall be corrected, altered or added to in respect of any boundary of any land therein laid down, except in the following cases:
 
-(a) where it is found that a map does not correctly represent the boundaries of any land, the Chief Surveyor shall inquire into the reason for the difference and, if it is found to be due to inaccuracy in the survey caused by error in measuring the angles or the sides of the land or in plotting the survey , he shall give notice to the owners of the land affected, or their agents if they are known and are in Singapore, of the error and require them to forward to the Chief Surveyor within one monthof their objections (if any) to its correction;
+(a) where it is found that a map does not correctly represent the boundaries of any land, the Chief Surveyor shall inquire into the reason for the difference and, if it is found to be due to inaccuracy in the survey caused by error in measuring the angles or the sides of the land or in plotting the survey or in the process of conversion and adjustment under section 7, he shall give notice to the owners of the land affected, or their agents if they are known and are in Singapore, of the error and require them to forward to the Chief Surveyor within one month their objections (if any) to its correction;
 
 (b) where it appears that wrong boundary marks have been joined up in the survey and delineation of a boundary shown on a map, or where it appears that there has been a change in the position of a boundary from that which it held at the time of the survey or at the time when it was delineated on the map under paragraph (c), the Chief Surveyor shall, after one month’s notice to the owners of the land affected, or their agents if they are known and are in Singapore, of his intention, proceed to hold an inquiry, which may be held in part upon the land;
 
@@ -286,7 +410,7 @@ SURVEY MAP
 
 (5) If, after taking into consideration the evidence of the owners or their agents appearing at the inquiry under subsection (2)(b) and of such other persons as have knowledge of the subject, the Chief Surveyor is satisfied that the boundary as it appears from the then existing occupation of the land is the true boundary, the Chief Surveyor shall make an order for the correction of the map.
 
-(6) Where it is found that the boundaries of a Mukim or Town Sub-division shown on any map published under the repealed Act should be altered by reason of —
+(6) Where it is found that the boundaries of a Mukim or Town Sub-division shown on any map published under the repealed Act or generated from the co-ordinated cadastre should be altered by reason of —
 
 (a) any correction, addition or alteration of the boundaries of any land made in accordance with this section;
 
@@ -298,7 +422,11 @@ the Chief Surveyor may, after the publication of a notice in theGazettedescribin
 
 ### Map to be conclusive evidence
 
-13\. Every map published under the repealed Act shall be conclusive evidence in all courts of the boundaries of the land comprised in every land shown therein, subject only to any order made under section 12 for their modification, correction or alteration.
+13\.—(1) Every map published under the repealed Act shall, until it has been declared to be superseded under section 7(f), be conclusive evidence in all courts of the boundaries of the land comprised in every land shown therein, subject only to any order made under section 12 for their modification, correction or alteration.
+
+(2) Upon a declaration under section 7(f), every map generated from the co-ordinated cadastre shall be conclusive evidence in all courts of the boundaries of the land comprised in every land shown therein, subject only to any order made under section 12 for their modification, correction or alteration.
+
+[37/2004 wef 31/03/2005]
 
 ## PART IV
 
@@ -322,9 +450,31 @@ MISCELLANEOUS
 
 (2) Without prejudice to the generality of subsection (1), the Authority, with the approval of the Minister, may make rules —
 
-(a) prescribing the fees for the purposes of this Act ; and
+(a) prescribing the fees for the purposes of this Act and the time for payment of the fees;
 
-(b) prescribing the manner and procedure for inquiries to be held under this Act.
+(b) prescribing the manner and procedure for inquiries to be held under this Act;
+
+(c) regulating the following:
+
+(i) preparation of plans and documents for the purposes of this Act;
+
+(ii) lodgment and registration of plans under this Act; and
+
+(iii) preparation and making of cadastral surveys; and
+
+[37/2004 wef 31/03/2005]
+
+(d) prescribing the manner (whether by electronic means or otherwise) in which —
+
+(i) applications for or lodgments of lot numbers, survey records and plans, survey documents or other records and documents may be made;
+
+(ii) permissions, approvals and decisions may be granted or made, and notified;
+
+(iii) notices or other documents may be made or transmitted; and
+
+(iv) documents may be authenticated or certified.
+
+[37/2004 wef 31/03/2005]
 
 ### Fees to be paid to Authority
 
@@ -363,3 +513,12 @@ This Legislative History is provided for the convenience of users of the Boundar
 |||7 March 2001)|
 ||Date of Second and Third Readings|19 April 2001|
 ||Date of commencement|1 June 2001|
+|6.|**Act 37 of 2004—Land Surveyors (Amendment) Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|1 September 2004|
+|||(Bill No. 36/2004 published on|
+|||
+|
+|||2 September 2004)|
+||Date of Second and Third Readings|21 September 2004|
+||Date of commencement|31 March 2005|
