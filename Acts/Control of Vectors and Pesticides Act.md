@@ -1,16 +1,14 @@
-**Control of Vectors and Pesticides Act 1998**
+**Control of Vectors and Pesticides Act**
 
-**(No. 24 of 1998)**
+**(CHAPTER 59)**
 
 **Table of Contents**
 
 [**Long Title**](#Control-of-Vectors-and-Pesticides-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -54,7 +52,7 @@
 
 - [19 Enforcement of order under section 18](#Enforcement-of-order-under-section-18)
 
-- [20 Prohibition on clearing undergrowth under certain circumstances](#Prohibition-on-clearing-undergrowth-under-certain-circumstances)
+- [20 Prohibition on clearing undergrowth or vegetation under certain circumstances](#Prohibition-on-clearing-undergrowth-or-vegetation-under-certain-circumstances)
 
 - [21 Medical examination of persons suspected of being infected with vector-borne disease](#Medical-examination-of-persons-suspected-of-being-infected-with-vector-borne-disease)
 
@@ -90,17 +88,17 @@
 
 [**Part VI MISCELLANEOUS**](#Part-VI)
 
-- [36 Power to enter premises](#Power-to-enter-premises)
+- [36 Power to enter premises, vessel or aircraft](#Power-to-enter-premises-vessel-or-aircraft)
 
 - [37 Commissioner may act in cases of emergency](#Commissioner-may-act-in-cases-of-emergency)
 
 - [38 Owner and occupier to protect works](#Owner-and-occupier-to-protect-works)
 
-- [39 Penalty for damaging works](#Penalty-for-damaging-works)
+- [39 Penalty for damaging, etc., works](#Penalty-for-damaging-etc-works)
 
 - [40 Damage to property of Government to be made good in addition to penalty](#Damage-to-property-of-Government-to-be-made-good-in-addition-to-penalty)
 
-- [41 Compensation, damages and costs to be determined by Court](#Compensation-damages-and-costs-to-be-determined-by-Court)
+- [41 Compensation, damages, fees, costs and expenses to be determined by Court](#Compensation-damages-fees-costs-and-expenses-to-be-determined-by-Court)
 
 - [42 Recovery of costs and expenses by instalments](#Recovery-of-costs-and-expenses-by-instalments)
 
@@ -108,7 +106,7 @@
 
 - [44 Persons unable to meet necessary expenditure](#Persons-unable-to-meet-necessary-expenditure)
 
-- [45 Obstructing Commissioner, etc., in performance of duties](#Obstructing-Commissioner-etc-in-performance-of-duties)
+- [45 Obstructing or hindering Commissioner , etc., in performance of duties](#Obstructing-or-hindering-Commissioner--etc-in-performance-of-duties)
 
 - [46 Notice to attend court](#Notice-to-attend-court)
 
@@ -116,7 +114,7 @@
 
 - [48 Person charged with offence to furnish particulars if required](#Person-charged-with-offence-to-furnish-particulars-if-required)
 
-- [49 Offence by body corporate](#Offence-by-body-corporate)
+- [49 Offence by body corporate, etc.](#Offence-by-body-corporate-etc)
 
 - [50 Limitation of liability](#Limitation-of-liability)
 
@@ -128,11 +126,11 @@
 
 - [54 Protection from personal liability](#Protection-from-personal-liability)
 
-- [55 Receipts and notices](#Receipts-and-notices)
+- [55 Receipts, notices, etc.](#Receipts-notices-etc)
 
-- [56 Service of documents](#Service-of-documents)
+- [56 Service of documents, etc.](#Service-of-documents-etc)
 
-- [57 Inaccuracies in documents](#Inaccuracies-in-documents)
+- [57 Inaccuracies in documents, etc.](#Inaccuracies-in-documents-etc)
 
 - [58 Evidence of analyst](#Evidence-of-analyst)
 
@@ -140,49 +138,31 @@
 
 - [60 Regulations](#Regulations)
 
-- [61 Repeal and transitional](#Repeal-and-transitional)
+- [61 Savings](#Savings)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Control of Vectors and Pesticides Act
 
-ACTS SUPPLEMENT
+(CHAPTER 59)
 
-Published by Authority
+(Original Enactment: Act 24 of 1998)
 
-NO. 26]
+REVISED EDITION 1999
 
-Friday, July 17
+(30th December 1999)
 
-[1998
+An Act to consolidate and amend the law relating to the destruction of vectors and the control of vector-borne diseases; to provide for the control of the sale and use of pesticides and vector repellents; to provide for the registration, licensing and certification of persons engaged in vector control work, and for matters connected therewith.
 
-The following Act was passed by Parliament on 30th June 1998 and assented to by the President on 3rd July 1998:—
-
-Control of Vectors and Pesticides Act 1998
-
-(No. 24 of 1998)
-
-I assent.
-
-ONG TENG CHEONG,
-
-President.
-
-3rd July 1998.
-
-Date of Commencement: 1st September 1998
-
-An Act to consolidate and amend the law relating to the destruction of vectors and the control of vector-borne diseases; to provide for the control of the sale and use of pesticides and vector repellents; to provide for the registration, licensing and certification of persons engaged in vector control work, and for matters connected therewith; and to repeal the Destruction of Disease-Bearing Insects Act (Chapter 79 of the 1985 Revised Edition).
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st September 1998]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Control of Vectors and Pesticides Act 1998 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Control of Vectors and Pesticides Act.
 
 ### Interpretation
 
@@ -194,9 +174,9 @@ PRELIMINARY
 
 “authorised officer” means any public officer or any officer of any statutory board who is authorised by the Commissioner in accordance with section 4(2) to exercise all or any of the powers of the Commissioner under this Act or the regulations;
 
-“"Commissioner", "Deputy Commissioner of Public Health" and "Assistant Commissioner of Public Health"” mean, respectively, the Commissioner of Public Health, a Deputy Commissioner of Public Health and an Assistant Commissioner of Public Health appointed under section 3(1) of the Environmental Public Health Act (Cap.95);
+“Commissioner”, “Deputy Commissioner of Public Health” and “Assistant Commissioner of Public Health” mean, respectively, the Commissioner of Public Health, a Deputy Commissioner of Public Health and an Assistant Commissioner of Public Health appointed under section 3(1) of the Environmental Public Health Act (Cap. 95);
 
-“competent authority” means the competent authority appointed under section 5 of the Planning Act 1998 (Act 3 of 1998);
+“competent authority” means a competent authority appointed under section 5 of the Planning Act (Cap. 232);
 
 “container” includes anything in or by which a pesticide or vector repellent may be cased, covered, enclosed, contained or packed before application; and, in the case of a pesticide or vector repellent which is sold or carried or intended for sale or carriage in more than one container, includes every such container;
 
@@ -212,19 +192,19 @@ PRELIMINARY
 
 “owner” —
 
-(a) in relation to any premises, vessel or aircraft, means the person for the time being receiving the rent of the premises, vessel or aircraft whether on his own account or as agent or trustee or as receiver, or who would receive the same if the premises, vessel or aircraft were let or chartered, and, in relation to any premises, includes the person whose name is entered in the Valuation List authenticated under section 15 of the Property Tax Act (Cap.254);
+(a) in relation to any premises, vessel or aircraft, means the person for the time being receiving the rent of the premises, vessel or aircraft whether on his own account or as agent, trustee or receiver, or who would receive the same if the premises, vessel or aircraft were let or chartered, and, in relation to any premises, includes the person whose name is entered in the Valuation List authenticated under section 15 of the Property Tax Act (Cap. 254);
 
 (b) in relation to any premises where building works are being carried out, includes the developer;
 
-(c) in relation to the common property of any building erected on land comprised in a strata subdivision plan approved by the competent authority, includes the management corporation having control of the building, and a managing agent appointed by a management corporation or by the Commissioner of Buildings under the Land Titles (Strata) Act (Cap.158), and a liquidator appointed pursuant to that Act for that management corporation; and
+(c) in relation to the common property of any building erected on land comprised in a strata subdivision plan approved by the competent authority, includes the management corporation having control of the building, and a managing agent appointed by a management corporation or by the Commissioner of Buildings under the Land Titles (Strata) Act (Cap. 158), and a liquidator appointed pursuant to that Act for that management corporation; and
 
-(d) in relation to the common property of any building sold under Part IV of the Housing and Development Act (Cap.129), means the Town Council which is liable for the maintenance and management of such common property;
+(d) in relation to the common property of any building sold under Part IV of the Housing and Development Act (Cap. 129), means the Town Council which is liable for the maintenance and management of such common property;
 
 “package”, in relation to any pesticide or vector repellent, means any box, packet or other article in which one or more containers of the pesticide or vector repellent are or are to be enclosed, and, where any such box, packet or other article is or is to be itself enclosed in one or more boxes, packets or other articles, includes each of such boxes, packets or articles;
 
-“pesticide” means any solid, liquid or gaseous substance or mixture or preparation of such substances which contains one or more active ingredients and which is used for vector control, but does not include any fumigant controlled under the Hydrogen Cyanide (Fumigation) Act (Cap.132);
+“pesticide” means any solid, liquid or gaseous substance or mixture or preparation of such substances which contains one or more active ingredients and which is used for vector control, but does not include any fumigant controlled under the Hydrogen Cyanide (Fumigation) Act (Cap. 132);
 
-“premises” means messuages, buildings, lands, easements and hereditaments of any tenure, whether open or enclosed, whether built on or not, whether public or private, and whether maintained or not under statutory authority, and includes any place or structure, or any part thereof used or intended to be used for human habitation or for employment or any other purpose whatsoever;
+“premises” means messuages, buildings, lands, easements and hereditaments of any tenure, whether open or enclosed, whether built on or not, whether public or private, and whether maintained or not under statutory authority, and includes any place or structure, or any part thereof used or intended to be used for human habitation or for employment or any other purpose;
 
 “public health officer” means any public officer or any officer of any statutory body who is authorised by the Commissioner to carry out the duties imposed upon a public health officer under this Act or the regulations;
 
@@ -266,7 +246,7 @@ ADMINISTRATION OF ACT
 
 4\.—(1) The Commissioner shall be responsible for the administration of this Act, subject to the general or special directions of the Minister.
 
-(2) The Commissioner may, with the approval of the Minister, in writing in that behalf authorise any public officer or any officer of any statutory board to exercise all or any of the powers of the Commissioner under this Act or the regulations subject to such conditions or limitations as the Commissioner may specify.
+(2) The Commissioner may, with the approval of the Minister, in writing in that behalf authorise any public officer or any officer of any statutory board to exercise all or any of the powers of the Commissioner under this Act or the regulations, subject to such conditions or limitations as the Commissioner may specify.
 
 (3) The Commissioner may, by instrument in writing under his hand, appoint any person who in his opinion is qualified to carry out any analysis, test or examination or to make any report for the purpose of this Act or the regulations.
 
@@ -288,7 +268,7 @@ CONTROL OF PESTICIDES AND VECTOR REPELLENTS
 
 (c) advertise, sell or supply any substance, mixture or preparation as being suitable for repelling vectors,
 
-unless the pesticide, substance, mixture or preparation as the case may be, is registered under section 8.
+unless the pesticide, substance, mixture or preparation, as the case may be, is registered under section 8.
 
 (2) No person shall sell any pesticide or vector repellent registered under section 8 otherwise than in a container or package to which is affixed or on which is printed a label that has been approved by the Commissioner and that shows clearly and distinctly the particulars prescribed by the regulations.
 
@@ -374,7 +354,7 @@ as the Commissioner may require; and
 
 (d) that the pesticide or vector repellent is no longer available for purchase in Singapore;
 
-(e) that the registrant has procured the registration of the pesticide or vector repellent by providing any information or document or making any statement or representation, which is false;
+(e) that the registrant has procured the registration of the pesticide or vector repellent by providing any particulars, information or document or making any statement or representation, which is false;
 
 (f) that the registrant has failed to comply with any of the conditions subject to which the pesticide or vector repellent has been registered;
 
@@ -386,7 +366,7 @@ as the Commissioner may require; and
 
 (2) Before cancelling the registration of a pesticide or vector repellent, the Commissioner shall serve a notice in writing on the registrant requiring him, within such time as may be specified in the notice, to show cause to the Commissioner why the registration of the pesticide or vector repellent should not be cancelled.
 
-(3) If the registrant fails to show cause as aforesaid within the specified time or within such further period as the Commissioner may allow, the Commissioner may, if he thinks fit, cancel the registration of the pesticide or vector repellent as from a date to be specified by him.
+(3) If the registrant fails to show cause as mentioned in subsection (2) within the specified time or within such further period as the Commissioner may allow, the Commissioner may, if he thinks fit, cancel the registration of the pesticide or vector repellent as from a date to be specified by him.
 
 (4) If the registrant complies with the notice, the Commissioner shall consider any representations or submissions made to him by or on behalf of the registrant, and if the Commissioner is satisfied of any of the matters referred to in subsection (1), he may —
 
@@ -398,7 +378,7 @@ as the Commissioner may require; and
 
 (a) cancels the registration of a pesticide or vector repellent under subsection (3) or (4)(a); or
 
-(b) allows the registration of a pesticide or vector repellent to continue subject to such terms and conditions under subsection (4)(b),
+(b) allows the registration of a pesticide or vector repellent to continue subject to terms and conditions under subsection (4)(b),
 
 the Commissioner shall, as soon as possible, inform the registrant thereof in writing.
 
@@ -420,7 +400,7 @@ the Commissioner shall, as soon as possible, inform the registrant thereof in wr
 
 (c) the decision of the Commissioner to cancel the registration of a pesticide or vector repellent under section 11(3) or (4)(a),
 
-may, within 14 days of the date of receipt of the notice informing him of such imposition of conditions, refusal or cancellation, as the case may be, appeal in writing to the Minister whose decision shall be final.
+may, within 14 days of the date of receipt of the notice informing him of such imposition of the condition, refusal or cancellation, as the case may be, appeal in writing to the Minister whose decision shall be final.
 
 (2) Notwithstanding that any appeal under subsection (1) is pending —
 
@@ -428,7 +408,7 @@ may, within 14 days of the date of receipt of the notice informing him of such i
 
 (b) the cancellation of the registration of a pesticide or vector repellent under section 11(3) or (4)(a),
 
-shall take effect from the date specified by the Commissioner, unless the Minister otherwise directs.
+shall take effect from the date specified by the Commissioner , unless the Minister otherwise directs.
 
 ### Power to take samples of pesticides and vector repellents for analysis and to detain consignment
 
@@ -436,9 +416,9 @@ shall take effect from the date specified by the Commissioner, unless the Minist
 
 (a) enter such premises, vessel or aircraft at all reasonable times, to take, without payment, any reasonable sample of any pesticide or vector repellent (including the container and package thereof) found stored thereon for analysis or testing; and
 
-(b) seize or detain under normal storage conditions or take any necessary measures to prevent the removal or disposal of, the whole consignment from which the sample is taken until a report of the result of the analysis or test is obtained.
+(b) seize or detain under normal storage conditions or take any necessary measures to prevent the removal or disposal of the whole consignment from which the sample is taken until a report of the result of the analysis or test is obtained.
 
-(2) Where the Commissioner or a public health officer has seized or detained or taken measures to prevent the removal or disposal of, any consignment of pesticides or vector repellents under subsection (1)(b), the Commissioner or public health officer, as the case may be, shall forthwith give notice in writing thereof to the owner, consignor or consignee of the consignment or to the agent of such person, if the name and address of such owner, consignor or consignee or agent thereof are known.
+(2) Where the Commissioner or a public health officer has seized or detained or taken measures to prevent the removal or disposal of any consignment of pesticides or vector repellents under subsection (1)(b), the Commissioner or public health officer, as the case may be, shall forthwith give notice in writing thereof to the owner, consignor or consignee of the consignment or to the agent of such person, if the name and address of such owner, consignor or consignee or agent thereof are known.
 
 (3) Any person aggrieved by any action taken by the Commissioner or a public health officer under subsection (1)(b) may, within 14 days thereof, appeal to the Minister whose decision shall be final.
 
@@ -446,9 +426,13 @@ shall take effect from the date specified by the Commissioner, unless the Minist
 
 (a) without the authority of the Commissioner or a public health officer tamper with, remove, distribute, sell or otherwise dispose of, the whole or any part of a consignment in respect of which he knows or ought reasonably to know that the Commissioner or a public health officer has taken any action under subsection (1)(b); or
 
-(b) alter, counterfeit, deface, destroy, erase or remove any identification mark or label or seal affixed by the Commissioner or a public health officer to the consignment.
+(b) alter, counterfeit, deface, destroy, erase or remove any identification mark, label or seal affixed by the Commissioner or a public health officer to the consignment.
 
-(5) The Commissioner or a public health officer may by notice require the owner, consignor or consignee of the consignment from which any sample is taken under subsection (1)(a) or the agent of such person to submit, at his own expense, the sample to an approved laboratory for the purpose of analysis or testing, and to produce the report of analysis or testing issued by the approved laboratory.
+(5) The Commissioner or a public health officer may by notice require the owner, consignor or consignee of the consignment from which any sample is taken under subsection (1)(a) or the agent of such person —
+
+(a) to submit, at his own expense, the sample to an approved laboratory for the purpose of analysis or testing; and
+
+(b) to produce the report of analysis or testing issued by the approved laboratory.
 
 (6) Where —
 
@@ -456,7 +440,7 @@ shall take effect from the date specified by the Commissioner, unless the Minist
 
 (b) the Minister on an appeal under subsection (3) so directs,
 
-the Commissioner or public health officer, as the case may be, shall forthwith release the consignment.
+the Commissioner or a public health officer, as the case may be, shall forthwith release the consignment.
 
 (7) Where the result of the analysis or testing of the sample conducted under subsection (1)(a) or (5) confirms that the sample is in contravention of this Act or the regulations, the Commissioner or a public health officer, as the case may be, may direct the owner, consignor or consignee of the consignment or the agent of such person to treat or destroy or otherwise dispose of such consignment, at the expense of such owner, consignor or consignee or agent thereof, in such manner as the Commissioner or public health officer thinks fit.
 
@@ -478,7 +462,7 @@ DESTRUCTION OF VECTORS
 
 (3) Such directions may be given to the owner or occupier of any premises, vessel or aircraft and to any person therein, including the agents and servants of such owner or occupier.
 
-(4) If in any proceedings for a contravention of subsection (1), it is shown that the condition on any premises, vessel or aircraft is favourable to the propagation or harbouring of vectors, it shall be presumed, unless the contrary is proved, that the condition is created, or caused or permitted to be created by the owner or occupier of such premises, vessel or aircraft.
+(4) If in any proceedings for a contravention of subsection (1) it is shown that the condition on any premises, vessel or aircraft is favourable to the propagation or harbouring of vectors, it shall be presumed, unless the contrary is proved, that the condition is created, or caused or permitted to be created by the owner or occupier of such premises, vessel or aircraft.
 
 ### Prohibition on breeding, etc., of vectors without Commissioner’s permission
 
@@ -510,7 +494,7 @@ DESTRUCTION OF VECTORS
 
 (e) that such vector control work or any other specified measure shall be carried out by a registered vector control operator or a licensed vector control technician.
 
-(3) The Commissioner may, by order in writing, direct the occupier of any premises, vessel or aircraft to cover, within a specified time, and keep continuously covered any specified tank, cistern, receptacle or any manner of container whatsoever in or appertaining to the premises, vessel or aircraft, so that vectors shall be unable to enter therein, and where any premises, vessel or aircraft is unoccupied, such order may be addressed to the owner thereof as if he were the occupier.
+(3) The Commissioner may, by order in writing, direct the occupier of any premises, vessel or aircraft to cover, within a specified time, and keep continuously covered any specified tank, cistern, receptacle or any manner of container in or appertaining to the premises, vessel or aircraft, so that vectors shall be unable to enter therein, and where any premises, vessel or aircraft is unoccupied, such order may be addressed to the owner thereof as if he were the occupier.
 
 (4) In particular and without prejudice to the generality of the powers under this section, the Commissioner may, in any such order, direct the owner or occupier of any premises to drain any land in accordance with such specifications or in such manner as he may specify in such order or to fill up inequalities in the surface thereof to a specified level so as to prevent the breeding of vectors or so as to keep the land permanently free from standing water to an extent specified in such order.
 
@@ -534,9 +518,9 @@ DESTRUCTION OF VECTORS
 
 (b) perform and do such acts and things as are necessary or as are required by the order to be performed or done and recover the costs and expenses thereof, if any, from the owner or occupier of the premises, vessel or aircraft.
 
-### Prohibition on clearing undergrowth under certain circumstances
+### Prohibition on clearing undergrowth or vegetation under certain circumstances
 
-20\. Where on any land there is any stream or seepage or running or standing water to which shade may be afforded by the development of undergrowth or other vegetation, no person shall cut down or clear or cause or permit to be cut down or cleared any undergrowth or vegetation within 6 metres of any such stream or seepage or running or standing water without the prior approval of the Commissioner.
+20\. Where on any land there is any stream or seepage or running or standing water to which shade may be afforded by the development of undergrowth or other vegetation, no person shall cut down or clear or cause or permit to be cut down or cleared any undergrowth or vegetation within 6 metres of any such stream or seepage or running or standing water without the prior approval of the Commissioner .
 
 ### Medical examination of persons suspected of being infected with vector-borne disease
 
@@ -614,7 +598,7 @@ under this Act may apply to the Commissioner in such form or manner as the Commi
 
 (b) such particulars, information and documents as the Commissioner may require.
 
-(3) Subject to subsections (4) and (5), the Commissioner, upon receiving an application under subsection (1), may —
+(3) Subject to subsections (4) and (5), the Commissioner , upon receiving an application under subsection (1), may —
 
 (a) grant the registration, licence or certificate applied for either unconditionally or subject to such conditions as the Commissioner thinks fit; or
 
@@ -688,13 +672,17 @@ granted under section 30(6) shall each be valid for a period of 9 months from th
 
 (iii) any direction given to him by the Commissioner or a public health officer under this Act or the regulations;
 
-(c) the person to whom the registration, licence or certificate has been granted has ceased to carry on business as a vector control operator or to be a vector control technician or a vector control worker, as the case may be;
+(c) the person to whom the registration, licence or certificate has been granted has ceased to carry on business as a vector control operator or a vector control technician or a vector control worker, as the case may be;
 
-(d) in the case of a person who has been granted a provisional vector control technician’s licence or a provisional vector control worker’s certificate, that person has failed to complete the training referred to in section 30(6);or
+(d) in the case of a person who has been granted a provisional vector control technician’s licence or a provisional vector control worker’s certificate, that person has failed to complete the training referred to in section 30(6); or
 
 (e) it is in the public interest to suspend or cancel the registration, licence or certificate.
 
-(2) The Commissioner, before suspending or cancelling any registration, licence or certificate under subsection (1), shall give to the person to whom the registration, licence or certificate has been granted notice in writing of his intention to do so and shall in such notice call upon that person to show cause within such time as may be specified in the notice as to why his registration, licence or certificate should not be suspended or cancelled.
+(2) The Commissioner, before suspending or cancelling any registration, licence or certificate under subsection (1), shall —
+
+(a) give to the person to whom the registration, licence or certificate has been granted notice in writing of his intention to do so; and
+
+(b) in the notice referred to in paragraph (a) call upon that person to show cause within such time as may be specified in the notice as to why his registration, licence or certificate should not be suspended or cancelled.
 
 (3) If the person to whom a notice has been given under subsection (2) —
 
@@ -746,9 +734,9 @@ may, within 14 days of the date of receipt of the notice informing him of such i
 
 MISCELLANEOUS
 
-### Power to enter premises
+### Power to enter premises, vessel or aircraft
 
-36\.—(1) The Commissioner or any public health officer or authorised officer may, with or without assistants, for the purposes of this Act or the regulations, enter any premises or vessel or aircraft in order to make any survey, inspection or search or to execute any work authorised by this Act or the regulations.
+36\.—(1) The Commissioner or any public health officer or authorised officer may, with or without assistants, for the purposes of this Act or the regulations, enter any premises, vessel or aircraft in order to make any survey, inspection or search or to execute any works authorised by this Act or the regulations.
 
 (2) Any Medical Officer of Health may —
 
@@ -774,11 +762,11 @@ MISCELLANEOUS
 
 (b) is likely to lessen the efficiency of the works.
 
-(2) Where any such premises are used in such a manner as to cause the deterioration of, or to lessen the full efficiency of, the works —
+(2) Where any such premises are used in such a manner as to cause the deterioration of, or to lessen the efficiency of, the works —
 
-(a) the owner or the occupier of such premises shall, subject to subsection (4), be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000; and
+(a) the owner or occupier of such premises shall, subject to subsection (4), be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000; and
 
-(b) the Commissioner may enter the premises with such assistants and things as are necessary and execute any necessary repairs or work thereon and recover from the person convicted the costs and expenses incurred in connection with the repairs or work.
+(b) the Commissioner may enter the premises with such assistants and things as are necessary and execute any necessary repairs or works thereon and recover from the person convicted the costs and expenses incurred in connection with the repairs or works.
 
 (3) Before any proceedings are taken under this section, the Commissioner shall give to the owner or occupier, as the case may be, notice in writing specifying —
 
@@ -788,9 +776,9 @@ MISCELLANEOUS
 
 (4) If the owner of such premises is, by reason of any contract (not being a contract made with an intention to evade liability under this section), prevented from entering the premises to carry out the duties and obligations mentioned in subsection (1), he shall not be liable to any of the penalties mentioned in subsection (2) unless it can be shown that he has contributed in any way to the refusal or failure of the occupier to carry out such duties and obligations.
 
-### Penalty for damaging works
+### Penalty for damaging, etc., works
 
-39\.—(1) Any person who, without the consent of the Commissioner, interferes with, damages, injures, destroys or renders useless any works executed or any materials or things placed in, under or upon any premises by or under the order of the Commissioner, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
+39\.—(1) Any person who, without the consent of the Commissioner , interferes with, damages, injures, destroys or renders useless any works executed or any materials or things placed in, under or upon any premises by or under the order of the Commissioner, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
 
 (2) The Commissioner may in addition recover from the person convicted any costs and expenses incurred in connection with the re-execution of the works or the replacement of the materials or things so interfered with, damaged, injured, destroyed or rendered useless.
 
@@ -802,13 +790,13 @@ MISCELLANEOUS
 
 (3) The amount of the damage shall be recovered as if it were a fine imposed by the court.
 
-### Compensation, damages and costs to be determined by Court
+### Compensation, damages, fees, costs and expenses to be determined by Court
 
 41\.—(1) Except as otherwise provided in this Act, in all cases when compensation, damages, fees, costs and expenses are by this Act directed to be paid, the amount and, if necessary, the apportionment of the same and any question of liability shall, in case of dispute or failure to pay, be summarily ascertained and determined by a District Court.
 
-(2) If the amount of compensation, damages, costs or expenses is not paid by the party liable to pay such amount within 14 days after demand, such amount may be reported to a District Court and recovered in the same manner as if it were a fine imposed by a District Court.
+(2) If the amount of compensation, damages, fees, costs or expenses is not paid by the party liable to pay such amount within 14 days after demand, such amount may be reported to a District Court and recovered in the same manner as if it were a fine imposed by a District Court.
 
-(3) An appeal shall lie to the High Court from any decision of a District Court under this section, and the provisions of the Criminal Procedure Code (Cap.68) shall apply, with the necessary modifications, to all such appeals.
+(3) An appeal shall lie to the High Court from any decision of a District Court under this section, and the provisions of the Criminal Procedure Code (Cap. 68) shall apply, with the necessary modifications, to all such appeals.
 
 ### Recovery of costs and expenses by instalments
 
@@ -818,15 +806,15 @@ MISCELLANEOUS
 
 ### Liability of transferor of property
 
-43\. Where a person sells or transfers any property in respect of which costs and expenses have been incurred by the Government in or about the execution of any work required to be done under this Act or the regulations and the costs and expenses are recoverable under this Act from the owner thereof, the person shall continue to be liable for the payment of all the costs and expenses payable in respect of the property and for the performance of all other obligations imposed by this Act or the regulations upon the owner of the property which became payable or were required to be performed prior to the transfer.
+43\. Where a person sells or transfers any property in respect of which costs and expenses have been incurred by the Government in or about the execution of any works required to be done under this Act or the regulations and the costs and expenses are recoverable under this Act from the owner thereof, the person shall continue to be liable for the payment of all the costs and expenses payable in respect of the property and for the performance of all other obligations imposed by this Act or the regulations upon the owner of the property which became payable or were required to be performed prior to the transfer.
 
 ### Persons unable to meet necessary expenditure
 
 44\. If it appears to the Commissioner after due enquiry that any person has not the means to meet the necessary expenses of doing anything required to be done by him under this Act or the regulations, the necessary expenses may be paid out of the Consolidated Fund.
 
-### Obstructing Commissioner, etc., in performance of duties
+### Obstructing or hindering Commissioner , etc., in performance of duties
 
-45\. Any person who obstructs or hinders the Commissioner or any public health officer, police officer or authorised officer or any other person acting under the direction of the Commissioner, in the performance or execution of his duty or anything which he is authorised, empowered or required to do under this Act or the regulations shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 months or to both.
+45\. Any person who obstructs or hinders the Commissioner or any public health officer, police officer or authorised officer or any other person acting under the direction of the Commissioner , in the performance or execution of his duty or anything which he is authorised, empowered or required to do under this Act or the regulations shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 months or to both.
 
 ### Notice to attend court
 
@@ -834,7 +822,7 @@ MISCELLANEOUS
 
 (2) The Commissioner, public health officer, police officer or authorised officer shall prepare a duplicate of the notice referred to in subsection (1) and, if so required by a court, produce the same to the court.
 
-(3) On an accused person appearing before a court in pursuance of such a notice, the court shall take cognizance of the offence alleged and shall proceed as though he were produced before the court in pursuance of section 136 of the Criminal Procedure Code (Cap.68).
+(3) On an accused person appearing before a court in pursuance of such a notice, the court shall take cognizance of the offence alleged and shall proceed as though he were produced before the court in pursuance of section 136 of the Criminal Procedure Code (Cap. 68).
 
 (4) If a person, upon whom such a notice has been served, fails to appear before a court in accordance therewith, the court shall thereupon issue a warrant for the arrest of that person.
 
@@ -842,7 +830,7 @@ MISCELLANEOUS
 
 (a) proceed as though he were produced in pursuance of section 136 of the Criminal Procedure Code; and
 
-(b) at the conclusion of the proceedings, call upon him to show cause why he should not be punished for failing to attend in compliance with the notice served upon him and if cause is not shown may order him to pay such fine not exceeding $2,000 as the court thinks fit or may commit him to prison for a term not exceeding 2 months.
+(b) at the conclusion of the proceedings, call upon him to show cause why he should not be punished for failing to attend in compliance with the notice served upon him and, if cause is not shown, may order him to pay such fine not exceeding $2,000 as the court thinks fit or may commit him to prison for a term not exceeding 2 months.
 
 ### Power of arrest
 
@@ -852,7 +840,7 @@ MISCELLANEOUS
 
 (b) the person omits or refuses to give his name and address or to furnish such other proof of identity as may be required; or
 
-(c) the person gives a name or an address or any proof of identity which the Commissioner, public health officer, police officer, or authorised officer, as the case may be, has reason to believe is false.
+(c) the person gives a name or an address or any proof of identity which the Commissioner, public health officer, police officer or authorised officer, as the case may be, has reason to believe is false.
 
 (2) A person arrested under this section may be detained until his name and address are correctly ascertained.
 
@@ -862,11 +850,11 @@ MISCELLANEOUS
 
 48\.—(1) Any person who is charged by the Commissioner or any public health officer, police officer or authorised officer with any offence under this Act or the regulations shall give his name and address and such other proof of identity to the Commissioner, public health officer, police officer or authorised officer, if so required.
 
-(2) The occupier of any premises, vessel or aircraft shall, if required by the Commissioner or any public health officer, police officer or authorised officer, give his name and other proof of identity and the name and address of the owner of the premises, vessel or aircraft, if known.
+(2) The occupier of any premises, vessel or aircraft shall, if required by the Commissioner or any public health officer , police officer or authorised officer, give his name and other proof of identity and the name and address of the owner of the premises, vessel or aircraft, if known.
 
 (3) Any person who contravenes this section or wilfully mis-states his name and address or the name and address of the owner of any premises, vessel or aircraft shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
 
-### Offence by body corporate
+### Offence by body corporate, etc.
 
 49\. Where an offence under this Act or the regulations has been committed by a body corporate, a partnership or an unincorporated association of persons, any person who, at the time of the commission of the offence, was a director, manager, partner, secretary or other similar officer thereof, or was purporting to act in any such capacity shall be guilty of that offence unless he proves that —
 
@@ -876,15 +864,15 @@ MISCELLANEOUS
 
 ### Limitation of liability
 
-50\. Except in any case where by reason of the act or omission complained of, any injury or danger to health subsists at the date of the complaint, no person shall be liable to any fine or penalty under this Act or the regulations for any offence under this Act or the regulations unless the complaint respecting the offence is made within one year after the date of the commission of such offence.
+50\. Except in any case where, by reason of the act or omission complained of, any injury or danger to health subsists at the date of the complaint, no person shall be liable to any fine or penalty under this Act or the regulations for any offence under this Act or the regulations unless the complaint respecting the offence is made within one year after the date of the commission of such offence.
 
 ### Jurisdiction of Courts
 
-51\. Notwithstanding anything to the contrary contained in the Criminal Procedure Code (Cap.68), a District Court or a Magistrate’s Court shall have jurisdiction to try any offence under this Act or the regulations and to impose the full penalty or punishment in respect of any such offence.
+51\. Notwithstanding anything to the contrary contained in the Criminal Procedure Code (Cap. 68), a District Court or a Magistrate’s Court shall have jurisdiction to try any offence under this Act or the regulations and to impose the full penalty or punishment in respect of any such offence.
 
 ### Forfeiture
 
-52\. Where any person is convicted of any offence under this Act or the regulations, the court may order that any article seized under this Act or the regulations be forfeited to the Government and may further order that such article be disposed of, under the direction of the Commissioner, by the person convicted at his own expense.
+52\. Where any person is convicted of any offence under this Act or the regulations, the court may order that any article seized under this Act or the regulations be forfeited to the Government and may further order that such article be disposed of, under the direction of the Commissioner , by the person convicted at his own expense.
 
 ### Composition of offences
 
@@ -896,7 +884,7 @@ MISCELLANEOUS
 
 54\. No suit or other legal proceedings shall lie against the Commissioner or any public health officer or authorised officer or any other person acting under the direction of the Commissioner for anything which is in good faith done in the execution or purported execution of this Act or the regulations.
 
-### Receipts and notices
+### Receipts, notices, etc.
 
 55\.—(1) All notices, orders, receipts, warrants and other documents of whatsoever nature which the Commissioner is empowered to give by this Act or the regulations may be given —
 
@@ -904,15 +892,15 @@ MISCELLANEOUS
 
 (b) by any public health officer or authorised officer.
 
-(2) Where any such notice, order, warrant or document requires authentication —
+(2) Where any such notice, order, receipt, warrant or document requires authentication —
 
-(a) the signature of the Commissioner, public health officer or authorised officer; or
+(a) the signature of the Commissioner, public health officeror authorised officer; or
 
-(b) a facsimile of such signature,
+(b) a facsimile of the signature of the Commissioner, public health officeror authorised officer,
 
 appended thereto shall be sufficient authentication.
 
-### Service of documents
+### Service of documents, etc.
 
 56\.—(1) Any notice, order or document required or authorised by this Act or the regulations to be served on any person, and any summons issued by a court against any person in connection with any offence under this Act or the regulations may be served on the person —
 
@@ -930,13 +918,17 @@ appended thereto shall be sufficient authentication.
 
 (2) Any notice, order, document or summons sent by registered post to any person in accordance with subsection (1) shall be deemed to be duly served on the person at the time when the notice, order, document or summons, as the case may be, would in the ordinary course of post be delivered and in proving service of the notice, order, document or summons it shall be sufficient to prove that the envelope containing the same was properly addressed, stamped and posted by registered post.
 
-(3) Any notice, order or document required or authorised by this Act or the regulations to be served on the owner or occupier of any premises, vessel or aircraft or any summons issued by a court against any such owner or occupier in connection with any offence under this Act or the regulations may be served by delivering it or a true copy thereof to some adult person on the premises, vessel or aircraft or, if there is no such person on the premises, vessel or aircraft to whom it can with reasonable diligence be delivered, by affixing the summons, notice, order or document to some conspicuous part of the premises, vessel or aircraft.
+(3) Any notice, order or document required or authorised by this Act or the regulations to be served on the owner or occupier of any premises, vessel or aircraft or any summons issued by a court against any such owner or occupier in connection with any offence under this Act or the regulations may be served —
+
+(a) by delivering it or a true copy thereof to some adult person on the premises, vessel or aircraft; or
+
+(b) if there is no such person on the premises, vessel or aircraft to whom it can with reasonable diligence be delivered, by affixing the notice, order, document or summons to some conspicuous part of the premises, vessel or aircraft.
 
 (4) Any notice, order or document required or authorised by this Act or the regulations to be served on the owner or occupier of any premises, vessel or aircraft or any summons issued by a court against any such owner or occupier in connection with any offence under this Act or the regulations shall be deemed to be properly addressed if addressed by the description of the owner or occupier of the premises, vessel or aircraft without further name or description.
 
-### Inaccuracies in documents
+### Inaccuracies in documents, etc.
 
-57\.—(1) No misnomer or inaccurate description of any person, premises, building, street, place, vessel or aircraft named or described in any notice, order or document prepared, issued or served under or for the purposes of this Act or the regulations shall in any way affect the operation of this Act or the regulations as respects that person, premises, building, street, place, vessel or aircraft if that person, premises, building, street, place, vessel or aircraft is so designated in the document as to be identifiable.
+57\.—(1) No misnomer or inaccurate description of any person, premises, building, street, place, vessel or aircraft named or described in any notice, order or document prepared, issued or served under or for the purposes of this Act or the regulations shall in any way affect the operation of this Act or the regulations as respects that person, premises, building, street, place, vessel or aircraft if that person, premises, building, street, place, vessel or aircraft is so designated in the notice, order or document as to be identifiable.
 
 (2) No proceedings taken under or by virtue of this Act or the regulations shall be invalid for want of form.
 
@@ -956,7 +948,7 @@ not less than 10 clear days before the commencement of the proceedings.
 
 (4) Where a certificate of an analyst appointed under section 4(3) is admitted in evidence under subsection (1), the person charged may require the analyst to be called as a witness for the prosecution and the analyst may be cross-examined as if he had given evidence of the matters stated in the certificate.
 
-(5) The contents of any document prepared, issued or served under or for the purposes of this Act or the regulations shall, until the contrary is proved, be presumed to be correct and the production of any document or book purporting to contain any apportionment made under this Act shall, without any other evidence whatever, be received as prima facie evidence of the making and validity of the apportionment mentioned therein.
+(5) The contents of any document prepared, issued or served under or for the purposes of this Act or the regulations shall, until the contrary is proved, be presumed to be correct and the production of any document or book purporting to contain any apportionment made under this Act shall, without any other evidence, be received as prima facie evidence of the making and validity of the apportionment mentioned therein.
 
 ### Exemption
 
@@ -1004,17 +996,25 @@ not less than 10 clear days before the commencement of the proceedings.
 
 (4) All regulations made under this Act shall be presented to Parliament as soon as possible after publication in theGazette.
 
-### Repeal and transitional
+### Savings
 
-61\.—(1) The Destruction of Disease-Bearing Insects Act (Cap.79) is repealed.
+61\.—(1) Any appointment, document, permission, resolution or scheme relating to any matter dealt with under this Act which was made, granted or approved under the repealed Destruction of Disease-Bearing Insects Act (Cap. 79) shall, except where otherwise expressly provided in this Act or in any other written law, continue and be deemed to have been made, granted or approved, as the case may be, under this Act.
 
-(2) Any appointment, document, permission, resolution or scheme relating to any matter dealt with under this Act which was made, granted or approved under the repealed Destruction of Disease-Bearing Insects Act shall, except where otherwise expressly provided in this Act or in any other written law, continue and be deemed to have been made, granted or approved, as the case may be, under this Act.
+(2) Any form used for the purposes of the repealed Destruction of Disease-Bearing Insects Act which was in force or effected immediately before 1st September 1998 shall continue in force and have effect as though prescribed under this Act until new forms are so prescribed.
 
-(3) Any form used for the purposes of the repealed Destruction of Disease-Bearing Insects Act which was in force or effected immediately before the commencement of this Act shall continue in force and have effect as though prescribed under this Act until new forms are so prescribed.
+## LEGISLATIVE HISTORY
 
-(4) Notwithstanding anything in this Act, every person who immediately before the date of commencement of this Act had been a vector control operator, a vector control technician or a vector control worker shall be entitled to continue acting as such —
+Control of Vectors and Pesticides Act
 
-(a) for a period of one month from that date; and
+(CHAPTER 59)
 
-(b) if before the expiry of that period he applies for registration as a vector control operator or for the grant of a vector control technician’s licence or a vector control worker’s certificate, until the date on which his application is granted, refused or withdrawn.
+This Legislative History is provided for the convenience of users of the Control of Vectors and Pesticides Act. It is not part of this Act.
 
+||||
+|:-|:-|:-|
+|1.|**Act 24 of 1998—Control of Vectors and Pesticides Act 1998**|
+||Date of First Reading|1 June 1998 (Bill No. 25/98 published on 2 June 1998)|
+||Date of Second and Third Readings|30 June 1998|
+||Date of commencement|1 September 1998|
+|2.|**1999 Revised Edition—Control of Vectors and Pesticides Act**|
+||Date of operation|30 December 1999|
