@@ -112,3 +112,8 @@ This Legislative History is provided for the convenience of users of the Sultan 
 ||Date of commencement|23 August 1985|
 |5.|**1985 Revised Edition—Sultan Hussain Ordinance**|
 ||Date of operation|30 March 1987|
+|6.|**Act 23 of 1999—Sultan Hussain (Amendment) Act 1999**|
+||Date of First Reading|4 May 1999|
+|||(Bill No. 15/1999 published on 5 May 1999)|
+||Date of Second and Third Readings|6 July 1999|
+||Date of commencement|21 July 1999|
