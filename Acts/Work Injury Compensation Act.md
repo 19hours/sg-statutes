@@ -1163,7 +1163,17 @@ Any occupation involving close contact with any source of severe acute respirato
 
 (d) as a laboratory worker or post-mortem worker or funeral services worker, where the occupation involves working with any human body or other material which is a source of severe acute respiratory syndrome (SARS) infection, or in any occupation ancillary to such employment.
 
+23. Avian Influenza
+
+Any occupation involving —
+
+(a) the handling of, or the exposure to, animals or birds; or
+
+(b) the exposure to any material or substance with the Avian Influenza virus.
+
 [S 254/2003 wef 19/05/2003]
+
+[S 68/2004 wef 16/02/2004]
 
 [S 336/86; S 316/95]
 
@@ -1470,3 +1480,5 @@ This Legislative History is provided for the convenience of users of the Workmen
 ||Date of operation|15 December 1998|
 |6.|**G. N. No. S 254/2003—Workmen’s Compensation Act (Amendment of Second Schedule) Order 2003**|
 ||Date of commencement|19 May 2003|
+|7.|**G. N. No. S 68/2004—Workmen’s Compensation Act (Amendment of Second Schedule) Order 2004**|
+||Date of commencement|16 February 2004|
