@@ -384,7 +384,7 @@ Perkumpulan Seni (Arts Group).
 
 27. 
 
-Photographic Society of Singapore.
+[Deleted by S 381/1996 wef 19/08/1996]
 
 28. 
 
@@ -630,9 +630,17 @@ The Eurasian Association, Singapore.
 
 84A. 
 
+The Photographic Society of Singapore.
+
+84A. 
+
+[S 381/1996 wef 19/08/1996]
+
+84B. 
+
 The Singapore Softball Association.
 
-[S 293/1994 wef 27/06/1994]
+[S 381/1996 wef 19/08/1996]
 
 85. 
 
@@ -756,3 +764,5 @@ This Legislative History is provided for the convenience of users of the People�
 ||Date of commencement|12 January 1995|
 |35.|**G. N. No. S 552/1995—People’s Association Act (Amendment of First Schedule) (No. 2) Notification 1995**|
 ||Date of commencement|6 December 1995|
+|36.|**G.N. No. S 381/96—People’s Association Act (Amendment of First Schedule) Notification 1996**|
+||Date of commencement|19 August 1996|
