@@ -1,4 +1,4 @@
-**Workmen’s Compensation Act**
+**Work Injury Compensation Act**
 
 **(CHAPTER 354)**
 
@@ -1136,6 +1136,35 @@ Any occupation involving close and frequent contact with a source or sources of 
 
 (d) as a laboratory worker, pathologist or post-mortem worker, where the occupation involves working with material which is a source of tuberculosis infection, or in any occupation ancillary to such employment.
 
+22. Severe Acute
+
+
+
+
+Respiratory
+
+
+
+
+Syndrome
+
+
+
+
+(SARS)
+
+Any occupation involving close contact with any source of severe acute respiratory syndrome (SARS) infection by reason of employment —
+
+(a) in the medical treatment or nursing of any person suffering from severe acute respiratory syndrome (SARS), or in a service ancillary to such treatment or nursing;
+
+(b) in attendance upon any person suffering from severe acute respiratory syndrome (SARS), where the need for such attendance arises by reason of physical or mental infirmity of the person or when engaged in the identification, detection, tracing, isolation, detention, supervision or surveillance of the person;
+
+(c) as a worker engaged in research on severe acute respiratory syndrome (SARS) or in a service ancillary to such research; or
+
+(d) as a laboratory worker or post-mortem worker or funeral services worker, where the occupation involves working with any human body or other material which is a source of severe acute respiratory syndrome (SARS) infection, or in any occupation ancillary to such employment.
+
+[S 254/2003 wef 19/05/2003]
+
 [S 336/86; S 316/95]
 
 THIRD SCHEDULE
@@ -1410,7 +1439,7 @@ Multiplying factor
 
 ## LEGISLATIVE HISTORY
 
-Workmen’s Compensation Act
+Work Injury Compensation Act
 
 (CHAPTER 354)
 
@@ -1439,3 +1468,5 @@ This Legislative History is provided for the convenience of users of the Workmen
 ||Date of commencement|1 September 1990|
 |5.|**1998 Revised Edition—Workmen’s Compensation Act (Chapter 354)**|
 ||Date of operation|15 December 1998|
+|6.|**G. N. No. S 254/2003—Workmen’s Compensation Act (Amendment of Second Schedule) Order 2003**|
+||Date of commencement|19 May 2003|
