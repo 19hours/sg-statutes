@@ -98,7 +98,7 @@ An Act to provide for the punishment of the offences of abduction, wrongful rest
 
 (3) For the purposes of this section —
 
-“bank” means any company carrying on the business of bankers in Singapore incorporated under any written law or licensed under the Banking Act [Cap. 19], and includes the Post Office Savings Bank of Singapore;
+“bank” means any company carrying on the business of bankers in Singapore incorporated under any written law or licensed under the Banking Act [Cap. 19];
 
 “book” includes ledgers, day books, cash books, account books and all other books and documents used in the ordinary course of the business of a bank or other person or body of persons, whether corporate or unincorporate.
 
@@ -190,3 +190,9 @@ This Legislative History is provided for the convenience of users of the Kidnapp
 |5.|**1985 Revised Edition—Kidnapping Act (Chapter 151)**|
 ||(G.N. No. S 22/1989 — Rectification Order)||
 ||Date of operation|30 March 1987|
+|6.|**Act 37 of 1998—Post Office Savings Bank of Singapore (Transfer of Undertakings and Dissolution) Act 1998**|
+||(Consequential amendments made by)||
+||Date of First Reading|31 July 1998|
+|||(Bill No. 34/98 published on 1 August 1998)|
+||Date of Second and Third Readings|12 October 1998|
+||Date of commencement|16 November 1998|
