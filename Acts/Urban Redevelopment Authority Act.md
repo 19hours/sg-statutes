@@ -70,7 +70,7 @@
 
 - [26 Annual report](#Annual-report)
 
-- [27 Investment](#Investment)
+- [27 Power of investment](#Power-of-investment)
 
 - [28 Application of profits of Authority](#Application-of-profits-of-Authority)
 
@@ -474,15 +474,11 @@ FINANCIAL PROVISIONS
 
 (2) The Minister shall cause a copy of every such report to be presented to Parliament.
 
-### Investment
+### Power of investment
 
-27\. The Authority may, with the approval of the Minister —
+27\. The Authority may invest its funds in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
 
-(a) invest its funds in such manner as it thinks fit; and
-
-(b) engage in any financial activity or participate in any financial arrangement for the purpose of managing or hedging against any financial risk that arises or is likely to arise from such investment.
-
-[29/2003 wef 05/12/2003]
+[45/2004 wef 15/12/2004]
 
 ### Application of profits of Authority
 
@@ -542,17 +538,17 @@ shall be transferred to and shall vest in the Authority without further assuranc
 
 ### Pension benefits
 
-36\.—(1) Nothing in the terms and conditions to be drawn up by the Authority shall adversely affect the conditions that would have been applicable to persons transferred to the service of the Authority as regards any pension, gratuity or allowance payable under the Pensions Act [Cap. 225].
+36\.—(1) Nothing in the terms and conditions to be drawn up by the Authority shall adversely affect the conditions that would have been applicable to persons transferred to the service of the Authority as regards any pension, gratuity or allowance payable under the Pensions Act (Cap. 225).
 
 (2) In every case where a person employed by the Government in the Planning Department or the Research and Statistics Unit has been transferred to the service of the Authority under section 34, the Government shall be liable to pay to the Authority such portion of any gratuity, pension or allowance payable to such person on his retirement or otherwise leaving the service of the Authority as the same shall bear to the proportion which the aggregate amount of his pensionable emoluments during his service with the Government bears to the aggregate amount of his pensionable emoluments during his service under both the Government and the Authority.
 
 (3) Where any person in the service of the Authority whose case does not come within the scope and effect of any pension or other schemes referred to under this section, retires or dies in the service of the Authority or is discharged from such service, the Authority may grant to him or to such other person or persons wholly or partly dependent on him, as the Authority may think fit, such allowance or gratuity as the Authority may determine.
 
-(4) Where any person who is transferred to the service of the Authority under section 34 is a contributor under the Widows’ and Orphans’ Pension Act, he shall for the purposes of that Act continue to make contributions under that Act as if he had not been transferred to the service of the Authority, and for the purposes of that Act his service with the Authority shall be deemed to be service with the Government.
+(4) Where any person who is transferred to the service of the Authority under section 34 is a contributor under the Widows’ and Orphans’ Pension Act (Cap. 350), he shall for the purposes of that Act continue to make contributions under that Act as if he had not been transferred to the service of the Authority, and for the purposes of that Act his service with the Authority shall be deemed to be service with the Government.
 
 ### No benefits in respect of abolition or reorganisation of office
 
-37\. Notwithstanding the provisions of the Pensions Act [Cap. 225], no person who is transferred to the service of the Authority under section 34 shall be entitled to claim any benefit under the Pensions Act on the ground that he has been retired from the service of the Government on account of abolition or reorganisation of office in consequence of the establishment and incorporation of the Authority.
+37\. Notwithstanding the provisions of the Pensions Act (Cap. 225), no person who is transferred to the service of the Authority under section 34 shall be entitled to claim any benefit under the Pensions Act on the ground that he has been retired from the service of the Government on account of abolition or reorganisation of office in consequence of the establishment and incorporation of the Authority.
 
 38\. [Repealed by Act 11/2003 wef 01/08/2003]
 
@@ -580,11 +576,9 @@ SALE OF UNITS
 
 42\. For the purposes of the registration of an assurance pertaining to the sale by the Authority of any unit, the mortgage of such unit in favour of the Authority or the reconveyance or discharge of such mortgage —
 
-(a) in the case of land registered under the provisions of the Registration of Deeds Act [Cap. 269,], section 12 of that Act shall not apply; and
+(a) in the case of land registered under the provisions of the Registration of Deeds Act (Cap. 269, 1989 Ed.), section 12 of that Act shall not apply; and
 
-[1989 Ed.]
-
-(b) in the case of land registered under the provisions of the Land Titles Act [Cap. 157], where a solicitor is not employed by the party acquiring title under an instrument relating to the transactions referred to in this section, a certificate of an officer authorised in writing in that behalf by the Authority, shall be sufficient for the purposes of section 54(4) of that Act.
+(b) in the case of land registered under the provisions of the Land Titles Act (Cap. 157), where a solicitor is not employed by the party acquiring title under an instrument relating to the transactions referred to in this section, a certificate of an officer authorised in writing in that behalf by the Authority, shall be sufficient for the purposes of section 54(4) of that Act.
 
 ## PART VIII
 
@@ -987,3 +981,9 @@ This Legislative History is provided for the convenience of users of the Urban R
 |||(Bill No. 26/2003 published on 17 October 2003)|
 ||Date of Second and Third Readings|11 November 2003|
 ||Date of commencement|5 December 2003|
+|11.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 September 2004|
+|||(Bill No. 43/2004 published on 22 September 2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|15 December 2004|
