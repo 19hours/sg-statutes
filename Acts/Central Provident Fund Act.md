@@ -2687,3 +2687,5 @@ This Legislative History is provided for the convenience of users of the Central
 |||(Bill No. 33/99 published on 12 October 1999)|
 ||Date of Second and Third Readings|23 November 1999|
 ||Date of commencement|1 December 1999|
+|107.|**G.N. No. S 258/2000—Central Provident Fund Act (Amendment of Third Schedule) Notification 2000**|
+||Dates of commencement|10 December 1999 (paragraph 2(c))|
