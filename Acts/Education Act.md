@@ -1016,7 +1016,7 @@ INSPECTION OF REGISTERED SCHOOLS AND EXAMINATION OF UNREGISTERED PREMISES
 
 ### Appointment of persons deemed to be inspectors
 
-51\. The President may by notification in theGazetteappoint by name or office —
+51\. The Minister may by notification in theGazetteappoint by name or office —
 
 (a) any officer of the Ministry of Education to be an inspector of schools;
 
@@ -1025,6 +1025,8 @@ INSPECTION OF REGISTERED SCHOOLS AND EXAMINATION OF UNREGISTERED PREMISES
 (c) any public health inspector to be a health inspector of schools,
 
 each of whom for the purpose of this Act shall be deemed to be an inspector of schools.
+
+[7/97 wef 01/10/1997]
 
 [50
 
@@ -1867,3 +1869,8 @@ This Legislative History is provided for the convenience of users of the Educati
 |||(Bill No. 8/1997 published on 23 July 1997)|
 ||Date of Second and Third Readings|25 August 1997|
 ||Date of commencement|2 September 1997|
+|12.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
+||Date of First Reading|11 July 1997|
+|||(Bill No. 6/1997 published on 12 July 1997)|
+||Date of Second and Third Readings|25 August 1997|
+||Dates of commencement|1 October 1997 (except section 3)|
