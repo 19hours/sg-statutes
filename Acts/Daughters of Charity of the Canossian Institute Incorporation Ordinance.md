@@ -18,7 +18,7 @@
 
 - [6 Notification of appointment of Mother Superior of the Society of the Daughters of Charity of the Canossian Institute](#Notification-of-appointment-of-Mother-Superior-of-the-Society-of-the-Daughters-of-Charity-of-the-Canossian-Institute)
 
-- [7 Saving of Crown and other rights](#Saving-of-Crown-and-other-rights)
+- [7 Saving of Government and other rights](#Saving-of-Government-and-other-rights)
 
 [**THE SCHEDULE**](#THE-SCHEDULE)
 
@@ -34,7 +34,9 @@ REVISED EDITION 1985
 
 (30th March 1987)
 
-An Ordinance to incorporate the Mother Superior of the Society of the Daughters of Charity of the Canossian Institute in the Colony of Singapore.
+An Ordinance to incorporate the Mother Superior of the Society of the Daughters of Charity of the Canossian Institute in the Colony of Singapore.\*
+
+\*Note:This private Ordinance is reproduced in the form it appears in the 1955 Revised Edition.
 
 [23rd November 1949]
 
@@ -70,9 +72,11 @@ An Ordinance to incorporate the Mother Superior of the Society of the Daughters 
 
 6\. A notification in theGazetteof the appointment of any person to exercise the office of the Mother Superior of the Daughters of Charity of the Canossian Institute (Singapore) shall be conclusive evidence that such person was duly authorised to exercise the said office in the Colony.
 
-### Saving of Crown and other rights
+### Saving of Government and other rights
 
-7\. Nothing in this Ordinance contained shall affect the rights of Her Majesty the Queen, Her Heirs and Successors , all bodies politic and corporate, and all others, except such as are mentioned in this Ordinance and those claiming by, from or under them.
+7\. Nothing in this Ordinance contained shall affect the rights of the Government, all bodies politic and corporate, and all others, except such as are mentioned in this Ordinance and those claiming by, from or under them.
+
+[7/97 wef 01/10/1997]
 
 ## THE SCHEDULE
 
@@ -84,17 +88,21 @@ Estate
 
 Persons or body in whom land vested prior to this Act
 
-(1) All that piece of land situate in the District of Kallang in the Island of Singapore estimated according to Government Resurvey to contain an area of 21650.2 square metres and marked on the Government Resurvey Map as Lot 1846of Mukim XXIV being part of the land comprised in Grants Nos. 29, 80, 93 and 58 or some or one of them.
+(1)
+
+All that piece of land situate in the District of Kallang in the Island of Singapore estimated according to Government Resurvey to contain an area of 21650.2 square metres and marked on the Government Resurvey Map as Lot 1846of Mukim XXIV being part of the land comprised in Grants Nos. 29, 80, 93 and 58 or some or one of them.
 
 Fee simple
 
-Victoria Garré and Bertilia Lim.
+Vittoria Garré and Bertilia Lim.
 
-(2) All that piece of land situate in the District of Bedok in the Island of Singapore estimated to contain according to Government Resurvey an area of 8498.4 square metres and marked on the Government Resurvey Map as Lot 163 of Mukim XXVII being part of the land comprised in and described in the plan drawn on East India Company’s Grant No.63 dated 21st September 1857 and made in favour of Punglima Puteh.
+(2)
+
+All that piece of land situate in the District of Bedok in the Island of Singapore estimated to contain according to Government Resurvey an area of 8498.4 square metres and marked on the Government Resurvey Map as Lot 163 of Mukim XXVII being the land comprised in and described in the plan drawn on East India Company’s Grant No.63 dated 21st September 1857 and made in favour of Punglima Puteh.
 
 Fee simple
 
-Victoria Garré
+Vittoria Garré
 
 ## LEGISLATIVE HISTORY
 
@@ -110,7 +118,12 @@ This Legislative History is provided for the convenience of users of the Daughte
 ||Date of commencement|23 November 1949|
 |2.|**1955 Revised Edition—Daughters of Charity of the Canossian Institute Incorporation Ordinance (Cap. 296)**|
 ||Date of operation|1 May 1955|
-|3.|**G. N. No. S 215/1985**|
-||Date of commencement|14 August 1985|
+|3.|**G. N. No. S 215/1985—The Metrication (Daughters of Charity of the Canossian Institute Incorporation Ordinance) Order 1985**|
+||Date of commencement|23 August 1985|
 |4.|**1985 Revised Edition—Daughters of Charity of the Canossian Institute Incorporation Ordinance**|
 ||Date of operation|30 March 1987|
+|5.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
+||Date of First Reading|11 July 1997|
+|||(Bill No. 6/1997 published on 12 July 1997)|
+||Date of Second and Third Readings|25 August 1997|
+||Dates of commencement|1 October 1997 (item (17) in the First Schedule)|
