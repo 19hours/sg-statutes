@@ -284,7 +284,9 @@ PRELIMINARY
 
 “Chief Executive Officer” means the Chief Executive Officer appointed under section 38;
 
-“Collector” means any officer appointed by the Minister for Law to be a Collector of Land Revenue or a Deputy Collector of Land Revenue;
+“Collector” has the same meaning as in the Land Revenue Collection Act (Cap. 155);
+
+[17/2001 wef 01/06/2001]
 
 “commercial property” means any flat, house or building or any part thereof which is permitted to be used pursuant to the Planning Act (Cap. 232) or any other written law for the purpose of carrying on any business or which is lawfully so used;
 
@@ -4703,7 +4705,7 @@ SEMBAWANG
 
 (E) All that part of Lot 943 Mukim 13 together with the buildings thereon and delineated in red on Plan JTC/CB 327/2 excluding all those lands described in Part I (E) of this Schedule.
 
-Note: The Plans referred to in thisSchedule maybe inspected at the Land Office, 8 Shenton Way #25-01,Temasek Tower, Singapore 068811.
+Note: The Plans referred to in thisSchedule maybe inspected at the Singapore Land Authority, 8 Shenton Way #25-01,Temasek Tower, Singapore 068811.
 
 ## LEGISLATIVE HISTORY
 
@@ -4843,3 +4845,9 @@ This Legislative History is provided for the convenience of users of the Housing
 |||(Bill No. 16/2000 published on 10 May 2000)|
 ||Date of Second and Third Readings|23 May 2000|
 ||Date of commencement|1 July 2000|
+|28.|**Act 17 of 2001—Singapore Land Authority Act 2001**|
+||(Consequential amendments made by)||
+||Date of First Reading|5 March 2001|
+|||(Bill No. 17/2001 published on 7 March 2001)|
+||Date of Second and Third Readings|19 April 2001|
+||Date of commencement|1 June 2001|
