@@ -5638,7 +5638,7 @@ RELIEF AGAINST DOUBLE TAXATION
 
 [5/77]
 
-(2A) In subsection (2)(b), “effective rate of tax” means the rate of tax as ascertained in accordance with the formula
+(2A) In subsection (2) (b), “effective rate of tax” means the rate of tax as ascertained in accordance with the formula
 
 where A
 
@@ -6870,6 +6870,8 @@ Cap. 47.
 
 Cap. 260.
 
+9A. Defence Science and Technology Agency
+
 10. Dental Council
 
 Act 24 of 1999
@@ -7099,6 +7101,8 @@ Cap. 375.
 11. Young Men’s Christian Association
 
 12. Young Women’s Christian Association
+
+[9/2000 wef 15/03/2000]
 
 SECOND SCHEDULE
 
@@ -8155,6 +8159,12 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 20/2000 published on 1 July 2000)|
 ||Date of Second and Third Readings|25 August 2000|
 ||Date of commencement|18 January 2000 (Section 4)|
+|140.|**Act 9 of 2000—Defence Science and Technology Agency Act 2000**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|17 January 2000|
+|||(Bill No. 1/2000 published on 18 January 2000)|
+||Date of Second and Third Readings|21 February 2000|
+||Date of commencement|15 March 2000|
 ## COMPARATIVE TABLE
 
 Income Tax Act
