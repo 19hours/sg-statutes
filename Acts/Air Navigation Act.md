@@ -112,7 +112,7 @@ PRELIMINARY
 
 “Authority” means the Civil Aviation Authority of Singapore established under section 3 of the Civil Aviation Authority of Singapore Act [Cap. 41];
 
-“Chicago Convention” means the Convention on International Civil Aviation signed by the Government of the United Kingdom at Chicago on 7th December 1944;
+“Chicago Convention” means the Convention on International Civil Aviation at Chicago on 7th December 1944;
 
 “controlled area” means any area declared to be a controlled area under section 20;
 
@@ -142,7 +142,7 @@ CONTROL AND REGULATION OF AVIATION
 
 (a) for carrying out the Chicago Convention, any Annex thereto relating to international standards and recommended practices (being an Annex adopted in accordance with the Convention) and any amendment of the Convention or any such Annex made in accordance with the Convention; or
 
-(b) generally for regulating air navigation.
+(bc) generally for regulating air navigation.
 
 (2) Without prejudice to the generality of the powers conferred by subsection (1) and without prejudice to any of the provisions of this Act, the Minister may, by order, make provision —
 
@@ -200,7 +200,7 @@ CONTROL AND REGULATION OF AVIATION
 
 Provided that this subsection shall not apply in relation to any spare parts or spare equipment which are sold or distributed in Singapore or are exported from Singapore for sale or distribution.
 
-(3) This section applies to an aircraft, other than an aircraft used in military, customs or police service, registered in any country or territory in the case of which there is for the time being in force an order made by the Minister, with a view to the fulfilment of the provisions of the Chicago Convention to which this section relates, that the benefits of those provisions apply to that country or territory, and to such other aircraft as the President may, by order, specify.
+(3) This section applies to an aircraft, other than an aircraft used in military, customs or police service, registered in any country or territory in the case of which there is for the time being in force an order made by the Minister, with a view to the fulfilment of the provisions of the Chicago Convention to which this section relates, that the benefits of those provisions apply to that country or territory, and to such other aircraft as the Minister may, by order, specify.
 
 ### Special powers in case of emergency
 
@@ -214,7 +214,7 @@ Provided that no compensation shall be payable by reason of the operation of a g
 
 ### Prohibited carriage and prohibited photography over protected areas
 
-7\.—(1) The President may by order published in theGazettedeclare any area to be a protected area within the meaning of this section.
+7\.—(1) The Minister may by order published in theGazettedeclare any area to be a protected area within the meaning of this section.
 
 (2) An aircraft flying over any protected area shall not carry —
 
@@ -224,11 +224,15 @@ Provided that no compensation shall be payable by reason of the operation of a g
 
 Provided that this paragraph shall not apply to photographic apparatus allowed to be used by a person in accordance with the terms of a permit issued to him under subsection (3).
 
-(3) (a) No person shall take from an aircraft any photograph of a protected area except in accordance with the terms and conditions in such permit as the Authority may see fit to issue to him.
+(3)(a) No person shall take from an aircraft any photograph of a protected area except in accordance with the terms and conditions in such permit as the Authority may see fit to issue to him.
 
-(b) It may be a term or condition of such permit that any photograph taken under the permit must immediately be submitted for examination to such authority as is specified in the permit.
+(b)
 
-(c) A person who observes all the terms and conditions of a permit shall not be guilty of an offence under section 3 of the Official Secrets Act [Cap. 213] in respect of a photograph taken in accordance with the terms and conditions of the permit.
+It may be a term or condition of such permit that any photograph taken under the permit must immediately be submitted for examination to such authority as is specified in the permit.
+
+(c)
+
+A person who observes all the terms and conditions of a permit shall not be guilty of an offence under section 3 of the Official Secrets Act [Cap. 213] in respect of a photograph taken in accordance with the terms and conditions of the permit.
 
 (4) It shall be the duty of the person in charge of the aircraft to ensure that any photographic apparatus carried in the aircraft is not used while the aircraft is flying over any protected area, and that the seals with which the apparatus is sealed are not broken within any protected area without the sanction of the Director-General of Customs and Excise or his agent.
 
@@ -304,9 +308,9 @@ For the purposes of this section, “owner” in relation to an aircraft include
 
 (2) For the purposes of this section the personnel of an aircraft shall be deemed to include the commander or other person in charge of the aircraft, and all other members of the crew of the aircraft.
 
-[15 in the 1970 Edition was repealed by Act 12 of 1971.\*
+[15\**
 
-\*Section 14
+\*Section 14 in the 1970 Edition was repealed by Act 12 of 1971.
 
 ### Information as to air transport undertakings and use of customs aerodromes
 
@@ -332,7 +336,9 @@ Provided that a person carrying on such a business as is mentioned in paragraph 
 
 (4) Nothing in subsection (3) shall apply to the disclosure of any information for the purposes of any legal proceedings which may be taken by virtue of this subsection or of regulations made under this section, or for the purpose of any report of any such proceedings, but, save as aforesaid, the restriction imposed by this subsection shall, in relation to any legal proceedings (including arbitrations), extend so as to prohibit and prevent any person who is in possession of any such information so obtained from disclosing, and from being required by any court or arbitrator to disclose that information (whether as a witness or otherwise) except with the consent of the person carrying on the undertaking to which the information relates.
 
-(5) In this section, “customs aerodrome” means an aerodrome for the time being appointed as a place of landing and departure of aircraft for the purposes of any written law relating to customs.
+(5) In this section,
+
+“customs aerodrome” means an aerodrome for the time being appointed as a place of landing and departure of aircraft for the purposes of any written law relating to customs.
 
 [16
 
@@ -416,7 +422,7 @@ Provided that no such order shall be made in relation to any structure if it app
 
 (a) “aerodrome to which this section applies” means any premises which, by virtue of an order made under section 3, are for the time being licensed as an aerodrome for public use or any Government aerodrome; and
 
-(b) “proprietor of the aerodrome”, in relation to any premises used or appropriated for use as an aerodrome, means the person carrying on or entitled to carry on the business of an aerodrome in those premises, or, in the case of a Government aerodrome, the officer in charge of such aerodrome.
+(b) “proprietor of the aerodrome” in relation to any premises used or appropriated for use as an aerodrome, means the person carrying on or entitled to carry on the business of an aerodrome in those premises, or, in the case of a Government aerodrome, the officer in charge of such aerodrome.
 
 [19
 
@@ -562,10 +568,18 @@ This Legislative History is provided for the convenience of users of the Air Nav
 |||(Bill No. 4/1971)|
 ||Date of Second and Third Readings|Dates not available.|
 ||Date of commencement|1 January 1972|
-|4.|**Act 32 of 1986—Statutes (Miscellaneous Amendments) Act 1986**|
+|4.|**1985 Revised Edition—Air Navigation Act**|
+||Date of operation|1 January 1985|
+|5.|**Act 32 of 1986—Statutes (Miscellaneous Amendments) Act 1986**|
 ||Date of First Reading|27 October 1986|
 |||(Bill No. 24/1986 published on 23 January 1987)|
 ||Date of Second and Third Readings|9 December 1986|
 ||Date of commencement|23 January 1987|
-|5.|**1985 Revised Edition—Air Navigation Act**|
+|6.|**1985 Revised Edition—Air Navigation Act**|
 ||Date of operation|30 March 1987|
+|7.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
+||Date of First Reading|11 July 1997|
+|||(Bill No. 6/1997 published on 12 September 1997)|
+||Date of Second and Third Readings|25 August 1997|
+||Dates of commencement|1 October 1997|
+|||1 September 1998|
