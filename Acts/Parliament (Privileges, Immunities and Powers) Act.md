@@ -60,7 +60,7 @@
 
 - [23 Recovery of fine](#Recovery-of-fine)
 
-- [24 Power to order the attendance of offenders](#Power-to-order-the-attendance-of-offenders)
+- [24 Power to order attendance of offenders](#Power-to-order-attendance-of-offenders)
 
 - [25 Attendance of offenders to be notified by summons](#Attendance-of-offenders-to-be-notified-by-summons)
 
@@ -94,11 +94,13 @@
 
 - [38 Powers of Speaker supplementary to powers otherwise conferred](#Powers-of-Speaker-supplementary-to-powers-otherwise-conferred)
 
-- [39 Speaker to act notwithstanding dissolution or prorogation of Parliament](#Speaker-to-act-notwithstanding-dissolution-or-prorogation-of-Parliament)
+- [39 Speaker to act notwithstanding prorogation or dissolution of Parliament](#Speaker-to-act-notwithstanding-prorogation-or-dissolution-of-Parliament)
 
 - [40 Journals to be admitted as evidence](#Journals-to-be-admitted-as-evidence)
 
 [**Legislative History**](#Legislative-History)
+
+[**Comparative Table**](#Comparative-Table)
 
 # Parliament (Privileges, Immunities and Powers) Act
 
@@ -106,9 +108,9 @@
 
 (Original Enactment: Ordinance 11 of 1962)
 
-REVISED EDITION 1985
+REVISED EDITION 2000
 
-(30th March 1987)
+(1st July 2000)
 
 An Act to declare and define the privileges, immunities and powers of Parliament and of the Speaker, Members and committees thereof, to regulate the conduct of Members and other persons in connection with the proceedings thereof, to give protection to persons employed in the publication of the reports and other papers of Parliament and for purposes incidental to or connected with the matters aforesaid.
 
@@ -132,7 +134,7 @@ PRELIMINARY
 
 “contempt” includes any breach of privilege of Parliament and the commission of any offence mentioned in Part V;
 
-“court” includes an Industrial Arbitration Court established, and any board of inquiry appointed, under the Industrial Relations Act [Cap. 136];
+“court” includes an Industrial Arbitration Court established, and any board of inquiry appointed, under the Industrial Relations Act (Cap. 136);
 
 “journals” means the votes and proceedings of Parliament, the official reports or records of the proceedings thereof, and the minutes or records of the proceedings of any committee;
 
@@ -142,7 +144,7 @@ PRELIMINARY
 
 “Parliament” includes a committee and, where the context so admits, Parliament House and the precincts thereof;
 
-“police officer” has the same meaning as in the Police Force Act [Cap. 235];
+“police officer” has the same meaning as in the Police Force Act (Cap. 235);
 
 “Speaker” means the Speaker and, in his absence, the Deputy Speaker of Parliament and includes any other Member when such other Member is presiding at a sitting of Parliament or a committee of the whole Parliament;
 
@@ -168,15 +170,13 @@ GENERAL
 
 4\. Nothing in this Act shall be construed in any way as derogating from the provisions of section 3 and the powers conferred on Parliament by other provisions of this Act shall be in addition to the powers conferred by that section.
 
-[3A
-
 [23/86]
 
 ### Freedom of speech and debate and proceedings
 
 5\. There shall be freedom of speech and debate and proceedings in Parliament, and such freedom of speech and debate and proceedings shall not be liable to be impeached or questioned in any court, commission of inquiry, tribunal or any other place whatsoever out of Parliament.
 
-[4
+[43/2007 wef 01/11/2007]
 
 ## PART III
 
@@ -188,19 +188,15 @@ PRIVILEGES AND IMMUNITIES
 
 (2) No person shall be liable to any civil or criminal proceedings, arrest, imprisonment or damages by reason of any act done under the authority of Parliament or the Speaker and within its or his legal powers or under any warrant issued by virtue of those powers.
 
-[5
-
 ### Protection of Parliamentary publications
 
-7\. Any person being a defendant in any civil or criminal proceedings instituted for or on account or in respect of the publication by such person or by his employee, by order or under the authority of Parliament or any committee, of any reports, papers or journals may on giving to the plaintiff or prosecutor, as the case may be, 24 hours’ written notice of his intention, bring before the court in which the civil or criminal proceedings are being held a certificate under the hand of the Speaker or of the Clerk stating that the reports, papers or journals in respect whereof the civil or criminal proceedings have been instituted were published by that person or by his employee by order or under the authority of Parliament or any committee, and the court shall thereupon immediately stay the civil or criminal proceedings, and the same and every process issued therein shall be deemed to be finally determined.
+7\.—(1) Any person being a defendant in any civil or criminal proceedings instituted for or on account or in respect of the publication by such person or by his employee, by order or under the authority of Parliament or any committee, of any reports, papers or journals may on giving to the plaintiff or prosecutor, as the case may be, 24 hours’ written notice of his intention, bring before the court in which the civil or criminal proceedings are being held a certificate under the hand of the Speaker or of the Clerk stating that the reports, papers or journals in respect whereof the civil or criminal proceedings have been instituted were published by that person or by his employee by order or under the authority of Parliament or any committee.
 
-[6
+(2) The court shall thereupon immediately stay the civil or criminal proceedings, and the same and every process issued therein shall be deemed to be finally determined.
 
 ### Publication of proceedings without malice
 
 8\. In any civil or criminal proceedings instituted for printing or publishing any extract from or abstract of any report, paper or journal as in section 7 mentioned, if the court is satisfied that the extract or abstract was printed or published bona fide and without malice, judgment shall be entered for the defendant or accused.
-
-[7
 
 ### Exemption from certain duties
 
@@ -210,21 +206,21 @@ PRIVILEGES AND IMMUNITIES
 
 (b) while in attendance on Parliament or any committee, to compel such person to attend as a witness in any court or tribunal or at any commission of inquiry or before any like authority empowered to summon witnesses.
 
-(2) The production of a certificate signed by the Speaker or the chairman of the committee shall be deemed sufficient proof of attendance on Parliament or the committee.
+[43/2007 wef 01/11/2007]
 
-[8
+(2) The production of a certificate signed by the Speaker or the chairman of the committee shall be deemed sufficient proof of attendance on Parliament or the committee.
 
 ### Freedom from arrest in civil proceedings
 
 10\. Except for a contravention of this Act, no Member shall be liable to arrest, detention or molestation in respect of any matter which may be the subject of any civil proceedings while proceeding to, or in attendance at, or returning from, any sitting of Parliament or any committee.
 
-[9
-
 ### Legal process not to be served or executed within precincts of Parliament
 
-11\. Notwithstanding anything in any written law and except in respect of a contravention of this Act, no civil or criminal process may be served or executed in Parliament or in the precincts thereof while Parliament is sitting, or in any room in Parliament while a committee is sitting therein.
+11\. Notwithstanding anything in any written law and except in respect of a contravention of this Act, no civil or criminal process may be served or executed —
 
-[10
+(a) in Parliament or in the precincts thereof while Parliament is sitting; or
+
+(b) in any room in Parliament while a committee is sitting therein.
 
 ## PART IV
 
@@ -238,17 +234,27 @@ POWERS
 
 13\.—(1) An order to attend or to produce any paper, book, record or document before Parliament or before any committee shall be notified to the person required to attend or produce such paper, book, record or document by a summons under the hand of the Clerk issued by direction of the Speaker.
 
-(2) In every such summons there shall be stated the time when and the place where the person summoned is required to attend and the particular documents which he is required to produce, and the summons shall be served on the person mentioned therein, either by delivering to him a copy thereof or by leaving a copy thereof at his usual or last known place of abode in Singapore with some adult person.
+(2) In every such summons there shall be stated the time when and the place where the person summoned is required to attend and the particular documents which he is required to produce.
 
-(3) Such summons may be served by an officer of Parliament or by a police officer.
+(3) The summons referred to in subsection (2) shall be served on the person mentioned therein either by delivering to him a copy thereof or by leaving a copy thereof at his usual or last known place of abode in Singapore with some adult person.
+
+(4) Such summons may be served by an officer of Parliament or by a police officer.
 
 ### Witnesses may be examined on oath or affirmation
 
-14\. Parliament or a committee may require that any facts, matters and things relating to the subject of inquiry before Parliament or the committee be verified or otherwise ascertained by the oral examination of witnesses, and may cause the witnesses to be examined upon oath, or if the witnesses so desire, upon affirmation, which the Speaker or the Clerk or the chairman of the committee or the clerk to the committee may administer.
+14\. Parliament or a committee may —
+
+(a) require that any facts, matters and things relating to the subject of inquiry before Parliament or the committee be verified or otherwise ascertained by the oral examination of witnesses; and
+
+(b) cause the witnesses to be examined upon oath, or if the witnesses so desire, upon affirmation, which the Speaker or the Clerk or the chairman of the committee or the clerk to the committee may administer.
 
 ### Objections to answer questions or to produce papers to be reported to Parliament for decision
 
-15\. If any person ordered to attend or to produce any paper, book, record or document before Parliament or before any committee refuses to answer any question that may be put to him or to produce any such paper, book, record or document on the ground that the same is of a private nature and does not affect the subject of inquiry, the Speaker or the chairman of the committee, as the case may be, may excuse the answering of that question or the production of that paper, book, record or document, or may order the answering or production thereof, or the Speaker or the chairman of the committee, as the case may be, may report to Parliament such refusal with the reason therefor and Parliament may direct the Speaker or chairman to take such action as it considers proper.
+15\. If any person ordered to attend or to produce any paper, book, record or document before Parliament or before any committee refuses to answer any question that may be put to him or to produce any such paper, book, record or document on the ground that the same is of a private nature and does not affect the subject of inquiry, the Speaker or the chairman of the committee, as the case may be, may —
+
+(a) excuse the answering of that question or the production of that paper, book, record or document, or may order the answering or production thereof; or
+
+(b) report to Parliament such refusal with the reason therefor and Parliament may direct the Speaker or chairman to take such action as it considers proper.
 
 ### Privilege of witnesses
 
@@ -260,9 +266,9 @@ POWERS
 
 if the President certifies that the paper, book, record or other document or the evidence relates to affairs of State and that the public interest would suffer by the production thereof.
 
-(2) Every person summoned to attend to give evidence or to produce any paper, book, record or other document before Parliament shall be entitled in respect of such evidence or the disclosure of any communication or the production of any such paper, book or record or other document to the same privilege as before a court of law:
+(2) Every person summoned to attend to give evidence or to produce any paper, book, record or other document before Parliament shall be entitled in respect of such evidence or the disclosure of any communication or the production of any such paper, book or record or other document to the same privilege as before a court of law.
 
-Provided that sections 125 and 126 of the Evidence Act [Cap. 97] shall not be applicable in any case where a public officer is so summoned to attend before Parliament.
+(3) Sections 125 and 126 of the Evidence Act (Cap. 97) shall not be applicable in any case where a public officer is so summoned to attend before Parliament.
 
 ### Immunity of witness in respect of evidence
 
@@ -270,7 +276,7 @@ Provided that sections 125 and 126 of the Evidence Act [Cap. 97] shall not be ap
 
 (2) Except in proceedings referred to in subsection (3), no statement made by any person in evidence before Parliament or any committee shall be admissible in evidence against that person in any civil or criminal proceedings or in any court.
 
-(3) Nothing in subsections (1) and (2) shall prevent or be deemed to prevent the institution or maintenance of any proceedings against any person for an offence under section 191 of the Penal Code [Cap. 224] or for any offence under this Act in respect of any evidence given by him before Parliament or any committee.
+(3) Nothing in subsections (1) and (2) shall prevent or be deemed to prevent the institution or maintenance of any proceedings against any person for an offence under section 191 of the Penal Code (Cap. 224) or for any offence under this Act in respect of any evidence given by him before Parliament or any committee.
 
 ### Powers of Parliament in regard to strangers
 
@@ -298,9 +304,15 @@ Provided that sections 125 and 126 of the Evidence Act [Cap. 97] shall not be ap
 
 [23/86]
 
-(2) Where a Member has been found guilty of abuse of privilege in respect of anything said in Parliament by him, Parliament may, by resolution and without prejudice to its powers under subsection (1), suspend him for such period as may be specified in the resolution from the privileges and immunities conferred by sections 3, 5 and 6 in so far as they relate to liability to civil proceedings; and during the period so specified such privileges and immunities shall cease to apply to the Member who shall be liable to civil proceedings in respect of anything said by him in, or any written statement made by him to, Parliament.
+(2) Where a Member has been found guilty of abuse of privilege in respect of anything said in Parliament by him, Parliament may, by resolution and without prejudice to its powers under subsection (1), suspend him for such period as may be specified in the resolution from the privileges and immunities conferred by sections 3, 5 and 6 in so far as they relate to liability to civil proceedings.
 
-(3) For any contempt on the part of a stranger, Parliament may —
+[23/86]
+
+(3) During the period specified under subsection (2) such privileges and immunities shall cease to apply to the Member who shall be liable to civil proceedings in respect of anything said by him in, or any written statement made by him to, Parliament.
+
+[23/86]
+
+(4) For any contempt on the part of a stranger, Parliament may —
 
 (a) commit him to prison for a term not extending beyond the current session of Parliament;
 
@@ -310,35 +322,49 @@ Provided that sections 125 and 126 of the Evidence Act [Cap. 97] shall not be ap
 
 (d) direct that he be reprimanded or admonished at the Bar of the House by the Speaker.
 
+[23/86]
+
 ### Procedure in cases of contempt
 
 21\.—(1) If it is alleged or appears that any person has committed any offence mentioned in section 20, Parliament may —
 
-(a) if the offence is alleged to have been or has apparently been committed in the view of Parliament or in the precincts thereof when Parliament is sitting or in any committee, deal with the matter summarily, and, if satisfied that he is guilty of the offence, inflict all or any of the punishments provided in section 20;
+(a) if the offence is alleged to have been or has apparently been committed in the view of Parliament or in the precincts thereof when Parliament is sitting or in any committee, deal with the matter summarily, and, if satisfied that the person is guilty of the offence, inflict all or any of the punishments provided in section 20;
 
 (b) refer the matter to any select committee for investigation, consideration and report to Parliament; or
 
-(c) if the offence is an offence mentioned in Part V, refer the matter to the Attorney-General with a view to the institution of criminal proceedings against such person.
+(c) if the offence is an offence mentioned in Part V, refer the matter to the Attorney-General with a view to the institution of criminal proceedings against the person.
+
+[15/2010 wef 02/01/2011]
 
 [23/86]
 
 (2) If, on the report of the select committee to which a matter has been referred under subsection (1)(b), Parliament is satisfied that any person is guilty of any offence mentioned in section 20, Parliament may inflict upon such person all or any of the punishments provided in section 20 and also in the case of a Member expel him.
 
-[40/98 wef 01/12/1998]
+[40/98]
 
-(3) Notwithstanding subsection (1) and the Standing Orders if it appears to the Speaker that any Member or stranger has committed any contempt in the view of Parliament or a committee, the Speaker may deal with the matter summarily and, if satisfied that the Member or stranger is guilty of the contempt, inflict all or any of the punishments provided in section 20, and such decision of the Speaker shall take immediate effect but Parliament may by resolution annul or vary the decision.
+(3) Notwithstanding subsection (1) and the Standing Orders, if it appears to the Speaker that any Member or stranger has committed any contempt in the view of Parliament or a committee, the Speaker may deal with the matter summarily and, if satisfied that the Member or stranger is guilty of the contempt, inflict all or any of the punishments provided in section 20.
 
-(4) In determining the punishment for contempt by any person, Parliament or the Speaker, acting under subsection (3), may take into consideration any previous contempt committed by that person.
+[23/86]
 
-(5) For the purposes of this section and section 30(2), “Speaker” includes the chairman of any committee.
+(4) Any decision of the Speaker under subsection (3) shall take immediate effect but Parliament may by resolution annul or vary the decision.
+
+[23/86]
+
+(5) In determining the punishment for contempt by any person, Parliament or the Speaker, acting under subsection (3), may take into consideration any previous contempt committed by that person.
+
+[23/86]
+
+(6) For the purposes of this section and section 30(2), “Speaker” includes the chairman of any committee.
+
+[23/86]
 
 ### Punishment in one session or Parliament in respect of offences committed in another
 
-22\.—(1) Nothing in this Act shall be taken to prohibit Parliament from punishing in one session or in one Parliament offences which have been committed in the preceding session or in the last session of the preceding Parliament:
+22\.—(1) Nothing in this Act shall be taken to prohibit Parliament from punishing in one session or in one Parliament offences which have been committed in the preceding session or in the last session of the preceding Parliament.
 
-Provided that in the event of the prorogation or dissolution of Parliament, Parliament shall not take cognizance of any offence committed by a Member unless complaint thereof has been lodged by way of motion or reference to a committee within 21 days of the date of the commencement of the next Parliament.
+(2) In the event of the prorogation or dissolution of Parliament, Parliament shall not take cognizance of any offence committed by a Member unless complaint thereof has been lodged by way of motion or reference to a committee within 21 days of the date of the commencement of the next Parliament.
 
-(2) Where Parliament considers that an offender has not been punished or not been sufficiently punished in one session or in one Parliament by reason of the ending of a session he may again be dealt with in the next session or, if Parliament is dissolved in the same session, in the first session of the next Parliament.
+(3) Where Parliament considers that an offender has not been punished or not been sufficiently punished in one session or in one Parliament by reason of the ending of a session he may again be dealt with in the next session or, if Parliament is dissolved in the same session, in the first session of the next Parliament.
 
 ### Recovery of fine
 
@@ -346,7 +372,9 @@ Provided that in the event of the prorogation or dissolution of Parliament, Parl
 
 (2) The Attorney-General may recover in any civil court of competent jurisdiction any such fine as though the fine were a judgment debt due to the Government, and any sums recovered shall be paid into the Consolidated Fund.
 
-### Power to order the attendance of offenders
+[40/98]
+
+### Power to order attendance of offenders
 
 24\. Parliament may order any person guilty of an offence to attend before Parliament to be informed of or to receive any punishment which Parliament has decided to inflict upon him.
 
@@ -354,15 +382,17 @@ Provided that in the event of the prorogation or dissolution of Parliament, Parl
 
 25\.—(1) An order to attend before Parliament to be informed of or to receive any punishment which Parliament has decided to inflict upon any person shall be notified to the person by a summons under the hand of the Clerk issued by the direction of the Speaker.
 
-(2) In every such summons there shall be stated the time when and the place where the person summoned is required to attend and the summons shall be served on the person mentioned therein either by delivering to him a copy thereof or by leaving a copy thereof at his usual or last known place of abode in Singapore with some adult person.
+(2) In every such summons there shall be stated the time when and the place where the person summoned is required to attend.
 
-(3) The summons referred to in subsection (2) may be served by an officer of Parliament or by a police officer.
+(3) The summons referred to in subsection (2) shall be served on the person mentioned therein either by delivering to him a copy thereof or by leaving a copy thereof at his usual or last known place of abode in Singapore with some adult person.
+
+(4) Such summons may be served by an officer of Parliament or by a police officer.
 
 ### Arrest of defaulters
 
 26\.—(1) If a person to whom a summons under section 13 or 25 is directed does not attend at the time and place mentioned therein, the Speaker may, upon being satisfied that the summons was duly served, issue a warrant to apprehend him and to bring him, at a time to be stated in the warrant, before Parliament or the committee.
 
-(2) A warrant issued under this section shall be deemed to have been issued and shall be executed by a police officer in the same manner as a warrant issued under the provisions of the Criminal Procedure Code [Cap. 68].
+(2) A warrant issued under this section shall be deemed to have been issued and shall be executed by a police officer in the same manner as a warrant issued under the provisions of the Criminal Procedure Code (Cap. 68).
 
 (3) The Speaker on issuing a warrant under this section may, if he thinks fit, by endorsement on the warrant, direct that the person named in the warrant be released after arrest on his entering into such a recognisance before a Magistrate for his appearance before Parliament or the committee as may be required in the endorsement.
 
@@ -370,7 +400,9 @@ Provided that in the event of the prorogation or dissolution of Parliament, Parl
 
 ### Arrest without warrant of persons disturbing proceedings
 
-27\. The Speaker may order the arrest by an officer of Parliament or a police officer without warrant of any person who creates or joins in any disturbance in Parliament or in the precincts or vicinity thereof when Parliament is sitting and any person so arrested may be detained in the custody of an officer of Parliament until the rising of Parliament or until Parliament has dealt with the matter under section 21.
+27\.—(1) The Speaker may order the arrest by an officer of Parliament or a police officer without warrant of any person who creates or joins in any disturbance in Parliament or in the precincts or vicinity thereof when Parliament is sitting.
+
+(2) Any person arrested under subsection (1) may be detained in the custody of an officer of Parliament until the rising of Parliament or until Parliament has dealt with the matter under section 21.
 
 ### Strangers may be removed on order of Speaker
 
@@ -390,13 +422,25 @@ Provided that in the event of the prorogation or dissolution of Parliament, Parl
 
 [23/86]
 
-(2) Where the Speaker exercises his power under section 21(3) to deal summarily with any contempt committed in the view of Parliament or a committee, he may on his own motion where, in his opinion, the circumstances of the case so require immediately issue a warrant for the arrest and imprisonment of the offender; and such warrant shall have the same effect as a warrant issued under the authority of Parliament.
+(2) Where the Speaker exercises his power under section 21(3) to deal summarily with any contempt committed in the view of Parliament or a committee, the Speaker may on his own motion where, in his opinion, the circumstances of the case so require immediately issue a warrant for the arrest and imprisonment of the offender.
 
-(3) A warrant issued under this section shall be executed by a police officer; and where the warrant directs that the offender be detained in prison, the Director of Prisons shall receive the offender into his custody and detain him in accordance with the warrant.
+[23/86]
 
-(4) It shall be lawful for any person charged with or assisting in the execution of any warrant issued under this section to enter and search any premises, vessel, aircraft, vehicle or train in which the offender may be, or may reasonably be suspected of being, concealed.
+(3) The warrant referred to in subsection (2) shall have the same effect as a warrant issued under the authority of Parliament.
 
-[29A
+[23/86]
+
+(4) A warrant issued under this section shall be executed by a police officer.
+
+[23/86]
+
+(5) Where the warrant directs that the offender be detained in prison, the Director of Prisons shall receive the offender into his custody and detain him in accordance with the warrant.
+
+[23/86]
+
+(6) It shall be lawful for any person charged with or assisting in the execution of any warrant issued under this section to enter and search any premises, vessel, aircraft, vehicle or train in which the offender may be, or may reasonably be suspected of being, concealed.
+
+[23/86]
 
 ## PART V
 
@@ -430,7 +474,7 @@ OFFENCES AND PENALTIES
 
 (l) create or join in any disturbance in Parliament or in the precincts or vicinity thereof while Parliament or a committee is sitting;
 
-(m) refuse to be examined before or to answer any lawful or relevant question put by, or to produce any paper, book, record or document in his possession or under his control required by Parliament or any committee unless the refusal is based on privilege or is excused;
+(m) refuse to be examined before or to answer any lawful or relevant question put by or to produce any paper, book, record or document in his possession or under his control required by Parliament or any committee unless the refusal is based on privilege or is excused;
 
 (n) prevaricate or otherwise misconduct himself as a witness before Parliament or a committee;
 
@@ -440,25 +484,19 @@ OFFENCES AND PENALTIES
 
 (q) whether or not he has been sworn or has made an affirmation, wilfully make a false answer to any question material to the subject of inquiry put during examination before Parliament or a committee.
 
-[30
-
 ### Member to disclose pecuniary interest
 
 32\. A Member shall not in or before Parliament or any committee take part in the discussion of any matter in which he has a direct personal pecuniary interest without disclosing the extent of that interest and shall not in any circumstances vote upon any such matter.
 
-[31
-
 ### Evidence of proceedings in Parliament or committee not to be given without leave
 
-33\. No Member or officer of Parliament and no person employed to take minutes of evidence before Parliament or any committee shall give evidence elsewhere in respect of the contents of such evidence or of the contents of any manuscript or document laid before Parliament or any committee or in respect of any proceedings or examination had before Parliament or before any committee without the special leave of Parliament first had and obtained. Such special leave may be given after a dissolution or during a recess or adjournment by the Speaker or, in his absence or other incapacity, by the Clerk.
+33\.—(1) No Member or officer of Parliament and no person employed to take minutes of evidence before Parliament or any committee shall give evidence elsewhere in respect of the contents of such evidence or of the contents of any manuscript or document laid before Parliament or any committee or in respect of any proceedings or examination had before Parliament or before any committee without the special leave of Parliament first had and obtained.
 
-[32
+(2) Such special leave may be given after a dissolution or during a recess or adjournment by the Speaker or, in his absence or other incapacity, by the Clerk.
 
 ### Printing false copy of laws, etc.
 
 34\. Any person who prints or causes to be printed a copy of any law or Act now or hereafter in force, or a copy of any report, paper or journal of Parliament or of any committee as purporting to have been printed by the Government Printer, or by or under the authority of Parliament or any committee, or of the Speaker, which is not so printed, or tenders in evidence any such copy as purporting to be so printed, knowing that the same was not so printed, shall be guilty of an offence.
-
-[33
 
 ### Certain fees, gifts, etc., prohibited
 
@@ -472,8 +510,6 @@ OFFENCES AND PENALTIES
 
 (3) On the conviction of any person for an offence under this section the court shall in addition to any penalty which it may impose in terms of section 36(1)(a) order that the value of the fee, gift, compensation, profit, reward, loan, consideration or other advantage, which is the subject of the offence, shall be paid by the recipient into the Consolidated Fund.
 
-[34
-
 ### General offences and penalties
 
 36\.—(1) Any person who contravenes any of the provisions of this Act shall be guilty of an offence and shall be liable on conviction —
@@ -486,13 +522,11 @@ OFFENCES AND PENALTIES
 
 (2) Any person who attempts to contravene any provision of this Act or abets the contravention of any such provision shall be guilty of an offence and shall be liable on conviction to the penalty to which he would have been liable for a contravention of the provision itself.
 
-[35
-
 ### Restriction on prosecution
 
 37\. No prosecution shall be instituted in any court for an offence under this Act unless the matter giving rise to that prosecution has been referred to the Attorney-General under section 21(1).
 
-[36
+[15/2010 wef 02/01/2011]
 
 ## PART VI
 
@@ -502,19 +536,13 @@ MISCELLANEOUS
 
 38\. The powers of the Speaker conferred by this Act shall be supplementary to any powers conferred on him by the Constitution or by Standing Orders.
 
-[37
-
-### Speaker to act notwithstanding dissolution or prorogation of Parliament
+### Speaker to act notwithstanding prorogation or dissolution of Parliament
 
 39\. For the purposes of this Act, the person who fills the office of Speaker at the time of prorogation or dissolution of Parliament shall be deemed to be the Speaker until Parliament is again summoned or until another person has been elected Speaker in accordance with the provisions of the Constitution.
-
-[38
 
 ### Journals to be admitted as evidence
 
 40\. Upon any inquiry touching the privileges, immunities and powers of Parliament, the Speaker, any Member or any committee, any copy of the journals printed or purporting to be printed by the order of Parliament or by the Government Printer shall be admitted as evidence of such journals in all courts and places without proof of its being such copy or that such copy was so printed.
-
-[39
 
 ## LEGISLATIVE HISTORY
 
@@ -547,3 +575,91 @@ This Legislative History is provided for the convenience of users of the Parliam
 |||(Bill No. 37/1998 published on 5 September 1998)|
 ||Date of Second and Third Readings|12 October 1998|
 ||Date of commencement|1 December 1998|
+|6.|**2000 Revised Edition—Parliament (Privileges, Immunities and Powers) Act**|
+||Date of operation|1 July 2000|
+## COMPARATIVE TABLE
+
+Parliament (Privileges, Immunities and Powers) Act
+
+(CHAPTER 217)
+
+The following provisions in the 1985 Revised Edition of the Parliament (Privileges, Immunities and Powers) Act have been renumbered by the Law Revision Commissioners in this 2000 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Parliament (Privileges, Immunities and Powers) Act.
+
+2000 Ed\. 
+
+1985 Ed\. 
+
+7 — (1) and (2)
+
+7 
+
+13 — (2) and (3)
+
+13 — (2)
+
+(4)
+
+(3)
+
+16 — (3)
+
+Proviso to16 — (2)
+
+20 — (2) and (3)
+
+20 — (2)
+
+(4)
+
+(3)
+
+21 — (3) and (4)
+
+21 — (3)
+
+(5)
+
+(4)
+
+(6)
+
+(5)
+
+22 — (2)
+
+Proviso to22 — (1)
+
+(3)
+
+(2)
+
+25 — (2) and (3)
+
+25 — (2)
+
+(4)
+
+(3)
+
+27 — (1) and (2)
+
+27 
+
+30 — (2) and (3)
+
+30 — (2)
+
+(4) and (5)
+
+(3)
+
+(6)
+
+(4)
+
+33 — (1) and (2)
+
+33 
+
