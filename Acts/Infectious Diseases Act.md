@@ -246,7 +246,9 @@ PRELIMINARY
 
 “owner”, in relation to any premises or vessel, means the person for the time being receiving the rent of the premises or vessel whether on his own account or as agent, trustee or receiver or who would receive the same if the premises or the vessel were let or chartered;
 
-“port” means any place in Singapore and any navigable river or channel leading into such place declared to be a port under the Port of Singapore Authority Act [Cap. 236] and includes an airport;
+“port” means any place in Singapore and any navigable river or channel leading into such place declared to be a port under the Maritime and Port Authority of Singapore Act 1996 and includes an airport;
+
+[7/96 wef 02/02/1996]
 
 “Port Health Officer” means any Health Officer in charge of a port and includes his deputies and assistants;
 
@@ -258,7 +260,9 @@ PRELIMINARY
 
 “quarantine” means the compulsory detention in isolation for the purpose and under the provisions of this Act or any regulations made thereunder of any ships, persons, goods, things, animals or plants;
 
-“quarantine anchorage” means any area of the port which has been appointed for the time being for the quarantine of vessels and declared to be a quarantine anchorage by the Port of Singapore Authority.
+“quarantine anchorage” means any area of the port which has been appointed for the time being for the quarantine of vessels and declared to be a quarantine anchorage by the Maritime and Port Authority of Singapore.
+
+[7/96 wef 02/02/96]
 
 “quarantine station” means any island, building or place where quarantine is carried out;
 
@@ -999,3 +1003,9 @@ This Legislative History is provided for the convenience of users of the Infecti
 |||(Bill No. 9/92 published on 17 January 1992)|
 ||Date of Second and Third Readings|27 February 1992|
 ||Date of commencement|1 April 1992|
+|11.|**Act 7 of 1996—Maritime and Port Authority of Singapore Act 1996**|
+||(Consequential amendments made by)||
+||Date of First Reading|5 December 1995|
+|||(Bill No. 46/95 published on 6 December 1995)|
+||Date of Second and Third Readings|18 January 1996|
+||Date of commencement|2 February 1996|
