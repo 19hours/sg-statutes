@@ -266,6 +266,12 @@ Consultant Organisations
 
 Alumni International Singapore.
 
+1A. 
+
+Association for Gifted Children (Singapore).
+
+[S 552/1995 wef 06/12/1995]
+
 2. 
 
 Association of Nanyang University Graduates.
@@ -744,7 +750,9 @@ This Legislative History is provided for the convenience of users of the People�
 ||Date of commencement|27 June 1994|
 |32.|**G.N. No. S 361/94—People’s Association Act (Amendment of First Schedule) (No. 2) Notification 1994**|
 ||Date of commencement|14 September 1994|
-|33.|**G. N. No. S 398/1994 —People’s Association Act (Amendment of First Schedule) (No. 3) Notification 1994**|
+|33.|**G. N. No. S 398/1994—People’s Association Act (Amendment of First Schedule) (No. 3) Notification 1994**|
 ||Date of commencement|28 September 1994|
 |34.|**G. N. No. S 21/1995—People’s Association Act (Amendment of First Schedule) Notification 1995**|
 ||Date of commencement|12 January 1995|
+|35.|**G. N. No. S 552/1995—People’s Association Act (Amendment of First Schedule) (No. 2) Notification 1995**|
+||Date of commencement|6 December 1995|
