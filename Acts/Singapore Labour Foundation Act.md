@@ -50,6 +50,8 @@
 
 - [19 Application of income and property](#Application-of-income-and-property)
 
+- [19A Issue of shares, etc.](#Issue-of-shares-etc)
+
 - [20 Presentation of accounts](#Presentation-of-accounts)
 
 - [21 Auditors](#Auditors)
@@ -138,7 +140,7 @@ THE FOUNDATION AND THE BOARD
 
 (iii) persons nominated by the National Trades Union Congress to pursue studies in institutions of higher learning in Singapore or elsewhere;
 
-(d) award fellowships and awards in institutions of higher learning for research in matters relating to the trade union movement;
+(d) award fellowship and awards in institutions of higher learning for research in matters relating to the trade union movement;
 
 (e) establish and maintain industrial rehabilitation centres;
 
@@ -316,6 +318,12 @@ Provided that nothing in this section shall be construed as preventing the payme
 
 (d) other proper charges and expenses of the Foundation.
 
+### Issue of shares, etc.
+
+19A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Foundation under this Act, or of any capital injection or other investment by the Government in the Foundation in accordance with any written law, the Foundation shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
+
+[5/2002 wef 15/07/2002]
+
 ### Presentation of accounts
 
 20\. The Board shall, at every annual general meeting, cause to be prepared and to be laid before the Foundation an income and expenditure account, a balance-sheet and a financial report in respect of the preceding year.
@@ -362,3 +370,9 @@ This Legislative History is provided for the convenience of users of the Singapo
 |2.|**1985 Revised Edition—Singapore Labour Foundation Act (Chapter 302)**|
 ||(G.N. No. S 337/1987 — Rectification Order)||
 ||Date of operation|30 March 1987|
+|3.|**Act 5 of 2002—Statutory Corporations (Capital Contribution) Act 2002**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|3 May 2002|
+|||(Bill No. 7/2002)|
+||Date of Second and Third Readings|24 May 2002|
+||Date of commencement|15 July 2002 (item (39) of the Schedule — amendment of Singapore Labour Foundation Act)|
