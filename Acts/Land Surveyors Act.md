@@ -48,6 +48,18 @@
 
 - [16 Cancellation of practising certificates](#Cancellation-of-practising-certificates)
 
+[**Part VA APPROVED ASSISTANT SURVEYORS**](#Part-VA)
+
+- [16A Registered surveyor to employ approved assistant surveyor](#Registered-surveyor-to-employ-approved-assistant-surveyor)
+
+- [16B Register to be kept](#Register-to-be-kept)
+
+- [16C Registered surveyor to notify Board of cessation in employment](#Registered-surveyor-to-notify-Board-of-cessation-in-employment)
+
+- [16D Approval may be revoked or suspended](#Approval-may-be-revoked-or-suspended)
+
+- [16E Penalty under this Part](#Penalty-under-this-Part)
+
 [**Part VI MULTI-DISCIPLINE AND CORPORATE PRACTICE**](#Part-VI)
 
 - [17 Licence for multi-discipline and corporate practice](#Licence-for-multi-discipline-and-corporate-practice)
@@ -80,7 +92,7 @@
 
 - [30 Powers of Investigation Committee and Board to require attendance of witnesses, etc.](#Powers-of-Investigation-Committee-and-Board-to-require-attendance-of-witnesses-etc)
 
-[**Part VIII CONDUCT OF SURVEYS**](#Part-VIII)
+[**Part VIII CONDUCT OF CADASTRAL SURVEYS**](#Part-VIII)
 
 - [31 Powers of entry for survey purposes](#Powers-of-entry-for-survey-purposes)
 
@@ -160,6 +172,14 @@ PRELIMINARY
 
 (b) a professional engineer who is registered under the Professional Engineers Act [Cap. 253];
 
+“approved assistant surveyor” means a person approved to be employed as an assistant surveyor under Part VA;
+
+[34/99 wef 01/03/2000]
+
+“assistant surveyor” means a person who performs or executes any survey or engages in any survey work under the direction or supervision of a registered surveyor;
+
+[34/99 wef 01/03/2000]
+
 “assurance plan” means any plan showing approximate boundaries or dimensions and areas for the purpose of identifying land which has not been surveyed to the satisfaction of the Chief Surveyor but is required to be surveyed under the provisions of any written law;
 
 “Board” means the Land Surveyors Board established under section 4;
@@ -168,21 +188,21 @@ PRELIMINARY
 
 [35/98 wef 16/10/1998]
 
-“cadastral survey services” means the supply for gain or reward of any services, or any plan, certificate or other document, relating to any cadastral survey;
-
 “cadastral survey work” means any work which is part of or related to a cadastral survey;
 
 [35/98 wef 16/10/1998]
 
 “certificate of registration” means the certificate of registration issued under section 14;
 
-“Chief Surveyor” means the officer for the time being performing the duties of the head of the Survey Department;
+“Chief Surveyor” means the Chief Surveyor appointed under section 3(1) of the Boundaries and Survey Maps Act 1998 (Act 35 of 1998);
+
+[34/99 wef 01/03/2000]
 
 “Government surveyor” means a surveyor who is employed by the Government, whether or not registered under section 12;
 
 “Investigation Committee” means an Investigation Committee appointed under section 24(1);
 
-“licence” means a licence to supply cadastralsurvey services in Singapore granted under section 17;
+“licence” means a licence to supply survey services in Singapore granted under section 17;
 
 “licensed”, in relation to a corporation or partnership, means a corporation or partnership which has in force a licence;
 
@@ -210,13 +230,35 @@ PRELIMINARY
 
 “rules” means rules made by the Board under section 40;
 
+“survey” means the act or process of —
+
+(a) determining the form, contour, position, area, height, depth or any other particulars of —
+
+(i) the earth’s surface, whether of land or water; or
+
+(ii) any natural or artificial features on, below or above any part of the earth’s surface; or
+
+(b) planning the position or the boundary lines of any part of the earth’s surface, or of any natural or artificial features referred to in paragraph (a)(ii),
+
+and includes the act or process of making or obtaining any plan therefrom;
+
+[34/99 wef 01/03/2000]
+
+“survey services” means the supply for gain or reward of any services, or any plan, certificate or other document, relating to any survey;
+
+[34/99 wef 01/03/2000]
+
+“survey work” means any work which is part of or related to a survey;
+
+[34/99 wef 01/03/2000]
+
 “unlimited corporation” means a corporation formed on the principle of having no limit placed on the liability of its members.
 
 ### Act not to apply to Government, etc.
 
 3\.—(1) Nothing in this Act shall apply to anything done or omitted to be done by the Government.
 
-(2) This Act shall not be construed as requiring any public authority which supplies cadastralsurvey services in Singapore under the provisions of any written law to obtain a licence; and in this subsection, “public authority” means any body established by or under any written law and exercising powers vested therein by written law for a public purpose.
+(2) This Act shall not be construed as requiring any public authority which supplies survey services in Singapore under the provisions of any written law to obtain a licence; and in this subsection, “public authority” means any body established by or under any written law and exercising powers vested therein by written law for a public purpose.
 
 ## PART II
 
@@ -294,13 +336,13 @@ and the vacancy so created shall, as soon as practicable, be filled in the manne
 
 (d) to establish, maintain and develop the standard of professional conduct and ethics of the surveying profession;
 
-(e) to promote learning and education in connection with the professional of cadastral surveying;
+(e) to promote learning and education in connection with the profession of surveying;
 
 (f) to hear and determine disputes relating to professional conduct or ethics of registered surveyors or licensed corporations or partnerships;
 
 (g) to appoint arbitrators for the purpose of hearing and determining disputes between registered surveyors, licensed corporations or partnerships and other persons;
 
-(h) to license corporations and partnerships which supply cadastralsurvey services in Singapore; and
+(h) to license corporations and partnerships which supply survey services in Singapore; and
 
 (i) generally to do all such acts, matters and things as are necessary to be carried out under the provisions of this Act.
 
@@ -340,17 +382,17 @@ PRIVILEGES OF LAND SURVEYORS
 
 ### Illegal practice
 
-10\.—(1) Subject to the provisions of this Act, no person shall certify to the correctness or accuracy of any cadastralsurvey unless he is a Government surveyor who is registered under section 12 or a registered surveyor who has in force a practising certificate.
+10\.—(1) Subject to the provisions of this Act, no person shall certify to the correctness or accuracy of any survey unless he is a Government surveyor who is registered under section 12 or a registered surveyor who has in force a practising certificate.
 
 (2) Subject to the provisions of this Act, no person shall —
 
-(a) use or cause or permit to be used any written words, titles or initials or any abbreviation thereof which are intended to cause or may reasonably cause any person to believe that the person using them is authorised to survey title survey services in Singapore; or
+(a) use or cause or permit to be used any written words, titles or initials or any abbreviation thereof which are intended to cause or may reasonably cause any person to believe that the person using them is authorised to supply survey services in Singapore; or
 
-(b) advertise or hold himself out or conduct himself in any way or by any means as a person authorised to supply cadastralsurvey services in Singapore,
+(b) advertise or hold himself out or conduct himself in any way or by any means as a person authorised to supply survey services in Singapore,
 
 unless at the time of so doing the person is a registered surveyor who has in force a practising certificate, a licensed corporation, a licensed partnership or a partnership consisting wholly of registered surveyors.
 
-(3) Subject to the provisions of this Act, no person shall be entitled to recover in any court any charge, fee or remuneration for any cadastralsurvey services rendered in Singapore, unless the person rendering such services is —
+(3) Subject to the provisions of this Act, no person shall be entitled to recover in any court any charge, fee or remuneration for any survey services rendered in Singapore, unless the person rendering such services is —
 
 (a) a registered surveyor who has in force a practising certificate and is doing so on his own account or as a partner in a licensed partnership or partnership consisting wholly of registered surveyors;
 
@@ -358,7 +400,7 @@ unless at the time of so doing the person is a registered surveyor who has in fo
 
 (c) a licensed corporation.
 
-(4) Subject to the provisions of this Act, no person shall perform or execute any cadastralsurvey or engage in any cadastralsurvey work in Singapore unless he is —
+(4) Subject to the provisions of this Act, no person shall perform or execute any survey or engage in any survey work in Singapore unless he is —
 
 (a) a registered surveyor who has in force a practising certificate;
 
@@ -380,9 +422,13 @@ REGISTRATION OF SURVEYORS
 
 12\.—(1) Subject to the provisions of this Act, every person who is 21 years of age and above shall, on payment of the prescribed fee, be entitled to be registered under this Act if he satisfies the Board that —
 
-(a) he has obtained a certificate of competency issued by the Board after passing the prescribed examination; or
+(a) he has obtained a certificate of competency issued by the Board after passing the prescribed examination;
 
-(b) he has passed a professional examination recognised by the Board and has passed such further examination and has had such practical experience in surveying in Singapore as the Board may prescribe.
+(b) he has passed a professional examination recognised by the Board and has passed such further examination and has had such practical experience in surveying in Singapore as the Board may prescribe; or
+
+(c) he is otherwise qualified by having proper training in surveying recognised by the Board and has passed such other examinations as the Board may require.
+
+[34/99 wef 01/03/2000]
 
 (2) Notwithstanding anything in subsection (1), the Board may refuse to register any person who is not, in the opinion of the Board, of good character and reputation.
 
@@ -400,7 +446,7 @@ PRACTISING CERTIFICATES
 
 ### Practising certificates
 
-15\.—(1) Where a registered surveyor desires to engage in cadastralsurvey work in Singapore after 31st December of any year, he shall, not later than 1st December of that year, make an application in the prescribed form and manner for a practising certificate authorising him to engage in such cadastralsurvey work in the ensuing year.
+15\.—(1) Where a registered surveyor desires to engage in survey work in Singapore after 31st December of any year, he shall, not later than 1st December of that year, make an application in the prescribed form and manner for a practising certificate authorising him to engage in such survey work in the ensuing year.
 
 (2) Notwithstanding subsection (1), where a registered surveyor applies for a practising certificate for the first time after registration under section 12, the application shall be in the prescribed form and may be made at any time during the year and the registered surveyor may be issued a practising certificate for the remainder of the year in which the application is made.
 
@@ -430,11 +476,11 @@ and the Board shall, subject to subsection (4), thereupon issue to the registere
 
 (c) the applicant is not resident in Singapore;
 
-(d) the applicant does not intend to practise either on his own account or in partnership, or is not or not about to be employed by any person lawfully supplying cadastralsurvey services in Singapore;
+(d) the applicant does not intend to practise either on his own account or in partnership, or is not or not about to be employed by any person lawfully supplying survey services in Singapore;
 
 (e) the declaration under subsection (3) contains a statement that to its knowledge is false in a material particular; or
 
-(f) the conduct of the applicant affords reasonable grounds for believing that he will not engage in cadastralsurvey work in Singapore in accordance with the written law and with honesty and integrity.
+(f) the conduct of the applicant affords reasonable grounds for believing that he will not engage in survey work in Singapore in accordance with the written law and with honesty and integrity.
 
 (5) Any registered surveyor (not being a registered surveyor who is applying for a practising certificate for the first time) who fails to apply for a practising certificate in the manner and within the period laid down in subsection (1) may, on the making of an application in such form and on payment of such additional fee as may be prescribed, be issued a practising certificate for —
 
@@ -460,15 +506,55 @@ and the Board shall, subject to subsection (4), thereupon issue to the registere
 
 (3) Any person whose practising certificate has been cancelled by the Board under this section may, within 30 days after being notified of such cancellation, appeal to the High Court whose decision shall be final.
 
+## PART VA
+
+APPROVED ASSISTANT SURVEYORS
+
+[34/99 wef 01/03/2000]
+
+### Registered surveyor to employ approved assistant surveyor
+
+16A\.—(1) No registered surveyor shall employ any person as his assistant surveyor unless that person is approved by the Board and the approval has not been revoked or suspended.
+
+(2) A registered surveyor who desires to employ any person as his assistant surveyor shall apply to the Board for approval in such form and manner as the Board may prescribe.
+
+(3) The Board may approve, for such period as may be prescribed, an application under subsection (2) if the Board is satisfied that the person to be employed as an assistant surveyor possesses the necessary qualifications recognised by the Board.
+
+(4) The Board shall not approve an application under subsection (2) if the registered surveyor does not have in force a practising certificate.
+
+(5) Every application under subsection (2) shall be accompanied by a prescribed fee.
+
+(6) For the purposes of this section, “employ” means to engage or use the service of any person, whether under a contract of service or otherwise, with or without salary.
+
+### Register to be kept
+
+16B\. The Board shall keep and maintain a register in which shall be entered the names and such particulars of the approved assistant surveyors as the Board may determine.
+
+### Registered surveyor to notify Board of cessation in employment
+
+16C\.—(1) A registered surveyor shall forthwith notify the Board in writing if an approved assistant surveyor ceases to be employed by him.
+
+(2) The approval granted under section 16A(3) in respect of an assistant surveyor shall be deemed to be revoked upon the cessation of his employment.
+
+### Approval may be revoked or suspended
+
+16D\.—(1) The Board may revoke or suspend, for such period as the Board thinks fit, any approval granted under section 16A (3) if an approved assistant surveyor is, in the opinion of the Board, unfit to carry out survey work.
+
+(2) Any person who is aggrieved by the decision of the Board under subsection (1) may appeal to the Minister whose decision shall be final.
+
+### Penalty under this Part
+
+16E\. Any registered surveyor who contravenes or fails to comply with section 16A(1) or 16C(1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
+
 ## PART VI
 
 MULTI-DISCIPLINE AND CORPORATE PRACTICE
 
 ### Licence for multi-discipline and corporate practice
 
-17\.—(1) Subject to the provisions of this Act, the Board may grant a licence to a corporation to supply cadastralsurvey services in Singapore if —
+17\.—(1) Subject to the provisions of this Act, the Board may grant a licence to a corporation to supply survey services in Singapore if —
 
-(a) the memorandum of association of the corporation provides that a primary object of the corporation is to supply cadastralsurvey services;
+(a) the memorandum of association of the corporation provides that a primary object of the corporation is to supply survey services;
 
 (b) at least $1 million of its authorised capital is bona fide paid-up;
 
@@ -482,7 +568,7 @@ MULTI-DISCIPLINE AND CORPORATE PRACTICE
 
 who are either directors, managers or employees of the corporation;
 
-(e) the business of the corporation, so far as it relates to cadastralsurvey work in Singapore, will be under the control and management of director of the corporation who —
+(e) the business of the corporation, so far as it relates to survey work in Singapore, will be under the control and management of director of the corporation who —
 
 (i) is a registered surveyor ordinarily resident in Singapore;
 
@@ -492,13 +578,13 @@ who are either directors, managers or employees of the corporation;
 
 (f) the corporation is insured against professional liability in accordance with section 21 and the rules.
 
-(2) Subject to the provisions of this Act, the Board may grant a licence to any unlimited corporation to supply cadastralsurvey services in Singapore if —
+(2) Subject to the provisions of this Act, the Board may grant a licence to any unlimited corporation to supply survey services in Singapore if —
 
 (a) the requirements specified in subsection (1)(a) and (c) are complied with;
 
 (b) the articles of association of the corporation provide that any person who is neither a registered surveyor nor an allied professional or is a nominee of such a person, or is not a director, manager or employee of the corporation, shall not be registered as a member of that corporation; and
 
-(c) the business of the corporation, so far as it relates to cadastralsurvey work, will be under the control and management of a director of the corporation who —
+(c) the business of the corporation, so far as it relates to survey work, will be under the control and management of a director of the corporation who —
 
 (i) is a registered surveyor ordinarily resident in Singapore;
 
@@ -506,13 +592,13 @@ who are either directors, managers or employees of the corporation;
 
 (iii) is a member, or a registered owner of at least one share, of the corporation.
 
-(3) Subject to the provisions of this Act, the Board may grant to any partnership not consisting wholly of registered surveyors a licence to supply cadastralsurvey services in Singapore if —
+(3) Subject to the provisions of this Act, the Board may grant to any partnership not consisting wholly of registered surveyors a licence to supply survey services in Singapore if —
 
 (a) the partnership is one in which only registered surveyors, each of whom shall have in force a practising certificate, and allied professionals have a beneficial interest in the capital assets and profits of the partnership; and
 
-(b) the business of the partnership, so far as it relates to cadastralsurvey work in Singapore, will be under the control and management of a partner who is a registered surveyor ordinarily resident in Singapore; and has in force a practising certificate.
+(b) the business of the partnership, so far as it relates to survey work in Singapore, will be under the control and management of a partner who is a registered surveyor ordinarily resident in Singapore; and has in force a practising certificate.
 
-(4) Subject to the provisions of this Act, the Board may grant to any corporation or partnership a licence to supply cadastralsurvey services in Singapore if the corporation or partnership has in force a licence granted under section 20 of the Architects Act or section 20 of the Professional Engineers Act and —
+(4) Subject to the provisions of this Act, the Board may grant to any corporation or partnership a licence to supply survey services in Singapore if the corporation or partnership has in force a licence granted under section 20 of the Architects Act or section 20 of the Professional Engineers Act and —
 
 (a) in the case of an unlimited corporation, the corporation complies with the requirements set out in subsections (1)(c) and (2)(b) and (c);
 
@@ -522,7 +608,7 @@ who are either directors, managers or employees of the corporation;
 
 (5) Any application for a licence under this section shall be in such form and shall be made in such manner as may be prescribed.
 
-(6) The Board may refuse to grant a licence under this section to any corporation (whether unlimited or not) or partnership if, in the opinion of the Board, the past conduct of any director, manager or employee of the corporation, or any partner, manager or employee of the partnership, affords reasonable grounds for believing that the corporation or partnership, as the case may be, will not supply cadastralsurvey services in Singapore in accordance with the written law and with honesty and integrity.
+(6) The Board may refuse to grant a licence under this section to any corporation (whether unlimited or not) or partnership if, in the opinion of the Board, the past conduct of any director, manager or employee of the corporation, or any partner, manager or employee of the partnership, affords reasonable grounds for believing that the corporation or partnership, as the case may be, will not supply survey services in Singapore in accordance with the written law and with honesty and integrity.
 
 (7) Every licence granted under this section shall, unless earlier revoked, be valid for such period as may be specified therein.
 
@@ -530,7 +616,7 @@ who are either directors, managers or employees of the corporation;
 
 ### Conditions of licence
 
-18\.—(1) It shall be a condition of every licence granted to any corporation or partnership that the corporation or partnership shall supply cadastralsurvey services in Singapore only under the control and management of a registered surveyor ordinarily resident in Singapore who has in force a practising certificate and who is —
+18\.—(1) It shall be a condition of every licence granted to any corporation or partnership that the corporation or partnership shall supply survey services in Singapore only under the control and management of a registered surveyor ordinarily resident in Singapore who has in force a practising certificate and who is —
 
 (a) a director of the corporation, and —
 
@@ -540,7 +626,7 @@ who are either directors, managers or employees of the corporation;
 
 (b) a partner of the partnership.
 
-(2) It shall be a condition of every licence granted to any corporation (other than an unlimited corporation) that the corporation shall not supply cadastralsurvey services in Singapore unless —
+(2) It shall be a condition of every licence granted to any corporation (other than an unlimited corporation) that the corporation shall not supply survey services in Singapore unless —
 
 (a) the corporation is insured in respect of professional liability in accordance with section 21 and the rules; and
 
@@ -574,7 +660,7 @@ furnish the Board a true report in writing giving full particulars of the altera
 
 ### Liability insurance
 
-21\. Every licensed corporation which is not an unlimited corporation shall be insured against liability for any breach of professional duty arising out of the conduct of its business of supplying cadastralsurvey services as a direct result of any negligent act, error or omission committed by the corporation or its directors, managers, secretaries or employees.
+21\. Every licensed corporation which is not an unlimited corporation shall be insured against liability for any breach of professional duty arising out of the conduct of its business of supplying survey services as a direct result of any negligent act, error or omission committed by the corporation or its directors, managers, secretaries or employees.
 
 ### Relationship between client and corporation
 
@@ -582,7 +668,7 @@ furnish the Board a true report in writing giving full particulars of the altera
 
 ### Professional responsibility of supervising surveyor
 
-23\. A registered surveyor who has the control and management of the business of a licensed corporation or licensed partnership relating to the supply of cadastralsurvey services in Singapore shall be subject to the same standards of professional conduct and competence in respect of the business as if the cadastralsurvey services were personally supplied by the registered surveyor.
+23\. A registered surveyor who has the control and management of the business of a licensed corporation or licensed partnership relating to the supply of survey services in Singapore shall be subject to the same standards of professional conduct and competence in respect of the business as if the survey services were personally supplied by the registered surveyor.
 
 ## PART VII
 
@@ -700,13 +786,13 @@ has a beneficial interest in the capital assets and profits of the partnership;
 
 (d) the licence had been obtained by fraud or misrepresentation;
 
-(e) the corporation or partnership has ceased to supply cadastralsurvey services in Singapore;
+(e) the corporation or partnership has ceased to supply survey services in Singapore;
 
 (f) the corporation or partnership has contravened or failed to comply with section 19, 20 or 21, or has been convicted of an offence under this Act;
 
 (g) the corporation or partnership has contravened any provision of the prescribed code of professional conduct and ethics;
 
-(h) the conduct of any director, manager or employee of the corporation, or any partner or employee of the partnership, affords grounds for believing that the corporation or partnership, as the case may be, will not engage in cadastralsurvey work in Singapore in accordance with the written law and with honesty and integrity;
+(h) the conduct of any director, manager or employee of the corporation, or any partner or employee of the partnership, affords grounds for believing that the corporation or partnership, as the case may be, will not engage in survey work in Singapore in accordance with the written law and with honesty and integrity;
 
 (i) the corporation or partnership has refused or failed to comply with an order of the Board made under subsection (2); or
 
@@ -732,7 +818,7 @@ has a beneficial interest in the capital assets and profits of the partnership;
 
 (a) the Registrar shall cause notice of the revocation to be published in theGazetteand shall cancel the entry in the register of licensees relating to the corporation or partnership concerned; and
 
-(b) the corporation or partnership concerned shall, as from the date of the notice, cease to supply cadastralsurvey services in Singapore except as may be approved by the Board for the purpose of winding up its business.
+(b) the corporation or partnership concerned shall, as from the date of the notice, cease to supply survey services in Singapore except as may be approved by the Board for the purpose of winding up its business.
 
 (7) Subsection (6) (b) shall not prejudice the enforcement by any person of any right or claim against the corporation or partnership or by the corporation or partnership of any right or claim against any person.
 
@@ -772,7 +858,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ## PART VIII
 
-CONDUCT OF SURVEYS
+CONDUCT OF CADASTRAL SURVEYS
 
 ### Powers of entry for survey purposes
 
@@ -796,7 +882,7 @@ CONDUCT OF SURVEYS
 
 ### Inspection of Government survey maps
 
-32\. For the purpose of obtaining data for a cadastral survey, the survey plan of which is to be lodged with the Survey Department, a registered surveyor who has in force a practising certificate or an authorised employee or manager of a licensed corporation or partnership may at all reasonable times be permitted to inspect the relevant maps, plans or survey records in the Department and to take copies of such information therefrom as he may require without payment of search fees, but he shall not remove any such maps, plans or survey records and shall be liable for any damage which he may cause to them while they are under his control.
+32\. For the purpose of obtaining data for a cadastral survey, the survey plan of which is to be lodged with the Survey Department, a registered surveyor who has in force a practising certificate or an authorised employee or manager of a licensed corporation or partnership may at all reasonable times be permitted to inspect the relevant maps, plans or survey records in the Department and to take copies of such information therefrom as he may require upon payment of a prescribed fee, but he shall not remove any such maps, plans or survey records and shall be liable for any damage which he may cause to them while they are under his control.
 
 ### Deposit of plans
 
@@ -854,9 +940,13 @@ GENERAL
 
 (b) wilfully procures or attempts to procure —
 
-(i) for any corporation or partnership any licence; or
+(i) for any corporation or partnership any licence;
 
-(ii) for himself or any other person a practising certificate or to be registered as a surveyor under this Act,
+(ii) for himself or any other person a practising certificate or to be registered as a surveyor under this Act; or
+
+(iii) for any person to be approved as an assistant surveyor under this Act,
+
+[34/99 wef 01/03/2000]
 
 by making or producing or causing to be made or produced any false or fraudulent representation or declaration, either verbally or in writing, or by intentionally suppressing any material fact and furnishing information which is misleading; or
 
@@ -876,11 +966,15 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (a) prescribing forms of applications under this Act and certificates of registration, practising certificates and licences;
 
+(aa) prescribing the form and manner of application for approval of any person to be employed as an assistant surveyor and the duration of such approval;
+
+[34/99 wef 01/03/2000]
+
 (b) prescribing the fees payable under this Act;
 
 (c) prescribing the subject-matter of examinations to be conducted by or under the direction of the Board in the case of applicants or class of applicants for registration;
 
-(d) prescribing the form of the register of surveyors, register of practitioners and register of licensees to be kept and the particulars to be entered therein;
+(d) prescribing the form of the register of surveyors, register of approved assistant surveyors, register of practitioners and register of licensees to be kept and the particulars to be entered therein;
 
 (e) prescribing the fees to be charged by the Survey Department in connection with cadastral surveys and the time for payment of those fees;
 
@@ -888,13 +982,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (g) regulating the preparation and making of cadastral surveys;
 
-(h) requiring all or any of the following to take out and maintain insurance against liability for breach of professional duty in the course of supplying cadastralsurvey services:
+(h) requiring all or any of the following to take out and maintain insurance against liability for breach of professional duty in the course of supplying survey services:
 
 (i) any partnership consisting wholly of registered surveyors;
 
 (ii) any partnership or unlimited corporation applying for a licence;
 
-(iii) any registered surveyor applying for a practising certificate for the purpose of engaging in cadastralsurvey practice on his own account;
+(iii) any registered surveyor applying for a practising certificate for the purpose of engaging in survey practice on his own account;
 
 (iv) any registered surveyor applying for a practising certificate who is employed or about to be employed by any person or body referred to in sub-paragraphs (i) to (iii);
 
@@ -1006,3 +1100,8 @@ This Legislative History is provided for the convenience of users of the Land Su
 |||(Bill No. 32/98 published on 1 August 1998)|
 ||Date of Second and Third Readings|4 September 1998|
 ||Date of commencement|16 October 1998|
+|6.|**Act 34 of 1999—Land Surveyors (Amendment) Act 1999**|
+||Date of First Reading|6 July 1999|
+|||(Bill No. 21/99 published on 7 July 1999)|
+||Date of Second and Third Readings|17 August 1999|
+||Date of commencement|1 March 2000|
