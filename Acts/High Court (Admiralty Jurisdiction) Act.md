@@ -78,7 +78,9 @@ An Act relating to admiralty jurisdiction, legal proceedings in connection with 
 
 (h) any claim arising out of any agreement relating to the carriage of goods in a ship or to the use or hire of a ship;
 
-(i) subject to section 304 of the Merchant Shipping Act [Cap. 179] (which requires salvage disputes to be determined summarily by a District Court in certain cases), any claim in the nature of salvage (including any claim arising under section 11 of the Air Navigation Act [Cap. 6] relating to salvage to aircraft and their apparel and cargo);
+(i) subject to section 304 of the Merchant Shipping Act [Cap. 179] (which requires salvage disputes to be determined summarily by a District Court in certain cases), any claim in the nature of salvage (including any claim arising under section 11 of the Air Navigation Act relating to salvage to aircraft and their apparel and cargo);
+
+[Cap 6.]
 
 (j) any claim in the nature of towage in respect of a ship or an aircraft;
 
@@ -132,7 +134,7 @@ Provided that nothing in this subsection shall be construed as extending the cas
 
 (5) In the case of a claim in the nature of towage or pilotage in respect of an aircraft, the admiralty jurisdiction of the Court may be invoked by an action in rem against that aircraft if at the time when the action is brought it is beneficially owned by the person who would be liable on the claim in an action in personam.
 
-(6) Notwithstanding anything in subsections (1) to (5), the admiralty jurisdiction of the Court shall not be invoked by an action in rem in the case of any such claim as is mentioned in section 3(1)(n) unless the claim relates wholly or partly to wages (including any sum allotted out of wages or adjudged by a superintendent to be due by way of wages).
+(6) Notwithstanding anything in subsections (1) to (5), the admiralty jurisdiction of the Court shall not be invoked by an action in rem in the case of any such claim as is mentioned in section 3(1)(n) unless the claim relates wholly or partly to wages (including any sum allotted out of wages or adjudged by a superintendent to be due by way of wages.)
 
 (7) Where, in the exercise of its admiralty jurisdiction, the Court orders any ship, aircraft or other property to be sold, the Court shall have jurisdiction to hear and determine any question arising as to the title to the proceeds of sale.
 
@@ -160,15 +162,15 @@ Provided that nothing in this subsection shall be construed as extending the cas
 
 (7) In this section —
 
-“collision regulations” means regulations made under section 418 of the Merchant Shipping Act 1894 [U.K. 1894 c. 60.], regulations made under section 208 of the Merchant Shipping Act [Cap. 179] and any regulations made under section 41(1) of the Maritime and Port Authority of Singapore Act 1996 for or in respect of any of the matters mentioned in paragraph (i) of that subsection;
+“collision regulations” means the regulations made under section 100(2)(h) of the Merchant Shipping Act (Chapter 179) and any regulations made under subsection (1) of section 41 of the Maritime and Port Authority of Singapore Act (Chapter 170A) for or in respect of any of the matters mentioned in paragraph (d) of that subsection;
 
-[7/1996 wef 02/02/1996]
+[7/97 wef 01/10/1997]
 
 “inland waters of Singapore” includes any part of the sea adjacent to the coast of Singapore certified by the Minister to be waters falling by international law to be within the territorial sovereignty of Singapore apart from the operation of that law in relation to territorial waters;
 
 “port of Singapore” means any place or places and any navigable river or channel leading into such place or places declared to be the port under section 3 of the Maritime and Port Authority of Singapore Act 1996 and “the limits of the port” means the limits thereof as defined in the declaration.
 
-[7/1996 wef 02/02/1996]
+[Act 7/96 wef 02/02/1996]
 
 ### Wages
 
@@ -196,7 +198,7 @@ High Court (Admiralty Jurisdiction) Act
 
 (CHAPTER 123)
 
-This Legislative History is provided for the convenience of users of the High Court (Admiralty Jurisdiction) Act. It is not part of the Act.
+This Legislative History is provided for the convenience of users of the High Court (Admiralty Jurisdiction) Act. It is not part of this Act.
 
 ||||
 |:-|:-|:-|
@@ -222,3 +224,9 @@ This Legislative History is provided for the convenience of users of the High Co
 |||(Bill No. 41/95 published on 6 December 1995)|
 ||Date of Second and Third Readings|18 January 1996|
 ||Date of commencement|2 February 1996|
+|6.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
+||(Consequential amendments made by)||
+||Date of First Reading|11 July 1997|
+|||(Bill No. 6/97 published on 12 July 1997)|
+||Date of Second and Third Readings|25 August 1997|
+||Date of commencement|1 October 1997 (except section 3)|
