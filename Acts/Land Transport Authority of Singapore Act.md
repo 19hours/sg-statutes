@@ -742,17 +742,17 @@ as the Minister may determine shall be transferred to the service of the Authori
 
 34\.—(1) The terms and conditions to be drawn up by the Authority shall take into account the salaries and terms and conditions of service, including any accrued rights to leave, enjoyed by the persons transferred to the service of the Authority under section 33 while in the employment of the Government; and any such term or condition relating to the length of service with the Authority shall provide for the recognition of service under the Government by the persons so transferred to be service by them under the Authority.
 
-(2) Nothing in the terms and conditions to be drawn up by the Authority shall adversely affect the conditions that would have been applicable to persons transferred to the service of the Authority as regards any pension, gratuity or allowance payable under the Pensions Act [Cap. 225].
+(2) Nothing in the terms and conditions to be drawn up by the Authority shall adversely affect the conditions that would have been applicable to persons transferred to the service of the Authority as regards any pension, gratuity or allowance payable under the Pensions Act (Cap. 225).
 
 (3) In every case where a person has been transferred to the service of the Authority under section 33, the Government shall be liable to pay to the Authority such portion of any gratuity, pension or allowance payable to such person on his retirement as the same shall bear to the proportion which the aggregate amount of his pensionable emoluments during his service with the Government bears to the aggregate amount of his pensionable emoluments during his service under both the Government and the Authority.
 
 (4) Where any person in the service of the Authority whose case does not fall within the scope of any pension or other schemes established under this section retires or dies in the service of the Authority or is discharged from such service, the Authority may grant to him or to such other person or persons wholly or partly dependent on him, as the Authority thinks fit, such allowance or gratuity as the Authority may determine.
 
-(5) Where any person who is transferred to the service of the Authority under section 33 is a contributor under the Widows’ and Orphans’ Pension Act, he shall for the purposes of that Act continue to make contributions under that Act as if he had not been transferred to the service of the Authority and for the purposes of that Act his service with the Authority shall be deemed to be service with the Government.
+(5) Where any person who is transferred to the service of the Authority under section 33 is a contributor under the Widows’ and Orphans’ Pension Act (Cap. 350), he shall for the purposes of that Act continue to make contributions under that Act as if he had not been transferred to the service of the Authority and for the purposes of that Act his service with the Authority shall be deemed to be service with the Government.
 
 ### No benefits in respect of abolition or reorganisation of office
 
-35\. Notwithstanding the provisions of the Pensions Act [Cap. 225], no person who is transferred to the service of the Authority under section 33 shall be entitled to claim any benefit under the Pensions Act on the ground that he has been retired from the service of the Government on account of abolition or reorganisation of office in consequence of the establishment and incorporation of the Authority.
+35\. Notwithstanding the provisions of the Pensions Act (Cap. 225), no person who is transferred to the service of the Authority under section 33 shall be entitled to claim any benefit under the Pensions Act on the ground that he has been retired from the service of the Government on account of abolition or reorganisation of office in consequence of the establishment and incorporation of the Authority.
 
 ### Existing contracts
 
@@ -1124,7 +1124,7 @@ The person on whom the notice under section 10 of the Rapid Transit Systems Act 
 
 Before the expiration of one year from the completion of the alteration and repair.
 
-5. (a) The cost of the removal of any object or structure pursuant to a notice served by the Authority under section 11 of the Rapid Transit Systems Act (Cap. 263A) or section 13 of the Street Works Act (Cap. 320A) and which was erected and maintained in contravention of any written law
+5. (a) The cost of the removal of any object or structure pursuant to a notice served by the Authority under section 11 of the Rapid Transit Systems Act (Cap. 263A) or section 13 of the Street Works Act (Cap. 320A) and which was erected and maintained without the contravention of any written law.
 
 (a) The cost incurred in moving the object or structure and making good that part of the land or building from which it is removed.
 
@@ -1255,3 +1255,8 @@ This Legislative History is provided for the convenience of users of the Land Tr
 |||(Bill No. 7/2002 published on 4 May 2002)|
 ||Date of Second and Third Readings|24 May 2002|
 ||Date of commencement|15 July 2002|
+|6.|**Act 6 of 2004—Statutes (Miscellaneous Amendments) Act 2004**|
+||Date of First Reading|5 January 2004|
+|||(Bill No. 4/2004 published on 6 January 2004)|
+||Date of Second and Third Readings|6 February 2004|
+||Dates of commencement|8 March 2004|
