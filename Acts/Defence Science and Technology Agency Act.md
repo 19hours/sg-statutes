@@ -50,7 +50,7 @@
 
 - [17 Annual estimates](#Annual-estimates)
 
-- [18 Investments](#Investments)
+- [18 Power of investment](#Power-of-investment)
 
 - [19 Grants](#Grants)
 
@@ -384,9 +384,11 @@ FINANCIAL PROVISIONS
 
 (3) A copy of all annual estimates and supplementary estimates shall, upon their adoption by the Agency, be sent forthwith to the Minister who may approve or disallow any item or portion of any item shown in the estimates, and shall return the estimates as amended by the Minister to the Agency, and the Agency shall be bound thereby.
 
-### Investments
+### Power of investment
 
-18\. The Agency may, from time to time, invest any of its funds in such manner or securities as trustees may by any written law be authorised to invest and, with the approval of the Minister, in any other securities or investments or in any other manner.
+18\. The Agency may invest its funds in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
+
+[45/2004 wef 15/12/2004]
 
 ### Grants
 
@@ -672,3 +674,9 @@ This Legislative History is provided for the convenience of users of the Defence
 ||Date of Second and Third Readings|24 May 2002|
 ||Date of commencement|15 July 2002|
 |||(Item (7) of Schedule — Amendment of Defence Science and Technology Agency Act)|
+|4.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 September 2004|
+|||(Bill No. 43/2004 published on 22 September 2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|15 December 2004|
