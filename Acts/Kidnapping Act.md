@@ -144,7 +144,9 @@ An Act to provide for the punishment of the offences of abduction, wrongful rest
 
 (c) to intercept or listen to any conversation by telephone.
 
-(2) For the purposes of this section, “postal article” and “telecommunication” shall have the meanings assigned to them in the Telecommunication Authority of Singapore Act (Cap. 323).
+(2) For the purposes of this section, “postal article” and “telecommunication” shall have the meanings assigned to them in the Postal Services Act 1999 and the Telecommunications Act 1999, respectively.
+
+[42/99 wef 01/12/1999]
 
 ### Offences to be seizable
 
@@ -174,7 +176,7 @@ Kidnapping Act
 
 (CHAPTER 151)
 
-This Legislative History is provided for the convenience of users of the Kidnapping Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Kidnapping Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -206,6 +208,12 @@ This Legislative History is provided for the convenience of users of the Kidnapp
 ||Date of commencement|16 November 1998|
 |7.|**1999 Revised Edition—Kidnapping Act**|
 ||Date of operation|1 August 1999|
+|8.|**Act 42 of 1999—Postal Services Act 1999**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|11 October 1999|
+|||(Bill No. 34/1999 published on 12 October 1999)|
+||Date of Second and Third Readings|23 November 1999|
+||Date of commencement|1 December 1999|
 ## COMPARATIVE TABLE
 
 Kidnapping Act
@@ -216,9 +224,9 @@ The following provisions in the 1985 Revised Edition of the Kidnapping Act have 
 
 This Comparative Table is provided for the convenience of users. It is not part of the Kidnapping Act.
 
-1999 Ed.
+1999 Ed\. 
 
-1985 Ed.
+1985 Ed\. 
 
 7—(1) and (2)
 
