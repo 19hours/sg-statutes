@@ -64,13 +64,19 @@ An Act to provide for reclamations and to validate and facilitate leases or gran
 
 ### Restriction on construction of sea and river walls and buildings on banks of any port, river or channel
 
-3\.—(1) No person shall erect or build any sea wall or river wall, or construct any revetment along the bank of any port, river or channel, or erect any permanent building or structure within 15 metres of the foreshore or of any such bank, except in accordance with plans and specifications approved by the Building Authority.
+3\.—(1) No person shall erect or build any sea wall or river wall, or construct any revetment along the bank of any port, river or channel, or erect any permanent building or structure within 15 metres of the foreshore or of any such bank, except in accordance with plans and specifications approved by the Urban Redevelopment Authority.
 
 [S 17/75]
 
-(2) The decision of the Building Authority as to the plans and specifications with a statement of his requirements shall be delivered within one month from the date of the deposit of the plans and specifications, and if no intimation of disapproval is given by the Building Authority within that time it shall be assumed that the plans and specifications have been approved.
+[4/99 wef 01/04/1999]
 
-(3) For the purposes of this Act the Building Authority or any officer authorised thereto by him in writing may enter upon and inspect any buildings or premises to which the plans and specifications relate.
+(2) The decision of the Urban Redevelopment Authority as to the plans and specifications with a statement of his requirements shall be delivered within one month from the date of the deposit of the plans and specifications, and if no intimation of disapproval is given by the Urban Redevelopment Authority within that time it shall be assumed that the plans and specifications have been approved.
+
+[4/99 wef 01/04/1999]
+
+(3) For the purposes of this Act the Urban Redevelopment Authority or any officer authorised thereto by him in writing may enter upon and inspect any buildings or premises to which the plans and specifications relate.
+
+[4/99 wef 01/04/1999]
 
 ### Penalty
 
@@ -81,6 +87,8 @@ An Act to provide for reclamations and to validate and facilitate leases or gran
 (6) This section shall not apply to any property held by the Maritime and Port Authority of Singapore or any other statutory body as the Minister may, by notification in theGazette, appoint.
 
 [28/74]
+
+[6/97 wef 01/10/1997]
 
 ### Authority for Government to construct works and to reclaim foreshore or sea-bed
 
@@ -98,13 +106,13 @@ An Act to provide for reclamations and to validate and facilitate leases or gran
 
 Provided that where the part of foreshore or sea-bed to be reclaimed does not exceed 8 hectares or, if the whole of that part is within port limits, 4 hectares, the approval of Parliament shall not be required and the Minister may authorise such reclamation.
 
-[S17/75]
+[S 17/75]
 
 ### Declaration regarding reclaimed lands
 
 5\.—(1) The President may, by proclamation published in theGazette, declare any lands formed by the reclamation of any part of the foreshore of Singapore, or any areas of land reclaimed from the sea to be State land, and thereupon that land shall immediately vest in the State freed and discharged from all public and private rights which may have existed or been claimed over the foreshore or the sea-bed before the same were so reclaimed.
 
-(2) All land declared to be State land under this section shall be subject to the State Lands Act (Cap. 314).
+(2) All land declared to be State land under this section shall be subject to the State Lands Act [Cap. 314].
 
 ### Except as provided, no action to be brought in respect of any damage
 
@@ -156,7 +164,7 @@ Saving of rights of State
 
 10\.—(1) It shall be lawful to grant licences for the temporary occupation for any period not exceeding one year of the foreshore and sea-bed in Singapore or in any tidal river or channel therein.
 
-(2) The power to grant such licences shall be exercisable by the Commissioner of Lands or by a Collector of Land Revenue deputed by him in that behalf, and all such licences shall be in all respects subject, with the necessary verbal variations, to the rules applicable from time to time to licences granted under the provisions of the State Lands Act (Cap. 314) for the temporary occupation of State land:
+(2) The power to grant such licences shall be exercisable by the Commissioner of Lands or by a Collector of Land Revenue deputed by him in that behalf, and all such licences shall be in all respects subject, with the necessary verbal variations, to the rules applicable from time to time to licences granted under the provisions of the State Lands Act [Cap. 314] for the temporary occupation of State land:
 
 Provided that no licence granted under this section shall be renewed if it is made to appear to the Minister that the licence creates a substantial infringement of public rights.
 
@@ -182,7 +190,7 @@ Foreshores Act
 
 (CHAPTER 113)
 
-This Legislative History is provided for the convenience of users of the Foreshores Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Foreshores Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -212,7 +220,7 @@ This Legislative History is provided for the convenience of users of the Foresho
 ||Date of commencement|17 May 1935|
 |9.|**1936 Revised Edition—Foreshores Ordinance (Cap. 122)**|
 ||Date of operation|1 September 1936|
-|10.|**Act 30 of 1953—Local Forces (Civil Liability) Act 1953**|
+|10.|**Ordinance 30 of 1953—Local Forces (Civil Liability) Ordinance 1953**|
 ||Date of First, Second and Third Readings|Date not available.|
 ||Date of commencement|3 November 1953|
 |11.|**Ordinance 37 of 1952—Law Revision (Penalties Amendment) Ordinance 1952**|
@@ -220,7 +228,7 @@ This Legislative History is provided for the convenience of users of the Foresho
 ||Date of commencement|30 April 1955|
 |12.|**G. N. No. S 265/1955—Singapore Colony Order in Council 1955**|
 ||Date of commencement|17 September 1955|
-|13.|**G. N. No. S 33/1956—Singapore Colony Order in Council 1955 (Consequential Provisions) (Miscellaneous Order) 1956**|
+|13.|**G. N. No. S 33/1956—Singapore Colony Order in Council 1955 (Consequential Provisions) (Miscellaneous) Order 1956**|
 ||Date of commencement|4 February 1956|
 |14.|**1955 Revised Edition—Foreshores Ordinance (Cap. 246)**|
 ||Date of operation|1 July 1956|
@@ -261,3 +269,9 @@ This Legislative History is provided for the convenience of users of the Foresho
 |||(Bill No. 5/1997 published on 19 September 1997)|
 ||Date of Second and Third Readings|25 August 1997|
 ||Date of commencement|1 October 1997|
+|27.|**Act 4 of 1999—Building and Construction Authority Act 1999**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|23 November 1998|
+|||(Bill No. 51/1998 published on 24 November 1998)|
+||Date of Second and Third Readings|20 January 1999|
+||Date of commencement|1 April 1999|
