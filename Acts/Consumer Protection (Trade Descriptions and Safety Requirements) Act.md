@@ -210,15 +210,21 @@ shall be guilty of an offence.
 
 ### Trade marks containing trade descriptions
 
-8\. A trade description which is or is part of a trade mark within the meaning of the Trade Marks Act may be a false trade description when applied to any goods, except where all of the following conditions are satisfied:
+8\. A trade description which is or is part of a trade mark within the meaning of the Trade Marks Act 1998 may be a false trade description when applied to any goods, except where all of the following conditions are satisfied:
 
 (a) it could have been lawfully applied to the goods if this Act had not been passed;
 
-(b) on the commencement of this Act the trade mark either is registered under the Trade Marks Act or is in use to indicate a connection in the course of trade between those goods and the proprietor of the trade mark;
+(b) on the commencement of this Act the trade mark either is registered under the Trade Marks Act 1998 or is in use to indicate a connection in the course of trade between those goods and the proprietor of the trade mark;
 
-(c) the trade mark as applied is used to indicate such a connection between the goods and the proprietor of the trade mark or a registered user of the trade mark under the Trade Marks Act ; and
+[Act 46/1998 wef 15/01/1999]
+
+(c) the trade mark as applied is used to indicate such a connection between the goods and the proprietor of the trade mark or a registered user of the trade mark under the Trade Marks Act 1998; and
+
+[Act 46/1998 wef 15/01/1999]
 
 (d) the person who is the proprietor of the trade mark is the same person as, or a successor in title of, the proprietor on 1st August 1975.
+
+[Act 46/1998 wef 15/01/1999]
 
 ## PART III
 
@@ -447,3 +453,8 @@ This Legislative History is provided for the convenience of users of the Consume
 ||Date of commencement|1 August 1975|
 |2.|**1985 Revised Edition—Consumer Protection (Trade Descriptions and Safety Requirements) Act (Chapter 53)**|
 ||Date of operation|30 March 1987|
+|3.|**Act 46 of 1998—Trade Marks Act 1998**|
+||Date of First Reading|12 October 1998|
+|||(Bill No. 42/98 published on 13 October 1998)|
+||Date of Second and Third Readings|26 November 1998|
+||Date of commencement|15 January 1999 (item (2) in the Fourth Schedule — amendment of Consumer Protection (Trade Descriptions and Safety Requirements) Act)|
