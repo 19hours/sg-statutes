@@ -32,7 +32,7 @@
 
 [**Part III TOTALISATORS AND TOTALISATOR AGENCIES**](#Part-III)
 
-- [11 Approval of totalisator agency scheme](#Approval-of-totalisator-agency-scheme)
+- [11 Approval of totalisator and totalisator agency scheme](#Approval-of-totalisator-and-totalisator-agency-scheme)
 
 - [12 Calculation of dividend](#Calculation-of-dividend)
 
@@ -64,15 +64,17 @@
 
 [**Legislative History**](#Legislative-History)
 
+[**Comparative Table**](#Comparative-Table)
+
 # Singapore Totalisator Board Act
 
 (CHAPTER 305A)
 
 (Original Enactment: Act 29 of 1987)
 
-REVISED EDITION 1988
+REVISED EDITION 1999
 
-(30th April 1988)
+(30th December 1999)
 
 An Act to provide for the establishment of the Singapore Totalisator Board and to regulate the conduct of betting by agencies of the Board, and for matters connected therewith.
 
@@ -90,9 +92,9 @@ PRELIMINARY
 
 2\. In this Act, unless the context otherwise requires —
 
-“approved scheme” means a scheme for the establishment and operation of totalisators and totalisator agencies for the time being approved by the Minister pursuant to section 11;
+“approved scheme” means a scheme for the establishment and operation of totalisators and totalisator agencies for the time being approved by the Minister under section 11;
 
-“Board” means the Singapore Totalisator Board established by section 3;
+“Board” means the Singapore Totalisator Board established under section 3;
 
 “horse race” includes a pony race;
 
@@ -124,7 +126,7 @@ SINGAPORE TOTALISATOR BOARD
 
 ### Functions of Board
 
-4\.—(1) The functions of the Board are
+4\.—(1) The functions of the Board are —
 
 (a) to operate totalisators in accordance with any approved scheme under section 11;
 
@@ -134,19 +136,17 @@ SINGAPORE TOTALISATOR BOARD
 
 (d) with the approval of the Minister, to establish and maintain places and facilities for recreation on land owned or held by the Board and to carry out such activities as appear to the Board to be requisite, advantageous or convenient for or in connection with its functions; and
 
-[Act 4/1997 wef 15/09/1997]
-
 (e) to improve racing generally.
 
-[Act 4/1997 wef 15/09/1997]
+[4/97]
 
 (2) The Minister may, after consultation with the Board, give to the Board such general directions, not inconsistent with the provisions of this Act, as to the policy to be followed by the Board in the exercise and performance of its powers and functions under this Act as appear to the Minister to be required in the public interest, and the Board shall as soon as possible give effect to any such directions.
 
-[Act 4/1997 wef 15/09/1997]
+[4/97]
 
-(3) The Board shall furnish the Minister with information with respect to its property and activities in such manner and at such times as he may require.
+(3) The Board shall furnish the Minister with information with respect to its property and activities in such manner and at such times as the Minister may require.
 
-[Act 4/1997 wef 15/09/1997]
+[4/97]
 
 ### Powers of Board
 
@@ -156,11 +156,11 @@ SINGAPORE TOTALISATOR BOARD
 
 (b) to form or participate in the formation of any company or joint venture for the purpose of carrying out any function of the Board or for such other purposes as the Minister may approve.
 
-[Act 4/1997 wef 15/09/1997]
+[4/97]
 
-(2) Subject to any regulations made under section 21, the Board may from time to time distribute any moneys forming part of the funds of the Board and not required by it in the exercise of its functions under section 4 for all or any of the following purposes:
+(2) Subject to any regulations made under section 21, the Board may, from time to time, distribute any moneys forming part of the funds of the Board and not required by it in the exercise of its functions under section 4 for all or any of the following purposes:
 
-(a) public, social or charitable purposes; and
+(a) public, social or charitable purposes;
 
 (b) the promotion of culture, art and sport generally in Singapore.
 
@@ -170,25 +170,27 @@ SINGAPORE TOTALISATOR BOARD
 
 (a) a Chairman; and
 
-(b) not less than 4 nor more than 6 other members as the Minister may from time to time determine.
+(b) not less than 4 and not more than 6 other members as the Minister may from time to time determine.
 
 (2) The First Schedule shall have effect with respect to the Board, its members and proceedings.
 
 ### Staff
 
-7\. The Board may from time to time appoint such officers, employees and agents as it thinks fit for the effective performance of its functions on such terms and conditions as it may determine.
+7\. The Board may, from time to time, appoint such officers, employees and agents as it thinks fit for the effective performance of its functions on such terms and conditions as it may determine.
 
 ### Bank accounts and application of revenue
 
-8\.—(1) The Board shall open and maintain an account or accounts with such bank or banks as the Board thinks fit; and every such account shall be operated by such person or persons as may from time to time be authorised in that behalf by the Board.
+8\.—(1) The Board shall open and maintain an account or accounts with such bank or banks as the Board thinks fit.
 
-(2) The moneys of the Board shall be applied only in payment or discharge of the expenses, obligations and liabilities of the Board and in making any payments that the Board is authorised or required to make.
+(2) Every such account shall be operated by such person or persons as may, from time to time, be authorised in that behalf by the Board.
+
+(3) The moneys of the Board shall be applied only in payment or discharge of the expenses, obligations and liabilities of the Board and in making any payments that the Board is authorised or required to make.
 
 ### Investments
 
 9\. Moneys belonging to the Board may be invested in such stocks, funds, securities or investments as may be authorised by the Minister.
 
-[Act 4/91 wef 01/04/1990]
+[4/91]
 
 ### Financial provisions
 
@@ -198,13 +200,13 @@ SINGAPORE TOTALISATOR BOARD
 
 TOTALISATORS AND TOTALISATOR AGENCIES
 
-### Approval of totalisator agency scheme
+### Approval of totalisator and totalisator agency scheme
 
 11\.—(1) The Board shall submit to the Minister for his approval a scheme for the establishment and operation of totalisators and totalisator agencies in respect of race meetings.
 
 (2) Any scheme under this section may provide for —
 
-(a) the administration of the scheme, and for the establishment, maintenance and operation of totalisators and totalisator agencies and for the carrying out of the functions of the Board under the scheme;
+(a) the administration of the scheme and for the establishment, maintenance and operation of totalisators and totalisator agencies and for the carrying out of the functions of the Board under the scheme;
 
 (b) the receiving at totalisators and totalisator agencies of totalisator investments in respect of horse races, the credit facilities in respect of such investments, the manner in which the investments may be made and the times at which and the conditions upon or subject to which the investments may be made and received;
 
@@ -216,33 +218,31 @@ TOTALISATORS AND TOTALISATOR AGENCIES
 
 (f) such other matters as may be necessary for the proper operations and control of totalisators and totalisator agencies, or for the operation of the scheme.
 
-(3) The Board may from time to time submit to the Minister for his approval any variation of any scheme or any part thereof for the time being in force under this section, or any new scheme in substitution for any such scheme as aforesaid.
+(3) The Board may, from time to time, submit to the Minister for his approval any variation of any scheme or any part thereof for the time being in force under this section, or any new scheme in substitution for any such scheme as aforesaid.
 
 (4) No scheme or any part thereof, and no variation of any such scheme or part thereof, shall come into force until approved in writing by the Minister.
 
 (5) Every approved scheme and any variation thereof shall be published in theGazette.
 
-(6) The Minister may by order notified in theGazettesuspend or revoke any approved scheme or variation of any approved scheme, or any part thereof, and any such suspension or revocation shall have the effect of a repeal of such scheme or part thereof, as the case may be.
+(6) The Minister may, by order notified in theGazette, suspend or revoke any approved scheme or variation of any approved scheme, or any part thereof, and any such suspension or revocation shall have the effect of a repeal of such scheme or part thereof, as the case may be.
 
 ### Calculation of dividend
 
-12\. Except as may be provided under any approved scheme, it shall be the duty of the Board and a turf club operating a totalisator on behalf of the Board under an approved scheme to pay out by way of dividend all moneys received from investments on the totalisator after deducting —
+12\.—(1) Except as may be provided under any approved scheme, it shall be the duty of the Board and a turf club operating a totalisator on behalf of the Board under an approved scheme to pay out by way of dividend all moneys received from investments on the totalisator after deducting —
 
-(a) the amount of any duty charged under the Betting and Sweepstake Duties Act [Cap. 22]; and
+(a) the amount of any duty charged under the Betting and Sweepstake Duties Act (Cap. 22); and
 
-(b) by way of commission, such amount as may be prescribed by any regulations made under section 21, of all such moneys:
+(b) by way of commission, such amount as may be prescribed by any regulations made under section 21, of all such moneys.
 
-Provided that —
+(2) It shall not be necessary to pay out fractions of a dollar.
 
-(i) it shall not be necessary to pay out fractions of a dollar;
+(3) Any investment on any horse which is scratched or otherwise withdrawn in accordance with the rules of racing applied by any approved scheme shall be refunded without deduction of such duty and commission mentioned in subsection (1).
 
-(ii) any investment on any horse which is scratched or otherwise withdrawn in accordance with the rules of racing applied by any approved scheme shall be refunded without deduction of such duty and commission.
-
-[Act 4/1997 wef 15/09/1997]
+[4/97]
 
 ### Proportion of deduction from investment to belong to Board
 
-13\. The sums deducted by way of commission in accordance with section 12(b), together with any fractional money arising pursuant to the operation of paragraph (i) of the proviso to section 12, shall be deemed for all purposes to belong to and form part of the general funds of the Board and may be apportioned between the Board and the turf club in such proportion and in such manner as may be approved by the Minister under an approved scheme.
+13\. The sums deducted by way of commission in accordance with section 12(1)(b), together with any fractional money arising pursuant to the operation of section 12(2), shall be deemed for all purposes to belong to and form part of the general funds of the Board and may be apportioned between the Board and the turf club in such proportion and in such manner as may be approved by the Minister under an approved scheme .
 
 ## PART IV
 
@@ -252,9 +252,9 @@ MISCELLANEOUS
 
 14\.—(1) A turf club may admit members of the public to any race course or premises under the control or supervision of the club or of any one or more of the officers of such club on payment of an admission fee.
 
-(2) Where an admission fee is charged under subsection (1), such admission fee shall be subject to the payment of duty under the Entertainments Duty Act [Cap. 94].
+(2) Where an admission fee is charged under subsection (1), such admission fee shall be subject to the payment of duty under the Entertainments Duty Act (Cap. 94).
 
-(3) A turf club may from time to time, with the approval of the Minister, make by-laws controlling the admission of persons to any race course or premises used or occupied by such club for race meetings or for the placing of investments on the totalisator.
+(3) A turf club may, from time to time, with the approval of the Minister, make by-laws controlling the admission of persons to any race course or premises used or occupied by such club for race meetings or for the placing of investments on the totalisator.
 
 (4) Any by-laws made under this section may provide for the exclusion from a race course or such premises of any specified class or description of persons, either absolutely or subject to such conditions as may be prescribed by such by-laws.
 
@@ -276,7 +276,7 @@ MISCELLANEOUS
 
 (b) any person of or above the age of 18 years to buy a ticket or chance or take part in any totalisator operated in accordance with an approved scheme, notwithstanding that he is not a member of a turf club.
 
-(2) Where any totalisator is operated in accordance with an approved scheme, no person shall be liable in respect of the use of the totalisator to any penalty or forfeiture under the Common Gaming Houses Act [Cap. 49] or the Betting Act [Cap. 21] or any other written law for the time being in force relating to gaming, betting or lotteries.
+(2) Where any totalisator is operated in accordance with an approved scheme, no person shall be liable in respect of the use of the totalisator to any penalty or forfeiture under the Common Gaming Houses Act (Cap. 49) or the Betting Act (Cap. 21) or any other written law for the time being in force relating to gaming, betting or lotteries.
 
 ### Certain advertisements relating to totalisator agencies not unlawful
 
@@ -292,7 +292,7 @@ MISCELLANEOUS
 
 ### Exemption from Betting Act
 
-17\. The Board and any officer, agent or employee of the Board or of any turf club while engaged in the lawful conduct of any totalisator or totalisator agency in accordance with an approved scheme shall be exempted from the provisions of the Betting Act [Cap. 21].
+17\. The Board and any officer, agent or employee of the Board or of any turf club while engaged in the lawful conduct of any totalisator or totalisator agency in accordance with an approved scheme shall be exempted from the provisions of the Betting Act (Cap. 21).
 
 ### Investment on totalisator after time of race prohibited
 
@@ -316,15 +316,15 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Inspection of totalisators and totalisator agencies
 
-20\. A police officer not below the rank of inspector may at any time enter for the purpose of inspection any premises in which any totalisator or totalisator agency is operated, and may during such inspection examine any books, accounts, records or other documents, or any machine or equipment, for the time being used in the operation of the totalisator or agency, and seize any such books, accounts, records, documents, machine or equipment which he has reasonable cause to believe to be evidence of the commission of any offence under this Act, and may demand from any person for the time being having the care and management of the totalisator or agency or any part thereof any information that he considers necessary for the purpose of the inspection.
+20\. A police officer not below the rank of inspector may at any time enter for the purpose of inspection any premises in which any totalisator or totalisator agency is operated, and may during such inspection examine any books, accounts, records or other documents, or any machine or equipment, for the time being used in the operation of the totalisator or totalisator agency, and seize any such books, accounts, records, documents, machine or equipment which he has reasonable cause to believe to be evidence of the commission of any offence under this Act, and may demand from any person for the time being having the care and management of the totalisator or totalisator agency or any part thereof any information that he considers necessary for the purpose of the inspection.
 
 ### Power to make regulations
 
-21\. The Minister may from time to time make such regulations as he may consider necessary or expedient to give effect to the provisions of this Act and for the due administration thereof.
+21\. The Minister may, from time to time, make such regulations as he may consider necessary or expedient to give effect to the provisions of this Act and for the due administration thereof.
 
 ### Property of Singapore Turf Club to be held on trust for Board
 
-22\.—(1) The following property and funds of the Singapore Turf Club, a society registered under the Societies Act [Cap. 311], shall with effect from 9th November 1987 be deemed to be held by the Club on trust for the purposes of the Board and the Board may at any time require the Club to transfer to the Board any such property or funds for those purposes:
+22\.—(1) The following property and funds of the Singapore Turf Club, a society registered under the Societies Act (Cap. 311), shall with effect from 9th November 1987 be deemed to be held by the Club on trust for the purposes of the Board and the Board may at any time require the Club to transfer to the Board any such property or funds for those purposes:
 
 (a) all immovable property owned by the Club on that date; and
 
@@ -336,11 +336,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (4) Notwithstanding subsection (1), the Singapore Turf Club may, from 9th November 1987 to 1st January 1988, apply any funds deemed to be held by the Club on trust for the Board for such purposes as may be approved by the Minister for Finance.
 
-[S 349/87]
-
 FIRST SCHEDULE
 
-Section 6(2).
+Section 6(2)
 
 Constitution and Proceedings of Board
 
@@ -394,7 +392,7 @@ Disqualification from membership
 
 Disclosure of interest by members
 
-11.—(1) A member of the Board who is in any way directly or indirectly interested in a transaction or project of the Board shall disclose the nature of his interest at a meeting of the Board; and the disclosure shall be recorded in the minutes of the Board and the member shall not take part in any deliberation of the Board with respect to that transaction or project.
+11.—(1) A member of the Board who is in any way, directly or indirectly, interested in a transaction or project of the Board shall disclose the nature of his interest at a meeting of the Board; and the disclosure shall be recorded in the minutes of the Board and the member shall not take part in any deliberation of the Board with respect to that transaction or project.
 
 (2) For the purpose of determining whether there is a quorum, a member shall be treated as being present at a meeting notwithstanding that under sub-paragraph (1) he cannot vote or has withdrawn from the meeting.
 
@@ -430,7 +428,7 @@ Validity of proceedings
 
 SECOND SCHEDULE
 
-Section 10.
+Section 10
 
 Financial Provisions
 
@@ -440,7 +438,7 @@ Financial Provisions
 
 3.—(1) The accounts of the Board shall be audited by the Auditor-General or such other auditor as may be appointed annually by the Minister in consultation with the Auditor-General.
 
-(2) A person shall not be qualified for appointment as an auditor under sub-paragraph (1) unless he is an approved company auditor under the Companies Act [Cap. 50].
+(2) A person shall not be qualified for appointment as an auditor under sub-paragraph (1) unless he is an approved company auditor under the Companies Act (Cap. 50).
 
 4\. The remuneration of the auditor shall be paid out of the funds of the Board.
 
@@ -456,17 +454,15 @@ Financial Provisions
 
 (d) such other matters arising from the audit as he considers should be reported.
 
-7. The auditor may at any other time report to the Minister and to the Board upon any matter arising out of the performance of his audit.
+7\. The auditor may at any other time report to the Minister and to the Board upon any matter arising out of the performance of his audit.
 
-[Act 4/91 wef 01/04/1990]
-
-8\. The auditor or any person authorised by him is entitled at all reasonable times to full and free access to all accounting and other records relating directly or indirectly to the financial transactions of the Board.
+8\. The auditor or any person authorised by him is entitled at all reasonable times to full and free access to all accounting and other records relating, directly or indirectly, to the financial transactions of the Board.
 
 9\. The auditor or a person authorised by him may make copies of or extracts from any such accounting and other records.
 
 10\. The auditor may require any person to furnish him with such information in the possession of that person or to which that person has access as the auditor considers necessary for the purposes of his functions under this Act.
 
-11\. Any person who fails without any reasonable cause to comply with any requirement of the auditor under paragraph 10 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
+11\. Any person who fails without any reasonable cause to comply with any requirement of the auditor under paragraph 10 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 .
 
 12\. As soon as the accounts of the Board and the financial statements have been audited in accordance with the provisions of this Act, a copy of the audited financial statements signed by the Chairman, together with a copy of any report made by the auditor, shall be submitted to the Minister.
 
@@ -474,13 +470,11 @@ Financial Provisions
 
 14\. The Minister shall as soon as practicable cause a copy of the audited financial statements and of the auditor’s report to be presented to Parliament.
 
-15. The Board shall, as soon as practicable after the end of each financial year, cause to be prepared and transmitted to the Minister a report dealing generally with the activities of the Board during the preceding financial year and containing such information relating to the proceedings and policy of the Board as the Minister may, from time to time, direct.
-
-[Act 4/91 wef 01/04/1990]
+15\. The Board shall, as soon as practicable after the end of each financial year, cause to be prepared and transmitted to the Minister a report dealing generally with the activities of the Board during the preceding financial year and containing such information relating to the proceedings and policy of the Board as the Minister may, from time to time, direct.
 
 16. The Minister shall as soon as practicable cause a copy of every such report to be presented to Parliament.
 
-[Act 4/91 wef 01/04/1990]
+[4/91; 4/97]
 
 ## LEGISLATIVE HISTORY
 
@@ -509,3 +503,31 @@ This Legislative History is provided for the convenience of users of the Singapo
 |||(Bill No. 1/1997 published on 3 June 1997)|
 ||Date of Second and Third Readings|25 August 1997|
 ||Date of commencement|15 September 1997|
+|5.|**1999 Revised Edition—Singapore Totalisator Board Act (Chapter 305A)**|
+||Date of operation|30 December 1999|
+## COMPARATIVE TABLE
+
+Singapore Totalisator Board Act
+
+(CHAPTER 305A)
+
+The following provisions in the 1988 Revised Edition of the Singapore Totalisator Board Act have been renumbered by the Law Revision Commissioners in this 1999 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Singapore Totalisator Board Act.
+
+1999 Ed 
+
+1988 Ed\. 
+
+8 — (1) and (2)
+
+8 — (1)
+
+(3)
+
+(2)
+
+12 — (1), (2) and (3)
+
+12 
+
