@@ -550,13 +550,15 @@ Provided that the Minister may, before making a decision on any such representat
 
 (b) an undertaking engaged in the transport of passengers or goods by road, rail, sea, inland waterways or air, including the handling of goods at docks, quays, wharves, warehouses or airports;
 
-(c) a hotel or catering business, or a tourist enterprise as defined in the Tourist Promotion Board Act [Cap. 328]; and
+(c) a hotel or catering business, or a tourism enterprise as defined in the Singapore Tourism Board Act; and
 
 (d) a pioneer enterprise, as defined under section 3 of the Economic Expansion Incentives (Relief from Income Tax) Act [Cap. 86].
 
 (4) This section shall apply to undertakings specified in subsection (2) for a period of 5 years from the date the undertakings commence, or have commenced, operation in Singapore:
 
 Provided that the Minister may from time to time by notification in theGazetteextend such period for such further period or periods as the Minister may decide.
+
+(5) This section shall not apply to a tourism enterprise that commenced operation before the date of commencement of the Tourist Promotion Board (Amendment) Act 1997 unless it was a tourist enterprise as defined in the Tourist Promotion Board Act (Cap. 328) in force immediately before that date.
 
 ### Collective agreement deemed to be an award
 
@@ -1420,3 +1422,9 @@ This Legislative History is provided for the convenience of users of the Industr
 |||(Bill No. 35/95 published on 28 September 1995)|
 ||Date of Second and Third Readings|1 November 1995|
 ||Date of commencement|1 March 1996|
+|11.|**Act 9 of 1997—Tourist Promotion Board (Amendment) Act 1997**|
+||(Consequential amendments made by)||
+||Date of First Reading|25 August 1997|
+|||(Bill No. 11/97 published on 26 August 1997)|
+||Date of Second and Third Readings|7 October 1997|
+||Date of commencement|20 November 1997|
