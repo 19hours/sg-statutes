@@ -40,6 +40,8 @@
 
 - [13A Power to impose conditions relating to contributions by self-employed persons](#Power-to-impose-conditions-relating-to-contributions-by-self-employed-persons)
 
+- [13B Voluntary contributions](#Voluntary-contributions)
+
 - [14 Payment of cash grant by Government into Fund](#Payment-of-cash-grant-by-Government-into-Fund)
 
 [**Part III WITHDRAWAL OF CONTRIBUTIONS**](#Part-III)
@@ -53,6 +55,8 @@
 - [18 Transfer of member’s moneys in Fund to parent’s or spouse’s retirement account, etc.](#Transfer-of-member’s-moneys-in-Fund-to-parent’s-or-spouse’s-retirement-account-etc)
 
 - [18A Transfer of member’s moneys in ordinary account to retirement account](#Transfer-of-member’s-moneys-in-ordinary-account-to-retirement-account)
+
+- [18B Transfer of member’s moneys in ordinary account to special account](#Transfer-of-member’s-moneys-in-ordinary-account-to-special-account)
 
 - [19 Moneys transferred to parent’s or spouse’s retirement account to be credited to member’s account on death of parent or spouse](#Moneys-transferred-to-parent’s-or-spouse’s-retirement-account-to-be-credited-to-member’s-account-on-death-of-parent-or-spouse)
 
@@ -81,6 +85,8 @@
 - [29 Interpretation of this Part](#Interpretation-of-this-Part)
 
 - [30 Establishment of Home Protection Insurance Scheme](#Establishment-of-Home-Protection-Insurance-Scheme)
+
+- [30A Double insurance cover under Scheme prohibited](#Double-insurance-cover-under-Scheme-prohibited)
 
 - [31 Medical condition of member of Scheme](#Medical-condition-of-member-of-Scheme)
 
@@ -150,7 +156,9 @@
 
 - [61 Penalties](#Penalties)
 
-- [62 Sanction for prosecution](#Sanction-for-prosecution)
+- [62 Notice to attend court](#Notice-to-attend-court)
+
+- [62A Service of notice and summons](#Service-of-notice-and-summons)
 
 - [63 Composition of offences](#Composition-of-offences)
 
@@ -159,6 +167,8 @@
 - [65 Recovery of sums due to Fund](#Recovery-of-sums-due-to-Fund)
 
 - [66 Certificate of authorised officer to be evidence](#Certificate-of-authorised-officer-to-be-evidence)
+
+- [66A Certificate of Board on non-payment of contributions](#Certificate-of-Board-on-non-payment-of-contributions)
 
 - [67 Conduct of prosecutions](#Conduct-of-prosecutions)
 
@@ -268,7 +278,7 @@ PRELIMINARY
 
 “medisave account” means a medisave account maintained under section 13;
 
-“member of the Fund” or “member” means any person to whose credit any amount is standing in the Fund;
+“member of the Fund” or “member” means any person to whose credit any amount is standing in the Fund and includes a person who contributes to the Fund voluntarily in accordance with section 13B;
 
 “minimum sum” means the sum referred to in section 15(6);
 
@@ -582,6 +592,18 @@ CONTRIBUTIONS TO FUND
 
 [27/92]
 
+### Voluntary contributions
+
+13B\.—(1) Notwithstanding anything in this Act but subject to any regulations made under section 77 —
+
+(a) a person in respect of whom no contribution is required to be paid under this Act or the regulations made thereunder may contribute voluntarily to the Fund in such manner and at such rate as the Minister may direct; and
+
+(b) the Board shall credit every contribution received under paragraph (a) into an ordinary account, a medisave account or a special account, for the purposes specified in section 13(1), in such manner as the Minister may direct, and the Minister may give different directions in respect of different classes of members.
+
+(2) Every contribution that was received by the Board before the date of commencement of the Central Provident Fund (Amendment) Act 1998 from a person in respect of whom no contribution is required to be made under this Act or the regulations made thereunder shall be deemed to have been validly received, and every ordinary account, medisave account and special account that was maintained by the Board for that person before that date shall be deemed to have been validly maintained.
+
+[Act 30/98]
+
 ### Payment of cash grant by Government into Fund
 
 14\.—(1) The Board may after 1st June 1984 accept any cash grant made by the Government for the benefit of any person who qualifies for such grant under any approved scheme, and the Board shall credit the cash grant into such account of that person as the Minister may direct.
@@ -769,6 +791,20 @@ WITHDRAWAL OF CONTRIBUTIONS
 18A\. The Board may, subject to such term and condition as it may impose, permit a member to transfer such portion of the sum standing to his credit in the ordinary account as may be prescribed to his retirement account.
 
 [31/95]
+
+### Transfer of member’s moneys in ordinary account to special account
+
+18B\.—(1) Subject to subsection (2), a member who has less than the prescribed amount standing to his credit in his special account may on or after 1st July 1998 apply to the Board to transfer a sum standing to his credit in his ordinary account, not exceeding the difference between the prescribed amount and the sum standing to his credit in his special account, to his special account.
+
+(2) An application by a member to transfer the sum standing to his credit in his ordinary account to his special account under subsection (1) shall be irrevocable and the transfer shall be subject to such terms and conditions as the Board may determine.
+
+(3) In this section, “prescribed amount” means —
+
+(a) $40,000, where no other sum is specified under paragraph (b); or
+
+(b) where a sum is specified under this paragraph by the Minister for the purposes of this section by notification in theGazette, such sum as may for the time being be so specified.
+
+[Act 30/98]
 
 ### Moneys transferred to parent’s or spouse’s retirement account to be credited to member’s account on death of parent or spouse
 
@@ -1163,6 +1199,18 @@ HOME PROTECTION INSURANCE SCHEME
 (6) Any person who became a member of the Scheme prior to 1st March 1988 shall continue to be a member of the Scheme subject to the same term, condition and restriction which were in force before that date.
 
 [30/87]
+
+### Double insurance cover under Scheme prohibited
+
+30A\.—(1) No person shall be insured under the Scheme for more than one immovable property at the same time.
+
+(2) Where a member who is insured under the Scheme in respect of any immovable property purchases another immovable property from a Housing Authority, the member shall, notwithstanding section 35, cease to be covered under the Scheme in respect of the first-mentioned immovable property immediately upon the commencement of cover under the Scheme in respect of the second-mentioned immovable property.
+
+(3) Where a member’s cover under the Scheme in respect of any immovable property ceases by virtue of subsection (2), the Board shall refund to the member in cash or by crediting to his ordinary account in the Fund as the Board thinks fit an amount representing the surrender value of his cover under the Scheme in respect of that property as on the date of cessation of cover calculated in accordance with regulations made under this Part as if the member had redeemed the housing loan on the property on that date.
+
+(4) Where a member is insured under the Scheme before the date of commencement of the Central Provident Fund (Amendment) Act 1998 for more than one immovable property at the same time, the member’s cover under the Scheme in respect of the earlier of 2 immovable properties purchased by him shall cease on that date and the Board shall refund to the member an amount representing the surrender value of his cover under the Scheme in respect of that property as on that date in the manner provided in subsection (3).
+
+[Act 30/98]
 
 ### Medical condition of member of Scheme
 
@@ -1630,13 +1678,51 @@ he shall be guilty of an offence.
 
 (3) Notwithstanding the provisions of any written law to the contrary, a District Court or a Magistrate’s Court shall have the jurisdiction to impose the maximum penalty prescribed for an offence under this Act.
 
-### Sanction for prosecution
+### Notice to attend court
 
-62\. No court shall take cognizance of any offence under this Act or any regulations or rules made thereunder except with the sanction of the Public Prosecutor.
+62\.—(1) Where an officer of the Board has reasonable ground for believing that a person has committed an offence under this Act or any subsidiary legislation made thereunder, he may, in lieu of applying to a court for a summons, serve upon that person a prescribed notice, requiring that person to attend at the court, at the hour and on the date specified in the notice.
+
+(2) A duplicate of the notice shall be prepared by the officer of the Board and, if so required by the court, produced to the court.
+
+(3) The notice may be served on the person alleged to have committed the offence in the manner provided in section 62A(1).
+
+(4) On an accused person appearing before a court in pursuance of such a notice, the court shall take cognizance of the offence alleged and shall proceed as though he were produced before the court in pursuance of section 136 of the Criminal Procedure Code (Cap.68).
+
+(5) If a person, upon whom such a notice has been served, fails to appear before a court in person or by counsel in accordance therewith, the court may, if satisfied that the notice was duly served, issue a warrant for the arrest of the person unless that person has before that date been permitted to compound the offence.
+
+(6) Upon a person arrested in pursuance of a warrant issued under subsection (5) being produced before a court, the court shall —
+
+(a) proceed as though he were produced in pursuance of section 136 of the Criminal Procedure Code; and
+
+(b) at the conclusion of the proceedings, call upon him to show cause why he should not be punished for failing to attend in compliance with the notice served upon him and if cause is not shown may order him to pay such fine not exceeding $2,000 as the court thinks fit or may commit him to prison for a term not exceeding 2 months.
+
+(7) An officer authorised in that behalf by the Board may, at any time before the date specified in the notice, cancel the notice.
+
+(8) The Board may prescribe such form of notice as it may think fit for the purposes of this section.
+
+[Act 30/98]
+
+### Service of notice and summons
+
+62A\.—(1) Every notice to attend court issued under section 62, and every summons issued by a court, against any person in connection with any offence under this Act or any subsidiary legislation made thereunder may be served on the person —
+
+(a) by delivering it to the person or to some adult member of his family at his last known place of residence;
+
+(b) by leaving it at or sending it by registered post to his usual or last known place of residence or business in an envelope addressed to the person;
+
+(c) where the person is a body of persons or a company —
+
+(i) by delivering it to the secretary or other like officer of the body of persons or company at its registered office or principal place business; or
+
+(ii) by sending it by registered post addressed to the body of persons or company at its registered office or principal place of business.
+
+(2) Any notice to attend court, or summons, sent by registered post to any person in accordance with subsection (1) shall be deemed to be duly served on the person to whom the letter is at the time when the letter would, in the ordinary course of post, be delivered and, in proving service of the summons, it shall be sufficient to prove that the envelope containing the summons was properly addressed, stamped and posted by registered post.
+
+[Act 30/98]
 
 ### Composition of offences
 
-63\.—(1) The Board or any person authorised by the Board in writing may, in its discretion, compound any offence under this Act or any regulations or rules made thereunder which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $200 .
+63\.—(1) The Board or any person authorised by the Board in writing may, in its discretion, compound any offence under this Act or any regulations or rules made thereunder which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $500.
 
 [32/86; 27/92]
 
@@ -1660,6 +1746,12 @@ he shall be guilty of an offence.
 
 66\. In any legal proceedings, a copy of an entry in the accounts of the Fund duly certified under the hand of such officer of the Board as is prescribed by the Board shall be prima facie evidence of the entry having been made and of the truth of the contents thereof.
 
+### Certificate of Board on non-payment of contributions
+
+66A\. In any proceedings relating to the recovery or non-payment of contributions under section 7, a certificate purporting to be issued by the Board certifying the amount of the contributions and interest due thereon and payable by an employer or other person shall be prima facie evidence that the amount of contributions and interest so stated is due and payable by the employer or other person so named in the certificate as at the date of the certificate.
+
+[Act 30/98]
+
 ### Conduct of prosecutions
 
 67\. Proceedings in respect of any offence under the provisions of this Act or any regulations or rules made thereunder may be conducted by any officer authorised in writing in that behalf by the Chairman of the Board.
@@ -1671,6 +1763,14 @@ MISCELLANEOUS
 ### Protection of employee’s interest in execution proceedings and sale under mortgage or charge
 
 68\.—(1) Whenever a writ of seizure and sale has been issued in execution of a judgment against an employer and any movable or immovable property or other assets belonging to the employer has been seized or sold or otherwise realised in pursuance of the execution, and, prior to the payment of the proceeds of the sale or other realisation to an execution creditor, notice has been given to the Sheriff or other officer charged with the execution of the writ by the Board that any sum is due to the Fund, no part of the proceeds shall be paid to an execution creditor, unless the court issuing the writ has ascertained and provided for the sum due to the Fund at the date of the sale or other realisation.
+
+(1A) Whenever a writ of distress has been issued under the Distress Act (Cap.84) to distrain the property of a tenant who is an employer and any moveable property belonging to the employer is seized in execution of the writ, and, prior to the payment of the proceeds of the sale or other realisation to the landlord entitled to the distraint, notice has been given to the Sheriff or other officer charged with the execution of the writ by the Board that any sum is due to the Fund, no part of the proceeds shall be paid to the landlord unless the court issuing the writ has ascertained and provided for the sum due to the Fund at the date of the sale or other realisation.
+
+[Act 30/98]
+
+(1B) Whenever a garnishee order has been issued in execution of a judgment against an employer and, prior to the payment of the amount due or accruing due to the judgment debtor from the garnishee, notice has been given to the garnishee by the Board that any sum is due to the Fund, no amount of the debt sought to be attached under the garnishee order shall be paid to the execution creditor unless the court issuing the garnishee order has ascertained and provided for the sum due to the Fund at the date the debt is due to be paid.
+
+[Act 30/98]
 
 (2) Where any interest in any place of employment being sold on the application of a secured creditor under any written law in force for the time being and the Board giving to the Sheriff or other officer charged with the conduct of the sale notice that a sum of money is due by the debtor to the Fund, the proceeds of the sale shall not be paid to any creditor other than to the Government or a secured creditor unless the court ordering the sale has ascertained and provided for the amount due to the Fund at the date of the sale or unless the court is satisfied that all sums due to the Fund have been paid up to the date of sale.
 
@@ -2661,3 +2761,8 @@ This Legislative History is provided for the convenience of users of the Central
 ||Date of commencement|2 February 1996|
 |98.|**1997 Revised Edition—Central Provident Fund Act (Chapter 36)**|
 ||Date of operation|20 December 1997|
+|99.|**Act 30 of 1998—Central Provident Fund (Amendment) Act 1998**|
+||Date of First Reading|1 June 1998|
+|||(Bill No. 26/98 published on 2 June 1998)|
+||Date of Second and Third Readings|29 June 1998|
+||Date of commencement|1 August 1998|
