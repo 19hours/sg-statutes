@@ -388,15 +388,13 @@ using engineering tools, methodologies and performance criteria as may be accept
 
 (f) if he is a qualified person or a fire safety engineer, his registration as such is revoked or cancelled or he is suspended from practising as such under this Act or any other relevant written law.
 
-[7/2004 wef 01/07/2004]
-
 [5/2000]
 
 (2) The Commissioner may, if he considers that no cause of sufficient gravity for cancellation of registration or suspension from practice exists, by writing censure the registered inspector.
 
 [5/2000]
 
-(3) The Commissioner shall not exercise his powers under subsection (1)(b), (c), (d) , (e) or (f) or (2) unless an opportunity of being heard has been given to the registered inspector against whom the Commissioner intends to exercise his powers.
+(3) The Commissioner shall not exercise his powers under subsection (1)(b), (c), (d), (e) or (f) or (2) unless an opportunity of being heard has been given to the registered inspector against whom the Commissioner intends to exercise his powers.
 
 [7/2004 wef 01/07/2004]
 
@@ -446,7 +444,7 @@ using engineering tools, methodologies and performance criteria as may be accept
 
 [5/2000]
 
-(12) Any person whose name has been removed from the register of registered inspectors under subsection (1)(b), (c), (d) , (e) or (f) shall, if his appeal to the Minister is allowed, have his name reinstated forthwith.
+(12) Any person whose name has been removed from the register of registered inspectors under subsection (1)(b), (c), (d), (e) or (f) shall, if his appeal to the Minister is allowed, have his name reinstated forthwith.
 
 [7/2004 wef 01/07/2004]
 
@@ -896,9 +894,23 @@ FIRE PREVENTION IN BUILDINGS
 
 ### Fire certificate
 
-20\.—(1) The Commissioner may by notice in writing require the owner or occupier of a public building having an occupant load of more than 200 persons to apply and obtain from the Commissioner a fire certificate.
+20\.—(1) The Commissioner may, by notice in writing, require the owner or occupier of any building subject to this section to apply and obtain a fire certificate from the Commissioner.
 
-(2) No person shall occupy or use the building or part thereof or permit the building or part thereof to be occupied or used without a fire certificate authorising such occupation or use.
+[7/2004 wef 10/09/2004]
+
+(1A) The following buildings shall be subject to this section:
+
+(a) any public building which has an occupant load of more than 200 persons or, if so specified, such other occupant load as the Minister may, by notification in theGazette, specify; and
+
+(b) any other particular building, or any building in any other class of buildings, designated by the Minister under subsection (1B) to be subject to this section.
+
+[7/2004 wef 10/09/2004]
+
+(1B) Where, in the opinion of the Minister, any fire within any building (whether used as a residential building or an industrial building or otherwise) is likely to be a significant source of danger to the occupants in the building, or to life or property in the vicinity of that building, the Minister may, by order published in theGazette, designate that particular building or a class of such buildings to be subject to this section.
+
+[7/2004 wef 10/09/2004]
+
+(2) No person shall occupy or use any building subject to this section or permit the building or part thereof to be occupied or used without a fire certificate authorising such occupation or use.
 
 [7/2004 wef 10/09/2004]
 
@@ -906,7 +918,17 @@ FIRE PREVENTION IN BUILDINGS
 
 (4) Any person to whom subsection (1) or (2) applies who contravenes subsection (1) or (2) shall be guilty of an offence.
 
-(5) In this section, “occupant load” of a building means the total number of persons that may occupy such building at any one time.
+(5) In this section —
+
+“industrial building” means any building or part of a building which is used wholly or mainly for —
+
+(a) the manufacture of goods or materials or the subjection of goods or materials to any process, including any research or development for any manufacturing trade or business; or
+
+(b) the purposes of any water, gas, telecommunication, electricity or other industrial undertaking, including research and development for any such industrial undertaking;
+
+“occupant load”, in relation to a building, means the number of persons that may safely occupy the building at any one time.
+
+[7/2004 wef 10/09/2004]
 
 ### Fire emergency plan
 
@@ -1184,8 +1206,6 @@ CONTROL OF FIRE SAFETY WORKS
 
 (b) in any other case, an appropriate qualified person to prepare the plans of those fire safety works.
 
-[7/2004 wef 01/07/2004]
-
 (2) The Commissioner may —
 
 (a) approve, subject to such terms and conditions as he may impose, any one or more of the plans submitted to him under subsection (1);
@@ -1210,8 +1230,6 @@ CONTROL OF FIRE SAFETY WORKS
 
 (b) in the case of plans referred to in subsection (1A)(b), the application and plans are accompanied by a written declaration by the qualified person who prepared those plans declaring that the plans have been prepared in accordance with the Fire Code and the provisions of this Act and any regulations made thereunder.
 
-[7/2004 wef 01/07/2004]
-
 (5) Notwithstanding subsection (4), the Commissioner may, in his discretion, carry out random checks on any plans of fire safety works at any time before or after approving the plans under that subsection.
 
 [5/2000]
@@ -1221,8 +1239,6 @@ CONTROL OF FIRE SAFETY WORKS
 (a) under subsection (2)(a), if he is satisfied that any information given in the application for approval or any document submitted to the Commissioner in respect of the application for approval is false in a material particular; and
 
 (b) under subsection (4), if he is satisfied that the written declaration submitted by the qualified person or fire safety engineer or the certificate of a peer reviewer referred to in that subsection is false.
-
-[7/2004 wef 01/07/2004]
 
 [5/2000]
 
@@ -1264,8 +1280,6 @@ and shall specify a date, not less than 14 days from the date of the written not
 
 (a) any fire certificate granted under section 20 in respect of any building to which the fire safety works relate; and
 
-[7/2004 wef 01/07/2004]
-
 (b) any fire safety certificate or temporary fire permit issued in respect of the fire safety works under section 29,
 
 as the case may be, shall automatically lapse.
@@ -1273,8 +1287,6 @@ as the case may be, shall automatically lapse.
 [5/2000]
 
 (12) For the purposes of this section, any plans of any fire safety works that are prepared in accordance with the solutions issued by the Commissioner as in compliance with the fire performance requirements shall be deemed to satisfy the fire performance requirements.
-
-[7/2004 wef 01/07/2004]
 
 ### Prohibition of fire safety works without approval of plans
 
@@ -1294,23 +1306,13 @@ as the case may be, shall automatically lapse.
 
 (b) in the case of plans referred to in section 23(1A)(b), the same qualified person who prepared the approved plans of those fire safety works to supervise the fire safety works as required under this section.
 
-[7/2004 wef 01/07/2004]
-
 (2) If any qualified person or fire safety engineer appointed under subsection (1) or paragraph (b) becomes unwilling or unable, whether by reason of the termination of his appointment or for any other reason, to carry out his duties under subsection (4) —
 
 (a) the qualified person or fire safety engineer shall, within 14 days of his ceasing to carry out his duties, notify the Commissioner and the person for whom such works are or are to be carried out of the fact; and
 
-[7/2004 wef 01/07/2004]
-
 (b) the person for whom the fire safety works are or are to be carried out shall cease or cause to be ceased and shall not commence or cause to be commenced the carrying out of such work until he has appointed another appropriate qualified person or fire safety engineer in respect of such works.
 
-[7/2004 wef 01/07/2004]
-
-[7/2004 wef 01/07/2004]
-
 (3) Where the person for whom any such works are or are to be carried out appoints an appropriate qualified person or fire safety engineer under subsection (2)(b), he shall, within 7 days of the appointment, notify the Commissioner of the appointment.
-
-[7/2004 wef 01/07/2004]
 
 (4) Every qualified person or fire safety engineer appointed under this section in respect of any fire safety works shall —
 
@@ -1320,25 +1322,17 @@ as the case may be, shall automatically lapse.
 
 (c) submit to the Commissioner at the prescribed times such reports and certificates as may be prescribed in any regulations made under this Act.
 
-[7/2004 wef 01/07/2004]
-
 (5) Any person who contravenes or fails to comply with subsection (1) or (2)(b) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day during which the offence continues after conviction.
 
 (6) Any qualified person or fire safety engineer who contravenes or fails to comply with subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a continuing offence, to a further fine not exceeding $500 for every day during which the offence continues after conviction.
-
-[7/2004 wef 01/07/2004]
 
 (7) It shall be a defence in any prosecution for a contravention or non-compliance with subsection (4)(b) for the person charged to prove to the satisfaction of the court that he did not know, nor could reasonably have discovered, the contravention or non-compliance referred to in the charge.
 
 (8) Any qualified person or fire safety engineer or person for whom any fire safety works are or are to be carried out, as the case may be, who, without reasonable excuse, contravenes or fails to comply with subsection (2)(a) or (3) shall be guilty of an offence.
 
-[7/2004 wef 01/07/2004]
-
 ### Supervision of fire safety works
 
 26\.—(1) Except as otherwise provided in this Act or any regulations made thereunder, no person shall commence or carry out any fire safety works except under the supervision of an appropriate qualified person or fire safety engineer appointed under section 25(1) or (2)(b).
-
-[7/2004 wef 01/07/2004]
 
 (2) Any person who contravenes or fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day during which the offence continues after conviction.
 
@@ -2083,6 +2077,11 @@ This Legislative History is provided for the convenience of users of the Fire Sa
 |||(Bill No. 4/2004 published on 6 January 2004)|
 ||Date of Second and Third Readings|6 February 2004|
 ||Date of commencement|1 July 2004 (sections 3, 10, 11 and 12)|
+|9.|**Act 7 of 2004—Fire Safety (Amendment) Act 2004**|
+||Date of First Reading|5 January 2004|
+|||(Bill No. 4/2004 published on 6 January 2004)|
+||Date of Second and Third Readings|6 February 2004|
+||Date of commencement|10 September 2004 (section 8)|
 ## COMPARATIVE TABLE
 
 Fire Safety Act
