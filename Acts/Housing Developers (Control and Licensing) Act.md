@@ -488,6 +488,14 @@ POWER TO MAKE RULES AND TO ISSUE DIRECTIONS
 
 (iv) the amount of the purchase price, expressed as a percentage of the total price which the purchaser shall not be required to pay before the certificate of fitness of the Deputy Director (Development and Building Control) of the Public Works Department is issued;
 
+(ca) the disclosure in any contract that shall be used by a licensed housing developer, his agent or nominee and a purchaser of any limited common property comprised in the development;
+
+[47/2004 wef 01/04/2005]
+
+(cb) any matter which by this Act is required or permitted to be prescribed for or in relation to staged developments, and modify the application of any of the provisions of this Act in relation to staged developments;
+
+[47/2004 wef 01/04/2005]
+
 (d) the form or forms of the contract that shall be used by a licensed housing developer, his agent or nominee and a purchaser as a condition of the grant of a licence under this Act;
 
 (e) the conditions, which if used in any contract between a licensed housing developer, his agent or nominee and a purchaser, shall be void;
@@ -605,3 +613,9 @@ This Legislative History is provided for the convenience of users of the Housing
 |||(Bill No. 24/2001 published on 12 July 2001)|
 ||Date of Second and Third Readings|25 July 2001|
 ||Date of commencement|1 September 2001|
+|6.|**Act 47 of 2004—Building Maintenance and Strata Management Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|6 February 2004|
+|||(Bill No. 6/2004 published on 7 February 2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|1 April 2005|
