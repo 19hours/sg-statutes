@@ -96,7 +96,7 @@
 
 - [31 Powers of entry for survey purposes](#Powers-of-entry-for-survey-purposes)
 
-- [32 Inspection of Government survey maps](#Inspection-of-Government-survey-maps)
+- [32 Inspection of Authority’s survey maps](#Inspection-of-Authority’s-survey-maps)
 
 - [33 Deposit of plans](#Deposit-of-plans)
 
@@ -182,11 +182,21 @@ PRELIMINARY
 
 “assurance plan” means any plan showing approximate boundaries or dimensions and areas for the purpose of identifying land which has not been surveyed to the satisfaction of the Chief Surveyor but is required to be surveyed under the provisions of any written law;
 
+“authorised surveyor” means a surveyor who is employed by the Authority, whether or not registered under section 12, and includes any other surveyor registered under section 12 appointed by the Chief Surveyor to be an authorised surveyor;
+
+[17/2001 wef 01/06/2001]
+
+“Authority” means the Singapore Land Authority established under the Singapore Land Authority Act 2001;
+
+[17/2001 wef 01/06/2001]
+
 “Board” means the Land Surveyors Board established under section 4;
 
 “cadastral survey” means any survey relating to the recording of land boundaries, subdivision lines, buildings and related details;
 
 [35/98 wef 16/10/1998]
+
+[Deleted by Act 34/1999 wef 01/03/2000]
 
 “cadastral survey work” means any work which is part of or related to a cadastral survey;
 
@@ -197,8 +207,6 @@ PRELIMINARY
 “Chief Surveyor” means the Chief Surveyor appointed under section 3(1) of the Boundaries and Survey Maps Act 1998 (Act 35 of 1998);
 
 [34/99 wef 01/03/2000]
-
-“Government surveyor” means a surveyor who is employed by the Government, whether or not registered under section 12;
 
 “Investigation Committee” means an Investigation Committee appointed under section 24(1);
 
@@ -274,7 +282,7 @@ LAND SURVEYORS BOARD
 
 (b) the Deputy Chief Surveyor;
 
-(c) a Government surveyor appointed by the Minister; and
+(c) an authorised surveyor appointed by the Minister; and
 
 (d) 3 surveyors appointed by the Minister, of whom one shall be selected from a list of not less than two registered surveyors submitted by the Singapore Institute of Surveyors and Valuers.
 
@@ -382,7 +390,7 @@ PRIVILEGES OF LAND SURVEYORS
 
 ### Illegal practice
 
-10\.—(1) Subject to the provisions of this Act, no person shall certify to the correctness or accuracy of any survey unless he is a Government surveyor who is registered under section 12 or a registered surveyor who has in force a practising certificate.
+10\.—(1) Subject to the provisions of this Act, no person shall certify to the correctness or accuracy of any survey unless he is an authorised surveyor who is registered under section 12 or a registered surveyor who has in force a practising certificate.
 
 (2) Subject to the provisions of this Act, no person shall —
 
@@ -404,7 +412,7 @@ unless at the time of so doing the person is a registered surveyor who has in fo
 
 (a) a registered surveyor who has in force a practising certificate;
 
-(b) a Government surveyor who is registered under section 12; or
+(b) an authorised surveyor who is registered under section 12; or
 
 (c) under the direction or supervision of any of the persons mentioned in paragraphs (a) and (b).
 
@@ -496,7 +504,7 @@ and the Board shall, subject to subsection (4), thereupon issue to the registere
 
 (9) Any person whose application for a practising certificate has been refused by the Board may, within 30 days after being notified of such refusal, appeal to the High Court whose decision shall be final.
 
-(10) This section shall not apply to a Government surveyor .
+(10) This section shall not apply to an authorised surveyor.
 
 ### Cancellation of practising certificates
 
@@ -880,13 +888,13 @@ CONDUCT OF CADASTRAL SURVEYS
 
 (4) Nothing in this section shall exempt any registered surveyor or his assistants from liability for any damage caused in the exercise of the powers conferred by subsection (1).
 
-### Inspection of Government survey maps
+### Inspection of Authority’s survey maps
 
-32\. For the purpose of obtaining data for a cadastral survey, the survey plan of which is to be lodged with the Survey Department, a registered surveyor who has in force a practising certificate or an authorised employee or manager of a licensed corporation or partnership may at all reasonable times be permitted to inspect the relevant maps, plans or survey records in the Department and to take copies of such information therefrom as he may require upon payment of a prescribed fee, but he shall not remove any such maps, plans or survey records and shall be liable for any damage which he may cause to them while they are under his control.
+32\. For the purpose of obtaining data for a cadastral survey, the survey plan of which is to be lodged with the Authority, a registered surveyor who has in force a practising certificate or an authorised employee or manager of a licensed corporation or partnership may at all reasonable times be permitted to inspect the relevant maps, plans or survey records lodged with the Authority and to take copies of such information therefrom as he may require upon payment to the Authority of a fee prescribed under section 40(2A), but he shall not remove any such maps, plans or survey records and shall be liable for any damage which he may cause to them while they are under his control.
 
 ### Deposit of plans
 
-33\. On completion of a cadastral survey, the registered surveyor who signs the survey plan thereof shall deposit that plan together with the relevant field books, calculation sheets and survey data with the Survey Department and if the plan is approved by the Chief Surveyor or other officer appointed by him to approve it on his behalf all those documents (including any copyright subsisting therein) shall become the property of the Governmentand shall be filed as permanent survey records.
+33\. On completion of a cadastral survey, the registered surveyor who signs the survey plan thereof shall deposit that plan together with the relevant field books, calculation sheets and survey data with the Authority and if the plan is approved by the Chief Surveyor or other officer appointed by him to approve it on his behalf all those documents (including any copyright subsisting therein) shall become the property of the Authority and shall be filed as permanent survey records.
 
 ### Approval of cadastral surveys and assurance plans
 
@@ -894,21 +902,21 @@ CONDUCT OF CADASTRAL SURVEYS
 
 (2) No assurance plan shall be lodged in the Registry of Titles and Deeds unless the plan is signed by a registered surveyor and approved by the Chief Surveyor or other officer appointed by him to approve assurance plans on his behalf, and bears a caution to the effect that the boundaries or dimensions and areas are inconclusive.
 
-(3) The Chief Surveyor may withhold approval of any plan under this section where the subdivision permission as required by section 12 of the Planning Act 1998 has not been obtained or where the prescribed survey fees have not been paid.
+(3) The Chief Surveyor may withhold approval of any plan under this section where the subdivision permission as required by section 12 of the Planning Act 1998 has not been obtained or where the survey fees prescribed under section 40(2A) have not been paid.
 
 ### Duty of registered surveyor to complete cadastral survey
 
-35\.—(1) A registered surveyor who prepares and signs an assurance plan shall carry out and complete the cadastral survey of the land described and shown in the plan within 6 months from the date of approval of the plan by the Chief Surveyor or such extended period as the Boardmay allow.
+35\.—(1) A registered surveyor who prepares and signs an assurance plan shall carry out and complete the cadastral survey of the land described and shown in the plan within 6 months from the date of approval of the plan by the Chief Surveyor or such extended period as the Chief Surveyor may allow.
 
-(2) Where a registered surveyor has not carried out or has not been able to complete the cadastral survey within the period specified in subsection (1) or any extended period allowed by the Board, the Board may order the cadastral survey to be carried out or completed by a Government surveyor or another registered surveyor.
+(2) Where a registered surveyor has not carried out or has not been able to complete the cadastral survey within the period specified in subsection (1) or any extended period allowed by the Board, the Board may order the cadastral survey to be carried out or completed by an authorised surveyor or another registered surveyor.
 
 (3) This section shall not apply to registered surveyors in the employment of any public authority established by any written law.
 
 ### Correction of errors
 
-36\.—(1) The Chief Surveyor or any Government surveyor authorised by him may at any time undertake field and office checks on the cadastral survey work of a registered surveyor or a licensed corporation or partnership.
+36\.—(1) The Chief Surveyor or any authorised surveyor designated by him may at any time undertake field and office checks on the cadastral survey work of a registered surveyor or a licensed corporation or partnership.
 
-(2) The Chief Surveyor or any person authorised by him may, within 12 months after the date on which any survey plan is deposited with the Survey Department, by notice in writing, direct any registered surveyor or any licensed corporation or partnership to correct at his or its expense within a period specified in the notice any error in the cadastral survey made by that registered surveyor or a registered surveyor who is a director, partner, manager or employee of that corporation or partnership, as the case may be.
+(2) The Chief Surveyor or any person authorised by him may, within 12 months after the date on which any survey plan is deposited with the Authority, by notice in writing, direct any registered surveyor or any licensed corporation or partnership to correct at his or its expense within a period specified in the notice any error in the cadastral survey made by that registered surveyor or a registered surveyor who is a director, partner, manager or employee of that corporation or partnership, as the case may be.
 
 (3) If any person fails to comply with the notice given under subsection (2), the Chief Surveyor may undertake the correction of the survey and recover the cost of the correction from the person.
 
@@ -922,7 +930,7 @@ GENERAL
 
 ### Application of fees, etc., received by Board
 
-37\.—(1) All fees, penalties and other moneys payable under this Act shall be paid to the Board to be applied in the first place to defraying the expenses incurred by the Board in the administration of this Act, including the remuneration of the Registrar and other officers and employees of the Board, and thereafter to providing scholarships and the promotion of learning and education in connection with the profession of surveying.
+37\.—(1) All fees, penalties and other moneys payable under this Act (other than fees prescribed under section 40(2A)) shall be paid to the Board to be applied in the first place to defraying the expenses incurred by the Board in the administration of this Act, including the remuneration of the Registrar and other officers and employees of the Board, and thereafter to providing scholarships and the promotion of learning and education in connection with the profession of surveying.
 
 (2) The Registrar shall take and receive all moneys payable to the Board under this Act.
 
@@ -970,13 +978,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [34/99 wef 01/03/2000]
 
-(b) prescribing the fees payable under this Act;
+(b) prescribing the fees payable to the Board under this Act;
 
 (c) prescribing the subject-matter of examinations to be conducted by or under the direction of the Board in the case of applicants or class of applicants for registration;
 
 (d) prescribing the form of the register of surveyors, register of approved assistant surveyors, register of practitioners and register of licensees to be kept and the particulars to be entered therein;
-
-(e) prescribing the fees to be charged by the Survey Department in connection with cadastral surveys and the time for payment of those fees;
 
 (f) prescribing a code of professional conduct and ethics;
 
@@ -997,6 +1003,10 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 (i) prescribing the terms and conditions of insurance against professional liability under this Act or rules, including a minimum limit of indemnity; and
 
 (j) regulating the proceedings of an Investigation Committee.
+
+(2A) The Authority may, with the approval of the Minister, make rules prescribing the fees to be charged by the Authority in connection with cadastral surveys and the time for payment of those fees.
+
+[17/2001 wef 01/06/2001]
 
 (3) All rules made under this section shall be presented to Parliament as soon as possible after publication in theGazette.
 
@@ -1105,3 +1115,9 @@ This Legislative History is provided for the convenience of users of the Land Su
 |||(Bill No. 21/99 published on 7 July 1999)|
 ||Date of Second and Third Readings|17 August 1999|
 ||Date of commencement|1 March 2000|
+|7.|**Act 17 of 2001—Singapore Land Authority Act 2001**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|5 March 2001|
+|||(Bill No. 17/2001 published on 7 March 2001)|
+||Date of Second and Third Readings|19 April 2001|
+||Date of commencement|1 June 2001|
