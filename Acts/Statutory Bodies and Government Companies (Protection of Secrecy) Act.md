@@ -26,9 +26,9 @@
 
 (Original Enactment: Act 17 of 1983)
 
-REVISED EDITION 1998
+REVISED EDITION 2004
 
-(15th December 1998)
+(31st July 2004)
 
 An Act to protect the secrecy of information of statutory bodies and Government companies.
 
@@ -60,7 +60,7 @@ An Act to protect the secrecy of information of statutory bodies and Government 
 
 ### Amendment of Schedule
 
-5\. The President may, by notification in the Gazette, amend the Schedule.
+5\. The President may, by notification in theGazette, amend the Schedule.
 
 ## THE SCHEDULE
 
@@ -74,118 +74,114 @@ Statutory body
 
 Act under which established or constituted
 
-1. Majlis Ugama Islam, Singapura
+1.
 
-Administration of Muslim Law Act
+Building and Construction Authority
 
-
-
-
-(Chapter 3)
-
-2. Central Provident Fund Board
-
-Central Provident Fund Act (Chapter 36)
-
-3. Civil Aviation Authority of Singapore
-
-Civil Aviation Authority of Singapore Act (Chapter 41)
-
-4. Commercial and Industrial Security Corporation
-
-Commercial and Industrial Security Corporation Act (Chapter 47)
-
-5. Building and Construction Authority
-
-Building and Construction Authority Act (Chapter 30A)
-
-5A. Defence Science and Technology Agency
-
-Defence Science and Technology Agency Act 2000.
-
-6. Economic Development Board
-
-Economic Development Board Act (Chapter 85)
-
-7. Housing and Development Board
-
-Housing and Development Act (Chapter 129)
-
-7A. Info-communications Development Authority of Singapore
-
-Info-communications Development Authority of Singapore Act 1999.
-
-8. Inland Revenue Authority of Singapore
-
-Inland Revenue Authority of Singapore Act (Chapter 138A)
-
-8A. Intellectual Property Office of Singapore
-
-Intellectual Property Office of Singapore Act 2001.
-
-9. Jurong Town Corporation
-
-Jurong Town Corporation Act (Chapter 150)
-
-10. Land Transport Authority of Singapore
-
-Land Transport Authority of Singapore Act (Chapter 158A)
-
-11. Maritime and Port Authority of Singapore
-
-Maritime and Port Authority of Singapore Act (Chapter 170A)
-
-12. Monetary Authority of Singapore
-
-Monetary Authority of Singapore Act (Chapter 186)
-
-13. National Environment Agency
-
-National Environment
+Building and Construction Authority Act
 
 
 
 
-Agency Act (Chapter 195)
+(Chapter 30A)
 
-13A. People’s Association
+2.
 
-People’s Association Act
+Central Provident Fund Board
+
+Central Provident Fund Act
 
 
 
 
-(Chapter 227)
+(Chapter 36)
 
-14. Public Transport Council
+3.
 
-Public Transport Council Act (Chapter 259B)
+Civil Aviation Authority of Singapore
 
-15. Public Utilities Board
+Civil Aviation Authority of Singapore Act
 
-Public Utilities Act (Chapter 261)
 
-16. Media Development Authority of Singapore
 
-Media Development Authority of Singapore Act (Chapter 172)
 
-16A. Singapore Land Authority
+(Chapter 41)
 
-Singapore Land Authority Act 2001.
+4.
 
-17. Standards, Productivity and Innovation Board
+Commercial and Industrial Security Corporation
 
-Standards, Productivity and Innovation Board Act (Chapter 303A)
+Commercial and Industrial Security Corporation Act
 
-18. Singapore Tourism Board
 
-Singapore Tourism Board Act (Chapter 305B)
 
-19. Singapore Workforce Development Agency
 
-Singapore Workforce Development Agency Act 2003 (Act 14 of 2003)
+(Chapter 47)
 
-20. International Enterprise Singapore Board
+5.
+
+Defence Science and Technology Agency
+
+Defence Science and Technology Agency Act
+
+
+
+
+(Chapter 75A)
+
+6.
+
+Economic Development Board
+
+Economic Development Board Act
+
+
+
+
+(Chapter 85)
+
+7.
+
+Housing and Development Board
+
+Housing and Development Act
+
+
+
+
+(Chapter 129)
+
+8.
+
+Info-communications Development Authority of Singapore
+
+Info-communications Development Authority of Singapore Act (Chapter 137A)
+
+9.
+
+Inland Revenue Authority of Singapore
+
+Inland Revenue Authority of Singapore Act
+
+
+
+
+(Chapter 138A)
+
+10.
+
+Intellectual Property Office of Singapore
+
+Intellectual Property Office of Singapore Act
+
+
+
+
+(Chapter 140)
+
+11.
+
+International Enterprise Singapore Board
 
 International Enterprise Singapore Board Act
 
@@ -194,23 +190,170 @@ International Enterprise Singapore Board Act
 
 (Chapter 143B).
 
-21. Urban Redevelopment Authority
+12.
 
-Urban Redevelopment Authority Act (Chapter 340)
+Jurong Town Corporation
 
-[S 495/2003 wef 27/10/2003]
+Jurong Town Corporation Act
 
-[9/2000 wef 15/03/2000]
 
-[41/99 wef 01/12/1999]
 
-[3/2001 wef 01/04/2001]
 
-[S 495/2003 wef 27/10/2003]
+(Chapter 150)
 
-[17/2001 wef 01/06/2001]
+13.
 
-[S 495/2003 wef 27/10/2003]
+Land Transport Authority of Singapore
+
+Land Transport Authority of Singapore Act
+
+
+
+
+(Chapter 158A)
+
+14.
+
+Majlis Ugama Islam, Singapura
+
+Administration of Muslim Law Act
+
+
+
+
+(Chapter 3)
+
+15.
+
+Maritime and Port Authority of Singapore
+
+Maritime and Port Authority of Singapore Act
+
+
+
+
+(Chapter 170A)
+
+16.
+
+Media Development Authority of Singapore
+
+Media Development Authority of Singapore Act
+
+
+
+
+(Chapter 172)
+
+17.
+
+Monetary Authority of Singapore
+
+Monetary Authority of Singapore Act
+
+
+
+
+(Chapter 186)
+
+18.
+
+National Environment Agency
+
+National Environment Agency Act
+
+
+
+
+(Chapter 195)
+
+19.
+
+People’s Association
+
+People’s Association Act
+
+
+
+
+(Chapter 227)
+
+20.
+
+Public Transport Council
+
+Public Transport Council Act
+
+
+
+
+(Chapter 259B)
+
+21.
+
+Public Utilities Board
+
+Public Utilities Act
+
+
+
+
+(Chapter 261)
+
+22.
+
+Singapore Land Authority
+
+Singapore Land Authority Act
+
+
+
+
+(Chapter 301)
+
+23.
+
+Singapore Tourism Board
+
+Singapore Tourism Board Act
+
+
+
+
+(Chapter 305B)
+
+24.
+
+Singapore Workforce Development Agency
+
+Singapore Workforce Development Agency Act 2003
+
+
+
+
+(Act 14 of 2003)
+
+25.
+
+Standards, Productivity and Innovation Board
+
+Standards, Productivity and Innovation Board Act
+
+
+
+
+(Chapter 303A)
+
+26.
+
+Urban Redevelopment Authority
+
+Urban Redevelopment Authority Act
+
+
+
+
+(Chapter 340)
 
 Part II
 
@@ -329,3 +472,5 @@ This Legislative History is provided for the convenience of users of the Statuto
 ||Date of commencement|27 October 2003|
 |31.|**G. N. No. S 276/2004—Statutory Bodies and Government Companies (Protection of Secrecy) (Amendment of Schedule) Notification 2004**|
 ||Date of commencement|1 June 2004|
+|32.|**2004 Revised Edition—Statutory Bodies and Government Companies (Protection of Secrecy) Act**|
+||Date of operation|31 July 2004|
