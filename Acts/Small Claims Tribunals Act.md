@@ -42,7 +42,7 @@
 
 - [16 Contents of claim](#Contents-of-claim)
 
-- [17 Settlement by Registrar](#Settlement-by-Registrar)
+- [17 Powers of Registrar](#Powers-of-Registrar)
 
 - [18 Service of claim and notice of hearing](#Service-of-claim-and-notice-of-hearing)
 
@@ -250,6 +250,10 @@ ESTABLISHMENT AND JURISDICTION OF TRIBUNALS
 
 (3) Any party to the claim shall, upon payment of a prescribed fee, be entitled to a copy of the record of a tribunal and such record shall be admissible in evidence before any other court for the purposes of any proceedings before that court.
 
+(4) The record of a tribunal relating to any claim shall be kept for a period of one year after the date of the order made by the tribunal in relation to the claim or, where there is an appeal against the order to the High Court, one year after the conclusion of the appeal.
+
+[Act 31 of 1992 wef 13/11/1992]
+
 ### Appointment of Registrar, Deputy Registrar, Assistant Registrars and other officers
 
 14\.—(1) The Chief Justice may appoint a Registrar, a Deputy Registrar, Assistant Registrars and such other officers as may be necessary for the proper functioning of tribunals.
@@ -282,11 +286,31 @@ ESTABLISHMENT AND JURISDICTION OF TRIBUNALS
 
 (d) such other particulars of the claim as are reasonably sufficient to inform the respondent of the ground for the claim and the manner in which the amount claimed by each claimant or person represented has been calculated.
 
-### Settlement by Registrar
+### Powers of Registrar
 
 17\.—(1) The Registrar shall, when a claim has been filed, invite all the parties to the dispute for consultation with a view to effecting a settlement acceptable to all the parties.
 
 (2) Where such a settlement is made, the Registrar shall at the request of the claimant, make an order under section 32 that gives effect to the terms of the settlement and such order shall have effect as if it were an order of a tribunal made under that section.
+
+(3) Where at the consultation the Registrar is of the opinion that a claim or counterclaim lodged is outside the jurisdiction of a tribunal, he shall discontinue the proceedings and advise the claimant and respondent accordingly.
+
+[Act 31 of 1992 wef 13/11/1992]
+
+(4) Any person aggrieved by a decision of the Registrar made under subsection (3) may within one month appeal to a tribunal which may make an order confirming, reversing or varying the decision of the Registrar.
+
+[Act 31 of 1992 wef 13/11/1992]
+
+(5) If a claimant fails to appear at the consultation, by himself or by a representative pursuant to section 21(2), the Registrar may make an order dismissing the claim or, where there is a counterclaim by the respondent, make any order which a tribunal may make under section 32.
+
+[Act 31 of 1992 wef 13/11/1992]
+
+(6) If the respondent fails to appear at the consultation, by himself or by a representative pursuant to section 21(2), the claimant may apply to the Registrar for any order which a tribunal may make under section 32 to be made against the respondent, and upon such application the Registrar shall grant him the order if the Registrar is satisfied that the claimant is entitled thereto and that a copy of the written claim and notice of consultation have been served on the respondent.
+
+[Act 31 of 1992 wef 13/11/1992]
+
+(7) Any order made by the Registrar under subsection (5) or (6) shall have effect as if it were an order of a tribunal made under section 32.
+
+[Act 31 of 1992 wef 13/11/1992]
 
 ### Service of claim and notice of hearing
 
@@ -326,11 +350,17 @@ ESTABLISHMENT AND JURISDICTION OF TRIBUNALS
 
 (a) the Government, a public officer may present the case on its behalf;
 
+(aa) a Town Council established under the Town Councils Act (Cap. 329A), one of the full-time employees of the Town Council or of its management agent may present the case on its behalf;
+
+[Act 31 of 1992 wef 13/11/1992]
+
 (b) a body corporate, one of its full-time employees may present the case on its behalf; and
 
 (c) a partnership, one of its partners or full-time employees may present the case on its behalf.
 
-(3) No party to any proceedings before a tribunal shall be represented by an advocate and solicitor or agent, whether paid or otherwise.
+(3) No party to any proceedings before a tribunal shall be represented by an advocate and solicitor or agent except as provided in subsection (2)(aa), whether paid or otherwise.
+
+[Act 31 of 1992 wef 13/11/1992]
 
 (4) A tribunal shall, before permitting a person to act as a representative under subsection (2), satisfy itself that such person has sufficient knowledge of the case and sufficient authority to bind the party whom he represents.
 
@@ -408,7 +438,9 @@ the tribunal may order that such claims be heard at the same time.
 
 ### No costs allowed in proceedings
 
-28\. Except as provided in section 29, costs, other than disbursements shall not be granted to or awarded against any party to any proceedings before a tribunal.
+28\. Except as provided in section 29, costs, other than disbursements shall not be granted to or awarded against any party to any proceedings before a tribunal or the Registrar.
+
+[Act 31 of 1992 wef 13/11/1992]
 
 ### Frivolous or vexatious claims
 
@@ -448,13 +480,17 @@ and such ancillary orders as may be necessary to give effect to the order or ord
 
 ### Enforcement of orders to pay money
 
-33\.—(1) Every order made by a tribunal requiring a party to pay money shall be deemed to be an order of a Magistrate’s Court and, subject to this section, may be enforced accordingly.
+33\.—(1) Every order made by a tribunal or the Registrar requiring a party to pay money shall be deemed to be an order of a Magistrate’s Court and, subject to this section, may be enforced accordingly.
+
+[Act 31 of 1992 wef 13/11/1992]
 
 (2) Where application is made to a Magistrate’s Court for the issue of any process to enforce an order provided for by section 32(1)(c) (requiring a party to pay money to another as an alternative to compliance with a work order), the Registrar shall give notice of the application to the party against whom enforcement is sought.
 
 (3) If that party does not file in the tribunal within the period prescribed for so doing a notice of objection in the prescribed form, the order may, after the expiry of that period, be enforced pursuant to subsection (1).
 
-(4) The notice referred to in subsection (3) may only be given on the ground that it is the belief of the party that the order of the tribunal has been fully complied with and that he therefore disputes the entitlement of the applicant to enforce it.
+(4) The notice referred to in subsection (3) may only be given on the ground that it is the belief of the party that the order of the tribunal or the Registrar has been fully complied with and that he therefore disputes the entitlement of the applicant to enforce it.
+
+[Act 31 of 1992 wef 13/11/1992]
 
 (5) If the party against whom enforcement is sought files the notice referred to in subsection (3) within the prescribed period, the Registrar shall refer the matter to the tribunal to be heard and determined under section 34(2).
 
@@ -522,9 +558,13 @@ MISCELLANEOUS PROVISIONS
 
 ### Setting aside of order
 
-38\.—(1) Any award or order of a tribunal obtained where one party did not appear at the hearing may be set aside by the tribunal on the application of that party on such terms as it thinks just.
+38\.—(1) Any award or order of the Registrar or a tribunal obtained where one party did not appear at the consultation or hearing, as the case may be, may be set aside by the tribunal on the application of that party on such terms as the tribunal thinks just.
 
-(2) An application under subsection (1) shall be made within 7 days after the hearing or such further period as the tribunal may allow.
+[Act 31 of 1992 wef 13/11/1992]
+
+(2) An application under subsection (1) shall be made within one month after the hearing or such further period as the tribunal may allow.
+
+[Act 31 of 1992 wef 13/11/1992]
 
 ### Stay of execution on appeal
 
@@ -619,3 +659,8 @@ This Legislative History is provided for the convenience of users of the Small C
 ||Date of commencement|15 January 1985|
 |2.|**1985 Revised Edition—Small Claims Tribunals Act (Cap. 308)**|
 ||Date of operation|30 March 1987|
+|3.|**Act 31 of 1992—Small Claims Tribunals (Amendment) Act 1992**|
+||Date of First Reading|31 July 1992|
+|||(Bill No. 30/1992 published on 1 August 1992)|
+||Date of Second and Third Readings|14 September 1992|
+||Date of commencement|13 November 1992|
