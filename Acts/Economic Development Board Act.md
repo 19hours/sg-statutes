@@ -168,7 +168,9 @@ may exercise any of the functions of the Chairman.
 
 (9) A member of the Board shall not, in any meeting of the Board, participate in any discussion relating to, and shall not vote in respect of, any application to the Board for a loan in which he is interested or in respect of any business or management in which he is interested, and if he does so his vote shall not be counted, nor shall he be counted in the quorum present at that meeting.
 
-(10) The members of the Board shall be paid out of the funds of the Board such salaries, fees or allowances as the President may determine.
+(10) The members of the Board shall be paid out of the funds of the Board such salaries, fees or allowances as the Minister may determine.
+
+[Act 7/1997 wef 01/10/1997]
 
 (11) The Minister may at any time revoke the appointment of the Chairman or of any other member of the Board.
 
@@ -304,11 +306,11 @@ Provided that the approval of the Minister shall not be required, under this sub
 
 (4) Bonds and debentures of the Board issued before the commencement of subsection (4A) shall be guaranteed by the Government as to the repayment of principal and the payment of interest at such rate as may be approved by the Minister under subsection (2).
 
-[Act 18/1994 wef 01/10/1994]
+[Act 18/94 wef 01/10/1994]
 
 (4A) Bonds and debentures of the Board issued on or after the commencement of this subsection shall be guaranteed by the Government as to the repayment of principal and the payment of interest at such rate as may be approved by the Minister under subsection (2) if the President, acting in his discretion, concurs with the giving of such guarantee.
 
-[Act 18/1994 wef 01/10/1994]
+[Act 18/94 wef 01/10/1994]
 
 (5) For the purposes of subsection (1), the power to raise loans shall include the power to make any financial agreement whereby credit facilities are granted to the Board for the purchase of goods, materials or things.
 
@@ -674,3 +676,8 @@ This Legislative History is provided for the convenience of users of the Economi
 |||(Bill No. 25/94 published on 29 July 1994)|
 ||Date of Second and Third Readings|25 August 1994|
 ||Date of commencement|1 October 1994 (Item (2) of the Schedule – Amendment of Economic Development Board Act)|
+|14.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
+||Date of First Reading|11 July 1997|
+|||(Bill No. 6/97 published on 12 July 1997)|
+||Date of Second and Third Readings|25 August 1997|
+||Date of commencement|1 October 1997 (Item (12) of the Second Schedule – Amendment of Economic Development Board Act)|
