@@ -6,7 +6,7 @@
 
 [**Long Title**](#Revised-Edition-of-the-Laws-Act)
 
-- [1 Short Title](#Short-Title)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -54,8 +54,6 @@
 
 - [24 Expenses of revision](#Expenses-of-revision)
 
-- [25 Saving](#Saving)
-
 [**Legislative History**](#Legislative-History)
 
 # Revised Edition of the Laws Act
@@ -64,15 +62,15 @@
 
 (Original Enactment: Act 9 of 1983)
 
-REVISED EDITION 1985
+REVISED EDITION 1995
 
-(30th March 1987)
+(15th March 1995)
 
 An Act to make provision for the preparation and publication of a revised edition of the laws of Singapore, for the annual revision thereof and for matters connected therewith.
 
 [15th April 1983]
 
-### Short Title
+### Short title
 
 1\. This Act may be cited as the Revised Edition of the Laws Act.
 
@@ -102,17 +100,17 @@ An Act to make provision for the preparation and publication of a revised editio
 
 to prepare and publish a revised edition of Acts and a revised edition of subsidiary legislation and to make an annual revision thereof in accordance with the provisions of this Act.
 
-[Act 6 of 1994 wef 01/07/1994]
+(2) Every Commissioner appointed under subsection (1)(d) shall hold office for such period not exceeding 3 years as the President may determine and shall be eligible for re-appointment.
 
-(1A) Every Commissioner appointed under subsection (1)(d) shall hold office for such period not exceeding 3 years as the President may determine and shall be eligible for re-appointment.
+[6/94]
 
-[Act 6 of 1994 wef 01/07/1994]
+(3) The President may at any time revoke the appointment of any Commissioner appointed under subsection (1)(d).
 
-(1B) The President may at any time revoke the appointment of any Commissioner appointed under subsection (1)(d).
+[6/94]
 
-[Act 6 of 1994 wef 01/07/1994]
+(4) In case any of the Commissioners, appointed under subsection (1), is unable from any cause fully to discharge his commission under this Act, the President may, by notification in theGazette, appoint some other person to be a Commissioner or temporarily in his stead to exercise the powers and discharge the duties of a Commissioner except that in case any Commissioner is unable from any cause fully to discharge his commission under this Act and no appointment has been made under this subsection, the remaining Commissioner or Commissioners shall have and may exercise all the powers and duties conferred by this Act upon the Commissioners.
 
-(2) In case any of the Commissioners, appointed under subsection (1), is unable from any cause fully to discharge his commission under this Act, the President may, by notification in theGazette, appoint some other person to be a Commissioner or temporarily in his stead to exercise the powers and discharge the duties of a Commissioner except that in case any Commissioner is unable from any cause fully to discharge his commission under this Act and no appointment has been made under this subsection, the remaining Commissioner or Commissioners shall have and may exercise all the powers and duties conferred by this Act upon the Commissioners.
+[6/94]
 
 ### Powers of Commissioners
 
@@ -236,13 +234,15 @@ Provided that section 16 of the Interpretation Act [Cap. 1] shall apply to such 
 
 (i) “The Statutes of the Republic of Singapore”; and
 
-(ii) “Revised Edition 1985. Printed and published by the Government Printer, Singapore”; and
+(ii) “Revised Edition 1985. Printed by the Government Printer, Singapore”; and
 
 (b) at the top of every subsequent page of each such booklet the words “1985 Ed.”.
 
 (2) The Commissioners shall cause the various booklets which have been compiled for the purposes of subsection (1) to be contained together in such number of volumes as they consider convenient.
 
 (3) A booklet shall be bound in such manner as will enable it to be easily removed from and replaced in a volume.
+
+[S 337/87]
 
 ### Annual revision of revised edition of Acts
 
@@ -256,37 +256,49 @@ Provided that section 16 of the Interpretation Act [Cap. 1] shall apply to such 
 
 (d) such treaties, conventions and other instruments enacted, made or agreed to during the relevant period as they consider may usefully be published; and
 
-(e) a new table of contents and index to the revised edition of Acts, a chronological table of Acts and a list of the latest edition of each booklet containing an Act included in the revised edition of Acts and, in the case of Acts which have been published or revised in loose-leaf form, a lists of such Acts and the pages thereof which have been revised.
+(e) a new table of contents and index to the revised edition of Acts, a chronological table of Acts and a list of the latest edition of each booklet containing an Act included in the revised edition of Acts and, in the case of Acts which have been published or revised in loose-leaf form, a list of such Acts and the pages thereof which have been revised.
+
+[6/94]
 
 (2) The Commissioners may from time to time cause to be published a new revised edition of any Act, treaty, convention or other instrument which has not been amended during the relevant period.
 
-(3) Where the Commissioners consider that the amendments that have been made to any Act, treaty, convention or other instrument during the relevant period are not sufficiently extensive to justify the preparation and publication of a new revised edition thereof, they may defer the preparation and publication of such revised edition until such time as they consider that it is necessary or expedient to do so.
+[6/94]
 
-(4) The Commissioners may from time to time cause to be prepared and published a new revised edition of any Act, treaty, convention or other instrument if they consider that any amendments which have been made thereto are sufficiently extensive to justify the immediate preparation and publication of such revised edition or that it is necessary or expedient to do so.
+(3) Where the Commissioners consider that the amendments that have been made to any Act, treaty, convention or other instrument during the relevant period are not sufficiently extensive to justify the preparation and publication of a new revised edition thereof, the Commissioners may defer the preparation and publication of such revised edition until such time as they consider that it is necessary or expedient to do so.
+
+[6/94]
+
+(4) The Commissioners may from time to time cause to be prepared and published a new revised edition of any Act, treaty, convention or other instrument if the Commissioners consider that any amendments which have been made thereto are sufficiently extensive to justify the immediate preparation and publication of such revised edition or that it is necessary or expedient to do so.
+
+[6/94]
 
 (5) The Commissioners may cause any new Act, treaty, convention or other instrument which has been enacted, made or agreed to, as the case may be, during the relevant period or the revised edition of any Act, treaty, convention or other instrument, to be published in the form of a booklet or in loose-leaf form.
 
-(6) Where the Commissioners have caused any new or revised edition of any Act, treaty, convention or other instrument to be published in loose-leaf form, they shall not thereafter be bound to prepare and publish any subsequent annual revision of such Act, treaty, convention or other instrument upon any amendment being made thereto but may instead prepare and publish only such page or pages of such Act, treaty, convention or other instrument as may require replacement by virtue of the amendment.
+[6/94]
+
+(6) Where the Commissioners have caused any new or revised edition of any Act, treaty, convention or other instrument to be published in loose-leaf form, the Commissioners shall not thereafter be bound to prepare and publish any subsequent annual revision of such Act, treaty, convention or other instrument upon any amendment being made thereto but may instead prepare and publish only such page or pages of such Act, treaty, convention or other instrument as may require replacement by virtue of the amendment.
+
+[6/94]
 
 (7) The Commissioners may include in any booklet or loose-leaf edition of any Act, treaty, convention or other instrument or in any loose pages published under this section such notes, indexes, instructions or other information as they consider useful.
 
-[Act 6 of 1994 wef 01/07/1994]
+[6/94]
 
 ### Powers and duties of Commissioners under section 10
 
-11\.—(1) For the purposes of section 10 the Commissioners may exercise and perform any of the powers and duties conferred or imposed upon them by this Act in the preparation of the revised edition of Acts.
+11\.—(1) For the purposes of section 10, the Commissioners may exercise and perform any of the powers and duties conferred or imposed upon them by this Act in the preparation of the revised edition of Acts.
 
 (2) Every booklet or loose-leaf edition of any Act, treaty, convention or other instrument published pursuant to section 10 shall contain on the front page the description referred to in section 9(1) except that for the reference to the 1985 Edition there shall be substituted a reference to the year in which the edition is published.
 
-[Act 6 of 1994 wef 01/07/1994]
+[6/94]
 
-(3) The Commissioners shall transmit to the President a copy of every booklet or loose-leaf edition of any Act, treaty, convention or other instrument published under section 10 and with effect from such date as the President may specify by order in theGazetteany such booklet or loose-leaf edition of any Act, treaty, convention or other instrument shall in all courts and for all purposes be the sole and only proper law of Singapore in respect of that Act.
+(3) The Commissioners shall transmit to the President a copy of every booklet or loose-leaf edition of any Act, treaty, convention or other instrument published under section 10 and with effect from such date as the President may specify by order in theGazetteany such booklet or loose-leaf edition of any Act, treaty, convention or other instrument shall, in all courts and for all purposes, be the sole and only proper law of Singapore in respect of that Act, treaty, convention or other instrument.
 
-[Act 6 of 1994 wef 01/07/1994]
+[6/94]
 
 (4) Every booklet or loose-leaf edition of any Act, treaty, convention or other instrument shall, as soon as possible after the publication of such order, be presented to Parliament.
 
-[Act 6 of 1994 wef 01/07/1994]
+[6/94]
 
 ### Publication of lists of titles of current Acts
 
@@ -302,9 +314,9 @@ Provided that section 16 of the Interpretation Act [Cap. 1] shall apply to such 
 
 ### Subsidiary legislation
 
-15\.—(1) There shall be issued as supplementary to the revised edition of Acts, a revised edition of subsidiary legislation, in such manner or form as, in the opinion of the Commissioners, may be most practicable.
+15\.—(1) There shall be issued, as supplementary to the revised edition of Acts, a revised edition of subsidiary legislation in such manner or form as, in the opinion of the Commissioners, may be most practicable.
 
-(2) In the preparation of the revised edition of subsidiary legislation, the Commissioners shall have the like powers to do all things as are conferred upon them by this Act in respect of the revised edition of Acts except that the powers conferred by section 6, other than that contained in subsection (2) thereof, shall be inapplicable and that if the Commissioners consider it desirable that in the preparation of the revised edition of subsidiary legislation there should be amendments not authorised under the power previously conferred by this section, they are hereby empowered to prepare such amendments by virtue of this section, and submit them for approval to the authority having power to make the same.
+(2) In the preparation of the revised edition of subsidiary legislation, the Commissioners shall have the like powers to do all things as are conferred upon them by this Act in respect of the revised edition of Acts except that the powers conferred by section 6, other than that contained in subsection (2) thereof, shall be inapplicable and that if the Commissioners consider it desirable that, in the preparation of the revised edition of subsidiary legislation, there should be amendments not authorised under the power previously conferred by this section, the Commissioners are hereby empowered to prepare such amendments by virtue of this section, and submit them for approval to the authority having power to make the same.
 
 (3) The Commissioners shall also have power to include in the revised edition of subsidiary legislation any part of an Act omitted pursuant to section 4(1)(a)(viii), and any matter included in the revised edition of subsidiary legislation in pursuance of this power shall be deemed for all purposes, including the exercise by the Commissioners of all the powers conferred by this section in relation thereto, to be subsidiary legislation of which a revised edition is being prepared in pursuance of this Act.
 
@@ -332,11 +344,11 @@ Provided that section 16 of the Interpretation Act [Cap. 1] shall apply to such 
 
 (b) of any single piece of that subsidiary legislation whether or not any such legislation has been amended during the period of 12 months ending on the preceding 31st December.
 
-(5A) Section 10(3), (4), (5), (6) and (7) shall apply, mutatis mutandis, to the revised edition of subsidiary legislation and to any new or revised edition of any piece of subsidiary legislation.
+(6) Section 10(3), (4), (5), (6) and (7) shall apply, mutatis mutandis, to the revised edition of subsidiary legislation and to any new or revised edition of any piece of subsidiary legislation.
 
-[Act 6 of 1994 wef 01/07/1994]
+[6/94]
 
-(6) In the preparation of a revised edition of subsidiary legislation under subsection (5), the Commissioners shall have the like powers to do all things as are conferred upon them by section 15(2) and (3).
+(7) In the preparation of a revised edition of subsidiary legislation under subsection (5), the Commissioners shall have the like powers to do all things as are conferred upon them by section 15(2) and (3).
 
 ### Complementary matter in revised edition of Acts
 
@@ -348,7 +360,7 @@ Provided that section 16 of the Interpretation Act [Cap. 1] shall apply to such 
 
 ### Effect of repealed or omitted Acts
 
-19\.—(1) The repeal or omission from the revised edition of Acts, of any Act repealed or omitted during and for the purpose of the preparation of such revised edition of Acts, shall not affect the validity of any existing resolutions of Parliament, or any proclamations, rules, regulations, orders, notifications, by-laws or other instruments made under any Acts or other lawful authority and having legislative effect, made under any Act so repealed or omitted.
+19\.—(1) The repeal or omission from the revised edition of Acts of any Act repealed or omitted during and for the purpose of the preparation of such revised edition of Acts, shall not affect the validity of any existing resolutions of Parliament, or any proclamations, rules, regulations, orders, notifications, by-laws or other instruments made under any Acts or other lawful authority and having legislative effect, made under any Act so repealed or omitted.
 
 (2) Such proclamations, rules, regulations, orders, notifications, by-laws or other instruments made under any such Acts or other lawful authority and having legislative effect, so far as they are not inconsistent with any Act for the time being in force, shall continue in force until otherwise provided.
 
@@ -360,7 +372,7 @@ Provided that section 16 of the Interpretation Act [Cap. 1] shall apply to such 
 
 ### Sealed copies to be deposited
 
-21\.—(1) The Commissioners shall cause two complete sets of the revised edition of Acts and two complete sets of the revised edition of subsidiary legislation to be bound together in volumes in a permanent manner.
+21\.—(1) The Commissioners shall cause 2 complete sets of the revised edition of Acts and 2 complete sets of the revised edition of subsidiary legislation to be bound together in volumes in a permanent manner.
 
 (2) The title page of each volume of the revised edition of Acts and of each volume of the revised edition of subsidiary legislation shall be dated and signed by the Commissioners and by the President and shall all be sealed with the public seal of Singapore.
 
@@ -382,15 +394,11 @@ or rectify in a manner not inconsistent with the powers of revision conferred by
 
 (2) Every order made under subsection (1)(a) shall be presented to Parliament as soon as possible after publication.
 
-[Act 6 of 1994 wef 01/07/1994]
+[6/94]
 
 ### Expenses of revision
 
 24\. The expenses of and incidental to the preparation and publication of the revised edition of Acts and any annual revision of Acts made pursuant to section 10 and the revised edition of subsidiary legislation shall be defrayed out of moneys provided by Parliament.
-
-### Saving
-
-25\. The Law Revision Commissioners appointed by the President on 26th March 1982 pursuant to section 3(1) of the Revised Edition of the Laws Act [1970 Ed. Cap. 1] shall be deemed to be the Law Revision Commissioners appointed under section 3(1) of this Act and such Commissioners shall have and shall exercise all the powers and duties conferred or imposed upon them by this Act.
 
 ## LEGISLATIVE HISTORY
 
@@ -415,3 +423,5 @@ This Legislative History is provided for the convenience of users of the Revised
 |||(Bill No. 7/1994 published on 17 March 1994)|
 ||Date of Second and Third Readings|23 May 1994|
 ||Date of commencement|1 July 1994|
+|4.|**1995 Revised Edition—Revised Edition of the Laws Act**|
+||Date of operation|15 March 1995|
