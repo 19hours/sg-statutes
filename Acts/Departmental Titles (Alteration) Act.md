@@ -274,26 +274,6 @@ Deputy Secretary, Ministry of Finance
 
 Deputy Secretary (Finance).
 
-Fisheries Officer
-
-Assistant Director of Primary Production (Fisheries).
-
-Fisheries Officer
-
-Senior Primary Production Officer (Fisheries).
-
-Fisheries Officer
-
-Principal Primary Production Officer (Fisheries).
-
-Fisheries Officer
-
-Primary Production Officer (Fisheries).
-
-Fisheries Officer
-
-Assistant Primary Production Officer (Fisheries).
-
 Clerk of the Executive Council
 
 Secretary to the Cabinet.
@@ -379,26 +359,6 @@ Deputy Director-General of Customs and Excise.
 Assistant Comptroller of Customs and Excise
 
 Director of Customs and Excise.
-
-Chief Veterinary Officer
-
-Director of Primary Production.
-
-Rural Development Commissioner
-
-Director of Primary Production.
-
-Assistant Director of Primary Production (Veterinary)
-
-Deputy Director of Primary Production.
-
-Senior Primary Production Officer (Veterinary)
-
-Senior Primary Production Officer.
-
-Senior Primary Production Officer (Agriculture)
-
-Senior Primary Production Officer.
 
 Principal Assistant Director of Social Welfare
 
@@ -649,3 +609,5 @@ This Legislative History is provided for the convenience of users of the Departm
 ||Date of commencement|1 April 1999|
 |19.|**G. N. No. S 408/1999—Departmental Titles (Alteration) Act (Amendment of Schedule) (No. 2) Notification 1999**|
 ||Date of commencement|26 July 1999|
+|20.|**G. N. No. S 173/2000—Departmental Titles (Alteration) Act (Amendment of Schedule) Notification 2000**|
+||Date of commencement|1 April 2000|
