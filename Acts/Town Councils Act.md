@@ -98,7 +98,7 @@
 
 - [40 Power to borrow](#Power-to-borrow)
 
-- [41 Investment of surplus funds](#Investment-of-surplus-funds)
+- [41 Power of investment](#Power-of-investment)
 
 - [42 Grants](#Grants)
 
@@ -1006,11 +1006,11 @@ the Town Council shall, as soon as practicable after the relevant date specified
 
 [39
 
-### Investment of surplus funds
+### Power of investment
 
-41\. All funds of a Town Council that are not immediately required may be invested in such securities as trustees may by any written law be authorised to invest.
+41\. A Town Council may invest its funds in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
 
-[40
+[45/2004 wef 15/12/2004]
 
 ### Grants
 
@@ -1292,30 +1292,30 @@ FORM A
 
 Section 9(11)
 
-TOWN COUNCILS ACT
+Town Councils Act
 
 
 
 
-(CHAPTER 329A)
+(chapter 329a)
 
-DECLARATION OF ACCEPTANCE OF OFFICE
+Declaration Of Acceptance Of Office
 
 FORM B
 
 Section 9(11)
 
-TOWN COUNCILS ACT
+Town Councils Act
 
 
 
 
-(CHAPTER 329A)
+(chapter 329a)
 
 
 
 
-DECLARATION OF ACCEPTANCE OF OFFICE
+Declaration Of Acceptance Of Office
 
 ## LEGISLATIVE HISTORY
 
@@ -1359,6 +1359,11 @@ This Legislative History is provided for the convenience of users of the Town Co
 ||Date of commencement|8 February 1999|
 |8.|**2000 Revised Edition—Town Councils Act**|
 ||Date of operation|1 July 2000|
+|9.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
+||Date of First Reading|21 September 2004|
+|||(Bill No. 43/2004 published on 22 September 2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|15 December 2004|
 ## COMPARATIVE TABLE
 
 Town Councils Act
