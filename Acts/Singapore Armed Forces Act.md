@@ -496,7 +496,15 @@
 
 - [205 Regulations](#Regulations)
 
+- [205A SAVER Plan](#SAVER-Plan)
+
+- [205B SAVER Fund](#SAVER-Fund)
+
+- [205C Administration of SAVER Fund](#Administration-of-SAVER-Fund)
+
 - [206 Pensions](#Pensions)
+
+- [206A Pension, etc., not of right](#Pension-etc-not-of-right)
 
 - [207 Regulations to be presented to Parliament](#Regulations-to-be-presented-to-Parliament)
 
@@ -512,7 +520,7 @@
 
 (CHAPTER 295)
 
-(Original Enactment: Act 7 of 1972)
+(Original Enactment: 7 of 1972)
 
 REVISED EDITION 1995
 
@@ -3422,19 +3430,115 @@ MISCELLANEOUS
 
 [20/94]
 
+### SAVER Plan
+
+205A\.—(1) The Armed Forces Council may also make regulations for the establishment of a Savings and Employee Retirement Plan (referred to in this Act as the SAVER Plan) for the payment of —
+
+(a) any gratuity, allowance, superannuation or other like benefit to such servicemen or classes of servicemen as may be prescribed, or to their legal personal representatives or dependants, on the death or the retirement or resignation from the Singapore Armed Forces of such servicemen;
+
+(b) any pension, allowance, gratuity, compensation or other benefit in respect of the death of or injuries received by any such serviceman in and which are attributable to service;
+
+(c) any subsidy, rebate or other benefit in respect of medical services rendered to such servicemen; and
+
+(d) any allowance, subsidy or other benefit to such former servicemen after their retirement from the Singapore Armed Forces.
+
+(2) The following provisions shall apply to the SAVER Plan established under this section:
+
+(a) no payments, allowance or other benefit payable under the SAVER Plan (whether on death, retirement or resignation of a serviceman or otherwise), and no contribution by the Government made under the SAVER Plan and no interest thereon shall be assignable or transferable, or liable to be garnished, attached, sequestered or levied upon for or in respect of any debt or claim whatsoever, other than —
+
+(i) a debt due to the Government; or
+
+(ii) an order of court for the payment of periodical sums of money towards the maintenance of the wife or former wife or minor child (whether legitimate or not) of the serviceman to whom the payment, allowance or other benefit has been granted;
+
+(b) no contribution by the Government made under the SAVER Plan and no interest thereon shall be subject to the debts of a serviceman, nor shall such contributions and interest pass to the Official Assignee on the bankruptcy of the serviceman, but if the serviceman is adjudicated a bankrupt or is declared insolvent by a court of law, such contribution and interest shall be deemed excluded from the property of the bankrupt for the purposes of the Bankruptcy Act (Cap.20); and
+
+(c) subject to the provisions of any regulations made under this section, all moneys paid or payable under the SAVER Plan on the death of a serviceman shall be deemed to be subject to a trust in favour of the persons entitled thereto under the will or intestacy of such deceased serviceman and shall not be deemed to form part of his estate or be subject to the payment of his debts but shall be deemed to be property passing on his death for the purposes of the Estate Duty Act (Cap.96).
+
+(3) The Armed Forces Council shall, in making any regulations under this section, provide —
+
+(a) for servicemen who, immediately prior to 1st January 1998, are eligible for any pension, gratuity or other allowance under any regulations made under section 205 to opt to join the SAVER Plan and for the terms and conditions of such an option; and
+
+(b) that any such serviceman who opts to join the SAVER Plan shall remain eligible to benefits not less in value than the amount of any pension, gratuity or other allowance for which he would have been granted under the regulations made under section 205 if he retired or ceased contract service on medical grounds not due to causes within his control on the date immediately prior to his joining the SAVER Plan.
+
+(4) Any option exercised by any serviceman before the commencement of the Singapore Armed Forces (Amendment) Act 1998 to join or not to join the SAVER Plan shall be deemed to be exercised in accordance with the regulations made under subsection (3).
+
+[12/98 wef 01/04/1998]
+
+### SAVER Fund
+
+205B\.—(1) There shall be a fund to be called the Savings and Employee Retirement Plan Fund (referred to in this Act as the SAVER Fund) which shall be held, managed and administered as a Government fund separate from other Government funds.
+
+(2) All payments and other benefits payable to servicemen under the SAVER Plan , and all expenses incurred in the administration of the SAVER Plan and the investment of moneys in the SAVER Fundshall be charged on and paid out of the SAVER Fund, and no other moneys shall be withdrawn from the SAVER Fund unless authorised to be withdrawn under this Act.
+
+(3) There shall be paid into the SAVER Fund —
+
+(a) such sums appropriated from time to time from the Consolidated Fund and authorised to be paid in the SAVER Fund by any written law to enable the SAVER Fundto meet its liabilities;
+
+(b) all revenues of Singapore allocated by any written law to the SAVER Fund ; and
+
+(c) the net income from investments of moneys in the SAVER Fundauthorised to be made by this Act or any other written law.
+
+(4) There shall also be paid into the SAVER Fundsuch sum from the Pension Fund established by the Pension Fund Act (Cap.224A) as the Minister for Finance may determine as the value of that part of the Pension Fund relating to all those servicemen exercising an option in favour of joining the SAVER Plan in accordance with the regulations made under section 205A.
+
+(5) The moneys referred to in subsection (3)(a) and (b) and subsection (4) shall be paid into the SAVER Fundas capital money, and shall not be used to meet payments of dividends under the SAVER Plan .
+
+(6) The income from the investment of capital moneys of the SAVER Fundshall be paid into an account for the Fund to be called the SAVER Income Account.
+
+(7) Except as otherwise expressly provided in this Act, the Financial Procedure Act (Cap.109) and the regulations made thereunder shall apply to the SAVER Fund.
+
+[Act 12/98]
+
+### Administration of SAVER Fund
+
+205C\.—(1) The SAVER Fundshall, subject to the direction and control of the Armed Forces Council, be managed and administered by a Board of Trustees consisting of not more than 13 members, all of whom shall be appointed by the Armed Forces Council.
+
+(2) The moneys in the SAVER Fundmay be invested in —
+
+(a) any investments authorised under section 7 of the Financial Procedure Act; and
+
+(b) such other investments as the Board of Trustees thinks fit, not being any stock, bond, fund or security issued by the Government.
+
+(3) The Armed Forces Council may authorise the transfer to the Consolidated Fund any moneys in the SAVER Fundwhich, in the opinion of the Minister and the Minister for Finance, are not required to meet the liabilities of the SAVER Fund.
+
+(4) The Armed Forces Council shall cause to be kept proper accounts and records of all transactions and affairs relating to the SAVER Fund and shall ensure that payments out of the Fund are correctly made and properly authorised and that adequate control is maintained over the assets and receipts of the Fund.
+
+(5) The accounts and annual financial statements of the SAVER Fundshall be audited by the Auditor-General who shall report to the Minister on any matter arising out of the performance of his audit.
+
+(6) The Minister shall cause a copy of the audited financial statements of the SAVER Fundand the auditor’s report to be presented to Parliament.
+
+(7) For successive periods of such duration, not exceeding 5 years, as the Minister may determine in each case, an examination of the SAVER Fundshall be made with a view to determining the state of the SAVER Fundhaving regard to its prospective liabilities and the probable annual provisions required by the SAVER Fundto meet those liabilities.
+
+(8) The Armed Forces Council may make regulations for the proper control and management of the SAVER Fundand, in particular, regulations —
+
+(a) providing for the appointment of the members of the Board of Trustees, including their tenure and remuneration;
+
+(b) prescribing the procedure to be followed by the Board of Trustees in the exercise of its functions; and
+
+(c) relating to the accounting, reporting, auditing and periodic examination of the SAVER Fund.
+
+[Act 12/98]
+
 ### Pensions
 
-206\.—(1) There shall be charged on and paid out of the Pension Fund established by the Pension Fund Act 1995 all such sums of money as may from time to time be granted by way of pension, gratuity or other allowance in accordance with this Act or any regulations made pursuant to section 205.
+206\.—(1) There shall be charged on and paid out of the Pension Fund established by the Pension Fund Act 1995 all such sums of money as may from time to time be granted by way of pension, gratuity or other allowance in accordance with any regulations made pursuant to section 205.
 
 [Act 8/95 wef 01/04/1995 vide S 160/95]
 
-(2) A pension, gratuity or other allowance granted under this Act or any regulations made pursuant to section 205 shall not be assignable or transferable or liable to be garnished, attached, sequestered or levied upon for or in respect of a debt or claim, except for the purpose of satisfying —
+(2) A pension, gratuity or other allowance granted under any regulations made pursuant to section 205 shall not be assignable or transferable or liable to be garnished, attached, sequestered or levied upon for or in respect of a debt or claim, except for the purpose of satisfying —
 
 (a) a debt due to the Government; or
 
 (b) an order of a court for the payment of periodical sums of money towards the maintenance of the wife or former wife or minor child, whether legitimate or not, of the serviceman to whom the pension, gratuity or other allowance has been granted.
 
 [17/78]
+
+### Pension, etc., not of right
+
+206A\.—(1) No serviceman shall have an absolute right to compensation for past services or to any pension, gratuity, allowance or other benefit under any regulations made under section 205 or 205A, nor shall anything in this Act or any regulations made thereunder limit the right of the Armed Forces Council to dismiss any serviceman without compensation.
+
+(2) Where it is established to the satisfaction of the Armed Forces Council that a serviceman has been guilty of negligence, irregularity or misconduct, it shall be lawful for the Armed Forces Council to reduce or altogether withhold the pension, gratuity, allowance or other benefit for which the serviceman would but for this section have become eligible under any regulations made under section 205 or 205A.
+
+[12/98 wef 01/04/1998]
 
 ### Regulations to be presented to Parliament
 
@@ -3693,3 +3797,8 @@ This Legislative History is provided for the convenience of users of the Singapo
 |||(Bill No. 2/1995 published on 24 January 1995)|
 ||Date of Second and Third Readings|1 March 1995|
 ||Date of commencement|1 April 1995|
+|10.|**Act 12 of 1998—Singapore Armed Forces (Amendment) Act 1998**|
+||Date of First Reading|19 February 1998|
+|||(Bill No. 10/1998 published on 20 February 1998)|
+||Date of Second and Third Readings|20 March 1998|
+||Date of commencement|1 April 1998|
