@@ -108,6 +108,8 @@
 
 - [46 Power to enter and search](#Power-to-enter-and-search)
 
+- [46A Officers of Central Narcotics Bureau to exercise powers conferred on police officers under sections 44, 45 and 46](#Officers-of-Central-Narcotics-Bureau-to-exercise-powers-conferred-on-police-officers-under-sections-44-45-and-46)
+
 - [47 Powers of Public Prosecutor](#Powers-of-Public-Prosecutor)
 
 - [48 Rules](#Rules)
@@ -142,9 +144,9 @@ PRELIMINARY
 
 1\.—(1) This Act may be cited as the Criminal Law (Temporary Provisions) Act.
 
-(2) This Act shall continue in force for a period of 5 years from 21st October 1994.
+(2) This Act shall continue in force for a period of 5 years from 21st October 1999.
 
-[16/94]
+[17/99 wef 21/10/1999]
 
 (3) The expiry of this Act shall not affect the operation thereof as respects things previously done or omitted to be done.
 
@@ -592,6 +594,26 @@ and who is unable satisfactorily to account for his presence at that place or ti
 
 46\. Notwithstanding anything to the contrary in any written law, it shall be lawful for any police officer of or above the rank of assistant superintendent, or a police officer of any rank specially authorised by a police officer of or above the rank of assistant superintendent, in order to effect the arrest of any person in pursuance of the provisions of this Part, to enter and search any place and in order to effect an entrance into that place to break open any outer or inner door or window of that place if he cannot otherwise obtain admittance thereto.
 
+### Officers of Central Narcotics Bureau to exercise powers conferred on police officers under sections 44, 45 and 46
+
+46A\.—(1) Subject to this section, the powers conferred upon a police officer under sections 44, 45 and 46 may be exercised by an officer of the Central Narcotics Bureau.
+
+(2) The powers conferred upon a police officer of or above the rank of assistant superintendent under sections 44(2) and 46 may be exercised by the Director, the Deputy Director or an Assistant Director of the Central Narcotics Bureau.
+
+(3) The power conferred upon an officer of or above the rank of superintendent of police under section 44(3) may be exercised by the Director or the Deputy Director of the Central Narcotics Bureau.
+
+(4) Subject to subsection (5), where the power conferred upon an officer of or above the rank of superintendent of police under section 44(3), or the power conferred upon a police officer under section 45(1), is exercised by an officer of the Central Narcotics Bureau in accordance with this section, the duty to report to the Commissioner of Police under those sections shall be read as a duty to report in a similar manner to the Director of the Central Narcotics Bureau.
+
+(5) The duty to report to the Director of the Central Narcotics Bureau referred to in subsection (4) shall not apply where the power under section 44(3) or 45(1) was exercised by the Director of the Central Narcotics Bureau himself.
+
+(6) For the purposes of this section —
+
+“Director of the Central Narcotics Bureau”, “Deputy Director of the Central Narcotics Bureau” and “Assistant Director of the Central Narcotics Bureau” mean, respectively, the Director, the Deputy Director and an Assistant Director of the Central Narcotics Bureau appointed under section 3 of the Misuse of Drugs Act (Cap.185);
+
+“officer of the Central Narcotics Bureau” means the Director, the Deputy Director, the Assistant Directors and any other officer of the Central Narcotics Bureau appointed under section 3 of the Misuse of Drugs Act.
+
+[17/99 wef 21/10/1999]
+
 ### Powers of Public Prosecutor
 
 47\. Nothing in this Act derogates from the powers of the Public Prosecutor with regard to the control and direction of criminal prosecutions.
@@ -868,3 +890,8 @@ This Legislative History is provided for the convenience of users of the Crimina
 ||Date of commencement|29 November 1996|
 |37.|**1998 Revised Edition—Criminal Law (Temporary Provisions) Act**|
 ||Date of operation|30 May 1998|
+|38.|**Act 17 of 1999—Criminal Law (Temporary Provisions) (Amendment) Act 1999**|
+||Date of First Reading|11 March 1999|
+|||(Bill No. 12/1999 published on 12 March 1999)|
+||Date of Second and Third Readings|15 April 1999|
+||Date of commencement|21 October 1999|
