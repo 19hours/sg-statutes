@@ -32,13 +32,13 @@
 
 - [12 Application of Trustees Act to investment in transferee holding company](#Application-of-Trustees-Act-to-investment-in-transferee-holding-company)
 
-- [13 Listing of transferee holding company on stock exchange](#Listing-of-transferee-holding-company-on-stock-exchange)
+- [13 (Repealed)](#Repealed)
 
-- [14 Power to issue directives to transferee holding company](#Power-to-issue-directives-to-transferee-holding-company)
+- [14 (Repealed)](#Repealed)
 
-- [15 Control of substantial shareholdings in transferee holding company](#Control-of-substantial-shareholdings-in-transferee-holding-company)
+- [15 (Repealed)](#Repealed)
 
-- [16 Additional powers of Authority in respect of auditors](#Additional-powers-of-Authority-in-respect-of-auditors)
+- [16 (Repealed)](#Repealed)
 
 - [17 Jurisdiction of District Court](#Jurisdiction-of-District-Court)
 
@@ -58,17 +58,17 @@ REVISED EDITION 2000
 
 An Act to provide for the demutualisation and merger of the Stock Exchange of Singapore Limited, the Singapore International Monetary Exchange Limited and the Securities Clearing and Computer Services (Pte) Limited by making these companies wholly-owned subsidiaries of a transferee holding company.
 
+[8th October 1999]
+
 WHEREAS:
 
-(A) The Stock Exchange of Singapore Limited is a public company limited by shares incorporated in Singapore under the Companies Act (Chapter 50) and carries on, inter alia, the business of providing, regulating and maintaining facilities for conducting the business of a Stock Exchange in Singapore pursuant to the Securities Industry Act (Chapter 289).
+(A) The Stock Exchange of Singapore Limited is a public company limited by shares incorporated in Singapore under the Companies Act (Chapter 50) and carries on,inter alia, the business of providing, regulating and maintaining facilities for conducting the business of a Stock Exchange in Singapore pursuant to the Securities Industry Act (Chapter 289).
 
-(B) The Singapore International Monetary Exchange Limited is a public company limited by shares incorporated in Singapore under the Companies Act and carries on, inter alia, the business of establishing and conducting a commodities and financial futures market in Singapore pursuant to the Futures Trading Act (Chapter 116).
+(B) The Singapore International Monetary Exchange Limited is a public company limited by shares incorporated in Singapore under the Companies Act and carries on,inter alia, the business of establishing and conducting a commodities and financial futures market in Singapore pursuant to the Futures Trading Act (Chapter 116).
 
-(C) The Securities Clearing and Computer Services (Pte) Limited is a company limited by shares incorporated in Singapore under the Companies Act and carries on, inter alia, the business of providing facilities for the clearing of contracts and the delivery and receipt of stocks and securities and for providing accounting, management consultancy and computer services to members of the Stock Exchange of Singapore Limited.
+(C) The Securities Clearing and Computer Services (Pte) Limited is a company limited by shares incorporated in Singapore under the Companies Act and carries on,inter alia, the business of providing facilities for the clearing of contracts and the delivery and receipt of stocks and securities and for providing accounting, management consultancy and computer services to members of the Stock Exchange of Singapore Limited.
 
 (D) It is expedient to make provisions to facilitate the transfer of ownership of the Stock Exchange of Singapore Limited, the Singapore International Monetary Exchange Limited and the Securities Clearing and Computer Services (Pte) Limited to a transferee holding company designated by the Minister in order to demutualise and merge the respective Exchanges to form an integrated Exchange for the trading of securities and futures contracts and for leveraged foreign exchange trading in Singapore.
-
-[8th October 1999]
 
 ### Short title
 
@@ -78,17 +78,11 @@ WHEREAS:
 
 2\. In this Act, unless the context otherwise requires —
 
-“auditor” means an approved company auditor as defined in section 4 of the Companies Act (Cap. 50);
-
 “Authority” means the Monetary Authority of Singapore established under section 3 of the Monetary Authority of Singapore Act (Cap. 186);
 
 “Financial Sector Development Fund” means the Financial Sector Development Fund established under Part IVA of the Monetary Authority of Singapore Act;
 
-“record” means information that is inscribed, stored or otherwise fixed on a tangible medium or that is stored in an electronic or other medium and is retrievable in perceivable form;
-
 “registered owner”, in relation to a SIMEX seat, means the person allotted a SIMEX seat and registered as the owner of a SIMEX seat in the register of allotment of seats referred to in the articles of association of SIMEX;
-
-“rules”, in relation to the transferee holding company, means the rules governing the transferee holding company and its members, by whatever name called and wherever contained, and includes rules contained in the memorandum of association and the articles of association of the transferee holding company;
 
 “SCCS” means Securities Clearing and Computer Services (Pte) Limited;
 
@@ -112,17 +106,19 @@ WHEREAS:
 
 “transferee holding company’s shares” means shares issued by the transferee holding company.
 
+[42/2001 wef 01/10/2002]
+
 ### Transfer date and designation of companies
 
-3\.—(1) The transfer date shall be such date as the Minister may, by notification in theGazette (G.N. No. S 524/99) — Transfer Date., appoint\**.
+3\.—(1) The transfer date shall be such date as the Minister may, by notification in theGazette, appoint\*.
 
-\*1st December 1999
+\*1st December 1999 (G.N. No. S 524/99) — Transfer Date.
 
-(2) The Minister may, by notification in theGazette, designate††—
+(2) The Minister may, by notification in theGazette, designate†—
 
 †(a) transferee holding company — Singapore Exchange Limited.
 
-(b) special purpose company — SEL Holdings Pte Ltd (see G.N. No. S 525/99 — with effect from 1st December 1999).
+(b) special purpose company — SEL Holdings Pte Ltd (seeG.N. No. S 525/99 — with effect from 1st December 1999).
 
 (a) a public company incorporated in Singapore to be the transferee holding company for the purposes of this Act; and
 
@@ -200,6 +196,8 @@ shall prohibit the capital reduction under section 4 and the capital creation un
 
 (3) Subdivision 2 of Division 1 of Part XIII of the Securities and Futures Act 2001 (which provides for prospectus requirements) shall not apply to an offer of shares made by the transferee holding company under subsection (1) or by the special purpose company under subsection (2).
 
+[42/2001 wef 01/10/2002]
+
 (4) Section 76 of the Companies Act (which prohibits a company from financing dealings in its own shares) shall not apply in relation to any guarantee, indemnity, warranty, representation or other undertaking given or obligation assumed by the transferee holding company or the special purpose company in relation to an offer of shares made under subsection (1) or (2).
 
 ### Exemption from section 59 of Companies Act
@@ -224,7 +222,7 @@ shall prohibit the capital reduction under section 4 and the capital creation un
 
 has acquired shares which carry the right to exercise or control the exercise of the votes attached to the transferee holding company’s shares for the purposes of section 139 or 140 of the Securities and Futures Act 2001 or the Code.
 
-[42/2001 wef 01/01/2002]
+[42/2001 wef 01/10/2002]
 
 (2) Notwithstanding any of the provisions of the Companies Act or anything contained in the memorandum or articles of association of the transferee holding company or the special purpose company, the special purpose company shall —
 
@@ -248,121 +246,13 @@ has acquired shares which carry the right to exercise or control the exercise of
 
 (2) In subsection (1), “the relevant 3 years” means the 3 financial years immediately preceding the financial year in which the investment in question is made or proposed to be made.
 
-### Listing of transferee holding company on stock exchange
+13\. [Repealed by Act 42/2001 wef 01/10/2002]
 
-13\.—(1) The securities of the transferee holding company may be listed or quoted on a stock exchange as defined in the Securities Industry Act (Cap. 289) if the transferee holding company has entered into such arrangements as the Authority may require —
+14\. [Repealed by Act 42/2001 wef 01/10/2002]
 
-(a) for dealing with possible conflicts of interest that may arise from the listing or quotation of securities of the transferee holding company on a stock exchange; and
+15\. [Repealed by Act 42/2001 wef 01/10/2002]
 
-(b) for the purpose of ensuring the integrity of trading of the securities of the transferee holding company,
-
-and the transferee holding company shall comply with such arrangements.
-
-(2) The rules of the stock exchange shall be deemed to provide for the Authority, instead of the stock exchange, to make decisions and to take action (or require the stock exchange to take action on the Authority’s behalf) on the following matters:
-
-(a) the admission to or removal from the stock exchange’s official list of the transferee holding company; and
-
-(b) granting, stopping or suspending the quotation of securities of the transferee holding company on the stock exchange.
-
-(3) The Authority may, by notice in writing —
-
-(a) modify the rules of the stock exchange for the purpose of applying to the listing, quotation or trading of the securities of the transferee holding company; and
-
-(b) exempt the transferee holding company from any rule of the stock exchange.
-
-### Power to issue directives to transferee holding company
-
-14\.—(1) The Authority may, if it thinks it necessary or expedient —
-
-(a) for ensuring fair and orderly securities and futures markets; or
-
-(b) for ensuring the integrity of, and proper management of systemic risks in, the securities and futures markets,
-
-issue directives either of a general or specific nature to the transferee holding company.
-
-(2) Without prejudice to the generality of subsection (1), any directive under that subsection may be issued in respect of —
-
-(a) the requirement for the prior approval of the Authority in respect of any proposed amendment, whether by way of alteration or addition, to the rules of the transferee holding company;
-
-(b) the corporate governance of the transferee holding company;
-
-(c) the inspection by the Authority or by any person appointed by the Authority of the books, accounts, documents, records and affairs of the transferee holding company;
-
-(d) the production of the books, accounts, documents and records of the transferee holding company and the provision of such information, assistance and facilities as may be required by the Authority or by any person appointed by the Authority; and
-
-(e) the management by the transferee holding company of any of its subsidiaries that carries on the business of a securities exchange, futures exchange or clearing house, whether such business forms the whole or part of such subsidiary’s undertaking.
-
-(3) Any directive issued under subsection (2) may impose requirements or duties on any officer or employee or any class of officers or employees of the transferee holding company in relation to conduct or matters connected with the transferee holding company or any of its subsidiaries referred to in subsection (2)(e).
-
-(4) If the transferee holding company or any of its officers or employees, without reasonable excuse, fails to comply with any directive issued under subsection (1), the company, officer or employee shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine of $10,000 for every day or part thereof during which the offence continues after conviction.
-
-(5) The Authority may, without instituting proceedings against any person for an offence under this section, demand and receive the amount of such fine or such reduced amount as it thinks fit from that person.
-
-(6) If the person referred to in subsection (5) —
-
-(a) pays such amount to the Authority within 14 days after the demand, no proceedings shall be taken against him in relation to the offence; or
-
-(b) does not pay the amount so demanded, the Authority may cause proceedings to be instituted against him in relation to the offence.
-
-(7) Without prejudice to subsection (4), where the High Court is satisfied that the transferee holding company or any of its officers or employees has, without reasonable excuse, failed to comply with any directive issued under subsection (1), the High Court may, on the application of the Authority, grant an injunction directing the company or any of its officers or employees to do or refrain from doing a specific act.
-
-(8) The High Court may revoke, vary or discharge an order made under subsection (7) or suspend the operation of such an order.
-
-(9) If the transferee holding company or any of its officers or employees is aggrieved by any direction of the Authority under subsection (1), the transferee holding company may appeal to the High Court within 30 days of the date of issue of the Authority’s directive.
-
-### Control of substantial shareholdings in transferee holding company
-
-15\.—(1) No person shall enter into any agreement to acquire shares by virtue of which he would, if the agreement is carried out, acquire a substantial shareholding in the transferee holding company without first notifying the Authority of his intention to enter into the agreement and obtaining the approval of the Authority to his entering into the agreement.
-
-(2) The Authority may grant its approval referred to in subsection (1) subject to such conditions as it considers appropriate to impose.
-
-(3) Without prejudice to subsection (6), the Authority may, for the purposes of securing compliance with subsection (1) or any condition imposed under subsection (2), by notice in writing direct the transfer or disposal of all or any of the transferee holding company’s shares in which the substantial shareholder has or has had an interest.
-
-(4) Any person who is in receipt of a direction given by the Authority under subsection (3) shall transfer or dispose of the number of shares of the transferee holding company which are the subject of such direction, and until such transfer or disposal —
-
-(a) no voting rights shall be exercisable in respect of that number of shares;
-
-(b) no shares of the transferee holding company shall be issued or offered (whether by way of rights, bonus or otherwise) in respect of that number of shares; and
-
-(c) except in a liquidation of the transferee holding company, no payment shall be made by the transferee holding company of any sums (whether by way of dividends or otherwise) in respect of that number of shares.
-
-(5) For the purposes of this section —
-
-“interest” has the same meaning as in section 7 of the Companies Act (Cap. 50);
-
-“substantial shareholder” and “substantial shareholding” have the same meanings as in section 81 of the Companies Act.
-
-(6) Any person who contravenes subsection (1) or (4) or who fails to comply with any condition imposed by the Authority under subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
-
-### Additional powers of Authority in respect of auditors
-
-16\.—(1) If an auditor, in the course of the performance of his duties as an auditor of the transferee holding company, becomes aware —
-
-(a) of any matter which, in his opinion, may adversely affect the financial position of the transferee holding company to a material extent;
-
-(b) of any matter which, in his opinion, may constitute a breach of any provision of this Act or a criminal offence involving fraud or dishonesty; or
-
-(c) of any irregularities that have a material effect upon the accounts, including irregularities that may affect or jeopardise the funds or property of investors in securities or futures contracts,
-
-he shall immediately report the matter to the Authority.
-
-(2) An auditor shall not, in the absence of malice on his part, be liable to any action for defamation at the suit of any person in respect of any statement made in his report under subsection (1).
-
-(3) Subsection (2) shall not restrict or affect any right, privilege or immunity that the auditor has, apart from this section, as a defendant in an action for defamation.
-
-(4) Notwithstanding the provisions of the Companies Act (Cap. 50), the Authority may impose all or any of the following additional duties on an auditor of the transferee holding company:
-
-(a) a duty to submit such additional information and reports in relation to his audit as the Authority considers necessary;
-
-(b) a duty to enlarge, extend or alter the scope of his audit of the business and affairs of the transferee holding company;
-
-(c) a duty to carry out any other examination or establish any procedure in any particular case;
-
-(d) a duty to submit a report on any matter referred to in paragraph (b) or (c),
-
-and the transferee holding company shall remunerate the auditor in respect of the discharge by him of all or any of these additional duties.
-
-(5) For the avoidance of doubt, sections 207 and 208 of the Companies Act (Cap. 50) shall, to the extent to which they may be applicable, apply to the discharge of an auditor’s additional duties under subsection (4).
+16\. [Repealed by Act 42/2001 wef 01/10/2002]
 
 ### Jurisdiction of District Court
 
@@ -374,7 +264,7 @@ Exchanges (Demutualisation and Merger) Act
 
 (CHAPTER 99B)
 
-This Legislative History is provided for the convenience of users of the Exchanges (Demutualisation and Merger) Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Exchanges (Demutualisation and Merger) Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -383,31 +273,33 @@ This Legislative History is provided for the convenience of users of the Exchang
 |||(Bill No. 20/99 published on 7 July 1999)|
 ||Date of Second and Third Readings|4 August 1999|
 ||Date of commencement|8 October 1999|
-|||(except sections 19 (a), (b)and (c) and 20(d), (e), (f), (h) and (i))|
 |2.|**Act 27 of 1999—Exchanges (Demutualisation and Merger) Act 1999**|
 ||Date of First Reading|6 July 1999|
 |||(Bill No. 20/99 published on 7 July 1999)|
 ||Date of Second and Third Readings|4 August 1999|
 ||Date of commencement|1 December 1999|
-|||(section 20(d), (e), (f), (h) and (i))|
 |3.|**Act 27 of 1999—Exchanges (Demutualisation and Merger) Act 1999**|
 ||Date of First Reading|6 July 1999|
 |||(Bill No. 20/99 published on 7 July 1999)|
 ||Date of Second and Third Readings|4 August 1999|
 ||Date of commencement|1 October 2000|
-|||(section 19(a), (b)and (c))|
 |4.|**2000 Revised Edition—Exchanges (Demutualisation and Merger) Act**|
 ||Date of operation|30 December 2000|
 |5.|**Act 42 of 2001—Securities and Futures Act 2001**|
 ||Date of First Reading|25 September 2001|
 |||(Bill No. 33/2001 published on 26 September 2001)|
 ||Date of Second and Third Readings|5 October 2001|
-||Dates of commencement|1st January 2002|
+||Date of commencement|1 January 2002|
 |6.|**Act 42 of 2001—Securities and Futures Act 2001**|
 ||Date of First Reading|25 September 2001|
 |||(Bill No. 33/2001 published on 26 September 2001)|
 ||Date of Second and Third Readings|5 October 2001|
-||Dates of commencement|1st July 2002|
+||Date of commencement|1 July 2002|
+|7.|**Act 42 of 2001—Securities and Futures Act 2001**|
+||Date of First Reading|25 September 2001|
+|||(Bill No. 33/2001 published on 26 September 2001)|
+||Date of Second and Third Readings|5 October 2001|
+||Date of commencement|1 October 2002|
 ## COMPARATIVE TABLE
 
 Exchanges (Demutualisation and Merger) Act
@@ -422,9 +314,9 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 Act 27 of 1999 
 
-14 — (5) and (6)
+14 —(5) and (6)
 
-14 — (5)
+14 —(5)
 
 (7) to (9)
 
