@@ -872,10 +872,6 @@ Provided that such deduction shall not exceed the estate duty payable in Singapo
 
 (3) Subsections (1) and (2) shall have effect as if “Commonwealth” included the Republic of Ireland.
 
-(4) For the purposes of this section and notwithstanding any other provision of law, the local situation in Great Britain or in Northern Ireland of any property shall be determined in accordance with the law of England with regard to the local situation of property within the meaning of section 20 of the Finance Act 1894 of the United Kingdom.
-
-[UK. 1894 c. 30.]
-
 (5) Where any property passing on the death of the deceased is situate in a country to which subsection (1) does not apply and the Commissioner is satisfied that by reason of such death any duty is payable in that country in respect of that property, he shall make an allowance of the amount of that duty from the value of the property.
 
 [24
@@ -2563,3 +2559,8 @@ This Legislative History is provided for the convenience of users of the Estate 
 ||Date of commencement|6 September 1996|
 |28.|**G. N. No. S 460/1996—Estate Duty Act (Amendment Of Fourteenth Schedule) (No. 2) Order 1996**|
 ||Date of commencement|18 October 1996|
+|29.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
+||Date of First Reading|11 July 1997|
+|||(Bill No. 6/97 published on 12 July 1997)|
+||Date of Second and Third Readings|25 August 1997|
+||Date of commencement|1 October 1997 (except section 3)|
