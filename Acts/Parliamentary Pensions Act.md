@@ -44,7 +44,7 @@
 
 - [15 Pension and gratuity to cease on bankruptcy](#Pension-and-gratuity-to-cease-on-bankruptcy)
 
-- [16 Pensions and gratuities to be paid out of Consolidated Fund](#Pensions-and-gratuities-to-be-paid-out-of-Consolidated-Fund)
+- [16 Pensions and gratuities to be paid out of Pension Fund](#Pensions-and-gratuities-to-be-paid-out-of-Pension-Fund)
 
 - [17 Regulations](#Regulations)
 
@@ -437,9 +437,11 @@ and shall not be liable to be attached, sequestered or levied upon for or in res
 
 [14
 
-### Pensions and gratuities to be paid out of Consolidated Fund
+### Pensions and gratuities to be paid out of Pension Fund
 
-16\. There shall be charged on and paid out of the Consolidated Fund all sums of money payable by way of pension or gratuity in accordance with this Act.
+16\. There shall be charged on and paid out of the Pension Fund established by the Pension Fund Act 1995 all sums of money payable by way of pension or gratuity in accordance with this Act.
+
+[Act 8 of 1995 wef 01/04/1995]
 
 [15
 
@@ -512,3 +514,8 @@ This Legislative History is provided for the convenience of users of the Parliam
 |||(Bill No. 7/95 published on 2 March 1995)|
 ||Date of Second and Third Readings|23 March 1995|
 ||Date of commencement|1 January 1995|
+|5.|**Act 8 of 1995—Pension Fund Act 1995**|
+||(Consequential amendments made by)||
+||Date of First Reading|23 January 1995 (Bill No. 2/95 published on 24 January 1995)|
+||Date of Second and Third Readings|1 March 1995|
+||Date of commencement|1 April 1995|
