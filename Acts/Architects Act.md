@@ -622,7 +622,7 @@ furnish the Board a true report in writing giving full particulars of the altera
 
 (a) comply with the prohibitions in section 162 (relating to loans to its directors) and section 163 (relating to loans to persons connected with the directors of the lending company) of the Companies Act as if it were not an exempt private company; and
 
-(b) forward annually to the Registrar of Companies, together with the annual return required by section 197 of the Companies Act, such copies of documents as are required to be included in the annual return and such certificates and particulars in accordance with Part II of the Eighth Schedule to that Act as if it were not an exempt private company.
+(b) forward annually to the Registrar of Companies, together with the annual return required by section 197 of the Companies Act, such copies of documents as are required to be included in the annual return and such certificates and particulars in accordance with the prescribed form referred to in section 197(2) of that Act as if it were not an exempt private company.
 
 (3) In this section, “exempt private company” has the same meaning as in the Companies Act.
 
@@ -922,6 +922,12 @@ This Legislative History is provided for the convenience of users of the Archite
 ||Date of commencement|15 July 1995|
 |5.|**2000 Revised Edition—Architects Act**|
 ||Date of operation|1 July 2000|
+|6.|**Act 12 of 2002—Companies (Amendment) Act 2002**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|23 May 2002|
+|||(Bill No. 16/2002 published on 24 May 2002)|
+||Date of Second and Third Readings|8 July 2002|
+||Date of commencement|13th January 2003 (sections 2(b), 3 to 35, 42 to 54, 55(a), 56 to 60, 62, 63 and 64)|
 ## COMPARATIVE TABLE
 
 Architects Act
