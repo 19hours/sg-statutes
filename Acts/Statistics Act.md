@@ -362,11 +362,15 @@ Subject matters
 
 SECOND SCHEDULE
 
-Sections 4, 6, 7 and 13
+[Sections 4, 6, 7 and 13]
 
 Research and Statistics Units
 
-1\. Construction Economics and Resources Unit of the Construction Industry Development Board.
+1\. Economics and Resources Department of the Building and Construction Authority.
+
+1.
+
+[S 192/99 wef 16/04/1999]
 
 2\. Research and Statistics Unit of the Economic Development Board.
 
@@ -449,3 +453,5 @@ This Legislative History is provided for the convenience of users of the Statist
 |||(Bill No. 51/98 published on 24 November 1998)|
 ||Date of Second and Third Readings|20 January 1999|
 ||Date of commencement|1 April 1999|
+|9.|**G.N. No. S 192/99—Statistics Act (Amendment of Second Schedule) Notification 1999**|
+||Date of commencement|16 April 1999|
