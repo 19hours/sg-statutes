@@ -4401,3 +4401,8 @@ This Legislative History is provided for the convenience of users of the Constit
 |||1 February 1991 (sections 7 and 16)|
 |26.|**1992 Revised Edition—Constitution of the Republic of Singapore**|
 ||Date of operation|1 January 1992|
+|27.|**Act 17 of 1993—Constitution of the Republic of Singapore (Amendment) Act 1993**|
+||Date of First Reading|26 February 1993|
+|||(Bill No. 10/93 published on 27 February 1993)|
+||Date of Second and Third Readings|12 April 1993|
+||Date of commencement|1 July 1993|
