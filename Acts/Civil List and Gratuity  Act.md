@@ -257,3 +257,9 @@ This Legislative History is provided for the convenience of users of the Civil L
 ||Date of commencement|28 February 1992|
 |26.|**1994 Revised Edition—Civil List and Pension Act**|
 ||Date of operation|15 July 1994|
+|27.|**Act 8 of 1995—Pension Fund Act**|
+||(Consequential amendments made by)||
+||Date of First Reading|23 January 1995|
+|||(Bill No. 2/1995 published on 24 January 1995)|
+||Date of Second and Third Readings|1 March 1995|
+||Date of commencement|1 April 1995|
