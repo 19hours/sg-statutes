@@ -466,8 +466,6 @@ that person shall be deemed to obstruct an inspector or that officer in the exec
 
 5B\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Board under this Act, or of any capital injection or other investment by the Government in the Board in accordance with any written law, the Board shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
 
-[5/2002 wef 15/07/2002]
-
 ## PART II
 
 CONTRIBUTIONS TO FUND
@@ -2540,177 +2538,11 @@ Sections 7, 8, 70, 75 and 77
 
 Rates of Contribution
 
-1. Subject to paragraphs 2 to 7, with effect from 1st January 2001 the contributions payable by the employer and the amount recoverable from the employee’s wages are as follows:
+1\. Subject to paragraphs 2 to 7, with effect from 1st October 2002, the contributions payable by the employer and the amount recoverable from the employee’s wages are as follows:
 
-55 Years of Age and below
+1.—
 
-Above 55 but not more than 60 Years of Age
-
-Above 60 but not more than 65 Years of Age
-
-Above 65 Years of Age
-
-Total amount of the employee’s wages for the calendar month.
-
-Contributions payable by the employer for the calendar month.
-
-Amount recoverable from the employee’s wages for the calendar month.
-
-Contributions payable by the employer for the calendar month.
-
-Amount recoverable from the employee’s wages for the calendar month.
-
-Contributions payable by the employer for the calendar month.
-
-Amount recoverable from the employee’s wages for the calendar month.
-
-Contributions payable by the employer for the calendar month.
-
-Amount recoverable from the employee’s wages for the calendar month.
-
-(1)
-
-(2)
-
-(3)
-
-(4)
-
-(5)
-
-(6)
-
-(7)
-
-(8)
-
-(9)
-
-Not exceeding $50
-
-NIL
-
-NIL
-
-NIL
-
-NIL
-
-NIL
-
-NIL
-
-NIL
-
-NIL
-
-Exceeding $50 but not exceeding $200
-
-An amount equal to 16% of the total amount of the employee’s wages for the month.
-
-NIL
-
-An amount equal to 6% of the total amount of the employee’s wages for the month.
-
-NIL
-
-An amount equal to 3.5% of the total amount of the employee’s wages for the month.
-
-NIL
-
-An amount equal to 3.5% of the total amount of the employee’s wages for the month.
-
-NIL
-
-Exceeding $200 but not exceeding $363
-
-An amount equal to the sum of —
-
-An amount equal to the sum of —
-
-An amount equal to the sum of —
-
-An amount equal to the sum of 1/4 of the difference between the total amount of the employee’s wages for the month and $200.
-
-An amount equal to the sum of —
-
-An amount equal to the sum of 1/6 of the difference between the total amount of the employee’s wages for the month and $200.
-
-An amount equal to the sum of —
-
-An amount equal to the sum of 1/9 of the difference between the total amount of the employee’s wages for the month and $200.
-
-(a) 21% of the total amount of the employee’s wages for the month; and
-
-(a) 5% of the total amount of the employee’s wages for the month; and
-
-(a) 6% of the total amount of the employee’s wages for the month; and
-
-(a) 3.5% of the total amount of the employee’s wages for the month; and
-
-(a) 3.5% of the total amount of the employee’s wages for the month; and
-
-(b) 1/3 of the difference between the total amount of the employee’s wages for the month and $200.
-
-(b) 1/3 of the difference between the total amount of the employee’s wages for the month and $200.
-
-(b) 1/4 of the difference between the total amount of the employee’s wages for the month and $200.
-
-(b) 1/6 of the difference between the total amount of the employee’s wages for the month and $200.
-
-(b) 1/9 of the difference between the total amount of the employee’s wages for the month and $200.
-
-Exceeding $363
-
-An amount equal to the sum of —
-
-An amount equal to the sum of —
-
-An amount equal to the sum of —
-
-An amount equal to the sum of —
-
-An amount equal to the sum of —
-
-An amount equal to the sum of —
-
-An amount equal to the sum of —
-
-An amount equal to the sum of —
-
-(a) 36% of the employee’s ordinary wages for the month subject to a maximum of $2,160; and
-
-(a) 20% of the employee’s ordinary wages for the month subject to a maximum of $1,200; and
-
-(a) 18.5% of the employee’s ordinary wages for the month subject to a maximum of $1,110; and
-
-(a) 12.5% of the employee’s ordinary wages for the month subject to a maximum of $750; and
-
-(a) 11% of the employee’s ordinary wages for the month subject to a maximum of $660; and
-
-(a) 7.5% of the employee’s ordinary wages for the month subject to a maximum of $450; and
-
-(a) 8.5% of the employee’s ordinary wages for the month subject to a maximum of $510; and
-
-(a) 5% of the employee’s ordinary wages for the month subject to a maximum of $300; and
-
-(b) 36% of the amount of the additional wages payable to the employee in the month.
-
-(b) 20% of the amount of the additional wages payable to the employee in the month.
-
-(b) 18.5% of the amount of the additional wages payable to the employee in the month.
-
-(b) 12.5% of the amount of the additional wages payable to the employee in the month.
-
-(b) 11% of the amount of the additional wages payable to the employee in the month.
-
-(b) 7.5% of the amount of the additional wages payable to the employee in the month.
-
-(b) 8.5% of the amount of the additional wages payable to the employee in the month.
-
-(b) 5% of the amount of the additional wages payable to the employee in the month.
-
-[S 612/2000]
+[S 524/2002 wef 01/10/2002]
 
 1A. Subject to paragraphs 1E to 7, with effect from 1st March 2011, the contributions payable by the employer (at graduated rates) and the amount recoverable from the employee’s wages (at graduated rates) during the period beginning on the date the employee becomes a permanent resident and ending on the last day of the first anniversary month, are as follows:
 
@@ -4124,105 +3956,275 @@ then the agreed rates of the contribution shall continue to apply in relation to
 
 (h) “year” means the period beginning on 1st January and ending on 31st December.
 
-6. The rates of contribution specified in paragraph 1 shall not apply to the employees of the following bodies:
+6\. The rates of contribution specified in paragraph 1 shall not apply to the employees of the following:
 
-(1) Any Government-aided school.
+6.—(1) The managers of any aided school.
 
-(2) Board of Commissioners of Currency, Singapore.
+(2)
 
-(3) Central Provident Fund Board.
+Agency for Science, Technology and Research (A*Star).
 
-(4) Civil Aviation Authority of Singapore.
+(3)
 
-(5) Civil Service College.
+Agri-Food and Veterinary Authority of Singapore.
 
-(6) Commercial and Industrial Security Corporation.
+(4)
 
-(7) Building and Construction Authority.
+Board of Architects.
 
-(8) Defence Science and Technology Agency.
+(5)
 
-(9) Economic Development Board.
+Building and Construction Authority.
 
-(10) Energy Market Authority of Singapore.
+(6)
 
-(11) Health Promotion Board.
+Central Provident Fund Board.
 
-(12) Health Sciences Authority.
+(7)
 
-(13) Housing and Development Board.
+Civil Aviation Authority of Singapore.
 
-(14) Info-communications Development Authority of Singapore.
+(8)
 
-(15) Inland Revenue Authority of Singapore.
+Civil Service College.
 
-(16) Institute of Southeast Asian Studies.
+(9)
 
-(17) Institute of Technical Education, Singapore.
+Commercial and Industrial Security Corporation.
 
-(18) Intellectual Property Office of Singapore.
+(10)
 
-(19) Jurong Town Corporation.
+Contact Lens Practitioners Board.
 
-(20) Majlis Ugama Islam, Singapura.
+(11)
 
-(21) Maritime and Port Authority of Singapore.
+Defence Science and Technology Agency.
 
-(22) Land Transport Authority of Singapore.
+(12)
 
-(23) Monetary Authority of Singapore.
+Economic Development Board.
 
-(24) Nanyang Polytechnic.
+(13)
 
-(25) Nanyang Technological University.
+Energy Market Authority of Singapore.
 
-(26) National Arts Council.
+(14)
 
-(27) National Heritage Board.
+Health Promotion Board.
 
-(28) National Library Board.
+(15)
 
-(29) National Parks Board.
+Health Sciences Authority.
 
-(30) National Science and Technology Board.
+(16)
 
-(31) National University of Singapore.
+Hindu Advisory Board.
 
-(32) Ngee Ann Polytechnic.
+(17)
 
-(33) People’s Association.
+Hindu Endowments Board.
 
-(34) Preservation of Monuments Board.
+(18)
 
-(35) Public Utilities Board.
+Hotels Licensing Board.
 
-(36) Science Centre Board.
+(19)
 
-(37) Sentosa Development Corporation.
+Housing and Development Board.
 
-(38) Singapore Broadcasting Authority.
+(20)
 
-(39) Singapore Corporation of Rehabilitative Enterprises.
+Info-communications Development Authority of Singapore.
 
-(40) Singapore Land Authority.
+(21)
 
-(41) Singapore Productivity and Standards Board.
+Inland Revenue Authority of Singapore.
 
-(42) Singapore Polytechnic.
+(22)
 
-(43) Singapore Sports Council.
+Institute of Southeast Asian Studies.
 
-(44) Singapore Totalisator Board.
+(23)
 
-(45) Singapore Tourism Board.
+Institute of Technical Education, Singapore.
 
-(46) Temasek Polytechnic.
+(24)
 
-(47) Trade Development Board.
+Intellectual Property Office of Singapore.
 
-(48) Urban Redevelopment Authority.
+(25)
 
-[29/95; 1/96; 7/96; 4/99; 41/99; 9/2000; 3/2001; 17/2001; S273/94; S570/95; S645/98; S167/2001; S313/2001; S550/2001]
+International Enterprise Singapore Board.
+
+(26)
+
+Jurong Town Corporation.
+
+(27)
+
+Land Transport Authority of Singapore.
+
+(28)
+
+Majlis Ugama Islam, Singapura.
+
+(29)
+
+Maritime and Port Authority of Singapore.
+
+(30)
+
+Monetary Authority of Singapore.
+
+(31)
+
+Nanyang Polytechnic.
+
+(32)
+
+Nanyang Technological University.
+
+(33)
+
+National Arts Council.
+
+(34)
+
+National Council of Social Service.
+
+(35)
+
+National Environment Agency.
+
+(36)
+
+National Heritage Board.
+
+(37)
+
+National Institute of Education.
+
+(38)
+
+National Library Board.
+
+(39)
+
+National Parks Board.
+
+(40)
+
+National University of Singapore.
+
+(41)
+
+Ngee Ann Polytechnic.
+
+(42)
+
+People’s Association.
+
+(43)
+
+Pharmacy Board.
+
+(44)
+
+Preservation of Monuments Board.
+
+(45)
+
+Professional Engineers Board.
+
+(46)
+
+Public Accountants Board.
+
+(47)
+
+Public Transport Council.
+
+(48)
+
+Public Utilities Board.
+
+(49)
+
+Science Centre Board.
+
+(50)
+
+Sentosa Development Corporation.
+
+(51)
+
+Sikh Advisory Board.
+
+(52)
+
+Singapore Broadcasting Authority.
+
+(53)
+
+Singapore Corporation of Rehabilitative Enterprises.
+
+(54)
+
+Singapore Dental Council.
+
+(55)
+
+Singapore Labour Foundation.
+
+(56)
+
+Singapore Land Authority.
+
+(57)
+
+Singapore Medical Council.
+
+(58)
+
+Singapore Nursing Board.
+
+(59)
+
+Singapore Polytechnic.
+
+(60)
+
+Singapore Sports Council.
+
+(61)
+
+Singapore Totalisator Board.
+
+(62)
+
+Singapore Tourism Board.
+
+(63)
+
+Specialist Accreditation Board.
+
+(64)
+
+Standards, Productivity and Innovation Board (Spring Singapore).
+
+(65)
+
+Traditional Chinese Medicine Practitioners Board.
+
+(66)
+
+Temasek Polytechnic.
+
+(67)
+
+Urban Redevelopment Authority
+
+[S 524/2002 wef 01/10/2002]
 
 7. Contributions shall be payable for and recoverable from the wages of such employees who are —
 
@@ -4230,11 +4232,13 @@ then the agreed rates of the contribution shall continue to apply in relation to
 
 (b) non-pensionable employees at the rates prescribed for non-pensionable employees of the Government;
 
-(c) pensionable employees who were foreign employees and have become permanent residents at the rates prescribed in paragraphs 3A and 3B of the First Schedule to the Central Provident Fund (Government Employees) Regulations (Rg 23); and
+(c) employees of a statutory body or persons employed in an aided school by the manager of the school at the rates prescribed in the Central Provident Fund (Statutory Bodies and Aided Schools — Employees) Regulations 2002 (G.N. No. S 520/2002); and
 
-(d) non-pensionable employees who were foreign employees and have become permanent residents at the rates prescribed in paragraphs 3A and 3B of the Second Schedule to the Central Provident Fund (Government Employees) Regulations (Rg 23).
+[S 524/2002 wef 01/10/2002]
 
-[S 645/98]
+(d) employees who are permanent residents and who do not fall under sub-paragraph (a), (b) or (c), at the rates prescribed in the Central Provident Fund (Permanent Residents — Employees) Regulations 2002 (G.N. No. S 521/2002).
+
+[S 524/2002 wef 01/10/2002]
 
 SECOND SCHEDULE
 
@@ -4331,7 +4335,7 @@ Self-employed Persons
 
 16\. Fisheries Act (Cap. 111).
 
-17\. Futures Trading Act (Cap. 116).
+17\.Deleted by Act 42/2001, wef 01/10/2002.
 
 18\. Homes for the Aged Act (Cap. 126A).
 
@@ -4369,7 +4373,11 @@ Self-employed Persons
 
 35\. Secondhand Dealers Act (Cap. 288).
 
-36\. Securities Industry Act (Cap. 289).
+36\. Securities and Futures Act 2001
+
+36.
+
+[42/2001 wef 01/10/2002]
 
 37\. Sewerage and Drainage Act (Cap. 294).
 
@@ -4820,6 +4828,12 @@ This Legislative History is provided for the convenience of users of the Central
 |||(Bill No. 7/2002 published on 4 May 2002)|
 ||Date of Second and Third Readings|24 May 2002|
 ||Date of commencement|15 July 2002 (except item (18) of the Schedule)|
+|124.|**Act 5 of 2002—Statutory Corporations (Capital Contribution) Act 2002**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|3 May 2002|
+|||(Bill No. 7/2002 published on 4 May 2002)|
+||Date of Second and Third Readings|24 May 2002|
+||Dates of commencement|29 July 2002 (Item (18) of the Schedule)|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
