@@ -18,9 +18,9 @@
 
 - [6 Power to freeze bank account](#Power-to-freeze-bank-account)
 
-- [7 Public Prosecutor’s power to order inspection of books, accounts, receipts, vouchers or other documents](#Public-Prosecutor’s-power-to-order-inspection-of-books-accounts-receipts-vouchers-or-other-documents)
+- [7 Power to order inspection of books, accounts, receipts, vouchers or other documents](#Power-to-order-inspection-of-books-accounts-receipts-vouchers-or-other-documents)
 
-- [8 Public Prosecutor’s powers to obtain information](#Public-Prosecutor’s-powers-to-obtain-information)
+- [8 Power to obtain information](#Power-to-obtain-information)
 
 - [9 Duty to give information to police](#Duty-to-give-information-to-police)
 
@@ -36,15 +36,17 @@
 
 [**Legislative History**](#Legislative-History)
 
+[**Comparative Table**](#Comparative-Table)
+
 # Kidnapping Act
 
 (CHAPTER 151)
 
 (Original Enactment: Ordinance 15 of 1961)
 
-REVISED EDITION 1985
+REVISED EDITION 1999
 
-(30th March 1987)
+(1st August 1999)
 
 An Act to provide for the punishment of the offences of abduction, wrongful restraint and wrongful confinement for ransom and other related offences and for matters incidental thereto.
 
@@ -56,29 +58,29 @@ An Act to provide for the punishment of the offences of abduction, wrongful rest
 
 ### Interpretation
 
-2\. In this Act “abduction”, “wrongful restraint” and “wrongful confinement” shall have the meanings assigned to them in sections 362, 339 and 340 respectively of the Penal Code [Cap. 224].
+2\. In this Act “abduction”, “wrongful restraint” and “wrongful confinement” shall have the meanings assigned to them in sections 362, 339 and 340, respectively of the Penal Code (Cap. 224).
 
 ### Abduction, wrongful restraint or wrongful confinement for ransom
 
 3\. Whoever, with intent to hold any person for ransom, abducts or wrongfully restrains or wrongfully confines that person shall be guilty of an offence and shall be punished on conviction with death or imprisonment for life and shall, if he is not sentenced to death, also be liable to caning.
 
-[S22/89 wef 30/03/1987]
+[S 22/89]
 
 ### Knowingly receiving ransom
 
 4\. Whoever receives, has possession of or disposes of any money or property or any proceeds thereof, which has at any time been delivered as ransom in connection with any offence punishable under section 3, knowing that the money or other property has at any time been delivered as such ransom, shall be guilty of an offence and shall be punished on conviction with imprisonment for a term not exceeding 10 years and shall also be liable to caning.
 
-[S22/89 wef 30/03/1987]
+[S 22/89]
 
 ### Knowingly negotiating to obtain or for payment of ransom
 
-5\.—(1) Whoever knowingly negotiates or assists in any negotiation to obtain any ransom for the release of any person who has been wrongfully restrained or wrongfully confined shall be guilty of an offence and shall be punished on conviction with imprisonment for a term not exceeding 10 years and shall also be liable to caning.
+5\.—(1) Whoever knowingly negotiates or assists in any negotiation to obtain any ransom for the release of any person who has been wrongfully restrained or wrongfully confined, shall be guilty of an offence and shall be punished on conviction with imprisonment for a term not exceeding 10 years and shall also be liable to caning.
 
-[S22/89 wef 30/03/1987]
+[S 22/89]
 
 (2) Whoever knowingly negotiates or assists in any negotiation to pay or pays or provides funds for the payment of any ransom for the release of any person who has been wrongfully restrained or wrongfully confined shall be guilty of an offence and shall be punished on conviction with imprisonment for a term not exceeding 7 years and shall also be liable to a fine.
 
-[S22/89 wef 30/03/1987]
+[S 22/89]
 
 ### Power to freeze bank account
 
@@ -88,21 +90,25 @@ An Act to provide for the punishment of the offences of abduction, wrongful rest
 
 (3) The manager of any bank which fails to comply with an order of the Public Prosecutor under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $3,000 or to imprisonment for a term not exceeding 3 years or to both.
 
-### Public Prosecutor’s power to order inspection of books, accounts, receipts, vouchers or other documents
+### Power to order inspection of books, accounts, receipts, vouchers or other documents
 
-7\.—(1) Notwithstanding anything to the contrary in any other written law, the Public Prosecutor may, if he considers that any evidence of the commission of an offence under this Act or of a conspiracy to commit, or an attempt to commit, or an abetment of that offence by a person is likely to be found in any book, account, receipt, voucher or other document in respect of the payment of money or the delivery of property relating to that person, the spouse or child of that person or to a person reasonably believed by the Public Prosecutor to be a trustee or agent for that person or the spouse or child of that person, by order authorise any police officer of or above the rank of sergeant named in the order to inspect any such book, account, receipt, voucher or other document and a police officer so authorised may, at all reasonable times, enter any premises specified in the order and inspect any such book, account, receipt, voucher or other document and may take copies thereof or of any relevant part thereof.
+7\.—(1) Notwithstanding anything to the contrary in any other written law, the Public Prosecutor may, if he considers that any evidence of the commission of an offence under this Act or of a conspiracy to commit, or an attempt to commit, or an abetment of that offence by a person is likely to be found in any book, account, receipt, voucher or other document in respect of the payment of money or the delivery of property relating to that person, the spouse or child of that person or to a person reasonably believed by the Public Prosecutor to be a trustee or agent for that person or the spouse or child of that person, by order authorise any police officer of or above the rank of sergeant named in the order to inspect any such book, account, receipt, voucher or other document.
+
+(2) A police officer authorised under subsection (1), may, at all reasonable times, enter any premises specified in the order and inspect any such book, account, receipt, voucher or other document and may take copies thereof or of any relevant part thereof.
 
 [21/73]
 
-(2) Any person who fails to produce any such book, account, receipt, voucher or other document which is in his possession or control shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding one year or to both.
+(3) Any person who fails to produce any such book, account, receipt, voucher or other document which is in his possession or control, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-(3) For the purposes of this section —
+(4) For the purposes of this section —
 
-“bank” means any company carrying on the business of bankers in Singapore incorporated under any written law or licensed under the Banking Act [Cap. 19];
+“bank” means any company carrying on the business of bankers in Singapore incorporated under any written law or licensed under the Banking Act (Cap. 19);
 
 “book” includes ledgers, day books, cash books, account books and all other books and documents used in the ordinary course of the business of a bank or other person or body of persons, whether corporate or unincorporate.
 
-### Public Prosecutor’s powers to obtain information
+[37/98]
+
+### Power to obtain information
 
 8\.—(1) In the course of any investigation or proceedings into or relating to an offence by any person under this Act or of a conspiracy to commit, or an attempt to commit, or an abetment of any such offence, the Public Prosecutor may by order —
 
@@ -118,17 +124,19 @@ An Act to provide for the punishment of the offences of abduction, wrongful rest
 
 (f) require the manager of any bank to give copies of the accounts of such person or of the spouse or child of such person at the bank.
 
-(2) Every person to whom an order is given by the Public Prosecutor under subsection (1) shall, notwithstanding the provisions of any written law or any oath of secrecy to the contrary, comply with the terms of the order within such time as may be specified therein and any person who wilfully neglects or fails so to comply shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding one year or to both.
+(2) Every person to whom an order is given by the Public Prosecutor under subsection (1) shall, notwithstanding the provisions of any written law or any oath of secrecy to the contrary, comply with the terms of the order within such time as may be specified therein.
+
+(3) Any person who wilfully neglects or fails to comply with subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 ### Duty to give information to police
 
 9\.—(1) Notwithstanding the provisions of any written law, any person who is aware of the commission of or the intention of any other person to commit any offence under this Act shall, in the absence of reasonable excuse, the burden of proving which shall lie upon the person so aware, forthwith give information to a police officer of such commission or intention, as the case may be.
 
-(2) Any person bound to give any information under subsection (1) who fails to do so in accordance with that subsection shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding one year or to both.
+(2) Any person bound to give any information under subsection (1) who fails to do so in accordance with that subsection shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 ### Power to intercept communication
 
-10\.—(1) Notwithstanding the provisions of any other written law the Public Prosecutor may if he considers that it is likely to contain any information relating to the payment of ransom for the release of a person who has been wrongfully restrained or wrongfully confined authorise any police officer —
+10\.—(1) Notwithstanding the provisions of any other written law, the Public Prosecutor may, if he considers that it is likely to contain any information relating to the payment of ransom for the release of a person who has been wrongfully restrained or wrongfully confined, authorise any police officer —
 
 (a) to intercept, detain and open any postal article in course of transmission by post;
 
@@ -136,11 +144,11 @@ An Act to provide for the punishment of the offences of abduction, wrongful rest
 
 (c) to intercept or listen to any conversation by telephone.
 
-(2) For the purposes of this section “postal article” and “telecommunication” shall have the meanings assigned to them in the Telecommunication Authority of Singapore Act [Cap. 323].
+(2) For the purposes of this section, “postal article” and “telecommunication” shall have the meanings assigned to them in the Telecommunication Authority of Singapore Act (Cap. 323).
 
 ### Offences to be seizable
 
-11\. All offences under this Act shall be deemed to be seizable offences for the purposes of the Criminal Procedure Code [Cap. 68].
+11\. All offences under this Act shall be deemed to be seizable offences for the purposes of the Criminal Procedure Code (Cap. 68).
 
 ### Evidence of accomplice
 
@@ -196,3 +204,35 @@ This Legislative History is provided for the convenience of users of the Kidnapp
 |||(Bill No. 34/98 published on 1 August 1998)|
 ||Date of Second and Third Readings|12 October 1998|
 ||Date of commencement|16 November 1998|
+|7.|**1999 Revised Edition—Kidnapping Act**|
+||Date of operation|1 August 1999|
+## COMPARATIVE TABLE
+
+Kidnapping Act
+
+(CHAPTER 151)
+
+The following provisions in the 1985 Revised Edition of the Kidnapping Act have been renumbered by the Law Revision Commissioners in this 1999 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Kidnapping Act.
+
+1999 Ed.
+
+1985 Ed.
+
+7—(1) and (2)
+
+7—(1)
+
+(3)
+
+(2)
+
+(4)
+
+(3)
+
+8—(2) and (3)
+
+8—(2)
+
