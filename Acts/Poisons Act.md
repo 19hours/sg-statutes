@@ -3148,6 +3148,8 @@ Chlorosilanes
 
 Chlorosulphonic acid
 
+Chromic acid of 9% of more by weight concentration
+
 Cyanides, except ferrocyanides and ferricyanides
 
 Diborane
@@ -3195,6 +3197,8 @@ Ethylene oxide
 Ethyl mercaptan
 
 Ferric chloride
+
+Fluorine
 
 Formaldehyde
 
@@ -3350,9 +3354,13 @@ Sulphur trioxide
 
 Thallium, salts of
 
+Titanium tetrachloride
+
+Vinyl bromide
+
 Vinyl chloride monomer
 
-[S 361/1989; S 55/1990; S 51/1991; S475/1991; S 541/1991; S 9/1993]]
+[S 361/1989; S 55/1990; S 51/1991; S 475/1991; S 541/1991; S 9/1993; S 172/1993]
 
 ## LEGISLATIVE HISTORY
 
@@ -3502,3 +3510,5 @@ This Legislative History is provided for the convenience of users of the Poisons
 ||Date of commencement|1 January 1992|
 |56.|**G. N. No. S 9/1993—Poisons Act (Amendment of Schedule) Notification 1993**|
 ||Date of commencement|1 February 1993|
+|57.|**G. N. No. S 172/1993—Poisons Act (Amendment of Schedule) (No. 2) Notification 1993**|
+||Date of commencement|1 July 1993|
