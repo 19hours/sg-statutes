@@ -48,7 +48,7 @@
 
 - [11 Ascertainment of income of clubs, trade associations, etc.](#Ascertainment-of-income-of-clubs-trade-associations-etc)
 
-- [12 Source of income.](#Source-of-income)
+- [12 Source of income. Trading operations carried on partly in Singapore](#Source-of-income-Trading-operations-carried-on-partly-in-Singapore)
 
 [**Part IV EXEMPTION FROM INCOME TAX**](#Part-IV)
 
@@ -452,9 +452,7 @@ PRELIMINARY
 
 “company” means any company incorporated or registered under any law in force in Singapore or elsewhere;
 
-“Comptroller” means the Comptroller of Income Tax appointed under section 5 and includes, for all purposes of this Act except the exercise of the powers conferred upon the Comptroller by sections 45(7), 67(1)(a), 95, 96 and 101, a Deputy Comptroller or an Assistant Comptroller so appointed;
-
-[31/98 wef 14/08/1998]
+“Comptroller” means the Comptroller of Income Tax appointed under section 5 and includes, for all purposes of this Act except the exercise of the powers conferred upon the Comptroller by sections 45(7), 67(1) (a), 95, 96 and 101, a Deputy Comptroller or an Assistant Comptroller so appointed;
 
 [37/75]
 
@@ -622,7 +620,7 @@ ADMINISTRATION
 
 shall be guilty of an offence.
 
-(3) [Deleted by Act 29/65]
+(3) [DeletedbyAct29/65]
 
 (4) No person appointed under, or employed in carrying out, the provisions of this Act shall be required to produce in any court any return, document or assessment, or to divulge or communicate to any court any matter or thing coming under his notice in the performance of his duties under this Act except as may be necessary for the purpose of carrying into effect the provisions of this Act, or in order to institute a prosecution, or in the course of a prosecution, for any offence committed in relation to income tax.
 
@@ -780,9 +778,9 @@ is the amount of balancing charge.
 
 (c) notwithstanding paragraphs (a) and (b), any gains or profits derived by him by any exercise of a right or benefit to acquire shares in a company listed on the Stock Exchange of Singapore shall be the last done price on the listing date of the shares so acquired less the amount paid for such shares;
 
-(d) “the last done price on the listing date”, in relation to any shares referred to in paragraph (c), means the price of such shares in the open market at the last transaction on the date on which such shares are first listed on the Stock Exchange of Singapore after the acquisition of such shares by him; and
+(d) "the last done price on the listing date", in relation to any shares referred to in paragraph (c), means the price of such shares in the open market at the last transaction on the date on which such shares are first listed on the Stock Exchange of Singapore after the acquisition of such shares by him; and
 
-(e) “shares” includes stocks.
+(e) "shares" includes stocks.
 
 [26/73]
 
@@ -884,8 +882,6 @@ which involves novelty or originality but does not include a computer program un
 
 which do not form part of the statutory income of the designated unit trust or approved CPF unit trust by virtue of section 35(7A) shall, subject to subsection (13B), be deemed to be income of the unit holder if he is not a foreign investor.
 
-[Act 31/98, Wef 14/08/1998]
-
 [32/95]
 
 (13B) Where any distribution made out of gains or profits referred to in subsection (13A)(a) is made to a unit holder who is an individual resident in Singapore, the distribution, if made on or after 28th February 1998, shall not be deemed to be income of that unit holder.
@@ -901,8 +897,6 @@ which do not form part of the statutory income of the designated unit trust or a
 (13D) For the purposes of subsections (13A), (13B) and (13C) —
 
 “approved CPF unit trust” has the same meaning as in section 35(7C);
-
-[Act 31/98, Wef 14/08/1998]
 
 “designated unit trust” means any unit trust designated under section 35(7C);
 
@@ -1398,11 +1392,7 @@ more than 2 years but not more than 3 years prior to the disposal of the shares;
 
 (f) any gains or profits arising from the disposal of any shares which are chargeable to tax under section 10(1)(a); and
 
-[Act 31/98, Wef 14/08/1998]
-
 (g) any gains or profits derived from the disposal of securities which do not form part of the statutory income of any designated unit trust or approved CPF unit trust under section 35(7A).
-
-[Act 31/98, Wef 14/08/1998]
 
 ### Ascertainment of income of clubs, trade associations, etc.
 
@@ -1412,9 +1402,7 @@ more than 2 years but not more than 3 years prior to the disposal of the shares;
 
 (3) In this section, “members”, in relation to a body of persons, means those persons who are entitled to vote at a general meeting of the body at which effective control is exercised over its affairs.
 
-### Source of income.
-
-### Trading operations carried on partly in Singapore
+### Source of income. Trading operations carried on partly in Singapore
 
 12\.—(1) Where a non-resident person carries on a trade or business of which only part of the operations is carried on in Singapore, the gains or profits of the trade or business shall be deemed to be derived from Singapore to the extent to which such gains or profits are not directly attributable to that part of the operations carried on outside Singapore.
 
@@ -1482,8 +1470,6 @@ EXEMPTION FROM INCOME TAX
 
 (a) the interest derived from any qualifying debt securities by any person who is not resident in Singapore and who does not have any permanent establishment in Singapore;
 
-[Act 31/98, Wef 14/08/1998]
-
 (b) the official emoluments of consular officers (as defined in the Consular Conventions Act [Cap. 52]) of foreign countries and of Commonwealth officers (as defined in the Diplomatic Privileges (Commonwealth Countries and Republic of Ireland) Act) and of persons employed on the staff of any such consular or Commonwealth officer who are subjects or citizens of the country which they represent, but only to the extent to which reciprocal treatment is accorded by the country which they represent to Singapore consular officers or to corresponding members of the staff of such consular officer;
 
 (c) the official emoluments payable from Commonwealth funds to members of Commonwealth forces, and to persons in the service of a Commonwealth government, in Singapore, in respect of their offices under such Commonwealth government, if such emoluments are subject to income tax in such Commonwealth country;
@@ -1513,8 +1499,6 @@ EXEMPTION FROM INCOME TAX
 [26/93]
 
 (j) sums standing to the account of an individual in the Central Provident Fund or any approved pension or provident fund designated by the Minister under section 39(8) or withdrawn therefrom except for sums in respect of dividends (other than dividends derived from outside Singapore) credited to his Investment Account maintained under the Central Provident Fund Act [Cap. 36];
-
-[Act 31/98, Wef 14/08/1998]
 
 [26/93]
 
@@ -1580,9 +1564,9 @@ EXEMPTION FROM INCOME TAX
 
 (ii) a person, other than an individual, if that person does not, by himself or in association with others, carry on a business in Singapore, and does not have a permanent establishment in Singapore;
 
-(u) the interest derived by any person from the deposit of moneys in any savings account with the Post Office Savings Bank of Singapore constituted under the Post Office Savings Bank of Singapore Act;
+(u) the interest derived by any person from the deposit of moneys in any savings account with the Post Office Savings Bank of Singapore transferred to The Development Bank of Singapore Ltd under the Post Office Savings Bank of Singapore (Transfer of Undertakings and Dissolution) Act 1998 or in any POSB savings account with The Development Bank of Singapore Ltd approved by the Minister;
 
-[15/83]
+[37/98 wef 16/11/1998]
 
 (v) the interest received from such Asian Dollar Bonds as may be approved in writing by the Minister or such person as he may appoint if the interest is received by —
 
@@ -1609,8 +1593,6 @@ EXEMPTION FROM INCOME TAX
 [32/99 wef 03/09/1999]
 
 (z) for a period of 20 years from the commencement of its business, such income of the Singapore International Monetary Exchange Limited as may be prescribed.
-
-[Act 31/98, Wef 14/08/1998]
 
 [13/84]
 
@@ -1639,8 +1621,6 @@ EXEMPTION FROM INCOME TAX
 “financial institution” means an institution licensed or approved by the Monetary Authority of Singapore, and includes an institution approved as an approved Fund Manager under section 43A and an institution approved as a Finance and Treasury Centre under section 43G;
 
 “qualifying debt securities” means bonds, notes, commercial papers and certificates of deposits which are substantially arranged by any financial institution in Singapore and issued during the period from 28th February 1998 to 27th February 2003.
-
-[Act 31/98, Wef 14/08/1998]
 
 (3) Nothing in subsection (1) shall be construed to exempt in the hands of the recipients any dividends, interest, bonuses, salaries or wages paid wholly or in part out of income so exempted.
 
@@ -1704,23 +1684,15 @@ EXEMPTION FROM INCOME TAX
 
 13A\.—(1) There shall be exempt from tax the income of a shipping enterprise derived or deemed to be derived from the operation of Singapore ships or foreign ships as hereinafter provided.
 
-[Act 31/98, Wef 14/08/1998]
-
 [20/91.11/94]
 
 (1A) Such exemption in respect of Singapore ships shall be backdated to the date of provisional registration if the owner has subsequently obtained a permanent certificate of registry in respect of the ship.
-
-[Act 31/98, Wef 14/08/1998]
 
 [11/94]
 
 (2) A shipping enterprise shall maintain separate accounts for the income derived or deemed to be derived from the operation of each Singapore ship or foreign ship.
 
-[Act 31/98, Wef 14/08/1998]
-
 (2A) Where expenses have been incurred by a shipping enterprise which are not directly attributable to a Singapore ship or foreign ship, the Comptroller may allocate as expenses such amounts as might reasonably and properly have been incurred in the normal course of its business in respect of such ship.
-
-[Act 31/98, Wef 14/08/1998]
 
 (3) In determining the income of a shipping enterprise —
 
@@ -1728,13 +1700,9 @@ EXEMPTION FROM INCOME TAX
 
 (b) a loss incurred by a shipping enterprise in respect of the operation of a Singapore ship or foreign ship for any year shall only be deducted against the income exempt under this section, and the balance of such loss shall not be available as a deduction against any other income.
 
-[Act 31/98, Wef 14/08/1998]
-
 [4/75]
 
 (4) The Comptroller shall for each year of assessment issue to a shipping enterprise a statement showing the amount of income derived from the operation of Singapore ships or foreign ships by the shipping enterprise; and Parts XVII and XVIII (relating to objections and appeals) and any rules made under this Act shall apply, with the necessary modifications, as if such statement were a notice of assessment.
-
-[Act 31/98, Wef 14/08/1998]
 
 (5) Subject to subsection (8) where any statement issued under subsection (4) has become final and conclusive, the amount of income shown therein shall not form part of the statutory income of a shipping enterprise for the year of assessment to which the statement relates and shall be exempt from tax.
 
@@ -1782,8 +1750,6 @@ ought not to have been so exempt, the Comptroller may at any time within 6 years
 
 “foreign ship” has the same meaning as in section 13F;
 
-[Act 31/98, Wef 14/08/1998]
-
 “holding company” means a company which holds not less than 50% beneficial interest in the issued shares of a shipping enterprise;
 
 “income of a shipping enterprise” means the income derived by a shipping enterprise from the carriage (other than within the limits of the port of Singapore) of passengers, mails, livestock or goods —
@@ -1792,15 +1758,11 @@ ought not to have been so exempt, the Comptroller may at any time within 6 years
 
 (b) shipped in Singapore by foreign ships, excluding such carriage arising solely from transhipment from Singapore;
 
-[Act 31/98, Wef 14/08/1998]
-
 “operation of Singapore ships” includes the charter of such ships;
 
 [26/93]
 
 “shipping enterprise” means any company owning or operating Singapore ships or foreign ships;
-
-[Act 31/98, Wef 14/08/1998]
 
 “Singapore ship” means a ship in respect of which a permanent certificate of registry has been issued under any written law in Singapore relating to merchant shipping.
 
@@ -1809,8 +1771,6 @@ ought not to have been so exempt, the Comptroller may at any time within 6 years
 [20/91]
 
 (11) Nothing in this section shall affect the operation of section 27 in ascertaining the income of a non-resident person owning or operating Singapore ships or foreign ships.
-
-[Act 31/98, Wef 14/08/1998]
 
 (12) Where in the basis period for any year of assessment a ship ceases to be a Singapore ship the income derived from the operation of which is exempt under this section, the capital allowances in respect of that ship for that year of assessment and subsequent years shall be calculated on the residue of expenditure or reducing value of the assets after taking into account the capital allowances provided for in sections 16, 17, 18, 19, 20, 21 and 22 for those years of assessment during which income derived from the operation of the ship was exempt from tax notwithstanding that no claim for such allowances was made.
 
@@ -1830,15 +1790,9 @@ ought not to have been so exempt, the Comptroller may at any time within 6 years
 
 (a) subsections (1) to (11) shall not apply to the income derived or deemed to be derived from the operation of Singapore ships by the shipping enterprise for the year of assessment immediately following the year in which the election is made and for subsequent years of assessment;
 
-[Act 31/98, Wef 14/08/1998]
-
 (b) any capital allowances or the balance thereof which were not made against the income of the shipping enterprise exempt under this section for any year of assessment during which its income was exempt from tax shall not be available to be made under section 23 against its income (other than income exempt under this section) for the year of assessment immediately following the year in which the election is made and for subsequent years of assessment;
 
-[Act 31/98, Wef 14/08/1998]
-
 (c) any loss or the balance thereof incurred by the shipping enterprise in respect of the operation of a Singapore ship for any year of assessment which was not deducted against its income exempt under this section for any year of assessment during which its income was exempt from tax shall not be available as a deduction under section 37(2)(a) against its income (other than income exempt under this section) for the year of assessment immediately following the year in which the election is made and for subsequent years of assessment; and
-
-[Act 31/98, Wef 14/08/1998]
 
 (d) any capital allowances in respect of Singapore ships of the shipping enterprise for the year of assessment immediately following the year in which the election is made and for subsequent years of assessment shall be calculated in accordance with subsection (12) as if the Singapore ships were ships which had ceased to be Singapore ships.
 
@@ -2242,8 +2196,6 @@ ought not to have been so exempted, or taxed at a concessionary rate for any yea
 
 “tax exempt period” means the period during which any income of an approved venture company is exempt from tax under regulations made under subsection (1).
 
-[Act 31/98, Wef 14/08/1998]
-
 “venture company” means any company whose business consists wholly or mainly in the making of approved investments and the principal part of whose income is derived therefrom.
 
 [26/93]
@@ -2438,7 +2390,7 @@ an amount equal to the excess medical expenses shall be deemed to be income of t
 
 (d) expenses incurred in or in connection with the provision of insurance against the cost of medical treatment; and
 
-(e) contributions which are deductible under subsection (1)(ea);
+(e) contributions which are deductible under subsection (1) (ea);
 
 [32/95]
 
@@ -2488,8 +2440,6 @@ an amount equal to the excess medical expenses shall be deemed to be income of t
 
 there shall be allowed a further deduction of the amount of such expenses in addition to the amount allowed under section 14.
 
-[Act 31/98, Wef 14/08/1998]
-
 [26/93]
 
 (2) The expenses referred to in subsection (1) are —
@@ -2499,8 +2449,6 @@ there shall be allowed a further deduction of the amount of such expenses in add
 (b) expenses in maintaining an approved overseas trade office; or
 
 (c) market development expenditure for the carrying out of any approved marketing project.
-
-[Act 31/98, Wef 14/08/1998]
 
 (2A) The Minister may specify the maximum amount of expenditure (or any item thereof) to be allowed under subsection (1).
 
@@ -2514,8 +2462,6 @@ there shall be allowed a further deduction of the amount of such expenses in add
 
 (b) travelling, accommodation and subsistence expenses or allowances for more than the approved number of employees taking part in the approved trade fair, trade exhibition, trade mission, trade promotion activity or the approved marketing project;
 
-[Act 31/98, Wef 14/08/1998]
-
 (c) any expenses incurred during its tax relief period (or qualifying period in the case of investment allowance) by a company which is given tax relief under the Economic Expansion Incentives (Relief from Income Tax) Act [Cap. 86];
 
 [9/80]
@@ -2526,21 +2472,15 @@ there shall be allowed a further deduction of the amount of such expenses in add
 
 (ii) by way of remuneration, travelling, accommodation and subsistence expenses or allowances for more than the approved number of employees of the approved overseas trade office;
 
-[Act 31/98, Wef 14/08/1998]
-
 (iii) which are specifically excluded as a condition for the approval of the overseas trade office under this section;
 
 (iv) which are incurred after the end of the approved number of years from the date of establishment of the approved overseas trade office; and
-
-[Act 31/98, Wef 14/08/1998]
 
 (v) which are incurred by a firm or company having a permanent establishment subject to tax in the country in which the approved trade office is established.
 
 [26/93]
 
 (3A) As soon as any amount of further deduction is allowed to any company under this section 14E, 14J or 14L, a sum equal to that amount shall be credited to an account (referred to in this section as the further deduction account) to be kept by the company for the purposes of any of those sections.
-
-[Act 31/98, Wef 14/08/1998]
 
 [28/92]
 
@@ -2549,8 +2489,6 @@ there shall be allowed a further deduction of the amount of such expenses in add
 (a) debit from that account such amount as would have been the chargeable income had the further deduction not been allowed or the amount of the credit in that account, whichever is the less; and
 
 (b) credit the amount debited under paragraph (a) to an account to be called a tax exempt account which shall be kept by the company for the purposes of this section 14E, 14J or 14L,
-
-[Act 31/98, Wef 14/08/1998]
 
 and any remaining balance in the further deduction account shall be carried forward to be used by the company in the first subsequent year of assessment when the company has chargeable income had the further deduction not been allowed, and so on for subsequent years of assessment until the credit in the further deduction account has been fully used.
 
@@ -2567,8 +2505,6 @@ and any remaining balance in the further deduction account shall be carried forw
 (3E) Notwithstanding anything in this section, where it appears to the Comptroller that in any year of assessment —
 
 (a) any further deduction which has been allowed under this section, section section 14E, 14J or 14L; or
-
-[Act 31/98, Wef 14/08/1998]
 
 (b) any dividend, including a dividend paid by a holding company, which has been exempted from tax in the hands of any shareholder,
 
@@ -2595,8 +2531,6 @@ ought not to have been so allowed or exempted, as the case may be, the Comptroll
 (c) expenses incurred on approved promotion campaigns; or
 
 (d) approved expenses incurred in the design of packaging, or in the certification of goods or services where such certification is carried out by an approved person;
-
-[Act 31/98, Wef 14/08/1998]
 
 “master franchise” means any agreement under which the franchisor authorises or permits the franchisee to use in Singapore or overseas a business system owned or controlled by the franchisor, including the sub-franchising of the business system;
 
@@ -2784,8 +2718,6 @@ is the total investment income (whether chargeable to tax or not) for that basis
 
 (5A) Subsections (4)(a) and (b) and (5)(a) shall not apply to any bank.
 
-[Act 31/98, Wef 14/08/1998]
-
 (6) In this section —
 
 “bank” means a bank licensed under the Banking Act [Cap. 19] or a merchant bank approved by the Monetary Authority of Singapore;
@@ -2952,8 +2884,6 @@ has been incurred on or after 1st April 1993 by an approved firm or company resi
 
 14L\. The Minister may by regulations provide that, for the purpose of ascertaining the income of any person or class of persons carrying on a trade, profession or business, there shall be allowed to such person or class of persons a further deduction, in addition to the deduction allowed under section 14, of any prescribed expenses incurred in relocating or recruiting any prescribed employee from outside Singapore to be employed in Singapore by the person or class of persons.
 
-[Act 31/98, Wef 14/08/1998]
-
 ### Deductions not allowed
 
 15\.—(1) Notwithstanding the provisions of this Act, for the purpose of ascertaining the income of any person, no deduction shall be allowed in respect of —
@@ -3012,9 +2942,7 @@ has been incurred on or after 1st April 1993 by an approved firm or company resi
 
 (o) any outgoings and expenses incurred in respect of any approved CPF unit trust as defined in section 35(7C) if the person is a unit holder who has purchased any unit in such trust using moneys other than those standing to his credit in the Central Provident Fund.
 
-[Act 31/98, Wef 14/08/1998]
-
-(2) Subsection (1)(b) and (d) shall not apply to any expenditure which qualifies for deduction under section 14D, 14E, 14F, 14G, 14H, 14I or 14K.
+(2) Subsection (1)(b) and (d) shall not apply to any expenditure which qualifies for deduction under section 14D, 14E, 14F, 14G, 14H, 14Ior 14K.
 
 [Act 32/99, wef Y/A 1999:1999-ACT-32]
 
@@ -3424,9 +3352,7 @@ Provided that, in respect of a motor car acquired —
 
 for the purposes of a trade, business or profession carried on by him, he shall, in lieu of the allowances provided by subsection (1) or section 19, be entitled, if he so elects, to an allowance of 100% in respect of the capital expenditure incurred on the provision of the certified machine, equipment or system, or the certified effective noise control device or measure.
 
-[Act 31/98, Wef 14/08/1998]
-
-(1G) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has, on or after 1st January 1998, installed any new —
+(1G) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has, on or after 1st January 1998, installed any new --
 
 (a) certified machine, equipment or system which reduces or eliminates exposure to chemical risk;
 
@@ -3435,8 +3361,6 @@ for the purposes of a trade, business or profession carried on by him, he shall,
 (c) certified effective chemical hazard control measure for any existing machine, equipment or process,
 
 for the purposes of a trade, business or profession carried on by him, he shall, in lieu of the allowances provided by subsection (1) or section 19, be entitled, if he so elects, to an allowance of 100% in respect of the capital expenditure incurred on the provision of the certified machine, equipment or system, or the certified effective chemical hazard control device or measure.
-
-[Act 31/98, Wef 14/08/1998]
 
 (1H) Any claim by a person for allowances in respect of any machinery or plant under this section for any year of assessment shall not be disallowed by reason only that the person has not in use the machinery or plant at the end of the basis period for that year of assessment.
 
@@ -3479,8 +3403,6 @@ Provided that —
 [15/83]
 
 [13/84]
-
-[20/91. Act 28/96wef6.9.96]
 
 (6) In this section —
 
@@ -3578,8 +3500,6 @@ which has been certified by the Singapore Productivity and Standards Board to be
 
 which has been certified by the Singapore Productivity and Standards Board or the National University of Singapore to have satisfied the prescribed criteria;
 
-[Act 31/98, Wef 14/08/1998]
-
 (g) “certified effective noise control device” means —
 
 (i) any acoustic enclosure for machine, equipment or process;
@@ -3592,8 +3512,6 @@ which has been certified by the Singapore Productivity and Standards Board or th
 
 which has been certified by the Singapore Productivity and Standards Board or the National University of Singapore to have satisfied the prescribed criteria;
 
-[Act 31/98, Wef 14/08/1998]
-
 (h) “certified effective engineering noise control measure” means —
 
 (i) any detachable personnel acoustic enclosure;
@@ -3605,8 +3523,6 @@ which has been certified by the Singapore Productivity and Standards Board or th
 (iv) any modification to machine, equipment or process,
 
 which has been certified by the Singapore Productivity and Standards Board or the National University of Singapore to have satisfied the prescribed criteria;
-
-[Act 31/98, Wef 14/08/1998]
 
 (i) “certified machine, equipment or system which reduces or eliminates exposure to chemical risk” means —
 
@@ -4260,8 +4176,6 @@ ASCERTAINMENT OF STATUTORY INCOME
 
 “approved CPF unit trust” means any unit trust scheme approved for the purposes of any investment scheme under the Central Provident Fund Act (Cap.36);
 
-[Act 31/98, Wef 14/08/1998]
-
 “designated” means designated by the Minister or such person as he may appoint;
 
 “securities” has the same meaning as in section 10A;
@@ -4458,7 +4372,7 @@ is the concessionary rate of tax for that year of assessment at which the conces
 
 “chargeable normal income” means normal income after deducting expenses, donations, allowances or losses allowable under this Act against the normal income;
 
-“concessionary income” means income subject to tax at the concessionary rate of tax in accordance with the regulations made under section 13H, 43A, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43J, 43K, 43L, 43M, 43N or 43O, as the case may be;
+“concessionary income” means income subject to tax at the concessionary rate of tax in accordance with the regulations made under section 13H, 43A, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43J, 43K, 43L ,43M, 43N or 43O, as the case may be;
 
 [Act 31/98, Wef 14/08/1998]
 
@@ -5230,11 +5144,7 @@ derived by it from any approved syndicated offshore credit or guarantee facility
 
 ### Concessionary rate of tax for insurance and re-insurance of risks outside Singapore
 
-43C\. Notwithstanding section 43, the Minister may by regulations provide that tax at the rate of 10% or such other concessionary rate shall be levied and paid for each year of assessment upon the income of an insurance company approved by the Minister or such person as he may appoint derived by it from carrying on offshore life business within the meaning of section 26 or the business (other than the business of life assurance) of insuring and reinsuring offshore risks.
-
-(1) Notwithstanding section 43, the Minister may by regulations provide that tax at the rate of 10% or such other concessionary rate shall be levied and paid for each year of assessment upon the income of an insurance company approved by the Minister or such person as he may appoint derived by it from carrying on offshore life business within the meaning of section 26 or the business (other than the business of life assurance) of insuring and reinsuring offshore risks.
-
-[Act 31/98, Wef 14/08/1998]
+43C\.—(1) Notwithstanding section 43, the Minister may by regulations provide that tax at the rate of 10% or such other concessionary rate shall be levied and paid for each year of assessment upon the income of an insurance company approved by the Minister or such person as he may appoint derived by it from carrying on offshore life business within the meaning of section 26 or the business (other than the business of life assurance) of insuring and reinsuring offshore risks.
 
 [9/80]
 
@@ -5245,8 +5155,6 @@ derived by it from any approved syndicated offshore credit or guarantee facility
 [7/79]
 
 (2) Regulations made under subsection (1) may provide for exemption from tax of any income of an approved insurance company referred to in that subsection and for deduction of losses otherwise than in accordance with section 37(2).
-
-[Act 31/98, Wef 14/08/1998]
 
 ### Concessionary rate of tax for offshore gold and futures transactions
 
@@ -5274,7 +5182,7 @@ and those regulations may provide for the deduction of losses otherwise than in 
 
 [26/93]
 
-(2) In this section and sections 43A (3), 43E, 43F, 43G, 43H, 43J, 43L, 43M and 43O, “approved” means approved by the Minister or such person as he may appoint.
+(2) In this section and sections 43A(3), 43E, 43F, 43G, 43H, 43J, 43L, 43M and 43O, “approved” means approved by the Minister or such person as he may appoint.
 
 [Act 31/98, Wef 14/08/1998]
 
@@ -5334,15 +5242,13 @@ Provided that a company shall be deemed to be an associated company in relation 
 
 43I\.—(1) Notwithstanding section 43, tax at the rate of 10% or such other concessionary rate as the Minister may by order prescribe shall be levied and paid for each year of assessment upon the income of a leasing company accruing in or derived from Singapore in respect of offshore leasing of any machinery or plant or such other activity as may be prescribed by regulations.
 
-[Act 31/98, Wef 14/08/1998]
-
 (2) In determining the income of a leasing company from offshore leasing —
 
 (a) the allowances under section 19, 19A, 20, 21, 22 or 23 shall be taken into account notwithstanding that no claim for such allowances has been made;
 
 (b) the allowances under section 19, 19A, 20, 21, 22 or 23 in respect of offshore finance leasing shall, subject to paragraph (c), only be deducted against the income from such leasing and any balance of the allowances shall not be available as a deduction against any other income;
 
-(c) where the leasing company ceases to derive income from offshore finance leasing in the basis period for any year of assessment, any balance of the allowances after the deduction in paragraph (b) shall be available as a deduction against any other income in accordance with regulations made under sub-section (3);
+(c) where the leasing company ceases to derive income from offshore finance leasing in the basis period for any year of assessment, any balance of the allowances after the deduction in paragraph (b) shall be available as a deduction against any other income in accordance with regulations made under sub- section (3);
 
 (d) the allowances under section 19, 19A, 20, 21, 22 or 23 in respect of offshore operating leasing shall firstly be deducted against the income from such leasing and any balance of the allowances shall, subject to paragraph (e), be deducted against the income from offshore finance leasing but not against any other income;
 
@@ -5359,8 +5265,6 @@ Provided that a company shall be deemed to be an associated company in relation 
 (j) where the leasing company ceases to derive income from offshore operating leasing in the basis period for any year of assessment, any losses under section 37 in respect of such leasing shall firstly be deducted against the income from such leasing and any balance of the losses shall be available as a deduction against any other income in accordance with regulations made under subsection (3);
 
 (2A) Subsection (2) shall apply, with the necessary modifications, in determining the income of a leasing company from any activity prescribed by regulations made under subsection (1) as if such income were income from offshore operating leasing.
-
-[Act 31/98, Wef 14/08/1998]
 
 (3) The Minister may make regulations —
 
@@ -5476,15 +5380,11 @@ and those regulations may provide for the deduction of losses otherwise than in 
 
 “financial institution” and “qualifying debt securities” have the same meanings as in section 13(2A).
 
-[Act 31/98, Wef 14/08/1998]
-
 ### Concessionary rate of tax for cyber trading
 
 43O\.—(1) Notwithstanding section 43, the Minister may by regulations provide that tax at the rate of 10% or such other concessionary rate shall be levied and paid for each year of assessment upon such income as the Minister may specify of an approved company derived by it from such qualifying electronic commerce transactions as may be prescribed.
 
 (2) Regulations made under subsection (1) may provide for the deduction of losses of an approved company otherwise than in accordance with section 37(2).
-
-[Act 31/98, Wef 14/08/1998]
 
 ## PART XII
 
@@ -5750,23 +5650,13 @@ a charge equal to the amount of such excess shall be paid to the Comptroller wit
 
 ### Application of section 45 to distribution by unit trust
 
-45C\. Section 45 shall apply in relation to any distribution made by a unit trust which is deemed to be income under section 10(13), (13A) and (13B) as that section applies to any interest paid by a person to another person not known to him to be resident in Singapore and, for the purpose of such application, any reference in that section to interest shall be construed as a reference to such distribution.
-
-(1) Section 45 shall apply in relation to any distribution made by a unit trust which is deemed to be income under section 10(13), (13A) and (13B) as that section applies to any interest paid by a person to another person not known to him to be resident in Singapore and, for the purpose of such application, any reference in that section to interest shall be construed as a reference to such distribution.
-
-[Act 31/98, Wef 14/08/1998]
+45C\.—(1) Section 45 shall apply in relation to any distribution made by a unit trust which is deemed to be income under section 10(13), (13A) and (13B) as that section applies to any interest paid by a person to another person not known to him to be resident in Singapore and, for the purpose of such application, any reference in that section to interest shall be construed as a reference to such distribution.
 
 [32/95]
 
 [23/90]
 
 (2) Subsection (1) shall not apply to any distribution which is made on or after 28th February 1998 by a designated unit trust or an approved CPF unit trust referred to in section 35(7A).
-
-[Act 31/98, Wef 14/08/1998]
-
-[32/95]
-
-[23/90]
 
 ### Application of section 45 to gains from short-term real property transactions and short-term transactions of shares in private real property companies
 
@@ -8762,3 +8652,9 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 29/98)|
 ||Date of Second and Third Readings|31 July 1998|
 ||Date of commencement|14 August 1998|
+|128.|**Act 37 of 1998—Post Office Savings Bank of Singapore (Transfer of Undertakings and Dissolution) Act 1998**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|31 July 1998|
+|||(Bill No. 34/98 published on 1 August 1998)|
+||Date of Second and Third Readings|12 October 1998|
+||Date of commencement|16 November 1998 (Transfer Date)|
