@@ -18,6 +18,8 @@
 
 - [6 Liability of citizens of Singapore for offences committed outside Singapore](#Liability-of-citizens-of-Singapore-for-offences-committed-outside-Singapore)
 
+- [7 Jurisdiction of District Court](#Jurisdiction-of-District-Court)
+
 [**Legislative History**](#Legislative-History)
 
 # United Nations Act
@@ -82,13 +84,19 @@ where such failure, neglect or refusal is solely attributable to, or occasioned 
 
 (2) Any proceedings against any person under this section which would be a bar to subsequent proceedings against that person for the same offence, if the offence had been committed in Singapore, shall be a bar to further proceedings against him, under any written law for the time being in force relating to the extradition of persons, in respect of the same offence outside Singapore.
 
+### Jurisdiction of District Court
+
+7\. Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
+
+[9/2003 wef 16/05/2003]
+
 ## LEGISLATIVE HISTORY
 
 United Nations Act
 
 (CHAPTER 339)
 
-This Legislative History is provided for the convenience of users of the United Nations Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the United Kingdom Designs (Protection) Act. It is not part of this Act.
 
 ||||
 |:-|:-|:-|
@@ -99,3 +107,9 @@ This Legislative History is provided for the convenience of users of the United 
 ||Date of commencement|29 October 2001|
 |2.|**2002 Revised Edition—United Nations Act**|
 ||Date of operation|31 July 2002|
+|3.|**Act 9 of 2003—Statutes (Miscellaneous Amendments) Act 2003**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|20 March 2003|
+|||(Bill No. 7/2003 published on 21 March 2003)|
+||Date of Second and Third Readings|24 April 2003|
+||Date of commencement|16 May 2003|
