@@ -1,4 +1,4 @@
-**Public Utilities Act 2001**
+**Public Utilities Act 1995**
 
 **(No. 8 of 2001)**
 
