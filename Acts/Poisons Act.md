@@ -386,7 +386,11 @@ In the construction of this List, unless the contrary intention appears —
 
 (b) a reference to a substance shall include a reference to that substance when contained as such in any preparation, solution, admixture, or natural substance.
 
+Abacavir; its salts; its esters; their salts
+
 Abciximab
+
+Acamprosate; its salts
 
 Acebutolol; its salts
 
@@ -443,6 +447,8 @@ Adiphenine; its salts
 Adrenaline; its salts
 
 Adreno-corticotrophic hormone (ACTH)
+
+Alatrofloxacin; its salts; its esters; their salts
 
 Albendazole
 
@@ -658,6 +664,8 @@ Azaperone
 
 Azapropazone
 
+Azasetron; its salts
+
 Azatadine; its salts
 
 Azathioprine; its salts
@@ -794,9 +802,13 @@ Bopindolol
 
 Boric acid; sodium borate
 
+Botulinum Toxin, when contained in preparations intended for treatment of human ailments
+
 Bretylium; its salts
 
 Brimonidine; its salts
+
+Brinzolamide
 
 Bromazepam
 
@@ -841,6 +853,8 @@ Bupivacaine; its salts
 Bupranolol; its salts
 
 Buprenorphine; its salts
+
+Bupropion; its salts
 
 Buserelin; its salts; its esters; their salts
 
@@ -981,6 +995,8 @@ Ceftizoxime; its salts
 Ceftriaxone; its salts
 
 Cefuroxime
+
+Celecoxib
 
 Cephalexin
 
@@ -1514,11 +1530,15 @@ Edoxudine
 
 Edrophonium; its salts
 
+Efavirenz
+
 Elaterin
 
 Embramine; its salts
 
 Embutramide
+
+Emedastine; its salts; its esters; their salts
 
 Emepronium; its salts
 
@@ -1531,6 +1551,8 @@ Enalapril; its salts
 Enflurane
 
 Enoxaparin; its salts
+
+Entacapone
 
 Eperisone; its salts
 
@@ -1549,6 +1571,10 @@ Epirubicin; its salts
 Epithiazide
 
 Epoprostenol; its salts
+
+Eprosartan; its salts; its esters; their salts
+
+Eptifibatide
 
 Ergometrine; its salts
 
@@ -1716,6 +1742,8 @@ Fluconazole
 
 Flucytosine; its salts; its esters; their salts
 
+Fludarabine phosphate
+
 Fludiazepam
 
 Fludrocortisone; its salts; its esters; their salts
@@ -1803,6 +1831,8 @@ Formoterol; its salts
 Foscarnet; its salts
 
 Fosfestrol; its salts
+
+Fosfomycin; its salts; its esters and ethers; their salts
 
 Fosinopril; its salts
 
@@ -1980,6 +2010,8 @@ Hyoscyamine; its quarternary compounds; their salts
 
 Ibacitabine
 
+Ibandronic acid; its salts
+
 Ibuprofen
 
 Idarubicin; its salts
@@ -2104,6 +2136,8 @@ Lefetamine
 
 Lenograstim
 
+Lepirudin
+
 Letrozole
 
 Leuprorelin; its salts; its esters; their salts
@@ -2174,6 +2208,8 @@ Losartan; its salts
 
 Lovastatin
 
+Loxoprofen; its salts
+
 Luteinising hormone
 
 Lymecycline
@@ -2191,6 +2227,8 @@ Lysergamide
 Lysuride; its salts; its esters
 
 Mafenide; its salts
+
+Mangafodipir; its salts
 
 Mannityl hexanitrate
 
@@ -2442,6 +2480,8 @@ Miglitol
 
 Milrinone; its salts
 
+Miltefosine
+
 Minocycline; its salts; its esters; their salts
 
 Minoxidil; its salts
@@ -2463,6 +2503,8 @@ Mitotane
 Mitoxantrone; its salts
 
 Moclobemide
+
+Moexipril; its salts
 
 Molgramostim
 
@@ -2590,6 +2632,8 @@ Nimorazole; its salts
 
 Niridazole
 
+Nisoldipine
+
 Nitrazepam
 
 Nitrendipine
@@ -2688,6 +2732,8 @@ Opium
 
 Orciprenaline; its salts
 
+Orlistat
+
 Ornidazole; its salts
 
 Orphenadrine; its salts
@@ -2715,6 +2761,8 @@ Oxcarbazepine
 Oxedrine tartrate
 
 Oxethazaine; its salts
+
+Oxidronic acid; its salts
 
 Oxolinic acid
 
@@ -2751,6 +2799,8 @@ Oxyphenonium; its salts
 Oxytetracycline; its salts; its esters; their salts
 
 Oxytocins; natural and synthetic
+
+Paclitaxel; which are intended for the treatment of human ailments
 
 Pamidronate; its salts
 
@@ -3046,6 +3096,8 @@ Prolintane; its salts
 
 Promazine; its salts
 
+Promestriene
+
 Promethazine; its salts
 
 Promoxolane
@@ -3144,6 +3196,8 @@ Quinidine phenylethylbarbiturate
 
 Quinine; its quarternary compounds, their salts
 
+Rabeprazole; its salts
+
 Racemethorphan; its salts
 
 Racemoramide; its salts
@@ -3151,6 +3205,8 @@ Racemoramide; its salts
 Racemorphan; its salts; its esters and ethers; their salts
 
 Rafoxanide
+
+Raloxifene; its salts
 
 Ramipril
 
@@ -3202,13 +3258,21 @@ Rituximab
 
 Rivastigmine; its salts; its esters; their salts
 
+Rizatriptan; its salts; its esters; their salts
+
 Rocuronium; its salts
+
+Rofecoxib
 
 Rolicyclidine
 
 Rolitetracycline; its salts; its esters; their salts
 
+Ropinirole; its salts
+
 Ropivacaine; its salts
+
+Rosiglitazone; its salts
 
 Rosoxacin
 
@@ -3428,6 +3492,8 @@ Tegafur
 
 Teicoplanin
 
+Telmisartan
+
 Temazepam
 
 Teniposide
@@ -3526,6 +3592,8 @@ Thyrotrophin
 
 Thyroxine; its salts
 
+Tianeptine; its salts
+
 Tiapride; its salts
 
 Tiaprofenic acid; its salts
@@ -3592,6 +3660,8 @@ Topiramate
 
 Topotecan; its salts
 
+Toremifene; its salts; its esters; their salts
+
 Tosufloxacin; its salts; its esters; their salts
 
 Tramadol; its salts
@@ -3599,6 +3669,10 @@ Tramadol; its salts
 Tranexamic acid
 
 Tranylcypromine; its salts
+
+Trastuzumab
+
+Trazodone; its salts
 
 Treosulphan
 
@@ -3652,6 +3726,8 @@ Trimethoprim
 
 3, 4, 5-Trimethoxyamphetamine
 
+Trimetrexate; its salts; its esters; their salts
+
 Trimipramine; its salts
 
 Trimustine; its salts
@@ -3669,6 +3745,8 @@ Tromantadine; its salts
 Tropicamide
 
 Tropisetron; its salts
+
+Trovafloxacin; its salts; its esters; their salts
 
 Troxidone
 
@@ -3753,6 +3831,8 @@ Yohimba, alkaloids of; its quarternary compounds; their salts
 Zafirlukast
 
 Zalcitabine
+
+Zanamivir
 
 Zidovudine
 
@@ -3917,6 +3997,8 @@ This Legislative History is provided for the convenience of users of the Poisons
 ||Date of commencement|10 June 1999|
 |55.|**1999 Revised Edition—Poisons Act**|
 ||Date of operation|30 December 1999|
+|56.|**G. N. No. S 67/2000—Poisons Act (Amendment of Schedule) Notification 2000**|
+||Date of commencement|1 March 2000|
 ## COMPARATIVE TABLE
 
 Poisons Act
