@@ -368,7 +368,7 @@ Singapore Art Society
 
 38. 
 
-Singapore Arts Council
+Singapore Arts Federation
 
 39. 
 
@@ -594,6 +594,8 @@ Young Women Muslim Association (Persatuan Pemudi Islam Singapura)
 
 [S 365/1991 wef 16/08/1991]
 
+[S 550/1991 wef 13/12/1991]
+
 SECOND SCHEDULE
 
 Section 15(1).
@@ -663,3 +665,5 @@ This Legislative History is provided for the convenience of users of the People�
 ||Date of commencement|24 April 1991|
 |22.|**G.N. No. S 365/91—People’s Association Act (Amendment of First Schedule) (No. 2) Notification 1991**|
 ||Date of commencement|16 August 1991|
+|23.|**G.N. No. S 550/91—People’s Association Act (Amendment of First Schedule) (No. 3) Notification 1991**|
+||Date of commencement|13 December 1991|
