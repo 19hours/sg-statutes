@@ -3355,3 +3355,8 @@ This Legislative History is provided for the convenience of users of the Legal P
 ||Date of Presentation of Select Committee Report|7 March 1995 (Parl 1 of 1995)|
 ||Date of Third Reading|23 March 1995|
 ||Date of commencement|15 July 1995|
+|23.|**Act 40 of 1996—Legal Profession (Amendment) Act 1996**|
+||Date of First Reading|1 October 1996|
+|||(Bill No. 31/96 published on 1 October 1996)|
+||Date of Second and Third Readings|10 October 1996|
+||Date of commencement|1 September 1996 (section 9)|
