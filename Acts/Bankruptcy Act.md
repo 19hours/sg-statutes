@@ -226,8 +226,6 @@
 
 - [94 Interest on debts](#Interest-on-debts)
 
-[**Composition or scheme of arrangement**](#Composition-or-scheme-of-arrangement)
-
 - [95 Creditors may accept composition or scheme by special resolution](#Creditors-may-accept-composition-or-scheme-by-special-resolution)
 
 - [95A Annulment of bankruptcy order by certificate of Official Assignee where composition or scheme accepted by creditors](#Annulment-of-bankruptcy-order-by-certificate-of-Official-Assignee-where-composition-or-scheme-accepted-by-creditors)
@@ -1720,8 +1718,6 @@ shall be held by the landlord or other person in trust for the bankrupt as part 
 
 (3) For the purpose of this section, “interest” includes any pecuniary consideration in lieu of interest and any penalty or late payment charge by whatever name called.
 
-Composition or scheme of arrangement
-
 ### Creditors may accept composition or scheme by special resolution
 
 95\.—(1) Where a bankruptcy order has been made, the creditors who have proved their debts may, if they think fit —
@@ -2128,7 +2124,7 @@ and on the vesting order being made, the property comprised therein shall vest a
 
 ### Re-direction of bankrupt’s letters, etc.
 
-115\.—(1) Where a bankruptcy order has been made, the Official Assignee may from time to time direct the public postal licensee under the Telecommunication Authority of Singapore Act [Cap. 323] to re-direct and send or deliver to the Official Assignee or otherwise any postal article which would otherwise be sent or delivered by it to the bankrupt at such place or places as may be specified in the direction.
+115\.—(1) Where a bankruptcy order has been made, the Official Assignee may from time to time direct the public postal licensee under the Postal Services Act 1999 to re-direct and send or deliver to the Official Assignee or otherwise any postal article which would otherwise be sent or delivered by it to the bankrupt at such place or places as may be specified in the direction.
 
 (2) A direction under this section shall have effect for such period, not exceeding 3 months, as may be specified in the direction.
 
@@ -2992,3 +2988,9 @@ This Legislative History is provided for the convenience of users of the Bankrup
 |||(Bill No. 26/99 published on 4 August 1999)|
 ||Date of Second and Third Readings|18 August 1999|
 ||Date of commencement|15 September 1999|
+|7.|**Act 42 of 1999—Postal Services Act 1999**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|11 October 1999|
+|||(Bill No. 34/99 published on 12 October 1999)|
+||Date of Second and Third Readings|23 November 1999|
+||Date of commencement|1 December 1999|
