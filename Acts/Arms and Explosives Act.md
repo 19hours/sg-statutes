@@ -148,7 +148,9 @@ An Act to regulate the manufacture, use, sale, storage, transport, importation, 
 
 “master” includes every person having command or charge of a vessel or aircraft other than a pilot of a vessel;
 
-“Port Master” has the same meaning as in the Port of Singapore Authority Act [Cap. 236];
+“Port Master” has the same meaning as in the Maritime and Port Authority of Singapore Act 1996;
+
+[7/1996 wef 02/02/1996]
 
 “railway administration” means any person or body of persons responsible for the regulation of traffic on any railway;
 
@@ -504,9 +506,11 @@ it shall be presumed, unless the contrary is proved, that the article was attemp
 
 ### Power to arrest without warrant persons committing dangerous offences
 
-35\. Any person who is found committing any act for which he is punishable under this Act, which tends to cause explosion or fire in or about any place where an explosive is manufactured or stored, or any railway or port or any carriage or vessel, may be apprehended without a warrant by a police officer or by the occupier of or the agent or employee of or other person authorised by the occupier of that place, or by an agent or employee of or other person authorised by the railway administration or the Port of Singapore Authority.
+35\. Any person who is found committing any act for which he is punishable under this Act, which tends to cause explosion or fire in or about any place where an explosive is manufactured or stored, or any railway or port or any carriage or vessel, may be apprehended without a warrant by a police officer or by the occupier of or the agent or employee of or other person authorised by the occupier of that place, or by an agent or employee of or other person authorised by the railway administration or the Maritime and Port Authority of Singapore.
 
 [34
+
+[7/1996 wef 02/02/1996]
 
 ### Arrest by police without warrant
 
@@ -733,3 +737,9 @@ This Legislative History is provided for the convenience of users of the Arms an
 ||Date of commencement|6 April 1973|
 |27.|**1985 Revised Edition—Arms and Explosives Act**|
 ||Date of operation|30 March 1987|
+|28.|**Act 7 of 1996—Maritime and Port Authority of Singapore Act 1996**|
+||(Consequential amendments made by)||
+||Date of First Reading|5 December 1995|
+|||(Bill No. 46/95 published on 6 December 1995)|
+||Date of Second and Third Readings|18 January 1996|
+||Date of commencement|2 February 1996|
