@@ -364,6 +364,8 @@ PRELIMINARY
 
 (2) Without prejudice to any other meaning which the word “insolvent” may have, a bank shall, for the purposes of this Act, be deemed to be insolvent if either it has ceased to pay its debts in the ordinary course of business or is unable to pay its debts as they become due.
 
+(3) [Deleted by Act 23/2001 wef 18/07/2001]
+
 ## PART II
 
 APPOINTMENT OF ASSISTANTS
@@ -516,7 +518,7 @@ and an advertisement containing information which is intended or might reasonabl
 
 “debentures” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
 
-“securities” has the same meaning as in section 2(1) of the Securities Industry Act (Cap. 289).
+“securities” has the same meaning as in section 2(1) of the Securities and Futures Act 2001.
 
 [23/2001 wef 18/07/2001]
 
@@ -804,6 +806,8 @@ and an advertisement containing information which is intended or might reasonabl
 
 (5) No application to the Minister for a certificate of approval merging 2 or more banks may be made under subsection (1) unless —
 
+(a) [Deleted by Act 23/2001 wef 18/07/2001]
+
 (b) the merger is between a bank and one or more banks which are wholly owned subsidiaries of that bank;
 
 (c) the banks proposing to merge have entered into a merger agreement; and
@@ -815,6 +819,8 @@ and an advertisement containing information which is intended or might reasonabl
 (6) Where a certificate of approval is issued under subsection (1) merging the banks, those banks shall publish a notice of the approval of the merger at least once in a local Malay, English, Chinese and Tamil language daily newspaper within one week from the date of the certificate of approval.
 
 [28/93]
+
+(7) [Deleted by Act 23/2001 wef 18/07/2001]
 
 (8) For the avoidance of doubt, it is hereby declared that sections 210 and 212 of the Companies Act (Cap. 50) shall not apply to the banks which have jointly applied for a certificate of approval under subsection (1).
 
@@ -1250,6 +1256,20 @@ RESERVE FUNDS, DIVIDENDS, BALANCE-SHEETS AND INFORMATION
 
 [28/93]
 
+(4) [Deleted by Act 23/2001 wef 18/07/2001]
+
+(5) [Deleted by Act 23/2001 wef 18/07/2001]
+
+(5A) [Deleted by Act 23/2001 wef 18/07/2001]
+
+(6) [Deleted by Act 23/2001 wef 18/07/2001]
+
+(7) [Deleted by Act 23/2001 wef 18/07/2001]
+
+(7A) [Deleted by Act 23/2001 wef 18/07/2001]
+
+(8) [Deleted by Act 23/2001 wef 18/07/2001]
+
 (9) Any bank which fails to comply with this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine of $2,500 for every day during which the offence continues after conviction.
 
 [2/84]
@@ -1648,6 +1668,10 @@ MINIMUM ASSET REQUIREMENTS
 
 (b) balances with the Authority; and
 
+(d) [Deleted by Act 23/2001 wef 18/07/2001]
+
+(e) [Deleted by Act 23/2001 wef 18/07/2001]
+
 (c) such other assets as the Authority may from time to time approve.
 
 [39
@@ -1766,9 +1790,7 @@ and in either event, the Authority shall thereupon issue a direction in writing 
 
 ### Inspection of banks
 
-43\. The Authority shall, from time to time, inspect under conditions of secrecy, the books, accounts and transactions of each bank in Singapore and of any branch, agency or office outside Singapore opened by a bank incorporated in Singapore.
-
-(1) The Authority shall, from time to time, inspect under conditions of secrecy, the books, accounts and transactions of each bank in Singapore and of any branch, agency or office outside Singapore opened by a bank incorporated in Singapore.
+43\.—(1) The Authority shall, from time to time, inspect under conditions of secrecy, the books, accounts and transactions of each bank in Singapore and of any branch, agency or office outside Singapore opened by a bank incorporated in Singapore.
 
 [23/2001 wef 18/07/2001]
 
@@ -1778,11 +1800,11 @@ and in either event, the Authority shall thereupon issue a direction in writing 
 
 [23/2001 wef 18/07/2001]
 
-[44
-
 ### Special investigation of banks
 
 44\.—(1) The Authority may at any time make an investigation, under conditions of secrecy, of the books, accounts and transactions of any bank in Singapore, if it has reason to believe that any bank is carrying on its business in a manner likely to be detrimental to the interests of its depositors and other creditors, or has insufficient assets to cover its liabilities to the public, or is contravening the provisions of this Act.
+
+(2) [Deleted by Act 23/2001 wef 18/07/2001]
 
 ### Provisions supplementary to sections 43 and 44
 
@@ -3043,6 +3065,13 @@ This Legislative History is provided for the convenience of users of the Banking
 |||(Bill No. 21/2001 published on 20 April 2001)|
 ||Date of Second and Third Readings|16 May 2001|
 ||Date of commencement|18 July 2001|
+|15.|**Act 42 of 2001—Securities and Futures Act 2001**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|25 September 2001|
+|||(Bill No. 33/2001 published on 26 September 2001)|
+||Date of Second and Third Readings|5 October 2001|
+||Date of commencement|1 July 2002|
+|||(Item (1)(a) of Fourth Schedule)|
 ## COMPARATIVE TABLE
 
 Banking Act
