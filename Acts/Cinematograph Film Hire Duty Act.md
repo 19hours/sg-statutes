@@ -84,7 +84,9 @@ An Act to regulate the business of the hiring and renting of cinematograph films
 
 “charge for admission” means any payment, inclusive of entertainments duty leviable under the Entertainments Duty Act (Cap. 94), charged by an exhibitor of films or by the proprietor of a cinema on a person admitted on that payment, as a spectator or one of the audience, to any place where films are exhibited, whether or not those films are exhibited together with any other entertainment;
 
-“Director-General” means the Director-General of Customs and Excise appointed under section 4(1) of the Customs Act (Cap. 70);
+“Director-General” means the Director-General of Customs appointed under section 4(1) of the Customs Act (Cap. 70);
+
+[4/2003 wef 01/04/2003]
 
 “exhibitor”, in relation to films, includes every person who exhibits any film or films to the public or to any section of the public including members of any film society, whether or not a charge is made for admission to the premises in which the exhibition is held, and “to exhibit” has a corresponding meaning;
 
@@ -104,17 +106,9 @@ An Act to regulate the business of the hiring and renting of cinematograph films
 
 “rent”, in relation to films, means to rent or otherwise issue films to exhibitors or any other persons at a rent or for other consideration, or to make other arrangements with exhibitors or any other persons for the exhibition thereof;
 
-“senior officer of customs” means —
+“senior officer of customs” has the same meaning as in the Customs Act (Cap. 70);
 
-(a) the Director-General;
-
-(b) the Deputy Director-General, any Senior Director and any Director of Customs and Excise appointed under section 4(1) of the Customs Act (Cap. 70);
-
-(c) any Senior Superintendent, Superintendent or Assistant Superintendent of Customs and Excise appointed under section 4(4) of that Act;
-
-(d) any officer of customs vested with the powers of a senior officer of customs under section 4(5) of that Act;
-
-(e) any police officer having the powers of a senior officer of customs by virtue of section 7 of that Act;
+[4/2003 wef 01/04/2003]
 
 “trailer” means a film or part of a film used for advertising purposes.
 
@@ -434,6 +428,11 @@ This Legislative History is provided for the convenience of users of the Cinemat
 ||Date of commencement|1 April 1994|
 |10.|**2001 Revised Edition—Cinematograph Film Hire Duty Act**|
 ||Date of operation|31 July 2001|
+|11.|**Act 4 of 2003—Customs (Amendment) Act 2003**|
+||Date of First Reading|10 March 2003|
+|||(Bill No. 6/2003)|
+||Date of Second and Third Readings|21 March 2003|
+||Date of commencement|1 April 2003|
 ## COMPARATIVE TABLE
 
 Cinematograph Film Hire Duty Act
