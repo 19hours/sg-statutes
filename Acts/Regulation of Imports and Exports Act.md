@@ -1,28 +1,26 @@
-**Regulation of Imports and Exports Act 1995**
+**Regulation of Imports and Exports Act**
 
-**(No. 24 of 1995)**
+**(CHAPTER 272A)**
 
 **Table of Contents**
 
 [**Long Title**](#Regulation-of-Imports-and-Exports-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
-[**Part II REGULATION AND CONTROL OF IMPORTATION AND EXPORTATION, ETC**](#Part-II)
+[**Part II REGULATION AND CONTROL OF IMPORTATION AND EXPORTATION, ETC.**](#Part-II)
 
-- [3 Regulations for registration, regulation and control of importation and exportation, etc](#Regulations-for-registration-regulation-and-control-of-importation-and-exportation-etc)
+- [3 Regulations for registration, regulation and control of importation and exportation, etc.](#Regulations-for-registration-regulation-and-control-of-importation-and-exportation-etc)
 
 - [4 Interpretation of section 3](#Interpretation-of-section-3)
 
 - [5 Exemption](#Exemption)
 
-- [6 Provisions as to issue and cancellation of licences](#Provisions-as-to-issue-and-cancellation-of-licences)
+- [6 Provisions as to issue and cancellation of licences, etc.](#Provisions-as-to-issue-and-cancellation-of-licences-etc)
 
 - [7 Procedure for cancellation, etc., of certificate, licence or permit](#Procedure-for-cancellation-etc-of-certificate-licence-or-permit)
 
@@ -38,7 +36,7 @@
 
 - [13 Forfeiture](#Forfeiture)
 
-- [14 Forfeiture of goods to include packages, etc](#Forfeiture-of-goods-to-include-packages-etc)
+- [14 Forfeiture of goods to include packages, etc.](#Forfeiture-of-goods-to-include-packages-etc)
 
 - [15 Disposal of forfeited goods](#Disposal-of-forfeited-goods)
 
@@ -60,13 +58,13 @@
 
 - [24 Power to have access to, inspect and check operation of computer and other apparatus](#Power-to-have-access-to-inspect-and-check-operation-of-computer-and-other-apparatus)
 
-- [25 Powers of authorised officers to enter on certain premises](#Powers-of-authorised-officers-to-enter-on-certain-premises)
+- [25 Powers of authorised officers to enter certain premises](#Powers-of-authorised-officers-to-enter-certain-premises)
 
 - [26 Powers of arrest and search](#Powers-of-arrest-and-search)
 
 - [27 Obstruction](#Obstruction)
 
-- [28 Penalty for false declarations, etc](#Penalty-for-false-declarations-etc)
+- [28 Penalty for false declarations, etc.](#Penalty-for-false-declarations-etc)
 
 - [29 Penalty for unauthorised modification of computer program or data](#Penalty-for-unauthorised-modification-of-computer-program-or-data)
 
@@ -88,7 +86,7 @@
 
 - [38 Admissibility of certified true copies of documents](#Admissibility-of-certified-true-copies-of-documents)
 
-- [39 Power to compound offences](#Power-to-compound-offences)
+- [39 Composition of offences](#Composition-of-offences)
 
 - [40 Protection from personal liability](#Protection-from-personal-liability)
 
@@ -100,59 +98,33 @@
 
 [**Part III MISCELLANEOUS**](#Part-III)
 
-- [44 Repeal](#Repeal)
+- [44 Transitional and savings provisions](#Transitional-and-savings-provisions)
 
-- [45 Transitional and savings provisions](#Transitional-and-savings-provisions)
+- [45 Savings of rights of Government](#Savings-of-rights-of-Government)
 
-- [46 Savings of rights of Government](#Savings-of-rights-of-Government)
+[**Legislative History**](#Legislative-History)
 
-- [47 Consequential amendments](#Consequential-amendments)
+# Regulation of Imports and Exports Act
 
-[**THE SCHEDULE Consequential and Related Amendments to Other Acts**](#THE-SCHEDULE)
+(CHAPTER 272A)
 
-REPUBLIC OF SINGAPORE
+(Original Enactment: Act 24 of 1995)
 
-GOVERNMENT GAZETTE
+REVISED EDITION 1996
 
-ACTS SUPPLEMENT
+(30th April 1996)
 
-Published by Authority
+An Act to provide for the regulation, registration and control of imports and exports and to make provisions for matters connected therewith.
 
-NO. 25]
-
-Friday, July 28
-
-[1995
-
-The following Act was passed by Parliament on 7th July 1995 and assented to by the President on 24th July 1995:—
-
-Regulation of Imports and Exports Act 1995
-
-(No. 24 of 1995)
-
-I assent.
-
-ONG TENG CHEONG
-
-President.
-
-24th July 1995.
-
-Date of Commencement: 1st December 1995
-
-An Act to provide for the regulation, registration and control of imports and exports and to make provisions for matters connected therewith and to repeal the Control of Imports and Exports Act (Chapter 56 of the 1985 Revised Edition) and the Registration of Imports and Exports Act (Chapter 270 of the 1985 Revised Edition), and to make consequential amendments to certain other Acts.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st December 1995]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\.—(1) This Act may be cited as the Regulation of Imports and Exports Act 1995 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
-
-(2) The Minister may appoint different dates for the coming into operation of the different provisions of this Act.
+1\. This Act may be cited as the Regulation of Imports and Exports Act.
 
 ### Interpretation
 
@@ -172,7 +144,7 @@ PRELIMINARY
 
 (d) any officer or class or description of officers appointed by the Minister by notification in theGazetteto exercise the powers and perform the duties conferred and imposed on an authorised officer by this Act;
 
-“Board” means the Trade Development Board established under section 3 of the Trade Development Board Act (Cap. 330);
+“Board” means the Trade Development Board established under section 3 of the Trade Development Board Act [Cap. 330];
 
 “conveyance” includes any vessel, train, vehicle or aircraft in which persons or goods can be carried;
 
@@ -180,7 +152,7 @@ PRELIMINARY
 
 “electronic notice” has the meaning assigned to it in section 8(1);
 
-“examination station” means any place which has been prescribed under section 143(1)(d) of the Customs Act (Cap. 70) as a customs office or customs station for the examination of goods or any place or premises as may be determined by a senior authorised officer for the examination of goods;
+“examination station” means any place which has been prescribed under section 143(1)(d) of the Customs Act [Cap. 70] as a customs office or customs station for the examination of goods or any place or premises as may be determined by a senior authorised officer for the examination of goods;
 
 “export”, with its grammatical variations and cognate expressions, means to take or cause to be taken out of Singapore by land, water or air and includes the placing of any goods in a conveyance for the purpose of the goods being taken out of Singapore but does not include the taking out from Singapore of any goods on the same conveyance on which they were brought into Singapore unless such goods after being brought into Singapore have been landed or transhipped within Singapore;
 
@@ -190,11 +162,9 @@ PRELIMINARY
 
 “import”, with its grammatical variations and cognate expressions, means to bring or cause to be brought into Singapore by land, water or air from any place which is outside Singapore but does not include the bringing into Singapore of goods which are to be taken out of Singapore on the same conveyance on which they were brought into Singapore without any landing or transhipment within Singapore;
 
-“master” includes every person, having or taking command or charge of a vessel, except a pilot of a vessel holding a licence under the Maritime and Port Authority of Singapore Act 1996 when acting in the course of his duties;
+“master” includes every person, having or taking command or charge of a vessel, except a pilot of a vessel holding a licence under the Maritime and Port Authority of Singapore Act 1996 [Act 7 of 1996] when acting in the course of his duties;
 
-[7/1996 wef 02/02/1996]
-
-“officer of customs” has the same meaning as in the Customs Act;
+“officer of customs” has the same meaning as in the Customs Act [Cap. 70];
 
 “pilot of an aircraft” means every person having or taking command or charge of an aircraft;
 
@@ -212,9 +182,9 @@ PRELIMINARY
 
 (d) any officer or class or description of officers appointed by the Minister by notification in theGazetteto exercise the powers and perform the duties conferred and imposed on a senior authorised officer by this Act;
 
-“senior officer of customs” has the same meaning as in the Customs Act (Cap. 70);
+“senior officer of customs” has the same meaning as in the Customs Act;
 
-“shipped as ships’ stores”, with its grammatical variations and cognate expressions, means loaded for use as stores on a voyage or flight to or from a destination outside Singapore or as merchandise for sale by retail to persons carried on such voyage or flight in a ship or aircraft;
+“shipped as ships’ stores”, with its grammatical variations and cognate expressions, means loaded for use as stores on a voyage or flight to or from a destination outside Singapore or as merchandise for sale by retail to persons carried on such voyage or flight in a ship or an aircraft;
 
 “tranship” means to remove goods from one conveyance to another for the purpose of export;
 
@@ -222,7 +192,9 @@ PRELIMINARY
 
 “vessel” includes any ship or boat or other description of vessel used in navigation.
 
-(2) In this Act, a reference to a document or record shall include, in addition to a document or record on paper, a reference to any, or part of any —
+[7/96]
+
+(2) In this Act, any reference to a document or record shall include, in addition to a document or record on paper, a reference to any, or part of any —
 
 (a) document or record kept on any magnetic, optical, chemical or other medium;
 
@@ -236,9 +208,9 @@ PRELIMINARY
 
 ## PART II
 
-REGULATION AND CONTROL OF IMPORTATION AND EXPORTATION, ETC
+REGULATION AND CONTROL OF IMPORTATION AND EXPORTATION, ETC.
 
-### Regulations for registration, regulation and control of importation and exportation, etc
+### Regulations for registration, regulation and control of importation and exportation, etc.
 
 3\.—(1) The Board may, with the approval of the Minister, make regulations for the registration, regulation and control of all or any class of goods imported into, exported from, transhipped in or in transit through Singapore.
 
@@ -300,11 +272,11 @@ such particulars, information or documents relating to goods imported into, expo
 
 ### Exemption
 
-5\. The Minister may, in his discretion, either generally or in any particular case, and either permanently or for such period or periods as he may think fit, exempt any person or class of persons, or any conveyance or class of conveyance, or any goods or class of goods from all or any of the provisions of this Act or any regulations made thereunder; and in granting such exemption the Minister may impose such conditions as he may think fit.
+5\. The Minister may, in his discretion, either generally or in any particular case, and either permanently or for such period or periods as he may think fit, exempt, subject to such conditions as he thinks fit, any person or class of persons, or any conveyance or class of conveyance, or any goods or class of goods from all or any of the provisions of this Act or any regulations made thereunder.
 
-### Provisions as to issue and cancellation of licences
+### Provisions as to issue and cancellation of licences, etc.
 
-6\.—(1) Where provision is made by any regulations made under section 3 for the issue of any certificate, licence or permit by the Board, the Board may, if it thinks fit and subject to any express provision to the contrary contained in the regulations make provisions —
+6\.—(1) Where provision is made by any regulations made under section 3 for the issue of any certificate, licence or permit by the Board , the Board may, if it thinks fit and subject to any express provision to the contrary contained in the regulations, make provisions —
 
 (a) as to the issue and terms of the certificate, licence or permit and as to the cancellation or suspension thereof at any time;
 
@@ -312,11 +284,11 @@ such particulars, information or documents relating to goods imported into, expo
 
 (c) for the refund of all or part of any levy or fee paid for the issue of the certificate, licence or permit in such circumstances as may be permitted in the regulations.
 
-(2) Without prejudice to subsection (1)(a), any officer of the Board may at any time cancel the licence or permit if —
+(2) Without prejudice to subsection (1)(a), any officer of the Board may at any time cancel the certificate, licence or permit if —
 
 (a) any condition of the certificate, licence or permit is contravened; or
 
-(b) the officer is satisfied that the licence or permit was issued as a result of any declaration, statement, representation or information which is false in a material particular.
+(b) the officer is satisfied that the certificate, licence or permit was issued as a result of any declaration, statement, representation or information which is false in a material particular.
 
 ### Procedure for cancellation, etc., of certificate, licence or permit
 
@@ -430,7 +402,7 @@ shall be sufficient evidence that the electronic notice or the copy thereof has 
 
 (3) No order shall be made under this section to the prejudice of any person claiming to be the owner of, or to have an interest in, those goods, unless that person has had an opportunity of being heard, either personally or by an advocate and solicitor, by the District Court, to show cause why such an order should not be made.
 
-### Forfeiture of goods to include packages, etc
+### Forfeiture of goods to include packages, etc.
 
 14\. The provisions of this Act relating to the seizure and forfeiture of goods shall apply also to any packages in which the goods are found and to all the contents thereof and to any article used to conceal the goods.
 
@@ -466,7 +438,7 @@ shall be sufficient evidence that the electronic notice or the copy thereof has 
 
 (i) require the master of any vessel or the pilot of any aircraft to produce a complete manifest of the whole cargo of the vessel or aircraft and a complete list of stores carried by that vessel or aircraft.
 
-(3) An authorised officer may exercise, in respect of any vehicle, or of any vessel not exceeding 75 tons net registered tonnage as defined in section 2(2) of the Merchant Shipping Act (Cap. 179), the powers which are conferred upon a senior authorised officer by subsection (2) other than the powers conferred by paragraph (d) of that subsection.
+(3) An authorised officer may exercise, in respect of any vehicle, or of any vessel not exceeding 75 tons net tonnage, the powers which are conferred upon a senior authorised officer by subsection (2) other than the powers conferred by paragraph (d) of that subsection.
 
 (4) It shall be presumed in any proceedings arising out of any thing done under this section, unless the contrary is proved, that any authorised officer, not being a senior authorised officer, by whom the thing was done was acting in accordance with the general or special direction of a senior authorised officer.
 
@@ -530,7 +502,7 @@ shall be sufficient evidence that the electronic notice or the copy thereof has 
 
 ### Search warrants
 
-22\.—(1) Whenever it appears to a Magistrate or Justice of the Peace upon information and after such inquiry as he may consider necessary that there is probable cause to believe that in any dwelling-house, shop or other building or place there are concealed or deposited any goods or property liable to forfeiture under this Act, the Magistrate or Justice of the Peace may, by warrant directed to any senior authorised officer, empower that officer by day or night to enter that dwelling-house, shop or other building or place and there to search for and take possession of any goods or property reasonably suspected to be so liable to forfeiture and any books, documents or articles which may reasonably be believed to have a bearing on the case.
+22\.—(1) Whenever it appears to a Magistrate or a Justice of the Peace upon information and after such inquiry as he may consider necessary that there is probable cause to believe that in any dwelling-house, shop or other building or place there are concealed or deposited any goods or property liable to forfeiture under this Act, the Magistrate or the Justice of the Peace may, by warrant directed to any senior authorised officer, empower that officer by day or night to enter that dwelling-house, shop or other building or place and there to search for and take possession of any goods or property reasonably suspected to be so liable to forfeiture and any books, documents or articles which may reasonably be believed to have a bearing on the case.
 
 (2) The senior authorised officer referred to in subsection (1) may if it is necessary to do so —
 
@@ -560,11 +532,11 @@ shall be sufficient evidence that the electronic notice or the copy thereof has 
 
 to provide the authorised officer or senior authorised officer, with such reasonable assistance as he may require for the purposes of paragraph (a).
 
-### Powers of authorised officers to enter on certain premises
+### Powers of authorised officers to enter certain premises
 
-25\.—(1) For the purpose of exercising the powers conferred by sections 17 to 22, an authorised officer or a senior authorised officer, as the case may be, may, without warrant, enter upon any islet, landing place, wharf, dock or quay or upon the premises of the Port of Singapore Authority or the Civil Aviation Authority of Singapore or upon any railway.
+25\.—(1) For the purpose of exercising the powers conferred by sections 17 to 22, an authorised officer or a senior authorised officer, as the case may be, may, without warrant, enter upon any islet, landing place, wharf, dock, railway or quay or the premises of the Port of Singapore Authority or the Civil Aviation Authority of Singapore.
 
-(2) In this section, “railway” has the same meaning as in the Railways Act (Cap. 263).
+(2) In this section, “railway” has the same meaning as in the Railways Act [Cap. 263].
 
 ### Powers of arrest and search
 
@@ -580,7 +552,7 @@ to provide the authorised officer or senior authorised officer, with such reason
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $15,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-### Penalty for false declarations, etc
+### Penalty for false declarations, etc.
 
 28\.—(1) Any person who, being required by or by virtue of this Act or any regulations made thereunder to make any declaration, statement or representation or to produce any certificate, undertaking or document, or who, for the purpose of obtaining any certificate, licence, permit, sanction, authority or concession under this Act or any such regulations or of establishing any proposition of fact relevant to the administration of this Act or any such regulations —
 
@@ -634,9 +606,9 @@ except where it is necessary for the purposes of —
 
 (i) a prosecution under this Act or any regulations made thereunder;
 
-(ii) enabling an authorised officer or public officer to enforce a provision of this Act or any regulations made thereunder;
+(ii) enabling an authorised officer or a public officer to enforce a provision of this Act or any regulations made thereunder;
 
-(iii) enabling an authorised officer or public officer to investigate a suspected offence under this Act or any regulations made thereunder; or
+(iii) enabling an authorised officer or a public officer to investigate a suspected offence under this Act or any regulations made thereunder; or
 
 (iv) enabling a foreign government authority to investigate a suspected offence committed in a foreign country and where the conditions specified in subsection (4) are satisfied.
 
@@ -666,11 +638,11 @@ except where it is necessary for the purposes of —
 
 ### Abetment and attempts
 
-32\. Any person who abets, within the meaning of the Penal Code (Cap. 224), and any person who attempts to commit any offence, shall be guilty of an offence and shall be liable on conviction to the same punishment as that provided for the offence so abetted or attempted.
+32\. Any person who abets, within the meaning of the Penal Code [Cap. 224], and any person who attempts to commit any offence, shall be guilty of an offence and shall be liable on conviction to the same punishment as that provided for the offence so abetted or attempted.
 
 ### Jurisdiction of Courts
 
-33\. A District Court or a Magistrate’s Court shall have jurisdiction to hear and determine all prosecutions for offences under this Act or any regulations made thereunder; and a District Court shall, notwithstanding anything to the contrary in the Criminal Procedure Code (Cap. 68), have jurisdiction to impose the full penalty or punishment under this Act or any regulations made thereunder.
+33\. A District Court or a Magistrate’s Court shall have jurisdiction to hear and determine all prosecutions for offences under this Act or any regulations made thereunder; and a District Court shall, notwithstanding anything to the contrary in the Criminal Procedure Code [Cap. 68], have jurisdiction to impose the full penalty or punishment under this Act or any regulations made thereunder.
 
 ### Power of Board to remit penalties and restore goods seized or forfeited
 
@@ -704,7 +676,7 @@ except where it is necessary for the purposes of —
 
 38\. A copy of any document issued by the Board or filed or lodged with the Board and certified to be a true copy by an officer of the Board shall, in any proceedings under this Act or any regulations made thereunder, be admissible as evidence of the facts stated or contained therein.
 
-### Power to compound offences
+### Composition of offences
 
 39\.—(1) The Board or any person authorised in writing by the Board may, in its or his discretion, compound any offence under this Act or any regulations made thereunder which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding —
 
@@ -722,7 +694,7 @@ except where it is necessary for the purposes of —
 
 ### Officers to be deemed public servants
 
-41\. All authorised officers shall be deemed to be public servants for the purposes of the Penal Code (Cap. 224).
+41\. All authorised officers shall be deemed to be public servants for the purposes of the Penal Code [Cap. 224].
 
 ### Levy, fees and other charges
 
@@ -738,19 +710,15 @@ except where it is necessary for the purposes of —
 
 MISCELLANEOUS
 
-### Repeal
-
-44\. The Control of Imports and Exports Act (Cap. 56) and the Registration of Imports and Exports Act (Cap. 270) are repealed.
-
 ### Transitional and savings provisions
 
-45\.—(1) Any scheme, certificate, document, licence or permit granted before the commencement of this Act under the repealed Control of Imports and Exports Act (Cap. 56) or the repealed Registration of Imports and Exports Act (Cap. 270) or any order, rules or regulations made thereunder shall, except as otherwise expressly provided in this Act or in any other written law, continue and be deemed to have been granted or approved under the corresponding provisions of this Act or the regulations made thereunder.
+44\.—(1) Any scheme, certificate, document, licence or permit granted before 1st December 1995 under the repealed Control of Imports and Exports Act [Cap. 56, 1985 Ed.] or the repealed Registration of Imports and Exports Act [Cap. 270, 1985 Ed.] or any order, rules or regulations made thereunder shall, except as otherwise expressly provided in this Act or in any other written law, continue and be deemed to have been granted or approved under the corresponding provisions of this Act or the regulations made thereunder.
 
-(2) Any subsidiary legislation made under the repealed Control of Imports and Exports Act or the repealed Registration of Imports and Exports Act and in force immediately before the commencement of this Act shall, so far as it is not inconsistent with the provisions of this Act, continue in force as if made under this Act until it is revoked or cancelled by subsidiary legislation made under this Act.
+(2) Any subsidiary legislation made under the repealed Control of Imports and Exports Act or the repealed Registration of Imports and Exports Act and in force immediately before 1st December 1995 shall, so far as it is not inconsistent with the provisions of this Act, continue in force as if made under this Act until it is revoked or cancelled by subsidiary legislation made under this Act.
 
-(3) Any reference in any written law to the repealed Control of Imports and Exports Act or the repealed Registration of Imports and Exports Act shall be read as a reference to this Act.
+(3) Any reference in any written law to the repealed Control of Imports and Exports Act [Cap. 56, 1985 Ed.] or the repealed Registration of Imports and Exports Act [Cap. 270, 1985 Ed.] shall be read as a reference to this Act.
 
-(4) Any proceedings or cause of action pending or existing immediately before the commencement of this Act by or against the Board or any person acting on behalf of the Board under the repealed Control of Imports and Exports Act or the repealed Registration of Imports and Exports Act may be continued and enforced by or against the Board as it might have been continued and enforce by or against the Board or such person as if this Act had not been enacted.
+(4) Any proceedings or cause of action pending or existing immediately before 1st December 1995 by or against the Board or any person acting on behalf of the Board under the repealed Control of Imports and Exports Act or the repealed Registration of Imports and Exports Act may be continued and enforced by or against the Board as it might have been continued and enforced by or against the Board or such person as if this Act had not been enacted.
 
 (5) Any appointment made under the repealed Control of Imports and Exports Act and any person authorised under the repealed Registration of Imports and Exports Act shall, except as otherwise expressly provided in this Act, be deemed to have been made or authorised, as the case may be, under the corresponding provision of this Act.
 
@@ -758,123 +726,28 @@ MISCELLANEOUS
 
 ### Savings of rights of Government
 
-46\. This Act shall not affect the exercise of any right or prerogative of the Government.
-
-### Consequential amendments
-
-47\. The provisions of the Acts specified in the Schedule are amended in the manner provided in that Schedule.
-
-## THE SCHEDULE
-
-Consequential and Related Amendments to Other Acts
-
-the Copyright Act.
-
-
-
-
-(Chapter 63)
-
-1. Section 142 of the Copyright Act is amended —
-
-(a) by deleting the words “Control of Imports and Exports Act” in subsections (6) and (8) and substituting in each case the words “Regulation of Imports and Exports Act 1995”; and
-
-(b) by deleting the marginal reference “Cap. 56.” in subsections (6) and (8).
-
-the Economic Expansion Incentives
-
-
-
-
-(Relief from Income Tax) Act.
-
-
-
-
-(Chapter 86)
-
-2. The Economic Expansion Incentives (Relief from Income Tax) Act is amended —
-
-(a) by deleting the words “Registration of Imports and Exports Act, the Control of Imports and Exports Act” in section 35 and substituting the words “Regulation of Imports and Exports Act 1995”;
-
-(b) by deleting the marginal references “Cap. 270.” and “Cap. 56.” in section 35;
-
-(c) by deleting the words “Registration of Imports and Exports Act, or the Control of Imports and Exports Act,” in section 43 and substituting the words “Regulation of Imports and Exports Act 1995,”;
-
-(d) by deleting the marginal references “Cap. 270.” and “Cap. 56.” in section 43; and
-
-(e) by deleting the words “Registration of Imports and Exports Act or the Control of Imports and Exports Act” in section 44 and substituting the words “Regulation of Imports and Exports Act 1995”.
-
-the Exchange Control Act.
-
-
-
-
-(Chapter 99)
-
-3. The Exchange Control Act is amended —
-
-(a) by deleting the words “rules made under section 3(2)(a) (i) of the Registration of Imports and Exports Act” in section 25(5) and substituting the words “regulations made under section 3(2)(b) (i) of the Regulation of Imports and Exports Act 1995”;
-
-(b) by deleting the marginal reference “Cap. 270.” in section 25(5);
-
-(c) by deleting the words “Control of Imports and Exports Act, the Prohibition of Imports Order 1950, the Prohibition of Exports Order 1950, or any order” in paragraph 5 of Part III of the Fifth Schedule and substituting the words “Regulation of Imports and Exports Act 1995, the Control of Imports and Exports (General) Order, or any regulations”;
-
-(d) by deleting the marginal references “Cap. 56.”, “S 556/50” and “S 557/50” and the footnote relating thereto in paragraph 5 of the Fifth Schedule;
-
-(e) by deleting the words “Control of Imports and Exports Act” in paragraph 6 of Part III of the Fifth Schedule and substituting the words “Regulation of Imports and Exports Act 1995”; and
-
-(f) by deleting the words “or any order in substitution therefor made under the Control of Imports and Exports Act” in paragraph 7 of Part III of the Fifth Schedule and substituting the words “or any regulations in substitution therefor made under the Regulation of Imports and Exports Act 1995”.
-
-the Malaysia Revenue Vessels Act.
-
-
-
-
-(Chapter 170)
-
-4. The Malaysia Revenue Vessels Act is amended —
-
-(a) by deleting the words “sections 9, 13, 14, 16, 20 and 21 of the Control of Imports and Exports Act” in section 3(c) and substituting the words “sections 12, 16, 17, 19, 25 and 26 of the Regulation of Imports and Exports Act 1995”; and
-
-(b) by deleting the marginal reference “Cap. 56.” in section 3(c).
-
-the Port of Singapore Authority Act.
-
-
-
-
-(Chapter 236)
-
-5. The Port of Singapore Authority Act is amended —
-
-(a) by deleting the words “Control of Imports and Exports Act” in section 66(1)(x) and substituting the words “Regulation of Imports and Exports Act 1995”;
-
-(b) by deleting the marginal reference “Cap. 56.” in section 66(1)(x);
-
-(c) by deleting the words “Registration of Imports and Exports Act” in section 70(5) and substituting the words “Regulation of Imports and Exports Act 1995”; and
-
-(d) by deleting the marginal reference “Cap. 270.” in section 70(5).
-
-the Statistics Act.
-
-
-
-
-(Chapter 317)
-
-6\. The Third Schedule to the Statistics Act is amended by deleting the words “Registration of Imports and Exports Act (Chapter 270) and any rules” in the second column of item 3 and substituting the words “Regulation of Imports and Exports Act 1995 and any regulations”.
-
-the Trade Development Board Act.
-
-
-
-
-(Chapter 330)
-
-7. Section 15 (4) (a) of the Trade Development Board Act is amended —
-
-(a) by deleting the words “, the Control of Imports and Exports Act and the Registration of Imports and Exports Act” and substituting the words “and the Regulation of Imports and Exports Act 1995”; and
-
-(b) by deleting the marginal references “Cap. 56.” and “Cap. 270.”.
-
+45\. This Act shall not affect the exercise of any right or prerogative of the Government.
+
+## LEGISLATIVE HISTORY
+
+Regulation of Imports and Exports Act
+
+(CHAPTER 272A)
+
+This Legislative History is provided for the convenience of users of the Regulation of Imports and Exports Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 24 of 1995—Regulations of Imports and Exports Act 1995**|
+||Date of First Reading|25 May 1995|
+|||(Bill No. 19/95 published on 26 May 1995)|
+||Date of Second and Third Readings|7 July 1995|
+||Date of commencement|1 December 1995|
+|2.|**Act 7 of 1996—Maritime and Port Authority of Singapore Act 1996**|
+||(Consequential amendments made by)||
+||Date of First Reading|5 December 1995|
+|||(Bill No. 46/95 published on 6 December 1995)|
+||Date of Second and Third Readings|18 January 1996|
+||Date of commencement|2 February 1996|
+|3.|**1996 Revised Edition—Regulation of Imports and Exports Act**|
+||Date of operation|30 April 1996|
