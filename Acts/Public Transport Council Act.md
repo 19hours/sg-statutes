@@ -62,9 +62,9 @@
 
 - [22 Regulations](#Regulations)
 
-- [23 (Omitted)](#Omitted)
+- [23 (Repealed)](#Repealed)
 
-- [24 (Omitted)](#Omitted)
+- [24 (Repealed)](#Repealed)
 
 - [25 Transitional provisions](#Transitional-provisions)
 
@@ -204,13 +204,13 @@ LICENSING OF BUS SERVICES
 
 ### Bus service licences
 
-10\.—(1) Subject to this Part, the Council may, in its discretion, grant to any person applying therefor a licence (referred to in this Part as a bus service licence) to provide a bus service upon the route or routes therein specified, irrespective of whether or not any such route or any part thereof is specified in any other bus service licence.
+10\.—(1) Subject to his Part, the Council may, in its discretion, grant to any person applying therefor a licence (referred to in this Part as a bus service licence) to provide a bus service upon the route or routes therein specified, irrespective of whether or not any such route or any part thereof is specified in any other bus service licence.
 
 (2) A bus service licence shall be for a period not exceeding 3 years and the fee to be paid therefor by the person to whom any such licence is granted shall be in accordance with a scale of fees to be prescribed by the Council.
 
 (3) All fees received by the Council under subsection (2) shall be paid into the Consolidated Fund.
 
-(4) From and after the grant of a bus service licence under this section, no bus, other than the buses of the licensee, shall ply for hire along any route specified in the licence.
+(4) From and after the grant of a bus service licence under this section, no bus, other than the buses of the licensee, shall ply for hire any route specified in the licence.
 
 ### Matters to be considered by Council
 
@@ -252,7 +252,7 @@ LICENSING OF BUS SERVICES
 
 (4) If any licensee fails to comply with this section, the licensee and, if the licensee is a company, every director and manager thereof shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 and the court may on the application made by the Council order the licensee and, if the licensee is a company, a director or manager thereof to lodge the balance-sheet and the profit and loss account and the statements referred to in subsections (1) and (2) within such time as the court may determine.
 
-(5) Nothing in this section shall prevent the Council from taking any action to suspend or cancel the bus service licence granted to the licensee or to forfeit the whole or any part of any security deposited with the Accountant-General by the licensee or by his bank pursuant to a bank guarantee in accordance with section 19 for a contravention of subsection (1), (2) or (3).
+(5) Nothing in this section shall prevent the Council from taking an action to suspend or cancel the bus service licence granted to the licensee or to forfeit the whole or any part of any security deposited with the Accountant-General by the licensee or by his bank pursuant to a bank guarantee in accordance with section 19 for a contravention of subsection (1), (2) or (3).
 
 ### Investigation into affairs of a licensee
 
@@ -278,7 +278,7 @@ LICENSING OF BUS SERVICES
 
 (c) shall permit the licensee to have access at all reasonable times to all such books and documents so long as they are in his possession.
 
-(5) If any licensee or any officer or agent of the licensee fails to comply with the requirements of any notice issued under subsection (3) or fails or refuses to answer any question which is put to him by an inspector with respect to the affairs of the licensee, the inspector may certify the failure or refusal under his hand to the court, which may thereupon inquire into the case and, after hearing any witnesses against or on behalf of the alleged offender, deal with him in like manner as if he had been guilty of contempt of the court.
+(5) If any licensee or any officer or agent of the licensee fails to comply with the requirements of any notice issued under subsection (3) or fails or refuses to answer any question which is put to him by an inspector with respect to the affairs of the licensee, the inspector may certify the failure or refusal under his hand to the court, which may thereupon inquire into the case and, after hearing any witnesses against or on behalf of the alleged offender, deal with him in like as if he had been guilty of contempt of the court.
 
 (6) No person who is or has formerly been an officer or agent of a licensee shall be entitled to refuse to answer any question which is relevant or material to the investigation on the ground that his answer might tend to incriminate him but if he claims that the answer to any question might incriminate him and but for this subsection he would have been entitled to refuse to answer the question the answer to the question shall not be used in any subsequent criminal proceedings except in the case of a charge against him for making a false statement in answer to that question.
 
@@ -368,13 +368,13 @@ MISCELLANEOUS PROVISIONS
 
 (d) regulating the procedure of the Council.
 
-23\. \*[Omitted.]
+23\. 1[Omitted]
 
-\*This section repealed the Bus Services Licensing Authority Act (Chapter 31).
+1This section repealed the Bus Services Licensing Authority Act (Chapter 31).
 
-24\. †[Omitted.]
+24\. 2[Omitted]
 
-†This section amended section 106 of the Road Traffic Act (Chapter 276).
+2This section amended section 106 of the Road Traffic Act (Chapter 276).
 
 ### Transitional provisions
 
@@ -384,7 +384,7 @@ MISCELLANEOUS PROVISIONS
 
 [S 220/87]
 
-(3) Any rate of hire or fare prescribed for omnibuses and taxis under the Road Traffic Act [Cap. 276] prior to 14th August 1987 shall be deemed to be the rate of hire or fare approved for buses and taxis respectively under this Act and shall continue to apply until a new rate of hire or fare is approved by the Council.
+(3) Any rate of hire or fare prescribed for omnibuses and taxis under the Road Traffic Act [Cap. 276] prior to 14th August 1987 shall be deemed to be the rate of hire or fare approved for buses and taxis respectively under this Act and shall continue to apply until new rate of hire or fare is approved by the Council.
 
 FIRST SCHEDULE
 
@@ -398,11 +398,13 @@ Constitution of Council
 
 (a) the chief executive officer of the Singapore Bus Service (1978) Ltd.;
 
-(b) the chief executive officer of the Trans-Island Bus Services Ltd.;
+(b) the chief executive officer to the Trans-Island Bus Services Ltd.;
 
 (c) the chief executive officer of the company which is licensed to operate the Mass Rapid Transit System;
 
-(d) the chief executive officer of NTUC Workers’ Co-operative Commonwealth for Transport Ltd.; and
+(d) the chief executive officer of Comfort Transportation Pte Ltd; and
+
+[S 432/1994 wef 07/03/1994]
 
 (e) not more than 9 other members appointed by the Minister.
 
@@ -444,7 +446,7 @@ Meetings of Council
 
 (5) Where both the Chairman and the Deputy Chairman are absent at a meeting, such member as the members present may elect shall preside at that meeting.
 
-(6) If for any reason any chief executive officer referred to in paragraph 1(a), (b), (c) or (d) is unable to attend the meeting of the Council, he may nominate a representative to attend a particular meeting and his representative shall at the meeting be deemed for all purposes to be a member of the Council.
+(6) If for any reason any chief executive officer referred to in paragraph 1(a), (b), (c) or (d) is unable to attend the meeting of the Council, he may nominate a representative to attend the meeting and his representative shall at the meeting be deemed for all purposes to be a member of the Council.
 
 (7) Subject to the provisions of this Act, the Council may make rules to regulate its own procedures generally and, in particular, regarding the holding of meetings, the notice to be given of such meetings, the proceedings thereat, the keeping of minutes and the custody, production and inspection of such minutes.
 
@@ -470,7 +472,7 @@ Accounts to be kept
 
 Audit of accounts
 
-3.—(1) The accounts of the Council shall be audited by the Auditor-General or such other auditor as may be appointed annually by the Minister in consultation with the Auditor-General.
+3.—(1) The accounts of the Council shall be audited by the Auditor-General or such other auditor as may appointed annually by the Minister in consultation with the Auditor-General.
 
 (2) The remuneration of the auditor shall be paid out of the funds of the Council.
 
@@ -492,7 +494,7 @@ Audit of accounts
 
 Presentation of financial statements and audit reports
 
-4.—(1) As soon as the accounts of the Council and the financial statements have been audited in accordance with the provisions of this Act, a copy of the audited financial statements signed by the Chairman, together with a copy of any report made by the auditor, shall be submitted to the Minister.
+47.—(1) As soon as the accounts of the Council and the financial statements have been audited in accordance with the provisions of this Act, a copy of the audited financial statements signed by the Chairman, together with a copy of any report made by the auditor, shall be submitted to the Minister.
 
 (2) Where the Auditor-General is not the auditor of the Council, a copy of the audited financial statements and any report made by the auditor shall be forwarded to the Auditor-General at the same time they are submitted to the Council.
 
@@ -515,3 +517,5 @@ This Legislative History is provided for the convenience of users of the Public 
 ||Date of commencement|14 August 1987|
 |2.|**1988 Revised Edition—Public Transport Council Act (Chapter 259B)**|
 ||Date of operation|30 April 1988|
+|3.|**G.N. No. S 432/94—Public Transport Council Act (Amendment of First Schedule) Order 1994**|
+||Date of commencement|7 March 1994|
