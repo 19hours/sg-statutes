@@ -226,7 +226,13 @@ PRELIMINARY
 
 “food establishment” means any place or any premises or part thereof used for the sale or for the preparation or manufacture for sale, or for the storage or packing for sale, of food, whether cooked or not, intended for human consumption;
 
-“Health Officer” means any medical practitioner in the service of the Government who for the time being is carrying out the duties of a Health Officer arising out of or is connected with this Act or the regulations made thereunder;
+“Health Officer” means any medical practitioner who is appointed by the Commissioner or the Director to carry out the duties of a Health Officer under this Act or the regulations made thereunder;
+
+[26/2001 wef 01/09/2001]
+
+[4/2002 wef 01/07/2002]
+
+[5/2003 wef 01/04/2003]
 
 “HIV Infection” means Human Immunodeficiency Virus Infection;
 
@@ -1162,7 +1168,7 @@ Infectious Diseases
 
 [S 397/2000 wef 01/10/2000]
 
-(8) Human Immunodeficiency Virus Infection \.
+(8) Human Immunodeficiency Virus Infection (Non-acquired Immune Deficiency Syndrome)\.
 
 (8A) Legionellosis.
 
@@ -1196,9 +1202,15 @@ Infectious Diseases
 
 (a) Chancroid.
 
+(aa) Genital Herpes.
+
+[S 396/2001 wef 01/09/2001]
+
 (b) Gonorrhea.
 
-(c) Non specific urethritis.
+(c) Non-gonococcal urethritis.
+
+[S 396/2001 wef 01/09/2001]
 
 (d) Syphilis.
 
@@ -1306,6 +1318,13 @@ This Legislative History is provided for the convenience of users of the Infecti
 |||(Bill No. 2/2001 published on 13 January 2001)|
 ||Date of Second and Third Readings|22 February 2001|
 ||Date of commencement|1 April 2001|
+|18.|**Act 26 of 2001—Statutes (Miscellaneous Amendments and Repeal) Act 2001**|
+||Date of First Reading|11 July 2001|
+|||(Bill No. 24/2001 published on 12 July 2001)|
+||Date of Second and Third Readings|25 July 2001|
+||Date of commencement|1 September 2001 (except sections 3 and 17)|
+|19.|**G. N. No. S 396/2001—Infectious Diseases Act (Amendment of First Schedule) Notification 2001**|
+||Date of commencement|1 September 2001|
 ## COMPARATIVE TABLE
 
 Infectious Diseases Act
