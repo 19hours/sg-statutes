@@ -40,6 +40,8 @@
 
 - [14 Payments to Board](#Payments-to-Board)
 
+- [14A Issue of shares, etc.](#Issue-of-shares-etc)
+
 - [15 Establishment and administration of Tourism Fund](#Establishment-and-administration-of-Tourism-Fund)
 
 - [16 Purposes of Fund](#Purposes-of-Fund)
@@ -370,6 +372,12 @@ whether in Singapore or elsewhere, for the purpose of carrying out all or any of
 
 [11
 
+### Issue of shares, etc.
+
+14A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Board under this Act, or of any capital injection or other investment by the Government in the Board in accordance with any written law, the Board shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
+
+[5/2002 wef 15/07/2002]
+
 ### Establishment and administration of Tourism Fund
 
 15\.—(1) There shall be established a fund to be called the Tourism Fund which shall, subject to the directions of the Minister, be controlled and administered by the Board.
@@ -658,3 +666,8 @@ This Legislative History is provided for the convenience of users of the Singapo
 ||Date of commencement|20 November 1997|
 |10.|**1997 Revised Edition—Singapore Tourism Board Act**|
 ||Date of operation|20 December 1997|
+|11.|**Act 5 of 2002—Statutory Corporations (Capital Contribution) Act 2002**|
+||Date of First Reading|3 May 2002|
+|||(Bill No. 7/2002 published on 4 May 2002)|
+||Date of Second and Third Readings|24 May 2002|
+||Dates of commencement|15 July 2002 (except item 18 in the Schedule)|
