@@ -278,7 +278,7 @@ PRELIMINARY
 
 “Chief Executive Officer” means the Chief Executive Officer appointed under section 38;
 
-“Collector” means any officer appointed by the President to be a Collector of Land Revenue or a Deputy Collector of Land Revenue;
+“Collector” means any officer appointed by the Minister for Law to be a Collector of Land Revenue or a Deputy Collector of Land Revenue;
 
 “commercial property” means any flat, house or building or any part thereof which is permitted to be used pursuant to the Planning Act (Cap. 232) or any other written law for the purpose of carrying on any business or which is lawfully so used;
 
@@ -1912,7 +1912,7 @@ FINANCIAL PROVISIONS
 
 (a) moneys paid for the purposes of a pension scheme or schemes or a provident fund or funds established under section 42;
 
-(b) moneys paid for the purposes of any separate fund or funds which the Board may by any written law or by any direction or sanction of the President or the Minister under the provisions of this Act be required to administer; or
+(b) moneys paid for the purposes of any separate fund or funds which the Board may by any written law or by any direction or sanction of the Minister under the provisions of this Act be required to administer; or
 
 (c) moneys deposited by any person in connection with his tender to the Board.
 
@@ -4680,3 +4680,8 @@ This Legislative History is provided for the convenience of users of the Housing
 ||Date of commencement|7 June 1996|
 |24.|**1997 Revised Edition—Housing and Development Act**|
 ||Date of operation|30 May 1997|
+|25.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
+||Date of First Reading|11 July 1997|
+|||(Bill No. 6/97 published on 12 July 1999)|
+||Date of Second and Third Readings|25 August 1997|
+||Date of commencement|1 October 1997 (except section 3)|
