@@ -1,6 +1,6 @@
-**Singapore Management University Act 2000**
+**Singapore Management University Act**
 
-**(No. 7 of 2000)**
+**(CHAPTER 302A)**
 
 **Table of Contents**
 
@@ -8,9 +8,7 @@
 
 [**Preamble**](#Preamble)
 
-[**Enacting Formula**](#Enacting-Formula)
-
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -28,35 +26,17 @@
 
 - [9 Act to prevail over constituent documents, etc.](#Act-to-prevail-over-constituent-documents-etc)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Singapore Management University Act
 
-ACTS SUPPLEMENT
+(CHAPTER 302A)
 
-Published by Authority
+(Original Enactment: Act 7 of 2000)
 
-NO. 7]
+REVISED EDITION 2001
 
-Friday, March 17
-
-[2000
-
-The following Act was passed by Parliament on 21st February 2000 and assented to by the President on 7th March 2000:—
-
-Singapore Management University Act 2000
-
-(No. 7 of 2000)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-7th March 2000.
-
-Date of Commencement: 1st April 2000
+(31st December 2001)
 
 An Act to provide for certain matters relating to the operation of a university known as the Singapore Management University.
 
@@ -64,11 +44,11 @@ Whereas a company limited by guarantee has been incorporated under the Companies
 
 And whereas it is desirable that statutory provision be made in relation to the operation of the Singapore Management University and certain of the powers of the company.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st April 2000]
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Singapore Management University Act 2000 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Singapore Management University Act.
 
 ### Interpretation
 
@@ -86,7 +66,7 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 ### Appointment to Board
 
-4\. —(1) The Board shall consist of such number of trustees as the Minister may, in his discretion, appoint.
+4\.—(1) The Board shall consist of such number of trustees as the Minister may, in his discretion, appoint.
 
 (2) The Minister may, at any time, remove or replace any trustee and appoint new or additional trustees to the Board.
 
@@ -94,7 +74,7 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 5\.—(1) The prior written consent of the Minister is required for —
 
-(a) the admission of any person as a member of the university company;
+(a) the admission of any person as a member of the university company ;
 
 (b) the disposal of the whole or substantially the whole of the university company’s undertaking or property;
 
@@ -102,13 +82,13 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 (d) the addition, deletion or alteration of any provision of the constituent documents of the university company.
 
-(2) The requirement under subsection (1) is in addition to the requirements prescribed by the Companies Act (Cap. 50) in respect of the matters referred to in subsection (1)(a) to (d).
+(2) The requirement under subsection (1) is in addition to the requirements prescribed by the Companies Act in respect of the matters referred to in subsection (1)(a) to (d).
 
 (3) Any act done or agreement made in contravention of subsection (1) shall have no effect and be unenforceable at law.
 
 ### Provision of funds
 
-6\. —(1) The Minister shall pay to the university company such moneys as may be provided by Parliament from time to time for the funding of the university company.
+6\.—(1) The Minister shall pay to the university company such moneys as may be provided by Parliament, from time to time, for the funding of the university company.
 
 (2) All moneys paid to the university company under subsection (1) shall only be applied or expended by the university company for such of the objects provided by its constituent documents as the Minister may allow.
 
@@ -126,13 +106,30 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 ### Application of Societies Act to student bodies
 
-8\. —(1) Notwithstanding anything to the contrary in the Societies Act (Cap. 311), the provisions of that Act shall have effect in relation to any student body constituted pursuant to the provisions of the constituent documents of the university company.
+8\.—(1) Notwithstanding anything to the contrary in the Societies Act (Cap. 311), the provisions of that Act shall have effect in relation to any student body constituted pursuant to the provisions of the constituent documents of the university company.
 
 (2) The Minister responsible for societies may, by order published in theGazette, exempt any student body referred to in subsection (1) from all or any of the provisions of the Societies Act subject to such conditions as may be specified in the order.
 
 ### Act to prevail over constituent documents, etc.
 
-9\. —(1) Any provision of the constituent documents, or any regulation of the university company made in pursuance thereof, that is inconsistent with this Act shall, to the extent of the inconsistency, be void.
+9\.—(1) Any provision of the constituent documents, or any regulation of the university company made in pursuance thereof, that is inconsistent with any provision of this Act shall, to the extent of the inconsistency, be void.
 
 (2) Nothing in this Act shall be construed to excuse or exempt the university company from complying with any written law that, apart from this Act, would apply to the university company.
 
+## LEGISLATIVE HISTORY
+
+Singapore Management University Act
+
+(CHAPTER 302A)
+
+This Legislative History is provided for the convenience of users of the Singapore Management University Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 7 of 2000—Singapore Management University Act 2000**|
+||Date of First Reading|17.1.2000|
+|||(Bill No. 8/2000 published on 18.1.2000)|
+||Date of Second Reading|21.2.2000|
+||Date of commencement|1.4.2000|
+|2.|**2001 Revised Edition—Singapore Management University Act**|
+||Date of operation|31 December 2001|
