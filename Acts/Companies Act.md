@@ -386,7 +386,7 @@
 
 - [155 Disqualification for persistent default in relation to delivery of documents to Registrar](#Disqualification-for-persistent-default-in-relation-to-delivery-of-documents-to-Registrar)
 
-- [156 Disclosure of interests in contracts, property, offices, etc.](#Disclosure-of-interests-in-contracts-property-offices-etc)
+- [156 Disclosure of interests in transactions, property, offices, etc.](#Disclosure-of-interests-in-transactions-property-offices-etc)
 
 - [157 As to the duty and liability of officers](#As-to-the-duty-and-liability-of-officers)
 
@@ -1058,7 +1058,7 @@
 
 [**FIRST SCHEDULE Repealed Written Laws**](#FIRST-SCHEDULE-Repealed-Written-Laws)
 
-[**SECOND SCHEDULE Fees to be Paid to the Registrar**](#SECOND-SCHEDULE-Fees-to-be-Paid-to-the-Registrar)
+[**SECOND SCHEDULE Fees to be paid to the Registrar**](#SECOND-SCHEDULE-Fees-to-be-paid-to-the-Registrar)
 
 [**THIRD SCHEDULE**](#THIRD-SCHEDULE)
 
@@ -1088,7 +1088,7 @@
 
 REVISED EDITION 1994
 
-(15th March 1994)
+(1st March 1971)
 
 An Act relating to companies.
 
@@ -1327,6 +1327,10 @@ and includes any document accompanying the return;
 
 “articles” means articles of association;
 
+“audit requirements” means the requirements of sections 201(4) and (4A) and 207;
+
+[8/2003 wef 15/05/2003]
+
 “banking corporation” means a licensed bank under any written law relating to banking;
 
 “books” includes any account, deed, writing or document and any other record of information however compiled, recorded or stored whether in written or printed form or microfilm by electronic process or otherwise;
@@ -1344,6 +1348,10 @@ and includes any document accompanying the return;
  as the case may require; and
 
 (b) in relation to a foreign company, a branch register of members of the company kept in pursuance of section 379;
+
+“business day” means any day other than a Saturday, Sunday or public holiday;
+
+[8/2003 wef 15/05/2003]
 
 “certified”, in relation to a copy of a document, means certified in the prescribed manner to be a true copy of the document and, in relation to a translation of a document, means certified in the prescribed manner to be a correct translation of the document into the English language;
 
@@ -2017,6 +2025,10 @@ ADMINISTRATION OF THIS ACT
 
 [15/84]
 
+(5) An accounting firm shall not knowingly consent to be appointed, and shall not knowingly act, as auditor for any company and shall not prepare, for or on behalf of a company, any report required by this Act to be prepared by an auditor of the company if any partner of the firm (whether or not he is a public accountant) is a person described in subsection (1)(b), (c) or (d).
+
+[5/2004 wef 01/04/2004]
+
 (6) If a firm contravenes subsection (5) each partner of the firm shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
 
 [15/84]
@@ -2573,25 +2585,37 @@ Powers
 
 (a) is undesirable;
 
-(b) is identical to that of any other company, corporation or business name;
-
-(c) so nearly resembles the name of another company, corporation or business name as to be likely to be mistaken for it; or
+(b) is identical to that of any other company, corporation or business name; or
 
 (d) is a name of a kind that the Minister has directed the Registrar not to accept for registration.
 
-(2) Notwithstanding anything in this section and section 28, other than subsection (4) thereof, where the Registrar is satisfied that a company has been registered by a name (whether through inadvertence or otherwise and whether originally or by change of name) which —
+(2) Notwithstanding anything in this section and section 28 (other than section 28(4)), where the Registrar is satisfied that the company has been registered (whether through inadvertence or otherwise) by a name which —
 
-(a) is identical to that of any other company or corporation; or
+(a) is a name referred to in subsection (1)(a), (b) or (d); or
 
-(b) so nearly resembles the name of another company or corporation as to be likely to be mistaken for it,
+(b) so nearly resembles the name of another company or corporation or a business name as to be likely to be mistaken for it,
 
-the Registrar, may direct the first-mentioned company to change its name and the company shall comply with that direction within 6 weeks after the date of the direction or such longer period as the Registrar allows and if the company fails so to comply the company and its officers shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 and also to a default penalty.
+the Registrar may direct the first-mentioned company to change its name, and the company shall comply with the direction within 6 weeks after the date of the direction or such longer period as the Registrar may allow, unless the direction is annulled by the Minister.
 
-[15/84]
+[12/2002 wef 13/01/2003]
 
-[13/87]
+(2A) Any person may apply, in writing, to the Registrar to give a direction to a company under subsection (2) on a ground referred to in that subsection; but the Registrar shall not consider any application to give a direction to a company on the ground referred to in subsection (2)(b) unless the Registrar receives the application within 12 months from the date of incorporation of the company.
 
-(3) In subsection (1), “business name” has the meaning assigned to that expression in the Business Registration Act [Cap. 32].
+[12/2002 wef 13/01/2003]
+
+(2B) If the company fails to comply with subsection (2), the company and its officers shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 and also to a default penalty.
+
+[12/2002 wef 13/01/2003]
+
+(2C) The Registrar may, if he is satisfied that the company to which the direction under subsection (2) was given had applied for registration under that name in bad faith, require the company to pay the Registrar such fees as may be prescribed by the Minister, and such fees shall be recoverable as a debt due to the Government.
+
+[12/2002 wef 13/01/2003]
+
+(2D) The Registrar may, by publication in theGazette, make such rules as he considers appropriate for the purposes of determining the matters referred to in subsections (1) and (2).
+
+[12/2002 wef 13/01/2003]
+
+(3) In this section and section 28, “business name” has the meaning assigned to that expression in the Business Registration Act [Cap. 32].
 
 [15/84]
 
@@ -2599,13 +2623,13 @@ the Registrar, may direct the first-mentioned company to change its name and the
 
 [15/84]
 
-(5) A company aggrieved by the decision of the Registrar under subsection (2)may within 30 days of the date of the decision appeal to the Minister whose decision shall be final.
+(5) A company aggrieved by the decision of the Registrar under subsection (2) or (2C) may within 30 days of the date of the decision appeal to the Minister whose decision shall be final.
 
 [15/84]
 
 (6) The Minister shall cause a direction given by him under subsection (1) to be published in theGazette.
 
-(7) A limited company shall have either “Limited” or “Berhad” as part of and at the end of its name.
+(7) Subject to section 29, a limited company shall have either “Limited” or “Berhad” as part of and at the end of its name.
 
 (8) A private company shall have the word “Private” or “Sendirian” as part of its name, inserted immediately before the word “Limited” or “Berhad” or, in the case of an unlimited company, at the end of its name.
 
@@ -2625,7 +2649,7 @@ the Registrar, may direct the first-mentioned company to change its name and the
 
 (c) the name under which a foreign company proposes to be registered, either originally or on change of name.
 
-(11) A company shall not be registered under section 19(1) and the Registrar shall not approve the change of name of a company under section 28(2) unless the name which it is proposed to be registered or the proposed new name, as the case may be, has been reserved under subsection (12).
+(11) A company shall not be registered under section 19(3) and the Registrar shall not approve the change of name of a company under section 28(2) unless the name which it is proposed to be registered or the proposed new name, as the case may be, has been reserved under subsection (12).
 
 [15/84]
 
@@ -2641,7 +2665,7 @@ he shall reserve the proposed name for a period of two months from the date of t
 
 (13) If, at any time during a period for which a name is reserved, application is made to the Registrar for an extension of that period and the Registrar is satisfied as to the bona fides of the application, he may extend that period for a further period of two months.
 
-(14) During a period for which a name is reserved, no company (other than the intended company in respect of which the name is reserved) shall be registered under this Act, whether originally or on change of name, under the reserved nameor under any other name that, in the opinion of the Registrar, so closely resembles the reserved name as to be likely to be mistaken for that name.
+(14) During a period for which a name is reserved, no company (other than the intended company in respect of which the name is reserved) shall be registered under this Act, whether originally or on change of name, under the reserved name.
 
 [22/93]
 
@@ -2657,17 +2681,39 @@ he shall reserve the proposed name for a period of two months from the date of t
 
 28\.—(1) A company may by special resolution resolve that its name should be changed to a name by which the company could have been registered without contravention of section 27(1).
 
-(2) If the Registrar approves the name which the company has resolved should be its new name he shall on payment of the prescribed fee issue a certificate of incorporation of the company under the new name and upon the issue of such certificate of incorporation the change of name shall become effective.
+(2) If the Registrar approves the name which the company has resolved should be its new name, he shall register the company under the new name and issue to the company a notice of incorporation of the company under the new name and, upon the issue of such notice, the change of name shall become effective.
 
-(3) If the name of a company is (whether through inadvertence or otherwise and whether originally or by change of name) a name by which the company could not be registered without contravention of section 27(1), the company may by special resolution change its name to a name by which the company could be registered without contravention of that subsection and, if the Registrar so directs, shall so change it within 6 weeks after the date of the direction or such longer period as the Registrar allows unless the Minister by written notice annuls such direction, and if the company fails to comply with the direction it shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 and also to a default penalty.
+[12/2002 wef 13/01/2003]
 
-[15/84]
+(3) If the name of a company is, whether through inadvertence or otherwise or whether originally or by a change of name —
+
+(a) a name by which the company could not be registered without contravention of section 27(1); or
+
+(b) a name that so nearly resembles the name of another company or corporation or a business name as to be likely to be mistaken for it,
+
+the company may by special resolution change its name to a name that is not a name referred to in paragraph (a) or (b) and, if the Registrar so directs, shall so change it within 6 weeks after the date of the direction or such longer period as the Registrar may allow, unless the direction is annulled by the Minister.
+
+[12/2002 wef 13/01/2003]
+
+(3A) Any person may apply in writing to the Registrar to give a direction to a company under subsection (3) on a ground referred to in that subsection; but the Registrar shall not consider any application to give a direction to a company on the ground referred to in subsection (3)(b) unless the Registrar receives the application within 12 months from the date of change of name of the company.
+
+[12/2002 wef 13/01/2003]
+
+(3B) If the company fails to comply with subsection (3), the company and its officers shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 and also to a default penalty.
+
+[12/2002 wef 13/01/2003]
+
+(3C) Subsections (2C) and (5) of section 27 shall, with the necessary modifications, apply in relation to a company directed under subsection (3) to change its name as they apply in relation to a company directed under section 27(2) to change its name.
+
+[12/2002 wef 13/01/2003]
 
 (4) Where the name of a company incorporated pursuant to any corresponding previous written law has not been changed since 29th December 1967, the Registrar shall not, except with the approval of the Minister, exercise his power under subsection (3) to direct the company to change its name.
 
 [S 258/67]
 
-(5) Where, on 29th December 1967, a company which is a private company does not have the word “Private” or “Sendirian” as part of its name immediately before the word “Limited” or “Berhad” or in the case of an unlimited company at the end of its name, the company shall be deemed to have altered its name to include the word “Private” or “Sendirian” immediately before the word “Limited” or “Berhad” or in the case of an unlimited company at the end of its name and the Registrar shall as soon as practicable after that date alter the name of the company set forth in the memorandum accordingly and issue a new certificate of incorporation in the name of the company as so altered.
+(5) Upon the application of a company and payment of the prescribed fee, the Registrar shall issue to the company a certificate, under his hand and seal, confirming the incorporation of the company under the new name.
+
+[12/2002 wef 13/01/2003]
 
 (6) A change of name pursuant to this Act shall not affect the identity of the company or any rights or obligations of the company or render defective any legal proceedings by or against the company, and any legal proceedings that might have been continued or commenced by or against it by its former name may be continued or commenced by or against it by its new name.
 
@@ -5892,21 +5938,21 @@ Where a disqualified person is sentenced to imprisonment, the disqualifications 
 
 [15/84]
 
-### Disclosure of interests in contracts, property, offices, etc.
+### Disclosure of interests in transactions, property, offices, etc.
 
-156\.—(1) Subject to this section, every director of a company who is in any way, whether directly or indirectly, interested in a contract or proposed contract with the company shall as soon as practicable after the relevant facts have come to his knowledge declare the nature of his interest at a meeting of the directors of the company.
+156\.—(1) Subject to this section, every director of a company who is in any way, whether directly or indirectly, interested in a transaction or proposed transaction with the company shall as soon as practicable after the relevant facts have come to his knowledge declare the nature of his interest at a meeting of the directors of the company.
 
-(2) The requirements of subsection (1) shall not apply in any case where the interest of the director consists only of being a member or creditor of a corporation which is interested in a contract or proposed contract with the first-mentioned company if the interest of the director may properly be regarded as not being a material interest.
+(2) The requirements of subsection (1) shall not apply in any case where the interest of the director consists only of being a member or creditor of a corporation which is interested in a transaction or proposed transaction with the first-mentioned company if the interest of the director may properly be regarded as not being a material interest.
 
-(3) A director of a company shall not be deemed to be interested or to have been at any time interested in any contract or proposed contract by reason only —
+(3) A director of a company shall not be deemed to be interested or to have been at any time interested in any transaction or proposed transaction by reason only —
 
-(a) in a case where the contract or proposed contract relates to any loan to the company — that he has guaranteed or joined in guaranteeing the repayment of the loan or any part of the loan; or
+(a) in a case where the transaction or proposed transaction relates to any loan to the company — that he has guaranteed or joined in guaranteeing the repayment of the loan or any part of the loan; or
 
-(b) in a case where the contract or proposed contract has been or will be made with or for the benefit of or on behalf of a corporation which by virtue of section 6 is deemed to be related to the company — that he is a director of that corporation,
+(b) in a case where the transaction or proposed transaction has been or will be made with or for the benefit of or on behalf of a corporation which by virtue of section 6 is deemed to be related to the company — that he is a director of that corporation,
 
 and this subsection shall have effect not only for the purposes of this Act but also for the purposes of any other law, but shall not affect the operation of any provision in the articles of the company.
 
-(4) For the purposes of subsection (1), a general notice given to the directors of a company by a director to the effect that he is an officer or member of a specified corporation or a member of a specified firm and is to be regarded as interested in any contract which may, after the date of the notice, be made with that corporation or firm shall be deemed to be a sufficient declaration of interest in relation to any contract so made if it specifies the nature and extent of his interest in the specified corporation or firm and his interest is not different in nature or greater in extent than the nature and extent so specified in the general notice at the time any contract is so made, but no such notice shall be of effect unless either it is given at a meeting of the directors or the director takes reasonable steps to ensure that it is brought up and read at the next meeting of the directors after it is given.
+(4) For the purposes of subsection (1), a general notice given to the directors of a company by a director to the effect that he is an officer or member of a specified corporation or a member of a specified firm and is to be regarded as interested in any transaction which may, after the date of the notice, be made with that corporation or firm shall be deemed to be a sufficient declaration of interest in relation to any transaction so made if it specifies the nature and extent of his interest in the specified corporation or firm and his interest is not different in nature or greater in extent than the nature and extent so specified in the general notice at the time any transaction is so made, but no such notice shall be of effect unless either it is given at a meeting of the directors or the director takes reasonable steps to ensure that it is brought up and read at the next meeting of the directors after it is given.
 
 (5) Every director of a company who holds any office or possesses any property whereby whether directly or indirectly duties or interests might be created in conflict with his duties or interests as director shall declare at a meeting of the directors of the company the fact and the nature, character and extent of the conflict.
 
@@ -5920,11 +5966,11 @@ as the case requires.
 
 (7) The secretary of the company shall record every declaration under this section in the minutes of the meeting at which it was made.
 
-(8) For the purposes of this section, an interest of a member of a director’s family shall be treated as an interest of the director .
+(8) For the purposes of this section, an interest of a member of a director’s family shall be treated as an interest of the director and the words “member of a director’s family” shall include his spouse, son, adopted son, step-son, daughter, adopted daughter and step-daughter.
 
 [10/74]
 
-(9) Subject to subsection (3), this section shall be in addition to and not in derogation of the operation of any rule of law or any provision in the articles restricting a director from having any interest in contracts with the company or from holding offices or possessing properties involving duties or interests in conflict with his duties or interests as a director.
+(9) Subject to subsection (3), this section shall be in addition to and not in derogation of the operation of any rule of law or any provision in the articles restricting a director from having any interest in transactions with the company or from holding offices or possessing properties involving duties or interests in conflict with his duties or interests as a director.
 
 (10) Any director of a company who fails to comply with any of the provisions of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year.
 
@@ -7162,7 +7208,7 @@ shall, except where otherwise expressly provided by this Act within one month af
 
 189\.—(1) The books containing the minutes of proceedings of any general meeting shall be kept by the company at the registered office or the principal place of business in Singapore of the company, and shall be open to the inspection of any member without charge.
 
-(2) Any member shall be entitled to be furnished within 14 days after he has made a request in writing in that behalf to the company with a copy of any minutes specified in subsection (1) at a charge not exceeding $1 for every page thereof.
+(2) Any member shall be entitled to be furnished within 14 days after he has made a request in writing in that behalf to the company with a copy of any minutes specified in at a charge not exceeding $1 for every page thereof.
 
 [15/84]
 
@@ -8104,13 +8150,19 @@ requiring particulars of all emoluments paid to or receivable by the auditor of 
 
 (2) An auditor shall, in a report under this section, state —
 
-(a) whether the accounts and, if the company is a holding company for which consolidated accounts are prepared, the consolidated accounts are in his opinion properly drawn up —
+(a) whether the accounts and, if the company is a holding company for which consolidated accounts are prepared, the consolidated accounts are in his opinion —
 
-(i) so as to give a true and fair view of the matters required by section 201 to be dealt with in the accounts and, if there are consolidated accounts, in the consolidated accounts; and
+(i) in compliance with the requirements of the Accounting Standards and give a true and fair view of the matters required by section 201 to be dealt with in the accounts and, as the case may be, the consolidated accounts; and
+
+[Act 12/2002 wef 01/01/2003]
 
 (ii) in accordance with this Act so as in the case of a balance-sheet to give a true and fair view of the company’s affairs and in the case of a profit and loss account to give a true and fair view of the company’s profit or loss;
 
-(b) whether the accounting and other records and the registers required by this Act to be kept by the company and, if it is a holding company, by the subsidiaries other than those of which he has not acted as auditor have been, in his opinion, properly kept in accordance with this Act;
+(aa) if the accounts or consolidated accounts do not comply with any requirement of the Accounting Standards and the approval of the Registrar under section 201(14) to such non-compliance has not been obtained, whether such non-compliance is, in the opinion of the auditor, necessary for the accounts or consolidated accounts to give a true and fair view of any matter required by section 201 to be dealt with in them;
+
+[Act 12/2002 wef 01/01/2003]
+
+(b) whether the accounting and other records required by this Act to be kept by the company and, if it is a holding company, by the subsidiaries other than those of which he has not acted as auditor have been, in his opinion, properly kept in accordance with this Act;
 
 (c) in the case of consolidated accounts —
 
@@ -8124,13 +8176,13 @@ requiring particulars of all emoluments paid to or receivable by the auditor of 
 
 (d) any defect or irregularity in the accounts or consolidated accounts and any matter not set out in the accounts or consolidated accounts without regard to which a true and fair view of the matters dealt with by the accounts or consolidated accounts would not be obtained; and
 
-(e) if he is not satisfied as to any matter referred to in paragraph (a), (b) or (c) , his reasons for not being so satisfied.
+(e) if he is not satisfied as to any matter referred to in paragraph (a), (aa), (b) or (c) , his reasons for not being so satisfied.
 
 (3) It is the duty of an auditor of a company to form an opinion as to each of the following matters:
 
 (a) whether he has obtained all the information and explanations that he required;
 
-(b) whether proper accounting and other records, including registers, have been kept by the company as required by this Act;
+(b) whether proper accounting and other records, excluding registers, have been kept by the company as required by this Act;
 
 (c) whether the returns received from branch offices of the company are adequate;
 
@@ -12586,339 +12638,1273 @@ The whole.
 
 SECOND SCHEDULE
 
-Sections 8(5), (6), 9(2), (3), 37(1), 411 S 139/87; S 429/90; S 279/91; S 339/91.
+Section 8(5) and (6)
 
-Fees to be Paid to the Registrar
+Fees to be paid to the Registrar
 
-By a Company having a Share Capita1
+Item No.
 
-1. For the incorporation of a local company with share capital and the issue of a certificate of incorporation by the Registrar
+Section or other provision under which transaction is carried out
+
+Transaction Incorporation of Company
+
+Fees
+
+1.
+
+27 (10), (11) and (12) and 28(2)
+
+Application for reservation of name or approval of change of name
+
+$15 upon approval of each name
+
+(applicable to both companies and foreign companies)
+
+2.
+
+27 (10), (11) and (12) and 28(2)
+
+Appeal for approval of name application or appeal for change of name
+
+$15 per appeal
+
+(applicable to both companies and foreign companies)
+
+3.
+
+27 (13)
+
+Application for extension of reservation period for approved name
+
+$10
+
+(applicable to both companies and foreign companies)
+
+4.
+
+19 and 143(1)
+
+Incorporation of public company having a share capital
 
 $300
 
-S 279/91.
+5.
 
-2.Deleted by S 28/2002, wef 15/01/2002.
+19 and 143(1)
 
-3.Deleted by S 28/2002, wef 15/01/2002.
-
-4. For registration of a company not having a share capital
+Incorporation of public company not having a share capital
 
 $600
 
-S 279/91
+6.
 
-5.(Deleted by S 279/91).
+19 and 143(1)
 
-6.(Deleted by S 279/91).
-
-Other Fees
-
-7. For every application for consent of the Minister to use of a name by a corporation and order of the Minister granting consent to use of a name by a corporation
-
-$100
-
-8. On submitting any other application to the Minister under the Act
-
-$100
-
-9. For every approval of the Registrar to the change of the name of a company (otherwise than a change of name directed by the Registrar pursuant to section 28(3) or a change of name pursuant to section 29(2)
-
-$50
-
-10. For perusal of the memorandum or articles of a company in connection with an application for a licence under section 29, and the granting of a licence by the Minister to dispense with the word “Berhad” or “Limited” in the name of a company
-
-$100
-
-11.Deleted by S 28/2002, wef 15/01/2002.
-
-12. For an approval of the Minister to alter the memorandum or articles of a company
-
-$100
-
-13. On lodgment of request to the Official Receiver to exercise the powers conferred by section 345 or 347*
-
-$10
-
-*To be paid to Official Receiver
-
-14. For every act done by the Official Receiver as representing a defunct company under section 345*
-
-$25
-
-*To be paid to Official Receiver
-
-15. For every act done by the Official Receiver as representing a defunct company under section 347*
-
-$25
-
-*To be paid to Official Receiver
-
-16. On the late lodging of any document under the Act after the period prescribed by law, in addition to any other fee
-
-$100
-
-The Registrar, if satisfied that just cause existed for the late lodgment may waive in whole or in part the additional fee.
-
-17. For registration of a foreign company —
-
-(a) where the company has a share capital which does not exceed $100,000
-
-$1,200
-
-(b) where the company has a share capital which exceeds $100,000, in addition to the fee of $1,200 in paragraph (a), the following fees:
-
-(i) for every $100,000 of nominal share capital or part of $100,000 after the first $100,000 up to $1,000,000
-
-$400
-
-(ii) for every $1,000,000 of nominal share capital or part of $1,000,000 after the first $1,000,000
+Incorporation of private company
 
 $300
 
-(c) where the fees prescribed in paragraphs (a) and (b) are not applicable
+7.
 
-$1,200
+61 (2) (a) and (c)
 
-18. On lodging by a foreign company of notice of increase in share capital — one half of the amount equal to the difference (if any) between the amount which would have been payable under the Act on first registration by reference to its capital as increased and the amount which would have been payable under the Act by reference to its capital immediately before the increase:
-
-except that no foreign company shall be liable to pay in respect of nominal share capital on registration or thereafter any amount of fees greater than $35,000 taking into account in the case of fees payable on an increase of share capital after registration the fees paid on registration.";
-
-19. For registering particulars of each series of debentures where more than one issue in the series
+Lodgment of statement in lieu of prospectus and lodgment of declaration of compliance by company that has not issued prospectus
 
 $10
 
-20. On an application for the approval and reservation of names — for each name applied for, whether or not approved and reserved
+Company particulars (including changes to particulars)
 
-$15
+8.
 
-20A. On an application submitted electronically for the approval and reservation of names
+26 (2) and 28(2)
 
-$ 15 for each name approved
-
-20B. On an application for appeal on the approval and reservation of names submitted electronically
-
-$15 for each name applied
-
-21. For granting extension of time for the reservation of a name for a further period after the first reservation
+Lodgment of notice of resolution for change of company name
 
 $10
 
-22. On lodging articles of association of a company
+9.
+
+—
+
+Lodgement of notice of resolution pertaining to any other matter
 
 $10
 
-23. On lodging a copy of any special resolution, e.g. for altering the memorandum or articles of association of a company
+10.
+
+143 (1) and 372(1)(d)
+
+Lodgment of notice of change of situation of registered office or of office hours
 
 $10
 
-24. On lodging a statement in lieu of prospectus
+(applicable to both companies and foreign companies)
 
-$25
+11.
 
-25.Deleted by Act 42/2001, wef 01/07/2002.
+196 (2) and (8) and 379(6) and (7)
 
-26. For registering any charge created by a corporation
-
-$25
-
-27. For registering particulars of a series of debentures created by a corporation
-
-$25
-
-28. For registering any memorandum of satisfaction
+Lodgment of notice of situation of the office where a branch register of members is kept, or of change in location or discontinuance
 
 $10
 
-29. On any subpoena served on the Registrar to produce any document in his custody
+(applicable to both companies, foreign companies and foreign entities)
 
-Government rates chargeable
+12.
 
-30. Deleted by S 239/2002, wef 01/07/2002.
+35 (5) and 372(3)
 
-31. On lodging any application to the Registrar under section 200
+Lodgment of notice of change in number of members
 
-$50
+$10
 
-32. On lodging any appeal against the decision of the Registrar under section 200
+(applicable to both companies and foreign companies)
 
-$50
+13.
 
-33. On lodging any other application to the Registrar, excluding an application under section 23(2), 200 or 202
+30 (2)
+
+Application for conversion from an unlimited company to a company limited by shares under section 30(1)(a)
 
 $30
 
-33A. For every application to the Minister under section 23(2) for a licence to hold land
+14.
 
-$100
+30 (2)
 
-S 119/95 wef 1.4.95.
+Application for conversion from an unlimited company to a company limited by guarantee under section 30(1)(a)
 
-33B. For every application for consent of the Minister to sell, mortgage or transfer any part of the land stated in the Minister’s licence to hold land under section 23(2)
+$30
 
-$100
+15.
 
-S 119/95 wef 1.4.95.
+30 (2)
 
-33C. For every application to the Registrar under section 175(2)
+Application for conversion from a limited company to an unlimited company under section 30(1)(b)
 
-$25
+$30
 
-S 119/95 wef 1.4.95.
+16.
 
-33D. For every application to the Registrar under section 202(1)
+31 (1)
+
+Application for conversion from a public company to a private company limited by shares
+
+$30
+
+17.
+
+31 (2)
+
+Application for conversion from a private company to a public company limited by shares
+
+$30
+
+18.
+
+26 (2) and 34
+
+Lodgment of resolution, order of Court, or other document affecting memorandum of a company
+
+$10
+
+19.
+
+33 (9)
+
+Lodgment of resolution for alteration of objects in memorandum of company
+
+$10
+
+20.
+
+67 (1) and (3)
+
+Lodgment of statement of amount or rate of commission or brokerage
+
+$10
+
+21.
+
+71 (1A)
+
+Lodgment of notice of alteration to share capital other than increase in capital
+
+$10
+
+22.
+
+71 (4) and 372(2)
+
+Lodgment of notice of increase in authorised share capital
+
+$10
+
+(applicable to both companies and foreign companies)
+
+23.
+
+31 (3A) and 128A
+
+Lodgment of notice of list of shareholders or transfer of shares
+
+$10
+
+24.
+
+70 (8)
+
+Lodgment of notice of redemption of redeemable preference shares
+
+$10
+
+25.
+
+76 (10) (c) and (e)
+
+Lodgment of notice of intention to propose special resolution to give financial assistance for the acquisition of shares or units of shares in company
+
+$10
+
+26.
+
+93 (2)
+
+Lodgment of notice of place or change of place where register of holders of debentures is kept
+
+$10
+
+27.
+
+191 (2)
+
+Lodgment of notice of place or change of place where register of members and index is kept
+
+$10
+
+28.
+
+179 (7)
+
+Lodgment of copy of minute by representative of holding company relating to proceedings of subsidiary company
+
+$10
+
+29.
+
+174 (5)
+
+Lodgment of statutory report of public company
+
+$10
+
+30.
+
+61 (1) (b) (iii)
+
+Lodgment of notice of compliance by company that has issued prospectus
+
+$10
+
+31.
+
+76B (9)
+
+Lodgment of notice of purchase or acquisition of ordinary shares or stocks
+
+$10
+
+32.
+
+76B (9)
+
+Lodgment of notice of purchase or acquisition of non-redeemable preference shares
+
+$10
+
+33.
+
+63 (1) and (5)
+
+Lodgment of return of allotment of shares
+
+$10
+
+34.
+
+173 (6)
+
+Lodgment of notice of appointment, cessation of appointment or change of particulars of a company’s director, manager, secretary or auditor
+
+$10
+
+35.
+
+173 (6A)
+
+Lodgment of notice of cessation of appointment of director by that director
+
+$10
+
+Lodgment of statement relating to charges for registration
+
+36.
+
+131 (1)
+
+Lodgment of statement containing particulars of charge
+
+$60
+
+37.
+
+131 (5)
+
+Lodgment of statement containing particulars of a series of debentures
+
+$60
+
+38.
+
+131 (6)
+
+Lodgment of statement containing particulars of an issue of debentures where there is more than one issue of debenture in a series of debentures
+
+$60
+
+39.
+
+133 (1) and 141
+
+Lodgment of statement of particulars in respect of property acquired by company or registered foreign company while the property is subject to charge
+
+$60
+
+40.
+
+133 (1)
+
+Lodgment of statement in respect of charge created by foreign company before registration of foreign company in Singapore
+
+$60
+
+41.
+
+133 (1)
+
+Lodgment of statement of particulars in respect of property acquired by foreign company while the property is subject to a charge before registration of foreign company in Singapore
+
+$60
+
+42.
+
+Regulation 40, Companies (Filing of Documents) Regulations 2003 (G.N. No. S 17/2003)
+
+Lodgment of form reporting variation of charges
+
+$10
+
+43.
+
+136 (1)
+
+Lodgment of satisfaction of charges
+
+$10
+
+44.
+
+139
+
+Application for extension of time for lodgment of charge
+
+$10
+
+Annual filing of forms and documents by company
+
+45.
+
+197 (1) and Eighth Schedule
+
+View and lodgment of summary of return by company having a share capital
+
+$10
+
+46.
+
+197 (1) and Eighth Schedule
+
+Lodgment of main return of company having share capital
+
+$10
+
+47.
+
+197 (5)
+
+View and lodgment of summary of return by company not having a share capital
+
+$10
+
+48.
+
+197 (5)
+
+Lodgment of main return by company not having a share capital
+
+$10
+
+49.
+
+201 (2)
+
+Application for extension of time for period of accounts
+
+Up to $150
+
+50.
+
+175 (2)
+
+Application for extension of time to hold AGM
+
+Up to $150
+
+51.
+
+202 (1)
+
+Application for relief from requirements as to form and content of accounts and reports
 
 $50
 
-S 119/95 wef 1.4.95.
+Winding up, receivership and judicial management of company
 
-33E. For every application to the Registrar under section 201(2)
+52.
 
-$25
+223 (1) (c), 227L(6), 270(1) and regulation 8 of the Companies (Filing of Documents) Regulations 2003 (G.N. No. S 17/2003)
 
-S 119/95 wef 1.4.95.
-
-33FDeleted by Act 42/2001, wef 01/07/2002.
-
-33GDeleted by Act 42/2001, wef 01/07/2002.
-
-34. For every certificate issued by the Registrar under the Act or any other Act
+Lodgment of statement of affairs and affidavit verifying statement of affairs
 
 $10
 
-35. For supplying diazo duplicates of the microfilm of the file of a company
+53.
 
-$5 for every 12 jackets or part thereof
+221 (1)
 
-36. For supplying a photographic or microprint copy of, or extract from, any document
-
-$1 for each page or part thereof
-
-37. For supplying and certifying a photographic or microprint copy of, or extract from, any document
-
-$2 for each page or part thereof
-
-38. For providing computer information service:
-
-(1) For supplying information concerning a company:
-
-(a) by electronic means
-
-$3 for each company.
-
-(b) other than by electronic means
-
-$5 for each company.
-
-(2) For supplying general information on a person’s involvement in companies —
-
-(a) by electronic means
-
-$30 per person.
-
-(b) other than by electronic means
-
-$30 per person.
-
-(3) For supplying information in the form of a directory of companies —
-
-(a) by electronic means
-
-Free of charge.
-
-(b) other than by electronic means
-
-Free of charge.
-
-(4) For supplying general information by electronic means —
-
-(a) indexical information
-
-$1 per block of one minute or part thereof.
-
-(b) Statistical information
-
-$10 per block of one minute or part thereof.
-
-(5) Transmission charge for electronic filing
-
-5 cents per block of 15 seconds or part thereof; or one cent per 1,000 characters or part thereof, whichever is applicable.
-
-39. For any information concerning a company supplied by the Registrar in reply to a written application
-
-$5
-
-40. For every approval or renewal of approval, of a company auditor or of a company liquidator granted by the Minister
-
-$25
-
-41. On lodging any annual return of a company
-
-$20
-
-42. On lodging, registering , depositing or filing any other document with or by the Registrar under any Act (where the fee is not specified in any relevant Act or Regulations)
+Lodgment of notice of appointment of receiver or manager
 
 $10
 
-Fees payable with respect to companies formed or incorporated outside Singapore shall where appropriate be calculated after the conversion of the share capital to Singapore currency.
+54.
 
-43. For filing the first Memorial pursuant to any written law
+221 (2)
+
+Lodgment of notice by receiver or manager of cessation of office
+
+$10
+
+55.
+
+225 (1) (a) (i)
+
+Lodgment of account of receipts and payments by receiver or manager
+
+$10
+
+56.
+
+227B and regulation 28 Companies (Filing of Documents) Regulations 2003 (G.N. No. S 17/2003)
+
+Lodgment of notice of the petition for judicial management order and copy of petition for judicial management order
+
+$10
+
+57.
+
+227H (7) and regulation 29 Companies (Filing of Documents) Regulations 2003
+
+Lodgment of notice of judicial management order and copy of judicial management order
+
+$10
+
+58.
+
+Regulation 31 Companies (Filing of Documents) Regulations 2003
+
+Lodgment of notice by judicial manager of cessation of office under section 227J
+
+$10
+
+59.
+
+227M (1), 227P(2) and regulation 27 Companies (Filing of Documents) Regulations 2003
+
+Lodgment of proposal or revised proposal by judicial manager
+
+$10
+
+60.
+
+227N (3) and 227P(5)
+
+Lodgment of notice of report of result of meeting of creditors on proposals or revised proposals of judicial manager
+
+$10
+
+61.
+
+291 (1)
+
+Lodgment of declaration by directors of company’s inability to continue business by reasons of its liabilities
+
+$10
+
+62.
+
+293 (3) (c)
+
+Lodgment of declaration of solvency
+
+$10
+
+63.
+
+295 (4)
+
+Lodgment of notice of holding of meeting of creditors
+
+$10
+
+64.
+
+262 (1)
+
+Lodgment of notice of winding up order and particulars of the liquidator
+
+$10
+
+65.
+
+262 (2)
+
+Lodgment of a copy of winding up order
+
+$10
+
+66.
+
+308 (3) and (4)
+
+Lodgment of return by liquidator relating to final meeting
+
+$10
+
+67.
+
+267 and 316(1)
+
+Lodgment of notice of appointment and situation of office of provisional liquidator or liquidator
+
+$10
+
+68.
+
+267 and 316(1)
+
+Lodgment of notice of change in situation of office of provisional liquidator or liquidator
+
+$10
+
+69.
+
+267 and 316(3)
+
+Lodgment of notice by provisional liquidator or liquidator of resignation or removal from office
+
+$10
+
+70.
+
+317
+
+Lodgment of liquidator’s account of receipts and payments and statement of the position in winding up
+
+$10
+
+71.
+
+344 (1) and 377(6)
+
+Application for striking off
+
+$35
+
+(applicable to both companies and foreign companies)
+
+72.
+
+Lodgment of order of Court for reinstatement of company which has been —
+
+$10
+
+343 (2)
+
+(a) dissolved; or
+
+344 (5) and 377
+
+(b) struck off (applicable to both companies and foreign companies)
+
+73.
+
+344 (2) and 377(6)
+
+Lodgment of objections to striking off
+
+$10
+
+(applicable to both companies and foreign companies)
+
+74.
+
+—
+
+Lodgment of notice of intention to lodge objections to future striking off
+
+$10
+
+75.
+
+—
+
+Lodgment of withdrawal of application to strike off
+
+$30
+
+Registration of foreign company
+
+76.
+
+368
+
+Registration of foreign company
+
+(a) $300 for foreign company having a share capital
+
+(b) $1200 for foreign company not having a share capital
+
+77.
+
+Regulation 21 (1) and (3) Companies (Filing of Documents) Regulations 2003 (G.N. No. S 17/2003)
+
+Application for extension of time to lodge any document required for the registration of a foreign company
+
+$30
+
+Changes to particulars of foreign company
+
+78.
+
+372 (1) (f)
+
+Lodgment of notice of change of name
+
+$10
+
+79.
+
+368 (1) (c) and 372(1)(b)
+
+Lodgment of return of particulars or change or alteration in particulars of directors
+
+$10
+
+80.
+
+370 (3) and 372(1)(c)
+
+Lodgment of notice of change or alteration in particulars of agent or appointment or cessation of agent of foreign company
+
+$10
+
+81.
+
+372 (1) (e)
+
+Lodgment of notice of change or alteration of address of registered office of foreign company in its place of incorporation or origin
+
+$10
+
+82.
+
+372 (1) (a)
+
+Lodgment of notice of change or alteration in the charter, statute, memorandum or articles or other instruments of foreign company
+
+$10
+
+83.
+
+372 (1) (g)
+
+Lodgment of notice of change in the powers of the resident directors of foreign company
+
+$10
+
+84.
+
+372 (1), (2) and (4)
+
+Application for extension of time to lodge any particulars of change or alteration and such documents as the regulations require
+
+$30
+
+Annual filing of forms and documents by foreign company
+
+85.
+
+373 (1), (2), (4) and (5)
+
+Lodgment of balance-sheet and accompanying documents
+
+$10
+
+86.
+
+201 (2) and 373(4)
+
+Application for extension of time for lodgment of balance-sheet and accompanying documents
+
+$30
+
+87.
+
+373 (7)
+
+Application for relief from requirements as to form and content of accounts and reports
+
+$30
+
+88.
+
+373 (5) (b)
+
+Application for waiver to lodge annual filing of forms and documents relating to the operations of foreign company in Singapore
+
+$30
+
+Winding up, receivership and judicial management of foreign company
+
+89.
+
+377 (1)
+
+Lodgment of notice by foreign company of cessation of business
+
+$10
+
+90.
+
+377 (2)
+
+Lodgment of notice by agent of foreign company of liquidation or dissolution of company
+
+$10
+
+Miscellaneous transactions
+
+91.
+
+12B, 32(3)(c)(iii), 73(4) and (6), 137, 210(5), 212(3), 216(5), 227G(9), 227K(1), 227N(5), 227Q(3), 227R(5), 269(3), 276(6), 279(3), 308(7), 343(2), 372(4), and others
+
+Lodgment of order of Court
+
+$10
+
+92.
+
+10 (5) (a)
+
+Lodgment of return of proprietor or partners of auditing firm
+
+$10
+
+93.
+
+—
+
+Application for filing annual return signed by one director where AGM is held
+
+$30
+
+94.
+
+—
+
+Application for filing annual return signed by one director where no AGM is held
+
+$30
+
+95.
+
+—
+
+Application for filing annual return where no AGM is held
+
+$30
+
+96.
+
+23 (1) (c)
+
+Application for approval of Minister to include in the memorandum or articles powers set out in the Third Schedule
+
+$100
+
+97.
+
+23 (2)
+
+Application for approval to hold or to sell, mortgage or transfer any land
+
+$100
+
+98.
+
+29 (1)
+
+Application for the omission of the word “Limited” or “Berhad”
+
+$100
+
+99.
+
+29 (4)
+
+Application for consent of Minister to alteration of memorandum and articles of association
+
+$100
+
+100.
+
+12B (3)
+
+Lodgment of notice of error in document lodged
+
+$30
+
+101.
+
+Application for the following:
+
+$50
+
+19 (7)
+
+(a) certificate confirming incorporation of company;
+
+26 (7)
+
+(b) certificate confirming that company is incorporated in accordance with the alteration made to the memorandum;
+
+28 (5)
+
+(c) certificate confirming incorporation of company under new name changed by special resolution;
+
+30 (2)
+
+(d) certificate confirming conversion of company from —
+
+(i) unlimited to limited by guarantee; or
+
+(ii) unlimited to limited by shares;
+
+31 (3)
+
+(e) certificate confirming conversion from —
+
+(i) public company to private company; or
+
+(ii) private company to public company;
+
+371 (2)
+
+(f) certificate that foreign company is registered in Singapore;
+
+23 (2) and (5)
+
+(g) certificate confirming approval to hold land;
+
+29 (9)
+
+(h) certificate confirming approval to register company with limited liability without the addition of “Limited” or “Berhad”;
+
+61 (7)
+
+(i) certificate that company is entitled to commence business and exercise its borrowing powers;
+
+134 (3)
+
+(j) certificate to confirm that charge is registered.
+
+102.
+
+27 (1) and 378(1)
+
+Application for consent of the Minister to use of a name and order of the Minister granting consent to use of a name
+
+$100
+
+(applicable to both companies and foreign companies)
+
+103.
+
+27 (2A)
+
+Application to Registrar to direct a change of company name
+
+$30
+
+104.
+
+27 (5)
+
+Application for appeal to Minister against decision of Registrar to direct or not to direct a change of company name
+
+$50
+
+105.
+
+—
+
+On late lodging of any document under the Act after the period prescribed by law in addition to any other fee
+
+Up to $350
+
+(The Registrar, if satisfied that just cause existed for the late lodgment, may waive in whole or in part the additional fee.)
+
+106.
+
+—
+
+On submission of any other application to the Minister under the Act
+
+$100
+
+107.
+
+345 and 347
+
+Lodgment of request to the Official Receiver to exercise the powers conferred by sections 345 or 347*
+
+$10
+
+*To be paid to Official Receiver
+
+108.
+
+345
+
+For every act done by the Official Receiver as representing a defunct company under section 345*
+
+$25
+
+*To be paid to Official Receiver
+
+109.
+
+347
+
+For every act done by the Official Receiver as representing a defunct company under section 347*
+
+$25
+
+*To be paid to Official Receiver
+
+110.
+
+200 (2A) and (3)
+
+Application to the Registrar with regard to the accounting periods of a company within the same group
+
+$50
+
+111.
+
+200 (9)
+
+Application to the Minister to appeal against the decision of the Registrar
+
+$100
+
+112.
+
+—
+
+Lodgment of any other application to the Registrar, excluding an application under sections 23(2), 200 or 202
+
+$30
+
+113.
+
+9 (2) and (3)
+
+Approval or renewal of approval, of a company auditor or of a liquidator granted by the Minister
+
+$100
+
+114.
+
+—
+
+On lodging, registering, depositing or filing any other document with or by the Registrar under any Act (where the fee is not specified in any relevant Act or Regulation)
+
+$10
+
+115.
+
+—
+
+Lodgment of the first Memorial pursuant to any written law
 
 $150
 
-44. For filing any subsequent Memorial on the appointment of a new or other manager or any change in or addition to the facts stated in the first Memorial
+Any subsequent Memorial on the appointment of a new or other manager or any change in or addition to the facts stated in the first Memorial
 
 $75
 
-45. For filing every affidavit or statutory declaration
+116.
+
+—
+
+Lodgment of affidavit or statutory declaration
 
 $10
 
-46. For taking an affidavit or a statutory declaration, for each person making the same
+117.
+
+—
+
+(a) For taking an affidavit or statutory declaration, for each person making the same
 
 $20
 
-And in addition thereto for each exhibit referred to therein and required to be marked
+(b) For each exhibit referred therein and to be marked
 
-$2
+$2 per exhibit
 
-47. For filing every Order of Court or office copy thereof
+118.
+
+227B
+
+Lodgment of petition with the Court
+
+As prescribed by Rules of Court (Cap. 322, R 5)*
+
+*To be paid to the Court
+
+119.
+
+—
+
+On every application to the Court for approval or sanction of a compromise, arrangement, scheme or proposal
+
+As prescribed by Rules of Court or the Companies (Winding Up) Rules (R 1), whichever is applicable*
+
+*To be paid to the Court
+
+Service charge f\or electronic filing of forms and documents by Registry of Companies and Businesses for applicants*
+
+120.
+
+—
+
+For incorporation
+
+$100
+
+121.
+
+For any other transaction
+
+$50
+
+122.
+
+—
+
+For information resources
+
+$5
+
+* The Registrar may, at his discretion, waive these charges.
+
+Information Services
+
+123.
+
+—
+
+For supplying of information relating to the business profile of companies
+
+$5
+
+124.
+
+—
+
+For supplying information relating to a person’s involvement in companies and businesses registered under the Companies Act and the Business Registration Act (Cap. 32)
+
+$30
+
+125.
+
+—
+
+For supplying electronic extracts of forms filed with the Registrar
 
 $10
 
-48. For filing every petition with the Court under section 227B
+126.
 
-$100
+—
 
-49. On every application to the Court for approval/sanction of a compromise/arrangement/scheme/proposal
+For supplying electronic extracts of forms including attachments filed with the Registrar
 
-$100
+$25
 
-50. For providing information extracted from the Registry on a bulk or packaged basis:
+127.
 
-(a) Cost of Manpower
+—
+
+For supplying company forms filed with the Registrar under the Companies Regulations (Rg 1) before 13th January 2003
+
+$2 per page or part thereof
+
+128.
+
+—
+
+Application for certification of company forms filed with the Registrar
+
+$2 per page or part thereof
+
+129.
+
+—
+
+For supplying diazo duplicates of the microfilm of the file of a company
+
+$15
+
+130.
+
+—
+
+For supplying statistics on the types of companies and corresponding number of companies per type
+
+$30
+
+131.
+
+—
+
+For supplying statistics on type of business activities and the number of companies engaged in those types of business activities
+
+$30
+
+132.
+
+—
+
+For supplying statistics on the number of companies by status
+
+$30
+
+Package information
+
+133.
+
+—
+
+For providing information extracted from the Registry on a bulk or packaged basis:
+
+(a) Cost of Manpower*
 
 $120 per man-hour
 
-(b) Computer CPU Processing Charges
+(b) Computer CPU Processing Charges*
 
 $5.40 per CPU-second
 
-Subject to an aggregate minimum charge of $30.
+* The number of man-hours and CPU-seconds taken shall be certified by the Registrar.
 
-The number of man-hours and CPU-seconds taken shall be certified by the Registrar.
+Subject to an aggregate minimum charge of $30
 
-If the Registrar decides to supply the information by means other than written or printed form, an additional fee of $3 per company shall be payable.
+If the Registrar decides to supply the information by means other than written or printed form
 
-51. For supplying information to any authorised person for purposes of selling packaged information or information on a bulk basis
+an additional fee of $3 per company
+
+134.
+
+—
+
+For providing a register of company documents
+
+$10
+
+135.
+
+—
+
+For providing the strategic business information of a company
+
+$10
+
+136.
+
+—
+
+For providing a report relating to details of striking off of a company
+
+$10
+
+137.
+
+—
+
+For providing a certificate of production or a certificate of good standing of company
+
+$10
+
+138.
+
+—
+
+On any subpoena served on the Registrar to produce any document in his custody
+
+Government rates chargeable
+
+139.
+
+—
+
+For any other information concerning a company supplied by the Registrar
+
+$5
+
+140.
+
+—
+
+For supplying information to any authorised person for purposes of selling packaged information or information on a bulk basis
 
 $0.80 per prescribed particular of a company.
 
-[20030113]
+[S 75/2004 wef 01/03/2004]
 
-[S 61/97 wef 15/02/1997]
-
-[S 387/2000 wef 29/08/2000]
+[S 19/2003 wef 13/01/2003]
 
 THIRD SCHEDULE
 
@@ -13274,7 +14260,15 @@ Directors: Appointment, etc.
 
 Powers and duties of directors
 
-73\. The business of the company shall be managed by the directors who may pay all expenses incurred in promoting and registering the company, and may exercise all such powers of the company as are not, by the Act or by these Regulations, required to be exercised by the company in general meeting, subject, nevertheless, to any of these Regulations, to the provisions of the Act, and to such regulations, being not inconsistent with the aforesaid Regulations or provisions, as may be prescribed by the company in general meeting; but no regulation made by the company in general meeting shall invalidate any prior act of the directors which would have been valid if that regulation had not been made.
+73\.—
+
+73. The business of the company shall be managed by the directors who may pay all expenses incurred in promoting and registering the company, and may exercise all such powers of the company as are not, by the Act or by these Regulations, required to be exercised by the company in general meeting, subject, nevertheless, to any of these Regulations, to the provisions of the Act, and to such regulations, being not inconsistent with the aforesaid Regulations or provisions, as may be prescribed by the company in general meeting; but no regulation made by the company in general meeting shall invalidate any prior act of the directors which would have been valid if that regulation had not been made.
+
+(1) The business of a company shall be managed by or under the direction of the directors.
+
+(2) The directors may exercise all the powers of a company except any power that this Act or the memorandum and articles of the company require the company to exercise in general meeting.
+
+[8/2003 wef 15/05/2003]
 
 74\. The directors may exercise all the powers of the company to borrow money and to mortgage or charge its undertaking, property, and uncalled capital, or any part thereof, and to issue debentures and other securities whether outright or as security for any debt, liability, or obligation of the company or of any third party.
 
@@ -14038,3 +15032,5 @@ This Legislative History is provided for the convenience of users of the Compani
 |||(Bill No. 7/2003 published on 21 March 2003)|
 ||Date of Second and Third Readings|24 April 2003|
 ||Date of commencement|16 May 2003|
+|69.|**G. N. No. S 75/2004—Companies Act (Amendment of Second Schedule) Notification 2004**|
+||Date of commencement|1 March 2004|
