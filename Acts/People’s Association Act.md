@@ -24,6 +24,8 @@
 
 - [9 Objects of Association and powers of Board](#Objects-of-Association-and-powers-of-Board)
 
+- [9A Protection from personal liability](#Protection-from-personal-liability)
+
 - [10 Execution of documents](#Execution-of-documents)
 
 - [11 Annual report](#Annual-report)
@@ -152,9 +154,19 @@ and any person appointed under paragraph (a) or (b) shall hold office for so lon
 
 (a) the organisation and the promotion of group participation in social, cultural, educational and athletic activities for the people of Singapore in order that they may realise that they belong to a multiracial community, the interests of which transcend sectional loyalties;
 
-(b) the establishment of such institutions as may be necessary for the purpose of leadership training in order to instil in leaders a sense of national identity and a spirit of dedicated service to a multiracial community; and
+(b) the establishment of such institutions as may be necessary for the purpose of leadership training in order to instil in leaders a sense of national identity and a spirit of dedicated service to a multiracial community;
 
-(c) the carrying out of any other activities that are incidental or ancillary to the objects set out in paragraphs (a) and (b).
+(c) the fostering of community bonding and strengthening of social cohesion amongst the people of Singapore;
+
+[Act 39/1996 wef 06/12/1996]
+
+(d) the performance of such other functions as may be conferred upon the Association by any written law; and
+
+[Act 39/1996 wef 06/12/1996]
+
+(e) the carrying out of such activities as appear to the Board to be advantageous towards, or necessary or convenient for, the furtherance of the objects of the Association as set out in paragraphs (a) to (d).
+
+[Act 39/1996 wef 06/12/1996]
 
 (2) In order to achieve the objects set out in subsection (1), the Board may —
 
@@ -179,6 +191,20 @@ and any person appointed under paragraph (a) or (b) shall hold office for so lon
 (j) authorise the governing body of any institution established under subsection (1)(b) to carry out such activities as are not inconsistent with the objects of the Association as set out in subsection (1) and as are in accordance with the constitution of the institution; and
 
 (k) generally do all such other acts as may be necessary to achieve the objects of the Association.
+
+### Protection from personal liability
+
+9A\. No suit or other legal proceedings shall lie against —
+
+(a) any member, officer or employee of the Association or any other person acting under the direction of the Association;
+
+(b) any member of the Board or any person acting under the direction of the Board; or
+
+(c) any member or officer of any committee appointed by the Board or any person acting under the direction of such committee,
+
+for anything which is in good faith done or intended to be done in the execution or purported execution of this Act.
+
+[Act 39/1996 wef 06/12/1996]
 
 ### Execution of documents
 
@@ -632,8 +658,6 @@ The Eurasian Association, Singapore.
 
 The Photographic Society of Singapore.
 
-84A. 
-
 [S 381/1996 wef 19/08/1996]
 
 84B. 
@@ -766,3 +790,8 @@ This Legislative History is provided for the convenience of users of the People�
 ||Date of commencement|6 December 1995|
 |36.|**G.N. No. S 381/96—People’s Association Act (Amendment of First Schedule) Notification 1996**|
 ||Date of commencement|19 August 1996|
+|37.|**Act 39 of 1996—People’s Association (Amendment) Act 1996**|
+||Date of First Reading|1 October 1996|
+|||(Bill No. 27/96 published on 2 October 1996)|
+||Date of Second and Third Readings|10 October 1996|
+||Date of commencement|6 December 1996|
