@@ -495,6 +495,10 @@ Singapore Rugby Union
 
 Chinese Calligraphy Society of Singapore
 
+66C. 
+
+Singapore Weiqi Association
+
 67. 
 
 Singapore Scout Association
@@ -582,6 +586,8 @@ Young Women Muslim Association (Persatuan Pemudi Islam Singapura)
 
 [S 360/1988 wef 11/11/1988]
 
+[S 78/1990 wef 23/02/1990]
+
 SECOND SCHEDULE
 
 Section 15(1).
@@ -645,3 +651,5 @@ This Legislative History is provided for the convenience of users of the People�
 ||Date of commencement|10 June 1988|
 |19.|**G.N. No. S 360/88—People’s Association Act (Amendment of First Schedule) Notification 1988**|
 ||Date of commencement|11 November 1988|
+|20.|**G.N. No. S 78/90—People’s Association Act (Amendment of First Schedule) Notification 1990**|
+||Date of commencement|23 February 1990|
