@@ -195,14 +195,14 @@ Sentosa Development Corporation Act
 
 (Chapter 291)
 
-12. Singapore Broadcasting Authority
+12. Media Development Authority of Singapore
 
-Singapore Broadcasting Authority Act
-
-
+Media Development Authority of Singapore Act 2002
 
 
-(Chapter 297)
+
+
+(Act 34 of 2002)
 
 12A. Singapore Land Authority
 
@@ -222,14 +222,14 @@ Singapore Tourism Board Act
 
 (Chapter 305B)
 
-14. Trade Development Board
+14. International Enterprise Singapore Board
 
-Trade Development Board Act
-
-
+International Enterprise Singapore Board Act
 
 
-(Chapter 330)
+
+
+(Chapter 143B)
 
 15. Urban Redevelopment Authority
 
@@ -276,11 +276,130 @@ Singapore Totalisator Board Act
 
 (Chapter 305A)
 
+20. Public Accountants Board
+
+Accountants Act (Chapter 2)
+
+21. Agency for Science, Technology and Research
+
+Agency for Science, Technology and Research Act (Chapter 5A)
+
+22. Agri-Food and Veterinary Authority
+
+Agri-Food and Veterinary Authority Act (Chapter 5)
+
+23. Board of Architects
+
+Architects Act (Chapter 12)
+
+24. Building and Construction Authority
+
+Building and Construction Authority Act
+
+
+
+
+(Chapter 30A)
+
+25. Civil Service College
+
+Civil Service College Act
+
+
+
+
+(Chapter 45)
+
+26. Dental Council
+
+Dentists Act (Chapter 76)
+
+27. Health Promotion Board
+
+Health Promotion Board Act (Chapter 122B)
+
+28. Housing and Development Board
+
+Housing and Development Act (Chapter 129)
+
+29. Singapore Medical Council
+
+Medical Registration Act
+
+
+
+
+(Chapter 174)
+
+30. National Environment Agency
+
+National Environment Agency Act 2002 (Act 4 of 2002)
+
+31. National Parks Board
+
+National Parks Act
+
+
+
+
+(Chapter 198A)
+
+32. Singapore Nursing Board
+
+Nurses and Midwives Act
+
+
+
+
+(Chapter 209)
+
+33. Pharmacy Board
+
+Pharmacists Registration Act (Chapter 230)
+
+34. Preservation of Monuments Board
+
+Presevation of Monuments Act (Chapter 239)
+
+35. Professional Engineers Board
+
+Professional Engineers Act (Chapter 253)
+
+36. Public Transport Council
+
+Public Transport Council Act (Chapter 259B)
+
+37. SPRING Singapore
+
+Standards, Productivity and Innovation Board Act
+
+
+
+
+(Chapter 303A)
+
+38. Singapore Sports Council
+
+Singapore Sports Council Act (Chapter 305)
+
+39. Traditional Chinese Medicine Practitioners Board
+
+Traditional Chinese Medicine Practitioners Act
+
+
+
+
+(Chapter 333A)
+
 [S 312/2001 wef 01/06/2001]
 
 [S 220/2001 wef 01/04/2001]
 
+[S 143/2003 wef 01/04/2003]
+
 [S 312/2001 wef 01/06/2001]
+
+[S 143/2003 wef 01/04/2003]
 
 [7/96; 41/99; S 414/93; S344/95; S405/96; S 470/97; S 518/97; S366/98]
 
@@ -346,6 +465,8 @@ This Legislative History is provided for the convenience of users of the Statuto
 |||(Bill No. 23/2002 published on 9 July 2002)|
 ||Date of Second and Third Readings|23 July 2002|
 ||Date of commencement|1 October 2002|
+|18.|**G. N. No. S 143/2003—Statutory Corporations (Contributions to Consolidated Fund) Act (Amendment of Schedule) Order 2003**|
+||Date of commencement|1 April 2003|
 ## COMPARATIVE TABLE
 
 Statutory Corporations (Contributions to Consolidated Fund) Act
