@@ -12,11 +12,13 @@
 
 - [3 President may make pensions regulations](#President-may-make-pensions-regulations)
 
-- [4 Pensions, etc., to be charged on Consolidated Fund](#Pensions-etc-to-be-charged-on-Consolidated-Fund)
+- [4 Pensions, etc., to be charged on Pension Fund](#Pensions-etc-to-be-charged-on-Pension-Fund)
 
 - [5 Pensions, etc., not of right](#Pensions-etc-not-of-right)
 
 - [6 Service not counting for pension, etc.](#Service-not-counting-for-pension-etc)
+
+- [6A Payment into Pension Fund](#Payment-into-Pension-Fund)
 
 - [7 Cases in which pensions, etc., may be granted](#Cases-in-which-pensions-etc-may-be-granted)
 
@@ -84,6 +86,10 @@ An Act to regulate the granting of pensions, gratuities and other allowances to 
 
 “other public service” means public service not under the Government of Singapore;
 
+“Pension Fund” means the Pension Fund established by the Pension Fund Act 1995;
+
+[8/1995 wef 01/04/1995]
+
 “pensionable office” means —
 
 (a) in respect of public service in Singapore, an office or class of office declared by the President by notification in theGazette, to be pensionable and not likewise declared, by subsequent notification in theGazette, to be non-pensionable; but where by virtue of any such declaration any office ceases to be a pensionable office, then so long as any person holding that office at the time of the declaration continues therein, the office shall, as respects that person, continue to be a pensionable office;
@@ -130,9 +136,11 @@ Provided that where the President is satisfied that it is equitable that any reg
 
 (6) The regulations made under this section may provide that where a person has rendered full-time national service pursuant to section 10 of the Enlistment Act [Cap. 93], or pursuant to the provisions of any written law repealed by that Act (whether such service was rendered before or after that person became the holder of a pensionable office) the period of his entire full-time national service may be treated, to such extent and on such conditions as may be specified in the regulations, as pensionable service and that that service shall be deemed to be public service and that person shall be deemed to have been or to have continued to be, as the case may be, an officer in the public service for the period of that full-time national service for the purposes of this Act.
 
-### Pensions, etc., to be charged on Consolidated Fund
+### Pensions, etc., to be charged on Pension Fund
 
-4\. There shall be charged on and paid out of the Consolidated Fund all such sums of money as may from time to time be granted by way of pension, gratuity or other allowance in accordance with this Act.
+4\. There shall be charged on and paid out of the Pension Fund all such sums of money as may from time to time be granted by way of pension, gratuity or other allowance in accordance with this Act.
+
+[8/1995 wef 01/04/1995]
 
 ### Pensions, etc., not of right
 
@@ -161,6 +169,12 @@ Provided that this paragraph shall not apply to any officer or other person in t
 [26/72]
 
 (ii) eligible for any benefits on retirement under the Singapore City Council Superannuation Fund for Subordinate Employees Rules 1954 except upon the condition that he shall first relinquish all rights to such benefits under those Rules.
+
+### Payment into Pension Fund
+
+6A\. Any amount that is required under section 6(d)(i) to be first paid to the Government before any pension, gratuity or other allowance may be granted under this Act shall be paid into the Pension Fund.
+
+[8/1995 wef 01/04/1995]
 
 ### Cases in which pensions, etc., may be granted
 
@@ -264,11 +278,15 @@ Provided that —
 
 10\.—(1) A pension granted to an officer under this Act shall not exceed two-thirds of the highest pensionable emoluments drawn by him at any time in the course of his public service in Singapore.
 
-(2) Where an officer has been or is granted a pension or pensions in respect of other public service, he may be granted the full pension for which he is eligible in respect of his public service in Singapore, but no person may at any time draw from the Consolidated Fund an amount of pension which, when added to the amount of any pension or pensions drawn in respect of other public service, exceeds two-thirds of the highest pensionable emoluments drawn by that person at any time in the course of his public service in Singapore or in other public service:
+(2) Where an officer has been or is granted a pension or pensions in respect of other public service, he may be granted the full pension for which he is eligible in respect of his public service in Singapore, but no person may at any time draw from the Pension Fund an amount of pension which, when added to the amount of any pension or pensions drawn in respect of other public service, exceeds two-thirds of the highest pensionable emoluments drawn by that person at any time in the course of his public service in Singapore or in other public service:
 
 Provided that where such a person receives, in respect of some period of public service, both a gratuity and a pension, the amount of such pension shall be deemed, for the purpose of this subsection, to be the amount of pension which would have been payable had the officer received a pension only and not a gratuity and a pension.
 
-(3) In a case falling under the limitation laid down by subsection (2), the amount of pension to be drawn from the Consolidated Fund shall be subject to the approval of the President, in order that it may be determined with due regard to the amount of any pension or pensions similarly to be drawn in respect of other public service.
+[8/1995 wef 01/04/1995]
+
+(3) In a case falling under the limitation laid down by subsection (2), the amount of pension to be drawn from the Pension Fund shall be subject to the approval of the President, in order that it may be determined with due regard to the amount of any pension or pensions similarly to be drawn in respect of other public service.
+
+[8/1995 wef 01/04/1995]
 
 (4) For the purpose of subsections (1), (2) and (3), an allowance granted in respect of injury or disease shall not be taken into account; but where the officer is granted such an allowance the amount of such allowance which he may draw shall not exceed one-sixth of his highest pensionable emoluments at any time in the course of his public service by more than the sum by which the amount of his pension or pensions, apart from such allowance, falls short of two-thirds of such highest pensionable emoluments.
 
@@ -1773,3 +1791,9 @@ This Legislative History is provided for the convenience of users of the Pension
 |||(Bill No. 6/95 published on 2 March 1995)|
 ||Date of Second and Third Readings|23 March 1995|
 ||Date of commencement|1 January 1995|
+|35.|**Act 8 of 1995—Pension Fund Act 1995**|
+||(Consequential amendments made by)||
+||Date of First Reading|23 January 1995|
+|||(Bill No. 2/95 published on 24 January 1995)|
+||Date of Second and Third Readings|1 March 1995|
+||Date of commencement|1 April 1995|
