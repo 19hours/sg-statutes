@@ -240,9 +240,9 @@ REGISTRATION OF CHARITIES AND PROVISIONS FOR INQUIRING INTO CHARITIES
 
 (6) It shall be the duty of —
 
-(a) the charity trustees of any charity which is not registered nor excepted from registration to apply for it to be registered, and to supply the documents and information required by subsection (5); and
+(a) the charity trustees of any charity which is not registered nor excepted from registration to apply for it to be registered, and to supply the documents and information required by subsection (5), within 3 months after its establishment or such longer period as the Commissioner may, in his discretion, allow; and
 
-(b) the charity trustees (or last charity trustees) of any institution which is for the time being registered to notify the Commissioner if it ceases to exist, or if there is any change in its trusts, or in its particulars entered in the register, and to furnish the Commissioner with particulars of any such change and copies of any new trusts or alterations of the trusts,
+(b) the charity trustees (or last charity trustees) of any institution which is for the time being registered to notify the Commissioner if it ceases to exist, or if there is any change in its trusts, or in its particulars entered in the register, and to furnish the Commissioner with particulars of any such change and copies of any new trusts or alterations of the trusts, within 7 days after such cessation or change or such longer period as the Commissioner may, in his discretion, allow,
 
 and any person who makes default in carrying out any of the duties imposed by this subsection shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year or to both and, in the case of a continuing offence, to a further fine not exceeding $50 for every day or part thereof during which the offence continues after conviction, and the Commissioner may by order require that person to make good that default.
 
@@ -290,7 +290,9 @@ and any reference in this subsection to the name of a charity is, in relation to
 
 (4) Any direction given under this section with respect to a charity shall be given to the charity trustees; and on receiving any such direction the charity trustees shall give effect to it notwithstanding anything in the trusts of the charity.
 
-(5) Where the name of any charity is changed under this section, then (without prejudice to section 5(6)(b)) it shall be the duty of the charity trustees forthwith to notify the Commissioner of the new name of the charity and of the date on which the change occurred.
+(5) Where the name of any charity is changed under this section, it shall be the duty of the charity trustees to notify the Commissioner, within 7 days after such change or such longer period as the Commissioner may, in his discretion, allow, of the new name of the charity and of the date on which the change occurred.
+
+[26/2001 wef 01/03/2002]
 
 (6) A change of name by a charity under this section shall not affect any rights or obligations of the charity; and any legal proceedings that might have been continued or commenced by or against it in its former name may be continued or commenced by or against it in its new name.
 
@@ -1502,3 +1504,8 @@ This Legislative History is provided for the convenience of users of the Chariti
 |||(Bill No. 33/1999 published on 12 October 1999)|
 ||Date of Second and Third Readings|23 November 1999|
 ||Date of commencement|1 December 1999|
+|4.|**Act 26 of 2001—Statutes (Miscellaneous Amendments and Repeal) Act 2001**|
+||Date of First Reading|11 July 2001|
+|||(Bill No. 24/2001 published on 12 July 2001)|
+||Date of Second and Third Readings|25 July 2001|
+||Date of commencement|1 March 2002 (section 3 — Amendment of Charities Act)|
