@@ -1888,41 +1888,7 @@ $2
 
 $3
 
-(b) on sale of any residential property or any interest thereof
-
-In addition to duty under paragraph (a) or (c), where the property or any share in a private company referred to in section 22A(4), is disposed of in the following periods from the date of its acquisition:
-
-Amount of consideration or value of property, whichever is applicable
-
-Within one year
-
-Exceeding one year but not exceeding 2 years
-
-Exceeding 2 years but not exceeding 3 years
-
-(i) for every $100 or any part thereof of the first $180,000
-
-$1
-
-$0.67
-
-$0.33
-
-(ii) for every $100 or any part thereof of the next $180,000
-
-$2
-
-$1.33
-
-$0.67
-
-(iii) thereafter for every $100 or any part thereof
-
-$3
-
-$2
-
-$1
+(b)Deleted by S 192/2003, wef 08/04/2003. [For instruments executed on or after 1st March 2003.]
 
 (c) on sale of any stock or shares or any interest thereof, computed on the amount or value of consideration —
 
@@ -1946,7 +1912,7 @@ $10 or the same duty as paragraph (a) or (c), as the case may be, whichever is t
 
 (i) the beneficial interest in the property passes
 
-The same duty as in paragraph (a), (b) or (c), as the case may be
+The same duty as in paragraph (a) or (c), as the case may be
 
 (ii) the beneficial interest in the property does not pass
 
@@ -1956,7 +1922,7 @@ $10 or the same duty as in paragraph (a) or (c), as the case may be, whichever i
 
 (i) where the shareholder became a shareholder of the company only after the winding up proceedings had commenced
 
-The same duty as in paragraph (a), (b) or (c), as the case may be
+The same duty as in paragraph (a) or (c), as the case may be
 
 (ii) in any other case
 
@@ -2010,17 +1976,7 @@ Exceeding one year but not exceeding 3 years
 
 Exceeding 3 years or for any indefinite term
 
-(a) without premium when the average rent and other consideration calculated for a whole year —
-
-(i) does not exceed $500
-
-$2
-
-$4
-
-$8
-
-(ii) exceeds $500, for every $250 or any part thereof
+(a) without premium and executed on or after 1st April 2003, for every $250 or any part thereof of the average rent and other consideration calculated for a whole year
 
 $1
 
@@ -2043,6 +1999,8 @@ $2
 (e) lease of any other kind whatsoever not otherwise specially charged with duty
 
 $10
+
+Exemption:Any lease or agreement for a lease referred to in paragraph (a) or (c) executed on or after 1st April 2003 where the average rent and other consideration calculated for a whole year does not exceed $1,000.
 
 9
 
@@ -2112,6 +2070,16 @@ $10
 
 [38/2002 wef 01/01/2003]
 
+[S 192/2003 wef 08/04/2003 [For instruments executed on or after 1st March 2003.]:2003-sl-312-n-192]
+
+[38/2002 wef 01/01/2003]
+
+[S 192/2003 wef 08/04/2003 [For instruments executed on or after 1st March 2003.]:2003-sl-312-n-192]
+
+[38/2002 wef 01/01/2003]
+
+[S 192/2003 wef 08/04/2003]
+
 11SECOND SCHEDULE
 
 Sections 7(1) and (6) and 8(1)
@@ -2158,22 +2126,13 @@ The lessee
 
 The lessor
 
-2 CONVEYANCE
+2. CONVEYANCE
 
 —
 
 Article No. 3 (a), (c) to (i)
 
 The grantee, transferee or lessee
-
-Article No. 3 (b)
-
-The grantor, transferor
-
-
-
-
-or lessor
 
 3 EXCHANGE
 
@@ -2206,6 +2165,10 @@ The mortgagor or obligor
 PARTITION — Article No. 10
 
 The parties thereto, in proportion to their respective shares in the whole property partitioned, unless the partition is made in execution of an order made by a civil court or arbitrator, when it shall be paid in such proportion as the court or arbitrator directs.
+
+[38/2002 wef 01/01/2003]
+
+[S 192/2003 wef 08/04/2003 [For instruments executed on or after 1st March 2003.]:2003-sl-312-n-192]
 
 [38/2002 wef 01/01/2003]
 
@@ -2482,6 +2445,8 @@ This Legislative History is provided for the convenience of users of the Stamp D
 |||(Bill No. 40/2002 published on 13 December 2002)|
 ||Date of Second and Third Readings|25 November 2002|
 ||Date of commencement|1 January 2003|
+|59.|**G. N. No. S 192/2003—Stamp Duties Act (Amendment of First and Third Schedules) Notification 2003**|
+||Date of commencement|8 April 2003|
 ## COMPARATIVE TABLE
 
 Stamp Duties Act
