@@ -1,16 +1,14 @@
-**Legal Aid and Advice Act 1995**
+**Legal Aid and Advice Act**
 
-**(No. 20 of 1995)**
+**(CHAPTER 160)**
 
 **Table of Contents**
 
 [**Long Title**](#Legal-Aid-and-Advice-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -64,53 +62,35 @@
 
 - [24 Amendment of Second Schedule](#Amendment-of-Second-Schedule)
 
-- [25 Repeal and savings](#Repeal-and-savings)
+- [25 Savings](#Savings)
 
-[**FIRST SCHEDULE Civil Proceedings for Which Legal Aid May be Given**](#FIRST-SCHEDULE-Civil-Proceedings-for-Which-Legal-Aid-May-be-Given)
+[**FIRST SCHEDULE Civil proceedings for which legal aid may be given**](#FIRST-SCHEDULE-Civil-proceedings-for-which-legal-aid-may-be-given)
 
-[**SECOND SCHEDULE Requirements Relating to Means of An Applicant for Legal Aid**](#SECOND-SCHEDULE-Requirements-Relating-to-Means-of-An-Applicant-for-Legal-Aid)
+[**SECOND SCHEDULE Requirements relating to means of an applicant for legal aid**](#SECOND-SCHEDULE-Requirements-relating-to-means-of-an-applicant-for-legal-aid)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Legal Aid and Advice Act
 
-ACTS SUPPLEMENT
+(CHAPTER 160)
 
-Published by Authority
+(Original Enactment: Act 20 of 1995)
 
-NO. 29]
+REVISED EDITION 1996
 
-Friday, August 4
+(30th April 1996)
 
-[1995
+An Act to make provision for the grant of legal aid and advice to persons of limited means.
 
-The following Act was passed by Parliament on 7th July 1995 and assented to by the President on 24th July 1995:—
-
-Legal Aid And Advice Act 1995
-
-(No. 20 of 1995)
-
-I assent.
-
-ONG TENG CHEONG
-
-President.
-
-24th July 1995.
-
-Date of Commencement: 1st October 1995
-
-An Act to repeal and re-enact with amendments the Legal Aid and Advice Act (Chapter 160 of the 1985 Revised Edition).
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st October 1995]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Legal Aid and Advice Act 1995 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Legal Aid and Advice Act.
 
 ### Interpretation
 
@@ -120,7 +100,7 @@ PRELIMINARY
 
 “Director” means the Director of Legal Aid appointed under section 3 and includes a Deputy Director and an Assistant Director of Legal Aid;
 
-“goods and services tax” means the goods and services tax levied under the Goods and Services Tax Act (Cap. 117A);
+“goods and services tax” means the goods and services tax levied under the Goods and Services Tax Act [Cap. 117A];
 
 “guardian”, in relation to an infant, includes any person whom the Director considers might properly be appointed to be the next friend or guardian ad litem of the infant;
 
@@ -142,11 +122,11 @@ PRELIMINARY
 
 3\.—(1) The Minister may appoint a person to be the Director of Legal Aid and may also appoint such number of Deputy Directors and Assistant Directors of Legal Aid as he may consider necessary for the proper carrying out of this Act.
 
-(2) No person shall be appointed to be or to act temporarily as the Director, a Deputy Director or an Assistant Director of Legal Aid unless he is a qualified person as defined in section 2 of the Legal Profession Act (Cap. 161) or is a solicitor.
+(2) No person shall be appointed to be or to act temporarily as the Director, a Deputy Director or an Assistant Director of Legal Aid unless he is a qualified person as defined in section 2 of the Legal Profession Act [Cap. 161] or is a solicitor.
 
 (3) Notwithstanding any provision of any written law to the contrary, the Director and every Deputy Director or Assistant Director of Legal Aid shall, for the purposes of this Act, have the right to appear and plead in all courts of justice in Singapore according to the law in force in such courts.
 
-(4) The Director and every Deputy Director or Assistant Director of Legal Aid shall be deemed to be public servants within the meaning of the Penal Code (Cap. 224).
+(4) The Director and every Deputy Director or Assistant Director of Legal Aid shall be deemed to be public servants within the meaning of the Penal Code [Cap. 224].
 
 ### Panels of solicitors
 
@@ -180,25 +160,21 @@ LEGAL AID IN CIVIL ACTIONS
 
 (3) Regulations made for the purpose of this section shall not provide for giving legal aid in connection with any proceedings before any court or tribunal before which persons have no right and are not normally allowed to be represented by a solicitor.
 
-(4) In this section,
-
-“permanent resident” means any person who is not subject to any restrictions as to his period of residence in Singapore imposed under any written law relating to immigration for the time being in force in Singapore.
+(4) In this section, “permanent resident” means any person who is not subject to any restrictions as to his period of residence in Singapore imposed under any written law relating to immigration for the time being in force in Singapore.
 
 ### Application for legal aid
 
-6\.—(1) Any person who (whether in his own right or in a representative capacity) desires to be granted legal aid shall make application in that behalf to the Director; and every such application shall be accompanied by a statutory declaration verifying the facts stated in the application and a fee of $1 (inclusive of goods and services tax) or such other fee as may be prescribed.
+6\.—(1) Any person who (whether in his own right or in a representative capacity) desires to be granted legal aid shall make application in that behalf to the Director; and every such application shall be accompanied by a statutory declaration verifying the facts stated in the application and a fee of one dollar (inclusive of goods and services tax) or such other fee as may be prescribed.
 
 (2) Where the person who desires to be granted legal aid is an infant, the application shall be made on behalf of the infant by his guardian.
 
 (3) Where any application is made on behalf of an infant then —
 
-(a) a reference in section 7 or in section 8(2)(a) to the applicant shall be construed as a reference to the guardian and the infant jointly or to either of them severally; and
+(a) a reference in section 7 or 8(2)(a) to the applicant shall be construed as a reference to the guardian and the infant jointly or to either of them severally; and
 
 (b) a reference in sections 8(2)(b) and 9(1) or in the Second Schedule to the applicant shall, in any case where the infant is unmarried and the guardian is a relative of the infant, be construed as a reference to both the guardian and the infant and in every other case shall be construed as a reference to the infant only.
 
-(4) In subsection (3),
-
-“relative” means —
+(4) In subsection (3), “relative” means —
 
 (a) in the case of a legitimate child, any one of his parents;
 
@@ -274,19 +250,19 @@ the Director may require the applicant to make a contribution in one sum or by i
 
 ### Application for aid by more than one party
 
-11\. If, in relation to any proceedings to which a person who has made an application for legal aid or an aided person is a party, any other party makes application for legal aid, the provisions of this Act shall apply to both such parties:
+11\.—(1) If, in relation to any proceedings to which a person who has made an application for legal aid or an aided person is a party, any other party makes application for legal aid, the provisions of this Act shall apply to both such parties.
 
-Provided that the Director shall not himself act for either such party but shall assign a solicitor, to be selected by the aided person, if he so desires, or otherwise by the Director from the appropriate panel of solicitors maintained pursuant to section 4, to act for each aided person.
+(2) The Director shall not himself act for either party referred to in subsection (1) but shall assign a solicitor to be selected by the aided person, if he so desires, or otherwise by the Director from the appropriate panel of solicitors maintained pursuant to section 4, to act for each aided person.
 
 ### Endorsement and filing of certificate
 
-12\.—(1) Where a legal aid certificate is granted, the Director may act for the aided person or may assign a solicitor to be selected by the aided person, if he so desires, or otherwise by the Director from the appropriate panel maintained pursuant to section 4 so to act, and in such case shall endorse on the legal aid certificate the name of the solicitor so assigned:
+12\.—(1) Where a legal aid certificate is granted, the Director may act for the aided person or may assign a solicitor to be selected by the aided person, if he so desires, or otherwise by the Director from the appropriate panel of solicitors maintained pursuant to section 4 so to act, and in such case shall endorse on the legal aid certificate the name of the solicitor so assigned.
 
-Provided that in any case where a solicitor is assigned to act after such certificate is filed in court, or in any case where a new assignment is made in lieu of a solicitor assigned previously, the Director shall not be required to endorse on the certificate the name of the solicitor so assigned, or newly assigned, as the case may be, but may, instead, give notice of such assignment or new assignment by letter to the proper officer of the court in which proceedings are pending.
+(2) In any case where a solicitor is assigned to act after such certificate is filed in court, or in any case where a new assignment is made in lieu of a solicitor assigned previously, the Director shall not be required to endorse on the certificate the name of the solicitor so assigned, or newly assigned, as the case may be, but may, instead, give notice of such assignment or new assignment by letter to the proper officer of the court in which proceedings are pending.
 
-(2) Before taking any other step in the proceedings, the Director or the solicitor so assigned shall file the legal aid certificate in the registry of the court in which the proceedings are pending or are to be taken and no court fee shall be charged in respect of the filing of the certificate.
+(3) Before taking any other step in the proceedings, the Director or the solicitor so assigned shall file the legal aid certificate in the registry of the court in which the proceedings are pending or are to be taken and no court fee shall be charged in respect of the filing of the certificate.
 
-(3) Where any legal aid certificate is so filed, the aided person —
+(4) Where any legal aid certificate is so filed, the aided person —
 
 (a) shall not be liable in respect of any proceedings to which the certificate relates for court fees or for such fees payable for the service of process or for any fees due to the Sheriff in connection with the execution of process;
 
@@ -294,7 +270,7 @@ Provided that in any case where a solicitor is assigned to act after such certif
 
 (c) shall not, except where express provision is made in this Act, be liable for costs to any other party in any proceedings to which the certificate relates.
 
-(4) Subject to sections 9 and 13, no person who, pursuant to any reference under this Act, makes any investigation or report or gives any opinion or who pursuant to any assignment under this Act conducts any proceedings, shall take or agree to take or seek from an aided person any fee, profit or reward (pecuniary or otherwise) in respect thereof.
+(5) Subject to sections 9 and 13, no person who, pursuant to any reference under this Act, makes any investigation or report or gives any opinion or who pursuant to any assignment under this Act conducts any proceedings shall take or agree to take or seek from an aided person any fee, profit or reward (pecuniary or otherwise) in respect thereof.
 
 ### Deposit in respect of out-of-pocket expenses
 
@@ -308,17 +284,17 @@ Provided that in any case where a solicitor is assigned to act after such certif
 
 ### Court may order payment of costs by aided person in certain event
 
-14\.—(1) Where it appears to a court or judge that a legal aid certificate has been obtained by fraud or misrepresentation, the court or judge may order the aided person to pay the costs of the Director or of the solicitor who acted for him or the costs of the other party, or the costs of both the Director or the solicitor and the other party.
+14\.—(1) Where it appears to a court or a judge that a legal aid certificate has been obtained by fraud or misrepresentation, the court or the judge may order the aided person to pay the costs of the Director or of the solicitor who acted for him or the costs of the other party, or the costs of both the Director or the solicitor and the other party.
 
 (2) In subsection (1), a reference to an “aided person” includes, in any case where the legal aid certificate has been cancelled before the making of the order, the person who immediately before the cancellation was the aided person.
 
-(3) Where it appears to a court or judge that an aided person has acted improperly in bringing or defending any legal proceedings or in the conduct of them, the court or judge may order the aided person to pay the costs of the Director or of the solicitor who acted for him or the costs of the other party, or the costs of both the Director or the solicitor and the other party.
+(3) Where it appears to a court or a judge that an aided person has acted improperly in bringing or defending any legal proceedings or in the conduct of them, the court or the judge may order the aided person to pay the costs of the Director or of the solicitor who acted for him or the costs of the other party, or the costs of both the Director or the solicitor and the other party.
 
-(4) Where an order is made under subsection (1) or (3), the costs shall be taxed as if the party ordered to pay them were not an aided person.
+(4) Where an order is made under subsection (1) or (3), the costs shall be taxed as if the party ordered to pay costs were not an aided person.
 
 (5) The costs so ordered to be paid shall, unless otherwise directed by the order, include —
 
-(a) fees and charges of the nature referred to in section 12(3)(a) and (b); and
+(a) fees and charges of the nature referred to in section 12(4)(a) and (b); and
 
 (b) any sums which, pursuant to section 13(3), were expended by the Director in meeting out-of-pocket expenses or were advanced by the Director for that purpose.
 
@@ -328,9 +304,7 @@ Provided that in any case where a solicitor is assigned to act after such certif
 
 15\.—(1) An aided person shall not without the leave of the Director discharge any solicitor assigned to act for him under this Act.
 
-(2) Any solicitor assigned to act for an aided person shall not discontinue his aid without the leave of the Director:
-
-Provided that any solicitor may be represented by any other solicitor.
+(2) Any solicitor assigned to act for an aided person shall not discontinue his aid without the leave of the Director; except that any solicitor may be represented by any other solicitor.
 
 ### Costs
 
@@ -358,7 +332,7 @@ whichever is the lower.
 
 (a) counsel’s fees, whether or not the same have been paid;
 
-(b) fees and charges of the nature referred to in section 12(3)(a) and (b); and
+(b) fees and charges of the nature referred to in section 12(4)(a) and (b); and
 
 (c) any sums which, pursuant to section 13(3), are expended by the Director in meeting out-of-pocket expenses or are advanced by the Director for that purpose.
 
@@ -392,7 +366,7 @@ Provided that —
 
 ### Rules of Court
 
-19\. Where it is necessary or convenient to do so for carrying out or giving effect to this Act or any regulations made thereunder, the Rules Committee may, under section 80 of the Supreme Court of Judicature Act (Cap. 322), make rules regulating the practice and procedure of any court in which proceedings may be taken by an aided person.
+19\. Where it is necessary or convenient to do so for carrying out or giving effect to this Act or any regulations made thereunder, the Rules Committee may, under section 80 of the Supreme Court of Judicature Act [Cap. 322], make rules regulating the practice and procedure of any court in which proceedings may be taken by an aided person.
 
 ## PART III
 
@@ -410,7 +384,7 @@ LEGAL ADVICE
 
 (a) to satisfy the Director that he cannot afford to obtain it in the ordinary way; and
 
-(b) to pay to the Director a fee of $1 (inclusive of goods and services tax) or such other fee as may be prescribed.
+(b) to pay to the Director a fee of one dollar (inclusive of goods and services tax) or such other fee as may be prescribed.
 
 ## PART IV
 
@@ -432,7 +406,7 @@ SUPPLEMENTARY
 
 (2) Notwithstanding anything in subsection (1), the privileges therein referred to shall not arise in relation to any information tendered to the Director concerning the property or income of the applicant for a legal aid certificate.
 
-(3) Unless this Act or any regulations made thereunder otherwise provide, the rights conferred by this Act on a person receiving legal aid or legal advice, as the case may be, shall not affect the rights or liabilities of other parties to the proceedings or the principles on which the discretion of any court or tribunal is normally exercised.
+(3) Unless this Act or any regulations made thereunder otherwise provide, the rights conferred by this Act on a person receiving legal aid or advice, as the case may be, shall not affect the rights or liabilities of other parties to the proceedings or the principles on which the discretion of any court or tribunal is normally exercised.
 
 ### Regulations
 
@@ -472,19 +446,17 @@ SUPPLEMENTARY
 
 24\. The Minister may, by notification in theGazette, amend the Second Schedule.
 
-### Repeal and savings
+### Savings
 
-25\.—(1) The Legal Aid and Advice Act (referred to in this section as the repealed Act (Cap. 160)) is repealed.
+25\.—(1) All legal aid certificates granted, all orders and applications made, notices given and acts and things done under the repealed Legal Aid and Advice Act before 1st October 1995 shall have the same force and effect as if granted, made, given or done under this Act.
 
-(2) All legal aid certificates granted, all orders and applications made, notices given and acts and things done under the repealed Act before the commencement of this Act shall have the same force and effect as if granted, made, given or done under this Act.
-
-(3) A person who immediately before the commencement of this Act held office as the Director of Legal Aid, a Deputy Director of Legal Aid or an Assistant Director of Legal Aid shall continue to hold office as if he had been appointed under section 3 of this Act.
+(2) A person who immediately before 1st October 1995 held office as the Director of Legal Aid, a Deputy Director of Legal Aid or an Assistant Director of Legal Aid shall continue to hold office as if he had been appointed under section 3 of this Act.
 
 FIRST SCHEDULE
 
-Section 5(1)
+Section 5(1).
 
-Civil Proceedings for Which Legal Aid May be Given
+Civil proceedings for which legal aid may be given
 
 Part I
 
@@ -498,7 +470,7 @@ Description of Proceedings
 
 4\. Proceedings before any person to whom a case is referred in whole or in part by a District Court.
 
-5\. Proceedings under the Women’s Charter (Cap. 353).
+5\. Proceedings under the Women’s Charter.
 
 6\. Proceedings before the Rent Conciliation Board and the Tenants’ Compensation Board.
 
@@ -526,9 +498,9 @@ Excepted Proceedings
 
 SECOND SCHEDULE
 
-Section 8(2)
+Section 8(2).
 
-Requirements Relating to Means of An Applicant for Legal Aid
+Requirements relating to means of an applicant for legal aid
 
 1. For the purposes of section 8(2) of the Act —
 
@@ -578,3 +550,20 @@ Requirements Relating to Means of An Applicant for Legal Aid
 
 5\. For the purposes of paragraphs 1 and 2, the Director may, in any case where an applicant for legal aid is living separate and apart from his spouse and where it appears to the Director in his absolute discretion to be reasonable to do so to relieve hardship, disregard the income of the spouse.
 
+## LEGISLATIVE HISTORY
+
+Legal Aid and Advice Act
+
+(CHAPTER 160)
+
+This Legislative History is provided for the convenience of users of the Legal Aid and Advice Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 20 of 1995—Legal Aid and Advice Act 1995**|
+||Date of First Reading|15 March 1995|
+|||(Bill No. 15/95 published on 16 March 1995)|
+||Date of Second and Third Readings|7 July 1995|
+||Date of commencement|1 October 1995|
+|2.|**1996 Revised Edition—Legal Aid and Advice Act (Chapter 160)**|
+||Date of operation|30 April 1996|
