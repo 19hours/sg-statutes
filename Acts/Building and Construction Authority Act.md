@@ -354,7 +354,7 @@ FINANCIAL PROVISIONS
 
 19A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Authority under this Act, or of any capital injection or other investment by the Government in the Authority in accordance with any written law, the Authority shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
 
-[5/2002 wef 15/07/2002]
+[5/2002 wef 15/12/2002]
 
 ### Bank accounts and application of moneys
 
@@ -362,7 +362,9 @@ FINANCIAL PROVISIONS
 
 (2) The moneys of the Authority shall be applied only in payment or discharge of the expenses, obligations and liabilities of the Authority and in making any payments that the Authority is authorised or required to make.
 
-(3) Moneys belonging to the Authority may, from time to time, be invested in securities in which trust funds may, by any written law for the time being in force relating to trustees, be invested.
+(3) The Authority may invest its moneys in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
+
+[45/2004 wef 15/12/2004]
 
 ### Accounts and financial statements
 
@@ -513,18 +515,23 @@ This Legislative History is provided for the convenience of users of the Buildin
 ||||
 |:-|:-|:-|
 |1.|**Act 4 of 1999—Building and Construction Authority Act 1999**|
-||Date of First Reading|23 November 1998|
-|||(Bill No. 51/98 published on 24 November 1998)|
-||Date of Second and Third Readings|20 January 1999|
-||Date of commencement|1 April 1999|
-|2.|**2000 Revised Edition—Building and Construction Authority Act (Chapter 30A)**|
+||Date of First Reading|23.11.98|
+|||(Bill No. 51/98 published on 24.11.98)|
+||Date of Second and Third Readings|20.1.99|
+||Date of commencement|1.4.99|
+|2.|**2000 Revised Edition—Building and Construction Authority Act**|
 ||Date of operation|30 December 2000|
 |3.|**Act 5 of 2002—Statutory Corporations (Capital Contribution) Act 2002**|
-||(Consequential amendments made to Act by)||
 ||Date of First Reading|3 May 2002|
-|||(Bill No. 7/2002 published on 4 May 2002)|
+|||(Bill No. 7/2002 published on 5 July 2002)|
 ||Date of Second and Third Readings|24 May 2002|
-||Dates of commencement|15 July 2002 (except item (18) of Schedule)|
+||Dates of commencement|29 July 2002|
+|||15 July 2002|
+|4.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
+||Date of First Reading|21 September 2004|
+|||(Bill No. 43/2004 published on 12 November 2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|15 December 2004|
 ## COMPARATIVE TABLE
 
 Building and Construction Authority Act
