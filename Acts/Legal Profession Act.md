@@ -22,6 +22,8 @@
 
 - [5 General powers of Board](#General-powers-of-Board)
 
+- [5A Senate of Academy may give directions to Board](#Senate-of-Academy-may-give-directions-to-Board)
+
 - [6 Power of Minister and Board as to recognition of foreign qualifications](#Power-of-Minister-and-Board-as-to-recognition-of-foreign-qualifications)
 
 - [7 Constitution of Board](#Constitution-of-Board)
@@ -77,6 +79,10 @@
 [**Part IV PRIVILEGES OF ADVOCATES AND SOLICITORS**](#Part-IV)
 
 - [28 Privileges of advocates and solicitors](#Privileges-of-advocates-and-solicitors)
+
+- [28A Appointment of Senior Counsel](#Appointment-of-Senior-Counsel)
+
+- [28B Order of precedence in court](#Order-of-precedence-in-court)
 
 - [29 Qualifications to practise](#Qualifications-to-practise)
 
@@ -160,7 +166,7 @@
 
 - [62 Expenses of members](#Expenses-of-members)
 
-- [63 Proceedings of Council, its staff and Inquiry Committee to be secret](#Proceedings-of-Council-its-staff-and-Inquiry-Committee-to-be-secret)
+- [63 Proceedings of Council and its Inquiry Committees to be confidential](#Proceedings-of-Council-and-its-Inquiry-Committees-to-be-confidential)
 
 [**General meetings of the Society**](#General-meetings-of-the-Society)
 
@@ -204,7 +210,7 @@
 
 - [81 Appointment of Inquiry Panel](#Appointment-of-Inquiry-Panel)
 
-- [82 Applications and complaints](#Applications-and-complaints)
+- [82 Complaints against advocates and solicitors](#Complaints-against-advocates-and-solicitors)
 
 - [83 Inquiry](#Inquiry)
 
@@ -354,6 +360,10 @@ PRELIMINARY
 
 2\. In this Act, unless the context otherwise requires —
 
+“Academy” means the Singapore Academy of Law established under the Singapore Academy of Law Act 1988 (Act 18 of 1988);
+
+[Act 15 of 1989 wef 21/04/1989]
+
 “advocate and solicitor”, “advocate” and “solicitor” mean an advocate and solicitor of the Supreme Court;
 
 “Board” means the Board of Legal Education established under section 3;
@@ -472,6 +482,12 @@ Board of Legal Education
 
 (i) for prescribing the forms to be used and the fees to be paid for the purposes of this Part.
 
+### Senate of Academy may give directions to Board
+
+5A\. The Senate of the Academy may, after consultation with the Board, give such directions, not inconsistent with the provisions of this Act, to the Board as to the exercise and performance by the Board of its functions and powers, and the Board shall give effect to any such direction.
+
+[Act 15 of 1989 wef 21/04/1989]
+
 ### Power of Minister and Board as to recognition of foreign qualifications
 
 6\.—(1) The Minister may, on the advice of the Board, by notification in theGazettedeclare any degree or qualification to be sufficient to qualify the holder thereof for admission as an advocate and solicitor subject to his obtaining a certificate under this section.
@@ -490,15 +506,13 @@ Board of Legal Education
 
 (a) the Attorney-General;
 
-(b) a judge of the Supreme Court nominated by the Chief Justice;
+(b) the Dean of the Faculty;
 
-(c) two advocates and solicitors nominated by the Minister;
+(c) five advocates and solicitors nominated by the Senate of the Academy after consultation with the Council of the Society; and
 
-(d) three advocates and solicitors nominated by the Society;
+(d) three other members nominated by the Senate of the Academy.
 
-(e) the Dean of the Faculty; and
-
-(f) two members of the Faculty nominated by the Faculty.
+[Act 15 of 1989 wef 21/04/1989]
 
 (2) The members of the Board, other than the Attorney-General and the Dean of the Faculty, shall be nominated to hold office for a term of 3 years.
 
@@ -612,11 +626,19 @@ Provided that this subsection shall not —
 
 (a) has been a pupil or read in the chambers of a practising barrister of the United Kingdom or of a member of the Faculty of Advocates in Scotland of more than 7 years’ standing;
 
-(b) is a solicitor in England or Northern Ireland or a writer to the Signet, law agent or solicitor in Scotland; or
+(b) is a solicitor in England or Northern Ireland or a writer to the Signet, law agent or solicitor in Scotland;
 
-(c) has been engaged in active practice as a legal practitioner by whatever name called in any part of the Commonwealth.
+[Act 15 of 1989 wef 21/04/1989]
+
+(c) has been engaged in active practice as a legal practitioner by whatever name called in any part of the Commonwealth; or
+
+[Act 15 of 1989 wef 21/04/1989]
+
+(d) has attended such course of instruction and successfully passed such examination as may be approved by the Board for the purposes of this section.
 
 [12
+
+[Act 15 of 1989 wef 21/04/1989]
 
 ### Admission of Malayan practitioners
 
@@ -878,7 +900,9 @@ PRIVILEGES OF ADVOCATES AND SOLICITORS
 
 ### Privileges of advocates and solicitors
 
-28\.—(1) Advocates and solicitors shall, subject to the provisions of any written law, have the exclusive right to appear and plead in all courts of justice in Singapore according to the law in force in those courts; and as between themselves shall have the same rights and privileges without differentiation.
+28\.—(1) Advocates and solicitors shall, subject to the provisions of any written law, have the exclusive right to appear and plead in all courts of justice in Singapore according to the law in force in those courts; and as between themselves shall subject to section 28B have the same rights and privileges without differentiation.
+
+[Act 15 of 1989 wef 21/04/1989]
 
 (2) Nothing herein shall affect the right which is hereby declared of —
 
@@ -891,6 +915,22 @@ PRIVILEGES OF ADVOCATES AND SOLICITORS
 (3) The Attorney-General and the Solicitor-General appearing personally shall have such priority as is customarily accorded to the holders of those offices in England.
 
 [33
+
+### Appointment of Senior Counsel
+
+28A\.—(1) The Senate of the Academy may appoint an advocate and solicitor or a legal officer as Senior Counsel if they are of the opinion that by virtue of that person’s ability, standing at the Bar or special knowledge or experience in law he is deserving of such distinction.
+
+(2) No person shall be appointed as a Senior Counsel unless he has for an aggregate period of not less than 10 years been an advocate and solicitor or a legal officer or both.
+
+(3) Upon the commencement of the Legal Profession (Amendment) Act 1989, those persons who on the date immediately preceding the commencement of that Act are holding office as the Attorney-General and the Solicitor-General shall be deemed to have been appointed as Senior Counsel under this section.
+
+[Act 15 of 1989 wef 21/04/1989]
+
+### Order of precedence in court
+
+28B\. Senior Counsel shall rank in precedence after the Attorney-General and the Solicitor-General according to their seniority of appointment as Senior Counsel but if two or more are appointed on the same day they shall take precedence according to the date on which they were admitted as advocates and solicitors.
+
+[Act 15 of 1989 wef 21/04/1989]
 
 ### Qualifications to practise
 
@@ -1452,11 +1492,11 @@ Proceedings of Council
 
 [67
 
-### Proceedings of Council, its staff and Inquiry Committee to be secret
+### Proceedings of Council and its Inquiry Committees to be confidential
 
-63\. Except in so far as may be necessary for the purpose of giving effect to any resolutions or decisions of the Council or the Inquiry Committee secrecy shall be maintained in all proceedings conducted by the Council, its staff and the Inquiry Committee.
+63\. Except insofar as may be necessary for the purpose of giving effect to any resolutions or decisions of the Council and its Inquiry Committees confidentiality shall be maintained in all proceedings conducted by the Council, its staff and Inquiry Committees.
 
-[68
+[Act 15 of 1989 wef 21/04/1989]
 
 General meetings of the Society
 
@@ -1803,17 +1843,25 @@ Provided that the jurisdiction given by this subsection shall be exercised by a 
 
 (4) In any proceedings under this Part the court may in addition to the facts of the case take into account the past conduct of the person concerned in order to determine what order should be made.
 
+(5) In any proceedings instituted under this Part against an advocate and solicitor consequent upon his conviction for a criminal offence, an Inquiry Committee, a Disciplinary Committee appointed under section 87 and a court of 3 judges referred to in section 95 shall accept his conviction as final and conclusive.
+
 [84
+
+[Act 15 of 1989 wef 21/04/1989]
 
 ### Appointment of Inquiry Panel
 
-81\.—(1) For the purpose of enabling Inquiry Committees to be constituted in accordance with this Part, the Chief Justice shall appoint a panel (hereinafter referred to as the Inquiry Panel) consisting of not more than 20 advocates and solicitors (whether in practice or not) and not more than 20 lay persons.
+81\.—(1) For the purpose of enabling Inquiry Committees to be constituted in accordance with this Part, the Chief Justice shall appoint a panel (hereinafter referred to as the Inquiry Panel) consisting of not more than 40 advocates and solicitors (whether in practice or not) and not more than 40 lay persons.
 
 [30/86]
 
+[Act 15 of 1989 wef 21/04/1989]
+
 (2) An advocate and solicitor shall be eligible to be appointed as a member of the Inquiry Panel if he has not less than 12 years’ standing.
 
-(3) A member of the Inquiry Panel shall be appointed for a term of 3 years and shall be eligible for reappointment.
+(3) A member of the Inquiry Panel shall be appointed for a term of two years and shall be eligible for reappointment.
+
+[Act 15 of 1989 wef 21/04/1989]
 
 (4) The Chief Justice may at any time remove from office any member of the Inquiry Panel or fill any vacancy in its membership.
 
@@ -1821,69 +1869,91 @@ Provided that the jurisdiction given by this subsection shall be exercised by a 
 
 [85
 
-### Applications and complaints
+### Complaints against advocates and solicitors
 
-82\.—(1) Any application by any person that an advocate and solicitor be dealt with under this Part and any complaint of the conduct of an advocate and solicitor in his professional capacity shall in the first place be made to the Society and the Council shall refer the application or complaint to the Chairman of the Inquiry Panel.
+82\.—(1) An application by any person that an advocate and solicitor be dealt with under this Part and any complaint of the conduct of an advocate and solicitor in his professional capacity shall in the first place be made to the Society and the Council shall refer the application or complaint to the Chairman of the Inquiry Panel.
 
-[30/86]
+(2) The Council may on its own motion refer any information touching upon the conduct of an advocate and solicitor in his professional capacity to the Chairman of the Inquiry Panel.
 
-(2) The Supreme Court or any judge thereof or the Attorney-General may at any time refer to the Society any information touching upon the conduct of a solicitor in his professional capacity and the Council shall issue a written order to the Chairman of the Inquiry Panel to constitute an Inquiry Committee or apply to the Chief Justice to appoint a Disciplinary Committee where the Supreme Court or the judge thereof or the Attorney-General requests that the matter or complaint be referred to a Disciplinary Committee.
+(3) The Supreme Court or any judge thereof or the Attorney-General may at any time refer to the Society any information touching upon the conduct of an advocate and solicitor in his professional capacity and the Council shall —
 
-(3) Where a written application or complaint is referred to the Chairman of the Inquiry Panel, he shall forthwith constitute an Inquiry Committee consisting of —
+(a) refer the matter to the Chairman of the Inquiry Panel; or
 
-(a) two members of the Inquiry Panel who are advocates and solicitors;
+(b) where the Supreme Court or a judge thereof or the Attorney-General requests that the matter be referred to a Disciplinary Committee, apply to the Chief Justice to appoint a Disciplinary Committee.
 
-(b) one member of the Inquiry Panel who is a lay person; and
+(4) Where an application under subsection (1) or any complaint or information touching upon the conduct of an advocate and solicitor in his professional capacity is referred to the Chairman of the Inquiry Panel, the Council shall inform the advocate and solicitor concerned that it has done so.
 
-(c) a legal officer who has not less than 10 years’ experience,
+(5) Where an application or any complaint or information touching upon the conduct of an advocate and solicitor in his professional capacity is referred to the Chairman of the Inquiry Panel pursuant to subsection (1), (2) or (3), he shall forthwith constitute an Inquiry Committee consisting of —
 
-to inquire into the application or complaint.
+(a) a chairman, being a member of the Inquiry Panel who is an advocate and solicitor;
 
-(4) The chairman of an Inquiry Committee shall be an advocate and solicitor and shall have a casting vote.
+(b) a member of the Inquiry Panel who is an advocate and solicitor;
 
-(5) All the members of an Inquiry Committee shall be personally present to constitute a quorum for the transaction of any business.
+(c) a member of the Inquiry Panel who is a lay person; and
 
-(6) Every written application or complaint received by the Society shall be supported by such statutory declarations or affidavits as the Chairman of the Inquiry Panel or an Inquiry Committee may require.
+(d) a legal officer who has not less than 10 years’ experience,
 
-(7) Before inquiring into any matter under section 83 the Inquiry Committee may require any person making a written application or complaint to deposit with the Society a reasonable sum not exceeding $500 to cover necessary costs and expenses and in case the application or complaint is found to be frivolous or vexatious, the sum so deposited or such part thereof as the Inquiry Committee may determine shall be applied for the payment of those costs and expenses; otherwise, the sum so deposited shall be returned to the person making the same.
+to inquire into the application, complaint or information.
 
-[86
+(6) An Inquiry Committee may meet for the purposes of its inquiry, adjourn and otherwise regulate the conduct of its inquiry as the members may think fit.
+
+(7) The Chairman of an Inquiry Committee may at any time summon a meeting of the Inquiry Committee.
+
+(8) Any questions arising at any meeting of an Inquiry Committee shall be determined by a majority of votes of the members of the Committee, and in the case of an equality of votes, the Chairman shall have a second or casting vote.
+
+(9) All the members of an Inquiry Committee shall be present to constitute a quorum for a meeting of the Inquiry Committee and any resolution or decision in writing signed by all the members of an Inquiry Committee shall be as valid and effectual as if it had been made or reached at a meeting of the Inquiry Committee where all its members were present.
+
+(10) Every written application or complaint received by the Society shall be supported by such statutory declarations or affidavits as the Chairman of the Inquiry Panel or of an Inquiry Committee may require.
+
+(11) An Inquiry Committee may require any person making a written application or complaint to the Society under this Part to deposit with the Society a reasonable sum not exceeding $500 to cover necessary costs and expenses and in case the application or complaint is found to be frivolous or vexatious, the sum so deposited or such part thereof as the Inquiry Committee may determine shall be applied for the payment of those costs and expenses; otherwise the sum so deposited shall be returned to the person making the same.
+
+(12) A member of an Inquiry Committee shall, notwithstanding that he has ceased to be a member of the Inquiry Panel on the expiry of his term of office, be deemed to be a member of the Inquiry Panel until such time as the Council has decided that the Inquiry Committee of which he is a member has completed its work.
+
+[Act 15 of 1989 wef 21/04/1989]
 
 ### Inquiry
 
-83\.—(1) An Inquiry Committee shall, within two weeks of its appointment, commence its inquiry into the matter and report its findings to the Council as expeditiously as may be reasonably expected of it but in any event not later than two months after the commencement of such inquiry.
+83\.—(1) Subject to subsections (2), (3) and (4), an Inquiry Committee shall, within two weeks of its appointment, commence its inquiry into an application under section 82(1) or any complaint or information touching upon the conduct of an advocate and solicitor in his professional capacity and report its findings to the Council —
 
-[30/86]
+(a) in any case where the members of the Inquiry Committee have decided not to call upon the advocate and solicitor concerned to offer any explanation or to answer the allegations made against him, not later than two months after the date of its appointment; and
 
-(2) The Inquiry Committee shall also report to the Council where the Inquiry Committee is satisfied that there are no grounds for such an application or complaint.
+(b) in any other case, not later than two weeks after the last meeting of the Inquiry Committee or 3 months after the date of its appointment, whichever is earlier.
 
-(3) For the purposes of any such inquiry the Inquiry Committee may —
+(2) Where an Inquiry Committee is of the opinion that it will not be able to report its findings to the Council within the period specified in subsection (1)(b) due to the complexity of the matter or serious difficulties encountered by the Inquiry Committee in conducting its inquiry, the Inquiry Committee may apply in writing to the Chairman of the Inquiry Panel for an extension of the time to report its findings to the Council.
 
-(a) call upon or employ any person to make or assist in the making of whatever preliminary inquiries it thinks necessary;
+(3) The Chairman of the Inquiry Panel may grant an extension of time to an Inquiry Committee to report its findings to the Council if he is satisfied that the circumstances of the case justify the grant of an extension of time except that any extension of time granted shall not extend beyond the period of 6 months from the date of the appointment of that Inquiry Committee.
 
-(b) require the production for inspection by the Inquiry Committee or any person so employed of any books, documents or papers which may relate to or be connected with the subject-matter of the inquiry and may require any person to give information in relation to such books, documents or papers; and
+(4) No application for an extension of time may be made to the Chairman of the Inquiry Panel under subsection (2) on the expiry of two months after the date of the appointment of the Inquiry Committee.
 
-(c) require the member concerned to give all information in relation to any such books, documents or papers which may be reasonably required by the Inquiry Committee or by the person so employed.
+(5) Where an Inquiry Committee is satisfied that there are no grounds for disciplinary action under this Part, it shall report to the Council accordingly and state the reasons for its decision.
 
-(4) Any advocate and solicitor and any other person who without lawful excuse refuses or fails to produce to the Inquiry Committee or to any person whom the Committee may employ for the purposes of inquiry any books, documents or papers required of him as aforesaid or fails to give any such information relating thereto shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500.
+(6) Where an Inquiry Committee is of the opinion that an advocate and solicitor should be called upon to answer any allegation made against him, the Inquiry Committee shall post or deliver to the advocate and solicitor concerned —
 
-(5) Before the Inquiry Committee commences its hearing in respect of any matter —
+(a) copies of any written application, complaint or information touching upon his conduct in a professional capacity and of any statutory declarations or affidavits that have been made in support of the application, complaint or information; and
 
-(a) the Inquiry Committee shall post or deliver to the advocate and solicitor concerned —
+(b) a notice inviting the advocate and solicitor concerned to give within such period (not being less than 14 days) as may be specified in the notice to the Inquiry Committee any written explanation he may wish to offer and to advise the Inquiry Committee if he wishes to be heard by the Committee,
 
-(i) copies of any written application or complaint and of any statutory declarations or affidavits that have been made in support of the application or complaint; and
+and allow the time specified in the notice to elapse and shall give the advocate and solicitor concerned reasonable opportunity to be heard if he so desires and shall also give due consideration to any explanation (if any) given by him.
 
-(ii) a notice inviting the member concerned, within such period (not being less than 14 days) as may be specified in the notice, to give to the Inquiry Committee any written explanation he may wish to offer and to advise the Inquiry Committee if he wishes to be heard by the Committee; and
-
-(b) the Inquiry Committee shall allow the time specified in the notice to elapse and shall give the advocate and solicitor concerned reasonable opportunity to be heard if he so desires and shall give due consideration to any explanation he may make.
-
-(6) The report of the Inquiry Committee shall, inter alia, deal with the question of the necessity or otherwise of a formal investigation by a Disciplinary Committee and, if in the view of the Inquiry Committee no formal investigation by a Disciplinary Committee is required, the Inquiry Committee shall recommend to the Council —
+(7) The report of the Inquiry Committee shall, inter alia, deal with the question of the necessity or otherwise of a formal investigation by a Disciplinary Committee and, if in the view of the Inquiry Committee no formal investigation by a Disciplinary Committee is required, the Inquiry Committee shall recommend to the Council —
 
 (a) a penalty sufficient and appropriate to the misconduct committed; or
 
-(b) the dismissal of the complaint.
+(b) that the complaint be dismissed.
 
-[87
+(8) Where in the course of its inquiry an Inquiry Committee receives information touching on or evidence of the conduct of the advocate and solicitor concerned which may give rise to proceedings under this Part, the Inquiry Committee may decide on its own motion to inquire into that matter and report its findings to the Council.
+
+(9) For the purposes of conducting an inquiry, an Inquiry Committee may —
+
+(a) appoint any person to make or assist in the making of whatever preliminary inquiries it thinks necessary;
+
+(b) require the production for inspection by the Inquiry Committee or any person appointed by the Committee of any books, documents or papers which may relate to or be connected with the subject-matter of the inquiry and may require any person to give information in relation to such books, documents or papers; and
+
+(c) require the advocate and solicitor concerned to give all information in relation to any such books, documents or papers which may be reasonably required by the Inquiry Committee or by the person so employed.
+
+(10) Any advocate and solicitor and any other person who without lawful excuse refuses or fails to produce to the Inquiry Committee or to any person whom the Committee may appoint for the purposes of an inquiry any books, documents or papers required of him as aforesaid or fails to give any such information relating thereto shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+
+[Act 15 of 1989 wef 21/04/1989]
 
 ### Council’s consideration of report
 
@@ -1971,7 +2041,9 @@ to be known for the purposes of this Act as Disciplinary Committees.
 
 [30/86]
 
-(2) For the purpose of any application or complaint heard and investigated by it under this Act the Disciplinary Committee may administer oaths and the Society or the applicant or person making the complaint and the solicitor to whom the application or complaint relates and (if so instructed by the Disciplinary Committee) the secretary of the Disciplinary Committee may sue out writs of subpoena ad testificandum and of duces tecum but no person shall be compelled under any such writ to produce any document which he could not be compelled to produce at the trial of an action.
+(2) For the purpose of any application or complaint heard and investigated by it under this Act the Disciplinary Committee may administer oaths and the Society or the applicant or person making the complaint and the solicitor to whom the application, complaint or matter relates and (if so instructed by the Disciplinary Committee) the secretary of the Disciplinary Committee may sue out writs of subpoena ad testificandum and of duces tecum but no person shall be compelled under any such writ to produce any document which he could not be compelled to produce at the trial of an action.
+
+[Act 15 of 1989 wef 21/04/1989]
 
 (3) The writs referred to in subsection (2) shall be served and may be enforced as if they were writs issued in connection with a civil action in the High Court.
 
@@ -2119,7 +2191,9 @@ and such order for the payment of costs as may be just.
 
 (5) Any order absolute, made in cases where personal service of the order to show cause has not been effected, may be set aside on the application of the solicitor on good cause being shown.
 
-(6) The application to make absolute and the showing of cause consequent upon any order to show cause made under subsections (1) and (2) shall be heard by a court of 3 judges of whom the Chief Justice shall be one and from the decision of that court there shall be no appeal except to the Judicial Committee of Her Britannic Majesty’s Privy Council. For the purposes of an appeal to that Committee an order made under this subsection shall be deemed to be an order of an appellate court.
+(6) The application to make absolute and the showing of cause consequent upon any order to show cause made under subsections (1) and (2) shall be heard by a court of 3 judges and from the decision of that court there shall be no appeal.
+
+[Act 15 of 1989 wef 21/04/1989]
 
 (7) The judge who made the order to show cause shall not thereby be disqualified from sitting as a member of the court of 3 judges under subsection (6).
 
@@ -2807,3 +2881,8 @@ This Legislative History is provided for the convenience of users of the Legal P
 ||Date of commencement|31 October 1986|
 |14.|**1985 Revised Edition—Legal Profession Act (Chapter 161)**|
 ||Date of operation|30 March 1987|
+|15.|**Act 15 of 1989—Legal Profession (Amendment) Act 1989**|
+||Date of First Reading|16 January 1989|
+|||(Bill No. 9/89 published on 16 January 1989)|
+||Date of Second and Third Readings|17 February 1989|
+||Date of commencement|21 April 1989|
