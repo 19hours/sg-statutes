@@ -810,7 +810,7 @@ REGULATION OF BUSINESS
 
 (b) a firm in which that finance company or any of its directors has an interest as a partner, manager or agent, or any individual or firm of whom or of which any of that finance company’s directors is a guarantor;
 
-(c) a company in which any of that finance company’s directors, whether legally or beneficially, owns more than 50% of the issued capital or in which any of that finance company’s directors controls the composition of the board of directors, but excluding any public company the securities of which are listed on the Singapore Exchange Securities Trading Limited or any other stock exchange which the Authority may approve, and the subsidiaries of such public company; or
+(c) a company in which any of that finance company’s directors, whether legally or beneficially, owns more than 50% of the issued capital or in which any of that finance company’s directors controls the composition of the board of directors, but excluding any public company the securities of which are listed on the Singapore Exchange Securities Trading Limited or any other securities exchange which the Authority may approve under the Securities and Futures Act 2001, and the subsidiaries of such public company; or
 
 [42/2001 wef 01/10/2002]
 
@@ -1434,6 +1434,12 @@ This Legislative History is provided for the convenience of users of the Finance
 ||Date of commencement|13 September 1999|
 |11.|**2000 Revised Edition—Finance Companies Act**|
 ||Date of operation|30 December 2000|
+|12.|**Act 42 of 2001—Securities and Futures Act 2001**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|25 September 2001|
+|||(Bill No. 33/2001 published on 26 September 2001)|
+||Date of Second and Third Readings|5 October 2001|
+||Date of commencement|1 October 2002 (Item (8) of Fourth Schedule — Amendment to Finance Companies Act)|
 ## COMPARATIVE TABLE
 
 Finance Companies Act
