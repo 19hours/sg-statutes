@@ -68,6 +68,8 @@
 
 - [28 Change of existing use to use for residential purposes](#Change-of-existing-use-to-use-for-residential-purposes)
 
+- [28A Approval for residential development on land deemed non-residential](#Approval-for-residential-development-on-land-deemed-non-residential)
+
 [**Part IV MISCELLANEOUS**](#Part-IV)
 
 - [29 Controller of Residential Property to administer this Act](#Controller-of-Residential-Property-to-administer-this-Act)
@@ -204,9 +206,9 @@ which has been sold by the Housing and Urban Development Company (Private) Limit
 
 “land” includes land, freehold and leasehold, or of whatever tenure, whether or not held apart from the surface, and buildings or parts thereof (whether completed or otherwise and whether divided horizontally, vertically or in any other manner), and tenements and hereditaments, corporeal or incorporeal;
 
-“Master Plan” means the Master Plan including the written statement submitted to and approved by the Governor in Council on 5th August 1958 under the provisions of Part IV of the Singapore Improvement Ordinance\*[1955 Ed., Cap. 259] and the rules made thereunder, and includes all alterations and additions thereto submitted to and approved by the Governor in Council or the Minister under those provisions and rules and the provisions of Part II of the Planning Act [Cap. 232] and the rules made thereunder;
+“Master Plan” has the same meaning as in the Planning Act 1998;
 
-\*Repealed by Ordinances 11 and 12 of 1959.
+[Act 3 of 1998 wef 01/04/1998]
 
 “member”, in relation to a foreign company, a converted foreign company or a Singapore company, has the same meaning as in section 19(6) of the Companies Act [Cap. 50];
 
@@ -314,23 +316,33 @@ shall be null and void.
 
 (a) any flat, not being a HUDC flat, comprised in any building consisting of 6 or more levels including the ground level and any level below the ground; or
 
-(b) any flat or dwelling-house shown as a unit in an approved plan bearing the title “Condominium” and issued by the competent authority under the Planning Act [Cap. 232].
+(b) any flat or dwelling-house shown as a unit in an approved plan bearing the title “Condominium” and issued by the relevant competent authority under the Planning Act 1998.
+
+[Act 3 of 1998 wef 01/04/1998]
 
 (2) Nothing in subsection (1) shall be construed to permit a foreign person to purchase or acquire —
 
-(a) all the flats in every building consisting of 6 or more levels in a development permitted to be used under the Planning Act for residential purposes; or
+(a) all the flats in every building consisting of 6 or more levels in a development permitted to be used under the Planning Act 1998 for residential purposes; or
 
-(b) all the units in a development approved by the competent authority under the Planning Act as a condominium development,
+[Act 3 of 1998 wef 01/04/1998]
+
+(b) all the units in a development approved by the relevant competent authority under the Planning Act 1998 as a condominium development,
 
 without having obtained the approval of the Minister.
 
+[Act 3 of 1998 wef 01/04/1998]
+
 (3) A foreign person who purchases or acquires any estate or interest in —
 
-(a) all the flats in every building consisting of 6 or more levels in any development permitted to be used under the Planning Act for residential purposes; or
+(a) all the flats in every building consisting of 6 or more levels in any development permitted to be used under the Planning Act 1998 for residential purposes; or
 
-(b) all the units of a development approved by the competent authority under the Planning Act as a condominium development,
+[Act 3 of 1998 wef 01/04/1998]
+
+(b) all the units of a development approved by the relevant competent authority under the Planning Act 1998 as a condominium development,
 
 without having obtained the approval of the Minister shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
+
+[Act 3 of 1998 wef 01/04/1998]
 
 (4) Where a foreign person is convicted of an offence under subsection (3), the Minister may direct the Controller to serve a notice on that person to divest and transfer, within a period of 6 months of the date of service of the notice on that person or within any extension of time granted by the Minister under subsection (5), all his estate or interest in the development in respect of which the offence is committed to another person who is not —
 
@@ -793,6 +805,34 @@ subject to any condition imposed by the Minister and the Minister is satisfied t
 ### Change of existing use to use for residential purposes
 
 28\. Where any foreign person is the owner or purchaser of any immovable property other than residential property prior to 11th September 1973, or has after that date acquired or purchased any such immovable property, that foreign person shall be required to make application to the Minister (through the Controller) for the grant of approval to change the existing use of such immovable property (whether it is land, a house, a building or other premises or part thereof) to use for any purpose other than industrial or commercial, prior to his making an application to the competent authority, appointed under the Planning Act [Cap. 232], for such change; and such foreign person shall not be granted permission under that Act for such change of use unless he has been granted approval by the Minister for the change.
+
+### Approval for residential development on land deemed non-residential
+
+28A\.—(1) Where any foreign person is the owner of any vacant land (whether or not with a vacant or disused building or structure thereon) which has been —
+
+(a) zoned for any of the purposes declared to be industrial, commercial or non-residential by the Minister under sub-paragraph (iv) of the definition of “residential property” in section 2(1); and
+
+(b) rezoned at any time on or after the commencement of this section pursuant to any alteration to the Master Plan (other than an alteration made in relation to any application for permission to develop under the Planning Act 1998) and is still zoned for a purpose other than that declared under that sub-paragraph (iv) by the Minister,
+
+that foreign person —
+
+(i) shall be required to make an application to the Minister through the Controller of Housing for the grant of approval to develop the land for that purpose prior to his making an application to the competent authority appointed under the Planning Act 1998 for permission to develop; and
+
+(ii) shall not be granted planning permission or conservation permission unless he has been granted prior approval by the Minister in accordance with this section.
+
+(2) A certification by the competent authority appointed under the Planning Act 1998 certifying that an alteration to the Master Plan was approved by the Minister in relation to an application for planning permission or conservation permission under that Act shall be conclusive evidence of the matters stated therein.
+
+(3) The Minister may, when granting any approval under subsection (1), impose such conditions as he may think fit, including the following:
+
+(a) that the foreign person shall provide such security as may be determined by the Minister for the purpose of complying with any condition imposed by the Minister; and
+
+(b) that the foreign person shall give an undertaking in writing to comply with the conditions imposed by the Minister.
+
+(4) Where an applicant has failed to comply with any of the conditions imposed by the Minister under this section, the Minister may forfeit the security provided by the applicant under this section after giving 21 days’ notice in writing to the applicant of his intention to forfeit the security and the grounds thereof.
+
+(5) An applicant may, within 3 months of the receipt of the notice under subsection (4), appeal to the Minister whose decision shall be final and shall not be questioned in any court.
+
+[Act 3 of 1998 wef 01/04/1998]
 
 ## PART IV
 
@@ -1322,3 +1362,9 @@ This Legislative History is provided for the convenience of users of the Residen
 |||(Bill No. 6/97 published on 12 July 1997)|
 ||Date of Second and Third Readings|25 August 1997|
 ||Date of commencement|1 October 1997 (except section 3)|
+|7.|**Act 3 of 1998—Planning Act 1998**|
+||(Related amendments made to Act by)||
+||Date of First Reading|19 November 1997|
+|||(Bill No. 18/97 published on 20 November 1997)|
+||Date of Second and Third Readings|14 January 1998|
+||Date of commencement|1 April 1998|
