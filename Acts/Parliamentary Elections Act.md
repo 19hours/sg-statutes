@@ -2780,3 +2780,5 @@ This Legislative History is provided for the convenience of users of the Parliam
 |||(Bill No. 8/1988 published on 27 May 1988)|
 ||Date of Second and Third Readings|28 June 1988|
 ||Date of commencement|30 July 1988|
+|34.|**G. N. No. S 212/1988—Parliamentary Elections Act (Variation of Form) Regulations 1988**|
+||Date of commencement|16 August 1988|
