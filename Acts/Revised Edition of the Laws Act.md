@@ -6,7 +6,7 @@
 
 [**Long Title**](#Revised-Edition-of-the-Laws-Act)
 
-- [1 Short title](#Short-title)
+- [1 Short Title](#Short-Title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -70,7 +70,7 @@ An Act to make provision for the preparation and publication of a revised editio
 
 [15th April 1983]
 
-### Short title
+### Short Title
 
 1\. This Act may be cited as the Revised Edition of the Laws Act.
 
@@ -140,7 +140,9 @@ Provided that section 16 of the Interpretation Act [Cap. 1] shall apply to such 
 
 (c) to add a long title or a short title to any Act and to alter the long title or the short title of any Act;
 
-(d) to supply or alter tables of contents, marginal notes, footnotes and the headings to Parts and Chapters of any Act;
+(d) to supply or alter tables of contents, marginal notes, section headings, footnotes and the headings to Parts and Chapters of any Act;
+
+[7/97 wef 01/10/1997]
 
 (e) to adopt a convenient standard form in all Acts for —
 
@@ -406,7 +408,7 @@ Revised Edition of the Laws Act
 
 (CHAPTER 275)
 
-This Legislative History is provided for the convenience of users of the Revised Edition of the Laws Act. It is not part of the Act.
+This Legislative History is provided for the convenience of users of the Revised Edition of the Laws Act. It is not part of this Act.
 
 ||||
 |:-|:-|:-|
@@ -416,12 +418,18 @@ This Legislative History is provided for the convenience of users of the Revised
 ||Date of Second and Third Readings|24 March 1983|
 ||Date of commencement|15 April 1983|
 |2.|**1985 Revised Edition—Revised Edition of the Laws Act**|
-||(G.N. No. S 337/1987 — Rectification Order)||
 ||Date of operation|30 March 1987|
-|3.|**Act 6 of 1994—Revised Edition of the Laws (Amendment) Act 1994**|
+|3.|**G. N. No. S 337/1987—Revised Edition of the Laws (Rectification) Order 1987**|
+||Date of commencement|30 March 1987|
+|4.|**Act 6 of 1994—Revised Edition of the Laws (Amendment) Act 1994**|
 ||Date of First Reading|16 March 1994|
 |||(Bill No. 7/1994 published on 17 March 1994)|
 ||Date of Second and Third Readings|23 May 1994|
 ||Date of commencement|1 July 1994|
-|4.|**1995 Revised Edition—Revised Edition of the Laws Act**|
+|5.|**1995 Revised Edition—Revised Edition of the Laws Act**|
 ||Date of operation|15 March 1995|
+|6.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
+||Date of First Reading|11 July 1997|
+|||(Bill No. 6/1997 published on 12 July 1997)|
+||Date of Second and Third Readings|25 August 1997|
+||Date of commencement|1 October 1997|
