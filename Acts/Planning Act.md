@@ -1,16 +1,14 @@
-**Planning Act 1998**
+**Planning Act**
 
-**(No. 3 of 1998)**
+**(CHAPTER 232)**
 
 **Table of Contents**
 
 [**Long Title**](#Planning-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -78,7 +76,7 @@
 
 - [31 Execution and costs of works required by enforcement notice, etc.](#Execution-and-costs-of-works-required-by-enforcement-notice-etc)
 
-- [32 Removal and sale of materials](#Removal-and-sale-of-materials)
+- [32 Removal and sale of property and materials](#Removal-and-sale-of-property-and-materials)
 
 - [33 Injunctions](#Injunctions)
 
@@ -132,7 +130,7 @@
 
 - [55 Protection from liability](#Protection-from-liability)
 
-- [56 Power of Magistrate's Court and District Court](#Power-of-Magistrates-Court-and-District-Court)
+- [56 Power of Magistrate’s Court and District Court](#Power-of-Magistrate’s-Court-and-District-Court)
 
 - [57 Composition of offences](#Composition-of-offences)
 
@@ -144,61 +142,35 @@
 
 - [61 Rules](#Rules)
 
-[**Part VIII REPEAL, TRANSITIONAL AND CONSEQUENTIAL AMENDMENTS**](#Part-VIII)
+[**Part VIII TRANSITIONAL AND SAVING PROVISIONS**](#Part-VIII)
 
-- [62 Repeal](#Repeal)
+- [62 Transitional and saving provisions](#Transitional-and-saving-provisions)
 
-- [63 Transitional and saving provisions](#Transitional-and-saving-provisions)
+[**THE SCHEDULE**](#THE-SCHEDULE)
 
-- [64 Related amendments to Residential Property Act](#Related-amendments-to-Residential-Property-Act)
+[**Legislative History**](#Legislative-History)
 
-- [65 Consequential amendments to other written laws](#Consequential-amendments-to-other-written-laws)
+# Planning Act
 
-[**FIRST SCHEDULE**](#FIRST-SCHEDULE)
+(CHAPTER 232)
 
-[**SECOND SCHEDULE**](#SECOND-SCHEDULE)
+(Original Enactment: Act 3 of 1998)
 
-REPUBLIC OF SINGAPORE
+REVISED EDITION 1998
 
-GOVERNMENT GAZETTE
+(15th December 1998)
 
-ACTS SUPPLEMENT
+An Act to provide for the planning and improvement of Singapore and for the imposition of development charges on the development of land and for purposes connected therewith.
 
-Published by Authority
-
-NO. 5]
-
-Friday, January 23
-
-[1998
-
-The following Act was passed by Parliament on 14th January 1998 and assented to by the President on 17th January 1998:—
-
-Planning Act 1998
-
-(No. 3 of 1998)
-
-I assent.
-
-ONG TENG CHEONG,
-
-President
-
-17th January 1998.
-
-Date of Commencement: 1st April 1998
-
-An Act to provide for the planning and improvement of Singapore and for the imposition of development charges on the development of land and for purposes connected therewith, and to repeal the Planning Act (Chapter 232 of the 1990 Revised Edition) and to make related and consequential amendments to certain other written laws.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st April 1998]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Planning Act 1998 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Planning Act.
 
 ### Interpretation
 
@@ -216,7 +188,7 @@ PRELIMINARY
 
 “building” includes any house, hut, shed or roofed enclosure (whether used for the purpose of human habitation or otherwise) and also any wall, fence, platform, staging, gate, post, pillar, paling, frame, hoarding, slip, dock, wharf, pier, jetty, landing-stage or bridge, or any structure or foundation connected to the foregoing;
 
-“certificate of statutory completion” has the same meaning as in the Building Control Act (Cap.29);
+“certificate of statutory completion” has the same meaning as in the Building Control Act (Cap. 29);
 
 “Certified Interpretation Plan” means a Certified Interpretation Plan prepared and certified by the competent authority under section 7;
 
@@ -238,7 +210,7 @@ PRELIMINARY
 
 “functions” includes powers and duties;
 
-“holding” means any piece or parcel of land held or possessed under an instrument of title, capable of being registered under the Registration of Deeds Act (Cap.269) or, where applicable, under the Land Titles Act (Cap.157), relating exclusively thereto;
+“holding” means any piece or parcel of land held or possessed under an instrument of title, capable of being registered under the Registration of Deeds Act (Cap. 269) or, where applicable, under the Land Titles Act (Cap. 157), relating exclusively thereto;
 
 “information notice” has the meaning assigned to it in section 25;
 
@@ -262,13 +234,13 @@ PRELIMINARY
 
 “purchase notice” means a notice served under section 24;
 
-“repealed Act” means the Planning Act (Cap.232) repealed by this Act;
+“repealed Act” means the repealed Planning Act (Cap. 232, 1990 Ed.);
 
 “street” includes any road, square, footway or passage, whether a thoroughfare or not, over which the public has a right of way, and also the way over any public bridge, and includes also any road, footway or passage, open court or open alley, used or intended to be used as a means of access to 2 or more holdings, whether the public has a right of way thereover or not; and all channels, drains and ditches at the side of any street shall be deemed to be part of that street;
 
 “subdivision permission” means permission referred to in section 12(3);
 
-“temporary occupation permit” has the same meaning as in the Building Control Act (Cap.29);
+“temporary occupation permit” has the same meaning as in the Building Control Act (Cap. 29);
 
 “use”, in relation to land, does not include the use of land by the carrying out of any building or other operations on the land;
 
@@ -280,11 +252,11 @@ PRELIMINARY
 
 “written permission” means a planning permission, conservation permission or subdivision permission, as the case may be, granted by a competent authority and includes any such permission granted or issued by electronic transmission or in a medium other than paper and authenticated in such manner as the competent authority may determine;
 
-“written statement”, in relation to the Master Plan, means that part of the Master Plan which includes a summary of the main proposals of the Master Plan with such descriptive matter as the competent authority considers necessary to illustrate the proposals of the Master Plan or as the Minister may from time to time direct for that purpose.
+“written statement”, in relation to the Master Plan, means that part of the Master Plan which includes a summary of the main proposals of the Master Plan with such descriptive matter as the competent authority considers necessary to illustrate the proposals of the Master Plan or as the Minister may, from time to time, direct for that purpose.
 
-### Meaning of "development"
+### Meaning of “development”
 
-3\.—(1) Subject to the following provisions of this section, in this Act, except where the context otherwise requires, "development" means the carrying out of any building, engineering, mining, earthworks or other operations in, on, over or under land, or to the making of any material change in the use of any building or land, and "develop" and "developing" shall be construed accordingly.
+3\.—(1) Subject to subsections (2) and (3), in this Act, except where the context otherwise requires, “development” means the carrying out of any building, engineering, mining, earthworks or other operations in, on, over or under land, or the making of any material change in the use of any building or land, and “develop” and “developing” shall be construed accordingly.
 
 (2) The following operations or uses of land shall not be deemed for the purposes of this Act to involve development of land:
 
@@ -296,7 +268,7 @@ PRELIMINARY
 
 (d) the carrying out by any statutory authority of any works for the purpose of laying, inspecting, repairing or renewing any sewers, mains, pipes, cables or other apparatus, including the breaking open of any street or other land for that purpose;
 
-(e) the carrying out of any act authorised or required by the Destruction of Disease-Bearing Insects Act (Cap.79);
+(e) the carrying out of any act authorised or required by the Control of Vectors and Pesticides Act 1998 (Act 24 of 1998);
 
 (f) the use of any existing building or land within the curtilage of a dwelling-house for any purpose incidental to the enjoyment of the dwelling-house as such;
 
@@ -324,25 +296,25 @@ PRELIMINARY
 
 (g) subject to subsection (2)(h), the use of any building or part thereof for any purpose other than that for which the building was originally constructed involves a material change in the use of the building; and
 
-(h) any decorative, painting, renovation or building works, whether external or internal, to or on a monument in respect of which there is in force a preservation order under the Preservation of Monuments Act (Cap.239) shall constitute building operations.
+(h) any decorative, painting, renovation or building works, whether external or internal, to or on a monument in respect of which there is in force a preservation order under the Preservation of Monuments Act (Cap. 239) shall constitute building operations.
 
-### Meaning of "subdivide"
+### Meaning of “subdivide”
 
-4\.—(1) Subject to this section, a person shall, for the purposes of this Act, be said to subdivide land if, by any deed or instrument, he conveys, assigns, demises or otherwise disposes of any part of the land in such a manner that the part so disposed of becomes capable of being registered under the Registration of Deeds Act (Cap.269) or, in the case of registered land, being included in a separate folio of the land-register under the Land Titles Act (Cap.157), and "subdivide" and "subdivision" shall be construed accordingly.
+4\.—(1) Subject to this section, a person shall, for the purposes of this Act, be said to subdivide land if, by any deed or instrument, he conveys, assigns, demises or otherwise disposes of any part of the land in such a manner that the part so disposed of becomes capable of being registered under the Registration of Deeds Act (Cap. 269) or, in the case of registered land, being included in a separate folio of the land-register under the Land Titles Act (Cap. 157), and “subdivide” and “subdivision” shall be construed accordingly.
 
-(2) Notwithstanding subsection (1), the following leases granted on or after the commencement of this Act shall not be regarded as a disposal of the land or part thereof:
+(2) Notwithstanding subsection (1), the following leases granted on or after 1st April 1998 shall not be regarded as a disposal of the land or part thereof:
 
-(a) in the case of any development described in Part I of the First Schedule, the grant of any lease for any unit in the development for a term not exceeding an aggregate of 14 years;
+(a) in the case of any development described in Part I of the Schedule, the grant of any lease for any unit in the development for a term not exceeding an aggregate of 14 years;
 
-(b) in the case of any development described in Part II of the First Schedule, the grant of any lease for a building or any part of a building comprised in the development for a term not exceeding an aggregate of 14 years; or
+(b) in the case of any development described in Part II of the Schedule, the grant of any lease for a building or any part of a building comprised in the development for a term not exceeding an aggregate of 14 years; or
 
 (c) in the case of any other land, the grant of any lease of the whole or part of the land for a term not exceeding an aggregate of 7 years.
 
-(3) The Minister may, at any time by order published in theGazette—
+(3) The Minister may, at any time by order published in the Gazette —
 
 (a) amend, delete or add to the list of leases in subsection (2) which shall not be regarded as a disposal of land or part thereof; or
 
-(b) amend the First Schedule.
+(b) amend the Schedule.
 
 (4) For the purposes of this section —
 
@@ -366,30 +338,25 @@ PRELIMINARY
 
 (a) a public officer for the purposes of this Act; and
 
-(b) a public servant within the meaning of the Penal Code (Cap.224).
+(b) a public servant within the meaning of the Penal Code (Cap. 224).
 
 ## PART II
 
-MASTER PLAN AND CONSERVATION AREAS
-
-
-
-
-AND GUIDELINES
+MASTER PLAN AND CONSERVATION AREAS AND GUIDELINES
 
 ### Master Plan
 
-6\. The Master Plan means the Master Plan that was originally submitted to and approved by the Governor in Council on 5th August 1958 under the provisions of Part IV of the Singapore Improvement Ordinance (Cap.259, 1955 Ed.) as subsequently amended under the repealed Act or this Act, and includes the approved maps and written statement.
+6\. The Master Plan means the Master Plan that was originally submitted to and approved by the Governor in Council on 5th August 1958 under the provisions of Part IV of the Singapore Improvement Ordinance (Cap. 259, 1955 Ed.) as subsequently amended under the repealed Act or this Act, and includes the approved maps and written statement.
 
 ### Certified Interpretation Plans
 
-7\.—(1) For the purpose of providing more detailed interpretation of the Master Plan, the competent authority may from time to time prepare and certify further maps on a scale larger than that of the maps contained in the Master Plan.
+7\.—(1) For the purpose of providing more detailed interpretation of the Master Plan, the competent authority may, from time to time, prepare and certify further maps on a scale larger than that of the maps contained in the Master Plan.
 
-(2) Upon such certification the plan shall be known as a "Certified Interpretation Plan".
+(2) Upon such certification the plan shall be known as a “Certified Interpretation Plan”.
 
 ### Amendments to Master Plan
 
-8\.—(1) At least once in every 5 years after the commencement of this Act, the competent authority shall review the Master Plan and submit to the Minister a report of his review together with proposals for amendment to the Master Plan which he may consider expedient.
+8\.—(1) At least once in every 5 years after 1st April 1998, the competent authority shall review the Master Plan and submit to the Minister a report of his review together with proposals for amendment to the Master Plan which he may consider expedient.
 
 (2) Without prejudice to subsection (1), the competent authority may at any time also submit to the Minister proposals for amendment to the Master Plan.
 
@@ -439,11 +406,11 @@ AND GUIDELINES
 
 (c) copies of the Master Plan or parts thereof to be made available for free inspection by and for sale at a reasonable cost to the public.
 
-(3) All rules made under this section shall be presented to Parliament as soon as possible after publication in theGazette.
+(3) All rules made under this section shall be presented to Parliament as soon as possible after publication in the Gazette.
 
 ### Conservation guidelines
 
-11\.—(1) The competent authority may from time to time issue guidelines for the conservation of buildings or land within a conservation area and for the protection of their setting.
+11\.—(1) The competent authority may, from time to time, issue guidelines for the conservation of buildings or land within a conservation area and for the protection of their setting.
 
 (2) The competent authority shall publish and make available copies of such guidelines for free inspection and for sale at a reasonable cost to the public.
 
@@ -455,7 +422,7 @@ DEVELOPMENT AND SUBDIVISION OF LAND
 
 12\.—(1) No person shall without planning permission carry out any development of any land outside a conservation area.
 
-(2) No person shall without conservation permission carry out any works in a conservation area.
+(2) No person shall without conservation permission carry out any works within a conservation area.
 
 (3) No person shall without subdivision permission subdivide any land.
 
@@ -529,7 +496,7 @@ DEVELOPMENT AND SUBDIVISION OF LAND
 
 (a) requirements for compliance with any conservation guidelines or any other requirements relating to conservation; or
 
-(b) requirements for making good of any damage caused to the building by any works after the works are completed.
+(b) requirements for making good any damage caused to the building by any works after the works are completed.
 
 (3) Any person who fails to comply with any condition imposed on any planning permission or conservation permission shall be guilty of an offence and shall be liable on conviction —
 
@@ -539,7 +506,7 @@ DEVELOPMENT AND SUBDIVISION OF LAND
 
 (4) Where any person fails to comply with any condition imposed on any planning permission or conservation permission, the competent authority may cancel the relevant permission.
 
-(5) In this section, "connecting structure" means any underpass, subway, bridge or other structure, whether under, above or on the ground and whether for pedestrians or vehicles, linking or connecting a building with another or a building with any public facility or street, and includes escalators, travelators and other facilities.
+(5) In this section, “connecting structure” means any underpass, subway, bridge or other structure, whether under, above or on the ground and whether for pedestrians or vehicles, linking or connecting a building with another or a building with any public facility or street, and includes escalators, travelators and other facilities.
 
 ### Subdivision permission: supplementary provisions
 
@@ -607,7 +574,7 @@ DEVELOPMENT AND SUBDIVISION OF LAND
 
 (5) Where the competent authority intends to develop or to carry out works within a conservation area on any land belonging to him, he may be directed by the Minister to furnish to the Minister particulars relating to the development or works and the Minister may give such further directions as he considers fit in relation thereto.
 
-(6) The Minister may authorise, by notification in theGazette, either generally or in relation to any specified area, any development of land or works within a conservation area subject to such conditions as may be specified in the notification.
+(6) The Minister may authorise, by notification in the Gazette, either generally or in relation to any specified area, any development of land or works within a conservation area subject to such conditions as may be specified in the notification.
 
 ### Appeals to Minister
 
@@ -759,11 +726,11 @@ he shall be guilty of an offence.
 
 (4) Any person who wilfully obstructs the competent authority in the performance of any matter or thing which he is authorised to do by this section or fails to comply with the requirement under subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
 
-(5) A police officer may arrest without warrant any person who has committed or whom he reasonably suspects to have committed an offence under subsection (4) —
+(5) A police officer may arrest without warrant any person who has committed or whom he reasonably suspects to have committed an offence under subsection (4) if —
 
-(a) if the person declines to give his name and address; or
+(a) the person declines to give his name and address; or
 
-(b) if there is reason to doubt the accuracy of the name and address, if given.
+(b) there is reason to doubt the accuracy of the name and address, if given.
 
 (6) A person arrested under this section may be detained until his name and address are correctly ascertained except that no person so arrested shall be detained longer than is permitted by written law and is necessary for bringing him before a court unless the order of a court for his detention is obtained.
 
@@ -849,7 +816,7 @@ and the Minister may give such directions as he thinks necessary to give effect 
 
 (5) When an appeal is made to the Minister under this section, the enforcement notice shall, unless the Minister at any time otherwise directs, be of no effect pending the determination or withdrawal of the appeal.
 
-(6) Except where he decides to allow an appeal unconditionally, the enforcement notice shall take effect from the date the appellant is given notice of the decision of the Minister.
+(6) Except where the Minister decides to allow an appeal unconditionally, the enforcement notice shall take effect from the date the appellant is given notice of the decision of the Minister.
 
 (7) Any forfeiture by the competent authority of any security furnished under this section shall not prejudice the institution of proceedings against any person for any offence under this Act.
 
@@ -877,9 +844,9 @@ shall, notwithstanding the earlier compliance with the notice, be guilty of an o
 
 (a) any requirement of an enforcement notice or an order under section 12(5) is not complied with within the period allowed by the notice or order, as the case may be;
 
-(b) any land is used in contravention of the enforcement notice after the requirements in the notice have been complied with; or
+(b) any land is used in contravention of an enforcement notice after the requirements in the notice have been complied with; or
 
-(c) any works have been carried out by way of reinstating or restoring buildings or works which have been demolished or altered in compliance with the requirements in an enforcement notice,
+(c) any works have been carried out by way of reinstating or restoring buildings or works which have been demolished or altered in compliance with the requirements of an enforcement notice,
 
 the competent authority may at any time enter the land and take any steps which are in his opinion necessary to secure compliance with the notice or order, as the case may be, including removing, detaining and disposing of any property or materials on the land.
 
@@ -889,7 +856,7 @@ the competent authority may at any time enter the land and take any steps which 
 
 (4) The sums stated in the certificate of the competent authority under subsection (3) shall be secured as a first charge against the land and shall, subject and without prejudice to any other rights of the Government, prevail over all other estates and interests whenever created notwithstanding the provisions of any other written law relating to the registration of any interest or encumbrance over land.
 
-### Removal and sale of materials
+### Removal and sale of property and materials
 
 32\.—(1) Any property or materials removed and detained by the competent authority in the exercise of his powers under section 31 may be sold or otherwise disposed of unless a claim is made by the person to whom the property or materials belong within 2 weeks of the removal, in which case the property or materials may, subject to subsection (2), be returned to the person to whom they belong on such terms and conditions as the competent authority may impose.
 
@@ -901,7 +868,7 @@ the competent authority may at any time enter the land and take any steps which 
 
 ### Injunctions
 
-33\.—(1) Where the competent authority considers it necessary or expedient for any actual or apprehended breach of this Act to be restrained by injunction, he may apply to the High Court for an injunction, whether or not he has exercised or is proposing to exercise any of his other powers under this Part.
+33\.—(1) Where the competent authority considers it necessary or expedient for any actual or apprehended breach of this Act to be restrained by injunction, the competent authority may apply to the High Court for an injunction, whether or not he has exercised or is proposing to exercise any of his other powers under this Part.
 
 (2) On an application under subsection (1), the High Court need not require from the competent authority any undertaking in damages.
 
@@ -941,13 +908,13 @@ DEVELOPMENT CHARGES
 
 (2) Subject to section 39, any development charge payable in respect of any development of land shall be the difference between the Development Baseline and the Development Ceiling for that land.
 
-(3) Development Baseline and Development Ceiling have the meanings assigned to them under section 36 and shall be calculated in accordance with the prescribed method and rates.
+(3) Development Baseline and Development Ceiling have the meanings assigned to them in section 36 and shall be calculated in accordance with the prescribed method and rates.
 
 ### Development Baseline and Development Ceiling
 
 36\.—(1) Subject to this section, the Development Baseline for any land shall be the value of one of the following developments which, when calculated in accordance with the prescribed method and rates, gives the highest figure:
 
-(a) any development for which that land was allocated in the Master Plan as approved by the Governor in Council on 5th August 1958 under the provisions of Part IV of the Singapore Improvement Ordinance (Cap.259, 1955 Ed.);
+(a) any development for which that land was allocated in the Master Plan as approved by the Governor in Council on 5th August 1958 under the provisions of Part IV of the Singapore Improvement Ordinance (Cap. 259, 1955 Ed.);
 
 (b) any development for which that land was allocated in the Master Plan as the result of any alteration or addition made under section 6(1) of the repealed Act prior to 24th April 1982; or
 
@@ -961,17 +928,17 @@ DEVELOPMENT CHARGES
 
 (2) Notwithstanding subsection (1), where the value of any development referred to in subsection (1)(a) or (b) cannot be ascertained, the Development Baseline for the land concerned shall be determined without reference to any such development.
 
-(3) Notwithstanding subsection (1)(c), any development of land, being a development in respect of which no development charge is payable by reason of any exemption under this Act or the repealed Act, shall be disregarded for the purposes of determining the Development Baseline for the land if —
+(3) Notwithstanding subsection (1)(c), any development of land, being a development in respect of which no development charge is payable by reason of any exemption under this Act or the repealed Act, shall be disregarded for the purposes of determining the Development Baseline for the land if any term of the exemption —
 
-(a) any term of the exemption provides that the development must be disregarded for that purpose; or
+(a) provides that the development must be disregarded for that purpose; or
 
-(b) any term of the exemption has ceased to be or is not complied with.
+(b) has ceased to be or is not complied with.
 
-(4) In determining the Development Baseline for any land, nothing in subsection (1) shall require any development of the land before the current zoning and previous zoning of the land took effect to be regarded; and "current zoning" shall mean the most recent zoning of the land as at the material date, and "previous zoning" shall mean the zoning of the same land immediately before the current zoning took effect.
+(4) In determining the Development Baseline for any land, nothing in subsection (1) shall require any development of the land before the current zoning and previous zoning of the land took effect to be regarded; and “current zoning” shall mean the most recent zoning of the land as at the material date, and “previous zoning” shall mean the zoning of the same land immediately before the current zoning took effect.
 
-(5) Notwithstanding subsections (1) to (4), where the Development Baseline for any land cannot be ascertained in accordance with subsections (1) to (4), the Development Baseline for the land shall be deemed to be the value of the last development of the land before the material date, being a development which was authorised by any written permission granted under this Act or the repealed Act or by any written law for the time being in force.
+(5) Notwithstanding subsections (1) to (4), where the Development Baseline for any land cannot be ascertained in accordance with those subsections, the Development Baseline for the land shall be deemed to be the value of the last development of the land before the material date, being a development which was authorised by any written permission granted under this Act or the repealed Act or by any written law for the time being in force.
 
-(6) Notwithstanding subsections (1) to (5), where the Development Baseline for any land cannot be ascertained in accordance with subsections (1) to (5), the competent authority may, with the prior approval of the Minister, assign the Development Baseline for that land.
+(6) Notwithstanding subsections (1) to (5), where the Development Baseline for any land cannot be ascertained in accordance with those subsections, the competent authority may, with the prior approval of the Minister, assign the Development Baseline for that land.
 
 (7) The Development Ceiling for any land shall be the total of the following when calculated in accordance with the prescribed method and rates:
 
@@ -1061,7 +1028,7 @@ he may, within 30 days of the interim order or the final order under this sectio
 
 (e) the refund, wholly or in part, of the development charge paid by any person.
 
-(2) All rules made under this section shall be presented to Parliament as soon as possible after publication in theGazette.
+(2) All rules made under this section shall be presented to Parliament as soon as possible after publication in the Gazette.
 
 ## PART VI
 
@@ -1081,7 +1048,7 @@ RECOVERY OF MONEYS
 
 (b) the competent authority may, by notice of sale to be served or published in the prescribed manner, declare his intention of selling, at the expiration of 3 months from the date of the notice of sale, any land belonging to the person from whom any sum is due and, if at the expiration of that period, that sum has not been paid or satisfied, the competent authority may sell, by public auction or otherwise, the whole of that land or such portion thereof or such interest therein as he considers sufficient for the recovery of that sum and costs.
 
-(2) Notwithstanding subsection (1), the competent authority shall not proceed under subsection (1)(b) and sell the land of any person from whom any sum is due, or any portion thereof or interest therein, where there is upon the land and liable to be seized and sold under subsection (1)(a) movable property or crops belonging to the person from whom any sum is due of a value estimated by the competent authority to be sufficient to realise the sum required to satisfy the money due and costs.
+(2) Notwithstanding subsection (1), the competent authority shall not proceed under subsection (1)(b) and sell the land of any person from whom any sum is due, or any portion thereof or interest therein, where there is upon the land and liable to be seized and sold under subsection (1)(a) movable property or crops belonging to that person of a value estimated by the competent authority to be sufficient to realise the sum required to satisfy the money due and costs.
 
 (3) Any tenant, sub-tenant or occupier who, in order to avoid the seizure or sale of the land for non-payment of any sum due from the owner of the land, pays that sum and costs may thereafter, in the absence of any written agreement to the contrary, deduct the amount so paid by him from the rent due or to become due by him to his immediate landlord on account of the land or such part thereof as is held or occupied by him, and may retain possession thereof until that amount has been fully reimbursed to him whether by deduction from the rent or otherwise.
 
@@ -1089,7 +1056,7 @@ RECOVERY OF MONEYS
 
 (5) The receipt of the competent authority or of any duly authorised officer for any amount so paid by any such tenant, sub-tenant or occupier shall be deemed to be an acquittance in full for the like amount of the rent.
 
-(6) If any land belonging to a person from whom any sum is due, or any movable property or crops that are mentioned in subsection (1)(a) or the proceeds of sale of that movable property or crops, is or are already in the custody of the law under any process of execution whereby the competent authority is unable to exercise the powers vested in him by this section, the competent authority may notify the sheriff or the bailiff of the court concerned of the amount due, and he shall be entitled without obtaining judgment to be paid that amount out of the proceeds of sale of the land, movable property or crops in priority to the judgment debtor and to the judgment creditor and to any other creditor, except the Government.
+(6) If any land belonging to a person from whom any sum is due, or any movable property or crops that are mentioned in subsection (1)(a) or the proceeds of sale of that movable property or crops, is or are already in the custody of the law under any process of execution whereby the competent authority is unable to exercise the powers vested in him by this section, the competent authority may notify the sheriff or the bailiff of the court concerned of the amount due, and he shall be entitled, without obtaining judgment, to be paid that amount out of the proceeds of sale of the land, movable property or crops in priority to the judgment debtor and to the judgment creditor and to any other creditor, except the Government.
 
 (7) A certificate from the competent authority shall be conclusive evidence of the amount of any sum that may be due.
 
@@ -1097,9 +1064,9 @@ RECOVERY OF MONEYS
 
 43\.—(1) The attachment mentioned in section 42(1)(a) may be made by a person appointed for the purpose by the competent authority and that person shall publicly notify the attachment in the prescribed manner and shall take an inventory of the property attached.
 
-(2) For the purpose of effecting the attachment, that person may break into any house or building in the day time.
+(2) For the purpose of effecting the attachment, the person appointed under subsection (1) may break into any house or building in the day time.
 
-(3) The person appointed under subsection (1) shall be deemed to be a public servant within the meaning of the Penal Code (Cap.224).
+(3) The person appointed under subsection (1) shall be deemed to be a public servant within the meaning of the Penal Code (Cap. 224).
 
 ### Application of proceeds
 
@@ -1125,7 +1092,7 @@ RECOVERY OF MONEYS
 
 ### Application to court
 
-48\.—(1) If any person whose movable property, crops or land has been attached or offered for sale under section 42 or 43 disputes the attachment or sale, he may apply to the High Court or, when the sum due does not exceed $1,000, to a District Court, for an order to stay the proceedings.
+48\.—(1) If any person whose movable property, crops or land has been attached or offered for sale under section 42 or 43 disputes the attachment or sale, he may apply to the High Court or, when the sum due does not exceed $1,000, to a District Court for an order to stay the proceedings.
 
 (2) After hearing the competent authority and after making such further inquiry as is necessary, the court shall make such order as it thinks fit.
 
@@ -1139,15 +1106,13 @@ MISCELLANEOUS
 
 ### Determination of development charge, etc., not to be rendered invalid for want of form
 
-50\. No determination of a development charge or any other sum due under this Act, and no seizure or sale shall be rendered invalid by reason of any mistake in —
+50\. So long as the provisions of this Act are substantially complied with, no determination of a development charge or any other sum due under this Act, and no seizure or sale shall be rendered invalid by reason of any mistake in —
 
 (a) the name of any person liable to pay the development charge or other sum due;
 
 (b) the description of any land with respect to which the development charge or other sum due is payable; or
 
-(c) the amount of the development charge or other sum due or the mode of seizure and sale,
-
-so long that the provisions of this Act are substantially complied with.
+(c) the amount of the development charge or other sum due or the mode of seizure and sale.
 
 ### Authentication of documents
 
@@ -1163,13 +1128,13 @@ shall be deemed, until the contrary is proved, to have been duly prepared, issue
 
 ### Service of documents
 
-52\.—(1) Without prejudice to subsection (2), any notice or other documents required or authorised to be served or given under this Act, and every summons issued by a court in connection with any offence under this Act, may be served or given —
+52\.—(1) Without prejudice to subsection (2), any notice or other document required or authorised to be served or given under this Act, and every summons issued by a court in connection with any offence under this Act, may be served or given —
 
 (a) by delivering it to the person on whom it is to be served or to whom it is to be given;
 
-(b) by leaving it at the usual or last known place of residence of that person, or, in a case where an address for service has been given by that person, at that address;
+(b) by leaving it at the usual or last known place of residence of that person or, in a case where an address for service has been given by that person, at that address;
 
-(c) by sending it by registered post addressed to that person at his usual or last known place of residence, or in the case where an address for service has been given by that person, at that address;
+(c) by sending it by registered post addressed to that person at his usual or last known place of residence or, in the case where an address for service has been given by that person, at that address;
 
 (d) in the case of an incorporated company or body, by delivering it to the registered or principal office of the company or body, or by sending it by registered post addressed to the company or body at that office; or
 
@@ -1181,7 +1146,7 @@ shall be deemed, until the contrary is proved, to have been duly prepared, issue
 
 ### Exemption
 
-53\. The Minister may, from time to time by notification in theGazette, exempt any land or lands either generally or for a specified period from the operation of all or any of the provisions of this Act.
+53\. The Minister may, from time to time, by notification in theGazette, exempt any land or lands either generally or for a specified period from the operation of all or any of the provisions of this Act.
 
 ### Exclusion of liability
 
@@ -1191,9 +1156,9 @@ shall be deemed, until the contrary is proved, to have been duly prepared, issue
 
 55\. No matter or thing done or omitted to be done by the competent authority or by any officer authorised under section 5(2) shall subject him or such person personally to any action, liability, claim or demand whatsoever if it were done or omitted to be done bona fide for the purpose of carrying out the provisions of this Act.
 
-### Power of Magistrate's Court and District Court
+### Power of Magistrate’s Court and District Court
 
-56\. Notwithstanding the provisions of the Criminal Procedure Code (Cap.68), a Magistrate's Court or a District Court shall have powers to impose the maximum penalties provided for an offence under this Act.
+56\. Notwithstanding the provisions of the Criminal Procedure Code (Cap. 68), a Magistrate’s Court or a District Court shall have powers to impose the maximum penalties provided for an offence under this Act.
 
 ### Composition of offences
 
@@ -1249,7 +1214,7 @@ shall be deemed, until the contrary is proved, to have been duly prepared, issue
 
 (f) the conservation of buildings, premises or land;
 
-(g) the form and manner in which applications for written permission to develop or subdivide any land or to carry out any works within a conservation area shall be made;
+(g) the form and manner in which applications for planning permission, conservation permission or subdivision permission shall be made;
 
 (h) the manner in which the competent authority shall deal with applications for planning permission, conservation permission and subdivision permission;
 
@@ -1265,76 +1230,29 @@ shall be deemed, until the contrary is proved, to have been duly prepared, issue
 
 ## PART VIII
 
-REPEAL, TRANSITIONAL AND
-
-
-
-
-CONSEQUENTIAL AMENDMENTS
-
-### Repeal
-
-62\. The Planning Act (Cap. 232) is repealed.
+TRANSITIONAL AND SAVING PROVISIONS
 
 ### Transitional and saving provisions
 
-63\.—(1) Any permission, approval, decision, notice, warrant, order or other document prepared, made, granted, issued, and any act or thing done or given, under or pursuant to the repealed Act and valid immediately prior to the commencement of this Act shall be deemed to have been prepared, made, granted, issued, done or given under or pursuant to the corresponding provision of this Act and shall continue to have effect accordingly.
+62\.—(1) Any permission, approval, decision, notice, warrant, order or other document prepared, made, granted, issued, and any act or thing done or given, under or pursuant to the repealed Act and valid immediately prior to 1st April 1998 shall be deemed to have been prepared, made, granted, issued, done or given under or pursuant to the corresponding provision of this Act and shall continue to have effect accordingly.
 
 (2) Any map, plan, record or register prepared, made or kept under or pursuant to the repealed Act shall be deemed to have been prepared, made or kept under or pursuant to the corresponding provision of this Act and shall continue to have effect accordingly.
 
 (3) All conservation guidelines made or deemed to have been made by the conservation authority under the repealed Act shall be deemed to have been made by the competent authority under section 11.
 
-(4) Any order made or issued by the competent authority determining the development charge payable under section 33(1) or (3) of the repealed Act shall, if made or issued within the period of 12 months immediately prior to the commencement of this Act, be deemed to be an interim order made by the competent authority under section 38 or 39, respectively, for the estimated amount of development charge payable, and the provisions of sections 38 and 39 shall apply to such order accordingly.
+(4) Any order made or issued by the competent authority determining the development charge payable under section 33(1) or (3) of the repealed Act shall, if made or issued within the period of 12 months immediately prior to 1st April 1998, be deemed to be an interim order made by the competent authority under section 38 or 39, respectively, for the estimated amount of development charge payable, and the provisions of sections 38 and 39 shall apply to such order accordingly.
 
 (5) Subject to the Constitution, any breach, contravention or non-compliance of the repealed Act shall be deemed to be a breach, contravention or non-compliance of the corresponding provision of this Act and the powers conferred on the competent authority by this Act may be exercised in respect of such breach, contravention or non-compliance.
 
-(6) Any enforcement process or proceedings commenced or pending immediately prior to the commencement of this Act in connection with any breach, contravention or non-compliance of or under the repealed Act may be continued and disposed of under the repealed Act as if this Act has not been passed.
+(6) Any enforcement process or proceedings commenced or pending immediately prior to 1st April 1998 in connection with any breach, contravention or non-compliance of or under the repealed Act may be continued and disposed of under the repealed Act as if this Act has not been passed.
 
-(7) Any application for permission made to the competent authority under section 10 or 13 of the repealed Act and any appeal made to the Minister under section 16 or 17 of the repealed Act which is pending immediately before the commencement of this Act shall be deemed to have been made and shall be dealt with under the corresponding provisions of this Act.
+(7) Any application for permission made to the competent authority under section 10 or 13 of the repealed Act and any appeal made to the Minister under section 16 or 17 of the repealed Act which is pending immediately before 1st April 1998 shall be deemed to have been made and shall be dealt with under the corresponding provisions of this Act.
 
-(8) Any reference in any written law to the repealed Act or any provision thereof shall, on the commencement of this Act, be a reference to this Act or the corresponding provision of this Act.
+(8) Any reference in any written law to the repealed Act or any provision thereof shall, as from 1st April 1998, be a reference to this Act or the corresponding provision of this Act.
 
 (9) Any reference in any written law or document to the planning functions of the Singapore Improvement Trust shall be construed as a reference to the planning functions of the competent authority.
 
-### Related amendments to Residential Property Act
-
-64\. The Residential Property Act (Cap.274) is amended by inserting, immediately after section 28, the following section:
-
-“
-
-Approval for residential development on land deemed non-residential
-
-28A\.—(1) Where any foreign person is the owner of any vacant land (whether or not with a vacant or disused building or structure thereon) which has been —
-
-(a) zoned for any of the purposes declared to be industrial, commercial or non-residential by the Minister under sub-paragraph (iv) of the definition of "residential property" in section 2(1); and
-
-(b) rezoned at any time on or after the commencement of this section pursuant to any alteration to the Master Plan (other than an alteration made in relation to any application for permission to develop under the Planning Act 1998) and is still zoned for a purpose other than that declared under that sub-paragraph (iv) by the Minister,
-
-that foreign person —
-
-(i) shall be required to make an application to the Minister through the Controller of Housing for the grant of approval to develop the land for that purpose prior to his making an application to the competent authority appointed under the Planning Act 1998 for permission to develop; and
-
-(ii) shall not be granted planning permission or conservation permission unless he has been granted prior approval by the Minister in accordance with this section.
-
-(2) A certification by the competent authority appointed under the Planning Act 1998 certifying that an alteration to the Master Plan was approved by the Minister in relation to an application for planning permission or conservation permission under that Act shall be conclusive evidence of the matters stated therein.
-
-(3) The Minister may, when granting any approval under subsection (1), impose such conditions as he may think fit, including the following:
-
-(a) that the foreign person shall provide such security as may be determined by the Minister for the purpose of complying with any condition imposed by the Minister; and
-
-(b) that the foreign person shall give an undertaking in writing to comply with the conditions imposed by the Minister.
-
-(4) Where an applicant has failed to comply with any of the conditions imposed by the Minister under this section, the Minister may forfeit the security provided by the applicant under this section after giving 21 days' notice in writing to the applicant of his intention to forfeit the security and the grounds thereof.
-
-(5) An applicant may, within 3 months of the receipt of the notice under subsection (4), appeal to the Minister whose decision shall be final and shall not be questioned in any court.
-
-”.
-
-### Consequential amendments to other written laws
-
-65\. The provisions of the written laws specified in the first column of the Second Schedule to this Act shall be amended in the manner set out in the second thereof.
-
-FIRST SCHEDULE
+## THE SCHEDULE
 
 Section 4
 
@@ -1356,7 +1274,7 @@ cluster housing;
 
 (d)
 
-strata - bungalow;
+strata — bungalow;
 
 (e)
 
@@ -1386,186 +1304,82 @@ shopping;
 
 any combination of office, shopping and residential flat uses.
 
-SECOND SCHEDULE
-
-Section 65
-
-First column
-
-Second column
-
-(1) The Apportionment of Rents Act (Chapter 9, 1985 Ed.)
-
-(a) Section 2
-
-(i) Delete the definition of "competent authority" and substitute the following definition:
-
-“
-
-“competent authority” means the competent authority appointed under section 5 of the Planning Act 1998 in respect of the grant of subdivision permission;
-
-”.
-
-(ii) Insert, immediately after the words "in respect of which" in the definition of "sub-divided land", the words "subdivision".
-
-(iii) Delete the words "Planning Act" in the definition of "subdivided land", and substitute the words "Planning Act 1998".
-
-(b) Section 3(1)
-
-Delete the words "written permission" wherever they appear and substitute in each case the words "subdivision permission".
-
-(2) The Building Control Act (Chapter 29, 1990 Ed.)
-
-(a) Section 2(1)
-
-Delete the definition of "competent authority" and substitute the following definition:
-
-“
-
-“competent authority” means the competent authority appointed under section 5 of the Planning Act 1998 in respect of the development of land;
-
-”.
-
-(b) Section 6(5)
-
-(i) Delete the words "Planning Act" in paragraph (a) and substitute the words "Planning Act 1998".
-
-(ii) Delete the words "section 10(7)" in paragraph (a) and substitute the words "section 20".
-
-(iii) Delete the words "section 10(5) of the Planning Act" in paragraph (c) and substitute the words "section 14 of the Planning Act 1998".
-
-(iv) Delete the marginal reference "Cap.232, 1990 Ed.".
-
-(3)The Buildings and Common Property (Maintenance and Management) Act
-
-
-
-
-(Chapter 30, 1985 Ed.)
-
-Section 2
-
-(i) Delete the words "section 9 of the Planning Act" in the definition of "developer" and substitute the words "section 14 of the Planning Act 1998".
-
-(ii) Delete the marginal reference "Cap.232.".
-
-(4) The Land Acquisition Act (Chapter 152, 1985 Ed.)
-
-Section 33(5)(e)
-
-(i) Delete the words "Master Plan" in the sixth line and substitute the words "Development Baseline referred to in section 36 of the Planning Act 1998".
-
-(ii) Delete the words "Planning Act" in the ninth and tenth lines and substitute the words "Planning Act 1998".
-
-(iii) Delete the marginal reference "Cap.232.".
-
-(5) The Land Surveyors Act (Chapter 156, 1992 Ed.)
-
-(i) Delete the words "written permission to subdivide as required by section 9 of the Planning Act" and substitute the words "subdivision permission as required by section 12 of the Planning Act 1998".
-
-(ii) Delete the marginal reference "Cap.232.".
-
-(6) The Land Titles Act (Chapter 157, 1994 Ed.)
-
-(a) Section 99(8)
-
-(i) Delete the definition of "competent authority" and substitute the following definition:
-
-“
-
-“competent authority” means the competent authority appointed under section 5 of the Planning Act 1998 in respect of the development and subdivision of land;
-
-”.
-
-(ii) Delete the words "Planning Act" wherever they appear in the definitions of "estate" and "lot" and substitute in each case the words "Planning Act 1998".
-
-(iii) Delete the marginal reference "Cap.232." in the definition of "1ot".
-
-(b) Section 140(4)(a)
-
-(i) Delete the words "the Minister, as the case may be, under the Planning Act" and substitute the words "the Minister for National Development, as the case may be, under the Planning Act 1998".
-
-(ii) Delete the marginal reference "Cap.232.".
-
-(7) The Land Titles (Strata) Act (Chapter 158, 1988 Ed.)
-
-Section 3
-
-(i) Delete the definition of "competent authority" and substitute the following definition:
-
-“
-
-“competent authority”, in relation to the development or subdivision of land, means the competent authority appointed under section 5 of the Planning Act 1998 in respect of the development or subdivision of land, as the case may be;
-
-”.
-
-(ii) Insert, immediately after the definition of "parcel", the following definition:
-
-“
-
-“planning permission” has the same meaning as in the Planning Act 1998;
-
-”.
-
-(8) The Rapid Transit Systems Act
-
-
-
-
-(Chapter 263A, 1996 Ed.)
-
-Section 2
-
-Delete the definition of "competent authority" and substitute the following definition:
-
-“
-
-“competent authority” means the competent authority appointed under section 5 of the Planning Act 1998 in respect of the development of land;
-
-”.
-
-(9) The Residential Property Act (Chapter 274, 1985 Ed.)
-
-(a) Section 2(1)
-
-Delete the definition of "Master Plan" and substitute the following definition:
-
-“
-
-“Master Plan” has the same meaning as in the Planning Act 1998;
-
-”.
-
-(b) Section 4
-
-(i) Delete the words "the competent authority under the Planning Act" in subsections (1)(b), (2)(b) and (3)(b) and substitute in each case the words "the relevant competent authority under the Planning Act 1998".
-
-(ii) Delete the words "Planning Act" in subsections (2)(a) and (3)(a) and substitute in each case the words "Planning Act 1998".
-
-(iii) Delete the marginal reference "Cap.232.".
-
-(10) The Sale of Commercial Properties Act
-
-
-
-
-(Chapter 281, 1985 Ed.)
-
-(a) Section 2
-
-Delete the words "the competent authority" in the fourth and fifth lines of the definition of "building" and substitute the words "the relevant competent authority under the Planning Act 1998".
-
-(b) Section 8(1)(b)
-
-(i) Delete the words "written permission for the relevant strata subdivision under section 9(3) of the Planning Act" and substitute the words "subdivision permission under section 14 of the Planning Act 1998".
-
-(ii) Delete the marginal reference "Cap. 232.".
-
-(11) The Street Works Act (Chapter 320A, 1996 Ed.)
-
-Section 2
-
-(i) Delete the words "section 3 of the Planning Act" in the definition of "competent authority" and substitute the words "section 5 of the Planning Act 1998".
-
-(ii) Delete the marginal reference "Cap. 232.".
-
+## LEGISLATIVE HISTORY
+
+Planning Act
+
+(CHAPTER 232)
+
+This Legislative History is provided for the convenience of users of the Planning Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Ordinance 12 of 1959—Planning Ordinance 1959**|
+||Date of First, Second and Third Readings|Dates not available.|
+||Date of commencement|1 February 1960|
+|2.|**Ordinance 8 of 1961—Education and Improvement Rates (Abolition) Ordinance 1961**|
+||Dates of First, Second and Third Readings|Dates not available|
+||Date of commencement|1 January 1961|
+|3.|**Ordinance 12 of 1963—Planning (Amendment) Ordinance 1963**|
+||Dates of First, Second and Third Readings|Dates not available|
+||Date of commencement|1 September 1963|
+|4.|**Ordinance 5 of 1964—Planning (Amendment) Ordinance 1964**|
+||Dates of First, Second and Third Readings|Dates not available|
+||Date of commencement|27 November 1964|
+|5.|**1966 Reprint—Planning Ordinance 1959**|
+||Date of operation|2 November 1966|
+|6.|**1970 Revised Edition—Planning Act (Chapter 279)**|
+||Date of operation|31 August 1971|
+|7.|**Act 27 of 1974—Cancellation of Planning Permission Act, 1974**|
+||Date of First Reading|28 August 1974|
+|||(Bill No. 17/1974 published on 2 September 1974)|
+||Date of Second and Third Readings|23 October 1974|
+||Date of commencement|11 September 1973|
+|8.|**G. N. No. S 5/1974—Metrication (Planning Act) Order 1974**|
+||Date of commencement|11 January 1974|
+|9.|**Act 30 of 1975—Planning (Amendment) Act 1975**|
+||Date of First Reading|29 July 1975|
+|||(Bill No. 44/1975 published on 1 August 1975)|
+||Date of Second and Third Readings|19 August 1975|
+||Date of commencement|19 September 1975|
+|10.|**Act 4 of 1976—Land Titles (Strata) (Amendment) Act 1976**|
+||Date of First Reading|29 July 1975|
+|||(Bill No. 32/1975 published on 1 August 1975)|
+||Date of Second and Third Readings|1 March 1976|
+||Date of commencement|15 April 1976|
+|11.|**Act 31 of 1979—Planning (Amendment) Act 1979**|
+||Date of First Reading|21 September 1979|
+|||(Bill No. 33/1979 published on 25 September 1979)|
+||Date of Second and Third Readings|11 December 1979|
+||Date of commencement|1 February 1980|
+|12.|**Act 9 of 1982—Planning (Amendment) Act 1982**|
+||Date of First Reading|22 December 1981|
+|||(Bill No. 35/1981 published on 30 December 1981)|
+||Date of Second and Third Readings|3 March 1982|
+||Date of commencement|24 April 1982|
+|13.|**1985 Revised Edition—Planning Act (Chapter 232)**|
+||Date of operation|30 March 1987|
+|14.|**Act 12 of 1989—Planning (Amendment) Act 1989**|
+||Date of First Reading|19 January 1989|
+|||(Bill No. 14/1989 published on 19 January 1989)|
+||Date of Second and Third Readings|17 February 1989|
+||Date of commencement|31 March 1989|
+|15.|**Act 31 of 1989—Planning (Amendment No. 2) Act 1989**|
+||Date of First Reading|11 July 1989|
+|||(Bill No. 34/1989 published on 12 July 1989)|
+||Date of Second and Third Readings|4 August 1989|
+||Date of commencement|1 September 1989|
+|16.|**1990 Revised Edition—Planning Act**|
+||Date of operation|15 March 1990|
+|17.|**Act 7 of 1997—Statutes (Miscellaneous Amendment) Act 1997**|
+||Date of First Reading|11 July 1997|
+|||(Bill No. 6/1997 published on 12 July 1997)|
+||Date of Second and Third Readings|25 August 1997|
+||Date of commencement|1 October 1997|
+|18.|**Act 3 of 1998—Planning Act 1998**|
+||Date of First Reading|19 November 1997|
+|||(Bill No. 18/97 published on 20 November 1997)|
+||Date of Second and Third Readings|14 January 1998|
+||Date of commencement|1 April 1998|
+|19.|**1998 Revised Edition—Planning Act**|
+||Date of operation|15 December 1998|
