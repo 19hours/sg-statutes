@@ -1402,6 +1402,8 @@ This Legislative History is provided for the convenience of users of the Exchang
 |||(Bill No. 40/2002 published on 1 November 2002)|
 ||Date of Second and Third Readings|25 November 2002|
 ||Date of commencement|1 January 2003|
+|25.|**G. N. No. S 531/2003—Exchange Control (Continuance of Act) Notification 2003**|
+||Date of commencement|1 January 2004|
 ## COMPARATIVE TABLE
 
 Exchange Control Act
