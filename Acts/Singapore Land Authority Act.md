@@ -50,7 +50,7 @@
 
 - [17 Annual estimates](#Annual-estimates)
 
-- [18 Investments](#Investments)
+- [18 Power of investment](#Power-of-investment)
 
 - [19 Grants](#Grants)
 
@@ -452,13 +452,11 @@ FINANCIAL PROVISIONS
 
 (4) The Minister may approve or disallow any item or portion of any item shown in the estimates, and shall return the estimates as amended by him to the Authority, and the Authority shall be bound thereby.
 
-### Investments
+### Power of investment
 
-18\. The Authority may, with the approval of the Minister —
+18\. The Authority may invest its funds in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
 
-(a) invest its funds in such manner as it thinks fit; and
-
-(b) engage in any financial activity or participate in any financial arrangement for the purpose of managing or hedging against any financial risk that arises or is likely to arise from such investment.
+[45/2004 wef 15/12/2004]
 
 ### Grants
 
@@ -929,3 +927,9 @@ This Legislative History is provided for the convenience of users of the Singapo
 ||Date of commencement|15 July 2002|
 |3.|**2002 Revised Edition—Singapore Land Authority Act**|
 ||Date of operation|31 July 2002|
+|4.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 September 2004|
+|||(Bill No. 43/2004 published on 22 September 2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|15 December 2004|
