@@ -58,7 +58,7 @@
 
 - [22 Powers of police and authorised officers](#Powers-of-police-and-authorised-officers)
 
-- [23 Power of Director to require tobacco products for testing or analysis and furnishing of information](#Power-of-Director-to-require-tobacco-products-for-testing-or-analysis-and-furnishing-of-information)
+- [23 Power of Chief Executive to require tobacco products for testing or analysis and furnishing of information](#Power-of-Chief-Executive-to-require-tobacco-products-for-testing-or-analysis-and-furnishing-of-information)
 
 - [24 Power to enter premises and inspect and seize advertisements, products, machines and documents](#Power-to-enter-premises-and-inspect-and-seize-advertisements-products-machines-and-documents)
 
@@ -77,6 +77,8 @@
 - [31 Jurisdiction of courts](#Jurisdiction-of-courts)
 
 - [32 Composition of offences](#Composition-of-offences)
+
+- [32A Fees, charges, etc., collected by the Chief Executive or authorised officer to be paid to Authority](#Fees-charges-etc-collected-by-the-Chief-Executive-or-authorised-officer-to-be-paid-to-Authority)
 
 - [33 Regulations](#Regulations)
 
@@ -126,7 +128,13 @@ PRELIMINARY
 
 “authorised officer” means any officer or person, appointed under section 18;
 
-“Director” means the Director of Medical Services and includes a Deputy or an Assistant Director of Medical Services;
+“Authority” means the Health Sciences Authority established under the Health Sciences Authority Act 2001;
+
+[4/2001 wef 01/04/2001]
+
+“Chief Executive” means the person appointed under section 15 of the Health Sciences Authority Act 2001 to be the Chief Executive of the Authority;
+
+[4/2001 wef 01/04/2001]
 
 “imitation tobacco product” means any of the products referred to in section 15(1);
 
@@ -264,11 +272,11 @@ shall be guilty of an offence and shall be liable on conviction for —
 
 (a) shall cause to be displayed suitable and sufficient number of notices of an adequate size or sizes in conspicuous positions in the premises or place where the product is sold, stating to the effect that the sale of any tobacco product to persons below the age of 18 years is prohibited by law; and
 
-(b) shall, if so directed by the Director, display such notices in such places, phrase them in such manner or cause them to be of such size, as the Director may consider fit.
+(b) shall, if so directed by the Chief Executive, display such notices in such places, phrase them in such manner or cause them to be of such size, as the Chief Executive may consider fit.
 
-(2) The retailer may, subject to any direction that may be given by the Director under subsection (1)(b), in addition to such notices, adopt any means, method or device as he may think fit for bringing such prohibition to the attention of members of the public in the premises or place.
+(2) The retailer may, subject to any direction that may be given by the Chief Executive under subsection (1)(b), in addition to such notices, adopt any means, method or device as he may think fit for bringing such prohibition to the attention of members of the public in the premises or place.
 
-(3) A retailer who contravenes or fails to comply with subsection (1) or fails to comply with any direction given by the Director under that subsection shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000.
+(3) A retailer who contravenes or fails to comply with subsection (1) or fails to comply with any direction given by the Chief Executive under that subsection shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000.
 
 ### Prohibition on sale by vending machines
 
@@ -310,7 +318,7 @@ shall be guilty of an offence and shall be liable on conviction for —
 
 ### Power to license tobacco retailers
 
-17\.—(1) The Minister may by regulations require any person who sells by retail or offers for sale by retail, or permits to be sold or offered or has in his possession for sale by retail any tobacco product, to be licensed by the Director.
+17\.—(1) The Minister may by regulations require any person who sells by retail or offers for sale by retail, or permits to be sold or offered or has in his possession for sale by retail any tobacco product, to be licensed by the Chief Executive.
 
 (2) Without prejudice to the generality of subsection (1), the Minister may make regulations for or with respect to any of the following matters:
 
@@ -326,15 +334,15 @@ shall be guilty of an offence and shall be liable on conviction for —
 
 (f) to provide for the exemption of any person or class of persons from the provisions of any regulations made under this section.
 
-(3) Any person who is aggrieved by a decision of the Director to refuse to grant or renew a licence or to revoke, suspend or cancel his licence may appeal against the decision to the Minister.
+(3) Any person who is aggrieved by a decision of the Chief Executive to refuse to grant or renew a licence or to revoke, suspend or cancel his licence may appeal against the decision to the Minister.
 
 (4) A person required by regulations made under subsection (1) to be licensed, who sells by retail or offers for sale by retail or permits to be sold or offered or has in his possession for sale by retail any tobacco product without a licence in force shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000.
 
 ### Appointment of authorised officers
 
-18\.—(1) The Director may appoint any officer or any person to be an authorised officer for the purposes of this Act or any regulations made thereunder.
+18\.—(1) The Chief Executive may appoint any officer or any person to be an authorised officer for the purposes of this Act or any regulations made thereunder.
 
-(2) In the exercise of his powers and in carrying out his duties under this Act or any regulations made thereunder, an authorised officer shall comply with such general or special directions as may, from time to time, be given to him by the Director.
+(2) In the exercise of his powers and in carrying out his duties under this Act or any regulations made thereunder, an authorised officer shall comply with such general or special directions as may, from time to time, be given to him by the Chief Executive.
 
 ## PART IV
 
@@ -368,19 +376,19 @@ ENFORCEMENT AND MISCELLANEOUS
 
 (7) Where a person arrested in pursuance of a warrant issued under subsection (6) is produced before a Court, the Court shall proceed as though he were produced before it under subsection (1) and shall, at the conclusion of such proceedings, call upon him to show cause why he should not be punished for failing to attend in compliance with the notice served under subsection (2) and, if due cause is not shown, the Court may order him to pay a penalty not exceeding $2,000 or may commit him to prison for a term not exceeding one month.
 
-### Power of Director to require tobacco products for testing or analysis and furnishing of information
+### Power of Chief Executive to require tobacco products for testing or analysis and furnishing of information
 
 23\.—(1) Any person carrying on a trade or business which consists of or includes the manufacture, distribution, importation or sale of any tobacco or imitation tobacco product —
 
-(a) shall supply free of charge to the Director or an authorised officer samples of any tobacco product or any imitation tobacco product as the Director or authorised officer may require for the purpose of testing, analysis or investigations; and
+(a) shall supply free of charge to the Chief Executive or an authorised officer samples of any tobacco product or any imitation tobacco product as the Chief Executive or authorised officer may require for the purpose of testing, analysis or investigations; and
 
-(b) shall furnish to the Director or authorised officer such information as the Director or authorised officer may require in respect of those products.
+(b) shall furnish to the Chief Executive or authorised officer such information as the Chief Executive or authorised officer may require in respect of those products.
 
-(2) Any person involved or concerned with the importation, distribution, sale or supply of any newspaper which is printed or published outside Singapore shall furnish to the Director or an authorised officer such information as the Director or authorised officer may require in respect of such newspapers.
+(2) Any person involved or concerned with the importation, distribution, sale or supply of any newspaper which is printed or published outside Singapore shall furnish to the Chief Executive or an authorised officer such information as the Chief Executive or authorised officer may require in respect of such newspapers.
 
 ### Power to enter premises and inspect and seize advertisements, products, machines and documents
 
-24\.—(1) The Director or an authorised officer may, at all reasonable hours, exercise the following powers:
+24\.—(1) The Chief Executive or an authorised officer may, at all reasonable hours, exercise the following powers:
 
 (a) he may, for the purpose of ascertaining whether any offence under this Act has been committed, inspect any advertisement, tobacco or imitation tobacco product or vending machine and enter any business premises;
 
@@ -392,21 +400,21 @@ ENFORCEMENT AND MISCELLANEOUS
 
 (e) he may, for the purpose of exercising his powers under this subsection to seize any advertisement, tobacco or imitation tobacco product or vending machine, but only if and to the extent that it is reasonably necessary in order to secure that the provisions of this Act and any regulations made thereunder are duly observed, require any person having authority to do so to break open any container or open any vending machine and, if that person does not comply with the requirement, he may do so himself.
 
-(2) The Director or an authorised officer may, if he has reasonable cause to believe that an offence under section 3(1) has been committed in respect of an advertisement relating to smoking, require the person reasonably suspected of committing the offence to remove the advertisement from the view of members of the public and if the person fails to do so, the Director or authorised officer may cause the advertisement to be so removed and the person shall be liable to pay to the Director the reasonable costs of removal and disposal of the advertisement which may be recovered as a debt due to the Government.
+(2) The Chief Executive or an authorised officer may, if he has reasonable cause to believe that an offence under section 3(1) has been committed in respect of an advertisement relating to smoking, require the person reasonably suspected of committing the offence to remove the advertisement from the view of members of the public and if the person fails to do so, the Chief Executive or authorised officer may cause the advertisement to be so removed and the person shall be liable to pay to the Chief Executive the reasonable costs of removal and disposal of the advertisement which may be recovered as a debt due to the Government.
 
-(3) The Director or an authorised officer shall, on seizing any advertisement, tobacco or imitation tobacco product, machine or document in the exercise of his powers under this section, inform the person from whom it was seized of such seizure and, in the case of tobacco products seized from a vending machine, the person whose name and address are stated on the machine as being the proprietor or, if no name and address are so stated, the occupier of the premises on which the machine stands or to which it is affixed.
+(3) The Chief Executive or an authorised officer shall, on seizing any advertisement, tobacco or imitation tobacco product, machine or document in the exercise of his powers under this section, inform the person from whom it was seized of such seizure and, in the case of tobacco products seized from a vending machine, the person whose name and address are stated on the machine as being the proprietor or, if no name and address are so stated, the occupier of the premises on which the machine stands or to which it is affixed.
 
-(4) The Director or an authorised officer entering any premises by virtue of this section may take with him such other persons and such equipment as may appear to him necessary.
+(4) The Chief Executive or an authorised officer entering any premises by virtue of this section may take with him such other persons and such equipment as may appear to him necessary.
 
 ### Obstruction of officers
 
 25\.—(1) Any person who —
 
-(a) wilfully obstructs the Director or an authorised officer acting in pursuance of this Act;
+(a) wilfully obstructs the Chief Executive or an authorised officer acting in pursuance of this Act;
 
-(b) wilfully fails to comply with any requirement under section 23 properly made to him by the Director or an authorised officer; or
+(b) wilfully fails to comply with any requirement under section 23 properly made to him by the Chief Executive or an authorised officer; or
 
-(c) without reasonable cause, fails to give the Director or an authorised officer any other assistance or information which the Director or authorised officer may reasonably require for the purpose of the performance of his functions under this Act,
+(c) without reasonable cause, fails to give the Chief Executive or an authorised officer any other assistance or information which the Chief Executive or authorised officer may reasonably require for the purpose of the performance of his functions under this Act,
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding one year or to both.
 
@@ -416,9 +424,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 26\. Where any tobacco or imitation tobacco product seized in pursuance of this Act is submitted to a test, then —
 
-(a) if the product is seized, the Director shall inform the person mentioned in section 24(3) of the result of the test; or
+(a) if the product is seized, the Chief Executive shall inform the person mentioned in section 24(3) of the result of the test; or
 
-(b) if the product was purchased and the test leads to the institution of proceedings for an offence under this Act, the Director shall inform the person from whom the product was purchased or, in the case of a product sold through a vending machine, the person mentioned in section 24(3) of the result of the test,
+(b) if the product was purchased and the test leads to the institution of proceedings for an offence under this Act, the Chief Executive shall inform the person from whom the product was purchased or, in the case of a product sold through a vending machine, the person mentioned in section 24(3) of the result of the test,
 
 and shall, where as a result of the test proceedings for an offence under this Act are instituted against any person, allow him to have the product tested on his behalf if it is reasonably practicable to do so.
 
@@ -430,15 +438,15 @@ and shall, where as a result of the test proceedings for an offence under this A
 
 (3) In the absence of any prosecution with regard to any advertisement, product or machine seized in the exercise of any power conferred by this Act, the advertisement, product or machine shall be deemed to be forfeited at the expiration of one month from the date of the seizure unless a claim thereto is made before then in accordance with subsection (4).
 
-(4) A person asserting that he is the owner of any advertisement, product or machine seized and that the advertisement, product or machine is not liable to forfeiture may personally, or by his agent authorised in writing, make a claim by giving written notice to the Director.
+(4) A person asserting that he is the owner of any advertisement, product or machine seized and that the advertisement, product or machine is not liable to forfeiture may personally, or by his agent authorised in writing, make a claim by giving written notice to the Chief Executive.
 
-(5) On receipt of such notice, the Director may direct that the advertisement, product or machine be released or may refer the matter to a court for decision.
+(5) On receipt of such notice, the Chief Executive may direct that the advertisement, product or machine be released or may refer the matter to a court for decision.
 
-(6) All things forfeited or deemed to be forfeited shall be delivered to the Director and shall be disposed of in accordance with the directions of the Minister.
+(6) All things forfeited or deemed to be forfeited shall be delivered to the Chief Executive and shall be disposed of in accordance with the directions of the Minister.
 
 ### Things seized may be delivered to owner or other person
 
-28\. The Minister may, upon application made to him in writing through the Director, order any advertisement, product or machine seized in exercise of the powers conferred by this Act, whether forfeited or taken and deemed to be forfeited, to be delivered to the owner or other person entitled thereto upon such terms and conditions as the Minister may consider fit.
+28\. The Minister may, upon application made to him in writing through the Chief Executive, order any advertisement, product or machine seized in exercise of the powers conferred by this Act, whether forfeited or taken and deemed to be forfeited, to be delivered to the owner or other person entitled thereto upon such terms and conditions as the Minister may consider fit.
 
 ### Protection of officers
 
@@ -446,7 +454,7 @@ and shall, where as a result of the test proceedings for an offence under this A
 
 ### Forms
 
-30\. The Director may design and utilise such forms as he may think fit for any of the purposes of this Act or any regulations made thereunder, and may require any person to complete any of the forms for any such purpose.
+30\. The Chief Executive may design and utilise such forms as he may think fit for any of the purposes of this Act or any regulations made thereunder, and may require any person to complete any of the forms for any such purpose.
 
 ### Jurisdiction of courts
 
@@ -454,9 +462,17 @@ and shall, where as a result of the test proceedings for an offence under this A
 
 ### Composition of offences
 
-32\.—(1) The Director or any person authorised by the Director in writing may, in his discretion, compound any offence under this Act or any regulations made thereunder which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $2,000.
+32\.—(1) The Chief Executive or any person authorised by the Chief Executive in writing may, in his discretion, compound any offence under this Act or any regulations made thereunder which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $2,000.
 
 (2) The Minister may make regulations to prescribe the offences which may be compounded.
+
+### Fees, charges, etc., collected by the Chief Executive or authorised officer to be paid to Authority
+
+32A\.—(1) All fees, charges and other moneys recovered or collected by the Chief Executive or an authorised officer under this Act or any regulations made thereunder (including sums collected for the composition of offences under section 32) shall be paid to the Authority.
+
+(2) In subsection (1), “authorised officer” includes any person authorised by the Chief Executive in writing to compound offences under section 32.
+
+[4/2001 wef 01/04/2001]
 
 ### Regulations
 
@@ -487,3 +503,9 @@ This Legislative History is provided for the convenience of users of the Smoking
 ||Date of commencement|31 May 1993|
 |2.|**1994 Revised Edition—Smoking (Control of Advertisements and Sale of Tobacco) Act**|
 ||Date of operation|15 March 1994|
+|3.|**Act 4 of 2001—Health Sciences Authority Act 2001**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|12 January 2001|
+|||(Bill No. 3/2001 published on 13 January 2001)|
+||Date of Second and Third Readings|22 February 2001|
+||Date of commencement|1 April 2001|
