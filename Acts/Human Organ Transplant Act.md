@@ -12,7 +12,7 @@
 
 - [2 Interpretation](#Interpretation)
 
-- [3 When death occurs](#When-death-occurs)
+- [3 (Repealed)](#Repealed)
 
 - [4 Designated officers](#Designated-officers)
 
@@ -100,11 +100,7 @@ PRELIMINARY
 
 (b) for the purposes of Part IV, any organ of a human body.
 
-### When death occurs
-
-3\.—(1) For the purposes of this Act, a person has died when there has occurred irreversible cessation of all functions of the brain of the person.
-
-(2) The Minister may prescribe the criteria for determining the irreversible cessation of all functions of the brain of a person referred to in subsection (1).
+3\. [Repealed by Act 22/98 wef 02/11/1998]
 
 ### Designated officers
 
@@ -134,13 +130,7 @@ REMOVAL OF ORGAN AFTER DEATH
 
 (g) who is a Muslim.
 
-(3) The death of a person from whose body the organ will be removed after his death in accordance with the authorisation granted under subsection (1) shall be certified by two medical practitioners —
-
-(a) who do not belong to the team of medical practitioners which will effect the removal of the organ from the body;
-
-(b) who have not been involved in the care and treatment of the proposed recipient of the organ; and
-
-(c) who possess such postgraduate medical qualification which is recognised by the Director as a qualification entitling them to certify the death of a person under this subsection.
+(3) [Deleted by Act 22 of 1998 wef 30/04/1998]
 
 (4) In this section, “permanent resident” includes —
 
@@ -322,3 +312,12 @@ This Legislative History is provided for the convenience of users of the Human O
 ||Date of commencement|16 July 1987|
 |2.|**1988 Revised Edition—Human Organ Transplant Act (Chapter 131A)**|
 ||Date of operation|30 April 1988|
+|3.|**Act 22 of 1998—Interpretation (Amendment) Act 1998**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|19 November 1997|
+|||(Bill No. 17/97 published on 20 November 1997)|
+||Date of Second Reading|14 January 1998|
+||Date Committed to Select Committee|14 January 1998|
+||Date of Presentation of Select Committee Report|1 June 1998 (Parl. 3 of 1998)|
+||Date of Third Reading|30 June 1998|
+||Date of commencement|2 November 1998|
