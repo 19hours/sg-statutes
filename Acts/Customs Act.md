@@ -58,6 +58,10 @@
 
 - [22 Value of imported goods other than motor spirit](#Value-of-imported-goods-other-than-motor-spirit)
 
+- [22A Value of imported goods other than motor spirit for import duty](#Value-of-imported-goods-other-than-motor-spirit-for-import-duty)
+
+- [22B Objection and appeal on valuation](#Objection-and-appeal-on-valuation)
+
 - [23 Value of imported and locally-manufactured motor spirit](#Value-of-imported-and-locally-manufactured-motor-spirit)
 
 - [24 Value of motor spirit where variation in price](#Value-of-motor-spirit-where-variation-in-price)
@@ -788,7 +792,7 @@ Provided that where the short levy or erroneous refund does not exceed $20 or su
 
 ### Value of imported goods other than motor spirit
 
-22\.—(1) For the purposes of this Act, the value of any imported goods other than motor spirit shall be taken to be the normal price, that is to say, the price which they would fetch at the time when the duty becomes payable on a sale in the open market between the buyer and the seller independent of each other.
+22\.—(1) For the purposes of levying excise duty under this Act, the value of any imported goods other than motor spirit shall be taken to be the normal price, that is to say, the price which they would fetch at the time when the duty becomes payable on a sale in the open market between the buyer and the seller independent of each other.
 
 (2) The normal price of any imported goods shall be determined on the following assumptions:
 
@@ -824,7 +828,7 @@ the price shall be determined on the assumption that the price covers the right 
 
 (6) Two persons shall be deemed to be associated in business with one another if, directly or indirectly, either of them has any interest in any business or property of the other, or both have a common interest in any business or property, or some third person has an interest in the business or property of both of them.
 
-(7) In the case of goods imported under a contract of sale and about to be removed from customs control for use in Singapore, duty shall be deemed to have been paid on their value, if, before the goods are delivered from a Government warehouse, licensed factory warehouse or licensed warehouse for home use, duty is tendered, accepted and paid on a declared value based on the contract price.
+(7) In the case of goods imported under a contract of sale and about to be removed from customs control for use in Singapore, excise duty shall be deemed to have been paid on their value, if, before the goods are delivered from a Government warehouse, licensed factory warehouse or licensed warehouse for home use, excise duty is tendered, accepted and paid on a declared value based on the contract price.
 
 (8) For the purpose of subsection (7) —
 
@@ -832,9 +836,37 @@ the price shall be determined on the assumption that the price covers the right 
 
 (b) that value shall be deemed to be based on the contract price if, but only if, it represents the price properly adjusted to take account of circumstances differentiating the contract from such a contract of sale as is contemplated by subsections (1) to (6); and
 
-(c) the rate of exchange to be used for determining the equivalent in Singapore currency of any foreign currency shall be the current selling rate in Singapore at the time when customs duty is paid.
+(c) the rate of exchange to be used for determining the equivalent in Singapore currency of any foreign currency shall be the current selling rate in Singapore at the time when excise duty is paid.
 
 [24/81]
+
+### Value of imported goods other than motor spirit for import duty
+
+22A\.—(1) For the purposes of levying import duty under this Act, the value of any imported goods other than motor spirit shall be determined according to the regulations made by the Minister for the purposes of this section.
+
+(2) Regulations made under subsection (1) may provide for requiring any importer or other person concerned with the importation of goods —
+
+(a) to furnish to a proper officer of customs, in such form as he may require, such information as is in his opinion necessary for a proper valuation of the goods;
+
+(b) to produce any books of accounts or other documents of whatever nature relating to the purchase, importation or sale of the goods by that person.
+
+### Objection and appeal on valuation
+
+22B\.—(1) If any person disagrees with any determination by the proper officer of customs of the value of any goods under section 22 or 22A, he may object to that value by making an application to the Director-General, stating the grounds of his objection and the amount that he considers should be the value of the goods.
+
+(2) An objection under this section shall be given in writing to the Director-General within 14 days after any determination made under section 22 or 22A or within such further time as the Director-General may allow.
+
+(3) The Director-General shall consider the objection and inform the importer in writing of his decision.
+
+(4) Where a proper officer of customs amends his determination of the value of any goods pursuant to this Act otherwise than as a result of an objection received from the importer of the goods, he shall give notice to the importer of the amended determination.
+
+(5) If any person is dissatisfied with the decision of the Director-General in respect of his objection under subsection (1), he may appeal to the High Court against that decision.
+
+(6) Every appeal under subsection (5) shall be made by giving notice of appeal within 28 days after the date on which the importer is notified in writing under subsection (3) of the decision or within such further period as the High Court may allow.
+
+(7) On any appeal under subsection (5), the High Court may confirm, vary or set aside the decision of the Director-General and make such further or other order on such appeal, whether as to costs or otherwise, as the High Court may think fit.
+
+(8) Notwithstanding anything to the contrary in this section, where, in the course of determining any appeal, it becomes necessary to delay the final determination of the appeal, the importer shall be given delivery of his goods from customs control subject to the Director-General receiving such security as he thinks sufficient to cover the full amount of customs duty on the goods.
 
 ### Value of imported and locally-manufactured motor spirit
 
@@ -2248,11 +2280,11 @@ Provided that when the amount of customs duty cannot be ascertained the penalty 
 
 (ii) on the second or subsequent conviction to such fine or to imprisonment for a term not exceeding 2 years or to both;
 
-(iii) where the goods consist wholly or partly of tobacco products and such tobacco products exceed 2 kilogrammes in weight — on the first conviction to both a fine of not less than 15 times the amount of the customs duty or tax and not more than 20 times the amount of the customs duty or tax or $10,000, whichever is the greater, and to imprisonment for a term not exceeding 3 years; and
+(iii) where the goods consist wholly or partly of tobacco products and such tobacco products exceed 2 kilogrammes in weight — on the first conviction to both a fine of not less than 15 times the amount of the customs duty or tax and not more than 20 times the amount of the customs duty or tax or $10,000, whichever is the greater, or to imprisonment for a term not exceeding 3 years or to both; and
 
 [Act 24/96 wef 16/08/1996]
 
-(iv) where the goods consist wholly or partly of tobacco products and such tobacco products exceed 2 kilogrammes in weight — on the second or subsequent conviction to both a fine of not less than 30 times the amount of the customs duty or tax and not more than 40 times the amount of the customs duty or tax or $20,000, whichever is the greater, and to imprisonment for a term not exceeding 6 years.
+(iv) where he has been convicted on a previous occasion of an offence under this section involving goods consisting wholly or partly of tobacco products and such tobacco products exceed 2 kilogrammes in weight, and he is again convicted of such offence -- to a fine of not less than 30 times the amount of the customs duty or tax and not more than 40 times the amount of the customs duty or tax or $20,000, whichever is the greater, or to imprisonment for a term not exceeding 6 years or to both.
 
 [Act 24/96 wef 16/08/1996]
 
@@ -2518,7 +2550,7 @@ Customs Act
 
 (CHAPTER 70)
 
-This Legislative History is provided for the convenience of users of the Customs Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Customs Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -2630,3 +2662,8 @@ This Legislative History is provided for the convenience of users of the Customs
 |||(Bill No. 14/96 published on 22 May 1996)|
 ||Date of Second and Third Readings|12 July 1996|
 ||Date of commencement|16 August 1996|
+|26.|**Act 11 of 1997—Customs (Amendment) Act 1997**|
+||Date of First Reading|25 August 1997|
+|||(Bill No. 10/97 published on 26 August 1997)|
+||Date of Second and Third Readings|7 October 1997|
+||Date of commencement|17 October 1997|
