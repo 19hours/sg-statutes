@@ -1,16 +1,14 @@
-**Singapore Broadcasting Authority Act 1994**
+**Singapore Broadcasting Authority Act**
 
-**(No. 15 of 1994)**
+**(CHAPTER 297)**
 
 **Table of Contents**
 
 [**Long Title**](#Broadcasting-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -64,9 +62,9 @@
 
 - [23 Modification of class licence conditions](#Modification-of-class-licence-conditions)
 
-- [24 Suspension or cancellation of broadcasting licence, etc](#Suspension-or-cancellation-of-broadcasting-licence-etc)
+- [24 Suspension or cancellation of broadcasting licence, etc.](#Suspension-or-cancellation-of-broadcasting-licence-etc)
 
-- [25 Compliance with Codes of Practice, etc](#Compliance-with-Codes-of-Practice-etc)
+- [25 Compliance with Codes of Practice, etc.](#Compliance-with-Codes-of-Practice-etc)
 
 - [26 Free-to-air broadcasting services](#Free-to-air-broadcasting-services)
 
@@ -180,19 +178,19 @@
 
 - [73 Exemption](#Exemption)
 
-- [74 Equipment of licensee not subject to distress, etc](#Equipment-of-licensee-not-subject-to-distress-etc)
+- [74 Equipment of licensee not subject to distress, etc.](#Equipment-of-licensee-not-subject-to-distress-etc)
 
 - [75 International dealings of Authority](#International-dealings-of-Authority)
 
 - [76 Government’s right to determine international relations](#Government’s-right-to-determine-international-relations)
 
-- [77 Service of notice, etc](#Service-of-notice-etc)
+- [77 Service of notice, etc.](#Service-of-notice-etc)
 
 - [78 Amendment of First and Second Schedules](#Amendment-of-First-and-Second-Schedules)
 
 - [79 Regulations](#Regulations)
 
-- [80 Repeal and transitional provisions](#Repeal-and-transitional-provisions)
+- [80 Transitional provisions](#Transitional-provisions)
 
 [**FIRST SCHEDULE Broadcasting Apparatus**](#FIRST-SCHEDULE-Broadcasting-Apparatus)
 
@@ -206,53 +204,33 @@
 
 [**SIXTH SCHEDULE Consequential Amendments**](#SIXTH-SCHEDULE-Consequential-Amendments)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Singapore Broadcasting Authority Act
 
-ACTS SUPPLEMENT
+(CHAPTER 297)
 
-Published by Authority
+(Original Enactment: Act 15 of 1994)
 
-NO. 11]
+REVISED EDITION 1995
 
-Friday, September 23
+(15th March 1995)
 
-[1994
+An Act to establish the Singapore Broadcasting Authority, to regulate dealing in, the operation of and ownership in broadcasting services and broadcasting apparatus, to provide for the transfer of the property, rights and liabilities of the Singapore Broadcasting Corporation to successor companies and the Authority and for matters connected therewith.
 
-The following Act was passed by Parliament on 26th August 1994 and assented to by the President on 14th September 1994:—
-
-Singapore Broadcasting Authority Act 1994
-
-(No. 15 of 1994)
-
-I assent.
-
-ONG TENG CHEONG
-
-President.
-
-14th September 1994.
-
-Date of Commencement: 1st October 1994
-
-An Act to establish the Singapore Broadcasting Authority, to regulate dealing in, the operation of and ownership in broadcasting services and broadcasting apparatus, to provide for the transfer of the property, rights and liabilities of the Singapore Broadcasting Corporation to successor companies and the Authority and for matters connected therewith, and to repeal the Singapore Broadcasting Corporation Act (Chapter 297 of the 1985 Revised Edition) and the Broadcasting and Television Act (Chapter 28 of the 1985 Revised Edition).
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st October 1994]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Singapore Broadcasting Authority Act 1994 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Singapore Broadcasting Authority Act.
 
 ### Interpretation
 
 2\.—(1) In this Act, unless the context otherwise requires —
-
-“appointed day” means the date of commencement of this Act;
 
 “Authority” means the Singapore Broadcasting Authority established under section 3;
 
@@ -282,7 +260,7 @@ by persons having equipment appropriate for receiving, or receiving and displayi
 
 “Code of Practice” means a Code of Practice issued under this Act;
 
-“Corporation” means the Singapore Broadcasting Corporation established under the Singapore Broadcasting Corporation Act (Cap. 297) in force immediately before the appointed day;
+“Corporation” means the Singapore Broadcasting Corporation established under the Singapore Broadcasting Corporation Act [Cap. 297, 1985 Ed.] in force immediately before 1st October 1994;
 
 “debenture” includes debenture stock;
 
@@ -310,7 +288,7 @@ by persons having equipment appropriate for receiving, or receiving and displayi
 
 but does not include any matter that is wholly related to or connected with any private communication, that is to say —
 
-(i) any communication between two or more persons that is of a private or domestic nature;
+(i) any communication between 2 or more persons that is of a private or domestic nature;
 
 (ii) any internal communication of a business, Government agency or other organisation for the purpose of the operation of the business, agency or organisation; and
 
@@ -326,13 +304,11 @@ but does not include any matter that is wholly related to or connected with any 
 
 “subscription fee” means any form of consideration;
 
-“subsidiary” has the same meaning as in the Companies Act (Cap. 50);
+“subsidiary” has the same meaning as in the Companies Act [Cap. 50];
 
-“Telecommunication Authority of Singapore” means the Telecommunication Authority of Singapore established under the Telecommunication Authority of Singapore Act (Cap. 323);
+“Telecommunication Authority of Singapore” means the Telecommunication Authority of Singapore established under the Telecommunication Authority of Singapore Act [Cap. 323];
 
-“transfer date” has the meaning assigned to it in section 49;
-
-“undertaking” means all the land, buildings and other property, movable or immovable, vested in the Corporation immediately before the appointed day and all assets, powers, rights, interests, privileges, debts, liabilities and obligations connected therewith.
+“undertaking” means all the land, buildings and other property, movable or immovable, vested in the Corporation immediately before 1st October 1994 and all assets, powers, rights, interests, privileges, debts, liabilities and obligations connected therewith.
 
 (2) For the purposes of this Act, unless the context otherwise requires, “part of the public” includes residents in a particular place, employees of any firm, company or organisation, occupiers of a particular building or part thereof and members of any profession, club or society.
 
@@ -448,7 +424,7 @@ the Minister may, after consultation with a person to whom this section applies,
 
 ### Public servants
 
-10\. All members, officers and employees of the Authority shall be deemed to be public servants for the purposes of the Penal Code (Cap. 224).
+10\. All members, officers and employees of the Authority shall be deemed to be public servants for the purposes of the Penal Code [Cap. 224].
 
 ### Protection from personal liability
 
@@ -490,7 +466,7 @@ LICENSING SCHEME
 
 (b) broadcasting apparatus licences.
 
-(2) The Authority shall grant licences under subsection (1) in such categories as it may determine are appropriate for the regulation of the broadcasting industry.
+(2) The Authority shall grant licences under subsection (1) in such categories as the Authority may determine are appropriate for the regulation of the broadcasting industry.
 
 ### Codes of Practice
 
@@ -568,9 +544,7 @@ BROADCASTING SERVICES
 
 (a) reject the representation; or
 
-(b) amend the proposed modification or compensation payable in accordance with the representation, or otherwise,
-
-and, in either event, shall thereupon issue a direction in writing to the licensee requiring that effect be given to the proposed modification specified in the notice or to such modification as subsequently amended by the Authority within a reasonable time.
+(b) amend the proposed modification or compensation payable in accordance with the representation, or otherwise, and, in either event, shall thereupon issue a direction in writing to the licensee requiring that effect be given to the proposed modification specified in the notice or to such modification as subsequently amended by the Authority within a reasonable time.
 
 (4) Any broadcasting licensee aggrieved by a decision of the Authority under subsection (3) may, within 14 days of the receipt by it of the direction, appeal to the Minister whose decision shall be final.
 
@@ -590,7 +564,7 @@ and, in either event, shall thereupon issue a direction in writing to the licens
 
 (b) specify additional conditions of any class licence.
 
-### Suspension or cancellation of broadcasting licence, etc
+### Suspension or cancellation of broadcasting licence, etc.
 
 24\.—(1) If the Authority is satisfied that —
 
@@ -610,9 +584,9 @@ the Authority may, by notice in writing and without any compensation, do either 
 
 (2) Any person who is aggrieved by any decision of the Authority under this section may, within 14 days of the receipt by him of the notice referred to in subsection (1), appeal to the Minister whose decision shall be final.
 
-### Compliance with Codes of Practice, etc
+### Compliance with Codes of Practice, etc.
 
-25\.—(1) Every broadcasting licensee shall comply with the Codes of Practice relating to standards of programmes and advertisements and broadcast standards.
+25\.—(1) Every broadcasting licensee shall comply with the Codes of Practice relating to standards of programmes, and advertisements and broadcast standards.
 
 (2) No broadcasting licensee shall allow to be transmitted a broadcasting service other than in accordance with any broadcast standards specified in any regulations or Code of Practice or any condition which may be incorporated in its broadcasting licence.
 
@@ -740,7 +714,7 @@ FREQUENCY PLANNING
 
 ### Separate licence for use of frequency not required
 
-36\. Notwithstanding anything in the Telecommunication Authority of Singapore Act (Cap. 323) or any regulations made thereunder, if a licensee is granted a broadcasting licence under this Act and the licence includes the right for the licensee to use any specified frequency in the electromagnetic spectrum or satellite orbits for the broadcast, or the transmission of one or more broadcasting services, then the licensee shall not be required to obtain any other licence under this Act or the Telecommunication Authority of Singapore Act (Cap. 323) in respect of the use of such frequency or satellite orbits for the period for which that broadcasting licence is in force and for the purposes permitted by that licence.
+36\. Notwithstanding anything in the Telecommunication Authority of Singapore Act or any regulations made thereunder, if a licensee is granted a broadcasting licence under this Act and the licence includes the right for the licensee to use any specified frequency in the electromagnetic spectrum or satellite orbits for the broadcast, or the transmission of one or more broadcasting services, then the licensee shall not be required to obtain any other licence under this Act or the Telecommunication Authority of Singapore Act in respect of the use of such frequency or satellite orbits for the period for which that broadcasting licence is in force and for the purposes permitted by that licence.
 
 ## PART VIII
 
@@ -756,7 +730,7 @@ BROADCASTING CONDITIONS
 
 38\.—(1) The Authority may direct any broadcasting licensee or broadcasting apparatus licensee to co-ordinate and co-operate, in such manner and on such terms as the Authority may specify, with any other licensee or any other person specified by the Authority in the use or sharing of any broadcasting apparatus or related equipment or facility owned, operated or used by the broadcasting licensee or broadcasting apparatus licensee for the purpose of broadcasting, whether or not they have been provided, or are intended to be provided, by the licensee or any other licensee or any other person specified by the Authority.
 
-(2) This section shall not apply to any telecommunication system licensed under section 26 of the Telecommunication Authority of Singapore Act.
+(2) This section shall not apply to any telecommunication system licensed under section 26 of the Telecommunication Authority of Singapore Act [Cap. 323].
 
 ### Inspection and testing of broadcasting apparatus
 
@@ -784,7 +758,7 @@ BROADCASTING CONDITIONS
 
 (4) Any person who fails to comply with any requirement in a direction under subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
 
-(5) Nothing in any direction given under subsection (1) shall be construed as granting any exemption from any licensing requirement under this Act or any other written law which the developer or the owner of any building or land may be required to comply with in respect of any broadcast apparatus or installation or plant.
+(5) Nothing in any direction given under subsection (1) shall be construed as granting any exemption from any licensing requirement under this Act or any other written law which the developer or the owner of any building or land may be required to comply with in respect of any broadcasting apparatus or installation or plant.
 
 (6) For the purposes of this section, “installation or plant” includes all buildings, lands, structures, machinery, equipment, cables, poles and lines used or intended for use in connection with broadcasting.
 
@@ -838,7 +812,7 @@ OWNERSHIP AND CONTROL OF BROADCASTING COMPANIES
 
 (2) For the purposes of this Part —
 
-“broadcasting company” means a broadcasting company incorporated or registered under the Companies Act (Cap. 50) which holds a relevant licence;
+“broadcasting company” means a broadcasting company incorporated or registered under the Companies Act [Cap. 50] which holds a relevant licence;
 
 “relevant licence” means —
 
@@ -876,7 +850,7 @@ which permits broadcast which is capable of being received in 50,000 dwelling-ho
 
 ### Funds from foreign source for purposes of certain broadcasting service
 
-46\.—(1) Subject to this section, no person shall, without prior consent of the Authority, receive any fund from any foreign source for the purposes of financing, directly or indirectly, wholly or in part, any broadcasting service owned or operated by any broadcasting company.
+46\.—(1) Subject to this section, no person shall, without the prior consent of the Authority, receive any fund from any foreign source for the purposes of financing, directly or indirectly, wholly or in part, any broadcasting service owned or operated by any broadcasting company.
 
 (2) The Authority may grant its consent under subsection (1) if it is satisfied, on such information as it may require to be furnished to it, that the fund from a foreign source are intended for bona fide commercial purposes.
 
@@ -902,7 +876,7 @@ which permits broadcast which is capable of being received in 50,000 dwelling-ho
 
 (c) any person who is not a citizen of Singapore whether or not he is resident in Singapore; or
 
-(d) such other source outside Singapore as the Minister may, by notification in theGazette, declare to be a foreign source for the purposes of this section and section 47;
+(d) such other source outside Singapore as the Minister may, by notification in theGazette, declare to be a foreign source;
 
 “fund” means money, securities, movable or immovable property or other valuable consideration.
 
@@ -920,11 +894,11 @@ TRANSFER OF UNDERTAKING
 
 ### Vesting of undertaking in broadcasting successor companies and Authority
 
-49\.—(1) On such date as the Minister may, by order published in theGazette, appoint (referred to in this Act as the transfer date), all the property, rights and liabilities comprised in the Corporation’s undertaking to which the Corporation was entitled or subject immediately before that date shall become, by virtue of this section and without further assurance, the property, rights and liabilities of the Authority and companies nominated for the purposes of this section by the Minister (referred to in this Act as the broadcasting successor companies) in such manner of distribution and allocation as determined by the Minister and agreed to by the Minister for Finance, including any division or sharing between the broadcasting successor companies and the Authority or any of them, of any one or more items of such property, rights or liabilities.
+49\.—(1) On 1st October 1994, all the property, rights and liabilities comprised in the Corporation’s undertaking to which the Corporation was entitled or subject immediately before that date shall become, by virtue of this section and without further assurance, the property, rights and liabilities of the Authority and companies nominated for the purposes of this section by the Minister (referred to in this Act as the broadcasting successor companies) in such manner of distribution and allocation as determined by the Minister and agreed to by the Minister for Finance, including any division or sharing between the broadcasting successor companies and the Authority or any of them, of any one or more items of such property, rights or liabilities.
 
 (2) Any immovable property to be transferred to and vested in a broadcasting successor company or the Authority under subsection (1) shall be held by the company or the Authority, as the case may be, upon such tenure and subject to such terms and conditions as the President may determine.
 
-(3) The Authority shall grant, as from the transfer date, broadcasting licences and broadcasting apparatus licences to each broadcasting successor company according to the property, rights and liabilities so vested in the company.
+(3) The Authority shall grant, as from 1st October 1994, broadcasting licences and broadcasting apparatus licences to each broadcasting successor company according to the property, rights and liabilities so vested in the company.
 
 (4) If any question arises as to whether any particular property, right or liability has been transferred to or vested in any broadcasting successor company or the Authority under this Act, a certificate under the hand of the Minister for Finance shall be conclusive evidence that the property, right or liability was or was not so transferred or vested.
 
@@ -936,7 +910,7 @@ TRANSFER OF UNDERTAKING
 
 (6) It shall be the duty of each broadcasting successor company and the Authority to take all such steps as may be requisite to secure that the vesting in each such company and the Authority by virtue of this section of any foreign property, right or liability is effective under the relevant foreign law and until such time it shall be the duty of the Authority, as the successor of the Corporation, to hold that property or right for the benefit of, or to discharge that liability on behalf of, each such company and the Authority, as the case may be.
 
-(7) As from the transfer date for all purposes the Authority shall be deemed to be acting in place of the Corporation as its successor in title and there shall be deemed to be vested in the Authority all property, rights and liabilities of the Corporation previously not vested specifically in the broadcasting successor companies or the Authority under this Act.
+(7) As from 1st October 1994 for all purposes the Authority shall be deemed to be acting in place of the Corporation as its successor in title and there shall be deemed to be vested in the Authority all property, rights and liabilities of the Corporation previously not vested specifically in the broadcasting successor companies or the Authority under this Act.
 
 (8) Nothing in subsections (6) and (7) shall be construed as prejudicing the effect under the laws of Singapore of the vesting in any broadcasting successor company or the Authority by virtue of this section of any foreign property, right or liability.
 
@@ -956,7 +930,7 @@ TRANSFER OF UNDERTAKING
 
 (a) shall be of such nominal value as the Minister for Finance may direct; and
 
-(b) shall be issued as fully paid and treated for the purposes of the Companies Act (Cap. 50) as if they had been paid up by virtue of the payment to the issuing broadcasting successor company of their nominal value.
+(b) shall be issued as fully paid and treated for the purposes of the Companies Act [Cap. 50] as if they had been paid up by virtue of the payment to the issuing broadcasting successor company of their nominal value.
 
 (5) Section 69 of the Companies Act (which provides that where a company issues shares for which a premium is received by the company whether in cash or in the form of other valuable consideration a sum equal to the aggregate amount or value of the premiums on those shares shall be transferred to a share premium account) shall not apply in relation to the issue of shares by a broadcasting successor company in pursuance of this section, notwithstanding that such shares may be regarded as having been issued by the company at a premium.
 
@@ -968,19 +942,19 @@ TRANSFER OF UNDERTAKING
 
 (3) For the purposes of any statutory accounts of a broadcasting successor company —
 
-(a) the vesting effected by virtue of section 49 shall be taken to have been a vesting of the property, rights and liabilities comprised in the Corporation’s undertaking to which the Corporation was entitled or subject on the transfer date and which was allocated to the company by determination of the Minister under section 49(1); and
+(a) the vesting effected by virtue of section 49 shall be taken to have been a vesting of the property, rights and liabilities comprised in the Corporation’s undertaking to which the Corporation was entitled or subject on 1st October 1994 and which was allocated to the company by determination of the Minister under section 49(1); and
 
-(b) the value of any asset and the amount of any liability of the Corporation taken to have been vested in a broadcasting successor company by virtue of paragraph (a) shall be taken to be the value or, as the case may be, the amount assigned to that asset or liability in the statement of accounts of the Corporation as at the transfer date.
+(b) the value of any asset and the amount of any liability of the Corporation taken to have been vested in a broadcasting successor company by virtue of paragraph (a) shall be taken to be the value or, as the case may be, the amount assigned to that asset or liability in the statement of accounts of the Corporation as at 1st October 1994.
 
 (4) For the purposes of any statutory accounts of a broadcasting successor company, the amount to be included in respect of any item shall be determined as if anything done by the Corporation (whether by way of acquiring, revaluing or disposing of any asset or incurring, revaluing or discharging any liability, or by carrying any amount to any provision or reserve, or otherwise) had been done by the company.
 
 (5) Without prejudice to the generality of subsection (4), the amount to be included in any reserves of a broadcasting successor company as representing its accumulated realised profits shall be determined as if any profits realised and retained by the Corporation in connection with that part of its undertaking vested in the company had been realised and retained by the company.
 
-(6) References in this section to the statutory accounts of a broadcasting successor company are references to any accounts prepared by the company for the purposes of any provision of the Companies Act (Cap. 50).
+(6) References in this section to the statutory accounts of a broadcasting successor company are references to any accounts prepared by the company for the purposes of any provision of the Companies Act [Cap. 50].
 
 ### Application of Companies Act in relation to offer of shares or debentures of broadcasting successor companies
 
-52\.—(1) This section shall apply where the Minister for Finance or the company to which securities of any broadcasting successor company are issued at the direction of the Minister for Finance under section 50(1) offers for sale to the public shares or debentures of the broadcasting successor company; and in this section, “full prospectus” means a prospectus which complies, or is deemed to comply, with the requirements of a prospectus under the Companies Act.
+52\.—(1) This section shall apply where the Minister for Finance or the company to which securities of any broadcasting successor company are issued at the direction of the Minister for Finance under section 50(1) offers for sale to the public shares or debentures of the broadcasting successor company; and in this section, “full prospectus” means a prospectus which complies, or is deemed to comply, with the requirements of a prospectus under the Companies Act [Cap. 50].
 
 (2) If the shares or debentures are offered by a full prospectus in respect of which the conditions mentioned in subsection (3) are fulfilled (referred to in this section as the offer prospectus), any form of application for the shares or debentures may (instead of being issued with a full prospectus) be issued with a notice given by the Minister for Finance which includes —
 
@@ -1004,7 +978,7 @@ TRANSFER OF UNDERTAKING
 
 ### Application of Trustees Act in relation to investment in broadcasting successor companies
 
-53\.—(1) For the purpose of applying paragraph 1(1)(b), (c) and (d) of Part IV of the First Schedule to the Trustees Act (Cap. 337) (which provide that securities of a company shall not count as authorised investments within the meaning of that Act unless the company has a shareholders equity of not less than $30 million and has paid dividends in each of the 3 financial years and has reported a profit in the financial year immediately preceding that in which the investment is made) in relation to investment in securities of a broadcasting successor company during the financial year in which the transfer date falls (the first investment year) or during any financial year following that year, the company shall be deemed —
+53\.—(1) For the purpose of applying paragraph 1(1)(b), (c) and (d) of Part IV of the First Schedule to the Trustees Act [Cap. 337] (which provide that securities of a company shall not count as authorised investments within the meaning of that Act unless the company has a shareholders equity of not less than $30 million and has paid dividends in each of the financial years and has reported a profit in the financial year immediately preceding that in which the investment is made) in relation to investment in securities of a broadcasting successor company during the financial year in which 1st October 1994 falls (the first investment year) or during any financial year following that year, the company shall be deemed —
 
 (a) to have paid a dividend as mentioned in the said paragraph 1(1)(b) in each financial year preceding the first investment year which is included in the relevant 3 years, and in the first investment year, if that year is included in the relevant 3 years and the company does not in fact pay such a dividend in that year;
 
@@ -1016,23 +990,23 @@ TRANSFER OF UNDERTAKING
 
 ### Transfer of employees to broadcasting successor companies and Authority
 
-54\. As from the transfer date, every person employed by the Corporation in connection with the Corporation’s undertaking immediately before that date shall be transferred to the service of a broadcasting successor company or the Authority as the Corporation may determine on terms no less favourable than those enjoyed by him immediately prior to his transfer.
+54\. As from 1st October 1994, every person employed by the Corporation in connection with the Corporation’s undertaking immediately before that date shall be transferred to the service of a broadcasting successor company or the Authority as the Corporation may determine on terms no less favourable than those enjoyed by him immediately prior to his transfer.
 
 ### Conditions of service
 
 55\.—(1) Until such time as contracts of service are drawn up by the broadcasting successor company or the Authority, as the case may be, the schemes and terms and conditions of service in the Corporation shall continue to apply to every person transferred to the service of a broadcasting successor company or the Authority under section 54 as if he were still in the service of the Corporation.
 
-(2) Where any person who is transferred to the service of a broadcasting successor company or the Authority under section 54 is a contributor under the Widows’ and Orphans’ Pension Act (Cap. 350), he shall for the purposes of that Act continue to make contributions under that Act as if he had not been transferred to the service of the company or the Authority and for the purposes of that Act, his service with the company or the Authority shall be deemed to be service with the Government.
+(2) Where any person who is transferred to the service of a broadcasting successor company or the Authority under section 54 is a contributor under the Widows’ and Orphans’ Pension Act [Cap. 350], he shall for the purposes of that Act continue to make contributions under that Act as if he had not been transferred to the service of the company or the Authority and for the purposes of that Act, his service with the company or the Authority shall be deemed to be service with the Government.
 
-(3) Notwithstanding the provisions of the Pensions Act (Cap. 225), no person who is transferred to the service of a broadcasting successor company or the Authority under section 54 shall be entitled to claim any benefits under that Act on the ground that he has been retired from the service of the Government on account of abolition or reorganisation of office in consequence of the incorporation of the company or the establishment of the Authority.
+(3) Notwithstanding the provisions of the Pensions Act [Cap. 225], no person who is transferred to the service of a broadcasting successor company or the Authority under section 54 shall be entitled to claim any benefits under that Act on the ground that he has been retired from the service of the Government on account of abolition or reorganisation of office in consequence of the incorporation of the company or the establishment of the Authority.
 
-(4) The Authority shall be liable to pay to any former employee of the Government or the Corporation, as the case may be, who has retired before or after the transfer date such pension benefits payable under the Pensions Act as he is entitled to and the Government shall be liable to pay to the Authority such portion of any such pension benefits payable to such former employee as the same shall bear to the proportion which the aggregate amount of his pensionable emoluments during his service with the Government, the Corporation and the Authority bears to the aggregate amount of his pensionable emoluments during his service under the Government, the Corporation and the Authority.
+(4) The Authority shall be liable to pay to any former employee of the Government or the Corporation, as the case may be, who has retired before or after 1st October 1994 such pension benefits payable under the Pensions Act as he is entitled to and the Government shall be liable to pay to the Authority such portion of any such pension benefits payable to such former employee as the same shall bear to the proportion which the aggregate amount of his pensionable emoluments during his service with the Government, the Corporation and the Authority bears to the aggregate amount of his pensionable emoluments during his service under the Government, the Corporation and the Authority.
 
 ### Continuation and completion of disciplinary proceedings
 
-56\.—(1) Where, on the transfer date, any disciplinary proceedings are pending or there is an interdiction or investigation against or in respect of any employee of the Corporation transferred to the service of a broadcasting successor company or the Authority, the proceedings, the commencement of proceedings, or the appropriate dealing with the employee shall be taken up and continued by the broadcasting successor company or the Authority, as the case may be.
+56\.—(1) Where, on 1st October 1994, any disciplinary proceedings are pending or there is an interdiction or investigation against or in respect of any employee of the Corporation transferred to the service of a broadcasting successor company or the Authority, the proceedings, the commencement of proceedings, or the appropriate dealing with the employee shall be taken up and continued by the broadcasting successor company or the Authority, as the case may be.
 
-(2) Where, on the transfer date, any penalty (other than dismissal) has been imposed on any employee of the Corporation pursuant to disciplinary proceedings against him and the penalty has not been, or remains to be, served by such employee, he shall, on his transfer to a broadcasting successor company or the Authority under section 54, serve or continue to serve such penalty to its full term as if it had been imposed by the company or the Authority, as the case may be, and the penalty shall remain valid against the employee on his transfer and shall continue in full force and effect until he has served the penalty in full.
+(2) Where, on 1st October 1994, any penalty (other than dismissal) has been imposed on any employee of the Corporation pursuant to disciplinary proceedings against him and the penalty has not been, or remains to be, served by such employee, he shall, on his transfer to a broadcasting successor company or the Authority under section 54, serve or continue to serve such penalty to its full term as if it had been imposed by the company or the Authority, as the case may be, and the penalty shall remain valid against the employee on his transfer and shall continue in full force and effect until he has served the penalty in full.
 
 ### Misconduct or neglect of duty whilst in employment of Corporation
 
@@ -1040,9 +1014,9 @@ TRANSFER OF UNDERTAKING
 
 ### Existing agreements and pending proceedings
 
-58\.—(1) All deeds, bonds, agreements, instruments and working arrangements subsisting immediately before the transfer date affecting the portion of the undertaking transferred to a broadcasting successor company or the Authority under section 49 or affecting any employee of the Corporation transferred to the service of the company or the Authority under section 54 shall continue in force on and after that date and shall be enforceable by or against the company or the Authority, as the case may be, as if instead of the Corporation or any person acting on behalf of the Corporation, the company or the Authority, as the case may be, had been named therein or had been a party thereto.
+58\.—(1) All deeds, bonds, agreements, instruments and working arrangements subsisting immediately before 1st October 1994 affecting the portion of the undertaking transferred to a broadcasting successor company or the Authority under section 49 or affecting any employee of the Corporation transferred to the service of the company or the Authority under section 54 shall continue in force on and after that date and shall be enforceable by or against the company or the Authority, as the case may be, as if instead of the Corporation or any person acting on behalf of the Corporation, the company or the Authority, as the case may be, had been named therein or had been a party thereto.
 
-(2) Any proceedings or cause of action relating to the Corporation’s undertaking or to any employee of the Corporation transferred to the service of a broadcasting successor company or the Authority pending or existing immediately before the transfer date by or against the Corporation or any person acting on its behalf may be continued and shall be enforced by or against the company or the Authority, as the case may be.
+(2) Any proceedings or cause of action relating to the Corporation’s undertaking or to any employee of the Corporation transferred to the service of a broadcasting successor company or the Authority pending or existing immediately before 1st October 1994 by or against the Corporation or any person acting on its behalf may be continued and shall be enforced by or against the company or the Authority, as the case may be.
 
 ## PART XII
 
@@ -1094,7 +1068,7 @@ shall be guilty of an offence.
 
 64\.—(1) Any police officer or any employee authorised by the Authority may, if he has reasonable grounds for believing that a broadcasting service has been or is being provided in contravention of this Act or any regulations or in breach of any licence or that any broadcasting apparatus used is not licensed by the Authority, enter and inspect any premises and seize any broadcasting apparatus found therein which appears to be used for or in connection with broadcasting.
 
-(2) If there is no prosecution with regard to any broadcasting apparatus seized under this section, such broadcasting apparatus shall be taken and deemed to be forfeited to the Authority unless a claim is made within two months from the date of seizure.
+(2) If there is no prosecution with regard to any broadcasting apparatus seized under this section, such broadcasting apparatus shall be taken and deemed to be forfeited to the Authority unless a claim is made within 2 months from the date of seizure.
 
 (3) Any person asserting that he is the owner of any broadcasting apparatus so seized may personally or by his authorised agent give written notice to the Authority that he claims the same.
 
@@ -1114,7 +1088,7 @@ and may search any person so arrested, except that no female shall be searched e
 
 (2) Every person so arrested shall, together with any article as to which an offence may have been committed or attempted to be committed, be taken to a police station.
 
-(3) For the purposes of this section, offences punishable under sections 42, 59, 60 and 61 shall be deemed to be seizable offences within the meaning of the Criminal Procedure Code (Cap. 68).
+(3) For the purposes of this section, offences punishable under sections 42, 59, 60 and 61 shall be deemed to be seizable offences within the meaning of the Criminal Procedure Code [Cap. 68].
 
 ### No entitlement to costs or damages
 
@@ -1142,7 +1116,7 @@ and may search any person so arrested, except that no female shall be searched e
 
 ### Jurisdiction of Courts
 
-71\. A District Court or a Magistrate’s Court shall have jurisdiction to hear and determine all offences under this Act and the regulations and, notwithstanding anything to the contrary in the Criminal Procedure Code (Cap. 68), shall have power to impose the full penalty or punishment in respect of any offence under this Act.
+71\. A District Court or a Magistrate’s Court shall have jurisdiction to hear and determine all offences under this Act and the regulations and, notwithstanding anything to the contrary in the Criminal Procedure Code [Cap. 68], shall have power to impose the full penalty or punishment in respect of any offence under this Act.
 
 ## PART XIII
 
@@ -1168,7 +1142,7 @@ may appeal to the Minister.
 
 73\. The Minister may, in his discretion, and subject to such conditions as he may think fit, exempt any person or class of persons from all or any of the provisions of this Act or the regulations.
 
-### Equipment of licensee not subject to distress, etc
+### Equipment of licensee not subject to distress, etc.
 
 74\.—(1) No equipment or related facility of a licensee used for providing, transmitting or delivering licensable broadcasting services shall be subject to distress or be liable to be taken in execution under any process of a court in any bankruptcy or insolvency proceedings by any person without the prior approval of the Minister in writing.
 
@@ -1182,7 +1156,7 @@ may appeal to the Minister.
 
 76\. Nothing in section 75 shall be deemed to abrogate the right of the Government at any time to determine its relations with any country or with any international agency or organisation and the Authority and each broadcasting successor company shall so discharge their responsibilities and conduct their business as to comply with and fulfil all international agreements, conventions or undertakings relating to broadcasting to which Singapore is a party.
 
-### Service of notice, etc
+### Service of notice, etc.
 
 77\.—(1) Unless otherwise expressly provided in this Act, any notice, order or document required or authorised by this Act or the regulations to be given or served on any person, and any summons issued by a court in connection with any offence under this Act or the regulations may be served on the person concerned —
 
@@ -1216,17 +1190,15 @@ may appeal to the Minister.
 
 (b) necessary or convenient to be prescribed for carrying out or giving effect to the purposes of this Act.
 
-### Repeal and transitional provisions
+### Transitional provisions
 
-80\.—(1) The Broadcasting and Television Act (Cap. 28) and the Singapore Broadcasting Corporation Act (Cap. 297) are repealed.
+80\.—(1) Any scheme, contract, document, licence, permission or resolution prepared, made, granted or approved under the repealed Singapore Broadcasting Corporation Act [Cap. 297, 1985 Ed.] or the repealed Broadcasting and Television Act [Cap. 28] shall, so far as it is not inconsistent with the provisions of this Act and except as otherwise expressly provided in this Act or in any other written law, continue and be deemed to have been prepared, made, granted or approved by the Authority under the corresponding provisions of this Act.
 
-(2) Any scheme, contract, document, licence, permission or resolution prepared, made, granted or approved under the repealed Singapore Broadcasting Corporation Act or the repealed Broadcasting and Television Act shall, so far as it is not inconsistent with the provisions of this Act and except as otherwise expressly provided in this Act or in any other written law, continue and be deemed to have been prepared, made, granted or approved by the Authority under the corresponding provisions of this Act.
+(2) Any subsidiary legislation made under the repealed Singapore Broadcasting Corporation Act or the repealed Broadcasting and Television Act and in force immediately before 1st October 1994 shall, so far as it is not inconsistent with the provisions of this Act, continue in force as if made under this Act until it is revoked by subsidiary legislation made under this Act.
 
-(3) Any subsidiary legislation made under the repealed Singapore Broadcasting Corporation Act or the repealed Broadcasting and Television Act and in force immediately before the appointed day shall, so far as it is not inconsistent with the provisions of this Act, continue in force as if made under this Act until it is revoked by subsidiary legislation made under this Act.
+(3) The enactments mentioned in the Sixth Schedule shall have effect subject to the amendments to the extent therein specified (being minor amendments consequential on the preceding provisions of this Act).
 
-(4) The enactments mentioned in the Sixth Schedule shall have effect subject to the amendments to the extent therein specified (being minor amendments consequential on the preceding provisions of this Act).
-
-(5) The Minister may, by order published in theGazette, repeal or amend any written law which appears to him to be unnecessary having regard to the provisions of this Act or to be inconsistent with any provision of this Act.
+(4) The Minister may, by order published in theGazette, repeal or amend any written law which appears to him to be unnecessary having regard to the provisions of this Act or to be inconsistent with any provision of this Act.
 
 FIRST SCHEDULE
 
@@ -1314,7 +1286,7 @@ Tenure of office of members
 
 Temporary Chairman or Deputy Chairman
 
-3\. The Minister may appoint any member to be a temporary Chairman or temporary Deputy Chairman during the temporary incapacity from illness or otherwise, or during the temporary absence from Singapore, of the Chairman or the Deputy Chairman, as the case may be.
+3\. The Minister may appoint any member to be a temporary Chairman or temporary Deputy Chairman during the temporary incapacity from illness or otherwise, or during the temporary absence, from Singapore, of the Chairman or the Deputy Chairman, as the case may be.
 
 Temporary members
 
@@ -1378,9 +1350,7 @@ Meetings of Authority
 
 (5) Where both the Chairman and the Deputy Chairman are absent at a meeting, such member as the members present may elect shall preside at the meeting.
 
-(6) The Authority may act notwithstanding any vacancy in its membership.
-
-(7) Subject to the provisions of this Act, the Authority may make standing orders to regulate its own procedure and, in particular, the holding of meetings, the notice to be given of such meetings, the proceedings thereat, the keeping of minutes and the custody, production and inspection of such minutes.
+(6) The Authority may act notwithstanding any vacancy in its membership. (7) Subject to the provisions of this Act, the Authority may make standing orders to regulate its own procedure and, in particular, the holding of meetings, the notice to be given of such meetings, the proceedings thereat, the keeping of minutes and the custody, production and inspection of such minutes.
 
 Validity of acts of members
 
@@ -1390,9 +1360,9 @@ Appointment of committees and delegation of powers
 
 14.—(1) The Authority may, in its discretion, appoint from among its own members or other persons who are not members of the Authority such number of committees as the Authority thinks fit consisting of members or other persons or members and other persons for purposes which, in the opinion of the Authority, would be better regulated and managed by means of such committees.
 
-(2) The Authority may, subject to such conditions or restrictions as it thinks fit, delegate to any such committee or the Chairman or the Chief Executive, all or any of the powers, functions and duties vested in the Authority by this Act or the regulations, and a power, function or duty so delegated may be exercised or performed by such committee or the Chairman or the Chief Executive, as the case may be, in the name and on behalf of the Authority.
+(2) The Authority may, subject to such conditions or restrictions as it thinks fit, delegate to any such committee or the Chairman or the Chief Executive, all or any of the powers, functions and duties vested in the Authority by this Act or the regulations, and any power, function or duty so delegated may be exercised or performed by such committee or the Chairman or the Chief Executive, as the case may be, in the name and on behalf of the Authority.
 
-(3) The Authority may, subject to such conditions or restrictions as it may think fit, delegate to any officer or employee thereof or any other person all or any of its powers, functions and duties vested in the Authority by this Act or any regulations, and any power, function or duty so delegated may be exercised or performed by the officer or employee or other person in the name and on behalf of the Authority.
+(3) The Authority may, subject to such conditions or restrictions as it thinks fit, delegate to any officer or employee thereof or any other person all or any of the powers, functions and duties vested in the Authority by this Act or the regulations, and any power, function or duty so delegated may be exercised or performed by the officer or employee or other person, as the case may be, in the name and on behalf of the Authority.
 
 (4) The Authority may continue to exercise a power conferred upon it, or perform a function or duty under this Act or the regulations, notwithstanding the delegation of the power, function or duty under this paragraph.
 
@@ -1414,7 +1384,7 @@ Powers of Authority
 
 6\. To conduct researches and investigations necessary for the improvement and development of broadcasting and the reception thereof.
 
-7\. To develop with the assistance of broadcasting licensees Codes of Practice that, as far as possible, are in accordance with community standards.
+7\. To develop, with the assistance of broadcasting licensees, Codes of Practice that, as far as possible, are in accordance with community standards.
 
 8\. To monitor compliance with Codes of Practice.
 
@@ -1454,7 +1424,7 @@ Financial Provisions
 
 Financial year
 
-1\. The financial year of the Authority shall begin on 1st April of each year and end on 31st March of the succeeding year, except that the first financial year of the Authority shall begin on the appointed day and shall end on 31st March 1995.
+1\. The financial year of the Authority shall begin on 1st April of each year and end on 31st March of the succeeding year, except that the first financial year of the Authority shall begin on 1st October 1994 and shall end on 31st March 1995.
 
 Accounts to be kept
 
@@ -1468,7 +1438,7 @@ Appointment of auditor
 
 4.—(1) The accounts of the Authority shall be audited by the Auditor-General or such other auditor as may be appointed annually by the Minister in consultation with the Auditor-General.
 
-(2) A person shall not be qualified for appointment as an auditor under sub-paragraph (1) unless he is an approved company auditor under the Companies Act (Cap. 50).
+(2) A person shall not be qualified for appointment as an auditor under sub-paragraph (1) unless he is an approved company auditor under the Companies Act [Cap. 50].
 
 Remuneration of auditor
 
@@ -1510,77 +1480,34 @@ Presentation of financial statements and auditor’s report to Parliament
 
 SIXTH SCHEDULE
 
-Section 80(4)
+Section 80(3)
 
 Consequential Amendments
 
-Interpretation
-
-1\. In this Schedule and in any written law amended by this Schedule, “broadcasting licence”, “broadcasting licensee” and “broadcasting service” have the same meanings as in section 2 of this Act.
+1\. In the Copyright Act [Cap. 63] and in the Telecommunication Authority of Singapore Act [Cap. 323], “broadcasting licence”, “broadcasting licensee” and “broadcasting service” have the same meanings as in section 2 of this Act.
 
 References to repealed Singapore Broadcasting Corporation Act
 
-2\. In any written law, any reference to the repealed Singapore Broadcasting Corporation Act (Cap. 297) shall be read as a reference to this Act.
+2\. In any written law, any reference to the repealed Singapore Broadcasting Corporation Act [Cap. 297, 1985 Ed.] shall be read as a reference to this Act.
 
 References to Singapore Broadcasting Corporation
 
 3\. The references to the Singapore Broadcasting Corporation in any written law shall be read as references to the Singapore Broadcasting Authority.
 
-Amendments to Telecommunication Authority of Singapore Act
+## LEGISLATIVE HISTORY
 
-4. The Telecommunication Authority of Singapore Act (Cap. 323) is amended —
+Singapore Broadcasting Authority Act
 
-(a) by deleting the words “and television” in the sixth line of paragraph (a) of section 6(1) and substituting the word “service”;
+(CHAPTER 297)
 
-(b) by deleting paragraph (b) of section 25 and substituting the following paragraph:
+This Legislative History is provided for the convenience of users of the Singapore Broadcasting Authority Act. It is not part of this Act.
 
-“
-
-(b) the operation of any telecommunication system in the course of their duties by the officers and men of the Singapore Armed Forces, the Singapore Police Force, the Singapore Civil Defence Force or of any visiting force lawfully present in Singapore.
-
-”; and
-
-(c) by deleting section 129 and substituting the following section:
-
-“
-
-Excluded matters
-
-129. This Act shall not apply to the licensing of any broadcasting service or any broadcasting apparatus under the Singapore Broadcasting Authority Act 1994 except in respect of the regulation of any telecommunication system required for the operation of any broadcasting service or the approval of any broadcasting apparatus used in accordance with section 30.
-
-”.
-
-Amendments to Copyright Act
-
-5. The Copyright Act (Cap. 63) is amended —
-
-(a) by deleting the definition of “Singapore Broadcasting Corporation” in section 7(1);
-
-(b) by deleting the words “or for the Singapore Broadcasting Corporation” in section 21(2);
-
-(c) by deleting paragraphs (a) and (b) of section 89 and substituting the following paragraphs:
-
-“
-
-(a) in a television broadcast made from a place in Singapore by the holder of a broadcasting licence; and
-
-(b) in a sound broadcast made from a place in Singapore by the holder of a broadcasting licence.
-
-”;
-
-(d) by deleting section 99 and substituting the following section:
-
-“
-
-Ownership of copyright in television broadcasts and sound broadcasts
-
-99. Subject to Part X, a person who is or has been a holder of a broadcasting licence is the owner of any copyright subsisting in a television broadcast or sound broadcast, as the case may be, made by that person.
-
-”;
-
-(e) by deleting the words “the Singapore Broadcasting Corporation or a person holding a licence to operate a television or broadcasting station” in section 107 and substituting the words “a person holding a broadcasting licence”;
-
-(f) by deleting the words “The Singapore Broadcasting Corporation or any qualified person who is the holder of a licence for a television or broadcasting station” in the first, second and third lines of section 146(1) and substituting the words “Any qualified person who is the holder of a broadcasting licence”; and
-
-(g) by deleting the words “the Singapore Broadcasting Corporation” in the last line of section 184(1)(e) and substituting the words “a broadcasting licensee”.
-
+||||
+|:-|:-|:-|
+|1.|**Act 15 of 1994—Singapore Broadcasting Authority Act 1994**|
+||Date of First Reading|25 July 1994|
+|||(Bill No. 20/94 published on 29 July 1994)|
+||Date of Second and Third Readings|26 August 1994|
+||Date of commencement|1 October 1994|
+|2.|**1995 Revised Edition—Singapore Broadcasting Authority Act (Chapter 297)**|
+||Date of operation|15 March 1995|
