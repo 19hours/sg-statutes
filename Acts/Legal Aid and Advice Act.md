@@ -352,7 +352,7 @@ whichever is the lower.
 
 17\.—(1) Where litigation has been instituted and any party makes an application for legal aid, the Director shall, as soon as practicable after the application is made, notify the other party or each of the other parties, and file in the court in which the litigation is pending, a memorandum of such notification and no fee shall be charged in respect of the filing of the memorandum.
 
-(2) Where any memorandum is so filed, then, unless otherwise ordered by a judge of the court in which the litigation is pending, all proceedings in the litigation shall, by virtue of this section, be stayed for a period of 14 days, and during that period (unless otherwise ordered by any such judge) time fixed by or under any Act or by or under any Rules of Court, regulations or otherwise for the doing of any act or the taking of any step in the proceedings shall not run:
+(2) Where any memorandum is so filed, then, unless otherwise ordered by a judge of the court in which the litigation is pending, all proceedings in the litigation shall, by virtue of this section, be stayed for a period of 14 days, and during that period (unless otherwise ordered by any such judge), time fixed by or under any Act or by or under any Rules of Court, regulations or otherwise for the doing of any act or the taking of any step in the proceedings shall not run:
 
 Provided that —
 
@@ -482,8 +482,6 @@ Description of Proceedings
 
 5\. Proceedings under the Women’s Charter.
 
-6\. Proceedings before the Rent Conciliation Board and the Tenants’ Compensation Board.
-
 7\. Proceedings before the Syariah Court.
 
 Part II
@@ -593,3 +591,8 @@ This Legislative History is provided for the convenience of users of the Legal A
 ||Date of operation|30 April 1996|
 |3.|**G.N. No. S 135/2001—Legal Aid and Advice Act (Amendment of Second Schedule) Notification 2001**|
 ||Date of commencement|1 April 2001|
+|4.|**Act 6 of 2004—Statutes (Miscellaneous Amendments) Act 2004**|
+||Date of First Reading|5 January 2004|
+|||(Bill No. 4/2004 published on 6 January 2004)|
+||Date of Second and Third Readings|6 February 2004|
+||Date of commencement|8 March 2004|
