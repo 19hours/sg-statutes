@@ -784,3 +784,8 @@ This Legislative History is provided for the convenience of users of the Interpr
 ||Date of operation|1 March 1971|
 |4.|**1985 Revised Edition—Interpretation Act**|
 ||Date of operation|30 March 1987|
+|5.|**Act 11 of 1991—Statutes (Miscellaneous Amendments) Act 1991**|
+||Date of First Reading|3 January 1991|
+|||(Bill No. 4/1991 published on 4 January 1991)|
+||Date of Second and Third Readings|14 January 1991|
+||Date of commencement|30 November 1991|
