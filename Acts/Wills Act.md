@@ -14,6 +14,8 @@
 
 - [4 Will of infant invalid](#Will-of-infant-invalid)
 
+- [4A Rules as to formal validity](#Rules-as-to-formal-validity)
+
 - [5 Mode of execution](#Mode-of-execution)
 
 - [6 Execution of appointment by will](#Execution-of-appointment-by-will)
@@ -84,9 +86,19 @@ An Act to declare the law relating to wills.
 
 “will” includes a testament and an appointment by will or by writing in the nature of a will in exercise of a power and also a disposition by will and testament or devise of the custody and tuition of any child by virtue of the Tenures Abolition Act 1660 [U.K. 1660 c. 24] and any other testamentary disposition;
 
+“internal law”, in relation to any territory or state, means the law which would apply in a case where no question of the law in force in any other territory or state arose;
+
+[Act 24 of 1992 wef 26/06/1992]
+
 “real estate” shall extend to messuages, lands, rents and hereditaments, whether corporeal, incorporeal or personal, and to any undivided share thereof and to any estate, right or interest, other than a chattel interest, therein;
 
-“personal estate” shall extend to leasehold estates and other chattels real, and also to moneys, shares of Government and other funds, securities for money, not being real estates, debts, choses in action, rights, credits, goods and all other property whatsoever which by law devolves upon the executor or administrator, and to any share or interest therein.
+“personal estate” shall extend to leasehold estates and other chattels real, and also to moneys, shares of Government and other funds, securities for money, not being real estates, debts, choses in action, rights, credits, goods and all other property whatsoever which by law devolves upon the executor or administrator, and to any share or interest therein;
+
+[Act 24 of 1992 wef 26/06/1992]
+
+“state” means a territory or group of territories having its own law of nationality.
+
+[Act 24 of 1992 wef 26/06/1992]
 
 ### Property disposable by will
 
@@ -95,6 +107,52 @@ An Act to declare the law relating to wills.
 ### Will of infant invalid
 
 4\. No will made by any person under the age of 21 years shall be valid.
+
+### Rules as to formal validity
+
+4A\.—(1) This section shall take effect notwithstanding any other sections of this Act.
+
+(2) A will shall be treated as properly executed if its execution conformed to the internal law in force —
+
+(a) in the territory where it was executed;
+
+(b) in the territory where the testator was domiciled at the time —
+
+(i) when the will was executed; or
+
+(ii) of his death;
+
+(c) in the territory where the testator habitually resided at either of the times referred to in paragraph (b); or
+
+(d) in the state of which the testator was a national at either of the times referred to in paragraph (b).
+
+(3) Without prejudice to subsection (2), the following shall be treated as properly executed:
+
+(a) a will executed on board a vessel or aircraft of any description, if the execution of the will conformed to the internal law in force in the territory with which, having regard to its registration (if any) and other relevant circumstances, the vessel or aircraft may be taken to have been most closely connected;
+
+(b) a will so far as it disposes of immovable property, if its execution conformed to the internal law in force in the territory where the property was situated;
+
+(c) a will so far as it revokes a will which under this Act would be treated as properly executed or revokes a provision which under this Act would be treated as comprised in a properly executed will, if the execution of the later will conformed to any law by reference to which the revoked will or provision would be treated as properly executed;
+
+(d) a will so far as it exercises a power of appointment, if the execution of the will conformed to the law governing the essential validity of the power.
+
+(4) A will so far as it exercises a power of appointment shall not be treated as improperly executed by reason only that its execution was not in accordance with any formal requirements contained in the instrument creating the power.
+
+(5) In determining for the purposes of this section whether or not the execution of a will conformed to a particular law, regard shall be had to the formal requirements of that law at the time of execution, but this shall not prevent account being taken of an alteration of law affecting wills executed at that time if the alteration enables the will to be treated as properly executed.
+
+(6) Where a law in force outside Singapore falls to be applied in relation to a will, any requirement of that law whereby special formalities are to be observed by testators answering a particular description, or witnesses to the execution of a will are to possess certain qualifications, shall be treated, notwithstanding any rule of that law to the contrary, as a formal requirement only.
+
+(7) The construction of a will shall not be altered by reason of any change in the testator’s domicile after the execution of the will.
+
+(8) Where under this section the internal law in force in any territory or state is to be applied in the case of a will, but there are in force in that territory or state two or more systems of internal law relating to the formal validity of wills, the system to be applied shall be ascertained as follows:
+
+(a) if there is in force throughout the territory or state a rule indicating which of those systems can properly be applied in the case in question, that rule shall be followed; or
+
+(b) if there is no such rule, the system shall be that with which the testator was most closely connected at the relevant time, and for this purpose the relevant time is the time of the testator’s death where the matter is to be determined by reference to circumstances prevailing at his death, and the time of execution of the will in any other case.
+
+(9) This section shall not apply to a will of a testator who died before the commencement of the Wills (Amendment) Act 1992 and shall apply to a will of a testator who dies after that time whether the will was executed before or after that time.
+
+[Act 24 of 1992 wef 26/06/1992]
 
 ### Mode of execution
 
@@ -150,7 +208,15 @@ and the enumeration of the above circumstances shall not restrict the generality
 
 ### Gifts to an attesting witness or to wife or husband of attesting witness to be void
 
-9\. If any person attests the execution of any will to whom or to whose wife or husband any beneficial devise, legacy, estate, interest, gift or appointment of or affecting any real or personal estate, other than and except charges and directions for the payment of any debt or debts, shall be thereby given or made, the devise, legacy, estate, interest, gift or appointment shall, so far only as concerns the person attesting the execution of the will, or the wife or husband of that person, or any person claiming under that person or wife or husband, be utterly null and void, and the person so attesting shall be admitted as a witness to prove the execution or to prove the validity or invalidity thereof, notwithstanding the devise, legacy, interest, gift or appointment mentioned in the will.
+9\.—(1) If any person attests the execution of any will to whom or to whose wife or husband any beneficial devise, legacy, estate, interest, gift or appointment of or affecting any real or personal estate, other than and except charges and directions for the payment of any debt or debts, shall be thereby given or made, the devise, legacy, estate, interest, gift or appointment shall, so far only as concerns the person attesting the execution of the will, or the wife or husband of that person, or any person claiming under that person or wife or husband, be utterly null and void, and the person so attesting shall be admitted as a witness to prove the execution or to prove the validity or invalidity thereof, notwithstanding the devise, legacy, interest, gift or appointment mentioned in the will.
+
+(2) The attestation of a will by a person to whom or to whose spouse there is given or made any disposition as is described in subsection (1) shall be disregarded for the purposes of that subsection if the will is duly executed without his attestation and without that of any other such person.
+
+[Act 24 of 1992 wef 26/06/1992]
+
+(3) Subsection (2) shall apply to the will of any person dying after the passing of the Wills (Amendment) Act 1992, whether executed before or after the passing of that Act.
+
+[Act 24 of 1992 wef 26/06/1992]
 
 [10
 
@@ -317,3 +383,8 @@ This Legislative History is provided for the convenience of users of the Wills A
 ||Date of commencement|31 January 1986|
 |10.|**1985 Revised Edition—Wills Act**|
 ||Date of operation|30 March 1987|
+|11.|**Act 24 of 1992—Wills (Amendment) Act 1992**|
+||Date of First Reading|27 February 1992|
+|||(Bill No. 11/92 published on 28 February 1992)|
+||Date of Second and Third Readings|29 May 1992|
+||Date of commencement|26 June 1992|
