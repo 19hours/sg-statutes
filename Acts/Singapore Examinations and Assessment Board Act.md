@@ -70,7 +70,7 @@
 
 - [26 Application of moneys](#Application-of-moneys)
 
-- [27 Investments](#Investments)
+- [27 Power of investment](#Power-of-investment)
 
 - [28 Accounts](#Accounts)
 
@@ -438,9 +438,11 @@ FINANCIAL PROVISIONS
 
 26\. The moneys of the Board shall be applied only in payment or discharge of the expenses, obligations and liabilities of the Board and in making any payment that the Board is authorised or required to make.
 
-### Investments
+### Power of investment
 
-27\. The Board may invest moneys belonging to it in such funds, securities or investments as may be authorised by the Minister.
+27\. The Board may invest its moneys in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
+
+[45/2004 wef 15/12/2004]
 
 ### Accounts
 
