@@ -32,7 +32,23 @@
 
 - [9 Special features of newspaper company](#Special-features-of-newspaper-company)
 
-- [10 No person to hold more than 3% ordinary shares without approval](#No-person-to-hold-more-than-3%-ordinary-shares-without-approval)
+- [10 Application and interpretation of this section and sections 10A to 10H](#Application-and-interpretation-of-this-section-and-sections-10A-to-10H)
+
+- [10A Control of substantial shareholdings in newspaper companies](#Control-of-substantial-shareholdings-in-newspaper-companies)
+
+- [10B Control of shareholdings and voting power in newspaper companies](#Control-of-shareholdings-and-voting-power-in-newspaper-companies)
+
+- [10C Approval of applications](#Approval-of-applications)
+
+- [10D Power to make further transitional provisions](#Power-to-make-further-transitional-provisions)
+
+- [10E Objection to existing control of newspaper company](#Objection-to-existing-control-of-newspaper-company)
+
+- [10F Power to make directions](#Power-to-make-directions)
+
+- [10G Offences, penalties and defences](#Offences-penalties-and-defences)
+
+- [10H Power to obtain information](#Power-to-obtain-information)
 
 - [11 Funds from foreign source for the purposes of a newspaper other than commercial purposes prohibited](#Funds-from-foreign-source-for-the-purposes-of-a-newspaper-other-than-commercial-purposes-prohibited)
 
@@ -74,6 +90,8 @@
 
 - [28 Penalty](#Penalty)
 
+- [28A Jurisdiction of court](#Jurisdiction-of-court)
+
 - [29 Sanction for prosecution](#Sanction-for-prosecution)
 
 - [30 Presumption](#Presumption)
@@ -84,7 +102,9 @@
 
 - [33 Search when requirements of this Act not complied with](#Search-when-requirements-of-this-Act-not-complied-with)
 
-- [34 Power to exempt documents, etc., from provisions of this Act](#Power-to-exempt-documents-etc-from-provisions-of-this-Act)
+- [33A Composition of offences](#Composition-of-offences)
+
+- [34 Exemption](#Exemption)
 
 - [35 Exemptions](#Exemptions)
 
@@ -188,7 +208,7 @@ NEWSPAPER COMPANIES
 
 7\.—(1) No newspaper to which this Part applies shall be published in Singapore except by a newspaper company unless the newspaper has been exempted from the provisions of this Part.
 
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both.
 
 (3) For the purposes of subsection (1), a newspaper shall be deemed to be published outside Singapore if its contents and editorial policy are determined outside Singapore and its sales or distribution are not intended primarily for Singapore.
 
@@ -244,29 +264,259 @@ such number of management shares as is equal to 1% or more of its issued and pai
 
 (14) In this section, “surplus assets” means all the assets of a newspaper company remaining after the liabilities of the company have been discharged and after the costs of the winding up have been paid or provided for, but before any capital has been paid to the ordinary shareholders or any profits distributed to them.
 
-### No person to hold more than 3% ordinary shares without approval
+### Application and interpretation of this section and sections 10A to 10H
 
-10\.—(1) No person shall, without the prior approval of the Minister, hold either directly or indirectly through his nominees more than 3% of the ordinary shares issued by a newspaper company.
+10\.—(1) This section and sections 10A to 10H shall apply to, and in relation to, all individuals whether resident in Singapore or not and whether citizens of Singapore or not, and to all bodies corporate or unincorporate, whether incorporated or carrying on business in Singapore or not.
 
-[9/81]
+(2) In sections 10A to 10H, unless the context otherwise requires —
 
-(2) The Minister may grant his approval under subsection (1) subject to such conditions as he sees fit to impose.
+“appointed day” means the date of commencement of the Newspaper and Printing Presses (Amendment) Act 2002;
 
-(3) Any person who, directly or indirectly, holds more than 3% of the ordinary shares issued by a newspaper company without having obtained the prior approval of the Minister shall be guilty of an offence and shall be liable on conviction to the penalty prescribed by section 28 and any surplus shares held by him shall be forfeited to the Government.
+“arrangement” includes any formal or informal scheme, arrangement or understanding, and any trust whether express or implied;
 
-(4) The Minister may at any time revoke any approval given under subsection (1) without assigning any reason.
+“share”, in relation to a newspaper company, means an ordinary share of the newspaper company;
 
-(5) Before the Minister revokes any approval given under subsection (1), the Minister shall give the person concerned a reasonable time to dispose of his surplus shares.
+“substantial shareholder” has the same meaning as in section 81 of the Companies Act (Cap. 50);
 
-(6) Any nominee company which is registered as the holder of ordinary shares issued by a newspaper company shall, at the request of the Registrar, disclose to him the names and addresses of the persons on whose behalf it is holding those shares, and if the information is not furnished within 14 days of the request the company and every officer of the company who is in default shall be guilty of an offence and shall be liable on conviction to the penalty prescribed by section 28.
+“voting share” has the same meaning as in section 4(1) of the Companies Act.
 
-(7) In this section, “surplus shares” means all the ordinary shares of a newspaper company held by, and on behalf of; a person in excess of the 3% limit prescribed by subsection (1).
+[20/2002 wef 02/09/2002]
 
-(8) Any person who has been exempted from subsection (2) of section 9B1which was in force immediately before 24th April 1981 shall be deemed to have been granted the approval of the Minister under subsection (1).
+### Control of substantial shareholdings in newspaper companies
 
-1This section was repealed by Act 9 of 1981.
+10A\.—(1) No person shall, on or after the appointed day, become a substantial shareholder of a newspaper company without first obtaining the approval of the Minister.
 
-[9/81]
+(2) Subject to section 10C(4), no person who, immediately before the appointed day, is a substantial shareholder of a newspaper company shall continue to be a substantial shareholder unless he has, within 6 months after the appointed day or such longer period as the Minister may allow, applied to the Minister for approval to continue to be such a shareholder.
+
+(3) No person shall, on or after the appointed day, enter into any agreement or arrangement, whether oral or in writing and whether express or implied, to act together with any other person with respect to the acquisition, holding or disposal of, or the exercise of rights in relation to, their interests in voting shares of an aggregate of more than 5% of the nominal amount of all voting shares in a newspaper company without first obtaining the approval of the Minister.
+
+(4) Subject to section 10C(4), no person who, at any time before the appointed day, has entered into any agreement or arrangement referred to in subsection (3) shall continue to be a party to such an agreement or arrangement unless he has, within 6 months after the appointed day or such longer period as the Minister may allow, applied to the Minister for approval to continue to be a party to such an agreement or arrangement.
+
+(5) For the purposes of this section, a person has an interest in any share if —
+
+(a) he is deemed to have an interest in that share under section 7 of the Companies Act (Cap. 50); or
+
+(b) he otherwise has a legal or an equitable interest in that share except for such interest as is to be disregarded under section 7 of the Companies Act.
+
+[20/2002 wef 02/09/2002]
+
+### Control of shareholdings and voting power in newspaper companies
+
+10B\.—(1) No person shall, on or after the appointed day, become —
+
+(a) a 12% controller; or
+
+(b) an indirect controller,
+
+of a newspaper company without first obtaining the approval of the Minister.
+
+(2) Subject to section 10C(4), no person who, immediately before the appointed day, is —
+
+(a) a 12% controller; or
+
+(b) an indirect controller,
+
+of a newspaper company shall continue to be such a controller unless he has, within 6 months after the appointed day or such longer period as the Minister may allow, applied to the Minister for approval to continue to be such a controller.
+
+(3) In subsections (1)(a) and (2)(a), “12% controller” means a person who alone or together with his associates —
+
+(a) holds not less than 12% of the shares in the newspaper company; or
+
+(b) is in a position to control voting power of not less than 12% in the newspaper company.
+
+(4) For the purposes of subsection (3) —
+
+(a) a person holds a share if —
+
+(i) he is deemed to have an interest in that share under section 7(6) to (10) of the Companies Act (Cap. 50); or
+
+(ii) he otherwise has a legal or an equitable interest in that share except for such interest as is to be disregarded under section 7(6) to (10) of the Companies Act;
+
+(b) a reference to the control of a percentage of the voting power in a newspaper company is a reference to the control, whether direct or indirect, of that percentage of the total number of votes that might be cast in a general meeting of the newspaper company; and
+
+(c) a person,A, is an associate of another person,B, if —
+
+(i) Ais the spouse or a parent, step-parent or remoter lineal ancestor, or a son, step-son, daughter, step-daughter or remoter issue, or a brother or sister, ofB;
+
+(ii) Ais a corporation whose directors are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofB, or whereBis a corporation, of the directors ofB;
+
+(iii) Bis a corporation whose directors are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofA, or whereAis a corporation, of the directors ofA;
+
+(iv) Ais a person who is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofB;
+
+(v) Bis a person who is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofA;
+
+(vi) Ais a related corporation ofB;
+
+(vii) Ais a corporation in whichB, alone or together with other associates ofBas described in sub-paragraphs (ii) to (vi), is in a position to control not less than 20% of the voting power inA;
+
+(viii) Bis a corporation in whichA, alone or together with other associates ofAas described in sub-paragraphs (ii) to (vi), is in a position to control not less than 20% of the voting power inB; or
+
+(ix) Ais a person with whomBhas an agreement or arrangement, whether oral or in writing and whether express or implied, to act together with respect to the acquisition, holding or disposal of shares or other interests in, or with respect to the exercise of their voting power in relation to, the newspaper company.
+
+(5) In subsections (1)(b) and (2)(b), “indirect controller” means any person, whether acting alone or together with any other person and whether with or without holding shares or controlling voting power in a newspaper company —
+
+(a) in accordance with whose directions, instructions or wishes the directors of the newspaper company are accustomed or under an obligation, whether formal or informal, to act; or
+
+(b) who is in a position to determine the policy of the newspaper company,
+
+but does not include any person —
+
+(i) who is a director or other officer of the newspaper company;
+
+(ii) who is a holder of any management share; or
+
+(iii) in accordance with whose directions, instructions or wishes the directors of the newspaper company are accustomed to act by reason only that they act on advice given by the person in his professional capacity.
+
+[20/2002 wef 02/09/2002]
+
+### Approval of applications
+
+10C\.—(1) The Minister may, in his discretion, approve an application made by any person under section 10A or 10B if the Minister is satisfied that —
+
+(a) the person is a fit and proper person;
+
+(b) having regard to the person’s likely influence, the newspaper company will or will continue to conduct its business prudently and comply with the provisions of this Act; and
+
+(c) it is in the national interest to do so.
+
+(2) Any approval under this section may be granted to any person subject to such conditions as the Minister may determine, including but not limited to any condition —
+
+(a) restricting the person’s disposal or further acquisition of shares or voting power in the newspaper company; or
+
+(b) restricting the person’s exercise of voting power in the newspaper company.
+
+(3) Any condition imposed under subsection (2) shall have effect notwithstanding any of the provisions of the Companies Act (Cap. 50) or anything contained in the memorandum or articles of association of the newspaper company.
+
+(4) Where the Minister does not approve an application made by any person under section 10A(2) or (4) or 10B(2), the person shall, within such time as the Minister may specify, take such steps as are necessary —
+
+(a) in the case of section 10A(2), to cease to be a substantial shareholder;
+
+(b) in the case of section 10A(4), to cease to be a party to the agreement or arrangement; or
+
+(c) in the case of section 10B(2), to cease to be —
+
+(i) a 12% controller; or
+
+(ii) an indirect controller,
+
+as the case may be.
+
+[20/2002 wef 02/09/2002]
+
+### Power to make further transitional provisions
+
+10D\. The Minister may, by order published in theGazette, make such further transitional provisions as he considers necessary or expedient for the purposes of section 10A, 10B or 10C.
+
+[20/2002 wef 02/09/2002]
+
+### Objection to existing control of newspaper company
+
+10E\.—(1) The Minister may serve a written notice of objection on any person referred to in section 10A or 10B if the Minister is satisfied that —
+
+(a) any condition of approval imposed on the person under section 10C(2) has not been complied with;
+
+(b) the person ceases to be a fit and proper person;
+
+(c) having regard to the person’s likely influence, the newspaper company is no longer likely to conduct its business prudently or to comply with the provisions of this Act;
+
+(d) it is no longer in the national interest to allow the person to continue to be a party to the agreement or arrangement described in section 10A(3) or (4), or to continue to be a substantial shareholder, a 12% controller or an indirect controller, as the case may be;
+
+(e) the person has furnished false or misleading information or documents in connection with an application under section 10A or 10B; or
+
+(f) he would not have granted his approval under section 10C had he been aware, at that time, of the circumstances relevant to the person’s application for such approval.
+
+(2) Before the service of a written notice of objection, the Minister shall, unless he decides that it is not practicable or desirable to do so, cause to be given to the person concerned notice in writing of his intention to serve the written notice of objection, specifying a date by which the person may make written representations with regard to the proposed written notice of objection.
+
+(3) Upon receipt of the written representations of any person referred to in subsection (2), the Minister shall consider the written representations for the purpose of determining whether to issue a written notice of objection.
+
+(4) The Minister shall, in any written notice of objection, specify a reasonable period within which the person to be served the written notice of objection shall —
+
+(a) take such steps as are necessary to ensure that he ceases to be a party to the agreement or arrangement described in section 10A(3) or (4), or ceases to be a substantial shareholder, a 12% controller or an indirect controller, as the case may be; or
+
+(b) comply with such direction or restriction as the Minister may make under section 10F.
+
+(5) Any person served with a written notice of objection under this section shall comply with the notice.
+
+[20/2002 wef 02/09/2002]
+
+### Power to make directions
+
+10F\.—(1) Without prejudice to section 10G, if the Minister is satisfied that any person has contravened section 10A, 10B, 10C(4) or 10E(5) or any condition imposed under section 10C(2), or if the Minister has served a written notice of objection under section 10E, the Minister may, by notice in writing —
+
+(a) direct the transfer or disposal of all or any of the shares in the newspaper company held by the person or any of his associates (referred to in this section as the specified shares) within such time and subject to such conditions as the Minister considers appropriate;
+
+(b) restrict the transfer or disposal of the specified shares; or
+
+(c) make such other direction or restriction as the Minister considers appropriate.
+
+(2) Any person to whom a notice is given under subsection (1) shall comply with such direction or restriction as may be specified in the notice.
+
+(3) In the case of any direction or restriction made under subsection (1)(a) or (b), notwithstanding any of the provisions of the Companies Act (Cap. 50) or anything contained in the memorandum or articles of association of the newspaper company —
+
+(a) no voting rights shall be exercisable in respect of the specified shares unless the Minister expressly permits such rights to be exercised;
+
+(b) no shares of the newspaper company shall be issued or offered (whether by way of rights, bonus or otherwise) in respect of the specified shares unless the Minister expressly permits such issue or offer; and
+
+(c) except in a liquidation of the newspaper company, no payment shall be made by the newspaper company of any amount (whether by way of dividends or otherwise) in respect of the specified shares unless the Minister expressly authorises such payment,
+
+until a transfer or disposal is effected in accordance with the direction or until the restriction on a transfer or disposal is removed, as the case may be.
+
+(4) In this section, “associate” has the same meaning as in section 10B(4)(c).
+
+[20/2002 wef 02/09/2002]
+
+### Offences, penalties and defences
+
+10G\.—(1) Any person who contravenes section 10A, 10B(1)(a) or (2)(a) or 10C(4)(a), (b) or (c)(i) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+(2) Any person who contravenes section 10B(1)(b) or (2)(b), 10C(4)(c)(ii), 10E(5) or 10F(2) or any condition imposed under section 10C(2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+(3) Where a person is charged with an offence in respect of a contravention of section 10A or 10B, it shall be a defence for the person to prove that —
+
+(a) he was not aware that he had contravened section 10A or 10B, as the case may be; and
+
+(b) he has, within 14 days of becoming aware that he had contravened section 10A or 10B, as the case may be, notified the Minister of the contravention and, within such time as may be determined by the Minister, taken such actions in relation to his shareholding or control of the voting power in the newspaper company as the Minister may direct.
+
+(4) Where a person is charged with an offence in respect of a contravention of section 10B(1), it shall also be a defence for the person to prove that, even though he was aware of the contravention —
+
+(a) the contravention occurred as a result of an increase in the shareholding as described in section 10B(4)(a) of, or in the voting power controlled by, any of his associates described in section 10B(4)(c)(i);
+
+(b) he has no agreement or arrangement, whether oral or in writing and whether express or implied, with that associate with respect to the acquisition, holding or disposal of shares or other interests in, or under which they act together in exercising their voting power in relation to, the newspaper company; and
+
+(c) he has, within 14 days of the date of the contravention, notified the Minister of the contravention and, within such time as may be determined by the Minister, taken such action in relation to his shareholding or control of the voting power in the newspaper company as the Minister may direct.
+
+(5) Except as provided in subsections (3) and (4), it shall not be a defence for a person charged with an offence in respect of a contravention of section 10A or 10B to prove that he did not intend to or did not knowingly contravene section 10A or 10B, as the case may be.
+
+[20/2002 wef 02/09/2002]
+
+### Power to obtain information
+
+10H\.—(1) The Registrar may, by notice in writing, direct any newspaper company to obtain from any of its shareholders and to transmit to the Registrar information —
+
+(a) as to whether that shareholder holds any share in the newspaper company as beneficial owner or as trustee; and
+
+(b) if the shareholder holds the share as trustee, to indicate, so far as he can, the person for whom he holds the share (either by name or by other particulars sufficient to enable that person to be identified) and the nature of his interest,
+
+and the newspaper company shall comply with that direction within such time as may be specified in the notice.
+
+(2) The Registrar may, by notice in writing, require any shareholder of a newspaper company, or any person who appears from the information provided to the Registrar under subsection (1) or this subsection to have an interest in any share in a newspaper company, to inform the Registrar —
+
+(a) whether he holds that interest as beneficial owner or as trustee, and if he holds the interest as trustee, to indicate, so far as he can, the person for whom he holds the interest (either by name or by other particulars sufficient to enable that person to be identified) and the nature of his interest; or
+
+(b) whether any share or any voting right attached to the share is the subject of an agreement or arrangement described in section 10A(3) or (4) or 10B(4)(c)(ix), and if so, to give particulars of the agreement or arrangement and the parties to it,
+
+and the person shall comply with that notice within such time as may be specified therein.
+
+(3) Any person who —
+
+(a) fails to comply with a notice under this section; or
+
+(b) in purported compliance of the notice, knowingly or recklessly makes a statement which is false in a material particular,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+[20/2002 wef 02/09/2002]
 
 ### Funds from foreign source for the purposes of a newspaper other than commercial purposes prohibited
 
@@ -286,19 +536,35 @@ such number of management shares as is equal to 1% or more of its issued and pai
 
 (b) any company, association or society incorporated or constituted under any law in force outside Singapore whether or not it has a branch office or place of business in Singapore;
 
-(c) any person who is not a citizen of Singapore whether or not he is resident in Singapore; or
+(c) any person who is not a citizen of Singapore whether or not he is resident in Singapore;
+
+(ca) any —
+
+(i) body corporate formed or incorporated in Singapore, one or more of whose members or directors are not citizens of Singapore, or in the case of a member being another company, where one or more of the members or directors of such company are not citizens of Singapore; or
+
+(ii) unincorporated association or body constituted under any law in force in Singapore, one or more of whose members or directors are not citizens of Singapore, or in the case of a member being another company, where one or more of the members or directors of such company are not citizens of Singapore,
+
+as the Minister may, by notification in theGazette, declare to be a foreign source for the purposes of this section; or
+
+[20/2002 wef 02/09/2002]
 
 (d) such other source outside Singapore as the Minister may, by notification in theGazette, declare to be a foreign source for the purposes of this section;
 
-“funds” means money, securities, movable or immovable property or other valuable consideration.
+“funds” means money, securities, movable or immovable property or other valuable consideration;
+
+“funds from a foreign source”, with its grammatical variations, includes funds provided by a foreign source indirectly through any agent of the foreign source.
+
+[20/2002 wef 02/09/2002]
 
 (6) Nothing in this section shall apply to any dealing by any person in the shares of a newspaper company quoted on a stock exchange in Singapore.
 
-(7) Any person who contravenes or fails to comply with subsection (1), (3) or (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both and the Court may, in addition to any other penalty that it may impose, order the forfeiture to the Government of any funds which are the subject of the charge.
+(7) Any person who contravenes or fails to comply with subsection (1), (3) or (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both and the Court may, in addition to any other penalty that it may impose, order the forfeiture to the Government of any funds which are the subject of the charge.
 
-(8) (a) Any journalist who, having received any funds from a foreign source for printing or publishing any news item or article or for adopting a particular line or bias in respect of any news item or article, fails to report in writing within 7 days to the managing director of his newspaper company the receipt of those funds shall be guilty of an offence and shall be liable on conviction to the penalty prescribed by section 28.
+(8)(a) Any journalist who, having received any funds from a foreign source for printing or publishing any news item or article or for adopting a particular line or bias in respect of any news item or article, fails to report in writing within 7 days to the managing director of his newspaper company the receipt of those funds shall be guilty of an offence and shall be liable on conviction to the penalty prescribed by section 28.
 
-(b) Any funds received from outside Singapore by a journalist shall be presumed to be from a foreign source unless proved to the contrary.
+(b)
+
+Any funds received from outside Singapore by a journalist shall be presumed to be from a foreign source unless proved to the contrary.
 
 ### Appeal to President
 
@@ -376,7 +642,7 @@ Provided that nothing in this section shall affect the publication, sale, offer 
 
 (5) Notice of the grant or revocation of a permit to sell or distribute an offshore newspaper shall be published in theGazette.
 
-[S 92/1997 wef 01/03/1991]
+[S 92/97]
 
 (6) In any proceedings under this section, it shall be presumed, until the contrary is proved, that any person found in possession of more than 5 copies of the same issue of an offshore newspaper had possession of them for sale or distribution.
 
@@ -404,7 +670,7 @@ Provided that nothing in this section shall affect the publication, sale, offer 
 
 (4) The Minister may restrict the sale or distribution of each issue of any declared foreign newspaper granted approval under subsection (2) to such number of copies as he thinks fit, and may require such copies to be marked in such manner as he may direct.
 
-(5) Any person who contravenes subsection (2) or fails to comply with the conditions imposed under subsection (3) or who sells or distributes any copy of a declared foreign newspaper which is not marked in accordance with subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
+(5) Any person who contravenes subsection (2) or fails to comply with the conditions imposed under subsection (3) or who sells or distributes any copy of a declared foreign newspaper which is not marked in accordance with subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
 
 (6) In any proceedings under this section, it shall be presumed, until the contrary is proved, that any person found in possession of more than 5 copies of the same issue of a declared foreign newspaper had possession of them for sale or distribution.
 
@@ -420,7 +686,7 @@ Provided that nothing in this section shall affect the publication, sale, offer 
 
 (3) Any person who has been granted approval by the Minister under subsection (2) to reproduce copies of a declared foreign newspaper shall not make any profit as a result of the sale or distribution of copies of the declared foreign newspaper so reproduced but shall be permitted to recover the cost of production and services connected with the sale and distribution of such copies.
 
-(4) Any person who contravenes subsection (1) or (3), or fails to comply with any of the conditions imposed under subsection (2), shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
+(4) Any person who contravenes subsection (1) or (3), or fails to comply with any of the conditions imposed under subsection (2), shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
 
 (5) Copies of a declared foreign newspaper reproduced with the approval of the Minister pursuant to subsection (2) shall not constitute an infringement of copyright.
 
@@ -440,7 +706,7 @@ Provided that nothing in this section shall affect the publication, sale, offer 
 
 (3) Any newspaper seized under subsection (2) may be detained for so long as the Registrar or authorised officer considers necessary and the Registrar or authorised officer may, if such newspaper is a declared foreign newspaper, confiscate such newspaper and may in his discretion destroy it or cause it to be destroyed or permit it to be sent to a destination outside Singapore.
 
-(4) Any person who fails to comply with any requirement made by the Registrar or authorised officer under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.
+(4) Any person who fails to comply with any requirement made by the Registrar or authorised officer under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
 
 (5) In this section, “authorised officer” means any person authorised by the Registrar or any police officer or officer of customs.
 
@@ -472,7 +738,7 @@ may detain, open and examine any package or article which he suspects to contain
 
 [22/86]
 
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
 
 [20
 
@@ -514,7 +780,7 @@ GENERAL
 
 ### Offences
 
-26\.—(1) Any person who publishes, sells, offers for sale or distributes or abets the sale, offer for sale or distribution of any newspaper the printing, publication, sale or distribution of which is unlawful under any of the provisions of this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 2 years or to both:
+26\.—(1) Any person who publishes, sells, offers for sale or distributes or abets the sale, offer for sale or distribution of any newspaper the printing, publication, sale or distribution of which is unlawful under any of the provisions of this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both:
 
 Provided that no person shall be convicted of any offence under this subsection if he proves that the newspaper in respect of which he is charged was published, sold, offered for sale or distributed, as the case may be, without his authority, consent and knowledge and without any want of due care on his part.
 
@@ -540,11 +806,13 @@ Provided that no person shall be convicted of any offence under this subsection 
 
 ### Penalty
 
-28\.—(1) Except where otherwise herein provided, any person who fails to comply with any of the requirements of this Act shall be guilty of an offence and shall be liable on conviction before a District Court or a Magistrate’s Court to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 2 years or to both.
+28\.—(1) Except where otherwise herein provided, any person who fails to comply with any of the requirements of this Act shall be guilty of an offence and shall be liable on conviction before a District Court or a Magistrate’s Court to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
 
-(2) Such Courts, notwithstanding anything in the Criminal Procedure Code [Cap. 68], may award the full penalty provided for the offence.
+### Jurisdiction of court
 
-[27
+28A\. Notwithstanding anything to the contrary in the Criminal Procedure Code (Cap. 68), a District Court and a Magistrate’s Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of such offence.
+
+[20/2002 wef 02/09/2002]
 
 ### Sanction for prosecution
 
@@ -576,11 +844,37 @@ Provided that no person shall be convicted of any offence under this subsection 
 
 [32
 
-### Power to exempt documents, etc., from provisions of this Act
+### Composition of offences
 
-34\. The Minister may by notification in theGazetteexempt any document or any class of documents, or any printing press, from the provisions of the whole or any part of this Act.
+33A\.—(1) The Minister or any officer authorised by the Minister may, in his discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence —
 
-[33
+(a) a sum of money not exceeding $1,000 in the case of an offence punishable on conviction with a fine not exceeding $5,000 (whether with or without imprisonment); or
+
+(b) a sum of money not exceeding $5,000 in the case of an offence punishable on conviction with a fine exceeding $5,000 (whether with or without imprisonment).
+
+(2) On payment of such sum of money, no further proceedings shall be taken against such person in respect of the offence.
+
+(3) The Minister may make rules to prescribe the offences which may be compounded and the method and procedure by which those offences may be compounded under this section.
+
+[20/2002 wef 02/09/2002]
+
+### Exemption
+
+34\. The Minister may, subject to such terms and conditions as he may impose, by order published in theGazette—
+
+(a) exempt any class or description of shares or interests in shares from section 10A or 10B or both; or
+
+(b) exempt —
+
+(i) any person or class of persons;
+
+(ii) any document or class of documents; or
+
+(iii) any class or description of printing presses,
+
+from all or any of the provisions of this Act or any subsidiary legislation made thereunder.
+
+[20/2002 wef 02/09/2002]
 
 ### Exemptions
 
@@ -648,3 +942,8 @@ This Legislative History is provided for the convenience of users of the Newspap
 |8.|**1991 Revised Edition—Newspaper and Printing Presses Act**|
 ||(G.N. No. S 92/1997 — Rectification Order)||
 ||Date of operation|1 March 1991|
+|9.|**Act 20 of 2002—Newspaper and Printing Presses (Amendment) Act 2002**|
+||Date of First Reading|23 May 2002|
+|||(Bill No. 20/2002 published on 24 May 2002)|
+||Date of Second and Third Readings|8 July 2002|
+||Date of commencement|2 September 2002|
