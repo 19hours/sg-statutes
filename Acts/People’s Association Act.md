@@ -36,11 +36,11 @@
 
 - [14 Accounts and audit](#Accounts-and-audit)
 
-- [15 Association’s symbol](#Association’s-symbol)
+- [15 Association’s symbols](#Association’s-symbols)
 
 [**FIRST SCHEDULE**](#FIRST-SCHEDULE)
 
-[**SECOND SCHEDULE Association’s Symbol**](#SECOND-SCHEDULE-Association’s-Symbol)
+[**SECOND SCHEDULE**](#SECOND-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -270,11 +270,9 @@ for anything which is in good faith done or intended to be done in the execution
 
 (b) the management committee or any other approved constituent committee of any community centre, club, institute or other body managed or run by the Board.
 
-(3) Every bank account kept under this section shall be operated upon as far as practicable by cheque signed by —
+(3) Each bank account shall be operated by such person as may, from time to time, be authorised in that behalf by the Board.
 
-(a) in the case of a bank account opened in the name of the Association, 2 members of the Board who may from time to time be authorised in that behalf by the Board; or
-
-(b) in the case of a bank account opened in the name of the management committee or any other approved constituent committee of a community centre, club, institute or other body managed or run by the Board, 2 members of the management committee or approved constituent committee of the community centre, club, institute or other body who may from time to time be authorised in that behalf by the Board.
+[27/2002 wef 01/10/2002]
 
 (4) The Board may, from time to time, invest any of the funds of the Association not immediately required for carrying out the objects of the Association in such securities which trustees may by any written law for the time being in force be authorised to invest trust moneys in.
 
@@ -334,13 +332,15 @@ for anything which is in good faith done or intended to be done in the execution
 
 [13
 
-### Association’s symbol
+### Association’s symbols
 
-15\.—(1) The Association shall have the exclusive right to the use of the symbol (referred to in this section as the Association’s symbol) a representation of which is set out in the Second Schedule.
+15\.—(1) The Association shall have the exclusive right to the use of such symbols (referred to in this section as the Association’s symbols) as it may devise or adopt from time to time and thereafter display or exhibit in connection with its activities or affairs.
 
-(2) Any person who uses a symbol identical with the Association’s symbol or so nearly resembling that symbol as to be likely to deceive or cause confusion in relation to the identity of the Association shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500.
+(2) The Association shall publish the Association’s symbols in theGazette.
 
-[14
+(3) Any person who uses a symbol identical with, or which so resembles, any of the Association’s symbols as to be likely to deceive or cause confusion, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
+
+[27/2002 wef 01/10/2002]
 
 FIRST SCHEDULE
 
@@ -556,9 +556,7 @@ CONSULTANT ORGANISATIONS
 
 SECOND SCHEDULE
 
-Section 15(1)
-
-Association’s Symbol
+Repealed by Act 27/2002, wef 01/10/2002.
 
 ## LEGISLATIVE HISTORY
 
@@ -688,6 +686,11 @@ This Legislative History is provided for the convenience of users of the People�
 |||(Bill No. 7/2002 published on 4 May 2002)|
 ||Date of Second and Third Readings|24 May 2002|
 ||Dates of commencement|15 July 2002 (except item (18) of the Schedule)|
+|49.|**Act 27 of 2002—People’s Association (Amendment) Act 2002**|
+||Date of First Reading|23 July 2002|
+|||(Bill No. 27/2002 published on 24 July 2002)|
+||Date of Second and Third Readings|27 August 2002|
+||Date of commencement|1 October 2002|
 ## COMPARATIVE TABLE
 
 People’s Association Act
