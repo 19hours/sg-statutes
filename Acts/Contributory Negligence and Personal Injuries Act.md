@@ -40,11 +40,11 @@ An Act relating to contributory negligence and for purposes connected therewith 
 
 2\. In this Act —
 
-“court”, in relation to any claim, means the court or arbitrator by or before whom the claim falls to be determined;
+“court” in relation to any claim, means the court or arbitrator by or before whom the claim falls to be determined;
 
 “damage” includes loss of life and personal injury;
 
-“dependant” means any person for whose benefit an action could be brought under section 12 of the Civil Law Act [Cap. 43, 1988 Ed.];
+“dependant” means any person for whose benefit an action could be brought under section 12 of the Civil Law Act [Cap. 43, 1988 Ed];
 
 “fault” means negligence, breach of statutory duty or other act or omission which gives rise to a liability in tort or would, apart from this Act, give rise to the defence of contributory negligence.
 
@@ -60,8 +60,6 @@ Provided that —
 
 (2) Where damages are recoverable by any person by virtue of subsection (1) subject to such reduction as is therein mentioned, the court shall find and record the total damages which would have been recoverable if the claimant had not been at fault.
 
-(3) Section 11 of the Civil Law Act [Cap. 43, 1988 Ed.] (which relates to proceedings against and contribution between joint and several tortfeasors) shall apply in any case where two or more persons are liable or would, if they had all been sued, be liable by virtue of subsection (1) in respect of the damage suffered by any person.
-
 (4) Where any person dies as the result partly of his own fault and partly of the fault of any other person or persons, and accordingly if an action were brought for the benefit of the estate under section 7 of the Civil Law Act, the damages recoverable would be reduced under subsection (1), any damages recoverable in an action brought for the benefit of the dependants of that person under section 12 of the Civil Law Act, or any damages recoverable in an action brought for the benefit of any person under section 13 of that Act, shall be reduced to a proportionate extent.
 
 [11/87]
@@ -72,17 +70,17 @@ Provided that —
 
 4\.—(1) This Act shall not apply to any claims to which section 1 of the Maritime Conventions Act 1911 [U.K. 1911 c. 57.] applies and that Act shall have effect as if this Act had not been passed.
 
-(2) This Act shall not apply to any case where the acts or omissions giving rise to the claim occurred before 1st March 1954\*.
+(2) This Act shall not apply to any case where the acts or omissions giving rise to the claim occurred before 1st March 1954.1
 
-\*Vide G.N. No. S 43/54.
+1Vide G.N. No. S 43/54.
 
 ### Common employment
 
 5\.—(1) It shall not be a defence to an employer who is sued in respect of personal injuries caused by the negligence of a person employed by him, that that person was at the time the injuries were caused in common employment with the person injured.
 
-(2) Any provision in a contract of service or apprenticeship, or in an agreement collateral thereto (including a contract or agreement entered into before 1st March 1954\*shall be void in so far as it would have the effect of excluding or limiting any liability of the employer in respect of personal injuries caused to the person employed or apprenticed by the negligence of persons in common employment with him.
+(2) Any provision in a contract of service or apprenticeship, or in an agreement collateral thereto (including a contract or agreement entered into before 1st March 19542shall be void in so far as it would have the effect of excluding or limiting any liability of the employer in respect of personal injuries caused to the person employed or apprenticed by the negligence of persons in common employment with him.
 
-\*Vide G.N. No. S 43/54.
+2Vide G.N. No. S 43/54.
 
 (3) For the purpose of this section “personal injury” includes any disease and any impairment of a person’s physical or mental condition, and “injured” shall be construed accordingly.
 
@@ -121,3 +119,9 @@ This Legislative History is provided for the convenience of users of the Contrib
 ||Date of commencement|16 September 1988|
 |7.|**1989 Revised Edition—Contributory Negligence and Personal Injuries Act**|
 ||Date of operation|15 March 1989|
+|8.|**Act 45 of 1998—Civil Law (Amendment) Act 1998**|
+||(Consequential amendments made by)||
+||Date of First Reading|12 October 1998|
+|||(Bill No. 41/98 published on 13 October 1998)|
+||Date of Second and Third Readings|26 November 1998|
+||Date of commencement|1 January 1999|
