@@ -1816,6 +1816,10 @@ Smelling bottles.
 
 Ammonium chlorate
 
+Ammonium nitrate
+
+Aqueous solutions containing less than 60%, weight in weight, of ammonium nitrate.
+
 Ammonium perchlorate
 
 Anionic surface active agents
@@ -1873,6 +1877,10 @@ Asbestos products containing chrysotile other than roofing sheets, refuse chutes
 Asbestos in the form of chrysotile in any vehicle brake or clutch lining not installed in any vehicle if the packaging of the vehicle brake or clutch lining is affixed with the appropriate label or in any vehicle brake or clutch lining installed in any vehicle registered before 1st April 1995.
 
 The label to be affixed on the packaging of the vehicle brake and clutch lining is in accordance with Part III of the Second Schedule.
+
+Barium nitrate
+
+Preparations and solutions containing less than 10%, weight in weight, of barium nitrate.
 
 Benzene
 
@@ -2097,6 +2105,8 @@ Formic acid
 Substances containing not more than 5%, weight in weight, of formic acid.
 
 Germane
+
+Guanidine nitrate
 
 Hydrazine anhydrous; Hydrazine aqueous solutions
 
@@ -2575,6 +2585,14 @@ Accumulators;
 
 Batteries.
 
+Potassium nitrate
+
+Preparations and solutions containing less than 5%, weight in weight, of potassium nitrate or a combination of both potassium nitrate and sodium nitrate.
+
+Potassium nitrite
+
+Aqueous solutions containing less than 5%, weight in weight, of potassium nitrite.
+
 Potassium perchlorate
 
 Prochloraz
@@ -2592,6 +2610,14 @@ Sodium hydroxide
 Substances containing not more than 17%, weight in weight, of sodium hydroxide;
 
 Made-up formulated preparations either liquid or solid for biochemical tests.
+
+Sodium nitrate
+
+Preparations and solutions containing less than 5%, weight in weight, of sodium nitrate or a combination of both sodium nitrate and potassium nitrate.
+
+Sodium nitrite
+
+Aqueous solutions containing less than 5%, weight in weight, of sodium nitrite.
 
 Sodium perchlorate
 
@@ -2626,6 +2652,8 @@ Tris (2, 3-dibromo-l-propyl) phosphate
 Vinyl bromide
 
 Vinyl chloride monomer
+
+[S 492/2004 wef 15/09/2004]
 
 Part II
 
@@ -2840,6 +2868,8 @@ This Legislative History is provided for the convenience of users of the Environ
 ||Date of commencement|1.7.2002|
 |5.|**2002 Revised Edition—Environmental Protection and Management Act**|
 ||Date of operation|31 December 2002|
+|6.|**G. N. No. S 492/2004—Environmental Pollution Control Act (Amendment Of Second Schedule) Order 2004**|
+||Date of commencement|15 September 2004|
 ## COMPARATIVE TABLE
 
 Environmental Protection and Management Act
