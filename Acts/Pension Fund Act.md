@@ -256,15 +256,17 @@ The Public Service Commission (Pension) Regulations [Const., Rg 2].
 
 9. 
 
-The Singapore Armed Forces Act, more particularly the Singapore Armed Forces (Pensions) Regulations [Cap. 295, Rg 9].
+Section 206(1) of the Singapore Armed Forces Act (Cap. 295).
+
+[43/2004 wef 01/12/2004]
 
 10. 
 
-The Widows’ and Orphans’ Pension Act [Cap. 350].
+The Widows’ and Orphans’ Pension Act.
 
 11. 
 
-The Workmen’s Compensation Act [Cap. 354].
+The Workmen’s Compensation Act.
 
 12. 
 
@@ -315,3 +317,9 @@ This Legislative History is provided for the convenience of users of the Pension
 |||(Bill No. 29/2002 published on 2 October 2002)|
 ||Date of Second and Third Readings|31 October 2002|
 ||Date of commencement|30 January 2003|
+|7.|**Act 43 of 2004—Singapore Armed Forces (Amendment No. 2) Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 September 2004|
+|||(Bill No. 45/2004 published on 22 September 2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|1 December 2004|
