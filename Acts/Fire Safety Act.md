@@ -218,8 +218,6 @@ PRELIMINARY
 
 using engineering tools, methodologies and performance criteria as may be acceptable to the Commissioner, but does not include engineered smoke control systems where the usage and design are in accordance with the Fire Code;
 
-[7/2004 wef 15/04/2004]
-
 “building” has the same meaning as in the Building Control Act (Cap. 29);
 
 “building works” has the same meaning as in the Building Control Act;
@@ -227,8 +225,6 @@ using engineering tools, methodologies and performance criteria as may be accept
 “Commissioner” means the Commissioner of Civil Defence appointed under section 6 of the Civil Defence Act (Cap. 42);
 
 “Fire Code” means the Code of Practice for Fire Precautions in Buildings published by the Commissioner as amended or remade from time to time, and includes any code, standard, rule, specification or provision adopted by the Commissioner under section 55 in lieu of the Fire Code;
-
-[7/2004 wef 15/04/2004]
 
 “fire hazard” means any matter or circumstance which materially increases the likelihood of fire or the danger to life or property that would result from the outbreak of fire and includes —
 
@@ -252,8 +248,6 @@ using engineering tools, methodologies and performance criteria as may be accept
 
 “fire performance requirements” means the objectives specified in the Fire Code in respect of fire safety works;
 
-[7/2004 wef 15/04/2004]
-
 “fire protection system” includes any installation, equipment or works manufactured, used or designed to be used for the purposes of —
 
 (a) extinguishing, attacking, preventing or limiting a fire and its by-product; or
@@ -263,8 +257,6 @@ using engineering tools, methodologies and performance criteria as may be accept
 “fire protection works” means the provision, extension or alteration of any fire protection system;
 
 “fire safety engineer” means a person who is registered as a fire safety engineer under this Act;
-
-[7/2004 wef 15/04/2004]
 
 “fire safety measures” includes any installation, equipment or works manufactured, used or designed to be used for the purposes of —
 
@@ -302,8 +294,6 @@ using engineering tools, methodologies and performance criteria as may be accept
 
 “peer reviewer” means a fire safety engineer who is appointed to review and assess whether any alternative solution in plans for any fire safety works that is prepared or proposed by another person satisfies any fire performance requirements;
 
-[7/2004 wef 15/04/2004]
-
 “premises” includes messuages, houses, buildings, lands, tenements, easements and hereditaments of any tenure, whether open or enclosed, whether built or not, whether public or private, and whether or not maintained under statutory authority;
 
 “public building” means a building or part of a building —
@@ -321,8 +311,6 @@ using engineering tools, methodologies and performance criteria as may be accept
 (ii) entertainment, recreational or sporting purposes; or
 
 (iii) business purposes;
-
-[7/2004 wef 15/04/2004]
 
 “qualified person” means a person who is registered as —
 
@@ -394,7 +382,11 @@ using engineering tools, methodologies and performance criteria as may be accept
 
 (d) if it appears to the Commissioner that he is no longer in the position to carry out the duties or responsibilities of a registered inspector under this Act or any regulations made thereunder;
 
-(e) if he has procured his registration by fraud or misrepresentation.
+(e) if he has procured his registration by fraud or misrepresentation; or
+
+[7/2004 wef 01/07/2004]
+
+(f) if he is a qualified person or a fire safety engineer, his registration as such is revoked or cancelled or he is suspended from practising as such under this Act or any other relevant written law.
 
 [7/2004 wef 01/07/2004]
 
@@ -404,13 +396,13 @@ using engineering tools, methodologies and performance criteria as may be accept
 
 [5/2000]
 
-(3) The Commissioner shall not exercise his powers under subsection (1)(b), (c), (d) or (e)or (2) unless an opportunity of being heard has been given to the registered inspector against whom the Commissioner intends to exercise his powers.
+(3) The Commissioner shall not exercise his powers under subsection (1)(b), (c), (d) , (e) or (f) or (2) unless an opportunity of being heard has been given to the registered inspector against whom the Commissioner intends to exercise his powers.
 
 [7/2004 wef 01/07/2004]
 
 [5/2000]
 
-(4) Where a registered inspector has been suspended from practice under subsection (1), the Commissioner shall, within one month of the expiry of such suspension, restore the name and particulars of that registered inspector to the register of registered inspectors and issue to him a fresh certificate of registration.
+(4) Where a registered inspector has been suspended from practice under subsection (1), the Commissioner shall, within 7 days of the expiry of such suspension, restore the name and particulars of that registered inspector to the register of registered inspectors and issue to him a fresh certificate of registration.
 
 [7/2004 wef 01/07/2004]
 
@@ -454,7 +446,7 @@ using engineering tools, methodologies and performance criteria as may be accept
 
 [5/2000]
 
-(12) Any person whose name has been removed from the register of registered inspectors under subsection (1)(b), (c), (d)or (e) shall, if his appeal to the Minister is allowed, have his name reinstated forthwith.
+(12) Any person whose name has been removed from the register of registered inspectors under subsection (1)(b), (c), (d) , (e) or (f) shall, if his appeal to the Minister is allowed, have his name reinstated forthwith.
 
 [7/2004 wef 01/07/2004]
 
@@ -593,8 +585,6 @@ as the Commissioner may determine.
 [5/2000]
 
 (5) Where the complainant withdraws his complaint before the Inquiry Committee is constituted or before the inquiry by the Committee is concluded, the Commissioner may, notwithstanding such withdrawal, constitute an Inquiry Committee and direct it to inquire, or may direct the Inquiry Committee to continue with its inquiry, into the matter, and the Inquiry Committee shall comply with that direction.
-
-[7/2004 wef 15/04/2004]
 
 (6) An Inquiry Committee shall, in its written report, make such recommendation as it thinks fit.
 
@@ -944,8 +934,6 @@ FIRE PREVENTION IN BUILDINGS
 
 FIRE SAFETY ENGINEERS
 
-[7/2004 wef 15/04/2004]
-
 ### Duties and responsibilities of fire safety engineers
 
 22A\.—(1) Subject to the provisions of this Act, no person shall prepare or propose plans for any fire safety works using any alternative solution to satisfy any fire performance requirements unless he is —
@@ -1186,6 +1174,18 @@ CONTROL OF FIRE SAFETY WORKS
 
 23\.—(1) Subject to the provisions of this Act, the person for whom any proposed fire safety works are to be commenced or carried out in any building shall apply in accordance with the regulations made under this Act to the Commissioner for approval of the plans of the fire safety works.
 
+(1A) Subject to the provisions of this Act, every person for whom any fire safety works (whether as part of any building works or otherwise) are to start on or after the date of commencement of section 10 of the Fire Safety (Amendment) Act 2004 shall, before making an application under subsection (1) for approval of the plans of those fire safety works, appoint —
+
+(a) where the plans or any part thereof contain any alternative solution —
+
+(i) an appropriate qualified person who is a fire safety engineer to prepare those plans or that part thereof containing the alternative solution, or a fire safety engineer to supervise a qualified person to prepare those plans or that part thereof; and
+
+(ii) another fire safety engineer as a peer reviewer to review and assess whether the alternative solution therein satisfies the fire performance requirements in the Fire Code; or
+
+(b) in any other case, an appropriate qualified person to prepare the plans of those fire safety works.
+
+[7/2004 wef 01/07/2004]
+
 (2) The Commissioner may —
 
 (a) approve, subject to such terms and conditions as he may impose, any one or more of the plans submitted to him under subsection (1);
@@ -1198,9 +1198,19 @@ CONTROL OF FIRE SAFETY WORKS
 
 (3) If the person to whom any written direction is given under subsection (2) fails to comply with the requirements specified in the direction within the time specified therein, the Commissioner may reject the plans.
 
-(4) Where an application for approval of the plans of fire safety works under subsection (1) is accompanied by a written declaration by the qualified person who prepared the plans declaring that the plans have been prepared in accordance with the Fire Code adopted under section 55, and the provisions of this Act and any regulations made thereunder, the Commissioner may, without checking the plans, approve the plans on the basis of the written declaration by the qualified person.
+(4) Where an application is made under subsection (1) regarding any plans of any fire safety works, the Commissioner may, without checking the plans, approve those plans if —
 
-[5/2000]
+(a) in the case of plans referred to in subsection (1A)(a), the application and plans are accompanied by —
+
+(i) a written declaration by the qualified person who prepared those plans declaring that the plans (excluding the alternative solution) have been prepared in accordance with the Fire Code and comply with the provisions of this Act and any regulations made thereunder;
+
+(ii) a written declaration by the fire safety engineer who prepared or (as the case may be) supervised the preparation of the plans or that part thereof containing the alternative solution, declaring that the alternative solution satisfies the fire performance requirements and complies with the provisions of this Act and any regulations made thereunder; and
+
+(iii) a certification from the peer reviewer that the alternative solution contained in the plans or that part thereof satisfies the fire performance requirements and complies with the provisions of this Act and any regulations made thereunder; or
+
+(b) in the case of plans referred to in subsection (1A)(b), the application and plans are accompanied by a written declaration by the qualified person who prepared those plans declaring that the plans have been prepared in accordance with the Fire Code and the provisions of this Act and any regulations made thereunder.
+
+[7/2004 wef 01/07/2004]
 
 (5) Notwithstanding subsection (4), the Commissioner may, in his discretion, carry out random checks on any plans of fire safety works at any time before or after approving the plans under that subsection.
 
@@ -1210,7 +1220,7 @@ CONTROL OF FIRE SAFETY WORKS
 
 (a) under subsection (2)(a), if he is satisfied that any information given in the application for approval or any document submitted to the Commissioner in respect of the application for approval is false in a material particular; and
 
-(b) under subsection (4), if he is satisfied that the written declaration submitted by the qualified personreferred to in that subsection is false.
+(b) under subsection (4), if he is satisfied that the written declaration submitted by the qualified person or fire safety engineer or the certificate of a peer reviewer referred to in that subsection is false.
 
 [7/2004 wef 01/07/2004]
 
@@ -1252,13 +1262,19 @@ and shall specify a date, not less than 14 days from the date of the written not
 
 (11) Where a decision of the Commissioner to revoke any approval granted in respect of any plans of fire safety works has taken effect —
 
-(a) any fire certificate granted under section 20 in respect of a public building having an occupant load of more than 200 persons; and
+(a) any fire certificate granted under section 20 in respect of any building to which the fire safety works relate; and
+
+[7/2004 wef 01/07/2004]
 
 (b) any fire safety certificate or temporary fire permit issued in respect of the fire safety works under section 29,
 
 as the case may be, shall automatically lapse.
 
 [5/2000]
+
+(12) For the purposes of this section, any plans of any fire safety works that are prepared in accordance with the solutions issued by the Commissioner as in compliance with the fire performance requirements shall be deemed to satisfy the fire performance requirements.
+
+[7/2004 wef 01/07/2004]
 
 ### Prohibition of fire safety works without approval of plans
 
@@ -1268,25 +1284,35 @@ as the case may be, shall automatically lapse.
 
 ### Appointment and duties of qualified person
 
-25\.—(1) Subject to the provisions of this Act, every person for whom any fire safety works are or are to be carried out shall appoint an appropriate qualified person in respect of those works and shall supply to the qualified person appointed under this subsection or subsection (2)(b) a copy of every plan of the fire safety works approved by the Commissioner.
+25\.—(1) Subject to the provisions of this Act, every person for whom any fire safety works are or are to be carried out shall appoint —
 
-(2) If any qualified personappointed under subsection (1) or paragraph (b) becomes unwilling or unable, whether by reason of the termination of his appointment or for any other reason, to carry out his duties under subsection (4) —
+(a) in the case of plans referred to in section 23(1A)(a) —
 
-(a) the qualified person shall, within 14 days of his ceasing to carry out his duties, notify the Commissioner and the person for whom such works are or are to be carried out of the fact; and
+(i) the same qualified person who prepared those plans to supervise the carrying out of the fire safety works, including the alternative solution, as required under this section; and
 
-[7/2004 wef 01/07/2004]
+(ii) the same fire safety engineer who prepared or (as the case may be) supervised the preparation of the plans or that part thereof containing the alternative solution to supervise the carrying out of the fire safety works or part thereof containing the alternative solution as required under this section; or
 
-(b) the person for whom the fire safety works are or are to be carried out shall cease or cause to be ceased and shall not commence or cause to be commenced the carrying out of such work until he has appointed another appropriate qualified person in respect of such works.
-
-[7/2004 wef 01/07/2004]
+(b) in the case of plans referred to in section 23(1A)(b), the same qualified person who prepared the approved plans of those fire safety works to supervise the fire safety works as required under this section.
 
 [7/2004 wef 01/07/2004]
 
-(3) Where the person for whom any such works are or are to be carried out appoints an appropriate qualified person under subsection (2)(b), he shall, within 7 days of the appointment, notify the Commissioner of the appointment.
+(2) If any qualified person or fire safety engineer appointed under subsection (1) or paragraph (b) becomes unwilling or unable, whether by reason of the termination of his appointment or for any other reason, to carry out his duties under subsection (4) —
+
+(a) the qualified person or fire safety engineer shall, within 14 days of his ceasing to carry out his duties, notify the Commissioner and the person for whom such works are or are to be carried out of the fact; and
 
 [7/2004 wef 01/07/2004]
 
-(4) Every qualified person appointed under this section in respect of any fire safety works shall —
+(b) the person for whom the fire safety works are or are to be carried out shall cease or cause to be ceased and shall not commence or cause to be commenced the carrying out of such work until he has appointed another appropriate qualified person or fire safety engineer in respect of such works.
+
+[7/2004 wef 01/07/2004]
+
+[7/2004 wef 01/07/2004]
+
+(3) Where the person for whom any such works are or are to be carried out appoints an appropriate qualified person or fire safety engineer under subsection (2)(b), he shall, within 7 days of the appointment, notify the Commissioner of the appointment.
+
+[7/2004 wef 01/07/2004]
+
+(4) Every qualified person or fire safety engineer appointed under this section in respect of any fire safety works shall —
 
 (a) take all reasonable steps and exercise due diligence in supervising and inspecting the fire safety works to ensure that such works are being carried out in accordance with the provisions of this Act and subject to section 27, any regulations made under this Act, the codes of practice, the plans approved in respect thereof by the Commissioner and any terms and conditions imposed by the Commissioner;
 
@@ -1298,19 +1324,19 @@ as the case may be, shall automatically lapse.
 
 (5) Any person who contravenes or fails to comply with subsection (1) or (2)(b) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day during which the offence continues after conviction.
 
-(6) Any qualified person who contravenes or fails to comply with subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a continuing offence, to a further fine not exceeding $500 for every day during which the offence continues after conviction.
+(6) Any qualified person or fire safety engineer who contravenes or fails to comply with subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a continuing offence, to a further fine not exceeding $500 for every day during which the offence continues after conviction.
 
 [7/2004 wef 01/07/2004]
 
 (7) It shall be a defence in any prosecution for a contravention or non-compliance with subsection (4)(b) for the person charged to prove to the satisfaction of the court that he did not know, nor could reasonably have discovered, the contravention or non-compliance referred to in the charge.
 
-(8) Any qualified person or person for whom any fire safety works are or are to be carried out, as the case may be, who, without reasonable excuse, contravenes or fails to comply with subsection (2)(a) or (3) shall be guilty of an offence.
+(8) Any qualified person or fire safety engineer or person for whom any fire safety works are or are to be carried out, as the case may be, who, without reasonable excuse, contravenes or fails to comply with subsection (2)(a) or (3) shall be guilty of an offence.
 
 [7/2004 wef 01/07/2004]
 
 ### Supervision of fire safety works
 
-26\.—(1) Except as otherwise provided in this Act or any regulations made thereunder, no person shall commence or carry out any fire safety works except under the supervision of an appropriate qualified person appointed under section 25(1) or (2)(b).
+26\.—(1) Except as otherwise provided in this Act or any regulations made thereunder, no person shall commence or carry out any fire safety works except under the supervision of an appropriate qualified person or fire safety engineer appointed under section 25(1) or (2)(b).
 
 [7/2004 wef 01/07/2004]
 
@@ -1581,8 +1607,6 @@ may, before the decision or order, as the case may be, takes effect, appeal in w
 30D\.—(1) This Part shall apply to fire safety works starting on or after the date of commencement of section 13 of the Fire Safety (Amendment) Act 2004 and which are carried out by or on behalf of the Government in any building wholly or partly owned or occupied by the Government, but nothing in this Act shall render the Government to prosecution for an offence.
 
 (2) For the avoidance of doubt, no person shall be immune from prosecution for any offence under this Part by reason that the person is a contractor engaged to provide services to the Government, or is acting in any other similar capacity for, or on behalf of, the Government.
-
-[7/2004 wef 15/04/2004]
 
 ## PART V
 
@@ -1856,8 +1880,6 @@ MISCELLANEOUS
 
 53\. The Minister may, by order either generally or in any particular case, and subject to such conditions as he may impose, exempt any person, premises, vehicle or fire safety works from all or any of the provisions of this Act or any regulations made thereunder.
 
-[7/2004 wef 15/04/2004]
-
 ### Offence by body corporate
 
 54\. Where an offence under this Act or any regulations made thereunder has been committed by a body corporate, a partnership or unincorporated association of persons, any person who at the time of the commission of the offence was a director, manager, partner, secretary or other similar officer thereof, or was purporting to act in any such capacity shall be guilty of that offence unless he proves that —
@@ -1980,17 +2002,11 @@ MISCELLANEOUS
 
 (z) the duties and responsibilities of registered inspectors and fire safety engineers and the manner in which those duties and responsibilities are to be discharged, including a code of conduct and ethics for registered inspectors and fire safety engineers;
 
-[7/2004 wef 15/04/2004]
-
 (za) the prescribing of the procedure of the Appeal Advisory Board;
 
 (zaa) the regulation of the proceedings of any Inquiry Committee constituted under section 6A and any Investigation Committee constituted under section 22D;
 
-[7/2004 wef 15/04/2004]
-
 (zab) the prescribing of the code of conduct and ethics for registered inspectors and fire safety engineers; and
-
-[7/2004 wef 15/04/2004]
 
 (zb) the prescribing of any matter which is required for the purposes of this Act.
 
@@ -2062,6 +2078,11 @@ This Legislative History is provided for the convenience of users of the Fire Sa
 |||(Bill No. 4/2004 published on 6 January 2004)|
 ||Date of Second and Third Readings|6 February 2004|
 ||Date of commencement|15 April 2004 (except sections 14 to 22 and 26, paragraphs 25(a) to (g) and items (1) and (2) in the Schedule)|
+|8.|**Act 7 of 2004—Fire Safety (Amendment) Act 2004**|
+||Date of First Reading|5 January 2004|
+|||(Bill No. 4/2004 published on 6 January 2004)|
+||Date of Second and Third Readings|6 February 2004|
+||Date of commencement|1 July 2004 (sections 3, 10, 11 and 12)|
 ## COMPARATIVE TABLE
 
 Fire Safety Act
