@@ -18,9 +18,9 @@
 
 - [6 Prohibitions and regulations with respect to sale of poisons](#Prohibitions-and-regulations-with-respect-to-sale-of-poisons)
 
-- [7 Exemptions, etc.](#Exemptions-etc)
+- [7 Exemptions in respect of medicines supplied by medical practitioners, etc.](#Exemptions-in-respect-of-medicines-supplied-by-medical-practitioners-etc)
 
-- [8 Exemptions](#Exemptions)
+- [8 Exemptions in respect of poisons sold or exported](#Exemptions-in-respect-of-poisons-sold-or-exported)
 
 - [9 Possession of poisons](#Possession-of-poisons)
 
@@ -30,25 +30,23 @@
 
 - [12 Licences to be numbered and registered](#Licences-to-be-numbered-and-registered)
 
-- [13 (Repealed)](#Repealed)
+- [13 Forms of licences](#Forms-of-licences)
 
-- [14 Forms of licences](#Forms-of-licences)
+- [14 Search and search warrants](#Search-and-search-warrants)
 
-- [15 Search and search warrants](#Search-and-search-warrants)
+- [15 Powers of exemption](#Powers-of-exemption)
 
-- [16 Powers of exemption](#Powers-of-exemption)
+- [16 Penalties](#Penalties)
 
-- [17 Penalties](#Penalties)
+- [17 Jurisdiction](#Jurisdiction)
 
-- [18 Jurisdiction](#Jurisdiction)
+- [18 Sanction to prosecute](#Sanction-to-prosecute)
 
-- [19 Sanction to prosecute](#Sanction-to-prosecute)
+- [19 Prohibition of sale to persons under 18 years](#Prohibition-of-sale-to-persons-under-18-years)
 
-- [20 Prohibition of sale to persons under 18 years](#Prohibition-of-sale-to-persons-under-18-years)
+- [20 Rules](#Rules)
 
-- [21 Rules](#Rules)
-
-[**THE SCHEDULE Poisons List**](#THE-SCHEDULE)
+[**THE SCHEDULE Poisons list**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -58,9 +56,9 @@
 
 (Original Enactment: Ordinance 39 of 1938)
 
-REVISED EDITION 1985
+REVISED EDITION 1989
 
-(30th March 1987)
+(15th March 1989)
 
 An Act to regulate the importation, possession, manufacture, compounding, storage, transport and sale of poisons.
 
@@ -68,7 +66,9 @@ An Act to regulate the importation, possession, manufacture, compounding, storag
 
 ### Short title
 
-1\. This Act may be cited as the Poisons Act.
+1\. This Act may be cited as the Poisons Act.1
+
+1Sections 6, 7, 9, 11, 16 and 20 are to be amended and new section 21 inserted on the coming into operation of section 76(2) of the Medicines Act (Cap. 176).
 
 ### Interpretation
 
@@ -104,7 +104,7 @@ An Act to regulate the importation, possession, manufacture, compounding, storag
 
 [14/80]
 
-[Act 21 of 1987 wef 11/09/1987]
+[21/87]
 
 ### General prohibition with respect to importation and sale of poisons
 
@@ -148,9 +148,9 @@ An Act to regulate the importation, possession, manufacture, compounding, storag
 
 (ii) the purchaser and the person introducing him, if any, have affixed their signatures to that entry.
 
-### Exemptions, etc.
+### Exemptions in respect of medicines supplied by medical practitioners, etc.
 
-7\.—(1) Except as provided in any rules made under this Act nothing in section 6 shall apply —
+7\.—(1) Except as provided in any rules made under this Act, nothing in section 6 shall apply —
 
 (a) to a medicine which is supplied by a medical practitioner for the purposes of medical treatment of his own patients;
 
@@ -180,7 +180,7 @@ Provided that this subsection shall, in the case of a medicine supplied on a pre
 
 (4) In the case of a medicine which is supplied or dispensed by a pharmacist or medical practitioner the medicine must have been compounded by or under the direct and personal supervision of the pharmacist or medical practitioner.
 
-### Exemptions
+### Exemptions in respect of poisons sold or exported
 
 8\. Except as provided in any rules made under this Act, nothing in section 6(1)(a)(v) and section 6(2) and (3) shall extend to or affect —
 
@@ -192,9 +192,9 @@ Provided that this subsection shall, in the case of a medicine supplied on a pre
 
 (d) the sale of poisons for use in or in connection with any hospital, dispensary or similar institution approved by an order, whether general or special, of the Director of Medical Services;
 
-(e) the sale of poisons for use by a Government department requiring the article for the purposes of the public service or by any local authority requiring the article in connection with the exercise by the authority of any statutory powers;
+(e) the sale of poisons for use by a Government department requiring the poison for the purposes of the public service or by any local authority requiring the poison in connection with the exercise by the authority of any statutory powers;
 
-(f) the sale of poisons to a person or institution concerned with scientific education or research, if the article is required for the purpose of education or research; or
+(f) the sale of poisons to a person or institution concerned with scientific education or research, if the poison is required for the purpose of education or research; or
 
 (g) the sale of poisons by persons licensed under this Act, either by way of wholesale dealing or for use by the purchasers thereof in their trade or business, to a person who requires the poison —
 
@@ -228,13 +228,13 @@ Provided that this subsection shall, in the case of a medicine supplied on a pre
 
 Provided that no licence shall be issued to a medical practitioner other than a licence authorising him to import, possess and sell poisons by retail in connection with his own practice or with a practice or partnership in which every member is a medical practitioner.
 
-[Act 21 of 1987 wef 11/09/1987]
+[21/87]
 
 (2) A licensing officer, if it appears expedient to him to do so, may cancel any licence issued under subsection (1).
 
 (3) Every licence shall, unless previously cancelled, remain in force for such period as may be prescribed.
 
-[Act 21 of 1987 wef 11/09/1987]
+[21/87]
 
 (4) Such fees as may be prescribed shall be charged on the issue of each licence.
 
@@ -250,7 +250,7 @@ Provided that no licence shall be issued to a medical practitioner other than a 
 
 (3) A licensing officer may, if he sees fit, amend the description in a licence of the premises at which the person licensed carries on the business or profession in connection with which he is licensed.
 
-[Act 21 of 1987 wef 11/09/1987]
+[21/87]
 
 ### Licences to be numbered and registered
 
@@ -258,79 +258,93 @@ Provided that no licence shall be issued to a medical practitioner other than a 
 
 (2) The Director of Medical Services shall keep a register of licences showing all the particulars of each licence issued under this Act and the entries in the register shall be numbered to correspond with the serial numbers of the licences and there shall be noted in the register in the event of cancellation of any licence the date of such cancellation.
 
-[Act 21 of 1987 wef 11/09/1987]
+[21/87]
 
 (3) Any extract from or copy of an entry in a register kept under this section shall be prima facie evidence of the facts stated therein if the extract or copy is certified under the hand of a licensing officer to be a true extract or copy.
 
 (4) The register of licences kept under this section shall be kept at the office of the Director of Medical Services and shall be available for inspection by any person without charge at all reasonable hours.
 
-[Act 21 of 1987 wef 11/09/1987]
-
-13\. [Repealed by Act 21 of 1987 wef 11/09/1987]
+[21/87]
 
 ### Forms of licences
 
-14\. Licences issued under this Act shall be substantially in the forms prescribed with such variations as circumstances may require.
+13\. Licences issued under this Act shall be substantially in the forms prescribed with such variations as circumstances may require.
+
+[14
 
 ### Search and search warrants
 
-15\.—(1) A licensing officer or any public officer authorised in writing by a licensing officer or any police officer not below the rank of sergeant may enter at all reasonable times upon any premises in which poisons are reasonably believed by that officer to be kept or stored and by himself or by some other person accompanying him and acting under his instructions and in his presence may search the premises and take possession of any substances found therein and reasonably believed to be or to contain a poison.
-
-[21/73; 14/80]
+14\.—(1) A licensing officer or any public officer authorised in writing by a licensing officer or any police officer not below the rank of sergeant may enter at all reasonable times upon any premises in which poisons are reasonably believed by that officer to be kept or stored and by himself or by some other person accompanying him and acting under his instructions and in his presence may search the premises and take possession of any substances found therein and reasonably believed to be or to contain a poison.
 
 (2) Any officer referred to in subsection (1) may in like manner inspect and take extracts from any book or record relating or reasonably believed to relate to any dealing in or with poisons wherever and by whomsoever kept and whether kept under the provisions of this Act or of any rules made thereunder or otherwise and for the purpose of such inspections or taking of extracts may enter at all reasonable times upon any place whatsoever.
 
-(3) In any case in which it appears to any magistrate upon the oath of any person that there is reasonable cause to believe that in any premises there is concealed or deposited any substance in respect of which an offence has been committed under this Act, the magistrate may, by warrant addressed to any police officer not below the rank of sergeant or to any senior officer of customs within the meaning of the Customs Act [Cap. 70] empower the officer to enter upon and search by day or night any premises and to take possession of any substance and to arrest any person being in the premises in whose possession the substance may be found or who is reasonably suspected by the officer to have concealed or deposited the substance therein, and any officer to whom the warrant may be directed may in case of obstruction or resistance break open any outer or inner door of the premises and any cupboard, chest, trunk or package or other receptacle and by force, if necessary, enter upon any part of the premises and remove any obstruction to such entry, search or seizure and detain any person found in the premises until the search has been completed.
+(3) In any case in which it appears to any magistrate upon the oath of any person that there is reasonable cause to believe that in any premises there is concealed or deposited any substance in respect of which an offence has been committed under this Act, the magistrate may, by warrant addressed to any police officer not below the rank of sergeant or to any senior officer of customs within the meaning of the Customs Act [Cap. 70], empower the officer to enter upon and search by day or night any premises and to take possession of any substance and to arrest any person being in the premises in whose possession the substance may be found or who is reasonably suspected by the officer to have concealed or deposited the substance therein, and any officer to whom the warrant may be directed may in case of obstruction or resistance break open any outer or inner door of the premises and any cupboard, chest, trunk or package or other receptacle and by force, if necessary, enter upon any part of the premises and remove any obstruction to such entry, search or seizure and detain any person found in the premises until the search has been completed.
+
+[15
 
 [21/73]
 
+[21/73]
+
+[14/80]
+
 ### Powers of exemption
 
-16\. The Minister may by order published in theGazetteexempt from the operation of this Act or of any specific provision thereof —
+15\. The Minister may by order published in theGazetteexempt from the operation of this Act or of any specific provision thereof —
 
-(a) any specified person or class or persons; or
+(a) any specified person or class of persons; or
 
 (b) any chemical commonly used for any process in connection with a trade, manufacture or industry,
 
 but every such exemption shall be subject to such instructions and conditions as the Minister may think fit to impose either generally or in any particular case.
 
+[16
+
 ### Penalties
 
-17\.—(1) Any person who acts in contravention of any of the provisions of this Act shall, except in so far as his act comes within one of the exemptions made by sections 7 and 8, be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
+16\.—(1) Any person who acts in contravention of any of the provisions of this Act shall, except in so far as his act comes within one of the exemptions made by sections 7 and 8, be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
 
-[14/80]
-
-[Act 21 of 1987 wef 11/09/1987]
-
-(2) Any poison in respect of which an offence has been committed in contravention of any provision of this Act or of any rule made thereunder by any unlicensed person shall, upon that person being convicted of that offence, be forfeited and shall be handed over to the Director of Medical Services for disposal.
+(2) Any poison in respect of which an offence has been committed in contravention of any provision of this Act or of any rules made thereunder by any unlicensed person shall, upon that person being convicted of that offence, be forfeited and shall be handed over to the Director of Medical Services for disposal.
 
 (3) Every penalty or forfeiture imposed under this Act shall be in addition to and not in substitution for any other penalty to which the accused may be liable under any other written law and no conviction under this Act shall be pleaded in any civil proceedings in mitigation of damages claimed against the person convicted.
 
-(4) Where an agent or servant, in the course of his employment, does, or omits to do, an act the doing of which or omission to do which by his principal or employer would be an offence under this Act or any rules made thereunder he shall be guilty of that offence, and, where it is proved that the act or omission was committed with the consent or connivance of, or is attributable to any neglect on the part of, his principal or employer, the principal or employer shall be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+(4) Where an agent or employee, in the course of his employment, does, or omits to do, an act the doing of which or omission to do which by his principal or employer would be an offence under this Act or any rules made thereunder he shall be guilty of that offence, and, where it is proved that the act or omission was committed with the consent or connivance of, or is attributable to any neglect on the part of, his principal or employer, the principal or employer shall be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
 
 (5) Where an offence committed by a body corporate under this Act or any rules made thereunder is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate or any person purporting to act in any such capacity, he, as well as the body corporate, shall be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
 
+[17
+
+[14/80]
+
+[21/87]
+
 ### Jurisdiction
 
-18\. A District Court or a Magistrate’s Court shall have jurisdiction to hear and determine all prosecutions under this Act and, notwithstanding anything to the contrary in the Criminal Procedure Code [Cap. 68], a District Court shall have power to impose the full penalty or punishment provided by this Act.
+17\. A District Court or a Magistrate’s Court shall have jurisdiction to hear and determine all prosecutions under this Act and, notwithstanding anything to the contrary in the Criminal Procedure Code, a District Court shall have power to impose the full penalty or punishment provided by this Act.
+
+[18
 
 ### Sanction to prosecute
 
-19\.—(1) No prosecution shall be instituted under this Act without the sanction in writing of the Attorney-General or any person authorised thereto by him in writing to grant such sanctions.
+18\.—(1) No prosecution shall be instituted under this Act without the sanction in writing of the Attorney-General or any person authorised thereto by him in writing to grant such sanctions.
 
 (2) In any prosecution under this Act the burden of proving that any poison found in the possession of the accused was not kept for sale shall be upon the accused.
 
+[19
+
 ### Prohibition of sale to persons under 18 years
 
-20\.—(1) No poison shall be sold to any person under 18 years of age. Any person contravening this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
-
-[Act 21 of 1987 wef 11/09/1987]
+19\.—(1) No poison shall be sold to any person under 18 years of age. Any person contravening this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
 
 (2) It shall be a sufficient defence to any charge under subsection (1) that the person charged had reasonable cause to believe that the person to whom the sale was made was above the age of 18 years.
 
+[20
+
+[21/87]
+
 ### Rules
 
-21\.—(1) The Minister may make rules to carry out the purposes of this Act and, in particular but without prejudice to the generality of the foregoing powers, may make rules with respect to any of the following matters or for any of the following purposes:
+20\.—(1) The Minister may make rules to carry out the purposes of this Act and, in particular but without prejudice to the generality of the foregoing powers, may make rules with respect to any of the following matters or for any of the following purposes:
 
 (a) the importation, use and control of poisons, and any precautionary measures relating thereto;
 
@@ -338,7 +352,7 @@ but every such exemption shall be subject to such instructions and conditions as
 
 (c) the sale, whether by wholesale or retail, or the supply of poisons, by or to any person or class of persons including —
 
-(i) regulating or restricting the sale or supply of poisons by persons licensed under section 11(1)(c) or (d) and prohibiting the sale of any specified poison or class of poisons by any class of such persons;
+(i) regulating or restricting the sale or supply of poisons by persons licensed under this Act and prohibiting the sale of any specified poison or class of poisons by any class of such persons;
 
 (ii) prohibiting the sale by retail of poisons included in Part I of the Poisons List except on a prescription duly signed by a medical practitioner, registered dentist or registered veterinary surgeon, and prescribing the form and regulating the use of prescriptions given for the purpose of rules made under this paragraph; and
 
@@ -366,15 +380,17 @@ but every such exemption shall be subject to such instructions and conditions as
 
 (n) prescribing that any act or omission in contravention of any rule shall be an offence punishable by a fine not exceeding $5,000 or imprisonment for a term not exceeding 2 years or both.
 
-[Act 21 of 1987 wef 11/09/1987]
+[21/87]
 
-(2) All rules made under this Act shall be published in theGazetteand shall be presented to Parliament as soon as possible after publication and if a resolution is passed pursuant to a motion notice whereof has been given for a sitting day not later than the first available sitting day of Parliament next after the expiry of 3 months from the date when the rules are so presented annulling the rules or any part thereof as from a specified date, the rules or such part thereof, as the case may be, shall thereupon become void as from that date but without prejudice to the validity of anything previously done thereunder or to the making of new rules.
+(2) All rules made under this Act shall be published in theGazetteand shall be presented to Parliament as soon as possible after publication and if a resolution is passed pursuant to a motion notice whereof has been given for a sitting day not later than the first available sitting day of Parliament next after the expiry of 3 months from the date when the rules are so presented annulling the rules or any part thereof as from a specified date, the rules or such part thereof, as the case may be, shall thereupon become void as from the date but without prejudice to the validity of anything previously done thereunder or to the making of new rules.
+
+[21
 
 ## THE SCHEDULE
 
 Section 2.
 
-Poisons List
+Poisons list
 
 In the construction of this List, unless the contrary intention appears —
 
@@ -1782,7 +1798,11 @@ Mequitazine
 
 Mercaptopurine; its salts; derivatives of mercaptopurine; their salts
 
-Mercury, oxides of; mercuruos chloride; organic compounds of mercury which contain a methyl (CH3) group directly linked to the mercury atom; which are intended for the treatment of human ailments
+Mercury, oxides of; mercuruos chloride; organic compounds of mercury which contain a methyl (CH
+
+3
+
+) group directly linked to the mercury atom; which are intended for the treatment of human ailments
 
 Mescaline, and other derivatives of phenethylamine formed by substitution in the aromatic ring; their salts
 
@@ -2530,7 +2550,7 @@ Sodium apolate
 
 Sodium cromoglycate
 
-Sodium flouride; which are intended for the treatment of human ailments
+Sodium fluoride; which are intended for the treatment of human ailments
 
 Sodium valproate
 
@@ -2806,7 +2826,7 @@ Trimeprazine; its salts
 
 Trimetaphan; its salts
 
-Trimetadizine; its salts
+Trimetazidine; its salts
 
 Trimethoprim
 
@@ -2856,7 +2876,7 @@ Vasopressins, natural and synthetic
 
 Verapamil; its salts
 
-Veratrum; alkaloids of; its quarternary compounds, their salts
+Veratrum, alkaloids of; its quarternary compounds, their salts
 
 Vidarabine
 
@@ -2886,7 +2906,7 @@ Zoxazolamine; its salts
 
 Part II
 
-Acetic acid
+Acetic Acid
 
 Acrolein
 
@@ -2930,7 +2950,7 @@ Sodium thioarsenates
 
 Benzene
 
-Boric acid; sodium borate; which are not in medicinal peparations, cosmetics, toilet preparations and substances being preparations intended for human consumption
+Boric acid; sodium borate; which are not in medicinal preparations, cosmetics, toilet preparations and substances being preparations intended for human consumption
 
 Boron trichloride
 
@@ -3104,7 +3124,7 @@ Hydrazine anhydrous; hydrazine aqueous solutions
 
 Hydrochloric acid
 
-Hydrofluoric acid; alkali metal bifluorides; ammonium bifluoride; potassium fluoride; potassium silicofluoride; silicofluric acid; sodium fluoride; sodium silicofluoride
+Hydrofluoric acid; alkali metal bifluorides; ammonium bifluoride; potassium fluoride; potassium silicofluoride; silicofluoric acid; sodium fluoride; sodium silicofluoride
 
 Hydrogen chloride, all forms
 
@@ -3118,7 +3138,7 @@ Isocyanates
 
 Lead tetra-ethyl and similar lead containing compounds
 
-Mercuric chloride; mercuric iodide; organic compounds of mecury
+Mercuric chloride; mercuric iodide; organic compounds of mercury
 
 Metanil yellow (sodium salt of metanilylazo-diphenylamine)
 
@@ -3241,14 +3261,6 @@ Sulphur tetrafluoride
 Thallium, salts of
 
 Vinyl chloride monomer
-
-[S 279/83; S 205/85; S 342/85; S 211/86]
-
-[S 40/1988 wef 26/02/1988]
-
-[S 82/1988 wef 11/04/1988]
-
-[S 16/1989 wef 13/01/1989]
 
 ## LEGISLATIVE HISTORY
 
@@ -3384,3 +3396,5 @@ This Legislative History is provided for the convenience of users of the Poisons
 ||Date of commencement|11 April 1988|
 |49.|**G. N. No. S 16/1989—Poisons Act (Amendment of Schedule) Notification 1989**|
 ||Date of commencement|13 January 1989|
+|50.|**1989 Revised Edition—Poisons Act**|
+||Date of operation|15 March 1989|
