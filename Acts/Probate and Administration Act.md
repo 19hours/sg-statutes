@@ -162,7 +162,7 @@
 
 - [54 Order to bring in will, etc.](#Order-to-bring-in-will-etc)
 
-- [55 Grant to official assignee in cases of delay](#Grant-to-official-assignee-in-cases-of-delay)
+- [55 Grant to Public Trustee in cases of delay](#Grant-to-Public-Trustee-in-cases-of-delay)
 
 - [56 Death of payee](#Death-of-payee)
 
@@ -176,9 +176,9 @@
 
 - [61 Letters of administration granted to consular officer to pass to his successors in office](#Letters-of-administration-granted-to-consular-officer-to-pass-to-his-successors-in-office)
 
-- [62 Administration by official assignee](#Administration-by-official-assignee)
+- [62 Administration by Public Trustee](#Administration-by-Public-Trustee)
 
-- [63 Payment for minor’s maintenance, etc., out of property not exceeding $25,000 in value held by official assignee](#Payment-for-minor’s-maintenance-etc-out-of-property-not-exceeding-$25000-in-value-held-by-official-assignee)
+- [63 Payment for minor’s maintenance, etc., out of property not exceeding $25,000 in value held by Public Trustee](#Payment-for-minor’s-maintenance-etc-out-of-property-not-exceeding-$25000-in-value-held-by-Public-Trustee)
 
 - [64 Exemption from necessity of giving notice of distribution of property of less than $10,000 in value](#Exemption-from-necessity-of-giving-notice-of-distribution-of-property-of-less-than-$10000-in-value)
 
@@ -188,9 +188,11 @@
 
 - [67 Testamentary and funeral expenses](#Testamentary-and-funeral-expenses)
 
-- [68 Letters of administration granted to official assignee pass to his successor in office](#Letters-of-administration-granted-to-official-assignee-pass-to-his-successor-in-office)
+- [68 Where funds of estate cannot be immediately distributed](#Where-funds-of-estate-cannot-be-immediately-distributed)
 
 - [69 Power of registrar to grant probate or letters of administration in uncontested cases](#Power-of-registrar-to-grant-probate-or-letters-of-administration-in-uncontested-cases)
+
+- [70 Transitional provision](#Transitional-provision)
 
 [**FIRST SCHEDULE Rules as to payment of debts where estate is insolvent**](#FIRST-SCHEDULE-Rules-as-to-payment-of-debts-where-estate-is-insolvent)
 
@@ -244,13 +246,15 @@ PRELIMINARY
 
 “letters of administration with the will annexed” means a grant under the seal of the court issuing the same, authorising the person or persons therein named to administer a testator’s estate in compliance with the directions contained in his will, and in accordance with law;
 
-“official assignee” includes any officer appointed by the Minister to discharge the duties of official assignee in bankruptcy;
-
 “prescribed form” means the form prescribed by rules made under any law for the time being in force relating to the courts;
 
 “probate” means a grant under the seal of the court issuing the same, authorising the executor or executors expressly or impliedly appointed by a testator’s will, or one or more of them, to administer the testator’s estate in compliance with the directions contained in his will, and in accordance with law;
 
 “probate action” means a cause or matter in which a petition for probate or letters of administration is contested by any person, and includes any application to alter or revoke the grant of any probate or letters of administration;
+
+“Public Trustee” means the Public Trustee appointed under the Public Trustee Act (Cap. 260) and includes an Assistant Public Trustee appointed under that Act;
+
+[6/2004 wef 08/03/2004]
 
 “registrar” means —
 
@@ -496,7 +500,7 @@ OATH
 
 28\.—(1) Upon the grant of any probate or letters of administration, the grantee shall take an oath in the prescribed form, faithfully to administer the estate and to account for the same.
 
-(2) Subsection (1) shall not apply where the grantee is the Public Trustee, the official assignee or a trust company.
+(2) Subsection (1) shall not apply where the grantee is the Public Trustee, or a trust company.
 
 ## PART V
 
@@ -510,7 +514,7 @@ SECURITY
 
 (3) The court or a judge or any registrar whom the Chief Justice may specially appoint for that purpose may for any sufficient reason increase or decrease the number of the sureties, or dispense with them, or reduce the amount of the bond.
 
-(4) Where the official assignee has obtained a grant of letters of administration, he shall not be required to give security.
+(4) Where the Public Trustee has obtained a grant of letters of administration, he shall not be required to give security.
 
 (5) When the administrator is entitled to the whole of the estate after payment of the debts, sureties in the bond may ordinarily be dispensed with.
 
@@ -622,7 +626,7 @@ the real and personal estate of which the testator disposes by the will shall ve
 
 ### Receiver pending grant
 
-39\. Where any person dies leaving property within Singapore, the court or a judge may, if it appears, on the application by motion of the official assigneeor of any person claiming to be interested in the property, or having the custody or control thereof at the time of the death of the deceased, or being at such time an attorney of the deceased, that there is danger that the property may be wasted, appoint the official assignee or such other person as the court or judge thinks fit, to be a receiver of the property pending a grant of probate or letters of administration.
+39\. Where any person dies leaving property within Singapore, the court or a judge may, if it appears, on the application by motion of the Public Trustee or of any person claiming to be interested in the property, or having the custody or control thereof at the time of the death of the deceased, or being at such time an attorney of the deceased, that there is danger that the property may be wasted, appoint the Public Trustee or such other person as the court or judge thinks fit, to be a receiver of the property pending a grant of probate or letters of administration.
 
 [38
 
@@ -634,9 +638,11 @@ the real and personal estate of which the testator disposes by the will shall ve
 
 ### Application of rules relating to receivers
 
-41\. A receiver appointed under section 39 shall be subject to the Rules of Court (Cap. 322, R 5) relating to receivers generally, but neither the official assignee nor the Public Trustee shall be required to furnish security.
+41\. A receiver appointed under section 39 shall be subject to the Rules of Court (Cap. 322, R 5) relating to receivers generally, but the Public Trustee shall not be required to furnish security.
 
 [40
+
+[6/2004 wef 08/03/2004]
 
 ### Penalty
 
@@ -752,7 +758,7 @@ GENERAL
 
 54\. The court or a judge may, on the application of any person interested, if it appears that there is reason to believe that any will or other testamentary document of a deceased person is in the possession or under the control of any person, or that any person has knowledge of the existence of such a will or document, order that that person do, within a time named, produce the will or document at the registry, or attend at a time named before a court or a judge, for the purpose of being examined in relation to the will or document.
 
-### Grant to official assignee in cases of delay
+### Grant to Public Trustee in cases of delay
 
 55\.—(1) In the following cases:
 
@@ -768,9 +774,13 @@ GENERAL
 
 (f) where after the death of a last surviving executor or administrator of a deceased person’s estate 6 months have elapsed and no application for the representation of the estate has been made,
 
-letters of administration with or without the will annexed may be granted to the official assignee , or to such other person as the court thinks fit.
+letters of administration with or without the will annexed may be granted to the Public Trustee, or to such other person as the court thinks fit.
 
-(2) Nothing in this section shall be construed so as to prevent the official assignee from applying for or being granted letters of administration of the estate of a deceased person with or without the will annexed before the expiration of a period of 6 months of the death of the deceased.
+[6/2004 wef 08/03/2004]
+
+(2) Nothing in this section shall be construed so as to prevent the Public Trustee from applying for or being granted letters of administration of the estate of a deceased person with or without the will annexed before the expiration of a period of 6 months of the death of the deceased.
+
+[6/2004 wef 08/03/2004]
 
 ### Death of payee
 
@@ -834,51 +844,63 @@ and no person is present in Singapore at the time of his death who is rightfully
 
 (2) The letters of administration referred to in subsection (1) and the estate of the deceased shall pass from such consular officer to his successors in office, and shall vest in each such consular officer for the time being during his continuance in office without any order of the court or any conveyance, assignment or other instrument whatsoever.
 
-### Administration by official assignee
+### Administration by Public Trustee
 
-62\.—(1) Where any person dies leaving property in Singapore not exceeding $50,000 in value (without deduction for debts but not including the value of any property which the deceased possessed or was entitled to as trustee and not beneficially) the official assignee, after satisfying himself that no petition for letters of administration is pending, may, if he thinks fit, by writing signed by him declare that he undertakes to administer such property.
+62\.—(1) Where any person dies leaving property in Singapore not exceeding $50,000 in value (without deduction for debts but not including the value of any property which the deceased possessed or was entitled to as trustee and not beneficially) the Public Trustee, after satisfying himself that no petition for letters of administration is pending, may, if he thinks fit, by writing signed by him declare that he undertakes to administer such property.
 
-(2) Upon a declaration under subsection (1), the official assignee shall be empowered to administer such property as though letters of administration, with or without the will annexed, of the estate of the deceased person had been granted to him, and his receipt shall be a sufficient discharge to any person who pays any money or delivers any property to him.
+(2) Upon a declaration under subsection (1), the Public Trustee shall be empowered to administer such property as though letters of administration, with or without the will annexed, of the estate of the deceased person had been granted to him, and his receipt shall be a sufficient discharge to any person who pays any money or delivers any property to him.
 
 (3) Notice of every declaration made under subsection (1) shall be filed in court.
 
 [7/76]
 
-(4) At any time prior to the distribution of any part of the property among the beneficiaries thereof under this section the official assignee may, if he thinks it expedient to do so, notwithstanding any declaration made by him under subsection (1), decline to proceed with the administration of the property in his hands until a grant of representation has been obtained in respect of the estate of the deceased.
+(4) At any time prior to the distribution of any part of the property among the beneficiaries thereof under this section the Public Trustee may, if he thinks it expedient to do so, notwithstanding any declaration made by him under subsection (1), decline to proceed with the administration of the property in his hands until a grant of representation has been obtained in respect of the estate of the deceased.
 
-### Payment for minor’s maintenance, etc., out of property not exceeding $25,000 in value held by official assignee
+### Payment for minor’s maintenance, etc., out of property not exceeding $25,000 in value held by Public Trustee
 
-63\.—(1) Where any property not exceeding $25,000 in value is held by the official assignee, whether by virtue of a grant of letters of administration to him or by virtue of the powers conferred on him by this Act, and the property is held by him upon trust for any person for any interest whatsoever, whether vested or contingent, then, subject to any prior interest or charges affecting that property, the official assignee may in his sole discretion, during the minority of any such person, in respect of that person’s maintenance, education or benefit make payments of the whole or such part of the income and capital money of such property as may in all the circumstances be reasonable.
-
-[7/76]
-
-(2) When the property so held exceeds $25,000 but does not exceed $50,000 in value, the official assignee may make such payments of capital money to the extent of $25,000.
+63\.—(1) Where any property not exceeding $25,000 in value is held by the Public Trustee, whether by virtue of a grant of letters of administration to him or by virtue of the powers conferred on him by this Act, and the property is held by him upon trust for any person for any interest whatsoever, whether vested or contingent, then, subject to any prior interest or charges affecting that property, the Public Trustee may in his sole discretion, during the minority of any such person, in respect of that person’s maintenance, education or benefit make payments of the whole or such part of the income and capital money of such property as may in all the circumstances be reasonable.
 
 [7/76]
 
-(3) Such payments may be made to the parent or guardian of such person or otherwise as the official assignee may, in his discretion, determine, and whether or not there is —
+[6/2004 wef 08/03/2004]
+
+(2) When the property so held exceeds $25,000 but does not exceed $50,000 in value, the Public Trustee may make such payments of capital money to the extent of $25,000.
+
+[7/76]
+
+[6/2004 wef 08/03/2004]
+
+(3) Such payments may be made to the parent or guardian of such person or otherwise as the Public Trustee may, in his discretion, determine, and whether or not there is —
 
 (a) any other fund applicable to the same purpose; or
 
 (b) any person bound by law to provide for such person’s maintenance or education.
 
+[6/2004 wef 08/03/2004]
+
 ### Exemption from necessity of giving notice of distribution of property of less than $10,000 in value
 
-64\.—(1) Where the total value of any property (without deduction for debts, but not including the value of any property which the deceased possessed or was entitled to as trustee and not beneficially) administered by the official assignee, whether by virtue of a grant of letters of administration to him or by virtue of the powers conferred on him by this Act, does not exceed $10,000, it shall not be necessary for the official assignee to give notice by advertisement in theGazetteor otherwise of his intention to distribute the estate or require any person interested to send in particulars of his claim against the estate, but the official assignee may proceed forthwith to convey or distribute the estate or any part thereof to or among the persons entitled thereto, having regard only to the claims, whether formal or not, of which the official assignee then had notice.
+64\.—(1) Where the total value of any property (without deduction for debts, but not including the value of any property which the deceased possessed or was entitled to as trustee and not beneficially) administered by the Public Trustee, whether by virtue of a grant of letters of administration to him or by virtue of the powers conferred on him by this Act, does not exceed $10,000, it shall not be necessary for the Public Trustee to give notice by advertisement in theGazetteor otherwise of his intention to distribute the estate or require any person interested to send in particulars of his claim against the estate, but the Public Trustee may proceed forthwith to convey or distribute the estate or any part thereof to or among the persons entitled thereto, having regard only to the claims, whether formal or not, of which the Public Trustee then had notice.
 
-(2) The official assignee shall not, as respects the property conveyed or distributed under subsection (1), be liable to any person of whose claim the official assignee has not had notice at the time of conveyance or distribution.
+[6/2004 wef 08/03/2004]
+
+(2) The Public Trustee shall not, as respects the property conveyed or distributed under subsection (1), be liable to any person of whose claim the Public Trustee has not had notice at the time of conveyance or distribution.
+
+[6/2004 wef 08/03/2004]
 
 (3) Nothing in this section shall —
 
 (a) prejudice the right of any person to follow the property representing the same, into the hands of any person, other than a purchaser, who may have received it; or
 
-(b) free the official assignee from any obligation to make searches similar to those which an intending purchaser would be advised to make or obtain.
+(b) free the Public Trustee from any obligation to make searches similar to those which an intending purchaser would be advised to make or obtain.
 
 [7/76]
 
+[6/2004 wef 08/03/2004]
+
 ### When interest is payable into Consolidated Fund
 
-65\.—(1) Where any trust money in the hands of the official assigneeis normally insufficient to earn bank interest if kept in a bank current account the money may be kept in a general banking account or deposited in any bank.
+65\.—(1) Where any trust money in the hands of the Public Trustee is normally insufficient to earn bank interest if kept in a bank current account the money may be kept in a general banking account or deposited in any bank.
 
 (2) Any interest allowed by the bank shall be paid into the Consolidated Fund.
 
@@ -894,23 +916,39 @@ and no person is present in Singapore at the time of his death who is rightfully
 
 (2) The registrar may, in the course of the taking of the administration accounts of executors or administrators, exercise the powers conferred on the court or a judge by subsection (1).
 
-### Letters of administration granted to official assignee pass to his successor in office
+### Where funds of estate cannot be immediately distributed
 
-68\.—(1) When letters of administration have been granted to the official assignee under this Act after 1st January 1937, the said letters of administration and the estate of the deceased shall pass from official assignee to official assignee, and shall vest in the official assignee for the time being during his continuance in office, without any order of the court or any conveyance, assignment or other instrument whatsoever.
-
-(2) Where, upon the conclusion of the administration of the estate of a person dying testate or intestate, there remain in the hands of the official assignee, or of any other personal representative, funds of which he is unable to dispose immediately by distribution in accordance with law by reason of the inability of the person entitled to give a discharge, through lack of legal capacity or otherwise, or for any other cause which to the Public Trustee appears sufficient, the official assignee or other legal representative, as the case may be, may, if the Public Trustee consents to accept the same, pay those funds to the Public Trustee who —
+68\.—(1) Where, upon the conclusion of the administration of the estate of a person dying testate or intestate, there remain in the hands of the personal representative funds of which he is unable to dispose immediately by distribution in accordance with law by reason of the inability of the person entitled to give a discharge, through lack of legal capacity or otherwise, or for any other cause which to the Public Trustee appears sufficient, the personal representative may, if the Public Trustee consents to accept the same, pay those funds to the Public Trustee who —
 
 (a) shall not be required to make any enquiry whether the administration has been conducted in accordance with law;
 
 (b) may accept those funds as a trustee for the person entitled, and apply the same for the benefit of such person; and
 
-(c) may for such purpose exercise all the powers conferred on the official assignee under section 63, as if the references in that section to the official assignee had been references to the Public Trustee.
+(c) may for such purpose exercise all the powers conferred on him under section 63.
 
-(3) The receipt of the Public Trustee may be accepted by the official assignee or other legal personal representative, as the case may be, and shall constitute a full and sufficient discharge in respect of such funds.
+(2) The receipt of the Public Trustee may be accepted by the personal representative and shall constitute a full and sufficient discharge in respect of such funds.
+
+[6/2004 wef 08/03/2004]
 
 ### Power of registrar to grant probate or letters of administration in uncontested cases
 
 69\. Notwithstanding anything to the contrary in this Act, the registrar may exercise and shall be deemed always to have had power to exercise, in uncontested matters and subject to rules made under any written law for the time being in force relating to the courts, all or any of the powers conferred upon the court by Parts II, III and X, and by section 55.
+
+### Transitional provision
+
+70\. As from the date of commencement of section 8 of the Statutes (Miscellaneous Amendments) Act 2004 —
+
+(a) any letters of administration granted to the official assignee;
+
+(b) any application made by the official assignee (whether for letters of administration or otherwise);
+
+(c) any estate or part thereof of a deceased person vested in or being administered by the official assignee; and
+
+(d) any other action (whether for the administration of the estate of a deceased person or otherwise) begun by the official assignee,
+
+under the provisions of this Act in force immediately before that date shall be deemed to have been so granted to, made by, vested in or administered or begun by the Public Trustee under the provisions of this Act in force as from that date, and any such application, administration or other action still pending on that date may be continued with by the Public Trustee in accordance with the provisions of this Act in force as from that date.
+
+[6/2004 wef 08/03/2004]
 
 FIRST SCHEDULE
 
@@ -1089,6 +1127,11 @@ This Legislative History is provided for the convenience of users of the Probate
 ||Date of commencement|25 February 1999|
 |16.|**2000 Revised Edition—Probate and Administration Act**|
 ||Date of operation|1 July 2000|
+|17.|**Act 6 of 2004—Statutes (Miscellaneous Amendments) Act 2004**|
+||Date of First Reading|5 January 2004|
+|||(Bill No. 4/2004 published on 6 January 2004)|
+||Date of Second and Third Readings|6 February 2004|
+||Date of commencement|8 March 2004 (except section 3)|
 ## COMPARATIVE TABLE
 
 Probate and Administration Act
