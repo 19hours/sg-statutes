@@ -318,9 +318,15 @@ but does not include the carrying tank of a road tanker, a tank container or a f
 
 (a) any premises, includes the person for the time being receiving the rent of the premises, whether on his own account or as agent or trustee or as receiver, or who would receive the rent if the premises were let to a tenant, and the person whose name is entered in the Valuation List prepared under section 10 of the Property Tax Act (Cap. 254);
 
-(b) any premises where building works are carried out, includes the developer and the building contractor; and
+(b) any premises where building works are carried out, includes the developer and the building contractor;
 
-(c) the common property of any building erected on land comprised in a strata subdivision plan approved by a competent authority, includes the management corporation having control of the building, and a managing agent appointed by a management corporation or by the Commissioner of Buildings under the Land Titles (Strata) Act (Cap. 158) and a liquidator appointed under that Act for the management corporation;
+(c) the common property of any subdivided building, includes the management corporation established under the Building Maintenance and Strata Management Act 2004 having control of the building, or the person receiving any rent or charge for the maintenance of that common property or any body corporate constituted under an order made by the Minister under section 3 of the HUDC Housing Estates Act (Cap. 131); and
+
+[47/2004 wef 01/04/2005]
+
+(d) the limited common property of any subdivided building, includes the subsidiary management corporation established under the Building Maintenance and Strata Management Act 2004 having control of the limited common property, or the person receiving any rent or charge for the maintenance of that limited common property;
+
+[47/2004 wef 01/04/2005]
 
 “pollution of the environment” means pollution of the environment due to the release (into any environmental medium) from any process of substances which are capable of causing harm to man or any other living organisms supported by the environment;
 
@@ -2894,6 +2900,10 @@ This Legislative History is provided for the convenience of users of the Environ
 ||Date of commencement|15 September 2004|
 |7.|**G. N. No. S 78/2005—Environmental Pollution Control Act (Amendment Of Second Schedule) Order 2005**|
 ||Date of commencement|16 February 2005|
+|8.|**Act 47 of 2004—Building Maintenance and Strata Management Act 2004**|
+||Date of First Reading|6 February 2004|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|1 April 2005|
 ## COMPARATIVE TABLE
 
 Environmental Protection and Management Act
