@@ -348,7 +348,11 @@ the Committee shall not later than the day before nomination day issue to the ap
 
 (a) a statutory declaration of his qualifications made and subscribed by the candidate in the prescribed form;
 
-(b) a statutory declaration made and subscribed by the candidate in the prescribed form stating that on nomination day he is not a member of any political party; and
+(b) a statutory declaration made and subscribed by the candidate in the prescribed form stating that on nomination day he is not a member of any political party;
+
+(ba) a political donation certificate issued to him by the Registrar of Political Donations under section 18(4) of the Political Donations Act 2000; and
+
+[20/2000 wef 15/02/2001]
 
 (c) the certificate issued under section 8.
 
@@ -388,9 +392,9 @@ the Committee shall not later than the day before nomination day issue to the ap
 
 ### Proceedings on nomination day
 
-11\.—(1) The Returning Officer shall, on nomination day, attend at the place of nomination from 11 a.m. until 12 noon to receive nominations papers, statutory declarations and certificates issued under section 8 (referred to in this Act as nomination papers).
+11\.—(1) The Returning Officer shall, on nomination day, attend at the place of nomination from 11 a.m. until 12 noon to receive nominations papers, statutory declarations, political donation certificates issued by the Registrar of Political Donations political donation certificates issued by the Registrar of Political Donations and certificates issued under section 8 (referred to in this Act as nomination papers).
 
-(2) Every nomination paper, statutory declaration and certificate must be delivered by the candidate to the Returning Officer together with a true copy of each on the day and at the place and between the hours specified in subsection (1), and if not so delivered, shall be rejected.
+(2) Every such nomination paper, statutory declaration and certificate must be delivered by the candidate to the Returning Officer together with a true copy of each on the day and at the place and between the hours specified in subsection (1), and if not so delivered, shall be rejected.
 
 (3) The Returning Officer shall forthwith cause a copy of the nomination papers to be posted in a conspicuous position outside the place of nomination.
 
@@ -1649,6 +1653,12 @@ This Legislative History is provided for the convenience of users of the Preside
 ||Date of commencement|14 May 1999|
 |10.|**1999 Revised Edition—Presidential Elections Act (Chapter 240A)**|
 ||Date of operation|30 December 1999|
+|11.|**Act 20 of 2000—Political Donations Act 2000**|
+||(Related amendments made to Act by)||
+||Date of First Reading|9 May 2000|
+|||(Bill No. 15/2000 published on 10 May 2000)|
+||Date of Second and Third Readings|22 May 2000|
+||Date of commencement|15 February 2001|
 ## COMPARATIVE TABLE
 
 Presidential Elections Act
