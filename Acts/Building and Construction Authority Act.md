@@ -1,16 +1,14 @@
-**Building and Construction Authority Act 1999**
+**Building and Construction Authority Act**
 
-**(No. 4 of 1999)**
+**(CHAPTER 30A)**
 
 **Table of Contents**
 
 [**Long Title**](#Building-and-Construction-Authority-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -92,63 +90,41 @@
 
 - [35 Regulations](#Regulations)
 
-- [36 Repeal, transitional and saving provisions](#Repeal-transitional-and-saving-provisions)
+- [36 Transitional and saving provisions](#Transitional-and-saving-provisions)
 
-- [37 Consequential amendments to other written laws](#Consequential-amendments-to-other-written-laws)
+[**Legislative History**](#Legislative-History)
 
-[**THE SCHEDULE Consequential Amendments**](#THE-SCHEDULE)
+[**Comparative Table**](#Comparative-Table)
 
-REPUBLIC OF SINGAPORE
+# Building and Construction Authority Act
 
-GOVERNMENT GAZETTE
+(CHAPTER 30A)
 
-ACTS SUPPLEMENT
+(Original Enactment: Act 4 of 1999)
 
-Published by Authority
+REVISED EDITION 2000
 
-NO. 5]
+(30th December 2000)
 
-Friday, February 19
+An Act to establish the Building and Construction Authority, to provide for its functions and powers, and for matters connected therewith.
 
-[1999
-
-The following Act was passed by Parliament on 20th January 1999 and assented to by the President on 26th January 1999:—
-
-Building and Construction Authority Act 1999
-
-(No. 4 of 1999)
-
-I assent.
-
-ONG TENG CHEONG,
-
-President.
-
-26th January 1999.
-
-Date of Commencement: 1st April 1999
-
-An Act to establish the Building and Construction Authority, to provide for its functions and powers, and for matters connected therewith, to repeal the Construction Industry Development Board Act (Chapter 51 of the 1985 Revised Edition) and the Land Improvement Act (Chapter 153 of the 1985 Revised Edition) and to make consequential amendments to certain other written laws.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st April 1999]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Building and Construction Authority Act 1999 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Building and Construction Authority Act.
 
 ### Interpretation
 
 2\. In this Act, unless the context otherwise requires —
 
-“appointed day” means the date of commencement of this Act;
-
 “Authority” means the Building and Construction Authority established under section 3;
 
-“Board” means the Construction Industry Development Board established under section 3 of the repealed Construction Industry Development Board Act (Cap. 51);
+“Board” means the Construction Industry Development Board established under section 3 of the repealed Construction Industry Development Board Act (Cap. 51, 1985 Ed.);
 
 “Chairman” means the Chairman of the Authority and includes any acting Chairman of the Authority;
 
@@ -190,7 +166,7 @@ ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF AUTHORITY
 
 (b) a Deputy Chairman; and
 
-(c) not less than 5 nor more than 12 other members,
+(c) not less than 5 and not more than 12 other members,
 
 all of whom shall be appointed by the Minister.
 
@@ -314,7 +290,9 @@ FUNCTIONS AND POWERS OF AUTHORITY
 
 ### Delegation of powers
 
-12\.—(1) The Authority may, from time to time, in respect of a specified matter or class of matters, by writing, delegate any of its powers to a member, officer or committee of the Authority.
+12\.—(1) The Authority may, from time to time, in respect of a specified matter or class of matters, by writing, delegate any of its powers to a member, officer or committee of the Authority .
+
+[12/2009 wef 28/02/2011]
 
 (2) Every member, officer or committee purporting to act pursuant to a delegation under this section shall, in the absence of proof to the contrary, be presumed to be acting in accordance with the terms of the delegation.
 
@@ -426,7 +404,7 @@ TRANSFER OF PROPERTY, LIABILITIES AND EMPLOYEES
 
 ### Transfer to Authority of property, assets and liabilities
 
-25\.—(1) As from the appointed day, such movable and immovable property vested in the Board, or in the Government as may be determined by the Minister for Finance and used or managed by the Building Control Division of the Public Works Department and all assets, interests, rights, privileges, liabilities and obligations of the Board or of the Government relating to the Building Control Division of the Public Works Department shall be transferred to and shall vest in the Authority without further assurance, act or deed.
+25\.—(1) As from 1st April 1999, such movable and immovable property vested in the Board, or in the Government as may be determined by the Minister for Finance and used or managed by the Building Control Division of the Public Works Department and all assets, interests, rights, privileges, liabilities and obligations of the Board or of the Government relating to the Building Control Division of the Public Works Department shall be transferred to and shall vest in the Authority without further assurance, act or deed.
 
 (2) If any question arises as to whether any particular property, or whether any particular asset, interest, right, privilege, liability or obligation has been transferred to or vested in the Authority under subsection (1), a certificate under the hand of the Minister for Finance shall be conclusive evidence that the property, asset, interest, right, privilege, liability or obligation was or was not so transferred or vested.
 
@@ -434,7 +412,7 @@ TRANSFER OF PROPERTY, LIABILITIES AND EMPLOYEES
 
 ### Transfer of employees
 
-26\.—(1) As from the appointed day, all persons employed immediately before that day by the Board and in the Building Control Division of the Public Works Department shall be transferred to the service of the Authority on terms no less favourable than those enjoyed by them immediately prior to their transfer.
+26\.—(1) As from 1st April 1999, all persons employed immediately before that date by the Board and in the Building Control Division of the Public Works Department shall be transferred to the service of the Authority on terms no less favourable than those enjoyed by them immediately prior to their transfer.
 
 (2) Until such time as terms and conditions of service are drawn up by the Authority, the scheme and terms and conditions of service in the Board or the Government, as the case may be, shall continue to apply to every person transferred to the service of the Authority under subsection (1) as if he were still in the employment of the Board or the Government.
 
@@ -452,15 +430,15 @@ TRANSFER OF PROPERTY, LIABILITIES AND EMPLOYEES
 
 ### No benefits in respect of abolition or reorganisation of office
 
-28\. Notwithstanding the provisions of the Pensions Act (Cap.225), no person who is transferred to the service of the Authority under section 26 shall be entitled to claim any benefit under that Act on the ground that he has been retired from the service of the Government on account of abolition or reorganisation of office in consequence of the establishment and incorporation of the Authority.
+28\. Notwithstanding the provisions of the Pensions Act (Cap. 225), no person who is transferred to the service of the Authority under section 26 shall be entitled to claim any benefit under that Act on the ground that he has been retired from the service of the Government on account of abolition or reorganisation of office in consequence of the establishment and incorporation of the Authority.
 
 ### Existing contracts
 
-29\. All deeds, bonds, agreements, instruments and arrangements, subsisting immediately before the appointed day to which the Board or the Government is a party and relating to the Building Control Division of the Public Works Department or to any person transferred to the service of the Authority under section 26 shall continue in force on and after that day and shall be enforceable by or against the Authority as if the Authority had been named therein or had been a party thereto instead of the Board or the Government.
+29\. All deeds, bonds, agreements, instruments and arrangements, subsisting immediately before 1st April 1999 to which the Board or the Government is a party and relating to the Building Control Division of the Public Works Department or to any person transferred to the service of the Authority under section 26 shall continue in force on and after that date and shall be enforceable by or against the Authority as if the Authority had been named therein or had been a party thereto instead of the Board or the Government.
 
 ### Continuation and completion of disciplinary proceedings
 
-30\.—(1) Where on the appointed day any disciplinary proceedings were pending against any employee of the Board or the Government transferred to the service of the Authority, the proceedings shall be carried on and completed by the Authority; but where on that day any matter was in the course of being heard or investigated or had been heard or investigated by a committee acting under due authority but no order or decision had been rendered thereon, the committee shall complete the hearing or investigation and make such order, a ruling or a direction as it could have made under the authority vested in it before that day.
+30\.—(1) Where on 1st April 1999 any disciplinary proceedings were pending against any employee of the Board or the Government transferred to the service of the Authority, the proceedings shall be carried on and completed by the Authority; but where on 1st April 1999 any matter was in the course of being heard or investigated or had been heard or investigated by a committee acting under due authority but no order or decision had been rendered thereon, the committee shall complete the hearing or investigation and make such order, a ruling or a direction as it could have made under the authority vested in it before that date.
 
 (2) Any order, ruling or direction made or given by a committee pursuant to this section shall be treated as an order, ruling or direction of the Authority and have the same force or effect as if it had been made or given by the Authority pursuant to the authority vested in the Authority under this Act.
 
@@ -504,114 +482,62 @@ MISCELLANEOUS
 
 (c) prescribing any matters which are necessary or convenient to be prescribed for carrying out or giving effect to the provisions of this Act.
 
-### Repeal, transitional and saving provisions
+### Transitional and saving provisions
 
-36\.—(1) The Construction Industry Development Board Act (Cap. 51) and the Land Improvement Act (Cap. 153) are repealed.
+36\.—(1) Any scheme, contract, document, certificate, licence, permission or resolution prepared, made, granted or approved under the repealed Construction Industry Development Board Act (Cap. 51, 1985 Ed.) shall, so far as it is not inconsistent with the provisions of this Act, continue and be deemed to have been prepared, made, granted or approved under this Act.
 
-(2) Any scheme, contract, document, certificate, licence, permission or resolution prepared, made, granted or approved under the repealed Construction Industry Development Board Act shall, so far as it is not inconsistent with the provisions of this Act, continue and be deemed to have been prepared, made, granted or approved under this Act.
+(2) Any subsidiary legislation made under the repealed Construction Industry Development Board Act and in force immediately before 1st April 1999 shall, so far as it is not inconsistent with the provisions of this Act, continue in force as if made under this Act until it is revoked by subsidiary legislation made under this Act.
 
-(3) Any subsidiary legislation made under the repealed Construction Industry Development Board Act and in force immediately before the appointed day shall, so far as it is not inconsistent with the provisions of this Act, continue in force as if made under this Act until it is revoked by subsidiary legislation made under this Act.
-
-(4) Where in any written law reference is made to —
+(3) Where in any written law reference is made to —
 
 (a) the Construction Industry Development Board, such reference shall be read as a reference to the Building and Construction Authority; and
 
-(b) the Building Authority, such reference shall be read as a reference to the Commissioner of Building Control unless otherwise provided in the Schedule.
+(b) the Building Authority, such reference shall be read as a reference to the Commissioner of Building Control.
 
-### Consequential amendments to other written laws
+## LEGISLATIVE HISTORY
 
-37\. The enactments specified in the first column of the Schedule are amended in the manner set out in the second column thereof.
+Building and Construction Authority Act
 
-## THE SCHEDULE
+(CHAPTER 30A)
 
-Section 37
+This Legislative History is provided for the convenience of users of the Building and Construction Authority Act. It is not part of this Act.
 
-Consequential Amendments
+||||
+|:-|:-|:-|
+|1.|**Act 4 of 1999—Building and Construction Authority Act 1999**|
+||Date of First Reading|23 November 1998|
+|||(Bill No. 51/98 published on 24 November 1998)|
+||Date of Second and Third Readings|20 January 1999|
+||Date of commencement|1 April 1999|
+|2.|**2000 Revised Edition—Building and Construction Authority Act (Chapter 30A)**|
+||Date of operation|30 December 2000|
+## COMPARATIVE TABLE
 
-First column
+Building and Construction Authority Act
 
-Second column
+(CHAPTER 30A)
 
-(1) Building Control Act (Chapter 29, 1990 Ed.)
+The following provisions in the Building and Construction Authority Act 1999 (Act 4 of 1999) have been renumbered by the Law Revision Commissioners in this 2000 Revised Edition.
 
-(a) Section 2
+This Comparative Table is provided for the convenience of users. It is not part of the Building and Construction Authority Act.
 
-(i) Delete the definition of “analyst” and substitute the following definition:
+2000 Ed\. 
 
-“
+Act 4 of 1999 
 
-“analyst” means an analyst approved by the Commissioner of Building Control;
+Omitted
 
-”.
+36 — (1)
 
-(ii)Insert, immediately after the definition of “certificate of statutory completion”, the following definition:
+36 — (1), (2) and (3)
 
-“
+36 — (2), (3) and (4)
 
-“Commissioner of Building Control,” in relation to this Act or any Part or provision of this Act, means any Commissioner of Building Control appointed under section 3(1) to be responsible for the operation of this Act or that Part or provision, as the case may be;
+Omitted
 
-”.
+37 
 
-(b) Section 3
+Omitted
 
-Delete subsection (1) and substitute the following subsection:
-
-“
-
-(1) The Minister may, by notification in theGazette, appoint such person or persons as he thinks fit to be the Commissioner of Building Control responsible for the operation of this Act, either generally or for any particular Part or provision of this Act or for any particular regulations made under this Act, and may in the notification specify the extent of and manner in which that responsibility is to be exercised.
-
-”.
-
-(c) Section 50(2)
-
-Insert, immediately after paragraph (i), the following paragraph:
-
-“
-
-(j) measures to improve efficiency and standardisation in the construction industry relating to design, processes, construction techniques, products and materials;
-
-”.
-
-(d) Sections 2(1) (definition of “temporary building”), 3(2) and (3), 5(1) and (2), 6(1), (2), (3A), (3B), (3C), (4), (6) and (7), 7(1), (2) and (3), 9(2), (3) and (4), 10(4) and (5), 11(2), (3) and (4), 12(1), (3), (5) and (6), 13(1), (3), (4) and (5), 14(1) and (2), 15(1) and (2), 16(2), (3), (4), (5), (6), (7) and (8), 18(2) and (3), 19(1) and (2), 20(1), (2) and (4), 21(1) and (2), 23(1), (2) and (3), 24(1), (2), (3), (4) and (5), 25(1), (2), (3), (4), (5) and (6), 28(1), (5) (5A) and (6), 29(1), 33(1), (2) and (3), 34(1), (4) and (5), 36, 38(1), (2), (3), (4) and (5), 39(1), 41(1), (2) and the marginal note, 42(1), (2) and the marginal note, 43(3), 44(1), 46(3) and (4), 49(1), 50(2), 51(1), (2) and (3) and 54(3A)
-
-Delete the words “Building Authority” wherever they appear and substitute in each case the words “Commissioner of Building Control”.
-
-(2) Foreshores Act
-
-
-
-
-(Chapter 113, 1985 Ed.)
-
-Section 3
-
-Delete the words “Building Authority” in subsections (1), (2) and (3) and substitute in each case the words “Urban Redevelopment Authority”.
-
-(3) Railways Act
-
-
-
-
-(Chapter 263, 1985 Ed.)
-
-(a) Sections 8(3), 14, 16(2) and 58(3)
-
-Delete the words “Building Authority” and substitute in each case the words “Land Transport Authority”.
-
-(b) Section 18(2)
-
-Delete the words “Building Authority or a Deputy Director-General of Public Works” and substitute the words “Land Transport Authority”.
-
-(4) Sand and Granite Quarries Act
-
-
-
-
-(Chapter 284, 1985 Ed.)
-
-Section 3
-
-Delete the word “public” in the second line.
-
-(Note for items (2) and (3): By virtue of section 54(2) of the Street Works Act (Cap. 320A), reference to Director-General of Public Works shall be read as a reference to Building Authority)
+The Schedule (Consequential amendments)
 
