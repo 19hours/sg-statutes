@@ -76,7 +76,7 @@
 
 - [28A Issue of shares, etc.](#Issue-of-shares-etc)
 
-- [29 Investment](#Investment)
+- [29 Power of investment](#Power-of-investment)
 
 - [30 Accounts to be kept](#Accounts-to-be-kept)
 
@@ -134,7 +134,7 @@ PRELIMINARY
 
 “inmate” means a person who is detained in any approved institution under the Misuse of Drugs Act [Cap. 185] or in such other institution or place as may be prescribed;
 
-[Act 23/87 wef 01/11/1987]
+[Act 23/87 wef 01/11/1987 vide S260/87]
 
 “member” means a member of the Corporation and includes the Chairman and the Deputy Chairman;
 
@@ -416,9 +416,11 @@ FINANCIAL PROVISIONS
 
 [5/2002 wef 15/07/2002]
 
-### Investment
+### Power of investment
 
-29\. Moneys belonging to the Corporation may from time to time, subject to the approval of the Minister, be invested in any of the securities in which trust funds may, by any written law for the time being in force relating to trustees, be invested.
+29\. The Corporation may invest its moneys in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
+
+[45/2004 wef 15/12/2004]
 
 ### Accounts to be kept
 
@@ -523,3 +525,9 @@ This Legislative History is provided for the convenience of users of the Singapo
 |||(Bill No. 7/2002 published on 4 May 2002)|
 ||Date of Second and Third Readings|24 May 2002|
 ||Dates of commencement|15 July 2002|
+|5.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 September 2004|
+|||(Bill No. 43/2004 published on 22 September 2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|15 December 2004|
