@@ -494,6 +494,8 @@ PIONEER INDUSTRIES
 
 [11/2004 wef 27/11/2002]
 
+(2) [Deleted by Act 11/2004 wef 27/11/2002]
+
 (3) Where the carrying on of such separate trade results in a loss in any accounting period, the loss shall be brought into the computation of the income of the pioneer enterprise for that period unless the Comptroller, having regard to all the circumstances of the case, is satisfied that the loss was not incurred for the purpose of obtaining a tax advantage.
 
 [22/87]
@@ -608,7 +610,7 @@ ought not to have been exempted by reason of any direction made under section 9 
 
 ### Carry forward of loss and allowance
 
-15\.—(1) Where a pioneer enterprise has, during its tax relief period, incurred a loss for any year, that loss shall be deducted as provided for in section 37(2) and (2A) of the Income Tax Act but only against the income of the pioneer enterprise as ascertained under section 10, except that the balance of any such loss which remains unabsorbed at the end of its tax relief period is available to the new trade or business in accordance with that Act.
+15\.—(1) Where a pioneer enterprise has, during its tax relief period, incurred a loss for any year, that loss shall be deducted as provided for in section 37 of the Income Tax Act, with the necessary modifications, but only against the income of the pioneer enterprise as ascertained under section 10, except that the balance of any such loss which remains unabsorbed at the end of its tax relief period is available to the new trade or business in accordance with that Act.
 
 [22/87]
 
@@ -3075,6 +3077,11 @@ This Legislative History is provided for the convenience of users of the Economi
 |||(Bill No. 7/2004 published on 28 February 2004)|
 ||Date of Second and Third Readings|20 April 2004|
 ||Date of commencement|27 November 2002|
+|23.|**Act 11 of 2004—Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004**|
+||Date of First Reading|27 February 2004|
+|||(Bill No. 7/2004 published on 28 February 2004)|
+||Date of Second and Third Readings|20 April 2004|
+||Date of commencement|10 December 2002|
 ## COMPARATIVE TABLE
 
 Economic Expansion Incentives (Relief from Income Tax) Act
