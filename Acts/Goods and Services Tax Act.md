@@ -2772,6 +2772,10 @@ Finance
 
 (h) the provision of the facility of instalment credit finance in a hire-purchase, conditional sale or credit sale agreement for which facility a separate charge is made and disclosed to the recipient of the supply of goods;
 
+(ha) the transfer or assignment of the provision of the facility of instalment credit finance in a hire-purchase agreement;
+
+[S 204/2000 wef 15/04/2000]
+
 (i) the grant of a right or option relating to an obligation to pay interest or the exchange or grant of an option for the exchange of obligations to pay interest;
 
 (j) the renewal or variation of a debt security, equity security or contract for the provision of any loan, advance or credit;
@@ -2884,3 +2888,5 @@ This Legislative History is provided for the convenience of users of the Goods a
 |||(Bill No. 34/1999 published on 3 December 1999)|
 ||Date of Second and Third Readings|23 November 1999|
 ||Date of commencement|1 December 1999|
+|9.|**G. N. No. S 204/2000—Goods And Services Tax Act (Amendment Of Fourth Schedule) Order 2000**|
+||Date of commencement|15 April 2000|
