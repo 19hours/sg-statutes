@@ -44,6 +44,8 @@
 
 - [14 Funds for construction, etc., projects](#Funds-for-construction-etc-projects)
 
+- [14A Issue of shares, etc.](#Issue-of-shares-etc)
+
 - [15 Operating expenses](#Operating-expenses)
 
 - [16 Bank accounts and application of revenue](#Bank-accounts-and-application-of-revenue)
@@ -433,6 +435,12 @@ FINANCIAL PROVISIONS
 (3) The repayment of money borrowed or raised by the Authority for the purposes referred to in subsection (1), and interest, premium and other charges thereon and costs and fees incurred for the purpose of borrowing or raising such money shall be met out of funds provided to the Authority by the Minister for Finance.
 
 (4) Nothing in this section shall be construed to restrict the power of the Authority to borrow or raise or secure the repayment of money for purposes other than the purposes referred to in subsection (1).
+
+### Issue of shares, etc.
+
+14A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Authority under this Act, or of any capital injection or other investment by the Government in the Authority in accordance with any written law, the Authority shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
+
+[5/2002 wef 15/07/2002]
 
 ### Operating expenses
 
@@ -1242,3 +1250,8 @@ This Legislative History is provided for the convenience of users of the Land Tr
 |||(Bill No. 6/1997 published on 12 July 1997)|
 ||Date of Second and Third Readings|25 August 1997|
 ||Date of commencement|1 October 1997|
+|5.|**Act 5 of 2002—Statutory Corporations (Capital Contribution) Act 2002**|
+||Date of First Reading|3 May 2002|
+|||(Bill No. 7/2002 published on 4 May 2002)|
+||Date of Second and Third Readings|24 May 2002|
+||Date of commencement|15 July 2002|
