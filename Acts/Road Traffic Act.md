@@ -124,6 +124,8 @@
 
 - [47D Definition of serious injury](#Definition-of-serious-injury)
 
+- [47E Penalties for offences under sections 47(5) and 47C(5)](#Penalties-for-offences-under-sections-475-and-47C5)
+
 - [48 Rules for purposes of this Part](#Rules-for-purposes-of-this-Part)
 
 - [49 Exemption](#Exemption)
@@ -171,6 +173,8 @@
 - [66 Causing death by reckless or dangerous driving](#Causing-death-by-reckless-or-dangerous-driving)
 
 - [67 Driving while under the influence of drink or drugs](#Driving-while-under-the-influence-of-drink-or-drugs)
+
+- [67A Enhanced penalties for repeat offenders under sections 43(3A), 47(5), 47C(5), 64(1), 66(1) and 67(1)](#Enhanced-penalties-for-repeat-offenders-under-sections-433A-475-47C5-641-661-and-671)
 
 - [68 Being in charge of a motor vehicle when under the influence of drink or drugs](#Being-in-charge-of-a-motor-vehicle-when-under-the-influence-of-drink-or-drugs)
 
@@ -1148,15 +1152,29 @@ Provided that if the court thinks fit, any disqualification imposed under this s
 
 [Act 7 of 1990 wef 02/04/1990]
 
-(3) If any person who under the provisions of this Act is disqualified from holding or obtaining a driving licence applies for or obtains a driving licence while he is so disqualified or if any such person while he is so disqualified drives a motor vehicle, or if the disqualification is limited to the driving of a motor vehicle of a particular class or description a motor vehicle of that class or description, on a road, that person shall be guilty of an offence and shall be liable on conviction —
+(3) If any person who under the provisions of this Act is disqualified from holding or obtaining a driving licence applies for or obtains a driving licence while he is so disqualified, that person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and a driving licence obtained by him shall be of no effect.
 
-(a) to imprisonment for a term not exceeding 6 months;
+[Act 3 of 1993 wef 15/04/1993]
 
-(b) (if the court thinks that having regard to the special circumstances of the case it is not necessary to impose a sentence of imprisonment for the offence) to a fine not exceeding $1,000; or
+(3A) If any person who is disqualified as mentioned in subsection (3) drives on a road a motor vehicle or, if the disqualification is limited to the driving of a motor vehicle of a particular class or description, a motor vehicle of that class or description, that person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
 
-(c) to both,
+[Act 3 of 1993 wef 15/04/1993]
 
-and a driving licence obtained by any person disqualified as aforesaid shall be of no effect.
+(3B) Where any person has been convicted of an offence under subsection (3A) and such conviction is a second or subsequent conviction and it is proved to the satisfaction of a court that a motor vehicle has been used in the commission of the offence, the court shall, on the application of the Public Prosecutor, make an order for the forfeiture of the motor vehicle except that the court shall not make an order for the forfeiture of the vehicle if the court is satisfied that —
+
+(a) the person who has committed the offence is not the owner of the vehicle; and
+
+(b) the person who has committed the offence had used the vehicle without the consent of the owner or where he had used the vehicle with the consent of the owner, that the owner had no knowledge of his disqualification under this Act from holding or obtaining a licence.
+
+[Act 3 of 1993 wef 15/04/1993]
+
+(3C) Any motor vehicle in respect of which there has been or there is reasonable cause to suspect that there has been committed an offence under subsection (3A) may be seized by any police officer or the Registrar or any officer authorised in writing by the Registrar.
+
+[Act 3 of 1993 wef 15/04/1993]
+
+(3D) If there be no prosecution with regard to an offence under subsection (3A), the vehicle seized pursuant to subsection (3C) shall be released at the expiration of one month from the date of seizure unless it has been earlier released.
+
+[Act 3 of 1993 wef 15/04/1993]
 
 (4) Notwithstanding any written law prescribing the time within which proceedings may be instituted, proceedings for an offence under subsection (3) may be instituted —
 
@@ -1257,6 +1275,12 @@ and whilst so driving causes death or serious injury to any other person, the De
 47D\. For the purposes of sections 47B and 47C, “serious injury” means any injury which causes a person to be during a period of 7 days in severe bodily pain or unable to follow his ordinary pursuits.
 
 [Act 7 of 1990 wef 02/04/1990]
+
+### Penalties for offences under sections 47(5) and 47C(5)
+
+47E\. Any person who is guilty of an offence under section 47(5) or 47C (5) shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+[Act 3 of 1993 wef 15/04/1993]
 
 ### Rules for purposes of this Part
 
@@ -1514,6 +1538,20 @@ Provisions as to driving and offences in connection therewith
 (3) Any police officer may arrest without warrant any person committing an offence under this section.
 
 [Act 7 of 1990 wef 02/04/1990]
+
+### Enhanced penalties for repeat offenders under sections 43(3A), 47(5), 47C(5), 64(1), 66(1) and 67(1)
+
+67A\.—(1) Where a person having been convicted on at least two previous occasions of an offence under section 43(3A), 47(5), 47C(5), 64(1), 66(1) or 67(1) is convicted of the same offence (such person shall be referred to in this section as a repeat offender), the court shall have the power to impose a punishment in excess of that prescribed for such conviction as follows:
+
+(a) where the court is satisfied, by reason of his previous convictions or his antecedents, that it is expedient for the protection of the public or with the view to the prevention of further commission of such offence that a punishment in excess of that prescribed for such a conviction should be awarded, then the court may punish such repeat offender with punishment not exceeding 3 times the amount of punishment to which he would otherwise have been liable for such a conviction provided that where imprisonment is imposed it shall not exceed 10 years; and
+
+(b) notwithstanding section 11 of the Criminal Procedure Code (Cap. 68), if such repeat offender while committing the offence under section 43(3A), 47(5), 47C(5), 64(1), 66(1) or 67(1) causes any serious injury or death to another person, the court may also punish him, subject to section 231 of the Criminal Procedure Code, with caning with not more than 6 strokes.
+
+(2) In subsection (1), “serious injury” has the same meaning as in section 47D.
+
+(3) A Magistrate’s Court or a District Court may, notwithstanding anything contained in the Criminal Procedure Code, award the full punishment prescribed by this section.
+
+[Act 3 of 1993 wef 15/04/1993]
 
 ### Being in charge of a motor vehicle when under the influence of drink or drugs
 
@@ -2774,3 +2812,8 @@ This Legislative History is provided for the convenience of users of the Road Tr
 |||(Bill No. 7/91 published on 28 February 1991)|
 ||Date of Second and Third Readings|22 March 1991|
 ||Date of commencement|1 April 1991|
+|30.|**Act 3 of 1993—Road Traffic (Amendment) Act 1993**|
+||Date of First Reading|16 November 1992|
+|||(Bill No. 37/92 published on 17 November 1992)|
+||Date of Second and Third Readings|18 January 1993|
+||Date of commencement|15 April 1993|
