@@ -106,6 +106,8 @@
 
 - [45 Obligation of secrecy](#Obligation-of-secrecy)
 
+- [45A Regulations to give effect to treaties, etc.](#Regulations-to-give-effect-to-treaties-etc)
+
 - [46 Power to make regulations](#Power-to-make-regulations)
 
 - [47 Transitional provision](#Transitional-provision)
@@ -922,7 +924,11 @@ ADMINISTRATION
 
 (3) Any countervailing or anti-dumping duty imposed under this Act shall be paid to the Director-General of Customs.
 
+[4/2003 wef 01/04/2003]
+
 (4) The Customs Act shall, to the extent relevant and with such exceptions or modifications as may be prescribed, apply to any countervailing or anti-dumping duty as it applies to a customs duty or excise duty imposed under the provisions of the Customs Act.
+
+[33/2000 wef 01/01/2001]
 
 ## PART V
 
@@ -1042,6 +1048,22 @@ the Minister shall allow exporters at least 60 days to adjust their export price
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year or to both.
 
+### Regulations to give effect to treaties, etc.
+
+45A\. The Minister may make regulations —
+
+(a) to modify the application of the provisions of this Act —
+
+(i) to any goods exported or originating from any country; or
+
+(ii) to any country or person or description of persons; and
+
+(b) to exempt any goods exported or originating from any country from all or any of the provisions of this Act,
+
+in order to give effect to any obligation binding on Singapore under any international agreement or arrangement.
+
+[58/2004 wef 30/12/2004]
+
 ### Power to make regulations
 
 46\.—(1) The Minister may make such regulations as may be necessary or expedient for giving full effect to or for carrying out the provisions of this Act.
@@ -1081,19 +1103,24 @@ This Legislative History is provided for the convenience of users of the Counter
 ||||
 |:-|:-|:-|
 |1.|**Act 33 of 1996—Countervailing and Anti-Dumping Duties Act 1996**|
-||Date of First Reading|12.7.96|
-|||(Bill No. 24/96 published on 13.7.96)|
-||Date of Second and Third Readings|1.10.96|
-||Date of commencement|1.11.96|
+||Date of First Reading|12 July 1996|
+|||(Bill No. 24/96 published on 13 July 1996)|
+||Date of Second and Third Readings|1 October 1996|
+||Date of commencement|1 November 1996|
 |2.|**1997 Revised Edition—Countervailing and Anti-Dumping Duties Act**|
 ||Date of operation|30 May 1997|
 |3.|**Act 33 of 2000—Customs (Amendment) Act 2000**|
 ||Date of First Reading|13 November 2000|
-|||(Bill No. 33/2000 published on 22 December 2000)|
+|||(Bill No. 33/2000 published on 13 November 2000)|
 ||Date of Second and Third Readings|22 November 2000|
 ||Date of commencement|1 January 2001|
 |4.|**Act 4 of 2003—Customs (Amendment) Act 2003**|
 ||Date of First Reading|10 March 2003|
-|||(Bill No. 6/2003 published on 4 April 2003)|
+|||(Bill No. 6/2003 published on 11 March 2003)|
 ||Date of Second and Third Readings|21 March 2003|
 ||Date of commencement|1 April 2003|
+|5.|**Act 58 of 2004—Countervailing and Anti-Dumping Duties (Amendment) Act 2004**|
+||Date of First Reading|19 October 2004|
+|||(Bill No. 57/2004 published on 20 October 2004)|
+||Date of Second and Third Readings|17 November 2004|
+||Date of commencement|30 December 2004|
