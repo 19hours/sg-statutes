@@ -28,7 +28,7 @@
 
 - [7 Refund on unoccupied buildings](#Refund-on-unoccupied-buildings)
 
-- [8 Refund for energy conservation](#Refund-for-energy-conservation)
+- [8 (Repealed)](#Repealed)
 
 - [9 Rates of tax](#Rates-of-tax)
 
@@ -70,7 +70,7 @@
 
 - [26 Committee of Board](#Committee-of-Board)
 
-- [27 Chairman](#Chairman)
+- [27 Person presiding at meetings of Board](#Person-presiding-at-meetings-of-Board)
 
 - [28 Casting vote](#Casting-vote)
 
@@ -146,6 +146,8 @@
 
 - [56 Receipts and notices may be given by authorised officer](#Receipts-and-notices-may-be-given-by-authorised-officer)
 
+- [56A Electronic service](#Electronic-service)
+
 - [57 Service of notices](#Service-of-notices)
 
 - [57A Service of summons](#Service-of-summons)
@@ -200,11 +202,19 @@ PRELIMINARY
 
 2\.—(1) In this Act, unless the context otherwise requires —
 
+“account with the electronic service”, in relation to any person, means a computer account within the electronic service which is assigned by the Comptroller to that person for the storage and retrieval of electronic records relating to that person;
+
+[59/2004 wef 08/12/2004]
+
 “annual value” —
 
 (a) in relation to a house or building or land or tenement, not being a wharf, pier, jetty or landing-stage, means the gross amount at which the same can reasonably be expected to be let from year to year, the landlord paying the expenses of repair, insurance, maintenance or upkeep and all taxes (other than goods and services tax); and
 
 (b) in relation to a wharf, pier, jetty or landing-stage, means the gross amount at which the same can reasonably be expected to be let from year to year, the tenant paying the expenses of repair, insurance, maintenance or upkeep;
+
+“authentication code”, in relation to any person, means an identification or identifying code, a password or any other authentication method or procedure which is assigned to that person for the purposes of identifying and authenticating the access to and use of the electronic service by that person;
+
+[59/2004 wef 08/12/2004]
 
 “building” means any structure erected on land and includes any house, hut, shed or similar roofed enclosure, whether used for the purposes of human habitation or otherwise, any slip, dock, wharf, pier, jetty, landing-stage, underground or overground tank for the storage of solids, liquids or gases, and any oil refinery;
 
@@ -213,6 +223,14 @@ PRELIMINARY
 “Comptroller” means the Comptroller of Property Tax appointed under section 3 and includes, for the purposes of this Act except the exercise of the powers conferred upon the Comptroller by sections 6 and 39, a Deputy Comptroller or an Assistant Comptroller so appointed;
 
 “dwelling-house” includes a building or tenement wholly or principally used, constructed or adapted for use for human habitation;
+
+“electronic record” has the same meaning as in the Electronic Transactions Act (Cap. 88);
+
+[59/2004 wef 08/12/2004]
+
+“electronic service” means the electronic service provided by the Comptroller under section 56A(1);
+
+[59/2004 wef 08/12/2004]
 
 “industrial premises” means premises, not being freight-transport premises, occupied and used for the purpose of private gain, as a mine or as a factory or workshop, but does not include premises occupied and used as a factory or workshop if such premises are primarily occupied and used for the following purposes or for any combination of such purposes:
 
@@ -432,23 +450,7 @@ pay to the Government the sum of which is to be calculated on such basis as may 
 
 [25/63]
 
-### Refund for energy conservation
-
-8\.—(1) Subject to this section where any person, being the owner of any premises in a centrally air-conditioned commercial building, has incurred any approved expenditure in relation to that building when occupying those premises for residential purposes or when those premises are vacant, there shall be allowed a refund of tax paid in respect of those premises for the year in which the claim for refund is made of an amount equal to 40% of that expenditure (referred to in this Act as the refundable expenditure).
-
-[6/82]
-
-(2) Where in any year in which the claim for refund is made, full effect cannot be given to any refundable expenditure by reason of insufficiency of tax paid for that year, the balance of the refundable expenditure shall be refunded from the tax paid by him in respect of those premises for the next succeeding year and so on for the subsequent years until the refundable expenditure has been refunded in full.
-
-[6/82]
-
-(3) No refund under this section shall be allowed where the person claiming the refund is entitled to claim a deduction under section 14G of the Income Tax Act (Cap. 134) in respect of the same expenditure.
-
-[6/82]
-
-(4) For the purposes of this section, “approved expenditure”, in relation to a commercial building, means any expenditure approved by the Minister or such person as he may appoint and incurred in effecting, for the purposes of energy conservation, alteration of the building which results in a reduction of the overall thermal transfer value of the building to 45 watts per square metre or less, and in connection therewith, any alteration of the central air-conditioning plant of the building which results in an improvement to the coefficient of performance of the plant.
-
-[6/82]
+8\. [Deleted by Act 59/2004 wef 08/12/2004]
 
 ### Rates of tax
 
@@ -744,9 +746,11 @@ and shall serve the owner by post or otherwise with a written notice of his deci
 
 [33/2002 wef 01/01/2003]
 
-(4) Any owner dissatisfied with the decision made by the Comptroller under subsection (3) (a) or (c) may, within 21 days after such service, appeal to the Valuation Review Board in the manner provided in section 29.
+(4) Any owner dissatisfied with the decision made by the Comptroller under subsection (3)(a) or (c) may, within 21 days after such service, appeal to the Valuation Review Board in the manner provided in section 29.
 
 [24/73]
+
+(5) [Deleted by Act 33/2002 wef 01/01/2003]
 
 ## PART IV
 
@@ -754,7 +758,7 @@ APPEALS
 
 ### Valuation Review Board
 
-23\.—(1) For the purpose of hearing appeals from the decisions of the Chief Assessor of which notice has been given under section 20A, or of the Comptroller of which notice has been given under section 22 or 38, in the manner provided in this Act, there shall be a Valuation Review Board (referred to in this Act as the Board) consisting of a Chairman and not more than 9 other members all of whom shall be appointed by the Minister.
+23\.—(1) For the purpose of hearing appeals from the decisions of the Chief Assessor of which notice has been given under section 20A, or of the Comptroller of which notice has been given under section 22 or 38, in the manner provided in this Act, there shall be a Valuation Review Board (referred to in this Act as the Board) consisting of not more than 15 members appointed from time to time by the Minister.
 
 [25/63; 24/73; 4/87; 46/96]
 
@@ -770,17 +774,21 @@ APPEALS
 
 [25/63]
 
-(3) The Chairman and the other members of the Board shall hold office for such period as may be determined by the Minister and shall be eligible for reappointment on completion of that period.
+(3) The members of the Board shall hold office for such period as may be determined by the Minister and shall be eligible for re-appointment.
 
-[25/63; 46/96]
+[59/2004 wef 08/12/2004]
 
-(4) The Minister may appoint any person to be a temporary Chairman or member of the Board during the incapacity from illness or otherwise of the Chairman or any member, as the case may be.
+(4) The Minister may at any time remove any member of the Board from office without assigning any reason.
 
-[25/63]
+[59/2004 wef 08/12/2004]
 
-(5) The Minister may remove from office, without assigning any reason, all or any of the members if necessary in the interests of effective performance of the Board’s functions.
+(5) The Minister may appoint from amongst the members of the Board —
 
-[25/63]
+(a) a Chairman of the Board; and
+
+(b) such number of Deputy Chairmen of the Board as the Minister thinks fit.
+
+[59/2004 wef 08/12/2004]
 
 (6) The office of a member of the Board shall become vacant —
 
@@ -794,9 +802,9 @@ APPEALS
 
 [25/63]
 
-(7) On the death, disqualification, bankruptcy, resignation or revocation of the appointment of the Chairman or any member of the Board, the Minister may appoint a new Chairman or member, as the case may be, who shall hold office for so long as the Chairman or member in whose place he is appointed would have held office.
+(7) On the death, disqualification, bankruptcy, resignation or revocation of the appointment of the Chairman, any Deputy Chairman or any member of the Board, the Minister may appoint a new Chairman, Deputy Chairman or member, as the case may be, who shall hold office for so long as the Chairman, Deputy Chairman or member in whose place he is appointed would have held office.
 
-[25/63]
+[59/2004 wef 08/12/2004]
 
 (8) Every member of the Board shall be deemed to be a public servant within the meaning of the Penal Code (Cap. 224).
 
@@ -804,7 +812,7 @@ APPEALS
 
 ### Salaries, fees and allowances to members
 
-24\. There shall be paid to the Chairmanand members of the Board such salaries, fees and allowances as the Minister may determine.
+24\. There shall be paid to the Chairman, Deputy Chairmen and other members of the Board such salaries, fees and allowances as the Minister may determine.
 
 ### Clerk to Board
 
@@ -812,19 +820,59 @@ APPEALS
 
 ### Committee of Board
 
-26\.—(1) All the powers, functions and duties of the Board may be exercised, discharged and performed by any committee of the Board consisting of not less than 3 members of the Board and any act, finding or decision of any such committee shall be deemed to be the act, finding or decision of the Board.
+26\.—(1) All the powers, functions and duties of the Board may be exercised, discharged and performed by any committee of the Board consisting of not less than 3 members of the Board, at least one of whom shall be the Chairman or a Deputy Chairman of the Board.
+
+[59/2004 wef 08/12/2004]
+
+(1A) Any act, finding or decision of any such committee shall be deemed to be the act, finding or decision of the Board.
+
+[59/2004 wef 08/12/2004]
 
 (2) The clerk shall, from time to time, summon such members of the Board as may be nominated by the Chairman to constitute a committee of the Board for the purposes of giving effect to the provisions of this Part and it shall be the duty of such members to attend at the times and places specified in the summons.
 
-### Chairman
+(3) Meetings of a committee shall be presided by —
 
-27\.—(1) The Chairman shall preside at all meetings of the Board.
+(a) where the Chairman of the Board is a member of the committee, the Chairman; and
 
-(2) If the Chairman is absent from a meeting or any part thereof, such member as may be chosen by the members present shall preside.
+(b) where the Chairman of the Board is not a member of the committee and —
+
+(i) there is only one Deputy Chairman of the Board on the committee, the Deputy Chairman; or
+
+(ii) there is more than one Deputy Chairman of the Board on the committee, such Deputy Chairman as the Chairman may determine.
+
+[59/2004 wef 08/12/2004]
+
+(4) Where the Chairman or any Deputy Chairman of the Board, as the case may be, is absent from any meeting of a committee at which he ought under subsection (3) to be presiding, the meeting shall be presided by —
+
+(a) where there is only one Deputy Chairman who is a member of the committee present, the Deputy Chairman;
+
+(b) where there is more than one Deputy Chairman who is a member of the committee present, such Deputy Chairman as may be chosen by the Deputy Chairmen present; and
+
+(c) where there is no Deputy Chairman who is a member of the committee present, such member as may be chosen by the members present.
+
+[59/2004 wef 08/12/2004]
+
+### Person presiding at meetings of Board
+
+27\. Meetings of the Board shall be presided by —
+
+(a) the Chairman of the Board;
+
+(b) in the absence of the Chairman of the Board —
+
+(i) where there is only one Deputy Chairman of the Board present, the Deputy Chairman; and
+
+(ii) where there is more than one Deputy Chairman of the Board present, such Deputy Chairman as may be chosen by the Deputy Chairmen present; and
+
+(c) where neither the Chairman of the Board nor any Deputy Chairman of the Board is present, such member of the Board as may be chosen by the members present.
+
+[59/2004 wef 08/12/2004]
 
 ### Casting vote
 
-28\. All matters coming before the Board at any meeting shall be decided by a majority of the votes of those members present, and, in the event of an equality of votes, the Chairman shall have a casting vote.
+28\. All matters coming before the Board or a committee of the Board at any meeting shall be decided by a majority of votes of the members present and, in the event of an equality of votes, the Chairman of the Board, the Deputy Chairman of the Board or such other member as may be presiding, as the case may be, shall have a second or casting vote.
+
+[59/2004 wef 08/12/2004]
 
 ### Notice of appeal
 
@@ -929,6 +977,8 @@ APPEALS
 (b) confirm, vary or rescind any order made by the Board.
 
 [24/73]
+
+(6) [Deleted by Act 33/2002 wef 01/01/2003]
 
 ## PART V
 
@@ -1292,17 +1342,127 @@ GENERAL
 
 (2) Where any such notice, order, warrant or document requires authentication, the signature or a facsimile thereof of the Comptroller or the Chief Assessor or any employee authorised thereunto by the Comptroller or the Chief Assessor affixed thereto shall be sufficient authentication.
 
+(3) Where any person has given his consent for any notice, order or document to be served on him through the electronic service, that notice, order or document shall be deemed to be sufficiently authenticated if it is served on him by the transmission of an electronic record of it to his account with the electronic service.
+
+[59/2004 wef 08/12/2004]
+
+### Electronic service
+
+56A\.—(1) The Comptroller may provide an electronic service for —
+
+(a) the filing or submission of any return or document;
+
+(b) the service of any notice, order or document by the Comptroller; and
+
+(c) the making of such applications as the Comptroller may determine.
+
+(2) For the purposes of the electronic service, the Comptroller may assign to any person —
+
+(a) an authentication code; and
+
+(b) an account with the electronic service.
+
+(3) Any person who is required to file or submit any return or document may do so through the electronic service.
+
+(4) Any agent who is authorised by his principal in the prescribed manner may file or submit any return or document on behalf of his principal through the electronic service.
+
+(5) Where any return or document is filed or submitted on behalf of any person under subsection (4) —
+
+(a) it shall be deemed to have been filed or submitted with the authority of that person; and
+
+(b) that person shall be deemed to be cognizant of all matters therein.
+
+(6) Where any return or document is filed or submitted through the electronic service using the authentication code assigned to any person before that person has requested, in the prescribed manner, for the cancellation of the authentication code —
+
+(a) the return or document shall, for the purposes of this Act, be presumed to have been filed or submitted by that person unless he adduces evidence to the contrary; and
+
+(b) where that person alleges that he did not file or submit the return or document, the burden shall be on him to adduce evidence of that fact.
+
+(7) Where any person has given his consent for any notice, order or document to be served on him through the electronic service, the Comptroller may serve that notice, order or document on that person by transmitting an electronic record of that notice, order or document to that person’s account with the electronic service.
+
+(8) Notwithstanding any other written law, in any proceedings under this Act —
+
+(a) an electronic record of any return or document that was filed or submitted, or any notice, order or document that was served, through the electronic service; or
+
+(b) any copy or print-out of that electronic record,
+
+shall be admissible as evidence of the facts stated or contained therein if that electronic record, copy or print-out —
+
+(i) is certified by the Comptroller to contain all or any information filed, submitted or served through the electronic service in accordance with this section; and
+
+(ii) is duly authenticated in the manner specified in subsection (10) or is otherwise authenticated in the manner provided in the Evidence Act (Cap. 97) for the authentication of computer output.
+
+(9) For the avoidance of doubt —
+
+(a) an electronic record of any return or document that was filed or submitted, or any notice, order or document that was served, through the electronic service; or
+
+(b) any copy or print-out of that electronic record,
+
+shall not be inadmissible in evidence merely because the return or document was filed or submitted, or the notice, order or document was served, without the delivery of any equivalent document or counterpart in paper form.
+
+(10) For the purposes of this section, a certificate —
+
+(a) giving the particulars of —
+
+(i) any person whose authentication code was used to file, submit or serve the return, notice, order or document; and
+
+(ii) any person or device involved in the production or transmission of the electronic record of the return, notice, order or document, or the copy or print-out thereof;
+
+(b) identifying the nature of the electronic record or copy thereof; and
+
+(c) purporting to be signed by the Comptroller or by a person occupying a responsible position in relation to the operation of the electronic service at the relevant time,
+
+shall be sufficient evidence that the electronic record, copy or print-out has been duly authenticated, unless the court, in its discretion, calls for further evidence on this issue.
+
+(11) Where the electronic record of any return, notice, order or document, or a copy or print-out of that electronic record, is admissible under subsection (8), it shall be presumed, until the contrary is proved, that the electronic record, copy or print-out accurately reproduces the contents of that return, notice, order or document.
+
+(12) The Comptroller may, for the purposes of the electronic service, approve the use of any symbol, code, abbreviation or notation to represent any particulars or information required under this Act.
+
+(13) The Minister may make regulations which are necessary or expedient for carrying out the purposes of this section, including regulations prescribing —
+
+(a) the procedure for the use of the electronic service, including the procedure in circumstances where there is a breakdown or interruption of the electronic service;
+
+(b) the procedure for the correction of errors in, or the amendment of, any return or document that is filed or submitted through the electronic service;
+
+(c) the manner in which a person who has given his consent for a notice, an order or any other document to be served on him through the electronic service shall be notified of the transmission of an electronic record of that notice, order or document to his account with the electronic service;
+
+(d) the manner in which authentication codes are to be assigned; and
+
+(e) anything which may be prescribed under this section.
+
+[59/2004 wef 08/12/2004]
+
 ### Service of notices
 
 57\.—(1) Every notice, order or document required or authorised by this Act or any subsidiary legislation made thereunder to be served on any person may be served —
 
 (a) by delivering it to that person or to some adult member or employee of his family at his last known place of residence;
 
-(b) by leaving it at his usual or last known place of residence or business in an envelope addressed to him; or
+(b) by leaving it at his usual or last known place of residence or business in an envelope addressed to him;
 
-(c) by sending it by ordinary post addressed to the person at his usual or last known place of residence or business.
+(c) by sending it by ordinary post addressed to the person at his usual or last known place of residence or business ; or
 
 [46/96]
+
+(d) where the person has given his consent for it to be served on him through the electronic service, by transmitting an electronic record of it to his account with the electronic service.
+
+[59/2004 wef 08/12/2004]
+
+(1A) Where a person has given his consent for a notice, an order or any other document to be served on him through the electronic service, that notice, order or document shall be deemed to have been served at the time when an electronic record of that notice, order or document enters his account with the electronic service.
+
+[59/2004 wef 08/12/2004]
+
+(1B) Notwithstanding subsections (1) and (1A), no person shall be liable to prosecution for an offence —
+
+(a) under section 16(2) or 21(7) in respect of failure to comply with the terms of a notice;
+
+(b) under section 18(3) in respect of failure or neglect to furnish a return required to be made pursuant to a notice under section 18(2); or
+
+(c) under section 50A(5) in respect of failure to comply with an order in writing under section 50A(4),
+
+unless the notice or order, as the case may be, has been served on him personally or by registered post.
+
+[59/2004 wef 08/12/2004]
 
 (2) Any notice, order or document required or authorised by this Act or any subsidiary legislation made thereunder to be served on the owner or occupier of any premises shall be deemed to be properly addressed if addressed by the description of the “owner” or “occupier” of the premises without further name or description.
 
@@ -1528,3 +1688,8 @@ This Legislative History is provided for the convenience of users of the Propert
 |||(Bill No. 31/2002 published on 2 October 2002)|
 ||Date of Second and Third Readings|31 October 2002|
 ||Date of commencement|1 January 2003|
+|16.|**Act 59 of 2004—Property Tax (Amendment) Act 2004**|
+||Date of First Reading|19 October 2004|
+|||(Bill No. 62/2004 published on 20 October 2004)|
+||Date of Second and Third Readings|17 November 2004|
+||Date of commencement|8 December 2004|
