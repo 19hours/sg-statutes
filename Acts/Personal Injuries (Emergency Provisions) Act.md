@@ -114,9 +114,11 @@ either by the enemy or in combating the enemy or in repelling an imagined attack
 
 [S (NS) 179/59]
 
-(5) All expenses incurred by the Authority in giving effect to a scheme shall be defrayed out of the Consolidated Fund.
+(5) All expenses incurred by the Authority in giving effect to a scheme shall be defrayed out of the Pension Fund established by the Pension Fund Act 1995.
 
 [S 223/59]
+
+[Act 8/1995 wef 01/04/1995]
 
 ### Procedure as to schemes
 
@@ -209,3 +211,8 @@ This Legislative History is provided for the convenience of users of the Persona
 ||Date of commencement|3 June 1959|
 |6.|**1985 Revised Edition—Personal Injuries (Emergency Provisions) Act**|
 ||Date of operation|30 March 1987|
+|7.|**Act 8 of 1995—Pension Fund Act 1995**|
+||Date of First Reading|23 January 1995|
+|||(Bill No. 2/1995 published on 24 January 1995)|
+||Date of Second and Third Readings|1 March 1995|
+||Date of commencement|1 April 1995|
