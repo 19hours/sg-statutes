@@ -344,7 +344,7 @@ Provided that a person charged with such an offence may be arrested, or a warran
 
 ### Powers under Criminal Procedure Code not restricted
 
-19\. Nothing in this Act shall be deemed to limit or restrict any powers conferred by the Criminal Procedure Code (Cap. 68)
+19\. Nothing in this Act shall be deemed to limit or restrict any powers conferred by the Criminal Procedure Code [Cap. 68].
 
 ## THE SCHEDULE
 
@@ -369,6 +369,10 @@ Specified Organisations
 (7) Economic Development Board
 
 (8) Energy Market Authority of Singapore
+
+(8A) Government of Singapore Investment Corporation Private Limited and its subsidiary corporations
+
+[S 274/2004 wef 01/06/2004]
 
 (9) Housing and Development Board
 
@@ -496,3 +500,5 @@ This Legislative History is provided for the convenience of users of the Officia
 ||Date of commencement|16 May 2003 (item (4) of Schedule — Amendment of Official Secrets Act)|
 |20.|**G.N. No. S 420/2003—Official Secrets Act (Amendment of Schedule) Notification 2003**|
 ||Date of commencement|1 September 2003|
+|21.|**G.N. No. S 274/2004—Official Secrets Act (Amendment of Schedule) Notification 2004**|
+||Date of commencement|1 June 2004|
