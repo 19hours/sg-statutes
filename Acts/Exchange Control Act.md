@@ -146,9 +146,9 @@ PRELIMINARY
 
 1\.—(1) This Act may be cited as the Exchange Control Act.
 
-(2) This Act shall continue in force for a period of one year from the date of the coming into force thereof provided that the Minister may, from time to time, by notification in theGazette, extend that period of one year for such further period or periods as he may think fit.\*
+(2) This Act shall continue in force for a period of one year from the date of the coming into force thereof provided that the Minister may, from time to time, by notification in theGazette, extend that period of one year for such further period or periods as he may think fit.1
 
-\*The period has been extended to 31st December 1988 by G.N. No. S 306/83 .
+1The period has been extended to 31st December 1988 by G.N. No. S 306/83 .
 
 ### Interpretation
 
@@ -226,7 +226,7 @@ GOLD AND FOREIGN CURRENCY
 
 ### Surrender of gold and foreign currency
 
-4\.—(1) (a) Every person in Singapore who is entitled to sell, or to procure the sale of, any gold, or any foreign currency to which this section applies, and is not an authorised dealer, shall offer it, or cause it to be offered, for sale to an authorised dealer, unless the Authority consents to his retention and use thereof or he disposes thereof to any other person with the permission of the Authority.
+4\.—(1)(a) Every person in Singapore who is entitled to sell, or to procure the sale of, any gold, or any foreign currency to which this section applies, and is not an authorised dealer, shall offer it, or cause it to be offered, for sale to an authorised dealer, unless the Authority consents to his retention and use thereof or he disposes thereof to any other person with the permission of the Authority.
 
 (b) The foreign currency to which this section applies is such foreign currency (referred to in this Act as specified currency) as may from time to time be specified by order of the Authority.
 
@@ -278,7 +278,7 @@ PAYMENTS
 
 (c) place any sum to the credit of any person resident outside the scheduled territories:
 
-Provided that where a person resident outside the scheduled territories has paid a sum in or towards the satisfaction of a debt due from him, paragraph (c) shall not prohibit the acknowledgment or recording of the payment.
+Provided that where a person resident outside the scheduled territories has paid a sum in or towards the satisfaction of a debt due from him, paragraph (c) shall not prohibit the acknowledgement or recording of the payment.
 
 [8
 
@@ -548,7 +548,7 @@ Provided that —
 
 (a) by his direction or with his assent it is in the custody of some other person who holds it on behalf of and to the order of the authorised depositary; and
 
-(b) the certificate is not deposited with that other person in a locked or sealed receptable from which he is not entitled to remove it without the authority of a person other than himself,
+(b) the certificate is not deposited with that other person in a locked or sealed receptacle from which he is not entitled to remove it without the authority of a person other than himself,
 
 and where a certificate of title is by virtue of this subsection deemed to be in the custody of an authorised depositary, references in this Part to the depositary parting with the certificate or a coupon belonging thereto shall be construed as references to his permitting the person having the actual custody thereof to part with it otherwise than to the depositary, and references to his destroying the certificate or such a coupon shall be construed as references to his permitting it to be destroyed.
 
@@ -806,7 +806,9 @@ the Authority may direct that the sum payable or to be credited shall be paid or
 
 Provided that this subsection shall not apply in so far as it is shown to be inconsistent with the intention of the parties that it should apply, whether by reason of their having contemplated the performance of that term despite the provisions of this Act or for any other reason.
 
-(2) Notwithstanding anything in the Bills of Exchange Act 1882 [U.K. 1882, c. 61.] of the United Kingdom, or in the Bills of Exchange Act [Cap. 23], neither the provisions of this Act, nor any condition, whether express or to be implied having regard to those provisions, that any payment shall not be made without the permission of the Authority under this Act, shall be deemed to prevent any instrument being a bill of exchange or promissory note.
+(2) Notwithstanding anything in the Bills of Exchange Act 1882 of the United Kingdom, or in the Bills of Exchange Act [Cap. 23], neither the provisions of this Act, nor any condition, whether express or to be implied having regard to those provisions, that any payment shall not be made without the permission of the Authority under this Act, shall be deemed to prevent any instrument being a bill of exchange or promissory note.
+
+[U.K. 1882 c. 61. .]
 
 (3) The provisions of the Fourth Schedule shall have effect with respect to legal proceedings, arbitrations, bankruptcy proceedings, the administration of the estates of deceased persons, the winding up of companies, and proceedings under deeds of arrangement or trust deeds for the benefit of creditors.
 
@@ -956,9 +958,11 @@ and any such order or direction which makes, for any of the purposes of Part IV,
 
 ### Saving
 
-46\. Any order, direction, notification, notice, certificate, requirement or condition made, given or imposed and any permission, consent or authorisation given under the Exchange Control Ordinance [1955 Ed. Cap. 216] shall, if still in force immediately before 6th August 1964, be deemed to have been made, given or imposed under this Act and shall continue to have full force and effect until revoked, amended or replaced in accordance with the provisions of this Act.
+46\. Any order, direction, notification, notice, certificate, requirement or condition made, given or imposed and any permission, consent or authorisation given under the Exchange Control Ordinance shall, if still in force immediately before 6th August 1964, be deemed to have been made, given or imposed under this Act and shall continue to have full force and effect until revoked, amended or replaced in accordance with the provisions of this Act.
 
 [47
+
+[1955 Ed. Cap. 216.]
 
 FIRST SCHEDULE
 
@@ -1120,6 +1124,8 @@ Foreign companies
 
 is receivable, directly or indirectly, by or for the benefit of persons resident in Singapore.
 
+[S 114/76]
+
 2\. Where the identity of the persons by whom or for whose benefit any sum, assets, interest or dividends are directly or indirectly receivable depends on the exercise by a person resident in Singapore of a power of appointment or similar power, the sum, assets, interests or dividends shall, for the purposes of this Schedule, be deemed to be receivable directly or indirectly by or for the benefit of persons resident in Singapore.
 
 THIRD SCHEDULE
@@ -1186,7 +1192,9 @@ may be made by the Rules Committee established under section 80 of the Supreme C
 
 Provided that —
 
-(i) the form of any bankruptcy notice shall be such as may be prescribed by the Authority; and
+(i) the form of any statutory demand shall be such as may be prescribed by the Authority; and
+
+[Act 15/95 wef 15/07/1995 vide S 268/95]
 
 (ii) nothing in this paragraph shall affect the provisions of any legislation which requires Rules of Court for subordinate courts to have the concurrence of the rule-making authority for the High Court.
 
@@ -1200,7 +1208,9 @@ Provided that nothing in this sub-paragraph shall be construed as affecting the 
 
 (2) The provisions of this Act restricting the making of settlements shall not apply to any deed of arrangement made for the benefit of creditors generally, and sub-paragraph (1) shall apply in relation to proceedings under any deed of arrangement as it applies in relation to proceedings in bankruptcy.
 
-6\. A debt for the payment of which the permission of the Authority is required under this Act shall, if in other respects it complies with the requirements of section 5(1) of the Bankruptcy Act [Cap. 20], be allowed to be a good petitioning creditor’s debt, notwithstanding those requirements, if and to the extent that the debt can be satisfied either by a payment into court or by a payment to a blocked account.
+6. A debt for the payment of which the permission of the Authority is required under this Act shall, if in other respects it complies with the requirements of section 61(1) of the Bankruptcy Act 1995, be allowed to be a good petitioning creditor’s debt, notwithstanding those requirements, if and to the extent that the debt can be satisfied either by a payment into court or by a payment to a blocked account.
+
+[Act 15/95 wef 15/07/1995]
 
 FIFTH SCHEDULE
 
@@ -1234,7 +1244,7 @@ Provided that no woman shall be searched in pursuance of any warrant issued unde
 
 (3) Where, by virtue of this paragraph, a person has any power to enter any premises, he may use such force as is reasonably necessary for the purpose of exercising that power.
 
-3.—(1) Any article coming into the possession of an executive authority (whether in consequence of the seizure of the article under or by virtue of this Act or otherwise) which the authority has reasonable ground for believing to be evidence of the commission of an offence under this Act may be retained for a period of 3 months or, if within that period there are commenced proceedings in respect of such an offence in which the article is, or can properly be, adduced in evidence, until the final determination of those proceedings.
+3.—(1) Any article coming into the possession of an executive authority (whether in consequence of the seizure of the article under or by virtue of this Act or otherwise) which the authority has reasonable ground for believing to be evidence of the commission of an offence under this Act may be retained of a period of 3 months or, if within that period there are commenced proceedings in respect of such an offence in which the article is, or can properly be, adduced in evidence, until the final determination of those proceedings.
 
 (2) For the purposes of this paragraph, any person to whom any powers of the Authority are delegated or on whom any functions are conferred by or by virtue of this Act, including any police officer, shall be deemed to be an executive authority.
 
@@ -1270,7 +1280,7 @@ Provided that an offence punishable by virtue of Part III of this Schedule shall
 
 (2) Any person who commits an offence punishable under this Part shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both, and where the offence is concerned with any currency, any security, any gold, any goods or any other property, the court may, if it thinks fit to do so, order the currency, security, gold, goods or property to be forfeited.
 
-(3) Notwithstanding anything in the Criminal Procedure Code [Cap. 68], a District Court shall have power to award the full penalties prescribed for any offence or any abetment of or attempt or conspiracy to commit an offence punishable under this Part.
+(3) Notwithstanding anything in the Criminal Procedure Code, a District Court shall have power to award the full penalties prescribed for any offence or any abetment of or attempt or conspiracy to commit an offence punishable under this Part.
 
 (4) Notwithstanding sub-paragraph (2), where any person is convicted of an offence in relation to any currency, any security, any payment, any gold, any goods or any other property, and that offence does not consist only of a failure to give information or produce books, accounts or other documents with respect thereto when required to do so under Part I of this Schedule the maximum fine which may be imposed shall be such fine as is authorised by sub-paragraph (2) or a fine equal to 3 times the value of the currency, security, payment, gold, goods or property.
 
@@ -1330,7 +1340,7 @@ Provided that no woman shall be searched in pursuance of this paragraph except b
 
 9\. Paragraphs 3, 4 and 5 of Part II shall apply also to offences punishable by virtue of this Part.
 
-10\. In this Part, “authorised officer” means any officer of customs as defined in the Customs Act [Cap. 70], any police officer as defined in the Police Force Act [Cap. 235], and any officer or person authorised by the Authority to exercise the powers and perform the duties of an authorised officer under this Part.
+10\. In this Part, “authorised officer” means any officer of customs as defined in the Customs Act [Cap. 70. Cap. 235], any police officer as defined in the Police Force Act, and any officer or person authorised by the Authority to exercise the powers and perform the duties of an authorised officer under this Part.
 
 ## LEGISLATIVE HISTORY
 
@@ -1379,3 +1389,9 @@ This Legislative History is provided for the convenience of users of the Exchang
 ||Date of commencement|1 January 1984|
 |17.|**1985 Revised Edition—Exchange Control Act**|
 ||Date of operation|30 March 1987|
+|18.|**Act 15 of 1995—Bankruptcy Act 1995**|
+||(Consequential amendments made by)||
+||Date of First Reading|25 July 1994|
+|||(Bill No. 16/1994 published on 29 July 1994)|
+||Date of Second Reading|25 August 1994|
+||Date of commencement|15 July 1995|
