@@ -696,9 +696,9 @@ notwithstanding that he has been discharged or released from the Singapore Armed
 
 [20/94]
 
-(5) For the purposes of this section, the Minister may, by order\*published in theGazette, prescribe the offences under the Emergency (Essential Powers) Act [Cap. 90], for which a person, who commits any of those offences, may be tried and punished under this Act.
+(5) For the purposes of this section, the Minister may, by order1published in theGazette, prescribe the offences under the Emergency (Essential Powers) Act [Cap. 90], for which a person, who commits any of those offences, may be tried and punished under this Act.
 
-\*G.N. No. S 96/78.
+1G.N. No. S 96/78.
 
 [17/78]
 
@@ -814,7 +814,9 @@ ORGANISATION OF SINGAPORE ARMED FORCES
 
 (4) Officers may from time to time be promoted or advanced in rank by the proper authority.
 
-(5) Any officer who has been commissioned pursuant to the repealed section 78 of the Singapore Army Act 1965 [Act 13 of 1965] or has been appointed by the proper authority to hold the rank of officer and who has held that rank immediately before 15th June 1972 shall for all purposes be deemed to have been appointed as an officer under this Act.
+(5) Any officer who has been commissioned pursuant to the repealed section 78 of the Singapore Army Act 1965 or has been appointed by the proper authority to hold the rank of officer and who has held that rank immediately before 15th June 1972 shall for all purposes be deemed to have been appointed as an officer under this Act.
+
+[Act 13 of 1965.]
 
 [1/91]
 
@@ -1416,7 +1418,7 @@ SUMMARY TRIAL BY DISCIPLINARY OFFICERS
 
 (b) try the accused summarily; or
 
-(c) if he is of the opinion that the charge should not be dealt with by him, refer the charge to the person appointed under section 82(5)(a).
+(c) if he is of the opinion that the charge should not be dealt with by him, refer the charge to the person appointed under section 82(5) (a).
 
 [1/94]
 
@@ -1628,9 +1630,9 @@ and such detention shall take effect from such date as the disciplinary officer 
 
 (a) refer the case to be retried —
 
-(i) where the disciplinary officer is the Chief of Defence Force, by the Chief of Defence Force or, if the Council is of the opinion that the case should not be retried by the Chief of Defence Force, by a Senior Disciplinary Committee; and
+(iii) where the disciplinary officer is the Chief of Defence Force, by the Chief of Defence Force or, if the Council is of the opinion that the case should not be retried by the Chief of Defence Force, by a Senior Disciplinary Committee; and
 
-(ii) in any other case, by the same or another disciplinary officer; or
+(iiiii) in any other case, by the same or another disciplinary officer; or
 
 (b) if the Council is of the opinion that the case should be retried by a subordinate military court, refer the charge to the person appointed under section 82(5)(a).
 
@@ -1667,6 +1669,8 @@ and such detention shall take effect from such date as the disciplinary officer 
 (c) in any other case, after the expiry of 6 months from the date of the commission of the offence.
 
 (2) Notwithstanding subsection (1), the Armed Forces Council or any officer or person authorised by the Council may by order in writing direct a person to be tried after the expiry of the period of 6 months or 3 years referred to in subsection (1) where the circumstances of the case warrant such a summary trial except that no person shall be tried after the expiry of any time limit specified in section 111 for the trial of any offence referred to in that section.
+
+[1/91]
 
 [1/91]
 
@@ -2472,7 +2476,7 @@ General provisions
 
 (5) The Military Court of Appeal shall have jurisdiction to hear and determine any appeal by a person convicted by a subordinate military court subject nevertheless to the provisions of this Part regulating the terms and conditions upon which such appeals may be brought.
 
-(6) The Military Court of Appeal shall for the purposes of the provisions of this Act have full power to determine, in accordance with this Act, any question necessary to be determined for the purpose of doing justice in any case before the Court and may issue any warrants necessary for enforcing its orders or sentences.
+(6) The Military Court of Appeal shall for the purposes of the provisions of this Act have full power to determine, in accordance with this Act, any question necessary to be determined for the purpose of doing justice in any case before the court and may issue any warrants necessary for enforcing its orders or sentences.
 
 (7) The determination of any question before a Military Court of Appeal shall be according to the opinion of the majority of the members of the Court hearing the case.
 
@@ -3184,7 +3188,7 @@ PAY
 
 (b) all ordinary pay for every day on which he is in hospital on account of sickness certified by the proper medical officer attending on him at the hospital to have been caused by an offence under this Act committed by him;
 
-(c) the sum required to make good such compensation for any expenses, loss, damage or destruction occasioned by the commission of any offence as may be awarded by a subordinate military court by whom he is convicted of such offence or by a disciplinary officer or Senior Disciplinary Committee dealing summarily with a charge under this Act;
+(c) the sum required to make good such compensation for any expenses, loss, damage or destruction occasioned by the commission of any offence as may be awarded by a subordinate military court by whom he is convicted of such offence or by a disciplinary officer Senior Disciplinary Committee dealing summarily with a charge under this Act;
 
 (d) the sum required to make good such compensation for any expenses caused by him, or for any loss of or damage or destruction done by him to any arms, equipment, clothing, instruments, or regimental necessaries or military decoration, or to any buildings or property, as may be awarded by the disciplinary officer or Senior Disciplinary Committee dealing summarily with a charge under this Act or, in case he requires to be tried by a subordinate military court, by that court;
 
@@ -3320,21 +3324,21 @@ MISCELLANEOUS
 
 ### Emergency powers
 
-199\. \*Where the public safety or the defence of Singapore so require, it shall be lawful for any serviceman acting on the authority of the Armed Forces Council —
+199\. 2Where the public safety or the defence of Singapore so require, it shall be lawful for any serviceman acting on the authority of the Armed Forces Council —
 
 (a) to enter, inspect, occupy, take possession of, evacuate, use, transfer, confiscate, repair or destroy any private or public property; and
 
 (b) to order any person to do any work or render any service.
 
-\*This section was not in operation when this Revised Edition was brought into force.
+2This section was not in operation when this Revised Edition was brought into force.
 
 ### Compensation and remuneration
 
-200\.\*—(1) Any person who suffers damage because of any act under section 199(a) shall be entitled to due compensation.
+200\.3—(1) Any person who suffers damage because of any act under section 199(a) shall be entitled to due compensation.
 
 (2) Any person who does work or renders a service under section 199(b) shall be entitled to remuneration in accordance with the order of the Armed Forces Council.
 
-\*This section was not in operation when this Revised Edition was brought into force.
+3This section was not in operation when this Revised Edition was brought into force.
 
 ### Obstruction of exercise of emergency powers
 
@@ -3374,7 +3378,7 @@ MISCELLANEOUS
 
 (h) arrests and searches and investigation of offences;
 
-(i) payments, deductions, forfeitures, pensions, gratuites and other allowances;
+(i) payments, deductions, forfeitures, pensions, gratuities and other allowances;
 
 (j) terms and conditions of service of servicemen including classes or categories of serviceman and periods of service;
 
@@ -3406,7 +3410,7 @@ MISCELLANEOUS
 
 (x) the exclusion or variation of the operation of the provisions of this Act in relation to non-uniformed servicemen;
 
-(y) in relation to any rank referred to in any provision of this Act, the designation of a corresponding service grade in the non-uniformed service for the purpose of that provision; and
+(y) in relation to any rank referred to in any provision of the Act, the designation of a corresponding service grade in the non-uniformed service for the purpose of that provision; and
 
 (z) all other matters which the Armed Forces Council considers necessary or expedient for the purposes of this Act.
 
@@ -3420,7 +3424,9 @@ MISCELLANEOUS
 
 ### Pensions
 
-206\.—(1) There shall be charged on and paid out of the Pension Fund all such sums of money as may from time to time be granted by way of pension, gratuity or other allowance in accordance with this Act or any regulations made pursuant to section 205.
+206\.—(1) There shall be charged on and paid out of the Pension Fund established by the Pension Fund Act 1995 all such sums of money as may from time to time be granted by way of pension, gratuity or other allowance in accordance with this Act or any regulations made pursuant to section 205.
+
+[Act 8/95 wef 01/04/1995 vide S 160/95]
 
 (2) A pension, gratuity or other allowance granted under this Act or any regulations made pursuant to section 205 shall not be assignable or transferable or liable to be garnished, attached, sequestered or levied upon for or in respect of a debt or claim, except for the purpose of satisfying —
 
@@ -3468,225 +3474,169 @@ Subject
 
 Section
 
-1.
-
-Offences by or in relation to sentries, persons on watch, etc.
+1. Offences by or in relation to sentries, persons on watch, etc.
 
 …
 
 16
 
-2.
-
-Disobedience, non-compliance of lawful orders, etc.
+2. Disobedience, non-compliance of lawful orders, etc.
 
 …
 
 17
 
-3.
-
-Insubordinate behaviour
+3. Insubordinate behaviour
 
 …
 
 19
 
-4.
-
-Obstruction of military policemen
+4. Obstruction of military policemen
 
 …
 
 20
 
-5.
-
-Disobedience of general orders
+5. Disobedience of general orders
 
 …
 
 21
 
-6.
-
-Absence without leave
+6. Absence without leave
 
 …
 
 22
 
-7.
-
-Failure to report deserters and absentees
+7. Failure to report deserters and absentees
 
 …
 
 24
 
-8.
-
-Conduct to the prejudice of good order or discipline
+8. Conduct to the prejudice of good order or discipline
 
 …
 
 25
 
-9.
-
-Cruel, indecent or disgraceful conduct
+9. Cruel, indecent or disgraceful conduct
 
 …
 
 26
 
-10.
-
-Non-prevention of offences
+10. Non-prevention of offences
 
 …
 
 27
 
-11.
-
-Ill-treatment
+11. Ill-treatment
 
 …
 
 28
 
-12.
-
-Abuse of authority
+12. Abuse of authority
 
 …
 
 29
 
-13.
-
-Personation and excess of authority
+13. Personation and excess of authority
 
 …
 
 30
 
-14.
-
-Malingering
+14. Malingering
 
 …
 
 32
 
-15.
-
-Intoxication
+15. Intoxication
 
 …
 
 33
 
-16.
-
-Damage to and loss of Singapore Armed Forces property
+16. Damage to and loss of Singapore Armed Forces property
 
 …
 
 42
 
-17.
-
-Dishonest misappropriation of Singapore Armed Forces property
+17. Dishonest misappropriation of Singapore Armed Forces property
 
 …
 
 43
 
-18.
-
-Misapplication and waste of Singapore Armed Forces property
+18. Misapplication and waste of Singapore Armed Forces property
 
 …
 
 44
 
-19.
-
-Unlawful arrest
+19. Unlawful arrest
 
 …
 
 45
 
-20.
-
-Resistance to arrest
+20. Resistance to arrest
 
 …
 
 46
 
-21.
-
-Escape and permitting escape and unlawful release from custody
+21. Escape and permitting escape and unlawful release from custody
 
 …
 
 47
 
-22.
-
-Contempt
+22. Contempt
 
 …
 
 48
 
-23.
-
-Falsification of documents
+23. Falsification of documents
 
 …
 
-50(a) and (b)
+50 (a) and (b)
 
-24.
-
-Refusing medical or dental examination and treatment
+24. Refusing medical or dental examination and treatment
 
 …
 
 51
 
-25.
-
-Obstructing investigation
+25. Obstructing investigation
 
 …
 
 52
 
-26.
-
-Inaccurate certification
+26. Inaccurate certification
 
 …
 
 53
 
-27.
-
-Irregular arrest and confinement
+27. Irregular arrest and confinement
 
 …
 
 57
 
-28.
-
-Abetments and attempts
+28. Abetments and attempts
 
 …
 
@@ -3737,3 +3687,9 @@ This Legislative History is provided for the convenience of users of the Singapo
 ||Date of commencement|1 December 1994|
 |8.|**1995 Revised Edition—Singapore Armed Forces Act**|
 ||Date of operation|15 March 1995|
+|9.|**Act 8 of 1995—Pensions Fund Act**|
+||(Consequential amendments made by)||
+||Date of First Reading|23 January 1995|
+|||(Bill No. 2/1995 published on 24 January 1995)|
+||Date of Second and Third Readings|1 March 1995|
+||Date of commencement|1 April 1995|
