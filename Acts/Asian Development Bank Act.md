@@ -104,11 +104,15 @@ Provided that the subscription of Singapore shall not be increased, except with 
 
 ### Power to raise loans
 
-6\. For the purposes of providing any sums required for making any payments to the Bank, the Minister may, on behalf of the Government, raise loans by the creation and issue of securities bearing such rates of interest and subject to such conditions as to repayment, redemption or otherwise as he may think fit, and the principal and interest of such securities and any expenses incurred in connection with their issue shall be charged on and paid out of the Consolidated Fund.
+6\. For the purposes of providing any sums required for making any payments to the Bank, the Minister with the President’s concurrence under Article 144(1)(b) of the Constitution may, on behalf of the Government, raise loans by the creation and issue of securities bearing such rates of interest and subject to such conditions as to repayment, redemption or otherwise as he may think fit, and the principal and interest of such securities and any expenses incurred in connection with their issue shall be charged on and paid out of the Consolidated Fund.
+
+[Act 11/1991 wef 30/11/1991]
 
 ### Issue of non-negotiable notes and creation of other obligations
 
-7\. The Minister may create and issue to the Bank in such form as he thinks fit, any such non-interest-bearing and non-negotiable notes or other obligations as are provided for by paragraph 3 of Article 6.
+7\. The Minister with the President’s concurrence under Article 144(1)(b) of the Constitution may create and issue to the Bank in such form as he thinks fit, any such non-interest-bearing and non-negotiable notes or other obligations as are provided for by paragraph 3 of Article 6.
+
+[Act 11/1991 wef 30/11/1991]
 
 ### Moneys received by Government to be paid into Consolidated Fund
 
@@ -236,7 +240,7 @@ Exemption from Taxation
 
 (ii) if the sole jurisdictional basis for such taxation is the location of any office or place of business maintained by the Bank
 
-. . . . . . .
+. . . . . . . . . .
 
 Article 58
 
@@ -268,3 +272,8 @@ This Legislative History is provided for the convenience of users of the Asian D
 ||Date of commencement|1 September 1976|
 |4.|**1985 Revised Edition—Asian Development Bank Act (Chapter 15)**|
 ||Date of operation|30 March 1987|
+|5.|**Act 11 of 1991—Statutes (Miscellaneous Amendments) Act 1991**|
+||Date of First Reading|3 January 1991|
+|||(Bill No. 4/91 published on 4 January 1991)|
+||Date of Second and Third Readings|14 January 1991|
+||Date of commencement|30 November 1991 (Item (2) of the Schedule — Amendment of the Asian Development Bank Act)|
