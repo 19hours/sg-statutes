@@ -66,6 +66,8 @@
 
 - [24 General Fund](#General-Fund)
 
+- [24A Issue of shares, etc.](#Issue-of-shares-etc)
+
 - [25 Estimates](#Estimates)
 
 - [26 Financial year](#Financial-year)
@@ -500,6 +502,12 @@ FINANCIAL PROVISIONS
 
 [27
 
+### Issue of shares, etc.
+
+24A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Council under this Act, or of any capital injection or other investment by the Government in the Council in accordance with any written law, the Council shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
+
+[5/2002 wef 15/07/2002]
+
 ### Estimates
 
 25\.—(1) The Board shall in every year cause to be prepared and adopted annual estimates of income and expenditure of the Council for the ensuing year.
@@ -658,6 +666,12 @@ This Legislative History is provided for the convenience of users of the Nationa
 ||Date of commencement|29 September 2000|
 |4.|**2001 Revised Edition—National Council of Social Service Act**|
 ||Date of operation|31 July 2001|
+|5.|**Act 5 of 2002—Statutory Corporations (Capital Contribution) Act 2002**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|3 May 2002|
+|||(Bill No. 7/2002 published on 4 May 2002)|
+||Date of Second and Third Readings|24 May 2002|
+||Dates of commencement|15 July 2002|
 ## COMPARATIVE TABLE
 
 National Council of Social Service Act
