@@ -391,6 +391,10 @@ Traditional Chinese Medicine Practitioners Act
 
 (Chapter 333A)
 
+40. Singapore Workforce Development Agency
+
+Singapore Workforce Development Agency Act 2003 (Act 14 of 2003).
+
 [S 312/2001 wef 01/06/2001]
 
 [S 220/2001 wef 01/04/2001]
@@ -400,6 +404,8 @@ Traditional Chinese Medicine Practitioners Act
 [S 312/2001 wef 01/06/2001]
 
 [S 143/2003 wef 01/04/2003]
+
+[S 480/2003 wef 01/09/2003]
 
 [7/96; 41/99; S 414/93; S344/95; S405/96; S 470/97; S 518/97; S366/98]
 
@@ -467,6 +473,8 @@ This Legislative History is provided for the convenience of users of the Statuto
 ||Date of commencement|1 October 2002|
 |18.|**G. N. No. S 143/2003—Statutory Corporations (Contributions to Consolidated Fund) Act (Amendment of Schedule) Order 2003**|
 ||Date of commencement|1 April 2003|
+|19.|**G. N. No. S 480/2003—Statutory Corporations (Contributions to Consolidated Fund) Act (Amendment of Schedule No. 2) Order 2003**|
+||Date of commencement|1 September 2003|
 ## COMPARATIVE TABLE
 
 Statutory Corporations (Contributions to Consolidated Fund) Act
