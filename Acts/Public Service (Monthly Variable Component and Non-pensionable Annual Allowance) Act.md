@@ -1,14 +1,12 @@
-**Public Service (Monthly Variable Component and Non-pensionable Annual Allowance) Act 1988**
+**Public Service (Monthly Variable Component and Non-pensionable Annual Allowance) Act**
 
-**(No. 14 of 1988)**
+**(CHAPTER 259A)**
 
 **Table of Contents**
 
 [**Long Title**](#Public-Service-Monthly-Variable-Component-and-Non-pensionable-Annual-Allowance-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -16,45 +14,25 @@
 
 - [4 Pensions not to be affected](#Pensions-not-to-be-affected)
 
-- [5 Repeal](#Repeal)
+[**Legislative History**](#Legislative-History)
 
-REPUBLIC OF SINGAPORE
+# Public Service (Monthly Variable Component and Non-pensionable Annual Allowance) Act
 
-GOVERNMENT GAZETTE
+(CHAPTER 259A)
 
-ACTS SUPPLEMENT
+(Original Enactment: Act 14 of 1988)
 
-Published by Authority
+REVISED EDITION 1989
 
-NO. 17]
-
-Friday, August 26
-
-[1988
-
-The following Act was passed by Parliament on 29th July 1988 and assented to by the President on 16th August 1988:—
-
-Public Service (Monthly Variable Component And Non-pensionable Annual Allowance) Act 1988
-
-(No. 14 of 1988)
-
-I assent.
-
-WEE KIM WEE
-
-President.
-
-16th August 1988.
-
-Date of Commencement: 1st July 1988
+(15th March 1989)
 
 An Act to enable annual wage increases and the non-pensionable annual allowance payable to the public service to be varied.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st July 1988]
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Public Service (Monthly Variable Component and Non-pensionable Annual Allowance) Act 1988 and shall come into operation on 1st July 1988.
+1\. This Act may be cited as the Public Service (Monthly Variable Component and Non-pensionable Annual Allowance) Act.
 
 ### Interpretation
 
@@ -90,11 +68,22 @@ in excess of the rates or amount specified in the order shall to the extent of t
 
 ### Pensions not to be affected
 
-4\. All pensions, gratuities and other allowances to be granted under the Pensions Act (Cap. 225) and the Parliamentary Pensions Act (Cap. 219) to any person shall be computed as if the monthly variable component applicable to that person had not been reduced by virtue of any order made or continued in force under this Act.
+4\. All pensions, gratuities and other allowances to be granted under the Pensions Act [Cap. 225] and the Parliamentary Pensions Act [Cap. 219] to any person shall be computed as if the monthly variable component applicable to that person had not been reduced by virtue of any order made or continued in force under this Act.
 
-### Repeal
+## LEGISLATIVE HISTORY
 
-5\.—(1) The Public Service (Variation of 1984 Annual Wage Increases) Act (Cap. 259A) is repealed.
+Public Service (Monthly Variable Component and Non-pensionable Annual Allowance) Act
 
-(2) Any order or notification made under the repealed Public Service (Variation of 1984 Annual Wage Increases) Act shall continue in force until it is revoked or replaced by any order or notification made under this Act.
+(CHAPTER 259A)
 
+This Legislative History is provided for the convenience of users of the Public Service (Monthly Variable Component and Non-pensionable Annual Allowance) Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 14 of 1988—Public Service (Monthly Variable Component and Non-pensionable Annual Allowance) Act 1988**|
+||Date of First Reading|28 June 1988|
+|||(Bill No. 12/1988 published on 26 August 1988)|
+||Date of Second and Third Readings|29 July 1988|
+||Date of commencement|1 July 1988|
+|2.|**1989 Revised Edition—Public Service (Monthly Variable Component and Non-pensionable Annual Allowance) Act (Chapter 259A)**|
+||Date of operation|15 March 1989|
