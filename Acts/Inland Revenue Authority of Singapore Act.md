@@ -528,6 +528,10 @@ Specified Acts
 
 5\. Estate Duty Act [Cap. 96].
 
+5A. Goods and Services Tax Act 1993 [Act 31 of 1993].
+
+[S 37/1994 wef 28/01/1994]
+
 6\. Income Tax Act [Cap. 134].
 
 7\. Private Lotteries Act [Cap. 250].
@@ -554,6 +558,10 @@ Specified offices
 
 5\. The Commissioner of Charities under the Charities Act [Cap. 37].
 
+6. The Comptroller of Goods and Services Tax under the Goods and Services Tax Act 1993 [Act 31 of 1993].
+
+[S 37/1994 wef 28/01/1994]
+
 ## LEGISLATIVE HISTORY
 
 Inland Revenue Authority of Singapore Act
@@ -571,3 +579,5 @@ This Legislative History is provided for the convenience of users of the Inland 
 ||Date of commencement|1 September 1992|
 |2.|**1993 Revised Edition—Inland Revenue Authority of Singapore Act (Chapter 138A)**|
 ||Date of operation|15 March 1993|
+|3.|**G.N. No. S 37/94—Inland Revenue Authority of Singapore Act (Amendment of Third and Fourth Schedules) Order 1994**|
+||Date of commencement|28 January 1994|
