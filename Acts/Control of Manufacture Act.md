@@ -264,7 +264,7 @@ Sections 2, 5(3), 8(1) and 13
 
 Specified goods
 
-1\. Air-conditioners
+1\.Deleted by S 630/2003, wef 01/01/2004.
 
 2\. Beer and stout
 
@@ -272,17 +272,19 @@ Specified goods
 
 4\. Drawn steel products
 
-5\. Firecrackers
+5\.Deleted by S 630/2003, wef 01/01/2004.
 
-6\. Pig iron and sponge iron
+6\.Deleted by S 630/2003, wef 01/01/2004.
 
-7\. Refrigerators
+7\.Deleted by S 630/2003, wef 01/01/2004.
 
-8\. Rolled steel products
+8\.Deleted by S 630/2003, wef 01/01/2004.
 
-9\. Steel ingots, billets, blooms and slabs
+9\.Deleted by S 630/2003, wef 01/01/2004.
 
-10\. Chewing gum, bubble gum, dental chewing gum or any like substance
+10. Chewing gum, bubble gum, dental chewing gum or any like substance (not being a medicinal product within the meaning of the Medicines Act (Cap. 176) or a substance in respect of which an order under section 54 of that Act has been made)
+
+[S 630/2003 wef 01/01/2004]
 
 11\. CD (compact disc), CD-ROM (compact disc-read only memory), VCD (video compact disc)
 
@@ -308,7 +310,7 @@ Control of Manufacture Act
 
 (CHAPTER 57)
 
-This Legislative History is provided for the convenience of users of the Control of Manufacture Act. It is not part of the Act.
+This Legislative History is provided for the convenience of users of the Control of Manufacture Act. It is not part of this Act.
 
 ||||
 |:-|:-|:-|
@@ -323,10 +325,12 @@ This Legislative History is provided for the convenience of users of the Control
 ||Date of operation|30 March 1987|
 |3.|**G. N. No. S 4/1992—Control of Manufacture Act (Amendment of First Schedule) Order 1992**|
 ||Date of commencement|3 January 1992|
-|4.|**G. N. No. S 247/1998—Control of Manufacture Act (Amendment Of First Schedule) Order 1998**|
+|4.|**G. N. No. S 247/1998—Control Of Manufacture Act (Amendment Of First Schedule) Order 1998**|
 ||Date of commencement|17 April 1998|
 |5.|**2001 Revised Edition—Control of Manufacture Act**|
 ||Date of operation|31 July 2001|
+|6.|**G. N. No. S 630/2003—Control Of Manufacture Act (Amendment Of First Schedule) Order 2003**|
+||Date of commencement|1 January 2004|
 ## COMPARATIVE TABLE
 
 Control of Manufacture Act
