@@ -36,7 +36,7 @@
 
 - [13 Pensions and gratuities to be paid out of Pension Fund](#Pensions-and-gratuities-to-be-paid-out-of-Pension-Fund)
 
-[**THE SCHEDULE**](#THE-SCHEDULE)
+[**THE SCHEDULE Sums Payable**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -46,9 +46,9 @@
 
 (Original Enactment: Act 10 of 1970)
 
-REVISED EDITION 1994
+REVISED EDITION 1997
 
-(15th July 1994)
+(20th December 1997)
 
 An Act to provide a civil list and pension for the President of the Republic of Singapore.
 
@@ -72,7 +72,7 @@ CIVIL LIST
 
 (3) Payments of the acting President’s allowance specified in Class I of the Schedule shall be made to the person exercising the functions of the office of President pursuant to Article 22N or 22O of the Constitution.
 
-(4) Payments in respect of the amounts specified in Classes II, III, and IV of the Schedule shall be made by or on the instructions of the Private Secretary to the President in accordance with any written law governing the disbursement of public funds.
+(4) Payments in respect of the amounts specified in Classes II, III and IV of the Schedule shall be made by or on the instructions of the Private Secretary to the President in accordance with any written law governing the disbursement of public funds.
 
 (5) No payment in respect of the amounts specified in Class I of the Schedule shall be made in respect of any period during which the office of the President is vacant.
 
@@ -128,61 +128,65 @@ PENSION
 
 (2) Any pension granted under subsection (1) shall commence on the date of the death of the President or former President.
 
+[49/70]
+
 (3) Any pension paid to a widow under subsection (1) shall cease upon her re-marriage or death.
+
+[49/70]
 
 ### Pension or gratuity not to be assignable
 
-12\. A pension or gratuity granted under this Act shall not be assignable or transferable except for the purpose of satisfying —
+12\. A pension or gratuity granted under this Act shall not be —
 
-(a) a debt due to the Government; or
+(a) assignable or transferable except for the purpose of satisfying —
 
-(b) an order of any court for the payment of periodical sums of money towards the maintenance of the wife, or former wife or minor child of the former President to whom the pension has been granted,
+(i) a debt due to the Government; or
 
-and shall not be liable to be attached, sequestered or levied upon for or in respect of any debt or claim whatever except a debt due to the Government.
+(ii) an order of any court for the payment of periodical sums of money towards the maintenance of the wife, or former wife or minor child of the former President to whom the pension has been granted; and
+
+(b) attached, sequestered or levied upon for or in respect of any debt or claim whatever except a debt due to the Government.
 
 ### Pensions and gratuities to be paid out of Pension Fund
 
-13\. There shall be charged on and paid out of the Pension Fund established by the Pension fund Act 1995 all such sums of money as may, from time to time, be granted by way of pension or gratuity in accordance with this Act.
+13\. There shall be charged on and paid out of the Pension Fund established by the Pension Fund Act (Cap. 224A) all such sums of money as may, from time to time, be granted by way of pension or gratuity in accordance with this Act.
 
-[Act 8/95 wef 01/04/1995 vide S 160/95]
+[8/95]
 
 ## THE SCHEDULE
 
+Sums Payable
+
 Class I
 
-(a) The Privy purse
+(a) The privy purse
 
-= $1,556,100
+$1,779,000
 
 (b) Entertainment allowance
 
-= $80,000
+$ 84,000
 
 (c) Acting President’s allowance
 
-= $3,600
+$3,600
 
 Class II
 
 Salaries of personal staff
 
-= $3,176,500
+$3,378,400
 
 Class III
 
 Expenses of household
 
-= $732,000
+$ 819,000
 
 Class IV
 
 Special services
 
-= $216,100
-
-[GN No. 1855/95]
-
-[S 232/96 wef 28/02/1996]
+$ 226,000
 
 ## LEGISLATIVE HISTORY
 
@@ -267,3 +271,5 @@ This Legislative History is provided for the convenience of users of the Civil L
 ||Date of commencement|28 February 1996|
 |29.|**G. N. No. S 366/97—Parliamentary Resolution**|
 ||Date of commencement|11 July 1997|
+|30.|**1997 Revised Edition—Civil List and Pension Act**|
+||Date of operation|20 December 1997|
