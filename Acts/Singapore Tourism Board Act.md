@@ -278,7 +278,9 @@ FUNCTIONS, DUTIES AND POWERS OF BOARD
 
 (m) to carry on the business of providing transport facilities for persons visiting tourist attractions in Singapore;
 
-(n) to invest any money of the Board in securities authorised for the investment of trust funds by any written law and, with the approval of the Minister, in other securities, within or outside Singapore;
+(n) to invest its moneys in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1);
+
+[45/2004 wef 15/12/2004]
 
 (o) with the approval of the Minister, to subscribe for or acquire any stock, share, bond, debenture or other financial instrument in any company carrying on a tourism enterprise;
 
@@ -671,3 +673,9 @@ This Legislative History is provided for the convenience of users of the Singapo
 |||(Bill No. 7/2002 published on 4 May 2002)|
 ||Date of Second and Third Readings|24 May 2002|
 ||Dates of commencement|15 July 2002 (except item 18 in the Schedule)|
+|12.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 September 2004|
+|||(Bill No. 43/2004 published on 22 September 2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|15 December 2004|
