@@ -420,8 +420,6 @@ ELECTIONS
 
 17\.—(1) Polling day at any election shall be a public holiday as though it had been so expressly appointed in addition to the days mentioned in any written law for the time being in force relating to holidays.
 
-(2) Nothing in any written law for the time being in force relating to holidays shall affect the performance on the polling day of-any act or thing relating to public offices and departments concerned with elections or of the duty to vote at elections imposed by section 26.
-
 ### Polling districts and polling stations
 
 18\.—(1) The Returning Officer shall provide as many polling stations for a polling district as are in his opinion sufficient for that polling district and may in his discretion provide as many polling places within each polling station as he considers necessary.
@@ -1450,3 +1448,9 @@ This Legislative History is provided for the convenience of users of the Preside
 |||(Bill No. 29/1996 published on 2 October 1996)|
 ||Date of Second and Third Readings|28 October 1996|
 ||Date of commencement|12 November 1996|
+|7.|**Act 8 of 1998—Holidays Act 1998**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|14 January 1998|
+|||(Bill No. 1/1998 published on 15 January 1998)|
+||Date of Second and Third Readings|19 February 1998|
+||Date of commencement|10 April 1998|
