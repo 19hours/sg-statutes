@@ -10,9 +10,11 @@
 
 - [2 Duty on bets and sweepstakes](#Duty-on-bets-and-sweepstakes)
 
+- [2A Sports betting duty](#Sports-betting-duty)
+
 - [3 Exemption](#Exemption)
 
-- [4 Statement by promoter](#Statement-by-promoter)
+- [4 Keeping of accounts and delivery of statement by promoter](#Keeping-of-accounts-and-delivery-of-statement-by-promoter)
 
 - [5 Production of documents](#Production-of-documents)
 
@@ -60,29 +62,93 @@ An Act relating to duties on betting and sweepstakes.
 
 [10/81]
 
+### Sports betting duty
+
+2A\. --(1) Subject to the provisions of this Act, there shall be charged a sports betting duty in respect of any betting at fixed odds on any football game or sporting event where the betting is promoted in Singapore by or on behalf of any exempt organisation.
+
+(2) Sports betting duty shall be an amount equal to 20%, or such other rate as the Minister may prescribe by order in the Gazette, of the gross betting profit of the exempt organisation in respect of any betting at fixed odds it promotes in connection with any particular football game or sporting event.
+
+(3) Sports betting duty shall be paid by the exempt organisation promoting the betting at fixed odds on any particular football game or sporting event within 15 days (or such further period as the Commissioner of Stamp Duties may allow in any particular case) after the date on which the football game or sporting event, as the case may be, takes place.
+
+(4) For the purposes of subsection (2), the gross betting profit of an exempt organisation in relation to any particular football game or sporting event shall be the amount (if any) by which the value specified in paragraph (a) exceeds the value specified in paragraph (b) --
+
+(a) the aggregate value in money of the stakes on all bets at fixed odds received or negotiated in Singapore by or on behalf of the exempt organisation in connection with that football game or sporting event; and
+
+(b) the value in money of the winnings paid by or on behalf of the exempt organisation on the results of that football game or sporting event.
+
+(5) In calculating the amount of the stake on a bet under subsection (4) (a), the amount of goods and services tax charged on the supply of the betting transaction shall be excluded.
+
+(6) For the purposes of this section, a bet is a bet at fixed odds only if the person making it knows or can know, at the time he makes it, the amount he will win, except in so far as the amount is to depend --
+
+(a) on the result of the event or events betted on;
+
+(b) on any such event taking place or producing a result;
+
+(c) on the numbers taking part in any such event;
+
+(d) on the starting prices or totalisator odds for any such event;
+
+(e) on there being totalisator odds for any such event; or
+
+(f) on the time when his bet is received by any person with or through whom the bet is made.
+
+(7) In this section and sections 3, 4, 5 and 8, unless the context otherwise requires --
+
+“exempt organisation” means any person or organisation that is exempt from all of the provisions of the Betting Act (Cap. 21) under a notification made under section 22(1) of that Act, or from all of the provisions of the Common Gaming Houses Act (Cap. 49) under a notification made under section 24(1) of that Act;
+
+“football game” means the game also known as soccer, whether taking place inside or outside Singapore;
+
+“promote” includes controlling or supervising the receipt or negotiation of bets or the conduct of games of chance, and “promoter” and “promoting” shall be construed accordingly;
+
+“sporting event” means any type of game, sport or exercise prescribed by the Minister, whether taking place inside or outside Singapore;
+
+“starting prices”, in relation to any event, means the odds ruling at the scene of the event immediately before the start;
+
+“totalisator odds” means the odds paid on bets made by means of a totalisator at the scene of the event;
+
+“winnings” includes winnings of any kind in money.
+
+[14/99 wef 31/03/1999]
+
 ### Exemption
 
-3\. The Minister may, in his discretion and subject to such conditions as he may think fit, exempt any sweepstake promoted, organised, administered or operated by any racing club or association from all or any of the provisions of this Act.
+3\. The Minister may, in his discretion and subject to such conditions as he may think fit, exempt any sweepstake or betting promoted, organised, administered or operated by any racing club or association or exempt organisation from all or any of the provisions of this Act.
 
-### Statement by promoter
+### Keeping of accounts and delivery of statement by promoter
 
-4\.—(1) The promoter shall draw up a statement of the amounts received as bets on each race and of the amounts contributed to each sweepstake and shall pay to the Commissioner of Stamp Duties the amount of duty so chargeable in lawful currency of Singapore.
+4\.—(1) The promoter of any betting or sweepstake referred to in section 2 or 2A shall --
 
-(2) The statement referred to in subsection (1) shall be delivered to the Commissioner of Stamp Duties —
+(a) keep such books of accounts in respect of such betting or sweepstake as may be prescribed and shall enter in these books true and regular accounts of all moneys received by the promoter in respect of the betting or sweepstake and all costs, charges and expenses incurred by the promoter in promoting the betting or sweepstake;
 
-(a) in the case of bets made on any totalisator or parimutuel, or in any other system or method of cash or credit betting held, promoted, organised, administered or operated by any racing club or association, within 15 days after the last day of the race meeting at which the bets were made; or
+(b) draw up a statement showing the following:
 
-(b) in the case of a sweepstake, within 7 days after the day on which the sweepstake was closed,
+(i) the amount of stakes on all bets received in respect of each horse race, football game or sporting event, or other contingency in other forms of betting;
 
-and the Commissioner of Stamp Duties shall issue a receipt for the amount paid:
+(ii) in the case of a sweepstake, the amount contributed to each sweepstake;
 
-Provided that the Commissioner of Stamp Duties may in any case or class of cases, as he thinks fit, extend the time within which the statement shall be delivered.
+(iii) the amount of goods and services tax charged on the supply of the betting or sweepstake transaction; and
 
-(3) For the purposes of this Act, “promoter” means the secretary of the racing club or association which has promoted any totalisator, pari-mutuel or any other system or method of cash or credit betting or sweepstake.
+(iv) where the promoter has received or negotiated bets at fixed odds on any football game or sporting event, the value in money of the winnings paid by or on behalf of the promoter on the results of the game or sporting event; and
+
+(c) pay to the Commissioner of Stamp Duties the amount of duty so chargeable in respect of the betting or sweepstake in Singapore dollar.
+
+(2) The statement referred to in subsection (1) (b) shall be delivered and the duty so chargeable shall be paid to the Commissioner of Stamp Duties --
+
+(a) in the case of bets made on any totalisator or pari-mutuel, or in any other system or method of cash or credit betting held, promoted, organised, administered or operated by any racing club or association referred to in section 2(1), within 15 days, or such further period as the Commissioner may allow under subsection (3), after the last day of the race meeting at which the bets were made;
+
+(b) in the case of any sweepstake referred to in section 2(2), within 15 days, or such further period as the Commissioner may allow under subsection (3), after the date on which the winners in that sweepstake are ascertained; or
+
+(c) in the case of any betting referred to in section 2A, within 15 days, or such further period as the Commissioner may allow under subsection (3), after the date the football game or sporting event in respect of which the bet is made takes place.
+
+(3) The Commissioner of Stamp Duties may in any case or class of cases, as he thinks fit, extend the time within which the statement under subsection (1) (b) and the duty chargeable shall be delivered and paid to the Commissioner.
+
+(4) For the purposes of this Act, “promoter”, in relation to any racing club or association, means the secretary of the racing club or association which has promoted any totalisator, pari-mutuel or any other system or method of cash or credit betting or sweepstake.
+
+[14/99 wef 31/03/1999]
 
 ### Production of documents
 
-5\. The Commissioner of Stamp Duties may at all reasonable times require the production of any books, accounts, vouchers or other documents relating to any totalisator, pari-mutuel or sweepstake promoted by any racing club or association .
+5\. The Commissioner of Stamp Duties may at all reasonable times require the production of any books, accounts, vouchers or other documents relating to any totalisator, pari-mutuel or sweepstake or betting promoted by any racing club or association or exempt organisation.
 
 ### Duty payable to be a debt due to Government
 
@@ -162,3 +228,8 @@ This Legislative History is provided for the convenience of users of the Betting
 ||Date of Presentation of Select Committee Report|7 September 1993 (Parl. 4 of 1993)|
 ||Date of Third Reading|12 October 1993|
 ||Dates of commencement|26 November 1993 (except paragraph (3) of the Fifth Schedule)|
+|15.|**Act 14 of 1999—Betting and Sweepstake Duties (Amendment) Act 1999**|
+||Date of First Reading|26 February 1999|
+|||(Bill No. 10/99 published on 27 February 1999)|
+||Date of Second and Third Readings|18 March 1999|
+||Date of commencement|31 March 1999|
