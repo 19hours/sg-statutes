@@ -992,11 +992,11 @@ This Legislative History is provided for the convenience of users of the Fire Sa
 
 ||||
 |:-|:-|:-|
-|1.|**Act 39 of 1993—Fire Safety Act**|
-||Date of First Reading|12 October 1993|
-|||(Bill No. 31/1993)|
-||Date of Second and Third Readings|10 November 1993|
-||Dates of commencement|8 April 1994|
-|||29 April 1994|
-|2.|**1994 Revised Edition—Fire Safety Act**|
+|1.|**1994 Revised Edition—Fire Safety Act**|
 ||Date of operation|15 March 1994|
+|2.|**Act 1 of 1996—Singapore Productivity and Standards Board Act 1995**|
+||(Consequential amendments made by)||
+||Date of First Reading|1 November 1995|
+|||(Bill No. 39/1995 published on 2 November 1995)|
+||Date of Second and Third Readings|5 December 1995|
+||Date of commencement|1 April 1996|
