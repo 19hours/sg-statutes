@@ -176,7 +176,7 @@ and if the court adjourns the trial for the purpose of enabling the requirements
 
 that the Protecting Power has been notified of his conviction and sentence.
 
-(3) Where after an appeal to the Court of Appeal the sentence on a protected prisoner of war or a protected internee remains a sentence of death, or remains or has become a sentence of imprisonment for a term of 2 years or more, the time within which he may apply for special leave to appeal to the Judicial Committeee of Her Britannic Majesty’s Privy Council under section 3(2)(c) of the Judicial Committee Act [Cap. 148], shall be 6 weeks from the date on which the convicted person receives a notice given in accordance with subsection (2)(a) or (b), as the case may be, that the Protecting Power has been notified of the decision of the court.
+(3) [Deleted by Act 2 of 1994 wef 08/04/1994]
 
 ### Powers of Minister
 
@@ -1480,7 +1480,7 @@ Part III
 
 Captivity
 
-SECTION i — Beginning of Captivity
+section I — Beginning of Captivity
 
 Article 17
 
@@ -4044,3 +4044,8 @@ This Legislative History is provided for the convenience of users of the Geneva 
 ||Date of commencement|6 April 1973|
 |2.|**1985 Revised Edition—Geneva Conventions Act**|
 ||Date of operation|30 March 1987|
+|3.|**Act 2 of 1994—Judicial Committee (Repeal) Act 1994**|
+||Date of First Reading|17 January 1994|
+|||(Bill No. 2/1994 published on 18 January 1994)|
+||Date of Second and Third Readings|23 February 1994|
+||Date of commencement|8 April 1994|
