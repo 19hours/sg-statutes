@@ -1112,8 +1112,6 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 (3) In this section, “requisite amount” means the amount as directed by the Minister under section 13(6).
 
-[31/2003 wef 01/07/2004]
-
 ### Provisions relating to moneys transferred or paid to parent’s, grandparent’s or spouse’s retirement account on death
 
 19\.—(1) Any moneys transferred by a member to his parent’s or spouse’s retirement account or paid by any person into his parent’s, grandparent’s or spouse’s retirement account under section 18 shall be deemed to be contributions for the purposes of this Act and shall not form part of the moneys payable out of the Fund on the death of the parent, grandparent or the spouse, as the case may be.
@@ -2517,6 +2515,8 @@ the amount paid in error shall not be refunded but shall be deemed to have been 
 (k) with respect to the withdrawal of money from the medisave account of a member for payment of premium payable by the member or his dependant who is insured under a medical insurance scheme or other insurance scheme approved by the Minister charged with the responsibility for health;
 
 (l) to provide for rates of contributions, other than those specified in the First Schedule, in respect of employees declared by the President to be employees for the purposes of this Act by notification in theGazetteunder section 2(1);
+
+(m) [Deleted by Act 31/2003 wef 01/07/2004]
 
 (n) to provide for members of the Fund to apply, assign or withdraw all or part of the contributions and interest standing to their credit in the Fund for the purpose of investing in such precious metals, insurance policies (including investment-linked insurance policies) and securities, and depositing in such fixed deposit accounts, as may be approved by the Minister, or for the reimbursement of the cost of the making of any such investments, including the payment of any fees, charges or incidental expenses incurred for such investments;
 
@@ -4277,6 +4277,10 @@ Self-employed Persons
 
 15\. Films Act (Cap. 107).
 
+15A. Financial Advisers Act (Cap. 110).
+
+[S 660/2004 wef 01/11/2004]
+
 16\. Fisheries Act (Cap. 111).
 
 17\.Deleted by Act 42/2001, wef 01/10/2002.
@@ -4820,6 +4824,8 @@ This Legislative History is provided for the convenience of users of the Central
 |||(Bill No. 30/2003 published on 17 October 2003)|
 ||Date of Second and Third Readings|11 November 2003|
 ||Dates of commencement|1 July 2004 (sections 3, 6 and 10(a))|
+|136.|**G.N. No. S 660/2004—Central Provident Fund Act (Amendment of Third Schedule) (No. 2) Notification 2004**|
+||Date of commencement|1 November 2004|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
