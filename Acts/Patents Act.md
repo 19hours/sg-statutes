@@ -74,13 +74,13 @@
 
 - [28 Examination as to form](#Examination-as-to-form)
 
-- [29 Search and examination and corresponding international applications](#Search-and-examination-and-corresponding-international-applications)
+- [29 Search and examination](#Search-and-examination)
 
 - [30 Grant of patent](#Grant-of-patent)
 
 - [31 General power to amend application before grant](#General-power-to-amend-application-before-grant)
 
-- [32 Failure of application](#Failure-of-application)
+- [32 (Repealed)](#Repealed)
 
 - [33 Information prejudicial to defence of Singapore or safety of public](#Information-prejudicial-to-defence-of-Singapore-or-safety-of-public)
 
@@ -92,9 +92,13 @@
 
 - [36 Term of patent](#Term-of-patent)
 
+- [36A Extension of term of patent](#Extension-of-term-of-patent)
+
 - [37 Patent not to be impugned for lack of unity](#Patent-not-to-be-impugned-for-lack-of-unity)
 
 - [38 General power to amend specification after grant](#General-power-to-amend-specification-after-grant)
+
+- [38A Search and examination after grant](#Search-and-examination-after-grant)
 
 - [39 Restoration of lapsed patents](#Restoration-of-lapsed-patents)
 
@@ -140,13 +144,13 @@
 
 [**Part XII USE OF PATENTED INVENTIONS FOR SERVICES OF GOVERNMENT**](#Part-XII)
 
-- [56 Use of patented inventions for services of Government](#Use-of-patented-inventions-for-services-of-Government)
+- [56 Use of patented inventions by Government and authorised parties](#Use-of-patented-inventions-by-Government-and-authorised-parties)
 
 - [57 Rights of third parties in respect of Government use](#Rights-of-third-parties-in-respect-of-Government-use)
 
 - [58 References of disputes as to Government use](#References-of-disputes-as-to-Government-use)
 
-- [59 Special provisions as to Government use during emergency](#Special-provisions-as-to-Government-use-during-emergency)
+- [59 (Repealed)](#Repealed)
 
 - [60 Nature and scope of rights under section 56](#Nature-and-scope-of-rights-under-section-56)
 
@@ -168,7 +172,7 @@
 
 - [68 Reversal of burden of proof](#Reversal-of-burden-of-proof)
 
-- [69 Restrictions on recovery of damages for infringement](#Restrictions-on-recovery-of-damages-for-infringement)
+- [69 Restrictions on relief for infringement](#Restrictions-on-relief-for-infringement)
 
 - [70 Relief for infringement of partially valid patent](#Relief-for-infringement-of-partially-valid-patent)
 
@@ -190,7 +194,7 @@
 
 [**Part XIV Revocation of Patents and Validity Proceedings**](#Part-XIV)
 
-- [79 Information on result of corresponding international applications](#Information-on-result-of-corresponding-international-applications)
+- [79 (Repealed)](#Repealed)
 
 - [80 Power to revoke patents on application](#Power-to-revoke-patents-on-application)
 
@@ -266,7 +270,7 @@
 
 - [110 Extension of time](#Extension-of-time)
 
-- [111 Hours of business of Registry and excluded days](#Hours-of-business-of-Registry-and-excluded-days)
+- [111 Hours of business and excluded days](#Hours-of-business-and-excluded-days)
 
 - [112 Government’s right to sell forfeited articles](#Government’s-right-to-sell-forfeited-articles)
 
@@ -276,9 +280,13 @@
 
 - [115 Rules](#Rules)
 
+- [115A Forms and directions of Registrar](#Forms-and-directions-of-Registrar)
+
 - [116 Fees to be paid to Office](#Fees-to-be-paid-to-Office)
 
 - [117 Transitional provisions](#Transitional-provisions)
+
+[**THE SCHEDULE Substances Which Are Not Pharmaceutical Products**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -311,6 +319,34 @@ PRELIMINARY
 2\.—(1) In this Act, unless the context otherwise requires —
 
 “Convention on International Exhibitions” means the Convention relating to International Exhibitions signed in Paris on 22nd November 1928, as amended or supplemented by any protocol to that convention which is for the time being in force;
+
+“corresponding application”, in relation to an application for a patent (referred to in this definition as the application in suit), means an application for protection filed, or treated as filed, with any prescribed patent office that —
+
+(a) forms the basis for a priority claim under section 17 in the application in suit; or
+
+(b) is subject to a priority claim based on —
+
+(i) the application in suit; or
+
+(ii) an application which is also the basis for a priority claim under section 17 in the application in suit;
+
+[19/2004 wef 01/07/2004]
+
+“corresponding international application”, in relation to an application for a patent (referred to in this definition as the application in suit), means an application for protection filed under the Patent Co-operation Treaty that —
+
+(a) forms the basis for a priority claim under section 17 in the application in suit; or
+
+(b) is subject to a priority claim based on —
+
+(i) the application in suit; or
+
+(ii) an application which is also the basis for a priority claim under section 17 in the application in suit;
+
+[19/2004 wef 01/07/2004]
+
+“corresponding patent”, in relation to a corresponding application, means a patent granted in respect of the corresponding application by the prescribed patent office in which the corresponding application was filed or treated as filed;
+
+[19/2004 wef 01/07/2004]
 
 “country” includes —
 
@@ -352,11 +388,29 @@ PRELIMINARY
 
 “international exhibition” means an official or officially recognised international exhibition falling within the terms of the Convention on International Exhibitions or falling within the terms of any subsequent treaty or convention replacing that convention;
 
+“international preliminary report on patentability” means —
+
+(a) an international preliminary report on patentability (Chapter I of the Patent Co-operation Treaty); or
+
+(b) an international preliminary report on patentability (Chapter II of the Patent Co-operation Treaty),
+
+referred to in the Regulations under the Patent Co-operation Treaty;
+
+[19/2004 wef 01/07/2004]
+
 “inventor”, in relation to an invention, means the actual deviser of the invention and “joint inventor” shall be construed accordingly;
 
 “journal” has the same meaning as in section 115(4);
 
 “legal officer” means a person appointed as a legal officer in the Singapore Legal Service;
+
+“marketing approval”, in relation to a pharmaceutical product, means a product licence under section 5 of the Medicines Act (Cap. 176);
+
+[19/2004 wef 01/07/2004]
+
+“medicinal product” has the same meaning as in the Medicines Act;
+
+[19/2004 wef 01/07/2004]
 
 “mortgage”, when used as a noun, includes a charge for securing money or money’s worth and, when used as a verb, shall be construed accordingly;
 
@@ -374,6 +428,22 @@ PRELIMINARY
 
 “person” includes the Government;
 
+“pharmaceutical product” means a medicinal product which is a substance used wholly or mainly by being administered to a human being for the purpose of treating or preventing disease, but does not include —
+
+(a) any substance which is used solely —
+
+(i) for diagnosis or testing; or
+
+(ii) as a device or mechanism, or an instrument, apparatus or appliance; or
+
+(b) any substance or class of substances specified in paragraph 2 or 3 of the Schedule;
+
+[19/2004 wef 01/07/2004]
+
+“prescribed form” means a form published by the Registrar under section 115A;
+
+[19/2004 wef 01/07/2004]
+
 “priority date” means the date determined as such under section 17;
 
 “published” means made available to the public (whether in Singapore or elsewhere) and a document shall be taken to be published under any provision of this Act if it can be inspected as of right at any place in Singapore by members of the public, whether on payment of a fee or not, and “republished” shall be construed accordingly;
@@ -386,6 +456,10 @@ PRELIMINARY
 
 “Registry” means the Registry of Patents established under this Act;
 
+“relevant authority”, in relation to a pharmaceutical product, means the Health Sciences Authority established under the Health Sciences Authority Act (Cap. 122C);
+
+[19/2004 wef 01/07/2004]
+
 “right”, in relation to any patent or application, includes an interest in the patent or application and, without prejudice to the foregoing, any reference to a right in a patent includes a reference to a share in the patent;
 
 “scientific adviser” means any person with any scientific qualification, any medical practitioner, engineer, architect, surveyor, accountant, actuary and any other specially skilled person.
@@ -395,6 +469,22 @@ PRELIMINARY
 (2) Rules may provide for stating in the journal that an exhibition falls within the definition of “international exhibition” in subsection (1) and any such statement shall be conclusive evidence that the exhibition falls within that definition.
 
 (3) For the purposes of this Act, a matter shall be taken to have been disclosed in any relevant application within the meaning of section 17 or in the specification of a patent if it was either claimed or disclosed (otherwise than by way of disclaimer or acknowledgment of prior art) in that application or specification.
+
+(3A) For the purposes of this Act —
+
+(a) a claim is related to another claim if —
+
+(i) the 2 claims are identical; or
+
+(ii) each limitation in the second claim —
+
+(A) is identical to a limitation in the first claim; or
+
+(B) differs from a limitation in the first claim only in expression but not in content; and
+
+(b) more than one claim may be related to a single claim.
+
+[19/2004 wef 01/07/2004]
 
 (4) References in this Act to an application for a patent, as filed, are references to such an application in the state it was on the date of filing.
 
@@ -766,7 +856,7 @@ but this subsection shall not prevent an application being initiated by document
 
 (b) otherwise any reference to the drawing in the application shall be treated as omitted.
 
-(6) Where, after an application for a patent has been filed and before the patent is granted, a new application is filed by the original applicant or his successor in title in accordance with the rules in respect of any part of the matter contained in the earlier application and the considerations mentioned in subsection (1) are satisfied in relation to the new application (without the new application contravening section 84) the new application shall be treated as having, as its date of filing, the date of filing the earlier application.
+(6) Where, after an application for a patent has been filed and before the conditions in section 30(2) and (3) are satisfied, a new application is filed by the original applicant or his successor in title in accordance with the rules in respect of any part of the matter contained in the earlier application and the considerations mentioned in subsection (1) are satisfied in relation to the new application (without the new application contravening section 84) the new application shall be treated as having, as its date of filing, the date of filing the earlier application.
 
 (7) Nothing in subsection (5) shall be construed as affecting the power of the Registrar under section 107(1) to correct errors or mistakes with respect to the filing of drawings.
 
@@ -776,7 +866,7 @@ but this subsection shall not prevent an application being initiated by document
 
 ### Publication of application
 
-27\.—(1) Subject to section 33, where an application has a date of filing, then, as soon as possible after the end of the prescribed period, the Registrar shall, unless the application is withdrawn, treated as having been abandoned or refused before preparations for its publication have been completed by the Registry, publish it as filed (including not only the original claims but also any amendment of those claims and new claims subsisting immediately before the completion of those preparations).
+27\.—(1) Subject to section 33, where an application has a date of filing, then, as soon as possible after the end of the prescribed period, the Registrar shall, unless the application is withdrawn in the prescribed manner, treated as having been abandoned or refused before preparations for its publication have been completed by the Registry, publish it as filed (including not only the original claims but also any amendment of those claims and new claims subsisting immediately before the completion of those preparations).
 
 (2) The Registrar may, if so requested by the applicant, publish the application as mentioned in subsection (1) during the prescribed period, and in either event shall publish the fact and date of its publication in the journal.
 
@@ -808,107 +898,245 @@ the Registrar shall, as soon as practicable after the end of the prescribed peri
 
 (3) If the applicant fails to do so, the Registrar may refuse the application.
 
-### Search and examination and corresponding international applications
+### Search and examination
 
-29\.—(1) Where an application for a patent complies with all the formal requirements referred to in section 28(1), the Registrar shall notify the applicant who shall —
+29\.—(1) Where an application for a patent complies with all the formal requirements referred to in section 28(1), the Registrar shall send a notification to the applicant.
 
-(a) file a request in the prescribed form and pay the prescribed fee for a search report within the prescribed period;
+(2) Upon receiving the Registrar’s notification under subsection (1), the applicant shall comply with any of the following paragraphs which is applicable within the period prescribed for that paragraph:
 
-(b) file a request in the prescribed form and pay the prescribed fee for a search and examination report within the prescribed period; or
+(a) where the application is not an international application for a patent (Singapore) that has entered the national phase in Singapore under section 86(3), file a request in the prescribed form and pay the prescribed fee for a search report;
 
-(c) where the applicant has filed, alone or jointly with any other person, a corresponding international application for a patent, not designating Singapore, or a corresponding application for a patent at any prescribed patent office, furnish such detail as prescribed in the prescribed form and within the prescribed period, of all the corresponding international applications and the other corresponding applications filed by him,
+(b) file a request in the prescribed form and pay the prescribed fee for a search and examination report;
 
-and if the applicant fails to make such request, pay the prescribed fee or furnish the prescribed detail within the prescribed period, the application shall be treated as having been abandoned at the end of the period prescribed under paragraph (a), (b) or (c), whichever is the latest.
+(c) where a corresponding application for a patent has been filed at any prescribed patent office —
 
-[30/2001]
+(i) file —
 
-(2) Where the applicant has filed a request and paid the fee under subsection (1)(a), the Registrar shall cause the application to be subject to a search by an Examiner to discover the relevant prior art contained in such documentation as may be prescribed.
+(A) a copy of the search report in respect of the corresponding application;
 
-(3) Upon receipt of the report of the search carried out under subsection (2), the Registrar shall send to the applicant a copy of the report, and the applicant may, within the prescribed period, file a request and pay the prescribed fee for an examination report on the application so as to determine whether the conditions specified in sections 13 and 25(4) and (5) have been complied with, taking into consideration all the relevant prior art, if any, referred to in the search report.
+(B) where the search report is not in English, an English translation of the search report;
 
-(4) Upon receipt of the examination report, the Registrar shall send to the applicant a copy of the report.
+(C) a copy of each prescribed document and, where required by the rules, an English translation of the document if it is not in English; and
 
-(5) Where the applicant has furnished the prescribed details under subsection (1)(c), he shall, subject to subsection (6), within the prescribed period, file in the prescribed form, the prescribed information in or translated into English relating to any one of the corresponding international applications or other corresponding applications referred to in subsection (1)(c).
+(D) a request in the prescribed form for an examination report,
 
-[30/2001]
+and pay the prescribed fee for an examination report; or
 
-(6) The applicant may, instead of filing the prescribed information referred to in subsection (5), within the prescribed period, either —
+(ii) file —
 
-(a) file a copy of a search report in respect of any one of the corresponding international applications or other corresponding applications referred to in subsection (1)(c), together with a request in the prescribed form and the prescribed fee, for an examination report; or
+(A) in the prescribed form, the prescribed information relating to the corresponding application; and
 
-(b) file a request in the prescribed form and pay the prescribed fee for a search and examination report.
+(B) where the prescribed information includes any document that is not in English, an English translation of such document;
 
-(7) Where the applicant has filed a request and paid the fee under subsection (1)(b) or (6)(b), the Registrar shall cause the application to be subject to —
+(d) where a corresponding international application for a patent has been filed —
 
-(a) a search by an Examiner to discover the relevant prior art contained in such documentation as may be prescribed; and
+(i) file —
 
-(b) an examination by an Examiner so as to determine whether the conditions specified in sections 13 and 25(4) and (5) have been complied with, taking into consideration all the relevant prior art, if any, discovered in the search; and upon receipt of the search and examination report, the Registrar shall send to the applicant a copy of the report.
+(A) a copy of the international search report in respect of the corresponding international application;
 
-(8) Where the applicant has filed a request and paid the fee under subsection (6)(a), the Registrar shall cause the application to be subject to an examination by an Examiner so as to determine whether the conditions specified in sections 13 and 25(4) and (5) have been complied with, taking into consideration all the relevant prior art, if any, referred to in the search report.
+(B) where the international search report is not in English, an English translation of the international search report;
 
-(9) Upon receipt of the examination report, the Registrar shall send to the applicant a copy of the report.
+(C) a copy of each prescribed document and, where required by the rules, an English translation of the document if it is not in English; and
 
-(10) Where an international application for a patent (Singapore) has been filed by the applicant and the international preliminary examination report is not established, the applicant may, within the prescribed period, file a request in the prescribed form and pay the prescribed fee, for an examination report on the application so as to determine whether the conditions specified in sections 13 and 25(4) and (5) have been complied with, taking into consideration all the relevant prior art, if any, referred to in the international search report.
+(D) a request in the prescribed form for an examination report,
 
-(11) Upon receipt of the examination report, the Registrar shall send to the applicant a copy of the report.
+and pay the prescribed fee for an examination report; or
 
-(12) In this Part, “corresponding international application” and “corresponding application”, in relation to an invention, mean an application for protection filed, respectively, under the Patent Co-operation Treaty or with any prescribed patent office in respect of the same or substantially the same invention as that which is the subject of the application in suit, the application filed under the Patent Co-operation Treaty or with the prescribed patent office being —
+(ii) file —
 
-(a) the basis for a priority claim under section 17 in the application in suit; or
+(A) in the prescribed form, the prescribed information relating to the corresponding international application; and
 
-(b) subject to a priority claim based on the application in suit or an application which is also the basis for a priority claim under section 17 in the application in suit.
+(B) where the prescribed information includes any document that is not in English, an English translation of such document;
+
+(e) where the application is an international application for a patent (Singapore) that has entered the national phase in Singapore under section 86(3) —
+
+(i) file —
+
+(A) a copy of the international search report issued in respect of the application;
+
+(B) where the international search report is not in English, an English translation of the international search report;
+
+(C) a copy of each prescribed document and, where required by the rules, an English translation of the document if it is not in English; and
+
+(D) a request in the prescribed form for an examination report,
+
+and pay the prescribed fee for an examination report; or
+
+(ii) file a notice in the prescribed form of the applicant’s intention to rely on the international preliminary report on patentability in respect of that application.
+
+(3) Where the applicant has filed a request and paid the prescribed fee for a search report under subsection (2)(a), the Registrar shall —
+
+(a) cause the application to be subjected to a search by an Examiner to discover the relevant prior art contained in —
+
+(i) such documentation as may be prescribed; and
+
+(ii) any additional documentation that the Examiner is aware of and considers to be relevant; and
+
+(b) upon receiving the search report prepared by the Examiner, send the applicant a notification and a copy of the search report.
+
+(4) Upon receiving the search report under subsection (3)(b) from the Registrar, the applicant shall, within the prescribed period, file a request in the prescribed form and pay the prescribed fee for an examination report.
+
+(5) Where the applicant has filed a request and paid the fee for an examination report under subsection (2)(c)(i), (d)(i) or (e)(i) or (4), the Registrar shall —
+
+(a) cause the application to be subjected to an examination by an Examiner to determine —
+
+(i) whether the conditions specified in sections 13 and 25(4) and (5) have been complied with;
+
+(ii) whether the application discloses any additional matter referred to in section 84(1); and
+
+(iii) whether the application discloses any matter extending beyond that disclosed in the application as filed,
+
+taking into consideration all the relevant prior art, if any, that the Examiner is aware of or that has been referred to in the search report or international search report, as the case may be; and
+
+(b) upon receiving the examination report prepared by the Examiner, send the applicant a notification and a copy of the examination report.
+
+(6) Where the applicant has filed a request and paid the fee for a search and examination report under subsection (2)(b), the Registrar shall —
+
+(a) cause the application to be subjected to —
+
+(i) a search by an Examiner to discover the relevant prior art contained in —
+
+(A) such documentation as may be prescribed; and
+
+(B) any additional documentation that the Examiner is aware of and considers to be relevant; and
+
+(ii) an examination by an Examiner to determine —
+
+(A) whether the conditions specified in sections 13 and 25(4) and (5) have been complied with;
+
+(B) whether the application discloses any additional matter referred to in section 84(1); and
+
+(C) whether the application discloses any matter extending beyond that disclosed in the application as filed,
+
+taking into consideration all the relevant prior art, if any, that the Examiner is aware of or that has been discovered in the search; and
+
+(b) upon receiving the search and examination report prepared by the Examiner, send the applicant a notification and a copy of the search and examination report.
+
+(7) If, within the prescribed period under —
+
+(a) paragraph (b), (c)(i) or (ii), (d) (i) or (ii) or (e) (i) or (ii) of subsection (2); or
+
+(b) subsection (4),
+
+an applicant files a request in the prescribed form and pays the prescribed fee for that period to be extended, the applicant shall perform the acts set out in that provision within the prescribed extended period for performing those acts.
+
+[19/2004 wef 01/07/2004]
 
 ### Grant of patent
 
-30\.—(1) Where before the end of the prescribed period the conditions in subsection (2) are satisfied, the Registrar shall grant the applicant a patent.
+30\.—(1) Subject to subsection (4), the Registrar shall grant the applicant a patent if —
 
-(2) The conditions referred to in subsection (1) are —
+(a) the conditions in subsection (2) are satisfied before the end of the prescribed period or any extension thereof; and
+
+(b) the conditions in subsection (3) have been satisfied.
+
+(2) The conditions referred to in subsection (1)(a) are —
 
 (a) that all the formal requirements have been complied with;
 
-(b) in the case of an international application for a patent (Singapore) where Singapore has been elected in accordance with Chapter II of the Patent Co-operation Treaty, that the international preliminary examination report of the application has been received by the Registrar;
+(b) that the Registrar has received —
 
-(c) in any other case, that the following reports or information have been received by the Registrar:
+(i) the search report referred to in section 29(3) and the examination report referred to in section 29(5);
 
-(i) the search and examination report referred to in section 29(7);
+(ii) the search and examination report referred to in section 29(6);
 
-(ii) the search report and the examination report referred to in section 29(3) and (4);
+(iii) the search report referred to in section 29(2)(c)(i), the examination report referred to in section 29(5) and, where the search report is not in English, an English translation of the search report;
 
-(iii) the search report referred to in section 29(6) and the examination report referred to in section 29(8);
+(iv) the prescribed information referred to in section 29(2)(c)(ii) or (d)(ii) and, where the prescribed information includes any document that is not in English, an English translation of such document;
 
-(iv) the examination report referred to in section 29(10); or
+(v) the international search report referred to in section 29(2)(d)(i) or (e)(i), the examination report referred to in section 29(5) and, where the international search report is not in English, an English translation of the international search report; or
 
-(v) the prescribed information relating to any one of the corresponding international applications or other corresponding applications referred to in section 29(5); and
+(vi) in the case of an international application for a patent (Singapore) which has entered the national phase in Singapore under section 86(3), as an alternative to the document or documents referred to in any of sub-paragraphs (ii), (iii), (iv) and (v) —
 
-(d) that the prescribed fee for the grant of a patent has been paid.
+(A) the notice referred to in section 29(2)(e)(ii);
 
-(3) Notwithstanding subsection (1), the Registrar may refuse to grant a patent —
+(B) an international search report in respect of that application;
 
-(a) in pursuance of more than one application where 2 or more applications for a patent for the same invention having the same priority date have been filed by the same applicant or his successor in title; or
+(C) an international preliminary report on patentability in respect of that application; and
 
-(b) in respect of any invention referred to in section 13(2).
+(D) where any report referred to in sub-paragraph (B) or (C) is not in English, an English translation of that report;
 
-[40/95]
+(c) that the prescribed documents for the grant of the patent have been filed; and
+
+(d) that the prescribed fee for the grant of the patent has been paid.
+
+(3) The conditions referred to in subsection (1)(b) are —
+
+(a) that —
+
+(i) the document or documents received by the Registrar under subsection (2)(b) do not disclose any unresolved objection on the ground that the claim or claims in the application do not relate to one invention or to a group of inventions which are so linked as to form a single inventive concept; or
+
+(ii) if any such objection is disclosed, the applicant has satisfied the Registrar that the objection has been resolved;
+
+(b) where the applicant relies on any examination report referred to in section 29(5), any search and examination report referred to in section 29(6) or any international preliminary report on patentability referred to in subsection (2)(b)(vi), that each claim in the application at the time the prescribed documents for the grant of the patent were filed and the prescribed fee for the grant of the patent was paid is related to at least one claim in the application at the time the report was issued —
+
+(i) which has been examined; and
+
+(ii) which is referred to in the report;
+
+(c) where the applicant relies on the prescribed information relating to a corresponding application referred to in section 29(2)(c)(ii) or the prescribed information relating to a corresponding international application referred to in section 29(2)(d)(ii), at the time the prescribed documents for the grant of the patent were filed and the prescribed fee for the grant of the patent was paid, that each claim in the application is related to at least one claim —
+
+(i) which is set out in the prescribed information relating to the corresponding application or corresponding international application, as the case may be; and
+
+(ii) which has been examined to determine whether the claim appears to satisfy the criteria of novelty, inventive step (or non-obviousness) and industrial applicability (or utility);
+
+(d) that the invention is not an invention referred to in section 13(2); and
+
+(e) that there is —
+
+(i) no other application for a patent for the same invention having the same priority date filed by the same applicant or his successor in title; and
+
+(ii) no earlier grant of a patent for the same invention having the same priority date to the same applicant or his successor in title.
+
+(4) If, within the prescribed period under subsection (1)(a) —
+
+(a) an appeal is filed in court in respect of an application; and
+
+(b) the applicant applies to the court to extend that period while the appeal is pending,
+
+the court may extend that period to such date as the court may determine.
+
+(5) Where the conditions in subsection (2) are not satisfied before the end of the prescribed period under subsection (1)(a) or any extension thereof, the applicant shall be deemed to have abandoned his application at the end of that period.
+
+(6) If the Registrar is of the opinion that any condition in subsection (3) has not been satisfied —
+
+(a) the Registrar shall send a notification to the applicant setting out the grounds for the Registrar’s objection to granting a patent;
+
+(b) the applicant shall have the right to respond to the Registrar’s objection within a period specified by the Registrar;
+
+(c) unless the Registrar withdraws his objection, the applicant shall, within a period specified by the Registrar and subject to section 84, amend the specification of his application in accordance with the prescribed conditions, with a view to satisfying the conditions in subsection (3); and
+
+(d) if any condition in subsection (3) remains unsatisfied at the end of the period referred to in paragraph (c), the applicant shall be deemed to have abandoned his application at the end of that period.
+
+[19/2004 wef 01/07/2004]
 
 ### General power to amend application before grant
 
-31\.—(1) If it appears to an Examiner during the examination of an application that the conditions specified in sections 13 and 25(4) and (5) have not been complied with, the Examiner shall give the applicant at least one written opinion to that effect, and the applicant shall before the examination report is issued have the right to —
+31\.—(1) If it appears to an Examiner during the examination of an application that —
 
-(a) respond to the written opinion within any prescribed period; and
+(a) the conditions specified in sections 13 and 25(4) and (5) have not been complied with; or
 
-(b) amend the specification of the application in accordance with the prescribed conditions and subject to section 84.
+(b) the application discloses —
 
-(2) Notwithstanding subsection (1), at any time before a patent is granted in pursuance of an application, the applicant may, in accordance with the prescribed conditions and subject to section 84, amend the application of his own volition.
+(i) any additional matter referred to in section 84(1); or
 
-### Failure of application
+(ii) any matter extending beyond that disclosed in the application for the patent as filed,
 
-32\.—(1) Where an application for a patent has not, before the end of such period as may be prescribed, complied with the requirements of section 30(2), the application shall be treated as having been abandoned at the end of that period.
+the Examiner shall give the applicant at least one written opinion to that effect, and the Registrar shall, upon receiving the written opinion, send the applicant a notification and a copy of the written opinion.
 
-(2) If at the end of the prescribed period under subsection (1) an appeal to the court is pending in respect of the application or the time within which such an appeal could be brought has not expired, that period —
+[19/2004 wef 01/07/2004]
 
-(a) where such an appeal is pending, or is brought within the said time or before the expiration of any extension of that time granted (in the case of a first extension) on an application made within that time or (in the case of a subsequent extension) on an application made before the expiration of the last previous extension, shall be extended until such date as the court may determine; or
+(1A) The applicant shall, before the examination report is issued, have the right —
 
-(b) where no such appeal is pending or is so brought, shall continue until the end of the said time or, if any extension of that time is so granted, until the expiration of the extension or last extension so granted.
+(a) to respond in the prescribed manner to the written opinion within any prescribed period; and
+
+(b) subject to section 84, to amend in the prescribed manner the specification of the application in accordance with the prescribed conditions.
+
+[19/2004 wef 01/07/2004]
+
+(2) Notwithstanding subsection (1), during any period prescribed for the purposes of this subsection, the applicant may, in accordance with the prescribed conditions and subject to section 84, amend the application of his own volition.
+
+32\. [Deleted by Act 19/2004 wef 01/07/2004]
 
 ### Information prejudicial to defence of Singapore or safety of public
 
@@ -994,7 +1222,7 @@ Provisions as to Patents after Grant
 
 ### Term of patent
 
-36\.—(1) A patent granted under this Act shall be treated for the purposes of this Act as having been granted, and shall take effect on the date of issue of the certificate of grant and, subject to subsection (2), shall continue in force until the end of the period of 20 years beginning with the date of filing the application for the patent or with such other date as may be prescribed.
+36\.—(1) A patent granted under this Act shall be treated for the purposes of this Act as having been granted, and shall take effect, on the date of issue of the certificate of grant and, subject to subsection (2) and section 36A, shall continue in force until the end of the period of 20 years beginning with the date of filing the application for the patent or with such other date as may be prescribed.
 
 (2) A patent shall cease to have effect at the end of the prescribed period for the payment of any renewal fee if it is not paid within that period.
 
@@ -1004,11 +1232,173 @@ Provisions as to Patents after Grant
 
 (b) an act which would constitute an infringement of it if it had not expired shall constitute such an infringement; and
 
-(c) an act which would constitute the use of the patented invention for the services of the Governmentif the patent had not expired shall constitute that use.
+(c) an act which would constitute the use of the patented invention in accordance with section 56 if the patent had not expired shall constitute that use.
 
 (4) Rules shall include provision requiring the Registrar to notify the registered proprietor of a patent that a renewal fee has not been received from him in the Registry before the end of the prescribed period and before the framing of the notification.
 
 [30/2001]
+
+### Extension of term of patent
+
+36A\.—(1) The proprietor of a patent may apply to the Registrar to extend the term of the patent on any of the following grounds:
+
+(a) that there was an unreasonable delay by the Registrar in granting the patent;
+
+(b) where the patent was granted on the basis of prescribed information relating to a corresponding application referred to in section 29(2)(c)(ii), that —
+
+(i) there was an unreasonable delay in the issue of the corresponding patent; and
+
+(ii) the patent office that granted the corresponding patent has extended the term of the corresponding patent on the basis of such delay;
+
+(c) where the subject of the patent includes any substance which is an active ingredient of any pharmaceutical product, that —
+
+(i) there was an unreasonable curtailment of the opportunity to exploit the patent caused by the process of obtaining marketing approval for a pharmaceutical product, being the first pharmaceutical product to obtain marketing approval which uses the substance as an active ingredient; and
+
+(ii) the term of the patent has not previously been extended on this ground.
+
+(2) A delay by the Registrar in granting a patent shall not be treated as an unreasonable delay under subsection (1)(a) unless —
+
+(a) the interval between the date of filing of the application for the patent and the date of issue of the certificate of grant, excluding any period attributable to an act or omission of the applicant, exceeds 4 years; or
+
+(b) the interval between the date on which the applicant —
+
+(i) filed a request for a search and examination report in accordance with section 29(2)(b); or
+
+(ii) filed a request for an examination report in accordance with section 29(2)(c)(i), (d)(i) or (e)(i) or (4),
+
+and the date of issue of the certificate of grant, excluding any period attributable to an act or omission of the applicant, exceeds 2 years.
+
+(3) Where the proprietor of a patent has made an application under subsection (1)(a) and has satisfied the Registrar that there was in fact an unreasonable delay under subsection (1)(a), the Registrar shall extend the term of the patent —
+
+(a) in a case to which subsection (2)(a) applies, by the period by which the interval referred to in subsection (2)(a) exceeds 4 years;
+
+(b) in a case to which subsection (2)(b) applies, by the period by which the interval referred to in subsection (2)(b) exceeds 2 years; or
+
+(c) in a case to which both paragraphs (a) and (b) of subsection (2) apply, by the period by which —
+
+(i) the interval referred to in subsection (2)(a) exceeds 4 years; or
+
+(ii) the interval referred to in subsection (2)(b) exceeds 2 years,
+
+whichever is the longer period.
+
+(4) Where the proprietor of a patent has made an application under subsection (1)(b) and has satisfied the Registrar of the matters referred to in sub-paragraphs (i) and (ii) of subsection (1)(b), the Registrar may, if the Registrar thinks fit, extend the term of the patent by such period, not exceeding 5 years, as the Registrar may determine.
+
+(5) A curtailment of the opportunity to exploit a patent, the subject of which includes a substance which is an active ingredient of any pharmaceutical product, caused by the process of obtaining marketing approval for a pharmaceutical product, being the first pharmaceutical product to obtain marketing approval which uses the substance as an active ingredient, shall not be treated as an unreasonable curtailment under subsection (1)(c) unless —
+
+(a) the marketing approval was obtained after the date of issue of the certificate of grant; and
+
+(b) the interval between the date the application for marketing approval was filed and the date marketing approval was obtained, excluding any period attributable to an act or omission of the applicant for marketing approval, exceeds 2 years.
+
+(6) Subject to subsections (7), (8) and (9), where the proprietor of a patent has made an application under subsection (1)(c) and has satisfied the Registrar that there was in fact an unreasonable curtailment of the opportunity to exploit the patent under subsection (1)(c), the Registrar shall extend the term of the patent by —
+
+(a) a period equivalent to the interval between the date of issue of the certificate of grant and the date marketing approval was obtained;
+
+(b) the period by which the interval referred to in subsection (5)(b) exceeds 2 years; or
+
+(c) a period of 5 years,
+
+whichever is the shortest period.
+
+(7) The Registrar shall not extend the term of the patent under subsection (6) unless the applicant has procured and submitted to the Registrar a certificate from the relevant authority stating —
+
+(a) the date the application for marketing approval was filed;
+
+(b) the date marketing approval was obtained; and
+
+(c) for each period attributable to an act or omission of the applicant for marketing approval, the dates on which the period started and ended.
+
+(8) In determining the period by which to extend the term of the patent under subsection (6), the Registrar shall rely on, and shall not be concerned to inquire into the truth of, the statements contained in the certificate from the relevant authority under subsection (7).
+
+(9) Where the term of a patent has been extended under subsection (6), the protection conferred by the patent during the term of the extension shall apply only to the substance referred to in subsection (1)(c).
+
+(10) Every application to extend the term of a patent shall be —
+
+(a) made by the proprietor of the patent in the prescribed form within the prescribed period;
+
+(b) filed in the prescribed manner; and
+
+(c) accompanied by the prescribed fee and any prescribed documents,
+
+and the Registrar may reject any application that fails to comply with any requirement under this subsection.
+
+(11) As soon as practicable after the Registrar has extended the term of a patent, he shall —
+
+(a) send to the proprietor of the patent a certificate of extension of patent term in the prescribed form specifying —
+
+(i) the period of the extension; and
+
+(ii) any limitation on the protection conferred by the patent during the term of the extension; and
+
+(b) publish in the journal a notice of the extension.
+
+(12) The proprietor of a patent who has made an application under subsection (1) may withdraw the application by informing the Registrar in writing of the withdrawal of the application, and any such withdrawal shall not be revocable.
+
+(13) In subsection (2), “period attributable to an act or omission of the applicant” includes (without prejudice to the generality of the expression) any of the following periods which is applicable:
+
+(a) the period taken by the applicant to pay the filing fee under section 25(1)(b), calculated from the date of filing of the application for the patent to the date on which the filing fee is paid;
+
+(b) the period taken by the applicant to correct deficiencies in his application under section 26(3), calculated from the date of the Registrar’s notification to the applicant of the deficiencies to the date on which the applicant corrects the deficiencies;
+
+(c) the period taken by the applicant to file one or more claims for the purposes of the application under section 26(8), calculated from the date of filing of the application for the patent to the date on which the applicant files the claim or claims;
+
+(d) the period taken by the applicant to amend his application under section 28(2) to comply with the formal requirements, calculated from the date of the Registrar’s notification to the applicant that not all formal requirements have been complied with to the earliest date on which the application, as amended by the applicant, complies with the formal requirements;
+
+(e) the period taken by the applicant to —
+
+(i) file a request and pay the prescribed fee for a search report under section 29(2)(a); or
+
+(ii) file a request and pay the prescribed fee for a search and examination report under section 29(2)(b),
+
+calculated from the date of the Registrar’s notification under section 29(1) to the date on which the applicant files the request and pays the fee;
+
+(f) the period taken by the applicant to file the documents referred to in section 29(2)(c)(i), (d)(i) or (e)(i) and pay the prescribed fee for an examination report, calculated from the date of the Registrar’s notification under section 29(1) to the date on which the applicant files the documents and pays the fee;
+
+(g) the period taken by the applicant to file the documents referred to in section 29(2)(c)(ii) or (d)(ii), calculated from the date of the Registrar’s notification under section 29(1) to the date on which the applicant files the documents;
+
+(h) the period taken by the applicant to file a notice under section 29(2)(e)(ii), calculated from the date of the Registrar’s notification under section 29(1) to the date on which the applicant files the notice;
+
+(i) the period taken by the applicant to file a request for an examination report under section 29(4), calculated from the date of the Registrar’s notification under section 29(3)(b) to the date on which the applicant files the request;
+
+(j) the period taken by the applicant to file the prescribed documents under section 30(2)(c) and pay the prescribed fee under section 30(2)(d) for the grant of the patent, calculated from —
+
+(i) in a case to which section 30(2)(b)(i), (iii) or (v) applies, the date of the Registrar’s notification under section 29(5);
+
+(ii) in a case to which section 30(2)(b)(ii) applies, the date of the Registrar’s notification under section 29(6);
+
+(iii) in a case to which section 30(2)(b)(iv) applies, the date on which the applicant files the documents referred to therein; or
+
+(iv) in a case to which section 30(2)(b)(vi) applies, the date on which the applicant files the notice under section 29(2)(e)(ii),
+
+to the date on which the prescribed documents under section 30(2)(c) are filed and the prescribed fee under section 30(2)(d) is paid;
+
+(k) the period taken by the applicant to rectify any failure to satisfy any condition under section 30(3), calculated from the date of the Registrar’s notification under section 30(6)(a) to the date on which every condition in section 30(3) is satisfied;
+
+(l) the period taken by the applicant to respond to a written opinion under section 31(1A)(a), calculated from the date of the Registrar’s notification under section 31(1) to the date on which the applicant responds to the written opinion;
+
+(m) the period taken by the applicant to amend the specification of his application under section 31(1A)(b), calculated from the date of the written opinion given under section 31(1) to the date on which the applicant amends the specification of his application;
+
+(n) where the application is an international application for a patent (Singapore) that has entered the national phase in Singapore under section 86(3), the period taken by the applicant to cause the application to enter the national phase in Singapore, calculated from the date of the filing of the application in accordance with the Patent Co-operation Treaty to the date on which the national phase of the application begins under section 86(3);
+
+(o) the period taken by the applicant to rectify any failure to comply with any requirement under this Act or the rules, such period —
+
+(i) to be calculated from the date by which the applicant is required to comply with the requirement to the date on which the applicant rectifies the failure to comply with the requirement; and
+
+(ii) to include any period taken by the Registrar or the Registry to detect or to notify the applicant of the applicant’s failure to comply with the requirement;
+
+(p) the period taken by the applicant to respond to any request by the Registrar for any document, information or evidence, calculated from the date of the Registrar’s notification to the applicant of the request to the date on which the applicant responds to the request;
+
+(q) any extension or alteration of any period to do any thing that is granted by the Registrar or the court at the request or on the application of the applicant.
+
+(14) In subsections (5) and (7), “period attributable to an act or omission of the applicant for marketing approval” includes (without prejudice to the generality of the expression) —
+
+(a) the period taken by the applicant for marketing approval to correct deficiencies in his application for marketing approval, calculated from the date of the relevant authority’s notification to the applicant for marketing approval of the deficiencies to the date on which the applicant for marketing approval corrects the deficiencies;
+
+(b) the period taken by the applicant for marketing approval to respond to any request by the relevant authority for clarification or information, calculated from the date of the relevant authority’s request to the date on which the relevant authority receives the response of the applicant for marketing approval; and
+
+(c) any extension of any period to do any thing that is granted by the relevant authority at the request or on the application of the applicant for marketing approval.
+
+[19/2004 wef 01/07/2004]
 
 ### Patent not to be impugned for lack of unity
 
@@ -1027,6 +1417,96 @@ Provisions as to Patents after Grant
 (3) An amendment of a specification of a patent under this section shall have effect and be deemed always to have had effect from the grant of the patent.
 
 (4) A person may give notice to the Registrar of his opposition to an application under this section by the proprietor of a patent, and if he does so the Registrar shall notify the proprietor and consider the opposition in deciding whether to grant the application.
+
+### Search and examination after grant
+
+38A\.—(1) Subject to subsection (2), any person may request for a search and examination report in respect of any claim or claims in the specification of a patent on any of the following grounds:
+
+(a) where the patent was granted on the basis of any examination report or search and examination report referred to in section 29, any international preliminary report on patentability referred to in section 30(2)(b)(vi) or any international preliminary examination report, that —
+
+(i) at least one claim in the application for the patent at the time the prescribed documents for the grant of the patent were filed and the prescribed fee for the grant of the patent was paid was not related to any claim in the application at the time the report was issued —
+
+(A) which has been examined; and
+
+(B) which is referred to in the report; or
+
+(ii) the Examiner of the application did not consider all the relevant prior art before preparing the report;
+
+(b) where the patent was granted on the basis of any prescribed information relating to a corresponding application or corresponding international application referred to in section 29, that —
+
+(i) at the time the prescribed documents for the grant of the patent were filed and the prescribed fee for the grant of the patent was paid, at least one claim in the application for the patent did not relate to any claim —
+
+(A) which is set out in the prescribed information relating to the corresponding application or corresponding international application, as the case may be; and
+
+(B) which has been examined to determine whether the claim appears to satisfy the criteria of novelty, inventive step (or non-obviousness) and industrial applicability (or utility); or
+
+(ii) the Examiner of the corresponding application or corresponding international application, as the case may be, did not consider all the relevant prior art before preparing his report on the examination of the corresponding application or corresponding international application, as the case may be.
+
+(2) The Registrar shall not grant a request under subsection (1) unless —
+
+(a) the request is filed in the prescribed manner;
+
+(b) the prescribed fee for the search and examination report has been paid; and
+
+(c) in a case to which subsections (3) and (4) apply, subsection (4) has been complied with.
+
+(3) Subject to subsection (4), any person who files a request under subsection (1) may, at the time he files the request, also file —
+
+(a) any observation which he wishes to make in relation to the patent; and
+
+(b) any document which he considers to be relevant for the purposes of the examination.
+
+(4) Where any document referred to in subsection (3)(b) is not in English, the person who files the request under subsection (1) shall also file an English translation of the document.
+
+(5) The Registrar shall not grant a request under subsection (1) if he is of the view that the request is frivolous, vexatious or an abuse of the process.
+
+(6) No request under subsection (1) shall be filed or granted where there are pending before the court or the Registrar proceedings in which the validity of the patent may be put in issue.
+
+(7) Where the Registrar grants a request under subsection (1), the Registrar shall cause the claim or claims to be subjected to —
+
+(a) a search by an Examiner to discover the relevant prior art contained in —
+
+(i) such documentation as may be prescribed; and
+
+(ii) any additional documentation that the Examiner is aware of and considers to be relevant; and
+
+(b) an examination by an Examiner to determine —
+
+(i) whether the conditions specified in sections 13 and 25(4) and (5) have been complied with;
+
+(ii) whether the specification of the patent discloses any additional matter referred to in section 84(1); and
+
+(iii) whether the specification of the patent discloses any matter extending beyond that disclosed in the application for the patent as filed,
+
+taking into consideration all the relevant prior art, if any, that the Examiner is aware of or that has been discovered in the search.
+
+(8) If it appears to the Examiner during the examination of the specification of the patent that —
+
+(a) the conditions specified in sections 13 and 25(4) and (5) have not been complied with; or
+
+(b) the specification of the patent discloses —
+
+(i) any additional matter referred to in section 84(1); or
+
+(ii) any matter extending beyond that disclosed in the application for the patent as filed,
+
+the Examiner shall give the proprietor of the patent a written opinion to that effect, and the proprietor of the patent shall, before the examination report is issued, have the right to respond in the prescribed manner to the written opinion within the prescribed period.
+
+(9) Upon receiving the search and examination report prepared by the Examiner, the Registrar shall —
+
+(a) send a copy of the report to the proprietor of the patent; and
+
+(b) where the request under subsection (1) is not filed by the proprietor of the patent, send a copy each of —
+
+(i) the report;
+
+(ii) any written opinion given by the Examiner; and
+
+(iii) any response given in the prescribed manner by the proprietor of the patent to any such written opinion,
+
+to the person who filed the request.
+
+[19/2004 wef 01/07/2004]
 
 ### Restoration of lapsed patents
 
@@ -1060,7 +1540,7 @@ Provisions as to Patents after Grant
 
 he has the right to continue to do the act or, as the case may be, to do the act, notwithstanding the restoration of the patent.
 
-(11) The right referred to in subsection (1) does not extend to granting a licence to another person to do the act.
+(11) The right referred to in subsection (10) does not extend to granting a licence to another person to do the act.
 
 (12) If the act was done, or the preparations were made, in the course of a business, the person entitled to the right conferred by subsection (10) may —
 
@@ -1070,7 +1550,7 @@ he has the right to continue to do the act or, as the case may be, to do the act
 
 (13) Where a product is disposed of to another in exercise of the rights conferred by subsection (10) or (12), that other and any person claiming through him may deal with the product in the same way as if it had been disposed of by the registered proprietor of the patent.
 
-(14) Subsections (8) to (13) shall apply in relation to the use of a patent for the services of the Governmentas they apply in relation to infringement of the patent.
+(14) Subsections (8) to (13) shall apply in relation to the use of a patent in accordance with section 56 as they apply in relation to infringement of the patent.
 
 ### Surrender of patents
 
@@ -1078,7 +1558,7 @@ he has the right to continue to do the act or, as the case may be, to do the act
 
 (2) A person may give notice to the Registrar of his opposition to the surrender of a patent under this section, and if he does so the Registrar shall notify the proprietor of the patent and determine the question.
 
-(3) If the Registrar is satisfied that the patent may properly be surrendered, he may accept the offer and, as from the date when notice of his acceptance is published in the journal, the patent shall cease to have effect, but no action for infringement shall lie in respect of any act done before that date and no right to compensation shall accrue for any use of the patented invention before that date for the services of the Government.
+(3) If the Registrar is satisfied that the patent may properly be surrendered, he may accept the offer and, as from the date when notice of his acceptance is published in the journal, the patent shall cease to have effect, but no action for infringement shall lie in respect of any act done before that date and no right to compensation shall accrue for any use of the patented invention before that date in accordance with section 56.
 
 ## PART VIII
 
@@ -1416,59 +1896,39 @@ may, within the prescribed period, give notice to the Registrar of opposition to
 
 ### Compulsory licences
 
-55\.—(1) At any time after the expiration of 3 years from the date of the grant of a patent or 4 years from the date of filing of the patent application, whichever is the later, any person interested may apply to the court for the grant of a licence under the patent upon any of the grounds specified in subsection (2).
+55\.—(1) Any interested person may apply to the court for the grant of a licence under a patent on the ground that the grant of the licence is necessary to remedy an anti-competitive practice.
 
-[40/95]
+[19/2004 wef 01/07/2004]
 
-(2) The grounds upon which a licence may be granted under this section are that a market for the patented invention is not being supplied, or is not being supplied on reasonable terms, in Singapore.
+(2) Without prejudice to the generality of subsection (1), the court may determine that the grant of a licence is necessary to remedy an anti-competitive practice if —
 
-[40/95]
+(a) there is a market for the patented invention in Singapore;
 
-(3) Subject to this section, if the court is satisfied that either of the grounds referred to in subsection (2)is established, the court may make an order for the grant of a licence in accordance with the application upon such terms as the court thinks fit.
+(b) that market —
+
+(i) is not being supplied; or
+
+(ii) is not being supplied on reasonable terms; and
+
+(c) the court is of the view that the proprietor of the patent has no valid reason for failing to supply that market with the patented invention, whether directly or through a licensee, on reasonable terms.
+
+[19/2004 wef 01/07/2004]
+
+(3) Subject to this section, if the court is satisfied that the ground referred to in subsection (1) is established, the court may make an order for the grant of a licence in accordance with the application upon such terms as the court thinks fit.
 
 [40/95]
 
 (4) A licence granted under this section —
 
-(a) is not exclusive;
+(a) is not exclusive; and
 
-(b) shall not be assigned otherwise than in connection with the goodwill of the business in which the patented invention is used; and
+(b) shall not be assigned otherwise than in connection with the goodwill of the business in which the patented invention is used.
 
-(c) is limited to the supply of the patented invention predominantly in Singapore.
-
-[40/95]
-
-(5) Any licence granted under this section may, on the application of any interested party, be terminated by the court where the court is satisfied that the ground upon which the licence was granted has ceased to exist.
+(5) Any licence granted under this section may, on the application of any interested party, be terminated by the court where the court is satisfied that the ground upon which the licence was granted has ceased to exist and is unlikely to recur.
 
 [40/95]
 
 (6) Where a licence is granted under this section to any person, the person shall pay such remuneration to the patentee as may be agreed, or as may be determined by a method agreed between the person and the patentee or, in default of agreement, as is determined by the court on the application of the person or the patentee.
-
-[40/95]
-
-(7) No licence shall be granted under this section unless the person applying for the licence has first taken all reasonable steps to obtain a licence from the patentee on reasonable commercial terms and conditions and has failed to obtain such licence within a reasonable period of time.
-
-[40/95]
-
-(8) No licence shall be granted under this section in respect of a patent relating to an integrated circuit except to remedy a practice which is determined by the court to be anti-competitive.
-
-[40/95]
-
-(9) If the patented invention cannot be worked by the applicant without his infringing another patent —
-
-(a) the court is to make the order under subsection (3) only if the court is further satisfied that the applicant’s patented invention involves an important technical advance of considerable economic significance in relation to the invention claimed in the other patent;
-
-(b) the court shall further order that the patentee of the other invention —
-
-(i) shall grant to the applicant a licence to work the other invention insofar as is necessary to work the patented invention; and
-
-(ii) is to be granted, if he so requires, a cross-licence on reasonable terms to work the patented invention; and
-
-(c) the court shall direct that the licence granted by the patentee of the other invention may be assigned by the applicant —
-
-(i) only if the licence granted in respect of the patented invention is also assigned; and
-
-(ii) only to the assignee of that licence.
 
 [40/95]
 
@@ -1480,27 +1940,27 @@ may, within the prescribed period, give notice to the Registrar of opposition to
 
 [40/95]
 
-(12) For the purposes of this section and section 56, “integrated circuit” means a circuit, in its final or an intermediate form, in which the elements, at least one of which is an active element, and some or all of the interconnections are integrally formed in or on a piece of material and that is intended to perform an electronic function.
-
-[40/95]
-
 ## PART XII
 
 USE OF PATENTED INVENTIONS FOR SERVICES OF GOVERNMENT
 
-### Use of patented inventions for services of Government
+### Use of patented inventions by Government and authorised parties
 
-56\.—(1) Subject to sections 60, 61 and 62, but notwithstanding any other provision of this Act, any Government department, and any person authorised in writing by a Government department, may make, use, exercise and vend any patented invention for the services of the Government and anything done by virtue of this section shall not amount to an infringement of the patent.
+56\.—(1) Subject to sections 60, 61 and 62, but notwithstanding any other provision of this Act, the Government and any party authorised in writing by the Government may do anything in relation to a patented invention —
 
-[40/95]
+(a) for a public non-commercial purpose; or
+
+(b) for or during a national emergency or other circumstances of extreme urgency,
+
+and anything done by virtue of this section shall not amount to an infringement of the patent.
+
+[19/2004 wef 01/07/2004]
 
 (2) For the purposes of this section and section 57 —
 
-(a) any use of an invention for the supply to the government of any country outside Singapore, in pursuance of any agreement or arrangement between the Government of Singapore and the government of that country, of articles required for the defence of that country shall be deemed to be a use of the invention for the services of the Government of Singapore;
+(a) any use of an invention for the supply to the government of any country outside Singapore, in pursuance of any agreement or arrangement between the Government of Singapore and the government of that country, of articles required for the defence of that country shall be deemed to be a use of the invention for a public non-commercial purpose; and;
 
-(b) the power of a Government department or a person authorised by a Government department under this section to make, use, exercise and vend a patented invention shall include the power to sell to any person any article made in the exercise of the powers conferred by this section that is no longer required for the purpose for which it was made; and
-
-(c) the power of a Government department or a person authorised by a Government department under this section to vend a patented invention shall not, in the case of a patent relating to an integrated circuit, extend to sale of the invention to the public.
+(c) the power of the Government or any party authorised by the Government to do anything in accordance with this section shall not, in the case of a patent relating to an integrated circuit, extend to sale of the invention to the public.
 
 [40/95]
 
@@ -1510,13 +1970,27 @@ USE OF PATENTED INVENTIONS FOR SERVICES OF GOVERNMENT
 
 [40/95]
 
+(4) In this section, “integrated circuit” means a product, in its final or an intermediate form, in which the elements, at least one of which is an active element, and some or all of the interconnections are integrally formed in and on, or in or on, a piece of material and which is intended to perform an electronic function.
+
+[19/2004 wef 01/07/2004]
+
 ### Rights of third parties in respect of Government use
 
 57\.—(1) In relation to —
 
-(a) any use made for the services of the Government of an invention by a Government department, or a person authorised by a Government department, by virtue of section 56; or
+(a) anything done in accordance with section 56 by the Government or any party authorised in writing by the Government; or
 
-(b) anything done for the services of the Government to the order of a Government department by the proprietor of a patent in respect of a patented invention or by the proprietor of an application in respect of an invention for which an application for a patent has been filed and is still pending,
+[19/2004 wef 01/07/2004]
+
+(b) anything done to the order of the Government —
+
+(i) for a public non-commercial purpose; or
+
+(ii) for or during a national emergency or other circumstances of extreme urgency,
+
+by the proprietor of a patent in respect of the patented invention or by the proprietor of an application for a patent in respect of the invention for which the application has been filed and is still pending,
+
+[19/2004 wef 01/07/2004]
 
 the provisions of any licence, assignment or agreement to which this subsection applies shall, subject to sections 60, 61 and 62, be of no effect so far as those provisions restrict or regulate the working of the invention, or the use of any model, document or information relating to it, or provide for the making of payments in respect of, or calculated by reference to, such working or use.
 
@@ -1528,21 +2002,27 @@ the provisions of any licence, assignment or agreement to which this subsection 
 
 [40/95]
 
+(3) Subsection (1) shall apply to any licence, assignment or agreement which is made, whether before or after 23rd February 1995, between (on the one hand) any person who is a proprietor of or an applicant for the patent, or anyone who derives title from any such person or from whom such person derives title, and (on the other hand) any person other than the Government.
+
+[S 622/2002 wef 09/12/2002]
+
+[19/2004 wef 01/07/2004]
+
 ### References of disputes as to Government use
 
-58\.—(1) Any dispute as to the exercise by a Government department or a person authorised by a Government department of the powers conferred by section 56 or as to the terms for the use of an invention for the services of the Government thereunder may be referred to the court by either party to the dispute after a patent has been granted for the invention.
+58\.—(1) Any dispute as to the exercise by the Government or a party authorised by the Government of the powers conferred by, or as to the terms for doing anything in accordance with, section 56 may be referred to the court by either party to the dispute after a patent has been granted for the invention.
 
-[40/95]
+[19/2004 wef 01/07/2004]
 
 (2) In determining any dispute referred to the court under this section, the court shall have regard to —
 
-(a) any benefit or compensation that the patentee of the invention may have received, or may be entitled to receive, directly or indirectly, from any Government department or any person authorised by a Government department in respect of the patented invention; and
+(a) any benefit or compensation that the patentee of the invention may have received, or may be entitled to receive, directly or indirectly, from the Government or any party authorised by the Government in respect of the patented invention; and
 
 (b) the need to ensure that the patentee shall receive reasonable remuneration having regard to the economic value of the patented invention.
 
 [40/95]
 
-(3) If the validity of a patent is put in issue in proceedings under this section and it is found that the patent is only partially valid, the court may, subject to subsection (4), grant relief to the proprietor of the patent in respect of that part of the patent which is found to be valid and to have been used for the services of the Government.
+(3) If the validity of a patent is put in issue in proceedings under this section and it is found that the patent is only partially valid, the court may, subject to subsection (4), grant relief to the proprietor of the patent in respect of that part of the patent which is found to be valid and to have been used in accordance with section 56.
 
 (4) Where in any such proceedings it is found that a patent is only partially valid, the court shall not grant relief by way of costs or expenses except where the proprietor of the patent proves that the specification of the patent was framed in good faith and with reasonable skill and knowledge, and in that event the court may grant relief in respect of that part of the patent which is valid and has been so used, subject to the discretion of the court as to costs and expenses.
 
@@ -1554,19 +2034,7 @@ the provisions of any licence, assignment or agreement to which this subsection 
 
 [64
 
-### Special provisions as to Government use during emergency
-
-59\. Subject to sections 60, 61 and 62, the powers exercisable in relation to an invention by a Government department or a person authorised by a Government department under section 56 shall include power to make, use, exercise and vend the patented invention for any purpose which appears to the Government department necessary or expedient —
-
-(a) to avoid prejudice to the security or defence of Singapore;
-
-(b) to assist in the exercise of powers and the implementation of civil defence measures during a state of emergency or state of civil defence emergency under the Civil Defence Act (Cap. 42); or
-
-(c) for public non-commercial use.
-
-[65
-
-[40/95]
+59\. [Deleted by Act 19/2004 wef 01/04/2004]
 
 ### Nature and scope of rights under section 56
 
@@ -1576,7 +2044,7 @@ the provisions of any licence, assignment or agreement to which this subsection 
 
 (b) shall not be assigned otherwise than in connection with the goodwill of the business in which the patented invention is used; and
 
-(c) is, notwithstanding subsection (2)(a) of section 56, limited to the supply of the patented invention predominantly in Singapore by a Government department or a person authorised by a Government department under that section.
+(c) is, notwithstanding subsection (2)(a) of section 56, limited to the supply of the patented invention predominantly in Singapore by the Government or a party authorised by the Government under that section.
 
 [40/95]
 
@@ -1584,27 +2052,13 @@ the provisions of any licence, assignment or agreement to which this subsection 
 
 [40/95]
 
-(3) Except in a case to which section 59 applies, the right to use a patented invention under section 56 is subject to the Government department or the person authorised by a Government department under section 56 having first taken all reasonable steps to obtain the consent of the patentee to the use of the patented invention on reasonable commercial terms and conditions, and having failed to obtain such consent within a reasonable period of time.
-
-[65A
-
-[40/95]
-
 ### Duty to inform patentee
 
-61\.—(1) Where any use of a patented invention is made by or with the authority of a Government department under section 59 in situations of national emergency or other circumstances of extreme urgency, the Government department shall, as soon as reasonably practicable, inform the patentee of such use and, in the case of public non-commercial use, the Government department shall inform the patentee promptly of such use.
+61\.—(1) Where any thing set out in section 66(1) is done in relation to a patented invention by the Government or a party authorised in writing by the Government for a public non-commercial purpose, the Government department that did or authorised the doing of the thing shall inform the patentee promptly of the doing of the thing.
 
-[40/95]
+(2) Where any thing set out in section 66(1) is done in relation to a patented invention by the Government or a party authorised in writing by the Government for or during a national emergency or other circumstances of extreme urgency, the Government department that did or authorised the doing of the thing shall, as soon as reasonably practicable, inform the patentee of the doing of the thing.
 
-(2) Where any use of a patented invention is made by or with the authority of a Government department under section 56, the Government department shall, as soon as practicable after the use of the patented invention has begun, notify and furnish the patentee with such information as to the extent of the use as the patentee may from time to time reasonably require.
-
-[40/95]
-
-(3) Nothing in subsection (2) shall require the Government department to notify or disclose information to the patentee if to do so would, or might reasonably be expected to, prejudice the security or defence of Singapore.
-
-[65B
-
-[40/95]
+[19/2004 wef 01/07/2004]
 
 ### Patentee entitled to remuneration
 
@@ -1634,7 +2088,7 @@ Infringement of Patents
 
 (c) where the invention is a process, he disposes of, offers to dispose of, uses or imports any product obtained directly by means of that process or keeps any such product whether for disposal or otherwise.
 
-(2) An act which, apart from this subsection, would constitute an infringement of a patent for an invention shall not do soif —
+(2) An act which, apart from this subsection, would constitute an infringement of a patent for an invention shall not be so if —
 
 (a) it is done privately and for purposes which are not commercial;
 
@@ -1646,9 +2100,51 @@ Infringement of Patents
 
 (e) it consists of the use, exclusively for the needs of a relevant ship, of a product or process in the body of the ship or in its machinery, tackle, apparatus or other accessories, in a case where the ship has temporarily or accidentally entered the territorial waters of Singapore;
 
-(f) it consists of the use of an exempted aircraft which has lawfully entered or is lawfully crossing Singapore as mentioned in paragraph (d) or of the importation into Singapore, or the use or storage, of any part or accessory for that aircraft; or
+(f) it consists of the use of an exempted aircraft which has lawfully entered or is lawfully crossing Singapore as mentioned in paragraph (d) or of the importation into Singapore, or the use or storage, of any part or accessory for that aircraft;
 
-(g) it consists of the import, use, disposal or offer to dispose of, of any patented product, or of any product obtained by means of a patented process or to which a patented process has been applied, which is produced by or with the consent (conditional or otherwise) of the proprietor of the patent or any person licensed by him, and for this purpose “patent” includes a patent granted in any country outside Singapore in respect of the same or substantially the same invention as that for which a patent is granted under this Act and “patented product”, “patented process” and “licensed” shall be construed accordingly.
+(g) subject to subsection (2A), it consists of the import, use or disposal of, or the offer to dispose of, any patented product or any product obtained by means of a patented process or to which a patented process has been applied, which is produced by or with the consent (conditional or otherwise) of the proprietor of the patent or any person licensed by him, and for this purpose “patent” includes a patent granted in any country outside Singapore in respect of the same or substantially the same invention as that for which a patent is granted under this Act and “patented product”, “patented process” and “licensed” shall be construed accordingly;
+
+(h) it consists of the doing of any thing set out in subsection (1) in relation to the subject-matter of the patent to support any application for marketing approval for a pharmaceutical product, provided that any thing produced to support the application is not —
+
+(i) made, used or sold in Singapore; or
+
+(ii) exported outside Singapore,
+
+other than for purposes related to meeting the requirements for marketing approval for that pharmaceutical product; or
+
+[19/2004 wef 01/07/2004]
+
+(i) it consists of the import, disposal or offer to dispose of a patented pharmaceutical product for use by or on a specific patient in Singapore, or the use of that product by or on that patient, where —
+
+(i) that product is required for use by or on that patient;
+
+(ii) the relevant authority has granted approval specifically for the import of that product for use by or on that patient; and
+
+(iii) that product was produced by or with the consent (conditional or otherwise) of the proprietor of the patent or any person licensed by him (and for this purpose “patent” includes a patent granted in any country outside Singapore in respect of the same or substantially the same product and “licensed” shall be construed accordingly).
+
+[19/2004 wef 01/07/2004]
+
+(2A) Subsection (2)(g) shall not apply to the import of any patented pharmaceutical product by any person (referred to in this subsection and subsection (2B) as the importer) if —
+
+(a) the product has not previously been sold or distributed in Singapore by or with the consent (conditional or otherwise) of the proprietor of the patent or any person licensed by the proprietor of the patent to sell or distribute the product in Singapore;
+
+(b) the import of the product by the importer would result in the product being distributed in breach of a contract between —
+
+(i) the proprietor of the patent; and
+
+(ii) any person licensed by the proprietor of the patent to distribute the product outside Singapore; and
+
+(c) the importer has actual or constructive knowledge of the matters referred to in paragraph (b).
+
+[19/2004 wef 01/07/2004]
+
+(2B) For the purposes of subsection (2A), where the importer has received a written notice containing the prescribed particulars, he shall be deemed to have constructive knowledge of the matters referred to in subsection (2A)(b).
+
+[19/2004 wef 01/07/2004]
+
+(2C) For the avoidance of doubt, in subsection (2A), “patent” does not include a patent granted in any country outside Singapore in respect of the same or substantially the same product and “licensed” shall be construed accordingly.
+
+[19/2004 wef 01/07/2004]
 
 (3) In this section —
 
@@ -1688,21 +2184,41 @@ Infringement of Patents
 
 (5) If it appears to the Registrar on a reference under subsection (3) that the question referred to him would more properly be determined by the court, he may decline to deal with it and the court shall have jurisdiction to determine the question as if the reference were proceedings brought in the court.
 
+(6) Subject to this Part, in determining whether or not to grant any kind of relief claimed under this section and the extent of the relief granted, the court or the Registrar shall apply the principles applied by the court in relation to that kind of relief immediately before 23rd February 1995.
+
+[S 622/2002 wef 09/12/2002]
+
 ### Reversal of burden of proof
 
 68\.—(1) In any proceedings for the infringement of a patent, where the subject-matter of the patent is a process for obtaining a new product, the burden of proving that a product is not made by the process shall be on the alleged infringer if the product is new or a substantial likelihood exists that the product is made by the process and the proprietor of the patent has been unable through reasonable efforts to determine the process actually used.
 
 (2) In considering whether a party has discharged the burden imposed upon him by this section, the court shall not require him to disclose any manufacturing or commercial secret if it appears to the court that it would be unreasonable to do so.
 
-### Restrictions on recovery of damages for infringement
+### Restrictions on relief for infringement
 
 69\.—(1) In proceedings for infringement of a patent, damages shall not be awarded and no order shall be made for an account of profits against a defendant who proves that at the date of the infringement he was not aware, and had no reasonable grounds for supposing, that the patent existed.
 
 (2) A person shall not be taken to have been aware or to have had reasonable grounds for supposing by reason only of the application to a product of the word “patent” or “patented”, or any word or words expressing or implying that a patent has been obtained for the product, unless the number of the patent accompanied the word or words.
 
-(3) In proceedings for infringement of a patent, the court or the Registrar may, if it or he thinks fit, refuse to award any damages or make any such order in respect of an infringement committed during any further period specified under subsection (3) of section 36, but before the payment of the renewal fee and any additional fee prescribed for the purposes of that subsection.
+(3) In proceedings for infringement of a patent, the court or the Registrar may, if it or he thinks fit, refuse to award any damages, make an order for an account of profits or grant any other relief (including, in proceedings before the court, an injunction) —
 
-(4) Where an amendment of the specification of a patent has been allowed under any of the provisions of this Act, no damages shall be awarded in proceedings for an infringement of the patent committed before the decision to allow the amendmentunless the court or the Registrar is satisfied that the specification of the patent as published was framed in good faith and with reasonable skill and knowledge.
+(a) in respect of an infringement committed during any further period specified under subsection (3) of section 36, but before the payment of the renewal fee and any additional fee prescribed for the purposes of that subsection;
+
+(b) where the patent was granted on the basis of any examination report referred to in section 29(5), any search and examination report referred to in section 29(6) or any international preliminary report on patentability referred to in section 30(2)(b)(vi), in respect of any infringement alleged to have been committed at any time when any claim (in the specification of the patent) that is alleged to have been infringed is not related to any claim in the application for the patent at the time the report was issued —
+
+(i) which has been examined; and
+
+(ii) which is referred to in the report; or
+
+(c) where the patent was granted on the basis of the prescribed information relating to a corresponding application referred to in section 29(2)(c)(ii) or the prescribed information relating to a corresponding international application referred to in section 29(2)(d)(ii), in respect of any infringement alleged to have been committed at any time when any claim (in the specification of the patent) that is alleged to have been infringed is not related to any claim —
+
+(i) which is set out in the prescribed information relating to the corresponding application or corresponding international application, as the case may be; and
+
+(ii) which has been examined to determine whether the claim appears to satisfy the criteria of novelty, inventive step (or non-obviousness) and industrial applicability (or utility).
+
+[S 622/2002 wef 09/12/2002]
+
+(4) Where an amendment of the specification of a patent has been allowed under any of the provisions of this Act, the court or the Registrar shall not, in proceedings for an infringement of the patent committed before the decision to allow the amendment, award any damages, make an order for an account of profits or grant any other relief (including, in proceedings before the court, an injunction) unless the court or the Registrar is satisfied that the specification of the patent as published was framed in good faith and with reasonable skill and knowledge.
 
 ### Relief for infringement of partially valid patent
 
@@ -1750,11 +2266,11 @@ has the right to continue to do the act or, as the case may be, to do the act, n
 
 ### Proceedings for infringement by exclusive licensee
 
-74\.—(1) Subject to this section, theholder of an exclusive licence under a patent shall have the same right as the proprietor of the patent to bring proceedings in respect of any infringement of the patent committed after the date of the licence; and references to the proprietor of the patent in this Act relating to infringement shall be construed accordingly.
+74\.—(1) The holder of an exclusive licence under a patent shall have the same right as the proprietor of the patent to bring proceedings in respect of any infringement of the patent committed after the date of the licence; and references to the proprietor of the patent in this Act relating to infringement shall be construed accordingly.
 
 (2) In awarding damages or granting any other relief in any such proceedings, the court or the Registrar shall take into consideration any loss suffered or likely to be suffered by the exclusive licensee as such as a result of the infringement, or, as the case may be, the profits derived from the infringement, so far as it constitutes an infringement of the rights of the exclusive licensee as such.
 
-(3) In any proceedings taken by an exclusive licensee by virtue of this section, the proprietor of the patent shall be made a partyto the proceedings, but if made a defendant shall not be liable for any costs or expenses unless he enters an appearance and takes part in the proceedings.
+(3) In any proceedings taken by an exclusive licensee by virtue of this section, the proprietor of the patent need not be made a party to the proceedings, but if made a defendant shall not be liable for any costs or expenses unless he enters an appearance and takes part in the proceedings.
 
 ### Effect of non-registration on infringement proceedings
 
@@ -1816,17 +2332,7 @@ has the right to continue to do the act or, as the case may be, to do the act, n
 
 Revocation of Patents and Validity Proceedings
 
-### Information on result of corresponding international applications
-
-79\.—(1) The Registrar may, on the application of any interested person and on the payment of the prescribed fee, request the proprietor of a patent to furnish to the Registrar, within such period as the Registrar may specify, the prescribed information on all corresponding international applications or corresponding applications for a patent made by him or his predecessor in title at any prescribed patent office with respect to which details had been furnished to the Registrar under section 29(1)(c).
-
-(2) Where the proprietor of a patent has furnished the prescribed information under subsection (1) or where such information is in the Registrar’s possession or control, the Registrar shall as soon as practicable send to the interested person the prescribed information so furnished or available.
-
-[30/2001]
-
-(3) Where the proprietor of a patent fails without good cause to comply with the request of the Registrar under subsection (1), the Registrar may by order revoke the patent with effect from the date of the grant of the patent.
-
-(4) For the purpose of this section, “corresponding international application” and “corresponding application” have the same meanings as in section 29(12).
+79\. [Deleted by Act 19/2004 wef 01/07/2004]
 
 ### Power to revoke patents on application
 
@@ -1838,13 +2344,45 @@ Revocation of Patents and Validity Proceedings
 
 (c) the specification of the patent does not disclose the invention clearly and completely for it to be performed by a person skilled in the art;
 
-(d) the matter disclosed in the specification of the patent extends beyond that disclosed in the application for the patent, as filed, or, if the patent was granted on a new application filed under section 20(3) or 47(4) , or as mentioned in section 26(6), in the earlier application made under this Act or in the application made under the United Kingdom Patents Act 1977 or the application under the European Patent Convention designating the United Kingdom filed at the European Patent Office from which the filing date and the right of priority has been derived, as the case may be, as filed;
+(d) the matter disclosed in the specification of the patent extends beyond that disclosed —
 
-(e) the protection conferred by the patent has been extended by an amendment which should not have been allowed;
+(i) in the application for the patent, as filed; or
 
-(f) the applicant for the patent has failed to inform the Registrar about any corresponding international application or corresponding application filed by him as required under section 29(1)(c) or has furnished any information which in any material particular was false; or
+(ii) where the patent was granted on a new application filed under section 20(3) or 47(4) or section 116(6) of the Patents Act (Cap. 221, 1995 Ed.), or in accordance with section 26(6), in —
 
-(g) the patent was obtained on a misrepresentation.
+(A) the earlier application made under this Act;
+
+(B) the application made under the United Kingdom Patents Act 1977; or
+
+(C) the application under the European Patent Convention designating the United Kingdom filed at the European Patent Office,
+
+as the case may be, from which the filing date and the right of priority has been derived, as filed;
+
+[19/2004 wef 01/07/2004]
+
+(e) an amendment or a correction has been made to the specification of —
+
+(i) the patent; or
+
+(ii) the application for the patent,
+
+which should not have been allowed;
+
+[19/2004 wef 01/07/2004]
+
+(f) the patent was obtained —
+
+(i) fraudulently;
+
+(ii) on any misrepresentation; or
+
+(iii) on any non-disclosure or inaccurate disclosure of any prescribed material information, whether or not the person under a duty to provide the information knew or ought reasonably to have known of such information or the inaccuracy;
+
+[19/2004 wef 01/07/2004]
+
+(g) the patent is one of 2 or more patents for the same invention having the same priority date and filed by the same party or his successor in title.
+
+[19/2004 wef 01/07/2004]
 
 (2) On the application of any person for an order to revoke a patent on any of the grounds specified in subsection (1)(a), (c), (d) and (e), the Registrar may, subject to subsections (3) and (4), cause the patent to be re-examined by an Examiner so as to determine whether the patent should be revoked on any of those grounds and require the applicant to pay the prescribed re-examination fee.
 
@@ -1934,7 +2472,7 @@ Amendments of Patents and Applications
 
 (b) discloses additional matter, that is, matter extending beyond that disclosed in the earlier application made under this Act or in the application made under the United Kingdom Patents Act 1977 or the application under the European Patent Convention designating the United Kingdom filed at the European Patent Office from which the filing date and right of priority is sought to be derived, as filed, or the application for the patent, as filed,
 
-may be filed under section 20(3) or 47(4), or as mentioned in section 26(6), but shall not be allowed to proceed unless it is amended so as to exclude the additional matter.
+may be filed under section 20(3) or 47(4) or section 116(6) of the Patents Act (Cap. 221, 1995 Ed.), or as mentioned in section 26(6), but shall not be allowed to proceed unless it is amended so as to exclude the additional matter.
 
 (2) No amendment of an application for a patent shall be allowed under section 31 if it results in the application disclosing any matter extending beyond that disclosed in the application as filed.
 
@@ -2014,7 +2552,7 @@ otherwise the amendment shall be disregarded.
 
 (2) If the application, not having been published under this Act, is published in accordance with the Patent Co-operation Treaty, it shall be treated, for purposes other than those mentioned in subsection (3), as published under section 27 when the conditions mentioned in section 86(3)(a) are complied with.
 
-(3) For the purposes of section 56 (use of invention for service of the Government) and section 76 (infringement of rights conferred by publication) the application, not having been published under this Act, shall be treated as published under section 27 —
+(3) For the purposes of sections 56 and 76, the application, not having been published under this Act, shall be treated as published under section 27 —
 
 (a) if it is published in accordance with the Patent Co-operation Treaty in English, on its being so published; and
 
@@ -2066,7 +2604,7 @@ Legal Proceedings
 
 (a) a decision falling within section 25(7);
 
-(b) a decision under section 27(2) to omit any matter from a specification;
+(b) a decision under section 27(3) to omit any matter from a specification;
 
 (c) a decision to give directions under section 33(1) or (2);
 
@@ -2434,19 +2972,47 @@ Miscellaneous and General
 
 ### Extension of time
 
-110\.—(1) The Minister may, after consulting with the Office, make rules to provide for extension of time for any period of time specified for the doing of an act in relation to an application for patent or in proceedings under this Act or the rules, not being proceedings in court.
+110\.—(1) The Minister may, after consulting with the Office, make rules to provide for the extension of any period of time specified for the doing of any act in relation to —
 
-[3/2001]
+(a) any application for or grant of a patent;
+
+(b) any proceedings before the Registrar under this Act or the rules; or
+
+(c) any other matter under this Act or the rules.
+
+[19/2004 wef 01/07/2004]
 
 (2) The rules may contain such provision as the Minister thinks fit regulating the circumstances in which such an extension may be granted and may also provide for the protection and compensation of persons affected by the grant of extension of time and may authorise the Registrar to grant an extension of time notwithstanding that the period has already expired.
 
-### Hours of business of Registry and excluded days
+### Hours of business and excluded days
 
-111\.—(1) Rules may specify the hour at which the Registry shall be taken to be closed on any day for purposes of the transaction by the public of business under this Act or of any class of such business, and may specify days as excluded days for any such purposes.
+111\.—(1) The Registrar may issue practice directions to specify —
 
-(2) Any business done under this Act on any day after the hour so specified in relation to business of that class, or on a day which is an excluded day in relation to business of that class, shall be taken to have been done on the next following day not being an excluded day.
+(a) the hours of business of the Registry; and
 
-(3) Where the time for doing anything under this Act expires on an excluded day, that time shall be extended to the next following day not being an excluded day.
+(b) the days which are to be treated as excluded days.
+
+(2) The Minister may prescribe the effect of doing any business under this Act —
+
+(a) on any day after the hours of business of the Registry; or
+
+(b) on any day which is an excluded day.
+
+(3) For the purposes of subsections (1) and (2) —
+
+(a) different hours of business may be specified for different classes of business;
+
+(b) different excluded days may be specified for different classes of business; and
+
+(c) different effects of doing business —
+
+(i) outside the hours of business of the Registry; or
+
+(ii) on an excluded day,
+
+may be prescribed for different classes of business.
+
+[19/2004 wef 01/07/2004]
 
 ### Government’s right to sell forfeited articles
 
@@ -2482,7 +3048,7 @@ Miscellaneous and General
 
 (2) Without prejudice to the generality of subsection (1), the rules may make provision —
 
-(a) prescribing the form and contents of applications for patents and other documents which may be filed at the Registry and requiring copies to be furnished of any such documents;
+(a) prescribing the contents of applications for patents and other documents which may be filed at the Registry and requiring copies to be furnished of any such documents;
 
 (b) regulating the procedure to be followed in connection with any proceeding or other matter before the Registrar or the Registry and authorising the rectification of irregularities of the procedure;
 
@@ -2518,6 +3084,22 @@ Miscellaneous and General
 
 (5) The Rules may require or authorise the Registrar to make arrangements for the publication of reports of cases relating to patents decided by him or by any court or body whether in Singapore or elsewhere.
 
+### Forms and directions of Registrar
+
+115A\. The Minister may make rules for the publication by the Registrar of —
+
+(a) the forms to be used for any purpose relating to —
+
+(i) any application for or grant of a patent;
+
+(ii) any proceedings before the Registrar under this Act or the rules; or
+
+(iii) any other matter under this Act or the rules; and
+
+(b) the practice directions issued by the Registrar.
+
+[19/2004 wef 01/07/2004]
+
 ### Fees to be paid to Office
 
 116\.—(1) All fees collected in connection with any proceedings or other matter before the Registrar or the Registry, or in connection with the provision of any service by the Registry, shall be paid into the funds of the Office.
@@ -2551,6 +3133,104 @@ Miscellaneous and General
 (6) Where an act is commenced before 23rd February 1995 and continues to be done on or after that date, then, if it would not, under the law in force immediately before that date, amount to an infringement of a patent or the privileges or rights arising under a specification, its continuance on or after that date shall not amount to the infringement of that patent or those privileges or rights.
 
 [116
+
+## THE SCHEDULE
+
+Section 2(1)
+
+Substances Which Are Not Pharmaceutical Products
+
+1. In this Schedule, unless the context otherwise requires —
+
+“Chinese proprietary medicine” means any medicinal product in any dosage form used in the system of therapeutics according to the traditional Chinese method, that is to say, any medicinal product —
+
+(a) which has been manufactured as a finished product;
+
+(b) which contains one or more active ingredients which are derived wholly from any plant, animal or mineral or a combination of plants, animals or minerals; and
+
+(c) which is, or all of the active ingredients of which are, described in the current edition of “A Dictionary of Chinese Pharmacy”
+
+“The Chinese Herbal Medicine Materia Medica”
+
+or such other publication as may be approved by the Minister,
+
+but does not include —
+
+(i) any medicinal product to be injected into the human body;
+
+(ii) any item specified in the Poisons List in the Schedule to the Poisons Act (Cap. 234); or
+
+(iii) any medicinal product which contains as an active ingredient any chemically defined isolated constituent of any plant, animal or mineral or a combination of plants, animals or minerals;
+
+“current edition”, in relation to any publication which describes a Chinese proprietary medicine, means an edition which is current at the time the Chinese proprietary medicine in question is sold or supplied, and includes any amendment, addition or deletion made to that edition of the publication up to that time;
+
+“homoeopathic medicine” means any substance used in the system of therapeutics in which a disease is treated by the use of minute amounts of one or more substances capable of producing in a healthy human being symptoms similar to those of the disease being treated;
+
+“medicated oil or balm” means any external medicated embrocation, medicated cream, ointment or inhalant which is used mainly for soothing purposes and which contains one or more of the following substances as active ingredients:
+
+(a) any essential oil;
+
+(b) any fixed oils derived from a plant;
+
+(c) methyl salicylate;
+
+(d) menthol;
+
+(e) camphor;
+
+(f) peppermint;
+
+“quasi-medicinal product” means —
+
+(a) any anti-dandruff preparation;
+
+(b) any type of medicated cosmetics for the treatment of pimples and acne, except any preparation containing etretinate or 13-cis-retinoic acid;
+
+(c) any medicated soap;
+
+(d) any sweet for relieving coughs or throat irritations;
+
+(e) any medicated plaster;
+
+(f) any sunscreen or suntan preparation;
+
+(g) any medicated beverage;
+
+(h) any vitamin or nutritional preparation from a natural source; or
+
+(i) any medicated toothpaste;
+
+“traditional medicine” means any medicinal product consisting of one or more substances derived from natural sources, that is to say, any plant, animal or mineral or a combination of plants, animals or minerals, but does not include —
+
+(a) any medicinal product administered by injection into a human body;
+
+(b) any vaccine used by a human being;
+
+(c) any product derived from human blood;
+
+(d) any item specified in the Poisons List in the Schedule to the Poisons Act (Cap. 234); or
+
+(e) any Chinese proprietary medicine.
+
+2. For the purposes of this Act, “pharmaceutical product” does not include —
+
+(a) any traditional medicine;
+
+(b) any homeopathic medicine;
+
+(c) any quasi-medicinal product;
+
+(d) any raw material which is used as an ingredient in the preparation or manufacture of any medicinal product; or
+
+(e) any medicated oil or balm.
+
+3. For the avoidance of doubt, for the purposes of this Act, “pharmaceutical product” does not include any substance —
+
+(a) which is a type of food, a food additive or a food supplement; or
+
+(b) which occurs naturally in any plant, animal or mineral.
+
+[19/2004 wef 01/07/2004]
 
 ## LEGISLATIVE HISTORY
 
@@ -2601,6 +3281,11 @@ This Legislative History is provided for the convenience of users of the Patents
 ||Date of operation|31 July 2002|
 |9.|**G. N. No. S 622/2002—Revised Edition of the Laws (Patents Act) (Rectification) Order 2002**|
 ||Date of commencement|31 July 2002|
+|10.|**Act 19 of 2004—Patents (Amendment) Act 2004**|
+||Date of First Reading|19 May 2004|
+|||(Bill No. 19/2004 published on 20 May 2004)|
+||Date of Second and Third Readings|15 June 2004|
+||Date of commencement|1 July 2004|
 ## COMPARATIVE TABLE
 
 Patents Act
