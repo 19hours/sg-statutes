@@ -716,19 +716,31 @@ IMPOSITION OF INCOME TAX
 
 (a) a Singapore ship which is owned by a shipping enterprise within the meaning of section 13A at the time the balancing charge falls to be made in respect of the Singapore ship, but only up to the amount ascertained in accordance with the formula
 
-where A is the amount of allowances under section 19 made to the enterprise in respect of the Singapore ship against any income exempt from tax under section 13A;
+where A
 
-B is the total amount of allowances under section 19 or 19A which have been made in respect of the ship during the period it is owned by the enterprise; and
+is the amount of allowances under section 19 made to the enterprise in respect of the Singapore ship against any income exempt from tax under section 13A;
 
-C is the amount of balancing charge;
+B
+
+is the total amount of allowances under section 19 or 19A which have been made in respect of the ship during the period it is owned by the enterprise; and
+
+C
+
+is the amount of balancing charge;
 
 (b) a foreign ship the income derived from the operation of which would be income of a shipping enterprise within the meaning of section 13A or income of an approved international shipping enterprise within the meaning of section 13A or 13F, as the case may be, but only up to the amount ascertained in accordance with the formula
 
-where X is the amount of allowances under section 19 or 19A made to the enterprise in respect of the foreign ship against any income exempt from tax under section 13A or 13F, as the case may be;
+where X
 
-Y is the total amount of allowances under section 19 or 19A which have been made in respect of the ship during the period it is owned by the enterprise; and
+is the amount of allowances under section 19 or 19A made to the enterprise in respect of the foreign ship against any income exempt from tax under section 13F;
 
-Z is the amount of balancing charge.
+Y
+
+is the total amount of allowances under section 19 or 19A which have been made in respect of the ship during the period it is owned by the enterprise; and
+
+Z
+
+is the amount of balancing charge.
 
 [2/92; 32/95; 31/98]
 
@@ -1728,7 +1740,9 @@ EXEMPTION FROM INCOME TAX
 
 (y) such income as may be prescribed by regulations under section 43A, 43C, 43E or 43N; and
 
-(z) for a period of 20 years from the commencement of its business, such income of the Singapore International Monetary Exchange Limited as may be prescribed.
+(z) such income derived by the Singapore Exchange Derivatives Trading Limited before 1st January 2004 as may be prescribed.
+
+[24/2000 wef 18/01/2000]
 
 [26/73; 4/75; 5/77; 1/82; 15/83; 13/84; 3/89; 2/92; 28/92; 26/93; 11/94; 32/95; 1/98; 31/98; 37/98; 32/99]
 
@@ -3028,8 +3042,6 @@ D
 
 is the remaining number of years (excluding any part of a year) of the term of the designated lease for which the upfront land premium was paid.
 
-[32/99]
-
 (3) Subsection (2) shall apply, with the necessary modifications, to any subsequent assignment of the remaining term of the designated lease.
 
 [32/99]
@@ -3812,9 +3824,13 @@ an allowance or charge, to be known as a balancing allowance or a balancing char
 
 (5) Notwithstanding anything in this section, where a balancing allowance or balancing charge falls to be made under subsection (1) in respect of a motor car to which section 19(2A) applies, the sum to be taken in lieu of the open-market price or sale, insurance, salvage or compensation moneys for the purpose of calculating such balancing allowance or charge shall be ascertained in accordance with the formula
 
-where A is the open-market price or sale, insurance, salvage or compensation moneys in respect of the motor car; and
+where A
 
-B is the capital expenditure incurred in respect of the motor car.
+is the open-market price or sale, insurance, salvage or compensation moneys in respect of the motor car; and
+
+B
+
+is the capital expenditure incurred in respect of the motor car.
 
 (5A) Notwithstanding anything in this section, no balancing allowance shall be made in respect of a motor car within the meaning of section 19(2B)(a) which is not, for any basis period after the basis period for the year of assessment 1981, registered as a business service passenger vehicle for the purposes of the Road Traffic Act (Cap. 276) and the rules made thereunder.
 
@@ -5622,7 +5638,7 @@ RELIEF AGAINST DOUBLE TAXATION
 
 [5/77]
 
-(2A) In subsection (2) (b), “effective rate of tax” means the rate of tax as ascertained in accordance with the formula
+(2A) In subsection (2)(b), “effective rate of tax” means the rate of tax as ascertained in accordance with the formula
 
 where A
 
@@ -8134,6 +8150,11 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 20/2000 published on 1 July 2000)|
 ||Date of Second and Third Readings|25 August 2000|
 ||Date of commencement|30 December 1999 (Section 6)|
+|139.|**Act 24 of 2000—Income Tax (Amendment) Act 2000**|
+||Date of First Reading|30 June 2000|
+|||(Bill No. 20/2000 published on 1 July 2000)|
+||Date of Second and Third Readings|25 August 2000|
+||Date of commencement|18 January 2000 (Section 4)|
 ## COMPARATIVE TABLE
 
 Income Tax Act
