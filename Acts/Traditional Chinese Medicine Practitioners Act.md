@@ -1,12 +1,10 @@
-**Traditional Chinese Medicine Practitioners Act 2000**
+**Traditional Chinese Medicine Practitioners Act**
 
-**(No. 34 of 2000)**
+**(CHAPTER 333A)**
 
 **Table of Contents**
 
 [**Long Title**](#Traditional-Chinese-Medicine-Practitioners-Act)
-
-[**Enacting Formula**](#Enacting-Formula)
 
 [**Part I PRELIMINARY**](#Part-I)
 
@@ -96,41 +94,23 @@
 
 [**THE SCHEDULE**](#THE-SCHEDULE)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+[**Comparative Table**](#Comparative-Table)
 
-ACTS SUPPLEMENT
+# Traditional Chinese Medicine Practitioners Act
 
-Published by Authority
+(CHAPTER 333A)
 
-NO. 35]
+(Original Enactment: Act 34 of 2000)
 
-Friday, December 22
+REVISED EDITION 2001
 
-[2000
-
-The following Act was passed by Parliament on 14th November 2000 and assented to by the President on 2nd December 2000:—
-
-Traditional Chinese Medicine Practitioners Act 2000
-
-(No. 34 of 2000)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-2nd December 2000.
-
-Date of Commencement: 7th February 2001 Except sections 24 and 25
-
-Date of Commencement: 1st January 2002 Sections 24 and 25
+(31st December 2001)
 
 An Act to provide for the registration of traditional Chinese medicine practitioners and for purposes connected therewith.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[7th February 2001: except sections 24 and 25 ]
 
 ## PART I
 
@@ -138,9 +118,9 @@ PRELIMINARY
 
 ### Short title and commencement
 
-1\.—(1) This Act may be cited as the Traditional Chinese Medicine Practitioners Act 2000 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\.—(1) This Act may be cited as the Traditional Chinese Medicine Practitioners Act.
 
-(2) The Minister may appoint different dates for the coming into operation of the different provisions of this Act.
+(2) Sections 24 and 25 shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
 
 ### Interpretation
 
@@ -236,7 +216,7 @@ TRADITIONAL CHINESE MEDICINE PRACTITIONERS BOARD
 
 (d) to determine and regulate the conduct and ethics of registered persons; and
 
-(e) generally to do all such acts, matters and things as are necessary or authorised to be carried out under this Act and any regulations made thereunder.
+(e) generally to do all such acts, matters and things as are necessary or authorised to be carried out under this Act.
 
 ### Chairman of Board
 
@@ -316,7 +296,7 @@ REGISTRATION OF TRADITIONAL CHINESE MEDICINE PRACTITIONERS
 
 ### Registrar
 
-11\.—(1) For the purposes of this Act and any regulations made thereunder, the Minister shall appoint any officer as the Registrar of the Board.
+11\.—(1) For the purposes of this Act, the Minister shall appoint any officer as the Registrar of the Board.
 
 (2) The Minister may appoint a person to act as Registrar during the absence from Singapore or incapacity from illness or otherwise of the Registrar.
 
@@ -342,7 +322,7 @@ REGISTRATION OF TRADITIONAL CHINESE MEDICINE PRACTITIONERS
 
 (4) Any person who fails to comply with subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
 
-(5) A person who makes a report of a change in his residential address under section 8 of the National Registration Act (Cap. 201) shall be deemed to have complied with subsection (3) on the date on which he makes the report.
+(5) A person who makes a report of a change in his residential address under section 8 of the National Registration Act (Cap. 201) shall be deemed to have complied with subsection (3) relating to residential address on the date on which he makes the report.
 
 ### Alteration of Register
 
@@ -444,13 +424,13 @@ REGISTRATION OF TRADITIONAL CHINESE MEDICINE PRACTITIONERS
 
 (d) has ceased to carry on the prescribed practice of traditional Chinese medicine for which he is registered;
 
-(e) has contravened or failed to comply with any condition to which his registration is subject;
+(e) has failed to comply with any condition to which his registration is subject;
 
 (f) has contravened any regulation made under this Act relating to the practice and conduct of registered persons that applies to him;
 
-(g) has been convicted of an offence in or outside Singapore involving fraud or dishonesty;
+(g) has been convicted of an offence in Singapore or elsewhere involving fraud or dishonesty;
 
-(h) has been convicted of an offence in or outside Singapore implying a defect in character which renders him unfit to remain on the Register;
+(h) has been convicted of an offence in Singapore or elsewhere implying a defect in character which renders him unfit to remain on the Register;
 
 (i) has been guilty of any professional misconduct or negligence;
 
@@ -518,7 +498,7 @@ OFFENCES
 
 ### Unlawful engagement in prescribed practice of traditional Chinese medicine
 
-24\.—(1) No person shall —
+\*24\.—(1) No person shall —
 
 (a) carry out any prescribed practice of traditional Chinese medicine; or
 
@@ -546,9 +526,13 @@ unless he is a qualified person in respect of that prescribed practice of tradit
 
 the prescribed practice of traditional Chinese medicine.
 
+\*Section 24 came into operation on 1st January 2002 (S 676/2001).
+
 ### Recovery of fees
 
-25\. No person shall be entitled to demand, claim, accept, receive, retain or sue for or recover any fee or charge in any court for any act done in contravention of section 24.
+\*25\. No person shall be entitled to demand, claim, accept, receive, retain or sue for or recover any fee or charge in any court for any act done in contravention of section 24.
+
+\*Section 25 came into operation on 1st January 2002 (S 676/2001).
 
 ### Fraudulent registration, etc.
 
@@ -614,7 +598,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (3) Subject to any regulations made under section 36, an Investigation Committee shall have the power to regulate its own procedure.
 
-(4) An Investigation Committee shall, within 3 months from the date a complaint or matter is referred to it or such further period as the Board may grant, complete its investigation on the complaint or matter and report its findings to the Board.
+(4) An Investigation Committee shall, within 3 months from the date a complaint or matter is referred to the Committee or such further period as the Board may grant, complete its investigation on the complaint or matter and report its findings to the Board.
 
 ### Powers to inspect premises, etc.
 
@@ -632,7 +616,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Funds of Board
 
-31\.—(1) All fees, penalties and other moneys payable under this Act or any regulations made thereunder shall be paid to the Board and any fee, penalty or other moneys not paid shall be recoverable by the Board as a debt due to the Board.
+31\.—(1) All fees, penalties and other moneys payable under this Act shall be paid to the Board and any fee, penalty or other moneys not paid shall be recoverable by the Board as a debt due to the Board.
 
 (2) All moneys received by the Board or the Registrar shall be paid into the funds of the Board.
 
@@ -652,11 +636,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### No action against Board, etc., in absence of bad faith
 
-33\. No action or legal proceedings shall lie against the Board, any committee appointed by the Board, or any member or employee of the Board or committee, for any act or thing done under this Act or any regulations made thereunder unless it is proved to the court that the act or thing was done in bad faith or with malice.
+33\. No action or legal proceedings shall lie against the Board, any committee appointed by the Board, or any member or employee of the Board or committee, for any act or thing done under this Act unless it is proved to the court that the act or thing was done in bad faith or with malice.
 
 ### Service of documents
 
-34\. Any notice, order or document required or authorised to be served under this Act or any regulations made thereunder shall be deemed to be duly served —
+34\. Any notice, order or document required or authorised to be served under this Act shall be deemed to be duly served —
 
 (a) by delivering a copy thereof personally or by leaving it with some adult person at the last known place of residence or business of the person on whom it is to be served; or
 
@@ -664,7 +648,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Exemption
 
-35\. The Minister may, in his discretion and subject to such conditions as he thinks fit, by order exempt any person or class of persons from all or any of the provisions of this Act or any regulations made thereunder.
+35\. The Minister may, in his discretion and subject to such conditions as he thinks fit, by order exempt any person or class of persons from all or any of the provisions of this Act.
 
 ### Regulations
 
@@ -696,15 +680,51 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Transitional provisions
 
-38\.—(1) For the purpose of the first appointment of the members of the Board under section 3, the reference in subsection (2)(c) of that section to a registered person shall be read as a reference to any person who —
-
-(a) immediately prior to the date of commencement of this Act, had been practising any type of traditional Chinese medicine; and
-
-(b) possesses such qualification in or in relation to any type of traditional Chinese medicine which the Minister is satisfied renders him fit for appointment as a member.
-
-(2) The Minister may by regulations make such further transitional provisions as he may consider necessary or expedient.
+38\. The Minister may, by regulations, make such transitional provisions as he may consider necessary or expedient.
 
 ## THE SCHEDULE
 
 Section 2
+
+## LEGISLATIVE HISTORY
+
+Traditional Chinese Medicine Practitioners Act
+
+(CHAPTER 333A)
+
+This Legislative History is provided for the convenience of users of the Traditional Chinese Medicine Practitioners Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 34 of 2000—Traditional Chinese Medicine Practitioners Act 2000**|
+||Date of First Reading|9 October 2000|
+|||(Bill No. 30/2000 published on 10 October 2000)|
+||Date of Second and Third Readings|14 November 2000|
+||Date of commencement|7 February 2001|
+
+|
+(except sections 24 and 25)|
+|2.|**2001 Revised Edition—Traditional Chinese Medicine Practitioners Act**|
+||Date of operation|31 December 2001|
+## COMPARATIVE TABLE
+
+Traditional Chinese Medicine Practitioners Act
+
+(CHAPTER 333A)
+
+The following provisions in the Traditional Chinese Medicine Practitioners Act 2000 (Act 34 of 2000) have been renumbered by the Law Revision Commissioners in this 2001 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Traditional Chinese Medicine Practitioners Act.
+
+2001 Ed\. 
+
+Act 34 of 2000 
+
+Omitted
+
+38— (1)
+
+38 
+
+(2)
 
