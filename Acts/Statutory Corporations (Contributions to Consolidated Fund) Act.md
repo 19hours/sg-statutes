@@ -152,9 +152,17 @@ Inland Revenue Authority of Singapore
 
 Inland Revenue Authority of Singapore Act (Chapter 138A).
 
+14.
+
+Land Transport Authority of Singapore
+
+Land Transport Authority of Singapore Act (Chapter 158A).
+
 [S 414/1993 wef 15/10/1993]
 
 [S 344/1995 wef 01/10/1994]
+
+[S 405/1996 wef 01/09/1995]
 
 ## LEGISLATIVE HISTORY
 
@@ -182,3 +190,5 @@ This Legislative History is provided for the convenience of users of the Statuto
 ||Date of commencement|15 October 1993|
 |5.|**G. N. No. S 344/1995—Statutory Corporations (Contributions to Consolidated Fund) Act (Amendment of Schedule) Order 1995**|
 ||Date of commencement|1 October 1994|
+|6.|**G. N. No. S 405/1996—Statutory Corporations (Contributions to Consolidated Fund) Act (Amendment of Schedule) Order 1996**|
+||Date of commencement|1 September 1995|
