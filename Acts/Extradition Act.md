@@ -106,11 +106,13 @@
 
 - [44 Power to make rules](#Power-to-make-rules)
 
-- [45 Power to vary Schedules](#Power-to-vary-Schedules)
+- [45 Power to amend and vary Schedules](#Power-to-amend-and-vary-Schedules)
 
 [**FIRST SCHEDULE Description of returnable offences**](#FIRST-SCHEDULE-Description-of-returnable-offences)
 
 [**SECOND SCHEDULE**](#SECOND-SCHEDULE)
+
+[**THIRD SCHEDULE Territories between which and Singapore an extradition treaty is in force**](#THIRD-SCHEDULE-Territories-between-which-and-Singapore-an-extradition-treaty-is-in-force)
 
 [**Legislative History**](#Legislative-History)
 
@@ -160,7 +162,15 @@ PRELIMINARY
 
 “extradition treaty” means a treaty or agreement made by Singapore with a foreign State relating to the extradition of fugitives, and includes any treaty or agreement relating to the extradition of fugitives made before 9th August 1965 which extends to, and is binding on, Singapore;
 
-“foreign State” means a foreign State between which and Singapore an extradition treaty is in force;
+“foreign State” means —
+
+(a) any foreign State; or
+
+(b) any of the territories specified in the Third Schedule,
+
+between which and Singapore an extradition treaty is in force;
+
+[16/98 wef 11/06/1998]
 
 “foreign warrant” means a judicial or other document issued under the law of, or of a part of, a foreign State and authorising the apprehension of a person;
 
@@ -800,9 +810,15 @@ and the document purports to be authenticated by the oath of a witness or to be 
 
 (3) All rules made under this section shall be published in theGazetteand shall be presented to Parliament as soon as possible after publication.
 
-### Power to vary Schedules
+### Power to amend and vary Schedules
 
-45\. The Minister may, from time to time, by notification in theGazette, vary the Schedules.
+45\. The Minister may —
+
+(a) from time to time, by notification published in theGazette, vary the First and Second Schedules; and
+
+(b) by order published in theGazetteamend, add to or vary the Third Schedule when an extradition treaty between any territory and Singapore has come into force or has ceased to be in force, as the case may be.
+
+[16/98 wef 11/06/1998]
 
 FIRST SCHEDULE
 
@@ -874,6 +890,16 @@ B\. Aiding and abetting, or counselling or procuring the commission of, or being
 
 SECOND SCHEDULE
 
+THIRD SCHEDULE
+
+Section 2(1)
+
+Territories between which and Singapore an extradition treaty is in force
+
+Hong Kong Special Administrative Region of the People’s Republic of China.
+
+[16/98 wef 11/06/1998]
+
 ## LEGISLATIVE HISTORY
 
 Extradition Act
@@ -910,3 +936,8 @@ This Legislative History is provided for the convenience of users of the Extradi
 |||(Bill No. 20/1996 published on 13 July 1996)|
 ||Date of Second and Third Readings|27 August 1996|
 ||Date of commencement|1 November 1996|
+|7.|**Act 16 of 1998—Extradition (Amendment) Act 1998**|
+||Date of First Reading|19 February 1998|
+|||(Bill No. 11/1998 published on 20 February 1998)|
+||Date of Second and Third Readings|20 April 1998|
+||Date of commencement|11 June 1998|
