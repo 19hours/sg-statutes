@@ -800,3 +800,9 @@ This Legislative History is provided for the convenience of users of the Interpr
 |||(Bill No. 12/93 published on 27 February 1993)|
 ||Date of Second and Third Readings|12 April 1993|
 ||Date of commencement|1 July 1993|
+|8.|**Act 6 of 1994—Revised Edition of the Laws (Amendment) Act 1994**|
+||(Consequential amendments made by)||
+||Date of First Reading|16 March 1994|
+|||(Bill No. 7/94 published on 17 March 1994)|
+||Date of Second and Third Readings|23 May 1994|
+||Date of commencement|1 July 1994|
