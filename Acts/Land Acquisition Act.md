@@ -130,7 +130,7 @@
 
 - [51 Defraying of costs](#Defraying-of-costs)
 
-- [52 Exemption from stamp duty and court fees](#Exemption-from-stamp-duty-and-court-fees)
+- [52 (Repealed)](#Repealed)
 
 - [53 Suits to set aside awards under this Act to be barred](#Suits-to-set-aside-awards-under-this-Act-to-be-barred)
 
@@ -816,13 +816,7 @@ Provided that the person interested may, at any time before the Collector has ma
 
 51\. Where land is acquired for any person, corporation or statutory board, the costs incurred by the Collector in the acquisition shall be defrayed by that person, corporation or statutory board.
 
-### Exemption from stamp duty and court fees
-
-52\. Notwithstanding the provisions of any other written law —
-
-(a) no award, agreement, affidavit or other document made under this Act by the Collector shall be chargeable with stamp duty, and no person claiming under any such award or agreement shall be liable to pay any fee for a copy of the award or agreement; and
-
-(b) no court fees shall be payable by the Collector in respect of any summons, affidavit or other document lodged or extracted by him.
+52\. [Deleted by Act 38/2002 wef 01/01/2003]
 
 ### Suits to set aside awards under this Act to be barred
 
@@ -897,3 +891,9 @@ This Legislative History is provided for the convenience of users of the Land Ac
 |||(Bill No. 17/2001 published on 7 March 2001)|
 ||Date of Second and Third Readings|19 April 2001|
 ||Date of commencement|1 June 2001 (item (17) of the Fourth Schedule)|
+|13.|**Act 38 of 2002—Stamp Duties (Amendment) Act 2002**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|31 October 2002|
+|||(Bill No. 40/2002 published on 1 November 2002)|
+||Date of Second and Third Readings|25 November 2002|
+||Date of commencement|1 January 2003 (item (3) of the Schedule)|
