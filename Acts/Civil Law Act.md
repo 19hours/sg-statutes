@@ -18,6 +18,10 @@
 
 - [6 Agreement by way of gaming or wagering to be null and void](#Agreement-by-way-of-gaming-or-wagering-to-be-null-and-void)
 
+- [6A Contracts which must be evidenced in writing. Cf. 29 Charles II c.3 (Statute of Frauds 1677, s. 4) Law of Property Act 1925, s. 40](#Contracts-which-must-be-evidenced-in-writing-Cf-29-Charles-II-c3-Statute-of-Frauds-1677-s-4-Law-of-Property-Act-1925-s-40)
+
+- [6B Trusts respecting immovable property and disposition of equitable interest. Cf. 29 Charles II c.3 (Statute of Frauds 1677, ss. 7, 8 and 9) Law of Property Act 1925, s. 53](#Trusts-respecting-immovable-property-and-disposition-of-equitable-interest-Cf-29-Charles-II-c3-Statute-of-Frauds-1677-ss-7-8-and-9-Law-of-Property-Act-1925-s-53)
+
 - [7 Effect of death on certain causes of action](#Effect-of-death-on-certain-causes-of-action)
 
 - [8 Abolition of right to damages for loss of expectation of life](#Abolition-of-right-to-damages-for-loss-of-expectation-of-life)
@@ -39,6 +43,8 @@
 - [15 Appointments to be valid notwithstanding one or more objects excluded, or only take an unsubstantial share](#Appointments-to-be-valid-notwithstanding-one-or-more-objects-excluded-or-only-take-an-unsubstantial-share)
 
 - [16 Executor deemed to be trustee for person entitled to residue on intestacy](#Executor-deemed-to-be-trustee-for-person-entitled-to-residue-on-intestacy)
+
+- [16A Executor of executor represents original testator. Cf. 25 Edward III St. 5. c.5 (1351–2)](#Executor-of-executor-represents-original-testator-Cf-25-Edward-III-St-5-c5-1351–2)
 
 - [17 Devisee of land not to claim payment of mortgage debt out of movable property](#Devisee-of-land-not-to-claim-payment-of-mortgage-debt-out-of-movable-property)
 
@@ -126,6 +132,14 @@ Court to grant all such remedies as any of the parties are entitled to in respec
 
 (2) All persons who, in any such case, would be entitled to prove for and receive dividends out of the estate of any such deceased person, or out of the assets of any such company, may come in under the decree or order for the administration of such estate, or under the winding up of such company, and make such claims against the same as they may respectively be entitled to by virtue of this Act.
 
+### Voluntary waste. Cf. 52 Henry III (Statute of Malborough) c.23. (1267)
+
+(2A) A tenant for life or lives or a leasehold tenant shall not commit voluntary waste; but this subsection shall not apply to any estate or tenancy without impeachment of waste, or affect any licence or other right to commit waste.
+
+(2B) A tenant who infringes subsection (2A) shall be liable in damages to his remainderman or reversioner; and in subsection (2A), “leasehold tenant” includes a tenant for a term, a tenant under a periodical tenancy and a tenant at will.
+
+[Act 35 of 1993 wef 12/11/1993]
+
 ### Estate for life when not to confer right of equitable waste
 
 (3) An estate for life without impeachment of waste shall not confer, or be deemed to have conferred, upon the tenant for life any legal right to commit waste of the description known as equitable waste, unless an intention to confer such right expressly appears by the instrument creating such estate.
@@ -205,6 +219,34 @@ Court to grant all such remedies as any of the parties are entitled to in respec
 ### Promises to repay sums paid under such contracts to be null and void
 
 (5) Any promise, express or implied, to pay any person any sum of money paid by him under or in respect of any contract or agreement rendered null and void by subsections (1) and (2), or to pay any sum of money by way of commission, fee, reward or otherwise in respect of any such contract or of any services in relation thereto or in connection therewith, shall be null and void, and no action shall be brought or maintained to recover any such sum of money.
+
+### Contracts which must be evidenced in writing. Cf. 29 Charles II c.3 (Statute of Frauds 1677, s. 4) Law of Property Act 1925, s. 40
+
+6A\. No action shall be brought against —
+
+(a) any executor or administrator upon any special promise to answer damages out of his own estate;
+
+(b) any defendant upon any special promise to answer for the debt, default or miscarriage of another person;
+
+(c) any person upon any agreement made upon consideration of marriage;
+
+(d) any person upon any contract for the sale or other disposition of immovable property, or any interest in such property; or
+
+(e) any person upon any agreement that is not to be performed within the space of one year from the making thereof,
+
+unless the promise or agreement upon which such action is brought, or some memorandum or note thereof, is in writing and signed by the party to be charged therewith or some other person lawfully authorised by him.
+
+[Act 35 of 1993 wef 12/11/1993]
+
+### Trusts respecting immovable property and disposition of equitable interest. Cf. 29 Charles II c.3 (Statute of Frauds 1677, ss. 7, 8 and 9) Law of Property Act 1925, s. 53
+
+6B\.—(1) A declaration of trust respecting any immovable property or any interest in such property must be manifested and proved by some writing signed by some person who is able to declare such trust or by his will.
+
+(2) A disposition of an equitable interest or trust subsisting at the time of the disposition must be in writing signed by the person disposing of the same or by his agent lawfully authorised in writing or by will.
+
+(3) This section does not affect the creation or operation of resulting, implied or constructive trusts.
+
+[Act 35 of 1993 wef 12/11/1993]
 
 ### Effect of death on certain causes of action
 
@@ -434,6 +476,30 @@ the action may be brought by and in the name of all or any of the persons for wh
 
 [13
 
+### Executor of executor represents original testator. Cf. 25 Edward III St. 5. c.5 (1351–2)
+
+16A\.—(1) An executor of a sole or last surviving executor of a testator is the executor of that testator; but this provision shall not apply to an executor who does not prove the will of his testator and, in the case of an executor who on his death leaves surviving him some other executor of his testator who afterwards proves the will of that testator, it shall cease to apply on such probate being granted.
+
+(2) So long as the chain of such representation is unbroken, the last executor in the chain is the executor of every preceding testator.
+
+(3) The chain of such representation is broken by —
+
+(a) an intestacy;
+
+(b) the failure of a testator to appoint an executor; or
+
+(c) the failure to obtain a probate of a will,
+
+but is not broken by a temporary grant of administration if probate is subsequently granted.
+
+(4) Every person in the chain of representation to a testator —
+
+(a) has the same rights in respect of the estate of that testator as the original executor would have had if living; and
+
+(b) is, to the extent to which the estate of that testator has come to his hands, answerable as if he were an original executor.
+
+[Act 35 of 1993 wef 12/11/1993]
+
 ### Devisee of land not to claim payment of mortgage debt out of movable property
 
 17\.—(1) If any person dies or has died seised of or entitled to any estate or interest in any immovable property, which is at the time of his death charged with the payment of any sum or sums of money by way of mortgage, and such person has not by his will or deed or other document signified any contrary or other intention, the devisee to whom such immovable property is devised, shall not be entitled to have the mortgage debt discharged or satisfied out of the movable property or any other immovable property of that person.
@@ -615,3 +681,9 @@ This Legislative History is provided for the convenience of users of the Civil L
 |||(Bill No. 1/93 published on 19 January 1993)|
 ||Date of Second and Third Readings|26 February 1993|
 ||Date of commencement|16 April 1993|
+|28.|**Act 35 of 1993—Application of English Law Act 1993**|
+||(Miscellaneous amendments made by)||
+||Date of First Reading|30 August 1993|
+|||(Bill No. 26/93 published on 31 August 1993)|
+||Date of Second and Third Readings|12 October 1993|
+||Date of commencement|12 November 1993|
