@@ -1,16 +1,14 @@
-**Arbitration Act 2001**
+**Arbitration Act**
 
-**(No. 37 of 2001)**
+**(CHAPTER 10)**
 
 **Table of Contents**
 
 [**Long Title**](#Arbitration-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -124,9 +122,9 @@
 
 - [49 Appeal against award](#Appeal-against-award)
 
-- [50 Supplementary provisions to challenge appeal](#Supplementary-provisions-to-challenge-appeal)
+- [50 Supplementary provisions to appeal under section 49](#Supplementary-provisions-to-appeal-under-section-49)
 
-- [51 Effect of order of Court upon appeal or challenge against award](#Effect-of-order-of-Court-upon-appeal-or-challenge-against-award)
+- [51 Effect of order of Court upon appeal against award](#Effect-of-order-of-Court-upon-appeal-against-award)
 
 - [52 Application for leave of Court, etc.](#Application-for-leave-of-Court-etc)
 
@@ -156,53 +154,33 @@
 
 - [64 Act to bind Government](#Act-to-bind-Government)
 
-- [65 Repeal and transitional provisions](#Repeal-and-transitional-provisions)
+- [65 Transitional provisions](#Transitional-provisions)
 
-- [66 Consequential amendments to Bankruptcy Act](#Consequential-amendments-to-Bankruptcy-Act)
+[**Legislative History**](#Legislative-History)
 
-- [67 Consequential amendments to Limitation Act](#Consequential-amendments-to-Limitation-Act)
+[**Comparative Table**](#Comparative-Table)
 
-REPUBLIC OF SINGAPORE
+# Arbitration Act
 
-GOVERNMENT GAZETTE
+(CHAPTER 10)
 
-ACTS SUPPLEMENT
+(Original Enactment: Act 37 of 2001)
 
-Published by Authority
+REVISED EDITION 2002
 
-NO. 40]
+(31st July 2002)
 
-Friday, October 26
+An Act to provide for the conduct of arbitration.
 
-[2001
-
-The following Act was passed by Parliament on 5th October 2001 and assented to by the President on 17th October 2001:—
-
-Arbitration Act 2001
-
-(No. 37 of 2001)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-17th October 2001.
-
-Date of Commencement: 1st March 2002
-
-An Act to provide for the conduct of arbitration and to repeal the Arbitration Act (Chapter 10 of the 1985 Revised Edition) and also to make consequential amendments to the Bankruptcy Act (Chapter 20 of the 2000 Revised Edition) and the Limitation Act (Chapter 163 of the 1996 Revised Edition).
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st March 2002]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Arbitration Act 2001 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Arbitration Act.
 
 ### Interpretation
 
@@ -214,13 +192,15 @@ PRELIMINARY
 
 “arbitration agreement” has the meaning given to it in section 4;
 
-“award” means a decision of the arbitral tribunal on the substance of the dispute and includes any interim, interlocutory or partial award but excludes any orders or directions made under section 28;
+“award” means a decision of the arbitral tribunal on the substance of the dispute and includes any interim, interlocutory or partial award but excludes any order or direction made under section 28;
 
 “Court” means the High Court in Singapore;
 
 “court”, for the purposes of sections 6, 7, 8, 11(1), 55, 56 and 57, means the High Court, District Court, Magistrate’s Court or any other court in which the proceedings referred to in those sections are instituted or heard;
 
-“party” means a party to an arbitration agreement or, in any case where an arbitration does not involve all of the parties to the arbitration agreement, means a party to the arbitration;
+“party” means a party to an arbitration agreement or, in any case where an arbitration does not involve all of the parties to the arbitration agreement, means a party to the arbitration1;
+
+1see section 9 of the Contracts (Rights of Third Parties) Act (Cap. 53B) on third parties who are treated as parties to an arbitration agreement.
 
 “the place of the arbitration” means the juridical seat of the arbitration designated by —
 
@@ -278,7 +258,7 @@ sTAY OF LEGAL PROCEEDINGS
 
 6\.—(1) Where any party to an arbitration agreement institutes any proceedings in any court against any other party to the agreement in respect of any matter which is the subject of the agreement, any party to the agreement may, at any time after appearance and before delivering any pleading or taking any other step in the proceedings, apply to that court to stay the proceedings so far as the proceedings relate to that matter.
 
-(2) The court to which an application has been made in accordance with subsection (1) may, if it is satisfied that —
+(2) The court to which an application has been made in accordance with subsection (1) may, if the court is satisfied that —
 
 (a) there is no sufficient reason why the matter should not be referred in accordance with the arbitration agreement; and
 
@@ -290,7 +270,7 @@ make an order, upon such terms as the court thinks fit, staying the proceedings 
 
 (4) Where no party to the proceedings has taken any further step in the proceedings for a period of not less than 2 years after an order staying the proceedings has been made, the court may, on its own motion, make an order discontinuing the proceedings without prejudice to the right of any of the parties to apply for the discontinued proceedings to be reinstated.
 
-(5) For the purposes of this section and section 8, a reference to a party includes a reference to any person claiming through or under such party.
+(5) For the purposes of this section, a reference to a party includes a reference to any person claiming through or under such party.
 
 ### Court’s powers on stay of proceedings
 
@@ -340,7 +320,7 @@ within a time fixed by the agreement and a dispute to which the agreement applie
 
 11\.—(1) The Limitation Act (Cap. 163) shall apply to arbitration proceedings as it applies to proceedings before any court and a reference in that Act to the commencement of any action shall be construed as a reference to the commencement of arbitration proceedings.
 
-(2) The Court may order that in computing the time prescribed by the Limitation Act for the commencement of proceedings (including arbitration proceedings) in respect of a dispute which was the subject- matter of —
+(2) The Court may order that in computing the time prescribed by the Limitation Act for the commencement of proceedings (including arbitration proceedings) in respect of a dispute which was the subject-matter of —
 
 (a) an award which the Court orders to be set aside or declares to be of no effect; or
 
@@ -414,7 +394,7 @@ any party may apply to the appointing authority to take the necessary measure un
 
 14\.—(1) Where any person is approached in connection with his possible appointment as an arbitrator, he shall disclose any circumstance likely to give rise to justifiable doubts as to his impartiality or independence.
 
-(2) An arbitrator shall, from the time of his appointment and throughout the arbitration proceedings, without delay disclose any such circumstance as is referred to in subsection (1) to the parties unless they have already been so informed by him.
+(2) An arbitrator shall, from the time of his appointment and throughout the arbitration proceedings, disclose without delay any such circumstance as is referred to in subsection (1) to the parties unless they have already been so informed by him.
 
 (3) Subject to subsection (4), an arbitrator may be challenged only if —
 
@@ -976,9 +956,9 @@ POWERS OF COURT IN RELATION TO AWARD
 
 (11) The Court may give leave to appeal against the decision of the Court in subsection (10) only if the question of law before it is one of general importance, or one which for some other special reason should be considered by the Court of Appeal.
 
-### Supplementary provisions to challenge appeal
+### Supplementary provisions to appeal under section 49
 
-50\.—(1) This section shall apply to an application or appeal under section 45, 48 or 49.
+50\.—(1) This section shall apply to an application or appeal under section 49.
 
 (2) An application or appeal may not be brought if the applicant or appellant has not first exhausted —
 
@@ -1010,9 +990,9 @@ the Court may order the arbitral tribunal to state the reasons for its award in 
 
 (9) The Court may grant leave to appeal subject to conditions to the same or similar effect as an order under subsection (6) or (8) and this shall not affect the general discretion of the Court to grant leave subject to conditions.
 
-### Effect of order of Court upon appeal or challenge against award
+### Effect of order of Court upon appeal against award
 
-51\.—(1) Where the Court makes an order under section 45, 48 or 49 with respect to an award, subsections (2), (3) and (4) shall apply.
+51\.—(1) Where the Court makes an order under section 49 with respect to an award, subsections (2), (3) and (4) shall apply.
 
 (2) Where the award is varied by the Court, the variation shall have effect as part of the arbitral tribunal’s award.
 
@@ -1022,7 +1002,7 @@ the Court may order the arbitral tribunal to state the reasons for its award in 
 
 ### Application for leave of Court, etc.
 
-52\.—(1) An application for the leave of the Court to appeal or make an application referred to in section 21(10), 36(6) or 49(3)(b) or (6) shall be made in such manner as may be prescribed in the Rules of Court.
+52\.—(1) An application for the leave of the Court to appeal or an application referred to in section 21(10), 36(6) or 49(3)(b) or (7) shall be made in such manner as may be prescribed in the Rules of Court.
 
 (2) The Court shall determine an application for leave to appeal without a hearing unless it appears to the Court that a hearing is required.
 
@@ -1058,7 +1038,7 @@ MISCELLANEOUS
 
 (c) so as to keep any provision made by this Act in relation to legal proceedings in step with the corresponding provision of the Rules of Court applying generally in relation to proceedings in the Court.
 
-(6) Nothing in this section shall affect the generality of the power to make Rules of Court.
+(6) Nothing in this section shall affect the generality of the power of the Rules Committee to make Rules of Court.
 
 ### Powers of Court and Registrar
 
@@ -1178,47 +1158,72 @@ it shall be treated as effectively served.
 
 64\. This Act shall bind the Government.
 
-### Repeal and transitional provisions
+### Transitional provisions
 
-65\.—(1) The Arbitration Act (Cap. 10) is repealed.
+65\.—(1) This Act shall apply to arbitration proceedings commenced on or after 1st March 2002 but the parties may in writing agree that this Act shall apply to arbitration proceedings commenced before that date.
 
-(2) This Act shall apply to arbitration proceedings commenced on or after the appointed day but the parties may in writing agree that this Act shall apply to arbitration proceedings commenced before the appointed day.
+(2) Notwithstanding the repeal of the Arbitration Act (Cap. 10, 1985 Ed.), where the arbitration proceedings were commenced before 1st March 2002, the law governing the arbitration agreement and the arbitration shall be the law which would have applied if this Act had not been enacted.
 
-(3) Notwithstanding subsection (1), where the arbitration proceedings were commenced before the appointed day, the law governing the arbitration agreement and the arbitration shall be the law which would have applied if this Act had not been enacted.
+(3) Where an arbitration agreement made or entered into before 1st March 2002 provides for the appointment of an umpire or an arbitral tribunal comprising 2 arbitrators, the law to the extent that it governs the appointment, role and function of the umpire shall be the law which would have applied if this Act had not been enacted.
 
-(4) Where an arbitration agreement made or entered into before the appointed day provides for the appointment of an umpire or an arbitral tribunal comprising 2 arbitrators, the law to the extent that it governs the appointment, role and function of the umpire shall be the law which would have applied if this Act had not been enacted.
+(4) For the purposes of this section, arbitration proceedings are to be taken as having commenced on the date of the receipt by the respondent of a request for the dispute to be referred to arbitration, or, where the parties have agreed in writing that any other date is to be taken as the date of commencement of the arbitration proceedings, then on that date.
 
-(5) For the purposes of this section, arbitration proceedings are to be taken as having commenced on the date of the receipt by the respondent of a request for the dispute to be referred to arbitration, or, where the parties have agreed in writing that any other date is to be taken as the date of commencement of the arbitration proceedings, then on that date.
+## LEGISLATIVE HISTORY
 
-(6) For the purposes of this section, “appointed day” means the date of commencement of this Act.
+Arbitration Act
 
-### Consequential amendments to Bankruptcy Act
+(CHAPTER 10)
 
-66\. The Bankruptcy Act (Cap. 20) is amended by inserting, immediately after section 148, the following section:
+This Legislative History is provided for the convenience of users of the Arbitration Act. It is not part of this Act.
 
-“
+||||
+|:-|:-|:-|
+|1.|**Act 37 of 2001—Arbitration Act 2001**|
+||Date of First Reading|25 September 2001|
+|||(Bill No. 37/2001 published on 26 September 2001)|
+||Date of Second and Third Readings|5 October 2001|
+||Date of commencement|1 March 2002|
+|2.|**2002 Revised Edition—Arbitration Act**|
+||Date of operation|31 July 2002|
+## COMPARATIVE TABLE
 
-Arbitration agreements to which bankrupt is a party
+Arbitration Act
 
-148A\.—(1) This section shall apply where a bankrupt had become party to a contract containing an arbitration agreement before the commencement of his bankruptcy.
+(CHAPTER 10)
 
-(2) If the Official Assignee adopts the contract, the arbitration agreement shall be enforceable by or against the Official Assignee in relation to matters arising from or connected with the contract.
+The following provisions in the Arbitration Act 2001 (Act 37 of 2001) have been renumbered by the Law Revision Commissioners in this 2002 Revised Edition.
 
-(3) If the Official Assignee does not adopt the contract and a matter to which the arbitration agreement applies requires to be determined in connection with or for the purposes of the bankruptcy proceedings —
+This Comparative Table is provided for the convenience of users. It is not part of the Arbitration Act.
 
-(a) the Official Assignee; or
+2002 Ed\. 
 
-(b) any other party to the agreement,
+Act 37 of 2001 
 
-may apply to the court which may, if it thinks fit in all the circumstances of the case, order that the matter be referred to arbitration in accordance with the arbitration agreement.
+Omitted
 
-(4) In this section, “court” means the court which has jurisdiction in the bankruptcy proceedings.
+65 — (1)
 
-”.
+65 — (1)
 
-### Consequential amendments to Limitation Act
+(2)
 
-67\.—(1) Section 30 of the Limitation Act (Cap. 163) is repealed.
+(2)
 
-(2) Nothing in this section shall affect the application of section 30 of the Limitation Act in respect of arbitration proceedings under the repealed Arbitration Act (Cap. 10) or the International Arbitration Act (Cap. 143A), as the case may be, commenced before the date of commencement of this Act.
+(3)
+
+(3)
+
+(4)
+
+(4)
+
+(5)
+
+Omitted
+
+66 
+
+Omitted
+
+67 
 
