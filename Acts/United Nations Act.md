@@ -1,14 +1,12 @@
-**United Nations Act 2001**
+**United Nations Act**
 
-**(No. 44 of 2001)**
+**(CHAPTER 339)**
 
 **Table of Contents**
 
 [**Long Title**](#United-Nations-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Power to make regulations to enable effect to be given to Article 41 of Charter of United Nations](#Power-to-make-regulations-to-enable-effect-to-be-given-to-Article-41-of-Charter-of-United-Nations)
 
@@ -20,43 +18,25 @@
 
 - [6 Liability of citizens of Singapore for offences committed outside Singapore](#Liability-of-citizens-of-Singapore-for-offences-committed-outside-Singapore)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# United Nations Act
 
-ACTS SUPPLEMENT
+(CHAPTER 339)
 
-Published by Authority
+(Original Enactment: Act 44 of 2001)
 
-NO. 43]
+REVISED EDITION 2002
 
-Friday, October 26
+(31st July 2002)
 
-[2001
+An Act to enable Singapore to fulfil its obligations respecting Article 41 of the Charter of the United Nations.
 
-The following Act was passed by Parliament on 15th October 2001 and assented to by the President on 17th October 2001:—
+[29th October 2001]
 
-United Nations Act 2001
+### Short title
 
-(No. 44 of 2001)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-17th October 2001.
-
-Date of Commencement: 29th October 2001
-
-An Act for the protection in Singapore of designs registered in the United Kingdom.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
-
-### Short title and commencement
-
-1\. This Act may be cited as the United Nations Act 2001 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the United Nations Act.
 
 ### Power to make regulations to enable effect to be given to Article 41 of Charter of United Nations
 
@@ -102,3 +82,20 @@ where such failure, neglect or refusal is solely attributable to, or occasioned 
 
 (2) Any proceedings against any person under this section which would be a bar to subsequent proceedings against that person for the same offence, if the offence had been committed in Singapore, shall be a bar to further proceedings against him, under any written law for the time being in force relating to the extradition of persons, in respect of the same offence outside Singapore.
 
+## LEGISLATIVE HISTORY
+
+United Nations Act
+
+(CHAPTER 339)
+
+This Legislative History is provided for the convenience of users of the United Nations Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 44 of 2001—United Nations Act 2001**|
+||Date of First Reading|5 October 2001|
+|||(Bill No. 42/2001 published on 5 October 2001)|
+||Date of Second and Third Readings|15 October 2001|
+||Date of commencement|29 October 2001|
+|2.|**2002 Revised Edition—United Nations Act**|
+||Date of operation|31 July 2002|
