@@ -472,6 +472,12 @@ Singapore Gasing Federation (Federasi Gasing Singapura).
 
 Singapore Girl Guides Association.
 
+51A. 
+
+Singapore Hadrah and Kompang Association (PEHAKS) (Persatuan Hadrah Dan Kompang Singapura).
+
+[S 361/1994 wef 14/09/1994]
+
 52. 
 
 Singapore Indian Fine Arts Society.
@@ -724,3 +730,5 @@ This Legislative History is provided for the convenience of users of the People�
 ||Date of operation|15 March 1994|
 |31.|**G.N. No. S 293/94—People’s Association Act (Amendment of First Schedule) Notification 1994**|
 ||Date of commencement|27 June 1994|
+|32.|**G.N. No. S 361/94—People’s Association Act (Amendment of First Schedule) (No. 2) Notification 1994**|
+||Date of commencement|14 September 1994|
