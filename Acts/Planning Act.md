@@ -212,7 +212,7 @@ PRELIMINARY
 
 “Certified Interpretation Plan” means a Certified Interpretation Plan prepared and certified by the competent authority under section 7;
 
-“Collector” has the same meaning as in the Land Revenue Collection Act (Cap.155);
+“Collector” has the same meaning as in the Land Revenue Collection Act (Cap. 155);
 
 [17/2001 wef 01/06/2001]
 
@@ -340,6 +340,8 @@ PRELIMINARY
 
 (c) in the case of any other land, the grant of any lease of the whole or part of the land for a term not exceeding an aggregate of 7 years.
 
+[30/2003 wef 10/12/2003]
+
 (3) The Minister may, at any time, by order published in theGazetteamend, delete or add to the list of leases in subsection (2) which shall not be regarded as a disposal of land or part thereof.
 
 [30/2003 wef 10/12/2003]
@@ -349,6 +351,8 @@ PRELIMINARY
 (a) the fact that the term of a lease may be extended in pursuance of an option shall be taken into consideration in determining whether the term of the lease exceeds any of the periods specified in subsection (2); and
 
 (b) the fact that a lease for a specified period of time is determinable on the happening of an event within that time shall not be taken into consideration in determining the term of the lease.
+
+[30/2003 wef 10/12/2003]
 
 ### Competent authority
 
@@ -433,6 +437,8 @@ MASTER PLAN AND CONSERVATION AREAS AND GUIDELINES
 (b) objections and representations made in accordance with the rules to be considered, and public inquiries or other hearings in such cases as may be prescribed to be held before the Master Plan is amended by the Minister; and
 
 (c) copies of the Master Plan or parts thereof to be made available for free inspection by and for sale at a reasonable cost to the public.
+
+(3) [Deleted by Act 30/2003 wef 10/12/2003]
 
 ### Conservation guidelines
 
@@ -557,6 +563,8 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 (e) that deposits shall be placed with such statutory authority as the competent authority may specify to secure compliance with the requirements of that statutory authority;
 
 (f) that the title of any part of the land shall be transferred free from encumbrances to the State or any public authority;
+
+(g) [Deleted by Act 30/2003 wef 10/12/2003]
 
 (h) that such connecting structures (whether or not within the land) as the competent authority considers necessary are to be provided, maintained, kept open and accessible for use by the public or any occupier or other user of the land and any other land adjoining or in the locality; and
 
@@ -1166,6 +1174,8 @@ he may, within 30 days of the interim order or the final order under this sectio
 
 (e) the refund, wholly or in part, of the development charge paid by any person.
 
+(2) [Deleted by Act 30/2003 wef 10/12/2003]
+
 ## PART VA
 
 TEMPORARY DEVELOPMENT LEVY
@@ -1538,11 +1548,19 @@ Section 3(3)(i) applies to any building or buildings or part of a building which
 
 (e) place of worship;
 
-(f) workers’ dormitory .
+(f) workers’ dormitory;
+
+(g) industrial retail building;
+
+[S 657/2004 wef 28/10/2004]
+
+(h) warehouse retail building.
+
+[S 657/2004 wef 28/10/2004]
 
 [30/2003 wef 10/12/2003]
 
-## THE SCHEDULE
+THIRD SCHEDULE
 
 Section 4
 
@@ -1689,3 +1707,5 @@ This Legislative History is provided for the convenience of users of the Plannin
 |||(Bill No. 27/2003 published on 17 October 2003)|
 ||Date of Second and Third Readings|11 November 2003|
 ||Dates of commencement|10th December 2003|
+|23.|**G. N. No. S 657/2004—Planning Act (Amendment of Second Schedule) Order 2004**|
+||Date of commencement|28 October 2004|
