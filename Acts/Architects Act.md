@@ -372,6 +372,8 @@ unless the person is a registered architect who has in force a practising certif
 
 (a) supply or offer to supply architectural services in Singapore,
 
+(b) [Deleted by Act 18/2003 wef 01/01/2004]
+
 unless the person is —
 
 (i) a registered architect who has in force a practising certificate and is doing so on his own account or as a partner in a licensed partnership or a partnership consisting wholly of registered architects ;
@@ -838,7 +840,9 @@ GENERAL
 
 (3) All fees and other moneys payable to the Board under this Act shall be paid forthwith into a bank account approved by the Board.
 
-(4) The Board may from time to time invest any moneys not immediately required by the Board in such trustee securities as the Board may determine.
+(4) The Board may invest its moneys in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
+
+[45/2004 wef 15/12/2004]
 
 (5) The Board shall keep full and proper accounts of all moneys received and expended by it and the accounts shall be audited by an auditor approved by the Minister.
 
@@ -979,6 +983,11 @@ This Legislative History is provided for the convenience of users of the Archite
 |||(Bill No. 17/2003 published on 15 August 2003)|
 ||Date of Second and Third Readings|2 September 2003|
 ||Date of commencement|1 January 2004|
+|8.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
+||Date of First Reading|21 September 2004|
+|||(Bill No. 43/2004 published on 22 September 2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|15 December 2004|
 ## COMPARATIVE TABLE
 
 Architects Act
