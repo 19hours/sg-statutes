@@ -94,9 +94,9 @@ Jurong Town Corporation Act (Chapter 150).
 
 4.
 
-National Maritime Board
+Maritime and Port Authority of Singapore
 
-National Maritime Board Act (Chapter 198).
+Maritime and Port Authority of Singapore Act 1996
 
 5.
 
@@ -164,6 +164,8 @@ Land Transport Authority of Singapore Act (Chapter 158A).
 
 [S 405/1996 wef 01/09/1995]
 
+[7/1996 wef 02/02/1996]
+
 ## LEGISLATIVE HISTORY
 
 Statutory Corporations (Contributions to Consolidated Fund) Act
@@ -192,3 +194,9 @@ This Legislative History is provided for the convenience of users of the Statuto
 ||Date of commencement|1 October 1994|
 |6.|**G. N. No. S 405/1996—Statutory Corporations (Contributions to Consolidated Fund) Act (Amendment of Schedule) Order 1996**|
 ||Date of commencement|1 September 1995|
+|7.|**Act 7 of 1996—Maritime and Port Authority of Singapore Act 1996**|
+||(Consequential amendments made by)||
+||Date of First Reading|5 December 1995|
+|||(Bill No. 46/1995 published on 6 December 1995)|
+||Date of Second and Third Readings|18 January 1996|
+||Date of commencement|2 February 1996|
