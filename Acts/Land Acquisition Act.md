@@ -650,7 +650,7 @@ the amount of that increase shall not be taken into account;
 
 (d) if any land in respect of which a value has been stated by or with the knowledge or consent of the owner thereof in any affidavit, return or other document required to be made or delivered to any public officer under the provisions of any written law and accepted by him at that value for the purposes of assessing the tax or duty payable thereon where the statement was made within two years of the date of the notification under section 5(1) in respect of the land, the market value of the acquired land at the date of the statement shall be deemed not to exceed the value therein contained;
 
-(e) the market value of the acquired land shall be deemed not to exceed the price which a bona fide purchaser might reasonablybe expected to pay for the land on the basis of its existing use or in anticipation of the continued use of the land for the purpose designated in the Master Plan, whichever is the lower, after taking into account the zoning and density requirements and any other restrictions imposed under the Planning Act [Cap. 232] and any restrictive covenants in the title of the acquired land, and no account shall be taken of any potential value of the land for any other more intensive use; and
+(e) the market value of the acquired land shall be deemed not to exceed the price which a bona fide purchaser might reasonablybe expected to pay for the land on the basis of its existing use or in anticipation of the continued use of the land for the purpose designated in the Development Baseline referred to in section 36 of the Planning Act 1998, whichever is the lower, after taking into account the zoning and density requirements and any other restrictions imposed under the Planning Act 1998 and any restrictive covenants in the title of the acquired land, and no account shall be taken of any potential value of the land for any other more intensive use; and
 
 (f) where the acquired land is used as a burial ground, the market value of the land shall be computed on the basis that the land is a burial ground and any consideration, in cash or kind, already received by the owner of the acquired land for the allocation of grave plots shall be taken into account, and no account shall be taken of any potential value of the land for any other more intensive use.
 
@@ -883,3 +883,9 @@ This Legislative History is provided for the convenience of users of the Land Ac
 |||(Bill No. 6/1997 published on 12 July 1997)|
 ||Date of Second and Third Readings|25 August 1997|
 ||Dates of commencement|1 October 1997 (item (16) of the Second Schedule)|
+|11.|**Act 3 of 1998—Planning Act 1998**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|19 November 1997|
+|||(Bill No. 18/1997 published on 20 November 1998|
+||Date of Second and Third Readings|14 January 1998|
+||Date of commencement|1 April 1998 (item (4) of the Second Schedule)|
