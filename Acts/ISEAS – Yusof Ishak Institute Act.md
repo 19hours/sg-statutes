@@ -92,7 +92,9 @@ An Act to provide for the establishment of the Institute of Southeast Asian Stud
 
 (c) two persons, one each to be appointed by the Lee Foundation and the Shaw Foundation;
 
-(d) six persons to be appointed by the Vice-Chancellor of the National University of Singapore; and
+(d) six persons to be appointed by the President of the National University of Singapore; and
+
+[26/2001 wef 01/09/2001]
 
 (e) three persons to be appointed by the President from among persons nominated by such professional bodies and organisations as the President may consult.
 
@@ -303,3 +305,8 @@ This Legislative History is provided for the convenience of users of the Institu
 ||Date of commencement|24 April 1981|
 |5.|**1985 Revised Edition—Institute of Southeast Asian Studies Act (Chapter 141)**|
 ||Date of operation|30 March 1987|
+|6.|**Act 26 of 2001—Statutes (Miscellaneous Amendments and Repeal) Act 2001**|
+||Date of First Reading|11 July 2001|
+|||(Bill No. 24/2001 published on 17 August 2001)|
+||Date of Second and Third Readings|25 July 2001|
+||Date of commencement|1 September 2001 (section 10 — amendment of Institute of Southeast Asian Studies Act)|
