@@ -42,7 +42,7 @@
 
 - [15 Cancellation or withdrawal of registration](#Cancellation-or-withdrawal-of-registration)
 
-- [16 Power to freeze bank account](#Power-to-freeze-bank-account)
+- [16 Power to stop payment of money held by financial institution](#Power-to-stop-payment-of-money-held-by-financial-institution)
 
 - [17 Appeal to Minister](#Appeal-to-Minister)
 
@@ -142,6 +142,8 @@
 
 - [59 General penalty](#General-penalty)
 
+- [59A Composition of offences](#Composition-of-offences)
+
 - [60 Limitation of prosecutions](#Limitation-of-prosecutions)
 
 - [61 Saving of offences under other written law](#Saving-of-offences-under-other-written-law)
@@ -156,7 +158,7 @@
 
 - [65 Notification inGazette](#Notification-inGazette)
 
-[**THE SCHEDULE Matters for which provision must be made in the rules of every registered trade union**](#THE-SCHEDULE)
+[**THE SCHEDULE Matters for Which Provision Must be Made in the Rules of Every Registered Trade Union**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -186,9 +188,21 @@ PRELIMINARY
 
 2\. In this Act —
 
+“delegate” means —
+
+(a) in relation to a trade union which is not a federation, a person who is elected or appointed in accordance with the rules of the trade union to attend and vote at a meeting of the trade union on behalf of any number of members of the trade union; or
+
+(b) in relation to a federation, a person elected or appointed in accordance with the rules of the federation to attend and vote at a meeting of the federation on behalf of any of the constituent trade unions of the federation;
+
+[11/2000 wef 15/12/2000]
+
 “employer” includes the Government in respect of such employees or of such categories, classes or descriptions of such employees as from time to time are declared by the President by notification in theGazetteto be deemed to be workmen for the purposes of this Act;
 
 “executive” means the body, by whatever name called, to which the management of the affairs of a trade union or of any branch thereof is entrusted;
+
+“federation” means a federation of 2 or more trade unions;
+
+[11/2000 wef 15/12/2000]
 
 “lock-out” means the closing of a place of employment or the suspension of work, or the refusal by an employer to continue to employ any number of persons employed by him in consequence of a dispute, done with a view to compelling those persons, or to aid another employer in compelling persons employed by him, to accept terms or conditions of or affecting employment;
 
@@ -202,6 +216,18 @@ PRELIMINARY
 
 “Registrar” means the person for the time being appointed by the Minister under section 3 by name or by office to be or to act as Registrar of Trade Unions, and includes any person appointed by the Minister under section 4 to be or to act as an Assistant Registrar of Trade Unions;
 
+“requisite consent” —
+
+(a) in relation to a trade union which is not a federation, means the consent, obtained by secret ballot, of —
+
+(i) the majority of the members of the trade union voting on their own behalf on the matter for which consent is sought; or
+
+(ii) where the rules of the trade union allow or require a decision on that matter to be taken by means of voting by delegates and the decision is taken using that means, two-thirds of the total number of delegates representing the members; or
+
+(b) in relation to a federation, means the consent, obtained by secret ballot, of two-thirds of the total number of delegates representing the constituent trade unions of the federation;
+
+[11/2000 wef 15/12/2000]
+
 “strike” means the cessation of work by a body of workmen employed in any trade, industry or calling acting in combination, or a concerted refusal, or a refusal under a common understanding of any number of workmen who are or have been so employed to continue to work or to accept employment;
 
 “trade dispute” means any dispute between employers and workmen or between workmen and workmen, or between employers and employers which is connected with the employment or non-employment, or the terms of employment or the conditions of work, of any person;
@@ -214,7 +240,7 @@ PRELIMINARY
 
 (c) to achieve the raising of productivity for the benefit of workmen, employers and the economy of Singapore,
 
-and includes any federation of two or more trade unions;
+and includes any federation;
 
 “workman” means any person who has entered into or works under a contract of service or apprenticeship with an employer, whether the contract is for manual labour, clerical work or otherwise, is express or implied, oral or in writing.
 
@@ -246,9 +272,23 @@ REGISTRATION
 
 ### Register of trade unions
 
-7\.—(1) The Registrar shall keep and maintain in such form as may be prescribed, a register of trade unions in which shall be registered the prescribed particulars relating to any registered trade union and any alteration or change which may from time to time be effected in the name, rules, officers or executives thereof or in the situation of the registered office thereof, and all such other matters as may be required to be registered therein under this Act.
+7\.—(1) The Registrar shall keep and maintain a register of trade unions which shall contain such particulars of each registered trade union as may be prescribed.
 
-(25) A certified copy of any entry in the register shall be conclusive proof of the facts specified therein as on the date of such certified copy.
+[11/2000 wef 15/12/2000]
+
+(2) The register may be kept in whole or in part in an electronic form.
+
+[11/2000 wef 15/12/2000]
+
+(3) The Registrar may require an officer or member of a registered trade union to produce such document or provide such information as the Registrar may require for the purposes of maintaining the register.
+
+[11/2000 wef 15/12/2000]
+
+(4) The Registrar may order the destruction of any document in the registry after the document has been microfilmed or converted to electronic form.
+
+[11/2000 wef 15/12/2000]
+
+(5) A certified copy of any entry in the register shall be conclusive proof of the facts specified therein as on the date of such certified copy.
 
 ### Necessity for registration
 
@@ -270,15 +310,15 @@ and, in a case where proof is available of both the dates referred to in paragra
 
 9\.—(1) Every application for registration of any association or combination of workmen or employers as a trade union shall be made to the Registrar in the prescribed form and shall be signed by at least 7 members of the union, any of whom may be officers thereof.
 
-(2) Every such application shall be accompanied by the prescribed fee and a copy of the rules of the trade union and a statement of the following particulars:
+(2) Every application shall be made in the prescribed form and shall be accompanied by —
 
-(a) the names, occupations and addresses of the members making the application;
+(a) the prescribed fee;
 
-(b) the name of the trade union and the address of its head office; and
+(b) a copy of the rules of the trade union; and
 
-(c) the titles, names, ages, addresses and occupations of the officers of the trade union.
+(c) a statement of the prescribed particulars of the members making the application and the officers of the trade union.
 
-[3/77]
+[11/2000 wef 15/12/2000]
 
 ### Registration
 
@@ -368,21 +408,25 @@ Provided that if any one of the objects of such trade union is unlawful, the reg
 
 (5) An order made by the Registrar under this section withdrawing or cancelling the certificate of registration of any trade union shall be dated as of the date on which it was made, shall specify briefly the grounds for the withdrawal or cancellation of the certificate of registration and shall forthwith be served on the trade union affected thereby.
 
-### Power to freeze bank account
+### Power to stop payment of money held by financial institution
 
-16\.—(1) Where a notice has been given by the Registrar to a trade union under section 15(2), the Minister may, if he is satisfied that it is likely that the funds of the union may be misused, by notice in writing direct any bank not to pay any money out of or honour any cheques drawn on the account of the union for a specified period not exceeding 3 months, except with the written authorisation of the Registrar.
+16\.—(1) Where a notice has been given by the Registrar to a trade union under section 15(2), the Minister may, if he is satisfied that it is likely that the funds of the union may be misused, by notice in writing direct any financial institution not to pay or cause to be paid any money out of or honour any cheques drawn on the account of the union for a specified period not exceeding 3 months, except with the written authorisation of the Registrar.
 
 [3/77]
 
-(2) Where an investigation is being conducted by a public authority regarding the improper use or misapplication of the funds of a trade union, the Minister may by notice in writing direct any bank not to pay any money out of or honour any cheques drawn on the account of the union for a specified period not exceeding 3 months, except with the written authorisation of the Registrar.
+(2) Where an investigation is being conducted by a public authority regarding the improper use or misapplication of the funds of a trade union, the Minister may by notice in writing direct any financial institution not to pay or cause to be paid any money out of or honour any cheques drawn on the account of the union for a specified period not exceeding 3 months, except with the written authorisation of the Registrar.
 
-(3) A bank which complies with a notice of the Minister under subsection (1) or (2) shall be relieved of any liability to any other person in respect of the payment prohibited by such a notice.
+(3) A financial institution which complies with a notice of the Minister under subsection (1) or (2) shall be relieved of any liability to any other person in respect of the payment prohibited by such a notice.
 
-(4) Any bank which fails to comply with a notice of the Minister under subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $3,000 or to imprisonment for a term not exceeding 3 years or to both.
+(4) Any financial institution which fails to comply with a notice of the Minister under subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $3,000 or to imprisonment for a term not exceeding 3 years or to both.
 
-(5) Where an offence under subsection (4) is proved to have been committed with the consent and connivance of, or to be attributable to any neglect on the part of, any director, secretary, manager, accountant, sub-accountant or other similar officer of a bank, or a person who was purporting to act in such capacity, he as well as the bank shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+(5) Where an offence under subsection (4) is proved to have been committed with the consent and connivance of, or to be attributable to any neglect on the part of, any director, secretary, manager, accountant, sub-accountant or other similar officer of a financial institution, or a person who was purporting to act in such capacity, he as well as the financial institution shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
 
 (6) For the purposes of subsection (2), “public authority” means the Registrar, the Commissioner of Police, the Commissioner of Inland Revenue and the Director of the Corrupt Practices Investigation Bureau.
+
+(7) For the purposes of this section, “financial institution” means a bank, a finance company, or any co-operative society carrying on the business of managing and investing funds.
+
+[11/2000 wef 15/12/2000]
 
 ### Appeal to Minister
 
@@ -426,7 +470,7 @@ may appeal against the refusal or order to the Minister at any time within a per
 
 (b) the Official Assignee in Bankruptcy shall proceed to wind up the affairs of the trade union and after satisfying and providing for all debts and liabilities of the trade union and the costs of winding up shall pay the surplus assets, if any, of the trade union —
 
-(i) where the Minister so directs, into the Workers’ Fund established under the Workmen’s Compensation Act [Cap. 354]; or
+(i) where the Minister so directs, into the Workers’ Fund established under the Workmen’s Compensation Act; or
 
 (ii) in the absence of a direction from the Minister, in accordance with the rules of the trade union.
 
@@ -484,7 +528,7 @@ Provided that a trade union shall not be so liable on any contract which is void
 
 (4) Execution for any money recovered from a trade union in civil proceedings may issue against any property belonging to or held in trust for the trade union other than the benevolent fund of a registered trade union.
 
-(5) Any fine ordered to be paid by a trade union may be recovered by distress and sale of any movable property belonging to or held in trust for the trade union in accordance with the provisions of the Criminal Procedure Code [Cap. 68].
+(5) Any fine ordered to be paid by a trade union may be recovered by distress and sale of any movable property belonging to or held in trust for the trade union in accordance with the provisions of the Criminal Procedure Code.
 
 (6) In any civil or criminal proceedings in which a registered trade union is a party such trade union may appear in such proceedings by any one of its officers or by an advocate and solicitor.
 
@@ -496,7 +540,7 @@ Provided that a trade union shall not be so liable on any contract which is void
 
 [3/77]
 
-(2) Any registered trade union which, and every member of its executive who, contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
+(2) Any registered trade union which, and every member of its executive who, contravenes subsection (1)shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $3,000.
 
 (3) The members of a trade union who commence, promote, organise, participate or otherwise act in furtherance of any strike or any form of industrial action —
 
@@ -504,7 +548,7 @@ Provided that a trade union shall not be so liable on any contract which is void
 
 (b) taken in contravention of the rules or by-laws of the trade union,
 
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
 
 (4) Any person who instigates or incites others to take part in or otherwise acts in furtherance of a strike or any form of industrial action —
 
@@ -512,11 +556,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (b) taken in contravention of the rules or by-laws of the trade union to which the majority of the persons taking part in the strike or industrial action belongs,
 
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $3,000.
 
-(5) For the purposes of investigating an offence under this section, the Registrar may by notice in writing require any person who he believes could assist him in his investigations to appear before him at such place and time as stated in the notice and any person who fails or neglects without reasonable excuse to comply with any such notice shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
+(5) For the purposes of investigating an offence under this section, the Registrar may by notice in writing require any person who he believes could assist him in his investigations to appear before him at such place and time as stated in the notice and any person who fails or neglects without reasonable excuse to comply with any such notice shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
 
-(6) Every person who has been required to appear before the Registrar under subsection (5) shall state truly the facts and circumstances of any strike or industrial action which he is acquainted with; and if such person fails to do so, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
+(6) Every person who has been required to appear before the Registrar under subsection (5) shall state truly the facts and circumstances of any strike or industrial action which he is acquainted with; and if such person fails to do so, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
 
 (7) In any proceedings for an offence under this section, the onus of proving that the requirements specified in subsection (1), (2), (3) or (4) have been complied with shall be on the registered trade union, the member of its executive or a member of the trade union or any accused person, as the case may be.
 
@@ -534,7 +578,7 @@ CONSTITUTION
 
 [3/77]
 
-[4/1992 wef 01/04/1992]
+[Act 4/92 wef 01/04/1992]
 
 (2) A member of a registered trade union who is under the age of 21 years, but above the age of 18 years, shall not be a member of the executive or a trustee of the trade union unless he has obtained the written approval of the Minister therefor.
 
@@ -556,7 +600,7 @@ Provided that the President may, by notification in theGazette, exempt from this
 
 ### Officers of trade union
 
-30\.—(1) A person shall not act as an officer of a trade union or any branch thereof, and shall be disqualified for election as such officer if he has been convicted by any court of criminal breach of trust, extortion or criminal intimidation, or of any offence which, in the opinion of the Minister, renders him unfit to be an officer of a trade union.
+30\.—(1) A person shall not act as an officer of a trade union or any branch thereof, and shall be disqualified for election as such officer if he is an undischarged bankrupt or has been convicted by any court of criminal breach of trust, extortion or criminal intimidation, or of any offence which, in the opinion of the Minister, renders him unfit to be an officer of a trade union.
 
 [28/82]
 
@@ -594,19 +638,41 @@ Provided that the President may, by notification in theGazette, exempt from this
 
 ### Change of name
 
-33\. Any registered trade union may, with the consent of not less than two-thirds of the total number of its members and subject to section 35, change its name.
+33\. A registered trade union shall not change its name except with the requisite consent of —
 
-[34
+(a) its members; or
+
+(b) where the trade union is a federation, its constituent trade unions.
+
+[11/2000 wef 15/12/2000]
 
 ### Amalgamation
 
-34\. Any two or more registered trade unions may become amalgamated together as one trade union with or without dissolution or division of the funds of those trade unions or either or any of them, provided that the votes of at least one-half of the members of each or every such trade union entitled to vote are recorded, and that at least 60% of the votes recorded are in favour of the proposal.
+34\.—(1) Any 2 or more registered trade unions may become amalgamated as one trade union if each of the trade unions has the requisite consent of —
 
-[35
+(a) its members; or
+
+(b) where the trade union is a federation, its constituent trade unions,
+
+to the amalgamation.
+
+(2) The amalgamation may be undertaken with or without dissolution or division of the funds of the trade unions or either or any of them.
+
+[11/2000 wef 15/12/2000]
 
 ### Notice of change of name or amalgamation
 
-35\.—(1) Notice in writing shall be given to the Registrar of every change of name and of every amalgamation, signed, in the case of a change of name, by the secretary and by 7 members of the registered trade union changing its name, and, in the case of an amalgamation, by the secretary and by 7 members of each and every registered trade union which is a party thereto.
+35\.—(1) Notice in writing shall be given to the Registrar of every change of name and every amalgamation, signed —
+
+(a) in the case of a change of name, by the secretary and 7 members of the registered trade union changing its name; and
+
+(b) in the case of an amalgamation, by the secretary and 7 members of every registered trade union which is a party to the amalgamation.
+
+[11/2000 wef 15/12/2000]
+
+(1A) Where the trade union referred to in subsection (1)(a) or (b) is a federation, the notice shall be signed by the secretary and 7 delegates representing one or more of the constituent trade unions of the federation.
+
+[11/2000 wef 15/12/2000]
 
 (2) If the proposed name is identical with that by which any other existing trade union has been registered or, in the opinion of the Registrar, so nearly resembles that name as to be likely to deceive the public or the members of either trade union, the Registrar shall refuse to register the change of name.
 
@@ -638,7 +704,7 @@ Provided that the President may, by notification in theGazette, exempt from this
 
 (b) operates at any place to which its registered office may have been removed, without having given notice of the change in the situation thereof to the Registrar,
 
-shall be guilty of an offence and shall be liable on conviction by a District Court or Magistrate’s Court to a fine not exceeding $20 for every day during which it is so in operation; and every officer of any such trade union shall be liable to be convicted and fined a like amount in respect of the same offence.
+shall be guilty of an offence and shall be liable on conviction by a District Court or Magistrate’s Court to a fine not exceeding $50 for every day during which it is so in operation; and every officer of any such trade union shall be liable to be convicted and fined a like amount in respect of the same offence.
 
 [38
 
@@ -646,7 +712,7 @@ shall be guilty of an offence and shall be liable on conviction by a District Co
 
 38\.—(1) The rules of every registered trade union shall provide for all matters specified in the Schedule and shall not be so altered or amended as to cease to contain provision in respect of all such matters.
 
-(2) A copy printed in English and in Malay or Tamil or Chinese of the rules for the time being in force of any registered trade union shall be prominently exhibited at the registered office thereof and shall be furnished by the secretary of such trade union to any person on demand on payment of a sum not exceeding $1.
+(2) A copy printed in English and in Malay or Tamil or Chinese of the rules for the time being in force of any registered trade union shall be prominently exhibited at the registered office thereof and shall be furnished by the secretary of such trade union to any person on demand on payment of the prescribed sum.
 
 (3) A copy in English of every new rule and of every alteration made in the rules of a registered trade union shall be sent to the Registrar within 7 days of the making of that rule or alteration and shall, subject to subsection (4), be registered by the Registrar on payment of the prescribed fee.
 
@@ -664,7 +730,7 @@ shall be guilty of an offence and shall be liable on conviction by a District Co
 
 ### Secret ballot
 
-39\.—(1) The rules of a registered trade union relating to the taking of decisions by secret ballot shall ensure that every member thereof has an equal right, and a reasonable opportunity to record his vote freely, that the results of the voting are correctly ascertained and declared, and that the secrecy of the ballot is properly secured.
+39\.—(1) The rules of a registered trade union relating to the taking of decisions by secret ballot shall ensure that every member or delegate (as the case may be) has an equal right, and a reasonable opportunity to record his vote freely, that the results of the voting are correctly ascertained and declared, and that the secrecy of the ballot is properly secured.
 
 (2) For the purpose of satisfying himself that a secret ballot taken by a registered trade union has been properly conducted, the Registrar may order a person to deliver to him any ballot papers, envelopes, lists or other documents which have been used in connection with or are relevant to the secret ballot and which are in the possession or under the control of that person and may take possession of any such ballot papers, envelopes, lists or other documents and may inspect the same and retain them for such period as is necessary for such purpose; but except as aforesaid or as may be provided in the rules of the trade union, no person shall be allowed to inspect or copy any such paper or document relating to a secret ballot.
 
@@ -700,6 +766,24 @@ shall be guilty of an offence and shall be liable on conviction by a District Co
 
 43\.—(1) The rules of a registered trade union shall provide for the appointment or election of trustees and for the filling of vacancies in the office of trustees so that, as far as may be, there shall always be at least 3 trustees of the union.
 
+(1A) No person who is an undischarged bankrupt —
+
+(a) shall be appointed or elected as a trustee of a trade union; or
+
+(b) if so appointed or elected, shall remain as such.
+
+[11/2000 wef 15/12/2000]
+
+(1B) No person who has been convicted of an offence involving fraud or dishonesty or any other offence which, in the opinion of the Minister, renders him unfit to be a trustee of a trade union —
+
+(a) shall be appointed or elected as a trustee of a trade union; or
+
+(b) if so appointed or elected, shall remain as such,
+
+except with the approval of the Minister.
+
+[11/2000 wef 15/12/2000]
+
 (2) No person who is holding the office of president, chairman, treasurer, secretary or other similar office in a trade union or who is not a citizen of Singapore shall be appointed or elected as a trustee of the trade union without the prior written approval of the Minister.
 
 (3) When a person is appointed or elected as a trustee or ceases to be a trustee of a registered trade union or branch of a registered trade union, notice thereof shall be sent to the Registrar within 7 days thereafter by the trade union in such form as the Registrar may require.
@@ -728,11 +812,19 @@ PROPERTY
 
 ### Purchase or lease of land or buildings
 
-46\. Subject to any provision in its rules, it shall be lawful for a registered trade union to purchase or to take upon lease for the purposes of the union and in the names of its trustees any land not exceeding 4,047 square metres in extent (unless the Minister in any particular case approves the purchase or taking upon lease of land that exceeds 4,047 square metres in extent) or any buildings and, subject to any written or other law which may be applicable, to sell, exchange, charge or lease any such land or building which may be so purchased.
+46\.—(1) Subject to subsection (2) and to any provision in its rules, a registered trade union may —
 
-[47
+(a) purchase or take a lease of, for the purposes of the trade union and in the names of its trustees, any land or building; and
 
-[1/73]
+(b) subject to any written or other law which may be applicable, sell, exchange, charge or lease any land or building purchased or leased by it.
+
+(2) A registered trade union shall not purchase or take a lease of any land, or building, situated outside Singapore without having first obtained the requisite consent of —
+
+(a) its members; or
+
+(b) where the trade union is a federation, its constituent trade unions.
+
+[11/2000 wef 15/12/2000]
 
 ## PART VII
 
@@ -756,11 +848,19 @@ FUNDS AND ACCOUNTS
 
 (g) any other object which by notification in theGazettethe Minister may declare to be an object for which such funds may be expended.
 
-(2) Any moneys received for a specific purpose by a trade union from its members, which the members are liable to pay in accordance with its rules, shall not be used or applied for any other purpose without the consent, by secret ballot, of the majority of its members and every such consent shall be notified to the Registrar by the secretary within 7 days thereof.
+(2) Any moneys received for a specific purpose by a trade union from its members, which the members are liable to pay in accordance with its rules, shall not be used or applied for any other purpose without the requisite consent of members of the trade union.
 
 [48
 
 [28/82]
+
+(3) Any moneys received for a specific purpose by a federation from its constituent trade unions, which the constituent trade unions are liable to pay to the federation in accordance with the rules of the federation, shall not be used or applied for any other purpose without the requisite consent of the constituent trade unions.
+
+[11/2000 wef 15/12/2000]
+
+(4) Within 7 days from the date the requisite consent referred to in subsection (2) or (3) is obtained, the secretary of the trade union concerned shall notify the Registrar of the consent and provide to the Registrar such information in respect of the consent as the Registrar may require.
+
+[11/2000 wef 15/12/2000]
 
 ### Prohibition of payment of fines or penalties
 
@@ -780,27 +880,27 @@ FUNDS AND ACCOUNTS
 
 (ii) interest-earning deposits in banks or finance companies;
 
-(iii) shares of co-operative societies established by any registered trade union; or
+(iii) shares of cooperative societies established by any registered trade union; or
 
 (iv) such undertaking, enterprise or scheme, the promoter or proprietor of which is the Singapore Labour Foundation or a company formed by or related to the Singapore Labour Foundation, as the Minister may approve for the purposes of this paragraph.
 
 [28/82]
 
-[4/1992 wef 01/04/1992]
+[Act 4/92 wef 01/04/1992 vide S 156/92]
 
 (2) Subsection (1)(b)(i) to (iii) shall not render unlawful the investment of the funds of a registered trade union which was lawfully made before 2nd April 1983.
 
 [28/82]
 
-[4/1992 wef 01/04/1992]
+[Act 4/92 wef 01/04/1992 vide S 156/92]
 
 (3) In this section —
 
-(a) “Singapore Labour Foundation” means the Singapore Labour Foundation established under section 3 of the Singapore Labour Foundation Act (Cap. 302); and
+(a) “Singapore Labour Foundation” means the Singapore Labour Foundation established under section 3 of the Singapore Labour Foundation Act [Cap. 302]; and
 
-(b) a company shall be deemed related to the Singapore Labour Foundation if it is related thereto within the meaning of section 6 of the Companies Act (Cap. 50).
+(b) a company shall be deemed related to the Singapore Labour Foundation if it is related thereto within the meaning of section 6 of the Companies Act [Cap. 50].
 
-[4/1992 wef 01/04/1992]
+[Act 4/92 wef 01/04/1992 vide S 156/92]
 
 ### Injunction to restrain misuse of funds
 
@@ -868,13 +968,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (2) Together with the general statement referred to in subsection (1), the secretary of each registered trade union shall furnish to the Registrar a copy of all alterations or amendments of rules, and of all new rules, and a list of all changes of officers, made by the union during the period of 12 months preceding that date, and a copy of the rules of the trade union in force on that date.
 
-(3) In the case of a registered trade union which was established before the commencement of this Act, it shall be lawful for the Registrar, on application made to him in that behalf, by writing under his hand to substitute the day on which the financial year of that trade union ends for 31st March mentioned in subsections (1) and (2) and, if necessary, some other date for the date prescribed for the purposes of subsection (1); and all the provisions of this section shall thereupon apply accordingly in the case of that registered trade union as though the date and the day so substituted were respectively the date referred to in subsection (1) and the day referred to in subsections (1) and (2).
+(3) The Registrar may, on application made to him in that behalf, by writing under his hand to substitute the day on which the financial year of that trade union ends for 31st March mentioned in subsections (1) and (2) and, if necessary, some other date for the date prescribed for the purposes of subsection (1); and all the provisions of this section shall thereupon apply accordingly in the case of that registered trade union as though the date and the day so substituted were respectively the date referred to in subsection (1) and the day referred to in subsections (1) and (2).
 
 (4) Every member of a registered trade union shall be entitled to receive free of charge a copy of the general statement referred to in subsection (1) and the secretary of each registered trade union shall deliver a copy of that statement to every member of his union who makes application to him therefor.
 
-(5) Any secretary of a registered trade union who fails to comply with any of the requirements of this section shall be guilty of an offence and shall be liable on conviction before a District Court or Magistrate’s Court to a fine not exceeding $200.
+(5) Any secretary of a registered trade union who fails to comply with any of the requirements of this section shall be guilty of an offence and shall be liable on conviction before a District Court or Magistrate’s Court to a fine not exceeding $2,000.
 
-(6) Every person who wilfully makes or orders or causes or procures to be made any false entry in or omission from any general statement, copy or list delivered to the Registrar under subsections (1) and (2) shall be guilty of an offence and shall be liable on conviction before a District Court or Magistrate’s Court to a fine not exceeding $200 or to imprisonment for a term not exceeding 3 months or to both.
+(6) Every person who wilfully makes or orders or causes or procures to be made any false entry in or omission from any general statement, copy or list delivered to the Registrar under subsections (1) and (2) shall be guilty of an offence and shall be liable on conviction before a District Court or Magistrate’s Court to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both.
 
 ### Inspection of accounts and documents
 
@@ -898,7 +998,13 @@ REGULATIONS
 
 (d) the manner in which, and the qualifications of persons by whom, the accounts of registered trade unions or of any class of such unions shall be audited;
 
-(e) the conditions subject to which inspection of documents kept by the Registrar shall be allowed and the fees which shall be chargeable in respect of that inspection;
+(e) the conditions subject to which the register or any document kept by the Registrar may be inspected and an extract from or copy of an entry in the register or the document may be given, and the fees chargeable for the inspection, extract or copy;
+
+[11/2000 wef 15/12/2000]
+
+(ea) the manner and method of filing applications, forms, notices, requests or returns under the Act or the regulations with the Registrar;
+
+[11/2000 wef 15/12/2000]
 
 (f) the due disposal and safe custody of the funds and moneys of a trade union;
 
@@ -924,7 +1030,7 @@ OFFENCES AND PENALTIES
 
 (2) A complaint made under subsection (1) shall not be entertained unless the court is satisfied that the complainant is, on the date of that complaint, a member of the registered trade union in respect of the property of which the complaint is so made.
 
-(3) Any person bound by an order made under subsection (1) who fails to comply with the terms thereof and the directions given therein within a time to be specified in that order shall be guilty of an offence and shall be liable on conviction by a District Court or Magistrate’s Court to a fine not exceeding $1,000.
+(3) Any person bound by an order made under subsection (1) who fails to comply with the terms thereof and the directions given therein within a time to be specified in that order shall be guilty of an offence and shall be liable on conviction by a District Court or Magistrate’s Court to a fine not exceeding $2,000.
 
 (4) An order made under subsection (1) shall not affect or prevent a prosecution of, or civil proceedings against, any such officer or member.
 
@@ -932,23 +1038,31 @@ OFFENCES AND PENALTIES
 
 ### Supplying false information regarding trade unions
 
-57\. Any person who, with intent to deceive, gives to any member of a registered trade union or to any person intending or applying to become a member of that trade union any document purporting to be a copy of the rules of the trade union or of any alterations thereto which he knows, or has reason to believe, is not a correct copy of such rules or alterations as are for the time being in force, or any person who, with the like intent, gives a copy of any rules of an unregistered trade union to any person on the pretence that those rules are the rules of a registered trade union, shall be guilty of an offence and shall be liable on conviction by a District Court or Magistrate’s Court to a fine not exceeding $200 or to imprisonment for a term not exceeding 3 months or to both.
+57\. Any person who, with intent to deceive, gives to any member of a registered trade union or to any person intending or applying to become a member of that trade union any document purporting to be a copy of the rules of the trade union or of any alterations thereto which he knows, or has reason to believe, is not a correct copy of such rules or alterations as are for the time being in force, or any person who, with the like intent, gives a copy of any rules of an unregistered trade union to any person on the pretence that those rules are the rules of a registered trade union, shall be guilty of an offence and shall be liable on conviction by a District Court or Magistrate’s Court to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both.
 
 [58
 
 ### Failure to submit returns
 
-58\. If default is made on the part of any registered trade union in doing any act, in giving any notice, or in sending any statement, return or other document as required by this Act or by the regulations made thereunder, every officer or other person bound by the rules of the trade union or under the provisions of this Act or the regulations made thereunder to do such act, or to give such notice, or to send such statement, return or document, or, if there is no such officer or person, every member of the executive of that registered trade union shall severally be guilty of an offence and shall be liable on conviction by a District Court or Magistrate’s Court to a fine not exceeding $1,000.
+58\. If default is made on the part of any registered trade union in doing any act, in giving any notice, or in sending any statement, return or other document as required by this Act or by the regulations made thereunder, every officer or other person bound by the rules of the trade union or under the provisions of this Act or the regulations made thereunder to do such act, or to give such notice, or to send such statement, return or document, or, if there is no such officer or person, every member of the executive of that registered trade union shall severally be guilty of an offence and shall be liable on conviction by a District Court or Magistrate’s Court to a fine not exceeding $2,000.
 
 [59
 
 ### General penalty
 
-59\.—(1) Every person who, and every trade union which, contravenes any provision of this Act or any regulations made thereunder shall be guilty of an offence and shall be liable on conviction by a District Court or Magistrate’s Court to a fine not exceeding $1,000 unless some other punishment is provided for that offence by this Act.
+59\.—(1) Every person who, and every trade union which, contravenes any provision of this Act or any regulations made thereunder shall be guilty of an offence and shall be liable on conviction by a District Court or Magistrate’s Court to a fine not exceeding $2,000 unless some other punishment is provided for that offence by this Act.
 
 (2) Upon conviction of an unregistered trade union under subsection (1), every person proved to have been a member of the executive of that trade union at any time after the commencement of this Act shall be deemed severally to be guilty of the offence for which the trade union was so convicted and the District Court or Magistrate’s Court shall, after necessary inquiry, declare in its finding and order the name of each person to be deemed to be guilty and shall pass sentence upon him according to law.
 
 [60
+
+### Composition of offences
+
+59A\.—(1) The Minister may by regulations prescribe any offence under this Act or any regulations made thereunder as an offence which may be compounded.
+
+(2) The Registrar may, in his discretion, compound any offence so prescribed by collecting from the person or trade union reasonably suspected of having committed the offence a sum not exceeding $200.
+
+[11/2000 wef 15/12/2000]
 
 ### Limitation of prosecutions
 
@@ -1000,7 +1114,7 @@ MISCELLANEOUS
 
 Sections 38(1) and 39(4).
 
-Matters for which provision must be made in the rules of every registered trade union
+Matters for Which Provision Must be Made in the Rules of Every Registered Trade Union
 
 1\. The name of the trade union and the place of meeting for the business of the trade union.
 
@@ -1024,7 +1138,7 @@ Trade Unions Act
 
 (CHAPTER 333)
 
-This Legislative History is provided for the convenience of users of the Trade Unions Act. It is not part of the Act.
+This Legislative History is provided for the convenience of users of the Trade Unions Act. It is not part of this Act.
 
 ||||
 |:-|:-|:-|
@@ -1114,3 +1228,8 @@ This Legislative History is provided for the convenience of users of the Trade U
 |||(Bill No. 5/92 published on 14 January 1992)|
 ||Date of Second and Third Readings|27 February 1992|
 ||Date of commencement|1 April 1992|
+|21.|**Act 11 of 2000—Trade Unions (Amendment) Act 2000**|
+||Date of First Reading|17 January 2000|
+|||(Bill No. 6/2000 published on 18 January 2000)|
+||Date of Second and Third Readings|22 February 2000|
+||Date of commencement|15 December 2000|
