@@ -32,6 +32,8 @@
 
 - [10A Vehicles not to be registeredwithout permits issued by Registrar](#Vehicles-not-to-be-registeredwithout-permits-issued-by-Registrar)
 
+- [10B Heavy vehicle not to be registered without valid vehicle parking certificate](#Heavy-vehicle-not-to-be-registered-without-valid-vehicle-parking-certificate)
+
 - [11 Charge of tax on vehicles](#Charge-of-tax-on-vehicles)
 
 - [11A Restricted licences and supplementary licences](#Restricted-licences-and-supplementary-licences)
@@ -408,7 +410,9 @@ An Act for the regulation of road traffic and the use of vehicles and the user o
 
 “paid driver” means a person who drives a motor vehicle in return for a salary or other remuneration;
 
-“park” means to bring a motor vehicle to a stationary position and cause it to wait for any purpose other than that of immediately taking up or setting down persons, goods or luggage;
+“park” means to bring a motor vehicle or a trailer to a stationary position and cause it to wait for any purpose other than that of immediately taking up or setting down persons, goods or luggage;
+
+[Act 33 of 1993 wef 01/07/1994]
 
 “parking place” has the same meaning as in the Parking Places Act [Cap. 214];
 
@@ -602,7 +606,9 @@ and different rules may be made in respect of different classes or descriptions 
 
 ### Vehicles not to be registeredwithout permits issued by Registrar
 
-10A\.—(1) No vehicle shall be registered or continue to be registered under this Act unless there is in force a permit issued by the Registrar authorising the registration of the vehicle.
+10A\.—(1) No vehicle shall be registered or, except as otherwise provided by this Act or the rules, continue to be registered under this Act unless there is in force a permit issued by the Registrar authorising the registration of the vehicle.
+
+[Act 33 of 1993 wef 01/07/1994]
 
 (2) Except as otherwise provided by this Act or the rules, a permit shall be issued upon the payment of a levy.
 
@@ -630,11 +636,23 @@ and different rules may be made in respect of different classes or descriptions 
 
 (h) provide for the issue of permits, whether with or without the payment of a levy, for vehicles which were registered under this Act prior to the commencement of the Road Traffic (Amendment) Act 1990;
 
+(ha) provide for the renewal of a permit before or after its expiration and the levy and any other fee to be paid therefor;
+
+[Act 33 of 1993 wef 01/07/1994]
+
 (i) exempt any particular vehicle or class of vehicles from the payment of the levy for a permit issued under this section; and
 
 (j) provide for all matters which are required or permitted to be prescribed or which are necessary or convenient to be prescribed for carrying out or giving effect to this section.
 
 [Act 7 of 1990 wef 02/04/1990]
+
+### Heavy vehicle not to be registered without valid vehicle parking certificate
+
+10B\.—(1) No heavy vehicle shall be registered under this Act unless the person applying for the registration of the heavy vehicle satisfies the Registrar that he has been issued by the relevant authority under the Parking Places Act (Cap. 214) with a vehicle parking certificate or such other document in respect of the parking of the heavy vehicle for the period for which the heavy vehicle is to be licensed.
+
+(2) For the purpose of this section and sections 19(3)(e) and 34(r), “heavy vehicle” has the same meaning as in the Parking Places Act.
+
+[Act 33 of 1993 wef 01/07/1994]
 
 ### Charge of tax on vehicles
 
@@ -764,7 +782,9 @@ and shall, unless the Registrar otherwise determines, first have effect on the f
 
 (a) for any period for which tax under this Act in respect of the vehicle has been paid and has not been repaid in consequence of the surrender of a licence;
 
-(b) for any calendar month in respect of which he has, in accordance with the rules, given notice to the Registrar that the vehicle will not be used or kept on a public road during that month; and
+(b) for any calendar month in respect of which he has, in accordance with the rules, given notice to the Registrar that the vehicle will not be used or kept on a public road during that month or part thereof; and
+
+[Act 33 of 1993 wef 01/07/1994]
 
 (c) for any period by reference to which there was calculated an amount ordered to be paid by him as a fine in pursuance of section 15(b).
 
@@ -796,9 +816,17 @@ and shall, unless the Registrar otherwise determines, first have effect on the f
 
 (i) for the period of the licence there will be in force the policy of insurance or the security required by law in relation to the use of the motor vehicle by the applicant or by other persons on his order or with his permission; or
 
-(ii) the motor vehicle is a vehicle to which section 3 of the Motor Vehicles (Third-Party Risks and Compensation) Act [Cap. 189] does not apply at any time when it is being driven by the owner thereof or by an employee of his in the course of his employment or is otherwise subject to the control of the owner; and
+(ii) the motor vehicle is a vehicle to which section 3 of the Motor Vehicles (Third-Party Risks and Compensation) Act [Cap. 189] does not apply at any time when it is being driven by the owner thereof or by an employee of his in the course of his employment or is otherwise subject to the control of the owner;
 
-(d) in the case of a motor vehicle to which section 91 applies, that a test certificate in respect of the vehicle has been issued at any time within 3 months prior to the issue of the vehicle licence or within such other period as the Registrar may approve.
+[Act 33 of 1993 wef 01/07/1994]
+
+(d) in the case of a motor vehicle to which section 91 applies, that a test certificate in respect of the vehicle has been issued at any time within 3 months prior to the issue of the vehicle licence or within such other period as the Registrar may approve; and
+
+[Act 33 of 1993 wef 01/07/1994]
+
+(e) in the case of a heavy vehicle, that for the period of the licence there will be in force a vehicle parking certificate or such other document issued by the relevant authority under the Parking Places Act (Cap. 214) in respect of the parking of the heavy vehicle.
+
+[Act 33 of 1993 wef 01/07/1994]
 
 (4) Subject to the rules, and without prejudice to section 25, any person who uses or keeps on a road any vehicle on which tax under this Act is chargeable without there being fixed to and exhibited on that vehicle in the prescribed manner a licence for, or in respect of the use of, that vehicle issued under this Act and for the time being in force shall be guilty of an offence.
 
@@ -818,11 +846,15 @@ and shall, unless the Registrar otherwise determines, first have effect on the f
 
 ### Surrender of licences
 
-22\. The holder of a licence may at any time surrender the licence to the Registrar in the prescribed manner and shall on so surrendering the licence be entitled, if he satisfies the prescribed requirements, to receive from the Registrar, by way of rebate of tax paid upon the surrendered licence, a sum equal to the amount of tax which had been charged for the remaining number of calendar months for which the licence would have been in force.
+22\. The holder of a licence may at any time surrender the licence to the Registrar in the prescribed manner and shall on so surrendering the licence be entitled, if he satisfies the prescribed requirements, to receive from the Registrar, by way of rebate of tax paid upon the surrendered licence, a sum equal to the amount of tax which had been charged for the remaining number of calendar months or part thereof for which the licence would have been in force.
+
+[Act 33 of 1993 wef 01/07/1994]
 
 ### Vehicle destroyed, exported, etc.
 
-23\. The holder of a licence may at any time notify the Registrar that his vehicle has been destroyed or exported or will cease to be kept or used on any road and the Registrar on being satisfied in such manner as he requires that the vehicle has been destroyed or exported or will cease to be kept or used on any road, shall refund to the holder of the licence a sum equal to the amount which has been charged for the number of calendar months for which the licence would have continued to be in force.
+23\. The holder of a licence may at any time notify the Registrar that his vehicle has been destroyed or exported or will cease to be kept or used on any road and the Registrar on being satisfied in such manner as he requires that the vehicle has been destroyed or exported or will cease to be kept or used on any road, shall refund to the holder of the licence a sum equal to the amount which has been charged for the number of calendar months or part thereof for which the licence would have continued to be in force.
+
+[Act 33 of 1993 wef 01/07/1994]
 
 ### Alteration of vehicle or of its use
 
@@ -856,7 +888,9 @@ Provided that a person charged under this section with having an obscured mark o
 
 27\.—(1) The Registrar may cancel the registration of a motor vehicle —
 
-(a) if a permit issued under section 10A authorising the registration of the vehicle under this Act has expired or is cancelled;
+(a) if the permit issued under section 10A authorising the registration of the vehicle under this Act has been cancelled or has expired and has not been restored or renewed within the time prescribed therefor by this Act or any rules;
+
+[Act 33 of 1993 wef 01/07/1994]
 
 (b) if no licence has been taken out for the vehicle for a period exceeding 3 years by the registered owner who has notified the Registrar that he will not use the vehicle during that period;
 
@@ -866,9 +900,15 @@ Provided that a person charged under this section with having an obscured mark o
 
 (e) if the vehicle exceeds the age-limit prescribed for the class or description of vehicles to which the vehicle belongs.
 
-(2) Where the registration of a motor vehicle is cancelled pursuant to subsection (1), the registered owner of the vehicle or any person who is in possession of the registration book or card issued in respect of the vehicle shall surrender that book or card to the Registrar within 14 days of the cancellation.
+(2) Where the registration of a motor vehicle is cancelled pursuant to subsection (1) —
+
+(a) the registered owner of the vehicle or any person who is in possession of the registration book or card issued in respect of the vehicle shall surrender that book or card to the Registrar within 14 days of the cancellation; and
+
+(b) the registered owner or the person in possession of the vehicle shall produce proof to the satisfaction of the Registrar that the vehicle has been exported or scrapped within one month of the date of the cancellation.
 
 [Act 7 of 1990 wef 02/04/1990]
+
+[Act 33 of 1993 wef 01/07/1994]
 
 ### General licences
 
@@ -970,13 +1010,21 @@ Provided that a person charged under this section with having an obscured mark o
 
 [Act 7 of 1990 wef 02/04/1990]
 
-(p) to prohibit the registration under this Act of used vehicles beyond a prescribed age-limit; and
+(p) to prohibit the registration under this Act of used vehicles beyond a prescribed age-limit;
 
 [Act 7 of 1990 wef 02/04/1990]
 
-(q) to prescribe a levy for the re-registration of a used vehicle in the name of the purchaser of the vehicle.
+[Act 33 of 1993 wef 01/07/1994]
+
+(q) to prescribe a levy for the re-registration of a used vehicle in the name of the purchaser of the vehicle; and
 
 [Act 7 of 1990 wef 02/04/1990]
+
+[Act 33 of 1993 wef 01/07/1994]
+
+(r) to regulate the registration and licensing of heavy vehicles.
+
+[Act 33 of 1993 wef 01/07/1994]
 
 ## PART II
 
@@ -2483,9 +2531,11 @@ he shall, unless he establishes to the satisfaction of the court that he acted w
 
 shall be liable on conviction, where no special penalty is provided in the case of the first offence, to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 3 months and in the case of a second or subsequent offence to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months.
 
-(2) If any person committing an offence under this Act or the rules is a company, the managing director or other manager in Singapore of the company who is privy to the offence shall also be liable to the like punishment.
+(2) If any person committing an offence under this Act or the rules is a company, the managing director, director, agent or other manager in Singapore of the company who is privy to the offence shall also be liable to the like punishment.
 
 [Act 7 of 1990 wef 02/04/1990]
+
+[Act 33 of 1993 wef 01/07/1994]
 
 (3) Every summons issued for an offence, and every notice or other document required or authorised to be given or served, under this Act or any rules or orders made thereunder may be served on any person —
 
@@ -2817,3 +2867,8 @@ This Legislative History is provided for the convenience of users of the Road Tr
 |||(Bill No. 37/92 published on 17 November 1992)|
 ||Date of Second and Third Readings|18 January 1993|
 ||Date of commencement|15 April 1993|
+|31.|**Act 33 of 1993—Road Traffic (Amendment No. 2) Act 1993**|
+||Date of First Reading|30 August 1993|
+|||(Bill No. 29/93 published on 31 August 1993)|
+||Date of Second and Third Readings|12 October 1993|
+||Date of commencement|1 July 1994|
