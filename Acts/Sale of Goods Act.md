@@ -12,17 +12,17 @@
 
 [**Part II FORMATION OF THE CONTRACT**](#Part-II)
 
-[**Contract of sale**](#Contract-of-sale)
+[**Contract of Sale**](#Contract-of-Sale)
 
 - [2 Contract of sale](#Contract-of-sale)
 
 - [3 Capacity to buy and sell](#Capacity-to-buy-and-sell)
 
-[**Formalities of contract**](#Formalities-of-contract)
+[**Formalities of Contract**](#Formalities-of-Contract)
 
 - [4 How contract of sale is made](#How-contract-of-sale-is-made)
 
-[**Subject matter of contract**](#Subject-matter-of-contract)
+[**Subject Matter of Contract**](#Subject-Matter-of-Contract)
 
 - [5 Existing or future goods](#Existing-or-future-goods)
 
@@ -30,13 +30,13 @@
 
 - [7 Goods perishing before sale but after agreement to sell](#Goods-perishing-before-sale-but-after-agreement-to-sell)
 
-[**The price**](#The-price)
+[**The Price**](#The-Price)
 
 - [8 Ascertainment of price](#Ascertainment-of-price)
 
 - [9 Agreement to sell at valuation](#Agreement-to-sell-at-valuation)
 
-[**Conditions and warranties**](#Conditions-and-warranties)
+[**Conditions and Warranties**](#Conditions-and-Warranties)
 
 - [10 Stipulations about time](#Stipulations-about-time)
 
@@ -48,7 +48,7 @@
 
 - [14 Implied terms about quality or fitness](#Implied-terms-about-quality-or-fitness)
 
-[**Sale by sample**](#Sale-by-sample)
+[**Sale by Sample**](#Sale-by-Sample)
 
 - [15 Sale by sample](#Sale-by-sample)
 
@@ -58,7 +58,7 @@
 
 [**Part III EFFECTS OF THE CONTRACT**](#Part-III)
 
-[**Transfer of property as between seller and buyer**](#Transfer-of-property-as-between-seller-and-buyer)
+[**Transfer of Property as between Seller and Buyer**](#Transfer-of-Property-as-between-Seller-and-Buyer)
 
 - [16 Goods must be ascertained](#Goods-must-be-ascertained)
 
@@ -74,11 +74,11 @@
 
 - [20B Deemed consent by co-owner to dealings in bulk goods](#Deemed-consent-by-co-owner-to-dealings-in-bulk-goods)
 
-[**Transfer of title**](#Transfer-of-title)
+[**Transfer of Title**](#Transfer-of-Title)
 
 - [21 Sale by person not the owner](#Sale-by-person-not-the-owner)
 
-- [22 (No Operation)](#No-Operation)
+- [22](#)
 
 - [23 Sale under voidable title](#Sale-under-voidable-title)
 
@@ -122,9 +122,9 @@
 
 - [39 Unpaid seller’s rights](#Unpaid-seller’s-rights)
 
-- [40 (No Operation)](#No-Operation)
+- [40](#)
 
-[**Unpaid seller’s lien**](#Unpaid-seller’s-lien)
+[**Unpaid Seller’s Lien**](#Unpaid-Seller’s-Lien)
 
 - [41 Seller’s lien](#Seller’s-lien)
 
@@ -132,7 +132,7 @@
 
 - [43 Termination of lien](#Termination-of-lien)
 
-[**Stoppage in transit**](#Stoppage-in-transit)
+[**Stoppage in Transit**](#Stoppage-in-Transit)
 
 - [44 Right of stoppage in transit](#Right-of-stoppage-in-transit)
 
@@ -140,23 +140,23 @@
 
 - [46 How stoppage in transit is effected](#How-stoppage-in-transit-is-effected)
 
-[**Re-sale, etc., by buyer**](#Re-sale-etc-by-buyer)
+[**Re-sale, etc., by Buyer**](#Re-sale-etc-by-Buyer)
 
-- [47 Effect of sub-sale, etc. by buyer](#Effect-of-sub-sale-etc-by-buyer)
+- [47 Effect of sub-sale, etc., by buyer](#Effect-of-sub-sale-etc-by-buyer)
 
-[**Rescission: and re-sale by seller**](#Rescission:-and-re-sale-by-seller)
+[**Recission: and Re-sale by Seller**](#Recission:-and-Re-sale-by-Seller)
 
 - [48 Rescission: and re-sale by seller](#Rescission:-and-re-sale-by-seller)
 
 [**Part VI ACTIONS FOR BREACH OF THE CONTRACT**](#Part-VI)
 
-[**Seller’s remedies**](#Seller’s-remedies)
+[**Seller’s Remedies**](#Seller’s-Remedies)
 
 - [49 Action for price](#Action-for-price)
 
 - [50 Damages for non-acceptance](#Damages-for-non-acceptance)
 
-[**Buyer’s remedies**](#Buyer’s-remedies)
+[**Buyer’s Remedies**](#Buyer’s-Remedies)
 
 - [51 Damages for non-delivery](#Damages-for-non-delivery)
 
@@ -176,7 +176,7 @@
 
 - [57 Auction sales](#Auction-sales)
 
-- [58 (No Operation)](#No-Operation)
+- [58](#)
 
 - [59 Reasonable time a question of fact](#Reasonable-time-a-question-of-fact)
 
@@ -198,9 +198,9 @@
 
 (Original Enactment: U.K. 1979, c. 54)
 
-REVISED EDITION 1994
+REVISED EDITION 1999
 
-(20th May 1994)
+(1st August 1999)
 
 An Act to consolidate the law relating to the sale of goods.
 
@@ -224,7 +224,7 @@ CONTRACTS TO WHICH ACT APPLIES
 
 FORMATION OF THE CONTRACT
 
-Contract of sale
+Contract of Sale
 
 ### Contract of sale
 
@@ -248,7 +248,7 @@ Contract of sale
 
 (3) In subsection (2), “necessaries” means goods suitable to the condition in life of the minor or other person concerned and to his actual requirements at the time of the sale and delivery.
 
-Formalities of contract
+Formalities of Contract
 
 ### How contract of sale is made
 
@@ -256,7 +256,7 @@ Formalities of contract
 
 (2) Nothing in this section affects the law relating to corporations.
 
-Subject matter of contract
+Subject Matter of Contract
 
 ### Existing or future goods
 
@@ -274,7 +274,7 @@ Subject matter of contract
 
 7\. Where there is an agreement to sell specific goods and subsequently the goods, without any fault on the part of the seller or buyer, perish before the risk passes to the buyer, the agreement is avoided.
 
-The price
+The Price
 
 ### Ascertainment of price
 
@@ -290,7 +290,7 @@ The price
 
 (2) Where the third party is prevented from making the valuation by the fault of the seller or buyer, the party not at fault may maintain an action for damages against the party at fault.
 
-Conditions and warranties
+Conditions and Warranties
 
 ### Stipulations about time
 
@@ -308,7 +308,7 @@ Conditions and warranties
 
 (3) Subject to section 35A where a contract of sale is not severable and the buyer has accepted the goods or part of them, the breach of a condition to be fulfilled by the seller can only be treated as a breach of warranty, and not as a ground for rejecting the goods and treating the contract as repudiated, unless there is an express or implied term of the contract to that effect.
 
-[Act 43/96 wef 01/01/1997 vide S 551/96]
+[43/96]
 
 (4) Nothing in this section affects a condition or warranty whose fulfilment is excused by law by reason of impossibility or otherwise.
 
@@ -354,13 +354,13 @@ Conditions and warranties
 
 (2) Where the seller sells goods in the course of a business, there is an implied condition that the goods supplied under the contract are of satisfactory quality.
 
-[Act 43/96 wef 01/01/1997]
+[43/96]
 
 (2A) For the purposes of this Act, goods are of satisfactory quality if they meet the standard that a reasonable person would regard as satisfactory, taking account of any description of the goods, the price (if relevant) and all the other relevant circumstances.
 
-[Act 43/96 wef 01/01/1997]
+[43/96]
 
-(2B) For the purposes of this Act, the quality of goods includes their state and condition and the following (among others) are in appropriate cases aspects of the quality of goods;
+(2B) For the purposes of this Act, the quality of goods includes their state and condition and the following (among others) are in appropriate cases aspects of the quality of goods:
 
 (a) fitness for all the purposes for which goods of the kind in question are commonly supplied;
 
@@ -372,7 +372,7 @@ Conditions and warranties
 
 (e) durability.
 
-[Act 43/96 wef 01/01/1997]
+[43/96]
 
 (2C) The condition implied by subsection (2) does not extend to any matter making the quality of goods unsatisfactory —
 
@@ -382,7 +382,7 @@ Conditions and warranties
 
 (c) in the case of a contract for sale by sample, which would have been apparent on a reasonable examination of the sample.
 
-[Act 43/96 wef 01/01/1997]
+[43/96]
 
 (3) Where the seller sells goods in the course of a business and the buyer, expressly or by implication, makes known —
 
@@ -396,9 +396,11 @@ any particular purpose for which the goods are being bought, there is an implied
 
 (5) The preceding provisions of this section apply to a sale by a person who in the course of a business is acting as agent for another as they apply to a sale by a principal in the course of a business, except where that other is not selling in the course of a business and either the buyer knows that fact or reasonable steps are taken to bring it to the notice of the buyer before the contract is made.
 
+(6) (Deleted by Act 43/96).
+
 (7) Paragraph 5 of the Schedule applies in relation to a contract made on or after 18th May 1973 and before 19th May 1985, and paragraph 6 in relation to one made before 18th May 1973.
 
-Sale by sample
+Sale by Sample
 
 ### Sale by sample
 
@@ -408,13 +410,13 @@ Sale by sample
 
 (a) that the bulk will correspond with the sample in quality;
 
-(b) Deleted by Act 43/96.
+(b) (Deleted by Act 43/96)
 
 (c) that the goods will be free from any defect, making their quality unsatisfactory, which would not be apparent on reasonable examination of the sample.
 
-[Act 43/96 wef 01/01/1997]
+[43/96]
 
-(3) Deleted by Act 43/96.
+(3) (Deleted by Act 43/96)
 
 (4) Paragraph 7 of the Schedule applies in relation to a contract made before 18th May 1973.
 
@@ -430,23 +432,27 @@ Miscellaneous
 
 then, if the buyer does not deal as consumer, the breach is not to be treated as a breach of condition but may be treated as a breach of warranty.
 
+[43/96]
+
 (2) This section applies unless a contrary intention appears in, or is to be implied from, the contract.
+
+[43/96]
 
 (3) It is for the seller to show that a breach fell within subsection (1)(b).
 
-[Act 43/96 wef 01/01/1997]
+[43/96]
 
 ## PART III
 
 EFFECTS OF THE CONTRACT
 
-Transfer of property as between seller and buyer
+Transfer of Property as between Seller and Buyer
 
 ### Goods must be ascertained
 
 16\. Subject to section 20A, where there is a contract for the sale of unascertained goods, no property in the goods is transferred to the buyer unless and until the goods are ascertained.
 
-[Act 43/96 wef 01/01/1997]
+[43/96]
 
 ### Property passes when intended to pass
 
@@ -456,35 +462,43 @@ Transfer of property as between seller and buyer
 
 ### Rules for ascertaining intention
 
-18\.Unless a different intention appears, the following are rules for ascertaining the intention of the parties as to the time at which the property in the goods is to pass to the buyer:
+18\. Unless a different intention appears, the following are rules for ascertaining the intention of the parties as to the time at which the property in the goods is to pass to the buyer:
 
- —Where there is an unconditional contract for the sale of specific goods in a deliverable state, the property in the goods passes to the buyer when the contract is made, and it is immaterial whether the time of payment or the time of delivery, or both, be postponed.
+Rule 1.— Where there is an unconditional contract for the sale of specific goods in a deliverable state, the property in the goods passes to the buyer when the contract is made, and it is immaterial whether the time of payment or the time of delivery, or both, be postponed.
 
- —Where there is a contract for the sale of specific goods and the seller is bound to do something to the goods for the purpose of putting them into a deliverable state, the property does not pass until the thing is done and the buyer has notice that it has been done.
+Rule 2.— Where there is a contract for the sale of specific goods and the seller is bound to do something to the goods for the purpose of putting them into a deliverable state, the property does not pass until the thing is done and the buyer has notice that it has been done.
 
- —Where there is a contract for the sale of specific goods in a deliverable state but the seller is bound to weigh, measure, test, or do some other act or thing with reference to the goods for the purpose of ascertaining the price, the property does not pass until the act or thing is done and the buyer has notice that it has been done.
+Rule 3.— Where there is a contract for the sale of specific goods in a deliverable state but the seller is bound to weigh, measure, test, or do some other act or thing with reference to the goods for the purpose of ascertaining the price, the property does not pass until the act or thing is done and the buyer has notice that it has been done.
 
- —When goods are delivered to the buyer on approval or on sale or return or other similar terms, the property in the goods passes to the buyer —
+Rule 4.— When goods are delivered to the buyer on approval or on sale or return or other similar terms, the property in the goods passes to the buyer —
 
-(a) when he signifies his approval or acceptance to the seller or does any other act adopting the transaction;
+(a)
 
-(b) if he does not signify his approval or acceptance to the seller but retains the goods without giving notice of rejection, then, if a time has been fixed for the return of the goods, on the expiration of that time, and, if no time has been fixed, on the expiration of a reasonable time.
+when he signifies his approval or acceptance to the seller or does any other act adopting the transaction;
 
- —(1) Where there is a contract for the sale of unascertained or future goods by description, and goods of that description and in a deliverable state are unconditionally appropriated to the contract, either by the seller with the assent of the buyer or by the buyer with the assent of the seller, the property in the goods then passes to the buyer; and the assent may be express or implied, and may be given either before or after the appropriation is made.
+(b)
 
- (2) Where, in pursuance of the contract, the seller delivers the goods to the buyer or to a carrier or other bailee or custodier (whether named by the buyer or not) for the purpose of transmission to the buyer, and does not reserve the right of disposal, he is to be taken to have unconditionally appropriated the goods to the contract.
+if he does not signify his approval or acceptance to the seller but retains the goods without giving notice of rejection, then, if a time has been fixed for the return of the goods, on the expiration of that time, and, if no time has been fixed, on the expiration of a reasonable time.
 
- (3) Where there is a contact for the sale of a specified quantity of unascertained goods in a deliverable state forming part of a bulk which is identified either in the contract or by subsequent agreement between the parties and the bulk is reduced to (or to less than) that quantity, then, if the buyer under that contract is the only buyer to whom goods are then due out of the bulk —
+Rule 5.— (1) Where there is a contract for the sale of unascertained or future goods by description, and goods of that description and in a deliverable state are unconditionally appropriated to the contract, either by the seller with the assent of the buyer or by the buyer with the assent of the seller, the property in the goods then passes to the buyer; and the assent may be express or implied, and may be given either before or after the appropriation is made.
 
-(a) the remaining goods are to be taken as appropriated to that contract at the time when the bulk is so reduced; and
+(2) Where, in pursuance of the contract, the seller delivers the goods to the buyer or to a carrier or other bailee or custodier (whether named by the buyer or not) for the purpose of transmission to the buyer, and does not reserve the right of disposal, he is to be taken to have unconditionally appropriated the goods to the contract.
 
-(b) the property in those goods then passes to that buyer.
+(3) Where there is a contract for the sale of a specified quantity of unascertained goods in a deliverable state forming part of a bulk which is identified either in the contract or by subsequent agreement between the parties and the bulk is reduced to (or to less than) that quantity, then, if the buyer under that contract is the only buyer to whom goods are then due out of the bulk —
 
-[Act 43/96 wef 01/01/1997]
+(a)
 
- (4) Paragraph (3) applies also, with the necessary modifications, where a bulk is reduced to (or to less than) the aggregate of the quantities due to a single buyer under separate contracts relating to that bulk and he is the only buyer to whom goods are then due out of that bulk.
+the remaining goods are to be taken as appropriated to that contract at the time when the bulk is so reduced; and
 
-[Act 43/96 wef 01/01/1997]
+(b)
+
+the property in those goods then passes to that buyer.
+
+[43/96]
+
+(4) Paragraph (3) applies also, with the necessary modifications, where a bulk is reduced to (or to less than) the aggregate of the quantities due to a single buyer under separate contracts relating to that bulk and he is the only buyer to whom goods are then due out of that bulk.
+
+[43/96]
 
 ### Reservation of right of disposal
 
@@ -510,21 +524,31 @@ Transfer of property as between seller and buyer
 
 (b) the buyer has paid the price for some or all of the goods which are the subject of the contract and which form part of the bulk.
 
+[43/96]
+
 (2) Where this section applies, then (unless the parties agree otherwise), as soon as the conditions specified in paragraphs (a) and (b) of subsection (1) are met or at such later time as the parties may agree —
 
 (a) property in an undivided share in the bulk is transferred to the buyer; and
 
 (b) the buyer becomes an owner in common of the bulk.
 
+[43/96]
+
 (3) Subject to subsection (4), for the purposes of this section, the undivided share of a buyer in a bulk at any time shall be such share as the quantity of goods paid for and due to the buyer out of the bulk bears to the quantity of goods in the bulk at that time.
+
+[43/96]
 
 (4) Where the aggregate of the undivided shares of buyers in a bulk determined under subsection (3) would at any time exceed the whole of the bulk at that time, the undivided share in the bulk of each buyer shall be reduced proportionately so that the aggregate of the undivided shares is equal to the whole bulk.
 
+[43/96]
+
 (5) Where a buyer has paid the price for only some of the goods due to him out of a bulk, any delivery to the buyer out of the bulk shall, for the purposes of this section, be ascribed in the first place to the goods in respect of which payment has been made.
+
+[43/96]
 
 (6) For the purposes of this section, payment of part of the price for any goods shall be treated as payment for a corresponding part of the goods.
 
-[Act 43/96 wef 01/01/1997]
+[43/96]
 
 ### Deemed consent by co-owner to dealings in bulk goods
 
@@ -534,7 +558,11 @@ Transfer of property as between seller and buyer
 
 (b) any dealing with or removal, delivery or disposal of goods in the bulk by any other person who is an owner in common of the bulk in so far as the goods fall within that co-owner’s undivided share in the bulk at the time of the dealing, removal, delivery or disposal.
 
+[43/96]
+
 (2) No cause of action shall accrue to anyone against a person by reason of that person having acted in accordance with paragraph (a) or (b) of subsection (1) in reliance on any consent deemed to have been given under that subsection.
+
+[43/96]
 
 (3) Nothing in this section or section 20A shall —
 
@@ -544,9 +572,9 @@ Transfer of property as between seller and buyer
 
 (c) affect the rights of any buyer under his contract.
 
-[Act 43/96 wef 01/01/1997]
+[43/96]
 
-Transfer of title
+Transfer of Title
 
 ### Sale by person not the owner
 
@@ -554,11 +582,11 @@ Transfer of title
 
 (2) Nothing in this Act affects —
 
-(a) the provisions of the Factors Act [Cap. 386] or any enactment enabling the apparent owner of goods to dispose of them as if he were their true owner;
+(a) the provisions of the Factors Act (Cap. 386) or any enactment enabling the apparent owner of goods to dispose of them as if he were their true owner;
 
-(b) the validity of any contract of sale under any special common law or statutory power of sale or under the order of a court of competent jurisdiction.
+(b) the validity of any contract of sale under any special common law or statutory power of sale or under the order of a court of competent jurisdiction
 
-22\. [Not Applicable]
+22\. (Not Applicable)
 
 ### Sale under voidable title
 
@@ -574,9 +602,7 @@ Transfer of title
 
 ### Supplementary to sections 24 and 25
 
-26\. In sections 24 and 25,
-
-“mercantile agent” means a mercantile agent having in the customary course of his business as such agent authority either —
+26\. In sections 24 and 25, “mercantile agent” means a mercantile agent having in the customary course of his business as such agent authority either —
 
 (a) to sell goods;
 
@@ -626,13 +652,15 @@ PERFORMANCE OF THE CONTRACT
 
 if the shortfall or, as the case may be, excess is so slight that it would be unreasonable for the buyer to do so.
 
-[Act 43/96 wef 01/01/1997]
+[43/96]
 
 (2B) It is for the seller to show that a shortfall or excess fell within subsection (2A).
 
-[Act 43/96 wef 01/01/1997]
+[43/96]
 
 (3) Where the seller delivers to the buyer a quantity of goods larger than he contracted to sell and the buyer accepts the whole of the goods so delivered, he must pay for them at the contract rate.
+
+(4) (Deleted by Act 43/96)
 
 (5) This section is subject to any usage of trade, special agreement, or course of dealing between the parties.
 
@@ -658,7 +686,7 @@ if the shortfall or, as the case may be, excess is so slight that it would be un
 
 34\. Unless otherwise agreed, when the seller tenders delivery of the goods to the buyer, he is bound on request to afford the buyer a reasonable opportunity of examining the goods for the purpose of ascertaining whether they are in conformity with the contract and, in the case of a contract for sale by sample, of comparing the bulk with the sample.
 
-[Act 43/96 wef 01/01/1997]
+[43/96]
 
 ### Acceptance
 
@@ -668,29 +696,43 @@ if the shortfall or, as the case may be, excess is so slight that it would be un
 
 (b) when the goods have been delivered to him and he does any act in relation to them which is inconsistent with the ownership of the seller.
 
+[43/96]
+
 (2) Where goods are delivered to the buyer and he has not previously examined them, he is not deemed to have accepted them under subsection (1) until he has had a reasonable opportunity of examining them for the purpose —
 
 (a) of ascertaining whether they are in conformity with the contract; and
 
 (b) in the case of a contract for sale by sample, of comparing the bulk with the sample.
 
+[43/96]
+
 (3) Where the buyer deals as consumer, the buyer cannot lose his right to rely on subsection (2) by agreement, waiver or otherwise.
+
+[43/96]
 
 (4) The buyer is also deemed to have accepted the goods when after the lapse of a reasonable time he retains the goods without intimating to the seller that he has rejected them.
 
+[43/96]
+
 (5) The questions that are material in determining for the purposes of subsection (4) whether a reasonable time has elapsed include whether the buyer has had a reasonable opportunity of examining the goods for the purpose mentioned in subsection (2).
+
+[43/96]
 
 (6) The buyer is not by virtue of this section deemed to have accepted the goods merely because —
 
-(a) he asks for, or agrees to, their repair by or under and arrangement with the seller; or
+(a) he asks for, or agrees to, their repair by or under an arrangement with the seller; or
 
 (b) the goods are delivered to another under a sub-sale or other disposition.
 
+[43/96]
+
 (7) Where the contract is for sale of goods making one or more commercial units, a buyer accepting any goods included in a unit is deemed to have accepted all the goods making the unit; and in this subsection, “commercial unit” means a unit division of which would materially impair the value of the goods or the character of the unit.
+
+[43/96]
 
 (8) Paragraph 8 of the Schedule applies in relation to a contract made before 22nd April 1967.
 
-[Act 43/96 wef 01/01/1997]
+[43/96]
 
 ### Right of partial rejection
 
@@ -702,13 +744,19 @@ if the shortfall or, as the case may be, excess is so slight that it would be un
 
 he does not by accepting them lose his right to reject the rest.
 
+[43/96]
+
 (2) In the case of a buyer having the right to reject an instalment of goods, subsection (1) applies as if references to the goods were references to the goods comprised in the instalment.
+
+[43/96]
 
 (3) For the purposes of subsection (1), goods are affected by a breach if by reason of the breach they are not in conformity with the contract.
 
+[43/96]
+
 (4) This section applies unless a contrary intention appears in, or is to be implied from, the contract.
 
-[Act 43/96 wef 01/01/1997]
+[43/96]
 
 ### Buyer not bound to return rejected goods
 
@@ -734,9 +782,7 @@ Preliminary
 
 (b) when a bill of exchange or other negotiable instrument has been received as conditional payment, and the condition on which it was received has not been fulfilled by reason of the dishonour of the instrument or otherwise.
 
-(2) In this Part,
-
-“seller” includes any person who is in the position of a seller, as, for instance, an agent of the seller to whom the bill of lading has been indorsed, or a consignor or agent who has himself paid (or is directly responsible for) the price.
+(2) In this Part, “seller” includes any person who is in the position of a seller, as, for instance, an agent of the seller to whom the bill of lading has been indorsed, or a consignor or agent who has himself paid (or is directly responsible for) the price.
 
 ### Unpaid seller’s rights
 
@@ -748,11 +794,11 @@ Preliminary
 
 (c) a right of re-sale as limited by this Act.
 
-(2) Where the property in goods has not passed to the buyer, the unpaid seller has (in addition to his other remedies) a right of withholding delivery similar to and co-extensive with his rights of lien or retention and stoppage in transit where the property has passed to the buyer.
+(2) Where the property in goods has not passed to the buyer, the unpaid seller has (in addition to his other remedies) a right of withholding delivery similar to and co-extensive with his rights of lien or retention and stoppage in transit where the property has passed to the buyer
 
-40\. [Not Applicable]
+40\. (Not Applicable)
 
-Unpaid seller’s lien
+Unpaid Seller’s Lien
 
 ### Seller’s lien
 
@@ -782,7 +828,7 @@ Unpaid seller’s lien
 
 (2) An unpaid seller of goods who has a lien or right of retention in respect of them does not lose his lien or right of retention by reason only that he has obtained judgment or decree for the price of the goods.
 
-Stoppage in transit
+Stoppage in Transit
 
 ### Right of stoppage in transit
 
@@ -814,9 +860,9 @@ Stoppage in transit
 
 (4) When notice of stoppage in transit is given by the seller to the carrier or other bailee or custodier in possession of the goods, he must re-deliver the goods to, or according to the directions of, the seller; and the expenses of the re-delivery must be borne by the seller.
 
-Re-sale, etc., by buyer
+Re-sale, etc., by Buyer
 
-### Effect of sub-sale, etc. by buyer
+### Effect of sub-sale, etc., by buyer
 
 47\.—(1) Subject to this Act, the unpaid seller’s right of lien or retention or stoppage in transit is not affected by any sale or other disposition of the goods which the buyer may have made, unless the seller has assented to it.
 
@@ -826,7 +872,7 @@ Re-sale, etc., by buyer
 
 (b) if the last-mentioned transfer was made by way of pledge or other disposition for value, the unpaid seller’s right of lien or retention or stoppage in transit can only be exercised subject to the rights of the transferee.
 
-Rescission: and re-sale by seller
+Recission: and Re-sale by Seller
 
 ### Rescission: and re-sale by seller
 
@@ -842,7 +888,7 @@ Rescission: and re-sale by seller
 
 ACTIONS FOR BREACH OF THE CONTRACT
 
-Seller’s remedies
+Seller’s Remedies
 
 ### Action for price
 
@@ -858,11 +904,11 @@ Seller’s remedies
 
 (3) Where there is an available market for the goods in question, the measure of damages is prima facie to be ascertained by the difference between the contract price and the market or current price of the goods at the time or times when they ought to have been accepted or (if no time was fixed for acceptance) at the time of the refusal to accept.
 
-Buyer’s remedies
+Buyer’s Remedies
 
 ### Damages for non-delivery
 
-51\.—(1) Where the seller wrongfully neglects or refuses to delivery the goods to the buyer, the buyer may maintain an action against the seller for damages for non-delivery.
+51\.—(1) Where the seller wrongfully neglects or refuses to deliver the goods to the buyer, the buyer may maintain an action against the seller for damages for non-delivery.
 
 (2) The measure of damages is the estimated loss directly and naturally resulting, in the ordinary course of events, from the seller’s breach of contract.
 
@@ -902,7 +948,7 @@ SUPPLEMENTARY
 
 ### Exclusion of implied terms
 
-55\.—(1) Where a right, duty or liability would arise under a contract of sale of goods by implication of law, it may (subject to the Unfair Contract Terms Act) be negatived or varied by express agreement, or by the course of dealing between the parties, or by such usage as binds both parties to the contract.
+55\.—(1) Where a right, duty or liability would arise under a contract of sale of goods by implication of law, it may (subject to the Unfair Contract Terms Act (Cap. 396)) be negatived or varied by express agreement, or by the course of dealing between the parties, or by such usage as binds both parties to the contract.
 
 (2) An express condition or warranty does not negative a condition or warranty implied by this Act unless inconsistent with it.
 
@@ -926,7 +972,7 @@ SUPPLEMENTARY
 
 (6) Where, in respect of a sale by auction, a right to bid is expressly reserved (but not otherwise) the seller or any one person on his behalf may bid at the auction.
 
-58\. [Not Applicable]
+58\. (Not Applicable)
 
 ### Reasonable time a question of fact
 
@@ -948,8 +994,6 @@ SUPPLEMENTARY
 
 (b) is such that any goods in the bulk are interchangeable with any other goods therein of the same number or quantity;
 
-[Act 43/96 wef 01/01/1997]
-
 “business” includes a profession and the activities of any Government department or local or public authority;
 
 “buyer” means a person who buys or agrees to buy goods;
@@ -964,17 +1008,13 @@ SUPPLEMENTARY
 
 “delivery” means voluntary transfer of possession from one person to another except that, in relation to sections 20A and 20B, it includes such appropriation of goods to the contract as results in property in the goods being transferred to the buyer;
 
-[Act 43/96 1.1.97]
-
-“document of title to goods” has the same meaning as in the Factors Act [Cap. 386];
+“document of title to goods” has the same meaning as in the Factors Act (Cap. 386);
 
 “fault” means wrongful act or default;
 
 “future goods” means goods to be manufactured or acquired by the seller after the making of the contract of sale;
 
-“goods” includes all personal chattels other than things in action and money; and in particular “goods” includes emblements, industrial growing crops, and things attached to or forming part of the land which are agreed to be severed before sale or under the contract of sale and includes an undivided share in goods
-
-[Act 43/96 1.1.97]
+“goods” includes all personal chattels other than things in action and money; and in particular “goods” includes emblements, industrial growing crops, and things attached to or forming part of the land which are agreed to be severed before sale or under the contract of sale and includes an undivided share in goods;
 
 “plaintiff” includes a defendant counterclaiming;
 
@@ -986,9 +1026,9 @@ SUPPLEMENTARY
 
 “specific goods” means goods identified and agreed on at the time a contract of sale is made and includes an undivided share, specified as a fraction or percentage, of goods identified and agreed on as aforesaid;
 
-[Act 43/96 wef 01/01/1997]
-
 “warranty” means an agreement with reference to goods which are the subject of a contract of sale, but collateral to the main purpose of such contract, the breach of which gives rise to a claim for damages, but not to a right to reject the goods and treat the contract as repudiated.
+
+[43/96]
 
 (2) A thing is deemed to be done in good faith within the meaning of this Act when it is in fact done honestly, whether it is done negligently or not.
 
@@ -996,13 +1036,13 @@ SUPPLEMENTARY
 
 (4) Goods are in a deliverable state within the meaning of this Act when they are in such a state that the buyer would under the contract be bound to take delivery of them.
 
-(4A) References in this Act to dealing as consumer are to be construed in accordance with Part I of the Unfair Contract Terms Act [Cap. 396].
+(4A) References in this Act to dealing as consumer are to be construed in accordance with Part I of the Unfair Contract Terms Act (Cap. 396).
 
-[Act 43/96 wef 01/01/1997]
+[43/96]
 
 (4B) For the purposes of this Act, it is for a seller claiming that the buyer does not deal as consumer to show that he does not.
 
-[Act 43/96 wef 01/01/1997]
+[43/96]
 
 (5) As regards the definition of “business” in subsection (1), paragraph 12 of the Schedule applies in relation to a contract made on or after 18th May 1973 and before 1st February 1978, and paragraph 13 in relation to one made before 18th May 1973.
 
@@ -1022,7 +1062,7 @@ SUPPLEMENTARY
 
 ## THE SCHEDULE
 
-Section 1.
+Section 1
 
 Modification of Act for Certain Contracts
 
@@ -1034,11 +1074,11 @@ Preliminary
 
 (3) Nothing in this Schedule affects a contract made before 1st January 1894.
 
-Section 11: condition treated as warranty
+Section 11: Condition treated as warranty
 
 2\. In relation to a contract made before 22nd April 1967, in section 11(3) after “or part of them,” insert “or where the contract is for specific goods, the property in which has passed to the buyer,”.
 
-Section 12: implied terms about title, etc.
+Section 12: Implied terms about title, etc.
 
 3. In relation to a contract made before 18th May 1973, substitute the following for section 12:
 
@@ -1046,7 +1086,7 @@ Section 12: implied terms about title, etc.
 
 Implied terms about title, etc.
 
-12. In a contract of sale, unless the circumstances of the contract are such as to show a different intention, there is —
+12\. In a contract of sale, unless the circumstances of the contract are such as to show a different intention, there is —
 
 (a) an implied condition on the part of the seller that in the case of a sale he has a right to sell the goods, and in the case of an agreement to sell he will have such a right at the time when the property is to pass;
 
@@ -1056,11 +1096,11 @@ Implied terms about title, etc.
 
 ”.
 
-Section 13: sale by description
+Section 13: Sale by description
 
 4\. In relation to a contract made before 18th May 1973, omit section 13(3).
 
-Section 14: quality or fitness (i)
+Section 14: Quality or fitness (i)
 
 5. In relation to a contract made on or after 18th May 1973 and before 19th May 1985, substitute the following for section 14:
 
@@ -1068,7 +1108,7 @@ Section 14: quality or fitness (i)
 
 Implied terms about quality or fitness
 
-14.—(1) Except as provided by this section and section 15 and subject to any other enactment, there is no implied condition or warranty about the quality or fitness for any particular purpose of goods supplied under a contract of sale.
+14\.—(1) Except as provided by this section and section 15 and subject to any other enactment, there is no implied condition or warranty about the quality or fitness for any particular purpose of goods supplied under a contract of sale.
 
 (2) Where the seller sells goods in the course of a business, there is an implied condition that the goods supplied under the contract are of merchantable quality, except that there is no such condition —
 
@@ -1084,15 +1124,11 @@ Implied terms about quality or fitness
 
 (6) Goods of any kind are of merchantable quality within the meaning of subsection (2) if they are as fit for the purpose or purposes for which goods of that kind are commonly bought as it is reasonable to expect having regard to any description applied to them, the price (if relevant) and all the other relevant circumstances.
 
-(7) In the application of subsection (3) to an agreement for the sale of goods under which the purchase price or part of it is payable by instalments, any reference to the seller includes a reference to the person by whom any antecedent negotiations are conducted; and section 58(3) and (5) of the Hire-Purchase Act 1965 (meaning of antecedent negotiations and related expressions) apply in relation to this subsection as in relation to that Act, but as if a reference to any such agreement were included in the reference in subsection (3) of that section to the agreements there mentioned.
-
-[U.K. 1965, c. 66.
+(7) In the application of subsection (3) to an agreement for the sale of goods under which the purchase price or part of it is payable by instalments, any reference to the seller includes a reference to the person by whom any antecedent negotiations are conducted; and section 58(3) and (5) of the Hire-Purchase Act 1965 (U.K. 1965, c. 66) (meaning of antecedent negotiations and related expressions) apply in relation to this subsection as in relation to that Act, but as if a reference to any such agreement were included in the reference in subsection (3) of that section to the agreements there mentioned.
 
 ”.
 
-]
-
-Section 14: quality or fitness (ii)
+Section 14: Quality or fitness (ii)
 
 6. In relation to a contract made before 18th May 1973, substitute the following for section 14:
 
@@ -1100,7 +1136,7 @@ Section 14: quality or fitness (ii)
 
 Implied terms about quality or fitness
 
-14.—(1) Subject to this and any other Act, there is no implied condition or warranty about the quality or fitness for any particular purpose of goods supplied under a contract of sale.
+14\.—(1) Subject to this and any other Act, there is no implied condition or warranty about the quality or fitness for any particular purpose of goods supplied under a contract of sale.
 
 (2) Where the buyer, expressly or by implication, makes known to the seller the particular purpose for which the goods are required, so as to show that the buyer relies on the seller’s skill or judgment, and the goods are of a description which it is in the course of the seller’s business to supply (whether he is the manufacturer or not), there is an implied condition that the goods will be reasonably fit for such purpose, except that in the case of a contract for the sale of a specified article under its patent or other trade name there is no implied condition as to its fitness for any particular purpose.
 
@@ -1112,7 +1148,11 @@ Implied terms about quality or fitness
 
 ”.
 
-Section 55: exclusion of implied terms (i)
+7\. (Deleted by Act 43/96)
+
+8\. (Deleted by Act 43/96)
+
+Section 55: Exclusion of implied terms (i)
 
 9. In relation to a contract made on or after 18th May 1973 and before 1st February 1978, substitute the following for section 55:
 
@@ -1120,7 +1160,7 @@ Section 55: exclusion of implied terms (i)
 
 Exclusion of implied terms
 
-55.—(1) Where a right, duty or liability would arise under a contract of sale of goods by implication of law, it may be negatived or varied by express agreement, or by the course of dealing between the parties, or by such usage as binds both parties to the contract, but the preceding provision has effect subject to the following provisions of this section.
+55\.—(1) Where a right, duty or liability would arise under a contract of sale of goods by implication of law, it may be negatived or varied by express agreement, or by the course of dealing between the parties, or by such usage as binds both parties to the contract, but the preceding provision has effect subject to the following provisions of this section.
 
 (2) An express condition or warranty does not negative a condition or warranty implied by this Act unless inconsistent with it.
 
@@ -1142,9 +1182,7 @@ Exclusion of implied terms
 
 (6) Subsection (5) does not prevent the court from holding, in accordance with any rule of law, that a term which purports to exclude or restrict any of the provisions of section 13, 14 or 15 is not a term of the contract.
 
-(7) In this section,
-
-“consumer sale” means a sale of goods (other than a sale by auction or by competitive tender) by a seller in the course of a business where the goods —
+(7) In this section, “consumer sale” means a sale of goods (other than a sale by auction or by competitive tender) by a seller in the course of a business where the goods —
 
 (a) are of a type ordinarily bought for private use or consumption; and
 
@@ -1168,7 +1206,7 @@ Exclusion of implied terms
 
 ”.
 
-Section 55: exclusion of implied terms (ii)
+Section 55: Exclusion of implied terms (ii)
 
 10. In relation to a contract made before 18th May 1973, substitute the following for section 55:
 
@@ -1176,11 +1214,11 @@ Section 55: exclusion of implied terms (ii)
 
 Exclusion of implied terms
 
-55. Where a right, duty or liability would arise under a contract of sale by implication of law, it may be negatived or varied by express agreement, or by the course of dealing between the parties, or by such usage as binds both parties to the contract.
+55\. Where a right, duty or liability would arise under a contract of sale by implication of law, it may be negatived or varied by express agreement, or by the course of dealing between the parties, or by such usage as binds both parties to the contract.
 
 ”.
 
-Section 56: conflict of laws
+Section 56: Conflict of laws
 
 11.—(1) In relation to a contract made on or after 18th May 1973 and before 1st February 1978, substitute for section 56 the section set out in sub-paragraph (3).
 
@@ -1192,13 +1230,11 @@ Section 56: conflict of laws
 
 Conflict of laws
 
-56.—(1) Where the proper law of a contract for the sale of goods would, apart from a term that it should be the law of some other country or a term to the like effect, be the law of Singapore, or where any such contract contains a term which purports to substitute, or has the effect of substituting, provisions of the law of some other country for all or any of the provisions of sections 12 to 15 and 55, those sections shall, notwithstanding that term but subject to subsection (2), apply to the contract.
+56\.—(1) Where the proper law of a contract for the sale of goods would, apart from a term that it should be the law of some other country or a term to the like effect, be the law of Singapore, or where any such contract contains a term which purports to substitute, or has the effect of substituting, provisions of the law of some other country for all or any of the provisions of sections 12 to 15 and 55, those sections shall, notwithstanding that term but subject to subsection (2), apply to the contract.
 
 (2) Nothing in subsection (1) prevents the parties to a contract for the international sale of goods from negativing or varying any right, duty or liability which would otherwise arise by implication of law under sections 12 to 15.
 
-(3) In subsection (2),
-
-“contract for the international sale of goods” means a contract of sale of goods made by parties whose places of business (or, if they have none, habitual residences) are in the territories of different States and in the case of which one of the following conditions is satisfied:
+(3) In subsection (2), “contract for the international sale of goods” means a contract of sale of goods made by parties whose places of business (or, if they have none, habitual residences) are in the territories of different States and in the case of which one of the following conditions is satisfied:
 
 (a) the contract involves the sale of goods which are at the time of the conclusion of the contract in the course of carriage or will be carried from the territory of one State to the territory of another;
 
@@ -1206,15 +1242,15 @@ Conflict of laws
 
 (c) delivery of the goods is to be made in the territory of a State other than that within whose territory the acts constituting the offer and the acceptance have been effected.
 
-”.
-
-Section 61 (1): definition of “business” (i)
+Section 61 (1): Definition of “Business” (i)
 
 12\. In relation to a contract made on or after 18th May 1973 and before 1st February 1978, in the definition of “business” in section 61(1) for “or local or public authority” substitute “, local authority or statutory undertaker”.
 
-Section 61 (1): definition of “business” (ii)
+Section 61 (1): Definition of “Business” (ii)
 
 13\. In relation to a contract made before 18th May 1973, omit the definition of “business” in section 61(1).
+
+”.
 
 ## LEGISLATIVE HISTORY
 
@@ -1233,3 +1269,5 @@ This Legislative History is provided for the convenience of users of the Sale of
 |||(Bill No. 33/96 published on 29 October 1996)|
 ||Date of Second and Third Readings|7 November 1996|
 ||Date of commencement|1 January 1997|
+|3.|**1999 Revised Edition—Sale of Goods Act**|
+||Date of operation|1 August 1999|
