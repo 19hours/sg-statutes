@@ -1,16 +1,14 @@
-**Rapid Transit Systems Act 1995**
+**Rapid Transit Systems Act**
 
-**(No. 29 of 1995)**
+**(CHAPTER 263A)**
 
 **Table of Contents**
 
 [**Long Title**](#Rapid-Transit-Systems-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -44,7 +42,7 @@
 
 - [15 Conditions of licence](#Conditions-of-licence)
 
-- [16 Suspension or cancellation of licence, etc](#Suspension-or-cancellation-of-licence-etc)
+- [16 Suspension or cancellation of licence, etc.](#Suspension-or-cancellation-of-licence-etc)
 
 - [17 Appeal](#Appeal)
 
@@ -70,7 +68,7 @@
 
 - [26 Transfer of assets and liabilities](#Transfer-of-assets-and-liabilities)
 
-- [27 Existing agreements, etc](#Existing-agreements-etc)
+- [27 Existing agreements, etc.](#Existing-agreements-etc)
 
 - [28 Pending legal proceedings](#Pending-legal-proceedings)
 
@@ -84,7 +82,7 @@
 
 [**Part VI MISCELLANEOUS**](#Part-VI)
 
-- [33 No remedy except under Land Transport Auhtority of Singapore Act 1995](#No-remedy-except-under-Land-Transport-Auhtority-of-Singapore-Act-1995)
+- [33 No remedy except under Land Transport Authority of Singapore Act](#No-remedy-except-under-Land-Transport-Authority-of-Singapore-Act)
 
 - [34 Service of documents](#Service-of-documents)
 
@@ -96,7 +94,7 @@
 
 - [38 Authorised employees of licensee to exercise certain powers of Authority’s employees](#Authorised-employees-of-licensee-to-exercise-certain-powers-of-Authority’s-employees)
 
-- [39 Court for trial of offence](#Court-for-trial-of-offence)
+- [39 Jurisdiction of Courts](#Jurisdiction-of-Courts)
 
 - [40 Offences committed by body corporate](#Offences-committed-by-body-corporate)
 
@@ -106,53 +104,31 @@
 
 - [43 Non-application of Railways Act](#Non-application-of-Railways-Act)
 
-- [44 Repeal and transitional provisions](#Repeal-and-transitional-provisions)
+- [44 Transitional provisions](#Transitional-provisions)
 
-- [45 Consequential amendments](#Consequential-amendments)
+[**Legislative History**](#Legislative-History)
 
-[**THE SCHEDULE Consequential Amendments**](#THE-SCHEDULE)
+# Rapid Transit Systems Act
 
-REPUBLIC OF SINGAPORE
+(CHAPTER 263A)
 
-GOVERNMENT GAZETTE
+(Original Enactment: Act 29 of 1995)
 
-ACTS SUPPLEMENT
+REVISED EDITION 1996
 
-Published by Authority
+(30th April 1996)
 
-NO. 31]
+An Act to provide for the planning, construction, operation and maintenance of rapid transit systems, to transfer the functions, assets and liabilities of the Mass Rapid Transit Corporation to the Land Transport Authority of Singapore.
 
-Friday, September 1
-
-[1995
-
-The following Act was passed by Parliament on 7th August 1995 and assented to by the President on 29th August 1995:—
-
-Rapid Transit Systems Act 1995
-
-(No. 29 of 1995)
-
-I assent.
-
-ONG TENG CHEONG
-
-President.
-
-29th August 1995.
-
-Date of Commencement: 1st September 1995
-
-An Act to provide for the planning, construction, operation and maintenance of rapid transit systems, to transfer the functions, assets and liabilities of the Mass Rapid Transit Corporation to the Land Transport Authority of Singapore, to repeal the Mass Rapid Transit Corporation Act (Chapter 172 of the 1988 Revised Edition) and to make consequential amendments to certain other Acts.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st September 1995]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Rapid Transit Systems Act 1995 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Rapid Transit Systems Act.
 
 ### Interpretation
 
@@ -206,7 +182,12 @@ and any associated investigative and engineering studies, but does not include t
 
 ## PART II
 
-PLANNING AND CONSTRUCTION OF RAPID TRANSIT SYSTEMS
+PLANNING AND CONSTRUCTION OF
+
+
+
+
+RAPID TRANSIT SYSTEMS
 
 ### Preparation and promulgation of plans and maps
 
@@ -248,7 +229,7 @@ PLANNING AND CONSTRUCTION OF RAPID TRANSIT SYSTEMS
 
 (c) describe the area or extent of the land needed for the carrying out of the works referred to in paragraph (a); and
 
-(d) state that any person entitled to payment of any compensation under the Land Transport Authority of Singapore Act 1995 may serve a written claim on the Authority.
+(d) state that any person entitled to payment of any compensation under the Land Transport Authority of Singapore Act [Cap. 158A] may serve a written claim on the Authority.
 
 (5) The ownership of anything shall not be altered by reason only that it is placed in, under, over or affixed to any land in exercise of a right conferred upon the Authority by this section.
 
@@ -270,11 +251,15 @@ PLANNING AND CONSTRUCTION OF RAPID TRANSIT SYSTEMS
 
 ### Obligation of Authority to purchase land
 
-7\. The owner of any land who has been served with a notice under section 5 may, within 2 years from the date of service of such notice, require the Authority to purchase his estate, right, share or interest in the portion of the land affected by the proposed laying and construction of any railway or the whole of his land and the Authority shall thereupon request the President to direct the acquisition of that land and in that case that property may be acquired in accordance with the provisions of any written law relating to the acquisition of land for a public purpose and any declaration required under any such law that the land is so needed may be made notwithstanding that compensation is to be paid out of the funds of the Authority, and the declaration shall have effect as if it were a declaration that the land is needed for a public purpose made in accordance with that written law.
+7\.—(1) The owner of any land who has been served with a notice under section 5 may, within 2 years from the date of service of such notice, require the Authority to purchase his estate, right, share or interest in the portion of the land affected by the proposed laying and construction of any railway or the whole of his land.
+
+(2) The Authority shall thereupon request the President to direct the acquisition of that land and in that case that land may be acquired in accordance with the provisions of any written law relating to the acquisition of land for a public purpose and any declaration required under any such law that the land is so needed may be made notwithstanding that compensation is to be paid out of the funds of the Authority.
+
+(3) The declaration referred to in subsection (2) shall have effect as if it were a declaration that the land is needed for a public purpose made in accordance with that written law.
 
 ### Power of entry
 
-8\. Where in respect of any land notice has been published in theGazettein accordance with section 5 of the Land Acquisition Act (Cap. 152) but the land has not vested in the State or notice has been given by the Authority under section 5(2) of its intention to lay and construct any railway on, over or under any land, the Authority, or any person acting under its authority, may after giving at least 14 days’ notice in writing to the owner or occupier enter upon that land and any adjoining land within the railway area at all reasonable times for the purpose of —
+8\. Where in respect of any land notice has been published in theGazettein accordance with section 5 of the Land Acquisition Act [Cap. 152] but the land has not vested in the State or notice has been given by the Authority under section 5(2) of its intention to lay and construct any railway on, over or under any land, the Authority, or any person acting under its authority, may after giving at least 14 days’ notice in writing to the owner or occupier enter upon that land and any adjoining land within the railway area at all reasonable times for the purpose of —
 
 (a) surveying and taking levels of such first-mentioned land;
 
@@ -282,7 +267,7 @@ PLANNING AND CONSTRUCTION OF RAPID TRANSIT SYSTEMS
 
 (c) digging or boring into the soil for the purpose of determining whether the soil is suitable for laying the railway on, over or under the land; or
 
-(d) inspecting any apparatus or structure referred to in section 11.
+(d) inspecting any object or structure referred to in section 11.
 
 ### Power to enter land for inspection and survey, etc.
 
@@ -304,9 +289,7 @@ PLANNING AND CONSTRUCTION OF RAPID TRANSIT SYSTEMS
 
 (b) be deemed to be given to and received by an owner or occupier if a written notice is affixed to a conspicuous part of the land or building to be entered.
 
-(4) In subsection (1),
-
-“work of a preventive or remedial nature” means the underpinning or strengthening of any land or building and other work thereon intended to render it reasonably safe or to repair or detect damage caused in the course of the construction or operation of any railway.
+(4) In subsection (1), “work of a preventive or remedial nature” means the underpinning or strengthening of any land or building and other work thereon intended to render it reasonably safe or to repair or detect damage caused in the course of the construction or operation of any railway.
 
 (5) The decision of the Authority that any work is of a preventive or remedial nature or that such work or any inspection or survey is reasonably necessary shall be final.
 
@@ -344,7 +327,7 @@ PLANNING AND CONSTRUCTION OF RAPID TRANSIT SYSTEMS
 
 (c) be given to the owner of the land or building not later than 28 days before the commencement of that period; and
 
-(d) state that any person entitled to compensation under the Land Transport Authority of Singapore Act 1995 may serve a written claim upon the Authority.
+(d) state that any person entitled to compensation under the Land Transport Authority of Singapore Act [Cap. 158A] may serve a written claim upon the Authority.
 
 (4) If the owner of the land or building does not comply with a notice given to him under subsection (1), any person authorised in that behalf by the Authority may enter the land or building, together with such other persons as he thinks necessary, and remove the object or structure described in the notice or cause it to be removed by those other persons.
 
@@ -384,7 +367,7 @@ OPERATION OF RAPID TRANSIT SYSTEMS
 
 (e) the deposit of security or bank guarantee to the satisfaction of the Authority for the due performance by the licensee of all or any obligations imposed upon it by the licence or by this Act or any regulations made thereunder.
 
-### Suspension or cancellation of licence, etc
+### Suspension or cancellation of licence, etc.
 
 16\. If any licensee —
 
@@ -502,27 +485,27 @@ TRANSFER OF ASSETS, LIABILITIES, FUNCTIONS AND EMPLOYEES OF MASS RAPID TRANSIT C
 
 ### Dissolution of Corporation
 
-25\. The Corporation shall cease to exist as from the appointed day.
+25\. The Corporation shall cease to exist as from 1st September 1995.
 
 ### Transfer of assets and liabilities
 
-26\.—(1) As from the appointed day, all movable and immovable property vested in the Corporation immediately before that day, and all assets, rights, interests, liabilities and obligations of the Corporation shall be transferred to and shall vest in the Authority without further assurance.
+26\.—(1) As from 1st September 1995, all movable and immovable property vested in the Corporation immediately before that date, and all assets, rights, interests, liabilities and obligations of the Corporation shall be transferred to and shall vest in the Authority without further assurance.
 
 (2) If any question arises as to whether any particular property, or whether any particular asset, interest, right, liability or obligation has been transferred to or vested in the Authority under subsection (1), a certificate under the hand of the Minister shall be conclusive evidence that the property, asset, interest, right, liability or obligation was or was not so transferred or vested.
 
 (3) Any immovable property to be transferred to and vested in the Authority under subsection (1) shall be held by the Authority upon such tenure and subject to such terms and conditions as the President may determine.
 
-### Existing agreements, etc
+### Existing agreements, etc.
 
-27\. All deeds, bonds, agreements, instruments and working arrangements subsisting immediately before the appointed day affecting any of the property, assets, rights, interests, liabilities and obligations transferred to or vested in the Authority under section 26(1) or affecting any officer or employee of the Corporation transferred to the service of the Authority under section 29 shall continue in force on and after that day and shall be enforceable by or against the Authority as if, instead of the Corporation, the Authority had been named therein or had been a party thereto.
+27\. All deeds, bonds, agreements, instruments and working arrangements subsisting immediately before 1st September 1995 affecting any of the property, assets, rights, interests, liabilities and obligations transferred to or vested in the Authority under section 26(1) or affecting any officer or employee of the Corporation transferred to the service of the Authority under section 29 shall continue in force on and after that date and shall be enforceable by or against the Authority as if, instead of the Corporation, the Authority had been named therein or had been a party thereto.
 
 ### Pending legal proceedings
 
-28\. Any proceedings or cause of action pending or existing immediately before the appointed day by or against the Corporation may be continued and shall be enforced by or against the Authority.
+28\. Any proceedings or cause of action pending or existing immediately before 1st September 1995 by or against the Corporation may be continued and shall be enforced by or against the Authority.
 
 ### Transfer of employees
 
-29\. As from the appointed day, such persons employed immediately before that day by the Corporation as the Minister may determine shall be transferred to the service of the Authority on terms no less favourable than those enjoyed by them immediately prior to their transfer.
+29\. As from 1st September 1995, such persons employed immediately before that date by the Corporation as the Minister may determine shall be transferred to the service of the Authority on terms no less favourable than those enjoyed by them immediately prior to their transfer.
 
 ### Conditions of service
 
@@ -530,23 +513,23 @@ TRANSFER OF ASSETS, LIABILITIES, FUNCTIONS AND EMPLOYEES OF MASS RAPID TRANSIT C
 
 (2) The terms and conditions of service of persons transferred to the service of the Authority under section 29 shall take into account the salaries and terms and conditions of service, including any accrued rights to leave, enjoyed by such persons while in the employment of the Corporation and any such term or condition relating to the length of service with the Authority shall provide for the recognition of service under the Corporation by persons so transferred to be service by them under the Authority.
 
-(3) For the purpose of determining the right to pension, gratuity or other benefits of any person transferred to the service of the Authority under section 29 on the cessation of his service, there shall be no break in the continuity of his service by reason only of the repeal of the Mass Rapid Transit Corporation Act (Cap. 172).
+(3) For the purpose of determining the right to pension, gratuity or other benefits of any person transferred to the service of the Authority under section 29 on the cessation of his service, there shall be no break in the continuity of his service by reason only of the repeal of the Mass Rapid Transit Corporation Act.
 
 ### Continuation and completion of disciplinary proceedings
 
-31\.—(1) Where, on the appointed day, any disciplinary proceedings are pending or there is an interdiction or investigation against or in respect of any employee of the Corporation transferred to the service of the Authority, the proceedings, the commencement of proceedings, or the appropriate dealing with the employee shall be taken up and continued by the Authority.
+31\.—(1) Where, on 1st September 1995, any disciplinary proceedings are pending or there is an interdiction or investigation against or in respect of any employee of the Corporation transferred to the service of the Authority, the proceedings, the commencement of proceedings, or the appropriate dealing with the employee shall be taken up and continued by the Authority.
 
-(2) Where, on the appointed day, any penalty (other than dismissal) has been imposed on any employee of the Corporation pursuant to disciplinary proceedings against him and the penalty has not been, or remains to be, served by such employee, he shall, on his transfer to the Authority under section 29, serve or continue to serve such penalty to its full term as if it had been imposed by the Authority, and the penalty shall remain valid against the employee on his transfer and shall continue in full force and effect until he has served the penalty in full.
+(2) Where, on 1st September 1995, any penalty (other than dismissal) has been imposed on any employee of the Corporation pursuant to disciplinary proceedings against him and the penalty has not been, or remains to be, served by such employee, he shall, on his transfer to the service of the Authority under section 29, serve or continue to serve such penalty to its full term as if it had been imposed by the Authority, and the penalty shall remain valid against the employee on his transfer and shall continue in full force and effect until he has served the penalty in full.
 
 ### Misconduct or neglect of duty whilst in employment of Corporation
 
-32\. Where an employee of the Corporation has been transferred to the service of the Authority pursuant to section 29, the Authority may reprimand, reduce in rank, retire, dismiss or punish in some other manner that employee for any misconduct, omission or neglect of duty which took place or occurred whilst he was in the employment of the Corporation if the misconduct, omission or neglect of duty would have rendered him liable to be reprimanded, reduced in rank, retired, dismissed or punished in some other manner by the Corporation as if this Act had not been enacted.
+32\. Where an employee of the Corporation has been transferred to the service of the Authority under to section 29, the Authority may reprimand, reduce in rank, retire, dismiss or punish in some other manner that employee for any misconduct, omission or neglect of duty which took place or occurred whilst he was in the employment of the Corporation if the misconduct, omission or neglect of duty would have rendered him liable to be reprimanded, reduced in rank, retired, dismissed or punished in some other manner by the Corporation as if this Act had not been enacted.
 
 ## PART VI
 
 MISCELLANEOUS
 
-### No remedy except under Land Transport Auhtority of Singapore Act 1995
+### No remedy except under Land Transport Authority of Singapore Act
 
 33\. No action, claim or proceedings shall lie or be brought against the Authority or any other person —
 
@@ -562,7 +545,7 @@ MISCELLANEOUS
 
 (iv) effecting or complying with any requirement or condition imposed by the Authority,
 
-which is authorised by or under this Act or arises from any act or omission so authorised, except in pursuance of one of the rights to compensation provided for in the Land Transport Authority of Singapore Act 1995.
+which is authorised by or under this Act or arises from any act or omission so authorised, except in pursuance of one of the rights to compensation provided for in the Land Transport Authority of Singapore Act [Cap. 158A].
 
 ### Service of documents
 
@@ -590,7 +573,7 @@ which is authorised by or under this Act or arises from any act or omission so a
 
 36\.—(1) Any police officer or employee of the Authority who reasonably believes that any person has committed an offence under this Act or any regulations made thereunder may require such person to furnish evidence of his identity and such person shall thereupon furnish such evidence of his identity as may be required by such police officer or employee of the Authority.
 
-(2) Any person who refuses to furnish any information required of him by any police officer or any employee of the Authority under subsection (1) or wilfully mis-states such information shall be guilty of an offence and shall by liable on conviction to a fine not exceeding $500.
+(2) Any person who refuses to furnish any information required of him by any police officer or any employee of the Authority under subsection (1) or wilfully mis-states such information shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500.
 
 ### Powers of arrest
 
@@ -602,7 +585,7 @@ which is authorised by or under this Act or arises from any act or omission so a
 
 38\. The Authority may, with the approval of the Minister, in writing authorise any licensee or employee of a licensee to exercise all or any of the powers of an employee of the Authority under this Act or any regulations made thereunder subject to such conditions or limitations as the Authority may specify.
 
-### Court for trial of offence
+### Jurisdiction of Courts
 
 39\. Notwithstanding the provisions of any written law to the contrary, a District Court or a Magistrate’s Court shall have jurisdiction to try any offence under this Act and award the full punishment for such offence.
 
@@ -644,7 +627,7 @@ which is authorised by or under this Act or arises from any act or omission so a
 
 (d) protecting the property of the Authority on railway premises;
 
-(e) the investigation and notification of accidents;
+(e) investigation and notification of accidents;
 
 (f) prescribing the powers and duties of inspectors appointed for the purposes of Part IV for the administration and enforcement of that Part; and
 
@@ -654,95 +637,36 @@ which is authorised by or under this Act or arises from any act or omission so a
 
 ### Non-application of Railways Act
 
-43\. Nothing in the Railways Act (Cap. 263) shall apply to the Authority or any railway under this Act.
+43\. Nothing in the Railways Act [Cap. 263] shall apply to the Authority or any railway under this Act.
 
-### Repeal and transitional provisions
+### Transitional provisions
 
-44\.—(1) The Mass Rapid Transit Corporation Act (Cap. 172) is repealed.
+44\.—(1) Any railway set up under the repealed Act shall be deemed to constitute or form part of a rapid transit system set up under this Act.
 
-(2) Any railway set up under the repealed Act shall be deemed to constitute or form part of a rapid transit system set up under this Act.
+(2) Any scheme, contract, document, licence, permission or resolution prepared, made, granted or approved under the repealed Act shall, so far as it is not inconsistent with the provisions of this Act and except as otherwise expressly provided in this Act or in any other written law, continue and be deemed to have been prepared, made, granted or approved by the Authority under the corresponding provisions of this Act.
 
-(3) Any scheme, contract, document, licence, permission or resolution prepared, made, granted or approved under the repealed Act shall, so far as it is not inconsistent with the provisions of this Act and except as otherwise expressly provided in this Act or in any other written law, continue and be deemed to have been prepared, made, granted or approved by the Authority under the corresponding provisions of this Act.
+(3) Any subsidiary legislation made under the repealed Act and in force immediately before 1st September 1995 shall, so far as it is not inconsistent with the provisions of this Act, continue in force as if made under this Act until it is revoked by subsidiary legislation made under this Act.
 
-(4) Any subsidiary legislation made under the repealed Act and in force immediately before the appointed day shall, so far as it is not inconsistent with the provisions of this Act, continue in force as if made under this Act until it is revoked by subsidiary legislation made under this Act.
+(4) Where a period of time specified in any provision of the repealed Act is current at 1st September 1995, this Act shall have effect as if the corresponding provision in this Act had been in force when that period began to run.
 
-(5) Where a period of time specified in any provision of the repealed Act is current at the appointed day, this Act shall have effect as if the corresponding provision in this Act had been in force when that period began to run.
+(5) The Minister may, by order published in theGazette, repeal or amend any written law which appears to him to be unnecessary having regard to the provisions of this Act or to be inconsistent with any provision of this Act.
 
-(6) The Minister may, by order published in theGazette, repeal or amend any written law which appears to him to be unnecessary having regard to the provisions of this Act or to be inconsistent with any provision of this Act.
+(6) In any written law, any reference to the repealed Act shall be a reference to this Act and any reference to the Corporation shall be a reference to the Authority.
 
-(7) In any written law, any reference to the repealed Act shall be a reference to this Act and any reference to the Corporation shall be a reference to the Authority.
+## LEGISLATIVE HISTORY
 
-### Consequential amendments
+Rapid Transit Systems Act
 
-45\. The enactments mentioned in the Schedule shall have effect subject to the amendments to the extent therein specified (being minor amendments consequential on the preceding provisions of this Act).
+(CHAPTER 263A)
 
-## THE SCHEDULE
+This Legislative History is provided for the convenience of users of the Rapid Transit Systems Act. It is not part of this Act.
 
-Section 45.
-
-Consequential Amendments
-
-1. The First Schedule to the Central Provident Fund Act (Cap. 36) is amended by deleting item (15) of paragraph 6 and substituting the following item:
-
-“
-
-(15) Land Transport Authority of Singapore
-
-”.
-
-2. The Schedule to the Evidence Act (Cap. 97) is amended by deleting item 9 and substituting the following item:
-
-“
-
-9.
-
-Land Transport Authority of Singapore
-
-Land Transport Authority of Singapore Act 1995.
-
-”.
-
-3. The First Schedule to the Income Tax Act (Cap. 134) is amended by deleting item 25 and substituting the following item:
-
-“
-
-25. Land Transport Authority of Singapore
-
-”.
-
-4. The Public Transport Council Act (Cap. 259B) is amended —
-
-(a) by deleting the definition of “Mass Rapid Transit System” in section 2 and substituting the following definition:
-
-“
-
-“rapid transit system” has the same meaning as in the Rapid Transit Systems Act 1995;
-
-”;
-
-(b) by deleting the words “Mass Rapid Transit System” wherever they appear in the following provisions and substituting in each case the words “rapid transit systems”:
-
-sections 4(b) and (c), 20(1) and marginal note, 21 and 22 (c);
-
-(c) by deleting the words “MASS RAPID TRANSIT SYSTEM” in the heading to Part V and substituting the words “RAPID TRANSIT SYSTEM”; and
-
-(d) by deleting sub-paragraph (c) of paragraph 1 of the First Schedule and substituting the following sub-paragraph:
-
-“
-
-(c) the chief executive officer of every company licensed to operate a rapid transit system;
-
-”.
-
-5. Part I of the Schedule to the Statutory Bodies and Government Companies (Protection of Secrecy) Act (Cap. 319) is amended by deleting item 10 and substituting the following item:
-
-“
-
-10.
-
-Land Transport Authority of Singapore
-
-Land Transport Authority of Singapore Act 1995.
-
-”.
-
+||||
+|:-|:-|:-|
+|1.|**Act 29 of 1995—Rapid Transit Systems Act 1995**|
+||Date of First Reading|7 July 1995|
+|||(Bill No. 25/95 published on 8 July 1995)|
+||Date of Second and Third Readings|7 August 1995|
+||Date of commencement|1 September 1995|
+|2.|**1996 Revised Edition—Rapid Transit Systems Act**|
+||Date of operation|30 April 1996|
