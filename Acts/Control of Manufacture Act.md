@@ -142,7 +142,7 @@ the Registrar may, after notice to the registered manufacturer and after such in
 
 (4) The revocation of any registration under this section shall take effect 21 days after the making of the decision of the Registrar to revoke under subsection (1) or, in the event of an appeal to the High Court under subsection (3), on the determination of the appeal.
 
-(5) For the purpose of subsection (1) (c), the Registrar may by notice in writing require a registered manufacturer to manufacture such minimum quantity of goods as the Registrar may determine.
+(5) For the purpose of subsection (1)(c), the Registrar may by notice in writing require a registered manufacturer to manufacture such minimum quantity of goods as the Registrar may determine.
 
 [3/70]
 
@@ -264,7 +264,7 @@ Sections 2, 5(3), 8(1) and 13
 
 Specified goods
 
-1\.Deleted by S 630/2003, wef 01/01/2004.
+1\. [Deleted by S 630/2003 wef 01/01/2004]
 
 2\. Beer and stout
 
@@ -272,128 +272,25 @@ Specified goods
 
 4\. Drawn steel products
 
-5\.Deleted by S 630/2003, wef 01/01/2004.
+5\. [Deleted by S 630/2003 wef 01/01/2004]
 
-6\.Deleted by S 630/2003, wef 01/01/2004.
+6\. [Deleted by S 630/2003 wef 01/01/2004]
 
-7\.Deleted by S 630/2003, wef 01/01/2004.
+7\. [Deleted by S 630/2003 wef 01/01/2004]
 
-8\.Deleted by S 630/2003, wef 01/01/2004.
+8\. [Deleted by S 630/2003 wef 01/01/2004]
 
-9\.Deleted by S 630/2003, wef 01/01/2004.
+9\. [Deleted by S 630/2003 wef 01/01/2004]
 
 10. Chewing gum, bubble gum, dental chewing gum or any like substance (not being a medicinal product within the meaning of the Medicines Act (Cap. 176) or a substance in respect of which an order under section 54 of that Act has been made)
 
 [S 630/2003 wef 01/01/2004]
 
-11\. CD (compact disc), CD-ROM (compact disc-read only memory), VCD (video compact disc)
+11. [Deleted by S 453/2004 wef 30/07/2004]
 
-12. DVD (digital video disc), DVD-ROM (digital video disc-read only memory)
+12.—
+
+[Deleted by S 453/2004 wef 30/07/2004]
 
 [S 382/73; S 153/74; S 208/75; S 270/80; S 318/80; S 175/82; S 257/84; S 4/92; S 247/98]
-
-SECOND SCHEDULE
-
-Sections 2 and 8(1)
-
-Specified goods
-
-1\. Cigarettes
-
-2. Matches
-
-[S 382/73; S 65/74]
-
-## LEGISLATIVE HISTORY
-
-Control of Manufacture Act
-
-(CHAPTER 57)
-
-This Legislative History is provided for the convenience of users of the Control of Manufacture Act. It is not part of this Act.
-
-||||
-|:-|:-|:-|
-|1.|**Ordinance 14 of 1959—Control of Manufacture Ordinance 1959**|
-||Date of First Reading|13 August 1958|
-|||(Bill No. 160/58 published on 22 August 1958)|
-||Date of Second Reading|10 September 1958|
-||Date Committed to Select Committee|Sessional Paper No. L.A. 2 of 1959 presented to Legislative Assembly on 27 January 1959|
-||Date of Third Reading|27 January 1959|
-||Date of commencement|4 April 1959|
-|2.|**1985 Revised Edition—Control of Manufacture Act (Chapter 57)**|
-||Date of operation|30 March 1987|
-|3.|**G. N. No. S 4/1992—Control of Manufacture Act (Amendment of First Schedule) Order 1992**|
-||Date of commencement|3 January 1992|
-|4.|**G. N. No. S 247/1998—Control Of Manufacture Act (Amendment Of First Schedule) Order 1998**|
-||Date of commencement|17 April 1998|
-|5.|**2001 Revised Edition—Control of Manufacture Act**|
-||Date of operation|31 July 2001|
-|6.|**G. N. No. S 630/2003—Control Of Manufacture Act (Amendment Of First Schedule) Order 2003**|
-||Date of commencement|1 January 2004|
-## COMPARATIVE TABLE
-
-Control of Manufacture Act
-
-(CHAPTER 57)
-
-The following provisions in the 1985 Revised Edition of the Control of Manufacture Act have been renumbered by the Law Revision Commissioners in this 2001 Revised Edition.
-
-This Comparative Table is provided for the convenience of users. It is not part of the Control of Manufacture Act.
-
-2001 Ed .
-
-1985 Ed\. 
-
-5 —(2) and (3)
-
-5 —(2)
-
-(4)
-
-(3)
-
-(5)
-
-(4)
-
-(6)
-
-(5)
-
-6 —(5) and (6)
-
-6 —(5)
-
-7 —(1) and (2)
-
-7 —(1)
-
-(3)
-
-(2)
-
-9 
-
-8 —(5)
-
-10 
-
-9 
-
-11 
-
-10 
-
-16 
-
-11 
-
-17 
-
-15 
-
-15 
-
-16 
 
