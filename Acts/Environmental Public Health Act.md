@@ -1812,6 +1812,10 @@ Subject-matters of Regulations
 
 16\. The prescribing of fees for licences and the prescribing of fees and charges for any of the purposes of this Act or any regulations made thereunder and the prescribing of any other matter which by this Act is required to be or may be prescribed.
 
+17. The prohibition and control of the burning of joss sticks and candles.
+
+[S 77/98 wef 01/03/1998]
+
 ## LEGISLATIVE HISTORY
 
 Environmental Public Health Act
@@ -1844,3 +1848,5 @@ This Legislative History is provided for the convenience of users of the Environ
 |||(Bill No. 41/95 published on 2 November 1995)|
 ||Date of Second and Third Readings|5 December 1995|
 ||Date of commencement|2 February 1996|
+|6.|**G. N. No. S 77/1998—Environmental Public Health Act (Amendment of Fourth Schedule) Notification 1998**|
+||Date of commencement|1 March 1998|
