@@ -438,11 +438,15 @@ in any place to which the public or any class of the public has access whether g
 
 [S 292/2002 wef 01/07/2002]
 
+(b) [Deleted by S 292/2002 wef 01/07/2002]
+
 (c) any circus or any exhibition of animals;
 
 (d) any amusement centre, amusement park or fun fair;
 
 (e) any computer games centre;
+
+(f) [Deleted by S 292/2002 wef 01/07/2002]
 
 (g) any exhibition of film, or any peep-show;
 
@@ -478,99 +482,11 @@ in any place to which the public or any class of the public has access whether g
 
 (d) addresses, debates and discussions at meetings of public companies, chambers of commerce, registered trade unions, registered political associations or exempted or registered societies from which persons who are not shareholders or members, as the case may be, are excluded; and
 
-(e) public entertainment provided by or under the auspices of the following statutory bodies:
+(e) public entertainment provided by or under the auspices of any statutory board constituted by or under any written law for a public purpose.
 
-(i) Agri-food and Veterinary Authority;
+[S 589/2004 wef 27/09/2004]
 
-(ii) Board of Architects;
-
-(iii) Building and Construction Authority;
-
-(iv) Civil Aviation Authority of Singapore;
-
-(v) Commercial and Industrial Security Corporation;
-
-(vi) Defence Science and Technology Agency;
-
-(vii) Economic Development Board;
-
-(viii) Housing and Development Board;
-
-(ix) Institute of Technical Education, Singapore;
-
-(x) Institute of Southeast Asian Studies;
-
-(xi) Jurong Town Corporation;
-
-(xii) Majlis Ugama Islam, Singapura;
-
-(xiii) Maritime and Port Authority of Singapore;
-
-(xiv) Monetary Authority of Singapore;
-
-(xv) Nanyang Polytechnic;
-
-(xvi) Nanyang Technological University;
-
-(xvii) National Arts Council;
-
-(xviii) National Council of Social Service;
-
-(xix) National Heritage Board;
-
-(xx) National Library Board;
-
-(xxi) National Parks Board;
-
-(xxii) National Science and Technology Board;
-
-(xxiii) National University of Singapore;
-
-(xxiv) Ngee Ann Polytechnic;
-
-(xxv) People’s Association;
-
-(xxvi) Professional Engineers Board;
-
-(xxvii) Public Utilities Board;
-
-(xxviii) Science Centre Board;
-
-(xxix) Sentosa Development Corporation;
-
-(xxx) Singapore Broadcasting Authority;
-
-(xxxi) Singapore Corporation of Rehabilitative Enterprises;
-
-(xxxii) Singapore Polytechnic;
-
-(xxxiii) Singapore Productivity and Standards Board;
-
-(xxxiv) Singapore Sports Council;
-
-(xxxv) Singapore Tourism Board;
-
-(xxxvi) Temasek Polytechnic;
-
-(xxxvii) Trade Development Board;
-
-(xxxviii) Urban Redevelopment Authority;
-
-(xxxix) Health Promotion Board;
-
-[S 412/2001 wef 01/09/2001]
-
-(xxxx) Health Sciences Authority;
-
-[S 412/2001 wef 01/09/2001]
-
-(xxxxi) Singapore Land Authority.
-
-[S 412/2001 wef 01/09/2001]
-
-(xxxxii) Civil Service College.
-
-[S 562/2001 wef 16/11/2001]
+[15/2009 wef 09/10/2009]
 
 [35/2000]
 
@@ -618,6 +534,8 @@ This Legislative History is provided for the convenience of users of the Public 
 ||Date of commencement|1 January 2002|
 |11.|**G. N. No. S 292/2002—Public Entertainments and Meetings Act (Amendment of Schedule) Order 2002**|
 ||Date of commencement|1 July 2002|
+|12.|**G. N. No. S 589/2004—Public Entertainments and Meetings Act (Amendment of Schedule) Order 2004**|
+||Date of commencement|27 September 2004|
 ## COMPARATIVE TABLE
 
 Public Entertainments and Meetings Act
