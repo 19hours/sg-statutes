@@ -3012,9 +3012,9 @@ Civil Aviation Authority of Singapore Act (Chapter 41).
 
 Commercial and Industrial Security Corporation Act (Chapter 47).
 
-5. Construction Industry Development Board
+5. Building and Construction Authority
 
-Construction Industry Development Board Act (Chapter 51).
+Building and Construction Authority Act 1999 (Act 4 of 1999).
 
 6. Economic Development Board
 
@@ -3023,6 +3023,10 @@ Economic Development Board Act (Chapter 85).
 7. Housing and Development Board
 
 Housing and Development Act (Chapter 129).
+
+7A. Info-communications Development Authority of Singapore
+
+Info-communications Development Authority of Singapore Act 1999.
 
 8. Inland Revenue Authority of Singapore
 
@@ -3044,9 +3048,7 @@ Maritime and Port Authority of Singapore Act (Chapter 170A).
 
 Monetary Authority of Singapore Act (Chapter 186).
 
-13. National Computer Board
-
-National Computer Board Act (Chapter 195).
+13.Deleted by Act 41/99, wef 01/12/1999.
 
 14. Public Utilities Board
 
@@ -3064,9 +3066,7 @@ Singapore Productivity and Standards Board Act (Chapter 303A).
 
 Singapore Tourism Board Act (Chapter 305B).
 
-18. Telecommunication Authority of Singapore
-
-Telecommunication Authority of Singapore Act (Chapter 323).
+18.Deleted by Act 41/99, wef 01/12/1999.
 
 19. Trade Development Board
 
@@ -3077,6 +3077,8 @@ Trade Development Board Act (Chapter 330).
 Urban Redevelopment Authority Act (Chapter 340).
 
 [S 414/92]
+
+[41/99 wef 01/12/1999]
 
 ## LEGISLATIVE HISTORY
 
@@ -3202,3 +3204,10 @@ This Legislative History is provided for the convenience of users of the Evidenc
 ||Date of Second and Third Readings|12 October 1998|
 ||Date of commencement|16 November 1998|
 |||(item (4) in the Schedule)|
+|28.|**Act 41 of 1999—Info-communications Development Authority of Singapore Act 1999**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|11 October 1999|
+|||(Bill No. 36/1999 published on 12 October 1999)|
+||Date of Second and Third Readings|23 November 1999|
+||Date of commencement|1 December 1999|
+|||(item 8(2) in the Fourth Schedule)|
