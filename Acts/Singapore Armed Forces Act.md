@@ -302,7 +302,7 @@
 
 - [129 Notice and petition of appeal](#Notice-and-petition-of-appeal)
 
-- [130 BailBail pending appeal](#BailBail-pending-appeal)
+- [130 Bail pending appeal](#Bail-pending-appeal)
 
 - [131 Delivery of notice of appeal](#Delivery-of-notice-of-appeal)
 
@@ -419,6 +419,30 @@
 - [181 Admissibility of statements](#Admissibility-of-statements)
 
 - [182 Circumstances in which inferences may be drawn from accused’s failure to mention particular facts when informed that he may be prosecuted for an offence](#Circumstances-in-which-inferences-may-be-drawn-from-accused’s-failure-to-mention-particular-facts-when-informed-that-he-may-be-prosecuted-for-an-offence)
+
+[**Part VIIIA BAIL AND BONDS**](#Part-VIIIA)
+
+- [182A Interpretation of this Part](#Interpretation-of-this-Part)
+
+- [182B When person subject to military law may be released on bail](#When-person-subject-to-military-law-may-be-released-on-bail)
+
+- [182C Amount of bail or bond](#Amount-of-bail-or-bond)
+
+- [182D Person released on bail to give address for service](#Person-released-on-bail-to-give-address-for-service)
+
+- [182E Bond to be executed](#Bond-to-be-executed)
+
+- [182F Person to be released](#Person-to-be-released)
+
+- [182G Re-arrest in case of insufficient sureties](#Re-arrest-in-case-of-insufficient-sureties)
+
+- [182H Cash deposit instead of sureties](#Cash-deposit-instead-of-sureties)
+
+- [182I Sureties may apply to have bond discharged](#Sureties-may-apply-to-have-bond-discharged)
+
+- [182J Arrest on breach of bond for appearance](#Arrest-on-breach-of-bond-for-appearance)
+
+- [182K Procedure on forfeiture of bond](#Procedure-on-forfeiture-of-bond)
 
 [**Part IX BOARDS OF INQUIRY**](#Part-IX)
 
@@ -3299,6 +3323,102 @@ You have been informed that you may be prosecuted for an offence. Do you wish to
 
 [17/78]
 
+## PART VIIIA
+
+BAIL AND BONDS
+
+### Interpretation of this Part
+
+182A\. In this Part, —
+
+“Bail Officer” means any officer appointed by the Armed Forces Council, by order published in theGazette, to exercise the power to release a person subject to military law on bail or bond; and
+
+“military court” means a general court martial or the Military Court of Appeal.
+
+[Act 1 of 1994 wef 14/10/1994]
+
+### When person subject to military law may be released on bail
+
+182B\.—(1) Where any person subject to military law who is accused of an offence is arrested or detained in accordance with this Act or any regulations made thereunder or is brought before a military court, he may be released on bail or his own bond by a Bail Officer or the military court:
+
+Provided that no person shall be released on bail or his own bond if there appear to be reasonable grounds for believing that he has been guilty of an offence punishable with death or imprisonment for life.
+
+(2) The Bail Officer or military court releasing any person under subsection (1) shall record in writing his or its reasons for so doing.
+
+(3) A Bail Officer or a military court may at any time cause a person who has been released under this section to be arrested and may commit him to custody.
+
+[Act 1 of 1994 wef 14/10/1994]
+
+### Amount of bail or bond
+
+182C\. The amount of bail or bond shall be fixed with due regard to the circumstances of the case as being sufficient to secure the attendance of the person arrested or detained.
+
+[Act 1 of 1994 wef 14/10/1994]
+
+### Person released on bail to give address for service
+
+182D\.—(1) Where any person is released on bail or his own bond, he shall give to the Bail Officer or the military court releasing him an address at which service upon him of all notices and process may be made.
+
+(2) In any case where the person released cannot be found or for any other reason service on him of any notice or process cannot be effected, any notice or process left for him at the address given by him under subsection (1) shall be deemed to have been duly served on him.
+
+[Act 1 of 1994 wef 14/10/1994]
+
+### Bond to be executed
+
+182E\.—(1) Before any person is released on bail or his own bond under this Part, a bond for such sum of money as the Bail Officer or military court, as the case may be, thinks sufficient shall be executed by that person and, when he is released on bail, by one or more sufficient sureties conditioned that that person shall attend at the time and place mentioned in the bond, and shall continue so to attend until otherwise directed by a Bail Officer or a military court, as the case may be.
+
+(2) It shall be a further condition of the bond that as long as it remains in force, the person so released shall not, without the permission of a Bail Officer or a military court, as the case may be, proceed beyond the limits of Singapore.
+
+(3) Such permission, if granted, shall be evidenced by an endorsement on the bond specifying the period of time and the place to which the permission extends.
+
+(4) No such permission shall be granted except on the personal application of the person so released in the presence of his surety or sureties, if any.
+
+[Act 1 of 1994 wef 14/10/1994]
+
+### Person to be released
+
+182F\.—(1) As soon as the bond has been executed, the person for whose appearance it has been executed shall be released.
+
+(2) Nothing in this section shall be deemed to require the release of any person liable to be detained for some matter other than that in respect of which the bond was executed.
+
+[Act 1 of 1994 wef 14/10/1994]
+
+### Re-arrest in case of insufficient sureties
+
+182G\. If through mistake, fraud or otherwise, insufficient sureties have been accepted or if they afterwards become insufficient, a Bail Officer or a military court, as the case may be, may direct that the person released shall be brought before him or it and may order such person to find sufficient sureties and, on his failing to do so, may commit him to custody.
+
+[Act 1 of 1994 wef 14/10/1994]
+
+### Cash deposit instead of sureties
+
+182H\. Where any person is required by a Bail Officer or a military court to execute a bond with one or more sureties, the Bail Officer or military court may permit him to enter into his own bond and, in addition thereto, to deposit a sum of money to such amount as the Bail Officer or the military court thinks fit instead of providing a surety or sureties.
+
+[Act 1 of 1994 wef 14/10/1994]
+
+### Sureties may apply to have bond discharged
+
+182I\.—(1) Where any person is required to execute a bond with sureties, any person who has entered into such a bond as surety may apply to a military court or, where no military court has assembled, to the relevant convening authority, to discharge the bond either wholly or so far as it relates to the applicant.
+
+(2) On such application being made, the military court or the convening authority, as the case may be, may direct that the person on whose behalf the bond was entered into shall be arrested and brought before it or him.
+
+(3) Upon the appearance of such person, the military court or the convening authority may direct that the bond be discharged either wholly or so far as it relates to the applicant and shall call on that person to find other sufficient sureties and, if he fails to do so, shall commit him to custody.
+
+[Act 1 of 1994 wef 14/10/1994]
+
+### Arrest on breach of bond for appearance
+
+182J\. Where any person who is bound by any bond taken under this Part to appear before a military court or to attend at any other place at the time specified in the bond does not so appear or attend, the military court or the Bail Officer, as the case may be, may direct that that person shall be arrested and produced before it or him.
+
+[Act 1 of 1994 wef 14/10/1994]
+
+### Procedure on forfeiture of bond
+
+182K\.—(1) Where it is proved to the satisfaction of a military court that any bond taken under this Part has been forfeited, it shall record the grounds of such proof and may summon before it any person bound by the bond and call him to pay the penalty thereof or to show cause why it should not be paid.
+
+(2) If sufficient cause is not shown and the penalty is not paid, or the person bound by the bond fails to appear, the penalty shall be deemed to be a debt due to the Government.
+
+[Act 1 of 1994 wef 14/10/1994]
+
 ## PART IX
 
 BOARDS OF INQUIRY
@@ -3415,7 +3535,9 @@ PAY
 
 [Act 1 of 1994 wef 01/05/1994]
 
-(g) the sum required to pay for the maintenance of his wife or child, or of any illegitimate child, or towards the cost of any relief given by way of loan to his wife or child:
+(g) the sum required to pay for the maintenance of his wife or child, or of any illegitimate child, or towards the cost of any relief given by way of loan to his wife or child;
+
+(h) the sum required to pay the penalty payable upon forfeiture of any bond taken under Part VIIIA:
 
 Provided that —
 
@@ -3426,6 +3548,8 @@ Provided that —
 (iii) where a serviceman who is sentenced or ordered in respect of an offence on active service to forfeit all ordinary pay is liable to any other penal deductions from pay, the sentence or order shall apply only to so much of his ordinary pay as remains after those other deductions have been made.
 
 [20/75]
+
+[Act 1 of 1994 wef 14/10/1994]
 
 (2) Without prejudice to the provisions of this Act as to the imposition of deduction of pay as a punishment where, after enquiry by the Armed Forces Council or by a board of inquiry convened under Part IX, it appears that a loss of or damage to public or the Singapore Armed Forces property has been occasioned by any wrongful act or negligence of a serviceman the Armed Forces Council may order the serviceman (whether or not he is a member of the Singapore Armed Forces when the order is made) to pay as or towards compensation for the loss or damage such sum as may be specified in the order and any such sum which is not otherwise paid by the serviceman may be deducted from his pay.
 
@@ -3746,3 +3870,4 @@ This Legislative History is provided for the convenience of users of the Singapo
 |||(Bill No. 1/1994 published on 14 January 1994)|
 ||Date of Second and Third Readings|23 February 1994|
 ||Date of commencement|1 May 1994 (except sections 28 and 29 (e))|
+|||14 October 1994 (sections 28 and 29 (e))|
