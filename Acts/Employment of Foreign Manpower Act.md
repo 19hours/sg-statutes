@@ -94,7 +94,21 @@ An Act relating to the employment of foreign workers.
 
 “Controller” means the Controller of Work Permits appointed under section 3;
 
-“construction works” has the same meaning as in the Construction Industry Development Board Act (Cap. 51) and includes such other works or activities as the Minister may, by notification in theGazette, specify to be construction works;
+“construction works” means the construction, extension, installation, carrying out, repair, maintenance, renewal, removal, alteration, dismantling or demolition of —
+
+(a) any building, erection, edifice, structure, wall, fence or chimney, whether constructed wholly or partly above or below ground level;
+
+(b) any road, motorway, harbour works, railway, cableway, canal or aerodrome;
+
+(c) any drainage, irrigation or river control work;
+
+(d) any electrical, water, gas or telecommunication works;
+
+(e) any bridge, viaduct, dam, reservoir, earthworks, pipeline, sewer, aqueduct, culvert, drive, shaft, tunnel or reclamation,
+
+and includes any works which form an integral part of, or are preparatory to the works described in paragraphs (a) to (e), including site clearance, earth-moving, excavation, laying of foundation, site restoration and landscaping, and such other works or activities as the Minister may, by notification in theGazette, specify to be construction works.
+
+[26/2001 wef 01/09/2001]
 
 “employer” means any person employing a foreign worker and, for the purposes of an application for work permit, any person who intends to employ a foreign worker;
 
@@ -138,7 +152,7 @@ An Act relating to the employment of foreign workers.
 
 ### Appointment of Controller of Work Permits and employment inspectors
 
-3\.—(1) The Minister may appoint a Controller of Work Permits who shall have such functions and powers as are conferred on him by this Act .
+3\.—(1) The Minister may appoint a Controller of Work Permits who shall have such functions and powers as are conferred on him by this Act and such number of Deputy Controllers of Work Permits and Assistant Controllers of Work Permits as the Minister may think necessary to assist the Controller in the proper discharge of his functions.
 
 (1A) The Deputy Controllers of Work Permits and the Assistant Controllers of Work Permits shall have and may exercise and perform all the powers, duties and functions of the Controller conferred by this Act, subject to such limitations as the Controller may think fit to impose.
 
@@ -627,3 +641,11 @@ This Legislative History is provided for the convenience of users of the Employm
 |||(Bill No. 38/98 published on 5 September 1998)|
 ||Date of Second and Third Readings|12 October 1998|
 ||Date of commencement|15 February 1999|
+|6.|**Act 26 of 2001—Statutes (Miscellaneous Amendments and Repeal) Act 2001**|
+||Date of First Reading|11 July 2001|
+|||(Bill No. 24/2001 published on 12 July 2001)|
+||Date of Second and Third Readings|25 July 2001|
+||Date of commencement|1 September 2001|
+
+|
+(section 7 — Amendment of Employment of Foreign Workers Act)|
