@@ -14,7 +14,7 @@
 
 [**Part II PREVENTION OF POLLUTION FROM LAND AND APPARATUS**](#Part-II)
 
-- [3 Prohibition of discharge of oil from land or apparatus](#Prohibition-of-discharge-of-oil-from-land-or-apparatus)
+- [3 Prohibition of discharge of oil or oily mixtures from land or apparatus](#Prohibition-of-discharge-of-oil-or-oily-mixtures-from-land-or-apparatus)
 
 - [4 Special defences](#Special-defences)
 
@@ -28,7 +28,7 @@
 
 - [8 Oil residues](#Oil-residues)
 
-- [9 Notification of proposal to carry certain substances](#Notification-of-proposal-to-carry-certain-substances)
+- [9 Notification of proposal to carry noxious liquid substances](#Notification-of-proposal-to-carry-noxious-liquid-substances)
 
 - [10 Prohibition of discharge of noxious liquid substances from ships](#Prohibition-of-discharge-of-noxious-liquid-substances-from-ships)
 
@@ -44,17 +44,17 @@
 
 - [15 Duty to report discharges of harmful substances from ships](#Duty-to-report-discharges-of-harmful-substances-from-ships)
 
-- [16 Duty to report discharges of oil and substances from land or apparatus](#Duty-to-report-discharges-of-oil-and-substances-from-land-or-apparatus)
+- [16 Duty to report discharges of oil, oily mixture and substances from land or apparatus](#Duty-to-report-discharges-of-oil-oily-mixture-and-substances-from-land-or-apparatus)
 
 [**Part V RECOVERY OF COSTS**](#Part-V)
 
 - [17 Recovery of costs for removing refuse, garbage, wastes, plastics, effluents and dangerous pollutants discharged from ships](#Recovery-of-costs-for-removing-refuse-garbage-wastes-plastics-effluents-and-dangerous-pollutants-discharged-from-ships)
 
-- [18 Recovery of costs for removing oil and substances discharged from ships](#Recovery-of-costs-for-removing-oil-and-substances-discharged-from-ships)
+- [18 Recovery of costs for removing oil, oily mixture and substances discharged from ships](#Recovery-of-costs-for-removing-oil-oily-mixture-and-substances-discharged-from-ships)
 
-- [19 Recovery of costs for removing oil and substances discharged from land or apparatus](#Recovery-of-costs-for-removing-oil-and-substances-discharged-from-land-or-apparatus)
+- [19 Recovery of costs for removing oil, oily mixture and substances discharged from land or apparatus](#Recovery-of-costs-for-removing-oil-oily-mixture-and-substances-discharged-from-land-or-apparatus)
 
-- [20 Recovery of costs from person responsible for the pollution](#Recovery-of-costs-from-person-responsible-for-the-pollution)
+- [20 Recovery of costs from person responsible for pollution](#Recovery-of-costs-from-person-responsible-for-pollution)
 
 - [21 Costs recoverable as a debt due to appointed authority](#Costs-recoverable-as-a-debt-due-to-appointed-authority)
 
@@ -82,7 +82,7 @@
 
 - [32 Court for trial of offences](#Court-for-trial-of-offences)
 
-- [33 Compounding of offences](#Compounding-of-offences)
+- [33 Composition of offences](#Composition-of-offences)
 
 - [33A Fines, etc., to be paid to Authority](#Fines-etc-to-be-paid-to-Authority)
 
@@ -90,9 +90,9 @@
 
 - [35 Application to Government](#Application-to-Government)
 
-- [36 Transitional provisions](#Transitional-provisions)
-
 [**Legislative History**](#Legislative-History)
+
+[**Comparative Table**](#Comparative-Table)
 
 # Prevention of Pollution of the Sea Act
 
@@ -100,9 +100,9 @@
 
 (Original Enactment: Act 18 of 1990)
 
-REVISED EDITION 1991
+REVISED EDITION 1999
 
-(1st March 1991)
+(30th December 1999)
 
 An Act to give effect to the International Convention for the Prevention of Pollution from Ships 1973 as modified and added to by the Protocol of 1978, and to other international agreements relating to the prevention, reduction and control of pollution of the sea and pollution from ships; to make provisions generally for the protection of the marine environment and for the prevention, reduction and control of pollution of the sea and pollution from ships, and for matters related thereto.
 
@@ -120,17 +120,15 @@ PRELIMINARY
 
 2\.—(1) In this Act, unless the context otherwise requires —
 
-“appointed authority” means the Maritime and Port Authority of Singapore established under the Maritime and Port Authority of Singapore Act 1996 and any person appointed by the Minister for the purposes of this Act or any regulations made thereunder;
+“appointed authority” means the Maritime and Port Authority of Singapore established under the Maritime and Port Authority of Singapore Act (Cap. 170A) and any person appointed by the Minister for the purposes of this Act or any regulations made thereunder;
 
-“Authority” means the Maritime and Port Authority of Singapore established under the Maritime and Port Authority of Singapore Act 1996;
-
-[Subst. by Act 7/96 wef 02/02/1996 vide S 42/96]
+“Authority” means the Maritime and Port Authority of Singapore established under the Maritime and Port Authority of Singapore Act;
 
 “Convention” means the Convention of 1973 as modified and added to by the Protocol of 1978;
 
 “Convention of 1973” means the International Convention for the Prevention of Pollution from Ships (including its protocols, annexes and appendices) which constitutes attachment 1 to the final act of the International Conference on Marine Pollution signed in London on 2nd November 1973;
 
-“Director” means the Director of Marine appointed under section 6 of the Merchant Shipping Act [Cap. 179] and includes the Deputy Director of Marine appointed under that section;
+“Director” means the Director of Marine appointed under section 4 of the Merchant Shipping Act (Cap. 179) and includes the Deputy Director of Marine appointed under that section;
 
 “discharge”, in relation to harmful substances or effluents containing such substances, means any release howsoever caused from a ship, place or thing and includes any escape, disposal, spilling, leaking, pumping, emitting or emptying but does not include —
 
@@ -160,13 +158,13 @@ PRELIMINARY
 
 “noxious liquid substance” means any substance which is prescribed by regulations as being a noxious liquid substance and which is subject to the provisions of Annex II of the Convention;
 
-“occupier”, in relation to any place on land if it has no actual occupier, means the owner thereof and, in relation to a railway wagon or road vehicle, means the person in charge of the wagon or road vehicle and not the occupier of the land on which the wagon or vehicle stands;
+“occupier”, in relation to any place on land if it has no actual occupier, means the owner thereof and, in relation to a railway wagon or road vehicle, means the person in charge of the wagon or vehicle and not the occupier of the land on which the wagon or vehicle stands;
 
 “oil” means petroleum in any form including crude oil, fuel oil, sludge, oil refuse and refined products (other than petrochemicals which are prescribed by regulations as being subject to the provisions of Annex II of the Convention) and, without limiting the generality of the foregoing, includes the substances prescribed by regulations as being listed in Appendix I of Annex I of the Convention;
 
-“oily mixture” means a mixture with an oil content of 15 parts or more in 1,000,000 parts of the mixture;
+“oily mixture” means a mixture with an oil content of 15 parts or more in 1 million parts of the mixture;
 
-“oil residues” means any waste material consisting of, or arising from, oil or an oily mixture;
+“oil residues” means any waste material consisting of, or arising from, oil or oily mixture;
 
 “oil terminal” means any place having permanent means of loading or discharging oil, whether in bulk or package, into or from any ship;
 
@@ -176,25 +174,17 @@ PRELIMINARY
 
 “plastics” includes, but is not limited to, synthetic ropes, synthetic fishing nets and plastic garbage bags;
 
-“port” has the same meaning as in the Maritime and Port Authority of Singapore Act 1996;
+“port” has the same meaning as in the Maritime and Port Authority of Singapore Act (Cap. 170A);
 
-[Act 7/96 wef 02/02/1996]
-
-“Port Master” means the Port Master appointed under section 15 of the Maritime and Port Authority of Singapore Act 1996 and includes any Deputy Port Master appointed under that section;
-
-[Act 7/96 wef 02/02/1996]
-
-“Port of Singapore Authority”
-
-[Deletedby Act 7/96]
+“Port Master” means the Port Master appointed under section 15 of the Maritime and Port Authority of Singapore Act and includes any Deputy Port Master appointed under that section;
 
 “Protocol of 1978” means the Protocol relating to the Convention of 1973 which constitutes attachment 2 to the final act of the International Conference on Tanker Safety and Pollution Prevention signed in London on 17th February 1978;
 
 “reception facilities” means facilities which enable ships to discharge or deposit residues and mixtures, which residues and mixtures contain oil or noxious liquid substances;
 
-“ship” means a vessel of any type whatsoever operating in the marine environment and includes hydrofoil boats, air cushion vehicles, submersibles, floating craft and fixed or floating platforms;
+“ship” means a vessel of any type operating in the marine environment and includes hydrofoil boats, air cushion vehicles, submersibles, floating craft and fixed or floating platforms;
 
-“Singapore ship” means a ship registered under Part XIII of the Merchant Shipping Act [Cap. 179];
+“Singapore ship” means a ship registered under Part II of the Merchant Shipping Act (Cap. 179);
 
 “Singapore waters” means the following waters:
 
@@ -202,7 +192,7 @@ PRELIMINARY
 
 (b) all other waters (including inland waters) which are within these limits and are subject to the ebb and flow of the ordinary tides;
 
-“surveyor of ships” means a surveyor of ships appointed under section 8 of the Merchant Shipping Act;
+“surveyor of ships” means a surveyor of ships appointed under section 5 of the Merchant Shipping Act;
 
 “tank” means an enclosed space which is formed by the permanent structure of a ship and which is designed for the carriage of liquid in bulk;
 
@@ -212,19 +202,21 @@ PRELIMINARY
 
 “trade effluent” means the solid or liquid waste of any trade, business or manufacture.
 
-(2) For the purpose of any provision of this Act relating to the discharge of oil, an oily mixture, refuse, garbage, waste matter, plastics, marine pollutant in packaged form, noxious liquid substance or trade effluent from a ship, any floating craft other than a ship which is attached to a ship shall be treated as part of the ship.
+[7/96; 8/99]
 
-(3) Any reference in this Act to the discharge of any oil or noxious liquid substance from a ship or place on land shall, unless the context otherwise requires, be construed as a reference to the discharge of the oil or substance from the ship or place on land at any place in or outside the area of Singapore and the reference to the area of Singapore shall include the territorial waters of Singapore.
+(2) For the purpose of any provision of this Act relating to the discharge of oil, oily mixture, refuse, garbage, waste matter, plastics, marine pollutant in packaged form, noxious liquid substance or trade effluent from a ship, any floating craft other than a ship which is attached to a ship shall be treated as part of the ship.
+
+(3) Any reference in this Act to the discharge of any oil, oily mixture or noxious liquid substance from a ship or place on land shall, unless the context otherwise requires, be construed as a reference to the discharge of the oil, oily mixture or substance from the ship or place on land at any place in or outside the area of Singapore and the reference to the area of Singapore shall include the territorial waters of Singapore.
 
 (4) Any reference in this Act to the Convention or any other international agreement shall be construed as including a reference to its protocols, annexes, appendices and other attachments.
 
-[8/99 wef 10/06/1999]
+[8/99]
 
 ## PART II
 
 PREVENTION OF POLLUTION FROM LAND AND APPARATUS
 
-### Prohibition of discharge of oil from land or apparatus
+### Prohibition of discharge of oil or oily mixtures from land or apparatus
 
 3\. If any oil or oily mixture is discharged into Singapore waters from any place on land, or from any apparatus used for transferring oil from or to any ship (whether to or from a place on land or to or from another ship) —
 
@@ -233,6 +225,8 @@ PREVENTION OF POLLUTION FROM LAND AND APPARATUS
 (b) if the discharge is from an apparatus used for transferring oil from or to a ship, the person in charge of the apparatus,
 
 shall be guilty of an offence and shall be liable on conviction to a fine of not less than $1,000 and not more than $1 million or to imprisonment for a term not exceeding 2 years or to both.
+
+[8/99]
 
 ### Special defences
 
@@ -252,7 +246,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine of not
 
 (5) Where any oil or oily mixture is discharged in consequence of the removal of sunk, stranded or abandoned ships by the Authority in exercise of any power conferred by any written law, and apart from this subsection the Authority or a person employed by or acting on behalf of the Authority would be guilty of an offence under section 3 in respect of that discharge, the Authority or person shall not be convicted of that offence unless it is shown that the Authority or that person failed to take such steps (if any) as were reasonable in the circumstances for preventing, stopping or reducing the discharge.
 
-[Act 7/96 wef 02/02/1996]
+[7/96]
 
 ### Person throwing pollutants into Singapore waters
 
@@ -280,15 +274,17 @@ PREVENTION OF POLLUTION FROM SHIPS
 
 (b) acted recklessly and with knowledge that damage would probably result.
 
-(5) The Authority may, with the approval of the Minister make regulations to exempt any ship from the operation of subsection (1), either absolutely or subject to any prescribed conditions, and either generally or as respects particular classes of ships, or in relation to particular descriptions of refuse, garbage, waste matter, trade effluent, plastics or marine pollutant in packaged form or to the disposal or discharge thereof in prescribed circumstances, or in relation to particular areas of the sea.
+(5) The Authority may, with the approval of the Minister, make regulations to exempt any ship from the operation of subsection (1), either absolutely or subject to any prescribed conditions, and either generally or as respects particular classes of ships, or in relation to particular descriptions of refuse, garbage, waste matter, trade effluent, plastics or marine pollutant in packaged form or to the disposal or discharge thereof in prescribed circumstances, or in relation to particular areas of the sea.
 
-[Act 7/96 wef 02/02/1996]
+[7/96]
 
 ### Prohibition of discharge of oil and oily mixtures from ships
 
-7\.—(1) Subject to subsection (2) and any regulations made under subsection (4), if any discharge of oil or an oily mixture occurs from a Singapore ship into any part of the sea or from any ship into Singapore waters, the master, the owner and the agent of the ship shall each be guilty of an offence and shall each be liable on conviction to a fine of not less than $1,000 and not more than $1 million or to imprisonment for a term not exceeding 2 years or to both.
+7\.—(1) Subject to subsection (2) and any regulations made under subsection (4), if any discharge of oil or oily mixture occurs from a Singapore ship into any part of the sea or from any ship into Singapore waters, the master, the owner and the agent of the ship shall each be guilty of an offence and shall each be liable on conviction to a fine of not less than $1,000 and not more than $1 million or to imprisonment for a term not exceeding 2 years or to both.
 
-(2) Subsection (1) shall not apply to the discharge of oil or an oily mixture from a ship —
+[8/99]
+
+(2) Subsection (1) shall not apply to the discharge of oil or oily mixture from a ship —
 
 (a) which is necessary for the purpose of securing the safety of a ship or saving life at sea;
 
@@ -302,19 +298,23 @@ PREVENTION OF POLLUTION FROM SHIPS
 
 (b) acted recklessly and with knowledge that damage would probably result.
 
-(4) The Authority may, with the approval of the Minister make regulations to exempt any ship from the operation of subsection (1), either absolutely or subject to any prescribed conditions, and either generally or as respects particular classes of ships, or in relation to particular descriptions of oil or oily mixtures or to the discharge of oil or oily mixtures in prescribed circumstances, or in relation to particular areas of the sea.
+(4) The Authority may, with the approval of the Minister, make regulations to exempt any ship from the operation of subsection (1), either absolutely or subject to any prescribed conditions, and either generally or as respects particular classes of ships, or in relation to particular descriptions of oil or oily mixtures or to the discharge of oil or oily mixtures in prescribed circumstances, or in relation to particular areas of the sea.
 
-[Act 7/96]
+[7/96]
 
 ### Oil residues
 
 8\.—(1) Subject to subsection (2), if any oil residues that cannot be discharged from a Singapore ship into the sea without contravening section 7 are not retained on board the ship, the master and the owner of the ship shall each be guilty of an offence and shall each be liable on conviction to a fine not exceeding $1 million.
 
+[8/99]
+
 (2) Oil residues may be discharged from a ship to a reception facility provided in accordance with section 11.
 
-### Notification of proposal to carry certain substances
+### Notification of proposal to carry noxious liquid substances
 
-9\. Where a person who proposes to export or import a noxious liquid substance proposes to do so by having that liquid substance carried in bulk in a ship, that person or the master of the ship shall, in such manner and within such time as may be prescribed, notify the Port Master or an officer designated by the Port Master of the proposal and, if the Port Master or the officer is not so notified of the proposal and the liquid substance is carried as proposed, that person and the master shall each be guilty of an offence and shall each be liable on conviction to a fine not exceeding $5,000.
+9\.—(1) Where a person who proposes to export or import a noxious liquid substance proposes to do so by having that liquid substance carried in bulk in a ship, that person or the master of the ship shall, in such manner and within such time as may be prescribed, notify the Port Master or an officer designated by the Port Master of the proposal.
+
+(2) If the Port Master or the officer designated by the Port Master is not so notified of the proposal referred to in subsection (1) and the liquid substance is carried as proposed, that person and the master of the ship shall each be guilty of an offence and shall each be liable on conviction to a fine not exceeding $5,000.
 
 ### Prohibition of discharge of noxious liquid substances from ships
 
@@ -334,9 +334,9 @@ PREVENTION OF POLLUTION FROM SHIPS
 
 (b) acted recklessly and with knowledge that damage would probably result.
 
-(4) The Authority may, with the approval of the Minister make regulations to exempt any ship from the operation of subsection (1), either absolutely or subject to any prescribed conditions, and either generally or as respects particular classes of ships, or in relation to particular descriptions of noxious liquid substances or mixtures containing such substances or to the discharge of such substances or mixtures in prescribed circumstances, or in relation to particular areas of the sea.
+(4) The Authority may, with the approval of the Minister, make regulations to exempt any ship from the operation of subsection (1), either absolutely or subject to any prescribed conditions, and either generally or as respects particular classes of ships, or in relation to particular descriptions of noxious liquid substances or mixtures containing such substances or to the discharge of such substances or mixtures in prescribed circumstances, or in relation to particular areas of the sea.
 
-[Act 7/96 wef 02/02/1996]
+[7/96]
 
 ## PART IV
 
@@ -346,7 +346,7 @@ PREVENTIVE MEASURES AGAINST POLLUTION OF THE SEA
 
 11\.—(1) The powers exercisable by the Authority in respect of the port shall include power to provide reception facilities for ships using the port or any terminal in Singapore.
 
-[Act 7/96 wef 02/02/1996]
+[7/96]
 
 (2) Any power of the Authority to provide reception facilities shall include —
 
@@ -366,23 +366,31 @@ PREVENTIVE MEASURES AGAINST POLLUTION OF THE SEA
 
 in order to comply, for ships which may be expected to use the port or terminal for a primary purpose other than utilising reception facilities, with the provisions of any regulations made under this Act pertaining to the provision of reception facilities.
 
+[7/96; 8/99]
+
 (4) The Authority or a terminal operator shall provide the Minister with such information as the Minister directs in respect of any reception facilities provided by or by arrangement with the Authority or the operator at the port or terminal, as the case may be.
 
-(5) Where it appears to the Minister, after consultation with any organisation appearing to the Minister to be the representative of owners of ships registered in Singapore, the Authority and, where appropriate, the terminal operator that if the port or a terminal managed by the operator —
+[7/96]
+
+(5) Where it appears to the Minister, after consultation with any organisation appearing to the Minister to be the representative of owners of ships registered in Singapore, the Authority and, where appropriate, the terminal operator, that if the port or a terminal managed by the operator —
 
 (a) has reception facilities, those facilities are inadequate; or
 
 (b) has no reception facilities, the port or terminal should be provided with such facilities,
 
-in order to comply, for ships which may be expected to use the port or terminal for a primary purpose other than utilising the reception facilities, with the provisions of any regulations made under this Act pertaining to the provision of reception facilities, the Minister may direct the Authority or the terminal operator, to provide or arrange for the provision of such reception facilities as appropriate.
+in order to comply, for ships which may be expected to use the port or terminal for a primary purpose other than utilising the reception facilities, with the provisions of any regulations made under this Act pertaining to the provision of reception facilities, the Minister may direct the Authority or the terminal operator to provide or arrange for the provision of such reception facilities as appropriate.
 
-(6) Any person who fails to comply with any direction given under subsection (4) or (5) within the period specified in the direction, or within any extended period allowed by the Minister (whether before or after the end of the period so specified) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day during which the offence continues after such conviction.
+[7/96; 8/99]
+
+(6) Any person who fails to comply with any direction given under subsection (4) or (5) within the period specified in the direction, or within any extended period allowed by the Minister (whether before or after the end of the period so specified) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day during which the offence continues after conviction.
 
 (7) Subsections (3) to (6) shall not apply unless the port or a terminal managed by a terminal operator is —
 
 (a) in relation to the provision of reception facilities for residues or mixtures containing oil, used by ships carrying such residues or mixtures including such ships when undergoing repair or being broken up; or
 
 (b) in relation to the provision of reception facilities for residues or mixtures containing noxious liquid substances, used by ships carrying such residues or mixtures for the purpose of loading or unloading such substances, repair or breaking up.
+
+[7/96; 8/99]
 
 (8) The Authority may, with the approval of the Minister, make regulations in respect of every matter relating to the provision of reception facilities and other facilities for ships to deposit refuse, garbage, plastics or sewage and, in particular, those regulations may provide —
 
@@ -392,7 +400,7 @@ in order to comply, for ships which may be expected to use the port or terminal 
 
 (c) that a contravention thereof shall be punishable by a fine not exceeding $10,000 or with imprisonment for a term not exceeding 2 years or with both.
 
-[Act 7/96 wef 02/02/1996]
+[7/96]
 
 ### Regulations requiring the keeping of oil record books
 
@@ -426,15 +434,15 @@ in order to comply, for ships which may be expected to use the port or terminal 
 
 (xiii) the disposal of residues;
 
-(b) any event of such discharge of oil or an oily mixture as is referred to in section 7(2) or any regulations made under section 7(4); and
+(b) any event of such discharge of oil or oily mixture as is referred to in section 7(2) or any regulations made under section 7(4); and
 
-(c) in the event of accidental or other exceptional discharge of oil or an oily mixture which is not referred to in section 7(2).
+(c) in the event of accidental or other exceptional discharge of oil or oily mixture which is not referred to in section 7(2).
 
-[Act 7/96 wef 02/02/1996]
+[7/96]
 
 (2) The Authority may, with the approval of the Minister, make regulations requiring the keeping of records relating to the transfer of oil to and from ships while they are in Singapore waters.
 
-[Act 7/96 wef 02/02/1996]
+[7/96]
 
 (3) The requirements of any regulations made under subsection (2) shall be in addition to the requirements of any regulations made under subsection (1).
 
@@ -452,7 +460,7 @@ in order to comply, for ships which may be expected to use the port or terminal 
 
 ### Regulations requiring the keeping of cargo record books
 
-13\.—(1) The Authority may, with the approval of the Minister, make regulations requiring cargo record books to be carried in all Singapore ships and in all ships in Singapore waters, being ships which carry noxious liquid substances in bulk and requiring the master of any such ship to record in the cargo record book carried by it —
+13\.—(1) The Authority may, with the approval of the Minister, make regulations requiring cargo record books to be carried in all Singapore ships and in all ships in Singapore waters, being ships which carry noxious liquid substances in bulk, and requiring the master of any such ship to record in the cargo record book carried by it —
 
 (a) the carrying out, on board or in connection with the ship, of such of the following operations with respect to a noxious liquid substance as may be prescribed:
 
@@ -476,11 +484,11 @@ in order to comply, for ships which may be expected to use the port or terminal 
 
 (c) any occasion on which the noxious liquid substance or a mixture containing such substance is discharged, whether intentionally or accidentally.
 
-[Act 7/96 wef 02/02/1996]
+[7/96]
 
 (2) The Authority may, with the approval of the Minister, make regulations requiring the keeping of records relating to the transfer of noxious liquid substances to and from ships while they are in Singapore waters.
 
-[Act 7/96 wef 02/02/1996]
+[7/96]
 
 (3) The requirements of any regulations made under subsection (2) shall be in addition to the requirements of any regulations made under subsection (1).
 
@@ -502,13 +510,13 @@ in order to comply, for ships which may be expected to use the port or terminal 
 
 (2) Any person who fails to comply with any of the requirements imposed by section 12 or 13 or any regulations made thereunder shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
-(3) Any person who makes an entry in any oil record book or cargo record book carried or any record kept under section 12 or 13 which is to his knowledge false or misleading in any material particular shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding one year or to both.
+(3) Any person who makes an entry in any oil record book or cargo record book carried or any record kept under section 12 or 13 which is to his knowledge false or misleading in any material particular shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 (4) In any proceedings under this Act —
 
 (a) any oil record book or cargo record book carried or any record kept in pursuance of any regulations made under section 12 or 13 shall be admissible as evidence of the facts stated in it;
 
-(b) any copy of an entry in such oil record book or cargo record book or record which is certified by the master of the ship in which the book is carried or by the person by whom the record is required to be kept to be a true copy of the entry shall be admissible as evidence of the facts stated in the entry;
+(b) any copy of an entry in such oil record book or cargo record book or record which is certified by the master of the ship in which the book is carried or by the person by whom the record is required to be kept to be a true copy of the entry shall be admissible as evidence of the facts stated in the entry; and
 
 (c) any document purporting to be an oil record book or cargo record book carried or a record kept under section 12 or 13, or purporting to be such a certified copy as is mentioned in paragraph (b) shall, unless the contrary is proved, be presumed to be such a book, record or copy, as the case may be.
 
@@ -526,7 +534,7 @@ in order to comply, for ships which may be expected to use the port or terminal 
 
 the owner, charterer, manager and operator of the ship or an agent of the owner, charterer, manager or operator of the ship shall without delay report the occurrence in such manner and to such officer as may be prescribed.
 
-(4) Any person who contravenes subsection (1) or (3) shall be guilty of an offence and shall be liable upon conviction to a fine not exceeding $5,000.
+(4) Any person who contravenes subsection (1) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
 (5) On the prosecution of a person for an offence under subsection (3), it is a defence if the person proves —
 
@@ -534,9 +542,9 @@ the owner, charterer, manager and operator of the ship or an agent of the owner,
 
 (b) in the case of an offence to which subsection (3)(a) applies, that he neither knew nor suspected that the master of the ship concerned was unable to comply with subsection (1) in relation to the relevant occurrence.
 
-### Duty to report discharges of oil and substances from land or apparatus
+### Duty to report discharges of oil, oily mixture and substances from land or apparatus
 
-16\. If any actual or probable discharge into Singapore waters of oil, an oily mixture, noxious liquid substance or a mixture containing such substance occurs from a place on land or an apparatus used for transferring oil or that substance from or to a ship, the occupier of the place on land or the person in charge of the apparatus, as the case may be, shall forthwith report the occurrence to the Port Master in the prescribed manner and, if he fails to do so, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+16\. If any actual or probable discharge into Singapore waters of oil, oily mixture, noxious liquid substance or a mixture containing such substance occurs from a place on land or an apparatus used for transferring oil or that substance from or to a ship, the occupier of the place on land or the person in charge of the apparatus, as the case may be, shall forthwith report the occurrence to the Port Master in the prescribed manner and, if he fails to do so, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
 ## PART V
 
@@ -544,9 +552,9 @@ RECOVERY OF COSTS
 
 ### Recovery of costs for removing refuse, garbage, wastes, plastics, effluents and dangerous pollutants discharged from ships
 
-17\.—(1) If any refuse, garbage, waste matter, plastics, marine pollutant in packaged form or trade effluent is discharged from any ship into Singapore waters or into any part of the sea or waters outside Singapore waters and the refuse, garbage, matter, plastics, pollutant or effluent subsequently drifts or flows into Singapore waters, the owner of the ship shall be liable for the costs of any measure reasonably taken by the appointed authority after the discharge for the purpose of removing it and for preventing or reducing any damage caused in Singapore by contamination resulting from the discharge.
+17\.—(1) If any refuse, garbage, waste matter, plastics, marine pollutant in packaged form or trade effluent is discharged from any ship into Singapore waters or into any part of the sea or waters outside Singapore waters and the refuse, garbage, waste matter, plastics, marine pollutant or trade effluent subsequently drifts or flows into Singapore waters, the owner of the ship shall be liable to pay for the costs of any measure reasonably taken by the appointed authority after the discharge for the purpose of removing it and for preventing or reducing any damage caused in Singapore by contamination resulting from the discharge.
 
-(2) Where the refuse, garbage, waste matter, plastics, marine pollutant in packaged form or trade effluent is discharged from two or more ships —
+(2) Where the refuse, garbage, waste matter, plastics, marine pollutant in packaged form or trade effluent is discharged from 2 or more ships —
 
 (a) a liability is incurred under this section by the owner of each of them; but
 
@@ -554,23 +562,29 @@ RECOVERY OF COSTS
 
 each of the owners shall be liable, jointly and severally with the other or others, for the whole of the damage or cost for which the owners together would be liable under this section.
 
-### Recovery of costs for removing oil and substances discharged from ships
+### Recovery of costs for removing oil, oily mixture and substances discharged from ships
 
-18\.—(1) If any oil, oily mixture or noxious liquid substance is discharged from any ship into Singapore waters or into any part of the sea or waters outside Singapore waters and the oil, mixture or substance subsequently flows or drifts into Singapore waters, the owner of the ship shall be liable for the costs of any measures reasonably taken by the appointed authority after the discharge for the purpose of removing it and for preventing or reducing any damage caused in Singapore by contamination resulting from the discharge.
+18\.—(1) If any oil, oily mixture or noxious liquid substance is discharged from any ship into Singapore waters or into any part of the sea or waters outside Singapore waters and the oil, mixture or substance subsequently flows or drifts into Singapore waters, the owner of the ship shall be liable to pay for the costs of any measure reasonably taken by the appointed authority after the discharge for the purpose of removing it and for preventing or reducing any damage caused in Singapore by contamination resulting from the discharge.
 
-(2) Where the oil, oily mixture or noxious liquid substance is discharged from two or more ships and a liability is incurred under this section by the owner of each of them but the damage or cost of which each of the owners would be liable cannot reasonably be separated from that for which the other or others would be liable, each of the owners shall be liable, jointly and severally with the other or others, for the whole of the damage or cost for which the owners together would be liable under this section.
+(2) Where the oil, oily mixture or noxious liquid substance is discharged from 2 or more ships —
 
-(3) The reference in this section to the measures reasonably taken after the discharge of oil, an oily mixture or a noxious liquid substance for the purpose of preventing or reducing any damage caused by contamination resulting from the discharge shall include actions taken to remove the oil, mixture or substance from the water and foreshores or the taking of such other actions as may be necessary to minimise or mitigate damage to the public health or welfare, including, but not limited to fish, shellfish, wildlife, and public and private property, foreshores and beaches.
+(a) a liability is incurred under this section by the owner of each of them; but
 
-(4) This section shall not apply in relation to any discharge of oil or an oily mixture where section 3 of the Merchant Shipping (Oil Pollution) Act applies.
+(b) the damage or cost of which each of the owners would be liable cannot reasonably be separated from that for which the other or others would be liable,
 
-### Recovery of costs for removing oil and substances discharged from land or apparatus
+each of the owners shall be liable, jointly and severally with the other or others, for the whole of the damage or cost for which the owners together would be liable under this section.
 
-19\. If any oil, oily mixture or noxious liquid substance is discharged from any place on land or from any apparatus used for transferring the oil, mixture or substance from or to any ship (whether to or from a place on land or to or from another ship) or for any other operation, the person in charge of that apparatus or the occupier of that place, as the case may be, shall be liable to pay for the costs of any reasonable measures taken by the appointed authority after the discharge in removing or eliminating the oil, mixture or substance.
+(3) The reference in this section to the measures reasonably taken after the discharge of oil, oily mixture or a noxious liquid substance for the purpose of preventing or reducing any damage caused by contamination resulting from the discharge shall include actions taken to remove the oil, mixture or substance from the water and foreshores or the taking of such other actions as may be necessary to minimise or mitigate damage to the public health or welfare, including, but not limited to fish, shellfish, wildlife, and public and private property, foreshores and beaches.
 
-### Recovery of costs from person responsible for the pollution
+(4) This section shall not apply in relation to any discharge of oil or oily mixture where section 3 of the Merchant Shipping (Civil Liability and Compensation for Oil Pollution) Act (Cap. 180) applies.
 
-20\. Any person who puts, throws, casts or deposits or causes to be put, thrown, cast or deposited into Singapore waters any oil, oily mixture, refuse, garbage, plastics, waste matter, carcase, marine pollutant in packaged form, noxious liquid substance or trade effluent shall be liable to pay for the costs of reasonable measures taken by the appointed authority in removing or eliminating it.
+### Recovery of costs for removing oil, oily mixture and substances discharged from land or apparatus
+
+19\. If any oil, oily mixture or noxious liquid substance is discharged from any place on land or from any apparatus used for transferring the oil, mixture or substance from or to any ship (whether to or from a place on land or to or from another ship) or for any other operation, the person in charge of that apparatus or the occupier of that place, as the case may be, shall be liable to pay for the costs of any measure reasonably taken by the appointed authority after the discharge in removing or eliminating the oil, mixture or substance.
+
+### Recovery of costs from person responsible for pollution
+
+20\. Any person who puts, throws, casts or deposits or causes to be put, thrown, cast or deposited into Singapore waters any oil, oily mixture, refuse, garbage, plastics, waste matter, carcase, marine pollutant in packaged form, noxious liquid substance or trade effluent shall be liable to pay for the costs of any measure reasonably taken by the appointed authority in removing or eliminating it.
 
 ### Costs recoverable as a debt due to appointed authority
 
@@ -630,15 +644,15 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (a) has incurred a liability under section 17 or 18; or
 
-(b) has contravened any of the requirements of this Act or any regulations made thereunder and in the opinion of the Director or Port Master the ship presents an unreasonable threat of harm to the marine environment or has caused harm to such environment,
+(b) has contravened any of the requirements of this Act or any regulations made thereunder and, in the opinion of the Director or Port Master, the ship presents an unreasonable threat of harm to the marine environment or has caused harm to such environment,
 
 the Director or Port Master or any officer authorised in writing by the Director or Port Master may detain that ship.
 
 (3) The Director or Port Master may release a ship detained under subsection (2) if the owner of the ship deposits with the Government or the Authority a sum of money or furnishes such security which would, in the opinion of the Director or Port Master, be adequate to meet the owner’s liability under this Act.
 
-[Act 7/96 wef 02/02/1996]
+[7/96]
 
-(4) Section 3(1)(d) of the High Court (Admiralty Jurisdiction) Act [Cap. 123] shall be construed as extending to any claim in respect of a liability incurred by the owner of a ship under this Act.
+(4) Section 3(1)(d) of the High Court (Admiralty Jurisdiction) Act (Cap. 123) shall be construed as extending to any claim in respect of a liability incurred by the owner of a ship under this Act.
 
 ### Detained ship proceeding to sea
 
@@ -654,7 +668,7 @@ the Director or Port Master or any officer authorised in writing by the Director
 
 ### Sale of ship
 
-25\. Where the owner, the master or the agent of a ship has been convicted of an offence under the provisions of this Act or any regulations made thereunder and any fine imposed in respect of the conviction is not paid at the time ordered by the court, the court shall, in addition to any power for enforcing payment, have the power to direct the amount remaining unpaid to be levied by distress and sale of the ship, her tackle, furniture and apparel.
+25\. Where the owner, master or agent of a ship has been convicted of an offence under the provisions of this Act or any regulations made thereunder and any fine imposed in respect of the conviction is not paid at the time ordered by the court, the court shall, in addition to any power for enforcing payment, have the power to direct the amount remaining unpaid to be levied by distress and sale of the ship, her tackle, furniture and apparel.
 
 ### Exemptions
 
@@ -686,13 +700,13 @@ the Director or Port Master or any officer authorised in writing by the Director
 
 ### Protection from personal liability
 
-30\. No act or omission by the Minister, the Director, Port Master, any officer employed in the administration of this Act or any other person acting under the direction of the Minister, the Director or Port Master shall, if the act or omission was bona fide for the purpose of executing this Act or any regulations made thereunder, subject them or any of them personally to any action, liability, claim or demand whatsoever.
+30\. No act or omission by the Minister, the Director, Port Master, any officer employed in the administration of this Act or any other person acting under the direction of the Minister, the Director or Port Master shall, if the act or omission was bona fide for the purpose of executing this Act or any regulations made thereunder, subject them or any of them personally to any action, liability, claim or demand.
 
 ### Evidence of analyst
 
 31\.—(1) The Director may, by instrument in writing under his hand, appoint persons who in his opinion are qualified to be analysts for the purposes of this Act.
 
-(2) Subject to subsection (4), a certificate of an analyst appointed under subsection (1) stating that he has analysed or examined a substance and stating the result of his analysis or examination is admissible in evidence in any proceeding for an offence under this Act as prima facie evidence of the facts stated in the certificate and of the correctness of the result of the analysis or examination.
+(2) Subject to subsection (4), a certificate of an analyst appointed under subsection (1) stating that he has analysed or examined a substance and stating the result of his analysis or examination is admissible in evidence in any proceedings for an offence under this Act as prima facie evidence of the facts stated in the certificate and of the correctness of the result of the analysis or examination.
 
 (3) For the purposes of this section, a document purporting to be a certificate referred to in subsection (2) on its production by the prosecution shall, unless the contrary is proved, be deemed to be such a certificate.
 
@@ -702,9 +716,9 @@ the Director or Port Master or any officer authorised in writing by the Director
 
 ### Court for trial of offences
 
-32\. Any offence under this Act or any regulations made thereunder may be tried by a Magistrate’s Court or a District Court and that Court shall, notwithstanding the provisions of the Criminal Procedure Code [Cap. 68] and any other written law, have jurisdiction to impose the maximum penalty provided for by this Act or any regulations made thereunder.
+32\. Any offence under this Act or any regulations made thereunder may be tried by a Magistrate’s Court or a District Court and that Court shall, notwithstanding the provisions of the Criminal Procedure Code (Cap. 68) and any other written law, have jurisdiction to impose the maximum penalty provided for by this Act or any regulations made thereunder.
 
-### Compounding of offences
+### Composition of offences
 
 33\.—(1) The Director, Port Master or any person authorised in writing by the Director or Port Master may compound any offence under this Act or any regulations made thereunder which is prescribed as a compoundable offence, by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $2,000.
 
@@ -714,59 +728,43 @@ the Director or Port Master or any officer authorised in writing by the Director
 
 33A\. All fines imposed for any offence under this Act or any regulations made thereunder and all sums collected under section 33 shall be paid into the funds of the Authority.
 
-[8/99 wef 10/06/1999]
+[8/99]
 
 ### Regulations
 
-34\.—(1) The Authority may, with the approval of the Minister, make such regulations as appear to the Authority necessary or expedient for the purposes of carrying out the provisions of this Act and for prescribing anything which may be prescribed under this Act and, in particular, for the purpose of:
+34\.—(1) The Authority may, with the approval of the Minister, make such regulations as appear to the Authority necessary or expedient for the purposes of carrying out the provisions of this Act and for prescribing anything which may be prescribed under this Act and, in particular, for the purpose of —
 
 (a) giving effect to any provision of the Convention which has not been given effect to in this Act;
 
-[8/99 wef 10/06/1999]
-
 (b) giving effect to any provision of the International Convention on Oil Pollution Preparedness, Response and Co-operation 1990 (including the Final Act of the Conference and the attached resolutions) signed in London on 30th November 1990;
-
-[8/99 wef 10/06/1999]
 
 (c) giving effect to any provision of any international agreement not mentioned in paragraph (a) or (b) which relates to the prevention, reduction or control of pollution of the sea or pollution from ships;
 
-[8/99 wef 10/06/1999]
-
 (d) giving effect to any international agreement which modifies any of the international agreements mentioned in paragraphs (a), (b) and (c); and
-
-[8/99 wef 10/06/1999]
 
 (e) prescribing any measure which the Authority considers necessary for the prevention, control or reduction of pollution of the sea or pollution from ships.
 
-[8/99 wef 10/06/1999]
-
-[Act 7/96 wef 02/02/1996]
+[7/96; 8/99]
 
 (2) Without prejudice to the generality of subsection (1), the Authority may, with the approval of the Minister, by such regulations —
 
 (a) require persons carrying on any trade, business or manufacture to install such equipment as may be prescribed by the Authority for the purpose of eliminating any oil in any trade effluent and for preventing or reducing the discharge of any trade effluent into Singapore waters;
 
-[Act 7/96]
-
 (b) require the owners or operators of cargo terminals, shipyards, oil refineries and oil terminals in Singapore, and such other facilities in Singapore as the Port Master may determine, to store such detergents, dispersants and equipment as the Authority may prescribe to deal with any pollution of Singapore waters;
 
-[8/99 wef 10/06/1999]
+(c) provide for the conduct of investigations of casualties in respect of any discharge from a ship or any contravention of the provisions of this Act or any regulations made thereunder;
 
-(d) provide for the conduct of investigations of casualties in respect of any discharge from a ship or any contravention of the provisions of this Act or any regulations made thereunder;
+(d) provide for the appointment, registration, duties and powers of MARPOL surveyors and the approval of the organisation employing such surveyors for the purposes of giving effect to Annex II to the Convention;
 
-(e) provide for the appointment, registration, duties and powers of MARPOL surveyors and the approval of the organisation employing such surveyors for the purposes of giving effect to Annex II to the Convention;
+(e) prescribe fees to be paid in respect of the issue or recording of any certificate, licence or other instrument or the doing of any other thing in pursuance of this Act or any regulations made thereunder;
 
-(f) prescribe fees to be paid in respect of the issue or recording of any certificate, licence or other instrument or the doing of any other thing in pursuance of this Act or any regulations made thereunder;
+(f) provide for the approval of documents and the carrying out of surveys and inspections for the purpose of giving effect to any of the international agreements referred to in subsection (1)(a) to (d), or to a measure referred to in subsection (1)(e) and the issue, duration and recognition of any certificate for that purpose;
 
-(g) provide for the approval of documents and the carrying out of surveys and inspections for the purpose of giving effect to any of the international agreements referred to in subsection (1)(a) to (d), or to a measure referred to in subsection (1)(e) and the issue, duration and recognition of any certificate for that purpose;
+(g) provide for the denial of entry or prohibition of proceeding to sea of any ship which does not have in force a certificate issued pursuant to any regulations made under paragraph (g); and
 
-[8/99 wef 10/06/1999]
+(h) provide for the extra territorial application of any of the regulations to Singapore ships and to persons on board such ships.
 
-(h) provide for the denial of entry or prohibition of proceeding to sea of any ship which does not have in force a certificate issued pursuant to any regulations made under paragraph (g); and
-
-(i) provide for the extra territorial application of any of the regulations to Singapore ships and to persons on board such ships.
-
-[8/99 wef 10/06/1999]
+[7/96; 8/99]
 
 (3) Any regulations made under this section may —
 
@@ -778,21 +776,13 @@ the Director or Port Master or any officer authorised in writing by the Director
 
 (d) include such incidental, supplemental and transitional provisions as appear to the Authority to be expedient for the purposes of the regulations; and
 
-[Act 7/96]
-
 (e) provide that a contravention thereof shall be punishable by a fine not exceeding $20,000 or with imprisonment for a term not exceeding 2 years or with both.
+
+[7/96; 8/99]
 
 ### Application to Government
 
 35\. This Act shall bind the Government.
-
-### Transitional provisions
-
-36\. Notwithstanding the repeal of the Prevention of Pollution of the Sea Act [Cap. 243, 1985 Ed], the provisions of that Act shall continue to apply in relation to —
-
-(a) any discharge of oil, a mixture containing oil, substance of a dangerous or obnoxious nature, trade effluent, refuse, garbage or waste matter, within the meaning of that Act, that occurred or commenced before 1st February 1991; and
-
-(b) any act or omission that occurred before that date.
 
 ## LEGISLATIVE HISTORY
 
@@ -822,3 +812,23 @@ This Legislative History is provided for the convenience of users of the Prevent
 |||(Bill No. 6/99 published on 21 January 1999)|
 ||Date of Second and Third Readings|11 February 1999|
 ||Date of commencement|10 June 1999|
+|5.|**1999 Revised Edition—Prevention of Pollution of the Sea Act**|
+||Date of operation|30 December 1999|
+## COMPARATIVE TABLE
+
+Prevention of Pollution of the Sea Act
+
+(CHAPTER 243)
+
+The following provisions in the 1991 Revised Edition of the Prevention of Pollution of the Sea Act have been renumbered by the Law Revision Commissioners in this 1999 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Prevention of Pollution of the Sea Act.
+
+1999 Ed .
+
+1991 Ed\. 
+
+9 — (1) and (2)
+
+9
+
