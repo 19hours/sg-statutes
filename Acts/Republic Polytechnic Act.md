@@ -383,7 +383,9 @@ Powers of Board
 
 (a) to administer and manage the finances, accounts, investments, property, business, and all affairs whatsoever of the Polytechnic, and for that purpose to appoint bankers, counsel, solicitors and such officers or agents as it may be expedient to appoint;
 
-(b) to invest the moneys of the Polytechnic, including any unapplied income, in investments authorised by the general law for the investment of trust moneys, and to invest such moneys in the purchase of freehold or leasehold property, and to vary any investments by sale and reinvestment or otherwise;
+(b) invest the moneys of the Polytechnic in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1);
+
+[45/2004 wef 15/12/2004]
 
 (c) to purchase, grant, sell, convey, assign, surrender, and yield up, exchange, partition, mortgage, demise, reassign, transfer, and accept leases of real and personal property on behalf of the Polytechnic;
 
@@ -409,7 +411,7 @@ Powers of Board
 
 (n) to delegate any of its powers to any member of the Board or to any committee thereof or to any officer or other employee of the Polytechnic; and
 
-(o) to do all such other acts and things as may be require to give effect to the powers conferred on the Board by the Act or this Constitution.
+(o) to do all such other acts and things as may be required to give effect to the powers conferred on the Board by the Act or this Constitution.
 
 (3) The Board may by regulations provide for any of the following matters or purposes:
 
@@ -469,7 +471,7 @@ Senate
 
 (c) such number of officers of the Polytechnic as may be appointed by the Board; and
 
-(d) such number of academic staff as may be determined by the Board as may be elected by all the full-time academic staff.
+(d) such number of academic staff as may be determined by the Board and as may be elected by all the full-time academic staff.
 
 (2) The Senate shall meet at least twice in each semester of every academic year and such other times as may be necessary.
 
@@ -589,7 +591,7 @@ Republic Polytechnic Act
 
 (CHAPTER 270)
 
-This Legislative History is provided for the convenience of users of the Republic Polytechnic Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Republic Polytechnic Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -600,3 +602,8 @@ This Legislative History is provided for the convenience of users of the Republi
 ||Date of commencement|1 August 2002|
 |2.|**2003 Revised Edition—Republic Polytechnic Act**|
 ||Date of operation|31 July 2003|
+|3.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
+||Date of First Reading|21 September 2004|
+|||(Bill No. 43/2004 published on 22 September 2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|15 December 2004|
