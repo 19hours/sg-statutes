@@ -1449,3 +1449,9 @@ This Legislative History is provided for the convenience of users of the Supreme
 |||(Bill No. 2/94)|
 ||Date of Second and Third Readings|23 February 1994|
 ||Date of commencement|8 April 1994 (item (4) of the Schedule — amendment of Supreme Court of Judicature Act)|
+|10.|**Act 34 of 1995—Singapore Academy of Law (Amendment) Act 1995**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|7 August 1995|
+|||(Bill No. 27/95)|
+||Date of Second and Third Readings|27 September 1995|
+||Date of commencement|1 January 1996 (section 12 — amendment of Supreme Court of Judicature Act)|
