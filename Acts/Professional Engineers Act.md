@@ -34,7 +34,7 @@
 
 - [11 Employment of unregistered professional engineer prohibited](#Employment-of-unregistered-professional-engineer-prohibited)
 
-- [12 Remuneration for professional engineering services](#Remuneration-for-professional-engineering-services)
+- [12 Establishment for massage deemed to be public place](#Establishment-for-massage-deemed-to-be-public-place)
 
 - [13 Minor building works](#Minor-building-works)
 
@@ -114,7 +114,7 @@
 
 - [45 References in other written laws](#References-in-other-written-laws)
 
-[**THE SCHEDULE Exempt classes of persons**](#THE-SCHEDULE)
+[**THE SCHEDULE Exempt Classes of Persons**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -128,7 +128,7 @@ REVISED EDITION 1992
 
 (9th March 1992)
 
-An Act to establish the Professional Engineers Board, to provide for the registration of professional engineers, to regulate the qualifications and conduct of professional engineers and to regulate corporations which supply professional engineering services in Singapore.
+An Act for the licensing and control of establishments for massage or special treatment.
 
 [30th August 1991]
 
@@ -170,7 +170,7 @@ PRELIMINARY
 
 “practising certificate” means an annual certificate issued under section 18 authorising the holder thereof to engage in professional engineering work in Singapore;
 
-“President” means the President of the Board appointed under section 4(2)(a);
+“President” means the President of the Boardappointed under section 4(2)(a);
 
 “previous Board” means the Professional Engineers Board established under section 3 of the repealed Act;
 
@@ -188,7 +188,7 @@ PRELIMINARY
 
 “Registrar” means the Registrar of the Board appointed under section 9;
 
-“repealed Act” means the Professional Engineers Act [Cap. 253, 1985 Ed.] repealed by this Act;
+“repealed Act” means the Professional Engineers Act [Cap. 253, 1985 Ed] repealed by this Act;
 
 “rules” means rules made by the Board under section 36;
 
@@ -212,7 +212,7 @@ PROFESSIONAL ENGINEERS BOARD
 
 (a) a President who shall be appointed from among the registered professional engineers;
 
-(b) 3 registered professional engineers selected from a list of not less than 4 registered professional engineers submitted by the Council of the Institution of Engineers Singapore;
+(b) 3 registered professional engineers selected from a list of not less than 4 registered professional engineers submitted by the Council of the Institution of Engineers, Singapore;
 
 (c) such other registered professional engineers, not being more than 5, as the Minister may from time to time determine; and
 
@@ -340,11 +340,13 @@ PRIVILEGES OF PROFESSIONAL ENGINEERS
 
 ### Illegal practice
 
-10\.—(1) Subject to the provisions of this Act, no person shall engage in any professional engineering work in Singapore or draw or prepare any plan, sketch, drawing, design, specification or other document relating to any professional engineering work in Singapore unless at the time of so doing the person is —
+10\.—(1) Subject to the provisions of this Act, no person shall engage in any professional engineering work in Singapore or draw or prepare any plan, sketch, drawing, design, specification or other document relating to any professional engineering work in Singapore unless the person is —
 
 (a) a registered professional engineer who has in force a practising certificate authorising him to engage in such professional engineering work; or
 
 (b) under the direction or supervision of a registered professional engineer who has in force a practising certificate authorising the professional engineer to engage in such professional engineering work.
+
+[Act 4/95 wef 01/04/1995]
 
 (2) Subject to the provisions of this Act, no person shall sign and submit to a building authority —
 
@@ -352,7 +354,9 @@ PRIVILEGES OF PROFESSIONAL ENGINEERS
 
 (b) any report on or a certificate or other document relating to any professional engineering work in Singapore which is required by any written law to be signed by a professional engineer,
 
-unless at the time of so doing the person is a registered professional engineer who has in force a practising certificate authorising him to engage in such professional engineering work; and any document that is signed in contravention of this subsection shall be invalid.
+unless the person is a registered professional engineer who has in force a practising certificate authorising him to engage in such profession engineering work; and any document that is signed in contravention of this subsection shall be invalid.
+
+[Act 4/95 wef 01/04/1995]
 
 (3) Subject to the provisions of this Act, no person shall use verbally or otherwise —
 
@@ -362,19 +366,25 @@ unless at the time of so doing the person is a registered professional engineer 
 
 (c) any word, name or designation that will lead to the belief that the person is a registered professional engineer,
 
-unless at the time of so doing the person is a registered professional engineer.
+unless the person is a registered professional engineer.
 
-(4) Subject to the provisions of this Act, no person shall advertise or hold himself out or conduct himself in any way or by any means as a person who is authorised to supply professional engineering services in Singapore, unless at the time of so doing the person is a registered professional engineer who has in force a practising certificate, a licensed corporation, a licensed partnership or a partnership consisting wholly of registered professional engineers:
+[Act 4/95 wef 01/04/1995]
+
+(4) Subject to the provisions of this Act, no person shall advertise or hold himself out or conduct himself in any way or by any means as a person who is authorised to supply professional engineering services in Singapore, unless the person is a registered professional engineer who has in force a practising certificate, a licensed corporation, a licensed partnership or a partnership consisting wholly of registered professional engineers:
 
 Provided that nothing in this subsection shall apply to prevent a corporation that ceases to have in force a licence from carrying on any activity necessary to the winding up of the corporation .
 
-(5) Subject to the provisions of this Act, no person shall supply professional engineering services in Singapore unless at the time of so doing the person is —
+[Act 4/95 wef 01/04/1995]
+
+(5) Subject to the provisions of this Act, no person shall supply or offer to supply professional engineering services in Singapore unless the person is —
 
 (a) a registered professional engineer who has in force a practising certificate authorising him to engage in professional engineering work to which those services relate and is doing so on his own account or as a partner in a licensed partnership or partnership consisting wholly of registered professional engineers;
 
-(b) an allied professional and is doing so only by reason of being a partner in a licensed partnership; or
+(b) an allied professional and is doing so only by reason of being a partner in a licensed partnership ; or
 
 (c) a licensed corporation .
+
+[Act 4/95 wef 01/041995]
 
 (6) Any person who contravenes subsection (1), (2), (3), (4) or (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a second or subsequent offence, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.
 
@@ -386,9 +396,11 @@ Provided that nothing in this subsection shall apply to prevent a corporation th
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 and, in the case of a second or subsequent offence, to a fine not exceeding $5,000.
 
-### Remuneration for professional engineering services
+### Establishment for massage deemed to be public place
 
-12\. Subject to the provisions of this Act, no person shall be entitled to recover in any court any charge, fee or remuneration for any professional engineering services rendered in Singapore unless the person rendering such services is authorised by this Act to supply those services.
+12\. For the purposes of section 14(1) of the Liquor Control (Supply and Consumption) Act 2015, every establishment for massage shall be deemed to be a public place.
+
+[Act 5 of 2015 wef 01/04/2015]
 
 ### Minor building works
 
@@ -414,7 +426,7 @@ REGISTRATION OF PROFESSIONAL ENGINEERS
 
 ### Qualifications for registration as professional engineers
 
-15\.—(1) Subject to this section, the following persons shall, on payment of the prescribed fee, be entitled to registration under this Act as professional engineers:
+15\.—(1) Subject to this section the following persons shall, on payment of the prescribed fee, be entitled to registration under this Act as professional engineers:
 
 (a) any person holding the Degree of Bachelor of Engineering from the National University of Singapore, the Nanyang Technological University or the University of Singapore;
 
@@ -476,7 +488,9 @@ and the Board shall, subject to subsection (4), thereupon issue to the registere
 
 (4) The Board may refuse to issue a practising certificate if —
 
-(a) the applicant is an undischarged bankrupt or a receiving order in bankruptcy is in force against him;
+(a) the applicant is an undischarged bankrupt;
+
+[Act 15/95 wef 15/07/1995 vide S 268/95]
 
 (b) the applicant has entered into a composition with his creditors or a deed of arrangement for the benefit of his creditors;
 
@@ -520,15 +534,11 @@ MULTI-DISCIPLINE AND CORPORATE PRACTICE
 
 (b) at least $1 million of its authorised capital is bona fide paid-up;
 
-(c) the articles of association of the corporation provide that no person other than a registered professional engineer or an allied professional shall be a director of the corporation;
+(c) the articles of association of the corporation provide that the chairman and at least two-thirds of the directors of the corporation shall be registered professional engineers or allied professionals;
 
-(d) not less than two-thirds, or such lower proportion as the Minister may specify in relation to any particular corporation, of each class of shares of the corporation shall be beneficially owned by and registered in the names of —
+[Act 4/95 wef 01/04/1995]
 
-(i) registered professional engineers; or
-
-(ii) registered professional engineers and allied professionals,
-
-who are either directors, managers or employees of the corporation;
+(d) [Deleted by Act 4/95 wef 01/04/1995]
 
 (e) the business of the corporation, so far as it relates to such professional engineering work in Singapore, will be under the control and management of a director of the corporation who —
 
@@ -536,23 +546,33 @@ who are either directors, managers or employees of the corporation;
 
 (ii) has in force a practising certificate authorising him to engage in such professional engineering work; and
 
-(iii) is a registered owner of at least one share of the corporation; and
+(iii) [Deleted by Act 4/95 wef 01/04/1995]
 
 (f) the corporation is insured against professional liability in accordance with section 24 and the rules.
 
 (2) Subject to the provisions of this Act, the Board may grant a licence to any unlimited corporation to supply any professional engineering services in Singapore if —
 
-(a) the requirements specified in subsection (1)(a) and (c) are complied with;
+(a) the memorandum of association of the corporation provides that a primary object of the corporation is to supply such professional engineering services;
 
-(b) the articles of association of the corporation provide that any person who is neither a registered professional engineer nor an allied professional, or is a nominee of such a person, or is not a director, manager or employee of the corporation, shall not be registered as a member of that corporation; and
+(b) the articles of association of the corporation provide that —
+
+(i) no person shall be a director of the corporation unless he is a registered professional engineer or an allied professional; and
+
+(ii) no person shall be registered as a member of that corporation —
+
+(A) unless he is a registered professional engineer or an allied professional and a director, a manager or an employee of the corporation; or
+
+(B) if he is a nominee of a person who is not a registered professional engineer or an allied professional; and
 
 (c) the business of the corporation, so far as it relates to professional engineering work, will be under the control and management of a director of the corporation who —
 
-(i) is a registered professonal engineer ordinarily resident in Singapore;
+(i) is a registered professional engineer ordinarily resident in Singapore;
 
 (ii) has in force a practising certificate authorising him to engage in such professional engineering work; and
 
 (iii) is a member, or a registered owner of at least one share, of the corporation.
+
+[Subst. by Act 4/95 wef 01/04/1995]
 
 (3) Subject to the provisions of this Act, the Board may grant to any partnership not consisting wholly of registered professional engineers a licence to supply any professional engineering services in Singapore if —
 
@@ -560,15 +580,19 @@ who are either directors, managers or employees of the corporation;
 
 (b) the business of the partnership, so far as it relates to professional engineering work in Singapore, will be under the control and management of a partner who —
 
-(i) is a registered professional engineer ordinarily resident in Singapore; and
+(i) is a registered professional engineerordinarily resident in Singapore; and
 
 (ii) has in force a practising certificate authorising the partner to engage in such professional engineering work.
 
 (4) Subject to the provisions of this Act, the Board may grant to any corporation or partnership a licence to supply any professional engineering services in Singapore if the corporation or partnership has in force a licence granted under section 20 of the Architects Act [Cap. 12] or section 17 of the Land Surveyors Act [Cap. 156] and —
 
-(a) in the case of an unlimited corporation, the corporation complies with the requirements set out in subsections (1)(c) and (2)(b) and (c);
+(a) in the case of an unlimited corporation, the corporation complies with the requirements set out in subsection (2)(b) and (c);
 
-(b) in the case of any other corporation, the corporation complies with the requirements set out in subsection (1)(b), (c), (d)(ii), (e) and (f); or
+[Act 4/95]
+
+(b) in the case of any other corporation, the corporation complies with the requirements set out in subsection (1)(b), (c), (e) and (f); or
+
+[Act 4/95]
 
 (c) in the case of a partnership, the partnership complies with the requirements set out in subsection (3).
 
@@ -582,21 +606,27 @@ who are either directors, managers or employees of the corporation;
 
 ### Conditions of licence to practise
 
-21\.—(1) It shall be a condition of every licence granted to any corporation or partnership that the corporation or partnership shall supply professional engineering services in Singapore only under the control and management of a registered professional engineer ordinarily resident in Singapore who has in force a practising certificate authorising him to engage in professional engineering work to which those services relate and who is —
+21\.—(1) It shall be a condition of every licence granted to any corporation or partnership that the corporation or partnership shall supply professional engineering services in Singapore only under the control and management of a registered professional engineer who —
 
-(a) a director of the corporation and —
+(a) is ordinarily resident in Singapore; and
 
-(i) in the case of a corporation which has a share capital, a registered owner of at least one share of the corporation; or
+(b) has in force a practising certificate authorising him to engage in professional engineering work to which those services relate,
 
-(ii) in the case of a corporation without any share capital, a member of the corporation; or
+and who is —
 
-(b) a partner of the partnership.
+(i) is the case of a corporation other than an unlimited corporation, a director of the corporation;
 
-(2) It shall be a condition of every licence granted to any corporation (other than an unlimited corporation) that the corporation shall not supply professional engineering services in Singapore unless —
+(ii) in the case of an unlimited corporation which has a share capital, a director and registered owner of at least one share of the corporation;
 
-(a) the corporation is insured in respect of professional liability in accordance with section 24 and the rules; and
+(iii) in the case of an unlimited corporation which does not have any share capital, a director and member of the corporation; or
 
-(b) not less than two-thirds, or such lower proportion as the Minister may specify in relation to the corporation under section 20(1)(d), of each class of shares of the corporation are beneficially owned by and registered in the names of registered professional engineers, or registered professional engineers and allied professionals, who are either directors, managers or employees of the corporation.
+(iv) in the case of a partnership, a partner thereof.
+
+[Act 4/95 wef 01/04/1995]
+
+(2) It shall be a condition of every licence granted to any corporation, other than an unlimited corporation, that the corporation shall not supply professional engineering services in Singapore unless the corporation is insured in respect of professional liability in accordance with section 24 and the rules.
+
+[Act 4/95 wef 01/04/1995]
 
 (3) Without prejudice to subsections (1) and (2), the Board may grant a licence subject to such other conditions as it thinks fit and may at any time vary any existing conditions (other than those specified in subsections (1) and (2)) of such a licence or impose additional conditions thereto.
 
@@ -738,7 +768,7 @@ has a beneficial interest in the capital assets and profits of the partnership;
 
 (f) the corporation or partnership has contravened any provision of the prescribed code of professional conduct and ethics;
 
-(g) the corporation or partnership has contravened or failed to comply with section 22, 23 or 24, or has been convicted of an offence under this Act;
+(g) the corporation or partnership has contravened or failed to comply with section 22, 23 or 24 or has been convicted of an offence under this Act;
 
 (h) the conduct of any director, manager or employee of the corporation, or any partner or employee of the partnership, affords grounds for believing that the corporation or partnership, as the case may be, will not supply professional engineering services in Singapore in accordance with any written law and with honesty and integrity; or
 
@@ -758,7 +788,7 @@ has a beneficial interest in the capital assets and profits of the partnership;
 
 (b) the corporation or partnership concerned shall, as from the date of the notice, cease to supply professional engineering services in Singapore except as may be approved by the Board for the purpose of winding up its business.
 
-(7) Subsection (6)(b) shall not prejudice the enforcement by any person of any right or claim against the corporation or partnership or by the corporation or partnership of any right or claim against any person.
+(7) Subsection (6) (b) shall not prejudice the enforcement by any person of any right or claim against the corporation or partnership or by the corporation or partnership of any right or claim against any person.
 
 ### Appeals
 
@@ -800,7 +830,7 @@ GENERAL
 
 ### Powers of Board and Investigation Committee to require attendance of witnesses, etc.
 
-33\.—(1) For the purposes of any investigation by an Investigation Committee or any hearing under section 27 or 29 by the Board, the Investigation Committee or the Board may —
+33\.—(1) For the purposes of any investigation by Investigation Committee or any hearing under section 27 or 29 by the Board, the Investigation Committee or the Board may —
 
 (a) require evidence to be given on oath and for that purpose the Chairman of the Investigation Committee or the President or other member of the Board presiding at the hearing may administer an oath; and
 
@@ -810,7 +840,7 @@ GENERAL
 
 (a) to attend and give evidence when required to do so by the Investigation Committee or the Board;
 
-(b) or to answer truly and fully any question put to him by a member of the Investigation Committee or the Board; or
+(b) to answer truly and fully any question put to him by a member of the Investigation Committee or the Board; or
 
 (c) to produce to the Investigation Committee or the Board any book, document or paper required of him,
 
@@ -834,7 +864,7 @@ by making or producing or causing to be made or produced any false or fraudulent
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
 
-35\. Where a corporation, partnership or unincorporated association of persons is guilty of an offence under this Act and that offence is proved to have been committed with the authority, consent or connivance of any director, manager, partner, secretary or other similar officer of the corporation, partnership or association or any person who was purporting to act in any such capacity, he, as well as the corporation, partnership or association, shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+35\. Where a corporation, partnership, or unincorporated association of persons is guilty of an offence under this Act and that offence is proved to have been committed with the authority, consent or connivance of any director, manager, partner, secretary or other similar officer of the corporation, partnership or association or any person who was purporting to act in any such capacity, he, as well as the corporation, partnership or association, shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
 
 36\.—(1) The Board may, with the approval of the Minister, make rules for carrying out the purposes of this Act and for any matter which is required under this Act to be prescribed.
 
@@ -926,7 +956,7 @@ SAVINGS AND TRANSITIONAL PROVISIONS
 
 Section 14(2).
 
-Exempt classes of persons
+Exempt Classes of Persons
 
 1\. Certificated officers under the Merchant Shipping Act [Cap. 179].
 
@@ -940,7 +970,7 @@ Professional Engineers Act
 
 (CHAPTER 253)
 
-This Legislative History is provided for the convenience of users of the Professional Engineers Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Massage Establishments Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -952,3 +982,8 @@ This Legislative History is provided for the convenience of users of the Profess
 ||Date of commencement|30 August 1991|
 |2.|**1992 Revised Edition—Professional Engineers Act**|
 ||Date of operation|9 March 1992|
+|3.|**Act 4 of 1995—Professional Engineers (Amendment) Act 1995**|
+||Date of First Reading|5 December 1994|
+|||(Bill No. 35/1994 published on 6 December 1994)|
+||Date of Second and Third Readings|23 January 1995|
+||Date of commencement|1 April 1995|
