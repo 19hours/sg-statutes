@@ -638,67 +638,157 @@ Part I
 
 Essential Services
 
-1\. Air Traffic Control and Civil Aviation (Operations) services provided by the Civil Aviation Authority of Singapore.
+1. Banking services, including services relating to transactions in securities and futures contracts.
 
-2\. Banking services.
+[S 31/2000 wef 24/01/2000]
 
-3\. Broadcasting and television services.
+2. Broadcasting services.
 
-4\. Bulk distribution of fuel and lubricants.
+[S 31/2000 wef 24/01/2000]
 
-5\. Drug enforcement services provided by the Central Narcotics Bureau.
+3. Bulk distribution of fuel and lubricants.
 
-6\. Electricity services.
+[S 31/2000 wef 24/01/2000]
 
-7\. Fire services, including Airport Fire and Rescue Services.
+4. Civil defence services.
 
-8\. Gas services.
+[S 31/2000 wef 24/01/2000]
 
-9\. Information services (including newspapers) and undertakings.
+5. Clearing and settlement services relating to transactions in securities and futures contracts.
 
-10\. Port, dock and harbour services and undertakings.
+[S 31/2000 wef 24/01/2000]
 
-11\. Postal and telecommunication services and undertakings.
+6. Drug enforcement services provided by the Central Narcotics Bureau.
 
-12\. Prison services.
+[S 31/2000 wef 24/01/2000]
 
-13\. Public transport and air services.
+7. Electricity services and undertakings, including meter reading and billing, provided by any public electricity licensee licensed under the Public Utilities Act (Cap. 261).
 
-14\. Public health services including services engaged in the collection of blood for the use of hospitals and the pharmaceutical services under the Ministry of Health.
+[S 31/2000 wef 24/01/2000]
 
-15\. Refuse or waste collection services provided by public waste collector licensees under the Environmental Public Health Act (Cap.95).
+8. Fire services, including rescue and fire-fighting services provided by the Civil Aviation Authority of Singapore.
 
-16\. Water services.
+[S 31/2000 wef 24/01/2000]
 
-17\. Pollution control and environmental monitoring and assessment services provided by the Ministry of the Environment.
+9. Gas services provided by any public gas licensee licensed under the Public Utilities Act (Cap. 261).
 
-18\. Weather information provided by the Meteorological Service Department of the Ministry of Communications.
+[S 31/2000 wef 24/01/2000]
 
-19. The following undertakings performed by the subsidiaries of the Singapore Technologies Holdings Pte. Ltd. for the Singapore Armed Forces:
+10. Immigration and registration services.
 
-(a) the design, development, production, manufacture, supply, transport, delivery, repair and maintenance of weapon systems (including military aircraft, ships and vehicles, arms, explosives, computer hardware and software and other military equipment) and spares and components thereof;
+[S 31/2000 wef 24/01/2000]
 
-(b) the supply, transport and delivery of rations, military supplies and construction materials; and
+11. Information services and undertakings provided by the Ministry of Information and the Arts and its agencies.
 
-(c) the construction, maintenance and repair of military installations.
+[S 31/2000 wef 24/01/2000]
 
-20. All undertakings of whatever nature of —
+12. Juvenile rehabilitation services provided by the Ministry of Community Development.
+
+[S 31/2000 wef 24/01/2000]
+
+13. Newspaper services.
+
+[S 31/2000 wef 24/01/2000]
+
+14. Pollution control and environmental monitoring and assessment services provided by the Ministry of the Environment.
+
+[S 31/2000 wef 24/01/2000]
+
+15. Port, dock and harbour services and undertakings.
+
+[S 31/2000 wef 24/01/2000]
+
+16. Postal and telecommunication services and undertakings.
+
+[S 31/2000 wef 24/01/2000]
+
+17. Prison services.
+
+[S 31/2000 wef 24/01/2000]
+
+18. Public health services including services relating to the collection of blood for the use of hospitals and the pharmaceutical services under the Ministry of Health.
+
+[S 31/2000 wef 24/01/2000]
+
+19. Public transport and air transport services.
+
+[S 31/2000 wef 24/01/2000]
+
+20. Refuse or waste collection services provided by any public waste collector licensee licensed under the Environmental Public Health Act (Cap. 95).
+
+[S 31/2000 wef 24/01/2000]
+
+21. Services provided by the Air Traffic Controllers and the Operations and Licensing Assistants of the Civil Aviation Authority of Singapore.
+
+[S 31/2000 wef 24/01/2000]
+
+22. Services relating to transactions in securities and future contracts provided by dealers licensed under the Securities Industry Act (Cap. 289) and by futures brokers licensed under the Futures Trading Act (Cap. 116) respectively.
+
+[S 31/2000 wef 24/01/2000]
+
+23. Sewerage and waste water treatment services.
+
+[S 31/2000 wef 24/01/2000]
+
+24. Veterinary public health services provided by the Primary Production Department, including the inspection of primary food (meat and meat product, fish and fish product, egg, raw milk, fruit and vegetable) at the point of import and before distribution to retail.
+
+[S 31/2000 wef 24/01/2000]
+
+25. Water services.
+
+[S 31/2000 wef 24/01/2000]
+
+26. Water reclamation services.
+
+[S 31/2000 wef 24/01/2000]
+
+27. Weather information provided by the Meteorological Service Department of the Ministry of Communications and Information Technology.
+
+[S 31/2000 wef 24/01/2000]
+
+28. The following undertakings performed for the Singapore Armed Forces:
+
+(a) the design, development, production, manufacture, supply, transport, delivery, repair and maintenance of weapon systems (including military aircraft, ships, submarines and vehicles, arms, explosives, computer hardware and software and other military equipment) and spares and components thereof;
+
+(b) the construction, maintenance and repair of military installations;
+
+(c) the land, air and sea transportation of military personnel and equipment;
+
+(d) the management and the operation of warehouses, military retail outlets, storehouses, ferry terminals, cookhouses and camp complexes;
+
+(e) the security functions performed at military installations or buildings;
+
+(f) the supply, transport and delivery of military supplies including rations and construction materials; and
+
+(g) the surveillance, testing and disposal of ammunition.
+
+[S 31/2000 wef 24/01/2000]
+
+29. All undertakings of whatever nature of —
 
 (a) the Board of Commissioners of Currency, Singapore;
 
-(b) the CISCO Security Technology Pte. Ltd.;
+(b) the CISCO Brambles Records Management Pte. Ltd.;
 
-(c) the Imports and Exports Office of the Trade Development Board;
+(c) the CISCO Security Technology Pte. Ltd.;
 
-(d) the Singapore Mint Private Ltd.;
+(d) the Customs and Excise Department;
 
-(e) the SNP Printing Pte Ltd and the SNP Security Printing Pte Ltd.;
+(e) the Imports and Exports Office of the Trade Development Board;
 
-(f) the Singapore Network Systems Pte. Ltd.;
+(f) the Singapore International Monetary Exchange Ltd.;
 
-(g) the Thomas De La Rue (Singapore) Pte. Ltd.
+(g) the Singapore Mint Pte. Ltd.;
 
-[S 121/71; S 6/77; S 43/77; S 245/79; S 99/85; S 178/86; S 278/94; S 451/96; S 503/96]
+(h) the Singapore Network Systems Pte. Ltd.;
+
+(i) the SNP Printing Pte. Ltd. and the SNP Security Printing Pte. Ltd.;
+
+(j) the Singapore Exchange Securities Trading Ltd.; and
+
+(k) the Thomas De La Rue (Singapore) Pte. Ltd.
+
+[S 31/2000 wef 24/01/2000]
 
 Part II
 
@@ -895,3 +985,5 @@ This Legislative History is provided for the convenience of users of the Crimina
 |||(Bill No. 12/1999 published on 12 March 1999)|
 ||Date of Second and Third Readings|15 April 1999|
 ||Date of commencement|21 October 1999|
+|39.|**G. N. No. S 31/2000—Criminal Law (Temporary Provisions) Act (Amendment of First Schedule) Notification 2000**|
+||Date of commencement|24 January 2000|
