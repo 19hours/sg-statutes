@@ -196,7 +196,9 @@ Provided that —
 
 (i) where the President is satisfied that such an officer is physically or mentally incapacitated so as to be unable to continue in any employment before he has attained the minimum age of retirement applicable to him, he may be granted a pension, gratuity or other allowance with effect from the date he satisfies the President that he is so physically or mentally incapacitated; or
 
-(ii) where such an officer dies before he has attained the minimum age of retirement applicable to him, his dependants or legal personal representatives may be paid a gratuity in accordance with section 16; or
+(ii) where such an officer dies before he has attained the minimum age of retirement applicable to him, his dependants or legal personal representatives may be paid a gratuity in accordance with section 16(2A); or
+
+[12/1995 wef 01/01/1995]
 
 (b) any officer who, not being an officer to whom paragraph (a) applies, having either completed 15 years public service or attained the age of 40 years and completed 10 years public service, has retired with the permission of the Chief Secretary, granted before 1st September 1958 in order to be nominated as a candidate for election as a member of the Legislative Assembly or of any local government authority in Singapore.
 
@@ -206,7 +208,9 @@ Provided that —
 
 (a) where the President is satisfied that such an officer is physically or mentally incapacitated so as to be unable to continue in any employment before he has attained the minimum age, he may be granted a pension, gratuity or other allowance with effect from the date he satisfies the President that he is so physically or mentally incapacitated;
 
-(b) where an officer dies before he has attained the minimum age, his dependants or legal personal representatives may be paid a gratuity in accordance with section 16;
+(b) where an officer dies before he has attained the minimum age, his dependants or legal personal representatives may be paid a gratuity in accordance with section 16(2A);
+
+[12/1995 wef 01/01/1995]
 
 (c) no right shall accrue in respect of any pension, gratuity or other allowance during the period such pension, gratuity or other allowance has been suspended.
 
@@ -232,9 +236,11 @@ Provided that —
 
 [26/86]
 
-(2) Where in the exercise of its powers of disciplinary control over public officers the Public Service Commission has ordered an officer to be retired in the public interest, the officer’s service shall be deemed to have been terminated under subsection (1).
+(2) Where in the exercise of its powers of disciplinary control over public officers the Public Service Commission, Legal Service Commission, Education Service Commission or the Police and Civil Defence Services Commission, as the case may be, has ordered an officer to be retired in the public interest, the officer’s service shall be deemed to have been terminated under subsection (1).
 
 [26/86]
+
+[12/1995 wef 01/01/1995]
 
 ### Compulsory retirement
 
@@ -314,15 +320,37 @@ Provided always that it shall be lawful for the President on being satisfied tha
 
 16\.—(1) Where an officer dies in the public service in Singapore, there shall be paid to such of his dependants as the President may think fit, or if there are no dependants, to his legal personal representative, a gratuity —
 
-(a) in the case of an officer holding a pensionable office who has not exercised an option mentioned in section 3(2), of an amount equal to 1/120 of one year’s pensionable emoluments for each complete month of service but such gratuity shall not be less than one year’s or more than 3 years’ pensionable emoluments;
+(a) in the case of an officer holding a pensionable office who has not exercised an option mentioned in section 3(2), of an amount equal to one of the following capital sums:
+
+(i) where the officer has attained the minimum age at the time of his death — an amount ascertained by multiplying the relevant commutation factor by the amount of such pension that may have been granted to the officer under this Act if the officer had retired on the date of his death in the circumstances described in section 7(2)(c); or
+
+(ii) where the officer has not attained the minimum age at the time of his death — the amount ascertained in accordance with sub-paragraph (i), from which amount there shall be a discount at the relevant discount rate in respect of each year or part thereof falling between the date of his death and the date he would have attained his minimum age had he not died (both dates inclusive),
+
+but such gratuity shall in no case be less than one year’s pensionable emoluments;
+
+[12/1995 wef 01/01/1995]
+
+(aa) in the case of a Gurkha serving in the Gurkha Contingent of the Singapore Police Force, of an amount equal to1/
+
+120
+
+of one year’s pensionable emoluments for each complete month of service but such gratuity shall not be less than one year’s or more than 3 years’ pensionable emoluments;
+
+[12/1995 wef 01/01/1995]
 
 (b) in the case of an officer holding a pensionable office who has exercised an option mentioned in section 3(2), one year’s salary as at the date immediately prior to his option taking effect or the commuted pension gratuity which might have been granted to the officer if he had retired at the date of his death in the circumstances described in section 7(2)(c), whichever is the greater;
 
 (c) in any other case one year’s salary or his commuted annual allowance gratuity, whichever is the greater.
 
-(2) Where an officer who has retired from the public service in Singapore dies within one year of his retirement, there shall be paid to such of his dependants as the President may think fit, or if there are no dependants, to his legal personal representative, a gratuity of an amount equal, in the case of an officer holding a pensionable office who has not exercised an option mentioned in section 3(2), to one year’s pensionable emoluments and, in any other case, to one year’s salary, from which gratuity there shall be deducted the amount of the gratuity, if any, which has been paid or is payable under this Act or any regulations made thereunder and any payment or payments of pension or allowance, other than any allowance granted in respect of an injury, which may already have been made.
+(2) Where an officer who has retired from the public service in Singapore dies within one year of his retirement, or where a retired officer, being an officer who opted under any regulations made under this Act to receive a full pension without any gratuity and whose pension had been suspended pursuant to section 7(4), dies within one year of his pension taking effect, there shall be paid to such of his dependants as the President may think fit, or if there are no dependants, to his legal personal representative, a gratuity of an amount equal, in the case of an officer holding a pensionable office who has not exercised an option mentioned in section 3(2), to one year’s pensionable emoluments and, in any other case, to one year’s salary, from which gratuity there shall be deducted the amount of the gratuity, if any, which has been paid or is payable under this Act or any regulations made thereunder and any payment or payments of pension or allowance, other than any allowance granted in respect of an injury, which may already have been made.
 
-(3) A gratuity (except for commuted annual allowance gratuity) to be granted under subsection (1) or (2) shall be reduced —
+[12/1995 wef 01/01/1995]
+
+(2A) Notwithstanding subsection (2), where an officer whose pension, gratuity or other allowance is suspended pursuant to section 7(4) dies before his pension, gratuity or allowance takes effect (whether or not within one year of his retirement), there shall be paid to such of his dependants as the President may think fit, or if there are no dependants, to his legal personal representative, a gratuity of an amount ascertained by multiplying the relevant commutation factor by the amount of such pension that may have been granted to the officer under this Act, from which amount there shall be a discount at the relevant discount rate in respect of each year or part thereof falling between the date he would have attained his minimum age had he not died and the date of his death (both dates inclusive), but such gratuity shall in no case be less than one year’s pensionable emoluments.
+
+[12/1995 wef 01/01/1995]
+
+(3) A gratuity (except for commuted annual allowance gratuity) to be granted under subsection (1), (2) or (2A) shall be reduced —
 
 (a) in the case of an officer transferred to the service of the Government from the service of an authority mentioned in Part II of the Second Schedule under any written law for the time being in force providing that service with that authority shall be deemed to have been service with the Government for the purposes of this Act —
 
@@ -332,13 +360,39 @@ Provided always that it shall be lawful for the President on being satisfied tha
 
 (b) in the case of an officer not transferred to the service of the Government from the service of an authority as aforesaid and not in the public service on 31st March 1962, by the total amount paid by the Government to the Central Provident Fund, excluding the amount paid on account of the officer if he is on the pensionable establishment with respect to his public service or an equivalent amount if he is not on the pensionable establishment with respect to his public service.
 
+[12/1995 wef 01/01/1995]
+
 (4) For the purposes of this section —
 
 “one year’s salary” means the emoluments which would be taken for the purpose of computing any allowance or gratuity, or in the case of an officer holding a pensionable office who has exercised an option mentioned in section 3(2) any pension, which may be granted to the officer if he had retired at the date of his death in the circumstances described in section 7(2)(c);
 
-“commuted annual allowance gratuity” means the gratuity which might have been granted to the officer under any regulation providing for the grant of a reduced annual allowance and a gratuity, if his public service had been wholly in Singapore and if he had retired at the date of his death in the circumstances described in section 7(2)(c); and for the purpose of calculating the same the officer shall be deemed to have elected to be paid an annual allowance at the rate of three-fourths of the annual allowance granted to him.
+“commuted annual allowance gratuity” means the gratuity which might have been granted to the officer under any regulation providing for the grant of a reduced annual allowance and a gratuity, if his public service had been wholly in Singapore and if he had retired at the date of his death in the circumstances described in section 7(2)(c); and for the purpose of calculating the same the officer shall be deemed to have elected to be paid an annual allowance at the rate of three-fourths of the annual allowance granted to him;
+
+“commutation factor” means 175.14 or such other factor as the President, by order in theGazette, prescribes in variation thereof;
+
+[12/1995 wef 01/01/1995]
+
+“discount rate” means 5 per cent or such other rate as the President, by order in theGazette, prescribes in variation thereof;
+
+[12/1995 wef 01/01/1995]
+
+“minimum age” has the same meaning given to it by section 7(5);
+
+[12/1995 wef 01/01/1995]
+
+“pensionable emoluments”, in relation to an officer who had exercised an option mentioned in section 3(2), means his pensionable emoluments at the date immediately prior to his option taking effect;
+
+[12/1995 wef 01/01/1995]
+
+“relevant commutation factor” and “relevant discount rate”, in relation to an officer or a retired officer, mean the commutation factor and discount rate, respectively, in force on either the date of the officer’s death or his appointment to the public service in Singapore, whichever is the more favourable; and for this purpose, all officers appointed to the public service in Singapore before 1st January 1995 shall be deemed to be appointed to the public service in Singapore on that date.
 
 [26/86]
+
+[12/1995 wef 01/01/1995]
+
+(5) This section shall apply to all officers appointed to the public service in Singapore, whether appointed before or after 1st April 1986.
+
+[12/1995 wef 01/01/1995]
 
 ### Gratuity to women officers retiring on account of marriage
 
@@ -688,13 +742,15 @@ Pensions granted for whole-time and part-time service
 
 Gratuity and reduced pension
 
-15.—(1) Subject to this regulation, an officer to whom a pension is granted under the Act may —
+15.—(1) Subject to this regulation, a Gurkha serving in the Gurkha Contigent of the Singapore Police Force (referred to in this regulation as an officer) to whom a pension is granted under the Act may —
 
 (a) in the case of an officer retiring before 7th December 1984, be paid a reduced pension at the rate of 3/4ths of such pension together with a commuted pension gratuity equal to 12½ times the annual value of the reduction so made in the pension;
 
 (b) in the case of an officer retiring on or after 7th December 1984, be paid a reduced pension together with a commuted pension gratuity of an amount equal to 1/120th of his one year’s pensionable emoluments in respect of each complete month of pensionable service subject to a maximum of his pensionable emoluments for 3 years.
 
 [S 318/84]
+
+[S 19/1995 wef 01/01/1995]
 
 (2) The reduced pension to be granted under paragraph (1) (b) shall be the amount of his annual pension less 2/25ths of the gratuity granted to him.
 
@@ -711,6 +767,72 @@ Full pension
 Provided that if the officer has not exercised the option prior to the day preceding the date of his retirement, the President may, if it appears in the circumstances equitable to do so, allow the officer to exercise the option at any time between that date and the date of award of a pension to him.
 
 (6) If an officer who has exercised the option under paragraph (4) dies after he has finally retired but before a pension has been awarded to him, it shall be lawful for the President to grant a gratuity and a reduced pension, as if the officer before his death had not exercised the option.
+
+Pension options
+
+15A.—(1) Subject to these Regulations, an officer to whom a pension is granted under the Act may, at his option exercisable in accordance with this regulation, be paid —
+
+(a) in the case of an officer appointed before and retiring on or after 1st January 1995 —
+
+(i) a full pension without any gratuity;
+
+(ii) a reduced pension together with a gratuity ascertained in accordance with regulation 15B; or
+
+(iii) a commuted pension gratuity ascertained in accordance with regulation 15B without any pension; or
+
+(b) in the case of an officer appointed on or after 1st January 1995 —
+
+(i) a full pension without any gratuity; or
+
+(ii) a commuted pension gratuity ascertained in accordance with regulation 15B without any pension.
+
+(2) The option shall be exercisable not later than the day immediately preceding the date of the officer’s retirement, except that if the officer has not exercised the option prior to the day preceding the date of his retirement, the President may, if it appears in the circumstances equitable to do so, allow the officer to exercise the option at any time between that date and the day prior to the date of payment of a pension or gratuity to him.
+
+(3) If an officer has exercised the option, his decision shall, subject to paragraph (5), be irrevocable so far as concerns any pension or gratuity to be granted to him under the Act.
+
+(4) An officer who has not exercised an option in accordance with this regulation shall be deemed to have opted to receive a commuted pension gratuity ascertained in accordance with regulation 15B without any pension.
+
+(5) An officer who is paid a reduced pension pursuant to his option exercised in accordance with this regulation shall, after the expiration of 12 years and 6 months from the date he was granted the reduced pension, be eligible for the full pension as if there had been no reduction.
+
+(6) Where an officer opts in accordance with this regulation to receive a commuted pension gratuity ascertained in accordance with regulation 15B, the commuted pension gratuity shall, unless suspended, be payable as follows:
+
+(a) part of the commuted pension gratuity, being a sum equal to the difference between the total amount paid by the Government to the Central Provident Fund on account of the officer with respect to his service, and the total amount payable by the Government to that Fund on account of the officer with respect to the same service if the officer had not been on the pensionable establishment, together with the interest thereon, shall be paid to the officer’s account in the Central Provident Fund; and
+
+(b) the balance of the commuted pension gratuity shall be paid to the officer,
+
+except that where the commuted pension gratuity ascertained in accordance with regulation 15B is less than the sum referred to in sub-paragraph (a), the entire commuted pension gratuity shall be paid to the officer’s account in the Central Provident Fund.
+
+(7) For the purposes of paragraph (6)(a), the reference to the total amount paid or payable by the Government to the Central Provident Fund in respect of any officer shall not include reference to any amount thereof which is recoverable from the officer’s salary pursuant to the Central Provident Fund Act [Cap. 36] or any regulations made thereunder.
+
+(8) This regulation shall not apply to a Gurkha serving in the Gurkha Contingent of the Singapore Police Force.
+
+[S 19/1995 wef 01/01/1995]
+
+Reduced pension plus gratuity and commuted pension gratuity
+
+15B.—(1) The reduced pension and gratuity referred to in regulation 15A(1) (a)(ii) shall be —
+
+(a) a reduced pension equal to the amount of his annual pension less 2/25ths of the gratuity specified in sub-paragraph (b); and
+
+(b) a gratuity equal to 1/120ths of his one year’s pensionable emoluments in respect of each complete month of pensionable service subject to a maximum of his pensionable emoluments for 3 years.
+
+(2) The commuted pension gratuity referred to in regulation 15A(1)(a)(iii) and (b)(ii) shall be —
+
+(a) a capital sum ascertained by multiplying the commutation factor by the amount of such pension that may be granted to an officer under the Act; or
+
+(b) in the case of an officer retiring before attaining his minimum age in the circumstances described in section 7(2)(e) or (i) of the Act, a capital sum ascertained in accordance with sub-paragraph (a), from which sum there shall be a discount at the relevant discount rate in respect of each year or part thereof falling between the day he will attain his minimum age and either the date of his retirement or the date to which the gratuity is suspended pursuant to section 7(4) of the Act, whichever is the later date.
+
+(3) For the purposes of this regulation —
+
+“commutation factor” means 175.14;
+
+“discount rate” means 5 per cent;
+
+“minimum age” shall have the same meaning as in section 7(5) of the Act;
+
+“relevant commutation factor” and “relevant discount rate”, in relation to an officer, mean the commutation factor and discount rate specified in this paragraph as in force on either the date of the officer’s retirement from the public service in Singapore or his appointment to such public service, whichever is the more favourable; and for this purpose, all officers appointed to the public service in Singapore before 1st January 1995 shall be deemed to be appointed to the public service in Singapore on that date.
+
+[S 19/1995 wef 01/01/1995]
 
 Case of pensioner re-employed
 
@@ -735,6 +857,12 @@ Abolition or re-organisation of office
 Provided that if such officer is not qualified for other employment in the service of Singapore or if there is no reason in the opinion of the President to expect that he can shortly be re-employed a pension may be granted to him free from the abovementioned condition.
 
 [18
+
+Application of regulations 18 to 21
+
+17A. Unless otherwise expressly provided, regulations 18 to 21 shall apply to all officers in the public service in Singapore, whether appointed before or after 1st April 1986.
+
+[S 19/1995 wef 01/01/1995]
 
 Allowance for injured officers
 
@@ -1528,7 +1656,7 @@ Pensions Act
 
 (CHAPTER 225)
 
-This Legislative History is provided for the convenience of users of the Pensions Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Pensions Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -1638,3 +1766,10 @@ This Legislative History is provided for the convenience of users of the Pension
 ||Date of commencement|15 December 1989|
 |32.|**G. N. No. S 31/1993—Pensions (Amendment) Regulations 1993**|
 ||Date of commencement|19 February 1993|
+|33.|**G. N. No. S 19/1995—Pensions (Amendment) Regulations 1995**|
+||Date of commencement|1 January 1995|
+|34.|**Act 12 of 1995—Pensions (Amendment) Act 1995**|
+||Date of First Reading|1 March 1995|
+|||(Bill No. 6/95 published on 2 March 1995)|
+||Date of Second and Third Readings|23 March 1995|
+||Date of commencement|1 January 1995|
