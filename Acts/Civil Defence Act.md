@@ -378,12 +378,7 @@ and “service ship”, “service aircraft”, and “service vehicle” shall 
 
 ## PART II
 
-CONSTITUTION, ORGANISATION AND
-
-
-
-
-ADMINISTRATION OF FORCE
+CONSTITUTION, ORGANISATION AND ADMINISTRATION OF FORCE
 
 ### Raising and maintenance of Singapore Civil Defence Force
 
@@ -413,15 +408,33 @@ ADMINISTRATION OF FORCE
 
 (g) disseminate information and advice to the public;
 
-(h) assist the public authorities to extinguish and prevent the spread of fires;
+(h) take lawful measures to extinguish and prevent the spread of fire;
+
+[39/1993 wef 29/04/1994]
 
 (i) provide, maintain, control and operate prescribed warning devices;
 
 (j) manage all shelters including air-raid shelters and temporary shelters;
 
-(k) assist the public authorities to carry out repairs to essential utilities and Government buildings; and
+(k) assist the public authorities to carry out repairs to essential utilities and Government buildings;
 
-(l) control lighting and the distribution of fresh water and other essential supplies.
+(l) control lighting and the distribution of fresh water and other essential supplies;
+
+(m) take lawful measures for protecting life and property in case of fire;
+
+[39/1993 wef 29/04/1994]
+
+(n) provide and maintain an adequate emergency ambulance service;
+
+[39/1993 wef 29/04/1994]
+
+(o) ensure effective co-ordination between the Force and other fire services in Singapore; and
+
+[39/1993 wef 29/04/1994]
+
+(p) execute such other duties as may be imposed on it by this Act or any other written law.
+
+[39/1993 wef 29/04/1994]
 
 ### Organisation
 
@@ -433,9 +446,13 @@ ADMINISTRATION OF FORCE
 
 (a) officers appointed to, and servicemen enlisted in, the Force;
 
-(b) national servicemen enlisted in the Force; and
+(b) national servicemen enlisted in the Force;
 
-(c) persons who are recruited to serve as auxiliary members.
+(c) persons who are recruited to serve as auxiliary members; and
+
+(d) public officers who are serving in the Force as engineering or technical officers.
+
+[39/1993 wef 29/04/1994]
 
 ### Administration of Force by Commissioner
 
@@ -533,7 +550,7 @@ Persons subject to this Act
 
 (4) For the purposes of subsection (2), a member shall be deemed to be on duty —
 
-(a) from the time appointed by the Commissioner for him to report to or to attend at a place specified by the Commissioner for rendering any reserve service which he is required to render under the Enlistment Act [Cap. 93] until he is duly released or discharged from that service; or
+(a) from the time appointed by the Commissioner for him to report to or to attend at a place specified by the Commissioner for rendering any reserve service which he is required to render under the Enlistment Act until he is duly released or discharged from that service; or
 
 (b) while acting or purporting to act in or with intended reference to his capacity as a member of the Force.
 
@@ -547,7 +564,7 @@ Persons subject to this Act
 
 (b) the modification of any provision so far as it relates to all or any of those classes; or
 
-(c) the addition or substitution of provisions relating to all or any of those classes.
+(c) the addition or substitution or provisions relating to all or any of those classes.
 
 ### Certain persons to remain subject to this Act
 
@@ -555,17 +572,7 @@ Persons subject to this Act
 
 Division 2 —
 
-Liability of persons subject to
-
-
-
-
-this Act to be tried and punished
-
-
-
-
-for service offences
+Liability of persons subject to this Act to be tried and punished for service offences
 
 ### Trial and punishment of person committing service offence
 
@@ -617,7 +624,7 @@ for service offences
 
 ### Persons not to be tried under this Act for offences already disposed of
 
-21\. Where a person subject to this Act has been tried for a service offence by a court or has had a service offence committed by him taken into consideration by the court in sentencing him, he shall not be liable in respect of that offence to be dealt with and punished by a disciplinary officer in pursuance of this Act.
+21\. Where a person subject to this Act has been tried for a service offence by a court or has had a service offence committed by him taken into consideration by the court in sentencing him, he shall not liable in respect of that offence to be dealt with and punished by a disciplinary officer in pursuance of this Act.
 
 ### Application of principles of Penal Code
 
@@ -1323,7 +1330,7 @@ DEDUCTIONS FROM PAY OF A MEMBER
 
 (v) for every day during which he is in hospital on account of sickness certified by the proper medical officer attending on him at the hospital to have been caused by a service offence committed by him;
 
-(b) the sum required to make good any compensation which a disciplinary officer has in exercise of the powers conferred by section 75(3) ordered him to pay to any person;
+(b) the sum required to make good any compensation which a disciplinary officer has in exercise of the powers conferred by section 75(3) ordered him to pay any person;
 
 (c) the sum to make good any compensation which a disciplinary officer has pursuant to section 75(4) ordered him to pay to the Government;
 
@@ -1509,7 +1516,7 @@ TRAINING OF CIVILIAN POPULATION IN CIVIL DEFENCE
 
 ### Protection of civil defence volunteers
 
-105\.—(1) For the purposes of the Government Proceedings Act [Cap. 121], any civil defence volunteer acting or purporting in good faith to be acting under any order or instruction given to him by a member of the Force whilst participating in any civil defence measures or whilst receiving instruction in civil defence shall be deemed to be the agent of and acting under the instructions of the Government and no act or default done or made by the civil defence volunteer in good faith whilst participating in any civil defence measure or whilst receiving instruction in civil defence shall subject him to any personal liability.
+105\.—(1) For the purposes of the Government Proceedings Act [Cap. 121], any civil defence volunteer acting or purporting in good faith to be acting under any order or instruction given to him by a member of the Force whilst participating in any civil defence measures or whilst receiving instruction in civil defence shall be deemed to be the agent of and acting under the instructions of the Government and no act or default done or made by the civil defence volunteer in good faith whilst participating in any civil defence measures or whilst receiving instruction in civil defence shall subject him to any personal liability.
 
 (2) For the purposes of subsection (1), “civil defence volunteer” means any person who has agreed to take part in civil defence measures or receives instruction in civil defence organised under the authority of the Commissioner.
 
@@ -1648,3 +1655,9 @@ This Legislative History is provided for the convenience of users of the Civil D
 ||Date of commencement|14 November 1986|
 |2.|**1985 Revised Edition—Civil Defence Act**|
 ||Date of operation|30 March 1987|
+|3.|**Act 39 of 1993—Fire Safety Act 1993**|
+||(Consequential amendments made by)||
+||Date of First Reading|12 October 1993|
+|||(Bill No. 31/93 published on 13 October 1993)|
+||Date of Second and Third Readings|10 November 1993|
+||Date of commencement|29 April 1994 (Part VI, sections 60 and 62)|
