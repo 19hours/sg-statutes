@@ -396,13 +396,21 @@ DEALINGS WITH A LAYOUT-DESIGN RIGHT
 
 ### Exercise of concurrent rights
 
-21\.—(1) Where any proceedings for infringement of a qualified owner’s right in a layout-design is brought by a qualified owner or an exclusive licensee and the proceedings relate wholly or partly to an infringement in respect of which they have concurrent rights of action, neither of them, without leave of the Court, may continue with the proceedings unless the other is joined as a plaintiff or added as a defendant.
+21\.—(1) Where the qualified owner of a right in a layout-design or an exclusive licensee brings proceedings for any infringement of a layout-design in respect of which the owner and the exclusive licensee have concurrent rights of action, the owner or the exclusive licensee, as the case may be, need not —
+
+(a) join the other as a plaintiff; or
+
+(b) add the other as a defendant,
+
+unless the Court otherwise orders.
+
+[21/2004 wef 01/07/2004]
 
 (2) A qualified owner shall, by post or otherwise, notify any exclusive licensee who has concurrent rights of action in respect of an infringement of a layout-design before applying for an order for delivery up under section 13.
 
 (3) The Court may, on the application of the exclusive licensee, make a delivery up order that the Court considers just having regard to the terms of the licence.
 
-(4) Subsection (1) shall not apply to an application by a qualified owner or exclusive licensee for interlocutory relief.
+(4) [Deleted by Act 21 of 2004 wef 01/07/2004]
 
 (5) A qualified owner or exclusive licensee who is added as a defendant under subsection (1) is not liable for costs in the proceedings unless he takes part in the proceedings.
 
@@ -516,17 +524,22 @@ Layout-Designs of Integrated Circuits Act
 
 (CHAPTER 159A)
 
-This Legislative History is provided for the convenience of users of the Layout-Designs of Integrated Circuits Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Layout-Designs of Integrated Circuits Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
 |1.|**Act 3 of 1999—Layout-Designs of Integrated Circuits Act 1999**|
-||Date of First Reading|23.11.98|
-|||(Bill No. 49/98 published on 24.11.98)|
-||Date of Second and Third Readings|20.1.99|
-||Date of commencement|15.2.99|
+||Date of First Reading|23 November 1998|
+|||(Bill No. 49/98 published on 24 November 1998)|
+||Date of Second and Third Readings|20 January 1999|
+||Date of commencement|15 February 1999|
 |2.|**2000 Revised Edition—Layout-Designs of Integrated Circuits Act**|
 ||Date of operation|30 December 2000|
+|3.|**Act 21 of 2004—Intellectual Property (Miscellaneous Amendments) Act 2004**|
+||Date of First Reading|19 May 2004|
+|||(Bill No. 20/2004 published on 20 May 2004)|
+||Date of Second and Third Readings|15 June 2004|
+||Date of commencement|1 July 2004|
 ## COMPARATIVE TABLE
 
 Layout-Designs of Integrated Circuits Act
@@ -541,9 +554,9 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 Act 3 of 1999 
 
-21 — (2) and (3)
+21 —(2) and (3)
 
-21 — (2)
+21 —(2)
 
 (4) to (7)
 
