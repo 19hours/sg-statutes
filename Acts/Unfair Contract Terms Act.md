@@ -190,13 +190,19 @@ cannot be excluded or restricted by reference to any contract term.
 
 (3) As against a person dealing otherwise than as consumer, that liability can be excluded or restricted by reference to such a term, but only in so far as the term satisfies the requirement of reasonableness.
 
+(3A) Liability for breach of the obligations arising under section 2 of the Supply of Goods Act (implied terms about title, etc., in certain contracts for the transfer of property in goods) cannot be excluded or restricted by reference to any such term.
+
+[44/1996 wef 01/01/1997]
+
 (4) Liability in respect of —
 
 (a) the right to transfer ownership of the goods, or give possession; or
 
 (b) the assurance of quiet possession to a person taking goods in pursuance of the contract,
 
-cannot be excluded or restricted by reference to any such term except in so far as the term satisfies the requirement of reasonableness.
+cannot (in a case to which subsection (3A) does not apply) be excluded or restricted by reference to any such term except in so far as the term satisfies the requirement of reasonableness.
+
+[44/1996 wef 01/01/1997]
 
 Other provisions about contracts
 
@@ -417,3 +423,9 @@ This Legislative History is provided for the convenience of users of the Unfair 
 ||Date of commencement|12 November 1993|
 |2.|**1994 Revised Edition—Unfair Contract Terms Act**|
 ||Date of operation|20 May 1994|
+|3.|**Act 44 of 1996—Supply of Goods (Amendment) Act 1996**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|28 October 1996|
+|||(Bill No. 47/95 published on 29 October 1996)|
+||Date of Second and Third Readings|7 November 1996|
+||Date of commencement|1 January 1997|
