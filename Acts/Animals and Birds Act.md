@@ -20,7 +20,9 @@
 
 - [6 Identification card to be produced](#Identification-card-to-be-produced)
 
-[**Part II IMPORTATION, TRANSHIPMENT, EXPORTATION OF ANIMALS AND BIRDS AND POSSESSION OF NOXIOUS INSECTS, ETC. Importation**](#Part-II)
+[**Part II IMPORTATION, TRANSHIPMENT, EXPORTATION OF ANIMALS AND BIRDS AND POSSESSION OF NOXIOUS INSECTS, ETC.**](#Part-II)
+
+[**Importation**](#Importation)
 
 - [7 Power to make orders with regard to importation, etc.](#Power-to-make-orders-with-regard-to-importation-etc)
 
@@ -344,9 +346,11 @@ PRELIMINARY
 
 (a) if not in uniform, declare his office; and
 
-(b) on demand, produce to any person affected by the exercise of those powers such identification card as the Director-General, the Director-General of Customs and Excise or the Commissioner of Police respectively may direct to be carried by the authorised officers, officers of customs or police officers.
+(b) on demand, produce to any person affected by the exercise of those powers such identification card as the Director-General, the Director-General of Customs or the Commissioner of Police respectively may direct to be carried by the authorised officers, officers of customs or police officers.
 
 [16/2000]
+
+[4/2003 wef 01/04/2003]
 
 (2) It shall not be an offence for any person to refuse to comply with any request, demand or order made or given by any authorised officer, officer of customs or police officer not in uniform, who fails to declare his office and refuses to produce his identification card on demand being made by that person.
 
@@ -354,7 +358,9 @@ PRELIMINARY
 
 ## PART II
 
-IMPORTATION, TRANSHIPMENT, EXPORTATION OF ANIMALS AND BIRDS AND POSSESSION OF NOXIOUS INSECTS, ETC. Importation
+IMPORTATION, TRANSHIPMENT, EXPORTATION OF ANIMALS AND BIRDS AND POSSESSION OF NOXIOUS INSECTS, ETC.
+
+Importation
 
 ### Power to make orders with regard to importation, etc.
 
@@ -1885,6 +1891,11 @@ This Legislative History is provided for the convenience of users of the Animals
 ||Date of commencement|15 September 2002|
 |11.|**2002 Revised Edition—Animals and Birds Act**|
 ||Date of operation|31 December 2002|
+|12.|**Act 4 of 2003—Customs (Amendment) Act 2003**|
+||Date of First Reading|10 March 2003|
+|||(Bill No. 6/2003 published on 11 March 2003)|
+||Date of Second and Third Readings|21 March 2003|
+||Date of commencement|1 April 2003|
 ## COMPARATIVE TABLE
 
 Animals and Birds Act
@@ -1977,11 +1988,11 @@ PART III — PREVENTION OF THE SPREAD OF DISEASE
 
 21 —(1) and (2)
 
-21
+21 
 
 25 —(1) and (2)
 
-25—(1) and (2)
+25 —(1) and (2)
 
 (3) and (4)
 
