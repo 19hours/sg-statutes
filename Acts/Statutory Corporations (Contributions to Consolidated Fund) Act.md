@@ -18,15 +18,17 @@
 
 [**Legislative History**](#Legislative-History)
 
-# Statutory Corporations(Contributions to Consolidated Fund) Act
+[**Comparative Table**](#Comparative-Table)
+
+# Statutory Corporations (Contributions to Consolidated Fund) Act
 
 (CHAPTER 319A)
 
 (Original Enactment: Act 22 of 1989)
 
-REVISED EDITION 1998
+REVISED EDITION 2000
 
-(15th December 1998)
+(1st July 2000)
 
 An Act to provide for the payment into the Consolidated Fund of moneys from the funds of certain statutory corporations.
 
@@ -56,17 +58,15 @@ An Act to provide for the payment into the Consolidated Fund of moneys from the 
 
 ### Minister may require payment into Consolidated Fund
 
-3\.—(1) Notwithstanding the provisions of any written law specified in the Schedule, the Minister may, by notice in writing, require any specified statutory corporation to pay into the Consolidated Fund within the period specified in the notice —
+3\. Notwithstanding the provisions of any written law specified in the Schedule, the Minister may, by notice in writing, require any specified statutory corporation to pay into the Consolidated Fund within the period specified in the notice —
 
 (a) the whole or part of the excess of the revenue over the expenditure of that statutory corporation in any financial year; and
 
 (b) the whole or part of the amount in the funds of that statutory corporation which, in the opinion of the Minister, is not required for performing its functions and duties.
 
-(2) Any notice issued by or under the direction of the Minister before 21st April 1989 to any specified statutory corporation requiring it to make any payment into the Consolidated Fund shall be deemed to be a notice issued under the provisions of this Act.
-
 ### Amendment of Schedule
 
-4\. The Minister may, by order published in the Gazette, amend the Schedule.
+4\. The Minister may, by order published in theGazette, amend the Schedule.
 
 ## THE SCHEDULE
 
@@ -88,65 +88,115 @@ Civil Aviation Authority of Singapore Act (Chapter 41)
 
 Commercial and Industrial Security Corporation Act (Chapter 47)
 
-3A. Info-communications Development Authority of Singapore
+4. Info-communications Development Authority of Singapore
 
-Info-communications Development Authority of Singapore Act 1999.
+Info-communications Development Authority of Singapore Act 1999
 
-4. Inland Revenue Authority of Singapore
 
-Inland Revenue Authority of Singapore Act (Chapter 138A)
 
-5. Jurong Town Corporation
 
-Jurong Town Corporation Act (Chapter 150)
+(Act 41 of 1999)
 
-6. Land Transport Authority of Singapore
+5. Inland Revenue Authority of Singapore
 
-Land Transport Authority of Singapore Act (Chapter 158A)
+Inland Revenue Authority of Singapore Act
 
-7. Maritime and Port Authority of Singapore
 
-Maritime and Port Authority of Singapore Act (Chapter 170A)
 
-8. Monetary Authority of Singapore
 
-Monetary Authority of Singapore Act (Chapter 186)
+(Chapter 138A)
 
-9.Deleted by Act 41/99, wef 01/12/1999.
+6. Jurong Town Corporation
 
-10. Post Office Savings Bank of Singapore
+Jurong Town Corporation Act
 
-Post Office Savings Bank of Singapore Act (Chapter 237)
 
-11. Public Utilities Board
 
-Public Utilities Act (Chapter 261)
 
-12. Sentosa Development Corporation
+(Chapter 150)
 
-Sentosa Development Corporation Act (Chapter 291)
+7. Land Transport Authority of Singapore
 
-13. Singapore Broadcasting Authority
+Land Transport Authority of Singapore Act
 
-Singapore Broadcasting Authority Act (Chapter 297)
 
-14. Singapore Tourism Board
 
-Singapore Tourism Board Act (Chapter 305B)
 
-15.Deleted by Act 41/99, wef 01/12/1999.
+(Chapter 158A)
 
-16. Trade Development Board
+8. Maritime and Port Authority of Singapore
 
-Trade Development Board Act (Chapter 330)
+Maritime and Port Authority of Singapore Act
 
-17. Urban Redevelopment Authority
 
-Urban Redevelopment Authority Act (Chapter 340)
 
-[41/99 wef 01/12/1999]
 
-[Act 7/96; S 414/93; S344/95; S405/96; S 470/97; S 518/97; S366/98]
+(Chapter 170A)
+
+9. Monetary Authority of Singapore
+
+Monetary Authority of Singapore Act
+
+
+
+
+(Chapter 186)
+
+10. Public Utilities Board
+
+Public Utilities Act
+
+
+
+
+(Chapter 261)
+
+11. Sentosa Development Corporation
+
+Sentosa Development Corporation Act
+
+
+
+
+(Chapter 291)
+
+12. Singapore Broadcasting Authority
+
+Singapore Broadcasting Authority Act
+
+
+
+
+(Chapter 297)
+
+13. Singapore Tourism Board
+
+Singapore Tourism Board Act
+
+
+
+
+(Chapter 305B)
+
+14. Trade Development Board
+
+Trade Development Board Act
+
+
+
+
+(Chapter 330)
+
+15. Urban Redevelopment Authority
+
+Urban Redevelopment Authority Act
+
+
+
+
+(Chapter 340)
+
+[7/96; 41/99; S 414/93; S344/95; S405/96; S 470/97; S 518/97; S366/98]
 
 ## LEGISLATIVE HISTORY
 
@@ -196,3 +246,27 @@ This Legislative History is provided for the convenience of users of the Statuto
 |||(Bill No. 36/1999 published on 12 October 1999)|
 ||Date of Second and Third Readings|23 November 1999|
 ||Date of commencement|1 December 1999|
+|13.|**2000 Revised Edition—Statutory Corporations (Contributions to Consolidated Fund) Act**|
+||Date of operation|1 July 2000|
+## COMPARATIVE TABLE
+
+Statutory Corporations (Contributions to Consolidated Fund) Act
+
+(CHAPTER 319A)
+
+The following provisions in the 1990 Revised Edition of the Statutory Corporations (Contributions to Consolidated Fund) Act have been renumbered by the Law Revision Commissioners in this 2000 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Statutory Corporations (Contributions to Consolidated Fund) Act.
+
+2000 Ed\. 
+
+1990 Ed\. 
+
+3 
+
+3 —(1)
+
+Omitted — Spent
+
+(2)
+
