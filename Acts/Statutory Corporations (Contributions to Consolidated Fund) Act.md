@@ -42,7 +42,7 @@ An Act to provide for the payment into the Consolidated Fund of moneys from the 
 
 “Consolidated Fund” means the Consolidated Fund established under Article 145 of the Constitution;
 
-[11/1991 wef 30/11/1991]
+[Act 11/91 wef 30/11/1991 vide S 527/91]
 
 “expenditure” means all expenses properly incurred by a specified statutory corporation in performing its functions and duties;
 
@@ -70,101 +70,86 @@ An Act to provide for the payment into the Consolidated Fund of moneys from the 
 
 ## THE SCHEDULE
 
+the Schedule
+
 Statutory corporation
 
 Act under which established or constituted
 
-1.
-
-Civil Aviation Authority of Singapore
+1. Civil Aviation Authority of Singapore
 
 Civil Aviation Authority of Singapore Act (Chapter 41).
 
-2.
-
-Commercial and Industrial Security Corporation
+2. Commercial and Industrial Security Corporation
 
 Commercial and Industrial Security Corporation Act (Chapter 47).
 
-3.
-
-Jurong Town Corporation
+3. Jurong Town Corporation
 
 Jurong Town Corporation Act (Chapter 150).
 
-4.
+4. Maritime and Port Authority of Singapore
 
-Maritime and Port Authority of Singapore
+Maritime and Port Authority of Singapore Act 1996.
 
-Maritime and Port Authority of Singapore Act 1996
-
-5.
-
-Port of Singapore Authority
+5. Port of Singapore Authority
 
 Port of Singapore Authority Act (Chapter 236).
 
-6.
-
-Post Office Savings Bank of Singapore
+6. Post Office Savings Bank of Singapore
 
 Post Office Savings Bank of Singapore Act (Chapter 237).
 
-7.
-
-Public Utilities Board
+7. Public Utilities Board
 
 Public Utilities Act (Chapter 261).
 
-8.
+8. Singapore Broadcasting Authority
 
-Singapore Broadcasting Authority
+Singapore Broadcasting Authority Act (Chapter 297).
 
-Singapore Broadcasting Authority Act (Chapter 297)
-
-9.
-
-Telecommunication Authority of Singapore
+9. Telecommunication Authority of Singapore
 
 Telecommunication Authority of Singapore Act (Chapter 323).
 
-10.
-
-Singapore Tourist Promotion Board
+10. Singapore Tourist Promotion Board
 
 Tourist Promotion Board Act (Chapter 328).
 
-11.
-
-Trade Development Board
+11. Trade Development Board
 
 Trade Development Board Act (Chapter 330).
 
-12.
-
-Urban Redevelopment Authority
+12. Urban Redevelopment Authority
 
 Urban Redevelopment Authority Act (Chapter 340).
 
-13.
-
-Inland Revenue Authority of Singapore
+13. Inland Revenue Authority of Singapore
 
 Inland Revenue Authority of Singapore Act (Chapter 138A).
 
-14.
-
-Land Transport Authority of Singapore
+14. Land Transport Authority of Singapore
 
 Land Transport Authority of Singapore Act (Chapter 158A).
 
-[S 414/1993 wef 15/10/1993]
+15. Sentosa Development Corporation
 
-[S 344/1995 wef 01/10/1994]
+Sentosa Development Corporation Act
 
-[S 405/1996 wef 01/09/1995]
 
-[7/1996 wef 02/02/1996]
+
+
+(Chapter 291).
+
+[Act 7/96 wef 02/02/1996 vide S 42/96]
+
+[S 344/95 wef 01/10/1994]
+
+[S 414/93 wef 15/10/1993]
+
+[S 405/96 wef 01/09/1995]
+
+[]
 
 ## LEGISLATIVE HISTORY
 
@@ -200,3 +185,5 @@ This Legislative History is provided for the convenience of users of the Statuto
 |||(Bill No. 46/1995 published on 6 December 1995)|
 ||Date of Second and Third Readings|18 January 1996|
 ||Date of commencement|2 February 1996|
+|8.|**G. N. No. S 470/1997—Statutory Corporations (Contributions to Consolidated Fund) Act (Amendment of Schedule) Order 1997**|
+||Date of commencement|1 November 1996|
