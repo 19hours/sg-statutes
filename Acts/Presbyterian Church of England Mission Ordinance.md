@@ -20,7 +20,7 @@
 
 - [5 Property vested in Corporation](#Property-vested-in-Corporation)
 
-- [6 Saving of rights of the Crown, etc.](#Saving-of-rights-of-the-Crown-etc)
+- [6 Saving of rights of the Government, etc.](#Saving-of-rights-of-the-Government-etc)
 
 [**Legislative History**](#Legislative-History)
 
@@ -28,15 +28,15 @@
 
 (CHAPTER 373)
 
-(Original Enactment: Ordinance 7 of 19031)
-
-1Note: This private Ordinance is reproduced in the form it appears in the 1955 Revised Edition.
+(Original Enactment: Ordinance 7 of 1903)
 
 REVISED EDITION 1985
 
 (30th March 1987)
 
-An Ordinance to incorporate the Senior Missionary in Singapore of the Foreign Missions of the Presbyterian Church of England.
+An Ordinance to incorporate the Senior Missionary in Singapore of the Foreign Missions of the Presbyterian Church of England.: This private Ordinance is reproduced in the form it appears in the 1955 Revised Edition.\*
+
+\*Note
 
 [8th May 1903]
 
@@ -48,7 +48,7 @@ And Whereas the property of the said Committee in Singapore is managed by the se
 
 And Whereas it is expedient for conveyancing purposes to incorporate the senior missionary in Singapore of the said Committee:
 
-And Whereas by two leases the one numbered 241 and dated the first day of August, 1840, and the other numbered 242 and dated the 1st day of July 1840, and both made between the East India Company of the one part, and the Right Reverend Hilary Courvezy, Bishop, of the other part, two pieces of land situate in Prinsep Street, in the district of Singapore town, were demised to the said Hilary Courvezy for the terms of ninety-nine years at the yearly rents of three dollars, and subject to the conditions in such leases contained:
+And Whereas by two leases the one numbered 241 and dated the first day of August, 1840, and the other numbered 242 and dated the 1st day of July, 1840, and both made between the East India Company of the one part, and the Right Reverend Hilary Courvezy, Bishop, of the other part, two pieces of land situate in Prinsep Street, in the district of Singapore town, were demised to the said Hilary Courvezy for the terms of ninety-nine years at the yearly rents of three dollars, and subject to the conditions in such leases contained:
 
 And Whereas by two assignments each dated September 1842, and made between the said Hilary Courvezy of the one part, and Benjamin Peach Keasberry for and on behalf of the London Missionary Society of the other part, the said pieces of land were assigned by the said Hilary Courvezy unto the said Benjamin Peach Keasberry as aforesaid, and his successors in the office of missionary in the Malay Department of the Singapore Mission, belonging to the said London Missionary Society for the residue of the said terms:
 
@@ -88,9 +88,7 @@ It is hereby enacted by the Governor of the Straits Settlements, with the advice
 
 ### Use of the corporate seal
 
-3\.—(1) All deeds, documents and other instruments requiring the seal of the corporation shall be sealed with the seal of the corporation in the presence of the Reverend John Angus Bethune Cook, or his attorney duly authorised by a power of attorney registered under section 48 of the Conveyancing and Law of Property Ordinance [1955 Ed. Cap. 243], or in the presence of his successors for the time being in the office of senior missionary, or his attorney duly authorised as aforesaid, and shall also be signed by the said John Angus Bethune Cook or his attorney, or by his successor or his attorney.
-
-[1955 Ed.]
+3\.—(1) All deeds, documents and other instruments requiring the seal of the corporation shall be sealed with the seal of the corporation in the presence of the Reverend John Angus Bethune Cook, or his attorney duly authorised by a power of attorney registered under section 48 of the Conveyancing and Law of Property Ordinance [1955 Ed., Cap. 243], or in the presence of his successors for the time being in the office of senior missionary, or his attorney duly authorised as aforesaid, and shall also be signed by the said John Angus Bethune Cook or his attorney, or by his successor or his attorney.
 
 (2) Such signing shall be sufficient evidence of the due sealing of such deeds, documents and other instruments.
 
@@ -106,9 +104,11 @@ It is hereby enacted by the Governor of the Straits Settlements, with the advice
 
 5\. Each of the pieces of land mentioned in the preamble is hereby vested in the Corporation for an estate in fee simple, or for the residue of the term of years under which the same is held, as the case may be, free from all trusts whatever.
 
-### Saving of rights of the Crown, etc.
+### Saving of rights of the Government, etc.
 
-6\. Nothing in this Ordinance shall affect the rights of Her Majesty, or of any bodies politic or corporate, or of any other persons except those mentioned in this Ordinance, and those claiming by, from, or under them.
+6\. Nothing in this Ordinance shall affect the rights of the Government, or of any bodies politic or corporate, or of any other persons except those mentioned in this Ordinance, and those claiming by, from, or under them.
+
+[7/97 wef 01/10/1997]
 
 ## LEGISLATIVE HISTORY
 
@@ -128,3 +128,9 @@ This Legislative History is provided for the convenience of users of the Presbyt
 ||Date of commencement|20 November 1959|
 |4.|**1985 Revised Edition—Presbyterian Church of England Mission Ordinance**|
 ||Date of operation|30 March 1987|
+|5.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
+||Date of First Reading|11 July 1997|
+|||(Bill No. 6/1997 published on 12 July 1997)|
+||Date of Second and Third Readings|25 August 1997|
+||Dates of commencement|1 October 1997|
+|||(item (28) in the First Schedule)|
