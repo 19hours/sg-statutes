@@ -15178,3 +15178,8 @@ This Legislative History is provided for the convenience of users of the Compani
 ||Date of commencement|15 February 1997|
 |43.|**G. N. No. S 344/1997—Companies Act (Amendment of Second Schedule) (No. 2) Notification 1997**|
 ||Date of commencement|1 August 1997|
+|44.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
+||Date of First Reading|11 July 1997|
+|||(Bill No. 6/97 published on 12 July 1997)|
+||Date of Second and Third Readings|25 August 1997|
+||Dates of commencement|1 October 1997 (except section 3)|
