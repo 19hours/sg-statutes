@@ -152,11 +152,11 @@ ESTABLISHMENT, INCORPORATION, FUNCTIONS AND POWERS OF SINGAPORE ACADEMY OF LAW
 
 (2) The Academy may for the purpose of performing its functions —
 
-(a) provide such training and educational facilities for persons practising and intending to practise the profession of law;
+(a) provide training and educational facilities for persons practising and intending to practise the profession of law;
 
 (b) establish a library and common rooms for its members;
 
-(c) grant prizes and scholarships and establish and subsidise lectureships in educational institutions in subjects of study relating to law;
+(c) grant prizes and scholarships and establish and subsidize lectureships in educational institutions in subjects of study relating to law;
 
 (d) contribute a collegiate element in the training of students and young lawyers by organising moots, lectures, talks and practical exercises;
 
@@ -202,7 +202,7 @@ CONSTITUTION AND POWERS OF THE SENATE
 
 6\.—(1) The Chief Justice shall be the President of the Academy.
 
-(2) The Senate may appoint from amongst its members such number of Vice-Presidents of the Academy as it may think fit.
+(2) The Senate may appoint from amongst their members such number of Vice-Presidents of the Academy as they may think fit.
 
 (3) The President may delegate his duties to any of the Vice-Presidents.
 
@@ -210,13 +210,13 @@ CONSTITUTION AND POWERS OF THE SENATE
 
 ### Powers of Senate
 
-7\.—(1) The Senate may exercise all such powers of the Academy as it thinks fit except as otherwise provided by this Act.
+7\.—(1) The Senate may exercise all such powers of the Academy as they think fit except as otherwise provided by this Act.
 
-(2) The Senate may on behalf of the Academy accept by way of grant, gift, testamentary disposition or otherwise, property and moneys in aid of the finances of the Academy on such conditions as the Senate may determine.
+(2) The Senate may on behalf of the Academy accept by way of grant, gift, testamentary disposition or otherwise, property and moneys in aid of the finances of the Academy on such conditions as they may determine.
 
 ### Employment of officers
 
-8\. The Academy may employ such number of officers as the Senate considers necessary and the duties and salaries of the officers shall be determined by the Senate.
+8\. The Academy may employ such number of officers as the Senate consider necessary and the duties and salaries of the officers shall be determined by the Senate.
 
 ### Meetings of Senate
 
@@ -228,13 +228,13 @@ CONSTITUTION AND POWERS OF THE SENATE
 
 (4) At any meeting of the Senate, the President or in his absence the Vice-President presiding at the meeting shall have a deliberative vote and shall, in the event of an equality of votes, have a casting vote.
 
-(5) Subject to any rules made under this Act, the Senate may regulate its own procedure and in particular the holding of meetings, the notice to be given of meetings, the proceedings thereat and the keeping of minutes and the custody, production and inspection of those minutes.
+(5) Subject to any rules made under this Act, the Senate may regulate their own procedure and in particular the holding of meetings, the notice to be given of meetings, the proceedings thereat and the keeping of minutes and the custody, production and inspection of those minutes.
 
-(6) The validity of the proceedings of the Senate shall not be affected by any vacancy amongst its members or by any irregularity in the appointment of any member.
+(6) The validity of the proceedings of the Senate shall not be affected by any vacancy amongst their members or by any irregularity in the appointment of any member.
 
 ### Appointment of committees and boards
 
-10\.—(1) The Senate may appoint one or more committees and boards for any general or special purpose which in the opinion of the Senate may be better dealt with or managed by a committee or board and the Senate may delegate to any committee or board so appointed, with or without restrictions or conditions as the Senate thinks fit, the exercise of any functions exercisable by the Senate.
+10\.—(1) The Senate may appoint one or more committees and boards for any general or special purpose which in the opinion of the Senate may be better dealt with or managed by a committee or board and the Senate may delegate to any committee or board so appointed, with or without restrictions or conditions as they think fit, the exercise of any functions exercisable by the Senate.
 
 (2) The number and term of office of the members of a committee or board appointed under this section, and the number of those members necessary to form a quorum, shall be fixed by the Senate.
 
@@ -312,7 +312,9 @@ shall become, by virtue of this section and without election, admission or appoi
 
 (e) he is or becomes of unsound mind;
 
-(f) he is an undischarged bankrupt or a receiving order in bankruptcy is in force against him; or
+(f) he is an undischarged bankrupt; or
+
+[15/1995 wef 15/07/1995]
 
 (g) he has entered into a composition with his creditors or a deed of arrangement for the benefit of his creditors.
 
@@ -429,3 +431,11 @@ This Legislative History is provided for the convenience of users of the Singapo
 ||Date of commencement|1 November 1988|
 |2.|**1989 Revised Edition—Singapore Academy of Law Act**|
 ||Date of operation|15 March 1989|
+|3.|**Act 15 of 1995—Bankruptcy Act 1995**|
+||(Consequential amendments made by)||
+||Date of First Reading|25 July 1994|
+|||(Bill No. 16/94 published on 29 July 1994)|
+||Date of Second Reading|25 August 1994|
+||Referred to Select Committee|Parl 1 of 1995 presented to Parliament on 7 March 1995|
+||Date of Third Reading|23 March 1995|
+||Date of commencement|15 July 1995|
