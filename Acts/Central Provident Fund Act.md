@@ -2482,6 +2482,10 @@ An amount equal to the sum of —
 
 (4) Civil Aviation Authority of Singapore.
 
+(4A) Civil Service College
+
+[S 550/2001 wef 01/10/2001]
+
 (5) Commercial and Industrial Security Corporation.
 
 (6) Building and Construction Authority.
@@ -2551,8 +2555,6 @@ An amount equal to the sum of —
 (34) Singapore Corporation of Rehabilitative Enterprises.
 
 (34A) Singapore Land Authority.
-
-[17/2001 wef 01/06/2001]
 
 (35) Singapore Productivity and Standards Board.
 
@@ -2647,6 +2649,10 @@ Specified Acts Relating to Self-employed Persons
 3\. Appraisers and House Agents Act (Cap. 16).
 
 4\. Business Registration Act (Cap. 32).
+
+4A. Civil Service College.
+
+[S 550/2001 wef 01/10/2001]
 
 5\. Child Care Centres Act (Cap. 37A).
 
@@ -3144,6 +3150,8 @@ This Legislative History is provided for the convenience of users of the Central
 |||(Bill No. 17/2001 published on 7 March 2001)|
 ||Date of Second and Third Readings|19 April 2001|
 ||Date of commencement|1 June 2001|
+|120.|**G.N. No. S 550/2001—Central Provident Fund Act (Amendment of First Schedule) (No. 3) Notification 2001**|
+||Date of commencement|1 October 2001|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
