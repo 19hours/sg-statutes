@@ -18,7 +18,7 @@
 
 - [4 Notification of appointment of Reverend Mother Superior](#Notification-of-appointment-of-Reverend-Mother-Superior)
 
-- [5 Saving of Crown and other rights](#Saving-of-Crown-and-other-rights)
+- [5 Saving of Government and other rights](#Saving-of-Government-and-other-rights)
 
 [**Legislative History**](#Legislative-History)
 
@@ -64,7 +64,7 @@ It is hereby enacted by the Governor of the Colony of Singapore with the advice 
 
 ### Use of corporate seal
 
-3\.—(1) All deeds, documents and other instruments requiring the seal of the Corporation shall be sealed with the seal of the Corporation in the presence of the Reverend Mother Superior for the time being or her attorney, duly authorised by power of attorney registered under section 48 of the Conveyancing and Law of Property Ordinance (1955 Ed., Cap. 243), and shall also be signed by the said Reverend Mother Superior for the time being, or her attorney so authorised as aforesaid.
+3\.—(1) All deeds, documents and other instruments requiring the seal of the Corporation shall be sealed with the seal of the Corporation in the presence of the Reverend Mother Superior for the time being or her attorney, duly authorised by power of attorney registered under section 48 of the Conveyancing and Law of Property Ordinance [1955 Ed., Cap. 243], and shall also be signed by the said Reverend Mother Superior for the time being, or her attorney so authorised as aforesaid.
 
 (2) Such signing shall be and be taken as sufficient evidence that the said seal was duly and properly affixed and that the same is the lawful seal of the Corporation.
 
@@ -72,11 +72,11 @@ It is hereby enacted by the Governor of the Colony of Singapore with the advice 
 
 4\. A notification in theGazetteof the appointment of any person to exercise the office of Reverend Mother Superior of the Little Sisters of the Poor in Malaya shall be conclusive evidence that such person was duly authorised to exercise the said office.
 
-### Saving of Crown and other rights
+### Saving of Government and other rights
 
-5\. Nothing in this Ordinance shall affect the rights of Her Majesty the Queen, Her Heirs and Successors, all bodies politic and corporate, and all others except such as are expressly mentioned in this Ordinance, and those claiming by, from or under them.
+5\. Nothing in this Ordinance shall affect the rights of the Government, all bodies politic and corporate, and all others except such as are expressly mentioned in this Ordinance, and those claiming by, from or under them.
 
-[7/97 wef 01/01/1997]
+[7/97 wef 01/10/1997]
 
 ## LEGISLATIVE HISTORY
 
@@ -89,7 +89,12 @@ This Legislative History is provided for the convenience of users of the Little 
 ||||
 |:-|:-|:-|
 |1.|**Ordinance 36 of 1957—Little Sisters of the Poor Ordinance 1957**|
-||Date of First, Second and Third Readings|Date not available|
 ||Date of commencement|1 November 1957|
 |2.|**1985 Revised Edition—Little Sisters of the Poor Ordinance**|
 ||Date of operation|30 March 1987|
+|3.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|11 July 1997|
+|||(Bill No. 6/1997 published on 12 July 1997)|
+||Date of Second and Third Readings|25 August 1997|
+||Dates of commencement|1 October 1997 (Item (23) of the First Schedule — Amendments of the Little Sisters of the Poor Ordinance)|
