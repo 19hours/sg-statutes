@@ -252,3 +252,8 @@ This Legislative History is provided for the convenience of users of the Local T
 |||(Bill No. 4/1991 published on 4 January 1991)|
 ||Date of Second and Third Readings|14 January 1991|
 ||Date of commencement|30 November 1991|
+|13.|**Act 6 of 1996—Local Treasury Bills (Amendment) Act 1996**|
+||Date of First Reading|5 December 1995|
+|||(Bill No. 43/1995 published on 6 December 1995)|
+||Date of Second and Third Readings|18 January 1996|
+||Date of commencement|1 April 1996|
