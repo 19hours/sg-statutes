@@ -60,7 +60,7 @@
 
 - [24 Collective agreements](#Collective-agreements)
 
-- [25 Restrictions on collective agreements in certain new undertakings](#Restrictions-on-collective-agreements-in-certain-new-undertakings)
+- [25 (Repealed)](#Repealed)
 
 - [26 Collective agreement deemed to be an award](#Collective-agreement-deemed-to-be-an-award)
 
@@ -68,9 +68,23 @@
 
 - [28 Conciliation and industrial relations officers](#Conciliation-and-industrial-relations-officers)
 
-- [29 Negotiations otherwise than under this Part](#Negotiations-otherwise-than-under-this-Part)
+- [29 Negotiations otherwise than under this Part or Part IIIA](#Negotiations-otherwise-than-under-this-Part-or-Part-IIIA)
 
 - [30 Interpretation of this Part](#Interpretation-of-this-Part)
+
+[**Part IIIA LIMITED REPRESENTATION OF EMPLOYEES IN MANAGERIAL AND EXECUTIVE POSITIONS**](#Part-IIIA)
+
+- [30A Interpretation of this Part](#Interpretation-of-this-Part)
+
+- [30B Limited representation of executive employees](#Limited-representation-of-executive-employees)
+
+- [30C Invitation to negotiate](#Invitation-to-negotiate)
+
+- [30D Acceptance of invitation to negotiate](#Acceptance-of-invitation-to-negotiate)
+
+- [30E Non-acceptance of invitation to negotiate](#Non-acceptance-of-invitation-to-negotiate)
+
+- [30F Conciliation](#Conciliation)
 
 [**Part IV ARBITRATION**](#Part-IV)
 
@@ -516,7 +530,7 @@ he shall notify the Minister and, unless the Minister otherwise directs, the Reg
 
 (2) The Court may in its discretion —
 
-(a) refuse to certify a memorandum delivered under subsection (1) if it is of the opinion that it is not in the public interest that the collective agreement should be certified or if it is of the opinion that the memorandum does not set out satisfactorily or adequately the terms of the collective agreement between the parties and shall refuse to do so if the agreement does not comply with subsection (5) or section 25; and
+(a) refuse to certify a memorandum delivered under subsection (1) if it is of the opinion that it is not in the public interest that the collective agreement should be certified or if it is of the opinion that the memorandum does not set out satisfactorily or adequately the terms of the collective agreement between the parties and shall refuse to do so if the agreement does not comply with subsection (5); and
 
 (b) before certifying a memorandum delivered under subsection (1), require that such part or parts thereof shall be amended satisfactorily or adequately in any manner which the Court considers expedient to comply with the provisions of this Act or any regulations made thereunder or any other written law or with any direction of the Court.
 
@@ -548,37 +562,7 @@ shall be guilty of an offence.
 
 [29/72]
 
-### Restrictions on collective agreements in certain new undertakings
-
-25\.—(1) No collective agreement to which this section applies shall contain provisions with regard to terms and conditions of service that are more favourable to employees than those contained in Part IV of the Employment Act (Cap. 91), unless such provisions are approved by the Minister after considering any representations in that regard made by an employer and a trade union representing his employees.
-
-(2) The Minister may, before making a decision on any representations, by writing under his hand request a Court to inquire and report to him whether it is desirable that any such representations should be allowed and, if so, whether with or without modification.
-
-(3) This section shall apply to collective agreements made between an employer and a trade union representing his employees in respect of, or in relation to —
-
-(a) an industrial undertaking that has commenced or commences operation in Singapore on or after 1st January 1968;
-
-(b) such other undertaking that has commenced or commences operation in Singapore on or after 1st January 1968 as the Minister may approve for the purposes of this section.
-
-(4) This section shall apply to undertakings specified in subsection (3) for a period of 5 years from the date the undertakings commence, or have commenced, operation in Singapore.
-
-(5) The Minister may from time to time by notification in theGazetteextend the period mentioned in subsection (4) for such further period or periods as the Minister may decide.
-
-(6) This section shall not apply to a tourism enterprise that commenced operation before 20th November 1997 unless it was a tourist enterprise as defined in the Tourist Promotion Board Act (Cap. 328, 1985 Ed.) in force immediately before that date.
-
-[9/97]
-
-(7) In this section, “industrial undertaking” means —
-
-(a) an undertaking in which articles are manufactured, assembled, altered, cleaned, repaired, ornamented, finished, adapted for sale, broken up or demolished or in which materials are transformed, including undertakings engaged in ship-building or in the generation, transformation or transmission of electricity or motive power of any kind;
-
-(b) an undertaking engaged in the transport of passengers or goods by road, rail, sea, inland waterways or air, including the handling of goods at docks, quays, wharves, warehouses or airports;
-
-(c) a hotel or catering business, or a tourism enterprise as defined in the Singapore Tourism Board Act (Cap. 305B); and
-
-(d) a pioneer enterprise, as defined under section 3 of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86).
-
-[9/97]
+25\. [Deleted by Act 23/2002 wef 01/09/2002]
 
 ### Collective agreement deemed to be an award
 
@@ -608,9 +592,9 @@ unless he is a person qualified in accordance with section 64 to represent an em
 
 (2) The Minister may make such arrangements as he considers appropriate for the training of persons to be conciliation officers or industrial relations officers and of conciliation officers and industrial relations officers.
 
-### Negotiations otherwise than under this Part
+### Negotiations otherwise than under this Part or Part IIIA
 
-29\. Any person who or any trade union which enters into negotiations in relation to industrial matters otherwise than in accordance with the provisions of this Partshall be guilty of an offence.
+29\. Any person who or any trade union which enters into negotiations in relation to industrial matters otherwise than in accordance with the provisions of this Part or Part IIIA shall be guilty of an offence.
 
 [30
 
@@ -623,6 +607,76 @@ unless he is a person qualified in accordance with section 64 to represent an em
 (b) the Minister shall be deemed to have been notified that a trade dispute exists if a person designated by him for that purpose has been so notified.
 
 [29
+
+## PART IIIA
+
+LIMITED REPRESENTATION OF EMPLOYEES IN MANAGERIAL AND EXECUTIVE POSITIONS
+
+[23/2002 wef 01/09/2002]
+
+### Interpretation of this Part
+
+30A\.—(1) In this Part, unless the context otherwise requires —
+
+“executive employee”, in relation to an employer, means an employee who is employed in a managerial or an executive position by the employer;
+
+“recognised trade union” means a trade union the majority of whose membership consists of employees in non-managerial or non-executive positions and which has been accorded recognition by an employer only in respect of such employees under section 16.
+
+(2) For the purposes of this Part, the Minister for Finance shall be deemed to be the employer of employees of the Government.
+
+### Limited representation of executive employees
+
+30B\.—(1) Notwithstanding section 16, a recognised trade union may represent any executive employee individually, and not as a class, for all or any of the following purposes only:
+
+(a) to make representations to the Minister under section 35(2);
+
+(b) upon the retrenchment of the executive employee, to negotiate with the employer with a view to resolving any dispute relating to the retrenchment benefit payable to the executive employee;
+
+(c) to negotiate with the employer with a view to resolving any dispute relating to a breach of contract of employment by the executive employee or the employer;
+
+(d) to represent the executive employee in proceedings before a Court in respect of the dismissal or reinstatement of the employee in circumstances arising out of a contravention of section 82 or any matter referred to in paragraph (b) or (c).
+
+(2) Where a recognised trade union seeks to represent an executive employee under subsection (1), the employer may object to such representation only on the ground that the employee —
+
+(a) is employed in a senior management position or performs or exercises any function, duty or power of a person employed in a senior management position, including the control and supervision of major business operations, accountability for operational performance, formulation of business policies, plans and strategies and provision of leadership to other employees;
+
+(b) performs or exercises any function, duty or power which includes decision making, or the power to substantially influence decision making, on any industrial matters including the employment, termination of employment, promotion, transfer, reward or discipline of other employees;
+
+(c) performs any function or duty which includes representing the employer in any negotiation relating to any industrial matters;
+
+(d) has access to confidential information relating to the budget and finances of the employer, any industrial relations matter or the salaries and personal records of other employees; or
+
+(e) performs or exercises any other function, duty or power which may give rise to a real or potential conflict of interest if he is represented by the trade union.
+
+(3) Where an employer raises any objection under subsection (2), the employer and the trade union shall make a joint application to a Court for the determination of the question.
+
+(4) Until the Court gives its decision, the recognised trade union may continue to represent other executive employees whose representation by the trade union under subsection (1) is not objected to by the employer under subsection (2).
+
+(5) The powers of a Court under subsection (3) shall be exercisable by the Court constituted by the President alone.
+
+### Invitation to negotiate
+
+30C\. A recognised trade union representing an executive employee under section 30B may serve on an employer or an employer may serve on a recognised trade union, as the case may be, a notice in the prescribed form (referred to in this Part as an invitation to negotiate) —
+
+(a) setting out proposals for resolving any dispute relating to the issue of retrenchment benefit payable to the executive employee upon the retrenchment of the executive employee or a breach of contract of employment by the executive employee or his employer; and
+
+(b) inviting the employer or trade union, as the case may be, to negotiate with it in relation to those matters with a view to arriving at a settlement.
+
+### Acceptance of invitation to negotiate
+
+30D\. An employer or a recognised trade union upon whom an invitation to negotiate has been served under section 30C may, within 7 days after service of that invitation, serve on the recognised trade union or employer which served the notice an acceptance of the invitation to negotiate (referred to in this Part as an acceptance to negotiate).
+
+### Non-acceptance of invitation to negotiate
+
+30E\.—(1) Where a recognised trade union or an employer upon whom an invitation to negotiate was served under section 30C has not served an acceptance to negotiate within the time specified in section 30D, the employer or trade union which served the invitation to negotiate, as the case may be, may notify the Commissioner.
+
+(2) Upon receipt of a notification under subsection (1), the Commissioner shall consult, or direct a conciliation officer to consult, with the employer or trade union which has not served an acceptance to negotiate with a view to persuading that employer or trade union to accept the invitation.
+
+### Conciliation
+
+30F\.—(1) If, after the expiration of 14 days from the date of service of an invitation to negotiate, an agreement has not been reached between the recognised trade union and employer by whom and upon whom the invitation was served as to all the matters set out in the invitation, either party to the negotiations may notify the Commissioner.
+
+(2) Upon receipt of a notification under subsection (1), the Commissioner may consult, or direct a conciliation officer to consult, with the employer and trade union concerned in an endeavour to assist them to reach a settlement by conciliation.
 
 ## PART IV
 
@@ -637,6 +691,16 @@ ARBITRATION
 (b) a trade union or an employer who is a party to a trade dispute makes a request in writing to the Registrar that under section 50(1) of the Employment Act (Cap. 91) the trade dispute be submitted to arbitration;
 
 (c) a trade union which or an employer who is a party to a trade dispute as to any matter arising from or connected with a transfer of employment makes a request in writing, whether before or after the transfer of employment, to the Registrar that the trade dispute be submitted to arbitration;
+
+(ca) the trade dispute relates to —
+
+(i) the retrenchment benefit payable to an executive employee who is represented by a recognised trade union under section 30B; or
+
+(ii) a breach of contract of employment by an executive employee who is represented by a recognised trade union under section 30B or his employer,
+
+and the employer or the recognised trade union representing the executive employee makes a request in writing to the Registrar that the trade dispute be submitted to arbitration;
+
+[23/2002 wef 01/09/2002]
 
 (d) the Minister by notice in theGazettedirects that the trade dispute be submitted to arbitration; or
 
@@ -804,9 +868,7 @@ AWARDS
 
 42\. In making an award in relation to a trade dispute, a Court —
 
-(a) shall not be restricted to the specific relief claimed by the parties or to the demands made by the parties in the course of the trade dispute but may include in the award any matter or thing which it thinks expedient for the purpose of settling the trade dispute or of preventing further trade disputes and may in fixing wages, salaries, allowances or other remuneration give effect to its decision by prescribing time rates, piecework rates, salary scales, bonus payments, severance pay, or retirement allowances or by such other prescription as it considers appropriate;
-
-(b) notwithstanding paragraph (a), in respect of employers and employees to whom section 25 applies, shall not include in its award provisions with regard to terms and conditions of service that are more favourable to employees than those contained in Part IV of the Employment Act (Cap. 91) unless the Minister has approved those provisions under that section; and
+(a) shall not be restricted to the specific relief claimed by the parties or to the demands made by the parties in the course of the trade dispute but may include in the award any matter or thing which it thinks expedient for the purpose of settling the trade dispute or of preventing further trade disputes and may in fixing wages, salaries, allowances or other remuneration give effect to its decision by prescribing time rates, piecework rates, salary scales, bonus payments, severance pay, or retirement allowances or by such other prescription as it considers appropriate; and
 
 (c) may include provisions requiring an employer bound by the award to keep records relating to employees entitled to the benefit of the award and prescribing the form of such records and the information to be recorded.
 
@@ -1018,7 +1080,7 @@ shall be guilty of an offence and shall be liable on conviction by a Magistrate�
 
 ### Exercise of jurisdiction under certain sections
 
-59\.—(1) The powers of a Court under sections 24, 25, 35, 39(4), 41, 43, 44, 56, 57, 58 and 82 shall be exercisable by the Court constituted by the President alone.
+59\.—(1) The powers of a Court under sections 24, 35, 39(4), 41, 43, 44, 56, 57, 58 and 82 shall be exercisable by the Court constituted by the President alone.
 
 (2) An application to a Court for an order under section 56, 57 or 58 may be made by any trade union or person interested or by the Commissioner, the Registrar or the Attorney-General.
 
@@ -1262,7 +1324,13 @@ by reason of the fact that he has worked or is working or intends to work in acc
 
 79\.—(1) A person who, by conferring or procuring or offering to confer or procure any advantage on or for any person, induces or attempts to induce a person not to become a member or officer of a trade union or an association that has applied to be registered as a trade union, or to cease to be a member or officer of a trade union or of any such association, shall be guilty of an offence and shall be liable on conviction by a District Court to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-(2) It shall not be an offence for an employer to require as a condition of the appointment or promotion of a person to a managerial or executive position that that person shall not continue to be an officer or member of a particular trade union, unless that trade union is a trade union whose constitution and rules restrict its membership to persons in managerial or executive positions.
+(2) It shall not be an offence for an employer to require as a condition of the appointment or promotion of a person to a managerial or an executive position that the person shall not be or continue to be an officer or a member of a particular trade union unless —
+
+(a) that trade union is a trade union whose constitution and rules restrict its membership to persons in managerial or executive positions; or
+
+(b) that trade union is a trade union which may represent persons in managerial or executive positions only under section 30B.
+
+[23/2002 wef 01/09/2002]
 
 ### Employers not to discriminate against members of trade unions
 
@@ -1432,6 +1500,11 @@ This Legislative History is provided for the convenience of users of the Industr
 ||Date of commencement|20 November 1997|
 |12.|**1999 Revised Edition—Industrial Relations Act**|
 ||Date of operation|1 August 1999|
+|13.|**Act 23 of 2002—Industrial Relations (Amendment) Act 2002**|
+||Date of First Reading|8 July 2002|
+|||(Bill No. 25/2002 published on 9 July 2002)|
+||Date of Second and Third Readings|23 July 2002|
+||Date of commencement|1 September 2002|
 ## COMPARATIVE TABLE
 
 Industrial Relations Act
