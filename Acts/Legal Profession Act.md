@@ -406,7 +406,7 @@
 
 (CHAPTER 161)
 
-(Original Enactment: 5 of 1981)
+(Original Enactment: Act 5 of 1981)
 
 REVISED EDITION 2001
 
@@ -464,6 +464,12 @@ PRELIMINARY
 
 “legal officer” means a person appointed as a legal officer in the Singapore Legal Service;
 
+“locum solicitor” means an advocate and solicitor engaged (whether concurrently or otherwise) on a temporary or freelance basis by one or more law firms, law corporations or solicitors practising on their own account;
+
+[23/2004 wef 01/04/2005]
+
+[41/2005 wef 04/12/2006]
+
 “Malayan practitioner” means any qualified person entitled to practise before a High Court in any part of Western Malaysia;
 
 “practising certificate” means a certificate issued by the Registrar under section 25;
@@ -519,6 +525,22 @@ PRELIMINARY
 (e) include such incidental, supplementary or transitional provisions as may be necessary or expedient.
 
 [41/93]
+
+(4) References to an employee of a solicitor or law firm or law corporation shall be construed to include a locum solicitor engaged by the solicitor or law firm or law corporation, and references to being employed by a solicitor or law firm or law corporation shall be construed accordingly, in the following provisions:
+
+(a) sections 78, 81D, 81E, 81F and 81H;
+
+(b) the definition of “specified person” in section 79(2);
+
+(c) paragraphs 1(1)(a)(ii) and 5(1)(d) of the First Schedule; and
+
+(d) the Second Schedule.
+
+[23/2004 wef 01/04/2005]
+
+(5) In the definition of “specified person” in section 79(2), reference to a member of a law firm shall be construed to include a locum solicitor engaged by the law firm.
+
+[23/2004 wef 01/04/2005]
 
 ## PART II
 
@@ -996,6 +1018,10 @@ PRACTISING CERTIFICATES
 
 [40/96]
 
+(2A) A practising certificate issued under subsection (2) shall not authorise a solicitor to practise as a locum solicitor unless the practising certificate was issued pursuant to an application by the solicitor in accordance with any rules made under this section relating to practising certificates to practise as a locum solicitor.
+
+[23/2004 wef 01/04/2005]
+
 (3) Every practising certificate shall be signed or approved by the Registrar and shall, subject to sections 26(9) and 27B, be in force from the date of issue to the end of the year.
 
 [40/96; 4/2000]
@@ -1006,7 +1032,15 @@ PRACTISING CERTIFICATES
 
 (6) In this section, “year” means the period from 1st April in any calendar year to 31st March in the next ensuing calendar year.
 
-(7) Subject to the provisions of this Act, the Council may make rules regulating the issue of practising certificates.
+(7) Subject to the provisions of this Act, the Council may make rules regulating the issue of practising certificates, including (in relation to practising certificates to practise as locum solicitors) rules specifying all or any of the following:
+
+(a) any modification to subsection (1), including any provision requiring a solicitor applying for such a practising certificate to give any undertaking relating to his practice;
+
+(b) any condition that shall apply to such a practising certificate, including conditions relating to the handling of client’s money by the solicitor and the supervision of the solicitor;
+
+(c) any training that the solicitor must complete for the purposes of section 26(1A)(b) and the time within which such training must be completed.
+
+[23/2004 wef 01/04/2005]
 
 (8) Rules made by the Council under this section shall be signed by the President of the Society and submitted to the Chief Justice and shall come into operation upon the Chief Justice signifying his approval.
 
@@ -1118,6 +1152,10 @@ and the Registrar may comply with the request and notify the solicitor in writin
 
 (c) unless he is or is about to be a director or an employee of a law corporation;
 
+(ca) unless he is practising or intends to practise as a locum solicitor;
+
+[23/2004 wef 01/04/2005]
+
 (d) if he has, for a period of 3 years or more, held office as a Judge of the Supreme Court or of the Supreme Court of Malaysia or of any High Court in any part of Malaysia;
 
 (e) if he is an undischarged bankrupt;
@@ -1129,6 +1167,18 @@ and the Registrar may comply with the request and notify the solicitor in writin
 (h) if he has been found under section 7 of the Mental Disorders and Treatment Act (Cap. 178) to be of unsound mind and incapable of managing himself and his affairs.
 
 [16/93; 15/95; 40/96; 4/2000]
+
+(1A) No solicitor shall apply for a practising certificate to practise as a locum solicitor unless he is a citizen or a permanent resident of Singapore, and in the period of 5 years immediately preceding the application —
+
+(a) has, for a period of not less than 3 years in the aggregate —
+
+(i) practised as a solicitor on his own account or in partnership or as a director of a law corporation or an employee of a law firm or a law corporation; or
+
+(ii) been employed as a legal officer; or
+
+(b) has completed such training within such time as the Council may by rules under section 25 prescribe.
+
+[23/2004 wef 01/04/2005]
 
 (2) Notwithstanding anything in subsection (1), any solicitor who has held office as a Judge of the Supreme Court for a period of 3 years or more shall on application be issued a practising certificate enabling him to practise as a solicitor, but without the right of audience in any court of justice in Singapore.
 
@@ -1170,13 +1220,19 @@ if the Attorney-General issues a certificate under his hand to the person and sp
 
 (9) A practising certificate issued to a solicitor shall cease to be in force —
 
-(a) when the solicitor ceases to practise or to be employed as provided in this section; or
+(a) when the solicitor ceases to practise or to be employed as provided in this section;
 
-(b) upon the solicitor becoming subject to any disqualification under subsection (1)(e), (f), (g) or (h).
+[23/2004 wef 01/04/2005]
+
+(b) upon the solicitor becoming subject to any disqualification under subsection (1)(e), (f), (g) or (h); or
 
 [23/2004 wef 01/04/2005]
 
 [40/96]
+
+(c) when the Registrar subsequently issues another practising certificate to the solicitor.
+
+[23/2004 wef 01/04/2005]
 
 (10) For the purposes of this section, “Judge” shall not include a Judicial Commissioner of the Supreme Court.
 
@@ -1938,8 +1994,6 @@ Powers of Council
 
 (m) to invest the moneys of the Society in such manner as it thinks fit and engage in any financial activity or participate in any financial arrangement for the purpose of managing or hedging against any financial risk that arises or is likely to arise from such investment;
 
-[45/2004 wef 15/12/2004]
-
 (n) to form or participate in the formation of any company for the purpose of carrying out all or any of the functions of the Society;
 
 (o) from time to time to borrow or raise money by bank overdraft or otherwise by the issue of debentures or any other securities founded or based upon all or any of the property and rights of the Society or without any such security and upon such terms as to priority or otherwise as the Council thinks fit; and
@@ -2161,6 +2215,10 @@ PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS
 (6) Rules made under this section shall not come into operation until they have been approved by the Chief Justice who shall consult the Attorney-General and may, if he thinks fit, consult any of the other Judges before giving his approval.
 
 (7) Disciplinary proceedings may be taken against any solicitor who fails to comply with this section or any rules made thereunder.
+
+(8) This section shall not apply to a solicitor who applies for a practising certificate to practise as a locum solicitor.
+
+[23/2004 wef 01/04/2005]
 
 ### Intervention in solicitor’s practice
 
@@ -2651,6 +2709,12 @@ LAW CORPORATIONS
 (d) practise as a solicitor on his own account.
 
 [4/2000]
+
+(4) Subsection (3) shall not prevent a locum solicitor engaged by a law corporation from concurrently practising as a locum solicitor in another law corporation or law firm.
+
+[23/2004 wef 01/04/2005]
+
+[41/2005 wef 04/12/2006]
 
 ### Requirements as to alteration of memorandum or articles of association
 
@@ -4904,6 +4968,11 @@ This Legislative History is provided for the convenience of users of the Legal P
 |||(Bill No. 43/2004 published on 22 September 2004)|
 ||Date of Second and Third Readings|19 October 2004|
 ||Date of commencement|15 December 2004|
+|35.|**Act 23 of 2004—Legal Profession (Amendment) Act 2004**|
+||Date of First Reading|19 May 2004|
+|||(Bill No. 17/2004 published on 20 May 2004)|
+||Date of Second and Third Readings|15 June 2004|
+||Date of commencement|1 April 2005 (sections 2, 3, 4, 7 and 8)|
 ## COMPARATIVE TABLE
 
 Legal Profession Act
