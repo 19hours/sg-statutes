@@ -645,9 +645,11 @@ PROVISIONS RELATING TO CORPORATION
 
 [23/95]
 
-(4) Nothing in this section shall be construed to authorise the Corporation to use any symbol which any person has acquired the exclusive right to use the same under the Trade Marks Act (Cap. 332)or otherwise.
+(4) Nothing in this section shall be construed to authorise the Corporation to use any symbol which any person has acquired the exclusive right to use the same under the Trade Marks Act 1998 or otherwise.
 
 [23/95]
+
+[46/98 wef 15/01/1999]
 
 ## PART IV
 
@@ -1265,3 +1267,8 @@ This Legislative History is provided for the convenience of users of the Jurong 
 ||Date of commencement|4 August 1995|
 |15.|**1998 Revised Edition—Jurong Town Corporation Act**|
 ||Date of operation|30 May 1998|
+|16.|**Act 46 of 1998—Trade Marks Act 1998**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|12 October 1998 (Bill No. 42/98 published on 13 October 1998)|
+||Date of Second and Third Readings|26 November 1998|
+||Date of commencement|15 January 1999|
