@@ -16,7 +16,7 @@
 
 - [5 Registration](#Registration)
 
-- [6 Registration of persons in possession of identity cards](#Registration-of-persons-in-possession-of-identity-cards)
+- [6 Re-registration of persons in possession of identity cards](#Re-registration-of-persons-in-possession-of-identity-cards)
 
 - [7 Issue of identity cards](#Issue-of-identity-cards)
 
@@ -80,7 +80,21 @@ An Act for the registration of persons in Singapore, for the issue of identity c
 
 ### Appointment of officers
 
-3\.—(1) The Minister may appoint a Commissioner of National Registration, a Deputy Commissioner of National Registration and such number of Assistant Commissioners of National Registration and registration officers as the Minister may consider necessary or expedient for the purposes of this Act.
+3\.—(1) The Minister may appoint a Commissioner of National Registration, a Deputy Commissioner of National Registration and such number of Assistant Commissioners of National Registration as the Minister may consider necessary or expedient for the purposes of this Act.
+
+[Act 20 of 1990 wef 03/06/1991]
+
+(1A) The Commissioner may appoint such number of registration officers as he may think fit for the purposes of this Act.
+
+[Act 20 of 1990 wef 03/06/1991]
+
+(1B) The Deputy Commissioner of National Registration and the Assistant Commissioners of National Registration shall have and may exercise all the powers conferred on the Commissioner under this Act, subject to such limitations as the Commissioner may think fit to impose.
+
+[Act 20 of 1990 wef 03/06/1991]
+
+(1C) Any person appointed by the Commissioner under subsection (1A) shall be deemed to be a public servant within the meaning of the Penal Code (Cap. 224).
+
+[Act 20 of 1990 wef 03/06/1991]
 
 (2) The Commissioner shall, subject to the general direction and control of the Minister, perform the duties and exercise the rights and powers imposed and conferred upon him by this Act.
 
@@ -90,29 +104,37 @@ An Act for the registration of persons in Singapore, for the issue of identity c
 
 4\.—(1) The Commissioner shall cause to be kept and maintained a register of all persons in Singapore who are required to be registered under the provisions of this Act.
 
-(2) The register shall be in such form and shall contain such particulars as the Minister may require.
+(2) The register shall be in such form and shall contain such particulars as the Commissioner thinks fit.
+
+[Act 20 of 1990 wef 03/06/1991]
+
+(3) A copy of or extract from any document, including a copy produced by way of microfilm or computer print-out, filed or lodged at the office of the Commissioner, certified to be a true copy or an extract under the hand and seal of the Commissioner shall in any proceedings be admissible in evidence as of equal validity with the original document.
+
+[Act 20 of 1990 wef 03/06/1991]
 
 ### Registration
 
 5\. Subject to section 6 and any exemptions which may be granted by regulations made under section 19, every person lawfully resident within Singapore shall be registered under and in accordance with the provisions of this Act and of any regulations made thereunder.
 
-### Registration of persons in possession of identity cards
+### Re-registration of persons in possession of identity cards
 
-6\.—(1) Every person who, on the commencement of this Act, is in possession of a valid identity card issued or deemed to be issued under the provisions of the Registration of Persons Ordinance 1955, shall apply to be registered under the provisions of this Act within such period as the Minister may, by notification in theGazette, specify\*.
+6\.—(1) Every person who, on the commencement of the National Registration (Amendment) Act 1990, is in possession of a valid identity card issued under this Act shall re-register under this Act within such period as the Minister may, by notification in theGazette, specify.
 
-\*The period ending 31st January 1967 was specified by G.N. 145/97.
+(2) All identity cards issued under this Act before such date shall cease to be valid on the expiration of the period within which persons in possession of such identity cards are required to be re-registered under subsection (1).
 
-(2) All identity cards issued or deemed to be issued under the provisions of the Registration of Persons Ordinance 1955 [32/55], shall cease to be valid at the expiration of the period within which persons in possession of such identity cards are required to be registered under subsection (1).
-
-(3) This section shall not apply to any person who, on the commencement of this Act, is in possession of a valid identity card issued or deemed to be issued under the provisions of the Registration of Persons Ordinance 1955, but who has not been granted unrestricted residence in Singapore under any written law relating to immigration in force in Singapore.
+[Act 20 of 1990 wef 03/06/1991]
 
 ### Issue of identity cards
 
-7\. Every person registered under this Act shall be issued with an identity card.
+7\. Subject to the provisions of this Act and any regulations made thereunder, every person registered under this Act shall be issued with an identity card.
+
+[Act 20 of 1990 wef 03/06/1991]
 
 ### Change of residence
 
-8\. Any person registered under the provisions of this Act who changes his place of residence shall, within 14 days thereof, report the change to a registration officer.
+8\. Any person registered under the provisions of this Act who changes his place of residence shall, within 28 days thereof, report the change to a registration officer.
+
+[Act 20 of 1990 wef 03/06/1991]
 
 ### Returns by householders
 
@@ -124,13 +146,19 @@ An Act for the registration of persons in Singapore, for the issue of identity c
 
 ### Cancellation of identity card
 
-10\. Where a person has been registered under the provisions of this Act and the Minister is satisfied that the registration —
+10\.—(1) Where a person has been registered under the provisions of this Act and the Minister is satisfied that the registration —
 
 (a) was obtained by means of fraud, false representation or the concealment of any material fact; or
 
 (b) was effected by mistake,
 
 the Minister may by order require the Commissioner to cancel the registration of that person.
+
+[Act 20 of 1990 wef 03/06/1991]
+
+(2) Any person whose registration is cancelled under this section shall forthwith surrender his identity card to the Commissioner.
+
+[Act 20 of 1990 wef 03/06/1991]
 
 ### Onus of proof of contents of written applications and of identity cards, etc.
 
@@ -156,29 +184,41 @@ shall not necessarily be sufficient evidence for the purposes of subsection (1).
 
 13\.—(1) Any person who —
 
-(a) being a person liable to be registered under this Act, fails to register, or fails to register within the prescribed time;
+(a) is required to register under this Act, or being registered under this Act, is required to re-register under this Act fails to register or re-register within the prescribed time or period;
 
 (b) fails to report his change of residence as required under section 8;
 
 (c) fails to submit, or fails to submit within the time prescribed, such returns as are required to be submitted under section 9;
 
-(d) without lawful authority, transfers an identity card;
+(d) without lawful authority or reasonable excuse, is in possession of one or more identity cards;
 
-(e) without lawful authority or reasonable excuse, knowingly obtains or is in possession of, or makes use of, a forged identity card or an identity card other than his own;
+(e) unlawfully deprives any person of an identity card;
 
-(f) without lawful authority or reasonable excuse, is in possession of one or more identity cards;
+(f) fails or refuses to surrender his identity card to the Commissioner as required under section 10(2); or
 
-(g) unlawfully issues an identity card;
-
-(h) forges or reproduces an identity card;
-
-(i) unlawfully deprives any person of an identity card; or
-
-(j) aids or abets in the commission of any offence under this Act,
+(g) defaces, mutilates or destroys an identity card,
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 5 years or to both.
 
-(2) Every offence under this Act shall be deemed to be a seizable offence for the purposes of the Criminal Procedure Code [Cap. 68].
+(2) Any person who —
+
+(a) without lawful authority, parts with possession of any identity card to any person;
+
+(b) without lawful authority or reasonable excuse, knowingly obtains or is in possession of or makes use of a forged identity card or an identity card other than his own;
+
+(c) unlawfully issues or reproduces an identity card or any part thereof; or
+
+(d) forges, erases, alters or falsifies any entry in or tampers with an identity card,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 10 years or to both.
+
+(3) The Commissioner may accept from any person who is reasonably suspected of having committed an offence under subsection (1)(b) or (c) a sum of money not exceeding $200 by way of composition for the offence which may have been committed.
+
+(4) Any person who aids or abets in the commission of any offence under this Act shall be guilty of an offence.
+
+(5) Every offence under this Act shall be deemed to be a seizable offence for the purposes of the Criminal Procedure Code (Cap. 68).
+
+[Act 20 of 1990 wef 03/06/1991]
 
 ### Registration of persons arrested or convicted
 
@@ -212,9 +252,11 @@ that person may be arrested without warrant by the registration officer or polic
 
 (a) enter and search any premises;
 
-(b) stop and search any vessel, vehicle or individual, whether in a public place or not,
+(b) stop and search any vessel, vehicle, train or individual, whether in a public place or not,
 
-if he suspects that any evidence of the commission of an offence under this Act or any regulations made thereunder is likely to be found on the premises or individual or in the vehicle and may seize any evidence so found.
+if he suspects that any evidence of the commission of an offence under this Act or any regulations made thereunder is likely to be found on the premises or individual or in the vessel, vehicle or train and may seize any evidence so found.
+
+[Act 20 of 1990 wef 03/06/1991]
 
 (3) No woman shall be searched under this section except by a woman.
 
@@ -242,13 +284,19 @@ Provided that in any case in which the Public Prosecutor intends to give in evid
 
 (2) Without prejudice to the generality of the foregoing, the Minister may, by such regulations, provide for —
 
-(a) the manner in which and the places at which applications for registration of persons under this Act shall be made;
+(a) the manner in which and the places at which applications for registration or re-registration of persons under this Act shall be made;
+
+[Act 20 of 1990 wef 03/06/1991]
 
 (b) the establishment of a central registry;
 
-(c) the nature of information and documents to be furnished for the purposes of registration;
+(c) the nature of information and documents to be furnished for the purposes of registration or re-registration;
 
-(d) the taking and recording of photographs and thumb print impressions of persons required to be registered under this Act;
+[Act 20 of 1990 wef 03/06/1991]
+
+(d) the taking and recording of photographs and finger impressions of persons required to be registered or re-registered under this Act;
+
+[Act 20 of 1990 wef 03/06/1991]
 
 (e) the issue of identity cards and the particulars to be entered thereon and the different categories of identity cards that may be issued to such categories or classes of persons as may be prescribed;
 
@@ -256,27 +304,45 @@ Provided that in any case in which the Public Prosecutor intends to give in evid
 
 (g) the replacement of identity cards which have been issued under this Act;
 
-(h) the requiring of persons who have obtained identity cards or replacements thereof before attaining the age of 17 years to re-register within such period, not exceeding 5 years from the date of their first registration, as may be prescribed;
+(h) the re-registration of persons who have obtained identity cards or replacements thereof within any prescribed period;
 
-(i) the requiring of persons who have obtained identity cards or replacements thereof to reregister within such period, not exceeding 10 years from the date of their last preceding registration, as may be prescribed;
+[Act 20 of 1990 wef 03/06/1991]
 
-(j) the maximum charges that may be made for, and the conditions which may be imposed in respect of, the taking by any person of photographs for the purposes of this Act;
+(i) the maximum charges that may be made for, and the conditions which may be imposed in respect of, the taking by any person of photographs for the purposes of this Act;
 
-(k) the temporary surrender of identity cards;
+[Act 20 of 1990 wef 03/06/1991]
 
-(l) the custody and production of identity cards;
+(j) the temporary surrender of identity cards;
 
-(m) the times and places for the attendance before a registration officer of applicants and holders of identity cards;
+[Act 20 of 1990 wef 03/06/1991]
 
-(n) the publication of information derived from the register;
+(k) the custody and production of identity cards;
 
-(o) the making of corrections to and alterations in the register and identity cards;
+[Act 20 of 1990 wef 03/06/1991]
 
-(p) the absolute or conditional exemption of any person or category of persons from the provisions of this Act or of any regulations made thereunder;
+(l) the times and places for the attendance before a registration officer of applicants and holders of identity cards;
 
-(q) the surrender and replacement of identity cards issued or deemed to be issued under the Registration of Persons Ordinance 1955 [32/55];
+[Act 20 of 1990 wef 03/06/1991]
 
-(r) the prescribing of fees and charges for the purposes of this Act.
+(m) the publication of information derived from the register;
+
+[Act 20 of 1990 wef 03/06/1991]
+
+(n) the making of corrections to and alterations in the register and identity cards;
+
+[Act 20 of 1990 wef 03/06/1991]
+
+(o) the absolute or conditional exemption of any person or category of persons from the provisions of this Act or of any regulations made thereunder;
+
+[Act 20 of 1990 wef 03/06/1991]
+
+(p) the surrender and replacement of identity cards issued or deemed to be issued under the Registration of Persons Ordinance 1955 [32/55];
+
+[Act 20 of 1990 wef 03/06/1991]
+
+(q) the prescribing of fees and charges for the purposes of this Act.
+
+[Act 20 of 1990 wef 03/06/1991]
 
 (3) Such regulations may —
 
@@ -316,3 +382,8 @@ This Legislative History is provided for the convenience of users of the Nationa
 ||Date of commencement|24 May 1974|
 |4.|**1985 Revised Edition—National Registration Act (Chapter 201)**|
 ||Date of operation|30 March 1987|
+|5.|**Act 20 of 1990—National Registration (Amendment) Act 1990**|
+||Date of First Reading|30 August 1990|
+|||(Bill No. 20/1990 published on 31 August 1990)|
+||Date of Second and Third Readings|4 October 1990|
+||Date of commencement|3 June 1991|
