@@ -1,4 +1,4 @@
-**Minor Offences Act**
+**Miscellaneous Offences (Public Order and Nuisance) Act**
 
 **(CHAPTER 184)**
 
@@ -18,7 +18,7 @@
 
 [**Part II OFFENCES**](#Part-II)
 
-- [5 General rules for assemblies and processions](#General-rules-for-assemblies-and-processions)
+- [5 Assemblies and processions](#Assemblies-and-processions)
 
 - [6 Burning material or discharging firearm in public road](#Burning-material-or-discharging-firearm-in-public-road)
 
@@ -36,21 +36,17 @@
 
 - [13 Other offences](#Other-offences)
 
+- [13A Excessive noise](#Excessive-noise)
+
+- [13B Relief for occupier of premises from nuisance](#Relief-for-occupier-of-premises-from-nuisance)
+
 - [14 Obstruction in canals, etc.](#Obstruction-in-canals-etc)
 
 - [15 Penalty for depositing corpse or dying person](#Penalty-for-depositing-corpse-or-dying-person)
 
-[**Part III ARMY, NAVY, AIR FORCE, POLICE AND MARINE**](#Part-III)
+[**Part III**](#Part-III)
 
-- [16 Unlawful possession of naval, military, air force or police stores](#Unlawful-possession-of-naval-military-air-force-or-police-stores)
-
-- [17 Penalty for taking spirits into barracks or on board Government ships](#Penalty-for-taking-spirits-into-barracks-or-on-board-Government-ships)
-
-- [18 Power to arrest and search boats](#Power-to-arrest-and-search-boats)
-
-- [19 Penalty for harbouring or concealing deserter from vessels](#Penalty-for-harbouring-or-concealing-deserter-from-vessels)
-
-- [20 Supplying drink, etc., to constables on duty](#Supplying-drink-etc-to-constables-on-duty)
+[**[Repealed by Act 10 of 1989 wef 09/06/1989]**](#[Repealed-by-Act-10-of-1989-wef-09/06/1989])
 
 [**Part IV OTHER OFFENCES**](#Part-IV)
 
@@ -62,11 +58,11 @@
 
 - [24 Wilful trespass on property](#Wilful-trespass-on-property)
 
-- [25 Apprehension of suspected persons](#Apprehension-of-suspected-persons)
+- [25 Possession of housebreaking implements or offensive weapons](#Possession-of-housebreaking-implements-or-offensive-weapons)
 
 - [26 Penalty for taking intoxicant, etc., into public hospital](#Penalty-for-taking-intoxicant-etc-into-public-hospital)
 
-- [27 Boat accidents](#Boat-accidents)
+- [27 (Repealed)](#Repealed)
 
 - [28 Improper management of house of public resort](#Improper-management-of-house-of-public-resort)
 
@@ -74,7 +70,7 @@
 
 - [29 Interpretation](#Interpretation)
 
-- [30 Idle and disorderly persons. Unlicensed hawkers](#Idle-and-disorderly-persons-Unlicensed-hawkers)
+- [30 Disorderly or indecent behaviour by prostitutes](#Disorderly-or-indecent-behaviour-by-prostitutes)
 
 - [31 Rogues and vagabonds. Persons previously convicted under section 30](#Rogues-and-vagabonds-Persons-previously-convicted-under-section-30)
 
@@ -86,9 +82,13 @@
 
 - [35 Magistrate may take recognizances for good behaviour in certain cases](#Magistrate-may-take-recognizances-for-good-behaviour-in-certain-cases)
 
-[**Part VI POUNDS**](#Part-VI)
+[**Part VI TOUTING**](#Part-VI)
 
-- [36 Public pounds to be provided](#Public-pounds-to-be-provided)
+- [36 Touting for business](#Touting-for-business)
+
+- [36A Touting in public places](#Touting-in-public-places)
+
+- [36B Seizable offence](#Seizable-offence)
 
 [**Part VII FRAUDULENT POSSESSION OF PROPERTY**](#Part-VII)
 
@@ -106,11 +106,11 @@
 
 - [42 Power of arrest](#Power-of-arrest)
 
-- [43 Touting](#Touting)
+- [43 (Repealed)](#Repealed)
 
 [**Legislative History**](#Legislative-History)
 
-# Minor Offences Act
+# Miscellaneous Offences (Public Order and Nuisance) Act
 
 (CHAPTER 184)
 
@@ -120,7 +120,9 @@ REVISED EDITION 1985
 
 (30th March 1987)
 
-An Act relating to minor offences.
+An Act relating to offences against public order, nuisance and property.
+
+[Act 10 of 1989 wef 09/06/1989]
 
 [6th July 1906]
 
@@ -130,7 +132,9 @@ PRELIMINARY
 
 ### Short title
 
-1\. This Act may be cited as the Minor Offences Act.
+1\. This Act may be cited as the Miscellaneous Offences (Public Order and Nuisance) Act.
+
+[Act 10 of 1989 wef 09/06/1989]
 
 ### Interpretation
 
@@ -142,6 +146,10 @@ PRELIMINARY
 
 “in or near any public road” includes all places in the public road, and all places within 9 metres of it not being effectually separated from and hidden from the road by a wall or otherwise;
 
+“public place” means any place or premises to which at the material time the public or any section of the public has access, on payment or otherwise, as of right or by virtue of express or implied permission;
+
+[Act 10 of 1989 wef 09/06/1989]
+
 “public road” includes every road, street, passage, footway or square over which the public has a right of way.
 
 ### Verandahs public roads
@@ -150,53 +158,49 @@ PRELIMINARY
 
 ### Offences how punishable
 
-4\. All offences under this Act shall be tried by a Magistrate’s Court or a District Court.
+4\. All offences under this Act shall be tried by a Magistrate’s Court or a District Court; and notwithstanding the provisions of any other written law, a Magistrate’s Court shall have the power to impose the maximum penalty prescribed for any such offence.
+
+[Act 10 of 1989 wef 09/06/1989]
 
 ## PART II
 
 OFFENCES
 
-### General rules for assemblies and processions
+### Assemblies and processions
 
-5\.—(1) The Commissioner of Police may, subject to the approval of the Minister, make general rules for —
+5\.—(1) The Minister may make rules —
 
-(a) the conduct of all assemblies and processions in public roads, public places or places of public resort, and issuing permits for the same;
+(a) regulating assemblies and processions in public roads, public places and places of public resort;
 
-(b) requiring previous notice to be given of the intention to hold such assemblies and processions;
+(b) providing for the grant of permits for holding assemblies and processions in public roads, public places and places of public resort, and the fees to be charged therefor;
 
-(c) keeping order and preventing obstruction or inconvenience in the public roads, bridges, landing places, and all public places and places of public resort, whether such public places or places of public resort are on public or private land.
+(c) for keeping order and preventing obstruction or inconvenience in public roads, bridges, landing places, and all public places and places of public resort; and
 
-### Prohibition of assemblies or processions
+(d) prescribing the punishment by a fine not exceeding $5,000 or imprisonment for a term not exceeding 3 months or both for any act or omission in contravention of the provisions of any such rules.
 
-(2) The Deputy Commissioner of Police may, with the sanction of the Minister, prohibit any assembly or procession in any public road or in any public place or place of public resort.
+(2) The Minister may by order prohibit or restrict, subject to such conditions as may be specified in the order, the holding of any assembly or procession in any public road, public place or place of public resort specified in the order.
 
-### Publication of rules
+(3) A Deputy Commissioner of Police may, with the concurrence of the Minister, prohibit or restrict the holding of any assembly or procession in any specified public road, public place or place of public resort in any particular case where the Deputy Commissioner is satisfied that the holding of such assembly or procession may result in public disorder, damage to property or disruption to the life of the community.
 
-(3) All general rules made under this section shall be published in theGazette.
+(4) Any person who —
 
-### Penalty for breach of the rules
+(5) organises or assists in organising any assembly or procession in any public road, public place or place of public resort in contravention of any order under subsection (2) or any prohibition or restriction under subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both; or
 
-(4) Any person who infringes any general rules made under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50.
+(6) participates in any assembly or procession in any public road, public place or place of public resort where he knows or ought reasonably to have known that the assembly or procession is held in contravention of an order under subsection (2) or any prohibition or restriction under subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
 
-(5) Any person who holds or is present assisting at any assembly or procession in any public road or in any public place or place of public resort held in defiance of a prohibition by the Deputy Commissioner of Police under subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200 or to imprisonment for a term not exceeding 6 months or to both.
-
-(6) For the purposes of this section —
-
-“public place” means any building, park, garden, sea beach or other place to which the public for the time being has access;
-
-“place of public resort” means an approved place as defined in the Public Entertainments Act [Cap. 257].
-
-(7) Nothing in this section shall be deemed to prevent any athletic contest in any public place, or to prevent any assembly in any place of public resort for the purpose for which the place of public resort is licensed.
+[Act 10 of 1989 wef 09/06/1989]
 
 ### Burning material or discharging firearm in public road
 
 6\. Any person who sets fire to or burns any material to the annoyance, inconvenience or danger of the public, or negligently or wilfully discharges any firearm or air-gun, or throws or discharges any stone or other missile, or sends up any fire-balloon or rocket in or near any public road shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50:
 
-Provided that it shall be no offence under this section for any person authorised in writing by the Deputy Commissioner of Police to discharge a firearm or air-gun in or near a public road in the exercise of his duty under any written law, by-law or regulation relating to the destruction of dogs.
+Provided that it shall be no offence under this section for any person to discharge a firearm or air-gun in or near a public road in the exercise of his duty under any written law, by-law or regulation relating to the destruction of dogs.
 
 [7\*
 
 \*Section 6 in the 1970 Ed. was repealed by Act 24 of 1972.
+
+[Act 10 of 1989 wef 09/06/1989]
 
 ### Duty of police officers as to dangerous animals
 
@@ -248,7 +252,9 @@ Affixing bills or otherwise defacing houses, etc.
 
 Bathing in public
 
-(b) bathes or washes himself, or any other person, animal or thing on any public road, or in, upon or by the side of any public tank, reservoir, watercourse or stream, the use of which for bathing has been forbidden by the Deputy Commissioner of Police;
+(b) bathes or washes himself, or any other person, animal or thing on any public road, or in, upon or by the side of any public tank, reservoir, watercourse or stream;
+
+[Act 10 of 1989 wef 09/06/1989]
 
 Obstructing person bathing
 
@@ -278,17 +284,17 @@ Spitting
 
 Animals destroying trees, etc.
 
-(a) being the owner or person in charge of any animal allows the animal to injure any tree or plant, or fence round any tree or plant, in or at the side of any public road, or to graze on the side of any public road, or allows any pig to root in any public road, or on the side thereof, or in any State lands, or lands in the possession of any public institution;
+(a) being the owner or person in charge of any animal allows the animal to injure any tree or plant, or fence round any tree or plant, in or at the side of any public road, or to graze on the side of any public road;
+
+[Act 10 of 1989 wef 09/06/1989]
 
 (i) Damage recoverable as fine
 
 all damage done by such animal shall be assessed by the Magistrate’s Court, and shall be recoverable in the manner provided by law for the recovery of fines before Magistrates’ Courts from the owner of the animal, together with any amounts to be levied as fines;
 
-(ii) Pigs rooting may be killed
+(ii) [Deleted by Act 10 of 1989 wef 09/06/1989]
 
-the Deputy Commissioner of Police may, whenever he finds it necessary, give orders for the killing of pigs found rooting on the public roads or State lands, or lands in the possession of any public institution, and the carcase of any pig so killed, if not removed within 12 hours, shall be buried by the police;
-
-(iii) the Deputy Commissioner of Police shall not issue orders for the killing of pigs found rooting on any public road or State lands, or lands in the possession of any public institution, until notice in writing of the intention to issue the order has been posted up in such road or State lands, or lands in the possession of any public institution, at least 24 hours beforehand, and until proclamation of the intention has been publicly made throughout that road or State lands, or lands in the possession of any public institution;
+(iii) [Deleted by Act 10 of 1989 wef 09/06/1989]
 
 Allowing horses, cattle, etc., to stray
 
@@ -326,25 +332,11 @@ Abusive language
 
 (f) uses any indecent, threatening, abusive or insulting words, or behaves in a threatening or insulting manner, or posts up, or affixes, or exhibits any indecent, threatening, abusive or insulting written paper or drawing with intent to provoke a breach of the peace, or whereby a breach of the peace is likely to be occasioned;
 
-Beating drums, etc., and blowing horns, etc.
+(g) [Deleted by Act 10 of 1989 wef 09/06/1989]
 
-(g) without the permission in writing of the Deputy Commissioner of Police or of a superintendent or assistant superintendent of police, beats within the limits of any town or village between the hours of 12 midnight and 6 a.m. of the next day, or in any public road or public place at any hour, any drum, gong, tambour or tom tom, or blows any whistle, horn, trumpet, flute, pipe, bagpipes or other wind instrument, or beats or sounds any metal or musical instrument or utensil;
+(h) [Deleted by Act 10 of 1989 wef 09/06/1989]
 
-(i) notwithstanding that the permission in writing has been given, any police officer, on the complaint of a house-holder that the noise of any such instrument is dangerous to any sick person living near the place where the noise is going on, or for other good and sufficient reason, may enter upon the premises where the noise is, and after warning stop the noise, either by removal of the instruments or the dispersal of those assembled there;
-
-(ii) paragraph (g) shall not be held to apply to military or police music;
-
-(iii) paragraph (g) shall not apply to police whistles blown by any person for the purpose of calling assistance nor shall it apply to any horn, bell, whistle or similar appliance on any motor car, bicycle or other vehicle, provided such horn, bell, whistle or appliance is not sounded for a period longer than is absolutely necessary to prevent the risk of collision;
-
-(iv) for the purposes of paragraph (g) “public place” shall have the same meaning as in section 5;
-
-Gramophones, loud speakers, etc., at night prohibited
-
-(h) without the permission in writing of the Deputy Commissioner of Police or of a superintendent or assistant superintendent of police within the limits of any town or village between the hours of 12 midnight and 6 a.m. of the next day operates or causes or suffers to be operated any gramophone or wireless loud speaker or pianola or other form of music mechanically or electrically produced; notwithstanding that such permission in writing has been given, any police officer, on the complaint of a householder that the noise of any such instrument is dangerous to any sick person living near the place where such instrument is being operated, or for any other good and sufficient reason, may enter upon the premises where the instrument is being operated, and after warning stop the noise, either by the removal of the instrument or in some other appropriate way;
-
-Gramophones and loud speakers in public places prohibited
-
-(i) operates or causes or suffers to be operated in any street or public place or in any shop, business premises, building or place which adjoins any street or public place any gramophone or wireless loud speaker or any other instrument whatsoever for the production of noise or music save as exempted by paragraph (g)(ii) and (iii) in such a manner as to cause annoyance, inconvenience or offence to occupants or inmates of any permises or to passengers or other persons lawfully using the street or public place;
+(i) [Deleted by Act 10 of 1989 wef 09/06/1989]
 
 (j) places any blind, shade, covering, awning or other projection over or along any public road if any part thereof is less than 21/
 
@@ -355,6 +347,40 @@ metres above the surface of that public road.
 [14
 
 [21/73]
+
+### Excessive noise
+
+13A\.—(1) Any person who makes any noise by any instrument or other means in such a manner as to cause or be likely to cause annoyance or inconvenience to the occupier of any premises in the vicinity or to any person lawfully using any public road or in any public place shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
+
+(2) Any police officer, on any complaint that any person in any premises is making such noise as to cause annoyance or inconvenience to the complainant, may enter upon the premises and, after warning the person reasonably suspected of making the noise, stop the making of such noise whether by the removal of any instrument or object or in some other appropriate manner.
+
+[Act 10 of 1989 wef 09/06/1989]
+
+### Relief for occupier of premises from nuisance
+
+13B\.—(1) A Magistrate’s Court may act under this section on a complaint made by the occupier of any premises on the ground that as occupier of the premises he is aggrieved by noise amounting to a nuisance.
+
+(2) If the Magistrate’s Court is satisfied that the alleged nuisance exists, or that although abated it is likely to recur on the same premises, the Court shall make an order for either or both of the following purposes:
+
+(a) requiring the defendant to abate the nuisance, within a time specified in the order and to execute any works necessary for that purpose;
+
+(b) prohibiting a recurrence of the nuisance, and requiring the defendant, within a time specified in the order, to execute any works necessary to prevent the recurrence.
+
+(3) Proceedings under this section shall be brought against the person responsible for the nuisance or, if that person cannot be found, against the owner or occupier of the premises from which the noise is emitted or would be emitted.
+
+(4) A person who without reasonable excuse contravenes any requirement of an order under subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
+
+(5) In any proceedings for an offence under this section in respect of noise caused in the course of a trade or business, it shall be a defence to prove that the best practicable means have been used for preventing, or for counteracting the effect of, the noise.
+
+(6) In this section —
+
+“noise” includes vibration;
+
+“person responsible”, in relation to the emission of noise, means the person to whose act, default or sufference the noise is attributable; and where more than one person is responsible for the noise, this section shall apply to each of those persons whether or not what any one of them is responsible for would by itself amount to a nuisance, or would result in a level of noise justifying any proceedings under this section;
+
+“practicable” means reasonably practicable having regard among other things to local conditions and circumstances, to the current state of technical knowledge and to the financial implications.
+
+[Act 10 of 1989 wef 09/06/1989]
 
 ### Obstruction in canals, etc.
 
@@ -384,47 +410,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ## PART III
 
-ARMY, NAVY, AIR FORCE, POLICE AND MARINE
-
-### Unlawful possession of naval, military, air force or police stores
-
-16\. Any person who knowingly detains, buys, exchanges or receives from any person subject to military law for the army, navy or air force of Singapore or of any visiting forces lawfully present in Singapore or from any member of the Police Force of Singapore or of Malaysia lawfully present in Singapore, any arms, ammunition, accoutrements, clothing, regimental or other military, naval, air force or police necessaries or other property belonging to the Government or to the government of Malaysia or to the government of any country which has visiting forces lawfully present in Singapore or any medal for good conduct, or for distinguished or other services, or who has in his possession or keeping any such arms, ammunition, accoutrements, clothing, regimental or other military, naval, air force or police necessaries, or other property or medals as above, and does not give a satisfactory account as to how he came by the same, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50 or to imprisonment for a term not exceeding one month.
-
-[17
-
-### Penalty for taking spirits into barracks or on board Government ships
-
-17\. Any person who, not being amenable to military law for the army, navy or air force of Singapore or of any visiting forces lawfully present in Singapore, takes or attempts to take into any military barrack, guardroom, or encampment or on board or alongside of any Government ship or into any police barrack, police station or lock-up, any intoxicating liquor, drug or preparation, without the licence in writing of the commanding officer, unless such articles are intended for some person above the rank of non-commissioned officer, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100 or to imprisonment for a term not exceeding 2 months, and such liquor, drug or preparation and the vessels containing the same shall be forfeited.
-
-[18
-
-### Power to arrest and search boats
-
-18\.—(1) Any officer or non-commissioned officer of the army, navy or air force of Singapore or of any visiting forces lawfully present in Singapore, may with or without warrant arrest any person —
-
-(a) loitering in the vicinity of any barracks or encampment; or
-
-(b) found in a boat hovering about any Government ship,
-
-and suspected of committing or attempting to commit an offence under section 17, and such person may be brought before a Magistrate’s Court to be dealt with according to law.
-
-(2) Any officer or non-commissioned officer of the army, navy or air force of Singapore or of any visiting forces lawfully present in Singapore may with or without warrant search any boat which is hovering about any Government ship, and which there is reason to suspect is being used for the commission of an offence under section 17.
-
-(3) In section 17 and this section, “Government ship” means any ship belonging to or in the service of the Government or the government of Malaysia or the government of any country which has visiting forces lawfully present in Singapore.
-
-[19
-
-### Penalty for harbouring or concealing deserter from vessels
-
-19\. Any person who wilfully harbours or conceals any person employed or engaged in any capacity on board any ship belonging to the navy of any foreign State, or on board any merchant vessel, whether under the Singapore, Malaysian, British or any foreign flag, knowing or having reason to believe such person to be a deserter, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200.
-
-[20
-
-### Supplying drink, etc., to constables on duty
-
-20\. Any keeper or person in charge of any tavern or other place for the sale of any intoxicating liquor, drug or preparation who permits any police officer on duty to drink or use any intoxicating liquor, drug or preparation, or to remain, loiter or conceal himself in the tavern or place, or upon any premises belonging thereto, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100.
-
-[21
+[Repealed by Act 10 of 1989 wef 09/06/1989]
 
 ## PART IV
 
@@ -458,21 +444,29 @@ OTHER OFFENCES
 
 [25
 
-### Apprehension of suspected persons
+### Possession of housebreaking implements or offensive weapons
 
-25\.—(a) Any person found between 7 p.m. and 7 a.m. armed with any dangerous or offensive instrument with intent to commit any criminal offence;
+25\.—(1) Any person who is found —
 
-(b) any reputed thief found between 7 p.m. and 7 a.m. on board any vessel or boat, or lying or loitering in any bazaar, street, road, yard or other place who does not give a satisfactory account of himself;
+(a) armed with any dangerous or offensive instrument with intent to commit any offence;
 
-(c) any person found between 7 p.m. and 7 a.m. having his face covered or otherwise found disguised with intent to commit any criminal offence;
+(b) having his face covered or otherwise found disguised with intent to commit any offence; or
 
-(d) any person found between 7 p.m. and 7 a.m. in any dwelling-house or other building without being able satisfactorily to account for his presence therein;
+(c) armed with any article or instrument for use in the course of or in connection with any housebreaking,
 
-(e) any person having in his possession without lawful excuse, the proof of which excuse shall be on such person, any implement of house breaking,
+shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years; and any instrument or article found in the possession of that person shall be forfeited.
 
-may be taken into custody by any police officer without a warrant, and shall be liable on conviction to imprisonment for a term not exceeding 6 months, and any such instruments or implements found in the possession of that person shall be forfeited.
+(2) Any person who —
 
-[26
+(a) is a reputed thief, is found on board any vessel or boat, or loitering in any street, road, yard or other place and does not give a satisfactory account of himself; or
+
+(b) is found in any dwelling-house or other building without being able satisfactorily to account for his presence therein,
+
+shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 6 months.
+
+(3) Every offence under this section shall be deemed to be a seizable offence within the meaning of the Criminal Procedure Code (Cap. 68).
+
+[Act 10 of 1989 wef 09/06/1989]
 
 ### Penalty for taking intoxicant, etc., into public hospital
 
@@ -480,13 +474,7 @@ may be taken into custody by any police officer without a warrant, and shall be 
 
 [27
 
-### Boat accidents
-
-27\.—(1) Whenever any accident occurs to a boat attended with loss of life the owner or person in charge of the boat shall forthwith report the circumstances at a police station.
-
-(2) Any owner or person in charge, as the case may be, who without lawful excuse neglects or delays to make such report shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50.
-
-[28
+27\. [Repealed by Act 10 of 1989 wef 09/06/1989]
 
 ### Improper management of house of public resort
 
@@ -514,17 +502,11 @@ VAGRANCY
 
 [30
 
-### Idle and disorderly persons. Unlicensed hawkers
+### Disorderly or indecent behaviour by prostitutes
 
-30\.—(a) Every hawker wandering abroad and trading without being duly licensed or otherwise authorised by law; and
+30\. Every common prostitute wandering in any public road or place of public resort and behaving in a disorderly or indecent manner shall be deemed to be an idle and disorderly person within the meaning of this Part and shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding one month.
 
-Riotous or indecent behaviour by prostitutes
-
-(a) every common prostitute wandering in the public streets or public highways, or in any place of public resort, and behaving in a disorderly or indecent manner,
-
-shall be deemed to be an idle and disorderly person within the meaning of this Part and shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100 or to imprisonment for a term not exceeding one month.
-
-[31
+[Act 10 of 1989 wef 09/06/1989]
 
 ### Rogues and vagabonds. Persons previously convicted under section 30
 
@@ -546,9 +528,11 @@ Fraudulent charitable collections
 
 (e) every person going about as a gatherer or collector of alms, or endeavouring to procure charitable contributions of any nature or kind, under any false or fraudulent pretence;
 
-Possession of house-breaking implements or offensive weapons
+Possession of instrument to commit offence
 
-(f) every person having in his or her possession or custody any picklock, key, crow, jack, bit or other implement, with intent to commit housebreaking, or being armed with any firearm, cutting or stabbing instrument, bludgeon or other offensive weapon or material, or having in his or her possession any instrument or material with intent to commit an offence;
+(a) every person having in his possession without lawful excuse any instrument or material with intent to commit any offence;
+
+[Act 10 of 1989 wef 09/06/1989]
 
 Being found on premises for unlawful purpose
 
@@ -562,9 +546,11 @@ Idle and disorderly person resisting arrest
 
 (i) every person arrested as an idle and disorderly person who violently resists arrest and being subsequently convicted of the offence for which he was arrested,
 
-shall be deemed to be a rogue and vagabond within the meaning of this Part and shall be liable on conviction to a fine not exceeding $500 or to imprisonment for a term not exceeding 3 months.
+shall be deemed to be a rogue and vagabond within the meaning of this Part and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both.
 
 [32
+
+[Act 10 of 1989 wef 09/06/1989]
 
 ### Any person may arrest offender
 
@@ -594,23 +580,33 @@ shall be deemed to be a rogue and vagabond within the meaning of this Part and s
 
 ## PART VI
 
-POUNDS
+TOUTING
 
-### Public pounds to be provided
+### Touting for business
 
-36\.—(1) Public pounds shall be provided and pound-keepers appointed at such places as the Minister directs.
+36\.—(1) Any person in any public road, public place, place of public resort or vehicle on a public road who, in connection with any trade or business (whether or not carried on by that person), solicits any other person persistently or in any manner as to cause or be likely to cause annoyance to that other person shall be guilty of an offence and shall be liable on conviction to a fine of not less than $1,000 and not more than $5,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a second or subsequent conviction, to a fine of not less than $2,000 and not more than $10,000 or to imprisonment for a term not exceeding one year or to both.
 
-(2) Any person may and any police officer shall seize all horses, cattle, goats, sheep and pigs found picketed, tethered, or straying upon any public street, footway or back lane or trespassing on the grounds or property of any person or of the Government, and confine such animals in a public pound.
+[Act 10 of 1989 wef 09/06/1989]
 
-(3) Any animal so impounded may be redeemed by the owner thereof within 10 days after being so impounded on payment to the pound-keeper of such fee as is fixed from time to time by the Minister and published in theGazetteand of the expenses of feeding the same while impounded according to the rate to be fixed from time to time by the Deputy Commissioner of Police.
+### Touting in public places
 
-(4) Any animal not so redeemed as aforesaid may be publicly sold by order of the Deputy Commissioner of Police, and the proceeds of the sale after deducting the fee and the expenses of feeding shall be paid to the owner of the animal, or if not claimed within a period of 3 months after the sale shall be retained by the Deputy Commissioner of Police and paid into the Consolidated Fund.
+36A\.—(1) Any person who in any public office, or in the vicinity thereof, solicits to offer or loiters for the purpose of offering in connection with the public office his services to any one or more persons having business at that public office or any other public office (whether or not the services so offered relate to the business) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.
 
-### Penalty for pound breach
+(2) Subsection (1) shall not apply to —
 
-(5) Any person who takes any animal out of a public pound without the knowledge and consent of the pound-keeper shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50.
+(a) any officer specifically appointed to advise the public on the business carried on in a public office; and
 
-[37
+(b) any person who is licensed under any written law or is otherwise authorised to act as a petition writer.
+
+(3) In this section, “public office” means any court and Government office or department.
+
+[Act 10 of 1989 wef 09/06/1989]
+
+### Seizable offence
+
+36B\. Every offence under this Part shall be deemed to be a seizable offence within the meaning of the Criminal Procedure Code (Cap. 68).
+
+[Act 10 of 1989 wef 09/06/1989]
 
 ## PART VII
 
@@ -618,11 +614,15 @@ FRAUDULENT POSSESSION OF PROPERTY
 
 ### Fraudulent possession of property
 
-37\.—(1) Any person who has in his possession or conveys in any manner anything which may be reasonably suspected of being stolen or fraudulently obtained shall, if he fails to account satisfactorily how he came by the same, be guilty of an offence and shall be liable on conviction to a fine not exceeding $100 or to imprisonment for a term not exceeding 3 months.
+37\.—(1) Any person who has in his possession or conveys in any manner anything which may be reasonably suspected of being stolen or fraudulently obtained shall, if he fails to account satisfactorily how he came by the same, be guilty of an offence and shall be liable on conviction to a fine not exceeding $3,000 or to imprisonment for a term not exceeding one year or to both.
+
+[Act 10 of 1989 wef 09/06/1989]
 
 (2) If any person charged with having or conveying anything stolen or fraudulently obtained declares that he received the same from some other person, or that he was employed as a carrier, agent or servant to convey the same for some other person, the court may cause every such other person, and also, if necessary, every former or pretended purchaser or other person through whose possession the same has passed, provided that such other person is alleged to have had possession of the same within the jurisdiction of that court, to be brought before it and examined, and shall examine witnesses upon oath touching the same.
 
-(3) If it appears to such court that any person so brought before it had possession of such thing and had reasonable cause to believe the same to have been stolen or fraudulently obtained, that person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50 or to imprisonment for a term not exceeding 3 months.
+(3) If it appears to such court that any person so brought before it had possession of such thing and had reasonable cause to believe the same to have been stolen or fraudulently obtained, that person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding one year or to both.
+
+[Act 10 of 1989 wef 09/06/1989]
 
 (4) The word “possession” in subsections (1), (2) and (3) includes possession in a house, building, ship, vessel, boat or other place as well as possession in a public road or place.
 
@@ -632,7 +632,9 @@ FRAUDULENT POSSESSION OF PROPERTY
 
 (b) having been convicted in Malaysia or in Brunei Darussalam of an offence of a nature similar to any of those offences,
 
-is subsequently convicted of an offence punishable under this section shall be liable to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 2 years.
+is subsequently convicted of an offence punishable under this section shall be liable to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+[Act 10 of 1989 wef 09/06/1989]
 
 ### Search for property stolen or fraudulently obtained
 
@@ -650,7 +652,9 @@ is subsequently convicted of an offence punishable under this section shall be l
 
 ### Secondhand dealers and money changers to report property stolen or fraudulently obtained
 
-38\.—(1) When any property has been stolen or fraudulently obtained, and a written description of the property has been given by any police officer to any dealer in secondhand goods or money-changer, and property answering the description of the property is in the possession of such dealer or money-changer or afterwards comes into his possession or is offered to him for sale or exchange, he shall without undue delay give information of the property to the Deputy Commissioner of Police or at a police station, and shall at the same time state the name and address given by the person from whom he received that property or by whom it was offered to him for sale or exchange.
+38\.—(1) When any property has been stolen or fraudulently obtained, and a written description of the property has been given by any police officer to any dealer in secondhand goods or money-changer, and property answering the description of the property is in the possession of such dealer or money-changer or afterwards comes into his possession or is offered to him for sale or exchange, he shall without undue delay give information of the property to any police officer or at a police station, and shall at the same time state the name and address given by the person from whom he received that property or by whom it was offered to him for sale or exchange.
+
+[Act 10 of 1989 wef 09/06/1989]
 
 ### Penalty
 
@@ -662,15 +666,19 @@ Provided that when, in the opinion of the court, the property is of such a natur
 
 ### Melting or defacing metals, etc., within 3 days of receipt
 
-39\. If any pawnbroker or any dealer in secondhand goods or any worker in platinum, gold or silver, or any dealer in platinum, gold or silver articles, within 3 days of receipt of any goods or any such metals or articles, or after receiving information from a police officer that any specified goods, metals or articles, have been stolen or fraudulently obtained, melts, alters, defaces, or puts away the same or causes the same to be melted, altered, defaced, or put away, without the previous permission of the Deputy Commissioner of Police, and it is found that such goods, metals or articles were stolen or fraudulently obtained, such pawnbroker, secondhand dealer, worker or dealer shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
+39\. If any pawnbroker or any dealer in secondhand goods or any worker in platinum, gold or silver, or any dealer in platinum, gold or silver articles, within 3 days of receipt of any goods or any such metals or articles, or after receiving information from a police officer that any specified goods, metals or articles, have been stolen or fraudulently obtained, melts, alters, defaces, or puts away the same or causes the same to be melted, altered, defaced, or put away, without the previous permission of Director, Criminal Investigation Department, and it is found that such goods, metals or articles were stolen or fraudulently obtained, such pawnbroker, secondhand dealer, worker or dealer shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
 
 [40
 
+[Act 10 of 1989 wef 09/06/1989]
+
 ### Register of workers and dealers in metals
 
-40\. Every worker in platinum, gold or silver and every dealer in platinum, gold or silver articles shall be registered by the Deputy Commissioner of Police in a register to be maintained by him for the purpose and any such worker or dealer who carries on business as such without being so registered shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $400 or to imprisonment for a term not exceeding 3 months or to both.
+40\. Every worker in platinum, gold or silver and every dealer in platinum, gold or silver articles shall be registered by Director, Criminal Investigation Department in a register to be maintained by him for the purpose and any such worker or dealer who carries on business as such without being so registered shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $400 or to imprisonment for a term not exceeding 3 months or to both.
 
 [41
+
+[Act 10 of 1989 wef 09/06/1989]
 
 ### Employees not affected
 
@@ -684,23 +692,19 @@ MISCELLANEOUS
 
 ### Power of arrest
 
-42\.—(1) Any police officer may arrest without warrant any person offending in his view against any of the provisions of this Act, and take him before a Magistrate’s Court to be dealt with according to law.
+42\.—(1) Subject to the provisions of this Act, any police officer may arrest without warrant any person offending in his view against any of the provisions of this Act, and take him before a Magistrate’s Court to be dealt with according to law.
 
 (2) Any animal, conveyance or article concerning by or for which an offence has been committed may be seized and taken to a pound or police station unless given up sooner by order of a Magistrate’s Court, until the charge is decided in due course of law.
 
 [43
 
-### Touting
+[Act 10 of 1989 wef 09/06/1989]
 
-43\.—(1) Any person who touts for the purpose of obtaining any document from any court or any department of the Government or for any purpose connected with any such court or department, or acts as an unauthorised adviser to any person who has business in any such court or department, or loiters for any such purpose in or near any such court or department, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 or to imprisonment for a term not exceeding 6 months or to both.
-
-(2) Every offence under subsection (1) shall be deemed to be a seizable offence within the meaning of the Criminal Procedure Code [Cap. 68].
-
-[44
+43\. [Repealed by Act 10 of 1989 wef 09/06/1989]
 
 ## LEGISLATIVE HISTORY
 
-Minor Offences Act
+Miscellaneous Offences (Public Order and Nuisance) Act
 
 (CHAPTER 184)
 
@@ -892,3 +896,8 @@ This Legislative History is provided for the convenience of users of the Minor O
 ||Date of commencement|31 January 1986|
 |39.|**1985 Revised Edition—Minor Offences Act**|
 ||Date of operation|30 March 1987|
+|40.|**Act 10 of 1989—Minor Offences (Amendment) Act 1989**|
+||Date of First Reading|19 January 1989|
+|||(Bill No. 16/89 published on 19 January 1989)|
+||Date of Second and Third Readings|16 February 1989|
+||Date of commencement|9 June 1989|
