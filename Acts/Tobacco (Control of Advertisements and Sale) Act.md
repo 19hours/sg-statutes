@@ -58,6 +58,8 @@
 
 - [22 Powers of police and authorised officers](#Powers-of-police-and-authorised-officers)
 
+- [22A Power to examine and secure attendance](#Power-to-examine-and-secure-attendance)
+
 - [23 Power of Chief Executive to require tobacco products for testing or analysis and furnishing of information](#Power-of-Chief-Executive-to-require-tobacco-products-for-testing-or-analysis-and-furnishing-of-information)
 
 - [24 Power to enter premises and inspect and seize advertisements, products, machines and documents](#Power-to-enter-premises-and-inspect-and-seize-advertisements-products-machines-and-documents)
@@ -80,6 +82,8 @@
 
 - [32A Fees, charges, etc., collected by the Chief Executive or authorised officer to be paid to Authority](#Fees-charges-etc-collected-by-the-Chief-Executive-or-authorised-officer-to-be-paid-to-Authority)
 
+- [32B Service of summons, notices, etc.](#Service-of-summons-notices-etc)
+
 - [33 Regulations](#Regulations)
 
 - [34 Transitional](#Transitional)
@@ -90,7 +94,7 @@
 
 (CHAPTER 309)
 
-(Original Enactment: Act 10 of 1993)
+(Original Enactment: 10 of 1993)
 
 REVISED EDITION 1994
 
@@ -135,6 +139,10 @@ PRELIMINARY
 “Chief Executive” means the person appointed under section 15 of the Health Sciences Authority Act 2001 to be the Chief Executive of the Authority;
 
 [4/2001 wef 01/04/2001]
+
+“cigarette” means any product which consists in whole or in part of cut, shredded or manufactured tobacco, or any tobacco derivative or substitute, rolled up in paper, tobacco leaf or other material and which is in such form as to be capable of immediate use for smoking;
+
+[35/2002 wef 01/04/2003]
 
 “imitation tobacco product” means any of the products referred to in section 15(1);
 
@@ -298,11 +306,23 @@ shall be guilty of an offence and shall be liable on conviction for —
 
 (b) a yield of more than 15.0 mg (or such other minimum amount as the Minister may by order prescribe) of tar (nicotine free smoke condensate) per cigarette.
 
-(3) Subsections (1) and (2)shall not apply to the importation of any tobacco product which is intended for re-export.
+(2A) Notwithstanding subsection (2), no person shall import, sell or offer for sale any tobacco product —
 
-(4) For the purposes of subsection (2), “cigarette” means any product which consists in whole or in part of cut, shredded or manufactured tobacco, or any tobacco derivative or substitute, rolled up in paper, tobacco leaf or other material and which is in such form as to be capable of immediate use for smoking.
+(a) that contains; or
 
-(5) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding one year or to both.
+(b) which emissions contain,
+
+any substance in excess of such amount as the Minister may by order prescribe for that substance.
+
+[35/2002 wef 01/04/2003]
+
+(3) Subsections (1), (2) and (2A) shall not apply to the importation of any tobacco product which is intended for re-export.
+
+(5) Any person who contravenes subsection (1), (2) and (2A) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding one year or to both.
+
+(6) In subsection (2A), “emission” means any substance that is produced when a tobacco product is used.
+
+[35/2002 wef 01/04/2003]
 
 ### Prohibition on sale of imitation tobacco products
 
@@ -375,6 +395,22 @@ ENFORCEMENT AND MISCELLANEOUS
 (6) If a person upon whom a notice has been served under subsection (2) fails to appear before a Court in accordance with the notice, the Court may issue a warrant for the arrest of that person.
 
 (7) Where a person arrested in pursuance of a warrant issued under subsection (6) is produced before a Court, the Court shall proceed as though he were produced before it under subsection (1) and shall, at the conclusion of such proceedings, call upon him to show cause why he should not be punished for failing to attend in compliance with the notice served under subsection (2) and, if due cause is not shown, the Court may order him to pay a penalty not exceeding $2,000 or may commit him to prison for a term not exceeding one month.
+
+### Power to examine and secure attendance
+
+22A\.—(1) For the purpose of investigating any offence under this Act or any regulations made thereunder, the Chief Executive or any authorised officer may —
+
+(a) examine orally any person supposed to be acquainted with the facts and circumstances of the case, and to reduce to writing any statement made by the person so examined; and
+
+(b) require by order in writing the attendance before himself of any person who, from information given or otherwise, appears to be acquainted with the facts and circumstances concerning the case and that person shall attend as so required.
+
+(2) The person mentioned in subsection (1)(a) shall be bound to state truly the facts and circumstances with which he is acquainted concerning the case except only that he may decline to make with regard to any fact or circumstance a statement which would have a tendency to expose him to a criminal charge or to penalty or forfeiture.
+
+(3) A statement made under this section by any person shall be read over to him and shall, after correction, if necessary, be signed by him.
+
+(4) If any person fails to attend as required by an order under subsection (1)(b), the Chief Executive or any authorised officer may report such failure to a Magistrate who may thereupon issue a warrant to secure the attendance of that person as required by the order.
+
+[35/2002 wef 01/04/2003]
 
 ### Power of Chief Executive to require tobacco products for testing or analysis and furnishing of information
 
@@ -474,6 +510,28 @@ and shall, where as a result of the test proceedings for an offence under this A
 
 [4/2001 wef 01/04/2001]
 
+### Service of summons, notices, etc.
+
+32B\.—(1) Any notice, order, direction or document required or authorised by this Act or any regulations made thereunder to be given or served on any person, and any summons issued by a court in connection with any offence under this Act or any regulations made thereunder, may be served on the person —
+
+(a) by delivering it to him or to some adult member or employee of his family at his last known place of residence;
+
+(b) by leaving it at his usual or last known place of residence or business in an envelope addressed to him;
+
+(c) by affixing it to some conspicuous part of his last known place of residence;
+
+(d) by sending it by registered post addressed to him at his usual or last known place of residence or business; or
+
+(e) where the person to be served is a body corporate —
+
+(i) by delivering it to the secretary or other like officer of the body corporate at its registered or principal office; or
+
+(ii) by sending it by registered post addressed to the body corporate at its registered or principal office.
+
+(2) Any notice, order, direction, document or summons sent by registered post to any person in accordance with subsection (1) shall be deemed to be duly served on the person at the time when the notice, order, direction, document or summons would, in the ordinary course of post, be delivered and in proving service of the notice, order, direction, document or summons, it shall be sufficient to prove that the envelope containing the same was properly addressed, stamped and posted by registered post.
+
+[35/2002 wef 01/04/2003]
+
 ### Regulations
 
 33\.—(1) The Minister may make such regulations as appear to him necessary or expedient for the purpose of carrying out the provisions of this Act.
@@ -509,3 +567,8 @@ This Legislative History is provided for the convenience of users of the Smoking
 |||(Bill No. 3/2001 published on 13 January 2001)|
 ||Date of Second and Third Readings|22 February 2001|
 ||Date of commencement|1 April 2001|
+|4.|**Act 35 of 2002—Smoking (Control of Advertisements and Sale of Tobacco) (Amendment) Act 2002**|
+||Date of First Reading|1 October 2002|
+|||(Bill No. 37/2002 published on 2 October 2002)|
+||Date of Second and Third Readings|31 October 2002|
+||Date of commencement|1 April 2003 (except sections 3, 4, 6 and 8)|
