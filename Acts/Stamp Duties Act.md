@@ -54,7 +54,7 @@
 
 [**Part III PROVISIONS APPLICABLE TO PARTICULAR INSTRUMENTS**](#Part-III)
 
-- [15 Relief from stamp duty in case of reconstructions or amalgamations of companies](#Relief-from-stamp-duty-in-case-of-reconstructions-or-amalgamations-of-companies)
+- [15 Relief from ad valorem stamp duty upon reconstruction or amalgamation of companies and transfer of assets between associated companies](#Relief-from-ad-valorem-stamp-duty-upon-reconstruction-or-amalgamation-of-companies-and-transfer-of-assets-between-associated-companies)
 
 - [16 Voluntary conveyance inter vivos](#Voluntary-conveyance-inter-vivos)
 
@@ -538,71 +538,33 @@ the duty shall be calculated on the value, on the day of the date of the instrum
 
 PROVISIONS APPLICABLE TO PARTICULAR INSTRUMENTS
 
-### Relief from stamp duty in case of reconstructions or amalgamations of companies
+### Relief from ad valorem stamp duty upon reconstruction or amalgamation of companies and transfer of assets between associated companies
 
-15\.—(1) If in connection with a scheme for the reconstruction of any company or companies or the amalgamation of any companies it is shown to the satisfaction of the Commissioner that there exist the following conditions:
+15\.—(1) If it is shown to the satisfaction of the Commissioner that the prescribed conditions have been fulfilled, ad valorem stamp duty under Article 3(a), (b) and (c) in the First Schedule shall not be chargeable on any instrument made on or after 1st July 2000 for the purposes of or in connection with —
 
-(a) that a company with limited liability has been registered within 6 months before 1st November 1929, or that a company with limited liability is to be registered, or that since 31st October 1929 a company has been incorporated by special Act, or that since the last-mentioned date or within 6 months before 1st November 1929 the nominal share capital of a company has been increased;
+(a) the transfer of the undertaking or shares in respect of a scheme for the reconstruction of any company or companies, or the amalgamation of any companies; or
 
-(b) that the company (referred to in this section as the transferee company) is to be registered or has been incorporated or has increased its capital with a view to the acquisition either of the undertaking of, or of not less than 90% of the issued share capital of, any particular existing company;
+(b) the transfer, conveyance or assignment of any beneficial interest in any asset between associated companies.
 
-(c) that the consideration for the acquisition (except such part thereof as consists in the transfer to or discharge by the transferee company of liabilities of the existing company) consists as to not less than 90% thereof —
+(2) No instrument referred to in this section shall be deemed to be duly stamped unless —
 
-(i) where an undertaking is to be acquired, in the issue of shares in the transferee company to the existing company or to holders of shares in the existing company; or
+(a) it is stamped with the duty to which it would but for this section be liable; or
 
-(ii) where shares are to be acquired, in the issue of shares in the transferee company to the holders of shares in the existing company in exchange for the shares held by them in the existing company,
+(b) it has been brought to the Commissioner under section 37 and he has certified under section 38 that the full duty with which it is chargeable has been paid or that it is not chargeable with duty.
 
-then, subject to this section, stamp duty under article 10 (a), (aa) or (b) in the First Schedule shall not be chargeable on any instrument made for the purposes of or in connection with the transfer of the undertaking or shares.
+(3) Where any claim for relief from duty under this section has been allowed and it is subsequently found that —
 
-[4/81; 26/96]
+(a) any declaration or other evidence furnished in support of the claim was untrue in any material particular; or
 
-(2) No such instrument shall be deemed to be duly stamped unless either it is stamped with the duty to which it would but for this section be liable or it has been brought to the Commissioner under section 37 and he has certified under section 38 either that the full duty with which it is chargeable has been paid or that it is not chargeable with duty.
+(b) any prescribed matter which the Commissioner was satisfied would not occur in allowing the relief, does occur,
 
-(3) In the case of an instrument made for the purposes of or in connection with a transfer to a company within the meaning of the Companies Act (Cap. 50), subsection (1) shall not apply unless the instrument is —
-
-(a) executed within a period of 12 months from the date of the registration of the transferee company or the date of the resolution for the increase of the nominal share capital of the transferee company, as the case may be; or
-
-(b) made for the purpose of effecting a conveyance or transfer in pursuance of an agreement which has been filed, or particulars of which have been filed, with the Registrar of Companies within the period of 12 months.
-
-(4) For the purposes of a claim for exemption under subsection (1), a company which has, in connection with a scheme of reconstruction or amalgamation, issued any unissued share capital shall be treated as if it had increased its nominal share capital.
-
-(5) A company shall not be deemed to be a particular existing company within the meaning of this section unless —
-
-(a) it is provided by the memorandum of association of, or the Act incorporating, the transferee company that one of the objects for which the company is established is the acquisition of the undertaking of, or shares in, the existing company; or
-
-(b) it appears from the resolution, Act or other authority for the increase of the capital of the transferee company that the increase is authorised for the purpose of acquiring the undertaking of, or shares in, the existing company.
-
-(6) Where a claim is made for exemption under this section, the Commissioner may require the delivery to him of a statutory declaration in such form as he may direct made by an advocate and solicitor of the Supreme Court, and of such further evidence, if any, as he considers necessary.
-
-(7) If —
-
-(a) where any claim for exemption from duty under this section has been allowed, it is subsequently found that any declaration or other evidence furnished in support of the claim was untrue in any material particular, or that the conditions specified in subsection (1) are not fulfilled in the reconstruction or amalgamation as actually carried out;
-
-(b) where shares in the transferee company have been issued to the existing company in consideration of the acquisition, the existing company within a period of 2 years from the date, as the case may be, of the registration or incorporation, or of the authority for the increase of the capital, of the transferee company ceases, otherwise than in consequence of reconstruction, amalgamation or liquidation, to be the beneficial owner of the shares so issued to it; or
-
-(c) where any such exemption has been allowed in connection with the acquisition by the transferee company of shares in another company, the transferee company within a period of 2 years from the date of its registration or incorporation or of the authority for the increase of its capital, as the case may be, ceases, otherwise than in consequence of reconstruction, amalgamation or liquidation, to be the beneficial owner of the shares so acquired,
-
-the exemption shall be deemed not to have been allowed, and an amount equal to the duty remitted shall —
+the claim shall be deemed to have been disallowed and an amount equal to the duty remitted shall —
 
 (i) become payable forthwith; and
 
-(ii) be recoverable from the transferee company as a debt due to the Government, together with interest thereon at the rate of 6% per annum, from the date on which the duty would have become chargeable if this section had not been passed.
+(ii) be recoverable from the transferee company as a debt due to the Government, together with interest thereon at the rate of 6% per annum, from the date on which the duty would have become chargeable if this section had not been enacted.
 
-(8) If in the case of any scheme of reconstruction or amalgamation the Commissioner is satisfied that, at the proper time for making a claim for exemption from duty under subsection (1), there were in existence all the necessary conditions for such exemption other than the condition that not less than 90% of the issued share capital of the existing company would be acquired by the transferee company, the Commissioner may, if it is proved to his satisfaction that not less than 90% of the issued capital of the existing company has under the scheme been acquired within a period of 6 months from the earlier of the 2 following dates:
-
-(a) the last day of the period of one month after the first allotment of shares made for the purposes of the acquisition; or
-
-(b) the date on which an invitation was issued to the shareholders of the existing company to accept shares in the transferee company,
-
-and on production of the instruments on which the duty paid has been impressed, direct repayment to be made of such an amount of duty as would have been remitted if the said condition had been originally fulfilled.
-
-(9) In this section, unless the context otherwise requires —
-
-references to the undertaking of an existing company include references to a part of the undertaking of an existing company;
-
-“company” means a company wherever registered or incorporated;
-
-“shares” includes stock.
+[32/2000 wef 01/07/2000]
 
 ### Voluntary conveyance inter vivos
 
@@ -2018,7 +1980,7 @@ Subject-matter of Instrument
 
 Fee
 
-1. A scheme of reconstruction or amalgamation under section 15
+1. A scheme for reconstruction or amalgamation of companies, or a transfer of assets between associated companies under section 15
 
 $150
 
@@ -2288,3 +2250,8 @@ This Legislative History is provided for the convenience of users of the Stamp D
 ||Date of commencement|1 September 1999|
 |59.|**G. N. No. S 288/2000—Stamp Duties Act (Amendment of First Schedule) Notification 2000**|
 ||Date of commencement|30 June 2000|
+|60.|**Act 32 of 2000—Stamp Duties (Amendment) Act 2000**|
+||Date of First Reading|13 November 2000|
+|||(Bill No. 31/2000 published on 22 December 2000)|
+||Date of Second and Third Readings|22 November 2000|
+||Date of commencement|1 July 2000|
