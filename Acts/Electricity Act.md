@@ -2367,6 +2367,11 @@ This Legislative History is provided for the convenience of users of the Electri
 ||Date of commencement|1 April 2001 (except Parts III to X, sections 94 to 104 and section 105(1) and (2))|
 |2.|**2002 Revised Edition—Electricity Act**|
 ||Date of operation|31 July 2002|
+|3.|**Act 10 of 2001—Electricity Act 2001**|
+||Date of First Reading|22 February 2001|
+|||(Bill No. 9/2001 published on 23 February 2001)|
+||Date of Second and Third Readings|16 March 2001|
+||Date of commencement|1 December 2002 (sections 82, 89 to 93, 103 and 104)|
 ## COMPARATIVE TABLE
 
 Electricity Act
