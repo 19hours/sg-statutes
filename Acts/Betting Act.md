@@ -90,7 +90,9 @@ An Act to suppress common betting-houses, betting in public places and bookmakin
 
 (c) any place used by a bookmaker for the purpose of receiving or negotiating bets or wagers on any such event or contingency as aforesaid whether the bets or wagers reach the bookmaker by the hand of the person placing the bet or his agent or the bookmaker’s agent or through the telephone or by post or by telegram or by any other means;
 
-“equipment” has the same meaning as in the Telecommunication Authority of Singapore Act [Cap. 323];
+“equipment” has the same meaning as in the Telecommunications Act 1999;
+
+[43/1999 wef 01/12/1999]
 
 “penciller” means a person who helps a bookmaker to keep his accounts or record of bets in connection with horse-races;
 
@@ -100,7 +102,9 @@ An Act to suppress common betting-houses, betting in public places and bookmakin
 
 “sporting event” includes any race, fight, game, sport or exercise;
 
-“telecommunication system” has the same meaning as in the Telecommunication Authority of Singapore Act [Cap. 323].
+“telecommunication system” has the same meaning as in the Telecommunications Act 1999.
+
+[43/1999 wef 01/12/1999]
 
 [8/86]
 
@@ -327,5 +331,11 @@ This Legislative History is provided for the convenience of users of the Betting
 |||(Bill No. 15/85 published on 8 November 1985)|
 ||Date of Second and Third Readings|10 January 1986|
 ||Date of commencement|25 February 1986|
-|5.|**1985 Revised Edition—Betting Act**|
+|5.|**1985 Revised Edition—Betting Act (Chapter 21)**|
 ||Date of operation|30 March 1987|
+|6.|**Act 43 of 1999—Telecommunications Act 1999**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|11 October 1999|
+|||(Bill No. 33/99 published on 12 October 1999)|
+||Date of Second and Third Readings|23 November 1999|
+||Date of commencement|1 December 1999|
