@@ -200,11 +200,11 @@ RULES
 
 (m) to prescribe and control the route or routes to be used by fishing vessels within territorial waters;
 
-(n) to control the methods of processing fish;
+(n) [Deleted by Act 5/1999 wef 01/07/2000]
 
-(o) to regulate the inspection and examination of fresh fish and processed fish and to prescribe the standards for the control of the quality of such fish;
+(o) [Deleted by Act 5/1999 wef 01/07/2000]
 
-(p) to regulate and control by licensing factories and plants or any place used for the purpose of processing, packing or storage of fish;
+(p) [Deleted by Act 5/1999 wef 01/07/2000]
 
 (q) to regulate and control by licensing the use of ponds, pools, lakes, swamps, foreshores and any inland waters for the cultivation of fish;
 
@@ -499,3 +499,9 @@ This Legislative History is provided for the convenience of users of the Fisheri
 |||(Bill No. 11/2000 published on 22 February 2000)|
 ||Date of Second and Third Readings|17 March 2000|
 ||Date of commencement|1 April 2000|
+|7.|**Act 5 of 1999—Wholesome Meat and Fish Act 1999**|
+||(Consequential amendment made by)||
+||Date of First Reading|23 November 1998|
+|||(Bill No. 52/98 published on 24 November 1998)|
+||Date of Second and Third Readings|20 January 1999|
+||Date of commencement|1 July 2000|
