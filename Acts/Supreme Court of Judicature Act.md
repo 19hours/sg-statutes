@@ -458,9 +458,7 @@ Original Jurisdiction
 
 (d) by any person on the high seas where the offence is piracy by the law of nations;
 
-(e) by any person within or outside Singapore where the offence is punishable under and by virtue of the provisions of the Hijacking of Aircraft and Protection of Aircraft and International Airports Act (Cap. 124) ; and
-
-[26/2003 wef 03/05/2004]
+(e) by any person within or outside Singapore where the offence is punishable under and by virtue of the provisions of the Hijacking of Aircraft and Protection of Aircraft and International Airports Act (Cap. 124) or the Maritime Offences Act 2003; and
 
 (f) in any place or by any person if it is provided in any written law that the offence is triable in Singapore.
 
@@ -656,9 +654,15 @@ Allocation of Proceedings
 
 (i) any proceedings specified in the order which, but for the order, the District Court would not have jurisdiction to hear and determine by reason only of the fact that the amount involved exceeds the monetary limit of its jurisdiction; or
 
-(ii) any proceedings relating to any of the matters referred to in section 17(a) to (e); and
+(ii) any proceedings relating to any of the matters referred to in section 17(a) to (e);
 
-(b) may make such incidental provision for the transfer of the proceedings to the District Court (including matters relating to procedure and costs) as the Chief Justice thinks fit.
+[36/2004 wef 01/11/2004]
+
+(b) may make such provision governing appeals relating to proceedings transferred to the District Court (including provisions restricting the right of appeal) as the Chief Justice thinks fit; and
+
+[36/2004 wef 01/11/2004]
+
+ may make such incidental provision for the transfer of the proceedings to the District Court (including matters relating to procedure and costs) as the Chief Justice thinks fit.
 
 [16/93]
 
@@ -804,13 +808,23 @@ CIVIL JURISDICTION OF COURT OF APPEAL
 
 (b) where the only issue in the appeal relates to costs or fees for hearing dates;
 
-(c) where a Judge in chambers makes a decision in a summary way on an interpleader summons where the facts are not in dispute; or
+(c) where a Judge in chambers makes a decision in a summary way on an interpleader summons where the facts are not in dispute;
 
-(d) an order refusing to strike out an action or a pleading or a part of a pleading.
+[36/2004 wef 01/11/2004]
+
+(d) an order refusing to strike out an action or a pleading or a part of a pleading; or
 
 [36/2004 wef 01/11/2004]
 
 [16/93; 43/98]
+
+(e) where the High Court makes an order in the exercise of its appellate jurisdiction with respect to any proceedings under the Adoption of Children Act (Cap. 4) or under Part VII, VIII or IX of the Women’s Charter (Cap. 353).
+
+[36/2004 wef 01/11/2004]
+
+(2A) Subsection (2)(a) shall not apply to any case heard and determined by the High Court in the exercise of its original jurisdiction under section 17A of this Act or under section 59 or Part X of the Women’s Charter.
+
+[36/2004 wef 01/11/2004]
 
 (3) The President may, after consulting the Chief Justice, by order published in theGazettevary the amount mentioned in subsection (2)(a).
 
@@ -1657,6 +1671,11 @@ This Legislative History is provided for the convenience of users of the Supreme
 |||(Bill No. 23/2003)|
 ||Date of Second and Third Readings|10 November 2003|
 ||Date of commencement|3 May 2004 (section 13 — amendment of Supreme Court of Judicature Act|
+|18.|**Act 36 of 2004—Supreme Court of Judicature (Amendment) Act 2004**|
+||Date of First Reading|1 September 2004|
+|||(Bill No. 35/2004)|
+||Date of Second and Third Readings|21 September 2004|
+||Date of commencement|1 November 2004|
 ## COMPARATIVE TABLE
 
 Supreme Court of Judicature Act
