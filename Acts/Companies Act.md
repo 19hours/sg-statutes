@@ -4,8 +4,6 @@
 
 **Table of Contents**
 
-[**Long Title**](#Companies-Act)
-
 [**Part I PRELIMINARY**](#Part-I)
 
 - [1 Short title](#Short-title)
@@ -220,6 +218,18 @@
 
 - [76A Consequences of company financing dealings in its shares, etc.](#Consequences-of-company-financing-dealings-in-its-shares-etc)
 
+- [76B Company may acquire its own shares](#Company-may-acquire-its-own-shares)
+
+- [76C Authority for off-market acquisition on equal access scheme](#Authority-for-off-market-acquisition-on-equal-access-scheme)
+
+- [76D Authority for selective off-market acquisition](#Authority-for-selective-off-market-acquisition)
+
+- [76E Authority for market acquisition](#Authority-for-market-acquisition)
+
+- [76F Payments to be made out of distributable profits and company not to be insolvent](#Payments-to-be-made-out-of-distributable-profits-and-company-not-to-be-insolvent)
+
+- [76G Capital redemption reserve](#Capital-redemption-reserve)
+
 - [77 Options over unissued shares](#Options-over-unissued-shares)
 
 - [78 Power of company to pay interest out of capital in certain cases](#Power-of-company-to-pay-interest-out-of-capital-in-certain-cases)
@@ -325,6 +335,8 @@
 - [112 Interests to be issued by companies only](#Interests-to-be-issued-by-companies-only)
 
 - [113 Statement to be issued](#Statement-to-be-issued)
+
+- [113A Restriction on issue, etc., of interest to public](#Restriction-on-issue-etc-of-interest-to-public)
 
 - [114 No issue without approved deed](#No-issue-without-approved-deed)
 
@@ -438,7 +450,7 @@
 
 - [147 Qualification of director](#Qualification-of-director)
 
-- [148 Disqualifications of undischarged bankrupts](#Disqualifications-of-undischarged-bankrupts)
+- [148 Restriction on undischarged bankrupt being director or manager](#Restriction-on-undischarged-bankrupt-being-director-or-manager)
 
 - [149 Disqualification of unfit directors of insolvent companies](#Disqualification-of-unfit-directors-of-insolvent-companies)
 
@@ -464,13 +476,13 @@
 
 - [160 Approval of company required for disposal by directors of company’s undertaking or property](#Approval-of-company-required-for-disposal-by-directors-of-company’s-undertaking-or-property)
 
-- [160A Substantial property transactions](#Substantial-property-transactions)
+- [160A (Repealed)](#Repealed)
 
-- [160B Exceptions from section 160A](#Exceptions-from-section-160A)
+- [160B (Repealed)](#Repealed)
 
-- [160C Liability arising from contravention of section 160A](#Liability-arising-from-contravention-of-section-160A)
+- [160C (Repealed)](#Repealed)
 
-- [160D Interpretation](#Interpretation)
+- [160D (Repealed)](#Repealed)
 
 - [161 Approval of company required for issue of shares by directors](#Approval-of-company-required-for-issue-of-shares-by-directors)
 
@@ -1087,12 +1099,6 @@
 (CHAPTER 50)
 
 (Original Enactment: Act 42 of 1967)
-
-REVISED EDITION 1994
-
-(15th March 1994)
-
-An Act relating to companies.
 
 [29th December 1967]
 
@@ -1717,19 +1723,29 @@ that right does not constitute an interest in a share.
 
 [62/70]
 
-(4) Where a body corporate has an interest in a share and —
+(4) Where a body corporate has, or is by the provisions of this section deemed to have, an interest in a share and —
 
-(a) the body corporate is, or its directors are, accustomed or is under an obligation whether formal or informal to act in accordance with the directions, instructions or wishes of a person;
+(a) the body corporate is, or its directors are, accustomed or under an obligation whether formal or informal to act in accordance with the directions, instructions or wishes of a person; or
 
-(b) a person has a controlling interest in the body corporate; or
-
-(c) a person is, the associates of a person are, or a person and his associates are, entitled to exercise or control the exercise of not less than 15% of the votes attached to the voting shares in the body corporate,
+(b) a person has a controlling interest in the body corporate,
 
 that person shall be deemed to have an interest in that share.
 
-[62/70]
+[38/98 wef 18/11/1998]
 
-(5) For the purposes of subsection (4)(c) , a person is an associate of another person if the first-mentioned person is —
+(4A) Where a body corporate has, or is by the provisions of this section (apart from this subsection) deemed to have, an interest in a share and —
+
+(a) a person is;
+
+(b) the associates of a person are; or
+
+(c) a person and his associates are,
+
+entitled to exercise or control the exercise of not less than 20% of the votes attached to the voting shares in the body corporate, that person shall be deemed to have an interest in that share.
+
+[38/98 wef 18/11/1998]
+
+(5) For the purposes of subsection (4A), a person is an associate of another person if the first-mentioned person is —
 
 (a) a corporation that, by virtue of section 6, is deemed to be related to that other person;
 
@@ -1771,7 +1787,13 @@ that person shall be deemed to have an interest in that share.
 
 (b) an interest in a share of a person whose ordinary business includes the lending of money if he holds the interest only by way of security for the purposes of a transaction entered into in the ordinary course of business in connection with the lending of money;
 
-(c) an interest of a person in a share, being an interest held by him by reason of his holding a prescribed office; and
+(c) an interest of a person in a share, being an interest held by him by reason of his holding a prescribed office;
+
+(ca) an interest of a company in its own shares being purchased or otherwise acquired in accordance with sections 76B to 76G ; and
+
+[38/98 wef 18/11/1998]
+
+[21/2005 wef 30/01/2006]
 
 (d) a prescribed interest in a share, being an interest of such person, or of the persons included in such class of persons, as is prescribed.
 
@@ -4020,6 +4042,10 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [Aust. s. 64.]
 
+(12) This section shall not apply to the purchase or acquisition or proposed purchase or acquisition by a company of its own shares in accordance with sections 76B to 76G.
+
+[38/98 wef 18/11/1998]
+
 ### Rights of holders of classes of shares
 
 74\.—(1) If, in the case of a company the share capital of which is divided into different classes of shares, provision is made by the memorandum or articles for authorising the variation or abrogation of the rights attached to any class of shares in the company, subject to the consent of any specified proportion of the holders of the issued shares of that class or the sanction of a resolution passed at a separate meeting of the holders of those shares, and in pursuance of that provision the rights attached to any such class of shares are at any time varied or abrogated the holders of not less in the aggregate than 5% of the issued shares of that class may apply to the Court to have the variation or abrogation cancelled, and, if any such application is made, the variation or abrogation shall not have effect until confirmed by the Court.
@@ -4144,9 +4170,13 @@ but nothing in this subsection —
 
 (i) that business includes the lending of money, or the giving of guarantees or the provision of security in connection with loans made by other persons; and
 
-(ii) the loan that is made by the company, or, where the guarantee is given or the security is provided in respect of a loan, that loan, is made on ordinary commercial terms as to the rate of interest, the terms of repayment of principal and payment of interest, the security to be provided and otherwise; or
+(ii) the loan that is made by the company, or, where the guarantee is given or the security is provided in respect of a loan, that loan, is made on ordinary commercial terms as to the rate of interest, the terms of repayment of principal and payment of interest, the security to be provided and otherwise;
 
-(b) the giving by a company of financial assistance for the purpose of, or in connection with, the acquisition or proposed acquisition of fully-paid shares or units of fully-paid shares in the company or in a holding company of the company to be held by or for the benefit of employees of the company or of a corporation that is related to the company, including any director holding a salaried employment or office in the company or in the corporation.
+(b) the giving by a company of financial assistance for the purpose of, or in connection with, the acquisition or proposed acquisition of fully-paid shares or units of fully-paid shares in the company or in a holding company of the company to be held by or for the benefit of employees of the company or of a corporation that is related to the company, including any director holding a salaried employment or office in the company or in the corporation; or
+
+(c) the purchase or acquisition or proposed purchase or acquisition by a company of its own shares in accordance with sections 76B to 76G.
+
+[38/98 wef 18/11/1998]
 
 (10) Nothing in subsection (1) prohibits the giving by a company of financial assistance for the purpose of, or in connection with, an acquisition or proposed acquisition by a person of shares or units of shares in the company or in a holding company of the company if —
 
@@ -4332,11 +4362,245 @@ the Court may make such order or orders as it thinks just and equitable (includi
 
 [13/87]
 
+### Company may acquire its own shares
+
+76B\.—(1) Notwithstanding section 76, a company may, in accordance with this section and sections 76C to 76G, purchase or otherwise acquire ordinary shares issued by it if it is expressly permitted to do so by its articles.
+
+(2) This section and sections 76C to 76G shall apply only to ordinary shares.
+
+(3) The total number of shares purchased or acquired by a company during the relevant period shall not exceed 10% (or such other percentage as the Minister may by notification prescribe) of the issued ordinary share capital of the company ascertained —
+
+(a) as at the date of the last annual general meeting of the company held before any resolution passed pursuant to section 76C, 76D or 76E; or
+
+(b) as at the date of such resolution,
+
+whichever is the higher, unless the Court has, at any time during the relevant period, made an order under section 73(4) confirming the reduction of share capital of the company and in such circumstances the issued ordinary share capital of the company shall, notwithstanding paragraphs (a) and (b), be taken to be the amount of the issued ordinary share capital as altered by the order of the Court.
+
+(4) In subsection (3), “relevant period” means the period commencing from the date the last annual general meeting of the company was held or if no such meeting was held the date it was required by law to be held before the resolution in question is passed, and expiring on the date the next annual general meeting is or is required by law to be held, whichever is the earlier, after the date the resolution in question is passed.
+
+(5) Shares that are purchased or acquired by a company pursuant to section 76C, 76D or 76E are deemed to be cancelled immediately on purchase or acquisition.
+
+(6) On the cancellation of a share under subsection (5) , the rights and privileges attached to that share expire.
+
+(7) For the purposes of this section, shares are deemed to be purchased or acquired on the date on which the company would, apart from subsection (5), become entitled to exercise the rights attached to the shares.
+
+(8) Within 30 days of the passing of a resolution referred to in section 76C, 76D or 76E, the directors of the company shall lodge with the Registrar a copy of the resolution.
+
+(9) Within 30 days of the purchase or acquisition of the shares, the directors of the company shall lodge with the Registrar the notice of the purchase or acquisition in the prescribed form with the following particulars:
+
+(a) the date of the purchase or acquisition;
+
+(b) the number and nominal value of shares purchased or acquired;
+
+(c) the company’s issued share capital as at the date of the resolution passed pursuant to section 76C, 76D, or 76E and the company’s issued share capital after the purchase or acquisition; and
+
+(d) the amount of consideration paid by the company for the purchase or acquisition of each share.
+
+(10) Nothing in this section or in sections 76C to 76G shall be construed so as to limit or affect an order of the Court made under any section that requires a company to purchase or acquire its own shares.
+
+[38/98 wef 18/11/1998]
+
+### Authority for off-market acquisition on equal access scheme
+
+76C\.—(1) A company, whether or not it is listed on a stock exchange, may make a purchase or acquisition of its own shares otherwise than on a stock exchange (referred to in this section as an off-market purchase) if the purchase or acquisition is made in accordance with an equal access scheme authorised in advance by the company in general meeting.
+
+(2) The notice specifying the intention to propose the resolution to authorise an off-market purchase referred to in subsection (1) must —
+
+(a) specify the maximum number of shares or the maximum percentage of ordinary issued share capital authorised to be purchased or acquired;
+
+(b) determine the maximum price which may be paid for the shares;
+
+(c) specify a date on which the authority is to expire, being a date that must not be later than the date on which the next annual general meeting of the company is or is required by law to be held, whichever is the earlier; and
+
+(d) specify the sources of funds to be used for the purchase or acquisition including the amount of financing and its impact on the company’s financial position.
+
+(3) The resolution authorising an off-market purchase referred to in subsection (2) must state the particulars referred to in subsection (2)(a), (b) and (c).
+
+(4) The authority for an off-market purchase referred to in subsection (2) may, from time to time, be varied or revoked by the company in general meeting.
+
+(5) A resolution to confer or vary the authority for an off-market purchase under this section may determine the maximum price for purchase or acquisition by —
+
+(a) specifying a particular sum; or
+
+(b) providing a basis or formula for calculating the amount of the price in question without reference to any person’s discretion or opinion.
+
+(6) For the purposes of this section and section 76D , an “equal access scheme” means a scheme which satisfies all the following conditions:
+
+(a) the offers under the scheme are to be made to every person who holds shares to purchase or acquire the same percentage of their shares;
+
+(b) all of those persons have a reasonable opportunity to accept the offers made to them; and
+
+(c) the terms of all the offers are the same except that there shall be disregarded —
+
+(i) differences in consideration attributable to the fact that the offers relate to shares with different accrued dividend entitlements;
+
+(ii) differences in consideration attributable to the fact that the offers relate to shares with different amounts remaining unpaid; and
+
+(iii) differences in the offers introduced solely to ensure that each member is left with a whole number of shares.
+
+[38/98 wef 18/11/1998]
+
+### Authority for selective off-market acquisition
+
+76D\.—(1) A company may make a purchase or acquisition of its own shares otherwise than on a stock exchangeand not in accordance with an equal access scheme (referred to in this section as a selective off-market purchase) if —
+
+(a) the purchase or acquisition is made in accordance with an agreement authorised in advance under subsection (2); and
+
+(b) the company is not listed on a stock exchange.
+
+(2) The terms of the agreement for a selective off-market purchase must be authorised by a special resolution of the company, with no votes being cast by any person whose shares are proposed to be purchased or acquired or by his associated persons, and subsections (3) to (13) shall apply with respect to that authority and to resolutions conferring it.
+
+(3) The notice specifying the intention to propose a special resolution to authorise an agreement for a selective off-market purchase must —
+
+(a) specify a date on which the authority is to expire, being a date that must not be later than the date on which the next annual general meeting of the company is or is required by law to be held, whichever is the earlier; and
+
+(b) specify the sources of funds to be used for the purchase or acquisition including the amount of financing and its impact on the company’s financial position.
+
+(4) The special resolution authorising a selective off-market purchase referred to in subsection (2) must state the expiry date referred to in subsection (3)(a).
+
+(5) The authority referred to in subsection (2) may, from time to time, be varied or revoked by a special resolution with no votes being cast by any person whose shares are proposed to be purchased or acquired or by his associated persons.
+
+(6) For the purposes of subsections (2) and (5) —
+
+(a) a member or his associated persons who holds any of the shares to which the resolution relates is regarded as exercising the voting rights carried by those shares not only if he votes in respect of them on a poll on the question whether the resolution shall be passed, but also if he votes on the resolution otherwise than on a poll;
+
+(b) notwithstanding anything in the company’s articles, any member of the company may demand a poll on that question; and
+
+(c) a vote and a demand for a poll by a person as proxy for a member or any of his associated persons are the same respectively as a vote and a demand by the member.
+
+(7) The special resolution referred to in subsection (2) is not effective for the purposes of this section unless (if the proposed agreement is in writing) a copy of the agreement or (if not) a written memorandum of its terms is available for inspection by members of the company both —
+
+(a) at the company’s registered office for not less than 15 days ending with the date of the meeting at which the resolution is passed; and
+
+(b) at the meeting itself.
+
+(8) A memorandum of terms so made available must include the names of any members holding shares to which the agreement relates and where a member holds such shares as nominee for another person, the name of that other person; and a copy of the agreement so made available must have annexed to it a written memorandum specifying any such names which do not appear in the agreement itself.
+
+(9) A company may agree to a variation of an existing agreement so approved, but only if the variation is authorised, before it is agreed to, by a special resolution of the company, with no votes being cast by any person whose shares are proposed to be purchased or acquired or by his associated persons.
+
+(10) Subsections (3) to (7) shall apply to the authority for a proposed variation as they apply to the authority for a proposed agreement except that a copy of the original agreement or (as the case may require) a memorandum of its terms, together with any variations previously made, must also be available for inspection in accordance with subsection (7).
+
+(11) The rights of a company under an agreement for a selective off-market purchase approved under this section shall not be capable of being assigned except by order of the Court made pursuant to any provision of this Act or any other written law.
+
+(12) An agreement by a company to release its rights under an agreement for a selective off-market purchase approved under this section is void unless the terms of the release agreement are approved in advance before the agreement is entered into by a special resolution of the company with no votes being cast by any person whose shares are proposed to be purchased or acquired or by his associated persons; and subsections (3) to (7) shall apply to the approval for a proposed release agreement as they apply to authority for the proposed variation of an existing agreement.
+
+(13) A resolution to confer or vary authority for a selective off-market purchase under this section may determine the maximum price for purchase or acquisition by —
+
+(a) specifying a particular sum; or
+
+(b) providing a basis or formula for calculating the amount of the price in question without reference to any person’s discretion or opinion.
+
+(14) For the purposes of this section, “associated person” in relation to a person means —
+
+(a) the person’s spouse, child or step-child; or
+
+(b) a person who would, by virtue of section 7(5), be treated as an associate of the first-mentioned person.
+
+[38/98 wef 18/11/1998]
+
+### Authority for market acquisition
+
+76E\.—(1) A company shall not make a purchase or acquisition of its own shares on a stock exchange(referred to in this section as a market purchase) unless the purchase or acquisition has been authorised in advance by the company in general meeting.
+
+(2) The notice specifying the intention to propose the resolution to authorise a market purchase must —
+
+(a) specify the maximum number of shares or the maximum percentage of ordinary issued share capital authorised to be purchased or acquired;
+
+(b) determine the maximum price which may be paid for the shares;
+
+(c) specify a date on which the authority is to expire, being a date that must not be later than the date on which the next annual general meeting of the company is or is required by law to be held, whichever is the earlier; and
+
+(d) specify the sources of funds to be used for the purchase or acquisition including the amount of financing and its impact on the company’s financial position.
+
+(3) The authority for a market purchase may be unconditional or subject to conditions and must state the particulars referred to in subsection (2)(a), (b) and (c).
+
+(4) The authority for a market purchase may, from time to time, be varied or revoked by the company in general meeting but the variation must comply with subsections (2) and (3).
+
+(5) A resolution to confer or vary authority for a market purchase under this section may determine the maximum price for purchase or acquisition by —
+
+(a) specifying a particular sum; or
+
+(b) providing a basis or formula for calculating the amount of the price in question without reference to any person’s discretion or opinion.
+
+[38/98 wef 18/11/1998]
+
+### Payments to be made out of distributable profits and company not to be insolvent
+
+76F\.—(1) A payment made by a company in consideration of —
+
+(a) acquiring any right with respect to the purchase or acquisition of its own shares in accordance with section 76C, 76D or 76E;
+
+(b) the variation of an agreement approved under section 76D ; or
+
+(c) the release of any of the company’s obligations with respect to the purchase or acquisition of any of its own shares under an agreement approved under section 76D ,
+
+must be made out of the company’s distributable profits.
+
+(2) If the requirements in subsection (1) are not satisfied in relation to an agreement —
+
+(a) in a case within subsection (1)(a), no purchase or acquisition by the company of its own shares in pursuance of that agreement is lawful;
+
+(b) in a case within subsection (1)(b) , no such purchase or acquisition following the variation is lawful; and
+
+(c) in a case within subsection (1)(c), the purported release is void.
+
+(3) Every director or manager of a company who —
+
+(a) approves or authorises the purchase or acquisition of the company’s own shares knowing that the company is insolvent or will become insolvent as a result of the purchase or acquisition; or
+
+(b) wilfully makes or authorises the making of a payment referred to in subsection (1) out of what he knows are not distributable profits,
+
+shall, without prejudice to any other liability, be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months; and shall also be liable to the creditors of the company for the amount of the debts due by the company to them respectively to the extent by which the amount paid as consideration as described in subsection (1) has exceeded the distributable profits and such amount may be recovered by the creditors or the liquidator suing on behalf of the creditors.
+
+(4) For the purposes of this section —
+
+(a) “distributable profits” means profits that are available for payment as dividends but excludes any amount in —
+
+(i) the share premium account referred to in section 69(1); and
+
+(ii) the capital redemption reserve referred to in sections 70(7) and 76G;
+
+(b) a company is insolvent if either —
+
+(i) the company is unable to pay its debts as they become due in the normal course of business; or
+
+(ii) the value of the company’s assets is less than the value of its liabilities, including contingent liabilities.
+
+(5) In determining for the purposes of subsection (4) whether the value of a company’s assets is less than the value of its liabilities, including contingent liabilities, the directors or managers of a company —
+
+(a) must have regard to —
+
+(i) the most recent financial statements of the company that comply with this Act; and
+
+(ii) all other circumstances that the directors or managers know or ought to know affect, or may affect, the value of the company’s assets and the value of the company’s liabilities, including its contingent liabilities;
+
+(b) may rely on valuations of assets or estimates of liabilities that are reasonable in the circumstances.
+
+(6) In determining, for the purposes of subsection (5), the value of a contingent liability, the directors or managers of a company may take into account —
+
+(a) the likelihood of the contingency occurring; and
+
+(b) any claim the company is entitled to make and can reasonably expect to be met to reduce or extinguish the contingent liability.
+
+[38/98 wef 18/11/1998]
+
+### Capital redemption reserve
+
+76G\.—(1) Where, under section 76B, 76C, 76D or 76E, shares of a company are purchased or acquired, the amount by which the company’s issued share capital is diminished in accordance with section 76B(5) on cancellation of the shares purchased or acquired shall be transferred to a reserve called “the capital redemption reserve”.
+
+(2) The provisions of this Act relating to the reduction of the share capital of a company shall apply as if the capital redemption reserve were paid-up share capital of the company, except that the reserve may be applied by the company in paying up its unissued shares to be allotted to members of the company as fully paid bonus shares.
+
+[38/98 wef 18/11/1998]
+
 ### Options over unissued shares
 
 77\.—(1) An option granted after 29th December 1967 by a public company which enables any person to take up unissued shares of the company after a period of 5 years has elapsed from the date on which the option was granted shall be void.
 
-(2) Subsection (1) shall not apply in any case where the holders of debentures have an option to take up shares of the company by way of redemption of the debentures.
+(1A) An option granted on or after the commencement of the Companies (Amendment) Act 1998 by a public company which enables any employee of that company or its related corporation (including any director holding a salaried office or employment in that company or corporation) to take up unissued shares of the company after a period of 10 years had elapsed from the date on which the option was granted shall be void and subsection (1) shall not apply to such an option.
+
+[38/98 wef 18/11/1998]
+
+(2) Subsection (1) or (1A) shall not apply in any case where the holders of debentures have an option to take up shares of the company by way of redemption of the debentures.
 
 [Aust.s.68.]
 
@@ -5332,6 +5596,22 @@ Interests other than shares, debentures, etc.
 
 “financial year”, in relation to a deed, means the period of 12 months ending on 31st December or on such other date as is specified in lieu thereof in the deed;
 
+“franchise” means a written agreement or arrangement between 2 or more persons by which —
+
+(a) a party to the agreement or arrangement (referred to in this definition as the franchisor) authorises or permits another party (referred to in this definition as the franchisee), or a person associated with the franchisee, to exercise the right to engage in the business of offering, selling or distributing goods or services in Singapore under a plan or system controlled by the franchisor or a person associated with the franchisor;
+
+(b) the business carried on by the franchisee or the person associated with the franchisee, as the case may be, is capable of being identified by the public as being substantially associated with a trade or service mark, logo, symbol or name identifying, commonly connected with or controlled by the franchisor or a person associated with the franchisor;
+
+(c) the franchisor exerts, or has authority to exert, a significant degree of control over the method or manner of operation of the franchisee’s business;
+
+(d) the franchisee or a person associated with the franchisee is required under the agreement or arrangement to make payment or give some other form of consideration to the franchisor or a person associated with the franchisor;
+
+(e) the franchisor agrees to communicate to the franchisee or a person associated with the franchisee, knowledge, experience, expertise, know-how, trade secrets or other information whether or not it is proprietary or confidential; and
+
+(f) the agreement or arrangement referred to in paragraph (a) is not a unit trust scheme as defined in the Securities Industry Act (Cap.289) or an investment contract;
+
+[38/98 wef 18/11/1998]
+
 “interest” means any right to participate or interest, whether enforceable or not and whether actual, prospective or contingent —
 
 (a) in any profits, assets or realisation of any financial or business undertaking or scheme whether in Singapore or elsewhere;
@@ -5342,9 +5622,13 @@ Interests other than shares, debentures, etc.
 
 whether or not the right or interest is evidenced by a formal document and whether or not the right or interest relates to a physical asset, but does not include —
 
-(d) any share in or debenture of a corporation; or
+(d) any share in or debenture of a corporation;
 
-(e) any interest in or arising out of a policy of life insurance;
+(e) any interest in or arising out of a policy of life insurance; or
+
+(f) any franchise;
+
+[38/98 wef 18/11/1998]
 
 “investment contract” means any contract, scheme or arrangement which in substance and irrespective of the form thereof involves the investment of money in or under such circumstances that the investor acquires or may acquire an interest in or right in respect of property which under or in accordance with the terms of investment will, or may at the option of the investor, be used or employed in common with any other interest in or right in respect of property acquired in or under like circumstances;
 
@@ -5438,6 +5722,10 @@ whether or not the right or interest is evidenced by a formal document and wheth
 
 summon a meeting of the holders for the purpose of laying before the meeting the accounts and balance-sheet which were laid before the last preceding annual general meeting of the management company or the last audited statement of accounts of the trustee or representative, and for the purpose of giving to the trustee or representative such directions as the meeting thinks proper.
 
+(1A) In addition to the covenants referred to in subsection (1), the deed shall contain such covenant as the Minister may by regulations prescribe and such regulations may provide for different covenants to apply to different classes of interests.
+
+[38/98 wef 18/11/1998]
+
 (2) A meeting summoned for the purposes of a covenant contained in a deed in pursuance of subsection (1)(g) or (h) shall be held at the time and place specified in the notice and advertisement, being a time not later than two months after the giving of the notice, under the chairmanship of —
 
 (a) such person as is appointed in that behalf by the holders of the interests to which the deed relates present at the meeting; or
@@ -5466,7 +5754,7 @@ and shall be conducted in accordance with the provisions of the deed or, in so f
 
 ### Statement to be issued
 
-113\.—(1) Before a company or an agent of a company issues or offers to the public for subscription or purchase or invites the public to subscribe for or purchase any interest the company shall issue or cause to be issued a statement in writing in connection therewith which statement shall for all purposes be deemed to be a prospectus issued by a company, and, subject to subsection (2), all provisions of this Actand rules of law relating to prospectuses or to the offering or to an intended offering of shares for subscription or purchase to the public shall with such adaptations as are necessary apply and have effect accordingly as if the interest were shares offered or intended to be offered to the public for subscription or purchase and as if persons accepting any offer or invitation in respect of or subscribing for or purchasing any such interest were subscribers for shares.
+113\.—(1) Before a company or an agent of a company issues or offers to the public for subscription or purchase or invites the public to subscribe for or purchase any interest the company shall issue or cause to be issued a statement in writing in connection therewith which statement shall for all purposes be deemed to be a prospectus issued by a company, and, subject to subsection (2), all provisions of this Act, other than section 57(8), (9) and (10) and rules of law relating to prospectuses or to the offering or to an intended offering of shares for subscription or purchase to the public shall with such adaptations as are necessary apply and have effect accordingly as if the interest were shares offered or intended to be offered to the public for subscription or purchase and as if persons accepting any offer or invitation in respect of or subscribing for or purchasing any such interest were subscribers for shares.
 
 (2) Subject to subsection (3), the statement shall set out —
 
@@ -5479,6 +5767,36 @@ with such adaptations as the circumstances of each case require and the Registra
 (3) A matter or report referred to in subsection (2) may be omitted from a statement if having regard to the nature of the interest the Registrar is of the opinion that the matter or report is not appropriate for inclusion in the statement and has by writing under his hand approved the omission.
 
 [Aust.s.82.]
+
+### Restriction on issue, etc., of interest to public
+
+113A\.—(1) No company or agent of a company shall —
+
+(a) issue or offer to the public for subscription or purchase; or
+
+(b) invite the public to subscribe for or purchase,
+
+any interest on the basis of a statement referred to in section 113 after the expiration of 6 months from the issue of the statement except for a designated interest referred to in subsection (2).
+
+(2) No company or agent of a company shall —
+
+(a) issue or offer to the public for subscription or purchase; or
+
+(b) invite the public to subscribe for or purchase,
+
+any designated interest on the basis of a statement referred to in section 113 after the expiration of 12 months from the issue of the statement.
+
+(3) A purchase of or subscription for any interest made on the basis of the statement after the expiration of —
+
+(a) 6 months, in the case of an interest other than a designated interest; or
+
+(b) 12 months, in the case of a designated interest,
+
+shall not, by reason of that fact, be voidable or void.
+
+(4) For the purposes of this section, “designated interest” means such interest or class of interests as the Minister may, by notification in theGazette, designate for the purposes of this section.
+
+[38/98 wef 18/11/1998]
 
 ### No issue without approved deed
 
@@ -6460,21 +6778,15 @@ Directors and officers
 
 [Aust. s. 116.]
 
-### Disqualifications of undischarged bankrupts
+### Restriction on undischarged bankrupt being director or manager
 
-148\.—(1) Every person who, being an undischarged bankrupt (whether he was adjudged bankrupt by a Singapore Court or a foreign court having jurisdiction in bankruptcy), acts as director of, or directly or indirectly takes part in or is concerned in the management of, any corporation, except with the leave of the Court, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
+148\.—(1) Every person who, being an undischarged bankrupt (whether he was adjudged bankrupt by a Singapore Court or a foreign court having jurisdiction in bankruptcy), acts as director of, or directly or indirectly takes part in or is concerned in the management of, any corporation, except with the leave of the Court or the written permission of the Official Assignee, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
 
-(2) The Court shall not give leave under this section unless notice of intention to apply therefor has been served on the Minister and on the Official Receiver and the Minister and the Official Receiver or either of them may be represented at the hearing of and may oppose the granting of the application.
+(2) On an application by an undischarged bankrupt under subsection (1) to the Court or the Official Assignee, as the case may be, the Court or the Official Assignee may refuse the application or approve the application subject to such condition as the Court or the Official Assignee, as the case may be, may impose.
 
-[U.K.s.187.]
+(3) The Court shall not give leave under this section unless notice of intention to apply therefor has been served on the Minister and on the Official Assignee and the Minister and the Official Assignee or either of them may be represented at the hearing of and may oppose the granting of the application.
 
-[Aust. s. 117.]
-
-[15/84]
-
-[13/87]
-
-[S 143/89]
+[37/1999 wef 15/09/1999]
 
 ### Disqualification of unfit directors of insolvent companies
 
@@ -6820,127 +7132,13 @@ as the case requires.
 
 [10/74]
 
-### Substantial property transactions
+160A\. [Repealed by Act 38/98]
 
-160A\.—(1) Subject to section 160B, a company shall not enter into an arrangement —
+160B\. [Repealed by Act 38/98]
 
-(a) whereby a director of the company or its holding company, or a person connected with such a director, acquires or is to acquire one or more non-cash assets of the requisite value from the company; or
+160C\. [Repealed by Act 38/98]
 
-(b) whereby the company acquires or is to acquire one or more non-cash assets of the requisite value from such a director or a person so connected,
-
-unless the arrangement is first approved —
-
-(i) in the case of a director of the company, or a person connected with that director, by a resolution of the company in general meeting; and
-
-(ii) in the case of a director of the holding company, or a person connected with that director, by a resolution of the holding company in general meeting in addition to the resolution of the company in general meeting.
-
-(2) For this purpose, a non-cash asset is of the requisite value if at the time the arrangement in question is entered into its value exceeds $100,000.
-
-[Act 40/89]
-
-(3) Notwithstanding section 407, a contravention of this section by a director or a person connected with him shall not give rise to criminal liability but may give rise to civil liability as provided for in section 160C.
-
-[Act 40/89 wef 23/03/1990]
-
-[13/87]
-
-[Act 40/89 wef 23/03/1990]
-
-### Exceptions from section 160A
-
-160B\.—(1) No approval shall be required to be given under section 160A in the case of a foreign company or a wholly-owned subsidiary of a company incorporated in Singapore.
-
-(1) No approval shall be required to be given under section 160A by a holding company where —
-
-(a) the arrangement is made between a holding company and its subsidiary; and
-
-(b) the holding company is a person connected with one or more of its directors by virtue of any interest of those directors or of persons connected with them in the equity share capital of the holding company.
-
-[Act 40/89 wef 23/03/1990]
-
-(2) Section 160A(1) shall not apply to an arrangement for the acquisition of a non-cash asset —
-
-(a) if the asset is to be acquired by a holding company from any of its wholly-owned subsidiaries or from a holding company by any of its wholly-owned subsidiaries, or by one wholly-owned subsidiary of a holding company from another wholly-owned subsidiary of that same holding company;
-
-(b) if the arrangement is entered into by a company which is being wound up, unless the winding up is a members’ voluntary winding up; or
-
-(c) if the arrangement is entered into by a judicial manager in connection with a proposal under section 227N or if an arrangement is entered into pursuant to section 210.
-
-(3) Section 160A(1)(a) shall not apply to an arrangement whereby a person is to acquire an asset from a company of which he is a member, if the arrangement is made with that person in his character as a member.
-
-[13/87]
-
-[40/89]
-
-### Liability arising from contravention of section 160A
-
-160C\.—(1) An arrangement entered into by a company in contravention of section 160A, and any transaction entered into in pursuance of the arrangement (whether by the company or any other person) shall be voidable at the instance of the company unless one or more of the conditions specified in subsection (2) is satisfied.
-
-(2) Those conditions are that —
-
-(a) restitution of any money or other asset which is the subject-matter of the arrangement or transaction is no longer possible or the company has been indemnified in pursuance of this section by any other person for the loss or damage suffered by it;
-
-(b) any rights acquired bona fide for value and without actual notice of the contravention by any person who is not a party to the arrangement or transaction would be affected by its avoidance; or
-
-(c) the arrangement is, within a reasonable period, affirmed by the company in general meeting and, if it is an arrangement for the transfer of an asset to or by a director of its holding company or a person who is connected with such a director, is so affirmed with the approval of the holding company given by a resolution in general meeting.
-
-(3) If an arrangement is entered into with a company by a director of the company or its holding company or a person connected with him in contravention of section 160A, that director and the person so connected, and any other director of the company who authorised the arrangement or any transaction entered into in pursuance of such an arrangement, shall be liable —
-
-(a) to account to the company for any gain which he has made directly or indirectly by the arrangement or transaction; and
-
-(b) (jointly and severally with any other person liable under this subsection) to indemnify the company for any loss or damage resulting from the arrangement or transaction.
-
-(4) Subsection (3) is without prejudice to any liability imposed otherwise than by that subsection, and is subject to subsections (5) and (6); and the liability under subsection (3) arises whether or not the arrangement or transaction entered into has been avoided in pursuance of subsection (1).
-
-(5) If an arrangement is entered into by a company and a person connected with a director of the company or its holding company in contravention of section 160A that director shall not be liable under subsection (3) if he shows that he took all reasonable steps to secure the company’s compliance with that section.
-
-(6) In any case, a person so connected and any such other director as is mentioned in subsection (3) shall not be so liable if he shows that, at the time the arrangement was entered into, he did not know the relevant circumstance constituting the contravention.
-
-[13/87]
-
-### Interpretation
-
-160D\.—(1) For the purposes of sections 160A, 160B and 160C, a person is connected with a director of a company if, but only if, he is —
-
-(a) that director’s spouse, child or step-child;
-
-(b) except where the context otherwise requires, a body corporate with which the director is associated;
-
-(c) a person acting in his capacity as the trustee (other than as trustee under an employees’ share scheme or a pension scheme) of any trust the beneficiaries of which include the director, his spouse or any of his children or step-children or a body corporate with which he is associated or the terms of which confer a power on the trustees that may be exercised for the benefit of the director, his spouse or any of his children or step-children or any such body corporate; or
-
-(d) a person acting in his capacity as partner of that director or of any person who, by virtue of paragraph (a), (b) or (c), is connected with that director.
-
-(2) For the purposes of subsection (1), a director of a company is associated with a body corporate if, but only if, he and the persons connected with him, together, are interested in shares comprised in the equity share capital of that body corporate of a nominal value equal to at least 20% of that share capital or are entitled to exercise or control the exercise of more than 20% of the voting power at any general meeting of that body.
-
-(3) A director of a company is deemed to control a body corporate if, but only if —
-
-(a) he or any person connected with him is interested in any part of the equity share capital of that body corporate or is entitled to exercise or control the exercise of any part of the voting power at any general meeting of that body corporate; and
-
-(b) that director, the persons connected with him and the other directors of that company, together, are interested in more than one-half of that share capital or are entitled to exercise or control the exercise of more than one-half of that voting power.
-
-(4) For the purposes of subsections (2) and (3) —
-
-(a) a body corporate with which a director is associated is not to be treated as connected with that director unless it is also connected with him by virtue of subsection (1)(c) or (d); and
-
-(b) a trustee of a trust the beneficiaries of which include (or may include) a body corporate with which a director is associated is not to be treated as connected with a director by reason only of that fact.
-
-[Subst. by Act 40/89 wef 23/03/1990]
-
-(5) Section 7 (interest in shares) shall have effect for the purposes of subsection (2) except that the words “more than one-half” shall be substituted for the words “not less than 15%” in subsection (4)(c) of that section.
-
-(6) For the purposes of subsection (2) —
-
-(a) “equity share capital” has the same meaning as in section 69B; and
-
-(b) references to voting power the exercise of which is controlled by a director shall, without prejudice to the other provisions of that subsection, include references to voting power the exercise of which is controlled by a body corporate controlled by that director.
-
-(7) For the purposes of sections 160A and 160B —
-
-(a) “non-cash asset” means any property or interest on property other than cash and for this purpose cash includes foreign currency; and“b” a reference to the acquisition of a non-cash asset includes the creation or extinction of an estate or interest in or right over any property and also a discharge of a person’s liability, other than a liability for a liquidated sum.
-
-[13/87]
-
-[Act 40/89]
+160D\. [Repealed by Act 38/98]
 
 ### Approval of company required for issue of shares by directors
 
@@ -7368,11 +7566,17 @@ Provided that the office of secretary shall not be left vacant for more than 6 m
 
 172\.—(1) Any provision, whether in the articles or in any contract with a company or otherwise, for exempting any officer or auditor of the company from, or indemnifying him against, any liability which by law would otherwise attach to him in respect of any negligence, default, breach of duty or breach of trust of which he may be guilty in relation to the company, shall be void.
 
-(2) Notwithstanding anything in this section, a company may pursuant to its articles or otherwise indemnify any officer or auditor against any liability incurred by him in defending any proceedings, whether civil or criminal, in which judgment is given in his favour or in which he is acquitted or in connection with any application in relation thereto in which relief is under this Act granted to him by the Court.
+(2) This section shall not prevent a company —
 
-[U.K.s.205.]
+(a) from purchasing and maintaining for any such officer insurance against any liability referred to in subsection (1)except where the liability arises out of conduct involving dishonesty or a wilful breach of duty; or
 
-[Aust. s. 133.]
+(b) from indemnifying such officer or auditor against any liability incurred by him —
+
+(i) in defending any proceedings (whether civil or criminal) in which judgment is given in his favour or in which he is acquitted; or
+
+(ii) in connection with any application, in relation to such liability, in which relief is granted to him by the court.
+
+[38/98 wef 18/11/1998]
 
 ### Register of directors, managers, secretaries and auditors
 
@@ -10456,7 +10660,7 @@ or of any two or more of those parties.
 
 (2) A company shall be deemed to be unable to pay its debts if —
 
-(a) a creditor by assignment or otherwise to whom the company is indebted in a sum exceeding $2,000 then due has served on the company by leaving at the registered office a demand under his hand or under the hand of his agent thereunto lawfully authorised requiring the company to pay the sum so due, and the company has for 3 weeks thereafter neglected to pay the sum or to secure or compound for it to the reasonable satisfaction of the creditor;
+(a) a creditor by assignment or otherwise to whom the company is indebted in a sum exceeding $10,000 then due has served on the company by leaving at the registered office a demand under his hand or under the hand of his agent thereunto lawfully authorised requiring the company to pay the sum so due, and the company has for 3 weeks thereafter neglected to pay the sum or to secure or compound for it to the reasonable satisfaction of the creditor;
 
 (b) execution or other process issued on a judgment, decree or order of any court in favour of a creditor of the company is returned unsatisfied in whole or in part; or
 
@@ -11952,9 +12156,19 @@ Foreign Companies
 
 (g) secures or collects any of its debts or enforces its rights in regard to any securities relating to such debts;
 
-(h) conducts an isolated transaction that is completed within a period of 31 days, but not being one of a number of similar transactions repeated from time to time; or
+(h) conducts an isolated transaction that is completed within a period of 31 days, but not being one of a number of similar transactions repeated from time to time;
 
-(i) invests any of its funds or holds any property
+(i) invests any of its funds or holds any property.; or
+
+(j) establishes a share transfer or share registration office in Singapore in order to become a listed corporation; or
+
+[38/98 wef 18/11/1998]
+
+[8/2003 wef 15/05/2003]
+
+(k) effects any transaction through its related corporation licensed or approved under any written law by the Monetary Authority of Singapore, established under the Monetary Authority of Singapore Act (Cap. 186), under an arrangement approved by the Authority.
+
+[38/98 wef 18/11/1998]
 
 ### Power of foreign companies to hold immovable property
 
@@ -12490,7 +12704,7 @@ Offences
 
 (b) seeking or receiving offers to subscribe for or to purchase shares from the public or from any member of the public.
 
-(2) Subsection (1) shall not apply in the case of the shares of any corporation which, after notice of intention in the form prescribed to apply for exemption from subsection (1) has been advertised in a local daily newspaper has applied to the President for such exemption and the application has on the recommendation of the Minister been granted, but such exemption may at any time be revoked by order of the President .
+(2) Subsection (1) shall not apply in the case of the shares of any corporation which, after notice of intention in the form prescribed to apply for exemption from subsection (1) has been advertised in a local daily newspaper , has applied to and obtained from the Minister such exemption but such exemption may at any time be revoked by order of the Minister.
 
 (3) (Deleted by Act 40/89).
 
@@ -13930,13 +14144,9 @@ Note: PARAGRAPHS 1 TO 6 MUST BE INCORPORATED IN THE FRONT PAGE OF THE ABRIDGED P
 
 6.—(a) The last day and time for splitting;
 
-(b)
+(b) The last day and time for acceptance and payment;
 
-The last day and time for acceptance and payment;
-
-(c)
-
-The last day and time for renunciation and payment.
+(c) The last day and time for renunciation and payment.
 
 7\. The registered office of the corporation.
 
@@ -14375,7 +14585,7 @@ Matters required to be stated in statement
 
 34. A declaration —
 
-(a) that no units or sub-units of interests issued pursuant to the statement shall be allotted later than 6 months after the date appearing in the statement pursuant to paragraph 1; and
+(a) that no units or sub-units of interests issued pursuant to the statement shall be allotted later than 6 months or 12 months in the case of a designated interest referred to in section 113A after the date appearing in the statement pursuant to paragraph 1; and
 
 (b) unless the conditions of issue of the units or sub-units expressly provide that certificates be not issued, those certificates shall be issued by the trustee or representative to purchasers of or subscribers for units or sub-units of interests purchased or subscribed for pursuant to the statement not more than two months after the allotment of the units or sub-units.
 
@@ -15183,3 +15393,8 @@ This Legislative History is provided for the convenience of users of the Compani
 |||(Bill No. 6/97 published on 12 July 1997)|
 ||Date of Second and Third Readings|25 August 1997|
 ||Dates of commencement|1 October 1997 (except section 3)|
+|45.|**Act 38 of 1998—Companies (Amendment) Act 1998**|
+||Date of First Reading|4 September 1998|
+|||(Bill No. 36/98 published on 5 September 1998)|
+||Date of Second and Third Readings|12 October 1998|
+||Date of commencement|18 November 1998|
