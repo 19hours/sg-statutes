@@ -46,6 +46,8 @@
 
 - [15 Grants](#Grants)
 
+- [15A Issue of shares, etc.](#Issue-of-shares-etc)
+
 - [16 Bank accounts and payments](#Bank-accounts-and-payments)
 
 - [17 Investments](#Investments)
@@ -291,6 +293,12 @@ FINANCIAL PROVISIONS
 ### Grants
 
 15\. For the purpose of enabling the Board to carry out its functions under this Act, the Minister may, from time to time, make grants to the Board of such sums of money as the Minister may determine out of moneys to be provided by Parliament.
+
+### Issue of shares, etc.
+
+15A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Board under this Act, or of any capital injection or other investment by the Government in the Board in accordance with any written law, the Board shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
+
+[5/2002 wef 15/07/2002]
 
 ### Bank accounts and payments
 
@@ -816,3 +824,9 @@ This Legislative History is provided for the convenience of users of the Nationa
 ||Date of operation|30 May 1997|
 |3.|**G.N. No. S 669/2001—National Parks Act (Amendment of Fifth Schedule) Order 2001**|
 ||Date of commencement|1 January 2002|
+|4.|**Act 5 of 2002—Statutory Corporations (Capital Contribution) Act 2002**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|3 May 2002|
+|||(Bill No. 7/2002 published on 4 May 2002)|
+||Date of Second and Third Readings|24 May 2002|
+||Dates of commencement|15 July 2002 (except item (18) of the Schedule)|
