@@ -1,16 +1,14 @@
-**Merchant Shipping (Civil Liability and Compensation for Oil Pollution) Act 1998**
+**Merchant Shipping (Civil Liability and Compensation for Oil Pollution) Act**
 
-**(No. 33 of 1998)**
+**(CHAPTER 180)**
 
 **Table of Contents**
 
 [**Long Title**](#Merchant-Shipping-Civil-Liability-and-Compensation-for-Oil-Pollution-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -38,9 +36,9 @@
 
 - [12 Extinguishment of claims](#Extinguishment-of-claims)
 
-[**Division 2  Compulsory insurance**](#Division-2--Compulsory-insurance)
+[**Division 2  Compulsory Insurance**](#Division-2--Compulsory-Insurance)
 
-- [13 Compulsory insurance against liability for pollution](#Compulsory-insurance-against-liability-for-pollution)
+- [13 Compulsory insurance against liability for oil pollution](#Compulsory-insurance-against-liability-for-oil-pollution)
 
 - [14 Issue of certificates](#Issue-of-certificates)
 
@@ -50,7 +48,7 @@
 
 - [16 Jurisdiction of Singapore courts and registration of foreign judgments](#Jurisdiction-of-Singapore-courts-and-registration-of-foreign-judgments)
 
-- [17 Restriction on enforcement of judgments given by court in country not party to Convention](#Restriction-on-enforcement-of-judgments-given-by-court-in-country-not-party-to-Convention)
+- [17 Restriction on enforcement of judgments given by court in country not party to Liability Convention](#Restriction-on-enforcement-of-judgments-given-by-court-in-country-not-party-to-Liability-Convention)
 
 - [18 Government ship](#Government-ship)
 
@@ -100,55 +98,31 @@
 
 - [39 Protection from personal liability](#Protection-from-personal-liability)
 
-- [40 Repeal and transitional provisions](#Repeal-and-transitional-provisions)
+[**Legislative History**](#Legislative-History)
 
-- [41 Consequential amendments to other written law](#Consequential-amendments-to-other-written-law)
+# Merchant Shipping (Civil Liability and Compensation for Oil Pollution) Act
 
-REPUBLIC OF SINGAPORE
+(CHAPTER 180)
 
-GOVERNMENT GAZETTE
+(Original Enactment: Act 33 of 1998)
 
-ACTS SUPPLEMENT
+REVISED EDITION 1999
 
-Published by Authority
+(30th December 1999)
 
-NO. 34]
+An Act to give effect to the International Convention on Civil Liability for Oil Pollution Damage 1992 and to the International Convention on the Establishment of an International Fund for Compensation for Oil Pollution Damage 1992 and to make provisions generally for matters connected therewith.
 
-Friday, August 28
+[18th September 1998: Parts I, II and IV ;
 
-[1998
-
-The following Act was passed by Parliament on 31st July 1998 and assented to by the President on 18th August 1998:—
-
-Merchant Shipping (Civil Liability and Compensation for Oil Pollution) Act 1998
-
-(No. 33 of 1998)
-
-I assent.
-
-ONG TENG CHEONG,
-
-President.
-
-18th August 1998.
-
-Date of Commencement: 18th September 1998 Parts I, II and IV
-
-Date of Commencement: 31st December 1998 Part III
-
-An Act to give effect to the International Convention on Civil Liability for Oil Pollution Damage 1992 and to the International Convention on the Establishment of an International Fund for Compensation for Oil Pollution Damage 1992, to repeal the Merchant Shipping (Oil Pollution) Act (Cap.180 of the 1985 Revised Edition) and to make consequential amendments to other written law, and to make provisions generally for matters connected therewith.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+31st December 1998: Part III ]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\.—(1) This Act may be cited as the Merchant Shipping (Civil Liability and Compensation for Oil Pollution) Act 1998 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
-
-(2) The Minister may appoint different dates for the coming into operation of the different provisions of this Act.
+1\. This Act may be cited as the Merchant Shipping (Civil Liability and Compensation for Oil Pollution) Act.
 
 ### Interpretation
 
@@ -246,7 +220,7 @@ each of the owners shall be liable, jointly with the other or others, for the wh
 
 ### Exceptions from liability under section 3
 
-4\. No liability shall be incurred by the owner of a ship under section 3 by reason of any discharge or escape of oil from the ship, or by reason of any relevant threat of contamination, if he proves that the discharge or escape, or the threat of contamination, as the case may be —
+4\. No liability shall be incurred by the owner of a ship under section 3 by reason of any discharge or escape of oil from the ship, or by reason of any relevant threat of contamination, if he proves that the discharge or escape, or the relevant threat of contamination, as the case may be —
 
 (a) resulted from an act of war, hostilities, civil war, insurrection or an exceptional, inevitable and irresistible natural phenomenon;
 
@@ -278,7 +252,7 @@ then, whether or not the owner of the ship in question incurs a liability under 
 
 (d) any person performing salvage operations with the consent of the owner of the ship or on the instructions of a competent public authority;
 
-(e) any person taking any of the measures referred to in section 3(1)(b) or 3(2)(a); and
+(e) any person taking any of the measures referred to in section 3(1)(b) or (2)(a); and
 
 (f) any servant or agent of a person falling within paragraph (c), (d) or (e).
 
@@ -292,19 +266,19 @@ then, whether or not the owner of the ship in question incurs a liability under 
 
 6\.—(1) Where, as a result of any occurrence, the owner of a ship incurs a liability under section 3 by reason of a discharge or escape or by reason of any relevant threat of contamination, then, subject to subsection (4) —
 
-(a) section 136 of the Merchant Shipping Act (Cap.179) shall not apply in relation to that liability; but
+(a) section 136 of the Merchant Shipping Act (Cap. 179) shall not apply in relation to that liability; but
 
 (b) he may limit that liability in accordance with the provisions of this Act, and if he does so his liability (being, the aggregate of his liabilities under section 3 resulting from the occurrence) shall not exceed the relevant amount.
 
 (2) In subsection (1)(b), “the relevant amount” means —
 
-(a) in relation to a ship not exceeding 5,000 tons, 3 million special drawing rights;
+(a) in relation to a ship not exceeding 5,000 tons, 3 millionspecial drawing rights; and
 
 (b) in relation to a ship exceeding 5,000 tons, 3 million special drawing rights together with an additional 420 special drawing rights for each ton of its tonnage in excess of 5,000 tons up to a maximum amount of 59.7 million special drawing rights.
 
 (3) The Authority may, with the approval of the Minister, by order published in theGazettemake such amendments to subsection (2)(a) and (b) as may be appropriate for the purpose of giving effect to the entry into force of any amendment of the limits of liability laid down in paragraph 1 of Article V of the Liability Convention.
 
-(4) Subsection (1) shall not apply in a case where it is proved that the discharge or escape or the relevant threat of contamination, as the case may be, resulted from anything done or omitted to be done by the owner either with intent to cause any such damage or cost as is mentioned in section 3 or recklessly and in the knowledge that any such damage or cost would probably result.
+(4) Subsection (1) shall not apply in a case where it is proved that the discharge or escape, or the relevant threat of contamination, as the case may be, resulted from anything done or omitted to be done by the owner either with intent to cause any such damage or cost as is mentioned in section 3 or recklessly and in the knowledge that any such damage or cost would probably result.
 
 (5) For the purposes of this section, the tonnage of a ship shall be its gross tonnage calculated in accordance with the regulations in Annex 1 of the International Convention on Tonnage Measurement of Ships 1969.
 
@@ -400,9 +374,9 @@ or that it was such a country at a time specified in the order, the order shall,
 
 Division 2 —
 
-Compulsory insurance
+Compulsory Insurance
 
-### Compulsory insurance against liability for pollution
+### Compulsory insurance against liability for oil pollution
 
 13\.—(1) Subsection (2) shall apply to any ship carrying in bulk as cargo more than 2,000 tons of oil.
 
@@ -422,7 +396,7 @@ Compulsory insurance
 
 (b) any country specified in the regulations for the purposes of this subsection.
 
-(5) Any certificate required by this section to be in force in respect of a ship shall be carried in the ship and shall, on demand, be produced by the master to any officer of the Authority and, if the ship is a Singapore ship, to any consular officer within the meaning of the Merchant Shipping Act (Cap.179).
+(5) Any certificate required by this section to be in force in respect of a ship shall be carried in the ship and shall, on demand, be produced by the master to any officer of the Authority and, if the ship is a Singapore ship, to any consular officer within the meaning of the Merchant Shipping Act (Cap. 179).
 
 (6) If a ship enters or leaves, or attempts to enter or leave a port or the territorial sea in contravention of subsection (2), the master or the owner of the ship shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1 million.
 
@@ -444,9 +418,9 @@ Compulsory insurance
 
 15\.—(1) Where it is alleged that the owner of a ship has incurred a liability under section 3 as a result of any discharge or escape of oil occurring, or as a result of any relevant threat of contamination arising, while there was in force a contract of insurance or other security to which a certificate referred to in section 13 is related, proceedings to enforce a claim in respect of the liability may be brought against the person who provided the insurance or other security (referred to in this Act as the insurer).
 
-(2) In any proceedings brought against the insurer by virtue of this section, it shall be a defence (in addition to any defence affecting the owner’s liability) to prove that the discharge or escape, or the threat of contamination, as the case may be, was due to the wilful misconduct of the owner himself.
+(2) In any proceedings brought against the insurer by virtue of this section, it shall be a defence (in addition to any defence affecting the owner’s liability) to prove that the discharge or escape, or the relevant threat of contamination, as the case may be, was due to the wilful misconduct of the owner himself.
 
-(3) The insurer may limit his liability in respect of claims made against him by virtue of this section in like manner and to the same extent as the owner may limit his liability but the insurer may do so whether or not the discharge or escape, or the threat of contamination, as the case may be, resulted from anything done or omitted to be done by the owner as mentioned in section 6(4).
+(3) The insurer may limit his liability in respect of claims made against him by virtue of this section in like manner and to the same extent as the owner may limit his liability but the insurer may do so whether or not the discharge or escape, or the relevant threat of contamination, as the case may be, resulted from anything done or omitted to be done by the owner as mentioned in section 6(4).
 
 (4) Where the owner and the insurer each apply to the Court for the limitation of his liability, any sum paid into Court in pursuance of either application shall be treated as paid also in pursuance of the other.
 
@@ -476,13 +450,13 @@ no court in Singapore shall entertain any action (whether in rem or in personam)
 
 (a) in relation to any discharge or escape referred to in subsection (2)(a), any damage caused in the territory of another Liability Convention country by contamination resulting from the discharge or escape, or any cost incurred in taking measures to prevent or minimise such damage in the territory of another Liability Convention country;
 
-(b) in relation to any threat of contamination referred to in subsection (2)(b), any cost incurred in taking measures to prevent or minimise such damage in the territory of another Liability Convention country; or
+(b) in relation to any relevant threat of contamination referred to in subsection (2)(b), any cost incurred in taking measures to prevent or minimise such damage in the territory of another Liability Convention country; or
 
 (c) any damage caused by any measures referred to in paragraph (a) or (b).
 
-(4) Part I of the Reciprocal Enforcement of Foreign Judgments Act (Cap.265) shall apply, whether or not it would so apply apart from this section, to any judgment given by a court in a Liability Convention country to enforce a claim in respect of a liability incurred under any provision corresponding to section 3, and in its application to such a judgment that Part shall have effect with the omission of section 5(2) and (3) of that Act.
+(4) Part I of the Reciprocal Enforcement of Foreign Judgments Act (Cap. 265) shall apply, whether or not it would so apply apart from this section, to any judgment given by a court in a Liability Convention country to enforce a claim in respect of a liability incurred under any provision corresponding to section 3, and in its application to such a judgment that Part shall have effect with the omission of section 5(2) and (3) of that Act.
 
-### Restriction on enforcement of judgments given by court in country not party to Convention
+### Restriction on enforcement of judgments given by court in country not party to Liability Convention
 
 17\. Notwithstanding Part I of the Reciprocal Enforcement of Foreign Judgments Act and any rule of law relating to the recognition and enforcement of foreign judgments, any judgment given by a court in a country which is not a Liability Convention country in respect of any liability for oil pollution incurred by the owner of a ship in that country may be recognised and enforced by the Court only up to the limit of liability prescribed by section 6.
 
@@ -604,7 +578,7 @@ and if any amount due from him remains unpaid after the date on which it became 
 
 “company” means a body incorporated under the law of Singapore, or of any other country;
 
-“group”, in relation to companies, means a holding company and its subsidiaries as defined in section 5 of the Companies Act (Cap.50) subject, in the case of a company incorporated outside Singapore, to any necessary modifications of those definitions;
+“group”, in relation to companies, means a holding company and its subsidiaries as defined in section 5 of the Companies Act (Cap. 50) subject, in the case of a company incorporated outside Singapore, to any necessary modifications of those definitions;
 
 “importer” means the person by whom or on whose behalf the oil in question is entered for customs or excise purposes on importation, and “import” shall be construed accordingly;
 
@@ -614,7 +588,7 @@ and if any amount due from him remains unpaid after the date on which it became 
 
 (i) crude oils from which distillate fractions have been removed; and
 
-(ii) crude oils to which distillate fractions have been added;
+(ii) crude oils to which distillate fractions have been added; and
 
 (b) “fuel oil” means heavy distillates or residues from crude oil or blends of such materials intended for use as a fuel for the production of heat or power of a quality equivalent to the “American Society for Testing and Materials’ Specification for Number Four Fuel Oil (Designation D396-69)”, or heavier;
 
@@ -652,7 +626,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (iii) was due wholly to the negligence or wrongful act of a government or other authority in exercising its function of maintaining lights or other navigational aids for the maintenance of which it was responsible,
 
-and because liability is accordingly wholly displaced by section 4;
+(and because liability is accordingly wholly displaced by section 4);
 
 (b) because the owner or insurer liable for the damage cannot meet his obligations in full; or
 
@@ -672,7 +646,7 @@ and because liability is accordingly wholly displaced by section 4;
 
 (i) resulted from an act of war, hostilities, civil war or insurrection; or
 
-(ii) was caused by oil which has escaped or been discharged from a warship or other ship owned or operated by a State and used, at the time of the occurrence, only on government non-commercial service; or
+(ii) was caused by oil which has been discharged or escaped from a warship or other ship owned or operated by a State and used, at the time of the occurrence, only on government non-commercial service; or
 
 (b) the claimant cannot prove that the damage resulted from an occurrence involving a ship identified by him, or involving 2 or more ships one of which is identified by him.
 
@@ -692,11 +666,11 @@ the Fund may, subject to subsection (9), be exonerated wholly or partly from its
 
 28\.—(1) The Fund’s liability under section 27 shall be subject to the following:
 
-(a) subject to paragraphs (b) and (c), the aggregate amount of compensation payable by the Fund shall, in respect of any one incident, be limited, such that the total sum of that amount and the amount of compensation actually paid under section 3 for pollution damage shall not exceed 135 million special drawing rights;
+(a) subject to paragraphs (b) and (c), the aggregate amount of compensation payable by the Fund shall, in respect of any one incident, be limited, such that the total sum of that amount and the amount of compensation actually paid under section 3 for pollution damage shall not exceed 135 millionspecial drawing rights;
 
 (b) subject to paragraph (c), the aggregate amount of compensation payable by the Fund for pollution damage resulting from an exceptional, inevitable and irresistible natural phenomenon shall not exceed 135 million special drawing rights;
 
-(c) the maximum amount of compensation referred to in paragraphs (a) and (b) shall be 200 million special drawing rights with respect to any incident occurring during any period when there are 3 Fund Convention countries in respect of which the combined quantity of oil imported or received by persons in the territories of such countries, during the preceding calendar year, is not less than 600 million tons;
+(c) the maximum amount of compensation referred to in paragraphs (a) and (b) shall be 200 million special drawing rights with respect to any incident occurring during any period when there are 3 Fund Convention countries in respect of which the combined quantity of oil imported or received by persons in the territories of such countries, during the preceding calendar year, is not less than 600 million tons; and
 
 (d) interest accrued on any payment made to the Court or to the Authority under section 7, if any, shall not be taken into account for the computation of the maximum compensation payable by the Fund under this section.
 
@@ -742,7 +716,7 @@ shall be conclusive evidence of those matters for the purposes of this Part.
 
 (4) Subject to subsection (5), Part I of the Reciprocal Enforcement of Foreign Judgments Act (Cap. 265) shall apply, whether or not it would so apply apart from this section, to any judgment given by a court in a Fund Convention country to enforce a claim in respect of liability incurred under any provision corresponding to section 27, and in its application to such a judgment that Part shall have effect with the omission of section 5(2) and (3) of that Act.
 
-(5) No step shall be taken to enforce such a judgment unless and until the court in which it is registered under Part I of the Reciprocal Enforcement of Foreign Judgments Act gives leave to enforce it, and —
+(5) No steps shall be taken to enforce such a judgment unless and until the court in which it is registered under Part I of the Reciprocal Enforcement of Foreign Judgments Act (Cap. 265) gives leave to enforce it, and —
 
 (a) that leave shall not be given unless and until the Fund notifies the court either that the amount of the claim is not to be reduced under section 28(1) or that it is to be reduced to a specified amount; and
 
@@ -758,9 +732,9 @@ shall be conclusive evidence of those matters for the purposes of this Part.
 
 not later than 3 years after the claim against the Fund arose.
 
-(2) In this subsection, “third party notice” means a notice of the kind described in section 29(2) and (3).
+(2) In subsection (1), “third party notice” means a notice of the kind described in section 29(2) and (3).
 
-(3) No action to enforce a claim against the Fund under this Part shall be entertained by a court in Singapore unless the action is commenced not later than 6 years after the occurrence, or first of the occurrences, resulting in the discharge or escape, or (as the case may be) in the relevant threat of contamination, by reason of which the claim against the Fund arose.
+(3) No action to enforce a claim against the Fund under this Part shall be entertained by a court in Singapore unless the action is commenced not later than 6 years after the occurrence, or first of the occurrences, resulting in the discharge or escape, or in the relevant threat of contamination, as the case may be, by reason of which the claim against the Fund arose.
 
 ### Subrogation
 
@@ -830,21 +804,21 @@ and may carry out such inspection and examination as he may consider necessary a
 
 39\. No suit, prosecution or other legal proceeding shall lie against the Director or any officer of the Authority or other person acting under the direction of the Director or the Authority for anything which is in good faith done or intended to be done in the execution or purported execution of this Act or any regulations made thereunder.
 
-### Repeal and transitional provisions
+## LEGISLATIVE HISTORY
 
-40\.—(1) The Merchant Shipping (Oil Pollution) Act (Cap. 180) is repealed.
+Merchant Shipping (Civil Liability and Compensation for Oil Pollution) Act
 
-(2) Notwithstanding subsection (1), the provisions of the repealed Act and the regulations made under the repealed Act shall, in lieu of the provisions of this Act and the regulations made under this Act, apply in relation to a ship, which, at the time of the discharge or escape of oil from the ship, or at the time the relevant threat of contamination arose, as the case may be, was registered in a country —
+(CHAPTER 180)
 
-(a) which was not a Liability Convention country; and
+This Legislative History is provided for the convenience of users of the Merchant Shipping (Civil Liability and Compensation for Oil Pollution) Act. It is not part of this Act.
 
-(b) which was a country in respect of which the International Convention on Civil Liability for Oil Pollution Damage 1969 was in force.
-
-(3) Subsection (2) shall cease to have effect on 31st December 1998.
-
-(4) Nothing in this section shall be taken as prejudicing section 16 of the Interpretation Act (Cap. 1).
-
-### Consequential amendments to other written law
-
-41\. Any reference in any written law to the Merchant Shipping (Oil Pollution) Act or to any provision thereof shall be construed as a reference to this Act or to a corresponding provision of this Act, as the case may be.
-
+||||
+|:-|:-|:-|
+|1.|**Act 33 of 1998—Merchant Shipping (Civil Liability and Compensation for Oil Pollution) Act 1998**|
+||Date of First Reading|29 June 1998|
+|||(Bill No. 30/1998 published on 30 June 1998)|
+||Date of Second and Third Readings|31 July 1998|
+||Date of commencement|18 September 1998|
+|||31 December 1998|
+|2.|**1999 Revised Edition—Merchant Shipping (Civil Liability and Compensation for Oil Pollution) Act**|
+||Date of operation|30 December 1999|
