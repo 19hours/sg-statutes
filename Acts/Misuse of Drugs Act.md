@@ -1302,6 +1302,8 @@ Ethylmorphine (3-ethylmorphine).
 
 Fenetylline.
 
+Ketamine.
+
 Methylphenidate.
 
 Nicocodine.
@@ -1309,6 +1311,8 @@ Nicocodine.
 Nicodicodine.
 
 Norcodeine.
+
+Norketamine and its dehydro derivatives.
 
 Phencyclidine.
 
@@ -2353,3 +2357,5 @@ This Legislative History is provided for the convenience of users of the Misuse 
 ||Date of commencement|20 July 1998|
 |25.|**1998 Revised Edition—Misuse of Drugs Act (Chapter 185)**|
 ||Date of operation|15 December 1998|
+|26.|**G. N. No. S 391/1999—Misuse of Drugs Act (Amendment of First Schedule) Order 1999**|
+||Date of commencement|9 September 1999|
