@@ -318,7 +318,9 @@ FUNCTIONS AND POWERS OF COUNCIL
 
 (a) acquire any property, both movable and immovable, sell, transfer or otherwise dispose of any such property upon such terms as the Board thinks fit;
 
-(b) invest moneys belonging to the Council in such stocks, funds, securities or investments as may be authorised by the Minister;
+(b) invest its moneys in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1);
+
+[45/2004 wef 15/12/2004]
 
 (c) accept any gift or property, whether subject to any trust or not;
 
@@ -648,7 +650,7 @@ National Council of Social Service Act
 
 (CHAPTER 195A)
 
-This Legislative History is provided for the convenience of users of the National Council of Social Service Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the National Council of Social Service Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -672,6 +674,12 @@ This Legislative History is provided for the convenience of users of the Nationa
 |||(Bill No. 7/2002 published on 4 May 2002)|
 ||Date of Second and Third Readings|24 May 2002|
 ||Dates of commencement|15 July 2002|
+|6.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 September 2004|
+|||(Bill No. 43/2004 published on 22 September 2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|15 December 2004|
 ## COMPARATIVE TABLE
 
 National Council of Social Service Act
