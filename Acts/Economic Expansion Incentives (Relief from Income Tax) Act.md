@@ -334,6 +334,18 @@
 
 - [97Z Savings provision](#Savings-provision)
 
+[**Part XIIID INTEGRATED INDUSTRIAL CAPITAL ALLOWANCES**](#Part-XIIID)
+
+- [97ZA Interpretation of this Part](#Interpretation-of-this-Part)
+
+- [97ZB Integrated industrial capital allowance](#Integrated-industrial-capital-allowance)
+
+- [97ZC Deduction of integrated industrial capital allowance](#Deduction-of-integrated-industrial-capital-allowance)
+
+- [97ZD Prohibition to sell, lease out or dispose of productive equipment](#Prohibition-to-sell-lease-out-or-dispose-of-productive-equipment)
+
+- [97ZE Recovery of tax](#Recovery-of-tax)
+
 [**Part XIV MISCELLANEOUS PROVISIONS**](#Part-XIV)
 
 - [98 Prohibition of publication of application and certificate](#Prohibition-of-publication-of-application-and-certificate)
@@ -628,6 +640,8 @@ ought not to have been exempted by reason of any direction made under section 9 
 
 [44/2002 wef 01/01/2003]
 
+(10) [Deleted by Act 44/2002 wef 01/01/2003]
+
 ### Carry forward of loss and allowance
 
 15\.—(1) Where a pioneer enterprise has, during its tax relief period, incurred a loss for any year, that loss shall be deducted as provided for in section 37 of the Income Tax Act, with the necessary modifications, but only against the income of the pioneer enterprise as ascertained under section 10, except that the balance of any such loss which remains unabsorbed at the end of its tax relief period is available to the new trade or business in accordance with that Act.
@@ -827,6 +841,8 @@ whichever is the earliest; and
 (5) Where an amount has been received by way of dividends from a company by a shareholder and the amount is exempt from tax under this section, if that shareholder is a company, any dividends paid by that company to its shareholders, to the extent that the Comptroller is satisfied that those dividends are paid out of that amount, shall be exempt from tax in the hands of those shareholders; and section 44 of the Income Tax Act (Cap. 134) shall not apply to any such dividends or part thereof.
 
 [44/2002 wef 01/01/2003]
+
+(5A) [Deleted by Act 44/2002 wef 01/01/2003]
 
 (6) A company shall deliver to the Comptroller a copy of the account made up to any date specified by him whenever called upon to do so by notice in writing.
 
@@ -2952,6 +2968,12 @@ ought not to have been exempted by reason of a direction under section 97L, havi
 
 [4/98]
 
+(9) [Deleted by Act 44/2002 wef 01/01/2003]
+
+(10) [Deleted by Act 44/2002 wef 01/01/2003]
+
+(11) [Deleted by Act 44/2002 wef 01/01/2003]
+
 ### Certification of income by auditor
 
 97R\. The Comptroller may require an auditor to certify the income derived by an overseas enterprise from its qualifying activity, any direct costs and expenses incurred therefor and any dividends from qualifying investment in an overseas company to have been paid out of income from its qualifying activity for the purposes of section 97P.
@@ -3097,6 +3119,102 @@ as the case may be, over the purchase price of the shares.
 ### Savings provision
 
 97Z\. Any certificate issued by the Minister to a technopreneur start-up company and any letter of allotment of qualifying shares issued by a technopreneur start-up company before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2002 shall be deemed to be issued under sections 97T(2) and 97U(2), respectively.
+
+## PART XIIID
+
+INTEGRATED INDUSTRIAL CAPITAL ALLOWANCES
+
+[11/2004 wef 01/03/2003]
+
+### Interpretation of this Part
+
+97ZA\. In this Part, unless the context otherwise requires —
+
+“approved project” means a project approved by the Minister under section 97ZB(2);
+
+“commencement day”, in relation to a company, means the date specified in the approval letter issued to the company under section 97ZB(2) as the date from which it shall qualify for the integrated industrial capital allowance;
+
+“fixed capital expenditure” means capital expenditure (including capital expenditure on alteration to any building incidental to the installation of any productive equipment) to be incurred by a company on or after 1st March 2003 on —
+
+(a) any new productive equipment; and
+
+(b) subject to the approval of the Minister, any secondhand productive equipment (but does not include equipment sold and repurchased by the company),
+
+to be provided to and used by an overseas subsidiary of the company for an approved project;
+
+“overseas subsidiary” means a company —
+
+(a) which is incorporated outside Singapore;
+
+(b) whose principal activity is solely or primarily to carry out any approved project outside Singapore; and
+
+(c) in respect of which all (or such other percentage as the Minister may determine) of its paid-up capital is beneficially owned throughout the qualifying period by a company qualifying for the integrated industrial capital allowance under section 97ZB in respect of the approved project.
+
+### Integrated industrial capital allowance
+
+97ZB\.—(1) Where a company incorporated and resident in Singapore proposes to carry out a project through any overseas subsidiary —
+
+(a) for the manufacture or increased manufacture of any product; or
+
+(b) for the provision of specialised engineering or technical services,
+
+the company may apply in the prescribed form to the Minister for the approval of an integrated industrial capital allowance in respect of the fixed capital expenditure for the project.
+
+(2) Where the Minister considers it expedient, having regard to the economic, technical and other merits of the project, he may approve the project and issue a letter to the company which shall qualify the company for an integrated industrial capital allowance in respect of the fixed capital expenditure for the approved project subject to such terms and conditions as the Minister thinks fit.
+
+(3) Every letter issued to a company under subsection (2) shall specify —
+
+(a) a period not exceeding 5 years (referred to in this Part as the qualifying period) commencing from the commencement day; and
+
+(b) the items of the fixed capital expenditure to be incurred by the company for the purpose of subsection (1).
+
+(4) Where any question arises as to whether a particular item qualifies as one of the items under subsection (3)(b), it shall be determined by the Minister whose decision shall be final.
+
+(5) No approval under this section shall be granted to any company on or after 1st March 2013.
+
+### Deduction of integrated industrial capital allowance
+
+97ZC\.—(1) Subject to this section, where in the basis period for any year of assessment a company incurs fixed capital expenditure within the qualifying period which qualifies for the integrated industrial capital allowance under section 97ZB, sections 19 and 19A of the Income Tax Act (Cap. 134) shall apply, with the necessary modifications, as if the fixed capital expenditure is incurred in the provision and use of machinery or plant for the purposes of a trade, profession or business carried on by the company.
+
+(2) Notwithstanding subsection (1), no integrated industrial capital allowance shall be made to any company for an approved project unless the claim for the integrated industrial capital allowance in respect of any fixed capital expenditure incurred within the qualifying period is made by the company by the year of assessment relating to the basis period during which the qualifying period ends.
+
+(3) For any year of assessment, the integrated industrial capital allowance referred to in subsection (1) shall be made to a company as a deduction only against the following income (and not against any other income) of the company in the following order:
+
+(a) firstly, against the income derived from the carrying on of an approved project subject to tax as concessionary income;
+
+(b) secondly, against the income derived from the carrying on of an approved project subject to tax as normal income; and
+
+(c) lastly, against the income received in Singapore from the provision of the productive equipment to the overseas subsidiary.
+
+(4) Sections 22A and 23 of the Income Tax Act (Cap. 134) shall apply, with the necessary modifications, in relation to the set-off order and carry forward of the integrated industrial capital allowances.
+
+(5) Notwithstanding subsection (3), where a company ceases permanently to carry on an approved project through the overseas subsidiary in the basis period for any year of assessment, any balance of the integrated industrial capital allowance remaining unabsorbed shall be available as a deduction against any other income of the company for the year of assessment which relates to the basis period in which the project permanently ceases and any subsequent year of assessment in accordance with section 23 of the Income Tax Act, with the necessary modifications.
+
+(6) Where a company sells or disposes of any productive equipment after the qualifying period in respect of which any integrated industrial capital allowance has been made under subsection (1), there shall be made on the company for the year of assessment relating to the basis period in which the sale or disposal occurs, a balancing allowance or a balancing charge determined in accordance with section 20 or 21 of the Income Tax Act, with the necessary modifications.
+
+(7) Section 37B of the Income Tax Act shall apply, with the necessary modifications, in relation to the deduction of the integrated industrial capital allowance against the income of a company for any year of assessment which is subject to tax as concessionary income and normal income.
+
+(8) Any balance of the integrated industrial capital allowance remaining unabsorbed for any year of assessment shall not be available for transfer by the company under section 37C of the Income Tax Act.
+
+(9) In this section —
+
+“concessionary income” means income subject to tax at the concessionary rate under Part IIIB;
+
+“normal income” means income subject to tax at the rate of tax under section 43(1)(a) of the Income Tax Act (Cap. 134).
+
+### Prohibition to sell, lease out or dispose of productive equipment
+
+97ZD\.—(1) During its qualifying period, a company shall not, without the written approval of the Minister, sell, lease out (except to the overseas subsidiary) or otherwise dispose of any productive equipment in respect of which an integrated industrial capital allowance has been made to the company.
+
+(2) Where, during its qualifying period, a company has, without the written approval of the Minister, sold, leased out (except to the overseas subsidiary) or otherwise disposed of any productive equipment in respect of which an integrated industrial capital allowance has been made, the company shall be deemed to have derived an amount of income for that year of assessment equal to the deduction which has been made under section 97ZC as if the integrated industrial capital allowance were not made.
+
+(3) The Minister may waive, wholly or partly, the recovery of the integrated industrial capital allowance under subsection (2).
+
+(4) Where the Minister waives, wholly or partly, the recovery of the integrated industrial capital allowance under subsection (3), section 97ZC(6) shall apply in respect of the sale or disposal of the productive equipment made by the company during the qualifying period.
+
+### Recovery of tax
+
+97ZE\. Notwithstanding anything in this Part, where it appears to the Comptroller that any deduction under section 97ZC ought not to have been made to a company by reason of the revocation under section 99 of a letter issued under section 97ZB to the company, the Comptroller may, subject to section 74 of the Income Tax Act, make such assessment or additional assessment upon the company as may be necessary in order to recover any tax which should have been payable by the company.
 
 ## PART XIV
 
@@ -3325,6 +3443,11 @@ This Legislative History is provided for the convenience of users of the Economi
 |||(Bill No. 46/2002 published on 26 November 2002)|
 ||Date of Second and Third Readings|5 December 2002|
 ||Date of commencement|1 January 2003|
+|27.|**Act 11 of 2004—Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004**|
+||Date of First Reading|27 February 2004|
+|||(Bill No. 7/2004 published on 28 February 2004)|
+||Date of Second and Third Readings|20 April 2004|
+||Date of commencement|1 March 2003|
 ## COMPARATIVE TABLE
 
 Economic Expansion Incentives (Relief from Income Tax) Act
