@@ -920,7 +920,7 @@ this Act shall have effect as if, on the date of the transfer of the goods (and 
 
 (a) the provisions of the Customs Act (Cap. 70) and any subsidiary legislation made thereunder;
 
-(b) the provisions of the Telecommunication Authority of Singapore Act (Cap. 323) relating to customs or excise duties on postal articles; and
+(b) the provisions of the Postal Services Act 1999 relating to customs or excise duties on postal articles; and
 
 (c) any other provision of any written law relating generally to customs or excise duties on imported goods.
 
@@ -2682,7 +2682,7 @@ Meaning of control
 
 Token, stamp or voucher
 
-7\. Where a right to receive goods or services for a monetary value stated on any token, stamp (not being a postage stamp denoting a value below 35 cents within the meaning of the Telecommunication Authority of Singapore Act (Cap. 323)) or voucher is granted for a consideration, the consideration shall be disregarded for the purposes of this Act except to the extent (if any) that it exceeds that monetary value.
+7\. Where a right to receive goods or services for a monetary value stated on any token, stamp (not being a postage stamp denoting a value below 35 cents within the meaning of the Postal Services Act 1999) or voucher is granted for a consideration, the consideration shall be disregarded for the purposes of this Act except to the extent (if any) that it exceeds that monetary value.
 
 Business assets
 
@@ -2879,3 +2879,8 @@ This Legislative History is provided for the convenience of users of the Goods a
 |||(Bill No. 23/1999 published on 20 August 1999)|
 ||Date of Second and Third Readings|4 August 1999|
 ||Date of commencement|20 August 1999|
+|8.|**Act 42 of 1999—Postal Services Act 1999**|
+||Date of First Reading|11 October 1999|
+|||(Bill No. 34/1999 published on 3 December 1999)|
+||Date of Second and Third Readings|23 November 1999|
+||Date of commencement|1 December 1999|
