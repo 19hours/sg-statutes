@@ -50,7 +50,7 @@
 
 - [16 Bank accounts and payments](#Bank-accounts-and-payments)
 
-- [17 Investments](#Investments)
+- [17 Power of investment](#Power-of-investment)
 
 - [18 Annual estimates](#Annual-estimates)
 
@@ -306,9 +306,11 @@ FINANCIAL PROVISIONS
 
 (2) The moneys of the Board shall be applied only in payment or discharge of the expenses, obligations and liabilities of the Board and in making any payment that the Board is authorised or required to make.
 
-### Investments
+### Power of investment
 
-17\. Moneys belonging to the Board may, with the approval of the Minister, be invested in such securities as trustees may by any written law be authorised to invest.
+17\. The Board may invest its moneys in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
+
+[45/2004 wef 15/12/2004]
 
 ### Annual estimates
 
@@ -1137,3 +1139,9 @@ This Legislative History is provided for the convenience of users of the Nationa
 ||Dates of commencement|15 July 2002 (except item (18) of the Schedule)|
 |5.|**G.N. No. S 534/2003—National Parks Act (Amendment of Fifth Schedule) Order 2003**|
 ||Date of commencement|26 November 2003|
+|6.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 September 2004|
+|||(Bill No. 43/2004 published on 22 September 2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|15 December 2004|
