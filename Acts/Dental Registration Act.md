@@ -1,16 +1,14 @@
-**Dentists Act 1999**
+**Dentists Act**
 
-**(No. 24 of 1999)**
+**(CHAPTER 76)**
 
 **Table of Contents**
 
 [**Long Title**](#Dental-Registration-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -36,11 +34,15 @@
 
 [**Part III REGISTRATION OF DENTISTS**](#Part-III)
 
+[**Division 1  General**](#Division-1--General)
+
 - [12 Registrar](#Registrar)
 
 - [13 Dentists register](#Dentists-register)
 
 - [14 Persons entitled to be registered as dentists](#Persons-entitled-to-be-registered-as-dentists)
+
+[**Division 2  Registration of dentists**](#Division-2--Registration-of-dentists)
 
 - [15 Application for registration](#Application-for-registration)
 
@@ -152,71 +154,53 @@
 
 - [62 Power of Council to make regulations](#Power-of-Council-to-make-regulations)
 
-[**Part VII REPEAL, TRANSITIONAL AND CONSEQUENTIAL AMENDMENTS**](#Part-VII)
+[**Part VII TRANSITIONAL AND CONSEQUENTIAL AMENDMENTS**](#Part-VII)
 
-- [63 Repeal](#Repeal)
+- [63 Dental Board members to serve as Council members until establishment of Council](#Dental-Board-members-to-serve-as-Council-members-until-establishment-of-Council)
 
-- [64 Dental Board members to serve as Council members until establishment of Council](#Dental-Board-members-to-serve-as-Council-members-until-establishment-of-Council)
+- [64 Persons who are already registered under repealed Act](#Persons-who-are-already-registered-under-repealed-Act)
 
-- [65 Persons who are already registered under repealed Act](#Persons-who-are-already-registered-under-repealed-Act)
+- [65 Saving of certificates of registration and annual practising certificates issued under repealed Act](#Saving-of-certificates-of-registration-and-annual-practising-certificates-issued-under-repealed-Act)
 
-- [66 Saving of certificates of registration and annual practising certificates issued under repealed Act](#Saving-of-certificates-of-registration-and-annual-practising-certificates-issued-under-repealed-Act)
+- [66 Pending disciplinary proceedings](#Pending-disciplinary-proceedings)
 
-- [67 Pending disciplinary proceedings](#Pending-disciplinary-proceedings)
+- [67 Further transitional provisions](#Further-transitional-provisions)
 
-- [68 Further transitional provisions](#Further-transitional-provisions)
-
-- [69 Consequential amendments to other written laws](#Consequential-amendments-to-other-written-laws)
+- [68 Consequential amendments to other written laws](#Consequential-amendments-to-other-written-laws)
 
 [**THE SCHEDULE Qualifications**](#THE-SCHEDULE)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+[**Comparative Table**](#Comparative-Table)
 
-ACTS SUPPLEMENT
+# Dentists Act
 
-Published by Authority
+(CHAPTER 76)
 
-NO. 36]
+(Original Enactment: Act 24 of 1999)
 
-Friday, October 1
+REVISED EDITION 2000
 
-[1999
+(30th December 2000)
 
-The following Act was passed by Parliament on 6th July 1999 and assented to by the President on 13th July 1999:—
+An Act to establish the Dental Council, to provide for the registration of dentists and for matters connected therewith.
 
-Dentists Act 1999
-
-(No. 24 of 1999)
-
-I assent.
-
-ONG TENG CHEONG,
-
-President.
-
-13th July 1999.
-
-Date of Commencement: 15th October 1999
-
-An Act to establish the Dental Council, to provide for the registration of dentists and for matters connected therewith, to repeal the Dentists Act (Chapter 76 of the 1985 Revised Edition) and to make consequential amendments to other written law.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[15th October 1999]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Dentists Act 1999 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Dentists Act.
 
 ### Interpretation
 
 2\. In this Act, unless the context otherwise requires —
 
-“certificate of registration” means a certificate of registration issued under section 16;
+“certificate of registration” means a certificate of registration issued under section 16 ;
 
 “Complaints Committee” means a Complaints Committee appointed under section 35;
 
@@ -244,15 +228,17 @@ PRELIMINARY
 
 and the expression “practise dentistry” has a corresponding meaning;
 
-“practising certificate” means a practising certificate granted under section 17;
+“practising certificate” means a practising certificate granted under section 17 ;
+
+“President” means the President of the Dental Council;
 
 “register” means the dentists register kept under section 13;
 
-“registered dentist” means a person who is registered as a dentist under this Act and includes a person deemed to be a registered dentist under section 65(1), and “registered as a dentist” and “registration as a dentist” have corresponding meanings;
+“registered dentist” means a person who is registered as a dentist under this Act and includes a person deemed to be a registered dentist under section 64(1), and “registered as a dentist” and “registration as a dentist” have corresponding meanings;
 
 “Registrar” means the Registrar appointed under section 12;
 
-“repealed Act” means the Dentists Act (Cap. 76) repealed by this Act.
+“repealed Act” means the Dentists Act (Cap. 76, 1985 Ed.) repealed by this Act.
 
 ## PART II
 
@@ -288,13 +274,13 @@ DENTAL COUNCIL
 
 (a) to approve or reject applications for registration as a dentist under this Act or to approve any such application subject to such conditions as it may think fit;
 
-(b) to issue certificates of registration and practising certificates to registered dentists;
+(b) to issue certificates of registration and practising certificates to registered dentists ;
 
 (c) to make recommendations to the appropriate authorities on the courses of instructions and examinations leading to a degree of Bachelor of Dental Surgery in the National University of Singapore;
 
-(d) to make recommendations to the appropriate authorities for the training and education of registered dentists;
+(d) to make recommendations to the appropriate authorities for the training and education of registered dentists ;
 
-(e) to determine and regulate the conduct and ethics of registered dentists; and
+(e) to determine and regulate the conduct and ethics of registered dentists ; and
 
 (f) generally to do all such acts, matters and things as are necessary to be carried out, or which the Council is authorised to carry out, under this Act.
 
@@ -316,7 +302,7 @@ DENTAL COUNCIL
 
 (a) he is not a citizen or a permanent resident of Singapore;
 
-(b) he is not a registered dentist;
+(b) he is not a registered dentist ;
 
 (c) he is an undischarged bankrupt;
 
@@ -362,7 +348,7 @@ DENTAL COUNCIL
 
 ### Meetings and quorum of Council
 
-9\.—(1) The Council shall meet at such times and places as the President of the Council may appoint.
+9\.—(1) The Council shall meet at such times and places as the President may appoint.
 
 (2) The Registrar may exercise the power of the President referred to in subsection (1) in the absence of the President and at the direction of at least 2 of the members of the Council.
 
@@ -392,9 +378,13 @@ DENTAL COUNCIL
 
 REGISTRATION OF DENTISTS
 
+Division 1 —
+
+General
+
 ### Registrar
 
-12\.—(1) For the purposes of this Act and the regulations made thereunder, the Minister shall appoint a public officer as the Registrar.
+12\.—(1) For the purposes of this Act and the regulations made thereunder, the Minister shall appoint a public officeras the Registrar.
 
 (2) The Minister may appoint a person to act as Registrar during the absence from Singapore or incapacity from illness or otherwise of the Registrar.
 
@@ -412,9 +402,9 @@ REGISTRATION OF DENTISTS
 
 (iv) such other particulars of those persons as the Council may determine; and
 
-(v) all the particulars which are transferred to that division under section 65(4); and
+(v) all the particulars which are transferred to that division under section 64(4); and
 
-(b) in the second division of the register, all the particulars which are transferred to or entered in that division under section 65(4).
+(b) in the second division of the register, all the particulars which are transferred to or entered in that division under section 64(4).
 
 (2) The Registrar shall be responsible for the maintenance and custody of the register.
 
@@ -452,6 +442,10 @@ REGISTRATION OF DENTISTS
 
 (5) The Minister may, after consulting the Council, by notification in theGazette, vary or amend the Schedule.
 
+Division 2 —
+
+Registration of dentists
+
 ### Application for registration
 
 15\.—(1) Every application for registration shall be made in such form, and shall be accompanied by such documents, photographs, particulars and fees, as may be prescribed by the Council.
@@ -460,7 +454,7 @@ REGISTRATION OF DENTISTS
 
 (3) The medical examination shall be at the applicant’s own expense.
 
-(4) Where a person has complied with subsection (1) and any requirement of the Council referred to in subsection (2), the Board shall, subject to subsection (5), register him as a dentist.
+(4) Where a person has complied with subsection (1) and any requirement of the Council referred to in subsection (2), the Council shall, subject to subsection (5), register him as a dentist.
 
 (5) The Council may refuse to register any applicant who, in the opinion of the Council —
 
@@ -530,7 +524,7 @@ REGISTRATION OF DENTISTS
 
 (d) insert in the register any alteration in the qualifications or additional qualifications of a registered dentist.
 
-(2) The Registrar may remove the name of any person who has not renewed his practising certificate for a continuous period of not less than 5 years and who has no address in Singapore at which he can be found.
+(2) The Registrar may remove the name of any person who has not renewed his practising certificate for a continuous period of not less than 5 yearsand who has no address in Singapore at which he can be found.
 
 ### Removal of name from register
 
@@ -538,7 +532,7 @@ REGISTRATION OF DENTISTS
 
 (a) has contravened or failed to comply with any condition or restriction to which his registration as a dentist is subject;
 
-(b) being a person to whom section 32 applies, has contravened or failed to comply with any regulation made under that section;
+(b) being a person to whom section 32 applies, has contravened or failed to comply with any regulations made under that section;
 
 (c) has obtained his registration by a fraudulent or incorrect statement;
 
@@ -588,7 +582,7 @@ PRACTICE OF DENTISTRY
 
 ### Pretending to be or taking or using the name or title of dentist
 
-26\.—(1) No person other than a registered dentist who has in force a practising certificate shall take or use the title of dentist, dental surgeon, registered dentist, qualified dentist, doctor of dental surgery, professor of dentistry, surgeon dentist, any title prescribed under section 31(5) or any name, title, addition or description implying, whether in itself or in the circumstances in which it is used, that that person is qualified to heal or treat dental disorders or derangement, whether by dentistry or any other means of any kind or description whatsoever.
+26\.—(1) No person other than a registered dentist who has in force a practising certificate shall take or use the title of dentist, dental surgeon, registered dentist, qualified dentist, doctor of dental surgery, professor of dentistry, surgeon dentist, any prescribed title under section 31(5) or any name, title, addition or description implying, whether in itself or in the circumstances in which it is used, that that person is qualified to heal or treat dental disorders or derangement, whether by dentistry or any other means of any kind or description whatsoever.
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence.
 
@@ -598,7 +592,7 @@ PRACTICE OF DENTISTRY
 
 (a) procures or attempts to procure registration as a dentist under this Act, a certificate of registration or a practising certificate, by knowingly making or producing or causing to be made or produced any false or fraudulent declaration, certificate, application or representation, whether in writing or otherwise;
 
-(b) wilfully makes or causes to be made any false entry in the register;
+(b) wilfully makes or causes to be made any false entry in the register ;
 
 (c) forges or alters a certificate of registration or a practising certificate;
 
@@ -654,11 +648,11 @@ shall be guilty of an offence.
 
 32\.—(1) The Council may, with the approval of the Minister, make regulations prohibiting a person to whom this section applies from performing such procedures within the practice of dentistry as are prescribed by those regulations.
 
-(2) This section applies to any person deemed to be a registered dentist under section 65(1) on the ground that —
+(2) This section shall apply to any person deemed to be a registered dentist under section 64(1) on the ground that —
 
-(a) he is registered under the repealed Act immediately before the date of commencement of this Act by virtue of section 6(1)(e) of the repealed Act; or
+(a) he is registered under the repealed Act immediately before 15th October 1999 by virtue of section 6(1)(e) of the repealed Act; or
 
-(b) he is the holder of a provisional certificate referred to in section 13 of the repealed Act which is in force immediately before the date of commencement of this Act.
+(b) he is the holder of a provisional certificate referred to in section 13 of the repealed Act which is in force immediately before 15th October 1999.
 
 ## PART V
 
@@ -698,7 +692,7 @@ shall be in writing and shall be supported by such statutory declaration as the 
 
 ### Appointment of Complaints Committee
 
-35\.—(1) The President of the Council may from time to time appoint one or more committees comprising —
+35\.—(1) The President may from time to time appoint one or more committees comprising —
 
 (a) a chairman who is a member of the Council;
 
@@ -710,7 +704,7 @@ to be known as Complaints Committees, to inquire into any complaint or informati
 
 (2) A Complaints Committee shall be appointed in connection with one or more matters or for a fixed period of time, as the President of the Council may think fit.
 
-(3) The President of the Council may at any time remove the chairman or any member of a Complaints Committee or fill any vacancy in a Complaints Committee.
+(3) The President may at any time remove the chairman or any member of a Complaints Committee or fill any vacancy in a Complaints Committee.
 
 (4) No act done by or under the authority of a Complaints Committee shall be invalid in consequence of any defect that is subsequently discovered in the appointment or qualification of the chairman or members or any of them.
 
@@ -740,7 +734,7 @@ to be known as Complaints Committees, to inquire into any complaint or informati
 
 (8) A Complaints Committee shall inquire into the complaint or information and complete its inquiry not later than 3 months from the date the complaint or information is laid before it.
 
-(9) Where a Complaints Committee is of the opinion that it will not be able to complete its inquiry within the period specified in subsection (8) due to the complexity of the matter or serious difficulties encountered by the Committee in conducting its inquiry, the Committee may apply in writing to the President of the Council for an extension of time to complete its inquiry and the President may grant such extension of time to the Committee as he thinks fit.
+(9) Where a Complaints Committee is of the opinion that it will not be able to complete its inquiry within the period specified in subsection (8) due to the complexity of the matter or serious difficulties encountered by the Committee in conducting its inquiry, the Committee may apply in writing to the President for an extension of time to complete its inquiry and the President may grant such extension of time to the Committee as he thinks fit.
 
 (10) All information, including such book, document, paper or other records used by a Complaints Committee in the course of its deliberations, shall be confidential and shall not be disclosed to any person including the registered dentist unless the Complaints Committee in its discretion decides otherwise.
 
@@ -804,19 +798,19 @@ Disciplinary Committee
 
 ### Appointment of Disciplinary Committee
 
-40\.—(1) The President of the Council may, from time to time, appoint one or more committees comprising not less than 4 members of the Council to be known as Disciplinary Committees to inquire into —
+40\.—(1) The President may, from time to time, appoint one or more committees comprising not less than 4 members of the Council to be known as Disciplinary Committees to inquire into —
 
 (a) any complaint or matter in respect of which the Minister or the Council has under section 39 ordered that an inquiry be held by a Disciplinary Committee; or
 
 (b) any matter referred to it under section 33(3).
 
-(2) A Disciplinary Committee may be appointed in connection with one or more matters or for a fixed period of time, as the President of the Council may think fit.
+(2) A Disciplinary Committee may be appointed in connection with one or more matters or for a fixed period of time, as the President may think fit.
 
 (3) The chairman or a member of a Complaints Committee which inquired into a complaint or matter shall not be a member of a Disciplinary Committee inquiring into the same complaint or matter.
 
-(4) The President of the Council shall appoint a member of a Disciplinary Committee to be the chairman of the Disciplinary Committee.
+(4) The President shall appoint a member of a Disciplinary Committee to be the chairman of the Disciplinary Committee.
 
-(5) The President of the Council may at any time revoke the appointment of any Disciplinary Committee or may remove any member of a Disciplinary Committee or fill any vacancy in a Disciplinary Committee.
+(5) The President may at any time revoke the appointment of any Disciplinary Committee or may remove any member of a Disciplinary Committee or fill any vacancy in a Disciplinary Committee.
 
 (6) No act done by or under the authority of a Disciplinary Committee shall be invalid in consequence of any defect that is subsequently discovered in the appointment or qualification of the members or any of them.
 
@@ -944,9 +938,9 @@ Health Committee
 
 ### Health Committee
 
-48\.—(1) There shall be a committee to be known as the Health Committee comprising not less than 3 members of the Council, to be appointed by the President of the Council, which shall inquire into any case referred to it under section 39(1) or (5) or 46(1).
+48\.—(1) There shall be a committee to be known as the Health Committee comprising not less than 3 members of the Council, to be appointed by the President, which shall inquire into any case referred to it under section 39(1) or (5) or 46(1).
 
-(2) The President of the Council shall appoint one of the members of the Health Committee as the chairman of the Committee.
+(2) The President shall appoint one of the members of the Health Committee as the chairman of the Committee.
 
 (3) A member of the Health Committee shall be appointed for a term of 2 years and shall be eligible for reappointment.
 
@@ -954,19 +948,19 @@ Health Committee
 
 (5) Sections 35(3), 40(4), (6) and (7), 41, 42 and 43(1) to (4) and (6) to (15) shall apply, with the necessary modifications, to the Health Committee and to any inquiry by the Health Committee.
 
-(6) The Council may, with the approval of the Minister, appoint medical assessors to assist the Health Committee in its inquiry, and pay to the medical assessors, as part of the expenses of the Council, such remuneration as the Council may determine.
+(6) The Council may, with the approval of the Minister, appoint medical assessors to assist the Health Committee in its inquiry, and pay to the medical assessors, as part of the expenses of the Council, such remuneration as the Council may determine
 
 ### Unfitness to practise through illness, etc.
 
 49\.—(1) Where the fitness of a registered dentist to practise dentistry is judged by the Health Committee to be impaired by reason of his physical or mental condition, the Health Committee may exercise one or more of the following powers:
 
-(a) order that he pays to the Council costs and expenses of and incidental to any inquiry or hearing by the Health Committee;
+(a) order that he pays to the Council costs and expenses of and incidental to any inquiry or hearing by the Health Committee ;
 
 (b) order that his registration as a dentist be suspended for such period not exceeding 12 months as may be specified in the order;
 
 (c) order that his registration as a dentist be conditional on his compliance, during such period not exceeding 3 years as may be specified in the order, with such requirements as may be imposed by the Health Committee for the protection of members of the public or in his interests (referred to in this Division as restricted registration); and
 
-(d) recommend to the Council that his name be removed from the register.
+(d) recommend to the Council that his name be removed from the register .
 
 (2) Where a registered dentist in respect of whom an order for restricted registration is made under subsection (1)(c) by the Health Committee is judged by the Health Committee to have failed to comply with any of the requirements imposed on him as conditions of his registration, the Health Committee may, if it thinks fit, order that his registration be suspended for such period not exceeding 12 months as may be specified in the order.
 
@@ -978,7 +972,7 @@ Health Committee
 
 (6) Where the Health Committee has made any order under this section, or has varied the conditions imposed by an order for restricted registration, the Registrar shall forthwith serve on the person to whom the order applies a notice of the order or of the variation.
 
-(7) While a person’s registration is suspended by virtue of this section, he shall not be regarded as being registered as a dentist notwithstanding that his name still appears in the register.
+(7) While a person’s registration is suspended by virtue of this section, he shall not be regarded as being registered as a dentist notwithstanding that his name still appears in the register .
 
 (8) Where the Council accepts the recommendation of the Health Committee under subsection (1)(d), the Council shall —
 
@@ -1044,13 +1038,13 @@ GENERAL
 
 (a) the members of the Council; and
 
-(b) the members of any committee appointed by the Council or by the President of the Council,
+(b) the members of any committee appointed by the Council or by the President,
 
 who are not public officers or full-time members of the academic staff of the National University of Singapore such fees as may, from time to time, be approved by the Minister.
 
 ### Inspectors
 
-56\.—(1) The Council may appoint one or more public officers as inspectors to investigate the commission of an offence under this Act or any regulations made thereunder.
+56\.—(1) The Council may appoint one or more public officersas inspectors to investigate the commission of an offence under this Act or any regulations made thereunder.
 
 (2) In any case relating to the commission of an offence under this Act or any regulations made thereunder, an inspector shall have the power to do all or any of the following:
 
@@ -1074,7 +1068,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Assessor to Council
 
-57\.—(1) For the purposes of advising the Council, the Complaints Committees, the Disciplinary Committees and the Health Committee in any proceedings before any of them under the provisions of this Act, the Council may appoint an assessor to the Council who shall be an advocate and solicitor of not less than 10 years’ standing.
+57\.—(1) For the purposes of advising the Council, the Complaints Committees, the Disciplinary Committeesand the Health Committee in any proceedings before any of them under the provisions of this Act, the Council may appoint an assessor to the Council who shall be an advocate and solicitor of not less than 10 years’ standing.
 
 (2) The assessor shall not participate or sit in any deliberations of the Council, the Complaints Committees, the Disciplinary Committees or the Health Committee unless invited to do so, and his participation shall be limited only to questions of law arising from the proceedings.
 
@@ -1086,7 +1080,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Exemption in respect of persons in public service and prescribed companies or organisations
 
-59\.—(1) Nothing in this Act prevents —
+59\.—(1) Nothing in this Act shall prevent —
 
 (a) the carrying out of any act which comes within the practice of dentistry by a person in the public service if the act is carried out —
 
@@ -1104,11 +1098,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Exemption in respect of medical practitioners
 
-60\. Nothing in this Act prevents the practice of medicine or surgery by any medical practitioner registered under the Medical Registration Act (Cap. 174).
+60\. Nothing in this Act shall prevent the practice of medicine or surgery by any medical practitioner registered under the Medical Registration Act (Cap. 174).
 
 ### Exemption in respect of dental training
 
-61\. Nothing in this Act prevents the doing of any act within the practice of dentistry by any dental or medical student if the act is carried out —
+61\. Nothing in this Act shall prevent the doing of any act within the practice of dentistry by any dental or medical student if the act is carried out —
 
 (a) in the course of his training;
 
@@ -1124,17 +1118,17 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (a) provide for the duties of the Registrar;
 
-(b) regulate the registration of dentists;
+(b) regulate the registration of dentists ;
 
 (c) provide for the form of the register and the mode in which it shall be kept;
 
 (d) regulate the grant of practising certificates;
 
-(e) regulate the procedure of any committee appointed by the Council or the President of the Council under this Act and the conduct of any proceedings of such committee;
+(e) regulate the procedure of any committee appointed by the Council or the President under this Act and the conduct of any proceedings of such committee;
 
-(f) regulate the professional practice, etiquette, conduct and discipline of registered dentists;
+(f) regulate the professional practice, etiquette, conduct and discipline of registered dentists ;
 
-(g) regulate the removal and restoration of names in the register;
+(g) regulate the removal and restoration of names in the register ;
 
 (h) prescribe the forms necessary for the administration of this Act;
 
@@ -1148,25 +1142,23 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ## PART VII
 
-REPEAL, TRANSITIONAL AND CONSEQUENTIAL AMENDMENTS
-
-### Repeal
-
-63\. The Dentists Act (Cap. 76) is repealed.
+TRANSITIONAL AND CONSEQUENTIAL AMENDMENTS
 
 ### Dental Board members to serve as Council members until establishment of Council
 
-64\.—(1) Notwithstanding section 3, persons who hold office as members of the Dental Board immediately before the date of commencement of this Act shall hold office as members of the Council until such time as the Council is established in accordance with section 3.
+63\.—(1) Notwithstanding section 3, persons who hold office as members of the Dental Board immediately before 15th October 1999 shall hold office as members of the Council until such time as the Council is established in accordance with section 3.
 
-(2) For the purposes of this section and section 67, “Dental Board” means the Dental Board established under section 3 of the repealed Act.
+(2) For the purposes of this section and section 66, “Dental Board” means the Dental Board established under section 3 of the repealed Act.
+
+[64
 
 ### Persons who are already registered under repealed Act
 
-65\.—(1) Every person who is registered under the repealed Act immediately before the date of commencement of this Act, and every holder of a provisional certificate issued under section 13 of the repealed Act which is in force immediately before that date, shall be deemed to be a registered dentist.
+64\.—(1) Every person who is registered under the repealed Act immediately before 15th October 1999, and every holder of a provisional certificate issued under section 13 of the repealed Act which is in force immediately before that date, shall be deemed to be a registered dentist.
 
 (2) Where the registration of a person under the repealed Act, being a registration made pursuant to an order under section 6 (1) (c) of that Act, is subject to any condition or restriction imposed by the order, the deemed registration of that person under subsection (1) shall, unless the Council otherwise determines, be subject to the same condition or restriction.
 
-(3) The deemed registration of a person under subsection (1), on the ground that he is registered under the repealed Act immediately before the date of commencement of this Act by virtue of section 6 (1) (d) of the repealed Act, shall be subject to the condition that —
+(3) The deemed registration of a person under subsection (1), on the ground that he is registered under the repealed Act immediately before 15th October 1999 by virtue of section 6 (1) (d) of the repealed Act, shall be subject to the condition that —
 
 (a) he is exclusively employed in teaching, research or postgraduate study; and
 
@@ -1174,21 +1166,23 @@ REPEAL, TRANSITIONAL AND CONSEQUENTIAL AMENDMENTS
 
 (4) The Registrar shall —
 
-(a) transfer to the first division of the register the names, addresses, qualifications and other particulars of all persons registered under the repealed Act by virtue of section 6(1)(a), (b), (c) and (d) of the repealed Act which appear, immediately before the date of commencement of this Act, in the register kept under the repealed Act;
+(a) transfer to the first division of the register the names, addresses, qualifications and other particulars of all persons registered under the repealed Act by virtue of section 6(1)(a), (b), (c) and (d) of the repealed Act which appear, immediately before 15th October 1999, in the register kept under the repealed Act;
 
-(b) transfer to the second division of the register the names, addresses, qualifications and other particulars of all persons registered under the repealed Act by virtue of section 6(1)(e) and (f) of the repealed Act which appear, immediately before the date of commencement of this Act, in the register kept under the repealed Act; and
+(b) transfer to the second division of the register the names, addresses, qualifications and other particulars of all persons registered under the repealed Act by virtue of section 6(1)(e) and (f) of the repealed Act which appear, immediately before 15th October 1999, in the register kept under the repealed Act; and
 
-(c) enter in the second division of the register the names, addresses, qualifications, and such other particulars as the Council may determine, of all holders of provisional certificates issued under section 13 of the repealed Act which are in force immediately before the date of commencement of this Act.
+(c) enter in the second division of the register the names, addresses, qualifications, and such other particulars as the Council may determine, of all holders of provisional certificates issued under section 13 of the repealed Act which are in force immediately before 15th October 1999.
 
 (5) The Registrar may, in carrying out the transfer under subsection (4) (a) or (b) or entry under subsection (4) (c), omit the particulars of any person known to the Registrar to be deceased.
 
 (6) Section 53 shall also apply to any person whose name was removed from the register kept under the repealed Act.
 
+[65
+
 ### Saving of certificates of registration and annual practising certificates issued under repealed Act
 
-66\.—(1) Any certificate of registration issued under the repealed Act shall be deemed to be a certificate of registration issued under this Act and be subject to the provisions of this Act.
+65\.—(1) Any certificate of registration issued under the repealed Act shall be deemed to be a certificate of registration issued under this Act and be subject to the provisions of this Act.
 
-(2) Any annual practising certificate issued under the repealed Act which is in force immediately before the date of commencement of this Act shall —
+(2) Any annual practising certificate issued under the repealed Act which is in force immediately before 15th October 1999 shall —
 
 (a) be deemed to be a practising certificate issued under this Act;
 
@@ -1196,9 +1190,11 @@ REPEAL, TRANSITIONAL AND CONSEQUENTIAL AMENDMENTS
 
 (c) expire on the date on which it would have expired had this Act not been in force and be renewable in accordance with section 17.
 
+[66
+
 ### Pending disciplinary proceedings
 
-67\.—(1) This Act shall not apply to any inquiry, investigation or other proceedings of a disciplinary nature commenced before the date of commencement of this Act and the provisions of the repealed Act and the regulations made thereunder shall continue to apply to that inquiry, investigation or proceedings as if this Act had not been enacted.
+66\.—(1) This Act shall not apply to any inquiry, investigation or other proceedings of a disciplinary nature commenced before 15th October 1999 and the provisions of the repealed Act and the regulations made thereunder shall continue to apply to that inquiry, investigation or proceedings as if this Act had not been enacted.
 
 (2) For the purposes of subsection (1), the Dental Board shall continue to exist to complete its hearing of those proceedings and make such order or decision as it could have made under the repealed Act and the regulations made thereunder.
 
@@ -1206,13 +1202,17 @@ REPEAL, TRANSITIONAL AND CONSEQUENTIAL AMENDMENTS
 
 (4) Nothing in this section shall be taken as prejudicing section 16 of the Interpretation Act (Cap. 1).
 
+[67
+
 ### Further transitional provisions
 
-68\. The Minister may by regulations make such further transitional provisions as he considers necessary or expedient.
+67\. The Minister may by regulations make such further transitional provisions as he considers necessary or expedient.
+
+[68
 
 ### Consequential amendments to other written laws
 
-69\.—(1) Subject to subsection (2), in any written law and in any document —
+68\. In any written law and in any document —
 
 (a) any reference to the repealed Act shall be construed as a reference to this Act;
 
@@ -1222,13 +1222,7 @@ REPEAL, TRANSITIONAL AND CONSEQUENTIAL AMENDMENTS
 
 (d) any reference to a registered dentist shall be construed as a reference to a registered dentist under this Act.
 
-(2) Section 2 of the Radiation Protection Act (Cap. 262) is amended by deleting the definition of “registered dentist” and substituting the following definition:
-
-“
-
-“registered dentist” means a person whose name appears in the first division of the register kept under section 13 of the Dentists Act 1999;
-
-”.
+[69
 
 ## THE SCHEDULE
 
@@ -1350,12 +1344,7 @@ University of Manchester
 
 B.D.S.
 
-University of Newcastle
-
-
-
-
-Upon Tyne
+University of Newcastle Upon Tyne
 
 B.D.S.
 
@@ -1397,12 +1386,7 @@ Loma Linda University
 
 D.D.S.
 
-University of California,
-
-
-
-
-Los Angeles
+University of California, Los Angeles
 
 D.D.S.
 
@@ -1445,4 +1429,112 @@ Washington
 University of Washington
 
 D.D.S.
+
+## LEGISLATIVE HISTORY
+
+Dentists Act
+
+(CHAPTER 76)
+
+This Legislative History is provided for the convenience of users of the Dental Registration Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Ordinance 30 of 1948—Registration of Dentists Ordinance 1948**|
+||Dates of First, Second and Third Readings|Dates not available.|
+||Date of commencement|1 October 1949|
+|2.|**Ordinance 8 of 1952—Registration of Dentists (Amendment) Ordinance 1952**|
+||Dates of First, Second and Third Readings|Dates not available.|
+||Date of commencement|27 March 1952|
+|3.|**Ordinance 8 of 1955—Revised Edition of the Laws (Miscellaneous Amendments) Ordinance 1955**|
+||Dates of First, Second and Third Readings|Dates not available.|
+||Date of commencement|1 July 1956|
+|4.|**1955 Revised Edition—Registration of Dentists Ordinance**|
+||Date of operation|1 July 1956|
+|5.|**Ordinance 72 of 1959—Transfer of Powers (No. 2) Ordinance 1959**|
+||Dates of First, Second and Third Readings|Dates not available.|
+||Date of commencement|20 November 1959|
+|6.|**Ordinance 14 of 1964—Registration of Dentists (Amendment) Ordinance 1964**|
+||Dates of First, Second and Third Readings|Dates not available.|
+||Date of commencement|4 December 1964|
+|7.|**Act 30 of 1971—Dentists Registration (Amendment) Act 1971**|
+||Date of First Reading|19 October 1971|
+|||(Bill No. 16/1071 published on 22 October 1971)|
+||Date of Second and Third Readings|2 December 1971|
+||Date of commencement|14 July 1972|
+|8.|**Act 44 of 1975—Dentists Registration (Amendment) Act 1975**|
+||Date of First Reading|11 November 1975|
+|||(Bill No. 47 of 1975 published on 11 November 1975)|
+||Date of Second and Third Readings|20 November 1975|
+||Date of commencement|19 March 1976|
+|9.|**Act 13 of 1980—Dentists Registration (Amendment) Act 1980**|
+||Date of First Reading|27 February 1980|
+|||(Bill No. 2/1980 published on 29 February 1980)|
+||Date of Second and Third Readings|17 March 1980|
+||Date of commencement|9 May 1980|
+|10.|**Act 5 of 1981—Statutes of the Republic of Singapore (Miscellaneous Amendments) Act 1981**|
+||Date of First Reading|17 February 1981|
+|||(Bill No. 1/1981 published on 20 February 1981)|
+||Date of Second and Third Readings|6 March 1981|
+||Date of commencement|24 April 1981|
+|11.|**G. N. No. S 158/81—Dentists Registration Act (Substitution of Schedule) Notification 1981**|
+||Date of commencement|8 May 1981|
+|12.|**G. N. No. S 20/84—Dentists Registration Act (Substitution of Schedule) Notification 1984**|
+||Date of commencement|1 February 1984|
+|13.|**1985 Revised Edition—Dentists Act**|
+||Date of operation|30 March 1987|
+|14.|**G. N. No. S 398/89—Dentist Act (Amendment of Schedule) Notification 1989**|
+||Date of commencement|6 October 1989|
+|15.|**Act 24 of 1999—Dentists Act 1999**|
+||Date of First Reading|4 May 1999|
+|||(Bill No. 17/99 published on 5 May 1999)|
+||Date of Second and Third Readings|6 July 1999|
+||Date of commencement|15 October 1999|
+|16.|**2000 Revised Edition—Dentists Act (Chapter 76)**|
+||Date of operation|30 December 2000|
+## COMPARATIVE TABLE
+
+Dentists Act
+
+(CHAPTER 76)
+
+The following provisions in the Dentist’s Act 1999 (Act 24 of 1999) have been renumbered by the Law Revision Commissioners in this 2000 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Dentists Act.
+
+2000 Ed\. 
+
+Act 24 of 1999 
+
+Omitted
+
+63 
+
+63 
+
+64 
+
+64 
+
+65 
+
+65 
+
+66 
+
+66 
+
+67 
+
+67 
+
+68 
+
+68 
+
+69 — (1)
+
+Omitted
+
+(2)
 
