@@ -3171,3 +3171,8 @@ This Legislative History is provided for the convenience of users of the Road Tr
 |||(Bill No. 24/95 published on 8 July 1995)|
 ||Date of Second and Third Readings|7 August 1995|
 ||Date of commencement|1 September 1995|
+|37.|**Act 11 of 1996—Road Traffic (Amendment) Act 1996**|
+||Date of First Reading|18 January 1996|
+|||(Bill No. 3/96 published on 19 January 1996)|
+||Date of Second and Third Readings|27 February 1996|
+||Date of commencement|10 May 1996|
