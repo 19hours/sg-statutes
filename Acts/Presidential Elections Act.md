@@ -1444,3 +1444,9 @@ This Legislative History is provided for the convenience of users of the Preside
 |||(Bill No. 25/1994 published on 29 July 1994)|
 ||Date of Second and Third Readings|25 August 1994|
 ||Date of commencement|1 October 1994|
+|6.|**Act 42 of 1996—Parliamentary Elections (Amendment) Act 1996**|
+||(Related amendments made to Act by)||
+||Date of First Reading|1 October 1996|
+|||(Bill No. 29/1996 published on 2 October 1996)|
+||Date of Second and Third Readings|28 October 1996|
+||Date of commencement|12 November 1996|
