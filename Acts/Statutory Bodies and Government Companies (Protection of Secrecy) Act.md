@@ -74,7 +74,14 @@ Statutory body
 
 Act under which established or constituted
 
-1. Deleted by Act 25/2002, wef 01/10/2002.
+1. Majlis Ugama Islam, Singapura
+
+Administration of Muslim Law Act
+
+
+
+
+(Chapter 3)
 
 2. Central Provident Fund Board
 
@@ -88,9 +95,9 @@ Civil Aviation Authority of Singapore Act (Chapter 41)
 
 Commercial and Industrial Security Corporation Act (Chapter 47)
 
-5. Construction Industry Development Board
+5. Building and Construction Authority
 
-Construction Industry Development Board Act (Chapter 51)
+Building and Construction Authority Act (Chapter 30A)
 
 5A. Defence Science and Technology Agency
 
@@ -132,7 +139,23 @@ Maritime and Port Authority of Singapore Act (Chapter 170A)
 
 Monetary Authority of Singapore Act (Chapter 186)
 
-13.Deleted by Act 41/99, wef 01/12/1999.
+13. National Environment Agency
+
+National Environment
+
+
+
+
+Agency Act (Chapter 195)
+
+13A. People’s Association
+
+People’s Association Act
+
+
+
+
+(Chapter 227)
 
 14. Public Transport Council
 
@@ -142,31 +165,40 @@ Public Transport Council Act (Chapter 259B)
 
 Public Utilities Act (Chapter 261)
 
-16. Singapore Broadcasting Authority
+16. Media Development Authority of Singapore
 
-Singapore Broadcasting Authority Act (Chapter 297)
+Media Development Authority of Singapore Act (Chapter 172)
 
 16A. Singapore Land Authority
 
 Singapore Land Authority Act 2001.
 
-17. Singapore Productivity and Standards Board
+17. Standards, Productivity and Innovation Board
 
-Singapore Productivity and Standards Board Act (Chapter 303A)
+Standards, Productivity and Innovation Board Act (Chapter 303A)
 
 18. Singapore Tourism Board
 
 Singapore Tourism Board Act (Chapter 305B)
 
-19.Deleted by Act 41/99, wef 01/12/1999.
+19. Singapore Workforce Development Agency
 
-20. Trade Development Board
+Singapore Workforce Development Agency Act 2003 (Act 14 of 2003)
 
-Trade Development Board Act (Chapter 330)
+20. International Enterprise Singapore Board
+
+International Enterprise Singapore Board Act
+
+
+
+
+(Chapter 143B).
 
 21. Urban Redevelopment Authority
 
 Urban Redevelopment Authority Act (Chapter 340)
+
+[S 495/2003 wef 27/10/2003]
 
 [9/2000 wef 15/03/2000]
 
@@ -174,7 +206,11 @@ Urban Redevelopment Authority Act (Chapter 340)
 
 [3/2001 wef 01/04/2001]
 
+[S 495/2003 wef 27/10/2003]
+
 [17/2001 wef 01/06/2001]
+
+[S 495/2003 wef 27/10/2003]
 
 Part II
 
@@ -333,3 +369,5 @@ This Legislative History is provided for the convenience of users of the Statuto
 |||(Bill No. 23/2002 published on 9 July 2002)|
 ||Date of Second and Third Readings|23 July 2002|
 ||Date of commencement|1 October 2002|
+|30.|**G. N. No. S 495/2003—Statutory Bodies and Government Companies (Protection of Secrecy) Act (Amendment of Schedule) Notification 2003**|
+||Date of commencement|27 October 2003|
