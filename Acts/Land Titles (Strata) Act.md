@@ -20,6 +20,8 @@
 
 - [5 Approval of subdivision under Planning Act](#Approval-of-subdivision-under-Planning-Act)
 
+- [5A Authorisation of strata subdivision under notification made by Minister under Planning Act](#Authorisation-of-strata-subdivision-under-notification-made-by-Minister-under-Planning-Act)
+
 - [6 Dealings with subdivided building](#Dealings-with-subdivided-building)
 
 - [7 Flats not to be sold unless schedule of strata units is filed with and accepted by Commissioner](#Flats-not-to-be-sold-unless-schedule-of-strata-units-is-filed-with-and-accepted-by-Commissioner)
@@ -368,15 +370,25 @@ PRELIMINARY
 
 “Board” means a Strata Titles Board constituted under section 86;
 
-“building” includes any building partially completed or, where applicable, any building to be erected within a stratum shown or specified in any strata subdivision plan submitted to the relevant authority for approval;
+“building” includes
+
+(a) any building partially completed;
+
+(b) where applicable, any building to be erected within a stratum shown or specified in any strata subdivision plan submitted to the relevant authority for approval; or
+
+(c) any building to be erected which is authorised for strata subdivision under a notification made by the Minister under section 21(6) of the Planning Act (Cap. 232);
+
+[30/2003 wef 10/12/2003]
 
 “Commissioner” means the Commissioner of Buildings appointed under section 3 of the Buildings and Common Property (Maintenance and Management) Act (Cap. 30);
 
 “common property” —
 
-(a) in relation to subdivided buildings in an approved plan bearing the title of “condominium” and issued by the relevant authority, means so much of the land for the time being not comprised in any lot shown in a strata title plan or in any parts of any building unit (partially erected or to be erected) intended to be included as lots in a strata title plan to be lodged with the Registrar after strata subdivision of the building unit has been approved by the relevant authority;
+(a) in relation to any subdivided building, means so much of the land for the time being not comprised in any lot shown in a strata title plan or in any parts of any building unit (partially erected or to be erected) intended to be included as lots in a strata title planto be lodged with the Registrar; and
 
-(b) in relation to any subdivided building which is comprised in any plan approved by the relevant authority other than a plan bearing the title of “condominium”, means so much of the land for the time being not comprised in any lot shown in a strata title plan; and
+[30/2003 wef 10/12/2003]
+
+[37/2004 wef 31/03/2005]
 
 (c) unless otherwise described specifically as comprised in any lot in a strata title plan and shown as capable of being comprised in such lot, includes —
 
@@ -476,7 +488,13 @@ and includes a plan of resubdivision of any lot in a strata title plan registere
 
 “stratum” means any part of land consisting of a space of any shape below, on or above the surface of the land, or partly below and partly above the surface of the land, the dimensions of which are delineated;
 
-“subdivided building” means any one or more buildings comprised in a strata subdivision plan approved by the relevant authority;
+“subdivided building” means —
+
+(a) any one or more buildings comprised in a strata subdivision plan approved by the relevant authority; or
+
+(b) any building or class of buildings authorised for strata subdivision under a notification made by the Minister under section 21(6) of the Planning Act (Cap. 232);
+
+[30/2003 wef 10/12/2003]
 
 “subsidiary certificate of title” means the subsidiary certificate of title issued under section 122;
 
@@ -501,6 +519,24 @@ SUBDIVISION AND SUBSIDIARY STRATA LAND-REGISTER
 ### Approval of subdivision under Planning Act
 
 5\. The provisions relating to the subdivision of land contained in the Planning Act (Cap. 232) and any rules made thereunder shall apply to the subdivision of any building or any lot.
+
+### Authorisation of strata subdivision under notification made by Minister under Planning Act
+
+5A\.—(1) Where by reason of any notification made by the Minister under section 21(6) of the Planning Act (Cap. 232) —
+
+(a) the strata subdivision of any building or class of buildings as specified in that notification is authorised; and
+
+(b) the approval by the competent authority of a strata subdivision plan for that building or class of buildings is not required under the Planning Act,
+
+then for the purposes of this Act and any regulations made thereunder, where any thing or matter is required to be done in accordance with or to be ascertained from any strata subdivision plan approved or issued by the competent authority, such requirement shall be deemed to be complied with or satisfied if it is done in accordance with or ascertained from building plans approved by the relevant authority.
+
+(2) For the purposes of subsection (1), the building plans approved by the relevant authority —
+
+(a) shall be endorsed with a certificate by a surveyor who is registered under the Land Surveyors Act (Cap. 156) and has in force a practising certificate issued under that Act certifying that the boundaries of all the strata lots which he has delineated on the approved building plans have been endorsed by the proprietor of the development to be correct and in accordance with what was sold or agreed to be sold by the proprietor; and
+
+(b) shall contain such other certifications and particulars as may be required by the Registrar or the Chief Surveyor.
+
+[30/2003 wef 10/12/2003]
 
 ### Dealings with subdivided building
 
@@ -642,7 +678,7 @@ before the legal completion of the transfer for the lot, flat or land, as the ca
 
 (ii) the height of each storey; and
 
-(d) include a legend, as well as the vertical section and dimensions, of each building or parts thereof proposed to be erected within the parcel as a separate tenement or an extension of any completed subdivided building, in accordance with building plans and subdivision plans approved by the relevant authority.
+(d) include a legend, as well as the vertical section and dimensions, of each building or parts thereof proposed to be erected within the parcel as a separate tenement or an extension of any completed subdivided building, in accordance with building plans and subdivision plans, if any, approved by the relevant authority.
 
 (3) Each storey plan shall —
 
@@ -652,7 +688,7 @@ before the legal completion of the transfer for the lot, flat or land, as the ca
 
 (c) show the approximate floor area of each lot including any accessory lot and the total floor area of a lot which comprises separate parts as well as the lot number and floor number;
 
-(d) delineate the external boundaries of each building or parts thereof proposed to be erected within the parcel as a separate tenement or an extension of any completed subdivided building or buildings in accordance with building plans (if any) and subdivision plans approved by the relevant authority; and
+(d) delineate the external boundaries of each building or parts thereof proposed to be erected within the parcel as a separate tenement or an extension of any completed subdivided building or buildings in accordance with building plans and subdivision plans, if any, approved by the relevant authority; and
 
 (e) be drawn to scale.
 
@@ -670,7 +706,7 @@ before the legal completion of the transfer for the lot, flat or land, as the ca
 
 (6) Where an accessory lot does not consist of a building or parts thereof —
 
-(a) the external boundaries of the accessory lot shall be ascertained from the building plans and the subdivision plans approved by the relevant authority, and the accessory lot shall be unlimited in its vertical dimensions except to the extent of any projection above, or encroachment below ground level by another part of the parcel; and
+(a) the external boundaries of the accessory lot shall be ascertained from the building plans and the subdivision plans, if any, approved by the relevant authority, and the accessory lot shall be unlimited in its vertical dimensions except to the extent of any projection above, or encroachment below ground level by another part of the parcel; and
 
 (b) the strata title plan shall show a diagram of the accessory lot with similar dimensions as those shown on the approved plans mentioned in paragraph (a).
 
@@ -688,11 +724,9 @@ before the legal completion of the transfer for the lot, flat or land, as the ca
 
 (a) the plan has been endorsed with —
 
-(i) a certificate of a surveyor who is registered under the Land Surveyors Act (Cap. 156) and has in force a practising certificate issued under that Act that all buildings and all lots shown in the strata title plan in relation to the external surface boundaries of the parcel are within the parcel and are in compliance with building plans (if any) and subdivision plans issued by the relevant authority; and
+(i) a certificate of a surveyor who is registered under the Land Surveyors Act (Cap. 156) and has in force a practising certificate issued under that Act that all buildings and all lots shown in the strata title plan in relation to the external surface boundaries of the parcel are within the parcel and are in compliance with building plans and subdivision plans, if any, issued by the relevant authority; and
 
-(ii) the certificate of the Chief Surveyor or any other officer duly appointed to approve strata title plans on his behalf that such strata title plan has been approved by or on behalf of the Chief Surveyor and a copy thereof has been lodged with the Authority;
-
-(b) the plan is accompanied by a copy of the relevant strata subdivision plan approved by the relevant authority; and
+(ii) the certificate of the Chief Surveyor or any other officer duly appointed to approve strata title plans on his behalf that such strata title plan has been approved by or on behalf of the Chief Surveyor and a copy thereof has been lodged with the Authority; and
 
 (c) the share value of each proposed lot has been entered in the plan in compliance with section 30.
 
@@ -4201,6 +4235,12 @@ This Legislative History is provided for the convenience of users of the Land Ti
 |||(Bill No. 40/2002 published on 1 November 2002)|
 ||Date of Second and Third Readings|25 November 2002|
 ||Date of commencement|1 January 2003|
+|17.|**Act 30 of 2003—Planning (Amendment) Act 2003**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|16 October 2003|
+|||(Bill No. 27/2003 published on 17 October 2003)|
+||Date of Second and Third Readings|11 November 2003|
+||Date of commencement|10 December 2003|
 ## COMPARATIVE TABLE
 
 Land Titles (Strata) Act
