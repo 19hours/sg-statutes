@@ -26,6 +26,8 @@
 
 - [8 Certificate of eligibility](#Certificate-of-eligibility)
 
+- [8A Immunity of Presidential Elections Committee](#Immunity-of-Presidential-Elections-Committee)
+
 - [9 Nomination papers](#Nomination-papers)
 
 - [10 Deposits by candidates](#Deposits-by-candidates)
@@ -309,6 +311,18 @@ ELECTIONS
 [Act 12/93 wef 16/04/1993]
 
 (2) If the Presidential Elections Committee, upon receipt of an application under subsection (1), is satisfied that the applicant is a person of integrity, good character and reputation or is of the opinion that the applicant has such experience and ability in administering and managing financial affairs as to enable him to carry out effectively the functions and duties of the office of President, the Committee shall not later than the day before nomination day issue to the applicant the certificate referred to in subsection (1) containing the relevant certification, and any such certificate shall be final and shall not be subject to appeal or review in any court.
+
+### Immunity of Presidential Elections Committee
+
+8A\.—(1) The Presidential Elections Committee shall not, in the absence of malice on its part, be liable to any action at the suit of any person in respect of —
+
+(a) any statement which the Committee makes in the discharge of any of its functions under this Act, whether the statement is made orally or in writing; or
+
+(b) the publication of any document prepared by the Committee in the course of performing its functions under this Act.
+
+(2) Subsection (1) does not limit or affect any other right, privilege or immunity that the Presidential Elections Committee has, apart from this section, as a defendant in any action.
+
+[11/99 wef 01/03/1999]
 
 ### Nomination papers
 
@@ -1454,3 +1468,8 @@ This Legislative History is provided for the convenience of users of the Preside
 |||(Bill No. 1/1998 published on 15 January 1998)|
 ||Date of Second and Third Readings|19 February 1998|
 ||Date of commencement|10 April 1998|
+|8.|**Act 11 of 1999—Presidential Elections (Amendment) Act 1999**|
+||Date of First Reading|20 January 1999|
+|||(Bill No. 1/1999 published on 21 January 1999)|
+||Date of Second and Third Readings|11 February 1999|
+||Date of commencement|1 March 1999|
