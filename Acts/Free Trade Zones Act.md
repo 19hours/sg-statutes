@@ -100,7 +100,9 @@ PRELIMINARY
 
 “Committee” means the Free Trade Zone Advisory Committee appointed under section 4;
 
-“Director-General” means the Director-General of Customs and Excise appointed under section 4(1) of the Customs Act [Cap. 70];
+“Director-General” means the Director-General of Customs appointed under section 4(1) of the Customs Act (Cap. 70);
+
+[4/2003 wef 01/04/2003]
 
 “customs duty” means any customs duty or excise tax imposed under the Customs Act;
 
@@ -116,31 +118,9 @@ PRELIMINARY
 
 Provided that the Director-General may, in his discretion, determine that the result of any manufacture is not a new product or article and a change in tariff classification has not been effected;
 
-“officer of customs” means —
+“officer of customs”, “proper officer of customs” and “senior officer of customs” have the same meanings as in the Customs Act (Cap. 70);
 
-(a) the Director-General;
-
-(b) the Deputy Director-General, any Senior Director and any Director of Customs and Excise appointed under section 4(1) of the Customs Act [Cap. 70];
-
-(c) any Senior Superintendent, Superintendent or Assistant Superintendent of Customs and Excise appointed under section 4(4) of the Customs Act;
-
-(d) any Chief Customs Officer, Senior Customs Officer or Customs Officer appointed under section 5 of the Customs Act; and
-
-(e) any police officer;
-
-“proper officer of customs” means any officer of customs acting in the fulfilment of his duties under the Customs Act, whether such duties are assigned to him specially or generally or expressly or by implication;
-
-“senior officer of customs” means —
-
-(a) the Director-General;
-
-(b) the Deputy Director-General, any Senior Director and any Director of Customs and Excise appointed under section 4(1) of the Customs Act [Cap. 70];
-
-(c) any Senior Superintendent, Superintendent or Assistant Superintendent of Customs and Excise appointed under section 4(4) of the Customs Act;
-
-(d) any officer of customs vested with the powers of a senior officer of customs under section 4(5) of the Customs Act; and
-
-(e) any police officer having the powers of a senior officer of customs by virtue of section 7 of the Customs Act.
+[4/2003 wef 01/04/2003]
 
 ### Declaration of free trade zones and appointment of authority
 
@@ -222,7 +202,9 @@ Provided that the Director-General may, in his discretion, give an allowance for
 
 ### Written permission required for use or consumption of dutiable goods
 
-9\.—(1) Subject to sections 5, 6, 8 and 10, no dutiable goods shall, without the written permission of a senior officer of customs not below the rank of Senior Superintendent of Customs and Excise, be used or consumed in a free trade zone.
+9\.—(1) Subject to sections 5, 6, 8 and 10, no dutiable goods shall, without the written permission of a senior officer of customs not below the rank of Assistant Director-General of Customs, be used or consumed in a free trade zone.
+
+[4/2003 wef 01/04/2003]
 
 (2) Any person who contravenes subsection (1) shall be punished —
 
@@ -408,3 +390,8 @@ This Legislative History is provided for the convenience of users of the Free Tr
 |||(Bill No. 33/2000)|
 ||Date of Second and Third Readings|22 November 2000|
 ||Date of commencement|1 January 2001|
+|7.|**Act 4 of 2003—Customs (Amendment) Act 2003**|
+||Date of First Reading|10 March 2003|
+|||(Bill No. 6/2003)|
+||Date of Second and Third Readings|21 March 2003|
+||Date of commencement|1 April 2003|
