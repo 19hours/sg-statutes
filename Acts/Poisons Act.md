@@ -2918,6 +2918,8 @@ Antimony pentachloride
 
 Arsenical substances, the following:
 
+Arsenic acid
+
 Arsenic sulphides
 
 Arsenic trichloride
@@ -3076,6 +3078,8 @@ Chlorophenoxyacids; their salts, esters, amines
 
 Chloropicrin
 
+Chlorosilanes
+
 Chlorosulphonic acid
 
 Cyanides, except ferrocyanides and ferricyanides
@@ -3166,6 +3170,8 @@ Organic peroxides
 
 Organo-tin compounds, the following:
 
+cyhexatin
+
 compounds of fentin
 
 Paraquat; salts of
@@ -3238,6 +3244,8 @@ Potassium perchlorate
 
 Potassium hydroxide
 
+Prochloraz
+
 Propylene imine
 
 Propylene oxide
@@ -3256,11 +3264,13 @@ Sulphuric acid
 
 Sulphur tetrafluoride
 
+Sulphur trioxide
+
 Thallium, salts of
 
 Vinyl chloride monomer
 
-[S 361/89 wef 01/10/1989]
+[S 361/1989, S 55/1990]
 
 ## LEGISLATIVE HISTORY
 
@@ -3400,3 +3410,5 @@ This Legislative History is provided for the convenience of users of the Poisons
 ||Date of operation|15 March 1989|
 |51.|**G. N. No. S 361/1989—Poisons Act (Amendment of Schedule) (No. 2) Notification 1989**|
 ||Date of commencement|1 October 1989|
+|52.|**G. N. No. S 55/1990—Poisons Act (Amendment of Schedule) Notification 1990**|
+||Date of commencement|9 February 1990|
