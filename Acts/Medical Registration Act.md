@@ -240,17 +240,19 @@ Medical Council
 
 (a) the Director of Medical Services;
 
+(b) [Deleted by Act 46/2002 wef 24/01/2002]
+
 (c) 2 registered medical practitioners to be appointed by the Minister on the nomination of the Council of the National University of Singapore, one of whom shall be the Dean of the Faculty of Medicine of that University;
 
 (d) 9 registered medical practitioners resident in Singapore to be elected by the fully registered medical practitioners resident in Singapore; and
 
 (e) 7 registered medical practitioners resident in Singapore to be appointed by the Minister.
 
-(2) The members referred to in subsection (1) (c), (d) and (e) shall hold office for a period of 3 years and shall be eligible for reappointment or re-election.
+(2) The members referred to in subsection (1)(c), (d) and (e) shall hold office for a period of 3 years and shall be eligible for reappointment or re-election.
 
 (3) If for any reason the Director of Medical Services is unable to attend a particular meeting of the Medical Council, he may nominate a representative to attend the meeting and when so attending the representative shall be deemed for all purposes to be a member of the Medical Council.
 
-(4) The Minister may, at any time, revoke the appointment of any member appointed under subsection (1) (c) or (e) without assigning any reason.
+(4) The Minister may, at any time, revoke the appointment of any member appointed under subsection (1)(c) or (e) without assigning any reason.
 
 ### Functions of Medical Council
 
@@ -495,6 +497,8 @@ shall be entitled to be registered as a medical practitioner with conditional re
 [46/2002 wef 24/01/2003]
 
 (2) The Medical Council may require a person with a degree, other than a degree specified in the Schedule, to undergo and pass an examination conducted or arranged by the Medical Council or by such other person or persons as the Medical Council may appoint to satisfy itself that the degree is not lower in standing than a degree specified in the Schedule.
+
+(3) [Deleted by Act 46/2002 wef 24/01/2003]
 
 (4) The conditions of a person’s registration under this section shall be specified in the direction by virtue of which he is registered.
 
@@ -818,13 +822,15 @@ shall be made to the Medical Council which shall refer the complaint or informat
 
 [46/2002 wef 24/01/2003]
 
+(c) [Deleted by Act 46/2002 wef 24/01/2003]
+
 (d) a member of the Complaints Panel who is a lay person,
 
 to be known for the purposes of this Act as Complaints Committees to inquire into any complaint or information mentioned in subsection (1) or (1A).
 
 (5) A Complaints Committee shall be appointed in connection with one or more matters or for a fixed period of time as the Chairman of the Complaints Panel may think fit.
 
-(6) Where any complaint or information mentioned in subsection (1) (a) or (b) or (1A) is referred to the Chairman of the Complaints Panel, the Chairman of the Complaints Panel shall lay the complaint or information before a Complaints Committee.
+(6) Where any complaint or information mentioned in subsection (1)(a) or (b) or (1A) is referred to the Chairman of the Complaints Panel, the Chairman of the Complaints Panel shall lay the complaint or information before a Complaints Committee.
 
 (6A) Where any complaint or information mentioned in subsection (1)(c) is referred to the Chairman of the Complaints Panel, the Chairman of the Complaints Panel shall —
 
@@ -1478,6 +1484,12 @@ Sections 21 and 59
 
 List of Registrable Basic Medical Qualifications
 
+First column
+
+Second column
+
+Third column
+
 Country
 
 Body Granting Qualifications
@@ -1487,90 +1499,184 @@ Primary
 
 
 
-Qualifications*
+Qualifications
 
 Australia
 
-University of Melbourne
-
-
-
-
-University of Sydney
+1. Faculty of Medicine, University of Adelaide
 
 MBBS
 
+2. School of Medicine, The Flinders University of South Australia
 
+MBBS
 
+3. Faculty of Medicine, University of Melbourne
+
+MBBS
+
+4. Faculty of Medicine, Monash University
+
+MBBS
+
+5. Faculty of Medicine and Health Sciences, University of Newcastle
+
+BMed
+
+6. Faculty of Medicine, University of New South Wales
+
+MBBS
+
+7. The University of Queensland Medical School
+
+MBBS
+
+8. Faculty of Medicine, University of Sydney
+
+MBBS
+
+9. Faculty of Medicine, University of Tasmania
+
+MBBS
+
+10. Faculty of Medicine and Dentistry, University of Western Australia
 
 MBBS
 
 Canada
 
-McGill University
-
-
-
-
-University of Toronto
-
-MDCM
-
-
-
+1. Faculty of Medicine, University of British Columbia
 
 MD
 
+2. Faculty of Medicine, McGill University
+
+MD, CM
+
+3. Faculty of Health Sciences, McMaster University
+
+MD
+
+4. Faculty of Health Sciences, University of Ottawa
+
+MD
+
+5. Faculty of Medicine, Queen’s University
+
+MD
+
+6. Faculty of Medicine, University of Toronto
+
+MD
+
+7. Faculty of Medicine, University of Western Ontario
+
+MD
+
+Hong Kong
+
+1. Faculty of Medicine,
+
+
+
+
+Chinese University of Hong Kong
+
+MB ChB
+
+2. Faculty of Medicine, University of Hong Kong
+
+MBBS
+
+Ireland
+
+1. Faculty of Health Sciences, University of Dublin (Trinity College)
+
+MB BCh BAO
+
+2. Faculty of Medicine, National University of Ireland, University College Cork
+
+MB BCh BAO
+
+3. Faculty of Medicine, National University of Ireland, University College of Dublin
+
+MB BCh BAO
+
+4. Faculty of Medicine, National University of Ireland, University College Galway
+
+MB BCh BAO
+
+5. Royal College of Surgeons in Ireland (National University of Ireland)
+
+MB BCh BAO
+
+New Zealand
+
+1. Faculty of Medicine and Health Science, University of Auckland
+
+MB ChB
+
+2. Otago Medical School, University of Otago
+
+MB ChB
+
 United Kingdom
 
-University of Cambridge
+1. Faculty of Medicine and Medical Science, University of Aberdeen
 
+MB ChB
 
+2. College of Medicine and Health Sciences, The Queens University of Belfast
 
+MB ChB
 
-University of Edinburgh
+3. The Medical School, University of Birmingham
 
+MB ChB
 
+4. The Medical School, University of Bristol
 
+MB ChB
 
-University of Glasgow
+5. School of Clinical Medicine, University of Cambridge
 
+MB BChir
 
+6. Faculty of Medicine and Dentistry, University of Dundee
 
+MB ChB
 
-University of Oxford
+7. Medical School, University of Edinburgh
 
+MB ChB
 
+8. Faculty of Medicine, University of Glasgow
 
+MB ChB
 
-University of London —
+9. School of Medicine, University of Leeds
 
-MBBChir
+MB ChB
 
+10. School of Medicine, University of Leicester
 
+MB ChB
 
+11. Faculty of Medicine, University of Liverpool
 
-MBChB
+MB ChB
 
+12. The University of London Medical Schools, as follows:
 
-
-
-MBChB
-
-
-
-
-BMBCh
-
-(a) Imperial College School of Medicine
+(a) The Guy’s, King’s and St. Thomas’ School of Medicine
 
 MBBS
 
-(b) The Guy’s, King’s and St Thomas’s School of Medicine
+(b) Imperial College School of Science, Technology and Medicine
 
 MBBS
 
-(c) St Bartholomew’s and the Royal London School of Medicine and Dentistry under the name of Queen Mary and Westfield College
+(c) St. Bartholomew’s and the London School of Medicine and Dentistry, Queen Mary University of London
 
 MBBS
 
@@ -1578,57 +1684,129 @@ MBBS
 
 MBBS
 
-(e) St George’s Hospital Medical College
+(e) St. George’s Hospital Medical School
 
 MBBS
 
+13. Faculty of Medicine, University of Manchester
+
+MB ChB
+
+14. Faculty of Medicine, University of Newcastle upon Tyne
+
+MBBS
+
+15. The University of Nottingham Medical School
+
+BMBS
+
+16. Oxford University Medical School
+
+MB ChB
+
+17. Faculty of Medicine and Dentistry, University of Sheffield Medical School
+
+MB ChB
+
+18. Faculty of Medicine, University of Southampton
+
+MB
+
+19. Medical School, University of St. Andrews
+
+MB ChB
+
+20. College of Medicine, University of Wales
+
+MB BCh
+
 United States of America
 
-University of California at San Francisco
+1. Baylor College of Medicine
 
 MD
 
-Columbia University
+2. Los Angeles School of Medicine, University of California
 
 MD
 
-Cornell University
+3. School of Medicine, University of California at San Diego
 
 MD
 
-Duke University
+4. San Francisco School of Medicine, University of California
 
 MD
 
-Harvard University
+5. Pritzker School of Medicine, University of Chicago
 
 MD
 
-Johns Hopkins University
+6. Columbia University College of Physicians and Surgeons (New York)
 
 MD
 
-University of Michigan
+7. Cornell University Medical College (New York)
 
 MD
 
-University of Pennsylvania
+8. Duke University School of Medicine
 
 MD
 
-Stanford University
+9. Emory University School of Medicine
 
 MD
 
-Washington University (Missouri)
+10. Harvard Medical School
 
 MD
 
-Yale University
+11. The Johns Hopkins University School of Medicine
 
 MD
 
-[S 536/2001 wef 26/10/2001]
+12. Mayo Medical School
+
+MD
+
+13. University of Michigan Medical School (Ann Arbor)
+
+MD
+
+14. University of Pennsylvania School of Medicine
+
+MD
+
+15. University of Pittsburgh School of Medicine
+
+MD
+
+16. Stanford University School of Medicine
+
+MD
+
+17. University of Texas Southwestern Medical School at Dallas
+
+MD
+
+18. Vanderbilt University School of Medicine
+
+MD
+
+19. University of Washington School of Medicine (Seattle)
+
+MD
+
+20. Washington University School of Medicine (St. Louis)
+
+MD
+
+21. Yale University Medical School
+
+MD.
+
+[S 122/2003 wef 14/03/2003]
 
 ## LEGISLATIVE HISTORY
 
@@ -1659,3 +1837,5 @@ This Legislative History is provided for the convenience of users of the Medical
 |||(Bill No. 47/2002 published on 26 November 2002)|
 ||Date of Second and Third Readings|5 December 2002|
 ||Date of commencement|24 January 2003|
+|6.|**G. N. No. S 122/2003—Medical Registration Act (Amendment of Schedule) Order 2003**|
+||Date of commencement|14 March 2003|
