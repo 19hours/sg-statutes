@@ -3064,15 +3064,61 @@ Pentachlorobenzene
 
 Chlorofluorocarbons, the following:
 
-Trichlorofluoromethane (CFC 11)
+Trichlorofluoromethane (CFC 11, CFCl
 
-Dichlorofluoromethane (CFC 12)
+3
 
-Trichlorotrifluoroethane (CFC 113)
+)
 
-Dichlorotetrafluoroethane (CFC 114)
+Dichlorofluoromethane (CFC 12, CF
 
-Chloropentafluoroethane (CFC 115)
+2
+
+Cl
+
+2
+
+)
+
+Trichlorotrifluoroethane (CFC 113, C
+
+2
+
+F
+
+3
+
+Cl
+
+3
+
+)
+
+Dichlorotetrafluoroethane (CFC 114, C
+
+2
+
+F
+
+4
+
+Cl
+
+2
+
+)
+
+Chloropentafluoroethane (CFC 115, C
+
+2
+
+F
+
+5
+
+Cl)
+
+in non-pharmaceutical aerosol products, polystyrene sheets or products; as a refrigerant for refrigeration or air-conditioning equipment that are installed on or after 1st January 1993, except air-conditioners in vehicles, refrigerators that are used for domestic purpose and refrigerators having a compressor rating not exceeding one horsepower.
 
 Chlorophenols; the following:
 
@@ -3282,7 +3328,7 @@ Thallium, salts of
 
 Vinyl chloride monomer
 
-[S 361/1989, S 55/1990, S 51/1991]]
+[S 361/1989; S 55/1990; S 51/1991; S 475/1991]
 
 ## LEGISLATIVE HISTORY
 
@@ -3426,3 +3472,5 @@ This Legislative History is provided for the convenience of users of the Poisons
 ||Date of commencement|9 February 1990|
 |53.|**G. N. No. S 51/1991—Poisons Act (Amendment of Schedule) Notification 1991**|
 ||Date of commencement|5 February 1991|
+|54.|**G. N. No. S 475/1991—Poisons Act (Amendment of Schedule) (No. 2) Notification 1991**|
+||Date of commencement|1 November 1991|
