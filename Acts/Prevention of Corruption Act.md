@@ -6,19 +6,31 @@
 
 [**Long Title**](#Prevention-of-Corruption-Act)
 
-[**Part I**](#Part-I)
+[**Part I PRELIMINARY**](#Part-I)
 
 - [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
-[**Part II**](#Part-II)
+[**Part II APPOINTMENT OF STAFF AND PERSONNEL MATTERS**](#Part-II)
 
 - [3 Appointment of Director and officers](#Appointment-of-Director-and-officers)
 
 - [4 Director and officers deemed to be public servants](#Director-and-officers-deemed-to-be-public-servants)
 
-[**Part III**](#Part-III)
+- [4A Establishment of Occupational Superannuation Scheme](#Establishment-of-Occupational-Superannuation-Scheme)
+
+- [4B Benefits not as of right, etc.](#Benefits-not-as-of-right-etc)
+
+- [4C Non-assignability or attachment of benefits, etc.](#Non-assignability-or-attachment-of-benefits-etc)
+
+- [4D Recovery of benefits granted in ignorance of disqualifying facts](#Recovery-of-benefits-granted-in-ignorance-of-disqualifying-facts)
+
+- [4E Effect of bankruptcy and conviction on Scheme benefits](#Effect-of-bankruptcy-and-conviction-on-Scheme-benefits)
+
+- [4F Scheme to be met out of INVEST Fund](#Scheme-to-be-met-out-of-INVEST-Fund)
+
+[**Part III OFFENCES AND PENALTIES**](#Part-III)
 
 - [5 Punishment for corruption](#Punishment-for-corruption)
 
@@ -40,7 +52,7 @@
 
 - [14 Principal may recover amount of secret gift](#Principal-may-recover-amount-of-secret-gift)
 
-[**Part IV**](#Part-IV)
+[**Part IV POWERS OF ARREST AND INVESTIGATION**](#Part-IV)
 
 - [15 Powers of arrest](#Powers-of-arrest)
 
@@ -58,7 +70,7 @@
 
 - [22 Powers of search and seizure](#Powers-of-search-and-seizure)
 
-[**Part V**](#Part-V)
+[**Part V EVIDENCE**](#Part-V)
 
 - [23 Evidence of custom inadmissible](#Evidence-of-custom-inadmissible)
 
@@ -66,7 +78,7 @@
 
 - [25 Evidence of accomplice](#Evidence-of-accomplice)
 
-[**Part VI**](#Part-VI)
+[**Part VI MISCELLANEOUS**](#Part-VI)
 
 - [26 Obstruction of search](#Obstruction-of-search)
 
@@ -110,6 +122,8 @@ An Act to provide for the more effectual prevention of corruption.
 
 ## PART I
 
+PRELIMINARY
+
 ### Short title
 
 1\. This Act may be cited as the Prevention of Corruption Act.
@@ -119,6 +133,10 @@ An Act to provide for the more effectual prevention of corruption.
 2\. In this Act, unless the context otherwise requires —
 
 “agent” means any person employed by or acting for another, and includes a trustee, administrator and executor, and a person serving the Government or under any corporation or public body, and for the purposes of section 8 includes a subcontractor and any person employed by or acting for such subcontractor;
+
+“CPIB officer” means a public officer in the Corrupt Practices Investigation Service (Junior) Scheme of Service or in the Corrupt Practices Investigation Service (Senior) Scheme of Service;
+
+[29/2002 wef 30/01/2003]
 
 “Director” means the Director of the Corrupt Practices Investigation Bureau appointed under section 3;
 
@@ -134,15 +152,33 @@ An Act to provide for the more effectual prevention of corruption.
 
 (e) any offer, undertaking or promise of any gratification within the meaning of paragraphs (a), (b), (c) and (d);
 
+“INVEST Fund” means the INVEST Fund established under Part III of the Home Affairs Uniformed Services Superannuation Act (Cap. 126B);
+
+[29/2002 wef 30/01/2003]
+
+“member” means a member of the Scheme established under this Act;
+
+[29/2002 wef 30/01/2003]
+
 “principal” includes an employer, a beneficiary under a trust, and a trust estate as though it were a person and any person beneficially interested in the estate of a deceased person and the estate of a deceased person as though the estate were a person, and in the case of a person serving the Government or a public body includes the Government or the public body, as the case may be;
 
 “public body” means any corporation, board, council, commissioners or other body which has power to act under and for the purposes of any written law relating to public health or to undertakings or public utility or otherwise to administer money levied or raised by rates or charges in pursuance of any written law;
+
+“Scheme” means the Occupational Superannuation Scheme established by regulations made under section 4A;
+
+[29/2002 wef 30/01/2003]
+
+“service” means regular service (whether part-time or full-time) as a CPIB officer;
+
+[29/2002 wef 30/01/2003]
 
 “special investigator” means a special investigator of the Corrupt Practices Investigation Bureau.
 
 [25/81]
 
 ## PART II
+
+APPOINTMENT OF STAFF AND PERSONNEL MATTERS
 
 ### Appointment of Director and officers
 
@@ -170,7 +206,143 @@ Provided that the President acting in his discretion may refuse to appoint or re
 
 [25/81]
 
+### Establishment of Occupational Superannuation Scheme
+
+4A\.—(1) The Minister shall, by regulations, establish an Occupational Superannuation Scheme for the benefit of all CPIB officers appointed on or after 1st November 2001, who will be the members of the Scheme.
+
+(2) The regulations made under subsection (1) shall provide for the payment of —
+
+(a) any gratuity, allowance, superannuation or other like benefit to members of the Scheme, or to their legal personal representatives or dependants, on the death of the members in the service or on the resignation, retirement or discharge of the members from the service;
+
+(b) any pension, gratuity, allowance, compensation or other benefit in respect of the death of or injuries received by any member of the Scheme in and which are attributable to service; and
+
+(c) any allowance, subsidy or other benefit to such former members of the Scheme as may be prescribed after their retirement from the service.
+
+(3) The regulations made under subsection (1) may provide for —
+
+(a) the payment of contributions in respect of each member;
+
+(b) the age or ages at which a member may retire or be required to retire from the service;
+
+(c) the appointment of award officers to assess, award and pay pensions, gratuities and allowances and other like benefits under the Scheme and to otherwise administer the Scheme; and
+
+(d) the bringing of appeals against decisions of award officers and the appointment of one or more persons to hear such appeals and review the decisions of award officers.
+
+(4) In making regulations under subsection (1), the Minister shall also provide for —
+
+(a) every CPIB officer who is appointed before 1st November 2001 and who, immediately before that date, is eligible (whether on retirement or in respect of death or injury in or attributable to service) for any pension, gratuity or other allowance under the Pensions Act (Cap. 225); and
+
+(b) every CPIB officer who is appointed before 1st November 2001 to the service on a contract for a term and who, immediately before that date, is eligible for any gratuity or other like benefit under the contract,
+
+an option to join the Scheme as a member and for the terms and conditions of such an option.
+
+(5) The regulations made in relation to CPIB officers referred to in subsection (4) shall provide —
+
+(a) in the case of an officer referred to in subsection (4)(a), that any such officer who opts to join the Scheme shall cease to be eligible to benefits under the Pensions Act but shall remain eligible under the Scheme to benefits not less in value than the amount of any pension, gratuity or other allowance for which he would have been granted under the Pensions Act if he retired from the service, or was injured or died in service, on the date immediately before his joining the Scheme; and
+
+(b) in the case of an officer referred to in subsection (4)(b), that any such officer who opts to join the Scheme shall remain eligible to benefits not less in value than the amount of any gratuity or other like benefit for which he would have been granted under his contract if he had completed his term of service under the contract on the date immediately before his joining the Scheme.
+
+(6) Any option exercised by any CPIB officer before 1st November 2001 to join or not to join the Scheme shall be deemed to be exercised in accordance with the regulations made under subsection (1) in relation to CPIB officers referred to in subsection (4).
+
+[29/2002 wef 30/01/2003]
+
+### Benefits not as of right, etc.
+
+4B\.—(1) No member shall have an absolute right to compensation for past services or to any pension, gratuity, allowance or other benefit under the Scheme.
+
+[29/2002 wef 30/01/2003]
+
+(2) Nothing in this Act shall limit the right of the Public Service Commission, or any of its delegates, to dismiss any CPIB officer who is a member from the service without compensation.
+
+[29/2002 wef 30/01/2003]
+
+(3) Subject to Article 113 of the Constitution, where it is established to the satisfaction of an award officer that a member has been guilty of negligence, irregularity or misconduct, it shall be lawful for the award officer to reduce or altogether withhold the pension, gratuity, allowance or other benefit for which the member would but for this section have become eligible under the Scheme.
+
+[29/2002 wef 30/01/2003]
+
+### Non-assignability or attachment of benefits, etc.
+
+4C\.—(1) No payments, allowance or other benefit payable under the Scheme (whether on death, retirement or resignation of a member or otherwise), and no contribution by the Government made under the Scheme, and no interest thereon shall be assignable or transferable, or liable to be garnished, attached, sequestered or levied upon for or in respect of any debt or claim, other than —
+
+(a) a debt due to the Government; or
+
+(b) an order of court for the payment of periodical sums of money towards the maintenance of the wife or former wife or minor child (whether legitimate or not) of the member to whom the payment, allowance or other benefit has been granted.
+
+(2) Subject to the provisions of any regulations made under section 4A, all moneys paid or payable under the Scheme on the death of a member thereof —
+
+(a) shall be deemed to be subject to a trust in favour of the persons entitled thereto under the will or intestacy of such deceased member;
+
+(b) shall not be deemed to form part of his estate or be subject to the payment of his debts; and
+
+(c) shall be deemed to be property passing on his death for the purposes of the Estate Duty Act (Cap. 96).
+
+[29/2002 wef 30/01/2003]
+
+### Recovery of benefits granted in ignorance of disqualifying facts
+
+4D\. It shall be a condition of the grant of every pension, gratuity, allowance or other benefit under the Scheme that the Government may recover, cancel or reduce the grant if it is shown to have been obtained by the wilful suppression of material facts or to have been granted in ignorance of facts which, had they been known before the retirement or resignation of the member, would have justified his dismissal or a reduction of his salary.
+
+[29/2002 wef 30/01/2003]
+
+### Effect of bankruptcy and conviction on Scheme benefits
+
+4E\.—(1) No contribution by the Government made under the Scheme and no interest thereon shall be subject to the debts of any member thereof, nor shall such contributions and interest pass to the Official Assignee on the bankruptcy of the member.
+
+(2) If a member is adjudicated a bankrupt or is declared insolvent by a court of law, such contributions and interest shall be deemed to be excluded from the property of the bankrupt for the purposes of the Bankruptcy Act (Cap. 20).
+
+(3) If, at the date of his retirement or resignation from the service, any member has been adjudged a bankrupt by judgment of a court of competent jurisdiction, whether in Singapore or elsewhere, and he has not obtained his discharge from such adjudication or declaration, it shall be lawful for an award officer to refuse to grant any pension, gratuity or other allowance which would, if not for this subsection, be granted.
+
+(4) If any person to whom a pension or other allowance has been granted under this Act —
+
+(a) is adjudicated a bankrupt by judgment of a court of competent jurisdiction, whether in Singapore or elsewhere; or
+
+(b) is sentenced to death or penal servitude or any term of imprisonment, by any court of competent jurisdiction, whether in Singapore or elsewhere, for any crime or offence,
+
+the Minister may direct that such pension or allowance shall forthwith cease, and thereupon such pension or allowance shall cease accordingly.
+
+(5) Where, by reason of bankruptcy of a member or former member, a pension, gratuity or allowance is not granted or where a pension or allowance ceases by virtue of a direction under subsection (4)(a), it shall be lawful for the Minister to cause all or any part of the moneys to which such person would have been entitled by way of pension, gratuity or allowance, had he not become a bankrupt or sentenced for any crime or offence, as the case may be, to be paid to, or applied for the maintenance and personal support or benefit of, all or any (to the exclusion of the others) of the following persons in such proportions and manner as the Minister thinks proper:
+
+(a) the member or former member himself; and
+
+(b) his spouse, child or children.
+
+(6) The Minister may exercise his power under subsection (5), from time to time, during the remainder of the member’s or former member’s life, or during such shorter period or periods, either continuous or discontinuous, as the Minister thinks fit.
+
+(7) When a person to whom a pension or allowance has not been granted or whose pension or allowance has ceased under this section obtains a full and proper discharge from his bankruptcy, his pension or allowance shall be restored to him with effect from the date of such discharge.
+
+(8) For the purposes of subsection (5), moneys applied for the discharge of the debts of the member or former member, as the case may be, shall be regarded as applied for his benefit.
+
+(9) Notwithstanding subsection (4), any pension or allowance that has ceased by virtue of a direction under subsection (4)(b) shall be restored with retrospective effect in the case of a person who, after conviction, at any time receives a free pardon.
+
+(10) Where a pension or allowance ceases by virtue of a direction under subsection (4)(b), it shall be lawful for the Minister to cause all or any part of moneys to which the person would have been entitled by way of pension or allowance to be paid to or applied for the benefit of his spouse, child or children, or after the expiration of his sentence, also for the benefit of himself, in the same manner precisely and subject to the same qualifications and restrictions as in the case of bankruptcy provided in subsection (5).
+
+[29/2002 wef 30/01/2003]
+
+### Scheme to be met out of INVEST Fund
+
+4F\.—(1) There shall be paid into the INVEST Fund —
+
+(a) such sums appropriated from the Consolidated Fund and authorised to be paid into the INVEST Fund by or under any written law to enable that Fund to meet its liabilities under this Act; and
+
+(b) such sum from the Pension Fund established by the Pension Fund Act (Cap. 224A) as the Minister for Finance may determine as the value of that part of the Pension Fund relating to all those CPIB officers referred to in section 4A(4)(a) who exercise an option in favour of joining the Scheme in accordance with the regulations under section 4A.
+
+[29/2002 wef 30/01/2003]
+
+(2) The INVEST Fund comprising moneys referred to in subsection (1) shall be applied to meet the following purposes only:
+
+(a) the payment of any pension, gratuity, allowance, compensation or other like benefit granted under the Scheme; and
+
+(b) such other expenses relating to the granting of any pension, gratuity, allowance, compensation or other like benefit under the Scheme and expressly provided by regulations made under this Act to be met from the INVEST Fund.
+
+[29/2002 wef 30/01/2003]
+
+(3) The moneys referred to in subsection (1) shall be paid into the INVEST Fund as capital money, and shall not be used to make payment of any dividend under the Scheme.
+
+[29/2002 wef 30/01/2003]
+
 ## PART III
+
+OFFENCES AND PENALTIES
 
 ### Punishment for corruption
 
@@ -283,6 +455,8 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 (2) Nothing in this section shall be deemed to prejudice or affect any right which any principal may have under any written law or rule of law to recover from his agent any money or property.
 
 ## PART IV
+
+POWERS OF ARREST AND INVESTIGATION
 
 ### Powers of arrest
 
@@ -410,6 +584,8 @@ and the special investigator or police officer has reasonable grounds for believ
 
 ## PART V
 
+EVIDENCE
+
 ### Evidence of custom inadmissible
 
 23\. In any civil or criminal proceeding under this Act evidence shall not be admissible to show that any such gratification as is mentioned in this Act is customary in any profession, trade, vocation or calling.
@@ -431,6 +607,8 @@ and the special investigator or police officer has reasonable grounds for believ
 [24
 
 ## PART VI
+
+MISCELLANEOUS
 
 ### Obstruction of search
 
@@ -607,3 +785,8 @@ This Legislative History is provided for the convenience of users of the Prevent
 ||Date of Second and Third Readings|12 October 1998|
 ||Dates of commencement|16 November 1998|
 |||(item (9) in the Schedule)|
+|13.|**Act 29 of 2002—Prevention of Corruption (Amendment) Act 2002**|
+||Date of First Reading|1 October 2002|
+|||(Bill No. 29/2002 published on 2 October 2002)|
+||Date of Second and Third Readings|31 October 2002|
+||Date of commencement|30 January 2003|
