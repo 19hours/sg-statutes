@@ -1608,7 +1608,7 @@ he shall immediately report the matter to the Authority.
 
 ### Clearing House settlements and control over Clearing House
 
-59\.—(1) In order to facilitate the clearing of cheques and other credit instruments for banks, the Post Office Savings Bank of Singapore established under the Post Office Savings Bank of Singapore Act, and other financial institutions approved by the Authority, the Authority shall, in conjunction with such banks and institutions, by regulations, establish a Clearing House.
+59\.—(1) In order to facilitate the clearing of cheques and other credit instruments for banks and other financial institutions approved by the Authority, the Authority shall, in conjunction with such banks and institutions, by regulations, establish a Clearing House.
 
 [28/93]
 
@@ -1616,7 +1616,7 @@ he shall immediately report the matter to the Authority.
 
 [28/93]
 
-(3) Where the Authority is of the opinion that a Clearing House is carrying on its operations in a manner likely to be detrimental to the interest of banks, the Post Office Savings Bank of Singapore or other participating financial institutions, the Authority may —
+(3) Where the Authority is of the opinion that a Clearing House is carrying on its operations in a manner likely to be detrimental to the interest of banks or other participating financial institutions, the Authority may —
 
 (a) require the Clearing House forthwith to take any action or to do or not to do any act or thing whatsoever in relation to its business as the Authority may consider necessary;
 
@@ -1686,7 +1686,7 @@ the payment or transfer has the same effect it would have had if the proceedings
 
 “certification authority” has the same meaning as in the Electronic Transactions Act 1998;
 
-“participant” means a bank or the Post Office Savings Bank of Singapore established under the Post Office Savings Bank of Singapore Act (Cap. 237) which has been approved by the Authority to be a participant of a settlement system and shall include the Authority where it participates in the settlement system;
+“participant” means a bank which has been approved by the Authority to be a participant of a settlement system and shall include the Authority where it participates in the settlement system;
 
 “real-time gross settlement system” means a system which can effect final settlement of funds, payment obligations and book-entry securities and instruments on a continuous basis during such operating hours of a processing day as the Authority may determine and on a transaction-by-transaction basis;
 
@@ -1852,7 +1852,7 @@ as a result of anything done by him bona fide in the exercise of any power, or t
 
 ### Exemption
 
-76\. Unless otherwise expressly provided, this Act shall not apply to the Post Office Savings Bank of Singapore established under the Post Office Savings Bank of Singapore Act or to any co-operative society registered under the Co-operative Societies Act [Cap. 62] or to any business of pawnbroking carried on by a person licensed under the Pawnbrokers Act [Cap. 222] or to finance companies licensed under the Finance Companies Act [Cap. 108].
+76\. Unless otherwise expressly provided, this Act shall not apply to any co-operative society registered under the Co-operative Societies Act [Cap. 62] or to any business of pawnbroking carried on by a person licensed under the Pawnbrokers Act [Cap. 222] or to finance companies licensed under the Finance Companies Act [Cap. 108].
 
 [28/93]
 
@@ -1905,8 +1905,6 @@ as a result of anything done by him bona fide in the exercise of any power, or t
 (7) Any person who contravenes this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
 
 (8) In this section —
-
-“bank” includes the Post Office Savings Bank of Singapore established under the Post Office Savings Bank of Singapore Act;
 
 “stored value card” means a card for which a person pays in advance a sum of money to the issuer in exchange for an undertaking by the issuer that on the production of the card to the issuer or a third party (whether or not some other action is also required), the issuer or the third party, as the case may be, will supply goods or services or both goods and services; and, for the purposes of this definition, “card” includes any token, coupon, stamp, form, booklet or other document or thing.
 
@@ -2160,3 +2158,9 @@ This Legislative History is provided for the convenience of users of the Banking
 |||(Bill No. 20/98 published on 2 June 1998)|
 ||Date of Second and Third Readings|29 June 1998|
 ||Date of commencement|10 July 1998|
+|11.|**Act 37 of 1998—Post Office Savings Bank of Singapore (Transfer of Undertakings and Dissolution) Act 1998**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|31 July 1998|
+|||(Bill No. 34/98 published on 1 August 1998)|
+||Date of Second and Third Readings|12 October 1998|
+||Date of commencement|16 November 1998|
