@@ -1434,3 +1434,8 @@ This Legislative History is provided for the convenience of users of the Preside
 |||(Bill No. 21/1991 published on 29 June 1991)|
 ||Date of Second and Third Readings|29 July 1991|
 ||Date of commencement|2 November 1992|
+|4.|**Act 12 of 1993—Presidential Elections (Amendment) Act 1993**|
+||Date of First Reading|26 February 1993|
+|||(Bill No. 11/1993 published on 27 February 1993)|
+||Date of Second and Third Readings|19 March 1993|
+||Date of commencement|16 April 1993|
