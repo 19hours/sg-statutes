@@ -98,10 +98,6 @@ Assistant Secretary for Social Welfare
 
 Assistant Director of Social Welfare.
 
-Director of Botanical Gardens
-
-Director of Botanic Gardens.
-
 Sanitary Engineer
 
 Public Health Engineer.
@@ -165,58 +161,6 @@ Registrar of Births and Deaths.
 Registrar of Births, Deaths and Marriages
 
 Registrar of Marriages.
-
-Curator of the Herbarium
-
-Botanist, Botanic Gardens.
-
-Keeper of the Herbarium
-
-Botanist, Botanic Gardens.
-
-Assistant Director of Botanical Gardens
-
-Botanist, Botanic Gardens.
-
-Assistant Botanist
-
-Botanist, Botanic Gardens.
-
-Curator, Gardens
-
-Curator, Botanic Gardens.
-
-Curator, Parks
-
-Curator, Botanic Gardens.
-
-Curator, Botanical Gardens
-
-Curator, Botanic Gardens.
-
-Government Architect
-
-Assistant Director of Public Works, Singapore.
-
-Government Architect, Singapore
-
-Assistant Director of Public Works, Singapore.
-
-Chief Architect, Singapore
-
-Assistant Director of Public Works, Singapore.
-
-Chief Engineer, Singapore
-
-Assistant Director of Public Works, Singapore.
-
-Superintending Engineer, Airport
-
-Senior Executive Engineer, Public Works Department, Singapore.
-
-Chief Engineer, Paya Lebar Airport
-
-Senior Executive Engineer, Public Works Department, Singapore.
 
 Superintendent of Vaccination for the Colony
 
@@ -436,14 +380,6 @@ Assistant Comptroller of Customs and Excise
 
 Director of Customs and Excise.
 
-Chief Building Surveyor
-
-Assistant Director (Building Control), Public Works Department.
-
-Assistant Director (Building Control), Public Works Department
-
-Deputy Director (Development and Building Control), Public Works Department.
-
 Chief Veterinary Officer
 
 Director of Primary Production.
@@ -464,18 +400,6 @@ Senior Primary Production Officer (Agriculture)
 
 Senior Primary Production Officer.
 
-Director of Public Works
-
-Director-General of Public Works.
-
-Assistant Director of Public Works
-
-Assistant Director-General of Public Works.
-
-Deputy Director (Development and Building Control), Public Works Department
-
-Director-General of Public Works
-
 Principal Assistant Director of Social Welfare
 
 Welfare Officer Grade V or VI
@@ -483,10 +407,6 @@ Welfare Officer Grade V or VI
 Assistant Director of Social Welfare
 
 Welfare Officer Grade VII or VIII.
-
-Deputy Director of Public Works
-
-Deputy Director-General of Public Works.
 
 Permanent Secretary, Ministry of Finance, (Public Service Division)
 
@@ -699,3 +619,5 @@ This Legislative History is provided for the convenience of users of the Departm
 |||(Bill No. 11/96 published on 3 May 1996)|
 ||Date of Second and Third Readings|21 May 1996|
 ||Date of commencement|12 July 1996|
+|18.|**G. N. No. S 151/1999—Departmental Titles (Alteration) Act (Amendment of Schedule) Notification 1999**|
+||Date of commencement|1 April 1999|
