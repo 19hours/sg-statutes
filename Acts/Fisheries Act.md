@@ -14,7 +14,7 @@
 
 [**Part II ADMINISTRATION**](#Part-II)
 
-- [3 Appointment of Director of Primary Production and Assistant Director of Primary Production (Fisheries)](#Appointment-of-Director-of-Primary-Production-and-Assistant-Director-of-Primary-Production-Fisheries)
+- [3 Appointment of Director of Primary Production and Director (Fisheries)](#Appointment-of-Director-of-Primary-Production-and-Director-Fisheries)
 
 - [4 Appointment of fishery officers](#Appointment-of-fishery-officers)
 
@@ -58,6 +58,10 @@
 
 - [21 Offence committed by an employee](#Offence-committed-by-an-employee)
 
+- [21A Offences by body corporate, etc](#Offences-by-body-corporate-etc)
+
+- [21B Jurisdiction of Courts](#Jurisdiction-of-Courts)
+
 - [22 Courts have jurisdiction to try offences committed outside territorial waters](#Courts-have-jurisdiction-to-try-offences-committed-outside-territorial-waters)
 
 [**Part VI SEARCH, SEIZURE AND ARREST**](#Part-VI)
@@ -98,7 +102,9 @@ PRELIMINARY
 
 2\. In this Act, unless the context otherwise requires —
 
-“Director” means the Director of Primary Production appointed under section 3 and includes the Assistant Director of Primary Production (Fisheries) appointed under that section;
+“Director” means the Director of Primary Production appointed under section 3 and includes the Director (Fisheries) appointed under that section;
+
+[12/1994 wef 15/10/1994]
 
 “estuarine waters” means waters extending from the mouth of a river to the uppermost point upstream penetrated by sea water at the highest tide of the year and reference to estuarine fishing and to estuarine fisheries shall be construed accordingly;
 
@@ -128,11 +134,15 @@ PRELIMINARY
 
 ADMINISTRATION
 
-### Appointment of Director of Primary Production and Assistant Director of Primary Production (Fisheries)
+### Appointment of Director of Primary Production and Director (Fisheries)
 
-3\.—(1) The Minister may, by notification in theGazette, appoint an officer to be styled the Director of Primary Production (referred to in this Act as the Director) and an officer to be styled the Assistant Director of Primary Production (Fisheries), who, subject to such limitations as may be prescribed by the Director, may perform all duties imposed and exercise all powers conferred on the Director by this Act and every duty so performed and power exercised shall be deemed to have been duly performed and exercised for the purposes of this Act.
+3\.—(1) The Minister may, by notification in theGazette, appoint an officer to be styled the Director of Primary Production (referred to in this Act as the Director) and an officer to be styled the Director (Fisheries), who, subject to such limitations as may be prescribed by the Director, may perform all duties imposed and exercise all powers conferred on the Director by this Act and every duty so performed and power exercised shall be deemed to have been duly performed and exercised for the purposes of this Act.
 
-(2) The Director may delegate the exercise of all or any of the powers conferred or duties imposed upon him by this Act to any public officer.
+[12/1994 wef 15/10/1994]
+
+(2) The Director may delegate the exercise of all or any of the powers conferred or duties imposed upon him by this Act to any public officer or any officer of a statutory board.
+
+[12/1994 wef 15/10/1994]
 
 ### Appointment of fishery officers
 
@@ -200,7 +210,9 @@ RULES
 
 (u) to license fishing vessels, fishing stakes, fishing nets, gear and equipment, and the like;
 
-(v) to regulate or prohibit the import, export or transhipment of fish or any species of fish and to impose such conditions as may be necessary;
+(v) to regulate or prohibit the import, export or transhipment of fish, any species of fish or processed fish and to impose such conditions as may be necessary;
+
+[12/1994 wef 15/10/1994]
 
 (w) to regulate or prohibit the construction of any bunds, slides, dams or other barriers or obstruction in inland and estuarine waters;
 
@@ -286,9 +298,13 @@ OFFENCES
 
 ### Penalty for breach of provisions of Act, rules and conditions
 
-15\.—(1) Any person who commits an offence under this Act shall be liable, if no special penalty is provided, on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding one year or to both.
+15\.—(1) Any person who commits an offence under this Act shall be liable, if no special penalty is provided, on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding one year or to both.
 
-(2) Any person who does or attempts to do or causes or permits to be done or abets an act contrary to, or fails to comply with the provisions of this Act or any rules made thereunder or in breach of the restrictions or conditions subject to which any licence has been issued shall be guilty of an offence and shall be liable on conviction, if no special penalty is provided, to a fine not exceeding $1,000 or to imprisonment for a term not exceeding one year or to both.
+[12/1994 wef 15/10/1994]
+
+(2) Any person who does or attempts to do or causes or permits to be done or abets an act contrary to, or fails to comply with the provisions of this Act or any rules made thereunder or in breach of the restrictions or conditions subject to which any licence has been issued shall be guilty of an offence and shall be liable on conviction, if no special penalty is provided, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding one year or to both.
+
+[12/1994 wef 15/10/1994]
 
 (3) Where an offence is continued after conviction, there shall be payable by the offender for every day that the offence continues a fine not exceeding $50, and where the offence continues for a period exceeding 10 days after conviction the offender shall be liable to a term of imprisonment not exceeding 6 months.
 
@@ -296,11 +312,21 @@ OFFENCES
 
 [30/73]
 
+(4) Notwithstanding subsection (2), the Minister may provide in any rules made under this Act which relate to the prohibition, regulation or control of the species of fish known as piranha or any other prescribed dangerous species of fish that a person who contravenes any provision thereof shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding one year or to both.
+
+[12/1994 wef 15/10/1994]
+
+(5) No prosecution in respect of an offence referred to in subsection (4) shall be instituted except with the consent of the Public Prosecutor.
+
+[12/1994 wef 15/10/1994]
+
 ### Forfeiture
 
-16\. Any vessel, vehicle, stake, net, instrument or appliance used in the commission of any offence under this Act or any rules made thereunder and any fish caught in contravention of the provisions of this Act or of any such rules may be forfeited to the Director and, if so forfeited, shall be disposed of in such manner as the Director may direct.
+16\. Any vessel, vehicle, stake, net, instrument or appliance used in the commission of any offence under this Act or any rules made thereunder and any fish caught or found, or any processed fish found in contravention of the provisions of this Act or of any such rules may be forfeited to the Director and, if so forfeited, shall be disposed of in such manner as the Director may direct.
 
 [15
+
+[12/1994 wef 15/10/1994]
 
 ### Sale of fish pending result of prosecution
 
@@ -326,11 +352,11 @@ OFFENCES
 
 ### Power to compound offences
 
-20\. The Director may compound any offence under this Act (except section 14) or any rules made thereunder for a sum of money not less than one-fifth of the maximum fine provided for that offence.
+20\.—(1) The Director may, in his discretion, compound any offence under this Act or any rules made thereunder which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $1,000.
 
-[19
+(2) The Minister may make rules to prescribe the offences which may be compounded.
 
-[30/73]
+[12/1994 wef 15/10/1994]
 
 ### Offence committed by an employee
 
@@ -341,6 +367,18 @@ OFFENCES
 (b) that the offence was committed without his knowledge, consent or connivance.
 
 [20
+
+### Offences by body corporate, etc
+
+21A\. Where an offence under this Act or any rules made thereunder has been committed by a body corporate, a partnership or an unincorporated association of persons, any person who, at the time of the commission of the offence, was a director, manager, partner, secretary or other similar officer thereof, or who was purporting to act in any such capacity, shall also be guilty of that offence and shall be liable to be proceeded against and punished accordingly unless he proves that the offence was committed without his knowledge, consent or connivance, and that he had exercised all such diligence to prevent the commission of the offence as he ought to have exercised having regard to the nature of his functions in that capacity and to all the circumstances.
+
+[12/1994 wef 15/10/1994]
+
+### Jurisdiction of Courts
+
+21B\. Notwithstanding anything to the contrary in the Criminal Procedure Code (Cap. 68), a District Court or a Magistrate’s Court shall have jurisdiction to try any offence under this Act or any rules made thereunder and to impose the full penalty or punishment in respect of any such offence.
+
+[12/1994 wef 15/10/1994]
 
 ### Courts have jurisdiction to try offences committed outside territorial waters
 
@@ -354,19 +392,27 @@ SEARCH, SEIZURE AND ARREST
 
 ### Powers of officers
 
-23\. Any fishery officer or police officer may without warrant —
+23\.—(1) Any fishery officer or police officer may without warrant —
 
-(a) stop, search and detain any vessel or vehicle which he has reason to believe is being used for fishing or carrying fish or fishing materials contrary to the provisions of this Act or any rules made thereunder and may seize that vessel or vehicle and any engine, fish nets, instruments, fishing materials or other appliances found therein;
+(a) stop, search and detain any vessel or vehicle which he has reason to believe is being used for fishing or carrying fish or fishing materials contrary to the provisions of this Act or any rules made thereunder and may seize that vessel or vehicle and any engine, fish, processed fish, fishing nets, instruments, fishing materials or other appliances found therein;
+
+[12/1994 wef 15/10/1994]
 
 (b) search and examine any fishing stakes, nets, instruments, fishing materials or other appliances used in catching fish and effect the removal and destruction of any unlicensed fishing stakes;
 
-(c) search, examine and investigate into the operation of any fish ponds; and
+(c) search, examine and investigate into the operation of any fish ponds;
 
-(d) arrest any person found committing or attempting to commit or abetting the commission of an offence under this Act or any rules made thereunder.
+(d) arrest any person found committing or attempting to commit or abetting the commission of an offence under this Act or any rules made thereunder; and
+
+(e) enter and search any place or premises in which he reasonably suspects that there is to be found any fish or fishing materials contrary to the provisions of this Act or any rules made thereunder and may seize, remove or detain at the risk of the owner any engine, fish, processed fish, fishing nets, instruments, fishing materials or other appliances found in such place or premises.
+
+[12/1994 wef 15/10/1994]
+
+(2) For the purpose of exercising his power under this Act or any rules made thereunder, any fishery officer or police officer may, with such assistance as he thinks necessary, break open any door, window, lock, fastener, compartment, box, container or other thing.
+
+[12/1994 wef 15/10/1994]
 
 [22
-
-[30/73]
 
 ## PART VII
 
@@ -420,3 +466,8 @@ This Legislative History is provided for the convenience of users of the Fisheri
 ||Date of commencement|31 August 1973|
 |4.|**1985 Revised Edition—Fisheries Act**|
 ||Date of operation|30 March 1987|
+|5.|**Act 12 of 1994—Fisheries (Amendment) Act 1994**|
+||Date of First Reading|23 May 1994|
+|||(Bill No. 12/94 published on 24 May 1994)|
+||Date of Second and Third Readings|26 August 1994|
+||Date of commencement|15 October 1994|
