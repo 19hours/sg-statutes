@@ -1,12 +1,10 @@
-**Government Procurement Act 1997**
+**Government Procurement Act**
 
-**(No. 14 of 1997)**
+**(CHAPTER 120)**
 
 **Table of Contents**
 
 [**Long Title**](#Government-Procurement-Act)
-
-[**Enacting Formula**](#Enacting-Formula)
 
 [**Part I PRELIMINARY**](#Part-I)
 
@@ -68,37 +66,21 @@
 
 - [26 Transitional provision](#Transitional-provision)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Government Procurement Act
 
-ACTS SUPPLEMENT
+(CHAPTER 120)
 
-Published by Authority
+(Original Enactment: Act 14 of 1997)
 
-NO. 1]
+REVISED EDITION 1998
 
-Friday, January 2
+(30th May 1998)
 
-[1998
+An Act to give effect to the Agreement on Government Procurementand for purposes connected therewith.
 
-The following Act was passed by Parliament on 19th November 1997 and assented to by the President on 1st December 1997:—
-
-Government Procurement Act 1997
-
-(No. 14 of 1997)
-
-I assent.
-
-ONG TENG CHEONG
-
-President
-
-1st December 1997.
-
-An Act to give effect to the Agreement on Government Procurement and for purposes connected therewith.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[13th May 2002]
 
 ## PART I
 
@@ -106,7 +88,9 @@ PRELIMINARY
 
 ### Short title and commencement
 
-1\. This Act may be cited as the Government Procurement Act 1997 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Government Procurement Act and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.\*
+
+\*This Act came into operation on 13th May 2002 (S 214/2002).
 
 ### Interpretation
 
@@ -118,11 +102,11 @@ PRELIMINARY
 
 “challenge proceeding” means any proceeding under Part III;
 
-“Commissioner” means the Commissioner appointed by the Minister under section 8(2) and includes an acting Commissioner appointed by the Minister under section 8(9);
+“Commissioner” means the Commissioner appointed under section 8(2) and includes an acting Commissioner appointed under section 8(9);
 
-“contracting authority” means a ministry or department of the Government, an organ of State or a statutory board, declared by the Minister, by order made under section 4, as a contracting authority for the purposes of this Act;
+“contracting authority” means a ministry or department of the Government, an organ of State or a statutory board declared, by order made under section 4(1), as a contracting authority for the purposes of this Act;
 
-“Deputy Commissioner” means a Deputy Commissioner appointed by the Minister under section 8(2);
+“Deputy Commissioner” means a Deputy Commissioner appointed under section 8(2);
 
 “document” includes an electronic record;
 
@@ -130,11 +114,11 @@ PRELIMINARY
 
 “procurement” means procurement of goods or service or a combination of goods and service by any contractual means, such as purchase or lease, rental or hire purchase, with or without an option to buy the goods or service or combination of goods and service;
 
-“procurement subject to the Act” means a procurement declared by the Minister, by order made under section 4, to be a procurement subject to the Act;
+“procurement subject to the Act” means a procurement declared, by order made under section 4(2), to be a procurement subject to the Act;
 
 “qualification of suppliers” means a process undertaken by a contracting authority to shortlist suppliers for a particular procurement, a particular type of procurement or procurement in general;
 
-“relevant State” means a country or territory declared by the Minister, by order made under section 3, as a relevant State for the purposes of this Act;
+“relevant State” means a country or territory declared, by order made under section 3, as a relevant State for the purposes of this Act;
 
 “relevant supplier” means a supplier —
 
@@ -174,7 +158,7 @@ PRELIMINARY
 
 (c) the grounds on which the contracting authority may exclude a procurement, or an act or measure to be taken in relation to a procurement, from the application of all or any of the regulations made under section 6; and
 
-(d) the effect of an exclusion referred to in sub-paragraph (c).
+(d) the effect of an exclusion referred to in paragraph (c).
 
 ### Certification by Minister
 
@@ -236,7 +220,7 @@ CHALLENGE PROCEEDINGS
 
 (5) The Commissioner or a Deputy Commissioner may at any time resign from his office by giving notice in writing to the Minister.
 
-(6) The Commissioner and Deputy Commissioners shall be deemed to be public servants within the meaning of the Penal Code (Cap. 224), and shall enjoy the same judicial immunity as is enjoyed by a Judge of the Supreme Court.
+(6) The Commissioner and Deputy Commissioners shall be deemed to be public servants within the meaning of the Penal Code (Cap.224), and shall enjoy the same judicial immunity as is enjoyed by a Judge of the Supreme Court.
 
 (7) The Commissioner and Deputy Commissioners shall be paid such remuneration and allowances as the Minister may from time to time determine.
 
@@ -256,19 +240,19 @@ CHALLENGE PROCEEDINGS
 
 (2) The duties of the Registrar and other officers of the Tribunal shall, subject to this Act and any regulations made thereunder, be as the Minister directs.
 
-(3) The Registrar and other officers of the Tribunal shall be deemed to be public servants for the purposes of the Penal Code.
+(3) The Registrar and other officers of the Tribunal shall be deemed to be public servants for the purposes of the Penal Code (Cap.224).
 
 ### Constitution of Tribunal
 
 10\.—(1) Subject to subsection (2), a challenge proceeding shall be heard and disposed of by the Tribunal consisting of the Commissioner or a Deputy Commissioner designated by the Commissioner.
 
-(2) The Commissioner or a Deputy Commissioner shall not hear or dispose of any challenge proceeding if he is directly or indirectly interested in the procurement in relation to which the proceeding is brought.
+(2) The Commissioner or a Deputy Commissioner shall not hear or dispose of any challenge proceeding if he is, directly or indirectly, interested in the procurement in relation to which the proceeding is brought.
 
 (3) Where the Commissioner has commenced the hearing of a challenge proceeding and is unable through death, illness or other cause to complete the hearing or to dispose of the proceeding —
 
 (a) the acting Commissioner appointed under section 8(9); or
 
-(b) if the acting Commissioner is directly or indirectly interested in the procurement in relation to which the proceeding is brought, a Deputy Commissioner designated by the acting Commissioner,
+(b) if the acting Commissioner is, directly or indirectly, interested in the procurement in relation to which the proceeding is brought, a Deputy Commissioner designated by the acting Commissioner,
 
 shall complete the hearing and dispose of the proceeding.
 
@@ -312,7 +296,7 @@ shall complete the hearing and dispose of the proceeding.
 
 (b) fix a time and place for the hearing of the challenge; and
 
-(c) give 14 days notice of the hearing to the applicant and the contracting authority concerned.
+(c) give 14 days’ notice of the hearing to the applicant and the contracting authority concerned.
 
 ### Preliminary hearing
 
@@ -350,7 +334,7 @@ apply to the Tribunal for an order to suspend, pending the disposal of the chall
 
 (i) the procedure leading to the award of the contract for the procurement which is the subject of the challenge; or
 
-(ii) the implementation of any decision made while undertaking the procedure referred to in paragraph (i).
+(ii) the implementation of any decision made while undertaking the procedure referred to in sub-paragraph (i).
 
 (2) The Tribunal may, in its discretion, make the order either unconditionally or upon such terms and conditions as the Tribunal thinks just.
 
@@ -360,7 +344,7 @@ apply to the Tribunal for an order to suspend, pending the disposal of the chall
 
 (b) the contract referred to in subsection (1)(i) has already been awarded at the date of hearing of the application for the order.
 
-(4) If the Tribunal refuses to make an order under this section, it shall give the reasons for its refusal in writing.
+(4) If the Tribunal refuses to make an order under this section, the Tribunal shall give the reasons for its refusal in writing.
 
 (5) Where an order under this section has been made, the contracting authority concerned may, at any time before the determination on the challenge referred to in section 18 is made, apply to the Tribunal for the order to be varied or rescinded.
 
@@ -382,7 +366,7 @@ apply to the Tribunal for an order to suspend, pending the disposal of the chall
 
 (2) Subsection (1) shall not apply if the challenge has been disposed of under section 15.
 
-(3) If the Tribunal makes a determination in favour of the applicant, it may do one or more of the following:
+(3) If the Tribunal makes a determination in favour of the applicant, the Tribunal may do one or more of the following:
 
 (a) order any decision or action taken by the contracting authority concerned in relation to the procurement which is the subject of the challenge to be set aside;
 
@@ -414,7 +398,7 @@ the Tribunal may only —
 
 ### Satisfaction of order
 
-20\.—(1) A contracting authority against whom an order under section 16 or section 18(3)(a), (b) or (c) is made shall comply with the order.
+20\.—(1) A contracting authority against whom an order under section 16 or 18(3)(a), (b) or (c) is made shall comply with the order.
 
 (2) An applicant in whose favour an order under section 18(3)(d) is made may recover the amount ordered to be paid to him by an action for a debt in any court of competent jurisdiction.
 
@@ -432,7 +416,7 @@ the Tribunal may only —
 
 (2) The Tribunal shall have the following additional powers:
 
-(a) to summon to attend at any challenge proceeding any person whom it may consider able to give evidence in respect of the proceeding, to examine that person as a witness either on oath or otherwise and to require that person to produce such books, records or documents as the Tribunal may think necessary for the proceeding;
+(a) to summon to attend at any challenge proceeding any person whom it may consider able to give evidence in respect of the proceeding, to examine him as a witness either on oath or otherwise and to require him to produce such books, records or documents as the Tribunal may think necessary for the proceeding;
 
 (b) to allow any person so attending any reasonable expenses necessarily incurred by him in so attending;
 
@@ -492,3 +476,20 @@ MISCELLANEOUS
 
 (c) in a case where no tender is to be called for the procurement, the contracting authority concerned had communicated with a potential supplier with a view to the making or obtaining of an offer in relation to the procurement.
 
+## LEGISLATIVE HISTORY
+
+Government Procurement Act
+
+(CHAPTER 120)
+
+This Legislative History is provided for the convenience of users of the Government Procurement Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 14 of 1997—Government Procurement Act 1997**|
+||Date of First Reading|7 October 1997|
+|||(Bill No. 14/97 published on 8 October 1997)|
+||Date of Second and Third Readings|19 November 1997|
+||Date of commencement|2 January 1998 (ActGazetted)|
+|2.|**1998 Revised Edition—Government Procurement Act**|
+||Date of operation|30 May 1998|
