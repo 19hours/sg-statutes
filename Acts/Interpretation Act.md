@@ -922,9 +922,9 @@ MISCELLANEOUS
 
 51\.—(1) Whenever any expression of time occurs in any written law or in any instrument whatsoever and whenever the doing or not doing anything at a certain time of the day or night or during a certain part of the day or night has an effect in law, that time shall, unless it is otherwise specifically stated, be held to be standard time as declared by this section.
 
-(2) “Standard time” means standard time as used in Singapore, namely, 8 hours1, or such other period as may from time to time be determined by the President by notification in theGazette, in advance of Greenwich mean time.
+(2) “Standard time” means standard time as used in Singapore, namely, 8 hours, or such other period as may from time to time be determined by the President by notification in theGazette, in advance of Coordinated Universal Time.
 
-1See N 1 (Cap. 1).
+[26/2001 wef 01/09/2001]
 
 ### Provision when no time prescribed
 
@@ -1024,6 +1024,14 @@ This Legislative History is provided for the convenience of users of the Interpr
 |||(Bill No. 22/2000 published on 25 August 2000)|
 ||Date of Second and Third Readings|9 October 2000|
 ||Date of commencement|1 November 2000|
+|16.|**Act 26 of 2001—Statutes (Miscellaneous Amendments and Repeal) Act 2001**|
+||Date of First Reading|11 July 2001|
+|||(Bill No. 24/2001 published on 12 July 2001)|
+||Date of Second and Third Readings|25 July 2001|
+||Date of commencement|1 September 2001|
+
+|
+(Section 2 — Amendment of Interpretation Act)|
 ## COMPARATIVE TABLE
 
 Interpretation Act
