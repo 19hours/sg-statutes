@@ -242,9 +242,9 @@ It may be a term or condition of such permit that any photograph taken under the
 
 A person who observes all the terms and conditions of a permit shall not be guilty of an offence under section 3 of the Official Secrets Act [Cap. 213] in respect of a photograph taken in accordance with the terms and conditions of the permit.
 
-(4) It shall be the duty of the person in charge of the aircraft to ensure that any photographic apparatus carried in the aircraft is not used while the aircraft is flying over any protected area, and that the seals with which the apparatus is sealed are not broken within any protected area without the sanction of the Director-General of Customs and Excise or his agent.
+(4) It shall be the duty of the person in charge of the aircraft to ensure that any photographic apparatus carried in the aircraft is not used while the aircraft is flying over any protected area, and that the seals with which the apparatus is sealed are not broken within any protected area without the sanction of the Director-General of Customs or his agent.
 
-(5) The Director-General of Customs and Excise or his agent may seize and develop, without paying compensation, any photographic films or plates carried in the aircraft, which he may reasonably suspect of having been used in contravention of any provision of this Act or of the Official Secrets Act.
+(5) The Director-General of Customs or his agent may seize and develop, without paying compensation, any photographic films or plates carried in the aircraft, which he may reasonably suspect of having been used in contravention of any provision of this Act or of the Official Secrets Act.
 
 ### Establishment of aerodromes by Minister
 
@@ -596,3 +596,8 @@ This Legislative History is provided for the convenience of users of the Air Nav
 |||(Bill No. 22/2000 published on 27 October 2000)|
 ||Date of Second and Third Readings|9 October 2000|
 ||Date of commencement|1 November 2000|
+|9.|**Act 4 of 2003—Customs (Amendment) Act 2003**|
+||Date of First Reading|10 March 2003|
+|||(Bill No. 6/2003 published on 4 April 2003)|
+||Date of Second and Third Readings|21 March 2003|
+||Date of commencement|1 April 2003|
