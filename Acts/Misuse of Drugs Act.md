@@ -1966,14 +1966,19 @@ This Legislative History is provided for the convenience of users of the Misuse 
 ||Date of commencement|7 February 1986|
 |14.|**1985 Revised Edition—Misuse of Drugs Act (Chapter 185)**|
 ||Date of operation|30 March 1987|
-|15.|**G. N. No. S 50/1990—Misuse of Drugs Act (Amendment of First Schedule) Order 1990**|
-||Date of commencement|15 February 1990|
-|16.|**Act 38 of 1989—Misuse of Drugs (Amendment) Act 1989**|
+|15.|**Act 38 of 1989—Misuse of Drugs (Amendment) Act 1989**|
 ||Date of First Reading|6 October 1989|
 |||(Bill No. 39/89 published on 7 October 1989)|
 ||Date of Second and Third Readings|30 November 1989|
 ||Date of commencement|15 February 1990|
-|17.|**G. N. No. S 564/1991—Misuse of Drugs (Amendment of First Schedule) Order 1991**|
+|16.|**G. N. No. S 50/1990—Misuse of Drugs Act (Amendment of First Schedule) Order 1990**|
+||Date of commencement|15 February 1990|
+|17.|**G. N. No. S 564/1991—Misuse of Drugs Act (Amendment of First Schedule) Order 1991**|
 ||Date of commencement|2 January 1992|
 |18.|**G. N. No. S 66/1992—Misuse of Drugs Act (Amendment of First Schedule) Order 1992**|
 ||Date of commencement|1 March 1992|
+|19.|**Act 40 of 1993—Misuse of Drugs (Amendment) Act 1993**|
+||Date of First Reading|12 October 1993|
+|||(Bill No. 33/93 published on 13 October 1993)|
+||Date of Second and Third Readings|10 November 1993|
+||Date of commencement|10 December 1993|
