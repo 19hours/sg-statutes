@@ -190,7 +190,9 @@ PRELIMINARY
 
 “import”, with its grammatical variations and cognate expressions, means to bring or cause to be brought into Singapore by land, water or air from any place which is outside Singapore but does not include the bringing into Singapore of goods which are to be taken out of Singapore on the same conveyance on which they were brought into Singapore without any landing or transhipment within Singapore;
 
-“master” includes every person, having or taking command or charge of a vessel, except a pilot of a vessel holding a licence under the Port of Singapore Authority Act (Cap. 236) when acting in the course of his duties;
+“master” includes every person, having or taking command or charge of a vessel, except a pilot of a vessel holding a licence under the Maritime and Port Authority of Singapore Act 1996 when acting in the course of his duties;
+
+[7/1996 wef 02/02/1996]
 
 “officer of customs” has the same meaning as in the Customs Act;
 
