@@ -80,13 +80,13 @@
 
 - [26A Production orders against financial institution to produce material relating to drug trafficking or criminal conduct](#Production-orders-against-financial-institution-to-produce-material-relating-to-drug-trafficking-or-criminal-conduct)
 
-- [26B Production orders to obtain information to assist foreign authority investigating drug trafficking or criminal conduct](#Production-orders-to-obtain-information-to-assist-foreign-authority-investigating-drug-trafficking-or-criminal-conduct)
+- [26B (Repealed)](#Repealed)
 
 - [27 Variation of production order](#Variation-of-production-order)
 
 - [28 Failure to comply with production order](#Failure-to-comply-with-production-order)
 
-- [29 Production orders in relation to foreign offences](#Production-orders-in-relation-to-foreign-offences)
+- [29 (Repealed)](#Repealed)
 
 - [30 (Repealed)](#Repealed)
 
@@ -94,11 +94,11 @@
 
 - [31 Authority for search](#Authority-for-search)
 
-- [32 Search warrants in relation to foreign drug trafficking offence or foreign serious offence](#Search-warrants-in-relation-to-foreign-drug-trafficking-offence-or-foreign-serious-offence)
+- [32 (Repealed)](#Repealed)
 
-- [33 Supplementary provisions to sections 26, 27, 29, 31 and 32](#Supplementary-provisions-to-sections-26-27-29-31-and-32)
+- [33 Supplementary provisions to sections 26, 27 and 31](#Supplementary-provisions-to-sections-26-27-and-31)
 
-- [34 Search warrant for material in possession of financial institution](#Search-warrant-for-material-in-possession-of-financial-institution)
+- [34 (Repealed)](#Repealed)
 
 [**Division 3  Obligations of financial institutions**](#Division-3--Obligations-of-financial-institutions)
 
@@ -111,6 +111,8 @@
 - [38 Duty to disclose knowledge or suspicion](#Duty-to-disclose-knowledge-or-suspicion)
 
 - [39 Protection where information given pursuant to section 38](#Protection-where-information-given-pursuant-to-section-38)
+
+- [39A Communication of information to foreign authority](#Communication-of-information-to-foreign-authority)
 
 [**Division 4  Disclosure of information held by public bodies**](#Division-4--Disclosure-of-information-held-by-public-bodies)
 
@@ -140,9 +142,9 @@
 
 - [47 Conduct by directors, employees or agents](#Conduct-by-directors-employees-or-agents)
 
-- [48 Enforcement of external orders](#Enforcement-of-external-orders)
+- [48 (Repealed)](#Repealed)
 
-- [49 Registration of external confiscation orders](#Registration-of-external-confiscation-orders)
+- [49 (Repealed)](#Repealed)
 
 - [50 Evidence of corresponding law or foreign law](#Evidence-of-corresponding-law-or-foreign-law)
 
@@ -210,6 +212,10 @@ PRELIMINARY
 
 [25/99 wef 13/09/1999]
 
+(ab) any Commercial Affairs Officer appointed under section 58A of the Police Force Act (Cap. 235);
+
+[12/2000 wef 01/04/2000]
+
 (b) any police officer; and
 
 (c) any other person authorised in writing by the Minister for the purposes of this Act;
@@ -250,19 +256,11 @@ PRELIMINARY
 
 [25/99 wef 13/09/1999]
 
-“criminal matters” means the subject of mutual assistance in the investigation of a serious offence or a foreign serious offence;
-
-[25/99 wef 13/09/1999]
-
 “customs officer” has the same meaning as in the Customs Act [Cap. 70];
 
 “dealing with property” is to be construed in accordance with section 12(7);
 
 “defendant” means a person against whom proceedings have been instituted for a drug trafficking offence or a serious offence, as the case may be, or offences whether or not he has been convicted thereof;
-
-“drug-related matters” means the subject of mutual assistance in the investigation of a drug trafficking offence or a foreign drug trafficking offence;
-
-[25/99 wef 13/09/1999]
 
 “drug trafficking” means —
 
@@ -318,10 +316,6 @@ but excludes a money-changer licensed to conduct money-changing business and a r
 
 [25/99 wef 13/09/1999]
 
-“foreign authority” means a foreign government or an appropriate authority designated by a foreign government exercising any function corresponding to a function of the Minister in charge of this Act;
-
-[25/99 wef 13/09/1999]
-
 “foreign country” means any country or territory outside Singapore;
 
 [25/99 wef 13/09/1999]
@@ -331,10 +325,6 @@ but excludes a money-changer licensed to conduct money-changing business and a r
 [25/99 wef 13/09/1999]
 
 “foreign drug trafficking offence” means a drug trafficking offence punishable under a corresponding law;
-
-[25/99 wef 13/09/1999]
-
-“foreign government” means the government of a foreign country;
 
 [25/99 wef 13/09/1999]
 
@@ -410,15 +400,17 @@ but excludes a money-changer licensed to conduct money-changing business and a r
 
 (iv) the grant of the President’s pardon in respect of the defendant’s conviction for the offence; and
 
+(v) [Deleted by Act 25/99 wef 13/09/1999]
+
 (vi) the satisfaction of a confiscation order made in the proceedings (whether by payment of the amount due under the order or by the defendant serving imprisonment in default).
 
 (4) For the purposes of this Act, an order is subject to appeal as long as an appeal or further appeal is pending against the order or (if it was made on a conviction) against the conviction; and for this purpose, an appeal or further appeal shall be treated as pending (where one is competent but has not been brought) until the expiration of the time for bringing the appeal.
 
 ### Application
 
-3\.—(1) This Act shall apply to any drug trafficking offence or foreign drug trafficking offence whether committed before or after the commencement of this Act except that nothing in this Act shall impose any duty or confer any power on any court in or in connection with any proceedings under this Act against a person for a drug trafficking offence or foreign drug trafficking offence in respect of which he has been convicted by a court before the commencement of this Act.
+3\.—(1) This Act shall apply to any drug trafficking offence or foreign drug trafficking offence whether committed before or after the commencement of this Act except that nothing in this Act shall impose any duty or confer any power on any court in or in connection with any proceedings under this Act against a person for a drug trafficking offence in respect of which he has been convicted by a court before the commencement of this Act.
 
-(1A) This Act shall apply to any serious offence or foreign serious offence whether committed before or after the date of commencement of the Drug Trafficking (Confiscation of Benefits) (Amendment) Act 1999 except that nothing in this Act shall impose any duty or confer any power on any court in connection with any proceedings under this Act against a person for a serious offence or a foreign serious offence in respect of which he has been convicted by a court before that date.
+(1A) This Act shall apply to any serious offence or foreign serious offence whether committed before or after the date of commencement of the Drug Trafficking (Confiscation of Benefits) (Amendment) Act 1999 except that nothing in this Act shall impose any duty or confer any power on any court in connection with any proceedings under this Act against a person for a serious offence in respect of which he has been convicted by a court before that date.
 
 [25/99 wef 13/09/1999]
 
@@ -1224,31 +1216,7 @@ within a reasonable period, but not less than 7 days, as the order may specify.
 
 [25/99 wef 13/09/1999]
 
-### Production orders to obtain information to assist foreign authority investigating drug trafficking or criminal conduct
-
-26B\.—(1) The Attorney-General or any person duly authorised by him in writing may make an application under section 26A for the purpose of assisting a foreign authority in its investigation into a foreign drug trafficking offence or a foreign serious offence, as the case may be, in relation to any particular material or material of a particular description if and only if the conditions in subsection (2) are fulfilled in addition to those in section 26A(3).
-
-(2) The conditions referred to in subsection (1) are —
-
-(a) that there exists a mutual legal assistance treaty, memorandum of understanding or other agreement in drug-related matters or criminal matters, as the case may be, between Singapore and the foreign government and the conditions therein have been fulfilled in respect of any particular request for assistance from the Attorney-General, which conditions shall be in addition to and not in derogation of the conditions in this subsection;
-
-(b) that the foreign authority has agreed to provide reciprocal assistance in drug-related matters or criminal matters, as the case may be, to Singapore;
-
-(c) that the foreign drug trafficking offence or foreign serious offence, as the case may be, which is the subject of the investigation constitutes an offence against the law of, or of a part of, the state of the foreign authority and the act or omission constituting the offence or the equivalent act or omission would, if it had occurred in Singapore, have constituted a drug trafficking offence or a serious offence, as the case may be;
-
-(d) that the seriousness of the foreign drug trafficking offence or foreign serious offence under investigation, as the case may be, is of sufficient gravity and the material which is the subject of the application is of sufficient importance to the investigation and whether the material could not reasonably be obtained by other means;
-
-(e) that the assistance is not likely to prejudice the sovereignty, security or national interest of Singapore;
-
-(f) that it is not contrary to the public interest to give the assistance sought;
-
-(g) that the foreign authority undertakes that the material sought if granted by the High Court pursuant to a production order shall not be used for any other purposes except for the investigation of the foreign drug trafficking offence or foreign serious offence, as the case may be, or for the prosecution of the offender concerned and the material shall be returned to the Attorney-General upon completion of the investigation or the proceedings against the offender; and
-
-(h) such other conditions as the Minister may prescribe.
-
-(3) The proceedings for an application for a production order under subsection (1) shall be heard in camera.
-
-[25/99 wef 13/09/1999]
+26B\. [Repealed by Act 12/2000 wef 01/04/2000]
 
 ### Variation of production order
 
@@ -1268,17 +1236,7 @@ within a reasonable period, but not less than 7 days, as the order may specify.
 
 (2) A person guilty of an offence under subsection (1) shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
 
-### Production orders in relation to foreign offences
-
-29\.—(1) Where an authorised officer is authorised by any regulations made under this Act to apply to a court for a production order under this Act in respect of a foreign drug trafficking offence or a foreign serious offence, as the case may be, the authorised officer may apply for the order accordingly.
-
-(2) This Division (with the exception of sections 26A and 26B) shall apply, with such modifications as may be prescribed in the regulations, to the application and to any production order made as a result of the application as if a reference in this Division to drug trafficking or criminal conduct were a reference to the foreign drug trafficking offence or foreign serious offence.
-
-(3) Where an authorised officer takes possession of any material under a production order made in respect of a foreign drug trafficking offence or a foreign serious offence, as the case may be, the authorised officer may retain the material for a period of one month pending a written direction from the Attorney-General as to the manner in which the material is to be dealt with (which may include a direction that the material be sent to the foreign authority that requested the obtaining of the production order).
-
-(4) This section shall not apply to any material in the possession of a financial institution.
-
-[25/99 wef 13/09/1999]
+29\. [Repealed by Act 12/2000 wef 01/04/2000]
 
 30\. [Repealed by Act 25/99 wef 13/09/1999]
 
@@ -1302,7 +1260,9 @@ Search powers
 
 (a) that there are reasonable grounds for suspecting that a specified person has carried on or has benefited from drug trafficking or from criminal conduct, as the case may be; and
 
-(b) that the conditions in section 26(4)(b) and (c) or 26A (3) (b) and (c) are fulfilled in relation to any material on the premises.
+(b) that the conditions in section 26(4)(b) and (c) or 26A(3) (b) and (c) are fulfilled in relation to any material on the premises.
+
+(c) [Deleted by Act 25/99 wef 13/09/1999]
 
 (4) The conditions referred to in subsection (2)(c) are —
 
@@ -1310,29 +1270,15 @@ Search powers
 
 (b) that there are reasonable grounds for suspecting that there is on the premises material relating to the specified person or to drug trafficking or criminal conduct, as the case may be which is likely to be of substantial value (whether by itself or together with other material) to the investigation for the purpose of which the application is made, but that the material cannot at the time of the application be particularised.
 
+(c) [Deleted by Act 25/99 wef 13/09/1999]
+
 (5) Where an authorised officer has entered premises in the execution of a warrant issued under this section, he may seize and retain any material, other than items subject to legal privilege, which is likely to be of substantial value (whether by itself or together with other material) to the investigation for the purpose of which the warrant was issued.
 
 (6) Any person who hinders or obstructs an authorised officer in the execution of a warrant issued under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
 
-### Search warrants in relation to foreign drug trafficking offence or foreign serious offence
+32\. [Repealed by Act 12/2000 wef 01/04/2000]
 
-32\.—(1) Where an authorised officer is authorised by and in circumstances prescribed in any regulations made under this Act to apply to a court for a search warrant under this Act in relation to any material in respect of a foreign drug trafficking offence or foreign serious offence, as the case may be, the authorised officer may apply for the warrant accordingly and this Division applies to the application and to any warrant issued as a result of the application as if a reference in this Division to drug trafficking or criminal conduct, as the case may be, were a reference to the foreign offenceforeign drug trafficking offence or foreign serious offence, as the case may be.
-
-(2) If, in the course of searching, under a warrant issued under section 31, for any material in relation to a foreign drug trafficking offence or foreign serious offence, as the case may be, an authorised officer finds —
-
-(a) any material that the authorised officer believes, on reasonable grounds, to be the material in relation to the offence, although not of the kind specified in the warrant; or
-
-(b) any thing that the authorised officer believes, on reasonable grounds —
-
-(i) to be relevant to a criminal proceeding or a criminal investigation in the foreign country in respect of the offence; or
-
-(ii) will afford evidence of the commission of a criminal offence,
-
-and the authorised officer believes, on reasonable grounds, that it is necessary to seize that material or thing in order to prevent its concealment, loss or destruction, the warrant shall be deemed to authorise the authorised officer to seize the material or thing.
-
-(3) Where an authorised officer takes possession of any material or thing under a warrant issued in respect of a foreign drug trafficking offence or foreign serious offence, as the case may be, the authorised officer may retain the material or thing for a period not exceeding one month pending a written direction from the Attorney-General as to the manner in which the material or thing is to be dealt with (which may include a direction that the material or thing is to be sent to a foreign authority that requested the issue of the warrant).
-
-### Supplementary provisions to sections 26, 27, 29, 31 and 32
+### Supplementary provisions to sections 26, 27 and 31
 
 33\.—(1) An authorised officer may photograph or make copies of any material —
 
@@ -1340,7 +1286,7 @@ and the authorised officer believes, on reasonable grounds, that it is necessary
 
 (b) seized under section 31.
 
-(2) In sections 26, 27, 29, 31 and 32—
+(2) In sections 26, 27 and 31—
 
 “court” means the High Court and the District Court;
 
@@ -1364,45 +1310,7 @@ when they are in the possession of a person who is entitled to possession of the
 
 (b) any tent or movable structure.
 
-### Search warrant for material in possession of financial institution
-
-34\.—(1) This section shall apply where the material sought in respect of a foreign drug trafficking offence or a foreign serious offence, as the case may be, is in the possession of a financial institution and sections 31 and 32 shall not apply to such material.
-
-(2) The Attorney-General or any person duly authorised by him in writing may apply to the High Court for a search warrant under this section in relation to any particular material in a specified premises in respect of an investigation into a foreign drug trafficking offence or a foreign serious offence, as the case may be, if he is satisfied that the conditions in subsection (3) are fulfilled and the High Court may, if it thinks fit, issue such a search warrant.
-
-(3) The conditions referred to in subsection (2) are —
-
-(a) that there exists a mutual legal assistance treaty, memorandum of understanding or other agreement in drug-related matters or criminal matters, as the case may be, between Singapore and the foreign government and the conditions therein have been fulfilled in respect of any particular request for assistance from the Attorney-General, which conditions shall be in addition to and not in derogation of the conditions in this subsection;
-
-(b) that the foreign authority has agreed to provide reciprocal assistance in drug-related matters or criminal matters, as the case may be, to Singapore;
-
-(c) that the foreign drug trafficking offence or foreign serious offence, as the case may be, which is the subject of the investigation constitutes an offence against the law of, or of a part of, the state of the foreign authority and the act or omission constituting the offence or the equivalent act or omission would, if it had occurred in Singapore, have constituted a drug trafficking offence or a serious offence, as the case may be;
-
-(d) that the seriousness of the foreign drug trafficking offence or foreign serious offence under investigation, as the case may be, is of sufficient gravity and the material which is the subject of the application is of sufficient importance to the investigation and whether the material could not reasonably be obtained by other means;
-
-(e) that the application is not likely to prejudice the sovereignty, security or national interest of Singapore;
-
-(f) that it is not contrary to the public interest to give the assistance sought;
-
-(g) that the foreign authority undertakes that the material sought pursuant to a search warrant under this section shall not be used for any other purposes except for the investigation of the foreign drug trafficking offence or foreign serious offence, as the case may be, or for the prosecution of the offender concerned and the material shall be returned to the Attorney-General upon completion of the investigation or proceedings against the offender;
-
-(h) that there are reasonable grounds for suspecting that a specified person has carried on or has benefited from drug trafficking or criminal conduct, as the case may be;
-
-(i) that there are reasonable grounds for believing that the material to which the application relates —
-
-(i) is likely to be of substantial value (whether by itself or together with other material) to the investigation for the purpose of which the application is made; and
-
-(ii) does not consist of or include items subject to legal privilege; and
-
-(j) such other conditions as the Minister may prescribe.
-
-(4) A financial institution which complies with a warrant issued under subsection (2) shall not be treated as being in breach of any restriction upon the disclosure of information or material imposed by law, contract or rules of professional conduct.
-
-(5) No action shall lie against a financial institution which in good faith produces materials or gives access to materials relating to the account of its customer by reason of that financial institution having produced or given access to the materials in compliance with a warrant issued under subsection (2) or any act done or omitted to be done in relation to any funds, investment or property in the account of that customer in consequence of the production of or access to those materials.
-
-(6) In this section, “items subject to legal privilege” has the same meaning as in section 33(2).
-
-[25/99 wef 13/09/1999]
+34\. [Repealed by Act 12/2000 wef 01/04/2000]
 
 Division 3 —
 
@@ -1501,6 +1409,34 @@ the disclosure shall not be treated as a breach of any restriction upon the disc
 ### Protection where information given pursuant to section 38
 
 39\. Where a person or his officer, employee or agent, gives information pursuant to subsection (1) of section 38 as soon as practicable after having the knowledge referred to in that subsection, the person or his officer, employee or agent shall be taken, for the purposes of sections 41, 41A, 43 and 43A, not to have been in possession of that information at any time.
+
+### Communication of information to foreign authority
+
+39A\.—(1) Notwithstanding section 53 or any other written law or rule of law, a Suspicious Transaction Reporting Officer may communicate any thing disclosed to him or any authorised officer under section 38(1) to a corresponding authority of a foreign country if the conditions specified in subsection (2) are satisfied.
+
+(2) The conditions referred to in subsection (1) are as follows:
+
+(a) there exists an arrangement under which the corresponding authority of the foreign country has agreed to communicate to Singapore, upon Singapore’s request, information received by the corresponding authority that corresponds to any thing required to be disclosed to an authorised officer under section 38(1);
+
+(b) the Suspicious Transaction Reporting Officer is satisfied that the corresponding authority has given appropriate undertakings —
+
+(i) for protecting the confidentiality of any thing communicated to it; and
+
+(ii) for controlling the use that will be made of it, including an undertaking that it will not be used as evidence in any proceedings; and
+
+(c) such other conditions as the Minister may prescribe.
+
+(3) In this section —
+
+“corresponding authority”, in relation to a foreign country, means the authority of that foreign country responsible for receiving information that corresponds to any thing required to be disclosed to an authorised officer under section 38(1);
+
+“Suspicious Transaction Reporting Officer” means an authorised officer —
+
+(a) who has been appointed by the Minister as a Suspicious Transaction Reporting Officer for the purposes of this section; and
+
+(b) who had his appointment as a Suspicious Transaction Reporting Officer published in theGazette.
+
+[12/2000 wef 01/04/2000]
 
 Division 4 —
 
@@ -1662,7 +1598,7 @@ and knowing or having reasonable grounds to believe that that other person is a 
 
 42\.—(1) Subject to subsection (2), no witness in any civil or criminal proceedings shall be obliged —
 
-(a) to reveal that a disclosure was made under section 41(3) or 41A (3);
+(a) to reveal that a disclosure was made under section 41(3) or 41A(3);
 
 (b) to reveal the identity of any person as the person making the disclosure; or
 
@@ -1676,7 +1612,7 @@ and knowing or having reasonable grounds to believe that that other person is a 
 
 (3) Subject to subsections (4), (5) and (6), no person shall publish or broadcast any information so as to reveal or suggest —
 
-(a) that a disclosure was made under section 41(3) or 41A (3); or
+(a) that a disclosure was made under section 41(3) or 41A(3); or
 
 (b) the identity of any person as the person making the disclosure.
 
@@ -1890,51 +1826,9 @@ shall be deemed, for the purposes of this Act, to have been engaged in by the fi
 
 (5) A reference in this section to the state of mind of a person includes a reference to the knowledge, intention, opinion, belief or purpose of the person and the person’s reasons for the person’s intention, opinion, belief or purpose.
 
-### Enforcement of external orders
+48\. [Repealed by Act 12/2000 wef 01/04/2000]
 
-48\.—(1) The Minister may, by order published in theGazette—
-
-(a) direct in relation to a country or territory outside Singapore designated by the order (referred to in this Act as a designated country) that, subject to such modifications as may be specified, this Act shall apply to external confiscation orders and to proceedings which have been or are to be instituted in the designated country and may result in an external confiscation order being made there;
-
-(b) make —
-
-(i) such provision in connection with the taking of action in the designated country with a view to satisfying a confiscation order;
-
-(ii) such provision as to evidence or proof of any matter for the purposes of this section and section 49; and
-
-(iii) such incidental, consequential and transitional provision, as appears to him to be expedient; and
-
-(c) without prejudice to the generality of this subsection, direct that in such circumstances as may be specified proceeds arising out of action taken in the designated country with a view to satisfying a confiscation order and which are retained there shall nevertheless be treated as reducing the amount payable under the order to such extent as may be specified.
-
-(2) An order under this section may make different provision for different cases or classes of cases.
-
-(3) The power to make an order under this section includes power to modify this Act in such a way as to confer power on a person to exercise a discretion.
-
-(4) In this section and section 49 —
-
-“external confiscation order” means an order made by a court in a designated country for the purpose of recovering payments or other rewards received in connection with drug trafficking or criminal conduct, as the case may be, or their value;
-
-“modifications” includes additions, alterations and omissions.
-
-### Registration of external confiscation orders
-
-49\.—(1) On an application made by or on behalf of the government of a designated country, the High Court may register an external confiscation order made there if —
-
-(a) it is satisfied that at the time of registration the order is in force and not subject to appeal;
-
-(b) it is satisfied, where the person affected by the order did not appear in the proceedings, that he received notice of the proceedings in sufficient time to enable him to defend them; and
-
-(c) it is of the opinion that enforcing the order in Singapore would not be contrary to the interests of justice.
-
-(2) In subsection (1),
-
-“appeal” includes —
-
-(a) any proceedings by way of discharging or setting aside a judgment; and
-
-(b) an application for a new trial or a stay of execution.
-
-(3) The High Court shall cancel the registration of an external confiscation order if it appears to the Court that the order has been satisfied by payment of the amount due under it or by the person against whom it was made serving imprisonment in default of payment or by any other means.
+49\. [Repealed by Act 12/2000 wef 01/04/2000]
 
 ### Evidence of corresponding law or foreign law
 
@@ -2034,7 +1928,7 @@ giving the substance and effect of the charge and of the conviction or acquittal
 
 [25/99 wef 13/09/1999]
 
-## THE SCHEDULE
+FIRST SCHEDULE
 
 Section 2
 
@@ -3231,3 +3125,9 @@ This Legislative History is provided for the convenience of users of the Drug Tr
 |||(Bill No. 16/99 published on 5 May 1999)|
 ||Date of Second and Third Readings|6 July 1999|
 ||Date of commencement|13 September 1999|
+|7.|**Act 12 of 2000—Mutual Assistance in Criminal Matters Act 2000**|
+||(Consequential amendments made by)||
+||Date of First Reading|17 January 2000|
+|||(Bill No. 3/2000 published on 18 January 2000)|
+||Date of Second and Third Readings|22 February 2000|
+||Date of commencement|1 April 2000|
