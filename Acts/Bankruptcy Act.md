@@ -1,16 +1,14 @@
-**Bankruptcy Act 1995**
+**Bankruptcy Act**
 
-**(No. 15 of 1995)**
+**(CHAPTER 20)**
 
 **Table of Contents**
 
 [**Long Title**](#Bankruptcy-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
+[**Part 1 PRELIMINARY**](#Part-1)
 
-[**Part I PRELIMINARY**](#Part-I)
-
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -206,7 +204,7 @@
 
 - [84 Power of court following examination of bankrupt and others](#Power-of-court-following-examination-of-bankrupt-and-others)
 
-- [85 Unenforceability of liens on books, etc](#Unenforceability-of-liens-on-books-etc)
+- [85 Unenforceability of liens on books, etc.](#Unenforceability-of-liens-on-books-etc)
 
 - [86 Official Assignee to settle list of debtors to the estate](#Official-Assignee-to-settle-list-of-debtors-to-the-estate)
 
@@ -274,7 +272,7 @@
 
 - [114 Power to allow bankrupt to manage property](#Power-to-allow-bankrupt-to-manage-property)
 
-- [115 Re-direction of bankrupt’s letters, etc](#Re-direction-of-bankrupt’s-letters-etc)
+- [115 Re-direction of bankrupt’s letters, etc.](#Re-direction-of-bankrupt’s-letters-etc)
 
 - [116 Power to impound passport, etc., of bankrupt](#Power-to-impound-passport-etc-of-bankrupt)
 
@@ -316,7 +314,7 @@
 
 [**Part X BANKRUPTCY OFFENCES**](#Part-X)
 
-- [132 Definitions](#Definitions)
+- [132 Interpretation of this Part](#Interpretation-of-this-Part)
 
 - [133 Defence of innocent intention](#Defence-of-innocent-intention)
 
@@ -324,7 +322,7 @@
 
 - [135 Concealment of property](#Concealment-of-property)
 
-- [136 Concealment of books and papers; falsification, etc](#Concealment-of-books-and-papers;-falsification-etc)
+- [136 Concealment of books and papers; falsification, etc.](#Concealment-of-books-and-papers;-falsification-etc)
 
 - [137 False statements](#False-statements)
 
@@ -342,7 +340,7 @@
 
 - [144 Bankrupt incurring debt without reasonable ground of expectation of being able to pay it](#Bankrupt-incurring-debt-without-reasonable-ground-of-expectation-of-being-able-to-pay-it)
 
-- [145 Making of false claims, etc](#Making-of-false-claims-etc)
+- [145 Making of false claims, etc.](#Making-of-false-claims-etc)
 
 - [146 Penalty](#Penalty)
 
@@ -388,57 +386,37 @@
 
 - [166 Rules](#Rules)
 
-- [167 Repeal, transitional and consequential provisions](#Repeal-transitional-and-consequential-provisions)
+- [167 Transitional provisions](#Transitional-provisions)
 
-[**FIRST SCHEDULE Transitional Provisions and Savings**](#FIRST-SCHEDULE-Transitional-Provisions-and-Savings)
+[**THE SCHEDULE Transitional Provisions and Savings**](#THE-SCHEDULE)
 
-[**SECOND SCHEDULE Consequential Amendments**](#SECOND-SCHEDULE-Consequential-Amendments)
+[**Legislative History**](#Legislative-History)
 
-REPUBLIC OF SINGAPORE
+# Bankruptcy Act
 
-GOVERNMENT GAZETTE
+(CHAPTER 20)
 
-ACTS SUPPLEMENT
+(Original Enactment: Act 15 of 1995)
 
-Published by Authority
+REVISED EDITION 1996
 
-NO. 14]
+(30th April 1996)
 
-Friday, April 21
+An Act relating to the law of bankruptcy and matters connected therewith.
 
-[1995
+[15th July 1995]
 
-The following Act was passed by Parliament on 23rd March 1995 and assented to by the President on 12th April 1995:—
-
-Bankruptcy Act 1995
-
-(No. 15 of 1995)
-
-I assent.
-
-ONG TENG CHEONG,
-
-President.
-
-12th April 1995.
-
-An Act relating to the law of bankruptcy and matters connected therewith and to repeal the Bankruptcy Act (Chapter 20 of the 1985 Revised Edition).
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
-
-## PART I
+## PART 1
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Bankruptcy Act 1995 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Bankruptcy Act.
 
 ### Interpretation
 
 2\.—(1) In this Act, unless the context otherwise requires —
-
-“appointed day” means the date of commencement of this Act;
 
 “bankrupt” means —
 
@@ -456,7 +434,7 @@ PRELIMINARY
 
 “creditors’ committee” means a committee appointed under section 80;
 
-“creditor’s petition” means a bankruptcy petition presented under section 57 by a creditor or by two or more creditors jointly;
+“creditor’s petition” means a bankruptcy petition presented under section 57 by a creditor or by 2 or more creditors jointly;
 
 “debt provable in bankruptcy” or “provable debt” means any debt or liability that is made provable in bankruptcy under this Act;
 
@@ -508,7 +486,7 @@ PRELIMINARY
 
 “records” includes computer records and other documentary records;
 
-“Registrar” means the Registrar of the Supreme Court and includes the Deputy Registrar or an Assistant Registrar of the Supreme Court;
+“Registrar” means the Registrar of the Supreme Court and includes a Deputy Registrar or an Assistant Registrar of the Supreme Court;
 
 “rules” means rules made under this Act;
 
@@ -588,13 +566,13 @@ the court may cause a warrant to be issued to a police officer for his arrest or
 
 ### Criminal jurisdiction of District and Magistrate’s Courts
 
-10\. A District Court or a Magistrate’s Court shall have jurisdiction to hear and determine all offences under this Act or any rules and, notwithstanding anything to the contrary in the Criminal Procedure Code (Cap. 68), shall have power to impose the full penalty or punishment in respect of any offence under this Act or the rules.
+10\. A District Court or a Magistrate’s Court shall have jurisdiction to hear and determine all offences under this Act or the rules and, notwithstanding anything to the contrary in the Criminal Procedure Code [Cap. 68], shall have power to impose the full penalty or punishment in respect of any offence under this Act or the rules.
 
 Procedure
 
 ### Where no specific procedure provided
 
-11\.—(1) In any matter of practice or procedure for which no specific provision has been made by this Act or any rules, the procedure and practice for the time being in use or in force in the Supreme Court shall, as nearly as may be, be followed and adopted.
+11\.—(1) In any matter of practice or procedure for which no specific provision has been made by this Act or the rules, the procedure and practice for the time being in use or in force in the Supreme Court shall, as nearly as may be, be followed and adopted.
 
 (2) Where in respect of any matter of practice or procedure it is not possible to apply subsection (1), the court may make such orders and give such directions as are likely to secure substantial justice between the parties.
 
@@ -652,13 +630,13 @@ and may, by such official name, sue and be sued, hold property of every descript
 
 ### Official Assignee deemed to be public servant
 
-20\. The Official Assignee and any officer appointed by the Minister under section 17(3) shall be deemed to be public servants within the meaning of the Penal Code (Cap. 224).
+20\. The Official Assignee and any officer appointed by the Minister under section 17(3) shall be deemed to be public servants within the meaning of the Penal Code [Cap. 224].
 
 ### General duties of Official Assignee as regards bankrupt’s conduct and affairs
 
 21\.—(1) The Official Assignee shall have the following duties as regards a bankrupt:
 
-(a) to investigate the conduct and affairs of the bankrupt, and report to the court as to whether there is reason to believe that the bankrupt has committed any act which constitutes an offence under this Act or under section 421, 422, 423 or 424 of the Penal Code, or which would otherwise justify the court in refusing, suspending or qualifying an order for his discharge;
+(a) to investigate the conduct and affairs of the bankrupt, and report to the court as to whether there is reason to believe that the bankrupt has committed any act which constitutes an offence under this Act or under section 421, 422, 423 or 424 of the Penal Code [Cap. 224], or which would otherwise justify the court in refusing, suspending or qualifying an order for his discharge;
 
 (b) to make such other reports concerning the conduct of the bankrupt as the court may direct or as are prescribed;
 
@@ -774,7 +752,7 @@ TRUSTEE IN BANKRUPTCY
 
 (a) he is —
 
-(i) registered as a public accountant under the Accountants Act (Cap. 2A);
+(i) registered as a public accountant under the Accountants Act;
 
 (ii) an advocate and solicitor; or
 
@@ -906,7 +884,7 @@ Moratorium for insolvent debtor
 
 ### Interim order of court
 
-45\.—(1) Subject to subsection (2), any insolvent debtor who intends to make a proposal to his creditors for a composition in satisfaction of his debts or a scheme of arrangement of his affairs (hereinafter referred to as a voluntary arrangement) may apply to the court for an interim order under this Part.
+45\.—(1) Subject to subsection (2), any insolvent debtor who intends to make a proposal to his creditors for a composition in satisfaction of his debts or a scheme of arrangement of his affairs (referred to hereinafter as a voluntary arrangement) may apply to the court for an interim order under this Part.
 
 (2) No partner in an insolvent firm shall apply to the court for an interim order in respect of the firm unless all or a majority of the partners in the firm join or intend to join in the making of the proposal for a voluntary arrangement.
 
@@ -924,7 +902,7 @@ Moratorium for insolvent debtor
 
 (ii) no other proceedings, execution or other legal process may be commenced or continued against the firm or its property or against the person or property of any partner in the firm, without the leave of the court.
 
-(4) An interim order shall cease to have effect 28 days after the making thereof unless the court otherwise directs.
+(4) An interim order shall cease to have effect 28 daysafter the making thereof unless the court otherwise directs.
 
 ### Nominee
 
@@ -932,7 +910,7 @@ Moratorium for insolvent debtor
 
 (2) No person shall be appointed as a nominee unless he is —
 
-(a) registered as a public accountant under the Accountants Act (Cap. 2A);
+(a) registered as a public accountant under the Accountants Act;
 
 (b) an advocate and solicitor; or
 
@@ -1190,7 +1168,7 @@ Bankruptcy petitions and bankruptcy orders
 
 (c) the debtor is unable to pay the debt or each of the debts; and
 
-(d) where the debt or each of the debts is incurred outside Singapore, such debt is payable by the debtor to the petitioning creditor by virtue of a judgement or award which is enforceable by execution in Singapore.
+(d) where the debt or each of the debts is incurred outside Singapore, such debt is payable by the debtor to the petitioning creditor by virtue of a judgment or award which is enforceable by execution in Singapore.
 
 (2) The Minister may, by order published in theGazette, amend subsection (1)(a) by substituting a different sum for the sum for the time being specified therein.
 
@@ -1304,11 +1282,11 @@ stay all proceedings on the petition for such time as may be required for trial 
 
 ### Consolidation of bankruptcy petitions
 
-68\. Where two or more bankruptcy petitions are presented against the same debtor, the court may consolidate the proceedings or any of them on such terms as the court thinks fit.
+68\. Where 2 or more bankruptcy petitions are presented against the same debtor, the court may consolidate the proceedings or any of them on such terms as the court thinks fit.
 
 ### Power to dismiss petition against some respondents only
 
-69\. Where there are two or more respondents to a petition, the court may dismiss the petition as to one or more of them, without prejudice to the effect of the petition as against the other or others of them.
+69\. Where there are 2 or more respondents to a petition, the court may dismiss the petition as to one or more of them, without prejudice to the effect of the petition as against the other or others of them.
 
 ### Power to change conduct of proceedings
 
@@ -1350,7 +1328,7 @@ except with the leave of the court and on such terms as the court may impose.
 
 as the interim receiver may for the purpose of carrying out his functions under this section reasonably require.
 
-(4) Upon the appointment of an interim receiver under this section, sections 83 and 84 shall apply, mutatis mutandis, and any reference in those sections to —
+(4) Upon the appointment of an interim receiver under this section, sections 83 and 84 shall apply, with the necessary modifications, and any reference in those sections to —
 
 (a) the making of a bankruptcy order shall be read as a reference to the appointment of an interim receiver under this section;
 
@@ -1462,13 +1440,13 @@ Inquiry into bankrupt’s affairs, dealings and property
 
 ### Creditors’ committee
 
-80\.—(1) At any meeting convened by the Official Assignee under section 79 (1), the creditors qualified to vote thereat, including the holders of general proxies or general powers of attorney from such creditors, may by ordinary resolution appoint from amongst themselves a committee (known as the “creditors’ committee”) of not more than 3 persons for the purpose of advising the Official Assignee on matters relating to the administration of the property of the bankrupt.
+80\.—(1) At any meeting convened by the Official Assignee under section 79(1), the creditors qualified to vote thereat, including the holders of general proxies or general powers of attorney from such creditors, may by ordinary resolution appoint from amongst themselves a committee (known as the “creditors’ committee”) of not more than 3 persons for the purpose of advising the Official Assignee on matters relating to the administration of the property of the bankrupt.
 
 (2) The Official Assignee may convene the creditors’ committee at such times as he may think necessary, but shall convene the committee whenever requested in writing to do so by all or a majority of the members of the committee.
 
 (3) Any member of the creditors’ committee may resign his office by notice in writing, signed by him and delivered to the Official Assignee.
 
-(4) If a member of the creditors’ committee becomes bankrupt, or compounds or arranges with his creditors, or is absent for more than two months from Singapore, his office shall thereupon become vacant.
+(4) If a member of the creditors’ committee becomes bankrupt, or compounds or arranges with his creditors, or is absent for more than 2 months from Singapore, his office shall thereupon become vacant.
 
 (5) Any member of the creditors’ committee may be removed by an ordinary resolution at any meeting of creditors, of which 7 days’ notice has been given stating the object of the meeting.
 
@@ -1570,7 +1548,7 @@ until that person is brought before the court or until such other time as the co
 
 (14) Where a bankrupt or any other person summoned by the court under this section without reasonable excuse fails at any time to attend before the court, he shall be guilty of a contempt of court and shall be liable to be punished accordingly in addition to any other punishment to which he may be subject.
 
-(15) The court may, if it thinks fit, order that any person who if within Singapore would be liable to be summoned to appear before it and examined under this section shall be examined in Singapore or in any place outside Singapore.
+(15) The court may, if it thinks fit, order that any person who if within Singapore would be liable to be summoned to appear before it and examined under this section shall be examined in Singapore or elsewhere.
 
 ### Power of court following examination of bankrupt and others
 
@@ -1578,7 +1556,7 @@ until that person is brought before the court or until such other time as the co
 
 (2) If it appears to the court, on consideration of any evidence obtained under section 83 that any person is indebted to the bankrupt, the court may, on the application of the Official Assignee, order that person to pay to the Official Assignee, at such place and time and in such manner as the court may direct, the whole or part of the amount due, whether in full discharge of the debt or otherwise as the court thinks fit.
 
-### Unenforceability of liens on books, etc
+### Unenforceability of liens on books, etc.
 
 85\.—(1) Subject to this section, a lien or other right to retain possession of any of the books, papers or other records relating to the affairs or property of a bankrupt shall be unenforceable to the extent that its enforcement would deny possession of any books, papers or other records to the Official Assignee.
 
@@ -1646,15 +1624,15 @@ and any interest on such debt or liability which is payable by the bankrupt in r
 
 (c) thirdly, subject to subsection (2), the amount due to an employee as a retrenchment benefit or an ex gratia payment under any contract of employment or award or agreement that regulates the conditions of employment, whether such amount becomes payable before, on or after the date of the bankruptcy order;
 
-(d) fourthly, all amounts due in respect of any workmen’s compensation under the Workmen’s Compensation Act (Cap. 354) accrued before, on or after the date of the bankruptcy order;
+(d) fourthly, all amounts due in respect of any workmen’s compensation under the Workmen’s Compensation Act accrued before, on or after the date of the bankruptcy order;
 
-(e) fifthly, all amounts due in respect of contributions payable during the 12 months immediately before, on or after the date of the bankruptcy order by the bankrupt as the employer of any person under any written law relating to employees’ superannuation or provident funds or under any scheme of superannuation which is an approved scheme under the Income Tax Act (Cap. 134);
+(e) fifthly, all amounts due in respect of contributions payable during the 12 months immediately before, on or after the date of the bankruptcy order by the bankrupt as the employer of any person under any written law relating to employees’ superannuation or provident funds or under any scheme of superannuation which is an approved scheme under the Income Tax Act [Cap. 134];
 
 (f) sixthly, all remuneration payable to any employee in respect of vacation leave, or in the case of his death, to any other person in his right, accrued in respect of any period before, on or after the date of the bankruptcy order; and
 
 (g) seventhly, the amount of all taxes assessed and any goods and services tax due under any written law before the date of the bankruptcy order or assessed at any time before the time fixed for the proving of debts has expired.
 
-(2) The amount payable under subsection (1)(b) and (c) shall not exceed an amount that is equivalent to 5 months’ salary whether for time or piecework in respect of services rendered by any employee to the bankrupt or $7,500, whichever is the lesser.
+(2) The amount payable under subsection (1)(b) and (c) shall not exceed an amount that is equivalent to 5 months’ salary whether for time or piecework in respect of services rendered by any employee to the bankrupt or $7,500, whichever is the less.
 
 (3) The Minister may, by order published in theGazette, amend subsection (2) by varying the amount specified in that subsection as the maximum amount payable under subsection (1)(b) and (c).
 
@@ -1816,7 +1794,7 @@ Effect of bankruptcy on antecedent transactions
 
 (a) in the case of a transaction at an undervalue, within the period of 5 years ending with the day of the presentation of the bankruptcy petition on which the individual is adjudged bankrupt;
 
-(b) in the case of an unfair preference which is not a transaction at an undervalue and is given to a person who is an associate of the individual (otherwise than by reason only of being his employee), within the period of two years ending with that day; and
+(b) in the case of an unfair preference which is not a transaction at an undervalue and is given to a person who is an associate of the individual (otherwise than by reason only of being his employee), within the period of 2 years ending with that day; and
 
 (c) in any other case of an unfair preference which is not a transaction at an undervalue, within the period of 6 months ending with that day.
 
@@ -1862,7 +1840,7 @@ and references in this section to a spouse shall include a former spouse.
 
 (b) he is entitled to exercise, or control the exercise of, one-third or more of the voting power at any general meeting of the company or of another company which has control of it,
 
-and where two or more persons together satisfy either of the above conditions, they shall be taken to have control of the company.
+and where 2 or more persons together satisfy paragraph (a) or (b), they shall be taken to have control of the company.
 
 (9) In this section, “company” includes any body corporate (whether incorporated in Singapore or elsewhere); and references to directors and other officers of a company and to voting power at any general meeting of a company shall have effect with any necessary modifications.
 
@@ -1930,7 +1908,7 @@ and it shall be presumed, unless the contrary is proved, that the transaction wa
 
 104\.—(1) This section shall apply where a person engaged in any business makes a general assignment to another person of his existing or future book debts, or any class of them, and is subsequently adjudged bankrupt.
 
-(2) The assignment shall be void against the Official Assignee as regards book debts which were not paid before the presentation of the bankruptcy petition, unless the assignment has been registered under the Bills of Sale Act (Cap. 24).
+(2) The assignment shall be void against the Official Assignee as regards book debts which were not paid before the presentation of the bankruptcy petition, unless the assignment has been registered under the Bills of Sale Act [Cap. 24].
 
 (3) For the purposes of this section —
 
@@ -2056,9 +2034,13 @@ make an order for the vesting of the property in or delivery thereof to —
 
 and on the vesting order being made, the property comprised therein shall vest accordingly in the person therein named in that behalf, without any conveyance or assignment for the purpose.
 
-(7) Where the property disclaimed is of a leasehold nature, the court shall not make a vesting order in favour of any person claiming under the bankrupt, whether as under-lessee or as mortgagee by demise, except upon the terms of making the person subject to the same liabilities and obligations as the bankrupt was subject to under the lease in respect of the property at the date when the bankruptcy petition was presented, and any mortgagee or under-lessee declining to accept a vesting order upon those terms shall be excluded from all interest in and security upon the property, and if there is no person claiming under the bankrupt who is willing to accept an order upon those terms, the court shall have power to vest the bankrupt’s estate and interest in the property in any person liable (either personally or in a representative character, and either alone or jointly with the bankrupt) to perform the lessee’s covenants in the lease, freed and discharged from all estates, encumbrances and interests created therein by the bankrupt.
+(7) Where the property disclaimed is of a leasehold nature, the court shall not make a vesting order in favour of any person claiming under the bankrupt, whether as under-lessee or as mortgagee by demise, except upon the terms of making the person subject to the same liabilities and obligations as the bankrupt was subject to under the lease in respect of the property at the date when the bankruptcy petition was presented.
 
-(8) Any person sustaining loss or damage by the operation of a disclaimer under this section shall be deemed to be a creditor of the bankrupt to the extent of the loss or damage, and may accordingly prove the same as a debt under the bankruptcy.
+(8) Any mortgagee or under-lessee declining to accept a vesting order upon those terms shall be excluded from all interest in and security upon the property.
+
+(9) If there is no person claiming under the bankrupt who is willing to accept an order upon those terms, the court shall have power to vest the bankrupt’s estate and interest in the property in any person liable (either personally or in a representative character, and either alone or jointly with the bankrupt) to perform the lessee’s covenants in the lease, freed and discharged from all estates, encumbrances and interests created therein by the bankrupt.
+
+(10) Any person sustaining loss or damage by the operation of a disclaimer under this section shall be deemed to be a creditor of the bankrupt to the extent of the loss or damage, and may accordingly prove the same as a debt under the bankruptcy.
 
 ### Power of Official Assignee to deal with property
 
@@ -2116,9 +2098,9 @@ and on the vesting order being made, the property comprised therein shall vest a
 
 (4) The Official Assignee may also make an allowance to defray the funeral expenses of the bankrupt.
 
-### Re-direction of bankrupt’s letters, etc
+### Re-direction of bankrupt’s letters, etc.
 
-115\.—(1) Where a bankruptcy order has been made, the Official Assignee may from time to time direct the public postal licensee under the Telecommunication Authority of Singapore Act (Cap. 323) to re-direct and send or deliver to the Official Assignee or otherwise any postal article which would otherwise be sent or delivered by it to the bankrupt at such place or places as may be specified in the direction.
+115\.—(1) Where a bankruptcy order has been made, the Official Assignee may from time to time direct the public postal licensee under the Telecommunication Authority of Singapore Act [Cap. 323] to re-direct and send or deliver to the Official Assignee or otherwise any postal article which would otherwise be sent or delivered by it to the bankrupt at such place or places as may be specified in the direction.
 
 (2) A direction under this section shall have effect for such period, not exceeding 3 months, as may be specified in the direction.
 
@@ -2220,7 +2202,7 @@ ANNULMENT AND DISCHARGE
 
 (c) that proceedings are pending in Malaysia for the distribution of the bankrupt’s estate and effects amongst the creditors under the bankruptcy law of Malaysia and that the distribution ought to take place there; or
 
-(d) that a majority of the creditors in number and value are resident in Malaysia, and that from the situation of the property of the bankrupt or for other causes his estate and effects ought to be distributed among the creditors under the bankruptcy laws of Malaysia.
+(d) that a majority of the creditors in number and value are resident in Malaysia, and that from the situation of the property of the bankrupt or for other causes his estate and effects ought to be distributed among the creditors under the bankruptcy law of Malaysia.
 
 (2) The court may annul a bankruptcy order whether or not the bankrupt has been discharged from the bankruptcy.
 
@@ -2246,7 +2228,7 @@ ANNULMENT AND DISCHARGE
 
 as may be specified in the order.
 
-(4) Where the bankrupt has committed an offence under this Act or under section 421, 422, 423 or 424 of the Penal Code (Cap. 224) or upon proof of any of the facts mentioned in subsection (5), the court shall —
+(4) Where the bankrupt has committed an offence under this Act or under section 421, 422, 423 or 424 of the Penal Code [Cap. 224] or upon proof of any of the facts mentioned in subsection (5), the court shall —
 
 (a) refuse to discharge the bankrupt from bankruptcy;
 
@@ -2314,7 +2296,7 @@ as may be specified in the order.
 
 (a) dismiss the application;
 
-(b) make an order that the bankrupt be not granted a certificate of discharge by the Official Assignee for a period not exceeding two years; or
+(b) make an order that the bankrupt be not granted a certificate of discharge by the Official Assignee for a period not exceeding 2 years; or
 
 (c) make an order permitting the Official Assignee to issue a certificate discharging the bankrupt but subject to such conditions as the court may think fit to impose, including conditions with respect to —
 
@@ -2356,7 +2338,7 @@ and a bankrupt may be discharged from such debt only by a certificate in writing
 
 (a) consists in a liability to pay damages for negligence, nuisance or breach of a statutory, contractual or other duty, being damages in respect of personal injuries to any person;
 
-(b) arises under any order made in proceedings under the Women’s Charter (Cap. 353) relating to family matters; or
+(b) arises under any order made in proceedings under the Women’s Charter relating to family matters; or
 
 (c) arises under an order involving pecuniary liability made under any written law relating to the confiscation of the proceeds of crime.
 
@@ -2434,11 +2416,11 @@ DUTIES, DISQUALIFICATION AND DISABILITIES OF BANKRUPT
 
 BANKRUPTCY OFFENCES
 
-### Definitions
+### Interpretation of this Part
 
 132\. In this Part —
 
-(a) references to property comprised in the bankrupt’s estate or to property possession of which is required to be delivered up to the Official Assignee shall include any property mentioned in section 78 (1);
+(a) references to property comprised in the bankrupt’s estate or to property possession of which is required to be delivered up to the Official Assignee shall include any property mentioned in section 78(1);
 
 (b) “initial period” means the period between the presentation of the bankruptcy petition by or against a debtor and the commencement of his bankruptcy;
 
@@ -2448,7 +2430,7 @@ BANKRUPTCY OFFENCES
 
 ### Defence of innocent intention
 
-133\. In the case of an offence under any provision of this Part, other than sections 135(e), 137, 140 (2), 142, 143 and 145, a person shall not be guilty of the offence if he proves that, at the time of the conduct constituting the offence, he had no intent to defraud or to conceal the state of his affairs.
+133\. In the case of an offence under any provision of this Part, other than sections 135(e), 137, 140(2), 142, 143 and 145, a person shall not be guilty of the offence if he proves that, at the time of the conduct constituting the offence, he had no intent to defraud or to conceal the state of his affairs.
 
 ### Non-disclosure
 
@@ -2478,7 +2460,7 @@ BANKRUPTCY OFFENCES
 
 (ii) to give a satisfactory explanation of the manner in which such a loss was incurred.
 
-### Concealment of books and papers; falsification, etc
+### Concealment of books and papers; falsification, etc.
 
 136\. A bankrupt shall be guilty of an offence if —
 
@@ -2514,7 +2496,7 @@ BANKRUPTCY OFFENCES
 
 (a) he makes or causes to be made, or has during the period of 5 years prior to the date of the bankruptcy order against him made or caused to be made, any gift or transfer of, or any charge on, his property; or
 
-(b) he conceals or removes, or has at any time before the commencement of the bankruptcy concealed or removed, any part of his property after, or within two months before, the date on which a judgment or order for the payment of money has been obtained against him, being a judgment or order which was not satisfied before the commencement of his bankruptcy.
+(b) he conceals or removes, or has at any time before the commencement of the bankruptcy concealed or removed, any part of his property after, or within 2 months before, the date on which a judgment or order for the payment of money has been obtained against him, being a judgment or order which was not satisfied before the commencement of his bankruptcy.
 
 (2) In this section, the reference to making a transfer of or a charge on any property includes causing or conniving at, the levying of any execution against that property.
 
@@ -2558,7 +2540,7 @@ BANKRUPTCY OFFENCES
 
 ### Failure to keep proper accounts of business
 
-142\.—(1) A bankrupt shall be guilty of an offence if, having been engaged in any business within two years before the presentation of the bankruptcy petition by or against him, he has not —
+142\.—(1) A bankrupt shall be guilty of an offence if, having been engaged in any business within 2 years before the presentation of the bankruptcy petition by or against him, he has not —
 
 (a) kept proper accounting records throughout that period and throughout any part of the initial period in which he was so engaged; or
 
@@ -2582,7 +2564,7 @@ BANKRUPTCY OFFENCES
 
 143\.—(1) A bankrupt shall be guilty of an offence if he has —
 
-(a) in the two years before the presentation of the bankruptcy petition by or against him, materially contributed to, or increased the extent of, his insolvency by gambling or by rash and hazardous speculations; or
+(a) in the 2 years before the presentation of the bankruptcy petition by or against him, materially contributed to, or increased the extent of, his insolvency by gambling or by rash and hazardous speculations; or
 
 (b) in the initial period, lost any part of his property by gambling or by rash and hazardous speculations.
 
@@ -2598,7 +2580,7 @@ BANKRUPTCY OFFENCES
 
 without any reasonable ground of expectation of being able to pay it.
 
-### Making of false claims, etc
+### Making of false claims, etc.
 
 145\.—(1) Any creditor in any bankruptcy, composition or arrangement with creditors shall be guilty of an offence if he makes any claim, proof, declaration or statement of account which is untrue in any material particular unless he satisfies the court that he had no intent to defraud.
 
@@ -2634,7 +2616,7 @@ MISCELLANEOUS PROVISIONS
 
 (4) Upon the prescribed notice being given to the legal representative, if any, of the deceased debtor, the court may, in the prescribed manner, upon proof of the petitioner’s debt, unless the court is satisfied that there is a reasonable probability that the estate will be sufficient for the payment of the debts owing by the deceased debtor, make an order for the administration in bankruptcy of the deceased debtor’s estate, or may, upon cause being shown, dismiss the petition with or without costs.
 
-(5) An administration order under this section shall not be made until the expiration of two months from the date of the grant of probate or letters of administration, unless with the concurrence of the legal representative of the deceased debtor.
+(5) An administration order under this section shall not be made until the expiration of 2 months from the date of the grant of probate or letters of administration, unless with the concurrence of the legal representative of the deceased debtor.
 
 (6) A petition for administration under this section shall not be presented to the court after proceedings have been commenced for the administration of the deceased debtor’s estate except that the court may, in that case, on the application of any creditor and on proof that the estate is insufficient to pay its debts in the prescribed manner, make an order for the administration of the estate of the deceased debtor in bankruptcy, and the like consequences shall ensue as under an administration order made on the petition of a creditor.
 
@@ -2646,7 +2628,7 @@ MISCELLANEOUS PROVISIONS
 
 (10) In the administration of the property of the deceased debtor under an administration order, the Official Assignee shall have regard to any claims by the legal representative of the deceased debtor to payment of the proper funeral and testamentary expenses incurred by him in and about the debtor’s estate and such claims shall be deemed to be preferential debts under the administration order and shall be payable in full out of the debtor’s estate in priority to all other debts.
 
-(11) If on the administration of a deceased debtor’s estate any surplus remains in the hands of the Official Assignee after payment in full of all the debts due from the debtor, together with the costs of the administration and interest as provided by this Act in the case of a bankruptcy, the surplus shall, subject to section 122 (2), be paid over to the legal representative of the deceased debtor’s estate or dealt with in such other manner as is prescribed.
+(11) If on the administration of a deceased debtor’s estate any surplus remains in the hands of the Official Assignee after payment in full of all the debts due from the debtor, together with the costs of the administration and interest as provided by this Act in the case of a bankruptcy, the surplus shall, subject to section 122(2), be paid over to the legal representative of the deceased debtor’s estate or dealt with in such other manner as is prescribed.
 
 (12) Upon notice being given to the legal representative of a deceased debtor of the presentation by a creditor of a petition under this section, and in the event of an administration order being made thereon, no payment or transfer of property made thereafter by the legal representative shall operate as a discharge to him as between himself and the Official Assignee.
 
@@ -2682,7 +2664,7 @@ MISCELLANEOUS PROVISIONS
 
 (3) Subsection (2) shall not apply where a bankruptcy petition has been presented against the bankrupt in Singapore until the petition has been dismissed or withdrawn or the bankruptcy order has been rescinded or annulled.
 
-(4) The production of an order of adjudication purporting to be certified, under the seal of the court in Malaysia making the order, by the registrar of that court, or of a copy of the officialGazetteof Malaysia containing a notice of an order adjudging that person a bankrupt shall be conclusive proof in all courts in Singapore of the order having been duly made and of its date.
+(4) The production of an order of adjudication purporting to be certified, under the seal of the court in Malaysia making the order, by the registrar of that court, or of a copy of the official Gazette of Malaysia containing a notice of an order adjudging that person a bankrupt shall be conclusive proof in all courts in Singapore of the order having been duly made and of its date.
 
 (5) The Official Assignee of Malaysia may sue and be sued in any court in Singapore by the official name of “the Official Assignee of the Property of (name of bankrupt), a Bankrupt under the Law of Malaysia”.
 
@@ -2732,9 +2714,9 @@ shall, if it appears to be sealed with the seal of the court or purports to be s
 
 159\.—(1) For the purposes of this section —
 
-“bankruptcy” includes any proceedings before or after the bankruptcy order and whether the order is made or not;
+“bankrupt” includes any debtor proceeded against under this Act;
 
-“bankrupt” includes any debtor proceeded against under this Act.
+“bankruptcy” includes any proceedings before or after the bankruptcy order and whether the order is made or not
 
 (2) Every deed, conveyance, assignment or other assurance relating solely to freehold or leasehold property or to any mortgage, charge or other encumbrance on, or any estate, right or interest in, any real or personal property which is part of the estate of any bankrupt, and which, after the execution of the deed, conveyance, assignment or other assurance, either at law or in equity, is or remains the estate of the bankrupt or of the Official Assignee, and every power of attorney, proxy paper, writ, order, certificate, affidavit, bond or other instrument or writing relating solely to the property of any bankrupt or to any proceeding under any bankruptcy shall be exempt from stamp duties except in respect of fees under this Act.
 
@@ -2760,7 +2742,7 @@ shall, if it appears to be sealed with the seal of the court or purports to be s
 
 163\.—(1) A list of undischarged bankrupts shall be kept by the Official Assignee and shall be published in theGazetteat such times as the Minister may direct, but not less than once in each year.
 
-(2) The Registrar shall keep a list of all bankruptcy orders made; and on that list every such order shall be forthwith entered under the headings of the letters of the alphabet and every order rescinding, annulling or discharging any such order and every notice of discharge given under section 125 (2) shall be noted in the list against the order rescinded, annulled or discharged.
+(2) The Registrar shall keep a list of all bankruptcy orders made; and on that list every such order shall be forthwith entered under the headings of the letters of the alphabet and every order rescinding, annulling or discharging any such order and every notice of discharge given under section 125(2) shall be noted in the list against the order rescinded, annulled or discharged.
 
 ### Unclaimed and undistributed moneys
 
@@ -2796,7 +2778,7 @@ he shall forthwith pay those moneys to the Official Assignee to be placed to the
 
 (2) There shall be paid into the Fund —
 
-(a) all unclaimed moneys referred to in section 164 (2); and
+(a) all unclaimed moneys referred to in section 164(2); and
 
 (b) all costs and fees recovered by the Official Assignee in any proceedings taken under this Act in which moneys from the Fund were applied.
 
@@ -2830,423 +2812,108 @@ he shall forthwith pay those moneys to the Official Assignee to be placed to the
 
 (e) such incidental, supplemental and transitional provisions as may appear to the Minister to be necessary or expedient.
 
-### Repeal, transitional and consequential provisions
+### Transitional provisions
 
-167\.—(1) The Bankruptcy Act is repealed.
+167\.—(1) In any written law or document in which a reference is made to the Bankruptcy Act [Cap. 20, 1985 Ed] repealed by this Act, such reference shall be read as a reference to this Act.
 
-(2) In any written law or document in which a reference is made to the Bankruptcy Act (Cap. 20) repealed by this Act, such reference shall be read as a reference to the Bankruptcy Act 1994.
+(2) The transitional provisions and savings set out in the Schedule shall have effect.
 
-(3) The transitional provisions and savings set out in the First Schedule shall have effect.
+## THE SCHEDULE
 
-(4) The provisions of the Acts specified in the first column of the Second Schedule are amended in the manner set out in the second column thereof.
-
-FIRST SCHEDULE
-
-Section 167(3)
+Section 167(2)
 
 Transitional Provisions and Savings
 
 Bankrupts under repealed Act to continue to be bankrupts under this Act
 
-1.—(1) A person who was a bankrupt on the appointed day continues to be a bankrupt until he is discharged, or his bankruptcy is rescinded or annulled, under this Act; and the provisions of this Act shall apply to and in relation to that bankrupt as if he had become a bankrupt under this Act.
+1.—(1) A person who was a bankrupt on 15th July 1995 continues to be a bankrupt until he is discharged, or his bankruptcy is rescinded or annulled, under this Act; and the provisions of this Act shall apply to and in relation to that bankrupt as if he had become a bankrupt under this Act.
 
-(2) All orders and applications made, notices and consents given, matters advertised, meetings held, resolutions passed, compositions, schemes of arrangement or deeds accepted or approved, debts proved and acts and things done before the appointed day in relation to a bankrupt or the property of a bankrupt shall, in relation to the administration of the conduct and affairs of the bankrupt and his property under this Act, be deemed to have been made, given, advertised, held, passed, proved or done under this Act.
+(2) All orders and applications made, notices and consents given, matters advertised, meetings held, resolutions passed, compositions, schemes of arrangement or deeds accepted or approved, debts proved and acts and things done before 15th July 1995 in relation to a bankrupt or the property of a bankrupt shall, in relation to the administration of the conduct and affairs of the bankrupt and his property under this Act, be deemed to have been made, given, advertised, held, passed, proved or done under this Act.
 
 Uncompleted proceedings under repealed Act
 
 2.—(1) Where —
 
-(a) a bankruptcy notice under the repealed Act has been served on a debtor before the appointed day; and
+(a) a bankruptcy notice under the repealed Act has been served on a debtor before 15th July 1995; and
 
-(b) the debtor has failed, whether before or after the appointed day, to comply with the notice,
+(b) the debtor has failed, whether before or after 15th July 1995, to comply with the notice,
 
 a bankruptcy petition may be presented against the debtor under the repealed Act, and proceedings in relation to the petition may, subject to sub-paragraph (3), be taken and had under that Act as if this Act had not been enacted.
 
-(2) Where a bankruptcy petition has been presented against a debtor under the repealed Act before the appointed day, but an adjudication order has not been made on the petition, and the petition has not been withdrawn or dismissed before that day, proceedings in relation to the petition may, subject to sub-paragraph (3), be continued, or taken and had, after that day under the repealed Act as if this Act had not been enacted.
+(2) Where a bankruptcy petition has been presented against a debtor under the repealed Act before 15th July 1995, but an adjudication order has not been made on the petition, and the petition has not been withdrawn or dismissed before that date, proceedings in relation to the petition may, subject to sub-paragraph (3), be continued, or taken and had, after that date under the repealed Act as if this Act had not been enacted.
 
 (3) Where a person becomes a bankrupt on a petition to which sub-paragraph (1) or (2) applies, all subsequent proceedings in relation to the bankrupt or his estate shall be taken and had, and this Act shall apply as if he had become a bankrupt on a creditor’s petition presented under this Act.
 
-(4) Any proceedings (including the hearing of an appeal) in a court or before the Registrar under the repealed Act that had not been completed before the appointed day may be continued and completed, and any right of appeal in relation to those proceedings may be exercised and the appeal heard and determined as if this Act had not been enacted.
+(4) Any proceedings (including the hearing of an appeal) in a court or before the Registrar under the repealed Act that had not been completed before 15th July 1995 may be continued and completed, and any right of appeal in relation to those proceedings may be exercised and the appeal heard and determined as if this Act had not been enacted.
 
-(5) Any right of appeal from an order of a court having jurisdiction under the repealed Act, being an order made before the appointed day, may be exercised, and the appeal heard and determined, after that day, as if this Act had not been enacted.
+(5) Any right of appeal from an order of a court having jurisdiction under the repealed Act, being an order made before 15th July 1995, may be exercised, and the appeal heard and determined, after that date, as if this Act had not been enacted.
 
-(6) Any right of appeal to a court having jurisdiction in bankruptcy under the repealed Act from an act or decision of the Official Assignee, the Registrar or any other officer under the repealed Act done or made before the appointed day and any right to apply to such a court to review such an act or decision may be exercised, and the appeal or application heard and determined, by the High Court.
+(6) Any right of appeal to a court having jurisdiction in bankruptcy under the repealed Act from an act or decision of the Official Assignee, the Registrar or any other officer under the repealed Act done or made before 15th July 1995 and any right to apply to such a court to review such an act or decision may be exercised, and the appeal or application heard and determined, by the High Court.
 
-(7) In relation to any such case as is mentioned in sub-paragraph (1), the references in any written law to a petition, order or other matter which is provided for under the repealed Act and corresponds to a petition, order or other matter provided for under the provisions of this Act shall continue on and after the appointed day to give effect as references to the petition, order or matter provided for by the repealed Act; but otherwise those references shall have effect on and after that day as references to the petition, order or matter provided for by those provisions of this Act.
+(7) In relation to any such case as is mentioned in sub-paragraph (1), the references in any written law to a petition, order or other matter which is provided for under the repealed Act and corresponds to a petition, order or other matter provided for under the provisions of this Act shall continue on and after 15th July 1995 to give effect as references to the petition, order or matter provided for by the repealed Act; but otherwise those references shall have effect on and after that date as references to the petition, order or matter provided for by those provisions of this Act.
 
 Application of section 148 to existing estates of deceased debtors
 
-3.—(1) Where an order for the administration in bankruptcy of a deceased debtor’s estate has been made under Part VIII of the repealed Act, but the administration of the estate has not been completed before the appointed day, the estate of the deceased debtor shall, subject to this paragraph, be administered and distributed as if an order for administration of the estate had been made under section 148 of this Act, and the provisions of that section shall apply in relation to the estate accordingly.
+3.—(1) Where an order for the administration in bankruptcy of a deceased debtor’s estate has been made under Part VIII of the repealed Act, but the administration of the estate has not been completed before 15th July 1995, the estate of the deceased debtor shall, subject to this paragraph, be administered and distributed as if an order for administration of the estate had been made under section 148 of this Act, and the provisions of that section shall apply in relation to the estate accordingly.
 
-(2) All orders and applications made, notices and consents given, matters advertised, meetings held, resolutions passed, debts proved and acts and things done before the appointed day in relation to the estate of a deceased debtor shall, in relation to the administration and distribution of the estate under section 148 of this Act, be deemed to have been made, given, advertised, held, passed, proved or done under that section.
+(2) All orders and applications made, notices and consents given, matters advertised, meetings held, resolutions passed, debts proved and acts and things done before 15th July 1995 in relation to the estate of a deceased debtor shall, in relation to the administration and distribution of the estate under section 148 of this Act, be deemed to have been made, given, advertised, held, passed, proved or done under that section.
 
-Offences committed before appointed day
+Offences committed before 15th July 1995
 
-4\. Where a bankruptcy order is made under this Act on or after the appointed day on a petition to which paragraph 2(1) or (2) applies, a person shall not be guilty of an offence under Part X of this Act in respect of anything done before that day; but shall be guilty of an offence under the repealed Act in respect of anything done before that day which would have been an offence under that Act if the making of the bankruptcy order had been the making of a receiving order or an adjudication order under that Act.
+4\. Where a bankruptcy order is made under this Act on or after 15th July 1995 on a petition to which paragraph 2(1) or (2) applies, a person shall not be guilty of an offence under Part X of this Act in respect of anything done before that date; but shall be guilty of an offence under the repealed Act in respect of anything done before that day which would have been an offence under that Act if the making of the bankruptcy order had been the making of a receiving order or an adjudication order under that Act.
 
 Schedule to be without prejudice to section 166
 
-5.—(1) This Schedule shall be without prejudice to the power conferred by this Act under which rules under section 166 of this Act may make transitional provision in connection with the coming into force of those rules; and such provision may apply those rules in relation to a bankruptcy notwithstanding that it arose from a petition presented before either the coming into force of the rules or the appointed day.
+5.—(1) This Schedule shall be without prejudice to the power conferred by this Act under which rules under section 166 of this Act may make transitional provision in connection with the coming into force of those rules; and such provision may apply those rules in relation to a bankruptcy notwithstanding that it arose from a petition presented before either the coming into force of the rules or 15th July 1995.
 
-(2) Rules made under section 166 of this Act may provide for such notices served before the appointed day as may be prescribed to be treated for the purposes of this Act as statutory demands served under section 62(a)(i) of this Act.
+(2) Rules made under section 166 of this Act may provide for such notices served before 15th July 1995 as may be prescribed to be treated for the purposes of this Act as statutory demands served under section 62(a)(i) of this Act.
 
-Transactions before appointed day
+Transactions before 15th July 1995
 
-6.—(1) A transaction entered into before the appointed day shall not be set aside under this Act except to the extent that it could have been set aside under the law in force immediately before that day.
+6.—(1) A transaction entered into before 15th July 1995 shall not be set aside under this Act except to the extent that it could have been set aside under the law in force immediately before that date.
 
 (2) References in sub-paragraph (1) to setting aside a transaction shall include the making of any order which varies or reverses any effect of such a transaction.
 
 Computation of time
 
-7. Where any period of time specified in a provision of the repealed Act is current immediately before the appointed day, this Act shall have effect as if the corresponding provision had been in force when the period began to run; and (without prejudice to the foregoing) any period of time so specified and current shall be deemed for the purposes of this Act —
+7. Where any period of time specified in a provision of the repealed Act is current immediately before 15th July 1995, this Act shall have effect as if the corresponding provision had been in force when the period began to run; and (without prejudice to the foregoing) any period of time so specified and current shall be deemed for the purposes of this Act —
 
-(a) to run from the date or event from which it was running immediately before that day; and
+(a) to run from the date or event from which it was running immediately before that date; and
 
 (b) to expire (subject to any provision of this Act for its extension) whenever it would have expired if this Act had not been enacted,
 
 and any rights, priorities, liabilities, reliefs, obligations, requirements, powers, duties or exemptions dependent on the beginning, duration or end of such a period as above mentioned shall be under this Act as they were or would have been under the repealed Act.
 
-Punishment of offences committed before appointed day
+Punishment of offences committed before 15th July 1995
 
-8.—(1) Offences committed before the appointed day under any provision of the repealed Act may, notwithstanding any repeal by this Act, be prosecuted and punished after that day as if this Act had not been enacted.
+8.—(1) Offences committed before 15th July 1995 under any provision of the repealed Act may, notwithstanding any repeal by this Act, be prosecuted and punished after that date as if this Act had not been enacted.
 
-(2) Where an offence for the continuance of which a penalty was provided has been committed under any provision of the repealed Act, proceedings may be taken under this Act in respect of the continuance of the offence on and after the appointed day in the like manner as if the offence had been committed under the corresponding provision of this Act.
+(2) Where an offence for the continuance of which a penalty was provided has been committed under any provision of the repealed Act, proceedings may be taken under this Act in respect of the continuance of the offence on and after 15th July 1995 in the like manner as if the offence had been committed under the corresponding provision of this Act.
 
 Schedule not to prejudice section 16 of Interpretation Act
 
-9\. Nothing in this Schedule shall be taken as prejudicing section 16 of the Interpretation Act (Cap. 1) (effect of repeal).
+9\. Nothing in this Schedule shall be taken as prejudicing section 16 of the Interpretation Act [Cap. 1] (effect of repeal).
 
 Meaning of “repealed Act”
 
-10\. In this Schedule, “repealed Act” means the Bankruptcy Act (Cap. 20) in force immediately before the appointed day.
+10\. In this Schedule, “repealed Act” means the Bankruptcy Act [Cap. 20 1985 Ed] in force immediately before 15th July 1995.
 
-SECOND SCHEDULE
-
-Section 167(4)
-
-Consequential Amendments
-
-First column
-
-Second column
-
-(1)
-
-Architects Act
-
-
-
-
-(Chapter 12)
-
-Section 18(4)(a)
-
-Delete the words “or a receiving order in bankruptcy is in force against him”.
-
-(2)
-
-Commodity Futures Act (Chapter 48A)
-
-Section 15(1)(b)
-
-(i)
-
-Delete the words “or has committed an act of bankruptcy within the meaning of the Bankruptcy Act”.
-
-(ii)
-
-Delete the marginal reference “Cap. 20.”
-
-(3)
-
-Corruption (Confiscation of Benefits) Act
-
-
-
-
-(Chapter 65A)
-
-(a)
-
-Section 8(7)
-
-Delete paragraph (a) and substitute the following paragraph:
-
-“(a)
-
-in relation to bankruptcy, means the debts to be paid in priority under section 90 of the Bankruptcy Act 1994 (assuming the date of the confiscation order to be the date of the bankruptcy order); and”.
-
-(b)
-
-Section 18
-
-(i)
-
-Delete the words “section 47(1)(a)” in subsection (2)(b) and substitute the words “section 78(2)”.
-
-(ii)
-
-Delete the words “section 33(3)” in subsection (2)(c) and substitute the words “section 124(3)(c)”.
-
-(iii)
-
-Delete the words “section 10 of the Bankruptcy Act” in subsection (5) and substitute the words “section 73 of the Bankruptcy Act 1994”.
-
-(iv)
-
-Delete the marginal reference “Cap. 20.” in subsection (5).
-
-(v)
-
-Delete the words “section 35(1) of the Bankruptcy Act” in subsection (6) and substitute the words “section 127(2) of the Bankruptcy Act 1994”.
-
-(vi)
-
-Delete the marginal reference “Cap. 20.” in subsection (6).
-
-(4)
-
-Drug Trafficking (Confiscation of Benefits) Act (Chapter 84A)
-
-(a)
-
-Section 8(7)
-
-Delete paragraph (a) and substitute the following paragraph:
-
-“(a)
-
-in relation to bankruptcy, means the debts to be paid in priority under section 90 of the Bankruptcy Act 1994 (assuming the date of the confiscation order to be the date of the bankruptcy order); and”.
-
-(b)
-
-Section 19
-
-(i)
-
-Delete the words “section 47(1)(a)” in subsection (2)(b) and substitute the words “section 78(2)”.
-
-(ii)
-
-Delete the words “section 33(3)” in subsection (2)(c) and substitute the words “section 124(3)(c)”.
-
-(iii)
-
-Delete the words “section 11 of the Bankruptcy Act” in subsection (5) and substitute the words “section 73 of the Bankruptcy Act 1994”.
-
-(iv)
-
-Delete the marginal reference “Cap. 20.” in subsection (5).
-
-(v)
-
-Delete the words “section 35(1) of the Bankruptcy Act” in subsection (6) and substitute the words “section 127(2) of the Bankruptcy Act 1994”.
-
-(5)
-
-Employment Act
-
-
-
-
-(Chapter 91)
-
-Section 47(1)(b)
-
-(i)
-
-Delete the words “section 43 of the Bankruptcy Act” and substitute the words “section 90 of the Bankruptcy Act 1994”.
-
-(ii)
-
-Delete the marginal reference “Cap. 20.”.
-
-(6)
-
-Exchange Control Act (Chapter 99)
-
-Fourth Schedule
-
-(i)
-
-Delete the words “bankruptcy notice” in sub-paragraph (i) of the proviso to paragraph 3 and substitute the words “statutory demand”.
-
-(ii)
-
-Delete the words “section 5(1) of the Bankruptcy Act” in the third line of paragraph 6 and substitute the words “section 61(1) of the Bankruptcy Act 1994”.
-
-(iii)
-
-Delete the marginal reference “Cap. 20.” in paragraph 6.
-
-(7)
-
-Futures Trading Act (Chapter 116)
-
-Section 14(a)(ii)
-
-(i)
-
-Delete the words “or has committed an act of bankruptcy within the meaning of the Bankruptcy Act”.
-
-(ii)
-
-Delete the marginal reference “Cap. 20.”.
-
-(8)
-
-Hire-Purchase Act (Chapter 125)
-
-Section 33(f)
-
-Delete the words “or commits an act of bankruptcy” in the fifth line.
-
-(9)
-
-Land Surveyors Act (Chapter 156)
-
-Section 15(4)(a)
-
-Delete the words “or a receiving order in bankruptcy is in force against him”.
-
-(10)
-
-Legal Profession Act (Chapter 161)
-
-(a)
-
-Section 26(1)(d)
-
-Delete the words “or a receiving order in bankruptcy is in force against him”.
-
-(b)
-
-Section 57(1)(c)
-
-Delete the words “or a receiving order in bankruptcy is in force against him”.
-
-(c)
-
-Section 82A(3)(b)
-
-(i)
-
-Delete the words “section 33(6)(a), (b), (c), (d), (e), (f), (h) or (i) of the Bankruptcy Act” and substitute the words “section 124(5)(a), (b), (c), (d), (e), (f), (h), (i), (k), (l) or (m) of the Bankruptcy Act 1994”.
-
-(ii)
-
-Delete the marginal reference “Cap. 20.”.
-
-(d)
-
-Section 83(2)(c)
-
-(i)
-
-Delete the words “section 33(6)(a), (b), (c), (d), (e), (f), (h) or (i) of the Bankruptcy Act” and substitute the words “section 124(5) (a), (b), (c), (d), (e), (f), (h), (i), (k), (l) or (m) of the Bankruptcy Act 1994”.
-
-(ii)
-
-Delete the marginal reference “Cap. 20.”.
-
-(e)
-
-The Schedule, Part I, paragraph1(1)(d)
-
-Delete the words “, or a receiving order in bankruptcy is in force against him”.
-
-(11)
-
-Merchant Shipping Act (Chapter 179)
-
-Section 383
-
-Repeal.
-
-(12)
-
-Motor Vehicles (Third-Party Risks and Compensation) Act (Chapter 189)
-
-(a)
-
-Section 10
-
-(i)
-
-Delete the words “section 124 of the Bankruptcy Act” in the first and second lines of subsection (2) and substitute the words “section 148 of the Bankruptcy Act 1994”.
-
-(ii)
-
-Delete the marginal reference “Cap. 20.” in subsection (2).
-
-(iii)
-
-Delete the words “section 124 of the Bankruptcy Act” in the sixth line of subsection (3) and substitute the words “section 148 of the Bankruptcy Act 1994”.
-
-(b)
-
-Section 11(2)(a)
-
-(i)
-
-Delete the words “section 124 of the Bankruptcy Act” and substitute the words “section 148 of the Bankruptcy Act 1994”.
-
-(ii)
-
-Delete the marginal reference “Cap. 20.”.
-
-(13)
-
-Police Force Act
-
-
-
-
-(Chapter 235)
-
-Section 13(3)
-
-(i)
-
-Delete the words “Part VI of the Bankruptcy Act” and substitute the words “Part VII of the Bankruptcy Act 1994”.
-
-(ii)
-
-Delete the marginal reference “Cap. 20.”.
-
-(14)
-
-Professional Engineers Act (Chapter 253)
-
-Section 18(4)(a)
-
-Delete the words “or a receiving order in bankruptcy is in force against him”.
-
-(15)
-
-Registration of Criminals Act (Chapter 268)
-
-First Schedule Part II
-
-Delete the item —
-
-“Cap. 20.
+## LEGISLATIVE HISTORY
 
 Bankruptcy Act
 
-Sections 111, 112, 113, 114 and 117(3).”.
+(CHAPTER 20)
 
-and substitute the following item:
+This Legislative History is provided for the convenience of users of the Bankruptcy Act. It is not part of this Act.
 
-“Bankruptcy Act 1994
-
-The whole of Part X.”.
-
-(16)
-
-Singapore Academy of Law Act (Chapter 294A)
-
-Section 16(1)(f)
-
-Delete the words “or a receiving order in bankruptcy is in force against him”.
-
+||||
+|:-|:-|:-|
+|1.|**Act 15 of 1995—Bankruptcy Act 1995**|
+||Date of First Reading|25 July 1994|
+|||(Bill No. 16/94 published on 29 July 1994)|
+||Date of Second Reading|25 August 1994|
+||Referred to Select Committee|Parl 1 of 1995 presented to Parliament on 7 March 1995|
+||Date of Third Reading|23 March 1995|
+||Date of commencement|15 July 1995|
+|2.|**1996 Revised Edition—Bankruptcy Act (Chapter 20)**|
+||Date of operation|30 April 1996|
