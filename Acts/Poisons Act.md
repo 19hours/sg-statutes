@@ -440,8 +440,6 @@ Alfentanil
 
 Algestone
 
-Alkali fluorides, except those specified in Part II
-
 Allobarbitone
 
 Allopurinol
@@ -552,7 +550,7 @@ Anileridine; its salts
 
 Anthihistamines, including substances being tetra-N-substituted derivatives of ethylenediamine or propylenediamine; their salts
 
-Antimony, chlorides of antimony; oxides of antimony; sulphides of antimony; antimonates; antimonites; organic compounds of antimony
+Antimony, chlorides of antimony; organic compounds of antimony, which are intended for the treatment of human ailments;
 
 Antazoline; its salts
 
@@ -562,7 +560,7 @@ Apramycin; its salts
 
 Aprobarbitone
 
-Arsenical substances the following, except those specified in Part II; halides of arsenic; oxides of arsenic; arsenates; arsenites; organic compounds of arsenic
+Arsenical substances the following, except those specified in Part II; halides of arsenic; oxides of arsenic; arsenates; arsenites; organic compounds of arsenic;
 
 Arsphenamine
 
@@ -597,8 +595,6 @@ Bamipine; its salts
 Barbitone
 
 Barbituric acid; its salts; derivatives of barbituric acid; their salts; compounds of barbituric acid, its salts; its derivatives, their salts, with any other substance
-
-Barium, salts of, except barium sulphate and the salts of barium specified in Part II
 
 Beclamide
 
@@ -1188,8 +1184,6 @@ Dimethyltubocurarine; its salts
 
 Dinitronaphthols
 
-Dinitrophenols
-
 Dinitrothymols
 
 Dinoprost
@@ -1566,8 +1560,6 @@ Hydrocodone; its salts
 
 Hydrocortisone
 
-Hydrocyanic acid; cyanides, except ferrocyanides and ferricyanides
-
 Hydromorphinol; its salts; its esters and ethers; their salts
 
 Hydromorphone; its salts, its esters and ethers; their salts
@@ -1784,7 +1776,11 @@ Mequitazine
 
 Mercaptopurine; its salts; derivatives of mercaptopurine; their salts
 
-Mercury, oxides of; nitrates of mercury; mercuric ammonium chlorides; mercurous chloride when contained in medicinal preparations; potassio-mercuric iodides; organic compounds of mercury which contain a methyl (CH3) group directly linked to the mercury atom; mercuric oxycyanides; mercuric thiocyanate
+Mercury, oxides of; mercurous chloride; organic compounds of mercury which contain a methyl (CH
+
+3
+
+) group directly linked to the mercury atom; which are intended for the treatment of human ailments
 
 Mescaline, and other derivatives of phenethylamine formed by substitution in the aromatic ring; their salts
 
@@ -2096,8 +2092,6 @@ Orthocaine; its salts
 
 Ouabain
 
-Oxalic acid
-
 Oxamniquine
 
 Oxandrolone
@@ -2242,7 +2236,7 @@ Pheniramine; its salts
 
 Phenobarbitone
 
-Phenols (any member of the series of phenols of which the first member is phenol and of which the molecular composition varies from member to member by one atom of carbon and two atoms of hydrogen) except in substances containing less than 60%, weight in weight, of phenols; compounds of phenol with a metal, except in substances containing less than the equivalent of 60%, weight in weight, of phenols
+Phenols which are intended for the treatment of human ailments
 
 Phenomorphan; its salts; its esters and ethers; their salts
 
@@ -2536,7 +2530,7 @@ Sodium apolate
 
 Sodium cromoglycate
 
-Sodium fluoride
+Sodium fluoride; which are intended for the treatment of human ailments
 
 Sodium valproate
 
@@ -2694,7 +2688,7 @@ Tetrazepam
 
 Thalidomide; its salts
 
-Thallium, salts of
+Thallium, salts of; which are intended for the treatment of human ailments
 
 Thebacon; its salts; its esters; their salts
 
@@ -2902,9 +2896,11 @@ Aluminium phosphide
 
 Ammonia
 
-Ammonium chlorate
+Ammonium Chlorate
 
 Ammonium perchlorate
+
+Antimony pentachloride
 
 Arsenical substances, the following:
 
@@ -2922,6 +2918,8 @@ Copper arsenites
 
 Lead arsenates
 
+Oxides of arsenic
+
 Potassium arsenites
 
 Sodium arsenates
@@ -2932,15 +2930,9 @@ Sodium thioarsenates
 
 Arsine
 
-Barium, salts of, the following:
-
-Barium carbonate
-
-Barium silicofluoride
+Arsenic trichloride
 
 Benzene
-
-Benzidine
 
 Boron trichloride
 
@@ -2974,7 +2966,7 @@ Chlorfenethol
 
 Chlorfenson
 
-Chlorfensulfide
+Chlorfensulphide
 
 Chlorobenzilate
 
@@ -3000,9 +2992,9 @@ Fluorbenzide
 
 Gamma benzene hexachloride (Gamma-BHC)
 
-HEOD [1, 2, 3, 4, 10, 10-hexachloro-6, 7-epoxy-1, 4, 4a, 5, 6, 7, 8, 8a-octahydro-1, 4 (exo): 5, 8 (endo)-dimethanonaphthalene]
+HEOD [1,2,3,4,10,10-hexachloro-6, 7-epoxy-1,4,4a,5,6,7,8,8a-octahydro-1, 4 (exo): 5,8 (endo)-dimethanonaphthalene]
 
-HHDN [1, 2, 3, 4, 10, 10-hexachloro-1, 4, 4a, 5, 8, 8a-hexahydro-1, 4 (exo): 5, 8 (endo)-dimethanonaphthalene]
+HHDN [1,2,3,4,10,10-hexachloro-1,4,4a,5,8,8a-hexahydro-1, 4 (exo): 5,8 (endo)-dimethanonaphthalene]
 
 Heptachlor
 
@@ -3012,7 +3004,7 @@ Isodrin
 
 Kelevan
 
-Methoxychlor [1, 1, 1-trichloro-2, 2-di-(p-methoxyphenyl) ethane]
+Methoxychlor [1,1,1-trichloro-2, 2-di-(p-methoxyphenyl) ethane]
 
 Tetrachlordiphenylethane [TDE; 1, 1-dichloro-2, 2-bis (p-chlorophenyl) ethane]
 
@@ -3022,13 +3014,15 @@ Tetrasul
 
 Toxaphene
 
-Allied chlorinated hydrocarbon compounds used as pesticides (insecticides, acaricides, etc.).
+Allied chlorinated hydrocarbon compounds used as pesticides (insecticides, acaricides, etc.)
 
 Chlorine
 
 Chlorophenols; their salts
 
 Chloropicrin
+
+Cyanides, except ferrocyanides and ferricyanides
 
 Diborane
 
@@ -3066,11 +3060,13 @@ Hydrazine anhydrous; hydrazine aqueous solutions
 
 Hydrochloric acid
 
-Hydrofluoric acid; alkali metal bifluorides; ammonium bifluoride; potassium fluoride; potassium silicofluoride; silicofluoric acid; sodium fluoride; soldium silicofluoride
+Hydrofluoric acid; alkali metal bifluorides; ammonium bifluoride; potassium fluoride; potassium silicofluoride; silicofluric acid; sodium fluoride; sodium silicofluoride
 
 Hydrogen chloride, anhydrous
 
 Hydrogen chloride, liquid (refrigerated)
+
+Hydrogen cyanide
 
 Hydrogen peroxide
 
@@ -3080,9 +3076,7 @@ Isocyanates
 
 Lead tetra-ethyl and similar lead containing compounds
 
-Mercuric chloride; mercuric iodide; organic compounds of mercury except compounds which contain a methyl (CH3) group directly linked to the mercury atom
-
-Metallic oxalates
+Mercuric chloride; mercuric iodide; organic compounds of mecury
 
 Metanil yellow (sodium salt of metanilylazo-diphenylamine)
 
@@ -3093,6 +3087,8 @@ Methyl bromide
 Methyl mercaptan
 
 Niclofolan
+
+Nicotine sulphate
 
 Nitric acid
 
@@ -3114,9 +3110,9 @@ compounds of fentin
 
 Paraquat; salts of
 
-Perchloro methyl mercaptan
+Phenols (any member of the series of phenols of which the first member is phenol and of which the molecular composition varies from member to member by one atom of carbon and two atoms of hydrogen); compounds of phenol with a metal; except those which are intended for the treatment of human ailments
 
-Phenols as defined in Part I in substances containing less than 60%, weight in weight, of phenols; compounds of phenol with a metal in substances containing less than the equivalent of 60%, weight in weight, of phenols
+Perchloro methyl mercaptan
 
 Phosgene
 
@@ -3126,13 +3122,21 @@ Phosphoric acid
 
 Phosphorus compounds, the following:
 
-Any substance derived from the molecule H3PO4 by substitution of any of the hydrogen or oxygen atoms and used as pesticides (insecticides, acaricides, etc.) excepting —
+Any substance derived from the molecule H
+
+3
+
+PO
+
+4
+
+by substitution of any of the hydrogen or oxygen atoms and used as pesticides (insecticides, acaricides, etc.) excepting —
 
 bromophos
 
 bromophos-ethyl
 
-2-chloro-1-(2, 4, 5-trichlorophenyl) vinyldimethyl phosphate
+2-chloro-1-(2,4,5-trichlorophenyl) vinyldimethyl phosphate
 
 diazinon
 
@@ -3150,7 +3154,7 @@ malathion
 
 pirimiphos-methyl
 
-0, 0, 0’, 0’-tetramethyl 0, 0’-thiodi-p-phenylene phosphorothioate
+0,0,0’,0’-tetramethyl 0, 0’-thiodi-p-phenylene phosphorothioate
 
 Phosphorus oxychloride
 
@@ -3174,15 +3178,11 @@ Propylene oxide
 
 Silane
 
-Sodium 4-(dimethylamino) benzenediazosulphonate
-
 Sodium chlorate
 
 Sodium perchlorate
 
 Sodium hydroxide
-
-Sodium nitrite
 
 Styrene monomer
 
@@ -3194,11 +3194,13 @@ Thallium, salts of
 
 Vinyl chloride monomer
 
-Zinc phosphide.
+Zinc phosphide
 
 [S 279/83; S 205/85; S 342/85; S 211/86]
 
 [S 40/1988 wef 26/02/1988]
+
+[S 82/1988 wef 11/04/1988]
 
 ## LEGISLATIVE HISTORY
 
@@ -3330,3 +3332,5 @@ This Legislative History is provided for the convenience of users of the Poisons
 ||Date of commencement|11 September 1987|
 |47.|**G. N. No. S 40/1988—Poisons Act (Amendment of Schedule) Notification 1988**|
 ||Date of commencement|26 February 1988|
+|48.|**G. N. No. S 82/1988—Poisons Act (Amendment of Schedule No. 2) Notification 1988**|
+||Date of commencement|11 April 1988|
