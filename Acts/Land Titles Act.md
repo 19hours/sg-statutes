@@ -2996,7 +2996,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Saving of rights
 
-171\. For the avoidance of doubt, it is hereby declared that nothing in this Act shall affect the rights conferred on the Public Utilities Board by section 15 of and the Public Utilities Act [Cap. 261], the Director-General of Public Works by sections 34 and 35 of the Local Government Integration Act [Cap. 166] and the Director of Water Pollution Control and Drainage under section 16 of the Water Pollution Control and Drainage Act [Cap. 348].
+171\. For the avoidance of doubt, it is hereby declared that nothing in this Act shall affect the rights conferred on the Public Utilities Board by section 6 of and the Second Schedule to the Public Utilities Act 1995, the Director-General of Public Works by sections 34 and 35 of the Local Government Integration Act [Cap. 166] and the Director of Water Pollution Control and Drainage under section 16 of the Water Pollution Control and Drainage Act [Cap. 348].
+
+[Act 26/95 wef 01/10/1995]
 
 ### Savings
 
@@ -3082,3 +3084,9 @@ This Legislative History is provided for the convenience of users of the Land Ti
 |2.|**1994 Revised Edition—Land Titles Act (Chapter 157)**|
 ||(G.N. No. S 435/1995, S 92/1997 — Rectification Order)||
 ||Date of operation|30 December 1994|
+|3.|**Act 26 of 1995—Public Utilities Act 1995**|
+||(Consequential amendments made by)||
+||Date of First Reading|25 May 1995|
+|||(Bill No. 20/95 published on 26 May 1995)|
+||Date of Second and Third Readings|7 July 1995|
+||Date of commencement|1 October 1995|
