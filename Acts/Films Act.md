@@ -216,7 +216,7 @@ An Act relating to the possession, distribution and exhibition of films.
 
 ### Importation of films and removal of films from approved warehouse
 
-13\.—(1) No film shall, on importation by sea, be removed from the vessel by which the film was imported or from any Port of Singapore Authority godown, or, if imported by land or air, from a post office, railway station or other place of arrival without a permit from the Board.
+13\.—(1) No film shall, on importation by sea, be removed from the vessel by which the film was imported or from any godown of a provider of port services or facilities licensed or exempted under the Maritime and Port Authority of Singapore Act (Cap. 107A), or, if imported by land or air, from a post office, railway station or other place of arrival without a permit from the Board.
 
 (2) A permit issued by the Board under subsection (1) shall be valid only for such period as may be specified therein.
 
@@ -479,3 +479,9 @@ This Legislative History is provided for the convenience of users of the Films A
 ||Date of commencement|1 October 1981|
 |2.|**1985 Revised Edition—Films Act**|
 ||Date of operation|30 March 1987|
+|3.|**Act 6 of 1997—Port of Singapore Authority (Dissolution) Act 1997**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|11 July 1997|
+|||(Bill No. 5/97 published on 12 July 1997)|
+||Date of Second and Third Readings|25 August 1997|
+||Date of commencement|1 October 1997|
