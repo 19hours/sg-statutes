@@ -56,6 +56,8 @@
 
 - [20 Power to borrow](#Power-to-borrow)
 
+- [20A Issue of shares, etc.](#Issue-of-shares-etc)
+
 - [21 Duty of Authority in financial matters](#Duty-of-Authority-in-financial-matters)
 
 - [22 Application of revenue](#Application-of-revenue)
@@ -631,6 +633,12 @@ FINANCIAL PROVISIONS
 ### Power to borrow
 
 20\. The Authority may, with the approval of the Minister, raise capital from banks and other financial institutions whether in Singapore or elsewhere by way of mortgage, overdraft or otherwise, with or without security, as it may require for the discharge of its functions under this Act.
+
+### Issue of shares, etc.
+
+20A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Authority under this Act, or of any capital injection or other investment by the Government in the Authority in accordance with any written law, the Authority shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
+
+[5/2002 wef 15/07/2002]
 
 ### Duty of Authority in financial matters
 
@@ -2003,3 +2011,9 @@ This Legislative History is provided for the convenience of users of the Maritim
 ||Date of commencement|2.2.96|
 |2.|**1997 Revised Edition—Maritime and Port Authority of Singapore Act**|
 ||Date of operation|30 May 1997|
+|3.|**Act 5 of 2002—Statutory Corporations (Capital Contribution) Act 2002**|
+||(Consequential amendments made by)||
+||Date of First Reading|3 May 2002|
+|||(Bill No. 7/2002 published on 5 May 2002)|
+||Date of Second and Third Readings|24 May 2002|
+||Date of commencement|15 July 2002|
