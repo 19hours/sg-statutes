@@ -440,7 +440,9 @@ unless he is the holder of a licence granted under this Part that authorises him
 
 (a) the applicant has not provided the Board with such information relating to him or any person employed by or associated with him for the purposes of his business, and to any circumstances likely to affect his method of conducting business, as may be prescribed under this Act;
 
-(b) the applicant is an undischarged bankrupt or has committed an act of bankruptcy within the meaning of the Bankruptcy Act [Cap. 20] or has made a composition or arrangement with his creditors;
+(b) the applicant is an undischarged bankrupt or has made a composition or arrangement with his creditors;
+
+[15/1995 wef 15/07/1995]
 
 (c) it appears to the Board that, by reason of the applicant, or any person employed by or associated with him for the purposes of his business, having been convicted, whether in Singapore or elsewhere, of an offence the conviction for which involved a finding that he acted fraudulently or dishonestly, or having been convicted of an offence under this Act, or having committed a breach of any regulations made under this Act relating to licensed persons, the applicant is not a fit and proper person to be licensed; or
 
@@ -1156,8 +1158,14 @@ This Legislative History is provided for the convenience of users of the Commodi
 |:-|:-|:-|
 |1.|**Act 17 of 1992—Commodity Futures Act 1992**|
 ||Date of First Reading|10 March 1992|
-|||(Bill No. 23/92 published on 11 March 1992)|
+|||(Bill No. 23/1992)|
 ||Date of Second and Third Readings|20 March 1992|
 ||Date of commencement|27 May 1992|
-|2.|**1993 Revised Edition—Commodity Futures Act (Chapter 48A)**|
+|2.|**1993 Revised Edition—Commodity Futures Act**|
 ||Date of operation|15 March 1993|
+|3.|**Act 15 of 1995—Bankruptcy Act 1995**|
+||Date of First Reading|25 July 1994|
+|||(Bill No. 16/1994)|
+||Date of Second Reading|25 August 1994|
+||Date of Third Reading|23 March 1995|
+||Date of commencement|15 July 1995|
