@@ -1,14 +1,12 @@
-**Destitute Persons Act 1989**
+**Destitute Persons Act**
 
-**(No. 8 of 1989)**
+**(CHAPTER 78)**
 
 **Table of Contents**
 
 [**Long Title**](#Destitute-Persons-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -48,45 +46,25 @@
 
 - [20 Discharge](#Discharge)
 
-- [21 Repeal](#Repeal)
+[**Legislative History**](#Legislative-History)
 
-REPUBLIC OF SINGAPORE
+# Destitute Persons Act
 
-GOVERNMENT GAZETTE
+(CHAPTER 78)
 
-ACTS SUPPLEMENT
+(Original Enactment: Act 8 of 1989)
 
-Published by Authority
+REVISED EDITION 1990
 
-NO. 6]
-
-Friday, March 3
-
-[1989
-
-The following Act was passed by Parliament on 26th January 1989 and assented to by the President on 21st February 1989:—
-
-Destitute Persons Act 1989
-
-(No. 8 of 1989)
-
-I assent.
-
-WEE KIM WEE
-
-President.
-
-21st February 1989.
-
-Date of Commencement: 1st May 1989
+(15th March 1990)
 
 An Act to repeal and re-enact with amendments the Destitute Persons Act (Chapter 78 of the 1985 Revised Edition) and to provide for matters connected therewith.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st May 1989]
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Destitute Persons Act 1989 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Destitute Persons Act.
 
 ### Interpretation
 
@@ -104,7 +82,7 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 “superintendent” means a person having the management or control of any welfare home established under the provisions of, and for the purposes of, this Act;
 
-“welfare home” means any institution or part thereof for the reception, care and rehabilitation of destitute persons established under the provisions, of and for the purposes of, this Act.
+“welfare home” means any institution or part thereof for the reception, care and rehabilitation of destitute persons established under the provisions of, and for the purposes of, this Act.
 
 (2) For the purposes of this Act, a person shall be deemed to be begging if his conduct is calculated to induce the giving of alms, whether or not there is any pretence of singing, playing, performing, offering anything for sale or otherwise.
 
@@ -114,7 +92,7 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 (2) If the Director has reasonable cause to believe that any person so delivered into his custody has no visible means of subsistence, he may arrange for that person to be temporarily admitted into a welfare home until an inquiry has been held by him.
 
-(3) Every such inquiry shall be completed within a period of 30 days from the date of that person’s admission into a welfare home or such further period, not exceeding 30 days, as the Minister may approve.
+(3) Every such inquiry shall be completed within a period of 30 days from the date of that person’s admission into a welfare home such further period, not exceeding 30 days, as the Minister may approve.
 
 (4) If after holding such inquiry the Director is satisfied that that person is a destitute person within the meaning of this Act, he may by warrant under his hand require that person to reside in a welfare home.
 
@@ -140,11 +118,11 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 ### Minister may establish welfare homes
 
-7\.—(1) The Minister may, by notification in theGazette, establish welfare homes at such places as he thinks proper within Singapore for the care and rehabilitation of destitute persons in accordance with the provisions of this Act.
+7\.—(1) The Minister may, by notification in theGazette, establish welfare homes at such places as he thinks proper within Singapore for the reception, care and rehabilitation of destitute persons in accordance with the provisions of this Act.
 
 (2) The Minister may appoint superintendents and other officers for the management of such welfare homes.
 
-(3) Every superintendent or officer shall be deemed to be a public servant within the meaning of the Penal Code (Cap. 224).
+(3) Every superintendent or officer shall be deemed to be a public servant within the meaning of the Penal Code [Cap. 224].
 
 ### Board of Visitors
 
@@ -180,17 +158,17 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 ### Discharge to the care of a relative or other person
 
-12\.—(1) Whenever any relative or a friend of a destitute person who, in the opinion of the Director is willing and able to provide care and support for the destitute person, desires that the destitute person be discharged from a welfare home to his care and support, the Director shall upon the application of that relative or friend and on his giving security to the satisfaction of the Director that the person will be properly taken care of and that he will ensure that person’s compliance with any condition of discharge from the welfare home, order that person to be discharged to the care of the relative or friend.
+12\.—(1) Whenever any relative or a friend of a destitute person who, in the opinion of the Director is willing and able to provide care and support for the destitute person, desires that the destitute person be discharged from a welfare home to his care and support, the Director shall, upon the application of the relative or friend and on his giving security to the satisfaction of the Director that the person will be properly taken care of and that he will ensure that person’s compliance with any condition of discharge from the welfare home, order that person to be discharged to the care of the relative or friend.
 
-(2) Where for any reason the relative’s or friend’s care and support for the destitute person ceases, the relative or friend shall inform the Director in writing within 24 hours of the cessation of such care and support.
+(2) Where for any reason the care and support of the relative or friend for the destitute person ceases, the relative or friend shall inform the Director in writing within 24 hours of the cessation of such care and support.
 
-(3) Any person, having undertaken the care and support of a person discharged from a welfare home, who fails to inform the Director in writing within 24 hours of his ceasing to support and care for such discharged person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 or to imprisonment for a term not exceeding 2 months.
+(3) Any person, having undertaken the care and support of a person discharged from a welfare home, who fails to inform the Director in writing 24 hours of his ceasing to care and support for such discharged person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 or to imprisonment for a term not exceeding 2 months.
 
 ### Persons in a welfare home may be required to work
 
 13\.—(1) Any person residing in a welfare home may be required to engage in any suitable work, for which the medical officer of the home certifies him to be capable, either with a view to fitting him for an employment outside the welfare home or with a view to contributing to his maintenance in the welfare home.
 
-(2) Any person residing in a welfare home who attends work outside the welfare home shall be deemed, while engaged in such employment, to be a resident of the welfare home.
+(2) Any person residing in a welfare home who attends work outside the welfare home shall be deemed, while engaged in such employment, to be resident of the welfare home.
 
 ### Persons in a welfare home may be sent to hospital
 
@@ -236,7 +214,33 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 20\. The Minister may at any time order any person admitted to a welfare home to be discharged.
 
-### Repeal
+## LEGISLATIVE HISTORY
 
-21\. The Destitute Persons Act (Cap. 78) is repealed.
+Destitute Persons Act
 
+(CHAPTER 78)
+
+This Legislative History is provided for the convenience of users of the Destitute Persons Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 30 of 1965—Destitute Persons Act 1965**|
+||Date of First Reading|13 December 1965|
+|||(Bill No. 62/65 published on 20 December 1965)|
+||Date of Second and Third Readings|31 December 1965|
+||Date of commencement|9 May 1966|
+|2.|**1970 Revised Edition—Destitute Persons Act (Chapter 98)**|
+||Date of operation|15 April 1971|
+|3.|**1985 Revised Edition—Destitute Persons Act (Chapter 78)**|
+||Date of operation|30 March 1987|
+|4.|**Act 8 of 1989—Destitute Persons Act 1989**|
+||Date of First Reading|16 January 1989|
+|||(Bill No. 6/89 published on 16 January 1989)|
+||Date of Second and Third Readings|26 January 1989|
+||Date of commencement|1 May 1989|
+Note:
+
+The Destitute Persons Act 1989 repealed and re-enacted with amendments the Destitute Persons Act (Chapter 78, 1985 Revised Edition).
+
+|5.|**1990 Revised Edition—Destitute Persons Act (Chapter 78)**|
+||Date of operation|15 March 1990|
