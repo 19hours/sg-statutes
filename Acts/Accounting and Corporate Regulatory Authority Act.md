@@ -50,7 +50,7 @@
 
 - [16 Annual estimates](#Annual-estimates)
 
-- [17 Investments](#Investments)
+- [17 Power of investment](#Power-of-investment)
 
 - [18 Grants-in-aids](#Grants-in-aids)
 
@@ -396,13 +396,11 @@ FINANCIAL PROVISIONS
 
 (4) A summary of the annual estimates and supplementary estimates adopted by the Authority shall be published in theGazette.
 
-### Investments
+### Power of investment
 
-17\. The Authority may, with the approval of the Minister —
+17\. The Authority may invest its moneys in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
 
-(a) invest its moneys in such manner as it thinks fit; and
-
-(b) engage in any financial activity or participate in any financial arrangement for the purpose of managing or hedging against any financial risk that arises or is likely to arise from such investment.
+[45/2004 wef 15/12/2004]
 
 ### Grants-in-aids
 
