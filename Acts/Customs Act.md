@@ -16,7 +16,7 @@
 
 [**Part II APPOINTMENT OF OFFICERS**](#Part-II)
 
-- [4 Appointment of Director-General, Deputy Director-General, Senior Directors and Directors](#Appointment-of-Director-General-Deputy-Director-General-Senior-Directors-and-Directors)
+- [4 Appointment of Director-General, Deputy Directors-General, Senior Directors and Directors](#Appointment-of-Director-General-Deputy-Directors-General-Senior-Directors-and-Directors)
 
 - [5 Appointment of other officers](#Appointment-of-other-officers)
 
@@ -80,13 +80,13 @@
 
 - [33 Import and export to be in accordance with regulations](#Import-and-export-to-be-in-accordance-with-regulations)
 
-- [34 Permits to remove](#Permits-to-remove)
+- [34 Permits to remove goods](#Permits-to-remove-goods)
 
 - [35 Permit not used to be returned within 24 hours](#Permit-not-used-to-be-returned-within-24-hours)
 
 - [36 Goods removed in accordance with declaration not to be relanded](#Goods-removed-in-accordance-with-declaration-not-to-be-relanded)
 
-- [37 Declaration and permit](#Declaration-and-permit)
+- [37 Declaration](#Declaration)
 
 - [38 Power to prohibit imports and exports](#Power-to-prohibit-imports-and-exports)
 
@@ -96,7 +96,7 @@
 
 - [41 Particulars of goods exported to be furnished](#Particulars-of-goods-exported-to-be-furnished)
 
-- [42 Liability of master or agent of vessel in respect of goods unaccounted for](#Liability-of-master-or-agent-of-vessel-in-respect-of-goods-unaccounted-for)
+- [42 Liability of master or agent of vessel in respect of goods unaccounted for Liability in respect of duty for goods unaccounted for](#Liability-of-master-or-agent-of-vessel-in-respect-of-goods-unaccounted-for-Liability-in-respect-of-duty-for-goods-unaccounted-for)
 
 [**Part V GENERAL PROVISIONS AFFECTING AIRCRAFT AND VESSELS IN TERRITORIAL WATERS**](#Part-V)
 
@@ -308,7 +308,7 @@
 
 - [136 Penalty for tapping palm trees for toddy](#Penalty-for-tapping-palm-trees-for-toddy)
 
-- [136A Motor vehicle leaving Singapore without more than half a tank of motor spirit](#Motor-vehicle-leaving-Singapore-without-more-than-half-a-tank-of-motor-spirit)
+- [136A Motor vehicle leaving Singapore without prescribed amount of motor spirit](#Motor-vehicle-leaving-Singapore-without-prescribed-amount-of-motor-spirit)
 
 - [137 Penalty for assaulting or obstructing officers of customs and rescuing goods](#Penalty-for-assaulting-or-obstructing-officers-of-customs-and-rescuing-goods)
 
@@ -366,7 +366,9 @@ PRELIMINARY
 
 “aircraft” includes any kind of craft which may be used for the conveyance of passengers or goods by air;
 
-“alcohol” means ethyl alcohol;
+“alcohol” means ethanol;
+
+[Act 23 of 1993 wef 10/08/1993]
 
 “beer” includes ale, stout, porter, shandy and all other fermented liquors made from malt, and cider and perry;
 
@@ -404,7 +406,9 @@ as certified by the Director of Scientific Services;
 
 “dutiable goods” means any goods subject to the payment of customs duty on entry into customs territory or manufactured in Singapore including any free trade zone and on which customs duty has not been paid and includes goods manufactured in a free trade zone from materials of a class dutiable on entry into customs territory for consumption within the customs territory;
 
-“excise duty” means duty on goods manufactured in Singapore;
+“excise duty” means duty on goods manufactured in or imported into Singapore;
+
+[Act 23 of 1993 wef 10/08/1993]
 
 “export”, with its grammatical variations and cognate expressions, means to take or cause to be taken out of the customs territory by any means or to place goods in any form of conveyance for the purpose of taking the goods out of the customs territory by any means to any place including a free trade zone:
 
@@ -418,13 +422,23 @@ Provided that goods bona fide in transit, including goods which have been transh
 
 “heavy oil or diesel oil” includes any liquid, other than petroleum as defined in this Act, which is or may be used as a fuel in the engine of a traction engine or motor vehicle;
 
+“import duty” means duty on goods imported into Singapore;
+
+[Act 23 of 1993 wef 10/08/1993]
+
 “import”, with its grammatical variations and cognate expressions, means to bring or cause to be brought into the customs territory by any means from any place including a free trade zone:
 
 Provided that goods bona fide in transit, including goods which have been taken into any free trade zone from outside the customs territory or transhipped, shall not, for the purpose of the levy of customs duties, be deemed to be imported unless they are or become uncustomed goods;
 
 “importer” includes and applies to any owner or other person for the time being possessed of or beneficially interested in any goods at and from the time of importation thereof until the goods are duly removed from customs control;
 
-“intoxicating liquor” means liquor of any description containing more than 2% of proof spirit which is fit, or intended, or can by any means be converted, for use as a beverage, but does not include toddy, bottled toddy or denatured spirit;
+“intoxicating liquor” means —
+
+(a) a mixture of alcohol and some other substances containing more than 0.5 per cent alcohol by mass; or
+
+(b) a mixture of alcohol and water containing more than 0.5 per cent alcohol by volume, which is fit, or intended, or can by any means be converted, for use as a beverage, but does not include toddy, bottled toddy or denatured spirit;
+
+[Act 23 of 1993 wef 10/08/1993]
 
 “in transit” means taken out or sent from any country and brought into Singapore by land, sea or air (whether or not landed or transhipped in Singapore) for the sole purpose of being carried to another country either by the same or another conveyance;
 
@@ -452,15 +466,29 @@ Provided that goods bona fide in transit, including goods which have been taken 
 
 (a) the Director-General;
 
-(b) the Deputy Director-General, any Senior Director and any Director of Customs and Excise appointed under section 4(1);
+(b) any Deputy Director-General, Senior Director or Director of Customs and Excise appointed under section 4(1);
 
-(c) any Senior Superintendent, Superintendent or Assistant Superintendent of Customs and Excise appointed under section 4(4);
+[Act 23 of 1993 wef 10/08/1993]
 
-(d) any Chief Customs Officer, Senior Customs Officer or Customs Officer appointed under section 5; and
+(c) any Senior Superintendent, Higher Superintendent or Superintendent of Customs and Excise appointed under section 4(4);
+
+[Act 23 of 1993 wef 10/08/1993]
+
+(d) any Chief Customs Officer, Senior Customs Officer, Higher Customs Officer or Customs Officer appointed under section 5; and
+
+[Act 23 of 1993 wef 10/08/1993]
 
 (e) any police officer;
 
 “owner” includes a hirer under a hire-purchase agreement;
+
+“per cent alcohol by mass” means the measure of alcoholic strength of a mixture of alcohol and some other substances shown by the ratio, expressed as a percentage, of the mass of alcohol present in the mixture to the total mass of the mixture;
+
+[Act 23 of 1993 wef 10/08/1993]
+
+“per cent alcohol by volume” means the measure of alcoholic strength of a mixture of alcohol and water shown by the ratio, expressed as a percentage, of the volume of alcohol present in the mixture at a temperature of 20°C to the total volume of the mixture;
+
+[Act 23 of 1993 wef 10/08/1993]
 
 “petroleum” includes the liquids commonly known by the names of rock oil, Rangoon oil, Burma oil, kerosene and kerosene substitutes, paraffin oil, petrol, gasoline, benzol, benzoline, benzine, naphtha and any other like inflammable liquid, whether a natural product or one that is made from petroleum, coal, schist, shale or any other bituminous substance, or from any products thereof;
 
@@ -478,9 +506,13 @@ Provided that goods bona fide in transit, including goods which have been taken 
 
 (a) the Director-General;
 
-(b) the Deputy Director-General, any Senior Director and any Director of Customs and Excise appointed under section 4(1);
+(b) any Deputy Director-General, Senior Director or Director of Customs and Excise appointed under section 4(1);
 
-(c) any Senior Superintendent, Superintendent or Assistant Superintendent of Customs and Excise appointed under section 4(4);
+[Act 23 of 1993 wef 10/08/1993]
+
+(c) any Senior Superintendent, Higher Superintendent or Superintendent of Customs and Excise appointed under section 4(4);
+
+[Act 23 of 1993 wef 10/08/1993]
 
 (d) any officer of customs vested with the powers of a senior officer of customs under section 4(5); and
 
@@ -496,21 +528,29 @@ Provided that goods bona fide in transit, including goods which have been taken 
 
 [24/81]
 
-(2) For the purposes of this Act, goods shall be deemed to be under customs control while they are deposited or held in any Government warehouse, licensed factory warehouse or licensed warehouse, or bottling warehouse or post office or in any vessel, train, vehicle or aircraft or any place from which they may not be removed except with the permission of the proper officer of customs.
+(2) For the purposes of this Act, goods shall be deemed to be under customs control while they are deposited or held in any free trade zone, Government warehouse, licensed factory warehouse or licensed warehouse, or bottling warehouse or post office or in any vessel, train, vehicle or aircraft or any place from which they may not be removed except with the permission of the proper officer of customs.
+
+[Act 23 of 1993 wef 10/08/1993]
 
 ## PART II
 
 APPOINTMENT OF OFFICERS
 
-### Appointment of Director-General, Deputy Director-General, Senior Directors and Directors
+### Appointment of Director-General, Deputy Directors-General, Senior Directors and Directors
 
-4\.—(1) The Minister may appoint an officer to be styled the Director-General of Customs and Excise and may appoint a Deputy Director-General of Customs and Excise and such number of Senior Directors and Directors of Customs and Excise as he may think fit.
+4\.—(1) The Minister may appoint an officer to be styled the Director-General of Customs and Excise and may appoint such number of Deputy Directors-General, Senior Directors and Directors of Customs and Excise as he may think fit.
+
+[Act 23 of 1993 wef 10/08/1993]
 
 (2) The Director-General shall have the superintendence of all matters relating to this Act, subject to the direction and control of the Minister.
 
-(3) The Deputy Director-General, Senior Directors and Directors shall be subject to the general direction and supervision of the Director-General and, subject thereto, shall have and exercise all the powers conferred on the Director-General by this Act.
+(3) The Deputy Directors-General, Senior Directors and Directors shall be subject to the general direction and supervision of the Director-General and, subject thereto, shall have and exercise all the powers conferred on the Director-General by this Act.
 
-(4) The Minister may appoint so many Senior Superintendents, Superintendents and Assistant Superintendents of Customs and Excise as he may think fit for the purpose of carrying out the provisions of this Act.
+[Act 23 of 1993 wef 10/08/1993]
+
+(4) The Minister may appoint so many Senior Superintendents, Higher Superintendents and Superintendents of Customs and Excise as he may think fit for the purpose of carrying out the provisions of this Act.
+
+[Act 23 of 1993 wef 10/08/1993]
 
 ### Power to invest certain officers of customs with the powers of senior officers of customs
 
@@ -520,7 +560,9 @@ APPOINTMENT OF OFFICERS
 
 ### Appointment of other officers
 
-5\. The Minister may appoint so many Chief Customs Officers, Senior Customs Officers and Customs Officers as he may think fit for the purpose of carrying out the provisions of this Act.
+5\. The Minister may appoint so many Chief Customs Officers, Senior Customs Officers, Higher Customs Officers and Customs Officers as he may think fit for the purpose of carrying out the provisions of this Act.
+
+[Act 23 of 1993 wef 10/08/1993]
 
 ### Officers of customs to be public servants
 
@@ -546,9 +588,13 @@ LEVYING OF DUTY AND TAX
 
 ### Levying of duties
 
-10\.—(1) There shall be charged, levied and paid to the Director-General such customs duties on any goods imported into the customs territory or manufactured in Singapore as may be prescribed by the Minister by order published in theGazette.
+10\.—(1) There shall be charged, levied and paid to the Director-General such customs duties including import and excise duties on any goods imported into the customs territory or manufactured in Singapore as may be prescribed by the Minister by order published in theGazette.
 
-(2) Without prejudice to any other remedy, any customs duty or any tax, fee or other charge payable under this Act may be recovered by the Minister as a civil debt due to the Government.
+[Act 23 of 1993 wef 10/08/1993]
+
+(2) Without prejudice to any other remedy, any customs duty including import or excise duty or any tax, fee or other charge payable under this Act may be recovered by the Minister as a civil debt due to the Government.
+
+[Act 23 of 1993 wef 10/08/1993]
 
 (3) All amounts collected as duties, taxes, fees and other charges under this Act shall be paid into the Consolidated Fund.
 
@@ -680,7 +726,9 @@ Provided that no such refund shall be allowed unless a claim in respect thereof 
 
 20\. Whenever any customs duty, tax, fee or other charge under this Act has been short levied or erroneously refunded for any reason or owing to any cause, the person who should have paid the amount short levied or to whom the refund has erroneously been made shall pay the deficiency or repay the amount erroneously refunded to him on demand being made within one year from the date of the short levy or refund, and without prejudice to any other remedy for the recovery of the amount due, any dutiable goods belonging to that person which may be in customs control may be detained until the deficiency is paid or the refund is repaid, as the case may be:
 
-Provided that where the short levy or erroneous refund does not exceed $5 in any one case, the Director-General may waive the recovery of the short levy or erroneous refund.
+Provided that where the short levy or erroneous refund does not exceed $20 or such other amount as the Minister may by order prescribe in any one case, the Director-General may waive the recovery of the short levy or erroneous refund.
+
+[Act 23 of 1993 wef 10/08/1993]
 
 ### Calculation of duty
 
@@ -870,27 +918,41 @@ IMPORTATION AND EXPORTATION
 
 [29
 
-### Permits to remove
+### Permits to remove goods
 
-34\.—(1) No dutiable goods imported and no goods of a class dutiable on import intended for transhipment or in transit shall on arrival be removed from the ship on which they arrived or from the customs airport at which they arrived or from the Singapore Railway Station, or beyond the Customs Station at Woodlands, if imported by road, as the case may be, except under a permit in the form approved by the Director-General issued by the proper officer of customs and in accordance with the condition contained in such permit:
+34\.—(1) Subject to subsections (2) and (3), no dutiable goods imported and no goods of a class dutiable on import intended for transhipment or in transit shall on arrival be removed —
 
-Provided that no permit shall be required for the removal by an authority administering a free trade zone of any dutiable goods from a vessel direct into the free trade zone, if a full and correct inward manifest as required under section 39 has been furnished to the proper officer of customs.
+(a) from the vessel on which the goods arrived;
 
-(2) Notwithstanding subsection (1), no permit shall be required for the removal of —
+(b) from the customs airport at which the goods arrived;
 
-(a) dutiable goods (other than intoxicating liquors or tobacco) the duty on which does not exceed $300 in the possession or in the baggage of any person arriving in Singapore;
+(c) from the railway station at which the goods arrived;
 
-(b) an amount not exceeding 10 litres of intoxicating liquors and 2 kilogrammes of tobacco in the possession or in the baggage of any person arriving in Singapore;
+(d) beyond any customs station at Woodlands if the goods were brought into Singapore by road; or
 
-(c) petroleum carried in the supply tank or in a spare container of not more than 10 litres capacity of a motor vehicle or in the supply tanks of aircraft for use in the propulsion thereof; and
+(e) from the free trade zone in which the goods were deposited or landed,
 
-(d) dutiable goods imported by post unless so required by the proper officer of customs.
+except under and in accordance with the conditions contained in a permit issued by the proper officer of customs in such form as may be determined by the Director-General.
 
-(3) Notwithstanding subsection (1), an authority administering a free trade zone or any person authorised by the Director-General may, without a permit, remove goods of a class dutiable on import and intended for transhipment or in transit from an aircraft into the free trade zone in a customs airport to be transhipped from the free trade zone direct to another aircraft at the same airport.
+(2) No permit shall be required for the removal —
 
-[30
+(a) by an authority administering a free trade zone of any dutiable goods from a vessel directly into the free trade zone, if a full and correct inward manifest as required under section 39 has been furnished to the proper officer of customs;
 
-[24/81]
+(b) of dutiable goods (other than intoxicating liquors or tobacco) the duty on which does not exceed $300 or such other amount as the Minister may by order prescribe and which is in the possession or in the baggage of any person arriving in Singapore;
+
+(c) of an amount not exceeding 10 litres of intoxicating liquors and two kilogrammes of tobacco in the possession or in the baggage of any person arriving in Singapore;
+
+(d) of petroleum carried in the fuel supply tank or in a spare container of not more than 10 litres capacity of a motor vehicle or in the fuel supply tanks of aircraft for use in the propulsion thereof; and
+
+(e) of dutiable goods imported by post unless so required by the proper officer of customs.
+
+(3) The Director-General may, subject to such conditions as he may impose, authorise any person to remove, without a permit, goods of a class dutiable on import intended for transhipment or in transit —
+
+(a) from an aircraft into the free trade zone in a customs airport and to be transhipped from that free trade zone directly into another aircraft at the same airport; or
+
+(b) from the free trade zone to be transhipped directly to a vessel berthed at the same free trade zone.
+
+[Act 23 of 1993 wef 10/08/1993]
 
 ### Permit not used to be returned within 24 hours
 
@@ -904,11 +966,23 @@ Provided that no permit shall be required for the removal by an authority admini
 
 [32
 
-### Declaration and permit
+### Declaration
 
-37\. Every importer or exporter of dutiable goods and every person transhipping goods of a class dutiable on import shall, before removing any such goods or any part thereof from customs control, make personally or by his agent to the proper officer of customs a declaration substantially in the form approved by the Director-General of the goods imported or exported or to be transhipped.
+37\. Every importer or exporter of dutiable goods and every person transhipping goods of a class dutiable on import shall, before removing any such goods or any part thereof from customs control or from any of the following places (whether or not the goods are under customs control):
 
-[33
+(a) the vessel on which the goods arrived;
+
+(b) the customs airport at which the goods arrived;
+
+(c) the railway station at which the goods arrived;
+
+(d) any customs station at Woodlands if the goods were brought into Singapore by road; or
+
+(e) the free trade zone in which the goods were deposited or landed,
+
+make personally or by his agent to the proper officer of customs a declaration, in accordance with section 96, of the particulars of the goods imported or exported or to be transhipped.
+
+[Act 23 of 1993 wef 10/08/1993]
 
 ### Power to prohibit imports and exports
 
@@ -920,9 +994,11 @@ Provided that no permit shall be required for the removal by an authority admini
 
 ### Particulars of goods inwards to be furnished
 
-39\. The master, owner or agent of every vessel and the pilot, owner or agent of every aircraft arriving in Singapore, and the station-master at the railway station on the arrival of every train, shall, within 24 hours after the arrival of the vessel, aircraft or train, or within such further period as the Director-General may in his discretion allow, furnish to the proper officer of customs at the customs office designated by the Director-General —
+39\.—(1) The master, owner or agent of every vessel and the pilot, owner or agent of every aircraft arriving in Singapore, and the station-master at the railway station on the arrival of every train, shall, within 24 hours after the arrival of the vessel, aircraft or train, or within such further period as the Director-General may in his discretion allow, furnish to the proper officer of customs at the customs office designated by the Director-General —
 
-(a) a full and correct inward manifest, certified by the master, pilot, owner, agent or station-master, containing full particulars as to the quantities, marks and description of goods destined for Singapore;
+(a) a full and correct inward manifest, certified by the master, pilot, owner, agent or station-master, containing full particulars as to the quantities, marks and description of goods brought into Singapore;
+
+[Act 23 of 1993 wef 10/08/1993]
 
 (b) a full and correct statement of goods in transit discharged in Singapore; and
 
@@ -932,9 +1008,15 @@ Provided that no permit shall be required for the removal by an authority admini
 
 (ii) a correct list of sea, air or railway stores on board the vessel, aircraft or train.
 
+(2) The Director-General may, if he thinks fit and subject to such conditions as he may impose, permit the owner or agent of the vessel or aircraft or the station-master referred to in subsection (1) to authorise any other person to furnish on behalf of the owner, agent or station-master the whole or any part of any manifest or statement referred to in subsection (1).
+
+[Act 23 of 1993 wef 10/08/1993]
+
 ### Correction to be made on completion of discharge
 
-40\.—(1) Within one month of the arrival of a vessel, aircraft or train, the master, owner or agent of the vessel or the pilot, owner or agent of the aircraft or the station-master shall present to the proper officer of customs a certified amendment to the manifest required by section 39 due to short-shipment, short-landing, overlanding or any other cause.
+40\.—(1) Within one month of the arrival of a vessel, aircraft or train, the master, owner or agent of the vessel or the pilot, owner or agent of the aircraft or the station-master or the person authorised under section 39(2) shall present to the proper officer of customs a certified amendment to the manifest required by section 39 due to short-shipment, short-landing, overlanding or any other cause such other cause as the Minister may by order specify.
+
+[Act 23 of 1993 wef 10/08/1993]
 
 (2) If any dutiable goods are not accounted for to the satisfaction of a senior officer of customs —
 
@@ -952,13 +1034,33 @@ the master, owner or agent of the vessel or the pilot, owner or agent of the air
 
 ### Particulars of goods exported to be furnished
 
-41\. Within 48 hours of the departure of every ship, aircraft or train or within such further period as the Director-General may in his discretion allow, the owner or agent of the vessel or aircraft or the station-master of the railway station shall furnish to the proper officer of customs a full and correct outward manifest of all goods exported thereon, or which have been taken aboard the ship or aircraft as sea or air stores, and shall in like manner furnish a full and correct statement of all goods transhipped.
+41\.—(1) Within 48 hours of the departure of every vessel, aircraft or train or within such further period as the Director-General may in his discretion allow, the owner or agent of the vessel or aircraft or the station-master of the railway station shall furnish to the proper officer of customs a full and correct outward manifest of all goods exported thereon, or which have been taken aboard the vessel or aircraft as sea or air stores, and shall in like manner furnish a full and correct statement of all goods transhipped.
 
-[37
+(2) The Director-General may, if he thinks fit and subject to such conditions as he may impose, permit the owner, agent or station-master referred to in subsection (1) to authorise any other person to furnish on behalf of the owner, agent or station-master the whole or any part of —
 
-### Liability of master or agent of vessel in respect of goods unaccounted for
+(a) a full and correct outward manifest of all goods exported on the vessel, aircraft or train; and
 
-42\.—(1) All dutiable goods unshipped or landed in a free trade zone or approved landing place, or deposited in a transit warehouse, shall, until lawfully removed therefrom for export or entry into customs territory or until received for storage by the authority administering the free trade zone, be at the risk of the master, owner or agent of the vessel as if they had not been unshipped, and the master, owner or agent of the vessel shall be liable to pay the duty on such goods as are not accounted for to the satisfaction of a senior officer of customs.
+(b) a full and correct statement of all goods transhipped.
+
+(3) In addition to the furnishing of the outward manifest under subsection (1), the owner or agent of the vessel or aircraft or the station-master of the railway station shall, within 48 hours of the departure of the vessel, aircraft or train, furnish to the proper officer of customs a full and correct loadlist in the form approved by the Director-General and certified by such owner, agent or station-master to contain full particulars of all the dutiable goods which have been received for loading onto the vessel, aircraft or train.
+
+[Act 23 of 1993 wef 10/08/1993]
+
+### Liability in respect of duty for goods unaccounted for
+
+42\.—(1) All dutiable goods unshipped or landed in a free trade zone or approved landing place, or deposited in a transit warehouse, shall, until —
+
+(a) lawfully removed therefrom for export or entry into customs territory; or
+
+(b) received for storage by the authority administering the free trade zone or the occupier or operator of the premises in which the goods are stored within the zone,
+
+be at the risk of the master, owner or agent of the vessel or the pilot, owner or agent of the aircraft or any person authorised under section 39(2), as the case may be, as if those goods had not been unshipped; and the master, owner or agent of the vessel or the pilot, owner or agent of the aircraft or any person authorised under section 39(2) shall each be liable to pay the duty on such of the goods as are not accounted for to the satisfaction of a senior officer of customs as if those goods had been imported.
+
+[Act 23 of 1993 wef 10/08/1993]
+
+(1A) Notwithstanding the provisions of any written law to the contrary, where dutiable goods have been received for storage by the authority administering the free trade zone or the occupier or operator of the premises in which the goods are stored, as the case may be, the authority, occupier or operator shall be liable to pay the duty on such of the goods as are not accounted for to the satisfaction of a senior officer of customs as if those goods had been imported.
+
+[Act 23 of 1993 wef 10/08/1993]
 
 (2) For the purpose of subsection (1) and section 45 —
 
@@ -969,6 +1071,8 @@ the master, owner or agent of the vessel or the pilot, owner or agent of the air
 [38
 
 [24/81]
+
+[Act 23 of 1993 wef 10/08/1993]
 
 ## PART V
 
@@ -993,9 +1097,11 @@ AND VESSELS IN TERRITORIAL WATERS
 
 ### Missing goods deemed to have been illegally landed
 
-45\. If in any vessel, aircraft or train in Singapore the quantity of dutiable goods, or goods of a class dutiable on import intended for transhipment or in transit, entered in the manifest or other document of the vessel, aircraft or train, is found missing and the deficiency is not accounted for to the satisfaction of the proper officer of customs, then the master, owner or agent of the vessel, or the pilot, owner or agent of the aircraft, or the station-master of the railway station, shall, unless the contrary is proved, be deemed to have illegally removed those goods and landed them in Singapore, and shall, without prejudice to any proceedings under this Act, be liable to pay forthwith to the proper officer of customs the duty leviable on the goods found deficient or missing and the vessel, aircraft or train may be detained by the proper officer of customs until the customs duty has been paid.
+45\. If in any vessel, aircraft or train in Singapore the quantity of dutiable goods, or goods of a class dutiable on import intended for transhipment or in transit, entered in the manifest or other document of the vessel, aircraft or train, is found missing and the deficiency is not accounted for to the satisfaction of the proper officer of customs, then the master, owner or agent of the vessel, or the pilot, owner or agent of the aircraft, or the station-master of the railway station or any person authorised under section 39(2) or 41(2), shall, unless the contrary is proved, be deemed to have illegally removed those goods and landed them in Singapore, and shall, without prejudice to any proceedings under this Act, be liable to pay forthwith to the proper officer of customs the duty leviable on the goods found deficient or missing and the vessel, aircraft or train may be detained by the proper officer of customs until the customs duty has been paid.
 
 [41
+
+[Act 23 of 1993 wef 10/08/1993]
 
 ### Accommodation in vessel to be provided for proper officer of customs
 
@@ -1149,11 +1255,13 @@ Provided that if it is shown to the satisfaction of the Director-General that th
 
 ### Removal of dutiable goods from customs control
 
-59\. Every owner of goods warehoused under sections 50, 51, 52 and 60 shall, before removal of the goods or any part thereof from customs control, make personally or by his agent to the proper officer of customs a declaration substantially in the form approved by the Director-General of the goods to be removed:
+59\. Every owner of goods warehoused under sections 50, 51, 52 and 60 shall, before removal of the goods or any part thereof from customs control, make personally or by his agent to the proper officer of customs a declaration, in accordance with section 96, of the goods to be removed:
 
 Provided that goods deposited in a licensed factory warehouse or licensed warehouse may be removed therefrom without such prior declaration subject to such conditions as the Director-General may impose.
 
 [55
+
+[Act 23 of 1993 wef 10/08/1993]
 
 ### Landing of dutiable goods for transhipment
 
@@ -1343,9 +1451,11 @@ Provided that the Board shall not issue a retail liquor shop licence for premise
 
 ### Prohibition on licensee
 
-76\. No person licensed under this Part shall supply or permit to be supplied to any person on or from his licensed premises any intoxicating liquors in exchange for any article except such money as is. legal tender within Singapore.
+76\. No person licensed under this Part shall supply or permit to be supplied to any person on or from his licensed premises any intoxicating liquors in exchange for any article except such money as is. legal tender within Singapore or by such other means of payment as the Director-General may approve.
 
 [72
+
+[Act 23 of 1993 wef 10/08/1993]
 
 ### Unlicensed person not to exhibit sign
 
@@ -1405,9 +1515,11 @@ DRAWBACK
 
 ### Declaration by claimant
 
-80\. Every person claiming drawback on any goods reexported shall, personally or by his agent, make to a senior officer of customs a declaration, in duplicate, substantially in the form approved by the Director-General that the goods have actually been re-exported and have not been relanded and are not intended to be relanded at any place in Singapore.
+80\. Every person claiming drawback on any goods reexported shall, personally or by his agent, make to a senior officer of customs a declaration, in accordance with section 96, that the goods have actually been re-exported and have not been relanded and are not intended to be relanded at any place in Singapore.
 
 [76
+
+[Act 23 of 1993 wef 10/08/1993]
 
 ### Drawback on goods used in manufacture
 
@@ -1553,9 +1665,21 @@ MISCELLANEOUS PROVISIONS
 
 ### Service of notices
 
-92\. Every notice or document, required by this Act or by any regulation made thereunder to be served on any person, may be served personally upon the person or may be served by sending the notice or document to him by registered post at his usual or last known place of abode, and in the latter case shall be deemed to have been served on him at the time at which it would have been delivered to him in the ordinary course of the post.
+92\.—(1) Every notice or document required by this Act or by any order or regulations made thereunder to be served on any person may be served —
 
-[88
+(a) by delivering the notice or document to the person;
+
+(b) by sending the notice or document by registered post addressed to the person at his usual or last known place of residence or business; or
+
+(c) where the person is a body of persons or a company —
+
+(i) by delivering the notice or document to the secretary or other like officer of the body of persons or company at its registered office or principal place of business; or
+
+(ii) by sending the notice or document addressed to the body of persons or company at its registered office or principal place of business.
+
+(2) Any notice or document sent by registered post to any person in accordance with subsection (1) shall be deemed to be duly served on the person to whom the letter is addressed at the time when the letter would in the ordinary course of post be delivered and in proving service of such notice or document it shall be sufficient to prove that the envelope containing the notice or document was properly addressed, stamped and posted by registered post.
+
+[Act 23 of 1993 wef 10/08/1993]
 
 ### Baggage of passengers
 
@@ -1583,7 +1707,9 @@ MISCELLANEOUS PROVISIONS
 
 ### Declarations to give a full and true account
 
-96\.—(1) The declarations referred to in sections 37 and 59 shall give a full and true account of the particulars for which provision is made in the respective forms approved by the Director-General.
+96\.—(1) The declarations referred to in sections 37, 59 and 80 shall be made on such form as may be determined by the Director-General and shall give a full and true account of the particulars for which provision is made in the form.
+
+[Act 23 of 1993 wef 10/08/1993]
 
 (2) Every such declaration shall be in duplicate or in such other number of copies as the person to whom the declaration is required to be made may direct.
 
@@ -1639,15 +1765,25 @@ SEARCH, SEIZURE AND ARREST
 
 (b) goods liable to forfeiture under this Act or any regulations made thereunder;
 
-(c) goods as to which any offence under this Act or any regulations made thereunder has been committed; or
+(c) goods as to which any offence under this Act or any order or regulations made thereunder has been committed; or
+
+[Act 23 of 1993 wef 10/08/1993]
 
 (d) books, records, documents or other articles directly or indirectly relating to any transaction or dealing in any of the goods mentioned in this subsection,
 
 the Magistrate or the senior officer of customs may issue a warrant authorising any officer of customs, named therein, by day or by night and with or without assistance —
 
-(i) to enter the dwelling-house, shop or other building or place and there to search for and seize any goods reasonably suspected of being dutiable or uncustomed goods, or goods liable to forfeiture under this Act or any regulations made thereunder, or goods as to which any offence under this Act or any regulations made thereunder is suspected to have been committed, or any books, records, documents or other articles which may reasonably be believed to be directly or indirectly relating to any transaction or dealing in any of the goods mentioned in this subsection; and
+(i) to enter the dwelling-house, shop or other building or place and there to search for and seize any goods reasonably suspected of being dutiable or uncustomed goods, or goods liable to forfeiture under this Act or any order or regulations made thereunder, or goods as to which any offence under this Act or any order or regulations made thereunder is suspected to have been committed, or any books, records, documents or other articles which may reasonably be believed to be directly or indirectly relating to any transaction or dealing in any of the goods mentioned in this subsection;
 
-(ii) to arrest any person or persons being in such dwelling-house, shop, building or place, in whose possession the goods, books, records, documents or other articles may be found, or whom the officer may reasonably suspect to have concealed or deposited the goods, books, records, documents or other articles.
+[Act 23 of 1993 wef 10/08/1993]
+
+(ii) to arrest any person or persons being in such dwelling-house, shop, building or place, in whose possession the goods, books, records, documents or other articles may be found, or whom the officer may reasonably suspect to have concealed or deposited the goods, books, records, documents or other articles; and
+
+[Act 23 of 1993 wef 10/08/1993]
+
+(iii) to make copies of and take any reasonable steps to preserve any books, records, documents or other articles referred to in sub-paragraph (i).
+
+[Act 23 of 1993 wef 10/08/1993]
 
 (2) Such officer may if it is necessary to do so —
 
@@ -1675,7 +1811,9 @@ the Magistrate or the senior officer of customs may issue a warrant authorising 
 
 (b) goods liable to forfeiture under this Act or any regulations made thereunder;
 
-(c) goods as to which any offence under this Act or any regulations made thereunder has been committed; or
+(c) goods as to which any offence under this Act or any order or regulations made thereunder has been committed; or
+
+[Act 23 of 1993 wef 10/08/1993]
 
 (d) books, records, documents or other articles directly or indirectly relating to any transaction or dealing in any of the goods mentioned in this subsection,
 
@@ -1761,7 +1899,9 @@ Provided that —
 
 ### Seizure of goods the subject of an offence
 
-110\.—(1) All goods in respect of which there has been, or there is reasonable cause to suspect that there has been, committed any offence under this Act or any regulations made thereunder or any breach of the provisions of this Act or of any regulations made thereunder or of any restriction or condition subject to or upon which any licence or permit has been granted, together with any receptacle, package, vehicle, vessel not exceeding 200 tons net registered tonnage, or aircraft, in which the same may have been found or which has been used in connection with the offence or breach, and any books or documents which may reasonably be believed to have a bearing on the case may be seized by any officer of customs in any place either on land or in the territorial waters of Singapore.
+110\.—(1) All goods in respect of which there has been, or there is reasonable cause to suspect that there has been, committed any offence under this Act or any order or regulations made thereunder or any breach of the provisions of this Act or of any order or regulations made thereunder or of any restriction or condition subject to or upon which any licence or permit has been granted, together with any receptacle, package, vehicle, vessel not exceeding 200 tons net registered tonnage, or aircraft, in which the same may have been found or which has been used in connection with the offence or breach, and any books or documents which may reasonably be believed to have a bearing on the case may be seized by any officer of customs in any place either on land or in the territorial waters of Singapore.
+
+[Act 23 of 1993 wef 10/08/1993]
 
 (2) All such goods and such receptacles, packages, vehicles, vessels or aircraft shall, as soon as practicable, be delivered into the care of a proper officer of customs whose duty it is to receive the same.
 
@@ -1795,21 +1935,27 @@ Provided that the notice shall not be required to be given where the seizure is 
 
 112\.—(1) Any officer of customs may arrest without warrant —
 
-(a) any person found committing or attempting to commit, or employing or aiding any person to commit, or abetting the commission of, an offence under this Act or any regulations made thereunder;
+(a) any person found committing or attempting to commit, or employing or aiding any person to commit, or abetting the commission of, an offence under this Act or any order or regulations made thereunder;
+
+[Act 23 of 1993 wef 10/08/1993]
 
 (b) any person whom he may reasonably suspect to have in his possession any dutiable or uncustomed goods or any goods liable to seizure under this Act; or
 
-(c) any person against whom a reasonable suspicion exists that he has been guilty of an offence under this Act or any regulations made thereunder,
+(c) any person against whom a reasonable suspicion exists that he has been guilty of an offence under this Act or any order or regulations made thereunder,
 
 and may search or cause to be searched, any person so arrested:
 
 Provided that no woman shall be searched except by a woman.
 
+[Act 23 of 1993 wef 10/08/1993]
+
 (2) An officer of customs making an arrest without warrant shall, without unnecessary delay and subject to this section as to bail or previous release, take or send the person arrested before a Magistrate’s Court.
 
 (3) No officer of customs shall detain in custody a person arrested without a warrant for a longer period than under the circumstances of the case is reasonable.
 
-(4) Such period shall not exceed 24 hours exclusive of the time necessary for the journey from the place of arrest to the Magistrate’s Court.
+(4) Such period shall not exceed 48 hours exclusive of the time necessary for the journey from the place of arrest to the Magistrate’s Court.
+
+[Act 23 of 1993 wef 10/08/1993]
 
 (5) No person who has been arrested by an officer of customs shall be released except on his own bond or on bail or under the special order in writing of a Magistrate or a senior officer of customs.
 
@@ -1823,9 +1969,11 @@ PROVISIONS AS TO TRIALS AND PROCEEDINGS
 
 ### Who may prosecute
 
-113\. Prosecutions, in respect of offences committed under this Act or any regulations made thereunder, may be conducted by a senior officer of customs or any officer of customs specially authorised in writing in that behalf by the Director-General.
+113\. Prosecutions, in respect of offences committed under this Act or any order or regulations made thereunder, may be conducted by a senior officer of customs or any officer of customs specially authorised in writing in that behalf by the Director-General.
 
 [109
+
+[Act 23 of 1993 wef 10/08/1993]
 
 ### District or Magistrate’s Court to have full jurisdiction
 
@@ -1835,9 +1983,11 @@ PROVISIONS AS TO TRIALS AND PROCEEDINGS
 
 ### Burden of proof
 
-115\. If in any prosecutions in respect of any goods seized for non-payment of customs duties or for any other cause of forfeiture or for the recovery of any penalty or penalties under this Act, any dispute arises whether the customs duties have been paid in respect of those goods, or whether they have been lawfully imported or lawfully landed, or lawfully manufactured, or whether any goods are exempt from customs duty under section 13, or concerning the place from where those goods were brought, or whether drawback has been lawfully claimed, then and in every such case the burden of proof thereof shall lie on the defendant in such prosecution.
+115\. If in any prosecutions in respect of any goods seized for non-payment of customs duties or for any other cause of forfeiture or for the recovery of any penalty or penalties under this Act or any order or regulations made thereunder, any dispute arises whether the customs duties have been paid in respect of those goods, or whether they have been lawfully imported or lawfully landed, or lawfully manufactured, or whether any goods are exempt from customs duty under section 13, or concerning the place from where those goods were brought, or whether drawback has been lawfully claimed, then and in every such case the burden of proof thereof shall lie on the defendant in such prosecution.
 
 [111
+
+[Act 23 of 1993 wef 10/08/1993]
 
 ### Proportional examination or testing of goods seized to be accepted by courts
 
@@ -1853,7 +2003,9 @@ PROVISIONS AS TO TRIALS AND PROCEEDINGS
 
 ### Scientific Officer’s certificate
 
-118\.—(1) A certificate purporting to be signed by a Scientific Officer and purporting to be a report by him upon any matter or thing duly submitted to him for examination or analysis may be used as evidence in any proceedings for an offence under this Act on its production by the prosecution without proof of signature and shall be prima facie evidence of all matters contained therein.
+118\.—(1) A certificate purporting to be signed by a Scientific Officer and purporting to be a report by him upon any matter or thing duly submitted to him for examination or analysis may be used as evidence in any proceedings for an offence under this Act or any order or regulations made thereunder on its production by the prosecution without proof of signature and shall be prima facie evidence of all matters contained therein.
+
+[Act 23 of 1993 wef 10/08/1993]
 
 (2) Where the accused person desires to examine a Scientific Officer on his report he may require the court to summon that Scientific Officer to give evidence and the court shall thereupon summon that Scientific Officer as a witness for the prosecution.
 
@@ -1881,9 +2033,11 @@ with one additional month for every $100 after the first $200 of the fine until 
 
 (2) If any books, documents or papers which are in evidence or liable to inspection in any civil or criminal proceedings whatsoever contain any entry in which any informer is named or described or which might lead to his discovery, the court shall cause all such passages to be concealed from view or to be obliterated so far only as may be necessary to protect the informer from discovery.
 
-(3) If, on the trial for any offence under this Act or any regulations made thereunder, the court, after full inquiry into the case, believes that the informer wilfully made in his complaint a material statement which he knew or believed to be false or did not believe to be true, or if in any other proceedings the court is of opinion that justice cannot be fully done between the parties thereto without the discovery of the informer, it shall be lawful for the court to require the production of the original complaint, if in writing, and permit inquiry, and require full disclosure, concerning the informer.
+(3) If, on the trial for any offence under this Act or any order or regulations made thereunder, the court, after full inquiry into the case, believes that the informer wilfully made in his complaint a material statement which he knew or believed to be false or did not believe to be true, or if in any other proceedings the court is of opinion that justice cannot be fully done between the parties thereto without the discovery of the informer, it shall be lawful for the court to require the production of the original complaint, if in writing, and permit inquiry, and require full disclosure, concerning the informer.
 
 [117
+
+[Act 23 of 1993 wef 10/08/1993]
 
 ### Goods liable to seizure liable to forfeiture
 
@@ -1897,7 +2051,9 @@ with one additional month for every $100 after the first $200 of the fine until 
 
 123\.—(1) An order for the forfeiture or for the release of anything liable to forfeiture under the provisions of this Act shall be made by the Court before which the prosecution with regard thereto has been held.
 
-(2) An order for the forfeiture of goods shall be made if it is proved to the satisfaction of the court that an offence under this Act or any regulations made thereunder has been committed and that the goods were the subject-matter of, or were used in the commission of, the offence, notwithstanding that no person may have been convicted of the offence.
+(2) An order for the forfeiture of goods shall be made if it is proved to the satisfaction of the court that an offence under this Act or any order or regulations made thereunder has been committed and that the goods were the subject-matter of, or were used in the commission of, the offence, notwithstanding that no person may have been convicted of the offence.
+
+[Act 23 of 1993 wef 10/08/1993]
 
 (3) All goods forfeited shall be delivered to a proper officer of customs and shall be disposed of in accordance with the directions of the Director-General.
 
@@ -1925,11 +2081,15 @@ with one additional month for every $100 after the first $200 of the fine until 
 
 ### Compounding of offences
 
-126\.—(1) Any senior officer of customs may compound any offence which is prescribed to be a compoundable offence, by accepting from the person reasonably suspected of having committed the offence a sum of money not exceeding $2,000.
+126\.—(1) Any senior officer of customs may compound any offence which is prescribed to be a compoundable offence, by accepting from the person reasonably suspected of having committed the offence a sum of money not exceeding $5,000.
 
-(2) On payment of such sum of money the person reasonably suspected of having committed an offence, if in custody, shall be discharged, any properties seized shall be released and no further proceedings shall be taken against that person or property unless the property consists of goods the import of which is absolutely prohibited under section 38 or of goods the manufacture of which is prohibited except under licence in which case the goods shall be forfeited.
+[Act 23 of 1993 wef 10/08/1993]
+
+(2) On payment of such sum of money the person reasonably suspected of having committed an offence, if in custody, shall be discharged, any properties seized shall be released and no further proceedings shall be taken against that person or property unless the property consists of goods the import of which is absolutely prohibited under section 38 or of goods manufactured in Singapore without a licence in contravention of this Act or any order or regulations made thereunder in which case the goods shall be forfeited.
 
 [122
+
+[Act 23 of 1993 wef 10/08/1993]
 
 ### No costs or damages arising from seizure to be recoverable unless seizure without reasonable or probable cause
 
@@ -1945,17 +2105,25 @@ OFFENCES AND PENALTIES
 
 128\.—(1) Whoever —
 
-(a) makes, orally or in writing, or signs any declaration, certificate or other document required by this Act, which is untrue or incorrect in any particular or which is incomplete by omitting any material particular therefrom;
+(a) makes, orally or in writing, or signs any declaration, certificate or other document required by this Act or any order or regulations made thereunder, which is untrue or incorrect in any particular or which is incomplete by omitting any material particular therefrom;
+
+[Act 23 of 1993 wef 10/08/1993]
 
 (b) makes, orally or in writing, or signs any declaration or document, made for consideration of any officer of customs on any application presented to him, which is untrue or incorrect in any particular or which is incomplete by omitting any material particular therefrom;
 
-(c) counterfeits or falsifies, or uses, when counterfeited or falsified, any document which is or may be required under this Act or any document used in the transaction of any business or matter relating to customs;
+(c) counterfeits or falsifies, or uses, when counterfeited or falsified, any document which is or may be required under this Act or any order or regulations made thereunder or any document used in the transaction of any business or matter relating to customs;
 
-(d) being required by this Act to make a declaration of the value of dutiable goods imported into or manufactured in Singapore for the purpose of assessment of customs duty, fails to make the declaration as required or makes such declaration which is untrue or incorrect in any particular or which is incomplete by omitting any material particular therefrom;
+[Act 23 of 1993 wef 10/08/1993]
+
+(d) being required by this Act or any order or regulations made thereunder to make a declaration of the value of dutiable goods imported into or manufactured in Singapore for the purpose of assessment of customs duty, fails to make the declaration as required or makes such declaration which is untrue or incorrect in any particular or which is incomplete by omitting any material particular therefrom;
+
+[Act 23 of 1993 wef 10/08/1993]
 
 (e) fraudulently alters any document, or counterfeits the seal, signature, initials or other mark of, or used by, any officer of customs for the verification of any such document or for the security of any goods or any other purpose in the conduct of business relating to customs;
 
-(f) being required by this Act to make a declaration of dutiable goods imported, exported or transhipped, fails to make the declaration as required; or
+(f) being required by this Act or any order or regulations made thereunder to make a declaration of dutiable goods imported, exported or transhipped, fails to make the declaration as required; or
+
+[Act 23 of 1993 wef 10/08/1993]
 
 (g) fails or refuses to produce to a proper officer of customs any document required to be produced under section 90,
 
@@ -1963,11 +2131,17 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (2) When any such declaration, whether oral or written, or any such certificate or other document as is referred to in subsection (1)(a), (b), (c) and (d) has been proved to be untrue or incorrect or incomplete or counterfeited or falsified in whole or in part, it shall be no defence to allege that the declaration, certificate or other document was made or used inadvertently or without criminal or fraudulent intent, or that the person signing the same was not aware of, or did not understand the contents of, the document, or where any declaration was made or recorded in English by interpretation from any other language, that the declaration was misinterpreted or not fully interpreted by any interpreter provided by the declarant.
 
+(3) When a failure to make a declaration as referred to in subsection (1)(f) has been proved, it shall be no defence to allege that the failure was inadvertent or without criminal or fraudulent intent or that it was not known that such a declaration is required to be made.
+
 [124
+
+[Act 23 of 1993 wef 10/08/1993]
 
 ### Penalty on refusing to answer questions or on giving false information
 
-129\.—(1) Whoever, being required by this Act to answer any question put to him by any proper officer of customs, or to give any information which may reasonably be required of him by the officer and which it is in his power to give, refuses to answer the question or does not truly answer the question or refuses to give such information or furnishes as true information which he knows or has reason to believe to be false, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
+129\.—(1) Whoever, being required by this Act to answer any question put to him by any proper officer of customs, or to give any information which may reasonably be required of him by the officer and which it is in his power to give, refuses to answer the question or does not truly answer the question or refuses to give such information or furnishes as true information which he knows or has reason to believe to be false, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[Act 23 of 1993 wef 10/08/1993]
 
 (2) When any such answer or any such information is proved to be untrue or incorrect in whole or in part, it shall be no defence to allege that such answer or such information or any part thereof was made or furnished inadvertently or without criminal or fraudulent intent, or was misinterpreted or not fully interpreted by an interpreter provided by the informant.
 
@@ -1985,7 +2159,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (c) stores, keeps or has in his possession any dutiable or prohibited goods except under customs control, or stores, keeps or has in his possession any uncustomed goods;
 
-(d) is in any way concerned in conveying, removing, depositing or dealing with any dutiable, uncustomed or prohibited goods with intent to defraud the Government of any customs duties thereon, or to evade any of the provisions of this Act;
+(d) is in any way concerned in conveying, removing, depositing or dealing with any dutiable, uncustomed or prohibited goods with intent to defraud the Government of any customs duties thereon, or to evade any of the provisions of this Act or any order or regulations made thereunder;
+
+[Act 23 of 1993 wef 10/08/1993]
 
 (e) being a passenger or other person, is found to have any dutiable or prohibited goods in his baggage or upon his person or otherwise in his possession, after having denied that he has any dutiable or prohibited goods in his baggage or upon his person or otherwise in his possession;
 
@@ -1997,7 +2173,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (i) knowingly harbours or conceals or permits, suffers, causes, or procures to be harboured or concealed any dutiable, uncustomed or prohibited goods; or
 
-(j) being a tourist, sells, exchanges or gives away, or offers to sell, exchange or give away to any person in Singapore, goods which he has purchased free of duty in Singapore,
+(j) sells, exchanges or gives away or offers to sell, exchange or give away to any person in Singapore, goods which are his duty-free allowances in Singapore,
 
 shall for any such offence be liable —
 
@@ -2006,6 +2182,8 @@ shall for any such offence be liable —
 Provided that when the amount of customs duty cannot be ascertained the penalty may amount to a fine not exceeding $5,000; and
 
 (ii) on the second or subsequent conviction to such fine or to imprisonment for a term not exceeding 2 years or to both.
+
+[Act 23 of 1993 wef 10/08/1993]
 
 (2) In any prosecution against a person for committing, attempting or abetting an offence under this section, any dutiable, uncustomed or prohibited goods shall be deemed to be dutiable, uncustomed or prohibited goods to the knowledge of the defendant unless the contrary is proved by the defendant.
 
@@ -2063,15 +2241,19 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [132
 
-### Motor vehicle leaving Singapore without more than half a tank of motor spirit
+### Motor vehicle leaving Singapore without prescribed amount of motor spirit
 
-136A\.—(1) Except with the written permission of the Director-General, any person, being in charge of a motor vehicle registered under the Road Traffic Act (Cap. 276), who leaves or attempts to leave Singapore in that motor vehicle without such minimum amount of motor spirit in its fuel supply tank as the Minister may by order prescribe shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500.
+136A\.—(1) Except with the written permission of the Director-General, any person, being in charge of a motor vehicle registered under the Road Traffic Act (Cap. 276), who leaves or attempts to leave Singapore in that motor vehicle or with that motor vehicle in a vessel without such minimum amount of motor spirit in its fuel supply tank as the Minister may by order prescribe shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500.
 
 [Act 12 of 1991 wef 04/02/1991]
 
+[Act 23 of 1993 wef 10/08/1993]
+
 (2) For the purposes of subsection (1) —
 
-(a) where a motor vehicle is driven past the Customs gantry before the departure bay of the Immigration Checkpoint at Woodlands, the person in charge of that motor vehicle shall be presumed, until the contrary is proved, to have attempted to leave Singapore in that motor vehicle;
+(a) where a motor vehicle is driven past the Customs gantry before the departure bay of the Immigration Checkpoint at Woodlands, Changi Ferry Terminal or any other prescribed place, the person in charge of that motor vehicle shall be presumed, until the contrary is proved, to have attempted to leave Singapore in that motor vehicle or with that motor vehicle in a vessel, as the case may be;
+
+[Act 23 of 1993 wef 10/08/1993]
 
 (b) where a motor vehicle is fitted with an instrument or gauge which indicates or measures the amount of motor spirit in its fuel supply tank, the indication or measurement on that instrument or gauge shall until the contrary is proved be evidence of the amount of motor spirit in the fuel supply tank of that motor vehicle;
 
@@ -2083,7 +2265,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 137\. Every person who —
 
-(a) assaults, abuses or obstructs any officer of customs or other public servant or any person acting in his aid or assistance, or duly employed for the prevention of offences under this Act in the execution of his duty or in the due seizing of any goods liable to seizure under this Act;
+(a) assaults, abuses or obstructs any officer of customs or other public servant or any person acting in his aid or assistance, or duly employed for the prevention of offences under this Act in the execution of his duty or in the due seizing of any goods liable to seizure under this Act or any order or regulations made thereunder;
+
+[Act 23 of 1993 wef 10/08/1993]
 
 (b) rescues or endeavours to rescue, or causes to be rescued, anything which has been duly seized; or
 
@@ -2117,23 +2301,31 @@ every such officer or person so offending shall be guilty of an offence and shal
 
 ### Penalty for offences not otherwise provided for
 
-139\. Every omission or neglect to comply with, and every act done or attempted to be done contrary to, the provisions of this Act, or any breach of the conditions and restrictions subject to, or upon which, any licence or permit is issued under this Act, shall be an offence and in respect of any such offence for which no penalty is expressly provided the offender shall be liable to a fine not exceeding $3,000.
+139\. Every omission or neglect to comply with, and every act done or attempted to be done contrary to, the provisions of this Act, or any breach of the conditions and restrictions subject to, or upon which, any licence or permit is issued under this Act, shall be an offence and in respect of any such offence for which no penalty is expressly provided the offender shall be liable to a fine not exceeding $5,000.
 
 [135
 
+[Act 23 of 1993 wef 10/08/1993]
+
 ### Attempts and abetments
 
-140\. Whoever attempts to commit any offence punishable under this Act, or abets the commission of the offence, shall be punished with the punishment provided for the offence.
+140\. Whoever attempts to commit any offence punishable under this Act or any order or regulations made thereunder, or abets the commission of the offence, shall be punished with the punishment provided for the offence.
 
 [136
 
+[Act 23 of 1993 wef 10/08/1993]
+
 ### Offences by bodies of persons and by agents and employees
 
-141\.—(1) Where an offence under this Act or any regulations made thereunder has been committed by a company, firm, society or other body of persons, any person who at the time of the commission of the offence was a director, manager, secretary or other similar officer or a partner of the company, firm, society or other body of persons or was purporting to act in that capacity shall be deemed to be guilty of that offence unless he proves that the offence was committed without his consent or connivance and that he exercised all such diligence to prevent the commission of the offence as he ought to have exercised, having regard to the nature of his functions in that capacity and to all the circumstances.
+141\.—(1) Where an offence under this Act or any order or regulations made thereunder has been committed by a company, firm, society or other body of persons, any person who at the time of the commission of the offence was a director, manager, secretary or other similar officer or a partner of the company, firm, society or other body of persons or was purporting to act in that capacity shall be deemed to be guilty of that offence unless he proves that the offence was committed without his consent or connivance and that he exercised all such diligence to prevent the commission of the offence as he ought to have exercised, having regard to the nature of his functions in that capacity and to all the circumstances.
 
-(2) Where any person would be liable under this Act to any punishment, penalty or forfeiture for any act, omission, neglect or default he shall be liable to the same punishment, penalty or forfeiture for every such act, omission, neglect or default of any agent or employee, or of the employee of the agent provided that the act, omission, neglect or default was committed by the employee in the course of his employment or by the agent when acting on behalf of the person or by the employee of the agent when acting in the course of his employment in such circumstances that had the act, omission, neglect or default been committed by the agent his principal would have been liable under this section.
+[Act 23 of 1993 wef 10/08/1993]
+
+(2) Where any person would be liable under this Act or any order or regulations made thereunder to any punishment, penalty or forfeiture for any act, omission, neglect or default he shall be liable to the same punishment, penalty or forfeiture for every such act, omission, neglect or default of any agent or employee, or of the employee of the agent provided that the act, omission, neglect or default was committed by the employee in the course of his employment or by the agent when acting on behalf of the person or by the employee of the agent when acting in the course of his employment in such circumstances that had the act, omission, neglect or default been committed by the agent his principal would have been liable under this section.
 
 [137
+
+[Act 23 of 1993 wef 10/08/1993]
 
 ### Action of officers no offence
 
@@ -2150,6 +2342,10 @@ REGULATIONS
 143\.—(1) The Minister may make regulations —
 
 (i) to regulate the powers and duties to be exercised and performed by officers of customs;
+
+(ia) to provide for the ranks, uniforms, insignias or badges of rank, accoutrements and equipment of officers of customs;
+
+[Act 23 of 1993 wef 10/08/1993]
 
 (ii) to regulate the conduct of all matters relating to the collection of duties and taxes under this Act;
 
@@ -2304,3 +2500,8 @@ This Legislative History is provided for the convenience of users of the Customs
 |||(Bill No. 10/92 published on 28 February 1992)|
 ||Date of Second and Third Readings|19 March 1992|
 ||Date of commencement|1 May 1992|
+|21.|**Act 23 of 1993—Customs (Amendment) Act 1993**|
+||Date of First Reading|28 May 1993|
+|||(Bill No. 20/93 published on 29 May 1993)|
+||Date of Second and Third Readings|30 July 1993|
+||Date of commencement|10 August 1993|
