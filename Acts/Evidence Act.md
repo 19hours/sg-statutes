@@ -252,7 +252,7 @@
 
 - [101 Who may give evidence of agreement varying terms of document](#Who-may-give-evidence-of-agreement-varying-terms-of-document)
 
-- [102 Construction of wills to be governed by English law](#Construction-of-wills-to-be-governed-by-English-law)
+- [102 Construction of wills](#Construction-of-wills)
 
 [**Part III PRODUCTION AND EFFECT OF EVIDENCE**](#Part-III)
 
@@ -428,7 +428,7 @@
 
 REVISED EDITION 1990
 
-(15th March 1990)
+(25th March 1992)
 
 An Act relating to the law of evidence.
 
@@ -1676,53 +1676,37 @@ Facts which need not be proved
 
 59\.—(1) The court shall take judicial notice of the following facts:
 
-(a) all laws or rules having the force of law now or heretofore in force or hereafter to be in force in Singapore, including all Acts passed or hereafter to be passed by Parliament;
+(a) all laws or rules having the force of law now or heretofore in force orhereafter to be in force in Singapore, including all Acts passed or hereafterto be passed by Parliament;
 
-(b) all Acts passed or hereafter to be passed by the Parliament of Malaysia or the Parliament of the United Kingdom;
+(b) all Acts passed or hereafter to be passed by the legislature of any territory within the Commonwealth;
 
-(c) articles of war for the armed forces of Singapore or any visiting forces lawfully present in Singapore;
+(c) articles of war for the armed forces of Singapore or any visiting forceslawfully present in Singapore;
 
-(d) the course of proceedings of Parliament and of the Parliament of Malaysia or the legislature of any State thereof and of the Parliament of the United Kingdom;
+(d) the course of proceedings of Parliament and of the legislature of any territory within the Commonwealth;
 
-Explanations1.—The “Parliament of the United Kingdom” in paragraphs (b) and (d) means —
+(e) the election of the President and the appointment of any person to exercisethe functions of the President;
 
-(a) the Parliament of the United Kingdom of Great Britain and Northern Ireland;
+(f) all seals of which English courts take judicial notice, the seals of allthe courts in Singapore, the seals of notaries public, and all seals which any person isauthorised to use by any law in force for the time being in Singapore;
 
-(b) the Parliament of the United Kingdom of Great Britain and Ireland;
+(g) the appointment, accession to office, names, titles, functions andsignatures of the persons filling for the time being any public office inSingapore, if the fact of their appointment to such office is notified in theGazette;
 
-(c) the Parliament of Northern Ireland;
+(h) the existence, title and national flag of every State or Sovereignrecognised by the Government;
 
-(d) the Parliament of Great Britain;
-
-(e) the Parliament of England;
-
-(f) the Parliament of Scotland; and
-
-(g) the Parliament of Ireland prior to 1st January 1801.
-
-(e) the election of the President and the appointment of any person to exercise the functions of the President;
-
-(f) all seals of which English courts take judicial notice, the seals of all the courts in Singapore, the seals of courts of admiralty and maritime jurisdiction and of notaries public, and all seals which any person is authorised to use by any law in force for the time being in Singapore;
-
-(g) the appointment, accession to office, names, titles, functions and signatures of the persons filling for the time being any public office in Singapore, if the fact of their appointment to such office is notified in theGazette;
-
-(h) the existence, title and national flag of every State or Sovereign recognised by the Government;
-
-(i) the ordinary course of nature, natural and artificial divisions of time, the geographical divisions of the world, the meaning of English words, and public festivals, fasts and holidays notified in theGazette;
+(i) the ordinary course of nature, natural and artificial divisions of time,the geographical divisions of the world, the meaning of English words, andpublic festivals, fasts and holidays notified in theGazette;
 
 (j) the territories in the Commonwealth;
 
-(k) the commencement, continuance and termination of hostilities between Singapore or any other part of the Commonwealth and any other country or body of persons;
+(k) the commencement, continuance and termination of hostilities betweenSingapore or any other part of the Commonwealth and any other country or bodyof persons;
 
-(l) the names of the members and officers of the court and of their deputies and subordinate officers and assistants, and also of all officers acting in execution of its process, and of all advocates and solicitors and other persons authorised by law to appear or act before it;
+(l) the names of the members and officers of the court and of their deputiesand subordinate officers and assistants, and also of all officers acting inexecution of its process, and of all advocates and solicitors and otherpersons authorised by law to appear or act before it;
 
 (m) the rule of the road on land or at sea;
 
 (n) all other matters which it is directed by any written law to notice.
 
-(2) In all these cases, and also on all matters of public history, literature, science or art, the court may resort for its aid to appropriate books or documents of reference.
+(2) In all these cases, and also on all matters of public history, literature,science or art, the court may resort for its aid to appropriate books ordocuments of reference.
 
-(3) If the court is called upon by any person to take judicial notice of any fact, it may refuse to do so unless such person produces any such book or document as it considers necessary to enable it to do so.
+(3) If the court is called upon by any person to take judicial notice of anyfact, it may refuse to do so unless such person produces any such book ordocument as it considers necessary to enable it to do so.
 
 ### Facts admitted need not be proved
 
@@ -1822,17 +1806,17 @@ Documentary evidence
 
 ### Primary evidence
 
-64\. Primary evidence means the document itself produced for the inspection of the court.
+64\. Primary evidence means the document itself produced for the inspection ofthe court.
 
-Explanation1.—Where a document is executed in several parts, each part is primary evidence of the document.
+Explanation1.—Where a document is executed in several parts, each part is primaryevidence of the document.
 
-Explanation—Where a document is executed in counterpart, each counterpart being executed by one or some of the parties only, each counterpart is primary evidence as against the parties executing it.
+Explanation—Where a document is executed in counterpart, each counterpart beingexecuted by one or some of the parties only, each counterpart is primaryevidence as against the parties executing it.
 
-Explanation2.—Where a number of documents are all made by one uniform process, as in the case of printing, lithography or photography, each is primary evidence of the contents of the rest; but where they are all copies of a common original they are not primary evidence of the contents of the original.
+Explanation2.—Where a number of documents are all made by one uniform process, as in thecase of printing, lithography or photography, each is primary evidence of thecontents of the rest; but where they are all copies of a common original theyare not primary evidence of the contents of the original.
 
 Illustrations
 
-A person is shown to have been in possession of a number of placards, all printed at one time from one original. Any one of the placards is primary evidence of the contents of any other, but no one of them is primary evidence of the contents of the original.
+A person is shown to have been in possession of a number of placards, allprinted at one time from one original. Any one of the placards is primaryevidence of the contents of any other, but no one of them is primary evidenceof the contents of the original.
 
 ### Secondary evidence
 
@@ -2222,27 +2206,27 @@ Oral evidence is offered of the payment. The evidence is admissible.
 
 ### Exclusion of evidence of oral agreement
 
-94\. When the terms of any such contract, grant or other disposition of property, or any matter required by law to be reduced to the form of a document, have been proved according to section 93, no evidence of any oral agreement or statement shall be admitted as between the parties to any such instrument or their representatives in interest for the purpose of contradicting, varying, adding to, or subtracting from its terms:
+94\. When the terms of any such contract, grant or other disposition ofproperty, or any matter required by law to be reduced to the form of adocument, have been proved according to section 93, no evidence of any oralagreement or statement shall be admitted as between the parties to any suchinstrument or their representatives in interest for the purpose ofcontradicting, varying, adding to, or subtracting from its terms:
 
 Provided that —
 
-(a) any fact may be proved which would invalidate any document or which would entitle any person to any decree or order relating thereto; such as fraud, intimidation, illegality, want of due execution, want of capacity in any contracting party, the fact that it is wrongly dated, want or failure of consideration, or mistake in fact or law;
+(a) any fact may be proved which would invalidate any document or which wouldentitle any person to any decree or order relating thereto; such as fraud,intimidation, illegality, want of due execution, want of capacity in anycontracting party, the fact that it is wrongly dated, want or failure ofconsideration, or mistake in fact or law;
 
-(b) the existence of any separate oral agreement, as to any matter on which a document is silent and which is not inconsistent with its terms, may be proved; in considering whether or not this proviso applies, the court shall have regard to the degree of formality of the document;
+(b) the existence of any separate oral agreement, as to any matter on which adocument is silent and which is not inconsistent with its terms, may beproved; in considering whether or not this proviso applies, the court shallhave regard to the degree of formality of the document;
 
-(c) the existence of any separate oral agreement constituting a condition precedent to the attaching of any obligation under any such contract, grant or disposition of property, may be proved;
+(c) the existence of any separate oral agreement constituting a conditionprecedent to the attaching of any obligation under any such contract, grant ordisposition of property, may be proved;
 
-(d) the existence of any distinct subsequent oral agreement, to rescind or modify any such contract, grant or disposition of property, may be proved except in cases in which such contract, grant or disposition of property is bylaw required to be in writing, or has been registered according to the law in force for the time being as to the registration of documents;
+(d) the existence of any distinct subsequent oral agreement, to rescind ormodify any such contract, grant or disposition of property, may be provedexcept in cases in which such contract, grant or disposition of property is bylaw required to be in writing, or has been registered according to the law inforce for the time being as to the registration of documents;
 
-(e) any usage or custom by which incidents not expressly mentioned in any contract are usually annexed to contracts of that description may be proved; provided that the annexing of such incident would not be repugnant to or inconsistent with the express terms of the contract;
+(e) any usage or custom by which incidents not expressly mentioned in anycontract are usually annexed to contracts of that description may be proved;provided that the annexing of such incident would not be repugnant to orinconsistent with the express terms of the contract;
 
-(f) any fact may be proved which shows in what manner the language of a document is related to existing facts.
+(f) any fact may be proved which shows in what manner the language of adocument is related to existing facts.
 
 Illustrations
 
 (a)
 
-A policy of insurance is effected on goods “in ships from Singapore to London”. The goods are shipped in a particular ship, which is lost. The fact that that particular ship was orally excepted from the policy cannot be proved.
+A policy of insurance is effected on goods“in ships from Singapore to London”. The goods are shipped in a particular ship, which is lost. The fact that that particular ship was orally excepted from the policy cannot be proved.
 
 (b)
 
@@ -2270,7 +2254,7 @@ AsellsBa horse and verbally warrants him sound.AgivesBa paper in these words: �
 
 (h)
 
-Ahires lodgings ofBand givesBa card on which is written: “Rooms $80 a month.” A may prove a verbal agreement that these terms were to include partial board.
+Ahires lodgings ofBand givesBa card on which is written: “Rooms $80 a month.”Amay prove a verbal agreement that theseterms were to include partial board.
 
 Ahires lodgings ofBfor a year, and a regularly stamped agreement drawn up by an attorney is made between them. It is silent on the subject of board.Amay not prove that board was included in the terms verbally.
 
@@ -2354,9 +2338,9 @@ Illustrations
 
 AandBmake a contract in writing thatBshall sellAcertain tin to be paid foron delivery. At the same time they make an oral agreement that 3 months’credit shall be given toA. This could not be shown asbetweenAandB, but it might be shown byCif it affected his interests.
 
-### Construction of wills to be governed by English law
+### Construction of wills
 
-102\. Nothing in sections 93 to 101 shall affect the construction of wills, but they shall be construed according to the rules of construction which would be applicable thereto if they were being construed in a court of justice in England.
+102\. Nothing in sections 93 to 101 shall affect the construction of wills.
 
 ## PART III
 
@@ -2674,7 +2658,7 @@ Ais accused of attempting to murder a police officer whilst on his trial beforeB
 
 ### Evidence as to affairs of State
 
-125\. No one shall be permitted to produce any unpublished official records relating to affairs of State, or to give any evidence delivered therefrom, except with the permission of the officer at the head of the Department concerned, who shall give or withhold such permission as he thinks fit, subject, however, to the control of the President.
+125\. No one shall be permitted to produce any unpublished official recordsrelating to affairs of State, or to give any evidence delivered therefrom,except with the permission of the officer at the head of the Departmentconcerned, who shall give or withhold such permission as he thinks fit,subject, however, to the control of the Minister.
 
 ### Official communications
 
@@ -3427,3 +3411,9 @@ This Legislative History is provided for the convenience of users of the Evidenc
 |||(Bill No. 39/95 published on 2 November 1995)|
 ||Date of Second and Third Readings|5 December 1995|
 ||Date of commencement|1 April 1996|
+|24.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
+||Date of First Reading|11 July 1997|
+|||(Bill No. 6/97 published on 12 July 1997)|
+||Date of Second and Third Readings|25 August 1997|
+||Date of commencement|1 October 1997|
+|||(except section 3)|
