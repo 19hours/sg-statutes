@@ -1,24 +1,22 @@
-**Copyright Act 1987**
+**Copyright Act**
 
-**(No. 2 of 1987)**
+**(CHAPTER 63)**
 
 **Table of Contents**
 
 [**Long Title**](#Copyright-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Application](#Application)
 
-- [3 Application to the Government](#Application-to-the-Government)
+- [3 Application to Government](#Application-to-Government)
 
 - [4 Copyright not to subsist except by virtue of this Act](#Copyright-not-to-subsist-except-by-virtue-of-this-Act)
 
-- [5 Savings of rights of the Government, etc](#Savings-of-rights-of-the-Government-etc)
+- [5 Savings of rights of Government, etc.](#Savings-of-rights-of-Government-etc)
 
 - [6 Operation of other laws](#Operation-of-other-laws)
 
@@ -56,7 +54,7 @@
 
 - [22 Performance](#Performance)
 
-- [23 Performance of works or other subject-matter by students, etc](#Performance-of-works-or-other-subject-matter-by-students-etc)
+- [23 Performance of works or other subject-matter by students, etc.](#Performance-of-works-or-other-subject-matter-by-students-etc)
 
 - [24 Publication](#Publication)
 
@@ -94,7 +92,7 @@
 
 - [37 Fair dealing for purpose of reporting current events](#Fair-dealing-for-purpose-of-reporting-current-events)
 
-- [38 Reproduction for purpose of judicial proceedings or professional advice](#Reproduction-for-purpose-of-judicial-proceedings-or-professional-advice)
+- [38 Reproduction for purposes of judicial proceedings or professional advice](#Reproduction-for-purposes-of-judicial-proceedings-or-professional-advice)
 
 - [39 Back-up copy of computer program](#Back-up-copy-of-computer-program)
 
@@ -132,7 +130,7 @@
 
 - [53 Application of Division to illustrations accompanying articles and other works](#Application-of-Division-to-illustrations-accompanying-articles-and-other-works)
 
-[**Division 7  Copying of Works in Institution Assisting Handicapped Readers**](#Division-7--Copying-of-Works-in-Institution-Assisting-Handicapped-Readers)
+[**Division 7  Copying of Works in Institutions Assisting Handicapped Readers**](#Division-7--Copying-of-Works-in-Institutions-Assisting-Handicapped-Readers)
 
 - [54 Multiple copying under statutory licence by institutions assisting handicapped readers](#Multiple-copying-under-statutory-licence-by-institutions-assisting-handicapped-readers)
 
@@ -202,7 +200,7 @@
 
 - [81 Interpretation](#Interpretation)
 
-[**Division 2  Nature of Copyright in Subject-Matter other than Works**](#Division-2--Nature-of-Copyright-in-Subject-Matter-other-than-Works)
+[**Division 2  Nature of Copyright in Subject-matter other than Works**](#Division-2--Nature-of-Copyright-in-Subject-matter-other-than-Works)
 
 - [82 Nature of copyright in sound recordings](#Nature-of-copyright-in-sound-recordings)
 
@@ -214,7 +212,7 @@
 
 - [86 Nature of copyright in published editions of works](#Nature-of-copyright-in-published-editions-of-works)
 
-[**Division 3  Subject-Matter, other than Works, in which Copyright subsists**](#Division-3--Subject-Matter-other-than-Works-in-which-Copyright-subsists)
+[**Division 3  Subject-matter, other than Works, in which Copyright subsists**](#Division-3--Subject-matter-other-than-Works-in-which-Copyright-subsists)
 
 - [87 Sound recordings in which copyright subsists](#Sound-recordings-in-which-copyright-subsists)
 
@@ -226,7 +224,7 @@
 
 - [91 Published editions of works in which copyright subsists](#Published-editions-of-works-in-which-copyright-subsists)
 
-[**Division 4  Duration of Copyright in Subject-Matter other than Works**](#Division-4--Duration-of-Copyright-in-Subject-Matter-other-than-Works)
+[**Division 4  Duration of Copyright in Subject-matter other than Works**](#Division-4--Duration-of-Copyright-in-Subject-matter-other-than-Works)
 
 - [92 Duration of copyright in sound recordings](#Duration-of-copyright-in-sound-recordings)
 
@@ -238,7 +236,7 @@
 
 - [96 Duration of copyright in published editions of works](#Duration-of-copyright-in-published-editions-of-works)
 
-[**Division 5  Ownership of Copyright in Subject-Matter other than Works**](#Division-5--Ownership-of-Copyright-in-Subject-Matter-other-than-Works)
+[**Division 5  Ownership of Copyright in Subject-matter other than Works**](#Division-5--Ownership-of-Copyright-in-Subject-matter-other-than-Works)
 
 - [97 Ownership of copyright in sound recordings](#Ownership-of-copyright-in-sound-recordings)
 
@@ -250,7 +248,7 @@
 
 - [101 Ownership of copyright in published editions of works](#Ownership-of-copyright-in-published-editions-of-works)
 
-[**Division 6  Infringement of Copyright in Subject-Matter other than Works**](#Division-6--Infringement-of-Copyright-in-Subject-Matter-other-than-Works)
+[**Division 6  Infringement of Copyright in Subject-matter other than Works**](#Division-6--Infringement-of-Copyright-in-Subject-matter-other-than-Works)
 
 - [102 Interpretation](#Interpretation)
 
@@ -360,11 +358,11 @@
 
 - [146 Licence for domestic broadcasting organisation](#Licence-for-domestic-broadcasting-organisation)
 
-- [147 Termination of licences issued under this Part](#Termination-of-licences-issued-under-this-Part)
+- [147 Termination of licences granted under this Part](#Termination-of-licences-granted-under-this-Part)
 
 - [148 Discontinuation of this Part](#Discontinuation-of-this-Part)
 
-[**Part VII THE COPYRIGHT TRIBUNAL**](#Part-VII)
+[**Part VII COPYRIGHT TRIBUNAL**](#Part-VII)
 
 [**Division 1  Preliminary**](#Division-1--Preliminary)
 
@@ -372,13 +370,13 @@
 
 - [150 Cases to which licence schemes apply](#Cases-to-which-licence-schemes-apply)
 
-[**Division 2  Constitution of the Tribunal**](#Division-2--Constitution-of-the-Tribunal)
+[**Division 2  Constitution of Tribunal**](#Division-2--Constitution-of-Tribunal)
 
 - [151 Establishment of Tribunal](#Establishment-of-Tribunal)
 
 - [152 Tenure of office](#Tenure-of-office)
 
-- [153 Minister may appoint any person to act for absent member, etc](#Minister-may-appoint-any-person-to-act-for-absent-member-etc)
+- [153 Minister may appoint any person to act for absent member, etc.](#Minister-may-appoint-any-person-to-act-for-absent-member-etc)
 
 - [154 Quorum](#Quorum)
 
@@ -386,7 +384,7 @@
 
 - [156 Sittings of Tribunal](#Sittings-of-Tribunal)
 
-[**Division 3  Inquiries by, and Applications and References to, the Tribunal**](#Division-3--Inquiries-by-and-Applications-and-References-to-the-Tribunal)
+[**Division 3  Inquiries by, and Applications and References to, Tribunal**](#Division-3--Inquiries-by-and-Applications-and-References-to-Tribunal)
 
 - [157 Inquiries into royalty payable in respect of records of musical works](#Inquiries-into-royalty-payable-in-respect-of-records-of-musical-works)
 
@@ -412,7 +410,7 @@
 
 - [168 Interim orders](#Interim-orders)
 
-- [169 Reference of questions of law to the High Court](#Reference-of-questions-of-law-to-the-High-Court)
+- [169 Reference of questions of law to High Court](#Reference-of-questions-of-law-to-High-Court)
 
 - [170 Agreements or awards not affected](#Agreements-or-awards-not-affected)
 
@@ -438,17 +436,17 @@
 
 - [179 Protection of members and witnesses](#Protection-of-members-and-witnesses)
 
-- [180 Disobedience to summons, etc](#Disobedience-to-summons-etc)
+- [180 Disobedience to summons, etc.](#Disobedience-to-summons-etc)
 
-- [181 Contempt of Tribunal, etc](#Contempt-of-Tribunal-etc)
+- [181 Contempt of Tribunal, etc.](#Contempt-of-Tribunal-etc)
 
-- [182 Cost of Proceedings](#Cost-of-Proceedings)
+- [182 Cost of proceedings](#Cost-of-proceedings)
 
 - [183 Proof of orders of Tribunal](#Proof-of-orders-of-Tribunal)
 
-[**Part VIII EXTENSION OR RESTRICTION OF ACT**](#Part-VIII)
+[**Part VIII EXTENSION OR RESTRICTION OF THIS ACT**](#Part-VIII)
 
-- [184 Application of Act to countries other than Singapore](#Application-of-Act-to-countries-other-than-Singapore)
+- [184 Application of this Act to countries other than Singapore](#Application-of-this-Act-to-countries-other-than-Singapore)
 
 - [185 Provisions as to international organisations](#Provisions-as-to-international-organisations)
 
@@ -480,7 +478,7 @@
 
 - [197 Provisions as to Government copyright](#Provisions-as-to-Government-copyright)
 
-- [198 Use of copyright material for the service of the Government](#Use-of-copyright-material-for-the-service-of-the-Government)
+- [198 Use of copyright material for service of Government](#Use-of-copyright-material-for-service-of-Government)
 
 - [199 Reception of broadcasts or cable programmes](#Reception-of-broadcasts-or-cable-programmes)
 
@@ -490,9 +488,9 @@
 
 - [202 Regulations](#Regulations)
 
-- [203 Repeal of Copyright Act 1911](#Repeal-of-Copyright-Act-1911)
+- [203 (Omitted)](#Omitted)
 
-- [204 Consequential amendment](#Consequential-amendment)
+- [204 (Omitted)](#Omitted)
 
 [**Part XI TRANSITIONAL**](#Part-XI)
 
@@ -528,13 +526,13 @@
 
 - [218 Reproduction of work upon payment of royalties](#Reproduction-of-work-upon-payment-of-royalties)
 
-[**Division 3  Subject-Matter other than Works**](#Division-3--Subject-Matter-other-than-Works)
+[**Division 3  Subject-matter other than Works**](#Division-3--Subject-matter-other-than-Works)
 
 - [219 Sound recordings](#Sound-recordings)
 
 - [220 Cinematograph films](#Cinematograph-films)
 
-- [221 Application of Act to dramatic works and photographs comprised in cinematograph films](#Application-of-Act-to-dramatic-works-and-photographs-comprised-in-cinematograph-films)
+- [221 Application of this Act to dramatic works and photographs comprised in cinematograph films](#Application-of-this-Act-to-dramatic-works-and-photographs-comprised-in-cinematograph-films)
 
 - [222 Television broadcasts and sound broadcasts](#Television-broadcasts-and-sound-broadcasts)
 
@@ -588,57 +586,37 @@
 
 - [245 Assignments and licences](#Assignments-and-licences)
 
-[**THE SCHEDULE False Registration of Industrial Designs**](#THE-SCHEDULE)
+[**THE SCHEDULE False registration of industrial designs**](#THE-SCHEDULE)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Copyright Act
 
-ACTS SUPPLEMENT
+(CHAPTER 63)
 
-Published by Authority
+(Original Enactment: Act 2 of 1987)
 
-NO. 3]
+REVISED EDITION 1988
 
-Friday, February 20
+(30th April 1988)
 
-[1987
+An Act relating to copyright and matters related thereto.
 
-The following Act was passed by Parliament on 26th January 1987 and assented to by the President on 14th February 1987:—
-
-Copyright Act 1987
-
-(No. 2 of 1987)
-
-I assent.
-
-WEE KIM WEE
-
-President.
-
-14th February 1987.
-
-Date of Commencement: 10th April 1987
-
-An Act to make new provision in respect of copyright and related matters, and to repeal the United Kingdom Copyright Act 1911, the Copyright Act (Chapter 187 of the Revised Edition) and the Copyright (Gramophone Records and Government Broadcasting) Act (Chapter 188 of the Revised Edition) and to make a consequential amendment to the Singapore Broadcasting Corporation Act 1979 (No. 33 of 1979); and for purposes connected with the matters aforesaid.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[10th April 1987]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\.—(1) This Act may be cited as the Copyright Act 1987 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
-
-(2) The Minister may appoint different dates for the coming into operation of the different provisions of this Act.
+1\. This Act may be cited as the Copyright Act.
 
 ### Application
 
-2\. Except insofar as Part XI otherwise expressly provides, this Act shall apply in relation to things existing at the date of commencement of this Act in like manner as it applies in relation to things coming into existence after the commencement of this Act.
+2\. Except insofar as Part XI otherwise expressly provides, this Act shall apply in relation to things existing on 10th April 1987 [S 107/87] in like manner as it applies in relation to things coming into existence after that date.
 
-### Application to the Government
+### Application to Government
 
 3\. Subject to Part X, this Act shall bind the Government but nothing in this Act shall render the Government liable to be prosecuted for an offence.
 
@@ -646,7 +624,7 @@ PRELIMINARY
 
 4\. Subject to the provisions of this Act, no copyright shall subsist otherwise than by virtue of this Act.
 
-### Savings of rights of the Government, etc
+### Savings of rights of Government, etc.
 
 5\. Nothing in this Act shall affect any right or privilege of the Government or any other person under any other written law, except insofar as that law is expressly repealed, amended or modified by this Act.
 
@@ -680,7 +658,7 @@ INTERPRETATION
 
 “archives” means —
 
-(a) archival material in the custody of the National Archives and Records Centre established by the National Archives and Records Centre Act (Cap. 310); and
+(a) archival material in the custody of the National Archives and Records Centre established by the National Archives and Records Centre Act [Cap. 193]; and
 
 (b) a collection of documents or other material to which this paragraph applies by virtue of subsection (4);
 
@@ -712,23 +690,25 @@ INTERPRETATION
 
 (b) of being embodied in another article or thing by the use of which it can be so shown,
 
-and includes the aggregate of the sounds embodied in a sound-track associated with such visual images;
+and includes the aggregate of the sounds embodied in a soundtrack associated with such visual images;
 
-“citizen of Singapore” includes a person who, if he had been alive on 1st November 1957, would have qualified for Singapore citizenship under the Singapore Citizenship Ordinance 1957 (Ord. 35 of 1957);
+“citizen of Singapore” includes a person who, if he had been alive on 1st November 1957, would have qualified for Singapore citizenship under the Singapore Citizenship Ordinance 1957 [35/57];
 
 “computer program” means an expression, in any language, code or notation, of a set of instructions (whether with or without related information) intended, either directly or after either or both of the following:
 
 (a) conversion to another language, code or notation;
 
-(b) reproduction in a different material form, to cause a device having information processing capabilities to perform a particular function;
+(b) reproduction in a different material form,
+
+to cause a device having information processing capabilities to perform a particular function;
 
 “construction” includes erection and “reconstruction” shall have a corresponding meaning;
 
 “copy”, in relation to a cinematograph film, means any article or thing in which the visual images or sounds comprising the film are embodied;
 
-“Copyright Act 1911” means the Copyright Act 1911 of the United Kingdom insofar as it has effect as part of the law of Singapore;
+“Copyright Act 1911” means the Copyright Act 1911\*of the United Kingdom [U.K. 1911 c. 46] insofar as it has effect as part of the law of Singapore;
 
-[U.K. 1911 c. 46.]
+\*Repealed by section 203, which is omitted in this Edition.
 
 “Copyright Tribunal” or “Tribunal” means the Copyright Tribunal established under Part VII;
 
@@ -744,7 +724,7 @@ but does not include a cinematograph film as distinct from the scenario or scrip
 
 “educational institution” means —
 
-(a) a school or similar institution at which full-time primary education or full-time secondary education is provided or both full-time primary education and full-time secondary education are provided;
+(a) a school or similar institution at which full¬-time primary education or full-time secondary education is provided or both full-time primary education and full-time secondary education are provided;
 
 (b) a junior college, a university, a college of advanced education or a technical and further education institution;
 
@@ -768,7 +748,7 @@ and that is declared by regulations made under this Act to be an institution to 
 
 (h) an undertaking within a body administering an educational institution of a kind referred to in paragraphs (a) to (g) of this definition, being an undertaking that has as its principal function, or as one of its principal functions, the provision of teacher training for persons engaged as instructors in educational institutions of such a kind, or of two or more such kinds and that is declared by regulations made under this Act to be an institution to which this paragraph applies;
 
-(i) an institution, or an undertaking within a body administering as educational institution of a kind referred to in paragraphs (a) to (h) of this definition, being an institution or undertaking that has as its principal function, or as one of its principal functions, the furnishing of materials to educational institutions of a kind referred to in paragraphs (a) to (h) of this definition, or to educational institutions of two or more such kinds, for the purpose of assisting those institutions in their teaching purposes and that is declared by regulations made under this Act to be an institution to which this paragraph applies,
+(i) an institution, or an undertaking within a body administering an educational institution of a kind referred to in paragraphs (a) to (h) of this definition, being an institution or undertaking that has as its principal function, or as one of its principal functions, the furnishing of materials to educational institutions of a kind referred to in paragraphs (a) to (h) of this definition, or to educational institutions of two or more such kinds, for the purpose of assisting those institutions in their teaching purposes and that is declared by regulations made under this Act to be an institution to which this paragraph applies,
 
 but does not include an institution that is conducted for the profit, direct or indirect, of an individual or individuals;
 
@@ -828,7 +808,7 @@ that has as its principal function, or one of its principal functions, the provi
 
 “manuscript”, in relation to a work, means an original document embodying the work, whether written by hand or not;
 
-“minimum royalty”, in relation to a record, means the amounts applicable in respect of the record under section 57(3) and paragraph (b)(i) of section 58 or, if those provisions are affected by regulations made for the purposes of section 59, under those provisions as so affected;
+“minimum royalty”, in relation to a record, means the amounts applicable in respect of the record under sections 57(3) and 58(b)(i) or, if those provisions are affected by regulations made for the purposes of section 59, under those provisions as so affected;
 
 “photograph” means a product of photography or of a process similar to photography, other than an article or thing in which visual images forming part of a cinematograph film have been embodied, and includes a product of xerography, and photography shall have a corresponding meaning;
 
@@ -850,7 +830,7 @@ that has as its principal function, or one of its principal functions, the provi
 
 “sculpture” includes a cast or model made for purposes of sculpture;
 
-“Singapore Broadcasting Corporation” means the Singapore Broadcasting Corporation established under the Singapore Broadcasting Corporation Act 1979 (Act 33 of 1979);
+“Singapore Broadcasting Corporation” means the Singapore Broadcasting Corporation established under the Singapore Broadcasting Corporation Act [Cap. 297];
 
 “sound broadcast” means sounds broadcast otherwise than as part of a television broadcast;
 
@@ -862,7 +842,7 @@ that has as its principal function, or one of its principal functions, the provi
 
 (b) a disc, tape or other device in which sounds are embodied and which is made available by the maker of the film for use in conjunction with the article or thing in which those visual images are embodied;
 
-“sufficient acknowledgement”, in relation to a work, means an acknowledgement identifying the work by its title or other description and, unless the work is anonymous or pseudonymous or the author has previously agreed or directed that an acknowledgement of his name is not to be made, also identifying the author;
+“sufficient acknowledgment”, in relation to a work, means an acknowledgment identifying the work by its title or other description and, unless the work is anonymous or pseudonymous or the author has previously agreed or directed that an acknowledgment of his name is not to be made, also identifying the author;
 
 “telecommunication apparatus” means apparatus constructed or adapted for use in transmitting or receiving —
 
@@ -902,9 +882,9 @@ which is to be or has been conveyed by means of a telecommunication system;
 
 (2) Without limiting the meaning of the expression “reasonable portion” in this Act, where a literary, dramatic or musical work is contained in a published edition of that work, being an edition of not less than 10 pages, a copy of part of that work, as it appears in that edition, shall be taken to contain only a reasonable portion of that work if the pages that are copied in the edition —
 
-(a) do not exceed, in the aggregate, 10 per cent of the number of pages in that edition; or
+(a) do not exceed, in the aggregate, 10% of the number of pages in that edition; or
 
-(b) in a case where the work is divided into chapters — exceed, in the aggregate, 10 per cent of the number of pages in that edition but contain only the whole or part of a single chapter of the work.
+(b) in a case where the work is divided into chapters — exceed, in the aggregate, 10% of the number of pages in that edition but contain only the whole or part of a single chapter of the work.
 
 (3) In this Act, unless the contrary intention appears —
 
@@ -972,7 +952,7 @@ shall be regarded as a telecommunication system and any person who controls the 
 
 ### Residence
 
-8\.—(1) For the purpose of this Act, a “person resident in Singapore” includes a person who, at the material time, is residing in Singapore by virtue of a valid pass lawfully issued to him under the Immigration Act (Cap. 81) to enter and remain in Singapore for any purpose otherwise than for a temporary purpose.
+8\.—(1) For the purposes of this Act, a “person resident in Singapore” includes a person who, at the material time, is residing in Singapore by virtue of a valid pass lawfully issued to him under the Immigration Act [Cap. 133] to enter and remain in Singapore for any purpose otherwise than for a temporary purpose.
 
 (2) For the purposes of this Act, a person who, at a material time, was ordinarily resident in a country (including Singapore) but was temporarily absent from that country shall be treated as if he had been resident in that country at that time.
 
@@ -1018,9 +998,9 @@ shall be regarded as a telecommunication system and any person who controls the 
 
 (3) For the purposes of this Act, an artistic work shall be deemed to have been reproduced —
 
-(a) in the case of a work in a two-dimensional form, — if a version of the work is produced in a three-dimensional form; or
+(a) in the case of a work in a two-dimensional form, — if a version of the work is produced in a 3-dimensional form; or
 
-(b) in the case of a work in a three-dimensional form, — if a version of the work is produced in a two-dimensional form,
+(b) in the case of a work in a 3-dimensional form, — if a version of the work is produced in a 2-dimensional form,
 
 and the version of the work so produced shall be deemed to be a reproduction of the work.
 
@@ -1116,7 +1096,7 @@ and a reference in this Act to performing a work or an adaptation of a work shal
 
 (4) Without prejudice to subsections (2) and (3), where a work or an adaptation of a work is performed or visual images are caused to be seen or sounds to be heard by the operation of any apparatus referred to in subsection (3) or of any apparatus for reproducing sounds by the use of a record, being apparatus provided by or with the consent of the occupier of the premises where the apparatus is situated, the occupier of those premises shall, for the purposes of this Act, be deemed to be the person giving the performance or causing the images to be seen or the sounds to be heard, whether he is the person operating the apparatus or not.
 
-### Performance of works or other subject-matter by students, etc
+### Performance of works or other subject-matter by students, etc.
 
 23\.—(1) Where a musical work is performed by the students of an educational institution in the premises of the institution or elsewhere in the presence of an audience and is so performed in the course of the activities of the institution, the performance shall, for the purposes of this Act, be deemed not to be a performance in public.
 
@@ -1130,13 +1110,13 @@ and a reference in this Act to performing a work or an adaptation of a work shal
 
 24\.—(1) Subject to this section, for the purposes of this Act —
 
-(a) a literary, dramatic, musical or artistic work, or an edition of such a work, shall be deemed to have been published if, but only if, reproductions of the work or edition have been supplied (whether by sale or otherwise) to the public;
+(a) a literary, dramatic, musical or artistic work, or an edition of such a work, shall be deemed to have been published if, but only if, reproductions of the work or an edition of that work have been supplied (whether by sale or otherwise) to the public;
 
 (b) a cinematograph film shall be deemed to have been published if, but only if, copies of the film have been sold, let on hire, or offered or exposed for sale or hire, to the public;
 
 (c) a sound recording shall be deemed to have been published if, but only if, records embodying the recording or a part of the recording have been supplied (whether by sale or otherwise) to the public.
 
-(2) In determining, for the purposes of subsection (1)(a), whether reproductions of a work or edition have been supplied to the public, section 10 shall not apply.
+(2) In determining, for the purposes of subsection (1)(a), whether reproductions of a work or an edition of that work have been supplied to the public, section 10 shall not apply.
 
 (3) For the purposes of this Act, the performance of a literary, dramatic or musical work, the supplying (whether by sale or otherwise) to the public of records of a literary, dramatic or musical work, the exhibition of an artistic work, the construction of a building or of a model of a building, or the supplying (whether by sale or otherwise) to the public of photographs or engravings of a building, of a model of a building or of a sculpture, shall not constitute publication of the work.
 
@@ -1180,7 +1160,12 @@ the owner of the copyright, for any purpose of this Act, shall be deemed to be t
 
 ## PART III
 
-COPYRIGHT IN ORIGINAL LITERARY, DRAMATIC, MUSICAL AND ARTISTIC WORKS
+COPYRIGHT IN ORIGINAL LITERARY,
+
+
+
+
+DRAMATIC, MUSICAL AND ARTISTIC WORKS
 
 Division 1 —
 
@@ -1248,7 +1233,7 @@ if, but only if —
 
 ### Duration of copyright in original works
 
-28\.—(1) This section shall have effect subject to section 27(2) and to section 29.
+28\.—(1) This section shall have effect subject to sections 27(2) and 29.
 
 (2) Subject to this section, where, by virtue of this Part, copyright subsists in a literary, dramatic or musical work, or in an artistic work other than a photograph, that copyright shall continue to subsist until the expiration of 50 years after the expiration of the calendar year in which the author of the work died.
 
@@ -1310,7 +1295,7 @@ Infringement of Copyright in Works
 
 ### Infringement by doing acts comprised in the copyright
 
-31\.—(1) Subject to this Act, the copyright in a literary, dramatic, musical or artistic work is infringed by a person who, not being the owner of the copyright, and without the licence of the owner of the copyright, does in Singapore, or authorises the doing in Singapore of, any act comprised in the copyright.
+31\.—(1) Subject to the provisions of this Act, the copyright in a literary, dramatic, musical or artistic work is infringed by a person who, not being the owner of the copyright, and without the licence of the owner of the copyright, does in Singapore, or authorises the doing in Singapore of, any act comprised in the copyright.
 
 (2) Sections 32 to 34 shall not affect the generality of subsection (1).
 
@@ -1386,25 +1371,25 @@ shall be taken to be a fair dealing with that work or adaptation for the purpose
 
 (4) Subsection (3) shall not apply to a dealing by way of the copying of the whole or a part of an article in a periodical publication if another article in that publication, being an article dealing with a different subject-matter, is also copied.
 
-(5) In this section, “research” shall not include industrial research, research carried out by bodies corporate (not being bodies corporate owned or controlled by the Government), companies, associations or bodies of persons carrying on any business.
+(5) In this section, “research” shall not include industrial research or research carried out by bodies corporate (not being bodies corporate owned or controlled by the Government), companies, associations or bodies of persons carrying on any business.
 
 ### Fair dealing for purpose of criticism or review
 
-36\. A fair dealing with a literary, dramatic, musical or artistic work, or with an adaptation of a literary, dramatic or musical work, shall not constitute an infringement of the copyright in the work if it is for the purpose of criticism or review, whether of that work or of another work, and a sufficient acknowledgement of the work is made.
+36\. A fair dealing with a literary, dramatic, musical or artistic work, or with an adaptation of a literary, dramatic or musical work, shall not constitute an infringement of the copyright in the work if it is for the purpose of criticism or review, whether of that work or of another work, and a sufficient acknowledgment of the work is made.
 
 ### Fair dealing for purpose of reporting current events
 
 37\. A fair dealing with a literary, dramatic, musical or artistic work, or with an adaptation of a literary, dramatic or musical work, shall not constitute an infringement of the copyright in the work if it is for the purpose of, or is associated with, the reporting of current events —
 
-(a) in a newspaper, magazine or similar periodical and a sufficient acknowledgement of the work is made; or
+(a) in a newspaper, magazine or similar periodical and a sufficient acknowledgment of the work is made; or
 
 (b) by means of broadcasting or a cable programme service or in a cinematograph film.
 
-### Reproduction for purpose of judicial proceedings or professional advice
+### Reproduction for purposes of judicial proceedings or professional advice
 
 38\. The copyright in a literary, dramatic, musical or artistic work is not infringed by anything done —
 
-(a) for the purpose of a judicial proceeding or of a report of a judicial proceeding;
+(a) for the purposes of a judicial proceeding or of a report of a judicial proceeding;
 
 (b) for the purpose of seeking professional advice from an advocate and solicitor; or
 
@@ -1414,7 +1399,7 @@ shall be taken to be a fair dealing with that work or adaptation for the purpose
 
 39\.—(1) Subject to subsection (2), the copyright in a literary work being a computer program is not infringed by the making of a reproduction of the work, or of a computer program being an adaptation of the work, if —
 
-(a) the reproduction is made by, or on behalf of, the owner of the copy (in this section referred to as the “original copy”) from which the reproduction is made; and
+(a) the reproduction is made by, or on behalf of, the owner of the copy (referred to in this section as the original copy) from which the reproduction is made; and
 
 (b) the reproduction is made for the purpose only of being used, by or on behalf of the owner of the original copy, in lieu of the original copy in the event that the original copy is lost, destroyed or rendered unusable.
 
@@ -1440,7 +1425,7 @@ shall be taken to be a fair dealing with that work or adaptation for the purpose
 
 (b) the work or adaptation was not published for the purpose of being used by educational institutions; and
 
-(c) a sufficient acknowledgement of the work or adaptation is made.
+(c) a sufficient acknowledgment of the work or adaptation is made.
 
 (2) Subsection (1) shall not apply in relation to the copyright in a work if, in addition to the extract concerned, two or more other extracts from, or from adaptations of, works (being works in which copyright subsists at the time when the collection is published) by the author of the first-mentioned work are contained in that collection, or are contained in that collection taken together with every similar collection, if any, of works intended for use by educational institutions and published by the same publisher within the period of 5 years immediately preceding the publication of the first-mentioned collection.
 
@@ -1450,7 +1435,7 @@ Acts not Constituting Infringements of Copyright in Literary, Dramatic and Music
 
 ### Reading or recitation in public or for a broadcast
 
-41\. The reading or recitation in public, or the inclusion in a sound broadcast or television broadcast or a cable programme of a reading or recitation, of an extract of reasonable length from a published literary or dramatic work, or from an adaptation of such a work, shall not constitute an infringement of the copyright in the work if a sufficient acknowledgement of the work is made.
+41\. The reading or recitation in public, or the inclusion in a sound broadcast or television broadcast or a cable programme of a reading or recitation, of an extract of reasonable length from a published literary or dramatic work, or from an adaptation of such a work, shall not constitute an infringement of the copyright in the work if a sufficient acknowledgment of the work is made.
 
 ### Religious performances
 
@@ -1488,7 +1473,7 @@ Copying of Works in Libraries
 
 (i) that he requires the copy for the purpose of research or private study and will not use it for any other purpose; and
 
-(ii) that he has not previously been supplied with a copy of the same article or other work, or the same part of the article or other work, as the case may be, by an authorised officer of the library or archives, or that he has lost, destroyed or damaged any such copy previously supplied to him.
+(ii) that he has not previously been supplied with a copy of that article or other work, or the same part of the article or other work, as the case may be, by an authorised officer of the library or archives, or that he has lost, destroyed or damaged any such copy previously supplied to him.
 
 (2) Subject to this section, where a request and declaration referred to in subsection (1) are furnished to the officer-in-charge of a library or archives, an authorised officer of the library or archives may, unless the declaration contains a statement that to his knowledge is untrue in a material particular, make, or cause to be made, the copy to which the request relates and supply the copy to the person who made the request.
 
@@ -1530,7 +1515,7 @@ Copying of Works in Libraries
 
 (a) in a case where a copy of the whole or a part of the article or other work had previously been supplied, in accordance with a request under subsection (1), for the purpose of inclusion in the collection of the library — that the copy so supplied had been lost, destroyed or damaged, whichever was appropriate; and
 
-(b) in a case where the copy was a copy of the whole of a literary, dramatic or musical work (other than an article contained in a periodical publication) or of a part of such a work that contains more than a reasonable portion of the work — that the copy was made and supplied as part of an inter-library arrangement which does not have the effect or the purpose of enabling participating libraries from receiving copies of whole works or parts thereof, by way of systematic reproduction and supply of copies, in such aggregate quantities as substitutes for a subscription to or purchase of such works.
+(b) in a case where the copy was a copy of the whole of a literary, dramatic or musical work (other than an article contained in a periodical publication) or of a part of such a work that contains more than a reasonable portion of the work — that the copy was made and supplied as part of an inter-library arrangement which does not have the effect or the purpose of enabling participating libraries to receive copies of whole works or parts thereof, by way of systematic reproduction and supply of copies, in such aggregate quantities as substitutes for a subscription to or purchase of such works.
 
 (8) In this section, a reference to a library shall be read as a reference to a library other than a library that is conducted for the profit, direct or indirect, of an individual or individuals, and as including a reference to archives.
 
@@ -1616,7 +1601,7 @@ Copying of Works in Educational Institutions
 
 (i) one per cent of the total number of pages in the edition exceeds 5 pages; and
 
-(ii) the total number of pages so copied does not exceed 5 per cent of the total number of pages in the edition.
+(ii) the total number of pages so copied does not exceed 5% of the total number of pages in the edition.
 
 (3) Where a person has made or caused to be made on an occasion a copy of a part of a work contained on a page or pages in an edition of the work, or of works that include the work, in reliance on this section, subsection (1) shall not apply to the making, by or on behalf of that person, on a subsequent occasion less than 14 days after the day on which the previous copying took place, of a copy of any other part of that work.
 
@@ -1640,7 +1625,7 @@ Copying of Works in Educational Institutions
 
 (7) Subsection (2) shall not apply to copies of the whole or a part of a work (not being an article contained in a periodical publication), being copies made, by or on behalf of the body administering an educational institution, for the teaching purposes of an educational institution, unless there is made, by or on behalf of that body, as soon as practicable after the making of those copies, a record of the copying setting out such particulars as may be prescribed by the regulations.
 
-(8) For the purposes of subsections (6) and (7) a record of the copying of a work or a part of a work —
+(8) For the purposes of subsections (6) and (7), a record of the copying of a work or a part of a work —
 
 (a) shall be kept in writing or in any other manner prescribed by the regulations; and
 
@@ -1678,7 +1663,7 @@ the record made in relation to them in accordance with subsection (7) may state 
 
 Division 7 —
 
-Copying of Works in Institution Assisting Handicapped Readers
+Copying of Works in Institutions Assisting Handicapped Readers
 
 ### Multiple copying under statutory licence by institutions assisting handicapped readers
 
@@ -1752,7 +1737,7 @@ Recording of Musical Works
 
 (2) Subsection (1) shall not apply in relation to a record of an adaptation of a musical work if the adaptation debases the work.
 
-(3) Without limiting the generality of paragraph (d) of subsection (1), the regulations made for the purposes of that subsection may provide —
+(3) Without limiting the generality of subsection (1)(d), the regulations made for the purposes of that subsection may provide —
 
 (a) that payment of the royalties in respect of records, or of an amount, ascertained in accordance with the regulations, in respect of the royalties in respect of records, is, or is in such classes of cases as are specified in those regulations, to be made before the records are sold or supplied by the manufacturer; and
 
@@ -1760,7 +1745,7 @@ Recording of Musical Works
 
 ### Amount of royalty
 
-57\.—(1) Subject to this Division, the royalty payable in respect of a record is 5 per cent of the retail selling price of the record, which shall be determined in the manner prescribed by the regulations.
+57\.—(1) Subject to this Division, the royalty payable in respect of a record is 5% of the retail selling price of the record, which shall be determined in the manner prescribed by the regulations.
 
 (2) If the royalty payable in respect of a record under this section includes a fraction of a cent that is less than or more than one-half of a cent —
 
@@ -1784,19 +1769,17 @@ Recording of Musical Works
 
 ### Revision of royalty and minimum royalty
 
-59\.—(1) If at any time after the expiration of one year after the commencement of this Act it appears to the Minister charged with the responsibility for trade and industry that the royalty, or the minimum royalty, payable in respect of records generally or in respect of records included in a particular class of records is not equitable, he may request the Copyright Tribunal to hold an inquiry into the matter and report the result of its inquiry to him.
+59\.—(1) If at any time after 10th April 1988 it appears to the Minister charged with the responsibility for trade and industry that the royalty, or the minimum royalty, payable in respect of records generally or in respect of records included in a particular class of records is not equitable, he may request the Copyright Tribunal to hold an inquiry into the matter and report the result of its inquiry to him.
 
 (2) At any time after the Copyright Tribunal has made a report in relation to the royalty, or the minimum royalty, payable in respect of records generally or in respect of records included in a particular class of records, the regulations may provide that the relevant provision of this Act, in its application in respect of records generally or in respect of records included in that class of records, as the case may be, shall have effect as if it were subject to such variations as are provided by the regulations, being such variations as the Minister thinks equitable.
 
 (3) Where the Copyright Tribunal has made a report in relation to the royalty, or the minimum royalty, payable in respect of records included in a particular class of records (whether the report related only to records included in that class or also related to other records), the Minister charged with the responsibility for trade and industry shall not, before the expiration of 5 years after the report was made, request the Tribunal to hold an inquiry under this section in relation to the royalty, or the minimum royalty, as the case may be, payable in respect of records included in that class.
 
-(4) In this section,
-
-“the relevant provision of this Act” means —
+(4) In this section, “the relevant provision of this Act” means —
 
 (a) in relation to the royalty payable in respect of any records — section 57(1) or, if that section is affected by regulations made for the purposes of this section, that section as so affected; and
 
-(b) in relation to the minimum royalty payable in respect of any records — section 57(3) and paragraph (b)(i) of section 58 or, if those provisions are affected by regulations made for the purposes of this section, those provisions as so affected.
+(b) in relation to the minimum royalty payable in respect of any records — sections 57(3) and 58(b)(i) or, if those provisions are affected by regulations made for the purposes of this section, those provisions as so affected.
 
 ### Conditions upon which manufacturer may include part of a literary or dramatic work in a record of a musical work
 
@@ -1810,7 +1793,7 @@ Recording of Musical Works
 
 (d) a record of the musical work in which those words, or words substantially the same as those words, were sung, or were spoken incidentally to or in association with the music has previously been made in, or imported into, Singapore for the purpose of retail sale and was so made or imported by, or with the licence of, the owner of the copyright in the literary or dramatic work; and
 
-(e) the like notice was given to the owner of the copyright in the literary or dramatic work as is required by paragraph (b) of section 56(1) to be given to the owner of the copyright (if any) in the musical work and there is paid to the owner of the copyright in the literary or dramatic work such amount (if any) as is ascertained in accordance with this section,
+(e) the like notice was given to the owner of the copyright in the literary or dramatic work as is required by section 56(1)(b) to be given to the owner of the copyright (if any) in the musical work and there is paid to the owner of the copyright in the literary or dramatic work such amount (if any) as is ascertained in accordance with this section,
 
 the making of the record shall not constitute an infringement of the copyright in the literary or dramatic work.
 
@@ -1824,11 +1807,11 @@ the making of the record shall not constitute an infringement of the copyright i
 
 (4) Where the owner of the copyright in a musical work and the owner of the copyright in a literary or dramatic work do not agree on the manner in which an amount is to be apportioned between them but the person who made the record gives an undertaking in writing to each owner to pay to him the portion of that amount that the Tribunal determines to be payable to him, then —
 
-(a) paragraph (d) of section 56(1) and paragraph (e) of subsection (1) shall have effect as if the payments referred to in those paragraphs had been made; and
+(a) section 56(1)(d) and subsection (1)(e) of this section shall have effect as if the payments referred to in those paragraphs had been made; and
 
 (b) the person who made the record shall be liable, when the amount to which an undertaking relates is determined, to pay that amount to the owner of the copyright to whom the undertaking was given and the owner may recover that amount in a court of competent jurisdiction from that person as a debt due to the owner.
 
-(5) The regulations made for the purposes of paragraph (d) of section 56(1) in relation to payments to the owner of the copyright in a musical work shall have the like effect, with any necessary modifications, for the purposes of paragraph (e) of subsection (1) in relation to payments to the owner of the copyright in a literary or dramatic work.
+(5) The regulations made for the purposes of section 56(1)(d) in relation to payments to the owner of the copyright in a musical work shall have the like effect, with any necessary modifications, for the purposes of subsection (1)(e) in relation to payments to the owner of the copyright in a literary or dramatic work.
 
 ### Making inquiries in relation to previous records
 
@@ -1848,9 +1831,9 @@ be taken to have been previously made in, or imported into, Singapore with the l
 
 ### Application of Division in relation to record of part of a work
 
-62\.—(1) Subject to subsection (2), the provisions of this Division shall apply in relation to a record of a part of musical work in like manner as they apply in relation to a record of the whole of the work.
+62\.—(1) Subject to subsection (2), this Division shall apply in relation to a record of a part of a musical work in like manner as it applies in relation to a record of the whole of the work.
 
-(2) Subsection (1) of section 56 shall not apply in relation to —
+(2) Section 56(1) shall not apply in relation to —
 
 (a) a record of the whole of a work unless the previous record referred to in paragraph (a) of that subsection was a record of the whole of the work; and
 
@@ -1862,7 +1845,7 @@ Acts not Constituting Infringements of Copyright in Artistic Works
 
 ### Sculptures and certain other works in public places
 
-63\.—(1) This section shall apply to sculptures and to works of artistic craftsmanship of the kind referred to in paragraph (c) ofthe definition of “artistic work” in section 7.
+63\.—(1) This section shall apply to sculptures and to works of artistic craftsmanship of the kind referred to in paragraph (c) of the definition of “artistic work” in section 7.
 
 (2) The copyright in a work to which this section applies that is situated, otherwise than temporarily, in a public place, or in premises open to the public, is not infringed by the making of a painting, drawing, engraving or photograph of the work or by the inclusion of the work in a cinematograph film or in a television broadcast.
 
@@ -1900,29 +1883,29 @@ Acts not Constituting Infringements of Copyright in Artistic Works
 
 69\. For the purposes of this Act —
 
-(a) the making of an object of any kind that is in three dimensions does not infringe the copyright in an artistic work that is in two dimensions; and
+(a) the making of an object of any kind that is in 3 dimensions does not infringe the copyright in an artistic work that is in two dimensions; and
 
-(b) the making of an object of any kind that is in two dimensions does not infringe the copyright in an artistic work that is in three dimensions,
+(b) the making of an object of any kind that is in two dimensions does not infringe the copyright in an artistic work that is in 3 dimensions,
 
 if the object would not appear to persons who are not experts in relation to objects of that kind to be a reproduction of the artistic work.
 
 ### Special exception for artistic works which have been industrially applied
 
-70\.—(1) Notwithstanding section 69, the making of any useful article in three dimensions (including a reproduction in two dimensions reasonably required for the making of the article) does not infringe the copyright in an artistic work if, when the useful article or reproduction is made, the artistic work has been industrially applied in Singapore or in any other country more than 15 years before the useful article or reproduction is made.
+70\.—(1) Notwithstanding section 69, the making of any useful article in 3 dimensions (including a reproduction in two dimensions reasonably required for the making of the article does not infringe the copyright in an artistic work if, when the useful article or reproduction is made, the artistic work has been industrially applied in Singapore or in any other country more than 15 years before the useful article or reproduction is made.
 
 (2) For the purposes of subsection (1), an artistic work is applied industrially if —
 
-(a) more than 50 reproductions in three dimensions are made of it, for the purposes of sale or hire; or
+(a) more than 50 reproductions in 3 dimensions are made of it, for the purposes of sale or hire;
 
-(b) it is reproduced in three dimensions in one or more articles manufactured in lengths, for the purposes of sale or hire; or
+(b) it is reproduced in 3 dimensions in one or more articles manufactured in lengths, for the purposes of sale or hire; or
 
 (c) it is reproduced as a plate which has been used to produce —
 
-(i) more than 50 reproductions of an object in three dimensions for the purposes of sale or hire; or
+(i) more than 50 reproductions of an object in 3 dimensions for the purposes of sale or hire; or
 
-(ii) one or more articles in three dimensions manufactured in lengths for the purposes of sale or hire.
+(ii) one or more articles in 3 dimensions manufactured in lengths for the purposes of sale or hire.
 
-(3) For the purposes of subsection (2), two or more reproductions in three dimensions which are of the same general character and intended for use together are a single reproduction.
+(3) For the purposes of subsection (2), two or more reproductions in 3 dimensions which are of the same general character and intended for use together are a single reproduction.
 
 (4) In this section, “useful article” means an article having an intrinsic utilitarian function that is not merely to portray the appearance of the article or to convey information.
 
@@ -1948,15 +1931,15 @@ Designs
 
 73\.—(1) In this Division, “corresponding design”, in relation to an artistic work, means a design which, when applied to an article, results in a reproduction of that work.
 
-(2) In this Division, references to the scope of the copyright in a registered design are references to the aggregate of the things, which, by virtue of the provisions of the United Kingdom Designs (Protection) Act (Cap. 208), the registered proprietor of the design has the exclusive right to do, and references to the scope of the copyright in a registered design as extended to all associated designs and articles are references to the aggregate of the things which, by virtue of that written law, the registered proprietor would have had the exclusive right to do if —
+(2) In this Division, references to the scope of the copyright in a registered design are references to the aggregate of the things, which, by virtue of the provisions of the United Kingdom Designs (Protection) Act [Cap. 339], the registered proprietor of the design has the exclusive right to do, and references to the scope of the copyright in a registered design as extended to all associated designs and articles are references to the aggregate of the things which, by virtue of that written law, the registered proprietor would have had the exclusive right to do if —
 
-(a) when that design was registered, there had at the same time been registered every possible design consisting of that design with modifications or variations not sufficient to alter the character or substantially to affect the identity thereof, and the said proprietor had been registered as the proprietor of every such design; and
+(a) when that design was registered, there had at the same time been registered every possible design consisting of that design with modifications or variations not sufficient to alter the character or substantially to affect the identity thereof, and that proprietor had been registered as the proprietor of every such design; and
 
 (b) the design in question, and every other design such as is mentioned in paragraph (a), had been registered in respect of all the articles to which it was capable of being applied.
 
 ### Special exception in respect of industrial design
 
-74\.—(1) Where copyright subsists in an artistic work and a corresponding design is registered under the Registered Designs Act 1949 of the United Kingdom, or any Act amending or substituting for that Act, it shall not be an infringement of the copyright in the work —
+74\.—(1) Where copyright subsists in an artistic work and a corresponding design is registered under the Registered Designs Act 1949 of the United Kingdom [U.K. 1949 c. 88], or any Act amending or substituting for that Act, it shall not be an infringement of the copyright in the work —
 
 (a) to do anything, during the subsistence of the copyright in the registered design, which is within the scope of the copyright in the design; or
 
@@ -1964,15 +1947,13 @@ Designs
 
 Provided that this subsection shall have effect subject to the provisions of the Schedule in cases falling within the Schedule.
 
-[U.K. 1949 c. 88.]
-
 (2) Where copyright subsists in an artistic work, and —
 
 (a) a corresponding design is applied industrially by or with the licence of the owner of the copyright in the work;
 
 (b) articles to which the design has been so applied are sold, let for hire, or offered for sale or hire whether in Singapore or elsewhere; and
 
-(c) at the time when those articles are sold, let for hire or offered or exposed for sale or hire, they are not articles in respect of which the corresponding design has been registered under the Registered Designs Act 1949 of the United Kingdom, or any Act amending or substituting for that Act,
+(c) at the time when those articles are sold, let for hire or offered or exposed for sale or hire, they are not articles in respect of which the corresponding design has been registered under the Registered Designs Act 1949 of the United Kingdom [U.K. 1949 c. 88], or any Act amending or substituting for that Act,
 
 subsections (3), (4) and (5) shall apply.
 
@@ -1982,9 +1963,9 @@ subsections (3), (4) and (5) shall apply.
 
 (b) after the end of the relevant period of 15 years, it shall not be an infringement of the copyright in the work to do anything which, at the time when it is done, would, if the design had been registered immediately before that time, have been within the scope of the copyright in the design as extended to all associated designs and articles.
 
-(4) In subsection (3), “the relevant period of 15 years” means the period of 15 years beginning with the date on which articles, such as are mentioned in paragraph (b) of subsection (2), were first sold, let for hire or offered for sale or hire, whether in Singapore or elsewhere.
+(4) In subsection (3), “the relevant period of 15 years” means the period of 15 years beginning with the date on which articles, such as are mentioned in subsection (2)(b), were first sold, let for hire or offered for sale or hire, whether in Singapore or elsewhere.
 
-(5) For the purposes of subsections (2) and (3), no account shall be taken of any articles in respect of which, at the time when they were sold, let for hire, or offered for sale or hire, the design in question was excluded from registration under the provisions of the Registered Designs Act 1949 of the United Kingdom, or any Act amending or substituting for that Act, by rules made under that Act or such other Act (which relates to the exclusion of designs for articles which are primarily literary or artistic in character); and for the purposes of any proceedings under this Act a design shall be conclusively presumed to have been so excluded if —
+(5) For the purposes of subsections (2) and (3), no account shall be taken of any articles in respect of which, at the time when they were sold, let for hire, or offered for sale or hire, the design in question was excluded from registration under the provisions of the Registered Designs Act 1949 of the United Kingdom [U.K. 1949 c. 88], or any Act amending or substituting for that Act, by rules made under that Act or such other Act (which relates to the exclusion of designs for articles which are primarily literary or artistic in character); and for the purposes of any proceedings under this Act a design shall be conclusively presumed to have been so excluded if —
 
 (a) before the commencement of those proceedings, an application for the registration of the design under the Registered Designs Act 1949 of the United Kingdom, or any Act amending or substituting for that Act, in respect of those articles had been refused;
 
@@ -2048,9 +2029,7 @@ Preliminary
 
 ### Interpretation
 
-81\. In this Part,
-
-“qualified person” means —
+81\. In this Part, “qualified person” means —
 
 (a) a citizen of Singapore, or an individual resident in Singapore; or
 
@@ -2058,7 +2037,7 @@ Preliminary
 
 Division 2 —
 
-Nature of Copyright in Subject-Matter other than Works
+Nature of Copyright in Subject-matter other than Works
 
 ### Nature of copyright in sound recordings
 
@@ -2116,7 +2095,7 @@ Provided that for the purposes of paragraph (a) no account shall be taken —
 
 (3) In relation to copyright in cable programmes, insofar as they consist of visual images, subsection (1) shall apply to any sequence of images sufficient to be seen as a moving picture; and accordingly, for the purpose of establishing an infringement of such copyright, it shall not be necessary to prove that the act in question extended to more than such a sequence of images.
 
-(4) For the purposes of paragraph (c) of subsection (1), a cable programme shall be taken to be seen or heard by a paying audience if it is seen or heard by persons who either —
+(4) For the purposes of subsection (1)(c), a cable programme shall be taken to be seen or heard by a paying audience if it is seen or heard by persons who either —
 
 (a) have been admitted for payment to the place where the programme is to be seen or heard, or have been admitted for payment to a place of which that place forms part; or
 
@@ -2134,23 +2113,28 @@ Provided that for the purposes of paragraph (a) no account shall be taken —
 
 Division 3 —
 
-Subject-Matter, other than Works, in which Copyright subsists
+Subject-matter, other than Works,
+
+
+
+
+in which Copyright subsists
 
 ### Sound recordings in which copyright subsists
 
-87\.—(1) Subject to this Act, copyright shall subsist in a sound recording of which the maker was a qualified person at the time when the recording was made.
+87\.—(1) Subject to the provisions of this Act, copyright shall subsist in a sound recording of which the maker was a qualified person at the time when the recording was made.
 
-(2) Without prejudice to subsection (1), copyright shall subsist subject to this Act, in a sound recording if the recording was made in Singapore.
+(2) Without prejudice to subsection (1), copyright shall subsist, subject to the provisions of this Act, in a sound recording if the recording was made in Singapore.
 
-(3) Without prejudice to subsections (1) and (2), copyright shall subsist, subject to this Act, in a published sound recording if the first publication of the recording took place in Singapore.
+(3) Without prejudice to subsections (1) and (2), copyright shall subsist, subject to the provisions of this Act, in a published sound recording if the first publication of the recording took place in Singapore.
 
 ### Cinematograph films in which copyright subsists
 
 88\.—(1) Subject to the provisions of this Act, copyright shall subsist in a cinematograph film of which the maker was a qualified person for the whole or a substantial part of the period during which the film was made.
 
-(2) Without prejudice to subsection (1), copyright shall subsist, subject to this Act, in a cinematograph film if the film was made in Singapore.
+(2) Without prejudice to subsection (1), copyright shall subsist, subject to the provisions of this Act, in a cinematograph film if the film was made in Singapore.
 
-(3) Without prejudice to subsections (1) and (2) copyright shall subsist, subject to this Act, in a published cinematograph film if the first publication of the film took place in Singapore.
+(3) Without prejudice to subsections (1) and (2), copyright shall subsist, subject to the provisions of this Act, in a published cinematograph film if the first publication of the film took place in Singapore.
 
 ### Television broadcasts and sound broadcasts in which copyright subsists
 
@@ -2186,7 +2170,7 @@ Subject-Matter, other than Works, in which Copyright subsists
 
 Division 4 —
 
-Duration of Copyright in Subject-Matter other than Works
+Duration of Copyright in Subject-matter other than Works
 
 ### Duration of copyright in sound recordings
 
@@ -2218,7 +2202,7 @@ Duration of Copyright in Subject-Matter other than Works
 
 Division 5 —
 
-Ownership of Copyright in Subject-Matter other than Works
+Ownership of Copyright in Subject-matter other than Works
 
 ### Ownership of copyright in sound recordings
 
@@ -2266,7 +2250,7 @@ the first-mentioned person is, in the absence of any agreement to the contrary, 
 
 Division 6 —
 
-Infringement of Copyright in Subject-Matter other than Works
+Infringement of Copyright in Subject-matter other than Works
 
 ### Interpretation
 
@@ -2278,7 +2262,7 @@ Infringement of Copyright in Subject-Matter other than Works
 
 ### Infringement by doing acts comprised in copyright
 
-103\.—(1) Subject to this Act, a copyright subsisting by virtue of this Part is infringed by a person who, not being the owner of the copyright, and without the licence of the owner of the copyright, does in Singapore, or authorises the doing in Singapore of, any act comprised in the copyright.
+103\.—(1) Subject to the provisions of this Act, a copyright subsisting by virtue of this Part is infringed by a person who, not being the owner of the copyright, and without the licence of the owner of the copyright, does in Singapore, or authorises the doing in Singapore of, any act comprised in the copyright.
 
 (2) Sections 104 and 105 shall not affect the generality of subsection (1).
 
@@ -2348,13 +2332,13 @@ shall be taken to be the sale of those articles.
 
 ### Fair dealing for purpose of criticism or review
 
-110\. A fair dealing with an audio-visual item shall not constitute an infringement of the copyright in the item or in any work or other audio-visual item included in the item if it is for the purpose of criticism or review, whether of the first-mentioned audio-visual item, another audio-visual item or a work, and a sufficient acknowledgement of the first-mentioned audio-visual item is made.
+110\. A fair dealing with an audio-visual item shall not constitute an infringement of the copyright in the item or in any work or other audio-visual item included in the item if it is for the purpose of criticism or review, whether of the first-mentioned audio-visual item, another audio-visual item or a work, and a sufficient acknowledgment of the first-mentioned audio-visual item is made.
 
 ### Fair dealing for purpose of reporting news
 
 111\. A fair dealing with an audio-visual item shall not constitute an infringement of the copyright in the item or in any work or other audio-visual item included in the item if —
 
-(a) it is for the purpose of, or is associated with, the reporting of news in a newspaper, magazine or similar periodical and a sufficient acknowledgement of the first-mentioned audio-visual item is made; or
+(a) it is for the purpose of, or is associated with, the reporting of news in a newspaper, magazine or similar periodical and a sufficient acknowledgment of the first-mentioned audio-visual item is made; or
 
 (b) it is for the purpose of, or is associated with, the reporting of news by means of broadcasting or a cable programme service or in a cinematograph film.
 
@@ -2434,7 +2418,7 @@ the making of the copy does not infringe copyright in the cinematograph film or 
 
 (i) a dealing with one of those works or dealings with some or all of those works, being a dealing that does not, or dealings that do not, by virtue of section 35, 36, 37, 38 or 40, infringe copyright in that work or those works; or
 
-(ii) the making of a copy (including a handicapped reader’s copy) of the whole or a part of one of those works or the making of copies (including handicapped reader’s copies) of the whole or parts of some or all of those works, being a copy the making of which does not, or copies the making of which do not, by virtue of section 45, 46, 48, 51, 52 or 54, infringe copyright in that work or in those works.
+(ii) the making of a copy (including a handicapped reader’s copy) of the whole or a part of one of those works or the making of copies (including the handicapped reader’s copies) of the whole or parts of some or all of those works, being a copy the making of which does not, or copies the making of which do not, by virtue of section 45, 46, 48, 51, 52 or 54, infringe copyright in that work or in those works.
 
 Division 7 —
 
@@ -2442,7 +2426,7 @@ Miscellaneous
 
 ### Copyrights to subsist independently
 
-117\.—(1) Subject to section 108(2), where copyright subsists in any subject-matter by virtue of this Part, nothing in this Part shall be taken to affect the operation of Part III in relation to any literary, dramatic, musical or artistic work from which that subject-matter is wholly or partly derived, and any copyright subsisting by virtue of this Part is in addition to, and independent of, and copyright subsisting by virtue of Part III.
+117\.—(1) Subject to section 108(2), where copyright subsists in any subject-matter by virtue of this Part, nothing in this Part shall be taken to affect the operation of Part III in relation to any literary, dramatic, musical or artistic work from which that subject-matter is wholly or partly derived, and any copyright subsisting by virtue of this Part is in addition to, and independent of, any copyright subsisting by virtue of Part III.
 
 (2) The subsistence of copyright under any provision of this Part shall not affect the operation of any other provision of this Part under which copyright can subsist.
 
@@ -2456,9 +2440,7 @@ Preliminary
 
 ### Interpretation
 
-118\.—(1) In this Part,
-
-“action” means a proceeding of a civil nature between parties, and includes a counterclaim.
+118\.—(1) In this Part, “action” means a proceeding of a civil nature between parties, and includes a counterclaim.
 
 (2) In the application of this Part in relation to a counterclaim, references to the plaintiff and to the defendant shall be read as references to the defendant and to the plaintiff, respectively.
 
@@ -2468,9 +2450,9 @@ Actions by Owner of Copyright
 
 ### Actions for infringement
 
-119\.—(1) Subject to this Act, the owner of a copyright may bring an action for an infringement of the copyright.
+119\.—(1) Subject to the provisions of this Act, the owner of a copyright may bring an action for an infringement of the copyright.
 
-(2) Subject to this Act, the relief that a court may grant in an action for an infringement of copyright includes an injunction (subject to such terms, if any, as the court thinks fit) and either damages or an account of profits.
+(2) Subject to the provisions of this Act, the relief that a court may grant in an action for an infringement of copyright includes an injunction (subject to such terms, if any, as the court thinks fit) and either damages or an account of profits.
 
 (3) Where, in an action for infringement of copyright, it is established that an infringement was committed but it is also established that, at the time of the infringement, the defendant was not aware, and had no reasonable grounds for suspecting, that the act constituting the infringement was an infringement of the copyright, the plaintiff shall not be entitled under this section to any damages against the defendant in respect of the infringement, but shall be entitled to an account of profits in respect of the infringement whether any other relief is granted under this section or not.
 
@@ -2490,7 +2472,7 @@ the court may, in assessing damages for the infringement, award such additional 
 
 ### Delivery up of infringing copies
 
-120\. Subject to this Act, the court may, in addition to any relief granted under section 119 in any action for an infringement of copyright brought under that section, order —
+120\. Subject to the provisions of this Act, the court may, in addition to any relief granted under section 119 in any action for an infringement of copyright brought under that section, order —
 
 (a) any infringing copy, or any plate or similar contrivance used or intended to be used for the making of infringing copies of sound recordings or audio-visual productions, in the possession of the defendant or before the court to be delivered up to the plaintiff; or
 
@@ -2518,7 +2500,7 @@ Proceedings where Copyright is subject to Exclusive Licence
 
 ### Rights of exclusive licensee
 
-123\. Subject to the provisions of this Division, the exclusive licensee shall, except against the owner of the copyright, have the same rights of action as the owner of the copyright would have, and be entitled to the same remedies as he would be entitled to, by virtue of sections 119 and 120 if the licence had been an assignment, and those rights and remedies are concurrent with the rights and remedies of the owner of the copyright under those sections.
+123\. Subject to this Division, the exclusive licensee shall, except against the owner of the copyright, have the same rights of action as the owner of the copyright would have, and be entitled to the same remedies as he would be entitled to, by virtue of sections 119 and 120 if the licence had been an assignment, and those rights and remedies are concurrent with the rights and remedies of the owner of the copyright under those sections.
 
 ### Joinder of owner or exclusive licensee as a party
 
@@ -2582,7 +2564,7 @@ Proof of Facts in Copyright Proceedings
 
 ### Presumptions in relation to authorship of work
 
-131\.—(1) Where a name purporting to be that of the author of a literary, dramatic, musical or artistic work appeared on copies of the work as published or a name purporting to be that of the author of an artistic work appeared on the work when it was made, the person whose name so appeared, if it was his true name or a name by which he was commonly known, shall, in an action brought by virtue of this Part, be presumed, unless the contrary is established, to be the author of the work and to have made the work in circumstances to which section 30(4), (5) and (6) do not apply.
+131\.—(1) Where a name purporting to be that of the author of a literary, dramatic, musical or artistic work appeared on copies of the work as published or a name purporting to be that of the author of an artistic work appeared on the work when it was made, the person whose name so appeared, if it was his true name or a name by which he was commonly known, shall, in an action brought by virtue of this Part, be presumed, unless the contrary is established, to be the author of the work and to have made the work in circumstances to which section 30(4), (5) and (6) does not apply.
 
 (2) Where a work is alleged to be a work of joint authorship, subsection (1) shall apply in relation to each person alleged to be one of the authors of the work as if references in that subsection to the author were references to one of the authors.
 
@@ -2620,7 +2602,7 @@ then, unless the contrary is established, copyright shall be presumed to subsist
 
 (c) it is not established that the work has ever been published under the true name of the author, or under a name by which he was commonly known, or that the identity of the author is generally known or can be ascertained by reasonable inquiry,
 
-paragraphs (a) and (b) of subsection (1) shall apply, in an action brought by virtue of this Part in relation to the work, in like manner as those paragraphs shall apply where it is established that the author is dead.
+subsection (1)(a) and (b) shall apply, in an action brought by virtue of this Part in relation to the work, in like manner as that subsection shall apply where it is established that the author is dead.
 
 ### Evidence in relation to recordings
 
@@ -2678,7 +2660,7 @@ articles which he knows, or ought reasonably to know, to be infringing copies of
 
 (5) Subsections (1) to (4) shall apply in relation to copyright subsisting in any subject-matter by virtue of Part IV in like manner as they apply in relation to copyright subsisting in a work by virtue of Part III.
 
-(6) Any person who for his private profit causes a literary, dramatic or musical work to be performed in public, or causes a cinematograph film to be seen or heard or seen and heard in public, other than by the reception of a television broadcast or cable programme, where he knows, or ought reasonably to know, that copyright subsists in the work or cinematograph film and that the performance constitutes an infringement of the copyright, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or imprisonment for a term not exceeding 2 years or to both.
+(6) Any person who for his private profit causes a literary, dramatic or musical work to be performed in public, or causes a cinematograph film to be seen or heard or seen and heard in public, other than by the reception of a television broadcast or cable programme, where he knows, or ought reasonably to know, that copyright subsists in the work or cinematograph film and that the performance constitutes an infringement of the copyright, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 2 years or to both.
 
 (7) For the purposes of this section, any person who has in his possession 5 or more infringing copies of any work or other subject-matter shall, unless the contrary is proved, be presumed —
 
@@ -2708,7 +2690,7 @@ the copy, plate or contrivance shall be returned to the person in whose possessi
 
 shall be admitted in evidence in any proceedings for an offence under this Part and shall be prima facie proof of the matters stated therein until the contrary is proved, and the court before which such affidavit is produced shall presume that the affidavit was made by or on behalf of the owner of the copyright.
 
-(2) If an accused to any proceedings for an offence under this Part desires in good faith that the person who made an affidavit referred to in subsection (1) be cross-examined with respect to the matters in the affidavit, the affidavit may not be used in the proceedings unless the person appears as a witness for such cross-examination or the court before which the proceedings is being conducted, in its discretion, permits the affidavit to be used without the person so appearing.
+(2) If an accused to any proceedings for an offence under this Part desires in good faith that the person who made an affidavit referred to in subsection (1) be cross-examined with respect to the matters in the affidavit, the affidavit may not be used in the proceedings unless the person appears as a witness for such cross-examination or the court before which the proceedings are being conducted, in its discretion, permits the affidavit to be used without the person so appearing.
 
 ### Powers of police officer
 
@@ -2730,7 +2712,7 @@ any infringing copy of any work or other subject-matter.
 
 ### Court for trial of offences
 
-140\. Notwithstanding the provisions of any written law to the contrary, a District or Magistrate’s Court shall have jurisdiction to try any offence under this Act and award the full punishment for such offence.
+140\. Notwithstanding the provisions of any written law to the contrary, a District Court or Magistrate’s Court shall have jurisdiction to try any offence under this Act and award the full punishment for such offence.
 
 Division 6 —
 
@@ -2766,11 +2748,11 @@ Miscellaneous
 
 is prohibited and any such copies, if imported into Singapore for any such purpose, may be seized and forfeited to the Government.
 
-(5) Subject to the regulations made under this Act, the Board may permit copies of a work, a cinematograph film or a sound recording that are liable to be seized and forfeited under this section to be delivered to the importer upon security being given to the satisfaction of the Board that the copies will be forthwith exported from Singapore.
+(5) Subject to the regulations, the Board may permit copies of a work, a cinematograph film or a sound recording that are liable to be seized and forfeited under this section to be delivered to the importer upon security being given to the satisfaction of the Board that the copies will be forthwith exported from Singapore.
 
-(6) The Control of Imports and Exports Act shall apply to the seizure and forfeiture under this section of copies of a work, cinematograph film or sound recording to which this section applies as if the copies were prohibited imports for the purposes of that Act (Cap. 240).
+(6) The Control of Imports and Exports Act [Cap. 56] shall apply to the seizure and forfeiture under this section of copies of a work, cinematograph film or sound recording to which this section applies as if the copies were prohibited imports for the purposes of that Act.
 
-(7) Regulations made under this Act may make provision for or in relation to —
+(7) The regulations may make provision for or in relation to —
 
 (a) the forms of notices under this section;
 
@@ -2782,11 +2764,16 @@ is prohibited and any such copies, if imported into Singapore for any such purpo
 
 (e) indemnifying the Board and its agents against any such liability or expense.
 
-(8) For the purposes of subsection (7), the public officers who are authorised under the Control of Imports and Exports Act (Cap. 240) to search for, seize and detain prohibited imports shall be deemed to be agents of the Board.
+(8) For the purposes of subsection (7), the public officers who are authorised under the Control of Imports and Exports Act [Cap. 56] to search for, seize and detain prohibited imports shall be deemed to be the agents of the Board.
 
 ## PART VI
 
-COMPULSORY LICENCES FOR TRANSLATION AND REPRODUCTION OF CERTAIN WORKS
+COMPULSORY LICENCES FOR TRANSLATION
+
+
+
+
+AND REPRODUCTION OF CERTAIN WORKS
 
 ### Interpretation
 
@@ -2832,21 +2819,21 @@ and in either case, the government of the country to which the copies are export
 
 (a) one year from the date of first publication of the work where the application is for a licence for translation into any of the official languages of Singapore other than English;
 
-(b) three years from the date of first publication of the work where the application is for a licence for translation into English.
+(b) 3 years from the date of first publication of the work where the application is for a licence for translation into English.
 
 (7) No licence shall be granted by the Copyright Tribunal unless —
 
 (a) the Tribunal is satisfied that no translation of the work into the language in question has been published in printed or analogous forms of reproduction, by or with the authorisation of the owner of the right of translation, or that all previous editions in that language are out of print;
 
-(b) the applicant has proved to the satisfaction of the Tribunal that he had requested and had been denied authorisation by the owner of the copyright to produce and publish such translation, or that he was, after due diligence on his part, unable to find such owner;
+(b) the applicant has proved to the satisfaction of the Tribunal that he had requested and had been denied authorisation by the owner of the copyright to produce and publish such translation, or that he was, after due diligence on his part, unable to find the owner;
 
-(c) where the applicant was, after due diligence on his part, unable to find the owner of the copyright, he had sent a copy of his request for such authorisation by registered air-mail post to the publisher whose name appears from the work, not less than two months before the application for the licence;
+(c) where the applicant was, after due diligence on his part, unable to find the owner of the copyright, he had sent a copy of his request for the authorisation by registered air-mail post to the publisher whose name appears from the work, not less than two months before the application for the licence;
 
 (d) the applicant had at the time he submitted an application under this section informed any national or international information centre designated for this purpose by the government of the country in which the publisher of the work to be translated is believed to have his principal place of business;
 
 (e) the Tribunal is satisfied that the applicant is competent to produce and publish a correct translation of the work and possesses the means to pay to the owner of the copyright the royalties payable to him under this section;
 
-(f) a period of 6 months in the case of an application for a licence for translation into English or 9 months in the case of an application for a licence for translation into any of the official languages of Singapore other than English, has elapsed from the date of making the request under paragraph (b), or where a copy of the request has been sent under paragraph (c) from the date of sending of such copy, and the translation of the work in the language mentioned in the application has not been published by the owner of the copyright in the work or any person authorised by him within the said period of 6 months or 9 months, as the case may be;
+(f) a period of 6 months in the case of an application for a licence for translation into English or 9 months in the case of an application for a licence for translation into any of the official languages of Singapore other than English, has elapsed from the date of making the request under paragraph (b), or where a copy of the request has been sent under paragraph (c) from the date of sending of that copy, and the translation of the work in the language mentioned in the application has not been published by the owner of the copyright in the work or any person authorised by him within the said period of 6 months or 9 months, as the case may be;
 
 (g) the name of the author and the title of the particular edition of the work proposed to be translated are printed on all the copies of the translation;
 
@@ -2858,9 +2845,9 @@ and in either case, the government of the country to which the copies are export
 
 ### Licence to reproduce and publish works for certain purposes
 
-145\.—(1) Where, after the expiration of the relevant period from the date of the first publication of an edition of a literary, scientific or artistic work, —
+145\.—(1) Where, after the expiration of the relevant period from the date of the first publication of an edition of a literary, scientific or artistic work —
 
-(a) the copies of such edition are not made available in Singapore; or
+(a) copies of that edition are not made available in Singapore; or
 
 (b) such copies have not been put on sale in Singapore for a period of 6 months,
 
@@ -2870,15 +2857,15 @@ by the owner of the right of reproduction or by any person authorised by him in 
 
 (3) Every applicant for a licence under this section shall, along with his application, deposit with the Copyright Tribunal such fee as may be prescribed.
 
-(4) Where an application is made to the Copyright Tribunal under this section, it may, after holding such inquiry as may be prescribed, grant to the applicant a licence, not being an exclusive licence to produce and publish a reproduction of the work mentioned in the application subject to the conditions that, —
+(4) Where an application is made to the Copyright Tribunal under this section, it may, after holding such inquiry as may be prescribed, grant to the applicant a licence, not being an exclusive licence to produce and publish a reproduction of the work mentioned in the application subject to the conditions that —
 
-(a) the applicant shall pay to the owner of the copyright in the work royalties in respect of copies of the reproduction of the work sold to the public, calculated at such rate as the Copyright Tribunal may, in the circumstances of each case, determine in the prescribed manner, except that the royalties shall be consistent with the standards normally operating in the case of licences freely negotiated between persons in Singapore and owners of reproduction rights in the country of the owner of the reproduction right.
+(a) the applicant shall pay to the owner of the copyright in the work royalties in respect of copies of the reproduction of the work sold to the public, calculated at such rate as the Copyright Tribunal may, in the circumstances of each case, determine in the prescribed manner, except that the royalties shall be consistent with the standards normally operating in the case of licences freely negotiated between persons in Singapore and owners of reproduction rights in the country of the owner of the reproduction right; and
 
 (b) a licence granted under this section shall not extend to the export of copies of the reproduction of the work outside Singapore and every copy of such reproduction shall contain a notice that the copy is available for distribution only in Singapore.
 
 (5) No licence shall be granted to an applicant under this section unless —
 
-(a) the applicant has proved to the satisfaction of the Copyright Tribunal that he — had requested and had been denied authorisation by the owner of the copyright in the work to reproduce and publish such work or that he was, after due diligence on his part, unable to find such owner;
+(a) the applicant has proved to the satisfaction of the Copyright Tribunal that he had requested and had been denied authorisation by the owner of the copyright in the work to reproduce and publish such work or that he was, after due diligence on his part, unable to find the owner;
 
 (b) where the applicant was, after due diligence on his part, unable to find the owner of the copyright, he had sent a copy of his request for such authorisation by registered air-mail post to the publisher whose name appears from the work not less than 3 months before the application for the licence;
 
@@ -2898,15 +2885,15 @@ by the owner of the right of reproduction or by any person authorised by him in 
 
 (6) No licence to reproduce and publish the translation of a work shall be granted under this section unless such translation has been published by the owner of the right of translation or any person authorised by him and the translation is in a language in general use in Singapore.
 
-(7) The provisions of this section shall also apply to the reproduction and publication, or translation into a language in general use in Singapore, of any text incorporated in audio-visual fixations prepared and published solely for the purpose of systematic instructional activities.
+(7) This section shall also apply to the reproduction and publication, or translation into a language in general use in Singapore, of any text incorporated in audio-visual fixations prepared and published solely for the purpose of systematic instructional activities.
 
 (8) For the purposes of this section, “relevant period”, in relation to any work, means a period of —
 
-(a) seven years from the date of the first publication of that work, where the application is for the reproduction and publication of any work of, or relating to fiction, poetry, drama, music or art;
+(a) 7 years from the date of the first publication of that work, where the application is for the reproduction and publication of any work of, or relating to fiction, poetry, drama, music or art;
 
-(b) three years from the date of the first publication of that work, where the application is for the reproduction and publication of any work of, or relating to natural science, physical science, mathematics or technology; and
+(b) 3 years from the date of the first publication of that work, where the application is for the reproduction and publication of any work of, or relating to natural science, physical science, mathematics or technology; and
 
-(c) five years from the date of the first publication of that work, in any other case.
+(c) 5 years from the date of the first publication of that work, in any other case.
 
 ### Licence for domestic broadcasting organisation
 
@@ -2918,25 +2905,25 @@ by the owner of the right of reproduction or by any person authorised by him in 
 
 for broadcasting such translation for the purposes of teaching or for the dissemination of the results of specialised, technical or scientific research to the experts in any particular field.
 
-(2) The provisions of section 144(2) to (4) shall, with the necessary modifications, apply to the grant of a licence under this section and such licence shall not also be granted unless —
+(2) Section 144(2) to (4) shall, with the necessary modifications, apply to the grant of a licence under this section and the licence shall not also be granted unless —
 
 (a) the translation is made from a work lawfully acquired;
 
 (b) the broadcast is made through the medium of sound and visual recordings;
 
-(c) such recording has been lawfully and exclusively made for the purpose of broadcasting in Singapore by the applicant or by any other broadcasting agency; and
+(c) the recording has been lawfully and exclusively made for the purpose of broadcasting in Singapore by the applicant or by any other broadcasting agency; and
 
-(d) the translation and the broadcasting of such translation are not used for any commercial purpose.
+(d) the translation and the broadcasting of the translation are not used for any commercial purpose.
 
-### Termination of licences issued under this Part
+### Termination of licences granted under this Part
 
-147\.—(1) If at any time after the granting of a licence to produce and publish the translation of a work in any language under section 144 (referred to in this section as the licensed work), the owner of the copyright in the work or any person authorised by him publishes a translation of such work in the same language and which is substantially the same in content at a price reasonably related to the price normally charged in Singapore for the translation of works of the same standard on the same or similar subject, the licence so granted shall subject to this section be terminated.
+147\.—(1) If at any time after the granting of a licence to produce and publish the translation of a work in any language under section 144 (referred to in this section as the licensed work), the owner of the copyright in the work or any person authorised by him publishes a translation of the work in the same language and which is substantially the same in content at a price reasonably related to the price normally charged in Singapore for the translation of works of the same standard on the same or similar subject, the licence so granted shall, subject to this section, be terminated.
 
-(2) If, at any time after the granting of a licence to produce and publish the reproduction or translation of any work under section 145, the owner of the right of reproduction or any person authorised by him sells or distributes copies of such work or a translation thereof, as the case may be, in the same language and which is substantially the same in content at a price reasonably related to the price normally charged in Singapore for works of the same standard on the same or similar subject, the licence so granted shall subject to this section be terminated.
+(2) If, at any time after the granting of a licence to produce and publish the reproduction or translation of any work under section 145, the owner of the right of reproduction or any person authorised by him sells or distributes copies of the work or a translation thereof, as the case may be, in the same language and which is substantially the same in content at a price reasonably related to the price normally charged in Singapore for works of the same standard on the same or similar subject, the licence so granted shall, subject to this section, be terminated.
 
 (3) No termination of the licence shall take effect until after the expiry of a period of 3 months from the date of service of a notice in the prescribed manner on the person holding the licence by the owner of the right of reproduction or of the right of translation, as the case may be, intimating the sale or distribution of the copies of the editions of work as aforesaid.
 
-(4) Copies of the licensed work produced and published or already reproduced by the licensee before the termination of his licence takes effect may continue to be sold or distributed until such copies are exhausted.
+(4) Copies of the licensed work produced and published or already reproduced by the licensee before the termination of his licence takes effect may continue to be sold or distributed until the copies are exhausted.
 
 ### Discontinuation of this Part
 
@@ -2946,7 +2933,7 @@ for broadcasting such translation for the purposes of teaching or for the dissem
 
 ## PART VII
 
-THE COPYRIGHT TRIBUNAL
+COPYRIGHT TRIBUNAL
 
 Division 1 —
 
@@ -2962,15 +2949,13 @@ Preliminary
 
 “licensor” means the owner or prospective owner of the copyright in the work or any body of persons (whether corporate or unincorporate) acting as agent for the owner or prospective owner in relation to the negotiation or granting of such licences;
 
-“member” means a member of the Tribunal, and includes the President;
+“member” means a member of the Tribunal, and includes the President of the Tribunal;
 
 “order” includes an interim order;
 
 “organisation” means an organisation or association of persons whether corporate or unincorporate;
 
 “party” includes a person making representations to the Tribunal at an inquiry under section 157;
-
-“President” means the President of the Tribunal;
 
 “proceeding”, in relation to the Tribunal, includes an inquiry by the Tribunal under section 157.
 
@@ -2998,49 +2983,49 @@ that case shall be deemed not to be a case to which the scheme applies.
 
 Division 2 —
 
-Constitution of the Tribunal
+Constitution of Tribunal
 
 ### Establishment of Tribunal
 
-151\.—(1) There shall be established a Tribunal, to be called the Copyright Tribunal, which shall consist of a President and of not less than two nor more than 4 other members appointed by the Minister.
+151\.—(1) There shall be established a Tribunal, to be called the Copyright Tribunal, which shall consist of a President of the Tribunal and of not less than two nor more than 4 other members appointed by the Minister.
 
-(2) The President shall possess the qualifications required for a District Judge under section 9(3) of the Subordinate Courts Act (Cap. 14).
+(2) The President of the Tribunal shall possess the qualifications required for a District Judge under section 9(3) of the Subordinate Courts Act [Cap. 321].
 
 (3) There shall be paid to the members of the Tribunal who are not public officers such remuneration (whether by way of salaries or fees), and such allowances, as the Minister may determine.
 
-(4) The Minister may appoint such officers and servants of the Tribunal as the Minister may determine.
+(4) The Minister may appoint such officers and employees of the Tribunal as the Minister may determine.
 
-(5) The remuneration and allowances of members of the Tribunal, the remuneration of any officers and servants appointed under subsection (4) and such other expenses of the Tribunal as the Minister may determine, shall be paid out of moneys provided by Parliament.
+(5) The remuneration and allowances of members of the Tribunal, the remuneration of any officers and employees appointed under subsection (4) and such other expenses of the Tribunal as the Minister may determine, shall be paid out of moneys provided by Parliament.
 
 ### Tenure of office
 
-152\.—(1) Subject to the provisions of this section, the members of the Tribunal shall hold office for such period as may be determined at the time of their respective appointments; and a person who ceases to hold office as a member of the Tribunal shall be eligible for re-appointment.
+152\.—(1) Subject to this section, the members of the Tribunal shall hold office for such period as may be determined at the time of their respective appointments; and a person who ceases to hold office as a member of the Tribunal shall be eligible for reappointment.
 
 (2) Any member of the Tribunal may at any time by notice in writing to the Minister resign his appointment.
 
 (3) The Minister may declare the office of any member of the Tribunal vacant on the ground of his unfitness to continue in office or incapacity to perform the duties thereof.
 
-### Minister may appoint any person to act for absent member, etc
+### Minister may appoint any person to act for absent member, etc.
 
 153\. If any member of the Tribunal is, by reason of illness, absence or other reasonable cause, for the time being unable to perform the duties of his office, either generally or in relation to any particular proceedings, the Minister may appoint some other duly qualified person to discharge the duties of that member for any period, not exceeding 6 months at one time, or, as the case may be, in relation to those proceedings; and a person so appointed shall, during that period or in relation to those proceedings, have the same powers as the person in whose place he is appointed.
 
 ### Quorum
 
-154\. If at any time there are more than two members of the Tribunal, in addition to the President, then, for the purposes of any proceedings, the Tribunal may consist of the President together with any two or more of those members.
+154\. If at any time there are more than two members of the Tribunal, in addition to the President of the Tribunal, then, for the purposes of any proceedings, the Tribunal may consist of the President together with any two or more of those members.
 
 ### Decision of Tribunal
 
-155\. If the members of the Tribunal dealing with any reference or application are unable to agree as to the order to be made by the Tribunal, a decision shall be taken by the votes of the majority; and, in the event of an equality of votes, the President shall be entitled to a second or casting vote.
+155\. If the members of the Tribunal dealing with any reference or application are unable to agree as to the order to be made by the Tribunal, a decision shall be taken by the votes of the majority; and, in the event of an equality of votes, the President of the Tribunal shall be entitled to a second or casting vote.
 
 ### Sittings of Tribunal
 
-156\.—(1) Sittings of the Tribunal shall be held at such places and times as the President determines.
+156\.—(1) Sittings of the Tribunal shall be held at such places and times as the President of the Tribunal determines.
 
 (2) The exercise of the powers of the Tribunal shall not be affected by a vacancy or vacancies in the membership of the Tribunal.
 
 Division 3 —
 
-Inquiries by, and Applications and References to, the Tribunal
+Inquiries by, and Applications and References to, Tribunal
 
 ### Inquiries into royalty payable in respect of records of musical works
 
@@ -3070,7 +3055,7 @@ Inquiries by, and Applications and References to, the Tribunal
 
 ### Applications to Tribunal for apportionment of royalty in respect of a record
 
-159\.—(1) This section shall apply where an application is made to the Tribunal in pursuance of paragraph (b) of section 60(3) for an apportionment of an amount payable in respect of a record between the owner of the copyright in a musical work and the owner of the copyright in a literary or dramatic work.
+159\.—(1) This section shall apply where an application is made to the Tribunal in pursuance of section 60(3)(b) for an apportionment of an amount payable in respect of a record between the owner of the copyright in a musical work and the owner of the copyright in a literary or dramatic work.
 
 (2) The parties to an application in relation to which this section applies are —
 
@@ -3094,7 +3079,7 @@ Inquiries by, and Applications and References to, the Tribunal
 
 (4) The Tribunal shall consider a scheme referred under this section and, after giving to the parties to the reference an opportunity of presenting their cases, shall make such order, either confirming or varying the scheme, as the Tribunal considers reasonable in the circumstances.
 
-(5) An order (other than an interim order) of the Tribunal under this section may, notwithstanding anything contained in the licence scheme to which it relates, be made so as to be in force either indefinitely or for such period as the Tribunal thinks fit.
+(5) An order (other than an interim order) of the Tribunal under this section may, notwithstanding anything in the licence scheme to which it relates, be made so as to be in force either indefinitely or for such period as the Tribunal thinks fit.
 
 (6) Where a licence scheme has been referred to the Tribunal under this section, the licensor may do either or both of the following things:
 
@@ -3102,9 +3087,9 @@ Inquiries by, and Applications and References to, the Tribunal
 
 (b) withdraw the reference at any time before the Tribunal makes an order in pursuance of the reference, whether the scheme has been brought into operation or not.
 
-(7) If the scheme is not brought into operation before an order is made in pursuance of the reference, the scheme as confirmed or varied by the order comes into operation, notwithstanding anything contained in the scheme, forthwith upon the making of the order.
+(7) If the scheme is not brought into operation before an order is made in pursuance of the reference, the scheme as confirmed or varied by the order comes into operation, notwithstanding anything in the scheme, forthwith upon the making of the order.
 
-(8) After the making of an order in pursuance of the reference, the scheme as confirmed or varied by the order shall remain in operation, notwithstanding anything contained in the scheme, so long as the order remains in force.
+(8) After the making of an order in pursuance of the reference, the scheme as confirmed or varied by the order shall remain in operation, notwithstanding anything in the scheme, so long as the order remains in force.
 
 ### Reference of existing licence schemes to Tribunal
 
@@ -3130,15 +3115,15 @@ the licensor, organisation or person concerned may refer the scheme to the Tribu
 
 (5) Subject to subsection (4), where a licence scheme is referred to the Tribunal under this section, the Tribunal shall consider the matter in dispute and, after giving to the parties to the reference an opportunity of presenting their cases, shall make such order, either confirming or varying the scheme, insofar as it relates to cases included in the class of cases to which the reference relates, as the Tribunal considers reasonable in the circumstances.
 
-(6) An order (other than an interim order) of the Tribunal under this section may, notwithstanding anything contained in the licence scheme to which it relates, be made so as to be in force either indefinitely or for such period as the Tribunal thinks fit.
+(6) An order (other than an interim order) of the Tribunal under this section may, notwithstanding anything in the licence scheme to which it relates, be made so as to be in force either indefinitely or for such period as the Tribunal thinks fit.
 
 (7) A reference of a licence scheme to the Tribunal under this section may be withdrawn at any time before an order is made in pursuance of the reference.
 
-(8) Where a licence scheme has been referred to the Tribunal under this section, the scheme shall remain in operation, notwithstanding anything contained in the scheme, until the Tribunal makes an order in pursuance of the reference.
+(8) Where a licence scheme has been referred to the Tribunal under this section, the scheme shall remain in operation, notwithstanding anything in the scheme, until the Tribunal makes an order in pursuance of the reference.
 
 (9) Subsection (8) shall not apply in relation to a reference with respect to any period after the reference has been withdrawn or after the Tribunal has refused to begin to consider the reference in pursuance of subsection (4).
 
-(10) After the making of an order in pursuance of the reference, the scheme as confirmed or varied by the order shall remain in operation, notwithstanding anything contained in the scheme, so long as the order remains in force.
+(10) After the making of an order in pursuance of the reference, the scheme as confirmed or varied by the order shall remain in operation, notwithstanding anything in the scheme, so long as the order remains in force.
 
 ### Further reference of licence schemes to Tribunal
 
@@ -3170,7 +3155,7 @@ may refer the scheme again to the Tribunal insofar as it relates to cases includ
 
 (5) Section 161(3), (4) and (6) to (10) inclusive shall apply for the purposes of this section.
 
-(6) Subsections (1) to (5) shall have effect in relation to orders made under this section in like manner as they have effect in relation to orders made under either section 160 or 161.
+(6) Subsections (1) to (5) shall have effect in relation to orders made under this section in like manner as they have effect in relation to orders made under section 160 or 161.
 
 (7) Nothing in this section shall prevent a licence scheme in respect of which an order has been made under section 160 or 161 from being again referred to the Tribunal under that section —
 
@@ -3248,11 +3233,11 @@ the applicant shall be in the like position, in any proceedings for infringement
 
 (a) any such person has complied with the conditions specified in the order; and
 
-(b) in the case where the order specifies any charges — the person has paid those charges to the licensor or, if the amount payable could not be ascertained, has given to the licensor an undertaking in writing to pay the charges when ascertained,
+(b) in the case where the order specifies any charges —the person has paid those charges to the licensor or, if the amount payable could not be ascertained, has given to the licensor an undertaking in writing to pay the charges when ascertained,
 
 that person shall be in the like position, in any proceedings for infringement of copyright relating to any of those matters, as if he had at all material times been the holder of a licence granted by the owner of the copyright concerned on the conditions, and subject to payment of the charges (if any), specified in the order.
 
-(6) Where a person in relation to whom an order referred to subsection (4) or (5) applies does, in relation to any of the matters specified in that order, anything that, apart from that subsection, would be an infringement of copyright but would not be such an infringement if he were the holder of a licence in respect of the doing of that thing granted by the owner of the copyright concerned on the conditions and subject to payment of the charges (if any) specified in the order, that person shall be liable to pay to the owner of the copyright the amount of any charges that would be payable if he were the holder of such a licence and the owner of the copyright may recover that amount in a court of competent jurisdiction from the person as a debt due to the owner of the copyright.
+(6) Where a person in relation to whom an order referred to in subsection (4) or (5) applies does, in relation to any of the matters specified in that order, anything that, apart from that subsection, would be an infringement of copyright but would not be such an infringement if he were the holder of a licence in respect of the doing of that thing granted by the owner of the copyright concerned on the conditions and subject to payment of the charges (if any) specified in the order, that person shall be liable to pay to the owner of the copyright the amount of any charges that would be payable if he were the holder of such a licence and the owner of the copyright may recover that amount in a court of competent jurisdiction from the person as a debt due to the owner of the copyright.
 
 ### Attorney-General may make application for suspension order
 
@@ -3282,9 +3267,9 @@ that person shall be in the like position, in any proceedings for infringement o
 
 ### Interim orders
 
-168\. Where an application or reference is made to the Tribunal under this Act, the Tribunal may make an interim order having effect until the final decision of the Tribunal on the application or reference.
+168\. Where an application or reference is made to the Tribunal under this Act, the Tribunal may make an interim order having effect until the final decision of the Tribunal on the application or reference is given.
 
-### Reference of questions of law to the High Court
+### Reference of questions of law to High Court
 
 169\.—(1) The Tribunal may, of its own motion or at the request of a party, refer a question of law arising in proceedings before it for determination by the High Court.
 
@@ -3308,7 +3293,7 @@ that person shall be in the like position, in any proceedings for infringement o
 
 ### Agreements or awards not affected
 
-170\. Nothing in this Part shall affect the operation of any agreement or of any award made by an arbitrator, whether the agreement or award was made before, or is made after, the commencement of this Act.
+170\. Nothing in this Part shall affect the operation of any agreement or of any award made by an arbitrator, whether the agreement or award was made before, or is made after, 10th April 1987.
 
 Division 4 —
 
@@ -3336,7 +3321,7 @@ Procedure and Evidence
 
 (a) the procedure of the Tribunal shall, subject to this Act and the regulations, be within the discretion of the Tribunal;
 
-(b) the Tribunal shall not be bound by the rules of evidence; and
+(b) the Tribunal shall not be bound by the Evidence Act [Cap. 97]; and
 
 (c) the proceedings shall be conducted with as little formality, and with as much expedition, as the requirements of this Act and a proper consideration of the matters before the Tribunal permit.
 
@@ -3392,9 +3377,9 @@ Miscellaneous
 
 179\.—(1) A member shall have, in the performance of his duty as a member, the same protection and immunity as a judge of the High Court.
 
-(2) A person shall, to appear before the Tribunal as a witness shall have the same protection, and is, in addition to the penalties provided by this Act, be subject to the same liabilities, in any civil or criminal proceedings as a witness in proceedings in the High Court.
+(2) A person summoned to appear before the Tribunal as a witness shall have the same protection, and shall, in addition to the penalties provided by this Act, be subject to the same liabilities, in any civil or criminal proceedings as a witness in proceedings in the High Court.
 
-### Disobedience to summons, etc
+### Disobedience to summons, etc.
 
 180\.—(1) A person who has been summoned to appear as a witness before the Tribunal shall not, without lawful excuse, and after tender of reasonable expenses, fail to appear in obedience to the summons.
 
@@ -3402,9 +3387,9 @@ Miscellaneous
 
 (3) A person who appears before the Tribunal shall not, without lawful excuse, refuse to be sworn or to make an affirmation, or to produce documents or articles, or to answer questions, that he is required by the Tribunal to produce or answer.
 
-(4) Any person who contravenes any of the provisions of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 months.
+(4) Any person who contravenes this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 months.
 
-### Contempt of Tribunal, etc
+### Contempt of Tribunal, etc.
 
 181\.—(1) A person shall not —
 
@@ -3416,13 +3401,13 @@ Miscellaneous
 
 (d) create a disturbance or take part in creating or continuing a disturbance in or near a place where the Tribunal is sitting;
 
-(e) contravene or fail to comply with a direction of the Tribunal given under paragraph (b) of section 171(2); or
+(e) contravene or fail to comply with a direction of the Tribunal given under section 171(2)(b); or
 
 (f) do any other act or thing that would, if the Tribunal were a court of record, constitute a contempt of that court.
 
 (2) Any person who contravenes any of the provisions of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 months.
 
-### Cost of Proceedings
+### Cost of proceedings
 
 182\.—(1) The Tribunal may order that the costs of any proceedings before it incurred by any party, or a part of those costs, shall be paid by any other party and may tax or settle the amount of the costs to be so paid, or specify the manner in which they are to be taxed.
 
@@ -3432,13 +3417,13 @@ Miscellaneous
 
 ### Proof of orders of Tribunal
 
-183\. Without prejudice to any other method available by law for the proof of orders of the Tribunal, a document purporting to be a copy of such an order, and to be certified by the Secretary to the Tribunal to be a true copy of the order, shall be admitted in any proceeding, as evidence of the order.
+183\. Without prejudice to any other method available by law for the proof of orders of the Tribunal, a document purporting to be a copy of such an order, and to be certified by the Secretary to the Tribunal to be a true copy of the order, shall be admitted in any proceedings, as evidence of the order.
 
 ## PART VIII
 
-EXTENSION OR RESTRICTION OF ACT
+EXTENSION OR RESTRICTION OF THIS ACT
 
-### Application of Act to countries other than Singapore
+### Application of this Act to countries other than Singapore
 
 184\.—(1) The Minister may make regulations applying any of the provisions of this Act specified in the regulations, in relation to a country so specified, in any one or more of the following ways, so as to secure that those provisions:
 
@@ -3452,7 +3437,7 @@ EXTENSION OR RESTRICTION OF ACT
 
 (e) apply in relation to television broadcasts and sound broadcasts made from places in that country, by one or more organisations constituted in, or under the laws of, that country, as they apply in relation to television broadcasts and sound broadcasts made from places in Singapore by the Singapore Broadcasting Corporation;
 
-(f) apply in relation to cable programmes sent from places in that country, as they apply in relation to cable programmes sent from places in Singapore.
+(f) apply in relation to cable programmes sent from places in that country as they apply in relation to cable programmes sent from places in Singapore.
 
 (2) Regulations made under subsection (1) —
 
@@ -3466,11 +3451,11 @@ EXTENSION OR RESTRICTION OF ACT
 
 185\.—(1) Where it appears to the Minister that it is desirable that this Act should apply in relation to an organisation —
 
-(a) of which two or more countries, or the Governments of two or more countries, are members; or
+(a) of which two or more countries, or the governments of two or more countries, are members; or
 
-(b) that is constituted by persons representing two or more countries, or representing the Governments of two or more countries,
+(b) that is constituted by persons representing two or more countries, or representing the governments of two or more countries,
 
-the Minister may by regulations made under this Act declare that organisation to be an international organisation to which this Act applies.
+the Minister may by regulations declare that organisation to be an international organisation to which this Act applies.
 
 (2) An international organisation to which this Act applies that otherwise does not have, or at some material time otherwise did not have, the legal capacities of a body corporate shall have, and shall be deemed at all material times to have had, the legal capacities of a body corporate for the purpose of holding, dealing with and enforcing copyright and for the purposes of all legal proceedings relating to copyright.
 
@@ -3504,7 +3489,7 @@ the Minister may by regulations made under this Act declare that organisation to
 
 186\.—(1) If it appears to the Minister that the law of a country does not give adequate protection to Singapore works, or does not give adequate protection in relation to a class or classes of such works (whether the lack of protection relates to the nature of the work or the nationality, citizenship or country of residence of its author, or all of those matters), the Minister may by regulations make provision in relation to that country in accordance with subsection (2).
 
-(2) Regulations made for the purposes of this section may provide, either generally or in such classes of cases as are specified in the regulations, that copyright under this Act does not subsist in works first published after a date specified in those regulations (which may be a date before the commencement of those regulations or before the commencement of this Act) if, at the time of the first publication of those works, the authors of the works were or are —
+(2) Regulations made for the purposes of this section may provide, either generally or in such classes of cases as are specified in the regulations, that copyright under this Act does not subsist in works first published after a date specified in those regulations (which may be a date before the commencement of those regulations or before 10th April 1987 [S 107/87]) if, at the time of the first publication of those works, the authors of the works were or are —
 
 (a) citizens or nationals of a country specified in those regulations, not being at that time persons resident in Singapore; or
 
@@ -3550,9 +3535,7 @@ FALSE ATTRIBUTION OF AUTHORSHIP
 
 (3) After the death of the author of a work, a person shall, by virtue of this section, be under a duty to the legal personal representative of the author not to do in relation to, or to a reproduction of, the work or an adaptation of the work any act that, but for the death of the author, the person would, by reason of either subsection (1) or (2) have been under a duty to the author not to do.
 
-(4) In this section,
-
-“work”, means a work in which copyright subsists.
+(4) In this section, “work” means a work in which copyright subsists.
 
 ### Duty not to attribute falsely the authorship of altered work
 
@@ -3600,9 +3583,9 @@ MISCELLANEOUS
 
 ### Assignments and licences in respect of copyright
 
-194\.—(1) Subject to this section, copyright shall be transmissible by assignment, by testamentary disposition, or by operation of law as personal or moveable property.
+194\.—(1) Subject to this section, copyright shall be transmissible by assignment, by testamentary disposition, or by operation of law as personal or movable property.
 
-(2) An assignment of copyright may be limited in any of the following ways, or in any combination of two or more of those ways, —
+(2) An assignment of copyright may be limited in any of the following ways, or in any combination of two or more of those ways:
 
 (a) so as to apply to one or more, but not all, of the classes of acts which by virtue of this Act the owner of the copyright has the exclusive right to do (including any one or more classes of acts not separately designated in this Act as being restricted by the copyright, but falling within any of the classes of acts so designated);
 
@@ -3618,7 +3601,7 @@ and references in this Act to a partial assignment are references to an assignme
 
 ### Prospective ownership of copyright
 
-195\.—(1) Where by an agreement made in relation to any future copyright, and signed by or on behalf of the prospective owner of the copyright, the prospective owner purports to assign the future copyright (wholly or partially) to another person (referred to in this subsection as the assignee), then if, on the coming into existence of the copyright, the assignee or a person claiming under him would, apart from this subsection be entitled as against all other persons to require the copyright to be vested in him (wholly or partially, as the case may be), the copyright shall, on its coming into existence, vest in the assignee or his successor in title accordingly by virtue of this subsection and without further assurance.
+195\.—(1) Where by an agreement made in relation to any future copyright, and signed by or on behalf of the prospective owner of the copyright, the prospective owner purports to assign the future copyright (wholly or partially) to another person (referred to in this subsection as the assignee), then if, on the coming into existence of the copyright, the assignee or a person claiming under him would, apart from this subsection, be entitled as against all other persons to require the copyright to be vested in him (wholly or partially, as the case may be), the copyright shall, on its coming into existence, vest in the assignee or his successor in title accordingly by virtue of this subsection and without further assurance.
 
 (2) Where, at the time when any copyright comes into existence, the person who, if he were then living, would be entitled to the copyright is dead, the copyright shall devolve as if it had subsisted immediately before his death and he had then been the owner of the copyright.
 
@@ -3630,15 +3613,15 @@ and references in this Act to a partial assignment are references to an assignme
 
 ### Provisions as to Government copyright
 
-197\.—(1) In the case of every original literary, dramatic, musical or artistic work made by or under the direction or control of a Government department, —
+197\.—(1) In the case of every original literary, dramatic, musical or artistic work made by or under the direction or control of the Government —
 
 (a) if apart from this section copyright would not subsist in the work, copyright shall subsist therein by virtue of this subsection; and
 
-(b) in any case, the Government shall, subject to the provisions of this Part, be entitled to the copyright in the work.
+(b) in any case, the Government shall, subject to this Part, be entitled to the copyright in the work.
 
-(2) The Government shall, subject to the provisions of this Part, be entitled to the copyright in every original literary, dramatic, musical or artistic work first published in Singapore, or in another country to which section 27 extends, if first published by or under the direction or control of the Government.
+(2) The Government shall, subject to this Part, be entitled to the copyright in every original literary, dramatic, musical or artistic work first published in Singapore, or in another country to which section 27 extends, if first published by or under the direction or control of the Government.
 
-(3) Copyright in a literary, dramatic or musical work, to which the Government is entitled in accordance with subsection (1) or (2), —
+(3) Copyright in a literary, dramatic or musical work, to which the Government is entitled in accordance with subsection (1) or (2) —
 
 (a) where the work is unpublished, shall continue to subsist so long as the work remains unpublished; and
 
@@ -3648,13 +3631,13 @@ and references in this Act to a partial assignment are references to an assignme
 
 Provided that where the work in question is an engraving or a photograph, the copyright shall continue to subsist until the end of the period of 50 years from the end of the calendar year in which the engraving or photograph is first published.
 
-(5) In the case of every sound recording or cinematograph film made by or under the direction or control of a Government department —
+(5) In the case of every sound recording or cinematograph film made by or under the direction or control of the Government —
 
 (a) if apart from this section copyright would not subsist in the recording or film, copyright shall subsist therein by virtue of this subsection; and
 
-(b) in any case, shall, subject to the provisions of this Part, be entitled to the copyright in the recording or film; and it shall subsist for the same period as if it were copyright subsisting by virtue of, and owned in accordance with, Part III or IV, as the case may be.
+(b) in any case, the Government shall, subject to this Part, be entitled to the copyright in the recording or film; and it shall subsist for the same period as if it were copyright subsisting by virtue of, and owned in accordance with, Part III or IV, as the case may be.
 
-(6) This section shall have effect subject to any agreement made by or on behalf of a Government department with the author of the work, or the maker of the sound recording or cinematograph film, as the case may be, whereby it is agreed that the copyright in the work, recording or film shall vest in the author or maker, or in another person designated in the agreement in that behalf.
+(6) This section shall have effect subject to any agreement made by or on behalf of the Government with the author of the work, or the maker of the sound recording or cinematograph film, as the case may be, whereby it is agreed that the copyright in the work, recording or film shall vest in the author or maker, or in another person designated in the agreement in that behalf.
 
 (7) In relation to copyright subsisting by virtue of this section —
 
@@ -3664,11 +3647,11 @@ Provided that where the work in question is an engraving or a photograph, the co
 
 shall apply as those provisions apply in relation to copyright subsisting by virtue of Part III or IV, as the case may be.
 
-(8) For the avoidance of doubt, it is hereby declared that section 12 of the Government Proceedings Act (which relates to infringements of industrial property by servants or agents of the Crown) shall apply to copyright under this Act (Cap. 21).
+(8) For the avoidance of doubt, it is hereby declared that section 12 of the Government Proceedings Act [Cap. 121] (which relates to infringements of industrial property by employees or agents of the Government) shall apply to copyright under this Act.
 
-### Use of copyright material for the service of the Government
+### Use of copyright material for service of Government
 
-198\.—(1) The copyright in a literary, dramatic, musical or artistic work or a published edition of such a work, or in a sound recording, cinematograph film, television broadcast, sound broadcast or cable programme, is not infringed by the Government or by a person authorised in writing by the Government doing any acts comprised in the copyright if the acts are done for the service of the Government.
+198\.—(1) The copyright in a literary, dramatic, musical or artistic work or a published edition of such a work, or in a sound recording, cinematograph film, television broadcast, sound broadcast or cable programme, shall not be infringed by the Government or by a person authorised in writing by the Government doing any acts comprised in the copyright if the acts are done for the service of the Government.
 
 (2) Where the Government has made an agreement or arrangement with the government of some other country for the supply to that country of goods required for the defence of that country —
 
@@ -3676,21 +3659,21 @@ shall apply as those provisions apply in relation to copyright subsisting by vir
 
 (b) the sale to any person of such of those goods as are not required for the purposes of the agreement or arrangement,
 
-shall, for the purposes of subsection (1) be each deemed to be for the service of the Government.
+shall, for the purposes of subsection (1), be each deemed to be for the service of the Government.
 
 (3) Authority may be given under subsection (1) before or after the acts in respect of which the authority is given have been done, and may be given to a person notwithstanding that he had a licence granted by, or binding on, the owner of the copyright to do the acts.
 
-(4) Where an act comprised in a copyright has been done under subsection (1) the Government shall as soon as possible, unless it appears to the Government that it would be contrary to the public interest to do so, inform the owner of the copyright, as prescribed, of the doing of the act and shall furnish him with such information as to the doing of the act as he from time to time reasonably requires.
+(4) Where an act comprised in a copyright has been done under subsection (1), the Government shall as soon as possible, unless it appears to the Government that it would be contrary to the public interest to do so, inform the owner of the copyright, as prescribed, of the doing of the act and shall furnish him with such information as to the doing of the act as he from time to time reasonably requires.
 
-(5) Where an act comprised in a copyright has been done under subsection (1), the terms for the doing of the act are such terms as are whether before or after the act is done, agreed between the Government and the owner of the copyright or, in default of agreement, as are fixed by the Copyright Tribunal.
+(5) Where an act comprised in a copyright has been done under subsection (1), the terms for the doing of the act are such terms as are, whether before or after the act is done, agreed between the Government and the owner of the copyright or, in default of agreement, as are fixed by the Copyright Tribunal.
 
-(6) An agreement or licence (whether made or granted before or after the commencement of this Act) fixing the terms upon which a person other than the Government may do acts comprised in a copyright is inoperative with respect to the doing of those acts after the commencement of this Act, under subsection (1), unless the agreement or licence has been approved by the Minister.
+(6) An agreement or licence (whether made or granted before or after 10th April 1987 [S 107/87]) fixing the terms upon which a person other than the Government may do acts comprised in a copyright is inoperative with respect to the doing of those acts after that date, under subsection (1), unless the agreement or licence has been approved by the Minister.
 
 (7) Where an article is sold and the sale is not by virtue of subsection (1), an infringement of a copyright, the purchaser of the article, and a person claiming through him, is entitled to deal with the article as if the Government were the owner of that copyright.
 
 (8) An act done under subsection (1) does not constitute publication of a work or other subject-matter and shall not be taken into account in the application of any provision of this Act relating to the duration of any copyright.
 
-(9) Where an exclusive licence is in force in relation to any copyright, subsections (1) to (8) have effect as if any reference in those subsections to the owner of the copyright were a reference to the exclusive licensee.
+(9) Where an exclusive licence is in force in relation to any copyright, subsections (1) to (8) shall have effect as if any reference in those subsections to the owner of the copyright were a reference to the exclusive licensee.
 
 (10) The copying of the whole or a part of a work for the teaching purposes of an educational institution of, or under the control of the Government shall, for the purposes of this section, be deemed not to be an act done for the service of the Government.
 
@@ -3708,13 +3691,13 @@ shall, for the purposes of subsection (1) be each deemed to be for the service o
 
 ### Groundless threats of legal proceedings
 
-200\.—(1) Where a person, by means of circulars, advertisements or otherwise, threatens a person with an action or proceedings in respect of an infringement of copyright, then, whether the person making the threats is or is not the owner of the copyright or an exclusive licensee, a person aggrieved may bring an action against the first-mentioned person and may obtain a declaration to the effect that the threats are unjustifiable, and an injunction against the continuance of the threats, and may recover such damages (if any) as he has sustained, unless the first-mentioned person satisfies the court that the acts in respect of which the action or proceeding was threatened constituted, or, if done, would constitute, an infringement of copyright.
+200\.—(1) Where a person, by means of circulars, advertisements or otherwise, threatens a person with an action or proceeding in respect of an infringement of copyright, then, whether the person making the threats is or is not the owner of the copyright or an exclusive licensee, a person aggrieved may bring an action against the first-mentioned person and may obtain a declaration to the effect that the threats are unjustifiable, and an injunction against the continuance of the threats, and may recover such damages (if any) as he has sustained, unless the first-mentioned person satisfies the court that the acts in respect of which the action or proceeding was threatened constituted, or, if done, would constitute, an infringement of copyright.
 
 (2) The mere notification of the existence of a copyright does not constitute a threat of an action or proceeding within the meaning of this section.
 
 (3) Nothing in this section shall render an advocate and solicitor liable to an action under this section in respect of an act done by him in his professional capacity on behalf of a client.
 
-(4) The defendant in an action under this section may apply, by way of counterclaim, for relief to which he would be entitled in a separate action in respect of an infringement by the plaintiff of the copyright to which the threats relate and, in any such case, the provisions of this Act with respect to an action for infringement of a copyright are,mutatis mutandis, applicable in relation to the action.
+(4) The defendant in an action under this section may apply, by way of counterclaim, for relief to which he would be entitled in a separate action in respect of an infringement by the plaintiff of the copyright to which the threats relate and, in any such case, the provisions of this Act with respect to an action for infringement of a copyright are mutatis mutandis applicable in relation to the action.
 
 ### Notation of copies and handicapped readers’ copies
 
@@ -3724,13 +3707,13 @@ shall, for the purposes of subsection (1) be each deemed to be for the service o
 
 (b) in the case of a copy that was made in reliance on section 54(4), stating that the copy is a prescribed reproduction made in reliance on that subsection.
 
-(2) In proceedings against a person or body for infringement of copyright in a sound recording or a cinematograph film in connection with the making, by or on behalf or an institution of a copy of the sound recording or cinematograph film, the person or body is not entitled to rely on section 113 as justification for the making of the copy unless, at or about the time the copy was made, there was made on, or attached to, the copy a notation stating that the copy was made on behalf of that institution and setting out the date on which the copy was made.
+(2) In proceedings against a person or body for infringement of copyright in a sound recording or a cinematograph film in connection with the making, by or on behalf of an institution, of a copy of the sound recording or cinematograph film, the person or body is not entitled to rely on section 113 as justification for the making of the copy unless, at or about the time the copy was made, there was made on, or attached to, the copy a notation stating that the copy was made on behalf of that institution and setting out the date on which the copy was made.
 
 (3) In proceedings against a person or body for infringement of copyright in a work in connection with the making, on behalf of an institution assisting handicapped readers, a record embodying a sound recording of the work, or of a part of the work, the person or body is not entitled to rely on section 54(1) unless, at the time the record was made, there was embodied on the record, immediately before the commencement of that sound recording, a sound recording of a prescribed message.
 
 (4) A person who —
 
-(a) makes on a copy of the whole or a part of a work, a notation referred to in subsection (1); or
+(a) makes on a copy of the whole or a part of a work, a notation referred to in subsection (1);
 
 (b) makes on, or attaches to, a copy of a sound recording or a cinematograph film a notation of the kind referred to in subsection (2); or
 
@@ -3792,15 +3775,13 @@ of a copy of a sound recording or a cinematograph film bearing, or to which ther
 
 (2) Without prejudice to the generality of subsection (1), the regulations made under this Act may provide for the keeping and retention of records and declarations in relation to copies of works made by libraries, archives or institutions and the deposit of such records and declarations with persons appointed by the Minister.
 
-### Repeal of Copyright Act 1911
+203\. \*[Omitted.]
 
-203\. The Copyright Act 1911, the Copyright Act (Cap. 187) and the Copyright (Gramophone Records and Government Broadcasting) Act (Cap. 188) are repealed.
+\*This section repealed the U.K. Copyright Act 1911, the Copyright Act and the Copyright (Gramophone Records and Broadcasting) Act (1970 Ed. Caps. 187 and 188).
 
-[Repeal, U.K. 1911 c. 46.]
+204\. †[Omitted.]
 
-### Consequential amendment
-
-204\. Section 38 of the Singapore Broadcasting Corporation Act 1979 (Act 33 of 1979) is repealed.
+†This section repealed section 38 of the Singapore Broadcasting Corporation Act (Chapter 297).
 
 ## PART XI
 
@@ -3832,13 +3813,13 @@ Preliminary
 
 “literary work” includes a map, chart, plan, table and compilation;
 
-“perform”, in relation to a dramatic work as defined by this section or a musical work, means make an acoustic representation of the work or a visual representation of a dramatic action in the work, and includes make such a representation by means of a mechanical instrument;
+“perform”, in relation to a dramatic work as defined by this section or a musical work, means to make an acoustic representation of the work or a visual representation of a dramatic action in the work, and includes such a representation made by means of a mechanical instrument;
 
 “photograph” includes photo-lithograph and a work produced by a process similar to photography.
 
 ### References to making of works, recordings and films
 
-206\. For the purposes of any reference in this Part to works, sound recordings or cinematograph films made before the commencement of this Act, a work, sound recording or cinematograph film the making of which extended over a period shall be deemed not to have been made before the commencement of this Act unless the making of it was completed before the commencement of this Act.
+206\. For the purposes of any reference in this Part to works, sound recordings or cinematograph films made before 10th April 1987 [S 107/87], a work, sound recording or cinematograph film the making of which extended over a period shall be deemed not to have been made before that date unless the making of it was completed before that date.
 
 ### References in other laws or instruments to copyright
 
@@ -3854,13 +3835,13 @@ Preliminary
 
 ### Authorship of photographs
 
-208\. A reference in this Act to the author of a photograph shall, in relation to a photograph taken before the commencement of this Act, be read as a reference to the person who, at the time when the photograph was taken, was the owner of the material on which the photograph was taken.
+208\. A reference in this Act to the author of a photograph shall, in relation to a photograph taken before 10th April 1987, be read as a reference to the person who, at the time when the photograph was taken, was the owner of the material on which the photograph was taken.
 
 ### Publication
 
-209\.—(1) For the purposes of the application of section 24(5) in determining whether a publication that took place before the commencement of this Act was the first publication, the reference in that section to a period of not more than 30 days shall be read as a reference to a period of not more than 14 days.
+209\.—(1) For the purposes of the application of section 24(5) in determining whether a publication that took place before 10th April 1987 [S 107/87] was the first publication, the reference in that section to a period of not more than 30 days shall be read as a reference to a period of not more than 14 days.
 
-(2) For the purposes of the application of section 24(7) in relation to an act done before the commencement of this Act —
+(2) For the purposes of the application of section 24(7) in relation to an act done before that date —
 
 (a) a reference in that section to copyright shall include a reference to copyright under the Copyright Act 1911; and
 
@@ -3872,35 +3853,35 @@ Original Works
 
 ### Expired copyright not to revive
 
-210\.—(1) Notwithstanding anything in Part III, copyright shall not subsist by virtue of that Part in a work first published before the commencement of this Act unless copyright subsisted in the work under the Copyright Act 1911 immediately before the commencement of this Act.
+210\.—(1) Notwithstanding anything in Part III, copyright shall not subsist by virtue of that Part in a work first published before 10th April 1987 unless copyright subsisted in the work under the Copyright Act 1911 immediately before that date.
 
 (2) Subsection (1) shall not apply in relation to a work to which Division 5 applies.
 
 ### Original works in which copyright subsists
 
-211\.—(1) Section 27(1) shall apply to works made before the commencement of this Act as if each reference in that subsection to a qualified person included a reference to a British subject and to a person domiciled in a country to which the Copyright Act 1911 extended.
+211\.—(1) Section 27(1) shall apply to works made before 10th April 1987 as if each reference in that subsection to a qualified person included a reference to a British subject and to a person domiciled in a country to which the Copyright Act 1911 extended.
 
-(2) Section 27(2) shall apply to works first published before the commencement of this Act —
+(2) Section 27(2) shall apply to works first published before 10th April 1987 —
 
 (a) as if each reference in paragraph (c) of that subsection to Singapore included a reference to a country to which the Copyright Act 1911 extended; and
 
 (b) as if paragraphs (d) and (e) of that subsection were omitted.
 
-(3) Section 27(2) shall apply to works that are first published after the commencement of this Act and the author of which died before the commencement of the repealed Citizenship Ordinance 1957 as if the reference in paragraph (e) of that section to a qualified person included a reference to a person who would have been a citizen of Singapore if that Act had been in force immediately before his death.
+(3) Section 27(2) shall apply to works that are first published after 10th April 1987 and the author of which died before the commencement of the repealed Singapore Citizenship Ordinance 1957 [35/57]* as if the reference in paragraph (e) of that section to a qualified person included a reference to a person who would have been a citizen of Singapore if that Ordinance had been in force immediately before his death.
 
-(4) Section 27(3) shall not apply to or in relation to a building that was constructed before the commencement of this Act.
+(4) Section 27(3) shall not apply to or in relation to a building that was constructed before 10th April 1987 [S 107/87].
 
 (5) This section shall have effect subject to section 210.
 
 ### Duration of copyright in photographs
 
-212\. Section 28(6) shall not apply in relation to a photograph taken before the commencement of this Act but, subject to section 27(2) as affected by section 207, copyright subsisting in such a photograph by virtue of Part III shall continue to subsist until the expiration of 50 years after the expiration of the calendar year in which the photograph was taken.
+212\. Section 28(6) shall not apply in relation to a photograph taken before 10th April 1987 but, subject to section 27(2) as affected by section 207, copyright subsisting in such a photograph by virtue of Part III shall continue to subsist until the expiration of 50 years after the expiration of the calendar year in which the photograph was taken.
 
 ### Ownership of copyright
 
-213\.—(1) Section 30(4) and (6) shall not apply in relation to works made before the commencement of this Act.
+213\.—(1) Section 30(4) and (6) shall not apply in relation to works made before 10th April 1987.
 
-(2) Section 30(5) shall not apply in relation to a work that was or is made in pursuance of an agreement made before the commencement of this Act.
+(2) Section 30(5) shall not apply in relation to a work that was or is made in pursuance of an agreement made before 10th April 1987.
 
 (3) Where a work is excluded from the application of section 30(4), (5) or (6) by reason of either of subsection (1) or (2), section 30(2) shall have effect in relation to the work subject to subsections (4) to (8).
 
@@ -3916,19 +3897,19 @@ the first-mentioned person is the owner of any copyright subsisting in the work 
 
 (6) Where the work was made by the author in pursuance of the terms of his employment by another person under a contract of service or apprenticeship, that other person is the owner of any copyright subsisting in the work by virtue of Part III.
 
-(7) Where the work is a literary, dramatic or artistic work that was made by the author in pursuance of the terms of his employment by the proprietor of a newspaper, magazine or similar periodical under a contract of service or apprenticeship and was so made for the purpose of publication in a newspaper, magazine or similar periodical, the author is entitled to restrain the publication of the work otherwise than in a newspaper, magazine or similar periodical.
+(7) Where the work is a literary, dramatic or artistic work that was made by the author in pursuance of the terms of his employment by the proprietor of a newspaper, magazine or similar periodical under a contract of service or apprentice-ship and was so made for the purpose of publication in a newspaper, magazine or similar periodical, the author is entitled to restrain the publication of the work otherwise than in a newspaper, magazine or similar periodical.
 
 (8) In subsections (5), (6) and (7), expressions that are defined by section 205 shall have the meanings respectively given to those expressions by that section and shall not have the meanings, if any, respectively given to those expressions by Part II.
 
 ### Recording of musical works
 
-214\.—(1) Where a record of a work has, before the commencement of this Act, been made by, or with the consent or acquiescence of, the owner of the copyright in the work under the Copyright Act 1911, Division 8 of Part III shall have the like effect as if the record had been made in Singapore for the purpose of retail sale and had been so made by, or with the licence of, the person who is entitled, by virtue of this Act, to authorise the making in Singapore of records of the work.
+214\.—(1) Where a record of a work has, before 10th April 1987 [S 107/87], been made by, or with the consent or acquiescence of, the owner of the copyright in the work under the Copyright Act 1911, Division 8 of Part III shall have the like effect as if the record had been made in Singapore for the purpose of retail sale and had been so made by, or with the licence of, the person who is entitled, by virtue of this Act, to authorise the making in Singapore of records of the work.
 
-(2) Notwithstanding section 203, section 19(2) to (7) of the Copyright Act 1911 as in force immediately before the commencement of this Act shall continue to apply in relation to records made before the commencement of this Act and, subject to that section, any regulations made for the purposes of that section and in force immediately before the commencement of this Act shall continue to apply in relation to those records.
+(2) Notwithstanding section 203, section 19(2) to (7) of the Copyright Act 1911 as in force immediately before 10th April 1987 shall continue to apply in relation to records made before that date and, subject to that section, any regulations made for the purposes of that section and in force immediately before that date shall continue to apply in relation to those records.
 
 ### Publication of artistic works
 
-215\. Section 66 shall not apply in relation to a painting, drawing, engraving, photography or cinematograph film made before the date of commencement of this Act, but the copyright in an artistic work is not infringed by the publication of a painting, drawing, engraving, photograph or cinematograph film made before that date if, by virtue of section 63 or 64, the making of the painting, drawing, engraving, photograph or film would not have constituted an infringement of the copyright under this Act if this Act had been in operation at the time when it was made.
+215\. Section 66 shall not apply in relation to a painting, drawing, engraving, photography or cinematograph film made before 10th April 1987, but the copyright in an artistic work is not infringed by the publication of a painting, drawing, engraving, photograph or cinematograph film made before that date if, by virtue of section 63 or 64, the making of the painting, drawing, engraving, photograph or film would not have constituted an infringement of the copyright under this Act if this Act had been in operation at the time when it was made.
 
 ### Reconstruction of buildings
 
@@ -3936,27 +3917,25 @@ the first-mentioned person is the owner of any copyright subsisting in the work 
 
 ### Industrial designs
 
-217\.—(1) Division 10 of Part III and the Schedule shall not apply to artistic works made before the commencement of this Act.
+217\.—(1) Division 10 of Part III and the Schedule shall not apply to artistic works made before 10th April 1987 [S 107/87].
 
-(2) Copyright shall not subsist by virtue of this Act in an artistic work made before the commencement of this Act which, at the time when the work was made, constituted a design capable of being registered under the Patents and Designs Act 1907 of the United Kingdom, and was used, or intended to be used, as a model or pattern to be multiplied by an industrial process.
-
-[U.K. 1907 c. 29.]
+(2) Copyright shall not subsist by virtue of this Act in an artistic work made before 10th April 1987 which, at the time when the work was made, constituted a design capable of being registered under the Patents and Designs Act 1907 of the United Kingdom [U.K. 1907 c. 29], and was used, or intended to be used, as a model or pattern to be multiplied by an industrial process.
 
 ### Reproduction of work upon payment of royalties
 
-218\.—(1) The copyright in a literary, dramatic, musical or artistic work that has been published before the commencement of this Act is not infringed by the reproduction of the work for sale if —
+218\.—(1) The copyright in a literary, dramatic, musical or artistic work that has been published before 10th April 1987 is not infringed by the reproduction of the work for sale if —
 
-(a) the reproduction takes place at a time after expiration of 25 years, or, in the case of a work in which copyright subsisted at the commencement of the Copyright Act 1911, after the expiration of 30 years, after the date of the death of the author; and
+(a) the reproduction takes place at a time after the expiration of 25 years, or, in the case of a work in which copyright subsisted at the commencement of the Copyright Act 1911, after the expiration of 30 years, after the date of the death of the author; and
 
 (b) the person reproducing the work establishes —
 
-(i) that, before the commencement of this Act, he gave the notice in writing of his intention to reproduce the work that was prescribed for the purposes of the proviso to section 3 of the Copyright Act 1911; and
+(i) that, before 10th April 1987, he gave the notice in writing of his intention to reproduce the work that was prescribed for the purposes of the proviso to section 3 of the Copyright Act 1911; and
 
-(ii) that he has paid, in the manner that was prescribed for the purposes of that proviso, or is prescribed for the purposes of this section, as the case may be, to, or for the benefit of, the owner of the copyright royalties in respect of all copies of the work sold by him calculated at the rate of 10 per cent of the price at which he published the reproduction.
+(ii) that he has paid, in the manner that was prescribed for the purposes of that proviso, or is prescribed for the purposes of this section, as the case may be, to, or for the benefit of, the owner of the copyright royalties in respect of all copies of the work sold by him calculated at the rate of 10% of the price at which he published the reproduction.
 
-(2) The regulations may make provision for or in relation to the manner in which, and the times at which, payment of royalties is to be made for the purposes of paragraph (b)(ii) of subsection (1) and may include provision requiring payment in advance, or otherwise securing the payment of the royalties.
+(2) The regulations may make provision for or in relation to the manner in which, and the times at which, payment of royalties is to be made for the purposes of subsection (1)(b)(ii) and may include provision requiring payment in advance, or otherwise securing the payment of the royalties.
 
-(3) A reference in paragraph (a) of subsection (1) to a time after the expiration of a specified number of years from the date of the death of the author of a work shall, in the case of a work of joint authorship, be read as a reference to a time after —
+(3) A reference in subsection (1)(a) to a time after the expiration of a specified number of years from the date of the death of the author of a work shall, in the case of a work of joint authorship, be read as a reference to a time after —
 
 (a) the expiration of the same number of years from the date of the death of the author who died first; or
 
@@ -3984,43 +3963,43 @@ before that date, subsection (1) shall apply as if the author had died on the da
 
 Division 3 —
 
-Subject-Matter other than Works
+Subject-matter other than Works
 
 ### Sound recordings
 
-219\.—(1) Section 87(1) shall apply in relation to sound recordings made before the commencement of this Act as if the reference in that section to a qualified person included a reference to a British subject and to a person domiciled in a country to which the Copyright Act 1911 extended.
+219\.—(1) Section 87(1) shall apply in relation to sound recordings made before 10th April 1987 [S 107/87] as if the reference in that section to a qualified person included a reference to a British subject and to a person domiciled in a country to which the Copyright Act 1911 extended.
 
-(2) Section 87(2) shall not apply in relation to a sound recording made before the commencement of this Act.
+(2) Section 87(2) shall not apply in relation to a sound recording made before 10th April 1987.
 
-(3) Section 87(3) shall apply in relation to sound recordings first published before the commencement of this Act as if the reference in that subsection to Singapore included a reference to a country to which the Copyright Act 1911 extended.
+(3) Section 87(3) shall apply in relation to sound recordings first published before 10th April 1987 as if the reference in that subsection to Singapore included a reference to a country to which the Copyright Act 1911 extended.
 
-(4) Section 92 shall not apply in relation to a sound recording made before the commencement of this Act but copyright subsisting in such a recording by virtue of section 87(1) or (3) shall continue to subsist until the expiration of 50 years after the expiration of the calendar year in which the recording was made.
+(4) Section 92 shall not apply in relation to a sound recording made before 10th April 1987 but copyright subsisting in such a recording by virtue of section 87(1) or (3) shall continue to subsist until the expiration of 50 years after the expiration of the calendar year in which the recording was made.
 
 ### Cinematograph films
 
-220\. Copyright shall not subsist by virtue of section 88 in a cinematograph film made before the commencement of this Act.
+220\. Copyright shall not subsist by virtue of section 88 in a cinematograph film made before 10th April 1987.
 
-### Application of Act to dramatic works and photographs comprised in cinematograph films
+### Application of this Act to dramatic works and photographs comprised in cinematograph films
 
-221\.—(1) Where a cinematograph film made before the commencement of this Act was an original dramatic work as defined by section 205, this Act (other than this subsection) shall have effect in relation to the film as if the film had been an original dramatic work as defined by section 7 and the person who was the author of the work for the purposes of the Copyright Act 1911 shall be deemed to be the author of the work for the purposes of this Act as having effect by virtue of this subsection.
+221\.—(1) Where a cinematograph film made before 10th April 1987 was an original dramatic work as defined by section 205, this Act (other than this subsection) shall have effect in relation to the film as if the film had been an original dramatic work as defined by section 7 and the person who was the author of the work for the purposes of the Copyright Act 1911 shall be deemed to be the author of the work for the purposes of this Act as having effect by virtue of this subsection.
 
-(2) This Act shall have effect in relation to photographs forming part of a cinematograph film made before the commencement of this Act in like manner as it has effect in relation to photographs not forming part of a cinematograph film.
+(2) This Act shall have effect in relation to photographs forming part of a cinematograph film made before 10th April 1987 in like manner as it has effect in relation to photographs not forming part of a cinematograph film.
 
 ### Television broadcasts and sound broadcasts
 
 222\. Copyright shall not subsist by virtue of section 89 in —
 
-(a) a television broadcast or a sound broadcast made before the commencement of this Act; or
+(a) a television broadcast or a sound broadcast made before 10th April 1987; or
 
-(b) a television broadcast or a sound broadcast made after the commencement of this Act that is a repetition of a television broadcast or a sound broadcast made before the commencement of this Act.
+(b) a television broadcast or a sound broadcast made after that date that is a repetition of a television broadcast or a sound broadcast made before that date.
 
 ### Published editions of works
 
-223\. Copyright shall not subsist by virtue of section 91 in a published edition of a work or works where the first publication of the edition took place before the commencement of this Act.
+223\. Copyright shall not subsist by virtue of section 91 in a published edition of a work or works where the first publication of the edition took place before 10th April 1987 [S 107/87].
 
 ### Cable programmes
 
-224\. Copyright shall not subsist by virtue of section 90 in a cable programme which is included in a cable programme service before the commencement of this Act.
+224\. Copyright shall not subsist by virtue of section 90 in a cable programme which is included in a cable programme service before 10th April 1987.
 
 Division 4 —
 
@@ -4028,11 +4007,11 @@ Miscellaneous
 
 ### Actions for infringement
 
-225\. Sections 119 and 120 shall not apply to an infringement of copyright under the Copyright Act 1911 and shall not affect any proceedings under that Act, whether instituted before or after the commencement of this Act.
+225\. Sections 119 and 120 shall not apply to an infringement of copyright under the Copyright Act 1911 and shall not affect any proceedings under that Act, whether instituted before or after 10th April 1987.
 
 ### Actions where copyright subject to exclusive licence
 
-226\. Division 3 of Part V shall not apply in relation to a licence granted before the commencement of this Act and shall not affect any proceedings under the Copyright Act 1911, whether instituted before or after the commencement of this Act.
+226\. Division 3 of Part V shall not apply in relation to a licence granted before 10th April 1987 and shall not affect any proceedings under the Copyright Act 1911, whether instituted before or after that date.
 
 ### Offences
 
@@ -4040,13 +4019,13 @@ Miscellaneous
 
 ### Limitation of actions
 
-228\. Section 141 shall not apply in relation to an infringement of copyright under the Copyright Act 1911 or to an article made, or imported into Singapore, before the commencement of this Act.
+228\. Section 141 shall not apply in relation to an infringement of copyright under the Copyright Act 1911 or to an article made, or imported into Singapore, before 10th April 1987.
 
 ### Restriction of importation of printed copies of works
 
 229\. Where —
 
-(a) before the date of commencement of this Act, a notice had been given in respect of a work under section 14 of the Copyright Act 1911 as amended in its application to Singapore; and
+(a) before 10th April 1987, a notice had been given in respect of a work under section 14 of the Copyright Act 1911 as amended in its application to Singapore; and
 
 (b) that notice had not been withdrawn, and had not otherwise ceased to have effect, before that date,
 
@@ -4054,65 +4033,65 @@ the notice shall, during the period of 6 months commencing on that date, have su
 
 ### References and applications to Tribunal in relation to licence schemes
 
-230\.—(1) Part VII shall apply in relation to licence schemes formulated before the date of commencement of this Act in like manner as it applies in relation to licence schemes formulated on or after that date, but, for the purposes of the application of that Part in relation to licence schemes formulated before that date, any reference in that Part to copyright includes a reference to copyright under the Copyright Act 1911.
+230\.—(1) Part VII shall apply in relation to licence schemes formulated before 10th April 1987 [S 107/87] in like manner as it applies in relation to licence schemes formulated on or after that date, but, for the purposes of the application of that Part in relation to licence schemes formulated before that date, any reference in that Part to copyright includes a reference to copyright under the Copyright Act 1911.
 
-(2) Any reference in section 163 to a refusal or failure to grant or procure the grant of a licence, or to a proposal that a licence should be granted, shall not include a reference to a refusal or failure that occurred, or a proposal that was made, before the commencement of this Act.
+(2) Any reference in section 163 to a refusal or failure to grant or procure the grant of a licence, or to a proposal that a licence should be granted, shall not include a reference to a refusal or failure that occurred, or a proposal that was made, before 10th April 1987.
 
 ### Duration of Government copyright in photographs
 
-231\. Section 197(4) shall apply in relation to photographs taken before the commencement of this Act as if the proviso to that subsection were omitted.
+231\. Section 197(4) shall apply in relation to photographs taken before 10th April 1987 as if the proviso to that subsection were omitted.
 
 ### Duration of Government copyright in recordings
 
-232\. Section 197(5) shall apply in relation to sound recordings made before the commencement of this Act as if the reference in that section to the expiration of the calendar year in which the recording is first published were a reference to the expiration of the calendar year in which the recording was made.
+232\. Section 197(5) shall apply in relation to sound recordings made before 10th April 1987 as if the reference in that section to the expiration of the calendar year in which the recording is first published were a reference to the expiration of the calendar year in which the recording was made.
 
 ### Government copyright in films
 
-233\.—(1) Section 197(5) shall not apply in relation to cinematograph films made before the commencement of this Act.
+233\.—(1) Section 197(5) shall not apply in relation to cinematograph films made before 10th April 1987.
 
 (2) Where section 197(5) does not apply in relation to a cinematograph film by reason of subsection (1) —
 
 (a) if the film was an original dramatic work as defined by section 205 — section 197(1), (2) and (3), shall apply, in relation to that work in accordance with section 221(1); and
 
-(b) section 197(1), (2) and (3) as modified by section 231, shall apply in relation to photographs forming part of the film in like manner as they apply in relation to photographs not forming part of a cinematograph film.
+(b) section 197(1), (2) and (3), as modified by section 231, shall apply in relation to photographs forming part of the film in like manner as they apply in relation to photographs not forming part of a cinematograph film.
 
 ### Works made or published by international organisations
 
-234\.—(1) Section 185(3) shall not apply in relation to works made before the commencement of this Act.
+234\.—(1) Section 185(3) shall not apply in relation to works made before 10th April 1987.
 
-(2) Section 185(4) shall not apply in relation to works first published before the commencement of this Act.
+(2) Section 185(4) shall not apply in relation to works first published before 10th April 1987.
 
 ### Subject-matter, other than original works, made or published by international organisations
 
-235\.—(1) Section 185(3) shall not apply in relation to sound recordings or cinematograph films made before the commencement of this Act.
+235\.—(1) Section 185(3) shall not apply in relation to sound recordings or cinematograph films made before 10th April 1987 [S 107/87].
 
-(2) Section 185(4) shall not apply in relation to sound recordings or cinematograph films first published before the commencement of this Act.
+(2) Section 185(4) shall not apply in relation to sound recordings or cinematograph films first published before 10th April 1987.
 
-(3) Section 185(5) shall not apply in relation to an edition published before the commencement of this Act.
+(3) Section 185(5) shall not apply in relation to an edition published before 10th April 1987.
 
 ### False attribution of authorship of work
 
-236\.—(1) It is a breach of the duty imposed on a person by section 188 if the person does, on or after the date of commencement of this Act, any of the acts mentioned in subsection (1)(b) and (c) of that section notwithstanding that the name concerned was inserted or affixed before that date.
+236\.—(1) It is a breach of the duty imposed on a person by section 188 if the person does, on or after 10th April 1987, any of the acts mentioned in subsection (1)(b) and (c) of that section notwithstanding that the name concerned was inserted or affixed before that date.
 
-(2) Subject to subsection (1), Part IX shall not apply in relation to acts done before the commencement of this Act.
+(2) Subject to subsection (1), Part IX shall not apply in relation to acts done before 10th April 1987.
 
 (3) In this section, “name” includes initials or a monogram.
 
 ### Assignments and licences
 
-237\.—(1) Subject to this section, where copyright subsists in a work by virtue of this Act, any document that was made, or event that occurred, before the commencement of this Act, being a document or event that had any operation affecting the ownership of, or creating, transferring or terminating an interest, right or licence in respect of, copyright in the work under the Copyright Act 1911 or would have had such an operation if that Act had continued in force, shall have the like operation in relation to the copyright in the work under this Act.
+237\.—(1) Subject to this section, where copyright subsists in a work by virtue of this Act, any document that was made, or event that occurred, before 10th April 1987, being a document or event that had any operation affecting the ownership of, or creating, transferring or terminating an interest, right or licence in respect of, copyright in the work under the Copyright Act 1911 or would have had such an operation if that Act had continued in force, shall have the like operation in relation to the copyright in the work under this Act.
 
-(2) If the operation of a document to which subsection (1) applies was or would have been limited to a period specified in the document, the document shall not have any operation in relation to the copyright under this Act, except insofar as that period extends after the commencement of this Act.
+(2) If the operation of a document to which subsection (1) applies was or would have been limited to a period specified in the document, the document shall not have any operation in relation to the copyright under this Act, except insofar as that period extends after 10th April 1987.
 
 (3) For the purposes of the operation of a document in accordance with this section —
 
-(a) expressions used in the document shall have the same respective meanings as they had immediately before the commencement of this Act, whether or not those expressions have different meanings for the purposes of this Act; and
+(a) expressions used in the document shall have the same respective meanings as they had immediately before 10th April 1987, whether or not those expressions have different meanings for the purposes of this Act; and
 
 (b) section 195(1) shall not apply.
 
-(4) Without prejudice to the generality of subsection (1), where the author of a work that was made before the commencement of this Act was the first owner of the copyright in the work —
+(4) Without prejudice to the generality of subsection (1), where the author of a work that was made before 10th April 1987 [S 107/87] was the first owner of the copyright in the work —
 
-(a) any assignment of the copyright, or any grant of an interest in the copyright, made by the author (otherwise than by will) after the commencement of the Copyright Act 1911 and before the commencement of this Act, being an assignment or grant that has effect in relation to copyright in the work under this Act by virtue of subsection (1), shall not operate to vest in the assignee or grantee any rights with respect to the copyright in the work after the expiration of 25 years after the date of the death of the author;
+(a) any assignment of the copyright, or any grant of an interest in the copyright, made by the author (otherwise than by will) after the commencement of the Copyright Act 1911 and before 10th April 1987, being an assignment or grant that has effect in relation to copyright in the work under this Act by virtue of subsection (1), shall not operate to vest in the assignee or grantee any rights with respect to the copyright in the work after the expiration of 25 years after the date of the death of the author;
 
 (b) on the death of the author, the reversionary interest in the copyright expectant on the termination of that period shall devolve, notwithstanding any agreement to the contrary, on his legal personal representative as part of his estate; and
 
@@ -4130,11 +4109,11 @@ but nothing in this subsection shall be taken to apply to the assignment of the 
 
 ### Bequests
 
-238\.—(1) Section 196 shall not apply in relation to a bequest contained in the will of a testator who died before the commencement of this Act.
+238\.—(1) Section 196 shall not apply in relation to a bequest contained in the will of a testator who died before 10th April 1987 [S 107/87].
 
 (2) Where —
 
-(a) an author has died before the commencement of this Act;
+(a) an author has died before 10th April 1987;
 
 (b) a person has acquired, under the will of the author, the ownership of a manuscript of a work by the author; and
 
@@ -4152,11 +4131,13 @@ the ownership by that person of the manuscript shall be evidence that that perso
 
 ### Existing computer programs
 
-239\.—(1) The Copyright Act 1911 shall apply to a computer program made before the commencement of this Act as it applies in relation to a literary work and shall so apply whether or not copyright would subsist in that program apart from this Act.
+239\.—(1) The Copyright Act 1911 shall apply to a computer program made before 10th April 1987 as it applies in relation to a literary work and shall so apply whether or not copyright would subsist in that program apart from this Act.
 
-(2) Where, by virtue of subsection (1), copyright subsists under the Copyright Act 1911 in a computer program that was made before the commencement of this Act, nothing done in relation to the work before the commencement of this Act shall be taken to constitute an offence under the Copyright Act (Cap. 187) which is repealed by this Act or an infringement of that copyright.
+(2) Where, by virtue of subsection (1), copyright subsists under the Copyright Act 1911 in a computer program that was made before 10th April 1987, nothing done in relation to the computer program before that date shall be taken to constitute an offence under the repealed Copyright Act [1970 Ed. Cap. 187]\*or an infringement of that copyright.
 
-(3) For the purposes of this section, a computer program the making of which extends over a period shall be deemed not to have been made before the commencement of this Act unless the making of it was completed before the commencement of this Act.
+\*Repealed by section 203, which is omitted in this Edition.
+
+(3) For the purposes of this section, a computer program the making of which extends over a period shall be deemed not to have been made before 10th April 1987 [S 107/87] unless the making of it was completed before that date.
 
 Division 5 —
 
@@ -4164,7 +4145,9 @@ Works made before 1st July 1912
 
 ### Interpretation
 
-240\. In this Division, “right conferred by the Copyright Act 1911”, in relation to a work, means a right that, by virtue of section 24 of the Copyright Act 1911, was conferred in place of a right that subsisted immediately before the commencement of that Act.
+240\. In this Division, “right conferred by the Copyright Act 1911”, in relation to a work, means a right that, by virtue of section 24 of the Copyright Act 1911, was conferred in place of a right that subsisted immediately before the commencement of that Act\*.
+
+\*The Act came into operation on 1st July 1912.
 
 ### Application
 
@@ -4172,7 +4155,7 @@ Works made before 1st July 1912
 
 ### Rights conferred by Copyright Act 1911
 
-242\. Notwithstanding anything in Division 2, section 27 shall not apply to a work to which this Division applies unless a right conferred by the Copyright Act 1911 subsisted in the work immediately before the commencement of this Act.
+242\. Notwithstanding anything in Division 2, section 27 shall not apply to a work to which this Division applies unless a right conferred by the Copyright Act 1911 subsisted in the work immediately before 10th April 1987.
 
 ### Performing rights
 
@@ -4192,9 +4175,9 @@ Works made before 1st July 1912
 
 244\. Where —
 
-(a) a work to which this Division applies (in this section referred to as “the relevant work”) consists of an essay, article or item forming part of, and first published in, a review, magazine or other periodical or work of a like nature; and
+(a) a work to which this Division applies (in this section referred to as the relevant work) consists of an essay, article or item forming part of, and first published in, a review, magazine or other periodical or work of a like nature; and
 
-(b) immediately before the commencement of this Act, a right of publishing the relevant work in a separate form subsisted by virtue of the note to the First Schedule to the Copyright Act 1911,
+(b) immediately before 10th April 1987 [S 107/87], a right of publishing the relevant work in a separate form subsisted by virtue of the note to the First Schedule to the Copyright Act 1911,
 
 copyright subsisting in the relevant work by virtue of this Act shall be subject to that right of publishing the relevant work in a separate form.
 
@@ -4202,25 +4185,31 @@ copyright subsisting in the relevant work by virtue of this Act shall be subject
 
 245\.—(1) Without prejudice to the generality of section 237(1), where —
 
-(a) the author of a work to which this Division applies had, before the commencement of the Copyright Act 1911, made an assignment or grant of a kind referred to in paragraph (a) of the proviso to section 24(1) of that Act (in this section referred to as “the proviso”); and
+(a) the author of a work to which this Division applies had, before the commencement of the Copyright Act 1911\*, made an assignment or grant of a kind referred to in paragraph (a) of the proviso to section 24(1) of that Act (referred to in this section as paragraph (a) of the proviso); and
 
-(b) copyright subsists in the work by virtue of this Act, subsections (2), (3) and (4) shall have effect.
+\*The Act came into operation on 1st July 1912.
 
-(2) If, before the commencement of this Act, an event occurred or a notice was given, being an event or notice that, in accordance with paragraph (a) of the proviso, had any operation affecting the ownership of the right conferred by the Copyright Act 1911 in relation to the work or creating, transferring or terminating an interest, right or licence in respect of that right, that event or notice shall have the like operation in relation to the copyright in the work under this Act.
+(b) copyright subsists in the work by virtue of this Act,
 
-(3) Any right that, at a time after the commencement of this Act, would, by virtue of paragraph (a) of the proviso, have been exercisable in relation to the work or in relation to the right conferred by the Copyright Act 1911, if this Act had not been enacted, shall be exercisable in relation to the work or in relation to the copyright subsisting in the work under this Act, as the case may be.
+subsections (2), (3) and (4) shall have effect.
 
-(4) If, in accordance with paragraph (a) of the proviso, the right conferred by the Copyright Act 1911 would have reverted to the author or his personal representatives on the date referred to in that paragraph, and that date occurs after the commencement of this Act, then on that date —
+(2) If, before 10th April 1987, an event occurred or a notice was given, being an event or notice that, in accordance with paragraph (a) of the proviso, had any operation affecting the ownership of the right conferred by the Copyright Act 1911 in relation to the work or creating, transferring or terminating an interest, right or licence in respect of that right, that event or notice shall have the like operation in relation to the copyright in the work under this Act.
+
+(3) Any right that, at a time after 10th April 1987, would, by virtue of paragraph (a) of the proviso, have been exercisable in relation to the work or in relation to the right conferred by the Copyright Act 1911, if this Act had not been enacted, shall be exercisable in relation to the work or in relation to the copyright subsisting in the work under this Act, as the case may be.
+
+(4) If, in accordance with paragraph (a) of the proviso, the right conferred by the Copyright Act 1911 would have reverted to the author or his personal representatives on the date referred to in that paragraph, and that date occurs after 10th April 1987 [S 107/87], then on that date —
 
 (a) the copyright in the work under this Act shall revert to the author or his personal representatives, as the case may be; and
 
-(b) any interest of any other person in that copyright that subsists on that date by virtue of any document made before the commencement of the Copyright Act 1911 shall cease.
+(b) any interest of any other person in that copyright that subsists on that date by virtue of any document made before the commencement of the Copyright Act 1911\*shall cease.
+
+\*The Act came into operation on 1st July 1912.
 
 ## THE SCHEDULE
 
 Section 74.
 
-False Registration of Industrial Designs
+False registration of industrial designs
 
 1. The provisions of this Schedule shall have effect where —
 
@@ -4240,3 +4229,23 @@ False Registration of Industrial Designs
 
 section 74(1) of this Act shall apply in relation to that act for the purposes of the first-mentioned proceedings.
 
+## LEGISLATIVE HISTORY
+
+Copyright Act
+
+(CHAPTER 63)
+
+This Legislative History is provided for the convenience of users of the Copyright Act. It is not part of the Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 2 of 1987—Copyright Act 1987**|
+||Date of First Reading|25 March 1986|
+|||(Bill No. 8/86 published on 4 April 1986)|
+||Date of Second Reading|5 May 1986|
+||Date Committed to Select Committee|5 May 1986|
+||Date of Presentation of Select Committee Report|22 December 1986 (Parl. 9 of 1986)|
+||Date of Third Reading|26 January 1987|
+||Date of commencement|10 April 1987|
+|2.|**1988 Revised Edition—Copyright Act (Chapter 63)**|
+||Date of operation|30 April 1988|
