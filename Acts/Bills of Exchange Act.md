@@ -238,6 +238,8 @@
 
 - [97 Computation of time](#Computation-of-time)
 
+- [97A Obligation to do acts relating to bills and notes on Sundays or public holidays](#Obligation-to-do-acts-relating-to-bills-and-notes-on-Sundays-or-public-holidays)
+
 - [98 When noting equivalent to protest](#When-noting-equivalent-to-protest)
 
 - [99 Protest when notary not accessible](#Protest-when-notary-not-accessible)
@@ -426,7 +428,7 @@ the bill shall not be avoided thereby, but shall operate and be payable as if th
 
 13\.—(1) Where a bill or an acceptance or any indorsement on a bill is dated, the date shall, unless the contrary is proved, be deemed to be the true date of the drawing, acceptance, or indorsement, as the case may be.
 
-(2) A bill is not invalid by reason only that it is antedated or post-dated , or that it bears date on a Sunday.
+(2) A bill is not invalid by reason only that it is antedated or post-dated .
 
 ### Computation of time of payment
 
@@ -982,7 +984,7 @@ Liabilities of parties
 
 (iii) the expenses of noting, or, when protest is necessary, and the protest has been extended, the expenses of protest;
 
-(b) [Deleted by Act 34/92 wef 18/12/1992 wef 18/12/1992 wef 18/12/1992 videS 508/92]
+(b) [Deleted by Act 34/92 wef 18/12/1992 wef 18/12/1992 videS 508/92]
 
 (c) where by this Act interest may be recovered as damages, such interest may, if justice require it, be withheld wholly or in part, and where a bill is expressed to be payable with interest at a given rate, interest as damages may or may not be given at the same rate as interest proper.
 
@@ -1142,7 +1144,7 @@ Provided that where an inland bill is indorsed in a foreign country, the indorse
 
 (c) the duties of the holder with respect to presentment for acceptance or payment and the necessity for or sufficiency of a protest or notice of dishonour, or otherwise, are determined by the law of the place where the act is done or the bill is dishonoured;
 
-(d) [Deleted by Act 34/92 wef 18/12/1992 wef 18/12/1992 wef 18/12/1992 videS 508/92]
+(d) [Deleted by Act 34/92 wef 18/12/1992 wef 18/12/1992 videS 508/92]
 
 (e) where a bill is drawn in one country and is payable in another, the due date thereof is determined according to the law of the place where it is payable.
 
@@ -1380,6 +1382,20 @@ But nothing in this section shall be construed as requiring the bill or note of 
 
 (3) Any other day is a business day.
 
+### Obligation to do acts relating to bills and notes on Sundays or public holidays
+
+97A\.—(1) Subject to section 14, all bills and notes that are due and payable on any Sunday or public holiday shall be payable, and, in the case of non-payment, may be noted and protested, on the day next following and not on the Sunday or public holiday.
+
+(2) Any such noting or protest shall be as valid as if made on the day on which the bill or note was made due and payable.
+
+(3) When the day on which any notice of dishonour of an unpaid bill or note should be given, or when the day on which a bill or note should be presented or received for acceptance or accepted or forwarded to any referee or referees, is a Sunday or public holiday, the notice of dishonour shall be given, or the bill or note shall be presented or forwarded, on the day next following the Sunday or public holiday.
+
+(4) No person shall be compellable to make any payment or do any act relating to a bill or note on a Sunday or public holiday, but the obligation to make such payment or to do any such act shall be deferred to the day next following the Sunday or public holiday; and the making of the payment or the doing of the act on the day next following shall be equivalent to payment or the doing of the act on the Sunday or public holiday.
+
+(5) For the purposes of this section, the day next following a Sunday or public holiday means the next following day not being itself a Sunday or public holiday.
+
+[8/98 wef 10/04/1998]
+
 ### When noting equivalent to protest
 
 98\. For the purposes of this Act, where a bill or note is required to be protested within a specified time or before some further proceeding is taken, it is sufficient that the bill has been noted for protest before the expiration of the specified time or the taking of the proceeding; and the formal protest may be extended at any time thereafter as of the date of the noting.
@@ -1440,3 +1456,9 @@ This Legislative History is provided for the convenience of users of the Bills o
 |||(Bill No. 6/97 published on 12 July 1997)|
 ||Date of Second and Third Readings|25 August 1997|
 ||Date of commencement|1 October 1997|
+|7.|**Act 8 of 1998—Holidays Act 1998**|
+||(Consequential amendments made by)||
+||Date of First Reading|14 January 1998|
+|||(Bill No. 1/89 published on 15 January 1998)|
+||Date of Second and Third Readings|19 February 1998|
+||Date of commencement|10 April 1998|
