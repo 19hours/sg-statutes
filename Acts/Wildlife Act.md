@@ -154,9 +154,31 @@ Common name.
 
 Scientific name.
 
-House crow
+(1) House crow
 
 Corvus splendens.
+
+(2) Feral pigeon
+
+Columba livia.
+
+(3) Purple-backed starling
+
+Sturnus sturninus.
+
+(4) Philippine glossy starling
+
+Aplonis panayensis.
+
+(5) Common myna
+
+Acridotheres tristis.
+
+(6) White-vented myna
+
+Acridotheres javanicus.
+
+[S 570/91 wef 20/12/1991]
 
 [S 122/74]
 
@@ -179,3 +201,5 @@ This Legislative History is provided for the convenience of users of the Wild An
 ||Date of operation|31 August 1971|
 |3.|**1985 Revised Edition—Wild Animals and Birds Act**|
 ||Date of operation|30 March 1987|
+|4.|**G. N. No. S 570/1991—Wild Animals and Birds Act (Amendment of Schedule) Notification 1991**|
+||Date of commencement|20 December 1991|
