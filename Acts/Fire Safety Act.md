@@ -66,6 +66,20 @@
 
 - [22 Fire safety managers](#Fire-safety-managers)
 
+[**Part IIIA FIRE SAFETY ENGINEERS**](#Part-IIIA)
+
+- [22A Duties and responsibilities of fire safety engineers](#Duties-and-responsibilities-of-fire-safety-engineers)
+
+- [22B Registration of fire safety engineers](#Registration-of-fire-safety-engineers)
+
+- [22C Disciplinary action against fire safety engineers](#Disciplinary-action-against-fire-safety-engineers)
+
+- [22D Investigation Committee](#Investigation-Committee)
+
+- [22E Fire Safety Engineers Discipline Panel](#Fire-Safety-Engineers-Discipline-Panel)
+
+- [22F Register of fire safety engineers](#Register-of-fire-safety-engineers)
+
 [**Part IV CONTROL OF FIRE SAFETY WORKS**](#Part-IV)
 
 - [23 Fire safety works](#Fire-safety-works)
@@ -89,6 +103,8 @@
 - [30B Closure order](#Closure-order)
 
 - [30C Appeals to Minister](#Appeals-to-Minister)
+
+- [30D Application of this Part to Government buildings, etc.](#Application-of-this-Part-to-Government-buildings-etc)
 
 [**Part V PREMISES USED FOR DANGEROUS TRADES OR PURPOSES**](#Part-V)
 
@@ -194,17 +210,31 @@ PRELIMINARY
 
 2\.—(1) In this Act, unless the context otherwise requires —
 
+“alternative solution”, in relation to any fire safety works, means an engineering solution for the fire safety works to satisfy any fire performance requirements in the Fire Code, being a solution that is based on —
+
+(a) a deterministic or probabilistic analysis of fire scenarios or both types of analysis; or
+
+(b) a quantitative or qualitative assessment of design alternatives or both against the fire performance requirements in the Fire Code,
+
+using engineering tools, methodologies and performance criteria as may be acceptable to the Commissioner, but does not include engineered smoke control systems where the usage and design are in accordance with the Fire Code;
+
+[7/2004 wef 15/04/2004]
+
 “building” has the same meaning as in the Building Control Act (Cap. 29);
 
 “building works” has the same meaning as in the Building Control Act;
 
 “Commissioner” means the Commissioner of Civil Defence appointed under section 6 of the Civil Defence Act (Cap. 42);
 
+“Fire Code” means the Code of Practice for Fire Precautions in Buildings published by the Commissioner as amended or remade from time to time, and includes any code, standard, rule, specification or provision adopted by the Commissioner under section 55 in lieu of the Fire Code;
+
+[7/2004 wef 15/04/2004]
+
 “fire hazard” means any matter or circumstance which materially increases the likelihood of fire or the danger to life or property that would result from the outbreak of fire and includes —
 
 (a) any alteration to any building in contravention of any law relating to building works or fire safety works such as might render escape in the event of fire more difficult;
 
-(b) the overcrowding of any place of public resortsuch as might render escape in the event of fire more difficult;
+(b) the overcrowding of any public building or any building used occasionally or regularly for public worship or religious ceremonies such as might render escape in the event of fire more difficult;
 
 [7/2004 wef 15/04/2004]
 
@@ -220,6 +250,10 @@ PRELIMINARY
 
 “fire hazard abatement notice” means a notice in writing issued by the Commissioner under section 13(1);
 
+“fire performance requirements” means the objectives specified in the Fire Code in respect of fire safety works;
+
+[7/2004 wef 15/04/2004]
+
 “fire protection system” includes any installation, equipment or works manufactured, used or designed to be used for the purposes of —
 
 (a) extinguishing, attacking, preventing or limiting a fire and its by-product; or
@@ -227,6 +261,10 @@ PRELIMINARY
 (b) giving warning of a fire;
 
 “fire protection works” means the provision, extension or alteration of any fire protection system;
+
+“fire safety engineer” means a person who is registered as a fire safety engineer under this Act;
+
+[7/2004 wef 15/04/2004]
 
 “fire safety measures” includes any installation, equipment or works manufactured, used or designed to be used for the purposes of —
 
@@ -262,19 +300,29 @@ PRELIMINARY
 
 (c) in respect of any fire safety measure, includes the occupier or the owner of the premises in or on which the fire safety measure is installed or kept;
 
-“place of public resort” means a building or a defined or enclosed place used or constructed or adapted to be used ordinarily or occasionally —
+“peer reviewer” means a fire safety engineer who is appointed to review and assess whether any alternative solution in plans for any fire safety works that is prepared or proposed by another person satisfies any fire performance requirements;
 
-(a) as a church, chapel, mosque, temple or other place where public worship is or religious ceremonies are performed, not being merely a dwelling-house so used;
-
-(b) as a cinema, theatre, public hall, public concert room, public ballroom, public lecture room, or public exhibition room, club, association, restaurant, hotel, coffee house, eating house or milk bar;
-
-(c) as a public place of assembly for persons admitted thereto by ticket or otherwise; or
-
-(d) for any other public purpose;
+[7/2004 wef 15/04/2004]
 
 “premises” includes messuages, houses, buildings, lands, tenements, easements and hereditaments of any tenure, whether open or enclosed, whether built or not, whether public or private, and whether or not maintained under statutory authority;
 
-“public building” means a building or part thereof used or constructed or adapted to be used as a shop, office, hospital or place of public resort, not being a church, chapel, mosque, temple or other place where public worship is or religious ceremonies are performed;
+“public building” means a building or part of a building —
+
+(a) used as a hospital or a nursing home;
+
+(b) used ordinarily or occasionally to provide residential care to aged persons or child care for groups of children;
+
+(c) used wholly or mainly as or in connection with a hotel, shop or restaurant; or
+
+(d) where the public or any part thereof or numbers of persons occasionally or regularly assemble for —
+
+(i) civic or social (but not religious or educational) purposes;
+
+(ii) entertainment, recreational or sporting purposes; or
+
+(iii) business purposes;
+
+[7/2004 wef 15/04/2004]
 
 “qualified person” means a person who is registered as —
 
@@ -412,7 +460,7 @@ PRELIMINARY
 
 ### Independence of registered inspectors
 
-6\.—(1) At the time of carrying out the duties and responsibilities or exercising all or any of the powers of the Commissioner under this Act or any regulations made thereunder as may be authorised by the Commissioner under section 3(3) or any regulations made under this Act, a registered inspector shall have no professional or financial interest in the building or any part thereof or in the building or fire safety works in respect of which the duties and responsibilities or powers are to be carried out or exercised.
+6\.—(1) At the time of carrying out his duties and responsibilities or exercising his powers as a registered inspector under this Act or any regulations made thereunder, a registered inspector shall have no professional or financial interest in the building or any part thereof or in the building or fire safety works in respect of which the duties and responsibilities or powers are to be carried out or exercised.
 
 [7/2004 wef 15/04/2004]
 
@@ -444,7 +492,7 @@ shall not be regarded as constituting a professional or financial interest.
 
 ### Appointment of Inquiry Panel, etc.
 
-6A\.—(1) For the purpose of enabling an Inquiry Committee to be constituted in accordance with this section, the Commissionershall appoint a panel (referred to as the Inquiry Panel) consisting of such numbers of —
+6A\.—(1) For the purpose of enabling an Inquiry Committee to be constituted in accordance with this section, the Minister shall appoint a panel (referred to as the Inquiry Panel) consisting of such numbers of —
 
 (a) qualified persons who are not members of the Force; and
 
@@ -486,7 +534,7 @@ as the Commissioner may determine.
 
 [5/2000]
 
-(8) The Commissioner may at any time remove any member of an Inquiry Committee or fill any vacancy in its membership.
+(8) The Minister may at any time remove any member of an Inquiry Committee or fill any vacancy in its membership.
 
 [7/2004 wef 15/04/2004]
 
@@ -544,15 +592,9 @@ as the Commissioner may determine.
 
 [5/2000]
 
-(5) Where a complainant withdraws his complaint before —
+(5) Where the complainant withdraws his complaint before the Inquiry Committee is constituted or before the inquiry by the Committee is concluded, the Commissioner may, notwithstanding such withdrawal, constitute an Inquiry Committee and direct it to inquire, or may direct the Inquiry Committee to continue with its inquiry, into the matter, and the Inquiry Committee shall comply with that direction.
 
-(a) the Commissioner has constituted an Inquiry Committee to inquire into the complaint; or
-
-(b) the conclusion of the inquiry by an Inquiry Committee,
-
-the Commissioner may, notwithstanding such withdrawal, refer the complaint to or direct an Inquiry Committee to continue the inquiry, as the case may be, and the Inquiry Committee shall comply with the direction and all future proceedings thereon shall be taken as if the complaint had been made by the Commissioner.
-
-[5/2000]
+[7/2004 wef 15/04/2004]
 
 (6) An Inquiry Committee shall, in its written report, make such recommendation as it thinks fit.
 
@@ -636,7 +678,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Powers in event of fire
 
-7\.—(1) The Commissioner or any officer authorised by him may, in the event of a fire or a suspected fire, by himself or with other members under his command —
+7\.—(1) The Commissioner or any member of the Singapore Civil Defence Force authorised by him may, in the event of a fire or a suspected fire, by himself or with other members under his command —
 
 (a) enter, break into or through and take possession of or demolish or cause to be taken possession of or demolished any premises or thing for the purpose of extinguishing or preventing the spread of the fire;
 
@@ -897,6 +939,244 @@ FIRE PREVENTION IN BUILDINGS
 (3) The fire safety manager of the premises shall assist the owner or occupier of the premises in the performance of his duties under this Act or any regulations made thereunder.
 
 (4) Any person who contravenes this section shall be guilty of an offence.
+
+## PART IIIA
+
+FIRE SAFETY ENGINEERS
+
+[7/2004 wef 15/04/2004]
+
+### Duties and responsibilities of fire safety engineers
+
+22A\.—(1) Subject to the provisions of this Act, no person shall prepare or propose plans for any fire safety works using any alternative solution to satisfy any fire performance requirements unless he is —
+
+(a) an appropriate qualified person who is also a fire safety engineer; or
+
+(b) a qualified person preparing or proposing the alternative solution under the direct supervision of a fire safety engineer.
+
+(2) Subject to the provisions of this Act, no person except a fire safety engineer shall act as a peer reviewer.
+
+(3) Where a fire safety engineer prepares or proposes, or supervises the preparation or proposal of, any plan for fire safety works using any alternative solution to satisfy any fire performance requirements, he shall take all reasonable steps and exercise due diligence to ensure that the alternative solution satisfies those fire performance requirements.
+
+(4) Where a fire safety engineer is appointed as a peer reviewer to review and assess whether any alternative solution satisfies any fire performance requirements, the peer reviewer shall not issue any certification under section 23(4)(a)(iii) unless he has taken all reasonable steps and exercised due diligence to ensure that the alternative solution in respect of which his certification is being sought satisfies those fire performance requirements.
+
+(5) Subject to the provisions of this Act, a peer reviewer shall not, at any time when reviewing and assessing whether any alternative solution used in any plan for any fire safety works satisfies any fire performance requirements, have any professional or financial interest in —
+
+(a) the fire safety works or the building works in respect of which his duties and responsibilities as peer reviewer are to be carried out; or
+
+(b) the building or any part thereof to which the fire safety works relate.
+
+(6) A peer reviewer shall be regarded as having a professional or financial interest in any fire safety works or building works, or in any building or any part thereof, if —
+
+(a) he is or has been responsible for, or is acting as the consultant for, the design or construction of the building or any of the fire safety works in any capacity;
+
+(b) he, or any nominee of his, is a member, officer or employee of a company or other body which has a professional or financial interest in the building or any part thereof, or in the building works or fire safety works; or
+
+(c) he is a partner or is in the employment of a person who has a professional or financial interest in the building or any part thereof, or in the building works or fire safety works.
+
+(7) For the purposes of this section —
+
+(a) a person shall be regarded as having a professional or financial interest in the building or any part thereof, or in any building works or fire safety works, even if he has that interest only as a trustee for the benefit of some other person; and
+
+(b) in the case of a husband and wife living together, the interest of one spouse shall, if known to the other, be deemed to be also an interest of the other.
+
+(8) For the avoidance of doubt —
+
+(a) involvement in the fire safety works as a peer reviewer; and
+
+(b) entitlement to any fee paid for acting as a peer reviewer,
+
+shall not be regarded as constituting a professional or financial interest.
+
+(9) Any person who contravenes subsection (1) or (2) shall be guilty of an offence.
+
+(10) Any fire safety engineer who contravenes subsection (3), (4) or (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+### Registration of fire safety engineers
+
+22B\.—(1) An application for registration as a fire safety engineer shall be made to the Commissioner in such form and manner, and be accompanied by such documents, particulars and fee, as may be prescribed.
+
+(2) No person shall be registered as a fire safety engineer unless he can satisfy the Commissioner that he possesses the prescribed qualifications and practical experience.
+
+(3) The Commissioner may —
+
+(a) appoint a committee of persons to assist him in considering applications for registration as fire safety engineers; and
+
+(b) by himself or through the committee appointed under paragraph (a), interview the applicants and make such enquiries or do anything which the Commissioner may think necessary or expedient for the purposes of subsections (2) and (4).
+
+(4) The Commissioner may refuse to register any applicant who, in his opinion —
+
+(a) is not of good character and reputation; or
+
+(b) is unable to effectively carry out his duties and responsibilities as a fire safety engineer under this Act or any regulations made thereunder.
+
+(5) Any person whose application for registration has been refused may, within 14 days after receiving notice of such refusal, appeal to the Minister whose decision shall be final.
+
+(6) The Commissioner shall issue a certificate of registration to every person registered as a fire safety engineer.
+
+### Disciplinary action against fire safety engineers
+
+22C\.—(1) Where the Commissioner, upon consideration of the report of any Investigation Committee in respect of any complaint against or information received about a fire safety engineer, is satisfied that the fire safety engineer —
+
+(a) has been convicted of any offence under this Act or any regulations made thereunder, or any other offence involving fraud or dishonesty;
+
+(b) has obtained his registration under this Act by fraud or misrepresentation;
+
+(c) has his qualification for registration withdrawn or cancelled by the institution or authority through which it was acquired or by which it was awarded;
+
+(d) has contravened section 22A(3), (4) or (5);
+
+(e) has not complied with the prescribed requirements relating to continuous professional education as a fire safety engineer;
+
+(f) is no longer in a position to effectively carry out his duties or responsibilities as a fire safety engineer or peer reviewer under this Act or any regulations made thereunder;
+
+(g) has his registration as a registered inspector cancelled or has been suspended from practice as a registered inspector, where the fire safety engineer is also a registered inspector; or
+
+(h) has for any reason ceased to be a qualified person, where the fire safety engineer is also a qualified person,
+
+the Commissioner may, after giving the fire safety engineer concerned a reasonable opportunity of being heard, either orally or in writing, exercise any of the powers in subsection (2).
+
+(2) The powers the Commissioner may exercise under subsection (1) in relation to a fire safety engineer are as follows:
+
+(a) cancel the registration of the fire safety engineer;
+
+(b) suspend the registration of the fire safety engineer for such period not exceeding 12 months;
+
+(c) impose such conditions as are necessary to restrict the practice of the fire safety engineer for a period not exceeding 12 months, including any condition requiring the fire safety engineer to undergo further training, to practise only under supervision or to cease acting as a peer reviewer;
+
+(d) require the fire safety engineer to give such undertaking as the Commissioner thinks fit;
+
+(e) impose on the fire safety engineer a penalty not exceeding $5,000;
+
+(f) censure the fire safety engineer in writing;
+
+(g) dismiss the complaint against the fire safety engineer; or
+
+(h) make such other orders as the Commissioner thinks fit.
+
+(3) Where a fire safety engineer in respect of whom any conditions have been imposed, or any undertaking is required to be given, under subsection (2)(c) or (d) fails to comply with any of the conditions or breaches his undertaking, or the fire safety engineer fails to pay the penalty under subsection (2)(e), the Commissioner may, if he thinks fit, after giving the fire safety engineer concerned a reasonable opportunity of being heard either orally or in writing, by order —
+
+(a) cancel the registration of the fire safety engineer; or
+
+(b) suspend the registration of the fire safety engineer for such period not exceeding 12 months as may be specified in the order.
+
+(4) The Commissioner may, by written notice served on the fire safety engineer concerned, vary or revoke any of the conditions imposed on the fire safety engineer under subsection (2)(c).
+
+(5) Any decision of the Commissioner under subsection (2), (3) or (4) in relation to a fire safety engineer shall not take effect —
+
+(a) until the 15th day after the date on which the decision is communicated to the fire safety engineer concerned; or
+
+(b) where an appeal against the decision is made to the Minister under subsection (6), until the appeal has been determined or withdrawn.
+
+(6) Any person against whom the Commissioner has made any decision under subsection (2), (3) or (4) may, if aggrieved by the decision, appeal to the Minister within a period of 14 days after receiving notice of such decision.
+
+(7) The decision of the Minister on an appeal under subsection (6) shall be final.
+
+(8) Before the Minister makes a decision to allow or dismiss any appeal under subsection (6), the Minister may refer the matter to the Appeal Advisory Board appointed under section 28, and the Minister, in making his decision, may have regard to any report made to him by the Appeal Advisory Board.
+
+(9) Any penalty imposed on a fire safety engineer under subsection (2)(e) shall be recoverable as a debt due from the fire safety engineer.
+
+(10) In any proceedings under this section and section 22D against a fire safety engineer consequent upon his conviction for an offence, the Commissioner and an Investigation Committee shall accept his conviction as final and conclusive.
+
+### Investigation Committee
+
+22D\.—(1) Where the Commissioner receives any written complaint against or any written information about the conduct of a fire safety engineer as a peer reviewer or otherwise, or the discharge of his duties as a fire safety engineer or peer reviewer, the Commissioner may constitute an Investigation Committee and refer the complaint or information to the Committee to investigate.
+
+(2) An Investigation Committee shall consist of —
+
+(a) a chairman;
+
+(b) 2 fire safety engineers who are not members of the Singapore Civil Defence Force; and
+
+(c) 2 other members who are members of the Singapore Civil Defence Force,
+
+all of whom shall be appointed by the Commissioner from the Fire Safety Engineers Discipline Panel constituted under section 22E.
+
+(3) An Investigation Committee shall —
+
+(a) within a reasonable time of its constitution, commence its investigation into the complaint against or information referred to it by the Commissioner under subsection (1); and
+
+(b) submit to the Commissioner a written report of its findings and its recommendations not later than 6 months after its constitution, or such later date as the Commissioner may, in any special case, permit.
+
+(4) Where the complainant withdraws his complaint before the Investigation Committee is constituted or before the investigation by the Committee is concluded, the Commissioner may, notwithstanding such withdrawal, constitute an Investigation Committee and direct it to investigate, or may direct the Investigation Committee to continue with its investigation, into the matter, and the Investigation Committee shall comply with that direction.
+
+(5) Where an Investigation Committee is of the opinion that a fire safety engineer should be called upon to answer any allegation made against him, the Investigation Committee shall —
+
+(a) post or deliver to the fire safety engineer concerned —
+
+(i) copies of any complaint or information touching upon his conduct, including any statutory declaration or affidavit that may be made in support of the complaint or information; and
+
+(ii) a notice inviting him to give, within such period (not being less than 14 days) as may be specified in the notice, to the Investigation Committee any written explanation he may wish to offer and to advise the Committee if he wishes to be heard by the Committee;
+
+(b) allow the time specified in the notice to elapse;
+
+(c) give the fire safety engineer concerned a reasonable opportunity to be heard if he so desires; and
+
+(d) give due consideration to any explanation (if any) given by the fire safety engineer concerned.
+
+(6) For the purposes of any investigation into any complaint or information referred to it under subsection (1), an Investigation Committee may —
+
+(a) require evidence to be given on oath and for that purpose, the chairman of the Investigation Committee may administer an oath;
+
+(b) require any person to attend and give evidence before it, and to produce all plans, books, documents or papers in the possession of that person or under his control relating to the subject-matter of the investigation; or
+
+(c) appoint any person to make or assist in the making of such preliminary inquiries as the Investigation Committee thinks fit.
+
+(7) Any person who, without lawful excuse, refuses or fails to —
+
+(a) attend and give evidence before an Investigation Committee when required to do so by the Committee;
+
+(b) answer truly and fully any question put to him by a member of the Investigation Committee; or
+
+(c) produce to an Investigation Committee any plan, book, document or paper required by the Committee to be produced by him,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
+
+(8) An Investigation Committee shall meet from time to time and, subject to the provisions of this Act and any regulations made thereunder, shall regulate its own procedure the manner in which questions are decided before the Investigation Committee.
+
+### Fire Safety Engineers Discipline Panel
+
+22E\.—(1) There shall be a Fire Safety Engineers Discipline Panel for the purpose of constituting Investigation Committees under section 22D to investigate into any complaint against or information about the conduct of any fire safety engineer as a peer reviewer or otherwise, or the discharge of his duties as a fire safety engineer or peer reviewer.
+
+(2) The Fire Safety Engineers Discipline Panel shall comprise —
+
+(a) such number of fire safety engineers who are not members of the Singapore Civil Defence Force as the Commissioner may determine; and
+
+(b) such number of members of the Singapore Civil Defence Force as the Commissioner may determine.
+
+(3) Every member of the Fire Safety Engineers Discipline Panel shall be appointed by the Minister for a term of 2 years, and shall be eligible for re-appointment.
+
+(4) The Minister may at any time remove any person from the Fire Safety Engineers Discipline Panel and fill any vacancy in its membership.
+
+(5) Any member of the Fire Safety Engineers Discipline Panel whose term of appointment expires in the course of any investigation by an Investigation Committee to which he has been appointed shall continue as a member of that Committee until the Committee’s written report of the investigation is submitted to the Commissioner under section 22D(3)(b).
+
+### Register of fire safety engineers
+
+22F\.—(1) The Commissioner shall keep and maintain at his office a register of fire safety engineers, in which shall be entered the names of all persons registered as fire safety engineers, the qualifications by virtue of which they are each so registered and such other particulars in relation to the person as may from time to time be determined by the Commissioner.
+
+(2) There shall be removed from the register of fire safety engineers the name and particulars of any fire safety engineer —
+
+(a) who has died; or
+
+(b) who has no address in Singapore at which he can be found.
+
+(3) In addition, once any decision of the Commissioner under section 22C to cancel or suspend the registration of any fire safety engineer takes effect —
+
+(a) the Commissioner shall immediately remove the name and particulars of the fire safety engineer concerned from the register of fire safety engineers and notify the fire safety engineer concerned;
+
+(b) the fire safety engineer concerned shall, within 7 days of being so notified, surrender to the Commissioner the certificate of registration issued to him; and
+
+(c) the Commissioner shall cancel any certificate of registration issued to the fire safety engineer concerned.
+
+(4) While the registration of a fire safety engineer is suspended under section 22C, the person’s name shall not appear in the register of fire safety engineers, but at the end of the period of suspension, the Commissioner shall, within 7 days of that period ending, restore the person’s name and particulars to the register of fire safety engineers and re-issue to him a fresh certificate of registration, without the payment of any fee.
+
+(5) Any fire safety engineer may apply, in the prescribed form and manner, to the Commissioner to have his name removed from the register of fire safety engineers.
+
+(6) The Commissioner shall refuse any application by a fire safety engineer to remove his name from the register of fire safety engineers if the Commissioner is satisfied that at the time of the application —
+
+(a) disciplinary action under section 22C is pending against the fire safety engineer; or
+
+(b) the conduct of the fire safety engineer (whether as a peer reviewer or otherwise) is the subject of any complaint to or information received by the Commissioner.
 
 ## PART IV
 
@@ -1296,6 +1576,14 @@ may, before the decision or order, as the case may be, takes effect, appeal in w
 
 [5/2000]
 
+### Application of this Part to Government buildings, etc.
+
+30D\.—(1) This Part shall apply to fire safety works starting on or after the date of commencement of section 13 of the Fire Safety (Amendment) Act 2004 and which are carried out by or on behalf of the Government in any building wholly or partly owned or occupied by the Government, but nothing in this Act shall render the Government to prosecution for an offence.
+
+(2) For the avoidance of doubt, no person shall be immune from prosecution for any offence under this Part by reason that the person is a contractor engaged to provide services to the Government, or is acting in any other similar capacity for, or on behalf of, the Government.
+
+[7/2004 wef 15/04/2004]
+
 ## PART V
 
 PREMISES USED FOR DANGEROUS TRADES OR PURPOSES
@@ -1504,11 +1792,9 @@ MISCELLANEOUS
 
 (2) In this section, “Health Sciences Authority” means the Health Sciences Authority established under the Health Sciences Authority Act 2001.
 
-[4/2001 wef 01/04/2001]
-
 ### Powers of arrest
 
-46\.—(1) The Commissioner or any officerduly authorised in writing in that behalf by the Commissioner or any police officer may without warrant arrest any person whom he reasonably suspects to have committed an offence under this Act or any regulations made thereunder —
+46\.—(1) The Commissioner or any member of or above the rank of warrant officer duly authorised in writing in that behalf by the Commissioner or any police officer may without warrant arrest any person whom he reasonably suspects to have committed an offence under this Act or any regulations made thereunder —
 
 (a) if the name and address of the person are unknown to him;
 
@@ -1568,7 +1854,7 @@ MISCELLANEOUS
 
 ### Exemption
 
-53\. The Minister may, by order either generally or in any particular case, and subject to such conditions as he may impose, exempt any person, premisesor fire safety works from all or any of the provisions of this Act or any regulations made thereunder.
+53\. The Minister may, by order either generally or in any particular case, and subject to such conditions as he may impose, exempt any person, premises, vehicle or fire safety works from all or any of the provisions of this Act or any regulations made thereunder.
 
 [7/2004 wef 15/04/2004]
 
@@ -1692,15 +1978,17 @@ MISCELLANEOUS
 
 [7/2004 wef 16/02/2005]
 
-(z) the duties and responsibilities of registered inspectors and the manner in which such duties and responsibilities are to be discharged;
-
-(za) the prescribing of the procedure of the Appeal Advisory Board;
-
-(zaa) the regulation of the proceedings of any Inquiry Committee constituted under section 6A;
+(z) the duties and responsibilities of registered inspectors and fire safety engineers and the manner in which those duties and responsibilities are to be discharged, including a code of conduct and ethics for registered inspectors and fire safety engineers;
 
 [7/2004 wef 15/04/2004]
 
-(zab) the prescribing of the code of conduct and ethics for registered inspectors ; and
+(za) the prescribing of the procedure of the Appeal Advisory Board;
+
+(zaa) the regulation of the proceedings of any Inquiry Committee constituted under section 6A and any Investigation Committee constituted under section 22D;
+
+[7/2004 wef 15/04/2004]
+
+(zab) the prescribing of the code of conduct and ethics for registered inspectors and fire safety engineers; and
 
 [7/2004 wef 15/04/2004]
 
@@ -1769,6 +2057,11 @@ This Legislative History is provided for the convenience of users of the Fire Sa
 |||(Bill No. 2/2001 published on 13 January 2001)|
 ||Date of Second and Third Readings|22 February 2001|
 ||Date of commencement|1 April 2001|
+|7.|**Act 7 of 2004—Fire Safety (Amendment) Act 2004**|
+||Date of First Reading|5 January 2004|
+|||(Bill No. 4/2004 published on 6 January 2004)|
+||Date of Second and Third Readings|6 February 2004|
+||Date of commencement|15 April 2004 (except sections 14 to 22 and 26, paragraphs 25(a) to (g) and items (1) and (2) in the Schedule)|
 ## COMPARATIVE TABLE
 
 Fire Safety Act
