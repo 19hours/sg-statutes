@@ -274,6 +274,10 @@ by persons having equipment appropriate for receiving, or receiving and displayi
 
 “free-to-air licence” means a broadcasting licence granted under this Act for the operation of a free-to-air broadcasting service, and “free-to-air licensee” shall be construed accordingly;
 
+“Info-communications Development Authority of Singapore” means the Info-communications Development Authority of Singapore established under section 3 of the Info-communications Development Authority of Singapore Act 1999;
+
+[41/99 wef 01/12/1999]
+
 “licence” means a licence granted under any provision of this Act, and “licensee” shall be construed accordingly;
 
 “licensable broadcasting service” means any broadcasting service specified in the Second Schedule;
@@ -305,8 +309,6 @@ but does not include any matter that is wholly related to or connected with any 
 “subscription fee” means any form of consideration;
 
 “subsidiary” has the same meaning as in the Companies Act [Cap. 50];
-
-“Telecommunication Authority of Singapore” means the Telecommunication Authority of Singapore established under the Telecommunication Authority of Singapore Act [Cap. 323];
 
 “undertaking” means all the land, buildings and other property, movable or immovable, vested in the Corporation immediately before 1st October 1994 and all assets, powers, rights, interests, privileges, debts, liabilities and obligations connected therewith.
 
@@ -346,7 +348,7 @@ FUNCTIONS, DUTIES AND POWERS OF AUTHORITY
 
 (c) to encourage the development of broadcasting and related services;
 
-(d) to re-assign, from electromagnetic spectrum and satellite orbits assigned to the Authority by the Telecommunication Authority of Singapore for the purpose of broadcasting, specific frequencies in such spectrum and satellite orbits to broadcasting licensees whose broadcasting services are to be transmitted on a frequency in such spectrum and satellite orbits; and
+(d) to re-assign, from electromagnetic spectrum and satellite orbits assigned to the Authority by the Info-communications Development Authority of Singapore for the purpose of broadcasting, specific frequencies in such spectrum and satellite orbits to broadcasting licensees whose broadcasting services are to be transmitted on a frequency in such spectrum and satellite orbits; and
 
 (e) to regulate the broadcast by broadcasting licensees of public service broadcasting obligations.
 
@@ -356,7 +358,7 @@ FUNCTIONS, DUTIES AND POWERS OF AUTHORITY
 
 (b) to ensure that the broadcasting services provided by licensees are maintained at a high general standard in all respects and, in particular, in respect of their content, with quality, proper balance and wide range in their subject-matter, having regard both to the broadcasting services as a whole and also to the days of the week on which, and the times of the day at which, such broadcasting services are broadcast; and
 
-(c) to ensure that nothing is included in any broadcasting service which is against public interest or order, national harmony or which offends against good taste or decency.
+(c) to ensure that nothing is included in the content of any broadcasting service which is against public interest or order, national harmony or which offends against good taste or decency.
 
 (3) Nothing in this section shall be construed as imposing on the Authority, directly or indirectly, any form of duty or liability enforceable by proceedings in any court.
 
@@ -704,17 +706,17 @@ FREQUENCY PLANNING
 
 (e) the demand for electromagnetic, and particularly radio frequency, spectrum for services other than broadcasting services; and
 
-(f) such other matters as the Authority or the Telecommunication Authority of Singapore considers appropriate.
+(f) such other matters as the Authority or the Info-communications Development Authority of Singapore considers appropriate.
 
 ### Re-assignment of frequencies
 
-35\.—(1) The Telecommunication Authority of Singapore shall, in consultation with the Authority, assign to the Authority specific frequencies in the electromagnetic spectrum and satellite orbits for the purpose of broadcasting having regard to the international allocation plans set by the International Telecommunication Union as well as national requirements.
+35\.—(1) The Info-communications Development Authority of Singapore shall, in consultation with the Authority, assign to the Authority specific frequencies in the electromagnetic spectrum and satellite orbits for the purpose of broadcasting having regard to the international allocation plans set by the International Telecommunication Union as well as national requirements.
 
 (2) The Authority may re-assign to any person the frequencies in the electromagnetic spectrum and satellite orbits assigned under subsection (1) in accordance with this Act.
 
 ### Separate licence for use of frequency not required
 
-36\. Notwithstanding anything in the Telecommunication Authority of SingaporeAct or any regulations made thereunder, if a licensee is granted a broadcasting licence under this Act and the licence includes the right for the licensee to use any specified frequency in the electromagnetic spectrum or satellite orbits for the broadcast, or the transmission of one or more broadcasting services, then the licensee shall not be required to obtain any other licence under this Act or the Telecommunication Authority of SingaporeAct in respect of the use of such frequency or satellite orbits for the period for which that broadcasting licence is in force and for the purposes permitted by that licence.
+36\. Notwithstanding anything in the Telecommunications Act 1999 or any regulations made thereunder, if a licensee is granted a broadcasting licence under this Act and the licence includes the right for the licensee to use any specified frequency in the electromagnetic spectrum or satellite orbits for the broadcast, or the transmission of one or more broadcasting services, then the licensee shall not be required to obtain any other licence under this Act or the Telecommunications Act 1999 in respect of the use of such frequency or satellite orbits for the period for which that broadcasting licence is in force and for the purposes permitted by that licence.
 
 ## PART VIII
 
@@ -730,7 +732,7 @@ BROADCASTING CONDITIONS
 
 38\.—(1) The Authority may direct any broadcasting licensee or broadcasting apparatus licensee to co-ordinate and co-operate, in such manner and on such terms as the Authority may specify, with any other licensee or any other person specified by the Authority in the use or sharing of any broadcasting apparatus or related equipment or facility owned, operated or used by the broadcasting licensee or broadcasting apparatus licensee for the purpose of broadcasting, whether or not they have been provided, or are intended to be provided, by the licensee or any other licensee or any other person specified by the Authority.
 
-(2) This section shall not apply to any telecommunication system licensed under section 26 of the Telecommunication Authority of Singapore Act [Cap. 323].
+(2) This section shall not apply to any telecommunication system licensed under section 5 of the Telecommunications Act 1999.
 
 ### Inspection and testing of broadcasting apparatus
 
@@ -1519,3 +1521,9 @@ This Legislative History is provided for the convenience of users of the Singapo
 ||Date of operation|15 March 1995|
 |3.|**G. N. No. S 308/1996—Singapore Broadcasting Authority Act (Amendment of Second Schedule) Notification 1996**|
 ||Date of commencement|15 July 1996|
+|4.|**Act 41 of 1999—Info-communications Development Authority of Singapore Act 1999**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|11 October 1999|
+|||(Bill No. 36/99 published on 12 October 1999)|
+||Date of Second and Third Readings|23 November 1999|
+||Date of commencement|1 December 1999|
