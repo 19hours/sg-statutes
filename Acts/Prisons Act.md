@@ -254,7 +254,7 @@ OFFICERS
 
 ### Appointment of officers
 
-8\.—(1) The President may appoint a Director of Prisons for Singapore, and, either by name or as holding any office for the time being, one or more Superintendents of Prisons, and such and so many prison officers, male or female, as may be necessary.
+8\.—(1) The Minister may appoint a Director of Prisons for Singapore, and, either by name or as holding any office for the time being, one or more Superintendents of Prisons, and such and so many prison officers, male or female, as may be necessary.
 
 (2) The appointment of the Director and of any Superintendent shall be notified in theGazette.
 
@@ -530,7 +530,7 @@ And provided that, on conviction under paragraph (h), any such officer shall be 
 
 46\.—(1) The Director may punish any Chief Rehabilitation Officer or Principal Rehabilitation Officer for any of the offences specified in section 43(1) by reprimand, severe reprimand, deductions from pay not exceeding the amount of one month’s pay or by stopping or deferring any increment to salary for which such Chief Rehabilitation Officer or Principal Rehabilitation Officer may be eligible.
 
-(2) Any Chief Rehabilitation Officer or Principal Rehabilitation Officer may appeal to the President against any punishment awarded under this section, provided that the appeal shall be submitted in writing within 30 days from the date upon which the punishment was ordered.
+(2) Any Chief Rehabilitation Officer or Principal Rehabilitation Officer may appeal to the Minister against any punishment awarded under this section, provided that the appeal shall be submitted in writing within 30 days from the date upon which the punishment was ordered.
 
 (3) If it appears to the Director that the offence is of such a grave character as to require a more severe punishment than any herein prescribed, he may direct that the person accused be charged before a District Court or Magistrate’s Court, and such person shall be liable on conviction to a fine not exceeding $400 or to imprisonment for a term not exceeding 6 months or to both.
 
@@ -538,7 +538,7 @@ And provided that, on conviction under paragraph (h), any such officer shall be 
 
 ### Threatening or insulting superiors
 
-47\.—(1) Any prison officer who assaults, threatens or insults any officer senior to him in the prisons service when the senior officer is on duty or when the assault, threat or insult is related to or is consequent upon the discharge of duty by the officer so assaulted, threatened or insulted, shall be guilty of an offence and shall be liable on conviction before a District Court or Magistrate’s Court to a fine not exceeding $400 or to imprisonment for a term not exceeding 12 months.
+47\.—(1) Any prison officer who assaults, threatens or insults any officer senior to him in the prisons service when the senior officer is on duty or when the assault, threat or insult in related to or is consequent upon the discharge of duty by the officer so assaulted, threatened or insulted, shall be guilty of an offence and shall be liable on conviction before a District Court or Magistrate’s Court to a fine not exceeding $400 or to imprisonment for a term not exceeding 12 months.
 
 (2) Any person convicted under this section may, unless the conviction is reversed on appeal, be dismissed from his office, and all arrears of pay due to him may be forfeited.
 
@@ -750,7 +750,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Detention after date for discharge
 
-59\. Any punishment lawfully imposed on a prisoner under this Act or any regulations made thereunder may be carried into effect notwithstanding that the carrying into effect thereof may necessitate the detention of the prisoner beyond the date at which he would otherwise be entitled to be discharged from prison:
+59\. Any punishment lawfully imposed on a prisoner under this Act or any regulations made thereunder may be carried into effect notwithstanding that the carrying into effect thereof may necessitate the detention of the prisoner beyond the date of which he would otherwise be entitled to be discharged from prison:
 
 Provided that the period of such detention shall not exceed 48 hours, such period to be calculated from the last hour of the day upon which the prisoner would otherwise be entitled to be discharged.
 
@@ -929,3 +929,9 @@ This Legislative History is provided for the convenience of users of the Prisons
 ||Date of commencement|11 October 1985|
 |14.|**1985 Revised Edition—Prisons Act**|
 ||Date of operation|30 March 1987|
+|15.|**Act 7 of 1997—Statutes (Miscellaneous Amendment) Act 1997**|
+||(Consequential amendments made by)||
+||Date of First Reading|11 July 1997|
+|||(Bill No. 6/97 published on 12 July 1997)|
+||Date of Second and Third Readings|25 August 1997|
+||Date of commencement|1 October 1997|
