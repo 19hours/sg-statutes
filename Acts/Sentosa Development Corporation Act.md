@@ -44,7 +44,7 @@
 
 - [12A Issue of shares, etc.](#Issue-of-shares-etc)
 
-- [13 Investment of money belonging to Corporation](#Investment-of-money-belonging-to-Corporation)
+- [13 Power of investment](#Power-of-investment)
 
 - [14 Bank accounts](#Bank-accounts)
 
@@ -370,11 +370,11 @@ FINANCIAL PROVISIONS
 
 [5/2002 wef 15/07/2002]
 
-### Investment of money belonging to Corporation
+### Power of investment
 
-13\.—(1) Money standing to the credit of the Corporation may from time to time be invested in any of the securities in which trust funds may, by section 4 of the Trustees Act (Cap. 337), be invested.
+13\. The Corporation may invest its moneys in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
 
-(2) The Corporation may, with the written approval of the Minister, invest money standing to the credit of the Corporation from time to time in shares of any private or public company.
+[45/2004 wef 15/12/2004]
 
 ### Bank accounts
 
@@ -638,7 +638,7 @@ RESORT AREA
 
 “public authority” means the Government, the Collector of Land Revenue, the Comptroller of Property Tax and any other person, corporation or body, authorised or empowered by any written law to attach, sell or acquire land compulsorily;
 
-“Registrar” means the Registrar of Titles appointed under the Land Titles Act (Cap.157).
+“Registrar” means the Registrar of Titles appointed under the Land Titles Act (Cap. 157).
 
 [34/96]
 
@@ -880,7 +880,7 @@ Sentosa Development Corporation Act
 
 (CHAPTER 291)
 
-This Legislative History is provided for the convenience of users of the Sentosa Development Corporation Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Sentosa Development Corporation Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -908,3 +908,9 @@ This Legislative History is provided for the convenience of users of the Sentosa
 |||(Bill No. 7/2002)|
 ||Date of Second and Third Readings|24 May 2002|
 ||Date of commencement|15 July 2002|
+|7.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 September 2004|
+|||(Bill No. 43/2004 published on 22 September 2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|15 December 2004|
