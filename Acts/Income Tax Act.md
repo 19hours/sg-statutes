@@ -282,6 +282,8 @@
 
 - [43T Concessionary rate of tax for income derived from securities lending or repurchase arrangement](#Concessionary-rate-of-tax-for-income-derived-from-securities-lending-or-repurchase-arrangement)
 
+- [43U Concessionary rate of tax for income derived from organising or staging tourism event](#Concessionary-rate-of-tax-for-income-derived-from-organising-or-staging-tourism-event)
+
 [**Part XII DEDUCTION OF TAX AT SOURCE**](#Part-XII)
 
 - [44 Deduction of tax from dividends of companies](#Deduction-of-tax-from-dividends-of-companies)
@@ -946,7 +948,7 @@ IMPOSITION OF INCOME TAX
 
 where A
 
-is the amount of allowances under section 19 made to the enterprise in respect of the Singapore ship against any income exempt from tax under section 13A;
+is the amount of allowances under section 19 or 19A made to the enterprise in respect of the Singapore ship against any income exempt from tax under section 13A or 13S;
 
 B
 
@@ -1664,7 +1666,7 @@ is the aggregate cost of all shares in the company held by the shareholder immed
 
 N
 
-is the number of remaining shares in the company held by the shareholder after the buyback of his shares
+is the number of remaining shares in the company held by the shareholder after the buyback of his shares.
 
 [32/99]
 
@@ -2581,11 +2583,11 @@ ought not to have been so exempted, the Comptroller may at any time within 6 yea
 
 ### Exemption of certain dividends
 
-13B\.—(1) Where a company derives income which is subject to tax or exempt from tax in accordance withregulations prescribed under section 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L , 43M (repealed), 43N, 43O, 43P, 43Q, 43R , 43T, the following provisions of this section shall have effect.
+13B\.—(1) Where a company derives income which is subject to tax or exempt from tax in accordance withregulations prescribed under section 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L , 43M (repealed), 43N, 43O, 43P, 43Q, 43R , 43Tor 43U, the following provisions of this section shall have effect.
 
 [1/82; 15/83; 31/86; 1/90; 20/91; 2/92; 28/92; 26/93; 1/98; 31/98; 37/2002; 21/2003]
 
-(2) As soon as any amount of income of the company has been subject to tax at the rate of 10% (or other concessionary rate) or exempt from tax in accordance withregulations prescribed under section 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L, 43M (repealed), 43N, 43O, 43P, 43Q, 43R, 43T, the net amount of the income after deduction of the tax or the amount of the income exempted shall be credited to a special account (referred to in this section as the account) to be kept by the company for the purposes of this section.
+(2) As soon as any amount of income of the company has been subject to tax at the rate of 10% (or other concessionary rate) or exempt from tax in accordance withregulations prescribed under section 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L, 43M (repealed), 43N, 43O, 43P, 43Q, 43R, 43Tor 43U, the net amount of the income after deduction of the tax or the amount of the income exempted shall be credited to a special account (referred to in this section as the account) to be kept by the company for the purposes of this section.
 
 [15/83; 1/90; 20/91; 2/92; 28/92; 26/93; 1/98; 31/98; 37/2002; 21/2003]
 
@@ -2615,7 +2617,7 @@ ought not to have been so exempted, the Comptroller may at any time within 6 yea
 
 (8) Notwithstanding subsections (1) to (7), where it appears to the Comptroller that —
 
-(a) any income of a company which has been subject to tax at the rate of 10% (or such other concessionary rate) or exempt from tax as prescribed under section 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L , 43M (repealed), 43N, 43O, 43P, 43Q, 43R, 43T; or
+(a) any income of a company which has been subject to tax at the rate of 10% (or such other concessionary rate) or exempt from tax as prescribed under section 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L , 43M (repealed), 43N, 43O, 43P, 43Q, 43R, 43Tor 43U; or
 
 (b) any dividend which has been exempted from tax in the hands of any shareholder,
 
@@ -2737,7 +2739,7 @@ as the case may be.
 
 (a) only apply to income received on or after 1st January 1991;
 
-(b) not apply to income on which tax has been levied at the rate of 10% or such other concessionary rate as may be prescribed under section 13H, 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L , 43N, 43O, 43P, 43Q, 43R, 43T or section 19B of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) in force immediately before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004 or section 19J of the Economic Expansion Incentives (Relief from Income Tax) Act; and
+(b) not apply to income on which tax has been levied at the rate of 10% or such other concessionary rate as may be prescribed under section 13H, 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L , 43N, 43O, 43P, 43Q, 43R, 43Tor 43U or section 19B of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) in force immediately before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004 or section 19J of the Economic Expansion Incentives (Relief from Income Tax) Act; and
 
 (c) not apply to income derived from Malaysia and received in Singapore by a company resident in Singapore where the company in paying any dividend out of such income declares itself to be a resident of Malaysia under paragraph 3 of Article VII of the Income Tax (Singapore — Malaysia) (Avoidance of Double Taxation Agreement) Order.
 
@@ -3355,6 +3357,32 @@ as the Minister may by regulations prescribe.
 
 (a) individuals that are neither citizens of Singapore nor resident in Singapore, unless the Minister otherwise by regulations prescribes;
 
+(b) companies each of which —
+
+(i) is neither incorporated nor resident in Singapore;
+
+(ii) does not have a permanent establishment in Singapore other than a trustee company referred to in subsection (1)(a);
+
+(iii) does not carry on a business in Singapore;
+
+(iv) does not beneficially own more than 20% of the total number of the issued shares of any company incorporated in Singapore;
+
+(v) does not have 20% or more of the total number of its issued shares beneficially owned, directly or indirectly, by a company which —
+
+(A) has a permanent establishment in Singapore other than a trustee company referred to in subsection (1)(a);
+
+(B) carries on a business in Singapore; or
+
+(C) beneficially owns more than 20% of the total number of the issued shares of any company incorporated in Singapore; and
+
+(vi) has —
+
+(A) if it has no more than 50 shareholders, all of its issued shares beneficially owned, directly or indirectly, by persons who are neither citizens of Singapore nor resident in Singapore; or
+
+(B) if it has more than 50 shareholders, not less than 95% of the total number of its issued shares beneficially owned, directly or indirectly, by persons who are neither citizens of Singapore nor resident in Singapore;
+
+[7/2007 wef 18/02/2005]
+
 (c) foreign trusts;
 
 (d) other philanthropic purpose trusts that inject funds or assets from their foreign accounts; or
@@ -3783,7 +3811,7 @@ and approved by the Minister or such person as he may appoint;
 
 (a) any order made under section 13(12);
 
-(b) the regulations made undersection 13H, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L , 43N, 43O, 43P, 43Q, 43R, 43T, as the case may be; or
+(b) the regulations made undersection 13H, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L , 43N, 43O, 43P, 43Q, 43R, 43Tor 43U, as the case may be; or
 
 (c) section 19J(5) of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86);
 
@@ -5081,7 +5109,7 @@ is the amount of capital expenditure incurred for the acquisition of the IRU; an
 
 B
 
-is the writing-down period for the IRU.
+is the writing-down period for the IRU
 
 (4) Notwithstanding anything in this section, no writing-down allowance shall be granted to any person under subsection (1) in any year of assessment if the international telecommunications submarine cable system is not in use at the end of the basis period for that year of assessment by that person in the trade, business or profession carried on by him.
 
@@ -5235,7 +5263,7 @@ B
 
 is the capital expenditure incurred in respect of the motor car.
 
-(6) Notwithstanding anything in this section, no balancing allowance shall be made in respect of a motor car within the meaning of section 19(4)(a) which is not, for any basis period after the basis period for the year of assessment 1981, registered as a business service passenger vehicle for the purposes of the Road Traffic Act (Cap. 276).
+Notwithstanding anything in this section, no balancing allowance shall be made in respect of a motor car within the meaning of section 19(4)(a) which is not, for any basis period after the basis period for the year of assessment 1981, registered as a business service passenger vehicle for the purposes of the Road Traffic Act (Cap. 276).
 
 [9/80; 1/98]
 
@@ -6245,7 +6273,7 @@ is the lower rate of tax for that year of assessment;
 
 (a) any order made under section 13(12); or
 
-(b) the regulations made under section 13H, 43A, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43J, 43K, 43L , 43M (repealed), 43N, 43O, 43P, 43Q, 43R, 43T, as the case may be;
+(b) the regulations made under section 13H, 43A, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43J, 43K, 43L , 43M (repealed), 43N, 43O, 43P, 43Q, 43R, 43Tor 43U, as the case may be;
 
 “losses” means losses which are deductible under section 37 including unabsorbed losses incurred in respect of any year of assessment before the year of assessment 1994;
 
@@ -7295,7 +7323,7 @@ accruing in or derived from Singapore on or after 28th February 1996 by a person
 
 [Act 49/2004, wef Y/A 2005 & Sub Ys/A:2004-ACT-49]
 
-“gross amount”, in relation to any income referred to in subsections (3), (3A) and (4), means the full amount of the income without any deduction and relief being allowed against the income under the provisions of this Act;
+“gross amount”, in relation to any income referred to in subsections (3), (3A), (3B) and (4), means the full amount of the income without any deduction and relief being allowed against the income under the provisions of this Act;
 
 “qualifying company” means a company incorporated in Singapore (other than a company limited by guarantee) which for each of the first 3 years of assessment —
 
@@ -7810,6 +7838,16 @@ and for deduction of losses otherwise than in accordance with section 37(3).
 “securities lending or repurchase arrangement” has the same meaning as in section 10N.
 
 [34/2005 wef 18/02/2005]
+
+### Concessionary rate of tax for income derived from organising or staging tourism event
+
+43U\.—(1) Notwithstanding section 43, tax at the rate of 10% shall be levied and paid for each year of assessment upon such income as the Minister may specify of an approved company incorporated or registered in Singapore derived by it on or after 1st April 2005 from organising or staging an approved tourism event, subject to such conditions as the Minister or such person appointed by him may impose.
+
+(2) No approval shall be granted under this section after 31st March 2010.
+
+(3) In this section, “approved” means approved by the Minister or such person as he may appoint.
+
+[34/2005 wef 01/04/2005]
 
 ## PART XII
 
@@ -8357,7 +8395,7 @@ RELIEF AGAINST DOUBLE TAXATION
 
 “rate of tax”, when applied to tax paid or payable under this Act, means the rate determined by dividing the amount of the tax paid or payable on any income other than specified income for the year (before the deduction of the relief granted under this section) by the amount of the income (other than specified income) in respect of which the tax paid or payable under this Act has been charged for that year except that, where the income (other than specified income) which is the subject of a claim to relief under this section is computed by reference to the provisions of this Act on an amount other than the ascertained amount of the actual profits, the rate of tax shall be determined by the Comptroller; and the rate of Commonwealth income tax shall be computed in a similar manner;
 
-“specified income” means any income of a person not resident in Singapore which is subject to tax at the rate specified in section 43(3), (3A)and (4) (a).
+“specified income” means any income of a person not resident in Singapore which is subject to tax at the rate specified in section 43(3), (3A), (3B) and (4)(a).
 
 [28/96; 37/2002]
 
@@ -8389,7 +8427,7 @@ is the exempt income; and
 
 C
 
-is the other income
+is the other income.
 
 (3) While any such arrangements are in force with any country within the Commonwealth, section 48 shall cease to have effect as respects that country except in so far as the arrangements otherwise provide.
 
@@ -11197,6 +11235,11 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 19/2006 published on 9 November 2006)|
 ||Date of Second and Third Readings|22 January 2007|
 ||Date of commencement|18 February 2005 (Section 9)|
+|192.|**Act 34 of 2005—Income Tax (Amendment) Act 2005**|
+||Date of First Reading|19 September 2005|
+|||(Bill No. 27/2005 published on 20 September 2005)|
+||Date of Second and Third Readings|18 October 2005|
+||Date of commencement|1 April 2005 (Sections 34,47)|
 ## COMPARATIVE TABLE
 
 Income Tax Act
