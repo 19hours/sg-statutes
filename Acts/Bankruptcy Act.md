@@ -2274,7 +2274,9 @@ as may be specified in the order.
 
 (a) a period of 5 years has lapsed since the date of commencement of the bankruptcy; and
 
-(b) the debts which have been proved in bankruptcy do not exceed $100,000, or such other sum as may be prescribed.
+(b) the debts which have been proved in bankruptcy do not exceed $500,0001, or such other sum as may be prescribed.
+
+1Please refer to S 126/99, wef 01/05/1999.
 
 (3) Notice of every discharge under subsection (1) shall be given to the Registrar and be published in theGazetteand advertised in any local newspaper.
 
@@ -2919,3 +2921,5 @@ This Legislative History is provided for the convenience of users of the Bankrup
 ||Date of operation|30 April 1996|
 |3.|**G. N. No. S 380/1997—Bankruptcy (Variation of Sum of Debts under Section 125(2)(b)) Rules 1997**|
 ||Date of commencement|15 September 1997|
+|4.|**G. N. No. S 126/1999—Bankruptcy (Variation of Sum of Debts under section 125(2)(b)) Rules 1999**|
+||Date of commencement|1 May 1999|
