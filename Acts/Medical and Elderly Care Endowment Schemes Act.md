@@ -1,16 +1,14 @@
-**Medical and Elderly Care Endowment Schemes Act 2000**
+**Medical and Elderly Care Endowment Schemes Act**
 
-**(No. 13 of 2000)**
+**(CHAPTER 173A)**
 
 **Table of Contents**
 
 [**Long Title**](#Medical-and-Elderly-Care-Endowment-Schemes-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -122,53 +120,33 @@
 
 - [46 Regulations](#Regulations)
 
-- [47 Repeal, transitional and saving provisions](#Repeal-transitional-and-saving-provisions)
+- [47 Transitional and saving provisions](#Transitional-and-saving-provisions)
 
 [**THE SCHEDULE the Advisory Council**](#THE-SCHEDULE)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Medical and Elderly Care Endowment Schemes Act
 
-ACTS SUPPLEMENT
+(CHAPTER 173A)
 
-Published by Authority
+(Original Enactment: Act 13 of 2000)
 
-NO. 8]
+REVISED EDITION 2001
 
-Friday, March 24
+(31st December 2001)
 
-[2000
+An Act to reconstitute the Medical Endowment Fund and to establish the ElderCare Fund for the purpose of endowment schemes providing financial assistance in connection with medical and health care in Singapore and for matters connected therewith.
 
-The following Act was passed by Parliament on 22nd February 2000 and assented to by the President on 7th March 2000:—
-
-Medical and Elderly Care Endowment Schemes Act 2000
-
-(No. 13 of 2000)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-7th March 2000.
-
-Date of Commencement: 27th March 2000
-
-An Act to reconstitute the Medical Endowment Fund and to establish the ElderCare Fund for the purpose of endowment schemes providing financial assistance in connection with medical and health care in Singapore and for matters connected therewith, and to repeal the Medical Endowment Scheme Act (Chapter 173A of the 1994 Revised Edition).
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[27th March 2000]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\.—(1) This Act may be cited as the Medical and Elderly Care Endowment Schemes Act 2000 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
-
-(2) The Minister may appoint different dates for the coming into operation of the different provisions of this Act.
+1\. This Act may be cited as the Medical and Elderly Care Endowment Schemes Act.
 
 ### Interpretation
 
@@ -180,7 +158,7 @@ PRELIMINARY
 
 “approved services” means step-down care provided by an approved provider in respect of which an approval under section 23(5)(a) is in force;
 
-“authorised officer” means any officer authorised by the Minister in writing to exercise such power or perform such function or duty under this Act or any regulations made thereunder as the Minister may specify therein;
+“authorised officer” means any officer authorised by the Minister in writing to exercise such power or perform such function or duty under this Act as the Minister may specify therein;
 
 “Council” means the Advisory Council established under section 6;
 
@@ -188,11 +166,11 @@ PRELIMINARY
 
 “eligible patient” means a person who is eligible to make an application under section 15;
 
-“Medifund” means the Medical Endowment Fund established under the repealed Medical Endowment Scheme Act (Cap. 173A) and reconstituted under this Act;
+“Medifund” means the Medical Endowment Fund established under the repealed Medical Endowment Scheme Act (Cap. 173A, 1994 Ed.) and reconstituted under this Act;
 
 “Medifund Account” means the account of a Medifund committee referred to in section 10;
 
-“Medifund committee” means the committee appointed under section 14;
+“Medifund committee” means any committee appointed under section 14;
 
 “organisation” means a society, body or group of persons, whether corporate or unincorporated;
 
@@ -272,7 +250,7 @@ Medifund
 
 ### Functions of Council and directions by Minister
 
-7\.—(1) The Council shall from time to time make recommendations to the Minister on all matters relating to the application of the income of the Medifund.
+7\.—(1) The Council shall, from time to time, make recommendations to the Minister on all matters relating to the application of the income of the Medifund.
 
 (2) The Minister may, on the recommendations of the Council, issue to any Medifund committee directives or guidelines on the approval of applications from eligible patients and on the administration of the Medifund Account of that committee.
 
@@ -286,7 +264,7 @@ Grants to Medifund Committees
 
 ### Conditions on payment of grants
 
-9\.—(1) The Minister may from time to time authorise the payment of grants in such amount and to such Medifund committees as he may think fit.
+9\.—(1) The Minister may, from time to time, authorise the payment of grants in such amount and to such Medifund committees as he may think fit.
 
 (2) The Minister may, in authorising payment for any purpose under section 5 to any Medifund committee or other person, impose such terms and conditions as he may think fit.
 
@@ -356,7 +334,11 @@ may apply to the Medifund committee designated to approve his application for a 
 
 ### Payments authorised by Medifund committee
 
-17\.—(1) Upon receipt of an application made under section 15, the Medifund committee designated to approve such applications from such class of eligible patients of such approved institutions for the purposes of this Part may, if it thinks fit and subject to the availability of moneys in the Medifund Account, approve the application of any eligible patient of any approved institution in that class and authorise in writing payments of such amount as it thinks fit out of the Medifund Account to the approved institution to defray in whole or in part the hospital charges, fees and other expenses incurred by that eligible patient.
+17\.—(1) Upon receipt of an application made under section 15, the Medifund committee designated to approve such applications from such class of eligible patients of such approved institutions for the purposes of this Part may, if it thinks fit and subject to the availability of moneys in the Medifund Account —
+
+(a) approve the application of any eligible patient of any approved institution in that class; and
+
+(b) authorise in writing payments of such amount as it thinks fit out of the Medifund Account to the approved institution to defray in whole or in part the hospital charges, fees and other expenses incurred by that eligible patient.
 
 (2) The Medifund committee shall, in considering any application and authorising payment, comply with any regulations made under this Act and any directive and guideline issued by the Minister under section 7(2).
 
@@ -392,9 +374,9 @@ Establishment of ElderCare Fund
 
 ### Capital moneys of ElderCare Fund
 
-20\.—(1) Upon the date of commencement of this Act, such sum as the Minister for Finance may determine out of moneys to be provided by Parliament shall be paid into the ElderCare Fund as capital moneys.
+20\.—(1) As from 27th March 2000, such sum as the Minister for Finance may determine out of moneys to be provided by Parliament shall be paid into the ElderCare Fund as capital moneys.
 
-(2) The Minister for Finance may from time to time after the date of commencement of this Act pay into the ElderCare Fund such sums of capital money as he may determine out of moneys to be provided by Parliament.
+(2) The Minister for Finance may, from time to time, after 27th March 2000 pay into the ElderCare Fund such sums of capital money as he may determine out of moneys to be provided by Parliament.
 
 (3) Notwithstanding the terms of any gift or bequest, all gifts and bequests given or made for the purposes of the ElderCare Fund shall be paid into the ElderCare Fund as capital moneys.
 
@@ -504,7 +486,7 @@ Approved Providers
 
 (4) A revocation or suspension of any approval shall take effect —
 
-(a) if no submission was made under subsection (2) on the day after the last day for making submissions; or
+(a) if no submission was made under subsection (2) — on the day after the last day for making submissions; or
 
 (b) if such submission was made — 7 days after the day on which the notice under subsection (3) was given.
 
@@ -570,7 +552,7 @@ Subventions
 
 (4) Any sanction imposed shall take effect —
 
-(a) if no submission was made under subsection (2) on the day after the last day for making submissions; or
+(a) if no submission was made under subsection (2) — on the day after the last day for making submissions; or
 
 (b) if such submission was made — 7 days after the day on which the notice under subsection (3) was given.
 
@@ -588,7 +570,7 @@ Subventions
 
 31\.—(1) Every approved provider shall —
 
-(a) keep records (whether in written or electronic form) that enable claims for payments of subvention to be properly verified, and proper assessments to be made whether the approved provider has complied, or is complying, with the conditions of any subvention paid to it and with its duties under this Act or any regulations made thereunder;
+(a) keep records (whether in written or electronic form) that enable claims for payments of subvention to be properly verified, and proper assessments to be made whether the approved provider has complied, or is complying, with the conditions of any subvention paid to it and with its duties under this Act;
 
 (b) in relation to each of those records, retain the record for a period ending 3 years (or such other period as an authorised officer may allow) after the close of the financial year in which the record was made; and
 
@@ -626,7 +608,7 @@ Subventions
 
 (a) to assess whether records have been kept as required by this Part;
 
-(b) to assess whether the provisions of this Act or any regulations made thereunder relating to, or the conditions of the subvention in respect of, the approved provider concerned have been complied with.
+(b) to assess whether the provisions of this Act relating to, or the conditions of the subvention in respect of, the approved provider concerned have been complied with.
 
 ## PART IV
 
@@ -696,7 +678,7 @@ MISCELLANEOUS
 
 ### Obstructing authorised officers in execution of their duties
 
-40\.—(1) Any person who obstructs, hinders or impedes any authorised officer in the performance or execution of his duty or anything which he is authorised, empowered or required to do under this Act or any regulations made thereunder shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
+40\.—(1) Any person who obstructs, hinders or impedes any authorised officer in the performance or execution of his duty or anything which he is authorised, empowered or required to do under this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 (2) Any person who fails, without reasonable excuse, to answer any question, to furnish any information or to produce any document or record to an authorised officer in contravention of section 32(1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
 
@@ -706,27 +688,27 @@ MISCELLANEOUS
 
 (a) makes a statement that is false or misleading in a material particular in respect of any application for approval as an approved provider; or
 
-(b) gives to the Minister or any authorised officer exercising a power or performing a duty or function under this Act or any regulations made thereunder any information or any document or record that contains information that is false or misleading in a material particular,
+(b) gives to the Minister or any authorised officer exercising a power or performing a duty or function under this Act any information or any document or record that contains information that is false or misleading in a material particular,
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 ### Protection against personal liability
 
-42\. No suit or other legal proceedings shall lie against any member of any Medifund committee or any person acting under the directions or authorisation of the Medifund committee for anything which is in good faith done or intended to be done by him in the execution or purported execution of this Act or any regulations made thereunder.
+42\. No suit or other legal proceedings shall lie against any member of any Medifund committee or any person acting under the directions or authorisation of the Medifund committee for anything which is in good faith done or intended to be done by him in the execution or purported execution of this Act.
 
 ### Confidentiality of information
 
-43\.—(1) Except in the case of prosecution of an offence under this Act or any regulations made thereunder, an authorised officer shall not be compellable in any proceedings to give evidence in respect of, or to produce any document containing, any information which has been obtained from any approved provider or approved institution in the course of carrying out any inspection, assessment or performing any duty or function under this Act or any regulations made thereunder.
+43\.—(1) Except in the case of prosecution of an offence under this Act, an authorised officer shall not be compellable in any proceedings to give evidence in respect of, or to produce any document containing, any information which has been obtained from any approved provider or approved institution in the course of carrying out any inspection, assessment or performing any duty or function under this Act.
 
-(2) Notwithstanding subsection (1), an authorised officer shall not disclose any information which is contained in the medical records, or which relates to the condition, treatment or diagnosis, of any person, as may have come to his knowledge in the course of carrying out any inspection or assessment or performing any duty or function under this Act or any regulations made thereunder unless the disclosure is made —
+(2) Notwithstanding subsection (1), an authorised officer shall not disclose any information which is contained in the medical records, or which relates to the condition, treatment or diagnosis, of any person, as may have come to his knowledge in the course of carrying out any inspection or assessment or performing any duty or function under this Act unless the disclosure is made —
 
 (a) under or for the purpose of administering and enforcing this Act or the Infectious Diseases Act (Cap. 137);
 
 (b) for the purpose of any disciplinary proceedings under the Medical Registration Act (Cap. 174); or
 
-(c) for any other purpose with the consent of the person to whom the information relates or the representative of the person.
+(c) for any other purpose with the consent of the person to whom the information relates or the representative of that person.
 
-(3) For the purposes of subsection (2)(c), “representative” means —
+(3) In subsection (2)(c), “representative” means —
 
 (a) the executor, administrator or next-of-kin of a deceased person;
 
@@ -734,7 +716,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Service of documents
 
-44\. Any notice, order or other document that is required by this Act or any regulations made thereunder to be served or given to any approved provider, Medifund committee or any other organisation may be served on or given to that provider, committee or organisation by delivering or sending by registered post the notice, order or document —
+44\. Any notice, order or other document that is required by this Act to be served or given to any approved provider, Medifund committee or any other organisation may be served on or given to that provider, committee or organisation by delivering or sending by registered post the notice, order or document —
 
 (a) to the registered or principal office of the provider, committee or organisation; or
 
@@ -742,7 +724,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Offences by bodies corporate, etc.
 
-45\.—(1) Where any offence under this Act or any regulations made thereunder is committed by a body corporate, a partnership or an unincorporated association of persons, any person who, at the time of the commission of the offence, was a director, manager, partner, secretary or other similar officer, or was purporting to act in any such capacity, he shall also be guilty of that offence and shall be liable to be proceeded against and punished accordingly unless he proves that —
+45\.—(1) Where any offence under this Act is committed by a body corporate, a partnership or an unincorporated association of persons, any person who, at the time of the commission of the offence, was a director, manager, partner, secretary or other similar officer, or was purporting to act in any such capacity, he shall also be guilty of that offence and shall be liable to be proceeded against and punished accordingly unless he proves that —
 
 (a) the offence was committed without his consent or connivance; and
 
@@ -766,27 +748,25 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (f) prescribe anything which may be prescribed under this Act.
 
-### Repeal, transitional and saving provisions
+### Transitional and saving provisions
 
-47\.—(1) The Medical Endowment Scheme Act (Cap. 173A) is repealed (referred to in this section as the repealed Act).
+47\.—(1) Any approval, decision, notice or other document prepared, made, granted, issued, and any act or thing done or given, under or pursuant to the repealed Medical Endowment Scheme Act (Cap. 173A, 1994 Ed.) (referred to in this section as the repealed Act) and valid immediately prior to 27th March 2000 shall be deemed to have been prepared, made, granted, issued, done or given under or pursuant to the corresponding provision of this Act and shall continue to have effect accordingly.
 
-(2) Any approval, decision, notice or other document prepared, made, granted, issued, and any act or thing done or given, under or pursuant to the repealed Act and valid immediately prior to the date of commencement of this section shall be deemed to have been prepared, made, granted, issued, done or given under or pursuant to the corresponding provision of this Act and shall continue to have effect accordingly.
+(2) All directives or guidelines made by the Minister under section 9 of the repealed Act shall be deemed to have been made under section 7 of this Act.
 
-(3) All directives or guidelines made by the Minister under section 9 of the repealed Act shall be deemed to have been made under section 7 of this Act.
+(3) Every Hospital Medifund committee appointed under section 12 of the repealed Act shall be deemed to be appointed as a Medifund committee by the Minister in accordance with section 14 of this Act.
 
-(4) Every Hospital Medifund committee appointed under section 12 of the repealed Act shall be deemed to be appointed as a Medifund committee by the Minister in accordance with section 14 of this Act.
+(4) Every Hospital Medifund Account established under section 11 of the repealed Act shall be deemed to be a Medifund Account established under section 10 of this Act.
 
-(5) Every Hospital Medifund Account established under section 11 of the repealed Act shall be deemed to be a Medifund Account established under section 10 of this Act.
+(5) All persons who, immediately before 27th March 2000, is a member of the Advisory Council under the repealed Act, shall continue as such member as if he had been appointed under section 6 of this Act.
 
-(6) All persons who, immediately before the date of commencement of this section, is a member of the Advisory Council under the repealed Act, shall continue as such member as if he had been appointed under section 6 of this Act.
+(6) Subject to the Constitution, any breach, contravention or non-compliance of the repealed Act shall be deemed to be a breach, contravention or non-compliance of the corresponding provision of this Act and the powers conferred on the Minister or any authorised officer by this Act may be exercised in respect of such breach, contravention or non-compliance.
 
-(7) Subject to the Constitution, any breach, contravention or non-compliance of the repealed Act shall be deemed to be a breach, contravention or non-compliance of the corresponding provision of this Act and the powers conferred on the Minister or any authorised officer by this Act may be exercised in respect of such breach, contravention or non-compliance.
+(7) Any application made to any Hospital Medifund committee under section 13 of the repealed Act which is pending immediately before 27th March 2000 shall be deemed to have been made and shall be dealt with under the corresponding provisions of this Act.
 
-(8) Any application made to any Hospital Medifund committee under section 13 of the repealed Act which is pending immediately before the date of commencement of this section shall be deemed to have been made and shall be dealt with under the corresponding provisions of this Act.
+(8) Any reference in any written law to the repealed Act or any provision thereof shall, as from 27th March 2000, be a reference to this Act or the corresponding provision of this Act.
 
-(9) Any reference in any written law to the repealed Act or any provision thereof shall, as from the date of commencement of this section, be a reference to this Act or the corresponding provision of this Act.
-
-(10) Any reference in any written law or document to the repealed Act shall be construed as a reference to this Act.
+(9) Any reference in any written law or document to the repealed Act shall be construed as a reference to this Act.
 
 ## THE SCHEDULE
 
@@ -820,5 +800,22 @@ the Minister may remove him from office.
 
 6\. All questions arising at any meeting of the Council shall be decided by a majority of votes of the members present and, in the case of an equality of votes, the chairman or member presiding shall have a casting vote.
 
-7\. Subject to the provisions of this Act and any regulations made thereunder, the Council may regulate its own procedure in such manner as it thinks fit.
+7\. Subject to the provisions of this Act, the Council may regulate its own procedure in such manner as it thinks fit.
 
+## LEGISLATIVE HISTORY
+
+Medical and Elderly Care Endowment Schemes Act
+
+(CHAPTER 173A)
+
+This Legislative History is provided for the convenience of users of the Medical and Elderly Care Endowment Schemes Act. It is not part of the Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 13 of 2000—Medical and Elderly Care Endowment Schemes Act 2000**|
+||Date of First Reading|17 January 2000|
+|||(Bill No. 7/2000 published on 18 January 2000)|
+||Date of Second and Third Readings|22 February 2000|
+||Date of commencement|27 March 2000|
+|2.|**2001 Revised Edition—Medical and Elderly Care Endowment Schemes Act**|
+||Date of operation|31 December 2001|
