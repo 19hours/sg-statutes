@@ -1,6 +1,6 @@
-**Post Office Savings Bank of Singapore (Transfer of Undertakings and Dissolution) Act 1998**
+**Post Office Savings Bank of Singapore (Transfer of Undertakings and Dissolution) Act**
 
-**(No. 37 of 1998)**
+**(CHAPTER 237)**
 
 **Table of Contents**
 
@@ -8,11 +8,9 @@
 
 [**Preamble**](#Preamble)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -52,65 +50,46 @@
 
 - [18 Repeal of Post Office Savings Bank of Singapore Act](#Repeal-of-Post-Office-Savings-Bank-of-Singapore-Act)
 
-- [19 Consequential amendments to other written laws](#Consequential-amendments-to-other-written-laws)
+[**Legislative History**](#Legislative-History)
 
-[**THE SCHEDULE Consequential amendments**](#THE-SCHEDULE)
+# Post Office Savings Bank of Singapore
 
-REPUBLIC OF SINGAPORE
+# 
 
-GOVERNMENT GAZETTE
 
-ACTS SUPPLEMENT
+# (Transfer of Undertakings and Dissolution) Act
 
-Published by Authority
+(CHAPTER 237)
 
-NO. 39]
+(Original Enactment: Act 37 of 1998)
 
-Friday, November 13
+REVISED EDITION 1999
 
-[1998
+(30th December 1999)
 
-The following Act was passed by Parliament on 12th October 1998 and assented to by the President on 9th November 1998:—
-
-Post Office Savings Bank of Singapore (Transfer of Undertakings and Dissolution) Act 1998
-
-(No. 37 of 1998)
-
-I assent.
-
-ONG TENG CHEONG,
-
-President.
-
-9th November 1998.
-
-Date of Commencement: 21st May 1999
-
-Date of Commencement: 16th November 1998
-
-An Act to provide for the transfer of the respective undertakings and employees of Post Office Savings Bank of Singapore and Credit POSB Pte Ltd to The Development Bank of Singapore Ltd, the dissolution of Post Office Savings Bank of Singapore and for all matters connected therewith, to repeal the Post Office Savings Bank of Singapore Act (Chapter 237 of the 1985 Revised Edition) and to make consequential amendments to other written laws.
+An Act to provide for the transfer of the respective undertakings and employees of Post Office Savings Bank of Singapore and Credit POSB Pte Ltd to The Development Bank of Singapore Ltd, the dissolution of Post Office Savings Bank of Singapore and for all matters connected therewith and to repeal the Post Office Savings Bank of Singapore Act (Chapter 237 of the 1985 Revised Edition).
 
 WHEREAS:
 
-(A) Post Office Savings Bank of Singapore is a body corporate established under the Post Office Savings Bank of Singapore Act (Cap.237) and carries on, inter alia, banking business.
+(A) Post Office Savings Bank of Singapore is a body corporate established under the Post Office Savings Bank of Singapore Act (Cap. 237) and carries on, inter alia, banking business.
 
-(B) Credit POSB Pte Ltd is a private limited company incorporated in Singapore under the Companies Act (Cap.50) and carries on, inter alia, the business of home financing and is a wholly-owned subsidiary of the Post Office Savings Bank of Singapore.
+(B) Credit POSB Pte Ltd is a private limited company incorporated in Singapore under the Companies Act (Cap. 50) and carries on, inter alia, the business of home financing and is a wholly-owned subsidiary of the Post Office Savings Bank of Singapore.
 
-(C) The Development Bank of Singapore Ltd is a public limited company incorporated in Singapore under the Companies Act and carries on, inter alia, banking business pursuant to the provisions of the Banking Act (Cap.19).
+(C) The Development Bank of Singapore Ltd is a public limited company incorporated in Singapore under the Companies Act and carries on, inter alia, banking business pursuant to the provisions of the Banking Act (Cap. 19).
 
 (D) A sale and purchase agreement for the transfer of the respective undertakings of Post Office Savings Bank of Singapore and Credit POSB Pte Ltd was executed on 24th July 1998 between (1) the Government for itself and for and on behalf of Post Office Savings Bank of Singapore and Credit POSB Pte Ltd and (2) The Development Bank of Singapore Ltd.
 
 (E) It is expedient to make provisions to facilitate the transfer of the respective undertakings and employees of Post Office Savings Bank of Singapore and Credit POSB Pte Ltd to The Development Bank of Singapore Ltd.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[16th November 1998]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Post Office Savings Bank of Singapore (Transfer of Undertakings and Dissolution) Act 1998 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Post Office Savings Bank of Singapore (Transfer of Undertakings and Dissolution) Act.
 
 ### Interpretation
 
@@ -124,7 +103,7 @@ PRELIMINARY
 
 “Credit POSB undertaking” means the business and all existing property and all existing liabilities of Credit POSB (including all liabilities arising after the transfer date in respect of the business, property and liabilities of Credit POSB transferred on that date), other than the excluded property and excluded liabilities of Credit POSB;
 
-“customer”, in relation to POSB or Credit POSB, includes any person having a banking account or any other account or other dealing, transaction or arrangement with it;
+“customer”, in relation to POSB or, as the case may be, Credit POSB, includes any person having a banking account or any other account or other dealing, transaction or arrangement with it;
 
 “excluded liabilities”, in relation to POSB or, as the case may be, Credit POSB, means such existing liabilities of POSB or, as the case may be, Credit POSB as are excluded from the POSB undertaking or, as the case may be, the Credit POSB undertaking under section 4(3);
 
@@ -138,13 +117,13 @@ PRELIMINARY
 
 “POSB undertaking” means the business and all existing property and all existing liabilities of POSB (including all liabilities arising after the transfer date in respect of the business, property and liabilities of POSB transferred on that date), other than the excluded property and excluded liabilities of POSB;
 
-“property” means property and assets of every description (whether present or future, actual or contingent) wheresoever situate, and includes property held on trust and securities, rights, benefits and powers of every description but does not include any document (other than accounting records) required to be kept by POSB or by Credit POSB under the Companies Act (Cap.50);
+“property” means property and assets of every description (whether present or future, actual or contingent) wheresoever situate, and includes property held on trust and securities, rights, benefits and powers of every description but does not include any document (other than accounting records) required to be kept by POSB or by Credit POSB under the Companies Act (Cap. 50);
 
 “sale and purchase agreement” means the agreement dated 24th July 1998 made between (1) the Government for itself and for and on behalf of POSB and Credit POSB and (2) the Bank relating to the transfer of the undertakings (as amended or supplemented);
 
-“security” includes any mortgage or charge (whether legal or equitable), assignment, debenture, fixed security, floating charge, personal bond, bill of exchange, promissory note, trust receipt, warehouse warrant, guarantee, indemnity, lien, right of retention, hypothec, pledge (whether actual or constructive), mandate, hypothecation, right of set-off, right of compensation or undertaking, any standard security, any assignation or disposition ex facie absolute and any agreement or other deed, instrument or document qualifying the same, any bond and disposition or assignation in security, any bond of cash credit, any bond of cash credit and disposition or assignation in security, any assignation in security, any real right or burden of whatever kind in the nature of security and any other deed, document, conveyance, instrument, arrangement or means (in each case made, granted, arising or subsisting under any applicable law) for securing the payment or discharge of any liability (whether present or future, actual or contingent) and also includes any agreement or undertaking (whether in writing or not) to give or execute any of the foregoing whether upon demand or otherwise;
+“security” includes any mortgage or charge (whether legal or equitable), assignment, debenture, fixed security, floating charge, personal bond, bill of exchange, promissory note, trust receipt, warehouse warrant, guarantee, indemnity, lien, right of retention, hypothec, pledge (whether actual or constructive), mandate, hypothecation, right of set-off, right of compensation or undertaking, any standard security, any assignation or dispositionex facieabsolute and any agreement or other deed, instrument or document qualifying the same, any bond and disposition or assignation in security, any bond of cash credit, any bond of cash credit and disposition or assignation in security, any assignation in security, any real right or burden of whatever kind in the nature of security and any other deed, document, conveyance, instrument, arrangement or means (in each case made, granted, arising or subsisting under any applicable law) for securing the payment or discharge of any liability (whether present or future, actual or contingent) and also includes any agreement or undertaking (whether in writing or not) to give or execute any of the foregoing whether upon demand or otherwise;
 
-“subsidiary” has the same meaning as in section 5 of the Companies Act;
+“subsidiary” has the same meaning as in section 5 of the Companies Act (Cap. 50);
 
 “transfer date” means the date appointed by the Minister under section 3;
 
@@ -160,11 +139,18 @@ PRELIMINARY
 
 ### Transfer date
 
-3\. The transfer date shall be such date as the Minister may, by notification in theGazette, appoint to be the date on which the undertakings and employees shall be transferred to the Bank.
+3\. The transfer date shall be such date as the Minister may, by notification in theGazette\*, appoint to be the date on which the undertakings and employees shall be transferred to the Bank.
+
+\*The transfer date is 16th November 1998 —videS 559/98.
 
 ## PART II
 
-TRANSFER OF UNDERTAKINGS AND EMPLOYEES TO BANK
+TRANSFER OF UNDERTAKINGS AND
+
+
+
+
+EMPLOYEES TO BANK
 
 ### Transfer of undertakings
 
@@ -210,7 +196,7 @@ TRANSFER OF UNDERTAKINGS AND EMPLOYEES TO BANK
 
 (c) as administrator of the estate of a deceased person; or
 
-(d) in any other fiduciary capacity whatsoever,
+(d) in any other fiduciary capacity,
 
 shall, on and from the transfer date, be held by the Bank alone or jointly with such other person, as the case may be, in the same capacity, upon the trusts, and with and subject to the rights, powers, provisions, liabilities and obligations applicable thereto respectively.
 
@@ -222,7 +208,7 @@ shall, on and from the transfer date, be held by the Bank alone or jointly with 
 
 7\.—(1) Without prejudice to the generality of any other provision of this Act, the following provisions shall have effect for the purposes of section 4 and the transfer of the undertakings to the Bank:
 
-(a) any existing account between POSB or, as the case may be, Credit POSB and a customer shall be transferred to the Bank on the transfer date and shall become, on and from the transfer date, an account between the Bank and such customer with the same rights (except for such rights as may be accorded to any existing account between POSB and its customer, whether under contract or otherwise under the repealed section 27 of the Post Office Savings Bank of Singapore Act (Cap.237)) and subject to the same obligations and incidents (including rights of compensation and set-off) as would have been applicable thereto if such account between POSB or, as the case may be, Credit POSB and the customer had continued and such account shall be deemed for all purposes to be a single continuing account, except that nothing herein shall affect any right of the Bank or of the customer on or after the transfer date to vary the conditions or incidents subject to which any account is kept;
+(a) any existing account between POSB or, as the case may be, Credit POSB and a customer shall be transferred to the Bank on the transfer date and shall become, on and from the transfer date, an account between the Bank and such customer with the same rights (except for such rights as may be accorded to any existing account between POSB and its customer, whether under contract or otherwise under the repealed section 27 of the Post Office Savings Bank of Singapore Act (Cap. 237)) and subject to the same obligations and incidents (including rights of compensation and set-off) as would have been applicable thereto if such account between POSB or, as the case may be, Credit POSB and the customer had continued and such account shall be deemed for all purposes to be a single continuing account, except that nothing herein shall affect any right of the Bank or of the customer on or after the transfer date to vary the conditions or incidents subject to which any account is kept;
 
 (b) any existing instruction, order, direction, mandate, notice, representation, power of attorney, authority, consent or undertaking (whether in writing or not and whether or not in relation to an account) given to POSB or, as the case may be, Credit POSB, either alone or jointly with another person, shall apply and have effect, on and from the transfer date, as if given to the Bank or, as the case may be, to the Bank jointly with such other person;
 
@@ -236,9 +222,9 @@ shall, on and from the transfer date, be held by the Bank alone or jointly with 
 
 (g) the Bank shall, in relation to any security such as is mentioned in paragraph (d) and to the liabilities thereby secured, be entitled to the same rights and priorities and subject to the same obligations and incidents on and from the transfer date as POSB or, as the case may be, Credit POSB would have been entitled and subject to if the security had continued to be held by it or in its favour;
 
-(h) without prejudice to the generality of paragraph (d), in any case where any existing liability subsists between POSB or, as the case may be, Credit POSB and the Bank in respect of which POSB or, as the case may be, Credit POSB or the Bank, or a nominee of or an agent or a trustee for POSB or, as the case may be, Credit POSB and the Bank hold security, that liability shall, for the purpose of enforcing or realising that security, be deemed to continue and have effect notwithstanding the vesting of the respective undertakings in the Bank;
+(h) without prejudice to the generality of paragraph (d), in any case where any existing liability subsists between POSB or, as the case may be, Credit POSB and the Bank in respect of which POSB or, as the case may be, Credit POSB or the Bank, or a nominee of or an agent or a trustee for POSB or, as the case may be, Credit POSB or the Bank hold security, that liability shall, for the purpose of enforcing or realising that security, be deemed to continue and have effect notwithstanding the vesting of the respective undertakings in the Bank;
 
-(i) the custody or possession of any document, goods or other property held by POSB or, as the case may be, Credit POSB, or by an agent for or nominee of POSB or, as the case may be, Credit POSB, as a bailee, depositary or custodian shall, on and from the transfer date and by virtue of this Act, be transferred to the Bank or, as the case may require, be held by such agent or nominee as agent for or nominee of the Bank, and the rights and obligations of POSB or, as the case may be, Credit POSB under any contract of bailment, deposit or custodianship relating to such document, goods or property, or under any other contract or arrangement (whether in writing or not) or deed or other instrument or document regulating custody or possession of the same, shall by virtue of this Act be transferred on the transfer date to the Bank;
+(i) the custody or possession of any document, goods or other property held by POSB or, as the case may be, Credit POSB, or by an agent for or nominee of POSB or, as the case may be, Credit POSB, as a bailee, depositary or custodian shall, on and from the transfer date and by virtue of this Act, be transferred to the Bank or, as the case may require, be held by such agent or nominee as agent for or nominee of the Bank, and the rights and obligations of POSB or, as the case may be, Credit POSB under any contract of bailment, deposit or custodianship relating to such document, goods or property, or under any other contract or arrangement (whether in writing or not) or deed or other instrument or document regulating custody or possession of the same, shall by virtue of this Act be transferred on the transfer date to the Bank; and
 
 (j) any negotiable instrument or order for payment of money, whether drawn, given, accepted or endorsed before, on or after the transfer date, which is expressed to be drawn on, or given to, or accepted or endorsed by, POSB or, as the case may be, Credit POSB, or payable at any place of business of POSB or, as the case may be, Credit POSB, shall have the same effect on and from the transfer date (or, if it be later, the date upon which it is drawn, given, accepted or endorsed) as if it had been drawn on, or given to, or accepted or endorsed by the Bank, or payable at the same place of business of the Bank.
 
@@ -248,11 +234,11 @@ shall, on and from the transfer date, be held by the Bank alone or jointly with 
 
 (4) Section 56(1) of the Land Titles Act shall not apply to any instrument executed by the Bank purporting to dispose of, or to create an interest in, mortgages or charges of registered land comprised in the undertakings transferred to and vested in the Bank under this Act and shall not prevent the registration of any such instrument executed by the Bank notwithstanding that the Bank may not be named as the proprietor or proprietors of the registered land in the land-register at the time of the registration of such instrument.
 
-(5) Notwithstanding section 4 of the Registration of Deeds Act (Cap.269), it shall not be necessary for the Bank to register the vesting in favour of the Bank of all mortgages or charges of unregistered land comprised in the undertakings transferred to and vested in the Bank under this Act and the production of a Government Printer’s copy of this Act and such evidence of publication of the transfer date in theGazettereferred to in section 13 shall be admissible in any court as evidence of the Bank’s title to such land.
+(5) Notwithstanding section 4 of the Registration of Deeds Act (Cap. 269), it shall not be necessary for the Bank to register the vesting in favour of the Bank of all mortgages or charges of unregistered land comprised in the undertakings transferred to and vested in the Bank under this Act and the production of a Government Printer’s copy of this Act and such evidence of publication of the transfer date in theGazettereferred to in section 13 shall be admissible in any court as evidence of the Bank’s title to such land.
 
-(6) For the purposes of the Land Titles Act (Cap.157) and the Registration of Deeds Act, all caveats or memoranda of charge claiming an interest in land as mortgagee or chargee lodged by POSB or, as the case may be, Credit POSB and subsisting as at the transfer date shall be construed and have effect on and from that date as if for any reference therein to POSB or, as the case may be, Credit POSB there were substituted a reference to the Bank.
+(6) For the purposes of the Land Titles Act (Cap. 157) and the Registration of Deeds Act, all caveats or memoranda of charge claiming an interest in land as mortgagee or chargee lodged by POSB or, as the case may be, Credit POSB and subsisting as at the transfer date shall be construed and have effect on and from that date as if for any reference therein to POSB or, as the case may be, Credit POSB there were substituted a reference to the Bank.
 
-(7) The Bank and the persons to whom section 47(3) of the Banking Act (Cap. 19) applies may disclose information regarding the particulars of any account transferred to the Bank and the affairs of the customer of that account which the Bank normally obtains permission from its own customers to disclose in accordance with its practice as at the transfer dae and, in particular, the Bank and such persons may disclose information relating to any such accounts or affairs --
+(7) The Bank and the persons to whom section 47(3) of the Banking Act (Cap. 19) applies may disclose information regarding the particulars of any account transferred to the Bank and the affairs of the customer of that account which the Bank normally obtains permission from its own customers to disclose in accordance with its practice as at the transfer date and, in particular, the Bank and such persons may disclose information relating to any such accounts or affairs —
 
 (a) where the account relates to a staff loan granted to the customer under his employer’s staff loan scheme administered or funded by POSB, Credit POSB or the Bank, to that employer of the customer for the purposes relating to that loan and any security therefor; and
 
@@ -292,7 +278,7 @@ and the customer shall be deemed to have given his written permission for all su
 
 11\.—(1) All records and other documents which would, before the transfer date, have been evidence in respect of any matter for or against POSB or, as the case may be, Credit POSB shall, on and from the transfer date, be admissible in evidence in respect of the same matter for or against the Bank.
 
-(2) In this section, "documents" shall be construed in accordance with section 3 of the Evidence Act (Cap.97).
+(2) In this section, “documents” shall be construed in accordance with section 3 of the Evidence Act (Cap. 97).
 
 ### Application of Part IV of Evidence Act
 
@@ -300,7 +286,7 @@ and the customer shall be deemed to have given his written permission for all su
 
 (2) For the purposes of section 172 of the Evidence Act, bankers’ books so transferred to the Bank shall be deemed to have been the ordinary books of the Bank at the time of the making of any entry therein which purports to have been made before the transfer date, and any such entry shall be deemed to have been made in the usual and ordinary course of business.
 
-(3) In this section, "bankers’ books" shall be construed in accordance with section 170 of the Evidence Act.
+(3) In this section, “bankers’ books” shall be construed in accordance with section 170 of the Evidence Act.
 
 ### Evidence of transfer of undertakings
 
@@ -312,7 +298,7 @@ and the customer shall be deemed to have given his written permission for all su
 
 (b) any deed or other instrument or document made or executed on or after the transfer date whereby the Bank, whether alone or jointly with any other person, conveys, transfers or assigns, or purports to convey, transfer or assign, to any person (whether for consideration or not), or applies to be registered as the holder, proprietor or owner of, any property held by POSB or, as the case may be, Credit POSB immediately before the transfer date, whether alone or jointly with any other person, shall be sufficient evidence that the interest of POSB or, as the case may be, Credit POSB in such property became vested in the Bank by virtue of this Act.
 
-(3) In subsection (2), "registered securities" means shares, stocks, debentures, loans, bonds, units of a unit trust scheme or other shares of the investments subject to the trusts of such a scheme, and other securities of any description which are transferable and the holders of which are entered in a register (whether maintained in Singapore or not).
+(3) In subsection (2), “registered securities” means shares, stocks, debentures, loans, bonds, units of a unit trust scheme or other shares of the investments subject to the trusts of such a scheme, and other securities of any description which are transferable and the holders of which are entered in a register (whether maintained in Singapore or not).
 
 ### Completion and deduction of title to property
 
@@ -330,7 +316,7 @@ MISCELLANEOUS
 
 ### Immunity from criminal proceedings for disclosure of information for purposes of transfer of undertakings
 
-16\. No criminal proceedings shall lie against any director, officer or employee of POSB or other person for the disclosure before the transfer date to any person of any information referred to in the repealed section 16(1) of the Post Office Savings Bank of Singapore Act (Cap.237) for or in connection with the transfer of the undertakings under this Act or the sale and purchase agreement.
+16\. No criminal proceedings shall lie against any director, officer or employee of POSB or other person for the disclosure before the transfer date to any person of any information referred to in the repealed section 16(1) of the Post Office Savings Bank of Singapore Act (Cap. 237, 1985 Ed.) for or in connection with the transfer of the undertakings under this Act or the sale and purchase agreement.
 
 ### Dissolution of Credit POSB
 
@@ -352,130 +338,28 @@ MISCELLANEOUS
 
 (c) any claim (including any contingent claim), action, arbitration or proceeding and any cause of action, arbitration or proceeding and any application to any authority which shall, immediately before the appointed day, be pending or existing by, against or in favour of POSB or, as the case may be, Credit POSB, shall not be abated or be discontinued or in any way prejudicially affected by reason of the provisions of this Act, but the same may, on and from that day, only be made, continued, prosecuted and enforced by or against or in favour of the Government or such other nominated body corporate or company.
 
-(5) For the purposes of this section, "appointed day" means such date as the Minister may, by notification in theGazette, appoint.
+(5) For the purposes of this section, “appointed day” means such date as the Minister may, by notification in theGazette\*, appoint.
 
-### Consequential amendments to other written laws
+\*For the purposes of section 18 (3) and (4), the appointed day is 21st May 1999 —videS 226/99.
 
-19\. On the transfer date, the enactments specified in the first column of the Schedule are amended in the manner set out in the second column thereof.
+## LEGISLATIVE HISTORY
 
-## THE SCHEDULE
+Post Office Savings Bank of Singapore (Transfer of Undertakings and Dissolution) Act
 
-Section 19
+(CHAPTER 237)
 
-Consequential amendments
+This Legislative History is provided for the convenience of users of the Post Office Savings Bank of Singapore (Transfer of Undertakings and Dissolution) Act. It is not part of the Act.
 
-First column
+||||
+|:-|:-|:-|
+|1.|**Act 37 of 1998—Post Office Savings Bank of Singapore (Transfer of Undertakings and Dissolution) Act 1998**|
+||Date of First Reading|31 July 1998|
+|||(Bill No. 34/98 published on 1 August 1998)|
+||Date of Second and Third Readings|12 October 1998|
+||Dates of commencement|21 May 1999|
+|2.|**1999 Revised Edition—Post Office Savings Bank of Singapore (Transfer of Undertakings and Dissolution) Act**|
+||Date of operation|30 December 1999|
+Note:
 
-Second column
-
-(1) The Banking Act
-
-
-
-
-(Chapter 19, 1994 Ed.)
-
-(a) Section 59
-
-(i) Delete the words ", the Post Office Savings Bank of Singapore established under the Post Office Savings Bank of Singapore Act," in subsection (1).
-
-(ii) Delete the marginal reference "Cap. 237." in subsection (1).
-
-(iii) Delete the words ", the Post Office Savings Bank of Singapore" in subsection (3).
-
-(b) Section 59A(9)
-
-Delete the words "or the Post Office Savings Bank of Singapore established under the Post Office Savings Bank of Singapore Act (Cap. 237)" in the definition of "participant".
-
-(c) Section 76
-
-(i) Delete the words "the Post Office Savings Bank of Singapore established under the Post Office Savings Bank of Singapore Act or to".
-
-(ii) Delete the marginal reference "Cap. 237.".
-
-(d) Section 77A(8)
-
-Delete the definition of "bank".
-
-(2) The Buildings and Common Property (Maintenance and Management) Act (Chapter 30, 1985 Ed.)
-
-Section 10(3)
-
-Delete the words "or the Post Office Savings Bank of Singapore".
-
-(3) The Co-operative Societies Act (Chapter 62, 1985 Ed.)
-
-Section 69(1)
-
-Delete paragraph (a).
-
-(4) The Evidence Act (Chapter 97, 1997 Ed.)
-
-Section 170
-
-Delete the words "and include any Post Office Savings Bank of Singapore; and the fact that such Bank is a post office savings bank may be proved by a certificate purporting to be under the hand of the General Manager of the Bank" in the definition of ""bank" and "banker"".
-
-(5) The Finance Companies Act
-
-
-
-
-(Chapter 108, 1995 Ed.)
-
-(a) Section 32(4)
-
-Delete paragraph (c) and substitute the following paragraph:
-
-“
-
-(c) Government securities held under overnight repurchase agreements with banks in Singapore and approved primary and registered dealers in Government securities;
-
-”.
-
-(b) Section 53(1)
-
-Delete paragraph (b).
-
-(6) The Income Tax Act (Chapter 134, 1996 Ed.)
-
-Section 13(1)
-
-Delete paragraph (u) and substitute the following paragraph:
-
-“
-
-(u) the interest derived by any person from the deposit of moneys in any savings account with the Post Office Savings Bank of Singapore transferred to The Development Bank of Singapore Ltd under the Post Office Savings Bank of Singapore (Transfer of Undertakings and Dissolution) Act 1998 or in any POSB savings account with The Development Bank of Singapore Ltd approved by the Minister;
-
-”.
-
-(7) The Kidnapping Act (Chapter 151, 1985 Ed.)
-
-Section 7(3)
-
-Delete the words ", and includes the Post Office Savings Bank of Singapore" in the definition of "bank".
-
-(8) The Mutual Benefit Organisations Act (Chapter 191, 1985 Ed.)
-
-Section 22
-
-(i) Delete the words "paid into the Post Office Savings Bank of Singapore or" in the sixth and seventh lines of subsection (2).
-
-(ii) Delete the words "the Post Office Savings Bank of Singapore or" in the sixth and seventh lines of subsection (3).
-
-(9) The Prevention of Corruption Act
-
-
-
-
-(Chapter 241, 1993 Ed.)
-
-Section 20(2)
-
-Delete the words "and the Post Office Savings Bank of Singapore" in the definition of "bank".
-
-(10) The Trustees Act (Chapter 337, 1985 Ed.)
-
-First Schedule, Part I
-
-Delete the words "the Post Office Savings Bank or" in paragraph 4.
+The Post Office Savings Bank of Singapore (Transfer of Undertaking and Dissolution) Act 1998 repealed the Post Office Savings Bank of Singapore) Act (Chapter 237, 1985 Revised Edition).
 
