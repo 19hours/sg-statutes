@@ -180,9 +180,11 @@ FUNCTIONS AND POWERS OF AUTHORITY
 
 (g) to perform such other functions as are conferred on the Authority by any other written law.
 
+[Act 5/96]
+
 (2) In addition to the functions imposed by this section, the Authority may undertake such other functions as the Minister may assign to the Authority and in so doing the Authority shall be deemed to be fulfilling the purposes of this Act and the provisions of this Act shall apply to the Authority in respect of such functions.
 
-[Act 5/1996 wef 09/02/1996]
+[Act 5/96 wef 09/02/1996]
 
 ### Powers of Authority
 
@@ -248,7 +250,9 @@ PROVISIONS RELATING TO STAFF
 
 (a) public servants for the purposes of the Penal Code [Cap. 224]; and
 
-(b) public officers for the purposes of the Financial Procedure Act [Cap. 109] and section 20 of that Act shall apply to such persons notwithstanding that they are not or were not in the employment of the Government.
+(b) public officers for the purposes of the Financial Procedure Act and section 20 of that Act shall apply to such persons notwithstanding that they are not or were not in the employment of the Government.
+
+[Cap 109.]
 
 ## PART V
 
@@ -349,6 +353,8 @@ GENERAL
 ### Proceedings conducted by officers of Authority
 
 26\.—(1) Proceedings in respect of any offence under this Act or any regulations made thereunder or any of the Acts specified in the Third Schedule or any subsidiary legislation made under any of those Acts may be conducted by an officer of the Authority who is authorised to conduct such proceedings by the Commissioner of Inland Revenue with the consent of the Attorney-General.
+
+[15/2010 wef 02/01/2011]
 
 (2) Notwithstanding the provisions of any written law, a legal officer of the Authority who has been admitted as an advocate and solicitor under the Legal Profession Act [Cap. 161] may appear in any civil proceedings involving the Authority or any person holding any of the offices specified in the Fourth Schedule in the performance of his functions under any written law so specified, and may make and do all acts and applications in respect of such proceedings on behalf of the Authority or such person, as the case may be.
 
@@ -454,6 +460,8 @@ Meetings of Authority
 
 (2) At every meeting of the Authority, 3 members shall form a quorum.
 
+[27/2004 wef 13/08/2004]
+
 (3) A decision at a meeting of the Authority shall be adopted by a simple majority of the members present and voting except that, in the case of an equality of votes, the Chairman or member presiding shall have a casting vote in addition to his original vote.
 
 (4) The Chairman or in his absence the Deputy Chairman shall preside at meetings of the Authority.
@@ -522,7 +530,11 @@ Sections 26(1) and 30
 
 Specified Acts
 
-1\. Auctioneers’ Licences Act [Cap. 16].
+1. Appraisers and House Agents Act (Cap. 16).
+
+[22/2000 wef 01/08/2000]
+
+[25/2010 wef 22/10/2010]
 
 2\. Betting and Sweepstake Duties Act [Cap. 22].
 
@@ -532,9 +544,11 @@ Specified Acts
 
 5\. Estate Duty Act [Cap. 96].
 
-5A. Goods and Services Tax Act 1993 [Act 31 of 1993].
+5A. Goods and Services Tax Act 1993.
 
-[S 37/1994 wef 28/01/1994]
+[Act 31of1993.]
+
+[S 37/94 wef 28/01/1994]
 
 6\. Income Tax Act [Cap. 134].
 
@@ -542,7 +556,7 @@ Specified Acts
 
 8\. Property Tax Act [Cap. 254].
 
-9\. Property Tax (Surcharge) Act [Cap. 255].
+9\. Property Tax (Surcharge) Act.
 
 10\. Stamp Duties Act [Cap. 312].
 
@@ -552,19 +566,29 @@ Sections 26(2) and 30
 
 Specified offices
 
-1\. The Comptroller of Income Tax under the Income Tax Act [Cap. 134] and the Economic Expansion Incentives (Relief from Income Tax) Act [Cap. 86].
+1. The Comptroller of Income Tax under the Income Tax Act [Cap. 134. Cap. 86] and the Economic Expansion Incentives (Relief from Income Tax) Act.
 
-2\. The Comptroller of Property Tax or the Chief Assessor under the Property Tax Act [Cap. 254] and the Property Tax (Surcharge) Act [Cap. 255].
+[]
 
-3\. The Commissioner of Stamp Duties under the Stamp Duties Act [Cap. 312] and the Betting and Sweepstake Duties Act [Cap. 22].
+2. The Comptroller of Property Tax or the Chief Assessor under the Property Tax Act [Cap. 254. Cap. 255] and the Property Tax (Surcharge) Act.
 
-4\. The Commissioner of Estate Duties under the Estate Duty Act [Cap. 96] and the Private Lotteries Act [Cap. 250].
+[]
+
+3. The Commissioner of Stamp Duties under the Stamp Duties Act [Cap. 312.Cap. 22]and the Betting and Sweepstake Duties Act.
+
+[]
+
+4. The Commissioner of Estate Duties under the Estate Duty Act [Cap. 96.Cap. 250]and the Private Lotteries Act.
+
+[]
 
 5\. The Commissioner of Charities under the Charities Act [Cap. 37].
 
-6. The Comptroller of Goods and Services Tax under the Goods and Services Tax Act 1993 [Act 31 of 1993].
+6. The Comptroller of Goods and Services Tax under the Goods and Services Tax Act 1993.
 
-[S 37/1994 wef 28/01/1994]
+[Act 31of1993.]
+
+[S 37/94 wef 28/01/1994]
 
 ## LEGISLATIVE HISTORY
 
@@ -590,3 +614,9 @@ This Legislative History is provided for the convenience of users of the Inland 
 |||(Bill No. 42/95 published on 6 December 1996)|
 ||Date of Second and Third Readings|18 January 1996|
 ||Date of commencement|9 February 1996|
+|5.|**Act 22 of 2000—Auctioneers’ Licenses (Amendment) Act 2000**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|22 May 2000|
+|||(Bill No. 17/2000 published on 23 May 2000)|
+||Date of Second and Third Readings|3 July 2000|
+||Date of commencement|1 August 2000|
