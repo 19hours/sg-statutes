@@ -3024,6 +3024,16 @@ that award shall be made and may not be withheld, reduced in amount or suspended
 
 114\. Pensions, gratuities and other like allowances granted in respect of the public service shall be charged on and paid out of, in the first instance, the Pension Fund established by the Pension Fund Act 1995 and, if that Fund is deficient, the Consolidated Fund.
 
+(1) Pensions, gratuities and other like allowances granted in respect of the public service shall be charged on and paid out, in the first instance, the Pension Fund established by the Pension Fund Act 1995 and, if that Fund is deficient, the Consolidated Fund.
+
+[Act 11/98]
+
+[Act 7/95 wef 01/04/1995 vide S 136/95]
+
+(2) Notwithstanding clause (1), the Legislature may by law provide that any pension, gratuity or other allowance granted in respect of public service otherwise than in a civil capacity may be paid out of another Government Fund in lieu of the Pension Fund and the Consolidated Fund.
+
+[Act 11/98]
+
 [80A
 
 [Act 7/95 wef 01/04/1995 vide S 136/95]
@@ -4246,7 +4256,7 @@ Part II
 
 2\. MND Holdings Pte. Ltd.
 
-3. [Deleted by Act 17/94 wef 01/10/1994 wef 01/10/1994 wef 01/10/1994]
+3. [Deleted by Act 17/94 wef 01/10/1994 wef 01/10/1994 wef 01/10/1994 wef 01/10/1994]
 
 4. Temasek Holdings Pte. Ltd.
 
@@ -4436,3 +4446,8 @@ This Legislative History is provided for the convenience of users of the Constit
 |||(Bill No. 7/97 published on 22 July 1997)|
 ||Date of Second and Third Readings|31 July 1997|
 ||Date of commencement|1 September 1997|
+|34.|**Act 11 of 1998—Constitution of the Republic of Singapore (Amendment) Act 1998**|
+||Date of First Reading|19 February 1998|
+|||(Bill No. 9/98 published on 20 February 1998)|
+||Date of Second and Third Readings|20 March 1998|
+||Date of commencement|31 March 1998 (sections 1 and 7)|
