@@ -1888,7 +1888,13 @@ and when, after the notice mentioned in section 68, such person does not produce
 
 ### Proof of signature and handwriting of person alleged to have signed or written document produced
 
-69\. If a document is alleged to be signed or to have been written wholly or in part by any person, the signature or the handwriting of so much of the document as is alleged to be in that person’s handwriting must be proved to be in his handwriting.
+69\.—(1) If a document is alleged to be signed or to have been written wholly or in part by any person, the signature or the handwriting of so much of the document as is alleged to be in that person’s handwriting must be proved to be in his handwriting.
+
+[Act 25/98]
+
+(2) This section shall not apply to any electronic record or electronic signature to which the Electronic Transactions Act 1998 applies.
+
+[Act 25/98]
 
 ### Proof of execution of document required by law to be attested
 
@@ -2358,21 +2364,15 @@ Amust prove that the document has been lost.
 
 Illustrations
 
-(a)
-
-Aaccused of murder alleges that by reason of unsoundness of mind he did not know the nature of the act.
+(a)Aaccused of murder alleges that by reason of unsoundness of mind he did not know the nature of the act.
 
 The burden of proof is onA.
 
-(b)
-
-Aaccused of murder alleges that by grave and sudden provocation he was deprived of the power of self-control.
+(b)Aaccused of murder alleges that by grave and sudden provocation he was deprived of the power of self-control.
 
 The burden of proof is onA.
 
-(c)
-
-Section 325 of the Penal Code provides that whoever, except in the case provided for by section 335, voluntarily causes grievous hurt shall be subject to certain punishments.
+(c) Section 325 of the Penal Code provides that whoever, except in the case provided for by section 335, voluntarily causes grievous hurt shall be subject to certain punishments.
 
 Ais charged with voluntarily causing grievous hurt under section 325.
 
@@ -2596,7 +2596,7 @@ This communication being made in furtherance of a criminal purpose is not protec
 
 (c)A, being charged with embezzlement, retainsB, a solicitor, to defend him. In the course of the proceedingsBobserves that an entry has been made inA’saccount-book, chargingAwith the sum said to have been embezzled, which entry was not in the book at the commencement of his employment.
 
-his being a fact observed byBin the course of his employment, showing that a fraud has been committed since the commencement of the proceedings, it is not protected from disclosure.
+This being a fact observed byBin the course of his employment, showing that a fraud has been committed since the commencement of the proceedings, it is not protected from disclosure.
 
 ### Section 128 to apply to interpreters, etc.
 
@@ -3240,3 +3240,10 @@ This Legislative History is provided for the convenience of users of the Evidenc
 |25.|**1997 Revised Edition—Evidence Act (Chapter 97)**|
 ||(G.N. No. S 210/2016 — Rectification Order)||
 ||Date of operation|20 December 1997|
+|26.|**Act 25 of 1998—Electronic Transactions Act 1998**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|1 June 1998|
+|||(Bill No. 23/98 published on 2 June 1998)|
+||Date of Second and Third Readings|29 June 1998|
+||Date of commencement|10 July 1998|
+|||(section 64)|
