@@ -1747,6 +1747,10 @@ Provided that the Registrar shall not issue a public service vehicle licence to 
 
 (5) Any person who refuses to pay the owner, driver or conductor, as the case may be, the prescribed rate of hire or the prescribed fare when lawfully demanded shall be guilty of an offence.
 
+(6) This section shall not apply to omnibuses and taxis.
+
+[Act 18 of 1987 wef 14/08/1987]
+
 ### Responsibility of owner of public service vehicles
 
 107\.—(1) The owner of a public service vehicle shall, unless he satisfies the court that he took every reasonable precaution to avoid the commission thereof, be responsible for all offences committed under this Act or the rules in connection with the use of the vehicle and may in the discretion of the Registrar be prosecuted for such offence either in addition to or instead of the driver or conductor, as the case may be.
@@ -2426,3 +2430,8 @@ This Legislative History is provided for the convenience of users of the Road Tr
 ||Date of commencement|1 October 1985|
 |25.|**1985 Revised Edition—Road Traffic Act**|
 ||Date of operation|30 March 1987|
+|26.|**Act 18 of 1987—Public Transport Council Act 1987**|
+||Date of First Reading|20 May 1987|
+|||(Bill No. 9/87 published on 22 May 1987)|
+||Date of Second and Third Readings|28 July 1987|
+||Date of commencement|14 August 1987|
