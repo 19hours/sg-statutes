@@ -94,7 +94,7 @@
 
 - [36 Retention of records by financial institutions](#Retention-of-records-by-financial-institutions)
 
-- [37 Register of originals documents](#Register-of-originals-documents)
+- [37 Register of original documents](#Register-of-original-documents)
 
 - [38 Communication of information by financial institutions to law enforcement agencies](#Communication-of-information-by-financial-institutions-to-law-enforcement-agencies)
 
@@ -296,7 +296,7 @@ and includes entering into or being otherwise concerned in, whether in Singapore
 
 ### Application
 
-3\.—(1) This Act shall apply to any drug trafficking offence whether committed before or after the commencement of this Act except that nothing in this Act shall impose any duty or confer any power on any court in or in connection with proceedings against a person for a drug trafficking offence in respect of which he has been convicted by a court before the commencement of this Act.
+3\.—(1) This Act shall apply to any drug trafficking offence whether committed before or after the commencement of this Act except that nothing in this Act shall impose any duty or confer any power on any court in or in connection with proceedingsagainst a person for a drug trafficking offence in respect of which he has been convicted by a court before the commencement of this Act.
 
 (2) This Act shall apply to any property, whether it is situated in Singapore or elsewhere.
 
@@ -408,7 +408,7 @@ together with the total of the values at that time of all gifts caught by this A
 
 (ii) the amount required to discharge any incumbrance (other than a charging order) on that interest; and
 
-(b) in any other case, shall be its market value.
+(b) in any other case shall be its market value.
 
 (4) Subject to subsection (9), references in this Act to the value at any time (referred to in subsection (5) as the material time) of a gift caught by this Act are references to —
 
@@ -434,7 +434,9 @@ the value referred to in subsection (4)(b) shall be the value to him at the mate
 
 (7) For the purposes of subsection (6)(b), “preferential debts” —
 
-(a) in relation to bankruptcy, means the debts to be paid in priority under section 43 of the Bankruptcy Act (assuming the date of the confiscation order to be the date of the receiving order); and
+(a) in relation to bankruptcy, means the debts to be paid in priority under section 90 of the Bankruptcy Act 1995 (assuming the date of the confiscation order to be the date of the bankruptcy order); and
+
+[Act 15/95 wef 15/07/1995 vide S 268/95]
 
 (b) in relation to winding up, means the debts to be paid in priority in accordance with section 328 of the Companies Act [Cap. 50] (assuming the date of the confiscation order to be the commencement date of the winding up).
 
@@ -526,7 +528,7 @@ the term of imprisonment to be served in default of payment of the amount shall 
 
 (a) that a person has been officially informed pursuant to section 122(6) of the Criminal Procedure Code [Cap. 68] that he may be prosecuted for a drug trafficking offence ; or
 
-(b) that investigation for a drug trafficking offence having been commenced against a person, he dies or cannot be found or is outside the jurisdiction,
+(b) that investigation for a drug trafficking offencehaving been commenced against a person, he dies or cannot be found or is outside the jurisdiction,
 
 and that there is reasonable cause to believe that benefits have been derived by that person from drug trafficking .
 
@@ -742,9 +744,13 @@ shall be excluded from the bankrupt’s estate for the purposes of the Bankruptc
 
 (a) property for the time being comprised in the bankrupt’s estate for the purposes of the Bankruptcy Act;
 
-(b) property which is not comprised in the bankrupt’s estate by virtue of section 47(1)(a) of that Act; and
+(b) property which is not comprised in the bankrupt’s estate by virtue of section 78(2) of that Act; and
 
-(c) property which is to be applied for the benefit of creditors of the bankrupt by virtue of a condition imposed under section 33(3) of that Act.
+[Act 15/95 wef 15/07/1995]
+
+(c) property which is to be applied for the benefit of creditors of the bankrupt by virtue of a condition imposed under section 124(3)(c) of that Act.
+
+[Act 15/95 wef 15/07/1995]
 
 (3) Nothing in the Bankruptcy Act shall be taken as restricting, or enabling the restriction of, the exercise of those powers referred to in subsection (2).
 
@@ -754,13 +760,19 @@ shall be excluded from the bankrupt’s estate for the purposes of the Bankruptc
 
 (b) on property which was subject to a restraint order when the order adjudging him bankrupt was made.
 
-(5) Where, in the case of a debtor, an interim receiver stands appointed under section 11 of the Bankruptcy Act [Cap. 20] and any property of the debtor is subject to a restraint order —
+(5) Where, in the case of a debtor, an interim receiver stands appointed under section 73 of the Bankruptcy Act 1995 and any property of the debtor is subject to a restraint order —
 
 (a) the powers conferred on the receiver by virtue of that Act shall not apply to property for the time being subject to the restraint order; and
 
 (b) any such property in the hands of the receiver shall, subject to a lien for any expenses (including his remuneration) properly incurred in respect of the property, be dealt with in such manner as the High Court may direct.
 
-(6) For the purposes of section 35(1) of the Bankruptcy Act, amounts payable under confiscation orders shall constitute debts due to the Government.
+[Act 15/95 wef 15/07/1995]
+
+[Act 15/95 wef 15/07/1995]
+
+(6) For the purposes of section 127(2) of the Bankruptcy Act 1995, amounts payable under confiscation orders shall constitute debts due to the Government.
+
+[Act 15/95 wef 15/07/1995]
 
 ### Winding up of company holding realisable property
 
@@ -814,7 +826,7 @@ APPLICATION TO ABSCONDED PERSONS
 
 (i) the person dies before proceedings in respect of the offence were instituted, or if such proceedings were instituted, the person dies before he is convicted; or
 
-(ii) at the end of the period of 6 months from the date on which investigations referred to in paragraph (a) were commenced against him, the person cannot be found or he is not amenable to extradition proceedings.
+(ii) at the end of the period of 6 months from the date on which investigations referred to in paragraph (a) were commenced against him, the person cannot be foundor he is not amenable to extradition proceedings.
 
 ### Confiscation order where person has absconded
 
@@ -832,7 +844,7 @@ APPLICATION TO ABSCONDED PERSONS
 
 [S 92/97]
 
-(3) Sections 4(4) and 5 shall not apply to any deceased defendant.
+(3) Sections 4(4) and 54shall not apply to any deceased defendant.
 
 (4) For the purposes of Part II, the following provisions shall apply in determining whether a deceased defendant had derived benefits from drug trafficking or in determining those benefits or the value of those benefits:
 
@@ -994,7 +1006,7 @@ Search powers
 
 (3) The conditions referred to in subsection (2)(b) are —
 
-(a) that there are reasonable grounds for suspecting that a specified person has carried on or has benefited from drug trafficking;
+(a) that there are reasonable grounds for suspecting that a specified person has carried on or has benefited from drug trafficking
 
 (b) that the conditions in section 26(4)(b) and (c) are fulfilled in relation to any material on the premises; and
 
@@ -1008,7 +1020,7 @@ Search powers
 
 (4) The conditions referred to in subsection (2)(c) are —
 
-(a) that there are reasonable grounds for suspecting that a specified person has carried on or has benefited from drug trafficking;
+(a) that there are reasonable grounds for suspecting that a specified person has carried on or has benefited from drug trafficking
 
 (b) that there are reasonable grounds for suspecting that there is on the premises material relating to the specified person or to drug trafficking which is likely to be of substantial value (whether by itself or together with other material) to the investigation for the purpose of which the application is made, but that the material cannot at the time of the application be particularised; and
 
@@ -1026,7 +1038,7 @@ Search powers
 
 ### Search warrants in relation to foreign offences
 
-32\.—(1) Where an authorised officer is authorised by any regulations made under this Act to apply to a court for a search warrant under this Act in relation to any material in respect of a foreign offence, the authorised officer may apply for the warrant accordingly and this Division applies to the application and to any warrant issued as a result of the application if a reference in this Division to a drug trafficking offence were a reference to the foreign offence.
+32\.—(1) Where an authorised officer is authorised by any regulations made under this Act to apply to a court for a search warrant under this Act in relation to any material in respect of a foreign offence, the authorised officer may apply for the warrant accordingly and this Division applies to the application and to any warrant issued as a result of the application ifa reference in this Division to a drug trafficking offencewere a reference to the foreign offence.
 
 (2) If, in the course of searching, under a warrant issued under section 31, for any material in relation to a foreign offence, an authorised officer finds —
 
@@ -1040,7 +1052,7 @@ Search powers
 
 and the authorised officer believes, on reasonable grounds, that it is necessary to seize that material or thing in order to prevent its concealment, loss or destruction, the warrant shall be deemed to authorise the authorised officer to seize the material or thing.
 
-(3) Where an authorised officer takes possession of any material under a warrant issued in respect of a foreign offence , the authorised officer may retain the material for a period not exceeding one month pending a written direction from the Attorney-General as to the manner in which the material is to be dealt with (which may include a direction that the material is to be sent to an authority of the foreign country that requested the issue of the warrant).
+(3) Where an authorised officer takes possession of any material under a warrant issued in respect of a foreign offence , the authorised officer may retain the material for a period not exceeding one month pending a written direction from the Attorney-General as to the manner in which the material is to be dealt with (which may include a direction that the material is to be sent to an authority of the foreign countrythat requested the issue of the warrant).
 
 ### Supplementary provisions to sections 26, 27, 29, 31 and 32
 
@@ -1198,7 +1210,7 @@ but does not include a cheque or payment order;
 
 ### Retention of records by financial institutions
 
-36\.—(1) A financial institution shall, subject to subsection (4) and section 37, retain or retain a copy of each essential customer generated financial transaction document for the minimum retention period applicable to the document.
+36\.—(1) A financial institution shall, subject to subsection (4) and section 37, retain or retain a copy of each essential customer generated financial transaction document in its original form for the minimum retention period applicable to the document.
 
 (2) Subject to subsection (4), a financial institution shall retain, or retain a copy of, each customer generated financial transaction document that is not an essential customer generated financial transaction document for the minimum retention period applicable to the document.
 
@@ -1218,7 +1230,7 @@ for the minimum retention period applicable to the document.
 
 (7) This section does not limit any other obligation of a financial institution to retain documents.
 
-### Register of originals documents
+### Register of original documents
 
 37\.—(1) Where a financial institution is required by law to release an original of an essential customer generated financial transaction document before the end of the minimum retention period applicable to the document, the institution shall retain a complete copy of the document until the period has ended or the original is returned, whichever occurs first.
 
@@ -1246,7 +1258,7 @@ in relation to any action taken by that institution or person pursuant to subsec
 
 ### Protection for financial institution where information given pursuant to section 38
 
-39\. Where a financial institution, or a person who is an officer, employee or agent of the institution, gives information pursuant to subsection (1) of section 38 as soon as practicable after having the knowledge referred to in that subsection, the institution or person shall be taken, for the purposes of sections 41 and 43, not to have been in possession of that information at any time.
+39\. Where a financial institution, or a person who is an officer, employee or agentof the institution, gives information pursuant to subsection (1) of section 38 as soon as practicable after having the knowledge referred to in that subsection, the institution or personshall be taken, for the purposes of sections 41and 43, not to have been in possession of that information at any time.
 
 Division 4 —
 
@@ -1328,7 +1340,7 @@ and knowing that that other person is a person who carries on or has carried on 
 
 (ii) it is made after he does the act, but is made on his initiative and as soon as it is reasonable for him to make it;
 
-(b) the disclosure shall not be treated as a breach of any restriction upon the disclosure of information imposed by law, contract or by rules of professional conduct; and
+(b) the disclosure shall not be treated as a breach of any restriction upon the disclosure of information imposed by law, contract or byrules of professional conduct; and
 
 (c) he shall not be liable in damages for any loss arising out of —
 
@@ -1512,7 +1524,7 @@ shall be deemed, for the purposes of this Act, to have been engaged in by the bo
 
 (a) by an employee or agent of the person within the scope of his actual or apparent authority; or
 
-(b) by any other person at the direction or with the consent or agreement (whether express or implied) of an employee or agent of the first-mentioned person, where the giving of the direction, consent or agreement is within the scope of the actual or apparent authority of the employee or agent,
+(b) by any other person at the direction or with the consent or agreement (whether express or implied) of an employee or agent of the first mentioned person, where the giving of the direction, consent or agreement is within the scope of the actual or apparent authority of the employee or agent,
 
 shall be deemed, for the purposes of this Act, to have been engaged in by the first-mentioned person.
 
@@ -1628,33 +1640,23 @@ Description1
 
 1Note: The short description of offences in this Schedule is for ease of reference only.
 
-1.
-
-Section 5 of the Misuse of Drugs Act (Chapter 185)
+1. Section 5 of the Misuse of Drugs Act (Chapter 185)
 
 Trafficking in a controlled drug.
 
-2.
-
-Section 6 of the Misuse of Drugs Act
+2. Section 6 of the Misuse of Drugs Act
 
 Manufacture of a controlled drug.
 
-3.
-
-Section 7 of the Misuse of Drugs Act
+3. Section 7 of the Misuse of Drugs Act
 
 Importation and exportation of a controlled drug.
 
-4.
-
-Section 10 of the Misuse of Drugs Act
+4. Section 10 of the Misuse of Drugs Act
 
 Cultivation of cannabis, opium and coca plants.
 
-5.
-
-Sections 41 and 43 of this Act
+5. Sections 41 and 43 of this Act
 
 Money laundering.
 
@@ -1677,3 +1679,10 @@ This Legislative History is provided for the convenience of users of the Drug Tr
 ||Date of commencement|4 December 1992 (Publication date)|
 |2.|**1993 Revised Edition—Drug Trafficking (Confiscation of Benefits) Act (Chapter 84A)**|
 ||Date of operation|15 March 1993|
+|3.|**Act 29 of 1992—Drug Trafficking (Confiscation of Benefits) Act 1992**|
+||Date of First Reading|27 February 1992|
+|||(Bill No. 17/92 published on 28 February 1992)|
+||Date of Second Reading|20 March 1992|
+||Referred to Select Committee|Parl 6 of 1992 presented to Parliament on 1 September 1992|
+||Date of Third Reading|14 September 1992|
+||Date of commencement|30 November 1993|
