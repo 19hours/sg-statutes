@@ -240,7 +240,7 @@
 
 - [98 Power of court to make certain orders](#Power-of-court-to-make-certain-orders)
 
-- [99 Immunity of Authority and its employees, etc.](#Immunity-of-Authority-and-its-employees-etc)
+- [99 (Repealed)](#Repealed)
 
 - [100 General exemption](#General-exemption)
 
@@ -1344,6 +1344,8 @@ as the case may be.
 
 (c) notwithstanding section 2(1) or 3, a person is not associated with or connected to another person unless the person and the other person are acting jointly, or otherwise acting under or in accordance with an arrangement made between them, in relation to the sending of the circular or other communication.
 
+(4) [Deleted by Act 15/2003 wef 22/12/2003]
+
 (5) When a licensee sends to a person a circular or other communication to which subsection (1) applies, the licensee shall preserve a copy of the circular or other communicationsubsection (1)(f) or (2) for 6 years.
 
 (6) For the purposes of this section, a circular or other communication sent to a person shall, if it is signed by an officer of a licensed financial adviser, be deemed to have been sent by the financial adviser.
@@ -2350,7 +2352,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (2) Subsection (1) shall not apply to —
 
-(a) offences under sections 10 (3), 13(4), 19(10), 19(12), 24(5), 32(6), 45(5) and (6), 46(2), 47(2), 48(5), (6) and (7), 49(5), 55(2), 56(7) and 57(7); or
+(a) offences under sections 10(3), 13(4), 19(10), 19(12), 24(5), 32(6), 45(5) and (6), 46(2), 47(2), 48(5), (6) and (7), 49(5), 55(2), 56(7) and 57(7); or
 
 (b) offences under any subsidiary legislation made under this Act where it is expressly provided in the subsidiary legislation that subsection (1) shall not apply to those offences.
 
@@ -2500,17 +2502,7 @@ the court may, without prejudice to any order it would be entitled to make other
 
 (5) The court may rescind, vary or discharge an order made by it under this section or suspend the operation of such an order.
 
-### Immunity of Authority and its employees, etc.
-
-99\. No suit or other legal proceedings shall lie against the Authority, or any officer or employee of the Authority, or any person acting under the direction of the Authority —
-
-(a) for any act done in good faith —
-
-(i) in the performance, or intended performance, of any function or duty; or
-
-(ii) in the exercise, or intended exercise, of any power under this Act; or
-
-(b) for any neglect or default in the performance or exercise in good faith of such function, duty or power.
+99\. [Deleted by Act 24/2003 wef 01/01/2004 wef 01/01/2004 wef 01/01/2004.]
 
 ### General exemption
 
@@ -2606,6 +2598,8 @@ the court may, without prejudice to any order it would be entitled to make other
 
 (b) the activities of, and standards to be maintained by, a licensee, or an exempt financial adviser or any of its representatives, including the manner, method and place of soliciting business and the conduct of such solicitation;
 
+(c) [Deleted by Act 15/2003 wef 22/12/2003]
+
 (d) the particulars to be recorded in, or in respect of, books kept by any licensed financial adviser;
 
 (e) the remuneration of an auditor appointed under this Act and the costs of an audit carried out under this Act;
@@ -2623,6 +2617,8 @@ the court may, without prejudice to any order it would be entitled to make other
 (k) the collection, from any licensed financial adviser or exempt financial adviser, by or on behalf of the Authority at such intervals or on such occasions as may be prescribed, of statistical information as to such matters relevant to investment products as may be prescribed, and for the collection and use of such information for any purpose, whether or not connected with the prescribed investment products;
 
 (l) the control of any take-over of a licensed financial adviser;
+
+(m) [Deleted by Act 15/2003 wef 22/12/2003]
 
 (n) all matters and things which are required or permitted to be prescribed by this Act, or which may be necessary or expedient to be prescribed to give effect to this Act.
 
@@ -2754,6 +2750,12 @@ This Legislative History is provided for the convenience of users of the Financi
 |||(Bill No. 14/2003 published on 15 August 2003)|
 ||Date of Second and Third Readings|2 September 2003|
 ||Date of commencement|22 December 2003|
+|4.|**Act 24 of 2003—Monetary Authority of Singapore (Amendment) Act 2003**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|16 October 2003|
+|||(Bill No. 21/2003 published on 17 October 2003)|
+||Date of Second and Third Readings|10 November 2003|
+||Date of commencement|1 January 2004|
 ## COMPARATIVE TABLE
 
 Financial Advisers Act
