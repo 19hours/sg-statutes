@@ -54,7 +54,7 @@
 
 - [20 Admissions by persons expressly referred to by party to suit](#Admissions-by-persons-expressly-referred-to-by-party-to-suit)
 
-- [21 Proof of admissions against persons making them and by or on their behalf](#Proof-of-admissions-against-persons-making-them-and-by-or-on-their-behalf)
+- [21 Proof of admissions against persons making them and by or on theirbehalf](#Proof-of-admissions-against-persons-making-them-and-by-or-on-theirbehalf)
 
 - [22 When oral admissions as to contents of documents are relevant](#When-oral-admissions-as-to-contents-of-documents-are-relevant)
 
@@ -92,7 +92,7 @@
 
 - [36A Rules for filing and receiving evidence and documents in court by using information technology](#Rules-for-filing-and-receiving-evidence-and-documents-in-court-by-using-information-technology)
 
-- [37 Relevancy of entry in public record made in performance of duty](#Relevancy-of-entry-in-public-record-made-in-performance-of-duty)
+- [37 Relevancy of entry in public record made in performance ofduty](#Relevancy-of-entry-in-public-record-made-in-performance-ofduty)
 
 - [38 Relevancy of statements in maps, charts and plans](#Relevancy-of-statements-in-maps-charts-and-plans)
 
@@ -860,7 +860,7 @@ The facts that there was no previous quarrel betweenAandBand thatArepeated the m
 
 (f)
 
-Ais sued byBfor fraudulently representing toBthatCwas solvent, wherebyBbeing induced to trustC, who was insolvent, suffered loss.
+Ais sued byBfor fraudulently representing toBthatCwas solvent, wherebyBbeing induced tot rustC, who was insolvent, suffered loss.
 
 The fact that at the time whenArepresentedCto be solventCwas supposed to be solvent by his neighbours, and by persons dealing with him, is relevant, as showing thatAmade the representation in good faith.
 
@@ -936,7 +936,7 @@ The fact that he said something indicating a general disposition to commit crime
 
 ### Facts bearing on question whether act was accidental or intentional
 
-15\. When there is a question whether an act was accidental or intentional or done with a particular knowledge or intention, the fact that such act formed part of a series of similar occurrences, in each of which the person doing the act was concerned, is relevant.
+15\. When there is a question whether an act was accidental or intentional o done with a particular knowledge or intention, the fact that such act formed part of a series of similar occurrences, in each of which the person doing the act was concerned, is relevant.
 
 Illustrations
 
@@ -1032,7 +1032,7 @@ The question is whether a horse sold byAtoBis sound.
 
 Asays toB: “Go and askC, C</knows all about it”.C’sstatement is an admission.
 
-### Proof of admissions against persons making them and by or on their behalf
+### Proof of admissions against persons making them and by or on theirbehalf
 
 21\. Admissions are relevant and may be proved as against the person who makes them or his representative in interest; but they cannot be proved by or on behalf of the person who makes them or by his representative in interest except in the following cases:
 
@@ -1106,7 +1106,7 @@ Explanation1.—Nothing in this section shall be taken to exempt any advocate or
 
 ### How much of information received from accused may be proved
 
-27\. When any fact is deposed to as discovered in consequence of information received from a person accused of any offence in the custody of a police officer, so much of such information, whether such information amounts to a confession or not, as relates distinctly to the fact thereby discovered may be proved.
+27\. When any fact is deposed to as discovered in consequence of information received from a person accused of any offence in the custody of a police officer, so much of such information, whether such information amounts to aconfession or not, as relates distinctly to the fact thereby discovered may be proved.
 
 ### Confession made after removal of impression caused by inducement, threat or promise relevant
 
@@ -1124,7 +1124,7 @@ Explanations1.—“Offence” as used in this section includes the abetment of 
 
 (a) AandBare jointly tried for the murder ofC. It is proved thatAsaid “Band I murderedC”. The court may consider the effect of this confession as againstB.
 
-(b) Ais on his trial for the murder ofC. There is evidence to show thatCwas murdered byAandBand thatBsaid: “Aand I murderedC”.
+(b) Ais on his trial for the murder ofC. There is evidence to show thatCwas murdered byAandBand thatBsaid:“Aand I murderedC”.
 
 This statement may not be taken into consideration by the court againstAasBis not being jointly tried.
 
@@ -1386,7 +1386,7 @@ except that evidence may not be given of any matter of which, if that person had
 
 [Act 8/96 wef 08/03/1996 vide S 87/96]
 
-### Relevancy of entry in public record made in performance of duty
+### Relevancy of entry in public record made in performance ofduty
 
 37\. An entry in any public or other official book, register or record, stating a fact in issue or relevant fact and made by a public officer in the discharge of his official duty or by any other person in performance of a duty specially enjoined by the law of the country in which such book, register or record is kept, is itself a relevant fact.
 
@@ -1648,7 +1648,7 @@ Character when relevant
 
 (a) personally or by his advocate ask questions of any witness with a view to establishing directly or by implication that he is generally or in a particular respect a person of good disposition or reputation;
 
-(b) himself give evidence tending to establish directly or by implication that he is generally or in a particular respect such a person; or
+(b) himself give evidence tending to establish directly or by implication that the is generally or in a particular respect such a person; or
 
 (c) call a witness to give any such evidence,
 
@@ -1904,7 +1904,7 @@ and when, after the notice mentioned in section 68, such person does not produce
 
 (g) when the originals consist of numerous accounts or other documents which cannot conveniently be examined in court, and the fact to be proved is the general result of the whole collection.
 
-In cases (a), (c) and (d) any secondary evidence of the contents of the document is admissible.
+In cases (a), (c) and(d) any secondary evidence of the contents of the document is admissible.
 
 In case (b) the written admission is admissible.
 
@@ -1914,7 +1914,7 @@ In case (g) evidence may be given as to the general result of the documents by a
 
 ### Rules as to notice to produce
 
-68\. Secondary evidence of the contents of the documents referred to in section 67 (a), shall not be given unless the party proposing to give such secondary evidence has previously given to the party in whose possession or power the document is, or to his solicitor, such notice to produce it as is prescribed by law; and if no notice is prescribed by law, then such notice as the court considers reasonable under the circumstances of the case:
+68\. Secondary evidence of the contents of the documents referred to in section 67(a), shall not be given unless the party proposing to give such secondary evidence has previously given to the party in whose possession or power the document is, or to his solicitor, such notice to produce it as is prescribed by law; and if no notice is prescribed by law, then such notice as the court considers reasonable under the circumstances of the case:
 
 Provided that such notice shall not be required in order to render secondary evidence admissible in any of the following cases or in any other case in which the court thinks fit to dispense with it:
 
@@ -1936,7 +1936,7 @@ Provided that such notice shall not be required in order to render secondary evi
 
 (a) the materials would be likely to aid the court’s comprehension of other evidence which is relevant and admissible according to the provisions of this Act or any other written law; and
 
-(b) the evidence that is to be given by any party is so voluminous or complex that the court considers it convenient to assess the evidence by reference touch materials.
+(b) the evidence that is to be given by any party is so voluminous or complex that the court considers it convenient to assess the evidence by reference to such materials.
 
 (2) Any fact or opinion asserted in any material referred to in subsection (1)shall be proved by relevant and admissible evidence, and if such fact or opinion is one that is admissible only on the proof of some other fact or opinion, such last-mentioned fact or opinion must be proved before evidence is given of the fact or opinion first-mentioned, unless the party undertakes to give proof of such fact or opinion and the court is satisfied with such undertaking.
 
@@ -2402,7 +2402,7 @@ Therefore the burden of proof is onA.
 
 AsuesBfor money due on a bond.
 
-The execution of the bond is admitted, butBsays that it was obtained by fraud, whichAdenies.
+The execution of the bond is admitted, butBsays that itwas obtained by fraud, whichAdenies.
 
 If no evidence were given on either side,Awould succeed as the bond is not disputed and the fraud is not proved.
 
@@ -2476,7 +2476,7 @@ When a person does an act with some intention other than that which the characte
 
 (b)
 
-Ais charged with travelling on a railway without a ticket. The burden of proving that he had a ticket is on him.
+Ais charged with travelling on a railway without a ticket. The burden of proving that he had ticket is on him.
 
 ### Burden of proving death of person known to have been alive within 30 years
 
@@ -2564,7 +2564,7 @@ But the court shall also have regard to such facts as the following in consideri
 
 as to illustration (a)—a shop-keeper has in his till a marked dollar soon after it was stolen and cannot account for its possession specifically but is continually receiving dollars in the course of his business:
 
-as to illustration (b)—A, a person of the highest character is tried for causing a man’s death by an act of negligence in arranging certain machinery.B, a person of equally good character, who also took part in the arrangement, describes precisely what was done and admits and explains the common carelessness ofAand himself:
+as to illustration(b)—A, a person of the highest character is tried for causing a man’s death by an act of negligence in arranging certain machinery.B, a person of equally good character, who also took part in the arrangement, describes precisely what was done and admits and explains the common carelessness ofAand himself:
 
 as to illustration (b)—a crime is committed by several persons.A,BandC, 3 of the criminals, are captured on the spot and kept apart from each other. Each gives an account of the crime implicatingD, and the accounts corroborate each other in such a manner as to render previous concert highly improbable:
 
@@ -3008,7 +3008,7 @@ Ais tried for a rape onB.Bis asked in cross-examination whether she has not had 
 
 Evidence is offered to show that she has had such intercourse withCandD. The evidence is not admissible.
 
-In each of the cases in illustrations (c) and (d) the witness might, if the denial was false, be charged with giving false evidence.
+In each of the cases in illustrations (c) and(d) the witness might, if the denial was false, be charged with giving false evidence.
 
 (e)
 
@@ -3100,7 +3100,7 @@ A book-keeper may testify to facts recorded by him in books regularly kept in th
 
 164\.—(1) A witness summoned to produce a document shall, if it is in his possession or power, bring it to court notwithstanding any objection which there may be to its production or to its admissibility. The validity of any such objection shall be decided on by the court.
 
-(2) The court, if it sees fit, may inspect the document unless it refers to affairs of State, or take other evidence to enable it to determine on its admissiblity.
+(2) The court, if it sees fit, may inspect the document unless it refers to affairs of State, or take other evidence to enable it to determine on its admissibility.
 
 ### Translation of documents
 
@@ -3124,7 +3124,7 @@ AsuesBon an agreement, and givesBnotice to produce it. At the trialAcalls for th
 
 Provided that the judgment must be based upon facts declared by this Act to be relevant and duly proved:
 
-Provided also that this section shall not authorise any Judge to compel any witness to answer any question or to produce any document which such witness would be entitled to refuse to answer or produce under sections 123 to 133 if the question were asked or the document were called for by the adverse party; nor shall the Judge ask any question which it would be improper for any other person to ask under section 150 or 151; nor shall he dispense with the primary evidence of any document, except in the cases hereinbefore excepted.
+Provided also that this section shall not authorise any Judge to compel any witness to answer any question or to produce any document which such witness would be entitled to refuse to answer or produce under sections 123 to 133 if the question were asked or the document were called for by the adverse party; nor shall the Judge ask any question which it would be improper for any other person to ask under section 150 or 151; nor shall he dispense with the primary evidence of any document, except in the cases herein before excepted.
 
 ### Power of assessors to put questions
 
@@ -3402,3 +3402,5 @@ This Legislative History is provided for the convenience of users of the Evidenc
 |18.|**1990 Revised Edition—Evidence Act (Chapter 97)**|
 ||(G.N. No. S 210/2016 — Rectification Order)||
 ||Date of operation|15 March 1990|
+|19.|**G. N. No. S 414/1992—The Evidence Act (Amendment of Schedule) Order 1992**|
+||Date of commencement|25 September 1992|
