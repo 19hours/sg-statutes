@@ -1,22 +1,20 @@
-**Singapore Land Authority Act 2001**
+**Singapore Land Authority Act**
 
-**(No. 17 of 2001)**
+**(CHAPTER 301)**
 
 **Table of Contents**
 
 [**Long Title**](#Singapore-Land-Authority-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
 [**Part II ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF AUTHORITY**](#Part-II)
 
-- [3 Establishment and incorporation of Authority](#Establishment-and-incorporation-of-Authority)
+- [3 Establishment and incorporation of Singapore Land Authority](#Establishment-and-incorporation-of-Singapore-Land-Authority)
 
 - [4 Common seal](#Common-seal)
 
@@ -62,7 +60,7 @@
 
 - [21 Other financial provisions](#Other-financial-provisions)
 
-[**Part VI TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES**](#Part-VI)
+[**Part VI TRANSFER OF PROPERTY, ASSETS, LIABILITIES AND EMPLOYEES**](#Part-VI)
 
 - [22 Transfer to Authority of property, assets and liabilities](#Transfer-to-Authority-of-property-assets-and-liabilities)
 
@@ -106,55 +104,33 @@
 
 [**THIRD SCHEDULE Specified Legislation**](#THIRD-SCHEDULE-Specified-Legislation)
 
-[**FOURTH SCHEDULE Consequential Amendments**](#FOURTH-SCHEDULE-Consequential-Amendments)
+[**Legislative History**](#Legislative-History)
 
-REPUBLIC OF SINGAPORE
+# Singapore Land Authority Act
 
-GOVERNMENT GAZETTE
+(CHAPTER 301)
 
-ACTS SUPPLEMENT
+(Original Enactment: Act 17 of 2001)
 
-Published by Authority
+REVISED EDITION 2002
 
-NO. 17]
+(31st July 2002)
 
-Friday, May 11
+An Act to establish and incorporate the Singapore Land Authority, to provide for its functions and powers, and for matters connected therewith.
 
-[2001
-
-The following Act was passed by Parliament on 19th April 2001 and assented to by the President on 30th April 2001:—
-
-Singapore Land Authority Act 2001
-
-(No. 17 of 2001)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-30th April 2001.
-
-Date of Commencement: 1st June 2001
-
-An Act to establish and incorporate the Singapore Land Authority, to provide for its functions and powers, and for matters connected therewith; and to make consequential amendments to certain other written laws.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st June 2001]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Singapore Land Authority Act 2001 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Singapore Land Authority Act.
 
 ### Interpretation
 
 2\. In this Act, unless the context otherwise requires —
-
-“appointed day” means the date of commencement of this Act;
 
 “Authority” means the Singapore Land Authority established under section 3;
 
@@ -192,7 +168,7 @@ and includes any land which, having been granted or held under any agreement, le
 
 ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF AUTHORITY
 
-### Establishment and incorporation of Authority
+### Establishment and incorporation of Singapore Land Authority
 
 3\. There is hereby established a body to be known as the Singapore Land Authority which shall be a body corporate with perpetual succession and shall, by that name, be capable of —
 
@@ -310,7 +286,7 @@ FUNCTIONS, DUTIES AND POWERS OF AUTHORITY
 
 (o) receive donations, grants, gifts, subsidies and contributions from any source and raise funds by all lawful means;
 
-(p) make provision for gratuities, pensions, allowances or other benefits for employees or former employees of the Authority;
+(p) make provision for pensions, gratuities, allowances or other benefits for employees or former employees of the Authority;
 
 (q) grant or guarantee loans to officers or employees of the Authority for any purpose specifically approved by the Authority;
 
@@ -352,7 +328,7 @@ FUNCTIONS, DUTIES AND POWERS OF AUTHORITY
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part thereof during which the offence continues after conviction.
 
-(4) Nothing in this section shall oblige or bind any person to furnish any information not in his possession or which he is prohibited by law from disclosure.
+(4) Nothing in this section shall oblige or bind any person to furnish any information not in his possession or which he is prohibited by law from disclosing.
 
 ### Directions by Minister
 
@@ -468,7 +444,7 @@ FINANCIAL PROVISIONS
 
 ### Annual estimates
 
-17\.—(1) The Authority shall in every financial year prepare or cause to be prepared and shall adopt annual estimates of income and expenditure of the Authority for the ensuing financial year.
+17\.—(1) The Authority shall in every financial year prepare or cause to be prepared and adopt annual estimates of income and expenditure of the Authority for the ensuing financial year.
 
 (2) Supplementary estimates may be adopted by the Authority at any of its meetings.
 
@@ -500,9 +476,11 @@ FINANCIAL PROVISIONS
 
 ### Issue of shares, etc.
 
-20A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Authority under this Act, or of any capital injection or other investment by the Government in the Authority in accordance with any written law, the Authority shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
+\*20A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Authority under this Act, or of any capital injection or other investment by the Government in the Authority in accordance with any written law, the Authority shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
 
-[5/2002 wef 15/07/2002]
+[5/2002 wef 29/07/2002]
+
+\*This section was not in operation as at 30th June 2002.
 
 ### Other financial provisions
 
@@ -510,11 +488,11 @@ FINANCIAL PROVISIONS
 
 ## PART VI
 
-TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES
+TRANSFER OF PROPERTY, ASSETS, LIABILITIES AND EMPLOYEES
 
 ### Transfer to Authority of property, assets and liabilities
 
-22\.—(1) As from the appointed day —
+22\.—(1) As from 1st June 2001 —
 
 (a) the assurance fund under section 151 of the Land Titles Act (Cap. 157);
 
@@ -538,7 +516,7 @@ shall be transferred to and shall vest in the Authority without further assuranc
 
 ### Transfer of employees
 
-23\.—(1) As from the appointed day, such persons or categories of persons as the Minister may determine who, immediately before that day, were employed by the Government in the Government departments formerly known as —
+23\.—(1) As from 1st June 2001, such persons or categories of persons as the Minister may determine who, immediately before that date, were employed by the Government in the Government departments formerly known as —
 
 (a) the Singapore Land Registry (including the Land Dealings (Approval) Unit);
 
@@ -564,13 +542,13 @@ shall be transferred to the service of the Authority on terms no less favourable
 
 (3) Nothing in the terms and conditions of service to be drawn up by the Authority shall adversely affect the conditions that would have been applicable to persons transferred to the service of the Authority as regards any pension, gratuity or allowance payable under the Pensions Act.
 
-(4) Where a person has been transferred to the service of the Authority under section 23, the Government shall be liable to pay to the Authority such portion of any gratuity, pension or allowance payable to the person on his retirement as the same shall bear to the proportion which the aggregate amount of his pensionable emoluments during his service with the Government bears to the aggregate amount of his pensionable emoluments during his service under both the Government and the Authority.
+(4) Where a person has been transferred to the service of the Authority under section 23, the Government shall be liable to pay to the Authority such portion of any pension, gratuity or allowance payable to the person on his retirement as the same shall bear to the proportion which the aggregate amount of his pensionable emoluments during his service with the Government bears to the aggregate amount of his pensionable emoluments during his service under both the Government and the Authority.
 
 (5) Where any person in the service of the Authority, whose case does not fall within the scope of any pension or other schemes established under this section, retires or dies in the service of the Authority or is discharged from such service, the Authority may grant to him or to such other person or persons wholly or partly dependent on him, as the Authority thinks fit, such allowance or gratuity as the Authority may determine.
 
 ### Existing contracts
 
-25\. All deeds, bonds, agreements, instruments and arrangements subsisting immediately before the appointed day to which the Government is a party and relating —
+25\. All deeds, bonds, agreements, instruments and arrangements subsisting immediately before 1st June 2001 to which the Government is a party and relating —
 
 (a) to the assurance fund under section 151 of the Land Titles Act (Cap. 157);
 
@@ -586,25 +564,25 @@ shall be transferred to the service of the Authority on terms no less favourable
 
 (c) to any other person transferred to the service of the Authority under section 23,
 
-shall continue in force on and after that day and shall be enforceable by or against the Authority as if the Authority had been named therein or had been a party thereto instead of the Government.
+shall continue in force on and after that date and shall be enforceable by or against the Authority as if the Authority had been named therein or had been a party thereto instead of the Government.
 
 ### Pending proceedings
 
-26\. Any proceedings or cause of action relating to the portion of the property, assets, interests, rights, privileges, liabilities and obligations transferred to the Authority under section 22 or to any employee transferred to the service of the Authority under section 23 pending or existing immediately before the appointed day by or against the Government, or any person acting on its behalf, may be continued and shall be enforced by or against the Authority.
+26\. Any proceedings or cause of action relating to the portion of the property, assets, interests, rights, privileges, liabilities and obligations transferred to the Authority under section 22 or to any employee transferred to the service of the Authority under section 23 pending or existing immediately before 1st June 2001 by or against the Government, or any person acting on its behalf, may be continued and shall be enforced by or against the Authority.
 
 ### Continuation and completion of disciplinary proceedings
 
-27\.—(1) Where on the appointed day —
+27\.—(1) Where on 1st June 2001 —
 
 (a) any disciplinary proceedings were pending against any employee of the Government transferred to the service of the Authority under section 23, the proceedings shall be carried on and completed by the Authority; and
 
-(b) any matter was in the course of being heard or investigated or had been heard or investigated by a committee acting under due authority but no order, ruling or decision had been rendered thereon, the committee shall complete the hearing or investigation and make such order, ruling or direction as it could have been made under the authority vested in it before that day.
+(b) any matter was in the course of being heard or investigated or had been heard or investigated by a committee acting under due authority but no order, ruling or decision had been made thereon, the committee shall complete the hearing or investigation and shall make such order, ruling or direction as it could have been made under the authority vested in it before that date.
 
-(2) Any order, ruling or direction made or given by a committee pursuant to this section shall be treated as an order, a ruling or a direction of the Authority and have the same force or effect as if it had been made or given by the Authority pursuant to the authority vested in the Authority under this Act.
+(2) Any order, ruling or direction made by a committee pursuant to this section shall be treated as an order, a ruling or a direction of the Authority and have the same force or effect as if it had been made by the Authority pursuant to the authority vested in the Authority under this Act.
 
 ### Misconduct or neglect of duty by employee before transfer
 
-28\. The Authority may reprimand, reduce in rank, retire, dismiss or punish in some other manner a person transferred to the service of the Authority under section 23 for any misconduct or neglect of duty, committed prior to the appointed day whilst he was in the employment of the Government, which would have rendered him liable to be reprimanded, reduced in rank, retired, dismissed or punished in some other manner if he had continued to be in the employment of the Government and if this Act had not been enacted.
+28\. The Authority may reprimand, reduce in rank, retire, dismiss or punish in some other manner a person transferred to the service of the Authority under section 23 for any misconduct or neglect of duty, committed prior to 1st June 2001 whilst he was in the employment of the Government, which would have rendered him liable to be reprimanded, reduced in rank, retired, dismissed or punished in some other manner if he had continued to be in the employment of the Government and if this Act had not been enacted.
 
 ## PART VII
 
@@ -618,7 +596,7 @@ MISCELLANEOUS
 
 ### Symbol or representation of Authority
 
-30\.—(1) The Authority shall have the exclusive right to the use of such symbol or representation as the Authority may select or devise and thereafter display or exhibit in connection with its activities or affairs.
+30\.—(1) The Authority shall have the exclusive right to the use of such symbol or representation as the Authority may select or devise and thereafter display or exhibit such symbol or representation in connection with its activities or affairs.
 
 (2) Any person who uses a symbol or representation identical with that of the Authority or which so resembles the Authority’s symbol or representation as to deceive or cause confusion, or to be likely to deceive or cause confusion, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
 
@@ -706,9 +684,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Consequential amendments to other written law
 
-38\.—(1) The provisions of the Acts specified in the first column of the Fourth Schedule are amended in the manner set out in the second column thereof.
-
-(2) The Minister may, by order published in theGazette, repeal or amend any written law which appears to him unnecessary having regard to the provisions of this Act or to be inconsistent with any provision of this Act.
+38\. The Minister may, by order published in theGazette, repeal or amend any written law which appears to him unnecessary having regard to the provisions of this Act or to be inconsistent with any provision of this Act.
 
 FIRST SCHEDULE
 
@@ -772,7 +748,7 @@ Vacation of office
 
 (a) if he becomes in any manner disqualified from membership of the Authority;
 
-(b) if he, without sufficient cause (the sufficiency thereof to be decided by the Authority), fails to attend 3 consecutive meetings of the Authority;
+(b) if he fails to attend 3 consecutive meetings of the Authority without sufficient cause (the sufficiency thereof to be decided by the Authority);
 
 (c) if he resigns from his office; or
 
@@ -808,7 +784,7 @@ Disclosure of interest by members
 
 (3) No general notice given under sub-paragraph (2) shall be of effect unless either it is given at a meeting of the Authority or the member takes reasonable steps to ensure that it is brought up and read at the next meeting of the Authority after it is given.
 
-(4) For the purpose of this paragraph, a pecuniary interest of a spouse, parent, son or adopted son, or daughter or an adopted daughter, of a member shall be regarded as a pecuniary interest of the member.
+(4) For the purpose of this paragraph, a pecuniary interest of any spouse, parent, son or adopted son, or daughter or adopted daughter, of a member shall be regarded as a pecuniary interest of the member.
 
 (5) For the purpose of determining whether there is a quorum, a member shall be treated as being present notwithstanding that, under this paragraph, he cannot vote or has withdrawn from the meeting.
 
@@ -850,7 +826,7 @@ Financial Provisions
 
 Financial year
 
-1\. The financial year of the Authority shall begin on 1st April of each year and end on 31st March of the succeeding year, except that the first financial year of the Authority shall begin on the appointed day and end on 31st March of the succeeding year.
+1\. The financial year of the Authority shall begin on 1st April of each year and end on 31st March of the succeeding year.
 
 Accounts of Authority
 
@@ -924,716 +900,32 @@ Specified Legislation
 
 (3) Sections 7, 27, 59 and 169 of the Land Titles Act (Cap. 157).
 
-(4) Sections 7, 15, 37, 41, 42, 43, 49, 54, 62, 65, 66, 67, 81 82, 111, 113 and 120 of the Land Titles (Strata) Act (Cap. 158).
+(4) Sections 7, 15, 37, 41, 42, 43, 49, 54, 62, 65, 66, 67, 81, 82, 111, 113 and 120 of the Land Titles (Strata) Act (Cap. 158).
 
 (5) Sections 4, 10, 11, 12, 15, 17, 25, 26, 35 and 36 of the Residential Property Act (Cap. 274).
 
 (6) Sections 7, 13 and 14 of the State Lands Encroachments Act (Cap. 315).
 
-FOURTH SCHEDULE
-
-Section 38(1)
-
-Consequential Amendments
-
-First column
-
-Second column
-
-(1) Apportionment of Rents Act
-
-
-
-
-(Chapter 9, 1998 Ed.)
-
-(a) Section 2
-
-Delete the definition of “Collector” and substitute the following definitions:
-
-“
-
-“Authority” means the Singapore Land Authority established under the Singapore Land Authority Act 2001;
-
-“Collector” has the same meaning as in the Land Revenue Collection Act (Cap.155);
-
-”.
-
-(b) Sections 5 and 7(5)
-
-Delete the words “Land Office” wherever they appear and substitute in each case the words “office of the Authority”.
-
-(2) Boundaries and Survey Maps Act
-
-
-
-
-(Chapter 25, 1999 Ed.)
-
-(a) Section 2(1)
-
-Insert, immediately after the definition of “approved co-ordinates”, the following definition:
-
-“
-
-“Authority” means the Singapore Land Authority established under the Singapore Land Authority Act 2001;
-
-”.
-
-(b) Sections 9(2)(b) and 10(2)(b)
-
-Delete the word “Government” wherever it appears and substitute in each case the word “Authority”.
-
-(c) Section 12(2)(d)
-
-Insert, immediately after the words “Land Titles Registry, as the case may be,” in the 5th line, the words “of the Authority”.
-
-(d) Section 16
-
-Repeal.
-
-(e) Section 17
-
-Delete the word “Minister” wherever it appears in subsections (1) and (2) and substitute in each case the words “Authority, with the approval of the Minister,”.
-
-(f) New section 18
-
-Insert, immediately after section 17, the following section:
-
-“
-
-Fees to be paid to Authority
-
-18. All prescribed fees collected for the purposes of this Act shall be paid into the funds of the Authority.
-
-”.
-
-(3) Central Provident Fund Act
-
-
-
-
-(Chapter 36, 1999 Ed.)
-
-First Schedule,
-
-
-
-
-Paragraph 6
-
-Insert, immediately after item (34), the following item:
-
-“
-
-(34A) Singapore Land Authority.
-
-”.
-
-(4) Evidence Act
-
-
-
-
-(Chapter 97, 1997 Ed.)
-
-The Schedule
-
-Insert, immediately after item 15, the following item:
-
-"15A.
-
-Singapore Land Authority
-
-Singapore Land Authority Act 2001.".
-
-(5) Housing and Development Act
-
-
-
-
-(Chapter 129, 1997 Ed.)
-
-(a) Section 2(1)
-
-Delete the definition of “Collector” and substitute the following definition:
-
-“
-
-“Collector” has the same meaning as in the Land Revenue Collection Act (Cap. 155);
-
-”.
-
-(b) Second Schedule,
-Note
-
-Delete the words “Land Office” and substitute the words “Singapore Land Authority”.
-
-(6) Income Tax Act
-
-
-
-
-(Chapter 134, 1999 Ed.)
-
-First Schedule,
-
-
-
-
-Paragraph A
-
-Insert, immediately after item 49, the following item:
-
-“
-
-49A. Singapore Land Authority
-
-”.
-
-(7) Land Acquisition Act
-
-
-
-
-(Chapter 152, 1985 Ed.)
-
-Section 2(1)
-
-Delete the definition of “Collector” and substitute the following definition:
-
-“
-
-“Collector” has the same meaning as in the Land Revenue Collection Act (Cap. 155);
-
-”.
-
-(8) Land Revenue Collection Act
-
-
-
-
-(Chapter 155, 1985 Ed.)
-
-(a) Section 2
-
-(i) Delete the definition of “Collector” and substitute the following definitions:
-
-“
-
-“Authority” means the Singapore Land Authority established under the Singapore Land Authority Act 2001;
-
-“Collector” means —
-
-(a) any officer of the Authority; or
-
-(b) any public officer or officer of any other public authority constituted under any written law for a public purpose,
-
-appointed by the Minister to be a Collector of Land Revenue, and includes any Deputy Collector of Land Revenue appointed before the date of commencement of the Singapore Land Authority Act 2001;
-
-”.
-
-(ii) Renumber the section as subsection (1) of that section and insert immediately thereafter the following subsection:
-
-“
-
-(2) Any person who, immediately before the date of commencement of the Singapore Land Authority Act 2001, holds office as a Collector of Land Revenue or Deputy Collector of Land Revenue shall continue to hold such office as if he had been appointed under this Act until his appointment is revoked.
-
-”.
-
-(b) Section 9
-
-Delete the words “in the Land Office” and substitute the words “at the office of the Authority”.
-
-(c) Section 27(1)
-
-(i) Delete the word “Minister” and substitute the word “Authority”.
-
-(ii) Delete paragraph (a).
-
-(d) New section 27A
-
-Insert, immediately after section 27, the following section:
-
-“
-
-Fees to be paid to Authority
-
-27A.—(1) Subject to subsection (2), all costs and fees collected in connection with any proceedings instituted or any other matter under this Act or in connection with any service provided by the Collector under this Act shall be prescribed in rules made by the Authority with the approval of the Minister, and shall be paid into the funds of the Authority.
-
-(2) Subsection (1) shall not apply to any land revenue recovered under this Act, which shall be paid into the Consolidated Fund.
-
-”.
-
-(e) Schedule C
-
-Delete the words “Land Office” in the 3rd line of the 2nd paragraph and substitute the words “office of the Singapore Land Authority”.
-
-(9) Land Surveyors Act
-
-
-
-
-(Chapter 156, 1992 Ed.)
-
-(a) Section 2
-
-(i) Insert, immediately after the definition of “assurance plan”, the following definitions:
-
-“
-
-“authorised surveyor” means a surveyor who is employed by the Authority, whether or not registered under section 12, and includes any other surveyor registered under section 12 appointed by the Chief Surveyor to be an authorised surveyor;
-
-“Authority” means the Singapore Land Authority established under the Singapore Land Authority Act 2001;
-
-”.
-
-(ii) Delete the definition of “Government surveyor”.
-
-(b) Section 4(2)(c)
-
-Delete the words “a Government surveyor” and substitute the words “an authorised surveyor”.
-
-(c) Sections 10(1) and (4)(b) and 15(10)
-
-Delete the words “a Government surveyor” wherever they appear and substitute in each case the words “an authorised surveyor”.
-
-(d) Section 32
-
-(i) Delete the words “the Survey Department” in the 2nd and 3rd lines and substitute the words “the Authority”.
-
-(ii) Delete the words “in the Department” in the 7th line and substitute the words “lodged with the Authority”.
-
-(iii) Delete the words “of a prescribed fee” in the 9th line and substitute the words “to the Authority of a fee prescribed under section 40(2A)”.
-
-(iv) Delete the words “Government survey maps” in the marginal note and substitute the words “Authority’s survey maps”.
-
-(e) Section 33
-
-(i) Delete the words “the Survey Department” in the 4th line and substitute the words “the Authority”.
-
-(ii) Delete the words “the Government” in the penultimate line and substitute the words “the Authority”.
-
-(f) Section 34(3)
-
-Delete the words “the prescribed survey fees have not been paid” in the penultimate and last lines and substitute the words “the survey fees prescribed under section 40(2A) have not been paid”.
-
-(g) Section 35
-
-(i) Delete the words “the Board” in the last line of subsection (1) and substitute the words “the Chief Surveyor”.
-
-(ii) Delete the words “a Government surveyor” in the penultimate line of subsection (2) and substitute the words “an authorised surveyor”.
-
-(h) Section 36
-
-(i) Delete the words “any Government surveyor authorised by him” in subsection (1) and substitute the words “any authorised surveyor designated by him”.
-
-(ii) Delete the words “the Survey Department” in the 3rd line of subsection (2) and substitute the words “the Authority”.
-
-(i) Section 37(1)
-
-Insert, immediately after the words “under this Act” in the 2nd line, the words “(other than fees prescribed under section 40(2A))”.
-
-(j) Section 40
-
-(i) Insert, immediately after the words “fees payable” in subsection (2)(b), the words “to the Board”.
-
-(ii) Delete paragraph (e) of subsection (2).
-
-(iii) Insert, immediately after subsection (2), the following subsection:
-
-“
-
-(2A) The Authority may, with the approval of the Minister, make rules prescribing the fees to be charged by the Authority in connection with cadastral surveys and the time for payment of those fees.
-
-”.
-
-(10) Land Titles Act
-
-
-
-
-(Chapter 157, 1994 Ed.)
-
-(a) Section 4(1)
-
-(i) Insert, immediately after the definition of “assurance fund”, the following definition:
-
-“
-
-“Authority” means the Singapore Land Authority established under the Singapore Land Authority Act 2001;
-
-”.
-
-(ii) Delete the definition of “Collector” and substitute the following definition:
-
-“
-
-“Collector” has the same meaning as in the Land Revenue Collection Act (Cap. 155);
-
-”.
-
-(iii) Delete the words “in the Survey Department” in the 5th and 6th lines of paragraph (b) of the definition of “land” and substitute the words “with the Authority”.
-
-(iii) Insert, immediately after the definition of “land-register”, the following definition:
-
-“
-
-“Land Titles Registry” means the Land Titles Registry of the Authority;
-
-”.
-
-(b) Section 7(2)
-
-Delete the words “in the Survey Department” in the 5th line and substitute the words “with the Authority”.
-
-(c) Section 70
-
-Delete the word “Minister” in the 1st line and substitute the words “Authority, with the approval of the Minister,”.
-
-(d) Section 151(1)
-
-Delete the words “the Minister charged with the responsibility for finance” in the 2nd and 3rd lines and substitute the words “the Authority”.
-
-(e) Section 157(2)
-
-(i) Insert, immediately after the word “Neither” in the 1st line, the words “the Authority,”.
-
-(ii) Insert, immediately after the words “acting under” in the 1st line, the words “it or”.
-
-(f) Section 158(3)
-
-Delete the words “the Registrar” and substitute the words “the Authority”.
-
-(g) Section 167(2)
-
-Insert, immediately after the words “brought against”, the words “the Authority,”.
-
-(h) Section 168
-
-Delete the words “the Minister in charge of finance” and substitute the words “the Authority”.
-
-(i) New section 169A
-
-Insert, immediately after section 169, the following section:
-
-“
-
-Composition of offences
-
-169A.—(1) The Registrar or any person authorised by him in writing may, in his discretion, compound any offence under this Act or any rules made thereunder which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $2,000.
-
-(2) The Authority may, with the approval of the Minister, make rules to prescribe the offences which may be compounded.
-
-(3) On payment of such sum, no further proceedings shall be taken against that person in respect of the offence.
-
-(4) All sums collected under this section shall be paid into the funds of the Authority.
-
-”.
-
-(j) Section 170(1)
-
-(i) Delete the words “The Minister” in the 1st line and substitute the words “Subject to subsection (1A), the Authority, with the approval of the Minister,”.
-
-(ii) Delete the word “Minister” in the 5th line and substitute the words “Authority, with the approval of the Minister,”.
-
-(iii) Insert, immediately at the end of paragraph (a), the word “and”.
-
-(iv) Delete paragraph (b).
-
-(v) Insert, immediately after subsection (1), the following subsection:
-
-“
-
-(1A) The Authority may make rules regulating the practice of the Land Titles Registry in relation to matters arising under this Act.
-
-”.
-
-(k) New section 170A
-
-Insert, immediately after section 170, the following section:
-
-“
-
-Fees to be paid to Authority
-
-170A. All fees collected by the Registrar or the Land Titles Registry for any matter or thing done therein under this Act shall be paid into the funds of the Authority
-
-”.
-
-(11) Land Titles (Strata) Act
-
-
-
-
-(Chapter 158, 1999 Ed.)
-
-(a) Section 3
-
-(i) Insert, immediately after the definition of “assurance”, the following definition:
-
-“
-
-“Authority” means the Singapore Land Authority established under the Singapore Land Authority Act 2001;
-
-”.
-
-(ii) Delete the words “in the Survey Department” in the 4th line of paragraph (b) of the definition of “land” and substitute the words “with the Authority”.
-
-(iii) Insert, immediately after the definition of “land”, the following definition:
-
-“
-
-“Land Titles Registry” means the Land Titles Registry of the Authority;
-
-”.
-
-(b) Section 10(9)(a)(ii)
-
-Delete the words “in the Survey Department” in the penultimate and last lines and substitute the words “with the Authority”.
-
-(c) Section 130
-
-(i) Delete the words “The Minister” in subsection (1) and substitute the words “Subject to section 131, the Authority, with the approval of the Minister,”.
-
-(ii) Delete the word “Minister” in subsection (2) and substitute the words “Authority, with the approval of the Minister,”.
-
-(iii) Delete paragraphs (f) and (g) of subsection (2).
-
-(d) New section 131
-
-Insert, immediately after section 130, the following section:
-
-“
-
-Regulations made by, and fees to be paid to, Authority
-
-131.—(1) The Authority may make regulations on any of the following matters:
-
-(a) the preparation of plans and documents for the purposes of this Act; and
-
-(b) the lodgment and registration of plans under this Act.
-
-(2) All prescribed fees collected under or in connection with any service provided by the Registrar under this Act shall be paid into the funds of the Authority.
-
-”.
-
-(12) Planning Act
-
-
-
-
-(Chapter 232, 1998 Ed.)
-
-Section 2
-
-Delete the definition of “Collector” and substitute the following definition:
-
-“
-
-“Collector” has the same meaning as in the Land Revenue Collection Act (Cap.155);
-
-”.
-
-(13) Registration of Deeds Act
-
-
-
-
-(Chapter 269, 1989 Ed.)
-
-(a) Section 2(1)
-
-(i) Insert, immediately after the definition of “assurance”, the following definition:
-
-“
-
-“Authority” means the Singapore Land Authority established under the Singapore Land Authority Act 2001;
-
-”.
-
-(ii) Delete the words “in the Survey Department” in the 5th and 6th lines of paragraph (b) of the definition of “land” and substitute the words “with the Authority”.
-
-(iii) Delete the definition of “Registry” and substitute the following definition:
-
-“
-
-“Registry” means the Registry of Deeds of the Authority;
-
-”.
-
-(b) Section 28
-
-Delete subsection (2) and substitute the following subsection:
-
-“
-
-(2) All fees collected under or in connection with any service provided by the Registrar under this Act or any rules made thereunder shall be paid into the funds of the Authority.
-
-”.
-
-(c) Section 29
-
-(i) Delete the word “Minister” in subsection (1) and substitute the word “Authority”.
-
-(ii) Delete paragraphs (g) and (h) of subsection (1).
-
-(iii) Insert, immediately after subsection (1), the following subsection:
-
-“
-
-(1A) The Authority, with the approval of the Minister, may make rules prescribing —
-
-(a) the fees for any matter or thing done under this Act; or
-
-(b) the penalties or additional fees to be taken by the Registrar for delay in removing instruments after registration.
-
-”.
-
-(14) Residential Property Act
-
-
-
-
-(Chapter 274, 1985 Ed.)
-
-(a) Section 2(1)
-
-Insert, immediately after the definition of “approved purchaser”, the following definition:
-
-“
-
-“Authority” means the Singapore Land Authority established under the Singapore Land Authority Act 2001;
-
-”.
-
-(b) Section 36A
-
-Repeal and substitute the following section:
-
-“
-
-Composition of offences
-
-36A.—(1) The Controller or any person authorised by him in writing may, in his discretion, compound any offence under this Act or any rules or regulations made thereunder which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $200.
-
-(2) The Minister may make regulations to prescribe the offences which may be compounded.
-
-(3) On payment of such sum, no further proceedings shall be taken against that person in respect of the offence.
-
-(4) All sums collected under this section shall be paid into the funds of the Authority.
-
-”.
-
-(c) New section 40A
-
-Insert, immediately after section 40, the following section:
-
-“
-
-Fees to be paid to Authority
-
-40A. All fees and charges collected under or in connection with any service provided by the Controller under this Act or any rules or regulations made thereunder shall be paid into the funds of the Authority.
-
-”.
-
-(15) State Lands Act
-
-
-
-
-(Chapter 314, 1996 Ed.)
-
-(a) Section 2
-
-Repeal and substitute the following section:
-
-“
-
-Interpretation
-
-2. In this Act, unless the context otherwise requires —
-
-“Authority” means the Singapore Land Authority established under the Singapore Land Authority Act 2001;
-
-“Collector” has the same meaning as in the Land Revenue Collection Act (Cap. 155);
-
-“Commissioner of Lands” means such person as the Minister may appoint as the Commissioner of Lands under section 2D;
-
-“grant” means a grant in perpetuity;
-
-“grantee” means the owner of a grant.
-
-”.
-
-(b) New section 2D
-
-Insert, immediately after section 2C, the following section:
-
-“
-
-Commissioner of Lands
-
-2D.—(1) There shall be a Commissioner of Lands who shall be appointed by the Minister for the general administration of this Act.
-
-(2) The Minister may also appoint from among officers of the Authority such number of Deputy Commissioners and Assistant Commissioners of Lands as may be necessary for the carrying out of the provisions of this Act and any rules made thereunder.
-
-(3) A Deputy Commissioner and any Assistant Commissioner of Lands may, subject to any special or general directions of the Commissioner, exercise any of the powers conferred on the Commissioner by or under this Act or any other written law.
-
-(4) Any person who, immediately before the date of commencement of the Singapore Land Authority Act 2001, holds office as a Commissioner of Lands, Deputy Commissioner of Lands or Assistant Commissioner of Lands shall continue to hold such office as if he had been appointed under this Act until his appointment is revoked.
-
-”.
-
-(c) New section 19A
-
-Insert, immediately after section 19, the following section:
-
-“
-
-Fees to be paid to Authority
-
-19A.—(1) All fees collected in connection with any service provided by the Commissioner or Collector under this Act or any rules made thereunder shall be paid into the funds of the Authority.
-
-(2) Subsection (1) shall not apply to any premium, rents or any other consideration paid to the Commissioner or Collector in exchange for any rights or interest in land which shall be paid into the Consolidated Fund.
-
-”.
-
-(16) State Lands Encroachment Act
-
-
-
-
-(Chapter 315, 1985 Ed.)
-
-Section 11(2)
-
-Delete the words “Land Office” and substitute the words “records of the Singapore Land Authority”.
-
-(17) Statutory Bodies and Government Companies (Protection of Secrecy) Act
-
-
-
-
-(Chapter 319, 1998 Ed.)
-
-The Schedule, Part I
-
-Insert, immediately after item 16, the following item:
-
-"16A.
-
-Singapore Land Authority
-
-Singapore Land Authority Act 2001.".
-
-(18) Trustees Act
-
-
-
-
-(Chapter 337, 1999 Ed.)
-
-Section 3
-
-Delete the words “in the Survey Department” in the 4th line of paragraph (b) of the definition of “land” and substitute the words “with the Singapore Land Authority”.
-
+## LEGISLATIVE HISTORY
+
+Singapore Land Authority Act
+
+(CHAPTER 301)
+
+This Legislative History is provided for the convenience of users of the Singapore Land Authority Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 17 of 2001—Singapore Land Authority Act 2001**|
+||Date of First Reading|5 March 2001|
+|||(Bill No. 17/2001 published on 7 March 2001)|
+||Date of Second and Third Readings|19 April 2001|
+||Date of commencement|1 June 2001|
+|2.|**Act 5 of 2002—Statutory Corporations (Capital Contribution) Act 2002**|
+||(Consequential amendments made by)||
+||Date of First Reading|3 May 2002|
+|||(Bill No. 7/2002 published on 4 May 2002)|
+||Date of Second and Third Readings|24 May 2002|
+||Date of commencement|15 July 2002|
+|3.|**2002 Revised Edition—Singapore Land Authority Act**|
+||Date of operation|31 July 2002|
