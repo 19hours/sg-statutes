@@ -443,3 +443,9 @@ This Legislative History is provided for the convenience of users of the Statist
 ||Date of commencement|1 December 1995|
 |7.|**G.N. No. S 365/98—Statistics Act (Amendment of Second Schedule) Notification 1998**|
 ||Date of commencement|3 July 1998|
+|8.|**Act 4 of 1999—Building and Construction Authority Act 1999**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|23 November 1998|
+|||(Bill No. 51/98 published on 24 November 1998)|
+||Date of Second and Third Readings|20 January 1999|
+||Date of commencement|1 April 1999|
