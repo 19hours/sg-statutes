@@ -44,7 +44,7 @@
 
 - [16 Provisions relating to the making of a work or other subject-matter](#Provisions-relating-to-the-making-of-a-work-or-other-subject-matter)
 
-- [17 Storage in computer or on any medium by electronic means](#Storage-in-computer-or-on-any-medium-by-electronic-means)
+- [17 Storage in computer or on any other medium](#Storage-in-computer-or-on-any-other-medium)
 
 - [18 Sound recordings and records](#Sound-recordings-and-records)
 
@@ -56,7 +56,7 @@
 
 - [22 Performance](#Performance)
 
-- [23 Performance of works or other subject-matter by students, etc.](#Performance-of-works-or-other-subject-matter-by-students-etc)
+- [23 Performance of works or other subject-matter by students or staff of educational institution, etc.](#Performance-of-works-or-other-subject-matter-by-students-or-staff-of-educational-institution-etc)
 
 - [24 Publication](#Publication)
 
@@ -90,7 +90,7 @@
 
 [**Division 3  Acts not Constituting Infringements of Copyright Works**](#Division-3--Acts-not-Constituting-Infringements-of-Copyright-Works)
 
-- [35 Fair dealing for purpose of research or study](#Fair-dealing-for-purpose-of-research-or-study)
+- [35 Fair dealing in relation to works](#Fair-dealing-in-relation-to-works)
 
 - [36 Fair dealing for purpose of criticism or review](#Fair-dealing-for-purpose-of-criticism-or-review)
 
@@ -98,7 +98,15 @@
 
 - [38 Reproduction for purposes of judicial proceedings or professional advice](#Reproduction-for-purposes-of-judicial-proceedings-or-professional-advice)
 
+- [38A Temporary reproduction made in the course of communication](#Temporary-reproduction-made-in-the-course-of-communication)
+
 - [39 Back-up copy of computer program, etc.](#Back-up-copy-of-computer-program-etc)
+
+- [39A Decompilation](#Decompilation)
+
+- [39B Observing, studying and testing of computer programs](#Observing-studying-and-testing-of-computer-programs)
+
+- [39C Other acts permitted to lawful users](#Other-acts-permitted-to-lawful-users)
 
 - [40 Inclusion of works in collections for use by educational institutions](#Inclusion-of-works-in-collections-for-use-by-educational-institutions)
 
@@ -106,11 +114,13 @@
 
 [**Division 4  Acts not Constituting Infringements of Copyright in Literary, Dramatic and Musical Works**](#Division-4--Acts-not-Constituting-Infringements-of-Copyright-in-Literary-Dramatic-and-Musical-Works)
 
-- [41 Reading or recitation in public or for a broadcast](#Reading-or-recitation-in-public-or-for-a-broadcast)
+- [41 Reading or recitation in public or for a communication](#Reading-or-recitation-in-public-or-for-a-communication)
 
 - [42 Religious performances](#Religious-performances)
 
 - [43 Reproduction for purpose of broadcasting](#Reproduction-for-purpose-of-broadcasting)
+
+- [43A Reproduction for purpose of simulcasting](#Reproduction-for-purpose-of-simulcasting)
 
 [**Division 5  Copying of Works in Libraries**](#Division-5--Copying-of-Works-in-Libraries)
 
@@ -120,7 +130,7 @@
 
 - [46 Copying by libraries or archives for other libraries or archives](#Copying-by-libraries-or-archives-for-other-libraries-or-archives)
 
-- [47 Copying of unpublished works in libraries or archives](#Copying-of-unpublished-works-in-libraries-or-archives)
+- [47 Copying or communication of unpublished works in libraries or archives](#Copying-or-communication-of-unpublished-works-in-libraries-or-archives)
 
 - [48 Copying of works for preservation and other purposes](#Copying-of-works-for-preservation-and-other-purposes)
 
@@ -132,9 +142,9 @@
 
 - [50A Copying by non-reprographic means for purpose of a course of education](#Copying-by-non-reprographic-means-for-purpose-of-a-course-of-education)
 
-- [51 Multiple copying of insubstantial portions of works](#Multiple-copying-of-insubstantial-portions-of-works)
+- [51 Multiple copying or communication of insubstantial portions of works](#Multiple-copying-or-communication-of-insubstantial-portions-of-works)
 
-- [52 Multiple copying under statutory licence by educational institutions](#Multiple-copying-under-statutory-licence-by-educational-institutions)
+- [52 Multiple copying or communication under statutory licence by educational institutions](#Multiple-copying-or-communication-under-statutory-licence-by-educational-institutions)
 
 - [52A Things done for purposes of examination](#Things-done-for-purposes-of-examination)
 
@@ -270,13 +280,25 @@
 
 - [105 Infringement by sale and other dealings](#Infringement-by-sale-and-other-dealings)
 
+- [105A Infringing copies made on machines installed in libraries and archives](#Infringing-copies-made-on-machines-installed-in-libraries-and-archives)
+
 - [106 Acts done for purposes of judicial proceeding](#Acts-done-for-purposes-of-judicial-proceeding)
 
 - [107 Making of a copy of sound recording for purposes of broadcasting](#Making-of-a-copy-of-sound-recording-for-purposes-of-broadcasting)
 
+- [107A Making of copy of sound recording or cinematograph film for purpose of simulcasting](#Making-of-copy-of-sound-recording-or-cinematograph-film-for-purpose-of-simulcasting)
+
+- [107B Non-subscription digital audio transmissions](#Non-subscription-digital-audio-transmissions)
+
+- [107C Digital audio transmissions within business establishment](#Digital-audio-transmissions-within-business-establishment)
+
+- [107D Other non-infringing non-interactive transmissions](#Other-non-infringing-non-interactive-transmissions)
+
+- [107E Temporary copy made in course of communication](#Temporary-copy-made-in-course-of-communication)
+
 - [108 Provisions relating to cinematograph films](#Provisions-relating-to-cinematograph-films)
 
-- [109 Fair dealing for purpose of research or private study](#Fair-dealing-for-purpose-of-research-or-private-study)
+- [109 Fair dealing in relation to other subject-matter](#Fair-dealing-in-relation-to-other-subject-matter)
 
 - [110 Fair dealing for purpose of criticism or review](#Fair-dealing-for-purpose-of-criticism-or-review)
 
@@ -324,7 +346,7 @@
 
 - [123 Rights of exclusive licensee](#Rights-of-exclusive-licensee)
 
-- [124 Joinder of owner or exclusive licensee as a party](#Joinder-of-owner-or-exclusive-licensee-as-a-party)
+- [124 Joinder of owner or exclusive licensee as party](#Joinder-of-owner-or-exclusive-licensee-as-party)
 
 - [125 Defences available against exclusive licensee](#Defences-available-against-exclusive-licensee)
 
@@ -390,6 +412,8 @@
 
 - [140L Insufficient security](#Insufficient-security)
 
+- [140LA Detention of infringing copies](#Detention-of-infringing-copies)
+
 [**Division 7  Powers of Search**](#Division-7--Powers-of-Search)
 
 - [140M Powers of search in relation to vessels, aircrafts and vehicles](#Powers-of-search-in-relation-to-vessels-aircrafts-and-vehicles)
@@ -439,6 +463,8 @@
 - [156A Application to Tribunal for determination of remuneration payable for making recording or film of a work](#Application-to-Tribunal-for-determination-of-remuneration-payable-for-making-recording-or-film-of-a-work)
 
 - [156B Application to Tribunal for determination of remuneration payable for making copy of sound recording](#Application-to-Tribunal-for-determination-of-remuneration-payable-for-making-copy-of-sound-recording)
+
+- [156C Application to Tribunal for determination of remuneration payable for making available to public sound recording by means of digital audio transmission](#Application-to-Tribunal-for-determination-of-remuneration-payable-for-making-available-to-public-sound-recording-by-means-of-digital-audio-transmission)
 
 - [157 Inquiries into royalty payable in respect of records of musical works](#Inquiries-into-royalty-payable-in-respect-of-records-of-musical-works)
 
@@ -510,9 +536,9 @@
 
 - [187 Interpretation of this Part](#Interpretation-of-this-Part)
 
-- [188 Duty not to attribute falsely the authorship of a work](#Duty-not-to-attribute-falsely-the-authorship-of-a-work)
+- [188 Duty not to attribute falsely authorship of work or identity of performer of performance](#Duty-not-to-attribute-falsely-authorship-of-work-or-identity-of-performer-of-performance)
 
-- [189 Duty not to attribute falsely the authorship of altered work](#Duty-not-to-attribute-falsely-the-authorship-of-altered-work)
+- [189 Duty not to falsely represent altered work or recording of performance as unaltered](#Duty-not-to-falsely-represent-altered-work-or-recording-of-performance-as-unaltered)
 
 - [190 Duty not to attribute falsely the authorship of reproduction of artistic work](#Duty-not-to-attribute-falsely-the-authorship-of-reproduction-of-artistic-work)
 
@@ -524,13 +550,23 @@
 
 [**Part IXA WORKS, OR OTHER SUBJECT-MATTER, IN ELECTRONIC FORM**](#Part-IXA)
 
-- [193A Interpretation of this Part](#Interpretation-of-this-Part)
+- [193A Interpretation and effect of application of this Part](#Interpretation-and-effect-of-application-of-this-Part)
 
-- [193B Acts by network service provider to enable access](#Acts-by-network-service-provider-to-enable-access)
+- [193B Transmission, routing and provision of connections](#Transmission-routing-and-provision-of-connections)
 
-- [193C Acts by network service provider at direction of another](#Acts-by-network-service-provider-at-direction-of-another)
+- [193C System caching](#System-caching)
 
-- [193D Exemption of network service provider from liability for removal of copy, etc., from network](#Exemption-of-network-service-provider-from-liability-for-removal-of-copy-etc-from-network)
+- [193D Storage and information location](#Storage-and-information-location)
+
+- [193DA Exemption of network service provider from liability for removal of copy, etc., from network](#Exemption-of-network-service-provider-from-liability-for-removal-of-copy-etc-from-network)
+
+- [193DB Relief which court may grant](#Relief-which-court-may-grant)
+
+- [193DC Evidence of compliance with conditions](#Evidence-of-compliance-with-conditions)
+
+- [193DD Maker of false notice guilty of offence and liable in damages](#Maker-of-false-notice-guilty-of-offence-and-liable-in-damages)
+
+- [193DE Regulations](#Regulations)
 
 - [193E User caching](#User-caching)
 
@@ -674,19 +710,35 @@
 
 - [252 What constitutes unauthorised use](#What-constitutes-unauthorised-use)
 
-- [252A Acts by network service provider to enable access](#Acts-by-network-service-provider-to-enable-access)
+- [252A Transmission, routing and provision of connections](#Transmission-routing-and-provision-of-connections)
 
-- [252B Acts by network service provider at direction of another](#Acts-by-network-service-provider-at-direction-of-another)
+- [252B System caching](#System-caching)
 
-- [252C Exemption of network service provider from liability for removal of recording from network](#Exemption-of-network-service-provider-from-liability-for-removal-of-recording-from-network)
+- [252C Storage and information location](#Storage-and-information-location)
+
+- [252CA Exemption of network service provider from liability for removal of copy, etc., from network](#Exemption-of-network-service-provider-from-liability-for-removal-of-copy-etc-from-network)
+
+- [252CB Relief which court may grant](#Relief-which-court-may-grant)
+
+- [252CC Evidence of compliance with conditions](#Evidence-of-compliance-with-conditions)
+
+- [252CD Maker of false notice guilty of offence and liable in damages](#Maker-of-false-notice-guilty-of-offence-and-liable-in-damages)
+
+- [252CE Regulations](#Regulations)
+
+- [252CF Effect of application of sections 252A to 252CD](#Effect-of-application-of-sections-252A-to-252CD)
 
 - [252D User caching](#User-caching)
 
 - [253 Action for unauthorised use](#Action-for-unauthorised-use)
 
+- [253A Presumptions in relation to performance](#Presumptions-in-relation-to-performance)
+
 - [254 Order for disposal of infringing copies or other object](#Order-for-disposal-of-infringing-copies-or-other-object)
 
 - [254A Offences](#Offences)
+
+- [254B Application of sections 140A to 141](#Application-of-sections-140A-to-141)
 
 - [255 Rights to bring an action may be assigned](#Rights-to-bring-an-action-may-be-assigned)
 
@@ -704,6 +756,22 @@
 
 - [261 Relief which court may grant](#Relief-which-court-may-grant)
 
+- [261A Enforcement measures](#Enforcement-measures)
+
+[**Part XIIIA CIRCUMVENTION OF TECHNOLOGICAL MEASURES**](#Part-XIIIA)
+
+- [261B Interpretation and effect of application of this Part](#Interpretation-and-effect-of-application-of-this-Part)
+
+- [261C Circumvention of technological measures](#Circumvention-of-technological-measures)
+
+- [261D Exceptions to prohibition on circumvention](#Exceptions-to-prohibition-on-circumvention)
+
+- [261E Exceptions to prohibition on making, etc., circumventing device and offering circumventing service](#Exceptions-to-prohibition-on-making-etc-circumventing-device-and-offering-circumventing-service)
+
+- [261F Relief which court may grant](#Relief-which-court-may-grant)
+
+- [261G Enforcement measures](#Enforcement-measures)
+
 [**Part XIV TRANSITIONAL PROVISIONS UNDER INTELLECTUAL PROPERTY (MISCELLANEOUS AMENDMENTS) ACT 2004**](#Part-XIV)
 
 - [262 Interpretation of this Part](#Interpretation-of-this-Part)
@@ -717,6 +785,18 @@
 - [266 Works and other subject matter published by Government before appointed day](#Works-and-other-subject-matter-published-by-Government-before-appointed-day)
 
 - [267 Performances given before appointed day](#Performances-given-before-appointed-day)
+
+[**Part XV SAVINGS AND TRANSITIONAL PROVISIONS UNDER COPYRIGHT (AMENDMENT) ACT 2004**](#Part-XV)
+
+- [268 Interpretation of this Part](#Interpretation-of-this-Part)
+
+- [269 Assignments and licences before appointed day](#Assignments-and-licences-before-appointed-day)
+
+- [270 Action for infringement which took place before appointed day](#Action-for-infringement-which-took-place-before-appointed-day)
+
+- [271 Action for unauthorised use before appointed day](#Action-for-unauthorised-use-before-appointed-day)
+
+- [272 Action relating to rights management information](#Action-relating-to-rights-management-information)
 
 [**THE SCHEDULE False Registration of Industrial Designs**](#THE-SCHEDULE)
 
@@ -856,6 +936,18 @@ and includes the aggregate of the sounds embodied in a sound-track associated wi
 
 “citizen of Singapore” includes a person who, if he had been alive on 1st November 1957, would have qualified for Singapore citizenship under the Singapore Citizenship Ordinance 1957 (Ord. 35/57);
 
+“communicate” means to transmit by electronic means (whether over a path, or a combination of paths, provided by a material substance or by wireless means or otherwise) a work or other subject-matter, whether or not it is sent in response to a request, and includes —
+
+(a) the broadcasting of a work or other subject-matter;
+
+(b) the inclusion of a work or other subject-matter in a cable programme; and
+
+(c) the making available of a work or other subject-matter (on a network or otherwise) in such a way that the work or subject-matter may be accessed by any person from a place and at a time chosen by him,
+
+and “communication” shall have a corresponding meaning;
+
+[52/2004 wef 01/01/2005]
+
 “computer program” means an expression, in any language, code or notation, of a set of instructions (whether with or without related information) intended, either directly or after either or both of the following:
 
 (a) conversion to another language, code or notation;
@@ -876,6 +968,10 @@ to cause a device having information processing capabilities to perform a partic
 
 “Copyright Tribunal” or “Tribunal” means the Copyright Tribunal established under Part VII;
 
+“digital audio transmission” means a transmission of a sound recording, in whole or in part, in a digital or other non-analogue form;
+
+[52/2004 wef 01/01/2005]
+
 “dramatic work” includes —
 
 (a) a choreographic show or other dumb show if described in writing in the form in which the show is to be presented; and
@@ -888,17 +984,29 @@ but does not include a cinematograph film as distinct from the scenario or scrip
 
 “educational institution” means —
 
-(a) a school or similar institution at which full-time primary education or full-time secondary education is provided or both full-time primary education and full-time secondary education are provided;
+(a) a school or similar institution at which one or more of the following is provided:
+
+(i) full-time primary education;
+
+(ii) full-time secondary education;
+
+(iii) full-time pre-university education;
+
+(iv) such other full-time education as may be prescribed by regulations made under this Act;
 
 (b) a junior college, a university, a college of advanced education or a technical and further education institution;
 
-(c) an institution that conducts courses of primary, secondary or tertiary education by correspondence or on an external study basis;
+(c) an institution that conducts courses of primary, secondary, pre-university or tertiary education by correspondence or on an external study basis;
 
-(d) a school of nursing that is declared by regulations made under this Act to be an institution to which this paragraph applies;
+(d) a school of nursing;
 
-(e) an undertaking within a hospital, being an undertaking that conducts courses of study or training in the provision of medical services, or in the provision of services incidental to the provision of medical services, that is declared by regulations made under this Act to be an institution to which this paragraph applies;
+(e) an undertaking within a hospital, being an undertaking that conducts courses of study or training in —
 
-(f) a teacher education centre that is declared by regulations made under this Act to be an institution to which this paragraph applies;
+(i) the provision of medical services; or
+
+(ii) the provision of services incidental to the provision of medical services;
+
+(f) a teacher education centre;
 
 (g) an institution that has, as its principal function, the provision of courses of study or training for the purpose of —
 
@@ -906,15 +1014,21 @@ but does not include a cinematograph film as distinct from the scenario or scrip
 
 (ii) the preparation of persons for a particular occupation or profession; or
 
-(iii) the continuing education of persons engaged in a particular occupation or profession,
+(iii) the continuing education of persons engaged in a particular occupation or profession;
 
-and that is declared by regulations made under this Act to be an institution to which this paragraph applies;
+(h) such other institution at which education is provided as may be declared by regulations made under this Act to be an institution to which this paragraph applies;
 
-(h) an undertaking within a body administering an educational institution of a kind referred to in paragraphs (a) to (g) of this definition, being an undertaking that has as its principal function, or as one of its principal functions, the provision of teacher training for persons engaged as instructors in educational institutions of such a kind, or of 2 or more such kinds and that is declared by regulations made under this Act to be an institution to which this paragraph applies;
+(i) an undertaking within a body administering an educational institution of a kind referred to in paragraphs (a) to (h), being an undertaking that has as its principal function, or as one of its principal functions, the provision of teacher training for persons engaged as instructors in educational institutions of such a kind, or of 2 or more such kinds;
 
-(i) an institution, or an undertaking within a body administering an educational institution of a kind referred to in paragraphs (a) to (h) of this definition, being an institution or undertaking that has as its principal function, or as one of its principal functions, the furnishing of materials to educational institutions of a kind referred to in paragraphs (a) to (h) of this definition, or to educational institutions of 2 or more such kinds, for the purpose of assisting those institutions in their teaching purposes and that is declared by regulations made under this Act to be an institution to which this paragraph applies,
+(j) an institution, or an undertaking within a body administering an educational institution of a kind referred to in paragraphs (a) to (i), being an institution or undertaking that has as its principal function, or as one of its principal functions, the furnishing of materials to educational institutions of a kind referred to in paragraphs (a) to (i), or to educational institutions of 2 or more such kinds, for the purpose of assisting those institutions in their teaching purposes,
 
 but does not include an institution that is conducted for the profit, direct or indirect, of an individual or individuals;
+
+[52/2004 wef 01/01/2005]
+
+“electronic copy”, in relation to any work or other subject-matter, means a copy of the work or subject-matter in an electronic form;
+
+[52/2004 wef 01/01/2005]
 
 “engraving” includes an etching, lithograph, product of photogravure, woodcut, print or similar work, not being a photograph;
 
@@ -994,13 +1108,25 @@ that has as its principal function, or one of its principal functions, the provi
 
 (b) in relation to a future copyright that is the subject of such an agreement, means the person in whom, by virtue of that section, the copyright will vest on its coming into existence;
 
+“receiving apparatus” means any device or equipment the operation of which, either alone or together with any other device or equipment, enables people to hear or see a work or other subject-matter that is communicated;
+
+[52/2004 wef 01/01/2005]
+
 “record” means a disc, tape, paper or other device in which sounds are embodied;
 
 “regulations” means the regulations made under this Act;
 
+“re-transmission”, in relation to a broadcast, means a re-transmission of the broadcast without altering the contents of the broadcast, whether the re-transmission is simultaneous with the original transmission or whether the technique that is used to achieve the re-transmission is different from that used to achieve the original transmission;
+
+[52/2004 wef 01/01/2005]
+
 “royalty”, in relation to a record, means the amount applicable in respect of the record under section 57(1) or, if that provision is affected by regulations made for the purposes of section 59, under that provision so affected;
 
 “sculpture” includes a cast or model made for purposes of sculpture;
+
+“simulcasting”, in relation to a work, an adaptation of a work, a sound recording or a cinematograph film, means simultaneously broadcasting the work, adaptation, recording or film in both analogue form and digital form;
+
+[52/2004 wef 01/01/2005]
 
 “sound broadcast” means sounds broadcast otherwise than as part of a television broadcast;
 
@@ -1068,11 +1194,23 @@ which is to be or has been conveyed by means of a telecommunication system;
 
 (2A) Without limiting the meaning of the expression “reasonable portion” in this Act, where a literary, dramatic or musical work is contained in a published edition of that work, being an edition which is stored on any medium by electronic means and is not divided into pages, a copy of part of that work, as it appears in that edition, shall be taken to contain only a reasonable portion of that work if the part that is copied in the edition —
 
-(a) does not exceed, in the aggregate, 10% of the total number of bytes in that edition; or
+(a) does not exceed, in the aggregate —
 
-(b) in a case where the work is divided into chapters, exceeds, in the aggregate, 10% of the total number of bytes in that edition but contains only the whole or part of a single chapter of the work.
+(i) 10% of the total number of bytes in that edition; or
 
-[38/99]
+(ii) 10% of the total number of words in that edition or, where it is not practicable to use the total number of words as a measure, 10% of the contents of that edition; or
+
+[52/2004 wef 01/01/2005]
+
+(b) in a case where the work is divided into chapters, exceeds, in the aggregate —
+
+(i) 10% of the total number of bytes in that edition; or
+
+(ii) 10% of the total number of words in that edition or, where it is not practicable to use the total number of words as a measure, 10% of the contents of that edition,
+
+but contains only the whole or part of a single chapter of the work.
+
+[52/2004 wef 01/01/2005]
 
 (3) In this Act, unless the contrary intention appears —
 
@@ -1240,7 +1378,11 @@ which, by reason of the selection or arrangement of its contents, constitutes an
 
 [38/99]
 
-(2) Subsections (1) and (1A)shall apply in relation to an adaptation of a work in like manner as it applies in relation to a work.
+(1B) Without limiting the meaning of the term “reproduced”, for the purposes of this Act, a literary, dramatic, musical or artistic work, including a reproduction of such work in the form of a sound recording or cinematographic film, is reproduced if it is converted into or from a digital or other electronic machine-readable form, and any article embodying the work or reproduction of the work in such a form is taken to be a reproduction of the work.
+
+[52/2004 wef 01/01/2005]
+
+(2) Subsections (1), (1A) and (1B) shall apply in relation to an adaptation of a work in like manner as it applies in relation to a work.
 
 [38/99]
 
@@ -1278,15 +1420,23 @@ and the version of the work so produced shall be deemed to be a reproduction of 
 
 (b) in the case of a television broadcast or sound broadcast made by the technique known as direct broadcasting by satellite, the visual images or sounds in question, or both, as the case may be, are transmitted to the satellite transponder.
 
-### Storage in computer or on any medium by electronic means
+(6) For the purposes of this Act, a communication other than a broadcast is taken to have been made by the person responsible for determining the content of the communication at the time the communication is made.
+
+[52/2004 wef 01/01/2005]
+
+### Storage in computer or on any other medium
 
 17\. References in this Act to the reduction of any work or of an adaptation of a work to a material form, or to the reproduction of any work or of an adaptation of a work in a material form, shall include references to the storage of that work or adaptation —
 
-(a) in a computer; or
+(a) in a computer;
 
-(b) on any medium by electronic means.
+(b) on any medium by electronic means; or
 
 [38/99]
+
+(c) on any other medium from which the work or adaptation, or a substantial part of the work or adaptation, can be directly reproduced.
+
+[52/2004 wef 01/01/2005]
 
 ### Sound recordings and records
 
@@ -1338,29 +1488,49 @@ shall, for the purposes of this Act, be deemed not to have used the record or co
 
 ### Performance
 
-22\.—(1) Subject to this section, a reference in this Act to performance shall —
+22\.—(1) Subject to this section, unless the context otherwise requires, a reference in this Act to “performance” shall —
 
-(a) be read as including a reference to any mode of visual or aural presentation, whether the presentation is by the operation of wireless telegraphy apparatus, by the exhibition of a cinematograph film, by the use of a record or by any other means; and
+(a) be read as including a reference to any mode of visual or aural presentation, whether the presentation is by the use of any receiving apparatus, by the exhibition of a cinematograph film, by the use of a record or by any other means; and
 
-(b) in relation to a lecture, address, speech or sermon, be read as including a reference to delivery,
+(b) in relation to a lecture, an address, a speech or a sermon, be read as including a reference to delivery,
 
 and a reference in this Act to performing a work or an adaptation of a work shall have a corresponding meaning.
 
-(2) For the purposes of this Act, broadcasting, or the causing of a work or other subject-matter to be included in a programme in a cable programme service, shall be deemed not to constitute performance or to constitute causing visual images to be seen or sounds to be heard.
+[52/2004 wef 01/01/2005]
 
-(3) Where visual images or sounds are displayed or emitted by any receiving apparatus to which they are conveyed by the transmission of electro-magnetic signals (whether over paths provided by a material substance or not), the operation of any apparatus by which the signals are transmitted, directly or indirectly, to the receiving apparatus shall be deemed not to constitute performance or to constitute causing visual images to be seen or sounds to be heard but, insofar as the display or emission of the images or sounds constitutes a performance, or causes the images to be seen or the sounds to be heard, the performance, or the causing of the images to be seen or sounds to be heard, as the case may be, shall be deemed to be effected by the operation of the receiving apparatus.
+(2) For the purpose of this Act, the communication of a work or other subject-matter to the public shall not —
 
-(4) Without prejudice to subsections (2) and (3), where a work or an adaptation of a work is performed or visual images are caused to be seen or sounds to be heard by the operation of any apparatus referred to in subsection (3) or of any apparatus for reproducing sounds by the use of a record, being apparatus provided by or with the consent of the occupier of the premises where the apparatus is situated, the occupier of those premises shall, for the purposes of this Act, be deemed to be the person giving the performance or causing the images to be seen or the sounds to be heard, whether he is the person operating the apparatus or not.
+(a) constitute a performance; or
 
-### Performance of works or other subject-matter by students, etc.
+(b) amount to causing visual images to be seen or sounds to be heard.
 
-23\.—(1) Where a musical work is performed by the studentsof an educational institution in the premises of the institution or elsewhere in the presence of an audience and is so performed in the course of the activities of the institution, the performance shall, for the purposes of this Act, be deemed not to be a performance in public.
+[52/2004 wef 01/01/2005]
 
-(2) Where a literary or dramatic work is performed by the students of an educational institution in the premises of the institution or elsewhere in the presence of an audience and is so performed in the course of the activities of the institution, the performance shall, for the purposes of this Act, be deemed not to be a performance in public if the audience is limited to persons who are taking part in the instruction or are otherwise directly connected with the place where the instruction is given.
+(3) For the purposes of this Act, where visual images are displayed or sounds are emitted by any receiving apparatus to which they are communicated, the operation of any device or equipment by which the images or sounds are communicated, directly or indirectly, to the receiving apparatus does not constitute a performance or amount to causing images to be seen or sounds to be heard but, insofar as the display of the images or emission of the sounds constitutes a performance, or causes the images to be seen or the sounds to be heard, the performance, or the causing of the images to be seen or sounds to be heard, as the case may be, shall be deemed to be effected by the operation of the receiving apparatus.
+
+[52/2004 wef 01/01/2005]
+
+(4) Without prejudice to subsections (2) and (3), where a work or an adaptation of a work is performed or visual images are caused to be seen or sounds to be heard by the operation of any device or equipment referred to in subsection (3) or of any device or equipment for reproducing sounds by the use of a record, being device or equipment provided by or with the consent of the occupier of the premises where the device or equipment is situated, the occupier of those premises shall, for the purposes of this Act, be deemed to be the person giving the performance or causing the images to be seen or the sounds to be heard, whether he is the person operating the device or equipment or not.
+
+### Performance of works or other subject-matter by students or staff of educational institution, etc.
+
+23\.—(1) Where a musical work is performed by the students or staff of an educational institution in the premises of the institution or elsewhere in the presence of an audience and is so performed in the course of the activities of the institution, the performance shall, for the purposes of this Act, be deemed not to be a performance in public.
+
+(2) Where a literary or dramatic work is performed by the students or staff of an educational institution in the premises of the institution or elsewhere in the presence of an audience and is so performed in the course of the activities of the institution, the performance shall, for the purposes of this Act, be deemed not to be a performance in public if the audience is limited to persons who are taking part in the instruction or are otherwise directly connected with the place where the instruction is given.
 
 (3) For the purposes of subsection (2), a person shall be deemed to be directly connected with a place where instruction is given if he is a parent, guardian, brother or sister of a student who receives instruction at that place.
 
-(4) Subsections (2) and (3) shall apply in relation to cinematograph films in like manner as they apply in relation to literary, dramatic and musical works but, in the application of those subsections in relation to such films, any reference to performance shall be read as a reference to the act of causing the sounds concerned to be heard or the visual images concerned to be seen.
+(4) Subsections (2) and (3) shall apply in relation to cinematograph films, broadcasts, cable programmes and recordings of performances in like manner as they apply in relation to literary and dramatic works but, in the application of those subsections in relation to such films, broadcasts, cable programmes or recordings, any reference to the performance of the work shall be read as a reference to the act of causing the sounds concerned to be heard or the visual images concerned to be seen.
+
+[52/2004 wef 01/01/2005]
+
+(5) For the purposes of this section, the staff of an educational institution shall include —
+
+(a) any adjunct staff of the educational institution; and
+
+(b) any person engaged by the educational institution to conduct any course of instruction, activity or programme of or offered by the educational institution.
+
+[52/2004 wef 01/01/2005]
 
 ### Publication
 
@@ -1480,9 +1650,9 @@ Nature, Duration and Ownership of Copyright in Works
 
 (iii) to perform the work in public;
 
-(iv) to broadcast the work;
+(iv) to communicate the work to the public;
 
-(v) to include the work in a cable programme;
+[52/2004 wef 01/01/2005]
 
 (vi) to make an adaptation of the work;
 
@@ -1494,9 +1664,9 @@ Nature, Duration and Ownership of Copyright in Works
 
 (ii) to publish the work in Singapore or any country in relation to which this Act applies, if the work is unpublished;
 
-(iii) to include the work in a television broadcast;
+(iii) to communicate the work to the public; and
 
-(iv) to include the work in a cable programme; and
+[52/2004 wef 01/01/2005]
 
 (c) in the case of a computer program, to enter into a commercial rental arrangement in respect of the program unless the program is not the essential object of the rental.
 
@@ -1666,27 +1836,37 @@ Division 3 —
 
 Acts not Constituting Infringements of Copyright Works
 
-### Fair dealing for purpose of research or study
+### Fair dealing in relation to works
 
-35\.—(1) A fair dealing with a literary, dramatic, musical or artistic work, or with an adaptation of a literary, dramatic or musical work, for the purpose of research or private study shall not constitute an infringement of the copyright in the work.
+35\.—(1) Subject to this section, a fair dealing with a literary, dramatic, musical or artistic work, or with an adaptation of a literary, dramatic or musical work, for any purpose other than a purpose referred to in section 36 or 37 shall not constitute an infringement of the copyright in the work.
 
-(2) For the purposes of this Act, the matters to which regard shall be had, in determining whether a dealing with a literary, dramatic, musical or artistic work or with an adaptation of a literary, dramatic or musical work, being a dealing by way of copying the whole or a part of the work or adaptation, constitutes a fair dealing with the work or adaptation for the purpose of research or private study shall include —
+[52/2004 wef 01/01/2005]
+
+(1A) The purposes for which a dealing with a literary, dramatic, musical or artistic work, or with an adaptation of a literary, dramatic or musical work, may constitute a fair dealing under subsection (1) shall include research and study.
+
+[52/2004 wef 01/01/2005]
+
+(2) For the purposes of this Act, the matters to which regard shall be had, in determining whether a dealing with a literary, dramatic, musical or artistic work or with an adaptation of a literary, dramatic or musical work, being a dealing by way of copying the whole or a part of the work or adaptation, constitutes a fair dealing with the work or adaptation for any purpose other than a purpose referred to in section 36 or 37 shall include —
 
 (a) the purpose and character of the dealing, including whether such dealing is of a commercial nature or is for non-profit educational purposes;
 
 (b) the nature of the work or adaptation;
 
-(c) the amount and substantiality of the part copied taken in relation to the whole work or adaptation; and
+(c) the amount and substantiality of the part copied taken in relation to the whole work or adaptation;
 
-(d) the effect of the dealing upon the potential market for, or value of, the work or adaptation.
+(d) the effect of the dealing upon the potential market for, or value of, the work or adaptation; and
 
-(3) Notwithstanding subsection (2), a dealing with a literary, dramatic or musical work, or with an adaptation of such a work, being a dealing by way of the copying, for the purposes of research or private study —
+(e) the possibility of obtaining the work or adaptation within a reasonable time at an ordinary commercial price.
+
+[52/2004 wef 01/01/2005]
+
+(3) Notwithstanding subsection (2), a dealing with a literary, dramatic or musical work, or with an adaptation of such a work, being a dealing by way of the copying, for the purposes of research or study —
 
 (a) if the work or adaptation comprises an article in a periodical publication, of the whole or a part of that work or adaptation; or
 
 (b) in any other case, of not more than a reasonable portion of the work or adaptation,
 
-shall be taken to be a fair dealing with that work or adaptation for the purpose of research or private study.
+shall be taken to be a fair dealing with that work or adaptation for the purpose of research or study.
 
 (4) Subsection (3) shall not apply to a dealing by way of the copying of the whole or a part of an article in a periodical publication if another article in that publication, being an article dealing with a different subject-matter, is also copied.
 
@@ -1714,6 +1894,14 @@ shall be taken to be a fair dealing with that work or adaptation for the purpose
 
 (c) for the purpose of, or in the course of, the giving of professional advice by an advocate and solicitor.
 
+### Temporary reproduction made in the course of communication
+
+38A\.—(1) Subject to subsection (2), the copyright in a work, or an adaptation of a work, is not infringed by the making of a temporary, incidental or transient reproduction of the work or adaptation as part of the technical process of making or receiving a communication.
+
+(2) Subsection (1) shall not apply to the making of a temporary, incidental or transient reproduction of a work, or an adaptation of a work, as part of the technical process of making a communication if the making of the communication itself constitutes an infringement of copyright.
+
+[52/2004 wef 01/01/2005]
+
 ### Back-up copy of computer program, etc.
 
 39\.—(1) Subject to subsection (2), the copyright in a literary work being a computer program is not infringed by the making of a reproduction of the work, or of a computer program being an adaptation of the work, if —
@@ -1737,6 +1925,72 @@ shall be taken to be a fair dealing with that work or adaptation for the purpose
 (5) For the purposes of this section, a reference to a copy of a computer program or compilation or of an adaptation of a computer program or compilation is a reference to any article in which the computer program, compilation or adaptation is reproduced in a material form.
 
 [38/99]
+
+### Decompilation
+
+39A\.—(1) Subject to subsection (2), the copyright in a literary work, being a computer program expressed in a low level language, is not infringed by a lawful user of the computer program decompiling it if —
+
+(a) it is necessary to decompile the computer program to achieve the objective of obtaining the information necessary to create an independent computer program which can be operated with the computer program decompiled or with another computer program (referred to in this section as the permitted objective); and
+
+(b) the information so obtained is not used for any purpose other than the permitted objective.
+
+(2) Subsection (1) shall not apply if the lawful user —
+
+(a) has readily available to him the information necessary to achieve the permitted objective;
+
+(b) does not confine the decompiling to such acts as are necessary to achieve the permitted objective;
+
+(c) supplies the information obtained by the decompiling to any person to whom it is not necessary to supply the information in order to achieve the permitted objective; or
+
+(d) uses the information —
+
+(i) to create a computer program which is substantially similar in its expression to the computer program decompiled; or
+
+(ii) to do any act restricted by copyright.
+
+(3) Where an act is permitted under this section —
+
+(a) it shall be irrelevant whether or not there exists any term or condition in an agreement which purports to prohibit or restrict the act; and
+
+(b) any such term or condition shall, in so far as it purports to prohibit or restrict the act, be void.
+
+(4) For the avoidance of doubt, this section is without prejudice to the generality of section 35 and does not limit the operation of that section.
+
+(5) For the purposes of this section and sections 39B and 39C, a person is a lawful user of a computer program if he has a right to use the computer program, whether under a licence to do any act restricted by the copyright in the computer program or otherwise.
+
+(6) In this section, “decompiling”, in relation to a computer program expressed in a low level language, means —
+
+(a) converting the computer program into a version expressed in a higher level language; or
+
+(b) incidentally in the course of so converting the computer program, copying the computer program,
+
+and “decompile” shall be construed accordingly.
+
+[52/2004 wef 01/01/2005]
+
+### Observing, studying and testing of computer programs
+
+39B\.—(1) The copyright in a literary work, being a computer program, is not infringed by a lawful user of the computer program observing, studying or testing the functioning of the computer program in order to determine the ideas and principles which underlie any element of the computer program, if he does so while performing any of the acts of loading, displaying, running, transmitting or storing the computer program which he is entitled to do.
+
+(2) Where an act is permitted under this section —
+
+(a) it shall be irrelevant whether or not there exists any term or condition in an agreement which purports to prohibit or restrict the act; and
+
+(b) any such term or condition shall, in so far as it purports to prohibit or restrict the act, be void.
+
+(3) For the avoidance of doubt, this section is without prejudice to the generality of section 35 and does not limit the operation of that section.
+
+[52/2004 wef 01/01/2005]
+
+### Other acts permitted to lawful users
+
+39C\.—(1) Subject to subsection (3), the copyright in a literary work, being a computer program, is not infringed by a lawful user of the computer program copying or adapting the computer program, if such copying or adapting is necessary for his lawful use.
+
+(2) For the avoidance of doubt, it may be necessary for the lawful use of a computer program to copy or adapt the computer program for the purpose of correcting errors in the computer program.
+
+(3) Subsection (1) shall not apply to any copying or adapting permitted under section 39 or 39A.
+
+[52/2004 wef 01/01/2005]
 
 ### Inclusion of works in collections for use by educational institutions
 
@@ -1768,9 +2022,9 @@ Division 4 —
 
 Acts not Constituting Infringements of Copyright in Literary, Dramatic and Musical Works
 
-### Reading or recitation in public or for a broadcast
+### Reading or recitation in public or for a communication
 
-41\. The reading or recitation in public, or the inclusion in a sound broadcast or television broadcast or a cable programme of a reading or recitation, of an extract of reasonable length from a published literary or dramatic work, or from an adaptation of such a work, shall not constitute an infringement of the copyright in the work if a sufficient acknowledgment of the work is made.
+41\. The reading or recitation in public, or the inclusion in a communication of a reading or recitation, of an extract of reasonable length from a published literary or dramatic work, or from an adaptation of such a work, shall not constitute an infringement of the copyright in the work if a sufficient acknowledgment of the work is made.
 
 ### Religious performances
 
@@ -1802,6 +2056,26 @@ Acts not Constituting Infringements of Copyright in Literary, Dramatic and Music
 
 [6/98]
 
+### Reproduction for purpose of simulcasting
+
+43A\.—(1) Subject to subsections (2) and (3), where the broadcasting by a person of a literary, dramatic or musical work, or of an adaptation of such a work, would not for any reason constitute an infringement of the copyright in the work, but the making by the person of a sound recording or a cinematograph film of the work or adaptation would, apart from this subsection, constitute such an infringement, the copyright in the work is not infringed by the person making the recording or film solely for the purpose of simulcasting the work or adaptation in digital form.
+
+(2) Subsection (1) shall not apply in relation to the making of a recording or film if a record embodying the recording or a copy of the film is used for a purpose other than ––
+
+(a) the simulcasting of the work or adaptation in circumstances that do not for any reason constitute an infringement of the copyright in the work; or
+
+(b) the making of —
+
+(i) further records embodying the recording; or
+
+(ii) further copies of the film,
+
+for the purpose of simulcasting the work or adaptation in such circumstances.
+
+(3) Subsection (1) shall not apply in relation to the making of a recording or film unless all the records embodying the recording or all the copies of the film made under that subsection are destroyed before the expiration of the prescribed period.
+
+[52/2004 wef 01/01/2005]
+
 Division 5 —
 
 Copying of Works in Libraries
@@ -1820,7 +2094,7 @@ Copying of Works in Libraries
 
 (b) a declaration signed by him stating —
 
-(i) that he requires the copy for the purpose of research or private study and will not use it for any other purpose; and
+(i) that he requires the copy for the purpose of research or study and will not use it for any other purpose; and
 
 (ii) that he has not previously been supplied with a copy of that article or other work, or the same part of the article or other work, as the case may be, by an authorised officer of the library or archives, or that he has lost, destroyed or damaged any such copy previously supplied to him.
 
@@ -1842,7 +2116,33 @@ Copying of Works in Libraries
 
 (7) The copyright in a published literary, dramatic or musical work other than an article contained in a periodical publication is not infringed by the making, in relation to a request under subsection (1), of a copy of the work, or of a part of the work, in accordance with subsection (2) unless the copy is supplied to a person other than the person who made the request.
 
+(7A) If an article contained in a periodical publication or a published work (other than an article contained in a periodical publication) is acquired, in electronic form, as part of the collection of a library or archives, the copyright in the article or published work is not infringed by the officer-in-charge of the library or archives making it available online within the premises of the library or archives in such a manner that users cannot, by using any equipment supplied by the library or archives ––
+
+(a) make an electronic copy of the article or work; or
+
+(b) communicate the article or work.
+
+[52/2004 wef 01/01/2005]
+
 (8) The regulations may exclude the application of subsection (6) or (7) in such cases as are specified in the regulations.
+
+(9) Subsections (6) and (7) shall not apply to the making, in accordance with subsection (2), of an electronic copy of ––
+
+(a) an article, or a part of an article, contained in a periodical publication; or
+
+(b) the whole or part of a published work, other than such an article,
+
+in relation to a request under this section for communication to the person who made the request, unless ––
+
+(i) before or when the electronic copy is communicated to the person, a notice is given to the person in accordance with the regulations stating —
+
+(A) that the electronic copy has been made under this section and that the article or work might be subject to copyright protection under this Act; and
+
+(B) such other matters as may be prescribed; and
+
+(ii) as soon as practicable after the electronic copy is communicated to the person, the electronic copy made in accordance with subsection (2) and held by the library or archives is destroyed.
+
+[52/2004 wef 01/01/2005]
 
 ### Copying by libraries or archives for other libraries or archives
 
@@ -1874,7 +2174,7 @@ Copying of Works in Libraries
 
 (8) In this section, a reference to a library shall be read as a reference to a library other than a library that is conducted for the profit, direct or indirect, of an individual or individuals, and as including a reference to archives.
 
-### Copying of unpublished works in libraries or archives
+### Copying or communication of unpublished works in libraries or archives
 
 47\.—(1) Where, at a time more than 50 years after the expiration of the calendar year in which the author of a literary, dramatic or musical work, or of an artistic work being a photograph or engraving, died, and more than 75 years after the time at which, or the expiration of the period during which, the work was made, copyright subsists in the work but —
 
@@ -1884,15 +2184,17 @@ Copying of Works in Libraries
 
 the copyright in the work is not infringed —
 
-(i) by the making of a copy of the work by a person for the purpose of research or private study or with a view to publication; or
+(i) by the making of a copy, or the communication, of the work by a person for the purpose of research or study or with a view to publication; or
 
-(ii) by the making of a copy of the work by, or on behalf of, the officer-in-charge of that library or archives if the copy is supplied to a person who satisfies the officer-in-charge of that library or archives that he requires the copy for the purpose of research or private study or with a view to publication and that he will not use it for any other purpose.
+[52/2004 wef 01/01/2005]
 
-[38/99]
+(ii) by the making of a copy, or the communication, of the work by or on behalf of the officer-in-charge of that library or archives, if the copy or work is supplied (whether by communication or otherwise) to a person who satisfies the officer-in-charge of that library or archives that he requires the copy or work for the purpose of research or study or with a view to publication and that he will not use it for any other purpose.
 
-(2) Where the original version, or a copy, of a thesis or other similar literary work that has not been published is kept in a library of a university or other similar institution or in an archives, the copyright in the thesis or other work is not infringed by the making of a copy of the thesis or other work by or on behalf of the officer-in-charge of the library or archives if the copy is supplied to a person who satisfies an authorised officer of the library or archives that he requires the copy for the purpose of research or private study.
+[52/2004 wef 01/01/2005]
 
-[38/99]
+(2) Where the original version, or a copy, of a thesis or other similar literary work that has not been published is kept in a library of a university or other similar institution or in archives, the copyright in the thesis or other work is not infringed by the making of a copy, or the communication, of the thesis or other work by or on behalf of the officer-in-charge of the library or archives, if the copy, thesis or other work is supplied (whether by communication or otherwise) to a person who satisfies an authorised officer of the library or archives that he requires the copy, thesis or other work for the purpose of research or study.
+
+[52/2004 wef 01/01/2005]
 
 ### Copying of works for preservation and other purposes
 
@@ -1982,17 +2284,21 @@ and includes, in relation to a work held in electronic form, any copying by elec
 
 [6/98]
 
-### Multiple copying of insubstantial portions of works
+### Multiple copying or communication of insubstantial portions of works
 
 51\.—(1) Copyright in a literary or dramatic work is not infringed by the making of one or more copies of a part of the work in an edition of the work by any person if the copying is carried out on the premises of an educational institution for the purposes of a course of education provided by the institution.
 
 [38/99]
 
-(2) Subsection (1) does not apply to the making of a copy of the whole of a work.
+(1A) Copyright in a literary or dramatic work is not infringed by the communication of a part of the work in an edition of the work by any person if the communication is initiated from the premises of an educational institution for the purposes of a course of education provided by the institution.
+
+[52/2004 wef 01/01/2005]
+
+(2) Subsection (1) does not apply to the making of a copy of, and subsection (1A) does not apply to the communication of, the whole of a work.
 
 [38/99]
 
-(3) Subsection (1) does not apply to the making of a copy of more than 5 of the pages of a work in an edition of the work unless —
+(3) Subsection (1) does not apply to the making of a copy of, and subsection (1A) does not apply to the communication of, more than 5 of the pages of a work in an edition of the work unless —
 
 (a) there are more than 500 pages in the edition; and
 
@@ -2000,9 +2306,13 @@ and includes, in relation to a work held in electronic form, any copying by elec
 
 [38/99]
 
-(4) Subsection (1) does not apply to the making of a copy of a part of a work in an edition of the work, being an edition stored on any medium by electronic means and not divided into pages, if the part copied exceeds, in the aggregate, 5% of the total number of bytes in the edition.
+(4) Subsection (1) does not apply to the making of a copy, and subsection (1A) does not apply to the communication, of a part of a work in an edition of the work, being an edition stored on any medium by electronic means and not divided into pages, if the part copied or communicated exceeds, in the aggregate —
 
-[38/99]
+(a) 5% of the total number of bytes in the edition; and
+
+(b) 5% of the total number of words in that edition or, where it is not practicable to use the total number of words as a measure, 5% of the contents of the edition.
+
+[52/2004 wef 01/01/2005]
 
 (5) Where —
 
@@ -2014,6 +2324,16 @@ that subsection does not apply to the making, by or on behalf of that person, of
 
 [38/99]
 
+(5A) Where —
+
+(a) a person communicates or causes to be communicated a part of a work; and
+
+(b) subsection (1A) applies to that communication,
+
+that subsection does not apply to the communication, by or on behalf of that person, of any other part of that work within 14 days after the day on which the previous communication was made.
+
+[52/2004 wef 01/01/2005]
+
 (6) In this section —
 
 (a) a reference to an edition of a work includes a reference to an edition of works that include that work; and
@@ -2022,13 +2342,13 @@ that subsection does not apply to the making, by or on behalf of that person, of
 
 [38/99]
 
-### Multiple copying under statutory licence by educational institutions
+### Multiple copying or communication under statutory licence by educational institutions
 
-52\.—(1) Subject to this section, the copyright in an article contained in a periodical publication is not infringed by the making of copiesof the whole or a part of that article, by or on behalf of the body administering an educational institution for the educational purposes of that or another educational institution.
+52\.—(1) Subject to this section, the copyright in an article contained in a periodical publication is not infringed by the making of copies, or the communication, of the whole or a part of that article, by or on behalf of the body administering an educational institution for the educational purposes of that or another educational institution.
 
 [6/98]
 
-(2) Subject to this section, the copyright in a work, other than an article in a periodical publication, is not infringed by the making of copies of the whole or a part of that work, by or on behalf of the body administering an educational institution for the educational purposes of that or another educational institution.
+(2) Subject to this section, the copyright in a work, other than an article in a periodical publication, is not infringed by the making of copies , or the communication, of the whole or a part of that work, by or on behalf of the body administering an educational institution for the educational purposes of that or another educational institution.
 
 [6/98]
 
@@ -2046,13 +2366,29 @@ that subsection does not apply to the making, by or on behalf of that person, of
 
 [6/98]
 
+(7A) Subsection (1) shall not apply in relation to the communication of, or of parts of, 2 or more articles contained in the same periodical publication, unless the articles relate to the same subject-matter.
+
+[52/2004 wef 01/01/2005]
+
+(7B) Subsection (2) shall not apply in relation to the communication of, or of more than a reasonable portion of, a work that has been separately published, unless the person who communicates the work or portion, or causes the work or portion to be communicated, for or on behalf of the body administering the educational institution, is satisfied, after reasonable investigation, that copies (not being secondhand copies) of the work cannot be obtained within a reasonable time at an ordinary commercial price.
+
+[52/2004 wef 01/01/2005]
+
+(7C) Subsection (1) shall not apply to the communication of the whole or a part of an article contained in a periodical publication by or on behalf of the body administering an educational institution, for the educational purposes of an educational institution, unless there is made, by or on behalf of that body, as soon as practicable after the communication, a record of the communication setting out such particulars as may be prescribed by the regulations.
+
+[52/2004 wef 01/01/2005]
+
+(7D) Subsection (2) shall not apply to the communication of the whole or a part of a work (not being an article contained in a periodical publication) by or on behalf of the body administering an educational institution, for the educational purposes of an educational institution, unless there is made, by or on behalf of that body, as soon as practicable after the communication, a record of the communication setting out such particulars as may be prescribed by the regulations.
+
+[52/2004 wef 01/01/2005]
+
 (8) For the purposes of subsections (6) and (7), a record of the copying of a work or a part of a work —
 
 (a) shall be kept in writing or in any other manner prescribed by the regulations; and
 
 (b) if it is kept in writing, shall be in accordance with the prescribed form.
 
-(9) Where copies of, or of part of, a work, other than an article in a periodical publication, made as provided in subsection (2) by or on behalf of an educational institution for the educational purposes of an educational institution —
+(9) Where copies of, or of part of, a work, other than an article in a periodical publication, made as provided in subsection (2) by or on behalf of the body administering an educational institution for the educational purposes of an educational institution —
 
 (a) are made for distribution to persons undertaking a correspondence course, or an external study course, provided by the educational institution for the educational purposes of which those copies are made, otherwise than as a part of the lecture notes prepared in connection with that course; and
 
@@ -2068,13 +2404,61 @@ the record made in relation to them in accordance with subsection (7) may state 
 
 (11) Where copies of the whole or a part of a work, not being copies stated in the record to be copies to which subsection (9) or (10) applies, are made by or on behalf of the body administering an educational institution and, by virtue of this section, the making of those copies does not infringe copyright in the work, that body shall, if the owner of the copyright in the work makes a request, in writing, at any time during the prescribed period after the making of the copies, for payment for the making of the copies, pay to the owner such an amount by way of equitable remuneration for the making of those copies as is agreed upon between the owner and the body or, in default of agreement, as is determined by the Copyright Tribunal on the application of either the owner or the body.
 
-(12) Where the Copyright Tribunal has determined the amount of equitable remuneration payable to the owner of copyright in a work by the body administering an educational institution in relation to copies of the whole or a part of that work that have been made by or on behalf of that body in reliance on this section, the owner may recover that amount from the body in a court of competent jurisdiction as a debt due to him.
+(11A) Where —
 
-(13) Nothing in this section shall affect the right of the owner of copyright in a work to grant a licence authorising the body administering an educational institution to make, or cause to be made, copies of the whole or a part of the work without infringement of that copyright.
+(a) the whole or a part of a work, other than an article in a periodical publication, is communicated as provided in subsection (2) —
+
+(i) by or on behalf of the body administering an educational institution for the educational purposes of an educational institution; and
+
+(ii) to persons undertaking a correspondence course, or an external study course, provided by the educational institution, otherwise than as a part of the lecture notes prepared in connection with that course; and
+
+(b) the communication does not contain more than a reasonable portion of the work,
+
+the record made in relation to the communication in accordance with subsection (7D) may state that it is a communication to which this subsection applies.
+
+[52/2004 wef 01/01/2005]
+
+(11B) Where the whole or a part of a work consisting of an article in a periodical publication is communicated as provided in subsection (1) —
+
+(a) by or on behalf of the body administering an educational institution for the educational purposes of an educational institution; and
+
+(b) to persons undertaking a correspondence course, or an external study course, provided by the educational institution, otherwise than as a part of the lecture notes prepared in connection with that course,
+
+the record made in relation to the communication in accordance with subsection (7C) may state that it is a communication to which this subsection applies.
+
+[52/2004 wef 01/01/2005]
+
+(11C) Where —
+
+(a) the whole or a part of a work is communicated by or on behalf of the body administering an educational institution;
+
+(b) the communication is not a communication to which subsection (11A) or (11B) applies; and
+
+(c) by virtue of this section, the communication does not infringe copyright in the work,
+
+that body shall, if the owner of the copyright in the work makes a request in writing, at any time during the prescribed period after the communication, for payment for the communication, pay to the owner such an amount by way of equitable remuneration for the communication as is agreed upon between the owner and the body or, in default of agreement, as is determined by the Copyright Tribunal on the application of either the owner or the body.
+
+[52/2004 wef 01/01/2005]
+
+(12) Where the Copyright Tribunal has determined the amount of equitable remuneration payable to the owner of copyright in a work by the body administering an educational institution in relation to copies of the whole or a part of that work that have been made, or the communication of the whole or a part of that work, by or on behalf of that body in reliance on this section, the owner may recover that amount from the body in a court of competent jurisdiction as a debt due to him.
+
+(13) Nothing in this section shall affect the right of the owner of copyright in a work to grant a licence authorising the body administering an educational institution —
+
+(a) to make, or cause to be made, copies of the whole or a part of the work; or
+
+(b) to communicate, or cause to be communicated, the whole or a part of the work,
+
+without infringement of that copyright.
+
+[52/2004 wef 01/01/2005]
 
 (14) For the purposes of this section, a reference to the making of copies of the whole or a part of an article contained in a periodical publication, or of a work, for the educational purposes of an educational institution includes the making of a copy of the whole of the article or work, or that part of the article or work, in an electronic form on a network operated or controlled by that or another educational institution to enable persons undertaking a course of education provided by that or another educational institution to access the article or work, or that part of the article or work.
 
 [38/99]
+
+(15) For the purposes of this section, a reference to the communication of the whole or a part of an article contained in a periodical publication, or of a work, for the educational purposes of an educational institution includes the communication of the whole of the article or work, or that part of the article or work, in an electronic form on a network operated or controlled by that or another educational institution to enable persons undertaking a course of education provided by that or another educational institution to access the article or work, or that part of the article or work.
+
+[52/2004 wef 01/01/2005]
 
 ### Things done for purposes of examination
 
@@ -2102,9 +2486,9 @@ Copying of Works in Institutions Assisting Handicapped Readers and Institutions 
 
 ### Multiple copying under statutory licence by institutions assisting handicapped readers
 
-54\.—(1) The copyright in a literary or dramatic work that has been published is not infringed by the making, by or on behalf of the body administering an institution assisting handicapped readers, of a record embodying a sound recording of the work or of a part of the work, for use by a handicapped reader for the purpose of research or private study that he is undertaking or proposes to undertake, or for the purpose of otherwise instructing himself on any matter.
+54\.—(1) The copyright in a literary or dramatic work that has been published is not infringed by the making, by or on behalf of the body administering an institution assisting handicapped readers, of a record embodying a sound recording of the work or of a part of the work, for use by a handicapped reader for the purpose of research or study that he is undertaking or proposes to undertake, or for the purpose of otherwise instructing himself on any matter.
 
-(2) The copyright in a literary or dramatic work that has been published is not infringed by the making, by or on behalf of the body administering an institution assisting handicapped readers, of a Braille version, a large-print version or a photographic version, of the work or of a part of the work, for use by a handicapped reader for the purpose of research or private study that he is undertaking or proposes to undertake, or for the purpose of otherwise instructing himself on any matter.
+(2) The copyright in a literary or dramatic work that has been published is not infringed by the making, by or on behalf of the body administering an institution assisting handicapped readers, of a Braille version, a large-print version or a photographic version, of the work or of a part of the work, for use by a handicapped reader for the purpose of research or study that he is undertaking or proposes to undertake, or for the purpose of otherwise instructing himself on any matter.
 
 (3) Where a sound recording of a work has been published, subsection (1) shall not apply to the making of any record embodying a sound recording of the work (including a record that is a copy of that first-mentioned sound recording) for or on behalf of the body administering an institution assisting handicapped readers unless the person who makes that record, or causes that record to be made, is satisfied, after reasonable investigation, that no new record that embodies only a sound recording of the work can be obtained within a reasonable time at an ordinary commercial price.
 
@@ -2542,13 +2926,23 @@ Preliminary
 
 ### Interpretation of this Part
 
-81\.—(1) In this Part, “qualified person” means —
+81\.—(1) In this Part —
+
+“interactive service” means a service that enables an individual to receive —
+
+(a) a transmission of a programme specially created for that individual; or
+
+(b) on request, a transmission of a particular sound recording, whether or not as part of a programme, which is selected by or on behalf of that individual,
+
+but does not include any service that enables an individual to request that particular sound recording be performed for reception by the public at large or, in the case of a subscription service, by all subscribers of that service, unless the programming on each channel of that service consists substantially of sound recordings that are performed within an hour of the request or at a time designated by that individual;
+
+“qualified person” means —
 
 (a) a citizen of Singapore, or an individual resident in Singapore; or
 
 (b) a body corporate incorporated under any written law in Singapore.
 
-[38/99]
+[52/2004 wef 01/01/2005]
 
 (2) In this Part, a reference to the reproduction or making of a copy of any subject-matter includes a reference to the making of a copy which is transient or is incidental to some other use of the subject-matter.
 
@@ -2564,9 +2958,17 @@ Nature of Copyright in Subject-matter other than Works
 
 (a) to make a copy of the sound recording;
 
-(b) to enter into a commercial rental arrangement in respect of the recording
+(b) to enter into a commercial rental arrangement in respect of the recording ;
 
 [6/98]
+
+(c) to publish the sound recording if it is unpublished;
+
+[52/2004 wef 01/01/2005]
+
+(d) to make available to the public a sound recording by means of, or as part of, a digital audio transmission.
+
+[52/2004 wef 01/01/2005]
 
 (2) Subsection (1)(b) shall not extend to entry into a commercial rental arrangement in respect of a sound recording if —
 
@@ -2578,6 +2980,10 @@ Nature of Copyright in Subject-matter other than Works
 
 [6/98]
 
+(3) For the avoidance of doubt, “make available” for the purposes of this Part does not include the causing of a sound recording to be heard, otherwise than by means of or as part of a digital audio transmission.
+
+[52/2004 wef 01/01/2005]
+
 ### Nature of copyright in cinematograph films
 
 83\. For the purposes of this Act, unless the contrary intention appears, copyright, in relation to a cinematograph film, is the exclusive right to do all or any of the following acts:
@@ -2586,9 +2992,9 @@ Nature of Copyright in Subject-matter other than Works
 
 (b) to cause the film, insofar as it consists of visual images, to be seen in public;
 
-(c) to broadcast the film;
+(c) to communicate the film to the public.
 
-(d) to include the film in a cable programme.
+[52/2004 wef 01/01/2005]
 
 ### Nature of copyright in television broadcasts and sound broadcasts
 
@@ -2600,7 +3006,7 @@ Nature of Copyright in Subject-matter other than Works
 
 (c) in the case of a television broadcast — to cause it, insofar as it consists of visual images, to be seen in public, or, insofar as it consists of sounds, to be heard in public, if it is seen or heard by a paying audience; and
 
-(d) in the case of a television broadcast or a sound broadcast — to re-broadcast it or to include it in a cable programme.
+(d) in the case of a television broadcast or a sound broadcast — to re-broadcast it or to otherwise communicate it to the public.
 
 (2) For the purposes of subsection (1)(c), a television broadcast shall be taken to be seen or heard by a paying audience if it is seen or heard by persons who either —
 
@@ -2624,7 +3030,9 @@ Nature of Copyright in Subject-matter other than Works
 
 (c) to cause it, insofar as it consists of visual images, to be seen in public, or, insofar as it consists of sounds, to be heard in public, if it is seen or heard by a paying audience;
 
-(d) to broadcast it or to include it in a cable programme service.
+(d) to communicate it to the public.
+
+[52/2004 wef 01/01/2005]
 
 (2) Subsection (1) shall apply whether the act in question is done by the reception of the programme or by making use of any record, print, negative, tape or other article on which the programme has been recorded.
 
@@ -2824,6 +3232,18 @@ where he knows, or ought reasonably to know, that the making of the article cons
 
 shall be taken to be the sale of those articles.
 
+### Infringing copies made on machines installed in libraries and archives
+
+105A\. Where —
+
+(a) a person makes an infringing copy of, or of part of, an audio-visual item on a machine (including a computer), being a machine installed by or with the approval of the body administering any library or archives on the premises of the library or archives, or outside those premises for the convenience of persons using the library or archives; and
+
+(b) there is affixed to, or in close proximity to, the machine, in a place readily visible to persons using the machine, a notice of the prescribed dimensions and in accordance with the prescribed form,
+
+neither the body administering the library or archives, nor the officer-in-charge of the library or archives, shall be taken to have authorised the making of the infringing copy by reason only that the copy was made on that machine.
+
+[52/2004 wef 01/01/2005]
+
 ### Acts done for purposes of judicial proceeding
 
 106\. A copyright subsisting by virtue of this Part is not infringed by anything done —
@@ -2848,6 +3268,16 @@ shall be taken to be the sale of those articles.
 
 [6/98]
 
+(2A) Notwithstanding subsections (1) and (2), where a sound recording is intended for broadcast or is broadcast, the copyright in the sound recording is not infringed by —
+
+(a) the making of a copy of the sound recording for, or the supply of a copy of the sound recording to, any statutory authority; or
+
+(b) the use of a copy of the sound recording by that statutory authority or any of its authorised officers,
+
+for the purpose of ascertaining whether the intended broadcast complies with, or the broadcast contravenes, the provisions of any written law administered by that statutory authority.
+
+[52/2004 wef 01/01/2005]
+
 (3) Subsection (1) shall not apply in relation to a copy of a sound recording where the copy is used for the purpose of the broadcasting by a person who is not the maker of the copy unless the maker has paid to the owner of the copyright in the recording such amount as they agree or, in default of agreement, has given an undertaking in writing to the owner to pay to him such amount as is determined by the Copyright Tribunal, on the application of either of them, to be equitable remuneration to the owner for the making of the copy.
 
 [6/98]
@@ -2864,15 +3294,87 @@ shall be taken to be the sale of those articles.
 
 [6/98]
 
+### Making of copy of sound recording or cinematograph film for purpose of simulcasting
+
+107A\.—(1) Where the broadcasting of a sound recording or a cinematograph film would not for any reason constitute an infringement of the copyright in the recording or film, but the making of a copy of the recording or film would, apart from this section, constitute an infringement of the copyright, the copyright is not infringed by the making of a copy of the recording or film if the copy is made solely for the purpose of simulcasting the recording or film in digital form.
+
+(2) Subsection (1) shall not apply in relation to a copy of a recording or film if the copy is used for a purpose other than —
+
+(a) the simulcasting of the recording or film in circumstances that do not for any reason constitute an infringement of the copyright in the recording or film; or
+
+(b) the making of further copies of the recording or film for the purpose of simulcasting the recording or film in such circumstances.
+
+(3) Subsection (1) shall not apply in relation to a copy of a recording or film unless all copies of the recording or film made under that subsection are destroyed before the expiration of the prescribed period.
+
+[52/2004 wef 01/01/2005]
+
+### Non-subscription digital audio transmissions
+
+107B\. Without prejudice to the generality of section 82(3), it is not an infringement of a copyright in a sound recording to make available to the public the sound recording ––
+
+(a) by means of or as part of an exempt transmission, being a digital audio transmission of a sound broadcast where the transmission —
+
+(i) is not part of an interactive service; and
+
+(ii) is not a subscription transmission; or
+
+(b) by re-transmitting or simultaneously transmitting, by means of or as part of a digital audio transmission, an exempt transmission of a sound recording where the re-transmission or simultaneous transmission is obtained directly from the exempt transmission.
+
+[52/2004 wef 01/01/2005]
+
+### Digital audio transmissions within business establishment
+
+107C\.—(1) It is not an infringement of a copyright in a sound recording to make available to the public the sound recording by means of or as part of a digital audio transmission if —
+
+(a) the sound recording is made available to the public by such means within the premises of a business establishment;
+
+(b) the making available to the public of the sound recording by such means causes the sound recording to be heard within the premises or immediate surroundings of the business establishment; and
+
+(c) the business carried on in the business establishment does not consist primarily of the making available to the public of sound recordings by such means for payment.
+
+(2) In this section, “premises” includes any land, building structure and conveyance.
+
+[52/2004 wef 01/01/2005]
+
+### Other non-infringing non-interactive transmissions
+
+107D\. It is not an infringement of a copyright in a sound recording to make available to the public the sound recording by means of or as part of a digital audio transmission that is not part of an interactive service, if the person who does so pays the owner of the copyright in the sound recording such amount by way of equitable remuneration in respect of the transmission as may be agreed upon between them or, in default of such an agreement, as may be determined by the Copyright Tribunal on the application of either party.
+
+[52/2004 wef 01/01/2005]
+
+### Temporary copy made in course of communication
+
+107E\.—(1) The copyright in an audio-visual item is not infringed by the making of a temporary, incidental or transient copy of the audio-visual item as part of the technical process of making or receiving a communication.
+
+(2) Subsection (1) shall not apply to the making of a temporary, incidental or transient reproduction of an audio-visual item as part of the technical process of making a communication if the making of the communication itself constitutes an infringement of copyright.
+
+[52/2004 wef 01/01/2005]
+
 ### Provisions relating to cinematograph films
 
 108\.—(1) Where the visual images forming part of a cinematograph film consist wholly or principally of images that, at the time when they were first embodied in an article or thing, were means of communicating news, the copyright in the film is not infringed by the causing of the film to be seen or heard, or to be both seen and heard, in public after the expiration of 50 years after the expiration of the calendar year in which the principal events depicted in the film occurred.
 
 (2) Where the sounds that are embodied in a sound-track associated with the visual images forming part of a cinematograph film are also embodied in a record, other than such a sound-track or a record derived directly or indirectly from such a sound-track, the copyright in the cinematograph film is not infringed by any use made of that record.
 
-### Fair dealing for purpose of research or private study
+### Fair dealing in relation to other subject-matter
 
-109\. Section 35(1) and (2) shall apply to the doing of any act in relation to audio-visual items as it applies to the doing of that act in relation to literary, dramatic, musical and artistic works.
+109\.—(1) Subject to this section, a fair dealing with an audio-visual item for any purpose other than a purpose referred to in section 110 or 111 shall not constitute an infringement of the copyright in the item or in any work or other audio-visual item included in the item.
+
+(2) The purposes for which a dealing with an audio-visual item may constitute a fair dealing under subsection (1) shall include research and study.
+
+(3) For the purposes of this Act, the matters to which regard shall be had, in determining whether a dealing with an audio-visual item, being a dealing by way of copying the whole or a part of the audio-visual item, constitutes a fair dealing with the audio-visual item for any purpose other than a purpose referred to in section 110 or 111 shall include —
+
+(a) the purpose and character of the dealing, including whether such dealing is of a commercial nature or is for non-profit educational purposes;
+
+(b) the nature of the audio-visual item;
+
+(c) the amount and substantiality of the part copied taken in relation to the whole audio-visual item;
+
+(d) the effect of the dealing upon the potential market for, or value of, the audio-visual item; and
+
+(e) the possibility of obtaining the audio-visual item within a reasonable time at an ordinary commercial price.
+
+[52/2004 wef 01/01/2005]
 
 ### Fair dealing for purpose of criticism or review
 
@@ -2884,7 +3386,7 @@ shall be taken to be the sale of those articles.
 
 (a) it is for the purpose of, or is associated with, the reporting of news in a newspaper, magazine or similar periodical and a sufficient acknowledgment of the first-mentioned audio- visual item is made; or
 
-(b) it is for the purpose of, or is associated with, the reporting of news by means of broadcasting or a cable programme service or in a cinematograph film.
+(b) it is for the purpose of, or is associated with, the reporting of news by means of broadcasting or a cable programme service, by any other means of communication to the public, or in a cinematograph film.
 
 ### Copying of unpublished sound recordings and cinematograph films in libraries or archives
 
@@ -2896,9 +3398,13 @@ shall be taken to be the sale of those articles.
 
 the copyright in the sound recording or cinematograph film and in any work or other subject-matter included in the sound recording or cinematograph film is not infringed —
 
-(i) by the making of a copy of the sound recording or cinematograph film by a person for the purpose of research or private study or with a view to publication; or
+(i) by the making of a copy, or the communication, of the sound recording or cinematograph film by a person for the purpose of research or study or with a view to publication; or
 
-(ii) by the making of a copy of the sound recording or cinematograph film by or on behalf of the officer-in-charge of the library or archives, if the copy is supplied to a person who satisfies the officer that he or she requires the copy for the purpose of research or private study or with a view to publication and that he or she will not use it for any other purpose.
+[52/2004 wef 01/01/2005]
+
+(ii) by the making of a copy, or the communication, of the sound recording or cinematograph film by or on behalf of the officer-in-charge of the library or archives, if the copy or the recording or film is supplied (whether by communication or otherwise) to a person who satisfies the officer that he requires the copy or the recording or film for the purpose of research or study or with a view to publication and that he will not use it for any other purpose.
+
+[52/2004 wef 01/01/2005]
 
 ### Copying of sound recordings and cinematograph films for preservation and other purposes
 
@@ -3054,7 +3560,33 @@ Actions by Owner of Copyright
 
 119\.—(1) Subject to the provisions of this Act, the owner of a copyright may bring an action for an infringement of the copyright.
 
-(2) Subject to the provisions of this Act, the relief that a court may grant in an action for an infringement of copyright includes an injunction (subject to such terms, if any, as the court thinks fit) and either damages or an account of profits.
+(2) Subject to the provisions of this Act, in an action for an infringement of copyright, the types of relief that the court may grant include the following:
+
+(a) an injunction (subject to such terms, if any, as the court thinks fit);
+
+(b) damages;
+
+(c) an account of profits;
+
+(d) where the plaintiff has elected for an award of statutory damages in lieu of damages or an account of profits, statutory damages of —
+
+(i) not more than $10,000 for each work or subject- matter in respect of which the copyright has been infringed; but
+
+(ii) not more than $200,000 in the aggregate, unless the plaintiff proves that his actual loss from such infringement exceeds $200,000.
+
+[52/2004 wef 01/01/2005]
+
+(2A) When the court awards any damages under subsection (2)(b), the court may also make an order under subsection (2)(c) for an account of any profits attributable to the infringement that have not been taken into account in computing the damages.
+
+[52/2004 wef 01/01/2005]
+
+(2B) Except as provided for in subsection (2A), the types of relief referred to in subsection (2)(b), (c) and (d) are mutually exclusive.
+
+[52/2004 wef 01/01/2005]
+
+(2C) For the purposes of subsection (2)(d), all the parts of a collective work constitute one work.
+
+[52/2004 wef 01/01/2005]
 
 (3) Where, in an action for infringement of copyright, it is established that an infringement was committed but it is also established that, at the time of the infringement, the defendant was not aware, and had no reasonable grounds for suspecting, that the act constituting the infringement was an infringement of the copyright, the plaintiff shall not be entitled under this section to any damages against the defendant in respect of the infringement, but shall be entitled to an account of profits in respect of the infringement whether any other relief is granted under this section or not.
 
@@ -3070,11 +3602,39 @@ Actions by Owner of Copyright
 
 (iii) all other relevant matters,
 
-the court may, in assessing damages for the infringement, award such additional damages as it considers appropriate in the circumstances.
+the court may, in assessing damages for the infringement under subsection (2) (b), award such additional damages as it considers appropriate in the circumstances.
+
+(5) In awarding statutory damages under subsection (2)(d), the court shall have regard to —
+
+(a) the nature and purpose of the infringing act, including whether the infringing act was of a commercial nature or otherwise;
+
+(b) the flagrancy of the infringement;
+
+(c) whether the defendant acted in bad faith;
+
+(d) any loss that the plaintiff has suffered or is likely to suffer by reason of the infringement;
+
+(e) any benefit shown to have accrued to the defendant by reason of the infringement;
+
+(f) the conduct of the parties before and during the proceedings;
+
+(g) the need to deter other similar infringements; and
+
+(h) all other relevant matters.
+
+[52/2004 wef 01/01/2005]
+
+(6) In this section —
+
+“collective work” means a work in which relevant materials, constituting separate and independent works in themselves, are assembled into a collective whole;
+
+“relevant material” has the same meaning as in section 7A(3).
+
+[52/2004 wef 01/01/2005]
 
 ### Order for delivery up of infringing copies, etc.
 
-120\.—(1) Subject to the provisions of this Act, the court may, in addition to any relief granted under section 119 in any action for an infringement of copyright brought under that section, order any infringing copy, or any article which has been predominantly used for making infringing copies, in the possession of the defendant or before the court to be delivered up to the plaintiff.
+120\.—(1) Subject to the provisions of this Act, the court may, in addition to any relief granted under section 119 in any action for an infringement of copyright brought under that section, order any infringing copy, or any article which has been used for making infringing copies, in the possession of the defendant or before the court to be delivered up to the plaintiff.
 
 [6/98; 38/99]
 
@@ -3154,17 +3714,17 @@ Proceedings where Copyright is subject to Exclusive Licence
 
 [38/99]
 
-### Joinder of owner or exclusive licensee as a party
+### Joinder of owner or exclusive licensee as party
 
-124\.—(1) Where —
+124\. Where —
 
 (a) an action is brought by the owner of the copyright or by the exclusive licensee; and
 
 (b) the action, insofar as it is brought under section 119, relates, in whole or in part, to an infringement in respect of which the owner and the licensee have concurrent rights of action under that section,
 
-the owner or licensee, as the case may be, shall not be entitled, except with the leave of the court, to proceed with the action, insofar as it is brought under that section and relates to that infringement, unless the other party is joined as a plaintiff in the action or added as a defendant.
+the owner or licensee, as the case may be, shall be entitled to proceed with the action without joining the other party as a plaintiff or adding the other party as a defendant in the action, unless the court orders otherwise.
 
-(2) This section shall not affect the granting of an interlocutory injunction on the application of the owner of the copyright or the exclusive licensee.
+[52/2004 wef 01/01/2005]
 
 ### Defences available against exclusive licensee
 
@@ -3172,7 +3732,7 @@ the owner or licensee, as the case may be, shall not be entitled, except with th
 
 ### Assessment of damages where exclusive licence granted
 
-126\. Where an action to which section 124 applies is brought and the owner of the copyright and the exclusive licensee are not both plaintiffs in the action, the court, in assessing damages in respect of an infringement of a kind referred to in that section, shall —
+126\. Where an action to which section 124 applies is brought and the owner of the copyright and the exclusive licensee are not both plaintiffs in the action, the court, in assessing damages or statutory damages in respect of an infringement of a kind referred to in that section, shall —
 
 (a) if the plaintiff is the exclusive licensee — take into account any liabilities, in respect of royalties or otherwise, to which the licence is subject; and
 
@@ -3192,9 +3752,9 @@ then, subject to any agreement of which the court is aware by which the applicat
 
 128\. In an action brought by the owner of the copyright or by the exclusive licensee —
 
-(a) a judgment or order for the payment of damages in respect of an infringement of copyright shall not be given or made under section 119 if a final judgment or order has been given or made in favour of the other party directing an account of profits under that section in respect of the same infringement; and
+(a) a judgment or order for the payment of damages or statutory damages in respect of an infringement of copyright shall not be given or made under section 119 if a final judgment or order has been given or made in favour of the other party directing an account of profits under that section in respect of the same infringement; and
 
-(b) a judgment or order for an account of profits in respect of an infringement of copyright shall not be given or made under that section if a final judgment or order has been given or made in favour of the other party awarding damages or directing an account of profits under that section in respect of the same infringement.
+(b) a judgment or order for an account of profits in respect of an infringement of copyright shall not be given or made under that section if a final judgment or order has been given or made in favour of the other party awarding damages or statutory damages or directing an account of profits under that section in respect of the same infringement.
 
 ### Liability for costs
 
@@ -3211,6 +3771,20 @@ Proof of Facts in Copyright Proceedings
 (a) copyright shall be presumed to subsist in the work or other subject-matter to which the action relates if the defendant does not put in issue the question whether copyright subsists in the work or other subject-matter; and
 
 (b) where the subsistence of the copyright is established — the plaintiff shall be presumed to be the owner of the copy- right if he claims to be the owner of the copyright and the defendant does not put in issue the question of his ownership.
+
+(1A) Where the defendant puts in issue the question of whether copyright subsists in the work or other subject-matter or whether the plaintiff is the owner of the copyright, but does not satisfy the court that he does so in good faith, the presumption as to the subsistence or ownership of copyright under subsection (1)(a) or (b), as the case may be, shall apply notwithstanding that the defendant puts that question in issue.
+
+[52/2004 wef 01/01/2005]
+
+(1B) Where the defendant, in good faith, puts in issue the question of whether copyright subsists in the work or other subject-matter or whether the plaintiff is the owner of the copyright, an affidavit made on behalf of the plaintiff in which the plaintiff makes assertions of facts relevant to showing —
+
+(a) that copyright subsists in the work or other subject-matter; and
+
+(b) that he is the owner of the copyright,
+
+shall be admitted in evidence and shall be prima facie proof of the matters stated therein until the contrary is proved, unless the court directs that oral evidence be adduced to prove those matters.
+
+[52/2004 wef 01/01/2005]
 
 (2) Where a defendant, without good faith, puts in issue the questions of whether copyright subsists in a work or other subject-matter to which the action relates, or the ownership of copyright in such work or subject-matter, thereby occasioning unnecessary costs or delay in the proceedings, the court may direct that any costs to the defendant in respect of the action shall not be allowed to him and that any costs occasioned by the defendant to other parties shall be paid by him to such other parties.
 
@@ -3312,6 +3886,22 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 articles which he knows, or ought reasonably to know, to be infringing copies of the work, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both.
 
+(3A) Where, at any time when copyright subsists in a work ––
+
+(a) a person does any act that constitutes an infringement of the copyright in a work other than an act referred to in subsection (1), (2), (3) or (6);
+
+(b) the infringement of the copyright in the work by the person is wilful; and
+
+(c) either or both of the following apply:
+
+(i) the extent of the infringement is significant;
+
+(ii) the person does the act to obtain a commercial advantage,
+
+the person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a second or subsequent offence, to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+[52/2004 wef 01/01/2005]
+
 (4) A person who, at a time when copyright subsists in a work, makes or has in his possession an article specifically designed or adapted for making copies of the work that the person knows, or ought reasonably to know, is to be used for making infringing copies of the work, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 for each such article in respect of which the offence is committed or to imprisonment for a term not exceeding 2 years or to both.
 
 [6/98]
@@ -3320,19 +3910,35 @@ articles which he knows, or ought reasonably to know, to be infringing copies of
 
 (6) Any person who for his private profit causes a literary, dramatic or musical work to be performed in public, or causes a cinematograph film to be seen or heard or seen and heard in public, other than by the reception of a television broadcast or cable programme, where he knows, or ought reasonably to know, that copyright subsists in the work or cinematograph film and that the performance constitutes an infringement of the copyright, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 2 years or to both.
 
-(7) For the purposes of this section , any person who has in his possession 5 or more infringing copies of any work or other subject-matter shall, unless the contrary is proved, be presumed —
+(6A) For the purposes of subsection (3A)(c)(i), in determining whether the extent of the infringement is significant, the court shall have regard to —
+
+(a) the volume of any articles that are infringing copies;
+
+(b) the value of any articles that are infringing copies;
+
+(c) whether the infringement has a substantial prejudicial impact on the owner of the copyright; and
+
+(d) all other relevant matters.
+
+[52/2004 wef 01/01/2005]
+
+(6B) For the purposes of subsection (3A)(c)(ii), a person does an act for the purpose of obtaining a commercial advantage if the act is done to obtain a direct advantage, benefit or financial gain for a business or trade carried on by him.
+
+[52/2004 wef 01/01/2005]
+
+(7) For the purposes of this section (other than subsection (3A)), any person who has in his possession 5 or more infringing copies of any work or other subject-matter shall, unless the contrary is proved, be presumed —
 
 (a) to be in possession of such copies otherwise than for private and domestic use; or
 
 (b) to be in possession of such copies for the purpose of sale.
 
-(8) The court before which a person is charged with an offence by reason of a contravention of any of the provisions of this section may, whether he is convicted of the offence or not, order that any article that appears to the court to be an infringing copy or any article which has been predominantly used for making infringing copies in the possession of the alleged offender or before the court, be destroyed or delivered up to the owner of the copyright concerned or otherwise dealt with in such manner as the court thinks fit.
+(8) The court before which a person is charged with an offence by reason of a contravention of any of the provisions of this section may, whether he is convicted of the offence or not, order that any article that appears to the court to be an infringing copy or any article which has been used for making infringing copies in the possession of the alleged offender or before the court, be destroyed or delivered up to the owner of the copyright concerned or otherwise dealt with in such manner as the court thinks fit.
 
 [6/98; 38/99]
 
-(9) If information is given upon oath to a court that there is reasonable cause for suspecting that there is in any premises any article or document which is evidence that an offence under subsection (1), (2), (3) or (4) has been committed, the court may issue, either unconditionally or subject to such conditions as the court thinks fit, a warrant authorising a police officer to enter and search the premises for the articles and documents which are specified in the warrant, and to seize such articles and documents found at the premises.
+(9) If information is given upon oath to a court that there is reasonable cause for suspecting that there is in any premises any article or document which is evidence that an offence under subsection (1), (2), (3), (3A) or (4) has been committed, the court may issue, either unconditionally or subject to such conditions as the court thinks fit, a warrant authorising a police officer to enter and search the premises for the articles and documents which are specified in the warrant, whether specifically or in any general category, and to seize any such articles and documents found at the premises.
 
-[6/98; 38/99]
+[52/2004 wef 01/01/2005]
 
 (10) If an article was seized under subsection (9) and —
 
@@ -3382,7 +3988,31 @@ shall be admitted in evidence in any proceedings for an offence under this Part 
 
 any infringing copy of any work or other subject-matter.
 
-(2) Any police officer may stop and search and forcibly board any vehicle in which he reasonably suspects that there is any infringing copy of any work or other subject-matter and seize, remove or detain any such infringing copy and anything which appears to him to be or to contain, or likely to be or to contain, evidence of an offence under this Act.
+(2) Any authorised officer may, without a warrant issued under section 136(9) —
+
+(a) stop, search and board, whether forcibly or otherwise, any conveyance in which he reasonably suspects that there is any infringing copy of any work or other subject-matter; and
+
+(b) seize, remove or detain any such infringing copy and anything which appears to him —
+
+(i) to be or to contain; or
+
+(ii) to be likely to be or to contain,
+
+evidence of an offence under this Act.
+
+[52/2004 wef 01/01/2005]
+
+(3) In this section, “authorised officer” means —
+
+(a) a police officer;
+
+(b) an officer of customs as defined in the Customs Act (Cap. 70);
+
+(c) an immigration officer as defined in the Immigration Act (Cap. 133); or
+
+(d) any officer or class or description of officers appointed by the Minister, by notification in theGazette, to exercise the powers and perform the duties conferred and imposed on an authorised officer by this section.
+
+[52/2004 wef 01/01/2005]
 
 ### Advertisement for supply of infringing copies of computer programs
 
@@ -3452,15 +4082,27 @@ Border Enforcement Measures
 
 ### Restriction of importation of copies of works, etc.
 
-140B\.—(1) A person may give the Director-General a written notice stating —
+140B\.—(1) A person who is the owner of the copyright in any copyright material or a licensee thereof may give the Director-General a written notice —
 
-(a) that he is the owner of the copyright in copyright material;
+(a) stating that he is —
 
-(b) that, at a time and place specified in the notice, copies of the copyright material to which this section applies are expected to be imported; and
+(i) the owner of the copyright in the copyright material; or
 
-(c) that he objects to such importation.
+(ii) a licensee thereof having the power to give such a notice;
 
-[6/98]
+(b) stating that copies of the copyright material which are infringing copies are expected to be imported;
+
+(c) providing sufficient information —
+
+(i) to identify the copies of the copyright material;
+
+(ii) to enable the Director-General to ascertain the time when and place where the copies are expected to be imported; and
+
+(iii) to satisfy the Director-General that the copies are infringing copies; and
+
+(d) stating that he objects to such importation.
+
+[52/2004 wef 01/01/2005]
 
 (2) A notice given under subsection (1) shall be supported by such documents and information as may be prescribed in regulations.
 
@@ -3744,13 +4386,87 @@ the court may order the objector to pay compensation in such amount as the court
 
 [6/98]
 
+### Detention of infringing copies
+
+140LA\.—(1) Notwithstanding section 140B(4), any authorised officer may —
+
+(a) detain any copies of copyright material —
+
+(i) that are imported into, or that are to be exported from, Singapore; and
+
+(ii) that are not goods in transit, unless the copies are consigned to any person with a commercial or physical presence in Singapore; or
+
+(b) examine any copies of copyright material, including goods in transit,
+
+which he reasonably suspects are infringing copies of any copyright material.
+
+(2) As soon as practicable after the copies of copyright material are detained under subsection (1)(a), the Director-General shall give —
+
+(a) to the importer, exporter or consignee, as the case may be, of the detained copies; and
+
+(b) to the owner of the copyright in the copyright material,
+
+a written notice identifying the copies, stating that they have been detained and setting out the matters referred to in subsection (3).
+
+(3) The detained copies of copyright material shall be released to the importer, exporter or consignee, as the case may be, of the copies, unless, within the prescribed period, the owner of the copyright in the copyright material —
+
+(a) in the case of copies that are imported into Singapore and that are not goods in transit —
+
+(i) gives the Director-General the written notice referred to in section 140B(1);
+
+(ii) submits to the Director-General the documents and information referred to in section 140B(2); and
+
+(iii) deposits with the Director-General the sum of money referred to in section 140C(a) or gives the security referred to in section 140C(b); or
+
+(b) in the case of copies that are to be exported from Singapore or copies that are goods in transit and consigned to a person with a commercial or physical presence in Singapore —
+
+(i) institutes an action for the infringement of his copyright;
+
+(ii) serves on the Director-General an order of the court authorising the further detention of the copies; and
+
+(iii) deposits with the Director-General a sum of money that, in the opinion of the Director-General, is sufficient to —
+
+(A) reimburse the Government for any liability or expense it has and is likely to further incur as a result of the detention of the copies; and
+
+(B) pay such compensation to any person who suffers loss or damage as a result of the detention of the copies as may be ordered by the court,
+
+or gives security, to the satisfaction of the Director-General, for the reimbursement of the Government for any such liability or expense and the payment of such compensation.
+
+(4) Every order of the court authorising the further detention of copies under subsection (3)(b)(ii) shall be subject to the condition that the owner of the copyright in the copyright material complies with subsection (3)(b)(iii) within the period prescribed under subsection (3).
+
+(5) Where the court has made an order authorising the further detention of copies under subsection (3)(b)(ii) —
+
+(a) the detained copies shall be taken to such secure place as the Director-General directs; and
+
+(b) sections 140F and 140G and 140I to 140L shall apply, with the necessary modifications, to the further detention of the copies, and for the purposes of such application —
+
+(i) any reference to the objector shall be read as a reference to the owner of the copyright in the copyright material;
+
+(ii) any reference to the importer shall be read as a reference to the exporter or consignee, as the case may be, of the detained copies;
+
+(iii) any reference to the seized copies shall be read as a reference to the detained copies;
+
+(iv) any reference to the seizure of copies shall be read as a reference to the detention or further detention of the copies;
+
+(v) any reference to the import or importation of copies shall be read —
+
+(A) in the case of copies that are to be exported from Singapore, as a reference to the export of the copies; or
+
+(B) in the case of copies that are goods in transit and that are consigned to a person with a presence in Singapore, as a reference to the import, importation or export, of the copies by the consignee;
+
+(vi) any reference to infringement action shall be read as a reference to an action for the infringement of the copyright in the copyright material under subsection (3)(b)(i); and
+
+(vii) any reference to the retention period shall be read as a reference to the prescribed period under subsection (3).
+
+[52/2004 wef 01/01/2005]
+
 Division 7 —
 
 Powers of Search
 
 ### Powers of search in relation to vessels, aircrafts and vehicles
 
-140M\.—(1) A senior authorised officer or an authorised officer acting in accordance with the general or special directions of a senior authorised officer may board any conveyance in Singapore and may rummage and search all parts of the conveyance for copies of copyright material liable to be seized under section 140B(7) .
+140M\.—(1) A senior authorised officer or an authorised officer acting in accordance with the general or special directions of a senior authorised officer may board any conveyance in Singapore and may rummage and search all parts of the conveyance for copies of copyright material liable to be seized under section 140B(7) or detained under section 140LA.
 
 [6/98]
 
@@ -3802,7 +4518,7 @@ Powers of Search
 
 ### Examination of packages
 
-140N\.—(1) Any goods, package, box, chest or other article which is being or has recently been imported and in regard to which a reasonable suspicion exists that it is or that it contains a copy of copyright material liable to be seized under section 140B(7) may be —
+140N\.—(1) Any goods, package, box, chest or other article which is being or has recently been imported and in regard to which a reasonable suspicion exists that it is or that it contains a copy of copyright material liable to be seized under section 140B(7) or detained under section 140LA may be —
 
 (a) examined and searched by an authorised officer or detained until any person in charge thereof has opened it for examination and search;
 
@@ -3836,9 +4552,9 @@ Powers of Search
 
 140P\.—(1) Any person landing or being about to land or having recently landed from any vessel or aircraft, or leaving any vessel or aircraft in Singapore whether for the purpose of landing or otherwise, or entering or having recently entered Singapore by land, sea or air, shall —
 
-(a) on demand by an authorised officer, either permit his person and goods and baggage to be searched by the officer for any copy of copyright material liable to be seized under section 140B(7) or, together with the goods and baggage, accompany the officer to a police station or an examination station, and there permit his person and goods and baggage to be searched in the presence and under the supervision of a senior authorised officer for any copy of copyright material liable to be seized under section 140B(7) ; or
+(a) on demand by an authorised officer, either permit his person and goods and baggage to be searched by the officer for any copy of copyright material liable to be seized under section 140B(7) or detained under section 140LA or, together with the goods and baggage, accompany the officer to a police station or an examination station, and there permit his person and goods and baggage to be searched in the presence and under the supervision of a senior authorised officer for any copy of copyright material liable to be seized under section 140B(7) or detained under section 140LA; or
 
-(b) on demand by a senior authorised officer, permit his person and goods and baggage to be searched by the officer, or in the presence and under the supervision of the officer, for any copy of copyright material liable to be seized under section 140B(7) .
+(b) on demand by a senior authorised officer, permit his person and goods and baggage to be searched by the officer, or in the presence and under the supervision of the officer, for any copy of copyright material liable to be seized under section 140B(7) or detained under section 140LA.
 
 [6/98]
 
@@ -4038,6 +4754,22 @@ Inquiries by, and Applications and References to, Tribunal
 
 [6/98]
 
+### Application to Tribunal for determination of remuneration payable for making available to public sound recording by means of digital audio transmission
+
+156C\.—(1) This section shall apply where an application is made to the Tribunal under section 107D for the determination of equitable remuneration to be paid to the owner of the copyright in a sound recording for the making available to the public of the sound recording by means of or as part of a digital audio transmission that is not part of an interactive service.
+
+(2) The parties to an application in relation to which this section applies are —
+
+(a) the owner of the copyright in the sound recording; and
+
+(b) the person who makes available to the public the sound recording by means of or as part of a digital audio transmission that is not part of an interactive service.
+
+(3) Where an application in relation to which this section applies is made to the Tribunal, the Tribunal shall consider the application and, after giving to the parties to the application an opportunity of presenting their cases, shall make an order determining the amount that it considers to be equitable remuneration to the owner of the copyright for the making available to the public of the sound recording by means of or as part of a digital audio transmission that is not part of an interactive service.
+
+(4) In this section, “interactive service” has the same meaning as in section 81(1).
+
+[52/2004 wef 01/01/2005]
+
 ### Inquiries into royalty payable in respect of records of musical works
 
 157\.—(1) This section shall apply where the Minister charged with the responsibility for trade and industry requests the Tribunal in under section 59 to hold an inquiry in relation to the royalty, or the minimum royalty, payable in respect of records generally, or in respect of records included in a particular class of records.
@@ -4048,7 +4780,7 @@ Inquiries by, and Applications and References to, Tribunal
 
 ### Applications to Tribunal for determination of remuneration payable to owner of copyright for copies made under statutory licence
 
-158\.—(1) This section shall apply where application is made to the Tribunal under section 52(11) , 54(10) or 54A(7) for the determination of an equitable remuneration to be paid to the owner of the copyright in a work for the making of copies, of a handicapped reader’s copy or of an intellectually handicapped reader’s copy, as the case requires, of the whole or of a part of that work.
+158\.—(1) This section shall apply where application is made to the Tribunal under section 52(11) or (11C), 54(10) or 54A(7) for the determination of an equitable remuneration to be paid to the owner of the copyright in a work for the making of copies, of a handicapped reader’s copy or of an intellectually handicapped reader’s copy, as the case requires, of the whole or of a part of that work.
 
 [6/98]
 
@@ -4542,35 +5274,49 @@ FALSE ATTRIBUTION OF AUTHORSHIP
 
 ### Interpretation of this Part
 
-187\. In this Part, “name” includes initials or a monogram.
+187\. In this Part, unless the context otherwise requires —
 
-### Duty not to attribute falsely the authorship of a work
+“name” includes initials or a monogram;
 
-188\.—(1) A person (referred to in this subsection as the offender) shall, by virtue of this section, be under a duty to the author of a work not to —
+“performance”, “protection period” and “recording” have the same meanings as in Part XII.
 
-(a) insert or affix another person’s name in or on the work, or in or on a reproduction of the work, in such a way as to imply that the other person is the author of the work;
+[52/2004 wef 01/01/2005]
 
-(b) publish, sell or let for hire, by way of trade offer or expose for sale or hire, or by way of trade exhibit in public, the work with another person’s name so inserted or affixed, if the offender knows that the other person is not the author of the work;
+### Duty not to attribute falsely authorship of work or identity of performer of performance
 
-(c) do any of the acts mentioned in paragraph (b) in relation to, or distribute, reproductions of the work, being reproductions in or on which another person’s name has been so inserted or affixed, if the offender knows that the other person is not the author of the work; or
+188\.—(1) A person (referred to in this subsection as the offender) shall, by virtue of this section, be under a duty to the author of a work or a performer of a performance not to —
 
-(d) perform in public or broadcast or include in a cable programme the work as being a work of which another person is the author, if the offender knows that the other person is not the author of the work.
+(a) insert or affix another person’s name in or on the work or a recording of the performance, or in or on a reproduction of the work or recording, in such a way as to imply that the other person is the author of the work or the performer of the performance;
+
+(b) publish, sell or let for hire, by way of trade offer or expose for sale or hire, or by way of trade exhibit in public, the work or recording of the performance with another person’s name so inserted or affixed, if the offender knows that the other person is not the author of the work or the performer of the performance;
+
+(c) do any of the acts mentioned in paragraph (b) in relation to, or distribute, reproductions of the work or recording of the performance, being reproductions in or on which another person’s name has been so inserted or affixed, if the offender knows that the other person is not the author of the work or the performer of the performance; or
+
+(d) perform in public or communicate the work as being a work of which another person is the author, or make available to the public the recording of a performance as being a recording of a performance of which another person is the performer, if the offender knows that the other person is not the author of the work or the performer of the performance.
 
 (2) Subsection (1) shall apply where, contrary to the fact, a work is represented as being an adaptation of the work of another person in like manner as it applies where a work is represented as being the work of another person.
 
-(3) After the death of the author of a work, a person shall, by virtue of this section, be under a duty to the legal personal representative of the author not to do in relation to, or to a reproduction of, the work or an adaptation of the work any act that, but for the death of the author, the person would, by reason of either subsection (1) or (2) have been under a duty to the author not to do.
+(3) After the death of the author of a work or the performer of the performance, a person shall, by virtue of this section, be under a duty to the legal personal representative of the author or performer not to do in relation to, or to a reproduction of, the work or an adaptation of the work or a recording of the performance any act that, but for the death of the author or performer, the person would, by reason of either subsection (1) or (2), have been under a duty to the author or performer not to do.
 
-(4) In this section, “work” means a work in which copyright subsists.
+(4) In this section ––
 
-### Duty not to attribute falsely the authorship of altered work
+“performance” means a performance in respect of which the protection period under Part XII has not expired;
 
-189\. Where a work in which copyright subsists has been altered by a person other than the author of the work, a person shall, by virtue of this section, be under a duty to the author of the work not to —
+“work” means a work in which copyright subsists under this Act.
 
-(a) publish, sell or let for hire, or by way of trade offer or expose for sale or hire, the work as so altered, as being the unaltered work of the author; or
+[52/2004 wef 01/01/2005]
 
-(b) publish, sell or let for hire, or by way of trade offer or expose for sale or hire a reproduction of the work as so altered, as being a reproduction of the unaltered work of the author,
+### Duty not to falsely represent altered work or recording of performance as unaltered
 
-if, to his knowledge, it is not the unaltered work or a reproduction of the unaltered work, as the case may be, of the author.
+189\. Where a work in which copyright subsists or a recording of a performance in respect of which the protection period has not expired has been altered by a person other than the author of the work or the performer of the performance, a person shall be under a duty to the author or performer not to —
+
+(a) publish, sell or let for hire, or by way of trade offer or expose for sale or hire, the work or recording as so altered as being the unaltered work of the author or as an unaltered recording of the performance; or
+
+(b) publish, sell or let for hire, or by way of trade offer or expose for sale or hire, a reproduction of the work or a recording of the performance as so altered as being a reproduction of the unaltered work of the author or an unaltered recording of the performance by the performer,
+
+if, to his knowledge, it is not the unaltered work or a reproduction of the unaltered work, as the case may be, of the author or the unaltered recording or a reproduction of the unaltered recording, as the case may be, of the performance by the performer.
+
+[52/2004 wef 01/01/2005]
 
 ### Duty not to attribute falsely the authorship of reproduction of artistic work
 
@@ -4592,7 +5338,9 @@ where the reproduction was, or the reproductions were, to his knowledge, not mad
 
 (2) The relief that a court may grant in an action under subsection (1) shall include an injunction (subject to such terms, if any, as the court thinks fit) and damages.
 
-(3) Where, in respect of an act done in relation to, or to a reproduction of, a work or an adaptation of a work after the death of the author of the work, damages are recovered under this section by the legal personal representative of the author, those damages devolve as if they formed part of the estate of the author and as if the right of action in respect of the doing of that act had subsisted, and had been vested in the author, immediately before his death.
+(3) Where, in respect of an act done in relation to, or to a reproduction of, a work or an adaptation of a work or a recording of a performance after the death of the author of the work or the performer of the performance, damages are recovered under this section by the legal personal representative of the author or performer, those damages devolve as if they formed part of the estate of the author or performer and as if the right of action in respect of the doing of that act had subsisted, and had been vested in the author or performer, immediately before his death.
+
+[52/2004 wef 01/01/2005]
 
 ### Saving of other rights and remedies
 
@@ -4606,75 +5354,281 @@ where the reproduction was, or the reproductions were, to his knowledge, not mad
 
 WORKS, OR OTHER SUBJECT-MATTER, IN ELECTRONIC FORM
 
-### Interpretation of this Part
+### Interpretation and effect of application of this Part
 
-193A\. In this Part, unless the context otherwise requires —
+193A\.—(1) In this Part, unless the context otherwise requires —
 
 “electronic copy”, in relation to any material, means a copy of the material in an electronic form, and includes the original version of the material in that form;
 
-“material” means —
+“material” means any work or other subject-matter in which copyright subsists by virtue of this Act;
 
-(a) any work; or
+“monetary relief” means damages, an account of profits or statutory damages;
 
-(b) any subject-matter other than work,
+“network service provider” —
 
-in which copyright subsists by virtue of this Act.
+(a) for the purposes of section 193B, means a person who provides services relating to, or provides connections for, the transmission or routing of data; and
 
-[38/99]
+(b) for the purposes of this Part (other than section 193B), means a person who provides, or operates facilities for, online services or network access and includes a person referred to in paragraph (a),
 
-### Acts by network service provider to enable access
+but does not include such person or class of persons as the Minister may prescribe;
 
-193B\. A network service provider does not infringe the copyright in any material by doing any act in relation to an electronic copy of the material made available on a network if the doing of the act is incidental to the provision of the technical means to enable users of this or another network to access the material.
+“primary network”, in relation to a network service provider, refers to a network controlled or operated by or for the network service provider;
 
-[38/99]
+“routing” means directing or choosing the means or routes for the transmission of data.
 
-### Acts by network service provider at direction of another
+(2) This Part does not limit the operation of the other provisions of this Act in relation to determining whether copyright has been infringed.
 
-193C\.—(1) A network service provider does not infringe the copyright in any material by doing any act in relation to an electronic copy of the material made available on a network (referred to in this section and section 193D as the primary network) if —
+[52/2004 wef 01/01/2005]
 
-(a) the act is done in the course of storing, transmitting, routing or otherwise providing connections to the copy on the primary or another network;
+### Transmission, routing and provision of connections
 
-(b) the storage, transmission, routing or provision of connections (as the case may be) is done at the express or implied direction of a user of the network referred to in paragraph (a); and
+193B\.—(1) The court shall not grant any monetary relief or, except as provided for in section 193DB, make any order against a network service provider for any infringement of copyright in any material that occurs by reason of —
 
-(c) the copy is stored, transmitted or routed (as the case may be) without any deliberate modification by the network service provider to its contents.
+(a) the transmission or routing by the network service provider of, or the provision of connections by the network service provider for, an electronic copy of the material through the network service provider’s primary network; or
 
-[38/99]
+(b) any transient storage by the network service provider of an electronic copy of the material in the course of such transmission, routing or provision of connections,
 
-(2) Subsection (1) does not apply if —
+if the network service provider satisfies the conditions set out in subsection (2).
 
-(a) the primary network is operated, and controlled, solely by the network service provider;
+(2) The conditions referred to in subsection (1) are that —
 
-(b) the network service provider was furnished with a statutory declaration, purportedly made by the owner of the copyright in the material or under the owner’s authority, stating —
+(a) the transmission of the electronic copy of the material was initiated by or at the direction of a person other than the network service provider;
 
-(i) that the maker of the declaration in good faith believes that an act which constitutes an infringement of the copyright in question was carried out in, or in the course of, making available the copy of the material on the primary network;
+(b) the transmission, routing, provision of connections or storage is carried out through an automatic technical process without any selection of the electronic copy of the material by the network service provider;
 
-(ii) the grounds for his belief; and
+(c) the network service provider does not select the recipients of the electronic copy of the material except as an automatic response to the request of another person; and
 
-(iii) such other information as may be prescribed; and
+(d) the network service provider does not make any substantive modification (other than any modification made as part of a technical process) to the content of the electronic copy of the material during the transmission of the electronic copy of the material through the primary network.
 
-(c) despite being furnished with the statutory declaration, the network service provider fails within a reasonable time to take reasonable steps to —
+[52/2004 wef 01/01/2005]
 
-(i) remove the copy from the primary network; or
+### System caching
 
-(ii) disable access to the material on the primary network.
+193C\.—(1) The court shall not grant any monetary relief or, except as provided for in section 193DB, make any order against a network service provider for any infringement of copyright in any material that occurs by reason of the making by the network service provider of an electronic copy of the material (referred to in this section as the cached copy) on the network service provider’s primary network —
 
-[38/99]
+(a) from another electronic copy of the material made available on a network (referred to in this section as the originating network);
+
+(b) through an automatic process;
+
+(c) in response to an action by a user of the primary network; and
+
+(d) in order to facilitate efficient access to the material by that user or other users,
+
+if the network service provider satisfies the conditions set out in subsection (2).
+
+(2) The conditions referred to in subsection (1) are that —
+
+(a) the network service provider does not make any substantive modification (other than any modification made as part of a technical process) to the content of the cached copy of the material during the transmission of the cached copy of the material to users of the primary network or another network;
+
+(b) if the network service provider is furnished in the prescribed manner with a notice in the prescribed form relating to the cached copy of the material —
+
+(i) purportedly made by the owner of the copyright in the material or under the owner’s authority; and
+
+(ii) stating the prescribed matters,
+
+the network service provider expeditiously takes reasonable steps to remove or disable access to the cached copy of the material on the primary network; and
+
+(c) the network service provider satisfies such other conditions as the Minister may prescribe in relation to —
+
+(i) access to the cached copy of the material by users of the primary network or another network;
+
+(ii) the refreshing, reloading or updating of the cached copy of the material; and
+
+(iii) non-interference with technology used at the originating network to obtain information about the use of any material on the originating network, being technology that is consistent with industry standards in Singapore.
+
+[52/2004 wef 01/01/2005]
+
+### Storage and information location
+
+193D\.—(1) The court shall not grant any monetary relief or, except as provided for in section 193DB, make any order against a network service provider for any infringement of copyright in any material that occurs by reason of —
+
+(a) the storage, at the direction of a user of the network service provider’s primary network, of an electronic copy of the material on the primary network, if the network service provider satisfies the conditions referred to in subsection (2); or
+
+(b) the network service provider referring or linking a user of any network to an online location on a network (referred to in this section as the originating network), being a location at which an electronic copy of the material is made available, by the use of —
+
+(i) an information location tool such as a hyperlink or directory; or
+
+(ii) an information location service such as a search engine,
+
+if the network service provider satisfies the conditions referred to in subsection (4).
+
+(2) The conditions referred to in subsection (1)(a) are that —
+
+(a) the network service provider does not receive any financial benefit directly attributable to the infringement of the copyright in the material that occurs in, or in the course of, making available the electronic copy of the material on the primary network, provided that the network service provider has the right and ability to control the infringing activity;
+
+(b) if the network service provider —
+
+(i) acquires actual knowledge that the copyright in the material has been infringed in, or in the course of, making available the electronic copy of the material on the primary network;
+
+(ii) acquires knowledge of such facts or circumstances which would lead inevitably to the conclusion that the copyright in the material has been infringed in, or in the course of, making available the electronic copy of the material on the primary network; or
+
+(iii) is furnished in the prescribed manner with a notice in the prescribed form relating to the electronic copy of the material on the primary network —
+
+(A) purportedly made by the owner of the copyright in the material or under the owner’s authority; and
+
+(B) stating the prescribed matters,
+
+the network service provider expeditiously takes reasonable steps to remove or disable access to the copy of the material on the primary network; and
+
+(c) the network service provider has designated a representative to receive any notice referred to in paragraph (b)(iii) and published the prescribed information on the designated representative in the prescribed manner.
+
+(3) For the purposes of subsection (2), where a network service provider is not an individual, the network service provider shall not be treated as having acquired any knowledge referred to in subsection (2)(b)(i) or (ii) —
+
+(a) unless that knowledge is acquired by the representative referred to in subsection (2)(c); and
+
+(b) where it is alleged that the representative has acquired that knowledge by reason only of any communication made to the representative, unless that communication is in the form of the notice referred to in subsection (2)(b)(iii).
+
+(4) The conditions referred to in subsection (1)(b) are that —
+
+(a) the network service provider does not receive any financial benefit directly attributable to the infringement of the copyright in the material that occurs in, or in the course of, making available the electronic copy of the material on the originating network, provided that the network service provider has the right and ability to control the infringing activity;
+
+(b) if the network service provider —
+
+(i) acquires actual knowledge that the copyright in the material has been infringed in, or in the course of, making available the electronic copy of the material on the originating network;
+
+(ii) acquires knowledge of such facts or circumstances which would lead inevitably to the conclusion that the copyright in the material has been infringed in, or in the course of, making available the electronic copy of the material on the originating network; or
+
+(iii) is furnished in the prescribed manner with a notice in the prescribed form relating to the electronic copy of the material on the originating network —
+
+(A) purportedly made by the owner of the copyright in the material or under the owner’s authority; and
+
+(B) stating the prescribed matters,
+
+the network service provider expeditiously takes reasonable steps to disable access to the electronic copy of the material on the originating network, and to remove or disable access to any electronic copy of the material (being a copy made from the electronic copy of the material on the originating network and of which the network service provider has actual knowledge) on the primary network; and
+
+(c) the network service provider has designated a representative to receive any notice referred to in paragraph (b)(iii) and published the prescribed information on the designated representative in the prescribed manner.
+
+(5) For the purposes of subsection (4), where a network service provider is not an individual, the network service provider shall not be treated as having acquired any knowledge referred to in subsection (4)(b) —
+
+(a) unless that knowledge is acquired by the representative referred to in subsection (4)(c); and
+
+(b) where it is alleged that the representative has acquired that knowledge by reason only of any communication made to the representative, unless that communication is in the form of the notice referred to in subsection (4)(b)(iii).
+
+(6) For the purposes of subsections (2)(a) and (4)(a) —
+
+(a) a financial benefit does not include a benefit that is received merely on account of the provision of any online service by the network service provider; and
+
+(b) a financial benefit is to be regarded as directly attributable to the infringing activity only if the network service provider knew or ought reasonably to have known at the time of the receipt of the benefit that an infringement of copyright was involved.
+
+[52/2004 wef 01/01/2005]
 
 ### Exemption of network service provider from liability for removal of copy, etc., from network
 
-193D\.—(1) Notwithstanding anything to the contrary in any law (written or otherwise), a network service provider shall not be subject to any civil or criminal liability under any rule of law in respect of —
+193DA\.—(1) Notwithstanding anything to the contrary in any law (written or otherwise), a network service provider shall not be subject to any liability under any rule of law in respect of any action taken in good faith in relation to —
 
-(a) the removal of an electronic copy of any material from a network operated, and controlled, solely by him; or
+(a) the removal of an electronic copy of any material from his primary network; or
 
-(b) the disabling of access to the material on the network,
+(b) the disabling of access to an electronic copy of any material on his primary network or another network,
 
-if such removal or disabling was done pursuant to a statutory declaration referred to in section 193C(2)(b) in relation to the material.
+if —
 
-[38/99]
+(i) such removal or disabling was done in reliance on any notice referred to in section 193C(2)(b) or 193D(2)(b)(iii) or (4)(b)(iii) or any knowledge referred to in section 193D(2)(b)(i) or (ii) or (4)(b)(i) or (ii); and
 
-(2) Subsection (1) shall apply whether or not it is ultimately determined that an act which constitutes an infringement of the copyright in question was carried out in, or in the course of, making available the copy of the material on the primary network.
+(ii) in the case of any removal or disabling done in reliance on any notice referred to in section 193D(2)(b)(iii) or (4)(b)(iii) or any knowledge referred to in section 193D(2)(b)(i) or (ii) or (4)(b)(i) or (ii), the conditions referred to in subsection (2) are satisfied.
 
-[38/99]
+(2) The conditions referred to in subsection (1)(ii) are that —
+
+(a) after such removal or disabling, the network service provider expeditiously takes reasonable steps to notify the person who made available the electronic copy of the material on the network of this; and
+
+(b) where the network service provider is furnished in the prescribed manner, within the prescribed time, with a notice in the prescribed form purportedly made by the person who made available the electronic copy of the material on the network, or under that person’s authority, stating the prescribed matters —
+
+(i) the network service provider expeditiously takes reasonable steps to restore the electronic copy of the material to the network, or to restore access to that electronic copy, as the case may be, if it is technically and practically feasible to do so; or
+
+(ii) before the network service provider has completed the steps referred to in sub-paragraph (i), the owner of the copyright in the material commences proceedings to prevent the electronic copy of the material, or the access to it, from being restored, and the network service provider is informed of those proceedings.
+
+(3) Subsection (1) shall apply whether or not it is ultimately determined that any relevant act that was carried out constitutes an infringement of copyright in the material under this Act.
+
+(4) Notwithstanding anything to the contrary in any law (written or otherwise), a network service provider shall not be subject to any liability under any rule of law in respect of any action taken in good faith in relation to —
+
+(a) the restoration of an electronic copy of any material to his primary network; or
+
+(b) the restoration of access to an electronic copy of any material on any network,
+
+if such restoration was done in reliance on any notice referred to in subsection (2)(b).
+
+(5) A network service provider shall not be treated as having authorised the doing of any act which is an infringement of copyright under this Act by reason only that the network service provider —
+
+(a) has provided a facility which was used by another person to do that act;
+
+(b) has received any notice referred to in section 193C(2)(b) or 193D(2)(b)(iii) or (4)(b)(iii) in respect of that act; or
+
+(c) has acquired any knowledge referred to in section 193D(2)(b)(i) or (ii) or (4)(b)(i) or (ii) in respect of that act.
+
+[52/2004 wef 01/01/2005]
+
+### Relief which court may grant
+
+193DB\.—(1) The types of relief that the court may grant against a network service provider, if the court is satisfied that section 193B(1) applies to the network service provider, shall be limited to either or both of the following:
+
+(a) an order requiring the network service provider to take reasonable steps to disable access to an online location that is physically situated outside Singapore;
+
+(b) an order requiring the network service provider to terminate a specified account.
+
+(2) The types of relief that the court may grant against a network service provider, if the court is satisfied that section 193C(1) or 193D(1) applies to the network service provider, shall be limited to one or more of the following:
+
+(a) an order requiring the network service provider —
+
+(i) to remove an infringing electronic copy of the material from the network service provider’s primary network; or
+
+(ii) to disable access to an infringing electronic copy of the material on the primary network or another network;
+
+(b) an order requiring the network service provider to terminate a specified account;
+
+(c) such other order or orders as may be necessary, if that order is, or those orders are, the least burdensome to the network service provider among comparatively effective non-monetary orders.
+
+(3) When making an order under subsection (1) or (2), the court shall have regard to —
+
+(a) the harm that has been or may foreseeably be caused to the plaintiff;
+
+(b) the burden that the making of the order will place on the network service provider;
+
+(c) the technical feasibility of complying with the order;
+
+(d) the effectiveness of the order;
+
+(e) any possible adverse effect on the business or operations of the network service provider;
+
+(f) whether some other comparatively effective order would be less burdensome; and
+
+(g) all other matters which it considers relevant.
+
+[52/2004 wef 01/01/2005]
+
+### Evidence of compliance with conditions
+
+193DC\. If, in an action relating to this Part, a network service provider adduces evidence, as prescribed, that suggests that he has complied with a condition —
+
+(a) referred to in section 193B(2), 193C(2) or 193D(2) or (4); or
+
+(b) prescribed in any regulations made under section 193DE,
+
+the court shall presume, in the absence of evidence to the contrary, that the network service provider has complied with that condition.
+
+[52/2004 wef 01/01/2005]
+
+### Maker of false notice guilty of offence and liable in damages
+
+193DD\.—(1) A person who, in making a notice under section 193C(2)(b), 193D(2)(b)(iii) or (4)(b)(iii) or 193DA(2)(b), makes any statement which is false, which he knows is false or does not believe to be true, and which touches any point material to the object of the notice —
+
+(a) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years; and
+
+(b) shall also be liable in damages to any person who suffers any loss or damage as a result of the making of that notice for any such loss or damage that is reasonably foreseeable as likely to result from the making of that notice.
+
+(2) Subsection (1) shall apply whether or not the statement is made in Singapore, and if a person makes the statement outside Singapore, he may be dealt with under subsection (1)(a) as if the offence were committed in Singapore.
+
+[52/2004 wef 01/01/2005]
+
+### Regulations
+
+193DE\.—(1) The Minister may make regulations prescribing any thing required or authorised to be prescribed under this Part.
+
+(2) Without prejudice to the generality of subsection (1), the regulations may —
+
+(a) prescribe the procedure or requirements for the notices to be furnished under this Part, including the forms of and information to be contained in such notices, the manner of sending such notices, and the manner of verification of statements in such notices; and
+
+(b) prescribe other conditions which a network service provider must comply with in order to benefit from the provisions in this Part.
+
+[52/2004 wef 01/01/2005]
 
 ### User caching
 
@@ -4830,7 +5784,7 @@ shall, for the purposes of subsection (1), be each deemed to be for the service 
 
 (2) A person who, by the reception of an authorised television broadcast or authorised cable programme, causes a cinematograph film to be seen, heard or seen and heard, in public shall be treated, in any proceedings for infringement of the copyright (if any) in the film under Part IV, as if he had been the holder of a licence granted by the owner of that copyright to cause the film to be seen or heard in public by the reception of the broadcast or the cable programme.
 
-(3) A person who, by the reception and immediate retransmission of an authorised television broadcast or sound broadcast causes a literary, dramatic or musical work or an adaptation of such a work, an artistic work or a cinematograph film programme to be included in a programme in a cable programme service shall be treated, in any proceedings for infringement of the copyright, if any, in the work or film, as if he had been the holder of a licence granted by the owner of that copyright to include the work, adaptation or film to be transmitted by him in any programme included in a cable programme service.
+(3) A person who, by the reception and immediate retransmission of an authorised television broadcast or sound broadcast causes a literary, dramatic or musical work or an adaptation of such a work, an artistic work or a cinematograph film to be included in a programme in a cable programme service shall be treated, in any proceedings for infringement of the copyright, if any, in the work or film, as if he had been the holder of a licence granted by the owner of that copyright to include the work, adaptation or film to be transmitted by him in any programme included in a cable programme service.
 
 (4) If, in the circumstances mentioned in subsection (2) or (3), the person causing the cinematograph film to be seen or heard, or the work, adaptation or cinematograph film to be transmitted, as the case may be, infringed the copyright in question, by reason that the broadcast or cable programme was not an authorised broadcast or programme, proceedings shall not be brought against that person under this Act in respect of his infringement of that copyright, but it shall be taken into account in assessing damages in any proceedings against the maker of the broadcast or programme in respect of that copyright, insofar as that copyright was infringed by them in making the broadcast or programme.
 
@@ -4843,6 +5797,10 @@ shall, for the purposes of subsection (1), be each deemed to be for the service 
 (b) in the case of a sound broadcast, be read as a reference to a sound broadcast made from a place in Singapore by the holder of a broadcasting licence.
 
 [38/99]
+
+(7) For the avoidance of doubt, a reference in subsection (3) to an inclusion of a literary, dramatic, musical or artistic work or a cinematograph film in a programme in a cable programme service shall not include the making available of the work or film on the Internet.
+
+[52/2004 wef 01/01/2005]
 
 ### Groundless threats of legal proceedings
 
@@ -5276,9 +6234,17 @@ Restriction of importation of printed copies of works
 
 ### False attribution of authorship of work
 
-236\.—(1) It is a breach of the duty imposed on a person by section 188 if the person does, on or after 10th April 1987, any of the acts mentioned in subsection (1)(b) and (c) of that section notwithstanding that the name concerned was inserted or affixed before that date.
+236\.—(1) It is a breach of the duty imposed on a person by section 188 if the person does, on or after 10th April 1987, any of the acts mentioned in subsection (1)(b) and (c) of that section in relation to a work notwithstanding that the name concerned was inserted or affixed before that date.
+
+(1A) It is a breach of the duty imposed on a person by section 188 if the person does, on or after 1st January 2005, any of the acts mentioned in subsection (1)(b) and (c) of that section in relation to a recording of a performance, notwithstanding that the name concerned was inserted or affixed before that date.
+
+[52/2004 wef 01/01/2005]
 
 (2) Subject to subsection (1), Part IX shall not apply in relation to acts done before 10th April 1987.
+
+(2A) Subject to subsection (1A), Part IX shall not apply in relation to acts done before 1st January 2005 in respect of a recording of a performance.
+
+[52/2004 wef 01/01/2005]
 
 (3) In this section, “name” includes initials or a monogram.
 
@@ -5438,31 +6404,31 @@ PERFORMERS’ PROTECTION
 
 “electronic copy”, in relation to an electronic recording, means a copy in an electronic form of the recording;
 
-“electronic recording” means a recording in an electronic form;
+“electronic recording” means a recording in an electronic form, whether it is a direct recording or a copy thereof;
 
 “exempt recording” means —
 
-(a) a direct recording of a performance made solely for the purpose of the private and domestic use of the person who made it;
+(a) a direct or an indirect recording of a performance made solely for the purpose of the private and domestic use of the person who made it;
 
-(b) a direct recording of a performance made solely for the purpose of use in scientific research;
+(b) a direct or an indirect recording of a performance made solely for the purpose of use in scientific research;
 
-(c) a direct recording of a performance made by, or on behalf of, the body administering an educational institution solely for the educational purposes of that institution or of another educational institution;
+(c) a direct or an indirect recording of a performance made by, or on behalf of, the body administering an educational institution solely for the educational purposes of that institution or of another educational institution;
 
-(d) a direct recording of a performance made solely for the purposes of setting or answering the questions in an examination or communicating the questions to the candidates;
+(d) a direct or an indirect recording of a performance made solely for the purposes of setting or answering the questions in an examination or communicating the questions to the candidates;
 
-(e) a direct recording of a performance made in the course of instruction, or preparation for instruction, in the making of a cinematograph film or a sound-track associated with the visual images forming part of a cinematograph film, if the recording is done by a person giving or receiving such instruction;
+(e) a direct or an indirect recording of a performance made in the course of instruction, or preparation for instruction, in the making of a cinematograph film or a sound-track associated with the visual images forming part of a cinematograph film, if the recording is done by a person giving or receiving such instruction;
 
-(f) a direct recording of a performance made by, or on behalf of, the body administering an institution assisting handicapped readers solely for use by a handicapped reader for the purpose of research or private study that he is undertaking or proposes to undertake, or for the purpose of otherwise instructing himself on any matter;
+(f) a direct or an indirect recording of a performance made by, or on behalf of, the body administering an institution assisting handicapped readers solely for use by a handicapped reader for the purpose of research or study that he is undertaking or proposes to undertake, or for the purpose of otherwise instructing himself on any matter;
 
-(g) a direct recording of a performance made by, or on behalf of, the body administering an institution assisting intellectually handicapped persons solely for the purpose of the provision, whether by the institution or otherwise, of assistance to intellectually handicapped persons;
+(g) a direct or an indirect recording of a performance made by, or on behalf of, the body administering an institution assisting intellectually handicapped persons solely for the purpose of the provision, whether by the institution or otherwise, of assistance to intellectually handicapped persons;
 
-(h) a direct recording of a performance made —
+(h) a direct or an indirect recording of a performance made —
 
 (i) for the purpose of, or in relation to, the reporting of news or current affairs; or
 
 (ii) for the purpose of criticism or review;
 
-(i) a direct recording of a performance made —
+(i) a direct or an indirect recording of a performance made —
 
 (i) for the purpose of judicial proceedings;
 
@@ -5470,9 +6436,9 @@ PERFORMERS’ PROTECTION
 
 (iii) for the purpose of, or in the course of, the giving of professional advice by an advocate and solicitor;
 
-(j) a direct recording of a performance made by a broadcaster who has the authority of the performer to broadcast the performance, being a recording made solely for the purpose of making that broadcast;
+(j) a direct or an indirect recording of a performance made by a broadcaster who has the authority of the performer to broadcast the performance, being a recording made solely for the purpose of making that broadcast;
 
-(k) a direct recording of a performance made by a person who reasonably believes, due to a fraudulent or innocent misrepresentation made to the person, that the performer has authorised the making of the recording by the person;
+(k) a direct or an indirect recording of a performance made by a person who reasonably believes, due to a fraudulent or innocent misrepresentation made to the person, that the performer has authorised the making of the recording by the person;
 
 (l) a copy of a recording referred to in paragraph (a), (b), (c), (d), (e), (f), (g), (h) or (i), being a copy made solely for a purpose referred to in any of those paragraphs;
 
@@ -5485,6 +6451,20 @@ PERFORMERS’ PROTECTION
 (ii) solely for a purpose referred to in paragraph (a), (b), (c), (d), (e), (f), (g), (h) or (i); or
 
 (o) a copy of an authorised recording of a performance;
+
+“monetary relief” means damages, an account of profits or statutory damages;
+
+[52/2004 wef 01/01/2005]
+
+“network service provider” —
+
+(a) for the purposes of section 252A, means a person who provides services relating to, or provides connections for, the transmission or routing of data; and
+
+(b) for the purposes of sections 252B to 252CC and 252CE, means a person who provides, or operates facilities for, online services or network access and includes a person referred to in paragraph (a),
+
+but does not include such person or class of persons as the Minister may prescribe;
+
+[52/2004 wef 01/01/2005]
 
 “performance” means —
 
@@ -5500,11 +6480,19 @@ PERFORMERS’ PROTECTION
 
 being a live performance given in Singapore or by one or more qualified persons, whether in the presence of an audience or otherwise;
 
+“primary network”, in relation to a network service provider, refers to a network controlled or operated by or for the network service provider;
+
+[52/2004 wef 01/01/2005]
+
 “protection period”, in relation to a performance, means the period beginning on the day when the performance is given and ending at the end of the period of 70 calendar years after the calendar year in which the performance is given;
 
 “qualified person” means a citizen of Singapore or a person resident in Singapore;
 
 “recording” means a sound recording other than an exempt recording;
+
+“routing” means directing or choosing the means or routes for the transmission of data;
+
+[52/2004 wef 01/01/2005]
 
 “sound recording” includes an article in which sounds are embodied;
 
@@ -5614,17 +6602,29 @@ the copy of the recording shall, at the end of that period, cease to be an exemp
 
 252\.—(1) A person makes an unauthorised use of a performance if the person, at any time during the protection period of the performance and without the authority of the performer —
 
-(a) makes a direct recording of the performance;
+(a) makes a direct or an indirect recording of the performance in any manner or medium;
 
-(b) broadcasts live the performance;
+[52/2004 wef 01/01/2005]
+
+(b) communicates the live performance to the public;
+
+[52/2004 wef 01/01/2005]
 
 (c) makes a copy of a recording of the performance that the person knows, or ought reasonably to know, is an unauthorised recording;
 
-(d) makes a copy of an exempt recording of the performance, being a copy that the person knows, or ought reasonably to know, is not itself an exempt recording; or
+(d) makes a copy of an exempt recording of the performance, being a copy that the person knows, or ought reasonably to know, is not itself an exempt recording;
 
-(e) causes the performance to be seen and heard, or seen or heard, live in public.
+(e) causes the performance to be seen and heard, or seen or heard, live in public ;
 
 [6/98]
+
+(f) publishes the recording of the performance if it is unpublished; or
+
+[52/2004 wef 01/01/2005]
+
+(g) makes available a recording of the performance to the public (on a network or otherwise) in such a way that the recording may be accessed by any person from a place and at a time chosen by him.
+
+[52/2004 wef 01/01/2005]
 
 (1A) A person makes an unauthorised use of a performance if the person, at any time on or after 15th December 1999 and during the protection period of the performance, and without the authority of the performer —
 
@@ -5650,59 +6650,261 @@ being a recording that the person knows, or ought reasonably to know, is an unau
 
 [38/98]
 
-### Acts by network service provider to enable access
+### Transmission, routing and provision of connections
 
-252A\. Notwithstanding section 252, a network service provider does not make an unauthorised use of a performance by doing any act in relation to a recording of the performance, being an electronic recording made available on a network, if the doing of the act is incidental to the provision of the technical means to enable users of this or another network to access the performance.
+252A\.—(1) The court shall not grant any monetary relief or, except as provided for in section 252CB, make any order against a network service provider for any unauthorised use of any performance, the protection period of which has not expired, that occurs by reason of —
 
-[38/99]
+(a) the transmission or routing by the network service provider of, or the provision of connections by the network service provider for, an electronic recording of the performance through the network service provider’s primary network; or
 
-### Acts by network service provider at direction of another
+(b) any transient storage by the network service provider of an electronic recording of the performance in the course of such transmission, routing or provision of connections,
 
-252B\.—(1) Notwithstanding section 252, a network service provider does not make an unauthorised use of a performance by doing any act in relation to a recording of the performance, being an electronic recording made available on a network (referred to in this section as the primary network), if —
+if the network service provider satisfies the conditions set out in subsection (2).
 
-(a) the act is done in the course of storing, transmitting, routing or otherwise providing connections to the recording on the primary or another network;
+(2) The conditions referred to in subsection (1) are that —
 
-(b) the storage, transmission, routing or provision of connections (as the case may be) is done at the express or implied direction of a user of the network referred to in paragraph (a); and
+(a) the transmission of the electronic recording of the performance was initiated by or at the direction of a person other than the network service provider;
 
-(c) the recording is stored, transmitted or routed (as the case may be) without any deliberate modification by the network service provider to its contents.
+(b) the transmission, routing, provision of connections or storage is carried out through an automatic technical process without any selection of the electronic recording of the performance by the network service provider;
 
-[38/99]
+(c) the network service provider does not select the recipients of the electronic recording of the performance except as an automatic response to the request of another person; and
 
-(2) Subsection (1) does not apply if —
+(d) the network service provider does not make any substantive modification (other than any modification made as part of a technical process) to the content of the electronic recording of the performance during the transmission of the electronic recording of the performance through the primary network.
 
-(a) the primary network is operated, and controlled, solely by the network service provider;
+[52/2004 wef 01/01/2005]
 
-(b) the network service provider was furnished with a statutory declaration, purportedly made by the performer of the performance or under the performer’s authority, stating —
+### System caching
 
-(i) that the maker of the declaration in good faith believes that the recording is an unauthorised recording;
+252B\.—(1) The court shall not grant any monetary relief or, except as provided for in section 252CB, make any order against a network service provider for any unauthorised use of any performance, the protection period of which has not expired, that occurs by reason of the making by the network service provider of an electronic recording of the performance (referred to in this section as the cached copy) on the network service provider’s primary network —
 
-(ii) the grounds for his belief; and
+(a) from another electronic recording of the performance made available on a network (referred to in this section as the originating network);
 
-(iii) such other information as may be prescribed; and
+(b) through an automatic process;
 
-(c) despite being furnished with the statutory declaration, the network service provider fails within a reasonable time to take reasonable steps to —
+(c) in response to an action by a user of the primary network; and
 
-(i) remove the recording from the primary network; or
+(d) in order to facilitate efficient access to the performance by that user or other users,
 
-(ii) disable access to the recording on the primary network.
+if the network service provider satisfies the conditions set out in subsection (2).
 
-[38/99]
+(2) The conditions referred to in subsection (1) are that —
 
-### Exemption of network service provider from liability for removal of recording from network
+(a) the network service provider does not make any substantive modification (other than any modification made as part of a technical process) to the content of the cached copy of the electronic recording of the performance during the transmission of the cached copy of the electronic recording of the performance to users of the primary network or another network;
 
-252C\.—(1) Notwithstanding anything to the contrary in any law (written or otherwise), a network service provider shall not be subject to any civil or criminal liability under any rule of law in respect of —
+(b) if the network service provider is furnished in the prescribed manner with a notice in, the prescribed form relating to the cached copy of the electronic recording of the performance —
 
-(a) the removal of an electronic recording of a performance from a network operated, and controlled, solely by him; or
+(i) purportedly made by the performer of the performance or under the performer’s authority; and
 
-(b) the disabling of access to the performance on the network,
+(ii) stating the prescribed matters,
 
-if such removal or disabling was done pursuant to a statutory declaration referred to in section 252B(2)(b) in relation to the recording.
+the network service provider expeditiously takes reasonable steps to remove or disable access to the cached copy of the electronic recording of the performance on the primary network; and
 
-[38/99]
+(c) the network service provider satisfies such other conditions as the Minister may prescribe in relation to —
 
-(2) Subsection (1) shall apply whether or not the recording of the performance is ultimately determined to be an unauthorised recording.
+(i) access to the cached copy of the electronic recording of the performance by users of the primary network or another network;
 
-[38/99]
+(ii) the refreshing, reloading or updating of the cached copy of the electronic recording of the performance; and
+
+(iii) non-interference with technology used at the originating network to obtain information about the use of any electronic recording of any performance on the originating network, being technology that is consistent with industry standards in Singapore.
+
+[52/2004 wef 01/01/2005]
+
+### Storage and information location
+
+252C\.—(1) The court shall not grant any monetary relief or, except as provided for in section 252CB, make any order against a network service provider for any infringement of copyright in any performance, the protection period of which has not expired, that occurs by reason of —
+
+(a) the storage, at the direction of a user of the network service provider’s primary network, of an electronic recording of the performance on the primary network, if the network service provider satisfies the conditions referred to in subsection (2); or
+
+(b) the network service provider referring or linking a user of any network to an online location on a network (referred to in this section as the originating network), being a location at which an electronic recording of the performance is made available, by the use of —
+
+(i) an information location tool such as a hyperlink or directory; or
+
+(ii) an information location service such as a search engine,
+
+if the network service provider satisfies the conditions referred to in subsection (4).
+
+(2) The conditions referred to in subsection (1)(a) are that —
+
+(a) the network service provider does not receive any financial benefit directly attributable to any unauthorised use of the performance that occurs in, or in the course of, making available the electronic recording of the performance on the primary network, provided that the network service provider has the right and ability to control the unauthorised use of the performance;
+
+(b) if the network service provider —
+
+(i) acquires actual knowledge that there has been an unauthorised use of the performance in, or in the course of, making available the electronic recording of the performance on the primary network;
+
+(ii) acquires knowledge of such facts or circumstances which would lead inevitably to the conclusion that there has been an unauthorised use of the performance in, or in the course of, making available the electronic recording of the performance on the primary network; or
+
+(iii) is furnished in the prescribed manner with a notice in the prescribed form relating to the electronic recording of the performance on the primary network —
+
+(A) purportedly made by the performer of the performance or under the performer’s authority; and
+
+(B) stating the prescribed matters,
+
+the network service provider expeditiously takes reasonable steps to remove or disable access to the electronic recording of the performance on the primary network; and
+
+(c) the network service provider has designated a representative to receive any notice referred to in paragraph (b)(iii) and published the prescribed information on the designated representative in the prescribed manner.
+
+(3) For the purposes of subsection (2), where a network service provider is not an individual, the network service provider shall not be treated as having acquired any knowledge referred to in subsection (2)(b)(i) or (ii) —
+
+(a) unless that knowledge is acquired by the representative referred to in subsection (2)(c); and
+
+(b) where it is alleged that the representative has acquired that knowledge by reason only of any communication made to the representative, unless that communication is in the form of the notice referred to in subsection (2)(b)(iii).
+
+(4) The conditions referred to in subsection (1)(b) are that —
+
+(a) the network service provider does not receive any financial benefit directly attributable to any unauthorised use of the performance that occurs in, or in the course of, making available the electronic recording of the performance on the originating network, provided that the network service provider has the right and ability to control the unauthorised use of the performance;
+
+(b) if the network service provider —
+
+(i) acquires actual knowledge that there has been an unauthorised use of the performance in, or in the course of, making available the electronic recording of the performance on the originating network;
+
+(ii) acquires knowledge of such facts or circumstances which would lead inevitably to the conclusion that there has been an unauthorised use of the performance in, or in the course of, making available the electronic recording of the performance on the originating network; or
+
+(iii) is furnished in the prescribed manner with a notice in the prescribed form relating to the electronic recording of the performance on the originating network —
+
+(A) purportedly made by the performer of the performance or under the performer’s authority; and
+
+(B) stating the prescribed matters,
+
+the network service provider expeditiously takes reasonable steps to disable access to the electronic recording of the performance on the originating network, and to remove or disable access to any electronic recording of the performance (being a copy made from the electronic recording of the performance on the originating network and of which the network service provider has actual knowledge) on the primary network; and
+
+(c) the network service provider has designated a representative to receive any notice referred to in paragraph (b)(iii) and published the prescribed information on the designated representative in the prescribed manner.
+
+(5) For the purposes of subsection (4), where a network service provider is not an individual, the network service provider shall not be treated as having acquired any knowledge referred to in subsection (4)(b) —
+
+(a) unless that knowledge is acquired by the representative referred to in subsection (4)(c); and
+
+(b) where it is alleged that the representative has acquired that knowledge by reason only of any communication made to the representative, unless that communication is in the form of the notice referred to in subsection (4)(b)(iii).
+
+(6) For the purposes of subsections (2)(a) and (4)(a) —
+
+(a) a financial benefit does not include a benefit that is received merely on account of the provision of any online service by the network service provider; and
+
+(b) a financial benefit is to be regarded as directly attributable to an unauthorised use of the performance only if the network service provider knew or ought reasonably to have known at the time of the receipt of the benefit that an unauthorised use of the performance was involved.
+
+[52/2004 wef 01/01/2005]
+
+### Exemption of network service provider from liability for removal of copy, etc., from network
+
+252CA\.—(1) Notwithstanding anything to the contrary in any law (written or otherwise), a network service provider shall not be subject to any liability under any rule of law in respect of any action taken in good faith in relation to —
+
+(a) the removal of an electronic recording of any performance from his primary network; or
+
+(b) the disabling of access to an electronic recording of any performance on his primary network or another network,
+
+if —
+
+(i) such removal or disabling was done in reliance on any notice referred to in section 252B(2)(b) or 252C(2)(b)(iii) or (4)(b)(iii) or any knowledge referred to in section 252C(2)(b)(i) or (ii) or (4)(b)(i) or (ii); and
+
+(ii) in the case of any removal or disabling done in reliance on any notice referred to in section 252C(2)(b)(iii) or (4)(b)(iii) or any knowledge referred to in section 252C(2)(b)(i) or (ii) or (4)(b)(i) or (ii), the conditions referred to in subsection (2) are satisfied.
+
+(2) The conditions referred to in subsection (1)(ii) are that —
+
+(a) after such removal or disabling, the network service provider expeditiously takes reasonable steps to notify the person who made available the electronic recording of the performance on the network of this; and
+
+(b) where the network service provider is furnished in the prescribed manner, within the prescribed time, with a notice in the prescribed form purportedly made by the person who made available the electronic recording of the performance on the network, or under that person’s authority, stating the prescribed matters —
+
+(i) the network service provider expeditiously takes reasonable steps to restore the electronic recording of the performance to the network, or to restore access to that electronic recording, as the case may be, if it is technically and practically feasible to do so; or
+
+(ii) before the network service provider has completed the steps referred to in sub-paragraph (i), the performer of the performance commences proceedings to prevent the electronic recording of the performance, or the access to it, from being restored, and the network service provider is informed of those proceedings.
+
+(3) Subsection (1) shall apply whether or not it is ultimately determined that any relevant act that was carried out constitutes an unauthorised use of the performance under this Act.
+
+(4) Notwithstanding anything to the contrary in any law (written or otherwise), a network service provider shall not be subject to any liability under any rule of law in respect of any action taken in good faith in relation to —
+
+(a) the restoration of an electronic recording of any performance to his primary network; or
+
+(b) the restoration of access to an electronic recording of any performance on any network,
+
+if such restoration was done in reliance on any notice referred to in subsection (2)(b).
+
+(5) A network service provider shall not be treated as having authorised the doing of any act which is an unauthorised use of a performance under this Act by reason only that the network service provider —
+
+(a) has provided a facility which was used by another person to do that act;
+
+(b) has received any notice referred to in section 252B(2)(b) or 252C(2)(b)(iii) or (4)(b)(iii) in respect of that act; or
+
+(c) has acquired any knowledge referred to in section 252C(2)(b)(i) or (ii) or (4)(b)(i) or (ii) in respect of that act.
+
+[52/2004 wef 01/01/2005]
+
+### Relief which court may grant
+
+252CB\.—(1) The types of relief that the court may grant against a network service provider, if the court is satisfied that section 252A(1) applies to the network service provider, shall be limited to either or both of the following:
+
+(a) an order requiring the network service provider to take reasonable steps to disable access to an online location that is physically situated outside Singapore;
+
+(b) an order requiring the network service provider to terminate a specified account.
+
+(2) The types of relief that the court may grant against a network service provider, if the court is satisfied that section 252B(1) or 252C(1) applies to the network service provider, shall be limited to one or more of the following:
+
+(a) an order requiring the network service provider —
+
+(i) to remove an unauthorised electronic recording of the performance from the network service provider’s primary network; or
+
+(ii) to disable access to an unauthorised electronic recording of the performance on the primary network or another network;
+
+(b) an order requiring the network service provider to terminate a specified account;
+
+(c) such other order or orders as may be necessary, if that order is, or those orders are, the least burdensome to the network service provider among comparatively effective non-monetary orders.
+
+(3) When making an order under subsection (1) or (2), the court shall have regard to —
+
+(a) the harm that has been or may foreseeably be caused to the plaintiff;
+
+(b) the burden that the making of the order will place on the network service provider;
+
+(c) the technical feasibility of complying with the order;
+
+(d) the effectiveness of the order;
+
+(e) any possible adverse effect on the business or operations of the network service provider;
+
+(f) whether some other comparatively effective order would be less burdensome; and
+
+(g) all other matters which it considers relevant.
+
+[52/2004 wef 01/01/2005]
+
+### Evidence of compliance with conditions
+
+252CC\. If, in an action relating to this Part, a network service provider adduces evidence, as prescribed, that suggests that he has complied with a condition —
+
+(a) referred to in section 252A(2), 252B(2) or 252C(2) or (4); or
+
+(b) prescribed in any regulations made under section 252CE,
+
+the court shall presume, in the absence of evidence to the contrary, that the network service provider has complied with that condition.
+
+[52/2004 wef 01/01/2005]
+
+### Maker of false notice guilty of offence and liable in damages
+
+252CD\.—(1) A person who, in making a notice under section 252B(2)(b), 252C(2)(b)(iii) or (4)(b)(iii) or 252CA(2)(b), makes any statement which is false, which he knows is false or does not believe to be true, and which touches any point material to the object of the notice —
+
+(a) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years; and
+
+(b) shall also be liable in damages to any person who suffers any loss or damage as a result of the making of that notice for any such loss or damage that is reasonably foreseeable as likely to result from the making of that notice.
+
+(2) Subsection (1) shall apply whether or not the statement is made in Singapore, and if a person makes the statement outside Singapore, he may be dealt with under subsection (1)(a) as if the offence were committed in Singapore.
+
+[52/2004 wef 01/01/2005]
+
+### Regulations
+
+252CE\.—(1) The Minister may make regulations prescribing anything required or authorised to be prescribed under sections 252A to 252CD.
+
+(2) Without prejudice to the generality of subsection (1), the regulations may —
+
+(a) prescribe the procedure or requirements for the notices to be furnished under sections 252B(2)(b), 252C(2)(b)(iii) and (4)(b)(iii) and 252CA(2)(b), including the forms of and information to be contained in such notices, the manner of sending such notices, and the manner of verification of statements in such notices; and
+
+(b) prescribe other conditions which a network service provider must comply with in order to benefit from the provisions in section 252A to 252CD.
+
+[52/2004 wef 01/01/2005]
+
+### Effect of application of sections 252A to 252CD
+
+252CF\. Sections 252A to 252CD do not limit the operation of the other provisions of this Part in relation to determining whether there has been an unauthorised use of a performance.
+
+[52/2004 wef 01/01/2005]
 
 ### User caching
 
@@ -5716,9 +6918,33 @@ if such removal or disabling was done pursuant to a statutory declaration referr
 
 [6/98]
 
-(2) The relief that a court may grant in an action for an unauthorised use of a performance includes an injunction (subject to such terms, if any, as the court thinks fit) and damages.
+(1A) An action shall not be brought for an unauthorised use of a performance after the expiration of 6 years from the time when the unauthorised use took place.
 
-[6/98]
+[52/2004 wef 01/01/2005]
+
+(2) Subject to the provisions of this Act, in an action for unauthorised use of a performance, the types of relief that the court may grant include the following:
+
+(a) an injunction (subject to such terms, if any, as the court thinks fit);
+
+(b) damages;
+
+(c) an account of profits;
+
+(d) where the plaintiff has elected for an award of statutory damages in lieu of damages or an account of profits, statutory damages of —
+
+(i) not more than $10,000 for each performance in respect of which there has been an unauthorised use; but
+
+(ii) not more than $200,000 in the aggregate, unless the plaintiff proves that his actual loss from such infringement exceeds $200,000.
+
+[52/2004 wef 01/01/2005]
+
+(2A) When the court awards any damages under subsection (2)(b), the court may also make an order under subsection (2)(c) for an account of any profits attributable to the unauthorised use that have not been taken into account in computing the damages.
+
+[52/2004 wef 01/01/2005]
+
+(2B) Except as provided for in subsection (2A), the types of relief referred to in subsection (2)(b), (c) and (d) are mutually exclusive.
+
+[52/2004 wef 01/01/2005]
 
 (3) Where, in an action for an unauthorised use of a performance —
 
@@ -5732,11 +6958,31 @@ if such removal or disabling was done pursuant to a statutory declaration referr
 
 (iii) all other relevant matters,
 
-the court may, in assessing damages , award such additional damages as it considers appropriate in the circumstances.
+the court may, in assessing damages under subsection (2) (b), award such additional damages as it considers appropriate in the circumstances.
 
 [6/98]
 
-(4) The court may, in addition to any relief granted under subsections (2) and (3), order any unauthorised recording of the performance, or any article which has been predominantly used for making unauthorised recordings of the performance, in the possession of the defendant or before the court to be delivered up to the performer.
+(3A) In awarding statutory damages undersubsection (2)(d), the court shall have regard to —
+
+(a) the nature and purpose of the unauthorised use, including whether the unauthorised use was of a commercial nature or otherwise;
+
+(b) the flagrancy of the unauthorised use;
+
+(c) whether the defendant acted in bad faith;
+
+(d) any loss that the plaintiff has suffered or is likely to suffer by reason of the unauthorised use;
+
+(e) any benefit shown to have accrued to the defendant by reason of the unauthorised use;
+
+(f) the conduct of the parties before and during the proceedings;
+
+(g) the need to deter other similar instances of unauthorised use; and
+
+(h) all other relevant matters.
+
+[52/2004 wef 01/01/2005]
+
+(4) The court may, in addition to any relief granted under subsections (2) and (3), order any unauthorised recording of the performance, or any article which has been used for making unauthorised recordings of the performance, in the possession of the defendant or before the court to be delivered up to the performer.
 
 [6/98; 38/99]
 
@@ -5747,6 +6993,14 @@ the court may, in assessing damages , award such additional damages as it consid
 (6) A performer to whom an unauthorised recording or other object is delivered up pursuant to an order made under subsection (4) shall, if an order under section 254 is not made, retain the recording or object pending the making of an order, or the decision not to make an order, under that section.
 
 [6/98]
+
+### Presumptions in relation to performance
+
+253A\.—(1) Where the name of a person appears on copies of a recording of a performance, as made available to the public, in such a way as to imply that the person is the performer of the performance, and that name is his true name or a name by which he is commonly known, the person shall, in an action brought by virtue of this Part, be presumed, unless the contrary is established, to be the performer of the performance embodied in the recording.
+
+(2) Where the name of a group of performers appears on copies of a recording of a performance, as made available to the public, in such a way as to imply that the group performed in the performance embodied in the recording, and that name is the true name of the group or a name by which the group is commonly known, the group shall, in an action brought by virtue of this Part, be presumed, unless the contrary is established, to have performed in the performance embodied in the recording.
+
+[52/2004 wef 01/01/2005]
 
 ### Order for disposal of infringing copies or other object
 
@@ -5818,6 +7072,22 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [38/99]
 
+(3A) Where, at any time during the protection period of a performance ––
+
+(a) a person does any act that constitutes an unauthorised use of the performance other than an act referred to in subsection (1), (2), (3), (5) or (6);
+
+(b) the unauthorised use of the performance by the person is wilful; and
+
+(c) either or both of the following apply:
+
+(i) the extent of the unauthorised use is significant;
+
+(ii) the person does the act to obtain a commercial advantage,
+
+the person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a second or subsequent offence, to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+[52/2004 wef 01/01/2005]
+
 (4) A person who, at any time during the protection period of a performance, makes or has in his possession an article specifically designed or adapted for making recordings of the performance that the person knows, or ought reasonably to know, is to be used to make unauthorised recordings of the performance, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 for each such article in respect of which the offence is committed or to imprisonment for a term not exceeding 2 years or to both.
 
 [38/99]
@@ -5830,7 +7100,23 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [38/99]
 
-(7) For the purposes of this section , any person who has in his possession 5 or more unauthorised recordings of a performance shall, unless the contrary is proved, be presumed —
+(6A) For the purposes of subsection (3A)(c)(i), in determining whether the extent of the unauthorised use of a performance is significant, the court shall have regard to —
+
+(a) the volume of any articles that are unauthorised recordings of the performance;
+
+(b) the value of any articles that are unauthorised recordings of the performance;
+
+(c) whether the unauthorised use has a substantial prejudicial impact on the performer of the performance; and
+
+(d) all other relevant matters.
+
+[52/2004 wef 01/01/2005]
+
+(6B) For the purposes of subsection (3A)(c)(ii), a person does an act for the purpose of obtaining a commercial advantage if the act is done to obtain a direct advantage, benefit or financial gain for a business or trade carried on by him.
+
+[52/2004 wef 01/01/2005]
+
+(7) For the purposes of this section (other than subsection (3A)), any person who has in his possession 5 or more unauthorised recordings of a performance shall, unless the contrary is proved, be presumed —
 
 (a) to be in possession of such recordings otherwise than for private and domestic use; or
 
@@ -5838,13 +7124,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [38/99]
 
-(8) The court before which a person is charged with an offence under this section may, whether he is convicted of the offence or not, order that any article that appears to the court to be an unauthorised recording of a performance or any article which has been predominantly used for making unauthorised recordings of a performance, in the possession of the alleged offender or before the court, be destroyed or delivered up to the performer concerned or otherwise dealt with in such manner as the court thinks fit.
+(8) The court before which a person is charged with an offence under this section may, whether he is convicted of the offence or not, order that any article that appears to the court to be an unauthorised recording of a performance or any article which has been used for making unauthorised recordings of a performance, in the possession of the alleged offender or before the court, be destroyed or delivered up to the performer concerned or otherwise dealt with in such manner as the court thinks fit.
 
 [38/99]
 
-(9) If information is given upon oath to a court that there is reasonable cause for suspecting that there is in any premises any article or document which is evidence that an offence under subsection (1), (2), (3), (4), (5) or (6) has been committed, the court may issue, either unconditionally or subject to such conditions as the court thinks fit, a warrant authorising a police officer to enter and search the premises for the articles and documents which are specified in the warrant, and to seize such articles and documents found at the premises.
+(9) If information is given upon oath to a court that there is reasonable cause for suspecting that there is in any premises any article or document which is evidence that an offence under subsection (1), (2), (3), (3A), (4), (5) or (6) has been committed, the court may issue, either unconditionally or subject to such conditions as the court thinks fit, a warrant authorising a police officer to enter and search the premises for the articles and documents which are specified in the warrant, whether specifically or in any general category, and to seize any such articles and documents found at the premises.
 
-[38/99]
+[52/2004 wef 01/01/2005]
 
 (10) If an article was seized under subsection (9) and —
 
@@ -5867,6 +7153,24 @@ the article shall be returned to the person in whose possession it was when it w
 “premises” includes any land, building, structure and conveyance.
 
 [38/99]
+
+### Application of sections 140A to 141
+
+254B\.—(1) Sections 140A to 141 shall apply, with the necessary modifications, to copies of an unauthorised recording of a performance as those provisions apply in relation to copies of copyright material.
+
+(2) For the purposes of subsection (1) —
+
+(a) a reference in those provisions to copyright material shall be read as a reference to an unauthorised recording of a performance the protection period of which has not expired;
+
+(b) a reference in those provisions to the owner of the copyright or the owner of the copyright in the copyright material shall be read as a reference to the performer of a performance embodied in an unauthorised recording;
+
+(c) a reference in those provisions to an action for infringement of copyright shall be read as a reference to an action for unauthorised use of a performance;
+
+(d) a reference in those provisions to infringing copies shall be read as a reference to copies of an unauthorised recording which were made without the authorisation of the performer; and
+
+(e) a reference in section 140B(6) to the subsequent owner of the copyright shall be read as a reference to a person to whom the right of a performer to bring an action under section 253 has been assigned.
+
+[52/2004 wef 01/01/2005]
 
 ### Rights to bring an action may be assigned
 
@@ -5914,17 +7218,23 @@ RIGHTS MANAGEMENT INFORMATION
 
 ### Interpretation of this Part
 
-258\. In this Part —
+258\. In this Part, unless the context otherwise requires —
 
-(a) “performance”;
+“performance”, “recording” and “unauthorised use” have the same meanings as in Part XII;
 
-(b) “recording”, in relation to a performance; and
+“rights management information”, in relation to a copy of a work or other subject-matter or a recording of a performance, means any of the following:
 
-(c) “unauthorised use”, in relation to a performance,
+(a) information which identifies the work, subject-matter or performance;
 
-have the meanings given to them under Part XII.
+(b) information which identifies the author of the work, the owner of copyright in a work or subject-matter or the performer of a performance;
 
-[38/99]
+(c) information about the terms and conditions of use of the copy of the work or subject-matter or the recording of the performance;
+
+(d) any numbers or codes that represent the information referred to in paragraph (a), (b) or (c),
+
+but excludes any information relating to a user of the copy of the work or subject-matter or the recording of the performance, such as the name, account, address or other contact information of, or pertaining to, the user.
+
+[52/2004 wef 01/01/2005]
 
 ### Application of this Part
 
@@ -5948,47 +7258,459 @@ under any provision of this Act.
 
 ### Removal or alteration of rights management information
 
-260\.—(1) This section shall apply where rights management information in an electronic form is attached to a copy of a work or other subject-matter or a recording of a performance, or appears in connection with the making available of a copy of a work or subject-matter, or a recording of a performance, on a network.
+260\.—(1) This section shall apply where rights management information in an electronic form —
 
-[38/99]
+(a) is attached to or embodied in a copy of a work or other subject-matter in which copyright subsists or a recording of a performance; or
 
-(2) An action may be brought by the person who provides the rights management information against another person who, knowingly and with intent to mislead or to induce or facilitate an infringement of the copyright in the work or subject-matter or an unauthorised use of the performance (as the case may be), removes or alters the rights management information.
+(b) appears in connection with the communication or making available to the public of a copy of a work or other subject-matter or a recording of a performance.
 
-[38/99]
+(2) Where a person ––
 
-(3) Subsection (2) does not apply where the removal or alteration of electronic rights management information is carried out with the consent of the person who provides the rights management information.
+(a) knowingly removes or alters the rights management information relating to any work or other subject-matter or recording of a performance;
 
-[38/99]
+(b) does so without the consent of —
 
-(4) In this section, “rights management information”, in relation to a copy of a work or other subject-matter or a recording of a performance, means any of the following:
+(i) the owner or exclusive licensee of the copyright in the work or subject-matter; or
 
-(a) information which identifies the work, subject-matter or performance;
+(ii) the performer of the performance; and
 
-(b) information which identifies the author of the work, the owner of copyright in a work or subject-matter or the performer of a performance;
+(c) knows or ought reasonably to know that the removal or alteration of the rights management information will induce, enable, facilitate or conceal —
 
-(c) information about the terms and conditions of use of the copy of the work or subject-matter or the recording of the performance;
+(i) an infringement of the copyright of the work or subject-matter; or
 
-(d) any numbers or codes that represent the information referred to in paragraph (a), (b) or (c),
+(ii) an unauthorised use of the performance,
 
-but excludes any information relating to a user of the copy of the work or subject-matter or the recording of the performance, such as the name, account, address or other contact information of, or pertaining to, the user.
+an action may be brought by the owner or exclusive licensee of the copyright or the performer against the person.
 
-[38/99]
+(3) Where a person ––
+
+(a) distributes or imports for distribution the rights management information relating to any work or other subject-matter or any recording of a performance, being rights management information which has been altered without the consent of —
+
+(i) the owner or exclusive licensee of the copyright in the work or subject-matter; or
+
+(ii) the performer of the performance;
+
+(b) does so without the consent of the owner or exclusive licensee of the copyright or the performer;
+
+(c) does so knowing that the rights management information has been altered without the consent of the owner or exclusive licensee of the copyright or the performer; and
+
+(d) knows or ought reasonably to know that the distribution or importation of the rights management information will induce, enable, facilitate or conceal —
+
+(i) an infringement of the copyright in the work or subject-matter; or
+
+(ii) an unauthorised use of the performance,
+
+to which the rights management information relates,
+
+an action may be brought by the owner or exclusive licensee of the copyright or the performer against the person.
+
+(4) Where a person ––
+
+(a) distributes, imports for distribution, communicates or makes available to the public copies of a work or other subject-matter or a recording of a performance in respect of which the rights management information has been removed or altered without the consent of —
+
+(i) the owner or exclusive licensee of the copyright in the work or subject matter; or
+
+(ii) the performer of the performance;
+
+(b) does so without the consent of the owner or exclusive licensee of the copyright or the performer;
+
+(c) does so knowing that the rights management information has been removed or altered without the consent of the owner or exclusive licensee of the copyright or the performer; and
+
+(d) knows or ought reasonably to know that the distribution, importation, communication or making available to the public of the copies of the work or subject-matter or the recording of the performance will induce, enable, facilitate or conceal —
+
+(i) an infringement of the copyright in the work or subject-matter; or
+
+(ii) an unauthorised use of a performance,
+
+an action may be brought by the owner or exclusive licensee of the copyright or the performer against the person.
+
+(5) An action shall not be brought in respect of any act referred to in subsection (2), (3) or (4) after the expiration of 6 years from the time when the act took place.
+
+(6) Subject to subsection (7), where a person does an act referred to in subsection (2), (3) or (4) —
+
+(a) wilfully; and
+
+(b) for the purpose of obtaining any commercial advantage ,
+
+he shall be guilty of an offence and shall be liable on conviction —
+
+(i) in the case of an act referred to in subsection (2), to a fine not exceeding $20,000; or
+
+(ii) in the case of an act referred to in subsection (3) or (4), to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+(7) Subsection (6) shall not apply to any act done by or on behalf of a non-profit library, any non-profit archives, an educational institution, an institution assisting handicapped readers, an institution assisting intellectually handicapped readers, or such public, non-commercial broadcasting organisation as the Minister may prescribe.
+
+(8) For the purposes of subsection (6), a person does an act for the purpose of obtaining a commercial advantage if the act is done to obtain a direct advantage, benefit or financial gain for a business or trade carried on by him.
+
+[52/2004 wef 01/01/2005]
 
 ### Relief which court may grant
 
-261\.—(1) In an action brought under section 260, the court, if satisfied that the defendant has carried out or is carrying out an act referred to in section 260(2), may grant the plaintiff an injunction (subject to such terms, if any, as the court thinks fit) or damages, or both.
+261\.—(1) In an action brought under section 260, the types of relief that the court may grant if it is satisfied that the defendant has carried out or is carrying out an act referred to in section 260(2), (3) or (4) (referred to in this section as a relevant act) include the following:
 
-[38/99]
+(a) an injunction (subject to such terms, if any, as the court thinks fit);
 
-(2) In addition to the relief referred to in subsection (1), the court may order that any article —
+(b) damages;
 
-(a) by means of which, or in relation to which, the act referred to in that subsection was or is being carried out; and
+(c) an account of profits;
+
+(d) where the plaintiff has elected for an award of statutory damages in lieu of damages or an account of profits, statutory damages of not more than $20,000.
+
+(2) When the court awards any damages under subsection (1)(b) in respect of a relevant act, the court may also make an order under subsection (1)(c) for an account of any profits attributable to the relevant act that have not been taken into account in computing the damages.
+
+(3) Except as provided for in subsection (2), the types of relief referred to in subsection (1)(b), (c) or (d) are mutually exclusive.
+
+(4) In awarding statutory damages under subsection (1)(d) in respect of any relevant act, the court shall have regard to —
+
+(a) the nature or purpose of the act concerned, including whether the act was of a commercial nature or otherwise;
+
+(b) the flagrancy of the act;
+
+(c) whether the defendant acted in bad faith;
+
+(d) any loss that the plaintiff has suffered or is likely to suffer by reason of the act;
+
+(e) any benefit shown to have accrued to the defendant by reason of the act;
+
+(f) the conduct of the parties before and during the proceedings;
+
+(g) the need to deter other similar acts; and
+
+(h) all other relevant matters.
+
+(5) In addition to the relief referred to in subsection (1), the court may order that any article —
+
+(a) by means of which, or in relation to which, a relevant act was or is being carried out; and
 
 (b) which is in the possession of the defendant or before the court,
 
 be delivered up to the plaintiff or destroyed.
 
-[38/99]
+[52/2004 wef 01/01/2005]
+
+### Enforcement measures
+
+261A\.—(1) The court before which a person is charged with an offence under section 260(6) may, whether he is convicted of the offence or not, order that any article that appears to the court to be —
+
+(a) a copy of a work or other subject-matter or a recording of a performance in respect of which the rights management information has been altered or removed without the consent of the owner or exclusive licensee of the work or other subject-matter or the performer of the performance, as the case may be; or
+
+(b) used predominantly for removing or altering the rights management information in respect of any work or other subject-matter or any recording of a performance,
+
+in the possession of the alleged offender or before the court, be destroyed or delivered up to the owner or exclusive licensee of the copyright concerned or the performer of the performance, as the case may be, or otherwise dealt with in such manner as the court thinks fit.
+
+(2) If information is given upon oath to a court that there is reasonable cause for suspecting that there is in any premises any article or document which is evidence that an offence under section 260(6) has been committed, the court may issue, either unconditionally or subject to such conditions as the court thinks fit, a warrant authorising a police officer to enter and search the premises for the articles and documents which are specified in the warrant, whether specifically or in any general category, and to seize any such articles and documents found at the premises.
+
+(3) If an article was seized under subsection (2) and —
+
+(a) in proceedings brought under section 260(6), no order is made as to the disposal of the article, whether under subsection (1) or otherwise; or
+
+(b) no such proceedings are instituted within 6 months of the seizure,
+
+the article shall be returned to the person in whose possession it was when it was seized or, if it is not reasonably practicable to return it to that person, shall be disposed of in accordance with the law regulating the disposal of lost or unclaimed property in the hands of police authorities.
+
+(4) If a document was seized under subsection (2) and no proceedings under section 260(6) are instituted within 6 months of the seizure, the document and all copies of the document shall be returned to the person in whose possession the document was when it was seized or, if it is not reasonably practicable to return the document and copies to that person, shall be disposed of in accordance with the law regulating the disposal of lost or unclaimed property in the hands of police authorities.
+
+(5) In this section —
+
+“document” means anything in which information of any description is recorded;
+
+“premises” includes any land, building, structure and conveyance.
+
+[52/2004 wef 01/01/2005]
+
+## PART XIIIA
+
+CIRCUMVENTION OF TECHNOLOGICAL MEASURES
+
+[52/2004 wef 01/01/2005]
+
+### Interpretation and effect of application of this Part
+
+261B\.—(1) In this Part, unless the context otherwise requires —
+
+“circumvent” means to avoid, bypass, remove, deactivate, descramble (where the copy is scrambled), decrypt (where the copy is encrypted) or otherwise impair;
+
+“copy”, in relation to any work or other subject-matter or any performance, means a copy of the work or subject-matter or of a recording of the performance, and includes the original version of the work or subject-matter or a recording of the performance;
+
+“encryption technology” means technology for scrambling and descrambling information using mathematical formulae or algorithms;
+
+“non-profit” means not operated or conducted for profit;
+
+“performance”, “protection period”, “recording” and “unauthorised use” have the same meanings as in Part XII;
+
+“personally identifying information” means information which can be used to identify persons using a network;
+
+“technological access control measure” means any technology, device or component that, in the normal course of its operation, effectively controls access to a copy of —
+
+(a) a work or other subject-matter; or
+
+(b) a performance,
+
+but excludes such technology, device or component as the Minister may prescribe;
+
+“technological measure” means a technological access control measure or a technological protection measure;
+
+“technological protection measure” means any technology, device or component that, in the normal course of its operation, effectively prevents or limits the doing of —
+
+(a) in relation to a copy of a work or other subject-matter, any act comprised in the copyright in the work or subject-matter; or
+
+(b) in relation to a copy of a performance, an unauthorised use of the performance,
+
+but excludes such technology, device or component as the Minister may prescribe.
+
+(2) Nothing in this Part shall affect any act done in relation to a work or other subject-matter in which copyright no longer subsists, or in relation to a performance the protection period of which has expired.
+
+(3) Nothing in this Part shall affect —
+
+(a) any copyright subsisting in a work or other subject-matter;
+
+(b) any right in relation to a performance or a recording thereof;
+
+(c) any limitation on copyright in a work or other subject-matter, or on a right in relation to a performance or a recording thereof; or
+
+(d) any defence to an action for infringement of copyright, or for an unauthorised use of a performance,
+
+under any provision of this Act.
+
+### Circumvention of technological measures
+
+261C\.—(1) Subject to sections 261D and 261E, where a technological measure is applied to a copy of a work or other subject-matter by or with the authorisation of the owner of the copyright in the work or subject-matter in connection with the exercise of the copyright, or to a copy of a performance by or with the authorisation of the performer of the performance in connection with the exercise of any right in the performance, no person shall, without the authorisation of the owner of the copyright or the performer of the performance, as the case may be —
+
+(a) if the technological measure is a technological access control measure, do any act which he knows or ought reasonably to know circumvents the technological measure;
+
+(b) manufacture, import, distribute, offer to the public, provide or otherwise traffic in any device, product or component which —
+
+(i) is promoted, advertised or marketed for the purpose of circumventing the technological measure;
+
+(ii) has only a limited commercially significant purpose or use other than to circumvent the technological measure; or
+
+(iii) is designed or made primarily for the purpose of circumventing the technological measure;
+
+(c) offer to the public or provide any service which —
+
+(i) is promoted, advertised or marketed for the purpose of circumventing the technological measure;
+
+(ii) has only a limited commercially significant purpose or use other than to circumvent the technological measure; or
+
+(iii) is performed primarily for the purpose of circumventing the technological measure.
+
+(2) An action may be brought by the owner of the copyright or the performer of the performance against a person who contravenes subsection (1).
+
+(3) An action shall not be brought under subsection (2) in respect of any contravention of subsection (1) after the expiration of 6 years from the time when the contravention took place.
+
+(4) Where a person contravenes subsection (1)(a) wilfully and for the purpose of obtaining a commercial advantage , he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000.
+
+(5) Where a person contravenes subsection (1)(b) or (c) wilfully and for the purpose of obtaining a commercial advantage , he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+(6) For the purposes of subsection (5), a person shall not be treated as having contravened subsection (1)(b) wilfully unless —
+
+(a) in the case of a device, product or component referred to in subsection (1)(b)(i), he had himself —
+
+(i) promoted, advertised or marketed it; or
+
+(ii) authorised the promotion, advertising or marketing of it,
+
+for the purpose of circumventing the technological measure;
+
+(b) in the case of a device, product or component referred to in subsection (1)(b)(ii), he knew or had reason to believe at the time of the contravention that it had only a limited commercially significant purpose or use other than to circumvent the technological measure; or
+
+(c) in the case of a device, product or component referred to in subsection (1)(b)(iii), he knew or had reason to believe at the time of the contravention that it was designed or made primarily for the purpose of circumventing the technological measure.
+
+(7) For the purposes of subsection (5), a person shall not be treated as having contravened subsection (1)(c) wilfully unless —
+
+(a) in the case of a service referred to in subsection (1)(c)(i), he had himself —
+
+(i) promoted, advertised or marketed it; or
+
+(ii) authorised the promotion, advertising or marketing of it,
+
+for the purpose of circumventing the technological measure;
+
+(b) in the case of a service referred to in subsection (1)(c)(ii), he knew or had reason to believe at the time of the contravention that it had only a limited commercially significant purpose or use other than to circumvent the technological measure; or
+
+(c) in the case of a service referred to in subsection (1)(c)(iii), he had himself —
+
+(i) performed it; or
+
+(ii) authorised the performance of it,
+
+primarily for the purpose of circumventing the technological measure.
+
+(8) For the purposes of subsections (4) and (5), a person does an act for the purpose of obtaining a commercial advantage if the act is done to obtain a direct advantage, benefit or financial gain for a business or trade carried on by him.
+
+(9) Subsections (4) and (5) shall not apply to any act done by or on behalf of a non-profit library, any non-profit archives, an educational institution, an institution assisting handicapped readers, an institution assisting intellectually handicapped readers, or such public, non-commercial broadcasting organisation as the Minister may prescribe.
+
+(10) This section does not affect the import or sale of a device that does not render effective a technological measure whose sole purpose is to control market segmentation for access to cinematograph films, if the import or sale of the device does not otherwise contravene any written law including this Act.
+
+### Exceptions to prohibition on circumvention
+
+261D\.—(1) Subject to subsection (3), section 261C(1)(a) is not contravened by the doing of an act to circumvent a technological measure if —
+
+(a) the act is done to enable a non-profit library, any non-profit archives, an educational institution, an institution assisting handicapped readers, or an institution assisting intellectually handicapped readers to have access to a work or other subject-matter or recording of a performance which is not otherwise available to the library, archives or institution, for the sole purpose of determining whether to acquire a copy of the work or other subject-matter or recording;
+
+(b) the technological measure has the capability to collect or disseminate personally identifying information to reflect the manner of use of a network by persons without providing conspicuous notice of such collection or dissemination to those persons, and the act is done for the sole purpose of identifying and disabling the technological measure, provided that the act does not affect the ability of any person to gain access to any work or other subject-matter or recording of any performance;
+
+(c) the act is done in relation to a work or other subject-matter or performance that is prescribed by the Minister under subsection (2);
+
+(d) the act is done —
+
+(i) in good faith;
+
+(ii) in relation to a copy of a computer program that is not an infringing copy; and
+
+(iii) with respect to particular elements of the computer program that are not readily available to the person doing the act,
+
+for the sole purpose of achieving interoperability of an independently created computer program with another computer program;
+
+(e) the act is done when undertaking research on any encryption technology, provided that —
+
+(i) the person doing the act —
+
+(A) is engaged in a legitimate course of study in the field of encryption technology;
+
+(B) is employed or appropriately trained or experienced in that field; or
+
+(C) is doing so on behalf of a person so engaged, employed, trained or experienced;
+
+(ii) the act is necessary to conduct such research;
+
+(iii) the act is done in good faith and in relation to a copy of the work or subject-matter that is not an infringing copy thereof or a copy of the performance that is not an unauthorised recording thereof; and
+
+(iv) the person doing the act has made a reasonable effort to obtain the authorisation of the owner of the copyright in the work or subject-matter or the performer of the performance to do the act;
+
+(f) the act consists of the inclusion of a component or part in any technology, product or device for the sole purpose of preventing access by minors to any material on the Internet, provided that the technology, product or device is not prohibited under section 261C(1)(b);
+
+(g) the act is done by or under the authority of the owner of a computer, computer system or computer network for the sole purpose of testing, investigating, or correcting a security flaw or vulnerability of that computer, computer system or computer network; or
+
+(h) the act is carried out by the Government or by any person authorised by the Government for the purpose of law enforcement, intelligence, national defence, essential security or other similar purpose.
+
+(2) The Minister may, by order published in theGazette, exclude the operation of section 261C(1)(a) in relation to a specified work or other subject-matter or performance, or a specified class of works or other subject-matters or performances, if he is satisfied that any dealing with the work, subject-matter or performance or with the class of works, subject-matters or performances, being a dealing which does not amount to an infringement of copyright therein or an unauthorised use thereof (as the case may be), has been adversely impaired or affected as a result of the operation of this section.
+
+(3) Subsection (1) shall not apply if —
+
+(a) in the case of an act referred to in paragraph (b), (e) or (g) of that subsection, the act violates a provision of any written law other than this Act;
+
+(b) in the case of an act referred to in paragraph (c), (d), (e) or (g) of that subsection, the act infringes the copyright in the work or other subject-matter or amounts to an unauthorised use of the performance; or
+
+(c) in the case of an act referred to in paragraph (a) of that subsection, the act leads to an infringement of the copyright in the work or other subject-matter or to an unauthorised use of the performance, or otherwise violates a provision of any other written law.
+
+### Exceptions to prohibition on making, etc., circumventing device and offering circumventing service
+
+261E\.—(1) Subject to subsections (2) and (3), section 261C(1)(b) and (c) is not contravened by the doing of any of the following:
+
+(a) the manufacture, importation, distribution, offering to the public or provision of a device, product or component, or the offering to the public or provision of a service, to carry out an act to circumvent a technological measure that is done —
+
+(i) in good faith;
+
+(ii) in relation to a copy of a computer program that is not an infringing copy; and
+
+(iii) with respect to particular elements of the computer program that are not readily available to the person doing the act,
+
+for the sole purpose of achieving interoperability of an independently created computer program with another computer program;
+
+(b) the manufacture, importation, distribution, offering to the public or provision of a device, product or component, or the offering to the public or provision of a service, to carry out an act to circumvent a technological measure referred to in section 261D(1)(e);
+
+(c) the manufacture, importation, distribution, offering to the public or provision of a component or part referred to in section 261D(1)(f);
+
+(d) the manufacture, importation, distribution, offering to the public or provision of a device, product or component, or the offering to the public or provision of a service, to carry out an act to circumvent a technological measure referred to in section 261D(1)(g);
+
+(e) an act carried out by the Government or by any person authorised by the Government for the purpose of law enforcement, intelligence, national defence, essential security or other similar purpose.
+
+(2) Paragraphs (b), (c) and (d) of subsection (1) apply only if the technological measure is a technological access control measure.
+
+(3) Subsection (1) shall not apply if —
+
+(a) in the case of an act referred to in paragraph (a) of that subsection, the circumvention referred to in that paragraph infringes the copyright in the work or other subject-matter or amounts to an unauthorised use of the performance; or
+
+(b) in the case of an act referred to in paragraph (b) or (d) of that subsection, the circumvention referred to in that paragraph infringes the copyright in the work or other subject-matter or amounts to an unauthorised use of the performance, or otherwise violates a provision of any other written law.
+
+### Relief which court may grant
+
+261F\.—(1) In an action brought under section 261C(2), the types of relief that the court may grant, if it is satisfied that the defendant has contravened section 261C(1), include —
+
+(a) an injunction (subject to such terms, if any, as the court thinks fit); and
+
+(b) either of the following:
+
+(i) damages;
+
+(ii) where the plaintiff has elected for an award of statutory damages in lieu of damages, statutory damages of not more than $20,000.
+
+(2) In addition to the relief referred to in subsection (1), the court may order that any article —
+
+(a) by means of which, or in relation to which, the act giving rise to the contravention of subsection 261C(1) was or is being carried out; and
+
+(b) which is in the possession of the defendant or before the court,
+
+be delivered up to the plaintiff or destroyed.
+
+(3) For the purposes of subsection (1)(b)(i), damages include any profits that are attributable to the act giving rise to the contravention of subsection 261C(1).
+
+(4) In awarding statutory damages under subsection (1)(b)(ii), the court shall have regard to —
+
+(a) the nature or purpose of the act concerned, including whether the act was of a commercial nature or otherwise;
+
+(b) the flagrancy of the act;
+
+(c) whether the defendant acted in bad faith;
+
+(d) any loss that the plaintiff has suffered or is likely to suffer by reason of the act;
+
+(e) any benefit shown to have accrued to the defendant by reason of the act;
+
+(f) the conduct of the parties before or during the proceedings;
+
+(g) the need to deter other similar acts; and
+
+(h) all other relevant matters.
+
+(5) Notwithstanding subsection (1), where, in an action for a contravention of section 261C(1)(b), such contravention is established but it is also established that —
+
+(a) in the case of a device, product or component referred to in section 261C(1)(b)(i), the defendant did not himself promote, advertise or market it, or authorise the promotion, advertising or marketing of it, for the purpose of circumventing the technological measure;
+
+(b) in the case of a device, product or component referred to in section 261C(1)(b)(ii), at the time of the contravention, the defendant was not aware, and had no reasonable grounds for suspecting, that it had only a limited commercially significant purpose or use other than circumventing the technological measure; or
+
+(c) in the case of a device, product or component referred to in section 261C(1)(b)(iii), at the time of the contravention, the defendant was not aware, and had no reasonable grounds for suspecting, that it was designed or made primarily for the purpose of circumventing the technological measure,
+
+the plaintiff shall not be entitled, as against the defendant, to any damages or statutory damages for the contravention.
+
+(6) Notwithstanding subsection (1), where, in an action for a contravention of section 261C(1)(c), such contravention is established but it is also established that —
+
+(a) in the case of a service referred to in section 261C(1)(c)(i), the defendant did not himself promote, advertise or market it, or authorise the promotion, advertising or marketing of it, for the purpose of circumventing the technological measure;
+
+(b) in the case of a service referred to in section 261C(1)(c)(ii), at the time of the contravention, the defendant was not aware, and had no reasonable grounds for suspecting, that it had only a limited commercially significant purpose or use other than to circumvent the technological measure; or
+
+(c) in the case of a service referred to in section 261C(1)(c)(iii), the defendant did not himself perform it, or authorise the performance of it, primarily for the purpose of circumventing the technological measure,
+
+the plaintiff shall not be entitled to any damages or statutory damages against the defendant for the contravention.
+
+### Enforcement measures
+
+261G\.—(1) The court before which a person is charged with an offence under section 261C(4) or (5) may, whether he is convicted of the offence or not, order that any article that appears to the court to be used predominantly for circumventing a technological measure used in connection with —
+
+(a) the exercise of the copyright in a work or other subject-matter by the owner of the copyright; or
+
+(b) any right in a performance by the performer of the performance,
+
+in the possession of the alleged offender or before the court, be destroyed or delivered up to the owner or exclusive licensee of the copyright concerned or the performer of the performance, as the case may be, or otherwise dealt with in such manner as the court thinks fit.
+
+(2) If information is given upon oath to a court that there is reasonable cause for suspecting that there is in any premises any article or document which is evidence that an offence under section 261C(4) or (5) has been committed, the court may issue, either unconditionally or subject to such conditions as the court thinks fit, a warrant authorising a police officer to enter and search the premises for the articles and documents which are specified in the warrant, whether specifically or in any general category, and to seize any such articles and documents found at the premises.
+
+(3) If an article was seized under subsection (2) and —
+
+(a) in proceedings brought under section 261C(4) or (5), no order is made as to the disposal of the article, whether under subsection (1) or otherwise; or
+
+(b) no such proceedings are instituted within 6 months of the seizure,
+
+the article shall be returned to the person in whose possession it was when it was seized or, if it is not reasonably practicable to return it to that person, shall be disposed of in accordance with the law regulating the disposal of lost or unclaimed property in the hands of police authorities.
+
+(4) If a document was seized under subsection (2) and no proceedings under section 261C(4) or (5) are instituted within 6 months of the seizure, the document and all copies of the document shall be returned to the person in whose possession the document was when it was seized or, if it is not reasonably practicable to return the document and copies to that person, shall be disposed of in accordance with the law regulating the disposal of lost or unclaimed property in the hands of police authorities.
+
+(5) In this section —
+
+“document” means anything in which information of any description is recorded;
+
+“premises” includes any land, building, structure and conveyance.
 
 ## PART XIV
 
@@ -6033,6 +7755,44 @@ TRANSITIONAL PROVISIONS UNDER INTELLECTUAL PROPERTY (MISCELLANEOUS AMENDMENTS) A
 ### Performances given before appointed day
 
 267\. Part XII shall not apply to a performance given before the appointed day unless the period beginning on the day when the performance was given and ending on the appointed day is less than the protection period as defined in section 246(1) in force immediately before the appointed day.
+
+## PART XV
+
+SAVINGS AND TRANSITIONAL PROVISIONS UNDER COPYRIGHT (AMENDMENT) ACT 2004
+
+[52/2004 wef 01/01/2005]
+
+### Interpretation of this Part
+
+268\. In this Part —
+
+“amendment Act” means the Copyright (Amendment) Act 2004;
+
+“appointed day” means the date of commencement of the amendment Act;
+
+“performance” has the same meaning as in section 246(1).
+
+### Assignments and licences before appointed day
+
+269\. Where any licence has been granted, or any contract or arrangement (including any assignment of copyright) has been entered into, before the appointed day, being a licence, contract or arrangement relating to —
+
+(a) the broadcast of a work or other subject-matter; or
+
+(b) the inclusion of a work or other subject-matter in a cable programme,
+
+the licence, contract or arrangement shall, subject to any contrary intention, continue to have effect on or after that day in accordance with the provisions of this Act in force immediately before that day, as if the amendment Act had not been enacted.
+
+### Action for infringement which took place before appointed day
+
+270\. Section 119, as it was in force immediately before the appointed day, shall apply to an action brought in respect of any infringement of copyright which took place before that day as if the amendment Act had not been enacted.
+
+### Action for unauthorised use before appointed day
+
+271\. Section 253, as it was in force immediately before the appointed day, shall apply to an action brought in respect of any unauthorised use of a performance which took place before that day as if the amendment Act had not been enacted.
+
+### Action relating to rights management information
+
+272\. Section 261 shall only apply to an action brought in respect of any act referred to in section 260(2), (3) or (4) which is carried out on or after the appointed day, and section 261, as it was in force immediately before that day, shall continue to apply to an action brought in respect of any act referred to in section 260 as it was in force immediately before that day which is carried out before that day as if the amendment Act had not been enacted.
 
 ## THE SCHEDULE
 
@@ -6151,6 +7911,11 @@ This Legislative History is provided for the convenience of users of the Copyrig
 |||(Bill No. 20/2004 published on 20 May 2004)|
 ||Date of Second and Third Readings|15 June 2004|
 ||Date of commencement|1 July 2004|
+|16.|**Act 52 of 2004—Copyright (Amendment) Act 2004**|
+||Date of First Reading|19 October 2004|
+|||(Bill No. 48/2004 published on 20 October 2004)|
+||Date of Second and Third Readings|16 November 2004|
+||Date of commencement|1 January 2005|
 ## COMPARATIVE TABLE
 
 Copyright Act
