@@ -104,11 +104,7 @@
 
 - [42 Pension schemes, provident fund, etc.](#Pension-schemes-provident-fund-etc)
 
-- [43 Retirement of non-eligible officers and employees transferred to the service of Board](#Retirement-of-non-eligible-officers-and-employees-transferred-to-the-service-of-Board)
-
 - [43 (Repealed)](#Repealed)
-
-- [44 Safeguarding of Municipal Provident Fund benefits](#Safeguarding-of-Municipal-Provident-Fund-benefits)
 
 - [44 (Repealed)](#Repealed)
 
@@ -305,8 +301,6 @@ PRELIMINARY
 “lease” includes an agreement for a lease;
 
 “Master Plan” has the same meaning as in the Planning Act (Cap. 232);
-
-“Municipal Provident Fund” means the Municipal Provident Fund established by the City Council under the provisions of the repealed Municipal Ordinance (Cap. 133, 1936 Ed.);
 
 “owner”, in relation to any property sold by the Board, includes a person who has purchased a leasehold interest in the property and also includes a purchaser under an agreement for a lease.
 
@@ -954,21 +948,7 @@ shall vest in the Board without further assurance subject to the same conditions
 
 (h) the receipt of a trustee or trustees duly appointed, or in default of any such appointment and of written notice thereof to the Board, the receipt of the legal personal representative of a deceased contributor shall be a discharge to the Board for any moneys payable on his death out of any such scheme.
 
-### Retirement of non-eligible officers and employees transferred to the service of Board
-
-43\. Where any officer of the Singapore Improvement Trust who is deemed to have been transferred to the service of the Board by section 41 and is not eligible to be a member of the Municipal Provident Fund retires or dies in the service of the Board, the Board may grant to him or his legal personal representative such allowance or gratuity as the Board may think fit.
-
 43\. [Repealed by Act 11/2003 wef 01/08/2003]
-
-### Safeguarding of Municipal Provident Fund benefits
-
-44\.—(1) Rules for the maintenance of the Municipal Provident Fund made under paragraph 7 of the Second Schedule to the Street Works Act (Cap. 320A) shall be binding upon the Board and its officers.
-
-(2) Until such rules are made, the Municipal (Provident Fund) Rules (Cap. 166, R 1), as from time to time amended, shall continue to apply to every person transferred to the service of the Board under section 41 who, immediately before 1st February 1960, was a member of the Municipal Provident Fund, or would have been eligible for membership of that Fund if he had attained the age of 20 years and had passed a medical examination of the standard prescribed, in the like manner as those Rules applied to such persons immediately before 1st February 1960, and every reference to service or employment with the City Council in those Rules shall be construed as a reference to service or employment with the Board in respect of such persons.
-
-(3) Until such rules are made, the provisions of the Municipal (Provident Fund) Rules (Cap. 166, R 1), as from time to time amended, requiring the City Council to make payments into the Municipal Provident Fund shall apply to the Board and be construed as provisions requiring the Board to make payments into that Fund in respect of every person referred to in subsection (2) who is or who becomes a member of the Fund.
-
-(4) Persons who have been transferred to the service of the Board under section 41 may count their previous service in the Singapore Improvement Trust and their previous membership of the Municipal Provident Fund and their contributions to the Fund for the purpose of determining the benefits to which they become entitled under this section.
 
 44\. [Repealed by Act 11/2003 wef 01/08/2003]
 
@@ -1729,6 +1709,8 @@ the Board may, with the further approval of the Minister, carry out those specif
 (3) If any improvement contribution or any part thereof is not paid by the owner of a flat or a Town Council, as the case may be, on the date due, the owner of the flat, the Town Council or any person liable to pay the improvement contribution shall pay interest and a penalty in accordance with the rates prescribed and such interest and penalty, if unpaid, shall constitute a debt due to the Board and be recoverable as such.
 
 [19/92]
+
+(4) [Deleted by Act 31/2002 wef 01/01/2003]
 
 ### Transfer of additional floor area
 
@@ -4900,3 +4882,9 @@ This Legislative History is provided for the convenience of users of the Housing
 |||(Bill No. 35/2002 published on 2 October 2002)|
 ||Date of Second and Third Readings|31 October 2002|
 ||Date of commencement|1 January 2003|
+|31.|**Act 11 of 2003—Street Works (Amendment) Act 2003**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|24 April 2003|
+|||(Bill No. 9/2003 published on 25 April 2003)|
+||Date of Second and Third Readings|30 June 2003|
+||Date of commencement|1 August 2003|
