@@ -48,6 +48,10 @@
 
 - [16 Obligation to notify designated system of insolvency](#Obligation-to-notify-designated-system-of-insolvency)
 
+- [16A Composition of offences](#Composition-of-offences)
+
+- [16B Jurisdiction of District Court](#Jurisdiction-of-District-Court)
+
 - [17 Immunity of Authority and its employees, etc.](#Immunity-of-Authority-and-its-employees-etc)
 
 - [18 Power to make regulations](#Power-to-make-regulations)
@@ -355,6 +359,24 @@ in so far as the making of the order or doing of the act would be prohibited und
 (a) he took reasonable steps to comply with that subsection; or
 
 (b) the operator of the designated system was already aware of the relevant event referred to in subsection (1)(a) or (b) by the time the participant was required to notify the operator under that subsection.
+
+### Composition of offences
+
+16A\.—(1) The Authority may, in its discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from any person reasonably suspected of having committed the offence a sum not exceeding $10,000.
+
+(2) On payment of such sum of money, no further proceedings shall be taken against that person in respect of the offence.
+
+(3) The Authority may make regulations to prescribe the offences which may be compounded.
+
+(4) All sums collected under this section shall be paid to the Authority.
+
+[9/2003 wef 16/05/2003]
+
+### Jurisdiction of District Court
+
+16B\. Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
+
+[9/2003 wef 16/05/2003]
 
 ### Immunity of Authority and its employees, etc.
 
