@@ -2342,9 +2342,9 @@ Concealing or transferring benefits from criminal conduct
 
 Children and Young Persons Act (Cap\. 38) 
 
-3. Section 4(1) and (6)(a) and (b)
+3. Section 4(1), 5(a) and (b)
 
-Cruelty to children and young persons
+Ill-treatment of child or young person.
 
 Corrosive and Explosive Substances and Offensive Weapons Act (Cap\. 65) 
 
@@ -3127,6 +3127,12 @@ This Legislative History is provided for the convenience of users of the Corrupt
 ||Date of commencement|1 April 2000|
 |8.|**2000 Revised Edition—Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act**|
 ||Date of operation|1 July 2000|
+|9.|**Act 20 of 2001—Children and Young Persons (Amendment) Act 2001**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|22 February 2001|
+|||(Bill No. 12/2001 published on 23 February 2001)|
+||Date of Second and Third Readings|20 April 2001|
+||Date of commencement|1 October 2001|
 ## COMPARATIVE TABLE
 
 Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act
