@@ -18,13 +18,13 @@
 
 - [4 Appointment of Director-General and other officers](#Appointment-of-Director-General-and-other-officers)
 
-- [5 (Repealed)](#Repealed)
+- [5 Powers of Director-General to delegate](#Powers-of-Director-General-to-delegate)
 
 - [6 Officers of customs to be public servants](#Officers-of-customs-to-be-public-servants)
 
 - [7 Powers of police officers](#Powers-of-police-officers)
 
-- [8 Authority to be produced](#Authority-to-be-produced)
+- [8 Authority card to be produced](#Authority-card-to-be-produced)
 
 - [9 Persons employed on customs duty to be deemed proper officers of customs](#Persons-employed-on-customs-duty-to-be-deemed-proper-officers-of-customs)
 
@@ -40,11 +40,9 @@
 
 - [14 Reimposition of customs duty or excise duty](#Reimposition-of-customs-duty-or-excise-duty)
 
-- [15 (Repealed)](#Repealed)
+- [15 Remission of customs duty or excise duty on goods lost, damaged or destroyed before removal from customs control](#Remission-of-customs-duty-or-excise-duty-on-goods-lost-damaged-or-destroyed-before-removal-from-customs-control)
 
-- [16 Remission of customs duty or excise duty on goods lost, damaged or destroyed before removal from customs control](#Remission-of-customs-duty-or-excise-duty-on-goods-lost-damaged-or-destroyed-before-removal-from-customs-control)
-
-- [16A Rebate for motor cars](#Rebate-for-motor-cars)
+- [16 Rebate for motor cars](#Rebate-for-motor-cars)
 
 - [17 Tax on motor vehicles using heavy fuel oil, etc.](#Tax-on-motor-vehicles-using-heavy-fuel-oil-etc)
 
@@ -58,7 +56,7 @@
 
 - [22 Value of imported or locally-manufactured goods, other than motor spirit, for excise duty](#Value-of-imported-or-locally-manufactured-goods-other-than-motor-spirit-for-excise-duty)
 
-- [22A Value of imported goods, other than motor spirit, for customs duty](#Value-of-imported-goods-other-than-motor-spirit-for-customs-duty)
+- [22A Value of imported goods for customs duty](#Value-of-imported-goods-for-customs-duty)
 
 - [22B Objection and appeal on valuation](#Objection-and-appeal-on-valuation)
 
@@ -130,7 +128,7 @@
 
 - [53 Warehouse deposit receipts](#Warehouse-deposit-receipts)
 
-- [54 Power to open and examine packages](#Power-to-open-and-examine-packages)
+- [54 Power to open and examine goods or packages](#Power-to-open-and-examine-goods-or-packages)
 
 - [55 Detention of goods where doubt exists](#Detention-of-goods-where-doubt-exists)
 
@@ -154,7 +152,7 @@
 
 - [64 No person except licensee to keep a still, etc.](#No-person-except-licensee-to-keep-a-still-etc)
 
-- [65 (Repealed)](#Repealed)
+- [65 (No Operation)](#No-Operation)
 
 - [66 Bottling warehouse](#Bottling-warehouse)
 
@@ -198,23 +196,19 @@
 
 - [83 (Repealed)](#Repealed)
 
-[**Part XI**](#Part-XI)
-
-[**(Repealed)**](#Repealed)
-
 [**Part XII MISCELLANEOUS PROVISIONS**](#Part-XII)
 
-- [90 Documents to be produced on demand](#Documents-to-be-produced-on-demand)
+- [85 Documents to be produced on demand](#Documents-to-be-produced-on-demand)
 
-- [90A Computer service](#Computer-service)
+- [86 Computer service](#Computer-service)
 
-- [90B Preservation of records](#Preservation-of-records)
+- [87 Preservation of records](#Preservation-of-records)
 
-- [90C Power of Director-General to obtain information and furnishing of information](#Power-of-Director-General-to-obtain-information-and-furnishing-of-information)
+- [88 Power of Director-General to obtain information and furnishing of information](#Power-of-Director-General-to-obtain-information-and-furnishing-of-information)
 
-- [90D Information not to be published or disclosed](#Information-not-to-be-published-or-disclosed)
+- [89 Information not to be published or disclosed](#Information-not-to-be-published-or-disclosed)
 
-- [90E Retention of trade documents](#Retention-of-trade-documents)
+- [90 Retention of trade documents](#Retention-of-trade-documents)
 
 - [91 Persons bound to give information or produce documents](#Persons-bound-to-give-information-or-produce-documents)
 
@@ -268,7 +262,7 @@
 
 - [113 Who may prosecute](#Who-may-prosecute)
 
-- [114 District or Magistrate’s Court to have full jurisdiction](#District-or-Magistrate’s-Court-to-have-full-jurisdiction)
+- [114 Jurisdiction of court](#Jurisdiction-of-court)
 
 - [115 Burden of proof](#Burden-of-proof)
 
@@ -306,23 +300,17 @@
 
 - [130 Penalty for various offences](#Penalty-for-various-offences)
 
-- [130A Evading duty by unauthorised modification of computer program or data](#Evading-duty-by-unauthorised-modification-of-computer-program-or-data)
+- [131 Evading duty by unauthorised modification of computer program or data](#Evading-duty-by-unauthorised-modification-of-computer-program-or-data)
 
-- [130B Knowingly advancing or furnishing money for business comprising sale, purchase, etc., of uncustomed goods](#Knowingly-advancing-or-furnishing-money-for-business-comprising-sale-purchase-etc-of-uncustomed-goods)
+- [132 Knowingly advancing or furnishing money for business comprising sale, purchase, etc., of uncustomed goods](#Knowingly-advancing-or-furnishing-money-for-business-comprising-sale-purchase-etc-of-uncustomed-goods)
 
-- [131 Penalty for adding deleterious substances to intoxicating liquor, or storing, keeping, etc., such liquor](#Penalty-for-adding-deleterious-substances-to-intoxicating-liquor-or-storing-keeping-etc-such-liquor)
+- [133 Penalty for adding deleterious substances to intoxicating liquor, or storing, keeping, etc., such liquor](#Penalty-for-adding-deleterious-substances-to-intoxicating-liquor-or-storing-keeping-etc-such-liquor)
 
-- [132 Offence in connection with claims for drawback](#Offence-in-connection-with-claims-for-drawback)
+- [134 Offence in connection with claims for drawback](#Offence-in-connection-with-claims-for-drawback)
 
-- [133 Penalty for possession of a still, etc.](#Penalty-for-possession-of-a-still-etc)
+- [135 Penalty for possession of a still, etc.](#Penalty-for-possession-of-a-still-etc)
 
-- [134 (Repealed)](#Repealed)
-
-- [135 (Repealed)](#Repealed)
-
-- [136 (Repealed)](#Repealed)
-
-- [136A Motor vehicle leaving Singapore without prescribed amount of motor spirit](#Motor-vehicle-leaving-Singapore-without-prescribed-amount-of-motor-spirit)
+- [136 Motor vehicle leaving Singapore without prescribed amount of motor spirit](#Motor-vehicle-leaving-Singapore-without-prescribed-amount-of-motor-spirit)
 
 - [137 Penalty for assaulting or obstructing officers of customs, rescuing goods, resisting arrest and escaping from custody](#Penalty-for-assaulting-or-obstructing-officers-of-customs-rescuing-goods-resisting-arrest-and-escaping-from-custody)
 
@@ -340,7 +328,11 @@
 
 - [143 Power to make regulations](#Power-to-make-regulations)
 
+- [144 References in written laws and documents](#References-in-written-laws-and-documents)
+
 [**Legislative History**](#Legislative-History)
+
+[**Comparative Table**](#Comparative-Table)
 
 [**Comparative Table**](#Comparative-Table)
 
@@ -348,11 +340,11 @@
 
 (CHAPTER 70)
 
-(Original Enactment: Reprint RS (A) 1/79)
+(Original Enactment: 1/79)
 
-REVISED EDITION 2001
+REVISED EDITION 2004
 
-(31st July 2001)
+(31st July 2004)
 
 An Act relating to customs and excise.
 
@@ -374,7 +366,7 @@ PRELIMINARY
 
 (a) such off-shore islands as the Minister may by notification in theGazettespecify, in respect of the importation, exportation, manufacture or use of petroleum; and
 
-(b) subject to this Act or any other written law, any act or thing lawfully done or permitted to be done within a free trade zone.
+(b) subject to the provisions of this Act or any other written law, any act or thing lawfully done or permitted to be done within a free trade zone.
 
 ### Interpretation
 
@@ -386,7 +378,7 @@ PRELIMINARY
 
 “alcohol” means ethanol;
 
-“authentication code” means any identification or identifying code, password or any other authentication method or procedure which has been assigned to a registered user of the computer service referred to in section 90A for the purposes of identifying and authenticating the access to and use of the computer service by the registered user;
+“authentication code” means any identification or identifying code, password or any other authentication method or procedure which has been assigned to a registered user of the computer service referred to in section 86 for the purposes of identifying and authenticating the access to and use of the computer service by the registered user;
 
 “beer” includes ale, stout, porter, shandy and all other fermented liquors made from malt, and cider and perry;
 
@@ -394,7 +386,7 @@ PRELIMINARY
 
 “bottling”, in the case of intoxicating liquors, includes blending, compounding and varying any intoxicating liquor with intent that the blend, compound or varied intoxicating liquor so formed shall be sold for human consumption, but does not include any such blend, compound or varied intoxicating liquor prepared at the order of a purchaser, and for immediate consumption;
 
-“bottling warehouse” means a warehouse licensed by the Director-General for the bottling, blending, compounding or varying of intoxicating liquor under section 66(1);
+“bottling warehouse” means a warehouse licensed by the Director-General for the bottling, blending, compounding or varying of intoxicating liquor under section 66(1) ;
 
 “captain of an aircraft” means every person having or taking command or charge of an aircraft;
 
@@ -406,7 +398,7 @@ PRELIMINARY
 
 “customs territory” means Singapore and the territorial waters thereof but excluding any free trade zone;
 
-“database report” means any automatic log, journal or other report which is automatically generated by the computer service referred to in section 90A for the purposes of recording the details of a transaction relating to an electronic notice including the authentication code, date and time of receipt, storage location and any alteration or deletion relating to the notice;
+“database report” means any automatic log, journal or other report which is automatically generated by the computer service referred to in section 86 for the purposes of recording the details of a transaction relating to an electronic notice including the authentication code, date and time of receipt, storage location and any alteration or deletion relating to the notice;
 
 “deleterious substance” means any matter —
 
@@ -420,11 +412,9 @@ as certified by an analyst employed by the Health Sciences Authority;
 
 “Director-General” means the Director-General of Customs appointed under section 4(1);
 
-[4/2003 wef 01/04/2003]
-
 “dutiable goods” means any goods subject to the payment of customs duty or excise duty on entry into customs territory or manufactured in Singapore (including any free trade zone) and on which customs duty or excise duty has not been paid and includes goods manufactured in a free trade zone from materials of a class dutiable on entry into customs territory for consumption within the customs territory;
 
-“electronic notice” has the meaning assigned to it in section 90A(1);
+“electronic notice” has the meaning assigned to it in section 86(1);
 
 “excise duty” means duty on goods whether manufactured in Singapore or elsewhere;
 
@@ -436,9 +426,9 @@ as certified by an analyst employed by the Health Sciences Authority;
 
 “Government warehouse” means a warehouse established by the Director-General under section 49 for the deposit of dutiable goods;
 
-“Green Channel” means any passage or area in a customs airport or customs station clearly indicated with a sign in the shape of a regular octagon and marked in green with the words “Customs” and “Nothing To Declare”;
+“Green Channel” means any passage or area in a customs airport or customs station clearly indicated with a sign in the shape of a regular octagon and marked in green with the words “Customs” and “Nothing To Declare” ;
 
-“Health Sciences Authority” means the Health Sciences Authority established under the Health Sciences Authority Act 2001;
+“Health Sciences Authority” means the Health Sciences Authority established under the Health Sciences Authority Act (Cap. 122C);
 
 “heavy oil or diesel oil” includes any liquid, other than petroleum, which is or may be used as a fuel in the engine of a traction engine or motor vehicle;
 
@@ -450,13 +440,13 @@ as certified by an analyst employed by the Health Sciences Authority;
 
 (a) a mixture of alcohol and some other substances containing more than 0.5 per cent alcohol by mass; or
 
-(b) a mixture of alcohol and water containing more than 0.5 per cent alcohol by volume, which is fit, or intended, or can by any means be converted, for use as a beverage, but does not include intoxicating liquor denatured spirit;
+(b) a mixture of alcohol and water containing more than 0.5 per cent alcohol by volume, which is fit, or intended, or can by any means be converted, for use as a beverage, but does not include denatured spirit;
 
 “in transit” means taken out or sent from any country and brought into Singapore by land, sea or air (whether or not landed or transhipped in Singapore) for the sole purpose of being carried to another country either by the same or another conveyance;
 
 “licensed factory warehouse” means any place or premises licensed under section 50 for the warehousing of dutiable goods, which goods may be removed by a licensee for the purpose of manufacture of goods for export or otherwise before payment of the customs duty or excise duty payable thereon, and also for the warehousing of finished and semi-finished products, partly or wholly manufactured from dutiable raw materials;
 
-“licensed warehouse” means a warehouse or other place licensed for the warehousing of dutiable goods under section 51(1);
+“licensed warehouse” means a warehouse or other place licensed for the warehousing of dutiable goods under section 51(1) ;
 
 “local craft” means any junk, tongkang, prahu, or other similar type of vessel, and any steam or motor vessel under 75 net registered tons and includes any type of motor vessel whether fitted with inboard engine or outboard motor;
 
@@ -467,8 +457,6 @@ as certified by an analyst employed by the Health Sciences Authority;
 (b) in the case of tobacco, includes the process of converting any raw or leaf tobacco into tobacco fit for smoking, snuffing or chewing and the making of cigarettes by power-operated machinery; and
 
 (c) in the case of any other goods or substitutes thereof, includes any process of production, assembly, purification, blending or conversion of materials, substances or components of such goods or substitutes into a finished product;
-
-[4/2003 wef 01/04/2003]
 
 “master” means any person (except a pilot or harbour master) having for the time being control or charge of a vessel;
 
@@ -484,11 +472,9 @@ as certified by an analyst employed by the Health Sciences Authority;
 
 (c) any senior officer of customs appointed under section 4(4);
 
-(d) any officer of customs appointed under section 4(6); and
+(d) any officer of customs appointed under section 5(2); and
 
 (e) any police officer;
-
-[4/2003 wef 01/04/2003]
 
 “owner” includes a hirer under a hire-purchase agreement;
 
@@ -504,9 +490,9 @@ as certified by an analyst employed by the Health Sciences Authority;
 
 “proper officer of customs” means any officer of customs acting in the fulfilment of his duties under this Act, whether such duties are assigned to him specially or generally or expressly or by implication;
 
-“Red Channel” means any passage or area in a customs airport or customs station clearly indicated with a sign in the shape of a square marked in red with the words “Customs” and “Goods To Declare”;
+“Red Channel” means any passage or area in a customs airport or customs station clearly indicated with a sign in the shape of a square marked in red with the words “Customs” and “Goods To Declare” ;
 
-“registered user” means a person who has been registered with and authorised by the Director-General to gain access to and use the computer service referred to in section 90A;
+“registered user” means a person who has been registered with and authorised by the Director-General to gain access to and use the computer service referred to in section 86;
 
 “Registrar” means the Registrar of Vehicles or a Deputy Registrar of Vehicles or an Assistant Registrar of Vehicles appointed under the Road Traffic Act (Cap. 276);
 
@@ -518,11 +504,9 @@ as certified by an analyst employed by the Health Sciences Authority;
 
 (c) any senior officer of customs appointed under section 4(4);
 
-(d) any officer of customs conferred with the powers of a senior officer of customs under section 4(7); and
+(d) any officer of customs conferred with the powers of a senior officer of customs under section 5(3); and
 
 (e) any police officer having the powers of a senior officer of customs by virtue of section 7(a);
-
-[4/2003 wef 01/04/2003]
 
 “tobacco” includes all tobacco other than growing tobacco, whether manufactured or not;
 
@@ -532,9 +516,9 @@ as certified by an analyst employed by the Health Sciences Authority;
 
 “uncustomed goods” means goods in respect of which a breach of the provisions of this Act has been committed.
 
-[24/81; 23/93; 24/96; 29/98; 4/2001]
+[S 270/71]
 
-(2) For the purposes of this Act, goods shall be deemed to be under customs control while they are deposited or held in any free trade zone, Government warehouse, licensed factory warehouse or licensed warehouse, or bottling warehouse or post office or in any vessel, train, vehicle or aircraft or any place from which they may not be removed except with the permission of the proper officer of customs.
+(2) For the purposes of this Act, goods shall be deemed to be under customs control while they are deposited or held in any free trade zone, Government warehouse,licensed factory warehouse or licensed warehouse, or bottling warehouse or post office or in any vessel, train, vehicle or aircraft or any place from which they may not be removed except with the permission of the proper officer of customs.
 
 [23/93]
 
@@ -562,21 +546,33 @@ APPOINTMENT OF OFFICERS
 
 4\.—(1) The Minister may appoint an officer to be styled the Director-General of Customs who shall have the superintendence of all matters relating to this Act, subject to the direction and control of the Minister.
 
+[4/2003]
+
 (2) The Minister may appoint such number of Deputy Directors-General of Customs and Assistant Directors-General of Customs as he may think fit.
+
+[4/2003]
 
 (3) Subject to the general direction and supervision of the Director-General of Customs, the Deputy Directors-General of Customs and Assistant Directors-General of Customs shall have and may exercise all the powers conferred on the Director-General by this Act.
 
+[4/2003]
+
 (4) The Minister may appoint such number of other senior officers of customs as he may think fit for the purpose of carrying out the provisions of this Act.
 
-(5) The Director-General may, with the approval of the Minister, confer on any senior officer of customs appointed under subsection (4) all or any of the powers conferred on the Director-General by this Act, subject to such conditions or restrictions as the Director-General may think fit.
+[4/2003]
 
-(6) The Director-General may appoint such number of other officers of customs as he may think fit for the purpose of carrying out the provisions of this Act.
+### Powers of Director-General to delegate
 
-(7) The Director-General may confer on any officer of customs appointed under subsection (6) all or any of the powers of a senior officer of customs.
+5\.—(1) The Director-General may, with the approval of the Minister, confer on any senior officer of customs appointed under section 4(4) all or any of the powers conferred on the Director-General by this Act, subject to such conditions or restrictions as the Director-General may think fit.
 
-[4/2003 wef 01/04/2003]
+[4/2003]
 
-5\. [Deleted by Act 4/2003 wef 01/04/2003]
+(2) The Director-General may appoint such number of other officers of customs as he may think fit for the purpose of carrying out the provisions of this Act.
+
+[4/2003]
+
+(3) The Director-General may confer on any officer of customs appointed under subsection (2) all or any of the powers of a senior officer of customs.
+
+[4/2003]
 
 ### Officers of customs to be public servants
 
@@ -590,7 +586,7 @@ APPOINTMENT OF OFFICERS
 
 (b) all police officers below the rank of sergeant shall have and may exercise all the powers conferred by this Act on officers of customs.
 
-### Authority to be produced
+### Authority card to be produced
 
 8\.—(1) Every officer of customs when acting against any person under this Act shall, if not in uniform, on demand declare his office and produce to the person against whom he is acting such authority card as the Director-General or, in the case of a police officer, the Commissioner of Police, may direct to be carried by such officers.
 
@@ -618,7 +614,7 @@ LEVYING OF DUTY AND TAX
 
 (3) Without prejudice to any other remedy, any customs duty or excise duty or any tax, fee or other charge payable under this Act may be recovered by the Director-General as a civil debt due to the Government.
 
-[23/93; 33/2000]
+[23/93; 33/2000; 4/2003]
 
 (4) All amounts collected as duties, taxes, fees and other charges under this Act shall be paid into the Consolidated Fund.
 
@@ -626,7 +622,7 @@ LEVYING OF DUTY AND TAX
 
 11\. The Director-General may waive the payment, or recovery of payment, of the whole or any part of any customs duties, excise duties, taxes, fees or other charges, except that the amount which may be waived shall not exceed $20 or such other amount as the Minister may by order prescribe.
 
-[4/2003 wef 01/04/2003]
+[4/2003]
 
 ### Measuring and testing by proper officers of customs
 
@@ -644,13 +640,15 @@ LEVYING OF DUTY AND TAX
 
 (2) The Minister may in any particular case —
 
-(a) exempt any person from the payment of the whole or any part of the customs duties, excise duties, taxes, fees or other charges which may be payable by that person; or
+(a) exempt any person from the payment of the whole or any part of the customs duties , excise duties, taxes, fees or other charges which may be payable by that person; or
 
 (b) direct the remission or refund of the whole or any part of the customs duties, excise duties, taxes, fees or other charges which may be payable or which may have been paid by any person.
 
-[4/2003 wef 01/04/2003]
+[33/2000; 4/2003]
 
 (3) In granting an exemption or directing a remission or refund, the Minister may impose such conditions as he may consider fit.
+
+[4/2003]
 
 (4) Any goods in respect of which an exemption from the payment of customs duties, excise duties, taxes, fees or other charges has been granted under subsection (1) or (2) shall be —
 
@@ -674,11 +672,9 @@ LEVYING OF DUTY AND TAX
 
 [33/2000]
 
-15\. [Deleted by Act 4/2003 wef 01/04/2003]
-
 ### Remission of customs duty or excise duty on goods lost, damaged or destroyed before removal from customs control
 
-16\.—(1) If any dutiable goods are by unavoidable accident lost, damaged or destroyed or are lost through theft or through evaporation at any time before removal from customs control, the Director-General may remit the whole or any part of the customs duty or excise duty payable thereon.
+15\.—(1) If any dutiable goods are by unavoidable accident lost, damaged or destroyed or are lost through theft or through evaporation at any time before removal from customs control, the Director-General may remit the whole or any part of the customs duty or excise duty payable thereon.
 
 [33/2000]
 
@@ -690,15 +686,19 @@ LEVYING OF DUTY AND TAX
 
 unless notice in writing of the claim has been given at or before the time of the removal.
 
+[16
+
 [33/2000]
 
 ### Rebate for motor cars
 
-16A\. The Minister may, by order —
+16\. The Minister may, by order —
 
 (a) grant, subject to such conditions as he may consider fit to impose, a rebate on any excise duty paid in respect of a motor car; and
 
 (b) direct that the rebate shall not be refunded but shall only be used to set off any specified tax, levy or fee payable in respect of that motor car under the Road Traffic Act (Cap. 276).
+
+[16A
 
 [15/91; 33/2000]
 
@@ -734,7 +734,11 @@ unless notice in writing of the claim has been given at or before the time of th
 
 [10/92]
 
-(6) No motor vehicle to which this section applies shall be used after the latest date appointed for payment of the special tax until the tax has been paid and no such vehicle shall be used during any period in respect of which a refund of any such tax has been made.
+(6) No motor vehicle to which this section applies shall be used —
+
+(a) after the latest date appointed for payment of the special tax until the tax has been paid; and
+
+(b) during any period in respect of which a refund of any such tax has been made.
 
 (7) If any motor vehicle to which this section applies is knowingly used in contravention of subsection (6), the person driving the vehicle or the owner thereof shall be guilty of an offence.
 
@@ -742,9 +746,15 @@ unless notice in writing of the claim has been given at or before the time of th
 
 ### Recovery of special tax in arrears
 
-18\.—(1) Any sum payable in respect of the special tax levied under section 17 which remains due and unpaid on the day when it should have been paid in advance shall be deemed to be in arrears for the purposes of this section and may be recovered in the manner hereinafter provided.
+18\.—(1) Any sum payable in respect of the special tax levied under section 17 which remains due and unpaid on the day when it should have been paid in advance shall be deemed to be in arrears for the purposes of this section and may be recovered in the manner as provided in this Act.
 
-(2) For the recovery of arrears of the special tax, the Registrar may seize and sell or otherwise dispose of any vehicle in respect of which the special tax is in arrears and shall apply the proceeds of the sale in satisfaction of the arrears and all licence fees and other taxes due and owing in respect of the vehicle under any other written law and shall refund the balance thereof (if any) to the owner of the seized vehicle.
+(2) For the recovery of arrears of the special tax, the Registrar —
+
+(a) may seize and sell or otherwise dispose of any vehicle in respect of which the special tax is in arrears;
+
+(b) shall apply the proceeds of the sale in satisfaction of the arrears and all licence fees and other taxes due and owing in respect of the vehicle under any other written law; and
+
+(c) shall refund the balance thereof (if any) to the owner of the seized vehicle.
 
 [10/92]
 
@@ -752,7 +762,7 @@ unless notice in writing of the claim has been given at or before the time of th
 
 [10/92]
 
-(4) Whenever any vehicle is seized under this section, the Registrar shall forthwith give notice in writing of the seizure and the ground thereof to the owner of the vehicle, either by delivering the notice to him personally or by post at his place of abode.
+(4) When any vehicle is seized under this section, the Registrar shall immediately give notice in writing of the seizure and the ground thereof to the owner of the vehicle, either by delivering the notice to him personally or by post at his place of abode.
 
 (5) The purchaser of a vehicle sold by the Registrar under this section shall be deemed to have acquired a good title to the vehicle free from all encumbrances created over it.
 
@@ -768,7 +778,13 @@ unless notice in writing of the claim has been given at or before the time of th
 
 ### Return of duties, taxes, fees or other charges overpaid or erroneously paid
 
-19\.—(1) It shall be lawful for the Director-General, if it is proved to his satisfaction that any money has been overpaid or erroneously paid as customs duties, excise duties, taxes, fees or other charges, or that any money was erroneously collected for the composition of offences under this Act, to order the refund of the money so overpaid or erroneously paid.
+19\.—(1) It shall be lawful for the Director-General, if it is proved to his satisfaction that —
+
+(a) any money has been overpaid or erroneously paid as customs duties, excise duties, taxes, fees or other charges; or
+
+(b) any money was erroneously collected for the composition of offences under this Act,
+
+to order the refund of the money so overpaid or erroneously paid.
 
 [33/2000]
 
@@ -776,11 +792,13 @@ unless notice in writing of the claim has been given at or before the time of th
 
 ### Payment of duty, etc., short levied or erroneously refunded
 
-20\.—(1) Whenever any customs duty, excise duty, tax, fee or other charge under this Act has been short levied or erroneously refunded for any reason or owing to any cause, the person who should have paid the amount short levied or to whom the refund has erroneously been made shall pay the deficiency or repay the amount erroneously refunded to him on demand being made within one year from the date of the short levy or refund, and without prejudice to any other remedy for the recovery of the amount due, any dutiable goods belonging to that person which may be in customs control may be detained until the deficiency is paid or the refund is repaid, as the case may be.
+20\.—(1) Where any customs duty, excise duty, tax, fee or other charge under this Act has been short levied or erroneously refunded for any reason or owing to any cause, the person who should have paid the amount short levied or to whom the refund has erroneously been made shall pay the deficiency or repay the amount erroneously refunded to him on demand being made within one year from the date of the short levy or refund.
 
 [33/2000]
 
-(2) Where the short levy or erroneous refund does not exceed $20 or such other amount as the Minister may by order prescribe in any one case, the Director-General may waive the recovery of the short levy or erroneous refund.
+(2) Without prejudice to any other remedy for the recovery of the amount due, any dutiable goods belonging to that person which may be in customs control may be detained until the deficiency is paid or the refund is repaid, as the case may be.
+
+(3) Where the short levy or erroneous refund does not exceed $20 or such other amount as the Minister may by order prescribe in any one case, the Director-General may waive the recovery of the short levy or erroneous refund.
 
 [23/93]
 
@@ -804,15 +822,17 @@ unless notice in writing of the claim has been given at or before the time of th
 
 22\.—(1) For the purposes of levying excise duty under this Act, the value of any imported or locally-manufactured goods, other than motor spirit, shall be determined according to the regulations made by the Minister for the purposes of this section.
 
+[4/2003]
+
 (2) Regulations made under subsection (1) may require any importer, local manufacturer or other person concerned with the importation or local manufacture of goods —
 
 (a) to furnish to a proper officer of customs, in such form as he may require, such information as is in his opinion necessary for a proper valuation of the goods; and
 
 (b) to produce any book of accounts or other document of whatever nature relating to the purchase, importation or sale of the goods by that person.
 
-[4/2003 wef 01/04/2003]
+[4/2003]
 
-### Value of imported goods, other than motor spirit, for customs duty
+### Value of imported goods for customs duty
 
 22A\.—(1) For the purposes of levying customs duty under this Act, the value of any imported goods shall be determined according to the regulations made by the Minister for the purposes of this section.
 
@@ -820,9 +840,9 @@ unless notice in writing of the claim has been given at or before the time of th
 
 (2) Regulations made under subsection (1) may provide for requiring any importer or other person concerned with the importation of goods —
 
-(a) to furnish to a proper officer of customs, in such form as he may require, such information as is in his opinion necessary for a proper valuation of the goods;
+(a) to furnish to a proper officer of customs, in such form as he may require, such information as is in his opinion necessary for a proper valuation of the goods; and
 
-(b) to produce any books of accounts or other documents of whatever nature relating to the purchase, importation or sale of the goods by that person.
+(b) to produce any book of accounts or other document of whatever nature relating to the purchase, importation or sale of the goods by that person.
 
 [11/97]
 
@@ -998,8 +1018,6 @@ except under and in accordance with the conditions contained in a permit issued 
 
 (c) of intoxicating liquors or tobacco of such type and quantity as the Minister may by order prescribe and which is in the possession or in the baggage of any person arriving in Singapore;
 
-[4/2003 wef 01/04/2003]
-
 (d) of petroleum for use in the propulsion of a motor vehicle or an aircraft which —
 
 (i) in relation to a motor vehicle —
@@ -1010,11 +1028,9 @@ except under and in accordance with the conditions contained in a permit issued 
 
 (ii) in relation to an aircraft, is carried in the fuel supply tank of the aircraft; and
 
-[4/2003 wef 01/04/2003]
-
 (e) of dutiable goods imported by post unless so required by the proper officer of customs.
 
-[23/93]
+[23/93; 4/2003]
 
 (3) The Director-General may, subject to such conditions as he may impose, authorise any person to remove, without a permit, goods of a class dutiable on import intended for transhipment or in transit —
 
@@ -1024,13 +1040,15 @@ except under and in accordance with the conditions contained in a permit issued 
 
 [23/93]
 
-35\. [Deleted by Act 4/2003 wef 01/04/2003]
+Permit not used to be returned within 24 hours
+
+35\. [Repealed by Act 4/2003]
 
 ### Goods removed in accordance with declaration not to be relanded
 
 36\. No person shall —
 
-(a) reland or permit the relanding of any goods placed on any ship or aircraft or loaded into any railway wagon in accordance with any declaration made under section 59, or
+(a) reland or permit the relanding of any goods placed on any ship or aircraft or loaded into any railway wagon in accordance with any declaration made under section 59; or
 
 (b) knowingly neglect or omit to cause the goods to be exported or transhipped, as the case may be, in accordance with the declaration without the prior consent of the proper officer of customs.
 
@@ -1108,9 +1126,11 @@ the master, owner or agent of the vessel or the pilot, owner or agent of the air
 
 (c) a full and correct loadlist in the form approved by the Director-General and certified by such owner, agent or station-master to contain full particulars of all the dutiable goods which have been received for loading onto the vessel, aircraft or train.
 
+[4/2003]
+
 (2) The Director-General may, if he thinks fit and subject to such conditions as he may impose, permit the owner, agent or station-master referred to in subsection (1) to authorise any other person to furnish on behalf of the owner, agent or station-master the whole or any part of any manifest, statement or loadlist referred to in that subsection.
 
-[4/2003 wef 01/04/2003]
+[4/2003]
 
 ### Liability in respect of duty for goods unaccounted for
 
@@ -1128,7 +1148,13 @@ be at the risk of the master, owner or agent of the vessel or the pilot, owner o
 
 [23/93]
 
-(3) Notwithstanding the provisions of any written law to the contrary, where dutiable goods have been received for storage by the authority administering the free trade zone or the occupier or operator of the premises in which the goods are stored, as the case may be, the authority, occupier or operator shall be liable to pay the duty on such of the goods as are not accounted for to the satisfaction of a senior officer of customs as if those goods had been imported.
+(3) Notwithstanding the provisions of any written law to the contrary, where dutiable goods have been received for storage by —
+
+(a) the authority administering the free trade zone; or
+
+(b) the occupier or operator of the premises in which the goods are stored,
+
+the authority, occupier or operator shall be liable to pay the duty on such of the goods as are not accounted for to the satisfaction of a senior officer of customs as if those goods had been imported.
 
 [23/93]
 
@@ -1150,7 +1176,11 @@ GENERAL PROVISIONS AFFECTING AIRCRAFT AND VESSELS IN TERRITORIAL WATERS
 
 ### Goods not specified in manifest to be deemed uncustomed
 
-44\. If dutiable goods, or goods in transit of a class dutiable on import, other than bona fide sea, air or railway stores, are found by a proper officer of customs in any vessel, aircraft or train in Singapore and those goods are not specified in the manifest of the vessel, aircraft or train, then those goods shall be deemed to be uncustomed goods and shall be liable to seizure and the vessel, aircraft or train may be detained by the proper officer of customs.
+44\. If dutiable goods, or goods in transit of a class dutiable on import, other than bona fide sea, air or railway stores, are found by a proper officer of customs in any vessel, aircraft or train in Singapore and those goods are not specified in the manifest of the vessel, aircraft or train, then those goods shall be —
+
+(a) deemed to be uncustomed goods; and
+
+(b) liable to seizure and the vessel, aircraft or train may be detained by the proper officer of customs.
 
 ### Missing goods deemed to have been illegally landed
 
@@ -1158,7 +1188,7 @@ GENERAL PROVISIONS AFFECTING AIRCRAFT AND VESSELS IN TERRITORIAL WATERS
 
 (a) unless the contrary is proved, be deemed to have illegally removed those goods and landed them in Singapore; and
 
-(b) without prejudice to any proceedings under this Act, be liable to pay forthwith to the proper officer of customs the duty leviable on the goods found deficient or missing and the vessel, aircraft or train may be detained by the proper officer of customs until the customs duty or excise duty has been paid.
+(b) without prejudice to any proceedings under this Act, be liable to pay immediately to the proper officer of customs the duty leviable on the goods found deficient or missing and the vessel, aircraft or train may be detained by the proper officer of customs until the customs duty or excise duty has been paid.
 
 [23/93; 29/98; 33/2000]
 
@@ -1168,7 +1198,13 @@ GENERAL PROVISIONS AFFECTING AIRCRAFT AND VESSELS IN TERRITORIAL WATERS
 
 ### Power to lock up goods dutiable on import
 
-47\.—(1) When, in exercise of the powers conferred by this Act, a proper officer of customs boards any vessel, aircraft or train, he shall have free access to every part of the vessel, aircraft or train, and shall have the power to mark any dutiable goods before landing, and to lock up, seal, mark or otherwise secure any dutiable goods, including sea, air or railway stores on board the vessel, aircraft or train.
+47\.—(1) When, in exercise of the powers conferred by this Act, a proper officer of customs boards any vessel, aircraft or train, he shall —
+
+(a) have free access to every part of the vessel, aircraft or train;
+
+(b) have the power to mark any dutiable goods before landing; and
+
+(c) have the power to lock up, seal, mark or otherwise secure any dutiable goods, including sea, air or railway stores on board the vessel, aircraft or train.
 
 (2) No lock, seal or mark shall be opened, broken or altered without the consent of the proper officer of customs while the vessel, aircraft or train is within the limits of the port or airport or before any such goods are delivered to be landed.
 
@@ -1200,6 +1236,8 @@ WAREHOUSING
 
 49\.—(1) The Director-General may establish and maintain Government warehouses in which dutiable goods may be deposited and kept without payment of duty.
 
+[4/2003]
+
 (2) The Director-General may, in his discretion, limit the quantity of dutiable goods which, and the period during which any such dutiable goods, may be deposited and kept in any Government warehouse, at any customs office or customs station.
 
 (3) The Director-General may, in his discretion, permit the storage of non-dutiable or duty-paid goods in a Government warehouse subject to such conditions as he may impose.
@@ -1216,7 +1254,7 @@ WAREHOUSING
 
 (a) in the absence of proof to the contrary, be presumed to have illegally removed the goods; and
 
-(b) without prejudice to any proceedings under this Act, be liable to pay forthwith to the proper officer of customs the duty leviable on the goods found deficient.
+(b) without prejudice to any proceedings under this Act, be liable to pay immediately to the proper officer of customs the duty leviable on the goods found deficient.
 
 (5) If, it is shown to the satisfaction of the Director-General that the deficiency has been caused by theft or by unavoidable leakage, breakage or other accident, or by evaporation, the Director-General may remit the whole or any part of the duty leviable on the goods found deficient.
 
@@ -1236,7 +1274,7 @@ WAREHOUSING
 
 (a) in the absence of proof to the contrary, be presumed to have illegally removed the goods; and
 
-(b) without prejudice to any proceedings under this Act, be liable to pay forthwith to the proper officer of customs the duty leviable on the goods found deficient.
+(b) without prejudice to any proceedings under this Act, be liable to pay immediately to the proper officer of customs the duty leviable on the goods found deficient.
 
 (5) If, it is shown to the satisfaction of the Director-General that the deficiency has been caused by theft or by unavoidable leakage, breakage or other accident, or by evaporation, the Director-General may remit the whole or any part of the duty leviable on the goods found deficient.
 
@@ -1254,7 +1292,11 @@ WAREHOUSING
 
 (2) If the Director-General is satisfied that for any reason it is not practicable to land or deposit any dutiable goods in a free trade zone or in a Government warehouse, licensed factory warehouse or licensed warehouse, or a customs office or a customs station or in any other place approved by the Director-General in writing, he may exempt those goods from being so landed or deposited, subject to such conditions as he may impose.
 
-(3) Notwithstanding subsection (1), such goods as may be prescribed by the Minister under section 5(4) of the Free Trade Zones Act (Cap. 114), shall be deposited in a Government warehouse, licensed factory warehouse or licensed warehouse and shall be liable to warehouse rent at the prescribed rates applicable to those goods.
+(3) Notwithstanding subsection (1), such goods as may be prescribed by the Minister under section 5(4) of the Free Trade Zones Act (Cap. 114), shall —
+
+(a) be deposited in a Government warehouse, licensed factory warehouse or licensed warehouse; and
+
+(b) be liable to warehouse rent at the prescribed rates applicable to those goods.
 
 (4) Any dutiable goods imported by rail may be consigned to, and shall be deemed to have first arrived on reaching, the customs station along the railway.
 
@@ -1278,7 +1320,7 @@ WAREHOUSING
 
 (5) When delivery is made against such delivery order, the quantity of goods covered by the deposit receipt or certified copy thereof shall be deemed to have been endorsed accordingly and when all the goods have been so delivered the warehouse deposit receipt or certified copy thereof shall be deemed to be cancelled.
 
-### Power to open and examine packages
+### Power to open and examine goods or packages
 
 54\. A senior officer of customs may, at any time, direct that any goods or package lodged in any Government warehouse, licensed factory warehouse or licensed warehouse or customs office or customs station or in any other place approved by the Director-General in writing shall be opened, weighed or otherwise examined, and, after the goods or package has been so opened or examined, may cause the same to be sealed or marked in such manner as he thinks fit.
 
@@ -1286,7 +1328,7 @@ WAREHOUSING
 
 55\.—(1) The proper officer of customs may detain in a Government warehouse or customs office or customs station or in any other place approved by the Director-General in writing any goods if he is in doubt whether the goods are dutiable or not.
 
-(2) In every such case, the proper officer of customs shall forthwith make a report to a senior officer of customs, who shall, without undue delay, decide whether the goods are dutiable or not.
+(2) In every such case, the proper officer of customs shall immediately make a report to a senior officer of customs, who shall, without undue delay, decide whether the goods are dutiable or not.
 
 (3) If any such goods are found not to be dutiable, no warehouse rent shall be payable in respect thereof.
 
@@ -1304,7 +1346,7 @@ WAREHOUSING
 
 (2) Such rent shall be payable on demand, and in any event before the goods are removed from the Government warehouse.
 
-(3) If any bill for warehouse rent presented in accordance with subsection (1) is not discharged within 14 days from the date of its presentation, the Director-General may forthwith order the goods in respect of which the warehouse rent is payable to be forfeited to the Government, with effect from the day next following that, if any, in respect of which storage charges have been paid.
+(3) If any bill for warehouse rent presented in accordance with subsection (1) is not discharged within 14 days from the date of its presentation, the Director-General may immediately order the goods in respect of which the warehouse rent is payable to be forfeited to the Government, with effect from the day next following that, if any, in respect of which storage charges have been paid.
 
 ### Removal of dutiable goods from customs control
 
@@ -1312,7 +1354,7 @@ WAREHOUSING
 
 [23/93]
 
-(2) Goods deposited in a licensed factory warehouse or licensed warehouse may be removed therefrom without such prior declaration subject to such conditions as the Director-General may impose.
+(2) Goods deposited in a licensed factory warehouse orlicensed warehouse may be removed therefrom without such prior declaration subject to such conditions as the Director-General may impose.
 
 ### Landing of dutiable goods for transhipment
 
@@ -1338,7 +1380,7 @@ MANUFACTURE AND BOTTLING
 
 63\.—(1) No person shall manufacture any dutiable goods except under and in accordance with the provisions of a licence granted by the Director-General and at the place of manufacture specified in the licence.
 
-[4/2003 wef 01/04/2003]
+[4/2003]
 
 (2) Such licence shall, with the approval of the Minister, be granted at the discretion of the Director-General, and upon payment of the prescribed fee and shall be for such period and subject to such conditions as may be prescribed by regulations made under this Act, and to such further conditions as the Minister may direct to be endorsed on the licence.
 
@@ -1350,7 +1392,7 @@ MANUFACTURE AND BOTTLING
 
 (b) where the dutiable goods consist of intoxicating liquors, a licence for the bottling of such intoxicating liquors as provided for in section 66(1).
 
-[4/2003 wef 01/04/2003]
+[4/2003]
 
 (5) Any regulations made under section 143(1) to regulate the control of licensed warehouses or bottling warehouses shall apply to warehouses deemed to be so licensed under subsection (4) to such an extent as the Director-General may direct.
 
@@ -1364,7 +1406,7 @@ MANUFACTURE AND BOTTLING
 
 (3) Nothing in subsection (1) shall apply to stocks held by a bona fide trader in scientific apparatus or in machinery or, with the approval of the Director-General, to stills, utensils or other apparatus for distilling, fermenting or otherwise manufacturing intoxicating liquors or machinery for the manufacture of tobacco or any other apparatus or machinery for the manufacture of dutiable goods in the possession of a person constructing a distillery, brewery or other factory with the approval of the Director-General or of a person in occupation of premises temporarily closed down, in respect of which a licence had previously been held.
 
-65\. [Deleted]
+65\. [Not in use]
 
 ### Bottling warehouse
 
@@ -1420,6 +1462,8 @@ SALE OF INTOXICATING LIQUORS
 
 (4) Subject to section 72(2), the delivery of intoxicating liquors in quantities of 30 litres or less shall, in any proceedings under this Act, be taken to be prima facie evidence of sale by retail and that money or other consideration was given for the same.
 
+[S 270/71]
+
 (5) The Minister may, by order published in theGazette, exempt any person from subsection (1), subject to such conditions as the Minister may consider fit to impose.
 
 [33/2000]
@@ -1429,6 +1473,8 @@ SALE OF INTOXICATING LIQUORS
 72\.—(1) No person shall sell by wholesale or offer for sale by wholesale or permit to be so sold or offered, or have in his possession for sale by wholesale, any intoxicating liquors except under and in accordance with a licence in that behalf granted under this Act and in a place specified in the licence.
 
 (2) The delivery of intoxicating liquors in any quantity to the licensee of a public house, beer house, samsu shop, retail liquor shop or retail beer shop and the delivery of intoxicating liquors to any other person in quantities exceeding 30 litres in any one day shall be taken in any proceedings under this Act to be prima facie evidence of sale by wholesale and that money or other consideration was given for the same.
+
+[S 270/71]
 
 ### Storage of liquors
 
@@ -1500,7 +1546,7 @@ DRAWBACK
 
 78\. Where any tobacco on which duty has been paid is manufactured in Singapore and is re-exported as part or ingredient of the manufactured tobacco, the Director-General may, on such re-export, allow to the manufacturer a drawback of the whole or such proportion of the duty paid as the Minister may prescribe if —
 
-(a) the tobacco has been manufactured in a factory licensed under section 63(1);
+(a) the tobacco has been manufactured in a factory licensed under section 63(1) ;
 
 (b) provision to the satisfaction of the Director-General has been made for the control and supervision in the factory of the deposit and issue for use of the tobacco on which duty has been paid;
 
@@ -1514,13 +1560,13 @@ DRAWBACK
 
 ### Drawback on imported goods on which duty has been paid
 
-79\.—(1) This section and sections 80, 81 and 132 shall apply to all goods which have become dutiable by virtue of an order published under section 10(1).
+79\.—(1) This section and sections 80, 81 and 134 shall apply to all goods which have become dutiable by virtue of an order published under section 10(1).
 
 (2) This section shall not apply to goods affected —
 
 (a) by section 13, unless the Minister otherwise directs; or
 
-(b) by section 16 or 28.
+(b) by section 15 or 28.
 
 (3) When any goods, referred to in subsection (1), upon which customs duty or excise duty has been paid and not drawn back are re-exported, the whole or such proportion of the duty paid as the Minister may prescribe calculated in accordance with subsection (4) may, in the discretion of the Director-General, be repaid as drawback, if —
 
@@ -1590,11 +1636,9 @@ DUTY FREE SHOPS FOR TOURISTS
 
 (9) Any person who contravenes subsection (8) shall be guilty of an offence.
 
-83\. [Deleted by Act 4/2003 wef 01/04/2003]
+Drawback on goods sold to tourists
 
-## PART XI
-
-[Deleted by Act 4/2003 wef 01/04/2003]
+83\. [Repealed by Act 4/2003]
 
 ## PART XII
 
@@ -1602,13 +1646,15 @@ MISCELLANEOUS PROVISIONS
 
 ### Documents to be produced on demand
 
-90\.—(1) On demand by the proper officer of customs, the importer or exporter of any dutiable goods or his agent shall produce to that officer all invoices, bills of lading, certificates of origin or of analysis and any other documents, which that officer may require to test the accuracy of any declaration made by the importer or exporter to any officer of customs.
+85\.—(1) On demand by the proper officer of customs, the importer or exporter of any dutiable goods or his agent shall produce to that officer all invoices, bills of lading, certificates of origin or of analysis and any other documents, which that officer may require to test the accuracy of any declaration made by the importer or exporter to any officer of customs.
 
 (2) On demand by a senior officer of customs, the importer or exporter of any dutiable goods or his agent shall produce to that officer all books of accounts, invoices, bills of lading, certificates of origin, or of insurance or of analysis and any other documents including documents on terms of trade relating to the purchase, importation or sale of the goods by the importer or exporter or his agent.
 
+[90
+
 ### Computer service
 
-90A\.—(1) The Director-General may establish and operate a computer service and make provision for any manifest, return, list, statement, declaration, direction, notice, permit, receipt or other document required or authorised by this Act to be made, served or submitted by electronic transmission (referred to in this Act as an electronic notice).
+86\.—(1) The Director-General may establish and operate a computer service and make provision for any manifest, return, list, statement, declaration, direction, notice, permit, receipt or other document required or authorised by this Act to be made, served or submitted by electronic transmission (referred to in this Act as an electronic notice).
 
 [24/96]
 
@@ -1626,7 +1672,9 @@ MISCELLANEOUS PROVISIONS
 
 (b) before the notification to the Director-General by the registered user in the prescribed manner, of cancellation of the authentication code,
 
-that notice shall, for the purposes of this Act, be presumed to be made by the registered user unless he adduces evidence to the contrary;
+that notice shall, for the purposes of this Act, be presumed to be made by the registered user unless he adduces evidence to the contrary.
+
+[24/96]
 
 (5) Where the registered user alleges that he has transmitted no such electronic notice referred to in subsection (4), the burden is also on him to adduce evidence of that fact.
 
@@ -1690,11 +1738,15 @@ shall be sufficient evidence that the electronic notice or copy thereof has been
 
 (h) generally for the better provision of the computer service.
 
+[90A
+
 [24/96]
 
 ### Preservation of records
 
-90B\.—(1) Any duty under this Act to keep or preserve any books of account, register, stock book or other records may be discharged by the preservation of the information contained therein by such means as the Director-General may approve.
+87\.—(1) Any duty under this Act to keep or preserve any books of account, register, stock book or other records may be discharged by the preservation of the information contained therein by such means as the Director-General may approve.
+
+[24/96]
 
 (2) Where the information referred to in subsection (1) is so preserved, a copy of any document forming part of the records shall, subject to subsections (3) and (4), be admissible in evidence in any proceedings, whether civil or criminal, to the same extent as the records themselves.
 
@@ -1706,11 +1758,13 @@ shall be sufficient evidence that the electronic notice or copy thereof has been
 
 (4) A statement contained in a document produced by a computer shall not by virtue of subsection (2) be admissible in evidence whether in civil or criminal proceedings except in accordance with the Evidence Act (Cap. 97).
 
+[90B
+
 [24/96]
 
 ### Power of Director-General to obtain information and furnishing of information
 
-90C\.—(1) The Director-General or any officer of customs authorised by him shall at all times have full and free access to all buildings, places, books, documents and other records for any of the purposes of this Act, and may inspect, copy or make extracts from any such books, documents or records.
+88\.—(1) The Director-General or any officer of customs authorised by him shall at all times have full and free access to all buildings, places, books, documents and other records for any of the purposes of this Act, and may inspect, copy or make extracts from any such books, documents or records.
 
 [24/96]
 
@@ -1730,11 +1784,13 @@ shall be sufficient evidence that the electronic notice or copy thereof has been
 
 (4) No person shall, by virtue of this section, be obliged to disclose any particulars as to which he is under any statutory obligation to observe secrecy.
 
+[90C
+
 [24/96]
 
 ### Information not to be published or disclosed
 
-90D\.—(1) No particulars, information or document furnished for the purposes of this Act shall, unless with the prior consent in writing of the person having the control, management or superintendence of the goods in relation to which the same was given or furnished —
+89\.—(1) No particulars, information or document furnished for the purposes of this Act shall, unless with the prior consent in writing of the person having the control, management or superintendence of the goods in relation to which the same was given or furnished —
 
 (a) be published; or
 
@@ -1764,11 +1820,13 @@ except where it is necessary for the purposes of —
 
 (4) In this section, “Comptroller”, in relation to Goods and Services Tax, has the same meaning as in the Goods and Services Tax Act (Cap. 117A).
 
+[90D
+
 [24/96]
 
 ### Retention of trade documents
 
-90E\.—(1) Notwithstanding section 90B, every importer or exporter of dutiable goods or his agent shall keep the following documents and records relating to the goods:
+90\.—(1) Notwithstanding section 87, every importer or exporter of dutiable goods or his agent shall keep the following documents and records relating to the goods:
 
 (a) invoices;
 
@@ -1795,6 +1853,8 @@ except where it is necessary for the purposes of —
 [33/2000]
 
 (3) Any person who fails, without reasonable excuse, to comply with this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+[90E
 
 [33/2000]
 
@@ -1826,7 +1886,7 @@ except where it is necessary for the purposes of —
 
 (ii) by sending the notice or document addressed to the body of persons or company at its registered office or principal place of business; or
 
-(d) by an electronic notice transmitted in accordance with section 90A.
+(d) by an electronic notice transmitted in accordance with section 86.
 
 [23/93; 24/96]
 
@@ -1836,7 +1896,7 @@ except where it is necessary for the purposes of —
 
 ### Baggage of passengers
 
-93\.—(1) Notwithstanding anything in this Act but subject to subsection (1A), every passenger or other person arriving in Singapore shall —
+93\.—(1) Notwithstanding anything in this Act but subject to subsection (2), every passenger or other person arriving in Singapore shall —
 
 (a) declare to the proper officer of customs at the customs station all dutiable goods in his possession, whether on his person or in any baggage or in any vehicle —
 
@@ -1846,9 +1906,9 @@ except where it is necessary for the purposes of —
 
 (b) pay the customs duty or excise duty leviable thereon before he proceeds.
 
-[4/2003 wef 01/04/2003]
+[4/2003]
 
-(1A) Notwithstanding anything in this Act, every passenger or other person arriving in Singapore at a point of entry which has a Red Channel and a Green Channel shall —
+(2) Notwithstanding anything in this Act, every passenger or other person arriving in Singapore at a point of entry which has a Red Channel and a Green Channel shall —
 
 (a) proceed to the Red Channel to declare to the proper officer of customs all dutiable goods in his possession, whether on his person or in any baggage or in any vehicle —
 
@@ -1858,21 +1918,27 @@ except where it is necessary for the purposes of —
 
 (b) pay the customs duty or excise duty leviable thereon before he proceeds.
 
-[4/2003 wef 01/04/2003]
+[4/2003]
 
-(1B) Where a passenger or person fails to pay any customs duty or excise duty on any dutiable goods in accordance with subsection (1) or (1A), those dutiable goods shall be deemed to be uncustomed goods.
+(3) Where a passenger or person fails to pay any customs duty or excise duty on any dutiable goods in accordance with subsection (1) or (2), those dutiable goods shall be deemed to be uncustomed goods.
 
-[4/2003 wef 01/04/2003]
+[4/2003]
 
-(2) Any passenger or other person arriving in Singapore who proceeds to the Green Channel with dutiable goods which exceed his duty free allowance, or any goods for which no duty free allowance is granted in his possession, either on his person or in any baggage or in any vehicle shall be presumed, until the contrary is proved, to be in possession of uncustomed goods.
+(4) Any passenger or other person arriving in Singapore who proceeds to the Green Channel with dutiable goods which exceed his duty free allowance, or any goods for which no duty free allowance is granted in his possession, either on his person or in any baggage or in any vehicle shall be presumed, until the contrary is proved, to be in possession of uncustomed goods.
 
 [24/96]
 
-(3) The baggage of passengers may be examined and delivered in such manner as a senior officer of customs may direct, and it shall be the duty of the person in charge of the baggage to produce, open, unpack and repack the baggage.
+(5) The baggage of passengers may be examined and delivered in such manner as a senior officer of customs may direct, and it shall be the duty of the person in charge of the baggage to produce, open, unpack and repack the baggage.
 
 ### Proper officer of customs may take samples
 
-94\.—(1) The proper officer of customs may at any time, if his duties so require, take samples of any goods to ascertain whether they are goods of a description liable to any customs duty or excise duty, or to ascertain the customs duty or excise duty payable on the goods or for such other purposes as the proper officer of customs may consider necessary.
+94\.—(1) The proper officer of customs may at any time, if his duties so require, take samples of any goods —
+
+(a) to ascertain whether they are goods of a description liable to any customs duty or excise duty;
+
+(b) to ascertain the customs duty or excise duty payable on the goods; or
+
+(c) for such other purposes as the proper officer of customs may consider necessary.
 
 [33/2000]
 
@@ -1892,7 +1958,7 @@ except where it is necessary for the purposes of —
 
 ### Declarations to give a full and true account
 
-96\.—(1) The declarations referred to in sections 37, 59 and 80 shall, unless the Director-General allows under subsection (2), be made and submitted by an electronic notice in accordance with section 90A and such declaration shall give a full and true account of such particulars as are required by the Director-General.
+96\.—(1) The declarations referred to in sections 37, 59 and 80 shall, unless the Director-General allows under subsection (2), be made and submitted by an electronic notice in accordance with section 86 and such declaration shall give a full and true account of such particulars as are required by the Director-General.
 
 [24/96]
 
@@ -1900,7 +1966,11 @@ except where it is necessary for the purposes of —
 
 [24/96]
 
-(3) Such declaration shall give a full and true account of the particulars for which provision is made in the form and shall be in duplicate or in such other number of copies as the person to whom the declaration is required to be made may direct.
+(3) Such declaration shall —
+
+(a) give a full and true account of the particulars for which provision is made in the form; and
+
+(b) be in duplicate or in such other number of copies as the person to whom the declaration is required to be made may direct.
 
 [24/96]
 
@@ -1917,6 +1987,8 @@ except where it is necessary for the purposes of —
 ### Power of Director-General to charge fees
 
 98\. The Director-General may, with the approval of the Minister, charge such fees as he may consider reasonable in respect of any act or service done or rendered by the Singapore Customs for which no fee is prescribed by any written law.
+
+[4/2003]
 
 ### Securities for payment of duty and compliance with this Act
 
@@ -1940,7 +2012,7 @@ SEARCH, SEIZURE AND ARREST
 
 ### Issue of search warrant
 
-101\.—(1) Whenever it appears to any Magistrate, or any senior officer of customs not below the rank of Assistant Director-General of Customs, upon information and after any inquiry which he may think necessary, that there is reasonable cause to believe that in any dwelling-house, shop or other building or place, there are concealed or deposited any —
+101\.—(1) Where it appears to any Magistrate, or any senior officer of customs not below the rank of Assistant Director-General of Customs, upon information and after any inquiry which he may think necessary, that there is reasonable cause to believe that in any dwelling-house, shop or other building or place, there are concealed or deposited any —
 
 (a) dutiable or uncustomed goods;
 
@@ -1958,7 +2030,7 @@ the Magistrate or the senior officer of customs may issue a warrant authorising 
 
 (iii) to make copies of and take any reasonable steps to preserve any books, records, documents or other articles referred to in sub-paragraph (i).
 
-[23/93; 24/96]
+[23/93; 24/96; 4/2003]
 
 (2) Such officer may if it is necessary to do so —
 
@@ -1973,6 +2045,8 @@ the Magistrate or the senior officer of customs may issue a warrant authorising 
 ### Power of Magistrate, etc., to enter and search
 
 102\. A Magistrate or senior officer of customs not below the rank of Assistant Director-General of Customs may himself do what he may under section 101 empower an officer of customs to do whenever the Magistrate or senior officer of customs is competent to issue a warrant under that section.
+
+[4/2003]
 
 ### When search may be made without warrant
 
@@ -2002,15 +2076,15 @@ and if he has reasonable grounds for believing that by reason of the delay in ob
 
 (ii) any person having charge of, or otherwise concerned with the operation of, the computer, device, apparatus or material,
 
-to provide the officer or the Magistrate with such reasonable assistance as he may require for the purposes of paragraph (a).
+to provide the senior officer of customs or the Magistrate with such reasonable assistance as he may require for the purposes of paragraph (a).
+
+[24/96]
 
 ### Power to search vessels and aircraft
 
 104\.—(1) A proper officer of customs may —
 
 (a) go on board any vessel or aircraft in the Port of Singapore or in any customs airport or place or within the territorial waters of Singapore and remain on board as long as the vessel or aircraft remains in Singapore;
-
-[24/96]
 
 (b) require the master of the vessel or the captain of the aircraft to give such information relating to the vessel or aircraft, cargo, stores, crew, passengers or voyage as he may consider necessary;
 
@@ -2042,13 +2116,25 @@ to provide the officer or the Magistrate with such reasonable assistance as he m
 
 106\.—(1) Any officer of customs may stop and examine any vehicle for the purpose of ascertaining whether any dutiable or uncustomed goods are contained therein.
 
-(2) The person in control or in charge of the vehicle shall, if required to do so by the officer, stop the vehicle and allow the officer to examine the same or move his vehicle to another place for examination, and shall not proceed until permission to do so has been given by the officer.
+(2) The person in control or in charge of the vehicle shall, if required to do so by the officer —
 
-(3) The person in control or in charge of any vehicle stopped for examination under subsection (1) shall, on request by the proper officer of customs, open all parts of the vehicle for examination by the officer and take all measures necessary to enable such examination as the officer considers necessary to be made.
+(a) stop the vehicle and allow the officer to examine it or move his vehicle to another place for examination; and
+
+(b) not proceed until permission to do so has been given by the officer.
+
+(3) The person in control or in charge of any vehicle stopped for examination under subsection (1) shall, on request by the proper officer of customs —
+
+(a) open all parts of the vehicle for examination by the officer; and
+
+(b) take all measures necessary to enable such examination as the officer considers necessary to be made.
 
 ### Road barrier
 
-107\.—(1) Notwithstanding the provisions of any other written law, any senior officer of customs may, if he considers it necessary to do so for the prevention of smuggling of dutiable goods or detection of revenue evasion, erect or place barriers in or across any public road or street or in any public place in such manner as he may think fit and may take all reasonable steps to prevent any vehicle from being driven or ridden past any such barrier.
+107\.—(1) Notwithstanding the provisions of any other written law, any senior officer of customs may, if he considers it necessary to do so for the prevention of smuggling of dutiable goods or detection of revenue evasion —
+
+(a) erect or place barriers in or across any public road or street or in any public place in such manner as he may think fit; and
+
+(b) take all reasonable steps to prevent any vehicle from being driven or ridden past any such barrier mentioned in paragraph (a).
 
 (2) Any driver or rider of any vehicle who fails to comply with the signal of an officer of customs requiring the person to stop his vehicle before reaching any barrier referred to in subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.
 
@@ -2058,7 +2144,13 @@ to provide the officer or the Magistrate with such reasonable assistance as he m
 
 ### Power to open packages and examine goods
 
-108\. Any proper officer of customs may examine any goods in the course of being imported or exported or intended to be imported or exported and may for the purposes of such examination direct the goods to be brought to a customs office or a customs station and may open any package or receptacle.
+108\. Any proper officer of customs may —
+
+(a) examine any goods in the course of being imported or exported or intended to be imported or exported;
+
+(b) for the purposes of such examination direct the goods to be brought to a customs office or a customs station; and
+
+(c) open any package or receptacle.
 
 ### Search of persons arriving in Singapore
 
@@ -2084,7 +2176,7 @@ to provide the officer or the Magistrate with such reasonable assistance as he m
 
 [23/93]
 
-(3) Whenever any goods, vehicles, vessels or aircraft are seized under this Act, the seizing officer shall forthwith give notice in writing of the seizure and the grounds thereof to the owner of the goods, vehicles, vessels or aircraft, if known, either by delivering the notice to him personally or by post at his place of abode, if known.
+(3) Whenever any goods, vehicles, vessels or aircraft are seized under this Act, the seizing officer shall immediately give notice in writing of the seizure and the grounds thereof to the owner of the goods, vehicles, vessels or aircraft, if known, either by delivering the notice to him personally or by post at his place of abode, if known.
 
 (4) The notice referred to in subsection (3) shall not be required to be given where the seizure is made on the person, or in the presence of the offender or the owner or his agent, or in the case of a vessel or an aircraft, in the presence of the master or pilot, as the case may be.
 
@@ -2096,7 +2188,7 @@ to provide the officer or the Magistrate with such reasonable assistance as he m
 
 (c) the seizure of conveyances shall apply to all equipment thereof and to any animal by which the same is drawn.
 
-(6) Any goods of a perishable nature or any animal or bird seized under this section may be sold forthwith and the proceeds of sale held to abide the result of any prosecution or claim.
+(6) Any goods of a perishable nature or any animal or bird seized under this section may be sold immediately and the proceeds of sale held to abide the result of any prosecution or claim.
 
 (7) Any goods which are of a dangerous character or which cannot be removed without undue expense may be destroyed on the instructions of a senior officer of customs.
 
@@ -2124,8 +2216,6 @@ and may search or cause to be searched, any person so arrested.
 
 [23/93; 24/96]
 
-[]
-
 (3) An officer of customs making an arrest without warrant shall, without unnecessary delay and subject to this section as to bail or previous release, take or send the person arrested before a Magistrate’s Court.
 
 (4) No officer of customs shall detain in custody a person arrested without a warrant for a longer period than under the circumstances of the case is reasonable.
@@ -2148,11 +2238,9 @@ PROVISIONS AS TO TRIALS AND PROCEEDINGS
 
 [23/93; 24/96]
 
-[]
+### Jurisdiction of court
 
-### District or Magistrate’s Court to have full jurisdiction
-
-114\. Notwithstanding the provisions of any written law to the contrary, a District Court or a Magistrate’s Court shall have jurisdiction to try any offence under this Act and to award the full punishment for any such offence.
+114\. Notwithstanding the provisions of any written law to the contrary, a District Court or a Magistrate’s Court shall have jurisdiction to try any offence under this Act and shall have the power to impose the full penalty or punishment in respect of the offence.
 
 [24/96]
 
@@ -2256,7 +2344,7 @@ with one additional month for every $100 after the first $200 of the fine until 
 
 121\.—(1) Subject to this section, no witness in any civil or criminal proceedings shall be obliged or permitted to disclose the name or address of an informer or the substance of the information received from him or to state any matter which might lead to his discovery.
 
-(2) If any books, documents or papers which are in evidence or liable to inspection in any civil or criminal proceedings whatsoever contain any entry in which any informer is named or described or which might lead to his discovery, the court shall cause all such passages to be concealed from view or to be obliterated so far only as may be necessary to protect the informer from discovery.
+(2) If any books, documents or papers which are in evidence or liable to inspection in any civil or criminal proceedings contain any entry in which any informer is named or described or which might lead to his discovery, the court shall cause all such passages to be concealed from view or to be obliterated so far only as may be necessary to protect the informer from discovery.
 
 (3) If, on the trial for any offence under this Act, the court, after full inquiry into the case, believes that the informer wilfully made in his complaint a material statement which he knew or believed to be false or did not believe to be true, or if in any other proceedings the court is of the opinion that justice cannot be fully done between the parties thereto without the discovery of the informer, it shall be lawful for the court to require the production of the original complaint, if in writing, and permit inquiry, and require full disclosure, concerning the informer.
 
@@ -2298,7 +2386,7 @@ with one additional month for every $100 after the first $200 of the fine until 
 
 ### Composition of offences
 
-126\.—(1) Any senior officer of customs may compound any offence which is prescribed to be a compoundable offence by accepting from the person reasonably suspected of having committed the offence a sum of money not exceeding $5,000.
+126\.—(1) Any senior officer of customs may compound any offence under this Act which is prescribed to be a compoundable offence by collecting from the person reasonably suspected of having committed the offence a sum not exceeding $5,000.
 
 [23/93]
 
@@ -2384,8 +2472,6 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (g) is in any way concerned in the manufacture of any dutiable or prohibited goods in contravention of section 63;
 
-[4/2003 wef 01/04/2003]
-
 (h) is in any way concerned in bottling, blending, compounding or varying any intoxicating liquors in contravention of section 66;
 
 (i) knowingly harbours or conceals or permits, suffers, causes, or procures to be harboured or concealed any dutiable, uncustomed or prohibited goods; or
@@ -2402,7 +2488,7 @@ shall be guilty of an offence and shall be liable —
 
 (iv) where he has been convicted on a previous occasion of an offence under this section involving goods consisting wholly or partly of tobacco products and such tobacco products exceed 2 kilogrammes in weight, and he is again convicted of such offence — to a fine of not less than 30 times the amount of the customs duty, excise duty or tax and not more than 40 times the amount of the customs duty, excise duty or tax or $20,000, whichever is the greater, or to imprisonment for a term not exceeding 6 years or to both.
 
-[23/93; 24/96; 11/97; 33/2000]
+[23/93; 24/96; 11/97; 33/2000; 4/2003]
 
 (2) In any prosecution against a person for committing, attempting or abetting an offence under this section, any dutiable, uncustomed or prohibited goods shall be deemed to be dutiable, uncustomed or prohibited goods to the knowledge of the defendant unless the contrary is proved by the defendant.
 
@@ -2416,7 +2502,7 @@ shall be guilty of an offence and shall be liable —
 
 ### Evading duty by unauthorised modification of computer program or data
 
-130A\.—(1) Any person who, without the authority of the Director-General —
+131\.—(1) Any person who, without the authority of the Director-General —
 
 (a) destroys, damages, erases or otherwise manipulates data stored in, or used in connection with, a computer;
 
@@ -2436,19 +2522,23 @@ the purpose or effect of which is to reduce, avoid or evade any liability to cus
 
 [24/96; 33/2000]
 
-(2) In subsection (1), “data” includes any computer program or part of a computer program being a program, whether or not approved by the Director-General, for use in relation to the computer service established under section 90A.
+(2) In subsection (1), “data” includes any computer program or part of a computer program being a program, whether or not approved by the Director-General, for use in relation to the computer service established under section 86.
+
+[130A
 
 [24/96]
 
 ### Knowingly advancing or furnishing money for business comprising sale, purchase, etc., of uncustomed goods
 
-130B\. Any person who knowingly advances or furnishes money for the purpose of establishing or conducting any business comprising the sale, purchase, hire, receiving, concealment, disposal or dealing of uncustomed goods shall be guilty of an offence and shall be liable on conviction to a fine of not less than $100,000 and not more than $1 million and shall also be liable to imprisonment for a term not exceeding 6 years.
+132\. Any person who knowingly advances or furnishes money for the purpose of establishing or conducting any business comprising the sale, purchase, hire, receiving, concealment, disposal or dealing of uncustomed goods shall be guilty of an offence and shall be liable on conviction to a fine of not less than $100,000 and not more than $1 million and shall also be liable to imprisonment for a term not exceeding 6 years.
+
+[130B
 
 [24/96]
 
 ### Penalty for adding deleterious substances to intoxicating liquor, or storing, keeping, etc., such liquor
 
-131\.—(1) Any person who —
+133\.—(1) Any person who —
 
 (a) is in any way concerned in adding deleterious substances to any intoxicating liquor for consumption or for sale; or
 
@@ -2460,31 +2550,33 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (3) In any prosecution against a person for committing, attempting to commit or abetting an offence under this section, any intoxicating liquor to which has been added deleterious substances shall be deemed to have been so added with the knowledge of the person unless the contrary is proved by him.
 
+[131
+
 ### Offence in connection with claims for drawback
 
-132\. If any person obtains, attempts to obtain or abets in obtaining, or does anything whereby there might be obtained by any person, any amount by way of drawback of any duty in respect of any goods which is not lawfully payable or allowable in respect thereof or which is greater than the amount so payable or allowable, he shall be guilty of an offence and shall be liable on conviction to a fine of 3 times the value of the goods or $5,000, whichever is the greater.
+134\. If any person obtains, attempts to obtain or abets in obtaining, or does anything whereby there might be obtained by any person, any amount by way of drawback of any duty in respect of any goods which is not lawfully payable or allowable in respect thereof or which is greater than the amount so payable or allowable, he shall be guilty of an offence and shall be liable on conviction to a fine of 3 times the value of the goods or $5,000, whichever is the greater.
+
+[132
 
 ### Penalty for possession of a still, etc.
 
-133\. Every person other than a person licensed under —
+135\. Every person other than a person licensed under —
 
 (a) section 63(1) who knowingly keeps or has in his possession any still, utensil, apparatus, equipment or machinery for the manufacture of any dutiable goods; or
-
-[4/2003 wef 01/04/2003]
 
 (b) section 66(1) who knowingly keeps or has in his possession any utensil, apparatus, material or ingredient for bottling, blending, compounding or varying intoxicating liquor,
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 18 months or to both.
 
-134\. [Deleted by Act 4/2003 wef 01/04/2003]
+[133
 
-135\. [Deleted by Act 4/2003 wef 01/04/2003]
-
-136\. [Deleted by Act 4/2003 wef 01/04/2003]
+[4/2003]
 
 ### Motor vehicle leaving Singapore without prescribed amount of motor spirit
 
-136A\.—(1) Except with the written permission of the Director-General, any person, being in charge of a motor vehicle registered under the Road Traffic Act (Cap. 276), who leaves or attempts to leave Singapore in that motor vehicle or with that motor vehicle in a vessel without such minimum amount of motor spirit in its fuel supply tank as the Minister may by order prescribe shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500.
+136\.—(1) Except with the written permission of the Director-General, any person, being in charge of a motor vehicle registered under the Road Traffic Act (Cap. 276), who leaves or attempts to leave Singapore in that motor vehicle or with that motor vehicle in a vessel without such minimum amount of motor spirit in its fuel supply tank as the Minister may by order prescribe1shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500.
+
+1The minimum amount of motor spirit in the fuel supply tank of a motor vehicle referred to in section 136(1) shall be three-quarters of the total capacity of the fuel supply tank.SeeO 6, Cap. 70 with effect from 4th February 1991.
 
 [19/89; 12/91; 23/93]
 
@@ -2494,9 +2586,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (b) where a motor vehicle is fitted with an instrument or gauge which indicates or measures the amount of motor spirit in its fuel supply tank, the indication or measurement on that instrument or gauge shall, until the contrary is proved, be evidence of the amount of motor spirit in the fuel supply tank of that motor vehicle;
 
-(c) the proper officer of customs may measure or otherwise ascertain the quantity of motor spirit carried in the fuel supply tank of any motor vehicle registered under the Road Traffic Act (Cap. 276).
+(c) the proper officer of customs may measure or otherwise ascertain the quantity of motor spirit carried in the fuel supply tank of any motor vehicle registered under the Road Traffic Act.
 
-[23/93]
+[136A
+
+[23/93; 4/2003]
 
 ### Penalty for assaulting or obstructing officers of customs, rescuing goods, resisting arrest and escaping from custody
 
@@ -2530,11 +2624,17 @@ shall be guilty of an offence and shall be liable —
 
 the officer or person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both, and shall be interdicted from holding office in the public service of the Government.
 
-(2) Any person who gives or offers or promises to give or procures to be given any bribe, gratuity, recompense or reward to, or makes any collusive agreement with, any such officer or person to induce him in any way to neglect his duty or to do, conceal or connive at any act whereby any of the provisions of any other law relating to imports or to exports may be evaded, shall be guilty as an abettor and so punishable under this Act.
+[4/2003]
+
+(2) Any person who gives or offers or promises to give or procures to be given any bribe, gratuity, recompense or reward to, or makes any collusive agreement with, any officer of customs or other person duly employed by the Singapore Customs to induce him in any way to neglect his duty or to do, conceal or connive at any act whereby any of the provisions of any other law relating to imports or to exports may be evaded, shall be guilty as an abettor and so punishable under this Act.
 
 (3) Any officer of customs or other person duly employed by the Singapore Customs who is found when on duty to have in his possession any moneys in contravention of any departmental regulations issued in writing shall be presumed, until the contrary is proved, to have received the moneys in contravention of subsection (1)(b).
 
+[4/2003]
+
 (4) If any officer of customs has reasonable suspicion that another officer of customs junior in rank to him or any other person duly employed by the Singapore Customs has possession of any money received in contravention of subsection (1)(b), he may search that officer or person.
+
+[4/2003]
 
 ### Penalty for offences not otherwise provided for
 
@@ -2576,7 +2676,7 @@ REGULATIONS
 
 ### Power to make regulations
 
-143\.—(1) The Minister may make regulations for carrying out the purposes and provisions of this Act and, in particular, may make regulations —
+143\.—(1) The Minister may make regulations for carrying out the purposes and provisions of this Act and, in particular, may make regulation —
 
 (a) to regulate the powers and duties to be exercised and performed by officers of customs;
 
@@ -2598,41 +2698,55 @@ REGULATIONS
 
 (j) to prescribe the manner and method of payment of any duty payable or chargeable under this Act;
 
-(l) to prescribe the days and times during which any customs office, customs station, Government warehouse, licensed factory warehouse or licensed warehouse or bottling warehouse may be open for business;
+(k) to prescribe the days and times during which any customs office, customs station, Government warehouse, licensed factory warehouse orlicensed warehouse or bottling warehouse may be open for business;
 
-(m) to regulate the deposit, custody and withdrawal of goods in and from Government warehouses, licensed factory warehouses and licensed warehouses and bottling warehouses and the management and control of the same;
+(l) to regulate the deposit, custody and withdrawal of goods in and from Government warehouses, licensed factory warehouses andlicensed warehouses and bottling warehouses and the management and control of the same;
 
-(n) to prescribe the amount to be paid as warehouse rent on goods deposited in a Government warehouse;
+(m) to prescribe the amount to be paid as warehouse rent on goods deposited in a Government warehouse;
 
-(o) to prescribe the manner in which intoxicating liquor shall be denatured in a Government warehouse, licensed factory warehouse or licensed warehouse;
+(n) to prescribe the manner in which intoxicating liquor shall be denatured in a Government warehouse, licensed factory warehouse or licensed warehouse;
 
-(p) to regulate the erection, inspection, supervision, management and control of distilleries, breweries or tobacco or other factories and the fittings, implements, machinery and apparatus maintained therein;
+(o) to regulate the erection, inspection, supervision, management and control of distilleries, breweries or tobacco or other factories and the fittings, implements, machinery and apparatus maintained therein;
 
-(q) to regulate the hours during which manufacture may or may not take place and during which goods may be removed from a distillery, brewery or tobacco or other factory;
+(p) to regulate the hours during which manufacture may or may not take place and during which goods may be removed from a distillery, brewery or tobacco or other factory;
 
-(s) to regulate the blending, compounding, varying and bottling of intoxicating liquors in bottling warehouses and to fix the fees to be paid for bottling dutiable intoxicating liquor;
+(q) to regulate the blending, compounding, varying and bottling of intoxicating liquors in bottling warehouses and to fix the fees to be paid for bottling dutiable intoxicating liquor;
 
-(t) to prescribe the books to be kept by licensees, other than licensees under Part VIII;
+(r) to prescribe the books to be kept by licensees, other than licensees under Part VIII;
 
-(u) to regulate the grant and transfer of licences other than licences under Part VIII;
+(s) to regulate the grant and transfer of licences other than licences under Part VIII;
 
-(v) to prescribe the rates of overtime fees to be paid when officers of customs are required to work beyond the ordinary hours prescribed and the conditions under which the overtime shall be permitted;
+(t) to prescribe the rates of overtime fees to be paid when officers of customs are required to work beyond the ordinary hours prescribed and the conditions under which the overtime shall be permitted;
 
-(w) to regulate the proceedings of the Liquors Licensing Board, the election of their members, the grant and transfer of licences under their authority and the fees for the licences or transfers of licences;
+(u) to regulate the proceedings of the Liquors Licensing Board, the election of their members, the grant and transfer of licences under their authority and the fees for the licences or transfers of licences;
 
-(x) to regulate the management of premises licensed by the Liquors Licensing Board;
+(v) to regulate the management of premises licensed by the Liquors Licensing Board;
 
-(y) to prescribe the fees to be paid for the survey of dutiable goods;
+(w) to prescribe the fees to be paid for the survey of dutiable goods;
 
-(z) to prescribe the offences which may be compounded and the manner in which, and the officers of customs by whom, they may be compounded;
+(x) to prescribe the offences which may be compounded and the manner in which, and the officers of customs by whom, they may be compounded;
 
-(za) to prescribe penalties for any contravention or failure to comply with any of the provisions of the regulations made under this section except that no such penalty shall exceed the penalty prescribed under section 139;
+(y) to prescribe penalties for any contravention or failure to comply with any of the provisions of the regulations made under this section except that no such penalty shall exceed the penalty prescribed under section 139; and
 
-(zb) to prescribe anything which is to be or may be prescribed under the provisions of this Act.
+(z) to prescribe anything which is to be or may be prescribed under the provisions of this Act.
+
+[23/93; 24/96; 4/2003]
 
 (2) All regulations and orders made under this Act shall be presented to Parliament as soon as possible after publication in theGazette.
 
 [23/93]
+
+### References in written laws and documents
+
+144\. Insofar as is necessary for preserving the effect of any written law or document on or after 1st April 2003\*—
+
+\*Date of commencement of the Customs (Amendment) Act 2003 (Act 4 of 2003).
+
+(a) a reference therein to the Director-General of Customs and Excise shall be read as a reference to the Director-General of Customs; and
+
+(b) a reference therein to the Customs and Excise Department shall be read as a reference to the Singapore Customs.
+
+[4/2003]
 
 ## LEGISLATIVE HISTORY
 
@@ -2775,19 +2889,147 @@ This Legislative History is provided for the convenience of users of the Customs
 |||(Bill No. 6/2003 published on 11 March 2003)|
 ||Date of Second and Third Readings|21 March 2003|
 ||Date of commencement|1 April 2003|
+|29.|**2004 Revised Edition—Customs Act**|
+||Date of operation|31 July 2004|
 ## COMPARATIVE TABLE
 
 Customs Act
 
 (CHAPTER 70)
 
-The following provisions in the 1999 Revised Edition of the Parliamentary Elections Act have been renumbered by the Law Revision Commissioners in this 2001 Revised Edition.
+The following provisions in the 2001 Revised Edition of the Customs Act have been renumbered by the Law Revision Commissioners in this 2004 Revised Edition.
 
-This Comparative Table is provided for the convenience of users. It is not part of the Parliamentary Elections Act.
+This Comparative Table is provided for the convenience of users. It is not part of the Customs Act.
 
-2001 Ed\. 
+2004 Ed .
 
-1999 Ed\. 
+2001 Ed .
+
+4 —(1) to (4)
+
+4 —(1) to (4)
+
+5 —(1), (2) and (3)
+
+(5), (6) and (7)
+
+—
+
+5 (Repealed by Act 4/2003)
+
+—
+
+15 (Repealed by Act 4/2003)
+
+15 
+
+16 
+
+16 
+
+16A 
+
+20 —(1) and (2)
+
+20 —(1)
+
+(3)
+
+(2)
+
+65 [Not in use]
+
+65 [Not in use]
+
+—
+
+83 (Repealed by Act 4/2003)
+
+—
+
+84 (Repealed by Act 4/2003)
+
+Omitted
+
+85 to89 (Repealed by Act 4/2003)
+
+85 
+
+90 
+
+86 
+
+90A 
+
+87 
+
+90B 
+
+88 
+
+90C 
+
+89 
+
+90D 
+
+90 
+
+90E 
+
+93 —(1)
+
+93 —(1)
+
+(2) and (3)
+
+(1A) and (1B)
+
+(4) and (5)
+
+(2) and (3)
+
+131 
+
+130A 
+
+132 
+
+130B 
+
+133 
+
+131 
+
+134 
+
+132 
+
+135 
+
+133 
+
+Omitted
+
+134 to13 6 (Repealed by Act 4/2003)
+
+136 
+
+136A 
+
+## COMPARATIVE TABLE
+
+Customs Act
+
+(CHAPTER 70)
+
+The following provisions in the 1997 Revised Edition of the Customs Act were renumbered by the Law Revision Commissioners in the 2001 Revised Edition
+
+This Comparative Table is provided for the convenience of users. It is not part of the Customs Act.
+
+2001 Ed .
+
+1997 Ed .
 
 10 —(2)
 
@@ -2821,9 +3063,9 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 51 —(6)
 
-65 (Deleted)
+65 [Not in use]
 
-—
+65 [Not in use]
 
 53 —(3) and (4)
 
