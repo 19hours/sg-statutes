@@ -148,7 +148,9 @@ PRELIMINARY
 
 “Director-General” means the Director-General, Agri-food and Veterinary Services appointed under section 3(1) of the Animals and Birds Act (Cap. 7);
 
-“Director-General of Customs and Excise” means the Director-General of Customs and Excise appointed under section 4(1) of the Customs Act (Cap. 70);
+“Director-General of Customs” means the Director-General of Customs appointed under section 4(1) of the Customs Act (Cap. 70);
+
+[4/2003 wef 01/04/2003]
 
 “disease” means any animal disease and any other disease as is likely to infect human beings;
 
@@ -248,9 +250,11 @@ whether those goods are to be transferred directly between conveyances or whethe
 
 ### Identification card to be produced
 
-4\.—(1) Every authorised officer, when exercising any of his powers under this Act or the rules shall, if not in uniform, declare his office and shall, on demand, produce to any person affected by the exercise of such power such identification card as the Director-General, the Director-General of Customs and Excise or the Commissioner of Police may direct to be carried by an authorised officer.
+4\.—(1) Every authorised officer, when exercising any of his powers under this Act or the rules shall, if not in uniform, declare his office and shall, on demand, produce to any person affected by the exercise of such power such identification card as the Director-General, the Director-General of Customs or the Commissioner of Police may direct to be carried by an authorised officer.
 
 [16/2000]
+
+[4/2003 wef 01/04/2003]
 
 (2) It shall not be an offence for any person to refuse to comply with any request, demand or order made or given by any authorised officer if the authorised officer is not in uniform and refuses to declare his office and produce his identification card, on demand being made by the person.
 
@@ -626,9 +630,9 @@ shall take effect from the date specified in the notice by the Director-General,
 
 18\.—(1) Where the Director-General or an authorised officer knows or has reason to believe that any animal intended for slaughter at a licensed slaughter-house is diseased or is, for any other reason, unfit for human consumption, the Director-General or authorised officer may by order in writing —
 
-(a) prohibit the owner or occupier of the licensed slaughter- house from slaughtering that animal; and
+(a) prohibit the owner or occupier of the licensed slaughter-house from slaughtering that animal; and
 
-(b) require the owner or occupier of the licensed slaughter- house to destroy or treat such animal at his own expense in such manner as the Director-General or authorised officer thinks fit.
+(b) require the owner or occupier of the licensed slaughter-house to destroy or treat such animal at his own expense in such manner as the Director-General or authorised officer thinks fit.
 
 [16/2000]
 
@@ -640,9 +644,9 @@ shall take effect from the date specified in the notice by the Director-General,
 
 19\.—(1) Where the Director-General or an authorised officer knows or has reason to believe that the carcase of any animal which has been slaughtered at a licensed slaughter-house is diseased or is, for any other reason, unfit for human consumption, the Director-General or authorised officer may by order in writing —
 
-(a) prohibit the owner or occupier of the licensed slaughter- house from dressing that carcase; and
+(a) prohibit the owner or occupier of the licensed slaughter-house from dressing that carcase; and
 
-(b) require the owner or occupier of the licensed slaughter- house to destroy or treat such carcase at his own expense in such manner as the Director-General or authorised officer thinks fit.
+(b) require the owner or occupier of the licensed slaughter-house to destroy or treat such carcase at his own expense in such manner as the Director-General or authorised officer thinks fit.
 
 [16/2000]
 
@@ -1148,7 +1152,7 @@ Wholesome Meat and Fish Act
 
 (CHAPTER 349A)
 
-This Legislative History is provided for the convenience of users of the Wholesome Meat and Fish Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Wholesome Meat and Fish Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -1165,6 +1169,12 @@ This Legislative History is provided for the convenience of users of the Wholeso
 ||Date of commencement|1 April 2000|
 |3.|**2000 Revised Edition—Wholesome Meat and Fish Act**|
 ||Date of operation|30 December 2000|
+|4.|**Act 4 of 2003—Customs (Amendment) Act 2003**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|10 March 2003|
+|||(Bill No. 6/2003 published on 11 March 2003)|
+||Date of Second and Third Readings|21 March 2003|
+||Date of commencement|1 April 2003|
 ## COMPARATIVE TABLE
 
 Wholesome Meat and Fish Act
