@@ -1,16 +1,14 @@
-**National Parks Act 1996**
+**National Parks Board Act**
 
-**(No. 22 of 1996)**
+**(CHAPTER 198A)**
 
 **Table of Contents**
 
 [**Long Title**](#National-Parks-Board-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -54,7 +52,7 @@
 
 - [18 Annual estimates](#Annual-estimates)
 
-- [19 Further financial provisions](#Further-financial-provisions)
+- [19 Financial provisions](#Financial-provisions)
 
 [**Part VI TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES TO BOARD**](#Part-VI)
 
@@ -86,7 +84,7 @@
 
 - [31 Service of notices](#Service-of-notices)
 
-- [32 Obstructing employees of Board](#Obstructing-employees-of-Board)
+- [32 Obstructing employees, etc., of Board](#Obstructing-employees-etc-of-Board)
 
 - [33 Offences by body corporate](#Offences-by-body-corporate)
 
@@ -104,9 +102,7 @@
 
 - [40 Power to make regulations](#Power-to-make-regulations)
 
-- [41 Repeal and transitional provisions](#Repeal-and-transitional-provisions)
-
-- [42 Consequential amendments](#Consequential-amendments)
+- [41 Transitional provisions](#Transitional-provisions)
 
 [**FIRST SCHEDULE Constitution and Proceedings of Board**](#FIRST-SCHEDULE-Constitution-and-Proceedings-of-Board)
 
@@ -118,49 +114,29 @@
 
 [**FIFTH SCHEDULE**](#FIFTH-SCHEDULE)
 
-[**SIXTH SCHEDULE Consequential Amendments**](#SIXTH-SCHEDULE-Consequential-Amendments)
+[**Legislative History**](#Legislative-History)
 
-REPUBLIC OF SINGAPORE
+# National Parks Act
 
-GOVERNMENT GAZETTE
+(CHAPTER 198A)
 
-ACTS SUPPLEMENT
+(Original Enactment: Act 22 of 1996)
 
-Published by Authority
+REVISED EDITION 1997
 
-NO. 20]
+(30th May 1997)
 
-Friday, June 28
+An Act to reconstitute the National Parks Board and to provide for the transfer of the property, rights and liabilities of the Parks and Recreation Department to the National Parks Board, and for matters connected therewith.
 
-[1996
-
-The following Act was passed by Parliament on 21st May 1996 and assented to by the President on 20th June 1996:—
-
-National Parks Act 1996
-
-(No. 22 of 1996)
-
-I assent.
-
-ONG TENG CHEONG
-
-President
-
-20th June 1996.
-
-Date of Commencement: 1st July 1996
-
-An Act to reconstitute the National Parks Board and to provide for the transfer of the property, rights and liabilities of the Parks and Recreation Department to the National Parks Board, and for matters connected therewith, to repeal the National Parks Act (Chapter 198A of the 1991 Revised Edition) and to make consequential amendments to the Parks and Trees Act (Chapter 216 of the 1991 Revised Edition).
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st July 1996]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the National Parks Act 1996 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the National Parks Act.
 
 ### Interpretation
 
@@ -168,9 +144,7 @@ PRELIMINARY
 
 “animal” means any member of the animal kingdom including mammals, birds, reptiles, amphibians, fish and every kind of vertebrate and invertebrate and the eggs and young thereof;
 
-“appointed day” means the date of commencement of this Act;
-
-“Board” means the National Parks Board established under the National Parks Act [Cap. 198A] in force before the appointed day and continued by section 3;
+“Board” means the National Parks Board established under the repealed National Parks Act (Cap. 198A, 1991 Ed.) in force before 1st July 1996 and continued by section 3;
 
 “Chairman” means the Chairman of the Board and includes any acting Chairman of the Board;
 
@@ -190,8 +164,6 @@ PRELIMINARY
 
 “plant” means any member of the plant kingdom including angiosperms, gymnosperms, pteridophytes, bryophytes, algae, lichens and fungi;
 
-“repealed Act” means the National Parks Act [Cap. 198A] repealed by this Act;
-
 “verge” means any area by the side of a public street, whether turfed or not.
 
 ## PART II
@@ -200,7 +172,7 @@ RECONSTITUTION OF BOARD
 
 ### Reconstitution of National Parks Board
 
-3\. As from the appointed day, the Board shall continue in existence and shall continue to be a body corporate with perpetual succession and capable of —
+3\. As from 1st July 1996, the Board shall continue in existence and shall continue to be a body corporate with perpetual succession and capable of —
 
 (a) suing and being sued;
 
@@ -210,7 +182,7 @@ RECONSTITUTION OF BOARD
 
 ### Common seal
 
-4\.—(1) As from the appointed day, the Board shall continue to have a common seal and the seal may, from time to time, be broken, changed, altered and made anew as the Board thinks fit.
+4\.—(1) As from 1st July 1996, the Board shall continue to have a common seal and the seal may, from time to time, be broken, changed, altered and made anew as the Board thinks fit.
 
 (2) All deeds and other documents requiring the seal of the Board shall be sealed with the common seal of the Board and every document to which the common seal is affixed shall be signed by any 2 members generally or specially authorised by the Board for the purpose or by one member so authorised and the Chief Executive.
 
@@ -252,7 +224,7 @@ FUNCTIONS AND POWERS OF BOARD
 
 ### Powers of Board
 
-7\.—(1) The Board may for the purposes of this Act carry on such activities as appear to the Board to be advantageous, necessary or convenient for it to carry on for or in connection with the discharge of its duties and functions under this Act and, in particular, may exercise any of the powers specified in the Second Schedule.
+7\.—(1) The Board may, for the purposes of this Act, carry on such activities as appear to the Board to be advantageous, necessary or convenient for it to carry on for or in connection with the discharge of its duties and functions under this Act and, in particular, may exercise any of the powers specified in the Second Schedule.
 
 (2) This section shall not be construed as limiting any power of the Board conferred by or under any other written law.
 
@@ -268,11 +240,15 @@ FUNCTIONS AND POWERS OF BOARD
 
 ### Delegation of powers
 
-10\.—(1) The Board may, subject to such conditions or restrictions as it may impose, delegate to the Chief Executive, the Chairman or a committee appointed under section 9 all or any of the functions, duties and powers vested in the Board by or under this Act or any other written law, except the power to borrow money; and any power, function or duty so delegated may be exercised or performed by the Chief Executive, the Chairman or such committee, as the case may be, in the name and on behalf of the Board.
+10\.—(1) The Board may, subject to such conditions or restrictions as it may impose, delegate to the Chief Executive, the Chairman or a committee appointed under section 9 all or any of the functions, duties and powers vested in the Board by or under this Act or any other written law, except the power to borrow money.
 
-(2) The Board may, subject to such conditions or restrictions as it thinks fit, delegate to any member or employee of the Board or any person all or any of its functions, duties and powers vested in the Board by or under this Act or any other written law, except the power to borrow money or to raise or grant loans or advances to or subscribe to stocks, shares, bonds or debentures of a company or corporation, and any power, function or duty so delegated may be exercised or performed by such member, employee or person in the name and on behalf of the Board.
+(2) Any power, function or duty delegated under subsection (1), may be exercised or performed by the Chief Executive, the Chairman or such committee, as the case may be, in the name and on behalf of the Board.
 
-(3) The Board may continue to exercise a power conferred upon it, or perform a function or duty under this Act or any other written law, notwithstanding the delegation of such power, function or duty under this section.
+(3) The Board may, subject to such conditions or restrictions as it thinks fit, delegate to any member or employee of the Board or any person all or any of its functions, duties and powers vested in the Board by or under this Act or any other written law, except the power to borrow money or to raise or grant loans or advances to or subscribe to stocks, shares, bonds or debentures of a company or corporation.
+
+(4) Any power, function or duty delegated under subsection (3) may be exercised or performed by such member, employee or person in the name and on behalf of the Board.
+
+(5) The Board may continue to exercise a power conferred upon it, or perform a function or duty under this Act or any other written law, notwithstanding the delegation of such power, function or duty under this section.
 
 ### Protection from personal liability
 
@@ -280,7 +256,9 @@ FUNCTIONS AND POWERS OF BOARD
 
 ### Annual report
 
-12\. The Board shall, as soon as practicable after the close of each financial year, submit to the Minister an annual report on the activities of the Board during the preceding financial year and the Minister shall as soon as practicable cause a copy of every such report to be presented to Parliament.
+12\.—(1) The Board shall, as soon as practicable after the close of each financial year, submit to the Minister an annual report on the activities of the Board during the preceding financial year.
+
+(2) The Minister shall as soon as practicable cause a copy of every such report to be presented to Parliament.
 
 ## PART IV
 
@@ -300,11 +278,11 @@ PROVISIONS RELATING TO STAFF
 
 (3) If the Chief Executive is temporarily absent from Singapore, or is temporarily unable to perform his duties by reason of illness or otherwise, another person may be appointed by the Board to act in the place of the Chief Executive during any such period of absence from duty.
 
-(4) The Board may from time to time appoint such other employees and agents as it thinks fit for the effective performance of its functions on such terms and conditions as the Board may determine and may terminate the appointment of such employees and agents.
+(4) The Board may, from time to time, appoint such other employees and agents as it thinks fit for the effective performance of its functions on such terms and conditions as the Board may determine and may terminate the appointment of such employees and agents.
 
 ### Public servants for purposes of Penal Code
 
-14\. All members, employees and agents of the Board shall be deemed to be public servants for the purposes of the Penal Code [Cap. 224].
+14\. All members, employees and agents of the Board shall be deemed to be public servants for the purposes of the Penal Code (Cap. 224).
 
 ## PART V
 
@@ -312,11 +290,11 @@ FINANCIAL PROVISIONS
 
 ### Grants
 
-15\. For the purpose of enabling the Board to carry out its functions under this Act, the Minister may from time to time make grants to the Board of such sums of money as the Minister may determine out of moneys to be provided by Parliament.
+15\. For the purpose of enabling the Board to carry out its functions under this Act, the Minister may, from time to time, make grants to the Board of such sums of money as the Minister may determine out of moneys to be provided by Parliament.
 
 ### Bank accounts and payments
 
-16\.—(1) The Board may open and maintain an account or accounts with such bank or banks as the Board thinks fit and every such account shall be operated upon as far as practicable by cheque signed by such person or persons as may from time to time be authorised in that behalf by the Board.
+16\.—(1) The Board may open and maintain an account or accounts with such bank or banks as the Board thinks fit and every such account shall be operated upon as far as practicable by cheque signed by such person or persons as may, from time to time, be authorised in that behalf by the Board.
 
 (2) The moneys of the Board shall be applied only in payment or discharge of the expenses, obligations and liabilities of the Board and in making any payment that the Board is authorised or required to make.
 
@@ -332,7 +310,7 @@ FINANCIAL PROVISIONS
 
 (3) A copy of all annual and supplementary estimates shall, upon their adoption by the Board, be sent forthwith to the Minister who may approve or disallow any item or portion of any item shown in the estimates, and shall return the estimates as amended by him to the Board, and the Board shall be bound thereby.
 
-### Further financial provisions
+### Financial provisions
 
 19\. The financial provisions set out in the Third Schedule shall have effect with respect to the Board.
 
@@ -342,21 +320,21 @@ TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES TO BOARD
 
 ### Transfer to Board of property, assets and liabilities
 
-20\.—(1) As from the appointed day, all movable property vested in the Government immediately before that day for the purposes of the Parks and Recreation Department, and all assets, rights or interests vested in, and all outstanding debts, liabilities and obligations incurred by, the Government in connection therewith shall be transferred to and shall vest in the Board without further assurance.
+20\.—(1) As from 1st July 1996, all movable property vested in the Government immediately before that date for the purposes of the Parks and Recreation Department, and all assets, rights or interests vested in, and all outstanding debts, liabilities and obligations incurred by, the Government in connection therewith shall be transferred to and shall vest in the Board without further assurance.
 
 (2) If any question arises as to whether any particular movable property vested in the Government, or whether any particular asset, right, interest, liability or obligation of the Government has been transferred to or vested in the Board under subsection (1), a certificate under the hand of the Minister for Finance shall be conclusive evidence that the property, asset, right, interest, liability or obligation was or was not so transferred or vested.
 
 ### Transfer of employees
 
-21\.—(1) As from the appointed day, such persons employed immediately before that day in the Parks and Recreation Department as the Minister may determine shall be transferred to the service of the Board on terms no less favourable than those enjoyed by them immediately prior to their transfer.
+21\.—(1) As from 1st July 1996, such persons employed immediately before that date in the Parks and Recreation Department as the Minister may determine shall be transferred to the service of the Board on terms no less favourable than those enjoyed by them immediately prior to their transfer.
 
 (2) The provisions relating to the transfer of employees set out in the Fourth Schedule shall have effect.
 
 ### Existing agreements and pending proceedings
 
-22\.—(1) All deeds, bonds, agreements, instruments and arrangements subsisting immediately before the appointed day affecting any movable property transferred under section 20 or any person transferred to the service of the Board under section 21 shall continue in full force and effect on and after that day and shall be enforceable by or against the Board instead of the Government or any person acting on its behalf as if the Board had been named therein or had been a party thereto.
+22\.—(1) All deeds, bonds, agreements, instruments and arrangements subsisting immediately before 1st July 1996 affecting any movable property transferred under section 20 or any person transferred to the service of the Board under section 21 shall continue in full force and effect on and after that date and shall be enforceable by or against the Board instead of the Government or any person acting on its behalf as if the Board had been named therein or had been a party thereto.
 
-(2) Any proceedings or cause of action relating to any movable property transferred under section 20 or any person transferred to the service of the Board under section 21 pending or existing immediately before the appointed day by or against the Government may be continued and shall be enforced by or against the Board.
+(2) Any proceedings or cause of action relating to any movable property transferred under section 20 or any person transferred to the service of the Board under section 21 pending or existing immediately before 1st July 1996 by or against the Government may be continued and shall be enforced by or against the Board.
 
 ## PART VII
 
@@ -436,7 +414,7 @@ GENERAL
 
 27\.—(1) The Board shall have the exclusive right to the use of such symbols or representations as it may select or devise (referred to in this section as the Board’s symbols) and thereafter display or exhibit in connection with its activities or affairs.
 
-(2) A person who, without the permission of the Board, uses a symbol or representation identical with any of the Board’s symbols, or which so resembles any of the Board’s symbols as to or be likely to deceive or cause confusion, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.
+(2) Any person who, without the permission of the Board, uses a symbol or representation identical with any of the Board’s symbols, or which so resembles any of the Board’s symbols as to or be likely to deceive or cause confusion, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.
 
 ### Exclusion of liability for information supplied by Board
 
@@ -468,19 +446,23 @@ GENERAL
 
 (ii) by sending the notice or document by registered post addressed to the body corporate at its registered office or principal place of business.
 
-(2) Any notice or document sent by registered post to any person in accordance with subsection (1) shall be deemed to be duly served on the person at the time when the notice or document would, in the ordinary course of post, be delivered and in proving the service of the notice or document it shall be sufficient to prove that the envelope containing the notice or document was properly addressed, stamped and posted by registered post.
+(2) Any notice or document sent by registered post to any person in accordance with subsection (1) shall be deemed to be duly served on the person at the time when the notice or document would, in the ordinary course of post, be delivered and, in proving the service of the notice or document, it shall be sufficient to prove that the envelope containing the notice or document was properly addressed, stamped and posted by registered post.
 
-### Obstructing employees of Board
+### Obstructing employees, etc., of Board
 
 32\. Any person who obstructs or hinders any member, employee or agent of the Board acting in the discharge of his duty under this Act or any regulations made thereunder shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
 
 ### Offences by body corporate
 
-33\. Where an offence under this Act or any regulations made thereunder has been committed by a body corporate, a partnership or unincorporated association of persons, any person who at the time of the commission of the offence was a director, manager, secretary or other similar officer thereof, or was purporting to act in any such capacity, shall also be guilty of that offence unless he proves that the offence was committed without his consent or connivance, and that he had exercised all such diligence to prevent the commission of the offence he ought to have exercised having regard to the nature of his functions in that capacity and to all circumstances.
+33\. Where an offence under this Act or any regulations made thereunder has been committed by a body corporate, a partnership or unincorporated association of persons, any person who at the time of the commission of the offence was a director, manager, secretary or other similar officer thereof, or was purporting to act in any such capacity, shall also be guilty of that offence unless he proves that —
+
+(a) the offence was committed without his consent or connivance; and
+
+(b) he had exercised all such diligence to prevent the commission of the offence he ought to have exercised having regard to the nature of his functions in that capacity and to all circumstances.
 
 ### Power to remove vehicles, etc.
 
-34\. A police officer or an employee or agent of the Board authorised in that behalf by the Board may remove from any national park, nature reserve or parkland —
+34\. Any police officer or employee or agent of the Board authorised in that behalf by the Board may remove from any national park, nature reserve or parkland —
 
 (a) any person who, in contravention of this Act or any regulations made thereunder, fails or refuses to leave the national park, nature reserve or parkland or any part thereof after being requested by the police officer or employee or agent to do so; and
 
@@ -488,17 +470,17 @@ GENERAL
 
 ### Power of search
 
-35\. A police officer or an employee or agent of the Board authorised in that behalf by the Board may, within any national park, nature reserve or parkland if he has reason to believe that any offence has been committed under this Act or any regulations made thereunder, inspect and search any baggage, equipment, package, container, tent, vehicle, boat, craft or place and seize any thing therein which he requires as evidence that any such offence has been committed.
+35\. Any police officer or employee or agent of the Board authorised in that behalf by the Board may, within any national park, nature reserve or parkland if he has reason to believe that any offence has been committed under this Act or any regulations made thereunder, inspect and search any baggage, equipment, package, container, tent, vehicle, boat, craft or place and seize any thing therein which he requires as evidence that any such offence has been committed.
 
 ### Power to require evidence of identity
 
-36\.—(1) A police officer or an employee or agent of the Board authorised in that behalf by the Board who reasonably believes that a person has committed an offence under this Act or any regulations made thereunder, may require that person to furnish such evidence of his identity as may be required by the police officer, employee or agent.
+36\.—(1) Any police officer or employee or agent of the Board authorised in that behalf by the Board who reasonably believes that a person has committed an offence under this Act or any regulations made thereunder, may require that person to furnish such evidence of his identity as may be required by the police officer, employee or agent.
 
 (2) Any person who refuses to furnish information required of him by a police officer or an employee or agent under this section or who wilfully gives false information shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
 
 ### Power of arrest
 
-37\. A police officer or an employee or agent of the Board authorised in that behalf by the Board may without warrant arrest a person within any national park, nature reserve or parkland —
+37\. Any police officer or employee or agent of the Board authorised in that behalf by the Board may without warrant arrest a person within any national park, nature reserve or parkland —
 
 (a) if he has reasonable cause to believe that that person has contravened any of the provisions of this Act or any regulations made thereunder and he does not know or cannot ascertain the name and address of the person; or
 
@@ -506,7 +488,7 @@ GENERAL
 
 ### Composition of offences
 
-38\.—(1) Any police officer not below the rank of sergeant or any employee of the Board authorised in that behalf by the Chief Executive may in his discretion compound any such offence under this Act or any regulations made thereunder as may be prescribed as being an offence which may be compounded by collecting from the person reasonably suspected of having committed the offence a sum not exceeding $1,000.
+38\.—(1) Any police officer not below the rank of sergeant or any employee of the Board authorised in that behalf by the Chief Executive may, in his discretion, compound any such offence under this Act or any regulations made thereunder as may be prescribed as being an offence which may be compounded by collecting from the person reasonably suspected of having committed the offence a sum not exceeding $1,000.
 
 (2) The Board may, with the approval of the Minister, make regulations prescribing the offences which may be compounded.
 
@@ -538,17 +520,11 @@ GENERAL
 
 (h) prescribing that any act or omission in contravention of any regulations made under this Act shall be an offence and prescribing a fine not exceeding $5,000 for such offence.
 
-### Repeal and transitional provisions
+### Transitional provisions
 
-41\.—(1) The National Parks Act is repealed.
+41\.—(1) Any scheme, contract, document, licence, permission or resolution prepared, made, granted or approved by the Parks and Recreation Department or under the repealed National Parks Act (Cap. 198A, 1991 Ed.) shall, so far as it is not inconsistent with the provisions of this Act and except as otherwise expressly provided in this Act or in any other written law, continue and be deemed to have been prepared, made, granted or approved by the Board under the corresponding provisions of this Act or any other written law, as the case may be.
 
-(2) Any scheme, contract, document, licence, permission or resolution prepared, made, granted or approved by the Parks and Recreation Department or under the repealed Act shall, so far as it is not inconsistent with the provisions of this Act and except as otherwise expressly provided in this Act or in any other written law, continue and be deemed to have been prepared, made, granted or approved by the Board under the corresponding provisions of this Act or any other written law, as the case may be.
-
-(3) Any subsidiary legislation made under the repealed Act in force immediately before the appointed day shall, so far as it is not inconsistent with the provisions of this Act, continue in force as if made under this Act until it is revoked or repealed by subsidiary legislation made under this Act.
-
-### Consequential amendments
-
-42\. The Parks and Trees Act [Cap. 216] shall have effect subject to the amendments to the extent specified in the Sixth Schedule (being minor amendments or amendments consequential on the preceding provisions of this Act).
+(2) Any subsidiary legislation made under the repealed National Parks Act in force immediately before 1st July 1996 shall, so far as it is not inconsistent with the provisions of this Act, continue in force as if made under this Act until it is revoked or repealed by subsidiary legislation made under this Act.
 
 FIRST SCHEDULE
 
@@ -560,11 +536,11 @@ Constitution and Proceedings of Board
 
 (a) a Chairman; and
 
-(b) not less than 6 nor more than 10 other members as the Minister may from time to time determine.
+(b) not less than 6 nor more than 10 other members as the Minister may, from time to time, determine.
 
 2.—(1) The Chairman and members of the Board shall be appointed by the Minister.
 
-(2) The Minister may appoint one member to be the Deputy Chairman; and the Deputy Chairman so appointed may, subject to such directions as may be given by the Chairman, exercise all or any of the powers exercisable by the Chairman under this Act.
+(2) The Minister may appoint one member to be the Deputy Chairman who may, subject to such directions as may be given by the Chairman, exercise all or any of the powers exercisable by the Chairman under this Act.
 
 (3) The Minister may appoint the Chief Executive to be a member of the Board.
 
@@ -596,7 +572,7 @@ Constitution and Proceedings of Board
 
 11\. There shall be paid to the Chairman and other members, out of the funds of the Board, such salaries, fees and allowances as the Minister may, from time to time, determine.
 
-12.—(1) The Board shall meet for the despatch of business at such times and places as the Chairman may from time to time appoint.
+12.—(1) The Board shall meet for the despatch of business at such times and places as the Chairman may, from time to time, appoint.
 
 (2) At every meeting of the Board, 5 members shall form a quorum.
 
@@ -620,7 +596,7 @@ Section 7
 
 Powers of Board
 
-1\. To manage the national parks, nature reserves and parklands.
+1\. To manage the national parks, nature reserves and parklands .
 
 2\. To regulate the planting and maintenance of plants in green areas by prescribing guidelines and requirements for the design and maintenance thereof.
 
@@ -638,7 +614,7 @@ Powers of Board
 
 9\. To offer consultancy services, inform, advise and make recommendations or proposals to the Government or any person on any matter relating to the designation, conservation, development and management of parks and other areas reserved for the propagation of plants and animals, or any other function of the Board.
 
-10\. To act in combination or association with any person engaged, concerned or interested in the promotion of the functions of the Board, to and pay for or contribute to the cost and expenses involved in such combination or association.
+10\. To act in combination or association with any person engaged, concerned or interested in the promotion of the functions of the Board, and pay for or contribute to the cost and expenses involved in such combination or association.
 
 11\. With the approval of the Minister, to form or participate in the formation of companies or to enter into a partnership or an arrangement for the sharing of profits.
 
@@ -660,7 +636,7 @@ Financial Provisions
 
 4.—(1) The accounts of the Board shall be audited by the Auditor-General or such other auditor as may be appointed annually by the Minister in consultation with the Auditor-General.
 
-(2) A person shall not be qualified for appointment as an auditor under sub-paragraph (1) unless he is an approved company auditor under the Companies Act [Cap. 50].
+(2) A person shall not be qualified for appointment as an auditor under sub-paragraph (1) unless he is an approved company auditor under the Companies Act (Cap. 50).
 
 (3) The remuneration of the auditor shall be paid out of the funds of the Board.
 
@@ -698,15 +674,15 @@ Provisions Relating to Transfer of Employees
 
 2\. The terms and conditions to be drawn up by the Board shall take into account the salaries and terms and conditions of service, including any accrued rights to leave, enjoyed by the persons transferred to the service of the Board under section 21 while in the employment of the Government and any term or condition relating to the length of service with the Board shall provide for the recognition of service under the Government by the persons so transferred to be service by them under the Board.
 
-3\. Nothing in the terms and conditions to be drawn up by the Board shall adversely affect the conditions that would have been applicable to persons transferred to the service of the Board as regards any pension, gratuity or allowance payable under the Pensions Act.
+3\. Nothing in the terms and conditions to be drawn up by the Board shall adversely affect the conditions that would have been applicable to persons transferred to the service of the Board as regards any pension, gratuity or allowance payable under the Pensions Act (Cap. 225).
 
-4\. In every case where a person has been transferred to the service of the Board under section 21, the Government shall be liable to pay to the Board such portion of any gratuity, pension or allowance payable to 30 that person on his retirement as the same shall bear to the proportion which the aggregate amount of his pensionable emoluments during his service with the Government bears to the aggregate amount of his pensionable emoluments during his service under both the Government and the Board.
+4\. In every case where a person has been transferred to the service of the Board under section 21, the Government shall be liable to pay to the Board such portion of any gratuity, pension or allowance payable to that person on his retirement as the same shall bear to the proportion which the aggregate amount of his pensionable emoluments during his service with the Government bears to the aggregate amount of his pensionable emoluments during his service under both the Government and the Board.
 
 5\. Where any person in the service of the Board whose case does not come within the scope of any pension or other schemes established under this Schedule retires or dies in the service of the Board or is discharged from such service, the Board may grant to him or to such other person or persons wholly or partly dependent on him, as the Board thinks fit, such allowance or gratuity as the Board may determine.
 
-6\. Notwithstanding the provisions of the Pensions Act, no person who is transferred to the service of the Board under section 21 shall be entitled to claim any benefit under the Pensions Act on the ground that he has been retired from the service of the Government on account of abolition or re-organisation of office in consequence of his transfer to the service of the Board.
+6\. Notwithstanding the provisions of the Pensions Act, no person who is transferred to the service of the Board under section 21 shall be entitled to claim any benefit under that Act on the ground that he has been retired from the service of the Government on account of abolition or re-organisation of office in consequence of his transfer to the service of the Board.
 
-7\. Where on the appointed day, any disciplinary proceedings were pending against any employee of the Government transferred to the service of the Board under section 21, the proceedings shall be carried on and completed by the Board; but where on that day any matter was in the course of being heard or investigated or had been heard or investigated by a committee acting under due authority but no order or decision had been rendered thereon, the committee shall complete the hearing or investigation and make such order, ruling or direction as it could have made under the authority vested in it before that day.
+7\. Where on 1st July 1996, any disciplinary proceedings were pending against any employee of the Government transferred to the service of the Board under section 21, the proceedings shall be carried on and completed by the Board; but where on that date any matter was in the course of being heard or investigated or had been heard or investigated by a committee acting under due authority but no order or decision had been rendered thereon, the committee shall complete the hearing or investigation and make such order, ruling or direction as it could have made under the authority vested in it before that date.
 
 8\. Any order, ruling or direction made or given by a committee pursuant to paragraph 7 shall be treated as an order, a ruling or a direction of the Board and have the same force or effect as if it had been made or given by the Board pursuant to the authority vested in the Board under this Act.
 
@@ -720,7 +696,7 @@ Part I
 
 Designation of National Parks
 
-1\. All those pieces of land situated in T.S. No.25 known as the 35 Singapore Botanic Gardens comprised in lots 1419N and 1413W and estimated to contain 523,608 square metres and 3,142 square metres, respectively, the boundaries of which are more specifically delineated on certified plan filed in the office of the Chief Surveyor.
+1\. All those pieces of land situated in T.S. No.25 known as the Singapore Botanic Gardens comprised in lots 1419N and 1413W and estimated to contain 523,608 square metres and 3,142 square metres, respectively, the boundaries of which are more specifically delineated on certified plan filed in the office of the Chief Surveyor.
 
 2\. All those pieces of land situated in T.S. No.20 known as Fort Canning Park comprised in lot 474 and estimated to contain 179,410 square metres, the boundaries of which are more specifically delineated on certified plan filed in the office of the Chief Surveyor.
 
@@ -734,7 +710,8 @@ Lot No.
 
 Mukim/T.S. No.
 
-Approximate Area (square metres)
+Approximate Area
+(square metres)
 
 13-2
 
@@ -810,67 +787,22 @@ The boundaries of these areas are more particularly delineated and edged green o
 
 5\. All those pieces of land situated in Mukim No. 16, Bukit Timah comprised in lot 99501L (formerly 67-36) and part of lot 99509K (formerly 67-28) and estimated to contain areas of 11,712 square metres and 137,061 square metres, respectively, the boundaries of which are more particularly delineated on Plan No. JTC/SK 1461-1 filed in the office of the Manager, Nature Reserves of the National Parks Board.
 
-6\. All those pieces of land situated in Mukim No. 16, Bukit Timah comprised in parts of lots 1176P, 1637A, 99478V (formerly 67-59), 99763P (formerly 24-1), 99531X (formerly 67-5) and 87A and estimated to contain areas of 365 square metres, 162,135 square metres, 11,292 square metres, 76,628 square metres, 4,702 square metres and 35,832 square metres, respectively, and lot 99762V (formerly 24-2) estimated to contain an area of 32,1 square metres, the boundaries of which are more particularly delineated on Plan No. JTC/SK 1461-1 filed in the office of the Manager, Nature Reserves of the National Parks Board.
+6\. All those pieces of land situated in Mukim No. 16, Bukit Timah comprised in parts of lots 1176P, 1637A, 99478V (formerly 67-59), 99763P (formerly 24-1), 99531X (formerly 67-5) and 87A and estimated to contain areas of 365 square metres, 162,135 square metres, 11,292 square metres, 76,628 square metres, 4,702 square metres and 35,832 square metres, respectively, and lot 99762V (formerly 24-2) estimated to contain an area of 32.1 square metres, the boundaries of which are more particularly delineated on Plan No. JTC/SK 1461-1 filed in the office of the Manager, Nature Reserves of the National Parks Board.
 
-SIXTH SCHEDULE
+## LEGISLATIVE HISTORY
 
-Section 42
+National Parks Board Act
 
-Consequential Amendments
+(CHAPTER 198A)
 
-1. Section 2 of the Parks and Trees Act [Cap. 216] is amended —
+This Legislative History is provided for the convenience of users of the National Parks Board Act. It is not part of this Act.
 
-(a) by inserting, immediately after the definition of “aeration”, the following definition:
-
-“
-
-“Board” means the National Parks Board;
-
-”;
-
-(b) by deleting the definition of “Commissioner” and substituting the following definition:
-
-“
-
-“Commissioner” means the Commissioner of Parks and Recreation and includes any officer authorised by the Minister to perform the duties and functions of the Commissioner under section 3(2A);
-
-”; and
-
-(c) by deleting the words “transferred to or has become vested in the Government under the” in the definition of “public street” and substituting the words “vested in the Government under the Street Works Act or the repealed”.
-
-2. Section 3 of the Parks and Trees Act is amended by deleting subsection (2) and substituting the following subsections:
-
-“
-
-(2A) The Minister may appoint such number of officers as may be necessary for the purpose of administering and carrying out the provisions of this Act.
-
-(2) The Minister may, by notification in theGazette, authorise one or more officers appointed under subsection (2) to perform the duties and functions of the Commissioner under this Act.
-
-”.
-
-3. The following provisions of the Parks and Trees Act are amended by deleting the word “Government” wherever it appears and substituting in each case the word “Board”:
-
-sections 5A(3) and (6), 8(2), 10(3) and (6), 11(2) and 14(4).
-
-4\. Section 15B of the Parks and Trees Act is amended by deleting “$2,000” and substituting the words “$5,000 or to imprisonment for a term not exceeding 6 months or to both”.
-
-5. Section 16 of the Parks and Trees Act is amended by deleting subsection (2) and substituting the following subsections:
-
-“
-
-(2) On payment of such sum of money, no further proceedings shall be taken against that person in respect of that offence except that where any damage has been caused to property owned by the Government or the Board and maintained, supervised or controlled by the Commissioner under this Act, that person shall in addition be liable to make good the damage, the cost of which shall constitute a debt due from the person to the Board and be recoverable as such.
-
-(3) All sums collected under this section shall be paid into the funds of the Board.
-
-”.
-
-6. The Parks and Trees Act is amended by inserting, immediately after section 20A, the following section:
-
-“
-
-Payment of fees and charges collected to Board
-
-20B. All fees, charges and moneys collected under this Act or any rules made thereunder shall be paid to the Board.
-
-”.
-
+||||
+|:-|:-|:-|
+|1.|**Act 22 of 1996—National Parks Act 1996**|
+||Date of First Reading|2 May 1996|
+|||(Bill No. 13/96 published on 3 May 1996)|
+||Date of Second and Third Readings|21 May 1996|
+||Date of commencement|1 July 1996|
+|2.|**1997 Revised Edition—National Parks Act (Chapter 198A)**|
+||Date of operation|30 May 1997|
