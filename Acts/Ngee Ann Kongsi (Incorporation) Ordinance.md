@@ -54,7 +54,7 @@
 
 - [21 Rules](#Rules)
 
-- [22 Saving of Crown and other rights](#Saving-of-Crown-and-other-rights)
+- [22 Saving of Government and other rights](#Saving-of-Government-and-other-rights)
 
 [**FIRST SCHEDULE (Section 3)**](#FIRST-SCHEDULE-Section-3)
 
@@ -390,9 +390,9 @@ and the first members of the Committee of Management shall be entitled to hold o
 
 and a copy certified under the hand of the President of the Corporation of all such rules shall be published in theGazetteand shall not be effective until the expiration of one month from the date of such publication.
 
-### Saving of Crown and other rights
+### Saving of Government and other rights
 
-22\. Nothing in this Ordinance shall affect the rights of Her Majesty or of any bodies politic or corporate or of any other persons except such as are mentioned in this Ordinance and those claiming by, through, from or under them.
+22\. Nothing in this Ordinance shall affect the rights of the Government or of any bodies politic or corporate or of any other persons except such as are mentioned in this Ordinance and those claiming by, through, from or under them.
 
 FIRST SCHEDULE
 
@@ -564,3 +564,9 @@ This Legislative History is provided for the convenience of users of the Ngee An
 ||Date of commencement|23 August 1985|
 |8.|**1985 Revised Edition—Ngee Ann Kongsi (Incorporation) Ordinance**|
 ||Date of operation|30 March 1987|
+|9.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
+||Date of First Reading|11 July 1997|
+|||(Bill No. 6/1997 published on 12 July 1997)|
+||Date of Second and Third Readings|25 August 1997|
+||Dates of commencement|1 October 1997|
+|||(item (26) in the First Schedule)|
