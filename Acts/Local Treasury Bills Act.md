@@ -122,7 +122,7 @@ An Act to provide for the borrowing of money by the issue of Treasury Bills in S
 
 ### Amounts and period of currency of Bills
 
-6\. Every Treasury Bill issued under this Act shall be for the sum of $10,000 or a multiple of $10,000 , and shall be payable at par at such time or times as the Minister shall, before the issue of such Treasury Bills, fix and determine, but not later than one year from the date of issue.
+6\. Every Treasury Bill issued under this Act shall be for the sum of $1,000 or a multiple of $1,000, and shall be payable at par at such time or times as the Minister shall, before the issue of such Treasury Bills, fix and determine, but not later than one year from the date of issue.
 
 [5
 
@@ -257,3 +257,8 @@ This Legislative History is provided for the convenience of users of the Local T
 |||(Bill No. 43/1995 published on 6 December 1995)|
 ||Date of Second and Third Readings|18 January 1996|
 ||Date of commencement|1 April 1996|
+|14.|**Act 15 of 2001—Local Treasury Bills (Amendment) Act 2001**|
+||Date of First Reading|22 February 2001|
+|||(Bill No. 5/2001 published on 23 February 2001)|
+||Date of Second and Third Readings|19 April 2001|
+||Date of commencement|1 June 2001|
