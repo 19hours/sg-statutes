@@ -16,9 +16,9 @@
 
 [**Part II ADMINISTRATION OF ACT**](#Part-II)
 
-- [4 Administration of Act](#Administration-of-Act)
+- [4 Administration of Act and appointment of authorised officers, etc.](#Administration-of-Act-and-appointment-of-authorised-officers-etc)
 
-- [5 Powers of Deputy and Assistant Commissioners](#Powers-of-Deputy-and-Assistant-Commissioners)
+- [5 (Repealed)](#Repealed)
 
 [**Part III CONTROL OF PESTICIDES AND VECTOR REPELLENTS**](#Part-III)
 
@@ -46,9 +46,9 @@
 
 - [16 Prohibition on creating conditions favourable to vectors](#Prohibition-on-creating-conditions-favourable-to-vectors)
 
-- [17 Prohibition on breeding, etc., of vectors without Commissioner’s permission](#Prohibition-on-breeding-etc-of-vectors-without-Commissioner’s-permission)
+- [17 Prohibition on breeding, etc., of vectors without Director-General’s permission](#Prohibition-on-breeding-etc-of-vectors-without-Director-General’s-permission)
 
-- [18 Powers of Commissioner to direct taking of measures](#Powers-of-Commissioner-to-direct-taking-of-measures)
+- [18 Powers of Director-General to direct taking of measures](#Powers-of-Director-General-to-direct-taking-of-measures)
 
 - [19 Enforcement of order under section 18](#Enforcement-of-order-under-section-18)
 
@@ -90,23 +90,25 @@
 
 - [36 Power to enter premises, vessel or aircraft](#Power-to-enter-premises-vessel-or-aircraft)
 
-- [37 Commissioner may act in cases of emergency](#Commissioner-may-act-in-cases-of-emergency)
+- [37 Director-General may act in cases of emergency](#Director-General-may-act-in-cases-of-emergency)
 
 - [38 Owner and occupier to protect works](#Owner-and-occupier-to-protect-works)
 
 - [39 Penalty for damaging, etc., works](#Penalty-for-damaging-etc-works)
 
-- [40 Damage to property of Government to be made good in addition to penalty](#Damage-to-property-of-Government-to-be-made-good-in-addition-to-penalty)
+- [40 Damage to property of Agency to be made good in addition to penalty](#Damage-to-property-of-Agency-to-be-made-good-in-addition-to-penalty)
 
 - [41 Compensation, damages, fees, costs and expenses to be determined by Court](#Compensation-damages-fees-costs-and-expenses-to-be-determined-by-Court)
 
 - [42 Recovery of costs and expenses by instalments](#Recovery-of-costs-and-expenses-by-instalments)
 
+- [42A Fees, etc., payable to Agency](#Fees-etc-payable-to-Agency)
+
 - [43 Liability of transferor of property](#Liability-of-transferor-of-property)
 
 - [44 Persons unable to meet necessary expenditure](#Persons-unable-to-meet-necessary-expenditure)
 
-- [45 Obstructing or hindering Commissioner , etc., in performance of duties](#Obstructing-or-hindering-Commissioner--etc-in-performance-of-duties)
+- [45 Obstructing or hindering Director-General, etc., in performance of duties](#Obstructing-or-hindering-Director-General-etc-in-performance-of-duties)
 
 - [46 Notice to attend court](#Notice-to-attend-court)
 
@@ -140,6 +142,8 @@
 
 - [61 Savings](#Savings)
 
+- [62 Transitional provision](#Transitional-provision)
+
 [**Legislative History**](#Legislative-History)
 
 # Control of Vectors and Pesticides Act
@@ -172,17 +176,25 @@ PRELIMINARY
 
 “advertise” means to advertise, directly or indirectly, by means of spoken words or any form of printed or written matter or any other medium;
 
-“authorised officer” means any public officer or any officer of any statutory board who is authorised by the Commissioner in accordance with section 4(2) to exercise all or any of the powers of the Commissioner under this Act or the regulations;
+“Agency” means the National Environment Agency established under the National Environment Agency Act 2002;
 
-“Commissioner”, “Deputy Commissioner of Public Health” and “Assistant Commissioner of Public Health” mean, respectively, the Commissioner of Public Health, a Deputy Commissioner of Public Health and an Assistant Commissioner of Public Health appointed under section 3(1) of the Environmental Public Health Act (Cap. 95);
+[4/2002 wef 01/07/2002]
+
+“authorised officer” means any person appointed by the Director-General of Public Health under section 4(2);
+
+[4/2002 wef 01/07/2002]
 
 “competent authority” means a competent authority appointed under section 5 of the Planning Act (Cap. 232);
 
 “container” includes anything in or by which a pesticide or vector repellent may be cased, covered, enclosed, contained or packed before application; and, in the case of a pesticide or vector repellent which is sold or carried or intended for sale or carriage in more than one container, includes every such container;
 
+“Director-General” means the Director-General of Public Health appointed under section 3(1) of the Environmental Public Health Act (Cap. 95);
+
+[4/2002 wef 01/07/2002]
+
 “label”, in relation to the container or package of a pesticide or vector repellent, means any written, pictorial or other descriptive matter marked on or affixed to the container or package;
 
-“Medical Officer of Health” means any registered medical practitioner in the service of the Government who is engaged in vector control or epidemiological duties;
+“Medical Officer of Health” means any registered medical practitioner who is engaged in vector control or epidemiological duties;
 
 “occupier” —
 
@@ -205,8 +217,6 @@ PRELIMINARY
 “pesticide” means any solid, liquid or gaseous substance or mixture or preparation of such substances which contains one or more active ingredients and which is used for vector control, but does not include any fumigant controlled under the Hydrogen Cyanide (Fumigation) Act (Cap. 132);
 
 “premises” means messuages, buildings, lands, easements and hereditaments of any tenure, whether open or enclosed, whether built on or not, whether public or private, and whether maintained or not under statutory authority, and includes any place or structure, or any part thereof used or intended to be used for human habitation or for employment or any other purpose;
-
-“public health officer” means any public officer or any officer of any statutory body who is authorised by the Commissioner to carry out the duties imposed upon a public health officer under this Act or the regulations;
 
 “registrant” means a person to whom the registration of a pesticide or vector repellent has been granted under section 8;
 
@@ -242,17 +252,19 @@ PRELIMINARY
 
 ADMINISTRATION OF ACT
 
-### Administration of Act
+### Administration of Act and appointment of authorised officers, etc.
 
-4\.—(1) The Commissioner shall be responsible for the administration of this Act, subject to the general or special directions of the Minister.
+4\.—(1) The Director-General shall be responsible for the administration of this Act, subject to the general or special directions of the Minister.
 
-(2) The Commissioner may, with the approval of the Minister, in writing in that behalf authorise any public officer or any officer of any statutory board to exercise all or any of the powers of the Commissioner under this Act or the regulations, subject to such conditions or limitations as the Commissioner may specify.
+(2) The Director-General may in writing appoint any public officer or any officer of the Agency or of any statutory authority to be an authorised officer for the purposes of this Act and the regulations.
 
-(3) The Commissioner may, by instrument in writing under his hand, appoint any person who in his opinion is qualified to carry out any analysis, test or examination or to make any report for the purpose of this Act or the regulations.
+(3) The Director-General may, by instrument in writing under his hand, appoint any person who in his opinion is qualified to carry out any analysis, test or examination or to make any report for the purpose of this Act or the regulations.
 
-### Powers of Deputy and Assistant Commissioners
+(4) The Director-General may, with the approval of the Minister, delegate the exercise of all or any of the powers conferred or duties imposed upon him by this Act or the regulations to any authorised officer, subject to such conditions or limitations as the Director-General may specify.
 
-5\. A Deputy Commissioner of Public Health and an Assistant Commissioner of Public Health shall have and may exercise all the powers conferred on the Commissioner by or under this Act or the regulations, subject to such limitations as the Commissioner may think fit to impose.
+[4/2002 wef 01/07/2002]
+
+5\. [Deleted by Act 4/2002 wef 01/07/2002]
 
 ## PART III
 
@@ -270,13 +282,13 @@ CONTROL OF PESTICIDES AND VECTOR REPELLENTS
 
 unless the pesticide, substance, mixture or preparation, as the case may be, is registered under section 8.
 
-(2) No person shall sell any pesticide or vector repellent registered under section 8 otherwise than in a container or package to which is affixed or on which is printed a label that has been approved by the Commissioner and that shows clearly and distinctly the particulars prescribed by the regulations.
+(2) No person shall sell any pesticide or vector repellent registered under section 8 otherwise than in a container or package to which is affixed or on which is printed a label that has been approved by the Director-General and that shows clearly and distinctly the particulars prescribed by the regulations.
 
 (3) No vector control operator, vector control technician or vector control worker shall use any pesticide for the purpose of carrying out any vector control work unless the pesticide is registered under section 8.
 
 ### Application for registration of pesticides and vector repellents
 
-7\. An application for the registration of a pesticide or vector repellent shall be made to the Commissioner in such form as the Commissioner may require and shall be accompanied by —
+7\. An application for the registration of a pesticide or vector repellent shall be made to the Director-General in such form as the Director-General may require and shall be accompanied by —
 
 (a) the prescribed fee;
 
@@ -288,27 +300,27 @@ unless the pesticide, substance, mixture or preparation, as the case may be, is 
 
 (ii) the label that is intended to be used in respect of the pesticide or vector repellent,
 
-as the Commissioner may require; and
+as the Director-General may require; and
 
-(d) if required by the Commissioner, a statutory declaration by the applicant verifying any information contained in or relating to the application.
+(d) if required by the Director-General, a statutory declaration by the applicant verifying any information contained in or relating to the application.
 
 ### Registration of pesticides and vector repellents
 
-8\.—(1) On receipt of an application under section 7, the Commissioner shall consider the application and may —
+8\.—(1) On receipt of an application under section 7, the Director-General shall consider the application and may —
 
 (a) subject to subsection (2), register the pesticide or vector repellent, as the case may be, with or without conditions; or
 
 (b) refuse to register the pesticide or vector repellent.
 
-(2) The Commissioner shall not register any pesticide or vector repellent unless —
+(2) The Director-General shall not register any pesticide or vector repellent unless —
 
 (a) he is satisfied that the pesticide or vector repellent conforms to the prescribed standards; and
 
 (b) he approves of the label that is intended to be used in respect of the pesticide or vector repellent.
 
-(3) Where the Commissioner has, under subsection (1)(b), refused to register a pesticide or vector repellent, he shall, if requested to do so by the applicant, state in writing the reasons for his refusal.
+(3) Where the Director-General has, under subsection (1)(b), refused to register a pesticide or vector repellent, he shall, if requested to do so by the applicant, state in writing the reasons for his refusal.
 
-(4) The conditions which the Commissioner may impose under subsection (1)(a) shall include —
+(4) The conditions which the Director-General may impose under subsection (1)(a) shall include —
 
 (a) any condition restricting either or both —
 
@@ -318,9 +330,9 @@ as the Commissioner may require; and
 
 (b) any condition concerning the particulars to be shown on the label which is to be printed on or affixed to the container or package in which any pesticide or vector repellent is to be sold or supplied.
 
-(5) The Commissioner may at any time vary or revoke any of the existing conditions imposed under subsection (1)(a) or impose new conditions.
+(5) The Director-General may at any time vary or revoke any of the existing conditions imposed under subsection (1)(a) or impose new conditions.
 
-(6) Upon registering a pesticide or vector repellent, the Commissioner shall —
+(6) Upon registering a pesticide or vector repellent, the Director-General shall —
 
 (a) assign a registration number to the pesticide or vector repellent;
 
@@ -332,19 +344,19 @@ as the Commissioner may require; and
 
 ### Registration mark
 
-9\.—(1) Where a pesticide or vector repellent has been registered by the Commissioner under section 8, the registrant shall cause a registration mark to be shown clearly and in a conspicuous position on the label on every container or package in which the pesticide or vector repellent is to be sold or supplied.
+9\.—(1) Where a pesticide or vector repellent has been registered by the Director-General under section 8, the registrant shall cause a registration mark to be shown clearly and in a conspicuous position on the label on every container or package in which the pesticide or vector repellent is to be sold or supplied.
 
-(2) The registration mark shall be in such form and shall contain such particulars as the Commissioner may determine.
+(2) The registration mark shall be in such form and shall contain such particulars as the Director-General may determine.
 
 ### Register of pesticides and vector repellents
 
-10\.—(1) The Commissioner shall maintain, in such form as he thinks fit, a register of all pesticides and vector repellents which have been registered under section 8.
+10\.—(1) The Director-General shall maintain, in such form as he thinks fit, a register of all pesticides and vector repellents which have been registered under section 8.
 
 (2) Any person may, on payment of the prescribed fee, inspect the register at any time during office hours.
 
 ### Cancellation of registration of pesticide or vector repellent
 
-11\.—(1) The Commissioner may, subject as hereinafter provided, cancel the registration of a pesticide or vector repellent if he is satisfied —
+11\.—(1) The Director-General may, subject as hereinafter provided, cancel the registration of a pesticide or vector repellent if he is satisfied —
 
 (a) having regard to any information received by him subsequent to the registration of the pesticide or vector repellent concerning the effects thereof, that the hazards arising from the use of the pesticide for the purpose of vector control, or from the use of the vector repellent for the purpose of repelling vectors, outweigh the advantages thereof;
 
@@ -364,71 +376,71 @@ as the Commissioner may require; and
 
 (i) that the registrant has contravened or failed to comply with any of the provisions of this Act or the regulations.
 
-(2) Before cancelling the registration of a pesticide or vector repellent, the Commissioner shall serve a notice in writing on the registrant requiring him, within such time as may be specified in the notice, to show cause to the Commissioner why the registration of the pesticide or vector repellent should not be cancelled.
+(2) Before cancelling the registration of a pesticide or vector repellent, the Director-General shall serve a notice in writing on the registrant requiring him, within such time as may be specified in the notice, to show cause to the Director-General why the registration of the pesticide or vector repellent should not be cancelled.
 
-(3) If the registrant fails to show cause as mentioned in subsection (2) within the specified time or within such further period as the Commissioner may allow, the Commissioner may, if he thinks fit, cancel the registration of the pesticide or vector repellent as from a date to be specified by him.
+(3) If the registrant fails to show cause as mentioned in subsection (2) within the specified time or within such further period as the Director-General may allow, the Director-General may, if he thinks fit, cancel the registration of the pesticide or vector repellent as from a date to be specified by him.
 
-(4) If the registrant complies with the notice, the Commissioner shall consider any representations or submissions made to him by or on behalf of the registrant, and if the Commissioner is satisfied of any of the matters referred to in subsection (1), he may —
+(4) If the registrant complies with the notice, the Director-General shall consider any representations or submissions made to him by or on behalf of the registrant, and if the Director-General is satisfied of any of the matters referred to in subsection (1), he may —
 
 (a) cancel the registration of the pesticide or vector repellent as from a date to be specified by him; or
 
 (b) allow the registration of the pesticide or vector repellent to continue, subject to such terms and conditions as he may specify.
 
-(5) Where the Commissioner —
+(5) Where the Director-General —
 
 (a) cancels the registration of a pesticide or vector repellent under subsection (3) or (4)(a); or
 
 (b) allows the registration of a pesticide or vector repellent to continue subject to terms and conditions under subsection (4)(b),
 
-the Commissioner shall, as soon as possible, inform the registrant thereof in writing.
+the Director-General shall, as soon as possible, inform the registrant thereof in writing.
 
 ### Removal of registration marks, surrender of stocks, etc., upon cancellation of registration
 
 12\. Upon the cancellation of the registration of a pesticide or vector repellent —
 
-(a) the person to whom the registration was granted shall, unless the Commissioner otherwise directs, forthwith take such steps as are reasonable and necessary to have the registration mark removed, cancelled or obliterated from every container, package or label on which he has printed or caused to be printed or to which he has affixed or caused to be affixed, the registration mark; and
+(a) the person to whom the registration was granted shall, unless the Director-General otherwise directs, forthwith take such steps as are reasonable and necessary to have the registration mark removed, cancelled or obliterated from every container, package or label on which he has printed or caused to be printed or to which he has affixed or caused to be affixed, the registration mark; and
 
-(b) the Commissioner may, in his discretion, by notice in writing addressed to the person to whom the registration was granted, require such person to recall all stocks, or to cease the sale, supply or distribution, of that pesticide or vector repellent within such time as the Commissioner may specify in the notice.
+(b) the Director-General may, in his discretion, by notice in writing addressed to the person to whom the registration was granted, require such person to recall all stocks, or to cease the sale, supply or distribution, of that pesticide or vector repellent within such time as the Director-General may specify in the notice.
 
 ### Appeals
 
 13\.—(1) Any person who is aggrieved by —
 
-(a) the imposition of any condition by the Commissioner under section 8(1)(a) or (4) or section 11(4)(b);
+(a) the imposition of any condition by the Director-General under section 8(1)(a) or (4) or section 11(4)(b);
 
-(b) the refusal of the Commissioner to register a pesticide or vector repellent under section 8(1)(b); or
+(b) the refusal of the Director-General to register a pesticide or vector repellent under section 8(1)(b); or
 
-(c) the decision of the Commissioner to cancel the registration of a pesticide or vector repellent under section 11(3) or (4)(a),
+(c) the decision of the Director-General to cancel the registration of a pesticide or vector repellent under section 11(3) or (4)(a),
 
 may, within 14 days of the date of receipt of the notice informing him of such imposition of the condition, refusal or cancellation, as the case may be, appeal in writing to the Minister whose decision shall be final.
 
 (2) Notwithstanding that any appeal under subsection (1) is pending —
 
-(a) any condition imposed by the Commissioner under section 8(1)(a) or (4) or section 11(4)(b); or
+(a) any condition imposed by the Director-General under section 8(1)(a) or (4) or section 11(4)(b); or
 
 (b) the cancellation of the registration of a pesticide or vector repellent under section 11(3) or (4)(a),
 
-shall take effect from the date specified by the Commissioner , unless the Minister otherwise directs.
+shall take effect from the date specified by the Director-General, unless the Minister otherwise directs.
 
 ### Power to take samples of pesticides and vector repellents for analysis and to detain consignment
 
-14\.—(1) Where the Commissioner or a public health officer knows or has reason to believe that any pesticide or vector repellent is being stored on any premises, vessel or aircraft, he may, for the purpose of ascertaining whether such pesticide or vector repellent is in contravention of this Act or the regulations —
+14\.—(1) Where the Director-General or an authorised officer knows or has reason to believe that any pesticide or vector repellent is being stored on any premises, vessel or aircraft, he may, for the purpose of ascertaining whether such pesticide or vector repellent is in contravention of this Act or the regulations —
 
 (a) enter such premises, vessel or aircraft at all reasonable times, to take, without payment, any reasonable sample of any pesticide or vector repellent (including the container and package thereof) found stored thereon for analysis or testing; and
 
 (b) seize or detain under normal storage conditions or take any necessary measures to prevent the removal or disposal of the whole consignment from which the sample is taken until a report of the result of the analysis or test is obtained.
 
-(2) Where the Commissioner or a public health officer has seized or detained or taken measures to prevent the removal or disposal of any consignment of pesticides or vector repellents under subsection (1)(b), the Commissioner or public health officer, as the case may be, shall forthwith give notice in writing thereof to the owner, consignor or consignee of the consignment or to the agent of such person, if the name and address of such owner, consignor or consignee or agent thereof are known.
+(2) Where the Director-General or an authorised officer has seized or detained or taken measures to prevent the removal or disposal of any consignment of pesticides or vector repellents under subsection (1)(b), the Director-General or authorised officer, as the case may be, shall forthwith give notice in writing thereof to the owner, consignor or consignee of the consignment or to the agent of such person, if the name and address of such owner, consignor or consignee or agent thereof are known.
 
-(3) Any person aggrieved by any action taken by the Commissioner or a public health officer under subsection (1)(b) may, within 14 days thereof, appeal to the Minister whose decision shall be final.
+(3) Any person aggrieved by any action taken by the Director-General or an authorised officer under subsection (1)(b) may, within 14 days thereof, appeal to the Minister whose decision shall be final.
 
 (4) No person shall —
 
-(a) without the authority of the Commissioner or a public health officer tamper with, remove, distribute, sell or otherwise dispose of, the whole or any part of a consignment in respect of which he knows or ought reasonably to know that the Commissioner or a public health officer has taken any action under subsection (1)(b); or
+(a) without the authority of the Director-General or an authorised officer tamper with, remove, distribute, sell or otherwise dispose of, the whole or any part of a consignment in respect of which he knows or ought reasonably to know that the Director-General or an authorised officer has taken any action under subsection (1)(b); or
 
-(b) alter, counterfeit, deface, destroy, erase or remove any identification mark, label or seal affixed by the Commissioner or a public health officer to the consignment.
+(b) alter, counterfeit, deface, destroy, erase or remove any identification mark, label or seal affixed by the Director-General or an authorised officer to the consignment.
 
-(5) The Commissioner or a public health officer may by notice require the owner, consignor or consignee of the consignment from which any sample is taken under subsection (1)(a) or the agent of such person —
+(5) The Director-General or an authorised officer may by notice require the owner, consignor or consignee of the consignment from which any sample is taken under subsection (1)(a) or the agent of such person —
 
 (a) to submit, at his own expense, the sample to an approved laboratory for the purpose of analysis or testing; and
 
@@ -440,11 +452,11 @@ shall take effect from the date specified by the Commissioner , unless the Minis
 
 (b) the Minister on an appeal under subsection (3) so directs,
 
-the Commissioner or a public health officer, as the case may be, shall forthwith release the consignment.
+the Director-General or an authorised officer, as the case may be, shall forthwith release the consignment.
 
-(7) Where the result of the analysis or testing of the sample conducted under subsection (1)(a) or (5) confirms that the sample is in contravention of this Act or the regulations, the Commissioner or a public health officer, as the case may be, may direct the owner, consignor or consignee of the consignment or the agent of such person to treat or destroy or otherwise dispose of such consignment, at the expense of such owner, consignor or consignee or agent thereof, in such manner as the Commissioner or public health officer thinks fit.
+(7) Where the result of the analysis or testing of the sample conducted under subsection (1)(a) or (5) confirms that the sample is in contravention of this Act or the regulations, the Director-General or an authorised officer, as the case may be, may direct the owner, consignor or consignee of the consignment or the agent of such person to treat or destroy or otherwise dispose of such consignment, at the expense of such owner, consignor or consignee or agent thereof, in such manner as the Director-General or authorised officer thinks fit.
 
-(8) Where a person to whom a direction under subsection (7) is given fails to comply with that direction, the Commissioner or a public health officer may take such steps as he thinks fit to secure the treatment, destruction or disposal of the consignment to which the direction relates and recover any costs and expenses reasonably incurred by him from that person in accordance with section 41.
+(8) Where a person to whom a direction under subsection (7) is given fails to comply with that direction, the Director-General or an authorised officer may take such steps as he thinks fit to secure the treatment, destruction or disposal of the consignment to which the direction relates and recover any costs and expenses reasonably incurred by him from that person in accordance with section 41.
 
 ### Penalty under this Part
 
@@ -458,31 +470,31 @@ DESTRUCTION OF VECTORS
 
 16\.—(1) No person shall create or cause or permit to be created any condition favourable to the propagation or harbouring of vectors.
 
-(2) Every person shall comply with all such reasonable directions as may be given by the Commissioner or any public health officer with a view to ensuring that such conditions do not arise or with a view to terminating such conditions.
+(2) Every person shall comply with all such reasonable directions as may be given by the Director-General or any authorised officer with a view to ensuring that such conditions do not arise or with a view to terminating such conditions.
 
 (3) Such directions may be given to the owner or occupier of any premises, vessel or aircraft and to any person therein, including the agents and servants of such owner or occupier.
 
 (4) If in any proceedings for a contravention of subsection (1) it is shown that the condition on any premises, vessel or aircraft is favourable to the propagation or harbouring of vectors, it shall be presumed, unless the contrary is proved, that the condition is created, or caused or permitted to be created by the owner or occupier of such premises, vessel or aircraft.
 
-### Prohibition on breeding, etc., of vectors without Commissioner’s permission
+### Prohibition on breeding, etc., of vectors without Director-General’s permission
 
-17\.—(1) No person shall breed, keep, collect, distribute, sell, import or export any vectors without the permission in writing of the Commissioner.
+17\.—(1) No person shall breed, keep, collect, distribute, sell, import or export any vectors without the permission in writing of the Director-General.
 
-(2) An application for the Commissioner’s permission to breed, keep, collect, distribute, sell, import or export any vectors shall be made in such form and shall state such particulars as the Commissioner may require.
+(2) An application for the Director-General’s permission to breed, keep, collect, distribute, sell, import or export any vectors shall be made in such form and shall state such particulars as the Director-General may require.
 
-(3) The Commissioner may, in his discretion, refuse the application without assigning any reason.
+(3) The Director-General may, in his discretion, refuse the application without assigning any reason.
 
-(4) The Commissioner shall not grant his permission to any person to breed, keep, collect, distribute, sell, import or export any vectors unless the Commissioner is satisfied that the application has been made for a scientific purpose or for purposes of education or research or for such other purpose as may be acceptable to the Commissioner.
+(4) The Director-General shall not grant his permission to any person to breed, keep, collect, distribute, sell, import or export any vectors unless the Director-General is satisfied that the application has been made for a scientific purpose or for purposes of education or research or for such other purpose as may be acceptable to the Director-General.
 
-(5) The Commissioner may, in granting his permission to any person to breed, keep, collect, distribute, sell, import or export any vectors, impose such conditions as the Commissioner thinks fit.
+(5) The Director-General may, in granting his permission to any person to breed, keep, collect, distribute, sell, import or export any vectors, impose such conditions as the Director-General thinks fit.
 
-(6) The Commissioner may, in his discretion, revoke his permission granted under this section at any time without assigning any reason.
+(6) The Director-General may, in his discretion, revoke his permission granted under this section at any time without assigning any reason.
 
-### Powers of Commissioner to direct taking of measures
+### Powers of Director-General to direct taking of measures
 
-18\.—(1) Where it appears to the Commissioner that any premises, vessel or aircraft or anything therein is or may become favourable to the propagation or harbouring of vectors, the Commissioner may, by order in writing addressed to the owner or occupier of such premises, vessel or aircraft, direct the owner or occupier to carry out such vector control work or to take such measure, as may be specified in the order, with regard to the premises, vessel or aircraft for the treatment, destruction or removal of anything therein as may bring the premises, vessel or aircraft into a condition unfavourable to the propagation or harbouring of vectors.
+18\.—(1) Where it appears to the Director-General that any premises, vessel or aircraft or anything therein is or may become favourable to the propagation or harbouring of vectors, the Director-General may, by order in writing addressed to the owner or occupier of such premises, vessel or aircraft, direct the owner or occupier to carry out such vector control work or to take such measure, as may be specified in the order, with regard to the premises, vessel or aircraft for the treatment, destruction or removal of anything therein as may bring the premises, vessel or aircraft into a condition unfavourable to the propagation or harbouring of vectors.
 
-(2) The Commissioner may, in any such order, direct —
+(2) The Director-General may, in any such order, direct —
 
 (a) that such vector control work or any other specified measure shall be commenced on or before a specified date and shall be completed within a specified period;
 
@@ -494,25 +506,25 @@ DESTRUCTION OF VECTORS
 
 (e) that such vector control work or any other specified measure shall be carried out by a registered vector control operator or a licensed vector control technician.
 
-(3) The Commissioner may, by order in writing, direct the occupier of any premises, vessel or aircraft to cover, within a specified time, and keep continuously covered any specified tank, cistern, receptacle or any manner of container in or appertaining to the premises, vessel or aircraft, so that vectors shall be unable to enter therein, and where any premises, vessel or aircraft is unoccupied, such order may be addressed to the owner thereof as if he were the occupier.
+(3) The Director-General may, by order in writing, direct the occupier of any premises, vessel or aircraft to cover, within a specified time, and keep continuously covered any specified tank, cistern, receptacle or any manner of container in or appertaining to the premises, vessel or aircraft, so that vectors shall be unable to enter therein, and where any premises, vessel or aircraft is unoccupied, such order may be addressed to the owner thereof as if he were the occupier.
 
-(4) In particular and without prejudice to the generality of the powers under this section, the Commissioner may, in any such order, direct the owner or occupier of any premises to drain any land in accordance with such specifications or in such manner as he may specify in such order or to fill up inequalities in the surface thereof to a specified level so as to prevent the breeding of vectors or so as to keep the land permanently free from standing water to an extent specified in such order.
+(4) In particular and without prejudice to the generality of the powers under this section, the Director-General may, in any such order, direct the owner or occupier of any premises to drain any land in accordance with such specifications or in such manner as he may specify in such order or to fill up inequalities in the surface thereof to a specified level so as to prevent the breeding of vectors or so as to keep the land permanently free from standing water to an extent specified in such order.
 
-(5) Notwithstanding subsections (1), (3) and (4), the Commissioner may, in his discretion, and if in his opinion the circumstances so warrant, himself cause any measure or work specified in those subsections to be carried out and recover the costs and expenses incurred by him from the owner or occupier of the premises, vessel or aircraft, as the case may be.
+(5) Notwithstanding subsections (1), (3) and (4), the Director-General may, in his discretion, and if in his opinion the circumstances so warrant, himself cause any measure or work specified in those subsections to be carried out and recover the costs and expenses incurred by him from the owner or occupier of the premises, vessel or aircraft, as the case may be.
 
-(6) Where an order served under subsection (1) requires that any work being carried out on the premises, vessel or aircraft shall be stopped, and the owner or occupier of the premises, vessel or aircraft on whom the order was served fails to comply with such requirements, the Commissioner may make a complaint to a Magistrate’s Court.
+(6) Where an order served under subsection (1) requires that any work being carried out on the premises, vessel or aircraft shall be stopped, and the owner or occupier of the premises, vessel or aircraft on whom the order was served fails to comply with such requirements, the Director-General may make a complaint to a Magistrate’s Court.
 
-(7) The Magistrate’s Court may, upon application by the Commissioner, make a summary order for the ejectment of any person found carrying out or likely to carry out such work on the premises, vessel or aircraft.
+(7) The Magistrate’s Court may, upon application by the Director-General, make a summary order for the ejectment of any person found carrying out or likely to carry out such work on the premises, vessel or aircraft.
 
-(8) Any person who is aggrieved by any order made by the Commissioner under this section may, within 3 days of such order, appeal in writing to the Minister.
+(8) Any person who is aggrieved by any order made by the Director-General under this section may, within 3 days of such order, appeal in writing to the Minister.
 
-(9) Notwithstanding that any appeal under subsection (8) is pending, an order made by the Commissioner under this section shall take effect from the date stated therein, unless the Minister otherwise directs.
+(9) Notwithstanding that any appeal under subsection (8) is pending, an order made by the Director-General under this section shall take effect from the date stated therein, unless the Minister otherwise directs.
 
-(10) The Minister may, on an appeal made under subsection (8), confirm, vary or rescind the order or make any other order which the Commissioner is competent to make under this Act, and the decision of the Minister shall be final.
+(10) The Minister may, on an appeal made under subsection (8), confirm, vary or rescind the order or make any other order which the Director-General is competent to make under this Act, and the decision of the Minister shall be final.
 
 ### Enforcement of order under section 18
 
-19\. If the owner or occupier of any premises, vessel or aircraft on whom an order made under section 18 has been served fails to comply with the terms thereof, the Commissioner or a public health officer may —
+19\. If the owner or occupier of any premises, vessel or aircraft on whom an order made under section 18 has been served fails to comply with the terms thereof, the Director-General or an authorised officer may —
 
 (a) enter such premises, vessel or aircraft with such assistants and things as are necessary; and
 
@@ -520,23 +532,23 @@ DESTRUCTION OF VECTORS
 
 ### Prohibition on clearing undergrowth or vegetation under certain circumstances
 
-20\. Where on any land there is any stream or seepage or running or standing water to which shade may be afforded by the development of undergrowth or other vegetation, no person shall cut down or clear or cause or permit to be cut down or cleared any undergrowth or vegetation within 6 metres of any such stream or seepage or running or standing water without the prior approval of the Commissioner .
+20\. Where on any land there is any stream or seepage or running or standing water to which shade may be afforded by the development of undergrowth or other vegetation, no person shall cut down or clear or cause or permit to be cut down or cleared any undergrowth or vegetation within 6 metres of any such stream or seepage or running or standing water without the prior approval of the Director-General.
 
 ### Medical examination of persons suspected of being infected with vector-borne disease
 
-21\. The Commissioner may, by notice in writing, require any person suspected of being infected with vector-borne disease to submit to medical examination and have his blood sample taken for examination within the time specified in such notice, and if the person is found to be infected, the Commissioner may require the person to undergo treatment.
+21\. The Director-General may, by notice in writing, require any person suspected of being infected with vector-borne disease to submit to medical examination and have his blood sample taken for examination within the time specified in such notice, and if the person is found to be infected, the Director-General may require the person to undergo treatment.
 
 ### Spraying or fogging with pesticide
 
-22\.—(1) The Commissioner may, by notice in writing, require the owner or occupier of any premises, vessel or aircraft or any pond, well, pool or other body of water, to carry out the spraying or fogging thereof with any form of pesticide within the time specified in such notice.
+22\.—(1) The Director-General may, by notice in writing, require the owner or occupier of any premises, vessel or aircraft or any pond, well, pool or other body of water, to carry out the spraying or fogging thereof with any form of pesticide within the time specified in such notice.
 
-(2) Notwithstanding subsection (1), the Commissioner may, if he considers necessary, himself carry out such spraying or fogging and recover any costs or expenses incurred by him from the owner or occupier of the premises, vessel or aircraft or pond, well, pool or other body of water, as the case may be.
+(2) Notwithstanding subsection (1), the Director-General may, if he considers necessary, himself carry out such spraying or fogging and recover any costs or expenses incurred by him from the owner or occupier of the premises, vessel or aircraft or pond, well, pool or other body of water, as the case may be.
 
 (3) No person shall remove or render less effective any pesticide so sprayed or fogged under subsection (1) or (2).
 
 ### Power to require information
 
-23\. If, in the opinion of the Commissioner, there is reasonable ground for suspecting that any person is in possession of information relating to the propagation of vectors or of the occurrence of any vector-borne disease, the Commissioner may require that such information be produced to him, whether forthwith or within such time as he may specify.
+23\. If, in the opinion of the Director-General, there is reasonable ground for suspecting that any person is in possession of information relating to the propagation of vectors or of the occurrence of any vector-borne disease, the Director-General may require that such information be produced to him, whether forthwith or within such time as he may specify.
 
 ### Penalty under this Part
 
@@ -590,25 +602,25 @@ unless he is registered as a vector control operator under this Act.
 
 (c) certified as a vector control worker,
 
-under this Act may apply to the Commissioner in such form or manner as the Commissioner may require.
+under this Act may apply to the Director-General in such form or manner as the Director-General may require.
 
 (2) An application made under subsection (1) shall be accompanied by —
 
 (a) the prescribed fee; and
 
-(b) such particulars, information and documents as the Commissioner may require.
+(b) such particulars, information and documents as the Director-General may require.
 
-(3) Subject to subsections (4) and (5), the Commissioner , upon receiving an application under subsection (1), may —
+(3) Subject to subsections (4) and (5), the Director-General, upon receiving an application under subsection (1), may —
 
-(a) grant the registration, licence or certificate applied for either unconditionally or subject to such conditions as the Commissioner thinks fit; or
+(a) grant the registration, licence or certificate applied for either unconditionally or subject to such conditions as the Director-General thinks fit; or
 
 (b) refuse the application.
 
-(4) The Commissioner shall not —
+(4) The Director-General shall not —
 
-(a) register an applicant as a vector control operator unless the Commissioner is satisfied that the applicant is a fit and proper person to be so registered; or
+(a) register an applicant as a vector control operator unless the Director-General is satisfied that the applicant is a fit and proper person to be so registered; or
 
-(b) grant a vector control technician’s licence or a vector control worker’s certificate to an applicant unless the Commissioner is satisfied that the applicant —
+(b) grant a vector control technician’s licence or a vector control worker’s certificate to an applicant unless the Director-General is satisfied that the applicant —
 
 (i) possesses the prescribed qualifications or practical experience; and
 
@@ -618,17 +630,17 @@ under this Act may apply to the Commissioner in such form or manner as the Commi
 
 (a) an applicant for a vector control technician’s licence or a vector control worker’s certificate does not possess the requisite qualification or practical experience; or
 
-(b) the Commissioner is not satisfied that such applicant is sufficiently competent to be entrusted to carry out the work of a vector control technician or a vector control worker, as the case may be,
+(b) the Director-General is not satisfied that such applicant is sufficiently competent to be entrusted to carry out the work of a vector control technician or a vector control worker, as the case may be,
 
-the Commissioner, instead of refusing the application, may require the applicant to undergo such training and to take and successfully complete such tests as the Commissioner may specify.
+the Director-General, instead of refusing the application, may require the applicant to undergo such training and to take and successfully complete such tests as the Director-General may specify.
 
-(6) For the purpose of subsection (5), the Commissioner may, subject to such conditions as he thinks fit, grant a provisional vector control technician’s licence or a provisional vector control worker’s certificate to the applicant to enable him to carry out the work of a vector control technician or a vector control worker, as the case may be, while undergoing training.
+(6) For the purpose of subsection (5), the Director-General may, subject to such conditions as he thinks fit, grant a provisional vector control technician’s licence or a provisional vector control worker’s certificate to the applicant to enable him to carry out the work of a vector control technician or a vector control worker, as the case may be, while undergoing training.
 
-(7) The Commissioner may at any time vary or revoke any of the existing conditions imposed under subsection (3)(a) or (6) or impose new conditions.
+(7) The Director-General may at any time vary or revoke any of the existing conditions imposed under subsection (3)(a) or (6) or impose new conditions.
 
-(8) Where the Commissioner has, under subsection (3)(b), refused any application, he shall, if requested to do so by the applicant, state in writing the reasons for his refusal.
+(8) Where the Director-General has, under subsection (3)(b), refused any application, he shall, if requested to do so by the applicant, state in writing the reasons for his refusal.
 
-(9) Where a person is registered as a vector control operator under this section, the Commissioner shall issue a certificate of registration to that person and the certificate or a certified copy thereof shall be exhibited in a conspicuous place at the principal place of business of that person and at every other place where that person carries on business.
+(9) Where a person is registered as a vector control operator under this section, the Director-General shall issue a certificate of registration to that person and the certificate or a certified copy thereof shall be exhibited in a conspicuous place at the principal place of business of that person and at every other place where that person carries on business.
 
 ### Duration and renewal of registration, licence or certificate
 
@@ -660,7 +672,7 @@ granted under section 30(6) shall each be valid for a period of 9 months from th
 
 ### Suspension and cancellation of registration, licence or certificate
 
-32\.—(1) The Commissioner may suspend or cancel the registration of a vector control operator, a vector control technician’s licence or a vector control worker’s certificate if the Commissioner is satisfied that —
+32\.—(1) The Director-General may suspend or cancel the registration of a vector control operator, a vector control technician’s licence or a vector control worker’s certificate if the Director-General is satisfied that —
 
 (a) the grant of the registration, licence or certificate has been obtained by fraud or misrepresentation;
 
@@ -670,7 +682,7 @@ granted under section 30(6) shall each be valid for a period of 9 months from th
 
 (ii) any condition subject to which the registration, licence or certificate, as the case may be, was granted to him; or
 
-(iii) any direction given to him by the Commissioner or a public health officer under this Act or the regulations;
+(iii) any direction given to him by the Director-General or an authorised officer under this Act or the regulations;
 
 (c) the person to whom the registration, licence or certificate has been granted has ceased to carry on business as a vector control operator or a vector control technician or a vector control worker, as the case may be;
 
@@ -678,7 +690,7 @@ granted under section 30(6) shall each be valid for a period of 9 months from th
 
 (e) it is in the public interest to suspend or cancel the registration, licence or certificate.
 
-(2) The Commissioner, before suspending or cancelling any registration, licence or certificate under subsection (1), shall —
+(2) The Director-General, before suspending or cancelling any registration, licence or certificate under subsection (1), shall —
 
 (a) give to the person to whom the registration, licence or certificate has been granted notice in writing of his intention to do so; and
 
@@ -686,11 +698,11 @@ granted under section 30(6) shall each be valid for a period of 9 months from th
 
 (3) If the person to whom a notice has been given under subsection (2) —
 
-(a) fails to show cause within the period of time given to him to do so or such extended period of time as the Commissioner may allow; or
+(a) fails to show cause within the period of time given to him to do so or such extended period of time as the Director-General may allow; or
 
 (b) fails to show sufficient cause,
 
-the Commissioner shall give notice in writing to that person of the date from which the suspension or cancellation of his registration, licence or certificate, as the case may be, is to take effect.
+the Director-General shall give notice in writing to that person of the date from which the suspension or cancellation of his registration, licence or certificate, as the case may be, is to take effect.
 
 (4) In this section —
 
@@ -702,17 +714,17 @@ the Commissioner shall give notice in writing to that person of the date from wh
 
 33\.—(1) Any person who is aggrieved by —
 
-(a) the imposition of any condition by the Commissioner in granting or renewing any registration, licence or certificate under section 30 or 31;
+(a) the imposition of any condition by the Director-General in granting or renewing any registration, licence or certificate under section 30 or 31;
 
-(b) the refusal of the Commissioner to grant or renew any registration, licence or certificate under section 30 or 31; or
+(b) the refusal of the Director-General to grant or renew any registration, licence or certificate under section 30 or 31; or
 
-(c) the decision of the Commissioner to suspend or cancel any registration, licence or certificate under section 32,
+(c) the decision of the Director-General to suspend or cancel any registration, licence or certificate under section 32,
 
 may, within 14 days of the date of receipt of the notice informing him of such imposition of conditions, refusal, suspension or cancellation, as the case may be, appeal in writing to the Minister whose decision shall be final.
 
-(2) Notwithstanding that any appeal under subsection (1) is pending, any condition imposed by the Commissioner under section 30 or 31 shall take effect from the date specified by the Commissioner, unless the Minister otherwise orders.
+(2) Notwithstanding that any appeal under subsection (1) is pending, any condition imposed by the Director-General under section 30 or 31 shall take effect from the date specified by the Director-General, unless the Minister otherwise orders.
 
-(3) If within the period referred to in subsection (1) the person whose registration, licence or certificate has been suspended or cancelled by the Commissioner gives due notice of appeal to the Minister, the suspension or cancellation of his registration, licence or certificate, as the case may be, shall not take effect unless it is confirmed by the Minister or the appeal is for any reason dismissed by the Minister.
+(3) If within the period referred to in subsection (1) the person whose registration, licence or certificate has been suspended or cancelled by the Director-General gives due notice of appeal to the Minister, the suspension or cancellation of his registration, licence or certificate, as the case may be, shall not take effect unless it is confirmed by the Minister or the appeal is for any reason dismissed by the Minister.
 
 (4) In this section —
 
@@ -722,7 +734,7 @@ may, within 14 days of the date of receipt of the notice informing him of such i
 
 ### Register of vector control operators, vector control technicians and vector control workers
 
-34\.—(1) The Commissioner shall maintain, in such form as he thinks fit, a register of all registered vector control operators, licensed and provisionally licensed vector control technicians and certified and provisionally certified vector control workers.
+34\.—(1) The Director-General shall maintain, in such form as he thinks fit, a register of all registered vector control operators, licensed and provisionally licensed vector control technicians and certified and provisionally certified vector control workers.
 
 (2) Any person may, on payment of the prescribed fee, inspect the register at any time during office hours.
 
@@ -736,7 +748,7 @@ MISCELLANEOUS
 
 ### Power to enter premises, vessel or aircraft
 
-36\.—(1) The Commissioner or any public health officer or authorised officer may, with or without assistants, for the purposes of this Act or the regulations, enter any premises, vessel or aircraft in order to make any survey, inspection or search or to execute any works authorised by this Act or the regulations.
+36\.—(1) The Director-General or authorised officer may, with or without assistants, for the purposes of this Act or the regulations, enter any premises, vessel or aircraft in order to make any survey, inspection or search or to execute any works authorised by this Act or the regulations.
 
 (2) Any Medical Officer of Health may —
 
@@ -748,15 +760,15 @@ MISCELLANEOUS
 
 (3) No person shall, except with the consent of the occupier thereof, enter any dwelling-house by virtue of the powers conferred by this section without at least 12 hours’ previous notice being given to the occupier thereof, if any.
 
-(4) The owner or occupier of any premises, vessel or aircraft, as the case may be, shall supply all such information as the Commissioner or any public health officer may require or as the Commissioner or the public health officer may consider to be reasonably necessary for the purpose of this section.
+(4) The owner or occupier of any premises, vessel or aircraft, as the case may be, shall supply all such information as the Director-General or any authorised officer may require or as the Director-General or the authorised officer may consider to be reasonably necessary for the purpose of this section.
 
-### Commissioner may act in cases of emergency
+### Director-General may act in cases of emergency
 
-37\. In cases of emergency the Commissioner may direct the immediate execution of any work or the doing of any act being any work or act authorised under this Act or the regulations which is in the opinion of the Commissioner necessary for public health or for the safety of the public.
+37\. In cases of emergency the Director-General may direct the immediate execution of any work or the doing of any act being any work or act authorised under this Act or the regulations which is in the opinion of the Director-General necessary for public health or for the safety of the public.
 
 ### Owner and occupier to protect works
 
-38\.—(1) Where the Commissioner or any department of the Government has constructed any works with the object of preventing the breeding of vectors, the owner or occupier of the premises on which the works stand shall prevent the premises from being used in any manner that —
+38\.—(1) Where the Director-General or any department of the Government has constructed any works with the object of preventing the breeding of vectors, the owner or occupier of the premises on which the works stand shall prevent the premises from being used in any manner that —
 
 (a) is likely to cause the deterioration of the works; or
 
@@ -766,11 +778,11 @@ MISCELLANEOUS
 
 (a) the owner or occupier of such premises shall, subject to subsection (4), be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000; and
 
-(b) the Commissioner may enter the premises with such assistants and things as are necessary and execute any necessary repairs or works thereon and recover from the person convicted the costs and expenses incurred in connection with the repairs or works.
+(b) the Director-General may enter the premises with such assistants and things as are necessary and execute any necessary repairs or works thereon and recover from the person convicted the costs and expenses incurred in connection with the repairs or works.
 
-(3) Before any proceedings are taken under this section, the Commissioner shall give to the owner or occupier, as the case may be, notice in writing specifying —
+(3) Before any proceedings are taken under this section, the Director-General shall give to the owner or occupier, as the case may be, notice in writing specifying —
 
-(a) what the Commissioner requires to be done or not to be done; and
+(a) what the Director-General requires to be done or not to be done; and
 
 (b) the time within which the notice is to be complied with.
 
@@ -778,13 +790,13 @@ MISCELLANEOUS
 
 ### Penalty for damaging, etc., works
 
-39\.—(1) Any person who, without the consent of the Commissioner , interferes with, damages, injures, destroys or renders useless any works executed or any materials or things placed in, under or upon any premises by or under the order of the Commissioner, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
+39\.—(1) Any person who, without the consent of the Director-General, interferes with, damages, injures, destroys or renders useless any works executed or any materials or things placed in, under or upon any premises by or under the order of the Director-General, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
 
-(2) The Commissioner may in addition recover from the person convicted any costs and expenses incurred in connection with the re-execution of the works or the replacement of the materials or things so interfered with, damaged, injured, destroyed or rendered useless.
+(2) The Director-General may in addition recover from the person convicted any costs and expenses incurred in connection with the re-execution of the works or the replacement of the materials or things so interfered with, damaged, injured, destroyed or rendered useless.
 
-### Damage to property of Government to be made good in addition to penalty
+### Damage to property of Agency to be made good in addition to penalty
 
-40\.—(1) If through any act, neglect or default on account whereof any person has incurred any penalty under this Act or the regulations any damage is caused by that person to property belonging to the Government, he shall be liable to make good the damage as well as to pay the penalty.
+40\.—(1) If through any act, neglect or default on account whereof any person has incurred any penalty under this Act or the regulations any damage is caused by that person to property belonging to the Agency, he shall be liable to make good the damage as well as to pay the penalty.
 
 (2) The amount of such damage shall, in case of dispute, be determined by the court by which the person incurring the penalty was convicted.
 
@@ -800,27 +812,33 @@ MISCELLANEOUS
 
 ### Recovery of costs and expenses by instalments
 
-42\.—(1) Where the Commissioner has incurred costs and expenses in connection with the execution of any works, which are, under this Act, payable by or recoverable from the owner or occupier of any premises, vessel or aircraft, as the case may be, the Commissioner may, if he thinks fit, obtain an undertaking from such owner or occupier for the payment of such instalments as will be sufficient to defray the whole amount of such costs and expenses.
+42\.—(1) Where the Director-General has incurred costs and expenses in connection with the execution of any works, which are, under this Act, payable by or recoverable from the owner or occupier of any premises, vessel or aircraft, as the case may be, the Director-General may, if he thinks fit, obtain an undertaking from such owner or occupier for the payment of such instalments as will be sufficient to defray the whole amount of such costs and expenses.
 
 (2) Upon default in payment of any instalment upon the date appointed for payment thereof by any such undertaking, the whole of the balance then outstanding of such amount shall immediately become due and payable and, notwithstanding any change in the ownership or occupation of the premises, vessel or aircraft since the date of the undertaking, may be recovered by the same means and in the like manner as provided in section 41.
 
+### Fees, etc., payable to Agency
+
+42A\. All fees, charges, composition fines and moneys collected under this Act or the regulations shall be paid to the Agency.
+
+[4/2002 wef 01/07/2002]
+
 ### Liability of transferor of property
 
-43\. Where a person sells or transfers any property in respect of which costs and expenses have been incurred by the Government in or about the execution of any works required to be done under this Act or the regulations and the costs and expenses are recoverable under this Act from the owner thereof, the person shall continue to be liable for the payment of all the costs and expenses payable in respect of the property and for the performance of all other obligations imposed by this Act or the regulations upon the owner of the property which became payable or were required to be performed prior to the transfer.
+43\. Where a person sells or transfers any property in respect of which costs and expenses have been incurred by the Agency in or about the execution of any works required to be done under this Act or the regulations and the costs and expenses are recoverable under this Act from the owner thereof, the person shall continue to be liable for the payment of all the costs and expenses payable in respect of the property and for the performance of all other obligations imposed by this Act or the regulations upon the owner of the property which became payable or were required to be performed prior to the transfer.
 
 ### Persons unable to meet necessary expenditure
 
-44\. If it appears to the Commissioner after due enquiry that any person has not the means to meet the necessary expenses of doing anything required to be done by him under this Act or the regulations, the necessary expenses may be paid out of the Consolidated Fund.
+44\. If it appears to the Director-General after due enquiry that any person has not the means to meet the necessary expenses of doing anything required to be done by him under this Act or the regulations, the necessary expenses may be paid out of the funds of the Agency.
 
-### Obstructing or hindering Commissioner , etc., in performance of duties
+### Obstructing or hindering Director-General, etc., in performance of duties
 
-45\. Any person who obstructs or hinders the Commissioner or any public health officer, police officer or authorised officer or any other person acting under the direction of the Commissioner , in the performance or execution of his duty or anything which he is authorised, empowered or required to do under this Act or the regulations shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 months or to both.
+45\. Any person who obstructs or hinders the Director-General or any police officer or authorised officer or any other person acting under the direction of the Director-General, in the performance or execution of his duty or anything which he is authorised, empowered or required to do under this Act or the regulations shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 months or to both.
 
 ### Notice to attend court
 
-46\.—(1) Where it appears to the Commissioner or any public health officer, police officer or authorised officer that any person has committed an offence under this Act or the regulations, the Commissioner, public health officer, police officer or authorised officer may, in his discretion, serve upon the person a notice in such form as may be prescribed requiring the person to attend at the court, at the hour and on the date specified in the notice.
+46\.—(1) Where it appears to the Director-General or any police officer or authorised officer that any person has committed an offence under this Act or the regulations, the Director-General, police officer or authorised officer may, in his discretion, serve upon the person a notice in such form as may be prescribed requiring the person to attend at the court, at the hour and on the date specified in the notice.
 
-(2) The Commissioner, public health officer, police officer or authorised officer shall prepare a duplicate of the notice referred to in subsection (1) and, if so required by a court, produce the same to the court.
+(2) The Director-General, police officer or authorised officer shall prepare a duplicate of the notice referred to in subsection (1) and, if so required by a court, produce the same to the court.
 
 (3) On an accused person appearing before a court in pursuance of such a notice, the court shall take cognizance of the offence alleged and shall proceed as though he were produced before the court in pursuance of section 136 of the Criminal Procedure Code (Cap. 68).
 
@@ -834,13 +852,13 @@ MISCELLANEOUS
 
 ### Power of arrest
 
-47\.—(1) The Commissioner or any public health officer, police officer or authorised officer may arrest without warrant any person committing in his view or who he has reason to believe has committed any offence under this Act or the regulations if —
+47\.—(1) The Director-General, police officer or authorised officer may arrest without warrant any person committing in his view or who he has reason to believe has committed any offence under this Act or the regulations if —
 
 (a) the name and address of the person are unknown to him;
 
 (b) the person omits or refuses to give his name and address or to furnish such other proof of identity as may be required; or
 
-(c) the person gives a name or an address or any proof of identity which the Commissioner, public health officer, police officer or authorised officer, as the case may be, has reason to believe is false.
+(c) the person gives a name or an address or any proof of identity which the Director-General, police officer or authorised officer, as the case may be, has reason to believe is false.
 
 (2) A person arrested under this section may be detained until his name and address are correctly ascertained.
 
@@ -848,9 +866,9 @@ MISCELLANEOUS
 
 ### Person charged with offence to furnish particulars if required
 
-48\.—(1) Any person who is charged by the Commissioner or any public health officer, police officer or authorised officer with any offence under this Act or the regulations shall give his name and address and such other proof of identity to the Commissioner, public health officer, police officer or authorised officer, if so required.
+48\.—(1) Any person who is charged by the Director-General, police officer or authorised officer with any offence under this Act or the regulations shall give his name and address and such other proof of identity to the Director-General, police officer or authorised officer, if so required.
 
-(2) The occupier of any premises, vessel or aircraft shall, if required by the Commissioner or any public health officer , police officer or authorised officer, give his name and other proof of identity and the name and address of the owner of the premises, vessel or aircraft, if known.
+(2) The occupier of any premises, vessel or aircraft shall, if required by the Director-General, police officer or authorised officer, give his name and other proof of identity and the name and address of the owner of the premises, vessel or aircraft, if known.
 
 (3) Any person who contravenes this section or wilfully mis-states his name and address or the name and address of the owner of any premises, vessel or aircraft shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
 
@@ -872,31 +890,31 @@ MISCELLANEOUS
 
 ### Forfeiture
 
-52\. Where any person is convicted of any offence under this Act or the regulations, the court may order that any article seized under this Act or the regulations be forfeited to the Government and may further order that such article be disposed of, under the direction of the Commissioner , by the person convicted at his own expense.
+52\. Where any person is convicted of any offence under this Act or the regulations, the court may order that any article seized under this Act or the regulations be forfeited to the Agency and may further order that such article be disposed of, under the direction of the Director-General, by the person convicted at his own expense.
 
 ### Composition of offences
 
-53\.—(1) The Commissioner or any officer authorised in writing in that behalf by the Minister may, in his discretion, compound any offence under this Act or the regulations which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum of money not exceeding $5,000.
+53\.—(1) The Director-General or any officer authorised in writing in that behalf by the Agency may, in his discretion, compound any offence under this Act or the regulations which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum of money not exceeding $5,000.
 
 (2) On payment of such sum of money, no further proceedings shall be taken against such person in respect of the offence.
 
 ### Protection from personal liability
 
-54\. No suit or other legal proceedings shall lie against the Commissioner or any public health officer or authorised officer or any other person acting under the direction of the Commissioner for anything which is in good faith done in the execution or purported execution of this Act or the regulations.
+54\. No suit or other legal proceedings shall lie against the Director-General or authorised officer or any other person acting under the direction of the Director-General for anything which is in good faith done in the execution or purported execution of this Act or the regulations.
 
 ### Receipts, notices, etc.
 
-55\.—(1) All notices, orders, receipts, warrants and other documents of whatsoever nature which the Commissioner is empowered to give by this Act or the regulations may be given —
+55\.—(1) All notices, orders, receipts, warrants and other documents of whatsoever nature which the Director-General is empowered to give by this Act or the regulations may be given —
 
-(a) in such form as the Commissioner may determine; and
+(a) in such form as the Director-General may determine; and
 
-(b) by any public health officer or authorised officer.
+(b) by any authorised officer.
 
 (2) Where any such notice, order, receipt, warrant or document requires authentication —
 
-(a) the signature of the Commissioner, public health officeror authorised officer; or
+(a) the signature of the Director-General or authorised officer; or
 
-(b) a facsimile of the signature of the Commissioner, public health officeror authorised officer,
+(b) a facsimile of the signature of the Director-General or authorised officer,
 
 appended thereto shall be sufficient authentication.
 
@@ -952,13 +970,13 @@ not less than 10 clear days before the commencement of the proceedings.
 
 ### Exemption
 
-59\. The Commissioner may, in his discretion, either permanently or for such period as he may think fit, exempt any person, premises, vessel or aircraft or any class of persons, premises, vessel or aircraft from any of the provisions of this Act or the regulations.
+59\. The Agency may, subject to the general or special directions of the Minister, either permanently or for such period as the Agency thinks fit, exempt any person, premises, vessel or aircraft or any class of persons, premises, vessel or aircraft from any of the provisions of this Act or the regulations.
 
 ### Regulations
 
-60\.—(1) The Minister may make regulations for carrying out the purposes of this Act and for any matter which is required under this Act to be prescribed.
+60\.—(1) The Agency may, with the approval of the Minister, make regulations for carrying out the purposes of this Act and for any matter which is required under this Act to be prescribed.
 
-(2) Without prejudice to the generality of subsection (1), the Minister may make regulations —
+(2) Without prejudice to the generality of subsection (1), the Agency may, with the approval of the Minister, make regulations —
 
 (a) prescribing the particulars, information and documents to be furnished with any application made under this Act;
 
@@ -972,7 +990,7 @@ not less than 10 clear days before the commencement of the proceedings.
 
 (f) prescribing the duties and obligations of registered vector control operators, licensed and provisionally licensed vector control technicians and certified and provisionally certified vector control workers;
 
-(g) providing for the powers and duties of the Commissioner or any public health officer or authorised officer under this Act;
+(g) providing for the powers and duties of the Director-General or authorised officer under this Act;
 
 (h) prohibiting, controlling or regulating the carrying out of any type of vector control work or the use of any type of pesticide for the purpose of vector control;
 
@@ -992,7 +1010,7 @@ not less than 10 clear days before the commencement of the proceedings.
 
 (p) prescribing the offences which may be compounded and the method and procedure by which such offences may be compounded.
 
-(3) The Minister may, in making any regulations, provide that any contravention of, or failure or neglect to comply with any regulations shall be an offence and may prescribe the fine with which such offence shall be punishable, except that no such fine shall exceed for any one offence, the sum of $10,000 and, in the case of a continuing offence, the sum of $500 for every day or part thereof during which such offence continues after conviction.
+(3) The Agency may, with the approval of the Minister, in making any regulations, provide that any contravention of, or failure or neglect to comply with any regulations shall be an offence and may prescribe the fine with which such offence shall be punishable, except that no such fine shall exceed for any one offence, the sum of $10,000 and, in the case of a continuing offence, the sum of $500 for every day or part thereof during which such offence continues after conviction.
 
 (4) All regulations made under this Act shall be presented to Parliament as soon as possible after publication in theGazette.
 
@@ -1001,6 +1019,12 @@ not less than 10 clear days before the commencement of the proceedings.
 61\.—(1) Any appointment, document, permission, resolution or scheme relating to any matter dealt with under this Act which was made, granted or approved under the repealed Destruction of Disease-Bearing Insects Act (Cap. 79) shall, except where otherwise expressly provided in this Act or in any other written law, continue and be deemed to have been made, granted or approved, as the case may be, under this Act.
 
 (2) Any form used for the purposes of the repealed Destruction of Disease-Bearing Insects Act which was in force or effected immediately before 1st September 1998 shall continue in force and have effect as though prescribed under this Act until new forms are so prescribed.
+
+### Transitional provision
+
+62\. Any licence, permit, document, application, approval, permission, order, direction, ruling or notice issued, made, given or approved by the Commissioner of Public Health under any provision of this Act immediately before the date of commencement of the National Environment Agency Act 2002 shall be deemed to have been issued, made, given or approved under the same provision by the Director-General.
+
+[4/2002 wef 01/07/2002]
 
 ## LEGISLATIVE HISTORY
 
@@ -1018,3 +1042,8 @@ This Legislative History is provided for the convenience of users of the Control
 ||Date of commencement|1 September 1998|
 |2.|**1999 Revised Edition—Control of Vectors and Pesticides Act**|
 ||Date of operation|30 December 1999|
+|3.|**Act 4 of 2002—National Environment Agency Act 2002**|
+||(Consequential amendments made by)||
+||Date of First Reading|3 May 2002 (Bill No. 13/2002 published on 4 May 2002)|
+||Date of Second and Third Readings|24 May 2002|
+||Date of commencement|1 July 2002|
