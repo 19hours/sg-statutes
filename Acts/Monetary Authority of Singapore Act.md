@@ -70,6 +70,8 @@
 
 - [27 Power to issue directions to financial institutions](#Power-to-issue-directions-to-financial-institutions)
 
+- [27A Directions to discharge Government’s international obligations](#Directions-to-discharge-Government’s-international-obligations)
+
 - [28 Power to approve financial institutions and control their operations](#Power-to-approve-financial-institutions-and-control-their-operations)
 
 - [29 Fees](#Fees)
@@ -546,6 +548,18 @@ and in either event, the Authority shall thereupon issue a direction in writing 
 
 [31/72; 26/84]
 
+### Directions to discharge Government’s international obligations
+
+27A\.—(1) The Authority may, from time to time, issue such directions to a financial institution or class of financial institutions as the Authority considers necessary in order to discharge or facilitate the discharge of any obligation binding on Singapore by virtue of a decision of the Security Council of the United Nations.
+
+(2) A financial institution to which a direction is issued shall comply with it notwithstanding any other duty imposed on the financial institution by any rule of law, written law or contract; and the financial institution shall not in carrying out any act in compliance with the direction be treated as being in breach of any such rule of law, written law or contract.
+
+(3) A financial institution shall not disclose any direction issued to it if the Authority notifies the financial institution that the Authority is of the opinion that the disclosure of the direction is against the public interest.
+
+(4) A financial institution which fails or refuses to comply with a direction issued to it, or which discloses a direction issued to it in contravention of subsection (3), shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000.
+
+[28/2000 wef 01/11/2000]
+
 ### Power to approve financial institutions and control their operations
 
 28\.—(1) The Authority may require any financial institution or class or classes of financial institutions whose operations are considered by the Authority to affect —
@@ -798,8 +812,6 @@ MISCELLANEOUS
 
 (b) make and do all acts and applications in respect of such proceedings on behalf of the Authority.
 
-[2/2000 wef 06/03/2000]
-
 ### Immunity of Authority from defamation suits
 
 40\.—(1) The Authority shall not, in the absence of malice on its part, be liable to any action for defamation at the suit of any person in respect of any statements made in the discharge of any of its functions under this Act whether the statements are made orally or in writing.
@@ -891,6 +903,11 @@ This Legislative History is provided for the convenience of users of the Monetar
 |||(Bill No. 40/1999 published on 3 March 2000)|
 ||Date of Second and Third Readings|17 January 2000|
 ||Date of commencement|6 March 2000|
+|13.|**Act 28 of 2000—Statutes (Miscellaneous Amendments and Repeal) Act 2000**|
+||Date of First Reading|25 August 2000|
+|||(Bill No. 22/2000 published on 27 October 2000)|
+||Date of Second and Third Readings|9 October 2000|
+||Date of commencement|1 November 2000|
 ## COMPARATIVE TABLE
 
 Monetary Authority of Singapore Act
