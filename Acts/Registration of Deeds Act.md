@@ -94,6 +94,10 @@ An Act relating to the registration of deeds.
 
 “assurance” includes any conveyance, memorandum of charge or discharge, deed of consent to the discharge of a trustee, private Act, order of court or certificate of appointment of trustee in bankruptcy;
 
+“Authority” means the Singapore Land Authority established under the Singapore Land Authority Act 2001;
+
+[17/2001 wef 01/06/2001]
+
 “caveatee” means —
 
 (a) the proprietor of any land who has given an estate or interest in his land to a person named in a caveat; or
@@ -112,7 +116,9 @@ An Act relating to the registration of deeds.
 
 (a) the surface of any defined parcel of the earth, all substances thereunder and so much of the column of airspace above the surface whether or not held apart from the surface as is reasonably necessary for the use and enjoyment of the proprietor, and includes any estate or interest therein and all vegetation growing thereon and structures affixed thereto; or
 
-(b) any parcel of airspace or any subterranean space held apart from the surface of the earth and described with certainty by reference to a plan approved by the Chief Surveyor and filed in the Survey Department, and includes any estate or interest therein and all vegetation growing thereon and structures affixed thereto,
+(b) any parcel of airspace or any subterranean space held apart from the surface of the earth and described with certainty by reference to a plan approved by the Chief Surveyor and filed with the Authority, and includes any estate or interest therein and all vegetation growing thereon and structures affixed thereto,
+
+[17/2001 wef 01/06/2001]
 
 and where the context so permits, the proprietorship of land includes natural rights to air, light, water and support and the right of access to any highway on which the land abuts;
 
@@ -132,13 +138,15 @@ and where the context so permits, the proprietorship of land includes natural ri
 
 “registered surveyor” means a person who is registered under the Land Surveyors Act 1991 and has in force a practising certificate issued under that Act;
 
-[Act 24/1991 wef 30/08/1991]
+[Act 24/91 wef 30/08/1991]
 
 “Registrar” means the Registrar of Deeds and includes any Deputy Registrar of Deeds appointed under this Act;
 
-“Registry” means the Registry of Deeds;
+“Registry” means the Registry of Deeds of the Authority;
 
-“repealed enactment” means the Registration of Deeds Ordinance 1886 [XIII 1886] or the Registration of Deeds Act [Cap. 269] which is repealed by this Act;
+[17/2001 wef 01/06/2001]
+
+“repealed enactment” means the Registration of Deeds Ordinance 1886 [XIII 1886] or the Registration of Deeds Act [Cap. 269, 1985. Ed] which is repealed by this Act;
 
 “rules” means rules made under this Act;
 
@@ -148,9 +156,9 @@ and where the context so permits, the proprietorship of land includes natural ri
 
 “will” includes a codicil.
 
-(2) In this Act, any reference to a plan certified by a registered surveyor shall, in relation to a plan certified at any time prior to 1st September 19721, be construed as a reference to a plan which was certified by a surveyor licensed under any written law which was in force at the time that plan was certified.
+(2) In this Act, any reference to a plan certified by a registered surveyor shall, in relation to a plan certified at any time prior to 1st September 1972\*, be construed as a reference to a plan which was certified by a surveyor licensed under any written law which was in force at the time that plan was certified.
 
-1Commencement of the Land Surveyors Act (Cap. 156, 1985 Ed.).
+\*Commencement of the Land Surveyors Act (Cap. 156, 1985 Ed.).
 
 ### Appointment of Registrar, etc.
 
@@ -222,7 +230,7 @@ and where the context so permits, the proprietorship of land includes natural ri
 
 (b) a description of the estate or interest in the land given to or claimed by the caveator and, if the caveator is the purchaser or sub-purchaser of the estate or interest claimed in the caveat, the amount of the purchase price and the date of the caveator’s contract or the date on which he exercised the option to purchase the interest in the land, as the case may be.
 
-[Act 27 of 1993 wef 01/03/1994]
+[Act 27/93 wef 01/03/1994]
 
 (3) Where a part of a Government survey lot is affected, the caveat shall have a plan annexed edging with sufficient identity that part of the lot affected.
 
@@ -364,9 +372,11 @@ and where the context so permits, the proprietorship of land includes natural ri
 
 (a) if the prior mortgage authorises the making of further advances, or the giving of credit in instalments or on a current, revolving or continuing account or other accommodation; or
 
+[Act 27/93 wef 01/03/1994]
+
 (b) where the prior mortgage does not expressly authorise the making of such further advances, or for the giving of credit in instalments or on a current, revolving or continuing account or other accommodation, if the subsequent mortgagee agrees to such further advances being made or such credit or other accommodation being given.
 
-[Act 27/1993 wef 01/03/1994]
+[Act 27/93 wef 01/03/1994]
 
 (2) Except as provided in this section, the right to tack shall not apply to mortgages.
 
@@ -504,11 +514,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 28\.—(1) The Registrar shall not be required to do any act or permit any act to be done in respect of which any fee is specified or fixed except on payment of that fee.
 
-(2) All fees taken by the Registrar under this Act shall be accounted for by him and paid into the Consolidated Fund.
+(2) All fees collected under or in connection with any service provided by the Registrar under this Act or any rules made thereunder shall be paid into the funds of the Authority.
+
+[17/2001 wef 01/06/2001]
 
 ### Rules
 
-29\.—(1) The Minister may make rules with respect to all or any of the following matters:
+29\.—(1) The Authority may make rules with respect to all or any of the following matters:
 
 (a) the form of the register and the mode in which it is to be made and kept;
 
@@ -522,9 +534,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (f) the making of searches and the giving of certified copies and prescribing the fees therefor;
 
-(g) prescribing the fees for any matter or thing done under this Act;
+(g) [Deleted by Act 17/2001 wef 01/06/2001]
 
-(h) the penalties or additional fees to be taken by the Registrar for delay in removing instruments after registration;
+(h) [Deleted by Act 17/2001 wef 01/06/2001]
 
 (i) the custody of the register and other documents connected with the business of registration;
 
@@ -532,11 +544,21 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (k) exempting instruments relating to land intended to form part of street or back lanes from any of the provisions of this Act, and prescribing the mode in which such instruments may be registered;
 
-(l) enabling the Registrar in his discretion to dispense with section 13(1)(c) when he considers it desirable to do so;
+(l) enabling the Registrar in his discretion to dispense with the requirements of section 13(1)(c) when he considers it desirable to do so;
 
 (m) the persons by whom and the manner in which any memorandum of discharge shall be signed;
 
 (n) generally to carry into effect the objects of this Act.
+
+[17/2001 wef 01/06/2001]
+
+(1A) The Authority, with the approval of the Minister, may make rules prescribing —
+
+(a) the fees for any matter or thing done under this Act; or
+
+(b) the penalties or additional fees to be taken by the Registrar for delay in removing instruments after registration.
+
+[17/2001 wef 01/06/2001]
 
 (2) All rules made under this Act shall be published in theGazette.
 
@@ -548,7 +570,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Transitional provision
 
-31\.—(1) Any register, instrument, index or other document maintained under the repealed Registration of Deeds Act shall be continued to be maintained under a corresponding provision of this Act or any of the rules.
+31\.—(1) Any register, instrument, index or other document maintained under the repealed Registration of Deeds Act [Cap. 269, 1985 Ed.] shall be continued to be maintained under a corresponding provision of this Act or any of the rules.
 
 (2) In so far as any entry in a register or instrument was made or other thing whatsoever was done under the repealed Registration of Deeds Act, that entry or thing shall have effect as if made or done under a corresponding provision of this Act or any of the rules.
 
@@ -566,7 +588,7 @@ Registration of Deeds Act
 
 (CHAPTER 269)
 
-This Legislative History is provided for the convenience of users of the Registration of Deeds Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Registration of Deeds Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -589,3 +611,9 @@ This Legislative History is provided for the convenience of users of the Registr
 |||(Bill No. 36/1992 published on 17 November 1992)|
 ||Date of Second and Third Readings|30 August 1993|
 ||Date of commencement|1 March 1994|
+|5.|**Act 17 of 2001—Singapore Land Authority Act 2001**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|5 March 2001|
+|||(Bill No. 17/2001 published on 6 March 2001)|
+||Date of Second and Third Readings|19 April 2001|
+||Date of commencement|1 June 2001|
