@@ -1233,7 +1233,7 @@ the professional fund-raiser or commercial participator concerned shall, within 
 
 “prescribed amount” means such sum in cash as the Minister may, by notification in theGazette, prescribe for the purposes of subsection (4);
 
-“telecommunication system” has the same meaning as in the Telecommunication Authority of Singapore Act [Cap. 323].
+“telecommunication system” has the same meaning as in the Telecommunications Act 1999.
 
 ### Cancellation of payments and agreements made in response to appeals
 
@@ -1496,3 +1496,9 @@ This Legislative History is provided for the convenience of users of the Chariti
 ||Date of commencement|1 January 1995 (except Part VII)|
 |2.|**1995 Revised Edition—Charities Act (Chapter 37)**|
 ||Date of operation|15 March 1995|
+|3.|**Act 43 of 1999—Telecommunications Act 1999**|
+||(Consequential amendments made by)||
+||Date of First Reading|11 October 1999|
+|||(Bill No. 33/1999 published on 12 October 1999)|
+||Date of Second and Third Readings|23 November 1999|
+||Date of commencement|1 December 1999|
