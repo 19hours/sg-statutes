@@ -869,3 +869,8 @@ This Legislative History is provided for the convenience of users of the Crimina
 ||Date of commencement|2 October 1992|
 |33.|**G. N. No. S 278/1994—Criminal Law (Temporary Provisions) Act (Amendment of First Schedule) Notification 1994**|
 ||Date of commencement|1 July 1994|
+|34.|**Act 16 of 1994—Criminal Law (Temporary Provisions) (Amendment) Act 1994**|
+||Date of First Reading|25 July 1994|
+|||(Bill No. 19/1994 published on 29 July 1994)|
+||Date of Second and Third Readings|25 August 1994|
+||Date of commencement|21 October 1994|
