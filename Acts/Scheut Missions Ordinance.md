@@ -22,7 +22,7 @@
 
 - [6 Execution of deeds, etc.](#Execution-of-deeds-etc)
 
-- [7 Saving of Crown and other rights](#Saving-of-Crown-and-other-rights)
+- [7 Saving of Government and other rights](#Saving-of-Government-and-other-rights)
 
 [**FIRST SCHEDULE A**](#FIRST-SCHEDULE-A)
 
@@ -88,9 +88,11 @@ It is hereby enacted by the Governor of the Straits Settlements with the advice 
 
 (2) Such signing shall be taken as sufficient evidence of the due sealing of such deed, document, or other instrument.
 
-### Saving of Crown and other rights
+### Saving of Government and other rights
 
-7\. Nothing in this Ordinance shall affect the rights of Her Majesty, or of any bodies politic or corporate, or of any other persons except such as are mentioned in this Ordinance, and those claiming by, from or under them.
+7\. Nothing in this Ordinance shall affect the rights of the Government, or of any bodies politic or corporate, or of any other persons except such as are mentioned in this Ordinance, and those claiming by, from or under them.
+
+[7/97 wef 01/10/1997]
 
 SCHEDULE A
 
@@ -132,3 +134,9 @@ This Legislative History is provided for the convenience of users of the Scheut 
 ||Date of commencement|23 August 1985|
 |5.|**1985 Revised Edition—Scheut Missions Ordinance**|
 ||Date of operation|30 March 1987|
+|6.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
+||Date of First Reading|11 July 1997|
+|||(Bill No. 6/1997 published on 12 July 1997)|
+||Date of Second and Third Readings|25 August 1997|
+||Dates of commencement|1 October 1997|
+|||(item (32) in the First Schedule)|
