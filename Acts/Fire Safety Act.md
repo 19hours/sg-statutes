@@ -8,7 +8,7 @@
 
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -17,6 +17,8 @@
 - [4 Register of registered inspectors](#Register-of-registered-inspectors)
 
 - [5 Registration of registered inspectors](#Registration-of-registered-inspectors)
+
+- [5A Cancellation of registration and suspension from practice](#Cancellation-of-registration-and-suspension-from-practice)
 
 - [6 Independence of registered inspectors](#Independence-of-registered-inspectors)
 
@@ -156,13 +158,13 @@
 
 - [61 Regulations](#Regulations)
 
-- [62 Repeal, amendments and transitional provisions](#Repeal-amendments-and-transitional-provisions)
+- [62 Transitional provisions](#Transitional-provisions)
 
-[**FIRST SCHEDULE Dangerous Trades or Purposes**](#FIRST-SCHEDULE-Dangerous-Trades-or-Purposes)
-
-[**SECOND SCHEDULE Consequential Amendments**](#SECOND-SCHEDULE-Consequential-Amendments)
+[**THE SCHEDULE Dangerous Trades or Purposes**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
+
+[**Comparative Table**](#Comparative-Table)
 
 # Fire Safety Act
 
@@ -170,39 +172,41 @@
 
 (Original Enactment: Act 39 of 1993)
 
-REVISED EDITION 1994
+REVISED EDITION 2000
 
-(15th March 1994)
+(30th December 2000)
 
 An Act to make provisions for fire safety and for matters connected therewith.
 
-[8th April 1994]
+[8th April 1994 (except Part VI, sections 60 and 62);
+
+29th April 1994: Part VI, sections 60 and 62 ]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\.—(1) This Act may be cited as the Fire Safety Act and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
-
-(2) The Minister may appoint different dates for the coming into operation of the different provisions of this Act.
+1\. This Act may be cited as the Fire Safety Act.
 
 ### Interpretation
 
 2\.—(1) In this Act, unless the context otherwise requires —
 
-“building” has the same meaning as in the Building Control Act [Cap. 29];
+“building” has the same meaning as in the Building Control Act (Cap. 29);
 
 “building works” has the same meaning as in the Building Control Act;
 
-“Commissioner” means the Commissioner of Civil Defence appointed under section 6 of the Civil Defence Act [Cap. 42];
+“Commissioner” means the Commissioner of Civil Defence appointed under section 6 of the Civil Defence Act (Cap. 42);
 
 “fire hazard” means any matter or circumstance which materially increases the likelihood of fire or the danger to life or property that would result from the outbreak of fire and includes —
 
 (a) any alteration to any building in contravention of any law relating to building works or fire safety works such as might render escape in the event of fire more difficult;
 
-(b) the overcrowding of any place of public resort such as might render escape in the event of fire more difficult;
+(b) the overcrowding of any place of public resortsuch as might render escape in the event of fire more difficult;
+
+[7/2004 wef 15/04/2004]
 
 (c) any removal from any building of any fire safety measure which was provided in such building in accordance with plans approved by the Commissioner under section 23;
 
@@ -210,11 +214,15 @@ PRELIMINARY
 
 (e) the obstruction of escape routes, passageways or common property of any building such as might render escape in the event of fire more difficult; and
 
+[47/2004 wef 01/04/2005]
+
 (f) any other matter or circumstance which would materially hamper the Force in the discharge of its duties in the event of fire;
+
+“fire hazard abatement notice” means a notice in writing issued by the Commissioner under section 13(1);
 
 “fire protection system” includes any installation, equipment or works manufactured, used or designed to be used for the purposes of —
 
-(a) extinguishing, attacking, preventing or limiting a fire and its by product; or
+(a) extinguishing, attacking, preventing or limiting a fire and its by-product; or
 
 (b) giving warning of a fire;
 
@@ -232,7 +240,7 @@ PRELIMINARY
 
 “fire safety works” means any fire protection works, fire safety measures or minor works;
 
-“Force” has the same meaning as in the Civil Defence Act [Cap. 42];
+“Force” has the same meaning as in the Civil Defence Act (Cap. 42);
 
 “member” has the same meaning as in the Civil Defence Act and includes any public officer serving in the Force as engineering or technical staff;
 
@@ -244,17 +252,25 @@ PRELIMINARY
 
 “occupier”, in relation to any premises, means the person in occupation of any premises or having the charge, management or control thereof and, in relation to any part of any premises different parts of which are occupied by different persons, means the person in occupation or having the charge, management or control of that part;
 
-“officer” has the same meaning as in the Civil Defence Act and includes any public officer serving in the Force as engineering or technical officer;
+“officer” has the same meaning as in the Civil Defence Act (Cap. 42) and includes any public officer serving in the Force as engineering or technical officer;
 
 “owner” —
 
-(a) in relation to any premises, includes any mortgagee in possession and any person for the time being receiving the rent of the premises whether on his own account or as agent or trustee or as receiver, or who would receive the same if the premises were let to a tenant, and any person whose name is entered in the Valuation List authenticated under section 15 of the Property Tax Act [Cap. 254] as the owner of the premises;
+(a) in relation to any premises, includes any mortgagee in possession and any person for the time being receiving the rent of the premises whether on his own account or as agent or trustee or as receiver, or who would receive the same if the premises were let to a tenant, and any person whose name is entered in the Valuation List authenticated under section 15 of the Property Tax Act (Cap. 254) as the owner of the premises;
 
 (b) in relation to the common property of any building erected on land comprised in a strata subdivision plan approved by the competent authority, means the management corporation having control of the building;
 
 (c) in respect of any fire safety measure, includes the occupier or the owner of the premises in or on which the fire safety measure is installed or kept;
 
-“place of public resort” means a building or a defined or enclosed place used or constructed or adapted to be used either ordinarily or occasionally as a church, chapel, mosque, temple or other place where public worship is or religious ceremonies are performed, not being merely a dwelling-house so used, or as a cinema, theatre, public hall, public concert room, public ballroom, public lecture room, or public exhibition room, club, association, restaurant, hotel, coffee house, eating house or milk bar, or as a public place of assembly for persons admitted thereto by ticket or otherwise or used or constructed or adapted to be used either ordinarily or occasionally for any other public purpose;
+“place of public resort” means a building or a defined or enclosed place used or constructed or adapted to be used ordinarily or occasionally —
+
+(a) as a church, chapel, mosque, temple or other place where public worship is or religious ceremonies are performed, not being merely a dwelling-house so used;
+
+(b) as a cinema, theatre, public hall, public concert room, public ballroom, public lecture room, or public exhibition room, club, association, restaurant, hotel, coffee house, eating house or milk bar;
+
+(c) as a public place of assembly for persons admitted thereto by ticket or otherwise; or
+
+(d) for any other public purpose;
 
 “premises” includes messuages, houses, buildings, lands, tenements, easements and hereditaments of any tenure, whether open or enclosed, whether built or not, whether public or private, and whether or not maintained under statutory authority;
 
@@ -262,15 +278,17 @@ PRELIMINARY
 
 “qualified person” means a person who is registered as —
 
-(a) an architect under the Architects Act [Cap. 12] and has in force a practising certificate issued under that Act; or
+(a) an architect under the Architects Act (Cap. 12) and has in force a practising certificate issued under that Act; or
 
-(b) a professional engineer under the Professional Engineers Act [Cap. 253] and has in force a practising certificate issued under that Act;
+(b) a professional engineer under the Professional Engineers Act (Cap. 253) and has in force a practising certificate issued under that Act;
+
+“register of registered inspectors” means the register kept and maintained under section 4(1);
 
 “registered inspector” means a person who is registered as a registered inspector under section 5;
 
 “street” has the same meaning as in the Street Works Act (Cap. 320A).
 
-[5/2000 wef 01/04/2000]
+[5/2000]
 
 (2) In this Act, unless the context otherwise requires, any reference to a building includes a reference to a part of a building.
 
@@ -288,7 +306,7 @@ PRELIMINARY
 
 (b) generally or specially authorised by name or office by the Commissioner.
 
-(3) The Commissioner may authorise any qualified person in writing to carry out the duties and responsibilities or exercise all or any of the powers of the Commissioner under this Act or any regulations made thereunder subject to subsection (4) and such conditions or limitations as the Commissioner may specify.
+(3) The Commissioner may authorise any qualified person in writing to carry out the duties and responsibilities or exercise all or any of the powers of the Commissioner under this Act or any regulations made thereunder, subject to subsection (4) and such conditions or limitations as the Commissioner may specify.
 
 (4) The duties, responsibilities and powers which the Commissioner may authorise any qualified person to carry out or exercise under subsection (3) shall be such as may be approved by the Minister in writing.
 
@@ -296,11 +314,11 @@ PRELIMINARY
 
 (a) a public officer for the purposes of this Act; and
 
-(b) a public servant for the purposes of the Penal Code [Cap. 224].
+(b) a public servant for the purposes of the Penal Code (Cap. 224).
 
 ### Register of registered inspectors
 
-4\.—(1) The Commissioner shall keep and maintain a register (referred to in this section and section 5 as the register of registered inspectors) in which shall be entered the names and prescribed particulars of all persons registered under section 5 as registered inspectors.
+4\.—(1) The Commissioner shall keep and maintain a register in which shall be entered the names and prescribed particulars of all persons registered under section 5 as registered inspectors.
 
 (2) The register of registered inspectors shall be kept and maintained at the office of the Commissioner and shall be available for inspection by any person without charge at such time as that office is open for business.
 
@@ -316,7 +334,9 @@ PRELIMINARY
 
 (5) Where the Commissioner has registered a person as a registered inspector, the Commissioner shall issue to the person a certificate of registration.
 
-(6) Without prejudice to section 6C(7), the Commissioner may by order cancel the registration of any registered inspector or suspend him from practice for a period not exceeding 12 months under any of the following circumstances:
+### Cancellation of registration and suspension from practice
+
+5A\.—(1) Without prejudice to section 6C(7), the Commissioner may by order cancel the registration of any registered inspector or suspend him from practice for a period not exceeding 12 months under any of the following circumstances:
 
 (a) if he is deceased;
 
@@ -328,23 +348,29 @@ PRELIMINARY
 
 (e) if he has procured his registration by fraud or misrepresentation.
 
-[5/2000 wef 01/04/2000]
+[7/2004 wef 01/07/2004]
 
-(6A) The Commissioner may, if he considers that no cause of sufficient gravity for cancellation of registration or suspension from practice exists, by writing censure the registered inspector.
+[5/2000]
 
-[5/2000 wef 01/04/2000]
+(2) The Commissioner may, if he considers that no cause of sufficient gravity for cancellation of registration or suspension from practice exists, by writing censure the registered inspector.
 
-(6B) The Commissioner shall not exercise his powers under subsection (6)(b), (c), (d) or (e) or (6A) unless an opportunity of being heard has been given to the registered inspector against whom the Commissioner intends to exercise his powers.
+[5/2000]
 
-[5/2000 wef 01/04/2000]
+(3) The Commissioner shall not exercise his powers under subsection (1)(b), (c), (d) or (e)or (2) unless an opportunity of being heard has been given to the registered inspector against whom the Commissioner intends to exercise his powers.
 
-(7) Where a registered inspector has been suspended from practice under subsection (6), the Commissioner shall, within one month of the expiry of such suspension, restore the name and particulars of that registered inspector to the register of registered inspectors and issue to him a fresh certificate of registration.
+[7/2004 wef 01/07/2004]
 
-[5/2000 wef 01/04/2000]
+[5/2000]
 
-(8) Any person whose application for registration as a registered inspector is refused, or who is dissatisfied with the decision of the Commissioner under subsection (6), may, within 14 days of being notified in writing of the refusal or the decision, appeal to the Minister whose decision shall be final.
+(4) Where a registered inspector has been suspended from practice under subsection (1), the Commissioner shall, within one month of the expiry of such suspension, restore the name and particulars of that registered inspector to the register of registered inspectors and issue to him a fresh certificate of registration.
 
-(8A) Where an appeal is made to the Minister within the period referred to in subsection (8), an order made by the Commissioner under subsection (6) shall, unless the Minister otherwise directs, not take effect unless —
+[7/2004 wef 01/07/2004]
+
+[5/2000]
+
+(5) Any person whose application for registration as a registered inspector is refused, or who is dissatisfied with the decision of the Commissioner under subsection (1), may, within 14 days of being notified in writing of the refusal or the decision, appeal to the Minister whose decision shall be final.
+
+(6) Where an appeal is made to the Minister within the period referred to in subsection (5), an order made by the Commissioner under subsection (1) shall, unless the Minister otherwise directs, not take effect unless —
 
 (a) it is confirmed by the Minister;
 
@@ -352,39 +378,43 @@ PRELIMINARY
 
 (c) the appellant withdraws the appeal.
 
-[5/2000 wef 01/04/2000]
+[5/2000]
 
-(8B) Before the Minister makes a decision to allow or dismiss an appeal, the Minister may refer the matter to an Appeal Advisory Board appointed under section 28.
+(7) Before the Minister makes a decision to allow or dismiss an appeal, the Minister may refer the matter to an Appeal Advisory Board appointed under section 28.
 
-[5/2000 wef 01/04/2000]
+[5/2000]
 
-(8C) The Minister may, in making his decision, have regard to any report made to him by the Appeal Advisory Board.
+(8) The Minister may, in making his decision, have regard to any report made to him by the Appeal Advisory Board.
 
-[5/2000 wef 01/04/2000]
+[5/2000]
 
-(8D) Where an order made by the Commissioner to cancel the registration of a registered inspector or suspend the registered inspector from practice has taken effect, the Commissioner shall —
+(9) Where an order made by the Commissioner to cancel the registration of a registered inspector or suspend the registered inspector from practice has taken effect, the Commissioner shall —
 
 (a) remove the name and particulars of the inspector concerned from the register of registered inspectors;
 
-(b) cancel any certificate of registration issued to the inspector concerned under subsection (5); and
+(b) cancel any certificate of registration issued to the inspector concerned under section 5(5); and
 
 (c) notify the inspector concerned accordingly.
 
-[5/2000 wef 01/04/2000]
+[5/2000]
 
-(8E) The inspector concerned shall, within 14 days of being notified of the removal of his name and particulars from the register of registered inspectors, surrender to the Commissioner the certificate of registration issued to him.
+(10) The inspector concerned shall, within 14 days of being notified of the removal of his name and particulars from the register of registered inspectors, surrender to the Commissioner the certificate of registration issued to him.
 
-[5/2000 wef 01/04/2000]
+[5/2000]
 
-(8F) Any person who fails to comply with subsection (8E) shall be guilty of an offence.
+(11) Any person who fails to comply with subsection (10) shall be guilty of an offence.
 
-[5/2000 wef 01/04/2000]
+[5/2000]
 
-(9) Any person whose name has been removed from the register of registered inspectors under subsection (6)(b), (c), (d) or (e) shall, if his appeal to the Minister is allowed, have his name reinstated forthwith.
+(12) Any person whose name has been removed from the register of registered inspectors under subsection (1)(b), (c), (d)or (e) shall, if his appeal to the Minister is allowed, have his name reinstated forthwith.
+
+[7/2004 wef 01/07/2004]
 
 ### Independence of registered inspectors
 
 6\.—(1) At the time of carrying out the duties and responsibilities or exercising all or any of the powers of the Commissioner under this Act or any regulations made thereunder as may be authorised by the Commissioner under section 3(3) or any regulations made under this Act, a registered inspector shall have no professional or financial interest in the building or any part thereof or in the building or fire safety works in respect of which the duties and responsibilities or powers are to be carried out or exercised.
+
+[7/2004 wef 15/04/2004]
 
 (2) A registered inspector shall be regarded as having a professional or financial interest in the building or any part thereof or in the building or fire safety works if —
 
@@ -414,7 +444,7 @@ shall not be regarded as constituting a professional or financial interest.
 
 ### Appointment of Inquiry Panel, etc.
 
-6A\.—(1) For the purpose of enabling an Inquiry Committee to be constituted in accordance with this section, the Commissioner shall appoint a panel (referred to as the Inquiry Panel) consisting of such numbers of —
+6A\.—(1) For the purpose of enabling an Inquiry Committee to be constituted in accordance with this section, the Commissionershall appoint a panel (referred to as the Inquiry Panel) consisting of such numbers of —
 
 (a) qualified persons who are not members of the Force; and
 
@@ -422,9 +452,17 @@ shall not be regarded as constituting a professional or financial interest.
 
 as the Commissioner may determine.
 
+[7/2004 wef 15/04/2004]
+
+[5/2000]
+
 (2) A member of the Inquiry Panel shall be appointed for a term of 2 years and shall be eligible for reappointment.
 
+[5/2000]
+
 (3) Where any complaint against a registered inspector relating to his conduct or the discharge of his duties or responsibilities is received by the Commissioner, the Commissioner may constitute an Inquiry Committee consisting of 5 members of the Inquiry Panel, for the purposes of inquiring into the complaint.
+
+[5/2000]
 
 (4) An Inquiry Committee shall consist of —
 
@@ -434,37 +472,61 @@ as the Commissioner may determine.
 
 (c) 2 members of the Force.
 
+[5/2000]
+
 (5) The Commissioner may, on his own motion, constitute an Inquiry Committee for the purposes of inquiring into the conduct of any registered inspector or the discharge of a registered inspector’s duties or responsibilities if it appears to the Commissioner that the registered inspector has contravened or failed to comply with any provision of the prescribed code of professional conduct and ethics.
+
+[5/2000]
 
 (6) The Chairman of an Inquiry Committee shall preside at every meeting of the Inquiry Committee.
 
+[5/2000]
+
 (7) In the absence of the Chairman of an Inquiry Committee, the Commissioner shall appoint an acting Chairman who shall have and exercise all the powers of the Chairman.
+
+[5/2000]
 
 (8) The Commissioner may at any time remove any member of an Inquiry Committee or fill any vacancy in its membership.
 
-[5/2000 wef 01/04/2000]
+[7/2004 wef 15/04/2004]
+
+[5/2000]
 
 ### Proceedings of Inquiry Committee
 
 6B\.—(1) An Inquiry Committee may meet for the purposes of its inquiry, adjourn and otherwise regulate the conduct of its inquiry as the members may think fit.
 
+[5/2000]
+
 (2) The Chairman of an Inquiry Committee may at any time summon a meeting of the Inquiry Committee.
+
+[5/2000]
 
 (3) All the members of an Inquiry Committee shall be present to constitute a quorum for a meeting of the Inquiry Committee.
 
+[5/2000]
+
 (4) Any decision to be made at any meeting of the Inquiry Committee shall be determined by a majority of votes of the members of the Inquiry Committee and, in the case of an equality of votes, the Chairman of the Inquiry Committee shall have a second or casting vote.
+
+[5/2000]
 
 (5) A member of an Inquiry Committee shall, notwithstanding that he has ceased to be a member of the Inquiry Panel on the expiry of his term of office, be deemed to be a member of the Inquiry Panel until such time as the Commissioner has decided that the Inquiry Committee of which he is a member has completed its work.
 
-[5/2000 wef 01/04/2000]
+[5/2000]
 
 ### Commencement of inquiry, etc.
 
 6C\.—(1) An Inquiry Committee shall, within a reasonable time of its constitution, commence its inquiry and, subject to subsection (2), submit a written report of its findings (referred to in this section as the written report) to the Commissioner not later than 6 months after its constitution.
 
+[5/2000]
+
 (2) The Commissioner may grant an extension of time to an Inquiry Committee to submit the written report to him if he is satisfied that the circumstances of the case justify the grant of an extension of time.
 
+[5/2000]
+
 (3) Subject to the provisions of this Act and any regulations made thereunder, the Inquiry Committee may determine its own procedure.
+
+[5/2000]
 
 (4) Where an Inquiry Committee is of the opinion that a registered inspector should be called upon to answer any allegation made against him, the Inquiry Committee shall —
 
@@ -480,6 +542,8 @@ as the Commissioner may determine.
 
 (d) give due consideration to any explanation (if any) given by the registered inspector concerned.
 
+[5/2000]
+
 (5) Where a complainant withdraws his complaint before —
 
 (a) the Commissioner has constituted an Inquiry Committee to inquire into the complaint; or
@@ -488,7 +552,11 @@ as the Commissioner may determine.
 
 the Commissioner may, notwithstanding such withdrawal, refer the complaint to or direct an Inquiry Committee to continue the inquiry, as the case may be, and the Inquiry Committee shall comply with the direction and all future proceedings thereon shall be taken as if the complaint had been made by the Commissioner.
 
+[5/2000]
+
 (6) An Inquiry Committee shall, in its written report, make such recommendation as it thinks fit.
+
+[5/2000]
 
 (7) The Commissioner shall consider the written report submitted by an Inquiry Committee and may —
 
@@ -504,11 +572,19 @@ the Commissioner may, notwithstanding such withdrawal, refer the complaint to or
 
 (f) make such other order as the Commissioner thinks fit.
 
+[5/2000]
+
 (8) The Commissioner shall not be bound by any recommendation made by an Inquiry Committee in its written report.
+
+[5/2000]
 
 (9) The Commissioner shall in writing notify the registered inspector concerned of his decision or any order made against the registered inspector concerned under subsection (7).
 
+[5/2000]
+
 (10) A registered inspector who is aggrieved by a decision of or an order made by the Commissioner under subsection (7)(b), (c), (d) or (f) may, within 14 days of the receipt of the written notification, appeal to the Minister whose decision shall be final.
+
+[5/2000]
 
 (11) Where an appeal is made to the Minister within the period referred to in subsection (10), the decision of or an order made by the Commissioner under subsection (7)(b), (c), (d) or (f), as the case may be, shall, unless the Minister otherwise directs, not take effect unless —
 
@@ -518,13 +594,19 @@ the Commissioner may, notwithstanding such withdrawal, refer the complaint to or
 
 (c) the appellant withdraws the appeal.
 
+[5/2000]
+
 (12) Before the Minister makes a decision to allow or dismiss an appeal, the Minister may refer the matter to an Appeal Advisory Board appointed under section 28.
+
+[5/2000]
 
 (13) The Minister may, in making his decision, have regard to any report made to him by the Appeal Advisory Board.
 
+[5/2000]
+
 (14) Any penalty imposed by the Commissioner in exercise of the powers conferred by subsection (7) shall be recoverable as a judgment debt from the registered inspector ordered to pay the penalty.
 
-[5/2000 wef 01/04/2000]
+[5/2000]
 
 ### Powers of Inquiry Committee
 
@@ -533,6 +615,8 @@ the Commissioner may, notwithstanding such withdrawal, refer the complaint to or
 (a) require evidence to be given on oath and for that purpose the Chairman of the Inquiry Committee may administer an oath; and
 
 (b) require any person to attend and give evidence before it and to produce all plans, books, documents and papers in the custody of that person or under his control relating to the subject-matter of the inquiry.
+
+[5/2000]
 
 (2) Every person who, without lawful excuse, refuses or fails to —
 
@@ -544,13 +628,15 @@ the Commissioner may, notwithstanding such withdrawal, refer the complaint to or
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
 
+[5/2000]
+
 (3) For the purposes of conducting an inquiry, an Inquiry Committee may appoint any person to make or assist in the making of whatever preliminary inquiries it thinks necessary.
 
-[5/2000 wef 01/04/2000]
+[5/2000]
 
 ### Powers in event of fire
 
-7\. The Commissioner or any officer authorised by him may, in the event of a fire or a suspected fire, by himself or with other members under his command —
+7\.—(1) The Commissioner or any officer authorised by him may, in the event of a fire or a suspected fire, by himself or with other members under his command —
 
 (a) enter, break into or through and take possession of or demolish or cause to be taken possession of or demolished any premises or thing for the purpose of extinguishing or preventing the spread of the fire;
 
@@ -562,7 +648,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (e) cause water to be shut off from, or turned into, any main or pipe in order to obtain a greater pressure and supply of water for the purpose of extinguishing the fire in consultation with the Public Utilities Board;
 
-(f) shut off or disconnect, or order any person having the control thereof to shut off or disconnect, the supply of gas, fuel oil or electricity to any premises which is on fire or which is in the vicinity of the fire and no person or body (including the Government) shall be liable to any action, penalty or claim by reason of any such action;
+(f) shut off or disconnect, or order any person having the control thereof to shut off or disconnect, the supply of gas, fuel oil or electricity to any premises which is on fire or which is in the vicinity of the fire;
 
 (g) close or cause to be closed any street in the vicinity of the fire or calamity;
 
@@ -576,6 +662,10 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (l) generally do all other things that are reasonably necessary for protecting life or property or for extinguishing the fire or for preventing the spread thereof.
 
+[7/2004 wef 15/04/2004]
+
+(2) No person or body (including the Government) shall be liable to any action, penalty or claim by reason of any action under subsection (1)(f).
+
 ### General powers of entry
 
 8\.—(1) Subject to this section, the Commissioner or any member of the Force authorised by him in writing on producing, if so required, an authenticated document showing his authority shall have a right to enter any premises at all reasonable hours for the purpose of —
@@ -584,7 +674,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (b) obtaining information required for fire-fighting purposes with respect to the character of the premises, the availability of water supplies and the means of access thereto and other material circumstances relating to fire-fighting purposes;
 
-(c) conducting fire-drills and exercises provided prior reasonable notice in writing is given to the owner or occupier of such premises;
+(c) conducting fire-drills and exercises, provided prior reasonable notice in writing is given to the owner or occupier of such premises;
 
 (d) ascertaining whether there exists in the premises any fire hazard;
 
@@ -602,7 +692,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 9\.—(1) Upon giving 7 days’ notice in writing to the owner or occupier of any property situate in the vicinity of a fire-hydrant or water supply, the Commissioner may thereafter cause a plate indicating the location of such fire-hydrant or water supply to be fixed to any part of the property as may, in the opinion of the Commissioner, be best suited to indicate such location.
 
-(2) Any person who refuses to allow the fixing of any such plate referred to in subsection (1) or obstructs any person in the course of the fixing thereof or removes or defaces any such plate after it has been so fixed shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
+(2) Any person who refuses to allow the fixing of any such plate referred to in subsection (1), or obstructs any person in the course of the fixing thereof or removes or defaces any such plate after it has been so fixed shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
 
 ### Power to install fire-hydrants
 
@@ -640,11 +730,17 @@ FIRE HAZARD IN BUILDINGS
 
 (c) upon the occupier or owner of the premises in or on which such fire hazard exists,
 
-a notice in writing (referred to in this Act as a fire hazard abatement notice) requiring him to abate the fire hazard within the period specified in the notice, and to do all such things as may be necessary for that purpose, and to take all steps necessary to prevent the recurrence of such fire hazard, and the notice may, if the Commissioner thinks fit, specify any works to be executed for the purposes aforesaid.
+a notice in writing requiring him to abate the fire hazard within the period specified in the notice, and to do all such things as may be necessary for that purpose, and to take all steps necessary to prevent the recurrence of such fire hazard.
 
-(2) Where the person by reason of whose act, default or sufferance a fire hazard arose or continues cannot be found and it is clear that the fire hazard neither arose nor continues by reason of any act, default or sufferance on the part of the occupier or owner of the premises in or on which it exists, the Commissioner may abate the hazard and may do what is necessary to prevent a recurrence thereof.
+[5/2000]
 
-(3) Where a fire hazard abatement notice has been served on any person under subsection (1) and that person —
+(2) The notice may, if the Commissioner thinks fit, specify any works to be executed for the purposes mentioned in subsection (1).
+
+[5/2000]
+
+(3) Where the person by reason of whose act, default or sufferance a fire hazard arose or continues cannot be found and it is clear that the fire hazard neither arose nor continues by reason of any act, default or sufferance on the part of the occupier or owner of the premises in or on which it exists, the Commissioner may abate the hazard and may do what is necessary to prevent a recurrence thereof.
+
+(4) Where a fire hazard abatement notice has been served on any person under subsection (1) and that person —
 
 (a) fails to comply with any of the requirements within the time specified in the notice; or
 
@@ -652,17 +748,19 @@ a notice in writing (referred to in this Act as a fire hazard abatement notice) 
 
 he shall, whether or not an order under section 16 has been made in respect of him, be guilty of an offence.
 
-[5/2000 wef 01/04/2000]
+[5/2000]
 
 ### Commissioner may abate fire hazard in emergency
 
-14\. Where a fire hazard abatement notice has been served upon any person pursuant to section 13 and if the person on whom the notice has been served fails to comply with any of the requirements of the notice within the time specified therein, the Commissioner may if he is satisfied that the fire hazard to which the notice relates —
+14\.—(1) Where a fire hazard abatement notice has been served upon any person under section 13 and if the person on whom the notice has been served fails to comply with any of the requirements of the notice within the time specified therein, the Commissioner may, if he is satisfied that the fire hazard to which the notice relates —
 
 (a) constitutes an immediate or substantial danger of fire in or on the premises; or
 
 (b) is likely, if fire breaks out in or on the premises, to increase the normal risk to life which occurs in the event of a fire,
 
-cause to be carried out in or on the premises such work including the removal and seizure of any property causing the fire hazard as appears to him to be necessary to abate the fire hazard and to prevent a recurrence thereof and may recover the expenses incurred thereby from the person on whom the notice has been served.
+cause to be carried out in or on the premises such work, including the removal and seizure of any property causing the fire hazard, as appears to him to be necessary to abate the fire hazard and to prevent a recurrence thereof.
+
+(2) The Commissoner may recover the expenses incurred under subsection (1), from the person on whom the notice has been served.
 
 ### Power to order closure of premises in emergency
 
@@ -676,7 +774,7 @@ cause to be carried out in or on the premises such work including the removal an
 
 (a) in writing served on the owner or occupier of the premises in question; or
 
-(b) orally, in which case he shall, as soon as is practicable thereafter, serve on the owner or occupier of the premises in question confirmation in writing of the contents of that order and of the time and place at which that order was so given, and shall cause a copy of that order or confirmation, as the case requires, to be affixed to that premises in a conspicuous position.
+(b) orally, in which case he shall, as soon as is practicable thereafter, serve on the owner or occupier of the premises in question, confirmation in writing of the contents of that order and of the time and place at which that order was so given, and shall cause a copy of that order or confirmation, as the case requires, to be affixed to that premises in a conspicuous position.
 
 (3) The Commissioner may, if he considers that the danger to which an order given under subsection (1) relates has been alleviated, rescind that order.
 
@@ -724,13 +822,15 @@ the Commissioner may make a complaint to a Magistrate’s Court and the Court he
 
 (2) There shall be no appeal to the High Court against a fire hazard order, unless it is or includes a closing order or requires the execution of structural works.
 
-(3) Where a fire hazard order is made and a person does not comply with it and appeals against it to the High Court and the appeal is dismissed or is abandoned, the appellant shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 for every day during the non-compliance with the order, unless he satisfies the court before which proceedings are taken for imposing a fine that there was substantial ground for the appeal and that the appeal was not brought merely for the purpose of delay and, where the appeal is heard by the High Court, the High Court may, on dismissing the appeal, impose the fine as if the High Court were the court before which proceedings were taken for imposition of the fine.
+(3) Where a fire hazard order is made and a person does not comply with it and appeals against it to the High Court and the appeal is dismissed or is abandoned, the appellant shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 for every day during the non-compliance with the order, unless he satisfies the court before which proceedings are taken for imposing a fine that there was substantial ground for the appeal and that the appeal was not brought merely for the purpose of delay.
 
-(4) In the event of an appeal against a fire hazard order, no work, except as mentioned in subsection (5), shall be done pursuant to section 16(6) under the order until after the determination or abandonment of the appeal.
+(4) Where the appeal is heard by the High Court, the High Court may, on dismissing the appeal, impose the fine as if the High Court were the court before which proceedings were taken for imposition of the fine.
 
-(5) If the court by which the order was made is of the opinion that the nature of the fire hazard is such as to require immediate abatement, the court may, notwithstanding that the appeal is pending, authorise the Commissioner immediately to abate the hazard:
+(5) In the event of an appeal against a fire hazard order, no work, except as mentioned in subsection (6), shall be done under section 16(6) under the order until after the determination or abandonment of the appeal.
 
-Provided that —
+(6) If the court by which the order was made is of the opinion that the nature of the fire hazard is such as to require immediate abatement, the court may, notwithstanding that the appeal is pending, authorise the Commissioner immediately to abate the hazard.
+
+(7) Notwithstanding subsection (6) —
 
 (a) if the appeal is allowed, the Commissioner shall pay to the person against whom the order was made the amount of any damage sustained by him by reason of the abatement of the hazard by the Commissioner; and
 
@@ -738,7 +838,7 @@ Provided that —
 
 ### Property and materials seized or removed by Commissioner in abating fire hazard
 
-18\.—(1) Any property or materials seized or removed by the Commissioner in abating or doing what is necessary to prevent the recurrence of a fire hazard under this Act or in enforcing any regulations made thereunder, may be confiscated by the Commissioner or may, on application by the owner within two weeks of such seizure or removal, be returned to him on such terms and conditions as the Commissioner thinks fit.
+18\.—(1) Any property or materials seized or removed by the Commissioner in abating or doing what is necessary to prevent the recurrence of a fire hazard under this Act or in enforcing any regulations made thereunder, may be confiscated by the Commissioner or may, on application by the owner within 2 weeks of such seizure or removal, be returned to him on such terms and conditions as the Commissioner thinks fit.
 
 (2) Any property or materials confiscated by the Commissioner under subsection (1) may be sold or disposed of in such manner as the Minister may direct.
 
@@ -752,7 +852,7 @@ Provided that —
 
 19\.—(1) If all and any sums payable by or recoverable from the owner in respect of costs and expenses incurred by the Commissioner in or about the execution of any work which are under this Act recoverable from the owner of any premises are not paid by the owner within 14 days after demand, such sums may be reported to a District Court or a Magistrate’s Court and recovered in the same manner as if it were a fine imposed by a District Court or a Magistrate’s Court, as the case may be.
 
-(2) An appeal shall lie to the High Court from any decision of a District Court or a Magistrate’s Court under this section, and the provisions of the Criminal Procedure Code shall apply, mutatis mutandis, to all such appeals.
+(2) An appeal shall lie to the High Court from any decision of a District Court or a Magistrate’s Court under this section, and the provisions of the Criminal Procedure Code (Cap. 68) shall apply, with the necessary modifications, to all such appeals.
 
 (3) The person liable to pay any sum under subsection (1) shall be the owner at the time when the work was completed.
 
@@ -767,6 +867,8 @@ FIRE PREVENTION IN BUILDINGS
 20\.—(1) The Commissioner may by notice in writing require the owner or occupier of a public building having an occupant load of more than 200 persons to apply and obtain from the Commissioner a fire certificate.
 
 (2) No person shall occupy or use the building or part thereof or permit the building or part thereof to be occupied or used without a fire certificate authorising such occupation or use.
+
+[7/2004 wef 10/09/2004]
 
 (3) Such application shall be in accordance with the regulations made under this Act.
 
@@ -808,29 +910,31 @@ CONTROL OF FIRE SAFETY WORKS
 
 (a) approve, subject to such terms and conditions as he may impose, any one or more of the plans submitted to him under subsection (1);
 
-(aa) disapprove any of the plans which is not in order; or
+(b) disapprove any of the plans which is not in order; or
 
-[5/2000 wef 01/04/2000]
+(c) in writing direct the applicant to comply, within such period as may be specified in the direction, with such requirements as the Commissioner may specify for the purpose of ensuring compliance with the provisions of this Act and any regulations made thereunder.
 
-(b) in writing direct the applicant to comply, within such period as may be specified in the direction, with such requirements as the Commissioner may specify for the purpose of ensuring compliance with the provisions of this Act and any regulations made thereunder.
+[5/2000]
 
 (3) If the person to whom any written direction is given under subsection (2) fails to comply with the requirements specified in the direction within the time specified therein, the Commissioner may reject the plans.
 
 (4) Where an application for approval of the plans of fire safety works under subsection (1) is accompanied by a written declaration by the qualified person who prepared the plans declaring that the plans have been prepared in accordance with the Fire Code adopted under section 55, and the provisions of this Act and any regulations made thereunder, the Commissioner may, without checking the plans, approve the plans on the basis of the written declaration by the qualified person.
 
-[5/2000 wef 01/04/2000]
+[5/2000]
 
 (5) Notwithstanding subsection (4), the Commissioner may, in his discretion, carry out random checks on any plans of fire safety works at any time before or after approving the plans under that subsection.
 
-[5/2000 wef 01/04/2000]
+[5/2000]
 
 (6) The Commissioner may at any time revoke any approval granted in respect of any plans of fire safety works —
 
 (a) under subsection (2)(a), if he is satisfied that any information given in the application for approval or any document submitted to the Commissioner in respect of the application for approval is false in a material particular; and
 
-(b) under subsection (4), if he is satisfied that the written declaration submitted by the qualified person referred to in that subsection is false.
+(b) under subsection (4), if he is satisfied that the written declaration submitted by the qualified personreferred to in that subsection is false.
 
-[5/2000 wef 01/04/2000]
+[7/2004 wef 01/07/2004]
+
+[5/2000]
 
 (7) The Commissioner shall not revoke any approval granted in respect of any plans of fire safety works unless —
 
@@ -838,7 +942,7 @@ CONTROL OF FIRE SAFETY WORKS
 
 (b) the person has failed or refused to comply with the requirements specified in the written notice.
 
-[5/2000 wef 01/04/2000]
+[5/2000]
 
 (8) The requirements referred to in subsection (7) may include —
 
@@ -848,15 +952,15 @@ CONTROL OF FIRE SAFETY WORKS
 
 (c) the alteration or demolition of a building or part thereof to which the fire safety works relate.
 
-[5/2000 wef 01/04/2000]
+[5/2000]
 
 (9) Any person who fails or refuses to comply with any requirement specified in the written notice given by the Commissioner under subsection (7) shall be guilty of an offence.
 
-[5/2000 wef 01/04/2000]
+[5/2000]
 
 (10) The Commissioner shall in writing notify the person for whom the fire safety works are carried out of his decision —
 
-(a) to disapprove any plans of fire safety works under subsection (2)(aa);
+(a) to disapprove any plans of fire safety works under subsection (2)(b);
 
 (b) to reject any plans of fire safety works under subsection (3); or
 
@@ -864,7 +968,7 @@ CONTROL OF FIRE SAFETY WORKS
 
 and shall specify a date, not less than 14 days from the date of the written notification, on which the decision of the Commissioner shall take effect.
 
-[5/2000 wef 01/04/2000]
+[5/2000]
 
 (11) Where a decision of the Commissioner to revoke any approval granted in respect of any plans of fire safety works has taken effect —
 
@@ -874,25 +978,33 @@ and shall specify a date, not less than 14 days from the date of the written not
 
 as the case may be, shall automatically lapse.
 
-[5/2000 wef 01/04/2000]
+[5/2000]
 
 ### Prohibition of fire safety works without approval of plans
 
 24\.—(1) Except as otherwise provided in this Act or any regulations made thereunder, no person shall commence or carry out or permit or authorise the commencement or carrying out of any fire safety works in any building unless the Commissioner has approved all the plans of the fire safety works under section 23.
 
-(2) Any person who contravenes or fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding one year or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day during which the offence continues after conviction.
+(2) Any person who contravenes or fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day during which the offence continues after conviction.
 
 ### Appointment and duties of qualified person
 
 25\.—(1) Subject to the provisions of this Act, every person for whom any fire safety works are or are to be carried out shall appoint an appropriate qualified person in respect of those works and shall supply to the qualified person appointed under this subsection or subsection (2)(b) a copy of every plan of the fire safety works approved by the Commissioner.
 
-(2) If any qualified person appointed under subsection (1) or (2)(b) becomes unwilling or unable, whether by reason of the termination of his appointment or for any other reason, to carry out his duties under subsection (4) —
+(2) If any qualified personappointed under subsection (1) or paragraph (b) becomes unwilling or unable, whether by reason of the termination of his appointment or for any other reason, to carry out his duties under subsection (4) —
 
 (a) the qualified person shall, within 14 days of his ceasing to carry out his duties, notify the Commissioner and the person for whom such works are or are to be carried out of the fact; and
 
+[7/2004 wef 01/07/2004]
+
 (b) the person for whom the fire safety works are or are to be carried out shall cease or cause to be ceased and shall not commence or cause to be commenced the carrying out of such work until he has appointed another appropriate qualified person in respect of such works.
 
+[7/2004 wef 01/07/2004]
+
+[7/2004 wef 01/07/2004]
+
 (3) Where the person for whom any such works are or are to be carried out appoints an appropriate qualified person under subsection (2)(b), he shall, within 7 days of the appointment, notify the Commissioner of the appointment.
+
+[7/2004 wef 01/07/2004]
 
 (4) Every qualified person appointed under this section in respect of any fire safety works shall —
 
@@ -902,25 +1014,39 @@ as the case may be, shall automatically lapse.
 
 (c) submit to the Commissioner at the prescribed times such reports and certificates as may be prescribed in any regulations made under this Act.
 
-(5) Any person who contravenes or fails to comply with subsection (1) or (2)(b) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding one year or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day during which the offence continues after conviction.
+[7/2004 wef 01/07/2004]
 
-(6) Any qualified person who contravenes or fails to comply with subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a continuing offence, to a further fine not exceeding $500 for every day during which the offence continues after conviction:
+(5) Any person who contravenes or fails to comply with subsection (1) or (2)(b) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day during which the offence continues after conviction.
 
-Provided that it shall be a defence in any prosecution for a contravention or non-compliance with subsection (4)(b) for the person charged to prove to the satisfaction of the court that he did not know, nor could reasonably have discovered, the contravention or non-compliance referred to in the charge.
+(6) Any qualified person who contravenes or fails to comply with subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a continuing offence, to a further fine not exceeding $500 for every day during which the offence continues after conviction.
 
-(7) Any qualified person or person for whom any fire safety works are or are to be carried out, as the case may be, who, without reasonable excuse, contravenes or fails to comply with subsection (2)(a) or (3) shall be guilty of an offence.
+[7/2004 wef 01/07/2004]
+
+(7) It shall be a defence in any prosecution for a contravention or non-compliance with subsection (4)(b) for the person charged to prove to the satisfaction of the court that he did not know, nor could reasonably have discovered, the contravention or non-compliance referred to in the charge.
+
+(8) Any qualified person or person for whom any fire safety works are or are to be carried out, as the case may be, who, without reasonable excuse, contravenes or fails to comply with subsection (2)(a) or (3) shall be guilty of an offence.
+
+[7/2004 wef 01/07/2004]
 
 ### Supervision of fire safety works
 
 26\.—(1) Except as otherwise provided in this Act or any regulations made thereunder, no person shall commence or carry out any fire safety works except under the supervision of an appropriate qualified person appointed under section 25(1) or (2)(b).
 
-(2) Any person who contravenes or fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding one year or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day during which the offence continues after conviction.
+[7/2004 wef 01/07/2004]
+
+(2) Any person who contravenes or fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day during which the offence continues after conviction.
 
 ### Modification or waiver of requirements relating to fire safety
 
 27\.—(1) The Commissioner may, on receipt of an application in relation to any particular fire safety works, modify or waive, subject to such terms and conditions as he may impose, any of the requirements relating to fire safety in buildings as may be prescribed in any regulations made under this Act.
 
-(2) Every such application shall be made in writing to the Commissioner by or on behalf of the owner of the building to which the application relates and shall state the nature and extent of and the reasons for the proposed modification or waiver of such requirements and shall be accompanied by such plans and other particulars as may be prescribed.
+(2) Every such application shall —
+
+(a) be made in writing to the Commissioner by or on behalf of the owner of the building to which the application relates;
+
+(b) state the nature and extent of and the reasons for the proposed modification or waiver of such requirements; and
+
+(c) be accompanied by such plans and other particulars as may be prescribed.
 
 (3) Where an application made under subsection (2) is refused, or is granted by the Commissioner subject to such terms and conditions as he may impose, the applicant may, if aggrieved by the decision of the Commissioner, appeal in the prescribed form and manner together with payment of the prescribed fees to the Minister within 28 days of the date of notification of the decision.
 
@@ -932,13 +1058,21 @@ Provided that it shall be a defence in any prosecution for a contravention or no
 
 28\.—(1) The Appeal Advisory Board shall consist of a Chairman, a Vice-Chairman and such other members as the Minister may determine.
 
-(2) The Chairman, Vice-Chairman and members of the Appeal Advisory Board shall be appointed by the Minister for such period as the Minister may determine and may from time to time be reappointed, or may at any time be removed from office by the Minister, or may at any time resign from their office by writing addressed to the Minister.
+(2) The Chairman, Vice-Chairman and members of the Appeal Advisory Board —
+
+(a) shall be appointed by the Minister for such period as the Minister may determine and may from time to time be reappointed;
+
+(b) may at any time be removed from office by the Minister; or
+
+(c) may at any time resign from their office by writing addressed to the Minister.
 
 (3) At any meeting of the Board, 3 members shall constitute a quorum.
 
-(4) The Chairman or, in his absence, the Vice-Chairman shall preside at every meeting of the Board. In the absence of both the Chairman and the Vice-Chairman, such member as the members present may elect shall preside at the meeting.
+(4) The Chairman or, in his absence, the Vice-Chairman shall preside at every meeting of the Board.
 
-(5) Subject to the provisions of this Act and any regulations made thereunder, the Board may determine its own procedure.
+(5) In the absence of both the Chairman and the Vice-Chairman, such member as the members present may elect shall preside at the meeting.
+
+(6) Subject to the provisions of this Act and any regulations made thereunder, the Board may determine its own procedure.
 
 ### Fire safety certificate
 
@@ -954,31 +1088,31 @@ Provided that it shall be a defence in any prosecution for a contravention or no
 
 (4) If the person to whom any written direction is given under subsection (3)(b) fails to comply with the requirements specified in the direction within the time specified therein, the application shall be deemed to be withdrawn.
 
-(4A) Where an application for a fire safety certificate under subsection (1) is accompanied by a certificate of a registered inspector certifying that, to the best of the knowledge and belief of the registered inspector, the completed fire safety works to which the application relates have been carried out in accordance with the approved plans of safety works, the Fire Code adopted under section 55, and the provisions of this Act and any regulations made thereunder, the Commissioner may, without inspecting the completed fire safety works, issue a fire safety certificate or temporary fire permit, as the Commissioner considers appropriate, on the basis of the certificate of the registered inspector.
+(5) Where an application for a fire safety certificate under subsection (1) is accompanied by a certificate of a registered inspector certifying that, to the best of the knowledge and belief of the registered inspector, the completed fire safety works to which the application relates have been carried out in accordance with the approved plans of safety works, the Fire Code adopted under section 55, and the provisions of this Act and any regulations made thereunder, the Commissioner may, without inspecting the completed fire safety works, issue a fire safety certificate or temporary fire permit, as the Commissioner considers appropriate, on the basis of the certificate of the registered inspector.
 
-[5/2000 wef 01/04/2000]
+[5/2000]
 
-(4B) Notwithstanding subsection (4A), the Commissioner may, in his discretion, carry out random inspections on the completed fire safety works to which any application under this section relates, at any time before or after the issuing of a fire safety certificate or temporary fire permit.
+(6) Notwithstanding subsection (5), the Commissioner may, in his discretion, carry out random inspections on the completed fire safety works to which any application under this section relates, at any time before or after the issuing of a fire safety certificate or temporary fire permit.
 
-[5/2000 wef 01/04/2000]
+[5/2000]
 
-(4C) The Commissioner may at any time revoke any fire safety certificate or temporary fire permit issued in respect of any completed fire safety works —
+(7) The Commissioner may at any time revoke any fire safety certificate or temporary fire permit issued in respect of any completed fire safety works —
 
 (a) under subsection (3), if he is satisfied that any information given in the application for a fire safety certificate or any document submitted to the Commissioner in respect of the application for the fire safety certificate is false in a material particular; and
 
-(b) under subsection (4A), if he is satisfied that any certificate of the registered inspector referred to in that subsection is false.
+(b) under subsection (5), if he is satisfied that any certificate of the registered inspector referred to in that subsection is false.
 
-[5/2000 wef 01/04/2000]
+[5/2000]
 
-(4D) The Commissioner shall not revoke a fire safety certificate or temporary fire permit unless —
+(8) The Commissioner shall not revoke a fire safety certificate or temporary fire permit unless —
 
 (a) he has given a written notice to the person for whom the fire safety works have been carried out to comply, within such period as may be specified in the notice, with such requirements as the Commissioner may specify for the purpose of ensuring compliance with the Fire Code adopted under section 55, and any of the provisions of this Act and any regulations made thereunder; and
 
 (b) the person has failed or refused to comply with the requirements specified in the written notice.
 
-[5/2000 wef 01/04/2000]
+[5/2000]
 
-(4E) The requirements referred to in subsection (4D) may include —
+(9) The requirements referred to in subsection (8) may include —
 
 (a) the amendment of any of the approved plans of fire safety works to which the completed fire safety works relate;
 
@@ -986,17 +1120,17 @@ Provided that it shall be a defence in any prosecution for a contravention or no
 
 (c) the alteration or demolition of a building or part thereof to which the completed fire safety works relate.
 
-[5/2000 wef 01/04/2000]
+[5/2000]
 
-(4F) Any person who fails or refuses to comply with any requirement specified in the written notice given by the Commissioner under subsection (4D) shall be guilty of an offence.
+(10) Any person who fails or refuses to comply with any requirement specified in the written notice given by the Commissioner under subsection (8) shall be guilty of an offence.
 
-[5/2000 wef 01/04/2000]
+[5/2000]
 
-(4G) The Commissioner shall in writing notify the person for whom the fire safety works are carried out of his decision to revoke a fire safety certificate or temporary fire permit, and shall specify a date, not less than 14 days from the date of the written notification, on which the decision of the Commissioner shall take effect.
+(11) The Commissioner shall in writing notify the person for whom the fire safety works are carried out of his decision to revoke a fire safety certificate or temporary fire permit, and shall specify a date, not less than 14 days from the date of the written notification, on which the decision of the Commissioner shall take effect.
 
-[5/2000 wef 01/04/2000]
+[5/2000]
 
-(5) Any person who fails to comply with this section or with any condition imposed by the Commissioner under subsection (3)(a) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 and, in the case of a continuing offence, to a further fine not exceeding $500 for every day during which the offence continues after conviction.
+(12) Any person who fails to comply with this section or with any condition imposed by the Commissioner under subsection (3)(a) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 and, in the case of a continuing offence, to a further fine not exceeding $500 for every day during which the offence continues after conviction.
 
 ### Application for change of use of premises
 
@@ -1018,7 +1152,7 @@ Provided that it shall be a defence in any prosecution for a contravention or no
 
 (5) Any person who fails to comply with this section or with any condition imposed by the Commissioner under subsection (3)(a) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 and, in the case of a continuing offence, to a further fine not exceeding $500 for every day during which the offence continues after conviction.
 
-(6) Nothing in this section shall be taken in any way to derogate from the provisions of the Planning Act [Cap. 232] and any relevant rules made thereunder relating to change of use of premises.
+(6) Nothing in this section shall be taken in any way to derogate from the provisions of the Planning Act (Cap. 232) and any relevant rules made thereunder relating to change of use of premises.
 
 ### Order for demolition, removal, etc., of unauthorised fire safety works
 
@@ -1030,6 +1164,8 @@ Provided that it shall be a defence in any prosecution for a contravention or no
 
 (c) the demolition of the building or part thereof to which the unauthorised fire safety works relate.
 
+[5/2000]
+
 (2) An order made under subsection (1) shall specify all or any of the following:
 
 (a) the manner in which the works, alteration or demolition referred to in subsection (1) is to be carried out;
@@ -1037,6 +1173,8 @@ Provided that it shall be a defence in any prosecution for a contravention or no
 (b) the time within which the works, alteration or demolition shall commence;
 
 (c) the time within which the works, alteration or demolition shall be completed.
+
+[5/2000]
 
 (3) An order made under subsection (1) shall be served —
 
@@ -1046,19 +1184,27 @@ Provided that it shall be a defence in any prosecution for a contravention or no
 
 and shall specify a date, not less than 14 days from the date of the order, on which the order shall take effect.
 
+[5/2000]
+
 (4) If an order made under subsection (1) is not complied with and no appeal under section 30C has been made to the Minister in respect of the order before the order takes effect, the Commissioner may —
 
 (a) demolish, remove or alter, or cause to be demolished, removed or altered, the building or the unauthorised fire safety works or to take such other steps as may appear to the Commissioner to be necessary, including ordering the closure of the building or part thereof; and
 
 (b) recover all expenses reasonably incurred by him in the exercise of his powers under this section from the person in default.
 
+[5/2000]
+
 (5) Without prejudice to the right of the Commissioner to exercise his powers under subsection (4), if any person on whom an order is served under subsection (3) fails to comply with the order, the person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a continuing offence, to a further fine not exceeding $500 for every day or part thereof during which the offence continues after conviction.
+
+[5/2000]
 
 (6) The Commissioner may seize any material resulting from the carrying out of any work under subsection (4).
 
+[5/2000]
+
 (7) Any material seized by the Commissioner under this section shall be confiscated by the Commissioner and shall be disposed of in such manner as the Commissioner thinks fit, and the proceeds, if any, of such disposal shall be paid into the Consolidated Fund.
 
-[5/2000 wef 01/04/2000]
+[5/2000]
 
 ### Closure order
 
@@ -1068,6 +1214,8 @@ and shall specify a date, not less than 14 days from the date of the order, on w
 
 (b) where the closure order relates to a part of the building, on the occupier of that part of the building.
 
+[5/2000]
+
 (2) A closure order shall specify a date, not less than 14 days from the date of the closure order, on which the closure order shall take effect, and may require —
 
 (a) the owner of the building to which the order relates; or
@@ -1076,13 +1224,23 @@ and shall specify a date, not less than 14 days from the date of the order, on w
 
 as the case may be, to cease to inhabit the building or that part thereof and to remove all goods, furniture and effects from the building or that part thereof before the closure order takes effect.
 
+[5/2000]
+
 (3) Subject to subsection (5), where a closure order is in force in respect of a building or part thereof, as the case may be, no person other than a member of the Force in the course of his duty shall enter or be in the building or that part thereof to which the closure order relates at any time.
+
+[5/2000]
 
 (4) Any person who contravenes or fails to comply with subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a continuing offence, to a further fine not exceeding $200 for every day or part thereof during which the offence continues after conviction.
 
+[5/2000]
+
 (5) Where a closure order is in force in respect of a building or part thereof, as the case may be, the Commissioner may, if he thinks fit and subject to such conditions as he may impose, by notice in writing permit any person to enter or be in the building or that part thereof to which the closure order relates.
 
+[5/2000]
+
 (6) Any permission granted under subsection (5) may be cancelled by the Commissioner at any time and for any reason.
+
+[5/2000]
 
 (7) A closure order shall remain in force in respect of a building or the part thereof, as the case may be, until the Commissioner has served a notice of expiry of the closure order —
 
@@ -1090,21 +1248,23 @@ as the case may be, to cease to inhabit the building or that part thereof and to
 
 (b) where the closure order relates to a part of the building, on the occupier of that part of the building.
 
+[5/2000]
+
 (8) A notice of expiry of a closure order shall specify the building or the part thereof to which it relates and the date upon which the closure order expires.
 
-[5/2000 wef 01/04/2000]
+[5/2000]
 
 ### Appeals to Minister
 
 30C\.—(1) Any person aggrieved by —
 
-(a) a decision of the Commissioner to disapprove any plans of fire safety works under section 23(2)(aa);
+(a) a decision of the Commissioner to disapprove any plans of fire safety works under section 23(2)(b);
 
 (b) a decision of the Commissioner to reject any plans of fire safety works under section 23(3);
 
 (c) a decision of the Commissioner to revoke any approval granted in respect of any plans of fire safety works under section 23(6);
 
-(d) a decision of the Commissioner to revoke any fire safety certificate or temporary fire permit under section 29(4C);
+(d) a decision of the Commissioner to revoke any fire safety certificate or temporary fire permit under section 29(7);
 
 (e) an order made by the Commissioner under section 30A(1); or
 
@@ -1112,9 +1272,15 @@ as the case may be, to cease to inhabit the building or that part thereof and to
 
 may, before the decision or order, as the case may be, takes effect, appeal in writing to the Minister.
 
+[5/2000]
+
 (2) The Minister may, before making a decision to allow or dismiss an appeal, refer the matter to an Appeal Advisory Board appointed under section 28.
 
+[5/2000]
+
 (3) The Minister may, in making his decision, have regard to any report made to him by the Appeal Advisory Board.
+
+[5/2000]
 
 (4) Where an appeal is made to the Minister under this section, the decision of or the order made by the Commissioner shall, unless the Minister otherwise directs, not take effect unless —
 
@@ -1124,9 +1290,11 @@ may, before the decision or order, as the case may be, takes effect, appeal in w
 
 (c) the appellant withdraws the appeal.
 
+[5/2000]
+
 (5) The decision of the Minister on any appeal under this section shall be final.
 
-[5/2000 wef 01/04/2000]
+[5/2000]
 
 ## PART V
 
@@ -1134,11 +1302,11 @@ PREMISES USED FOR DANGEROUS TRADES OR PURPOSES
 
 ### Licensing of dangerous trades
 
-31\.—(1) No premises shall, except in accordance with a licence granted by the Commissioner, be used by any person for any of the trades or purposes specified in the First Schedule.
+31\.—(1) No premises shall, except in accordance with a licence granted by the Commissioner, be used by any person for any of the trades or purposes specified in the Schedule.
 
-(2) The Minister may, by notification in theGazette, amend the First Schedule.
+(2) The Minister may, by notification in theGazette, amend the Schedule.
 
-(3) Any person who uses or permits to be used any premises without a licence for any of the trades or purposes specified in the First Schedule or who contravenes any of the terms or conditions of a licence shall be guilty of an offence.
+(3) Any person who uses or permits to be used any premises without a licence for any of the trades or purposes specified in the Schedule or who contravenes any of the terms or conditions of a licence shall be guilty of an offence.
 
 (4) Where the Commissioner is satisfied that any premises have been or are being used in contravention of subsection (1), he may enter the premises and seize any movable property by means of or in respect of which an offence under this section has been or is being committed or which contains evidence of such an offence and which is found therein.
 
@@ -1172,23 +1340,23 @@ PREMISES USED FOR DANGEROUS TRADES OR PURPOSES
 
 CONTROL OF PETROLEUM AND FLAMMABLE MATERIALS
 
-[S 1999/94]
-
 ### Interpretation of this Part
 
 34\. In this Part, unless the context otherwise requires —
 
 “Class O petroleum” means liquefied petroleum gas;
 
-“Class I petroleum” means any petroleum having a flashpoint of less than 23° celsius but does not include Class O petroleum;
+“Class I petroleum” means any petroleum having a flashpoint of less than 23º celsius but does not include Class O petroleum;
 
-“Class II petroleum” means any petroleum having a flashpoint of or exceeding 23° celsius but less than 61° celsius;
+“Class II petroleum” means any petroleum having a flashpoint of or exceeding 23º celsius but less than 61º celsius;
 
 “dispensing” means transferring any class of petroleum from one container to any other container or containers for the purpose of distribution, through hose, pipe or by any other means and includes discharging into a motor vehicle or from the tank of a road tanker;
 
+[7/2004 wef 16/02/2005]
+
 “flammable materials” includes —
 
-(a) any liquid or mixtures of liquids containing solids in solution or suspension which have a flashpoint not greater than 61° χελσιυσ ωηεν τεστεδ ιν αχχoρδανχε ωιτη συχη µετηoδ ασ may be prescribed by any regulations made under this Act;
+(a) any liquid or mixtures of liquids containing solids in solution or suspension which have a flashpoint not greater than 61º celsius when tested in accordance with such method as may be prescribed by any regulations made under this Act;
 
 (b) any gas that has a lower flammability limit less than 13% by volume or a flammability range greater than 12; and
 
@@ -1196,9 +1364,11 @@ CONTROL OF PETROLEUM AND FLAMMABLE MATERIALS
 
 “licensed premises” means any premises licensed for the storage of any class of petroleum under this Act;
 
+[7/2004 wef 16/02/2005]
+
 “liquefied petroleum gas” means any material having a vapour pressure not exceeding that allowed for commercial propane and composed predominantly of the following hydrocarbons, either by themselves or as mixtures, that is to say, propane, propylene, butane (normal butane or iso-butane) and butylenes;
 
-“petroleum” includes crude petroleum, liquefied petroleum gas and other naturally occurring hydro-carbon liquid derived from crude petroleum, coal, shale, peat or other bituminous substances;
+“petroleum” includes crude petroleum, liquefied petroleum gas and other naturally occurring hydrocarbon liquid derived from crude petroleum, coal, shale, peat or other bituminous substances;
 
 “place” includes houses, yards and open spaces appurtenant thereto, buildings and footways and any underground space;
 
@@ -1218,6 +1388,8 @@ any class of petroleum except under and in accordance with this Act or any regul
 
 36\.—(1) No person shall dispense or cause to be dispensed any class of petroleum at any place other than at a licensed premises.
 
+[7/2004 wef 16/02/2005]
+
 (2) Any licensed premises to be used for the dispensing of liquid petroleum gas into cylinders must be specifically approved for that purpose by the Commissioner who may impose additional requirements as he thinks fit.
 
 ### Offence
@@ -1230,41 +1402,71 @@ any class of petroleum except under and in accordance with this Act or any regul
 
 (a) waive or modify, subject to such terms and conditions as he thinks fit, any of the requirements of any regulations made under this Act;
 
-(b) stop and examine any vehicle when he has reason to believe that any class of petroleum is being transported in the vehicle in contravention of this Act or any regulations made thereunder;
+[7/2004 wef 16/02/2005]
 
-(c) inspect, examine and test all classes of petroleum stored on land and for such purposes take samples thereof;
+(b) stop and examine any vehicle when he has reason to believe that any class of petroleumis being transported in the vehicle in contravention of this Act or any regulations made thereunder;
+
+[7/2004 wef 16/02/2005]
+
+(c) inspect, examine and test all classes of petroleumstored on land and for such purposes take samples thereof;
+
+[7/2004 wef 16/02/2005]
 
 (d) enter any place where he has reason to believe that any class of petroleum is stored in contravention of this Act or any regulations made thereunder; and
 
+[7/2004 wef 16/02/2005]
+
 (e) seize any stock of any class of petroleum or equipment in respect of which he has reason to believe that an offence under this Act has been committed.
+
+[7/2004 wef 16/02/2005]
 
 ### Grant and renewal of licence
 
 39\.—(1) The grant of any licence under this Part shall be in the absolute discretion of the Commissioner, and any such licence shall stipulate the quantity of each class of petroleum which may be stored in any premises or transported in any vehicle, as the case may be.
 
-(2) Every licence granted under this Part shall be subject to such conditions as the Commissioner thinks fit to impose.
+(2) Every licencegranted under this Part shall be subject to such conditions as the Commissioner thinks fit to impose.
+
+[7/2004 wef 16/02/2005]
 
 (3) Every licence granted under this Part, if it has not been cancelled under section 40, may, on the application of the holder of the licence, be renewed by the Commissioner subject to such conditions as he thinks fit to impose.
 
-(4) Every licence shall, on payment of the prescribed fees, be valid for such period not exceeding 3 years as the Commissioner may determine.
+[7/2004 wef 16/02/2005]
+
+(4) Every licenceshall, on payment of the prescribed fees, be valid for such period not exceeding 3 years as the Commissioner may determine.
+
+[7/2004 wef 16/02/2005]
 
 (5) Any person who is aggrieved by any decision of the Commissioner under this section may, within one month of being notified of the decision of the Commissioner, appeal to the Minister whose decision shall be final.
 
-(6) Any person who contravenes any of the conditions of a licence granted under this Part shall be guilty of an offence.
+(6) Any person who contravenes any of the conditions of a licencegranted under this Part shall be guilty of an offence.
+
+[7/2004 wef 16/02/2005]
 
 ### Cancellation of licence
 
 40\.—(1) If at any time it appears to the Commissioner that any premises or vehicle, in respect of which a licence has been granted, has become unfit for the purpose for which it was licensed by reason of the increase of building or of population in its neighbourhood, or that from any other cause, any licence should for the public safety be cancelled, or if the person to whom the licence was granted contravenes any of the conditions of the licence, the Commissioner may by order cancel the licence.
 
+[7/2004 wef 16/02/2005]
+
 (2) The Commissioner shall, before cancelling any licence under subsection (1), give to the person concerned notice in writing of his intention to do so specifying a date, not less than 21 days after the notice, upon which the cancellation shall take effect and calling upon the person concerned to show cause to the Commissioner why the licence should not be cancelled.
+
+[7/2004 wef 16/02/2005]
 
 (3) When the Commissioner has cancelled the licence under subsection (1), he shall forthwith inform the person concerned by notice in writing of such cancellation.
 
+[7/2004 wef 16/02/2005]
+
 (4) The person whose licence has been cancelled may, within 14 days of the receipt of the notice referred to in subsection (3), or such extended period of time as the Minister may allow, appeal in writing against the cancellation to the Minister whose decision shall be final.
+
+[7/2004 wef 16/02/2005]
 
 (5) An order of cancellation shall not take effect until the expiration of a period of 14 days after the Commissioner has informed the licensee concerned of the order.
 
+[7/2004 wef 16/02/2005]
+
 (6) If within that period the licensee concerned gives due notice of appeal to the Minister, the order shall not take effect unless the order is confirmed by the Minister or the appeal is for any reason dismissed by the Minister.
+
+[7/2004 wef 16/02/2005]
 
 ### Power of Minister to make orders
 
@@ -1280,7 +1482,7 @@ MISCELLANEOUS
 
 ### Obstructing authorised persons in execution of their duty
 
-43\. Any person who refuses any authorised person access to any place, premises or vehicle or otherwise hinders him in the performance of his duty, or refuses or neglects to give any information which is reasonably required of him and which he has it in his power to give or which he is required by this Act to give shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.
+43\. Any person who refuses any authorised person access to any place, premises or vehicle or otherwise hinders him in the performance of his duty, or refuses or neglects to give any information which is reasonably required of him and which he has it in his power to give or which he is required by this Act to give, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.
 
 ### Authorised persons may make forcible entry
 
@@ -1302,7 +1504,7 @@ MISCELLANEOUS
 
 ### Powers of arrest
 
-46\.—(1) The Commissioner or any officer duly authorised in writing in that behalf by the Commissioner or any police officer may without warrant arrest any person whom he reasonably suspects to have committed an offence under this Act or any regulations made thereunder —
+46\.—(1) The Commissioner or any officerduly authorised in writing in that behalf by the Commissioner or any police officer may without warrant arrest any person whom he reasonably suspects to have committed an offence under this Act or any regulations made thereunder —
 
 (a) if the name and address of the person are unknown to him;
 
@@ -1310,17 +1512,23 @@ MISCELLANEOUS
 
 (c) if there is any reason to doubt the accuracy of the name and address, if given.
 
-(2) A person arrested under this section may be detained until his name and address are correctly ascertained except that no person so arrested shall be detained longer than is necessary for bringing him before a court unless the order of a court for his detention is obtained.
+[7/2004 wef 15/04/2004]
+
+(2) A person arrested under this section may be detained until his name and address are correctly ascertained.
+
+(3) No person arrested shall be detained longer than is necessary for bringing him before a court unless the order of a court for his detention is obtained.
 
 ### Inaccuracies in documents
 
-47\. No misnomer or inaccurate description of any person, premises, building, holding, street or place named or described in any document prepared, issued or served under, by virtue of or for the purposes of this Act or any regulations made thereunder shall in any way affect the operation of this Act or any such regulations as respects that person or place if that person or place is so designated in the document as to be identifiable, and no proceedings taken under or by virtue of this Act or any such regulations shall be invalid for want of form.
+47\.—(1) No misnomer or inaccurate description of any person, premises, building, holding, street or place named or described in any document prepared, issued or served under, by virtue of or for the purposes of this Act or any regulations made thereunder, shall in any way affect the operation of this Act or any such regulations as respects that person or place if that person or place is so designated in the document as to be identifiable.
+
+(2) No proceedings taken under or by virtue of this Act or any such regulations shall be invalid for want of form.
 
 ### Evidence
 
 48\.—(1) The contents of any document prepared, issued or served under, by virtue of or for the purposes of this Act or any regulations made thereunder shall, until the contrary is proved, be presumed to be correct.
 
-(2) All records and other documents required by this Act or any regulations made thereunder to be kept by the Commissioner shall be deemed to be public documents and copies thereof or extracts therefrom certified by the officer responsible for the custody thereof to be true copies or extracts, as the case may be, subscribed by that officer with his name and his official title shall be admissible in evidence as proof of the contents of the documents or extracts.
+(2) All records and other documents required by this Act or any regulations made thereunder to be kept by the Commissioner shall be deemed to be public documents and copies thereof or extracts therefrom certified by the officer responsible for the custody thereof to be true copies or extracts, as the case may be, subscribed by that officer with his name, and his official title shall be admissible in evidence as proof of the contents of the documents or extracts.
 
 (3) A certificate purporting to be under the hand of the Commissioner and specifying the costs and expenses or arrears as due and payable by any person shall be prima facie evidence of the facts certified therein and of the signature of the Commissioner.
 
@@ -1340,7 +1548,7 @@ MISCELLANEOUS
 
 ### Jurisdiction of Courts
 
-50\. Notwithstanding the provisions of the Criminal Procedure Code, a District Court or a Magistrate’s Court shall have jurisdiction to hear and determine all offences under this Act and shall have power to impose the full penalty or punishment in respect of an offence under this Act.
+50\. Notwithstanding the provisions of the Criminal Procedure Code (Cap. 68), a District Court or a Magistrate’s Court shall have jurisdiction to hear and determine all offences under this Act and shall have power to impose the full penalty or punishment in respect of an offence under this Act.
 
 ### Compounding of offences
 
@@ -1352,13 +1560,21 @@ MISCELLANEOUS
 
 52\. Proceedings in respect of any offence under this Act or any regulations made thereunder may be conducted by any officer of the Force or any other person authorised in writing in that behalf by the Commissioner.
 
+[15/2010 wef 02/01/2011]
+
 ### Exemption
 
-53\. The Minister may, by order either generally or in any particular case, and subject to such conditions as he may impose, exempt any person, premises or fire safety works from all or any of the provisions of this Act or any regulations made thereunder.
+53\. The Minister may, by order either generally or in any particular case, and subject to such conditions as he may impose, exempt any person, premisesor fire safety works from all or any of the provisions of this Act or any regulations made thereunder.
+
+[7/2004 wef 15/04/2004]
 
 ### Offence by body corporate
 
-54\. Where an offence under this Act or any regulations made thereunder has been committed by a body corporate, a partnership or unincorporated association of persons, any person who at the time of the commission of the offence was a director, manager, partner, secretary or other similar officer thereof, or was purporting to act in any such capacity shall be guilty of that offence unless he proves that the offence was committed without his consent or connivance and that he had exercised all such diligence to prevent the commission of the offence as he ought to have exercised having regard to the nature of his functions in that capacity and to all the circumstances.
+54\. Where an offence under this Act or any regulations made thereunder has been committed by a body corporate, a partnership or unincorporated association of persons, any person who at the time of the commission of the offence was a director, manager, partner, secretary or other similar officer thereof, or was purporting to act in any such capacity shall be guilty of that offence unless he proves that —
+
+(a) the offence was committed without his consent or connivance; and
+
+(b) he had exercised all such diligence to prevent the commission of the offence as he ought to have exercised having regard to the nature of his functions in that capacity and to all the circumstances.
 
 ### Adoption of codes and standards
 
@@ -1366,11 +1582,11 @@ MISCELLANEOUS
 
 (a) recommended, issued or adopted by the Singapore Productivity and Standards Board;
 
-[Act 1/96 wef 01/04/1996 vide S 141/96]
-
-(b) recommended, issued or adopted by any other standards organisation or body of any place outside Singapore being an organisation or body approved by the Commissioner;
+(b) recommended, issued or adopted by any other standards organisation or body of any place outside Singapore being an organisation or body approved by the Commissioner; or
 
 (c) included in any document issued by any Government department or issued by the public authority constituted under any written law.
+
+[1/96]
 
 (2) The Commissioner shall cause a copy of every code, standard, rule, specification or provision adopted under subsection (1)(b) or (c) to be made available for inspection by members of the public without charge at the office of the Commissioner during normal office hours.
 
@@ -1388,19 +1604,21 @@ MISCELLANEOUS
 
 ### Saving of prosecutions under other laws
 
-58\. Nothing in this Act shall prevent any person from being prosecuted under any other written law for any act or omission which constitutes an offence under this Act or any regulations made thereunder or from being liable under that other law to any other or higher punishment or penalty than that provided by this Act or any such regulations but no person shall be punished twice for the same offence.
+58\.—(1) Nothing in this Act shall prevent any person from being prosecuted under any other written law for any act or omission which constitutes an offence under this Act or any regulations made thereunder, or from being liable under that other law to any other or higher punishment or penalty than that provided by this Act or any such regulations.
+
+(2) No person shall be punished twice for the same offence.
 
 ### Protection from liability
 
-59\.—(1) No liability shall lie against the Government or any public officer by reason of the fact that any fire safety works are carried out in accordance with the provisions of this Act or that such works or plans of the building are subject to inspection or approval by the Commissioner or the public officer; nor shall anything in this Act make it obligatory for the Commissioner to inspect any building or fire safety works or the site of any proposed building to ascertain whether the provisions of this Act or any regulations made thereunder are complied with or whether any plans, certificates, notices or other documents submitted to him are accurate.
+59\.—(1) No liability shall lie against the Government or any public officer by reason of the fact that any fire safety works are carried out in accordance with the provisions of this Act or that such works or plans of the building are subject to inspection or approval by the Commissioner or the public officer.
 
-(2) No matter or thing done by the Commissioner or by any public officer shall, if it were done bona fide for the purpose of carrying out the provisions of this Act or any regulations made thereunder, subject him or such person personally liable to any action, liability, claim or demand whatsoever.
+(2) Nothing in this Act shall make it obligatory for the Commissioner to inspect any building or fire safety works or the site of any proposed building to ascertain whether the provisions of this Act or any regulations made thereunder are complied with or whether any plans, certificates, notices or other documents submitted to him are accurate.
+
+(3) No matter or thing done by the Commissioner or by any public officer shall, if it were done bona fide for the purpose of carrying out the provisions of this Act or any regulations made thereunder, subject him or such person personally liable to any action, liability, claim or demand whatsoever.
 
 ### Transfer of employees to Force
 
-60\. Upon the date of commencement of this Act, every person who immediately before that date was serving in the Singapore Fire Service constituted under the Fire Service Act and in force immediately before that date shall be transferred to the Force on the same terms and rank enjoyed or attained by him immediately prior to his transfer and shall be deemed to be appointed under the Civil Defence Act [Cap. 42] and his service in the Singapore Fire Service shall be deemed to be service under the Civil Defence Act.
-
-[S 1999/94]
+60\. On 8th April 1994, every person who immediately before that date was serving in the Singapore Fire Service constituted under the repealed Fire Service Act (Cap. 110) and in force immediately before that date shall be transferred to the Force on the same terms and rank enjoyed or attained by him immediately prior to his transfer and shall be deemed to be appointed under the Civil Defence Act (Cap. 42), and his service in the Singapore Fire Service shall be deemed to be service under the Civil Defence Act.
 
 ### Regulations
 
@@ -1416,7 +1634,7 @@ MISCELLANEOUS
 
 (e) the prescribing of the requirements of a fire emergency plan in designated premises;
 
-(f) the control, regulation and supervision by registration, licensing or otherwise of premises used for any trade or purpose specified in the First Schedule;
+(f) the control, regulation and supervision by registration, licensing or otherwise of premises used for any trade or purpose specified in the Schedule;
 
 (g) the control, regulation and supervision by registration, licensing, inspection or otherwise of places to which the public has access;
 
@@ -1430,17 +1648,27 @@ MISCELLANEOUS
 
 (l) the determining of the standard of any class of petroleum;
 
-(m) the licensing and management of places for storing any class of petroleum;
+(m) the licensing and management of places for storing any class of petroleum ;
+
+[7/2004 wef 16/02/2005]
 
 (n) the prescribing of the quantities of any class of petroleum that may be stored in any licensed premises and the method in which it is to be stored including the maximum quantity of any class of petroleum that can be stored without a licence for residential, commercial or industrial use;
 
+[7/2004 wef 16/02/2005]
+
 (o) the regulation of the dispensing of any class of petroleum;
+
+[7/2004 wef 16/02/2005]
 
 (p) the regulation of the transportation of any class of petroleum including specifying the time periods under which petroleum can be transported and the maximum quantity of any class of petroleum that can be transported without a licence;
 
 (q) the determining of the quantity of and the receptacles in which any class of petroleum may be carried in any vehicle;
 
+[7/2004 wef 16/02/2005]
+
 (r) the prescribing of the standard and specification for the construction of any premises in which any class of petroleum is to be stored;
+
+[7/2004 wef 16/02/2005]
 
 (s) the prescribing of the types and standards of materials and appliances to be used for preventing or extinguishing fire in any licensed premises;
 
@@ -1452,9 +1680,13 @@ MISCELLANEOUS
 
 (w) the prescribing of the conditions to be attached to any licence and the prescribing of the requirements and conditions to be observed by persons employed at the premises to which the licence relates;
 
-(x) the regulation, control and licensing of persons and organisations engaged in the business of petroleum distribution;
+(x) the regulation, control and licensing of persons and organisations engaged in the business of petroleumdistribution;
 
-(y) the prescribing of forms for licences and for other purposes for use in connection with this Act;
+[7/2004 wef 16/02/2005]
+
+(y) the prescribing of forms for licencesand for other purposes for use in connection with this Act;
+
+[7/2004 wef 16/02/2005]
 
 (z) the duties and responsibilities of registered inspectors and the manner in which such duties and responsibilities are to be discharged;
 
@@ -1462,105 +1694,43 @@ MISCELLANEOUS
 
 (zaa) the regulation of the proceedings of any Inquiry Committee constituted under section 6A;
 
-[5/2000 wef 01/04/2000]
+[7/2004 wef 15/04/2004]
 
-(zab) the prescribing of the code of conduct and ethics for registered inspectors; and
+(zab) the prescribing of the code of conduct and ethics for registered inspectors ; and
 
-[5/2000 wef 01/04/2000]
+[7/2004 wef 15/04/2004]
 
 (zb) the prescribing of any matter which is required for the purposes of this Act.
 
+[5/2000]
+
 (2) The Minister may, in making any regulations under subsection (1), provide that any contravention or failure to comply with any of the provisions of the regulations shall be an offence punishable with a fine not exceeding $10,000 or with imprisonment for a term not exceeding 6 months or with both.
 
-### Repeal, amendments and transitional provisions
+### Transitional provisions
 
-62\.—(1) The Fire Service Act is repealed.
+62\.—(1) Any scheme, contract, document, licence, permission or resolution prepared, made, granted or approved under the repealed Fire Service Act (Cap. 110) or the repealed section 12, 14, 17, 18 or 19 of the Petroleum Act (Cap. 229) shall, so far as it is not inconsistent with the provisions of this Act and except as otherwise expressly provided in this Act or in any other written law, continue and be deemed to have been prepared, made, granted or approved under the corresponding provisions of this Act.
 
-(2) Sections 12, 14, 17, 18 and 19 of the Petroleum Act are repealed.
+(2) All moneys belonging to the Fire Service Welfare Fund established under section 12 of the repealed Fire Service Act shall, on 8th April 1994, be transferred to and deemed to be moneys belonging to the Civil Defence Force Fund established under section 101 of the Civil Defence Act (Cap. 42) and shall be used for the purposes stated in that section.
 
-(3) Any scheme, contract, document, licence, permission or resolution prepared, made, granted or approved under the repealed Fire Service Act or the repealed section 12, 14, 17, 18 or 19 of the Petroleum Act shall, so far as it is not inconsistent with the provisions of this Act and except as otherwise expressly provided in this Act or in any other written law, continue and be deemed to have been prepared, made, granted or approved under the corresponding provisions of this Act.
+(3) Any subsidiary legislation made under the repealed Fire Service Act or pursuant to the repealed section 12, 14, 17, 18 or 19 of the Petroleum Act and in force immediately before 8th April 1994 shall, so far as it is not inconsistent with the provisions of this Act, continue in force as if made under this Act until it is revoked or repealed by subsidiary legislation made under this Act.
 
-(4) All moneys belonging to the Fire Service Welfare Fund established under section 12 of the repealed Fire Service Act shall, on the commencement of this Act, be transferred to and deemed to be moneys belonging to the Civil Defence Force Fund established under section 101 of the Civil Defence Act [Cap. 42] and shall be used for the purposes stated in that section.
+(4) The Minister may, by order published in theGazette, repeal or amend any written law which appears to him to be inconsistent with any of the provisions of this Act.
 
-(5) Any subsidiary legislation made under the repealed Fire Service Act or pursuant to the repealed section 12, 14, 17, 18 or 19 of the Petroleum Act and in force immediately before the commencement of this Act shall, so far as it is not inconsistent with the provisions of this Act, continue in force as if made under this Act until it is revoked or repealed by subsidiary legislation made under this Act.
+## THE SCHEDULE
 
-(6) The enactments mentioned in the Second Schedule shall have effect subject to the amendments to the extent therein specified (being minor amendments or amendments consequential on the preceding provisions of this Act).
-
-(7) The Minister may, by order published in theGazette, repeal or amend any written law which appears to him to be inconsistent with any of the provisions of this Act.
-
-[S 1999/94]
-
-FIRST SCHEDULE
-
-Section 31
+Sections 31 and 61(1)(f)
 
 Dangerous Trades or Purposes
 
-(1) Storage of acetylene.
+1\. Storage of acetylene.
 
-(2) Storage of calcium carbide.
+2\. Storage of calcium carbide.
 
-(3) Storage of cellulose solutions.
+3\. Storage of cellulose solutions.
 
-(4) Storage of fireworks.
+4\. Storage of fireworks.
 
-(5) Storage of matches.
-
-[S 449/2000 wef 15/10/2000]
-
-SECOND SCHEDULE
-
-Section 62(6)
-
-Consequential Amendments
-
-Amendments to Civil Defence Act
-
-1.—(1) Section 4(2) of the Civil Defence Act is amended —
-
-(a) by deleting paragraph (h) and substituting the following paragraph:
-
-“
-
-(h) take lawful measures to extinguish and prevent the spread of fire;
-
-”;
-
-(b) by deleting the word “and” at the end of paragraph (k); and
-
-(c) by deleting the full-stop at the end of paragraph (l) and substituting a semi-colon, and by inserting immediately thereafter the following paragraphs:
-
-“
-
-(m) take lawful measures for protecting life and property in case of fire;
-
-(n) provide and maintain an adequate emergency ambulance service;
-
-(o) ensure effective co-ordination between the Force and other fire services in Singapore; and
-
-(p) execute such other duties as may be imposed on it by this Act or any other written law.
-
-”;
-
-(2) Section 5(3) of the Civil Defence Act [Cap. 42] is amended —
-
-(a) by deleting the word “and” at the end of paragraph (b); and
-
-(b) by deleting the full-stop at the end of paragraph (c) and substituting the word “; and”, and by inserting immediately thereafter the following paragraph:
-
-“
-
-(d) public officers who are serving in the Force as engineering or technical officers.
-
-”.
-
-Amendment to Consular Conventions Act
-
-2\. Section 3(2)(a) of the Consular Conventions Act [Cap. 52] is amended by deleting the words “section 7 (a) of the Fire Service Act” in the first line and substituting the words “section 4 of the Fire Safety Act”.
-
-Amendment to Diplomatic Privileges (Commonwealth Countries and Republic of Ireland) Act
-
-3\. Section 3(2)(a) of the Diplomatic Privileges (Commonwealth Countries and Republic of Ireland) Act is amended by deleting the words “section 7 (a) of the Fire Service Act” in the first and second lines and substituting the words “section 4 of the Fire Safety Act”.
+5\. Storage of matches.
 
 ## LEGISLATIVE HISTORY
 
@@ -1587,3 +1757,195 @@ This Legislative History is provided for the convenience of users of the Fire Sa
 ||Date of commencement|1 April 2000|
 |4.|**G. N. No. S 449/2000—Fire Safety Act (Amendment of First Schedule) Notification 2000**|
 ||Date of commencement|15 October 2000|
+|5.|**2000 Revised Edition—Fire Safety Act**|
+||Date of operation|30 December 2000|
+## COMPARATIVE TABLE
+
+Fire Safety Act
+
+(CHAPTER 109A)
+
+The following provisions in the 1993 Revised Edition of the Fire Safety Act have been renumbered by the Law Revision Commissioners in this 2000 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Fire Safety Act.
+
+2000 Ed\. 
+
+1993 Ed\. 
+
+5A — (1)
+
+5 — (6)
+
+(2)
+
+(6A)
+
+(3)
+
+(6B)
+
+(4)
+
+(7)
+
+(5)
+
+(8)
+
+(6)
+
+(8A)
+
+(7)
+
+(8B)
+
+(8)
+
+(8C)
+
+(9)
+
+(8D)
+
+(10)
+
+(8E)
+
+(11)
+
+(8F)
+
+(12)
+
+(9)
+
+7 — (1) and (2)
+
+7 
+
+13 — (1) and (2)
+
+13 — (1)
+
+(3)
+
+(2)
+
+(4)
+
+(3)
+
+14 — (1) and (2)
+
+14 
+
+17 — (3) and (4)
+
+17 — (3)
+
+(5)
+
+(4)
+
+(6)
+
+(5)
+
+(7)
+
+Proviso to (5)
+
+25 — (7)
+
+Proviso to25 — (6)
+
+(8)
+
+25 — (7)
+
+28 — (4) and (5)
+
+28 — (4)
+
+(6)
+
+(5)
+
+29 — (5)
+
+29 — (4A)
+
+(6)
+
+(4B)
+
+(7)
+
+(4C)
+
+(8)
+
+(4D)
+
+(9)
+
+(4E)
+
+(10)
+
+(4F)
+
+(11)
+
+(4G)
+
+(12)
+
+(5)
+
+46 — (2) and (3)
+
+46 — (2)
+
+47 — (1) and (2)
+
+47 
+
+58 — (1) and (2)
+
+58 
+
+59 — (1) and (2)
+
+59 — (1)
+
+(3)
+
+(2)
+
+Deleted
+
+62 — (1) and (2)
+
+62 — (1)
+
+(3)
+
+(2)
+
+(4)
+
+(3)
+
+(5)
+
+Deleted
+
+(6)
+
+(4)
+
+(7)
+
