@@ -88,9 +88,9 @@
 
 - [33 Deposit of plans](#Deposit-of-plans)
 
-- [34 Approval of title surveys and assurance plans](#Approval-of-title-surveys-and-assurance-plans)
+- [34 Approval of cadastral surveys and assurance plans](#Approval-of-cadastral-surveys-and-assurance-plans)
 
-- [35 Duty of registered surveyor to complete title survey](#Duty-of-registered-surveyor-to-complete-title-survey)
+- [35 Duty of registered surveyor to complete cadastral survey](#Duty-of-registered-surveyor-to-complete-cadastral-survey)
 
 - [36 Correction of errors](#Correction-of-errors)
 
@@ -122,7 +122,7 @@
 
 - [48 Certificates of registration](#Certificates-of-registration)
 
-- [49 Payment of title survey fees](#Payment-of-title-survey-fees)
+- [49 Payment of cadastral survey fees](#Payment-of-cadastral-survey-fees)
 
 - [50 References in other written laws](#References-in-other-written-laws)
 
@@ -164,6 +164,16 @@ PRELIMINARY
 
 “Board” means the Land Surveyors Board established under section 4;
 
+“cadastral survey” means any survey relating to the recording of land boundaries, subdivision lines, buildings and related details;
+
+[35/98 wef 16/10/1998]
+
+“cadastral survey services” means the supply for gain or reward of any services, or any plan, certificate or other document, relating to any cadastral survey;
+
+“cadastral survey work” means any work which is part of or related to a cadastral survey;
+
+[35/98 wef 16/10/1998]
+
 “certificate of registration” means the certificate of registration issued under section 14;
 
 “Chief Surveyor” means the officer for the time being performing the duties of the head of the Survey Department;
@@ -172,7 +182,7 @@ PRELIMINARY
 
 “Investigation Committee” means an Investigation Committee appointed under section 24(1);
 
-“licence” means a licence to supply titlesurvey services in Singapore granted under section 17;
+“licence” means a licence to supply cadastralsurvey services in Singapore granted under section 17;
 
 “licensed”, in relation to a corporation or partnership, means a corporation or partnership which has in force a licence;
 
@@ -180,7 +190,7 @@ PRELIMINARY
 
 “nominee”, in relation to any person, means a person who is accustomed or under an obligation (whether formal or informal) to act in accordance with the directions, instructions or wishes of the first-mentioned person, except that a person shall not be regarded as a nominee of another person by reason only that he acts on advice given by that other person in a professional capacity;
 
-“practising certificate” means an annual practising certificate issued under section 15 authorising the holder thereof to engage in title survey work in Singapore;
+“practising certificate” means an annual practising certificate issued under section 15 authorising the holder thereof to engage in cadastral survey work in Singapore;
 
 “President” means the President of the Board;
 
@@ -200,27 +210,13 @@ PRELIMINARY
 
 “rules” means rules made by the Board under section 40;
 
-“title survey” means any survey which by any written law is required for the purpose of or in connection with the registration of any title to land or building or any assurance or instrument affecting or purporting to affect title to land or building, and includes in connection therewith —
-
-(a) the delimitation of the boundaries of any land whether privately owned or not;
-
-(b) the emplacement, replacement and removal of boundary or survey marks;
-
-(c) surveys required for the correct interrelation of boundaries or of boundary or survey marks; and
-
-(d) the making and recording of all measurements and calculations relevant thereto and the drawing and reproduction of plans therefrom;
-
-“title survey services” means the supply for gain or reward of any services, or any plan, certificate or other document, relating to any title survey;
-
-“title survey work” means any work which is part of or related to a title survey;
-
 “unlimited corporation” means a corporation formed on the principle of having no limit placed on the liability of its members.
 
 ### Act not to apply to Government, etc.
 
 3\.—(1) Nothing in this Act shall apply to anything done or omitted to be done by the Government.
 
-(2) This Act shall not be construed as requiring any public authority which supplies title survey services in Singapore under the provisions of any written law to obtain a licence; and in this subsection, “public authority” means any body established by or under any written law and exercising powers vested therein by written law for a public purpose.
+(2) This Act shall not be construed as requiring any public authority which supplies cadastralsurvey services in Singapore under the provisions of any written law to obtain a licence; and in this subsection, “public authority” means any body established by or under any written law and exercising powers vested therein by written law for a public purpose.
 
 ## PART II
 
@@ -298,13 +294,13 @@ and the vacancy so created shall, as soon as practicable, be filled in the manne
 
 (d) to establish, maintain and develop the standard of professional conduct and ethics of the surveying profession;
 
-(e) to promote learning and education in connection with the professional of title surveying;
+(e) to promote learning and education in connection with the professional of cadastral surveying;
 
 (f) to hear and determine disputes relating to professional conduct or ethics of registered surveyors or licensed corporations or partnerships;
 
 (g) to appoint arbitrators for the purpose of hearing and determining disputes between registered surveyors, licensed corporations or partnerships and other persons;
 
-(h) to license corporations and partnerships which supply title survey services in Singapore; and
+(h) to license corporations and partnerships which supply cadastralsurvey services in Singapore; and
 
 (i) generally to do all such acts, matters and things as are necessary to be carried out under the provisions of this Act.
 
@@ -344,17 +340,17 @@ PRIVILEGES OF LAND SURVEYORS
 
 ### Illegal practice
 
-10\.—(1) Subject to the provisions of this Act, no person shall certify to the correctness or accuracy of any title survey unless he is a Government surveyor who is registered under section 12 or a registered surveyor who has in force a practising certificate.
+10\.—(1) Subject to the provisions of this Act, no person shall certify to the correctness or accuracy of any cadastralsurvey unless he is a Government surveyor who is registered under section 12 or a registered surveyor who has in force a practising certificate.
 
 (2) Subject to the provisions of this Act, no person shall —
 
 (a) use or cause or permit to be used any written words, titles or initials or any abbreviation thereof which are intended to cause or may reasonably cause any person to believe that the person using them is authorised to survey title survey services in Singapore; or
 
-(b) advertise or hold himself out or conduct himself in any way or by any means as a person authorised to supply title survey services in Singapore,
+(b) advertise or hold himself out or conduct himself in any way or by any means as a person authorised to supply cadastralsurvey services in Singapore,
 
 unless at the time of so doing the person is a registered surveyor who has in force a practising certificate, a licensed corporation, a licensed partnership or a partnership consisting wholly of registered surveyors.
 
-(3) Subject to the provisions of this Act, no person shall be entitled to recover in any court any charge, fee or remuneration for any title survey services rendered in Singapore, unless the person rendering such services is —
+(3) Subject to the provisions of this Act, no person shall be entitled to recover in any court any charge, fee or remuneration for any cadastralsurvey services rendered in Singapore, unless the person rendering such services is —
 
 (a) a registered surveyor who has in force a practising certificate and is doing so on his own account or as a partner in a licensed partnership or partnership consisting wholly of registered surveyors;
 
@@ -362,7 +358,7 @@ unless at the time of so doing the person is a registered surveyor who has in fo
 
 (c) a licensed corporation.
 
-(4) Subject to the provisions of this Act, no person shall perform or execute any title survey or engage in any title survey work in Singapore unless he is —
+(4) Subject to the provisions of this Act, no person shall perform or execute any cadastralsurvey or engage in any cadastralsurvey work in Singapore unless he is —
 
 (a) a registered surveyor who has in force a practising certificate;
 
@@ -404,7 +400,7 @@ PRACTISING CERTIFICATES
 
 ### Practising certificates
 
-15\.—(1) Where a registered surveyor desires to engage in title survey work in Singapore after 31st December of any year, he shall, not later than 1st December of that year, make an application in the prescribed form and manner for a practising certificate authorising him to engage in such titlesurvey work in the ensuing year.
+15\.—(1) Where a registered surveyor desires to engage in cadastralsurvey work in Singapore after 31st December of any year, he shall, not later than 1st December of that year, make an application in the prescribed form and manner for a practising certificate authorising him to engage in such cadastralsurvey work in the ensuing year.
 
 (2) Notwithstanding subsection (1), where a registered surveyor applies for a practising certificate for the first time after registration under section 12, the application shall be in the prescribed form and may be made at any time during the year and the registered surveyor may be issued a practising certificate for the remainder of the year in which the application is made.
 
@@ -434,11 +430,11 @@ and the Board shall, subject to subsection (4), thereupon issue to the registere
 
 (c) the applicant is not resident in Singapore;
 
-(d) the applicant does not intend to practise either on his own account or in partnership, or is not or not about to be employed by any person lawfully supplying titlesurvey services in Singapore;
+(d) the applicant does not intend to practise either on his own account or in partnership, or is not or not about to be employed by any person lawfully supplying cadastralsurvey services in Singapore;
 
 (e) the declaration under subsection (3) contains a statement that to its knowledge is false in a material particular; or
 
-(f) the conduct of the applicant affords reasonable grounds for believing that he will not engage in titlesurvey work in Singapore in accordance with the written law and with honesty and integrity.
+(f) the conduct of the applicant affords reasonable grounds for believing that he will not engage in cadastralsurvey work in Singapore in accordance with the written law and with honesty and integrity.
 
 (5) Any registered surveyor (not being a registered surveyor who is applying for a practising certificate for the first time) who fails to apply for a practising certificate in the manner and within the period laid down in subsection (1) may, on the making of an application in such form and on payment of such additional fee as may be prescribed, be issued a practising certificate for —
 
@@ -470,9 +466,9 @@ MULTI-DISCIPLINE AND CORPORATE PRACTICE
 
 ### Licence for multi-discipline and corporate practice
 
-17\.—(1) Subject to the provisions of this Act, the Board may grant a licence to a corporation to supply titlesurvey services in Singapore if —
+17\.—(1) Subject to the provisions of this Act, the Board may grant a licence to a corporation to supply cadastralsurvey services in Singapore if —
 
-(a) the memorandum of association of the corporation provides that a primary object of the corporation is to supply titlesurvey services;
+(a) the memorandum of association of the corporation provides that a primary object of the corporation is to supply cadastralsurvey services;
 
 (b) at least $1 million of its authorised capital is bona fide paid-up;
 
@@ -486,7 +482,7 @@ MULTI-DISCIPLINE AND CORPORATE PRACTICE
 
 who are either directors, managers or employees of the corporation;
 
-(e) the business of the corporation, so far as it relates to titlesurvey work in Singapore, will be under the control and management of director of the corporation who —
+(e) the business of the corporation, so far as it relates to cadastralsurvey work in Singapore, will be under the control and management of director of the corporation who —
 
 (i) is a registered surveyor ordinarily resident in Singapore;
 
@@ -496,13 +492,13 @@ who are either directors, managers or employees of the corporation;
 
 (f) the corporation is insured against professional liability in accordance with section 21 and the rules.
 
-(2) Subject to the provisions of this Act, the Board may grant a licence to any unlimited corporation to supply titlesurvey services in Singapore if —
+(2) Subject to the provisions of this Act, the Board may grant a licence to any unlimited corporation to supply cadastralsurvey services in Singapore if —
 
 (a) the requirements specified in subsection (1)(a) and (c) are complied with;
 
 (b) the articles of association of the corporation provide that any person who is neither a registered surveyor nor an allied professional or is a nominee of such a person, or is not a director, manager or employee of the corporation, shall not be registered as a member of that corporation; and
 
-(c) the business of the corporation, so far as it relates to titlesurvey work, will be under the control and management of a director of the corporation who —
+(c) the business of the corporation, so far as it relates to cadastralsurvey work, will be under the control and management of a director of the corporation who —
 
 (i) is a registered surveyor ordinarily resident in Singapore;
 
@@ -510,13 +506,13 @@ who are either directors, managers or employees of the corporation;
 
 (iii) is a member, or a registered owner of at least one share, of the corporation.
 
-(3) Subject to the provisions of this Act, the Board may grant to any partnership not consisting wholly of registered surveyors a licence to supply titlesurvey services in Singapore if —
+(3) Subject to the provisions of this Act, the Board may grant to any partnership not consisting wholly of registered surveyors a licence to supply cadastralsurvey services in Singapore if —
 
 (a) the partnership is one in which only registered surveyors, each of whom shall have in force a practising certificate, and allied professionals have a beneficial interest in the capital assets and profits of the partnership; and
 
-(b) the business of the partnership, so far as it relates to titlesurvey work in Singapore, will be under the control and management of a partner who is a registered surveyor ordinarily resident in Singapore; and has in force a practising certificate.
+(b) the business of the partnership, so far as it relates to cadastralsurvey work in Singapore, will be under the control and management of a partner who is a registered surveyor ordinarily resident in Singapore; and has in force a practising certificate.
 
-(4) Subject to the provisions of this Act, the Board may grant to any corporation or partnership a licence to supply titlesurvey services in Singapore if the corporation or partnership has in force a licence granted under section 20 of the Architects Act or section 20 of the Professional Engineers Act and —
+(4) Subject to the provisions of this Act, the Board may grant to any corporation or partnership a licence to supply cadastralsurvey services in Singapore if the corporation or partnership has in force a licence granted under section 20 of the Architects Act or section 20 of the Professional Engineers Act and —
 
 (a) in the case of an unlimited corporation, the corporation complies with the requirements set out in subsections (1)(c) and (2)(b) and (c);
 
@@ -526,7 +522,7 @@ who are either directors, managers or employees of the corporation;
 
 (5) Any application for a licence under this section shall be in such form and shall be made in such manner as may be prescribed.
 
-(6) The Board may refuse to grant a licence under this section to any corporation (whether unlimited or not) or partnership if, in the opinion of the Board, the past conduct of any director, manager or employee of the corporation, or any partner, manager or employee of the partnership, affords reasonable grounds for believing that the corporation or partnership, as the case may be, will not supply titlesurvey services in Singapore in accordance with the written law and with honesty and integrity.
+(6) The Board may refuse to grant a licence under this section to any corporation (whether unlimited or not) or partnership if, in the opinion of the Board, the past conduct of any director, manager or employee of the corporation, or any partner, manager or employee of the partnership, affords reasonable grounds for believing that the corporation or partnership, as the case may be, will not supply cadastralsurvey services in Singapore in accordance with the written law and with honesty and integrity.
 
 (7) Every licence granted under this section shall, unless earlier revoked, be valid for such period as may be specified therein.
 
@@ -534,7 +530,7 @@ who are either directors, managers or employees of the corporation;
 
 ### Conditions of licence
 
-18\.—(1) It shall be a condition of every licence granted to any corporation or partnership that the corporation or partnership shall supply title survey services in Singapore only under the control and management of a registered surveyor ordinarily resident in Singapore who has in force a practising certificate and who is —
+18\.—(1) It shall be a condition of every licence granted to any corporation or partnership that the corporation or partnership shall supply cadastralsurvey services in Singapore only under the control and management of a registered surveyor ordinarily resident in Singapore who has in force a practising certificate and who is —
 
 (a) a director of the corporation, and —
 
@@ -544,7 +540,7 @@ who are either directors, managers or employees of the corporation;
 
 (b) a partner of the partnership.
 
-(2) It shall be a condition of every licence granted to any corporation (other than an unlimited corporation) that the corporation shall not supply title survey services in Singapore unless —
+(2) It shall be a condition of every licence granted to any corporation (other than an unlimited corporation) that the corporation shall not supply cadastralsurvey services in Singapore unless —
 
 (a) the corporation is insured in respect of professional liability in accordance with section 21 and the rules; and
 
@@ -578,7 +574,7 @@ furnish the Board a true report in writing giving full particulars of the altera
 
 ### Liability insurance
 
-21\. Every licensed corporation which is not an unlimited corporation shall be insured against liability for any breach of professional duty arising out of the conduct of its business of supplying title survey services as a direct result of any negligent act, error or omission committed by the corporation or its directors, managers, secretaries or employees.
+21\. Every licensed corporation which is not an unlimited corporation shall be insured against liability for any breach of professional duty arising out of the conduct of its business of supplying cadastralsurvey services as a direct result of any negligent act, error or omission committed by the corporation or its directors, managers, secretaries or employees.
 
 ### Relationship between client and corporation
 
@@ -586,7 +582,7 @@ furnish the Board a true report in writing giving full particulars of the altera
 
 ### Professional responsibility of supervising surveyor
 
-23\. A registered surveyor who has the control and management of the business of a licensed corporation or licensed partnership relating to the supply of title survey services in Singapore shall be subject to the same standards of professional conduct and competence in respect of the business as if the title survey services were personally supplied by the registered surveyor.
+23\. A registered surveyor who has the control and management of the business of a licensed corporation or licensed partnership relating to the supply of cadastralsurvey services in Singapore shall be subject to the same standards of professional conduct and competence in respect of the business as if the cadastralsurvey services were personally supplied by the registered surveyor.
 
 ## PART VII
 
@@ -630,7 +626,7 @@ DISCIPLINARY PROCEEDINGS AND REVOCATION OF LICENCES
 
 (j) if he refuses or fails to comply with any order of the Board made under subsection (2)(a) or (c); or
 
-(k) if he refuses or fails to pay the cost of any correction to his title survey within 14 days of the receipt of a statement issued to him under section 36(4).
+(k) if he refuses or fails to pay the cost of any correction to his cadastral survey within 14 days of the receipt of a statement issued to him under section 36(4).
 
 (2) The Board may, in any case in which it considers that no cause of sufficient gravity for cancellation of registration or suspension from practice exists —
 
@@ -638,7 +634,7 @@ DISCIPLINARY PROCEEDINGS AND REVOCATION OF LICENCES
 
 (b) by writing under the hand of the President censure the registered surveyor; or
 
-(c) order the registered surveyor to pay the cost of any correction to his title survey incurred by the Chief Surveyor.
+(c) order the registered surveyor to pay the cost of any correction to his cadastral survey incurred by the Chief Surveyor.
 
 (3) The Board shall not exercise its powers under subsection (1) or (2) unless —
 
@@ -704,23 +700,23 @@ has a beneficial interest in the capital assets and profits of the partnership;
 
 (d) the licence had been obtained by fraud or misrepresentation;
 
-(e) the corporation or partnership has ceased to supply title survey services in Singapore;
+(e) the corporation or partnership has ceased to supply cadastralsurvey services in Singapore;
 
 (f) the corporation or partnership has contravened or failed to comply with section 19, 20 or 21, or has been convicted of an offence under this Act;
 
 (g) the corporation or partnership has contravened any provision of the prescribed code of professional conduct and ethics;
 
-(h) the conduct of any director, manager or employee of the corporation, or any partner or employee of the partnership, affords grounds for believing that the corporation or partnership, as the case may be, will not engage in titlesurvey work in Singapore in accordance with the written law and with honesty and integrity;
+(h) the conduct of any director, manager or employee of the corporation, or any partner or employee of the partnership, affords grounds for believing that the corporation or partnership, as the case may be, will not engage in cadastralsurvey work in Singapore in accordance with the written law and with honesty and integrity;
 
 (i) the corporation or partnership has refused or failed to comply with an order of the Board made under subsection (2); or
 
-(j) the corporation or partnership refuses or fails to pay the cost of any correction to its title survey within 14 days of the receipt of a statement issued to it under section 36(4).
+(j) the corporation or partnership refuses or fails to pay the cost of any correction to its cadastral survey within 14 days of the receipt of a statement issued to it under section 36(4).
 
 (2) The Board may, in any case in which it considers that no cause of sufficient gravity for revoking a licence exists —
 
 (a) by order impose on the corporation or partnership concerned a penalty not exceeding $20,000 and every such penalty shall be recoverable as a debt due to the Board; or
 
-(b) order the corporation or partnership to pay the cost of any correction to its title survey incurred by the Chief Surveyor.
+(b) order the corporation or partnership to pay the cost of any correction to its cadastral survey incurred by the Chief Surveyor.
 
 (3) The Board shall not exercise its powers under subsection (1) or (2) unless —
 
@@ -736,7 +732,7 @@ has a beneficial interest in the capital assets and profits of the partnership;
 
 (a) the Registrar shall cause notice of the revocation to be published in theGazetteand shall cancel the entry in the register of licensees relating to the corporation or partnership concerned; and
 
-(b) the corporation or partnership concerned shall, as from the date of the notice, cease to supply titlesurvey services in Singapore except as may be approved by the Board for the purpose of winding up its business.
+(b) the corporation or partnership concerned shall, as from the date of the notice, cease to supply cadastralsurvey services in Singapore except as may be approved by the Board for the purpose of winding up its business.
 
 (7) Subsection (6) (b) shall not prejudice the enforcement by any person of any right or claim against the corporation or partnership or by the corporation or partnership of any right or claim against any person.
 
@@ -800,37 +796,37 @@ CONDUCT OF SURVEYS
 
 ### Inspection of Government survey maps
 
-32\. For the purpose of obtaining data for a title survey, the survey plan of which is to be lodged with the Survey Department, a registered surveyor who has in force a practising certificate or an authorised employee or manager of a licensed corporation or partnership may at all reasonable times be permitted to inspect the relevant maps, plans or survey records in the Department and to take copies of such information therefrom as he may require without payment of search fees, but he shall not remove any such maps, plans or survey records and shall be liable for any damage which he may cause to them while they are under his control.
+32\. For the purpose of obtaining data for a cadastral survey, the survey plan of which is to be lodged with the Survey Department, a registered surveyor who has in force a practising certificate or an authorised employee or manager of a licensed corporation or partnership may at all reasonable times be permitted to inspect the relevant maps, plans or survey records in the Department and to take copies of such information therefrom as he may require without payment of search fees, but he shall not remove any such maps, plans or survey records and shall be liable for any damage which he may cause to them while they are under his control.
 
 ### Deposit of plans
 
-33\. On completion of a title survey, the registered surveyor who signs the survey plan thereof shall deposit that plan together with the relevant field books, calculation sheets and survey data with the Survey Department and if the plan is approved by the Chief Surveyor or other officer appointed by him to approve it on his behalf all those documents (including any copyright subsisting therein) shall become the property of the Government and shall be filed as permanent survey records.
+33\. On completion of a cadastral survey, the registered surveyor who signs the survey plan thereof shall deposit that plan together with the relevant field books, calculation sheets and survey data with the Survey Department and if the plan is approved by the Chief Surveyor or other officer appointed by him to approve it on his behalf all those documents (including any copyright subsisting therein) shall become the property of the Governmentand shall be filed as permanent survey records.
 
-### Approval of title surveys and assurance plans
+### Approval of cadastral surveys and assurance plans
 
-34\.—(1) No title survey or survey plan thereof shall be accepted or adopted for the purpose of any written law unless it has been approved by the Chief Surveyor or other officer appointed by him to approve plans on his behalf.
+34\.—(1) No cadastral survey or survey plan thereof shall be accepted or adopted for the purpose of any written law unless it has been approved by the Chief Surveyor or other officer appointed by him to approve plans on his behalf.
 
 (2) No assurance plan shall be lodged in the Registry of Titles and Deeds unless the plan is signed by a registered surveyor and approved by the Chief Surveyor or other officer appointed by him to approve assurance plans on his behalf, and bears a caution to the effect that the boundaries or dimensions and areas are inconclusive.
 
 (3) The Chief Surveyor may withhold approval of any plan under this section where the subdivision permission as required by section 12 of the Planning Act 1998 has not been obtained or where the prescribed survey fees have not been paid.
 
-### Duty of registered surveyor to complete title survey
+### Duty of registered surveyor to complete cadastral survey
 
-35\.—(1) A registered surveyor who prepares and signs an assurance plan shall carry out and complete the title survey of the land described and shown in the plan within 6 months from the date of approval of the plan by the Chief Surveyor or such extended period as the Board may allow.
+35\.—(1) A registered surveyor who prepares and signs an assurance plan shall carry out and complete the cadastral survey of the land described and shown in the plan within 6 months from the date of approval of the plan by the Chief Surveyor or such extended period as the Boardmay allow.
 
-(2) Where a registered surveyor has not carried out or has not been able to complete the title survey within the period specified in subsection (1) or any extended period allowed by the Board, the Board may order the title survey to be carried out or completed by a Government surveyor or another registered surveyor.
+(2) Where a registered surveyor has not carried out or has not been able to complete the cadastral survey within the period specified in subsection (1) or any extended period allowed by the Board, the Board may order the cadastral survey to be carried out or completed by a Government surveyor or another registered surveyor.
 
 (3) This section shall not apply to registered surveyors in the employment of any public authority established by any written law.
 
 ### Correction of errors
 
-36\.—(1) The Chief Surveyor or any Government surveyor authorised by him may at any time undertake field and office checks on the title survey work of a registered surveyor or a licensed corporation or partnership.
+36\.—(1) The Chief Surveyor or any Government surveyor authorised by him may at any time undertake field and office checks on the cadastral survey work of a registered surveyor or a licensed corporation or partnership.
 
-(2) The Chief Surveyor or any person authorised by him may, within 12 months after the date on which any survey plan is deposited with the Survey Department, by notice in writing, direct any registered surveyor or any licensed corporation or partnership to correct at his or its expense within a period specified in the notice any error in the title survey made by that registered surveyor or a registered surveyor who is a director, partner, manager or employee of that corporation or partnership, as the case may be.
+(2) The Chief Surveyor or any person authorised by him may, within 12 months after the date on which any survey plan is deposited with the Survey Department, by notice in writing, direct any registered surveyor or any licensed corporation or partnership to correct at his or its expense within a period specified in the notice any error in the cadastral survey made by that registered surveyor or a registered surveyor who is a director, partner, manager or employee of that corporation or partnership, as the case may be.
 
 (3) If any person fails to comply with the notice given under subsection (2), the Chief Surveyor may undertake the correction of the survey and recover the cost of the correction from the person.
 
-(4) Where the Chief Surveyor is authorised to recover the cost of any correction of a title survey under subsection (3), he shall serve on the registered surveyor, corporation or partnership concerned a statement of the cost of the correction by registered post addressed to the last known place of practice or residence of the registered surveyor, corporation or partnership.
+(4) Where the Chief Surveyor is authorised to recover the cost of any correction of a cadastral survey under subsection (3), he shall serve on the registered surveyor, corporation or partnership concerned a statement of the cost of the correction by registered post addressed to the last known place of practice or residence of the registered surveyor, corporation or partnership.
 
 (5) Subsections (2) and (3) shall not apply to an assurance plan.
 
@@ -886,19 +882,19 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (d) prescribing the form of the register of surveyors, register of practitioners and register of licensees to be kept and the particulars to be entered therein;
 
-(e) prescribing the fees to be charged by the Survey Department in connection with title surveys and the time for payment of those fees;
+(e) prescribing the fees to be charged by the Survey Department in connection with cadastral surveys and the time for payment of those fees;
 
 (f) prescribing a code of professional conduct and ethics;
 
-(g) regulating the preparation and making of title surveys;
+(g) regulating the preparation and making of cadastral surveys;
 
-(h) requiring all or any of the following to take out and maintain insurance against liability for breach of professional duty in the course of supplying title survey services:
+(h) requiring all or any of the following to take out and maintain insurance against liability for breach of professional duty in the course of supplying cadastralsurvey services:
 
 (i) any partnership consisting wholly of registered surveyors;
 
 (ii) any partnership or unlimited corporation applying for a licence;
 
-(iii) any registered surveyor applying for a practising certificate for the purpose of engaging in title survey practice on his own account;
+(iii) any registered surveyor applying for a practising certificate for the purpose of engaging in cadastralsurvey practice on his own account;
 
 (iv) any registered surveyor applying for a practising certificate who is employed or about to be employed by any person or body referred to in sub-paragraphs (i) to (iii);
 
@@ -960,13 +956,13 @@ SAVINGS AND TRANSITIONAL PROVISIONS
 
 48\. Every certificate of registration issued under the repealed Act to any registered surveyor before 30th August 1991 shall not lapse but remain valid until the registration of the surveyor is cancelled under this Act.
 
-### Payment of title survey fees
+### Payment of cadastral survey fees
 
-49\. Where any sum is deposited or paid in advance to the Chief Surveyor under section 10(3)(b) of the Planning Act before 30th August 1991 in respect of any title survey of land, that sum may be utilised by the Chief Surveyor in payment of the fees of any registered surveyor who has been engaged —
+49\. Where any sum is deposited or paid in advance to the Chief Surveyor under section 10(3)(b) of the Planning Act before 30th August 1991 in respect of any cadastral survey of land, that sum may be utilised by the Chief Surveyor in payment of the fees of any registered surveyor who has been engaged —
 
-(a) by the person who deposited the sum, or his successor in title, to carry out the title survey of that land; or
+(a) by the person who deposited the sum, or his successor in cadastral, to carry out the cadastral survey of that land; or
 
-(b) by the Board or previous Board to complete the title survey of that land.
+(b) by the Board or previous Board to complete the cadastral survey of that land.
 
 ### References in other written laws
 
@@ -1004,3 +1000,9 @@ This Legislative History is provided for the convenience of users of the Land Su
 |||(Bill No. 18/97 published on 20 November 1997)|
 ||Date of Second and Third Readings|14 January 1998|
 ||Date of commencement|1 April 1998|
+|5.|**Act 35 of 1998—Boundaries and Survey Maps Act 1998**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|31 July 1998|
+|||(Bill No. 32/98 published on 1 August 1998)|
+||Date of Second and Third Readings|4 September 1998|
+||Date of commencement|16 October 1998|
