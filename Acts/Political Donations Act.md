@@ -179,9 +179,13 @@ PRELIMINARY
 
 “permissible donor” means —
 
-(a) an individual who is a citizen of Singapore and is not less than 21 years of age; or
+(a) an individual who is a citizen of Singapore and is not less than 21 years of age;
 
-(b) a Singapore-controlled company which carries on business wholly or mainly in Singapore;
+(b) a Singapore-controlled company which carries on business wholly or mainly in Singapore; or
+
+(c) in relation to a candidate, any political party he is standing for at an election;
+
+[19/2001 wef 15/05/2001]
 
 “political association” means —
 
@@ -605,7 +609,7 @@ Declarations and donation reports
 
 (b) no other donations required by this section to be recorded in the donation report have been accepted by the candidate or any of his election agents during the relevant period;
 
-(c) no anonymous donations, or no anonymous donations in excess of the sum permitted under section 14(2), have been received and accepted by the candidate and his election agent or (as the case may be) the principal election agent during that same period ; and
+(c) no anonymous donations, or no anonymous donations in excess of the sum permitted under section 14(2), have been received and accepted by the candidate and his election agent or (as the case may be) the principal election agent during that same period and the relevant period in section 14(4); and
 
 (d) no other donation from any person or body other than a permissible donor has been so received and accepted by the candidate or his election agent or agents during that same period.
 
@@ -643,7 +647,7 @@ then each individual contribution by each person referred to in paragraph (a) or
 
 ### Reporting of multiple small donations to political associations
 
-21\.—(1) This section shall apply where a person (referred to in this section as the donor) has during the course of a calendar year made one or more donations (each of which is referred to in this section as a small donation) to a political association, the aggregate value of which is not less than $10,000, or such other prescribed sum.
+21\.—(1) This section shall apply where a person (referred to in this section as the donor) has during the course of a calendar year made donations (each of which is referred to in this section as a small donation) to a political association, the aggregate value of which is not less than $10,000, or such other prescribed sum.
 
 (2) The donor must make a donation report in the prescribed form to the Registrar in respect of the small donations, giving the following particulars:
 
