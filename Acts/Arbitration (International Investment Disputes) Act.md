@@ -68,7 +68,7 @@ An Act to implement the International Convention on the Settlement of Investment
 
 4\.—(1) Any person seeking recognition or enforcement of an award rendered pursuant to the Convention shall be entitled to have the award registered in the High Court subject to proof of any matters that may be prescribed and to the other provisions of this Act.
 
-(2) Where any pecuniary obligation imposed by the award is expressed in a currency other than the currency of Singapore, the award shall be registered as if that obligation were expressed in the currency of Singapore converted on the basis of the rate of exchange prevailing at the date when the award was rendered pursuant to the Convention.
+(2) [Deleted by Act34/1992]
 
 (3) In addition to the pecuniary obligations imposed by the award, the award shall be registered for the reasonable costs of and incidental to registration.
 
@@ -763,3 +763,8 @@ This Legislative History is provided for the convenience of users of the Arbitra
 ||Date of commencement|1 March 1971|
 |3.|**1985 Revised Edition—Arbitration (International Investment Disputes) Act (Chapter 11)**|
 ||Date of operation|30 March 1987|
+|4.|**Act 34 of 1992—Bills of Exchange (Amendment) Act 1992**|
+||Date of First Reading|14 September 1992|
+|||(Bill No. 35/92 published on 15 September 1992)|
+||Date of Second and Third Readings|16 November 1992|
+||Date of commencement|18 December 1992|
