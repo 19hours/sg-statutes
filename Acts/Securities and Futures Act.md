@@ -140,6 +140,8 @@
 
 - [57 Clearing house to assist Authority](#Clearing-house-to-assist-Authority)
 
+- [57A Control of substantial shareholding in clearing house](#Control-of-substantial-shareholding-in-clearing-house)
+
 - [58 Business rules of clearing house have effect as contract](#Business-rules-of-clearing-house-have-effect-as-contract)
 
 - [59 Authority to be notified of amendments to business rules](#Authority-to-be-notified-of-amendments-to-business-rules)
@@ -206,6 +208,8 @@
 
 - [87 Grant of representative’s licence](#Grant-of-representative’s-licence)
 
+- [87A Temporary representative’s licence](#Temporary-representative’s-licence)
+
 - [88 Power of Authority to impose conditions or restrictions](#Power-of-Authority-to-impose-conditions-or-restrictions)
 
 - [89 Period of licence](#Period-of-licence)
@@ -248,7 +252,11 @@
 
 [**Division 2  Customer Assets**](#Division-2--Customer-Assets)
 
+- [103A Interpretation of this Division](#Interpretation-of-this-Division)
+
 - [104 Handling of customer assets](#Handling-of-customer-assets)
+
+- [104A Non-availability of customer money and other assets for payment of debt](#Non-availability-of-customer-money-and-other-assets-for-payment-of-debt)
 
 - [105 Penalties under this Division](#Penalties-under-this-Division)
 
@@ -576,6 +584,8 @@
 
 - [239 Preliminary provisions](#Preliminary-provisions)
 
+- [239A Authority may disapply this Division to certain offers and invitations](#Authority-may-disapply-this-Division-to-certain-offers-and-invitations)
+
 [**Subdivision 2 Prospectus Requirements**](#Subdivision-2-Prospectus-Requirements)
 
 - [240 Requirement for prospectus and profile statement, where relevant](#Requirement-for-prospectus-and-profile-statement-where-relevant)
@@ -586,7 +596,7 @@
 
 - [243 Contents of prospectus](#Contents-of-prospectus)
 
-- [244 Invitation to public to lend money to or to deposit money with corporation](#Invitation-to-public-to-lend-money-to-or-to-deposit-money-with-corporation)
+- [244 (Repealed)](#Repealed)
 
 - [245 Retention of over-subscriptions and statement of asset-backing in debenture issues](#Retention-of-over-subscriptions-and-statement-of-asset-backing-in-debenture-issues)
 
@@ -610,7 +620,7 @@
 
 - [255 Defences](#Defences)
 
-- [256 Abridged prospectus for renounceable rights issues](#Abridged-prospectus-for-renounceable-rights-issues)
+- [256 Offer information statement for renounceable rights issues](#Offer-information-statement-for-renounceable-rights-issues)
 
 - [257 Document containing offer of shares or debentures for sale deemed prospectus](#Document-containing-offer-of-shares-or-debentures-for-sale-deemed-prospectus)
 
@@ -624,17 +634,19 @@
 
 - [261 Preliminary provisions](#Preliminary-provisions)
 
-- [262 Qualifications of trustee for debenture holders](#Qualifications-of-trustee-for-debenture-holders)
+- [262 (Repealed)](#Repealed)
 
-- [263 Retirement of trustees](#Retirement-of-trustees)
+- [263 (Repealed)](#Repealed)
 
-- [264 Contents of trust deed](#Contents-of-trust-deed)
+- [264 (Repealed)](#Repealed)
 
 - [265 Power of court in relation to certain irredeemable debentures](#Power-of-court-in-relation-to-certain-irredeemable-debentures)
 
 - [266 Duties of trustees](#Duties-of-trustees)
 
 - [267 Powers of trustee to apply to court for directions, etc.](#Powers-of-trustee-to-apply-to-court-for-directions-etc)
+
+- [267A Right of Authority, securities exchange and holders of debentures to apply to court for order](#Right-of-Authority-securities-exchange-and-holders-of-debentures-to-apply-to-court-for-order)
 
 - [268 Obligations of borrowing corporation](#Obligations-of-borrowing-corporation)
 
@@ -662,7 +674,7 @@
 
 - [279 Offer or invitation in respect of debentures made by Government or international financial institutions](#Offer-or-invitation-in-respect-of-debentures-made-by-Government-or-international-financial-institutions)
 
-- [280 Reporting requirements](#Reporting-requirements)
+- [280 (Repealed)](#Repealed)
 
 - [281 Revocation of exemption](#Revocation-of-exemption)
 
@@ -675,6 +687,8 @@
 - [283 Interpretation of this Division](#Interpretation-of-this-Division)
 
 - [284 Code on Collective Investment Schemes](#Code-on-Collective-Investment-Schemes)
+
+- [284A Authority may disapply this Division to certain offers and invitations](#Authority-may-disapply-this-Division-to-certain-offers-and-invitations)
 
 [**Subdivision 2 Authorisation and Recognition**](#Subdivision-2-Authorisation-and-Recognition)
 
@@ -722,7 +736,11 @@
 
 - [304 Offer or invitation made to certain institutions or persons](#Offer-or-invitation-made-to-certain-institutions-or-persons)
 
+- [304A First sale of units acquired under exemption in section 304](#First-sale-of-units-acquired-under-exemption-in-section-304)
+
 - [305 Offer or invitation made to sophisticated investors](#Offer-or-invitation-made-to-sophisticated-investors)
+
+- [305A First sale of units acquired under exemption in section 305](#First-sale-of-units-acquired-under-exemption-in-section-305)
 
 - [306 Power of Authority to exempt](#Power-of-Authority-to-exempt)
 
@@ -742,7 +760,7 @@
 
 - [312 Disclosure of information](#Disclosure-of-information)
 
-- [313 Regulations for the purpose of this Part](#Regulations-for-the-purpose-of-this-Part)
+- [313 Regulations for purposes of this Part](#Regulations-for-purposes-of-this-Part)
 
 [**Part XV MISCELLANEOUS**](#Part-XV)
 
@@ -755,6 +773,8 @@
 - [317 Records](#Records)
 
 - [318 Size, durability and legibility of records delivered to Authority](#Size-durability-and-legibility-of-records-delivered-to-Authority)
+
+- [318A Translation of instruments](#Translation-of-instruments)
 
 - [319 Supply of magnetic tapes — exclusion of liability for errors or omissions](#Supply-of-magnetic-tapes-—-exclusion-of-liability-for-errors-or-omissions)
 
@@ -812,6 +832,8 @@
 
 [**THIRD SCHEDULE Specified Persons**](#THIRD-SCHEDULE-Specified-Persons)
 
+[**FOURTH SCHEDULE Specified Provisions**](#FOURTH-SCHEDULE-Specified-Provisions)
+
 [**Legislative History**](#Legislative-History)
 
 [**Comparative Table**](#Comparative-Table)
@@ -826,7 +848,7 @@ REVISED EDITION 2002
 
 (31st December 2002)
 
-An Act relating to the regulation of activities and institutions in the securities and futures industry, including leveraged foreign exchange trading, and for matters connected therewith.
+An Act relating to the regulation of activities and institutions in the securities and futures industry, including leveraged foreign exchange trading, and of clearing facilities, and for matters connected therewith.
 
 [1st January 2002: Parts I, VIII, IX, X and XV (except section 314), First and Second Schedules ;
 
@@ -874,7 +896,17 @@ whether or not those rules, regulations, by-laws or similar body of statements a
 
 “capital markets services licence” means a licence that is granted by the Authority under section 86 to a person to carry on a business in any regulated activity;
 
-“clearing facility” means a facility for the clearing or settlement of securities or futures contracts traded on a securities market or a futures market;
+“clearing facility” means —
+
+(a) a facility for the clearing or settlement of —
+
+(i) transactions in securities traded on a securities market; or
+
+(ii) futures contracts traded on a futures market; or
+
+(b) such other clearing or settlement facility or class of clearing or settlement facilities as the Authority may, by order, prescribe;
+
+[16/2003 wef 22/12/2003]
 
 “clearing house” means any corporation which has been approved by the Authority under section 51 as a clearing house;
 
@@ -910,13 +942,19 @@ but does not include —
 
 (iii) an arrangement under which each of the participants is a related corporation of the manager;
 
-(iv) an arrangement under which each of the participants is a bona fide employee or former employee of a corporation in the same group of related corporations as the manager, or a spouse, widow, widower, minor child (natural or adopted) or minor step-child of such employee or former employee;
+(iv) an arrangement made by or on behalf of a corporation solely for the benefit of persons each of whom is either a bona fide director, former director, consultant, adviser, employee or former employee of that corporation or a related corporation of that corporation, or a spouse, widow, widower or a child, adopted child or step-child below the age of 18 of such director, former director, employee or former employee;
+
+[16/2003 wef 22/12/2003]
+
+(iva) an arrangement made by or on behalf of 2 or more corporations solely for the benefit of persons each of whom is either a bona fide director, former director, consultant, adviser, employee or former employee of any of those corporations or a related corporation of any of those corporations, or a spouse, widow, widower or a child, adopted child or step-child below the age of 18 of such director, former director, employee or former employee;
+
+[16/2003 wef 22/12/2003]
 
 (v) a franchise;
 
 (vi) an arrangement under which money received by an advocate and solicitor from his client, whether as a stakeholder or otherwise, acting in his professional capacity in the ordinary course of his practice, or under which money is received by a statutory body as a stakeholder in the carrying out of its statutory functions;
 
-(vii) an arrangement made by any co-operative society registered under the Co-operative Societies Act (Cap. 62) in accordance with the objects thereof for the benefit of its members;
+(vii) an arrangement made by any co-operative society registered under the Co-operative Societies Act (Cap. 62) in accordance with the objects thereof solely for the benefit of its members;
 
 (viii) an arrangement made for the purposes of any chit fund permitted to operate under the Chit Funds Act (Cap. 39);
 
@@ -950,11 +988,21 @@ and a reference in this Act to a person connected to another person shall be con
 
 “corporation” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
 
-“customer” means —
+“customer”, in relation to a holder of a capital markets services licence, means —
 
-(a) for the purposes of Part V, a person on whose behalf a holder of a capital markets services licence carries on any regulated activity or any other person that the holder enters or will enter into transactions with as principal for the sale or purchase of securities or futures contracts, but does not include such person or class of persons as may be prescribed;
+(a) for the purposes of Parts IV, VI, VII and XV, a person on whose behalf the holder carries on or will carry on any regulated activity; and
 
-(b) for the purposes of any other provision in this Act, a person on whose behalf a holder of a capital markets services licence carries on any regulated activity;
+(b) for the purposes of Part V, a person on whose behalf the holder carries on or will carry on any regulated activity, or any other person with whom the holder, as principal, enters or will enter into transactions —
+
+(i) for the sale or purchase of securities;
+
+(ii) for the sale or purchase of futures contracts; or
+
+(iii) in connection with leveraged foreign exchange trading,
+
+but does not include such person or class of persons as may be prescribed;
+
+[16/2003 wef 22/12/2003]
 
 “dealing in securities” has the meaning given to it in the Second Schedule;
 
@@ -1084,6 +1132,10 @@ whether those rules are made —
 
 “representative”, except for the purposes of Part XIII, means a person, by whatever name called, in the direct employment of, or acting for, or by arrangement with, a person who carries on business in any regulated activity, who carries out for that person any such activity (other than work ordinarily performed by accountants, clerks or cashiers), whether or not he is remunerated, and whether his remuneration, if any, is by way of salary, wages, commission or otherwise; and includes any officer of a corporation who performs for the corporation any such activity whether or not he is remunerated, and whether his remuneration, if any, is by way of salary, wages, commission or otherwise;
 
+“representative’s licence” means a licence that is granted by the Authority under section 87 or a temporary representative’s licence that is granted by the Authority under section 87A;
+
+[16/2003 wef 22/12/2003]
+
 “securities” means —
 
 (a) debentures or stocks issued or proposed to be issued by a government;
@@ -1121,6 +1173,10 @@ but does not include —
 “securities market” has the meaning given to it in the First Schedule;
 
 “share” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
+
+“subsidiary” has the same meaning as in section 5 of the Companies Act;
+
+[16/2003 wef 22/12/2003]
 
 “substantial shareholder” has the same meaning as in Division 4 of Part IV of the Companies Act;
 
@@ -1342,19 +1398,15 @@ Securities Markets and Futures Markets
 
 (8) Subject to subsection (9), the Authority shall not revoke any exemption granted to a person under subsection (3) or (5) without giving the person an opportunity to be heard.
 
-(9) Where the Authority revokes an exemption granted to a person under subsection (3) or (5) on any ground referred to in subsection (6) on the basis of any of the following circumstances:
+(9) The Authority may revoke an exemption granted to a person under subsection (3) or (5) on any ground referred to in subsection (6) on the basis of any of the following circumstances without giving the person an opportunity to be heard:
 
-(a) the person or its substantial shareholder is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
+(a) the person is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
 
-(b) execution against the person or its substantial shareholder in respect of a judgment debt has been returned unsatisfied in whole or in part;
+(b) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the person;
 
-(c) a receiver, a receiver and manager, judicial manager or equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the person or its substantial shareholder;
+(c) the person has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly.
 
-(d) the person or its substantial shareholder has, whether in Singapore or elsewhere, entered into a compromise or scheme of arrangement with its creditors, being a compromise or scheme of arrangement that is still in operation; or
-
-(e) the person or its substantial shareholder, or any officer of the person has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it or he acted fraudulently or dishonestly,
-
-the Authority need not give the person an opportunity to be heard.
+[16/2003 wef 22/12/2003]
 
 (10) A person that is aggrieved by the decision of the Authority made under subsection (6) may, within 30 days after it is notified of the decision, appeal to the Minister whose decision shall be final.
 
@@ -1410,19 +1462,15 @@ the Authority need not give the person an opportunity to be heard.
 
 (8) Subject to subsection (9), the Authority shall not revoke any exemption granted to a person under subsection (3) or (5) without giving the person an opportunity to be heard.
 
-(9) Where the Authority revokes an exemption granted to a person under subsection (3) or (5) on any ground referred to in subsection (6) on the basis of any of the following circumstances:
+(9) The Authority may revoke an exemption granted to a person under subsection (3) or (5) on any ground referred to in subsection (6) on the basis of any of the following circumstances without giving the person an opportunity to be heard:
 
-(a) the person or its substantial shareholder is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
+(a) the person is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
 
-(b) execution against the person or its substantial shareholder in respect of a judgment debt has been returned unsatisfied in whole or in part;
+(b) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the person;
 
-(c) a receiver, a receiver and manager, judicial manager or equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the person or its substantial shareholder;
+(c) the person has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly.
 
-(d) the person or its substantial shareholder has, whether in Singapore or elsewhere, entered into a compromise or scheme of arrangement with its creditors, being a compromise or scheme of arrangement that is still in operation; or
-
-(e) the person or its substantial shareholder, or any officer of the person has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it or he acted fraudulently or dishonestly,
-
-the Authority need not give the person an opportunity to be heard.
+[16/2003 wef 22/12/2003]
 
 (10) A person that is aggrieved by the decision of the Authority made under subsection (6) may, within 30 days after it is notified of the decision, appeal to the Minister whose decision shall be final.
 
@@ -1456,7 +1504,13 @@ the Authority need not give the person an opportunity to be heard.
 
 (3) Without prejudice to the generality of subsection (1), regulations made under this section may prescribe requirements that apply to recognised trading system providers which would also apply to a person granted an exemption under section 5(3) or 6(3).
 
-(4) Regulations made under this section may provide that a contravention of specified provisions thereof shall be an offence and may provide penalties not exceeding a fine of $200,000.
+(4) Regulations made under this section may provide —
+
+(a) that a contravention of any specified provision thereof shall be an offence; and
+
+(b) for penalties not exceeding a fine of $200,000 or imprisonment for a term not exceeding 12 months or both for each offence and, in the case of a continuing offence, a further penalty not exceeding a fine of 10% of the maximum fine prescribed for that offence for every day or part thereof during which the offence continues after conviction.
+
+[16/2003 wef 22/12/2003]
 
 ### Application of provisions to person granted an exemption under section 5 (3) or 6 (3) or person operating an exempt market
 
@@ -1507,6 +1561,20 @@ Exchanges
 (5) In subsection (4)(f), “contingencies or disasters” includes events such as technical complications occurring within automated systems.
 
 (6) The Authority may impose different conditions or restrictions or give different directions with respect to different applications for approval to be a securities exchange or futures exchange.
+
+(6A) Subject to subsection (6B), the Authority shall not refuse to grant an approval under subsection (4) without giving the applicant an opportunity to be heard.
+
+[16/2003 wef 22/12/2003]
+
+(6B) The Authority may refuse to grant an approval to an applicant under subsection (4) on the ground that it would be contrary to the interests of the investing public to grant the approval on the basis of any of the following circumstances without giving the applicant an opportunity to be heard:
+
+(a) the applicant is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
+
+(b) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the applicant;
+
+(c) the applicant has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly.
+
+[16/2003 wef 22/12/2003]
 
 (7) An applicant that is aggrieved by the refusal of the Authority to grant an approval under subsection (4) may, within 30 days after it is notified of the decision, appeal to the Minister whose decision shall be final.
 
@@ -1570,7 +1638,7 @@ such as to provide reasonable assurance that all obligations arising out of the 
 
 (g) the Authority deems fit upon the application of the corporation to cancel the approval.
 
-(2) For the purposes of subsection (1) (a), a corporation shall be deemed to have ceased to operate its securities market or futures market if —
+(2) For the purposes of subsection (1)(a), a corporation shall be deemed to have ceased to operate its securities market or futures market if —
 
 (a) it has ceased to operate its securities market or futures market for more than 30 days unless it has obtained the prior approval of the Authority to do so; or
 
@@ -1578,17 +1646,15 @@ such as to provide reasonable assurance that all obligations arising out of the 
 
 (3) Subject to subsection (4), the Authority shall not revoke any approval granted to a corporation under section 9 without giving the corporation an opportunity to be heard.
 
-(4) The Authority need not give the corporation an opportunity to be heard where the Authority revokes an approval granted to a corporation under section 9 on any ground referred to in subsection (1) on the basis of any of the following circumstances:
+(4) The Authority may revoke an approval granted to a corporation under section 9 on any ground referred to in subsection (1) on the basis of any of the following circumstances without giving the corporation an opportunity to be heard:
 
-(a) the corporation or its substantial shareholder is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
+(a) the corporation is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
 
-(b) execution against the corporation or its substantial shareholder in respect of a judgment debt has been returned unsatisfied in whole or in part;
+(b) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the corporation;
 
-(c) a receiver, a receiver and manager, judicial manager or equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the corporation or its substantial shareholder;
+(c) the corporation has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly.
 
-(d) the corporation or its substantial shareholder has, whether in Singapore or elsewhere, entered into a compromise or scheme of arrangement with its creditors, being a compromise or scheme of arrangement that is still in operation; or
-
-(e) the corporation or its substantial shareholder, or any officer of the corporation has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it or he acted fraudulently or dishonestly.
+[16/2003 wef 22/12/2003]
 
 (5) A corporation that is aggrieved by the decision of the Authority made under subsection (1) may, within 30 days after it is notified of the decision, appeal to the Minister whose decision shall be final.
 
@@ -1618,17 +1684,37 @@ such as to provide reasonable assurance that all obligations arising out of the 
 
 (2) The Authority may grant its approval referred to in subsection (1) subject to such conditions or restrictions as the Authority may think fit.
 
-(3) Without prejudice to subsection (5), the Authority may, for the purposes of securing compliance with subsection (1) or any condition or restriction imposed under subsection (2), by notice in writing direct the transfer or disposal of all or any of the shares of the securities exchange or futures exchange in which the substantial shareholder has or has had an interest.
+(3) Without prejudice to subsection (7), the Authority may, for the purposes of securing compliance with subsection (1) or any condition or restriction imposed under subsection (2), by notice in writing direct the transfer or disposal of all or any of the shares of the securities exchange or futures exchange in which the substantial shareholder has or has had an interest.
 
-(4) Any person who receives a notice by the Authority under subsection (3) shall transfer or dispose of the number of shares of the securities exchange or futures exchange which are the subject of such direction, and until such transfer or disposal —
+(4) Until the person to whom a direction is issued under subsection (3) transfers or disposes of the shares which are the subject of the direction, and notwithstanding anything to the contrary in the Companies Act (Cap. 50) or the memorandum or articles of association of the securities exchange or futures exchange —
 
-(a) no voting rights shall be exercisable in respect of that number of shares;
+(a) no voting rights shall be exercisable in respect of the shares which are the subject of the direction;
 
-(b) no shares of the securities exchange or futures exchange shall be issued or offered (whether by way of rights, bonus or otherwise) in respect of that number of shares; and
+(b) the securities exchange or futures exchange shall not offer or issue any shares (whether by way of rights, bonus, share dividend or otherwise) in respect of the shares which are the subject of the direction; and
 
-(c) no payment shall be made by the securities exchange or futures exchange of any sums (whether by way of dividends or otherwise) in respect of that number of shares, except in a liquidation of the securities exchange or futures exchange.
+(c) except in a liquidation of the securities exchange or futures exchange, the securities exchange or futures exchange shall not make any payment (whether by way of cash dividend or dividend in kind or otherwise) in respect of the shares which are the subject of the direction.
 
-(5) Any person who contravenes subsection (1) or (4) or any condition or restriction imposed by the Authority under subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part thereof during which the offence continues after conviction.
+[16/2003 wef 22/12/2003]
+
+(5) Any issue of shares by the securities exchange or futures exchange in contravention of subsection (4)(b) shall be deemed to be null and void and the person to whom a direction has been issued under subsection (3) shall immediately return those shares to the securities exchange or futures exchange, upon which the securities exchange or futures exchange shall return to the person any payment received from him in respect of those shares.
+
+[16/2003 wef 22/12/2003]
+
+(6) Any payment made by the securities exchange or futures exchange in contravention of subsection (4)(c) shall be deemed to be null and void and the person to whom a direction has been issued under subsection (3) shall immediately return the payment he has received to the securities exchange or futures exchange.
+
+[16/2003 wef 22/12/2003]
+
+(7) Any person who contravenes subsection (1) or any condition or restriction imposed by the Authority under subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
+
+[16/2003 wef 22/12/2003]
+
+(8) Any person who contravenes subsection (4)(b) or (c), (5) or (6) or any direction issued by the Authority under subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
+
+[16/2003 wef 22/12/2003]
+
+(9) For the avoidance of doubt, a direction issued under subsection (3) shall be deemed not to be subsidiary legislation.
+
+[16/2003 wef 22/12/2003]
 
 ### Business rules of securities exchange or futures exchange have effect as contract
 
@@ -1644,7 +1730,13 @@ under which each of the persons mentioned in paragraphs (a) and (b) agrees to ob
 
 17\.—(1) A securities exchange or futures exchange that proposes to make any amendment by way of rescission, substitution, alteration or addition to its business rules, or a securities exchange that proposes to make any amendment by way of rescission, substitution, alteration or addition to its listing rules shall immediately inform the Authority of the proposed amendment by written notice which shall state the date on which the amendment is proposed to be made, an explanation of the purpose of the amendment and the text of the amendment.
 
-(2) If the notice required to be given under subsection (1) is not given at least 21 days before the making of the amendment, that amendment shall not come into force.
+(2) An amendment (whether in its original form or altered or supplemented under subsection (3)) shall not come into force unless the written notice referred to in subsection (1) is given at least 21 days before the amendment is made.
+
+[16/2003 wef 22/12/2003]
+
+(2A) Notwithstanding subsection (2), the Authority may, on the application of a securities exchange or futures exchange, allow an amendment to come into force before the expiry of the period of 21 days referred to in that subsection.
+
+[16/2003 wef 22/12/2003]
 
 (3) The Authority may, within 21 days after the receipt of a notice under subsection (1), by notice in writing to the securities exchange or futures exchange, disallow, alter or supplement the whole or any specified part of the amendment in question and, thereupon, such whole or specified part of the amendment, as the case may be —
 
@@ -1746,7 +1838,17 @@ the Authority may, if it thinks it necessary in the interest of the public, or s
 
 (3) Subject to subsection (4), the Authority shall not direct a securities exchange or futures exchange to remove an officer from office or employment without giving the securities exchange or futures exchange an opportunity to be heard.
 
-(4) Where the Authority directs a securities exchange or futures exchange to remove an officer from office or employment under this section on any ground referred to in subsection (1)(d), (e), (f) or (g) the Authority need not give that securities exchange or futures exchange an opportunity to be heard.
+(4) The Authority may direct a securities exchange or futures exchange to remove an officer from its office or employment under subsection (1) on any of the following grounds without giving the securities exchange or futures exchange an opportunity to be heard:
+
+(a) the officer is an undischarged bankrupt, whether in Singapore or elsewhere;
+
+(b) the officer has been convicted, whether in Singapore or elsewhere, of an offence —
+
+(i) involving fraud or dishonesty or the conviction for which involved a finding that he had acted fraudulently or dishonestly; and
+
+(ii) punishable with imprisonment for a term of 3 months or more.
+
+[16/2003 wef 22/12/2003]
 
 (5) Where the Authority directs a securities exchange or futures exchange to remove the officer from office or employment under subsection (1), the Authority need not give that officer an opportunity to be heard.
 
@@ -1914,6 +2016,20 @@ Exchange Holding Companies
 
 (5) The Authority may impose different conditions or restrictions or give different directions with respect to different applications for approval as an exchange holding company.
 
+(5A) Subject to subsection (5B), the Authority shall not refuse to grant an approval under subsection (4) without giving the applicant an opportunity to be heard.
+
+[16/2003 wef 22/12/2003]
+
+(5B) The Authority may refuse to grant an approval to an applicant under subsection (4) on the ground that it would be contrary to the interests of the investing public to grant the approval on the basis of any of the following circumstances without giving the applicant an opportunity to be heard:
+
+(a) the applicant is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
+
+(b) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the applicant;
+
+(c) the applicant has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly.
+
+[16/2003 wef 22/12/2003]
+
 (6) An applicant that is aggrieved by the refusal of the Authority to grant an approval under subsection (4) may, within 30 days after it is notified of the decision, appeal to the Minister whose decision shall be final.
 
 (7) An exchange holding company which contravenes any of the conditions or restrictions imposed under subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part thereof during which the offence continues after conviction.
@@ -1936,19 +2052,15 @@ Exchange Holding Companies
 
 (2) Subject to subsection (3), the Authority shall not revoke any approval granted to a corporation under section 29 without giving the corporation an opportunity to be heard.
 
-(3) Where the Authority revokes an approval granted to a corporation under section 29 on any ground referred to in subsection (1) on the basis of any of the following circumstances:
+(3) The Authority may revoke an approval granted to a corporation under section 29 on any ground referred to in subsection (1) on the basis of any of the following circumstances without giving the corporation an opportunity to be heard:
 
-(a) the corporation or its substantial shareholder is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
+(a) the corporation is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
 
-(b) execution against the corporation or its substantial shareholder in respect of a judgment debt has been returned unsatisfied in whole or in part;
+(b) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the corporation;
 
-(c) a receiver, a receiver and manager, judicial manager or equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the corporation or its substantial shareholder;
+(c) the corporation has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly.
 
-(d) the corporation or its substantial shareholder has, whether in Singapore or elsewhere, entered into a compromise or scheme of arrangement with its creditors, being a compromise or scheme of arrangement that is still in operation; or
-
-(e) the corporation or its substantial shareholder, or any officer of the corporation has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it or he acted fraudulently or dishonestly,
-
-the Authority need not give the corporation an opportunity to be heard.
+[16/2003 wef 22/12/2003]
 
 (4) A corporation that is aggrieved by the decision of the Authority made under subsection (1) may, within 30 days after it is notified of the decision, appeal to the Minister whose decision shall be final.
 
@@ -2036,7 +2148,17 @@ the Authority may, if it thinks it necessary in the interest of the public, or s
 
 (3) Subject to subsection (4), the Authority shall not direct an exchange holding company to remove an officer from office or employment without giving the exchange holding company an opportunity to be heard.
 
-(4) Where the Authority directs an exchange holding company to remove an officer from office or employment under this section on any ground referred to in subsection (1)(d), (e), (f) or (g), the Authority need not give that exchange holding company an opportunity to be heard.
+(4) The Authority may direct an exchange holding company to remove an officer from its office or employment under subsection (1) on any of the following grounds without giving the exchange holding company an opportunity to be heard:
+
+(a) the officer is an undischarged bankrupt, whether in Singapore or elsewhere;
+
+(b) the officer has been convicted, whether in Singapore or elsewhere, of an offence —
+
+(i) involving fraud or dishonesty or the conviction for which involved a finding that he had acted fraudulently or dishonestly; and
+
+(ii) punishable with imprisonment for a term of 3 months or more.
+
+[16/2003 wef 22/12/2003]
 
 (5) Where the Authority directs an exchange holding company to remove the officer from office or employment under subsection (1), the Authority need not give that officer an opportunity to be heard.
 
@@ -2050,17 +2172,37 @@ the Authority may, if it thinks it necessary in the interest of the public, or s
 
 (2) The Authority may grant its approval referred to in subsection (1) subject to such conditions or restrictions as the Authority may think fit.
 
-(3) Without prejudice to subsection (5), the Authority may, for the purposes of securing compliance with subsection (1) or any condition or restriction imposed under subsection (2), by notice in writing direct the transfer or disposal of all or any of the shares of the exchange holding company in which the substantial shareholder has or has had an interest.
+(3) Without prejudice to subsection (7), the Authority may, for the purposes of securing compliance with subsection (1) or any condition or restriction imposed under subsection (2), by notice in writing direct the transfer or disposal of all or any of the shares of the exchange holding company in which the substantial shareholder has or has had an interest.
 
-(4) Any person who receives a notice by the Authority under subsection (3) shall transfer or dispose of the number of shares of the exchange holding company which are the subject of such direction, and until such transfer or disposal —
+(4) Until the person to whom a direction is issued under subsection (3) transfers or disposes of the shares which are the subject of the direction, and notwithstanding anything to the contrary in the Companies Act (Cap. 50) or the memorandum or articles of association of the exchange holding company —
 
-(a) no voting rights shall be exercisable in respect of that number of shares;
+(a) no voting rights shall be exercisable in respect of the shares which are the subject of the direction;
 
-(b) no shares of the exchange holding company shall be issued or offered (whether by way of rights, bonus or otherwise) in respect of that number of shares; and
+(b) the exchange holding company shall not offer or issue any shares (whether by way of rights, bonus, share dividend or otherwise) in respect of the shares which are the subject of the direction; and
 
-(c) no payment shall be made by the exchange holding company of any sums (whether by way of dividends or otherwise) in respect of that number of shares except in a liquidation of the exchange holding company.
+(c) except in a liquidation of the exchange holding company, the exchange holding company shall not make any payment (whether by way of cash dividend or dividend in kind or otherwise) in respect of the shares which are the subject of the direction.
 
-(5) Any person who contravenes subsection (1) or (4) or any condition or restriction imposed by the Authority under subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part thereof during which the offence continues after conviction.
+[16/2003 wef 22/12/2003]
+
+(5) Any issue of shares by the exchange holding company in contravention of subsection (4)(b) shall be deemed to be null and void and the person to whom a direction has been issued under subsection (3) shall immediately return those shares to the exchange holding company, upon which the exchange holding company shall return to the person any payment received from him in respect of those shares.
+
+[16/2003 wef 22/12/2003]
+
+(6) Any payment made by the exchange holding company in contravention of subsection (4)(c) shall be deemed to be null and void and the person to whom a direction has been issued under subsection (3) shall immediately return the payment he has received to the exchange holding company.
+
+[16/2003 wef 22/12/2003]
+
+(7) Any person who contravenes subsection (1) or any condition or restriction imposed by the Authority under subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
+
+[16/2003 wef 22/12/2003]
+
+(8) Any person who contravenes subsection (4)(b) or (c), (5) or (6) or any direction issued by the Authority under subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
+
+[16/2003 wef 22/12/2003]
+
+(9) For the avoidance of doubt, a direction issued under subsection (3) shall be deemed not to be subsidiary legislation.
+
+[16/2003 wef 22/12/2003]
 
 ### Additional powers of Authority in respect of auditors
 
@@ -2164,6 +2306,20 @@ Recognised Trading System Providers
 
 (7) The Authority may impose different conditions or restrictions or give different directions with respect to different applications for recognition as a recognised trading system provider.
 
+(7A) Subject to subsection (7B), the Authority shall not refuse to recognise an applicant as a recognised trading system provider under subsection (4) without giving the applicant an opportunity to be heard.
+
+[16/2003 wef 22/12/2003]
+
+(7B) The Authority may refuse to recognise an applicant as a recognised trading system provider under subsection (4) on the ground that it would be contrary to the interests of the investing public to grant the recognition on the basis of any of the following circumstances without giving the applicant an opportunity to be heard:
+
+(a) the applicant is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
+
+(b) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the applicant;
+
+(c) the applicant has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly.
+
+[16/2003 wef 22/12/2003]
+
 (8) An applicant that is aggrieved by the refusal of the Authority to grant a recognition under subsection (4) may, within 30 days after it is notified of the decision, appeal to the Minister whose decision shall be final.
 
 (9) The Authority shall give notice in theGazetteof any recognised trading system provider that has been recognised under this section.
@@ -2222,21 +2378,17 @@ Recognised Trading System Providers
 
 (2) For the purposes of subsection (1)(a), a recognised trading system provider shall be deemed to have ceased to operate its securities market or futures market if it has ceased to operate such securities market or futures market for more than 30 days unless it has obtained the prior approval of the Authority to do so, or unless it has ceased to operate such securities market or futures market by virtue of any direction issued by the Authority under section 43.
 
-(3) Subject to subsection (4), the Authority shall not revoke any approval granted to a recognised trading system provider under section 36 without giving the recognised trading system provider an opportunity to be heard.
+(3) Subject to subsection (4), the Authority shall not revoke any recognition granted to a recognised trading system provider under section 36 without giving the recognised trading system provider an opportunity to be heard.
 
-(4) Where the Authority revokes a recognition granted to a recognised trading system provider under section 36 on any ground referred to in subsection (1) on the basis of any of the following circumstances:
+(4) The Authority may revoke a recognition granted to a recognised trading system provider under section 36 on any ground referred to in subsection (1) on the basis of any of the following circumstances without giving the recognised trading system provider an opportunity to be heard:
 
-(a) the recognised trading system provider or its substantial shareholder is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
+(a) the recognised trading system provider is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
 
-(b) execution against the recognised trading system provider or its substantial shareholder in respect of a judgment debt has been returned unsatisfied in whole or in part;
+(b) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the recognised trading system provider;
 
-(c) a receiver, a receiver and manager, judicial manager or equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the recognised trading system provider or its substantial shareholder;
+(c) the recognised trading system provider has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly.
 
-(d) the recognised trading system provider or its substantial shareholder has, whether in Singapore or elsewhere, entered into a compromise or scheme of arrangement with its creditors, being a compromise or scheme of arrangement that is still in operation; or
-
-(e) the recognised trading system provider or its substantial shareholder, or any officer of the recognised trading system provider has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it or he acted fraudulently or dishonestly,
-
-the Authority need not give the recognised trading system provider an opportunity to be heard.
+[16/2003 wef 22/12/2003]
 
 (5) A recognised trading system provider that is aggrieved by the decision of the Authority made under subsection (1) may, within 30 days after it is notified of the decision, appeal to the Minister whose decision shall be final.
 
@@ -2310,7 +2462,17 @@ the Authority may, if it thinks it necessary in the interest of the public, or s
 
 (3) Subject to subsection (4), the Authority shall not direct a recognised trading system provider to remove an officer from office or employment without giving the recognised trading system provider an opportunity to be heard.
 
-(4) Where the Authority directs a recognised trading system provider to remove the officer from office or employment under this section on any ground referred to in subsection (1)(d), (e), (f) or (g), the Authority need not give that recognised trading system provider an opportunity to be heard.
+(4) The Authority may direct a recognised trading system provider to remove an officer from its office or employment under subsection (1) on any of the following grounds without giving the recognised trading system provider an opportunity to be heard:
+
+(a) the officer is an undischarged bankrupt, whether in Singapore or elsewhere;
+
+(b) the officer has been convicted, whether in Singapore or elsewhere, of an offence —
+
+(i) involving fraud or dishonesty or the conviction for which involved a finding that he had acted fraudulently or dishonestly; and
+
+(ii) punishable with imprisonment for a term of 3 months or more.
+
+[16/2003 wef 22/12/2003]
 
 (5) Where the Authority directs a recognised trading system provider to remove the officer from office or employment under subsection (1), the Authority need not give that officer an opportunity to be heard.
 
@@ -2416,7 +2578,7 @@ Interpretation
 
 “participant” means a person who, under the business rules of a clearing house, may participate in one or more of the services provided by the clearing house in its capacity as a clearing house;
 
-“property” means —
+“property”, in relation to a market charge or market collateral, means —
 
 (a) money, letters of credit, banker’s drafts, certified cheques, guarantees or other similar instruments;
 
@@ -2480,19 +2642,15 @@ Clearing Houses
 
 (6) Subject to subsection (7), the Authority shall not revoke any exemption granted to a person under subsection (3) without giving the person an opportunity to be heard.
 
-(7) Where the Authority revokes an exemption granted to a person under subsection (3) on any ground referred to in subsection (4) on the basis of any of the following circumstances:
+(7) The Authority may revoke an exemption granted to a person under subsection (3) on any ground referred to in subsection (4) on the basis of any of the following circumstances without giving the person an opportunity to be heard:
 
-(a) the person or its substantial shareholder is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
+(a) the person is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
 
-(b) execution against the person or its substantial shareholder in respect of a judgment debt has been returned unsatisfied in whole or in part;
+(b) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the person;
 
-(c) a receiver, receiver and manager, judicial manager or equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the person or its substantial shareholder;
+(c) the person has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly.
 
-(d) the person or its substantial shareholder has, whether in Singapore or elsewhere, entered into a compromise or scheme of arrangement with its creditors, being a compromise or scheme of arrangement that is still in operation; or
-
-(e) the person or its substantial shareholder, or any officer of the corporation has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it or he acted fraudulently or dishonestly,
-
-the Authority need not give the person an opportunity to be heard.
+[16/2003 wef 22/12/2003]
 
 (8) A person that is aggrieved by the decision of the Authority made under subsection (4) may, within 30 days after it is notified of the decision, appeal to the Minister whose decision shall be final.
 
@@ -2520,7 +2678,7 @@ the Authority need not give the person an opportunity to be heard.
 
 (4) The Authority may, in writing, subject to such conditions or restrictions as it may think fit to impose, approve a corporation as a clearing house if the Authority is satisfied that —
 
-(a) the corporation will ensure that, as far as is reasonably practicable, there are orderly, fair and expeditious clearing arrangements for transactions in securities or futures contracts;
+(a) the corporation will ensure that, as far as is reasonably practicable, there are orderly, fair and expeditious arrangements for the clearing or settlement of transactions;
 
 (b) the corporation will manage any risks associated with its business and operations prudently;
 
@@ -2546,6 +2704,20 @@ the Authority need not give the person an opportunity to be heard.
 
 (5) The Authority may impose different conditions or restrictions or give different directions with respect to different applications for approval to be a clearing house.
 
+(5A) Subject to subsection (5B), the Authority shall not refuse to grant an approval under subsection (4) without giving the applicant an opportunity to be heard.
+
+[16/2003 wef 22/12/2003]
+
+(5B) The Authority may refuse to grant an approval to an applicant under subsection (4) on the ground that it would be contrary to the interests of the investing public to grant the approval on the basis of any of the following circumstances without giving the applicant an opportunity to be heard:
+
+(a) the applicant is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
+
+(b) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the applicant;
+
+(c) the applicant has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly.
+
+[16/2003 wef 22/12/2003]
+
 (6) An applicant that is aggrieved by the refusal of the Authority to grant an approval under subsection (4) may, within 30 days after he is notified of the decision, appeal to the Minister whose decision shall be final.
 
 (7) The Authority shall give notice in theGazetteof any clearing house that has been approved under this section.
@@ -2558,9 +2730,9 @@ the Authority need not give the person an opportunity to be heard.
 
 52\. Without limiting the generality of section 51(4)(e), the business rules of a clearing house shall make satisfactory provision —
 
-(a) for the registration of or transfer of securities or futures contracts;
+(a) for the registration of or transfer of any market contract or class of market contracts;
 
-(b) for the settlement of transactions involving securities or futures contracts;
+(b) for the settlement of transactions;
 
 (c) for guaranteeing to its members the performance of futures contracts;
 
@@ -2574,7 +2746,13 @@ the Authority need not give the person an opportunity to be heard.
 
 53\.—(1) Without prejudice to section 341, the Authority may make regulations relating to the approval of and the requirements applicable to a clearing house.
 
-(2) Regulations made under this section may provide that a contravention of specified provisions thereof shall be an offence and may impose a fine not exceeding $200,000.
+(2) Regulations made under this section may provide —
+
+(a) that a contravention of any specified provision thereof shall be an offence; and
+
+(b) for penalties not exceeding a fine of $200,000 or imprisonment for a term not exceeding 12 months or both for each offence and, in the case of a continuing offence, a further penalty not exceeding a fine of 10% of the maximum fine prescribed for that offence for every day or part thereof during which the offence continues after conviction.
+
+[16/2003 wef 22/12/2003]
 
 ### Continuing obligations of clearing house
 
@@ -2608,19 +2786,15 @@ the Authority need not give the person an opportunity to be heard.
 
 (3) Subject to subsection (4), the Authority shall not revoke any approval granted to a corporation under section 51 without giving the corporation an opportunity to be heard.
 
-(4) Where the Authority revokes an approval granted to a corporation under section 51 on any ground referred to in subsection (1) on the basis of any of the following circumstances:
+(4) The Authority may revoke an approval granted to a corporation under section 51 on any ground referred to in subsection (1) on the basis of any of the following circumstances without giving the corporation an opportunity to be heard:
 
-(a) the corporation or its substantial shareholder is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
+(a) the corporation is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
 
-(b) execution against the corporation or its substantial shareholder in respect of a judgment debt has been returned unsatisfied in whole or in part;
+(b) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the corporation;
 
-(c) a receiver, receiver and manager, judicial manager or equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the corporation or its substantial shareholder;
+(c) the corporation has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly.
 
-(d) the corporation or its substantial shareholder has, whether in Singapore or elsewhere, entered into a compromise or scheme of arrangement with its creditors, being a compromise or scheme of arrangement that is still in operation; or
-
-(e) the corporation or its substantial shareholder, or any officer of the corporation has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it or he acted fraudulently or dishonestly,
-
-the Authority need not give the corporation an opportunity to be heard.
+[16/2003 wef 22/12/2003]
 
 (5) A corporation that is aggrieved by the decision of the Authority made under subsection (1) may, within 30 days after it is notified of the decision, appeal to the Minister whose decision shall be final.
 
@@ -2644,6 +2818,34 @@ the Authority need not give the corporation an opportunity to be heard.
 
 (3) A clearing house which, without reasonable justification or excuse, contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
 
+### Control of substantial shareholding in clearing house
+
+57A\.—(1) No person shall enter into any agreement to acquire shares by virtue of which he would, if the agreement is carried out, acquire a substantial shareholding in a clearing house without first notifying the Authority of his intention to enter into the agreement and obtaining the approval of the Authority to his entering into the agreement.
+
+(2) The Authority may grant its approval referred to in subsection (1) subject to such conditions or restrictions as the Authority may think fit.
+
+(3) Without prejudice to subsection (7), the Authority may, for the purposes of securing compliance with subsection (1) or any condition or restriction imposed under subsection (2), by notice in writing direct the transfer or disposal of all or any of the shares of the clearing house in which the substantial shareholder has or has had an interest.
+
+(4) Until the person to whom a direction is issued under subsection (3) transfers or disposes of the shares which are the subject of the direction, and notwithstanding anything to the contrary in the Companies Act (Cap. 50) or the memorandum or articles of association of the clearing house —
+
+(a) no voting rights shall be exercisable in respect of the shares which are the subject of the direction;
+
+(b) the clearing house shall not offer or issue any shares (whether by way of rights, bonus, share dividend or otherwise) in respect of the shares which are the subject of the direction; and
+
+(c) except in a liquidation of the clearing house, the clearing house shall not make any payment (whether by way of cash dividend or dividend in kind or otherwise) in respect of the shares which are the subject of the direction.
+
+(5) Any issue of shares by the clearing house in contravention of subsection (4)(b) shall be deemed to be null and void and the person to whom a direction has been issued under subsection (3) shall immediately return those shares to the clearing house, upon which the clearing house shall return to the person any payment received from him in respect of those shares.
+
+(6) Any payment made by the clearing house in contravention of subsection (4)(c) shall be deemed to be null and void and the person to whom a direction has been issued under subsection (3) shall immediately return the payment he has received to the clearing house.
+
+(7) Any person who contravenes subsection (1) or any condition or restriction imposed by the Authority under subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
+
+(8) Any person who contravenes subsection (4)(b) or (c), (5) or (6) or any direction issued by the Authority under subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
+
+(9) For the avoidance of doubt, a direction issued under subsection (3) shall be deemed not to be subsidiary legislation.
+
+[16/2003 wef 22/12/2003]
+
 ### Business rules of clearing house have effect as contract
 
 58\.—(1) The business rules of a clearing house shall operate as a binding contract —
@@ -2664,7 +2866,13 @@ under which each of the persons mentioned in paragraphs (a) to (d) agrees to obs
 
 59\.—(1) A clearing house that proposes to make any amendment by way of rescission, substitution, alteration or addition to its business rules shall immediately inform the Authority of the proposed amendment by written notice which shall state the date on which the amendment is proposed to be made, an explanation of the purpose of the amendment and provide the text of the amendment.
 
-(2) If the notice required to be given under subsection (1) is not given at least 21 days before the making of the amendment, that amendment shall not come into force.
+(2) An amendment (whether in its original form or altered or supplemented under subsection (3)) shall not come into force unless the written notice referred to in subsection (1) is given at least 21 days before the amendment is made.
+
+[16/2003 wef 22/12/2003]
+
+(2A) Notwithstanding subsection (2), the Authority may, on the application of a clearing house, allow an amendment to come into force before the expiry of the period of 21 days referred to in that subsection.
+
+[16/2003 wef 22/12/2003]
 
 (3) The Authority may, within 21 days after the receipt of a notice under subsection (1), by notice in writing to the clearing house, disallow, alter or supplement the whole or any specified part of the amendment in question and, thereupon such whole or specified part of the amendment, as the case may be —
 
@@ -2678,9 +2886,11 @@ under which each of the persons mentioned in paragraphs (a) to (d) agrees to obs
 
 (a) alter or supplement the business rules of the clearing house; or
 
-(b) alter or supplement the terms and conditions for the clearing or settlement of any securities or futures contract by the clearing house,
+(b) alter or supplement the terms and conditions for the clearing or settlement of any transaction or class of transactions by the clearing house,
 
 if the Authority considers that such action is necessary for the protection of investors or to ensure an orderly, fair and expeditious clearing facility.
+
+[16/2003 wef 22/12/2003]
 
 ### Power of court to order observance or enforcement of business rules
 
@@ -2708,9 +2918,13 @@ if the Authority considers that such action is necessary for the protection of i
 
 63\.—(1) The Authority may, if it thinks it necessary or expedient —
 
-(a) for ensuring fair and orderly securities markets or futures markets, or for ensuring fair, orderly and expeditious clearing and settlement of transactions in securities or futures contracts;
+(a) for ensuring the fair, orderly and expeditious clearing and settlement of transactions;
 
-(b) for ensuring the integrity of, and proper management of systemic risks in securities markets or futures markets; or
+[16/2003 wef 22/12/2003]
+
+(b) for ensuring the integrity and stability of the financial system; or
+
+[16/2003 wef 22/12/2003]
 
 (c) in the interests of the public or section of the public or for the protection of investors,
 
@@ -2718,7 +2932,9 @@ issue directions by notice in writing either of a general or specific nature to 
 
 (2) Without prejudice to the generality of subsection (1), any direction issued under that subsection may relate to —
 
-(a) the clearing or settlement of securities or futures contracts and the making of adjustments of contractual obligations arising out of those securities or futures contracts;
+(a) the clearing or settlement of any transaction or class of transactions by a clearing house and the making of adjustments of contractual obligations arising out of that transaction or class of transactions;
+
+[16/2003 wef 22/12/2003]
 
 (b) the manner in which a clearing house carries on its business; and
 
@@ -2754,7 +2970,17 @@ the Authority may, if it thinks it necessary in the interests of the public, or 
 
 (3) Subject to subsection (4), the Authority shall not direct a clearing house to remove an officer from office or employment without giving the clearing house an opportunity to be heard.
 
-(4) Where the Authority directs a clearing house to remove an officer from office or employment under this section on any ground referred to in subsection (1)(d), (e), (f) or (g), the Authority need not give that clearing house an opportunity to be heard.
+(4) The Authority may direct a clearing house to remove an officer from its office or employment under subsection (1) on any of the following grounds without giving the clearing house an opportunity to be heard:
+
+(a) the officer is an undischarged bankrupt, whether in Singapore or elsewhere;
+
+(b) the officer has been convicted, whether in Singapore or elsewhere, of an offence —
+
+(i) involving fraud or dishonesty or the conviction for which involved a finding that he had acted fraudulently or dishonestly; and
+
+(ii) punishable with imprisonment for a term of 3 months or more.
+
+[16/2003 wef 22/12/2003]
 
 (5) Where the Authority directs a clearing house to remove from office or employment an officer under subsection (1), the Authority need not give that officer an opportunity to be heard.
 
@@ -2768,9 +2994,9 @@ the Authority may, if it thinks it necessary in the interests of the public, or 
 
 (a) altering conditions of delivery;
 
-(b) fixing the settlement price at which securities or futures contracts are to be liquidated;
+(b) fixing the settlement price;
 
-(c) requiring margins or additional margins for any securities or futures contracts; and
+(c) requiring margins or additional margins; and
 
 (d) modifying or suspending any of the business rules of the clearing house,
 
@@ -2778,9 +3004,9 @@ and the clearing house shall comply with that direction.
 
 (2) Where a clearing house fails to comply with the direction of the Authority under subsection (1) within such time as is specified by the Authority, the Authority may —
 
-(a) set emergency margin levels in any securities or futures contract or class of securities or futures contracts; or
+(a) set emergency margin levels; or
 
-(b) take such other action, including but not limited to those specified in subsection (1), as the Authority thinks fit to maintain or restore fair, orderly and expeditious clearing and settlement of transactions in securities or futures contracts or any class of securities or futures contracts.
+(b) take such other action, including but not limited to those specified in subsection (1), as the Authority thinks fit to maintain or restore fair, orderly and expeditious arrangements for the clearing or settlement of any transaction or class of transactions.
 
 (3) In this section, “emergency” means threatened or actual market manipulations and corners, and includes —
 
@@ -2806,7 +3032,7 @@ and the clearing house shall comply with that direction.
 
 (b) any matter which, in his opinion, constitutes or may constitute a breach of any provision of this Act or a criminal offence involving fraud or dishonesty; or
 
-(c) any irregularity that has or may have a material effect upon the accounts, including irregularities that affect or jeopardise or may affect or jeopardise the funds or property of investors in securities or futures contracts,
+(c) any irregularity that has or may have a material effect upon the accounts, including irregularities that affect or jeopardise or may affect or jeopardise the funds or property of investors,
 
 the auditor shall immediately send to the Authority a written report of the matter or irregularity.
 
@@ -3154,7 +3380,7 @@ Licensing
 
 (a) any person who acts as a representative of an exempt person; and
 
-(b) any person whom the Authority may by regulation exempt from holding a representative’s licence in respect of any regulated activity.
+(b) any person whom the Authority may exempt from holding a representative’s licence in respect of any regulated activity.
 
 (3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
 
@@ -3170,17 +3396,35 @@ Licensing
 
 (3) An application for the grant or renewal of a licence shall be accompanied by a non-refundable prescribed application fee which shall be paid in the manner specified by the Authority.
 
-(4) An application for the grant or renewal of a representative’s licence in respect of any regulated activity shall be supported in the prescribed manner by a principal who is the holder of or who has applied for a capital markets services licence for that regulated activity.
+(4) An application for the grant of a representative’s licence in respect of any regulated activity shall be supported in the prescribed manner by such person, who is the holder of or who has applied for a capital markets services licence for that regulated activity, as may be specified by the Authority.
 
-(5) An application for the grant or renewal of a representative’s licence in respect of any regulated activity shall be deemed to be withdrawn if —
+[16/2003 wef 22/12/2003]
 
-(a) the principal withdraws his support of the application in writing; or
+(5) An application for the renewal of a representative’s licence in respect of any regulated activity shall be supported in the prescribed manner by such person, who is the holder of a capital markets services licence for that regulated activity, as may be specified by the Authority.
 
-(b) the principal’s application for a capital markets services licence in respect of that regulated activity is withdrawn by the principal or refused by the Authority.
+[16/2003 wef 22/12/2003]
+
+(5A) An application for the grant of a representative’s licence in respect of any regulated activity shall be deemed to be withdrawn with effect from the date on which the person who supported the application —
+
+(a) withdraws his support in writing;
+
+(b) withdraws his application for a capital markets services licence in respect of that regulated activity; or
+
+(c) has his application for a capital markets services licence in respect of that regulated activity refused by the Authority.
+
+[16/2003 wef 22/12/2003]
+
+(5B) An application for the renewal of a representative’s licence in respect of any regulated activity shall be deemed to be withdrawn with effect from the date on which the person who supported the application withdraws his support in writing.
+
+[16/2003 wef 22/12/2003]
 
 (6) Where a person submits an application for renewal of his licence before the expiration of his licence but after the period referred to in subsection (1), the Authority may impose a late renewal fee not exceeding $100 for every day or part thereof that the renewal is late, subject to a maximum of $3,000.
 
 (7) Where a person would be guilty of an offence for not being the holder of a particular licence, no proceedings shall be instituted against him for the offence for the period from the expiry of that licence until that licence is renewed or his application for renewal is withdrawn or refused if before the expiration of that licence he has applied for renewal of that licence and he complies with the requirements of this Act as though he were the holder of that licence.
+
+(8) In this section, “licence” and “representative’s licence” do not include a temporary representative’s licence.
+
+[16/2003 wef 22/12/2003]
 
 ### Licence fee
 
@@ -3214,7 +3458,7 @@ Licensing
 
 (c) execution against the applicant or its substantial shareholder in respect of a judgment debt has been returned unsatisfied in whole or in part;
 
-(d) a receiver, a receiver and manager, judicial manager or such other person having the powers and duties of a receiver, receiver and manager or judicial manager, has been appointed whether in Singapore or elsewhere in relation to, or in respect of, any property of the applicant or its substantial shareholder;
+(d) a receiver, a receiver and manager, judicial manager or an equivalent person has been appointed whether in Singapore or elsewhere in relation to, or in respect of, any property of the applicant or its substantial shareholder;
 
 (e) the applicant or its substantial shareholder has, whether in Singapore or elsewhere, entered into a compromise or scheme of arrangement with its creditors, being a compromise or scheme of arrangement that is still in operation;
 
@@ -3246,17 +3490,25 @@ Licensing
 
 (5) Subject to subsection (6), the Authority shall not refuse an application for a grant or renewal of a capital markets services licence without giving the applicant a right to be heard.
 
-(6) Where the Authority refuses an application for a grant or renewal of a capital markets services licence on any of the grounds described in subsection (4)(b), (c), (d), (e) or (f)(i), the Authority need not give the applicant an opportunity to be heard.
+(6) The Authority may refuse an application for the grant or renewal of a capital markets services licence on any of the following grounds without giving the applicant an opportunity to be heard:
+
+(a) the applicant is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
+
+(b) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the applicant;
+
+(c) the applicant has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly.
+
+[16/2003 wef 22/12/2003]
 
 ### Grant of representative’s licence
 
-87\.—(1) A natural person may apply to the Authority in such form and manner as the Authority may prescribe for a representative’s licence to act as a representative to carry on business in one or more regulated activities.
+87\.—(1) An individual may apply to the Authority in such form and manner as the Authority may prescribe for a representative’s licence to act as a representative to carry on business in one or more regulated activities.
 
 (2) In granting a representative’s licence, the Authority shall —
 
 (a) specify the regulated activity or activities to which the licence relates, described in such manner as the Authority considers appropriate; and
 
-(b) relate the licence to the principal who supported that application for a representative’s licence.
+(b) relate the licence to the holder of a capital markets services licence which supported that application for a representative’s licence.
 
 (3) Subject to regulations made under this Act, the Authority may refuse an application for the grant or renewal of a representative’s licence if —
 
@@ -3278,7 +3530,7 @@ Licensing
 
 (g) the applicant fails to satisfy the Authority that he is a fit and proper person to be licensed;
 
-(h) the Authority has reason to believe that the applicant may not be able to act in the best interests of the subscribers or customers of his principal having regard to his reputation, character, financial integrity and reliability;
+(h) the Authority has reason to believe that the applicant may not be able to act in the best interests of the subscribers or customers of a holder of a capital markets services licence having regard to his reputation, character, financial integrity and reliability;
 
 (i) the Authority is not satisfied as to the financial standing of the applicant;
 
@@ -3294,7 +3546,65 @@ Licensing
 
 (4) Subject to subsection (5), the Authority shall not refuse an application for the grant or renewal of a representative’s licence without giving the applicant an opportunity to be heard.
 
-(5) The Authority may refuse an application for the grant or renewal of a representative’s licence on any of the grounds described in subsection (3)(b), (c), (d) or (e)(i) without giving the applicant an opportunity to be heard.
+(5) The Authority may refuse an application for the grant or renewal of a representative’s licence on any of the following grounds without giving the applicant an opportunity to be heard:
+
+(a) the applicant is an undischarged bankrupt, whether in Singapore or elsewhere;
+
+(b) the applicant has been convicted, whether in Singapore or elsewhere, of an offence —
+
+(i) involving fraud or dishonesty or the conviction for which involved a finding that he had acted fraudulently or dishonestly; and
+
+(ii) punishable with imprisonment for a term of 3 months or more.
+
+[16/2003 wef 22/12/2003]
+
+(6) In this section, “representative’s licence” does not include a temporary representative’s licence.
+
+[16/2003 wef 22/12/2003]
+
+### Temporary representative’s licence
+
+87A\.—(1) An individual may apply to the Authority in such form and manner as the Authority may prescribe for a temporary representative’s licence to act as a representative to carry on business in one or more regulated activities.
+
+(2) The Authority may require an applicant to supply the Authority with such further information as it considers necessary in relation to the application.
+
+(3) An application for the grant of a temporary representative’s licence shall be accompanied by a non-refundable prescribed application fee which shall be paid in the manner specified by the Authority.
+
+(4) An application for the grant of a temporary representative’s licence in respect of any regulated activity shall be supported in the prescribed manner by a holder of a capital markets services licence for that regulated activity.
+
+(5) An application for the grant of a temporary representative’s licence in respect of any regulated activity shall be deemed to be withdrawn with effect from the date the holder of a capital markets services licence which supported the application withdraws its support in writing.
+
+(6) The Authority shall not grant a temporary representative’s licence to any applicant —
+
+(a) if the applicant has held a temporary representative’s licence for a period which exceeds, or for periods which together exceed, the prescribed number of months within the prescribed period; or
+
+(b) if the holder of a capital markets services licence which supported the application fails to furnish to the Authority, in respect of any regulated activity to be carried out by the applicant for the holder, an undertaking in such form and manner as may be prescribed by the Authority.
+
+(7) In granting a temporary representative’s licence, the Authority —
+
+(a) shall specify the regulated activity or activities to which the licence relates, described in such manner as the Authority considers appropriate; and
+
+(b) shall relate the licence to the holder of a capital markets services licence which supported that application for a temporary representative’s licence.
+
+(8) A temporary representative’s licence shall be in force for a period of 3 months from the date of its issue under this Act, or such other period as the Authority may specify in writing to the holder of the temporary representative’s licence.
+
+(9) A temporary representative’s licence shall not be renewable.
+
+(10) Subject to regulations made under this Act, the Authority may refuse an application for the grant of a temporary representative’s licence on any of the grounds referred to in section 87(3)(a) to (n).
+
+(11) Subject to subsection (12), the Authority shall not refuse an application for the grant of a temporary representative’s licence without giving the applicant an opportunity to be heard.
+
+(12) The Authority may refuse an application for the grant of a temporary representative’s licence on any of the following grounds without giving the applicant an opportunity to be heard:
+
+(a) the applicant is an undischarged bankrupt, whether in Singapore or elsewhere;
+
+(b) the applicant has been convicted, whether in Singapore or elsewhere, of an offence —
+
+(i) involving fraud or dishonesty or the conviction for which involved a finding that he had acted fraudulently or dishonestly; and
+
+(ii) punishable with imprisonment for a term of 3 months or more.
+
+[16/2003 wef 22/12/2003]
 
 ### Power of Authority to impose conditions or restrictions
 
@@ -3312,17 +3622,57 @@ Licensing
 
 (2) A licence that has been renewed in accordance with the provisions of this Part shall continue in force for a period of 3 years or such other period as the Authority may specify in writing to the licensed person, from the date immediately following that on which, but for its renewal, it would have expired.
 
+(3) In this section —
+
+“licence” does not include a temporary representative’s licence;
+
+“licensed person” does not include a holder of a temporary representative’s licence.
+
+[16/2003 wef 22/12/2003]
+
 ### Variation of licence
 
-90\.—(1) The Authority may, on the application of a licensed person, vary its licence by adding a regulated activity to those already specified in the licence.
+90\.—(1) The Authority may, on the application of a licensed person, vary his licence by adding a regulated activity to those already specified in the licence.
 
-(2) An application referred to in subsection (1) shall be accompanied by a non-refundable prescribed application fee which shall be paid in the manner specified by the Authority.
+(1A) The Authority may require an applicant to supply the Authority with such information or documents as it considers necessary in relation to the application.
+
+[16/2003 wef 22/12/2003]
+
+(2) An application under subsection (1) shall —
+
+(a) be accompanied by a non-refundable prescribed application fee which shall be paid in the manner specified by the Authority; and
+
+(b) if made in respect of a representative’s licence, be supported in the prescribed manner by such person, who is —
+
+(i) the holder of a capital markets services licence for that regulated activity; or
+
+(ii) the holder of a capital markets services licence which has applied under subsection (1) to add to its licence that regulated activity,
+
+as may be specified by the Authority.
+
+[16/2003 wef 22/12/2003]
+
+(2A) An application under subsection (1), if made in respect of a representative’s licence, shall be deemed to be withdrawn with effect from the date on which the holder of a capital markets services licence which supported the application —
+
+(a) withdraws its support in writing;
+
+(b) withdraws its application to add to its licence that regulated activity; or
+
+(c) has its application to add to its licence that regulated activity refused by the Authority.
+
+[16/2003 wef 22/12/2003]
 
 (3) The Authority may —
 
 (a) approve the application subject to such conditions or restrictions as the Authority thinks fit; or
 
-(b) refuse the application on any of the grounds set out in section 86(4) or 87(3).
+(b) refuse the application on any of the grounds set out in section 86(4), 87(3) or 87A(10).
+
+[16/2003 wef 22/12/2003]
+
+(4) The Authority shall not refuse an application under subsection (1) without giving the applicant an opportunity to be heard.
+
+[16/2003 wef 22/12/2003]
 
 ### Deposit to be lodged in respect of capital markets services licence
 
@@ -3352,7 +3702,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 the licensed person shall, not later than 14 days after the occurrence of the event, furnish particulars of the event to the Authority in the prescribed form and manner.
 
-(2) Where a licensed person ceases to carry on, or ceases to act as a representative in carrying on, business in all the regulated activities to which the licence relates, it shall immediately return the licence to the Authority.
+(2) Where a licensed person ceases to carry on, or ceases to act as a representative in carrying on, business in all the regulated activities to which the licence relates, it shall return the licence to the Authority within 14 days of the date of the cessation.
 
 ### Register of licensed persons
 
@@ -3406,7 +3756,7 @@ the licensed person shall, not later than 14 days after the occurrence of the ev
 
 (b) in the case of a representative, if —
 
-(i) there exists a ground on which the Authority may refuse an application under section 87;
+(i) there exists a ground on which the Authority may refuse an application under section 87 or 87A (as the case may be);
 
 (ii) he fails or ceases to act as a representative in carrying on business in all the regulated activities for which he was licensed;
 
@@ -3424,7 +3774,27 @@ the licensed person shall, not later than 14 days after the occurrence of the ev
 
 (4) Subject to subsection (5), the Authority shall not revoke or suspend a licence under subsection (2) or (3) without giving the licensed person an opportunity to be heard.
 
-(5) The Authority may revoke or suspend a licence on any of the grounds described in section 86(4)(b), (c), (d), (e) or (f)(i) in the case of a capital markets services licence, or on any of the grounds described in section 87(3)(b), (c), (d) or (e)(i) in the case of a representative’s licence, without giving the licensed person an opportunity to be heard.
+(5) The Authority may revoke or suspend a licence without giving the licensed person an opportunity to be heard —
+
+(a) in the case of a capital markets services licence, on any of the following grounds:
+
+(i) the licensed person is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
+
+(ii) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the licensed person;
+
+(iii) the licensed person has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly; or
+
+(b) in the case of a representative’s licence, on any of the following grounds:
+
+(i) the licensed person is an undischarged bankrupt, whether in Singapore or elsewhere;
+
+(ii) the licensed person has been convicted, whether in Singapore or elsewhere, of an offence —
+
+(A) involving fraud or dishonesty or the conviction for which involved a finding that he had acted fraudulently or dishonestly; and
+
+(B) punishable with imprisonment for a term of 3 months or more.
+
+[16/2003 wef 22/12/2003]
 
 (6) Without prejudice to subsections (2) and (3), the Authority may, on any ground described in subsection (2), issue an order prohibiting the licensed person from performing one or more of the regulated activities to which its licence relates and the order may be permanent or for such period as may be determined by the Authority (referred to in this Division as a prohibition order).
 
@@ -3454,21 +3824,37 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Approval of chief executive officer and director of holder of capital markets services licence
 
-96\.—(1) No holder of a capital markets services licence shall appoint a person as its chief executive officer or director in Singapore unless the holder has obtained the approval of the Authority.
+96\.—(1) No holder of a capital markets services licence shall appoint a person as —
+
+(a) its chief executive officer;
+
+(b) its director where, upon appointment, the person resides or is to reside in Singapore, whether or not he is directly responsible for its business in Singapore or any part thereof; or
+
+(c) its director where, upon appointment, the person is directly responsible for its business in Singapore or any part thereof, whether he resides or is to reside in Singapore or elsewhere,
+
+unless it has obtained the approval of the Authority.
+
+[16/2003 wef 22/12/2003]
+
+(1A) Where a holder of a capital markets services licence has obtained the approval of the Authority to appoint a person as its chief executive officer or director under subsection (1), the person may be re-appointed as chief executive officer or director, as the case may be, of the holder immediately upon the expiry of the earlier term without the approval of the Authority.
+
+[16/2003 wef 22/12/2003]
 
 (2) Without prejudice to any other matter that the Authority may consider relevant, the Authority may, in determining whether to grant its approval under subsection (1), have regard to such criteria as may be prescribed or as may be specified in written directions.
 
 (3) Subject to subsection (4), the Authority shall not refuse an application for approval under subsection (1) without giving the holder of the capital markets services licence an opportunity to be heard.
 
-(4) The Authority may refuse an application for approval under subsection (1) on any of the following grounds without giving the holder of the capital markets services licence an opportunity to be heard:
+(4) The Authority may refuse an application for approval under subsection (1) on any of the following grounds without giving the holder of a capital markets services licence an opportunity to be heard:
 
 (a) the person is an undischarged bankrupt, whether in Singapore or elsewhere;
 
-(b) execution against the person in respect of a judgment debt has been returned unsatisfied in whole or in part;
+(b) the person has been convicted, whether in Singapore or elsewhere, of an offence —
 
-(c) the person has, whether in Singapore or elsewhere, entered into a compromise or scheme of arrangement with his creditors, being a compromise or scheme of arrangement that is still in operation; or
+(i) involving fraud or dishonesty or the conviction for which involved a finding that he had acted fraudulently or dishonestly; and
 
-(d) the person has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that he acted fraudulently or dishonestly.
+(ii) punishable with imprisonment for a term of 3 months or more.
+
+[16/2003 wef 22/12/2003]
 
 (5) Where the Authority refuses an application for approval under subsection (1), the Authority need not give the person who was proposed to be appointed an opportunity to be heard.
 
@@ -3502,7 +3888,17 @@ the Authority may, if it thinks it necessary in the interest of the public, or s
 
 (3) Subject to subsection (4), the Authority shall not direct a holder of a capital markets services licence to remove from office or employment an officer under this section without giving that holder a right to be heard.
 
-(4) Where the Authority directs a holder of a capital markets services licence to remove the officer from office or employment under this section on any ground referred to in subsection (1)(d), (e), (f) or (g), the Authority need not give that holder an opportunity to be heard.
+(4) The Authority may direct a holder of a capital markets services licence to remove an officer from its office or employment under subsection (1) on any of the following grounds without giving the holder an opportunity to be heard:
+
+(a) the officer is an undischarged bankrupt, whether in Singapore or elsewhere;
+
+(b) the officer has been convicted, whether in Singapore or elsewhere, of an offence —
+
+(i) involving fraud or dishonesty or the conviction for which involved a finding that he had acted fraudulently or dishonestly; and
+
+(ii) punishable with imprisonment for a term of 3 months or more.
+
+[16/2003 wef 22/12/2003]
 
 (5) Where the Authority directs a holder of a capital markets services licence to remove from office or employment an officer under subsection (1), the Authority need not give that officer an opportunity to be heard.
 
@@ -3554,7 +3950,7 @@ Exemptions
 
 (g) any clearing house in respect of any regulated activity that is solely incidental to its operation of a clearing facility; and
 
-(h) such other person or class of persons in respect of any regulated activity as may be prescribed.
+(h) such other person or class of persons in respect of any regulated activity as may be exempted by the Authority.
 
 (2) Any securities exchange, futures exchange or recognised trading system provider which intends to carry on business in any regulated activity but which does not fall within subsection (1)(f), may apply in writing to the Authority for exemption from the requirement to hold a capital markets services licence and the Authority may grant such exemption if in the Authority’s opinion, the carrying on of the activities referred to in subsection (1) is not a significant business of the securities exchange, futures exchange or recognised trading system provider.
 
@@ -3590,7 +3986,13 @@ General
 
 100\.—(1) Without prejudice to section 341, the Authority may make regulations relating to the grant of a capital markets services licence or a representative’s licence, and requirements applicable to a licensed person, exempt person, representative of an exempt person or class of such persons.
 
-(2) Regulations made under this section may provide that a contravention of specified provisions thereof shall be an offence and may provide penalties not exceeding a fine of $100,000.
+(2) Regulations made under this section may provide —
+
+(a) that a contravention of any specified provision thereof shall be an offence; and
+
+(b) for penalties not exceeding a fine of $100,000 or imprisonment for a term not exceeding 12 months or both for each offence and, in the case of a continuing offence, a further penalty not exceeding a fine of 10% of the maximum fine prescribed for that offence for every day or part thereof during which the offence continues after conviction.
+
+[16/2003 wef 22/12/2003]
 
 ### Power of Authority to issue written directions
 
@@ -3598,9 +4000,13 @@ General
 
 (2) Without prejudice to the generality of subsection (1), any written direction may be issued with respect to —
 
-(a) the standards to be maintained by the person concerned in the conduct of his business; and
+(a) the standards to be maintained by the person concerned in the conduct of his business;
 
-(b) the type and frequency of submission of financial returns and other information to be submitted to the Authority,
+(b) the type and frequency of submission of financial returns and other information to be submitted to the Authority; and
+
+(c) the qualifications, experience and training of representatives,
+
+[16/2003 wef 22/12/2003]
 
 and the person to whom such direction is issued shall comply with the direction.
 
@@ -3644,9 +4050,15 @@ Division 2 —
 
 Customer Assets
 
+### Interpretation of this Division
+
+103A\. In this Division, unless the context otherwise requires, “money or other assets” means money received or retained by, or any other asset deposited with, a holder of a capital markets services licence in the course of its business for which it is liable to account to its customer, and any money or other assets accruing therefrom.
+
+[16/2003 wef 22/12/2003]
+
 ### Handling of customer assets
 
-104\.—(1) A holder of a capital markets services licence shall, to the extent that it receives money or other assets from a customer —
+104\.—(1) A holder of a capital markets services licence shall, to the extent that it receives money or other assets from or on account of a customer —
 
 (a) do so on the basis that the money or other assets shall be applied solely for such purpose as may be agreed to by the customer, when or before it receives the money or other assets;
 
@@ -3656,7 +4068,15 @@ Customer Assets
 
 (2) The Authority may, without prejudice to section 341, make regulations in respect of all or any of the matters in this Division, including the handling of money or other assets by a holder of a capital markets services licence.
 
-(3) In this section, “money or other assets” means money received or retained by, or any other asset deposited with, a holder of a capital markets services licence in the course of its business for which it is liable to account to its customer, and any money or other assets accruing therefrom.
+### Non-availability of customer money and other assets for payment of debt
+
+104A\. Except as otherwise provided in this Part or the regulations made thereunder, all money or other assets received from or on account of customers or deposited in the manner prescribed under section 104(1)(b) —
+
+(a) shall not be available for payment of the debts of the holder of a capital markets services licence; and
+
+(b) shall not be liable to be paid or taken in execution under an order or a process of any court.
+
+[16/2003 wef 22/12/2003]
 
 ### Penalties under this Division
 
@@ -3890,13 +4310,9 @@ the person shall not, during the period of 90 days after the close of the offer 
 
 unless the offer or recommendation contains or is accompanied by a statement to the effect that the offer or recommendation relates to securities that he has acquired, or is or will or may be required to acquire, under an underwriting or sub-underwriting agreement by reason that some or all of the securities have not been subscribed for or purchased.
 
-(7) The holder of a capital markets services licence, or a representative of such a holder, shall not send to a person a circular or other written communication, written offer or written recommendation to which subsection (1), (5) or (6) applies unless the circular or other communication, offer or recommendation is signed —
+(7) [Deleted by Act 16 of 2003 wef 22/12/2003]
 
-(a) in the case of the holder of a capital markets services licence — by an officer of the holder; or
-
-(b) in the case of the representative — by the representative.
-
-(8) When the holder of a capital markets services licence, or a representative of such a holder, sends to a person a circular or other written communication, written offer or written recommendation to which subsection (1), (5) or (6) applies, the holder or representative shall preserve a copy of the circular or other written communication, offer or recommendation duly signed in accordance with subsection (7) for 7 years.
+(8) When the holder of a capital markets services licence, or a representative of such a holder, sends to a person a circular or other written communication, written offer or written recommendation to which subsection (1), (5) or (6) applies, the holder or representative shall preserve a copy of the circular or other written communication, offer or recommendation for 6 years.
 
 (9) For the purpose of this section, any reference to an offer of securities shall be construed as including a reference to a statement, however expressed, that is not an offer but expressly or impliedly invites a person to whom it is made to offer to acquire securities.
 
@@ -3990,7 +4406,13 @@ shall not enter into a transaction for the purchase or sale of securities or fut
 
 (3) Regulations made under this section may provide that any customer contract entered into by the holder of a capital markets services licence with its customer otherwise than in compliance with any specified regulation is, notwithstanding anything in the contract, unenforceable at the option of the customer.
 
-(4) Regulations made under this section may provide that a contravention of specified provisions thereof shall be an offence and may provide penalties not exceeding a fine of $100,000.
+(4) Regulations made under this section may provide —
+
+(a) that a contravention of any specified provision thereof shall be an offence; and
+
+(b) for penalties not exceeding a fine of $100,000 or imprisonment for a term not exceeding 12 months or both for each offence and, in the case of a continuing offence, a further penalty not exceeding a fine of 10% of the maximum fine prescribed for that offence for every day or part thereof during which the offence continues after conviction.
+
+[16/2003 wef 22/12/2003]
 
 (5) In this section, “customer contract” means any contract or arrangement between the holder of a capital markets services licence and a customer of the holder which contains terms on which the holder is to provide services to, or effect transactions for, the customer.
 
@@ -4004,17 +4426,15 @@ Securities
 
 ### Dealings as principal
 
-125\.—(1) Subject to subsection (4), the holder of a capital markets services licence to deal in securities shall not, as principal, deal in any securities with a person which is not the holder of a capital markets services licence to deal in securities unless the holder first informs the person that the holder is acting in the transaction as principal and not as agent.
+125\.—(1) Subject to subsection (4), the holder of a capital markets services licence to deal in securities shall not, as principal, enter into any transaction of sale or purchase of any securities with any customer who is not the holder of a capital markets services licence to deal in securities unless the holder first informs the customer that the holder is acting in the transaction as principal and not as agent.
 
-(2) The holder of a capital markets services licence to deal in securities who enters into a transaction of sale or purchase of securities as a principal with a person who is not the holder of a capital markets services licence to deal in securities shall state in the contract note that the holder is acting in the transaction as principal and not as agent.
+[16/2003 wef 22/12/2003]
 
-(3) For the purposes of this section, a reference to the holder of a capital markets services licence to deal in securities dealing or entering into a transaction as principal includes a reference to the holder —
+(2) The holder of a capital markets services licence to deal in securities which enters into a transaction of sale or purchase of securities, as principal, with a customer who is not the holder of a capital markets services licence to deal in securities shall state in the contract note that the holder is acting in the transaction as principal and not as agent.
 
-(a) dealing or entering into a transaction on behalf of a person associated with or connected to the holder;
+[16/2003 wef 22/12/2003]
 
-(b) dealing in securities on behalf of a corporation in which the holder has a controlling interest; or
-
-(c) dealing on behalf of a corporation in which the holder’s interest and the interests of the directors of the holder together constitute a controlling interest.
+(3) [Deleted by Act 16 of 2003 wef 22/12/2003]
 
 (4) Subsection (1) shall not apply to a transaction of sale or purchase of an odd lot of securities that is entered into by the holder of a capital markets services licence to deal in securities which is a member of a securities exchange or recognised trading system provider and specialises in transactions relating to odd lots of securities.
 
@@ -4025,6 +4445,26 @@ Securities
 (7) Nothing in subsection (5) or (6) shall affect any right that a person has apart from those subsections.
 
 (8) Any person who contravenes any of the provisions of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+(9) For the purposes of this section —
+
+(a) a reference to the holder of a capital markets services licence to deal in securities entering into a transaction of sale or purchase of securities as principal includes a reference to the holder entering into such a transaction on behalf of —
+
+(i) a person associated with or connected to the holder;
+
+(ii) a corporation in which the holder has a controlling interest; or
+
+(iii) a corporation in which the holder’s interest and the interests of the directors of the holder together constitute a controlling interest; and
+
+(b) a reference to securities is a reference to securities which are permitted to be traded on the securities market of —
+
+(i) a securities exchange;
+
+(ii) an overseas securities exchange; or
+
+(iii) a recognised trading system provider.
+
+[16/2003 wef 22/12/2003]
 
 Division 3 —
 
@@ -4112,7 +4552,7 @@ Registers of Interests in Securities
 
 (2) Where there is a change (not being a prescribed change) in any interest in securities of a relevant person, he shall —
 
-(a) enter in the register particulars of the change including the date of the change and the circumstances by reason of which the change has occurred; and
+(a) enter in the register, within 7 days after the date of the change, particulars of the change including the date of the change and the circumstances by reason of which the change has occurred; and
 
 (b) retain that entry in an easily accessible form for a period of not less than 6 years after the date on which such entry was first made.
 
@@ -4338,7 +4778,7 @@ the Authority may require the person to disclose to the Authority the informatio
 
 ### Savings for advocates and solicitors
 
-146\.—(1) Nothing in this Subdivision shall compel the disclosure by an advocate and solicitor of a document or other material containing a privileged communication made by or to him in that capacity.
+146\.—(1) Nothing in this Subdivision shall compel the disclosure by an advocate and solicitor of information containing a privileged communication made by or to him in that capacity.
 
 (2) An advocate and solicitor who refuses to disclose the information referred to in subsection (1) shall nevertheless be obliged to give the name and address (if he knows them) of the person to whom, or by or on behalf of whom, that privileged communication was made.
 
@@ -4462,7 +4902,13 @@ General
 
 (b) shall, for the avoidance of doubt, be admissible in evidence in civil proceedings under Part XII.
 
-(3) Nothing in this Subdivision shall compel an advocate and solicitor to disclose or produce a privileged communication, or a document or other material containing a privileged communication, made by or to him in that capacity or otherwise the taking of any such document or other material which is in his possession.
+(3) Nothing in this Division shall —
+
+(a) compel an advocate and solicitor to disclose or produce a privileged communication, or a document or other material containing a privileged communication, made by or to him in that capacity; or
+
+(b) authorise the taking of any such document or other material which is in his possession.
+
+[16/2003 wef 22/12/2003]
 
 (4) An advocate and solicitor who refuses to disclose the information or produce the document or other material referred to in subsection (3) shall nevertheless be obliged to give the name and address (if he knows them) of the person to whom, or by or on behalf of whom, that privileged communication was made.
 
@@ -5518,7 +5964,13 @@ subsections (2) and (3) shall apply.
 
 ### Exception for purchase pursuant to legal requirement
 
-224\. Sections 218(2) and 219(2) shall not apply in respect of the purchase of securities pursuant to a requirement imposed by the Government, a statutory body or any regulatory authority, or any requirement imposed under any written law or order of court.
+224\.—(1) Sections 218(2) and 219(2) shall not apply in respect of the purchase of securities pursuant to a requirement imposed by the Government, a statutory body or any regulatory authority, or any requirement imposed under any written law or order of court.
+
+[16/2003 wef 22/12/2003]
+
+(2) Sections 218(2) and 219(2) shall not apply in respect of the sale of securities pursuant to any requirement imposed by the Government or any requirement imposed under any written law or order of court.
+
+[16/2003 wef 22/12/2003]
 
 ### Exception for information communicated pursuant to legal requirement
 
@@ -5798,17 +6250,21 @@ Interpretation
 
 “expert” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
 
-“guarantor corporation” has the same meaning as in the Companies Act;
+“guarantor corporation” has the same meaning as in section 4(1) of the Companies Act;
+
+[16/2003 wef 22/12/2003]
 
 “minimum subscription” in relation to any shares, debentures, or units of shares or debentures offered to the public for subscription, means the amount stated in the prospectus relating to the offer as the minimum amount which in the opinion of the directors must be raised by the issue of the shares, debentures, or units of shares or debentures so offered;
 
-“preliminary document” means a document which has been lodged with the Authority and is issued for the purpose of determining the appropriate issue or sale price of, and the number of, shares in or debentures of, or units of shares in or debentures of, a corporation to be issued or sold and which contains the information required to be included in a prospectus under sections 243 and 244, where applicable, except for such information as may be prescribed by the Authority;
+“preliminary document” means a document which has been lodged with the Authority and is issued for the purpose of determining the appropriate issue or sale price of, and the number of, shares in or debentures of, or units of shares in or debentures of, a corporation to be issued or sold and which contains the information required to be included in a prospectus under section 243, except for such information as may be prescribed by the Authority;
+
+[16/2003 wef 22/12/2003]
 
 “profile statement” means a profile statement referred to in section 240(4);
 
 “promoter”, in relation to a prospectus issued by or in connection with a corporation, means a promoter of the corporation who was a party to the preparation of the prospectus or of any relevant portion thereof, but does not include any person by reason only of his acting in a professional capacity;
 
-“prospectus” means any prospectus, notice, circular, material, advertisement, publication or other document inviting applications or offers from the public to subscribe for or purchase or offering to the public for subscription or purchase any shares in or debentures of, or any units of shares in or debentures of, a corporation or proposed corporation, and includes any document deemed to be a prospectus under section 256 or 257, but does not include —
+“prospectus” means any prospectus, notice, circular, material, advertisement, publication or other document inviting applications or offers from the public to subscribe for or purchase or offering to the public for subscription or purchase any shares in or debentures of, or any units of shares in or debentures of, a corporation or proposed corporation, and includes any document deemed to be a prospectus under section 257, but does not include —
 
 (a) a profile statement; or
 
@@ -5820,11 +6276,7 @@ Interpretation
 
 “supplementary document” means a supplementary prospectus or a supplementary profile statement referred to in section 241(1), as the case may be;
 
-“trustee corporation” means —
-
-(a) a company registered as a trust company under the Trust Companies Act (Cap. 336); or
-
-(b) a corporation, other than a trust company referred to in paragraph (a), that is a public company under the Companies Act or under the laws of any other country which has been declared by the Authority to be a trustee corporation for the purposes of this Act;
+[Deleted by Act 16 of 2003 wef 22/12/2003]
 
 “unit”, in relation to a share or debenture, means any right or interest, whether legal or equitable, in the share or debenture, by whatever name called, and includes any option to acquire any such right or interest in the share or debenture.
 
@@ -5834,13 +6286,17 @@ Interpretation
 
 (a) any invitation to the public to deposit money with or to lend money to a corporation or other entity (not being a prescribed corporation) shall be deemed to be an offer to the public for subscription or purchase, or invitation to the public to subscribe for or purchase, debentures of the corporation or entity; and
 
-(b) any document that is issued or intended or required to be issued by a corporation or other entity (not being a prescribed corporation) acknowledging or evidencing or constituting an acknowledgment of the indebtedness of the corporation or entity in respect of any money that is or may be deposited with or lent to the corporation in response to such an invitation shall be deemed to be a debenture.
+(b) any document that is issued or intended or required to be issued by a corporation or other entity (not being a prescribed corporation) acknowledging or evidencing or constituting an acknowledgment of the indebtedness of the corporation or entity in respect of any money that is or may be deposited with or lent to the corporation or other entity in response to such an invitation shall be deemed to be a debenture.
+
+[16/2003 wef 22/12/2003]
 
 (4) In subsection (3), “prescribed corporation” means —
 
 (a) any bank licensed under the Banking Act (Cap. 19); or
 
-(b) any corporation or other entity or any corporation or other entity of a class which has been declared by the Authority by notification published in theGazetteto be a prescribed corporation, subject to such conditions or restrictions as it may think fit to impose by notice in writing.
+(b) any corporation or other entity or any corporation or other entity of a class which has been declared by the Authority by notification published in theGazetteto be a prescribed corporation for the purposes of this subsection, subject to such conditions or restrictions as it may think fit to impose by notice in writing.
+
+[16/2003 wef 22/12/2003]
 
 (5) The Authority may, at any time by notice in writing, vary or revoke any condition or restriction imposed under subsection (4)(b).
 
@@ -5870,6 +6326,18 @@ Interpretation
 
 (8) This Division applies only in relation to offers or invitations to the public to subscribe for or purchase shares, debentures, or units of shares or debentures, made on or after the commencement of this Division.
 
+### Authority may disapply this Division to certain offers and invitations
+
+239A\. Notwithstanding any provision to the contrary in this Division, where —
+
+(a) an offer to the public of, or an invitation to the public to subscribe for or purchase, shares, debentures or units of shares or debentures is one to which (but for this section) both this Division and Division 2 apply; and
+
+(b) the Authority has by order published in theGazettedeclared that this Division shall not apply to that offer or invitation or a class of offers or invitations to which that offer or invitation belongs,
+
+then this Division does not apply to that offer or invitation.
+
+[16/2003 wef 22/12/2003]
+
 Subdivision (2) —
 
 Prospectus Requirements
@@ -5880,13 +6348,17 @@ Prospectus Requirements
 
 (a) is made in or accompanied by a prospectus in respect of the offer or invitation —
 
-(i) that is prepared in accordance with sections 243 and 244, where applicable;
+(i) that is prepared in accordance with section 243;
+
+[16/2003 wef 22/12/2003]
 
 (ii) a copy of which, being one that has been signed by every director, and by every person who is named therein as a proposed director, of the corporation or by a person authorised by him, is lodged with the Authority together with a written application for the registration of the prospectus; and
 
 (iii) that is registered by the Authority; and
 
-(b) complies with such requirements as may be prescribed.
+(b) complies with such requirements as may be prescribed by the Authority.
+
+[16/2003 wef 22/12/2003]
 
 (2) A person who lodges a preliminary document with the Authority shall be deemed to have lodged a prospectus with the Authority.
 
@@ -5894,7 +6366,9 @@ Prospectus Requirements
 
 (4) Notwithstanding subsection (1), an offer to the public of shares in or debentures of, or units of shares in or debentures of, a corporation for subscription or purchase, or an invitation to the public to subscribe for or purchase shares in or debentures of, or units of shares in or debentures of, a corporation, may be made in or accompanied by an extract from, or an abridged version of, a prospectus (referred to in this section as a profile statement), instead of a prospectus, if —
 
-(a) a prospectus in respect of such offer or invitation is prepared in accordance with sections 243 and 244, where applicable, and the profile statement is prepared in accordance with section 246;
+(a) a prospectus in respect of such offer or invitation is prepared in accordance with section 243, and the profile statement is prepared in accordance with section 246;
+
+[16/2003 wef 22/12/2003]
 
 (b) a copy of the prospectus and a copy of the profile statement, each of which has been signed by every director, and by every person who is named therein as a proposed director, of the corporation or by a person authorised by him, are lodged with the Authority together with a written application for the registration of the prospectus and a written application for the registration of the profile statement respectively; and the prospectus is lodged no later than the profile statement;
 
@@ -5902,7 +6376,9 @@ Prospectus Requirements
 
 (d) sufficient copies of the prospectus are made available for collection at the times and places specified in the profile statement; and
 
-(e) the offer or invitation complies with such requirements as may be prescribed.
+(e) the offer or invitation complies with such requirements as may be prescribed by the Authority.
+
+[16/2003 wef 22/12/2003]
 
 (5) No person shall make any offer to the public of shares in or debentures of, or units of shares in or debentures of, a corporation for subscription or purchase, or an invitation to the public to subscribe for or purchase shares in or debentures of, or units of shares in or debentures of, a corporation, if that corporation has not been formed or does not exist.
 
@@ -5922,13 +6398,19 @@ Prospectus Requirements
 
 (c) the person who lodged the prospectus or profile statement applies in writing for the prospectus or profile statement to be registered at a later date, in which case the Authority may register the prospectus or profile statement at such later date as the Authority thinks fit.
 
-(9) Where a prospectus lodged with the Authority is a preliminary document, the Authority shall not register the prospectus unless a copy of the prospectus containing the information required to be stipulated in the prospectus under sections 243 and 244, including such information which could be omitted from the preliminary document by virtue of subsection (3), has been furnished to the Authority.
+(9) Where a prospectus lodged with the Authority is a preliminary document, the Authority shall not register the prospectus unless a copy of the prospectus containing the information required to be stipulated in the prospectus under section 243, including such information which could be omitted from the preliminary document by virtue of subsection (3), has been furnished to the Authority.
+
+[16/2003 wef 22/12/2003]
 
 (10) Subject to subsection (11) —
 
-(a) where any amendment to a prospectus is lodged prior to the registration of such prospectus, the prospectus and any profile statement which is lodged shall be deemed to have been lodged when such amendment was lodged; and
+(a) where any amendment to a prospectus is lodged prior to the registration of such prospectus, the prospectus and any profile statement which is lodged shall be deemed for the purposes of subsection (8) to have been lodged when such amendment was lodged; and
 
-(b) where any amendment to a profile statement is lodged prior to the registration of such profile statement, the profile statement shall be deemed to have been lodged when such amendment was lodged.
+[16/2003 wef 22/12/2003]
+
+(b) where any amendment to a profile statement is lodged prior to the registration of such profile statement, the profile statement shall be deemed for the purposes of subsection (8) to have been lodged when such amendment was lodged.
+
+[16/2003 wef 22/12/2003]
 
 (11) Where an amendment to a prospectus or profile statement is lodged prior to the registration of the prospectus or profile statement —
 
@@ -5936,17 +6418,35 @@ Prospectus Requirements
 
 (b) pursuant to an order by the Authority,
 
-it shall be treated as part of the original prospectus or profile statement.
+the prospectus or profile statement as amended shall be deemed for the purposes of subsection (8) to have been lodged when the original prospectus or profile statement was lodged with the Authority.
 
-(12) The Authority may publish a prospectus or profile statement for public information after it has been lodged with the Authority and for the purposes of this subsection, the person who lodges the prospectus or profile statement shall provide the Authority with a copy of the prospectus or profile statement in such form or medium for publication as the Authority may require.
+[16/2003 wef 22/12/2003]
+
+(11A) An amendment to a prospectus or profile statement that is lodged shall be treated as part of the original prospectus or profile statement.
+
+[16/2003 wef 22/12/2003]
+
+(12) The Authority may, for public information, publish —
+
+(a) a prospectus or profile statement lodged with the Authority under this section; and
+
+(b) where applicable, the translation thereof in the English language lodged with the Authority under section 318A(1),
+
+and, for the purposes of this subsection, the person who lodges the prospectus or profile statement and, where applicable, the translation shall provide the Authority with a copy of the prospectus or profile statement and, where applicable, the translation in such form or medium for publication as the Authority may require.
+
+[16/2003 wef 22/12/2003]
 
 (13) The Authority shall refuse to register a copy of any prospectus if —
 
 (a) the Authority is of the opinion that the prospectus contains a false or misleading statement or matter;
 
-(b) there is an omission from the prospectus of any information that is required to be included in it under section 243 or 244;
+(b) there is an omission from the prospectus of any information that is required to be included in it under section 243;
 
-(c) a copy of the prospectus signed by every director, and by every person who is named therein as a proposed director of the corporation, or by a person authorised by him in writing, is not lodged with the Authority;
+[16/2003 wef 22/12/2003]
+
+(c) a copy of the prospectus signed by every director, and by every person who is named therein as a proposed director of the corporation, or by a person authorised by the director or proposed director in writing, is not lodged with the Authority;
+
+[16/2003 wef 22/12/2003]
 
 (d) the Authority is of the opinion that the prospectus does not comply with the requirements of this Act;
 
@@ -5960,7 +6460,9 @@ it shall be treated as part of the original prospectus or profile statement.
 
 (b) there is an omission from the profile statement of information required by section 246 to be included in it or an inclusion in the profile statement of information prohibited by that section from being included in it;
 
-(c) a copy of the profile statement signed by every director, and by every person who is named therein as a proposed director of the corporation, or by a person authorised by him in writing, is not lodged with the Authority;
+(c) a copy of the profile statement signed by every director, and by every person who is named therein as a proposed director of the corporation, or by a person authorised by the director or proposed director in writing, is not lodged with the Authority;
+
+[16/2003 wef 22/12/2003]
 
 (d) the Authority is of the opinion that the profile statement does not comply with the requirements of this Act;
 
@@ -5972,11 +6474,11 @@ it shall be treated as part of the original prospectus or profile statement.
 
 (a) the corporation is in the course of being wound up or otherwise dissolved whether in Singapore or elsewhere;
 
-(b) execution against the corporation in respect of a judgment debt has been returned unsatisfied in whole or in part;
+(b) [Deleted by Act 16 of 2003 wef 22/12/2003]
 
-(c) a receiver, a receiver and manager, a judicial manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the corporation;
+(c) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the corporation.
 
-(d) the corporation has entered into a compromise or scheme of arrangement with its creditors, being a compromise or scheme of arrangement that is still in operation.
+[16/2003 wef 22/12/2003]
 
 (16) Any person who is aggrieved by the refusal of the Authority to register a copy of a prospectus or profile statement under subsection (13) or (14) may, within 30 days after he is notified of the decision, appeal to the Minister whose decision shall be final.
 
@@ -6000,7 +6502,9 @@ the corporation and every person who is knowingly a party to the issue, circulat
 
 (a) a false or misleading statement or matter in the prospectus or profile statement;
 
-(b) an omission from the prospectus of any information that should have been included in it under section 243 or 244, or an omission from the profile statement of any information that should have been included in it under section 246, as the case may be; or
+(b) an omission from the prospectus of any information that should have been included in it under section 243, or an omission from the profile statement of any information that should have been included in it under section 246, as the case may be; or
+
+[16/2003 wef 22/12/2003]
 
 (c) a new circumstance that —
 
@@ -6008,7 +6512,9 @@ the corporation and every person who is knowingly a party to the issue, circulat
 
 (ii) would have been required by —
 
-(A) section 243 or 244 to be included in the prospectus; or
+(A) section 243 to be included in the prospectus; or
+
+[16/2003 wef 22/12/2003]
 
 (B) section 246 to be included in the profile statement,
 
@@ -6034,17 +6540,29 @@ and that is materially adverse from the point of view of an investor, the person
 
 (4) The supplementary document and the replacement document must be dated with the date on which they are lodged with the Authority.
 
-(5) The person who lodges a supplementary document or the corporation concerned shall take reasonable steps to inform potential investors of such lodgment and make available the supplementary document to them, and, for the purposes of the application of this Division to events that occur after the lodgment of the supplementary document —
+(5) The person who lodges a supplementary document or the corporation concerned shall take reasonable steps to inform potential investors of such lodgment and make available the supplementary document to them.
+
+[16/2003 wef 22/12/2003]
+
+(6) For the purposes of the application of this Division to events that occur after the lodgment of the supplementary document —
 
 (a) where the supplementary document is a supplementary prospectus, the prospectus shall be taken to be the original prospectus together with the supplementary prospectus and any previous supplementary prospectus; and
 
 (b) where the supplementary document is a supplementary profile statement, the profile statement shall be taken to be the original profile statement together with the supplementary profile statement and any previous supplementary profile statement.
 
-(6) The person who lodges a replacement document or the corporation concerned shall take reasonable steps to inform potential investors of such lodgment and make available the replacement document to them, and, for the purposes of the application of this Division to events that occur after the lodgment of the replacement document —
+[16/2003 wef 22/12/2003]
+
+(6A) The person who lodges a replacement document or the corporation concerned shall take reasonable steps to inform potential investors of such lodgment and make available the replacement document to them.
+
+[16/2003 wef 22/12/2003]
+
+(6B) For the purposes of the application of this Division to events that occur after the lodgment of the replacement document —
 
 (a) where the replacement document is a replacement prospectus, the prospectus shall be taken to be the replacement prospectus; and
 
 (b) where the replacement document is a replacement profile statement, the profile statement shall be taken to be the replacement profile statement.
+
+[16/2003 wef 22/12/2003]
 
 (7) If a supplementary document or replacement document is lodged with the Authority, the offer or invitation shall be kept open for at least 14 days after the lodgment of the supplementary document or replacement document.
 
@@ -6096,29 +6614,43 @@ and that is materially adverse from the point of view of an investor, the person
 
 ### Stop order for prospectus and profile statement
 
-242\.—(1) If a prospectus that has been registered —
+242\.—(1) If a prospectus has been registered and —
 
-(a) contains any statement or matter which, in the Authority’s opinion, is false or misleading;
+(a) the Authority is of the opinion that the prospectus contains a false or misleading statement or matter;
 
-(b) omits any information that should have been included in it under section 243 or 244; or
+(b) there is an omission from the prospectus of any information that is required to be included in it under section 243;
 
-(c) does not in the Authority’s opinion comply with the requirements of this Act,
+(c) the Authority is of the opinion that the prospectus does not comply with the requirements of this Act; or
+
+(d) the Authority is of the opinion that it is in the public interest to do so,
 
 the Authority may by an order in writing (referred to in this section as a stop order) served on the person who lodged the prospectus direct that no or no further shares or debentures, or units of shares or debentures to which the prospectus relates be allotted, issued or sold.
 
-(2) If a profile statement that has been registered —
+[16/2003 wef 22/12/2003]
 
-(a) contains any statement or matter which, in the Authority’s opinion, is false or misleading;
+(2) If a profile statement has been registered and —
 
-(b) omits any information that should have been included in it under section 246 or includes information that should have been excluded from it under section 246; or
+(a) the Authority is of the opinion that the profile statement contains a false or misleading statement or matter;
 
-(c) does not in the Authority’s opinion comply with the requirements of this Act,
+(b) there is an omission from the profile statement of any information that is required to be included in it under section 246;
+
+(c) the Authority is of the opinion that the profile statement does not comply with the requirements of this Act; or
+
+(d) the Authority is of the opinion that it is in the public interest to do so,
 
 the Authority may by an order in writing (referred to in this section as a stop order) served on the person who lodged the profile statement, direct that no or no further shares or debentures, or units of shares or debentures to which the profile statement relates be allotted, issued or sold.
 
+[16/2003 wef 22/12/2003]
+
 (3) Notwithstanding subsections (1) and (2), the Authority shall not serve a stop order if any of the shares or debentures or units of shares or debentures to which the prospectus or profile statement relates have been issued or sold, and listed on a securities exchange and trading in them has commenced.
 
-(4) The Authority shall not serve a stop order under subsection (1) or (2) without giving the person who lodged the prospectus or profile statement an opportunity to be heard.
+(4) The Authority shall not serve a stop order under subsection (1) or (2) without giving the person who lodged the prospectus or profile statement an opportunity to be heard, except that an opportunity to be heard need not be given if the stop order is served on the ground that it is in the public interest to do so on the basis of any of the following circumstances:
+
+(a) the corporation whose shares or debentures, or units of shares or debentures are the subject of the offer or invitation to which the prospectus or profile statement relates is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
+
+(b) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of that corporation.
+
+[16/2003 wef 22/12/2003]
 
 (5) Where applications to subscribe for shares, debentures or units of shares or debentures to which the prospectus or profile statement relates have been made prior to the stop order, and —
 
@@ -6140,7 +6672,7 @@ the Authority may by an order in writing (referred to in this section as a stop 
 
 (8) If the Authority is of the opinion that any delay in serving a stop order pending the holding of a hearing required under subsection (4) is not in the interests of the public, the Authority may, without giving an opportunity to be heard, serve an interim stop order on the person who lodged the prospectus or profile statement directing that no or no further shares in or debentures of, or units of shares in or debentures of, a corporation to which the prospectus or profile statement relates be allotted, issued or sold.
 
-(9) An interim stop order shall, unless revoked, be in force —
+(9) An interim stop order shall, unless revoked by the Authority, be in force —
 
 (a) in a case where —
 
@@ -6151,6 +6683,8 @@ the Authority may by an order in writing (referred to in this section as a stop 
 until the Authority makes an order under subsection (1) or (2); and
 
 (b) in any other case, for a period of 14 days from the day on which the interim stop order is served.
+
+[16/2003 wef 22/12/2003]
 
 (10) Subsections (5) and (7) shall not apply where only an interim stop order has been served.
 
@@ -6218,45 +6752,7 @@ until the Authority makes an order under subsection (1) or (2); and
 
 (7) This section does not affect any liability that a person has under any other law.
 
-### Invitation to public to lend money to or to deposit money with corporation
-
-244\.—(1) In addition to any other requirement imposed under this Subdivision in respect of such invitation, no person shall make an invitation to the public to deposit money with or lend money to a corporation or any other entity unless —
-
-(a) the prospectus concerned contains an undertaking by the corporation or entity that it will, within 2 months after the acceptance of any money as a deposit or loan from any person in response to the invitation, issue to that person a document which acknowledges or evidences or constitutes an acknowledgement of the indebtedness of the corporation or entity in respect of that deposit or loan; and
-
-(b) the document is described or referred to in the prospectus and in any other document, whether constituting or relating to the invitation in any of the following forms of debt obligation, in accordance with this section:
-
-(i) unsecured loan stock, unsecured note, unsecured deposit note, unsecured debenture or certificate of unsecured debenture stock, bonds (including bearer and Eurobonds), short or medium term notes (including Euronotes) or convertible loan stock;
-
-(ii) mortgage bonds, mortgage debenture or certificate of mortgage debenture stock;
-
-(iii) a secured debenture or certificate of debenture stock; or
-
-(iv) such other form as the Authority may approve as having effect for the purposes of this section but subject to such conditions as it may impose, in accordance with this section.
-
-(2) Where pursuant to an invitation referred to in subsection (1) a corporation or any other entity has accepted from any person any money as a deposit or loan, the corporation or entity concerned shall, within 2 months after the acceptance of the money, issue to that person a document which —
-
-(a) acknowledges or evidences or constitutes an acknowledgement of the indebtedness of the corporation or entity in respect of that deposit or loan; and
-
-(b) complies with the other requirements of this section.
-
-(3) The document shall be described or referred to in the prospectus and in any other document whether constituting or relating to the invitation and in the document itself in the form described in subsection (1)(b)(i) or approved under subsection (1)(b)(iv) unless under subsection (4) or (5) it is and may be otherwise described.
-
-(4) The document may be described or referred to in the prospectus or in such other document or in the document itself in the form described in subsection (1)(b)(ii) if, and only if, there is included in the prospectus the statements and the valuation prescribed by the Authority.
-
-(5) The document may be described or referred to in the prospectus or in such other document or in the document itself in the form described in subsection (1)(b)(iii) if, and only if —
-
-(a) under subsection (4) it is entitled to be described or referred to in that prospectus or document in the form described in subsection (1)(b)(ii) but is not described or referred to in that form; or
-
-(b) there is included in the prospectus matters prescribed by the Authority.
-
-(6) Nothing in this section shall apply to a prescribed corporation.
-
-(7) For the purposes of subsection (6), “prescribed corporation” has the same meaning as in section 239(4).
-
-(8) Every corporation or other person or entity that contravenes any of the provisions of this section and every officer of a corporation or other entity who is in default shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 or to imprisonment for a term not exceeding 2 years or to both.
-
-(9) For the purposes of this section, a certificate issued by a borrowing corporation certifying, in respect of any deposit with or a loan to the borrowing corporation, the registered holder (or in the case of a bearer instrument, the bearer) of a specified number or value of the debt obligations described or approved under subsection (1)(b), issued by the borrowing corporation upon or subject to the terms and conditions contained in a trust deed referred to or identified in the certificate, shall be deemed to be a document evidencing the indebtedness of the borrowing corporation in respect of that deposit or loan.
+244\. [Repealed by Act 16 of 2003 wef 22/12/2003]
 
 ### Retention of over-subscriptions and statement of asset-backing in debenture issues
 
@@ -6266,11 +6762,13 @@ until the Authority makes an order under subsection (1) or (2); and
 
 (b) a limit expressed as a specific sum of money on the amount of over-subscriptions that may be accepted or retained, being an amount not more than 25% in excess of the amount of the issue as disclosed in the prospectus.
 
-(2) Subject to regulations made by the Authority for the purposes of this subsection, where a corporation or entity specifies in a prospectus relating to a debenture issue that it reserves the right to accept or retain over-subscriptions —
+(2) Subject to regulations made by the Authority for the purposes of this subsection, where a corporation or other entity specifies in a prospectus relating to a debenture issue that it reserves the right to accept or retain over-subscriptions —
 
 (a) the corporation or entity shall not make, authorise or permit any statement of or reference as to the asset-backing for the issue to be made or contained in any prospectus relating to the issue, other than a statement or reference to the total tangible assets and the total liabilities of the corporation or entity and of its guarantor corporations; and
 
 (b) the prospectus shall contain a statement or reference as to what the total assets and total liabilities of the corporation or entity would be if over-subscriptions to the limit specified in the prospectus were accepted or retained.
+
+[16/2003 wef 22/12/2003]
 
 (3) Every corporation or other entity or other person that contravenes subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
 
@@ -6300,17 +6798,25 @@ until the Authority makes an order under subsection (1) or (2); and
 
 ### Exemption from requirements as to form or content of prospectus or profile statement
 
-247\.—(1) A person may apply to the Authority in writing for an order of exemption from any requirement of this Act relating to the form or content of a prospectus or a profile statement, and the Authority may make such an order either unconditionally or subject to such conditions or restrictions as it thinks fit.
+247\.—(1) The Authority may exempt any person or any prospectus or profile statement from any requirement of this Act relating to the form or content of a prospectus or profile statement, subject to such conditions or restrictions as may be determined by the Authority.
 
-(2) The Authority shall not make an order under subsection (1) unless it is of the opinion that compliance with the requirements in respect of which exemption has been applied for would be unduly burdensome.
+[16/2003 wef 22/12/2003]
 
-(3) The Authority may, by order published in theGazette, exempt any class or description of prospectuses or profile statements from such requirement of this Act relating to the form or content of a prospectus or a profile statement, as the case may be, as may be specified in the order.
+(2) The Authority shall not grant an exemption under subsection (1) unless it is of the opinion that —
 
-(4) An exemption referred to in subsection (3) may be subject to such conditions or restrictions as may be specified in the order.
+(a) the cost of complying with the requirement in respect of which exemption has been applied for outweighs the resulting protection to investors; or
+
+(b) it would not be prejudicial to the public interest if the requirement in respect of which exemption has been applied for were dispensed with.
+
+[16/2003 wef 22/12/2003]
+
+(3) The Authority may exempt any class of persons, or any class or description of prospectuses or profile statements, from any requirement of this Act relating to the form or content of a prospectus or profile statement, subject to such conditions or restrictions as may be determined by the Authority.
+
+[16/2003 wef 22/12/2003]
+
+(4) [Deleted by Act 16 of 2003 wef 22/12/2003]
 
 (5) Any person who contravenes any of the conditions or restrictions specified in the order made under subsection (1) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
-
-(6) A prospectus or a profile statement shall be deemed to be in compliance with all the requirements of this Act relating to the form or content of a prospectus or a profile statement, as the case may be, if it is issued in compliance with an order made under subsection (1) or (3).
 
 ### Exemption for certain governmental and international corporations as regards signing of copy of prospectus or profile statement by all directors
 
@@ -6334,7 +6840,17 @@ until the Authority makes an order under subsection (1) or (2); and
 
 (b) there appears in the prospectus a statement that the expert has given and has not withdrawn his consent.
 
-(2) If any prospectus is issued in contravention of this section, the corporation and every person who is knowingly a party to the issue thereof shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+(2) If any prospectus is issued in contravention of subsection (1), the corporation and every person who is knowingly a party to the issue thereof shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+[16/2003 wef 22/12/2003]
+
+(3) The Authority may exempt any person or class of persons, or any prospectus or class or description of prospectuses, from this section, subject to such conditions or restrictions as may be determined by the Authority.
+
+[16/2003 wef 22/12/2003]
+
+(4) Any person who contravenes any of the conditions or restrictions imposed under subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+[16/2003 wef 22/12/2003]
 
 ### Duration of validity of prospectus
 
@@ -6462,19 +6978,23 @@ This is a preliminary document and is subject to further amendments and completi
 
 ### Persons liable on prospectus or profile statement to inform person making offer or invitation about certain deficiencies
 
-252\.—(1) A person referred to in section 254 (3) (other than paragraph (a)) shall notify in writing the person making the offer of shares, debentures, or units of shares or debentures, for subscription or purchase, or the invitation to subscribe for or purchase shares, debentures, or units of shares or debentures, as soon as practicable, if he becomes aware during the application period that —
+252\.—(1) A person referred to in section 254 (3) (other than paragraph (a)) shall notify in writing the person making the offer of shares, debentures, or units of shares or debentures, for subscription or purchase, or the invitation to subscribe for or purchase shares, debentures, or units of shares or debentures, as soon as practicable, if he becomes aware at any time after the prospectus or profile statement is registered by the Authority but before the close of the offer or invitation that —
 
 (a) a statement or matter in the prospectus or the profile statement is false or misleading;
 
-(b) there is an omission from the prospectus of information required to be included therein under section 243 or 244, where applicable, or from the profile statement of information required to be included therein under section 246; or
+(b) there is an omission to state any information required to be included in the prospectus under section 243 or there is an omission to state any information required to be included in the profile statement under section 246, as the case may be; or
+
+[16/2003 wef 22/12/2003]
 
 (c) a new circumstance —
 
 (i) has arisen since the prospectus or the profile statement was lodged with the Authority; and
 
-(ii) would have been required to be included in the prospectus under section 243 or 244, or to be included in the profile statement under section 246, as the case may be, if it had arisen before the prospectus or the profile statement was lodged with the Authority,
+(ii) would have been required to be included in the prospectus under section 243, or required to be included in the profile statement under section 246, as the case may be, if it had arisen before the prospectus or the profile statement was lodged with the Authority,
 
 and the failure to so notify would have been materially adverse from the point of view of an investor.
+
+[16/2003 wef 22/12/2003]
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
 
@@ -6482,21 +7002,27 @@ and the failure to so notify would have been materially adverse from the point o
 
 253\.—(1) Where an offer to the public of shares in or debentures of, or units of shares in or debentures of, a corporation for subscription or purchase, or an invitation to the public to subscribe for or purchase shares in or debentures of, or units of shares in or debentures of, a corporation is made in or is accompanied by a prospectus or profile statement and —
 
-(a) a false or misleading statement is contained in —
+(a) a false or misleading statement or matter is contained in —
 
 (i) the prospectus or the profile statement; or
 
 (ii) any application form for the shares or debentures, or units of shares or debentures;
 
-(b) there is an omission to state any information required to be included in the prospectus under section 243 or 244 or there is an omission to state any information required to be included in the profile statement under section 246, as the case may be; or
+[16/2003 wef 22/12/2003]
+
+(b) there is an omission to state any information required to be included in the prospectus under section 243 or there is an omission to state any information required to be included in the profile statement under section 246, as the case may be; or
+
+[16/2003 wef 22/12/2003]
 
 (c) there is an omission to state a new circumstance that —
 
 (i) has arisen since the prospectus or the profile statement was lodged with the Authority; and
 
-(ii) would have been required to be included in the prospectus under section 243 or 244, or required to be included in the profile statement under section 246, as the case may be, if it had arisen before the prospectus or the profile statement was lodged with the Authority,
+(ii) would have been required to be included in the prospectus under section 243, or required to be included in the profile statement under section 246, as the case may be, if it had arisen before the prospectus or the profile statement was lodged with the Authority,
 
 the persons referred to in subsection (4) shall be guilty of an offence even if such persons , unless otherwise specified, were not involved in the making of the false or misleading statement or the omission, and shall be liable on conviction to a fine not exceeding $150,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+
+[16/2003 wef 22/12/2003]
 
 (2) For the purposes of subsection (1), a false or misleading statement about a future matter (including the doing of, or the refusal to do, an act) is taken to have been made if a person made the statement without having reasonable grounds for making the statement.
 
@@ -6534,15 +7060,19 @@ but only in respect of the inclusion of the statement; and
 
 (ii) any application form for the shares or debentures, or units of shares or debentures;
 
-(b) there is an omission to state any information required to be disclosed under section 243 or 244, where applicable, in respect of the prospectus, or under section 246 in respect of the profile statement; or
+(b) there is an omission to state any information required to be included in the prospectus under section 243 or there is an omission to state any information required to be included in the profile statement under section 246, as the case may be; or
+
+[16/2003 wef 22/12/2003]
 
 (c) there is an omission to state a new circumstance that —
 
-(i) has arisen since the prospectus or the profile statement was lodged; and
+(i) has arisen since the prospectus or the profile statement was lodged with the Authority; and
 
-(ii) would have been required by section 243 or 244, where applicable, to be included in the prospectus, or by section 246 to be included in the profile statement, if it had arisen before the prospectus or the profile statement was lodged with the Authority,
+(ii) would have been required by section 243 to be included in the prospectus, or required to be included in the profile statement under section 246, as the case may be, if it had arisen before the prospectus or the profile statement was lodged with the Authority,
 
 the persons referred to in subsection (3) shall be liable to compensate any person who suffers loss or damage as a result of the false or misleading statement in or omission from the prospectus or the profile statement, even if such persons, unless otherwise specified, were not involved in the making of the false or misleading statement or the omission.
+
+[16/2003 wef 22/12/2003]
 
 (2) For the purposes of subsection (1), a false or misleading statement about a future matter (including the doing of, or the refusal to do, an act) is taken to have been made if a person makes the statement without having reasonable grounds for making the statement.
 
@@ -6606,23 +7136,51 @@ is not liable under section 253(1) or 254(1) only because of a false or misleadi
 
 (6) A person is not liable under section 253(1) or 254(1) only because of a new circumstance that has arisen since the prospectus or the profile statement was lodged with the Authority if the person proves that he was not aware of the matter.
 
-### Abridged prospectus for renounceable rights issues
+### Offer information statement for renounceable rights issues
 
 256\.—(1) An offer of shares in or debentures of, or units of shares in or debentures of, a company for subscription or purchase, or an invitation to subscribe for or purchase shares in or debentures of, or units of shares in or debentures of, a company shall be deemed to be an offer to the public if —
 
 (a) it is an offer or invitation by means of a rights issue which is renounceable in favour of persons other than existing members or debenture holders of that company; and
 
-(b) an application has been or will be made for permission to deal with or quote such shares or debentures, or units of shares or debentures, on any securities exchange.
+(b) an application has been or will be made for permission for the shares or debentures, or units of shares or debentures, to be listed for quotation on any securities exchange.
 
-(2) Where subsection (1) applies to any offer or invitation in respect of shares in or debentures of, or units of shares in or debentures of, a company, an abridged prospectus shall be lodged with the Authority containing the prescribed particulars.
+[16/2003 wef 22/12/2003]
 
-(3) Any abridged prospectus lodged under subsection (2) shall be deemed to be a prospectus for the purposes of this Division and all written law and rules of law as to contents of prospectuses (to the extent that may be applicable) and as to liability in respect of statements in and omissions from prospectuses or otherwise relating to prospectuses shall apply to an abridged prospectus and have effect accordingly.
+(2) Where subsection (1) applies to any offer or invitation, an offer information statement which complies with such form and content as may be prescribed by the Authority shall be lodged with the Authority.
 
-(4) Nothing in this section shall be construed as preventing a full prospectus being registered containing the particulars as prescribed by the Authority in respect of an offer or invitation referred to in subsection (1).
+[16/2003 wef 22/12/2003]
+
+(3) Notwithstanding anything in section 240, that section need not be complied with in relation to an offer or invitation to which subsection (1) applies if subsection (2) has been complied with.
+
+[16/2003 wef 22/12/2003]
+
+(4) The Authority may, on the application of a company affected by this section, modify the prescribed form and content of the offer information statement in such manner as is appropriate, subject to such conditions or restrictions as may be determined by the Authority.
+
+[16/2003 wef 22/12/2003]
+
+(5) Sections 249, 250, 253, 254 and 255 shall, with the necessary modifications, apply in relation to an offer information statement referred to in subsection (2) as they apply in relation to a prospectus.
+
+[16/2003 wef 22/12/2003]
+
+(6) For the purposes of subsection (5) —
+
+(a) a reference in section 249 to the delivery of a copy of the prospectus for registration shall be read as a reference to the delivery of a copy of the offer information statement for lodgment;
+
+(b) a reference in section 250 to the date of registration of a prospectus shall be read as a reference to the date of lodgment of the offer information statement; and
+
+(c) a reference in section 253 or 254 to any information or new circumstance required to be included in a prospectus under section 243 shall be read as a reference to any information prescribed under subsection (2).
+
+[16/2003 wef 22/12/2003]
+
+(7) Where the written consent of an expert to the issue of an offer information statement is required to be given under section 249 (as applied in relation to that statement under subsection (5)), that written consent shall be lodged with the Authority at the same time as the lodgment of the statement.
+
+[16/2003 wef 22/12/2003]
 
 ### Document containing offer of shares or debentures for sale deemed prospectus
 
-257\.—(1) Subsection (2) applies where a corporation allots or agrees to allot to any person any shares in or debentures of, or units of any shares in or debentures of, the corporation with a view to all or any of them being offered for sale to the public.
+257\.—(1) Subsection (2) applies where a corporation allots or agrees to allot to any person any shares in or debentures of, or any units of shares in or debentures of, the corporation with a view to all or any of them being offered for sale to the public.
+
+[16/2003 wef 22/12/2003]
 
 (2) Any document by which the offer for sale to the public is made shall for all purposes be deemed to be a prospectus issued by the corporation and all written laws and rules of law as to the contents of prospectuses and to liability in respect of statements and non-disclosure in prospectuses, or otherwise relating to prospectuses, shall apply and have effect accordingly as if —
 
@@ -6642,7 +7200,9 @@ but without prejudice to the liability, if any, of the persons by whom the offer
 
 (5) In addition to complying with the other requirements of this Division, the document making the offer shall state —
 
-(a) the net amount of the consideration received or to be received by the corporation in respect of shares or debentures, or units of shares or debentures, to which the offer relates; and
+(a) the net amount of the consideration received or to be received by the corporation in respect of the shares or debentures, or units of shares or debentures, to which the offer relates; and
+
+[16/2003 wef 22/12/2003]
 
 (b) the place and time at which a copy of the contract under which the shares or debentures, or units of shares or debentures, have been or are to be allotted may be inspected.
 
@@ -6676,7 +7236,9 @@ then —
 
 (b) permission is not granted as specified in subsection (1)(b),
 
-the Authority may, on the application of the corporation made before any share or debenture, or unit of share or debenture, is purported to be allotted, exempt the allotment of the shares or debentures, or units of shares or debentures, from the provisions of this section.
+the Authority may, on the application of the corporation made before any share or debenture, or unit of share or debenture, is purported to be allotted, exempt the allotment of the shares or debentures, or units of shares or debentures, from the provisions of this section; and the Authority shall give notice of such exemption in theGazette.
+
+[16/2003 wef 22/12/2003]
 
 (4) A director shall not be liable under subsection (2) if he proves that the default in the repayment of the money was not due to any misconduct or negligence on his part.
 
@@ -6686,7 +7248,7 @@ the Authority may, on the application of the corporation made before any share o
 
 (a) in relation to any shares or debentures , or units of shares or debentures agreed to be taken by a person underwriting an offer thereof contained in a prospectus as if he had applied therefor in pursuance of the prospectus; and
 
-(b) in relation to a prospectus offering shares or units of shares for sale as if —
+(b) in relation to a prospectus offering shares or debentures, or units of shares or debentures for sale as if —
 
 (i) a reference to sale were substituted for a reference to allotment;
 
@@ -6694,7 +7256,11 @@ the Authority may, on the application of the corporation made before any share o
 
 (iii) for the reference in subsection (7) to the corporation and every officer of the corporation who is in default there were substituted a reference to any person by or through whom the offer is made and who knowingly and wilfully authorises or permits the default.
 
-(7) All moneys received under this section shall be kept in a separate bank account so long as the corporation may become liable to repay it under subsection (2).
+[16/2003 wef 22/12/2003]
+
+(7) All moneys received from applicants in pursuance of the prospectus shall be kept in a separate bank account so long as the corporation may become liable to repay it under subsection (2).
+
+[16/2003 wef 22/12/2003]
 
 (8) If default is made in complying with subsection (7), the corporation and every officer of the corporation who is in default shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
 
@@ -6704,9 +7270,13 @@ the Authority may, on the application of the corporation made before any share o
 
 (11) A person shall not issue a prospectus inviting persons to subscribe for shares in or debentures of, or units of shares in or debentures of, a corporation if it includes —
 
-(a) a false or misleading statement that permission has been granted for those shares or debentures, or units of shares or debentures, to be dealt in or quoted on any securities exchange; or
+(a) a false or misleading statement that permission has been granted for those shares or debentures, or units of shares or debentures, to be listed for quotation on the official list of, dealt in or quoted on any securities exchange; or
 
-(b) any statement in any way referring to any such permission or to any application or intended application for any such permission, or to dealing in or quoting the shares or debentures, or units of shares or debentures, on any securities exchange, or to any requirements of a securities exchange unless that statement is or is to the effect that permission has been granted or that application has been or will be made to the securities exchange within 3 days from the date of the issue of the prospectus or the statement has been approved by the Authority for inclusion in the prospectus.
+[16/2003 wef 22/12/2003]
+
+(b) any statement in any way referring to any such permission or to any application or intended application for any such permission, or to listing for quotation on the official list of, dealing in or quoting the shares or debentures, or units of shares or debentures on, any securities exchange, or to any requirements of a securities exchange unless that statement is or is to the effect that permission has been granted or that application has been or will be made to the securities exchange within 3 days from the date of the issue of the prospectus or the statement has been approved by the Authority for inclusion in the prospectus.
+
+[16/2003 wef 22/12/2003]
 
 (12) Any person who contravenes subsection (11) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
 
@@ -6744,7 +7314,25 @@ Debentures
 
 ### Preliminary provisions
 
-261\.—(1) This Subdivision shall apply where a corporation or any other entity makes to the public an offer of debentures or an invitation to subscribe for or purchase debentures.
+261\.—(1) Subject to subsection (1A), this Subdivision shall apply where a corporation or any other entity makes to the public an offer of debentures or an invitation to subscribe for or purchase debentures.
+
+[16/2003 wef 22/12/2003]
+
+(1A) Sections 268, 269 and 270 shall not apply if the borrowing corporation is a prescribed corporation.
+
+[16/2003 wef 22/12/2003]
+
+(1B) In subsection (1A), “prescribed corporation” means —
+
+(a) any bank licensed under the Banking Act (Cap. 19); or
+
+(b) any corporation or other entity or any corporation or other entity of a class which has been declared by the Authority by notification published in theGazetteto be a prescribed corporation for the purposes of this section, subject to such conditions or restrictions as it may think fit to impose by notice in writing.
+
+[16/2003 wef 22/12/2003]
+
+(1C) The Authority may, at any time by notice in writing, vary or revoke any condition or restriction imposed under subsection (1B).
+
+[16/2003 wef 22/12/2003]
 
 (2) In this Subdivision —
 
@@ -6754,93 +7342,11 @@ Debentures
 
 (3) In this Subdivision, a corporation is related to another corporation if it is deemed to be related to that other corporation by virtue of section 6 of the Companies Act (Cap. 50).
 
-### Qualifications of trustee for debenture holders
+262\. [Repealed by Act 16 of 2003 wef 22/12/2003]
 
-262\.—(1) Subject to this section, every corporation and every other entity which makes an offer or invitation to the public in respect of debentures shall make provision in those debentures or in a trust deed relating to those debentures for the appointment of a trustee corporation as trustee for the holders of the debentures.
+263\. [Repealed by Act 16 of 2003 wef 22/12/2003]
 
-(2) Where a borrowing corporation is required to appoint a trustee for the holders of any debentures in accordance with subsection (1), it shall not allot any of those debentures until the appointment has been made and the trustee corporation has consented to act as trustee.
-
-(3) Without leave of the court, a trustee corporation shall not be appointed, hold office or act as trustee for the holders of debentures of a borrowing corporation if that trustee corporation is —
-
-(a) a shareholder who beneficially holds shares in the borrowing corporation;
-
-(b) beneficially entitled to moneys owed by the borrowing corporation to it;
-
-(c) a corporation that has entered into a guarantee in respect of the principal debt secured by those debentures or in respect of interest thereon; or
-
-(d) a corporation that is related to —
-
-(i) any corporation of a kind referred to in paragraphs (a), (b) and (c); or
-
-(ii) the borrowing corporation.
-
-(4) Subsection (3) does not prevent a trustee corporation from being appointed, or from holding office or acting as trustee for the holders of debentures of a borrowing corporation by reason only that —
-
-(a) the borrowing corporation owes to the trustee corporation or to a corporation related to the trustee corporation any moneys so long as such moneys are —
-
-(i) moneys that (not taking into account any moneys referred to in sub-paragraphs (ii) and (iii)) do not, at the time of the appointment or at any time within a period of 3 months after an offer or invitation in respect of the debentures is first made to the public, exceed 10% of the amount of the debentures in respect of which the offer or invitation is proposed to be made to the public within that period and do not, at any time after the expiration of that period, exceed 10% of the amount owed by the borrowing corporation to the holders of the debentures;
-
-(ii) moneys that are secured by, and only by, a first mortgage over land of the borrowing corporation, or by any debentures issued by the borrowing corporation to the public or by any debentures not issued to the public which are issued pursuant to the same trust deed as that creating other debentures issued at any time by the borrowing corporation to the public or by any debentures to which the trustee corporation, or a corporation that is related to the trustee corporation, is not beneficially entitled; or
-
-(iii) moneys to which the trustee corporation, or a corporation that is related to the trustee corporation, is entitled as trustee for holders of any debentures of the borrowing corporation in accordance with the terms of the debentures or of the relevant trust deed; or
-
-(b) the trustee corporation, or a corporation that is related to the trustee corporation, is a shareholder of the borrowing corporation in respect of shares that it beneficially holds, so long as the shares in the borrowing corporation beneficially held by the trustee corporation and by all other corporations that are related to it, do not carry the right to exercise more than 5% of the voting power at any general meeting of the borrowing corporation.
-
-(5) Nothing in subsection (3) shall —
-
-(a) affect the operation of any debenture or trust deed issued or executed before 29th December 1967; or
-
-(b) apply to or in relation to the trustee for the holders of any such debentures,
-
-unless pursuant to any such debentures or trust deed a further offer or invitation in respect of debentures is made after that date.
-
-(6) Nothing in this Subdivision shall apply to a prescribed corporation, and a prescribed corporation which makes an offer or invitation in respect of debentures shall not be required to make provision in those debentures or in a trust deed relating to those debentures for the appointment of a trustee corporation as trustee for the holders of the debentures.
-
-(7) Where a prescribed corporation which makes an offer or invitation in respect of debentures, makes provision in those debentures or in a trust deed relating to those debentures for the appointment of a trustee (whether or not a trustee corporation) for the holders of the debentures, nothing in this Subdivision shall apply to those debentures, the trust deed or the trustee.
-
-(8) For the purposes of subsections (6) and (7), “prescribed corporation” has the same meaning as in section 239(4).
-
-(9) If default is made in complying with this section, the corporation and every officer of the corporation who is in default shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 and, in the case of a continuing offence, to a further fine not exceeding $2,000 for every day or part thereof during which the offence continues after conviction.
-
-### Retirement of trustees
-
-263\.—(1) Notwithstanding anything in any Act or in the relevant debentures or trust deed but subject to section 262 (6) and (7), a trustee for the holders of debentures shall not cease to be the trustee until a corporation qualified under section 262 for appointment as trustee for the holders of the debentures has been appointed to be the trustee for the holders of the debentures and has taken office as such.
-
-(2) Where provision has been made in the debentures or in the relevant trust deed for the appointment of a successor to a trustee for the holders of the debentures upon retirement or otherwise, the successor may, subject to section 262, be appointed in accordance with such provision.
-
-(3) Where no provision has been made in the debentures or in the relevant trust deed for the appointment of a successor to a retiring trustee, the borrowing corporation may appoint a successor which is qualified for appointment under section 262.
-
-(4) Notwithstanding anything in this Act or the Companies Act (Cap. 50) or in any debentures or trust deed, a borrowing corporation may, with the consent of an existing trustee for the holders of the debentures, appoint as successor to the existing trustee any corporation which is qualified for appointment pursuant to section 262 and which is related to the existing trustee.
-
-(5) Where the trustee for the holders of the debentures has ceased to exist or to be qualified under section 262 or fails or refuses to act or is disqualified under that section, the court may, on the application of the borrowing corporation or the trustee for the holders of the debentures or the holder of any of the debentures or the Authority, appoint any corporation qualified under section 262 to be the trustee for the holders of the debentures in place of the trustee which has ceased to exist or to be qualified, which has failed or refused to act as trustee, or which is disqualified.
-
-(6) Where a successor is appointed to be a trustee in place of any trustee, the successor shall within one month after the appointment lodge with the Authority notice in the prescribed form of the appointment.
-
-(7) Any person who fails to comply with subsection (6) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine not exceeding $500 for every day or part thereof during which the offence continues after conviction.
-
-### Contents of trust deed
-
-264\.—(1) Where a corporation or any other entity makes an offer or invitation in respect of debentures for subscription, the debentures or the relevant trust deed shall contain a limitation on the amount that the borrowing corporation may, pursuant to those debentures or that deed, borrow and shall contain covenants by the borrowing corporation, or if the debentures do not or the trust deed does not expressly contain those covenants, they or it shall be deemed to contain covenants by the borrowing corporation, to the following effect:
-
-(a) that the borrowing corporation will use its best endeavours to carry on and conduct its business in a proper and efficient manner;
-
-(b) that, to the same extent as if the trustee for the holders of the debentures or any approved company auditor appointed by the trustee were a director of the borrowing corporation or such person of the borrowing corporation as the Authority may approve in writing, the borrowing corporation shall —
-
-(i) make available for its or his inspection the whole of the accounting or other records of the borrowing corporation; and
-
-(ii) give to it or him such information as it or he requires with respect to all matters relating to the accounting or other records of the borrowing corporation; and
-
-(c) that the borrowing corporation will, on the application of persons holding not less than 10% in nominal value of the issued debentures to which the covenant relates delivered to its registered office, by giving notice —
-
-(i) to each of the holders of those debentures (other than debentures payable to bearer) at his address as specified in the register of debentures; and
-
-(ii) by an advertisement in at least 4 local daily newspapers, one each published in the English, Malay, Chinese and Tamil languages addressed to all holders of those debentures,
-
-summon a meeting of the holders of those debentures to consider the accounts and balance-sheet which were last lodged with the trustee for the holders of the debentures by the borrowing corporation and to give to the trustee directions in relation to the exercise of the trustee’s powers; and
-
-(d) that the meeting under paragraph (c) shall be held at a time and place specified in the notice and advertisement under the chairmanship of a person nominated by the trustee or such other person as is appointed in that behalf by the holders of those debentures present at the meeting.
-
-(2) Where any debenture (other than a debenture lawfully issued pursuant to a trust deed executed before that date) is issued and neither the debenture nor the trust deed relating to the issue of the debenture expressly contains the limitation on the amount that the borrowing corporation may borrow and the covenants referred to in subsection (1), the corporation that issued the debenture and every officer of the corporation who is in default shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
+264\. [Repealed by Act 16 of 2003 wef 22/12/2003]
 
 ### Power of court in relation to certain irredeemable debentures
 
@@ -6856,21 +7362,9 @@ summon a meeting of the holders of those debentures to consider the accounts and
 
 ### Duties of trustees
 
-266\.—(1) A trustee for the holders of debentures —
+266\. 
 
-(a) shall exercise reasonable diligence to ascertain whether or not the assets of the borrowing corporation and of each of its guarantor corporations which are or may be available, whether by way of security or otherwise, are sufficient or are likely to be or become sufficient to discharge the principal debt as and when it becomes due;
-
-(b) shall satisfy itself that each prospectus relating to the debentures does not contain any matter which is inconsistent with the terms of the debentures or with the relevant trust deed;
-
-(c) shall ensure that the borrowing corporation complies with Division 8 of Part IV of the Companies Act (Cap. 50) so far as it relates to the debentures and is applicable;
-
-(d) shall exercise reasonable diligence to ascertain whether or not the borrowing corporation and each of its guarantor corporations have committed any breach of the covenants, terms and provisions of the debentures or the trust deed;
-
-(e) except where it is satisfied that the breach will not materially prejudice the security, if any, for the debentures or the interests of the holders of the debentures, shall take all steps and do all such things as it is empowered to do to cause the borrowing corporation and any of its guarantor corporations to remedy any breach of those covenants, terms and provisions;
-
-(f) where the borrowing corporation or any of its guarantor corporations fails when so required by the trustee to remedy any breach of the covenants, terms and provisions of the debentures or the trust deed, may place the matter before a meeting of holders of the debentures, submit such proposals for the protection of their investment as the trustee considers necessary or appropriate and obtain the directions of the holders in relation thereto; and
-
-(g) where the borrowing corporation submits to those holders a compromise or arrangement, shall give to them a statement explaining the effect of the compromise or arrangement and, if it thinks fit, recommend to them an appropriate course of action to be taken by them in relation thereto.
+—(1) [Deleted by Act 16 of 2003 wef 22/12/2003]
 
 (2) Where, after due inquiry, the trustee for the holders of the debentures at any time is of the opinion that the assets of the borrowing corporation and of any of its guarantor corporations which are or should be available whether by way of security or otherwise, are insufficient, or likely to become insufficient, to discharge the principal debt as and when it becomes due, the trustee may apply to the Authority for an order under this subsection.
 
@@ -6925,6 +7419,12 @@ but in making any such order the court shall have regard to the rights of all cr
 (3) The court may, on an application under this section, order a meeting of all or any of the holders of debentures to be called to consider any matters in which they are concerned and to advise the trustee on those matters and may give such ancillary or consequential directions as the court thinks fit.
 
 (4) The meeting shall be held and conducted in such manner as the court directs, under the chairmanship of a person nominated by the trustee or such other person as the meeting appoints.
+
+### Right of Authority, securities exchange and holders of debentures to apply to court for order
+
+267A\. Without prejudice to any other right of action or remedy in any written law or rule of law, a holder of debentures, the Authority or a securities exchange (in a case where the debentures are quoted or listed for quotation on that securities exchange) may apply to the court for an order to compel the trustee for the holders of such debentures to perform his duties as set out in the trust deed relating to those debentures, and the court may either make the order on such terms as it considers appropriate, or dismiss the application.
+
+[16/2003 wef 22/12/2003]
 
 ### Obligations of borrowing corporation
 
@@ -7008,7 +7508,9 @@ if the trustee for the holders of the debentures of the borrowing corporation ha
 
 ### Loans and deposits to be immediately repayable on certain events
 
-270\.—(1) Where there is, in any prospectus issued in connection with an offer or invitation in respect of debentures, a statement as to any particular purpose or project for which the moneys received by the borrowing corporation in response to the invitation are to be applied, the borrowing corporation shall from time to time make reports to the trustee for the holders of those debentures as to the progress that has been made towards achieving such purpose or completing such project.
+270\.—(1) Where there is, in any prospectus issued in connection with an offer or invitation in respect of debentures, a statement as to any particular purpose or project for which the moneys received by the borrowing corporation in response to the invitation are to be applied, the borrowing corporation shall, where there is a trustee for the holders of those debentures, from time to time make reports to the trustee as to the progress that has been made towards achieving such purpose or completing such project.
+
+[16/2003 wef 22/12/2003]
 
 (2) Each such report shall be included in the report required to be furnished to the trustee for the holders of the debentures under section 268(1).
 
@@ -7082,59 +7584,103 @@ Exemptions
 
 ### Offer or invitation made under certain circumstances
 
-273\.—(1) Subdivisions (2) and (3) of this Division shall not apply to an offer or invitation in respect of shares, debentures or units of shares or debentures, if it is —
+273\.—(1) Subdivisions (2) and (3) of this Division shall not apply to an offer or invitation in respect of shares, debentures or units of shares or debentures, if —
 
-(a) made in connection with a take-over offer which is in compliance with the Take-over Code;
+(a) it is made in connection with a take-over offer which is in compliance with the Take-over Code;
 
-(b) made —
+(b) it is made in connection with an offer for the acquisition by or on behalf of a person of some or all of the shares in a corporation or some or all of the shares of a particular class in a corporation —
 
-(i) in the case of an offer or invitation in respect of shares or debentures, in relation to shares or debentures; or
+(i) to all members of the corporation or all members of the corporation holding shares of that class; or
 
-(ii) in the case of an offer or invitation in respect of units of shares or debentures, in relation to units of shares or debentures,
+(ii) where the person already holds shares in the corporation, to all other members of the corporation or all other members of the corporation holding shares of that class,
 
-that have been previously issued and that are quoted or listed for quotation on a securities exchange; or
+where such offer is in compliance with the laws, codes and other requirements (whether or not having the force of law) relating to take-overs of the country in which the corporation was incorporated;
 
-(c) made, whether or not in relation to shares or debentures, or units of shares or debentures, that have been previously issued, by a corporation to employees of the corporation or its related corporation, where the shares or debentures or units of shares or debentures are to be held by or for the benefit of the employees in accordance with an employee share investment offer or scheme (including a share option offer or scheme) for the time being in force, if —
+(c) it is made in connection with a proposed compromise or arrangement between —
 
-(i) the employees are not induced to purchase the shares or debentures, or units of shares or debentures, by an expectation of employment or continued employment; and
+(i) a corporation and its creditors or a class of them; or
 
-(ii) no selling or promotional expenses are paid or incurred in connection with the offer or scheme, other than those incurred for administrative or professional services or incurred by way of commission or fee for services rendered by the holder of a capital markets services licence to deal in securities or an exempt person in respect of dealing in securities.
+(ii) a corporation and its members or a class of them,
 
-(2) For the avoidance of doubt, nothing in subsection (1)(c) shall be construed to make an offer or invitation by a corporation to employees of the corporation or its related corporation in respect of any of its shares or debentures, or units of its shares or debentures, an offer or invitation to the public by reason only that such offer or invitation is made to the employees of the corporation or its related corporation.
+and such proposed compromise or arrangement and the execution thereof is in compliance with the laws, codes and other requirements (whether or not having the force of law) relating to take-overs, compromises and arrangements of the country in which the corporation was incorporated;
 
-(3) Where, on the application of any person interested, the Authority declares, by order, that circumstances exist whereby —
+(d) it is an offer or invitation in respect of shares or debentures that have been previously issued and are listed for quotation or quoted on a securities exchange;
+
+(e) it is an offer or invitation in respect of units of shares or debentures where —
+
+(i) the units of shares or debentures have been previously issued and are listed for quotation or quoted on a securities exchange; or
+
+(ii) an application has been or will be made for permission for the units of shares or debentures to be listed for quotation or quoted on a securities exchange and the shares or debentures have been previously issued and are listed for quotation on a securities exchange or a recognised securities exchange; or
+
+(f) it is made (whether or not in relation to shares or debentures or units of shares or debentures that have been previously issued) by a corporation to a qualifying person where the shares or debentures or units of shares or debentures are to be held by or for the benefit of the qualifying person in accordance with a share investment offer or scheme (including a share option offer or scheme) for the time being in force.
+
+(2) Subsection (1)(f) shall only apply if no selling or promotional expenses are paid or incurred in connection with the share investment offer or scheme, other than those incurred for administrative or professional services or incurred by way of commission or fee for services rendered by the holder of a capital markets services licence to deal in securities or an exempt person in respect of dealing in securities.
+
+(3) For the avoidance of doubt, nothing in subsection (1)(f) shall be construed as making an offer or invitation by a corporation to a qualifying person in respect of any of its shares or debentures or units of its shares or debentures an offer or invitation to the public by reason only that such offer or invitation is made to the qualifying person.
+
+(4) For the purposes of subsections (1)(f) and (3), a person is a qualifying person in relation to a corporation if he is a bona fide director, former director, consultant, adviser, employee or former employee of the corporation or a related corporation of that corporation, or if he is the spouse, widow, widower or a child, adopted child or step-child below the age of 18, of such director, former director, employee or former employee.
+
+(5) Where, on the application of any person interested, the Authority declares that circumstances exist whereby —
 
 (a) the cost of providing a prospectus for an offer or invitation in respect of shares, debentures or units of shares or debentures outweighs the resulting protection to investors; or
 
 (b) it would not be prejudicial to the public interest if a prospectus were dispensed with for an offer or invitation in respect of shares, debentures or units of shares or debentures,
 
-Subdivisions (2) and (3) of this Division shall not apply to a person making such an offer or invitation to the public for a period of 6 months from the date of the order.
+Subdivisions (2) and (3) of this Division shall not apply to a person making such an offer or invitation to the public for a period of 6 months from the date of the declaration.
 
-(4) The Authority may, on making an order referred to in subsection (3), impose such conditions or restrictions on the offer or invitation as it considers appropriate.
+(6) The Authority may, on making a declaration under subsection (5), impose such conditions or restrictions on the offer or invitation as it may determine.
 
-(5) An order made under subsection (3) shall be final.
+(7) A declaration made under subsection (5) shall be final.
+
+(8) Any person who contravenes any of the conditions or restrictions specified in the declaration made under subsection (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+(9) In subsection (1)(b) and (c), “corporation” excludes —
+
+(a) a company; and
+
+(b) a corporation whose shares or debentures, or units of shares or debentures, are listed for quotation on a securities exchange.
+
+[16/2003 wef 22/12/2003]
 
 ### Offer or invitation made to certain institutions or persons
 
 274\. Subdivisions (2) and (3) of this Division shall not apply to an offer or invitation in respect of shares, debentures, or units of shares or debentures, whether or not they have been previously issued, made to —
 
-(a) a bank that is licensed under the Banking Act (Cap. 19) or a merchant bank that is approved under section 28 of the Monetary Authority of Singapore Act (Cap. 186);
+(a) a bank that is licensed under the Banking Act (Cap. 19);
 
-(b) an insurance company that is registered under the Insurance Act (Cap. 142) or a trust company registered under the Trust Companies Act (Cap. 336);
+(b) a merchant bank that is approved as a financial institution under section 28 of the Monetary Authority of Singapore Act (Cap. 186);
 
-(c) the Government or a statutory body;
+(c) a finance company licensed under the Finance Companies Act (Cap. 108);
 
-(d) the holder of a capital markets services licence to deal in securities or an exempt person in respect of dealing in securities;
+(d) a company or society registered under the Insurance Act (Cap. 142) as an insurer;
 
-(e) the holder of a capital markets services licence for fund management;
+(e) a company registered under the Trust Companies Act (Cap. 336);
 
-(f) a pension fund or collective investment scheme;
+(f) the Government or a statutory body;
 
-(g) an investment company as defined in section 355(1) of the Companies Act (Cap. 50);
+(g) a pension fund or collective investment scheme;
 
-(h) a licensed financial adviser under the Financial Advisers Act 2001 or exempted under that Act from obtaining such a licence; and
+(h) the holder of a capital markets services licence for —
 
-(i) such other person who, pursuant to the offer or invitation acquires the shares, debentures, or units of shares or debentures, as principal or as a trustee for accounts fully managed by it and who has been declared by the Authority as an exempt purchaser or is within a class of persons declared by the Authority as exempt purchasers.
+(i) dealing in securities;
+
+(ii) fund management;
+
+(iii) providing custodial services for securities;
+
+(iv) securities financing; or
+
+(v) trading in futures contracts;
+
+(i) a person which carries on the business of dealing in bonds with —
+
+(i) accredited investors; or
+
+(ii) persons whose business involves the acquisition and the disposal or holding of securities (whether as principal or agent); or
+
+(j) any other person who has been declared by the Authority as an exempt purchaser or is within a class of persons declared by the Authority as exempt purchasers.
+
+[16/2003 wef 22/12/2003]
 
 ### Offer or invitation made to sophisticated investors
 
@@ -7160,11 +7706,19 @@ that is published in connection with an offer or invitation in respect of shares
 
 (ii) an announcement made by a company listed on a securities exchange or a recognised securities exchange pursuant to any requirement of that securities exchange;
 
-“information memorandum” means a document lodged with the Authority —
+“information memorandum” means a document —
 
-(a) purporting to describe the business and affairs of the person making the offer or invitation; and
+(a) purporting to describe the business and affairs of —
 
-(b) purporting to have been prepared for delivery to and review by sophisticated investors so as to assist them in making an investment decision in respect of the shares or debentures, or units of shares or debentures, which are the subject of an offer or invitation;
+(i) the corporation whose shares, debentures or units of shares or debentures are the subject of the offer or invitation;
+
+(ii) the person making the offer or invitation; or
+
+(iii) both; and
+
+(b) purporting to have been prepared for delivery to and review by sophisticated investors so as to assist them in making an investment decision in respect of the shares, debentures, or units of shares or debentures which are the subject of the offer or invitation;
+
+[16/2003 wef 22/12/2003]
 
 “sophisticated investor” means —
 
@@ -7174,9 +7728,13 @@ that is published in connection with an offer or invitation in respect of shares
 
 (i) whose total net personal assets exceed $2 million (or its equivalent in a foreign currency) or whose income in the preceding 12 months is not less than $300,000 (or its equivalent in a foreign currency) at the time of the acquisition; or
 
-(ii) in the case of a corporation, whose total net assets exceed $10 million in value (or its equivalent in a foreign currency) as determined by the last audited balance-sheet of the corporation; or
+(ii) in the case of a corporation, whose total net assets exceed $10 million in value (or its equivalent in a foreign currency) as determined by the last audited balance-sheet of the corporation, or (if the corporation is not required to prepare audited accounts) a balance-sheet of the corporation certified by the corporation as giving a true and fair view of the state of affairs of the corporation as of the date of the balance-sheet, which is a date that is no earlier than 12 months before the date on which the offer or invitation is made to the corporation; or
 
-(c) an officer of the person making the offer or invitation or a spouse, parent, brother, sister, son or daughter of that officer or of the person making the offer or invitation, if he is a natural person.
+[16/2003 wef 22/12/2003]
+
+(c) an officer of the person making the offer or invitation or a spouse, parent, brother, sister, son or daughter of that officer or of the person making the offer or invitation, if he is an individual.
+
+[16/2003 wef 22/12/2003]
 
 (3) Notwithstanding any requirement in section 99 or any regulation made thereunder that a person has to deal in securities for his own account with or through a person prescribed by the Authority so that he can qualify as an exempt person, a person who acquires shares in or debentures of, or units of shares in or debentures of, a corporation under section 274 or this section for his own account shall be considered an exempt person even though he does not comply with that requirement.
 
@@ -7192,25 +7750,45 @@ that is published in connection with an offer or invitation in respect of shares
 
 (2) Where shares in or debentures of, or units of shares in or debentures of, a corporation initially acquired pursuant to an exemption in section 274 or 275, are first sold to any person other than those specified in either of those sections, the offer for sale of, or invitation to purchase, those shares, debentures or units of shares or debentures made to that person shall be regarded as an offer or invitation to the public in respect of shares, debentures or units of shares or debentures, except in a case referred to in subsection (3).
 
-(3) Subsection (2) shall not apply if the shares, debentures, or units of shares or debentures, to which the offer or invitation relates are listed for quotation or quoted on a securities exchange or a recognised securities exchange, and at least 6 months have elapsed from the date that they were initially acquired pursuant to the exemption under section 274 or 275.
+(3) Subsection (2) shall not apply if at least 6 months have elapsed from the date the shares, debentures or units of shares or debentures to which the offer or invitation relates were initially acquired pursuant to the exemption under section 274 or 275.
 
-(4) In a case referred to in subsection (3), any subsequent offer to sell to, or invitation to any person to purchase, the listed shares or debentures, or units of shares or debentures, after the expiration of the 6-month period, shall not require a prospectus.
+[16/2003 wef 22/12/2003]
+
+(4) In a case referred to in subsection (3), any subsequent offer to sell to any person, or invitation to any person to purchase, the shares, debentures or units of shares or debentures after the expiration of the 6 month period shall not require a prospectus, provided that the shares, debentures or units of shares or debentures are listed for quotation or quoted on a securities exchange or recognised securities exchange.
+
+[16/2003 wef 22/12/2003]
+
+(5) For the avoidance of doubt, subsections (2) and (3) shall continue to apply to any offer or invitation referred to in subsection (4) if the shares, debentures or units of shares or debentures are not listed for quotation or quoted on a securities exchange or recognised securities exchange.
+
+[16/2003 wef 22/12/2003]
 
 ### Securities exchange offer or invitation
 
 277\.—(1) Where —
 
-(a) shares, debentures, or units of shares or debentures, have not been previously issued and are, or are to be, uniform in all respects with shares or debentures, or units of shares or debentures, previously issued and listed for quotation on a securities exchange; and
+(a) an offer or invitation to the public is in respect of shares, debentures, or units of shares or debentures which have not been previously issued and are, or are to be, uniform in all respects with shares or debentures, or units of shares or debentures, previously issued and listed for quotation on a securities exchange; and
 
-(b) a statement of material facts, which complies with such form and content as prescribed by the Authority, is lodged with the Authority and the securities exchange,
+(b) an offer information statement which complies with such form and content as may be prescribed by the Authority is lodged with the Authority and the securities exchange,
 
-Subdivisions (2) and (3) of this Division shall not apply to an offer or invitation in respect of the first-mentioned shares, debentures, or units of shares or debentures, to the public for a period of 6 months from the date of lodgment of the statement of material facts with the Authority.
+Subdivisions (2) and (3) of this Division shall not apply to the offer or invitation for a period of 6 months from the date of lodgment of the offer information statement.
 
-(2) For the purposes of this section —
+(2) The Authority may, on the application of any person interested, modify the prescribed form and content of the offer information statement in such manner as is appropriate, subject to such conditions or restrictions as may be determined by the Authority.
+
+(3) For the purposes of this section —
 
 (a) shares shall be deemed to be uniform in all respects with shares previously issued notwithstanding that they do not carry the same rights to dividends as the latter during the 12 months immediately following the issue; and
 
-(b) a statement of material facts referred to in subsection (1) shall be deemed to be a prospectus for the purposes of sections 253 and 254.
+(b) sections 249, 253, 254 and 255 shall, with the necessary modifications, apply in relation to an offer information statement referred to in subsection (1) as they apply in relation to a prospectus.
+
+(4) For the purposes of subsection (3)(b) —
+
+(a) a reference in section 249 to the delivery of a copy of the prospectus for registration shall be read as a reference to the delivery of a copy of the offer information statement for lodgment; and
+
+(b) a reference in section 253 or 254 to any information or new circumstance required to be included in a prospectus under section 243 shall be read as a reference to any information prescribed under subsection (1)(b).
+
+(5) Where the written consent of an expert to the issue of an offer information statement is required to be given under section 249 (as applied in relation to that statement under subsection (3)(b)), that written consent shall be lodged with the Authority at the same time as the lodgment of the statement.
+
+[16/2003 wef 22/12/2003]
 
 ### Offer or invitation in respect of international debentures
 
@@ -7232,21 +7810,13 @@ Subdivisions (2) and (3) of this Division shall not apply to an offer or invitat
 
 (b) an international financial institution in which Singapore holds membership of any class or description, whether or not it holds any share in the share capital of that institution.
 
-### Reporting requirements
-
-280\.—(1) Where an issuer intends to invoke an exemption under this Subdivision other than an exemption under section 273(1), 276 or 277, he shall lodge with the Authority a report of his intention to issue the shares or debentures, or units of shares or debentures, in such form as may be prescribed at or before the time of invoking the exemption.
-
-(2) An issuer, if incorporated in Singapore, shall maintain a register in the prescribed form of the shares or debentures, or units of shares or debentures, issued under an exemption under this Subdivision other than an exemption under section 273(1), 276 or 277.
-
-(3) Particulars of the issue of the shares or debentures, or units of shares or debentures, shall be entered in the register within 3 days of the issue.
-
-(4) Upon the request of the Authority, the issuer shall produce for inspection the register maintained under subsection (2) and the Authority may make extracts from the register.
-
-(5) The Authority may supply a copy of an extract from a register to any person who, in its opinion, should, in the public interest, be informed of the issue of the shares or debentures, or units of shares or debentures, disclosed in the register.
+280\. [Repealed by Act 16 of 2003 wef 22/12/2003]
 
 ### Revocation of exemption
 
-281\.—(1) Where the Authority considers that the person is contravening, or is likely to contravene, or has contravened any condition or restriction imposed under section 273(4), or it is necessary in the public interest or for the protection of investors, it may revoke any exemption under this Subdivision, subject to such conditions as it thinks fit.
+281\.—(1) Where the Authority considers that the person is contravening, or is likely to contravene, or has contravened any condition or restriction imposed under section 273(6), or it is necessary in the public interest or for the protection of investors, it may revoke any exemption under this Subdivision, subject to such conditions as it thinks fit.
+
+[16/2003 wef 22/12/2003]
 
 (2) The Authority may revoke an exemption under subsection (1) without giving the person affected by the revocation an opportunity to be heard, but the person may, within 14 days of the revocation, apply to the Authority for the revocation to be reviewed by the Authority, and the revocation shall remain in effect unless it is withdrawn by the Authority.
 
@@ -7274,17 +7844,21 @@ Interpretation
 
 (a) a profile statement; or
 
-(b) any material, advertisement or publication which is authorised by section 300 (other than subsection (3)), and which complies with such requirements as may be prescribed under section 300(1);
+(b) any material, advertisement or publication which is authorised by section 300 (other than subsection (3)), or which complies with such requirements as may be prescribed under section 300(1);
+
+[16/2003 wef 22/12/2003]
 
 “responsible person”, in relation to a collective investment scheme, means —
 
-(a) in the case of a scheme which is authorised under section 286, the manager for the scheme;
+(a) in the case of a scheme which is authorised under section 286 or for which an application for authorisation has been made under that section, the manager for the scheme;
 
-(b) in the case of a scheme which is recognised under section 287 —
+(b) in the case of a scheme which is recognised under section 287 or for which an application for recognition has been made under that section —
 
 (i) where the scheme is constituted as a corporation, the corporation;
 
 (ii) where the scheme is not constituted as a corporation, the manager for the scheme;
+
+[16/2003 wef 22/12/2003]
 
 “replacement document” means a replacement prospectus or a replacement profile statement referred to in section 298(1), as the case may be;
 
@@ -7307,6 +7881,18 @@ Interpretation
 (2) The Authority may from time to time revise the Code on Collective Investment Schemes by deleting, amending or adding to the provisions thereof.
 
 (3) The Code on Collective Investment Schemes shall be deemed not to be subsidiary legislation.
+
+### Authority may disapply this Division to certain offers and invitations
+
+284A\. Notwithstanding any provision to the contrary in this Division, where —
+
+(a) an offer to the public of, or an invitation to the public to subscribe for or purchase, units in a collective investment scheme is one to which (but for this section) both this Division and Division 1 apply; and
+
+(b) the Authority has by order published in theGazettedeclared that this Division shall not apply to that offer or invitation or a class of offers or invitations to which that offer or invitation belongs,
+
+then this Division does not apply to that offer or invitation.
+
+[16/2003 wef 22/12/2003]
 
 Subdivision (2) —
 
@@ -7346,13 +7932,9 @@ Authorisation and Recognition
 
 (ii) any person exercising influence over the manager; or
 
-(iii) any person exercising influence over a related corporation of the manager;
+(iii) any person exercising influence over a related corporation of the manager.
 
-(iv) any related corporation of the manager;
-
-(v) any director of such corporation; or
-
-(vi) any person exercising influence over such corporation.
+[16/2003 wef 22/12/2003]
 
 (4) The Authority may authorise, under subsection (1), a collective investment scheme which is not constituted as a unit trust if and only if the Authority is satisfied that the scheme and the manager for the scheme comply with such requirements as may be prescribed.
 
@@ -7362,11 +7944,11 @@ Authorisation and Recognition
 
 (a) the person making the offer (being an entity), the responsible person or the collective investment scheme itself, is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
 
-(b) the person making the offer (being an individual) is an undischarged bankrupt, whether in Singapore or elsewhere;
+(b) [Deleted by Act 16 of 2003 wef 22/12/2003]
 
 (c) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the person making the offer (being an entity), the responsible person or the collective investment scheme.
 
-(d) the responsible person has entered into a compromise or scheme of arrangement with its creditors, being a compromise or scheme of arrangement that is still in operation.
+[16/2003 wef 22/12/2003]
 
 (7) The responsible person for a collective investment scheme may, within 30 days after he is notified that the Authority has refused to authorise that scheme under subsection (1), appeal to the Minister whose decision shall be final.
 
@@ -7420,15 +8002,11 @@ Authorisation and Recognition
 
 (i) any person who is or will be employed by or associated with the manager;
 
-(ii) any person exercising influence over the manager;
+(ii) any person exercising influence over the manager; or
 
-(iii) any person exercising influence over a related corporation of the manager;
+(iii) any person exercising influence over a related corporation of the manager; and
 
-(iv) any related corporation of the manager;
-
-(v) any director of such corporation; or
-
-(vi) any person exercising influence over such corporation; and
+[16/2003 wef 22/12/2003]
 
 (c) in the case of a scheme which is not constituted as a corporation —
 
@@ -7444,11 +8022,11 @@ Authorisation and Recognition
 
 (a) the person making the offer (being an entity), the responsible person or the collective investment scheme itself, is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
 
-(b) the person making the offer (being an individual) is an undischarged bankrupt, whether in Singapore or elsewhere;
+(b) [Deleted by Act 16 of 2003 wef 22/12/2003]
 
 (c) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the person making the offer (being an entity), the responsible person or the collective investment scheme.
 
-(d) the responsible person has entered into a compromise or scheme of arrangement with its creditors, being a compromise or scheme of arrangement that is still in operation.
+[16/2003 wef 22/12/2003]
 
 (6) The responsible person for a collective investment scheme may, within 30 days after he is notified that the Authority has refused to recognise that scheme under subsection (1), appeal to the Minister whose decision shall be final.
 
@@ -7486,6 +8064,26 @@ Authorisation and Recognition
 
 (e) such other functions as the Authority may prescribe.
 
+(13A) In carrying out or procuring the carrying out of the functions referred to in subsection (13), the representative shall ensure that —
+
+(a) for the purposes of subsection (13)(a)(ii), the sale and purchase prices of units in the collective investment scheme are published in the language of the prospectus;
+
+(b) for the purposes of subsection (13)(a)(iii), the reports of the scheme sent to participants are prepared in the language of the prospectus, except in relation to any participant who has consented to being sent a report in a language other than the language of the prospectus;
+
+(c) for the purposes of subsection (13)(a)(v), if the instruments constituting the scheme are not in the language of the prospectus, an accurate translation of the instruments in the language of the prospectus is made available to a participant for inspection, unless the participant has consented to the making available to him for inspection of the instruments in a language other than the language of the prospectus; and
+
+(d) for the purposes of subsection (13)(b), if the subsidiary register of participants or equivalent information is not in the language of the prospectus, an accurate translation of the register or equivalent information in the language of the prospectus is made available to a participant for inspection or extraction, unless the participant has consented to the making available to him for inspection or extraction of the register or equivalent information in a language other than the language of the prospectus.
+
+[16/2003 wef 22/12/2003]
+
+(13B) In subsection (13A), “language of the prospectus” means the language of the prospectus accompanying or making the offer of units in the collective investment scheme to the public for subscription or purchase or the invitation to the public to subscribe for or purchase units in the collective investment scheme.
+
+[16/2003 wef 22/12/2003]
+
+(13C) Section 318A(2) shall not apply to the instruments constituting the scheme referred to in subsection (13)(a)(v) or to the subsidiary register of participants or equivalent information referred to in subsection (13)(b).
+
+[16/2003 wef 22/12/2003]
+
 (14) Any person who contravenes subsection (9), (12) or (13) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
 
 ### Revocation, suspension or withdrawal of authorisation or recognition
@@ -7493,6 +8091,10 @@ Authorisation and Recognition
 288\.—(1) The Authority may revoke the authorisation of a collective investment scheme granted under section 286 or the recognition of a collective investment scheme granted under section 287 if —
 
 (a) the application for authorisation or recognition, or any related information or record submitted to the Authority whether at the same time as or subsequent to the application, was false or misleading in a material particular or omitted a material particular which, had it been known to the Authority at the time of submission, would have resulted in the Authority not granting the authorisation or recognition;
+
+(aa) the Authority is of the opinion that the continued authorisation or recognition of the scheme is or will be against the public interest;
+
+[16/2003 wef 22/12/2003]
 
 (b) the Authority is of the opinion that the continued authorisation or recognition of the scheme is or will be prejudicial to its participants or potential participants; or
 
@@ -7529,6 +8131,26 @@ Authorisation and Recognition
 (a) there is any matter concerning the scheme which should be investigated before the authorisation or recognition is withdrawn; or
 
 (b) the withdrawal of the authorisation or recognition would not be in the public interest.
+
+(8A) The Authority shall not —
+
+(a) revoke the authorisation or recognition of a collective investment scheme under subsection (1);
+
+(b) suspend the authorisation or recognition of a collective investment scheme under subsection (5); or
+
+(c) refuse the withdrawal of the authorisation or recognition of a collective investment scheme under subsection (8),
+
+without giving the responsible person of the scheme an opportunity to be heard, except that an opportunity to be heard need not be given if the revocation or suspension is on the ground that the continued authorisation or recognition of the scheme is against the public interest on the basis of any of the following circumstances:
+
+(i) the responsible person is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
+
+(ii) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the responsible person.
+
+[16/2003 wef 22/12/2003]
+
+(8B) Any person who is aggrieved by the revocation under subsection (1), suspension under subsection (5) or refusal of withdrawal under subsection (8) may, within 30 days after he is notified of the decision of the Authority, appeal to the Minister whose decision shall be final.
+
+[16/2003 wef 22/12/2003]
 
 (9) Where the Authority revokes an authorisation or recognition under subsection (1), suspends an authorisation or recognition under subsection (5) or withdraws an authorisation or recognition under subsection (7), it may —
 
@@ -7706,9 +8328,13 @@ Prospectus Requirements
 
 (7) Subject to subsection (8) —
 
-(a) where any amendment to a prospectus is lodged prior to the registration of such prospectus, the prospectus and any profile statement which is lodged shall be deemed to have been lodged when such amendment was lodged;
+(a) where any amendment to a prospectus is lodged prior to the registration of such prospectus, the prospectus and any profile statement which is lodged shall be deemed for the purposes of subsection (6) to have been lodged when such amendment was lodged;
 
-(b) where any amendment to a profile statement is lodged prior to the registration of such profile statement, the profile statement shall be deemed to have been lodged when such amendment was lodged.
+[16/2003 wef 22/12/2003]
+
+(b) where any amendment to a profile statement is lodged prior to the registration of such profile statement, the profile statement shall be deemed for the purposes of subsection (6) to have been lodged when such amendment was lodged.
+
+[16/2003 wef 22/12/2003]
 
 (8) Where an amendment to a prospectus or profile statement is lodged prior to the registration of the prospectus or profile statement —
 
@@ -7716,9 +8342,23 @@ Prospectus Requirements
 
 (b) pursuant to an order by the Authority,
 
-it shall be treated as part of the original prospectus or profile statement.
+the prospectus or profile statement as amended shall be deemed for the purposes of subsection (6) to have been lodged when the original prospectus or profile statement was lodged with the Authority.
 
-(9) The Authority may publish a prospectus or profile statement for public information after it has been lodged with the Authority and, for the purposes of this subsection, the person who lodges the prospectus or profile statement shall provide the Authority with a copy of the prospectus or profile statement in such form or medium for publication as the Authority may require.
+[16/2003 wef 22/12/2003]
+
+(8A) An amendment to a prospectus or profile statement that is lodged shall be treated as part of the original prospectus or profile statement.
+
+[16/2003 wef 22/12/2003]
+
+(9) The Authority may, for public information, publish —
+
+(a) a prospectus or profile statement lodged with the Authority under this section; and
+
+(b) where applicable, the translation thereof in the English language lodged with the Authority under section 318A(1),
+
+and for the purposes of this subsection, the person who lodges the prospectus or profile statement and, where applicable, the translation shall provide the Authority with a copy of the prospectus or profile statement and, where applicable, the translation in such form or medium for publication as the Authority may require.
+
+[16/2003 wef 22/12/2003]
 
 (10) The Authority shall refuse to register a copy of any prospectus if —
 
@@ -7730,7 +8370,9 @@ it shall be treated as part of the original prospectus or profile statement.
 
 (d) a copy of the prospectus signed by the following persons is not lodged with the Authority:
 
-(i) where the responsible person for the scheme is a corporation, by every director of the responsible person, and every person who is named in the prospectus as a proposed director of the responsible person, or by a person authorised by him in writing; or
+(i) where the responsible person for the scheme is a corporation, by every director of the responsible person, and every person who is named in the prospectus as a proposed director of the responsible person, or by a person authorised by the director or proposed director in writing; or
+
+[16/2003 wef 22/12/2003]
 
 (ii) where the responsible person for the scheme is not a corporation, by such persons as the Authority may approve;
 
@@ -7760,11 +8402,11 @@ it shall be treated as part of the original prospectus or profile statement.
 
 (a) the responsible person is in the course of being wound up or otherwise dissolved whether in Singapore or elsewhere;
 
-(b) execution against the responsible person in respect of a judgment debt has been returned unsatisfied in whole or in part;
+(b) [Deleted by Act 16 of 2003 wef 22/12/2003]
 
-(c) a receiver, a receiver and manager, a judicial manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the responsible person;
+(c) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the responsible person.
 
-(d) the responsible person has entered into a compromise or scheme of arrangement with its creditors, being a compromise or scheme of arrangement that is still in operation.
+[16/2003 wef 22/12/2003]
 
 (13) Any person who is aggrieved by the refusal of the Authority to register a copy of a prospectus or profile statement under subsection (10) or (11) may, within 30 days after he is notified of the decision, appeal to the Minister whose decision shall be final.
 
@@ -7788,27 +8430,41 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Stop order for prospectus and profile statement
 
-297\.—(1) If a prospectus that has been registered —
+297\.—(1) If a prospectus has been registered and —
 
-(a) contains any statement or matter which, in the opinion of the Authority, is false or misleading;
+(a) the Authority is of the opinion that the prospectus contains a false or misleading statement or matter;
 
-(b) omits any information that should have been included in it, or includes any information that is prohibited, by requirements prescribed under section 296; or
+(b) there is an omission from the prospectus of any information that is required to be included, or an inclusion in the prospectus of any information that is prohibited, by virtue of requirements prescribed under section 296;
 
-(c) does not, in the opinion of the Authority, comply with the requirements of this Act,
+(c) the Authority is of the opinion that the prospectus does not comply with the requirements of this Act; or
+
+(d) the Authority is of the opinion that it is in the public interest to do so,
 
 the Authority may by an order in writing (referred to in this section as a stop order) served on the responsible person for the scheme, direct that no or no further units in a collective investment scheme to which the prospectus relates be issued or sold.
 
-(2) If a profile statement that has been registered —
+[16/2003 wef 22/12/2003]
 
-(a) contains any statement or matter which, in the opinion of the Authority, is false or misleading;
+(2) If a profile statement has been registered and —
 
-(b) omits any information that should have been included in it, or includes any information that is prohibited, by requirements prescribed under section 296; or
+(a) the Authority is of the opinion that the profile statement contains a false or misleading statement or matter;
 
-(c) does not, in the opinion of the Authority, comply with the requirements of this Act,
+(b) there is an omission from the profile statement of any information that is required to be included, or an inclusion in the profile statement of any information that is prohibited, by virtue of requirements prescribed under section 296;
 
-the Authority may, by an order in writing (referred to in this section as a stop order) served on the responsible person for the scheme, direct that no or no further units in a collective investment scheme to which the profile statement relates be issued or sold.
+(c) the Authority is of the opinion that the profile statement does not comply with the requirements of this Act; or
 
-(3) The Authority shall not serve a stop order under subsection (1) or (2) without giving the responsible person who lodged the prospectus or profile statement an opportunity to be heard.
+(d) the Authority is of the opinion that it is in the public interest to do so,
+
+the Authority may by an order in writing (referred to in this section as a stop order) served on the responsible person for the scheme, direct that no or no further units in a collective investment scheme to which the profile statement relates be issued or sold.
+
+[16/2003 wef 22/12/2003]
+
+(3) The Authority shall not serve a stop order under subsection (1) or (2) without giving the responsible person who lodged the prospectus or profile statement an opportunity to be heard, except that an opportunity to be heard need not be given if the stop order is served on the ground that it is in the public interest to do so on the basis of any of the following circumstances:
+
+(a) the responsible person is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
+
+(b) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the responsible person.
+
+[16/2003 wef 22/12/2003]
 
 (4) Where applications for units in a collective investment scheme have been made prior to the service of a stop order, and —
 
@@ -7932,7 +8588,9 @@ and that is materially adverse from the point of view of an investor, the respon
 
 (ii) is reasonably likely to induce people to subscribe for or purchase the units,
 
-unless the advertisement or publication is authorised by this section and complies with such requirements as may be prescribed.
+unless the advertisement or publication is authorised by this section or complies with such requirements as may be prescribed.
+
+[16/2003 wef 22/12/2003]
 
 (2) In determining whether a statement —
 
@@ -8024,7 +8682,9 @@ and the responsible person shall within 7 days after the period specified in sub
 
 (6) For the avoidance of doubt, a direction issued under subsection (2) shall be deemed not to be subsidiary legislation.
 
-(7) All moneys received under this section shall be kept in a separate bank account so long as the responsible person for the collective investment scheme may become liable to repay it under subsection (2).
+(7) All moneys received from applicants as payment for the units, including contributions to the scheme and charges which the applicants have paid to the responsible person, its agent, or any person through whom the applicant has applied for the units, shall be kept in a separate bank account so long as the responsible person for the collective investment scheme may become liable to repay it under subsection (2).
+
+[16/2003 wef 22/12/2003]
 
 (8) Any responsible person for a scheme which is not in compliance with subsection (7) and, where the scheme is a corporation, every officer thereof, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
 
@@ -8040,9 +8700,13 @@ have given to the securities exchange an undertaking in writing to comply with t
 
 (11) A person shall not issue a prospectus inviting persons to subscribe for or purchase units in a collective investment scheme if it includes —
 
-(a) a false or misleading statement that permission has been granted for those units to be dealt in or quoted on any securities exchange; or
+(a) a false or misleading statement that permission has been granted for those units to be listed for quotation on the official list of, dealt in or quoted on any securities exchange; or
 
-(b) any statement in any way referring to any such permission or to any application or intended application for any such permission, or to dealing in or quoting units on any securities exchange, or to any requirements of a securities exchange, unless that statement is or is to the effect that permission has been granted or that application has been or will be made to the securities exchange within 3 days from the date of issue of the prospectus or the statement has been approved by the Authority for inclusion in the prospectus.
+[16/2003 wef 22/12/2003]
+
+(b) any statement in any way referring to any such permission or to any application or intended application for any such permission, or to listing for quotation on the official list of, dealing in or quoting the units on any securities exchange, or to any requirements of a securities exchange, unless that statement is or is to the effect that permission has been granted or that application has been or will be made to the securities exchange within 3 days from the date of issue of the prospectus or the statement has been approved by the Authority for inclusion in the prospectus.
+
+[16/2003 wef 22/12/2003]
 
 (12) Any person who contravenes subsection (11) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
 
@@ -8066,33 +8730,57 @@ Exemptions
 
 ### Offer or invitation made to certain institutions or persons
 
-304\. Subdivisions (2) and (3) of this Division shall not apply to an offer of units in a collective investment scheme to the public for subscription or purchase, or an invitation to the public to subscribe for or purchase units in a collective investment scheme, if —
+304\. Subdivisions (2) and (3) of this Division shall not apply to an offer to the public of units in a collective investment scheme for subscription or purchase, or an invitation to the public to subscribe for or purchase units in a collective investment scheme, made to —
 
-(a) the units in the scheme, if subscribed for or purchased in Singapore, are issued subject to the condition that they shall not be transferable except by operation of law; and
+(a) a bank that is licensed under the Banking Act (Cap. 19);
 
-(b) the offer or invitation is made to —
+(b) a merchant bank that is approved as a financial institution under section 28 of the Monetary Authority of Singapore Act (Cap. 186);
 
-(i) a bank that is licensed under the Banking Act (Cap. 19) or a merchant bank that is approved under section 28 of the Monetary Authority of Singapore Act (Cap. 186);
+(c) a finance company licensed under the Finance Companies Act (Cap. 108);
 
-(ii) an insurance company that is registered under the Insurance Act (Cap. 142) or a trust company registered under the Trust Companies Act (Cap. 336);
+(d) a company or society registered under the Insurance Act (Cap. 142) as an insurer;
 
-(iii) a statutory board;
+(e) a company registered under the Trust Companies Act (Cap. 336);
 
-(iv) the holder of a capital markets services licence to deal in securities or an exempt person in respect of dealing in securities;
+(f) the Government or a statutory body;
 
-(v) the holder of a capital markets services licence for fund management;
+(g) a pension fund or collective investment scheme;
 
-(vi) a pension fund or collective investment scheme;
+(h) the holder of a capital markets services licence for —
 
-(vii) an investment company as defined in section 355(1) of the Companies Act (Cap. 50);
+(i) dealing in securities;
 
-(viii) a financial adviser licensed under the Financial Advisers Act (Cap. 110) or exempted under that Act from obtaining such a licence; or
+(ii) fund management;
 
-(ix) such other person who, pursuant to the offer or invitation, acquires the units as principal or as a trustee for accounts fully managed by it, and who has been declared by the Authority as an exempt purchaser or is within a class of persons declared by the Authority as exempt purchasers.
+(iii) providing custodial services for securities;
+
+(iv) securities financing; or
+
+(v) trading in futures contracts;
+
+(i) a person which carries on the business of dealing in bonds with —
+
+(i) accredited investors; or
+
+(ii) persons whose business involves the acquisition and the disposal or holding of securities (whether as principal or agent); or
+
+(j) any other person who has been declared by the Authority as an exempt purchaser or is within a class of persons declared by the Authority as exempt purchasers.
+
+[16/2003 wef 22/12/2003]
+
+### First sale of units acquired under exemption in section 304
+
+304A\.—(1) Subject to subsection (2), where units in a collective investment scheme initially acquired pursuant to an exemption in section 304 are first sold to any person other than one specified in that section, the offer for sale of, or invitation to purchase, those units made to that person shall be regarded as an offer or invitation to the public in respect of units in a collective investment scheme.
+
+(2) Where units in a collective investment scheme initially acquired pursuant to an exemption in section 304 are first sold to any sophisticated investor, section 305 shall apply to the offer for sale of, or invitation to purchase, those units made to that sophisticated investor as if it were an offer to the public of units in a collective investment scheme for subscription or purchase, or an invitation to the public to subscribe for or purchase units in a collective investment scheme, made to a sophisticated investor.
+
+(3) In subsection (2), “sophisticated investor” has the same meaning as in section 305.
+
+[16/2003 wef 22/12/2003]
 
 ### Offer or invitation made to sophisticated investors
 
-305\.—(1) Where an offer of units in a collective investment scheme for subscription or purchase, or an invitation to subscribe for or purchase units in a collective investment scheme, is made to a sophisticated investor (referred to in this section as a restricted scheme) —
+305\.—(1) Where an offer to the public of units in a collective investment scheme for subscription or purchase, or an invitation to the public to subscribe for or purchase units in a collective investment scheme, is made to a sophisticated investor (referred to in this section as a restricted scheme) —
 
 (a) in the case of a restricted scheme which is constituted in Singapore, Subdivisions (2) and (3) of this Division shall not apply, except to such extent and with such modifications as may be prescribed; and
 
@@ -8102,7 +8790,9 @@ if —
 
 (i) the offer or invitation is not accompanied by an advertisement making an offer or invitation or calling attention to the offer or invitation, or intended offer or invitation;
 
-(ii) no selling or promotional expenses are paid or incurred in connection with the offer or invitation other than those incurred for administrative or professional services or incurred by way of commission or fee for services rendered by the holder of a capital markets services licence to deal in securities or an exempt person in respect of dealing in securities;
+(ii) no selling or promotional expenses are paid or incurred in connection with the offer or invitation other than those incurred for administrative or professional services or incurred by way of commission or fee for services rendered by the holder of a capital markets services licence to deal in securities or an exempt person in respect of dealing in securities; and
+
+[16/2003 wef 22/12/2003]
 
 (iii) the offer or invitation is made in or accompanied by an information memorandum which —
 
@@ -8114,9 +8804,9 @@ The offer or invitation which is the subject of this information memorandum is o
 
 ”; and
 
-(B) states the particulars referred to in subsection (2) in respect of the restricted scheme; and
+(B) states the particulars referred to in subsection (2) in respect of the restricted scheme.
 
-(iv) the units in the restricted scheme, if subscribed for or purchased in Singapore, are issued subject to the condition that they shall not be transferable except by operation of law.
+[16/2003 wef 22/12/2003]
 
 (2) The particulars referred to in subsection (1)(iii)(B) to be included in the information memorandum are —
 
@@ -8150,11 +8840,13 @@ The offer or invitation which is the subject of this information memorandum is o
 
 that is published in connection with an offer or invitation in respect of units in a collective investment scheme but does not include an information memorandum;
 
-“information memorandum” means a document lodged with the Authority —
+“information memorandum” means a document —
 
 (a) purporting to describe a collective investment scheme; and
 
 (b) purporting to have been prepared for delivery to and review by sophisticated investors so as to assist them in making an investment decision in respect of units in the scheme which are the subject of an offer or invitation;
+
+[16/2003 wef 22/12/2003]
 
 “sophisticated investor” means —
 
@@ -8164,13 +8856,23 @@ that is published in connection with an offer or invitation in respect of units 
 
 (i) whose total net personal assets exceed $2 million (or its equivalent in a foreign currency) or whose income in the preceding 12 months is not less than $300,000 (or its equivalent in a foreign currency) at the time of the acquisition; or
 
-(ii) in the case of a corporation, whose total net assets exceed $10 million in value (or its equivalent in a foreign currency) as determined by the last audited balance-sheet of the corporation; or
+(ii) in the case of a corporation, whose total net assets exceed $10 million in value (or its equivalent in a foreign currency) as determined by the last audited balance-sheet of the corporation, or (if the corporation is not required to prepare audited accounts) a balance-sheet of the corporation certified by the corporation as giving a true and fair view of the state of affairs of the corporation as of the date of the balance-sheet, which is a date that is no earlier than 12 months before the date on which the offer or invitation is made to the corporation; or
 
-(c) an officer of the person making the offer or invitation or a spouse, parent, brother, sister, son or daughter of that officer or of the person making the offer or invitation, if he is a natural person.
+[16/2003 wef 22/12/2003]
+
+(c) an officer of the person making the offer or invitation or a spouse, parent, brother, sister, son or daughter of that officer or of the person making the offer or invitation, if he is an individual.
+
+[16/2003 wef 22/12/2003]
 
 (4) Notwithstanding any requirement in section 99 or any regulation made thereunder that a person has to deal in securities for his own account with or through a person prescribed by the Authority so that he can qualify as an exempt person, a person who acquires units in a collective investment scheme under section 304 or this section for his own account without complying with such requirement shall be deemed to be an exempt person even though he does not comply with that requirement.
 
 (5) The Authority may, by order published in theGazette, specify an amount in substitution of any amount specified in paragraph (a) or (b) in the definition of “sophisticated investor” in subsection (3).
+
+### First sale of units acquired under exemption in section 305
+
+305A\. Where units in a collective investment scheme initially acquired pursuant to an exemption in section 305 are first sold to any person other than one specified in section 304 or 305, the offer for sale of, or invitation to purchase, those units made to that person shall be regarded as an offer or invitation to the public in respect of units in a collective investment scheme.
+
+[16/2003 wef 22/12/2003]
 
 ### Power of Authority to exempt
 
@@ -8202,13 +8904,15 @@ Securities Hawking
 
 (2) Subsection (1) shall not apply to any person who makes an offer or invitation in respect of securities that does not need a prospectus by virtue of section 274, 275, 304 or 305.
 
-(3) The Authority may, by order published in theGazette, exempt —
+(3) The Authority may exempt —
 
 (a) any person or class of persons; or
 
 (b) any class or description of securities,
 
-from compliance with subsection (1), subject to such conditions as may be specified in the order.
+from compliance with subsection (1), subject to such conditions as may be determined by the Authority.
+
+[16/2003 wef 22/12/2003]
 
 (4) Every person who acts, incites, causes or procures any person to act in contravention of subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a second or subsequent offence, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.
 
@@ -8218,7 +8922,9 @@ from compliance with subsection (1), subject to such conditions as may be specif
 
 (7) In this section —
 
-(a) “securities” means the securities of a corporation, whether the corporation is in existence or to be formed; and
+(a) “securities” has the same meaning as in section 2 and also includes the securities of a corporation, whether the corporation is in existence or is to be formed;
+
+[16/2003 wef 22/12/2003]
 
 (b) a reference to an offer or invitation in respect of securities for subscription or purchase shall be construed as including an offer or invitation in respect of securities by way of barter or exchange.
 
@@ -8230,7 +8936,9 @@ APPEALS
 
 310\.—(1) Where an appeal is made to the Minister under this Act, the Minister may confirm, vary or reverse the decision of the Authority on appeal, or give such directions in the matter as he thinks fit, and the decision of the Minister shall be final.
 
-(2) Except for an appeal under Part II or III, where an appeal is made to the Minister under this Act, the Minister shall, within 28 days of his receipt of the appeal, constitute an Appeal Advisory Committee comprising not less than 2 members of the Appeal Advisory Panel and refer that appeal to the Appeal Advisory Committee.
+(2) Except for an appeal under Part II or III, where an appeal is made to the Minister under this Act, the Minister shall, within 28 days of his receipt of the appeal, constitute an Appeal Advisory Committee comprising not less than 3 members of the Appeal Advisory Panel and refer that appeal to the Appeal Advisory Committee.
+
+[16/2003 wef 22/12/2003]
 
 (3) The Appeal Advisory Committee shall submit to the Minister a written report on the appeal referred to it under subsection (2), and may make such recommendations as it thinks fit.
 
@@ -8240,7 +8948,9 @@ APPEALS
 
 311\.—(1) For the purpose of enabling Appeal Advisory Committees to be constituted under section 310, the Minister shall appoint a panel (referred to in this Part as the Appeal Advisory Panel) comprising such members from the financial services industry, and the public and private sectors, as the Minister may appoint.
 
-(2) A member of the Appeal Advisory Panel shall be appointed for a term of not more than 2 years.
+(2) A member of the Appeal Advisory Panel shall be appointed for a term of not more than 2 years and shall be eligible for re-appointment.
+
+[16/2003 wef 22/12/2003]
 
 (3) An Appeal Advisory Committee shall have the power, in the exercise of its functions, to inquire into any matter or thing relating to the securities or futures industry and may, for this purpose, summon any person to give evidence on oath or affirmation or produce any document or material necessary for the purpose of the inquiry.
 
@@ -8262,9 +8972,23 @@ APPEALS
 
 312\. Nothing in this Act shall require the Minister or any public servant to disclose facts which he considers to be against the interest of the public to disclose.
 
-### Regulations for the purpose of this Part
+### Regulations for purposes of this Part
 
-313\. The Minister may make regulations with regard to the appointment of members to, and procedures of, the Appeal Advisory Panel and Appeal Advisory Committees.
+313\.—(1) The Minister may make regulations for the purposes and provisions of this Part and for the due administration thereof.
+
+(2) Without prejudice to the generality of subsection (1), the Minister may make regulations for or with respect to —
+
+(a) the appointment of members to, and procedures of, the Appeal Advisory Panel and Appeal Advisory Committees;
+
+(b) the form and manner in which an appeal to the Minister under this Act shall be made;
+
+(c) the fees to be paid in respect of any appeal made to the Minister under this Act, including the refund or remission, whether in whole or in part, of such fees;
+
+(d) the remuneration of the members of the Appeal Advisory Panel and Appeal Advisory Committees; and
+
+(e) all matters and things which by this Part are required or permitted to be prescribed or which are necessary or expedient to be prescribed to give effect to any provision of this Part.
+
+[16/2003 wef 22/12/2003]
 
 ## PART XV
 
@@ -8294,7 +9018,9 @@ MISCELLANEOUS
 
 ### Secrecy
 
-315\.—(1) Every officer or employee of a securities exchange, a futures exchange, a recognised trading system provider, a person granted an exemption under section 5(3) or 6(3) or a clearing house shall preserve, and aid in preserving, secrecy with regard to all matters coming to his knowledge in the exercise or performance of his duties.
+315\.—(1) Every exchange holding company, securities exchange, futures exchange, recognised trading system provider, person granted an exemption under section 5(3) or 6(3) and clearing house, and every officer or employee thereof, shall preserve, and aid in preserving, secrecy with respect to all matters of the exchange holding company, securities exchange, futures exchange, recognised trading system provider, person granted an exemption under section 5(3) or 6(3) or clearing house, as the case may be.
+
+[16/2003 wef 22/12/2003]
 
 (2) Subsection (1) shall not apply —
 
@@ -8366,13 +9092,45 @@ the Authority may refuse to register or receive the record and request that the 
 
 (5) For the purposes of this section, any reference to delivering a record shall be construed as including a reference to sending, forwarding, producing, furnishing, lodging or (in the case of a notice) giving the record.
 
+### Translation of instruments
+
+318A\.—(1) Where a person submits or furnishes to or lodges with the Authority any book, application, return, report, prospectus, statement or other information or document under this Act (other than Subdivision 3 of Division 3 of Part IX) which is not in the English language, the person shall, at the same time or at such other time as may be permitted by the Authority, submit or furnish to or lodge with the Authority, as the case may be, an accurate translation thereof in the English language.
+
+(2) Where a person is required to make available for inspection by the public, or any section thereof, any document, report, or other book under this Act which is not in the English language, the person shall, at the same time or at such other time as may be permitted by the Authority, make available for such inspection an accurate translation thereof in the English language.
+
+(3) Where a person is required to maintain or keep any book under this Act and the book or any part thereof is not maintained or kept in the English language, the person shall —
+
+(a) cause an accurate translation of that book or that part of the book in the English language to be made from time to time at intervals of not more than 7 days; and
+
+(b) maintain or keep the translation with the book for so long as the book is required under this Act to be maintained or kept.
+
+(4) Subsections (1), (2) and (3) are subject to any express provision to the contrary in this Act or any regulations made thereunder.
+
+(5) Any person who contravenes subsection (1), (2) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000.
+
+(6) Where a person is charged with an offence under subsection (5), it shall be a defence for the person to prove that —
+
+(a) he had taken all reasonable steps to ensure that the translation that was submitted or furnished to or lodged with the Authority, made available for inspection, or maintained or kept, as the case may be, was accurate in the circumstances; and
+
+(b) he had believed on reasonable grounds that the translation was accurate.
+
+(7) In subsections (1), (2) and (3), “Act” includes any direction made by the Authority under this Act.
+
+[16/2003 wef 22/12/2003]
+
 ### Supply of magnetic tapes — exclusion of liability for errors or omissions
 
 319\. Where the Authority furnishes information, whether in bulk or otherwise, to any person by way of magnetic tapes or by any electronic means, neither the Authority nor any of its officers or authorised agents involved in the furnishing of such information shall be liable for any loss or damage suffered by that person by reason of any error or omission of whatever nature appearing therein or however caused if made in good faith and in the ordinary course of the discharge of the duties of such officers or authorised agents.
 
 ### Appointment of assistants
 
-320\.—(1) The Authority may appoint any person to exercise any of its powers or perform any of its functions or duties under this Act, either generally or in any particular case, except the power to make subsidiary legislation.
+320\.—(1) Subject to subsection (1A), the Authority may appoint any person to exercise any of its powers or perform any of its functions or duties under this Act, either generally or in any particular case, except the power to make subsidiary legislation.
+
+[16/2003 wef 22/12/2003]
+
+(1A) The Authority may, by notification published in theGazette, appoint one or more of its officers to exercise the power to grant an exemption to any person or in respect of any capital markets product, matter or transaction (not being an exemption granted to a class of persons or in respect of a class of capital markets products, matters or transactions) under a provision of this Act specified in the Fourth Schedule, or to revoke any such exemption.
+
+[16/2003 wef 22/12/2003]
 
 (2) Any person appointed by the Authority under subsection (1) shall be deemed to be a public servant for the purposes of the Penal Code (Cap. 224).
 
@@ -8662,9 +9420,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 “officer” —
 
-(a) in relation to a body corporate, means a director, member of the committee of management, chief executive, manager, secretary or other similar officer of the body or person purporting to act in any such capacity; or
+(a) in relation to a body corporate, means a director, member of the committee of management, chief executive, manager, secretary or other similar officer of the body, and includes a person purporting to act in any such capacity; or
 
-(b) in relation to an unincorporated association (other than a partnership) means the president, the secretary and members of the committee of the association and includes persons holding positions analogous to those of president, secretary or member of a committee.
+[16/2003 wef 22/12/2003]
+
+(b) in relation to an unincorporated association (other than a partnership) means the president, the secretary, or a member of the committee of the association or a person holding a position analogous to that of president, secretary or member of a committee, and includes a person purporting to act in any such capacity.
+
+[16/2003 wef 22/12/2003]
 
 (6) Regulations may provide for the application of any provision of this section, with such modifications as the Authority considers appropriate, to a body corporate or unincorporated association formed or recognised under the law of a territory outside Singapore.
 
@@ -8688,7 +9450,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (2) Subsection (1) shall not apply to —
 
-(a) offences under sections 5(16), 6(16), 9(9), 11(2), 14(3), 21(3), 22(7), 23(6), 25(3) and (4), 29(7), 32(3), 33(7), 36(10), 39(2), 42(3), 43(3), 44(7), 45(3) and (4), 50(13), 51(8), 54(2), 57(3), 63(3), 64(7), 103, 105, 107(3) and (4), 125(8), 129, 263(7), 289(7), 290(4) and 295(6); or
+(a) offences under sections 5(16), 6(16), 9(9), 11(2), 14(3), 21(3), 22(7), 23(6), 25(3) and (4), 29(7), 32(3), 33(7), 36(10), 39(2), 42(3), 43(3), 44(7), 45(3) and (4), 50(13), 51(8), 54(2), 57(3), 63(3), 64(7), 103, 105, 107(3) and (4), 125(8), 129, 289(7), 290(4) and 295(6); or
+
+[16/2003 wef 22/12/2003]
 
 (b) offences under any subsidiary legislation made under this Act where it is expressly provided in the subsidiary legislation that subsection (1) shall not apply to those offences.
 
@@ -8708,13 +9472,39 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (ii) any condition or restriction imposed under this Act;
 
-(iii) any notice, direction, code, guideline, policy statement or practice note issued under section 321; or
+(iia) any direction made by the Authority under this Act;
+
+[16/2003 wef 22/12/2003]
+
+(iii) any misconduct code, guideline, policy statement or practice note issued under section 321; or
+
+[16/2003 wef 22/12/2003]
 
 (iv) any business rules of a securities exchange, a futures exchange or clearing house, or the listing rules of a securities exchange; or
 
-(b) in the case of an officer, the failure to discharge any duty or function of his office;
+(b) the failure by an officer of a relevant person to discharge any duty or function of his office; or
 
-“relevant person” means an exchange holding company, a securities exchange, a futures exchange, a recognised trading system provider, a person granted an exemption under section 5(3) or 6(3), a person operating an exempt market, a clearing house, a person operating an exempt clearing facility, a holder of a capital markets services licence, an exempt person, an approved trustee for a collective investment scheme as defined in section 289, or any employee, officer or representative thereof.
+[16/2003 wef 22/12/2003]
+
+(c) the commission of an offence under section 331 or 332(1);
+
+[16/2003 wef 22/12/2003]
+
+“officer” —
+
+(a) in relation to a body corporate, means a director, member of the committee of management, chief executive, manager, secretary or other similar officer of the body, and includes a person purporting to act in any such capacity; or
+
+(b) in relation to an unincorporated association (other than a partnership), means the president, the secretary, or a member of the committee of the association or a person holding a position analogous to that of president, secretary or member of a committee, and includes a person purporting to act in any such capacity;
+
+[16/2003 wef 22/12/2003]
+
+“partner” includes a person purporting to act as a partner;
+
+[16/2003 wef 22/12/2003]
+
+“relevant person” means an exchange holding company, a securities exchange, a futures exchange, a recognised trading system provider, a person granted an exemption under section 5(3) or 6(3), a person operating an exempt market, a clearing house, a person operating an exempt clearing facility, a holder of a capital markets services licence, an exempt person, an approved trustee for a collective investment scheme as defined in section 289, or any employee, officer, partner or representative thereof.
+
+[16/2003 wef 22/12/2003]
 
 ### General penalty
 
@@ -8730,7 +9520,25 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 337\.—(1) The Authority may, by regulations, exempt any person, capital markets product, matter or transaction, or any class thereof, from all or any of the provisions of this Act, subject to such conditions or restrictions as may be prescribed.
 
-(2) An exemption granted to a person or in respect of any capital markets product, matter or transaction (other than an exemption granted to a class of persons, capital markets products, matters or transactions) under any provision of this Act other than subsection (1), or a revocation thereof, may be notified in writing to the person concerned, and need not be published in theGazette.
+(2) Subject to any express provision to the contrary in this Act, an exemption granted to a person or in respect of any capital markets product, matter or transaction (other than an exemption granted to a class of persons, capital markets products, matters or transactions) under any provision of this Act other than subsection (1), or a revocation thereof, may be notified in writing to the person concerned, and need not be published in theGazette.
+
+[16/2003 wef 22/12/2003]
+
+(3) The Authority may, on the application of any person, by notice in writing exempt the person from all or any of the requirements specified in any direction made by the Authority under this Act.
+
+[16/2003 wef 22/12/2003]
+
+(4) An exemption granted under subsection (3) —
+
+(a) may be granted subject to such conditions or restrictions as the Authority may specify by notice in writing; and
+
+(b) for the avoidance of doubt, need not be published in theGazetteand may be revoked at any time by the Authority.
+
+[16/2003 wef 22/12/2003]
+
+(5) Any person who contravenes any condition or restriction imposed under subsection (1) or (4)(a) shall be guilty of an offence.
+
+[16/2003 wef 22/12/2003]
 
 ### Power to make regulations giving effect to treaty, etc., relating to securities or futures
 
@@ -8760,11 +9568,25 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 that person shall be guilty of that offence as if the act were carried out by that person in Singapore, and may be dealt with as if the offence were committed in Singapore.
 
-(3) The Authority may, by regulations, specify the circumstances under which subsection (2) does not apply.
+(2A) For the purposes of an action under section 232 or 234, where a person —
+
+(a) does an act partly in and partly outside Singapore which, if done wholly in Singapore, would constitute a contravention of any provision of Part XII; or
+
+(b) does an act outside Singapore which has a substantial and reasonably foreseeable effect in Singapore and that act, if carried out in Singapore, would constitute a contravention of any provision of Part XII,
+
+the act shall be treated as being carried out by that person in Singapore.
+
+[16/2003 wef 22/12/2003]
+
+(3) The Authority may, by regulations, specify the circumstances under which subsection (2) or (2A)(b) does not apply.
+
+[16/2003 wef 22/12/2003]
 
 ### Amendment of Schedules
 
-340\.—(1) The Minister may by order published in theGazette, amend, add to or vary the First, Second and Third Schedules.
+340\.—(1) The Minister may by order published in theGazette, amend, add to or vary the First, Second, Third or Fourth Schedule.
+
+[16/2003 wef 22/12/2003]
 
 (2) The Minister may, in any order made under subsection (1), make such incidental, consequential or supplementary provisions to the Act as may be necessary or expedient.
 
@@ -8786,7 +9608,7 @@ that person shall be guilty of that offence as if the act were carried out by th
 
 (d) the activities of, and standards to be maintained by persons holding a capital markets services licence to carry on business in any regulated activity and their representatives, including the manner, method and place of soliciting business by the holder of the licence and their representatives and the conduct of such solicitation;
 
-(e) the standards with respect to the qualifications, experience and training of applicants for any licence;
+(e) [Deleted by Act 16 of 2003 wef 22/12/2003]
 
 (f) the conditions for the conduct of business on a securities exchange, futures exchange, recognised trading system provider, or clearing house;
 
@@ -8814,21 +9636,25 @@ that person shall be guilty of that offence as if the act were carried out by th
 
 (r) the forms for the purposes of this Act;
 
-(s) the fees to be paid in respect of any matter or thing required for the purposes of this Act, including licences required under this Act and the refund and remission of such fees;
+(s) the fees to be paid in respect of any matter or thing required for the purposes of this Act, including licences required under this Act and the refund and remission, whether in whole or in part, of such fees;
+
+[16/2003 wef 22/12/2003]
 
 (t) the collection by or on behalf of the Authority, at such intervals or on such occasions as may be prescribed, of statistical information as to such matters relevant to capital markets products as may be prescribed and for the collection and use of such information for any purpose, whether or not connected with the prescribed capital markets products; and
 
 (u) all matters and things which by this Act are required or permitted to be prescribed or which are necessary or expedient to be prescribed to give effect to this Act.
 
-(3) Except as otherwise expressly provided in this Act, the regulations —
+(3) Except as otherwise expressly provided in this Act, the regulations made under this Act —
 
-(a) may be of general or specific application; and
+(a) may be of general or specific application;
 
-(b) may provide that a contravention thereof shall be punishable —
+(b) may provide that a contravention of any specified provision thereof shall be an offence; and
 
-(i) in the case of an individual, with a fine not exceeding $25,000 or imprisonment for a term not exceeding 12 months or both; or
+[16/2003 wef 22/12/2003]
 
-(ii) in the case of a corporation, with a fine not exceeding $50,000.
+(c) may provide for penalties not exceeding a fine of $50,000 or imprisonment for a term not exceeding 12 months or both for each offence and, in the case of a continuing offence, a further penalty not exceeding a fine of 10% of the maximum fine prescribed for that offence for every day or part thereof during which the offence continues after conviction.
+
+[16/2003 wef 22/12/2003]
 
 ### Consequential amendments to other written laws
 
@@ -9006,15 +9832,15 @@ but does not include —
 
 “securities financing” means to directly or indirectly facilitate, by providing any credit facility, advance or loan —
 
-(a) the subscription for securities or purchase of listed or to be listed on a securities market or such other securities as the Authority may prescribe; and
+(a) the subscription for securities, or the purchase of securities listed or to be listed on a securities market or such other securities as the Authority may prescribe; and
+
+[16/2003 wef 22/12/2003]
 
 (b) where applicable, the continued holding of those securities,
 
 whether or not those securities are pledged as security for the credit facility, advance or loan, but does not include the provision of any credit facility, advance or loan —
 
 (i) that forms part of an arrangement to underwrite or sub-underwrite securities;
-
-(ii) to facilitate an acquisition of securities in accordance with the terms of a prospectus, regardless of whether the offer of securities is made in Singapore or elsewhere;
 
 (iii) to a holder of a capital markets services licence to deal in securities or provide securities financing, or a financial institution, to facilitate acquisitions or holdings of securities;
 
@@ -9058,13 +9884,15 @@ whose carrying on of the business in that regulated activity is solely incidenta
 
 7\. Any approved trustee for a collective investment scheme as defined in section 289 whose carrying on of business in a regulated activity is solely incidental to its carrying on of activities as such approved trustee.
 
-8.—(1) Any responsible person for a collective investment scheme as defined in section 283 in respect of its dealing in securities, if such responsible person is also —
+8.—(1) Any responsible person for a collective investment scheme as defined in section 283 that is authorised under section 286 or recognised under section 287, as the case may be, in respect of its dealing in securities, if such responsible person is also —
 
 (a) a holder of a capital markets services licence for fund management; or
 
 (b) an exempt person in respect of fund management.
 
-(2) Any responsible person for a collective investment scheme as defined in section 283 in respect of its dealing in securities which are units of that collective investment scheme, if the dealing is effected through any of the following persons:
+[16/2003 wef 22/12/2003]
+
+(2) Any responsible person for a collective investment scheme as defined in section 283 that is authorised under section 286 or recognised under section 287, as the case may be, in respect of its dealing in securities which are units of that collective investment scheme, if the dealing is effected through any of the following persons:
 
 (a) a holder of a capital markets services licence to deal in securities;
 
@@ -9074,7 +9902,53 @@ whose carrying on of the business in that regulated activity is solely incidenta
 
 (d) an exempt financial adviser as defined in the Financial Advisers Act in respect of marketing of collective investment schemes.
 
-9\. A foreign company whose carrying on of any regulated activity is effected through its related corporation licensed under this Act or exempted under section 99(1)(a), (b), (c) or (d), under an arrangement approved by the Authority.
+[16/2003 wef 22/12/2003]
+
+9. A foreign company whose carrying on of any regulated activity is effected under an arrangement between the foreign company (on the one hand) and its related corporation which is licensed under this Act or exempted under section 99(1)(a), (b), (c) or (d) (on the other hand), where such arrangement is approved by the Authority.
+
+[16/2003 wef 22/12/2003]
+
+FOURTH SCHEDULE
+
+Section 320(1A)
+
+Specified Provisions
+
+1\. Section 83(2)(b)
+
+2\. Section 99(1)(h) and (2)
+
+3\. Section 120(11)
+
+4\. Section 247(1)
+
+5\. Section 248(2) and (5)
+
+6\. Section 249(3)
+
+7\. Section 251(14)
+
+8\. Section 256(4)
+
+9\. Section 259(3)
+
+10\. Section 274(j)
+
+11\. Section 277(2)
+
+12\. Section 300(9)
+
+13\. Section 302 (when applying section 247(1) or 249(3))
+
+14\. Section 304(j)
+
+15\. Section 306(1)
+
+16\. Section 309(3)(a)
+
+17. Section 337(3).
+
+[16/2003 wef 22/12/2003]
 
 ## LEGISLATIVE HISTORY
 
@@ -9103,6 +9977,11 @@ This Legislative History is provided for the convenience of users of the Securit
 ||Date of commencement|9 December 2002|
 |4.|**2002 Revised Edition—Securities and Futures Act**|
 ||Date of operation|31 December 2002|
+|5.|**Act 16 of 2003—Securities and Futures (Amendment) Act 2003**|
+||Date of First Reading|14 August 2003|
+|||(Bill No. 15/2003 published on 15 August 2003)|
+||Date of Second and Third Readings|2 September 2003|
+||Date of commencement|22 December 2003|
 ## COMPARATIVE TABLE
 
 Securities and Futures Act
