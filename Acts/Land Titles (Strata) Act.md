@@ -22,7 +22,7 @@
 
 - [6 Dealings with subdivided building](#Dealings-with-subdivided-building)
 
-- [7 Flats not to be sold unless schedule of strata units is filed with and accepted by the Commissioner](#Flats-not-to-be-sold-unless-schedule-of-strata-units-is-filed-with-and-accepted-by-the-Commissioner)
+- [7 Flats not to be sold unless schedule of strata units is filed with and accepted by Commissioner](#Flats-not-to-be-sold-unless-schedule-of-strata-units-is-filed-with-and-accepted-by-Commissioner)
 
 - [8 Notification of planning condition on land-register, etc.](#Notification-of-planning-condition-on-land-register-etc)
 
@@ -30,275 +30,277 @@
 
 - [10 Strata title plan and other accompanying documents](#Strata-title-plan-and-other-accompanying-documents)
 
-- [10A Share value not to be changed](#Share-value-not-to-be-changed)
+- [11 Share value not to be changed](#Share-value-not-to-be-changed)
 
-- [11 Plan of redevelopment](#Plan-of-redevelopment)
+- [12 Plan of redevelopment](#Plan-of-redevelopment)
 
-- [12 Common property](#Common-property)
+- [13 Common property](#Common-property)
 
-- [12A Powers of mortgagees of flats brought under this Act](#Powers-of-mortgagees-of-flats-brought-under-this-Act)
+- [14 Powers of mortgagees of flats brought under this Act](#Powers-of-mortgagees-of-flats-brought-under-this-Act)
 
-- [13 Accessory lot](#Accessory-lot)
+- [15 Accessory lot](#Accessory-lot)
 
 [**Part III RIGHTS AND OBLIGATIONS OF A SUBSIDIARY PROPRIETOR**](#Part-III)
 
-- [14 Easement of support](#Easement-of-support)
+- [16 Easement of support](#Easement-of-support)
 
-- [15 Easement of shelter](#Easement-of-shelter)
+- [17 Easement of shelter](#Easement-of-shelter)
 
-- [16 Easements for passage of water, drainage and other services](#Easements-for-passage-of-water-drainage-and-other-services)
+- [18 Easements for passage of water, drainage and other services](#Easements-for-passage-of-water-drainage-and-other-services)
 
-- [17 Easements for light over-hanging eaves and other erected projections](#Easements-for-light-over-hanging-eaves-and-other-erected-projections)
+- [19 Easements for light over-hanging eaves and other erected projections](#Easements-for-light-over-hanging-eaves-and-other-erected-projections)
 
-- [18 Ancillary rights](#Ancillary-rights)
+- [20 Ancillary rights](#Ancillary-rights)
 
-- [19 Waiver of registration of statutory easements](#Waiver-of-registration-of-statutory-easements)
+- [21 Waiver of registration of statutory easements](#Waiver-of-registration-of-statutory-easements)
 
-- [20 Creation of easements and restrictions](#Creation-of-easements-and-restrictions)
+- [22 Creation of easements and restrictions](#Creation-of-easements-and-restrictions)
 
-- [21 Dispositions of common property](#Dispositions-of-common-property)
+- [23 Dispositions of common property](#Dispositions-of-common-property)
 
-- [22 Vesting of part of common property in Government for roads, streets, road reserves, drainage reserves or for any other public use as shown on plans approved by relevant authority](#Vesting-of-part-of-common-property-in-Government-for-roads-streets-road-reserves-drainage-reserves-or-for-any-other-public-use-as-shown-on-plans-approved-by-relevant-authority)
+- [24 Vesting of part of common property in Government for roads, streets, road reserves, drainage reserves or for any other public use as shown on plans approved by relevant authority](#Vesting-of-part-of-common-property-in-Government-for-roads-streets-road-reserves-drainage-reserves-or-for-any-other-public-use-as-shown-on-plans-approved-by-relevant-authority)
 
-- [23 Addition to common property](#Addition-to-common-property)
+- [25 Addition to common property](#Addition-to-common-property)
 
-- [24 Amalgamation of whole of common property comprised in two or more parcels](#Amalgamation-of-whole-of-common-property-comprised-in-two-or-more-parcels)
+- [26 Amalgamation of whole of common property comprised in two or more parcels](#Amalgamation-of-whole-of-common-property-comprised-in-two-or-more-parcels)
 
-- [25 Application made by subsidiary proprietor to court](#Application-made-by-subsidiary-proprietor-to-court)
+- [27 Application made by subsidiary proprietor to court](#Application-made-by-subsidiary-proprietor-to-court)
 
-- [26 Limitation Act not to extend to common property](#Limitation-Act-not-to-extend-to-common-property)
+- [28 Limitation Act not to extend to common property](#Limitation-Act-not-to-extend-to-common-property)
 
-- [27 Unity of seisin not to affect easements, etc.](#Unity-of-seisin-not-to-affect-easements-etc)
+- [29 Unity of seisin not to affect easements, etc.](#Unity-of-seisin-not-to-affect-easements-etc)
 
-- [28 Share values](#Share-values)
+- [30 Share values](#Share-values)
 
-- [29 Provisional lots](#Provisional-lots)
+- [31 Provisional lots](#Provisional-lots)
 
-- [29A Restrictions on subsidiary proprietor’s rights](#Restrictions-on-subsidiary-proprietor’s-rights)
+- [32 Restrictions on subsidiary proprietor’s rights](#Restrictions-on-subsidiary-proprietor’s-rights)
 
 [**Part IV MANAGEMENT OF THE SUBDIVIDED BUILDING**](#Part-IV)
 
 [**Division 1  Management Corporations**](#Division-1--Management-Corporations)
 
-- [30 Constitution of management corporations](#Constitution-of-management-corporations)
+- [33 Constitution of management corporations](#Constitution-of-management-corporations)
 
-- [31 Duties of Proprietor](#Duties-of-Proprietor)
+- [34 Duties of proprietor](#Duties-of-proprietor)
 
-- [32 Contributions payable by subsidiary proprietors](#Contributions-payable-by-subsidiary-proprietors)
+- [35 Contributions payable by subsidiary proprietors](#Contributions-payable-by-subsidiary-proprietors)
 
-- [33 Common seal of management corporation](#Common-seal-of-management-corporation)
+- [36 Common seal of management corporation](#Common-seal-of-management-corporation)
 
-- [34 Meetings of management corporation](#Meetings-of-management-corporation)
+- [37 Meetings of management corporation](#Meetings-of-management-corporation)
 
-- [35 Annual general meetings](#Annual-general-meetings)
+- [38 Annual general meetings](#Annual-general-meetings)
 
-- [36 Convening of extraordinary general meeting on requisition](#Convening-of-extraordinary-general-meeting-on-requisition)
+- [39 Convening of extraordinary general meeting on requisition](#Convening-of-extraordinary-general-meeting-on-requisition)
 
-- [37 Voting at general meetings](#Voting-at-general-meetings)
+- [40 Voting at general meetings](#Voting-at-general-meetings)
 
-- [38 By-laws for regulation of the subdivided building](#By-laws-for-regulation-of-the-subdivided-building)
+- [41 By-laws for regulation of subdivided building](#By-laws-for-regulation-of-subdivided-building)
 
-- [39 Levies by management corporation](#Levies-by-management-corporation)
+- [42 Levies by management corporation](#Levies-by-management-corporation)
 
-- [40 Recovery of contribution from the sale of a lot](#Recovery-of-contribution-from-the-sale-of-a-lot)
+- [43 Recovery of contribution from sale of a lot](#Recovery-of-contribution-from-sale-of-a-lot)
 
-- [41 Liability of members for debts of the management corporation](#Liability-of-members-for-debts-of-the-management-corporation)
+- [44 Liability of members for debts of management corporation](#Liability-of-members-for-debts-of-management-corporation)
 
-- [42 Power of management corporation to carry out work](#Power-of-management-corporation-to-carry-out-work)
+- [45 Power of management corporation to carry out work](#Power-of-management-corporation-to-carry-out-work)
 
-- [43 Change of management corporation’s address](#Change-of-management-corporation’s-address)
+- [46 Change of management corporation’s address](#Change-of-management-corporation’s-address)
 
-- [44 Agreement for payment to a subsidiary proprietor of consideration on transfer or lease of common property](#Agreement-for-payment-to-a-subsidiary-proprietor-of-consideration-on-transfer-or-lease-of-common-property)
+- [47 Agreement for payment to a subsidiary proprietor of consideration on transfer or lease of common property](#Agreement-for-payment-to-a-subsidiary-proprietor-of-consideration-on-transfer-or-lease-of-common-property)
 
-- [45 Duties of management corporation](#Duties-of-management-corporation)
+- [48 Duties of management corporation](#Duties-of-management-corporation)
 
-- [46 Power of entry](#Power-of-entry)
+- [49 Power of entry](#Power-of-entry)
 
-- [47 Miscellaneous powers of management corporation](#Miscellaneous-powers-of-management-corporation)
+- [50 Miscellaneous powers of management corporation](#Miscellaneous-powers-of-management-corporation)
 
-- [48 Statutory restrictions on powers of management corporation](#Statutory-restrictions-on-powers-of-management-corporation)
+- [51 Statutory restrictions on powers of management corporation](#Statutory-restrictions-on-powers-of-management-corporation)
 
-- [49 Commissioner’s power to authorise certain acts during initial period](#Commissioner’s-power-to-authorise-certain-acts-during-initial-period)
+- [52 Commissioner’s power to authorise certain acts during initial period](#Commissioner’s-power-to-authorise-certain-acts-during-initial-period)
 
-- [50 Strata roll](#Strata-roll)
+- [53 Strata roll](#Strata-roll)
 
-- [51 Supply of information and certificates by management corporation](#Supply-of-information-and-certificates-by-management-corporation)
+- [54 Supply of information and certificates by management corporation](#Supply-of-information-and-certificates-by-management-corporation)
 
-- [52 Management corporation to display notice, etc.](#Management-corporation-to-display-notice-etc)
+- [55 Management corporation to display notice, etc.](#Management-corporation-to-display-notice-etc)
 
-- [53 Accounts of management corporation to be audited](#Accounts-of-management-corporation-to-be-audited)
+- [56 Accounts of management corporation to be audited](#Accounts-of-management-corporation-to-be-audited)
 
 [**Division 2  Subsidiary Proprietors and other Occupiers of Lots**](#Division-2--Subsidiary-Proprietors-and-other-Occupiers-of-Lots)
 
-- [54 Duties of subsidiary proprietors and other occupiers of lots](#Duties-of-subsidiary-proprietors-and-other-occupiers-of-lots)
+- [57 Duties of subsidiary proprietors and other occupiers of lots](#Duties-of-subsidiary-proprietors-and-other-occupiers-of-lots)
 
-- [55 Power for individuals to act for companies who are subsidiary proprietors and mortgagees of lots](#Power-for-individuals-to-act-for-companies-who-are-subsidiary-proprietors-and-mortgagees-of-lots)
+- [58 Power for individuals to act for companies who are subsidiary proprietors and mortgagees of lots](#Power-for-individuals-to-act-for-companies-who-are-subsidiary-proprietors-and-mortgagees-of-lots)
 
-- [56 Notices to be given by subsidiary proprietors and mortgagees](#Notices-to-be-given-by-subsidiary-proprietors-and-mortgagees)
+- [59 Notices to be given by subsidiary proprietors and mortgagees](#Notices-to-be-given-by-subsidiary-proprietors-and-mortgagees)
 
 [**Division 3  Councils**](#Division-3--Councils)
 
-- [57 Council of a management corporation](#Council-of-a-management-corporation)
+- [60 Council of a management corporation](#Council-of-a-management-corporation)
 
-- [58 Vacation of office of member of council](#Vacation-of-office-of-member-of-council)
+- [61 Vacation of office of member of council](#Vacation-of-office-of-member-of-council)
 
-- [59 Chairman, secretary and treasurer of council](#Chairman-secretary-and-treasurer-of-council)
+- [62 Chairman, secretary and treasurer of council](#Chairman-secretary-and-treasurer-of-council)
 
-- [60 Council’s decisions to be decisions of management corporation](#Council’s-decisions-to-be-decisions-of-management-corporation)
+- [63 Council’s decisions to be decisions of management corporation](#Council’s-decisions-to-be-decisions-of-management-corporation)
 
-- [61 Restrictions imposed on council by management corporation](#Restrictions-imposed-on-council-by-management-corporation)
+- [64 Restrictions imposed on council by management corporation](#Restrictions-imposed-on-council-by-management-corporation)
 
-- [62 Records, etc., of management corporation](#Records-etc-of-management-corporation)
+- [65 Records, etc., of management corporation](#Records-etc-of-management-corporation)
 
-- [63 Disclosure of interests in contracts, property, officers, etc.](#Disclosure-of-interests-in-contracts-property-officers-etc)
+- [66 Disclosure of interests in contracts, property, officers, etc.](#Disclosure-of-interests-in-contracts-property-officers-etc)
 
-- [64 Duty and liability of council members and officers](#Duty-and-liability-of-council-members-and-officers)
+- [67 Duty and liability of council members and officers](#Duty-and-liability-of-council-members-and-officers)
 
 [**Division 4  Managing Agents**](#Division-4--Managing-Agents)
 
-- [65 Managing agent](#Managing-agent)
+- [68 Managing agent](#Managing-agent)
 
-- [66 Delegated duty-liability of managing agent](#Delegated-duty-liability-of-managing-agent)
+- [69 Delegated duty-liability of managing agent](#Delegated-duty-liability-of-managing-agent)
 
 [**Division 5  Insurance**](#Division-5--Insurance)
 
-- [67 Interpretation](#Interpretation)
+- [70 Interpretation](#Interpretation)
 
-- [68 Insurance of subdivided buildings](#Insurance-of-subdivided-buildings)
+- [71 Insurance of subdivided buildings](#Insurance-of-subdivided-buildings)
 
-- [69 Further insurance by management corporation](#Further-insurance-by-management-corporation)
+- [72 Further insurance by management corporation](#Further-insurance-by-management-corporation)
 
-- [70 Insurance by subsidiary proprietor](#Insurance-by-subsidiary-proprietor)
+- [73 Insurance by subsidiary proprietor](#Insurance-by-subsidiary-proprietor)
 
-- [71 Insurance of mortgaged lot](#Insurance-of-mortgaged-lot)
+- [74 Insurance of mortgaged lot](#Insurance-of-mortgaged-lot)
 
-- [72 Rebuilding](#Rebuilding)
+- [75 Rebuilding](#Rebuilding)
 
-- [73 Insurable interest of management corporation](#Insurable-interest-of-management-corporation)
+- [76 Insurable interest of management corporation](#Insurable-interest-of-management-corporation)
 
 [**Part V VARIATION OR TERMINATION OF STRATA SUBDIVISION SCHEME**](#Part-V)
 
-- [74 Variation of strata subdivision scheme consequent upon damage to or destruction of subdivided building](#Variation-of-strata-subdivision-scheme-consequent-upon-damage-to-or-destruction-of-subdivided-building)
+- [77 Variation of strata subdivision scheme consequent upon damage to or destruction of subdivided building](#Variation-of-strata-subdivision-scheme-consequent-upon-damage-to-or-destruction-of-subdivided-building)
 
-- [75 Termination of strata subdivision scheme by the court](#Termination-of-strata-subdivision-scheme-by-the-court)
+- [78 Termination of strata subdivision scheme by court](#Termination-of-strata-subdivision-scheme-by-court)
 
-- [76 Interchangeability of notices](#Interchangeability-of-notices)
+- [79 Interchangeability of notices](#Interchangeability-of-notices)
 
-- [77 Consequences of making an order under section 74 or 75](#Consequences-of-making-an-order-under-section-74-or-75)
+- [80 Consequences of making an order under section 77 or 78](#Consequences-of-making-an-order-under-section-77-or-78)
 
-- [78 Termination of strata subdivision scheme by management corporation](#Termination-of-strata-subdivision-scheme-by-management-corporation)
+- [81 Termination of strata subdivision scheme by management corporation](#Termination-of-strata-subdivision-scheme-by-management-corporation)
 
-- [79 Liquidators](#Liquidators)
+- [82 Liquidators](#Liquidators)
 
-- [80 Qualifications of liquidator](#Qualifications-of-liquidator)
+- [83 Qualifications of liquidator](#Qualifications-of-liquidator)
 
-- [81 Interpretation](#Interpretation)
+- [84 Interpretation](#Interpretation)
 
 [**Part VI STRATA TITLES BOARDS**](#Part-VI)
 
-- [82 Interpretation](#Interpretation)
+- [85 Interpretation](#Interpretation)
 
-- [83 Strata Titles Boards](#Strata-Titles-Boards)
+- [86 Strata Titles Boards](#Strata-Titles-Boards)
 
-- [84 Panel](#Panel)
+- [87 Panel](#Panel)
 
-- [85 Continuation of hearing](#Continuation-of-hearing)
+- [88 Continuation of hearing](#Continuation-of-hearing)
 
-- [86 Protection of members of a Board](#Protection-of-members-of-a-Board)
+- [89 Protection of members of a Board](#Protection-of-members-of-a-Board)
 
-- [87 Allowances](#Allowances)
+- [90 Allowances](#Allowances)
 
-- [88 Board to carry out its work expeditiously](#Board-to-carry-out-its-work-expeditiously)
+- [91 Board to carry out its work expeditiously](#Board-to-carry-out-its-work-expeditiously)
 
-- [89 Officers of Boards](#Officers-of-Boards)
+- [92 Officers of Boards](#Officers-of-Boards)
 
-- [90 Proceedings of the Board](#Proceedings-of-the-Board)
+- [93 Proceedings of Board](#Proceedings-of-Board)
 
-- [91 Order to convene general meeting](#Order-to-convene-general-meeting)
+- [94 Order to convene general meeting](#Order-to-convene-general-meeting)
 
-- [92 Order revoking amendment of by-law](#Order-revoking-amendment-of-by-law)
+- [95 Order revoking amendment of by-law](#Order-revoking-amendment-of-by-law)
 
-- [93 Order invalidating purported by-law](#Order-invalidating-purported-by-law)
+- [96 Order invalidating purported by-law](#Order-invalidating-purported-by-law)
 
-- [94 Power of Board to invalidate proceedings](#Power-of-Board-to-invalidate-proceedings)
+- [97 Power of Board to invalidate proceedings](#Power-of-Board-to-invalidate-proceedings)
 
-- [95 Order varying certain rates of interest](#Order-varying-certain-rates-of-interest)
+- [98 Order varying certain rates of interest](#Order-varying-certain-rates-of-interest)
 
-- [96 Order for variation of contributions levied or manner of payment thereof](#Order-for-variation-of-contributions-levied-or-manner-of-payment-thereof)
+- [99 Order for variation of contributions levied or manner of payment thereof](#Order-for-variation-of-contributions-levied-or-manner-of-payment-thereof)
 
-- [97 Order where voting rights denied or due notice of item of business not given](#Order-where-voting-rights-denied-or-due-notice-of-item-of-business-not-given)
+- [100 Order where voting rights denied or due notice of item of business not given](#Order-where-voting-rights-denied-or-due-notice-of-item-of-business-not-given)
 
-- [98 Order varying amount of insurance to be provided](#Order-varying-amount-of-insurance-to-be-provided)
+- [101 Order varying amount of insurance to be provided](#Order-varying-amount-of-insurance-to-be-provided)
 
-- [99 Order appointing managing agent to exercise or perform certain powers, etc](#Order-appointing-managing-agent-to-exercise-or-perform-certain-powers-etc)
+- [102 Order appointing managing agent to exercise or perform certain powers, etc.](#Order-appointing-managing-agent-to-exercise-or-perform-certain-powers-etc)
 
-- [100 Board may settle disputes on costs of repairs, etc.](#Board-may-settle-disputes-on-costs-of-repairs-etc)
+- [103 Board may settle disputes on costs of repairs, etc.](#Board-may-settle-disputes-on-costs-of-repairs-etc)
 
-- [101 Order with respect to certain consents affecting common property](#Order-with-respect-to-certain-consents-affecting-common-property)
+- [104 Order with respect to certain consents affecting common property](#Order-with-respect-to-certain-consents-affecting-common-property)
 
-- [102 Order to make or pursue insurance claim](#Order-to-make-or-pursue-insurance-claim)
+- [105 Order to make or pursue insurance claim](#Order-to-make-or-pursue-insurance-claim)
 
-- [103 Order to supply information or documents](#Order-to-supply-information-or-documents)
+- [106 Order to supply information or documents](#Order-to-supply-information-or-documents)
 
-- [104 Appeal against decision of the Commissioner under section 49](#Appeal-against-decision-of-the-Commissioner-under-section-49)
+- [107 Appeal against decision of Commissioner under section 52](#Appeal-against-decision-of-Commissioner-under-section-52)
 
-- [105 Appeal to Supreme Court on question of law](#Appeal-to-Supreme-Court-on-question-of-law)
+- [108 Appeal to High Court on question of law](#Appeal-to-High-Court-on-question-of-law)
 
-- [106 General provisions relating to orders under this Part](#General-provisions-relating-to-orders-under-this-Part)
+- [109 General provisions relating to orders under this Part](#General-provisions-relating-to-orders-under-this-Part)
 
-- [107 Representation before a Board](#Representation-before-a-Board)
+- [110 Representation before a Board](#Representation-before-a-Board)
 
-- [108 Witness may be summoned before Board](#Witness-may-be-summoned-before-Board)
+- [111 Witness may be summoned before Board](#Witness-may-be-summoned-before-Board)
 
-- [109 Board may administer oath](#Board-may-administer-oath)
+- [112 Board may administer oath](#Board-may-administer-oath)
 
-- [110 Penalty for contravention of certain orders](#Penalty-for-contravention-of-certain-orders)
+- [113 Penalty for contravention of certain orders](#Penalty-for-contravention-of-certain-orders)
 
-- [111 Time when order takes effect](#Time-when-order-takes-effect)
+- [114 Time when order takes effect](#Time-when-order-takes-effect)
 
 [**Part VII GENERAL**](#Part-VII)
 
-- [112 Other rights and remedies not affected by this Act](#Other-rights-and-remedies-not-affected-by-this-Act)
+- [115 Other rights and remedies not affected by this Act](#Other-rights-and-remedies-not-affected-by-this-Act)
 
-- [113 Management corporation may represent subsidiary proprietors in proceedings](#Management-corporation-may-represent-subsidiary-proprietors-in-proceedings)
+- [116 Management corporation may represent subsidiary proprietors in proceedings](#Management-corporation-may-represent-subsidiary-proprietors-in-proceedings)
 
-- [114 Management corporation’s power to take proceedings as agent for subsidiary proprietor in case of structural defects](#Management-corporation’s-power-to-take-proceedings-as-agent-for-subsidiary-proprietor-in-case-of-structural-defects)
+- [117 Management corporation’s power to take proceedings as agent for subsidiary proprietor in case of structural defects](#Management-corporation’s-power-to-take-proceedings-as-agent-for-subsidiary-proprietor-in-case-of-structural-defects)
 
-- [115 Costs in proceedings by subsidiary proprietors against management corporation](#Costs-in-proceedings-by-subsidiary-proprietors-against-management-corporation)
+- [118 Costs in proceedings by subsidiary proprietors against management corporation](#Costs-in-proceedings-by-subsidiary-proprietors-against-management-corporation)
 
-- [116 Service of documents on management corporation, subsidiary proprietors and others](#Service-of-documents-on-management-corporation-subsidiary-proprietors-and-others)
+- [119 Service of documents on management corporation, subsidiary proprietors and others](#Service-of-documents-on-management-corporation-subsidiary-proprietors-and-others)
 
-- [117 Breaches of provisions of Part IV](#Breaches-of-provisions-of-Part-IV)
+- [120 Breaches of provisions of Part IV](#Breaches-of-provisions-of-Part-IV)
 
-- [118 Legal proceedings](#Legal-proceedings)
+- [121 Legal proceedings](#Legal-proceedings)
 
-[**Part VIII ISSUE OF SUBSIDIARY CERTIFICATES OF TITLES FOR FLATS UNDER OTHER SCHEMES**](#Part-VIII)
+[**Part VIII ISSUE OF SUBSIDIARY STRATA CERTIFICATES OF TITLE TO REGISTERED LESSEES AND FOR FLATS UNDER OTHER SCHEMES**](#Part-VIII)
 
-- [119 Issue of subsidiary certificate of title to registered lessee](#Issue-of-subsidiary-certificate-of-title-to-registered-lessee)
+- [122 Issue of subsidiary strata certificate of title to registered lessee](#Issue-of-subsidiary-strata-certificate-of-title-to-registered-lessee)
 
-- [120 Flats sold by the Housing and Development Board](#Flats-sold-by-the-Housing-and-Development-Board)
+- [123 Flats sold by Housing and Development Board](#Flats-sold-by-Housing-and-Development-Board)
 
-- [121 Flats sold by the Jurong Town Corporation](#Flats-sold-by-the-Jurong-Town-Corporation)
+- [124 Flats sold by Jurong Town Corporation](#Flats-sold-by-Jurong-Town-Corporation)
 
-- [122 Bringing land under the Land Titles Act where flats have been erected thereon](#Bringing-land-under-the-Land-Titles-Act-where-flats-have-been-erected-thereon)
+- [125 Subsidiary strata certificates of title for flats with registered leases under Registration of Deeds Act](#Subsidiary-strata-certificates-of-title-for-flats-with-registered-leases-under-Registration-of-Deeds-Act)
 
-- [123 Issue of subsidiary strata certificates of title for flats with subsisting leases registered under the Land Titles Act](#Issue-of-subsidiary-strata-certificates-of-title-for-flats-with-subsisting-leases-registered-under-the-Land-Titles-Act)
+- [126 Issue of subsidiary strata certificates of title for flats with subsisting leases registered under Land Titles Act](#Issue-of-subsidiary-strata-certificates-of-title-for-flats-with-subsisting-leases-registered-under-Land-Titles-Act)
 
-- [124 Issue of subsidiary strata certificates of title for flats with subsisting leases registered under the Registration of Deeds Act where the land is vested in the flatowners as tenants-in-common](#Issue-of-subsidiary-strata-certificates-of-title-for-flats-with-subsisting-leases-registered-under-the-Registration-of-Deeds-Act-where-the-land-is-vested-in-the-flatowners-as-tenants-in-common)
+- [127 Issue of subsidiary strata certificates of title for flats with subsisting leases registered under Registration of Deeds Act where land is vested in flat-owners as tenants in common](#Issue-of-subsidiary-strata-certificates-of-title-for-flats-with-subsisting-leases-registered-under-Registration-of-Deeds-Act-where-land-is-vested-in-flat-owners-as-tenants-in-common)
 
-- [125 Effect of the issue of qualified certificate of title and of subsidiary strata certificates of title](#Effect-of-the-issue-of-qualified-certificate-of-title-and-of-subsidiary-strata-certificates-of-title)
+- [128 Effect of issue of qualified certificate of title and of subsidiary strata certificates of title](#Effect-of-issue-of-qualified-certificate-of-title-and-of-subsidiary-strata-certificates-of-title)
 
-- [126 Exemption from stamp duty](#Exemption-from-stamp-duty)
+- [129 Exemption from stamp duty](#Exemption-from-stamp-duty)
 
-[**Part IX**](#Part-IX)
+- [130 Regulations](#Regulations)
 
-- [127 Regulations](#Regulations)
+- [131 Transitional and savings provisions](#Transitional-and-savings-provisions)
 
 [**FIRST SCHEDULE By-laws**](#FIRST-SCHEDULE-By-laws)
 
 [**SECOND SCHEDULE Proceedings of the councils of management corporations**](#SECOND-SCHEDULE-Proceedings-of-the-councils-of-management-corporations)
 
 [**THIRD SCHEDULE General meetings of a management corporation**](#THIRD-SCHEDULE-General-meetings-of-a-management-corporation)
+
+[**FOURTH SCHEDULE Transitional and savings provisions**](#FOURTH-SCHEDULE-Transitional-and-savings-provisions)
 
 [**Legislative History**](#Legislative-History)
 
@@ -308,9 +310,9 @@
 
 (Original Enactment: Act 41 of 1967)
 
-REVISED EDITION 1985
+REVISED EDITION 1988
 
-(30th March 1987)
+(30th April 1988)
 
 An Act to facilitate the subdivision of land into strata and the disposition of titles thereto and for purposes connected therewith.
 
@@ -350,11 +352,9 @@ PRELIMINARY
 
 (i) foundations, columns, beams, supports, walls, roofs, lobbies, corridors, stairs, stairways, fire escapes, entrances and exits of the building and windows installed in the external walls of the building;
 
-[Act 16 of 1987 wef 01/12/1987]
+[16/87]
 
 (ii) car parks, recreational or community facilities, gardens, parking areas, roofs, storage spaces and rooms approved by the relevant authority for the use of a management corporation and its members;
-
-[Act 16 of 1987 wef 01/12/1987]
 
 (iii) central and appurtenant installations for services such as power, light, gas, hot and cold water, heating, refrigeration, air-conditioning and incinerators;
 
@@ -362,15 +362,11 @@ PRELIMINARY
 
 (v) water pipes, drainage pipes, sewerage pipes, gas pipes and electrical cables which serve two or more lots;
 
-[Act 16 of 1987 wef 01/12/1987]
+[16/87]
 
 (vi) all facilities described as common property in any plan approved by the relevant authority for a condominium development and all facilities which may be shown in a legend of a strata title plan as common property; and
 
-[Act 16 of 1987 wef 01/12/1987]
-
 (vii) all other parts of the land not comprised in any lot necessary or convenient to the existence and maintenance and for the reasonable common use and safety of the common property;
-
-[Act 16 of 1987 wef 01/12/1987]
 
 “company” includes —
 
@@ -378,19 +374,19 @@ PRELIMINARY
 
 (b) an unincorporated society, association or other body which under the law of its place of origin may hold property in the name of the society, association or other body or in the name of its trustees, secretary or other officer duly appointed for that purpose;
 
-[Act 16 of 1987 wef 01/12/1987]
+[16/87]
 
 “competent authority” means the competent authority appointed under section 3 of the Planning Act [Cap. 232];
 
 “council”, in relation to a management corporation, means the council of that management corporation;
 
-[Act 16 of 1987 wef 01/12/1987]
+[16/87]
 
 “flat” means a horizontal stratum of any building or part thereof, whether such stratum is on one or more levels or is partially or wholly below the surface of the ground, which is used or intended to be used as a complete and separate unit for the purpose of habitation or business or for any other purpose, and may be comprised in a lot, or in part of any subdivided building not shown in a registered strata title plan;
 
 “initial period”, in relation to a management corporation, means the period of 24 months commencing on the day on which the management corporation is constituted or such other period as may be prescribed by regulations made under this Act in substitution for the said period of 24 months;
 
-[Act 16 of 1987 wef 01/12/1987]
+[16/87]
 
 “land” means —
 
@@ -400,43 +396,39 @@ PRELIMINARY
 
 and where the context so permits, the proprietorship of land includes natural rights to air, light, water and support and the right of access to any highway on which the land abuts;
 
-[Act 16 of 1987 wef 01/12/1987]
+[16/87]
 
 “lot” means a stratum which is shown as a lot on a strata title plan, and includes a lot specified as an accessory lot on any such plan;
 
 “management corporation”, in relation to any one or more subdivided buildings shown on a strata title plan, means the management corporation incorporated for those buildings pursuant to Part IV or pursuant to any corresponding previous written law;
 
-[Act 16 of 1987 wef 01/12/1987]
+[16/87]
 
-“managing agent” means a managing agent appointed by a management corporation under section 65;
-
-[Act 16 of 1987 wef 01/12/1987]
+“managing agent” means a managing agent appointed by a management corporation under section 68;
 
 “Minister” —
 
-(a) in relation to Part IV, means the Minister charged with the responsibility for administering the Building and Common Property (Maintenance and Management) Act (Cap. 30);
+(a) in relation to Part IV, means the Minister charged with the responsibility for administering the Buildings and Common Property (Maintenance and Management) Act [Cap. 30];
 
 (b) in relation to Parts I to III, and Parts V to VIII, means the Minister charged with the responsibility for administering this Act; and
 
-(c) in relation to Part IX, means either the Minister charged with the responsibility for administering the Building and Common Property (Maintenance and Management) Act or the Minister charged with the responsibility for administering this Act, as the case may be;
-
-[Act 16 of 1987 wef 01/12/1987]
+(c) in relation to Part IX, means either the Minister charged with the responsibility for administering the Buildings and Common Property (Maintenance and Management) Act or the Minister charged with the responsibility for administering this Act, as the case may be;
 
 “parcel” means the whole of the registered land having a Government survey lot number and comprised in a strata title plan;
 
 “proprietor”, in relation to land comprised in a strata title plan, means the person who was the proprietor of the land the subject of the strata title plan immediately before the registration of the strata title plan under section 9;
 
-[Act 16 of 1987 wef 01/12/1987]
+[16/87]
 
 “provisional lot” means a lot within which one or more buildings or parts of any building are to be erected or completed and is shown as a provisional lot in a strata title plan and in any other record maintained by the Registrar;
 
 “registered land” means land which has been brought under the provisions of the Land Titles Act [Cap. 157], by being included in a folio of the land-register, and held by the registered proprietor for an estate in fee simple or perpetuity, or for a leasehold estate comprised in a Crown or State lease or any other lease having an unexpired term of at least 21 years as at the date of the lodgment of a plan as a strata title plan under this Act;
 
-“registered lease” means a lease registered under the provisions of the Land Titles Act [Cap. 157];
+“registered lease” means a lease registered under the provisions of the Land Titles Act;
 
 “registered lessee”, in relation to any subdivided building not comprised in a strata title plan, means the registered proprietor of a leasehold estate in registered land comprising a flat which is shown in a plan annexed to a registered lease, having an unexpired term of not less than 21 years as at the date of the lodgment of an application by that registered proprietor for a subsidiary certificate of title;
 
-“Registrar” means the Registrar of Titles appointed under the Land Titles Act;
+“Registrar” means the Registrar of Titles appointed under the Land Titles Act [Cap. 157];
 
 “relevant authority” means any one or more Government or statutory authorities empowered to approve plans for development or subdivision of any land or plans relating to the construction of any building under the Planning Act [Cap. 232] or under any other written law and includes the competent authority;
 
@@ -444,11 +436,9 @@ and where the context so permits, the proprietorship of land includes natural ri
 
 “special resolution” means a resolution passed at a duly convened general meeting of a management corporation of which at least 21 days’ notice specifying the proposed resolution has been given and against which not more than one-quarter in value, ascertained in accordance with paragraph 9(2), (3) and (4) of the Third Schedule, of votes is cast;
 
-[Act 16 of 1987 wef 01/12/1987]
+[16/87]
 
-“strata roll”, in relation to a subdivided building or buildings shown on a strata title plan, means the roll referred to in section 50 which relates to that plan;
-
-[Act 16 of 1987 wef 01/12/1987]
+“strata roll”, in relation to a subdivided building or buildings shown on a strata title plan, means the roll referred to in section 53 which relates to that plan;
 
 “strata subdivision” includes a subdivision of land to comprise one or more strata units whether or not any strata unit is on the same level as any other strata unit;
 
@@ -468,25 +458,21 @@ and includes a plan of resubdivision of any lot in a strata title plan registere
 
 “subdivided building” means any one or more buildings comprised in a strata subdivision plan approved by the relevant authority;
 
-“subsidiary certificate of title” means the subsidiary certificate of title issued under section 119;
-
-[Act 16 of 1987 wef 01/12/1987]
+“subsidiary certificate of title” means the subsidiary certificate of title issued under section 122;
 
 “subsidiary proprietor” means —
 
 (a) the registered subsidiary proprietor for the time being of the entire estate in a lot including an estate for life, an estate in remainder or an estate in reversion; and
 
-(b) in relation to a lot where a lease has been granted, the registered subsidiary proprietor for the time being of a leasehold interest in a lot described in an instrument of lease whose unexpired term is not less than 21 years as from the date of lodgement of the instrument of lease for registration with the Registrar including such a lease registered prior to the commencement of the Land Titles (Strata) (Amendment) Act 1987;
+(b) in relation to a lot where a lease has been granted, the registered subsidiary proprietor for the time being of a leasehold interest in a lot described in an instrument of lease whose unexpired term is not less than 21 years as from the date of lodgment of the instrument of lease for registration with the Registrar including such a lease registered prior to 1st December 1987 [S 309/87];
 
-[Act 16 of 1987 wef 01/12/1987]
+[16/87]
 
-“subsidiary strata certificate of title” means the subsidiary strata certificate of title issued under section 9;
+“subsidiary strata certificate of title” means the subsidiary strata certificate of title issued under this Act;
 
 “unanimous resolution” means a resolution which is passed at a duly convened general meeting of a management corporation of which at least 21 days’ notice specifying the proposed resolution has been given and against which no vote is cast.
 
-[23/82]
-
-[Act 16 of 1987 wef 01/12/1987]
+[16/87; 23/82]
 
 ### Application of Land Titles Act
 
@@ -507,9 +493,9 @@ STRATA LAND-REGISTER
 
 ### Dealings with subdivided building
 
-6\.—(1) Subject to this section and except in the case where pursuant to section 13 of the Land Titles Act the Registrar has directed that any building may be dealt with in parts under the provisions of the Registration of Deeds Act [Cap. 269], no assurance (except mortgages, charges, reconveyances or discharges of subsisting mortgages or charges, vesting orders issued by the High Court and any assurance made pursuant to a power of sale conferred by any written law) disposing of any part of a subdivided building shall be registered under the Land Titles Act or the Registration of Deeds Act and the Registrar or the Registrar of Deeds, as the case may be, shall have the power to refuse to register that assurance or, where the assurance has been registered in contravention of this subsection, cancel that registration upon the discovery thereof.
+6\.—(1) Subject to this section and except in the case where pursuant to section 16 of the Land Titles Act the Registrar has directed that any building may be dealt with in parts under the provisions of the Registration of Deeds Act [Cap. 269], no assurance (except mortgages, charges, reconveyances or discharges of subsisting mortgages or charges, vesting orders issued by the High Court and any assurance made pursuant to a power of sale conferred by any written law) disposing of any part of a subdivided building shall be registered under the Land Titles Act or the Registration of Deeds Act and the Registrar or the Registrar of Deeds, as the case may be, shall have the power to refuse to register that assurance or, where the assurance has been registered in contravention of this subsection, cancel that registration upon the discovery thereof.
 
-[Act 16 of 1987 wef 01/12/1987]
+[16/87]
 
 (2) An assurance disposing of any part of a subdivided building may be lodged for registration under the provisions of this Act where —
 
@@ -521,23 +507,23 @@ STRATA LAND-REGISTER
 
 (4) Where a notification has been made under subsection (3), the Minister may at any time cancel the notification when the registered proprietor of the land on which the building is erected has, with the approval of the Minister, transferred all the estate and interest in such land to the lessees of the registered leasehold estate of the subdivided parts of the building as tenants in common in accordance with the terms and conditions of the leases granted in respect of the subdivided parts of the building.
 
-(5) Subject to sections 122 and 123, this section shall not apply to any building where, on 15th April 1976, a flat forming part of that building has been disposed of by the proprietor thereof by a lease registered under the Land Titles Act [Cap. 157] or the Registration of Deeds Act [Cap. 269], and the registered leasehold interest is vested in any person other than the proprietor.
-
-[Act 16 of 1987 wef 01/12/1987]
+(5) Subject to sections 125, 126 and 127, this section shall not apply to any building where, on 15th April 1976, a flat forming part of that building has been disposed of by the proprietor thereof by a lease registered under the Land Titles Act [Cap. 157] or the Registration of Deeds Act [Cap. 269], and the registered leasehold interest is vested in any person other than the proprietor.
 
 (6) In this section —
 
 “assurance” includes any transaction to be registered under the Land Titles Act;
 
-“charge” includes a charge referred to in section 19 of the Central Provident Fund Act (Cap. 36).
+“charge” includes a charge referred to in section 19 of the Central Provident Fund Act [Cap. 36];
 
-[Act 16 of 1987 wef 01/12/1987]
+[16/87]
 
 “Registrar of Deeds” means the Registrar of Deeds appointed under the Registration of Deeds Act.
 
-### Flats not to be sold unless schedule of strata units is filed with and accepted by the Commissioner
+### Flats not to be sold unless schedule of strata units is filed with and accepted by Commissioner
 
 7\.—(1) Where planning permission has been granted on or after 15th April 1976 by the relevant authority in respect of any proposed development of land intended for strata subdivision after the completion of any building thereon, the registered proprietor thereof shall not sell any flat in the development (whether erected or in the course of erection) unless a schedule of strata units showing the proposed share values to be allotted to all the flats in the development has been filed with and accepted by the Commissioner.
+
+[16/87]
 
 (2) A schedule of strata units filed by the registered proprietor of any land pursuant to subsection (1) shall not be accepted by the Commissioner for filing unless he is satisfied that the proposed share values allotted to all the flats set out in the schedule are allocated in a just and equitable manner.
 
@@ -553,9 +539,7 @@ STRATA LAND-REGISTER
 
 (6) The share value assigned to a flat in a development that has been sold by the proprietor of the development shall not be changed without the consent of the purchaser except that the purchaser’s consent is not required for any minor adjustment to the share value which is necessitated by an increase or shortfall in the area of the flat after it has been surveyed on its completion.
 
-(7) Where a schedule of strata units has been filed under this section, the proprietor of the development may make changes to the areas of the flats that have not been sold:
-
-Provided that the aggregate share value of the development is not changed.
+(7) Where a schedule of strata units has been filed under this section, the proprietor of the development may make changes to the areas of the flats that have not been sold: Provided that the aggregate share value of the development is not changed.
 
 (8) The proprietor of a development shall inform the Commissioner of any proposed changes and of any changes to the common property in the proposed subdivided building and file with the Commissioner an amended schedule of strata units which shall take into account the proposed changes before making such changes.
 
@@ -569,19 +553,17 @@ except that paragraphs (a) and (b) shall not apply to an agreement in writing or
 
 (10) Every contract for the sale of a flat referred to in a schedule of strata units filed with the Commissioner pursuant to subsection (1) shall be deemed to have included therein a term that the registered proprietor of the land has agreed to sell an undivided share in the land on which the building is erected with a value determined in accordance with the proposed share values assigned to each flat shown in the schedule of strata units filed with and accepted by the Commissioner at any time prior to the execution of the contract for sale.
 
-(11) Any person who contravenes subsection (1) or (8) shall be guilty of an offence under this Act and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding one year or to both.
+(11) Any person who contravenes subsection (1) or (8) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding one year or to both.
 
-(12) A schedule of strata units filed with and accepted by the Commissioner prior to the commencement of the Land Titles (Strata) (Amendment) Act 1987 shall be deemed to have been filed with and accepted by the Commissioner pursuant to subsection (1).
+(12) A schedule of strata units filed with and accepted by the Commissioner prior to 1st December 1987 [S 309/87] shall be deemed to have been filed with and accepted by the Commissioner pursuant to subsection (1).
 
 (13) An amended schedule of strata units shall not be accepted by the Commissioner for filing purposes unless he is satisfied that the share values allotted to all the flats in a building referred to in the schedule are done so in a just and equitable manner.
-
-[Act 16 of 1987 wef 01/12/1987]
 
 ### Notification of planning condition on land-register, etc.
 
 8\.—(1) Where planning permission has been granted by the competent authority for the development of any land subject to the condition that 30% of the floor area of any building in the development must be owned by a single person for a period of 10 years from the date of the latest temporary occupation licence issued before the grant of the certificate of fitness in respect of the development, the competent authority shall notify the Registrar of such planning permission and file with the Registrar the plans delineating the specified flats in any building comprising the aforesaid 30% of the floor area.
 
-[23/82]
+[23/82; 16/87]
 
 (2) Where the Registrar has received the notice and plans referred to in subsection (1) and the Registrar is satisfied that the plans adequately identify the flats comprised in the said 30% of the floor area of the development, the Registrar shall —
 
@@ -657,15 +639,11 @@ except that paragraphs (a) and (b) shall not apply to an agreement in writing or
 
 (7) Every strata title plan shall —
 
-(a) show the share values in whole numbers of each lot including a provisional lot and a number equal to the aggregate share value entitlement of all the lots including provisional lots and, where planning permission for the erection of the buildings comprising the lots was granted on or after 15th April 1976, the share values shown shall be those filed with and accepted by the Commissioner;
-
-[Act 16 of 1987 wef 01/12/1987]
+(a) show the share values in whole numbers of each lot including a provisional lot and a number equal to the aggregate share value entitlement of all the lots including provisional lots and, where planning permission for the erection of the buildings comprising the lots was granted on or after 15th April 1976, the share values shown shall be those filed with and accepted by the Commissioner; and
 
 (b) contain such other particulars as may be prescribed by rules made under this Act.
 
-[23/82]
-
-[Act 16 of 1987 wef 01/12/1987]
+[23/82; 16/87]
 
 (8) Unless otherwise stipulated in the strata title plan, the common boundary on any lot with another lot or with the common property shall be the centre of the floor, wall or ceiling, as the case may be.
 
@@ -675,11 +653,11 @@ except that paragraphs (a) and (b) shall not apply to an agreement in writing or
 
 (i) a certificate of a surveyor registered under the Land Surveyors Act [Cap. 156] that all buildings and all lots shown in the strata title plan in relation to the external surface boundaries of the parcel are within the parcel and are in compliance with building plans (if any) and subdivision plans issued by the relevant authority; and
 
-(ii) the certificate of the Chief Surveyor or any other officer duly appointed to approve strata title plans on his behalf that such strata title plan has been approved by or on behalf of the Chief Surveyor and a copy thereof has been lodged in the Survey Office;
+(ii) the certificate of the Chief Surveyor or any other officer duly appointed to approve strata title plans on his behalf that such strata title plan has been approved by or on behalf of the Chief Surveyor and a copy thereof has been lodged in the Survey Department;
 
 (b) the plan is accompanied by a copy of the relevant strata subdivision plan approved by the relevant authority; and
 
-(c) the share value of each proposed lot has been entered in the plan in compliance with section 28.
+(c) the share value of each proposed lot has been entered in the plan in compliance with section 30.
 
 (10) No share value shall be allotted to an accessory lot.
 
@@ -689,7 +667,9 @@ except that paragraphs (a) and (b) shall not apply to an agreement in writing or
 
 ### Share value not to be changed
 
-10A\.—(1) Except as provided in this section and in sections 23(3)(b) and 74 or where a transfer of a lot or part thereof is made pursuant to section 25(1)(b), the share value of any lot shown in a strata title plan registered under this Act shall not be altered in any manner on or after the date of registration of the strata title plan.
+11\.—(1) Except as provided in this section and in sections 25(3)(b) and 77 or where a transfer of a lot or part thereof is made pursuant to section 27(1)(b), the share value of any lot shown in a strata title plan registered under this Act shall not be altered in any manner on or after the date of registration of the strata title plan.
+
+[16/87]
 
 (2) The Registrar may correct any entry in a strata title plan in respect of the share value of a lot if he is satisfied that there is an error in the entry.
 
@@ -697,29 +677,23 @@ except that paragraphs (a) and (b) shall not apply to an agreement in writing or
 
 (4) Nothing in this section shall prohibit the alteration of the share value of a lot consequent upon the subdivision of that lot into two or more lots or the amalgamation of two or more lots.
 
-(5) Subsection (1) shall apply to every strata title plan registered under this Act before or after the commencement of the Land Titles (Strata) (Amendment) Act 1987.
+(5) Subsection (1) shall apply to every strata title plan registered under this Act before or after 1st December 1987 [S 309/87].
 
-[Act 16 of 1987 wef 01/12/1987]
+[10A
 
 ### Plan of redevelopment
 
-11\.—(1) A subsidiary proprietor of a lot or of two or more lots who intends to subdivide his lot or amalgamate his lots may lodge a strata title plan for redevelopment for registration with the Registrar after he has obtained the approval of the relevant authority.
+12\.—(1) A subsidiary proprietor of a lot or of two or more lots who intends to subdivide his lot or amalgamate his lots may lodge a strata title plan for redevelopment for registration with the Registrar after he has obtained the approval of the relevant authority.
 
-[Act 16 of 1987 wef 01/12/1987]
+[16/87]
 
-(1A) Where the subdivision of a lot or the amalgamation of two or more lots results in the creation of any additional or new common property, the subsidiary proprietor shall obtain the approval of the management corporation before lodging the strata title plan for redevelopment with the Registrar.
+(2) Where the subdivision of a lot or the amalgamation of two or more lots results in the creation of any additional or new common property, the subsidiary proprietor shall obtain the approval of the management corporation before lodging the strata title plan for redevelopment with the Registrar.
 
-[Act 16 of 1987 wef 01/12/1987]
+(3) Section 7 shall apply mutatis mutandis to a lot intended for strata subdivision.
 
-(1B) Section 7 shall apply mutatis mutandis to a lot intended for strata subdivision.
+(4) The Registrar shall not be concerned to inquire whether a subsidiary proprietor has obtained the approval of the management corporation or the relevant authority under subsection (1) or (2).
 
-[Act 16 of 1987 wef 01/12/1987]
-
-(1C) The Registrar shall not be concerned to inquire whether a subsidiary proprietor has obtained the approval of the management corporation or the relevant authority under subsection (1) or (1A).
-
-[Act 16 of 1987 wef 01/12/1987]
-
-(2) Every strata title plan of redevelopment shall —
+(5) Every strata title plan of redevelopment shall —
 
 (a) define the boundaries of the new proposed or enlarged lot or lots;
 
@@ -731,21 +705,21 @@ except that paragraphs (a) and (b) shall not apply to an agreement in writing or
 
 [23/82]
 
-(3) On registration of the strata title plan for redevelopment, parts of any lot which are capable of forming the common property as provided under this Act shall form part of the common property in relation to all the lots comprised within the same parcel as described in the strata title plan first registered with the Registrar without the need for a resolution made pursuant to section 23 directing the management corporation concerned to accept a transfer of such parts of a lot to form part of the common property.
+(6) On registration of the strata title plan for redevelopment, parts of any lot which are capable of forming the common property as provided under this Act shall form part of the common property in relation to all the lots comprised within the same parcel as described in the strata title plan first registered with the Registrar without the need for a resolution made pursuant to section 25 directing the management corporation concerned to accept a transfer of such parts of a lot to form part of the common property.
 
 [23/82]
 
-(4) On registration of the strata title plan for redevelopment the Registrar shall make the appropriate amendment and entry on the relevant registered strata title plan and on the volume and folio of the subsidiary strata land-register comprising the lot or lots shown in the strata title plan for redevelopment in regard to the share value and lot numbers of the lot or lots affected.
+(7) On registration of the strata title plan for redevelopment the Registrar shall make the appropriate amendment and entry on the relevant registered strata title plan and on the volume and folio of the subsidiary strata land-register comprising the lot or lots shown in the strata title plan for redevelopment in regard to the share value and lot numbers of the lot or lots affected.
 
-(5) Subject to subsections (1) and (2), section 10 other than subsections (1) and (2) of that section, as well as other provisions of this Act relating to a strata title plan and a lot, shall apply to the strata title plan for redevelopment when registered and any lot shown therein.
+(8) Subject to subsections (1) and (5), section 10 other than subsections (1) and (2) of that section, as well as other provisions of this Act relating to a strata title plan and a lot, shall apply to the strata title plan for redevelopment when registered and any lot shown therein.
 
 [10
 
 ### Common property
 
-12\.—(1) On registration of the strata title plan the Registrar shall enter a memorial in the land-register on the volume and folio of the parcel to the effect that a subsidiary strata land-register has been created, and thereupon the common property shall be held by the subsidiary proprietors as tenants in common proportional to their respective share value and for the same term and tenure as their respective lots are held by them.
+13\.—(1) On registration of the strata title plan the Registrar shall enter a memorial in the land-register on the volume and folio of the parcel to the effect that a subsidiary strata land-register has been created, and thereupon the common property shall be held by the subsidiary proprietors as tenants in common proportional to their respective share value and for the same term and tenure as their respective lots are held by them.
 
-[Act 16 of 1987 wef 01/12/1987]
+[16/87]
 
 (2) The Registrar on issuing a subsidiary strata certificate of title for a lot shall certify therein the subsidiary proprietor’s share in the common property, but no subsidiary strata certificate of title shall be issued for the common property.
 
@@ -753,29 +727,31 @@ except that paragraphs (a) and (b) shall not apply to an agreement in writing or
 
 (4) The duplicate certificate of title comprising the parcel shall be deposited with the Registrar after the issue of the relevant subsidiary strata certificates of title, and where subsidiary strata certificates of title were issued before 15th April 1976 the relevant duplicate certificates of title comprising parcels may be forwarded for deposit with the Registrar.
 
-[11
+[12
 
 ### Powers of mortgagees of flats brought under this Act
 
-12A\. Where all the flats in a development have been brought under this Act pursuant to section 50, 51 or 52 which was in force immediately prior to the commencement of the Land Titles (Strata) (Amendment) Act 1987 or pursuant to section 122 or 123 and subsidiary strata certificates of title have been issued for all the flats, the mortgagee whose mortgage was registered in respect of such a flat either under the Land Titles Act (Cap. 157) or the Registration of Deeds Act (Cap. 269) prior to the issue of a subsidiary strata certificate of title for the flat, shall be deemed —
+14\. Where all the flats in a development have been brought under this Act pursuant to section 50, 51 or 52 which were in force immediately prior to 1st December 1987 [S 309/87] or pursuant to section 125, 126 or 127 and subsidiary strata certificates of title have been issued for all the flats, the mortgagee whose mortgage was registered in respect of such a flat either under the Land Titles Act [Cap. 157] or the Registration of Deeds Act [Cap. 269] prior to the issue of a subsidiary strata certificate of title for the flat, shall be deemed —
 
 (a) to be the donee of an irrevocable power of attorney granted by the mortgagor in respect of the mortgagor’s estate in the undivided share in the common property appurtenant to the lot comprising the mortgaged flat upon the issue of the subsidiary strata certificate of title; and
 
 (b) to have been vested with all rights and powers as if he is the registered proprietor of the estate in the share of the common property appurtenant to the flat mortgaged by the subsidiary proprietor as and when the mortgagee exercises his powers as mortgagee under the registered mortgage of the flat.
 
-[Act 16 of 1987 wef 01/12/1987]
+[12A
+
+[16/87]
 
 ### Accessory lot
 
-13\.—(1) No accessory lot or any share or estate or interest therein shall be dealt with independently of the lot to which such accessory lot has been made appurtenant as shown on the relevant registered strata title plan.
+15\.—(1) No accessory lot or any share or estate or interest therein shall be dealt with independently of the lot to which such accessory lot has been made appurtenant as shown on the relevant registered strata title plan.
 
-(2) Any person who deals with any accessory lot or any share, estate or interest therein independently and not made as appurtenant to the lot which such accessory lot is shown on the registered relevant strata title plan as being appurtenant shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+(2) Any person who deals with any accessory lot or any share, estate or interest therein independently and not made as appurtenant to the lot which such accessory lot is shown on the relevant registered strata title plan as being appurtenant shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
 (3) Any assurance made in contravention of subsection (1) shall not be registered under this Act and any registration thereof shall be null and void and shall not pass any estate or interest in the accessory lot.
 
 (4) Where such assurance has been registered, the Registrar on discovery thereof shall cancel the registration, and no person affected by such cancellation shall be entitled to any compensation from the assurance fund.
 
-[12
+[13
 
 ## PART III
 
@@ -788,51 +764,49 @@ A SUBSIDIARY PROPRIETOR
 
 ### Easement of support
 
-14\.—(1) In respect of each lot there shall be implied —
+16\.—(1) In respect of each lot there shall be implied —
 
 (a) in favour of the subsidiary proprietor of the lot and as appurtenant thereto, an easement for the subjacent and lateral support thereof by the common property and by every lot capable of affording support; and
 
 (b) as against the subsidiary proprietor of each lot and to which the lot shall be subject, an easement for the subjacent and lateral support of the common property and of every other lot capable of enjoying support.
 
-[Act 16 of 1987 wef 01/12/1987]
+[16/87]
 
 (2) The easement of support created by this section entitles the subsidiary proprietor of the dominant tenement to enter on the servient tenement to replace, renew or restore any support.
 
-[13
-
-[Act 16 of 1987 wef 01/12/1987]
+[14
 
 ### Easement of shelter
 
-15\.—(1) Every subsidiary proprietor is entitled to have his lot sheltered by all other parts of the subdivided building that are capable of affording shelter.
+17\.—(1) Every subsidiary proprietor is entitled to have his lot sheltered by all other parts of the subdivided building that are capable of affording shelter.
+
+[16/87]
 
 (2) The right created by this section is an easement to which the aforesaid parts of the subdivided building are subject.
 
 (3) The easement of shelter created by this section entitles the subsidiary proprietor of the dominant tenement to enter on the servient tenement to replace, renew or restore any shelter.
 
-[Act 16 of 1987 wef 01/12/1987]
-
-[14
+[15
 
 ### Easements for passage of water, drainage and other services
 
-16\. In respect of each lot there shall be implied —
+18\. In respect of each lot there shall be implied —
 
 (a) in favour of the subsidiary proprietor of the lot, and as appurtenant thereto, easements for the passage or provision of water, sewerage, drainage, gas, electricity, garbage, artificially heated or cooled air and other services (including telephone, radio and television services) through or by means of any pipes, wires, cables or ducts to the extent to which those sewers, pipes, wires, cables or ducts are capable of being used in connection with the enjoyment of the lot; and
 
 (b) as against the subsidiary proprietor of the lot, and to which the lot shall be subject, easements for the passage or provision of water, sewerage, drainage, gas, electricity, garbage, artificially heated or cooled air and other services (including telephone, radio and television services) through or by means of any sewers, pipes, wires, cables or ducts, as appurtenant to the common property and also to every other lot capable of enjoying such easements.
 
-[15
+[16
 
 ### Easements for light over-hanging eaves and other erected projections
 
-17\.—(1) In respect of each lot and the common property, there shall be implied in favour of the subsidiary proprietor of the dominant tenement and against the subsidiary proprietor of the servient tenement —
+19\.—(1) In respect of each lot and the common property, there shall be implied in favour of the subsidiary proprietor of the dominant tenement and against the subsidiary proprietor of the servient tenement —
 
 (a) easement for uninterrupted access and use of light to or for any windows, doors or other apertures existing and enjoyed at the date of registration of the relevant strata title plan; and
 
 (b) the right to maintain and use over-hanging eaves and other projections existing at the date of registration of the relevant strata title plan.
 
-[Act 16 of 1987 wef 01/12/1987]
+[16/87]
 
 (2) There shall be implied as appurtenant to the common property and subservient to any lot affected —
 
@@ -842,23 +816,23 @@ A SUBSIDIARY PROPRIETOR
 
 (3) This section shall also extend to a lot for which a subsidiary strata certificate of title has been issued before 15th April 1976.
 
-[16
+[17
 
 ### Ancillary rights
 
-18\. All ancillary rights and obligations reasonably necessary to make easements effective shall be implied whenever easements are created or implied by and under this Act.
-
-[17
-
-### Waiver of registration of statutory easements
-
-19\. The easements implied or created by this Act take effect and are enforceable without any memorial or notification on the folios of the subsidiary strata land-register and section 86(5) and (6) of the Land Titles Act [Cap. 157] does not apply to such easements.
+20\. All ancillary rights and obligations reasonably necessary to make easements effective shall be implied whenever easements are created or implied by and under this Act.
 
 [18
 
+### Waiver of registration of statutory easements
+
+21\. The easements implied or created by this Act take effect and are enforceable without any memorial or notification on the folios of the subsidiary strata land-register and section 86(5) and (6) of the Land Titles Act [Cap. 157] does not apply to such easements.
+
+[19
+
 ### Creation of easements and restrictions
 
-20\.—(1) The subsidiary proprietors may by unanimous resolution at a meeting convened by the management corporation direct the corporation —
+22\.—(1) The subsidiary proprietors may, by unanimous resolution passed at a meeting of the management corporation, direct the corporation —
 
 (a) to execute on their behalf a grant of easement or a restrictive covenant burdening the parcel; and
 
@@ -870,19 +844,19 @@ A SUBSIDIARY PROPRIETOR
 
 (4) The Registrar shall register the instrument creating the easement or restrictive covenant by noting it on the registered strata title plan.
 
-[19
+[20
 
 ### Dispositions of common property
 
-21\.—(1) The subsidiary proprietors may by a unanimous resolution passed at a general meeting of the management corporation direct the management corporation to dispose of or transfer any part of the common property, being a parcel of land or part thereof, a part of any building, or any immovable property affixed to the common property.
+23\.—(1) The subsidiary proprietors may, by unanimous resolution passed at a general meeting of the management corporation, direct the management corporation to dispose of or transfer any part of the common property, being a parcel of land or part thereof, a part of any building, or any immovable property affixed to the common property.
 
-[Act 16 of 1987 wef 01/12/1987]
+[16/87]
 
 (2) The management corporation, if it is satisfied that the resolution was duly passed, and that all persons (other than the subsidiary proprietors) having registered interests in the parcel have consented in writing to the release of those interests in respect of the registered land comprised in the proposed transfer, and that the relevant authority and the Registrar have consented in writing to the proposed transfer so far as it affects subdivision and amalgamation of the land comprised therein shall execute the appropriate instrument and such instrument shall be valid and effective without execution by any person having an interest in the common property, and the receipt of the management corporation for any moneys payable to the management corporation under the instrument is a sufficient discharge, and shall exonerate the purchaser from seeing to the application or being answerable for any loss or misapplication of the moneys expressed to have been so received.
 
 (3) Every instrument of such transfer lodged for registration shall be endorsed with or accompanied by a certificate in the approved form under the seal of the management corporation that the resolution was duly passed and that all necessary consents were given, and the certificate in favour of the purchaser and the Registrar shall be conclusive evidence of the facts stated therein.
 
-(4) Upon registration of the transfer by the Registrar the part of the common property transferred shall be free from such subsisting easements created or implied under the Act and the Registrar shall —
+(4) Upon registration of the transfer by the Registrar the part of the common property transferred shall be free from such subsisting easements created or implied under this Act and the Registrar shall —
 
 (a) enter a memorial of the transfer on the folio of the land-register comprising the parcel;
 
@@ -890,23 +864,23 @@ A SUBSIDIARY PROPRIETOR
 
 (c) issue to the transferee a certificate of title for the land transferred.
 
-[20
+[21
 
 ### Vesting of part of common property in Government for roads, streets, road reserves, drainage reserves or for any other public use as shown on plans approved by relevant authority
 
-22\.—(1) Where any part of land comprised in the common property of a parcel has been demarcated in any plan approved by the relevant authority before, on or after 15th April 1976 for roads, streets, road reserves, road widening and drainage reserves or for any other public use, that part of the common property as demarcated for any of the above purposes shall become vested in the Government upon the lodgment of an instrument of vesting in the approved form by the public authority for registration with the Registrar.
+24\.—(1) Where any part of land comprised in the common property of a parcel has been demarcated in any plan approved by the relevant authority before, on or after 15th April 1976 for roads, streets, road reserves, road widening and drainage reserves or for any other public use, that part of the common property as demarcated for any of the above purposes shall become vested in the Government upon the lodgment of an instrument of vesting in the approved form by the public authority for registration with the Registrar.
 
 (2) The Registrar, if satisfied that the instrument of vesting relates to part of the common property as shown in the plan approved by the relevant authority for any of the purposes mentioned in subsection (1) and that the instrument has been duly executed and certified by the public authority, shall, notwithstanding that any part of a building within one or more lots is erected on, over or under any part of such common property, register the instrument on the relevant folio of the land-register without production of the duplicate instrument, and upon registration thereof the estate or interest in the part of the common property comprised in the instrument of vesting shall vest in the Government for an estate in perpetuity freed and discharged from all encumbrances and from any subsisting easements.
 
-(3) On registration of the instrument of vesting the Registrar shall cancel the registration of any mortgage, charge, or lease thereby overreached and make the appropriate entries in the registered strata title plan comprising the common property.
+(3) On registration of the instrument of vesting the Registrar shall cancel the registration of any mortgage, charge or lease thereby overreached and make the appropriate entries in the registered strata title plan comprising the common property.
 
 (4) The land thereby vested in the Government shall cease to be subject to the provisions of the Land Titles Act [Cap. 157] and the Registrar shall enter an appropriate notification to that effect on the relevant folio of the land-register, and create a new folio for the balance of the common property which remains vested in the subsidiary proprietors.
 
-[21
+[22
 
 ### Addition to common property
 
-23\.—(1) The subsidiary proprietors may by a special resolution at a meeting convened by the management corporation direct the management corporation to accept a transfer —
+25\.—(1) The subsidiary proprietors may by a special resolution at a meeting convened by the management corporation direct the management corporation to accept a transfer —
 
 (a) of any land or part thereof, free from any encumbrances except those created by statute and subsisting easements so that such land or part thereof shall form part of the common property in favour of the subsidiary proprietors; or
 
@@ -940,17 +914,17 @@ Provided that the prior approval in writing of the relevant authority and the Re
 
 (iv) if there is a subsisting registered mortgage, charge, lease or sub-lease or any other encumbrance on the lot of a subsidiary proprietor, the undivided share or shares in the transferred land or transferred lot forming the additional common property shall be held by the subsidiary proprietor of the said lot subject to the same mortgage, charge, lease or sub-lease or any other such subsisting encumbrance.
 
-[22
+[23
 
 [23/82]
 
 ### Amalgamation of whole of common property comprised in two or more parcels
 
-24\.—(1) Where there are two or more management corporations established upon the registration of separate strata title plans by the Registrar, the subsidiary proprietors being members of these management corporations (referred to in this section as the transferor management corporations) may by their respective special resolutions at the meetings convened by the transferor management corporations direct that for the purpose of amalgamating the common property within the parcels which are of the same tenure and held by them as tenants in common in undivided shares the relevant transferor management corporations shall execute an instrument of transfer of these parcels so that such parcels shall become vested as one parcel in all the subsidiary proprietors as tenants in common in so far as these parcels affect the common property, and upon registration of the instrument of transfer such common property shall be amalgamated and held in the shares proportionate to their respective share units subject to the same covenants, conditions and encumbrances, and for the same term and tenure then held by the subsidiary proprietors in respect of their respective lots prior to the date of the registration of the transfer by the Registrar.
+26\.—(1) Where there are two or more management corporations established upon the registration of separate strata title plans by the Registrar, the subsidiary proprietors being members of these management corporations (referred to in this section as the transferor management corporations) may by their respective special resolutions at the meetings convened by the transferor management corporations direct that for the purpose of amalgamating the common property within the parcels which are of the same tenure and held by them as tenants in common in undivided shares the relevant transferor management corporations shall execute an instrument of transfer of these parcels so that such parcels shall become vested as one parcel in all the subsidiary proprietors as tenants in common in so far as these parcels affect the common property, and upon registration of the instrument of transfer such common property shall be amalgamated and held in the shares proportionate to their respective share units subject to the same covenants, conditions and encumbrances, and for the same term and tenure then held by the subsidiary proprietors in respect of their respective lots prior to the date of the registration of the transfer by the Registrar.
 
 (2) Such transfer shall show the undivided proportionate shares to be held by each subsidiary proprietor named therein and shall be executed by the relevant transferor management corporations.
 
-(3) The procedure laid down in section 21(2), (3) and (4) shall apply mutatis mutandis to the transferor management corporations and the subsidiary proprietors of the parcels to be amalgamated under this section.
+(3) The procedure laid down in section 23(2), (3) and (4) shall apply mutatis mutandis to the transferor management corporations and the subsidiary proprietors of the parcels to be amalgamated under this section.
 
 (4) Upon the amalgamation of the common property pursuant to the registration of the transfer by the Registrar —
 
@@ -970,11 +944,11 @@ Provided that the prior approval in writing of the relevant authority and the Re
 
 “properties” includes rights and powers of every description.
 
-[23
+[24
 
 ### Application made by subsidiary proprietor to court
 
-25\.—(1) Notwithstanding sections 21, 23 and 24, a subsidiary proprietor may make an application to the court for an order to direct the management corporation or management corporations to —
+27\.—(1) Notwithstanding sections 23, 25 and 26, a subsidiary proprietor may make an application to the court for an order to direct the management corporation or management corporations to —
 
 (a) transfer a part of the common property;
 
@@ -998,29 +972,31 @@ may make an order directing the management corporation or management corporation
 
 (4) Upon the registration of the transfer by the Registrar —
 
-(a) in the case of a disposition of all or part of the common property, all subsidiary proprietors and other persons having registered interests in the common property shall be bound to accept the terms of the order of court and section 21(4) shall apply mutatis mutandis to such transfer;
+(a) in the case of a disposition of all or part of the common property, all subsidiary proprietors and other persons having registered interests in the common property shall be bound to accept the terms of the order of court and section 23(4) shall apply mutatis mutandis to such transfer;
 
-(b) in the case of an addition to the common property, section 23(3) and (4) shall apply mutatis mutandis to such transfer; and
+(b) in the case of an addition to the common property, section 25(3) and (4) shall apply mutatis mutandis to such transfer; and
 
-(c) in the case of the amalgamation of the common property of two or more management corporations, section 21(4) and section 24(2), (4) and (5) shall apply mutatis mutandis to such amalgamation.
-
-[24
-
-### Limitation Act not to extend to common property
-
-26\. No action shall be brought by any person claiming title by adverse possession to the common property of a parcel or to any accessory lot or any part thereof created under this Act and the provisions of the Limitation Act [Cap. 163] relating to adverse possession shall not extend to such common property and accessory lot.
+(c) in the case of the amalgamation of the common property of two or more management corporations, section 23(4) and section 26(2), (4) and (5) shall apply mutatis mutandis to such amalgamation.
 
 [25
 
-### Unity of seisin not to affect easements, etc.
+### Limitation Act not to extend to common property
 
-27\. Unity of seisin in two or more lots does not destroy easements or restrictions implied or created by this Part, but on the cessation of such unity they continue in full force and effect as if the seisin had never been united.
+28\. No action shall be brought by any person claiming title by adverse possession to the common property of a parcel or to any accessory lot or any part thereof created under this Act and the provisions of the Limitation Act [Cap. 163] relating to adverse possession shall not extend to such common property and accessory lot.
 
 [26
 
+### Unity of seisin not to affect easements, etc.
+
+29\. Unity of seisin in two or more lots does not destroy easements or restrictions implied or created by this Part, but on the cessation of such unity they continue in full force and effect as if the seisin had never been united.
+
+[27
+
 ### Share values
 
-28\.—(1) Each lot including a provisional lot (except an accessory lot where no share value shall be allotted) shown in every plan lodged for registration as a strata title plan shall have its share value determined as shown in the strata title plan, and in the case of any strata title plan where planning permission has been granted on or after 15th April 1976, the lot which is shown in the strata title plan shall have the share value accepted by the Commissioner pursuant to section 7(1) prior to the registration of the strata title plan by the Registrar.
+30\.—(1) Each lot including a provisional lot (except an accessory lot where no share value shall be allotted) shown in every plan lodged for registration as a strata title plan shall have its share value determined as shown in the strata title plan, and in the case of any strata title plan where planning permission has been granted on or after 15th April 1976, the lot which is shown in the strata title plan shall have the share value accepted by the Commissioner pursuant to section 7(1) prior to the registration of the strata title plan by the Registrar.
+
+[16/87]
 
 (2) The share value of a lot shall determine —
 
@@ -1030,11 +1006,11 @@ may make an order directing the management corporation or management corporation
 
 (c) the amount of contributions levied by a management corporation on the subsidiary proprietors of all the lots in a subdivided building.
 
-[Act 16 of 1987 wef 01/12/1987]
+[28
 
 ### Provisional lots
 
-29\.—(1) No assurance of any provisional lot for which a subsidiary strata certificate of title is issued shall be registered under this Act and the Registrar shall enter an appropriate caution on the relevant subsidiary strata certificate of title prohibiting any assurance of the provisional lot comprised therein from being registered.
+31\.—(1) No assurance of any provisional lot for which a subsidiary strata certificate of title is issued shall be registered under this Act and the Registrar shall enter an appropriate caution on the relevant subsidiary strata certificate of title prohibiting any assurance of the provisional lot comprised therein from being registered.
 
 [23/82]
 
@@ -1044,21 +1020,23 @@ may make an order directing the management corporation or management corporation
 
 (4) The Registrar, after receipt of the application lodged for cancellation of the Registrar’s caution referred to in subsection (1) and being satisfied that all buildings within the provisional lot have been completed to the satisfaction of the relevant authority, shall cancel the caution endorsed on the subsidiary strata certificate of title and make the appropriate deletion of the word “provisional” wherever it appears as relating to that provisional lot in the records maintained by the Registrar, and thereupon that provisional lot shall constitute a lot under this Act.
 
-(5) Where the word “provisional” has been deleted by the Registrar pursuant to subsection (4), any part of the lot which is capable of forming part of the common property comprised within the same parcel as shown in the strata title plan which was first registered with the Registrar shall form part of the common property in relation to all the lots comprised within the same parcel as described in the strata title plan registered with the Registrar without the need for a resolution made pursuant to section 23 directing the management corporation concerned to accept a transfer of such part of the lot to form part of the common property.
+(5) Where the word “provisional” has been deleted by the Registrar pursuant to subsection (4), any part of the lot which is capable of forming part of the common property comprised within the same parcel as shown in the strata title plan which was first registered with the Registrar shall form part of the common property in relation to all the lots comprised within the same parcel as described in the strata title plan registered with the Registrar without the need for a resolution made pursuant to section 25 directing the management corporation concerned to accept a transfer of such part of the lot to form part of the common property.
 
 (6) Except as provided in subsections (1), (2) and (3), the provisions of this Act relating to a lot shall apply in all respects to a provisional lot.
 
 (7) For the purposes of this section, “assurance” shall not include any mortgage or charge or any application for vesting made under this Act.
 
-[Act 16 of 1987 wef 01/12/1987]
+[29
 
-[27A
+[16/87]
 
 ### Restrictions on subsidiary proprietor’s rights
 
-29A\. Any term or condition contained in a lease granted in respect of a lot (whether created before, on or after 15th April 1976) creating a leasehold interest of a term of not less than 21 years computed as from the date of the lodgement of the lease with the Registrar, which seeks to deprive or deny the lessee under the lease of his rights to exercise the powers conferred upon him as by this Act as the subsidiary proprietor of the lot relating to the management of the subdivided building and the common property shall have no effect whatsoever.
+32\. Any term or condition contained in a lease granted in respect of a lot (whether created before, on or after 15th April 1976) creating a leasehold interest of a term of not less than 21 years computed as from the date of the lodgment of the lease with the Registrar, which seeks to deprive or deny the lessee under the lease of his rights to exercise the powers conferred upon him by this Act as the subsidiary proprietor of the lot relating to the management of the subdivided building and the common property shall have no effect whatsoever.
 
-[Act 16 of 1987 wef 01/12/1987]
+[29A
+
+[16/87]
 
 ## PART IV
 
@@ -1070,11 +1048,13 @@ Management Corporations
 
 ### Constitution of management corporations
 
-30\.—(1) The subsidiary proprietors from time to time of the lots in a subdivided building comprised in a strata title plan shall, by virtue of this Act, upon registration of the strata title plan —
+33\.—(1) The subsidiary proprietors from time to time of the lots in a subdivided building comprised in a strata title plan shall, by virtue of this Act, upon registration of the strata title plan —
 
 (a) constitute a body corporate capable of suing and being sued and having perpetual succession and a common seal; and
 
-(b) be called “The Management Corporation — Strata Title Plan No. ” (the number to be specified being the registered number of the strata title plan).
+(b) be called “The Management Corporation — Strata Title Plan No.________ ” (the number to be specified being the registered number of the strata title plan).
+
+[16/87]
 
 (2) The management corporation may —
 
@@ -1086,39 +1066,45 @@ Management Corporations
 
 (d) be sued in respect of any matter connected with the parcel for which the subsidiary proprietors are jointly liable.
 
-(3) In respect of any subdivided building or buildings comprised in a strata title plan, the management corporation concerned shall have the powers, duties and functions conferred or imposed on it by or under this Act, or by the bylaws and, subject to this Act, shall have the control, management and administration of the common property.
+(3) In respect of any subdivided building or buildings comprised in a strata title plan, the management corporation concerned shall have the powers, duties and functions conferred or imposed on it by or under this Act, or by the by-laws and, subject to this Act, shall have the control, management and administration of the common property.
 
 (4) The Registrar may upon payment of the prescribed fee issue to a management corporation a certificate stating that the management corporation is a body corporate constituted under this Act on the day specified therein.
 
 (5) Nothing in this section shall be construed as prohibiting a management corporation from adding the name of the subdivided building to its official name.
 
-(6) In this section, “subsidiary proprietors” includes the persons entitled to the land on which the subdivided building is erected pursuant to the termination of the strata subdivision scheme under section 75 or 78.
+(6) In this section, “subsidiary proprietors” includes the persons entitled to the land on which the subdivided building is erected pursuant to the termination of the strata subdivision scheme under section 78 or 81.
 
-[Act 16 of 1987 wef 01/12/1987]
+[30
 
-### Duties of Proprietor
+### Duties of proprietor
 
-31\. Upon the establishment of the management corporation, the proprietor shall —
+34\. Upon the establishment of the management corporation, the proprietor shall —
 
-(a) forthwith open a bank account in the name of the management corporation and shall pay into the account any surplus moneys in the trust fund set up by the proprietor pursuant to section 9 of the Buildings and Common Property (Maintenance and Management) Act (Cap. 30) for the maintenance of the subdivided building and the common property prior to the establishment of the management corporation; and
+(a) forthwith open a bank account in the name of the management corporation and shall pay into the account any surplus moneys in the trust fund set up by the proprietor pursuant to section 9 of the Buildings and Common Property (Maintenance and Management) Act [Cap. 30] for the maintenance of the subdivided building and the common property prior to the establishment of the management corporation; and
 
-(b) cause to be kept such accounting and other records as will sufficiently explain the transactions and financial position of the management corporation and enable true and fair profit and loss accounts and balance sheets and any documents required to be attached thereto to be prepared for the period commencing from the date of registration of the strata title plan and ending on a date not earlier than 3 months before the first annual general meeting and shall cause those records to be kept in such manner as to enable them to be conveniently and properly audited.
+(b) cause to be kept such accounting and other records as will sufficiently explain the transactions and financial position of the management corporation and enable true and fair profit and loss accounts and balance-sheets and any documents required to be attached thereto to be prepared for the period commencing from the date of registration of the strata title plan and ending on a date not earlier than 3 months before the first annual general meeting and shall cause those records to be kept in such manner as to enable them to be conveniently and properly audited.
 
-[Act 16 of 1987 wef 01/12/1987]
+[31
+
+[16/87]
 
 ### Contributions payable by subsidiary proprietors
 
-32\. Where the first annual general meeting of a management corporation has not yet been convened, the subsidiary proprietor of each of the lots in the subdivided building concerned shall commencing from the date of the registration of the strata title plan pay to the management corporation any sum which has been approved by the Commissioner as the amount payable for the maintenance of the subdivided building and the common property and such sum shall be deemed to be the amount determined by the management corporation as the contributions payable by the subsidiary proprietors to the management fund of the management corporation.
+35\. Where the first annual general meeting of a management corporation has not yet been convened, the subsidiary proprietor of each of the lots in the subdivided building concerned shall commencing from the date of the registration of the strata title plan pay to the management corporation any sum which has been approved by the Commissioner as the amount payable for the maintenance of the subdivided building and the common property and such sum shall be deemed to be the amount determined by the management corporation as the contributions payable by the subsidiary proprietors to the management fund of the management corporation.
 
-[Act 16 of 1987 wef 01/12/1987]
+[32
+
+[16/87]
 
 ### Common seal of management corporation
 
-33\.—(1) The common seal of a management corporation shall be kept —
+36\.—(1) The common seal of a management corporation shall be kept —
 
 (a) where the management corporation is constituted by one subsidiary proprietor — by that subsidiary proprietor; or
 
 (b) where the management corporation is constituted by two or more subsidiary proprietors — by such subsidiary proprietor or member of the council as the management corporation determines or, in the absence of any such determination, by the secretary of the council.
+
+[16/87]
 
 (2) The common seal of a management corporation shall only be affixed to an instrument or document in the presence of —
 
@@ -1128,11 +1114,13 @@ Management Corporations
 
 who shall sign the instrument to which the seal is affixed.
 
-[Act 16 of 1987 wef 01/12/1987]
+[33
 
 ### Meetings of management corporation
 
-34\.—(1) Within one month of the expiry of the initial period or within 6 weeks of the receipt of a request in writing made by the subsidiary proprietors of not less than one-tenth of the total number of lots in the subdivided building concerned, whichever is the earlier, the proprietor, whether or not he is a subsidiary proprietor at the time he does so, shall convene a meeting of the management corporation within that month or the said period of 6 weeks, as the case may be.
+37\.—(1) Within one month of the expiry of the initial period or within 6 weeks of the receipt of a request in writing made by the subsidiary proprietors of not less than 10% of the total number of lots in the subdivided building concerned, whichever is the earlier, the proprietor, whether or not he is a subsidiary proprietor at the time he does so, shall convene a meeting of the management corporation within that month or the said period of 6 weeks, as the case may be.
+
+[16/87]
 
 (2) The agenda for a meeting convened under subsection (1) shall consist of the following items:
 
@@ -1140,7 +1128,7 @@ who shall sign the instrument to which the seal is affixed.
 
 (b) to determine the amount to be raised for the management fund and the sinking fund;
 
-(c) where there are more than three subsidiary proprietors, to determine the number of members of the council and to elect the council;
+(c) where there are more than 3 subsidiary proprietors, to determine the number of members of the council and to elect the council;
 
 (d) to decide what matters, if any, shall be determined only by the management corporation in general meeting;
 
@@ -1168,47 +1156,55 @@ other than any such documents which exclusively evidence rights or obligations o
 
 (b) notice of that meeting may be given in the manner specified in the order.
 
-(8) Any person who fails to comply with subsection (1) or (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and to a further fine not exceeding $100 for each day during which the offence continues after conviction.
+(8) Any person who fails to comply with subsection (1) or (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and to a further fine not exceeding $100 for every day during which the offence continues after conviction.
 
-[Act 16 of 1987 wef 01/12/1987]
+[34
 
 ### Annual general meetings
 
-35\.—(1) After the first annual general meeting has been held, a general meeting of a management corporation to be called the annual general meeting shall be held in each calendar year and not more than 15 months after the holding of the last preceding annual general meeting.
+38\.—(1) After the first annual general meeting has been held, a general meeting of a management corporation, to be called the annual general meeting, shall be held in each calendar year and not more than 15 months after the holding of the last preceding annual general meeting.
+
+[16/87]
 
 (2) If default is made in holding an annual general meeting the management corporation and every member of the council who is in default shall be guilty of an offence.
 
-[Act 16 of 1987 wef 01/12/1987]
+[35
 
 ### Convening of extraordinary general meeting on requisition
 
-36\.—(1) The council of a management corporation shall, on the receipt by the secretary of the management corporation of a requisition for an extraordinary general meeting signed by —
+39\.—(1) The council of a management corporation shall, on receipt by the secretary of the management corporation of a requisition for an extraordinary general meeting signed by —
 
-(a) one or more persons entitled to vote in respect of one or more lots, the share value or the sum of the share value of which is at least one-fifth of the aggregate share value of all the lots in the subdivided building; or
+(a) one or more persons entitled to vote in respect of one or more lots, the share value or the sum of the share value of which is at least 20% of the aggregate share value of all the lots in the subdivided building; or
 
-(b) by not less than one-fourth of the total number of subsidiary proprietors of the lots in the subdivided building,
+(b) not less than 25% of the total number of subsidiary proprietors of the lots in the subdivided building,
 
 forthwith proceed to convene an extraordinary general meeting of the management corporation to be held as soon as practicable but in any case not later than 6 weeks after the receipt by the secretary of the requisition.
 
+[16/87]
+
 (2) The requisition shall state the objects of the meeting and shall be signed by the requisitionists and deposited at the registered address of the management corporation, and may consist of several documents in like form each signed by one or more requisitionists.
 
-(3) If the council does not within 14 days after the date of the deposit of the requisition proceed to convene a meeting, the requisitionists, or any one of them representing more than one-half of the total voting rights of all of them, may themselves, in the same manner as nearly as possible as that in which meetings are to be convened by the council convene a meeting, but any meeting so convened shall not be held after the expiration of 3 months from that date.
+(3) If the council does not within 14 days after the date of the deposit of the requisition proceed to convene a meeting, the requisitionists, or any one of them representing more than 50% of the total voting rights of all of them, may themselves, in the same manner as nearly as possible as that in which meetings are to be convened by the council, convene a meeting, but any meeting so convened shall not be held after the expiration of 3 months from that date.
 
 (4) Any reasonable expenses incurred by the requisitionists by reason of the failure of the council to convene a meeting shall be paid to the requisitionists by the management corporation.
 
-[Act 16 of 1987 wef 01/12/1987]
+[36
 
 ### Voting at general meetings
 
-37\. The Third Schedule shall have effect with respect to general meetings of, and voting at the general meetings of, a management corporation except that paragraph 1(2) thereof shall not apply to the first annual general meeting.
+40\. The Third Schedule shall have effect with respect to general meetings of, and voting at the general meetings of, a management corporation except that paragraph 2(1) thereof shall not apply to the first annual general meeting.
 
-[Act 16 of 1987 wef 01/12/1987]
+[37
 
-### By-laws for regulation of the subdivided building
+[16/87]
 
-38\.—(1) Every subdivided building shown in a strata title plan shall be regulated by by-laws which shall provide for the control, management, administration, use and enjoyment of the lots and the common property.
+### By-laws for regulation of subdivided building
 
-(2) The by-laws shall include the by-laws set out in the First Schedule which shall not be amended or repealed by the management corporation.
+41\.—(1) Every subdivided building shown in a strata title plan shall be regulated by by-laws which shall provide for the control, management, administration, use and enjoyment of the lots and the common property.
+
+[16/87]
+
+(2) The by-laws shall include the by-laws set out in the First Schedule which shall not be amended or revoked by the management corporation.
 
 (3) A management corporation may, pursuant to a special resolution, make by-laws, not inconsistent with the by-laws set out in the First Schedule, for regulating the control, management, administration, use and enjoyment of the subdivided building and the common property.
 
@@ -1218,7 +1214,7 @@ forthwith proceed to convene an extraordinary general meeting of the management 
 
 (b) each subsidiary proprietor, mortgagee, lessee, occupier of a lot or part thereof with the subsidiary proprietor, mortgagee, lessee or occupier of the other lots in the same parcel,
 
-to observe and perform all the by-laws.
+to observe and comply with all the by-laws.
 
 (5) A lease of a lot or part thereof shall be deemed to contain an agreement by the lessee that he will comply with the by-laws for the time being in force.
 
@@ -1238,15 +1234,15 @@ to observe and perform all the by-laws.
 
 (b) to destroy or modify any easement expressly or impliedly created by or under this Act.
 
-(8) Without limiting the generality of any other provision of this section, a management corporation may, with the consent in writing of the subsidiary proprietor of a lot, pursuant to a unanimous resolution make a by-law in respect of that lot conferring on that subsidiary proprietor the exclusive use and enjoyment of, or special privileges in respect of, the common property or any part thereof upon such terms and conditions (including the proper maintaining and keeping in a state of good and serviceable repair of the common property or that part of the common property, as the case may be, and the payment of money by that subsidiary proprietor to the management corporation) as may be specified in the by-law and may, pursuant to a unanimous resolution, make a by-law amending, adding to or repealing any by-law made under this subsection.
+(8) Without limiting the generality of any other provision of this section, a management corporation may, with the consent in writing of the subsidiary proprietor of a lot, pursuant to a unanimous resolution, make a by-law in respect of that lot conferring on that subsidiary proprietor the exclusive use and enjoyment of, or special privileges in respect of, the common property or any part thereof upon such terms and conditions (including the proper maintaining and keeping in a state of good and serviceable repair of the common property or that part of the common property, as the case may be, and the payment of money by that subsidiary proprietor to the management corporation) as may be specified in the by-law and may, pursuant to a unanimous resolution, make a by-law amending, adding to or revoking any by-law made under this subsection.
 
 (9) Any by-law referred to in subsection (8) shall, while it remains in force, take effect as appurtenant to, and for the benefit of, the lot in respect of which it was made.
 
 (10) The subsidiary proprietor for the time being of a lot in respect of which a by-law referred to in subsection (8) is in force —
 
-(a) shall, subject to section 51(3), be liable to pay the management corporation any moneys referred to in the by-law in accordance with the by-law; and
+(a) shall, subject to section 54(3), be liable to pay the management corporation any moneys referred to in the by-law in accordance with the by-law; and
 
-(b) shall, unless excused by the by-law, be responsible for the performance of the duty of the management corporation under section 45(1) in respect of the common property, or the part of the common property, to which the by-law relates.
+(b) shall, unless excused by the by-law, be responsible for the performance of the duties of the management corporation under section 48(1) in respect of the common property, or the part of the common property, to which the by-law relates.
 
 (11) Any moneys payable by a subsidiary proprietor to the management corporation under a by-law referred to in subsection (8) may be recovered, as a debt, by the management corporation in any court of competent jurisdiction.
 
@@ -1262,27 +1258,29 @@ to observe and perform all the by-laws.
 
 any person bound to comply therewith, the management corporation or the managing agent, and the court may make such order against any such person, the management corporation or the members of its council, or the managing agent, as the court thinks fit.
 
-(15) Any person who commits a breach of any of the by-laws in Part II of the First Schedule or makes default in complying with any of the said by-laws, and every subsidiary proprietor who is knowingly a party to the breach or default, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
+(15) Any person who commits a breach of any of the by-laws in Part II of the First Schedule or makes default in complying with any of those by-laws, and every subsidiary proprietor who is knowingly a party to the breach or default, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
 
 (16) In this section, “lease” includes a tenancy agreement.
 
-[Act 16 of 1987 wef 01/12/1987]
+[38
 
 ### Levies by management corporation
 
-39\.—(1) A management corporation may levy the contributions determined by it in accordance with section 45(1)(m) and (n) and the contributions referred to in section 45(1)(r) by serving on the subsidiary proprietors notice in writing of the contributions payable by them in respect of their respective lots.
+42\.—(1) A management corporation may levy the contributions determined by it in accordance with section 48(1)(m) and (n) and the contributions referred to in section 48(1)(r) by serving on the subsidiary proprietors notice in writing of the contributions payable by them in respect of their respective lots.
+
+[16/87]
 
 (2) Contributions levied by a management corporation shall be levied in respect of each lot and shall, subject to subsections (3), (4) and (5), be payable by the subsidiary proprietors in shares proportional to the share value of their respective lots.
 
-(3) Where a lot is shown on the strata title plan as a provisional lot, the contributions payable by the subsidiary proprietor of that lot shall, during the period when any building in that lot is being erected or is not yet completed, be reduced by 75 per cent.
+(3) Where a lot is shown on the strata title plan as a provisional lot, the contributions payable by the subsidiary proprietor of that lot shall, during the period when any building in that lot is being erected or is not yet completed, be reduced by 75%.
 
-(4) Where a lot has been subdivided into two or more lots at any time before or after the commencement of the Land Titles (Strata) (Amendment) Act 1987 and the management corporation will incur additional expenditure in maintaining the new facilities or common property arising from the subdivision of the first-mentioned lot, the management corporation may levy such additional contributions as may be approved by the Commissioner on the subsidiary proprietor or his successors in title in order to recover the additional expenditure.
+(4) Where a lot has been subdivided into two or more lots at any time before or after 1st December 1987 [S 309/87] and the management corporation will incur additional expenditure in maintaining the new facilities or common property arising from the subdivision of the first-mentioned lot, the management corporation may levy such additional contributions as may be approved by the Commissioner on the subsidiary proprietor or his successors in title in order to recover the additional expenditure.
 
-(5) Where any change of use in respect of a lot has been approved by the competent authority at any time before or after the commencement of the Land Titles (Strata) (Amendment) Act 1987, the management corporation may levy such additional contributions as may be approved by the Commissioner on the subsidiary proprietor of that lot.
+(5) Where any change of use in respect of a lot has been approved by the competent authority at any time before or after 1st December 1987 [S 309/87], the management corporation may levy such additional contributions as may be approved by the Commissioner on the subsidiary proprietor of that lot.
 
 (6) The Commissioner shall give a subsidiary proprietor an opportunity of being heard before giving his approval for any additional contributions to be levied under subsection (4) or (5).
 
-(7) In respect of any contribution levied under subsection (1), (4) or (5) and the interest thereon, a subsidiary proprietor of a lot shall, subject to section 51(3), be liable jointly and severally with any person who was liable to pay that contribution and interest when the contribution became due and payable, to pay the contribution and interest to the management corporation:
+(7) In respect of any contribution levied under subsection (1), (4) or (5) and the interest thereon, a subsidiary proprietor of a lot shall, subject to section 54(3), be liable jointly and severally with any person who was liable to pay that contribution and interest when the contribution became due and payable, to pay the contribution and interest to the management corporation:
 
 Provided that a person who has ceased to be a subsidiary proprietor of the lot shall only be liable to pay the contribution which was unpaid at the time he ceased to be a subsidiary proprietor and the interest accruing on the unpaid contribution until such time as it is paid.
 
@@ -1300,41 +1298,43 @@ and any interest so paid shall form part of the fund to which the contribution b
 
 (10) Where any contribution and interest thereon levied under this section is not paid within 30 days when it becomes due and payable, the management corporation may serve a written demand on a subsidiary proprietor of the lot in respect of which the contribution is levied.
 
-(11) A subsidiary proprietor who fails to pay any contribution or interest due and owing to a management corporation within 14 days from the date of service of the written demand referred to in subsection (10) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 and to a further fine not exceeding $100 for each day the contribution or interest remains unpaid after conviction and the court before which such conviction is had may, in addition to such fine, order the subsidiary proprietor to pay to the management corporation the amount of any contribution together with any interest due thereon or any interest certified by the management corporation to be due from such person at the date of his conviction and such amount may be recovered according to the law for the time being in force for the recovery of fines.
+(11) A subsidiary proprietor who fails to pay any contribution or interest due and owing to a management corporation within 14 days from the date of service of the written demand referred to in subsection (10) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 and to a further fine not exceeding $100 for every day during which the contribution or interest remains unpaid after conviction and the court before which such conviction is had may, in addition to such fine, order the subsidiary proprietor to pay to the management corporation the amount of any contribution together with any interest due thereon or any interest certified by the management corporation to be due from such person at the date of his conviction and such amount may be recovered according to any written law for the time being in force for the recovery of fines.
 
 (12) For the purposes of this section, “subsidiary proprietor” includes —
 
-(a) a mortgagee in possession and the person for the time being receiving the rent of the lot, whether as agent or trustee or as receiver, or who would receive the same if the lot were let to a tenant; and
+(a) a mortgagee in possession and the person for the time being receiving the rent of the lot, whether as agent or trustee or as receiver, or who would receive the rent if the lot were let to a tenant; and
 
-(b) the person whose name is included in the Valuation List referred to in the Property Tax Act (Cap. 254) as the owner of the lot for the purposes of that Act.
+(b) the person whose name is included in the Valuation List referred to in the Property Tax Act [Cap. 254] as the owner of the lot for the purposes of that Act.
 
 (13) For the purposes of subsection (3), a building in a provisional lot shall be deemed to be completed when a temporary occupation licence has been issued by the competent authority for any flat in the building.
 
-(14) Any contribution levied by a management corporation under this section shall be deemed to be money payable under a contract for the provision of services and a management corporation may lodge a claim for the payment of such contribution with a Small Claims Tribunal in accordance with the provisions of the Small Claims Tribunals Act (Cap. 308).
+(14) Any contribution levied by a management corporation under this section shall be deemed to be money payable under a contract for the provision of services and a management corporation may lodge a claim for the payment of such contribution with a Small Claims Tribunal in accordance with the provisions of the Small Claims Tribunals Act [Cap. 308].
 
-[Act 16 of 1987 wef 01/12/1987]
+[39
 
-### Recovery of contribution from the sale of a lot
+### Recovery of contribution from sale of a lot
 
-40\.—(1) Where —
+43\.—(1) Where —
 
-(a) any contribution is levied under section 39; or
+(a) any contribution is levied under section 42; or
 
-(b) an amount is recoverable by the management corporation from the subsidiary proprietor of a lot pursuant to section 42,
+(b) an amount is recoverable by the management corporation from the subsidiary proprietor of a lot pursuant to section 45,
 
-and such contribution or amount remains unpaid on the expiry of a period of 30 days after the management corporation has served a written demand for the contribution or amount, that contribution or amount including any interest thereon (if any) shall constitute a charge on the lot in favour of the management corporation upon lodgement of an instrument of charge by the management corporation with and the registration thereof by the Registrar.
+and such contribution or amount remains unpaid on the expiry of a period of 30 days after the management corporation has served a written demand for the contribution or amount, that contribution or amount including any interest thereon (if any) shall constitute a charge on the lot in favour of the management corporation upon lodgment of an instrument of charge by the management corporation with and the registration thereof by the Registrar.
+
+[16/87]
 
 (2) Upon registration of the instrument of charge by the Registrar —
 
 (a) the management corporation shall, subject to subsection (3), have the power of sale and all other powers relating or incidental thereto as if such management corporation is a registered mortgagee; and
 
-(b) the contribution or amount due (including interest thereon) shall be subject to all statutory charges of any public authority over the lot and to all encumbrances registered or notified prior to the date of lodgement of the said instrument of charge except that in the case where a prior registered mortgagee or chargee has sold the lot in exercise of his power of sale, the registered charge of the estate or interest of the lot when transferred to a purchaser by the mortgagee or chargee shall not be over-reached by the exercise of the power of sale by the mortgagee or chargee of a prior registered mortgage or charge.
+(b) the contribution or amount due (including interest thereon) shall be subject to all statutory charges of any public authority over the lot and to all encumbrances registered or notified prior to the date of lodgment of that instrument of charge except that in the case where a prior registered mortgagee or chargee has sold the lot in exercise of his power of sale, the registered charge of the estate or interest of the lot when transferred to a purchaser by the mortgagee or chargee shall not be over-reached by the exercise of the power of sale by the mortgagee or chargee of a prior registered mortgage or charge.
 
 (3) The management corporation shall not proceed under subsection (2)(a) to sell the lot unless —
 
 (a) a special resolution has been passed by the management corporation to have the lot sold;
 
-(b) a notice of the intended sale has been published once in one or more daily newspapers as approved by the Registrar;
+(b) a notice of the intended sale has been published once in one or more daily newspapers, approved by the Registrar;
 
 (c) during the period of 6 weeks after the date of such publication no payment has been received for the contribution or amount due including interest thereon and the cost of publication specified in paragraph (b) as well as any other necessary incidental charges; and
 
@@ -1354,37 +1354,41 @@ and such contribution or amount remains unpaid on the expiry of a period of 30 d
 
 (5) Where the management corporation has wrongfully exercised its power of sale without having verified that the contributions and interest thereon subject to the statutory charge are still outstanding, every member of the council of the management corporation who voted in favour of the special resolution which was passed for the purpose of exercising the power of sale shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding one year or to both.
 
-(6) Where an instrument of charge has been registered against a lot under this section, the subsidiary proprietor of the lot shall, upon payment of the amount of the contribution or amount due including interest thereon and any necessary incidental charges to the management corporation before it has exercised its power of sale conferred by this section, be entitled to an instrument of discharge executed and acknowledged by the management corporation as to the receipt of such payment, and upon registration of such instrument of discharge or, in the event of the management corporation refusing to execute a discharge, an order of court declaring that the lot shall be discharged from the charge, the lot shall be freed from the charge constituted under this section.
+(6) Where an instrument of charge has been registered against a lot under this section, the subsidiary proprietor of the lot shall, upon payment of the amount of the contribution or amount due including interest thereon and any necessary incidental charges to the management corporation before it has exercised its power of sale conferred by this section, be entitled to an instrument of discharge executed and acknowledged by the management corporation as to the receipt of such payment, and upon registration of the instrument of discharge or, in the event of the management corporation refusing to execute a discharge, an order of court declaring that the lot shall be discharged from the charge, the lot shall be freed from the charge constituted under this section.
 
 (7) For the purpose of registration of a charge, discharge or transfer under this section, the Registrar may dispense with the production of the relevant duplicate subsidiary strata certificate of title.
 
-(8) Notwithstanding section 74 of the Land Titles Act (Cap. 157) and section 16 of the Registration of Deeds Act (Cap. 269), where further contributions and interest thereon are due to the management corporation after the registration of an instrument of charge under this section, the amount of contributions due (including interest thereon) shall rank in priority to any other claims as if the contributions were due at the date of the registration of the charge.
+(8) Notwithstanding section 74 of the Land Titles Act [Cap. 157] and section 16 of the Registration of Deeds Act [Cap. 269], where further contributions and interest thereon are due to the management corporation after the registration of an instrument of charge under this section, the amount of contributions due (including interest thereon) shall rank in priority to any other claims as if the contributions were due at the date of the registration of the charge.
 
 (9) A charge under subsection (2) shall continue in force until all the contributions (including interest thereon) secured by the charge have been paid.
 
-(10) This section shall not affect the rights and powers conferred on the management corporation by sections 39(6) and 42 to recover the contribution or amount due and all interest thereon including any legal costs and incidental charges necessarily incurred for the recovery of such contribution or amount in respect of any lot as a debt from the subsidiary proprietor of, or his successor in title to, the lot.
+(10) This section shall not affect the rights and powers conferred on the management corporation by sections 42(7) and 45 to recover the contribution or amount due and all interest thereon including any legal costs and incidental charges necessarily incurred for the recovery of the contribution or amount in respect of any lot as a debt from the subsidiary proprietor of, or his successor in title to, the lot.
 
-(11) In this section, “public authority” means the Government, Collector of Land Revenue, Comptroller of Property Tax, and any other person, corporation or body, authorised or empowered by any written law to attach, sell or acquire land compulsorily.
+(11) In this section, “public authority” means the Government, the Collector of Land Revenue, the Comptroller of Property Tax, and any other person, corporation or body, authorised or empowered by any written law to attach, sell or acquire land compulsorily.
 
-(12) This section shall apply to all charges registered before or after the commencement of the Land Titles (Strata) (Amendment) Act 1987.
+(12) This section shall apply to all charges registered before or after 1st December 1987 [S 309/87].
 
-[Act 16 of 1987 wef 01/12/1987]
+[40
 
-### Liability of members for debts of the management corporation
+### Liability of members for debts of management corporation
 
-41\. The payment of any expenditure lawfully incurred by the management corporation in the course of the exercise of any of its powers or functions or the carrying out of its duties or obligations shall, by virtue of this section, be guaranteed by the persons who, for the time being and from time to time, are the members of the management corporation, and the subsidiary proprietor of a lot shall be liable only to pay such amount which he would have to pay if contributions were levied by the management corporation pursuant to section 39 to raise the necessary sum for the payment of the expenditure.
+44\. The payment of any expenditure lawfully incurred by the management corporation in the course of the exercise of any of its powers or functions or the carrying out of its duties or obligations shall, by virtue of this section, be guaranteed by the persons who, for the time being and from time to time, are the members of the management corporation, and the subsidiary proprietor of a lot shall be liable only to pay the amount which he would have to pay if contributions were levied by the management corporation pursuant to section 42 to raise the necessary sum for the payment of the expenditure.
 
-[Act 16 of 1987 wef 01/12/1987]
+[41
+
+[16/87]
 
 ### Power of management corporation to carry out work
 
-42\.—(1) Where a notice has been served on the subsidiary proprietor of a lot by a public authority requiring that subsidiary proprietor to carry out any work on or in relation to that lot and the notice is not complied with, the management corporation may carry out the work.
+45\.—(1) Where a notice has been served on the subsidiary proprietor of a lot by a public authority requiring that subsidiary proprietor to carry out any work on or in relation to that lot and the notice is not complied with, the management corporation may carry out the work.
+
+[16/87]
 
 (2) Where a subsidiary proprietor, mortgagee in possession, lessee or occupier of a lot fails or neglects to carry out any work —
 
-(a) required to be carried out by him under a term or condition of a by-law referred to in section 38(8);
+(a) required to be carried out by him under a term or condition of a by-law referred to in section 41(8);
 
-(b) necessary to remedy a breach of the duty imposed on him by section 54(a); or
+(b) necessary to remedy a breach of the duty imposed on him by section 57(a); or
 
 (c) to rectify any defect in any water pipe, sewer pipe within his lot or any cracks in the wall or floor within his lot,
 
@@ -1404,31 +1408,35 @@ the management corporation may carry out that work.
 
 (a) any part of a building comprised in a lot contains any structural defect which affects or is likely to affect the support or shelter provided by that lot for another lot in that building or the common property; or
 
-(b) any defect occurs in any pipes, wires, cables or ducts referred to in section 54(a)(ii) within a lot,
+(b) any defect occurs in any pipes, wires, cables or ducts referred to in section 57(a)(ii) within a lot,
 
 the management corporation shall carry out such work as is necessary to rectify the defect and it may recover the cost of such work from any person who has a duty to remedy the defect as a debt in any court of competent jurisdiction.
 
-(5) Where the management corporation incurs any expenditure or performs any repairs, works or acts that it is required or authorised by or under this Part or by or under any other written law to perform (whether or not the expenditure was incurred or the repairs, works or acts were performed consequent upon the service on it by any Government or statutory authority of any notice or order) and the expenditure or the repairs, works or acts were rendered necessary by reason of any wilful or negligent act or omission on the part of, or breach of any provision of its by-laws by, any person or his tenant, lessee, licensee or invitee, the amount of that expenditure expended by it in performing the repairs, works or acts shall be recoverable by it from that person as a debt in an action in any court of competent jurisdiction.
+(5) Where the management corporation incurs any expenditure or performs any repairs, works or acts that it is required or authorised by this Part or by any other written law to perform (whether or not the expenditure was incurred or the repairs, works or acts were performed consequent upon the service on it by any Government or statutory authority of any notice or order) and the expenditure or the repairs, works or acts were rendered necessary by reason of any wilful or negligent act or omission on the part of, or breach of any provision of its by-laws by, any person or his tenant, lessee, licensee or invitee, the amount of that expenditure expended by it in performing the repairs, works or acts shall be recoverable by it from that person as a debt in an action in any court of competent jurisdiction.
 
-[Act 16 of 1987 wef 01/12/1987]
+[42
 
 ### Change of management corporation’s address
 
-43\.—(1) A management corporation may, in general meeting, decide that the address, as shown on the records maintained by the Registrar, for the service of notices on the management corporation shall be changed.
+46\.—(1) A management corporation may, in general meeting, decide that the address, as shown on the records maintained by the Registrar, for the service of notices on the management corporation shall be changed.
+
+[16/87]
 
 (2) Where a management corporation has, pursuant to subsection (1), decided that the address for the service of notices on it shall be changed, the management corporation shall forthwith notify the Registrar and the Commissioner of the change and the Registrar shall amend the registered strata title plan accordingly.
 
-[Act 16 of 1987 wef 01/12/1987]
+[43
 
 ### Agreement for payment to a subsidiary proprietor of consideration on transfer or lease of common property
 
-44\. A management corporation may, pursuant to a unanimous resolution, make an agreement with a subsidiary proprietor with respect to the payment to him of the whole or any part of the consideration under any transaction proposed to be entered into by the management corporation under Part III or under a by-law referred to in section 38(8).
+47\. A management corporation may, pursuant to a unanimous resolution, make an agreement with a subsidiary proprietor with respect to the payment to him of the whole or any part of the consideration under any transaction proposed to be entered into by the management corporation under Part III or under a by-law referred to in section 41(8).
 
-[Act 16 of 1987 wef 01/12/1987]
+[44
+
+[16/87]
 
 ### Duties of management corporation
 
-45\.—(1) A management corporation shall, for the purposes of the subdivided building concerned, —
+48\.—(1) A management corporation shall, for the purposes of the subdivided building concerned —
 
 (a) control, manage and administer the common property for the benefit of all the subsidiary proprietors;
 
@@ -1476,11 +1484,11 @@ the management corporation shall carry out such work as is necessary to rectify 
 
 (iv) for any other expenditure approved by the management corporation in general meeting;
 
-(o) upon determining the amounts referred to in paragraph (m), establish a management fund into which shall be paid those amounts, the proceeds of the sale or other disposal of any personal property of the management corporation and any other income received by it and any amount paid to the management corporation by way of discharge of insurance claims;
+(o) upon determining the amounts referred to in paragraph (m), establish a management fund into which shall be paid those amounts, the proceeds of the sale or disposal of any personal property of the management corporation and any income received by it and any amount paid to the management corporation by way of discharge of insurance claims;
 
 (p) upon determining the amounts referred to in paragraph (n), establish a sinking fund into which shall be paid those amounts and any amount paid to the management corporation by way of discharge of insurance claims unless the latter amount has been paid into the management fund;
 
-(q) from time to time, levy, in accordance with section 39, on each person liable therefor a contribution to raise the amounts referred to in paragraphs (m) and (n);
+(q) from time to time, levy, in accordance with section 42, on each person liable therefor a contribution to raise the amounts referred to in paragraphs (m) and (n);
 
 (r) if the management corporation —
 
@@ -1488,9 +1496,11 @@ the management corporation shall carry out such work as is necessary to rectify 
 
 (ii) is not required, under paragraph (q), to levy contributions to meet the liability,
 
-forthwith levy, in accordance with section 39, contributions to raise those moneys; and
+forthwith levy, in accordance with section 42, contributions to raise those moneys; and
 
 (s) implement the decisions of the management corporation.
+
+[16/87]
 
 (2) A management corporation shall not disburse any moneys —
 
@@ -1498,17 +1508,17 @@ forthwith levy, in accordance with section 39, contributions to raise those mone
 
 (b) from its sinking fund, otherwise than for the purpose of meeting its liabilities referred to in subsection (1)(n); and
 
-(c) from its management fund or sinking fund otherwise than for the purpose of carrying out its powers, authorities, duties and functions under this Act or the by-laws.
+(c) from its management fund or sinking fund otherwise than for the purpose of carrying out its powers, duties and functions under this Act or the by-laws.
 
 (3) A determination made by a management corporation under subsection (1)(m) or (n) may specify that the amounts to be raised for the purposes referred to in those paragraphs shall be raised by such regular periodic contributions as may be specified in the determination.
 
-[Act 16 of 1987 wef 01/12/1987]
+[45
 
 ### Power of entry
 
-46\.—(1) For the purpose of carrying out —
+49\.—(1) For the purpose of carrying out —
 
-(a) any work pursuant to section 42(1), (2), (4) or (5);
+(a) any work pursuant to section 45(1), (2), (4) or (5);
 
 (b) any work required to be carried out by a management corporation —
 
@@ -1516,43 +1526,47 @@ forthwith levy, in accordance with section 39, contributions to raise those mone
 
 (ii) by an order of the Commissioner;
 
-(c) any work referred to in section 45(1)(b), (c) or (d); or
+(c) any work referred to in section 48(1)(b), (c) or (d); or
 
-(d) any work necessary to repair or renew any pipes, wires, cables or ducts referred to in section 54(a)(ii),
+(d) any work necessary to repair or renew any pipes, wires, cables or ducts referred to in section 57(a)(ii),
 
-the management corporation may, by its servants or agents, enter upon any lot or part of the parcel for the purpose of carrying out the work, in the case of an emergency, at any time, or, in any other case, at any reasonable time after giving notice to any occupier of that lot or part of the parcel.
+the management corporation may, by its employees or agents, enter upon any lot or part of the parcel for the purpose of carrying out the work, in the case of an emergency, at any time, or, in any other case, at any reasonable time after giving notice to any occupier of that lot or part of the parcel.
+
+[16/87]
 
 (2) A person who obstructs or hinders a management corporation in the exercise of its power under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
 
-[Act 16 of 1987 wef 01/12/1987]
+[46
 
 ### Miscellaneous powers of management corporation
 
-47\. A management corporation may —
+50\. A management corporation may —
 
-(a) subject to the rules made under this Act, invest any moneys in its management fund and in its sinking fund in any manner permitted by law for the investment of trust funds;
+(a) subject to the regulations made under this Act, invest any moneys in its management fund and in its sinking fund in any manner permitted by law for the investment of trust funds;
 
 (b) borrow moneys and secure the repayment thereof and of any interest in such manner as may be agreed upon by the management corporation and the lender, otherwise than by charging the repayment on the common property;
 
 (c) enter into an agreement with a subsidiary proprietor or occupier of a lot for the provision of amenities or services by it to the lot or to the subsidiary proprietor or occupier thereof;
 
-(d) to purchase, hire or otherwise acquire personal property for use by the subsidiary proprietors in connection with their enjoyment of the common property; and
+(d) purchase, hire or otherwise acquire personal property for use by the subsidiary proprietors in connection with their enjoyment of the common property; and
 
-(e) to do all things reasonably necessary for the performance of its duties under this Part and for the enforcement of the by-laws set out in the First Schedule.
+(e) do all things reasonably necessary for the performance of its duties under this Part and for the enforcement of the by-laws set out in the First Schedule.
 
-[Act 16 of 1987 wef 01/12/1987]
+[47
+
+[16/87]
 
 ### Statutory restrictions on powers of management corporation
 
-48\.—(1) Notwithstanding any other provision of this Act, a management corporation shall not, during the initial period, —
+51\.—(1) Notwithstanding any other provision of this Act, a management corporation shall not, during the initial period —
 
-(a) amend, add to or repeal the by-laws in such a manner that a right is conferred or an obligation is imposed on one or more, but not all, subsidiary proprietors or in respect of one or more, but not all, lots;
+(a) amend, add to or revoke the by-laws in such a manner that a right is conferred or an obligation is imposed on one or more, but not all, subsidiary proprietors or in respect of one or more, but not all, lots;
 
 (b) alter any common property forming part of the subdivided building or erect any structure on the common property;
 
 (c) grant an easement or a restrictive covenant burdening the parcel;
 
-(d) execute a transfer of any part of the common property pursuant to section 21 or confer on any person the exclusive right to use and enjoy the common property;
+(d) execute a transfer of any part of the common property pursuant to section 23 or confer on any person the exclusive right to use and enjoy the common property;
 
 (e) make any contract which confers upon any person the right to use, occupy, control or manage any part of the common property for a period extending beyond the expiration of the initial period;
 
@@ -1560,7 +1574,9 @@ the management corporation may, by its servants or agents, enter upon any lot or
 
 (g) appoint a managing agent to hold office as such for a period extending beyond the expiration of the initial period,
 
-unless the doing of that thing is authorised by an order made under section 49.
+unless the doing of that thing is authorised by an order made under section 52.
+
+[16/87]
 
 (2) Any contract for the supply of services relating to the maintenance of a subdivided building made by a management corporation during the initial period shall be deemed to have contained a provision therein that the contract may be terminated forthwith by notice in writing given by the management corporation to the other party thereto without payment of any damages, fee or other compensation.
 
@@ -1578,15 +1594,17 @@ unless —
 
 (iii) the proprietor, being in such a position, used all due diligence to prevent the contravention.
 
-[Act 16 of 1987 wef 01/12/1987]
+[48
 
 ### Commissioner’s power to authorise certain acts during initial period
 
-49\.—(1) The Commissioner may, on an application made by a management corporation, make an order authorising the doing of any thing referred to in section 48.
+52\.—(1) The Commissioner may, on an application made by a management corporation, make an order authorising the doing of anything referred to in section 51.
 
-(2) Notice of an application under subsection (1) shall be served, in accordance with the rules made under this Part, on —
+[16/87]
 
-(a) the subsidiary proprietor of every lot in the subdivided building concerned, unless it or he is the applicant;
+(2) Notice of an application under subsection (1) shall be served, in accordance with the regulations made under this Act, on —
+
+(a) the subsidiary proprietor of every lot in the subdivided building concerned, unless he is the applicant;
 
 (b) the registered mortgagee of every such lot; and
 
@@ -1596,11 +1614,11 @@ unless —
 
 (4) The Commissioner shall not make an order under this section unless he is satisfied that the order will serve the interests of the subsidiary proprietors or those persons having equitable interests in the lots.
 
-[Act 16 of 1987 wef 01/12/1987]
+[49
 
 ### Strata roll
 
-50\.—(1) A management corporation shall prepare and maintain a roll in accordance with this section.
+53\.—(1) A management corporation shall prepare and maintain a roll in accordance with this section.
 
 (2) The roll shall be kept in the form of a book (either bound or loose-leaf) which shall contain one or more pages in respect of each lot in the subdivided building.
 
@@ -1608,41 +1626,41 @@ unless —
 
 (a) the share value of the lot, as shown on the schedule of strata units filed with the Commissioner under section 7;
 
-(b) the name and address of the subsidiary proprietor, as shown on the folio of the subsidiary strata land-register comprising the lot upon registration of the strata title plan and the name of and address for the service of notices on the subsidiary proprietor of that lot as shown in notices given to the management corporation under section 56(2) or (3);
+(b) the name and address of the subsidiary proprietor, as shown on the folio of the subsidiary strata land-register comprising the lot upon registration of the strata title plan and the name of and address for the service of notices on the subsidiary proprietor of that lot as shown in notices given to the management corporation under section 59(2) or (3);
 
-(c) the name of any mortgagee of the lot notice of whose mortgage has been given to the management corporation under section 56(4), the address for the service of notices on him as shown in that notice and any other mortgages which are specified in that notice as having priority over his mortgage;
+(c) the name of any mortgagee of the lot notice of whose mortgage has been given to the management corporation under section 59(4), the address for the service of notices on him as shown in that notice and any other mortgages which are specified in that notice as having priority over his mortgage;
 
-(d) the name of the nominee of any company which is the subsidiary proprietor or mortgagee of the lot as shown in notices given to the management corporation for the purposes of section 56(10);
+(d) the name of the nominee of any company which is the subsidiary proprietor or mortgagee of the lot as shown in notices given to the management corporation for the purposes of section 59(10);
 
-(e) the discharge, transfer, assignment or sub-mortgage of any mortgage, referred to in paragraph (c), as shown in a notice given to the management corporation under section 56(5) or (6) and, except in the case of a discharge, the address for the service of notices on the transferee, assignee or sub-mortgagee as shown in that notice;
+(e) the discharge, transfer, assignment or sub-mortgage of any mortgage, referred to in paragraph (c), as shown in a notice given to the management corporation under section 59(5) or (6) and, except in the case of a discharge, the address for the service of notices on the transferee, assignee or sub-mortgagee as shown in that notice;
 
-(f) the entry into possession of the lot by a mortgagee as shown in a notice given to the management corporation under section 56(7); and
+(f) the entry into possession of the lot by a mortgagee as shown in a notice given to the management corporation under section 59(7); and
 
-(g) the address for the service of notices on any person as shown in a notice given to the management corporation under section 56(1).
+(g) the address for the service of notices on any person as shown in a notice given to the management corporation under section 59(1).
 
 (4) The management corporation shall record and maintain in the roll a copy of the by-laws for the time being in force with respect to the subdivided building.
 
-[Act 16 of 1987 wef 01/12/1987]
+[50
 
 ### Supply of information and certificates by management corporation
 
-51\.—(1) A management corporation shall, upon application made to it in writing in respect of a lot the subject of the subdivided building concerned by a subsidiary proprietor or mortgagee or prospective purchaser or mortgagee of that lot or by a person authorised in writing by such a subsidiary proprietor or mortgagee and on payment of the prescribed fee, do any one or more of the following things as are required of it in the application:
+54\.—(1) A management corporation shall, upon application made to it in writing in respect of a lot the subject of the subdivided building concerned by a subsidiary proprietor or mortgagee or prospective purchaser or mortgagee of that lot or by a person authorised in writing by such a subsidiary proprietor or mortgagee and on payment of the prescribed fee, do any one or more of the following things as are required of it in the application:
 
-(a) inform the applicant of the name and address of the chairman, secretary and treasurer of the management corporation and of any person who has been appointed under section 65 as managing agent;
+(a) inform the applicant of the name and address of the chairman, secretary and treasurer of the management corporation and of any person who has been appointed under section 68 as managing agent;
 
 (b) make available for inspection by the applicant or his agent —
 
 (i) the strata roll;
 
-(ii) the notices and orders referred to in section 45(1)(i);
+(ii) the notices and orders referred to in section 48(1)(i);
 
-(iii) the plans, specifications, certificates, diagrams and other documents delivered under section 34(4);
+(iii) the plans, specifications, certificates, diagrams and other documents delivered under section 37(4);
 
 (iv) the minutes of general meetings of the management corporation and of the council;
 
 (v) the books of account of the management corporation;
 
-(vi) a copy of the statement of accounts of the management corporation last prepared by the management corporation in accordance with section 45(1)(k);
+(vi) a copy of the statement of accounts of the management corporation last prepared by the management corporation in accordance with section 48(1)(k);
 
 (vii) every current policy of insurance effected by the management corporation and the receipt for the premium last paid in respect of each such policy; and
 
@@ -1652,45 +1670,51 @@ at such time and place as may be agreed upon by the applicant or his agent and t
 
 (c) certify, as at the date of the certificate, in respect of the lot in respect of which the application is made —
 
-(i) the amount of any regular periodic contributions determined by the management corporation under section 45(1)(m) and (n) and the periods in respect of which those contributions are payable;
+(i) the amount of any regular periodic contributions determined by the management corporation under section 48(1)(m) and (n) and the periods in respect of which those contributions are payable;
 
-(ii) whether there is any amount unpaid of any contribution determined under section 45(1)(m) and (n) and, if so, the amount thereof and the date on which any such contribution was levied;
+(ii) whether there is any amount unpaid of any contribution determined under section 48(1)(m) and (n) and, if so, the amount thereof and the date on which any such contribution was levied;
 
-(iii) whether there is any amount unpaid of any contribution levied under section 39 and, if so, the amount thereof and the date on which it was levied;
+(iii) whether there is any amount unpaid of any contribution levied under section 42 and, if so, the amount thereof and the date on which it was levied;
 
-(iv) whether there is any amount recoverable from the subsidiary proprietor of that lot under section 42 and, if so, the amount thereof; and
+(iv) whether there is any amount recoverable from the subsidiary proprietor of that lot under section 45 and, if so, the amount thereof; and
 
-(v) any interest payable under section 39(6) in respect of any unpaid contribution referred to in that subsection.
+(v) any interest payable under section 42(9)(b) in respect of any unpaid contribution referred to in that subsection.
 
-(2) Where an applicant and a management corporation fail to reach an agreement referred to in subsection (1)(b) within 7 days after the receipt of the application by the management corporation, the management corporation shall forthwith send by post to the applicant a notice fixing a time, specified in the notice, between nine o’clock in the morning and six o’clock in the evening on a date so specified, being a date not later than 21 days after the receipt of the application by the management corporation for the making of the inspection referred to in subsection (1)(b).
+[16/87]
 
-(3) In favour of a donee of or a person taking for valuable consideration an estate or interest in any lot, a certificate given under subsection (1)(c) by a management corporation in respect of that lot shall be conclusive evidence, as at the date of the certificate, of the matters stated therein.
+(2) Where an applicant and a management corporation fail to reach an agreement referred to in subsection (1)(b) within 7 days after the receipt of the application by the management corporation, the management corporation shall forthwith send by post to the applicant a notice fixing a time, specified in the notice, between 9 a.m. and 6 p.m. on a date so specified, being a date not later than 21 days after the receipt of the application by the management corporation for the making of the inspection referred to in that subsection.
+
+(3) In favour of a donee of, or a person taking for valuable consideration, an estate or interest in any lot, a certificate given under subsection (1)(c) by a management corporation in respect of that lot shall be conclusive evidence, as at the date of the certificate, of the matters stated therein.
 
 (4) A management corporation which fails to provide the information referred to in subsection (1)(a) and a certificate referred to in subsection (1)(c) within 14 days after receipt by it of the application for the information or the certificate shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
 (5) A person entitled to inspect a document made available under subsection (1)(b) may take extracts from, or make a copy of, the document but may not, without the consent of the management corporation, remove the document from the custody of the management corporation for the purpose of inspecting the document, taking extracts therefrom or making a copy thereof.
 
-[Act 16 of 1987 wef 01/12/1987]
+[51
 
 ### Management corporation to display notice, etc.
 
-52\. The management corporation shall —
+55\. The management corporation shall —
 
 (a) display at a conspicuous place within the common property a notice showing the name of the management corporation and its address for service of notices; and
 
 (b) cause to be constructed and maintained at or near the street alignment of the parcel a receptacle suitable for the receipt of mail or other documents with the name of the management corporation clearly shown thereon.
 
-[Act 16 of 1987 wef 01/12/1987]
+[52
+
+[16/87]
 
 ### Accounts of management corporation to be audited
 
-53\.—(1) At least once in each year the accounts of a management corporation shall be examined by an auditor who shall state in his report whether the accounts are in his opinion properly drawn up so as to give a true and fair view of the income and expenditure of the management corporation and of the management corporation’s affairs.
+56\.—(1) At least once in each year the accounts of a management corporation shall be examined by an auditor who shall state in his report whether the accounts are in his opinion properly drawn up so as to give a true and fair view of the income and expenditure of the management corporation and of the management corporation’s affairs.
+
+[16/87]
 
 (2) The auditor shall be appointed at each annual general meeting of the management corporation and shall hold office until the conclusion of the next annual general meeting of the management corporation.
 
 (3) At any time before the first annual general meeting of a management corporation, the council of the management corporation shall appoint the auditor of the management corporation and any auditor so appointed shall hold office until the conclusion of the first annual general meeting.
 
-(4) No person shall be appointed as an auditor of a management corporation unless he is an approved company auditor under the Companies Act (Cap. 50).
+(4) No person shall be appointed as an auditor of a management corporation unless he is an approved company auditor under the Companies Act [Cap. 50].
 
 (5) A management corporation shall permit the Commissioner or any person authorised by him to act on his behalf at all reasonable times full and free access to its accounting and other records and permit the Commissioner or such person to make copies of or make extracts from any such accounting or other records.
 
@@ -1702,7 +1726,7 @@ at such time and place as may be agreed upon by the applicant or his agent and t
 
 (b) in respect of a financial year if during the entire duration of that financial year there are not more than 4 subsidiary proprietors.
 
-[Act 16 of 1987 wef 01/12/1987]
+[[53]
 
 Division 2 —
 
@@ -1710,7 +1734,7 @@ Subsidiary Proprietors and other Occupiers of Lots
 
 ### Duties of subsidiary proprietors and other occupiers of lots
 
-54\. A subsidiary proprietor, mortgagee in possession (whether by himself or any other person), lessee or occupier of a lot shall not —
+57\. A subsidiary proprietor, mortgagee in possession (whether by himself or any other person), lessee or occupier of a lot shall not —
 
 (a) do anything or permit anything to be done on or in relation to that lot so that —
 
@@ -1722,23 +1746,27 @@ Subsidiary Proprietors and other Occupiers of Lots
 
 (c) use or enjoy the common property in such a manner or for such a purpose as to interfere unreasonably with the use or enjoyment of the common property by the occupier of any other lot (whether that person is a subsidiary proprietor or not) or by any other person entitled to the use and enjoyment of the common property.
 
-[Act 16 of 1987 wef 01/12/1987]
+[54
 
 ### Power for individuals to act for companies who are subsidiary proprietors and mortgagees of lots
 
-55\.—(1) A company may, and shall be deemed always to have been able to, authorise an individual to exercise or perform on its behalf any power, authority, duty or function conferred by or under this Act on the company as subsidiary proprietor or mortgagee of a lot and may revoke the authority of any individual so authorised.
+58\.—(1) A company may, and shall be deemed always to have been able to, authorise an individual to exercise or perform on its behalf any power, duty or function conferred by this Act on the company as subsidiary proprietor or mortgagee of a lot and may revoke the authority of any individual so authorised.
 
-(2) Where an individual exercises or performs a power, authority, duty or function that he is, by a subsidiary proprietor or mortgagee of a lot, authorised pursuant to subsection (1) to exercise or perform, the power, authority, duty or function shall be deemed to be exercised or performed by the subsidiary proprietor or mortgagee, as the case may be, of the lot.
+[16/87]
 
-(3) Nothing in subsection (1) or (2) shall affect any liability or obligation imposed by or under this Act on a corporation which is a subsidiary proprietor or mortgagee of a lot.
+(2) Where an individual exercises or performs a power, duty or function that he is, by a subsidiary proprietor or mortgagee of a lot, authorised pursuant to subsection (1) to exercise or perform, the power, duty or function shall be deemed to be exercised or performed by the subsidiary proprietor or mortgagee, as the case may be, of the lot.
+
+(3) Nothing in subsection (1) or (2) shall affect any liability or obligation imposed under this Act on a corporation which is a subsidiary proprietor or mortgagee of a lot.
 
 (4) A document under the seal of a subsidiary proprietor which is a body corporate purporting to be an authorisation under subsection (1) or to be a revocation of such an authorisation is admissible in evidence and shall, unless the contrary is proved, be deemed to be such an authorisation or revocation, as the case may be.
 
-[Act 16 of 1987 wef 01/12/1987]
+[55
 
 ### Notices to be given by subsidiary proprietors and mortgagees
 
-56\.—(1) A subsidiary proprietor or any person who, under this section, has given to the management corporation notice of an address for the service of notices on him shall give notice in writing to the management corporation of any change of address for the service of notices on him.
+59\.—(1) A subsidiary proprietor or any person who, under this section, has given to the management corporation notice of an address for the service of notices on him shall give notice in writing to the management corporation of any change of address for the service of notices on him.
+
+[16/87]
 
 (2) Upon the delivery of a transfer of an estate or interest in a lot pursuant to completion of a sale of that lot by its registered subsidiary proprietor to the purchaser or his nominee, or by way of gift to a donee, the registered subsidiary proprietor shall within 10 days thereof give to the management corporation written notice of the transfer which shall identify the lot and —
 
@@ -1770,9 +1798,9 @@ Subsidiary Proprietors and other Occupiers of Lots
 
 (7) After the entry into possession of a lot by a mortgagee, the mortgagee shall give to the management corporation written notice which shall identify the lot and specify the date on which he entered into possession.
 
-(8) Where a management corporation has reason to believe that a person is required, under this section, to give a notice to it and the management corporation has not received that notice, the management corporation may serve a notice on that person specifying the capacity in which it believes he is obliged to give the notice and requiring him —
+(8) Where a management corporation has reason to believe that a person is required under this section to give a notice to it and the management corporation has not received that notice, the management corporation may serve a notice on that person specifying the capacity in which it believes he is obliged to give the notice and requiring him —
 
-(a) to state, within 14 days, whether or not he is a person obliged to give a notice in that capacity; and
+(a) to state within 14 days whether or not he is a person obliged to give a notice in that capacity; and
 
 (b) if he is such a person, to give that notice.
 
@@ -1782,7 +1810,7 @@ Subsidiary Proprietors and other Occupiers of Lots
 
 (11) A notice referred to in subsection (10) may be included in any other notice that the subsidiary proprietor to which it relates or any other person is entitled under this section to give to the management corporation.
 
-[Act 16 of 1987 wef 01/12/1987]
+[56
 
 Division 3 —
 
@@ -1790,7 +1818,9 @@ Councils
 
 ### Council of a management corporation
 
-57\.—(1) Subject to this section, every management corporation shall have a council which shall consist of such number of members as may be determined by the management corporation in general meeting but the total number of members shall not exceed 14.
+60\.—(1) Subject to this section, every management corporation shall have a council which shall consist of such number of members as may be determined by the management corporation in general meeting but the total number of members shall not exceed 14.
+
+[16/87]
 
 (2) The members of the council shall be elected at each annual general meeting.
 
@@ -1798,7 +1828,7 @@ Councils
 
 (a) the first annual general meeting has not yet been held; or
 
-(b) there are not more than three subsidiary proprietors,
+(b) there are not more than 3 subsidiary proprietors,
 
 the council shall consist of each subsidiary proprietor, if any, who is an individual and the nominee of each subsidiary proprietor, if any, who is a company.
 
@@ -1816,15 +1846,15 @@ the council shall consist of each subsidiary proprietor, if any, who is an indiv
 
 (7) A subsidiary proprietor who owns two or more lots in a subdivided building and is a candidate or has nominated an individual as a candidate for election as a member of a council shall not be entitled to nominate any other individual for election as a member of a council.
 
-(8) Where there is no council of a management corporation, the subdivided building shall be administered by the management corporation but nothing in this subsection shall prevent a managing agent appointed under this Act from exercising or performing any powers, authorities, duties or functions conferred or imposed upon him.
+(8) Where there is no council of a management corporation, the subdivided building shall be administered by the management corporation but nothing in this subsection shall prevent a managing agent appointed under this Act from exercising or performing any powers, duties or functions conferred or imposed upon him.
 
 (9) The Second Schedule shall have effect with respect to the proceedings of the council.
 
-[Act 16 of 1987 wef 01/12/1987]
+[57
 
 ### Vacation of office of member of council
 
-58\.—(1) A person who is a member of a council shall vacate his office as such a member —
+61\.—(1) A person who is a member of a council shall vacate his office as such a member —
 
 (a) if, where he was a subsidiary proprietor at the time of his appointment or election, he ceases to be a subsidiary proprietor;
 
@@ -1840,17 +1870,21 @@ the council shall consist of each subsidiary proprietor, if any, who is an indiv
 
 (e) upon the election of the members of the council at the annual general meeting next following his election as a member of the council;
 
-(f) where he is a member pursuant to section 57(3), upon the election of the members of the council at a general meeting; or
+(f) where he is a member pursuant to section 60(3), upon the election of the members of the council at a general meeting; or
 
 (g) if the management corporation by ordinary resolution removes him from his office.
 
+[16/87]
+
 (2) Upon the occurrence of a vacancy in the office of a member of a council, otherwise than by reason of subsection (1)(e) or (f), the council may appoint a subsidiary proprietor or the nominee of a subsidiary proprietor who is a company as a member of the council to fill the vacancy, and any person so appointed shall hold office for the balance of his predecessor’s term of office.
 
-[Act 16 of 1987 wef 01/12/1987]
+[58
 
 ### Chairman, secretary and treasurer of council
 
-59\.—(1) Where the chairman, secretary and treasurer of the council have not been appointed by the management corporation at its annual general meeting, the members of the council shall, at the first meeting of the council after they assume office as such members, appoint the chairman, secretary and treasurer of the council.
+62\.—(1) Where the chairman, the secretary and the treasurer of the council have not been appointed by the management corporation at its annual general meeting, the members of the council shall, at the first meeting of the council after they assume office as such members, appoint the chairman, secretary and treasurer of the council.
+
+[16/87]
 
 (2) A person —
 
@@ -1868,7 +1902,7 @@ the council shall consist of each subsidiary proprietor, if any, who is an indiv
 
 whichever first happens.
 
-(4) Notwithstanding anything contained in this Act, a person appointed to an office referred to in subsection (1) shall not resign or vacate his office until another person is appointed by the council or by the management corporation in general meeting to hold that office and any purported resignation or vacation of office in breach of this subsection shall be deemed to be invalid.
+(4) Notwithstanding anything in this Act, a person appointed to an office referred to in subsection (1) shall not resign or vacate his office until another person is appointed by the council or by the management corporation in general meeting to hold that office and any purported resignation or vacation of office in breach of this subsection shall be deemed to be invalid.
 
 (5) Subsection (4) shall not apply where a member of the council is required to resign or vacate his office —
 
@@ -1880,21 +1914,23 @@ whichever first happens.
 
 (a) a member of the management corporation or of the council and is the treasurer of the management corporation or of the council;
 
-(b) a managing agent who is empowered to exercise or perform that power, authority, duty or function; or
+(b) a managing agent who is empowered to exercise or perform those powers, duties or functions; or
 
-(c) a person with whom the treasurer of the management corporation is required by an order of the council to exercise or perform jointly that power, duty or function, and who is enabling the treasurer to comply with the order.
+(c) a person with whom the treasurer of the management corporation is required by an order of the council to exercise or perform jointly those powers, duties or functions, and who is enabling the treasurer to comply with the order.
 
 (7) The treasurer of a management corporation may delegate the exercise or performance of any of his powers (other than this power of delegation), duties or functions as treasurer, the delegation of which is specifically approved by the council of the management corporation, to another member of the council so approved, subject to such limitations as to time or otherwise as are so approved and, while a delegate is acting in accordance with the terms of a delegation under this subsection, he shall be deemed to be the treasurer of the management corporation.
 
 (8) The council of a management corporation may, by a notice in writing served on the treasurer of the management corporation, order that he shall not exercise or perform any of his powers, duties or functions that are specified in the notice, unless he does so jointly with another person so specified.
 
-(9) Any person who contravenes subsection (6) or fails to comply with the notice of a council issued pursuant to subsection (8) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and to a further fine not exceeding $100 for each day during which the offence continues after conviction.
+(9) Any person who contravenes subsection (6) or fails to comply with the notice of a council issued pursuant to subsection (8) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and to a further fine not exceeding $100 for every day during which the offence continues after conviction.
 
-[Act 16 of 1987 wef 01/12/1987]
+[59
 
 ### Council’s decisions to be decisions of management corporation
 
-60\.—(1) Subject to the provisions of this Act, the decision of a council on any matter, other than a restricted matter, shall be the decision of the management corporation.
+63\.—(1) Subject to the provisions of this Act, the decision of a council on any matter, other than a restricted matter, shall be the decision of the management corporation.
+
+[16/87]
 
 (2) Notwithstanding that a council holds office, the management corporation may in general meeting continue to exercise or perform all or any of the powers, duties and functions conferred or imposed on the management corporation by this Act or the by-laws.
 
@@ -1902,21 +1938,23 @@ whichever first happens.
 
 (4) For the purposes of subsection (1), “restricted matter”, in relation to a council, means —
 
-(a) any matter a decision on which may, in accordance with any provision of this Act or the by-laws, only be made by the management corporation pursuant to a unanimous resolution or a special resolution or in general meeting of the management corporation; and
+(a) any matter a decision on which may, in accordance with any provision of this Act or the by-laws, only be made by the management corporation pursuant to a unanimous resolution or a special resolution in general meeting of the management corporation; and
 
-(b) any matter referred to in section 61 and specified in a resolution of that management corporation passed for the purposes of that section.
+(b) any matter referred to in section 64 and specified in a resolution of that management corporation passed for the purposes of that section.
 
-[Act 16 of 1987 wef 01/12/1987]
+[60
 
 ### Restrictions imposed on council by management corporation
 
-61\. A management corporation may in general meeting decide what matters or class of matters, if any, shall be determined only by the management corporation in general meeting.
+64\. A management corporation may in general meeting decide what matters or class of matters, if any, shall be determined only by the management corporation in general meeting.
 
-[Act 16 of 1987 wef 01/12/1987]
+[61
+
+[16/87]
 
 ### Records, etc., of management corporation
 
-62\.—(1) A person who has possession or control of —
+65\.—(1) A person who has possession or control of —
 
 (a) any records, books of account or keys belonging to a management corporation;
 
@@ -1926,19 +1964,23 @@ whichever first happens.
 
 shall, within 7 days after service on him of notice of a resolution of the council requiring him to do so, deliver those records, books of account and keys and that strata roll and other property to a member of the council specified in the notice.
 
+[16/87]
+
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
-[Act 16 of 1987 wef 01/12/1987]
+[62
 
 ### Disclosure of interests in contracts, property, officers, etc.
 
-63\.—(1) Subject to this section, every member of a council who is in any way, whether directly or indirectly, interested in a contract or proposed contract with the management corporation shall as soon as practicable after the relevant facts have come to his knowledge declare the nature of his interest at a meeting of the council.
+66\.—(1) Subject to this section, every member of a council who is in any way, whether directly or indirectly, interested in a contract or proposed contract with the management corporation shall as soon as practicable after the relevant facts have come to his knowledge declare the nature of his interest at a meeting of the council.
+
+[16/87]
 
 (2) The requirements of subsection (1) shall not apply in any case where the interest of the member of a council consists only of being a member or creditor of a company which is interested in a contract or proposed contract with the management corporation if the interest of the member may properly be regarded as not being a material interest.
 
-(3) For the purposes of subsection (1), a general notice given to the members of a council by a member to the effect that he is an officer or member of a specified company or a member of a specified firm and is to be regarded as interested in any contract which may, after the date of the notice be made with that company or firm shall be deemed to be a sufficient declaration of interest in relation to any contract so made if it specifies the nature and extent of his interest in the specified company or firm and his interest is not different in nature or greater in extent than the nature and extent so specified in the general notice at the time any contract is so made, but no such notice shall be of effect unless either it is given at a meeting of the council or the member takes reasonable steps to ensure that it is brought up and read at the next meeting of the council after it is given.
+(3) For the purposes of subsection (1), a general notice given to the members of a council by a member to the effect that he is an officer or member of a specified company or a member of a specified firm and is to be regarded as interested in any contract which may, after the date of the notice, be made with that company or firm shall be deemed to be a sufficient declaration of interest in relation to any contract so made if it specifies the nature and extent of his interest in the specified company or firm and his interest is not different in nature or greater in extent than the nature and extent so specified in the general notice at the time any contract is so made, but no such notice shall be of effect unless either it is given at a meeting of the council or the member takes reasonable steps to ensure that it is brought up and read at the next meeting of the council after it is given.
 
-(4) Every member of a council who holds any office or possesses any property whereby whether directly or indirectly duties or interests might be created in conflict with his duties or interests as a member of the council shall declare at a meeting of the council the fact and the nature, character and extent of the conflict.
+(4) Every member of a council who holds any office or possesses any property whereby, whether directly or indirectly, duties or interests might be created in conflict with his duties or interests as a member of the council shall declare at a meeting of the council the fact and the nature, character and extent of the conflict.
 
 (5) The declaration shall be made at the first meeting of the council held —
 
@@ -1956,11 +1998,13 @@ as the case requires.
 
 (9) Any member of a council who fails to comply with any of the provisions of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year.
 
-[Act 16 of 1987 wef 01/12/1987]
+[63
 
 ### Duty and liability of council members and officers
 
-64\.—(1) A member of a council shall at all times act honestly and use reasonable diligence in the discharge of the duties of his office.
+67\.—(1) A member of a council shall at all times act honestly and use reasonable diligence in the discharge of the duties of his office.
+
+[16/87]
 
 (2) A member of a council, or an officer or agent or a managing agent, of a management corporation shall not use his position as a member of the council or as an officer, agent or managing agent of the management corporation to gain, directly or indirectly, an advantage for himself or for any other person or to cause detriment to the management corporation.
 
@@ -1978,7 +2022,7 @@ as the case requires.
 
 “agent” includes a banker, solicitor or auditor of the management corporation and any person who at any time has been a banker, solicitor or auditor of the management corporation.
 
-[Act 16 of 1987 wef 01/12/1987]
+[64
 
 Division 4 —
 
@@ -1986,7 +2030,7 @@ Managing Agents
 
 ### Managing agent
 
-65\.—(1) Subject to subsection (4), a management corporation may, by a resolution passed at a general meeting, appoint a managing agent and may, by instrument in writing, delegate to him —
+68\.—(1) Subject to subsection (4), a management corporation may, by a resolution passed at a general meeting, appoint a managing agent and may, by instrument in writing, delegate to him —
 
 (a) all of its powers, duties and functions;
 
@@ -1998,7 +2042,9 @@ and any managing agent so appointed shall hold office until the conclusion of th
 
 Provided that a managing agent who is in any way, whether directly or indirectly, related to a subsidiary proprietor of a lot in the subdivided building concerned shall, prior to his appointment, declare the nature of his relationship at the annual general meeting.
 
-(2) A managing agent who retires from office shall be eligible for re-appointment.
+[16/87]
+
+(2) A managing agent who retires from office shall be eligible for reappointment.
 
 (3) Any managing agent appointed by a management corporation may at any time be removed from office by a resolution of the management corporation passed at a general meeting of which notice has been given for that purpose.
 
@@ -2020,11 +2066,11 @@ Provided that a managing agent who is in any way, whether directly or indirectly
 
 (10) The fees and expenses of a managing agent shall be fixed by the management corporation in a general meeting or, if so authorised by the subsidiary proprietors at the last preceding general meeting, by the council of the management corporation.
 
-[Act 16 of 1987 wef 01/12/1987]
+[65
 
 ### Delegated duty-liability of managing agent
 
-66\. Where —
+69\. Where —
 
 (a) a contravention by a management corporation of a provision of this Act that imposes a duty on the management corporation is an offence under this Act; and
 
@@ -2032,7 +2078,9 @@ Provided that a managing agent who is in any way, whether directly or indirectly
 
 the provision shall, while the delegation remains in force, be construed as if a reference therein to the management corporation were a reference to the managing agent.
 
-[Act 16 of 1987 wef 01/12/1987]
+[66
+
+[16/87]
 
 Division 5 —
 
@@ -2040,9 +2088,9 @@ Insurance
 
 ### Interpretation
 
-67\. In this Division —
+70\. In this Division —
 
-“damage policy”, in relation to a subdivided building, means a contract of insurance providing, in the event of the subdivided building being destroyed or damaged by fire, lightning, explosion or any other occurrence specified in the policy, —
+“damage policy”, in relation to a subdivided building, means a contract of insurance providing, in the event of the subdivided building being destroyed or damaged by fire, lightning, explosion or any other occurrence specified in the policy —
 
 (a) for —
 
@@ -2068,25 +2116,31 @@ but does not include —
 
 (e) anything prescribed as not forming part of a subdivided building for the purposes of this definition.
 
-[Act 16 of 1987 wef 01/12/1987]
+[67
+
+[16/87]
 
 ### Insurance of subdivided buildings
 
-68\.—(1) Unless otherwise directed by a resolution which has been approved in writing by all the subsidiary proprietors entitled to vote at a general meeting of a management corporation, the management corporation shall insure the subdivided building and keep the building insured under a damage policy.
+71\.—(1) Unless otherwise directed by a resolution which has been approved in writing by all the subsidiary proprietors entitled to vote at a general meeting of a management corporation, the management corporation shall insure the subdivided building and keep the building insured under a damage policy.
 
-(2) A damage policy may provide that, instead of the work and the payments specified in the definition of “damage policy” in section 67 being carried out or made upon the occurrence of any of the events specified in that definition, the liability of the insurer shall, upon the occurrence of any such event, be limited to an amount specified in the policy that is not less than an amount calculated in the prescribed manner.
+[16/87]
 
-[Act 16 of 1987 wef 01/12/1987]
+(2) A damage policy may provide that, instead of the work and the payments specified in the definition of “damage policy” in section 70 being carried out or made upon the occurrence of any of the events specified in that definition, the liability of the insurer shall, upon the occurrence of any such event, be limited to an amount specified in the policy that is not less than an amount calculated in the prescribed manner.
+
+[68
 
 ### Further insurance by management corporation
 
-69\.—(1) In addition to insurance effected by a management corporation pursuant to section 68, the management corporation shall effect insurance —
+72\.—(1) In addition to insurance effected by a management corporation pursuant to section 71, the management corporation shall effect insurance —
 
-(a) in respect of any occurrence against which it is required by law to insure, including any insurance required to be effected by reason of the provisions of the Workmen’s Compensation Act (Cap. 354);
+(a) in respect of any occurrence against which it is required by law to insure, including any insurance required to be effected by reason of the provisions of the Workmen’s Compensation Act [Cap. 354];
 
 (b) in respect of damage to property, death or bodily injury occurring upon the common property for which the management corporation could become liable in damages; and
 
 (c) against the possibility of the subsidiary proprietors becoming jointly liable by reason of a claim arising in respect of any other occurrence against which the management corporation pursuant to a special resolution decides to insure.
+
+[16/87]
 
 (2) Insurance effected pursuant to subsection (1)(b) shall be for a cover of such amount as the management corporation determines that is not less than an amount prescribed by the regulations.
 
@@ -2100,19 +2154,21 @@ but does not include —
 
 (7) Where an insurer of a management corporation admits a claim by the management corporation based on an act or omission by a subsidiary proprietor who is a member of the management corporation, the insurer shall not have a right of subrogation in relation to the subsidiary proprietor based on that act or omission unless it was proved that the act or omission is wilful.
 
-[Act 16 of 1987 wef 01/12/1987]
+[69
 
 ### Insurance by subsidiary proprietor
 
-70\.—(1) Nothing in this Part shall limit or affect any right of a subsidiary proprietor to effect insurance.
+73\.—(1) Nothing in this Part shall limit or affect any right of a subsidiary proprietor to effect insurance.
 
-(2) Insurance effected by a subsidiary proprietor shall not affect, and shall not be taken into consideration in determining, the amount payable to a management corporation under a contract of insurance entered into between it and an insurer pursuant to this Part, notwithstanding anything contained in that contract of insurance.
+[16/87]
 
-[Act 16 of 1987 wef 01/12/1987]
+(2) Insurance effected by a subsidiary proprietor shall not affect, and shall not be taken into consideration in determining, the amount payable to a management corporation under a contract of insurance entered into between it and an insurer pursuant to this Part, notwithstanding anything in that contract of insurance.
+
+[70
 
 ### Insurance of mortgaged lot
 
-71\.—(1) A contract of insurance may be entered into by a subsidiary proprietor in respect of damage to his lot in a sum equal to the amount secured at the date of the contract by mortgages of and charges affecting his lot and where such a contract is in force —
+74\.—(1) A contract of insurance may be entered into by a subsidiary proprietor in respect of damage to his lot in a sum equal to the amount secured at the date of the contract by mortgages of and charges affecting his lot and where such a contract is in force —
 
 (a) subject to the terms and conditions of the contract —
 
@@ -2122,7 +2178,9 @@ but does not include —
 
 (b) where the amount so paid by the insurer equals the amount necessary to discharge a mortgage of the lot, the insurer shall be entitled to an assignment of the mortgage; and
 
-(c) where the amount so paid by the insurer is less than the amount necessary to discharge a mortgage of the lot, the insurer shall be entitled to a sub-mortgage of that mortgage to secure the amount so paid on terms and conditions agreed upon as provided in subsection (2) or, failing agreement, on the same terms and conditions contained in the mortgage by the subsidiary proprietor.
+(c) where the amount so paid by the insurer is less than the amount necessary to discharge a mortgage of the lot, the insurer shall be entitled to a sub-mortgage of that mortgage to secure the amount so paid on terms and conditions agreed upon as provided in subsection (2) or, failing agreement, on the same terms and conditions as those contained in the mortgage.
+
+[16/87]
 
 (2) For the purposes of subsection (1)(c), any insurer and mortgagee may at any time, whether before or after a contract of insurance referred to in subsection (1) has been entered into by a subsidiary proprietor, agree upon the terms and conditions of the sub-mortgage.
 
@@ -2134,19 +2192,23 @@ but does not include —
 
 as that referred to in the contract of insurance first-mentioned in this subsection.
 
-[Act 16 of 1987 wef 01/12/1987]
+[71
 
 ### Rebuilding
 
-72\. Subject to any order made under section 74 or 75, where a management corporation receives payment of moneys from an insurer in respect of destruction of or damage to a subdivided building, those moneys shall forthwith be applied by the management corporation in rebuilding, replacing, repairing or restoring the subdivided building, as the case may require.
+75\. Subject to any order made under section 77 or 78, where a management corporation receives payment of moneys from an insurer in respect of destruction of or damage to a subdivided building, those moneys shall forthwith be applied by the management corporation in rebuilding, replacing, repairing or restoring the subdivided building, as the case may require.
 
-[Act 16 of 1987 wef 01/12/1987]
+[72
+
+[16/87]
 
 ### Insurable interest of management corporation
 
-73\. A management corporation shall be deemed to have an insurable interest in the subject-matter of any contract of insurance entered into by it pursuant to this Act.
+76\. A management corporation shall be deemed to have an insurable interest in the subject-matter of any contract of insurance entered into by it pursuant to this Act.
 
-[Act 16 of 1987 wef 01/12/1987]
+[73
+
+[16/87]
 
 ## PART V
 
@@ -2159,7 +2221,7 @@ STRATA SUBDIVISION SCHEME
 
 ### Variation of strata subdivision scheme consequent upon damage to or destruction of subdivided building
 
-74\.—(1) Where a subdivided building is damaged or destroyed —
+77\.—(1) Where a subdivided building is damaged or destroyed —
 
 (a) any subsidiary proprietor of a lot in the subdivided building;
 
@@ -2169,7 +2231,9 @@ STRATA SUBDIVISION SCHEME
 
 may make an application to the court for an order under subsection (4).
 
-(2) Notice of an application under subsection (1) shall be served, in accordance with the rules of court, on —
+[16/87]
+
+(2) Notice of an application under subsection (1) shall be served, in accordance with the Rules of Court, on —
 
 (a) every person referred to in subsection (1), other than the applicant;
 
@@ -2203,19 +2267,19 @@ may make an application to the court for an order under subsection (4).
 
 (7) An order made under subsection (4) shall have effect according to its tenor.
 
-(8) Where the court is of the opinion that an order should not be made under subsection (4), it may, upon application made by any person entitled to appear and be heard on the hearing of the application made under subsection (1) or of its own motion, direct that the application be treated as an application for an order under section 75; and where it makes such a direction —
+(8) Where the court is of the opinion that an order should not be made under subsection (4), it may, upon application made by any person entitled to appear and be heard on the hearing of the application made under subsection (1) or of its own motion, direct that the application be treated as an application for an order under section 78; and where it makes such a direction —
 
-(a) the application the subject of the direction shall be deemed to be made under section 75 by a person entitled to make the application; and
+(a) the application, the subject of the direction, shall be deemed to be made under that section by a person entitled to make the application; and
 
-(b) the applicant under subsection (1), as well as any other person entitled to appear and be heard under section 75, is entitled to appear and be heard on the hearing of the application.
+(b) the applicant under subsection (1), as well as any other person entitled to appear and be heard under that section, is entitled to appear and be heard on the hearing of the application.
 
 (9) The court may, from time to time, vary any order made under subsection (4) on the application of any person entitled to appear and be heard on the hearing of the application for that order.
 
-[Act 16 of 1987 wef 01/12/1987]
+[74
 
-### Termination of strata subdivision scheme by the court
+### Termination of strata subdivision scheme by court
 
-75\.—(1) An application to the court for an order for the termination of the strata subdivision of a subdivided building and the cancellation of the strata title plan registered under this Act may be made by —
+78\.—(1) An application to the court for an order for the termination of the strata subdivision of a subdivided building and the cancellation of the strata title plan registered under this Act may be made by —
 
 (a) any subsidiary proprietor of a lot in the subdivided building;
 
@@ -2231,7 +2295,9 @@ and the court on being satisfied that it is just and equitable that the strata s
 
 (iii) the rights and interests of the subsidiary proprietors as a whole.
 
-(2) Notice of an application under subsection (1) shall be served, in accordance with the rules of court, on —
+[16/87]
+
+(2) Notice of an application under subsection (1) shall be served, in accordance with the Rules of Court, on —
 
 (a) every person referred to in subsection (1), other than the applicant;
 
@@ -2257,13 +2323,13 @@ and the court on being satisfied that it is just and equitable that the strata s
 
 (d) the distribution of the assets of the management corporation and the proportionate entitlement of each person under that distribution;
 
-(e) the administration, powers, authorities, duties and functions of the management corporation;
+(e) the administration, powers, duties and functions of the management corporation;
 
 (f) the voting power at meetings of the management corporation of persons referred to in paragraph (c) or (d);
 
 (g) any matter in respect of which it is, in the opinion of the court, just and equitable, in the circumstances of the case, to make provision in the order; and
 
-(h) the winding up of the management corporation (including the appointment, powers, authorities, duties and functions of any person to carry out the winding up).
+(h) the winding up of the management corporation (including the appointment, powers, duties and functions of any person to carry out the winding up).
 
 (6) Upon an order under this section taking effect —
 
@@ -2273,39 +2339,45 @@ and the court on being satisfied that it is just and equitable that the strata s
 
 (c) all statutory easements implied under this Act shall cease to affect the registered land comprising the parcel or any part thereof; and
 
-(d) the former subsidiary proprietors shall have the power to transfer their interests and estates in the parcel of any part thereof.
+(d) the former subsidiary proprietors shall have the power to transfer their interests and estates in the parcel or any part thereof.
 
 (7) The provisions of an order made under this section shall have effect notwithstanding any provision of this Act, other than this section.
 
 (8) An order made under subsection (1) shall have effect according to its tenor.
 
-(9) Where the court is of the opinion that an order should not be made under subsection (1), it may, upon application made by any person entitled to appear and be heard on the hearing of the application made under subsection (1) or of its own motion, direct that the application be treated as an application for an order under section 74; and where it makes such a direction —
+(9) Where the court is of the opinion that an order should not be made under subsection (1), it may, upon application made by any person entitled to appear and be heard on the hearing of the application made under subsection (1) or of its own motion, direct that the application be treated as an application for an order under section 77; and where it makes such a direction —
 
-(a) the application the subject of the direction shall be deemed to be an application made under section 74 by a person entitled to make the application; and
+(a) the application the subject of the direction shall be deemed to be an application made under that section by a person entitled to make the application; and
 
-(b) the applicant under subsection (1), as well as any other person entitled to appear and be heard under section 74, is entitled to appear and be heard on the hearing of the application.
+(b) the applicant under subsection (1), as well as any other person entitled to appear and be heard under that section, is entitled to appear and be heard on the hearing of the application.
 
 (10) The court may, from time to time, vary any order made under subsection (1) on the application of any person who was entitled to appear and be heard on the hearing of the application for that order.
 
-[Act 16 of 1987 wef 01/12/1987]
+[75
 
 ### Interchangeability of notices
 
-76\. Any notice served under section 74 or 75 shall, where it relates to an application which is required to be treated as an application under another of those sections, be deemed to be a notice served under that other section.
+79\. Any notice served under section 77 or 78 shall, where it relates to an application which is required to be treated as an application under another of those sections, be deemed to be a notice served under that other section.
 
-[Act 16 of 1987 wef 01/12/1987]
+[76
 
-### Consequences of making an order under section 74 or 75
+[16/87]
 
-77\.—(1) Upon receipt of a certified or office copy of the minute of an order made under section 74 or 75, the Registrar shall make appropriate entries in the subsidiary strata land register of the effect of the order.
+### Consequences of making an order under section 77 or 78
 
-(2) Where, pursuant to the receipt of a certified or office copy of the minute of an order made under section 75, the Registrar has made entries in accordance with subsection (1), the Registrar shall, as soon as practicable after making the entries, cancel each folio of the subsidiary strata land register which evidences title to a lot the subject of the strata title plan.
+80\.—(1) Upon receipt of a certified or office copy of the minute of an order made under section 77 or 78, the Registrar shall make appropriate entries in the subsidiary strata land-register of the effect of the order.
 
-[Act 16 of 1987 wef 01/12/1987]
+[16/87]
+
+(2) Where, pursuant to the receipt of a certified or office copy of the minute of an order made under section 78, the Registrar has made entries in accordance with subsection (1), the Registrar shall, as soon as practicable after making the entries, cancel each folio of the subsidiary strata land-register which evidences title to a lot the subject of the strata title plan.
+
+[77
 
 ### Termination of strata subdivision scheme by management corporation
 
-78\.—(1) A management corporation of a subdivided building shown on a strata title plan may by a resolution which has been voted in favour by all the persons entitled to vote at a general meeting of a management corporation resolve that the strata subdivision of the building be terminated.
+81\.—(1) A management corporation of a subdivided building shown on a strata title plan may by a resolution which has been voted in favour by all the persons entitled to vote at a general meeting of a management corporation resolve that the strata subdivision of the building be terminated.
+
+[16/87]
 
 (2) A management corporation shall —
 
@@ -2329,7 +2401,7 @@ and the court on being satisfied that it is just and equitable that the strata s
 
 (7) The management corporation, if it is satisfied that the resolution was duly passed and that all persons having registered interests in the parcel have consented in writing to the release of their respective interests in the registered land comprising the parcel or any part thereof, intended to be transferred, shall execute the appropriate transfer, and the transfer shall be valid and effective without execution by any person having a registered interest in the parcel, and the receipt of the management corporation for any moneys payable to the management corporation under the transfer shall be a sufficient discharge, and shall exonerate the person taking under the transfer from seeing to the application, or being answerable for any loss or misapplication, of the moneys expressed to have been so received.
 
-(8) A transfer executed by the management corporation pursuant to subsection (7) shall not be accepted for registration unless accompanied by a certificate in the prescribed form under the seal of the management corporation that the resolution was duly passed and that all necessary consents were given, and such a certificate shall, in favour of a purchaser of the parcel and in favour of the Registrar, be conclusive evidence of the facts stated therein.
+(8) A transfer executed by the management corporation pursuant to subsection (7) shall not be accepted for registration unless accompanied by a certificate in the prescribed form under the seal of the management corporation that the resolution was duly passed and that all necessary consents were given, in favour of a purchaser of the parcel and in favour of the Registrar, and such a certificate shall be conclusive evidence of the facts stated therein.
 
 (9) When registered land or any part thereof is transferred by a former subsidiary proprietor or the management corporation after a notice of a resolution referred to in subsection (1) has been lodged with the Registrar —
 
@@ -2341,9 +2413,9 @@ and the court on being satisfied that it is just and equitable that the strata s
 
 (10) Notwithstanding the termination of a strata subdivision under this section, the relevant record of the subsidiary strata land-register may be used in evidence as a record of matters relating to the subdivision before its termination so long as the management corporation continues in existence.
 
-(11) Where a transfer of the parcel made pursuant to subsection (5) has been lodged with and registered by the Registrar, the management corporation shall continue in existence for the purpose of winding up its affairs.
+(11) Where a transfer of the parcel made pursuant to subsection (7) has been lodged with and registered by the Registrar, the management corporation shall continue in existence for the purpose of winding up its affairs.
 
-(12) Unless and until a liquidator has been appointed by the management corporation for the purpose of carrying out the winding up of the management corporation, the council of the management corporation shall continue to perform the management corporation’s business for the purpose of winding up its affairs.
+(12) Until a liquidator has been appointed by the management corporation for the purpose of carrying out the winding up of the management corporation, the council of the management corporation shall continue to perform the management corporation’s business for the purpose of winding up its affairs.
 
 (13) On a management corporation being wound up —
 
@@ -2351,23 +2423,25 @@ and the court on being satisfied that it is just and equitable that the strata s
 
 (b) the assets of the management corporation, if any, shall be distributed among the former subsidiary proprietors,
 
-in the same proportion as the proportion of contributions which such former subsidiary proprietors would have been liable for in accordance with section 39(2).
+in the same proportion as the proportion of contributions which such former subsidiary proprietors would have been liable for in accordance with section 42(2).
 
-[Act 16 of 1987 wef 01/12/1987]
+[78
 
 ### Liquidators
 
-79\.—(1) Where a management corporation resolves that the strata subdivision of a building be terminated, it shall forthwith in general meeting appoint one or more liquidators for the purpose of winding up the affairs and distributing the assets of the management corporation and may fix the remuneration to be paid to him or them.
+82\.—(1) Where a management corporation resolves that the strata subdivision of a building be terminated, it shall forthwith in general meeting appoint one or more liquidators for the purpose of winding up the affairs and distributing the assets of the management corporation and may fix the remuneration to be paid to him or them.
+
+[16/87]
 
 (2) Where a liquidator has not been appointed for a management corporation pursuant to this section, the court may, on the application of a former subsidiary proprietor, a former mortgagee or a creditor of the management corporation appoint a liquidator for the management corporation.
 
 (3) On the appointment of a liquidator all the powers of the council of the management corporation shall cease and the liquidator shall have the power to carry on the management corporation’s business for the purpose of winding up its affairs.
 
-(4) The management corporation may in general meeting convened by any former subsidiary proprietor by special resolution of which special notice has been given to all the former subsidiary proprietors, former mortgagees, the creditors and the liquidators, remove any liquidator but no such resolution shall be effective to remove a liquidator if the court on the application of the liquidator or a creditor or a former mortgagee has ordered that the liquidator be not removed.
+(4) The management corporation may in general meeting convened by any former subsidiary proprietor by special resolution of which special notice has been given to all the former subsidiary proprietors, former mortgagees, the creditors and the liquidators, remove any liquidator but no such resolution shall be effective to remove a liquidator if the Court on the application of the liquidator or a creditor or a former mortgagee has ordered that the liquidator be not removed.
 
-(5) If a vacancy occurs by death, resignation, removal or otherwise in the office of a liquidator the management corporation in general meeting shall forthwith fill the vacancy by the appointment of a liquidator and fix the remuneration to be paid to him, and for that purpose a general meeting may be convened by any former subsidiary proprietors, or if there were more liquidators than one by the continuing liquidators.
+(5) If a vacancy occurs by death, resignation, removal or otherwise in the office of a liquidator the management corporation in general meeting shall forthwith fill the vacancy by the appointment of a liquidator and fix the remuneration to be paid to him, and for that purpose a general meeting may be convened by any former subsidiary proprietor, or if there were more liquidators than one by the continuing liquidators.
 
-(6) The meeting shall be held in the manner provided by this Act or in such manner as is on application by any former subsidiary proprietor or by the continuing liquidators determined by the court.
+(6) The meeting shall be held in the manner provided by this Act or in such manner as is on application by any former subsidiary proprietor or by the continuing liquidators determined by the Court.
 
 (7) The court may, on the application of a former subsidiary proprietor, a former mortgagee or the liquidator and on being satisfied that the affairs of the management corporation have been wound up, make an order that the liquidator be released and that the management corporation be dissolved and on the expiry of 3 months of the lodging of such order with the Registrar and the Commissioner, the management corporation shall be dissolved.
 
@@ -2375,23 +2449,27 @@ in the same proportion as the proportion of contributions which such former subs
 
 (9) The person on whose application an order of the court under this section is made shall, within 21 days after the making of the order, lodge with the Registrar and with the Commissioner an office copy of the order, and if he fails to do so he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
 
-[Act 16 of 1987 wef 01/12/1987]
+[79
 
 ### Qualifications of liquidator
 
-80\. No person shall be appointed as a liquidator of a management corporation unless he is an approved company auditor under the Companies Act (Cap. 50).
+83\. person shall be appointed as a liquidator of a management corporation unless he is an approved company auditor under the Companies Act [Cap. 50].
 
-[Act 16 of 1987 wef 01/12/1987]
+[80
+
+[16/87]
 
 ### Interpretation
 
-81\. For the purposes of sections 78 and 79 —
+84\. For the purposes of sections 81 and 82 —
 
-“former mortgagee” means a person who, or a body which, immediately before the subdivision of a subdivided building is terminated under this section, was the registered mortgagee of a lot, forming part of the subdivided building;
+“former mortgagee” means a person who, or a body which, immediately before the subdivision of a subdivided building is terminated under this Part, was the registered mortgagee of a lot, forming part of the subdivided building;
 
 “former subsidiary proprietor” means a person who, or a body which, immediately before the subdivision of a subdivided building is terminated under this Part, was the subsidiary proprietor of a lot, forming part of the subdivided building.
 
-[Act 16 of 1987 wef 01/12/1987]
+[81
+
+[16/87]
 
 ## PART VI
 
@@ -2399,105 +2477,131 @@ STRATA TITLES BOARDS
 
 ### Interpretation
 
-82\. In this Part, unless the context otherwise requires —
+85\. In this Part, unless the context otherwise requires —
 
 “Board” means a Strata Titles Board constituted under this Part;
 
 “President” means the President or the Deputy President of the Boards and includes an acting President or acting Deputy President.
 
-[Act 16 of 1987 wef 01/12/1987]
+[82
+
+[16/87]
 
 ### Strata Titles Boards
 
-83\.—(1) There shall be one or more Strata Titles Boards to be presided over by a President or Deputy President to be appointed by the Minister.
+86\.—(1) There shall be one or more Strata Titles Boards to be presided over by a President or Deputy President to be appointed by the Minister.
+
+[16/87]
 
 (2) Except where otherwise provided by this Act, a Board shall, in relation to a dispute of which the Board has cognizance or any other matter with respect to which the Board has jurisdiction under this Act, be constituted by the President or the Deputy President and two members selected by the President for the purposes of the dispute or matter from the panel constituted in accordance with this Part.
 
-(3) No person shall be appointed as the President or the Deputy President of the Board unless he is a qualified person within the meaning of the Legal Profession Act (Cap. 161).
+(3) No person shall be appointed as the President or the Deputy President of the Board unless he is a qualified person within the meaning of the Legal Profession Act [Cap. 161].
 
-[Act 16 of 1987 wef 01/12/1987]
+[83
 
 ### Panel
 
-84\.—(1) For the purpose of enabling the Boards to be constituted in accordance with this Part a panel consisting of 20 persons shall be appointed by the Minister and their names shall be notified in theGazette.
+87\.—(1) For the purpose of enabling the Boards to be constituted in accordance with this Part a panel consisting of 20 persons shall be appointed by the Minister and their names shall be notified in theGazette.
 
-(2) A person shall, subject to subsection (3), be appointed as a member of the panel for a term of two years but shall be eligible for re-appointment:
+[16/87]
 
-Provided that a member of the panel who resigns or whose appointment expires during the course of any proceedings of a Board shall for the purpose of such proceedings and until their determination be deemed to remain a member of the Board.
+(2) A person shall, subject to subsection (3), be appointed as a member of the panel for a term of two years but shall be eligible for reappointment:
 
-(3) The Minister may at any time remove from office a member of the panel and fill any vacancy in its membership.
+(3) Provided that a member of the panel who resigns or whose appointment expires during the course of any proceedings of a Board shall for the purpose of such proceedings and until their determination be deemed to remain a member of the Board.
 
-[Act 16 of 1987 wef 01/12/1987]
+(4) The Minister may at any time remove from office a member of the panel and fill any vacancy in its membership.
+
+[84
 
 ### Continuation of hearing
 
-85\. Where a Board has been constituted in relation to a dispute or matter and before a dispute or matter has been determined, the President or a member constituting the Board has become unable to hear or continue to hear or to determine the dispute or matter or has ceased to be President or a member, as the case may be, whether by death or otherwise, the Board shall be re-constituted in accordance with section 83 and the Board as re-constituted shall hear and determine the dispute or matter or so much of the dispute or matter as has not been determined and in so hearing may have regard to the evidence given, the arguments adduced and any interim order made during the previous hearing.
+88\. Where a Board has been constituted in relation to a dispute or matter and before a dispute or matter has been determined, the President or a member constituting the Board is unable to hear or continue to hear or to determine the dispute or matter or has ceased to be the President or a member of the Board, as the case may be, whether by death or otherwise, the Board shall be reconstituted in accordance with section 86 and the Board as reconstituted shall hear and determine the dispute or matter or so much of the dispute or matter as has not been determined and in so hearing may have regard to the evidence given, the arguments adduced and any interim order made during the previous hearing.
 
-[Act 16 of 1987 wef 01/12/1987]
+[85
+
+[16/87]
 
 ### Protection of members of a Board
 
-86\. A member of a Board shall in the performance of his functions and duties under this Part have the same protection and immunity as a District Judge.
+89\. A member of a Board shall in the performance of his functions and duties under this Part have the same protection and immunity as a District Judge.
 
-[Act 16 of 1987 wef 01/12/1987]
+[86
+
+[16/87]
 
 ### Allowances
 
-87\. A member of a panel who is a member of a Board for the purposes of hearing a dispute or matter may, in respect of each day on which the Board is engaged in the hearing and determining of the dispute or matter, be paid such allowances as may be prescribed by regulations made under this Act.
+90\. A member of a panel who is a member of a Board for the purposes of hearing a dispute or matter may, in respect of each day on which the Board is engaged in the hearing and determining of the dispute or matter, be paid such allowances as may be prescribed by regulations made under this Act.
 
-[Act 16 of 1987 wef 01/12/1987]
+[87
+
+[16/87]
 
 ### Board to carry out its work expeditiously
 
-88\. A Board shall carry out its work expeditiously and shall make a finding or determination within 6 months from the date it is constituted or within such extension of time as may be granted by the Minister.
+91\. A Board shall carry out its work expeditiously and shall make a finding or determination within 6 months from the date it is constituted or within such extension of time as may be granted by the Minister.
 
-[Act 16 of 1987 wef 01/12/1987]
+[88
+
+[16/87]
 
 ### Officers of Boards
 
-89\.—(1) The Minister may appoint such officers and servants of the Board as the Minister may determine.
+92\.—(1) The Minister may appoint such officers and employees of the Board as the Minister may determine.
 
-(2) The remuneration of officers and servants appointed under subsection (1) and such other expenses of the Boards as the Minister may determine shall be paid out of moneys provided by Parliament.
+[16/87]
 
-[Act 16 of 1987 wef 01/12/1987]
+(2) The remuneration of officers and employees appointed under subsection (1) and such other expenses of the Boards as the Minister may determine shall be paid out of moneys provided by Parliament.
 
-### Proceedings of the Board
+[89
 
-90\.—(1) The proceedings of a Board shall be open to the public and minutes of a Board including a note of any oral evidence given before the Board shall be kept by the President of the Board.
+### Proceedings of Board
 
-(2) The proceedings of a Board shall be deemed to be judicial proceedings and the members of the Board to be public servants within the meaning of the Penal Code (Cap. 224).
+93\.—(1) The proceedings of a Board shall be open to the public and minutes of a Board including a note of any oral evidence given before the Board shall be kept by the President of the Board.
 
-[Act 16 of 1987 wef 01/12/1987]
+[16/87]
+
+(2) The proceedings of a Board shall be deemed to be judicial proceedings and the members of the Board to be public servants within the meaning of the Penal Code [Cap. 224].
+
+[90
 
 ### Order to convene general meeting
 
-91\. Where a default is made by a management corporation in holding a general meeting, a Board may, on the application of any person entitled to vote at a meeting of the management corporation, order the management corporation to convene a general meeting.
+94\. Where a default is made by a management corporation in holding a general meeting, a Board may, on the application of any person entitled to vote at a meeting of the management corporation, order the management corporation to convene a general meeting.
 
-[Act 16 of 1987 wef 01/12/1987]
+[91
+
+[16/87]
 
 ### Order revoking amendment of by-law
 
-92\.—(1) Where, pursuant to an application by any person entitled to vote at a meeting of the management corporation (including both a first mortgagee and a mortgagor of a lot), a Board considers that, having regard to the interest of all subsidiary proprietors in the use and enjoyment of their lots or the common property, an amendment or repeal of a by-law or addition of a new by-law should not have been made or effected, the Board may order that the amendment be revoked, that the repealed by-law be revived or that the additional by-law be repealed.
+95\.—(1) Where, pursuant to an application by any person entitled to vote at a meeting of the management corporation (including both a first mortgagee and a mortgagor of a lot), a Board considers that, having regard to the interest of all subsidiary proprietors in the use and enjoyment of their lots or the common property, an amendment or revocation of a by-law or addition of a new by-law should not have been made or effected, the Board may order that the amendment be revoked, that the revoked by-law be revived or that the additional by-law be revoked.
 
-(2) When making an order under subsection (1) in respect of a by-law referred to in section 38(3), a Board may direct the payment by the management corporation of compensation to the subsidiary proprietor of the lot referred to in the by-law.
+[16/87]
+
+(2) When making an order under subsection (1) in respect of a by-law referred to in section 41(3), a Board may direct the payment by the management corporation of compensation to the subsidiary proprietor of the lot referred to in the by-law.
 
 (3) A payment ordered to be made pursuant to subsection (2) is recoverable by the subsidiary proprietor as a debt in a court of competent jurisdiction.
 
-[Act 16 of 1987 wef 01/12/1987]
+[92
 
 ### Order invalidating purported by-law
 
-93\. Where, pursuant to an application by a person entitled to vote at a meeting of the management corporation (including both a first mortgagee and a mortgagor of a lot), a Board considers that a management corporation did not have the power to make a by-law purporting to have been made by it, the Board may make an order declaring the by-law to be invalid.
+96\. Where, pursuant to an application by a person entitled to vote at a meeting of the management corporation (including both a first mortgagee and a mortgagor of a lot), a Board considers that a management corporation did not have the power to make a by-law purporting to have been made by it, the Board may make an order declaring the by-law to be invalid.
 
-[Act 16 of 1987 wef 01/12/1987]
+[93
+
+[16/87]
 
 ### Power of Board to invalidate proceedings
 
-94\.—(1) Where, pursuant to an application by a subsidiary proprietor or first mortgagee of a lot , a Board considers that the provisions of this Act have not been complied with in relation to a meeting of the management corporation, the Board may, by order —
+97\.—(1) Where, pursuant to an application by a subsidiary proprietor or first mortgagee of a lot, a Board considers that the provisions of this Act have not been complied with in relation to a meeting of the management corporation, the Board may, by order —
 
 (a) invalidate any resolution of, or election held by, the persons present at the meeting; or
 
 (b) refuse to invalidate any such resolution or election.
+
+[16/87]
 
 (2) A Board shall not make an order under subsection (1) refusing to invalidate a resolution or election unless it considers —
 
@@ -2505,17 +2609,19 @@ Provided that a member of the panel who resigns or whose appointment expires dur
 
 (b) that compliance with the provisions of this Act would not have resulted in a failure to pass the resolution, or have affected the result of the election, as the case may be.
 
-[Act 16 of 1987 wef 01/12/1987]
+[94
 
 ### Order varying certain rates of interest
 
-95\. Where, pursuant to an application by a subsidiary proprietor or a mortgagee in possession, a Board considers that the management corporation for the subdivided building to which the application relates has determined an unreasonable rate as the rate of interest chargeable for the late payment of a contribution levied under section 39, the Board may, in respect of such contributions as are specified in the order, order that no interest be so chargeable or that the rate so chargeable be a rate specified by the Board in the order instead of the rate so determined.
+98\. Where, pursuant to an application by a subsidiary proprietor or a mortgagee in possession, a Board considers that the management corporation for the subdivided building to which the application relates has determined an unreasonable rate as the rate of interest chargeable for the late payment of a contribution levied under section 42, the Board may, in respect of such contributions as are specified in the order, order that no interest be so chargeable or that the rate so chargeable be a rate specified by the Board in the order instead of the rate so determined.
 
-[Act 16 of 1987 wef 01/12/1987]
+[95
+
+[16/87]
 
 ### Order for variation of contributions levied or manner of payment thereof
 
-96\.—(1) Where, pursuant to an application by a management corporation, a subsidiary proprietor or a mortgagee in possession (whether by himself or another person), a Board considers that any amount levied or proposed to be levied by way of contributions under section 39 in respect of —
+99\.—(1) Where, pursuant to an application by a management corporation, a subsidiary proprietor or a mortgagee in possession (whether by himself or another person), a Board considers that any amount levied or proposed to be levied by way of contributions under section 42 in respect of —
 
 (a) a lot in a subdivided building where planning approval was granted prior to 15th April 1976; or
 
@@ -2523,15 +2629,17 @@ Provided that a member of the panel who resigns or whose appointment expires dur
 
 is inadequate, excessive or unreasonable, the Board may order the subsidiary proprietor of the lot concerned to pay a different amount from such date as the Board determines.
 
+[16/87]
+
 (2) Where an order of a Board under subsection (1) takes effect in relation to a contribution levied by a management corporation that has been wholly or partly paid in respect of a lot, the management corporation shall be deemed to have imposed a levy of the amount determined by the Board with effect from such date as the Board determines.
 
-(3) Notwithstanding section 39(2), an order may be made by a Board under subsection (1) for the payment of any amount which the Board thinks is fair and adequate.
+(3) Notwithstanding section 42(2), an order may be made by a Board under subsection (1) for the payment of any amount which the Board thinks is fair and adequate.
 
-[Act 16 of 1987 wef 01/12/1987]
+[96
 
 ### Order where voting rights denied or due notice of item of business not given
 
-97\.—(1) Where, pursuant to an application by a person under this section, a Board is satisfied that a particular resolution would not have been passed at a general meeting of a management corporation but for the fact that the applicant —
+100\.—(1) Where, pursuant to an application by a person under this section, a Board is satisfied that a particular resolution would not have been passed at a general meeting of a management corporation but for the fact that the applicant —
 
 (a) was improperly denied a vote on the motion for the resolution; or
 
@@ -2539,59 +2647,71 @@ is inadequate, excessive or unreasonable, the Board may order the subsidiary pro
 
 the Board may order that the resolution be treated as a nullity on and from the date of the order.
 
+[16/87]
+
 (2) An application for an order under subsection (1) may not be made after 21 days after the date of the meeting at which the resolution was passed.
 
 (3) Where —
 
-(a) an order under subsection (1) is made in respect of a resolution making a by-law amending, adding to or repealing another by-law; and
+(a) an order under subsection (1) is made in respect of a resolution making a by-law amending, adding to or revoking another by-law; and
 
 (b) the by-law made pursuant to that resolution is in force,
 
-the by-laws shall, subject to their having been or being amended, added to or repealed under section 38, have force and effect on and from the date the order is so made to the same extent as they would have had if the resolution had not been passed.
+the by-law shall, subject to its having been or being amended, added to or revoked under section 41, have force and effect on and from the date the order is so made to the same extent as it would have had if the resolution had not been passed.
 
-[Act 16 of 1987 wef 01/12/1987]
+[97
 
 ### Order varying amount of insurance to be provided
 
-98\. Where, pursuant to an application by a subsidiary proprietor or the mortgagee of a lot, a Board considers that the amount for which the management corporation for the subdivided building concerned has insured under section 68 is not reasonable, the Board may order the management corporation to vary that amount to a specified amount.
+101\. Where, pursuant to an application by a subsidiary proprietor or the mortgagee of a lot, a Board considers that the amount for which the management corporation for the subdivided building concerned has insured under section 71 is not reasonable, the Board may order the management corporation to vary that amount to a specified amount.
 
-[Act 16 of 1987 wef 01/12/1987]
+[98
 
-### Order appointing managing agent to exercise or perform certain powers, etc
+[16/87
 
-99\.—(1) Where, pursuant to an application made by a subsidiary proprietor, the mortgagee of a lot or a judgment creditor of a management corporation, a Board is satisfied that it is in the interests of the subsidiary proprietors of all the lots in the subdivided building concerned or the creditors of the management corporation to appoint a managing agent for the management corporation, the Board may order the management corporation to appoint a managing agent to perform the duties specified in the order.
+### Order appointing managing agent to exercise or perform certain powers, etc.
+
+102\.—(1) Where, pursuant to an application made by a subsidiary proprietor, the mortgagee of a lot or a judgment creditor of a management corporation, a Board is satisfied that it is in the interests of the subsidiary proprietors of all the lots in the subdivided building concerned or the creditors of the management corporation to appoint a managing agent for the management corporation, the Board may order the management corporation to appoint a managing agent to perform the duties specified in the order.
+
+[16/87]
 
 (2) Where a Board makes an order under subsection (1), it may also order that the managing agent shall have and may exercise and perform —
 
-(a) all the powers, authorities, duties and functions of the management corporation for the subdivided building to which the order relates or of the chairman, secretary or treasurer of that management corporation or the council of that management corporation;
+(a) all the powers, duties and functions of the management corporation for the subdivided building to which the order relates or of the chairman, secretary or treasurer of that management corporation or the council of that management corporation;
 
-(b) any one or more of those powers, authorities, duties or functions specified in the order; or
+(b) any one or more of those powers, duties or functions specified in the order; or
 
-(c) all of those powers, authorities, duties and functions except those specified in the order.
+(c) all of those powers, duties and functions except those specified in the order.
 
-[Act 16 of 1987 wef 01/12/1987]
+[99
 
 ### Board may settle disputes on costs of repairs, etc.
 
-100\. A Board may, pursuant to an application of a management corporation, a subsidiary proprietor or a mortgagee in possession of a lot or the developer of a subdivided building, make an order for the settlement of a dispute, or the rectification of a complaint, with respect to any defects in a lot, a subdivided building and its common property or the liability of a subsidiary proprietor or a developer to bear the costs of or any part thereof for any work carried out by a management corporation in the exercise or performance of its powers, duty or function conferred or imposed by this Act and the by-laws in connection with the subdivided building.
+103\. A Board may, pursuant to an application of a management corporation, a subsidiary proprietor or a mortgagee in possession of a lot or the developer of a subdivided building, make an order for the settlement of a dispute, or the rectification of a complaint, with respect to any defects in a lot, a subdivided building and its common property or the liability of a subsidiary proprietor or a developer to bear the costs of or any part thereof for any work carried out by a management corporation in the exercise or performance of its powers, duties or functions conferred or imposed by this Act and the by-laws in connection with the subdivided building.
 
-[Act 16 of 1987 wef 01/12/1987]
+[100
+
+[16/87]
 
 ### Order with respect to certain consents affecting common property
 
-101\. Where, pursuant to an application by a subsidiary proprietor, a Board considers that the management corporation for the subdivided building to which the application relates has unreasonably refused to consent to a proposal by that subsidiary proprietor to effect alterations to the common property, the Board may make an order that the management corporation consents to the proposal.
+104\. Where, pursuant to an application by a subsidiary proprietor, a Board considers that the management corporation for the subdivided building to which the application relates has unreasonably refused to consent to a proposal by that subsidiary proprietor to effect alterations to the common property, the Board may make an order that the management corporation consents to the proposal.
 
-[Act 16 of 1987 wef 01/12/1987]
+[101
+
+[16/87]
 
 ### Order to make or pursue insurance claim
 
-102\. Where, pursuant to an application by a subsidiary proprietor, a Board considers that the management corporation for the subdivided building to which the application relates has unreasonably refused to make or pursue an insurance claim in respect of damage to the building or any other property insured by the management corporation under Division 5 of Part IV, the Board may order the management corporation to make or pursue the claim.
+105\. Where, pursuant to an application by a subsidiary proprietor, a Board considers that the management corporation for the subdivided building to which the application relates has unreasonably refused to make or pursue an insurance claim in respect of damage to the building or any other property insured by the management corporation under Division 5 of Part IV, the Board may order the management corporation to make or pursue the claim.
 
-[Act 16 of 1987 wef 01/12/1987]
+[102
+
+[16/87]
 
 ### Order to supply information or documents
 
-103\. Where, pursuant to an application by any person, a Board considers that the management corporation for the subdivided building to which the application relates, or a managing agent for that building or the chairman, secretary or treasurer of that management corporation has wrongfully —
+106\. Where, pursuant to an application by any person, a Board considers that the management corporation for the subdivided building to which the application relates, or a managing agent for that building or the chairman, secretary or treasurer of that management corporation has wrongfully —
 
 (a) withheld from the applicant any information to which the applicant is entitled under this Act; or
 
@@ -2599,53 +2719,67 @@ the by-laws shall, subject to their having been or being amended, added to or re
 
 the Board may order that management corporation, managing agent, chairman, secretary or treasurer to supply or make available the information or to make so available the record or document, as the case may require, to the applicant.
 
-[Act 16 of 1987 wef 01/12/1987]
+[103
 
-### Appeal against decision of the Commissioner under section 49
+[16/87]
 
-104\. Any person who is aggrieved by a decision of the Commissioner under section 49 may appeal to a Board against the decision of the Commissioner and the Board may by order affirm, vary or revoke the decision against or substitute its own decision for the decision appealed against or dismiss the appeal.
+### Appeal against decision of Commissioner under section 52
 
-[Act 16 of 1987 wef 01/12/1987]
+107\. Any person who is aggrieved by a decision of the Commissioner under section 52 may appeal to a Board against the decision of the Commissioner and the Board may by order affirm, vary or revoke the decision against or substitute its own decision for the decision appealed against or dismiss the appeal.
 
-### Appeal to Supreme Court on question of law
+[104
 
-105\.—(1) No appeal shall lie to the Supreme Court against an order made by a Board except on a point of law.
+[16/87]
+
+### Appeal to High Court on question of law
+
+108\.—(1) No appeal shall lie to the High Court against an order made by a Board except on a point of law.
+
+[16/87]
 
 (2) Where an appeal is made to the High Court, the Court may confirm, vary or set aside the order or remit the order to the Board for reconsideration together with such directions as the Court thinks fit.
 
 (3) The filing of a notice of appeal shall not operate as a stay of execution of an order or suspend the effect of an order unless the Board or the High Court, as the case may be, otherwise orders and any stay or suspension of an order may be subject to such conditions as the Board or High Court thinks fit.
 
-[Act 16 of 1987 wef 01/12/1987]
+[105
 
 ### General provisions relating to orders under this Part
 
-106\.—(1) An order made by a Board may include such ancillary or consequential provisions as the Board thinks fit including costs to be paid by the applicant, a management corporation or any person against whom the order is made or costs to be paid by a party for making a frivolous application to the Board.
+109\.—(1) An order made by a Board may include such ancillary or consequential provisions as the Board thinks fit including costs to be paid by the applicant, a management corporation or any person against whom the order is made or costs to be paid by a party for making a frivolous application to the Board.
+
+[16/87]
 
 (2) For the purpose of securing compliance with an order under this Part, a Board may order a management corporation, the chairman, secretary or treasurer of a management corporation or its council, a managing agent or a proprietor or other person having an estate or interest in a lot or an occupier of a lot to do or refrain from doing a specified act with respect to a subdivided building and the common property.
 
-[Act 16 of 1987 wef 01/12/1987]
+[106
 
 ### Representation before a Board
 
-107\.—(1) An applicant for an order under this Part may appear before a Board or may be represented by counsel who may examine witnesses and address the Board on behalf of the applicant.
+110\.—(1) An applicant for an order under this Part may appear before a Board or may be represented by counsel who may examine witnesses and address the Board on behalf of the applicant.
+
+[16/87]
 
 (2) A management corporation appearing before a Board may be represented by counsel or a member of the council of the management corporation.
 
-[Act 16 of 1987 wef 01/12/1987]
+[107
 
 ### Witness may be summoned before Board
 
-108\.—(1) A Board may summon any person to attend before the Board at the time and place specified in the summons and then and there to give evidence and to produce books, documents or writings in his custody or control which he is required by the summons to produce.
+111\.—(1) A Board may summon any person to attend before the Board at the time and place specified in the summons and then and there to give evidence and to produce books, documents or writings in his custody or control which he is required by the summons to produce.
+
+[16/87]
 
 (2) A person served with a summons under subsection (1) who, without reasonable excuse, disobeys the summons shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 2 years.
 
 (3) A person shall not be bound to produce any books, documents or writings not specified or otherwise sufficiently described in the summons or which he would not be bound to produce upon a subpoena for production in a court.
 
-[Act 16 of 1987 wef 01/12/1987]
+[108
 
 ### Board may administer oath
 
-109\.—(1) A Board may administer an oath or affirmation to a person appearing as a witness before the Board, whether or not he has appeared in answer to a summons, and may examine the witness upon oath or affirmation.
+112\.—(1) A Board may administer an oath or affirmation to a person appearing as a witness before the Board, whether or not he has appeared in answer to a summons, and may examine the witness upon oath or affirmation.
+
+[16/87]
 
 (2) A person appearing as a witness before a Board —
 
@@ -2663,25 +2797,29 @@ the Board may order that management corporation, managing agent, chairman, secre
 
 as he would have had if he had been a witness before a court instead of the Board.
 
-[Act 16 of 1987 wef 01/12/1987]
+[109
 
 ### Penalty for contravention of certain orders
 
-110\.—(1) A person who contravenes an order made by a Board to do or refrain from doing a specified act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 5 years or to both.
+113\.—(1) A person who contravenes an order made by a Board to do or refrain from doing a specified act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 5 years or to both.
+
+[16/87]
 
 (2) A document purporting to be a copy of an order made by a Board shall be admissible in evidence and shall, until the contrary is proved, be deemed to be an order made by the Board.
 
-[Act 16 of 1987 wef 01/12/1987]
+[110
 
 ### Time when order takes effect
 
-111\. Except where provision is otherwise made by this Act or to the extent a Board specifies in an order, an order of a Board shall take effect when a copy of the order, certified by the Board to be a true copy, is served —
+114\. Except where provision is otherwise made by this Act or to the extent a Board specifies in an order, an order of a Board shall take effect when a copy of the order, certified by the Board to be a true copy, is served —
 
 (a) except as provided in paragraph (b), on the management corporation for the subdivided building to which the order relates; or
 
 (b) where the order requires a person to do or refrain from doing a specified act, on that person.
 
-[Act 16 of 1987 wef 01/12/1987]
+[111
+
+[16/87]
 
 ## PART VII
 
@@ -2689,21 +2827,25 @@ GENERAL
 
 ### Other rights and remedies not affected by this Act
 
-112\. Nothing in this Act shall affect or take away any rights or remedies that a subsidiary proprietor or mortgagee of a lot or a management corporation may have in relation to any lot or the common property apart from this Act.
+115\. Nothing in this Act shall affect or take away any rights or remedies that a subsidiary proprietor or mortgagee of a lot or a management corporation may have in relation to any lot or the common property apart from this Act.
 
-[Act 16 of 1987 wef 01/12/1987]
+[112
+
+[16/87]
 
 ### Management corporation may represent subsidiary proprietors in proceedings
 
-113\.—(1) Where all or some of the subsidiary proprietors of the lots in a subdivided building are jointly entitled to take proceedings against any person or are liable to have proceedings taken against them jointly (any such proceedings being proceedings for or with respect to common property), the proceedings may be taken by or against the management corporation as if it were the subsidiary proprietors of the lots concerned and any judgment or order given or made in favour of or against the management corporation in any such proceedings shall have effect as if it were a judgment or order given or made in favour of or against the subsidiary proprietors.
+116\.—(1) Where all or some of the subsidiary proprietors of the lots in a subdivided building are jointly entitled to take proceedings against any person or are liable to have proceedings taken against them jointly (any such proceedings being proceedings for or with respect to common property), the proceedings may be taken by or against the management corporation as if it were the subsidiary proprietors of the lots concerned and any judgment or order given or made in favour of or against the management corporation in any such proceedings shall have effect as if it were a judgment or order given or made in favour of or against the subsidiary proprietors.
+
+[16/87]
 
 (2) Where a subsidiary proprietor is liable to make a contribution to another subsidiary proprietor in respect of a judgment debt arising under a judgment referred to in subsection (1), the amount of that contribution shall bear to the judgment debt the same proportion as the share value of the lot of the first-mentioned subsidiary proprietor bears to the aggregate share value.
 
-[Act 16 of 1987 wef 01/12/1987]
+[113
 
 ### Management corporation’s power to take proceedings as agent for subsidiary proprietor in case of structural defects
 
-114\. Where —
+117\. Where —
 
 (a) the condition of any lot in a parcel affects or is likely to affect the support or shelter provided by that lot for another lot in the same building or the common property; and
 
@@ -2711,23 +2853,29 @@ GENERAL
 
 the management corporation may, as agent for the subsidiary proprietor of the lot in that condition but at its own expense, take any of the proceedings referred to in paragraph (b).
 
-[Act 16 of 1987 wef 01/12/1987]
+[114
+
+[16/87]
 
 ### Costs in proceedings by subsidiary proprietors against management corporation
 
-115\.—(1) In any proceedings brought by one or more subsidiary proprietors against the management corporation, the court may order that any moneys (including costs) payable by the management corporation pursuant to an order of the court made in those proceedings shall be paid, only in respect of such lots as are specified in the order and in such proportions as may be so specified, by the management corporation out of contributions levied for the purpose.
+118\.—(1) In any proceedings brought by one or more subsidiary proprietors against the management corporation, the court may order that any moneys (including costs) payable by the management corporation pursuant to an order of the court made in those proceedings shall be paid, only in respect of such lots as are specified in the order and in such proportions as may be so specified, by the management corporation out of contributions levied for the purpose.
 
-(2) Where a court makes an order under subsection (1), the management corporation shall, for the purpose of paying the moneys ordered to be paid by it, levy contributions in accordance with the terms of the order and shall pay the moneys out of the contributions paid pursuant to that levy, and section 39, (subsection (2) excepted) shall apply to and in respect of contributions levied under this subsection in the same way as it applies to contributions levied under that section.
+[16/87]
 
-[Act 16 of 1987 wef 01/12/1987]
+(2) Where a court makes an order under subsection (1), the management corporation shall, for the purpose of paying the moneys ordered to be paid by it, levy contributions in accordance with the terms of the order and shall pay the moneys out of the contributions paid pursuant to that levy, and section 42 (subsection (2) excepted) shall apply to and in respect of contributions levied under this subsection in the same way as it applies to contributions levied under that section.
+
+[115
 
 ### Service of documents on management corporation, subsidiary proprietors and others
 
-116\.—(1) A summons or other legal process may be served on a management corporation by leaving it with the chairman or secretary of the management corporation or of the council or with any member of the council.
+119\.—(1) A summons or other legal process may be served on a management corporation by leaving it with the chairman or secretary of the management corporation or of the council or with any member of the council.
+
+[16/87]
 
 (2) A document other than a document referred to in subsection (1) may be served on a management corporation —
 
-(a) by leaving it with any person referred to in subsection (1) or in the receptacle provided by the management corporation pursuant to section 52; or
+(a) by leaving it with any person referred to in subsection (1) or in the receptacle provided by the management corporation pursuant to section 55; or
 
 (b) by sending it, by registered post, to the management corporation at its address recorded on the folio of the Register comprising the common property.
 
@@ -2739,84 +2887,97 @@ the management corporation may, as agent for the subsidiary proprietor of the lo
 
 (ii) where an address for the service of notices on the person to be served is recorded in the strata roll, at the address so recorded;
 
-(b) by sending it, by registered post, to the person to be served, where an address for the service of notices on that person is recorded in the strata roll, at the address so recorded and if that notice or document is not returned through the post office as undelivered; that service shall be deemed to have been made at the time at which the registered letter would in the ordinary course be delivered; or
+(b) by sending it, by registered post, to the person to be served, where an address for the service of notices on that person is recorded in the strata roll, at the address so recorded and, if that notice or document is not returned through the post office as undelivered, that service shall be deemed to have been made at the time at which the registered letter would in the ordinary course be delivered; or
 
 (c) in the case of a subsidiary proprietor, by affixing the notice on the front door of his lot.
 
-(4) Section 55(3) of the Land Titles Act (Cap. 157) shall apply to the service of documents on a management corporation and a subsidiary proprietor.
+(4) Section 55(3) of the Land Titles Act [Cap. 157] shall apply to the service of documents on a management corporation and a subsidiary proprietor.
 
 (5) This section shall not apply to notices served in proceedings in the court.
 
-[Act 16 of 1987 wef 01/12/1987]
+[116
 
 ### Breaches of provisions of Part IV
 
-117\.—(1) If a management corporation commits a breach of any of the provisions of Part IV, or makes default in complying with any requirement of, or duty imposed on it by, any of the provisions of Part IV, the management corporation and every member of its council, or every subsidiary proprietor, who is knowingly a party to the breach or default shall be guilty of an offence and shall be liable on conviction to a penalty expressly prescribed for such breach or default, or, if no penalty is so prescribed, to a fine not exceeding $2,000.
+120\.—(1) If a management corporation commits a breach of any of the provisions of Part IV, or makes default in complying with any requirement of, or duty imposed on it by, any of the provisions of Part IV, the management corporation and every member of its council, or every subsidiary proprietor, who is knowingly a party to the breach or default, shall be guilty of an offence and shall be liable on conviction to the penalty expressly prescribed for such breach or default, or, if no penalty is so prescribed, to a fine not exceeding $2,000.
+
+[16/87]
 
 (2) Where a requirement or duty is imposed on a management corporation by Part IV, any person for whose benefit, or for the benefit of whose lot that requirement or duty is imposed on the management corporation may apply to the court for an order compelling the management corporation to carry out the requirement or perform the duty, as the case may be, and, on such an application being made, the court may make such order as it thinks proper.
 
-[Act 16 of 1987 wef 01/12/1987]
+[117
 
 ### Legal proceedings
 
-118\.—(1) Every application to the court under this Act shall be by originating summons.
+121\.—(1) Every application to the court under this Act shall be by originating summons.
+
+[16/87]
 
 (2) Where this Act provides for any sum to be recovered by any person or authority from any other person or authority, the sum may be recovered by an action for a debt in any court of competent jurisdiction.
 
-[Act 16 of 1987 wef 01/12/1987]
+[118
 
 ## PART VIII
 
-ISSUE OF SUBSIDIARY CERTIFICATES OF TITLES
+ISSUE OF SUBSIDIARY STRATA CERTIFICATES
+
+
+
+
+OF TITLE TO REGISTERED LESSEES AND
 
 
 
 
 FOR FLATS UNDER OTHER SCHEMES
 
-### Issue of subsidiary certificate of title to registered lessee
+### Issue of subsidiary strata certificate of title to registered lessee
 
-119\.—(1) A registered lessee may by an application in the prescribed form apply to the Registrar for the issue of a subsidiary certificate of title in respect of the registered leasehold estate to his flat.
+122\.—(1) A registered lessee may by an application in the prescribed form apply to the Registrar for the issue of a subsidiary strata certificate of title in respect of the registered leasehold estate to his flat.
+
+[16/87]
 
 (2) The registered lessee shall at the time of making his application surrender his duplicate lease to the Registrar.
 
-(3) Upon the issue of a subsidiary certificate of title, the Registrar shall enter a memorial in the volume and folio of the land register of the registered land on or over which the flat is erected to the effect that a subsidiary certificate of title has been issued to the registered lessee for his registered leasehold estate.
+(3) Upon the issue of a subsidiary strata certificate of title, the Registrar shall enter a memorial in the volume and folio of the land-register of the registered land on or over which the flat is erected to the effect that a subsidiary strata certificate of title has been issued to the registered lessee for his registered leasehold estate.
 
-(4) The subsidiary certificate of title shall be in the prescribed form and upon its issue any assurance or other dealing affecting the leasehold estate comprised therein shall be subject to the Land Titles Act (Cap. 157).
+(4) The subsidiary strata certificate of title shall be in the prescribed form and upon its issue any assurance or other dealing affecting the leasehold estate comprised therein shall be subject to the Land Titles Act [Cap. 157].
 
-[Act 16 of 1987 wef 01/12/1987]
+[119
 
-### Flats sold by the Housing and Development Board
+### Flats sold by Housing and Development Board
 
-120\.—(1) The restriction imposed by section 6(1) on an assurance disposing of any part of a subdivided building shall not apply to any assurance disposing of any interest in any flat in a subdivided building erected on registered land where the interest in the flat is held under a lease from the Board.
+123\.—(1) The restriction imposed by section 6(1) on an assurance disposing of any part of a subdivided building shall not apply to any assurance disposing of any interest in any flat in a subdivided building erected on registered land where the interest in the flat is held under a lease from the Housing and Development Board constituted under the Housing and Development Act [Cap. 129].
 
-(2) Where a strata title plan and an application for the issue of subsidiary strata certificates of title are lodged by the Board with and duly registered by the Registrar, the provisions of this Act relating to a strata title plan and a subsidiary proprietor and Parts IV to VII shall apply to each and every subdivided building comprised in the registered strata title plan.
+[16/87]
 
-(3) In this section, “Board” means the Housing and Development Board constituted under the Housing and Development Act (Cap. 129).
+(2) Where a strata title plan and an application for the issue of subsidiary strata certificates of title are lodged by the Housing and Development Board with and duly registered by the Registrar, the provisions of this Act relating to a strata title plan and a subsidiary proprietor and Parts IV to VII shall apply to each and every subdivided building comprised in the registered strata title plan.
 
-[Act 16 of 1987 wef 01/12/1987]
+[120
 
-### Flats sold by the Jurong Town Corporation
+### Flats sold by Jurong Town Corporation
 
-121\.—(1) The restriction imposed by section 6(1) on an assurance disposing of any part of a subdivided building shall not apply to any assurance disposing of any interest in any flat in any subdivided building erected on registered land where the interest in the flat is held under a lease from the Jurong Town Corporation.
+124\.—(1) The restriction imposed by section 6(1) on an assurance disposing of any part of a subdivided building shall not apply to any assurance disposing of any interest in any flat in any subdivided building erected on registered land where the interest in the flat is held under a lease from the Jurong Town Corporation constituted under the Jurong Town Corporation Act [Cap. 150].
+
+[16/87]
 
 (2) Where a strata title plan and an application for the issue of subsidiary strata certificates of title are lodged by the Jurong Town Corporation with and duly registered by the Registrar, the provisions of this Act relating to a registered strata title plan and a subsidiary proprietor and Parts IV to VII shall apply to each and every subdivided building comprised in the registered strata title plan.
 
-(3) In this section, “Jurong Town Corporation” means the Jurong Town Corporation constituted under the Jurong Town Corporation Act (Cap. 150).
+[121
 
-[Act 16 of 1987 wef 01/12/1987]
+### Subsidiary strata certificates of title for flats with registered leases under Registration of Deeds Act
 
-### Bringing land under the Land Titles Act where flats have been erected thereon
+125\.—(1) Where there are 3 or more flats in a building and subsisting leases for those flats have been registered under the Registration of Deeds Act [Cap. 269], the proprietor of the land together with the proprietors of those flats who altogether own not less than 25% of the total number of flats in the building may lodge with the Registrar an application —
 
-122\.—(1) Where there are three or more flats in a building and subsisting leases for those flats have been registered under the Registration of Deeds Act (Cap. 269), the proprietor of the land together with the proprietors of those flats who altogether own not less than one-fourth of the total number of flats in the building may lodge with the Registrar an application —
-
-(a) to have the land brought under the Land Titles Act (Cap. 157); and
+(a) to have the land brought under the Land Titles Act [Cap. 157]; and
 
 (b) for the issue of subsidiary strata certificates of title for all those flats.
 
+[16/87]
+
 (2) An application submitted to the Registrar pursuant to subsection (1) shall be accompanied by —
 
-(a) a transfer of the proprietor’s estate and interest in the land to the proprietors of all the flats in the said building as tenants-in-common in the shares according to the ratio of one share to each flat except where the flats are of different sizes, the share in the land allotted to the proprietor of each flat shall have the value determined by the Registrar; and
+(a) a transfer of the proprietor’s estate and interest in the land to the proprietors of all the flats in that building as tenants in common in the shares according to the ratio of one share to each flat except where the flats are of different sizes, the share in the land allotted to the proprietor of each flat shall have the value determined by the Registrar; and
 
 (b) a strata title plan (as approved by the Chief Surveyor) prepared for the purpose of the issue of subsidiary strata certificates of title for those flats.
 
@@ -2830,19 +2991,19 @@ FOR FLATS UNDER OTHER SCHEMES
 
 (5) Notwithstanding subsections (1), (2), (3) and (4), the Registrar may, in order to relieve any case of extreme hardship, in his discretion, issue any subsidiary strata certificate of title in favour of a purchaser of a flat whose assignment of the leasehold estate of the flat has been duly stamped and lodged with the Registrar of Deeds, notwithstanding that the name of the purchaser was not shown in the transfer lodged pursuant to subsection (2).
 
-(6) Where the proprietors of the flats who altogether own not less than one-fourth of the total number of the flats as shown in the records of the Registry of Deeds as at the date of transfer mentioned in subsection (2) have agreed in writing to accept the transfer of the estate and interest of the proprietor of the land, all the proprietors of the flats within the same development and all the respective successors-in-title or assigns shall be deemed to have accepted the transfer of the proprietor’s estate and interest in the land and to have given consent to the application for the issue of the subsidiary strata certificates of title by the Registrar and the acceptance of the transfer of the proprietor’s estate and interest in the land.
+(6) Where the proprietors of the flats who altogether own not less than 25% of the total number of the flats as shown in the records of the Registry of Deeds as at the date of transfer mentioned in subsection (2) have agreed in writing to accept the transfer of the estate and interest of the proprietor of the land, all the proprietors of the flats within the same development and all the respective successors-in-title or assigns shall be deemed to have accepted the transfer of the proprietor’s estate and interest in the land and to have given consent to the application for the issue of the subsidiary strata certificates of title by the Registrar and the acceptance of the transfer of the proprietor’s estate and interest in the land.
 
 (7) The proprietor of the land shall deposit with the Registrar the title deeds in his possession relating to the land and the Registrar may, after inspection of the title deeds, create a folio of the land-register by issuing a certificate of title for the land on which the flats are erected.
 
 (8) Where the Registrar is satisfied with the evidence of title and that all the necessary documents are in order, the Registrar may issue subsidiary strata certificates of title for the flats after the publication of the notice referred to in subsection (4).
 
-(9) The Registrar may, pursuant to subsections (7) and (8), issue the certificate of title and the subsidiary strata certificates of title qualified as to their title or their boundaries and dimensions, and sections 19 and 148 of the Land Titles Act (Cap. 157) shall apply mutatis mutandis to such certificate of title and subsidiary strata certificates of title.
+(9) The Registrar may, pursuant to subsections (7) and (8), issue the certificate of title and the subsidiary strata certificates of title qualified as to their title or their boundaries and dimensions, and sections 19 and 148 of the Land Titles Act [Cap. 157] shall apply mutatis mutandis to such certificate of title and subsidiary strata certificates of title.
 
 (10) Upon the registration of the strata title plan, the management corporation of the parcel of land shall reimburse the person or persons who incurred any expenditure for the purpose of —
 
-(a) bringing the land under the Land Titles Act (Cap. 157);
+(a) bringing the land under the Land Titles Act [Cap. 157];
 
-(b) applying for the issue of subsidiary strata certificates of titles for all those flats comprised in a building or buildings erected on the parcel;
+(b) applying for the issue of subsidiary strata certificates of title for all those flats comprised in a building or buildings erected on the parcel;
 
 (c) lodging the transfer pursuant to subsection (2);
 
@@ -2852,37 +3013,39 @@ FOR FLATS UNDER OTHER SCHEMES
 
 (f) issuing notices to the proprietors of the flats pursuant to subsection (4)(b).
 
-(11) It shall be the duty of the management corporation to determine the amount of contributions payable by the subsidiary proprietors of the lots in the subdivided building concerned to its management fund to meet the expenditure referred to in subsection (10) and any contributions so levied by the management corporation shall be deemed to be contributions levied under section 45(1)(r).
+(11) It shall be the duty of the management corporation to determine the amount of contributions payable by the subsidiary proprietors of the lots in the subdivided building concerned to its management fund to meet the expenditure referred to in subsection (10) and any contributions so levied by the management corporation shall be deemed to be contributions levied under section 48(1)(r).
 
 (12) For the purposes of this section, where the registered proprietor of the land on which the building is erected has granted leases for some but not all of the flats in the building, he shall be deemed a proprietor of the flats which are still owned by him.
 
-[Act 16 of 1987 wef 01/12/1987]
+[122
 
-### Issue of subsidiary strata certificates of title for flats with subsisting leases registered under the Land Titles Act
+### Issue of subsidiary strata certificates of title for flats with subsisting leases registered under Land Titles Act
 
-123\.—(1) Where there are subsisting leases of flats registered under the Land Titles Act (Cap. 157), the registered proprietors of the flats who altogether own not less than one-fourth of the total number of flats comprised in the building erected on the same parcel of land together with the registered proprietor of the land on which the said flats are erected may lodge with the Registrar a transfer of the estate and interest of the registered proprietor of the land to all the registered proprietors of the flats as tenants-in-common in the shares according to the ratio of one share to each flat together with an application for the issue of subsidiary strata certificates of title for the flats.
+126\.—(1) Where there are subsisting leases of flats registered under the Land Titles Act [Cap. 157], the registered proprietors of the flats who altogether own not less than 25% of the total number of flats comprised in the building erected on the same parcel of land together with the registered proprietor of the land on which the said flats are erected may lodge with the Registrar a transfer of the estate and interest of the registered proprietor of the land to all the registered proprietors of the flats as tenants-in-common in the shares according to the ratio of one share to each flat together with an application for the issue of subsidiary strata certificates of title for the flats.
+
+[16/87]
 
 (2) Where the flats in the building are of different sizes, the shares in the land to be allotted to the registered proprietor of each flat shall have the values determined by the Registrar.
 
 (3) An application submitted pursuant to subsection (1) shall be accompanied by a strata title plan (as approved by the Chief Surveyor) prepared for the purpose of the issue of subsidiary strata certificates of title for the flats.
 
-(4) The Registrar may, upon acceptance of the instruments and strata title plan and being satisfied that the instruments and strata title plan are in order, register all the registered proprietors of the flats as the proprietors of the registered land as tenants-in-common and issue the subsidiary strata certificates of title according to the strata title application and the strata title plan lodged and dispense with the production of the duplicate leases of the flats.
+(4) The Registrar may, upon acceptance of the instruments and strata title plan and being satisfied that the instruments and strata title plan are in order, register all the registered proprietors of the flats as the proprietors of the registered land as tenants in common and issue the subsidiary strata certificates of title according to the strata title application and the strata title plan lodged and dispense with the production of the duplicate leases of the flats.
 
-(5) Where the registered proprietors of the flats who altogether own not less than one-fourth of the total number of flats comprised in the building erected on the parcel of land have agreed in writing to accept the transfer of all the estate and interest of the registered proprietor in the land, all the remaining registered proprietors of the flats in the same building shall be deemed to have accepted the said transfer and deemed to have applied for the issue of subsidiary strata certificates of title for the flats.
+(5) Where the registered proprietors of the flats who altogether own not less than 25% of the total number of flats comprised in the building erected on the parcel of land have agreed in writing to accept the transfer of all the estate and interest of the registered proprietor in the land, all the remaining registered proprietors of the flats in the same building shall be deemed to have accepted the transfer and deemed to have applied for the issue of subsidiary strata certificates of title for the flats.
 
-(6) Before issuing subsidiary strata certificates of title in favour of the registered proprietors of the flats as shown in the records of the Registry of Land Titles, the Registrar shall —
+(6) Before issuing subsidiary strata certificates of title in favour of the registered proprietors of the flats as shown in the records of the Land Titles Registry, the Registrar shall —
 
-(a) require a notice in the form approved by him to be inserted once in one or more daily newspapers to the effect that the Registrar will issue the subsidiary strata certificates of title pursuant to this section to the registered proprietors of the flats as shown in the records maintained at the Registry of Land Titles after the expiration of 6 weeks from the date of publication of the notice if no valid objection is received by the Registrar; and
+(a) require a notice in the form approved by him to be inserted once in one or more daily newspapers to the effect that the Registrar will issue the subsidiary strata certificates of title pursuant to this section to the registered proprietors of the flats as shown in the records maintained at the Land Titles Registry after the expiration of 6 weeks from the date of publication of the notice if no valid objection is received by the Registrar; and
 
-(b) send by registered post a copy of the notice referred to in paragraph (a) to the registered proprietors of all the flats at the addresses shown in the records of the Registry of Land Titles or in the transfer lodged under subsection (1) where the addresses differ from that shown in the records of the Registry of Land Titles.
+(b) send by registered post a copy of the notice referred to in paragraph (a) to the registered proprietors of all the flats at the addresses shown in the records of the Land Titles Registry or in the transfer lodged under subsection (1) where the addresses differ from that shown in the records of the Land Titles Registry.
 
 (7) Notwithstanding subsections (1), (2) and (3), the Registrar may, in order to relieve any case of extreme hardship, in his discretion, issue any subsidiary strata certificate of title in favour of a purchaser of a flat whose transfer of the leasehold estate of the flats has been duly stamped and lodged with him, notwithstanding that the name of the purchaser was not shown in the transfer lodged pursuant to subsection (1).
 
-(8) The Registrar may, pursuant to subsection (3), issue the subsidiary strata certificates of title qualified as to their title or their boundaries and dimensions, and sections 19 and 148 of the Land Titles Act (Cap. 157) shall apply mutatis mutandis to such subsidiary strata certificates of title.
+(8) The Registrar may, pursuant to subsection (4), issue the subsidiary strata certificates of title qualified as to their title or their boundaries and dimensions, and sections 19 and 148 of the Land Titles Act [Cap. 157] shall apply mutatis mutandis to such subsidiary strata certificates of title.
 
 (9) Upon the registration of the strata title plan, the management corporation of the parcel of land shall reimburse the person or persons who incurred any expenditure for the purpose of —
 
-(a) applying for the issue of subsidiary strata certificates of titles for all those flats comprised in a building or buildings erected on the parcel;
+(a) applying for the issue of subsidiary strata certificates of title for all those flats comprised in a building or buildings erected on the parcel;
 
 (b) lodging the transfer pursuant to subsection (1);
 
@@ -2892,15 +3055,17 @@ FOR FLATS UNDER OTHER SCHEMES
 
 (e) issuing notices to the proprietors of the flats pursuant to subsection (6)(b).
 
-(10) It shall be the duty of the management corporation to determine the amount of contributions payable by the subsidiary proprietors of the lots in the subdivided building concerned to its management fund to meet the expenditure referred to in subsection (9) and any contributions so levied by the management corporation shall be deemed to be contributions levied under section 45(1)(r).
+(10) It shall be the duty of the management corporation to determine the amount of contributions payable by the subsidiary proprietors of the lots in the subdivided building concerned to its management fund to meet the expenditure referred to in subsection (9) and any contributions so levied by the management corporation shall be deemed to be contributions levied under section 48(1)(r).
 
 (11) For the purposes of this section, where the registered proprietor of the land on which the building is erected has granted leases for some of but not all the flats in the building, he shall be deemed the registered proprietor of the flats which are still owned by him.
 
-[Act 16 of 1987 wef 01/12/1987]
+[123
 
-### Issue of subsidiary strata certificates of title for flats with subsisting leases registered under the Registration of Deeds Act where the land is vested in the flatowners as tenants-in-common
+### Issue of subsidiary strata certificates of title for flats with subsisting leases registered under Registration of Deeds Act where land is vested in flat-owners as tenants in common
 
-124\.—(1) Where there are subsisting leases of flats registered under the provisions of the Registration of Deeds Act (Cap. 269) and the registered estate or interest in the land on which the flats are erected is vested, subject to the provisions of the Land Titles Act (Cap. 157), in the lessees of the flats as tenants-in-common in the shares shown in the land-register, the registered lessees of those flats who altogether own not less than one-fourth of the total number of those flats may lodge with the Registrar an application for the issue of subsidiary strata certificates of title for all those flats.
+127\.—(1) Where there are subsisting leases of flats registered under the provisions of the Registration of Deeds Act [Cap. 269] and the registered estate or interest in the land on which the flats are erected is vested, subject to the provisions of the Land Titles Act [Cap. 157], in the lessees of the flats as tenants in common in the shares shown in the land-register, the registered lessees of those flats who altogether own not less than 25% of the total number of those flats may lodge with the Registrar an application for the issue of subsidiary strata certificates of title for all those flats.
+
+[16/87]
 
 (2) An application submitted to the Registrar pursuant to subsection (1) shall be accompanied by a strata title plan (as approved by the Chief Surveyor) prepared for the purpose of the issue of subsidiary strata certificates of title for those flats.
 
@@ -2914,45 +3079,49 @@ FOR FLATS UNDER OTHER SCHEMES
 
 (5) Where the Registrar is satisfied that all the necessary documents are in order, the Registrar may issue subsidiary strata certificates of title for the flats after the publication of the notice referred to in subsection (4).
 
-(6) Any subsidiary strata certificates of title issued by the Registrar pursuant to subsection (5) may be qualified as to their boundaries and dimensions, and sections 19 and 148 of the Land Titles Act shall apply mutatis mutandis to such subsidiary strata certificates of title.
+(6) Any subsidiary strata certificates of title issued by the Registrar pursuant to subsection (5) may be qualified as to their title or their boundaries and dimensions, and sections 19 and 148 of the Land Titles Act shall apply mutatis mutandis to such subsidiary strata certificates of title.
 
 (7) Upon the registration of the strata title plan, the management corporation of the parcel of land shall reimburse the person or persons who incurred any expenditure for the purpose of —
 
-(a) applying for the issue of subsidiary strata certificates of titles for all those flats comprised in a building or buildings erected on the parcel;
+(a) applying for the issue of subsidiary strata certificates of title for all those flats comprised in a building or buildings erected on the parcel;
 
 (b) the preparation of the strata title plan for the parcel;
 
 (c) the publication of the notices referred to in subsection (4)(a); and
 
-(d) issuing notices to the proprietors of the flats pursuant to subsection (4)(b).
+(d) issuing notices to the subsidiary lessees of the flats pursuant to subsection (4)(b).
 
-(8) It shall be the duty of the management corporation to determine the amount of contributions payable by the subsidiary proprietors of the lots in the subdivided building concerned to its management fund to meet the expenditure referred to in subsection (7) and any contributions so levied by the management corporation shall be deemed to be contributions levied under section 45(1)(r).
+(8) It shall be the duty of the management corporation to determine the amount of contributions payable by the subsidiary proprietors of the lots in the subdivided building concerned to its management fund to meet the expenditure referred to in subsection (7) and any contributions so levied by the management corporation shall be deemed to be contributions levied under section 48(1)(r).
 
-[Act 16 of 1987 wef 01/12/1987]
+[124
 
-### Effect of the issue of qualified certificate of title and of subsidiary strata certificates of title
+### Effect of issue of qualified certificate of title and of subsidiary strata certificates of title
 
-125\.—(1) Upon the issue of a qualified certificate of title for the land pursuant to section 122, the provisions of the Land Titles Act (Cap. 157) relating to a qualified certificate of title except section 12(1), (2) and (6) of that Act shall apply to the land comprised therein.
+128\.—(1) Upon the issue of a qualified certificate of title for the land pursuant to section 125, the provisions of the Land Titles Act [Cap. 157] relating to a qualified certificate of title, except section 15(1), (2) and (6) of that Act, shall apply to the land comprised therein.
 
-(2) Upon the issue of the subsidiary strata certificates of title for the flats pursuant to section 122, 123 or 124, all the provisions of the leases of the flats registered under the provisions of the Registration of Deeds Act (Cap. 269) and the Land Titles Act shall cease to apply to the flats except in respect of any terms, covenants and conditions which were subsisting prior to the date of the issue of the subsidiary strata certificates of title in so far as they relate to any obligations which have yet to be fulfilled or any cause of action which had arisen as between the registered proprietors of the flats themselves and as between the registered proprietors of the flats and the registered proprietors of the land on which the flats are erected.
+[16/87]
 
-[Act 16 of 1987 wef 01/12/1987]
+(2) Upon the issue of the subsidiary strata certificates of title for the flats pursuant to section 125, 126 or 127, all the provisions of the leases of the flats registered under the provisions of the Registration of Deeds Act [Cap. 269] and the Land Titles Act shall cease to apply to the flats except in respect of any terms, covenants and conditions which were subsisting prior to the date of the issue of the subsidiary strata certificates of title in so far as they relate to any obligations which have yet to be fulfilled or any cause of action which had arisen as between the registered proprietors of the flats themselves and as between the registered proprietors of the flats and the registered proprietors of the land on which the flats are erected.
+
+[125
 
 ### Exemption from stamp duty
 
-126\. A transfer lodged pursuant to section 122 or 123 shall be exempted from the payment of stamp duty.
+129\. A transfer lodged pursuant to section 125 or 126 shall be exempted from the payment of stamp duty.
 
-[Act 16 of 1987 wef 01/12/1987]
+[126
 
-## PART IX
+[16/87]
 
 ### Regulations
 
-127\.—(1) The Minister may make regulations not inconsistent with this Act for giving effect to the provisions of this Act.
+130\.—(1) The Minister may make regulations not inconsistent with this Act for giving effect to the provisions of this Act.
+
+[16/87]
 
 (2) Without prejudice to the generality of subsection (1), the Minister may make regulations with respect to —
 
-(a) the fees to be paid to a management corporation for any thing to be done under this Act;
+(a) the fees to be paid to a management corporation for anything to be done under this Act;
 
 (b) the nomination and election of members of a council of a management corporation;
 
@@ -2972,23 +3141,31 @@ FOR FLATS UNDER OTHER SCHEMES
 
 (j) any matter which by this Act is required or permitted to be prescribed or is necessary or convenient to be prescribed for carrying out or giving effect to any provision of this Act.
 
-[Act 16 of 1987 wef 01/12/1987]
+[127
+
+### Transitional and savings provisions
+
+131\.\*—(1) The transitional and savings provisions in the Fourth Schedule to this Act shall have effect.
+
+(2) Except as provided in the Fourth Schedule, nothing in that Schedule shall affect any saving provided by the Interpretation Act [Cap. 1].
+
+\*Section 19 of the Land Titles (Strata) (Amendment) Act 1987 (No. 16 of 1987).
 
 FIRST SCHEDULE
 
-Sections 38(2), (3) and (4) and 47(e).
+Sections 41(2), (3), (6) and (15) and 50(e)
 
 By-laws
 
 Part I
 
-Chairman, secretary and treasure of management corporation
+Chairman, secretary and treasurer of management corporation
 
 1\. The chairman, secretary and treasurer of the council shall also be respectively the chairman, secretary and treasurer of the management corporation.
 
-Council may employ agents and servants
+Council may employ agents and employees
 
-2\. A council may employ for and on behalf of the management corporation such agents and servants as it thinks fit in connection with the exercise and performance of the powers, duties and functions of the management corporation.
+2\. A council may employ for and on behalf of the management corporation such agents and employees as it thinks fit in connection with the exercise and performance of the powers, duties and functions of the management corporation.
 
 Notice-board
 
@@ -3004,7 +3181,7 @@ Powers and duties of secretary of management corporation
 
 (c) the maintenance of the strata roll;
 
-(d) the supply of information on behalf of the management corporation in accordance with section 51(1)(a) and (b);
+(d) the supply of information on behalf of the management corporation in accordance with section 54(1)(a) and (b);
 
 (e) the answering of communications addressed to the management corporation; and
 
@@ -3018,39 +3195,39 @@ Powers and duties of treasurer of management corporation
 
 (b) the receipt, acknowledgment and banking of and the accounting for any money paid to the management corporation;
 
-(c) the preparation of any certificate applied for under section 51(1)(c); and
+(c) the preparation of any certificate applied for under section 54(1)(c); and
 
-(d) the keeping of the books of account referred to in section 45(1)(j) and the preparation of the statement of accounts referred to in section 45(1)(k).
+(d) the keeping of the books of account referred to in section 48(1)(j) and the preparation of the statement of accounts referred to in section 48(1)(k).
 
 Part II
 
 Duty to furnish information
 
-6\. Any member of the council shall furnish the Commissioner or any person authorised by him to act on his behalf such information as the member possesses which the Commissioner or any such duly authorised person considers necessary for the purposes of discharging the functions of the Commissioner under this Act or the Buildings and Common Property (Maintenance and Management) Act (Cap. 30).
+1\. Any member of the council shall furnish the Commissioner or any person authorised by him to act on his behalf such information as the member possesses which the Commissioner or any such duly authorised person considers necessary for the purposes of discharging the functions of the Commissioner under this Act or the Buildings and Common Property (Maintenance and Management) Act [Cap. 30].
 
 Noise
 
-7\. A subsidiary proprietor or occupier of a lot shall not upon the parcel create any noise likely to interfere with the peaceful enjoyment of the subsidiary proprietor or occupier of another lot or of any person lawfully using the common property.
+2\. A subsidiary proprietor or occupier of a lot shall not upon the parcel create any noise likely to interfere with the peaceful enjoyment of the subsidiary proprietor or occupier of another lot or of any person lawfully using the common property.
 
 Vehicles
 
-8\. A subsidiary proprietor or occupier of a lot shall not park or leave any motor vehicle or other vehicle upon the common property except with the approval of the management corporation.
+3\. A subsidiary proprietor or occupier of a lot shall not park or leave any motor vehicle or other vehicle upon the common property except with the approval of the management corporation.
 
 Obstruction of common property
 
-9\. A subsidiary proprietor or occupier of a lot shall not obstruct the lawful use of the common property by any person.
+4\. A subsidiary proprietor or occupier of a lot shall not obstruct the lawful use of the common property by any person.
 
 Damage to lawns, etc., on common property
 
-10. A subsidiary proprietor or occupier of a lot shall not —
+5. A subsidiary proprietor or occupier of a lot shall not —
 
-(a) damage any lawn, garden, trees, shrub, plant or flower being part of or situated upon the common property; or
+(a) damage any lawn, garden, trees, shrub, plant or flower being part of, or situated upon, the common property; or
 
 (b) use for his own purposes as a garden any portion of the common property.
 
 Damage to common property
 
-11. A subsidiary proprietor or occupier of a lot shall not mark, paint, drive nails or screws or the like into, or otherwise damage or deface, any structure that forms part of the common property without the approval in writing of the management corporation, but this by-law shall not prevent a subsidiary proprietor or person authorised by him from installing —
+6. A subsidiary proprietor or occupier of a lot shall not mark, paint, drive nails or screws or the like into, or otherwise damage or deface, any structure that forms part of the common property without the approval in writing of the management corporation, but this by-law shall not prevent a subsidiary proprietor or person authorised by him from installing —
 
 (a) any locking or other safety device for the protection of his lot against intruders; or
 
@@ -3058,19 +3235,19 @@ Damage to common property
 
 Permission to carry out alterations
 
-12\. A subsidiary proprietor or occupier shall not make any alteration to the windows installed in the external walls of the subdivided building without having obtained the approval in writing of the management corporation.
+7\. A subsidiary proprietor or occupier shall not make any alteration to the windows installed in the external walls of the subdivided building without having obtained the approval in writing of the management corporation.
 
 Balconies
 
-13\. A subsidiary proprietor or occupier of a lot shall not make any alterations or additions to any balcony of his lot without the written approval of the management corporation.
+8\. A subsidiary proprietor or occupier of a lot shall not make any alterations or additions to any balcony of his lot without the written approval of the management corporation.
 
 Behaviour of subsidiary proprietors and occupiers
 
-14\. A subsidiary proprietor or occupier of a lot when upon the common property shall be adequately clothed and shall not use language or behave in a manner likely to cause offence or embarrassment to the subsidiary proprietor or occupier of another lot or to any person lawfully using the common property.
+9\. A subsidiary proprietor or occupier of a lot when upon the common property shall be adequately clothed and shall not use language or behave in a manner likely to cause offence or embarrassment to the subsidiary proprietor or occupier of another lot or to any person lawfully using the common property.
 
 Children playing on common property in building
 
-15. A subsidiary proprietor or occupier of a lot shall take all reasonable steps to ensure that any child of whom he has control when playing upon the common property shall not —
+10. A subsidiary proprietor or occupier of a lot shall take all reasonable steps to ensure that any child, of whom he has control when playing upon the common property, shall not —
 
 (a) cause any damage to the common property; and
 
@@ -3078,29 +3255,29 @@ Children playing on common property in building
 
 Behaviour of invitees
 
-16\. A subsidiary proprietor or occupier of a lot shall take all reasonable steps to ensure that his invitees do not behave in a manner likely to interfere with the peaceful enjoyment of the subsidiary proprietor or occupier of another lot or of any person lawfully using the common property.
+11\. A subsidiary proprietor or occupier of a lot shall take all reasonable steps to ensure that his invitees do not behave in a manner likely to interfere with the peaceful enjoyment of the subsidiary proprietor or occupier of another lot or of any person lawfully using the common property.
 
 Depositing rubbish, etc., on common property
 
-17\. A subsidiary proprietor or occupier of a lot shall not deposit or throw upon the common property any rubbish, dirt, dust or other material likely to interfere with the peaceful enjoyment of the subsidiary proprietor or occupier of another lot or of any person lawfully using the common property.
+12\. A subsidiary proprietor or occupier of a lot shall not deposit or throw upon the common property any rubbish, dirt, dust or other material likely to interfere with the peaceful enjoyment of the subsidiary proprietor or occupier of another lot or of any person lawfully using the common property.
 
 Drying of laundry items
 
-18\. A subsidiary proprietor or occupier of a lot shall not, except with the consent in writing of the management corporation, hang any washing, towel, bedding, clothing or other article on any part of the parcel in such a way as to be visible from outside the subdivided building other than on any lines provided for the purpose and there only for a reasonable period.
+13\. A subsidiary proprietor or occupier of a lot shall not, except with the consent in writing of the management corporation, hang any washing, towel, bedding, clothing or other article on any part of the parcel in such a way as to be visible from outside the subdivided building, other than on any lines provided for the purpose and there only for a reasonable period.
 
 Floor coverings
 
-19\. A subsidiary proprietor or occupier of a lot who carries out any pounding of chillies or other substances for cooking purposes shall ensure that the part of the floor on which the activity is carried out is covered to an extent sufficient to prevent the transmission therefrom of noise likely to disturb the peaceful enjoyment of the subsidiary proprietor or occupier of another lot.
+14\. A subsidiary proprietor or occupier of a lot who carries out any pounding of chillies or other substances for cooking purposes shall ensure that the part of the floor on which the activity is carried out is covered to an extent sufficient to prevent the transmission therefrom of noise likely to disturb the peaceful enjoyment of the subsidiary proprietor or occupier of another lot.
 
 Storage of flammable liquids, etc.
 
-20.—(1) A subsidiary proprietor or occupier of a lot shall not use or store upon his lot or upon the common property any flammable chemical, liquid, or gas or other flammable material, other than chemicals, liquids, gases or other material used or intended to be used for domestic purposes, or any such chemical, liquid, gas or other material in a fuel tank of a motor vehicle or internal combustion engine.
+15.—(1) A subsidiary proprietor or occupier of a lot shall not use or store upon his lot or upon the common property any flammable chemical, liquid, gas or other flammable material, other than chemicals, liquids, gases or other material used or intended to be used for domestic purposes, or any such chemical, liquid, gas or other material in a fuel tank of a motor vehicle or internal combustion engine.
 
-(2) This by-law shall not apply to any lot where the subsidiary proprietor or occupier thereof has obtained a licence issued under section 14 of the Building Control Act (Cap. 29) authorising the use of a lot for a trade or other purpose specified in that section.
+(2) This by-law shall not apply to any lot where the subsidiary proprietor or occupier thereof has obtained a licence issued under section 14 of the Building Control Act [Cap. 29] authorising the use of a lot for a trade or other purpose specified in that section.
 
 Refuse disposal
 
-21.—(1) A subsidiary proprietor or occupier of a lot in a multi-storeyed subdivided building provided with chutes for the disposal of refuse shall —
+16.—(1) A subsidiary proprietor or occupier of a lot in a multi-storeyed subdivided building provided with chutes for the disposal of refuse shall —
 
 (a) ensure that before any refuse is thrown into the chutes it is securely wrapped in plastic bags or other similar materials; and
 
@@ -3108,42 +3285,37 @@ Refuse disposal
 
 (2) A subsidiary proprietor or occupier of a lot which is not provided with any chute for the disposal of refuse —
 
-(a) shall maintain within his lot, or on such part of the common property as may be authorised by the management corporation, in clean and dry condition and adequately covered a receptacle for the disposal of refuse;
+(a) shall maintain within his lot, or on such part of the common property as may be authorised by the management corporation, in clean and dry condition, an adequately covered receptacle for the disposal of refuse;
 
 (b) shall ensure that before refuse is placed in the receptacle it is securely wrapped or, in the case of tins or other containers, completely drained;
 
-(c) for the purpose of having the refuse collected shall, not more than one hour before the time at which refuse is normally collected, place the receptacle within an area designated for that purpose by the management corporation;
+(c) for the purpose of having the refuse collected, shall, not more than one hour before the time at which refuse is normally collected, place the receptacle within an area designated for that purpose by the management corporation;
 
-(d) when the refuse has been collected shall promptly return the receptacle to his lot or other area referred to in paragraph (a);
+(d) when the refuse has been collected shall promptly return the receptacle to his lot or other area referred to in sub-paragraph (a);
 
-(e) shall not place any thing in the receptacle of the subsidiary proprietor or occupier of any other lot except with the permission of that subsidiary proprietor or occupier; and
+(e) shall not place anything in the receptacle of the subsidiary proprietor or occupier of any other lot except with the permission of that subsidiary proprietor or occupier; and
 
 (f) shall promptly remove anything which he or the refuse collector may have spilled from the receptacle and shall take such action as may be necessary to clean the area within which that thing was so spilled.
 
 Keeping of animals
 
-22\. A subsidiary proprietor or occupier of a lot shall not keep any animal upon his lot or the common property which may cause annoyance to the subsidiary proprietors or occupiers of other lots.
+17\. A subsidiary proprietor or occupier of a lot shall not keep any animal upon his lot or the common property which may cause annoyance to the subsidiary proprietors or occupiers of other lots.
 
 Duty to maintain lot
 
-23\. A subsidiary proprietor or occupier of a lot shall maintain his lot including all sanitary fittings, water, gas, electrical and air-conditioning pipes and apparatus thereof in a good condition so as not to cause annoyance to the subsidiary proprietors or occupiers of other lots.
+18\. A subsidiary proprietor or occupier of a lot shall maintain his lot including all sanitary fittings, water, gas, electrical and air-conditioning pipes and apparatus thereof in a good condition so as not to cause annoyance to the subsidiary proprietors or occupiers of other lots.
 
-Lot not to be used for purpose injurious to the reputation of the building
+Lot not to be used for purpose injurious to reputation of building
 
-24. A subsidiary proprietor or occupier of a lot shall not use his lot for any purpose (illegal or otherwise) which may be injurious to the reputation of the subdivided building.
+19. A subsidiary proprietor or occupier of a lot shall not use his lot for any purpose (illegal or otherwise) which may be injurious to the reputation of the subdivided building.
 
-[Act 16 of 1987 wef 01/12/1987]
+[16/87]
 
 SECOND SCHEDULE
 
-Section 57(9).
+Section 60(9).
 
-Proceedings of the councils of
-
-
-
-
-management corporations
+Proceedings of the councils of management corporations
 
 Chairman to preside at meetings
 
@@ -3155,7 +3327,7 @@ Meetings of councils
 
 (2) Subject to this Act, the decision on any matter, where there is only one member of a council, of that member or, where there are two or more members of a council, of the majority of the members voting on that matter shall be the decision of the council at any meeting at which a quorum is present.
 
-(3) A council shall cause a record of its decisions, of any notices given to its secretary under section 60(3), and full and accurate minutes of its meetings, to be kept.
+(3) A council shall cause a record of its decisions, of any notices given to its secretary under section 63(3), and full and accurate minutes of its meetings to be kept.
 
 Keeping of records
 
@@ -3167,7 +3339,7 @@ Keeping of records
 
 (b) on the application of a subsidiary proprietor or mortgagee of a lot (or any person authorised in writing by him) make the books of account available for inspection at all reasonable times.
 
-(3) The council shall permit the Commissioner or any person authorised by him to act on his behalf at all reasonable times full and free access to accounting and other records of the corporation and permit the Commissioner or such person to make copies of or make extracts from any such accounting or other records.
+(3) The council shall permit the Commissioner or any person authorised by him to act on his behalf at all reasonable times full and free access to accounting and other records of the management corporation and permit the Commissioner or such person to make copies of or make extracts from any such accounting or other records.
 
 Notice of council meetings
 
@@ -3187,11 +3359,11 @@ Acts, etc., of council valid notwithstanding vacancy, etc.
 
 be as valid as if the vacancy, defect or disqualification did not exist and the council were fully and properly constituted.
 
-[Act 16 of 1987 wef 01/12/1987]
+[16/87]
 
 THIRD SCHEDULE
 
-Sections 37(5) and 45(1)(l).
+Sections 40 and 48(1)(l).
 
 General meetings of a management corporation
 
@@ -3201,7 +3373,7 @@ Notice of general meetings
 
 (2) Every such notice for an annual general meeting shall —
 
-(a) be accompanied by a copy of the statement of accounts of the management corporation last prepared by the management corporation in accordance with section 45(1)(j) and a copy of the auditor’s report on the accounts of the management corporation; and
+(a) be accompanied by a copy of the statement of accounts of the management corporation last prepared by the management corporation in accordance with section 48(1)(j) and a copy of the auditor’s report on the accounts of the management corporation; and
 
 (b) include a motion for the adoption of those accounts.
 
@@ -3237,13 +3409,13 @@ Persons entitled to vote at general meetings
 
 (5) A subsidiary proprietor who is the trustee of a lot shall, subject to this Schedule, be entitled to cast a vote on any proposal submitted at a general meeting of a management corporation or on any election of members of the council and the persons beneficially interested in the trust shall not be entitled to cast such a vote.
 
-(6) The voting rights conferred by this paragraph shall be subject to section 56(9) and (10).
+(6) The voting rights conferred by this paragraph shall be subject to section 59(9) and (10).
 
 Quorum
 
 3.—(1) No business shall be transacted at any general meeting of a management corporation unless a quorum of members is present.
 
-(2) For the purposes of this paragraph, the number of subsidiary proprietors present at the meeting either in person or by proxy who own not less than one half of share values for all the lots shown on the strata title plan shall form a quorum. If within half an hour appointed for holding a general meeting no quorum of subsidiary proprietors is present, the general meeting, not being a general meeting convened on receipt of a requisition by members, may be held as if a quorum is present if there are two or more subsidiary proprietors present in person.
+(2) For the purposes of this paragraph, the number of subsidiary proprietors present at the meeting either in person or by proxy who own not less than 50% of share values for all the lots shown on the strata title plan shall form a quorum. If within half an hour appointed for holding a general meeting no quorum of subsidiary proprietors is present, the general meeting, not being a general meeting convened on receipt of a requisition by members, may be held as if a quorum is present if there are two or more subsidiary proprietors present in person.
 
 Motions out of order
 
@@ -3251,7 +3423,7 @@ Motions out of order
 
 Method of casting vote
 
-5\. Except as provided in paragraph 3(3), a vote on a motion submitted at a general meeting of a management corporation or on any election of members of the council may be cast by the person entitled to vote, either personally or by his duly appointed proxy.
+5\. Except as provided in paragraph 2(3), a vote on a motion submitted at a general meeting of a management corporation or on any election of members of the council may be cast by the person entitled to vote, either personally or by his duly appointed proxy.
 
 Chairman to preside
 
@@ -3279,7 +3451,7 @@ the motion shall be decided according to the value, ascertained in accordance wi
 
 (3) Subject to sub-paragraph (4), for the purposes of sub-paragraph (2) the value of a vote cast on a motion submitted at a general meeting of a management corporation by a person entitled to vote in respect of a lot shall be equal to the share value of that lot.
 
-(4) For the purposes of sub-paragraph (2), the value of the vote cast by a subsidiary proprietor of a provisional lot shall be one-fourth of the value that, but for this sub-paragraph, his vote would have under sub-paragraph (3), ignoring any fraction.
+(4) For the purposes of sub-paragraph (2), the value of the vote cast by a subsidiary proprietor of a provisional lot shall be 25% of the value that, but for this sub-paragraph, his vote would have under sub-paragraph (3), ignoring any fraction.
 
 (5) A poll shall be taken in such manner as the chairman thinks fit.
 
@@ -3305,11 +3477,11 @@ Amendment or revocation of unanimous or special resolutions
 
 Duties of proprietor until council is elected
 
-14\. Until the offices of chairman, secretary and treasurer of the management corporation are filled or until the expiration of the first annual general meeting, whichever first happens, the powers, duties and functions conferred or imposed on the holders of those offices shall be exercised and performed by the proprietor or by his agent duly authorised in writing.
+14\. Until the offices of the chairman, secretary and treasurer of the management corporation are filled or until the expiration of the first annual general meeting, whichever first happens, the powers, duties and functions conferred or imposed on the holders of those offices shall be exercised and performed by the proprietor or by his agent duly authorised in writing.
 
 Meetings of management corporation before first annual general meeting
 
-15.—(1) Until the first annual general meeting of the management corporation, the secretary of the management corporation may convene an extraordinary general meeting and shall do so on receipt of a requisition signed by one or more persons entitled to vote in respect of one or more lots, the share value or the sum of the share value of which is at least one-quarter of the aggregate share value.
+15.—(1) Until the first annual general meeting of the management corporation is held, the secretary of the management corporation may convene an extraordinary general meeting and shall do so on receipt of a requisition signed by one or more persons entitled to vote in respect of one or more lots, the share value or the sum of the share value of which is at least 25% of the aggregate share value.
 
 (2) The provisions of this Schedule (paragraph 1(2) excepted) shall apply to and in respect of a meeting referred to in sub-paragraph (1) so far as those provisions are not inconsistent with, or incapable of applying to, such a meeting.
 
@@ -3323,9 +3495,7 @@ Instrument of proxy
 
 Form of proxy for voting for or against a resolution
 
-18. Where it is desired to afford subsidiary proprietors an opportunity of voting for or against a resolution, the instrument appointing a proxy shall be in the following form or a form as near thereto as circumstances admit: I/We, of being a member/members of the above-named management corporation, hereby appoint , of , or failing him, of , as my/our proxy to vote for me/us on my/our behalf at the [annual or extraordinary, as the case may be] general meeting of the management corporation, to be held on the day of , 19 , and at any adjournment thereof. Signed this day of , 19 . This form is to be used *in favour of/against the resolution.1
-
-1Strike out whichever is not desired. [Unless otherwise instructed, the proxy may vote as he thinks fit.]
+18. Where it is desired to afford subsidiary proprietors an opportunity of voting for or against a resolution, the instrument appointing a proxy shall be in the following form or a form as near thereto as circumstances admit:
 
 Proxy to be deposited at registered address of management corporation
 
@@ -3335,7 +3505,91 @@ Authority not to be revoked by death of principal, etc.
 
 20. A vote given in accordance with the terms of an instrument of proxy or attorney shall be valid notwithstanding the previous death or unsoundness of mind of the principal or revocation of the instrument or of the authority under which the instrument was executed, or the transfer of the share in respect of which the instrument is given, if no intimation in writing of such death, unsoundness of mind, revocation, or transfer as aforesaid has been received by the management corporation at the registered office before the commencement of the meeting or adjourned meeting at which the instrument is used.
 
-[Act 16 of 1987 wef 01/12/1987]
+[16/87]
+
+FOURTH SCHEDULE
+
+Section 131.
+
+Transitional and savings provisions
+
+1.—(1) In this Schedule, unless the context otherwise requires —
+
+“Act” means the Land Titles (Strata) Act with the modifications and re-enactments made by the Land Titles (Strata) (Amendment) Act 1987;
+
+[16/87]
+
+“existing management corporation” means a management corporation which was constituted prior to 1st December 1987 under the repealed provisions of the Act and existing on that day;
+
+“repealed provisions of the Act” means the provisions of the Land Titles (Strata) Act [1985 Ed. Cap. 158] which were in force immediately prior to 1st December 1987.
+
+(2) In this Schedule, unless the context otherwise requires references to sections shall be construed as references to sections of the Act which are in force.
+
+2\. Any management corporation constituted under the repealed provisions of the Act existing on 1st December 1987 shall continue to be a body corporate capable of suing and being sued and having perpetual succession and a common seal.
+
+3. Subject to the provisions of this Schedule, the provisions of the Act shall, on and from 1st December 1987, apply to and in respect of —
+
+(a) the buildings comprised in a strata title plan which was registered under the Act before that day; and
+
+(b) any existing management corporation.
+
+4\. For the purposes of the application of any provisions of the Act to or in respect of an existing management corporation, “initial period”, in relation to that management corporation, shall be calculated from the date of the registration of the strata title plan concerned.
+
+5.—(1) Where the first annual general meeting of an existing management corporation has been held, the proprietor of the strata title plan concerned shall not fail or neglect to deliver to the management corporation the following documents within 28 days after notice in writing is given to him by the management corporation or, if the documents are not then in his possession, within 28 days after they come into his possession or under his control:
+
+(a) any plan, specification, certificate (other than a certificate of title for a lot), diagram or other document (including any policy of insurance) obtained or received by him and relating to the parcel or subdivided building; and
+
+(b) any book of account, notice or other record relating to the parcel or subdivided building other than any such document which exclusively evidences rights or obligations of the proprietor and which is not capable of being used for the benefit of the management corporation or any of the subsidiary proprietors, other than the proprietor.
+
+(2) A proprietor who fails to comply with sub-paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+
+6.—(1) Except as provided in sub-paragraph (2), section 34 shall not apply to an existing management corporation which has held its first annual general meeting prior to 1st December 1987.
+
+(2) In respect of a management corporation referred to in sub-paragraph (1), the proprietor shall within 14 days of 1st December 1987 account for and pay to the management corporation any surplus moneys in the trust fund set up by the proprietor pursuant to section 9 of the Buildings and Common Property (Maintenance and Management) Act [Cap. 30] for the maintenance of the subdivided building prior to the management corporation taking over the maintenance of the subdivided building.
+
+(3) Any person who contravenes sub-paragraph (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and to a further fine not exceeding $100 for every day during which the offence continues after conviction.
+
+7\. Section 35 shall apply to an existing management corporation as if the reference to the date of the registration of the strata title plan is a reference to 1st December 1987.
+
+8.—(1) Contributions levied under the repealed provisions of the Act by an existing management corporation and unpaid on 1st December 1987 may be recovered by that management corporation, and as on and from that day shall bear interest, as if they were contributions levied under section 42.
+
+(2) Section 42(3) shall not apply to contributions payable to an existing management corporation in respect of any period prior to 1st December 1987.
+
+(3) Any determination made by an existing management corporation before 1st December 1987 specifying the amounts to be raised by regular periodic contributions shall be deemed to be a determination made under section 48(1)(m) or (n), as the case may be, of the kind referred to in section 48(3).
+
+9\. For the purposes of any general meeting of an existing management corporation, being a general meeting held before the expiration of 21 days after 1st December 1987 the procedure for the convening and holding of meetings of such a management corporation and the rights of persons to vote at and to requisition meetings of such a management corporation shall be the same as they were under the repealed provisions of the Act.
+
+10\. The reference in section 45 to a notice served on the subsidiary proprietor of a lot by a public authority includes a reference to a notice served, before 1st December 1987, by such an authority on the subsidiary proprietor of a lot.
+
+11.—(1) The elected or constituted council of an existing management corporation shall, on and from 1st December 1987, be governed by the provisions of the Act.
+
+(2) On 1st December 1987, a member of the council of an existing management corporation who is not an individual subsidiary proprietor shall vacate his office.
+
+(3) A subsidiary proprietor who being a company was a member of the council of an existing management corporation immediately prior to 1st December 1987 shall as soon as practicable notify the management corporation in writing of the name of an individual who shall serve as a council member in its place on or after that day and such an individual shall be deemed to have been elected as a council member at a general meeting of that management corporation.
+
+12\. Section 68 shall apply to or in respect of an existing management corporation which has appointed a managing agent prior to 1st December 1987 as if the managing agent were appointed by the management corporation at an annual general meeting held prior to that day.
+
+13\. Section 71 shall not apply to or in respect of an existing management corporation which has in force on 1st December 1987 a policy of insurance expiring not later than one year after that day and effected by it in accordance with the repealed provisions of the Act, until the expiry of the policy.
+
+14. Any proceedings under the repealed sections 43 and 44 of the Act [1985 Ed. Cap. 158] which were pending immediately before 1st December 1987 may be continued and completed under the repealed provisions of the Act as if the Land Titles (Strata) (Amendment) Act 1987 had not been enacted.
+
+[16/87]
+
+15.—(1) Where an application and a transfer have been lodged under the repealed section 50 prior to 1st December 1987 and the Registrar has yet to issue the certificate of title for the land affected the application shall be deemed to be an application made under section 125.
+
+(2) Where an application referred to in sub-paragraph (1) has been lodged with the Registrar, the Registrar may require the applicant to lodge in a strata title plan for all the flats comprised in a building or buildings erected on the land to be brought under the Land Titles Act [Cap. 157].
+
+(3) For the purposes of sub-paragraph (2), the Registrar may direct the applicant to engage a registered surveyor to prepare the requisite strata title plan, lodge the strata title plan with the Chief Surveyor and, after approval by the Chief Surveyor, to lodge the strata title plan with an application for the issue of subsidiary strata certificates of title with the Registrar and to pay any fees due to be paid to the Chief Surveyor and the Registrar for the purposes of the application.
+
+(4) The Registrar may reject any application if the applicant refuses to comply with any direction given by the Registrar under this section.
+
+16.—(1) Notwithstanding the repeal of sections 51, 52, 53 and 54 of the Act [1985 Ed. Cap. 158], any pending applications for the bringing of land under the provisions of the Land Titles Act [Cap. 157], or for the issue of subsidiary strata certificates of title for flats in respect of which subsisting leases have been registered under the Registration of Deeds Act [Cap. 269] or the Land Titles Act, may be continued and completed under any of those repealed provisions of the Act as if the Land Titles (Strata) (Amendment) Act 1987 had not been enacted.
+
+[16/87]
+
+(2) The repealed section 50(6) and (7) [1985 Ed. Cap. 158] shall continue to apply to transfers of shares in the registered land and dealings in flats to which the registered land is appurtenant until such time when subsidiary strata certificates of title are obtained by the proprietors of the flats.
+
+[16/87]
 
 ## LEGISLATIVE HISTORY
 
@@ -3388,3 +3642,6 @@ This Legislative History is provided for the convenience of users of the Land Ti
 ||Date of Presentation of Select Committee Report|25 June 1987 (Parl. 10 of 1987)|
 ||Date of Third Reading|28 July 1987|
 ||Date of commencement|1 December 1987|
+|9.|**1988 Revised Edition—Land Titles (Strata) Act**|
+||(G.N. No. S 143/1989; S 92/1997 — Rectification Order)||
+||Date of operation|30 April 1988|
