@@ -40,7 +40,7 @@
 
 - [14 Presumption of misuse of intoxicating substance](#Presumption-of-misuse-of-intoxicating-substance)
 
-- [15 Government chemist certificate](#Government-chemist-certificate)
+- [15 Analyst’s certificate](#Analyst’s-certificate)
 
 [**Part IV TREATMENT AND REHABILITATION**](#Part-IV)
 
@@ -139,6 +139,10 @@ PRELIMINARY
 “article liable to seizure” means anything by means of or in respect of which an offence under this Act has been committed or which contains evidence of an offence under this Act;
 
 “Director” means the Director of the Central Narcotics Bureau appointed by the Minister under section 3(1) of the Misuse of Drugs Act [Cap. 185] and includes the Deputy Director of the Bureau;
+
+“Health Sciences Authority” means the Health Sciences Authority established under the Health Sciences Authority Act 2001;
+
+[4/2001 wef 01/04/2001]
 
 “inmate” means a person who is detained in an approved centre;
 
@@ -280,11 +284,11 @@ Provided that the certificate shall not be accepted as evidence for the prosecut
 
 ### Presumption of misuse of intoxicating substance
 
-14\. A person shall be presumed, until the contrary is proved, to have used or inhaled any intoxicating substance for the purpose of inducing or causing in himself a state of intoxication if the specimen of blood provided by him under section 13 is certified by a Government chemist to contain an amount of any chemical compound specified in the Schedule in excess of the amount specified in the second column of the Schedule in relation to that chemical compound.
+14\. A person shall be presumed, until the contrary is proved, to have used or inhaled any intoxicating substance for the purpose of inducing or causing in himself a state of intoxication if the specimen of blood provided by him under section 13 is certified by an analyst employed by the Health Sciences Authority to contain an amount of any chemical compound specified in the Schedule in excess of the amount specified in the second column of the Schedule in relation to that chemical compound.
 
-### Government chemist certificate
+### Analyst’s certificate
 
-15\. A certificate purporting to be signed by a Government chemist and purporting to relate to any chemical compound specified in the Schedule shall be admitted in evidence, in any proceedings for an offence under this Act, on its production by the prosecution without proof of signature and, until the contrary is proved, that certificate shall be prima facie evidence of all matters contained therein:
+15\. A certificate purporting to be signed by an analyst employed by the Health Sciences Authority and purporting to relate to any chemical compound specified in the Schedule shall be admitted in evidence, in any proceedings for an offence under this Act, on its production by the prosecution without proof of signature and, until the contrary is proved, that certificate shall be prima facie evidence of all matters contained therein:
 
 Provided that the certificate shall not be accepted as evidence for the prosecution unless a copy thereof had been served on the accused not less than 7 days before the hearing.
 
@@ -320,7 +324,9 @@ for voluntary treatment and rehabilitation on such terms and conditions as may b
 
 ### Approved centres
 
-18\.—(1) The Minister may from time to time, by notification in theGazette, declare any place or premises to be an approved centre for the purpose of the treatment and rehabilitation of persons who use or inhale intoxicating substances for the purpose of inducing or causing a state of intoxication and may at any time in like manner revoke or amend any such notification.
+18\. 
+
+(1) The Minister may from time to time, by notification in theGazette, declare any place or premises to be an approved centre for the purpose of the treatment and rehabilitation of persons who use or inhale intoxicating substances for the purpose of inducing or causing a state of intoxication and may at any time in like manner revoke or amend any such notification.
 
 ### Administration of approved centres
 
@@ -639,3 +645,9 @@ This Legislative History is provided for the convenience of users of the Intoxic
 |||(Bill No. 5/2000 published on 18 January 2000)|
 ||Date of Second and Third Readings|21 February 2000|
 ||Date of commencement|17 April 2000|
+|5.|**Act 4 of 2001—Health Sciences Authority Act 2001**|
+||(Consequential amendments made by)||
+||Date of First Reading|12 January 2001|
+|||(Bill No. 3/2001 published on 13 January 2001)|
+||Date of Second and Third Readings|22 February 2001|
+||Date of commencement|1 April 2001|
