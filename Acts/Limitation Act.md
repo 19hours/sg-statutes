@@ -68,6 +68,12 @@
 
 - [24 Extension of limitation period in case of disability](#Extension-of-limitation-period-in-case-of-disability)
 
+- [24A Time limits for negligence, nuisance and breach of duty actions in respect of latent injuries and damage](#Time-limits-for-negligence-nuisance-and-breach-of-duty-actions-in-respect-of-latent-injuries-and-damage)
+
+- [24B Overriding time limit for negligence, nuisance and breach of duty actions involving latent injuries and damage](#Overriding-time-limit-for-negligence-nuisance-and-breach-of-duty-actions-involving-latent-injuries-and-damage)
+
+- [24C Transitional provisions relating to section 24A](#Transitional-provisions-relating-to-section-24A)
+
 - [25 Extension of limitation period where debtor administers estate of his creditor](#Extension-of-limitation-period-where-debtor-administers-estate-of-his-creditor)
 
 - [26 Fresh accrual of action on acknowledgment or part payment](#Fresh-accrual-of-action-on-acknowledgment-or-part-payment)
@@ -182,21 +188,23 @@ Action of contract and tort and certain other actions
 
 (3) An action upon any judgment shall not be brought after the expiration of 12 years from the date on which the judgment became enforceable and no arrears of interest in respect of any judgment debt shall be recovered after the expiration of 6 years from the date on which the interest became due.
 
-(4) An action for damages for negligence, nuisance or breach of duty (whether the duty exists by virtue of a contract or of provision made by or under any written law or independently of any contract or any such provision) where the damages claimed by the plaintiff for the negligence, nuisance or breach of duty consist of or include damages in respect of personal injuries to any person, shall not be brought after the expiration of 3 years from the date on which the cause of action accrued.
-
-(5) Nothing in subsection (4) or in section 24(1)(b) shall affect any action or proceeding, if the cause of action arose before 6th May 1966.
-
-(6) An action to recover any penalty or forfeiture or sum by way of penalty or forfeiture recoverable by virtue of any Act or other written law shall not be brought after the expiration of one year from the date on which the cause of action accrued:
+(4) An action to recover any penalty or forfeiture or sum by way of penalty or forfeiture recoverable by virtue of any Act or other written law shall not be brought after the expiration of one year from the date on which the cause of action accrued:
 
 Provided that for the purposes of this subsection, “penalty” shall not include a fine to which a person is liable on conviction for a criminal offence.
 
-(7) Nothing in this section shall apply to —
+[Act 22 of 1992 wef 26/06/1992]
+
+(5) Nothing in this section shall apply to —
 
 (a) any cause of action within the admiralty jurisdiction of the High Court which is enforceable in rem other than an action to recover the wages of seamen; or
 
 (b) any action to recover money secured by any mortgage of or charge on land or personal property.
 
-(8) Subject to sections 22 and 32, this section shall apply to all claims for specific performance of a contract or for an injunction or for other equitable relief whether the same be founded upon any contract or tort or upon any trust or other ground in equity.
+[Act 22 of 1992 wef 26/06/1992]
+
+(6) Subject to sections 22 and 32, this section shall apply to all claims for specific performance of a contract or for an injunction or for other equitable relief whether the same be founded upon any contract or tort or upon any trust or other ground in equity.
+
+[Act 22 of 1992 wef 26/06/1992]
 
 ### Limitation in case of successive conversions and extinction of title of owner of converted goods
 
@@ -370,13 +378,17 @@ Provided that the right of action shall not be deemed to have accrued to any ben
 
 (a) 6 years;
 
-(b) in the case of actions to which section 6(4) applies, 3 years; or
+(b) in the case of actions to which section 24A(2) applies, 3 years; or
 
-(c) in the case of actions to which section 6(6) or section 8 applies, one year,
+[Act 22 of 1992 wef 26/06/1992]
+
+(c) in the case of actions to which section 6(4) or section 8 applies, one year,
 
 from the date when the person ceased to be under a disability or died, whichever event first occurred, notwithstanding that the period of limitation has expired:
 
 Provided that in any case to which section 29 applies, this subsection shall apply as if the date from which the period of limitation begins to run were substituted for the date when the right of action accrued.
+
+[Act 22 of 1992 wef 26/06/1992]
 
 (2) Where any such person as is referred to in subsection (1) was on such date under two disabilities or where before the disability which he was under on such date had ceased he was affected by another disability, he shall be deemed for the purposes of this section to have continued under a disability until both the disabilities have ceased.
 
@@ -391,6 +403,70 @@ Provided that in any case to which section 29 applies, this subsection shall app
 (c) no action to recover land or money charged on land for which a period of limitation is prescribed under this Act shall be brought by virtue of this section by any person after the expiration of 30 years from the date on which the right of action accrued to that person or some person through whom he claims;
 
 (d) nothing in those subsections shall apply to any action to recover a penalty or forfeiture, or sum by way thereof, by virtue of any written law, except where the action is brought by an aggrieved party.
+
+### Time limits for negligence, nuisance and breach of duty actions in respect of latent injuries and damage
+
+24A\.—(1) This section shall apply to any action for damages for negligence, nuisance or breach of duty (whether the duty exists by virtue of a contract or of a provision made by or under any written law or independently of any contract or any such provision).
+
+(2) An action to which this section applies, where the damages claimed consist of or include damages in respect of personal injuries to the plaintiff or any other person, shall not be brought after the expiration of —
+
+(a) 3 years from the date on which the cause of action accrued; or
+
+(b) 3 years from the earliest date on which the plaintiff has the knowledge required for bringing an action for damages in respect of the relevant injury, if that period expires later than the period mentioned in paragraph (a).
+
+(3) An action to which this section applies, other than one referred to in subsection (2), shall not be brought after the expiration of the period of either —
+
+(a) 6 years from the date on which the cause of action accrued; or
+
+(b) 3 years from the earliest date on which the plaintiff or any person in whom the cause of action was vested before him first had both the knowledge required for bringing an action for damages in respect of the relevant damage and a right to bring such an action, if that period expires later than the period mentioned in paragraph (a).
+
+(4) In subsections (2) and (3), the knowledge required for bringing an action for damages in respect of the relevant injury or damage (as the case may be) means knowledge —
+
+(a) that the injury or damage was attributable in whole or in part to the act or omission which is alleged to constitute negligence, nuisance or breach of duty;
+
+(b) of the identity of the defendant;
+
+(c) if it is alleged that the act or omission was that of a person other than the defendant, of the identity of that person and the additional facts supporting the bringing of an action against the defendant; and
+
+(d) of material facts about the injury or damage which would lead a reasonable person who had suffered such injury or damage to consider it sufficiently serious to justify his instituting proceedings for damages against a defendant who did not dispute liability and was able to satisfy a judgment.
+
+(5) Knowledge that any acts or omissions did or did not, as a matter of law, involve negligence, nuisance or breach of duty is irrelevant for the purposes of subsections (2) and (3).
+
+(6) For the purposes of this section, a person’s knowledge includes knowledge which he might reasonably have been expected to acquire —
+
+(a) from facts observable or ascertainable by him; or
+
+(b) from facts ascertainable by him with the help of appropriate expert advice which it is reasonable for him to seek,
+
+but a person shall not be taken by virtue of this subsection to have knowledge of a fact ascertainable only with the help of expert advice so long as he has taken all reasonable steps to obtain (and, where appropriate, to act on) that advice.
+
+[Act 22 of 1992 wef 26/06/1992]
+
+### Overriding time limit for negligence, nuisance and breach of duty actions involving latent injuries and damage
+
+24B\.—(1) An action for damages for negligence, nuisance or breach of duty to which section 24A applies shall not be brought after the expiration of 15 years from the starting date.
+
+(2) For the purposes of subsection (1), “starting date” means the date (or, if more than one, from the last of the dates) on which there occurred any act or omission —
+
+(a) which is alleged to constitute negligence, nuisance or breach of duty; and
+
+(b) to which the injury or damage in respect of which damages are claimed is alleged to be attributable (in whole or in part).
+
+(3) This section bars the right of action in a case to which subsection (1) applies notwithstanding that the cause of action has not yet accrued before the end of the period of limitation prescribed by this section.
+
+[Act 22 of 1992 wef 26/06/1992]
+
+### Transitional provisions relating to section 24A
+
+24C\.—(1) Nothing in section 24A shall —
+
+(a) enable any action to be brought which was barred by this Act immediately before the commencement of the Limitation (Amendment) Act 1992; or
+
+(b) affect any action commenced before the Limitation (Amendment) Act 1992 comes into force.
+
+(2) Subject to subsection (1), sections 24A and 24B shall have effect in relation to causes of action accruing before, as well as after, the Limitation (Amendment) Act 1992 comes into force.
+
+[Act 22 of 1992 wef 26/06/1992]
 
 ### Extension of limitation period where debtor administers estate of his creditor
 
@@ -539,3 +615,8 @@ This Legislative History is provided for the convenience of users of the Limitat
 ||Date of operation|1 March 1971|
 |6.|**1985 Revised Edition—Limitation Act**|
 ||Date of operation|30 March 1987|
+|7.|**Act 22 of 1992—Limitation (Amendment) Act 1992**|
+||Date of First Reading|27 February 1992|
+|||(Bill No. 14/1992 published on 28 February 1992)|
+||Date of Second and Third Readings|29 May 1992|
+||Date of commencement|26 June 1992|
