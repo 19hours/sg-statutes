@@ -540,7 +540,11 @@ Provided that a trade union shall not be so liable on any contract which is void
 
 [3/77]
 
-(2) Any registered trade union which, and every member of its executive who, contravenes subsection (1)shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $3,000.
+(1A) A registered trade union the majority of whose membership consists of employees in non-managerial or non-executive positions shall not commence, promote, organise or finance any strike or any form of industrial action in connection with any trade dispute between members employed in managerial or executive positions and represented by it under section 30B of the Industrial Relations Act (Cap. 136) and their employer.
+
+[23/2002 wef 01/09/2002]
+
+(2) Any registered trade union which, and every member of its executive who, contravenes subsection (1) or (1A) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $3,000.
 
 (3) The members of a trade union who commence, promote, organise, participate or otherwise act in furtherance of any strike or any form of industrial action —
 
@@ -550,11 +554,31 @@ Provided that a trade union shall not be so liable on any contract which is void
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
 
+(3A) No member of a registered trade union who is employed in a managerial or an executive position and who is represented by the trade union under section 30B of the Industrial Relations Act (Cap. 136) shall commence, promote, organise, participate or otherwise act in furtherance of any strike or any form of industrial action taken by the trade union.
+
+[23/2002 wef 01/09/2002]
+
+(3B) No member of a registered trade union the majority of whose membership consists of employees in non-managerial or non-executive positions shall commence, promote, organise, participate or otherwise act in furtherance of any strike or any form of industrial action in connection with any trade dispute between members employed in managerial or executive positions and represented by the trade union under section 30B of the Industrial Relations Act and their employer.
+
+[23/2002 wef 01/09/2002]
+
+(3C) Nothing in subsection (1A) or (3B) shall preclude a registered trade union referred to in those subsections or any of its members employed in non-managerial or non-executive positions from commencing, promoting, organising, financing, participating or otherwise acting in furtherance of any strike or any form of industrial action affecting those members in accordance with subsection (1).
+
+[23/2002 wef 01/09/2002]
+
+(3D) Any member of a registered trade union who contravenes subsection (3A) or (3B) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
+
+[23/2002 wef 01/09/2002]
+
 (4) Any person who instigates or incites others to take part in or otherwise acts in furtherance of a strike or any form of industrial action —
 
-(a) where the consent of the majority of the members of a trade union so affected has not been obtained by secret ballot; or
+(a) where the consent of the majority of the members of a trade union so affected has not been obtained by secret ballot;
 
-(b) taken in contravention of the rules or by-laws of the trade union to which the majority of the persons taking part in the strike or industrial action belongs,
+(b) taken in contravention of the rules or by-laws of the trade union to which the majority of the persons taking part in the strike or industrial action belongs; or
+
+(c) taken in contravention of subsection (3A) or (3B),
+
+[23/2002 wef 01/09/2002]
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $3,000.
 
@@ -564,9 +588,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (7) In any proceedings for an offence under this section, the onus of proving that the requirements specified in subsection (1), (2), (3) or (4) have been complied with shall be on the registered trade union, the member of its executive or a member of the trade union or any accused person, as the case may be.
 
-(8) For the purposes of this section, “industrial action” means the adoption of any practice, procedure or method in the performance of work which would result in a limitation on output or production in any occupation, service, trade, industry or business.
+(8) For the purposes of this section —
 
-[28
+(a) “industrial action” means the adoption of any practice, procedure or method in the performance of work which would result in a limitation on output or production in any occupation, service, trade, industry or business; and
+
+(b) where the majority of the membership of a registered trade union consists of employees in non-managerial or non-executive positions, the consent of its members employed in managerial or executive positions and represented by it under section 30B of the Industrial Relations Act (Cap. 136) shall not be taken into account in ascertaining whether the consent of the majority of the members have been obtained under subsection (1).
+
+[23/2002 wef 01/09/2002]
 
 ## PART V
 
@@ -731,6 +759,10 @@ shall be guilty of an offence and shall be liable on conviction by a District Co
 ### Secret ballot
 
 39\.—(1) The rules of a registered trade union relating to the taking of decisions by secret ballot shall ensure that every member or delegate (as the case may be) has an equal right, and a reasonable opportunity to record his vote freely, that the results of the voting are correctly ascertained and declared, and that the secrecy of the ballot is properly secured.
+
+(1A) Notwithstanding subsection (1), where the majority of the membership of a registered trade union consists of employees in non-managerial or non-executive positions, no rule of the trade union shall confer on any member who is employed in a managerial or an executive position the right to vote in any secret ballot taken for the purpose of obtaining the consent of its members to commence, organise, participate or otherwise act in furtherance of any strike or any form of industrial action under section 27(1).
+
+[23/2002 wef 01/09/2002]
 
 (2) For the purpose of satisfying himself that a secret ballot taken by a registered trade union has been properly conducted, the Registrar may order a person to deliver to him any ballot papers, envelopes, lists or other documents which have been used in connection with or are relevant to the secret ballot and which are in the possession or under the control of that person and may take possession of any such ballot papers, envelopes, lists or other documents and may inspect the same and retain them for such period as is necessary for such purpose; but except as aforesaid or as may be provided in the rules of the trade union, no person shall be allowed to inspect or copy any such paper or document relating to a secret ballot.
 
@@ -1233,3 +1265,9 @@ This Legislative History is provided for the convenience of users of the Trade U
 |||(Bill No. 6/2000 published on 18 January 2000)|
 ||Date of Second and Third Readings|22 February 2000|
 ||Date of commencement|15 December 2000|
+|22.|**Act 23 of 2002—Industrial Relations (Amendment) Act 2002**|
+||(Consequential amendments made by)||
+||Date of First Reading|8 July 2002|
+|||(Bill No. 25/2002 published on 9 July 2002)|
+||Date of Second and Third Readings|23 July 2002|
+||Date of commencement|1 September 2002|
