@@ -1,14 +1,12 @@
-**Executive Condominium Housing Scheme Act 1996**
+**Executive Condominium Housing Scheme Act**
 
-**(No. 10 of 1996)**
+**(CHAPTER 99A)**
 
 **Table of Contents**
 
 [**Long Title**](#Executive-Condominium-Housing-Scheme-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -36,51 +34,33 @@
 
 - [14 Exemption](#Exemption)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Executive Condominium Housing Scheme Act
 
-ACTS SUPPLEMENT
+(CHAPTER 99A)
 
-Published by Authority
+(Original Enactment: Act 10 of 1996)
 
-NO. 17]
+REVISED EDITION 1997
 
-Thursday, May 30
-
-[1996
-
-The following Act was passed by Parliament on 27th February 1996 and assented to by the President on 12th March 1996:—
-
-Executive Condominium Housing Scheme Act 1996
-
-(No. 10 of 1996)
-
-I assent.
-
-ONG TENG CHEONG
-
-President
-
-12th March 1996.
-
-Date of Commencement: 7th June 1996
+(30th May 1997)
 
 An Act to establish the executive condominium housing scheme, and to provide for matters connected therewith.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[7th June 1996]
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Executive Condominium Housing Scheme Act 1996 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Executive Condominium Housing Scheme Act.
 
 ### Interpretation
 
 2\.—(1) In this Act, unless the context otherwise requires —
 
-“Board” means the Housing and Development Board established under section 3 of the Housing and Development Act [Cap. 129];
+“Board” means the Housing and Development Board established under section 3 of the Housing and Development Act (Cap. 129);
 
-“commercial property” means any flat, house or tenement or any part thereof which is permitted to be used pursuant to the Planning Act [Cap. 232] or any other written law for the purpose of carrying on any business or which is lawfully so used;
+“commercial property” means any flat, house or tenement or any part thereof which is permitted to be used pursuant to the Planning Act (Cap. 232) or any other written law for the purpose of carrying on any business or which is lawfully so used;
 
 “develop” means to construct or cause to be constructed any housing accommodation, including any building operations in, on, over or under any land for the purpose of erecting any housing accommodation;
 
@@ -90,13 +70,13 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 “housing accommodation” means a horizontal stratum of any building or part thereof, whether such stratum is on one or more levels or is partially or wholly below the surface of the ground, which is wholly constructed, adapted or intended for human habitation;
 
-“minimum occupation period,” in relation to any housing accommodation under the executive condominium scheme, means a period of 5 years commencing from the date of issue of the temporary occupation permit in respect of the housing accommodation;
+“minimum occupation period”, in relation to any housing accommodation under the executive condominium scheme, means a period of 5 years commencing from the date of issue of the temporary occupation permit in respect of the housing accommodation;
 
 “permanent resident” means any person who is not subject to any restriction as to his period of residence in Singapore imposed under the provisions of any written law relating to immigration for the time being in force;
 
 “public housing accommodation” means any housing accommodation developed and sold by the Board;
 
-“temporary occupation permit” means a permit issued under section 20 of the Building Control Act [Cap. 29];
+“temporary occupation permit” means a permit issued under section 20 of the Building Control Act (Cap. 29);
 
 “transfer” includes a conveyance, sale, assignment, settlement, declaration of trust, assent, disposition of whatever nature, the vesting of any estate or interest in any housing accommodation by an instrument or under a vesting order of court and every instrument capable of vesting any estate or interest in any housing accommodation upon registration of such instrument by the Registrar of Titles, but does not include a mortgage, charge or reconveyance.
 
@@ -132,7 +112,7 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 (d) between the date of making an application to purchase the housing accommodation and the date of issue of the temporary occupation permit in respect of the housing accommodation, become ineligible to purchase the housing accommodation by virtue of any regulation made under section 3(2).
 
-(2) Where any person purchases any housing accom- modation under the executive condominium scheme in contravention of subsection (1), he shall not present for registration under the Land Titles Act [Cap. 157] the assurance of the housing accommodation.
+(2) Where any person purchases any housing accommodation under the executive condominium scheme in contravention of subsection (1), he shall not present for registration under the Land Titles Act (Cap. 157) the assurance of the housing accommodation.
 
 (3) Where, before the date of issue of the temporary occupation permit in respect of any housing accommodation under the executive condominium scheme, the developer is satisfied that any purchaser has contravened subsection (1) or section 7(1)(a), the developer shall —
 
@@ -174,7 +154,7 @@ transfer the housing accommodation or any estate or interest therein to any othe
 
 ### Transfer of housing accommodation on death of owner within 10 years of issue of temporary occupation permit
 
-8\.—(1) The transmission on the death of the owner, whether testate or intestate, or any transfer by the personal representatives of a deceased owner of a housing accommodation under the executive condominium scheme within 10 years of the date of issue of the temporary occupation permit in respect of the housing accommodation shall not be registered under the provisions of the Land Titles Act without the prior written consent of the Minister.
+8\.—(1) The transmission on the death of the owner, whether testate or intestate, or any transfer by the personal representatives of a deceased owner of a housing accommodation under the executive condominium scheme within 10 years of the date of issue of the temporary occupation permit in respect of the housing accommodation shall not be registered under the provisions of the Land Titles Act (Cap. 157) without the prior written consent of the Minister.
 
 (2) Where the Minister refuses to give his consent under subsection (1), the Minister may lodge an instrument with the Registrar of Titles to have the housing accommodation vested in the Board.
 
@@ -230,7 +210,7 @@ of his intention to lodge with the Registrar of Titles an instrument of vesting 
 
 (g) any purchaser thereof has made a misrepresentation of a material fact, whether innocently or otherwise, relating to the purchase of the housing accommodation;
 
-(h) any purchaser thereof has contravened section 7(1) (b);
+(h) any purchaser thereof has contravened section 7(1)(b);
 
 (i) any purchaser thereof has, within the minimum occupation period, ceased to be a citizen of Singapore; or
 
@@ -288,7 +268,7 @@ and in either case service shall be deemed to be made, in the case of service by
 
 ### Application of section 4 of Residential Property Act
 
-13\.—(1) Notwithstanding section 4 of the Residential Property Act, no housing accommodation under the executive condominium scheme shall be transferred to any person who is not a citizen of Singapore except in the following circumstances:
+13\.—(1) Notwithstanding section 4 of the Residential Property Act (Cap. 274), no housing accommodation under the executive condominium scheme shall be transferred to any person who is not a citizen of Singapore except in the following circumstances:
 
 (a) to any permanent resident on the expiry of the minimum occupation period; and
 
@@ -302,3 +282,20 @@ and in either case service shall be deemed to be made, in the case of service by
 
 14\. The Minister may, subject to such terms or conditions as he may impose, exempt any person or class of persons from all or any of the provisions of this Act or any regulations made thereunder.
 
+## LEGISLATIVE HISTORY
+
+Executive Condominium Housing Scheme Act
+
+(CHAPTER 99A)
+
+This Legislative History is provided for the convenience of users of the Executive Condominium Housing Scheme Act. It is not part of the Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 10 of 1996—Executive Condominium Housing Scheme Act 1996**|
+||Date of First Reading|18 January 1996|
+|||(Bill No. 4/1996 published on 19 January 1996)|
+||Date of Second and Third Readings|27 February 1996|
+||Date of commencement|7 June 1996|
+|2.|**1997 Revised Edition—Executive Condominium Housing Scheme Act**|
+||Date of operation|30 May 1997|
