@@ -190,9 +190,7 @@
 
 - [69 Mode of execution of power](#Mode-of-execution-of-power)
 
-[**Part XIIA ACCUMULATIONS**](#Part-XIIA)
-
-- [69A Restrictions on accumulation of income. Cf. 39 and 40. George III, c. 98 (Accumulations Act 1800) Law of Property Act 1925, s. 164](#Restrictions-on-accumulation-of-income-Cf-39-and-40-George-III-c-98-Accumulations-Act-1800-Law-of-Property-Act-1925-s-164)
+[**Part XIIA (Repealed)**](#Part-XIIA)
 
 [**Part XIII NOTICE**](#Part-XIII)
 
@@ -1264,8 +1262,6 @@ the mortgage money, or other money or money’s worth, for the time being due to
 
 66A\.—(1) Tenants in common entitled in equal shares who intend to hold their estate or interest in land as joint tenants may jointly declare by a deed of declaration that they hold the estate or interest in their respective shares in the land as joint tenants of the entire estate or interest thereof.
 
-[25/2001 wef 20/08/2001]
-
 [27/93]
 
 (2) Upon the making of the deed of declaration referred to in subsection (1) —
@@ -1318,37 +1314,7 @@ POWERS
 
 ACCUMULATIONS
 
-### Restrictions on accumulation of income. Cf. 39 and 40. George III, c. 98 (Accumulations Act 1800) Law of Property Act 1925, s. 164
-
-69A\.—(1) No person may by any instrument or otherwise settle or dispose of any property in such manner that the income thereof shall, except as provided in subsection (2), be wholly or partially accumulated for any longer period than one of the following, namely:
-
-(a) the life of the grantor or settlor;
-
-(b) a term of 21 years from the death of the grantor, settlor or testator;
-
-(c) the duration of the minority or respective minorities of any person or persons living or en ventre sa mere at the death of the grantor, settlor or testator;
-
-(d) the duration of the minority or respective minorities only of any person or persons who under the limitations of the instrument directing the accumulations would, for the time being, if of full age, be entitled to the income directed to be accumulated;
-
-(e) a term of 21 years from the date of the making of the disposition; or
-
-(f) the duration of the minority or respective minorities of any person or persons in being at the date of the making of the disposition.
-
-In every case where any accumulation is directed otherwise than as aforesaid, the direction shall, except as provided in subsection (2), be void; and the income of the property directed to be accumulated shall, so long as the same is directed to be accumulated contrary to this section, go to and be received by the person or persons who would have been entitled thereto if such accumulation had not been directed.
-
-(2) This section does not extend to any provision —
-
-(a) for payment of the debts of any grantor, settlor, testator or other person;
-
-(b) for raising portions for —
-
-(i) any child, children or remoter of any grantor, settlor or testator; or
-
-(ii) any child, children or remoter issue of a person taking any interest under any settlement or other disposition directing the accumulations or to whom any interest is thereby limited,
-
-and accordingly such provisions may be made as if no statutory restrictions on accumulation of income had been imposed.
-
-[35/93]
+[PART XIIA — Deleted by Act 45/2004 wef 15/12/2004]
 
 ## PART XIII
 
@@ -1615,21 +1581,20 @@ This Legislative History is provided for the convenience of users of the Conveya
 ||Date of commencement|1 March 1994|
 |24.|**1994 Revised Edition—Conveyancing and Law of Property Act**|
 ||Date of operation|15 March 1994|
-|25.|**Act 27 of 1993—Land Titles Act 1993**|
-||Date of First Reading|16 November 1992|
-|||(Bill No. 36/1992 published on 12 November 1993)|
-||Date of Second and Third Readings|30 August 1993|
-||Date of commencement|1 March 1994|
-|26.|**1994 Revised Edition—Conveyancing and Law of Property Act**|
-||Date of operation|15 March 1994|
-|27.|**Act 7 of 1997—Statutes (Miscellaneous Amendment) Act 1997**|
+|25.|**Act 7 of 1997—Statutes (Miscellaneous Amendment) Act 1997**|
 ||Date of First Reading|11 July 1997|
 |||(Bill No. 6/1997 published on 12 July 1997)|
 ||Date of Second and Third Readings|25 August 1997|
 ||Date of commencement|1 October 1997|
-|28.|**Act 25 of 2001—Land Titles (Amendment) Act 2001**|
-||(Consequential amendments made by)||
+|26.|**Act 25 of 2001—Land Titles (Amendment) Act 2001**|
+||(Consequential amendments made to Act by)||
 ||Date of First Reading|11 July 2001|
 |||(Bill No. 23/2001 published on 12 July 2001)|
 ||Date of Second and Third Readings|25 July 2001|
 ||Date of commencement|20 August 2001|
+|27.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 September 2004|
+|||(Bill No. 43/2004 published on 22 September 2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|15 December 2004|
