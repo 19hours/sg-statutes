@@ -1,16 +1,14 @@
-**Intoxicating Substances Act 1987**
+**Intoxicating Substances Act**
 
-**(No. 24 of 1987)**
+**(CHAPTER 146A)**
 
 **Table of Contents**
 
 [**Long Title**](#Intoxicating-Substances-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -74,51 +72,31 @@
 
 - [28 Regulations](#Regulations)
 
-- [29 Consequential amendments to the Children and Young Persons Act](#Consequential-amendments-to-the-Children-and-Young-Persons-Act)
-
 [**THE SCHEDULE**](#THE-SCHEDULE)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Intoxicating Substances Act
 
-ACTS SUPPLEMENT
+(CHAPTER 146A)
 
-Published by Authority
+(Original Enactment: Act 24 of 1987)
 
-NO. 27]
+REVISED EDITION 1988
 
-Friday, September 25
-
-[1987
-
-The following Act was passed by Parliament on 31st August 1987 and assented to by the President on 14th September 1987:—
-
-Intoxicating Substances Act 1987
-
-(No. 24 of 1987)
-
-I assent.
-
-WEE KIM WEE
-
-President.
-
-14th September 1987.
-
-Date of Commencement: 14th November 1986
+(30th April 1988)
 
 An Act to prohibit the misuse of certain substances which may cause intoxication when inhaled and for purposes connected therewith.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st November 1987]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Intoxicating Substances Act 1987 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Intoxicating Substances Act.
 
 ### Interpretation
 
@@ -126,9 +104,9 @@ PRELIMINARY
 
 “approved centre” means any place or premises declared by the Minister to be an approved centre under section 18;
 
-“article liable to seizure” means any thing by means of or in respect of which an offence under this Act has been committed or which contains evidence of an offence under this Act;
+“article liable to seizure” means anything by means of or in respect of which an offence under this Act has been committed or which contains evidence of an offence under this Act;
 
-“Director” means the Director of the Central Narcotics Bureau appointed by the Minister under section 3(1) of the Misuse of Drugs Act (Cap. 185) and includes the Deputy Director of the Bureau;
+“Director” means the Director of the Central Narcotics Bureau appointed by the Minister under section 3(1) of the Misuse of Drugs Act [Cap. 185] and includes the Deputy Director of the Bureau;
 
 “inmate” means a person who is detained in an approved centre;
 
@@ -136,7 +114,7 @@ PRELIMINARY
 
 “officer of the Bureau” means the Director or any officer of the Central Narcotics Bureau;
 
-“police officer” has the same meaning as in the Police Force Act (Cap. 235) and, in relation to a person who is subject to military law under the Singapore Armed Forces Act (Cap. 295), includes a military policeman as defined in section 2 of that Act;
+“police officer” has the same meaning as in the Police Force Act [Cap. 235] and, in relation to a person who is subject to military law under the Singapore Armed Forces Act [Cap. 295], includes a military policeman as defined in section 2 of that Act;
 
 “Review Committee”, in relation to any approved centre, means a Review Committee appointed for the approved centre under section 19;
 
@@ -238,7 +216,7 @@ shall be guilty of an offence.
 
 10\.—(1) Whenever anything is seized under this Act, the officer who carried out the seizure shall forthwith give notice in writing of the seizure to the owner of that thing, if known, either by delivering the notice personally to him or by post at his place of abode, if known, except that the notice shall not be required to be given where the seizure is made in the presence of the offender or the owner or his agent.
 
-(2) An order for the forfeiture of any article liable to seizure shall be made if it is proved to the satisfaction of a court that an offence under this Act has been committed and that such article was the subject matter of or was used in the commission of the offence notwithstanding that no person may have been convicted of that offence.
+(2) An order for the forfeiture of any article liable to seizure shall be made if it is proved to the satisfaction of a court that an offence under this Act has been committed and that such article was the subject-matter of or was used in the commission of the offence notwithstanding that no person may have been convicted of that offence.
 
 (3) If there is no prosecution with regard to any article seized under this Act, that article shall be deemed to be forfeited at the expiration of one month from the date of seizure thereof unless a claim thereto has been made before that date in such manner as may be prescribed.
 
@@ -248,7 +226,7 @@ shall be guilty of an offence.
 
 ### Powers of investigation of officers of Bureau
 
-12\. In any case relating to the commission of an offence under this Act, an officer of the Bureau shall have all the powers of a police officer under the Criminal Procedure Code (Cap. 68) in relation to an investigation into a seizable offence.
+12\. In any case relating to the commission of an offence under this Act, an officer of the Bureau shall have all the powers of a police officer under the Criminal Procedure Code in relation to an investigation into a seizable offence.
 
 ### Blood tests
 
@@ -262,7 +240,7 @@ shall be guilty of an offence.
 
 Provided that the certificate shall not be accepted as evidence for the prosecution unless a copy thereof had been served on the accused not less than 7 days before the hearing.
 
-(5) For the purposes of this section, the consent of a person who has attained the age of 16 years to providing a specimen of blood in pursuance of a requirement imposed under subsection (1) shall be effective as it would be if he were of full age; and where such person has, by virtue of this subsection, given an effective consent, it shall not be necessary to obtain any consent from his parent or guardian in respect of his providing the specimen of blood.
+(5) For the purposes of this section, the consent of a person who has attained the age of 16 years to providing a specimen of blood in pursuance of a requirement imposed under subsection (1) shall be effective as it would be if he were of full age; and where that person has, by virtue of this subsection, given an effective consent, it shall not be necessary to obtain any consent from his parent or guardian in respect of his providing the specimen of blood.
 
 ### Presumption of misuse of intoxicating substance
 
@@ -282,13 +260,13 @@ TREATMENT AND REHABILITATION
 
 16\.—(1) If as a result of a blood test under section 13, it appears to the Director that the person who supplied the specimen of blood for the blood test has used or inhaled any intoxicating substance in contravention of section 3 and that it is necessary for that person to be subject to supervision, the Director may make a supervision order requiring that person to be subject to the supervision of an officer of the Bureau or a person appointed by the Director for the purpose for a supervision period not exceeding one year.
 
-(2) The Director may make a supervision order requiring a person who has been discharged from an approved centre under section 20 to be subject to the supervision of an officer of the Bureau or a person appointed by the Director for the purpose for a supervision period not exceeding one year.
+(2) The Director may make a supervision order requiring a person who has been discharged from an approved centre under section 20 to be subject to the supervision of an officer of the Bureau or a person appointed by the Director for the purpose for a period not exceeding one year.
 
 (3) A supervision order made under subsection (1) or (2) may require the person subject to the supervision order to comply during the whole or any part of the supervision period with such requirements as to residence and any other requirements as the Director, having regard to the circumstances of the case, considers necessary for securing the good conduct of such person and if the person wilfully fails to comply with any requirement in the supervision order, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
 
 ### Treatment and rehabilitation
 
-17\.—(1) If at any time during or after the supervision period a person who is or has been subject to a supervision order is arrested under section 7 on the ground that the person is reasonably suspected to have committed an offence under section 3, the Director, having regard to the results of a medical examination or observation or a blood test under section 13 and, where applicable, a report of the supervising officer in relation to the person concerned, may, if it appears to the Director that it is necessary for such person to undergo treatment and rehabilitation at an approved centre, by order in writing direct the person to be admitted to an approved centre and detained there for a period not exceeding 6 months.
+17\.—(1) If at any time during or after the supervision period a person who is or has been subject to a supervision order is arrested under section 7 on the ground that the person is reasonably suspected to have committed an offence under section 3, the Director, having regard to the result of a medical examination or observation or a blood test under section 13 and, where applicable, a report of the supervising officer in relation to the person concerned, may, if it appears to the Director that it is necessary for that person to undergo treatment and rehabilitation at an approved centre, by order in writing direct the person to be admitted to an approved centre and detained there for a period not exceeding 6 months.
 
 (2) An approved centre may —
 
@@ -314,7 +292,7 @@ for voluntary treatment and rehabilitation on such terms and conditions as may b
 
 19\.—(1) The Minister shall appoint for any approved centre or centres a Review Committee which shall have such functions as are conferred upon it by this Act or any regulations made thereunder.
 
-(2) Every such Committee shall consist of a Chairman, who shall be a person registered under the Medical Registration Act (Cap. 174), and 5 other members.
+(2) Every such Committee shall consist of a Chairman, who shall be a person registered under the Medical Registration Act [Cap. 174], and 5 other members.
 
 (3) The Chairman and members of a Review Committee shall be appointed by the Minister for a term not exceeding 3 years, but may from time to time be reappointed, or may at any time be removed from office by the Minister, or may at any time resign from their office by writing addressed to the Minister.
 
@@ -346,9 +324,9 @@ for voluntary treatment and rehabilitation on such terms and conditions as may b
 
 21\.—(1) Where a complaint is made on oath to a Magistrate that any person is improperly detained in an approved centre by reason of any misconduct or breach of duty on the part of any officer in the discharge of his functions pursuant to this Act or any regulations made thereunder, the Magistrate may either inquire into the complaint himself or direct a police officer to make an inquiry for the purpose of ascertaining the truth or falsehood of the complaint and report to him the result of the inquiry.
 
-(2) Every inquiry under subsection (1) shall be conducted in private but, save as aforesaid, the procedure for conducting any inquiry shall be such as the Magistrate considers appropriate in the circumstances of the case.
+(2) Every inquiry under subsection (1) shall be conducted in private but, except as aforesaid, the procedure for conducting any inquiry shall be such as the Magistrate considers appropriate in the circumstances of the case.
 
-(3) A Magistrate or a police officer conducting any inquiry under subsection (1) shall have all the powers conferred on him by the Criminal Procedure Code (Cap. 68) in relation to the attendance and examination of witnesses, the taking of evidence and the production of documents.
+(3) A Magistrate or a police officer conducting any inquiry under subsection (1) shall have all the powers conferred on him by the Criminal Procedure Code in relation to the attendance and examination of witnesses, the taking of evidence and the production of documents.
 
 (4) If after considering the result of any such inquiry the Magistrate is satisfied that any person who is detained in an approved centre ought not to be so detained, he may make an order for the discharge of that person from the approved centre and that person shall be discharged accordingly.
 
@@ -402,7 +380,7 @@ GENERAL
 
 25\.—(1) The Government shall not be liable to make good any damage caused to any goods or property as a result of an entry, search or detention under the provisions of this Act unless the damage is caused by the wilful neglect or default of an officer employed by the Government.
 
-(2) In the event of any dispute as to the amount of any damage so caused the same shall be summarily ascertained and determined by a District Court or a Magistrate’s Court.
+(2) In the event of any dispute as to the amount of any damage so caused the amount shall be summarily ascertained and determined by a District Court or a Magistrate’s Court.
 
 ### Protection of persons acting under authority of this Act
 
@@ -430,31 +408,11 @@ GENERAL
 
 (f) prescribing the appointment and duties of officers of approved centres; and
 
-(g) prescribing the punishment by a fine not exceeding $2,000 or imprisonment for a term not exceeding 6 months or both to be imposed on the conviction for a breach of any regulations.
-
-### Consequential amendments to the Children and Young Persons Act
-
-29\. Section 62 of the Children and Young Persons Act (Cap. 38) is amended —
-
-(a) by deleting the word “or” at the end of paragraph (a\) of subsection (1), and by inserting immediately thereafter the following paragraph:
-
-“
-
-(aa) a child or young person who uses or inhales any intoxicating substance for the purpose of inducing or causing in himself a state of intoxication; or
-
-”; and
-
-(b) by inserting, immediately after subsection (2), the following subsection:
-
-“
-
-(3) For the purpose of this section, an intoxicating substance has the same meaning as in the Intoxicating Substances Act 1987.
-
-”.
+(g) prescribing the punishment by a fine not exceeding $2,000 or imprisonment for a term not exceeding 6 months or both to be imposed on conviction for a breach of any regulations.
 
 ## THE SCHEDULE
 
-Section 2
+Section 2.
 
 First column
 
@@ -464,3 +422,20 @@ Toluene
 
 1 microgramme per 1 millilitre of blood.
 
+## LEGISLATIVE HISTORY
+
+Intoxicating Substances Act
+
+(CHAPTER 146A)
+
+This Legislative History is provided for the convenience of users of the Intoxicating Substances Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 24 of 1987—Intoxicating Substances Act 1987**|
+||Date of First Reading|28 July 1987|
+|||(Bill No. 17/87 published on 30 July 1987)|
+||Date of Second and Third Readings|31 August 1987|
+||Date of commencement|1 November 1987|
+|2.|**1988 Revised Edition—Intoxicating Substances Act**|
+||Date of operation|30 April 1988|
