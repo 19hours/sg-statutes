@@ -920,7 +920,7 @@ ADMINISTRATION
 
 (2) In the event of any inconsistency occurring between the provisions of the Customs Act and the provisions of this Act, the provisions of this Act shall prevail.
 
-(3) Any countervailing or anti-dumping duty imposed under this Act shall be paid to the Director-General of Customs and Excise.
+(3) Any countervailing or anti-dumping duty imposed under this Act shall be paid to the Director-General of Customs.
 
 (4) The Customs Act shall, to the extent relevant and with such exceptions or modifications as may be prescribed, apply to any countervailing or anti-dumping duty as it applies to a customs duty or excise duty imposed under the provisions of the Customs Act.
 
@@ -994,7 +994,9 @@ the Minister shall allow exporters at least 60 days to adjust their export price
 
 ### Directions by Minister
 
-36\. The Minister may give to the Director-General of Customs and Excise, any public officer or any officer of any statutory board such written directions in connection with the carrying out or giving effect to the powers and duties of the Minister under this Act as the Minister thinks fit, and the Director-General of Customs and Excise, public officer or officer shall comply with the directions so given.
+36\. The Minister may give to the Director-General of Customs, any public officer or any officer of any statutory board such written directions in connection with the carrying out or giving effect to the powers and duties of the Minister under this Act as the Minister thinks fit, and the Director-General of Customs, public officer or officer shall comply with the directions so given.
+
+[4/2003 wef 01/04/2003]
 
 ### Facts available
 
@@ -1090,3 +1092,8 @@ This Legislative History is provided for the convenience of users of the Counter
 |||(Bill No. 33/2000 published on 22 December 2000)|
 ||Date of Second and Third Readings|22 November 2000|
 ||Date of commencement|1 January 2001|
+|4.|**Act 4 of 2003—Customs (Amendment) Act 2003**|
+||Date of First Reading|10 March 2003|
+|||(Bill No. 6/2003 published on 4 April 2003)|
+||Date of Second and Third Readings|21 March 2003|
+||Date of commencement|1 April 2003|
