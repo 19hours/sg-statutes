@@ -166,7 +166,11 @@ whether on his own account or as agent of another person;
 
 (a) in relation to any building or part thereof, includes any mortgagee in possession and any person for the time being receiving the rent of the building or part thereof whether on his own account or as agent or trustee or as receiver, or who would receive the rent if the building or part thereof were let to a tenant, and any person whose name is entered in the Valuation List authenticated under section 15 of the Property Tax Act (Cap. 254) as the owner of the building or part thereof;
 
-(b) in relation to the common property of any building erected on land comprised in a strata subdivision plan approved by the competent authority, means the management corporation having control of the building; and
+(b) in relation to the common property of any building erected on land comprised in a strata subdivision plan approved by the competent authority, means the management corporation having control of the building;
+
+(ba) in relation to the limited common property of any building erected on land comprised in a strata subdivision plan approved by the competent authority, means the subsidiary management corporation having control of that limited common property; and
+
+[47/2004 wef 01/04/2005]
 
 (c) in relation to the common property of any building comprising flats sold under Part IV of the Housing and Development Act (Cap. 129), means the Town Council which is liable for the maintenance and management of such common property;
 
@@ -565,3 +569,9 @@ This Legislative History is provided for the convenience of users of the Civil D
 ||Date of commencement|1 May 1998 (except Parts IV and V)|
 |2.|**1998 Revised Edition—Civil Defence Shelter Act**|
 ||Date of operation|30 May 1998|
+|3.|**Act 47 of 2004—Building Maintenance and Strata Management Act 2004**|
+||(Consequential amendments made by)||
+||Date of First Reading|6 February 2004|
+|||(Bill No. 6/2004 published on 7 February 2004)|
+||Date of Second and Third Readings|19 April 2004|
+||Date of commencement|1 April 2005 (Item (2) in the Fifth Schedule)|
