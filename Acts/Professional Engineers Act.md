@@ -994,6 +994,10 @@ Exempt Classes of Persons
 
 3\. Licensed electrical workers or licensed electrical contractors under the Electrical Workers and Contractors Licensing Act [Cap. 89].
 
+4. Fire safety engineers registered under the Fire Safety Act (Cap. 109A).
+
+[7/2004 wef 15/04/2004]
+
 ## LEGISLATIVE HISTORY
 
 Professional Engineers Act
@@ -1036,3 +1040,10 @@ This Legislative History is provided for the convenience of users of the Profess
 |||(Bill No. 17/2003 published on 15 August 2003)|
 ||Date of Second and Third Readings|2 September 2003|
 ||Date of commencement|1 January 2004|
+|7.|**Act 7 of 2004—Fire Safety (Amendment) Act 2004**|
+||(Consequential amendments made by)||
+||Date of First Reading|5 January 2004|
+|||(Bill No. 5/2004 published on 6 January 2004)|
+||Date of Second and Third Readings|6 February 2004|
+||Date of commencement|15 April 2004|
+|||(item (3) in the Schedule)|
