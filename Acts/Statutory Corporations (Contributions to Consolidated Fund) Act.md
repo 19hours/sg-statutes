@@ -88,6 +88,24 @@ Civil Aviation Authority of Singapore Act (Chapter 41)
 
 Commercial and Industrial Security Corporation Act (Chapter 47)
 
+3A. Energy Market Authority of Singapore
+
+Energy Market Authority of Singapore Act 2001
+
+
+
+
+(Act 9 of 2001)
+
+3B. Health Sciences Authority
+
+Health Sciences Authority Act 2001
+
+
+
+
+(Act 4 of 2001)
+
 4. Info-communications Development Authority of Singapore
 
 Info-communications Development Authority of Singapore Act 1999
@@ -188,6 +206,15 @@ Singapore Broadcasting Authority Act
 
 (Chapter 297)
 
+12A. Singapore Land Authority
+
+Singapore Land Authority Act 2001
+
+
+
+
+(Act 17 of 2001)
+
 13. Singapore Tourism Board
 
 Singapore Tourism Board Act
@@ -251,7 +278,11 @@ Singapore Totalisator Board Act
 
 (Chapter 305A)
 
+[S 312/2001 wef 01/06/2001]
+
 [S 220/2001 wef 01/04/2001]
+
+[S 312/2001 wef 01/06/2001]
 
 [7/96; 41/99; S 414/93; S344/95; S405/96; S 470/97; S 518/97; S366/98]
 
@@ -309,6 +340,8 @@ This Legislative History is provided for the convenience of users of the Statuto
 ||Date of commencement|1 January 2001|
 |15.|**G. N. No. S 220/2001—Statutory Corporations (Contributions to Consolidated Fund) Act (Amendment of Schedule) Order 2001**|
 ||Date of commencement|1 April 2001|
+|16.|**G. N. No. S 312/2001—Statutory Corporations (Contributions to Consolidated Fund) Act (Amendment of Schedule) Order 2001**|
+||Date of commencement|1 June 2001|
 ## COMPARATIVE TABLE
 
 Statutory Corporations (Contributions to Consolidated Fund) Act
