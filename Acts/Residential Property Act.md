@@ -800,9 +800,13 @@ MISCELLANEOUS
 
 ### Controller of Residential Property to administer this Act
 
-29\.—(1) There shall be appointed by the President a Controller of Residential Property who shall have charge of the administration of this Act, subject to any general or special directions of the Minister.
+29\.—(1) There shall be appointed by the Minister a Controller of Residential Property who shall have charge of the administration of this Act, subject to any general or special directions of the Minister.
 
-(2) The President may also appoint such Deputy Controllers and Assistant Controllers of Residential Property as may be necessary for the carrying out of the provisions of this Act.
+[Act 7 of 1997 wef 01/10/1997]
+
+(2) The Minister may also appoint such Deputy Controllers and Assistant Controllers of Residential Property as may be necessary for the carrying out of the provisions of this Act.
+
+[ Act 7 of 1997 wef 01/10/1997]
 
 (3) Where any Deputy Controller or Assistant Controller of Residential Property is appointed, such Deputy Controller or Assistant Controller of Residential Property shall carry out the provisions of this Act, subject to the general or special directions of the Controller.
 
@@ -1313,3 +1317,8 @@ This Legislative History is provided for the convenience of users of the Residen
 ||Date of commencement|23 January 1987|
 |5.|**1985 Revised Edition—Residential Property Act (Chapter 274)**|
 ||Date of operation|30 March 1987|
+|6.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
+||Date of First Reading|11 July 1997|
+|||(Bill No. 6/97 published on 12 July 1997)|
+||Date of Second and Third Readings|25 August 1997|
+||Date of commencement|1 October 1997 (except section 3)|
