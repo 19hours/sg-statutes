@@ -16,27 +16,25 @@
 
 - [4 Appointment of Commissioner, etc.](#Appointment-of-Commissioner-etc)
 
-- [5 (Repealed)](#Repealed)
-
 [**Part II ESTATE DUTY**](#Part-II)
 
-- [6 Estate duty imposed](#Estate-duty-imposed)
+- [5 Estate duty imposed](#Estate-duty-imposed)
 
-- [7 Remission of estate duty](#Remission-of-estate-duty)
+- [6 Remission of estate duty](#Remission-of-estate-duty)
 
-- [8 Property deemed to pass](#Property-deemed-to-pass)
+- [7 Property deemed to pass](#Property-deemed-to-pass)
 
-- [9 Property not deemed to pass](#Property-not-deemed-to-pass)
+- [8 Property not deemed to pass](#Property-not-deemed-to-pass)
 
-- [10 Transactions for money consideration](#Transactions-for-money-consideration)
+- [9 Transactions for money consideration](#Transactions-for-money-consideration)
 
-- [11 Duty not payable in respect of small annuities and widows’ and orphans’ pensions](#Duty-not-payable-in-respect-of-small-annuities-and-widows’-and-orphans’-pensions)
+- [10 Duty not payable in respect of small annuities and widows’ and orphans’ pensions](#Duty-not-payable-in-respect-of-small-annuities-and-widows’-and-orphans’-pensions)
 
-- [12 Duty not payable for person not domiciled or resident in respect of certain property](#Duty-not-payable-for-person-not-domiciled-or-resident-in-respect-of-certain-property)
+- [11 Duty not payable for person not domiciled or resident in respect of certain property](#Duty-not-payable-for-person-not-domiciled-or-resident-in-respect-of-certain-property)
 
-- [13 Bequests to institutions](#Bequests-to-institutions)
+- [12 Bequests to Government or institutions of public character](#Bequests-to-Government-or-institutions-of-public-character)
 
-- [13A Gifts to National Museum](#Gifts-to-National-Museum)
+- [13 Gifts to National Museum](#Gifts-to-National-Museum)
 
 - [14 Dwelling-houses and all other property](#Dwelling-houses-and-all-other-property)
 
@@ -98,49 +96,47 @@
 
 - [39 Powers of Commissioner](#Powers-of-Commissioner)
 
-- [40 (Repealed)](#Repealed)
+- [40 Release of estate on which duty is paid](#Release-of-estate-on-which-duty-is-paid)
 
-- [41 Release of estate on which duty is paid](#Release-of-estate-on-which-duty-is-paid)
+- [41 Probate not to issue until estate duty paid or postponement granted](#Probate-not-to-issue-until-estate-duty-paid-or-postponement-granted)
 
-- [42 Probate not to issue until estate duty paid or postponement granted](#Probate-not-to-issue-until-estate-duty-paid-or-postponement-granted)
+- [42 Postponement of payment of estate duty in certain cases](#Postponement-of-payment-of-estate-duty-in-certain-cases)
 
-- [43 Postponement of payment of estate duty in certain cases](#Postponement-of-payment-of-estate-duty-in-certain-cases)
+- [43 Duties of company and life assurance company](#Duties-of-company-and-life-assurance-company)
 
-- [44 Duties of company and life assurance company](#Duties-of-company-and-life-assurance-company)
+- [44 Penalties for delay and intermeddling](#Penalties-for-delay-and-intermeddling)
 
-- [45 Penalties for delay and intermeddling](#Penalties-for-delay-and-intermeddling)
+- [45 Return of duty overpaid](#Return-of-duty-overpaid)
 
-- [46 Return of duty overpaid](#Return-of-duty-overpaid)
+- [46 Payment of additional duty](#Payment-of-additional-duty)
 
-- [47 Payment of additional duty](#Payment-of-additional-duty)
-
-- [48 Application to court](#Application-to-court)
+- [47 Application to court](#Application-to-court)
 
 [**Part VII MISCELLANEOUS PROVISIONS**](#Part-VII)
 
-- [49 Inspection of records, etc.](#Inspection-of-records-etc)
+- [48 Inspection of records, etc.](#Inspection-of-records-etc)
 
-- [50 Remission of estate duty](#Remission-of-estate-duty)
+- [49 Remission of estate duty](#Remission-of-estate-duty)
 
-- [51 Waiver of small duty and interest](#Waiver-of-small-duty-and-interest)
+- [50 Waiver of small duty and interest](#Waiver-of-small-duty-and-interest)
 
-- [52 Reduction of penalties](#Reduction-of-penalties)
+- [51 Reduction of penalties](#Reduction-of-penalties)
 
-- [53 Persons exempt from liability](#Persons-exempt-from-liability)
+- [52 Persons exempt from liability](#Persons-exempt-from-liability)
 
-- [54 Composition of duties](#Composition-of-duties)
+- [53 Composition of duties](#Composition-of-duties)
 
-- [55 Penalty for false statement or false representation](#Penalty-for-false-statement-or-false-representation)
+- [54 Penalty for false statement or false representation](#Penalty-for-false-statement-or-false-representation)
 
-- [56 Interest of deceased person in business to be notified](#Interest-of-deceased-person-in-business-to-be-notified)
+- [55 Interest of deceased person in business to be notified](#Interest-of-deceased-person-in-business-to-be-notified)
 
-- [57 Intervention by Commissioner in pending suits](#Intervention-by-Commissioner-in-pending-suits)
+- [56 Intervention by Commissioner in pending suits](#Intervention-by-Commissioner-in-pending-suits)
 
-- [58 Facts stated in Commissioner’s certificate need not be proved](#Facts-stated-in-Commissioner’s-certificate-need-not-be-proved)
+- [57 Facts stated in Commissioner’s certificate need not be proved](#Facts-stated-in-Commissioner’s-certificate-need-not-be-proved)
 
-- [59 Signature and service of notices](#Signature-and-service-of-notices)
+- [58 Signature and service of notices](#Signature-and-service-of-notices)
 
-- [60 Rules](#Rules)
+- [59 Rules](#Rules)
 
 [**FIRST SCHEDULE Rates of Estate Duty in the Case of Persons Dying on or After 1ST April 1974 and Before 1ST April 1977**](#FIRST-SCHEDULE-Rates-of-Estate-Duty-in-the-Case-of-Persons-Dying-on-or-After-1ST-April-1974-and-Before-1ST-April-1977)
 
@@ -158,9 +154,9 @@
 
 [**EIGHTH SCHEDULE Rates of Remission of Estate Duty in the Case of Persons Dying on or After 1ST April 1977 and Before 1ST April 1984**](#EIGHTH-SCHEDULE-Rates-of-Remission-of-Estate-Duty-in-the-Case-of-Persons-Dying-on-or-After-1ST-April-1977-and-Before-1ST-April-1984)
 
-[**NINTH SCHEDULE Repealed**](#NINTH-SCHEDULE-Repealed)
-
 [**Legislative History**](#Legislative-History)
+
+[**Comparative Table**](#Comparative-Table)
 
 # Estate Duty Act
 
@@ -168,9 +164,9 @@
 
 (Original Enactment: Ordinance 11 of 1929)
 
-REVISED EDITION 1997
+REVISED EDITION 2001
 
-(20th December 1997)
+(31st July 2001)
 
 An Act to provide for the levy of estate duty payable in respect of the estates of deceased persons.
 
@@ -192,8 +188,6 @@ PRELIMINARY
 
 “Commissioner” means the Commissioner of Estate Duties appointed under section 4(1) and includes a Deputy Commissioner of Estate Duties;
 
-“deceased person” and “deceased” mean a person dying after 30th June 1929;
-
 “disposition” includes any trust, covenant, agreement or arrangement;
 
 “encumbrances” includes mortgages and terminable charges;
@@ -201,8 +195,6 @@ PRELIMINARY
 “estate duty” means estate duty leviable under this Act;
 
 “estate duty return” means the return, together with the accounts annexed thereto, determined under section 35;
-
-[30/2000 wef 01/01/2001]
 
 “executor” means the executor or administrator of a deceased person, and includes, as regards any obligation under this Act, any person who takes possession of or intermeddles with the property of a deceased person and any person who has applied or is entitled to apply to any court for the grant or resealing of probate or letters of administration in respect of the estate of a deceased person;
 
@@ -230,6 +222,8 @@ PRELIMINARY
 
 (c) money which a person has a general power to charge on property shall be deemed to be property of which he has power to dispose.
 
+[42/98; 30/2000]
+
 ### Appointment of Commissioner, etc.
 
 4\.—(1) The Minister may, by notification in theGazette, appoint an officer to carry out the provisions of this Act, to be called the Commissioner of Estate Duties and such number of Deputy Commissioners of Estate Duties as he thinks fit.
@@ -240,9 +234,7 @@ PRELIMINARY
 
 (4) The Commissioner may, by notification in theGazetteor in writing, authorise any officer to perform or to assist in the performance of any duty imposed or to exercise any power conferred upon the Commissioner by this Act.
 
-[30/2000 wef 18/12/2000]
-
-5\. [Repealed by Act 30/2000 wef 18/12/2000]
+[30/2000]
 
 ## PART II
 
@@ -250,7 +242,7 @@ ESTATE DUTY
 
 ### Estate duty imposed
 
-6\. Except as expressly provided in this Act, there shall be levied and paid upon the principal value, ascertained as provided in this Act, of all property settled or not settled which passes on the death of any person a duty, called estate duty, at the following rates:
+5\. Except as expressly provided in this Act, there shall be levied and paid upon the principal value, ascertained as provided in this Act, of all property settled or not settled which passes on the death of any person a duty, called estate duty, at the following rates:
 
 (a) in the case of any person dying on or after 1st April 1974 and before 1st April 1977 — at the graduated rates set out in the First Schedule;
 
@@ -262,17 +254,19 @@ ESTATE DUTY
 
 (e) in the case of any person dying on or after 28th February 1996 — at the rates specified in the Fifth Schedule.
 
+[6
+
 [16/74; 12/78; 10/80; 14/84; 27/96]
 
 ### Remission of estate duty
 
-7\.—(1) Where the principal value, as ascertained in accordance with the provisions of this Act, of all property which passes on the death of a person on or after 8th March 1972 and before 1st April 1974, is —
+6\.—(1) Where the principal value, as ascertained in accordance with the provisions of this Act, of all property which passes on the death of a person on or after 8th March 1972 and before 1st April 1974, is —
 
 (a) $25,000 or less, the estate duty payable in respect of that property shall be remitted in full; and
 
 (b) more than $25,000, that part of the estate duty payable in respect of such property which is in excess of the amount equivalent to the difference between the principal value of such property and the amount of $25,000 shall be remitted as in the following formula:
 
-A - B = C
+A — B = C
 
 where
 
@@ -290,11 +284,13 @@ C is the amount of the estate duty to be remitted.
 
 (3) There shall be allowed in respect of the principal value, as ascertained in accordance with the provisions of this Act, of all property which passes on the death of a person on or after 1st April 1977 and before 1st April 1984 a remission of estate duty at the rates set out in the Eighth Schedule.
 
+[7
+
 [10/80; 14/84]
 
 ### Property deemed to pass
 
-8\.—(1) Property passing on the death of the deceased shall be deemed to include the following property:
+7\.—(1) Property passing on the death of the deceased shall be deemed to include the following property:
 
 (a) property of which the deceased was at the time of his death competent to dispose;
 
@@ -314,25 +310,31 @@ C is the amount of the estate duty to be remitted.
 
 (g) any annuity or other interest purchased or provided by the deceased either by himself alone or in concert or by arrangement with any other person, to the extent of the beneficial interest accruing or arising by survivorship or otherwise on the death of the deceased.
 
+[42/98]
+
 (2) Where an annuity or other interest referred to in subsection (1)(g) has been purchased or provided by the deceased, either by himself alone or in concert or by arrangement with any other person, the extent of any beneficial interest therein accruing or arising by survivorship or otherwise on the death of the deceased shall be ascertained, and shall be deemed always to be ascertainable without regard to any interest in expectancy the beneficiary may have had therein before the death.
+
+[8
 
 ### Property not deemed to pass
 
-9\.—(1) Property passing on the death of the deceased shall not be deemed to include property held by the deceased as trustee for another person, under a disposition not made by the deceased or under a disposition made by the deceased more than 5 years before his death where possession and enjoyment of the property was bona fide assumed by the beneficiary immediately upon the creation of the trust and thenceforward retained to the entire exclusion of the deceased or of any benefit to him by contract or otherwise.
+8\.—(1) Property passing on the death of the deceased shall not be deemed to include property held by the deceased as trustee for another person, under a disposition not made by the deceased or under a disposition made by the deceased more than 5 years before his death where possession and enjoyment of the property was bona fide assumed by the beneficiary immediately upon the creation of the trust and thenceforward retained to the entire exclusion of the deceased or of any benefit to him by contract or otherwise.
 
 (2) In the case of a disposition made for public or charitable purposes, the words “5 years” in subsection (1) shall be read as “12 months”.
 
 (3) In the case of settled property, where the interest of any person under the settlement fails or determines by reason of his death before it becomes an interest in possession, and subsequent limitations under the settlement continue to subsist, the property shall not be deemed to pass on his death.
 
-(4) Where by a disposition of any property an interest is conferred on any person other than the disponer for the life of that person or determinable on his death, and that person enters into possession of the interest and thenceforward retains possession thereof to the entire exclusion of the disponer or of any benefit to him by contract or otherwise, and the only benefit which the disponer retains in the property is subject to such life or determinable interest, and no other interest is created by that disposition, then, on the death of that person after 30th June 1929, the property shall not be deemed to pass by reason only of its reverter to the disponer in his lifetime.
+(4) Where by a disposition of any property an interest is conferred on any person other than the disponer for the life of that person or determinable on his death, and that person enters into possession of the interest and thenceforward retains possession thereof to the entire exclusion of the disponer or of any benefit to him by contract or otherwise, and the only benefit which the disponer retains in the property is subject to such life or determinable interest, and no other interest is created by that disposition, then, on the death of that person the property shall not be deemed to pass by reason only of its reverter to the disponer in his lifetime.
 
 (5) Where, by a disposition of any property, the interest mentioned in subsection (4) is conferred on 2 or more persons, either severally or jointly, or in succession, that subsection shall apply in like manner as where the interest is conferred on one person.
 
 (6) Subsections (4) and (5) shall not apply where such person or persons taking such life or determinable interest had at any time prior to the disposition been himself or themselves competent to dispose of such property.
 
+[9
+
 ### Transactions for money consideration
 
-10\.—(1) Estate duty shall not be payable in respect of —
+9\.—(1) Estate duty shall not be payable in respect of —
 
 (a) property passing on the death of the deceased by reason only of a bona fide purchase from the person under whose disposition the property passes;
 
@@ -344,17 +346,21 @@ where the purchase was made, or the lease or annuity granted, for full considera
 
 (2) Where such purchase was made, or such lease or annuity granted, for partial consideration in money or money’s worth paid to the vendor or grantor for his own use or benefit, or in the case of a lease, for the use or benefit of any person for whom the grantor was a trustee, the value of the consideration shall be allowed as a deduction from the value of the property for the purpose of estate duty.
 
+[10
+
 ### Duty not payable in respect of small annuities and widows’ and orphans’ pensions
 
-11\.—(1) Estate duty shall not be payable in respect of a single annuity not exceeding $200 purchased or provided by the deceased either by himself alone or in concert or arrangement with any other person for the life of himself and of some other person and the survivor of them, or to arise on his own death in favour of some other person.
+10\.—(1) Estate duty shall not be payable in respect of a single annuity not exceeding $200 purchased or provided by the deceased either by himself alone or in concert or arrangement with any other person for the life of himself and of some other person and the survivor of them, or to arise on his own death in favour of some other person.
 
 (2) If in any case there is more than one such annuity, the annuity first granted shall alone be entitled to the exemption granted under subsection (1).
 
 (3) Estate duty shall not be payable in respect of any pension granted under the Widows’ and Orphans’ Pension Act (Cap. 350) nor in respect of any pension or annuity payable by the government of any part of the Commonwealth to the widow or child of any deceased officer of that government, notwithstanding that the deceased contributed during his lifetime to any fund out of which that pension or annuity is paid.
 
+[11
+
 ### Duty not payable for person not domiciled or resident in respect of certain property
 
-12\.—(1) Estate duty shall not be payable in respect of the following property in Singapore passing on the death of any person dying on or after 1st April 1982 who at the time of his death was neither domiciled nor resident in Singapore:
+11\.—(1) Estate duty shall not be payable in respect of the following property in Singapore passing on the death of any person dying on or after 1st April 1982who at the time of his death was neither domiciled nor resident in Singapore:
 
 (a) deposits and balances with Asian Currency Units of approved banks;
 
@@ -370,13 +376,13 @@ where the purchase was made, or the lease or annuity granted, for full considera
 
 (g) gold certificates issued by approved banks; and
 
-(h) deposits and balances with members of the Singapore International Monetary Exchange where such deposits and balances are in respect of transactions which qualify for the concessionary rate of tax under section 43D of the Income Tax Act (Cap. 134).
+(h) deposits and balances with futures members of the Singapore Exchange where such deposits and balances are in respect of transactions which qualify for the concessionary rate of tax under section 43D of the Income Tax Act (Cap. 134).
 
 [19/76; 2/83; 14/84]
 
 (2) For the purposes of this section —
 
-(a) “approved banks” means approved banks within the meaning of section 13(9) of the Income Tax Act (Cap. 134); and
+(a) “approved banks” means approved banks within the meaning of section 13(13) of the Income Tax Act; and
 
 (b) a deceased person shall be treated as resident in Singapore if during the period of 12 months ending on the date of his death he had —
 
@@ -384,19 +390,23 @@ where the purchase was made, or the lease or annuity granted, for full considera
 
 (ii) spent in the aggregate 183 days in Singapore.
 
-### Bequests to institutions
+[12
 
-13\.—(1) No estate duty shall be payable in respect of the amount of a bequest to the Government or any institution of a public character within the meaning of section 37(9) of the Income Tax Act (Cap. 134) and the value of the property passing on the death of the donor of the bequest shall be deemed not to include the amount thereof for the purpose of assessing the rate of estate duty.
+### Bequests to Government or institutions of public character
 
-[12/78]
+12\.—(1) No estate duty shall be payable in respect of the amount of a bequest to the Government or any institution of a public character within the meaning of section 37(9) of the Income Tax Act and the value of the property passing on the death of the donor of the bequest shall be deemed not to include the amount thereof for the purpose of assessing the rate of estate duty.
+
+[12/78; 42/98]
 
 (2) No estate duty shall be payable in respect of any monument that is the subject of a preservation order made under section 8 of the Preservation of Monuments Act (Cap. 239).
 
-(3) [Deleted by Act 42/98 wef 01/01/1999]
+[13
 
 ### Gifts to National Museum
 
-13A\. No estate duty shall be payable in respect of any gift inter vivos made on or after 1st April 1987 to the National Museum and which, if other than a gift of money, has been approved by the Minister.
+13\. No estate duty shall be payable in respect of any gift inter vivos made on or after 1st April 1987 to the National Museum and which, if other than a gift of money, has been approved by the Minister.
+
+[13A
 
 [27/87]
 
@@ -418,7 +428,7 @@ and the amount thereof shall not form part of the principal value of the estate 
 
 (b) $100,000 of the aggregate value of all other property, including any interest in any dwelling-house which does not qualify for relief under paragraph (a); and
 
-(c) the excess over $100,000, if any, of the aggregate amount standing to the credit of the deceased at the time of his death in the Central Provident Fund and in any designated pension or provident fund, except that no contributions, and the interest thereon, made by the deceased on or after 1st April 1982 to the Central Provident Fund or to any designated pension or provident fund shall qualify for relief under this paragraph unless the contributions were deductible by the deceased under section 39(2)(e) of the Income Tax Act (Cap. 134),
+(c) the excess over $100,000, if any, of the aggregate amount standing to the credit of the deceased at the time of his death in the Central Provident Fund and in any designated pension or provident fund, except that no contributions, and the interest thereon, made by the deceased on or after 1st April 1982 to the Central Provident Fund or to any designated pension or provident fund shall qualify for relief under this paragraph unless the contributions were deductible by the deceased under section 39(2)(g) of the Income Tax Act (Cap. 134),
 
 and the amount thereof shall not form part of the principal value of the estate chargeable with estate duty of any deceased person.
 
@@ -436,13 +446,13 @@ and the amount thereof shall not form part of the principal value of the estate 
 
 (ii) on or after 1st August 1986 to the Central Provident Fund on his own account while carrying on a trade, business, profession or vocation,
 
-shall qualify for relief under this paragraph unless the contributions were deductible by the deceased under section 39(2)(e) or (ea) of the Income Tax Act (Cap. 134),
+shall qualify for relief under this paragraph unless the contributions were deductible by the deceased under section 39(2)(g) or (h) of the Income Tax Act (Cap. 134),
 
 and the amount thereof shall not form part of the principal value of the estate chargeable with estate duty of any deceased person.
 
 [27/87; 27/96]
 
-(3A) Subject to this section, estate duty shall not be payable, in the case of a person dying on or after 28th February 1996, to the extent of —
+(4) Subject to this section, estate duty shall not be payable, in the case of a person dying on or after 28th February 1996, to the extent of —
 
 (a) the amount prescribed of the aggregate value of the deceased’s interest in a dwelling-house or dwelling-houses, whether occupied by the deceased or not;
 
@@ -454,35 +464,35 @@ and the amount thereof shall not form part of the principal value of the estate 
 
 (ii) on or after 1st August 1986 to the Central Provident Fund on his own account while carrying on a trade, business, profession or vocation,
 
-shall qualify for relief under this paragraph unless the contributions were deductible by the deceased under section 39(2)(e) or (ea) of the Income Tax Act (Cap. 134),
+shall qualify for relief under this paragraph unless the contributions were deductible by the deceased under section 39(2)(g) or (h) of the Income Tax Act (Cap. 134),
 
 and the amount thereof shall not form part of the principal value of the estate chargeable with estate duty of any deceased person.
 
 [27/96]
 
-(4) Where the value of the interest in any dwelling-house or dwelling-houses which qualifies for relief under subsection (1)(a), (2)(a), (3)(a) or (3A)(a) exceeds the amount prescribed, the excess value shall not qualify for relief under subsection (1)(b), (2)(b), (3)(b) or (3A)(b).
+(5) Where the value of the interest in any dwelling-house or dwelling-houses which qualifies for relief under subsection (1)(a), (2)(a), (3)(a) or (4)(a) exceeds the amount prescribed, the excess value shall not qualify for relief under subsection (1)(b), (2)(b), (3)(b) or (4)(b).
 
 [14/84; 27/96]
 
-(5) Any dwelling-house —
+(6) Any dwelling-house —
 
 (a) used wholly or partly for the purposes of any trade, business, profession or vocation by any person at the time of death of the deceased; or
 
-(b) passing on the death of the deceased by virtue of section 8(1)(c),
+(b) passing on the death of the deceased by virtue of section 7(1)(c),
 
-shall not qualify for the relief under subsection (1)(a), (2)(a), (3)(a) or (3A)(a).
+shall not qualify for the relief under subsection (1)(a), (2)(a), (3)(a) or (4)(a).
 
 [14/84; 27/96]
 
-(5A) In the case of a person dying on or after 25th February 2000, subsection (5)(a) shall not apply to any dwelling-house which at the time of his death was used by any person partly for the purposes of any trade, business, profession or vocation —
+(7) In the case of a person dying on or after 25th February 2000, subsection (6)(a) shall not apply to any dwelling-house which at the time of his death was used by any person partly for the purposes of any trade, business, profession or vocation —
 
 (a) approved under the Technopreneur Home Office Scheme by the National Science and Technology Board; or
 
 (b) allowed under the small business guidelines of the Urban Redevelopment Authority or the Housing and Development Board.
 
-[30/2000 wef 18/12/2000]
+[30/2000]
 
-(6) For the purposes of this section —
+(8) In this section —
 
 “amount prescribed” —
 
@@ -496,13 +506,13 @@ shall not qualify for the relief under subsection (1)(a), (2)(a), (3)(a) or (3A)
 
 “Central Provident Fund” means the Central Provident Fund established under the Central Provident Fund Act (Cap. 36);
 
-“designated pension or provident fund” means designated pension or provident fund within the meaning of section 39(2)(e) of the Income Tax Act;
+“designated pension or provident fund” means designated pension or provident fund within the meaning of section 39(2)(g) of the Income Tax Act (Cap. 134);
 
 “dwelling-house” includes any building or tenement, or any part thereof, which is used, constructed or adapted to be used for human habitation; but does not include any dwelling-house used wholly or partly as a hostel or quarters or for such other purpose as may be prescribed.
 
-[30/2000 wef 18/12/2000]
+[11/81; 2/83; 14/84; 27/96; 30/2000]
 
-(7) For the purposes of this section where the deceased has 2 or more dwelling-houses the value of each of which exceeds the amount prescribed, the greater value shall qualify for the relief under subsection (2)(a).
+(9) For the purposes of this section where the deceased has 2 or more dwelling-houses the value of each of which exceeds the amount prescribed, the greater value shall qualify for the relief under subsection (2)(a).
 
 ### Property of national or scientific interest given for public purposes
 
@@ -532,7 +542,7 @@ COMPANIES
 
 (b) has not issued to the public, or in the case of a company which is about to make an issue of shares to the public, will not, when it has made that issue, have issued to the public, more than half of the shares by the holders whereof it is controlled;
 
-“share” includes any interest whatsoever in a company, by whatsoever name it is called, analogous to a share, and “shareholder” shall be construed accordingly;
+“share” includes any interest in a company, by whatsoever name it is called, analogous to a share, and “shareholder” shall be construed accordingly;
 
 “preference share” means a share the holder of which is entitled to a dividend at a fixed rate only;
 
@@ -762,9 +772,9 @@ AGGREGATION AND VALUE OF PROPERTY
 
 (4) On payment of the duty in such part of the Commonwealth, a refund of the amount thereof shall be made in the same manner as in the case of duty paid in excess.
 
-(5) This section shall have effect as if “Commonwealth” included the Republic of Ireland.
+(5) Where any property passing on the death of the deceased is situate in a country to which subsection (1) does not apply and the Commissioner is satisfied that by reason of such death any duty is payable in that country in respect of that property, he shall make an allowance of the amount of that duty from the value of the property.
 
-(6) Where any property passing on the death of the deceased is situate in a country to which subsection (1) does not apply and the Commissioner is satisfied that by reason of such death any duty is payable in that country in respect of that property, he shall make an allowance of the amount of that duty from the value of the property.
+(6) This section shall have effect as if “Commonwealth” included the Republic of Ireland.
 
 ## PART V
 
@@ -782,6 +792,8 @@ LIABILITY FOR ESTATE DUTY
 
 30\.—(1) The executor of the deceased shall pay the estate duty in respect of all property of which the deceased was competent to dispose at his death, on delivering an estate duty return to the Commissioner, and may pay in like manner the estate duty in respect of any other property passing on such death, which by virtue of any testamentary disposition of the deceased is under the control of the executor, or, in the case of property not under his control, if the persons accountable for the duty in respect thereof request him to make such payment.
 
+[30/2000]
+
 (2) An executor shall not be liable for any duty in excess of the assets which he has received as executor or might but for his own neglect or default have received.
 
 (3) Where the executor does not know the amount or value of any property which has passed on the death, he may state in the estate duty return that —
@@ -789,6 +801,8 @@ LIABILITY FOR ESTATE DUTY
 (a) such property exists, but that he does not know the amount or value thereof; and
 
 (b) he undertakes as soon as the amount and value are ascertained, to bring in an account thereof, and to pay both the duty for which he is or may be liable, and any further duty payable by reason thereof for which he is or may be liable in respect of the other property mentioned in the return.
+
+[30/2000]
 
 (4) Where property passes on the death of the deceased, and his executor is not accountable for the estate duty in respect of that property, every person to whom any property so passes for any beneficial interest in possession, and also, to the extent of the property actually received or disposed of by him, every trustee, guardian, committee or other person in whom any interest in the property so passing or the management thereof is at any time vested, and every person in whom that interest is vested in possession by alienation or other derivative title shall be accountable for the estate duty on the property.
 
@@ -828,31 +842,47 @@ COLLECTION OF ESTATE DUTY
 
 35\.—(1) The executor of every deceased person shall, within 6 months after the date of the death of the deceased, specify to the best of his knowledge and belief, in appropriate accounts annexed to an estate duty return to be delivered to the Commissioner, a full and true statement of particulars relating to all the property of the deceased, including the value thereof, in respect of which estate duty is payable upon the death of the deceased; and together with such estate duty return he shall deliver to the Commissioner a certified copy of the will, if any, of the deceased.
 
+[30/2000]
+
 (2) The estate duty return shall extend to the verification of the accounts annexed thereto and shall be in a form to be determined by the Commissioner.
+
+[42/98; 30/2000]
 
 (3) The accounts annexed to the estate duty return shall include all income accrued upon the property included therein down to and outstanding at the date of the death of the deceased.
 
+[30/2000]
+
 (4) Where the executor is not accountable for estate duty in respect of any property passing on the death of the deceased, the person accountable shall, within 6 months after the date of the death of the deceased, deliver to the Commissioner an account in a form to be determined by the Commissioner containing a full and true statement of the particulars relating to that property, including the value thereof, verified to the best of his knowledge and belief.
+
+[42/98]
 
 (5) The Commissioner may require any estate duty return or any such account to be delivered to him in duplicate.
 
+[30/2000]
+
 (6) The Commissioner may, in his discretion, extend the period prescribed in subsections (1) and (4) for delivering any estate duty return or account relating to any property passing on the death of a deceased person.
+
+[30/2000]
 
 (7) The executor shall pay the estate duty in respect of all property of which the deceased was competent to dispose at his death and may pay the estate duty in respect of any other property passing on such death which is under the control of the executor, or in the case of property not under his control if the person liable to pay the duty in respect thereof requests him to make the payment.
 
 (8) An executor shall not be liable for any duty in excess of the assets which he has received as executor or which he might but for his own neglect or default have received.
 
-(9) A person being an executor of a deceased person may, if he is unwilling to accept office as executor, apply in writing to the Commissioner to be exempted from the obligations and liabilities of an executor under this Act; and the Commissioner, if he is satisfied that the applicant has not taken possession of, or intermeddled with, any property of the deceased, may issue a certificate of exemption accordingly.
+(9) A person being an executor of a deceased person may, if he is unwilling to accept office as executor, apply in writing to the Commissioner to be exempted from the obligations and liabilities of an executor under this Act.
 
-(10) Any such certificate may be revoked by the Commissioner at any time if he is of opinion that the certificate was obtained by fraud or misrepresentation, or on an incorrect statement of facts, or if the holder of the certificate has at any time after the issue thereof taken possession of, or intermeddled with, the property of the deceased.
+(10) The Commissioner, if he is satisfied that the applicant referred to in subsection (9) has not taken possession of, or intermeddled with, any property of the deceased, may issue a certificate of exemption accordingly.
+
+(11) Any certificate of exemption issued under subsection (10) may be revoked by the Commissioner at any time if he is of opinion that the certificate was obtained by fraud or misrepresentation, or on an incorrect statement of facts, or if the holder of the certificate has at any time after the issue thereof taken possession of, or intermeddled with, the property of the deceased.
 
 ### Interest payable on estate duty
 
 36\.—(1) Subject to the provisions of this Act, simple interest at the appropriate rates specified in the Sixth Schedule shall be payable upon all estate duty from the date of the death of the deceased to the date of payment and shall be recoverable in the same manner as if it were part of the duty.
 
-(2) Where double duty is leviable under section 45(1) or (2), interest shall be payable upon the single duty only for the period prior to the date when the liability to double duty attached, and thereafter upon the double duty.
+(2) Where double duty is leviable under section 44(1) or (2), interest shall be payable upon the single duty only for the period prior to the date when the liability to double duty attached, and thereafter upon the double duty.
 
 (3) If any person, prior to the delivery to the Commissioner of the estate duty return or of such account as is referred to in section 35(4), deposits a sum of money in the hands of the Commissioner as security for the payment of the estate duty payable in respect of the property of a deceased person or for the payment of such portion thereof as is payable upon an account as aforesaid, interest under subsection (1) shall cease to run as from the date of such deposit, except upon the amount, if any, whereby the estate duty or such portion thereof, as the case may be, and the interest accrued thereon prior to the deposit, exceeds the sum deposited.
+
+[30/2000]
 
 (4) In cases where estate duty is payable when an interest in expectancy falls into possession, interest on the estate duty shall be payable from the date when such interest falls into possession to the date of payment at the appropriate rates specified in the Sixth Schedule.
 
@@ -862,11 +892,13 @@ COLLECTION OF ESTATE DUTY
 
 37\. The Commissioner may at any time, whether an estate duty return required to be delivered under section 35 has been delivered or not, assess the estate duty payable in respect of the estate of a deceased person and shall issue to the person or persons whom he considers liable to pay such estate duty a notice of the assessment in a form to be determined by the Commissioner.
 
+[42/98; 30/2000]
+
 ### Recovery of estate duty
 
-38\.—(1) Any sum of money owing by way of estate duty or interest thereon to the Government, or being forfeited to the Government under the provisions of this Act shall be a debt due to the Government and may be recovered under the Government Proceedings Act (Cap. 121).
+38\.—(1) Any sum of money owing by way of estate dutyor interest thereon to the Government, or being forfeited to the Government under the provisions of this Act shall be a debt due to the Government and may be recovered under the Government Proceedings Act (Cap. 121).
 
-(2) Where any proceeding is instituted for the recovery of estate duty or interest thereon in respect of any property, the High Court may appoint a receiver of the property and the rents and profits and may order a sale of the property.
+(2) Where any proceeding is instituted for the recovery of estate dutyor interest thereon in respect of any property, the High Court may appoint a receiver of the property and the rents and profits and may order a sale of the property.
 
 ### Powers of Commissioner
 
@@ -886,25 +918,21 @@ COLLECTION OF ESTATE DUTY
 
 (4) The Commissioner may apply to the High Court in a summary manner in the matter to which his inquiry relates for an order enforcing compliance with his reasonable requirements.
 
-(5) [Deleted by Act 30/2000 wef 18/12/2000]
+(5) Subject to the provisions of this Act, the value of any property for the purpose of estate duty shall be ascertained by the Commissioner in such manner and by such means as he thinks fit, and if he authorises a person to inspect any property and report to him the value thereof for the purposes of this Act, the person having the custody or control of that property shall permit the person so authorised to inspect it at such reasonable times as the Commissioner considers necessary.
 
-(6) Subject to the provisions of this Act, the value of any property for the purpose of estate duty shall be ascertained by the Commissioner in such manner and by such means as he thinks fit, and if he authorises a person to inspect any property and report to him the value thereof for the purposes of this Act, the person having the custody or control of that property shall permit the person so authorised to inspect it at such reasonable times as the Commissioner considers necessary.
+(6) When the Commissioner requires a valuation to be made by a person named by him, the costs of the valuation shall be defrayed by the Commissioner.
 
-(7) When the Commissioner requires a valuation to be made by a person named by him, the costs of the valuation shall be defrayed by the Commissioner.
+(7) Where any document in the custody of the Commissioner relating to duty charged or chargeable in respect of any property has been lost or destroyed, or has been so defaced or damaged as to be illegible or otherwise useless, the Commissioner may require any person appearing to him to be accountable or to have accounted for that duty to furnish to him to the best of his ability such information, particulars and evidence, including evidence by affidavit, as he may require for replacing that document.
 
-(8) Where any document in the custody of the Commissioner relating to duty charged or chargeable in respect of any property has been lost or destroyed, or has been so defaced or damaged as to be illegible or otherwise useless, the Commissioner may require any person appearing to him to be accountable or to have accounted for that duty to furnish to him to the best of his ability such information, particulars and evidence, including evidence by affidavit, as he may require for replacing that document.
+(8) Any person so appearing to be accountable shall be liable to discharge all claims in respect of that duty, unless he proves to the satisfaction of the Commissioner that those claims have already been discharged or that he is not accountable for the duty.
 
-(9) Any person so appearing to be accountable shall be liable to discharge all claims in respect of that duty, unless he proves to the satisfaction of the Commissioner that those claims have already been discharged or that he is not accountable for the duty.
+(9) The Commissioner shall have all such powers for the purpose of enforcing any requirement made by him under subsection (7) as he had for enforcing the delivery of the document which is to be replaced, and all statutory provisions in that behalf, including provisions as to penalties, shall, with the necessary modifications, apply accordingly.
 
-(10) The Commissioner shall have all such powers for the purpose of enforcing any requirement made by him under subsection (8) as he had for enforcing the delivery of the document which is to be replaced, and all statutory provisions in that behalf, including provisions as to penalties, shall, with the necessary modifications, apply accordingly.
-
-(11) The Commissioner shall pay to any person complying with any reasonable requirement under subsection (8) his reasonable costs of so doing, and if any question arises as to the amount to be paid as costs, the question shall be referred to and determined by the Registrar of the Supreme Court.
-
-40\. [Deleted by Act 42/98 wef 10/01/1998]
+(10) The Commissioner shall pay to any person complying with any reasonable requirement under subsection (7) his reasonable costs of so doing, and if any question arises as to the amount to be paid as costs, the question shall be referred to and determined by the Registrar of the Supreme Court.
 
 ### Release of estate on which duty is paid
 
-41\.—(1) The Commissioner, on being satisfied that the full estate duty has been or will be paid in respect of an estate or any part thereof, shall, if required by the person accounting for the estate duty, give a certificate to that effect, which shall discharge from any further claim for estate duty the property shown by the certificate to form the estate or part thereof, as the case may be.
+40\.—(1) The Commissioner, on being satisfied that the full estate duty has been or will be paid in respect of an estate or any part thereof, shall, if required by the person accounting for the estate duty, give a certificate to that effect, which shall discharge from any further claim for estate duty the property shown by the certificate to form the estate or part thereof, as the case may be.
 
 (2) Where a person accountable for the estate duty in respect of any property passing on a death applies to the Commissioner, and delivers to him and verifies a full statement to the best of his knowledge and belief of all property passing on such death and the several persons entitled thereto, the Commissioner may determine the rate of the estate duty in respect of the property for which the applicant is accountable, and on payment of the duty at that rate, that property and the applicant, so far as regards that property shall be discharged from any further claim for estate duty, and the Commissioner shall give a certificate of such discharge.
 
@@ -912,9 +940,13 @@ COLLECTION OF ESTATE DUTY
 
 (4) A certificate purporting to be a discharge of the whole estate duty payable in respect of any property included in the certificate shall exonerate from the estate duty a bona fide purchaser for valuable consideration without notice, notwithstanding any such fraud or failure.
 
+[41
+
 ### Probate not to issue until estate duty paid or postponement granted
 
-42\.—(1) No grant of representation shall be issued by any court until the Commissioner has certified in a certificate to be filed in court that the estate duty return has been delivered and the estate duty payable in respect of the estate has been paid or that he has allowed payment thereof to be postponed under section 43, and stating the value as assessed by the Commissioner of the property on which estate duty is payable.
+41\.—(1) No grant of representation shall be issued by any court until the Commissioner has certified in a certificate to be filed in court that the estate duty return has been delivered and the estate duty payable in respect of the estate has been paid or that he has allowed payment thereof to be postponed under section 42, and stating the value as assessed by the Commissioner of the property on which estate duty is payable.
+
+[30/2000]
 
 (2) A schedule of the property of a deceased person in respect of which estate duty has been paid in such form as may be prescribed or a certificate that payment of estate duty has been postponed or will be made by instalments authenticated by the signature of the Commissioner shall be annexed to the grant of representation.
 
@@ -922,9 +954,11 @@ COLLECTION OF ESTATE DUTY
 
 (4) If, after the issue of a grant of representation in respect of a deceased person, it is discovered that any property passing or deemed to pass on his death has not been included in that schedule, then upon payment of all estate duty, if any, in respect of such property the Commissioner shall cause particulars of the property to be entered in that schedule or shall issue a supplementary schedule.
 
+[42
+
 ### Postponement of payment of estate duty in certain cases
 
-43\.—(1) The Commissioner may allow payment of the whole or any part of the estate duty to be postponed until after the issue of probate or letters of administration —
+42\.—(1) The Commissioner may allow payment of the whole or any part of the estate duty to be postponed until after the issue of probate or letters of administration —
 
 (a) where the estate duty return contains the statement and undertaking specified in section 30(3);
 
@@ -936,13 +970,17 @@ COLLECTION OF ESTATE DUTY
 
 (e) where, in any other case, the Commissioner is satisfied that it is reasonable to allow payment to be postponed.
 
+[30/2000]
+
 (2) The onus of proving any of the circumstances mentioned in subsection (1) shall rest on the accountable person, and postponement of payment shall be subject to such conditions, including the payment of interest, and to the giving of such security and undertakings, as the Commissioner may think fit.
+
+[43
 
 ### Duties of company and life assurance company
 
-44\.—(1) No dealings with shares standing in the name of a deceased person shall be registered unless such shares are included in the schedule referred to in section 42 or in a certificate issued pursuant to subsection (4).
+43\.—(1) No dealings with shares standing in the name of a deceased person shall be registered unless such shares are included in the schedule referred to in section 41 or in a certificate issued under subsection (4).
 
-(2) No sum payable on a policy of life assurance, upon which estate duty is leviable in Singapore, shall be paid by or on behalf of any life assurance company unless the sum secured by the policy is included in the schedule referred to in section 42 or in a certificate issued pursuant to subsection (4).
+(2) No sum payable on a policy of life assurance, upon which estate duty is leviable in Singapore, shall be paid by or on behalf of any life assurance company unless the sum secured by the policy is included in the schedule referred to in section 41 or in a certificate issued under subsection (4).
 
 (3) Any person who fails without reasonable excuse, to be allowed by the Commissioner, to comply with this section shall be liable to pay such sum not exceeding $500 as the Commissioner may determine, and the same shall be a debt due to the Government and may be recovered under the Government Proceedings Act (Cap. 121).
 
@@ -958,21 +996,29 @@ COLLECTION OF ESTATE DUTY
 
 (b) shares standing in the name of a deceased person in his CPF Investment Account under the Central Provident Fund Act (Cap. 36) where the aggregate market value of the shares, as at the date of his death, does not exceed $50,000.
 
-[42/98 wef 01/01/1999]
+[44
+
+[42/98]
 
 ### Penalties for delay and intermeddling
 
-45\.—(1) An accountable person who wilfully fails to comply with section 35(1) or (4) shall be liable to pay to the Government double the amount of the estate duty for which he is accountable.
+44\.—(1) An accountable person who wilfully fails to comply with section 35(1) or (4) shall be liable to pay to the Government double the amount of the estate duty for which he is accountable.
 
-(2) Except as provided under section 44(5), if any person takes possession of or in any way administers any part of an estate of a deceased person in respect of which estate duty is leviable or of the income of any part of that estate without obtaining probate or letters of administration of that estate within 6 months after the death of the deceased or within 2 months after the termination of any action or proceeding respecting the will or the right to letters of administration, if there is any such action or proceeding which has not ended within 4 months after such death, he shall forfeit to the Government the sum of $1,000 and shall also be liable to pay to the Government double the amount of duty leviable.
+(2) Except as provided under section 43(5), if any person takes possession of or in any way administers any part of an estate of a deceased person in respect of which estate duty is leviable or of the income of any part of that estate without obtaining probate or letters of administration of that estate within 6 months after the death of the deceased or within 2 months after the termination of any action or proceeding respecting the will or the right to letters of administration, if there is any such action or proceeding which has not ended within 4 months after such death, he shall forfeit to the Government the sum of $1,000 and shall also be liable to pay to the Government double the amount of duty leviable.
+
+[45
+
+[42/98]
 
 ### Return of duty overpaid
 
-46\. If the value of any property in respect of which estate duty has been paid is, within 3 years after such payment (or within such further period as the Commissioner may, in special circumstances, allow), proved to the satisfaction of the Commissioner to exceed the value of the property subject to estate duty on the death of the deceased, the Commissioner shall return the amount of duty and interest thereon, if any, which has been overpaid.
+45\. If the value of any property in respect of which estate duty has been paid is, within 3 years after such payment (or within such further period as the Commissioner may, in special circumstances, allow), proved to the satisfaction of the Commissioner to exceed the value of the property subject to estate duty on the death of the deceased, the Commissioner shall return the amount of dutyand interest thereon, if any, which has been overpaid.
+
+[46
 
 ### Payment of additional duty
 
-47\.—(1) If at any time it is brought to the notice of any executor or other person accountable for estate duty that the property subject to estate duty on the death of the deceased was of greater value than that on which estate duty was actually computed, such executor or person, as the case may be, shall —
+46\.—(1) If at any time it is brought to the notice of any executor or other person accountable for estate duty that the property subject to estate duty on the death of the deceased was of greater value than that on which estate duty was actually computed, such executor or person, as the case may be, shall —
 
 (a) within one month after such notice, or within such further time as the Commissioner may allow, deliver a further estate duty return or further account;
 
@@ -980,21 +1026,33 @@ COLLECTION OF ESTATE DUTY
 
 (c) at the same time pay to the Commissioner interest upon such difference at the appropriate rates specified in the Sixth Schedule from the date of the death, or from such subsequent date as the Commissioner may in the circumstances think proper, to the date of payment.
 
+[30/2000]
+
 (2) If any person, who ought to deliver a further return or account as mentioned in subsection (1), neglects to do so within the prescribed period, he shall forfeit to the Government the sum of $1,000 and shall also be liable to pay to the Government double the amount of additional duty leviable.
 
-(3) If an application has been made under section 48(1) in respect of a notice of assessment, no claim shall be made for the return of excess duty or for the payment of additional duty except on the ground that the particulars of the property passing on the death of the deceased, or the general expenses, debts or encumbrances for which allowance was made, were not correctly stated in the return or account.
+[30/2000]
+
+(3) If an application has been made under section 47(1) in respect of a notice of assessment, no claim shall be made for the return of excess duty or for the payment of additional duty except on the ground that the particulars of the property passing on the death of the deceased, or the general expenses, debts or encumbrances for which allowance was made, were not correctly stated in the return or account.
+
+[47
+
+[42/98; 30/2000]
 
 ### Application to court
 
-48\.—(1) An executor or other accountable person aggrieved by any claim by a notice of assessment by the Commissioner for payment of estate duty or interest thereon, or by the refusal of the Commissioner to return any estate duty or interest thereon alleged to have been overpaid, may, on payment of, or giving security as hereinafter mentioned for, the amount claimed by the Commissioner or such portion of it as is then payable by him, apply to the High Court within 3 months from the date of the claim or refusal, as the case may be.
+47\.—(1) An executor or other accountable person aggrieved by any claim by a notice of assessment by the Commissioner for payment of estate dutyor interest thereon, or by the refusal of the Commissioner to return any estate dutyor interest thereon alleged to have been overpaid, may, on payment of, or giving security as hereinafter mentioned for, the amount claimed by the Commissioner or such portion of it as is then payable by him, apply to the High Court within 3 months from the date of the claim or refusal, as the case may be.
 
-(2) The amount of the duty and interest shall be determined by the High Court, and if the duty and interest as determined is less than that paid to the Commissioner the excess shall be repaid.
+[42/98]
+
+(2) The amount of the dutyand interest shall be determined by the High Court, and if the dutyand interest as determined is less than that paid to the Commissioner the excess shall be repaid.
 
 (3) No appeal shall be allowed from any order, direction, determination or decision of the High Court upon any application under this section except with the leave of the High Court or the Court of Appeal.
 
-(4) The costs of the application shall be in the discretion of the Court, and the Court, where it appears to the Court just, may order the Commissioner to pay on any excess of duty or interest repaid by him interest at the rate of 6% per annum for such period as appears to the Court just.
+(4) The costs of the application shall be in the discretion of the Court, and the Court, where it appears to the Court just, may order the Commissioner to pay on any excess of dutyor interest repaid by him interest at the rate of 6% per annum for such period as appears to the Court just.
 
 (5) The High Court, if satisfied that it would impose hardship to require the applicant, as a condition of the application, to pay the whole or, as the case may be, any part of the duty claimed by the Commissioner or of such portion of it as is then payable by him, may allow the application to be brought without payment of duty, or of such part only of the duty as to the Court seems reasonable, and on security to the satisfaction of the Court being given for the duty, or so much of the duty as is not so paid, but in such case the Court may order interest at the rate of 6% per annum to be paid on the unpaid duty so far as it becomes payable under the decision of the Court.
+
+[48
 
 ## PART VII
 
@@ -1002,15 +1060,19 @@ MISCELLANEOUS PROVISIONS
 
 ### Inspection of records, etc.
 
-49\. Every public officer having in his custody any register, book, record, paper, document or proceeding, the inspection of which may tend to secure any estate duty, or to prove or lead to the discovery of any fraud or omission in relation to any estate duty, shall at all reasonable times permit any person authorised in writing by the Commissioner to inspect for such purpose the register, book, record, paper, document and proceeding, and to take such notes and extracts as he may consider necessary without fee or charge.
+48\. Every public officer having in his custody any register, book, record, paper, document or proceeding, the inspection of which may tend to secure any estate duty, or to prove or lead to the discovery of any fraud or omission in relation to any estate duty, shall at all reasonable times permit any person authorised in writing by the Commissioner to inspect for such purpose the register, book, record, paper, document and proceeding, and to take such notes and extracts as he may consider necessary without fee or charge.
+
+[49
 
 ### Remission of estate duty
 
-50\. The Minister may, by rule or order published in theGazette, remit wholly or in part the estate duty payable in respect of any particular class of deceased persons or of any particular deceased person.
+49\. The Minister may, by rule or order published in theGazette, remit wholly or in part the estate duty payable in respect of any particular class of deceased persons or of any particular deceased person.
+
+[50
 
 ### Waiver of small duty and interest
 
-51\. Where it appears to the Commissioner that the amount of any estate duty or additional duty or interest thereon to which any person is liable does not exceed —
+50\. Where it appears to the Commissioner that the amount of any estate duty or additional duty or interest thereon to which any person is liable does not exceed —
 
 (a) in the case of estate duty or additional duty, $10; and
 
@@ -1018,21 +1080,27 @@ MISCELLANEOUS PROVISIONS
 
 he may waive the payment of the duty or interest, as the case may be.
 
+[51
+
 [10/80]
 
 ### Reduction of penalties
 
-52\.—(1) The Commissioner may reduce any penalty to which any person is liable under this Act or under any other Act relating to estate duty.
+51\.—(1) The Commissioner may reduce any penalty to which any person is liable under this Act or under any other Act relating to estate duty.
 
 (2) The court in any proceeding for the recovery of any penalty to which any person is liable under this Act or under any other Act relating to estate duty may reduce such penalty.
 
+[52
+
 ### Persons exempt from liability
 
-53\. Nothing in this Act shall be deemed to subject to any liability any person who is entitled under any Act to deliver or order to be delivered property of a deceased person without letters of administration being taken out or any person to whom property is delivered by or by the order of such person.
+52\. Nothing in this Act shall be deemed to subject to any liability any person who is entitled under any Act to deliver or order to be delivered property of a deceased person without letters of administration being taken out or any person to whom property is delivered by or by the order of such person.
+
+[53
 
 ### Composition of duties
 
-54\.—(1) Where, by reason of the number of deaths on which property has passed or of the complicated nature of the interests of different persons in property which has passed on death, or from any other cause, it is difficult to ascertain exactly the amount of estate duty payable in respect of any property or any interest therein, or so to ascertain the amount without undue expense in proportion to the value of the property or interest, the Commissioner may —
+53\.—(1) Where, by reason of the number of deaths on which property has passed or of the complicated nature of the interests of different persons in property which has passed on death, or from any other cause, it is difficult to ascertain exactly the amount of estate duty payable in respect of any property or any interest therein, or so to ascertain the amount without undue expense in proportion to the value of the property or interest, the Commissioner may —
 
 (a) on the application of any person accountable for any duty thereon, and upon his giving to the Commissioner all the information in his power respecting the amount of the property and the several interests therein, and other circumstances of the case, by way of composition for all or any of the estate duties payable in respect of the property or interest and the various interests therein or any of them, assess such sum on the value of the property or interest as having regard to the circumstances appears proper; and
 
@@ -1040,15 +1108,17 @@ he may waive the payment of the duty or interest, as the case may be.
 
 (2) The certificate shall not discharge any person from any duty in case of fraud or failure to disclose material facts.
 
-(3) In this section, “estate duty” and “estate duties” mean the duty imposed by or referred to in section 6.
+[54
 
 ### Penalty for false statement or false representation
 
-55\. If any person for the purpose of obtaining any allowance, reduction, rebate or repayment in respect of any duty under this Act, either for himself or for any other person, or, in any return, affidavit or other document made with reference to or in connection with any duty under this Act, knowingly makes any false statement or false representation, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 2 years or to both.
+54\. If any person for the purpose of obtaining any allowance, reduction, rebate or repayment in respect of any duty under this Act, either for himself or for any other person, or, in any return, affidavit or other document made with reference to or in connection with any duty under this Act, knowingly makes any false statement or false representation, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+[55
 
 ### Interest of deceased person in business to be notified
 
-56\.—(1) Where a deceased person, dying after 22nd April 1940, had any interest in any business carried on within Singapore either —
+55\.—(1) Where a deceased person had any interest in any business carried on within Singapore either —
 
 (a) as a partner in the business; or
 
@@ -1066,9 +1136,11 @@ the surviving partner or partners or the manager, agent, attorney or other perso
 
 “business carried on within Singapore” includes any branch, agency or associated business carried on within Singapore of any business established, carried on or owned wholly or in part by any person or persons outside Singapore.
 
+[56
+
 ### Intervention by Commissioner in pending suits
 
-57\.—(1) In every suit or proceeding, the court may have regard to the estate duty that may be payable on property passing on the death of any person and may, if the court considers it necessary for securing the payment of any estate duty, cause notice to be served on the Commissioner.
+56\.—(1) In every suit or proceeding, the court may have regard to the estate duty that may be payable on property passing on the death of any person and may, if the court considers it necessary for securing the payment of any estate duty, cause notice to be served on the Commissioner.
 
 (2) The Commissioner may thereupon or at any time thereafter intervene in such suit or proceeding and may with leave of the court be joined as a party thereto.
 
@@ -1076,13 +1148,17 @@ the surviving partner or partners or the manager, agent, attorney or other perso
 
 (4) The costs of or occasioned by the intervention of the Commissioner shall be in the discretion of the court.
 
+[57
+
 ### Facts stated in Commissioner’s certificate need not be proved
 
-58\. Any statement made in any certificate issued by the Commissioner shall be presumed to be correct until the contrary is proved and, in the absence of proof to the contrary, a court shall act on any such statement without requiring further proof thereof.
+57\. Any statement made in any certificate issued by the Commissioner shall be presumed to be correct until the contrary is proved and, in the absence of proof to the contrary, a court shall act on any such statement without requiring further proof thereof.
+
+[58
 
 ### Signature and service of notices
 
-59\.—(1) Every notice, given by the Commissioner or a Deputy Commissioner under this Act, shall bear the name of the Commissioner or the Deputy Commissioner, as the case may be, and every such notice shall, if the name of the Commissioner or the Deputy Commissioner is duly printed or stamped thereon, be as valid and effectual as if it were signed by the Commissioner or the Deputy Commissioner, as the case may be.
+58\.—(1) Every notice, given by the Commissioner or a Deputy Commissioner under this Act, shall bear the name of the Commissioner or the Deputy Commissioner, as the case may be, and every such notice shall, if the name of the Commissioner or the Deputy Commissioner is duly printed or stamped thereon, be as valid and effectual as if it were signed by the Commissioner or the Deputy Commissioner, as the case may be.
 
 (2) Every notice, given by virtue of this Act, may be served on a person either personally or by being delivered at, or sent by post to, an address furnished by him for the purpose of service of notices, or his last known address or place of residence or to any place at which he is or has been carrying on business.
 
@@ -1090,15 +1166,17 @@ the surviving partner or partners or the manager, agent, attorney or other perso
 
 (4) Every notice required under this Act to be served on a person who is not resident in Singapore may be served on his agent in Singapore.
 
+[59
+
 ### Rules
 
-60\.—(1) The Minister may make rules to carry out generally the purposes of this Act.
+59\. The Minister may make rules to carry out generally the purposes of this Act.
 
-(2) All such rules shall come into force upon publication in theGazette.
+[60
 
 FIRST SCHEDULE
 
-Section 6(a)
+Section 5(a)
 
 Rates of Estate Duty in the Case of Persons Dying on or After 1ST April 1974 and Before 1ST April 1977
 
@@ -1116,11 +1194,7 @@ For every dollar of the next $15,000
 
 For every dollar of the next $25,000
 
-71/
-
-2
-
-%
+7 ½%
 
 For every dollar of the next $25,000
 
@@ -1128,11 +1202,7 @@ For every dollar of the next $25,000
 
 For every dollar of the next $25,000
 
-121/
-
-2
-
-%
+12 ½%
 
 For every dollar of the next $50,000
 
@@ -1176,7 +1246,7 @@ For every dollar exceeding $4,040,000
 
 SECOND SCHEDULE
 
-Section 6(b)
+Section 5(b)
 
 Rates of Estate Duty in the Case of Persons Dying on or After 1ST April 1977 and Before 1ST April 1979
 
@@ -1194,11 +1264,7 @@ For every dollar of the next $15,000
 
 For every dollar of the next $25,000
 
-71/
-
-2
-
-%
+7 ½%
 
 For every dollar of the next $25,000
 
@@ -1206,11 +1272,7 @@ For every dollar of the next $25,000
 
 For every dollar of the next $25,000
 
-121/
-
-2
-
-%
+12 ½%
 
 For every dollar of the next $50,000
 
@@ -1256,7 +1318,7 @@ For every dollar exceeding $4,090,000
 
 THIRD SCHEDULE
 
-Section 6(c)
+Section 5(c)
 
 Rates of Estate Duty in the Case of Persons Dying on or After 1ST April 1979 and Before 1ST April 1984
 
@@ -1270,11 +1332,7 @@ For every dollar of the first $15,000
 
 For every dollar of the next $25,000
 
-71/
-
-2
-
-%
+7 ½%
 
 For every dollar of the next $25,000
 
@@ -1282,11 +1340,7 @@ For every dollar of the next $25,000
 
 For every dollar of the next $25,000
 
-121/
-
-2
-
-%
+12 ½%
 
 For every dollar of the next $50,000
 
@@ -1332,7 +1386,7 @@ For every dollar exceeding $3,990,000
 
 FOURTH SCHEDULE
 
-Section 6(d)
+Section 5(d)
 
 Rates of Estate Duty in the Case of Persons Dying on or After 1ST April 1984 and Before 28TH February 1996
 
@@ -1352,7 +1406,7 @@ For every dollar exceeding $10,000,000
 
 FIFTH SCHEDULE
 
-Section 6(e)
+Section 5(e)
 
 Rates of Estate Duty in the Case of Persons Dying on or After 28TH February 1996
 
@@ -1370,7 +1424,7 @@ For every dollar exceeding $12,000,000
 
 SIXTH SCHEDULE
 
-Sections 36(1) and (4) and 47(1)
+Sections 36(1) and (4) and 46(1)
 
 Rates of Interest
 
@@ -1394,11 +1448,11 @@ Rate of Interest
 
 4% per year on the amount of the unpaid estate duty.
 
-[42/98 wef 01/01/1999]
+[42/98; 30/2000]
 
 SEVENTH SCHEDULE
 
-Section 7(2)
+Section 6(2)
 
 Rates of Remission of Estate Duty in the Case of Persons Dying on or After 1ST April 1974 and Before 1ST April 1977
 
@@ -1444,7 +1498,7 @@ For every dollar of the next $20,000
 
 EIGHTH SCHEDULE
 
-Section 7(3)
+Section 6(3)
 
 Rates of Remission of Estate Duty in the Case of Persons Dying on or After 1ST April 1977 and Before 1ST April 1984
 
@@ -1489,12 +1543,6 @@ For every dollar of the next $20,000
 10%
 
 [12/78]
-
-NINTH SCHEDULE
-
-[EXEMPTIONS]
-
-[Deleted by Act 42/98 wef 01/01/1999 wef 01/01/1999 wef 01/01/1999]
 
 ## LEGISLATIVE HISTORY
 
@@ -1646,3 +1694,203 @@ This Legislative History is provided for the convenience of users of the Estate 
 ||Date of Second and Third Readings|13 November 2000|
 ||Date of commencement|18 December 2000|
 |||1 January 2001|
+|33.|**2001 Revised Edition—Estate Duty Act**|
+||Date of operation|31 July 2001|
+## COMPARATIVE TABLE
+
+Estate Duty Act
+
+(CHAPTER 96)
+
+The following provisions in the 1997 Revised Edition of the Estate Duty Act have been renumbered by the Law Revision Commissioners in this 2001 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Estate Duty Act.
+
+2001 Ed\. 
+
+1997 Ed\. 
+
+—
+
+5 (Repealed by Act 30/2000)
+
+5 
+
+6 
+
+6 
+
+7 
+
+7 
+
+8 
+
+8 
+
+9 
+
+9 
+
+10 
+
+10 
+
+11 
+
+11 
+
+12 
+
+12 
+
+13 
+
+13 
+
+13A 
+
+14 —(4)
+
+14 —(3A)
+
+(5)
+
+(4)
+
+(6)
+
+(5)
+
+(7)
+
+(5A)
+
+(8)
+
+(6)
+
+(9)
+
+(7)
+
+28 —(5)
+
+28 —(6)
+
+(6)
+
+(5)
+
+35 —(9) and (10)
+
+35 —(9)
+
+(11)
+
+(10)
+
+—
+
+39 —(5) (Deleted by Act 30/2000)
+
+39 —(5) to (10)
+
+39 —(6) to (11)
+
+—
+
+40 (Repealed by Act 42/98)
+
+40 
+
+41 
+
+41 
+
+42 
+
+42 
+
+43 
+
+43 
+
+44 
+
+44 
+
+45 
+
+45 
+
+46 
+
+46 
+
+47 
+
+47 
+
+48 
+
+48 
+
+49 
+
+49 
+
+50 
+
+50 
+
+51 
+
+51 
+
+52 
+
+52 
+
+53 
+
+53 —(1) and (2)
+
+54 —(1) and (2)
+
+Omitted
+
+(3)
+
+54 
+
+55 
+
+55 
+
+56 
+
+56 
+
+57 
+
+57 
+
+58 
+
+58 
+
+59 
+
+59 
+
+60 —(1)
+
+Omitted
+
+(2)
+
+—
+
+Ninth Schedule (Deleted by Act 42/98)
+
