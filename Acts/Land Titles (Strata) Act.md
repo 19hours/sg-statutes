@@ -728,6 +728,8 @@ before the legal completion of the transfer for the lot, flat or land, as the ca
 
 (ii) the certificate of the Chief Surveyor or any other officer duly appointed to approve strata title plans on his behalf that such strata title plan has been approved by or on behalf of the Chief Surveyor and a copy thereof has been lodged with the Authority; and
 
+(b) [Deleted by Act 30/2003 wef 10/12/2003]
+
 (c) the share value of each proposed lot has been entered in the plan in compliance with section 30.
 
 [24/91]
@@ -4066,31 +4068,61 @@ Sections 84A(3), 84D(3) and 84E(4)
 
 Requirements under Section 84A, 84DOR 84E
 
-1. The subsidiary proprietors referred to in section 84A(1) or the proprietors referred to in section 84D(2) or 84E(3) shall, before making an application to a Board —
+1. Before making an application to a Board, the subsidiary proprietors referred to in section 84A(1) or the proprietors of flats referred to in section 84D(2) or 84E(3), as the case may be, shall —
 
-(a) consider the collective sale at an extraordinary meeting held in accordance with the Act or, where the development is not registered under the Act, at a meeting held after sending a notice of the meeting by registered post to all the proprietors to their last recorded addresses at the Registry of Titles or the Registry of Deeds and placing a copy of the notice under the main door of every flat in the development;
+(a) execute within the permitted time but in no case more than 12 months before the date the application is made, a collective sale agreement in writing among themselves (whether or not with other subsidiary proprietors or proprietors) agreeing to agree to collectively sell —
 
-(b) advertise the particulars of the application in such local newspapers in the 4 official languages as approved by the Board;
+(i) in the case of an application under section 84A , all the lots and common property in a strata title plan; or
 
-(c) serve a notice of the proposed application to be made under section 84A(1), 84D(2) or 84E(3) by sending a copy by registered post to all the subsidiary proprietors or proprietors, as the case may be, and by placing a copy under the main door of every lot or flat, together with a copy each of —
+(ii) in the case of an application under section 84D or 84E, all the flats and the land in a development to which section 84D or 84E, as the case may be, applies;
 
-(i) the advertisement referred to in sub-paragraph (b);
+(b) once every 8 weeks after the start of the permitted time, affix to a conspicuous part of each building comprised in the strata title plan or the development to which section 84D or 84E applies, as the case may be, a notice in the 4 official languages specifying —
 
-(ii) the sale and purchase agreement;
+(i) the number of subsidiary proprietors or proprietors who, immediately before the date of the notice, have signed the collective sale agreement; and
 
-(iii) a statutory declaration made by the purchaser under the sale and purchase agreement on his relationship, if any, to the subsidiary proprietors of the lots or the proprietors of the flats;
+(ii) the proportion (in percentage) that the total share value of such subsidiary proprietors’ lots bear to the total share value of all lots comprised in that strata title plan, or that such proprietors’ total share or total notional share of the land bears to the total share or notional share of all proprietors in that land, as the case may be;
 
-(iv) a valuation report which is not more than 3 months old;
+(c) consider the collective sale either —
 
-(v) a report by a valuer on the proposed method of distributing the sale proceeds; and
+(i) at an extraordinary general meeting of the management corporation held in accordance with Part IV of the Act or any other corresponding written law; or
 
-(vi) the minutes of the extraordinary meeting or meeting referred to in sub-paragraph (a);
+(ii) in the case of land in a development to which section 84D or 84E applies, at a meeting held after sending a notice of the meeting by registered post to all the proprietors to their last recorded addresses at the Registry of Titles or the Registry of Deeds and placing a copy of the notice under the main door of every flat in the development;
 
-(d) affix a copy of the notice referred to in sub-paragraph (c) to the main door of the lots or flats whose subsidiary proprietors or proprietors, as the case may be, have not agreed in writing to the sale; and
+(d) advertise in the 4 official languages the particulars of the application in such local newspapers as approved by the Board;
 
-(e) affix a copy of the notice referred to in sub-paragraph (c) in the 4 official languages to a conspicuous part of each building in the development.
+(e) serve notice of the proposed application on all the subsidiary proprietors of all the lots and common property in the strata title plan concerned or on all proprietors of all flats in the development concerned, as the case may be, by registered post and by placing a copy of the proposed application under the main door of every lot or flat, together with a copy each of the following:
 
-2. The notice referred to in paragraph 1(c) to be served by registered post shall be served on an affected party —
+(i) the collective sale agreement referred to in sub-paragraph (a);
+
+(ii) the sale and purchase agreement which is to be the subject of the application to the Board;
+
+(iii) a statutory declaration made by the purchaser under the sale and purchase agreement on the nature of his relationship (if any) or, if the purchaser is a body corporate, the nature of the relationship of every one of its directors (if any), to any subsidiary proprietor of any lot comprised in that strata title plan or any proprietor of any flat in the development, as the case may be;
+
+(iv) the minutes of the extraordinary general meeting or meeting referred to in sub-paragraph (c);
+
+(v) the advertisement referred to in sub-paragraph (d);
+
+(vi) a valuation report that is not more than 3 months old; and
+
+(vii) a report by a valuer on the proposed method of distributing the proceeds of the sale due under the sale and purchase agreement; and
+
+(f) affix a copy of the notice referred to in sub-paragraph (e) in the 4 official languages to a conspicuous part of each building comprised in the strata title plan or the development, as the case may be.
+
+[S 243/2004 wef 01/05/2004]
+
+1A. For the purposes of this Schedule —
+
+(a) the permitted time in relation to a collective sale agreement executed or to be executed by subsidiary proprietors or proprietors referred to in section 84A(1), 84D(2)or 84E (3), means a period —
+
+(i) starting from the date the first subsidiary proprietor or proprietor, or his duly appointed attorney, as the case may be, signs the collective sale agreement; and
+
+(ii) ending not more than 12 months after the date the first subsidiary proprietor or proprietor, or his duly appointed attorney, as the case may be, signs the collective sale agreement; and
+
+(b) the collective sale agreement shall be regarded as executed notwithstanding that it is executed on separate copies thereof and at different times.
+
+[S 243/2004 wef 01/05/2004]
+
+2. The notice referred to in paragraph 1(e) to be served by registered post shall be served on an affected party —
 
 (a) where the party is a subsidiary proprietor of a lot in the strata title plan, at the address as shown on the strata roll;
 
@@ -4100,7 +4132,7 @@ Requirements under Section 84A, 84DOR 84E
 
 (d) where the party is a management corporation, at its address recorded on the folio of the land-register comprising the common property.
 
-3. The advertisement referred to in paragraph 1(b)shall include —
+3. The advertisement referred to in paragraph 1(d) shall include —
 
 (a) information on the development;
 
@@ -4112,11 +4144,23 @@ Requirements under Section 84A, 84DOR 84E
 
 (e) the place at which the affected parties can inspect documents for the collective sale.
 
-4. An application to a Board shall be made by the subsidiary proprietors referred to in section 84A(1) or the proprietors referred to in section 84D(2) or 84E(3) within 14 days of the publication of the advertisement referred to in paragraph 1(b), enclosing —
+4. An application to a Board shall be made by the subsidiary proprietors referred to in section 84A(1) or the proprietors referred to in section 84D(2) or 84E(3) within 14 days of the publication of the advertisement referred to in paragraph 1 (d), enclosing —
 
-(a) the documents specified in paragraph 1(c);
+(a) the documents specified in paragraph 1(e);
 
-(b) the statutory declaration made by the representatives appointed under section 84A(2) or their solicitors that paragraph 1(a), (b), (c), (d) and (e) have been complied with;
+[S 243/2004 wef 01/05/2004]
+
+(b) a statutory declaration made by the representatives appointed under section 84A(2) or their solicitors stating —
+
+(i) the date the permitted time for the collective sale agreement started;
+
+(ii) the date on which collective sale agreement referred to in paragraph 1(a) was last executed by any subsidiary proprietor or proprietor referred to in section 84A(1), 84D(2)or 84E (3), as the case may be;
+
+(iii) the date or dates on which the notice or notices referred to in paragraph 1(b) were affixed; and
+
+(iv) that sub-paragraphs (c), (d), (e) and (f) of paragraph 1 have been complied with;
+
+[S 243/2004 wef 01/05/2004]
 
 (c) a list of the names of the subsidiary proprietors who have not agreed in writing to the sale, their mortgagees, chargees and other persons (other than lessees) with an estate or interest in the lots or flats whose interests are notified on the land-register; and
 
@@ -4241,6 +4285,8 @@ This Legislative History is provided for the convenience of users of the Land Ti
 |||(Bill No. 27/2003 published on 17 October 2003)|
 ||Date of Second and Third Readings|11 November 2003|
 ||Date of commencement|10 December 2003|
+|18.|**G. N. No. S 243/2004—Land Titles (Strata) Act (Amendment of Fourth Schedule) Order 2004**|
+||Date of commencement|1 May 2004|
 ## COMPARATIVE TABLE
 
 Land Titles (Strata) Act
