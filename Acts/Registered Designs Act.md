@@ -164,7 +164,7 @@
 
 - [60 Refusal to give evidence an offence](#Refusal-to-give-evidence-an-offence)
 
-- [61 Immunity of Registrar as regards official acts](#Immunity-of-Registrar-as-regards-official-acts)
+- [61 Immunity of Office and Registrar as regards official acts](#Immunity-of-Office-and-Registrar-as-regards-official-acts)
 
 - [62 Appeal from decision or order of Registrar](#Appeal-from-decision-or-order-of-Registrar)
 
@@ -182,6 +182,8 @@
 
 - [67 Offences by partnership or body corporate](#Offences-by-partnership-or-body-corporate)
 
+- [67A Composition of offences](#Composition-of-offences)
+
 [**Part VII MISCELLANEOUS AND GENERAL PROVISIONS**](#Part-VII)
 
 - [68 Recognition of agents](#Recognition-of-agents)
@@ -195,6 +197,8 @@
 - [72 General power to make rules](#General-power-to-make-rules)
 
 - [73 Rules relating to application for registration](#Rules-relating-to-application-for-registration)
+
+- [73A Fees to be paid to Office](#Fees-to-be-paid-to-Office)
 
 [**Part VIII REPEAL, TRANSITIONAL PROVISIONS AND RELATED AMENDMENTS TO COPYRIGHT ACT**](#Part-VIII)
 
@@ -283,6 +287,10 @@ PRELIMINARY
 “designer”, in relation to a design, means the person who creates it or, if there are 2 or more such persons, each of those persons;
 
 “exclusive licence” means a licence from the registered owner of a registered design authorising the licensee, or the licensee and persons authorised by him, to the exclusion of all other persons (including the registered owner), to use the design in the manner authorised by the licence and “exclusive licensee” shall be construed accordingly;
+
+“Office” means the Intellectual Property Office of Singapore incorporated under the Intellectual Property Office of Singapore Act 2001;
+
+[3/2001 wef 01/04/2001]
 
 “owner” has the meaning assigned to it in section 4;
 
@@ -378,7 +386,7 @@ or if it differs from such a design only in immaterial details or in features wh
 
 (c) in the case of a new or original textile design intended for registration, the acceptance of a first and confidential order for goods bearing the design; or
 
-(d) the communication of the design by the owner to a Government department or to any person authorised by a Government department to consider the merits of the design, or of anything done in consequence of such a communication.
+(d) the communication of the design by the owner to a Government department or the Office or to any person authorised by a Government department or the Office to consider the merits of the design, or of anything done in consequence of such a communication.
 
 (2) An application for registration of a design shall not be refused, and the registration of a design shall not be revoked, by reason only —
 
@@ -1290,9 +1298,9 @@ Powers of Registrar
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both.
 
-### Immunity of Registrar as regards official acts
+### Immunity of Office and Registrar as regards official acts
 
-61\. Neither the Registrar nor any person acting under his authority —
+61\. Neither the Office nor the Registrar nor any person acting under his authority —
 
 (a) shall be taken to warrant the validity of the registration of any design registered under this Act or under any treaty, convention, arrangement or engagement to which Singapore is a party; or
 
@@ -1356,6 +1364,18 @@ knowing or having reason to believe the entry or thing, as the case may be, is f
 
 (4) Where an offence under this Act committed by a body corporate is proved to have been committed with the consent or connivance of a director, manager, secretary or other similar officer of the body corporate, or a person who was purporting to act in any such capacity, he as well as the body corporate is guilty of the offence and liable to be proceeded against and punished accordingly.
 
+### Composition of offences
+
+67A\.—(1) The Registrar or any person authorised by him in writing may, in his discretion, compound any offence under this Act or any rules made thereunder which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum of money not exceeding $2,000.
+
+(2) The Office may, with the approval of the Minister, make regulations to prescribe the offences which may be compounded.
+
+(3) On payment of such sum of money, no further proceedings shall be taken against such person in respect of the offence.
+
+(4) All sums collected under this section shall be paid into the funds of the Office.
+
+[3/2001 wef 01/04/2001]
+
 ## PART VII
 
 MISCELLANEOUS AND GENERAL PROVISIONS
@@ -1378,7 +1398,7 @@ MISCELLANEOUS AND GENERAL PROVISIONS
 
 ### General power to make rules
 
-72\.—(1) The Minister maymake rules —
+72\.—(1) The Minister may, after consulting with the Office, make rules —
 
 (a) for any purpose for which rules are required or authorised to be made under this Act;
 
@@ -1433,6 +1453,12 @@ MISCELLANEOUS AND GENERAL PROVISIONS
 (a) any claim that section 8, 9 or 10 applies in relation to the application;
 
 (b) any claim to a right of priority under section 12 or 13.
+
+### Fees to be paid to Office
+
+73A\. All fees collected in connection with any proceedings or other matter before the Registrar or the Registry, or in connection with the provision of any service by the Registry, shall be paid into the funds of the Office.
+
+[3/2001 wef 01/04/2001]
 
 ## PART VIII
 
