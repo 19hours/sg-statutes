@@ -1,16 +1,14 @@
-**Terrorism (Suppression of Financing) Act 2002**
+**Terrorism (Suppression of Financing) Act**
 
-**(No. 16 of 2002)**
+**(CHAPTER 325)**
 
 **Table of Contents**
 
 [**Long Title**](#Terrorism-Suppression-of-Financing-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -58,7 +56,7 @@
 
 - [21 Application for forfeiture of property](#Application-for-forfeiture-of-property)
 
-- [22 Contents of application](#Contents-of-application)
+- [22 Contents of application for forfeiture of property](#Contents-of-application-for-forfeiture-of-property)
 
 - [23 Respondents and notice](#Respondents-and-notice)
 
@@ -94,59 +92,39 @@
 
 - [36 No prosecution without Public Prosecutor’s consent](#No-prosecution-without-Public-Prosecutor’s-consent)
 
-- [36A Jurisdiction of District Court](#Jurisdiction-of-District-Court)
+- [37 Jurisdiction of District Court](#Jurisdiction-of-District-Court)
 
-- [37 Amendment of Schedule](#Amendment-of-Schedule)
+- [38 Amendment of Schedule](#Amendment-of-Schedule)
 
-- [38 Regulations](#Regulations)
+- [39 Regulations](#Regulations)
 
-- [39 Related amendment to Monetary Authority of Singapore Act](#Related-amendment-to-Monetary-Authority-of-Singapore-Act)
+[**THE SCHEDULE Actions Which Also Constitute Terrorist Acts**](#THE-SCHEDULE)
 
-[**THE SCHEDULE actions which also constitute terrorist acts**](#THE-SCHEDULE)
+[**Legislative History**](#Legislative-History)
 
-REPUBLIC OF SINGAPORE
+[**Comparative Table**](#Comparative-Table)
 
-GOVERNMENT GAZETTE
+# Terrorism (Suppression of Financing) Act
 
-ACTS SUPPLEMENT
+(CHAPTER 325)
 
-Published by Authority
+(Original Enactment: Act 16 of 2002)
 
-NO. 25]
+REVISED EDITION 2003
 
-Friday, September 27
+(31st July 2003)
 
-[2002
+An Act to suppress the financing of terrorism, to give effect to the International Convention for the Suppression of the Financing of Terrorism and for matters connected therewith.
 
-The following Act was passed by Parliament on 8th July 2002 and assented to by the President on 17th July 2002:—
-
-Terrorism (Suppression of Financing) Act 2002
-
-(No. 16 of 2002)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-17th July 2002.
-
-Date of Commencement: 30th September 2002 Section 39
-
-Date of Commencement: 29th January 2003 Section 2 to 38
-
-An Act to suppress the financing of terrorism, to give effect to the International Convention for the Suppression of the Financing of Terrorism and for matters connected therewith, and to make a related amendment to the Monetary Authority of Singapore Act (Chapter 186 of the 1999 Revised Edition).
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[30th January 2008]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Terrorism (Suppression of Financing) Act 2002 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Terrorism (Suppression of Financing) Act.
 
 ### Interpretation
 
@@ -178,7 +156,7 @@ PRELIMINARY
 
 (b) participates in or facilitates the commission of any terrorist act,
 
-and includes any person defined in regulations made under the United Nations Act 2001 (Act 44 of 2001) to be a terrorist;
+and includes any person defined in regulations made under the United Nations Act (Cap. 339) to be a terrorist;
 
 “terrorist entity” means any entity owned or controlled by any terrorist or group of terrorists and includes an association of such entities.
 
@@ -234,11 +212,17 @@ Terrorist property
 
 ### Prohibition against providing or collecting property for terrorist acts
 
-3\. Every person who, directly or indirectly, wilfully and without lawful excuse, provides or collects property with the intention that the property be used or knowing or having reasonable grounds to believe that the property will be used, in whole or in part, in order to commit any terrorist act, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 10 years or to both.
+3\. Every person who directly or indirectly, wilfully and without lawful excuse, provides or collects property —
+
+(a) with the intention that the property be used ; or
+
+(b) knowing or having reasonable grounds to believe that the property will be used,
+
+in whole or in part, in order to commit any terrorist act, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 10 years or to both.
 
 ### Prohibition against provision of property and services for terrorist purposes
 
-4\. Every person who, directly or indirectly, collects property, provides or invites a person to provide, or makes available property or financial or other related services —
+4\. Every person who directly or indirectly, collects property, provides or invites a person to provide, or makes available property or financial or other related services —
 
 (a) intending that they be used, or knowing or having reasonable grounds to believe that they will be used, in whole or in part, for the purpose of facilitating or carrying out any terrorist act, or for benefiting any person who is facilitating or carrying out such an activity; or
 
@@ -350,15 +334,17 @@ seizure, freezing and confiscation of terrorist property
 
 ### Application for warrant for seizure and order for restraint of property
 
-11\.—(1) A Judge may, on an ex parte application by the Attorney-General, after examining the application in private and if satisfied that there is in any building, receptacle or place any property in respect of which an order of forfeiture may be made under section 24, issue —
+11\.—(1) A Judge may, on an ex parte application by the Attorney-General , after examining the application in private and if satisfied that there is in any building, receptacle or place any property in respect of which an order of forfeiture may be made under section 24, issue —
 
 (a) if the property is situated in Singapore, a warrant authorising any police officer, or person named in the warrant —
 
 (i) to search the building, receptacle or place for that property; and
 
-(ii) to seize that property and any other property which that police officer or person believes, on reasonable grounds, that an order of forfeiture may be made under that section; or
+(ii) to seize that property and any other property which that police officer or person believes, on reasonable grounds, that an order of forfeiture may be made under section 24; or
 
 (b) whether the property is situated in or outside Singapore, a restraint order prohibiting any person from disposing of, or otherwise dealing with any interest in, that property, other than as may be specified in the order.
+
+[15/2010 wef 02/01/2011]
 
 (2) For the purpose of subsection (1)(b), dealing with any interest in any property held by any person includes (without prejudice to the generality of the expression) —
 
@@ -374,9 +360,13 @@ seizure, freezing and confiscation of terrorist property
 
 12\. An affidavit in support of an application by the Attorney-General under section 11 may be sworn or affirmed on information and belief.
 
+[15/2010 wef 02/01/2011]
+
 ### Undertakings for warrant or order
 
 13\. Before issuing a warrant under section 11(1)(a) or an order under section 11(1)(b), the Judge may require the Attorney-General to give such undertakings as the Judge considers appropriate with respect to the payment of damages or costs, or both, in relation to the issuance and execution of the warrant or the making and execution of the restraint order.
+
+[15/2010 wef 02/01/2011]
 
 ### Contravention of order
 
@@ -390,7 +380,11 @@ seizure, freezing and confiscation of terrorist property
 
 (b) require any person having possession of that property to give possession of the property to the person appointed under paragraph (a).
 
+[15/2010 wef 02/01/2011]
+
 (2) When the Attorney-General so requests, a Judge appointing a person under subsection (1) shall appoint the Public Trustee.
+
+[15/2010 wef 02/01/2011]
 
 ### Power to manage
 
@@ -432,7 +426,9 @@ seizure, freezing and confiscation of terrorist property
 
 (2) Where an application is made under subsection (1)(a) —
 
-(a) the application shall not, without the consent of the Attorney-General, be heard by a Judge unless the applicant has given to the Attorney-General at least 2 clear days notice in writing of the application; and
+(a) the application shall not, without the consent of the Attorney-General , be heard by a Judge unless the applicant has given to the Attorney-General at least 2 clear days notice in writing of the application; and
+
+[15/2010 wef 02/01/2011]
 
 (b) the Judge may require notice of the application to be given to and may hear any person who, in the opinion of the Judge, appears to have a valid interest in the property.
 
@@ -452,7 +448,11 @@ seizure, freezing and confiscation of terrorist property
 
 if the Judge is satisfied that the applicant has no other assets or means available for the purposes set out in this paragraph and that no other person appears to be the lawful owner of or lawfully entitled to possession of the property.
 
+[15/2010 wef 02/01/2011]
+
 (5) For the purpose of determining the reasonableness of expenses referred to in subsection (4)(c), the Attorney-General may, at the hearing of the application, make representations as to what would constitute the reasonableness of the expenses.
+
+[15/2010 wef 02/01/2011]
 
 (6) An order under subsection (4)(b) in respect of property may be made by a Judge if the Judge is satisfied —
 
@@ -462,7 +462,7 @@ if the Judge is satisfied that the applicant has no other assets or means availa
 
 (ii) any person who acquired title to or a right of possession of that property from a person referred to in sub-paragraph (i) under circumstances that give rise to a reasonable inference that the title or right was transferred from that person for the purpose of avoiding the forfeiture of the property,
 
-that a warrant should not have been issued under section 11(1)(a) or a restraint order under section 11(1)(b) should not have been issued in respect of the property; or
+that a warrant should not have been issued under section 11(1)(a) or a restraint order should not have been issued under section 11(1)(b) in respect of the property; or
 
 (b) in any other case, that the applicant is the lawful owner of or lawfully entitled to possession of the property and appears innocent of any complicity in any terrorism financing offence or of any collusion in relation to such an offence, and that no other person appears to be the lawful owner of or lawfully entitled to possession of the property,
 
@@ -470,11 +470,13 @@ and that the property will no longer be required for the purpose of any investig
 
 ### Expiration of warrants and restraint orders
 
-20\.—(1) Subject to this section, where property has been seized under a warrant issued under section 11(1)(a) or a restraint order has been issued under section 11(1)(b) in relation to property, the property may be detained or the order may continue in force, as the case may be, for a period not exceeding 6 months from the seizure or the issuing of the order, as the case may be.
+20\.—(1) Subject to this section, where property has been seized under a warrant issued under section 11(1)(a) or is the subject of a restraint order issued under section 11(1)(b), the property may be detained or the order may continue in force, as the case may be, for a period not exceeding 6 months from the seizure or the issuing of the order, as the case may be.
 
 (2) The property may continue to be detained, or the order may continue in force, for a period exceeding 6 months if proceedings are instituted in respect of which the property detained may be forfeited.
 
-(3) The property may continue to be detained or the order may continue in force for a period or periods exceeding 6 months if the continuation is, on application made by the Attorney-General, ordered by a Judge, where the Judge is satisfied that the property is required, after the expiration of the period or periods, for the purpose of this Act or any other Act respecting forfeiture or for the purpose of any investigation or as evidence in any proceedings.
+(3) The property may continue to be detained or the order may continue in force for a period or periods exceeding 6 months if the continuation is, on application made by the Attorney-General , ordered by a Judge, where the Judge is satisfied that the property is required, after the expiration of the period or periods, for the purpose of this Act or any other Act respecting forfeiture or for the purpose of any investigation or as evidence in any proceedings.
+
+[15/2010 wef 02/01/2011]
 
 ### Application for forfeiture of property
 
@@ -484,15 +486,23 @@ and that the property will no longer be required for the purpose of any investig
 
 (b) property that has been or will be used, in whole or in part, to facilitate or carry out a terrorist act.
 
-### Contents of application
+[15/2010 wef 02/01/2011]
+
+### Contents of application for forfeiture of property
 
 22\. An affidavit in support of an application by the Attorney-General under section 21 may be sworn or affirmed on information and belief.
+
+[15/2010 wef 02/01/2011]
 
 ### Respondents and notice
 
 23\.—(1) The Attorney-General is required to name as a respondent to an application under section 21 only those persons who are known to own or control the property that is the subject of the application.
 
+[15/2010 wef 02/01/2011]
+
 (2) The Attorney-General shall give notice of an application under section 21 to named respondents in such a manner as the Judge directs or as provided in the Rules of Court.
+
+[15/2010 wef 02/01/2011]
 
 (3) On an application under section 21, a Judge may require notice to be given to any person who, in the opinion of the Judge, appears to have an interest in the property, and any such person shall be entitled to be added as a respondent to the application.
 
@@ -580,7 +590,7 @@ Mutual assistance and extradition
 
 (2) Where the Mutual Assistance in Criminal Matters Act is applied under subsection (1), the Mutual Assistance in Criminal Matters Act shall, subject to subsection (3), have effect as if the only foreign serious offences within the meaning of that Act were terrorism financing offences.
 
-(3) Subsection (2) is without prejudice to any other order made under section 17 of the Mutual Assistance in Criminal Matters Act.
+(3) Subsection (2) is without prejudice to any other order made under section 17 of the Mutual Assistance in Criminal Matters Act (Cap. 190A).
 
 (4) For the purposes of the Mutual Assistance in Criminal Matters Act, a terrorism financing offence —
 
@@ -634,83 +644,90 @@ Miscellaneous
 
 ### No prosecution without Public Prosecutor’s consent
 
-36\. A prosecution under this Act shall not be instituted except by or with the consent of the Public Prosecutor.
+36\. No prosecution under this Act shall be instituted except by or with the consent of the Public Prosecutor.
 
 ### Jurisdiction of District Court
 
-36A\. Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
+37\. Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
 
-[9/2003 wef 16/05/2003]
+[36A
+
+[9/2003]
 
 ### Amendment of Schedule
 
-37\. The Minister may, by order published in theGazette, amend the Schedule to specify any act or omission that is punishable under any law that implements any treaty, convention or other international agreement to which Singapore is a party as a terrorist act.
+38\. The Minister may, by order published in theGazette, amend the Schedule to specify any act or omission that is punishable under any law that implements any treaty, convention or other international agreement to which Singapore is a party as a terrorist act.
+
+[37
 
 ### Regulations
 
-38\. The Minister may make such regulations as are necessary or expedient for the purpose of carrying out or giving effect to the provisions of this Act.
+39\. The Minister may make such regulations as are necessary or expedient for the purpose of carrying out or giving effect to the provisions of this Act.
 
-### Related amendment to Monetary Authority of Singapore Act
-
-39\. The Monetary Authority of Singapore Act (Cap. 186) is amended by deleting section 27A and substituting the following section:
-
-“
-
-Directions or regulations to discharge Government’s international obligations
-
-27A\.—(1) The Authority may, from time to time —
-
-(a) issue such directions to a financial institution or class of financial institutions; and
-
-(b) make such regulations concerning any financial institution or class of financial institutions or relating to the activities of any financial institution or class of financial institutions,
-
-as the Authority considers necessary in order to discharge or facilitate the discharge of any obligation binding on Singapore by virtue of a decision of the Security Council of the United Nations.
-
-(2) A financial institution to which a direction is issued under subsection (1)(a) or which is bound by any regulations made under subsection (1)(b) shall comply with the direction or regulations notwithstanding any other duty imposed on the financial institution by any rule of law, written law or contract.
-
-(3) A financial institution shall not in carrying out any act in compliance with any direction or regulations made under subsection (1) be treated as being in breach of any such rule of law, written law or contract.
-
-(4) A financial institution shall not disclose any direction issued under subsection (1)(a) if the Authority notifies the financial institution that the Authority is of the opinion that the disclosure of the direction is against the public interest.
-
-(5) A financial institution which —
-
-(a) fails or refuses to comply with a direction issued to it;
-
-(b) contravenes any regulations made under subsection (1)(b); or
-
-(c) discloses a direction issued to it in contravention of subsection (4),
-
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000.
-
-(6) In this section, “financial institution” means —
-
-(a) any bank licensed under the Banking Act (Cap. 19);
-
-(b) any finance company licensed under the Finance Companies Act (Cap. 108);
-
-(c) any merchant bank that is approved as a financial institution under section 28;
-
-(d) any money-changer licensed to conduct money-changing business, or any remitter licensed to conduct remittance business, under the Money-changing and Remittance Businesses Act (Cap. 187);
-
-(e) any insurer registered or regulated under the Insurance Act (Cap. 142);
-
-(f) any insurance intermediary licensed under the Insurance Intermediaries Act (Cap. 142A);
-
-(g) any dealer or investment adviser licensed under the Securities Industry Act (Cap. 289);
-
-(h) any futures broker, futures trading adviser or futures pool operator licensed under the Futures Trading Act (Cap. 116); and
-
-(i) any other person licensed, approved or regulated by the Authority under any written law.
-
-(7) For the purpose of subsection (6), a reference to a person being licensed, approved, registered or regulated under any of the laws referred to in that subsection includes a person who is exempted under the relevant law from being licensed, approved, registered or regulated.
-
-”.
+[38
 
 ## THE SCHEDULE
 
 Section 2(2)
 
-actions which also constitute terrorist acts
+Actions Which Also Constitute Terrorist Acts
 
 Any act or omission constituting an offence under the Hijacking of Aircraft and Protection of Aircraft and International Airports Act (Cap. 124).
+
+## LEGISLATIVE HISTORY
+
+Terrorism (Suppression of Financing) Act
+
+(CHAPTER 325)
+
+This Legislative History is provided for the convenience of users of the Terrorism (Suppression of Financing) Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 16 of 2002—Terrorism (Suppression of Financing) Act 2002**|
+||Date of First Reading|23 May 2002|
+|||(Bill No. 18/2002 published on 24 May 2002)|
+||Date of Second and Third Readings|8 July 2002|
+||Date of commencement|30 September 2002 (section 39)|
+|2.|**Act 16 of 2002—Terrorism (Suppression of Financing) Act 2002**|
+||Date of First Reading|23 May 2002|
+|||(Bill No. 18/2002 published on 24 May 2002)|
+||Date of Second and Third Readings|8 July 2002|
+||Date of commencement|29 January 2003 (sections 2 to 38)|
+|3.|**Act 9 of 2003—Statutes (Miscellaneous Amendments) Act 2003**|
+||Date of First Reading|20 March 2003|
+|||(Bill No. 7/2003 published on 21 March 2003)|
+||Date of Second and Third Readings|24 April 2003|
+||Date of commencement|16 May 2003|
+|4.|**2003 Revised Edition—Terrorism (Suppression of Financing) Act**|
+||Date of operation|31 July 2003|
+## COMPARATIVE TABLE
+
+Terrorism (Suppression of Financing) Act
+
+(CHAPTER 325)
+
+The following provisions in the Terrorism (Suppression of Financing) Act 2002 (Act 16 of 2002) have been renumbered by the Law Revision Commissioners in this 2003 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Terrorism (Suppression of Financing) Act.
+
+2003 Ed\. 
+
+Act 16 of 2002 
+
+37 
+
+36A 
+
+38 
+
+37 
+
+39 
+
+38 
+
+Omitted
+
+39 
 
