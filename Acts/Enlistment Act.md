@@ -168,7 +168,11 @@ not more than 50 years of age;
 
 “Singapore Armed Forces” means the Singapore Armed Forces constituted under the Singapore Armed Forces Act;
 
-“Special Constabulary” means the Special Constabulary constituted under Part VIII of the Police Force Act (Cap. 235).
+“Special Constabulary” means the Special Constabulary constituted under Part VIII of the Police Force Act (Cap. 235) ;
+
+“subordinate military court” has the same meaning as in the Singapore Armed Forces Act.
+
+[13/2003 wef 26/09/2003]
 
 [7/72; 21/74; 19/94]
 
@@ -361,6 +365,26 @@ REGULAR SERVICE
 (2) No person shall be liable to render regular service in excess of the period for which he has applied to serve.
 
 (3) The proper authority may at any time order the discharge of a person from regular service before the expiry of his period of service for any reason provided for in regulations made under any written law relating to the armed forces.
+
+(4) Subject to subsection (5), where a regular serviceman is sentenced by a subordinate military court to a discharge with ignominy or dismissal, he shall be deemed to be discharged from regular service on the occurrence of any of the following events:
+
+(a) where no petition of review or appeal has been lodged, the expiration of the time limited for the lodging of such petition; or
+
+(b) where a petition of review or appeal has been lodged, the confirmation of the sentence by the reviewing authority or the Military Court of Appeal, as the case may be.
+
+[13/2003 wef 26/09/2003]
+
+(5) The discharge of a regular serviceman under subsection (4) shall take effect from the date of the sentence by reason of which he is discharged or from such other date as may be specified by the subordinate military court.
+
+[13/2003 wef 26/09/2003]
+
+(6) In this section —
+
+“Military Court of Appeal” means the Court established under Part VII of the Singapore Armed Forces Act (Cap. 295);
+
+“reviewing authority” means the reviewing authority referred to in section 116(1) of the Singapore Armed Forces Act.
+
+[13/2003 wef 26/09/2003]
 
 ## PART VI
 
@@ -564,9 +588,25 @@ MISCELLANEOUS PROVISIONS
 
 (a) any period before the day on which he reported for enlistment or for national service;
 
-(b) any period of absence from duty without leave or desertion where he was convicted therefor; or
+(b) any period of absence from duty without leave or desertion where he was convicted therefor;
 
-(c) any period during which he was serving or would have been serving, if he were not unlawfully at large, a term of imprisonment, special detention, detention or reformative training.
+(c) any period during which he was serving or would have been serving, if he were not unlawfully at large, a term of imprisonment, special detention, detention or reformative training; or
+
+(d) any period during which he was under close arrest on a charge for an offence of which he was subsequently convicted by a subordinate military court, a disciplinary officer or a Senior Disciplinary Committee.
+
+[13/2003 wef 26/09/2003]
+
+(3) In this section —
+
+“disciplinary officer” has the same meaning as in the Singapore Armed Forces Act (Cap. 295);
+
+“Senior Disciplinary Committee” means a Senior Disciplinary Committee appointed under section 72 of the Singapore Armed Forces Act.
+
+[13/2003 wef 26/09/2003]
+
+[26
+
+[18/78]
 
 ### Postponement
 
@@ -892,6 +932,11 @@ This Legislative History is provided for the convenience of users of the Enlistm
 ||Date of commencement|15 May 2001|
 |16.|**2001 Revised Edition—Enlistment Act**|
 ||Date of operation|31 December 2001|
+|17.|**Act 13 of 2003—Enlistment (Amendment) Act 2003**|
+||Date of First Reading|30 June 2003|
+|||(Bill No. 11/2003 published on 1 July 2003)|
+||Date of Second and Third Readings|14 August 2003|
+||Date of commencement|26 September 2003|
 ## COMPARATIVE TABLE
 
 Enlistment Act
