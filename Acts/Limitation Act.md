@@ -44,7 +44,7 @@
 
 - [15 Right of action not to accrue or continue unless there is adverse possession](#Right-of-action-not-to-accrue-or-continue-unless-there-is-adverse-possession)
 
-- [16 Limitation of redemption actions](#Limitation-of-redemption-actions)
+- [16 (Repealed)](#Repealed)
 
 - [17 No right of action to be preserved by formal entry or continual claim](#No-right-of-action-to-be-preserved-by-formal-entry-or-continual-claim)
 
@@ -234,6 +234,10 @@ Actions to recover land and rent
 
 (2) Nothing in this section or in section 11(2) shall be deemed to affect the provisions of the Government Proceedings Act [Cap. 121], or to apply to any person registered under or by virtue of the provisions of the Land Titles Act [Cap. 157] as the proprietor of the land sought to be recovered, or to any person claiming through a person so registered, except to the extent that such Act so provides or permits.
 
+(3) This section shall not apply to an action to recover land from a person by reason only of his unauthorised occupation of the land.
+
+[Act 27 of 1993 wef 01/03/1994]
+
 ### Accrual of right of action in case of present interests in land
 
 10\.—(1) Where the person bringing an action to recover land or some person through whom he claims has been in possession thereof and has, whilst entitled thereto, been dispossessed or discontinued his possession, the right of action shall be deemed to have accrued on the date of the dispossession or discontinuance.
@@ -292,11 +296,7 @@ Provided that, if such a right has accrued to a person entitled to an estate or 
 
 (b) receipt of rent under a lease by a person wrongfully claiming, in accordance with section 13(4), the land in reversion shall be deemed to be adverse possession of the land.
 
-### Limitation of redemption actions
-
-16\. When a mortgagee of land has been in possession of any of the mortgaged land for a period of 12 years, no action to redeem the land of which the mortgagee has been so in possession shall thereafter be brought by the mortgagor or any person claiming through him:
-
-Provided that where a mortgagee is by virtue of the mortgage in possession of any mortgaged land and either receives any sum in respect of the principal or interest of the mortgage debt or acknowledges in accordance with section 27 the title of the mortgagor, or his equity of redemption, an action to redeem the land in his possession may be brought at any time before the expiration of 12 years from the date of the payment or acknowledgment.
+16\. [Repealed by Act 27 of 1993 wef 01/03/1994]
 
 ### No right of action to be preserved by formal entry or continual claim
 
@@ -620,3 +620,10 @@ This Legislative History is provided for the convenience of users of the Limitat
 |||(Bill No. 14/1992 published on 28 February 1992)|
 ||Date of Second and Third Readings|29 May 1992|
 ||Date of commencement|26 June 1992|
+|8.|**Act 27 of 1993—Land Titles Act 1993**|
+||(Consequential amendments made by)||
+||Date of First Reading|16 November 1992|
+|||(Bill No. 36/1992 published on 17 November 1992)|
+||Date of Second Reading|18 January 1993|
+||Date Committed to Select Committee|Parl 3 of 1993 presented to Parliament on 18 August 1993|
+||Date of commencement|1 March 1994|
