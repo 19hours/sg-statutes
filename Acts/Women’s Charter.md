@@ -34,6 +34,8 @@
 
 - [11 Avoidance of marriages by subsisting prior marriage](#Avoidance-of-marriages-by-subsisting-prior-marriage)
 
+- [11A Avoidance of marriages between persons of the same sex](#Avoidance-of-marriages-between-persons-of-the-same-sex)
+
 - [12 Consents](#Consents)
 
 - [13 Notice of marriage](#Notice-of-marriage)
@@ -112,6 +114,10 @@
 
 - [47 Conciliation Officers](#Conciliation-Officers)
 
+- [47A Duty of judge to consider possibility of reconciliation](#Duty-of-judge-to-consider-possibility-of-reconciliation)
+
+- [47B Court may refer parties for mediation or to attend counselling](#Court-may-refer-parties-for-mediation-or-to-attend-counselling)
+
 - [48 Capacity of married women](#Capacity-of-married-women)
 
 - [49 Property of a woman to be held by her as a feme sole](#Property-of-a-woman-to-be-held-by-her-as-a-feme-sole)
@@ -138,9 +144,21 @@
 
 - [60 Liability for breach of trust](#Liability-for-breach-of-trust)
 
+[**Part VIA PROTECTION OF FAMILY**](#Part-VIA)
+
+- [60A Definitions](#Definitions)
+
+- [60B Protection order](#Protection-order)
+
+- [60C Expedited order](#Expedited-order)
+
+- [60D Supplementary provisions with respect to orders under sections 60B and 60C](#Supplementary-provisions-with-respect-to-orders-under-sections-60B-and-60C)
+
 [**Part VII MAINTENANCE OF WIFE AND CHILDREN**](#Part-VII)
 
-- [61 Court may order maintenance of wife and children](#Court-may-order-maintenance-of-wife-and-children)
+- [61 Duty of parents to maintain children](#Duty-of-parents-to-maintain-children)
+
+- [61A Court may order maintenance of wife and children](#Court-may-order-maintenance-of-wife-and-children)
 
 - [62 Duty to maintain child accepted as member of family](#Duty-to-maintain-child-accepted-as-member-of-family)
 
@@ -148,17 +166,21 @@
 
 - [64 Rescission and variation of order](#Rescission-and-variation-of-order)
 
+- [64A Power of court to vary agreement for maintenance of child](#Power-of-court-to-vary-agreement-for-maintenance-of-child)
+
+- [64B Application of section 115](#Application-of-section-115)
+
 - [65 Application of Act to orders made under Minor Offences Ordinance, etc.](#Application-of-Act-to-orders-made-under-Minor-Offences-Ordinance-etc)
 
 - [66 Power of District or Magistrate’s Court to refuse order where High Court proceeding more convenient](#Power-of-District-or-Magistrate’s-Court-to-refuse-order-where-High-Court-proceeding-more-convenient)
 
 - [67 Appeal](#Appeal)
 
-- [68 Powers of court to make orders for the protection of a party to a marriage or a child of the family](#Powers-of-court-to-make-orders-for-the-protection-of-a-party-to-a-marriage-or-a-child-of-the-family)
+- [68 (Repealed)](#Repealed)
 
-- [69 Supplementary provisions with respect to orders under section 68](#Supplementary-provisions-with-respect-to-orders-under-section-68)
+- [69 (Repealed)](#Repealed)
 
-- [70 Powers of arrest for breach of an order made under section 68](#Powers-of-arrest-for-breach-of-an-order-made-under-section-68)
+- [70 (Repealed)](#Repealed)
 
 - [71 Powers of High Court](#Powers-of-High-Court)
 
@@ -186,13 +208,17 @@
 
 - [82 Where earnings paid by Government or out of Consolidated Fund](#Where-earnings-paid-by-Government-or-out-of-Consolidated-Fund)
 
+- [82A Costs of proceedings](#Costs-of-proceedings)
+
 - [83 Penalties for non-compliance with attachment of earnings order and for giving false notice or statement](#Penalties-for-non-compliance-with-attachment-of-earnings-order-and-for-giving-false-notice-or-statement)
 
-[**Part IX Chapter 1 — DIVORCE**](#Part-IX)
+[**Part IX**](#Part-IX)
+
+[**Chapter 1  DIVORCE**](#Chapter-1--DIVORCE)
 
 - [84 Definitions](#Definitions)
 
-- [85 Principles of law to be applied](#Principles-of-law-to-be-applied)
+- [85 (Repealed)](#Repealed)
 
 - [86 Jurisdiction of court in matrimonial proceedings](#Jurisdiction-of-court-in-matrimonial-proceedings)
 
@@ -200,7 +226,7 @@
 
 - [88 Irretrievable breakdown of marriage to be sole ground for divorce](#Irretrievable-breakdown-of-marriage-to-be-sole-ground-for-divorce)
 
-- [89 Reconciliation](#Reconciliation)
+- [89 (Repealed)](#Repealed)
 
 - [90 Rules to provide for agreements to be referred to court](#Rules-to-provide-for-agreements-to-be-referred-to-court)
 
@@ -212,7 +238,7 @@
 
 - [94 Proceedings for decree nisi of presumption of death and divorce](#Proceedings-for-decree-nisi-of-presumption-of-death-and-divorce)
 
-[**Chapter**](#Chapter)
+[**Chapter 2  JUDICIAL SEPARATION**](#Chapter-2--JUDICIAL-SEPARATION)
 
 - [95 Judicial separation](#Judicial-separation)
 
@@ -220,7 +246,7 @@
 
 - [97 Judicially separated spouses not entitled to claim in intestacy of each other](#Judicially-separated-spouses-not-entitled-to-claim-in-intestacy-of-each-other)
 
-[**Chapter**](#Chapter)
+[**Chapter 3  NULLITY OF MARRIAGE**](#Chapter-3--NULLITY-OF-MARRIAGE)
 
 - [98 Petition for nullity of marriage](#Petition-for-nullity-of-marriage)
 
@@ -238,7 +264,7 @@
 
 - [105 Legitimacy of children of annulled marriages](#Legitimacy-of-children-of-annulled-marriages)
 
-[**Chapter**](#Chapter)
+[**Chapter 4  FINANCIAL PROVISIONS CONSEQUENT ON MATRIMONIAL PROCEEDINGS**](#Chapter-4--FINANCIAL-PROVISIONS-CONSEQUENT-ON-MATRIMONIAL-PROCEEDINGS)
 
 - [106 Power of court to order division of matrimonial assets](#Power-of-court-to-order-division-of-matrimonial-assets)
 
@@ -260,7 +286,7 @@
 
 - [115 Recovery of arrears of maintenance](#Recovery-of-arrears-of-maintenance)
 
-[**Chapter**](#Chapter)
+[**Chapter 5  WELFARE OF CHILDREN**](#Chapter-5--WELFARE-OF-CHILDREN)
 
 - [116 Meaning of "child"](#Meaning-of-"child")
 
@@ -272,21 +298,21 @@
 
 - [120 Orders subject to conditions](#Orders-subject-to-conditions)
 
-- [121 Duty to maintain children](#Duty-to-maintain-children)
+- [121 (Repealed)](#Repealed)
 
 - [122 Power of court to order maintenance for children](#Power-of-court-to-order-maintenance-for-children)
 
-- [123 Matters the court shall have regard when ordering maintenance for children](#Matters-the-court-shall-have-regard-when-ordering-maintenance-for-children)
+- [123 (Repealed)](#Repealed)
 
-- [124 Power of court to order security for maintenance](#Power-of-court-to-order-security-for-maintenance)
+- [124 (Repealed)](#Repealed)
 
-- [125 Duration of orders for custody and maintenance](#Duration-of-orders-for-custody-and-maintenance)
+- [125 (Repealed)](#Repealed)
 
-- [126 Power of court to vary orders for custody or maintenance](#Power-of-court-to-vary-orders-for-custody-or-maintenance)
+- [126 Power of court to vary orders for custody.](#Power-of-court-to-vary-orders-for-custody)
 
-- [127 Power of court to vary agreement for custody or maintenance](#Power-of-court-to-vary-agreement-for-custody-or-maintenance)
+- [127 Power of court to vary agreement for custody.](#Power-of-court-to-vary-agreement-for-custody)
 
-- [128 Recovery of arrears of maintenance](#Recovery-of-arrears-of-maintenance)
+- [128 (Repealed)](#Repealed)
 
 - [129 Court to have regard to advice of welfare officers, etc.](#Court-to-have-regard-to-advice-of-welfare-officers-etc)
 
@@ -294,11 +320,11 @@
 
 - [131 Power of court to set aside and prevent dispositions intended to defeat claims to maintenance](#Power-of-court-to-set-aside-and-prevent-dispositions-intended-to-defeat-claims-to-maintenance)
 
-[**Chapter**](#Chapter)
+[**Chapter 6  GENERAL PROVISIONS**](#Chapter-6--GENERAL-PROVISIONS)
 
 - [132 Procedure](#Procedure)
 
-- [133 Service of petition](#Service-of-petition)
+- [133 (Repealed)](#Repealed)
 
 - [134 Evidence](#Evidence)
 
@@ -406,11 +432,11 @@
 
 - [184 Validity of customary marriages contracted on or after 15th September 1961 and before 2nd June 1967](#Validity-of-customary-marriages-contracted-on-or-after-15th-September-1961-and-before-2nd-June-1967)
 
-- [185 Saving for petitions presented before commencement of Women’s Charter (Amendment) Act 1980*](#Saving-for-petitions-presented-before-commencement-of-Women’s-Charter-Amendment-Act-1980*)
+- [185 Saving for petitions presented before commencement of Women’s Charter (Amendment) Act 1980. vide G.N. No. S153/81](#Saving-for-petitions-presented-before-commencement-of-Women’s-Charter-Amendment-Act-1980-vide-GN-No-S153/81)
 
-[**FIRST SCHEDULE Kindred and affinity prohibited degrees of relationship**](#FIRST-SCHEDULE-Kindred-and-affinity-prohibited-degrees-of-relationship)
+[**FIRST SCHEDULE Kindred and Affinity**](#FIRST-SCHEDULE-Kindred-and-Affinity)
 
-[**SECOND SCHEDULE Consents required to the marriage of a minor**](#SECOND-SCHEDULE-Consents-required-to-the-marriage-of-a-minor)
+[**SECOND SCHEDULE Consents Required to the Marriage of A Minor**](#SECOND-SCHEDULE-Consents-Required-to-the-Marriage-of-A-Minor)
 
 [**Legislative History**](#Legislative-History)
 
@@ -466,11 +492,11 @@ PRELIMINARY
 
 “place of safety” means any place of safety established under section 177;
 
-“Po Leung Kuk Fund” means the moneys and securities originally administered by the Po Leung Kuk Society established under rules made by the Governor in Council on 8th March 1905, and includes the moneys and securities kept in banks under the name of the Po Leung Kuk Fund;
-
 “prostitution” means the act of a female offering her body for promiscuous sexual intercourse for hire, whether in money or in kind;
 
-“register of marriages” includes the State Marriage Register and any local marriage register kept under this Act;
+“register of marriages” means the State Marriage Register kept under this Act;
+
+[Act 30/96 wef 01/05/1997 vide S 177/97]
 
 “Registrar” means the Registrar of Marriages appointed under section 25 and includes an Assistant Registrar of Marriages;
 
@@ -542,11 +568,31 @@ SOLEMNIZATION OF MARRIAGES
 
 10\.—(1) A marriage solemnized in Singapore or elsewhere between a man and any of the persons mentioned in the first column of the First Schedule, or between a woman and any of the persons mentioned in the second column of that Schedule shall be void.
 
-(2) Notwithstanding the provisions of this section and the provisions of the First Schedule, the Minister may in his discretion grant a licence under this section for a marriage to be solemnized, notwithstanding the kindred or affinity of the parties, if he is satisfied that the marriage is valid under the law, religion, custom or usage applicable to the parties thereto and, where a marriage is solemnized under such licence, the marriage shall be deemed to be valid.
+(2) Notwithstanding the provisions of this section and the provisions of the First Schedule, the Minister may in his discretion grant a licence under this section for a marriage to be solemnized, notwithstanding the kindred or affinity of the parties, if he is satisfied that the marriage is valid under the law, religion, custom or usage which would have been applicable to the parties thereto if this Act had not been enacted and a marriage solemnized under such a licence shall be valid.
+
+[Act 30/96 wef 01/05/1997]
 
 ### Avoidance of marriages by subsisting prior marriage
 
 11\. A marriage solemnized in Singapore or elsewhere between persons either of whom is at the date of the marriage married under any law, religion, custom or usage to any other person shall be void.
+
+### Avoidance of marriages between persons of the same sex
+
+11A\.—(1) A marriage solemnized in Singapore or elsewhere between persons who, at the date of the marriage, are not respectively male and female shall be void.
+
+(2) It is hereby declared that, subject to sections 5, 9, 10, 11, and 21, a marriage solemnized in Singapore or elsewhere between a person who has undergone a sex re-assignment procedure and any person of the opposite sex is and shall be deemed always to have been a valid marriage.
+
+(3) For the purpose of this section —
+
+(a) the sex of any party to a marriage as stated at the time of the marriage in his or her identity card issued under the National Registration Act shall be prima facie evidence of the sex of the party; and
+
+[Cap.201.]
+
+(b) a person who has undergone a sex re-assignment procedure shall be identified as being of the sex to which the person has been re-assigned.
+
+(4) Nothing in subsection (2) shall validate any such marriage which had been declared by the High Court before the commencement of the Women’s Charter (Amendment) Act 1996 to be null and void on the ground that the parties were of the same sex.
+
+[Act 30/96 wef 01/05/1997]
 
 ### Consents
 
@@ -576,9 +622,13 @@ Provided that —
 
 ### Notice to be filed and published
 
-15\.—(1) Upon receipt of a notice under section 13 the Registrar shall cause the notice to be filed serially.
+15\.—(1) Upon receipt of a notice under section 13 the Registrar shall cause the notice to be filed serially by electronic media or other means;
 
-(2) The Registrar shall also cause a copy of the notice to be posted up in a conspicuous place in his office and shall keep the same so posted up until he grants a marriage licence as hereinafter mentioned, or until 3 months shall have elapsed.
+[Act 30/96 wef 01/05/1997]
+
+(2) The Registrar shall also cause a computer print-out summary of all notices filed during the day to be displayed in an electronic terminal in a conspicuous place in his office and shall keep the same so displayed until he issues a marriage licence under section 16, or until 3 months shall have elapsed.
+
+[Act 30/96 wef 01/05/1997]
 
 ### Registrar to issue marriage licence on proof of conditions by statutory declaration
 
@@ -688,23 +738,33 @@ REGISTRATION
 
 ### Books and registers
 
-26\.—(1) The Registrar and the Deputy Registrars shall keep such books and registers as are prescribed by this Act or the rules made thereunder.
+26\.—(1) The Registrar shall keep a State Marriage Register as prescribed by this Act or the rules made thereunder.
 
-(2) The Registrar and the Deputy Registrars shall keep local marriage registers in which shall be entered particulars of marriages which are registrable under this Act.
+[Act 30/96 wef 01/05/1997]
+
+(2)
+
+[Deleted by Act 30.96 wef 1.5.97]
 
 (3) The Registrar shall cause all certificates of marriage issued under this Act to be bound together to form a State Marriage Register.
 
-(4) The Registrar shall keep an index of every marriage registered in Singapore.
+(4)
+
+[Deleted by Act 30.96 wef 1.5.97]
 
 ### Registration of marriage solemnized by the Registrar
 
-27\.—(1) Every marriage solemnized by the Registrar shall immediately after the solemnization thereof be registered by the Registrar in the local marriage register and also in the certificate of marriage attached to the marriage register.
+27\.—(1) Every marriage solemnized by the Registrar shall immediately after the solemnization thereof be registered by the Registrar in the certificate of marriage.
 
-(2) The entry of such marriage in both the local marriage register and the certificate of marriage shall —
+[Act 30/96 wef 01/05/1997]
+
+(2) The entry of such marriage in the certificate of marriage shall —
 
 (a) be signed by the Registrar solemnizing the marriage, and by the persons married; and
 
 (b) be attested by two credible witnesses, other than the Registrar solemnizing the marriage, present at the solemnization.
+
+[Act 30/96 wef 01/05/1997]
 
 ### Registration of marriage not solemnized by the Registrar
 
@@ -718,13 +778,17 @@ REGISTRATION
 
 (d) apply in the prescribed form for the registration of the marriage to be effected.
 
-(2) The Deputy Registrar shall register a marriage by entering the particulars thereof in a local marriage register and also in the certificate of marriage attached to the marriage register.
+(2) The Deputy Registrar shall register a marriage by entering the particulars thereof in a certificate marriage.
 
-(3) The entry of the marriage in both the local marriage register and the certificate of marriage shall —
+[Act 30/96 wef 01/05/1997]
+
+(3) The entry of the marriage in the certificate of marriage shall —
 
 (a) be signed by the Deputy Registrar who made the entry and the parties to the marriage; and
 
 (b) be attested by two credible witnesses present at the solemnization of the marriage.
+
+[Act 30/96 wef 01/05/1997]
 
 (4) The Deputy Registrar registering the marriage shall send the certificate of marriage within 3 days of the registration of the marriage to the Registrar.
 
@@ -828,9 +892,13 @@ shall be guilty of an offence and shall be liable on conviction to imprisonment 
 
 ### Correction of errors
 
-42\.—(1) If the Registrar is satisfied by statutory declaration or otherwise that any entry relating to a marriage is erroneous in form or substance, he may, in the presence of the persons married, or, if they are absent, in the presence of two credible witnesses, correct the error by ruling through any entry in the certificate of marriage which is erroneous and making the correct entry therein and he shall thereupon cause the entry in the local marriage register to be corrected in the same manner.
+42\.—(1) If the Registrar is satisfied by statutory declaration or otherwise that any entry relating to a marriage is erroneous in form or substance, he may, in the presence of the persons married, or, if they are absent, in the presence of two credible witnesses, correct the error by ruling through any entry in the certificate of marriage which is erroneous and making the correct entry therein.
 
-(2) The Registrar or the Deputy Registrar shall sign and date the correction made in the certificate of marriage and the local marriage register.
+[Act 30/96 wef 01/05/1997]
+
+(2) The Registrar or the Deputy Registrar shall sign and date the correction made in the certificate of marriage.
+
+[Act 30/96 wef 01/05/1997]
 
 (3) Every entry made under subsection (1) shall be attested by the witnesses in whose presence it was made.
 
@@ -877,6 +945,44 @@ RIGHTS AND DUTIES OF HUSBAND AND WIFE
 (3) A Conciliation Officer may by notice in writing require any party to a marriage to attend before him at any reasonable time and at any convenient place for the purposes of settling differences between the parties to the marriage and such person shall be legally bound to attend as required and to answer any questions relating to those differences, truthfully and to the best of his ability.
 
 [46
+
+### Duty of judge to consider possibility of reconciliation
+
+47A\.—(1) A court before which —
+
+(a) proceedings for divorce or judicial seperation;
+
+(b) proceedings, instituted by a party to a subsisting marriage, under section 56, 60B, 60C or 61A,
+
+are being heard shall consider, from time to time, the possibility of a reconciliation of the parties.
+
+(2) If, during such proceeding, it appears to the judge from the nature of the case, the evidence in the proceeding or the attitude of the parties that there is a reasonable possibility of a reconciliation of the parties, the judge may do all or any of the following:
+
+(a) adjourn the proceeding to give the parties the opportunity to consider a reconciliation or to enable anything to be done in accordance with paragraph (b) or (c);
+
+(b) with the consent of the parties, interview them in chambers, with or without thier solicitors, as the judge thinks proper, to assist in considering a possible reconciliation; and
+
+(c) nominate a Conciliation Officer or some other suitable person or organisation to assist in considering a possible reconciliation.
+
+(3) If, not less than 14 days after an adjournment under section (2), either of the parties requests that the hearing be proceeding with, the judge shall resume the hearing, or arrangements shall be made for the proceedings to be dealt with by another judge, as the case requires, as soon as practicable.
+
+(4) Where a judge has acted as conciliator under section (1) (b) but the attempt to effect a reconciliation has failed, the judge shall not, except at the request of the parties to the proceedings, continue to hear the proceedings, or determine the proceedings, and, in the absence of such a request, arrangements shall be made for the proceedings to be dealt with by another judge.
+
+(5) Evidence of anything said, or of any admission made, in the course of an endeavour to effect a reconciliation under this section shall not be admissible in any court.
+
+[Act 30/96 wef 01/05/1997]
+
+### Court may refer parties for mediation or to attend counselling
+
+47B\.—(1) A court before which any proceeding under this Act (other than proceedings under section 98) are being heard may give consideration to the possibility of a harmonious resolution of the matter and for this purpose may, with the consent of the parties, refer the parties for mediation by such person as the parties may agree or, failing such agreement, as the court may appoint.
+
+(2) A court before which any proceedings under this Act (other than proceedings under section 60B or 60C) are being heard may, if it considers that it is in the interests of the parties or their children to do so, at any stage in the proceedings direct or advise either or both of the parties or their children to attend counselling provided by such person as the Minister may approve or as the court may direct.
+
+(3) Failure to comply with a direction or advice referred to in subsection (2) does not constitute a contempt of court.
+
+(4) Evidence of anything said, or of any admission made, in the course of any mediation or any counselling under this section shall not be admissible in any court.
+
+[Act 30/96 wef 01/05/1997]
 
 ### Capacity of married women
 
@@ -978,7 +1084,9 @@ and without prejudice to paragraph (b) the court may, in such an action, either 
 
 ### Questions between husband and wife as to property to be decided in a summary way
 
-56\.—(1) In any question between husband and wife as to the title to or possession of property, either party may apply by summons or otherwise in a summary way to any Judge of the Supreme Court, and the Judge may make such order with respect to the property in dispute and as to the costs of and consequent on the application as he thinks fit, or may direct the application to stand over, and any inquiry touching the matters in question to be made in such manner as he thinks fit.
+56\.—(1) In any question between husband and wife as to the title to or possession of property, either party may apply by summons or otherwise in a summary way to any Judge of the High Court, and the Judge may make such order with respect to the property in dispute and as to the costs of and consequent on the application as he thinks fit, or may direct the application to stand over, and any inquiry touching the matters in question to be made in such manner as he thinks fit.
+
+[Act 16/93 wef 01/07/1993]
 
 (2) Any order made under this section shall be subject to appeal in the same way as an order made by the same Judge in an action pending in the High Court.
 
@@ -1014,33 +1122,183 @@ and without prejudice to paragraph (b) the court may, in such an action, either 
 
 [59
 
+## PART VIA
+
+PROTECTION OF FAMILY
+
+[Act 30/96 wef 01/05/1997]
+
+### Definitions
+
+60A\. In this Part, unless the context otherwise requires —
+
+“applicant” means the person who applies for a protection order or, where the application is made by a person referred to in section 60B(10), the child or incapacitated person on whose behalf the applicant is made;
+
+“court” means a District Court or a Magistrate’s Court;
+
+“expedited order” means an order made under section 60C(1)
+
+“family member”, in relation to a person, means —
+
+(a) a spouse or former spouse of the person;
+
+(b) a child of the person, including an adopted child and a step-child;
+
+(c) a father or mother of the person;
+
+(d) a father-in-law or mother-in-law of the person;
+
+(e) a brother or sister of the person; or
+
+(f) any other relative of the person or an incapacitated person who in the opinion of the court should, in the circumstances, in either case be regarded as a member of the family of the person;
+
+“family violence” means the commission of any of the following acts:
+
+(a) wilfully or knowingly placing, or attempting to place, a family member in fear of hurt;
+
+(b) causing hurt to a family member by such act which is known or ought to have been known would result in hurt;
+
+(c) wrongfully confining or restraining a family member against his will; or
+
+(d) causing continual harassment with intent to cause or knowing that it is likely to cause anguish to a family member,
+
+but does not include any force lawfully used in self-defence, or by way of correction towards a child below 21 years of age;
+
+“hurt” means bodily pain, disease or infirmity;
+
+“incapacitated person” means a person who is wholly or partially incapacitated or infirm, by reason of physical or mental disability or ill-health or old age;
+
+“protection order” means an order made under section 60B;
+
+“protected person” means a person who is protected under a protection order;
+
+“relative” includes a person who is related through marriage or adoption;
+
+“shared residence” means the premises at which the parties are, or have been, living together as members of the same household.
+
+[Act 30/96 wef 01/05/1997]
+
+### Protection order
+
+60B\.—(1) The court may, upon satisfaction on a balance of probabilities that family violence has been committed or is likely to be committed against a family member and that it is necessary for the protection of the family member, make a protection order restraining the person against whom the order is made from using family violence against the family member.
+
+(2) An application for a protection order may be made by the family member concerned or any person referred to in subsection (10).
+
+(3) A protection order may be made subject to such exceptions or conditions as may be specified in the order and for such term as may be specified.
+
+(4) The court, in making a protection order, may include a provision that the person against whom the order is made may not incite or assist any other person to commit family violence against the protected person.
+
+(5) A protection order may, where the court is satisfied on a balance of probabilities that it is necessary for the protection or personal safety of the applicant, provide for such orders as the court thinks fit having regard to all the circumstances of the case, including any one or more of the following orders:
+
+(a) the granting of the right of exclusive occupation to any protected person of the shared residence or a specified part of the shared residence by excluding the person against whom the order is made from the shared residence or specified part thereof, regardless of whether the shared residence is solely owned or leased by the person against whom the order is made or jointly owned or leased by the parties;
+
+(b) referring the person against whom the order is made or the protected person or both or their children to attend counselling provided by such body as the Minister may approve or as the court may direct; and
+
+(c) the giving of any such direction as is necessary for and incidental to the proper carrying into effect of any order made under this section.
+
+(6) Except so far as the exercise by the person against whom a protection order is made of a right to the shared residence is suspended or restricted, or prohibited or restrained, by virtue of an order made under subsection (5), such order shall not affect any title or interest that the person against whom the order is made or any other person might have in the residence.
+
+(7) Where a person against whom a protection order or an expedited order has been made contravenes the order, the court may, in addition to any penalty provided for under subsection (8), make, as the case may be, any one or more of the orders under subsection (5), to commence from such date as is specified in such new order.
+
+(8) Any person who wilfully contravenes a protection order or an expedited order or an order made by virtue of subsection (5), except an order made by virtue of subsection (5)(b), shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+(9) Any failure to comply with an order made by virtue of subsection (5)(b) shall be punishable as a contempt of court.
+
+(10) In the case of a child below 21 years of age or an incapacitated person, an application under this section or section 60C may be made by a guardian or relative or person responsible for the care of the child or incapacitated person, as the case may be, or by any person appointed by the Minister.
+
+(11) An offence under subsection (8) shall be deemed to be a seizable offence within the meaning of the Criminal Procedure Code.
+
+[Act 30/96 wef 01/05/1997]
+
+### Expedited order
+
+60C\.—(1) Where, upon an application for a protection order under section 60B, the court is satisfied that there is imminent danger of family violence being committed against the applicant, the court may make the protection order notwithstanding —
+
+(a) That the summons has not been served on the respondent or has not been served on the respondent within a reasonable time before the hearing of the application; or
+
+(b) that the summons requires the respondent to appear at some time or place.
+
+(2) An expedited order shall not take effect until the date on which notice of the making of the order is served on the respondent in such manner as may be prescribed or, if the court has specified a later date as the date on which the order is to take effect, that later date, and an expedited order shall cease to have effect on whichever of the following dates occurs first:
+
+(a) the date of the expiration of a period of 28 days beginning with the date of the making of the order; or
+
+(b) the date of commencement of the hearing of the application for an order under this section.
+
+(3) Notwithstanding subsection (2), the court may extend the duration of the expedited order.
+
+### Supplementary provisions with respect to orders under sections 60B and 60C
+
+60D\.—(1) The court shall, on an application made by the applicant or the person against whom a protection order or an expedited order is made, have power by order to vary, suspend or revoke such order.
+
+(2) Rules of Court may be made for the purpose of giving effect to sections 60B and 60C; and any such Rules may in particular make provision for the hearing without delay of any application for an order under section 60B(5)(a).
+
+(3) The expiry by virtue of section 60C(2) of an expedited order shall not prejudice the making of a further expedited order under that section.
+
+[Act 30/96 wef 01/05/1997]
+
 ## PART VII
 
 MAINTENANCE OF WIFE AND CHILDREN
 
+### Duty of parents to maintain children
+
+61\. Except where an agreement or order of court otherwise provides, it shall be the duty of a parent to maintain or contribute to the maintainance of his or her children, whether they are in his or her custody or the custody of any other person, and whether they are legitimate or illegitimate, either by providing them with such accommodation, clothing, food and education as may be reasonable having regard to his or her means and station in life or by paying the cost thereof.
+
+[Act 30/96 wef 01/05/1997]
+
 ### Court may order maintenance of wife and children
 
-61\.—(1) Any married woman whose husband neglects or refuses to provide her reasonable maintenance may apply to a District Court or Magistrate’s Court and that court on due proof thereof may order the husband to pay a monthly allowance or a lump sum for her maintenance.
+61A\.—(1) Any married woman whose husband neglects or refuses to provide her reasonable maintenance may apply to a District Court or Magistrate’s Court and that court may, on due proof thereof, order the husband to pay a monthly allowance or a lump sum for her maintenance.
 
-(2) If any person neglects or refuses to maintain his legitimate or illegitimate child who is unable to maintain himself, a District Court or Magistrate’s Court on due proof thereof may order that person to pay a monthly allowance or a lump sum for the maintenance of that child.
+(2) A District Court or a Magistrate’s Court may, on due proof that a parent has neglected or refused to provide reasonable maintenance for his child who is unable to maintain himself, order that parent to pay a monthly allowance or a lump sum for the maintenance of that child.
 
-(3) The allowance referred to in subsections (1) and (2) shall be payable from such date as the court directs.
+(3) An application for the maintenance of a child under subsection (2) may be made by —
+
+(a) any person who is a guardian or has the actual custody of the child;
+
+(b) where the child has attained the age of 21 years, by the child himself;
+
+(c) where the child is under the age of 21 years, any of his siblings who has attained the age of 21 years; or
+
+(d) any person appointed by the Minister.
 
 (4) The court, when ordering maintenance for a wife or child under this section, shall have regard to all the circumstances of the case including the following matters:
 
 (a) the financial needs of the wife or child;
 
-(b) the income earning capacity (if any), property and other financial resources of the wife or child;
+(b) the income, earning capacity (if any), property and other financial resources of the wife or child;
 
-(c) any physical or mental disability of the wife or child; and
+(c) any physical or mental disability of the wife or child;
 
-(d) the standard of living enjoyed by the applicant before the husband or father neglected or refused to provide reasonable maintenance for the wife or child.
+(d) the age of each party to the marriage and the duration of the marriage;
 
-(5) An application for the maintenance of a child under subsection (2) may be made by any person who is the guardian or has the actual custody of the child.
+(e) the contributions made by each of the parties to the marriage to the welfare of the family, including any contribution made by looking after the home or caring for the family;
 
-(6) The court shall have the powers conferred by section 78 as regards proceedings relating to the attachment of earnings order.
+(f) the standard of living enjoyed by the wife or child before the husband or parent, as the case may be, neglected or refused to provide reasonable maintenance for the wife or child;
 
-[60
+(g) in the case of a child, the manner in which he was being, and in which the parties to the marriage expected him to be, educated or trained; and
+
+(h) the conduct of each of the parties to the marriage, if the conduct is such that it would in the opinion of the court be inequitable to disregard it.
+
+(5) The court shall not make an order under subsection (2) for the benefit of a child who has attained the age of 21 years or for a period that extends beyond the day on which the child will attain that age unless the court is satisfied that the provision of the maintenance is necessary because —
+
+(a) of a mental or physical disability of the child;
+
+(b) the child is or will be serving full-time national service;
+
+(c) the child is or will be or (if an order were made under subsection (2)) would be receiving instruction at an educational establishment or undergoing training for a trade, profession or vocation, whether or not while in gainful employment; or
+
+(d) special circumstances, other than those stated in paragraphs (a), (b) and (c), exist which justify the making of the order.
+
+(6) An order under subsection (2) ceases to be in force on the day on which the child attains the age of 21 years unless the order is expressed to continue in force for a period ending after that day.
+
+(7) An order under subsection (2) may direct payment to the person having custody or care and control of the child or the trustees of the child.
+
+(8) When ordering the payment of maintenance under this section or at any time after the making of the order, the court may, if it considers just, order the person liable to pay the maintenance to secure the whole or any part of it by vesting any property belonging to the person in trustees upon trust to pay the maintenance or any part of it out of the income from the property, and subject thereto, in trust for the settlor.
+
+(9) The court shall have the powers conferred by section 78 in respect of proceedings relating to maintenance under this section.
+
+[Act 30/96 wef 01/05/1997]
 
 ### Duty to maintain child accepted as member of family
 
@@ -1052,13 +1310,35 @@ Provided that the duty imposed by this subsection shall cease if the child is ta
 
 [60A
 
+(3) An application for an order under subsection (1) may be made by —
+
+(a) any person who is a guardian or has the actual custody of the child;
+
+(b) where the child has attained the age of 21 years, by the child himself;
+
+(c) where the child is under the age of 21 years, any of his siblings who has attained the age of 21 years; or
+
+(d) any person appointed by the Minister.
+
+(4) Subsections (4) to (9) of section 61A shall apply, with the necessary modifications, to the making of an order under this section.
+
 ### Enforcement of maintenance order
 
-63\.—(1) If any person fails to make one or more payments required to be made under a maintenance order, the court which made the order may for every breach of the order by warrant direct the amount due to be levied in the manner by law provided for levying fines imposed by a Magistrate’s Court, or may sentence him to imprisonment for a term not exceeding one month for each month’s allowance remaining unpaid.
+63\.—(1) If any person fails to make one or more payments required to be made under a maintenance order, the court which made the order may do all or any of the following:
+
+(a) for every breach of the order by warrant direct the amount due to be levied in the manner by law provided for levying fines imposed by a Magistrate’s Court;
+
+(b) sentence him to imprisonment for a term not exceeding one month for each month’s allowance remaining unpaid; and
+
+(c) make a garnishee order in accordance with the rules made under this Act.
+
+(1A) A sentence of imprisonment ordered under subsection (1)(b) shall not affect or diminish the obligation of the person against whom the maintenance order is made to make the payment or payments under the maintenance order which he has failed to make, except that the court may, if it thinks fit, reduce the amount of any such payments.
 
 (2) A maintenance order made by the High Court may be enforced by a District Court in accordance with subsection (1) as if that order had been made by the District Court, except that a District Court shall have no power to vary an order of the High Court.
 
 [61
+
+[Subst. by Act 30/96]
 
 ### Rescission and variation of order
 
@@ -1068,13 +1348,33 @@ Provided that the duty imposed by this subsection shall cease if the child is ta
 
 [62
 
+### Power of court to vary agreement for maintenance of child
+
+64A\. The court may, at any time and from time to time, vary the terms of any agreement relating to the maintenance of a child, whether made before or after 1st June 1981, notwithstanding any provision to the contrary in that agreement, where it is satisfied that it is reasonable and for the welfare of the child to do so.
+
+[Act 30/96 wef 01/05/1997]
+
+### Application of section 115
+
+64B\. Section 115 shall apply, with the necessary modifications, to any order for the payment of maintenance under this Part.
+
+[Act 30/96 wef 01/05/1997]
+
 ### Application of Act to orders made under Minor Offences Ordinance, etc.
 
-65\.—(1) All orders made under section 37 of the repealed Minor Offences Ordinance [1936 Ed., Cap. 24] or under section 2 of the repealed Married Women and Children (Maintenance) Ordinance [1955 Ed., Cap. 44] and in force at the commencement of this Act shall be deemed to have been made under this Part by a District Court or Magistrate’s Court, as the case may be, and the provisions of this Part shall apply to the same accordingly.
+65\.—(1) All orders made under section 37 of the repealed Minor Offences Ordinance or under section 2 of the repealed Married Women and Children (Maintenance) Ordinance and in force at the commencement of this Act shall be deemed to have been made under this Part by a District Court or Magistrate’s Court, as the case may be, and the provisions of this Part shall apply to the same accordingly.
 
-(2) Upon an application to vary any order made under section 37 of the repealed Minor Offences Ordinance [1936 Ed., Cap. 24] or under section 2 of the repealed Married Women and Children (Maintenance) Ordinance [1955 Ed., Cap. 44], the court may make under section 64 any order which it could have made upon an application under section 61 or under section 2 of the repealed Married Women and Children (Maintenance) Ordinance.
+(2) Upon an application to vary any order made under section 37 of the repealed Minor Offences Ordinance or under section 2 of the repealed Married Women and Children (Maintenance) Ordinance, the court may make under section 64 any order which it could have made upon an application under section 61 or under section 2 of the repealed Married Women and Children (Maintenance) Ordinance.
 
 [63
+
+[1936 Ed. Cap. 24.]
+
+[1955 Ed. Cap. 44.]
+
+[1936 Ed. Cap. 24.]
+
+[1955 Ed. Cap. 44.]
 
 ### Power of District or Magistrate’s Court to refuse order where High Court proceeding more convenient
 
@@ -1086,97 +1386,31 @@ Provided that the High Court or a Judge thereof shall have power by order in any
 
 ### Appeal
 
-67\.—(1) Subject to the provisions of this Part, an appeal shall lie from any order or the refusal of any order by a District Court or Magistrate’s Court under this Part to the High Court exercising appellate civil jurisdiction under the provisions of the Supreme Court of Judicature Act [Cap. 322].
+67\.—(1) Subject to the provisions of this Part and Part VIA, an appeal shall lie from any order or the refusal of any order by a District Court or Magistrate’s Court under this Part and Part VIA to the High Court exercising appellate civil jurisdiction under the provisions of the Supreme Court of Judicature Act [Cap. 322].
+
+[Act 30/96 wef 01/05/1997]
 
 (2) All appeals brought under this section shall be by way of rehearing and the High Court shall have the like powers and jurisdiction on the hearing of such appeals as the Court of Appeal has on the hearing of appeals from the High Court under the Supreme Court of Judicature Act.
 
 ### Appeal not to operate as stay of execution
 
-(3) No appeal made under the provisions of this Part from any order shall operate as a stay of such order unless the High Court or the District Court or Magistrate’s Court so directs.
+(3) No appeal made under the provisions of this Part and Part VIA from any order shall operate as a stay of such order unless the High Court or the District Court or Magistrate’s Court so directs.
 
 [65
 
-### Powers of court to make orders for the protection of a party to a marriage or a child of the family
+[Act 30/96 wef 01/05/1997]
 
-68\.—(1) Either party to a marriage may, whether or not an application is made by that party for an order under section 61, apply to a District Court or Magistrate’s Court for an order under this section.
+Powers of court to make orders for the protection of a party to a marriage or a child of the family
 
-(2) Where on an application for an order under this section the court is satisfied that the respondent has used, or threatened to use, violence against the person of the applicant or a child of the family and that it is necessary for the protection of the applicant or a child of the family that an order should be made under this subsection, the court may make one or both of the following orders:
+68\. [Repealed by Act 30/96]
 
-(a) an order that the respondent shall not use, or threaten to use, violence against the person of the applicant;
+Supplementary provisions with respect to orders under section 68
 
-(b) an order that the respondent shall not use, or threaten to use, violence against the person of a child of the family.
+69\. [Repealed by Act 30/96]
 
-(3) Where on an application for an order under this section the court is satisfied —
+Powers of arrest for breach of an order made under section 68
 
-(a) that the respondent has used violence against the person of the applicant or a child of the family;
-
-(b) that the respondent has threatened to use violence against the person of the applicant or a child of the family and has used violence against some other person; or
-
-(c) that the respondent has in contravention of an order made under subsection (2) threatened to use violence against the person of the applicant or a child of the family,
-
-and that the applicant or a child of the family is in danger of being physically injured by the respondent (or would be in such danger if the applicant or child were to enter the matrimonial home) the court may make one or both of the following orders:
-
-(i) an order requiring the respondent to leave the matrimonial home;
-
-(ii) an order prohibiting the respondent from entering the matrimonial home.
-
-(4) Where the court makes an order under subsection (3), the court may, if it thinks fit, make a further order requiring the respondent to permit the applicant to enter and remain in the matrimonial home.
-
-(5) Where on an application for an order under this section the court is satisfied that there is imminent danger of physical injury to the applicant or a child of the family, the court may make an order under subsection (2) notwithstanding —
-
-(a) that the summons has not been served on the respondent or has not been served on the respondent within a reasonable time before the hearing of the application; or
-
-(b) that the summons requires the respondent to appear at some other time or place,
-
-and any order made by virtue of this subsection is referred to in this section and in section 69 to as an expedited order.
-
-(6) An expedited order shall not take effect until the date on which notice of the making of the order is served on the respondent in such manner as may be prescribed or, if the court specifies a later date as the date on which the order is to take effect, that later date, and an expedited order shall cease to have effect on whichever of the following dates occurs first:
-
-(a) the date of the expiration of the period of 28 days beginning with the date of the making of the order; or
-
-(b) the date of commencement of the hearing of the application for an order under this section.
-
-(7) An order under this section may be made subject to such exceptions or conditions as may be specified in the order and, subject, in the case of an expedited order, to subsection (6), may be made for such term as may be so specified.
-
-(8) The court in making an order under subsection (2) may include provision that the respondent shall not incite or assist any other person to use, or threaten to use, violence against the person of the applicant or, as the case may be, the child of the family.
-
-[65A
-
-### Supplementary provisions with respect to orders under section 68
-
-69\.—(1) A District Court or Magistrate’s Court shall, on an application made by either party to the marriage in question, have power by order to vary or revoke any order made under section 68.
-
-(2) Rules may be made for the purpose of giving effect to section 68 and any such rules may in particular, but without prejudice to the generality of this subsection, make provision for the hearing without delay of any application for an order under section 68(3).
-
-(3) The expiry by virtue of section 68(6) of an expedited order shall not prejudice the making of a further expedited order under that section.
-
-(4) Except so far as the exercise by the respondent of a right to occupy the matrimonial home is suspended or restricted by virtue of an order made under section 68(3), an order made under that section shall not affect any estate or interest in the matrimonial home of the respondent or any other person.
-
-[65B
-
-### Powers of arrest for breach of an order made under section 68
-
-70\.—(1) Where a District Court or Magistrate’s Court makes an order under section 68 which provides that the respondent shall not —
-
-(a) use violence against the person of the applicant;
-
-(b) use violence against a child of the family; or
-
-(c) enter the matrimonial home,
-
-the court may, if it is satisfied that the respondent has physically injured the applicant or a child of the family and considers that he is likely to do so again, attach a power of arrest to the order.
-
-(2) Where by virtue of subsection (1) a power of arrest is attached to an order, a police officer may arrest without warrant a person whom he has reasonable cause for suspecting of being in breach of any such provision of the order as is mentioned in subsection (1)(a), (b) or (c) by reason of that person’s use of violence or, as the case may be, his entry into the matrimonial home.
-
-(3) Where a court has made an order under section 68 but has not attached to the order a power of arrest under subsection (1), then, if at any time the applicant for that order considers that the other party to the marriage in question has disobeyed the order, he may apply for the issue of a warrant for the arrest of that other party and a court shall not issue a warrant on such an application unless —
-
-(a) the application is substantiated on oath; and
-
-(b) the court has reasonable grounds for believing that the other party to the marriage has disobeyed that order.
-
-(4) The court before whom any person is brought by virtue of a warrant issued under subsection (3) may remand him.
-
-[65C
+70\. [Repealed by Act 30/96]
 
 ### Powers of High Court
 
@@ -1186,11 +1420,17 @@ the court may, if it is satisfied that the respondent has physically injured the
 
 ### Procedure
 
-72\.—(1) All applications to a District Court or Magistrate’s Court under this Part shall be made and heard in the same manner and in accordance with the same procedure as applications for summonses are made and heard by such District Court or Magistrate’s Court under the provisions of the Criminal Procedure Code and an application for maintenance under this Part shall be deemed to be a complaint for the purposes of that Code.
+72\.—(1) All applications to a District Court or Magistrate’s Court under this Part and Part VIA shall be made and heard in the same manner and in accordance with the same procedure as applications for summonses are made and heard by such District Court or Magistrate’s Court under the provisions of the Criminal Procedure Code and an application for maintenance under this Part and Part VIA shall be deemed to be a complaint for the purposes of that Code.
+
+[Act 30/96 wef 01/05/1997]
 
 (2) The Rules of Court for the time being in force made under the provisions of the Supreme Court of Judicature Act [Cap. 322] and applicable to appeals from District Courts brought under section 21 of that Act shall apply to all appeals brought under section 67:
 
+(3) A court before which any application under this Part or Part VIA is heard may make such order as to costs as it thinks fit.
+
 Provided that where an appeal is so brought from a Magistrate’s Court the said Rules shall be construed and applied as far as necessary as if references to a District Court were references to a Magistrate’s Court and references to a District Judge were references to a Magistrate.
+
+[Act 30/96 wef 01/05/1997]
 
 [67
 
@@ -1212,6 +1452,10 @@ ENFORCEMENT OF MAINTENANCE ORDERS
 
 (b) by way of pension, including an annuity in respect of past services, whether or not the services were rendered to the person paying the annuity, and including periodical payments by way of compensation for the loss, abolition or relinquishment, or any diminution in the emoluments, of any office or employment;
 
+(c) if the defendant is a self-employed person, by way of payments received from self-employment;
+
+[Act 30/96 wef 01/05/1997]
+
 “employer” means a person by whom, as a principal and not as an employee or agent, earnings fall to be paid to a defendant, and references to payment of earnings shall be construed accordingly;
 
 “maintenance order” means —
@@ -1220,19 +1464,27 @@ ENFORCEMENT OF MAINTENANCE ORDERS
 
 (b) an order for the payment of periodical sums by way of maintenance or alimony to a wife or for the benefit of any child under Part IX;
 
-(c) an order for maintenance made by the Syariah Court under the Administration of Muslim Law Act ; and
+(c) an order for maintenance made by the Syariah Court under the Administration of Muslim Law Act [Cap. 3];
 
-(d) a maintenance order registered or confirmed by the court under the Maintenance Order (Facilities for Enforcement) Act.\*
+[Act 30/96]
+
+(ca) an order for maintenance made under the Maintenance of Parents Act [Cap. 167B]; and
+
+[Act 30/96 wef 01/05/1997]
+
+(d) a maintenance order registered or confirmed by the court under the Maintenance Order, which was formerly known as the s (Facilities for Enforcement) Act.1
 
 [68
 
-\*This Act, which was formerly known as the Reciprocal Enforcement of Maintenance Orders Act (Cap. 26, 1970 Ed.), will be repealed upon the commencement of section 19(1) of the Maintenance Orders (Reciprocal Enforcement) Act (Cap. 169).
+1This ActReciprocal Enforcement of Maintenance Orders Act (Cap. 26, 1970 Ed.), will be repealed upon the commencement of section 19(1) of the Maintenance Orders (Reciprocal Enforcement) Act (Cap. 169) [Cap. 168].
 
 ### Power of court to make an attachment of earnings order
 
-74\.—(1) If any person fails to comply with any maintenance order the court which made the order may for every breach of the order make an attachment of earnings order:
+74\.—(1) A court may, when ordering the payment of maintenance under Part VII or at any time thereafter, if it considers just, make an attachment of earnings order to secure payment of the maintenance.
 
 Provided that the court shall not, except with the consent of the defendant, make an attachment of earnings order to secure payments in accordance with a maintenance order if it appears to it that the defendant’s failure to comply with the maintenance order is not due to his wilful refusal or culpable neglect.
+
+[Subt. by Act 30/96 wef 01/05/1997]
 
 (2) A District Court may make an attachment of earnings order to secure payments the defendant is required to make under a maintenance order made by the High Court.
 
@@ -1262,11 +1514,17 @@ Provided that the court shall not, except with the consent of the defendant, mak
 
 (a) upon the issue of a warrant directing that the amount due under the related maintenance order shall be levied in the manner provided by law for levying fines;
 
-(b) upon the making of an order sentencing the defendant to imprisonment for failure to comply with the related maintenance order; and
+(b) upon the making of an order sentencing the defendant to imprisonment for failure to comply with the related maintenance order;
+
+[30/96]
+
+(ba) upon the making of a garnishee order under section 63(1)(c); and
+
+[Act 30/96 wef 01/05/1997]
 
 (c) upon the rescission of the related maintenance order,
 
-and where an attachment of earnings order ceases to have effect as aforesaid the court making the order shall give notice of the cessation to the person to whom the order was directed.
+and where an attachment of earnings order cease to have effect as aforesaid the court making the order shall give notice of the cessation to the person to whom the order was directed.
 
 [71
 
@@ -1344,17 +1602,27 @@ Provided that this subsection shall not apply as regards such payments if that p
 
 [76
 
+### Costs of proceedings
+
+82A\. A court before which proceedings relating to an attachment of earnings order are brought may make such order as to costs as it thinks fit.
+
+[Act 30/96 wef 01/05/1997]
+
 ### Penalties for non-compliance with attachment of earnings order and for giving false notice or statement
 
 83\.—(1) Any person who —
 
-(a) fails to comply with section 77(1) or (4) or an order of a court under section 78(1);
+(a) fails to comply with section 77(1) or (4) or section 79, or an order of a court under section 78(1);
+
+[Subst. by 30/96 wef 01/05/1997]
 
 (b) gives such a notice as is mentioned in section 77(4) or a statement in pursuance of an order of a court under section 78(1), which notice or statement he knows to be false in a material particular; or
 
 (c) recklessly gives such a notice or statement which is false in a material particular,
 
-shall, subject to subsection (2), be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding one year or to both.
+shall, subject to subsection (2), be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding one year or to both.
+
+[Act 30/96]
 
 (2) It shall be a defence for a person charged with failing to comply with section 77(1) to prove that he took all reasonable steps to comply with the attachment of earnings order to which the failure relates.
 
@@ -1362,7 +1630,11 @@ shall, subject to subsection (2), be guilty of an offence and shall be liable on
 
 ## PART IX
 
-Chapter 1 — DIVORCE
+Chapter 1
+
+—
+
+DIVORCE
 
 ### Definitions
 
@@ -1376,29 +1648,27 @@ Chapter 1 — DIVORCE
 
 [78
 
-### Principles of law to be applied
+Principles of law to be applied
 
-85\. Subject to the provisions of this Part, the court shall in all suits and proceedings hereunder act and give relief on principles which in the opinion of the court are, as nearly as possible, conformable to the principles on which the High Court of Justice in England acts and gives relief in matrimonial proceedings.
-
-[79
+85\. [Repealed by Act 30/96]
 
 ### Jurisdiction of court in matrimonial proceedings
 
-86\.—(1) Subject to subsection (2), the court shall have jurisdiction to entertain proceedings for divorce, presumption of death and divorce, judicial separation or nullity of marriage only if —
+86\.—(1) Subject to subsection (2), the court shall have jurisdiction to entertain proceedings for divorce, presumption of death and divorce, judicial separation or nullity of marriage only if either of the parties to the marriage is —
 
-(a) the marriage has been registered under this Act, or is deemed to be registered under this Act, or was solemnized under a law which expressly or impliedly provides that the marriage shall be monogamous; and
+(a) domiciled in Singapore at the commencement of the proceedings; or
 
-(b) either of the parties to the marriage is —
+(b) habitually resident in Singapore for a period of 3 years immediately preceding the commencement of the proceedings.
 
-(i) domiciled in Singapore at the commencement of the proceedings; or
+(2) In proceedings for nullity of marriage on the ground that the marriage is void or voidable, the court may, notwithstanding the requirements in subsection (1) are not fulfilled, grant the relief sought where both parties to the marriage reside in Singapore at the time of the commencement of the proceedings.
 
-(ii) habitually resident in Singapore for a period of 3 years immediately preceding the commencement of the proceedings.
-
-(2) In proceedings for nullity of marriage on the ground that the marriage is void or voidable, the court may, notwithstanding the requirements in subsection (1)(b) are not fulfilled, grant the relief sought where both parties to the marriage reside in Singapore at the time of the commencement of the proceedings.
+[Act 30/96]
 
 (3) For the purposes of proceedings for nullity of marriage, “marriage” includes a marriage which is not valid by virtue of any of the provisions of this Act.
 
 [80
+
+[Subst. by Act 30/96 wef 01/05/1997]
 
 ### Restriction on petitions for divorce during the first 3 years of marriage
 
@@ -1406,7 +1676,7 @@ Chapter 1 — DIVORCE
 
 Provided that the court may, upon application being made in accordance with Rules of Court, allow a petition to be presented before 3 years have passed on the ground that the case is one of exceptional hardship suffered by the petitioner or of exceptional depravity on the part of the respondent, but if it appears to the court at the hearing of the petition that the petitioner obtained leave to present the petition by any misrepresentation or concealment of the nature of the case, the court may, if it pronounces a decree nisi, do so subject to the condition that no application to make the decree absolute shall be made until after the expiration of 3 years from the date of the marriage, or may dismiss the petition without prejudice to any petition which may be brought after the expiration of the said 3 years upon the same, or substantially the same, facts as those proved in support of the petition so dismissed.
 
-(2) In determining any application under this section for leave to present a petition before the expiration of 3 years from the date of the marriage, the court shall have regard to the interests of any children of the marriage and to the question whether there is reasonable probability of a reconciliation between the parties before the expiration of the said 3 years.
+(2) In determining any application under this section for leave to present a petition before the expiration of 3 years from the date of the marriage, the court shall have regard to the interest of any children of the marriage and to the question whether there is reasonable probability of a reconciliation between the parties before the expiration of the said 3 years.
 
 (3) The court may, before determining an application under this section, refer the differences between the parties to a Conciliation Officer so that a reconciliation between the parties might be effected.
 
@@ -1448,27 +1718,13 @@ Provided that the court may, upon application being made in accordance with Rule
 
 [82
 
-### Reconciliation
+Reconciliation
 
-89\.—(1) It shall be the duty of the court in which a petition for divorce or judicial separation has been instituted to give consideration, from time to time, to the possibility of a reconciliation of the parties to the marriage (unless the proceedings are of such a nature that it would not be appropriate to do so), and if at any time it appears to the Judge constituting the court, either from the nature of the case, the evidence in the proceedings or the attitude of the parties or of either of them that there is a reasonable possibility of such a reconciliation, the Judge may do all or any of the following:
-
-(a) adjourn the proceedings to afford the parties the opportunity of being reconciled or to enable anything to be done in accordance with either paragraph (b) or (c);
-
-(b) with the consent of the parties, interview them in chambers, with or without their solicitors, as the court thinks proper, with a view to effecting a reconciliation; and
-
-(c) nominate a Conciliation Officer to endeavour to effect a reconciliation.
-
-(2) If, not less than 14 days after an adjournment under subsection (1) has taken place, either of the parties to the marriage requests that the hearing be proceeded with, the Judge shall resume the hearing, or arrangements shall be made for the proceedings to be dealt with by another Judge, as the case requires, as soon as practicable.
-
-(3) Where a Judge has acted as conciliator under subsection (1)(b) but the attempt to effect a reconciliation has failed, the Judge shall not, except at the request of the parties to the proceedings, continue to hear the proceedings, or determine the proceedings, and, in the absence of such a request, arrangements shall be made for the proceedings to be dealt with by another Judge.
-
-(4) Evidence of anything said or of any admission made in the course of an endeavour to effect a reconciliation under this section shall not be admissible in any court.
-
-[83
+89\. [Repealed by Act 30/96 wef 01/05/1997]
 
 ### Rules to provide for agreements to be referred to court
 
-90\. Provision may be made by Rules of Court for enabling the parties to a marriage, or either of them, on application made either before or after the presentation of a petition for divorce, to refer to the court any agreement or arrangement made or proposed to be made between them, being an agreement or arrangement which relates to, arises out of, or is connected with, the proceedings for divorce which are contemplated or, as the case may be, have begun, and for enabling the court to express an opinion, should it think it desirable to do so, as to the reasonableness of the agreement or arrangement and to give such directions, if any, in the matter as it thinks fit.
+90\. Provision may be made by Rules of Court for enabling the parties to a marriage, or either of them, on application made either before or after the presentation of a petition for divorce, to refer to the court any agreement or arrangement made or proposed to be made between them, being an agreement or arrangement which relates to, arises out of, or is connected with, the proceedings for divorce which are contemplated or, as the case may be, have begun, and for enabling the court to express an opinion, should it think it desirable to do so, as to the reasonableness of the agreement a arrangement and to give such directions, if any, in the matter as it thinks fit.
 
 [84
 
@@ -1526,6 +1782,12 @@ Provided that the court may, upon application being made in accordance with Rule
 
 [88
 
+Chapter 2
+
+—
+
+JUDICIAL SEPARATION
+
 ### Judicial separation
 
 95\.—(1) A petition for judicial separation may be presented to the court by either party to a marriage on the ground and circumstances set out in section 88(3), and that section shall, with the necessary modifications, apply in relation to such a petition as they apply in relation to a petition for divorce.
@@ -1554,6 +1816,12 @@ Provided that the court may, upon application being made in accordance with Rule
 
 [91
 
+Chapter 3
+
+—
+
+NULLITY OF MARRIAGE
+
 ### Petition for nullity of marriage
 
 98\. Any husband or wife may present a petition to the court praying for a decree of nullity in respect of his or her marriage.
@@ -1564,7 +1832,9 @@ Provided that the court may, upon application being made in accordance with Rule
 
 99\. A marriage which takes place after 1st June 1981 shall be void on the following grounds only:
 
-(a) that it is not a valid marriage by virtue of sections 5, 9, 10, 11 and 21; or
+(a) that it is not a valid marriage by virtue of sections 3(3), 5, 9, 10, 11, 11A and 21; or
+
+[Act 10/96 wef 01/05/1997]
 
 (b) where the marriage was celebrated outside Singapore, that the marriage is invalid —
 
@@ -1644,33 +1914,77 @@ Provided that the court may, upon application being made in accordance with Rule
 
 [99
 
+Chapter 4
+
+—
+
+FINANCIAL PROVISIONS CONSEQUENT ON MATRIMONIAL PROCEEDINGS
+
 ### Power of court to order division of matrimonial assets
 
-106\.—(1) The court shall have power, when granting or subsequent to the grant of a decree of divorce, judicial separation or nullity of marriage, to order the division between the parties of any assets acquired by them during the marriage by their joint efforts or the sale of any such assets and the division between the parties of the proceeds of sale.
+106\.—(1) The court shall have power, when granting or subsequent to the grant of a decree of divorce, judicial separation or nullity of marriage, to order the division between the parties of any matrimonial asset or the sale of any such asset and the division between the parties of the proceeds of the sale of any such asset in such proportions as the court thinks just and equitable.
 
-(2) In exercising the power conferred by subsection (1) the court shall have regard to —
+(2) It shall be the duty of the court in deciding whether to exercise its powers under subsection (1) and, if so, in what manner, to have regard to all the circumstances of the case, including the following matters:
 
-(a) the extent of the contributions made by each party in money, property or work towards the acquiring of the assets;
+(a) the extent of the contributions made by each party in money, property or work towards acquiring, improving or work towards acquiring, improving or maintaining the matrimonial assets;
 
-(b) any debts owing by either party which were contracted for their joint benefit; and
+(b) any debt owing or obligation incurred or undertaken by either party for their joint benefit or for the benefit of any child of the marriage;
 
-(c) the needs of the minor children (if any) of the marriage,
+(c) the needs of the children (if any) of the marriage;
 
-and, subject to those considerations, the court shall incline towards equality of division.
+(d) the extent of the contributions made by each party to the welfare of the family, including looking after the home or caring for the family or any aged or infirm relative or dependant of either party;
 
-(3) The court shall have power, when granting a decree of divorce, judicial separation or nullity of marriage, to order the division between the parties of any assets acquired during the marriage by the sole effort of one party to the marriage or the sale of any such assets and the division between the parties of the proceeds of sale.
+(e) any agreement between the parties with respect to the ownership and division of the matrimonial assets made in contemplation of divorce;
 
-(4) In exercising the power conferred by subsection (3) the court shall have regard to —
+(f) any period of rent-free occupation or other benefit enjoyed by one party in the matrimonial home to the exclusion of the other party;
 
-(a) the extent of the contribution made by the other party who did not acquire the assets to the welfare of the family by looking after the home or by caring for the family; and
+(g) the giving of assistance or support by one party to the other party (whether or not of a material kind), including the giving of assistance or support which aids the other party in the carrying on of his or her occupation or business; and
 
-(b) the needs of the minor children, if any, of the marriage,
+(h) the matters referred to in section 108(1) so far as they are relevant.
 
-and, subject to those considerations, the court may divide the assets or the proceeds of sale in such proportions as the court thinks reasonable, but in any case the party by whose effort the assets were acquired shall receive a greater proportion.
+(3) The court may make all such other orders and give such directions as may be necessary or expedient to give effect to any order made under this section.
 
-(5) For the purposes of this section, references to assets acquired during a marriage include assets owned before the marriage by one party which have been substantially improved during the marriage by the other party or by their joint efforts.
+(4) The court may, at any time it thinks fit, extend, vary, revoke or discharge any order made under this section, and may vary any term or condition upon or subject to which any such order has been made.
 
-[100
+(5) In particular, but without limiting the generality of subsections (3) and (4), the court may make any one or more of the following orders:
+
+(a) an order for the sale of any matrimonial asset of any part thereof, and for the division, vesting or settlement of the proceeds;
+
+(b) an order vesting any matrimonial asset owned by both parties jointly in both the parties in common in such shares as the court considers just and equitable;
+
+(c) an order vesting any matrimonial asset or any part thereof in either party;
+
+(d) an order for any matrimonial asset, or the sale proceeds thereof, to be vested in any person (including either party) to be held on trust for such period and on such terms as maybe specified in the order;
+
+(e) an order postponing the sale or vesting of any share in any matrimonial asset, or any part of such share, until such future date or until the occurrence of such future event or until the fulfilment of such condition as may be specified in the order;
+
+(f) an order granting to either party, for such period and on such terms as the court thinks fit, the right personally to occupy the matrimonial home to the exclusion of the other party; and
+
+(g) an order for the payment of a sum of money by one party to the other party.
+
+(6) Where under any order made under this section one party is or may become liable to pay to the other party a sum of money, the court may direct that it shall be paid either in one sum or in instalments, and either with or without security, and otherwise in such manner and subject to such conditions (including a condition requiring the payment of interest) as the court thinks fit.
+
+(7) Where, pursuant to this section, the court makes an order for the sale of any matrimonial asset and for the division, application or settlement of the proceeds, the court may appoint a person to sell the asset and divide, apply or settle the proceeds accordingly; and the execution of any instrument by the person so appointed shall have the same force and validity as if it had been executed by the person in whom the asset is vested.
+
+(8) Any order under this section may be made upon such terms and subject to such conditions (if any) as the court thinks fit.
+
+(9) Where the court, by any order under this section, appoints a person (including the Registrar or other officer of the court) to act as a trustee or to sell any matrimonial asset and to divide, apply and settle the proceeds thereof, the court may make provision in that order for the payment of remuneration to that person and for the reimbursement of his costs and expenses.
+
+(10) For the purposes of this section, “matrimonial asset” means —
+
+(a) any asset acquired before the marriage by one party or both parties to the marriage —
+
+(i) ordinarily used or enjoyed by both parties or one or more of their children while the parties are residing together for shelter or transportation or for household, education, recreational, social or aesthetic purposes; or
+
+(ii) which has been substantially improved during the marriage by the other party or by both parties to the marriage; and
+
+(b) any other asset of any nature acquired during the marriage by one party or both parties to the marriage,
+
+[Subst. by 30/96 wef 01/05/1997]
+
+but does not include any asset (not being a matrimonial home) that has been acquired by one party at any time by gift or inheritance and that has not been substantially improved during the marriage by the other party or by both parties to the marriage.
+
+[Act 30/96 wef 01/05/1997]
 
 ### Power of court to order maintenance
 
@@ -1722,11 +2036,15 @@ and, subject to those considerations, the court may divide the assets or the pro
 
 111\. Except where an order for maintenance is expressed to be for any shorter period or where any such order has been rescinded, an order for maintenance shall expire —
 
-(a) if the maintenance was unsecured, on the death of the husband or of the wife, whichever is the earlier;
+(a) if the maintenance was unsecured, on the death of the husband or of the wife, whichever is the earlier, or upon the remarriage of the wife;
 
-(b) if the maintenance was secured, on the death of the wife.
+[Act 30/96 wef 01/05/1997]
+
+(b) if the maintenance was secured, on the death of the wife or upon remarriage of the wife.
 
 [105
+
+[Act 30/96 wef 01/05/1997]
 
 ### Power of court to vary orders for maintenance
 
@@ -1754,9 +2072,17 @@ and, subject to those considerations, the court may divide the assets or the pro
 
 (2) Subject to subsection (3), arrears of unsecured maintenance which accrued due before the death of the person entitled thereto shall be recoverable as a debt by the legal personal representatives of such person.
 
-(3) No amount owing as maintenance shall be recoverable in any suit if it accrued due more than 3 years before the institution of the suit.
+(3) No amount owing as maintenance shall be recoverable in any suit if it accrued due more than 3 years before the institution of the suit unless the court, under special circumstances, otherwise allows.
 
 [109
+
+[Act 30/96 wef 01/05/1997]
+
+Chapter 5
+
+—
+
+WELFARE OF CHILDREN
 
 ### Meaning of “child”
 
@@ -1814,85 +2140,75 @@ and, subject to those considerations, the court may divide the assets or the pro
 
 [114
 
-### Duty to maintain children
+(3) Notwithstanding subsection (1) but subject to any condition imposed under subsection (2)(e), where an order for custody is in force, no person shall take the child who is the subject of the custody order out of Singapore except with the written consent of both parents or the leave of the court.
 
-121\. Except where an agreement or order of court otherwise provides, it shall be the duty of a parent to maintain or contribute to the maintenance of his or her children, whether they are in his or her custody or the custody of any other person, either by providing them with such accommodation, clothing, food and education as may be reasonable having regard to his or her means and station in life or by paying the cost thereof.
+[Act 30/96 wef 01/05/1997]
 
-[115
+(4) Subsection (3) does not prevent the taking out of Singapore for a period of less than once month of the child by the person given custody of the child or by any other person who has the written consent of the person given custody of the child to take the child out of Singapore.
+
+[Act 30/96 wef 01/05/1997]
+
+(5) Any person who contravenes subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year or to both.
+
+[Act 30/96 wef 01/05/1997]
+
+Duty to maintain children
+
+121\. [Repealed by Act 30/96]
 
 ### Power of court to order maintenance for children
 
-122\.—(1) During the pendency of any matrimonial proceedings the court may order a parent to pay towards the maintenance of his child.
+122\.—(1) During the pendency of any matrimonial proceedings or when granting or at any time subsequent to the grant of a decree of divorce, judicial separation or nullity of marriage, the court may order a parent to pay maintenance for the benefit of his child in such manner as the court thinks fit.
 
-(2) When granting or at any time subsequent to the grant of a decree of divorce, judicial separation or nullity of marriage the court may order a parent to pay maintenance for the benefit of his child in any manner the court thinks fit.
+(2) The provisions of Parts VII and VIII shall apply, with the necessary modifications, to an application for maintenance and a maintenance order made under subsection (1).
 
-(3) The court shall have the corresponding power to order a woman to pay or contribute towards the maintenance of her child where it is satisfied that having regard to her means it is reasonable so to order.
+[Act 30/96 wef 01/05/1997]
 
-(4) An order under subsection (1), (2) or (3) may direct payment to the person having custody or care and control of the child or trustees for the child.
+Matters the court shall have regard when ordering maintenance for children
 
-[116
+123\. [Repealed by Act 30/96]
 
-### Matters the court shall have regard when ordering maintenance for children
+Power of court to order security for maintenance
 
-123\.—(1) The court, when ordering maintenance for the benefit of any child, shall have regard to all the circumstances of the case including the following matters:
+124\. [Repealed by Act 30/96]
 
-(a) the financial needs of the child;
+Duration of orders for custody and maintenance
 
-(b) the income, earning capacity (if any), property and other financial resources of the child;
+125\. [Repealed by Act 30/96]
 
-(c) any physical or mental disability of the child;
+### Power of court to vary orders for custody.
 
-(d) the standard of living enjoyed by the family before the breakdown of the marriage; and
+126\. The court may at any time vary or rescind any order for the custody of a child on the application of any interested person, where it is satisfied that the order was based on any misrepresentation or mistake of fact or where there has been any material change in the circumstances.
 
-(e) the manner in which he was being and in which the parties to the marriage expected him to be educated or trained.
-
-(2) The court shall so exercise its powers under subsection (1) as to place the child, so far as it is practicable and (having regard to the income, earning capacity, financial resources and the financial needs, obligations and responsibilities of the parties to the marriage) just to do so, in the financial position in which the child would have been if the marriage had not broken down and each of those parties had properly discharged his or her financial obligations and responsibilities towards him.
-
-[117
-
-### Power of court to order security for maintenance
-
-124\. The court may, in its discretion, when ordering the payment of maintenance for the benefit of any child, order the person liable to pay the maintenance to secure the whole or any part of it by vesting any property in trustees upon trust to pay the maintenance or part thereof out of the income from the property, and subject thereto, in trust for the settlor.
-
-[118
-
-### Duration of orders for custody and maintenance
-
-125\. Except where an order for custody or maintenance of a child is expressed to be for any shorter period or where any such order has been rescinded, it shall expire —
-
-(a) on the attainment by the child of the age of 21 years;
-
-(b) upon the child obtaining gainful employment; or
-
-(c) where the child is under any physical or mental disability, on the ceasing of such disability, whichever is the later.
-
-[119
-
-### Power of court to vary orders for custody or maintenance
-
-126\. The court may at any time vary or rescind any order for the custody or maintenance of a child on the application of any interested person, where it is satisfied that the order was based on any misrepresentation or mistake of fact or where there has been any material change in the circumstances.
+[Act 30/96]
 
 [120
 
-### Power of court to vary agreement for custody or maintenance
+[Act 30/96]
 
-127\. The court may at any time and from time to time vary the terms of any agreement relating to the custody or maintenance of a child, whether made before or after 1st June 1981, notwithstanding any provision to the contrary in that agreement, where it is satisfied that it is reasonable and for the welfare of the child to do so.
+### Power of court to vary agreement for custody.
+
+127\. The court may at any time and from time to time vary the terms of any agreement relating to the custody of a child, whether made before or after 1st June 1981, notwithstanding any provision to the contrary in that agreement, where it is satisfied that it is reasonable and for the welfare of the child to do so.
+
+[Act 30/96]
 
 [121
 
 [26/80]
 
-### Recovery of arrears of maintenance
+[Act 30/96]
 
-128\. Section 115 shall apply, mutatis mutandis, to orders for the payment of maintenance for the benefit of any child.
+Recovery of arrears of maintenance
 
-[122
+128\. [Repealed by Act 30/96]
 
 ### Court to have regard to advice of welfare officers, etc.
 
-129\. When considering any question relating to the custody or maintenance of any child, the court shall, whenever it is practicable, take the advice of some person, whether or not a public officer, who is trained or experienced in child welfare but shall not be bound to follow such advice.
+129\. When considering any question relating to the custody of any child, the court shall, whenever it is practicable, take the advice of some person, whether or not a public officer, who is trained or experienced in child welfare but shall not be bound to follow such advice.
 
 [123
+
+[Act 30/96]
 
 ### Power of court to restrain taking of child out of Singapore
 
@@ -1936,23 +2252,23 @@ the court shall have power on application —
 
 [125
 
+Chapter 6
+
+—
+
+GENERAL PROVISIONS
+
 ### Procedure
 
-132\. Subject to the provisions of this Part, all proceedings under this Part shall be regulated by the Rules of the Supreme Court\*.
+132\. Subject to the provisions of this Part, all proceedings under this Part shall be regulated by the Rules of the Supreme Court.2
 
-\*See G.N. No. S 274/70
+2See G.N. No. S 274/70.
 
 [126
 
-### Service of petition
+Service of petition
 
-133\.—(1) Service out of the jurisdiction of any petition under this Part may be allowed by the court and service shall be effected, as nearly as may be, in the manner in which service of a writ of summons is to be effected under the Rules of the Supreme Court\*.
-
-\*See G.N. No. S 274/70.
-
-(2) The court may dispense with such service altogether if it seems necessary or expedient to do so.
-
-[127
+133\. [Repealed by Act 30/96 wef 01/05/1997]
 
 ### Evidence
 
@@ -1980,9 +2296,7 @@ the court shall have power on application —
 
 (2) There shall be no appeal on the subject of costs only.
 
-(3) Subject to such rules as are made from time to time regarding appeals to the Judicial Committee of the Privy Council, any person may appeal to the Judicial Committee of the Privy Council from any decree or order under this Part made by the Court of Appeal if that Court declares that the case is a fit one for appeal.
-
-[127D
+(3) [Deleted by Act 2/94 wef 08/04/1994 wef 08/04/1994 vide S173/94]
 
 ### Power to allow intervention on terms
 
@@ -1996,7 +2310,7 @@ the court shall have power on application —
 
 (2) Rules made under subsection (1) may prescribe the forms to be used in proceedings under this Part.
 
-(3) A copy of the rules, certified under the hand of the Chief Justice, shall be transmitted by the Chief Justice to the President.
+(3) [Deleted by Act 30/96 wef 01/05/1997]
 
 (4) All such rules shall be published in theGazetteand shall be presented to Parliament as soon as possible after publication.
 
@@ -2050,9 +2364,11 @@ shall be guilty of an offence and shall be liable on conviction to imprisonment 
 
 (4) Reasonable cause to believe that a girl was of or above the age of 16 years shall not be a defence to a charge of an offence under subsection (1)(i):
 
-Provided that in the case of a man of 24 years of age or under the presence of reasonable cause to believe that the girl was above the age of 16 years shall be a valid defence on the first occasion on which he is charged with such an offence.
+Provided that in the case of a man under the age of 21 years the presence of reasonable cause to believe that the girl was above the age of 16 years shall be a valid defence on the first occasion on which he is charged with such an offence.
 
 [128
+
+[Act 30/96 wef 01/05/1997]
 
 ### Traffic in women and girls
 
@@ -2186,13 +2502,15 @@ shall be guilty of an offence and shall be liable on conviction to imprisonment 
 
 ### Trials in camera in certain cases
 
-153\.—(1) When any person is charged with or convicted of having committed any offence under this Part, or under section 354 or 376, or sections 354 and 511, or sections 376 and 511 of the Penal Code [Cap. 224] in respect of any woman or girl, the court conducting a preliminary inquiry into, or trying the offence, or hearing any appeal or special case or any point reserved by a Judge of the Supreme Court in relation to the offence, may order that all proceedings before it shall be dealt with in camera.
+153\.—(1) When any person is charged with or convicted of having committed any offence under this Part, or under section 354, 354A, 376 or 376B, or sections 354 and 511, or sections 354A and 511, or sections 376 and 511, or sections 376B and 511 of the Penal Code [Cap. 224] in respect of any woman or girl, the court conducting a preliminary inquiry into, or trying the offence, or hearing any appeal or special case or any point reserved by a Judge of the High Court in relation to the offence, may order that all proceedings before it shall be dealt with in camera.
 
 [30/96]
 
+[Act 16/93 wef 01/07/1993]
+
 (2) Whenever any such order is made the court shall not be deemed an open court, and the court shall order that no person shall have access to or be or remain in the court except such persons as are necessary for the purpose of the proceedings.
 
-(3) The court shall order proceedings before it to be dealt with in camera in any case where the girl in respect of whom an offence under this Part, or under section 354 or 376, or sections 354 and 511, or sections 376 and 511 of the Penal Code is alleged to have been committed has not attained the age of 16 years.
+(3) The court shall order proceedings before it to be dealt with in camera in any case where the girl in respect of whom an offence under this Part, or under section 354, 354A, 376 or 376B, or sections 354 and 511, or sections 354A and 511, or sections 376 and 511, or sections 376B and 511 of the Penal Code is alleged to have been committed has not attained the age of 16 years.
 
 (4) No newspaper report of any proceedings under this Part in any courts shall reveal —
 
@@ -2476,7 +2794,19 @@ Provided that no woman shall be searched except by a woman.
 
 (2) A Board of Visitors may be appointed for one or more places of safety as the Minister thinks fit.
 
-(3) A Board of Visitors shall consist of 12 persons of whom at least 5 shall be women.
+(3) A Board of Visitors shall consist of such number of persons as the Minister may determine.
+
+[Subst. by Act 30/96 wef 01/05/1997]
+
+(4) Every person appointed under subsection (1) may enter at reasonable times any place of safety and make such inquiry or examination therein as appears to him necessary and shall also make such report as the Minister may require.
+
+(5) Notwithstanding subsection (1), the Minister may direct a Board of Visitors —
+
+(a) to visit any place which is established for the purposes of care and reception of women and girls and which is not a place of safety; and
+
+(b) to make such inquiry or examination therein as appears to the Board necessary and also to make such report as the Minister may require.
+
+(6) Any person who refuses admittance to any place of safety or any place referred to in subsection (5) to any member of a Board of Visitors, the Director or any officer deputed by the Director for the purpose or who offers any hindrance or obstruction to any such persons after his identity is reasonably established shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
 
 ### Discharge Committees
 
@@ -2484,7 +2814,9 @@ Provided that no woman shall be searched except by a woman.
 
 (2) A Discharge Committee may be appointed in respect of one or more places of safety as the Minister thinks fit.
 
-(3) A Discharge Committee shall consist of 7 persons a majority of whom shall be women.
+(3) A Discharge Committee shall consist of such number of persons as the Minister may determine.
+
+[Subst by Act 30/96 wef 01/05/1997]
 
 (4) The Discharge Committee shall review all cases of women and girls when they have been detained for 6 months, and may, after such review, recommend to the Director that any woman or girl shall be discharged or released on licence.
 
@@ -2518,13 +2850,13 @@ MISCELLANEOUS
 
 (h) the composition, duties, functions, and procedure of Boards of Visitors and Discharge Committees;
 
-(i) the administration of the Po Leung Kuk Fund;
+(i) [Deleted by Act 30/96 wef 01/05/1997]
 
 (j) the procedure for appeals to the Minister; and
 
 (k) matters required to be prescribed under this Act.
 
-(2) All rules made under this Act shall be published in theGazetteand shall be presented to Parliament as soon as possible after publication and if a resolution is passed pursuant to a motion notice whereof has been given for a sitting day not later than the first available sitting day of Parliament next after the expiry of one month from the date when such rules are so presented annulling the rules or any part thereof as from a specified date, the rules or such part thereof, as the case may be, shall thereupon become void as from that date but without prejudice to the validity of anything previously done thereunder or to the making of new rules.
+(2) All rules made under this Act shall be published in theGazetteand shall be presented to Parliament as soon as possible after publication and if a resolution is passed pursuant to a motion notice whereof has been given for a sitting day not later than the first available sitting day of Parliament next after the expiry of one month from the date when such rules are so presented annulling the rules or any part thereof as from a specified date, the rules or such part thereof, as the case may be, shall thereupon become void as from the date but without prejudice to the validity of anything previously done thereunder or to the making of new rules.
 
 (3) Any person who contravenes or fails to comply with any rules made under this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 or to imprisonment for a term not exceeding 6 months or to both.
 
@@ -2552,9 +2884,13 @@ MISCELLANEOUS
 
 (2) The Registrar may require the parties to the marriage to appear before him and to produce such evidence of the marriage, either oral or documentary, as he may require, and to furnish such other particulars as may be required by him.
 
-(3) The Registrar may on being satisfied of the truth of the statements contained in the application register the marriage by entering the particulars thereof in the local marriage register and also in the certificate of marriage attached to the marriage register.
+(3) The Registrar may on being satisfied of the truth of the statements contained in the application register the marriage by entering the particulars thereof in the certificate of marriage.
 
-(4) The entry of the marriage in both the local marriage register and the certificate of marriage shall be signed by the Registrar and the parties to the marriage.
+[Act 30/96]
+
+(4) The entry of the marriage in the certificate of marriage shall be signed by the Registrar and the parties to the marriage.
+
+[Act 30/96 wef 01/05/1997]
 
 (5) The Registrar shall not register a marriage under this section if he is satisfied that the marriage is void under the provisions of this Act.
 
@@ -2584,13 +2920,15 @@ MISCELLANEOUS
 
 [8/75]
 
-### Saving for petitions presented before commencement of Women’s Charter (Amendment) Act 1980\*
+### Saving for petitions presented before commencement of Women’s Charter (Amendment) Act 1980. vide G.N. No. S153/813
 
-185\.—(1) The Women’s Charter (Amendment) Act 1980 (including the repeals and amendments made by it) shall not have effect in relation to any petition for divorce, judicial separation, for a decree of nullity or for a decree of presumption of death and dissolution of the marriage presented before the commencement of that Act\*.
+31st June 1981
 
-\*1st June 1981 vide G.N. No. S153/81.
+185\.—(1) The Women’s Charter (Amendment) Act 1980 (including the repeals and amendments made by it) shall not have effect in relation to any petition for divorce, judicial separation, for a decree of nullity or for a decree of presumption of death and dissolution of the marriage presented before the commencement of that Act. vide G.N. No. S153/81.4
 
-(2) Without prejudice to any provision of this Act, neither collusion nor any other conduct on the part of the petitioner which has at any time been a bar to relief in matrimonial proceedings shall constitute a bar to the grant of a decree nisi of divorce, a decree of judicial separation, a decree of nullity or a decree of presumption of death and dissolution of the marriage, whether the marriage took place, or the proceedings were instituted, before or after 1st June 1981, and the court shall not be required to dismiss an application for a decree nisi of divorce to be made absolute on the ground of collusion between the parties in connection with the presentation or prosecution of the petition for divorce or the obtaining of the decree nisi or on the ground of any conduct on the part of the petitioner.
+41st June 1981
+
+(2) Without prejudice to any provision of this Act, neither collusion nor any other conduct on the part of the petitioner which has at any time been a bar to relief in matrimonial proceedings shall constitute a bar to the grant of a decree nisi of divorce, a decree of judicial separation, a decree of nullity or a decree or presumption of death and dissolution of the marriage, whether the marriage took place, or the proceedings were instituted, before or after 1st June 1981, and the court shall not be required to dismiss an application for a decree nisi of divorce to be made absolute on the ground of collusion between the parties in connection with the presentation or prosecution of the petition for divorce or the obtaining of the decree nisi or on the ground of any conduct on the part of the petitioner.
 
 [169
 
@@ -2598,7 +2936,9 @@ FIRST SCHEDULE
 
 Section 10.
 
-Kindred and affinity prohibited degrees of relationship
+Kindred and Affinity
+
+PROHIBITED DEGREES OF RELATIONSHIP
 
 Mother.
 
@@ -2694,7 +3034,7 @@ Sister’s son.
 
 SECOND SCHEDULE
 
-Consents required to the marriage of a minor
+Consents Required to the Marriage of A Minor
 
 Part I
 
@@ -2704,25 +3044,17 @@ Circumstances
 
 Person or persons whose consent is required
 
-1.
+1. Where both parents are living:
 
-Where both parents are living:
-
-(a)
-
-if parents living together
+(a) if parents living together
 
 both parents;
 
-(b)
-
-if parents are divorced or separated by order of court or by agreement:
+(b) if parents are divorced or separated by order of court or by agreement:
 
 the parent to whom the custody of the minor is committed by order of any court or by the agreement, or, if the custody of the minor is so committed to one parent during part of the year and to the other parent during the rest of the year, both parents;
 
-(c)
-
-if one parent has been deserted by the other:
+(c) if one parent has been deserted by the other:
 
 the parent who has been deserted;
 
@@ -2730,25 +3062,17 @@ if both parents have been deprived of custody of minor by order of court:
 
 the person to whose custody the minor is committed by order of the court.
 
-2.
+2. Where one parent is dead:
 
-Where one parent is dead:
-
-(a)
-
-if there is no other guardian:
+(a) if there is no other guardian:
 
 the surviving parent
 
-(b)
+(b) if a guardian has been appointed by the deceased parent:
 
-if a guardian has been appointed by the deceased parent:
+the surviving parent and the guardian if acting jointly, or the surviving parent or t he guardian if the parent or guardian is the sole guardian of the minor.
 
-the surviving parent and the guardian if acting jointly, or the surviving parent or the guardian if the parent or guardian is the sole guardian of the minor.
-
-3.
-
-Where both parents are dead:
+3. Where both parents are dead:
 
 the guardians or guardian appointed by the deceased parents or by the court under the Guardianship of Infants Act [Cap. 122].
 
@@ -2840,3 +3164,9 @@ This Legislative History is provided for the convenience of users of the Women�
 ||Date of operation|15 August 1981|
 |10.|**1985 Revised Edition—Women’s Charter (Chapter 353)**|
 ||Date of operation|30 March 1987|
+|11.|**Act 16 of 1993—Supreme Court of Judicature (Amendment) Act 1993**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 February 1993|
+|||(Bill No. 12/93 published on 27 February 1993)|
+||Date of Second and Third Readings|12 April 1993|
+||Date of commencement|1 July 1993|
