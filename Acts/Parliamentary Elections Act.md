@@ -2775,3 +2775,8 @@ This Legislative History is provided for the convenience of users of the Parliam
 ||Date of commencement|1 June 1988|
 |32.|**G. N. No. S 146/1988—Parliamentary Elections (Substitution of First Schedule) Regulations 1988**|
 ||Date of commencement|16 June 1988|
+|33.|**Act 11 of 1988—Parliamentary Elections (Amendment No. 2) Act 1988**|
+||Date of First Reading|25 May 1988|
+|||(Bill No. 8/1988 published on 27 May 1988)|
+||Date of Second and Third Readings|28 June 1988|
+||Date of commencement|30 July 1988|
