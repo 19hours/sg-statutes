@@ -36,6 +36,8 @@
 
 - [12 Investment of funds](#Investment-of-funds)
 
+- [12A Issue of shares, etc.](#Issue-of-shares-etc)
+
 - [13 Financial provisions](#Financial-provisions)
 
 - [14 Annual report](#Annual-report)
@@ -443,6 +445,12 @@ the Minister may, after consultation with a person to whom this section applies,
 ### Investment of funds
 
 12\. Money belonging to the Authority may be invested in such funds, securities or investments as may be authorised by the Minister.
+
+### Issue of shares, etc.
+
+12A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Authority under this Act, or of any capital injection or other investment by the Government in the Authority in accordance with any written law, the Authority shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
+
+[5/2002]
 
 ### Financial provisions
 
@@ -1606,3 +1614,10 @@ This Legislative History is provided for the convenience of users of the Singapo
 |||(Bill No. 33/2001 published on 26 September 2001)|
 ||Date of Second and Third Readings|5 October 2001|
 ||Date of commencement|1 July 2002 (Item (12) of the Fourth Schedule – Amendment of Singapore Broadcasting Authority Act)|
+|7.|**Act 5 of 2002—Statutory Corporations (Capital Contribution) Act 2002**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|3 May 2002|
+|||(Bill No. 7/2002 published on 4 May 2002)|
+||Date of Second and Third Readings|24 May 2002|
+||Date of commencement|15 July 2002 (except item (18) of Schedule)|
+|||29 July 2002 (Item (18) of the Schedule)|
