@@ -64,13 +64,15 @@
 
 - [25 Appeal](#Appeal)
 
+- [25A Composition of offences](#Composition-of-offences)
+
 [**Regulations and supplementary provisions**](#Regulations-and-supplementary-provisions)
 
 - [26 Power to make regulations](#Power-to-make-regulations)
 
-- [27 Application of fees and fines](#Application-of-fees-and-fines)
+- [27 Fees to be paid to Authority](#Fees-to-be-paid-to-Authority)
 
-[**THE SCHEDULE**](#THE-SCHEDULE)
+[**THE SCHEDULE Notice of seizure**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -104,13 +106,23 @@ An Act to make better provision for the sale of drugs in a pure state.
 
 [12/73]
 
+“Authority” means the Health Sciences Authority established under the Health Sciences Authority Act 2001;
+
+[4/2001 wef 01/04/2001]
+
+“Chief Executive of the Authority” means the person appointed under section 15 of the Health Sciences Authority Act 2001 to be the Chief Executive of the Authority;
+
+[4/2001 wef 01/04/2001]
+
 “drug” means any substance or mixture of substances used by man as a medicine whether internally or externally, and includes anaesthetics, but does not include such substances or mixtures of substances when sold otherwise than for medicinal purposes, and also includes face powders, dusting powders and toilet preparations whether or not advertised or described as a drug and for whatever purpose sold;
 
 “import”, with its grammatical variations and cognate expressions, means to bring or cause to be brought into Singapore by land, water or air from any place which is outside Singapore but does not include the bringing into Singapore by water or air of any goods which it is proved to be intended to be taken out of Singapore on the same vessel or aircraft on which they were brought into Singapore without any landing or transhipment within Singapore;
 
 “importer” includes any person who, whether as owner, consignee, agent or broker, is in possession of, or is in anyway entitled to the custody or control of, the article;
 
-“officer” means any person appointed an officer for the purpose of this Act by the Minister;
+“officer” means the Chief Executive of the Authority and includes any person who is appointed by him to exercise any of the powers of an officer under this Act;
+
+[4/2001 wef 01/04/2001]
 
 “package” includes every means by which goods for carriage or for sale are cased, covered, enclosed, contained or packed;
 
@@ -122,7 +134,9 @@ Analysts and officers
 
 ### Appointment of analysts and officers
 
-3\.—(1) The Minister may appoint a sufficient number of analysts and officers under this Act and make rules for the conduct of their duties.
+3\.—(1) The Chief Executive of the Authority may appoint a sufficient number of analysts and officers under this Act and make rules for the conduct of their duties.
+
+[4/2001 wef 01/04/2001]
 
 (2) Such analysts and officers shall be deemed to be public servants within the meaning of the Penal Code [Cap. 224].
 
@@ -144,7 +158,9 @@ Analysts and officers
 
 (2) Any person claiming anything seized under this section may within 48 hours after the seizure complain thereof to a Magistrate’s Court, and the complaint may be heard and determined by the Court, which may either confirm or disallow the seizure wholly or in part and may order the article seized to be restored.
 
-(3) If within 48 hours after the seizure no complaint has been made, or if the seizure is confirmed, the article seized shall become the property of the Government and shall be destroyed or otherwise disposed of so as to prevent its being used for human consumption.
+(3) If within 48 hours after the seizure no complaint has been made, or if the seizure is confirmed, the article seized shall be forfeited to the Authority and shall be destroyed or otherwise disposed of so as to prevent its being used for human consumption.
+
+[4/2001 wef 01/04/2001]
 
 (4) Where the seizure of any drug is made under subsection (1)(c), the officer making the seizure shall forthwith give notice in writing of the seizure, in the form set out in the Schedule, to the owner or to the consignor or consignee or to the agent of the owner of the thing seized, if his name and address are attached thereto or are otherwise known to the officer and the address is in Singapore.
 
@@ -166,15 +182,11 @@ Analysts and officers
 
 (4) Any person who refuses or neglects to comply with any demand or requisition made by an officer in pursuance of this section shall be guilty of an offence.
 
-[12/73]
-
 ### Any person may have sample analysed
 
 6\. Any person other than the seller may, on payment of the prescribed fee, together with the cost of the sample, require any officer to purchase a sample of any drug and submit the same for analysis.
 
-[7
-\*
-
+[7\*
 
 \*Section 6 in the 1970 Edition was repealed by Act 12/73.
 
@@ -210,9 +222,11 @@ Analysts and officers
 
 ### Power to call for information
 
-9\.—(1) If, in the opinion of an officer appointed by the Minister for the purposes of this section, there is reasonable ground for suspecting that any person is in possession of any drug or other substance for the purpose of sale or of manufacturing or preparing the drug for sale in breach of this Act, he may require that person to produce for his inspection or to produce to any specially authorised officer any books or documents dealing with the reception, possession, purchase, sale or delivery of any such drug or other substance.
+9\.—(1) If, in the opinion of an officer, there is reasonable ground for suspecting that any person is in possession of any drug or other substance for the purpose of sale or of manufacturing or preparing the drug for sale in breach of this Act, he may require that person to produce for his inspection or to produce to any specially authorised officer any books or documents dealing with the reception, possession, purchase, sale or delivery of any such drug or other substance.
 
 [12/73]
+
+[4/2001 wef 01/04/2001]
 
 (2) Any of the officers mentioned in subsection (1) may make or cause to be made copies of or extracts from any such books or documents.
 
@@ -278,13 +292,17 @@ Provided that if any such offence is committed by the personal act, default or c
 
 ### Forfeiture of drugs upon conviction
 
-13\.—(1) In the case of any conviction under this Act, the Magistrate’s Court may order that any drug to which the conviction relates and any similar drug found on the defendant’s premises or in his possession at the time of the commission of the offence, together with all packages or vessels containing the drug, shall be forfeited to the Government.
+13\.—(1) In the case of any conviction under this Act, the Magistrate’s Court may order that any drug to which the conviction relates and any similar drug found on the defendant’s premises or in his possession at the time of the commission of the offence, together with all packages or vessels containing the drug, shall be forfeited to the Authority.
 
 [12/73]
 
-(2) Everything so forfeited to the Government shall be disposed of as the Minister directs.
+[4/2001 wef 01/04/2001]
+
+(2) Everything so forfeited to the Authority shall be disposed of as the Chief Executive of the Authority directs.
 
 [14
+
+[4/2001 wef 01/04/2001]
 
 ### Notification of conviction in newspapers
 
@@ -320,9 +338,9 @@ Presumptions of Law
 
 (b) in the case of any sale by an agent or employee, his principal or employer shall be under the same liability as if he had effected the sale personally.
 
-[18 in the 1970 Edition was repealed by Act 12/73.\*
+[18\*
 
-\*Section 17
+\*Section 17 in the 1970 Edition was repealed by Act 12/73.
 
 [12/73]
 
@@ -416,17 +434,25 @@ Legal proceedings and evidence
 
 24\.—(1) When any person is convicted of an offence under this Act, the Magistrate’s Court may order that all fees and other expenses incident to the analysis of any drug in respect of which the conviction is obtained, including an analysis made under section 22, and any other reasonable expenses incurred by the prosecution, shall be paid by the person convicted.
 
+[12/73]
+
 (2) All such fees and expenses shall be recoverable in the same manner as a fine is recoverable.
 
 [26
-
-[12/73]
 
 ### Appeal
 
 25\. Any person aggrieved by any sentence or order under this Act passed or made by a Magistrate’s Court may appeal therefrom to the High Court.
 
 [27
+
+### Composition of offences
+
+25A\.—(1) The Chief Executive or any employee of the Authority authorised by him in writing may, in his discretion, compound any offence under this Act or any regulations made thereunder which is prescribed as a compoundable offence by collecting from the person reasonably suspected of committing an offence a sum not exceeding $500.
+
+(2) The Minister may make regulations prescribing the offences which may be compounded under this section.
+
+[4/2001 wef 01/04/2001]
 
 Regulations and supplementary provisions
 
@@ -472,18 +498,41 @@ Regulations and supplementary provisions
 
 [28
 
-### Application of fees and fines
+### Fees to be paid to Authority
 
-27\. All fees received under this Act by any analyst shall be paid into the Consolidated Fund.
+27\. All fees, charges and other moneys recovered or collected by an officer or an analyst under this Act or any regulations made thereunder shall be paid to the Authority.
 
-[29
+[4/2001 wef 01/04/2001]
 
 ## THE SCHEDULE
 
-Notice of seizure under Section 4(1)(c) of the
-Sale of Drugs Act (Chapter 282).
+Notice of seizure
 
-[12/73]
+UNDER SECTION 4 (1) (c) OF THE SALE OF DRUGS ACT (CHAPTER 282).
+
+To:
+
+…………………………..
+
+…………………………..
+
+Take notice under section 4(4) of the Sale of Drugs Act that the under-mentioned goods ………………………………………………………………… ……………………………………………………………………………………. ……………………………………………………………………………………. lying at …………………………………………………………………………… ……………………………………………………………………………………. which have been placed under seal under section 4(1)(b) of the Sale of Drugs Act were seized by me at ………………………………………………………… …………….. on the ……….. day of …………………………….. under section 4(1)(c) of the Act.
+
+Should you have any reason to claim these goods you may complain to a Magistrate’s Court under section 4(2) of the Sale of Drugs Act within 48 hours of the time of seizure, failing which these articles will be forfeited to the Authority and will be destroyed or otherwise disposed of so as to prevent their being used for human consumption.
+
+Dated this …………….. day of …………… 19 …….
+
+…………………………..
+Officer under the
+Sale of Drugs Act
+
+How served ……………
+
+When served …………..
+
+By whom served ………
+
+[4/2001 wef 01/04/2001]
 
 ## LEGISLATIVE HISTORY
 
@@ -491,7 +540,7 @@ Sale of Drugs Act
 
 (CHAPTER 282)
 
-This Legislative History is provided for the convenience of users of the Sale of Drugs Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Sale of Drugs Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -540,3 +589,9 @@ This Legislative History is provided for the convenience of users of the Sale of
 ||Date of commencement|1 May 1973|
 |15.|**1985 Revised Edition—Sale of Drugs Act (Chapter 282)**|
 ||Date of operation|30 March 1987|
+|16.|**Act 4 of 2001—Health Sciences Authority Act 2001**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|12 January 2001|
+|||(Bill No. 3/2001 published on 13 January 2001)|
+||Date of Second and Third Readings|22 February 2001|
+||Date of commencement|1 April 2001|
