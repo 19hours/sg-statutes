@@ -90,6 +90,8 @@
 
 - [33 Powers of board, etc., not affected by vacancy, etc.](#Powers-of-board-etc-not-affected-by-vacancy-etc)
 
+- [33A Standard investment power of statutory bodies](#Standard-investment-power-of-statutory-bodies)
+
 - [34 Signification of orders, etc., of President](#Signification-of-orders-etc-of-President)
 
 - [35 Signification of orders, etc., of Minister](#Signification-of-orders-etc-of-Minister)
@@ -796,6 +798,16 @@ POWERS AND APPOINTMENTS
 
 (c) the fact that there was any minor irregularity in the convening of any meeting thereof.
 
+### Standard investment power of statutory bodies
+
+33A\. Where any written law confers on a statutory body the power to invest any moneys in accordance with the standard investment power of statutory bodies, then, subject to any general or special directions as the Minister charged with responsibility for that statutory body may issue, that statutory body may —
+
+(a) invest those moneys in such manner as it thinks fit; and
+
+(b) engage in any financial activity or participate in any financial arrangement for the purpose of managing or hedging against any financial risk that arises or is likely to arise from such investment.
+
+[45/2004 wef 15/12/2004]
+
 ### Signification of orders, etc., of President
 
 34\.—(1) Where any power is conferred upon the President to make any subsidiary legislation or appointment, give any direction, issue any order, authorise any thing or matter to be done, grant any exemption, remit any fee or penalty or exercise any other power under any written law, it shall be sufficient if the exercise of such power by the President be signified under the hand of any Minister or the Secretary to the Cabinet.
@@ -1059,6 +1071,11 @@ This Legislative History is provided for the convenience of users of the Interpr
 |||(Bill No. 7/2003 published on 21 March 2003)|
 ||Date of Second and Third Readings|24 April 2003|
 ||Date of commencement|16 May 2003|
+|19.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
+||Date of First Reading|21 September 2004|
+|||(Bill No. 43/2004 published on 22 September 2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|15 December 2004|
 ## COMPARATIVE TABLE
 
 Interpretation Act
