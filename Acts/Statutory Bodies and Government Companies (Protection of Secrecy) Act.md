@@ -128,6 +128,12 @@ Jurong Town Corporation
 
 Jurong Town Corporation Act (Chapter 150).
 
+9A.
+
+Maritime and Port Authority of Singapore
+
+Maritime and Port Authority of Singapore Act 1996
+
 10.
 
 Land Transport Authority of Singapore
@@ -201,6 +207,8 @@ Urban Redevelopment Authority
 Urban Redevelopment Authority Act (Chapter 340).
 
 [29/1995 wef 01/09/1995]
+
+[7/1996 wef 02/01/1996]
 
 Part II
 
@@ -303,3 +311,9 @@ This Legislative History is provided for the convenience of users of the Statuto
 ||Date of commencement|1 September 1995|
 |16.|**G. N. No. S 565/1995—Statutory Bodies and Government Companies (Protection of Secrecy) Act (Amendment of Schedule) Notification 1995**|
 ||Date of commencement|22 December 1995|
+|17.|**Act 7 of 1996—Maritime and Port Authority of Singapore Act 1996**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|5 December 1995|
+|||(Bill No. 41/1995 published on 6 December 1995)|
+||Date of Second and Third Readings|18 January 1996|
+||Date of commencement|2 February 1996|
