@@ -140,6 +140,10 @@ An Act for the collection of Cess by the Singapore Tourist Promotion Board.
 
 a cess at the rate set out in the First Schedule.
 
+(1A) For the purposes of subsection (1), the “total amount” shall exclude the amount of goods and services tax charged on the supply of any private lottery or the operation of any fruit machine, as the case may be.
+
+[31/1993 wef 26/11/1993]
+
 (2) Subsection (1)(b) shall not apply to —
 
 (a) sales made, or charges levied or collected for services rendered, by a shop or office which is situated within a tourist public house and does not have the facilities for the preparation of cooked food for sale.
@@ -423,3 +427,11 @@ This Legislative History is provided for the convenience of users of the Tourist
 ||Date of commencement|1 April 1991|
 |7.|**G. N. No. S 82/1992—Tourist Promotion (Cess Collection) Act (Variation) Order 1992**|
 ||Date of commencement|1 April 1992|
+|8.|**Act 31 of 1993—Goods and Services Tax Act 1993**|
+||(Consequential amendments made by)||
+||Date of First Reading|26 February 1993|
+|||(Bill No. 14/93 published on 27 February 1993)|
+||Date of Second Reading|19 March 1993|
+||Date Committed to Select Committee|Parl 4 of 1993 presented to Parliament on 7 September 1993|
+||Date of Third Reading|12 October 1993|
+||Date of commencement|26 November 1993 (except para (3) of Fifth Schedule)|
