@@ -72,8 +72,6 @@
 
 - [26 Disqualification for practising certificate](#Disqualification-for-practising-certificate)
 
-- [27 Register of practitioners](#Register-of-practitioners)
-
 - [28 Cancellation of practising certificates](#Cancellation-of-practising-certificates)
 
 [**Part IV PRIVILEGES OF ADVOCATES AND SOLICITORS**](#Part-IV)
@@ -189,6 +187,8 @@
 - [74 Intervention in solicitor’s practice](#Intervention-in-solicitor’s-practice)
 
 - [75 Compensation fund](#Compensation-fund)
+
+- [75A Professional indemnity](#Professional-indemnity)
 
 - [76 Solicitors who are commissioners for oaths or notaries public](#Solicitors-who-are-commissioners-for-oaths-or-notaries-public)
 
@@ -588,11 +588,9 @@ Provided that no person who is a qualified person by reason of his having passed
 
 13\.—(1) For the purposes of this Part, a qualified person shall during his period of pupillage be known as a pupil and a person with whom a pupil serves his period of pupillage or any part thereof shall be known as a master.
 
-(2) Subject to this section and section 14, the prescribed period of pupillage shall be —
+(2) Subject to this section and section 14, the prescribed period of pupillage shall be 6 months.
 
-(a) six months where the master satisfies the requirements of section 13(1)(a); and
-
-(b) three years where the master satisfies the requirements of section 13(1)(b).
+[Act 10 of 1991 wef 01/02/1991]
 
 (3) A pupil shall before his petition is heard attend and satisfactorily complete a course of instruction organised or recognised by the Board for the purposes of this section unless exempted therefrom under section 12(2).
 
@@ -612,13 +610,19 @@ Provided that this subsection shall not —
 
 14\.—(1) A pupil shall subject to the approval of the Board serve his prescribed period of pupillage —
 
-(a) with an advocate and solicitor who is and has been in active practice in Singapore for a total of not less than 5 out of the 7 years immediately preceding the relevant date;
+(a) with an advocate and solicitor in active practice in Singapore of not less than 5 years’ standing who for a total of not less than 5 out of the 7 years immediately preceding the relevant date has been in such practice or has been a legal officer or both;
 
-(b) with any legal officer in Singapore who is an advocate and solicitor of not less than 7 years’ standing; or
+[Act 10 of 1991 wef 01/02/1991]
+
+(b) with any legal officer in Singapore who is an advocate and solicitor of not less than 5 years’ standing who for 5 out of the 7 years immediately preceding the relevant date has been a legal officer or has been in active practice in Singapore or both; or
+
+[Act 10 of 1991 wef 01/02/1991]
 
 (c) partly with an advocate and solicitor under paragraph (a) and partly with a legal officer under paragraph (b).
 
-(2) In any case where subsection (1)(c) applies, 6 months’ pupillage with a legal officer shall count as one month’s period of pupillage with an advocate and solicitor.
+(2) In any case where subsection (1)(c) applies, pupillage with a legal officer shall be counted as equal to pupillage with an advocate and solicitor.
+
+[Act 10 of 1991 wef 01/02/1991]
 
 (3) The Board may approve a request that a qualified person serve different parts of his period of pupillage with different masters.
 
@@ -736,13 +740,15 @@ Provided that this subsection shall not —
 
 ### Ad hoc admissions
 
-21\.—(1) Notwithstanding anything to the contrary in this Act, the court may for the purpose of any one case admit to practise as an advocate and solicitor any person —
+21\.—(1) Notwithstanding anything to the contrary in this Act, the court may, for the purpose of any one case where the court is satisfied that it is of sufficient difficulty and complexity and having regard to the circumstances of the case, admit to practise as an advocate and solicitor any person who —
 
-(a) who holds Her Majesty’s Patent as Queen’s Counsel;
+(a) holds Her Majesty’s Patent as Queen’s Counsel;
 
-(b) who does not ordinarily reside in Singapore or Malaysia but who has come or intends to come to Singapore for the purpose of appearing in the case; and
+(b) does not ordinarily reside in Singapore or Malaysia but who has come or intends to come to Singapore for the purpose of appearing in the case; and
 
-(c) who has special qualifications or experience for the purpose of the case.
+(c) has special qualifications or experience for the purpose of the case.
+
+[Act 10 of 1991 wef 01/02/1991]
 
 (2) Any person applying to be admitted under this section shall do so by originating motion verified by an affidavit of the applicant or of the advocate and solicitor instructing him stating the names of the parties and brief particulars of the case in which the applicant intends to appear and the originating motion and affidavit or affidavits shall be served on the Attorney-General, the Society and the other party or parties to the case and at the time of the service the applicant shall pay a fee of $100 to the Society for its costs incurred in the application.
 
@@ -828,7 +834,15 @@ PRACTISING CERTIFICATES
 
 (iii) the principal and any other address or addresses at which he practises in Singapore;
 
-(b) a certificate from the Council or such other evidence as the Registrar may require that he is not in arrears in respect of any contribution to the Compensation Fund, subscription or levy lawfully due to the Society under the provisions of this Act and that he has paid all the contributions and subscriptions payable prior to the issue of a practising certificate pursuant to sections 46 and 75;
+(b) a certificate from the Council or such other evidence as the Registrar may require that —
+
+(i) he is not in arrears in respect of any contribution to the Compensation Fund, subscription or levy lawfully due to the Society under the provisions of this Act;
+
+(ii) he has paid all the contributions and subscriptions payable prior to the issue of a practising certificate pursuant to sections 46 and 75; and
+
+(iii) he has complied with or is exempt from the rules relating to professional indemnity made under section 75A;
+
+[Act 10 of 1991 wef 01/02/1991]
 
 (c) an accountant’s report pursuant to section 73 or a certificate from the Council that owing to the circumstances of his case such a report is unnecessary; and
 
@@ -866,19 +880,15 @@ Provided that where the name of a solicitor is removed from or struck off the ro
 
 (f) if he has one or more outstanding judgments against him amounting in the aggregate to $100,000 or more which he has been unable to satisfy within 6 months from the date of the earliest judgment.
 
+(1A) Notwithstanding anything in subsection (1), any solicitor who has held office as a judge of the Supreme Court for a period of 3 years or more shall on application be issued a practising certificate enabling him to practise as a solicitor, but without the right of audience in any court of justice in Singapore.
+
+[Act 10 of 1991 wef 01/02/1991]
+
 (2) Subsection (1) shall not apply to a solicitor employed by any statutory board or authority or a member of the legal service if the Attorney-General issues a certificate under his hand certifying that the solicitor is so employed and specifying therein the matters in which the solicitor so employed may appear and plead in courts of law, and upon the solicitor otherwise complying with the provisions of this Act the Registrar shall issue to him a practising certificate specifying therein the matters in which he may appear and plead as contained in the Attorney-General’s certificate.
 
 (3) A practising certificate issued to a solicitor shall cease to have effect when he ceases to practise or he ceases to be employed as provided in this section.
 
 [25
-
-### Register of practitioners
-
-27\.—(1) Upon the issue of every practising certificate, the Registrar shall cause to be entered in an annual register kept for that purpose (referred to in this Act as the register of practitioners) the particulars as contained in the declaration delivered under section 25(1)(a) and any person may inspect the register of practitioners during office hours without payment.
-
-(2) If there is any change with respect to any solicitor in the particulars referred to in subsection (1), that solicitor shall within one week thereafter notify the Registrar and the Council and the Registrar shall thereupon cause the entry in respect of that solicitor in the register of practitioners to be amended.
-
-[26
 
 ### Cancellation of practising certificates
 
@@ -1699,6 +1709,48 @@ Provided that no grant shall be made under this section in respect of any loss d
 
 [72
 
+### Professional indemnity
+
+75A\.—(1) The Council may make rules concerning indemnity against loss arising from claims in respect of civil liability incurred —
+
+(a) by an advocate and solicitor or former advocate and solicitor in connection with his practice or with any trust of which he is or formerly was a trustee; and
+
+(b) by an employee or former employee of an advocate and solicitor or former advocate and solicitor in connection with that advocate and solicitor’s practice or with any trust of which that advocate and solicitor or the employee is or formerly was a trustee.
+
+(2) For the purposes of providing such indemnity, such rules may —
+
+(a) authorise or require the Society to establish and maintain one or more funds;
+
+(b) authorise or require the Society to take out and maintain insurance with authorised insurers; or
+
+(c) require all advocates and solicitors making application for a practising certificate to take out and maintain insurance with authorised insurers.
+
+(3) Without prejudice to the generality of subsections (1) and (2), such rules may —
+
+(a) specify the terms and conditions on which indemnity is to be available, and any circumstances in which the right to it is to be excluded or modified;
+
+(b) provide for the management, administration and protection of any fund maintained by virtue of subsection (2)(a) and require all advocates and solicitors who have in force practising certificates to make payment to any such fund;
+
+(c) require all advocates and solicitors who have in force practising certificates to make payments by way of premium on any insurance policy maintained by the Society by virtue of subsection (2)(b);
+
+(d) prescribe the conditions which an insurance policy must satisfy for the purposes of subsection (2)(c);
+
+(e) authorise the Council to determine the amount of any premiums or payments required by such rules, subject to such limits, or in accordance with such provisions, as may be prescribed by those rules;
+
+(f) specify circumstances in which, where an advocate and solicitor for whom indemnity is provided has failed to comply with such rules or to make payment for such indemnity, the Society or the insurers may take proceedings against him in respect of sums paid by way of indemnity in connection with a matter in relation to which he has failed to comply;
+
+(g) specify the circumstances in which advocates and solicitors are exempt from such rules; and
+
+(h) empower the Council to take such steps as it considers necessary or expedient to ascertain whether or not the rules are being complied with.
+
+(4) Rules made under this section shall not come into operation until they have been approved by the Chief Justice who may if he thinks fit consult any of the other judges before giving his approval.
+
+(5) The Society shall have power to carry into effect any arrangements which it considers necessary or expedient for the purpose of providing indemnity under this section.
+
+(6) Nothing in this section shall affect the right of any advocate and solicitor, in addition to the indemnity provided in rules made under this section, to insure himself further against loss arising from such claims as may be instituted against him.
+
+[Act 10 of 1991 wef 01/02/1991]
+
 ### Solicitors who are commissioners for oaths or notaries public
 
 76\. No solicitor who is a commissioner for oaths or a notary public shall do any act as such commissioner or notary, as the case may be, unless he has in force a practising certificate.
@@ -1761,7 +1813,9 @@ Provided that no grant shall be made under this section in respect of any loss d
 
 ### Acting for housing developer and purchaser prohibited
 
-79\.—(1) Where a solicitor acts for a housing developer in a sale of immovable property developed under a housing development neither he nor a member nor an assistant of the firm of which he is a member either as partner or employee shall in the same transaction act for the purchaser of that property unless a certificate of fitness for occupation in respect thereof has been issued by the Chief Building Surveyor or other relevant authority.
+79\.—(1) Where a solicitor acts for a housing developer in a sale of immovable property developed under a housing development neither he nor a member nor an assistant of the firm of which he is a member either as partner or employee shall in the sale of any immovable property developed under the same housing development act for the purchaser of the property unless a certificate of fitness for occupation in respect thereof has been issued by the Chief Building Surveyor or other relevant authority.
+
+[Act 10 of 1991 wef 01/02/1991]
 
 (2) In subsection (1) —
 
@@ -2896,3 +2950,8 @@ This Legislative History is provided for the convenience of users of the Legal P
 ||Date of commencement|21 April 1989|
 |16.|**1990 Revised Edition—Legal Profession Act (Chapter 161)**|
 ||Date of operation|20 December 1990|
+|17.|**Act 10 of 1991—Legal Profession (Amendment) Act 1991**|
+||Date of First Reading|3 January 1991|
+|||(Bill No. 3/91 published on 4 January 1991)|
+||Date of Second and Third Readings|14 January 1991|
+||Date of commencement|1 February 1991|
