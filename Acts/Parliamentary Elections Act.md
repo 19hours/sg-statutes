@@ -2799,3 +2799,8 @@ This Legislative History is provided for the convenience of users of the Parliam
 |||(Bill No. 21/1991 published on 29 June 1991)|
 ||Date of Second and Third Readings|29 July 1991|
 ||Date of commencement|2 November 1991|
+|39.|**Act 21 of 1991—Parliamentary Elections (Amendment No. 2) Act 1991**|
+||Date of First Reading|7 May 1991|
+|||(Bill No. 18/1991 published on 8 May 1991)|
+||Date of Second and Third Readings|28 June 1991|
+||Date of commencement|14 December 1991 (sections 4 and 8)|
