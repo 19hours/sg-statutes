@@ -56,6 +56,8 @@
 
 - [20 Power to borrow](#Power-to-borrow)
 
+- [20A Issue of shares, etc.](#Issue-of-shares-etc)
+
 - [21 Other financial provisions](#Other-financial-provisions)
 
 [**Part VI TRANSFER OF PROPERTY, ASSETS, LIABILITIES AND EMPLOYEES**](#Part-VI)
@@ -394,6 +396,12 @@ FINANCIAL PROVISIONS
 
 20\. The Agency may for the purposes of discharging its functions raise loans from the Government or, with the approval of the Minister for Finance or such person as he may appoint, from any other source.
 
+### Issue of shares, etc.
+
+20A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Agency under this Act, or of any capital injection or other investment by the Government in the Agency in accordance with any written law, the Agency shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
+
+[5/2002 wef 15/07/2002]
+
 ### Other financial provisions
 
 21\. The financial provisions set out in the Second Schedule shall apply to the Agency.
@@ -657,3 +665,10 @@ This Legislative History is provided for the convenience of users of the Defence
 ||Date of commencement|15 March 2000|
 |2.|**2001 Revised Edition—Defence Science and Technology Agency Act**|
 ||Date of operation|31 December 2001|
+|3.|**Act 5 of 2002—Statutory Corporations (Capital Contribution) Act 2002**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|3 May 2002|
+|||(Bill No. 7/2002 published on 4 May 2002)|
+||Date of Second and Third Readings|24 May 2002|
+||Date of commencement|15 July 2002|
+|||(Item (7) of Schedule — Amendment of Defence Science and Technology Agency Act)|
