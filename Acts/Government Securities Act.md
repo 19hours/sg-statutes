@@ -1,16 +1,14 @@
-**Government Securities Act 1992**
+**Government Securities Act**
 
-**(No. 1 of 1992)**
+**(CHAPTER 121A)**
 
 **Table of Contents**
 
 [**Long Title**](#Government-Securities-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -86,47 +84,29 @@
 
 - [31 Regulations](#Regulations)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Government Securities Act
 
-ACTS SUPPLEMENT
+(CHAPTER 121A)
 
-Published by Authority
+(Original Enactment: Act 1 of 1992)
 
-NO. 1]
+REVISED EDITION 1993
 
-Friday, March 6
-
-[1992
-
-The following Act was passed by Parliament on 27th February 1992 and assented to by the President on 2nd March 1992:—
-
-Government Securities Act 1992
-
-(No. 1 of 1992)
-
-I assent.
-
-WEE KIM WEE
-
-President.
-
-2nd March 1992.
-
-Date of Commencement: 6th March 1992
+(15th March 1993)
 
 An Act to establish and regulate the Government Securities Fund and to provide for the borrowing of moneys by the issue of Government securities in Singapore.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[6th March 1992]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Government Securities Act 1992 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Government Securities Act.
 
 ### Interpretation
 
@@ -134,7 +114,7 @@ PRELIMINARY
 
 “advance deposits” means such deposits as are received under section 27;
 
-“Authority” means the Monetary Authority of Singapore established under the Monetary Authority of Singapore Act (Cap. 186);
+“Authority” means the Monetary Authority of Singapore established under the Monetary Authority of Singapore Act [Cap. 186];
 
 “bearer bonds” means bearer bonds issued under Part IV;
 
@@ -150,7 +130,7 @@ PRELIMINARY
 
 “stocks” means stocks issued under Part IV;
 
-“trustee stock” means any of the securities mentioned in the Trustees Act (Cap. 337) in which trustees may invest .
+“trustee stock” means any of the securities mentioned in the Trustees Act [Cap. 337] in which trustees may invest.
 
 ## PART II
 
@@ -162,6 +142,10 @@ ESTABLISHMENT AND REGULATION OF GOVERNMENT SECURITIES FUND
 
 (a) all sums representing the proceeds of loans raised or advance deposits accepted under this Act;
 
+(aa) all sums representing the proceeds of loans raised under the Local Treasury Bills Act [Cap. 167] on or after the commencement of the Local Treasury Bills (Amendment) Act 1996;
+
+[Act 9/96 wef 01/04/1996 vide S 89/96]
+
 (b) all moneys from time to time authorised to be paid into the Government Securities Fund by this Act or any other written law; and
 
 (c) all income from the investment of moneys in the Government Securities Fund authorised to be made by this Act, and all profits arising from the realisation of any such investments.
@@ -170,7 +154,7 @@ ESTABLISHMENT AND REGULATION OF GOVERNMENT SECURITIES FUND
 
 ### Application of moneys in Government Securities Fund
 
-4\.—(1) The Minister may at any time apply all or any part of the moneys in the Government Securities Fund to the purchase of trustee stock or of any other stock, fund, security or investment mentioned in section 7(3) of the Financial Procedure Act (Cap. 109), except any stock, bond, fund or security issued by the Government.
+4\.—(1) The Minister may at any time apply all or any part of the moneys in the Government Securities Fund to the purchase of trustee stock or of any other stock, fund, security or investment mentioned in section 7(3) of the Financial Procedure Act [Cap. 109], except any stock, bond, fund or security issued by the Government.
 
 (2) Nothing in subsection (1) shall prohibit the conversion of advance deposits to Government securities issued under this Act.
 
@@ -186,7 +170,9 @@ ESTABLISHMENT AND REGULATION OF GOVERNMENT SECURITIES FUND
 
 (ii) the investment and management of moneys in any sinking fund created,
 
-under this Act and any other written law authorising moneys borrowed to be paid into the Government Securities Fund,
+ under this Act, under the Local Treasury Bills Act on or after the commencement of the Local Treasury Bills (Amendment) Act 1996, and under any other written law authorising moneys borrowed to be paid into the Government Securities Fund,
+
+[Act 9/96 wef 01/04/1996]
 
 shall be charged upon and payable out of the Government Securities Fund.
 
@@ -194,7 +180,11 @@ shall be charged upon and payable out of the Government Securities Fund.
 
 6\. Where the moneys in the Government Securities Fund are insufficient —
 
-(a) to repay any principal sum or interest payable on any Government securities issued or advance deposits accepted under this Act; or
+(a) to repay any principal sum or interest payable on any Government securities issued or advance deposits accepted under this Act;
+
+(aa) to repay any principal sum payable on any Treasury Bill or book-entry Treasury Bill issued under the Local Treasury Bills Act [Cap. 167] on or after the commencement of the Local Treasury Bills (Amendment) Act 1996;
+
+[Act 9/96 wef 01/04/1996]
 
 (b) to meet any other obligation arising from this Act or any other written law,
 
@@ -206,7 +196,7 @@ at the time when they become due, the deficiency shall be charged upon and payab
 
 ### Application of Financial Procedure Act
 
-8\. Sections 6 and 13 of the Financial Procedure Act (Cap. 109) shall not apply to any loan raised under the provisions of this Act or to moneys in the Government Securities Fund.
+8\. Sections 6 and 13 of the Financial Procedure Act [Cap. 109] shall not apply to any loan raised under the provisions of this Act or to moneys in the Government Securities Fund.
 
 ### Withdrawal of moneys from Government Securities Fund
 
@@ -330,7 +320,7 @@ BOOK-ENTRY GOVERNMENT SECURITIES
 
 21\.—(1) The Authority shall not be liable for conversion or for participation in any breach of fiduciary duty where the Authority has, in respect of book-entry Government securities maintained in accounts maintained by the Authority, effected pledges or made entries regarding the securities, or transferred or delivered the securities, according to the instructions of its depositor notwithstanding that the depositor had no right to dispose of or take any other action in respect of the securities.
 
-(2) The Authority shall be fully discharged of its obligations under this Part by the transfer or delivery of book-entry Government securities upon the instructions of its depositor.
+(2) The Authority shall be fully discharged of its obligations under this Part by the transfer or delivery of book entry Government securities upon the instructions of its depositor.
 
 ### Confirmation of transaction
 
@@ -358,7 +348,7 @@ PROVISIONS RELATING TO INTEREST PAYMENTS ON AND REDEMPTION OF GOVERNMENT SECURIT
 
 Provided that the total amount in the sinking fund shall not exceed the outstanding principal sums payable on such Government securities.
 
-(2) The Minister may at any time apply all or any part of the moneys in the sinking fund to the purchase of trustee stock or of any other stock, bond, fund or security or investment mentioned in section 7(3) of the Financial Procedure Act (Cap. 109), except any stock, bond, fund or security issued by the Government under any written law.
+(2) The Minister may at any time apply all or any part of the moneys in the sinking fund to the purchase of trustee stock or of any other stock, bond, fund or security or investment mentioned in section 7(3) of the Financial Procedure Act [Cap. 109], except any stock, bond, fund or security issued by the Government under any written law.
 
 (3) All income from investments of moneys in the sinking fund and all profits arising from the realisation of any such investments shall be paid into the sinking fund.
 
@@ -392,7 +382,7 @@ ADVANCE DEPOSITS
 
 ### Saving
 
-29\. All advance deposits accepted by the Authority before the commencement of this Act (Cap. 81A) under the Development Loan (1987) Act in excess of the limit prescribed in section 3 of that Act shall be deemed to have been lawfully accepted as advance deposits under this Act on the date of such commencement.
+29\. All advance deposits accepted by the Authority before 6th March 1992 under the Development Loan (1987) Act in excess of the limit prescribed in section 3 of that Act shall be deemed to have been lawfully accepted as advance deposits under this Act on that date.
 
 ## PART VIII
 
@@ -416,3 +406,20 @@ GENERAL
 
 (2) The Authority may, with the approval of the Minister, by notification in theGazette, vary the regulations in relation to any particular issue of Government securities issued or advance deposits accepted under this Act.
 
+## LEGISLATIVE HISTORY
+
+Government Securities Act
+
+(CHAPTER 121A)
+
+This Legislative History is provided for the convenience of users of the Government Securities Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 1 of 1992—Government Securities Act 1992**|
+||Date of First Reading|13 January 1992|
+|||(Bill No. 2/92 published on 14 February 1992)|
+||Date of Second and Third Readings|27 February 1992|
+||Date of commencement|6 March 1992|
+|2.|**1993 Revised Edition—Government Securities Act (Chapter 121A)**|
+||Date of operation|15 March 1993|
