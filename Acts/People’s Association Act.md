@@ -84,7 +84,7 @@ An Act to incorporate the People’s Association for promoting community recreat
 
 (2) There shall be a Secretary-Treasurer, who shall be a person appointed by the Chairman from among the members appointed under subsection (1)(c).
 
-(3) The President may, from time to time, by notification in theGazette—
+(3) The Board may, from time to time, by notification in theGazette—
 
 (a) vary the number of its members and provide in what manner additional members, if any, shall be appointed; and
 
@@ -156,17 +156,19 @@ and any person appointed under paragraph (a) or (b) shall hold office for so lon
 
 (b) the establishment of such institutions as may be necessary for the purpose of leadership training in order to instil in leaders a sense of national identity and a spirit of dedicated service to a multiracial community;
 
+[Act 39/96]
+
 (c) the fostering of community bonding and strengthening of social cohesion amongst the people of Singapore;
 
-[Act 39/1996 wef 06/12/1996]
+[Subst. by Act 39/96 wef 06/12/1996 vide S 502/96]
 
 (d) the performance of such other functions as may be conferred upon the Association by any written law; and
 
-[Act 39/1996 wef 06/12/1996]
+[Act 39/96 wef 06/12/1996 vide S 502/96]
 
 (e) the carrying out of such activities as appear to the Board to be advantageous towards, or necessary or convenient for, the furtherance of the objects of the Association as set out in paragraphs (a) to (d).
 
-[Act 39/1996 wef 06/12/1996]
+[Act 39/96 wef 06/12/1996 vide S 502/96]
 
 (2) In order to achieve the objects set out in subsection (1), the Board may —
 
@@ -204,7 +206,7 @@ and any person appointed under paragraph (a) or (b) shall hold office for so lon
 
 for anything which is in good faith done or intended to be done in the execution or purported execution of this Act.
 
-[Act 39/1996 wef 06/12/1996]
+[Act 39/96 wef 06/12/1996]
 
 ### Execution of documents
 
@@ -288,407 +290,197 @@ Section 4.
 
 Consultant Organisations
 
-1. 
+1. Alumni International Singapore.
 
-Alumni International Singapore.
+1A. Association for Gifted Children (Singapore).
 
-1A. 
+2. Association of Nanyang University Graduates.
 
-Association for Gifted Children (Singapore).
+3. Basketball Association of Singapore.
 
-[S 552/1995 wef 06/12/1995]
+4. Boys’ Brigade in Singapore.
 
-2. 
+5. Central Council of Malay Cultural Organisations (Majlis Pusat Pertubuhan-Pertubuhan Budaya Melayu).
 
-Association of Nanyang University Graduates.
+6. Chinese Calligraphy Society of Singapore.
 
-3. 
+7. Chinese Dance Artistes’ Association.
 
-Basketball Association of Singapore.
+8. Chinese Theatre Circle.
 
-4. 
+9. Er Woo Amateur Musical and Dramatic Association.
 
-Boys’ Brigade in Singapore.
+10. Football Association of Singapore.
 
-5. 
+11. Girls’ Brigade, Singapore.
 
-Central Council of Malay Cultural Organisations (Majlis Pusat Pertubuhan-Pertubuhan Budaya Melayu).
+11A. Hindi Society (Singapore).
 
-6. 
+12. Institute of Technical Education, Singapore.
 
-Chinese Calligraphy Society of Singapore.
+13. Jogging Association of Singapore.
 
-7. 
+14. Malay Youth Literary Association (Persatuan Persuratan Pemuda Pemudi Melayu).
 
-Chinese Dance Artistes’ Association.
+15. Metro Philharmonic Society.
 
-8. 
+16. Metropolitan Young Men’s Christian Association of Singapore.
 
-Chinese Theatre Circle.
+17. Nanyang Academy of Fine Arts.
 
-9. 
+18. Nanyang Technological University Students’ Union.
 
-Er Woo Amateur Musical and Dramatic Association.
+19. National Council of Social Service.
 
-10. 
+20. National Trades Union Congress.
 
-Football Association of Singapore.
+21. National University of Singapore Society.
 
-11A. 
+22. National University of Singapore Students’ Union.
 
-Hindi Society (Singapore).
+23. Deleted by S 21/95 wef 12.1.95
 
-[S 293/1994 wef 27/06/1994]
+24. Ngee Ann Polytechnic Students’ Union.
 
-11. 
+25. Perinatal Society of Singapore.
 
-Girls’ Brigade, Singapore.
+26. Perkumpulan Seni (Arts Group).
 
-12. 
+27. Deleted by S 381/96 wef 19.8.96.
 
-Institute of Technical Education, Singapore.
+28. Radio Modellers Singapore.
 
-13. 
+29. St. John Ambulance.
 
-Jogging Association of Singapore.
+30. Singapore Action Group of Elders.
 
-14. 
+31. Singapore Amateur Athletic Association.
 
-Malay Youth Literary Association (Persatuan Persuratan Pemuda Pemudi Melayu).
+32. Singapore Amateur Boxing Association.
 
-[S 398/1994 wef 28/09/1994]
+33. Singapore Amateur Cycling Association.
 
-15. 
+34. Singapore Amateur Gymnastic Association.
 
-Metro Philharmonic Society.
+35. Singapore Amateur Sepak Takraw Association.
 
-16. 
+36. Singapore Amateur Swimming Association.
 
-Metropolitan Young Men’s Christian Association of Singapore.
+37. Singapore Amateur Weightlifting Federation.
 
-17. 
+38. Singapore Arts Federation.
 
-Nanyang Academy of Fine Arts.
+39. Singapore Art Society.
 
-18. 
+40. Singapore Badminton Association.
 
-Nanyang Technological University Students’ Union.
+41. Singapore Ballet Academy.
 
-[S 398/1994 wef 28/09/1994]
+42. Singapore Bodybuilders Federation.
 
-19. 
+43. Singapore Canoe Federation.
 
-National Council of Social Service.
+44. Singapore Chess Federation.
 
-20. 
+45. Singapore Chinese Teachers’ Union.
 
-National Trades Union Congress.
+46. Singapore Civil Defence Force Sports and Recreation Association.
 
-21. 
+47. Singapore Classical Guitar Society.
 
-National University of Singapore Society.
+47A. Singapore Contract Bridge Association.
 
-22. 
+48. Singapore Council of Women’s Organisations.
 
-National University of Singapore Students’ Union.
+49. Singapore Gardening Society.
 
-23. 
+50. Singapore Gasing Federation (Federasi Gasing Singapura).
 
-[Deleted by S 21/1995 wef 12/01/1995]
+51. Singapore Girl Guides Association.
 
-24. 
+51A. Singapore Hadrah and Kompang Association (PEHAKS) (Persatuan Hadrah Dan Kompang Singapura).
 
-Ngee Ann Polytechnic Students’ Union.
+52. Singapore Indian Fine Arts Society.
 
-25. 
+53. Singapore Judo Federation.
 
-Perinatal Society of Singapore.
+54. Singapore Karate-Do Federation.
 
-26. 
+55. Singapore Lawn Tennis Association .
 
-Perkumpulan Seni (Arts Group).
+56. Singapore Malay Teachers’ Union (Kesatuan Guru Guru Melayu, Singapura).
 
-27. 
+57. Singapore Malay Youth Library Association (Taman Bacaan Pemuda Pemudi Melayu Singapura).
 
-[Deleted by S 381/1996 wef 19/08/1996]
+58. Singapore Middle School Chinese Teachers’ Association.
 
-28. 
+59. Singapore National Wushu Federation.
 
-Radio Modellers Singapore.
+60. Singapore Numismatic Association.
 
-29. 
+61. Singapore Paediatric Society.
 
-St. John Ambulance.
+62. Singapore Petanque Federation.
 
-30. 
+63. Singapore Philatelic Society.
 
-Singapore Action Group of Elders.
+64. Singapore Phoenix Dance Troupe.
 
-31. 
+65. Singapore Polytechnic Graduates’ Guild.
 
-Singapore Amateur Athletic Association.
+66. Singapore Polytechnic Students’ Union.
 
-32. 
+67. Singapore Professional Centre.
 
-Singapore Amateur Boxing Association.
+68. Singapore Red Cross Society.
 
-33. 
+69. Singapore Rugby Union.
 
-Singapore Amateur Cycling Association.
+70. Singapore Scout Association.
 
-34. 
+71. Singapore Silat Federation (Persekutuan Silat Singapura).
 
-Singapore Amateur Gymnastic Association.
+72. Singapore Squash Rackets Association.
 
-35. 
+73. Singapore Stamp Club.
 
-Singapore Amateur Sepak Takraw Association.
+74. Singapore Table Tennis Association.
 
-36. 
+75. Singapore Taekwondo Federation.
 
-Singapore Amateur Swimming Association.
+76. Singapore Tamil Teachers’ Union.
 
-37. 
+77. Singapore Teachers’ Union.
 
-Singapore Amateur Weightlifting Federation.
+78. Singapore Weiqi Association.
 
-38. 
+79. Singapore Xiangqi General Association.
 
-Singapore Arts Federation.
+80. Singapore Yachting Association.
 
-39. 
+81. Society of Chinese Artists.
 
-Singapore Art Society.
+82. Sriwana.
 
-40. 
+83. Tamils Representative Council.
 
-Singapore Badminton Association.
+84. The Eurasian Association, Singapore.
 
-41. 
+84A. The Photographic Society of Singapore.
 
-Singapore Ballet Academy.
+84B. The Singapore Softball Association.
 
-42. 
+85. Volleyball Association of Singapore.
 
-Singapore Bodybuilders Federation.
+86. Young Men’s Christian Association of Singapore.
 
-43. 
+87. Young Musicians’ Society.
 
-Singapore Canoe Federation.
+88. Young Women’s Christian Association of Singapore.
 
-44. 
+89. Young Women Muslim Association (Persatuan Pemudi Islam Singapura).
 
-Singapore Chess Federation.
-
-45. 
-
-Singapore Chinese Teachers’ Union.
-
-46. 
-
-Singapore Civil Defence Force Sports and Recreation Association.
-
-47. 
-
-Singapore Classical Guitar Society.
-
-47A. 
-
-Singapore Contract Bridge Association.
-
-[S 21/1995 wef 12/01/1995]
-
-48. 
-
-Singapore Council of Women’s Organisations.
-
-49. 
-
-Singapore Gardening Society.
-
-50. 
-
-Singapore Gasing Federation (Federasi Gasing Singapura).
-
-51. 
-
-Singapore Girl Guides Association.
-
-51A. 
-
-Singapore Hadrah and Kompang Association (PEHAKS) (Persatuan Hadrah Dan Kompang Singapura).
-
-[S 361/1994 wef 14/09/1994]
-
-52. 
-
-Singapore Indian Fine Arts Society.
-
-53. 
-
-Singapore Judo Federation.
-
-54. 
-
-Singapore Karate-Do Federation.
-
-55. 
-
-Singapore Lawn Tennis Association .
-
-56. 
-
-Singapore Malay Teachers’ Union (Kesatuan Guru Guru Melayu, Singapura).
-
-57. 
-
-Singapore Malay Youth Library Association (Taman Bacaan Pemuda Pemudi Melayu Singapura).
-
-58. 
-
-Singapore Middle School Chinese Teachers’ Association.
-
-59. 
-
-Singapore National Wushu Federation.
-
-60. 
-
-Singapore Numismatic Association.
-
-61. 
-
-Singapore Paediatric Society.
-
-62. 
-
-Singapore Petanque Federation.
-
-63. 
-
-Singapore Philatelic Society.
-
-64. 
-
-Singapore Phoenix Dance Troupe.
-
-65. 
-
-Singapore Polytechnic Graduates’ Guild.
-
-66. 
-
-Singapore Polytechnic Students’ Union.
-
-67. 
-
-Singapore Professional Centre.
-
-68. 
-
-Singapore Red Cross Society.
-
-69. 
-
-Singapore Rugby Union.
-
-70. 
-
-Singapore Scout Association.
-
-71. 
-
-Singapore Silat Federation (Persekutuan Silat Singapura).
-
-72. 
-
-Singapore Squash Rackets Association.
-
-73. 
-
-Singapore Stamp Club.
-
-74. 
-
-Singapore Table Tennis Association.
-
-75. 
-
-Singapore Taekwondo Federation.
-
-[S 398/1994 wef 28/09/1994]
-
-76. 
-
-Singapore Tamil Teachers’ Union.
-
-77. 
-
-Singapore Teachers’ Union.
-
-78. 
-
-Singapore Weiqi Association.
-
-79. 
-
-Singapore Xiangqi General Association.
-
-80. 
-
-Singapore Yachting Association.
-
-81. 
-
-Society of Chinese Artists.
-
-82. 
-
-Sriwana.
-
-83. 
-
-Tamils Representative Council.
-
-84. 
-
-The Eurasian Association, Singapore.
-
-84A. 
-
-The Photographic Society of Singapore.
-
-[S 381/1996 wef 19/08/1996]
-
-84B. 
-
-The Singapore Softball Association.
-
-[S 381/1996 wef 19/08/1996]
-
-85. 
-
-Volleyball Association of Singapore.
-
-86. 
-
-Young Men’s Christian Association of Singapore.
-
-87. 
-
-Young Musicians’ Society.
-
-88. 
-
-Young Women’s Christian Association of Singapore.
-
-89. 
-
-Young Women Muslim Association (Persatuan Pemudi Islam Singapura).
-
-90. 
-
-Youth Flying Club.
+90. Youth Flying Club.
 
 SECOND SCHEDULE
 
@@ -795,3 +587,8 @@ This Legislative History is provided for the convenience of users of the People�
 |||(Bill No. 27/96 published on 2 October 1996)|
 ||Date of Second and Third Readings|10 October 1996|
 ||Date of commencement|6 December 1996|
+|38.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
+||Date of First Reading|11 July 1997|
+|||(Bill No. 6/97 published on 12 July 1997)|
+||Date of Second and Third Readings|25 August 1997|
+||Dates of commencement|1 October 1997 (except section 3)|
