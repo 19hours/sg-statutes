@@ -132,6 +132,8 @@
 
 - [57 Offences](#Offences)
 
+- [57A Offences by owners and tenants, etc.](#Offences-by-owners-and-tenants-etc)
+
 - [58 General penalty](#General-penalty)
 
 - [59 Compounding of offences](#Compounding-of-offences)
@@ -216,6 +218,14 @@ Provided that it shall not include in any case an entry made for the purpose of 
 
 “master”, in relation to a vessel, means any person (except a pilot or harbour master) having for the time being control or charge thereof and in relation to an aircraft the captain thereof;
 
+“occupier”, in relation to any premises or place, includes —
+
+(a) the person having the charge, management or control of either the whole or part of the premises or place, either on his own account or as an agent; and
+
+(b) a contractor who is carrying out building operations or construction works at the premises or place on behalf of some other person;
+
+[Act 6 of 1989 wef 31/03/1989]
+
 “pass” means a pass issued under the regulations entitling the holder thereof to enter and remain temporarily in Singapore;
 
 “passenger” means any person carried in a vessel or aircraft, other than the members of the crew;
@@ -292,7 +302,9 @@ ADMISSION INTO AND DEPARTURE FROM SINGAPORE
 
 (3) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and —
 
-(a) in the case of an offence under subsection (1) shall be liable on conviction to imprisonment for a term of not less than 6 months and not more than 2 years and shall also be liable to a fine not exceeding $6,000;
+(a) in the case of an offence under subsection (1) shall on conviction be punished with imprisonment for a term of not less than 3 months and not more than 2 years and shall also, subject to section 231 of the Criminal Procedure Code (Cap. 68), be punished with caning with not less than 3 strokes;
+
+[Act 6 of 1989 wef 31/03/1989]
 
 (b) in the case of an offence under subsection (2) shall be liable on conviction to a fine not exceeding $4,000 or to imprisonment for a term not exceeding one year or to both.
 
@@ -454,9 +466,11 @@ the Controller may declare at any time after the date of the entry, that the pre
 
 (a) in the case where he remains unlawfully for a period not exceeding 90 days shall be liable on conviction to a fine not exceeding $4,000 or to imprisonment for a term not exceeding 6 months or to both;
 
-(b) in the case where he remains unlawfully for a period exceeding 90 days shall be liable on conviction to imprisonment for a term of not less than 6 months and not more than 2 years and shall also be liable to a fine not exceeding $6,000.
+(b) in the case where he remains unlawfully for a period exceeding 90 days shall on conviction be punished with imprisonment for a term of not less than 3 months and not more than 2 years and shall also, subject to section 231 of the Criminal Procedure Code (Cap. 68), be punished with caning with not less than 3 strokes.
 
 [35/84]
+
+[Act 6 of 1989 wef 31/03/1989]
 
 ## PART IV
 
@@ -1015,9 +1029,21 @@ it shall be presumed, until the contrary is proved, that he has, as the case may
 
 (7) Where in any proceedings for an offence under subsection (1)(d) it is proved that the defendant has given shelter to any person who has remained in Singapore unlawfully for a period exceeding 90 days after the expiration of any pass issued to him or who has entered Singapore in contravention of section 5(1) or 6(1), it shall be presumed, until the contrary is proved, that the defendant has harboured him knowing him to be a person who has acted in contravention of the provisions of this Act or the regulations.
 
+(8) Where a person who has acted in contravention of section 6, 15 or 36 or the regulations is found at any premises or place, other than premises used solely for residential purposes, and is in possession of any tools or implements or engaged in any activity which may give rise to the inference that he is doing any work, the occupier of the premises or place shall be presumed, until the contrary is proved, to have employed him knowing that he is a person who has acted in contravention of section 6, 15 or 36 or the regulations.
+
 [56
 
 [35/84]
+
+[Act 6 of 1989 wef 31/03/1989]
+
+### Offences by owners and tenants, etc.
+
+57A\.—(1) No person being the owner, tenant or occupier of any premises or place referred to in section 57(8) shall knowingly permit or suffer such premises or place or any part thereof to be kept or used as a place or premises in which any person is employed in contravention of section 57(1)(e).
+
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall on conviction be punished with imprisonment for a term of not less than 6 months and not more than 2 years and shall also be liable to a fine not exceeding $6,000.
+
+[Act 6 of 1989 wef 31/03/1989]
 
 ### General penalty
 
@@ -1117,3 +1143,8 @@ This Legislative History is provided for the convenience of users of the Immigra
 ||Date of commencement|7 December 1984|
 |15.|**1985 Revised Edition—Immigration Act (Chapter 133)**|
 ||Date of operation|30 March 1987|
+|16.|**Act 6 of 1989—Immigration (Amendment) Act 1989**|
+||Date of First Reading|16 January 1989|
+|||(Bill No. 8/89 published on 16 January 1989)|
+||Date of Second and Third Readings|26 January 1989|
+||Date of commencement|31 March 1989|
