@@ -390,7 +390,7 @@ Singapore Chess Federation
 
 43. 
 
-Singapore Chinese Chess General Association
+Singapore Xiangqi General Association
 
 44. 
 
@@ -614,6 +614,8 @@ Young Women Muslim Association (Persatuan Pemudi Islam Singapura)
 
 [S 312/1992 wef 24/06/1992]
 
+[S 496/1992 wef 13/10/1992]
+
 SECOND SCHEDULE
 
 Section 15(1).
@@ -693,3 +695,5 @@ This Legislative History is provided for the convenience of users of the People�
 ||Date of commencement|17 June 1992|
 |27.|**G.N. No. S 312/92—People’s Association Act (Amendment of First Schedule) (No. 4) Notification 1992**|
 ||Date of commencement|24 June 1992|
+|28.|**G.N. No. S 496/92—People’s Association Act (Amendment of First Schedule) (No. 5) Notification 1992**|
+||Date of commencement|13 October 1992|
