@@ -1,16 +1,14 @@
-**Mutual Assistance in Criminal Matters Act 2000**
+**Mutual Assistance in Criminal Matters Act**
 
-**(No. 12 of 2000)**
+**(CHAPTER 190A)**
 
 **Table of Contents**
 
 [**Long Title**](#Mutual-Assistance-in-Criminal-Matters-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -32,7 +30,7 @@
 
 - [8 Requests for taking of evidence, etc.](#Requests-for-taking-of-evidence-etc)
 
-[**Division 3  Assistance in arranging attendance of person in Singapore**](#Division-3--Assistance-in-arranging-attendance-of-person-in-Singapore)
+[**Division 3  Assistance in Arranging Attendance of Person in Singapore**](#Division-3--Assistance-in-Arranging-Attendance-of-Person-in-Singapore)
 
 - [9 Requests for attendance of person in Singapore](#Requests-for-attendance-of-person-in-Singapore)
 
@@ -132,59 +130,39 @@
 
 - [44 Regulations](#Regulations)
 
-- [44A Regulations for provision of assistance to certain bodies](#Regulations-for-provision-of-assistance-to-certain-bodies)
+- [45 Regulations for provision of assistance to certain bodies](#Regulations-for-provision-of-assistance-to-certain-bodies)
 
-- [45 Rules of Court](#Rules-of-Court)
+- [46 Rules of Court](#Rules-of-Court)
 
-- [46 Amendment of First Schedule](#Amendment-of-First-Schedule)
+- [47 Amendment of Schedule](#Amendment-of-Schedule)
 
-- [47 Related amendments](#Related-amendments)
+[**THE SCHEDULE Enforcement of Foreign Confiscation Orders**](#THE-SCHEDULE)
 
-[**FIRST SCHEDULE**](#FIRST-SCHEDULE)
+[**Legislative History**](#Legislative-History)
 
-[**SECOND SCHEDULE Related Amendments**](#SECOND-SCHEDULE-Related-Amendments)
+[**Comparative Table**](#Comparative-Table)
 
-REPUBLIC OF SINGAPORE
+# Mutual Assistance in Criminal Matters Act
 
-GOVERNMENT GAZETTE
+(CHAPTER 190A)
 
-ACTS SUPPLEMENT
+(Original Enactment: Act 12 of 2000)
 
-Published by Authority
+REVISED EDITION 2001
 
-NO. 12]
+(31st December 2001)
 
-Friday, March 31
+An Act to facilitate the provision and obtaining of international assistance in criminal matters.
 
-[2000
-
-The following Act was passed by Parliament on 22nd February 2000 and assented to by the President on 7th March 2000:—
-
-Mutual Assistance in Criminal Matters Act 2000
-
-(No. 12 of 2000)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-7th March 2000.
-
-Date of Commencement: 1st April 2000
-
-An Act to facilitate the provision and obtaining of international assistance in criminal matters and to make related amendments to the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Chapter 84A of the 1993 Revised Edition) and the Extradition Act (Chapter 103 of the 1985 Revised Edition).
-
-Be it enacted by the President of the Republic of Singapore with the advice and consent of the Parliament of Singapore, as follows:
+[1st April 2000]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Mutual Assistance in Criminal Matters Act 2000 and shall come into force on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Mutual Assistance in Criminal Matters Act.
 
 ### Interpretation
 
@@ -254,7 +232,7 @@ PRELIMINARY
 
 “drug trafficking offence” means —
 
-(a) any of the offences set out in the First Schedule to the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Cap. 84A);
+(a) any of the offences set out in the First Schedule to the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Cap. 65A);
 
 (b) conspiracy to commit any of those offences;
 
@@ -338,7 +316,7 @@ as the case may be;
 
 “serious offence” means —
 
-(a) any of the offences specified in the Second Schedule to the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Cap. 84A);
+(a) any of the offences specified in the Second Schedule to the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Cap. 65A);
 
 (b) conspiracy to commit any of those offences;
 
@@ -432,7 +410,7 @@ if the Attorney-General is satisfied that there are reasonable grounds for belie
 
 if the Attorney-General is satisfied that there are reasonable grounds for believing that such thing would be relevant to a criminal matter in Singapore.
 
-(3) Any evidence, thing or photograph or copy of a thing received by the Attorney-General pursuant to a request under subsection (1) or (2) may, subject to the provisions of the Evidence Act (Cap. 98) and the Criminal Procedure Code (Cap. 68), be admitted as evidence at any criminal proceedings to which the request relates.
+(3) Any evidence, thing or photograph or copy of a thing received by the Attorney-General pursuant to a request under subsection (1) or (2) may, subject to the provisions of the Criminal Procedure Code (Cap. 68) and the Evidence Act (Cap. 97), be admitted as evidence at any criminal proceedings to which the request relates.
 
 (4) In estimating the weight, if any, to be attached to a statement contained in any thing received by the Attorney-General pursuant to a request made under subsection (1) which has been admitted as evidence in any criminal proceedings to which the request relates, the court shall have regard to —
 
@@ -442,12 +420,12 @@ if the Attorney-General is satisfied that there are reasonable grounds for belie
 
 Division 3 —
 
-Assistance in arranging attendance of
+Assistance in Arranging Attendance of
 
 
 
 
-person in Singapore
+Person in Singapore
 
 ### Requests for attendance of person in Singapore
 
@@ -631,7 +609,7 @@ the name, identity, nationality, location or description of that person, or the 
 
 (x) any other information required to be included with the request under any treaty, memorandum of understanding or other agreement between Singapore and that country; and
 
-(xi) any other information that may assist in giving effect to the request or which is required under the provisions of this Act or any rules made thereunder.
+(xi) any other information that may assist in giving effect to the request or which is required under the provisions of this Act.
 
 ### Refusal of assistance
 
@@ -671,7 +649,7 @@ in respect of that offence or of another offence constituted by the same act or 
 
 (a) pursuant to the terms of any treaty, memorandum of understanding or other agreement between Singapore and that country;
 
-(b) if, in the opinion of the Attorney-General, the provision of the assistance would, or would be likely to, prejudice the safety of any person (whether in or outside Singapore);
+(b) if, in the opinion of the Attorney-General, the provision of the assistance would, or would be likely to, prejudice the safety of any person (whether in Singapore or elsewhere);
 
 (c) if, in the opinion of the Attorney-General, the provision of the assistance would impose an excessive burden on the resources of Singapore; or
 
@@ -683,7 +661,7 @@ Assistance in Obtaining Evidence
 
 ### Taking of evidence for criminal proceedings
 
-21\.—(1) Where a request is made by the appropriate authority of a foreign country (referred to in this section as the requesting country) that evidence be taken in Singapore for the purposes of any criminal proceedings pending in a court in the foreign country, the Attorney-General may by notice in writing, subject to such conditions as the Attorney-General may specify in the notice, authorise a Magistrate to take the evidence and transmit the evidence to the appropriate authority.
+21\.—(1) Where a request is made by the appropriate authority of a foreign country that evidence be taken in Singapore for the purposes of any criminal proceedings pending in a court in the foreign country, the Attorney-General may by notice in writing, subject to such conditions as the Attorney-General may specify in the notice, authorise a Magistrate to take the evidence and transmit the evidence to the appropriate authority.
 
 (2) Upon receipt of the notice made under subsection (1), the Magistrate shall —
 
@@ -709,7 +687,7 @@ Assistance in Obtaining Evidence
 
 ### Production orders for criminal matters
 
-22\.—(1) Where a request is made by the appropriate authority of a prescribed foreign country (referred to in this section as the requesting country) that any particular thing or description of thing in Singapore be produced for the purposes of any criminal matter in that country, the Attorney-General or a person duly appointed by him may apply to the court for an order under subsection (3).
+22\.—(1) Where a request is made by the appropriate authority of a prescribed foreign country that any particular thing or description of thing in Singapore be produced for the purposes of any criminal matter in that country, the Attorney-General or a person duly appointed by him may apply to the court for an order under subsection (3).
 
 (2) An application for an order under subsection (3) in relation to any thing in the possession of a financial institution shall be made only to the High Court.
 
@@ -765,7 +743,7 @@ within 7 days of the date of the order or such other period as the court conside
 
 (5) An authorised officer may photograph or make copies of any thing produced or to which access is granted pursuant to an order made under section 22.
 
-(6) Where an authorised officer takes possession of any thing under an order made under section 22 or takes any photograph or makes any copy of the thing pursuant to subsection (5), he may retain the thing, photograph or copy for a period of up to one month pending a written direction from the Attorney-General as to the manner in which the thing, photograph or copy is to be dealt with (which may include a direction that the thing, photograph or copy be sent to the appropriate authority of the foreign country concerned).
+(6) Where an authorised officer takes possession of any thing under an order made under section 22 or takes any photograph or makes any copy of the thing under subsection (5), he may retain the thing, photograph or copy for a period of up to one month pending a written direction from the Attorney-General as to the manner in which the thing, photograph or copy is to be dealt with (which may include a direction that the thing, photograph or copy be sent to the appropriate authority of the foreign country concerned).
 
 (7) Rules of Court may provide for —
 
@@ -841,7 +819,9 @@ the Attorney-General may assist in making arrangements for the travel of the per
 
 (ii) be subjected to any civil suit in respect of any act or omission of the person that is alleged to have occurred, or that had occurred, before the person’s departure from Singapore, being a civil suit to which the person could not be subjected if that person was not in the foreign country; or
 
-(iii) be required to give evidence or assistance in relation to any criminal matter in the foreign country other than the criminal matter to which the request relates, unless —
+(iii) be required to give evidence or assistance in relation to any criminal matter in the foreign country other than the criminal matter to which the request relates,
+
+unless —
 
 (A) the person has left the foreign country; or
 
@@ -895,13 +875,13 @@ Enforcement of Foreign Confiscation Order, etc.
 
 (2) On receipt of a request referred to in subsection (1), the Attorney-General may —
 
-(a) in the case of subsection (1)(a), act or authorise the taking of action under section 30 and the provisions of the First Schedule; or
+(a) in the case of subsection (1)(a), act or authorise the taking of action under section 30 and the provisions of the Schedule; or
 
-(b) in the case of subsection (1)(b), act or authorise the taking of action under the provisions of the First Schedule,
+(b) in the case of subsection (1)(b), act or authorise the taking of action under the provisions of the Schedule,
 
-and in that event the provisions of the First Schedule shall apply accordingly.
+and in that event the provisions of the Schedule shall apply accordingly.
 
-(3) For the purposes of this section and the provisions of the First Schedule, judicial proceedings that are criminal proceedings are instituted in a prescribed foreign country when a person is produced and charged in court with a foreign offence.
+(3) For the purposes of this section and the provisions of the Schedule, judicial proceedings that are criminal proceedings are instituted in a prescribed foreign country when a person is produced and charged in court with a foreign offence.
 
 ### Registration of foreign confiscation order
 
@@ -915,7 +895,7 @@ and in that event the provisions of the First Schedule shall apply accordingly.
 
 (c) that enforcing the order in Singapore would not be contrary to the interests of justice.
 
-(3) In subsection (2), “appeal” includes —
+(3) For the purposes of subsection (2), “appeal” includes —
 
 (a) any proceedings by way of discharging or setting aside a judgment; and
 
@@ -929,7 +909,7 @@ and in that event the provisions of the First Schedule shall apply accordingly.
 
 ### Proof of orders, etc., of prescribed foreign country
 
-31\.—(1) For the purposes of sections 29 and 30 and the First Schedule —
+31\.—(1) For the purposes of sections 29 and 30 and the Schedule —
 
 (a) any order made or judgment given by a court of a prescribed foreign country purporting to bear the seal of that court or to be signed by any person in his capacity as a judge, magistrate or officer of the court, shall be deemed without further proof to have been duly sealed or, as the case may be, to have been signed by that person; and
 
@@ -939,7 +919,7 @@ and in that event the provisions of the First Schedule shall apply accordingly.
 
 ### Evidence in relation to proceedings and orders in prescribed foreign country
 
-32\.—(1) For the purposes of sections 29 and 30 and the First Schedule, a certificate purporting to be issued by or on behalf of the appropriate authority of a prescribed foreign country stating that —
+32\.—(1) For the purposes of sections 29 and 30 and the Schedule, a certificate purporting to be issued by or on behalf of the appropriate authority of a prescribed foreign country stating that —
 
 (a) judicial proceedings have been instituted and have not been concluded, or that judicial proceedings are to be instituted, in that country;
 
@@ -1017,7 +997,7 @@ the Attorney-General, or an authorised officer directed by him, may apply to the
 
 (3) Where an authorised officer seizes, photographs or makes a copy of any thing under a warrant, he may retain the thing, photograph or copy for a period of up to one month pending a written direction from the Attorney-General as to the manner in which the thing, photograph or copy is to be dealt with (which may include a direction that that thing, photograph or copy be sent to the appropriate authority of the foreign country concerned).
 
-(4) Any person who hinders or obstructs an authorised officer in the execution of a warrant issued under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
+(4) Any person who hinders or obstructs an authorised officer in the execution of a warrant issued under section 34 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
 
 ### Immunities
 
@@ -1169,11 +1149,13 @@ MISCELLANEOUS PROVISIONS
 
 (a) to prescribe anything that is required or permitted to be prescribed under this Act; and
 
-(b) to provide that any person who contravenes the regulations shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment not exceeding 12 months or to both.
+(b) to provide that any person who contravenes the regulations shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 ### Regulations for provision of assistance to certain bodies
 
-44A\.—(1) The Minister may make regulations for the provision by Singapore of assistance in criminal matters to such international criminal tribunal as may be prescribed in order to discharge or facilitate the discharge of any obligation binding on Singapore by virtue of its being a member of an international organisation or a party to an international agreement.
+45\.—(1) The Minister may make regulations for the provision by Singapore of assistance in criminal matters to such international criminal tribunal as may be prescribed in order to discharge or facilitate the discharge of any obligation binding on Singapore by virtue of its being a member of an international organisation or a party to an international agreement.
+
+[28/2000]
 
 (2) Without prejudice to the generality of subsection (1), regulations may —
 
@@ -1183,27 +1165,31 @@ MISCELLANEOUS PROVISIONS
 
 (c) confer and impose on authorised officers powers and duties which may be necessary or expedient for the purpose of providing any assistance; and
 
-(d) provide that any person who contravenes the regulations shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment not exceeding 12 months or to both.
+(d) provide that any person who contravenes the regulations shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-[28/2000 wef 01/11/2000]
+[44A
+
+[28/2000]
 
 ### Rules of Court
 
-45\. Rules of Court may provide for the practice and procedure in relation to proceedings under this Act and the First Schedule, including the summoning of witnesses, the production of documents, the taking of evidence on oath, the administering of oaths, the payment of expenses and allowances of witnesses.
+46\. Rules of Court may provide for the practice and procedure in relation to proceedings under this Act and the Schedule, including the summoning of witnesses, the production of documents, the taking of evidence on oath, the administering of oaths, the payment of expenses and allowances of witnesses.
 
-### Amendment of First Schedule
+[45
 
-46\. The Minister may, by notification in theGazette, amend the First Schedule.
+### Amendment of Schedule
 
-### Related amendments
+47\. The Minister may, by notification in theGazette, amend the Schedule.
 
-47\. The provisions of the Acts specified in the first column of the Second Schedule are amended in the manner set out in the second column thereof.
+[46
 
-FIRST SCHEDULE
+## THE SCHEDULE
 
 Section 29
 
-OF
+Enforcement of Foreign Confiscation Orders
+
+Part I
 
 Part I
 
@@ -1257,7 +1243,7 @@ Interpretation
 
 Application
 
-2\. This Schedule shall only apply to any matter which is the subject of a request under section 29 of this Act, and in relation to which the Attorney-General has decided to act, or has authorised that action be taken, under the provisions of this Schedule.
+2\. This Schedule shall only apply to any matter which is the subject of a request under section 29, and in relation to which the Attorney-General has decided to act, or has authorised that action be taken, under the provisions of this Schedule.
 
 Part II
 
@@ -1295,7 +1281,7 @@ the value referred to in sub-paragraph (2)(b) shall be the value to him at the m
 
 Gifts caught by Schedule
 
-4.—(1) A reference in this Part to a gift caught by this Schedule is a reference to a gift made, whether before, on or after the commencement of this Act— 
+4.—(1) A reference in this Part to a gift caught by this Schedule is a reference to a gift made, whether before, on or after 1st April 2000— 
 
 (a) by the defendant since the beginning of the period of 6 years ending when the judicial proceedings were instituted against him; or
 
@@ -1359,7 +1345,7 @@ Restraint orders
 
 (4) A restraint order— 
 
-(a) may be made only on an application by the Attorney-General or, in a case where a foreign confiscation order has been registered under section 30 of this Act, by a receiver appointed under paragraph 10 of this Schedule or the Attorney-General;
+(a) may be made only on an application by the Attorney-General or, in a case where a foreign confiscation order has been registered under section 30, by a receiver appointed under paragraph 10 or the Attorney-General;
 
 (b) may be made on an ex parte application to a Judge in chambers; and
 
@@ -1395,7 +1381,7 @@ Charging orders
 
 (3) A charging order may be made— 
 
-(a) only on an application by the Attorney-General, or in a case where a foreign confiscation order has been registered under section 30 of this Act, a receiver appointed under paragraph 9 or the Attorney-General; and
+(a) only on an application by the Attorney-General, or in a case where a foreign confiscation order has been registered under section 30, a receiver appointed under paragraph 10 or the Attorney-General; and
 
 (b) on an ex parte application to a Judge in chambers.
 
@@ -1441,9 +1427,9 @@ Charging orders: supplementary provisions
 
 Realisation of property
 
-10.—(1) Where a foreign confiscation order has been registered in the High Court under section 30 of this Act, the High Court may, on the application of the Attorney-General, exercise the powers conferred by sub-paragraphs (2) to (7).
+10.—(1) Where a foreign confiscation order has been registered in the High Court under section 30, the High Court may, on the application of the Attorney-General, exercise the powers conferred by sub-paragraphs (2) to (7).
 
-(2) In respect of any sum of money payable under the foreign confiscation order, the High Court may make a garnishee order as if the sum were due to the Government in pursuance of a judgement or order of the High Court, but any such order shall direct that the sum payable be paid to the High Court.
+(2) In respect of any sum of money payable under the foreign confiscation order, the High Court may make a garnishee order as if the sum were due to the Government in pursuance of a judgment or order of the High Court, but any such order shall direct that the sum payable be paid to the High Court.
 
 (3) The High Court may appoint the Public Trustee or any person as receiver in respect of realisable property.
 
@@ -1473,7 +1459,7 @@ Application of proceeds of realisation and other sums
 
 (c) any other sums, being property held by the defendant,
 
-shall, after such payments (if any) as the High Court may direct have been made out of those sums, be paid to the High Court and applied for the purposes specified in sub-paragraph (2) and in the order so specified.
+shall, after such payments (if any) as the High Court may direct have been made out of those sums, be paid to the Court and applied for the purposes specified in sub-paragraph (2) and in the order so specified.
 
 (2) Where a fixed amount is payable under the foreign confiscation order and after that amount has been fully paid, any other sums remain in the hands of the Public Trustee or receiver, he shall distribute those sums— 
 
@@ -1487,9 +1473,9 @@ as the High Court may direct after giving a reasonable opportunity for such pers
 
 Exercise of powers by High Court, etc.
 
-12.—(1) This paragraph applies to the powers conferred on the High Court by paragraphs 7 to 11 or on the Public Trustee or any receiver pursuant to paragraph 7 or 10 or in pursuance of a charging order.
+12.—(1) This paragraph shall apply to the powers conferred on the High Court by paragraphs 7 to 11 or on the Public Trustee or any receiver pursuant to paragraph 7 or 10 or in pursuance of a charging order.
 
-(2) Subject to sub-paragraphs (3) to (6), the powers shall be exercised with a view to recovering property which is liable to be recovered under a foreign confiscation order registered under section 30 of this Act or, as the case may be, with a view to making available for recovery property which may become liable to be recovered under any foreign confiscation order which may be made.
+(2) Subject to sub-paragraphs (3) to (6), the powers shall be exercised with a view to recovering property which is liable to be recovered under a foreign confiscation order registered under section 30 or, as the case may be, with a view to making available for recovery property which may become liable to be recovered under any foreign confiscation order which may be made.
 
 (3) In the case of realisable property held by a person to whom the defendant has, directly or indirectly, made a gift caught by this Schedule, the powers shall be exercised with a view to realising no more than the value for the time being of the gift.
 
@@ -1513,11 +1499,11 @@ shall be excluded from the bankrupt’s estate for the purposes of the Bankruptc
 
 (a) property for the time being comprised in the bankrupt’s estate for the purposes of the Bankruptcy Act;
 
-(b) property which is not comprised in the bankrupt’s estate by virtue of section 78(2) of that Act; and
+(b) property which is not comprised in the bankrupt’s estate by virtue of section 78(2) of the Bankruptcy Act; and
 
-(c) property which is to be applied for the benefit of creditors of the bankrupt by virtue of a condition imposed under section 124(3)(c) of that Act.
+(c) property which is to be applied for the benefit of creditors of the bankrupt by virtue of a condition imposed under section 124(3)(c) of the Bankruptcy Act.
 
-(3) Nothing in the Bankruptcy Act shall be taken as restricting, or enabling the restriction of, the exercise of those powers referred to in sub-paragraph (2).
+(3) Nothing in the Bankruptcy Act (Cap. 20) shall be taken as restricting, or enabling the restriction of, the exercise of those powers referred to in sub-paragraph (2).
 
 (4) Sub-paragraph (2) shall not affect the enforcement of a charging order— 
 
@@ -1557,7 +1543,7 @@ but there shall be payable out of such property any expenses (including the remu
 
 “company” means any company which may be wound up under the Companies Act;
 
-“the relevant time” means —
+“relevant time” means —
 
 (a) where no order for the winding up of the company has been made, the time of the passing of the resolution for voluntary winding up;
 
@@ -1607,7 +1593,7 @@ Restraint orders
 
 (b) the proceedings have not been concluded; and
 
-(c) either a instrumentality forfeiture order has been made in the proceedings or it appears to the High Court that there are reasonable grounds for believing that such an order may be made in them.
+(c) either an instrumentality forfeiture order has been made in the proceedings or it appears to the High Court that there are reasonable grounds for believing that such an order may be made in them.
 
 (3) A restraint order may also be made where the High Court is satisfied that judicial proceedings are to be instituted in a prescribed foreign country and that there are reasonable grounds for believing that an instrumentality forfeiture order may be made in them.
 
@@ -1643,7 +1629,7 @@ subject to such exceptions and conditions as may be specified by the Court.
 
 Disposal of forfeited property
 
-18.—(1) Where an instrumentality forfeiture order has been registered under section 30 of this Act, the High Court may, on the application of the Attorney-General, order the forfeiture of the property specified in the instrumentality forfeiture order.
+18.—(1) Where an instrumentality forfeiture order has been registered under section 30, the High Court may, on the application of the Attorney-General, order the forfeiture of the property specified in the instrumentality forfeiture order.
 
 (2) Property forfeited under sub-paragraph (1) shall be disposed of in accordance with the High Court’s directions.
 
@@ -1651,13 +1637,13 @@ Disposal of forfeited property
 
 Exercise of powers by High Court
 
-19.—(1) This paragraph applies to the powers conferred on the High Court by paragraphs 18 and 19 or on the Public Trustee or person appointed as receiver under paragraph 18.
+19.—(1) This paragraph shall apply to the powers conferred on the High Court by this paragraph and paragraph 18 or on the Public Trustee or person appointed as receiver under paragraph 17.
 
-(2) The powers shall be exercised with a view to recovering property which is liable to be recovered under an instrumentality forfeiture order registered under section 30 of this Act or, as the case may be, with a view to recovering property which may become liable to be recovered under any instrumentality forfeiture order which may be made.
+(2) The powers shall be exercised with a view to recovering property which is liable to be recovered under an instrumentality forfeiture order registered under section 30 or, as the case may be, with a view to recovering property which may become liable to be recovered under any instrumentality forfeiture order which may be made.
 
 Receivers: supplementary provisions
 
-20\. Where a receiver appointed under paragraph 18 takes any action in relation to property which is not liable to recovery under an instrumentality forfeiture order, being action which he would be entitled to take if it were such property, believing, and having reasonable grounds for believing, that he is entitled to take that action in relation to that property, he shall not be liable to any person in respect of any loss or damage resulting from his action except in so far as the loss or damage is caused by his negligence.
+20\. Where a receiver appointed under paragraph 17 takes any action in relation to property which is not liable to recovery under an instrumentality forfeiture order, being action which he would be entitled to take if it were such property, believing, and having reasonable grounds for believing, that he is entitled to take that action in relation to that property, he shall not be liable to any person in respect of any loss or damage resulting from his action except in so far as the loss or damage is caused by his negligence.
 
 Compensation
 
@@ -1673,119 +1659,57 @@ Compensation
 
 (ii) he is granted a pardon in respect of the conviction or convictions concerned,
 
-the High Court may, on application by a person who held property and who has suffered loss in consequence of anything done in relation to that property in pursuance of an order under paragraph 18 or 19, order compensation to be paid by the Government to the applicant if, having regard to all the circumstances, the High Court considers it appropriate to make such an order.
+the High Court may, on application by a person who held property and who has suffered loss in consequence of anything done in relation to that property in pursuance of an order under paragraph 18, order compensation to be paid by the Government to the applicant if, having regard to all the circumstances, the Court considers it appropriate to make such an order.
 
 (2) The High Court shall not order compensation to be paid under sub-paragraph (1) unless it is satisfied that there has been some serious default on the part of any person concerned in the criminal investigation or prosecution of the offence or offences concerned.
 
 (3) The High Court shall not order compensation to be paid under sub-paragraph (1) in any case where it appears to the Court that the criminal investigation would have been continued, or the criminal proceedings would have been instituted or continued, as the case may be, if the serious default had not occurred.
 
-SECOND SCHEDULE
+## LEGISLATIVE HISTORY
 
-Section 47
+Mutual Assistance in Criminal Matters Act
 
-Related Amendments
+(CHAPTER 190A)
 
-First column
+This Legislative History is provided for the convenience of users of the Mutual Assistance in Criminal Matters Act. It is not part of this Act.
 
-Second column
+||||
+|:-|:-|:-|
+|1.|**Act 12 of 2000—Mutual Assistance in Criminal Matters Act 2000**|
+||Date of First Reading|17 January 2000|
+|||(Bill No. 3/2000 published on 18 January 2000)|
+||Date of Second and Third Readings|22 February 2000|
+||Date of commencement|1 April 2000|
+|2.|**Act 28 of 2000—Statutes (Miscellaneous Amendments and Repeal) Act 2000**|
+||Date of First Reading|25 August 2000|
+|||(Bill No. 22/2000 published on 26 August 2000)|
+||Date of Second and Third Readings|9 October 2000|
+||Date of commencement|1 November 2000|
+|3.|**2001 Revised Edition—Mutual Assistance in Criminal Matters Act**|
+||Date of operation|31 December 2001|
+## COMPARATIVE TABLE
 
-(1) Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Chapter 84A,
+Mutual Assistance in Criminal Matters Act
 
+(CHAPTER 190A)
 
+The following provisions in the Mutual Assistance in Criminal Matters Act 2000 (Act 12 of 2000) have been renumbered by the Law Revision Commissioners in this 2001 Revised Edition.
 
+This comparative Table is provided for the convenience of users. It is not part of the Mutual Assistance in Criminal Matters Act.
 
-1993 Ed.)
+2001 Ed\. 
 
-(a) Section 2(1)
+Act 12 of 2000 
 
-(i) Insert, immediately after paragraph (aa) of the definition of “authorised officer”, the following paragraph:
+45 
 
-“
+44A 
 
-(ab) any Commercial Affairs Officer appointed under section 58A of the Police Force Act (Cap. 235);
+46 
 
-”.
+45 
 
-(ii) Delete the definitions of “criminal matters”, “drug-related matters”, “foreign authority” and “foreign government”.
+47 
 
-(b) Section 3
-
-(i) Delete the words “or foreign drug trafficking offence” in the 6th line of subsection (1).
-
-(ii) Delete “or a foreign serious offence” in the 8th line of subsection (1A).
-
-(c) Section 26B
-
-Repeal.
-
-(d) Section 29
-
-Repeal.
-
-(e) Section 32
-
-Repeal.
-
-(f) Section 33(2)
-
-(i) Delete the words “, 29, 31 and 32” and substitute the words “and 31”.
-
-(ii) Delete the words “, 29, 31 and 32” in the marginal note and substitute the words “and 31”.
-
-(g) Section 34
-
-Repeal.
-
-(h) New section 39A
-
-Insert, immediately after section 39, the following section:
-
-“
-
-Communication of information to foreign authority
-
-39A.—(1) Notwithstanding section 53 or any other written law or rule of law, a Suspicious Transaction Reporting Officer may communicate any thing disclosed to him or any authorised officer under section 38(1) to a corresponding authority of a foreign country if the conditions specified in subsection (2) are satisfied.
-
-(2) The conditions referred to in subsection (1) are as follows:
-
-(a) there exists an arrangement under which the corresponding authority of the foreign country has agreed to communicate to Singapore, upon Singapore’s request, information received by the corresponding authority that corresponds to any thing required to be disclosed to an authorised officer under section 38(1);
-
-(b) the Suspicious Transaction Reporting Officer is satisfied that the corresponding authority has given appropriate undertakings —
-
-(i) for protecting the confidentiality of any thing communicated to it; and
-
-(ii) for controlling the use that will be made of it, including an undertaking that it will not be used as evidence in any proceedings; and
-
-(c) such other conditions as the Minister may prescribe.
-
-(3) In this section —
-
-“corresponding authority”, in relation to a foreign country, means the authority of that foreign country responsible for receiving information that corresponds to any thing required to be disclosed to an authorised officer under section 38(1);
-
-”.
-
-“
-
-“Suspicious Transaction Reporting Officer” means an authorised officer –
-
-(a) who has been appointed by the Minister as a Suspicious Transaction Reporting Officer for the purposes of this section; and
-
-(b) who had his appointment as a Suspicious Transaction Reporting Officer published in theGazette.
-
-”.
-
-(i) Section 48 and 49
-
-Repeal.
-
-(2) Extradition Act (Chapter 103,
-
-
-
-
-1985 Ed.)
-
-Section 43
-
-Repeal.
+46 
 
