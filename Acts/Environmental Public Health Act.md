@@ -56,7 +56,9 @@
 
 - [19 Building works constituting danger to life, health, etc.](#Building-works-constituting-danger-to-life-health-etc)
 
-- [20 Prohibition against dumping refuse, etc., in any public place](#Prohibition-against-dumping-refuse-etc-in-any-public-place)
+- [20 Prohibition against dropping, scattering, etc., certain substances in public place](#Prohibition-against-dropping-scattering-etc-certain-substances-in-public-place)
+
+- [20A Prohibition against dumping and disposing](#Prohibition-against-dumping-and-disposing)
 
 - [21 Notice to attend Court](#Notice-to-attend-Court)
 
@@ -174,9 +176,9 @@
 
 - [64 Commissioner may require employers to provide mess rooms, etc.](#Commissioner-may-require-employers-to-provide-mess-rooms-etc)
 
-[**Part VIII OFFENSIVE TRADES**](#Part-VIII)
+- [65 Appointment of Environmental Control Officer in construction site](#Appointment-of-Environmental-Control-Officer-in-construction-site)
 
-- [65 (Repealed)](#Repealed)
+[**Part VIII OFFENSIVE TRADES**](#Part-VIII)
 
 - [66 (Repealed)](#Repealed)
 
@@ -260,6 +262,8 @@
 
 - [102 Authorised officers may demand names and addresses in certain cases](#Authorised-officers-may-demand-names-and-addresses-in-certain-cases)
 
+- [102A Power of investigating offences under sections 20A and 23](#Power-of-investigating-offences-under-sections-20A-and-23)
+
 - [103 Furnishing of information required by Commissioner](#Furnishing-of-information-required-by-Commissioner)
 
 - [104 Powers of arrest](#Powers-of-arrest)
@@ -276,7 +280,7 @@
 
 - [110 Authorised public officers, etc., to exercise certain powers under this Act](#Authorised-public-officers-etc-to-exercise-certain-powers-under-this-Act)
 
-- [110A Authorised members, employees or agents of Town Councils to exercise certain powers of the Commissioner](#Authorised-members-employees-or-agents-of-Town-Councils-to-exercise-certain-powers-of-the-Commissioner)
+- [110A Persons who may be authorised to exercise powers of Commissioner](#Persons-who-may-be-authorised-to-exercise-powers-of-Commissioner)
 
 - [111 Inaccuracies in documents](#Inaccuracies-in-documents)
 
@@ -301,6 +305,8 @@
 [**THIRD SCHEDULE Infectious Diseases**](#THIRD-SCHEDULE-Infectious-Diseases)
 
 [**FOURTH SCHEDULE Subject-matters of Regulations**](#FOURTH-SCHEDULE-Subject-matters-of-Regulations)
+
+[**FIFTH SCHEDULE Private Persons Who Can be Authorised to Exercise Powers under the Act OR REGULATIONS and powers IN RESPECT OF Which Persons May Act**](#FIFTH-SCHEDULE-Private-Persons-Who-Can-be-Authorised-to-Exercise-Powers-under-the-Act-OR-REGULATIONS-and-powers-IN-RESPECT-OF-Which-Persons-May-Act)
 
 [**Legislative History**](#Legislative-History)
 
@@ -334,6 +340,18 @@ PRELIMINARY
 
 “Commissioner” means the Commissioner of Public Health appointed under section 3 and includes a Deputy Commissioner of Public Health and an Assistant Commissioner of Public Health appointed under that section;
 
+“construction site” means any premises on which works of the following description are being or are going to be carried out:
+
+(a) the erection, construction, alteration, repair or maintenance of buildings, structures or roads;
+
+(b) the breaking up or opening of, or boring under, any road or adjacent land in connection with the construction, inspection, maintenance or removal of works;
+
+(c) demolition or dredging works; or
+
+(d) any other work of engineering construction;
+
+[22/99 wef 01/06/1999]
+
 “dangerous substance” means —
 
 (a) aquafortis, vitriol, naphtha benzine, gunpowder, lucifer matches, nitroglycerine and petroleum;
@@ -348,7 +366,7 @@ PRELIMINARY
 
 [Act 2/96 wef 02/02/1996 vide S 38/96]
 
-“disposal facility” includes a refuse disposal ground, any place used for the deposit of refuse or waste, an incinerator or any plant, machinery or apparatus used for the processing or treatment of refuse or waste;
+“disposal facility” includes a recycling facility, a refuse disposal ground, any place used for the deposit of refuse or waste, an incinerator or any plant, machinery or apparatus used for the processing or treatment of refuse or waste;
 
 “dwelling-house” includes any building or tenement or any part thereof which is used, constructed or adapted for use for human habitation;
 
@@ -435,6 +453,10 @@ PRELIMINARY
 “public waste collector licensee” means a person designated by the Commissioner under section 31(3);
 
 [Act 2/96 wef 02/02/1996]
+
+“recycling facility” means any premises used for the sorting, segregation, processing or treatment of refuse, waste or any other material or thing for the primary purpose of recycling or reuse;
+
+[22/99 wef 01/06/1999]
 
 “sale” includes barter, exchange, import and export and also includes offering or attempting to sell, or causing or allowing to be sold, or exposing for sale, or receiving or sending or delivering for sale, or supplying any food, drink or goods where consideration is to be received by the supplier for such supply either specifically or as part of a service contracted for, or having in possession for sale or having in possession any food, drink or goods knowing that the same is likely to be sold or offered or exposed for sale and the word “sell” shall be construed accordingly;
 
@@ -620,11 +642,15 @@ Offences in respect of Uncleanliness in Public Places
 
 (e) beat, clean, shake, sieve or otherwise agitate any ash, hair, feathers, lime, sand, waste paper or other substance in such manner that it is carried or likely to be carried by the wind to any public place;
 
-(f) throw or leave behind any bottle, can, food container, food wrapper, glass, particles of food or any other article or thing in any public place; or
+(f) throw or leave behind any bottle, can, food container, food wrapper, glass, particles of food or any other article or thing in any public place;
 
-(g) spit or expel mucus from the nose upon or onto any street or any public place.
+(g) spit any substance or expel mucus from the nose upon or onto any street or any public place; or
 
 [Act 2/96]
+
+(h) discard or abandon in any public place any motor vehicle whose registration has been cancelled under section 27 of the Road Traffic Act (Cap. 276), any furniture or any other bulky article.
+
+[22/99 wef 01/06/1999]
 
 (2) No person shall drop, deposit or throw any refuse or any other matter or thing in any channel, drain, lake, reservoir, river, stream or watercourse or upon the bank of any of the same or in any part of the sea abutting on the foreshore.
 
@@ -634,61 +660,83 @@ Offences in respect of Uncleanliness in Public Places
 
 19\. Any person who, during the erection, alteration, construction or demolition of any building or at any time whatsoever, fails to take reasonable precautions to prevent danger to the life, health or well-being of persons using any public place from flying dust or falling fragments or from any other material, thing or substance shall be guilty of an offence.
 
-### Prohibition against dumping refuse, etc., in any public place
+### Prohibition against dropping, scattering, etc., certain substances in public place
 
-20\.—(1) Any person who drops, scatters, spills, throws, dumps or disposes of any dirt, sand, earth, gravel, clay, loam, manure, refuse, sawdust, shavings, stone, straw or any other matter or thing in any public place, whether from a moving or stationary vehicle or in any other manner shall be guilty of an offence.
+20\.—(1) Any person who —
 
-[Act 2/96]
+(a) drops, scatters, spills or throws any noxious liquid, dirt, sand, earth, gravel, clay, loam, manure, refuse, sawdust, shavings, stone, straw or any other similar matter or thing; or
 
-(2) The Commissioner may, by notice in writing, require any person carrying out any construction or earth works to provide or construct any device or facilities as the Commissioner may think fit for the removal of dirt, earth, sand or other particles from any vehicle used in connection with the construction and earth works.
+(b) causes or permits any noxious liquid, dirt, sand, earth, gravel, clay, loam, manure, refuse, sawdust, shavings, stone, straw or any other similar matter or thing to be dropped, scattered, spilled or thrown,
 
-(3) Where any vehicle is used in disposing or dumping of refuse, waste or any other article in any public place, other than a public disposal facility or a disposal facility established with the permission of the Commissioner under section 23(1), the vehicle may be seized by any police officer or any public health officer authorised in writing in that behalf by the Commissioner and removed to and detained in any police station or Government depot or other place as may be approved by the Commissioner at the risk of the owner for the purposes of proceedings under this Act.
+in any public place (whether from a moving or stationary vehicle or in any other manner) shall be guilty of an offence.
 
-(4) Where it is proved to the satisfaction of a court that a vehicle seized under subsection (3) has been used in the commission of an offence of disposing or dumping of refuse, waste or any other article in any public place under subsection (1), the court may on the written application of the Public Prosecutor or the owner of the vehicle, make an order for —
+(2) The Commissioner may, by notice in writing, require any person carrying out any construction or earth works to provide or construct any device or facilities as the Commissioner may think fit for the removal of dirt, earth, sand or other particles from any vehicle used in connection with the construction or earth works.
 
-(a) the forfeiture of the vehicle, notwithstanding that no person may have been convicted of that offence; or
-
-(b) the release of the vehicle if it thinks fit.
-
-[Subst. by Act 2/96 wef 02/02/1996]
-
-(5) An order for the forfeiture or for the release of a vehicle liable to forfeiture under subsection (4) may be made by the court before which the prosecution with regard to an offence under subsection (1) has been or will be held.
-
-(6) If there be no prosecution with regard to an offence under subsection (1), the vehicle seized under subsection (3) shall be forfeited at the expiry of 3 months from the date of the seizure unless a claim thereto is made before that date. Any person asserting that he is the owner of such vehicle may personally, or by his agent authorised in writing, give written notice to the Commissioner that he claims the vehicle.
-
-[Act 2/96]
-
-(7) Upon receipt of a notice under subsection (6), the Commissioner may direct that the vehicle be released or may refer the matter by information to a Magistrate.
-
-(8) The Magistrate shall, on receipt of an information under subsection (7) or on the written application of the Public Prosecutor, hold an inquiry and proceed to determine the matter and may —
-
-(a) on proof that the vehicle was used in the commission of an offence of disposing or dumping of refuse, waste or any other article in any public place under subsection (1), order the vehicle to be forfeited; or
-
-(b) in the absence of such proof or if he thinks fit, order the vehicle to be released.
-
-[Subst. by Act 2/96 wef 02/02/1996]
-
-(9) No person shall, in any proceedings in any court in respect of the seizure of any vehicle seized in exercise or the purported exercise of any power conferred under subsection (3) be entitled to the costs of such proceedings or to any damages or other relief, other than an order for the return of the vehicle, unless the seizure was made without reasonable or probable cause.
-
-(10) For the purposes of subsection (1) —
+(3) For the purposes of subsection (1) —
 
 (a) where the matter or thing is dropped, scattered, spilt or thrown from a vehicle, the driver or person having charge or control of the vehicle shall be deemed to have committed the offence, unless the offence is committed by a person other than the driver or person having charge or control of the vehicle and the identity of the person who committed the offence can be established; and
 
-(b) where the driver of a motor vehicle is alleged or is suspected to be guilty of the offence —
+(b) where the driver of a motor vehicle is alleged or is suspected to be guilty of the offence under this section —
 
-(i) the owner of the motor vehicle shall give such information as he may be required to give by a police officer, public health officer or by a public officer authorised in writing in that behalf by the Commissioner as to the identity and address of the person who was driving the motor vehicle at or about the time of the alleged offence and such other information as the police officer, public health officer or public officer may require, and if he fails to do so within 14 days of the date on which the information was required from him, he shall be guilty of an offence unless he proves to the satisfaction of the court that he did not know and could not with reasonable diligence have ascertained the information required; and
+(i) the owner of the motor vehicle shall give such information as he may be required to give by a police officer, public health officer or by a public officer authorised in writing in that behalf by the Commissioner as to the identity and address of the person who was driving the motor vehicle at or about the time of the alleged offence and such other information as the police officer, public health officer or public officer may require; and
 
-(ii) any other person who was or should have been in charge or in control of the motor vehicle shall, if so required, give any information which it is in his power to give, and which may lead to the identification of the driver, and if, within 14 days of the date on which the information was required from him, he fails to do so, he shall be guilty of an offence.
+(ii) any other person who was or should have been in charge or in control of the motor vehicle shall, if so required, give any information which it is in his power to give, and which may lead to the identification of the driver.
+
+(4) Any person who fails to comply with subsection (3)(b)(i) or (ii) within 14 days of the date on which the information was required from him shall be guilty of an offence unless he proves to the satisfaction of the court that he did not know and could not with reasonable diligence have ascertained the information required.
+
+[22/99 wef 01/06/1999]
+
+### Prohibition against dumping and disposing
+
+20A\.—(1) Any person who —
+
+(a) dumps or disposes of any refuse, waste or any other article from a vehicle in a public place; or
+
+(b) uses a vehicle for the purpose of dumping or disposing of any refuse, waste or any other article in a public place,
+
+shall be guilty of an offence.
+
+(2) Any vehicle used in dumping or disposing of refuse, waste or any other article in any public place (other than a disposal facility established with a licence granted by the Commissioner under section 23(1) or a public disposal facility) may be seized by any police officer, or any public health officer authorised in writing in that behalf by the Commissioner, and removed to and detained in any police station or Government depot or other place as may be approved by the Commissioner at the risk of the owner for the purposes of proceedings under this Act.
+
+(3) Where, upon an application by the Public Prosecutor, it is proved to the satisfaction of a court that a vehicle seized under subsection (2) has been used in the commission of an offence of dumping or disposing of refuse, waste or any other article in any public place under subsection (1), the court shall make an order for the forfeiture of the vehicle, notwithstanding that no person may have been convicted of that offence.
+
+(4) An order for the forfeiture of a vehicle under subsection (3) may be made by the court before which the prosecution with regard to an offence under subsection (1) has been or will be held.
+
+(5) If there is no prosecution with regard to an offence under subsection (1) —
+
+(a) the vehicle seized under subsection (2) shall be forfeited at the expiry of 3 months from the date of the seizure unless a claim thereto is made before that date; and
+
+(b) any person asserting that he is the owner of such vehicle may personally, or by his agent authorised in writing, give written notice to the Commissioner that he claims the vehicle.
+
+(6) Upon receipt of a notice under subsection (5), the Commissioner may direct that the vehicle be released or may refer the matter by information to a Magistrate.
+
+(7) The Magistrate shall, on receipt of an information under subsection (6), hold an inquiry and proceed to determine the matter and shall —
+
+(a) on proof that the vehicle was used in the commission of an offence of dumping or disposing of refuse, waste or any other article in any public place under subsection (1), order the vehicle to be forfeited; or
+
+(b) in the absence of such proof, order the vehicle to be released.
+
+(8) No person shall, in any proceedings in any court in respect of the seizure of any vehicle seized in exercise or the purported exercise of any power conferred under subsection (2), be entitled to the costs of such proceedings or to any damages or other relief, other than an order for the return of the vehicle, unless the seizure was made without reasonable or probable cause.
+
+[22/99 wef 01/06/1999]
 
 ### Notice to attend Court
 
-21\.—(1) Any person who commits an offence under section 18, 19 or 20 may be arrested without warrant by any police officer, public health officer or public officer authorised in writing in that behalf by the Commissioner and taken before a Magistrate’s Court or a District Court, as the case may be, and shall on conviction —
+21\.—(1) Any person who commits an offence under section 18, 19, 20 or 20A may be arrested without warrant by any police officer, public health officer, or public officer authorised in writing in that behalf by the Commissioner, and taken before a Magistrate’s Court or a District Court, as the case may be, and shall be liable on conviction —
 
-(a) in the case of an offence of disposing or dumping of refuse, waste or any other article in any public place under section 20(1), be liable to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $20,000 and to imprisonment for a term of not less than one month and not more than 12 months; and
+(a) in the case of an offence under section 20A(1), to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $100,000 and to imprisonment for a term of not less than one month and not more than 12 months;
 
-(b) in the case of any other offence, be liable to a fine not exceeding $1,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $2,000.
+(b) in the case of an offence under section 18(1)(h), to a fine not exceeding $5,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 months or to both; and
 
-[Subst. by Act 2/96 wef 02/02/1996]
+(c) in the case of any other offence, to a fine not exceeding —
+
+(i) in the case of a first conviction, $1,000;
+
+(ii) in the case of a second conviction, $2,000; and
+
+(iii) in the case of a third and subsequent conviction, $5,000.
+
+[22/99 wef 01/06/1999]
 
 (2) Notwithstanding subsection (1) or any other written law, any police officer, public health officer or public officer who, having effected an arrest in accordance with this section, is satisfied as to the identity, name and place of residence of the person arrested, may, instead of taking that person before a Court or to a police station, serve upon that person a notice in such form as may be prescribed under section 115 requiring the person to attend at the Court described at the hour and on the date specified in the notice.
 
@@ -708,9 +756,9 @@ Offences in respect of Uncleanliness in Public Places
 
 ### Corrective work orders
 
-21A\.—(1) Where a person who is 16 years of age or above is convicted of an offence under section 18 or 20, and if the Court by or before which he is convicted is satisfied that it is expedient with a view to his reformation and the protection of the environment and environmental public health that he should be required to perform unpaid work in relation to the cleaning of any premises, the Court shall, in lieu of any other order, punishment or sentence and unless it has special reasons for not so doing make a corrective work order requiring him to perform such work under the supervision of a supervision officer and in accordance with the provisions of this section and section 21B.
+21A\.—(1) Where a person who is 16 years of age or above is convicted of an offence under section 18 or 20, and if the Court by or before which he is convicted is satisfied that it is expedient with a view to his reformation and the protection of the environment and environmental public health that he should be required to perform unpaid work in relation to the cleaning of any premises, the Court shall, in lieu of or in addition to any other order, punishment or sentence and unless it has special reasons for not so doing make a corrective work order requiring him to perform such work under the supervision of a supervision officer and in accordance with the provisions of this section and section 21B.
 
-(2) The number of hours which a person may be required to work under a corrective work order shall be specified in the order and shall not in the aggregate exceed 3 hours.
+(2) The number of hours which a person may be required to work under a corrective work order shall be specified in the order and shall not in the aggregate exceed 12 hours.
 
 (3) Notwithstanding section 18 of the Criminal Procedure Code, where a Court makes corrective work orders in respect of two or more offences of which the offender has been convicted by or before the Court, the Court may direct that the hours of work specified in any of those orders shall be concurrent with or additional to the hours specified in any other of those orders, but so that the total number of hours which are not concurrent shall not exceed the maximum specified in subsection (2).
 
@@ -738,7 +786,9 @@ Offences in respect of Uncleanliness in Public Places
 
 (2) The work required to be performed under a corrective work order shall be performed during the period of 12 months beginning with the date of the order; but unless revoked, the order shall remain in force until the offender has worked under it for the number of hours specified therein.
 
-(3) The instructions given by the supervision officer under this section shall, so far as practicable, be such as to avoid any interference with the times, if any, at which the offender normally works or attends a school or other educational institution.
+(3) A supervision officer shall not require an offender to work under one or more corrective work orders for a continuous period exceeding 3 hours in a day.
+
+[22/99 wef 01/06/1999]
 
 (4) The Minister may make regulations, not inconsistent with the provisions of this section, to make further provisions for the manner in which a corrective work order may be carried out including the imposition of additional requirements and the service of any instructions or notice on a person in respect of whom such an order has been made.
 
@@ -810,7 +860,7 @@ Disposal Facilities
 
 (7) Any person using, working or operating a disposal facility shall use, work or operate such facility in such manner as the Commissioner may require.
 
-(8) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both .
+(8) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 (9) If in any proceedings for a contravention of subsection (1) it is shown that any premises are being used as a disposal facility, it shall be presumed, until the contrary is proved, that the occupier of the premises has constructed, established, maintained or operated the disposal facility.
 
@@ -1114,6 +1164,14 @@ may make a complaint to a Magistrate’s Court, and such Court after hearing the
 
 (8) Where a nuisance order prohibits a dwelling-house from being used for human habitation, the Commissioner shall serve notice of the order on every occupier of the dwelling-house and, within such period as is specified in the order not being less than 7 days (except in case of immediate danger) after the service of the order, the order shall be obeyed by him and he and his family shall cease to inhabit the dwelling-house, and in default he shall be guilty of an offence and the Court shall, upon application by the Commissioner, make a summary order for his ejectment and the order may be carried into effect by any police officer.
 
+(9) Any person who fails to comply with a nuisance order served on him under subsection (1) shall be guilty of an offence and shall be liable —
+
+(a) in the case of a first conviction, to a fine not exceeding $10,000 and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part thereof during which the offence continues after conviction; and
+
+(b) in the case of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 3 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part thereof during which the offence continues after conviction.
+
+[22/99 wef 01/06/1999]
+
 ### Execution of order for demolition
 
 46\.—(1) Where an order for the demolition of a dwelling-house has been made under section 45(6), the owner thereof shall, within the time mentioned in the order, take down and remove the dwelling-house and, if the order for demolition so directs and to the extent therein mentioned, destroy the materials thereof.
@@ -1326,11 +1384,21 @@ General Health Requirements for Buildings
 
 64\. The Commissioner may, in his discretion, by notice in writing, require any employer to provide for his employees, if in the opinion of the Commissioner the conditions or circumstances under which such employees work so warrant, suitable and sufficient facilities by way of mess rooms, rest rooms, canteens, changing rooms or pantries or to improve upon the same if the Commissioner considers the existing facilities inadequate.
 
+### Appointment of Environmental Control Officer in construction site
+
+65\.—(1) This section shall apply to such class or description of construction sites as the Minister may, by order published in theGazette, specify.
+
+(2) The occupier of any construction site to which this section applies shall employ a competent person to act as an Environmental Control Officer in the construction site.
+
+(3) The Environmental Control Officer employed under this section shall be employed on a full-time or part-time basis, as may be specified in the order under subsection (1), for the purpose of exercising general supervision within the construction sites of the observance of the provisions of this Act, the Control of Vectors and Pesticides Act 1998 (Act 24 of 1998), the Environmental Pollution Control Act 1999 (Act 9 of 1999) and the Sewerage and Drainage Act 1999 (Act 10 of 1999), and any regulations made thereunder.
+
+(4) The Environmental Control Officer shall possess such qualifications or have received such training as the Minister may from time to time, by notification in theGazette, prescribe.
+
+[22/99 wef 01/06/1999]
+
 ## PART VIII
 
 OFFENSIVE TRADES
-
-65\. [Repealed by Act 2/96 wef 02/02/1996]
 
 66\. [Repealed by Act 2/96 wef 02/02/1996]
 
@@ -1438,9 +1506,13 @@ the Commissioner may order the cemetery or crematorium or any part thereof to be
 
 (a) by a notice from the Commissioner under section 79;
 
-(b) by order of a Magistrate, Coroner or Commissioner of Police for the purpose of judicial inquiry; or
+(b) by order of a Magistrate, Coroner or Commissioner of Police for the purpose of judicial inquiry;
 
-(c) by written permission granted for that purpose by the Commissioner.
+(c) by written permission granted for that purpose by the Commissioner; and
+
+(d) by the Commissioner for the purpose of using the place where the corpse is buried for the burial of another corpse.
+
+[22/99 wef 01/06/1999]
 
 (2) Any person who exhumes or causes to be exhumed or, being the owner, trustee or person in charge of any burial ground, permits to be exhumed any corpse in contravention of this section shall be guilty of an offence.
 
@@ -1528,7 +1600,7 @@ MISCELLANEOUS
 
 ### Default in compliance with notice
 
-94\.—(1) When any notice or order under this Act or any regulations made thereunder requires any act to be done or work to be executed by the owner or occupier or the person in charge of any premises and default is made in complying with the requirements of the notice or order, the person in default shall, where no fine is specially provided for such default be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 .
+94\.—(1) When any notice or order under this Act or any regulations made thereunder requires any act to be done or work to be executed by the owner or occupier or the person in charge of any premises and default is made in complying with the requirements of the notice or order, the person in default shall, where no fine is specially provided for such default be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
 (2) When any such notice or order requires any act to be done or work to be executed for which no time is fixed by this Act or any regulations made thereunder, it shall fix a reasonable time for complying with the requirements.
 
@@ -1578,6 +1650,18 @@ MISCELLANEOUS
 
 (2) The Commissioner may require any applicant for a licence to furnish such information and evidence as he may reasonably require for a full and proper consideration of the application and in the event of a refusal to furnish the information shall refuse to grant or renew the licence.
 
+(2A) The Commissioner may, before granting or renewing any licence, require the applicant to give security, either in the form of a cash deposit or by entering into a bond, that the provisions of this Act and of the conditions of the licence will be duly observed.
+
+[22/99 wef 01/06/1999]
+
+(2B) Where an applicant is required to enter into a bond, the Commissioner may require not more than 2 sureties to enter into the bond with the applicant.
+
+[22/99 wef 01/06/1999]
+
+(2C) Any sum deposited or bond entered into under this section shall be liable to forfeiture in whole or in part at the discretion of the Commissioner on cancellation of the licence.
+
+[22/99 wef 01/06/1999]
+
 (3) Any person who wilfully furnishes any false information in any application for a licence shall be guilty of an offence and any licence granted shall be void and of no effect.
 
 (4) Subject to the provisions of this Act, any licence may be for such period as the Commissioner thinks fit.
@@ -1590,7 +1674,7 @@ MISCELLANEOUS
 
 (8) No person may in any manner transfer any licence or permit any licence to be used by any other person without the approval in writing of the Commissioner.
 
-(9) Subject to the provisions of this Act, any person aggrieved by the refusal by the Commissioner to grant or renew a licence or by the suspension or revocation by the Commissioner of any licence may within 14 days of such refusal, suspension or revocation appeal to the Minister whose decision shall be final.
+(9) Subject to the provisions of this Act, any person aggrieved by the refusal by the Commissioner to grant or renew a licence or by the suspension or revocation by the Commissioner of any licence or by the forfeiture of any sum deposited or bond entered into under this section may within 14 days of such refusal, suspension or revocation appeal to the Minister whose decision shall be final.
 
 (10) For the purposes of this section, “licence” includes any approval, permit, permission, authority, authorisation or licence which may be granted or renewed by the Commissioner in pursuance of this Act or any regulations made thereunder.
 
@@ -1607,6 +1691,22 @@ MISCELLANEOUS
 (2) The occupier of any premises shall, if required by any police officer, public health officer or public officer authorised in writing in that behalf by the Commissioner, give his name and other proof of identity and the name and address of the owner of the premises, if known.
 
 (3) Any person who contravenes this section or wilfully mis-states his name and address or the name and address of the owner of any premises shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $300.
+
+### Power of investigating offences under sections 20A and 23
+
+102A\.—(1) For the purpose of investigating any offence under section 20A or 23, the Commissioner or any public officer authorised in writing in that behalf by the Commissioner may —
+
+(a) examine orally any person supposed to be acquainted with the facts and circumstances of the case, and to reduce to writing any statement made by the person so examined; and
+
+(b) require by order in writing the attendance before himself of any person who, from information given or otherwise, appears to be acquainted with the facts and circumstances concerning the case and that person shall attend as so required.
+
+(2) The person mentioned in subsection (1)(a) shall be bound to state truly the facts and circumstances with which he is acquainted concerning the case except only that he may decline to make with regard to any fact or circumstance a statement which would have a tendency to expose him to a criminal charge or to penalty or forfeiture.
+
+(3) A statement made under this section by any person shall be read over to him and shall, after correction, if necessary, be signed by him.
+
+(4) If any person fails to attend as required by an order under subsection (1)(b), the Commissioner or any public officer authorised in writing in that behalf may report such failure to a Magistrate who may thereupon issue a warrant to secure the attendance of that person as required by the order.
+
+[22/99 wef 01/06/1999]
 
 ### Furnishing of information required by Commissioner
 
@@ -1642,11 +1742,11 @@ MISCELLANEOUS
 
 ### Penalty
 
-108\. Any person who contravenes or fails to comply with any of the provisions of this Act shall be guilty of an offence and where no penalty is expressly provided shall be liable on conviction to a fine not exceeding $2,000 and in the case of a second or subsequent conviction to a fine not exceeding $4,000$ or to imprisonment for a term not exceeding 3 months or to both.
+108\. Any person who contravenes or fails to comply with any of the provisions of this Act shall be guilty of an offence and where no penalty is expressly provided shall be liable on conviction to a fine not exceeding $5,000 and in the case of a second or subsequent conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 months or to both.
 
 ### Compounding of offences
 
-109\.—(1) The Commissioner may, in his discretion, compound any offence under this Act or any regulations made thereunder as may be prescribed as being an offence which may be compounded by collecting from a person reasonably suspected of having committed the offence a sum of money not exceeding $500 .
+109\.—(1) The Commissioner may, in his discretion, compound any offence under this Act or any regulations made thereunder as may be prescribed as being an offence which may be compounded by collecting from a person reasonably suspected of having committed the offence a sum of money not exceeding $500 in the case of an offence punishable on conviction with a fine not exceeding $5,000 (whether with or without imprisonment); or a sum of money not exceeding $5,000 in the case of an offence punishable on conviction with a fine exceeding $5,000 (whether with or without imprisonment).
 
 (2) On payment of such sum of money, no further proceedings shall be taken against that person in respect of the offence.
 
@@ -1656,25 +1756,11 @@ MISCELLANEOUS
 
 110\. Any public officer and any officer of any statutory board authorised by the Commissioner in writing in that behalf may, with the approval of the Minister, exercise such powers under this Act or any regulations made thereunder as the Commissioner may empower him to exercise, subject to such limitations as the Commissioner may specify.
 
-### Authorised members, employees or agents of Town Councils to exercise certain powers of the Commissioner
+### Persons who may be authorised to exercise powers of Commissioner
 
-110A\. The Commissioner may, with the approval of the Minister, in writing in that behalf authorise —
+110A\. The Commissioner may, with the approval of the Minister in writing in that behalf, authorise any person set out in the first column of the Fifth Schedule to exercise all or any of the powers under this Act and any regulations made thereunder that are set out in the second column of that Schedule, subject to such conditions or limitations as the Commissioner may specify.
 
-(a) any member of a Town Council established under the Town Councils Act [Cap. 329A];
-
-(b) any member of any committee of a Town Council;
-
-[Act 2/96]
-
-(c) any employee or agent of a Town Council; or
-
-(d) any operator of a public service vehicle,
-
-[Act 2/96 wef 02/02/1996]
-
-to exercise all or any of the powers of the Commissioner under this Act or any regulations made thereunder subject to such conditions or limitations as the Commissioner may specify.
-
-[Act 37/89 wef 15/01/1990 vide S 12/90]
+[22/99 wef 01/06/1999]
 
 ### Inaccuracies in documents
 
@@ -1696,7 +1782,7 @@ to exercise all or any of the powers of the Commissioner under this Act or any r
 
 (2) The Minister may, in making any regulations, prescribe the circumstances in which it shall be presumed that an offence under the provisions of any such regulations was committed.
 
-(3) The Minister may, in making any regulations, provide that any contravention of, or failure or neglect to comply with any regulations shall be an offence and may prescribe the fine with which the offence shall be punishable, but so that no such fine shall exceed for any one offence the sum of $2,000 and in the case of a continuing offence the sum of $100 for every day or part thereof during which the offence continues after conviction.
+(3) The Minister may, in making any regulations, provide that any contravention of, or failure or neglect to comply with any regulations shall be an offence and may prescribe the fine with which the offence shall be punishable, but so that no such fine shall exceed for any one offence the sum of $10,000 and in the case of a continuing offence the sum of $500 for every day or part thereof during which the offence continues after conviction.
 
 (4) All regulations made under this Act shall be published in theGazetteand shall be presented to Parliament as soon as possible after publication.
 
@@ -1816,6 +1902,116 @@ Subject-matters of Regulations
 
 [S 77/98 wef 01/03/1998]
 
+FIFTH SCHEDULE
+
+Private Persons Who Can be Authorised
+
+
+
+
+to Exercise Powers under the Act
+
+
+
+
+OR REGULATIONS and powers IN RESPECT OF
+
+
+
+
+Which Persons May Act
+
+First column
+
+Second column
+
+Private persons who may be authorised to exercise powers under the Act and regulations made thereunder
+
+Powers under the Act and regulations which the person may be authorised to exercise
+
+(1) Any member or employee of a Town Council established under the Town Councils Act (Cap.329A)
+
+)
+
+
+
+
+)
+
+
+
+
+)
+
+
+
+
+)
+
+
+
+
+)
+
+
+
+
+)
+
+Powers of a public health officer under —
+
+(a) section 21 of the Act; and
+
+(b) sections 102 and 104 of the Act in relation to any offence under section 18 of the Act and regulation 15(1) of the Environmental Public Health (Public Cleansing) Regulations (Rg 3).
+
+(2) Any employee of an agent of a Town Council
+
+)
+
+
+
+
+)
+
+
+
+
+)
+
+(3) Any employee of an agent of a Town Council
+
+)
+
+
+
+
+)
+
+
+
+
+)
+
+(4) Any operator of a public service vehicle
+
+Powers of a public health officer under —
+
+(a) section 21 of the Act; and
+
+(b) sections 102 and 104 of the Act in relation to any offence under section 18 of the Act
+
+(5) Any employee of PSA Corporation Limited
+
+Powers of a public health officer under —
+
+(a) sections 21 and 42 of the Act;
+
+(b) section 102 of the Act in relation to any offence under section 18, 19 or 20 of the Act, Part IV of the Act or to any offence under regulations 4, 8(2), 9, 14, 15(1) or (3), 25, 26(1) (a) and (b) of the Environmental Public Health (Public Cleansing) Regulations (Rg 3); and
+
+(c) section 104 of the Act in relation to any offence under regulations 4, 8(2), 9, 14, 15(1) or (3), 25, 26(1) (a) and (b) of the Environmental Public Health (Public Cleansing) Regulations (Rg 3).
+
+[22/99 wef 01/06/1999]
+
 ## LEGISLATIVE HISTORY
 
 Environmental Public Health Act
@@ -1856,3 +2052,8 @@ This Legislative History is provided for the convenience of users of the Environ
 |||(Bill No. 2/99 published on 21 January 1999)|
 ||Date of Second and Third Readings|11 February 1999|
 ||Date of commencement|1 April 1999|
+|8.|**Act 22 of 1999—Environmental Public Health (Amendment) Act 1999**|
+||Date of First Reading|8 March 1999|
+|||(Bill No. 11/99 published on 9 March 1999)|
+||Date of Second and Third Readings|4 May 1999|
+||Date of commencement|1 June 1999|
