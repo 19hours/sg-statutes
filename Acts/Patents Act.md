@@ -138,27 +138,33 @@
 
 - [55 Compulsory licences](#Compulsory-licences)
 
-- [56 Inventions relating to food or medicine or surgical or curative device](#Inventions-relating-to-food-or-medicine-or-surgical-or-curative-device)
+- [56 (Repealed)](#Repealed)
 
-- [57 Provisions as to licences under Section 55 or 56](#Provisions-as-to-licences-under-Section-55-or-56)
+- [57 (Repealed)](#Repealed)
 
-- [58 Exercise of powers on application under section 55](#Exercise-of-powers-on-application-under-section-55)
+- [58 (Repealed)](#Repealed)
 
-- [59 Opposition, appeal and arbitration](#Opposition-appeal-and-arbitration)
+- [59 (Repealed)](#Repealed)
 
-- [60 Supplementary provisions](#Supplementary-provisions)
+- [60 (Repealed)](#Repealed)
 
 [**Part XII USE OF PATENTED INVENTIONS FOR SERVICES OF GOVERNMENT**](#Part-XII)
 
 - [61 Use of patented inventions for services of Government](#Use-of-patented-inventions-for-services-of-Government)
 
-- [62 Interpretation, etc., of provisions about Government use](#Interpretation-etc-of-provisions-about-Government-use)
+- [62 (Repealed)](#Repealed)
 
 - [63 Rights of third parties in respect of Government use](#Rights-of-third-parties-in-respect-of-Government-use)
 
 - [64 References of disputes as to Government use](#References-of-disputes-as-to-Government-use)
 
 - [65 Special provisions as to Government use during emergency](#Special-provisions-as-to-Government-use-during-emergency)
+
+- [65A Nature and scope of rights under section 61](#Nature-and-scope-of-rights-under-section-61)
+
+- [65B Duty to inform patentee](#Duty-to-inform-patentee)
+
+- [65C Patentee entitled to remuneration](#Patentee-entitled-to-remuneration)
 
 [**Part XIII INFRINGEMENT OF PATENTS**](#Part-XIII)
 
@@ -376,9 +382,9 @@ PRELIMINARY
 
 “right”, in relation to any patent or application, includes an interest in the patent or application and, without prejudice to the foregoing, any reference to a right in a patent includes a reference to a share in the patent;
 
-“scientific adviser” means any person with any scientific qualification, any medical practitioner, engineer, architect, surveyor, accountant, actuary and any other specially skilled person;
+“scientific adviser” means any person with any scientific qualification, any medical practitioner, engineer, architect, surveyor, accountant, actuary and any other specially skilled person.
 
-“services of the Government” and “use for the services of the Government” have the same meanings as in section 62(2), including, as respects any period of emergency within the meaning of section 65, the meanings assigned to them by that section.
+[Act 40/95 wef 01/01/1996]
 
 (2) Rules may provide for stating in the journal that an exhibition falls within the definition of “international exhibition” in subsection (1) and any such statement shall be conclusive evidence that the exhibition falls within that definition.
 
@@ -388,7 +394,7 @@ PRELIMINARY
 
 (5) References in this Act to an application for a patent being published are references to its being published under section 27.
 
-(6) References in this Act to the Paris Convention or the Patent Co-operation Treaty are references to that Convention or Treaty or any other international convention or agreement replacing it, as amended or supplemented by any convention or international agreement (including in either case any protocol or annex) to which Singapore is a party, or in accordance with the terms of any such convention or agreement and include references to any instrument made under any such convention or agreement.
+(6) References in this Act to the Paris Convention or the Patent Co-operation Treaty are references to that convention or Treaty or any other international convention or agreement replacing it, as amended or supplemented by any convention or international agreement (including in either case any protocol or annex) to which Singapore is a party, or in accordance with the terms of any such convention or agreement and include references to any instrument made under any such convention or agreement.
 
 (7) The Arbitration Act [Cap. 10] shall not apply to any proceedings before the Registrar under this Act.
 
@@ -478,7 +484,7 @@ PATENTABILITY
 
 ### Patentable inventions
 
-13\.—(1) Subject to subsections (2) and (3), a patentable invention is one that satisfies the following conditions:
+13\.—(1) Subject to subsection (3), a patentable invention is one that satisfies the following conditions:
 
 (a) the invention is new;
 
@@ -486,23 +492,15 @@ PATENTABILITY
 
 (c) it is capable of industrial application.
 
-(2) It is hereby declared that the following (among other things) are not inventions for the purposes of this Act, that is to say, anything which consists of —
+[Act 40/95 wef 01/01/1996]
 
-(a) a discovery, scientific theory or mathematical method;
+(2) [Deleted by Act 40 of 1995 wef 01/01/1996]
 
-(b) a literary, dramatic, musical or artistic work or any other aesthetic creation whatsoever;
-
-(c) a scheme, rule or method for performing a mental act, playing a game or doing business, or a program for a computer; or
-
-(d) the presentation of information,
-
-but the foregoing provisions shall prevent anything from being treated as an invention for the purposes of this Act only to the extent that a patent or an application for a patent relates to that thing as such.
-
-(3) An invention the publication or exploitation of which would be generally expected to encourage offensive, immoral or anti-social behaviour is not a patentable invention.
+(3) [An invention the publication or exploitation of which would be generally expected to encourage offensive, immoral or anti-social behaviour is not a patentable invention.]
 
 (4) For the purposes of subsection (3), behaviour shall not be regarded as offensive, immoral or anti-social only because it is prohibited by any law in force in Singapore.
 
-(5) The Minister may, by order published in theGazette, vary the provisions of subsection (2) for the purposes of maintaining them in conformity with developments in science and technology.
+(5) [Deleted by Act 40 of 1995 wef 01/01/1996]
 
 ### Novelty
 
@@ -844,7 +842,9 @@ and if the applicant fails to make such request, pay the prescribed fee or furni
 
 (a) in pursuance of more than one application where two or more applications for a patent for the same invention having the same priority date have been filed by the same applicant or his successor in title; or
 
-(b) in respect of any thing referred to in section 13(2) or any invention referred to in section 13(3).
+(b) in respect of any invention referred to in section 13(3).
+
+[Act 40/95 wef 01/01/1996]
 
 ### General power to amend application before grant
 
@@ -914,7 +914,7 @@ and if the applicant fails to make such request, pay the prescribed fee or furni
 
 34\.—(1) Subject to this section, no person resident in Singapore shall, without written authority granted by the Registrar, file or cause to be filed outside Singapore an application for a patent for an invention unless —
 
-(a) an application for a patent for the same invention has been filed in the Registry not less than 2 months before the application outside Singapore; and
+(a) an application for a patent for the same invention has been filed in the Registry not less than two months before the application outside Singapore; and
 
 (b) no directions have been given under section 33 in relation to the application in Singapore or all such directions have been revoked.
 
@@ -1354,125 +1354,71 @@ may, within the prescribed period, give notice to the Registrar of opposition to
 
 ### Compulsory licences
 
-55\.—(1) At any time after the expiration of 3 years, or of such other period as may be prescribed, from the date of the grant of a patent, any person may apply to the Registrar —
+55\.—(1) At any time after the expiration of 3 years from the date of the grant of a patent or 4 years from the date of filing of the patent application, whichever is the later, any person interested may apply to the court for the grant of a licence under the patent upon any of the grounds specified in subsection (2).
 
-(a) for a licence under the patent;
+(2) The grounds upon which a licence may be granted under this section are that a market for the patented invention is not being supplied, or is not being supplied on reasonable terms, in Singapore.
 
-(b) for an entry to be made in the register to the effect that licences under the patent are to be available as of right; or
+(3) Subject to this section, if the court is satisfied that either of the grounds referred to in subsection (2) is established, the court may make an order for the grant of a licence in accordance with the application upon such terms as the court thinks fit.
 
-(c) where the applicant is a Government department, for the grant to any person specified in the application of a licence under the patent,
+(4) A licence granted under this section —
 
-if it appears at the time such application is filed, one or more of the grounds specified in subsection (2) are met.
+(a) is not exclusive;
 
-(2) The grounds referred to in subsection (1) are —
+(b) shall not be assigned otherwise than in connection with the goodwill of the business in which the patented invention is used;
 
-(a) that there is no production of the patented product or application of the patented process in Singapore without any legitimate reason;
+(c) is limited to the supply of the patented invention predominantly in Singapore.
 
-(b) that there is no product produced in Singapore under the patent for sale in Singapore or there are some but they are sold at unreasonably high prices or do not meet the public demand without any legitimate reason;
+(5) Any licence granted under this section may, on the application of any interested party, be terminated by the court where the court is satisfied that the ground upon which the licence was granted has ceased to exist.
 
-(c) that by reason of the refusal of the proprietor of the patent to grant a licence or licences on reasonable terms —
+(6) Where a licence is granted under this section to any person, the person shall pay such remuneration to be patentee as may be agreed, or as may be determined by a method agreed between the person and the patentee or, in default of agreement, as is determined by the court on the application of the person or the patentee.
 
-(i) a market for the export of any patented product made in Singapore is not being supplied;
+(7) No licence shall be granted under this section unless the person applying for the licence has first taken all reasonable steps to obtain a licence from the patentee on reasonable commercial terms and conditions and has failed to obtain such licence within a reasonable period of time.
 
-(ii) the working or efficient working in Singapore of any other patented invention which makes a substantial contribution to the art is prevented or hindered; or
+(8) No licence shall be granted under this section in respect of a patent relating to an integrated circuit except to remedy a practice which is determined by the court to be anti-competitive.
 
-(iii) the establishment or development of commercial or industrial activities in Singapore is unfairly prejudiced; and
+(9) If the patented invention cannot be worked by the applicant without his infringing another patent —
 
-(d) that by reason of conditions imposed by the proprietor of the patent on the grant of licences under the patent, or on the disposal or use of the patented product or on the use of the patented process, the manufacture, use or disposal of materials not protected by the patent, or the establishment or development of commercial or industrial activities in Singapore, is unfairly prejudiced.
+(a) the court is to make the order under subsection (3) only if the court is further satisfied that the applicant’s patented invention involves an important technical advance of considerable economic significance in relation to the invention claimed in the other patent;
 
-(3) Subject to subsections (4) to (6), if the Registrar is satisfied that any of those grounds under subsection (2) are established, he may —
+(b) the court shall further order that the patentee of the other invention —
 
-(a) where the application is under subsection (1)(a), order the grant of a licence to the applicant on such terms (including the transfer of know-how associated with the patented invention) as he thinks fit;
+(i) shall grant to the applicant a licence to work the other invention insofar as is necessary to work the patented invention; and
 
-(b) where the application is under subsection (1)(b), make such an entry as is there mentioned; or
+(ii) is to be granted, if he so requires, a cross-licence on reasonable terms to work the patented invention;
 
-(c) where the application is under subsection (1)(c), order the grant of a licence to the person specified in the application on such terms (including the transfer of know-how associated with the patented invention) as the Registrar thinks fit.
+(c) the court shall direct that the licence granted by the patentee of the other invention may be assigned by the applicant —
 
-(4) Where the application is made on the ground that there is no production of the patented product or application of the patented process in Singapore or there is insufficient or no product produced under the patent for sale in Singapore, and it appears to the Registrar that the time which has elapsed since the publication in the journal of a notice of the grant of the patent has for any reason been insufficient to enable the invention to be so worked, he may by order adjourn the application for such period as will in his opinion give sufficient time for the invention to be so worked.
+(i) only if the licence granted in respect of the patented invention is also assigned; and
 
-(5) No entry shall be made in the register under this section on the ground mentioned in subsection (2)(c)(i), and any licence granted under this section on that ground shall contain such provisions as appear to the Registrar to be expedient for restricting the countries in which any product concerned may be disposed of or used by the licensee.
+(ii) only to the assignee of that licence.
 
-(6) No order or entry shall be made under this section in respect of a patent on the ground mentioned in subsection (2)(c)(ii) unless the Registrar is satisfied that the proprietor of the patent for the other invention is able and willing to grant to the proprietor of the patent and his licensees a licence under the patent for the other invention on reasonable terms.
+(10) The powers of the court on an application under this section shall be exercised with a view to securing that the inventor or other person beneficially entitled to a patent shall receive reasonable remuneration having regard to the economic value of the licence.
 
-(7) An application may be made under this section in respect of a patent notwithstanding that the applicant is already the holder of a licence under the patent; and no person shall be estopped or barred from alleging any of the matters specified in subsection (2) by reason of any admission made by him, whether in such a licence or otherwise, or by reason of his having accepted such a licence.
+(11) No order shall be made in pursuance of any application under this section which would be at variance with any treaty or international convention relating to patents to which Singapore is a party.
 
-### Inventions relating to food or medicine or surgical or curative device
+(12) For the purposes of this section and section 61, “intergrated circuit” means a circuit, in its final or an intermediate form, in which the elements, at least one of which is an active element, and some or all of the interconnections are integrally formed in or on a piece of material and that is intended to perform an electronic function.
 
-56\.—(1) At any time after the date of the grant of a patent in respect of —
+[Act 40/95 wef 01/01/1996]
 
-(a) a substance capable of being used as food or medicine or in the production of food or medicine;
+Inventions relating to food or medicine or surgical or curative device
 
-(b) a process for producing any such substance as aforesaid; or
+56\. [Repealed by Act 40/95 wef 01/01/1996]
 
-(c) any invention capable of being used as or as part of a surgical or curative device,
+Provisions as to licences under Section 55 or 56
 
-the Registrar may, on application made to him by any person, order the grant to the applicant of a licence under the patent on such terms as he thinks fit, unless it appears to him that there are good reasons for refusing the application.
+57\. [Repealed by Act 40/95 wef 01/01/1996]
 
-(2) A licence granted under this section shall entitle the licensee to make, use or dispose of the invention as a food or medicine, or for the purpose of the production of food or medicine or as part of a surgical or curative device.
+Exercise of powers on application under section 55
 
-(3) An application under this section may be made notwithstanding that the applicant is already the holder of a licence under the patent.
+58\. [Repealed by Act 40/95 wef 01/01/1996]
 
-(4) A licence granted under this section and section 55 may permit the licensee to import the patented product.
+Opposition, appeal and arbitration
 
-### Provisions as to licences under Section 55 or 56
+59\. [Repealed by Act 40/95 wef 01/01/1996]
 
-57\.—(1) Where the Registrar is satisfied, on an application made under section 55 or 56 in respect of a patent, that the manufacture, use or disposal of materials not protected by the patent is unfairly prejudiced by reason of conditions imposed by the proprietor of the patent on the grant of licences under the patent, or on the disposal or used of the patented product or the used of the patented process, he may, subject to those sections, order the grant of licences under the patent to such customers of the applicant as he thinks fit as well as to the applicant.
+Supplementary provisions
 
-(2) Where an application under section 55 or 56 is made in respect of a patent by a person who holds a licence under the patent, the Registrar may —
-
-(a) if he orders the grant of a licence to the applicant, order the existing licence to be cancelled; or
-
-(b) instead of ordering the grant of a licence to the applicant, order the existing licence to be amended.
-
-(3) Section 53(5) and (6) shall apply to a licence granted in pursuance of an order under section 55 or 56 and to a licence granted by virtue of an entry under section 55 as it applies to a licence granted by virtue of an entry under section 53
-
-### Exercise of powers on application under section 55
-
-58\.—(1) The powers of the Registrar on an application under section 55 in respect of a patent shall be exercised with a view to securing the following general purposes:
-
-(a) that inventions which can be worked on a commercial scale in Singapore and which should in the public interest be so worked shall be worked without undue delay such that they are available in Singapore to an adequate extent and supplied on reasonable terms;
-
-(b) that the interests of any person for the time being working or developing an invention in Singapore under the protection of a patent shall not be unfairly prejudiced; and
-
-(c) that the royalty and other remuneration, if any, reserved to the inventor or other person beneficially entitled to a patent is reasonable having regard to the nature of the invention.
-
-(2) Subject to subsection (1), the Registrar shall, in determining whether to make an order or entry in pursuance of such an application, take account of the following matters:
-
-(a) the nature of the invention, the time which has elapsed since the publication in the journal of a notice of the grant of the patent and the measures already taken by the proprietor of the patent or any licensee to make full use of the invention;
-
-(b) the ability of any person to whom a licence would be granted under the order to work the invention to the public advantage;
-
-(c) the risks to be undertaken by that person in providing capital and working the invention if the application for an order is granted,
-
-but shall not be required to take account of matters subsequent to the making of the application.
-
-### Opposition, appeal and arbitration
-
-59\.—(1) The proprietor of a patent or any other person wishing to oppose an application under sections 55 to 58 may, in accordance with the rules, give to the Registrar notice of opposition; and the Registrar shall consider the opposition in deciding whether to grant the application.
-
-(2) Where an appeal is brought from an order made by the Registrar in pursuance of an application under sections 55 to 58 or from a decision of his to make an entry in the register in pursuance of such an application or from a refusal of his to make such an order or entry, the Attorney-General, or such other counsel as he may appoint, shall be entitled to appear and be heard.
-
-(3) Where an application under sections 55 to 58 is opposed under subsection (1), and either —
-
-(a) the parties consent; or
-
-(b) the proceedings require a prolonged examination of documents or any scientific or local investigation which cannot in the opinion of the Registrar conveniently be made before him,
-
-the Registrar may at any time order the whole proceedings, or any question or issue of fact arising on them, to be referred to an arbitrator agreed on by the parties or, in default of agreement, appointed by the Registrar.
-
-(4) The arbitrator to whom any reference is made under subsection (3) shall report his findings to the Registrar.
-
-(5) The expenses of and incidental to a reference to an arbitrator under subsection (3) shall, in default of agreement between the parties, be borne equally by the parties to the reference.
-
-### Supplementary provisions
-
-60\.—(1) The Registrar may make an entry in the register under sections 55 to 58 notwithstanding any contract which would have precluded the entry on the application of the proprietor of the patent under section 53.
-
-(2) An entry made in the register under sections 55 to 58 shall for all purposes have the same effect as an entry made under section 53.
-
-(3) Where a licence has been granted under section 53, 55 or 56 and the proprietor of the patent and the licensee are unable to agree within a reasonable time on the amount of royalty or compensation to be reserved to the proprietor of the patent, the Registrar shall determine the royalty or compensation payable.
-
-(4) No order or entry shall be made in pursuance of an application under sections 55 to 58 which would be at variance with any treaty or international convention relating to patents to which Singapore is a party.
+60\. [Repealed by Act 40/95 wef 01/01/1996]
 
 ## PART XII
 
@@ -1480,93 +1426,23 @@ USE OF PATENTED INVENTIONS FOR SERVICES OF GOVERNMENT
 
 ### Use of patented inventions for services of Government
 
-61\.—(1) Notwithstanding anything in this Act, any Government department and any person authorised in writing by a Government department may, for the services of the Government and in accordance with this section, do any of the following acts in Singapore in relation to a patented invention without the consent of the proprietor of the patent:
+61\.—(1) Subject to sections 65A to 65C, but notwithstanding any other provision of this Act, any Government department, and any person authorised in writing by a Government department, may make, use, exercise and vend any patented invention for the services of the Government and anything done by virtue of this section shall not amount to an infringement of the patent.
 
-(a) where the invention is a product, may —
+(2) For the purposes of this section and section 63 —
 
-(i) make, use, import, obtain or keep the product, or sell or offer to sell it where to do so would be incidental or ancillary to making, using, importing, obtaining or keeping it; or
+(a) any use of an invention for the supply to the government of any country outside Singapore, in pursuance of any agreement or arrangement between the Government of Singapore and the government of that country, of articles required for the defence of that country shall be deemed to be a use of the invention for the services of the Government of Singapore;
 
-(ii) in any event, sell or offer to sell it for foreign defence purposes or for the production or supply of any drug and medicine, or dispose or offer to dispose of it for any purpose whatever;
+(b) the power of a Government department or a person authorised by a Government department under this section to make, use, exercise and vend a patented invention shall include the power to sell to any person any articles made in the exercise of the powers conferred by this section that are no longer required for the purpose for which they were made;
 
-(b) where the invention is a process, may use it or, in relation to any product obtained directly by means of the process, do anything mentioned in paragraph (a);
+(c) the power of a Government department or a person authorised by a Government department under this section to vend a patented invention shall not, in the case of a patent relating to an intergrated circuit, extend to sale of the invention to the public.
 
-(c) without prejudice to paragraphs (a) and (b), where the invention or any product obtained directly by means of the invention is a drug or medicine, may sell or offer to sell the drug or medicine;
+(3) The purchaser of any articles sold in the exercise of the powers conferred by this section, and any person claiming through the purchaser, shall have power to deal with them in the same manner as if the patent were held on behalf of the Government.
 
-(d) may supply or offer to supply to any person any of the means, relating to an essential element of the invention, for putting the invention into effect;
+[Subst.byAct40/95wef1.1.96]
 
-(e) may dispose or offer to dispose of anything which was made, used, imported, obtained or kept in the exercise of the powers conferred by this section and which is no longer required for the purpose for which it was made, used, imported, obtained or kept, as the case may be,
+Interpretation, etc., of provisions about Government use
 
-and anything done by virtue of this subsection shall not amount to an infringement of the patent.
-
-(2) Any act done in relation to an invention by virtue of this section is in this section referred to as use of the invention; and “use”, in relation to an invention, in sections 62 to 64 shall be construed accordingly.
-
-(3) So far as the invention has before its priority date been duly recorded by or tried by or on behalf of a Government department otherwise than in consequence of a relevant communication made in confidence, any use of the invention by virtue of this section may be made free of any royalty or other payment to the proprietor.
-
-(4) So far as the invention has not been so recorded or tried, any use of it made by virtue of this section at any time either —
-
-(a) after the publication of the application for the patent for the invention; or
-
-(b) without prejudice to paragraph (a), in consequence of a relevant communication made after the priority date of the invention otherwise than in confidence,
-
-shall be made on such terms as may be agreed either before or after the use by the Government department and the proprietor of the patent or as may in default of agreement be referred to an arbitrator agreed on by the parties or, in default of agreement, appointed by the Registrar.
-
-(5) The arbitrator to whom any reference is made under subsection (4) shall report his findings to the Registrar.
-
-(6) The expenses of and incidental to an arbitrator under subsection (4) shall, in default of agreement between the parties, be borne equally by the parties to the reference.
-
-(7) Where an invention is used by virtue of this section at any time after publication of an application for a patent for the invention but before such a patent is granted, and the terms for its use agreed or determined as mentioned in subsection (4) include terms as to payment for the use, then (notwithstanding anything in those terms) any such payment shall be recoverable only —
-
-(a) after such a patent is granted; and
-
-(b) if, apart from this section, the use would, if the patent had been granted on the date of the publication of the application, have infringed not only the patent but also the claims (as interpreted by the description or claims) in the form in which they were contained in the application immediately before the preparations for its publication were completed by the Registry.
-
-(8) The authority of a Government department in respect of an invention may be given under this section either before or after the patent is granted and either before or after the use in respect of which the authority is given is made, and may be given to any person whether or not he is authorised, directly or indirectly, by the proprietor of the patent to do anything in relation to the invention.
-
-(9) Where any use of an invention is made by or with the authority of a Government department under this section, then, unless it appears to the department that it would be contrary to the public interest to do so, the department shall notify the proprietor of the patent as soon as practicable after the second of the following events, that is to say, the use is begun and the patent is granted, and furnish him with such information as to the extent of the use as he may from time to time require.
-
-(10) A person acquiring anything disposed of in the exercise of the powers conferred by this section, and any person claiming through him, may deal with it in the same manner as if the patent were held on behalf of the Government.
-
-(11) In determining under this section any dispute between a Government department and any person as to the terms for the use of an invention for the services of the Government, the arbitrator shall have regard —
-
-(a) to any benefit or compensation which that person or any person from whom he derives title may have received or may be entitled to receive, directly or indirectly, from any Government department in respect of the invention; and
-
-(b) to whether that person or any person from whom he derives title has in the arbitrator’s opinion without reasonable cause failed to comply with a request of the department to use the invention for the services of the Government on reasonable terms.
-
-(12) On a reference under this section, the arbitrator may refuse to grant relief by way of compensation in respect of the use of an invention for the services of the Government during any further period specified under section 36(3), but before the payment of the renewal fee and any additional fee prescribed for the purposes of that section.
-
-(13) Where an amendment of the specification of a patent has been allowed under any of the provisions of this Act, the arbitrator shall not grant relief by way of compensation under this section in respect of any such use before the decision to allow the amendment unless the Registrar is satisfied that the specification of the patent as published was framed in good faith and with reasonable skill and knowledge.
-
-(14) In considering the amount of any compensation for the use of an invention for the services of the Government after publication of an application for a patent for the invention and before such a patent is granted, the arbitrator shall consider whether or not it would have been reasonable to expect, from a consideration of the application as published under section 27, that a patent would be granted conferring on the proprietor of the patent protection for an act of the same description as that found to constitute that use, and if the arbitrator finds that it would not have been reasonable, he shall reduce the compensation to such amount as he thinks just.
-
-(15) Where, by virtue of a transaction, instrument or event to which section 43 applies, a person becomes the proprietor or one of the proprietors or an exclusive licensee of a patent (the new proprietor or licensee) and a Government department or a person authorised by a Government department subsequently makes use of the patented invention under this section, the new proprietor or licensee shall not be entitled to any compensation under subsection (4) (as it stands or as modified by section 63(3)) in respect of a subsequent use of the invention before the transaction, instrument or event is registered unless —
-
-(a) the transaction, instrument or event is registered within the period of 6 months beginning with its date; or
-
-(b) the Registrar is satisfied that it was not practicable to register the transaction, instrument or event before the end of that period and that it was registered as soon as practicable thereafter.
-
-(16) In this section, “relevant communication”, in relation to an invention, means a communication of the invention, directly or indirectly, by the proprietor of the patent or any person from whom he derives title.
-
-(17) Subsection (4) is without prejudice to any rule of law relating to the confidentiality of information.
-
-### Interpretation, etc., of provisions about Government use
-
-62\.—(1) Any reference in section 61 to a patented invention, in relation to any time, is a reference to an invention for which a patent has before that time been, or is subsequently, granted.
-
-(2) In this Part, unless the context otherwise requires, “the services of the Government” includes —
-
-(a) the supply of anything for foreign defence purposes;
-
-(b) the production or supply of drugs and medicines required for the provision of pharmaceutical, medical or dental services in any prescribed dispensary, hospital or other medical institution maintained by or on behalf of the Government and in any dispensary, hospital or medical institution which the Minister may specify by notification in theGazette; and
-
-(c) such purposes relating to the production or use of atomic energy or research into matters connected therewith as the Minister thinks necessary or expedient,
-
-and “use for the services of the Government” shall be construed accordingly.
-
-(3) In subsection (2)(a) and section 61(1)(a), references to a sale or supply of anything for foreign defence purposes are references to a sale or supply of the thing —
-
-(a) to the government of any country outside Singapore in pursuance of an agreement or arrangement between the Government and the government of that country, where the thing is required for the defence of that country or of any other country whose government is party to any agreement or arrangement with the Government in respect of defence matters; or
-
-(b) to the United Nations, or to the government of any country belonging to that organisation, in pursuance of an agreement or arrangement between the Government and that organisation or government, where the thing is required for any armed forces operating in pursuance of a resolution of that organisation or any organ of that organisation.
+62\. [Repealed by Act 40/95 wef 01/01/1996]
 
 ### Rights of third parties in respect of Government use
 
@@ -1576,49 +1452,39 @@ and “use for the services of the Government” shall be construed accordingly.
 
 (b) anything done for the services of the Government to the order of a Government department by the proprietor of a patent in respect of a patented invention or by the proprietor of an application in respect of an invention for which an application for a patent has been filed and is still pending,
 
-the provisions of any licence, assignment or agreement to which this subsection applies shall be of no effect so far as those provisions restrict or regulate the working of the invention, or the use of any model, document or information relating to it, or provide for the making of payments in respect of, or calculated by reference to, such working or use; and the reproduction or publication of any model or document in connection with the said working or use shall not be deemed to be an infringement of any copyright or design right subsisting in the model or document.
+the provisions of any licence, assignment or agreement to which this subsection applies shall, subject to sections 65A to 65C, be of no effect so far as those provisions restrict or regulate the working of the invention, or the use of any model, document or information relating to it, or provide for the making of payments in respect of, or calculated by reference to, such working or use; and the reproduction or publication of any model or document in connection with the said working or use shall not be deemed to be an infringement of any copyright or design right subsisting in the model or document.
+
+[Act 40/95 wef 01/01/1996]
 
 (2) Subsection (1) shall apply to any licence, assignment or agreement which is made, whether before or after 23rd February 1995, between (on the one hand) any person who is a proprietor of or an applicant for the patent, or anyone who derives title from any such person or from whom such person derives title, and (on the other hand) any person other than a Government department.
 
-(3) Where an exclusive licence granted otherwise than for royalties or other benefits determined by reference to the working of the invention is in force under the patent or application, then —
+(3) [Deleted by Act 50 of 1995 wef 01/01/1996]
 
-(a) in relation to anything done in respect of the invention which, but for this section and section 61, would constitute an infringement of the rights of the licensee, section 61(4) shall have effect as if for the reference to the proprietor of the patent there were substituted a reference to the licensee; and
+(4) [Deleted by Act 50 of 1995 wef 01/01/1996]
 
-(b) in relation to anything done in respect of the invention by the licensee by virtue of an authority given under section 61, that section shall have effect as if section 61(4) were omitted.
+(5) [Deleted by Act 50 of 1995 wef 01/01/1996]
 
-(4) Subject to subsection (3), where a patent, or the right to the grant of a patent, has been assigned to the proprietor of the patent or application in consideration of royalties or other benefits determined by reference to the working of the invention, then —
+(6) [Deleted by Act 50 of 1995 wef 01/01/1996]
 
-(a) in relation to any use of the invention by virtue of section 61, subsection (4) of that section shall have effect as if the reference to the proprietor of the patent included a reference to the assignor, and any sum payable by virtue of that subsection shall be divided between the proprietor of the patent or application and the assignor in such proportion as may be agreed on by them or as may in default of agreement be determined by the court on a reference under section 64; and
+(7) [Deleted by Act 50 of 1995 wef 01/01/1996]
 
-(b) in relation to any act done in respect of the invention for the services of the Government by the proprietor of the patent or application to the order of a Government department, section 61(4) shall have effect as if the act were use made by virtue of an authority given under that section.
+(8) [Deleted by Act 50 of 1995 wef 01/01/1996]
 
-(5) Where section 61(4) applies to any use of an invention and a person holds an exclusive licence under the patent or application (other than such a licence as is mentioned in subsection (3)) authorising him to work the invention, then subsections (7) and (8) shall apply.
+(9) [Deleted by Act 50 of 1995 wef 01/01/1996]
 
-(6) In subsections (7) and (8), “the section 61 (4) payment” means such payment, if any, as the proprietor of the patent or application and the Government department agree under section 61, or the arbitrator determines under that section, should be made by the department to the proprietor in respect of the use of the invention.
-
-(7) The licensee shall be entitled to recover from the proprietor of the patent or application such part, if any, of the section 61(4) payment as may be agreed on by them or as may, in default of agreement, be determined by the court under section 64 to be just having regard to any expenditure incurred by the licensee —
-
-(a) in developing the invention; or
-
-(b) in making payments to the proprietor in consideration of the licence, other than royalties or other payments determined by reference to the use of the invention.
-
-(8) Any agreement by the proprietor of the patent or application and the Government department under section 61(4) as to the amount of the section 61(4) payment shall be of no effect unless the licensee consents to the agreement; and any determination by the arbitrator under section 61(4) as to the amount of that payment shall be of no effect unless the licensee has been informed of the reference to the arbitrator and is given an opportunity to be heard.
-
-(9) Where any model, document or information relating to an invention is used in connection with any use of the invention which falls within subsection (1)(a), or with anything done in respect of the invention which falls within subsection (1)(b), section 61(4) shall (whether or not it applies to any such use of the invention) apply to the use of the model, document or information as if for the reference in it to the proprietor of the patent there were substituted a reference to the person entitled to the benefit of any provision of an agreement which is rendered inoperative by this section in relation to that use; and in section 61 the references to terms for the use of an invention shall be construed accordingly.
-
-(10) Nothing in this section shall be construed as authorising the disclosure to a Government department or any other person of any model, document or information to the use of which this section applies in contravention of any such licence, assignment or agreement as is mentioned in this section.
+(10) [Deleted by Act 50 of 1995 wef 01/01/1996][Act 40/95 wef 01/01/1996]
 
 ### References of disputes as to Government use
 
-64\.—(1) Any dispute as to —
+64\.—(1) Any dispute as to the exercise by a Government department or a person authorised by a Government department of the powers conferred by section 61 or as to the terms for the use of an invention for the services of the Government thereunder may be referred to the court by either party to the dispute after a patent has been granted for the invention.
 
-(a) the exercise by a Government department or a person authorised by a Government department of the powers conferred by section 61; or
+(2) In determining any dispute referred to the court under this section, the court shall have regard to —
 
-(b) the right of any person to receive any part of a payment made or agreed to be made in pursuance of subsection (4) of section 61 or determined by the arbitrator in pursuance of that subsection,
+(a) any benefit or compensation that the patentee of the invention may have received, or may be entitled to receive, directly or indirectly from any Government department or any person authorised by a Government department in respect of the patented invention; and
 
-may be referred to the court by either party to the dispute after a patent has been granted for the invention.
+(b) the need to ensure that the patentee shall receive reasonable remuneration having regard to the economic value of the patented invention.
 
-(2) If in such proceedings any question arises whether an invention has been recorded or tried as mentioned in section 61, and the disclosure of any document recording the invention, or of any evidence of the trial thereof, would in the opinion of the Government department be prejudicial to the public interest, the disclosure may be made confidentially to counsel for the other party or to an independent expert mutually agreed upon.
+[Act 40/95 wef 01/01/1996]
 
 (3) If the validity of a patent is put in issue in proceedings under this section and it is found that the patent is only partially valid, the court may, subject to subsection (4), grant relief to the proprietor of the patent in respect of that part of the patent which is found to be valid and to have been used for the services of the Government.
 
@@ -1630,29 +1496,51 @@ may be referred to the court by either party to the dispute after a patent has b
 
 (7) One of the two or more joint proprietors of a patent or an application for a patent may, without the concurrence of the others, refer a dispute to the court under this section, but shall not do so unless the others are made parties to the proceedings; but any of the others if made a defendant shall not be liable for any costs or expenses unless he enters an appearance and takes part in the proceedings.
 
+[Act 40/95 wef 01/01/1996]
+
 ### Special provisions as to Government use during emergency
 
-65\.—(1) During any period of emergency within the meaning of this section, the powers exercisable in relation to an invention by a Government department or a person authorised by a Government department under section 61 shall include power to use the invention for any purpose which appears to the department necessary or expedient —
+65\. Subject to sections 65A to 65C, the powers exercisable in relation to an invention by a Government department or a person authorised by a Government department under section 61 shall include power to make, use, exercise and vend the patented invention for any purpose which appears to the Government department necessary or expedient —
 
-(a) for the efficient prosecution of any war in which Singapore may be engaged;
+(a) to avoid prejudice to the security or defence of Singapore;
 
-(b) for the maintenance of supplies and services essential to the life of the community;
+(b) to assist in the exercise of powers and the implementation of civil defence measures during a state of emergency or state of civil defence emergency under the Civil Defence Act [Cap. 42]; or
 
-(c) for securing a sufficiency of supplies and services essential to the well-being of the community;
+(c) for public non-commercial use.
 
-(d) for promoting the productivity of industry, commerce and agriculture;
+[Act 40/95 wef 01/01/1996]
 
-(e) for fostering and directing exports and reducing imports, or imports of any class, from all or any countries and for redressing the balance of trade;
+### Nature and scope of rights under section 61
 
-(f) generally for ensuring that the whole resources of the community are available for use, and are used, in a manner best calculated to serve the interests of the community; or
+65A\.—(1) The right to use a patented invention under section 61 —
 
-(g) for assisting the relief of suffering and the restoration and distribution of essential supplies and services in any country or territory outside Singapore which is in grave distress as a result of war,
+(a) is not exclusive;
 
-and any reference in this Act to the services of the Government shall, as respects any period of emergency, include a reference to those purposes.
+(b) shall not be assigned otherwise than in connection with the goodwill of the business in which the patented invention is used;
 
-(2) In this section, the use of an invention includes, in addition to any act constituting such use by virtue of section 61, any act which would, apart from that section and this section, amount to an infringement of the patent or, as the case may be, give rise to a right under section 76 to bring proceedings in respect of the application, and any reference in this Act to “use for the services of the Government” shall, as respects any period of emergency, be construed accordingly.
+(c) is, notwithstanding subsection (2)(a) of section 61, limited to the supply of the patented invention predominantly in Singapore by a Government department or a person authorised by a Government department under that section.
 
-(3) In this section, “period of emergency” means any period beginning with such date as may be declared by the Minister by order published in theGazetteto be the commencement, and ending with such date as may be so declared to be the termination, of a period of emergency for the purposes of this section.
+(2) The right to use a patented invention under section 61 may, on the application of any interested party, be terminated by the court, where the court is satisfied that the circumstances that gave rise to the right to use the patented invention have ceased to exist and are unlikely to recur.
+
+(3) Except in a case to which section 65 applies, the right to use a patented invention under section 61 is subject to the Government department or the person authorised by a Government department under section 61 having first taken all reasonable steps to obtain the consent of the patentee to the use of the patented invention on reasonable commercial terms and conditions, and having failed to obtain such consent within a reasonable period of time.
+
+[Act 40/95 wef 01/01/1996]
+
+### Duty to inform patentee
+
+65B\.—(1) Where any use of a patented invention is made by or with the authority of a Government department under section 65 in situations of national emergency or other circumstances of extreme urgency, the Government department shall, as soon as reasonable practicable, inform the patentee of such use and in the case of public non-commercial use, the Government department shall inform the patentee promptly of such use.
+
+(2) Where any use of a patented invention is made by or with the authority of a Government department under section 61, the Government department shall, as soon as practicable after the use of the patented invention has begun, notify and furnish the patentee with such information as to the extent of the use as the patentee may from time to time reasonable require.
+
+(3) Nothing is subsection (2) shall require the Government department to notify or disclose information to the patentee if to do so would, or might reasonably be expected to, prejudice the security or defence of Singapore.
+
+[Act 40/95 wef 01/01/1996]
+
+### Patentee entitled to remuneration
+
+65C\. Where an act is done under section 61, the Government shall pay such remuneration to the patentee as may be agreed, or as may be determined by a method agreed, between the Government and the patentee having regard to the economic value of the patented invention or as may, in default of agreement, be determined by the court under section 64.
+
+[Act 40/95 wef 01/01/1996]
 
 ## PART XIII
 
@@ -1692,7 +1580,9 @@ INFRINGEMENT OF PATENTS
 
 (a) for an injunction restraining the defendant from any apprehended act of infringement;
 
-(b) for an order for him to deliver up or destroy any patented product in relation to which the patent is infringed or any article in which that product is inextricably comprised;
+(b) for an order for him to deliver up or destroy any patented product in relation to which the patent is infringed or any article in which that product is inextricably comprised or any material and implement the predominant use of which has been in the creation of the infringing product;
+
+[Act 40/95 wef 01/01/1996]
 
 (c) for damages in respect of the infringement;
 
@@ -1726,7 +1616,7 @@ INFRINGEMENT OF PATENTS
 
 69\.—(1) In proceedings for infringement of a patent, damages shall not be awarded and no order shall be made for an account of profits against a defendant who proves that at the date of the infringement he was not aware, and had no reasonable grounds for supposing, that the patent existed; and a person shall not be taken to have been so aware or to have had reasonable grounds for so supposing by reason only of the application to a product of the word “patent” or “patented”, or any word or words expressing or implying that a patent has been obtained for the product, unless the number of the patent accompanied the word or words.
 
-(2) In proceedings for infringement of a patent, the court or the Registrar may, if it or he thinks fit, refuse to award any damages or make any such order in respect of an infringement committed during any further period specified under subsection (3) of section 36, but before the payment of the renewal fee and any additional fee prescribed for the purposes of that subsection.
+(2) In proceedings for infringement of a patent the court or the Registrar may, if it or he thinks fit, refuse to award any damages or make any such order in respect of an infringement committed during any further period specified under subsection (3) of section 36, but before the payment of the renewal fee and any additional fee prescribed for the purposes of that subsection.
 
 (3) Where an amendment of the specification of a patent has been allowed under any of the provisions of this Act, no damages shall be awarded in proceedings for an infringement of the patent committed before the decision to allow the amendment unless the court or the Registrar is satisfied that the specification of the patent as published was framed in good faith and with reasonable skill and knowledge.
 
@@ -2134,13 +2024,13 @@ but an appeal shall only lie to the Court of Appeal under this section if leave 
 
 is privileged from disclosure in legal proceedings in Singapore in the same way as a communication between a person and his solicitor or, as the case may be, a communication for the purpose of obtaining, or in response to a request for, information which a person seeks for the purpose of instructing his solicitor.
 
-(2) For the purposes of this section, “legal proceedings” includes proceedings before the Registrar.
+(2) For the purposes of this section “legal proceedings” includes proceedings before the Registrar.
 
 ### Costs and expenses in proceedings before Registrar
 
 97\.—(1) The Registrar may, in proceedings before him under this Act, by order award to any party such costs as he may consider reasonable and direct how and by what parties they are to be paid.
 
-(2) Any costs awarded under this section shall, if a District Court or a Magistrate’s Court so orders, be recoverable by execution issued from that Court or otherwise as if they were payable under an order of that Court.
+(2) Any costs awarded under this section shall, if a District Court or a Magistrate’s Court so orders, be recover able by execution issued from that Court or otherwise as if they were payable under an order of that Court.
 
 (3) If any person by whom —
 
@@ -2148,7 +2038,9 @@ is privileged from disclosure in legal proceedings in Singapore in the same way 
 
 (b) an application is made to the Registrar for the revocation of a patent; or
 
-(c) notice of opposition is given to the Registrar under section 38(4), 40(2), 54(6), 59(1) or 107(2),
+(c) notice of opposition is given to the Registrar under section 38(4), 40(2), 54(6) or 107(2),
+
+[Act 40/95 wef 01/01/1996]
 
 neither resides nor carries on business in Singapore, the Registrar may require him to give security for the costs or expenses of the proceedings and in default of such security being given may treat the reference, application or notice as abandoned.
 
@@ -2206,11 +2098,11 @@ he shall, subject to this section, be guilty of an offence and shall be liable o
 
 (5) Where a partnership is guilty of an offence under this Act, every partner, other than a partner who is proved to have been ignorant of or to have attempted to prevent the commission of the offence, is also guilty of the offence and liable to be proceeded against and punished accordingly.
 
-## PART XIX\*
+## PART XIX1
 
 PATENT AGENTS
 
-\*(1) No date has been appointed for the coming into operation of section 104 and 105(1) to (6), (8) and (9).
+1(1) No date has been appointed for the coming into operation of section 104 and 105(1) to (6), (8) and (9).
 
 (2) Section 105(7) was brought into operation on 23rd February 1995 —SeeG.N. S 36/95.
 
@@ -2316,11 +2208,11 @@ MISCELLANEOUS AND GENERAL
 
 ### Government’s right to sell forfeited articles
 
-112\. Nothing in this Act shall affect the right of the Government or any person deriving title, directly or indirectly, from the Government to dispose of or use articles forfeited under the laws relating to customs or excise.
+112\. Nothing in this Act shall affect the right of the Government or any person deriving title, directly or indirectly from the Government to dispose of or use articles forfeited under the laws relating to customs or excise.
 
 ### Extent of invention
 
-113\.—(1) For the purposes of this Act, an invention for a patent for which an application has been made or for which a patent has been granted shall, unless the context otherwise requires, be taken to be that specified in a claim of the specification of the application or patent, as the case may be, as interpretated by the description and any drawings contained in that specification, and the extent of the protection conferred by a patent or application for a patent shall be determined accordingly.
+113\.—(1) For the purposes of this Act, an invention for a patent for which an application has been made or for which a patent has been granted shall, unless the context otherwise requires, be taken to be that specified in a claim of the specification of the application or patent, as the case may be, as interpreted by the description and any drawings contained in that specification, and the extent of the protection conferred by a patent or application for a patent shall be determined accordingly.
 
 (2) It is hereby declared for the avoidance of doubt that where more than one invention is specified in any such claim, each invention may have a different priority date under section 17.
 
@@ -2412,7 +2304,7 @@ This Legislative History is provided for the convenience of users of the Patents
 
 ||||
 |:-|:-|:-|
-|1.|**Act 21 of 1994—Patents Act 1994**|
+|1.|**Act 21 of 1994—Patents Act 1995**|
 ||Date of First Reading|23 February 1994|
 |||(Bill No. 4/94 published on 24 February 1994)|
 ||Date of Second Reading|21 March 1994|
@@ -2421,3 +2313,8 @@ This Legislative History is provided for the convenience of users of the Patents
 ||Date of commencement|23 February 1995 (except Part XIX, section 105 (7))|
 |2.|**1995 Revised Edition—Patents Act**|
 ||Date of operation|15 March 1995|
+|3.|**Act 40 of 1995—Patents (Amendment) Act 1995**|
+||Date of First Reading|27 September 1995|
+|||(Bill No. 31/95 published on 28 September 1995)|
+||Date of Second and Third Readings|1 November 1995|
+||Date of commencement|1 January 1996|
