@@ -442,7 +442,7 @@ as certified by the Director of Scientific Services ;
 
 “Government warehouse” means a warehouse established by the Minister under section 49 for the deposit of dutiable goods;
 
-“Green Channel” means any passage or area in a customs airport, railway station or customs station clearly indicated with a sign in the shape of a regular octagon and marked in green with the words “Customs” and “Nothing To Declare”;
+“Green Channel” means any passage or area in a customs airport or customs station clearly indicated with a sign in the shape of a regular octagon and marked in green with the words “Customs” and “Nothing To Declare”;
 
 “heavy oil or diesel oil” includes any liquid, other than petroleum, which is or may be used as a fuel in the engine of a traction engine or motor vehicle;
 
@@ -508,7 +508,7 @@ as certified by the Director of Scientific Services ;
 
 “proper officer of customs” means any officer of customs acting in the fulfilment of his duties under this Act, whether such duties are assigned to him specially or generally or expressly or by implication;
 
-“Red Channel” means any passage or area in a customs airport, railway station or customs station clearly indicated with a sign in the shape of a square marked in red with the words “Customs” and “Goods To Declare”;
+“Red Channel” means any passage or area in a customs airport or customs station clearly indicated with a sign in the shape of a square marked in red with the words “Customs” and “Goods To Declare”;
 
 “registered user” means a person who has been registered with and authorised by the Director-General to gain access to and use the computer service referred to in section 90A;
 
@@ -976,7 +976,9 @@ IMPORTATION AND EXPORTATION
 
 (b) by air, at a customs airport;
 
-(c) by rail, at the Singapore Railway Station, or at any other railway station approved by the Director-General; or
+(c) by rail, at the customs station along the railway; or
+
+[29/98 wef 01/08/1998]
 
 (d) by road.
 
@@ -998,9 +1000,11 @@ IMPORTATION AND EXPORTATION
 
 (b) from the customs airport at which the goods arrived;
 
-(c) from the railway station at which the goods arrived;
+(c) from the customs station along the railway at which the goods arrived;
 
-(d) beyond any customs station at Woodlands if the goods were brought into Singapore by road; or
+[29/98 wef 01/08/1998]
+
+(d) beyond any customs station at Woodlands or Tuas if the goods were brought into Singapore by road; or
 
 (e) from the free trade zone in which the goods were deposited or landed,
 
@@ -1046,9 +1050,11 @@ except under and in accordance with the conditions contained in a permit issued 
 
 (b) the customs airport at which the goods arrived;
 
-(c) the railway station at which the goods arrived;
+(c) the customs station along the railway at which the goods arrived;
 
-(d) any customs station at Woodlands if the goods were brought into Singapore by road; or
+[29/98 wef 01/08/1998]
+
+(d) any customs station at Woodlands or Tuas if the goods were brought into Singapore by road; or
 
 (e) the free trade zone in which the goods were deposited or landed,
 
@@ -1064,7 +1070,7 @@ make personally or by his agent to the proper officer of customs a declaration, 
 
 ### Particulars of goods inwards to be furnished
 
-39\.—(1) The master, owner or agent of every vessel and the pilot, owner or agent of every aircraft arriving in Singapore, and the station-master at the railway station on the arrival of every train, shall, within 24 hours after the arrival of the vessel, aircraft or train, or within such further period as the Director-General may in his discretion allow, furnish to the proper officer of customs at the customs office designated by the Director-General —
+39\.—(1) The master, owner or agent of every vessel and the pilot, owner or agent of every aircraft arriving in Singapore, and the station-master at the customs station along the railway on the arrival of every train, shall, within 24 hours after the arrival of the vessel, aircraft or train, or within such further period as the Director-General may in his discretion allow, furnish to the proper officer of customs at the customs office designated by the Director-General —
 
 (a) a full and correct inward manifest, certified by the master, pilot, owner, agent or station-master, containing full particulars as to the quantities, marks and description of goods brought into Singapore;
 
@@ -1104,7 +1110,7 @@ the master, owner or agent of the vessel or the pilot, owner or agent of the air
 
 ### Particulars of goods exported to be furnished
 
-41\.—(1) Within 48 hours of the departure of every vessel, aircraft or train or within such further period as the Director-General may in his discretion allow, the owner or agent of the vessel or aircraft or the station-master of the railway station shall furnish to the proper officer of customs a full and correct outward manifest of all goods exported thereon, or which have been taken aboard the vessel or aircraft as sea or air stores, and shall in like manner furnish a full and correct statement of all goods transhipped.
+41\.—(1) Within 48 hours of the departure of every vessel, aircraft or train or within such further period as the Director-General may in his discretion allow, the owner or agent of the vessel or aircraft or the station-master at the customs station along the railway shall furnish to the proper officer of customs a full and correct outward manifest of all goods exported thereon, or which have been taken aboard the vessel or aircraft as sea or air stores, and shall in like manner furnish a full and correct statement of all goods transhipped.
 
 [23/93]
 
@@ -1116,7 +1122,7 @@ the master, owner or agent of the vessel or the pilot, owner or agent of the air
 
 [23/93]
 
-(3) In addition to the furnishing of the outward manifest under subsection (1), the owner or agent of the vessel or aircraft or the station-master of the railway station shall, within 48 hours of the departure of the vessel, aircraft or train, furnish to the proper officer of customs a full and correct loadlist in the form approved by the Director-General and certified by such owner, agent or station-master to contain full particulars of all the dutiable goods which have been received for loading onto the vessel, aircraft or train.
+(3) In addition to the furnishing of the outward manifest under subsection (1), the owner or agent of the vessel or aircraft or the station-master at the customs station along the railway shall, within 48 hours of the departure of the vessel, aircraft or train, furnish to the proper officer of customs a full and correct loadlist in the form approved by the Director-General and certified by such owner, agent or station-master to contain full particulars of all the dutiable goods which have been received for loading onto the vessel, aircraft or train.
 
 [23/93]
 
@@ -1162,7 +1168,7 @@ GENERAL PROVISIONS AFFECTING AIRCRAFT AND VESSELS IN TERRITORIAL WATERS
 
 ### Missing goods deemed to have been illegally landed
 
-45\. If in any vessel, aircraft or train in Singapore the quantity of dutiable goods, or goods of a class dutiable on import intended for transhipment or in transit, entered in the manifest or other document of the vessel, aircraft or train, is found missing and the deficiency is not accounted for to the satisfaction of the proper officer of customs, then the master, owner or agent of the vessel, or the pilot, owner or agent of the aircraft, or the station-master of the railway station or any person authorised under section 39(2) or 41(2), shall —
+45\. If in any vessel, aircraft or train in Singapore the quantity of dutiable goods, or goods of a class dutiable on import intended for transhipment or in transit, entered in the manifest or other document of the vessel, aircraft or train, is found missing and the deficiency is not accounted for to the satisfaction of the proper officer of customs, then the master, owner or agent of the vessel, or the pilot, owner or agent of the aircraft, or the station-master at the customs station along the railway or any person authorised under section 39(2) or 41(2), shall —
 
 (a) unless the contrary is proved, be deemed to have illegally removed those goods and landed them in Singapore; and
 
@@ -1252,7 +1258,7 @@ WAREHOUSING
 
 (3) Notwithstanding subsection (1), such goods as may be prescribed by the Minister under section 5(4) of the Free Trade Zones Act (Cap. 114), shall be deposited in a Government warehouse, licensed factory warehouse or licensed warehouse and shall be liable to warehouse rent at the prescribed rates applicable to those goods.
 
-(4) Any dutiable goods imported by rail may be consigned to, and shall be deemed to have first arrived on reaching, the Singapore Railway Station.
+(4) Any dutiable goods imported by rail may be consigned to, and shall be deemed to have first arrived on reaching, the customs station along the railway.
 
 (5) This section shall not apply to goods lawfully imported —
 
@@ -2714,3 +2720,8 @@ This Legislative History is provided for the convenience of users of the Customs
 ||Date of commencement|17 October 1997|
 |23.|**1997 Revised Edition—Customs Act**|
 ||Date of operation|20 December 1997|
+|24.|**Act 29 of 1998—Customs (Amendment) Act 1998**|
+||Date of First Reading|1 June 1998|
+|||(Bill No. 21/98 published on 2 June 1998)|
+||Date of Second and Third Readings|29 June 1998|
+||Date of commencement|1 August 1998|
