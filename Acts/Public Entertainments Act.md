@@ -32,71 +32,77 @@
 
 - [13 Refusal of licence](#Refusal-of-licence)
 
-- [14 Cancellation of licence](#Cancellation-of-licence)
+- [14 Suspension or cancellation of licence](#Suspension-or-cancellation-of-licence)
 
-- [14A Demerit points](#Demerit-points)
+- [15 Demerit points](#Demerit-points)
 
-- [15 Exemption](#Exemption)
+- [16 Exemption](#Exemption)
 
-- [16 Powers of entry and inspection](#Powers-of-entry-and-inspection)
+- [17 Powers of entry and inspection](#Powers-of-entry-and-inspection)
 
-- [17 Powers of arrest](#Powers-of-arrest)
+- [18 Powers of arrest](#Powers-of-arrest)
 
-- [18 Penalties](#Penalties)
+- [19 Penalties](#Penalties)
 
-- [18A Service of documents, etc.](#Service-of-documents-etc)
+- [20 Service of documents, etc.](#Service-of-documents-etc)
 
-- [18B Composition of offences](#Composition-of-offences)
+- [21 Composition of offences](#Composition-of-offences)
 
-- [19 Onus of proof](#Onus-of-proof)
+- [22 Onus of proof](#Onus-of-proof)
 
-- [20 Rules](#Rules)
+- [23 Rules](#Rules)
 
-[**THE SCHEDULE**](#THE-SCHEDULE)
+[**THE SCHEDULE Meaning of public entertainment**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
-# Public Entertainment and Meetings Act
+[**Comparative Table**](#Comparative-Table)
+
+# Public Entertainments and Meetings Act
 
 (CHAPTER 257)
 
 (Original Enactment: Ordinance 40 of 1958)
 
-REVISED EDITION 1985
+REVISED EDITION 2001
 
-(30th March 1987)
+(31st July 2001)
 
-An Act to provide for the regulation of public entertainment and meetings.
+An Act to provide for the regulation of public entertainments and meetings.
+
+[35/2000]
 
 [15th January 1959]
 
 ### Short title
 
-1\. This Act may be cited as the Public Entertainment and Meetings Act.
+1\. This Act may be cited as the Public Entertainments and Meetings Act.
+
+[35/2000]
 
 ### Interpretation
 
 2\.—(1) In this Act, unless the context otherwise requires —
 
-“approved place” means, in the case of any place required to be licensed under any regulations for the control and supervision of places that may be used for public entertainment made under the provisions of any written law, a place so licensed and in other cases a building, tent, street or place whether open or enclosed that is approved for the purposes of this Act by the Licensing Officer;
+“approved place” means —
+
+(a) in the case of any place required to be licensed under any regulations for the control and supervision of places that may be used for public entertainment made under the provisions of any written law, a place so licensed; and
+
+(b) in any other case, a building, tent, street or place whether open or enclosed that is approved for the purposes of this Act by the Licensing Officer;
 
 “Licensing Officer” means the officer appointed by the Minister under section 4 and includes an Assistant Licensing Officer;
 
 “public entertainment” has the same meaning as in the Schedule.
 
-[35/2000 wef 01/03/2001]
-
-[35/2000 wef 01/03/2001]
+[9/79; 35/2000]
 
 (2) The Minister may at any time, by order published in theGazette, amend, add to or vary the Schedule.
 
-[35/2000 wef 01/03/2001]
+[35/2000]
 
 (3) Any order made under subsection (2) shall be presented to Parliament as soon as possible after publication in theGazette.
 
-[35/2000 wef 01/03/2001]
-
-[9/79]
+[35/2000]
 
 ### Prohibition
 
@@ -116,47 +122,51 @@ An Act to provide for the regulation of public entertainment and meetings.
 
 ### Applicants may be joined
 
-6\. If the Licensing Officer is satisfied that the responsibility for the observance of the conditions of a licence is intended to be shared between two or more persons he may require the application to be made in the names of as many such persons jointly as he thinks fit.
+6\. If the Licensing Officer is satisfied that the responsibility for the observance of the conditions of a licence is intended to be shared between 2 or more persons he may require the application to be made in the names of as many such persons jointly as he thinks fit.
 
 ### Additional information
 
-7\. On receipt of an application for a licence the Licensing Officer may require the applicant to furnish him with such additional information or documents as he may require.
+7\. On receipt of an application for a licence the Licensing Officer may require the applicant to furnish him with such additional information or document as he may require.
+
+[35/2000]
 
 ### Contents of licence
 
 8\. Every licence shall be in the prescribed form and shall set out the conditions subject to which it is issued and the date on which it will expire.
 
+[35/2000]
+
 ### Licence not renewable as of right
 
 9\. A licence shall not be renewable as of right.
+
+[35/2000]
 
 ### Conditions
 
 10\.—(1) In issuing a licence the Licensing Officer may impose such conditions as he thinks fit.
 
-[35/2000 wef 01/03/2001]
+[9/79]
 
 (2) The Licensing Officer may at any time add to, vary or revoke any of the conditions of a licence imposed under subsection (1).
 
-[35/2000 wef 01/03/2001]
+[35/2000]
 
-(3) In deciding whether to add to, vary or revoke any condition of the licence under subsection (2), the Licensing Officer may take into consideration the total number of demerit points awarded against the licensee under section 14A in respect of the licence.
+(3) In deciding whether to add to, vary or revoke any condition of a licence under subsection (2), the Licensing Officer may take into consideration the total number of demerit points awarded against the licensee under section 15 in respect of the licence.
 
-[35/2000 wef 01/03/2001]
+[35/2000]
 
-(4) The Licensing Officer shall, before proceeding to add to, vary or revoke any condition of the licence under subsection (2) —
+(4) The Licensing Officer shall, before proceeding to add to, vary or revoke any condition of a licence under subsection (2), give the licensee —
 
-(a) give the licensee notice in writing of his intention to do so; and
+(a) notice in writing of his intention to do so; and
 
-(b) give the licensee an opportunity to be heard, within such time as may be specified in the notice, as to why the condition should not be added to, varied or revoked.
+(b) an opportunity to be heard, within such time as may be specified in the notice, as to why the condition should not be added to, varied or revoked.
 
-[35/2000 wef 01/03/2001]
+[35/2000]
 
 (5) Any person who is aggrieved by the decision of the Licensing Officer under this section may, within 14 days of being notified of the decision of the Licensing Officer, appeal in writing to the Minister whose decision shall be final.
 
-[35/2000 wef 01/03/2001]
-
-[9/79]
+[35/2000]
 
 ### Security
 
@@ -166,29 +176,39 @@ An Act to provide for the regulation of public entertainment and meetings.
 
 (b) if there are 2 or more applicants, each applicant named by the Licensing Officer for the purpose,
 
-to give security in such form as the Licensing Officer may determine that the provisions of this Act, any rules made thereunder and the conditions of the licence issued will be duly observed.
+to give security in such form as the Licensing Officer may determine that the provisions of this Act and the conditions of the licence issued will be duly observed.
 
-(2) Where a licensee has been awarded such number of demerit points as may be prescribed under section 14A(1), the Licensing Officer may require a licensee to give security in such form as the Licensing Officer may determine that the provisions of this Act, any rules made thereunder and the conditions of the licence issued will be duly observed.
+[35/2000]
 
-(3) Where any applicant is required under subsection (1), or any licensee is required under subsection (2), to enter into a bond, the Licensing Officer may require not more than 2 sureties to enter into the bond with the applicant or licensee, as the case may be.
+(2) Where a licensee has been awarded such number of demerit points as may be prescribed under section 15(1), the Licensing Officer may require a licensee to give security in such form as the Licensing Officer may determine that the provisions of this Act and the conditions of the licence issued will be duly observed.
+
+[35/2000]
+
+(3) Where any applicant is required under subsection (1), or any licensee is required under subsection (2), to enter into a bond, the Licensing Officer may require not more than 2 sureties to enter into the bond with the applicant or the licensee, as the case may be.
+
+[35/2000]
 
 (4) Any security given under subsection (1) or (2) shall be liable to forfeiture in whole or in part at the discretion of the Licensing Officer —
 
 (a) on the cancellation of the licence;
 
-(b) where the licensee has been awarded such number of demerit points as may be prescribed under section 14A(1); or
+(b) where the licensee has been awarded such number of demerit points as may be prescribed under section 15(1); or
 
-(c) where the Licensing Officer is satisfied that the public entertainment has been carried out in contravention of this Act or any rules made thereunder.
+(c) where the Licensing Officer is satisfied that the public entertainment has been carried out in contravention of this Act.
 
-(5) The Licensing Officer shall, before proceeding under subsection (4) —
+[35/2000]
 
-(a) give the licensee notice in writing of his intention to do so; and
+(5) The Licensing Officer shall, before proceeding under subsection (4), give the licensee —
 
-(b) give the licensee an opportunity to be heard, within such time as may be specified in the notice, as to why the security should not be forfeited.
+(a) notice in writing of his intention to do so; and
+
+(b) an opportunity to be heard, within such time as may be specified in the notice, as to why the security should not be forfeited.
+
+[35/2000]
 
 (6) Any person who is aggrieved by the decision of the Licensing Officer under subsection (4) may, within 14 days of being notified of the decision of the Licensing Officer, appeal in writing to the Minister whose decision shall be final.
 
-[35/2000 wef 01/03/2001]
+[35/2000]
 
 ### Licence to be displayed
 
@@ -196,15 +216,25 @@ to give security in such form as the Licensing Officer may determine that the pr
 
 ### Refusal of licence
 
-13\.—(1) The Licensing Officer may in his discretion refuse to issue or renew any licence.
+13\.—(1) The Licensing Officer may, in his discretion, refuse to issue or renew any licence.
 
-(2) The Licensing Officer shall, if so required by the applicant or the licensee, as the case may be, furnish him within 7 days of being so required with the grounds of such refusal in writing.
+[35/2000]
 
-(3) Any applicant or licensee who is aggrieved by the refusal of the Licensing Officer may, within 14 days of the furnishing to him of the grounds of the refusal, appeal in writing to the Minister whose decision shall be final. Where the Minister decides to grant the appeal for the issue or renewal of a licence, he may impose such conditions as he thinks fit.
+(2) The Licensing Officer shall, if so required by the applicant or the licensee, as the case may be, furnish the applicant or the licensee within 7 days of being so required with the grounds of such refusal in writing.
 
-### Cancellation of licence
+[35/2000]
 
-14\.—(1) The Licensing Officer may in his discretion cancel or suspend a licence, as the case may be, if he is satisfied that the public entertainment for which it was issued —
+(3) Any applicant or licensee who is aggrieved by the refusal of the Licensing Officer may, within 14 days of the furnishing to him of the grounds of the refusal, appeal in writing to the Minister whose decision shall be final.
+
+[35/2000]
+
+(4) Where the Minister decides to grant the appeal for the issue or renewal of a licence, he may impose such conditions as he thinks fit.
+
+[35/2000]
+
+### Suspension or cancellation of licence
+
+14\.—(1) The Licensing Officer may, in his discretion, suspend or cancel a licence, as the case may be, if he is satisfied that the public entertainment for which it was issued —
 
 (a) has been the cause or is likely to be the cause of a breach of the peace;
 
@@ -214,47 +244,65 @@ to give security in such form as the Licensing Officer may determine that the pr
 
 (d) has been provided or is likely to be provided otherwise than in accordance with the conditions of the licence or is contrary to the public interest.
 
-(2) The Licensing Officer may, in his discretion, cancel or suspend a licence, as the case may be, if he is satisfied that the licensee is not a fit and proper person to hold such licence.
-
-[35/2000 wef 01/03/2001]
-
-(2A) The Licensing Officer shall not cancel or suspend a licence under subsection (1)(d) on the ground that the public entertainment for which it was issued has been provided otherwise than in accordance with the conditions of the licence unless the licensee has accumulated such number of demerit points as may be prescribed under section 14A(1).
-
-[35/2000 wef 01/03/2001]
-
-(3) The Licensing Officer shall, if so required by the licensee, furnish him within 7 days of being so required with the grounds in writing of the cancellation or suspension of his licence.
-
-(4) Any person aggrieved by the cancellation or suspension of his licence by the Licensing Officer may, within 14 days of the furnishing to him of the grounds of the cancellation or suspension, appeal in writing to the Minister, whose decision shall be final. Where the Minister decides to restore a licence, he may impose such conditions as he thinks fit.
-
 [9/79]
+
+(2) The Licensing Officer may, in his discretion, suspend or cancel a licence, as the case may be, if he is satisfied that the licensee is not a fit and proper person to hold such licence.
+
+[35/2000]
+
+(3) The Licensing Officer shall not suspend or cancel a licence under subsection (1)(d) on the ground that the public entertainment for which it was issued has been provided otherwise than in accordance with the conditions of the licence unless the licensee has accumulated such number of demerit points as may be prescribed under section 15(1).
+
+[35/2000]
+
+(4) The Licensing Officer shall, if so required by the licensee, furnish the licensee within 7 days of being so required with the grounds in writing of the suspension or cancellation of his licence.
+
+(5) Any person aggrieved by the suspension or cancellation of his licence by the Licensing Officer may, within 14 days of the furnishing to him of the grounds of the suspension or cancellation, appeal in writing to the Minister whose decision shall be final.
+
+(6) Where the Minister decides to restore a licence, he may impose such conditions as he thinks fit.
 
 ### Demerit points
 
-14A\.—(1) The Minister may, for the purposes of sections 10, 11 and 14(2A), make rules to establish a system of awarding demerit points against a licensee for the commission of an offence under section 18(1)(c).
+15\.—(1) The Minister may, for the purposes of sections 10, 11 and 14(3), make rules to establish a system of awarding demerit points against a licensee for the commission of an offence under section 19(1)(c).
+
+[35/2000]
 
 (2) For the purposes of this section, demerit points may be awarded against a licensee notwithstanding that the licensee has accepted an offer by the Licensing Officer to compound the offence concerned.
 
+[35/2000]
+
 (3) Where a licence is cancelled under section 14, every demerit point awarded against the licensee in respect of the licence shall be cancelled.
 
-[35/2000 wef 01/03/2001]
+[14A
+
+[35/2000]
 
 ### Exemption
 
-15\. The Minister may by order exempt any public entertainment or series or class of public entertainments from all or any of the provisions of this Act.
+16\. The Minister may by order exempt any public entertainment or series or class of public entertainments from all or any of the provisions of this Act.
+
+[15
 
 ### Powers of entry and inspection
 
-16\. Any Licensing Officer or police officer may enter any place where a licensed public entertainment is being provided with a view to ascertaining whether the conditions of the licence and the provisions of this Act are being complied with.
+17\. Any Licensing Officer or police officer may enter any place where a licensed public entertainment is being provided with a view to ascertaining whether the conditions of the licence and the provisions of this Act are being complied with.
+
+[16
 
 ### Powers of arrest
 
-17\.—(1) Any Licensing Officer or police officer may arrest without warrant any person whom he reasonably suspects of committing or attempting to commit, or abetting any person to commit, any offence under this Act and who refuses to furnish his name and address or who furnishes a name and address reasonably suspected of being false or who furnishes an address outside Singapore or who is reasonably suspected of being likely to abscond.
+18\.—(1) Any Licensing Officer or police officer may arrest without warrant any person —
 
-(2) Every person so arrested shall be taken to a police station and shall thereafter be dealt with as if he had been arrested under section 33 of the Criminal Procedure Code.
+(a) whom he reasonably suspects of committing or attempting to commit, or abetting any person to commit, any offence under this Act; and
+
+(b) who refuses to furnish his name and address or who furnishes a name and address reasonably suspected of being false or who furnishes an address outside Singapore or who is reasonably suspected of being likely to abscond.
+
+(2) Every person so arrested shall be taken to a police station and shall thereafter be dealt with as if he had been arrested under section 33 of the Criminal Procedure Code (Cap. 68).
+
+[17
 
 ### Penalties
 
-18\.—(1) Any person who provides or assists in providing any public entertainment —
+19\.—(1) Any person who provides or assists in providing any public entertainment —
 
 (a) without a licence issued under this Act;
 
@@ -262,23 +310,25 @@ to give security in such form as the Licensing Officer may determine that the pr
 
 (c) in contravention of any condition of a licence; or
 
-(d) in contravention of this Act or any rules made thereunder,
+(d) in contravention of this Act,
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
 
-(2) For the purposes of this section no person shall be deemed to have provided or assisted in providing public entertainment merely by reason of his having taken part in the public entertainment provided.
+[9/79; 35/2000]
 
-[9/79]
+(2) For the purposes of this section, no person shall be deemed to have provided or assisted in providing public entertainment merely by reason of his having taken part in the public entertainment provided.
+
+[18
 
 ### Service of documents, etc.
 
-18A\.—(1) Any notice, order or document required or authorised by this Act or any rules made thereunder to be served on any person may be served —
+20\.—(1) Any notice, order or document required or authorised by this Act to be served on any person may be served —
 
 (a) by delivering it to the person or to some adult member or employee of his family or household at his last known place of residence;
 
-(b) by leaving it at his usual or last known place of residence or business in an envelope addressed to the person;
+(b) by leaving it at his usual or last known place of residence or place of business in an envelope addressed to the person;
 
-(c) by sending it by registered post addressed to the person at his usual or last known place of residence or business; or
+(c) by sending it by registered post addressed to the person at his usual or last known place of residence or place of business; or
 
 (d) in the case of a company, partnership or body of persons —
 
@@ -286,29 +336,43 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (ii) by sending it by registered post addressed to the company, partnership or body of persons at its registered office or principal place of business.
 
+[35/2000]
+
 (2) Any notice, order or document sent by registered post to any person in accordance with subsection (1) shall be deemed to be duly served on the person at the time when the notice, order or document, as the case may be, would in the ordinary course of post be delivered.
+
+[35/2000]
 
 (3) When proving service of the notice, order or document referred to in subsection (2), it shall be sufficient to prove that the envelope containing the notice, order or document, as the case may be, was properly addressed, stamped and posted by registered post.
 
-[35/2000 wef 01/03/2001]
+[18A
+
+[35/2000]
 
 ### Composition of offences
 
-18B\.—(1) The Licensing Officer may, in his discretion, compound any offence under this Act or any rules made thereunder which is prescribed as a compoundable offence by collecting from the person reasonably suspected of having committed the offence a sum not exceeding $1,000.
+21\.—(1) The Licensing Officer may, in his discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from the person reasonably suspected of having committed the offence a sum not exceeding $1,000.
+
+[35/2000]
 
 (2) The Minister may make rules to prescribe the offences which may be compounded under this section.
 
+[35/2000]
+
 (3) On payment of such sum of money, no further proceedings shall be taken against such person in respect of the offence.
 
-[35/2000 wef 01/03/2001]
+[18B
+
+[35/2000]
 
 ### Onus of proof
 
-19\. In any proceedings under this Act the onus of proving that the public or any class of the public did not have access to any public entertainment shall lie on the person alleging the fact.
+22\. In any proceedings under this Act the onus of proving that the public or any class of the public did not have access to any public entertainment shall lie on the person alleging the fact.
+
+[19
 
 ### Rules
 
-20\.—(1) The Minister may make rules for any of the following purposes:
+23\.—(1) The Minister may make rules for any of the following purposes:
 
 (a) to prescribe the fees to be charged in respect of licences;
 
@@ -318,13 +382,19 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (d) generally to give effect to the provisions of this Act.
 
+[35/2000]
+
 (2) All rules made under this Act shall be presented to Parliament as soon as possible after publication in theGazette.
 
-[35/2000 wef 01/03/2001]
+[20
+
+[35/2000]
 
 ## THE SCHEDULE
 
 Section 2(1)
+
+Meaning of public entertainment
 
 1. In this Schedule —
 
@@ -462,7 +532,7 @@ in any place to which the public or any class of the public has access whether g
 
 (xxxviii) Urban Redevelopment Authority.
 
-[35/2000 wef 01/03/2001]
+[35/2000]
 
 ## LEGISLATIVE HISTORY
 
@@ -470,7 +540,7 @@ Public Entertainments and Meetings Act
 
 (CHAPTER 257)
 
-This Legislative History is provided for the convenience of users of the Public Entertainments and Meetings Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Public Entertainments and Meetings Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -498,3 +568,71 @@ This Legislative History is provided for the convenience of users of the Public 
 |||(Bill No. 29/2000 published on 10 October 2000)|
 ||Date of Second and Third Readings|13 November 2000|
 ||Date of commencement|1 March 2001|
+|7.|**2001 Revised Edition—Public Entertainments and Meetings Act**|
+||Date of operation|31 July 2001|
+## COMPARATIVE TABLE
+
+Public Entertainments and Meetings Act
+
+(CHAPTER 257)
+
+The following provisions in the 1985 Revised Edition of the Public Entertainments Act have been renumbered by the Law Revision Commissioners in this 2001 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Public Entertainments and Meetings Act.
+
+2001 Ed\. 
+
+1985 Ed\. 
+
+13 —(3) and (4)
+
+13 —(3)
+
+14 —(3)
+
+14 —(2A)
+
+(4)
+
+(3)
+
+(5) and (6)
+
+(4)
+
+15 
+
+14A 
+
+16 
+
+15 
+
+17 
+
+16 
+
+18 
+
+17 
+
+19 
+
+18 
+
+20 
+
+18A 
+
+21 
+
+18B 
+
+22 
+
+19 
+
+23 
+
+20 
+
