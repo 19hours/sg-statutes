@@ -1,0 +1,338 @@
+**Maritime Offences Act 2003**
+
+**(No. 26 of 2003)**
+
+**Table of Contents**
+
+[**Long Title**](#Maritime-Offences-Act)
+
+[**Enacting Formula**](#Enacting-Formula)
+
+- [1 Short title and commencement](#Short-title-and-commencement)
+
+- [2 Interpretation](#Interpretation)
+
+- [3 Hijacking of ships](#Hijacking-of-ships)
+
+- [4 Destroying or damaging ships, etc.](#Destroying-or-damaging-ships-etc)
+
+- [5 Other acts endangering or likely to endanger safe navigation](#Other-acts-endangering-or-likely-to-endanger-safe-navigation)
+
+- [6 Offences involving threats](#Offences-involving-threats)
+
+- [7 Ancillary offences](#Ancillary-offences)
+
+- [8 Master’s power of delivery](#Master’s-power-of-delivery)
+
+- [9 General penalties](#General-penalties)
+
+- [10 Consent for prosecution](#Consent-for-prosecution)
+
+- [11 Extradition](#Extradition)
+
+- [12 Consequential amendment to Hijacking of Aircraft and Protection of Aircraft and International Airports Act](#Consequential-amendment-to-Hijacking-of-Aircraft-and-Protection-of-Aircraft-and-International-Airports-Act)
+
+- [13 Consequential amendment to Supreme Court of Judicature Act](#Consequential-amendment-to-Supreme-Court-of-Judicature-Act)
+
+REPUBLIC OF SINGAPORE
+
+GOVERNMENT GAZETTE
+
+ACTS SUPPLEMENT
+
+Published by Authority
+
+NO. 10]
+
+Friday, April 2
+
+[2004
+
+The following Act was passed by Parliament on 10th November 2003 and assented to by the President on 28th November 2003:—
+
+Maritime Offences Act 2003
+
+(No. 26 of 2003)
+
+I assent.
+
+S R NATHAN,
+
+President.
+
+28th November 2003.
+
+Date of Commencement: 3rd May 2004
+
+An Act to give effect to the provisions of the Convention for the Suppression of Unlawful Acts against the Safety of Maritime Navigation done in Rome on 10th March 1988 and for purposes connected therewith, and to make consequential amendments to the Hijacking of Aircraft and Protection of Aircraft and International Airports Act (Chapter 124 of the 1997 Revised Edition) and the Supreme Court of Judicature Act (Chapter 322 of the 1999 Revised Edition).
+
+Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+
+### Short title and commencement
+
+1\. This Act may be cited as the Maritime Offences Act 2003 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+
+### Interpretation
+
+2\. In this Act, unless the context otherwise requires —
+
+“act of violence” means —
+
+(a) any act done in Singapore which constitutes the offence of murder, attempted murder, culpable homicide not amounting to murder, voluntarily causing grievous hurt, voluntarily causing hurt by dangerous weapons or means, or which constitutes an offence under —
+
+(i) section 4 of the Arms Offences Act (Cap. 14);
+
+(ii) section 3 or 4 of the Corrosive and Explosive Substances and Offensive Weapons Act (Cap. 65);
+
+(iii) section 3 or 4 of the Explosive Substances Act (Cap. 100); or
+
+(iv) section 3 of the Kidnapping Act (Cap. 151); and
+
+(b) any act done outside Singapore which, if done in Singapore, would constitute an offence referred to in paragraph (a);
+
+“Convention” means the Convention for the Suppression of Unlawful Acts against the Safety of Maritime Navigation done in Rome on 10th March 1988;
+
+“Convention country” means a country in respect of which the Convention is in force;
+
+“country” includes any territory;
+
+“naval service” includes military and air force services;
+
+“relevant maritime offence” means —
+
+(a) an offence under section 3, 4, 5 or 6;
+
+(b) conspiracy to commit any of those offences;
+
+(c) inciting another to commit any of those offences;
+
+(d) attempting to commit any of those offences; or
+
+(e) aiding, abetting, counselling or procuring the commission of any of those offences;
+
+“ship” means any vessel (including hovercraft, submersible craft and other floating craft) other than one which —
+
+(a) permanently rests on, or is permanently attached to, the seabed; or
+
+(b) has been withdrawn from navigation or laid up;
+
+“unlawfully” —
+
+(a) in relation to the commission of an act in Singapore, means so as (apart from this Act) to constitute an offence under any written law in force in Singapore; and
+
+(b) in relation to the commission of an act outside Singapore, means so that the commission of the act would (apart from this Act) have been an offence under any written law in force in Singapore if it had been committed in Singapore.
+
+### Hijacking of ships
+
+3\.—(1) Subject to subsection (2), any person who unlawfully, by the use of force or by threats of any kind, seizes a ship or exercises control of a ship, shall be guilty of an offence, whatever his nationality or citizenship, whatever the state in which the ship is registered and whether the ship is in Singapore or elsewhere.
+
+(2) Subsection (1) shall not apply to any act committed in relation to a warship, or any other ship used as a naval auxiliary or in customs or law enforcement service, unless —
+
+(a) the person seizing or exercising control of the ship is a citizen of Singapore;
+
+(b) the act is committed in Singapore; or
+
+(c) the ship is used in the naval, customs or law enforcement service of Singapore.
+
+### Destroying or damaging ships, etc.
+
+4\.—(1) Subject to subsection (5), any person who unlawfully and intentionally —
+
+(a) destroys a ship;
+
+(b) damages a ship or its cargo so as to endanger, or to be likely to endanger, the safe navigation of the ship; or
+
+(c) commits on board a ship an act of violence which is likely to endanger the safe navigation of the ship,
+
+shall be guilty of an offence.
+
+(2) Subject to subsection (5), any person who unlawfully and intentionally places, or causes to be placed, on a ship any device or substance which is likely to destroy the ship or is likely so to damage it or its cargo as to endanger its safe navigation shall be guilty of an offence.
+
+(3) Nothing in subsection (2) shall be construed as limiting the circumstances in which the commission of any act may —
+
+(a) constitute an offence under subsection (1); or
+
+(b) constitute attempting or conspiring to commit or aiding, abetting, counselling, procuring or inciting the commission of the offence.
+
+(4) Except as provided in subsection (5), subsections (1) and (2) shall apply whether any act referred to in those subsections is committed in Singapore or elsewhere, whatever the nationality or citizenship of the person committing the act and whatever the state in which the ship is registered.
+
+(5) Subsections (1) and (2) shall not apply to any act committed in relation to a warship, or any other ship used as a naval auxiliary or in customs or law enforcement service, unless —
+
+(a) the person committing the act is a citizen of Singapore;
+
+(b) the act is committed in Singapore; or
+
+(c) the ship is used in the naval, customs or law enforcement service of Singapore.
+
+### Other acts endangering or likely to endanger safe navigation
+
+5\.—(1) Subject to subsection (6), any person who unlawfully and intentionally —
+
+(a) destroys or damages any property to which this section applies; or
+
+(b) seriously interferes with the operation of that property,
+
+where the destruction, damage or interference is likely to endanger the safe navigation of a ship, shall be guilty of an offence.
+
+(2) Subsection (1) shall apply to any property used for the provision of maritime navigation facilities, including any land, building or ship so used, and including any apparatus or equipment so used, whether the property is on board a ship or elsewhere.
+
+(3) Subject to subsection (6), any person who intentionally communicates any information which is false in a material particular, where the communication of the information endangers the safe navigation of a ship, shall be guilty of an offence.
+
+(4) It shall be a defence for a person charged with an offence under subsection (3) to prove that —
+
+(a) he believed, and had reasonable grounds for believing, that the information was true; or
+
+(b) when he communicated the information, he was lawfully employed to perform duties which consisted of or included the communication of information and that he communicated the information in good faith in the performance of those duties.
+
+(5) Except as provided in subsection (6), subsections (1) and (3) shall apply whether any act referred to in those subsections is committed in Singapore or elsewhere, whatever the nationality or citizenship of the person committing the act and whatever the state in which the ship is registered.
+
+(6) Subsections (1) and (3) shall not apply to any act committed in relation to a warship, or any other ship used as a naval auxiliary or in customs or law enforcement service, unless —
+
+(a) the person committing the act is a citizen of Singapore;
+
+(b) the act is committed in Singapore; or
+
+(c) the ship is used in the naval, customs or law enforcement service of Singapore.
+
+### Offences involving threats
+
+6\.—(1) A person shall be guilty of an offence if —
+
+(a) in order to compel any other person to do or abstain from doing any act, threatens that he or some other person will do in relation to any ship an act which is an offence under section 4(1); and
+
+(b) the making of that threat is likely to endanger the safe navigation of the ship.
+
+(2) Subject to subsection (4), a person shall be guilty of an offence if —
+
+(a) in order to compel any other person to do or abstain from doing any act, threatens that he or some other person will do an act which is an offence under section 5(1); and
+
+(b) the making of that threat is likely to endanger the safe navigation of any ship.
+
+(3) Except as provided in subsection (4), subsections (1) and (2) shall apply whether any act referred to in those subsections is committed in Singapore or elsewhere, whatever the nationality or citizenship of the person committing the act and whatever the state in which the ship is registered.
+
+(4) Section 4(5) shall apply for the purposes of subsection (1) as it applies for the purposes of section 4(1); and section 5(6) shall apply for the purposes of subsection (2) as it applies for the purposes of section 5(1).
+
+### Ancillary offences
+
+7\.—(1) Any act of violence done by any person in connection with an offence under section 3, 4 or 5 committed or attempted to be committed by him shall be deemed to have been committed in Singapore and shall constitute an offence punishable under the law in force in Singapore applicable to it, wherever the act of violence was committed, whatever the state in which the ship concerned is registered (if any), and whatever the nationality or citizenship of the person committing or attempting to commit the act.
+
+(2) Subsection (1) is without prejudice to section 180 of the Merchant Shipping Act (Cap. 179).
+
+(3) Any person in Singapore who abets the commission elsewhere of any act which would —
+
+(a) but for section 3(2), be an offence under that section;
+
+(b) but for section 4(5), be an offence under that section;
+
+(c) but for section 5(6), be an offence under that section; or
+
+(d) but for section 6(4), be an offence under that section,
+
+shall be guilty of an offence.
+
+### Master’s power of delivery
+
+8\.—(1) This section shall have effect for the purposes of any proceedings before any court in Singapore.
+
+(2) If the master of a ship, wherever that ship may be, and whatever the state in which it is registered, has reasonable grounds to believe that any person on board the ship has committed any relevant maritime offence in relation to any ship other than a warship or other ship used as a naval auxiliary or in customs or law enforcement service, he may deliver that person to an appropriate officer in Singapore.
+
+(3) The master of a ship registered in Singapore may, in the circumstances referred to in subsection (2), also deliver the person concerned to an appropriate officer of any other Convention country.
+
+(4) Where the master of a ship intends to deliver any person under subsection (2) or (3), he shall give notification in the prescribed form to an appropriate officer in that country —
+
+(a) of his intention to deliver that person to an appropriate officer in that country; and
+
+(b) of his reasons for intending to do so.
+
+(5) Any notification under subsection (4) shall be given —
+
+(a) before the ship in question enters the territorial waters of that country; or
+
+(b) if in the circumstances it is not reasonably practicable to comply with paragraph (a), as soon as reasonably practicable after the ship has entered the territorial waters of that country.
+
+(6) Where the master of a ship delivers any person to an appropriate officer in Singapore under subsection (2) or any other Convention country under subsection (3), he shall —
+
+(a) make to an appropriate officer in that country such oral or written statements relating to the alleged offence as that officer may reasonably require; and
+
+(b) deliver to an appropriate officer in that country such other evidence relating to the alleged offence as is in the master’s possession.
+
+(7) The master of a ship who, without reasonable excuse, contravenes subsection (4) or (6) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+
+(8) It is a defence for the master of a ship charged with an offence under subsection (7) for a contravention of subsection (4) to show that —
+
+(a) he believed on reasonable grounds that the giving of a notification would endanger the safety of the ship; and
+
+(b) except where the country concerned is Singapore —
+
+(i) he had notified some other competent authority in the country concerned within the time required by subsection (5); or
+
+(ii) he had believed on reasonable grounds that the giving of a notification to any competent authority in that country would endanger the safety of the ship.
+
+(9) In this section —
+
+“appropriate officer” means —
+
+(a) in relation to Singapore —
+
+(i) for the purpose of subsection (2) or (6), such public officer as the Minister may by order prescribe; or
+
+(ii) for the purpose of receiving a notification referred to in subsection (4), the Port Master within the meaning of the Maritime and Port Authority of Singapore Act (Cap. 170A); or
+
+(b) in relation to any other Convention country, an officer designated by that country to carry out the relevant duty of an appropriate officer under this section;
+
+“master” has the same meaning as in the Merchant Shipping Act (Cap. 179).
+
+### General penalties
+
+9\.—(1) Any person guilty of an offence under this Act for which no penalty is expressly provided shall be liable on conviction to be punished with imprisonment for life.
+
+(2) For the avoidance of doubt, subsection (1) shall not apply to any act which constitutes an offence punishable under the law in force in Singapore applicable to it by virtue of section 7(1).
+
+### Consent for prosecution
+
+10\.—(1) No prosecution shall be instituted under this Act without the written consent of the Public Prosecutor.
+
+(2) Notwithstanding that consent has not been given in relation to the offence in accordance with subsection (1) —
+
+(a) a person may be arrested for an offence under this Act;
+
+(b) a warrant for the arrest of any person in respect of any offence under this Act may be issued and executed;
+
+(c) a person may be charged with an offence under this Act; and
+
+(d) a person charged with any offence under this Act may be remanded in custody or granted bail,
+
+but no further steps in the proceedings in relation to the offence shall be taken until the consent of the Public Prosecutor has been obtained.
+
+### Extradition
+
+11\.—(1) Relevant maritime offences are deemed to be included in the list of extradition crimes described in the First Schedule to the Extradition Act (Cap. 103).
+
+(2) Subject to subsection (3), where no extradition treaty is in force between Singapore and a Convention country, a notification in theGazetteunder section 4 of the Extradition Act may be made applying that Act as if there were an extradition treaty between Singapore and that country.
+
+(3) Where the Extradition Act is applied under subsection (2), the Extradition Act shall, subject to subsection (4), have effect as if the only extradition crimes within the meaning of that Act were relevant maritime offences.
+
+(4) Subsection (2) is without prejudice to any other notification made under section 4 of the Extradition Act.
+
+(5) For the purposes of the Extradition Act, any act, wherever committed, which —
+
+(a) is a relevant maritime offence, or would be such an offence but for section 3(2), 4(5), 5(6) or 6(4) of this Act; and
+
+(b) is an offence against the law of any country in the case of which the Extradition Act has been applied by a notification in theGazettemade under section 4 of that Act,
+
+shall be deemed to be an offence within the jurisdiction of that country.
+
+### Consequential amendment to Hijacking of Aircraft and Protection of Aircraft and International Airports Act
+
+12\. Section 11 of the Hijacking of Aircraft and Protection of Aircraft and International Airports Act (Cap. 124) is amended by inserting, immediately after subsection (2), the following subsection:
+
+“
+
+(2A) Subsection (2) is without prejudice to any other notification made under section 4 of the Extradition Act.
+
+”.
+
+### Consequential amendment to Supreme Court of Judicature Act
+
+13\. Section 15(1) of the Supreme Court of Judicature Act (Cap. 322) is amended by inserting, immediately after the words “Hijacking of Aircraft and Protection of Aircraft and International Airports Act (Cap. 124)” in paragraph (e), the words “or the Maritime Offences Act 2003”.
+
