@@ -14,17 +14,21 @@
 
 - [3 Interpretation](#Interpretation)
 
+[**Part IA STATUTORY DUTY OF CARE**](#Part-IA)
+
+- [3A Trustees’ statutory duty of care](#Trustees’-statutory-duty-of-care)
+
 [**Part II INVESTMENTS**](#Part-II)
 
-- [4 Powers of investment of trustees](#Powers-of-investment-of-trustees)
+- [4 General power of investment](#General-power-of-investment)
 
-- [5 Duty of trustees in choosing investments](#Duty-of-trustees-in-choosing-investments)
+- [5 Standard investment criteria](#Standard-investment-criteria)
 
-- [6 Statutory powers of investment](#Statutory-powers-of-investment)
+- [6 Advice](#Advice)
 
 - [7 Power to retain investment which has ceased to be authorised](#Power-to-retain-investment-which-has-ceased-to-be-authorised)
 
-- [8 Investment in bearer securities](#Investment-in-bearer-securities)
+- [8 (Repealed)](#Repealed)
 
 - [9 Loans and investments by trustees not chargeable as breaches of trust](#Loans-and-investments-by-trustees-not-chargeable-as-breaches-of-trust)
 
@@ -58,15 +62,15 @@
 
 - [22 Application of insurance money where policy kept up under any trust, power or obligation](#Application-of-insurance-money-where-policy-kept-up-under-any-trust-power-or-obligation)
 
-- [23 Deposit of documents for safe custody](#Deposit-of-documents-for-safe-custody)
+- [23 (Repealed)](#Repealed)
 
 - [24 Reversionary interests, valuations and audit](#Reversionary-interests-valuations-and-audit)
 
-- [25 Power to employ agents](#Power-to-employ-agents)
+- [25 (Repealed)](#Repealed)
 
 - [26 Power to concur with others](#Power-to-concur-with-others)
 
-- [27 Power to delegate trusts during absence abroad](#Power-to-delegate-trusts-during-absence-abroad)
+- [27 Delegation of trustee’s functions by power of attorney](#Delegation-of-trustee’s-functions-by-power-of-attorney)
 
 [**Indemnities**](#Indemnities)
 
@@ -101,6 +105,58 @@
 - [40 Retirement of trustee without a new appointment](#Retirement-of-trustee-without-a-new-appointment)
 
 - [41 Vesting of trust property in new or continuing trustees](#Vesting-of-trust-property-in-new-or-continuing-trustees)
+
+[**Part IVA AGENTS, NOMINEES AND CUSTODIANS**](#Part-IVA)
+
+- [41A Application of this Part](#Application-of-this-Part)
+
+[**Agents**](#Agents)
+
+- [41B Power to appoint agents](#Power-to-appoint-agents)
+
+- [41C Persons who may act as agents](#Persons-who-may-act-as-agents)
+
+- [41D Linked functions, etc.](#Linked-functions-etc)
+
+- [41E Terms of agency](#Terms-of-agency)
+
+- [41F Asset management — special restrictions](#Asset-management-—-special-restrictions)
+
+[**Nominees and custodians**](#Nominees-and-custodians)
+
+- [41G Power to appoint nominees](#Power-to-appoint-nominees)
+
+- [41H Power to appoint custodians](#Power-to-appoint-custodians)
+
+- [41I Investment in bearer securities](#Investment-in-bearer-securities)
+
+- [41J Persons who may be appointed as nominees or custodians](#Persons-who-may-be-appointed-as-nominees-or-custodians)
+
+- [41K Terms of appointment of nominees and custodians](#Terms-of-appointment-of-nominees-and-custodians)
+
+[**Review of and liability for agents, nominees and custodians, etc.**](#Review-of-and-liability-for-agents-nominees-and-custodians-etc)
+
+- [41L Application of sections 41M and 41N](#Application-of-sections-41M-and-41N)
+
+- [41M Review of agents, nominees and custodians, etc.](#Review-of-agents-nominees-and-custodians-etc)
+
+- [41N Liability for agents, nominees and custodians, etc.](#Liability-for-agents-nominees-and-custodians-etc)
+
+[**Supplementary**](#Supplementary)
+
+- [41O Effect of trustees exceeding their powers](#Effect-of-trustees-exceeding-their-powers)
+
+[**Part IVB REMUNERATION**](#Part-IVB)
+
+- [41P Application of this Part](#Application-of-this-Part)
+
+- [41Q Trustee’s entitlement to payment under trust instrument](#Trustee’s-entitlement-to-payment-under-trust-instrument)
+
+- [41R Remuneration of certain trustees](#Remuneration-of-certain-trustees)
+
+- [41S Trustees’ expenses](#Trustees’-expenses)
+
+- [41T Remuneration and expenses of agents, nominees and custodians](#Remuneration-and-expenses-of-agents-nominees-and-custodians)
 
 [**Part V POWERS OF COURT**](#Part-V)
 
@@ -196,21 +252,29 @@
 
 - [82 Penalty for not filing returns, etc.](#Penalty-for-not-filing-returns-etc)
 
-[**Part VII UNIT TRUST SCHEMES**](#Part-VII)
+[**Part VII (Repealed)**](#Part-VII)
 
-- [83 Power of Minister to make order declaring a unit trust scheme to be an authorised unit trust scheme](#Power-of-Minister-to-make-order-declaring-a-unit-trust-scheme-to-be-an-authorised-unit-trust-scheme)
-
-- [84 Investigation into the administration of unit trust scheme by inspectors appointed by Minister](#Investigation-into-the-administration-of-unit-trust-scheme-by-inspectors-appointed-by-Minister)
+- [84 (Repealed)](#Repealed)
 
 [**Part VIII GENERAL PROVISIONS**](#Part-VIII)
 
 - [85 Indemnity](#Indemnity)
 
-[**FIRST SCHEDULE Manner of Investment**](#FIRST-SCHEDULE-Manner-of-Investment)
+- [86 Avoidance of dispositions and trusts created to defraud creditors](#Avoidance-of-dispositions-and-trusts-created-to-defraud-creditors)
+
+- [87 Effect of Bankruptcy Act on transactions at undervalue and unfair preferences](#Effect-of-Bankruptcy-Act-on-transactions-at-undervalue-and-unfair-preferences)
+
+- [88 Accumulation of income for duration of trusts](#Accumulation-of-income-for-duration-of-trusts)
+
+- [89 Perpetuity period applicable to trusts](#Perpetuity-period-applicable-to-trusts)
+
+- [90 Validity of certain trusts](#Validity-of-certain-trusts)
+
+[**FIRST SCHEDULE APPLICATION OF statutory DUTY OF CaRE UNDER PART IA**](#FIRST-SCHEDULE)
 
 [**SECOND SCHEDULE Particulars to be Inserted in Application for Incorporation of Trustees**](#SECOND-SCHEDULE)
 
-[**THIRD SCHEDULE Matters for Which Trusts Deeds Pursuant to Unit Trust Schemes Must Provide**](#THIRD-SCHEDULE-Matters-for-Which-Trusts-Deeds-Pursuant-to-Unit-Trust-Schemes-Must-Provide)
+[**THIRD SCHEDULE**](#THIRD-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -250,17 +314,7 @@ PRELIMINARY
 
 3\. In this Act, unless the context otherwise requires —
 
-“approved company” means a company —
-
-(a) incorporated in Singapore and which has a place of business in Singapore; and
-
-(b) having as its sole or primary object the promotion of home ownership by advancing for the purchase of lands and buildings sums of money, repayable by instalments of principal and interest over a fixed period of years, not exceeding at any time the valuation of such lands and buildings made by an approved valuer;
-
-“approved valuer” means an appraiser or a surveyor who is registered under the Land Surveyors Act (Cap. 156) and has in force a practising certificate issued under that Act, and includes any other person approved by the Minister;
-
 “authorised investments” means investments authorised by the instrument, if any, creating the trust for the investment of money subject to the trust, or by law;
-
-“authorised unit trust scheme” means any unit trust scheme which has fulfilled to the satisfaction of the Minister the conditions contained in section 83 and which has been declared by an order of the Minister for the time being in force to be an authorised unit trust scheme for the purposes of this Act;
 
 “contingent right”, as applied to land, includes a contingent or executory interest, a possibility coupled with an interest, whether the object of the gift or limitation of the interest or possibility is or is not ascertained, also a right of entry, whether immediate or future, and whether vested or contingent;
 
@@ -270,17 +324,17 @@ PRELIMINARY
 
 “debentures” includes debenture stock, loan stock, bonds, notes and any other document which creates or acknowledges a debt, whether constituting a charge on assets or not;
 
+“general power of investment”, in relation to a trustee, means the general power of investment conferred on him by section 4;
+
+[45/2004 wef 15/12/2004]
+
 “income” includes rents and profits;
 
 “instrument” includes a written law;
 
-“land” means —
+“land” has the same meaning as in section 4 of the Land Titles Act (Cap. 157);
 
-(a) the surface of any defined parcel of the earth, all substances thereunder and so much of the column of airspace above the surface whether or not held apart from the surface as is reasonably necessary for the proprietor’s use and enjoyment, and includes any estate or interest therein and all vegetation growing thereon and structures affixed thereto; or
-
-(b) any parcel of airspace or any subterranean space held apart from the surface of the earth and described with certainty by reference to a plan approved by the Chief Surveyor and filed with the Singapore Land Authority, and includes any estate or interest therein and all vegetation growing thereon and structures affixed thereto;
-
-[17/2001 wef 01/06/2001]
+[45/2004 wef 15/12/2004]
 
 “mentally disordered person” means any person found by due course of law to be of unsound mind and incapable of managing himself or his affairs;
 
@@ -310,6 +364,14 @@ PRELIMINARY
 
 “solicitor” means an advocate and solicitor of the Supreme Court;
 
+“standard investment criteria”, in relation to a trust, means the standard investment criteria set out in section 5(3);
+
+[45/2004 wef 15/12/2004]
+
+“statutory duty of care”, in relation to a trustee, means the duty of care required to be exercised by him under Part IA;
+
+[45/2004 wef 15/12/2004]
+
 “stock” includes fully paid-up shares, and, so far as relates to vesting orders made by the court under this Act, includes any fund, annuity or security transferable in books kept by any corporation, company or society, or by instrument of transfer either alone or accompanied by other formalities or otherwise, and any share or interest therein;
 
 “transfer”, in relation to stock or securities, includes the performance and execution of every deed, power of attorney, act, and thing on the part of the transferor to effect and complete the title in the transferee;
@@ -322,81 +384,65 @@ PRELIMINARY
 
 “trustees for sale” means the persons (including a personal representative) holding land on trust for sale;
 
-“unit”, in relation to a unit trust scheme, means a right or interest (whether described as a unit, sub-unit or otherwise) which may be acquired under the scheme;
+## PART IA
 
-“unit trust scheme” means any arrangement made for the purpose, or having the effect, of providing for persons having funds available for investment, facilities for the participation by them, as beneficiaries under a trust, in profits or income arising from the acquisition, holding, management or disposal of any property.
+STATUTORY DUTY OF CARE
 
-[8/78; 24/91; 23/92]
+[45/2004 wef 15/12/2004]
+
+### Trustees’ statutory duty of care
+
+3A\.—(1) In exercising any power, carrying out any duty or doing any act referred to in the First Schedule, a trustee shall exercise such care and skill as is reasonable in the circumstances, having regard in particular —
+
+(a) to any special knowledge or experience that he has or holds himself out as having; and
+
+(b) if he acts as trustee in the course of a business or profession, to any special knowledge or experience that may reasonably be expected of a person acting in the course of that kind of business or profession.
+
+(2) This section shall apply in relation to trusts whether created before, on or after the date of commencement of the Trustees (Amendment) Act 2004 except if, or in so far as, it appears from the trust instrument that the requirements of subsection (1) are not meant to apply.
 
 ## PART II
 
 INVESTMENTS
 
-### Powers of investment of trustees
+### General power of investment
 
-4\.—(1) Subject to the provisions of this Act, a trustee may invest any funds in his hands, whether at the time in a state of investment or not, in any manner specified in Part I, II or III of the First Schedule and may also from time to time vary such investments.
+4\.—(1) Subject to the provisions of this Part, a trustee may make any kind of investment that he could make if he were absolutely entitled to the assets of the trust.
 
-[23/92]
+(2) For the purpose of subsection (1), “investment” includes investment in assets that do not yield any income.
 
-(2) Part IV of the First Schedule shall have effect for the interpretation and for restricting the operation of Parts I to III of that Schedule.
+(3) This section shall apply in relation to trusts whether created before, on or after the date of commencement of the Trustees (Amendment) Act 2004.
 
-[23/92]
+[45/2004 wef 15/12/2004]
 
-(3) Every power conferred by this section shall be exercised according to the discretion of the trustee, but subject to any consent or direction, with respect to the investment of the trust funds, required by the instrument, if any, creating the trust or by any written law.
+### Standard investment criteria
 
-[23/92]
+5\.—(1) In exercising any power of investment, whether arising under this Part or otherwise, a trustee shall have regard to the standard investment criteria.
 
-(4) The Minister may, from time to time by order published in theGazette, amend the First Schedule.
+(2) A trustee shall, from time to time, review the investments of the trust and consider whether, having regard to the standard investment criteria, they should be varied.
 
-[23/92]
+(3) The standard investment criteria, in relation to a trust, are —
 
-### Duty of trustees in choosing investments
+(a) the suitability to the trust of investments of the same kind as any particular investment proposed to be made or retained and of that particular investment as an investment of that kind; and
 
-5\.—(1) In the exercise of any of his powers of investment, a trustee shall have regard —
+(b) the need for diversification of investments of the trust, in so far as is appropriate to the circumstances of the trust.
 
-(a) to the need for diversification of the investments of the trust, in so far as is appropriate to the circumstances of the trust, and to the degree of risk attaching to the holding of any particular investment or of investments of any particular description; and
+(4) This section shall apply in relation to trusts whether created before, on or after the date of commencement of the Trustees (Amendment) Act 2004.
 
-(b) to the suitability to the trust of investment of the description of investment proposed and of the investment proposed as an investment of that description.
+[45/2004 wef 15/12/2004]
 
-[23/92]
+### Advice
 
-(2) Before exercising any power conferred by section 4 to invest in a manner specified in Part II or III of the First Schedule, a trustee shall obtain and consider proper advice on the question whether the investment is satisfactory in accordance with Part V of that Schedule.
+6\.—(1) Except as otherwise provided by subsection (3), a trustee shall, before exercising any power of investment, whether arising under this Part or otherwise, obtain and consider proper advice about the way in which the power should be exercised, having regard to the standard investment criteria.
 
-[23/92]
+(2) Except as otherwise provided by subsection (3), a trustee shall, when reviewing the investments of the trust, obtain and consider proper advice about whether the investments should be varied, having regard to the standard investment criteria.
 
-(3) A trustee retaining any investment shall determine at what intervals the circumstances, and in particular the nature of the investment, make it desirable to obtain such advice as mentioned in subsection (2), and shall obtain and consider such advice accordingly.
+(3) A trustee need not obtain the advice required under subsection (1) or (2) if he reasonably concludes that in all the circumstances it is unnecessary or inappropriate to do so.
 
-[23/92]
+(4) In this section, “proper advice” means the advice of a person who is reasonably believed by the trustee to be qualified to give such advice by his ability in and practical experience of financial and other matters relating to the proposed investment.
 
-(4) A trustee shall not be treated as having complied with subsection (2) or (3) unless the advice was given in writing or has been subsequently so confirmed.
+(5) This section shall apply in relation to trusts whether created before, on or after the date of commencement of the Trustees (Amendment) Act 2004.
 
-[23/92]
-
-(5) Subsections (2) and (3) shall not apply —
-
-(a) to one of two or more trustees where he is the person giving the advice required by this section to his co-trustee or co-trustees;
-
-(b) to the Public Trustee; or
-
-(c) to trust companies as defined in the Trust Companies Act (Cap. 336).
-
-[23/92]
-
-### Statutory powers of investment
-
-6\.—(1) In the case of trustees constituted under any written law, other than the Securities and Futures Act 2001, the power to invest in any manner mentioned in Parts II and III of the First Schedule shall apply only in so far as the Minister may direct.
-
-[42/2001 wef 01/07/2002]
-
-[23/92]
-
-(2) Where any body of persons, not being trustees, have under any written law power (however expressed) to make the like investments as trustees are for the time being authorised by law to make, the power to invest in any manner mentioned in Parts II and III of the First Schedule shall not apply to the body except in so far and to such extent as the Minister may direct.
-
-[23/92]
-
-(3) Any direction under this section may be given generally or in a particular case, and unconditionally or subject to conditions.
-
-[23/92]
+[45/2004 wef 15/12/2004]
 
 ### Power to retain investment which has ceased to be authorised
 
@@ -404,43 +450,19 @@ INVESTMENTS
 
 [23/92]
 
-### Investment in bearer securities
-
-8\.—(1) A trustee may, unless expressly prohibited by the instrument creating the trust, retain or invest in securities payable to bearer which, if not so payable, would have been authorised investments.
-
-[23/92]
-
-(2) Securities payable to bearer retained or taken as an investment by a trustee shall, until sold, be deposited by him for safe custody and collection of income with a banker or banking company.
-
-[23/92]
-
-(3) A direction that investments shall be retained or made in the name of a trustee shall not, for the purposes of this section, be deemed to be such an express prohibition as specified in subsection (1).
-
-[23/92]
-
-(4) A trustee shall not be responsible for any loss incurred by reason of such deposit, and any sum payable in respect of such deposit and collection shall be paid out of the income of the trust property.
-
-[23/92]
+8\. [Deleted by Act 45/2004 wef 15/12/2004]
 
 ### Loans and investments by trustees not chargeable as breaches of trust
 
 9\.—(1) A trustee lending money on the security of any property on which he can properly lend shall not be chargeable with breach of trust by reason only of the proportion borne by the amount of the loan to the value of the property at the time when the loan was made, if it appears to the court —
 
-(a) that in making the loan the trustee was acting upon proper advice obtained in accordance with section 5(2); and
+(a) that in making the loan the trustee was acting upon proper advice obtained in accordance with section 6; and
 
 [45/2004 wef 15/12/2004]
 
-(b) that the amount of the loan does not exceed two-third parts of the value of the property as stated in the report made by the person giving proper advice in accordance with section 5(2).
+(b) that the amount of the loan does not exceed two-third parts of the value of the property as stated in the report made by the person giving proper advice in accordance with section 6.
 
 [45/2004 wef 15/12/2004]
-
-[23/92]
-
-(2) A trustee lending money on the security of any leasehold property shall not be chargeable with breach of trust only upon the ground that in making such loan he dispensed either wholly or partly with the production or investigation of the lessor’s title.
-
-[23/92]
-
-(3) A trustee shall not be chargeable with breach of trust only upon the ground that in effecting the purchase, or in lending money upon the security, of any property he has accepted a shorter title than the title which a purchaser is, in the absence of a special contract, entitled to require, if in the opinion of the court the title accepted be such as a person acting with prudence and caution would have accepted.
 
 [23/92]
 
@@ -472,14 +494,6 @@ INVESTMENTS
 
 [23/92]
 
-(3) The trustees shall not —
-
-(a) be bound to obtain any report as to the value of the land or other property to be comprised in such mortgage, or any advice as to the making of the loan; and
-
-(b) be liable for any loss which may be incurred by reason only of the security being insufficient at the date of the mortgage.
-
-[23/92]
-
 (4) Where any securities of a company are subject to a trust, the trustees may concur in any scheme or arrangement —
 
 (a) for the reconstruction of the company;
@@ -494,13 +508,13 @@ INVESTMENTS
 
 in the like manner as if they were entitled to such securities beneficially, with power to accept any securities of any denomination or description of the reconstructed or purchasing or new company in lieu of or in exchange for all or any of the first-mentioned securities.
 
-(4A) The trustees shall not be responsible for any loss occasioned by any act or thing so done in good faith, and may retain any securities so accepted as specified in subsection (4) for any period for which they could have properly retained the original securities.
+(4A) The trustees shall not be responsible for any loss occasioned by any act or thing so done if they have discharged the statutory duty of care, and may retain any securities so accepted as specified in subsection (4) for any period for which they could have properly retained the original securities.
 
 [45/2004 wef 15/12/2004]
 
 [23/92]
 
-(5) If any conditional or preferential right to subscribe for any securities in any company is offered to trustees in respect of any holding in the company, they may, as to all or any of the securities, either exercise such right and apply capital money subject to the trust in payment of the consideration, or renounce such right, or assign for the best consideration that can be reasonably obtained the benefit of such right or the title thereto to any person, including any beneficiary under the trust, without being responsible for any loss occasioned by any act or thing so done by them in good faith.
+(5) If any conditional or preferential right to subscribe for any securities in any company is offered to trustees in respect of any holding in the company, they may, as to all or any of the securities, either exercise such right and apply capital money subject to the trust in payment of the consideration, or renounce such right, or assign for the best consideration that can be reasonably obtained the benefit of such right or the title thereto to any person, including any beneficiary under the trust, without being responsible for any loss occasioned by any act or thing so done by them if they have discharged the statutory duty of care.
 
 [45/2004 wef 15/12/2004]
 
@@ -538,9 +552,9 @@ and permit the beneficiary to reside in the dwelling-house upon such terms and c
 
 [23/92]
 
-(4) For the purposes of subsection (3), “dwelling-house” means a dwelling-house situated in Singapore and includes a lot on a strata title plan under the Land Titles (Strata) Act (Cap. 158).
+(4) In subsection (3), “dwelling-house” means a place of residence and includes a building or tenement wholly or principally used, constructed or adapted for human habitation.
 
-[23/92]
+[45/2004 wef 15/12/2004]
 
 ## PART III
 
@@ -570,7 +584,7 @@ General Powers
 
 ### Power of trustees to give receipts
 
-15\.—(1) The receipt in writing of a trustee for any money, securities, or other personal property or effects payable, transferable or deliverable to him under any trust or power shall —
+15\.—(1) The receipt in writing of a trustee for any money, securities, investments or other personal property or effects payable, transferable or deliverable to him under any trust or power shall —
 
 (a) be a sufficient discharge to the person paying, transferring or delivering the same; and
 
@@ -604,7 +618,7 @@ General Powers
 
 (f) compromise, compound, abandon, submit to arbitration or otherwise settle any debt, account, claim or thing whatever relating to the testator’s or intestate’s estate or to the trust.
 
-(2) For any of the purposes mentioned in subsection (1)(a) to (f), such person may enter into, give, execute and do such agreements, instruments of composition or arrangement, releases, and other things as to him or them seem expedient, without being responsible for any loss occasioned by any act or thing so done by him or them in good faith.
+(2) For any of the purposes mentioned in subsection (1)(a) to (f), such person may enter into, give, execute and do such agreements, instruments of composition or arrangement, releases, and other things as to him or them seem expedient, without being responsible for any loss occasioned by any act or thing so done by him or them if he has or they have discharged the statutory duty of care.
 
 [45/2004 wef 15/12/2004]
 
@@ -652,17 +666,35 @@ General Powers
 
 21\.—(1) A trustee may —
 
-(a) insure against loss or damage by fire any building or other insurable property to any amount, including the amount of any insurance already on foot, up to the full value of the building or property; and
+(a) insure any property which is subject to the trust against risks of loss or damage due to any event; and
 
-(b) pay the premiums for the insurance out of the income thereof or out of the income of any other property subject to the same trusts without obtaining the consent of any person who may be entitled wholly or partly to such income.
+(b) pay the premiums out of the trust funds.
 
-(2) This section shall not apply to any building or property which a trustee is bound forthwith to convey absolutely to any beneficiary upon being requested to do so.
+(2) In the case of property held on a bare trust, the power to insure is subject to any direction given by the beneficiary or each of the beneficiaries —
 
-[24
+(a) that any property specified in the direction is not to be insured; or
+
+(b) that any property specified in the direction is not to be insured except on such conditions as may be so specified.
+
+(3) If a direction under subsection (2) is given, the power to insure, so far as it is subject to the direction, ceases to be a delegable function for the purposes of section 41B.
+
+(4) For the purposes of this section —
+
+(a) property is held on a bare trust if it is held on trust for —
+
+(i) a beneficiary who is of full age and capacity and absolutely entitled to the property subject to the trust; or
+
+(ii) beneficiaries each of whom is of full age and capacity and who (taken together) are absolutely entitled to the property subject to the trust; and
+
+(b) “trust funds” means any income or capital funds of the trust.
+
+(5) This section shall apply in relation to trusts whether created before, on or after the date of commencement of the Trustees (Amendment) Act 2004.
+
+[45/2004 wef 15/12/2004]
 
 ### Application of insurance money where policy kept up under any trust, power or obligation
 
-22\.—(1) Money receivable by trustees or any beneficiary under a policy of insurance against the loss or damage of any property, subject to a trust, whether by fire or otherwise,shall, where the policy has been kept up under any trust in that behalf or under any power statutory or otherwise, or in the performance of any covenant or of any obligation statutory or otherwise, or by a tenant for life impeachable for waste, be capital money for the purpose of the trust.
+22\.—(1) Money receivable by trustees or any beneficiary under a policy of insurance against the loss or damage of any property that is subject to a trust shall, where the policy has been kept up under any trust in that behalf or under any power statutory or otherwise, or in the performance of any covenant or of any obligation statutory or otherwise, or by a tenant for life impeachable for waste, be capital money for the purpose of the trust.
 
 [45/2004 wef 15/12/2004]
 
@@ -682,11 +714,7 @@ General Powers
 
 [25
 
-### Deposit of documents for safe custody
-
-23\. Trustees may deposit any documents held by them, relating to the trust or to the trust property, with any banker or banking company or any other company whose business includes the undertaking of the safe custody of documents, and any sum payable in respect of such deposit shall be paid out of the income of the trust property.
-
-[26
+23\. [Deleted by Act 45/2004 wef 15/12/2004]
 
 ### Reversionary interests, valuations and audit
 
@@ -700,7 +728,7 @@ General Powers
 
 (d) execute any release in respect of the premises so as effectually to discharge all accountable parties from all liability in respect of any matters coming within the scope of such release,
 
-without being responsible in any such case for any loss occasioned by any act or thing so done by them in good faith.
+without being responsible in any such case for any loss occasioned by any act or thing so done by them if they have discharged the statutory duty of care.
 
 [45/2004 wef 15/12/2004]
 
@@ -714,7 +742,7 @@ unless required in writing to do so by some person, or the guardian of some pers
 
 (3) Nothing in subsection (2) shall relieve the trustees of the obligation to get in and obtain payment or transfer of such share or interest or other thing in action on the same falling into possession.
 
-(4) Trustees may, for the purpose of giving effect to the trust, or any of the provisions of the instrument, if any, creating the trust or of any statute, from time to time (by duly qualified agents) ascertain and fix the value of any trust property in such manner as they think proper and any valuation so made in good faith shall be binding upon all persons interested under the trust.
+(4) Trustees may, for the purpose of giving effect to the trust, or any of the provisions of the instrument, if any, creating the trust or of any statute, from time to time (by duly qualified agents) ascertain and fix the value of any trust property in such manner as they think proper and any valuation so made in discharge of the statutory duty of care shall be binding upon all persons interested under the trust.
 
 [45/2004 wef 15/12/2004]
 
@@ -726,31 +754,7 @@ unless required in writing to do so by some person, or the guardian of some pers
 
 [27
 
-### Power to employ agents
-
-25\.—(1) Trustees or personal representatives may, instead of acting personally, employ and pay an agent, whether a solicitor, banker, stockbroker or other person, to transact any business or do any act required to be transacted or done in the execution of the trust, or the administration of the testator’s or intestate’s estate, including the receipt and payment of money, and shall be entitled to be allowed and paid all charges and expenses so incurred, and shall not be responsible for the default of any such agent if employed in good faith.
-
-(2) Trustees or personal representatives may appoint any person to act as their agent or attorney for the purpose of —
-
-(a) selling, converting, collecting, getting in, and executing and perfecting assurances of, or managing or cultivating, or otherwise administering any property, movable or immovable, subject to the trust or forming part of the testator’s or intestate’s estate, in any place outside Singapore; or
-
-(b) executing or exercising any discretion or trust or power vested in them in relation to any such property,
-
-with such ancillary powers, and with and subject to such provisions and restrictions as they may think fit, including a power to appoint substitutes, and shall not, by reason only of their having made such appointment, be responsible for any loss arising thereby.
-
-(3) Without prejudice to such general power of appointing agents as mentioned in subsection (2) —
-
-(a) a trustee may appoint a solicitor to be his agent to receive and give a discharge for any money or valuable consideration or property receivable by the trustees under the trust, by permitting the solicitor to have the custody of, and to produce, a deed having in the body thereof or endorsed thereon a receipt for such money or valuable consideration or property, the deed being executed, or the endorsed receipt being signed, by the person entitled to give a receipt for that consideration;
-
-(b) a trustee shall not be chargeable with breach of trust by reason only of his having made or concurred in making any such appointment; and the production of any such deed by the solicitor shall have the same statutory validity and effect as if the person appointing the solicitor had not been a trustee;
-
-(c) a trustee may appoint a banker or solicitor to be his agent to receive and give a discharge for any money payable to the trustee under or by virtue of a policy of insurance, by permitting the banker or solicitor to have the custody of and to produce the policy of insurance with a receipt signed by the trustee, and a trustee shall not be chargeable with a breach of trust by reason only of his having made or concurred in making any such appointment.
-
-(4) Nothing in subsection (3) shall exempt a trustee from any liability which he would have incurred if this Act and any previous written law relating to trustees had not been passed, in case he permits any such money, valuable consideration or property to remain in the hands or under the control of the banker or solicitor for a period longer than is reasonably necessary to enable the banker or solicitor, as the case may be, to pay or transfer the same to the trustee.
-
-(5) Subsections (3) and (4) shall apply whether the money or valuable consideration or property was or is received before, on or after 1st September 1929.
-
-[28
+25\. [Deleted by Act 45/2004 wef 15/12/2004]
 
 ### Power to concur with others
 
@@ -758,31 +762,43 @@ with such ancillary powers, and with and subject to such provisions and restrict
 
 [29
 
-### Power to delegate trusts during absence abroad
+### Delegation of trustee’s functions by power of attorney
 
-27\.—(1) A trustee intending to remain out of Singapore for a period exceeding 14 days may, notwithstanding any rule of law or equity to the contrary, by power of attorney, delegate to any person (including a trust corporation) the execution or exercise during his absence from Singapore of all or any trusts, powers and discretions vested in him as such trustee, either alone or jointly with any other person or persons.
+27\.—(1) Notwithstanding any rule of law or equity to the contrary, a trustee may, by power of attorney, delegate the execution or exercise of all or any trusts, powers and discretions vested in him as trustee either alone or jointly with any other person or persons.
 
-(1A) A person being the only other co-trustee and not being a trust corporation shall not be appointed to be an attorney under subsection (1).
+(2) A delegation under this section —
 
-(2) The donor of a power of attorney given under this section shall be liable for the acts or defaults of the donee in the same manner as if they were the acts or defaults of the donor.
+(a) shall commence as provided by the instrument creating the power or, if the instrument makes no provision as to the commencement of the delegation, on the date of the execution of the instrument by the donor; and
 
-(3) The power of attorney shall not come into operation unless the donor is out of Singapore and shall be revoked by his return.
+(b) shall continue for a period of 18 months or any shorter period provided by the instrument creating the power.
 
-(4) The power of attorney shall be attested by at least one witness, and shall be deposited in the Registry of the Supreme Court within 10 days after the execution thereof, or where not executed in Singapore within 10 days after its receipt in Singapore, with a statutory declaration by the donor that he intends to remain out of Singapore for a period exceeding 14 days from the date of the declaration, or from a date therein mentioned.
+(3) The persons who may be donees of a power of attorney under this section include a trust corporation.
 
-(5) The execution of any such instrument and statutory declaration shall be verified in such manner as is required by statute in the case of powers of attorney deposited in the Registry of the Supreme Court.
+(4) Before or within 7 days after giving a power of attorney under this section, the donor shall give written notice of it (specifying the date on which the power comes into operation and its duration, the donee of the power, the reason why the power is given and, where only some trusts, powers and discretions are delegated, the trusts, powers and discretions delegated) to —
 
-(6) The statutory declaration mentioned in subsections (4) and (5) and a statutory declaration by the donee of the power of attorney that the power has come into operation and has not been revoked by the return of the donor shall be conclusive evidence of the facts stated in favour of any person dealing with the donee.
+(a) each person (other than himself), if any, who under any instrument creating the trust has power (whether alone or jointly) to appoint a new trustee; and
 
-(7) In favour of any person dealing with the donee, any act done or instrument executed by the donee shall, notwithstanding that the power has never come into operation or has become revoked by the act of the donor or by his death or otherwise, be as valid and effectual as if the donor were alive and of full capacity, and had himself done that act or executed that instrument, unless the person had actual notice that the power had never come into operation or of the revocation of the power before that act was done or instrument executed.
+(b) each of the other trustees, if any,
 
-(8) For the purpose of executing or exercising the trusts or powers delegated to him, the donee may exercise any of the powers conferred on the donor as trustee by law or by the instrument creating the trust, including power, for the purpose of the transfer of any inscribed stock, himself to delegate to an attorney power to transfer but not including the power of delegation conferred by this section.
+but failure to comply with this subsection shall not, in favour of a person dealing with the donee of the power, invalidate any act done or instrument executed by the donee.
 
-(9) The fact that it appears from any power of attorney given under this section, or from any evidence required for the purposes of any such power of attorney or otherwise, that in dealing with any stock the donee of the power is acting in the execution of a trust shall not be deemed for any purpose to affect any person in whose books the stock is inscribed or registered with any notice of the trust.
+(5) A power of attorney given under this section by a single donor —
 
-(10) No power of attorney shall be operative for the purposes of this section for a longer period than 18 months after the date of execution.
+(a) in the form set out in the Third Schedule; or
 
-[30
+(b) in a form to the like effect but expressed to be made under this subsection,
+
+shall operate to delegate to the person identified in the form as the single donee of the power, the execution and the exercise of all the trusts, powers and discretions vested in the donor as trustee (either alone or jointly with any other person or persons) under the single trust so identified.
+
+(6) The donor of a power of attorney given under this section shall be liable for the acts or defaults of the donee in the same manner as if they were the acts or defaults of the donor.
+
+(7) For the purpose of executing or exercising the trusts or powers delegated to him, the donee may exercise any of the powers conferred on the donor as trustee by statute or by the instrument creating the trust, including power, for the purpose of the transfer of any inscribed stock or securities, for himself to delegate to an attorney the power to transfer, but not including the power of delegation conferred by this section.
+
+(8) The fact that it appears from any power of attorney given under this section, or from any evidence required for the purposes of any such power of attorney or otherwise, that in dealing with any stock or securities the donee of the power is acting in the execution of a trust shall not be deemed for any purpose to affect the Depository (as defined in section 130A of the Companies Act (Cap. 50)), any person in whose books the stock inscribed or registered or the issuer of the securities with any notice of the trust.
+
+(9) This section shall apply to a personal representative as it applies to a trustee except that subsection (4) shall apply as if it required the notice referred therein to be given to each of the other personal representatives, if any, except any executor who has renounced probate.
+
+[45/2004 wef 15/12/2004]
 
 Indemnities
 
@@ -854,10 +870,6 @@ satisfies all liabilities under the lease or grant which may have accrued and be
 
 (b) be answerable and accountable only for his own acts, receipts, neglects or defaults, and not for those of any other trustee, or of any banker, broker or other person with whom any trust money or securities may be deposited, nor for the insufficiency or deficiency of any securities, nor for any other loss, unless the same happens through his own wilful default.
 
-(2) A trustee may reimburse himself or pay or discharge out of the trust premises all expenses incurred in or about the execution of the trusts or powers.
-
-[35
-
 Maintenance, Advancement and Protective Trusts
 
 ### Power to apply income for maintenance and to accumulate surplus income during a minority
@@ -874,7 +886,7 @@ Maintenance, Advancement and Protective Trusts
 
 (1A) In deciding whether the whole or any part of the income of the property is during a minority to be paid or applied for the purposes mentioned in subsection (1), the trustees shall have regard to the age of the infant and his requirements and generally to the circumstances of the case, and in particular to what other income, if any, is applicable for the same purposes; and where trustees have notice that the income of more than one fund is applicable for those purposes, then, so far as practicable, unless the entire income of the funds is paid or applied as mentioned in subsection (1) or the court otherwise directs, a proportionate part only of the income of each fund shall be so paid or applied.
 
-(2) During the infancy of any such person, if his interest so long continues, the trustees shall accumulate all the residue of that income in the way of compound interest by investing the same and the resulting income thereof from time to time in authorised investments, and shall hold those accumulations as follows:
+(2) During the infancy of any such person, if his interest so long continues, the trustees shall accumulate all the residue of that income by investing it, and any profits from so investing it, from time to time in authorised investments, and shall hold those accumulations as follows:
 
 (a) if any such person —
 
@@ -1045,6 +1057,380 @@ may, by writing, appoint another person or other persons to be an additional tru
 (6) This section shall apply to deeds of appointment or discharge executed on or after 1st August 1886.
 
 [44
+
+## PART IVA
+
+AGENTS, NOMINEES AND CUSTODIANS
+
+[45/2004 wef 15/12/2004]
+
+### Application of this Part
+
+41A\.—(1) Subject to subsection (2), this Part shall apply in relation to trusts whether created before, on or after the date of commencement of the Trustees (Amendment) Act 2004.
+
+(2) Except as otherwise provided in section 41I(4), this Part shall apply in relation to a trust having a sole trustee as it applies in relation to other trusts, and references to trustees in this Part (except in sections 41C(1) and (3) and 41J(4)) shall be read accordingly.
+
+Agents
+
+### Power to appoint agents
+
+41B\.—(1) Subject to the provisions of this Part, the trustees of a trust may authorise any person to exercise any or all of their delegable functions as their agent.
+
+(2) In the case of a trust other than a charitable trust, the trustees’ delegable functions consist of any function other than —
+
+(a) any function relating to whether or in what way any assets of the trust should be distributed;
+
+(b) any power to decide whether any fees or other payment due to be made out of the trust funds should be made out of income or capital;
+
+(c) any power to appoint a person to be a trustee of the trust; or
+
+(d) any power conferred by any other written law or the trust instrument which permits the trustees to delegate any of their functions or to appoint a person to act as a nominee or custodian.
+
+(3) In the case of a charitable trust, the trustees’ delegable functions are —
+
+(a) any function relating to carrying out a decision that the trustees have taken;
+
+(b) any function relating to the investment of assets subject to the trust (including, in the case of land held as an investment, managing the land and creating or disposing of an interest in the land); and
+
+(c) any function relating to the raising of funds for the trust otherwise than by means of profits of a trade which is an integral part of carrying out the trust’s charitable purpose.
+
+(4) For the purposes of subsection (3)(c), a trade is an integral part of carrying out a trust’s charitable purpose if, whether carried on in Singapore or elsewhere, the profits are applied solely to the purposes of the trust and either —
+
+(a) the trade is exercised in the course of the actual carrying out of a primary purpose of the trust; or
+
+(b) the work in connection with the trade is mainly carried out by beneficiaries of the trust.
+
+### Persons who may act as agents
+
+41C\.—(1) Subject to subsection (2), the persons whom the trustees may under section 41B authorise to exercise functions as their agent include one or more of their number.
+
+(2) The trustees may not authorise 2 or more persons to exercise the same function unless they are to exercise the function jointly.
+
+(3) The trustees may not, under section 41B, authorise a beneficiary to exercise any function as their agent (even if the beneficiary is also a trustee).
+
+(4) The trustees may, under section 41B, authorise a person to exercise functions as their agent even though he is also appointed to act as their nominee or custodian (whether under section 41G, 41H or 41I or any other power).
+
+### Linked functions, etc.
+
+41D\.—(1) Subject to subsection (2), a person who is authorised under section 41B to exercise any function shall, notwithstanding the terms of the agency, be subject to any specific duties or restrictions attached to the function.
+
+Example
+
+A person who is authorised under section 41B to exercise the general power of investment shall be subject to the duties under section 5 in relation to that power.
+
+(2) A person who is authorised under section 41B to exercise a power which is subject to a requirement to obtain advice shall not be subject to the requirement if he is the kind of person from whom it would have been proper for the trustees, in compliance with the requirement, to obtain advice.
+
+### Terms of agency
+
+41E\.—(1) Subject to subsection (2) and sections 41F(2), 41R, 41S and 41T, the trustees may authorise a person to exercise functions as their agent on such terms as to remuneration and other matters as they may determine.
+
+(2) The trustees may not authorise a person to exercise functions as their agent on any of the terms set out in subsection (3) unless it is reasonably necessary for them to do so.
+
+(3) The terms for the purposes of subsection (2) are —
+
+(a) a term permitting the agent to appoint a substitute;
+
+(b) a term restricting the liability of the agent or his substitute to the trustees or any beneficiary; and
+
+(c) a term permitting the agent to act in circumstances capable of giving rise to a conflict of interest.
+
+### Asset management — special restrictions
+
+41F\.—(1) The trustees may not authorise a person to exercise any of their asset management functions as their agent except by an agreement which is in writing or evidenced in writing.
+
+(2) The trustees may not authorise a person to exercise any of their asset management functions as their agent unless —
+
+(a) the trustees have provided that person with a statement that gives guidance as to how the functions should be exercised (referred to in this Act as a policy statement); and
+
+(b) the agreement under which the agent is to act includes a term to the effect that he will secure compliance with —
+
+(i) the policy statement; or
+
+(ii) if the policy statement is revised or replaced under section 41M, the revised or replacement policy statement.
+
+(3) The trustees shall formulate any guidance given in the policy statement with a view to ensuring that the functions will be exercised in the best interests of the trust.
+
+(4) The policy statement shall be in writing or evidenced in writing.
+
+(5) For the purposes of this section, the asset management functions of trustees are their functions relating to —
+
+(a) the investment of assets subject to the trust;
+
+(b) the acquisition of property which is to be subject to the trust; and
+
+(c) the management of property which is subject to the trust and the disposal of, or the creation or disposal of an interest in, such property.
+
+Nominees and custodians
+
+### Power to appoint nominees
+
+41G\.—(1) Subject to the provisions of this Part, the trustees of a trust may —
+
+(a) appoint a person to act as their nominee in relation to such of the assets of the trust as they may determine (other than settled land); and
+
+(b) take such steps as are necessary to secure that those assets are vested in a person so appointed.
+
+(2) An appointment under this section shall be in writing or evidenced in writing.
+
+### Power to appoint custodians
+
+41H\.—(1) Subject to the provisions of this Part, the trustees of a trust may appoint a person to act as a custodian in relation to such of the assets of the trust as the trustees may determine.
+
+(2) For the purposes of this Act, a person is a custodian in relation to assets if he undertakes the safe custody of the assets or of any document or record concerning the assets.
+
+(3) An appointment under this section shall be in writing or evidenced in writing.
+
+### Investment in bearer securities
+
+41I\.—(1) If trustees retain or invest in securities payable to bearer, they shall appoint a person to act as a custodian of the securities.
+
+(2) Subsection (1) shall not apply if the trust instrument or any written law contains any provision which (however expressed) permits the trustees to retain or invest in securities payable to bearer without appointing a person to act as a custodian.
+
+(3) An appointment under this section shall be in writing or evidenced in writing.
+
+(4) This section shall not impose a duty on a sole trustee if that trustee is a trust corporation.
+
+### Persons who may be appointed as nominees or custodians
+
+41J\.—(1) A person may not be appointed under section 41G, 41H or 41I as a nominee or custodian or continue to act as such nominee or custodian unless —
+
+(a) the person carries on a business which consists of or includes acting as a nominee or custodian; or
+
+(b) the person is a body corporate which is controlled by the trustees.
+
+(2) For the purposes of subsection (1)(b), a body corporate is controlled by the trustees if the trustees have power to secure —
+
+(a) by means of the holding of shares or the possession of voting power in or in relation to that or any other body corporate; or
+
+(b) by virtue of any powers conferred by the articles of association or other document regulating that or any other body corporate,
+
+that the affairs of the first-mentioned body corporate are conducted in accordance with the wishes of the trustees.
+
+(3) The trustees of a charitable trust which is registered under the Charities Act (Cap. 37) shall act in accordance with any guidance given by the Commissioner of Charities concerning the selection of a person for appointment as a nominee or custodian under section 41G, 41H or 41I.
+
+(4) Subject to subsections (1) and (3), the persons whom the trustees may, under section 41G, 41H or 41I, appoint as a nominee or custodian include —
+
+(a) one of their number, if that one is a trust corporation; or
+
+(b) 2 or more of their number, if they are to act as joint nominees or joint custodians.
+
+(5) The trustees may, under section 41G, appoint a person to act as their nominee even though he is also —
+
+(a) appointed to act as their custodian (whether under section 41H or 41I or any other power); or
+
+(b) authorised to exercise functions as their agent (whether under section 41B or any other power).
+
+(6) The trustees may, under section 41H or 41I, appoint a person to act as their custodian even though he is also —
+
+(a) appointed to act as their nominee (whether under section 41G or any other power); or
+
+(b) authorised to exercise functions as their agent (whether under section 41B or any other power).
+
+### Terms of appointment of nominees and custodians
+
+41K\.—(1) Subject to subsection (2) and sections 41R, 41S and 41T, the trustees may, under section 41G, 41H or 41I, appoint a person to act as a nominee or custodian on such terms as to remuneration and other matters as they may determine.
+
+(2) The trustees may not, under section 41G, 41H or 41I, appoint a person to act as a nominee or custodian on any of the terms set out in subsection (3) unless it is reasonably necessary for them to do so.
+
+(3) The terms for the purposes of subsection (2) are —
+
+(a) a term permitting the nominee or custodian to appoint a substitute;
+
+(b) a term restricting the liability of the nominee or custodian or his substitute to the trustees or to any beneficiary; and
+
+(c) a term permitting the nominee or custodian to act in circumstances capable of giving rise to a conflict of interest.
+
+Review of and liability for agents, nominees and custodians, etc.
+
+### Application of sections 41M and 41N
+
+41L\.—(1) Sections 41M and 41N shall apply in a case where trustees have, under section 41B, 41G, 41H or 41I —
+
+(a) authorised a person to exercise functions as their agent; or
+
+(b) appointed a person to act as a nominee or custodian.
+
+(2) Subject to subsection (3), sections 41M and 41N shall also apply in a case where trustees have, under any power conferred on them by the trust instrument or by any written law —
+
+(a) authorised a person to exercise functions as their agent; or
+
+(b) appointed a person to act as a nominee or custodian.
+
+(3) If the application of section 41M or 41N in a case is inconsistent with the terms of the trust instrument or any written law, that section shall not apply to that case.
+
+### Review of agents, nominees and custodians, etc.
+
+41M\.—(1) While the agent, nominee or custodian continues to act for the trust, it shall be the duty of the trustees —
+
+(a) to keep under review the arrangements under which the agent, nominee or custodian acts and the manner in which such arrangements are being put into effect;
+
+(b) if circumstances make it appropriate to do so, to consider whether there is a need to exercise any power of intervention that they have; and
+
+(c) if they consider that there is a need to do so, to exercise the power of intervention.
+
+(2) If the agent has been authorised to exercise asset management functions, the duty under subsection (1) shall include, in particular —
+
+(a) a duty to consider whether there is any need to revise or replace the policy statement made for the purposes of section 41F;
+
+(b) if the trustees consider that there is a need to revise or replace the policy statement, a duty to do so; and
+
+(c) a duty to assess whether the policy statement (as it has effect for the time being) is being complied with.
+
+(3) Section 41F(3) and (4) shall apply to the revision or replacement of a policy statement under this section as they apply to the making of a policy statement under that section.
+
+(4) In this section, “power of intervention” includes —
+
+(a) a power to give directions to the agent, nominee or custodian; and
+
+(b) a power to revoke the authorisation or appointment of the agent, nominee or custodian.
+
+### Liability for agents, nominees and custodians, etc.
+
+41N\.—(1) A trustee shall not be liable for any act or default of the agent, nominee or custodian unless he fails to comply with the statutory duty of care applicable to him under paragraph 3 of the First Schedule when —
+
+(a) entering into the arrangements under which the person acts as agent, nominee or custodian; or
+
+(b) carrying out his duties under section 41M.
+
+(2) If a trustee has agreed to a term under which the agent, nominee or custodian is permitted to appoint a substitute, the trustee shall not be liable for any act or default of the substitute unless he has failed to comply with the statutory duty of care applicable to him under paragraph 3 of the First Schedule —
+
+(a) when agreeing to that term; or
+
+(b) when carrying out his duties under section 41M in so far as they relate to the use of the substitute.
+
+Supplementary
+
+### Effect of trustees exceeding their powers
+
+41O\. A failure by the trustees to act within the limits of the powers conferred by this Part —
+
+(a) in authorising a person to exercise a function of theirs as an agent; or
+
+(b) in appointing a person to act as a nominee or custodian,
+
+shall not invalidate the authorisation or appointment.
+
+## PART IVB
+
+REMUNERATION
+
+[45/2004 wef 15/12/2004]
+
+### Application of this Part
+
+41P\.—(1) Subject to subsection (2), sections 41Q to 41T shall apply in relation to —
+
+(a) services provided to or on behalf of trusts, whenever created; or
+
+(b) expenses incurred on or after the date of commencement of the Trustees (Amendment) Act 2004 on behalf of trusts, whenever created.
+
+(2) Nothing in section 41Q or 41R is to be treated as affecting the operation of —
+
+(a) section 57(4) of the Probate and Administration Act (Cap. 251) (Administration of assets); or
+
+(b) section 10 of the Wills Act (Cap. 352) (Gifts to attesting witness or to wife or husband of attesting witness to be void),
+
+in relation to any death occurring before the date of commencement of the Trustees (Amendment) Act 2004.
+
+### Trustee’s entitlement to payment under trust instrument
+
+41Q\.—(1) Except to the extent (if any) to which the trust instrument makes an inconsistent provision, subsections (2), (3) and (4) shall apply to a trustee if —
+
+(a) there is a provision in the trust instrument entitling him to receive payment out of trust funds in respect of services provided by him to or on behalf of the trust; and
+
+(b) the trustee is a trust corporation or is acting in a professional capacity.
+
+(2) The trustee shall be treated as being entitled under the trust instrument to receive payment in respect of services even if they are services which are capable of being provided by a lay trustee.
+
+(3) Subsection (2) shall apply to a trustee of a charitable trust who is not a trust corporation only —
+
+(a) if he is not a sole trustee; and
+
+(b) to the extent that a majority of the other trustees have agreed that it should apply to him.
+
+(4) Any payment to which the trustee is entitled in respect of services shall be treated as remuneration for services (and not as a gift) for the purposes of —
+
+(a) section 57(4) of the Probate and Administration Act (Cap. 251) (Administration of assets); and
+
+(b) section 10 of the Wills Act (Cap. 352) (Gifts to attesting witness or to wife or husband of attesting witness to be void).
+
+(5) For the purposes of this Part, a trustee acts in a professional capacity if he acts in the course of a profession or business which consists of or includes the provision of services in connection with —
+
+(a) the management or administration of trusts generally or a particular kind of trust; or
+
+(b) any particular aspect of the management or administration of trusts generally or a particular kind of trust,
+
+and the services he provides to or on behalf of the trust fall within that description.
+
+(6) For the purposes of this Part, a person acts as a lay trustee if he —
+
+(a) is not a trust corporation; and
+
+(b) does not act in a professional capacity.
+
+### Remuneration of certain trustees
+
+41R\.—(1) Subject to subsection (4), a trustee who is a trust corporation shall be entitled to receive reasonable remuneration out of the trust funds for any services that the trust corporation provides to or on behalf of the trust.
+
+(2) Subject to subsection (5), a trustee who —
+
+(a) acts in a professional capacity; and
+
+(b) is not a trust corporation or a sole trustee,
+
+shall be entitled to receive reasonable remuneration out of the trust funds for any services that he provides to or on behalf of the trust if each other trustee has agreed in writing that he may be remunerated for the services.
+
+(3) A trustee shall be entitled to remuneration under this section even if the services in question are capable of being provided by a lay trustee.
+
+(4) A trustee shall not be entitled to remuneration under this section if any provision about his entitlement to remuneration has been made —
+
+(a) by the trust instrument; or
+
+(b) by any written law.
+
+(5) This section shall apply to a trustee who has been authorised under a power conferred by Part IVA or the trust instrument —
+
+(a) to exercise functions as an agent of the trustees; or
+
+(b) to act as a nominee or custodian,
+
+as it applies to any other trustee.
+
+(6) In this section, “reasonable remuneration” means, in relation to the provision of services by a trustee, such remuneration as is reasonable in the circumstances for the provision of those services to or on behalf of that trust by that trustee.
+
+### Trustees’ expenses
+
+41S\.—(1) A trustee —
+
+(a) shall be entitled to be reimbursed from the trust funds; or
+
+(b) may pay out of the trust funds,
+
+reasonable expenses properly incurred by him when acting on behalf of the trust.
+
+(2) This section shall apply to a trustee who has been authorised under a power conferred by Part IVA or any other written law, or by the trust instrument —
+
+(a) to exercise functions as an agent of the trustees; or
+
+(b) to act as a nominee or custodian,
+
+as it applies to any other trustee.
+
+### Remuneration and expenses of agents, nominees and custodians
+
+41T\.—(1) This section shall apply if, under a power conferred by Part IVA or any other written law, or by the trust instrument, a person other than a trustee has been —
+
+(a) authorised to exercise functions as an agent of the trustees; or
+
+(b) appointed to act as a nominee or custodian.
+
+(2) The trustees may remunerate the agent, nominee or custodian out of the trust funds for services if —
+
+(a) he is engaged on terms entitling him to be remunerated for those services; and
+
+(b) the amount does not exceed such remuneration as is reasonable in the circumstances for the provision of those services by him to or on behalf of that trust.
+
+(3) The trustees may reimburse the agent, nominee or custodian out of the trust funds for any reasonable expenses properly incurred by him in exercising functions as an agent, nominee or custodian.
 
 ## PART V
 
@@ -1528,53 +1914,7 @@ Incorporation of Trustees
 
 UNIT TRUST SCHEMES
 
-### Power of Minister to make order declaring a unit trust scheme to be an authorised unit trust scheme
-
-83\.—(1) The Minister may, by order, declare to be an authorised unit trust scheme for the purposes of this Act any unit trust scheme in relation to which the Minister is satisfied that the following conditions are fulfilled:
-
-(a) that each of the persons who are respectively the manager and the trustee under the scheme is a corporation incorporated under the law of Singapore or of some part of Malaysia, and having a place of business in Singapore at which notices and other documents are received on behalf of the corporation;
-
-(b) that the scheme is such that the effective control over the affairs of the corporation, which is the manager under the scheme, is and will be exercised independently of the corporation which is the trustee under the scheme;
-
-(c) that the scheme is such as to secure that any trust created in pursuance of the scheme is expressed in a deed providing, to the satisfaction of the Minister, for the matters specified in the Third Schedule; and
-
-(d) as respects the corporation being the trustee, either —
-
-(i) that the corporation has a capital (in stock or shares) for the time being issued of not less than $5 million, of which an amount of not less than $2,500,000 has been paid up, and that the assets of the corporation are sufficient to meet its liabilities (including liabilities in respect of the repayment of its capital); or
-
-(ii) that more than four-fifths of the said capital of the corporation is held by another corporation being a corporation in relation to which the conditions as to capital and assets specified in sub-paragraph (i) are fulfilled.
-
-[23/92]
-
-(2) If, with respect to any trust, the Minister is satisfied that, by reason of the special circumstances of the trust, the fulfilment in relation thereto of the condition specified in subsection (1)(c) is impracticable, the Minister may dispense with the fulfilment of that condition in relation to that trust, so far as it appears to him that he can properly do so without prejudicing the interests of the beneficiaries.
-
-(3) If, with respect to any authorised unit trust schemes, the Minister considers that the order declaring the scheme to be an authorised unit trust scheme ought to be revoked on either of the following grounds:
-
-(a) that the conditions specified in subsection (1)(a) to (d) are no longer fulfilled in the case of that scheme; or
-
-(b) that the circumstances relevant to the making of an order have materially changed since the making thereof,
-
-the Minister may serve on the manager and on the trustee under the scheme a written notice that he is considering the revocation of the order on that ground, specifying the respect in which the said conditions are no longer fulfilled or the said circumstances have changed, as the case may be, and inviting the manager and the trustee to make to the Minister, within a period of one month from the date of the service of the notice, any representations which they desire to make with respect to the proposed revocation of the order.
-
-(4) The Minister may revoke the order after the expiration of the said period, but, before deciding whether or not to revoke the order, shall take into consideration any representations so made by the manager or trustee and, if he so requests, afford him an opportunity of being heard by the Minister within that period.
-
-(5) The Minister shall, not less often than once a year, cause particulars of every unit trust scheme which is for the time being an authorised unit trust scheme, to be published in such manner as he thinks proper.
-
-[86
-
-### Investigation into the administration of unit trust scheme by inspectors appointed by Minister
-
-84\.—(1) The Minister may appoint one or more competent inspectors to investigate and report on the administration of any unit trust scheme, if it appears to the Minister —
-
-(a) that it is the interest of unit holders to do so; and
-
-(b) that the matter is one of public concern.
-
-(2) The provisions contained in section 236 of the Companies Act (Cap. 50) shall apply in relation to an inspector appointed under this section as they apply in relation to an inspector appointed under section 232 of that Act but with the substitution for references to the company or other body corporate and its affairs of references to the manager under the scheme and to the administration of the scheme.
-
-(3) The expenses of any investigation under this section shall be defrayed by the unit trust scheme investigated.
-
-[87
+84\. [Deleted by Act 45/2004 wef 15/12/2004]
 
 ## PART VIII
 
@@ -1588,137 +1928,131 @@ GENERAL PROVISIONS
 
 [89
 
+### Avoidance of dispositions and trusts created to defraud creditors
+
+86\. For the avoidance of doubt, every settlement or disposition of property made or caused to be made on trust, before, on or after the date of commencement of the Trustees (Amendment) Act 2004, with intent to defraud creditors, shall be voidable at the instance of any person thereby prejudiced, in accordance with section 73B of the Conveyancing and Law of Property Act (Cap. 61).
+
+[45/2004 wef 15/12/2004]
+
+### Effect of Bankruptcy Act on transactions at undervalue and unfair preferences
+
+87\.—(1) For the avoidance of doubt, every settlement or disposition of property made or caused to be made on trust, before, on or after the date of commencement of the Trustees (Amendment) Act 2004, that is —
+
+(a) a transaction at an undervalue as defined in section 98 (read with sections 100 and 101) of the Bankruptcy Act (Cap. 20); or
+
+(b) an unfair preference as defined in section 99 (read with sections 100 and 101) of the Bankruptcy Act;
+
+shall be subject to the respective sections, as the case may be.
+
+(2) Where the person making the settlement or disposition is a body corporate, the provisions of sections 98 to 101 of the Bankruptcy Act shall be read subject to such modifications as are prescribed under the Companies Act (Cap. 50) for the application of those provisions for the purposes of sections 227T and 329 of the Companies Act.
+
+[45/2004 wef 15/12/2004]
+
+### Accumulation of income for duration of trusts
+
+88\. The income arising from a trust may be accumulated for such period as is allowed under section 31 of the Civil Law Act (Cap. 43).
+
+[45/2004 wef 15/12/2004]
+
+### Perpetuity period applicable to trusts
+
+89\. For the purposes of the rule against perpetuities, the provisions of sections 32, 33 and 34 of the Civil Law Act (Cap. 43) shall apply to trusts created on or after the date of commencement of the Trustees (Amendment) Act 2004.
+
+[45/2004 wef 15/12/2004]
+
+### Validity of certain trusts
+
+90\.—(1) Subject to subsection (3), where a person creates a trust or transfers movable property to be held on an existing trust during his lifetime, he shall be deemed to have the capacity to so create the trust or transfer the property if he has capacity to do so under any of the following laws:
+
+(a) the law applicable in Singapore;
+
+(b) the law of his domicile or nationality; or
+
+(c) the proper law of the transfer.
+
+(2) No rule relating to inheritance or succession shall affect the validity of a trust or the transfer of any property to be held on trust if the person creating the trust or transferring the property had the capacity to do so under subsection (1).
+
+(3) Subsection (1) ––
+
+(a) does not apply if, at the time of the creation of the trust or the transfer of the property to be held on trust, the person creating the trust or transferring the property is a citizen of Singapore or is domiciled in Singapore; and
+
+(b) applies in relation to a trust only if the trust is expressed to be governed by Singapore law and the trustees are resident in Singapore.
+
+(4) In subsection (1), the reference to “law” does not include any choice of law rules forming part of that law.
+
+(5) No trust or settlement of any property on trust shall be invalid by reason only of the person creating the trust or making the settlement reserving to himself any or all powers of investment or asset management functions under the trust or settlement.
+
+[45/2004 wef 15/12/2004]
+
 FIRST SCHEDULE
 
-Sections 4, 5 and 6
+Sections 3A(1) and 41N
 
-Manner of Investment
+APPLICATION OF statutory DUTY OF CaRE UNDER PART IA
 
-Part I
+Investment
 
-1\. In any securities of the Government.
+1. The duty of care under Part IA applies to a trustee —
 
-2\. In any securities the repayment of the amount received and the interest on which is or shall be guaranteed by the Government.
+(a) when exercising the general power of investment or any other power of investment, however conferred; or
 
-3\. In fixed income securities issued in Singapore by any public authority established under written law.
+(b) when carrying out any duty imposed on him by this Act in relation to the investment of trust funds.
 
-4\. In any interest bearing deposits held in Singapore currency in a bank or finance company in Singapore.
+Acquisition of land
 
-5\. In negotiable certificates of deposits denominated in Singapore currency and issued by any bank in Singapore.
+2. The duty of care under Part IA applies to a trustee —
 
-Part II
+(a) when exercising any power to acquire land, however conferred; or
 
-1\. In any units, or any shares of the investments subject to the trusts, of an authorised unit trust scheme.
+(b) when exercising any power in relation to land acquired under a power mentioned in sub-paragraph (a).
 
-2. In any securities issued by a company (whether incorporated in Singapore or elsewhere) —
+Agents, nominees and custodians
 
-(a) which are listed on the Stock Exchange of Singapore; or
+3.—(1) The duty of care under Part IA applies to a trustee —
 
-(b) for which prices are quoted on the Central Limit Order Book (CLOB) International.
+(a) when entering into arrangements under which a person is authorised under section 41B to exercise functions as an agent;
 
-3. In bank bills and trade bills denominated in Singapore currency which —
+(b) when entering into arrangements under which a person is appointed under section 41G to act as a nominee;
 
-(a) are endorsed by a bank in Singapore; and
+(c) when entering into arrangements under which a person is appointed under section 41H or 41I to act as a custodian;
 
-(b) will mature not later than 3 months after the date of the investment.
+(d) when entering into arrangements under which, under any other power, however conferred, a person is authorised to exercise functions as an agent or is appointed to act as a nominee or custodian; or
 
-4. In any land or building (not being a building under construction) in Singapore of the following tenure:
+(e) when carrying out his duties under section 41M (Review of agents, nominees and custodians, etc.).
 
-(a) freehold, including a grant in perpetuity; or
+(2) For the purposes of sub-paragraph (1), entering into arrangements under which a person is authorised to exercise functions or is appointed to act as a nominee or custodian includes, in particular —
 
-(b) leasehold (other than a mining lease) with an unexpired term of not less than 30 years at the time of such investment.
+(a) selecting the person who is to act;
 
-Part III
+(b) determining any terms on which he is to act; and
 
-In any fixed income securities of —
+(c) if the person is being authorised to exercise asset management functions, the preparation of a policy statement under section 41F.
 
-(a)
+Compounding of liabilities
 
-a government outside Singapore; or
+4. The duty of care under Part IA applies to a trustee —
 
-(b)
+(a) when exercising the power under section 16 to do any of the things referred to in that section; or
 
-an entity owned or controlled by 2 or more governments (which may include the Government), irrespective of whether such ownership or control is shared with any other non-governmental entity,
+(b) when exercising any corresponding power, however conferred.
 
-having a Triple A credit rating or equivalent given by one of the following credit rating agencies:
+Insurance
 
-(i)
+5. The duty of care under Part IA applies to a trustee —
 
-Moody’s Investors Service, Inc., USA;
+(a) when exercising the power under section 21 to insure property; or
 
-(ii)
+(b) when exercising any corresponding power, however conferred.
 
-Standard and Poor’s Corporation, USA,
+Reversionary interests, valuations and audit
 
-and to hedge the foreign currency exposure from such investments back into Singapore currency.
+6. The duty of care under Part IA applies to a trustee —
 
-Part IV
+(a) when exercising the power under section 24(1) or (4) to do any of the things referred to therein; or
 
-1.—(1) Paragraph 2 of Part II shall not apply to securities of any company unless —
+(b) when exercising any corresponding power, however conferred.
 
-(a) the total issued and paid-up share capital of the company, if incorporated in Singapore, is not less than $15 million and, if incorporated elsewhere, is not less than $30 million;
-
-(b) the company has, in each of the 3 financial years immediately preceding the financial year in which the investment is made, paid a dividend on all shares issued by the company, excluding any shares issued after the dividend was declared and any shares which by their terms of issue did not rank for the dividend for that financial year;
-
-(c) the shareholders equity of the company is not less than $30 million; and
-
-(d) the company has reported a profit (excluding any extraordinary item) in the profit and loss account in the annual accounts of the company in the financial year immediately preceding the financial year in which the investment is made.
-
-(2) A company formed —
-
-(a) to take over the business of another company or other companies; or
-
-(b) to acquire the securities of, or control of, another company or other companies,
-
-or for either of those purposes and for other purposes, shall be deemed —
-
-(i) to have paid a dividend as mentioned in sub-paragraph (1)(b) in any financial year in which such a dividend has been so paid by the other company or each of the other companies, as the case may be;
-
-(ii) to have had a shareholders equity of not less than $30 million as mentioned in sub-paragraph (1)(c) if the other company or companies, as the case may be, had a shareholders equity of not less than $30 million; and
-
-(iii) to have reported a profit as mentioned in sub-paragraph (1)(d) in the financial year in which such a profit has been so reported by the other company or each of the other companies, as the case may be.
-
-(3) For the purposes of sub-paragraph (1)(a) and (c), the issued and paid-up share capital and the shareholders equity shall, if they are in a currency other than Singapore currency, be converted into Singapore currency at a rate of exchange certified by a bank licensed under the Banking Act (Cap. 19) to be appropriate on the day the trustee exercises his power to invest in such securities.
-
-[S 316/2000 wef 05/07/2000]
-
-(4) The securities referred to in paragraph 2 of Part II do not include shares or debenture stock not fully paid-up, except shares or stock which by the terms of issue are required to be fully paid-up within 9 months of the date of issue.
-
-[S 316/2000 wef 05/07/2000]
-
-(5) Where immediately before 26th June 1992 the securities of a company were investments in which trustees were authorised by this Act to invest and the total issued and paid-up capital of that company, if incorporated in Singapore, was less than $15 million and, if incorporated elsewhere, was less than $30 million, sub-paragraph (1)(a) shall have effect in relation to those securities only after the expiry of 3 years from that date.
-
-[S 316/2000 wef 05/07/2000]
-
-(6) Where immediately before 26th June 1992 the securities of a company were investments in which trustees were authorised by this Act to invest and the shareholders equity of that company was less than $30 million, sub-paragraph (1)(c) shall have effect in relation to those securities only after the expiry of 3 years from that date.
-
-[S 316/2000 wef 05/07/2000]
-
-[S 322/99]
-
-2. Not more than 30% of the funds belonging to the trust shall at any time be invested in the investments in Part III taken together.
-
-[S 316/2000 wef 05/07/2000]
-
-Part V
-
-1\. In relation to the investments specified in paragraphs 1, 2 and 3 of Part II and in Part III, proper advice for the purposes of section 5(2) means the advice of an investment adviser licensed under the Securities Industry Act (Cap. 289) or a bank licensed under the Banking Act (Cap. 19) or a merchant bank approved under the Monetary Authority of Singapore Act (Cap. 186) as to the matters referred to in section 5(1).
-
-2. In relation to the investments specified in paragraph 4 of Part II, proper advice for the purposes of section 5(2) means advice given by an appraiser who is —
-
-(a) licensed under the Appraisers and House Agents Act (Cap. 16) to value or appraise land; and
-
-[22/2000 wef 01/08/2000]
-
-(b) instructed and employed independently of any owner of the land or building
-
-on the following:
-
-(i) the value of the land or building at the time of the investment; and
-
-(ii) the gross rental at which the land or building may reasonably be expected to be let from year to year.
-
-[S 322/99]
+[45/2004 wef 15/12/2004]
 
 SECOND SCHEDULE
 
@@ -1740,21 +2074,19 @@ Particulars to be Inserted in Application for Incorporation of Trustees
 
 THIRD SCHEDULE
 
-Section 83(1)
+Section 27(5)
 
-Matters for Which Trusts Deeds Pursuant to Unit Trust Schemes Must Provide
+FORM OF
 
-1\. For determining the manner in which the manager’s prices for units on a sale and a purchase respectively, and the yield from the units, are to be respectively calculated, and for entitling the holder of any units to require the manager to purchase them at a price calculated accordingly.
+POWER OF ATTORNEY UNDER SECTION 27 (5)
 
-2\. For regulating the mode of execution and the issue of unit certificates, and, in particular, for securing that no unit certificate shall be executed or issued in respect of rights or interests in any property until steps have been taken, to the satisfaction of the trustee, to secure that the property will be vested in him or, subject to any prescribed conditions, in a nominee for him approved by the Minister.
+THIS GENERAL TRUSTEE POWER OF ATTORNEY is made on [date] by [name of one donor] of [address of donor] as trustee of [name or details of one trust]\.
 
-3\. For prohibiting or restricting the issue by or on behalf of the manager of advertisements, circulars or other documents containing any statement with respect to the sale price of units, or the payments or other benefits received or likely to be received by holders of units, or containing any invitation to buy units, unless the document in question also contains a statement of the yield from the units.
+I appoint [name of one donee] of [address of donee] to be my attorney [if desired, the date on which the delegation commences or the period for which it continues (or both)] in accordance with section 27(5) of the Trustees Act (Cap\. 337).
 
-4\. For the establishment of a fund to be applied in defraying the expenses of the administration of the trust and for regulating the application of that fund.
+[To be executed as a deed]\.
 
-5\. For requiring the manager (subject to any provisions as to appeal contained in the deed) to retire from the trust if the trustee certifies that it is in the interest of the beneficiaries under the trust that he should do so.
-
-6\. In this Schedule, “units” means securities (described whether as units or otherwise) which may be created in pursuance of the unit trust scheme, and “unit certificates” means certificates of the acquisition of such securities.
+[45/2004 wef 15/12/2004]
 
 ## LEGISLATIVE HISTORY
 
@@ -1872,6 +2204,11 @@ This Legislative History is provided for the convenience of users of the Trustee
 |||(Bill No. 40/2002 published on 1 November 2002)|
 ||Date of Second and Third Readings|25 November 2002|
 ||Date of commencement|1 January 2003|
+|24.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
+||Date of First Reading|21 September 2004|
+|||(Bill No. 43/2004 published on 22 September 2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|15 December 2004|
 ## COMPARATIVE TABLE
 
 Trustees Act
