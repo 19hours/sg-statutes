@@ -1,16 +1,14 @@
-**Chemical Weapons (Prohibition) Act 2000**
+**Chemical Weapons (Prohibition) Act**
 
-**(No. 17 of 2000)**
+**(CHAPTER 37B)**
 
 **Table of Contents**
 
 [**Long Title**](#Chemical-Weapons-Prohibition-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -48,7 +46,7 @@
 
 - [15 Purpose and interpretation of this Part](#Purpose-and-interpretation-of-this-Part)
 
-- [16 National inspection](#National-inspection)
+- [16 National inspectors](#National-inspectors)
 
 - [17 International inspection](#International-inspection)
 
@@ -66,7 +64,7 @@
 
 - [24 Obligations of persons carrying out inspections](#Obligations-of-persons-carrying-out-inspections)
 
-- [25 Obstruction of national or international inspector, etc.](#Obstruction-of-national-or-international-inspector-etc)
+- [25 Obstruction, etc., of national or international inspector](#Obstruction-etc-of-national-or-international-inspector)
 
 [**Part VI MISCELLANEOUS PROVISIONS**](#Part-VI)
 
@@ -76,7 +74,7 @@
 
 - [28 Offences by body corporate](#Offences-by-body-corporate)
 
-- [29 Jurisdiction of Courts](#Jurisdiction-of-Courts)
+- [29 Jurisdiction of courts](#Jurisdiction-of-courts)
 
 - [30 Composition of offences](#Composition-of-offences)
 
@@ -88,47 +86,31 @@
 
 [**THE SCHEDULE**](#THE-SCHEDULE)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+[**Comparative Table**](#Comparative-Table)
 
-ACTS SUPPLEMENT
+# Chemical Weapons (Prohibition) Act
 
-Published by Authority
+(CHAPTER 37B)
 
-NO. 18]
+(Original Enactment: Act 17 of 2000)
 
-Friday, June 2
+REVISED EDITION 2001
 
-[2000
-
-The following Act was passed by Parliament on 25th April 2000 and assented to by the President on 8th May 2000:—
-
-Chemical Weapons (Prohibition) Act 2000
-
-(No. 17 of 2000)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-8th May 2000.
-
-Date of Commencement: 1st June 2000
+(31st December 2001)
 
 An Act to give effect to the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on their Destruction concluded at Paris on 13th January 1993.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st June 2000]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Chemical Weapons (Prohibition) Act 2000 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Chemical Weapons (Prohibition) Act.
 
 ### Interpretation
 
@@ -216,13 +198,13 @@ PRELIMINARY
 
 (b) any other person on board any ship or aircraft registered in Singapore.
 
-(1A) Where an offence under section 8 or 26 is committed outside Singapore by a citizen of Singapore, he may be dealt with in respect of that offence as if it had been committed within Singapore.
+(2) Where an offence under section 8 or 26 is committed outside Singapore by a citizen of Singapore, he may be dealt with in respect of that offence as if it had been committed within Singapore.
 
-[26/2001 wef 01/09/2001]
+[26/2001]
 
-(2) Notwithstanding anything in any other written law, proceedings in respect of any offence under section 8 or 26 committed anywhere outside Singapore shall not, by virtue only of the provisions of this Act, be instituted in any court except with the consent of the Public Prosecutor.
+(3) Notwithstanding anything in any other written law, proceedings in respect of any offence under section 8 or 26 committed anywhere outside Singapore shall not, by virtue only of the provisions of this Act, be instituted in any court except with the consent of the Public Prosecutor.
 
-(3) Notwithstanding subsection (2), a person may be arrested, or a warrant for a person’s arrest may be issued and executed, and the person may be remanded in custody or on bail, but no further or other proceedings shall be taken until the consent of the Public Prosecutor has been obtained.
+(4) Notwithstanding subsection (3), a person may be arrested, or a warrant for a person’s arrest may be issued and executed, and the person may be remanded in custody or on bail, but no further or other proceedings shall be taken until the consent of the Public Prosecutor has been obtained.
 
 ## PART II
 
@@ -234,7 +216,7 @@ ADMINISTRATION
 
 (2) If the Director is temporarily absent from Singapore or temporarily incapacitated by reason of illness or for any reason temporarily unable to perform his duties, the Minister may appoint a person to act in the place of the Director during any such period of absence from duty.
 
-(3) The Director may in writing appoint any public officer or any officer of any statutory body as an authorised officer for the purposes of this Act and any regulations made thereunder.
+(3) The Director may in writing appoint any public officer or any officer of any statutory body as an authorised officer for the purposes of this Act.
 
 (4) The Director may delegate to any authorised officer all or any of the powers conferred on the Director by this Act except the powers conferred by this subsection.
 
@@ -248,7 +230,7 @@ ADMINISTRATION
 
 (c) to facilitate inspections of premises in Singapore if Singapore’s compliance with the Convention is challenged;
 
-(d) to carry out such duties and exercise such powers as are conferred upon the Director under this Act or any regulations made thereunder; and
+(d) to carry out such duties and exercise such powers as are conferred upon the Director under this Act; and
 
 (e) to do anything incidental or conducive to the performance of any of the functions referred to in paragraphs (a) to (d).
 
@@ -280,7 +262,7 @@ shall be guilty of an offence and shall on conviction be punished with —
 
 (ii) a fine not exceeding $1 million.
 
-(2) Nothing in subsection (1) shall apply in respect of any act done by an authorised officer, a national inspector or an international inspector under the authority of this Act or any regulation made thereunder or any other written law.
+(2) Nothing in subsection (1) shall apply in respect of any act done by an authorised officer, a national inspector or an international inspector under the authority of this Act or any other written law.
 
 (3) In proceedings for an offence under subsection (1)(a), (c), (d), (e) or (g) relating to an object, it is a defence for the accused to prove that —
 
@@ -288,7 +270,7 @@ shall be guilty of an offence and shall on conviction be punished with —
 
 (b) as soon as reasonably practicable after he first knew or suspected it to be a chemical weapon or riot control agent, as the case may be, he took all reasonable steps to inform an authorised officer of his knowledge or suspicion.
 
-(4) Nothing in subsection (3) shall prejudice any defence which is open to a person charged with an offence under this section to raise apart from those subsections.
+(4) Nothing in subsection (3) shall prejudice any defence which is open to a person charged with an offence under this section to raise apart from that subsection.
 
 ### Licence for use, etc., of scheduled chemical or discrete organic chemical
 
@@ -320,7 +302,7 @@ except under and in accordance with the conditions of a licence granted by the D
 
 (8) The Minister may make regulations to prescribe the manner of application for a licence, the form and duration of a licence, the terms and conditions upon which and the circumstances in which a licence may be granted, held, suspended, cancelled, extended, renewed or replaced, and the fees payable in respect thereof.
 
-(9) For the purposes of subsection (3), “unscheduled discrete organic chemical” means a discrete organic chemical not listed in the Schedule.
+(9) In subsection (3), “unscheduled discrete organic chemical” means a discrete organic chemical not listed in the Schedule.
 
 ### Forfeiture
 
@@ -416,15 +398,15 @@ INSPECTIONS
 
 ### Purpose and interpretation of this Part
 
-15\.—(1) The purpose of this Part is to —
+15\.—(1) The purpose of this Part is to facilitate inspections —
 
-(a) facilitate inspections by national inspectors for a compliance purpose; and
+(a) by national inspectors for a compliance purpose; and
 
-(b) facilitate inspections by international inspectors in accordance with the Convention and any facility agreement.
+(b) by international inspectors in accordance with the Convention and any facility agreement.
 
 (2) A reference in this section and in sections 16 and 21 to a compliance purpose is a reference to the purpose of —
 
-(a) determining whether the provisions of this Act and any regulations made thereunder have been or are being complied with at any premises;
+(a) determining whether the provisions of this Act have been or are being complied with at any premises;
 
 (b) determining whether the conditions applicable to a licence have been or are being complied with by the holder of a licence; or
 
@@ -440,7 +422,7 @@ INSPECTIONS
 
 (d) measure a matter or thing;
 
-(e) examine a document (including a record kept in accordance with the requirements of this Act, any regulations made thereunder or the conditions of a licence);
+(e) examine a document (including a record kept in accordance with the requirements of this Act or the conditions of a licence);
 
 (f) take extracts from, or make copies of, a document (including a record of a kind referred to in paragraph (e));
 
@@ -454,9 +436,9 @@ INSPECTIONS
 
 (4) A power referred to in subsection (3)(a), (b), (c), (d), (h) or (i) may only be exercised in a manner that the person authorised to exercise it believes, on reasonable grounds, to be in accordance with safety procedures applicable at the premises.
 
-### National inspection
+### National inspectors
 
-16\.—(1) All authorised officers shall be national inspectors for the purposes of this Act and any regulations made thereunder.
+16\.—(1) All authorised officers shall be national inspectors for the purposes of this Act.
 
 (2) The Director may, from time to time, appoint in writing other persons to be national inspectors.
 
@@ -584,7 +566,7 @@ may issue, unconditionally or subject to conditions, a warrant authorising the e
 
 (c) where any thing is seized, give the occupier or person in control of the premises a written inventory of all things so seized.
 
-### Obstruction of national or international inspector, etc.
+### Obstruction, etc., of national or international inspector
 
 25\.—(1) Any person who wilfully obstructs, hinders, resists, or deceives any national inspector or international inspector who is exercising any function contemplated, or any power provided for, in this Part or the Convention or any applicable facility agreement shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $15,000 or to imprisonment for a term not exceeding 12 months or to both.
 
@@ -634,15 +616,15 @@ MISCELLANEOUS PROVISIONS
 
 ### Offences by body corporate
 
-28\. Where an offence under this Act or any regulations made thereunder is committed by a body corporate, and it is proved to have been committed with the consent or connivance of, or to be attributable to any act or default on the part of, any director, manager, secretary or other similar officer of the body corporate, or any person who was purporting to act in any such capacity, he, as well as the body corporate, shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+28\. Where an offence under this Act is committed by a body corporate, and it is proved to have been committed with the consent or connivance of, or to be attributable to any act or default on the part of, any director, manager, secretary or other similar officer of the body corporate, or any person who was purporting to act in any such capacity, he, as well as the body corporate, shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
 
-### Jurisdiction of Courts
+### Jurisdiction of courts
 
-29\. A District Court or a Magistrate’s Court shall have jurisdiction to hear and determine all prosecutions for offences under this Act or any regulations made thereunder; and a District Court shall, notwithstanding anything to the contrary in the Criminal Procedure Code (Cap. 68), have jurisdiction to impose the full penalty or punishment under this Act or any regulations made thereunder.
+29\. A District Court or a Magistrate’s Court shall have jurisdiction to hear and determine all prosecutions for offences under this Act; and a District Court shall, notwithstanding anything to the contrary in the Criminal Procedure Code (Cap. 68), have jurisdiction to impose the full penalty or punishment under this Act.
 
 ### Composition of offences
 
-30\.—(1) The Director may, in his discretion, compound any offence under this Act or any regulations made thereunder which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding —
+30\.—(1) The Director may, in his discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding —
 
 (a) $1,000 in respect of any offence where the maximum fine prescribed for that offence is less than $5,000; and
 
@@ -694,9 +676,13 @@ PART I
 
 (CAS registry number)
 
-A. Toxic chemicals:
+A.
 
-(1) O-Alkyl (
+Toxic chemicals:
+
+(1)
+
+O-Alkyl (
 
 <
 
@@ -711,7 +697,9 @@ C
 
 (Me, Et, n-Pr or i-Pr)-phosphonofluoridates
 
-e.g. Sarin: O-Isopropyl methylphosphonofluoridate
+e.g.
+
+Sarin: O-Isopropyl methylphosphonofluoridate
 
 
 
@@ -725,7 +713,9 @@ Soman: O-Pinacolyl methylphosphonofluoridate
 
 (96-64-0)
 
-(2) O-Alkyl (
+(2)
+
+O-Alkyl (
 
 <
 
@@ -740,7 +730,9 @@ C
 
 (Me, Et, n-Pr or i-Pr)-phosphoramidocyanidates
 
-e.g. Tabun: O-Ethyl N, N-dimethyl
+e.g.
+
+Tabun: O-Ethyl N, N-dimethyl
 
 
 
@@ -749,7 +741,9 @@ phosphoramidocyanidate
 
 (77-81-6)
 
-(3) O-Alkyl (
+(3)
+
+O-Alkyl (
 
 <
 
@@ -774,7 +768,9 @@ H or C
 
 corresponding alkylated or protonated salts
 
-e.g. VX: O-Ethyl S-2-diisopropylaminoethyl
+e.g.
+
+VX: O-Ethyl S-2-diisopropylaminoethyl
 
 
 
@@ -783,7 +779,9 @@ methyl phosphonothiolate
 
 (50782-69-9)
 
-(4) Sulfur mustards:
+(4)
+
+Sulfur mustards:
 
 2-Chloroethylchloromethylsulfide
 
@@ -821,7 +819,9 @@ O-Mustard: Bis(2- chloroethylthioethyl)ether
 
 (63918-89-8)
 
-(5) Lewisites:
+(5)
+
+Lewisites:
 
 Lewisite 1: 2-Chlorovinyldichloroarsine
 
@@ -835,7 +835,9 @@ Lewisite 3: Tris(2-chlorovinyl)arsine
 
 (40334-70-1)
 
-(6) Nitrogen mustards:
+(6)
+
+Nitrogen mustards:
 
 HN1: Bis(2-chloroethyl)ethylamine
 
@@ -849,23 +851,35 @@ HN3: Tris(2-chloroethyl)amine
 
 (555-77-1)
 
-(7) Saxitoxin
+(7)
+
+Saxitoxin
 
 (35523-89-8)
 
-(8) Ricin
+(8)
+
+Ricin
 
 (9009-86-3)
 
-B. Precursors:
+B.
 
-(9) Alkyl (Me, Et, n-Pr or i-Pr) phosphonyldifluorides
+Precursors:
 
-e.g. DF: Methylphosphonyldifluoride
+(9)
+
+Alkyl (Me, Et, n-Pr or i-Pr) phosphonyldifluorides
+
+e.g.
+
+DF: Methylphosphonyldifluoride
 
 (676-99-3)
 
-(10) O-Alkyl (
+(10)
+
+O-Alkyl (
 
 <
 
@@ -890,7 +904,9 @@ H or C
 
 corresponding alkylated or protonated salts
 
-e.g. QL: O-Ethyl O-2-diisopropylaminoethyl
+e.g.
+
+QL: O-Ethyl O-2-diisopropylaminoethyl
 
 
 
@@ -899,19 +915,27 @@ methylphosphonite
 
 (57856-11-8)
 
-(11) Chlorosarin: O-Isopropyl methylphosphonochloridate
+(11)
+
+Chlorosarin: O-Isopropyl methylphosphonochloridate
 
 (1445-76-7)
 
-(12) Chlorosoman: O-Pinacolyl methylphosphonochloridate
+(12)
+
+Chlorosoman: O-Pinacolyl methylphosphonochloridate
 
 (7040-57-5)
 
 PART II
 
-A. Toxic chemicals:
+A.
 
-(1) Amiton: O,O-Diethyl S-[2-(diethylamino)ethyl]
+Toxic chemicals:
+
+(1)
+
+Amiton: O,O-Diethyl S-[2-(diethylamino)ethyl]
 
 
 
@@ -920,17 +944,25 @@ phosphorothiolate and corresponding alkylated or protonated salts
 
 (78-53-5)
 
-(2) PFIB: 1,1,3,3,3-Pentafluoro-2-(trifluoromethyl)-1-propene
+(2)
+
+PFIB: 1,1,3,3,3-Pentafluoro-2-(trifluoromethyl)-1-propene
 
 (382-21-8)
 
-(3) BZ: 3-Quinuclidinyl benzilate (*)
+(3)
+
+BZ: 3-Quinuclidinyl benzilate (*)
 
 (6581-06-2)
 
-B. Precursors:
+B.
 
-(4) Chemicals, except for those listed in Schedule 1,
+Precursors:
+
+(4)
+
+Chemicals, except for those listed in Schedule 1,
 
 
 
@@ -947,7 +979,9 @@ one methyl, ethyl or propyl (normal or iso) group
 
 but not further carbon atoms,
 
-e.g. Methylphosphonyl dichloride
+e.g.
+
+Methylphosphonyl dichloride
 
 
 
@@ -970,30 +1004,44 @@ ethylphosphonothiolothionate
 
 (944-22-9)
 
-(5) N,N-Dialkyl (Me, Et, n-Pr or i-Pr) phosphoramidic dihalides
+(5)
 
-(6) Dialkyl (Me, Et, n-Pr or i-Pr) N,N-dialkyl
+N,N-Dialkyl (Me, Et, n-Pr or i-Pr) phosphoramidic dihalides
+
+(6)
+
+Dialkyl (Me, Et, n-Pr or i-Pr) N,N-dialkyl
 
 
 
 
 (Me, Et, n-Pr or i-Pr)-phosphoramidates
 
-(7) Arsenic trichloride
+(7)
+
+Arsenic trichloride
 
 (7784-34-1)
 
-(8) 2,2-Diphenyl-2-hydroxyacetic acid
+(8)
+
+2,2-Diphenyl-2-hydroxyacetic acid
 
 (76-93-7)
 
-(9) Quinuclidin-3-ol
+(9)
+
+Quinuclidin-3-ol
 
 (1619-34-7)
 
-(10) N,N-Dialkyl (Me, Et, n-Pr or i-Pr) aminoethyl-2-chlorides and corresponding protonated salts
+(10)
 
-(11) N,N-Dialkyl (Me, Et, n-Pr or i-Pr) aminoethane-2-ols and corresponding protonated salts
+N,N-Dialkyl (Me, Et, n-Pr or i-Pr) aminoethyl-2-chlorides and corresponding protonated salts
+
+(11)
+
+N,N-Dialkyl (Me, Et, n-Pr or i-Pr) aminoethane-2-ols and corresponding protonated salts
 
 Exemptions: N,N-Dimethylaminoethanol
 
@@ -1013,87 +1061,184 @@ and corresponding protonated salts
 
 (100-37-8)
 
-(12) N,N-Dialkyl (Me, Et, n-Pr or i-Pr) aminoethane-2-thiols and corresponding protonated salts
+(12)
 
-(13) Thiodiglycol: Bis(2-hydroxyethyl)sulfide
+N,N-Dialkyl (Me, Et, n-Pr or i-Pr) aminoethane-2-thiols and corresponding protonated salts
+
+(13)
+
+Thiodiglycol: Bis(2-hydroxyethyl)sulfide
 
 (111-48-8)
 
-(14) Pinacolyl alcohol: 3,3-Dimethylbutan-2-ol
+(14)
+
+Pinacolyl alcohol: 3,3-Dimethylbutan-2-ol
 
 (464-07-3)
 
 PART III
 
-A. Toxic chemicals:
+A.
 
-(1) Phosgene: Carbonyl dichloride
+Toxic chemicals:
+
+(1)
+
+Phosgene: Carbonyl dichloride
 
 (75-44-5)
 
-(2) Cyanogen chloride
+(2)
+
+Cyanogen chloride
 
 (506-77-4)
 
-(3) Hydrogen cyanide
+(3)
+
+Hydrogen cyanide
 
 (74-90-8)
 
-(4) Chloropicrin: Trichloronitromethane
+(4)
+
+Chloropicrin: Trichloronitromethane
 
 (76-06-2)
 
-B. Precursors:
+B.
 
-(5) Phosphorus oxychloride
+Precursors:
+
+(5)
+
+Phosphorus oxychloride
 
 (10025-87-3)
 
-(6) Phosphorus trichloride
+(6)
+
+Phosphorus trichloride
 
 (7719-12-2)
 
-(7) Phosphorus pentachloride
+(7)
+
+Phosphorus pentachloride
 
 (10026-13-8)
 
-(8) Trimethyl phosphite
+(8)
+
+Trimethyl phosphite
 
 (121-45-9)
 
-(9) Triethyl phosphite
+(9)
+
+Triethyl phosphite
 
 (122-52-1)
 
-(10) Dimethyl phosphite
+(10)
+
+Dimethyl phosphite
 
 (868-85-9)
 
-(11) Diethyl phosphite
+(11)
+
+Diethyl phosphite
 
 (762-04-9)
 
-(12) Sulfur monochloride
+(12)
+
+Sulfur monochloride
 
 (10025-67-9)
 
-(13) Sulfur dichloride
+(13)
+
+Sulfur dichloride
 
 (10545-99-0)
 
-(14) Thionyl chloride
+(14)
+
+Thionyl chloride
 
 (7719-09-7)
 
-(15) Ethyldiethanolamine
+(15)
+
+Ethyldiethanolamine
 
 (139-87-7)
 
-(16) Methyldiethanolamine
+(16)
+
+Methyldiethanolamine
 
 (105-59-9)
 
-(17) Triethanolamine
+(17)
+
+Triethanolamine
 
 (102-71-6)
+
+## LEGISLATIVE HISTORY
+
+Chemical Weapons (Prohibition) Act
+
+(CHAPTER 37B)
+
+This Legislative History is provided for the convenience of users of the Chemical Weapons (Prohibition) Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 17 of 2000—Chemical Weapons (Prohibition) Act 2000**|
+||Date of First Reading|21 February 2000|
+|||(Bill No. 9/2000 published on 22 February 2000)|
+||Date of Second and Third Readings|25 April 2000|
+||Date of commencement|1 June 2000|
+|2.|**Act 26 of 2001—Statutes (Miscellaneous Amendments and Repeal) Act 2001**|
+||Date of First Reading|11 July 2001|
+|||(Bill No. 24/2001 published on 12 July 2001)|
+||Date of Second and Third Readings|25 July 2001|
+||Date of commencement|1 September 2001|
+|||(except sections 3 and 17)|
+|3.|**2001 Revised Edition—Chemical Weapons (Prohibition) Act**|
+||Date of operation|31 December 2001|
+## COMPARATIVE TABLE
+
+Chemical Weapons (Prohibition) Act
+
+(CHAPTER 37B)
+
+The following provisions in the Chemical Weapons (Prohibition) Act 2000 (Act 17 of 2000) have been renumbered by the Law Revision Commissioners in this 2001 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Chemical Weapons (Prohibition) Act.
+
+2001 Ed\. 
+
+Act 17 of 2000 
+
+5 —(1)
+
+5 —(1)
+
+(2)
+
+(1A)
+
+(3)
+
+(2)
+
+(4)
+
+(3)
 
