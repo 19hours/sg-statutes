@@ -46,9 +46,9 @@
 
 (Original Enactment: Act 10 of 1970)
 
-REVISED EDITION 1997
+REVISED EDITION 2002
 
-(20th December 1997)
+(31st December 2002)
 
 An Act to provide a civil list and pension for the President of the Republic of Singapore.
 
@@ -283,3 +283,5 @@ This Legislative History is provided for the convenience of users of the Civil L
 ||Date of commencement|12 January 2001|
 |35.|**G. N. No. S 168/2001—Parliamentary Resolution**|
 ||Date of commencement|23 February 2001|
+|36.|**2002 Revised Edition—Civil List and Pension Act**|
+||Date of operation|31 December 2002|
