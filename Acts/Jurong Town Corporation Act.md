@@ -382,7 +382,13 @@ PROVISIONS RELATING TO THE CORPORATION
 
 (b) for the purpose of defraying, pending the receipt of money due in respect of any loan authorised to be raised under subsection (1), expenses intended to be defrayed by any such loan.
 
-(4) Bonds and debentures of the Corporation shall be guaranteed by the Government as to the repayment of principal and the payment of interest at such rate as may be approved by the Minister.
+(4) Bonds and debentures of the Corporation issued before the commencement of subsection (4A) shall be guaranteed by the Government as to the repayment of principal and the payment of interest at such rate as may be approved by the Minister.
+
+[18/1994 wef 01/10/1994]
+
+(4A) Bonds and debentures of the Corporation issued on or after the commencement of this subsection shall be guaranteed by the Government as to the repayment of principal and the payment of interest at such rate as may be approved by the Minister if the President, acting in his discretion, concurs with the giving of such guarantee.
+
+[18/1994 wef 01/10/1994]
 
 (5) For the purposes of subsection (1), the power to raise loans shall include the power to make any financial agreement whereby credit facilities are granted to the Corporation for the purchase of goods, materials or things.
 
@@ -1354,3 +1360,7 @@ This Legislative History is provided for the convenience of users of the Jurong 
 ||Date of First Reading|3 January 1991 (Bill No. 4/91 published on 4 January 1991)|
 ||Date of Second and Third Readings|14 January 1991|
 ||Date of commencement|30 November 1991|
+|13.|**Act 18 of 1994—Statutes (Miscellaneous Amendments) Act 1994**|
+||Date of First Reading|25 July 1994 (Bill No. 25/94 published on 29 July 1994)|
+||Date of Second and Third Readings|25 August 1994|
+||Date of commencement|1 October 1994|
