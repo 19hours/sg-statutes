@@ -164,7 +164,7 @@
 
 - [65B Duty to inform patentee](#Duty-to-inform-patentee)
 
-- [65C Patentee entitled to remuneration](#Patentee-entitled-to-remuneration)
+- [65C Patentee entitled to renumeration](#Patentee-entitled-to-renumeration)
 
 [**Part XIII INFRINGEMENT OF PATENTS**](#Part-XIII)
 
@@ -254,6 +254,8 @@
 
 - [103 Offences by corporations and partnerships](#Offences-by-corporations-and-partnerships)
 
+- [103A Composition of offences](#Composition-of-offences)
+
 [**Part XIX PATENT AGENTS**](#Part-XIX)
 
 - [104 Registration of patent agents](#Registration-of-patent-agents)
@@ -262,7 +264,7 @@
 
 [**Part XX MISCELLANEOUS AND GENERAL**](#Part-XX)
 
-- [106 Immunity of Government, its officers and Examiners](#Immunity-of-Government-its-officers-and-Examiners)
+- [106 Immunity of Office, its officers and Examiners](#Immunity-of-Office-its-officers-and-Examiners)
 
 - [107 Correction of errors in patents and applications](#Correction-of-errors-in-patents-and-applications)
 
@@ -281,6 +283,8 @@
 - [114 Availability of samples of micro-organisms](#Availability-of-samples-of-micro-organisms)
 
 - [115 Rules](#Rules)
+
+- [115A Fees to be paid to Office](#Fees-to-be-paid-to-Office)
 
 - [116 Transitional provisions](#Transitional-provisions)
 
@@ -356,6 +360,10 @@ PRELIMINARY
 
 “mortgage”, when used as a noun, includes a charge for securing money or money’s worth and, when used as a verb, shall be construed accordingly;
 
+“Office” means the Intellectual Property Office of Singapore incorporated under the Intellectual Property Office of Singapore Act 2001;
+
+[3/2001 wef 01/04/2001]
+
 “Paris Convention” means the Convention for the Protection of Industrial Property signed at Paris on 20th March 1883;
 
 “patent” means a patent under this Act and includes a patent in force by virtue of section 116(3);
@@ -384,7 +392,9 @@ PRELIMINARY
 
 “scientific adviser” means any person with any scientific qualification, any medical practitioner, engineer, architect, surveyor, accountant, actuary and any other specially skilled person.
 
-[Act 40/95 wef 01/01/1996]
+[Act 40/95]
+
+[Deleted by Act 40/95 wef 01/01/1996videS582/95]
 
 (2) Rules may provide for stating in the journal that an exhibition falls within the definition of “international exhibition” in subsection (1) and any such statement shall be conclusive evidence that the exhibition falls within that definition.
 
@@ -492,15 +502,15 @@ PATENTABILITY
 
 (c) it is capable of industrial application.
 
-[Act 40/95 wef 01/01/1996]
+[Act 40/95]
 
-(2) [Deleted by Act 40 of 1995 wef 01/01/1996]
+(2) [DeletedbyAct40/95wef1.1.96]
 
-(3) [An invention the publication or exploitation of which would be generally expected to encourage offensive, immoral or anti-social behaviour is not a patentable invention.]
+(3) An invention the publication or exploitation of which would be generally expected to encourage offensive, immoral or anti-social behaviour is not a patentable invention.
 
 (4) For the purposes of subsection (3), behaviour shall not be regarded as offensive, immoral or anti-social only because it is prohibited by any law in force in Singapore.
 
-(5) [Deleted by Act 40 of 1995 wef 01/01/1996]
+(5) [DeletedbyAct40/95]
 
 ### Novelty
 
@@ -1458,21 +1468,7 @@ the provisions of any licence, assignment or agreement to which this subsection 
 
 (2) Subsection (1) shall apply to any licence, assignment or agreement which is made, whether before or after 23rd February 1995, between (on the one hand) any person who is a proprietor of or an applicant for the patent, or anyone who derives title from any such person or from whom such person derives title, and (on the other hand) any person other than a Government department.
 
-(3) [Deleted by Act 50 of 1995 wef 01/01/1996]
-
-(4) [Deleted by Act 50 of 1995 wef 01/01/1996]
-
-(5) [Deleted by Act 50 of 1995 wef 01/01/1996]
-
-(6) [Deleted by Act 50 of 1995 wef 01/01/1996]
-
-(7) [Deleted by Act 50 of 1995 wef 01/01/1996]
-
-(8) [Deleted by Act 50 of 1995 wef 01/01/1996]
-
-(9) [Deleted by Act 50 of 1995 wef 01/01/1996]
-
-(10) [Deleted by Act 50 of 1995 wef 01/01/1996][Act 40/95 wef 01/01/1996]
+[Subsections (3) to (10) - DeletedbyAct40/95wef1.1.96]
 
 ### References of disputes as to Government use
 
@@ -1484,7 +1480,7 @@ the provisions of any licence, assignment or agreement to which this subsection 
 
 (b) the need to ensure that the patentee shall receive reasonable remuneration having regard to the economic value of the patented invention.
 
-[Act 40/95 wef 01/01/1996]
+[Subst. by Act 40/95 wef 01/01/1996 vide S 582/95]
 
 (3) If the validity of a patent is put in issue in proceedings under this section and it is found that the patent is only partially valid, the court may, subject to subsection (4), grant relief to the proprietor of the patent in respect of that part of the patent which is found to be valid and to have been used for the services of the Government.
 
@@ -1496,7 +1492,7 @@ the provisions of any licence, assignment or agreement to which this subsection 
 
 (7) One of the two or more joint proprietors of a patent or an application for a patent may, without the concurrence of the others, refer a dispute to the court under this section, but shall not do so unless the others are made parties to the proceedings; but any of the others if made a defendant shall not be liable for any costs or expenses unless he enters an appearance and takes part in the proceedings.
 
-[Act 40/95 wef 01/01/1996]
+[Subst.byAct40/95wef1.1.96]
 
 ### Special provisions as to Government use during emergency
 
@@ -1508,7 +1504,7 @@ the provisions of any licence, assignment or agreement to which this subsection 
 
 (c) for public non-commercial use.
 
-[Act 40/95 wef 01/01/1996]
+[Subst.byAct40/95wef1.1.96]
 
 ### Nature and scope of rights under section 61
 
@@ -1536,7 +1532,7 @@ the provisions of any licence, assignment or agreement to which this subsection 
 
 [Act 40/95 wef 01/01/1996]
 
-### Patentee entitled to remuneration
+### Patentee entitled to renumeration
 
 65C\. Where an act is done under section 61, the Government shall pay such remuneration to the patentee as may be agreed, or as may be determined by a method agreed, between the Government and the patentee having regard to the economic value of the patented invention or as may, in default of agreement, be determined by the court under section 64.
 
@@ -2098,6 +2094,18 @@ he shall, subject to this section, be guilty of an offence and shall be liable o
 
 (5) Where a partnership is guilty of an offence under this Act, every partner, other than a partner who is proved to have been ignorant of or to have attempted to prevent the commission of the offence, is also guilty of the offence and liable to be proceeded against and punished accordingly.
 
+### Composition of offences
+
+103A\.—(1) The Registrar or any person authorised by him in writing may, in his discretion, compound any offence under this Act or any rules made thereunder which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum of money not exceeding $2,000.
+
+(2) The Office may, with the approval of the Minister, make regulations to prescribe the offences which may be compounded.
+
+(3) On payment of such sum of money, no further proceedings shall be taken against such person in respect of the offence.
+
+(4) All sums collected under this section shall be paid into the funds of the Office.
+
+[3/2001 wef 01/04/2001]
+
 ## PART XIX1
 
 PATENT AGENTS
@@ -2156,9 +2164,9 @@ unless all the directors of the body corporate are registered patent agents or t
 
 MISCELLANEOUS AND GENERAL
 
-### Immunity of Government, its officers and Examiners
+### Immunity of Office, its officers and Examiners
 
-106\. The Government, any officer of the Registry and any Examiner shall not —
+106\. The Office, any officer of the Registry and any Examiner shall not —
 
 (a) be taken to warrant the validity of any patent granted under this Act or any treaty to which Singapore is a party;
 
@@ -2196,7 +2204,7 @@ MISCELLANEOUS AND GENERAL
 
 ### Extension of time
 
-110\.—(1) The Minister may make rules to provide for extension of time for any period of time specified for the doing of an act in relation to an application for patent or in proceedings under this Act or the rules, not being proceedings in court.
+110\.—(1) The Minister may, after consulting with the Office, make rules to provide for extension of time for any period of time specified for the doing of an act in relation to an application for patent or in proceedings under this Act or the rules, not being proceedings in court.
 
 (2) The rules may contain such provision as the Minister thinks fit regulating the circumstances in which such an extension may be granted and may also provide for the protection and compensation of persons affected by the grant of extension of time and may authorise the Registrar to grant an extension of time notwithstanding that the period has already expired.
 
@@ -2232,7 +2240,7 @@ MISCELLANEOUS AND GENERAL
 
 ### Rules
 
-115\.—(1) The Minister may make such rules as he thinks expedient for regulating the business of the Registry in relation to patents and applications for patents (including international applications for patents) and for regulating all matters placed by this Act under the direction or control of the Registrar.
+115\.—(1) The Minister may, after consulting with the Office, make such rules as he thinks expedient for regulating the business of the Registry in relation to patents and applications for patents (including international applications for patents) and for regulating all matters placed by this Act under the direction or control of the Registrar.
 
 (2) Without prejudice to the generality of subsection (1), the rules may make provision —
 
@@ -2267,6 +2275,14 @@ MISCELLANEOUS AND GENERAL
 (4) Rules shall provide for the publication by the Registrar of a journal (referred to in this Act as the journal) containing particulars of applications for and grants of patents, particulars of application for and the registration of patent agents, and of other proceedings under this Act.
 
 (5) Rules may require or authorise the Registrar to make arrangements for the publication of reports of cases relating to patents decided by him or by any court or body whether in Singapore or elsewhere.
+
+### Fees to be paid to Office
+
+115A\.—(1) All fees collected in connection with any proceedings or other matter before the Registrar or the Registry, or in connection with the provision of any service by the Registry, shall be paid into the funds of the Office.
+
+(2) Subsection (1) shall not apply to fees paid under section 85 which are to be forwarded to the International Bureau.
+
+[S 3/2001 wef 01/04/2001]
 
 ### Transitional provisions
 
@@ -2318,3 +2334,9 @@ This Legislative History is provided for the convenience of users of the Patents
 |||(Bill No. 31/95 published on 28 September 1995)|
 ||Date of Second and Third Readings|1 November 1995|
 ||Date of commencement|1 January 1996|
+|4.|**Act 3 of 2001—Intellectual Property Office of Singapore Act**|
+||(Consequential amendments made by)||
+||Date of First Reading|12 January 2001|
+|||(Bill No. 1/2001 published on 13 January 2001)|
+||Date of Second and Third Readings|22 February 2001|
+||Date of commencement|1 April 2001|
