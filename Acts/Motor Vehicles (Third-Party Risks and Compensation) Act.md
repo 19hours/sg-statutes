@@ -214,9 +214,7 @@ in respect of the death of or bodily injury to any person arising out of the use
 
 “expenses reasonably incurred” means —
 
-(a) in relation to a person who receives in-patient treatment at any hospital other than a Government hospital as an in-patient, an amount for each day the person is maintained in the hospital representing the average daily cost for each in-patient of the maintenance of the hospital and the staff thereof and the maintenance and treatment of the in-patients therein;
-
-(b) in relation to a person who receives in-patient treatment at a Government hospital which admits paying patients, the amount chargeable to a member of the general public, in a ward of the class occupied by the person, in accordance with the scale of fees laid down under the provisions of any written law relating thereto; and
+(a) in relation to a person who receives in-patient treatment at any hospital expenses reasonably incurred as an in-patient, an amount for each day the person is maintained in the hospital representing the average daily cost for each in-patient of the maintenance of the hospital and the staff thereof and the maintenance and treatment of the in-patients therein; and
 
 (c) in relation to a person who receives treatment at a hospital as an out-patient, reasonable expenses actually incurred;
 
@@ -649,6 +647,11 @@ This Legislative History is provided for the convenience of users of the Motor V
 ||Date of commencement|1 November 2000|
 |12.|**2000 Revised Edition—Motor Vehicles (Third-Party Risks and Compensation) Act**|
 ||Date of operation|30 December 2000|
+|13.|**Act 26 of 2001—Statutes (Miscellaneous Amendments and Repeal) Act 2001**|
+||Date of First Reading|11 July 2001|
+|||(Bill No. 24/2001 published on 12 July 2001)|
+||Date of Second and Third Readings|25 July 2001|
+||Date of commencement|1 September 2001|
 ## COMPARATIVE TABLE
 
 Motor Vehicles (Third-Party Risks and Compensation) Act
