@@ -610,7 +610,7 @@ the capital expenditure so incurred by the pioneer enterprise within its tax rel
 
 (a) any amount of exempted income of a pioneer enterprise; or
 
-(b) any dividend exempted in the hands of any shareholder, including any dividend paid by a holding company to which subsection (9) applies,
+(b) any dividend exempted in the hands of any shareholder,
 
 ought not to have been exempted by reason of any direction made under section 9 or the revocation under section 99 of a pioneer certificate issued to the pioneer enterprise, the Comptroller may subject to section 74 of the Income Tax Act (Cap. 134) —
 
@@ -624,9 +624,9 @@ ought not to have been exempted by reason of any direction made under section 9 
 
 (8) Section 44 of the Income Tax Act shall not apply in respect of any dividend or part thereof which is debited to the account required to be kept for the purposes of this section.
 
-(9) Where an amount has been received by way of dividend from a pioneer enterprise by a shareholder and the amount is exempt from tax under this section, if that shareholder is a company (referred to in this section as the holding company) which holds, throughout its tax relief period, the beneficial interest in all the issued shares of the pioneer enterprise (or in not less than such proportion of those shares as the Minister may require at the time when the pioneer certificate is issued to that pioneer enterprise) any dividends paid by the holding company to its shareholders, to the extent that the Comptroller is satisfied that those dividends are paid out of that amount, shall be exempt from tax in the hands of those shareholders; and section 44 of the Income Tax Act (Cap. 134) shall not apply in respect of any dividend or part thereof so exempt.
+(9) Where an amount has been received by way of dividends from a company by a shareholder and the amount is exempt from tax under this section, if that shareholder is a company, any dividends paid by that company to its shareholders, to the extent that the Comptroller is satisfied that those dividends are paid out of that amount, shall be exempt from tax in the hands of those shareholders; and section 44 of the Income Tax Act (Cap. 134) shall not apply to any such dividends or part thereof.
 
-(10) Any holding company may, with the approval of the Minister and subject to such conditions as he may impose, pay such exempt dividends to its shareholders even if it has not held the requisite shareholding in the pioneer enterprise for the whole of the tax relief period.
+[44/2002 wef 01/01/2003]
 
 ### Carry forward of loss and allowance
 
@@ -824,13 +824,9 @@ whichever is the earliest; and
 
 [22/87]
 
-(5) Where an amount of dividends debited to the account has been received by a shareholder, and that shareholder is a company (referred to in this section as the holding company) which holds, throughout its tax relief period, the beneficial interest in all the issued shares of the post-pioneer company (or in not less than such proportion of those shares as the Minister may require at the time when the post-pioneer certificate is issued to the post-pioneer company) any dividends paid by the holding company to its shareholders, to the extent that the Comptroller is satisfied that those dividends are paid out of such amount, shall be exempt from tax in the hands of those shareholders; and section 44 of the Income Tax Act shall not apply to any such dividends or part thereof so exempt.
+(5) Where an amount has been received by way of dividends from a company by a shareholder and the amount is exempt from tax under this section, if that shareholder is a company, any dividends paid by that company to its shareholders, to the extent that the Comptroller is satisfied that those dividends are paid out of that amount, shall be exempt from tax in the hands of those shareholders; and section 44 of the Income Tax Act (Cap. 134) shall not apply to any such dividends or part thereof.
 
-[22/87]
-
-(5A) Any holding company may, with the approval of the Minister and subject to such conditions as he may impose, pay such exempt dividends to its shareholders even if it has not held the requisite shareholding in the post-pioneer company for the whole of the tax relief period.
-
-[22/87]
+[44/2002 wef 01/01/2003]
 
 (6) A company shall deliver to the Comptroller a copy of the account made up to any date specified by him whenever called upon to do so by notice in writing.
 
@@ -840,7 +836,7 @@ whichever is the earliest; and
 
 (a) any income of a post-pioneer company which has been subject to tax at the concessionary rate under section 19B; or
 
-(b) any dividend, including a dividend paid by a holding company under subsection (5), which has been exempted from tax in the hands of any shareholder,
+(b) any dividend which has been exempted from tax in the hands of any shareholder,
 
 ought not to have been so taxed or exempted for any year of assessment, the Comptroller may subject to section 74 of the Income Tax Act (Cap. 134) —
 
@@ -1004,9 +1000,9 @@ DEVELOPMENT AND EXPANSION INCENTIVE
 
 [36/96]
 
-(6) Where any amount has been received by way of dividend from a development and expansion company by a shareholder and the amount is exempt from tax under this Part, if that shareholder is a company (referred to in this section as the holding company) which holds, throughout its tax relief period (or such shorter period as the Minister may approve), the beneficial interest in all the issued shares of the company (or in not less than such proportion of those shares as the Minister may approve) any dividends paid by the holding company to its shareholders, to the extent that the Comptroller is satisfied that those dividends are paid out of that amount, shall be exempt from tax in the hands of those shareholders; and section 44 of the Income Tax Act shall not apply in respect of any such dividends or part thereof so exempted.
+(6) Where an amount has been received by way of dividends from a company by a shareholder and the amount is exempt from tax under this section, if that shareholder is a company, any dividends paid by that company to its shareholders, to the extent that the Comptroller is satisfied that those dividends are paid out of that amount, shall be exempt from tax in the hands of those shareholders; and section 44 of the Income Tax Act (Cap. 134) shall not apply to any such dividends or part thereof.
 
-[36/96]
+[44/2002 wef 01/01/2003]
 
 (7) A development and expansion company shall deliver to the Comptroller a copy of the account made up to any date specified by him whenever called upon to do so by notice in writing.
 
@@ -1016,7 +1012,7 @@ DEVELOPMENT AND EXPANSION INCENTIVE
 
 (a) any income of a development and expansion company which has been subject to tax at the concessionary rate under section 19J; or
 
-(b) any dividends, including any dividends paid by a holding company under subsection (6), which have been exempted from tax in the hands of any shareholder,
+(b) any dividends which have been exempted from tax in the hands of any shareholder,
 
 ought not to have been so taxed or exempted for any year of assessment, the Comptroller may, subject to section 74 of the Income Tax Act (Cap. 134) —
 
@@ -1170,7 +1166,7 @@ whichever is the earliest; and
 
 (a) any amount of exempted income of an expanding enterprise; or
 
-(b) any dividend exempted in the hands of any shareholder, including any dividend paid by a holding company to which subsection (9) applies,
+(b) any dividend exempted in the hands of any shareholder,
 
 ought not to have been exempted by reason of a direction under section 9 (as applied to this Part by section 23) or the revocation under section 99 of an expansion certificate issued to the expanding enterprise, the Comptroller may, subject to section 74 of the Income Tax Act (Cap. 134) —
 
@@ -1184,9 +1180,9 @@ ought not to have been exempted by reason of a direction under section 9 (as app
 
 (8) Section 44 of the Income Tax Act shall not apply in respect of any dividend or part thereof which is debited to the account required to be kept for the purposes of this section.
 
-(9) Where an amount has been received by way of dividend from an expanding enterprise by a shareholder and the amount is exempt from tax under this section, if that shareholder is a company (referred to in this section as the holding company) which holds, at the time any dividend is declared, the beneficial interest in all the issued shares of the expanding enterprise (or in not less than such proportion of those shares as the Minister may approve), any dividends paid on or after 1st January 1970 by the holding company to its shareholders, to the extent that the Comptroller is satisfied that those dividends are paid out of that amount, shall be exempt from tax in the hands of those shareholders; and section 44 of the Income Tax Act (Cap. 134) shall not apply in respect of any dividend or part thereof so exempt.
+(9) Where an amount has been received by way of dividends from a company by a shareholder and the amount is exempt from tax under this section, if that shareholder is a company, any dividends paid by that company to its shareholders, to the extent that the Comptroller is satisfied that those dividends are paid out of that amount, shall be exempt from tax in the hands of those shareholders; and section 44 of the Income Tax Act (Cap. 134) shall not apply to any such dividends or part thereof.
 
-[29/91]
+[44/2002 wef 01/01/2003]
 
 ## PART V
 
@@ -1418,7 +1414,7 @@ whichever is the earliest; and
 
 (a) any amount of exempted income of an export enterprise; or
 
-(b) any dividend exempted in the hands of any shareholder, including any dividend paid by a holding company to which subsection (9) applies,
+(b) any dividend exempted in the hands of any shareholder,
 
 ought not to have been exempted by reason of a direction under section 9, as applied to this Part by section 33, having been made with respect to the export enterprise, after any income of that enterprise has been exempted under the provisions of this Act or the revocation under section 99 of a certificate issued to the export enterprise, the Comptroller may, subject to section 74 of the Income Tax Act (Cap. 134) —
 
@@ -1432,9 +1428,9 @@ ought not to have been exempted by reason of a direction under section 9, as app
 
 (8) Section 44 of the Income Tax Act (Cap. 134) shall not apply in respect of any dividend or part thereof which is debited to the account required to be kept for the purposes of this section.
 
-(9) Where an amount has been received by way of dividend from an export enterprise by a shareholder and the amount is exempt from tax under subsections (1) to (8), if that shareholder is a company (referred to in this section as the holding company) which holds, at the time any dividend is declared, the beneficial interest in all the issued shares of the export enterprise (or in not less than such proportion of those shares as the Minister may approve), any dividends paid on or after 1st January 1967 by the holding company to its shareholders, to the extent that the Comptroller is satisfied that those dividends are paid out of that amount, shall be exempt from tax in the hands of those shareholders; and section 44 of the Income Tax Act shall not apply in respect of any dividend or part thereof so exempt.
+(9) Where an amount has been received by way of dividends from a company by a shareholder and the amount is exempt from tax under this section, if that shareholder is a company, any dividends paid by that company to its shareholders, to the extent that the Comptroller is satisfied that those dividends are paid out of that amount, shall be exempt from tax in the hands of those shareholders; and section 44 of the Income Tax Act (Cap. 134) shall not apply to any such dividends or part thereof.
 
-[29/91]
+[44/2002 wef 01/01/2003]
 
 ### Power of entry into premises and taking of samples
 
@@ -2914,9 +2910,9 @@ OVERSEAS ENTERPRISE INCENTIVE
 
 [36/93]
 
-(4) Where an amount of dividends exempt from tax under subsection (3) has been received by a shareholder which is a holding company, the amount shall be credited to a designated account to be kept by the holding company for the purposes of this section.
+(4) Where an amount has been received by way of dividends from a company by a shareholder and the amount is exempt from tax under this Part, if that shareholder is a company, any dividends paid by that company to its shareholders, to the extent that the Comptroller is satisfied that those dividends are paid out of that amount, shall be exempt from tax in the hands of those shareholders; and section 44 of the Income Tax Act (Cap. 134) shall not apply to any such dividends or part thereof.
 
-[4/98]
+[44/2002 wef 01/01/2003]
 
 (4A) Notwithstanding subsections (3) and (4), no dividend paid on any share of a preferential nature shall be exempt from tax under this section in the hands of the shareholder.
 
@@ -2926,21 +2922,25 @@ OVERSEAS ENTERPRISE INCENTIVE
 
 [44/2002 wef 20/12/2002]
 
-(5) The overseas enterprise or the holding company shall deliver to the Comptroller a statement of the account or designated account, as the case may be, made up to any date specified by him, if the Comptroller so requires by written notice.
+(4C) [Deleted by Act 44/2002 wef 20/12/2002]
 
-[36/93; 4/98]
+(4D) [Deleted by Act 44/2002 wef 20/12/2002]
+
+(5) The overseas enterprise or any company to which this section applies shall deliver to the Comptroller a statement of the account made up to any date specified by him, if the Comptroller so requires by written notice.
+
+[44/2002 wef 01/01/2003]
 
 (6) Notwithstanding section 97P and subsections (1) to (5), where it appears to the Comptroller that —
 
 (a) any amount of exempted income of an overseas enterprise; or
 
-(b) any dividend exempted in the hands of any shareholder, including any dividend paid by a holding company to which subsection (4B) applies or by a relevant holding company to which subsection (4C) applies,
+(b) any dividend exempted in the hands of any shareholder,
 
 ought not to have been exempted by reason of a direction under section 97L, having been made with respect to the overseas enterprise, after any income of that enterprise has been exempted under the provisions of this Act or the revocation under section 99 of a certificate issued to the overseas enterprise, the Comptroller may, subject to section 74 of the Income Tax Act (Cap. 134) —
 
 (i) make such assessment or additional assessment upon the overseas enterprise or any such shareholders as may appear to be necessary in order to counteract any profit or income obtained from any such amount which ought not to have been exempted; or
 
-(ii) direct the overseas enterprise or any such shareholders to debit its account or designated account, as the case may be, with such amount as the circumstances require.
+(ii) direct the overseas enterprise or any such shareholders to debit its account with such amount as the circumstances require.
 
 [36/93; 1/95; 4/98]
 
@@ -2949,22 +2949,6 @@ ought not to have been exempted by reason of a direction under section 97L, havi
 [36/93]
 
 (8) Section 44 of the Income Tax Act shall not apply to any dividends or part thereof which are exempt from tax under this section.
-
-[4/98]
-
-(9) For the purposes of this section, the Minister or such person as he may appoint may approve as a holding company any company which owns less than 50% beneficial interest in the issued share capital of the company paying the dividends at the time such dividends are received by the company.
-
-[4/98]
-
-(10) Subsections (4) to (8) shall apply, with the necessary modifications, to any dividends received by a relevant holding company where the Comptroller is satisfied that such dividends are paid out of any income exempt from tax under this section.
-
-[4/98]
-
-(11) In this section —
-
-“holding company” means a company which owns not less than 50% beneficial interest in the issued share capital of the overseas enterprise paying the dividends at the time such dividends are received by the company, and includes a company approved under subsection (9);
-
-“relevant holding company” means any holding company of another holding company.
 
 [4/98]
 
@@ -3336,6 +3320,11 @@ This Legislative History is provided for the convenience of users of the Economi
 |||(Bill No. 7/2004 published on 28 February 2004)|
 ||Date of Second and Third Readings|20 April 2004|
 ||Date of commencement|20 December 2002|
+|26.|**Act 44 of 2002—Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2002**|
+||Date of First Reading|25 November 2002|
+|||(Bill No. 46/2002 published on 26 November 2002)|
+||Date of Second and Third Readings|5 December 2002|
+||Date of commencement|1 January 2003|
 ## COMPARATIVE TABLE
 
 Economic Expansion Incentives (Relief from Income Tax) Act
