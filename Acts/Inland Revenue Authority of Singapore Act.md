@@ -164,7 +164,7 @@ FUNCTIONS AND POWERS OF AUTHORITY
 
 ### Functions of Authority
 
-6\. The functions of the Authority are —
+6\.—(1) The functions of the Authority are —
 
 (a) to act as agent of the Government and provide service in administering, assessing, collecting and enforcing payment of income tax, property tax, estate duty, stamp duties, betting and sweepstake duties, private lotteries duty and such other taxes as may be agreed between the Government and the Authority;
 
@@ -179,6 +179,10 @@ FUNCTIONS AND POWERS OF AUTHORITY
 (f) to provide service and advice to the Government and statutory bodies in respect of matters relating to the valuation of immovable properties; and
 
 (g) to perform such other functions as are conferred on the Authority by any other written law.
+
+(2) In addition to the functions imposed by this section, the Authority may undertake such other functions as the Minister may assign to the Authority and in so doing the Authority shall be deemed to be fulfilling the purposes of this Act and the provisions of this Act shall apply to the Authority in respect of such functions.
+
+[Act 5/1996 wef 09/02/1996]
 
 ### Powers of Authority
 
@@ -272,7 +276,7 @@ FINANCIAL PROVISIONS
 
 ### Grants
 
-14\. For the purpose of enabling the Authority to carry out its functions under this Act, the Minister may from time to time make grants-in-aid to the Authority of such sums of moneys as the Minister may determine out of money to be provided by Parliament.
+14\. For the purpose of enabling the Authority to carry out its functions under this Act, the Minister may from time to time make grants-in-aid to the Authority of such sums of moneys as the Minister may determine out of moneys to be provided by Parliament.
 
 ### Bank accounts and application of revenue
 
@@ -296,7 +300,7 @@ TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES
 
 18\.—(1) As from 1st September 1992, all movable property vested in the Government immediately before that date and used or managed by the Inland Revenue Department, and all assets, interests, rights, privileges, liabilities and obligations of the Government relating to that Department (other than those in connection with taxes or licence fees for which the Department is responsible) shall be transferred to and shall vest in the Authority without further assurance.
 
-(2) If any question arises as to whether any particular property, or whether any particular asset, interest, right, privilege, liability or obligation has been transferred to or vested in the Authority under subsection (1), a certificate under the hand of the Minister for Finance shall be conclusive evidence that the property, asset, interest, right, privilege, liability or obligation was or was not so transferred or vested.
+(2) In any question arises as to whether any particular property, or whether any particular asset, interest, right, privilege, liability or obligation has been transferred to or vested in the Authority under subsection (1), a certificate under the hand of the Minister for Finance shall be conclusive evidence that the property, asset, interest, right, privilege, liability or obligation was or was not so transferred or vested.
 
 ### Transfer of employees
 
@@ -466,7 +470,7 @@ Procedure at meetings
 
 Validity of proceedings
 
-15\. The validity of any proceedings of the Authority shall not be affected by any defect in the appointment of any member or by any contravention of paragraph 10 by any member.
+15\. The validity of any proceedings of the Authority shall not be affected by any defect in the appointment of any member or any contravention of paragraph 10 by any member.
 
 SECOND SCHEDULE
 
@@ -474,7 +478,7 @@ Section 17
 
 Financial provisions
 
-1\. The financial year of the Authority shall begin on 1st April of each year and end on 31st March of the succeeding year, except that the first financial year of the Authority shall begin on the date of its establishment and shall end on 31st March 1993.
+1\. The financial year of the Authority shall being on 1st April of each year and end on 31st March of the succeeding year, except that the first financial year of the Authority shall begin on the date of its establishment and shall end on 31st March 1993.
 
 2\. The Authority shall keep proper accounts and records of its transactions and affairs and shall do all things necessary to ensure that all payments out of its moneys are correctly made and properly authorised and that adequate control is maintained over the assets of, or in the custody of, the Authority and over the expenditure incurred by the Authority.
 
@@ -581,3 +585,8 @@ This Legislative History is provided for the convenience of users of the Inland 
 ||Date of operation|15 March 1993|
 |3.|**G.N. No. S 37/94—Inland Revenue Authority of Singapore Act (Amendment of Third and Fourth Schedules) Order 1994**|
 ||Date of commencement|28 January 1994|
+|4.|**Act 5 of 1996—Inland Revenue Authority of Singapore (Amendment) Act 1996**|
+||Date of First Reading|5 December 1995|
+|||(Bill No. 42/95 published on 6 December 1996)|
+||Date of Second and Third Readings|18 January 1996|
+||Date of commencement|9 February 1996|
