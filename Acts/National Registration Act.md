@@ -22,6 +22,8 @@
 
 - [8 Change of residence](#Change-of-residence)
 
+- [8A Transmission of information of change of a person’s place of residence to Government departments, statutory authorities and public officers](#Transmission-of-information-of-change-of-a-person’s-place-of-residence-to-Government-departments-statutory-authorities-and-public-officers)
+
 - [9 Returns by householders](#Returns-by-householders)
 
 - [10 Cancellation of registration](#Cancellation-of-registration)
@@ -112,6 +114,10 @@ An Act for the registration of persons in Singapore, for the issue of identity c
 
 (2) All identity cards issued under this Act before such date shall cease to be valid on the expiration of the period within which persons in possession of such identity cards are required to be re-registered under subsection (1).
 
+(3) Nothing in this section shall prevent the re-registration of a person who fails to re-register within the period specified in subsection (1).
+
+[28/1994 wef 01/03/1995]
+
 [20/90]
 
 ### Issue of identity cards
@@ -123,6 +129,26 @@ An Act for the registration of persons in Singapore, for the issue of identity c
 ### Change of residence
 
 8\. Any person registered under the provisions of this Act who changes his place of residence shall, within 28 days thereof, report the change to a registration officer.
+
+### Transmission of information of change of a person’s place of residence to Government departments, statutory authorities and public officers
+
+8A\.—(1) Where —
+
+(a) any person is required by any written law to inform any Government department, statutory authority or public officer of any change of his place of residence; and
+
+(b) it is provided by such written law that that person shall be deemed to have complied with the requirement thereunder to inform the Government department, statutory authority or public officer of any change of his place of residence if he makes a report of the change under section 8,
+
+the Commissioner shall, upon that person making a report of a change of his place of residence under section 8, transmit to the Government department, statutory authority or public officer information of the change of that person’s place of residence as reported by him.
+
+(2) Where the Commissioner has transmitted information of a change of a person’s place of residence to any Government department, statutory authority or public officer under subsection (1) —
+
+(a) neither the Government nor any registration officer nor any authorised person involved in the transmission of the information shall be liable for any loss or damage suffered by any person as a result of any error or omission of whatever nature appearing in the information transmitted or however caused if such error or omission was made in good faith and in the ordinary course of the discharge of the duties of such registration officer or authorised person; and
+
+(b) the Government department, statutory authority or public officer to which or to whom the information has been transmitted shall not be liable for any loss or damage suffered by any person as a result of any error or omission of whatever nature appearing in the information transmitted or however caused by any registration officer or authorised person involved in the transmission of the information.
+
+(3) For the purpose of this section, “public officer” shall include the holder of any statutory office.
+
+[28/1994 wef 01/03/1995]
 
 ### Returns by householders
 
@@ -198,7 +224,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 10 years or to both.
 
-(3) The Commissioner may accept from any person who is reasonably suspected of having committed an offence under subsection (1)(b) or (c) a sum not exceeding $200 by way of composition for the offence which may have been committed.
+(3) The Commissioner may accept from any person who is reasonably suspected of having committed an offence under subsection (1)(a), (b) or (c) a sum not exceeding $200 by way of composition for the offence which may have been committed.
+
+[28/1994 wef 01/03/1995]
 
 (4) Any person who aids or abets in the commission of any offence under this Act shall be guilty of an offence.
 
@@ -345,3 +373,8 @@ This Legislative History is provided for the convenience of users of the Nationa
 ||Date of commencement|3 June 1991|
 |6.|**1992 Revised Edition—National Registration Act**|
 ||Date of operation|9 March 1992|
+|7.|**Act 28 of 1994—National Registration (Amendment) Act 1994**|
+||Date of First Reading|31 October 1994|
+|||(Bill No. 30/1994 published on 1 November 1994)|
+||Date of Second and Third Readings|5 December 1994|
+||Date of commencement|1 March 1995|
