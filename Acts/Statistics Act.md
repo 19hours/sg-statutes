@@ -330,6 +330,10 @@ Subject-matters
 
 23\. Income and expenditure
 
+23A. Information and communications technology
+
+[S 501/2000 wef 01/11/2000]
+
 24\. Insurance
 
 25\. Internal trade
@@ -389,6 +393,10 @@ Research and Statistics Units
 6\. Manpower Research and Statistics Department of the Ministry of Manpower.
 
 7\. Statistics Unit, Financial Supervision Group of the Monetary Authority of Singapore.
+
+8. Research and Statistics Unit of the Info-communications Development Authority of Singapore.
+
+[S 502/2000 wef 01/11/2000]
 
 THIRD SCHEDULE
 
@@ -467,6 +475,10 @@ This Legislative History is provided for the convenience of users of the Statist
 ||Date of commencement|16 April 1999|
 |10.|**1999 Revised Edition—Statistics Act (Chapter 317)**|
 ||Date of operation|30 December 1999|
+|11.|**G.N. No. S 501/2000—Statistics Act (Amendment of First Schedule) Notification 2000**|
+||Date of commencement|1 November 2000|
+|12.|**G.N. No. S 502/2000—Statistics Act (Amendment of Second Schedule) Notification 2000**|
+||Date of commencement|1 November 2000|
 ## COMPARATIVE TABLE
 
 Statistics Act
