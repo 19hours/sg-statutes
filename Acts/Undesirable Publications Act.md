@@ -38,7 +38,7 @@
 
 - [16 Examination of persons entering Singapore, etc.](#Examination-of-persons-entering-Singapore-etc)
 
-- [17 Corporate offenders](#Corporate-offenders)
+- [17 Corporate offenders and unincorporated associations](#Corporate-offenders-and-unincorporated-associations)
 
 - [18 Appointment of controllers and authorised officers](#Appointment-of-controllers-and-authorised-officers)
 
@@ -72,7 +72,7 @@ An Act to prevent the importation, distribution or reproduction of undesirable p
 
 2\. In this Act, unless the context otherwise requires —
 
-“authorised officer” means a public officer appointed under section 18(3) by the Minister to be an authorised officer for the purposes of this Act;
+“authorised officer” means a person appointed under section 18(3) by the Minister to be an authorised officer for the purposes of this Act;
 
 “broadcast” has the same meaning as in the Copyright Act (Cap. 63) and “broadcasting” shall have a corresponding meaning;
 
@@ -80,7 +80,7 @@ An Act to prevent the importation, distribution or reproduction of undesirable p
 
 “circulation”, in relation to any publication, includes the exhibition or supply thereof;
 
-“controller” means a public officer appointed under section 18(1) by the Minister to be a controller;
+“controller” means a person appointed under section 18(1) by the Minister to be a controller;
 
 “electronic transmission” includes facsimile transmission, electronic mail or other similar means of communication but excludes broadcasting;
 
@@ -384,19 +384,35 @@ the publication or equipment shall be returned to the person from whom they were
 
 [9/98]
 
-### Corporate offenders
+### Corporate offenders and unincorporated associations
 
-17\. Where an offence under this Act has been committed by a body corporate, a partnership or an unincorporated association of persons, any person who at the time of the commission of the offence was a director, manager, partner, secretary or other similar officer thereof, or was purporting to act in any such capacity, shall also be guilty of that offence unless he proves that —
+17\. —(1) Where an offence under this Act committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, an officer of the body corporate, the officer as well as the body corporate shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
 
-(a) the offence was committed without his consent or connivance; and
+(2) Where the affairs of the body corporate are managed by its members, subsection (1) shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
 
-(b) he had exercised all such diligence to prevent the commission of the offence as he ought to have exercised having regard to the nature of his functions in that capacity and to all the circumstances. [12
+(3) Proceedings for an offence alleged to have been committed under this Act by an unincorporated association shall be brought against the association in its own name (and not in that of any of its members) and, for the purposes of any such proceedings, any rules of court relating to service of documents shall have effect as if the association were a corporation.
 
-[9/98]
+(4) Where an offence under this Act committed by a partnership is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner, the partner as well as the partnership shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+(5) Where an offence under this Act committed by an unincorporated association (other than a partnership) is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, an officer of the association or a member of its governing body, the officer or member as well as the association shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+(6) The Minister may make regulations to provide for the application of any provision of this section, with such modifications as the Minister considers appropriate, to a body corporate or unincorporated association formed or recognised under the law of a country or territory outside Singapore.
+
+(7) In this section —
+
+“officer” —
+
+(a) in relation to a body corporate, means a director, member of the committee of management, chief executive, manager, secretary or other similar officer of the body or person purporting to act in any such capacity; or
+
+(b) in relation to an unincorporated association (other than a partnership), means the president, the secretary, a member of the committee of the association, or any person holding a position analogous to that of president, secretary or member of the committee;
+
+“partner” includes a person purporting to act as a partner.
+
+[34/2002 wef 01/01/2003]
 
 ### Appointment of controllers and authorised officers
 
-18\.—(1) The Minister may, by notification in theGazette, appoint any public officer to be a controller for the purposes of this Act.
+18\.—(1) The Minister may, by notification in theGazette, appoint any person to be a controller for the purposes of this Act.
 
 [9/98]
 
@@ -404,7 +420,7 @@ the publication or equipment shall be returned to the person from whom they were
 
 [9/98]
 
-(3) The Minister may also appoint any other public officer to be an authorised officer to assist any controller or the Chief Controller in the discharge of his duties under this Act.
+(3) The Minister may also appoint any other person to be an authorised officer to assist any controller or the Chief Controller in the discharge of his duties under this Act.
 
 [9/98]
 
@@ -462,6 +478,10 @@ the publication or equipment shall be returned to the person from whom they were
 
 [9/98]
 
+(5) All fees collected under this section shall be paid to the Media Development Authority of Singapore established under the Media Development Authority of Singapore Act 2002.
+
+[34/2002 wef 01/01/2003]
+
 ## LEGISLATIVE HISTORY
 
 Undesirable Publications Act
@@ -504,3 +524,9 @@ This Legislative History is provided for the convenience of users of the Undesir
 ||Date of commencement|1 April 1998|
 |8.|**1998 Revised Edition—Undesirable Publications Act**|
 ||Date of operation|15 December 1998|
+|9.|**Act 34 of 2002—Media Development Authority of Singapore Act 2002**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|1 October 2002|
+|||(Bill No. 37/2002 published on 2 October 2002)|
+||Date of Second and Third Readings|31 October 2002|
+||Date of commencement|1 January 2003|
