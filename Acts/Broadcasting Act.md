@@ -134,7 +134,7 @@
 
 - [51 Financial structure of broadcasting successor companies](#Financial-structure-of-broadcasting-successor-companies)
 
-- [52 Application of Companies Act in relation to offer of shares or debentures of broadcasting successor companies](#Application-of-Companies-Act-in-relation-to-offer-of-shares-or-debentures-of-broadcasting-successor-companies)
+- [52 Application of Securities and Futures Act 2001 in relation to offer of shares or debentures of broadcasting successor companies](#Application-of-Securities-and-Futures-Act-2001-in-relation-to-offer-of-shares-or-debentures-of-broadcasting-successor-companies)
 
 - [53 Application of Trustees Act in relation to investment in broadcasting successor companies](#Application-of-Trustees-Act-in-relation-to-investment-in-broadcasting-successor-companies)
 
@@ -1004,9 +1004,9 @@ TRANSFER OF UNDERTAKING
 
 (6) References in this section to the statutory accounts of a broadcasting successor company are references to any accounts prepared by the company for the purposes of any provision of the Companies Act [Cap. 50].
 
-### Application of Companies Act in relation to offer of shares or debentures of broadcasting successor companies
+### Application of Securities and Futures Act 2001 in relation to offer of shares or debentures of broadcasting successor companies
 
-52\.—(1) This section shall apply where the Minister for Finance or the company to which securities of any broadcasting successor company are issued at the direction of the Minister for Finance under section 50(1) offers for sale to the public shares or debentures of the broadcasting successor company; and in this section, “full prospectus” means a prospectus which complies, or is deemed to comply, with the requirements of a prospectus under the Companies Act [Cap. 50].
+52\.—(1) This section shall apply where the Minister for Finance or the company to which securities of any broadcasting successor company are issued at the direction of the Minister for Finance under section 50(1) offers for sale to the public shares or debentures of the broadcasting successor company; and in this section, “full prospectus” means a prospectus which complies, or is deemed to comply, with the requirements of a prospectus under the Securities and Futures Act 2001.
 
 (2) If the shares or debentures are offered by a full prospectus in respect of which the conditions mentioned in subsection (3) are fulfilled (referred to in this section as the offer prospectus), any form of application for the shares or debentures may (instead of being issued with a full prospectus) be issued with a notice given by the Minister for Finance which includes —
 
@@ -1018,7 +1018,9 @@ TRANSFER OF UNDERTAKING
 
 (3) The conditions referred to in subsection (2) are —
 
-(a) that a copy of the prospectus has been delivered to the Registrar of Companies in pursuance of section 50 of the Companies Act; and
+(a) that the prospectus has been lodged with the Monetary Authority of Singapore established under the Monetary Authority of Singapore Act (Cap.186) under section 240 of the Securities and Futures Act 2001; and
+
+[42/2001 wef 01/07/2002]
 
 (b) that arrangements have been made with a view to securing that on or before the date of receipt of the form of application by a member of the public copies are generally available in Singapore to members of the public.
 
@@ -1598,3 +1600,9 @@ This Legislative History is provided for the convenience of users of the Singapo
 |||(Bill No. 19/2001 published on 16 March 2001)|
 ||Date of Second and Third Readings|19 April 2001|
 ||Date of commencement|21 May 2001|
+|6.|**Act 42 of 2001—Securities and Futures Act 2001**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|25 September 2001|
+|||(Bill No. 33/2001 published on 26 September 2001)|
+||Date of Second and Third Readings|5 October 2001|
+||Date of commencement|1 July 2002 (Item (12) of the Fourth Schedule – Amendment of Singapore Broadcasting Authority Act)|
