@@ -208,7 +208,7 @@ GENERAL PROVISIONS OF INTERPRETATION
 
 “export”, with its grammatical variations and cognate expressions, means to take or cause to be taken out of Singapore by land, sea or air;
 
-“Gazette” or “Government Gazette” means theGazettepublished by order of the Government and includes any supplement thereto and anyGazetteExtraordinary so published;
+“Gazette” or “GovernmentGazette” means theGazettepublished in electronic or other form by order of the Government and includes any supplement thereto and anyGazetteExtraordinary so published;
 
 “Government” means the Government of Singapore;
 
@@ -355,6 +355,10 @@ words in the singular include the plural and words in the plural include the sin
 [4/96]
 
 (4) Where an Act authorises or requires any document to be served by post, whether the word “serve”, “give” or “send” or any other word is used, then, unless a contrary intention appears, the service shall be deemed to be effected by properly addressing, prepaying and posting a letter containing the document, and, unless the contrary is proved, shall be deemed to have been effected at the time at which the letter would be delivered in the ordinary course of post.
+
+(5) Where aGazetteis published in more than one form, the date of publication of thatGazetteshall be deemed to be the date thatGazetteis first published in any form.
+
+[Act 25/1998]
 
 ## PART II
 
@@ -530,9 +534,13 @@ SUBSIDIARY LEGISLATION
 
 (i) authority to provide that a contravention thereof shall be punishable by a fine not exceeding $2,000 or with imprisonment for a term not exceeding one year or both as may be specified in the subsidiary legislation;
 
-(ii) authority to amend any forms prescribed by the written law under which the subsidiary legislation was made; and
+(ii) authority to amend any forms prescribed by the written law under which the subsidiary legislation was made;
 
-(iii) authority to prescribe new forms for the purpose thereof and for the purpose of the subsidiary legislation;
+(iii) authority to prescribe new forms for the purpose thereof and for the purpose of the subsidiary legislation; and
+
+(iv) authority to provide for the manner and method in which any document, record, application, permit, approval or licence may be submitted, issued or served by electronic means, or for the authentication thereof;
+
+[Act 25/1998]
 
 (b) authority to provide for fees and charges shall include authority to provide for the determination of the manner and method of payment and the reduction, waiver or refund thereof, either generally or in any particular event or case or class of cases or in the discretion of any person; and
 
@@ -988,3 +996,9 @@ This Legislative History is provided for the convenience of users of the Interpr
 
 |
 (Section 2 — Amendment of Interpretation Act)|
+|12.|**Act 25 of 1998—Electronic Transactions Act 1998**|
+||(Consequential amendments made by)||
+||Date of First Reading|1 June 1998|
+|||(Bill No. 23/98 published on 2 June 1998)|
+||Date of Second and Third Readings|29 June 1998|
+||Date of commencement|10 July 1998|
