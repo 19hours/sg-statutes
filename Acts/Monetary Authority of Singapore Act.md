@@ -218,8 +218,6 @@ ESTABLISHMENT, CAPITAL AND ADMINISTRATION OF AUTHORITY
 
 (e) to exercise the powers and to perform the duties and functions conferred on the Authority under the Business Trusts Act 2004 and by any other written law.
 
-[30/2004 wef 12/10/2004]
-
 ### Authorised capital
 
 5\.—(1) The authorised capital of the Authority shall be $100 million.
@@ -884,9 +882,9 @@ FINANCIAL SECTOR DEVELOPMENT FUND
 
 ### Investment
 
-30C\.—(1) The Authority may invest the moneys of the Fund available for investment in such manner as trustees may by any written law be authorised to invest, or in such other manner as the Minister may determine.
+30C\.—(1) The Authority may invest the moneys of the Fund in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
 
-[27/99]
+[45/2004 wef 15/12/2004]
 
 (2) The Authority may delegate all or any of its powers and functions under subsection (1) to any employee or agent as it may appoint.
 
@@ -1096,6 +1094,11 @@ This Legislative History is provided for the convenience of users of the Monetar
 |||(Bill No. 28/2004 published on 24 September 2004)|
 ||Date of Second and Third Readings|1 September 2004|
 ||Date of commencement|12 October 2004|
+|20.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
+||Date of First Reading|21 September 2004|
+|||(Bill No. 43/2004 published on 12 November 2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|15 December 2004|
 ## COMPARATIVE TABLE
 
 Monetary Authority of Singapore Act
