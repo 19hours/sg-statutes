@@ -1456,6 +1456,8 @@ Methyldihydromorphine (6-methyldihydromorphine).
 
 Metopon.
 
+Monoacetylmorphine.
+
 Morpheridine.
 
 Morphine.
@@ -2570,6 +2572,10 @@ Specified Drugs
 
 1\. Diamorphine
 
+1A. Monoacetylmorphine
+
+[S 30/2004 wef 30/01/2004]
+
 2\. Morphine
 
 3. Opium.
@@ -2679,6 +2685,8 @@ This Legislative History is provided for the convenience of users of the Misuse 
 ||Date of operation|31 July 2001|
 |32.|**G. N. No. S 493/2001—Misuse of Drugs Act (Amendment of First Schedule) Order 2001**|
 ||Date of commencement|8 October 2001|
+|33.|**G. N. No. S 30/2004—Misuse of Drugs Act (Amendment of First and Fourth Schedules) Order 2004**|
+||Date of commencement|30 January 2004|
 ## COMPARATIVE TABLE
 
 Misuse of Drugs Act
