@@ -528,6 +528,10 @@ FUNCTIONS AND POWERS OF A TOWN COUNCIL
 
 (b) properly maintain and keep in a state of good and serviceable repair the common property of the residential and commercial property;
 
+(ba) contribute such sum towards the premiums to be paid by the Board for the insurance of the common property of the residential and commercial property against damage by fire as the Minister may, by notice in writing to the Town Council, determine;
+
+[6/99 wef 08/02/1999]
+
 (c) where necessary, renew or replace any fixtures or fittings comprised in the common property of the residential and commercial property;
 
 (d) provide essential maintenance and lift rescue services to the residents of the residential and commercial property;
@@ -680,7 +684,7 @@ FINANCIAL PROVISIONS
 
 ### Constitution of Town Council Fund
 
-33\.—(1) For the purposes of improving, managing and maintaining the common property of residential and commercial property in the housing estates of the Board, a Town Council shall establish and maintain separate funds for improvements to and the management and maintenance of residential property, market and food centres and of other commercial property; and such funds shall together constitute the Town Council Fund and shall, with all property which is or may become vested in the Town Council, be under the direction and control of the Town Council subject to the provisions of this Act.
+33\.—(1) For the purposes of improving, managing and maintaining the common property of residential and commercial property in the housing estates of the Board, a Town Council shall establish and maintain separate funds for improvements to and the management and maintenance of residential property and of commercial property; and such funds shall together constitute the Town Council Fund and shall, with all property which is or may become vested in the Town Council, be under the direction and control of the Town Council subject to the provisions of this Act.
 
 [18/92]
 
@@ -688,23 +692,31 @@ FINANCIAL PROVISIONS
 
 (3) All moneys of the Town Council Fund that are not immediately required shall be paid into the appropriate fund established under subsection (1) to which the moneys relate and be applicable only to meet such expenses and liabilities as are properly attributable to that fund.
 
-(4) A Town Council shall establish and maintain, as part of the Town Council Fund, separate sinking funds for improvements to and the management and maintenance of residential property, market and food centres and of other commercial property.
+(4) A Town Council shall establish and maintain, as part of the Town Council Fund, separate sinking funds for improvements to and the management and maintenance of residential property and of commercial property.
 
 [18/92]
 
-(5) The Minister may, from time to time, prescribe the minimum amount of the conservancy and service charges paid, and of any grants-in-aid made, to a Town Council under sections 38 and 41 to be paid into the sinking funds established for residential property, market and food centres and for other commercial property.
+(5) The Minister may, from time to time, prescribe the minimum amount of —
+
+(a) the conservancy and service charges which are paid, or are due and payable, or both, to a Town Council under section 38; and
+
+(b) any grants-in-aid made to a Town Council under section 41,
+
+to be paid or credited into the sinking funds established for residential property and for commercial property.
+
+[6/99 wef 08/02/1999]
 
 (6) A Town Council shall not disburse any moneys —
 
 (a) from any sinking fund otherwise than for the purposes of meeting expenses or liabilities properly attributable to that sinking fund in respect of —
 
-(i) cyclical major repainting of any part of the common property of residential property , market and food centres and other commercial property in the housing estates of the Board within the Town;
+(i) cyclical major repainting of any part of the common property of residential property and commercial property in the housing estates of the Board within the Town;
 
 (ii) renewal or replacement of any roofing system, water tanks, pumps and water supply system, electrical supply system, lightning protection system and lifts existing for common use or purposes of residents of residential or commercial property in the housing estates of the Board within the Town;
 
 [18/92]
 
-(iii) major repairs and maintenance of the common property of residential property , market and food centres and other commercial property and boundary walls of the housing estates of the Board within the Town;
+(iii) major repairs and maintenance of the common property of residential property and commercial property and boundary walls of the housing estates of the Board within the Town;
 
 (iv) improvement contributions due to the Board in respect of general upgrading works carried out under Part IVA of the Housing and Development Act (Cap. 129) on any part of the common property in the housing estates of the Board within the Town; or
 
@@ -713,6 +725,10 @@ FINANCIAL PROVISIONS
 (v) any other works which may be prescribed from time to time; or
 
 (b) from the Town Council Fund otherwise than for the purpose of exercising its powers or carrying out its duties and functions under this Act or any other Act.
+
+(6A) Notwithstanding anything in this section, a Town Council may, with the approval of the Minister, disburse moneys from the Town Council Fund to repair and maintain any facility erected within the Town that is outside the common property of the residential and commercial property in the housing estates of the Board within the Town where the owner of the property on which the facility is erected consents.
+
+[6/99 wef 08/02/1999]
 
 (7) All payments to and out of the Town Council Fund shall be made to and by the secretary who shall be responsible therefor to the Town Council.
 
@@ -728,11 +744,11 @@ FINANCIAL PROVISIONS
 
 (11) In this section —
 
-“designated land” means any land or housing estate vested in the Board which the Minister, by notification in theGazette, designates as land to which section 126A of the Land Titles (Strata) Act (Cap. 158) applies;
+“commercial property” means any commercial property which does not form part of any residential property and includes any market and food centre;
 
-“other commercial property” means any commercial property which does not form part of any residential property.
+[6/99 wef 08/02/1999]
 
-[37/96]
+“designated land” means any land or housing estate vested in the Board which the Minister, by notification in theGazette, designates as land to which section 126A of the Land Titles (Strata) Act (Cap. 158) applies.
 
 ### Transfer of surpluses after Parliamentary election
 
@@ -938,7 +954,13 @@ the Town Council shall, as soon as practicable after the relevant date specified
 
 (b) remitted or refunded in whole or in part.
 
-(10) A Town Council may under this section levy different rates of charges in respect of different types of flats in any residential or commercial property and of stalls in any market or food centre of the Board and in respect of different uses of such flats and stalls.
+(10) A Town Council may under this section levy different rates of charges in respect of flats in any residential or commercial property or of stalls in any market or food centre of the Board in accordance with such criteria as it may determine.
+
+[6/99 wef 08/02/1999]
+
+(10A) Without prejudice to the generality of subsection (10), a Town Council may differentiate the rates of charges to take into account any grants-in-aid made under section 41 which are expressed to be for the benefit of any class of owners of flats.
+
+[6/99 wef 08/02/1999]
 
 (11) Any written demand required by this section to be served on the owner or tenant of a flat or stall shall be deemed to be sufficiently served —
 
@@ -1249,3 +1271,8 @@ This Legislative History is provided for the convenience of users of the Town Co
 ||Date of commencement|1 December 1996|
 |6.|**1997 Revised Edition—Town Councils Act**|
 ||Date of operation|30 May 1997|
+|7.|**Act 6 of 1999—Town Councils (Amendment) Act 1999**|
+||Date of First Reading|23 November 1998|
+|||(Bill No. 53/98 published on 24 November 1998)|
+||Date of Second and Third Readings|20 January 1999|
+||Date of commencement|8 February 1999|
