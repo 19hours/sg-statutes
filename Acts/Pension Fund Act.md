@@ -120,7 +120,7 @@ PENSION FUND
 
 ### Investment
 
-5\. All moneys belonging to the Pension Fund may be deposited in a bank and may be invested in any investment authorised under section 7 of the Financial Procedure Act (Cap. 109).
+5\. All moneys belonging to the Pension Fund may be deposited in a bank and may be invested in any investment authorised under section 7 of the Financial Procedure Act [Cap. 109].
 
 ## PART III
 
@@ -160,17 +160,19 @@ APPLICATION OF PENSION FUND
 
 9\.—(1) The Minister may by warrant under his hand authorise the transfer to the Consolidated Fund any moneys in the Pension Fund which, in the opinion of the Minister, are not required to meet the liabilities of the Pension Fund.
 
-[Act 12/98]
+[12/98 wef 01/04/1998]
 
 (2) The Minister may by warrant under his hand authorise the transfer to the SAVER-Premium Fund established under section 205B of the Singapore Armed Forces Act (Cap. 295) such moneys in the Pension Fund as the Minister may determine as the value of that part of the Pension Fund relating to all those servicemen in the Singapore Armed Forces who opted in favour of joining the SAVER Plan or Premium Plan established under section 205A of the Singapore Armed Forces Act.
 
-[Act 12/98]
+[12/98 wef 01/04/1998]
 
-(3) The Minister may by warrant under his hand authorise the transfer to the INVEST Fund established under section 12 of the Home Affairs Uniformed Services Superannuation Act 2001 such moneys in the Pension Fund as the Minister may determine as the value of that part of the Pension Fund relating to all those public officers who opted in favour of joining the INVEST Plan established under that Act .
+[10/2000 wef 31/03/2000]
+
+(3) The Minister may by warrant under his hand authorise the transfer to the INVEST Fund established under section 12 of the Home Affairs Uniformed Services Superannuation Act 2001 such moneys in the Pension Fund as the Minister may determine as the value of that part of the Pension Fund relating to all those public officers who opted in favour of joining the INVEST Plan established under that Act and to all public officers who opted in favour of joining the Occupational Superannuation Scheme under the Prevention of Corruption Act (Cap. 241).
 
 [33/2001 wef 01/10/2001]
 
-[29/2002 wef 30/01/2002]
+[29/2002 wef 30/01/2003]
 
 ### Withdrawals
 
@@ -307,3 +309,9 @@ This Legislative History is provided for the convenience of users of the Pension
 |||(Bill No. 31/2001 published on 26 July 2001)|
 ||Date of Second and Third Readings|13 August 2001|
 ||Date of commencement|1 October 2001|
+|6.|**Act 29 of 2002—Prevention of Corruption (Amendment) Act 2002**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|1 October 2002|
+|||(Bill No. 29/2002 published on 2 October 2002)|
+||Date of Second and Third Readings|31 October 2002|
+||Date of commencement|30 January 2003|
