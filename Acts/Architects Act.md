@@ -6,7 +6,7 @@
 
 [**Long Title**](#Architects-Act)
 
-[**PRELIMINARY**](#PRELIMINARY)
+[**Part I PRELIMINARY**](#Part-I)
 
 - [1 Short title](#Short-title)
 
@@ -17,6 +17,8 @@
 [**Part II BOARD OF ARCHITECTS**](#Part-II)
 
 - [4 Establishment of Board of Architects](#Establishment-of-Board-of-Architects)
+
+- [4A Constitution and proceedings of Board](#Constitution-and-proceedings-of-Board)
 
 - [5 Common seal of Board](#Common-seal-of-Board)
 
@@ -92,29 +94,15 @@
 
 - [35 Offences by bodies corporate, etc.](#Offences-by-bodies-corporate-etc)
 
-- [36 Rules](#Rules)
+- [36 Exemption](#Exemption)
 
-- [37 Exemption](#Exemption)
+- [37 No action in absence of bad faith or malice](#No-action-in-absence-of-bad-faith-or-malice)
 
-- [38 No action in absence of bad faith or malice](#No-action-in-absence-of-bad-faith-or-malice)
-
-[**Part IX SAVINGS AND TRANSITIONAL PROVISIONS**](#Part-IX)
-
-- [39 Persons already registered](#Persons-already-registered)
-
-- [40 Continuation of office of Board members, etc.](#Continuation-of-office-of-Board-members-etc)
-
-- [41 Transfer of assets and property](#Transfer-of-assets-and-property)
-
-- [42 Transitional](#Transitional)
-
-- [43 Disciplinary proceedings](#Disciplinary-proceedings)
-
-- [44 Certificates of registration](#Certificates-of-registration)
-
-- [45 References in other written laws](#References-in-other-written-laws)
+- [38 Rules](#Rules)
 
 [**Legislative History**](#Legislative-History)
+
+[**Comparative Table**](#Comparative-Table)
 
 # Architects Act
 
@@ -122,13 +110,15 @@
 
 (Original Enactment: Act 22 of 1991)
 
-REVISED EDITION 1992
+REVISED EDITION 2000
 
-(9th March 1992)
+(1st July 2000)
 
 An Act to establish the Board of Architects, to provide for the registration of architects, to regulate the qualifications and practice of architects and the supply of architectural services in Singapore by corporations.
 
 [30th August 1991]
+
+## PART I
 
 PRELIMINARY
 
@@ -142,19 +132,19 @@ PRELIMINARY
 
 “allied professional” means —
 
-(a) a professional engineer who is registered under the Professional Engineers Act [Cap. 253]; or
+(a) a professional engineer who is registered under the Professional Engineers Act (Cap. 253); or
 
-(b) a land surveyor who is registered under the Land Surveyors Act [Cap. 156];
+(b) a land surveyor who is registered under the Land Surveyors Act (Cap. 156);
 
 “architectural services” includes selling or supplying for gain or reward any architectural plan, drawing, tracing or the like for use in the construction, enlargement or alteration of any building or part thereof;
 
 “Board” means the Board of Architects established under section 4;
 
-“building” has the same meaning as in the Building Control Act [Cap. 29];
-
-“building authority” means any person empowered under the provisions of the Building Control Act to approve plans of building works;
+“building” has the same meaning as in the Building Control Act (Cap. 29);
 
 “certificate of registration” means the certificate of registration issued under section 17;
+
+“Commissioner of Building Control” means any person empowered under the provisions of the Building Control Act (Cap. 29) to approve plans of building works;
 
 “Investigation Committee” means an Investigation Committee appointed under section 7(2);
 
@@ -168,9 +158,7 @@ PRELIMINARY
 
 “practising certificate” means an annual certificate issued under section 18 authorising the holder thereof to engage in the practice of architecture in Singapore;
 
-“President” means the President of the Board appointed under section 4(2)(a);
-
-“previous Board” means the Board of Architects established under section 3 of the repealed Act;
+“President” means the President of the Boardappointed under section 4A(1)(a);
 
 “register of architects” means the register of architects kept by the Board under section 8(a);
 
@@ -182,9 +170,7 @@ PRELIMINARY
 
 “Registrar” means the Registrar of the Board appointed under section 9;
 
-“repealed Act” means the Architects Act [Cap. 12, 1985 Ed] repealed by this Act;
-
-“rules” means rules made by the Board under section 36;
+“rules” means rules made by the Board under section 38;
 
 “unlimited corporation” means a corporation formed on the principle of having no limit placed on the liability of its members.
 
@@ -194,7 +180,9 @@ PRELIMINARY
 
 (2) This Act shall not apply to naval architects and landscape architects.
 
-(3) This Act shall not be construed as requiring any public authority which supplies architectural services in Singapore under the provisions of any written law to obtain a licence; and in this subsection, “public authority” means any body established by or under any written law and exercising powers vested therein by written law for a public purpose.
+(3) This Act shall not be construed as requiring any public authority which supplies architectural services in Singapore under the provisions of any written law to obtain a licence.
+
+(4) In subsection (3), “public authority” means any body established by or under any written law and exercising powers vested therein by written law for a public purpose.
 
 ## PART II
 
@@ -202,21 +190,29 @@ BOARD OF ARCHITECTS
 
 ### Establishment of Board of Architects
 
-4\.—(1) There shall be established in Singapore a body to be called the Board of Architects which shall be a body corporate with perpetual succession and a common seal, with power, subject to the provisions of this Act, to sue and be sued in its corporate name, to acquire and dispose of property, both movable and immovable, and to do and perform such other acts as bodies corporate may by law perform.
+4\. There shall be established in Singapore a body to be called the Board of Architects which shall be a body corporate with perpetual succession and a common seal, with power, subject to the provisions of this Act —
 
-(2) The Board shall consist of the following members to be appointed by the Minister:
+(a) to sue and be sued in its corporate name;
+
+(b) to acquire and dispose of property, both movable and immovable; and
+
+(c) to do and perform such other acts as bodies corporate may by law perform.
+
+### Constitution and proceedings of Board
+
+4A\.—(1) The Board shall consist of the following members to be appointed by the Minister:
 
 (a) a President who shall be appointed from among registered architects;
 
-(b) two registered architects selected from a list of not less than 3 registered architects submitted by the Singapore Institute of Architects;
+(b) 2 registered architects selected from a list of not less than 3 registered architects submitted by the Singapore Institute of Architects;
 
 (c) such other registered architects, not being more than 6, as the Minister may from time to time determine; and
 
 (d) one professional engineer on the nomination of the Professional Engineers Board.
 
-(3) The members of the Board shall be appointed for a term not exceeding 3 years but may from time to time be reappointed, and may at any time be removed from office by the Minister.
+(2) The members of the Board shall be appointed for a term not exceeding 3 years but may from time to time be reappointed, and may at any time be removed from office by the Minister.
 
-(4) A person shall not be qualified to be a member of the Board if —
+(3) A person shall not be qualified to be a member of the Board if —
 
 (a) he is an undischarged bankrupt or has made any arrangement or composition with his creditors;
 
@@ -226,15 +222,17 @@ BOARD OF ARCHITECTS
 
 (d) he has at any time after due inquiry been found guilty by the Board or previous Board of improper conduct.
 
-(5) The office of a member of the Board shall become vacant if the member —
+(4) The office of a member of the Board shall become vacant if the member —
 
 (a) dies;
 
 (b) resigns or is removed from office; or
 
-(c) becomes in any manner disqualified for office under subsection (4),
+(c) becomes in any manner disqualified for office under subsection (3),
 
-and the vacancy so created shall as soon as practicable be filled in the manner in which the appointment to the vacant office was made; and every person so appointed shall hold office for the residue of the term for which his predecessor was appointed.
+and the vacancy so created shall as soon as practicable be filled in the manner in which the appointment to the vacant office was made.
+
+(5) Every person appointed to the Board by virtue of subsection (4) shall hold office for the residue of the term for which his predecessor was appointed.
 
 (6) The powers of the Board shall not be affected by any vacancy in the membership thereof.
 
@@ -254,7 +252,9 @@ and the vacancy so created shall as soon as practicable be filled in the manner 
 
 5\.—(1) The common seal of the Board shall bear such device as the Board may approve and the seal may from time to time be broken, changed, altered or made anew by the Board as it may think fit.
 
-(2) The common seal shall be kept in the custody of the President and shall be authenticated by him or other member acting in his absence and any document purporting to be sealed by that seal and authenticated as aforesaid shall, until the contrary is proved, be deemed to be validly executed.
+(2) The common seal shall be kept in the custody of the President and shall be authenticated by him or other member acting in his absence.
+
+(3) Any document purporting to be sealed by the common seal and authenticated as provided under subsection (2) shall, until the contrary is proved, be deemed to be validly executed.
 
 ### Functions of Board
 
@@ -308,7 +308,13 @@ and the vacancy so created shall as soon as practicable be filled in the manner 
 
 9\.—(1) The Minister may appoint a Registrar of the Board.
 
-(2) The Registrar shall be under the general direction of the Board and shall sign all certificates of registration, practising certificates and licences, and shall record all entries of registration, cancellation and reinstatement in the register of architects, register of practitioners or register of licensees, as the case may be.
+(2) The Registrar shall —
+
+(a) be under the general direction of the Board;
+
+(b) sign all certificates of registration, practising certificates and licences; and
+
+(c) record all entries of registration, cancellation and reinstatement in the register of architects, register of practitioners or register of licensees, as the case may be.
 
 (3) The Registrar shall attend all meetings of the Board and record the proceedings thereof, and shall conduct the correspondence and deal with such matters as may be assigned to him from time to time by the President or the Board.
 
@@ -332,27 +338,33 @@ PRIVILEGES OF ARCHITECTS
 
 (b) under the direction or supervision of a registered architect who has in force a practising certificate.
 
-[Act 3/95 wef 01/04/1995]
+[3/95]
 
-(2) Subject to the provisions of this Act, no person shall sign and submit to the building authority —
+(2) Subject to the provisions of this Act, no person shall sign and submit to the Commissioner of Building Control —
 
 (a) any architectural plan, drawing, tracing, design, specification or other document intended to govern the construction, enlargement or alteration of any building or part thereof in Singapore; or
 
 (b) any report, certificate or other document relating to the construction, enlargement or alteration of any building or part thereof which is required by any written law to be signed by an architect,
 
-unless the person is a registered architect who has in force a practising certificate; and any document that is signed in contravention of this subsection shall be invalid.
+unless the person is a registered architect who has in force a practising certificate.
 
-[Act 3/95 wef 01/04/1995]
+[3/95]
 
-(3) Subject to the provisions of this Act, no person shall use verbally or otherwise the word “architect” or any of its derivatives in connection with his business designation, or any other words, name or designation that will lead to the belief that the person is an architect unless the person is a registered architect.
+(2A) Any document that is signed in contravention of subsection (2) shall be invalid.
 
-[Act 3/95 wef 01/04/1995]
+[3/95]
 
-(4) Subject to the provisions of this Act, no person shall advertise or hold himself out or conduct himself in any way or by any means as a person who is authorised to supply architectural services in Singapore, unless the person is a registered architect who has in force a practising certificate, a licensed corporation, a licensed partnership or a partnership consisting wholly of registered architects:
+(3) Subject to the provisions of this Act, no person shall —
 
-Provided that nothing in this subsection shall apply to prevent a corporation that ceases to have in force a licence from carrying on any activity necessary to the winding up of the corporation.
+(a) use verbally or otherwise the word “architect” or any of its derivatives in connection with his business designation, or any other words, name or designation that will lead to the belief that the person is an architect unless the person is a registered architect; or
 
-[Act 3/95 wef 01/04/1995]
+(b) advertise or hold himself out or conduct himself in any way or by any means as a person who is authorised to supply architectural services in Singapore, unless the person is a registered architect who has in force a practising certificate, a licensed corporation, a licensed partnership or a partnership consisting wholly of registered architects.
+
+[3/95]
+
+(4) Nothing in subsection (3)(b) shall apply to prevent a corporation that ceases to have in force a licence from carrying on any activity necessary to the winding up of the corporation .
+
+[3/95]
 
 (5) Subject to the provisions of this Act, no person shall —
 
@@ -362,15 +374,15 @@ Provided that nothing in this subsection shall apply to prevent a corporation th
 
 unless the person is —
 
-(i) a registered architect who has in force a practising certificate and is doing so on his own account or as a partner in a licensed partnership or a partnership consisting wholly of registered architects;
+(i) a registered architect who has in force a practising certificate and is doing so on his own account or as a partner in a licensed partnership or a partnership consisting wholly of registered architects ;
 
-(ii) an allied professional and is doing so only by reason of being a partner in a licensed partnership; or
+(ii) an allied professional and is doing so only by reason of being a partner in a licensed partnership ; or
 
-(iii) a licensed corporation.
+(iii) a licensed corporation .
 
-[Act 3/95 wef 01/04/1995]
+[3/95]
 
-(6) Any person who contravenes subsection (1), (2), (3), (4) or (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a second or subsequent offence, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.
+(6) Any person who contravenes subsection (1), (2), (3) or (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.
 
 ### Remuneration for services rendered
 
@@ -386,17 +398,17 @@ unless the person is —
 
 12\.—(1) Subject to the provisions of this Act, no person shall employ as an architect any person who neither is a registered architect nor has in force a practising certificate.
 
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 and, for a second or subsequent offence, to a fine not exceeding $5,000.
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 and, for a second or subsequent conviction, to a fine not exceeding $5,000.
 
 ### Minor building works
 
-13\. Nothing in this Act shall be construed to prohibit or prevent any person not registered under this Act from carrying out work in respect of the construction of or repairs to any building or part thereof in any case in which plans are not required by any written law to be submitted to the building authority.
+13\. Nothing in this Act shall be construed to prohibit or prevent any person not registered under this Act from carrying out work in respect of the construction of or repairs to any building or part thereof in any case in which plans are not required by any written law to be submitted to the Commissioner of Building Control.
 
 ### Relationship with professional engineers, etc.
 
 14\. Nothing in this Part shall apply to prevent —
 
-(a) a professional engineer who has in force a practising certificate issued under the Professional Engineers Act [Cap. 253] or any person under the direction or supervision of such a professional engineer; or
+(a) a professional engineer who has in force a practising certificate issued under the Professional Engineers Act (Cap. 253) or any person under the direction or supervision of such a professional engineer; or
 
 (b) a corporation or partnership which is licensed under that Act to engage in professional engineering work in Singapore,
 
@@ -412,7 +424,7 @@ REGISTRATION OF ARCHITECTS
 
 (a) any person holding the Degree of Bachelor of Architecture from the National University of Singapore or the University of Singapore;
 
-(b) any person holding any other degree, diploma or qualification which the Minister may, after consultation with the Board, approve for the purpose of entitling the holder thereof to be registered under this Act; or
+(b) any person holding any other degree, diploma or qualification which the Minister may, after consultation with the Board , approve for the purpose of entitling the holder thereof to be registered under this Act; or
 
 (c) any person who satisfies the Board that he is otherwise qualified by having proper and recognised training in architecture and who passes such examinations as may be required by the Board.
 
@@ -420,7 +432,7 @@ REGISTRATION OF ARCHITECTS
 
 (a) such practical experience in architectural work for not less than 24 months consisting of such practical experience in architectural work in Singapore for a continuous period of at least 12 months, and has passed such professional practice examination as may be prescribed or approved by the Board;
 
-(b) such practical experience in architectural work for not less than 5 years as may be recognised by the Board, which shall include such prescribed practical experience in architectural work in Singapore for not less than two years comprising a continuous period of at least 12 months gained within the 5 years immediately preceding the date of his application for registration under this Act; or
+(b) such practical experience in architectural work for not less than 5 years as may be recognised by the Board, which shall include such prescribed practical experience in architectural work in Singapore for not less than 2 years comprising a continuous period of at least 12 months gained within the 5 years immediately preceding the date of his application for registration under this Act; or
 
 (c) such practical experience in architectural work for not less than 10 years as may be recognised by the Board.
 
@@ -472,15 +484,15 @@ and the Board shall, subject to subsection (4), thereupon issue to the registere
 
 (a) the applicant is an undischarged bankrupt;
 
-[Act 15/95 wef 15/07/1995]
-
 (b) the applicant has entered into a composition with his creditors or a deed of arrangement for the benefit of his creditors;
 
 (c) the applicant does not intend to practise either on his own account or in partnership, or is not or not about to be employed by any person lawfully supplying architectural services in Singapore;
 
 (d) the declaration under subsection (3) contains a statement that to its knowledge is false in a material particular; or
 
-(e) the conduct of the applicant affords reasonable grounds for believing that he will not engage in the practice of architecture in Singapore in accordance with any written law and with honesty and integrity.
+(e) the conduct of the applicant affords reasonable grounds for believing that he will not engage in the practice of architecture in Singapore in accordance with any written law and with honesty and integrity.or
+
+[15/95]
 
 (5) Any registered architect (not being a registered architect who is applying for a practising certificate for the first time) who fails to apply for a practising certificate in the manner and within the period specified in subsection (1) may, on the making of an application in such form and on payment of such additional fee as may be prescribed, be issued a practising certificate for —
 
@@ -488,19 +500,21 @@ and the Board shall, subject to subsection (4), thereupon issue to the registere
 
 (b) the remainder of the year if the application is made on or after 1st January of any year.
 
-(6) Subject to subsection (8), a practising certificate shall, unless earlier cancelled, be in force from the date of its issue until 31st December of the year in respect of which it is issued.
+(6) Subject to subsection (9), a practising certificate shall, unless earlier cancelled, be in force from the date of its issue until 31st December of the year in respect of which it is issued.
 
-(7) A practising certificate shall specify the address of the principal place of practice and all other places of practice of the registered architect to whom the practising certificate was issued, and any change in such address shall be notified by the registered architect concerned to the Registrar within two weeks of such change and an endorsement of such change shall be obtained from the Registrar.
+(7) A practising certificate shall specify the address of the principal place of practice and all other places of practice of the registered architect to whom the practising certificate was issued.
 
-(8) Where the registration of a registered architect is cancelled under section 27, the practising certificate, if any, of that architect for the time being in force shall expire forthwith and the Registrar shall enter the date of such expiration on the register of practitioners and remove from that register the name of that architect.
+(8) Any change in such address shall be notified by the registered architect concerned to the Registrar within 2 weeks of such change and an endorsement of such change shall be obtained from the Registrar.6
 
-(9) Any person whose application for a practising certificate has been refused by the Board may, within 30 days after being notified of such refusal, appeal to the High Court whose decision shall be final.
+(9) Where the registration of a registered architect is cancelled under section 27, the practising certificate, if any, of that architect for the time being in force shall expire forthwith and the Registrar shall enter the date of such expiration on the register of practitioners and remove from that register the name of that architect.
+
+(10) Any person whose application for a practising certificate has been refused by the Board may, within 30 days after being notified of such refusal, appeal to the High Court whose decision shall be final.
 
 ### Cancellation of practising certificates
 
 19\.—(l) The Board may cancel the practising certificate of any registered architect on any ground specified in section 18(4) which applies to the registered architect, whether or not such ground existed at the time the practising certificate was issued.
 
-(2) The Board shall not cancel any practising certificate under subsection (1) unless an opportunity of being heard either personally or in writing has been given to the person concerned .
+(2) The Board shall not cancel any practising certificate under subsection (1) unless an opportunity of being heard either personally or in writing has been given to the person concerned.
 
 (3) Any person whose practising certificate has been cancelled by the Board under this section may, within 30 days after being notified of such cancellation, appeal to the High Court whose decision shall be final.
 
@@ -518,27 +532,19 @@ MULTI-DISCIPLINE AND CORPORATE PRACTICE
 
 (c) the articles of association of the corporation provide that the chairman and at least two-thirds of the directors of the corporation shall be registered architects or allied professionals;
 
-[Act 3/95 wef 01/04/1995]
-
-(d) [Deleted by Act 3/95 wef 1.4.95]
-
-(e) the business of the corporation, so far as it relates to the supply of architectural services, will be under the control and management of a director of the corporation who —
+(d) the business of the corporation, so far as it relates to the supply of architectural services, will be under the control and management of a director of the corporation who —
 
 (i) is a registered architect ordinarily resident in Singapore; and
 
-[Act 3/95 wef 01/04/1995]
-
 (ii) has in force a practising certificate; and
 
-(iii) [Deleted by Act 3/95 wef 1.4.95]
+(e) the corporation is insured against professional liability in accordance with section 24 and the rules.
 
-(f) the corporation is insured against professional liability in accordance with section 24 and the rules.
+[3/95]
 
 (2) Subject to the provisions of this Act, the Board may grant a licence to any unlimited corporation to supply architectural services in Singapore if —
 
 (a) the memorandum of association of the corporation provides that a primary object of the corporation is to supply architectural services;
-
-[Act 3/95 wef 01/04/1995]
 
 (b) the articles of association of the corporation provide that —
 
@@ -550,8 +556,6 @@ MULTI-DISCIPLINE AND CORPORATE PRACTICE
 
 (B) if he is a nominee of a person who is not a registered architect or an allied professional; and
 
-[Act 3/95wef 1.4.95]
-
 (c) the business of the corporation, so far as it relates to the supply of architectural services, will be under the control and management of a director of the corporation who —
 
 (i) is a registered architect ordinarily resident in Singapore;
@@ -560,23 +564,23 @@ MULTI-DISCIPLINE AND CORPORATE PRACTICE
 
 (iii) is a member, or a registered owner of at least one share, of the corporation.
 
+[3/95]
+
 (3) Subject to the provisions of this Act, the Board may grant to a partnership not consisting wholly of registered architects a licence to supply architectural services in Singapore if —
 
 (a) the partnership is one in which only registered architects, each of whom shall have in force a practising certificate, and allied professionals have a beneficial interest in the capital assets and profits of the partnership; and
 
 (b) the business of the partnership, so far as it relates to the supply of architectural services in Singapore, will be under the control and management of a partner who is a registered architect ordinarily resident in Singapore and has in force a practising certificate.
 
-(4) Subject to the provisions of this Act, the Board may grant to any corporation (whether unlimited or not), or a partnership not consisting wholly of registered architects, a licence to supply architectural services in Singapore if the corporation or partnership has in force a licence granted under section 17 of the Land Surveyors Act or section 20 of the Professional Engineers Act and —
+(4) Subject to the provisions of this Act, the Board may grant to any corporation (whether unlimited or not), or a partnership not consisting wholly of registered architects, a licence to supply architectural services in Singapore if the corporation or partnership has in force a licence granted under section 17 of the Land Surveyors Act (Cap. 156) or section 20 of the Professional Engineers Act (Cap. 253) and —
 
 (a) in the case of an unlimited corporation, the corporation complies with the requirements set out in subsection (2)(b) and (c);
 
-[Act 3/95 wef 01/04/1995]
-
-(b) in the case of any other corporation, the corporation complies with the requirements set out in subsection (1)(b), (c), (e) and (f); or
-
-[Act 3/95 wef 01/04/1995]
+(b) in the case of any other corporation, the corporation complies with the requirements set out in subsection (1)(b), (c), (d) and (e); or
 
 (c) in the case of a partnership, the partnership complies with the requirements set out in subsection (3).
+
+[3/95]
 
 (5) Any application for a licence under this section shall be in such form and shall be made in such manner as may be prescribed.
 
@@ -590,29 +594,13 @@ MULTI-DISCIPLINE AND CORPORATE PRACTICE
 
 21\.—(1) It shall be a condition of every licence granted to any corporation or partnership that the corporation or partnership shall supply architectural services in Singapore only under the control and management of a registered architect who —
 
-(a) is a ordinarily resident in Singapore; and
+(2) It shall be a condition of every licence granted to any corporation, other than an unlimited corporation, that the corporation shall not supply architectural services in Singapore unless the corporation is insured against professional liability in accordance with section 24 and the rules.
 
-(b) has in force a practising certificate,
-
-and who is —
-
-(i) in the case of a corporation other than an unlimited corporation, a director of the corporation;
-
-(ii) in the case of an unlimited corporation which has a share capital, a director and registered owner of at least one share of the corporation;
-
-(iii) in the case of an unlimited corporation which does not have any share capital, a director and member of the corporation; or
-
-(iv) in the case of a partnership, a partner thereof.
-
-[Act 3/95 wef 01/04/1995]
-
-(2) It shall be a condition of every licence granted to any corporation, other than an unlimited corporation, that the corporation shall not supply architectural services in Singapore unless the corporation is insured in respect of professional liability in accordance with section 24 and the rules.
-
-[Act 3/95 wef 01/04/1995]
+[3/95]
 
 (3) Without prejudice to subsections (1) and (2), the Board may grant a licence subject to such other conditions as it thinks fit and may at any time vary any existing conditions (other than those specified in subsections (1) and (2)) of such a licence or impose additional conditions thereto.
 
-(4) Where a licence is granted by the Board to a corporation or partnership subject to conditions (other than those specified in subsections (1) and (2)), the corporation or partnership may, if aggrieved by the decision of the Board appeal in the prescribed manner to the Minister whose decision shall be final.
+(4) Where a licence is granted by the Board to a corporation or partnership subject to conditions (other than those specified in subsections (1) and (2)), the corporation or partnership may, if aggrieved by the decision of the Board, appeal in the prescribed manner to the Minister whose decision shall be final.
 
 ### Change in composition of board of directors, members, etc.
 
@@ -628,13 +616,15 @@ furnish the Board a true report in writing giving full particulars of the altera
 
 ### Application of Companies Act
 
-23\.—(1) Sections 162, 163, 197 of and the Eighth Schedule to the Companies Act shall apply to a licensed corporation which is an exempt private company subject to the modification that any reference in those sections and that Schedule to an exempt private company shall not include a reference to the licensed corporation; and every such licensed corporation shall —
+23\.—(1) Sections 162, 163, 197 of and the Eighth Schedule to the Companies Act (Cap. 50) shall apply to a licensed corporation which is an exempt private company subject to the modification that any reference in those sections and that Schedule to an exempt private company shall not include a reference to the licensed corporation.
 
-(a) comply with the prohibitions in section 162 (relating to loans to its directors) and section 163 (relating to loans to persons connected with the directors of the lending company) of the Companies Act [Cap. 50] as if it were not an exempt private company; and
+(2) Every licensed corporation referred to in subsection (1) shall —
+
+(a) comply with the prohibitions in section 162 (relating to loans to its directors) and section 163 (relating to loans to persons connected with the directors of the lending company) of the Companies Act as if it were not an exempt private company; and
 
 (b) forward annually to the Registrar of Companies, together with the annual return required by section 197 of the Companies Act, such copies of documents as are required to be included in the annual return and such certificates and particulars in accordance with Part II of the Eighth Schedule to that Act as if it were not an exempt private company.
 
-(2) In this section, “exempt private company” has the same meaning as in the Companies Act [Cap. 50].
+(3) In this section, “exempt private company” has the same meaning as in the Companies Act.
 
 ### Liability insurance
 
@@ -650,12 +640,7 @@ furnish the Board a true report in writing giving full particulars of the altera
 
 ## PART VII
 
-DISCIPLINARY PROCEEDINGS AND
-
-
-
-
-REVOCATION OF LICENCES
+DISCIPLINARY PROCEEDINGS AND REVOCATION OF LICENCES
 
 ### Cancellation of registration or suspension from practice
 
@@ -687,7 +672,7 @@ REVOCATION OF LICENCES
 
 (a) by order impose on the registered architect a penalty not exceeding $10,000; or
 
-(b) by writing under the hand of the President, censure the registered architect.
+(b) by writing under the hand of the President censure the registered architect.
 
 (3) The Board shall not exercise its powers under subsections (1) and (2) unless an opportunity of being heard either personally or by counsel has been given to the registered architect against whom the Board intends to exercise its powers.
 
@@ -721,7 +706,7 @@ REVOCATION OF LICENCES
 
 (2) Any registered architect may apply to the Board to have his name removed from the register of architects.
 
-(3) Every application under subsection (2) shall be made in the prescribed form and shall be supported by an affidavit served on the Board not less than two months before the application is heard.
+(3) Every application under subsection (2) shall be made in the prescribed form and shall be supported by an affidavit served on the Board not less than 2 months before the application is heard.
 
 (4) The Board may for good cause require the applicant to advertise his intention to make the application in such manner as the Board shall direct.
 
@@ -765,7 +750,7 @@ has a beneficial interest in the capital assets and profits of the partnership;
 
 (3) The Board shall not exercise its powers under subsection (1) or (2) unless an opportunity of being heard by a representative in writing or by counsel had been given to the corporation or partnership against whom the Board intends to exercise its powers.
 
-(4) Where the Board has revoked a licence pursuant to this section, it shall forthwith inform the corporation or partnership concerned.
+(4) Where the Board has revoked a licence under this section, it shall forthwith inform the corporation or partnership concerned.
 
 (5) Any order by the Board revoking a licence or imposing a pecuniary penalty shall take effect the day immediately after the Board has by post served the order on the corporation or partnership concerned unless the Board, or where the corporation or partnership gives due notice of appeal to the High Court, the Board or the High Court orders otherwise.
 
@@ -775,7 +760,7 @@ has a beneficial interest in the capital assets and profits of the partnership;
 
 (b) the corporation or partnership concerned shall, as from the date of the notice, cease to supply architectural services in Singapore except as may be approved by the Board for the purpose of winding up its business.
 
-(7) Subsection (6)(b) shall not prejudice the enforcement by any person of any right or claim against the corporation or partnership or by the corporation or partnership of any right or claim against any person.
+(7) Subsection (6) (b) shall not prejudice the enforcement by any person of any right or claim against the corporation or partnership or by the corporation or partnership of any right or claim against any person.
 
 ### Appeals
 
@@ -785,13 +770,15 @@ has a beneficial interest in the capital assets and profits of the partnership;
 
 (b) an order of revocation of a licence under section 29 against a corporation or partnership; or
 
-(c) an order imposing any pecuniary penalty on a registered architect under section 27(2) or on a licensed corporation or partnership under section 29(2), the architect, corporation or partnership concerned may, within 30 days after the order has been communicated to him or them, appeal to the High Court whose decision shall be final.
+(c) an order imposing any pecuniary penalty on a registered architect under section 27(2) or on a licensed corporation or partnership under section 29(2),
+
+the architect, corporation or partnership concerned may, within 30 days after the order has been communicated to him or them, appeal to the High Court whose decision shall be final.
 
 ### Reinstatement of registration
 
 31\.—(1) Any person, corporation or partnership whose name has been removed from the register of architects under section 28(1)(b) or the register of licensees under section 29(6)(a), respectively, shall, if his or its appeal to the High Court is allowed, be forthwith reinstated without payment of any fee.
 
-(2) The Board may in its discretion, after the expiration of not less than two years from the removal from the register of architects the name and particulars of any person, consider any application for registration by that person in accordance with the provisions of Part IV.
+(2) The Board may in its discretion, after the expiration of not less than 2 years from the removal from the register of architects the name and particulars of any person, consider any application for registration by that person in accordance with the provisions of Part IV.
 
 ## PART VIII
 
@@ -809,7 +796,7 @@ GENERAL
 
 (5) The Board shall keep full and proper accounts of all moneys received and expended by it and the accounts shall be audited by an auditor approved by the Minister.
 
-(6) The Board shall, as soon as practicable after the end of each accounting year but not later than 3 months from the end of that year unless the Minister otherwise authorises in writing, submit to the Minister a report of its functions, proceedings and activities during the preceding year.
+(6) The Board shall, as soon as practicable after the end of each accounting year, but not later than 3 months from the end of that year unless the Minister otherwise authorises in writing, submit to the Minister a report of its functions, proceedings and activities during the preceding year.
 
 ### Powers of Board and Investigation Committee to require attendance of witnesses, etc.
 
@@ -851,9 +838,23 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 35\. Where a corporation, partnership or unincorporated association of persons is guilty of an offence under this Act and that offence is proved to have been committed with the authority, consent or connivance of any director, manager, partner, secretary or other similar officer of the corporation, partnership or association or any person who was purporting to act in any such capacity, he, as well as the corporation, partnership or association shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
 
+### Exemption
+
+36\.—(1) The Minister may, by order and subject to such conditions as he thinks fit, exempt any person or class of persons from all or any of the provisions of this Act.
+
+(2) Any order made under this section shall be presented to Parliament as soon as possible after publication in theGazette.
+
+[37
+
+### No action in absence of bad faith or malice
+
+37\. No action or proceedings shall lie against the Board or an Investigation Committee or any member thereof for any act or thing done under this Act unless it is proved to the court that the act or thing was done in bad faith or with malice.
+
+[38
+
 ### Rules
 
-36\.—(1) The Board may, with the approval of the Minister, make rules for carrying out the purposes of this Act and for any matter which is required under this Act to be prescribed.
+38\.—(1) The Board may, with the approval of the Minister, make rules for carrying out the purposes of this Act and for any matter which is required under this Act to be prescribed.
 
 (2) Without prejudice to the generality of subsection (1), the Board may, with the approval of the Minister, make rules —
 
@@ -885,63 +886,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (3) All rules made under this section shall be presented to Parliament as soon as possible after publication in theGazette.
 
-### Exemption
-
-37\.—(1) The Minister may, by order and subject to such conditions as he thinks fit, exempt any person or class of persons from all or any of the provisions of this Act.
-
-(2) Any order made under this section shall be presented to Parliament as soon as possible after publication in theGazette.
-
-### No action in absence of bad faith or malice
-
-38\. No action or proceedings shall lie against the Board or an Investigation Committee or any member thereof for any act or thing done under this Act unless it is proved to the court that the act or thing was done in bad faith or with malice.
-
-## PART IX
-
-SAVINGS AND TRANSITIONAL PROVISIONS
-
-### Persons already registered
-
-39\.—(1) Every person who is registered under the provisions of the repealed Act immediately before 30th August 1991 shall be deemed to be a registered architect under the provisions of this Act.
-
-(2) The Registrar shall transfer to the register of architects the names of all persons on the register kept under section 6 of the repealed Act together with the dates of their respective registration and any other particulars appearing in that register.
-
-### Continuation of office of Board members, etc.
-
-40\.—(1) Notwithstanding the provisions of this Act, a person who, immediately before 30th August 1991, held office as a member of the previous Board shall —
-
-(a) if he is a member by virtue of section 3(2)(b) or (d) of the repealed Act, continue to hold office as a member of the Board as if appointed under section 4(2) and, subject to section 4, for such term as the Minister may determine, not being more than 3 years from 30th August 1991; and
-
-(b) if he is a member appointed under section 3(2)(a), (c), (e) or (f) of the repealed Act, continue to hold office as a member of the Board as if appointed under section 4(2) and, subject to section 4, for the residue of his term of office.
-
-(2) The first Registrar of the Board shall be the person who, immediately before 30th August 1991, held office as the Registrar of the previous Board, and such person shall continue to hold office as if he had been appointed under section 9.
-
-### Transfer of assets and property
-
-41\. On 30th August 1991, all assets and properties of every description and all powers, rights and privileges in connection therewith or appertaining thereto which immediately before that date were vested in the previous Board shall be transferred to and vest in the Board without further assurance.
-
-### Transitional
-
-42\.—(1) On 30th August 1991, any scheme, contract, document, licence or resolution prepared, made, granted or approved by or on behalf of the previous Board shall continue and be deemed to have been prepared, made, granted or approved by the Board under this Act.
-
-(2) All obligations and liabilities of the previous Board existing immediately before 30th August 1991 shall as from that date be the obligations and liabilities of the Board and the Board shall have all necessary powers to discharge them.
-
-(3) In any written law and in any document, unless the context otherwise requires, any reference to the previous Board shall be construed as a reference to the Board.
-
-(4) Any proceedings or cause of action pending or existing immediately before 30th August 1991 by or against the previous Board, or any person acting on its behalf, may be continued and enforced by or against the Board.
-
-### Disciplinary proceedings
-
-43\.—(1) Where on 30th August 1991 any disciplinary proceedings under section 12 of the repealed Act are pending against any person, the proceedings shall be carried on and completed by the Board; but where on that date any such matter was being heard or investigated or had been heard or investigated by the previous Board or any Investigation Committee appointed under the repealed Act and no order, report or decision had been rendered thereon, the previous Board or that Investigation Committee shall continue to exist to complete the hearing or investigation and make such order, report or decision as it could have under the provisions of the repealed Act.
-
-(2) Where pursuant to this section any order, report or decision is made by the previous Board or any Investigation Committee appointed under the repealed Act, that order, report or decision shall be treated as an order, report or decision of the Board or that Investigation Committee and have the same force and effect as if it had been made by the Board or an Investigation Committee pursuant to the provisions of this Act.
-
-### Certificates of registration
-
-44\. Every certificate of registration issued under the repealed Act to any registered architect and which is valid immediately before 30th August 1991 shall not lapse but remain valid until the registration of the architect is cancelled under this Act.
-
-### References in other written laws
-
-45\. On the expiration of two months from and including 30th August 1991, all references in any other written law to registered architects, or to persons registered under the provisions of the repealed Act, shall be read as references to registered architects who have in force practising certificates within the meaning of this Act.
+[36
 
 ## LEGISLATIVE HISTORY
 
@@ -975,3 +920,91 @@ This Legislative History is provided for the convenience of users of the Archite
 ||Referred to Select Committee|Parl 1 of 1995 presented to Parliament on 7 March 1995|
 ||Date of Third Reading|23 March 1995|
 ||Date of commencement|15 July 1995|
+|5.|**2000 Revised Edition—Architects Act**|
+||Date of operation|1 July 2000|
+## COMPARATIVE TABLE
+
+Architects Act
+
+(CHAPTER 12)
+
+The following provisions in the 1992 Revised Edition of the Architects Act have been renumbered by the Law Revision Commissioners in this 2000 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Architects Act.
+
+2000 Ed\. 
+
+1992 Ed\. 
+
+3 — (3) and (4)
+
+3 — (3)
+
+4 
+
+4 — (1)
+
+4A — (1)
+
+4 — (2)
+
+(2) and (3)
+
+(3) and (4)
+
+(4) and (5)
+
+(5)
+
+5 — (2) and (3)
+
+5 — (2)
+
+10 — (2) and (2A)
+
+10 — (2)
+
+(3)
+
+(3) and (4)
+
+(4)
+
+Proviso to (4)
+
+18 — (7) and (8)
+
+18 — (7)
+
+(9)
+
+(8)
+
+(10)
+
+(9)
+
+23 — (1) and (2)
+
+23 — (1)
+
+(3)
+
+(2)
+
+36 
+
+37 
+
+37 
+
+38 
+
+38 
+
+36 
+
+Omitted — Spent
+
+39 to45 
+
