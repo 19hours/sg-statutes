@@ -444,7 +444,7 @@ DEVELOPMENT AND SUBDIVISION OF LAND
 
 14\.—(1) Subject to subsection (2), in determining an application for written permission, the competent authority shall act in conformity with the provisions of the Master Plan and any Certified Interpretation Plan in so far as they may be relevant.
 
-(2) Where the Minister approves, the competent authority need not act in accordance with subsection (1) in any of the following circumstances:
+(2) Where the Minister approves, either in relation to a particular application or a class of applications, as the case may be, the competent authority need not act in accordance with subsection (1) in any of the following circumstances:
 
 (a) the land to which the application relates (referred to in this subsection as the relevant land) is or will be required for any public purpose or for the provision of any utility services or infrastructural, social or transportation facility;
 
@@ -452,9 +452,17 @@ DEVELOPMENT AND SUBDIVISION OF LAND
 
 (c) the provisions of the Master Plan in so far as it relates to the relevant land, or its locality, is being reviewed by the competent authority;
 
-(d) a proposal to amend the provisions of the Master Plan in so far as it relates to the relevant land, or its locality, has been submitted to the Minister for approval under section 8; or
+(d) a proposal to amend the provisions of the Master Plan in so far as it relates to the relevant land, or its locality, has been submitted to the Minister for approval under section 8;
 
-(e) the competent authority is of the view that the development proposed in the application is incongruent with the developments on land adjoining the relevant land or other land in the locality.
+[30/2003 wef 24/12/1998]
+
+(e) the competent authority is of the view that the development proposed in the application is incongruent with the developments on land adjoining the relevant land or other land in the locality; or
+
+[30/2003 wef 24/12/1998]
+
+(f) the planning permission or conservation permission to be granted for the development proposed in the application is for a specified period not exceeding 10 years.
+
+[30/2003 wef 24/12/1998]
 
 (3) Where subsection (2) applies, the competent authority may determine the application in the manner as the Minister may approve.
 
@@ -1383,3 +1391,8 @@ This Legislative History is provided for the convenience of users of the Plannin
 ||Date of commencement|1 April 1998|
 |19.|**1998 Revised Edition—Planning Act**|
 ||Date of operation|15 December 1998|
+|20.|**Act 30 of 2003—Planning (Amendment) Act 2003**|
+||Date of First Reading|16 October 2003|
+|||(Bill No. 27/2003 published on 17 October 2003)|
+||Date of Second and Third Readings|11 November 2003|
+||Dates of commencement|24th December 1998 (section 6)|
