@@ -2086,6 +2086,10 @@ Rates of Contribution
 
 (8) Housing and Development Board.
 
+(8A) Info-communications Development Authority of Singapore.
+
+[41/99 wef 01/12/1999]
+
 (9) Inland Revenue Authority of Singapore.
 
 (10) Institute of Southeast Asian Studies.
@@ -2108,7 +2112,7 @@ Rates of Contribution
 
 (19) National Arts Council.
 
-(20) National Computer Board.
+(20) [Deleted by Act 41/99 wef 01/12/1999]
 
 (21) National Heritage Board.
 
@@ -2148,7 +2152,7 @@ Rates of Contribution
 
 (39) Singapore Tourism Board.
 
-(40) Telecommunication Authority of Singapore.
+(40) [Deleted by Act 41/99 wef 01/12/1999]
 
 (41) Temasek Polytechnic.
 
@@ -2272,6 +2276,10 @@ Specified Acts Relating to Self-employed Persons
 
 23\. Planning Act (Cap. 232).
 
+23A. Postal Services Act 1999.
+
+[43/99 wef 01/12/1999]
+
 24\. Price Control Act (Cap. 244).
 
 25\. Private Investigation and Security Agencies Act (Cap. 249).
@@ -2292,7 +2300,11 @@ Specified Acts Relating to Self-employed Persons
 
 33\. Singapore Tourism Board Act (Cap. 305B).
 
-34\. Telecommunication Authority of Singapore Act (Cap. 323).
+34\. Telecommunications Act 1999.
+
+34.
+
+[43/99 wef 01/12/1999]
 
 35. Environmental Pollution Control Act 1999 (Act 9/99).
 
@@ -2663,3 +2675,15 @@ This Legislative History is provided for the convenience of users of the Central
 ||Date of commencement|1 April 1999|
 |104.|**G.N. No. S 520/99—Central Provident Fund Act (Amendment of Third Schedule) Notification 1999**|
 ||Date of commencement|29 November 1999|
+|105.|**Act 41 of 1999—Info-communications Development Authority of Singapore Act 1999**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|11 October 1999|
+|||(Bill No. 36/99 published on 12 October 1999)|
+||Date of Second and Third Readings|23 November 1999|
+||Date of commencement|1 December 1999|
+|106.|**Act 43 of 1999—Telecommunications Act 1999**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|11 October 1999|
+|||(Bill No. 33/99 published on 12 October 1999)|
+||Date of Second and Third Readings|23 November 1999|
+||Date of commencement|1 December 1999|
