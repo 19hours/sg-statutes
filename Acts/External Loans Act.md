@@ -42,7 +42,13 @@ An Act to authorise the raising of loans outside Singapore, to provide sums requ
 
 2\.—(1) The Minister may, from time to time, raise loans outside Singapore —
 
-(a) for the purposes of the Development Fund established by the Development Fund Act [Cap. 80]; or
+(a) for the purposes of the Development Fund established by the Development Fund Act [Cap. 80];
+
+[6/2000 wef 01/04/2000]
+
+(aa) for the purposes of the Developmental Investment Fund established by the Developmental Investment Fund Act 2000; or
+
+[6/2000 wef 01/04/2000]
 
 (b) for the repayment or amortisation of loans raised outside Singapore.
 
@@ -138,3 +144,8 @@ This Legislative History is provided for the convenience of users of the Externa
 |||(Bill No. 4/1991)|
 ||Date of Second and Third Readings|14 January 1991|
 ||Date of commencement|30 November 1991|
+|5.|**Act 6 of 2000—Developmental Investment Fund Act 2000**|
+||Date of First Reading|17 January 2000|
+|||(Bill No. 4/2000)|
+||Date of Second and Third Readings|22 February 2000|
+||Date of commencement|1 April 2000|
