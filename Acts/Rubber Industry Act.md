@@ -1,14 +1,12 @@
-**Rubber Industry Act 1992**
+**Rubber Industry Act**
 
-**(No. 15 of 1992)**
+**(CHAPTER 280)**
 
 **Table of Contents**
 
 [**Long Title**](#Rubber-Industry-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -28,7 +26,7 @@
 
 - [10 Inspection of premises](#Inspection-of-premises)
 
-- [11 Suspension or cancellation of licence, etc](#Suspension-or-cancellation-of-licence-etc)
+- [11 Suspension or cancellation of licence, etc.](#Suspension-or-cancellation-of-licence-etc)
 
 - [12 Appeal from decision of Board](#Appeal-from-decision-of-Board)
 
@@ -64,55 +62,35 @@
 
 - [28 Exemption](#Exemption)
 
-- [29 Repeal](#Repeal)
+- [29 Transitional provisions](#Transitional-provisions)
 
-- [30 Transitional provisions](#Transitional-provisions)
+[**Legislative History**](#Legislative-History)
 
-REPUBLIC OF SINGAPORE
+# Rubber Industry Act
 
-GOVERNMENT GAZETTE
+(CHAPTER 280)
 
-ACTS SUPPLEMENT
+(Original Enactment: Act 15 of 1992)
 
-Published by Authority
+REVISED EDITION 1993
 
-NO. 19]
+(15th March 1993)
 
-Friday, May 22
+An Act to provide for the promotion, regulation and control of the rubber trade and industry.
 
-[1992
+[27th May 1992]
 
-The following Act was passed by Parliament on 20th March 1992 and assented to by the President on 30th March 1992:—
+### Short title
 
-Rubber Industry Act 1992
-
-(No. 15 of 1992)
-
-I assent.
-
-WEE KIM WEE
-
-President.
-
-30th March 1992.
-
-Date of Commencement: 27th May 1992
-
-An Act to repeal and re-enact with amendments the Rubber Industry Act (Chapter 280 of the 1985 Revised Edition) for the promotion, regulation and control of the rubber trade and industry and to repeal the Rubber Dealers Act (Chapter 279 of the 1990 Revised Edition).
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
-
-### Short title and commencement
-
-1\. This Act may be cited as the Rubber Industry Act 1992 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Rubber Industry Act.
 
 ### Interpretation
 
 2\. In this Act, unless the context otherwise requires —
 
-“Board” means the Trade Development Board established under section 3 of the Trade Development Board Act [Cap. 330];
+“Board” means the Trade Development Board established under section 3 of the Trade Development Board Act;
 
-“deal” means to broke in, purchase or sell rubber but does not include the purchase, sale or brokerage of rubber by means of a commodity futures contract within the meaning of the Commodity Futures Act 1992;
+“deal” means to broke in, purchase or sell rubber but does not include the purchase, sale or brokerage of rubber by means of a commodity futures contract within the meaning of the Commodity Futures Act;
 
 “licence” means a licence granted under section 4;
 
@@ -138,7 +116,7 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 “treat”, with its grammatical variations and cognate expressions, means to subject to any process whatsoever;
 
-“Singapore Rubber Fund” means the Singapore Rubber Fund established under section 14 of the Rubber Association of Singapore (Incorporation) Act [Cap. 278] repealed by the Trade Development Board (Amendment) Act 1992 and transferred to and administered by the Board by virtue of section 26H of the Trade Development Board Act.
+“Singapore Rubber Fund” means the Singapore Rubber Fund established under section 14 of the Rubber Association of Singapore (Incorporation) Act repealed by the Trade Development Board (Amendment) Act 1992 and transferred to and administered by the Board by virtue of section 26H of the Trade Development Board Act.
 
 ### Licence to pack, ship or deal in rubber or manufacture technically specified rubber
 
@@ -220,7 +198,7 @@ unless he is for the time being the holder of a valid licence granted under this
 
 (3) Any person who fails without lawful excuse to produce any such books, documents or rubber upon demand being made in that behalf by any such officer as aforesaid shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
 
-### Suspension or cancellation of licence, etc
+### Suspension or cancellation of licence, etc.
 
 11\.—(1) If the Board is satisfied that a person who is granted a licence under section 4 is contravening, or has contravened and is likely again to contravene, any of the conditions of the licence or the provisions of this Act or any regulations or by-laws made thereunder, the Board may, by notice in writing and without any compensation, do any of the following:
 
@@ -232,7 +210,7 @@ unless he is for the time being the holder of a valid licence granted under this
 
 (d) impose a fine not exceeding $25,000, which shall be recoverable in the same manner as a judgment debt;
 
-(e) require such person as security for his future compliance with any of the provisions of this Act or any regulations or by-laws made thereunder to deposit or give a bank guarantee for any sum not exceeding $25,000 for such period as the Board may determine, and any such sum or guarantee shall be deposited with or given, as the case may be; to the Board;
+(e) require such person as security for his future compliance with any of the provisions of this Act or any regulations or by-laws made thereunder to deposit or give a bank guarantee for any sum not exceeding $25,000 for such period as the Board may determine, and any such sum or guarantee shall be deposited with or given, as the case may be, to the Board;
 
 (f) warn him of the consequences of a further contravention; and
 
@@ -262,7 +240,7 @@ unless he is for the time being the holder of a valid licence granted under this
 
 13\.—(1) For the purposes of section 12, there shall be established an Appeal Tribunal, which shall consist of a Chairman, who shall be a person qualified to be appointed as a Judge of the Supreme Court and two other persons, all of whom shall be appointed by the Minister for a term of not less than one year and not more than 3 years.
 
-(2) Those persons who, on the date immediately before the commencement of this Act, were holding the appointments of Chairman or member of the Appeal Tribunal established under the repealed Rubber Industry Act [Cap. 280] shall be deemed to have been appointed as Chairman or member, as the case may be, of the Appeal Tribunal under subsection (1).
+(2) Those persons who, on 26th May 1992, were holding the appointments of Chairman or member of the Appeal Tribunal established under the repealed Rubber Industry Act [Cap. 280, 1985 Ed.] shall be deemed to have been appointed as Chairman or member, as the case may be, of the Appeal Tribunal under subsection (1).
 
 (3) The Appeal Tribunal may make rules governing the fees payable to the Board and the procedure to be followed on appeals under section 12.
 
@@ -376,13 +354,26 @@ unless he is for the time being the holder of a valid licence granted under this
 
 28\. The Board may, with the approval of the Minister, if it considers it to be in the public interest and not inconsistent with the purposes of this Act, exempt any person from all or any of the provisions of this Act and may revoke any such exemption.
 
-### Repeal
-
-29\. The Rubber Dealers Act [Cap. 279] and the Rubber Industry Act [Cap. 280] are repealed.
-
 ### Transitional provisions
 
-30\.—(1) Any licence granted under the repealed Rubber Dealers Act or the repealed Rubber Industry Act shall continue in force until the date of expiry provided thereunder as if it had been granted under the relevant provisions of this Act.
+29\.—(1) Any licence granted under the repealed Rubber Dealers Act [Cap. 279, 1990 Ed.] or the repealed Rubber Industry Act [Cap. 280, 1985 Ed.] shall continue in force until the date of expiry provided thereunder as if it had been granted under the relevant provisions of this Act.
 
 (2) Any order, ruling or direction made or given by the Appeal Tribunal established under the repealed Rubber Industry Act shall be entered as an order, ruling or direction of the Appeal Tribunal established under section 13 of this Act and shall have the same force and effect as if it had been made or given by the Appeal Tribunal under this Act.
 
+## LEGISLATIVE HISTORY
+
+Rubber Industry Act
+
+(CHAPTER 280)
+
+This Legislative History is provided for the convenience of users of the Rubber Industry Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 15 of 1992—Rubber Industry Act 1992**|
+||Date of First Reading|10 March 1992|
+|||(Bill No. 21/1992 published on 11 March 1992)|
+||Date of Second and Third Readings|20 March 1992|
+||Date of commencement|27 May 1992|
+|2.|**1993 Revised Edition—Rubber Industry Act**|
+||Date of operation|15 March 1993|
