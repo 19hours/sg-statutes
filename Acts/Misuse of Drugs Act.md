@@ -6,7 +6,7 @@
 
 [**Long Title**](#Misuse-of-Drugs-Act)
 
-[**Part I PRELIMINARY**](#Part-I)
+[**Part I Preliminary**](#Part-I)
 
 - [1 Short title](#Short-title)
 
@@ -16,15 +16,15 @@
 
 - [4 Advisory committees](#Advisory-committees)
 
-[**Part II OFFENCES INVOLVING CONTROLLED DRUGS**](#Part-II)
+[**Part II Offences Involving Controlled Drugs AND SUBSTANCES**](#Part-II)
 
-- [5 Trafficking in controlled drug](#Trafficking-in-controlled-drug)
+- [5 Trafficking in controlled drugs](#Trafficking-in-controlled-drugs)
 
-- [6 Manufacture of controlled drug](#Manufacture-of-controlled-drug)
+- [6 Manufacture of controlled drugs](#Manufacture-of-controlled-drugs)
 
-- [7 Importation and exportation of controlled drug](#Importation-and-exportation-of-controlled-drug)
+- [7 Importation and exportation of controlled drugs](#Importation-and-exportation-of-controlled-drugs)
 
-- [8 Possession and consumption of controlled drug](#Possession-and-consumption-of-controlled-drug)
+- [8 Possession and consumption of controlled drugs](#Possession-and-consumption-of-controlled-drugs)
 
 - [8A Consumption of drug outside Singapore by citizen or permanent resident](#Consumption-of-drug-outside-Singapore-by-citizen-or-permanent-resident)
 
@@ -44,7 +44,7 @@
 
 - [14 Offences by corporations](#Offences-by-corporations)
 
-[**Part III EVIDENCE, ENFORCEMENT AND PUNISHMENT**](#Part-III)
+[**Part III Evidence, Enforcement and Punishment**](#Part-III)
 
 - [15 Certificate of corresponding law](#Certificate-of-corresponding-law)
 
@@ -52,7 +52,7 @@
 
 - [17 Presumption concerning trafficking](#Presumption-concerning-trafficking)
 
-- [18 Presumptions of possession and knowledge of controlled drug](#Presumptions-of-possession-and-knowledge-of-controlled-drug)
+- [18 Presumption of possession and knowledge of controlled drugs](#Presumption-of-possession-and-knowledge-of-controlled-drugs)
 
 - [19 Presumption concerning premises](#Presumption-concerning-premises)
 
@@ -70,7 +70,7 @@
 
 - [26 Power to search ship, aircraft, vehicle or train and person arriving in or departing from Singapore](#Power-to-search-ship-aircraft-vehicle-or-train-and-person-arriving-in-or-departing-from-Singapore)
 
-- [27 Forfeiture of controlled drug, controlled substances and articles seized](#Forfeiture-of-controlled-drug-controlled-substances-and-articles-seized)
+- [27 Forfeiture of controlled drugs, controlled substances and articles seized](#Forfeiture-of-controlled-drugs-controlled-substances-and-articles-seized)
 
 - [28 Forfeiture of ship, hovercraft, aircraft or vehicle](#Forfeiture-of-ship-hovercraft-aircraft-or-vehicle)
 
@@ -86,9 +86,9 @@
 
 - [33A Punishment for repeat consumption of specified drugs](#Punishment-for-repeat-consumption-of-specified-drugs)
 
-[**Part IV GENERAL**](#Part-IV)
+[**Part IV General**](#Part-IV)
 
-- [34 Jurisdiction of courts](#Jurisdiction-of-courts)
+- [34 Jurisdiction of Courts](#Jurisdiction-of-Courts)
 
 - [35 Indemnity](#Indemnity)
 
@@ -116,7 +116,7 @@
 
 [**SECOND SCHEDULE Offences Punishable on Conviction**](#SECOND-SCHEDULE-Offences-Punishable-on-Conviction)
 
-[**THIRD SCHEDULE Controlled Equipment, Materials or SUBSTANCES USEFUL FOR manufacturing controlled drugs**](#THIRD-SCHEDULE-Controlled-Equipment-Materials-or-SUBSTANCES-USEFUL-FOR-manufacturing-controlled-drugs)
+[**THIRD SCHEDULE Controlled Equipment, Materials or Substances Useful for Manufacturing Controlled Drugs**](#THIRD-SCHEDULE-Controlled-Equipment-Materials-or-Substances-Useful-for-Manufacturing-Controlled-Drugs)
 
 [**FOURTH SCHEDULE Specified Drugs**](#FOURTH-SCHEDULE-Specified-Drugs)
 
@@ -126,19 +126,19 @@
 
 (CHAPTER 185)
 
-(Original Enactment: REVISED EDITION 1997)
+(Original Enactment: Reprint 2 of 1978)
 
-REVISED EDITION 1997
+REVISED EDITION 1998
 
-(30th May 1997)
+(15th December 1998)
 
-An Act for the control of dangerous or otherwise harmful drugs and for purposes connected therewith.
+An Act for the control of dangerous or otherwise harmful drugs and substances and for purposes connected therewith.
 
 [7th July 1973]
 
 ## PART I
 
-PRELIMINARY
+Preliminary
 
 ### Short title
 
@@ -150,7 +150,7 @@ PRELIMINARY
 
 “approved institution” means any institution or place declared by the Minister to be an approved institution under section 38;
 
-“article liable to seizure” means any money, thing, controlled equipment or controlled materials by means of or in respect of which an offence under this Act has been committed or which contains evidence of an offence under this Act;
+“article liable to seizure” means any money, thing, controlled equipment or controlled material by means of or in respect of which an offence under this Act has been committed or which contains evidence of an offence under this Act;
 
 “cannabis” means any part of plant of the genus Cannabis, or any part of such plant, by whatever name it is called;
 
@@ -162,11 +162,13 @@ PRELIMINARY
 
 “controlled drug” means any substance or product which is for the time being specified in Part I, II or III of the First Schedule or anything that contains any such substance or product;
 
-“controlled equipment, controlled materials or controlled substances” means any equipment, materials or substances respectively specified in the Third Schedule;
+“controlled equipment, controlled material or controlled substance” means any equipment, material or substance, respectively, specified in the Third Schedule;
 
-[Act 20/98]
+“corresponding law” means a law stated in a certificate purporting to be issued by or on behalf of the government of a country outside Singapore to be a law providing for the control and regulation in that country of —
 
-“corresponding law” means a law stated in a certificate purporting to be issued by or on behalf of the government of a country outside Singapore to be a law providing for the control and regulation in that country of the production, supply, use, export and import of drugs and other substances in accordance with the provisions of the Single Convention on Narcotic Drugs signed at New York on 30th March 1961, or a law providing for the control and regulation in that country of the production, supply, use, export and import of dangerous or otherwise harmful drugs in pursuance of any treaty, convention or other agreement or arrangement to which the government of that country and the Government of Singapore are for the time being parties;
+(a) the production, supply, use, export and import of drugs and other substances in accordance with the provisions of the Single Convention on Narcotic Drugs signed at New York on 30th March 1961; or
+
+(b) the production, supply, use, export and import of dangerous or otherwise harmful drugs in pursuance of any treaty, convention or other agreement or arrangement to which the government of that country and the Government of Singapore are for the time being parties;
 
 “drug addict” means a person who, through the use of any controlled drug, has developed —
 
@@ -184,8 +186,6 @@ PRELIMINARY
 
 (b) a controlled substance, includes any process of producing the substance and the refining or transformation of one substance into another;
 
-[Act 20/98]
-
 “officer of customs” has the same meaning as in the Customs Act (Cap. 70);
 
 “officer of the Bureau” means the Director or any officer of the Central Narcotics Bureau;
@@ -194,19 +194,17 @@ PRELIMINARY
 
 “permanent resident of Singapore” includes the holder of a Singapore blue identity card and a person who holds an entry permit or a re-entry permit issued by the Director, Singapore Immigration & Registration;
 
-[Act 20/98]
-
 “police officer” has the same meaning as in the Police Force Act (Cap. 235);
+
+“regulations” means any regulations made under this Act;
 
 “Review Committee”, in relation to an approved institution, means a Review Committee appointed for the institution under section 40;
 
 “senior officer of customs” has the same meaning as in the Customs Act (Cap. 70);
 
-“special police officer” means a member of the Special Constabulary constituted under Part VIII of the Police Force Act (Cap. 235);
+“special police officer” means a member of the Special Constabulary constituted under Part VIII of the Police Force Act;
 
 “specified drug”, except for the purposes of the Second Schedule, means a drug specified in the Fourth Schedule;
-
-[Act 20/98]
 
 “traffic” means —
 
@@ -214,11 +212,11 @@ PRELIMINARY
 
 (b) to offer to do anything mentioned in paragraph (a),
 
-otherwise than under the authority of this Act or any regulations made thereunder; and “trafficking” has a corresponding meaning;
+otherwise than under the authority of this Act or the regulations; and “trafficking” has a corresponding meaning;
 
 “Vigilante Corps” means the Vigilante Corps constituted under the Vigilante Corps Act (Cap. 343).
 
-[49/75; 12/77; 40/93]
+[49/75; 12/77; 40/93; 20/98]
 
 ### Appointment of Director and other officers of Central Narcotics Bureau
 
@@ -232,7 +230,7 @@ otherwise than under the authority of this Act or any regulations made thereunde
 
 (3) The powers and functions conferred upon the Director of the Central Narcotics Bureau under this Act, and the duties required to be discharged by him may, subject to such limitations as the Director may impose, be exercised and discharged by the Deputy Director or an Assistant Director of the Central Narcotics Bureau duly authorised by the Director to act on his behalf.
 
-[Act 20/98]
+[20/98]
 
 ### Advisory committees
 
@@ -244,17 +242,17 @@ otherwise than under the authority of this Act or any regulations made thereunde
 
 [12/77]
 
-(3) Subject to any regulations made under this Act, every such committee may regulate its own procedure.
+(3) Subject to the regulations, every such committee may regulate its own procedure.
 
 [12/77]
 
 ## PART II
 
-OFFENCES INVOLVING CONTROLLED DRUGS
+Offences Involving Controlled Drugs AND SUBSTANCES
 
-### Trafficking in controlled drug
+### Trafficking in controlled drugs
 
-5\.—(1) Except as authorised by this Act or any regulations made thereunder, it shall be an offence for a person, on his own behalf or on behalf of any other person, whether or not that other person is in Singapore to —
+5\.—(1) Except as authorised by this Act or the regulations, it shall be an offence for a person, on his own behalf or on behalf of any other person, whether or not that other person is in Singapore to —
 
 (a) traffic in a controlled drug;
 
@@ -266,17 +264,17 @@ OFFENCES INVOLVING CONTROLLED DRUGS
 
 [40/93]
 
-### Manufacture of controlled drug
+### Manufacture of controlled drugs
 
-6\. Except as authorised by this Act or any regulations made thereunder, it shall be an offence for a person to manufacture a controlled drug.
+6\. Except as authorised by this Act or the regulations, it shall be an offence for a person to manufacture a controlled drug.
 
-### Importation and exportation of controlled drug
+### Importation and exportation of controlled drugs
 
-7\. Except as authorised by this Act or any regulations made thereunder, it shall be an offence for a person to import into or export from Singapore a controlled drug.
+7\. Except as authorised by this Act or the regulations, it shall be an offence for a person to import into or export from Singapore a controlled drug.
 
-### Possession and consumption of controlled drug
+### Possession and consumption of controlled drugs
 
-8\. Except as authorised by this Act or any regulations made thereunder, it shall be an offence for a person to —
+8\. Except as authorised by this Act or the regulations, it shall be an offence for a person to —
 
 (a) have in his possession a controlled drug; or
 
@@ -286,17 +284,21 @@ OFFENCES INVOLVING CONTROLLED DRUGS
 
 (ii) a specified drug.
 
-[Act 20/98]
+[20/98]
 
 ### Consumption of drug outside Singapore by citizen or permanent resident
 
-8A\. Section 8(b) shall have effect in relation to a person who is a citizen or a permanent resident of Singapore outside as well as within Singapore where he is found as a result of urine tests conducted under section 31 to have smoked, administered to himself or otherwise consumed a controlled drug or a specified drug; and where an offence under section 8(b) is committed by such person in any place outside Singapore, he may be dealt with as if that offence had been committed within Singapore.
+8A\.—(1) Section 8(b) shall have effect in relation to a person who is a citizen or a permanent resident of Singapore outside as well as within Singapore where he is found as a result of urine tests conducted under section 31 to have smoked, administered to himself or otherwise consumed a controlled drug or a specified drug.
 
-[Act 20/98]
+[20/98]
+
+(2) Where an offence under section 8(b) is committed by a person referred to in subsection (1) in any place outside Singapore, he may be dealt with as if that offence had been committed within Singapore.
+
+[20/98]
 
 ### Possession of pipes, utensils, etc.
 
-9\. Except as authorised by this Act or any regulations made thereunder, it shall be an offence for a person to have in his possession any pipe, syringe, utensil, apparatus or other article intended for the smoking, administration or consumption of a controlled drug.
+9\. Except as authorised by this Act or the regulations, it shall be an offence for a person to have in his possession any pipe, syringe, utensil, apparatus or other article intended for the smoking, administration or consumption of a controlled drug.
 
 ### Cultivation of cannabis, opium and coca plants
 
@@ -306,57 +308,71 @@ OFFENCES INVOLVING CONTROLLED DRUGS
 
 10A\.—(1) Any person who —
 
-(a) manufactures any controlled equipment, controlled materials or controlled substances;
+(a) manufactures any controlled equipment, controlled material or controlled substance;
 
-(b) supplies any controlled equipment, controlled materials or controlled substances to another person;
+(b) supplies any controlled equipment, controlled material or controlled substance to another person;
 
-(c) has in his possession any controlled equipment, controlled materials or controlled substances; or
+(c) has in his possession any controlled equipment, controlled material or controlled substance; or
 
-(d) imports or exports any controlled equipment, controlled materials or controlled substances,
+(d) imports or exports any controlled equipment, controlled material or controlled substance,
 
-knowing or having reason to believe that the controlled equipment, controlled materials or controlled substances are to be used in or for the manufacture of a controlled drug in contravention of section 6 shall be guilty of an offence.
+knowing or having reason to believe that the controlled equipment, controlled material or controlled substance is to be used in or for the manufacture of a controlled drug in contravention of section 6 shall be guilty of an offence.
 
-(2) It shall not be a defence to a person who contravenes subsection (1)(d) in respect of any controlled equipment, controlled material or controlled substance to show that the equipment, material or substance is the subject of a licence, permit or any other form of authorisation issued or granted under any regulations made under section 10B.
+[20/98]
 
-[Act 20/98]
+(2) It shall not be a defence to a person who contravenes subsection (1) (d) in respect of any controlled equipment, controlled material or controlled substance to show that the equipment, material or substance is the subject of a licence, permit or any other form of authorisation issued or granted under any regulations made under section 10B.
+
+[20/98]
 
 ### Regulations on controlled substances
 
 10B\.—(1) The Minister may by regulations make provisions for —
 
-(a) the licensing, by such person or authority as may be prescribed, of persons who intend to import or export any controlled equipment, controlled materials or controlled substances;
+(a) the licensing, by such person or authority as may be prescribed, of persons who intend to import or export any controlled equipment, controlled material or controlled substance;
 
-(b) the regulation and control of the import or export of any controlled equipment, controlled materials or controlled substances;
+(b) the regulation and control of the import or export of any controlled equipment, controlled material or controlled substance;
 
-(c) imposing requirements for the registration of premises used in connection with the import, export, manufacture, processing, storage, distribution or supply of any controlled equipment, controlled materials or controlled substances;
+(c) imposing requirements for the registration of premises used in connection with the import, export, manufacture, processing, storage, distribution or supply of any controlled equipment, controlled material or controlled substance;
 
-(d) imposing requirements as to the documentation of transactions involving any controlled equipment, controlled materials or controlled substances;
+(d) imposing requirements as to the documentation of transactions involving any controlled equipment, controlled material or controlled substance;
 
-(e) requiring the keeping of records and the furnishing of information with respect to any controlled equipment, controlled materials or controlled substances;
+(e) requiring the keeping of records and the furnishing of information with respect to any controlled equipment, controlled material or controlled substance;
 
 (f) the inspection and production of records kept pursuant to the regulations; and
 
-(g) the labelling of consignments of any controlled equipment, controlled materials or controlled substances.
+(g) the labelling of consignments of any controlled equipment, controlled material or controlled substance.
+
+[20/98]
 
 (2) Regulations made under subsection (1) may, in particular, require —
 
-(a) the notification of the proposed exportation of any controlled equipment, controlled materials or controlled substances to such countries as may be specified in the regulations; and
+(a) the notification of the proposed exportation of any controlled equipment, controlled material or controlled substance to such countries as may be specified in the regulations; and
 
 (b) the production, in such circumstances as may be specified, of evidence that the required notification has been given,
 
-and any such equipment, materials or substances shall be deemed to be exported contrary to a restriction for the time being in force with respect to the equipment, materials or substances under such regulations if they are exported without the requisite notice being given.
+and any such equipment, material or substance shall be deemed to be exported contrary to a restriction for the time being in force with respect to the equipment, material or substance under such regulations if it is exported without the requisite notice being given.
 
-(3) Regulations made under this section may make different provisions in relation to different controlled equipment, controlled materials or controlled substances and in relation to different cases or circumstances.
+[20/98]
 
-(4) Regulations made under this section may provide that any person who contravenes or fails to comply with any provision thereof shall be guilty of an offence and shall on conviction be punished with a fine not exceeding $10,000 or with imprisonment not exceeding 3 years or with both as may be specified in the regulations.
+(3) Regulations made under this section may make different provisions in relation to different controlled equipment, controlled material or controlled substance and in relation to different cases or circumstances.
 
-(5) No information obtained pursuant to any regulations made under this section shall be disclosed except for the purposes of criminal proceedings or of proceedings under or in relation to the Drug Trafficking (Confiscation of Benefits) Act (Cap.84A).
+[20/98]
 
-[Act 20/98]
+(4) Regulations made under this section may provide that any person who contravenes or fails to comply with any provision thereof shall be guilty of an offence and shall on conviction be punished with a fine not exceeding $10,000 or with imprisonment for a term not exceeding 3 years or with both as may be specified in the regulations.
+
+[20/98]
+
+(5) No information obtained pursuant to any regulations made under this section shall be disclosed except for the purposes of criminal proceedings or of proceedings under or in relation to the Drug Trafficking (Confiscation of Benefits) Act (Cap. 84A).
+
+[20/98]
 
 ### Responsibilities of owners and tenants, etc.
 
-11\. It shall be an offence for a person being the owner, tenant, occupier or person in charge of any place or premises, to permit or suffer such place or premises or any part thereof to be opened, kept or used for the purpose of smoking, administration or consumption of any controlled drug or for unlawful trafficking in or the unlawful manufacturing of a controlled drug.
+11\. It shall be an offence for a person being the owner, tenant, occupier or person in charge of any place or premises, to permit or suffer such place or premises or any part thereof to be opened, kept or used for —
+
+(a) the purpose of smoking, administration or consumption of any controlled drug; or
+
+(b) unlawful trafficking in or the unlawful manufacturing of any controlled drug.
 
 ### Abetments and attempts punishable as offences
 
@@ -376,7 +392,7 @@ and any such equipment, materials or substances shall be deemed to be exported c
 
 ## PART III
 
-EVIDENCE, ENFORCEMENT AND PUNISHMENT
+Evidence, Enforcement and Punishment
 
 ### Certificate of corresponding law
 
@@ -388,11 +404,13 @@ EVIDENCE, ENFORCEMENT AND PUNISHMENT
 
 (b) that the terms of that law are as stated in the document; and
 
-(c) that any facts stated in the document as constituting an offence under that law do constitute such offence.
+(c) that any fact stated in the document as constituting an offence under that law does constitute such offence.
 
 ### Certificate signed by Scientific Officer
 
-16\. A certificate purporting to be signed by a Scientific Officer in the Department of Scientific Services (including the Director and Deputy Director of Scientific Services) and purporting to relate to a controlled drug or controlled substances shall be admitted in evidence, in any proceedings for an offence under this Act, on its production by the prosecution without proof of signature and, until the contrary is proved, that certificate shall be prima facie evidence of all matters contained therein.
+16\. A certificate purporting to be signed by a Scientific Officer in the Department of Scientific Services (including the Director and Deputy Director of Scientific Services) and purporting to relate to a controlled drug or controlled substance shall be admitted in evidence, in any proceedings for an offence under this Act, on its production by the prosecution without proof of signature and, until the contrary is proved, that certificate shall be prima facie evidence of all matters contained therein.
+
+[20/98]
 
 ### Presumption concerning trafficking
 
@@ -414,23 +432,19 @@ EVIDENCE, ENFORCEMENT AND PUNISHMENT
 
 (h) 25 grammes of methamphetamine; or
 
-[Act 20/98]
-
 (i) 10 grammes of any or any combination of the following:
 
-(i) N,a-dimethyl-3,4-(methylenedioxy) phenethylamine;
+(i) N, a-dimethyl-3,4-(methylenedioxy)phenethylamine;
 
-(ii) a-methyl-3,4-(methylenedioxy) phenethylamine; or
+(ii) a-methyl-3,4-(methylenedioxy)phenethylamine; or
 
-(iii) N-ethyl-a-methyl-3,4-(methylenedioxy) phenethylamine,
-
-[Act 20/98]
+(iii) N-ethyl-α−methyl-3,4-(methylenedioxy)phenethylamine,
 
 whether or not contained in any substance, extract, preparation or mixture shall be presumed to have had that drug in possession for the purpose of trafficking unless it is proved that his possession of that drug was not for that purpose.
 
-[38/89; 40/93]
+[38/89; 40/93; 20/98]
 
-### Presumptions of possession and knowledge of controlled drug
+### Presumption of possession and knowledge of controlled drugs
 
 18\.—(1) Any person who is proved to have had in his possession or custody or under his control —
 
@@ -466,7 +480,7 @@ shall, until the contrary is proved, be presumed to have had that drug in his po
 
 ### Presumption relating to urine test
 
-22\. If any controlled drug is found in the urine of a person as a result of both urine tests conducted under section 31, he shall be presumed, until the contrary is proved, to have consumed that controlled drug in contravention of section 8(b).
+22\. If any controlled drug is found in the urine of a person as a result of both urine tests conducted under section 31, he shall be presumed, until the contrary is proved, to have consumed that controlled drug in contravention of section 8 (b).
 
 [49/75; 38/89]
 
@@ -494,63 +508,79 @@ shall, until the contrary is proved, be presumed to have had that drug in his po
 
 (i) any controlled drug, controlled substance or article liable to seizure; or
 
-(ii) a person who has committed or is reasonably suspected to have committed any offence under this Act or any seizable offence under any regulations made thereunder;
-
-[Act 20/98]
+(ii) a person who has committed or is reasonably suspected to have committed any offence under this Act or any seizable offence under the regulations;
 
 (b) search any person found in that place or premises; and
 
-(c) seize and detain any controlled drug or controlled substances found in that place or premises, or any article liable to seizure.
+(c) seize and detain any controlled drug or controlled substance found in that place or premises, or any article liable to seizure.
+
+[20/98]
 
 (2) For the purpose of exercising his power under this section, an officer may, with such assistance as he considers necessary, break open any door, window, lock, fastener, floor, wall, ceiling, compartment, box, container or any other thing.
 
 ### Power of arrest
 
-25\.—(1) An officer of the Bureau, a police officer, an officer of customs, or any special police officer or member of the Vigilante Corps authorised in writing by a police officer not below the rank of Assistant Superintendent of Police, may arrest and search without a warrant any person who has committed or whom he reasonably suspects to have committed an offence under this Act or a seizable offence under any regulations made thereunder.
+25\.—(1) An officer of the Bureau, a police officer, an officer of customs, or any special police officer or member of the Vigilante Corps authorised in writing by a police officer not below the rank of Assistant Superintendent of Police, may arrest and search without a warrant any person who has committed or whom he reasonably suspects to have committed an offence under this Act or a seizable offence under the regulations.
 
-[12/77]
+[12/77; 20/98]
 
 (2) Any person so arrested shall, together with any controlled drug, controlled substance or article which is liable to seizure, be taken to the Central Narcotics Bureau, a police station or a customs station and may be searched.
 
-[49/75]
+[49/75; 20/98]
 
 (3) No woman shall be searched under this Act except by a woman.
 
 (4) An officer making an arrest under this section may seize and detain any controlled drug, controlled substance or article liable to seizure.
 
+[20/98]
+
 ### Power to search ship, aircraft, vehicle or train and person arriving in or departing from Singapore
 
 26\.—(1) An officer of the Bureau, a police officer or an officer of customs may —
 
-(a) stop, board and search any ship, hovercraft, aircraft, vehicle or train if he has reason to suspect that there is therein any controlled drug in contravention of this Act , controlled substance or any article liable to seizure;
+(a) stop, board and search any ship, hovercraft, aircraft, vehicle or train if he has reason to suspect that there is therein any controlled drug in contravention of this Act, controlled substance or any article liable to seizure;
 
 (b) search any person in that ship, hovercraft, aircraft, vehicle or train; and
 
 (c) search any person arriving in Singapore or about to depart from Singapore.
 
-(2) An officer may seize and detain any controlled drug, controlled substances or article liable to seizure as a result of any search under this section, and may seize and detain any ship, hovercraft, aircraft, vehicle or train which has been used in the commission of or in connection with an offence under this Act.
+[20/98]
 
-### Forfeiture of controlled drug, controlled substances and articles seized
+(2) An officer may seize and detain —
+
+(a) any controlled drug, controlled substance or article liable to seizure as a result of any search under this section; and
+
+(b) any ship, hovercraft, aircraft, vehicle or train which has been used in the commission of or in connection with an offence under this Act.
+
+[20/98]
+
+### Forfeiture of controlled drugs, controlled substances and articles seized
 
 27\.—(1) Whenever anything is seized under this Act, the seizing officer shall forthwith give notice in writing of the seizure to the owner of that thing, if known, either by delivering the notice to him personally or by post at his place of abode if known.
 
 (2) The notice shall not be required to be given where the seizure is made in the presence of the offender or the owner or his agent, or in the case of a ship or an aircraft, in the presence of the master or captain thereof.
 
-(3) An order for the forfeiture of any controlled drug, controlled substances or article shall be made if it is proved to the satisfaction of a court that an offence under this Act has been committed and that such controlled drug, controlled substances or article was the subject matter of or was used in the commission of the offence notwithstanding that no person may have been convicted of that offence.
+(3) An order for the forfeiture of any controlled drug, controlled substance or article shall be made if it is proved to the satisfaction of a court that an offence under this Act has been committed and that such controlled drug, controlled substance or article was the subject matter of or was used in the commission of the offence notwithstanding that no person may have been convicted of that offence.
 
-(4) If there is no prosecution with regard to any controlled drug, controlled substances or article seized under this Act, that drug, substance or article shall be deemed to be forfeited at the expiration of one month from the date of the seizure thereof unless a claim thereto has been made before that date in such manner as may be prescribed.
+[20/98]
+
+(4) If there is no prosecution with regard to any controlled drug, controlled substance or article seized under this Act, that drug, substance or article shall be deemed to be forfeited at the expiration of one month from the date of the seizure thereof unless a claim thereto has been made before that date in such manner as may be prescribed.
+
+[20/98]
 
 ### Forfeiture of ship, hovercraft, aircraft or vehicle
 
 28\.—(1) Where a person has been convicted of an offence under this Act, the court may order to be forfeited to the Government any ship, hovercraft or aircraft which has been proved to have been used in any manner in connection with the offence.
 
-(1A) Where a person has been convicted of an offence under this Act, the court shall, upon the application of the Public Prosecutor, order to be forfeited to the Government any vehicle which has been proved to have been used in any manner in connection with the offence.
+[20/98]
 
-[Act 20/98]
+(2) Where a person has been convicted of an offence under this Act, the court shall, upon the application of the Public Prosecutor, order to be forfeited to the Government any vehicle which has been proved to have been used in any manner in connection with the offence.
 
-(2) This section shall not apply to any ship or hovercraft of more than 200 tons net or to any aircraft belonging to any person carrying on a regular passenger service to and from Singapore by means of that aircraft.
+[20/98]
 
-(3) No ship, hovercraft, aircraft or vehicle shall be forfeited under this section if it is established by the owner thereof that the ship, hovercraft, aircraft or vehicle was unlawfully in the possession of another person without the consent of the owner.
+(3) This section shall not apply to any ship or hovercraft of more than 200 tons net or to any aircraft belonging to any person carrying on a regular passenger service to and from Singapore by means of that aircraft.
+
+(4) No ship, hovercraft, aircraft or vehicle shall be forfeited under this section if it is established by the owner thereof that the ship, hovercraft, aircraft or vehicle was unlawfully in the possession of another person without the consent of the owner.
 
 ### Disposal of things forfeited
 
@@ -578,11 +608,11 @@ shall, until the contrary is proved, be presumed to have had that drug in his po
 
 ### Urine tests
 
-31\.—(1) Any officer of the Bureau, immigration officer or police officer not below the rank of sergeant may, if he reasonably suspects any person to have committed an offence under section 8(b), require that person to provide a specimen of his urine for urine tests to be conducted under this section.
+31\.—(1) Any officer of the Bureau, immigration officer or police officer not below the rank of sergeant may, if he reasonably suspects any person to have committed an offence under section 8 (b), require that person to provide a specimen of his urine for urine tests to be conducted under this section.
 
 [12/77; 38/89]
 
-(2) A person who, without reasonable excuse, fails to provide a specimen of his urine within such time as may be required by any of the officers referred to in subsection (1) shall be guilty of an offence.
+(2) A person who fails, without reasonable excuse, to provide a specimen of his urine within such time as may be required by any of the officers referred to in subsection (1) shall be guilty of an offence.
 
 [12/77]
 
@@ -602,33 +632,27 @@ may be prohibited from entering or remaining in Singapore.
 
 (5) A urine test shall be conducted by a Scientific Officer in the Department of Scientific Services (including the Director and Deputy Director of Scientific Services) on one part of a specimen of urine provided under this section and, at the same time or soon thereafter, a second urine test shall be conducted on the other part of the specimen of urine by another Scientific Officer in the Department of Scientific Services (including the Director and Deputy Director of Scientific Services).
 
-[38/89]
+[38/89; 20/98]
 
 ### Power of investigation of officers of Bureau
 
-32\. In any case relating to the commission of an offence under this Act, an officer of the Bureau shall have all the powers of a police officer under the Criminal Procedure Code (Cap. 68) in relation to an investigation into a seizable offence.
+32\.—(1) In any case relating to the commission of an offence under this Act, an officer of the Bureau shall have all the powers of a police officer under the Criminal Procedure Code (Cap. 68) in relation to an investigation into a seizable offence.
 
-(1) In any case relating to the commission of an offence under this Act, an officer of the Bureau shall have all the powers of a police officer under the Criminal Procedure Code (Cap. 68) in relation to an investigation into a seizable offence.
+[49/75; 20/98]
 
-[Act 20/98]
+(2) In any case relating to the commission of an offence under the regulations —
 
-[49/75]
-
-(2) In any case relating to the commission of an offence under any regulations made under this Act —
-
-(a) where the offence is seizable, an officer of the Bureau shall have all the powers of a police officer under the Criminal Procedure Code (Cap.68) in relation to an investigation into a seizable offence; and
+(a) where the offence is seizable, an officer of the Bureau shall have all the powers of a police officer under the Criminal Procedure Code in relation to an investigation into a seizable offence; and
 
 (b) where the offence is non-seizable, an officer of the Bureau shall have all the powers of a police officer under the Criminal Procedure Code in relation to an investigation into a non-seizable offence.
 
-[Act 20/98]
-
-[49/75]
+[20/98]
 
 ### Punishment for offences
 
-33\.—(1) Except as provided in subsection (3), or under section 33A the Second Schedule shall have effect, in accordance with subsection (2), with respect to the way in which offences under this Act are punishable on conviction.
+33\.—(1) Except as provided in subsection (3) or under section 33A, the Second Schedule shall have effect, in accordance with subsection (2), with respect to the way in which offences under this Act are punishable on conviction.
 
-[12/77]
+[12/77; 20/98]
 
 (2) In relation to an offence under any provision of this Act specified in the first column of the Second Schedule (the general nature of the offence being described in the second column thereof) —
 
@@ -646,9 +670,9 @@ and in the third, fourth, fifth, sixth and seventh columns a reference to a peri
 
 [49/75]
 
-(3) If any person convicted of an offence under section 8(b) or 31(2) is again convicted of an offence under section 8(b) or 31(2), he shall on conviction be punished with imprisonment for a term of not less than 3 years unless he is punished under section 33A for that same offence.
+(3) If any person convicted of an offence under section 8 (b) or 31(2) is again convicted of an offence under section 8 (b) or 31(2), he shall on conviction be punished with imprisonment for a term of not less than 3 years unless he is punished under section 33A for that same offence.
 
-[Act 20/98]
+[20/98]
 
 (4) In subsection (3), “convicted of an offence” includes a conviction by a subordinate military court or the Military Court of Appeal constituted under the Singapore Armed Forces Act (Cap. 295).
 
@@ -666,53 +690,61 @@ and in the third, fourth, fifth, sixth and seventh columns a reference to a peri
 
 (d) one previous admission and one previous conviction for consumption of a specified drug under section 8(b);
 
-(e) one previous admission and one previous conviction for an offence of failure to provide a urine specimen under section 31(2) ; or
+(e) one previous admission and one previous conviction for an offence of failure to provide a urine specimen under section 31(2); or
 
-(f) one previous conviction for consumption of a specified drug under section 8(b) and one previous conviction for an offence of failure to provide a urine specimen under section 31(2),
+(f) one previous conviction for consumption of a specified drug under section 8 (b) and one previous conviction for an offence of failure to provide a urine specimen under section 31(2),
 
 is convicted of an offence under section 8(b) for consumption of a specified drug or an offence of failure to provide a urine sample under section 31(2), he shall on conviction be punished with —
 
 (i) imprisonment for a term of not less than 5 years and not more than 7 years; and
 
-(ii) not less than 3 and not more than 6 strokes of the cane.
+(ii) not less than 3 strokes and not more than 6 strokes of the cane.
+
+[20/98]
 
 (2) Where a person who has been punished under subsection (1) is again convicted of an offence for consumption of a specified drug under section 8(b) or an offence of failure to provide a urine specimen under section 31(2), he shall on conviction be punished with —
 
 (a) imprisonment of not less than 7 years and not more than 13 years; and
 
-(b) not less than 6 and not more than 12 strokes of the cane.
+(b) not less than 6 strokes and not more than 12 strokes of the cane.
 
-(3) A certificate purporting to be signed by an officer authorised in writing by the Director of Prisons and purporting to relate to a person"s previous admission to an approved institution under this Act shall be admissible in evidence in any proceedings under this section, on its production by the prosecution without proof of signature; and, until the contrary is proved, that certificate shall be evidence of all matters contained therein.
+[20/98]
 
-(4) A certificate purporting to be signed by the Registrar for the subordinate military courts or for the Military Court of Appeal appointed under section 82(5) of the Singapore Armed Forces Act (Cap.295) shall be admissible in evidence in any proceedings under this section, on its production by the prosecution without proof of signature; and, until the contrary is proved, that certificate shall be evidence of a person"s previous conviction by a subordinate military court or the Military Court of Appeal.
+(3) A certificate purporting to be signed by an officer authorised in writing by the Director of Prisons and purporting to relate to a person’s previous admission to an approved institution under this Act shall be admissible in evidence in any proceedings under this section, on its production by the prosecution without proof of signature; and, until the contrary is proved, that certificate shall be evidence of all matters contained therein.
+
+[20/98]
+
+(4) A certificate purporting to be signed by the Registrar for the subordinate military courts or for the Military Court of Appeal appointed under section 82(5) of the Singapore Armed Forces Act (Cap. 295) shall be admissible in evidence, in any proceedings under this section, on its production by the prosecution without proof of signature; and, until the contrary is proved, that certificate shall be evidence of a person’s previous conviction by a subordinate military court or the Military Court of Appeal.
+
+[20/98]
 
 (5) For the purposes of this section —
 
-(a) a conviction under section 8(b) by a court including a subordinate military court or the Military Court of Appeal constituted under the Singapore Armed Forces Act (Cap.295) at —
+(a) a conviction under section 8(b) by a court including a subordinate military court or the Military Court of Appeal constituted under the Singapore Armed Forces Act at —
 
-(i) any time before the commencement of the Misuse of Drugs (Amendment) Act 1998 but not before 1st October 1992 for the consumption of a controlled drug which is specified in the Fourth Schedule; or
+(i) any time before 20th July 1998 but not before 1st October 1992 for the consumption of a controlled drug which is specified in the Fourth Schedule; or
 
-(ii) any time on or after the commencement of the Misuse of Drugs (Amendment) Act 1998 for the consumption of a specified drug,
+(ii) any time on or after 20th July 1998 for the consumption of a specified drug,
 
 shall be deemed to be a previous conviction for consumption of a specified drug under section 8(b);
 
-(b) a conviction under section 31(2) for failure to provide a urine specimen by a court including a subordinate military court or the Military Court of Appeal constituted under the Singapore Armed Forces Act at any time before the commencement of the Misuse of Drugs (Amendment) Act 1998 but not before 1st October 1992 shall be deemed to be a previous conviction for an offence under section 31(2) of failure to provide a urine specimen;
+(b) a conviction under section 31(2) for failure to provide a urine specimen by a court including a subordinate military court or the Military Court of Appeal constituted under the Singapore Armed Forces Act at any time before 20th July 1998 but not before 1st October 1992 shall be deemed to be a previous conviction for an offence under section 31(2) of failure to provide a urine specimen;
 
-(c) "admission" means an admission under section 37(2) to an approved institution at —
+(c) “admission” means an admission under section 37(2) to an approved institution at —
 
-(i) any time before the commencement of the Misuse of Drugs (Amendment) Act 1998 but not before 1st October 1992 for the consumption of a controlled drug which is specified in the Fourth Schedule; or
+(i) any time before 20th July 1998 but not before 1st October 1992 for the consumption of a controlled drug which is specified in the Fourth Schedule; or
 
-(ii) any time on or after the commencement of the Misuse of Drugs (Amendment) Act 1998 for the consumption of a specified drug.
+(ii) any time on or after 20th July 1998 for the consumption of a specified drug.
 
-[Act 20/98]
+[20/98]
 
 ## PART IV
 
-GENERAL
+General
 
-### Jurisdiction of courts
+### Jurisdiction of Courts
 
-34\. A District Court or a Magistrate’s Court shall have jurisdiction to hear and determine all proceedings under this Act and, notwithstanding anything to the contrary in the Criminal Procedure Code, a District Court shall have power to impose the full penalty or punishment in respect of any offence provided by this Act except the punishment of death.
+34\. A District Court or a Magistrate’s Court shall have jurisdiction to hear and determine all proceedings under this Act and, notwithstanding anything to the contrary in the Criminal Procedure Code (Cap. 68), a District Court shall have power to impose the full penalty or punishment in respect of any offence provided by this Act except the punishment of death.
 
 [49/75]
 
@@ -724,7 +756,7 @@ GENERAL
 
 ### Protection of persons acting under authority of this Act
 
-36\. Any person who does any act in pursuance or intended pursuance of any of the provisions of this Act or any regulations made thereunder shall not be subject to any civil or criminal liability in respect thereof, whether on the ground of want of jurisdiction, mistake of law or fact, or any other ground, unless he has acted in bad faith or without reasonable care.
+36\. Any person who does any act in pursuance or intended pursuance of any of the provisions of this Act or the regulations shall not be subject to any civil or criminal liability in respect thereof, whether on the ground of want of jurisdiction, mistake of law or fact, or any other ground, unless he has acted in bad faith or without reasonable care.
 
 ### Supervision, treatment and rehabilitation of drug addicts
 
@@ -740,21 +772,21 @@ GENERAL
 
 [38/89]
 
-(6) Every person who has been admitted to an approved institution under this section shall be detained in the institution for a period of 6 months unless he is earlier discharged by the Director of the Central Narcotics Bureau or the Review Committee of the institution.
+(3) Every person who has been admitted to an approved institution under this section shall be detained in the institution for a period of 6 months unless he is earlier discharged by the Director of the Central Narcotics Bureau or the Review Committee of the institution.
 
 [12/77]
 
-(7) If the Review Committee of an approved institution is of the opinion that an inmate whose period of detention therein is about to expire requires further treatment or rehabilitation or both, the Committee may by order in writing direct that the inmate be detained in the institution for a further period or periods not exceeding 6 months at any one time.
+(4) If the Review Committee of an approved institution is of the opinion that an inmate whose period of detention therein is about to expire requires further treatment or rehabilitation or both, the Committee may by order in writing direct that the inmate be detained in the institution for a further period or periods not exceeding 6 months at any one time.
 
 [12/77]
 
-(8) No person in respect of whom an order has been made under subsection (2) shall be detained in an approved institution or institutions for a period of more than 3 years after his admission to any approved institution pursuant to that order.
+(5) No person in respect of whom an order has been made under subsection (2) shall be detained in an approved institution or institutions for a period of more than 3 years after his admission to any approved institution pursuant to that order.
 
 [12/77; 28/79]
 
 ### Approved institutions
 
-38\.—(1) The Minister may from time to time, by notification in theGazette, declare any institution or place to be an approved institution for the purpose of the treatment and rehabilitation of drug addicts and other persons under this Act and may at any time in like manner revoke or amend any such notification.
+38\.—(1) The Minister may from time to time, by notification in the Gazette, declare any institution or place to be an approved institution for the purpose of the treatment and rehabilitation of drug addicts and other persons under this Act and may at any time in like manner revoke or amend any such notification.
 
 [12/77]
 
@@ -766,21 +798,27 @@ GENERAL
 
 39\.—(1) Subject to the directions of the Minister, the general charge and administration of —
 
-(a) approved institutions, except those designated in paragraph (b), shall be under the Director of Prisons appointed under section 8 of the Prisons Act (Cap.247);
+(a) approved institutions, except those designated in paragraph (b), shall be under the Director of Prisons appointed under section 8 of the Prisons Act (Cap. 247);
 
 (b) such approved institutions, as the Minister may designate, shall be under such person as the Minister may appoint.
 
-(2) The Director of Prisons or the person appointed under subsection (1)(b), as the case may be, may appoint a person to be the superintendent of an approved institution and such person shall be responsible for the supervision and administration of that approved institution.
+[20/98]
+
+(2) The Director of Prisons or the person appointed under subsection (1) (b), as the case may be, may appoint a person to be the superintendent of an approved institution and such person shall be responsible for the supervision and administration of that approved institution.
+
+[20/98]
 
 (3) Subject to such modifications as may be made by the Director of Prisons, the standing orders issued under the Prisons Act shall apply to an approved institution under the charge of the Director as they apply to a prison.
 
-(4) The person appointed under subsection (1)(b) may in writing issue orders, to be called standing orders, for the approved institutions designated under his charge.
+[20/98]
 
-[Act 20/98]
+(4) The person appointed under subsection (1) (b) may in writing issue orders, to be called standing orders, for the approved institutions designated under his charge.
+
+[20/98]
 
 ### Review Committees for approved institutions
 
-40\.—(1) The Minister shall appoint for any approved institution or institutions a Review Committee which shall have such functions as are conferred upon it by this Act or any regulations made thereunder.
+40\.—(1) The Minister shall appoint for any approved institution or institutions a Review Committee which shall have such functions as are conferred upon it by this Act or the regulations.
 
 [12/77]
 
@@ -792,7 +830,7 @@ GENERAL
 
 [12/77]
 
-(4) Three members of the Committee shall constitute a quorum at any meeting of the Committee.
+(4) At any meeting of the Committee, 3 members of the Committee shall constitute a quorum.
 
 [12/77]
 
@@ -804,13 +842,11 @@ GENERAL
 
 [12/77]
 
-(7) Subject to the provisions of this Act and any regulations made thereunder, the Committee may determine its own procedure.
+(7) Subject to the provisions of this Act and the regulations, the Committee may determine its own procedure.
 
 [12/77]
 
 (8) Any order of the Committee may be signed by the Chairman or a member of the Committee.
-
-[39
 
 [12/77]
 
@@ -820,7 +856,7 @@ GENERAL
 
 [12/77]
 
-(2) The Director of the Central Narcotics Bureau or the Review Committee of an approved institution may at any time by order in writing —
+(2) The Director of the Central Narcotics Bureau or the Review Committee of an approved institution may at any time by order in writing –
 
 (a) discharge any inmate; or
 
@@ -834,13 +870,11 @@ GENERAL
 
 (4) On proof to his satisfaction that the presence at any place of an inmate is required in the interests of justice, or for the purpose of any inquiry, or in the public interest or in the interest of the inmate, the Superintendent may order that the inmate be taken to that place.
 
-[40
-
 [28/79]
 
 ### Power of Magistrate to inquire into complaint of misconduct or breach of duty
 
-42\.—(1) Where a complaint is made on oath to a Magistrate that any person is improperly detained in an approved institution by reason of any misconduct or breach of duty on the part of any officer in the discharge of his functions pursuant to this Act or any regulations made thereunder, the Magistrate may either inquire into the complaint himself or direct a police officer to make an inquiry for the purpose of ascertaining the truth or falsehood of the complaint and report to him the result of the inquiry.
+42\.—(1) Where a complaint is made on oath to a Magistrate that any person is improperly detained in an approved institution by reason of any misconduct or breach of duty on the part of any officer in the discharge of his functions pursuant to this Act or the regulations, the Magistrate may either inquire into the complaint himself or direct a police officer to make an inquiry for the purpose of ascertaining the truth or falsehood of the complaint and report to him the result of the inquiry.
 
 [12/77]
 
@@ -852,7 +886,7 @@ GENERAL
 
 [12/77]
 
-(4) If, after considering the result of any such inquiry, the Magistrate is satisfied that any person who is detained in an approved institution ought not to be so detained, he may make an order for the discharge of that person from the approved institution and that person shall be discharged accordingly.
+(4) If, after considering the result of any such inquiry, the Magistrate is satisfied that any person who is detained in an approved institution ought not to be so detained, the Magistrate may make an order for the discharge of that person from the approved institution and that person shall be discharged accordingly.
 
 [12/77]
 
@@ -862,8 +896,6 @@ GENERAL
 
 (6) No evidence taken for the purpose of any such inquiry shall be admissible in any civil or criminal proceedings except where the person who gave that evidence is charged with giving or fabricating false evidence.
 
-[41
-
 [12/77]
 
 ### Inmates deemed to be in legal custody
@@ -872,15 +904,13 @@ GENERAL
 
 [28/79]
 
-(2) An inmate shall be deemed to be in legal custody —
+(2) An inmate shall be deemed to be in legal custody --
 
 (a) while he is confined in, or is being taken to or from, an approved institution;
 
 (b) while he is for any other reason outside an approved institution in the custody or under the control of an officer of the approved institution; or
 
 (c) while he is being taken to any place to which he is required or authorised under this Act to be taken, or is kept in custody in pursuance of any such requirement or authorisation.
-
-[42
 
 [28/79]
 
@@ -894,7 +924,7 @@ GENERAL
 
 (c) authorising the sale or possession or other dealing in controlled drugs and prescribing the circumstances and conditions under which the persons by whom controlled drugs may be sold, had in possession or otherwise dealt in;
 
-(d) requiring medical practitioners, dentists, pharmacists, veterinary surgeons and other persons who deal in controlled drugs as may be authorised by regulations made under this Act to keep records and make returns;
+(d) requiring medical practitioners, dentists, pharmacists, veterinary surgeons and other persons who deal in controlled drugs as may be authorised by the regulations to keep records and make returns;
 
 (e) requiring any medical practitioner who attends a person whom the medical practitioner considers or has reasonable grounds to suspect is addicted to any controlled drug to furnish to the prescribed authority such particulars with respect to that person as may be prescribed;
 
@@ -910,7 +940,7 @@ GENERAL
 
 (k) providing for the treatment and rehabilitation of persons affected by the misuse of controlled drugs;
 
-(l) prescribing the punishment by a fine not exceeding $10,000 or imprisonment for a term not exceeding 4 years or both to be imposed on the conviction for a breach of any regulations made under this Act;
+(l) prescribing the punishment by a fine not exceeding $10,000 or imprisonment for a term not exceeding 4 years or both to be imposed on the conviction for a breach of the regulations;
 
 (m) providing for the management, maintenance and inspection of approved institutions;
 
@@ -920,25 +950,19 @@ GENERAL
 
 (p) prescribing the appointment and duties of officers of approved institutions;
 
-(q) providing for the supervision and aftercare of persons referred to in section 37(2)(a), or who have undergone treatment and rehabilitation at approved or other institutions or who have been convicted of an offence under section 8(b);
+(q) providing for the supervision and aftercare of persons referred to in section 37(2) (a), or who have undergone treatment and rehabilitation at approved or other institutions or who have been convicted of an offence under section 8 (b);
 
 (r) prescribing anything that may be prescribed;
 
-(s) generally for carrying out the purposes and provisions of this Act;
+(s) prescribing the functions and procedure of advisory committees;
 
-[12/77; 28/79; 38/89]
+(t) requiring the fingerprinting of inmates and the dissemination of this information to the police;
 
-(t) prescribing the functions and procedure of advisory committees;
+(u) prescribing the type of offences in the regulations which may be seizable offences for the purposes of the Criminal Procedure Code (Cap. 68); and
 
-[Act 20/98]
+(v) generally for carrying out the purposes and provisions of this Act.
 
-(u) requiring the fingerprinting of inmates and the dissemination of this information to the police; and
-
-[Act 20/98]
-
-(v) prescribing the type of offences in regulations made under this Act which may be seizable offences for the purposes of the Criminal Procedure Code (Cap.68).
-
-[Act 20/98]
+[12/77; 28/79; 38/89; 20/98]
 
 (2) Regulations made by the Minister under this section may —
 
@@ -946,17 +970,13 @@ GENERAL
 
 (b) make the opinion, consent or approval of a prescribed authority or authorised person material for the purposes of any provision; and
 
-(c) provide for the constitution and procedure of a tribunal to advise the Minister in any case of contravention of this Act or any regulations made thereunder by any medical practitioner, dentist, pharmacist, veterinary surgeon or other authorised person.
-
-[43
+(c) provide for the constitution and procedure of a tribunal to advise the Minister in any case of contravention of this Act or the regulations by any medical practitioner, dentist, pharmacist, veterinary surgeon or other authorised person.
 
 ### Power of Minister to amend First, Third and Fourth Schedules
 
 45\. The Minister may, by order published in theGazette, amend the First, Third and Fourth Schedules.
 
-[44
-
-[49/75]
+[49/75; 20/98]
 
 FIRST SCHEDULE
 
@@ -1004,11 +1024,9 @@ Betaprodine.
 
 Bezitramide.
 
-4-Bromo-2,5-dimethoxy-α-methylphenethylamine (also known as Brolamfetamine).
+4-Bromo-2,5-dimethoxy-α- methylphenethylamine (also known as Brolamfetamine).
 
-4-Bromo-2,5-dimethoxyphenethylamine.
-
-Bufotenine.
+4-Bromo-2,5- dimethoxyphenethylamine. Bufotenine.
 
 Cannabinol.
 
@@ -1044,9 +1062,9 @@ Dimenoxadole.
 
 Dimepheptanol.
 
-2, 5-Dimethoxy-∝-methylphenethylamine.
+2, 5-Dimethoxy-α−methylphenethylamine.
 
-N, ∝−διµετηψλ-3, 4-(methylenedioxy) phenethylamine.
+N, &alpha;-dimethyl-3, 4-(methylenedioxy) phenethylamine.
 
 3-(1, 2-dimethylheptyl)-1-hydroxy-7, 8, 9, 10 tetrahydro-6, 6, 9-trimethyl-6H-dibenzo [b, d] pyran.
 
@@ -1062,9 +1080,9 @@ Drotebanol.
 
 Ecgonine, and any derivative of ecgonine which is convertible to ecgonine or to cocaine.
 
-4-Ethyl-2,5-dimethoxy-∝-methylphenethylamine.
+4-Ethyl-2,5-dimethoxy-α- methylphenethylamine.
 
-N-ethyl-∝−µετηψλ-3, 4-(methylenedioxy) phenethylamine.
+N-ethyl-&alpha;-methyl-3, 4-(methylenedioxy) phenethylamine.
 
 Ethylmethylthiambutene.
 
@@ -1086,7 +1104,7 @@ Hydromorphinol.
 
 Hydromorphone.
 
-N-[∝−µετηψλ-3, 4-(methylenedioxy) phenethyl] hydroxylamine.
+N-[&alpha;-methyl-3, 4-(methylenedioxy) phenethyl] hydroxylamine.
 
 Hydroxypethidine.
 
@@ -1104,7 +1122,7 @@ Levorphanol.
 
 Lysergamide.
 
-Lysergide and otherN-alkyl derivatives of lysergamide.
+Lysergide and other N-alkyl derivatives of lysergamide.
 
 Mescaline.
 
@@ -1116,15 +1134,17 @@ Methadyl acetate.
 
 Methcathinone.
 
-3-Methoxy-∝−µετηψλ-4,5-(methylenedioxy) phenethylamine.
+3-Methoxy-α−methyl-4, 5-(methylenedioxy) phenethylamine.
 
-p-methoxy-∝−µετηψλπηενετηψλαµινε.
+p-methoxy-&alpha;-methylphenethylamine.
 
 4-methylaminorex.
 
 Methamphetamine (also known as Methylamphetamine).
 
-N-Methyl-a-ethyl-3,4-(methylenedioxy)phenethylamine.
+Methyldesorphine.
+
+N-Methyl-α-ethyl-3, 4-(methylenedioxy) phenethylamine.
 
 Methyldihydromorphine (6-methyldihydromorphine).
 
@@ -1134,7 +1154,9 @@ Morpheridine.
 
 Morphine.
 
-Morphine methobromide, morphineN-oxide and other pentavalent nitrogen morphine derivatives.
+Morphine methobromide, morphine
+
+N-oxide and other pentavalent nitrogen morphine derivatives.
 
 Myrophine.
 
@@ -1156,7 +1178,7 @@ Oxycodone.
 
 Oxymorphone.
 
-Parahexyl (3-hexyl-1-hydroxy-7, 8, 9, 10-tetrahydro-6, 6, 9-trimethyl 6H-dibenzo [b, d] pyran).
+Parahexyl (3-hexyl-1-hydroxy-7, 8, 9, 10-tetrahydro-6, 6, 9-trimethyl 6h-dibenzo [b, d] pyran).
 
 Pethidine.
 
@@ -1192,7 +1214,7 @@ Racemorphan.
 
 Rolicyclidine.
 
-a-Methyl-3,4-(methylenedioxy)phenethylamine (also known as Tenamfetamine).
+α-Methyl-3,4-(methylenedioxy) phenethylamine (also known as Tenamfetamine).
 
 Tenocyclidine.
 
@@ -1204,7 +1226,7 @@ Tilidine.
 
 Trimeperidine.
 
-3, 4, 5-trimethoxy-∝-methyphenethylamine.
+3,4,5-trimethoxy-&alpha;−methyphenethylamine.
 
 4-Cyano-2-dimethylamino-4, 4-diphenylbutane.
 
@@ -1214,11 +1236,9 @@ N, N-Diethyltryptamine.
 
 N, N-Dimethyltryptamine.
 
-2, 5-Dimethoxy-4,a-dimethylphenethylamine.
+2,5-Dimethoxy-4,α−dimethyl-phenethylamine.
 
-1-Hydroxy-3-pentyl-6a, 7, 10, 10a-tetra hydro-6, 6,
-
-9-trimethyl-6-H-dibenzo [b, d] pyran.
+1-Hydroxy-3-pentyl-6a, 7,10,10a-tetra hydro-6,6,9-trimethyl-6-H-dibenzo [b,d] pyran.
 
 1-Methyl-4-phenylpiperidine-4-carboxylic acid.
 
@@ -1230,7 +1250,7 @@ N, N-Dimethyltryptamine.
 
 2\. Any stereoisomeric form of a substance for the time being specified in paragraph 1 not being dextromethorphan or dextrorphan.
 
-3\. Any ester or ether of a substance for the time being specified in paragraph 1 or 2 not being a substance for the time being specified in Part II of this Schedule.
+3\. Any ester or ether of a substance for the time being specified in paragraph 1 or 2 not being a substance for the time being specified in Part II.
 
 4\. Any salt of a substance for the time being specified in any of paragraphs 1 to 3.
 
@@ -1342,13 +1362,13 @@ Triazolam.
 
 Part IV
 
-Meaning of Certain Expressions Used in This Schedule
+Meaning of Certain Terms Used in This Schedule
 
-For the purposes of this Schedule —
+For the purposes of this Schedule --
 
 “cannabinol derivatives” means the following substances, namely tetrahydro derivatives of cannabinol and their carboxylic acid derivatives, and 3-alkyl homologues of cannabinol or its tetrahydro derivatives;
 
-“coca leaf” means the leaf of any plant of the genusErythroxylonfrom whose leaves cocaine can be extracted either directly or by chemical transformation;
+“coca leaf” means the leaf of any plant of the genus Erythroxylon from whose leaves cocaine can be extracted either directly or by chemical transformation;
 
 “concentrate of poppy-straw” means the material produced when poppy-straw has entered into a process for the concentration of its alkaloids;
 
@@ -1358,19 +1378,19 @@ For the purposes of this Schedule —
 
 “poppy-straw” means all parts, except the seeds, of the opium poppy, after mowing.
 
-[S 88/79; S 238/83; S 229/84; S 272/84; S 31/86; S 50/90; S 564/91; S 66/92; S 262/95; S 223/96Act 40/93]
+[S 88/79; S 238/83;S 229/84;S272/84;S31/86;S50/90;S564/91;S66/92;S262/95;S223/96;S469/97;Act40/93]
 
 SECOND SCHEDULE
 
-Section 33.
+Section 33
 
 Offences Punishable on Conviction
-
-Punishment
 
 Section creating offence
 
 General nature of offence
+
+Punishment
 
 Class A drug involved
 
@@ -1384,7 +1404,7 @@ General
 
 5
 
-Unauthorised traffic in controlled drug except as otherwise provided in this Schedule
+(1) Unauthorised traffic in controlled drug except as otherwise provided in this Schedule
 
 Maximum 20 years and 15 strokes
 
@@ -1406,9 +1426,11 @@ Minimum 2 years and 2 strokes
 
 —
 
-Unauthorised traffic in opium where the quantity is —
+(2) Unauthorised traffic in opium where the quantity is –-
 
-(a) not less than 800 grammes and not more than 1200 grammes and containing not less than 20 grammes of morphine
+(a) not less than 800 grammes and not more than 1,200 grammes and containing not less than 20 grammes of morphine
+
+—
 
 —
 
@@ -1416,13 +1438,15 @@ Unauthorised traffic in opium where the quantity is —
 
 Maximum 30 years or imprisonment for life and 15 strokes
 
+—
+
 Minimum 20 years and 15 strokes
 
 —
 
-—
+(b) more than 1,200 grammes and containing more than 30 grammes of morphine
 
-(b) more than 1200 grammes and containing more than 30 grammes of morphine
+—
 
 —
 
@@ -1432,7 +1456,7 @@ Death
 
 —
 
-Unauthorised traffic in controlled drug (except opium) containing such quantity of morphine being —
+(3) Unauthorised traffic in controlled drug (except opium) containing such quantity of morphine being --
 
 (a) not less than 20 grammes and not more than 30 grammes
 
@@ -1444,11 +1468,11 @@ Unauthorised traffic in controlled drug (except opium) containing such quantity 
 
 Maximum 30 years or imprisonment for life and 15 strokes
 
+—
+
 Minimum 20 years and 15 strokes
 
-—
-
-—
+- —
 
 (b) more than 30 grammes
 
@@ -1462,7 +1486,7 @@ Death
 
 —
 
-Unauthorised traffic in controlled drug containing such quantity of diamorphine being —
+(4) Unauthorised traffic in controlled drug containing such quantity of diamorphine being --
 
 (a) not less than 10 grammes and not more than 15 grammes
 
@@ -1474,9 +1498,9 @@ Unauthorised traffic in controlled drug containing such quantity of diamorphine 
 
 Maximum 30 years or imprisonment for life and 15 strokes
 
-Minimum 20 years and 15 strokes
-
 —
+
+Minimum 20 years and 15 strokes
 
 —
 
@@ -1492,9 +1516,11 @@ Death
 
 —
 
-Unauthorised traffic in cocaine where the quantity is —
+(5) Unauthorised traffic in cocaine where the quantity is --
 
-(a) not less than 20 grammes and not more than 30 grammes —
+(a) not less than 20 grammes and not more than 30 grammes
+
+—
 
 —
 
@@ -1502,9 +1528,9 @@ Unauthorised traffic in cocaine where the quantity is —
 
 Maximum 30 years or imprisonment for life and 15 strokes
 
-Minimum 20 years and 15 strokes
-
 —
+
+Minimum 20 years and 15 strokes
 
 —
 
@@ -1520,7 +1546,7 @@ Death
 
 —
 
-Unauthorised traffic in cannabis where the quantity is —
+(6) Unauthorised traffic in cannabis where the quantity is --
 
 (a) not less than 330 grammes and not more than 500 grammes
 
@@ -1532,9 +1558,9 @@ Unauthorised traffic in cannabis where the quantity is —
 
 Maximum 30 years or imprisonment for life and 15 strokes
 
-Minimum 20 years and 15 strokes
-
 —
+
+Minimum 20 years and 15 strokes
 
 —
 
@@ -1550,9 +1576,9 @@ Death
 
 —
 
-Unauthorised traffic in cannabis mixture where the quantity is —
+(7) Unauthorised traffic in cannabis mixture where the quantity is --
 
-(a) not less than 660 grammes and not more than 1000 grammes
+(a) not less than 660 grammes and not more than 1,000 grammes
 
 —
 
@@ -1562,13 +1588,13 @@ Unauthorised traffic in cannabis mixture where the quantity is —
 
 Maximum 30 years or imprisonment for life and 15 strokes
 
+—
+
 Minimum 20 years and 15 strokes
 
 —
 
-—
-
-(b) more than 1000 grammes
+(b) more than 1,000 grammes
 
 —
 
@@ -1580,7 +1606,7 @@ Death
 
 —
 
-Unauthorised traffic in cannabis resin where the quantity is —
+(8) Unauthorised traffic in cannabis resin where the quantity is
 
 (a) not less than 130 grammes and not more than 200 grammes
 
@@ -1592,9 +1618,9 @@ Unauthorised traffic in cannabis resin where the quantity is —
 
 Maximum 30 years or imprisonment for life and 15 strokes
 
-Minimum 20 years and 15 strokes
-
 —
+
+Minimum 20 years and 15 strokes
 
 —
 
@@ -1610,9 +1636,7 @@ Death
 
 —
 
-5
-
-Unauthorised traffic in methamphetamine where the quantity is —
+(9) Unauthorised traffic in methamphetamine where the quantity is
 
 (a) not less than 167 grammes and not more than 250 grammes
 
@@ -1622,7 +1646,9 @@ Unauthorised traffic in methamphetamine where the quantity is —
 
 —
 
-Maximum 30 years or imprison-ment for life and 15 strokes
+Maximum 30 years or imprisonment for life and 15 strokes
+
+—
 
 Minimum 20 years and 15 strokes
 
@@ -1642,7 +1668,7 @@ Death
 
 6
 
-Unauthorised manufacture of controlled drug except as otherwise provided in this Schedule
+(1) Unauthorised manufacture of controlled drug except as otherwise provided in this Schedule
 
 Maximum 30 years or imprisonment for life and 15 strokes
 
@@ -1664,7 +1690,7 @@ Minimum 5 years and 5 strokes
 
 —
 
-Unauthorised manufacture of morphine, or any salt of morphine, ester of morphine or salt of ester of morphine
+(2) Unauthorised manufacture of morphine, or any salt of morphine, ester of morphine or salt of ester of morphine
 
 —
 
@@ -1676,7 +1702,7 @@ Death
 
 —
 
-Unauthorised manufacture of diamorphine or any salt of diamorphine
+(3) Unauthorised manufacture of diamorphine or any salt of diamorphine
 
 —
 
@@ -1688,7 +1714,7 @@ Death
 
 —
 
-Unauthorised manufacture of cocaine or any salt of cocaine
+(4) Unauthorised manufacture of cocaine or any salt of cocaine
 
 —
 
@@ -1700,9 +1726,7 @@ Death
 
 —
 
-6
-
-Unauthorised manufacture of methamphetamine
+(5) Unauthorised manufacture of methamphetamine
 
 —
 
@@ -1716,7 +1740,7 @@ Death
 
 7
 
-Unauthorised import or export of controlled drug except as otherwise provided in this Schedule
+(1) Unauthorised import or export of controlled drug except as otherwise provided in this Schedule
 
 Maximum 30 years or imprisonment for life and 15 strokes
 
@@ -1738,9 +1762,9 @@ Minimum 3 years and 5 strokes
 
 —
 
-Unauthorised import or export of opium where the quantity is —
+(2) Unauthorised import or export of opium where the quantity is
 
-(a) not less than 800 grammes and not more than 1200 grammes and containing not less than 20 grammes of morphine
+(a) not less than 800 grammes and not more than 1,200 grammes and containing not less than 20 grammes of morphine
 
 —
 
@@ -1750,13 +1774,13 @@ Unauthorised import or export of opium where the quantity is —
 
 Maximum 30 years or imprisonment for life and 15 strokes
 
+—
+
 Minimum 20 years and 15 strokes
 
 —
 
-—
-
-(b) more than 1200 grammes and containing more than 30 grammes of morphine
+(b) more than 1,200 grammes and containing more than 30 grammes of morphine
 
 —
 
@@ -1768,7 +1792,7 @@ Death
 
 —
 
-Unauthorised import or export of controlled drug (except opium) containing such quantity of morphine being —
+(3) Unauthorised import or export of controlled drug (except opium) containing such quantity of morphine being
 
 (a) not less than 20 grammes and not more than 30 grammes
 
@@ -1780,9 +1804,9 @@ Unauthorised import or export of controlled drug (except opium) containing such 
 
 Maximum 30 years or imprisonment for life and 15 strokes
 
-Minimum 20 years and 15 strokes
-
 —
+
+Minimum 20 years and 15 strokes
 
 —
 
@@ -1798,7 +1822,7 @@ Death
 
 —
 
-Unauthorised import or export of controlled drug containing such quantity of diamorphine being —
+(4) Unauthorised import or export of controlled drug containing such quantity of diamorphine being
 
 (a) not less than 10 grammes and not more than 15 grammes
 
@@ -1810,9 +1834,9 @@ Unauthorised import or export of controlled drug containing such quantity of dia
 
 Maximum 30 years or imprisonment for life and 15 strokes
 
-Minimum 20 years and 15 strokes
-
 —
+
+Minimum 20 years and 15 strokes
 
 —
 
@@ -1828,7 +1852,7 @@ Death
 
 —
 
-Unauthorised import or export of controlled drug containing such quantity of cocaine being —
+(5) Unauthorised import or export of controlled drug containing such quantity of cocaine being
 
 (a) not less than 20 grammes and not more than 30 grammes
 
@@ -1840,9 +1864,9 @@ Unauthorised import or export of controlled drug containing such quantity of coc
 
 Maximum 30 years or imprisonment for life and 15 strokes
 
-Minimum 20 years and 15 strokes
-
 —
+
+Minimum 20 years and 15 strokes
 
 —
 
@@ -1858,8 +1882,6 @@ Death
 
 —
 
-Unauthorised import or export of cannabis where the quantity is —
-
 (a) not less than 330 grammes and not more than 500 grammes
 
 —
@@ -1870,9 +1892,11 @@ Unauthorised import or export of cannabis where the quantity is —
 
 Maximum 30 years or imprisonment for life and 15 strokes
 
-Minimum 20 years and 15 strokes
-
 —
+
+(6) Unauthorised import or export of cannabis where the quantity is —
+
+Minimum 20 years and 15 strokes
 
 —
 
@@ -1888,11 +1912,9 @@ Death
 
 —
 
-7
+(7) Unauthorised import or export of cannabis mixture where the quantity is
 
-Unauthorised import or export of cannabis mixture where the quantity is —
-
-(a) not less than 660 grammes and not more than 1000 grammes
+(a) not less than 660 grammes and not more than 1,000 grammes
 
 —
 
@@ -1902,13 +1924,13 @@ Unauthorised import or export of cannabis mixture where the quantity is —
 
 Maximum 30 years or imprisonment for life and 15 strokes
 
+—
+
 Minimum 20 years and 15 strokes
 
-—
+--
 
-—
-
-(b) more than 1000 grammes
+(b) more than 1,000 grammes
 
 —
 
@@ -1920,7 +1942,7 @@ Death
 
 —
 
-Unauthorised import or export of cannabis resin where the quantity is —
+(8) Unauthorised import or export of cannabis resin where the quantity is
 
 (a) not less than 130 grammes and not more than 200 grammes
 
@@ -1932,11 +1954,11 @@ Unauthorised import or export of cannabis resin where the quantity is —
 
 Maximum 30 years or imprisonment for life and 15 strokes
 
+—
+
 Minimum 20 years and 15 strokes
 
-—
-
-—
+--
 
 (b) more than 200 grammes
 
@@ -1950,9 +1972,7 @@ Death
 
 —
 
-7
-
-Unauthorised import or export of methamphetamine where the quantity is —
+(9) Unauthorised import or export of methamphetamine where the quantity is —
 
 (a) not less than 167 grammes and not more than 250 grammes
 
@@ -1962,7 +1982,9 @@ Unauthorised import or export of methamphetamine where the quantity is —
 
 —
 
-Maximum 30 years or imprison-ment for life and 15 strokes
+Maximum 30 years or imprisonment for life and 15 strokes
+
+—
 
 Minimum 20 years and 15 strokes
 
@@ -1978,7 +2000,7 @@ Minimum 20 years and 15 strokes
 
 Death
 
-8(a)
+8 (a)
 
 Unauthorised possession of a controlled drug
 
@@ -2006,7 +2028,7 @@ Smoking, self-administering or consuming a controlled drug or a drug specified i
 
 —
 
-Maximum10 years or $20,000 or both
+Maximum 10 years or $20,000 or both
 
 9
 
@@ -2036,13 +2058,11 @@ Cultivation of cannabis, opium, coca plant
 
 Maximum 20 years or $40,000 or both
 
-—
-
 Minimum 3 years or $5,000 or both
 
 10A
 
-Manufacture, supply, possession, import or export of equipment, materials or substances useful for manufacture of controlled drugs.
+Manufacture, supply, possession, import or export of equipment, materials or substances useful for manufacture of controlled drugs
 
 —
 
@@ -2092,8 +2112,6 @@ Abetting or procuring the commission outside Singapore of an offence punishable 
 
 Maximum 10 years or $40,000 or both
 
-—
-
 Minimum 2 years or $4,000 or both
 
 30 (1) (a)
@@ -2109,8 +2127,6 @@ Obstructing exercise of powers
 —
 
 Maximum 3 years or $5,000 or both
-
-—
 
 Minimum 6 months or $1,000 or both
 
@@ -2128,8 +2144,6 @@ Failure to comply with lawful requirements
 
 Maximum 3 years or $5,000 or both
 
-—
-
 Minimum 6 months or $1,000 or both
 
 30 (1) (c)
@@ -2145,8 +2159,6 @@ Failure to furnish information
 —
 
 Maximum 3 years or $5,000 or both
-
-—
 
 Minimum 6 months or $1,000 or both
 
@@ -2164,7 +2176,7 @@ Furnishing false information
 
 Maximum 1 year or $5,000 or both
 
-31(2)
+31 (2)
 
 Failure to provide specimen of urine for urine test
 
@@ -2178,23 +2190,13 @@ Failure to provide specimen of urine for urine test
 
 Maximum 10 years or $20,000 or both
 
-[Act 20/98]
+[20/98]
 
 THIRD SCHEDULE
 
-Section 2
+Section
 
-Controlled Equipment, Materials or
-
-
-
-
-SUBSTANCES USEFUL FOR manufacturing
-
-
-
-
-controlled drugs
+Controlled Equipment, Materials or Substances Useful for Manufacturing Controlled Drugs
 
 Part I
 
@@ -2202,15 +2204,15 @@ Part I
 
 N-acetylanthranilic acid also known as N-Acetyl-o-aminobenzoic acid
 
-Ephedrine also known as b-Hydroxy-N-methylamphetamine
+Ephedrine also known as β-Hydroxy-N-methylamphetamine
 
-Ergometrine also known as Ergonovine or Ergobasine or [8b(S)]-9,10-Didehydro-N-(2-hydroxy-1-methylethyl)-6-methyl-6-methylergoline-8-carboxamide
+Ergometrine also known as Ergonovine or Ergobasine or [8β(Σ)]-9,10-Didehydro-N-(2-hydroxy-l-methylethyl)-6-methyl-6-methylergoline-8-carboxamide
 
-Ergotamine also known as 12"-Hydroxy-2"-methyl-5"a-(phenymethyl)ergotaman-3",6",18"-trinone
+Ergotamine also known as 12’-Hydroxy-2’-methyl-5’α−(phenymethyl) ergotaman-3’,6’,18’-trinone
 
 Isosafrole also known as 1,2-(Methylenedioxy)-4-propenylbenzene
 
-Lysergic acid also known as 9,10-Didehydro-6-methylergoline-8b-carboxylic acid
+Lysergic acid also known as 9,10-Didehydro-6-methylergoline-8β−carboxylic acid
 
 3,4-methylenedioxyphenyl-2-propanone
 
@@ -2218,11 +2220,13 @@ Lysergic acid also known as 9,10-Didehydro-6-methylergoline-8b-carboxylic acid
 
 Piperonal also known as 3,4-(Methylenedioxy)benzaldehyde or Piperonylaldehyde
 
-Pseudoephedrine also known as b-Hydroxy-N-methylamphetamine
+Pseudoephedrine also known as β-Hydroxy-N-methylamphetamine
 
 Safrole also known as 4-Allyl-1,2-methylenedioxybenzene.
 
-2\. The salts of the substances listed in paragraph 1 of this Part whenever the existence of such salts is possible.
+2. The salts of the substances listed in paragraph 1 whenever the existence of such salts is possible.
+
+[20/98]
 
 Part II
 
@@ -2232,9 +2236,9 @@ Acetic anhydride also known as Acetic oxide
 
 Acetone also known as 2-Propanone or Dimethyl ketone
 
-Anthranilic acid also known aso-Aminobenzoic acid
+Anthranilic acid also known as o-Aminobenzoic acid
 
-Ethyl ether also known as Ether or Diethyl ether or Ethyl oxide or Diethyl oxide or Ethoxyethane or 1,1"-Oxybisethane
+Ethyl ether also known as Ether or Diethyl ether or Ethyl oxide or Diethyl oxide or Ethoxyethane or 1,1’-Oxybisethane
 
 Hydrochloric acid
 
@@ -2250,9 +2254,9 @@ Sulphuric acid
 
 Toluene also known as Methylbenzene or Phenylmethane.
 
-2. The salts of the substances listed in paragraph 1 of this Part whenever the existence of such salts is possible.
+2. The salts of the substances listed in paragraph 1 whenever the existence of such salts is possible.
 
-[Act 20/98]
+[20/98]
 
 FOURTH SCHEDULE
 
@@ -2260,13 +2264,13 @@ Sections 2 and 33A
 
 Specified Drugs
 
-1\. Diamorphine
+(1) Diamorphine
 
-2\. Morphine
+(2) Morphine
 
-3. Opium
+(3) Opium.
 
-[Act 20/98]
+[20/98]
 
 ## LEGISLATIVE HISTORY
 
@@ -2347,3 +2351,5 @@ This Legislative History is provided for the convenience of users of the Misuse 
 |||(Bill No. 17/98 published on 21 April 1998)|
 ||Date of Second and Third Readings|1 June 1998|
 ||Date of commencement|20 July 1998|
+|25.|**1998 Revised Edition—Misuse of Drugs Act (Chapter 185)**|
+||Date of operation|15 December 1998|
